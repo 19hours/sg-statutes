@@ -42,6 +42,8 @@
 
 - [16 Registration of accredited checkers](#Registration-of-accredited-checkers)
 
+- [16A Appointment of accredited checkers](#Appointment-of-accredited-checkers)
+
 - [17 Independence of accredited checker](#Independence-of-accredited-checker)
 
 - [18 Building offences](#Building-offences)
@@ -54,7 +56,7 @@
 
 [**Part III DANGEROUS BUILDINGS**](#Part-III)
 
-- [22 Entrances, exits, etc., to be required in case of fire](#Entrances-exits-etc-to-be-required-in-case-of-fire)
+- [22 (Repealed)](#Repealed)
 
 - [23 Dangerous building](#Dangerous-building)
 
@@ -74,7 +76,7 @@
 
 [**Part V PREMISES USED FOR DANGEROUS TRADES OR PURPOSES**](#Part-V)
 
-- [30 Dangerous trades not to be carried on without licence](#Dangerous-trades-not-to-be-carried-on-without-licence)
+- [30 (Repealed)](#Repealed)
 
 [**Part VI MISCELLANEOUS**](#Part-VI)
 
@@ -126,7 +128,7 @@
 
 - [54 Transitional provisions](#Transitional-provisions)
 
-[**THE SCHEDULE Building works which do not require approval of plans of building works or permit to carry out building works**](#THE-SCHEDULE)
+[**THE SCHEDULE Building Works Which Do Not Require Approval of Plans of Building Works or Permit to Carry Out Building Works**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -164,17 +166,25 @@ PRELIMINARY
 
 “builder” means any person who undertakes, whether exclusively or in conjunction with any other business, to carry out any building works for his own account or for or on behalf of another person (referred to in this definition as A), but does not include any person who contracts with a builder for the execution by that person of the whole or any part of any building works undertaken by the builder for or on behalf of A under a contract entered into by the builder with A;
 
-“building” means any permanent or temporary building and includes any structure or erection of whatever kind or nature (whether permanent or temporary) and in particular —
+“building” means any permanent or temporary building or structure and includes —
 
-(a) a wall (including a retaining wall), partition, gate, fence, paling, platform, staging, post, pillar, shoring, hoarding or frame;
+(a) a hut, shed or roofed enclosure;
 
-(b) a slip, dock, wharf, pier, jetty, landing stage or landing bridge;
+(b) a wall, earth retaining or stabilising structure, partition, gate, fence, paling , platform, post, pillar, hoarding or frame;
 
-(c) a culvert, crossing, bridge, underpass or tunnel; or
+(c) a slip, dock, wharf or jetty;
 
-(d) a sewage treatment plant, sewer, drain, swimming pool or tank for the storage of any solid, liquid or gaseous matter;
+(d) a culvert, crossing, bridge, underpass or tunnel;
 
-“Building Authority” means the Director-General of Public Works;
+(e) a sewage treatment plant, sewer, drain, swimming pool or any non-proprietary type of concrete tank for the storage of any solid, liquid or gaseous product; and
+
+such other erection or structure (whether permanent or temporary) as the Minister may, by order published in theGazette, declare to be a building;
+
+[Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
+
+“Building Authority” means the Building Authority appointed under section 3(1);
+
+[Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
 
 “building regulations” means any regulations made under section 50;
 
@@ -184,7 +194,9 @@ PRELIMINARY
 
 (b) the alteration, addition or repair of a building;
 
-(c) the provision, extension or alteration of any air-conditioning service, ventilating system or fire protection system in or in connection with a building,
+(c) the provision, extension or alteration of any air-conditioning service or ventilating system in or in connection with a building,
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 and includes site formation works and any other kind of building operation connected with or carried out for the purpose of paragraph (a), (b) or (c);
 
@@ -192,7 +204,7 @@ and includes site formation works and any other kind of building operation conne
 
 “common property” has the same meaning as in the Buildings and Common Property (Maintenance and Management) Act [Cap. 30];
 
-“competent authority” means the competent authority appointed under section 3 of the Planning Act [Cap. 232, 1990 Ed.];
+“competent authority” means the competent authority appointed under section 3 of the Planning Act [Cap. 232, 1990 Ed];
 
 “immediate supervision”, in relation to any building works or part thereof, means personally and directly exercising oversight, control and inspection of the carrying out of the building works or part thereof;
 
@@ -202,25 +214,47 @@ and includes site formation works and any other kind of building operation conne
 
 “owner” —
 
-(a) in relation to any premises or building, means the person for the time being receiving the rent of the premises or building, whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises or building were let to a tenant;
+(a) in relation to any premises or building, means the person for the time being receiving the rent of the premises or building, whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises or building were let to a tenant and includes a mortgagee in possession;
 
-(b) in relation to premises to which the Control of Rent Act [Cap. 58] applies, includes the tenant of the premises; and
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
-(c) in relation to the common property of any subdivided building, includes the management corporation established under the Land Titles (Strata) Act [Cap. 158, 1988 Ed.] having control of the building or the person receiving any rent or charge for the maintenance of that common property;
+(b) in relation to premises to which the Control of Rent Act applies, includes the tenant of the premises;
+
+[Cap. 58. Act 18/95 wef 01/09/1995 vide S 370/95]
+
+[]
+
+(c) in relation to the common property of any subdivided building, includes the management corporation established under the Land Titles (Strata) Act [Cap. 158, 1988 Ed] having control of the building or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister pursuant to section 3 of the HUDC Housing Estates Act [Cap. 131];
+
+(d) in relation to the common property of residential and commercial property in any housing estate of the Housing and Development Board, means that Board; and
+
+(e) in relation to the common property of any building which is not subdivided, includes any person receiving any rent or charge for the maintenance and management of that common property;
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 “premises” includes buildings, lands, easements and hereditaments of any tenure;
 
 “qualified person” means a person who is registered as —
 
-(a) an architect under the Architects Act [Cap. 12]; or
+(a) an architect under the Architects Act 1991 and has in force a practising certificate issued under that Act; or
 
-(b) a professional engineer under the Professional Engineers Act [Cap. 253];
+[Act 22/91 wef 30/10/1991 vide S 337/91]
 
-“repealed Act” means the Building Control Act [Cap. 29, 1985 Ed.] repealed by this Act;
+(b) a professional engineer under the Professional Engineers Act 1991 and has in force a practising certificate issued under that Act;
+
+[Act 23/91 wef 30/10/1991]
+
+“repealed Act” means the Building Control Act [Cap. 29, 1985 Ed] repealed by this Act;
 
 “short-lived materials” means any building materials which are, in the absence of special care, liable to rapid deterioration or are otherwise unsuitable for use in the construction of permanent buildings;
 
 “site supervisor” means a site supervisor of building works appointed under section 10;
+
+“temporary building” means any building or structure constructed of short-lived materials or permitted to be used by the competent authority or Building Authorityfor a period not exceeding 36 months or such other period as may be prescribed;
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 “temporary occupation licence” means a temporary occupation licence issued pursuant to section 8(1) of the repealed Act;
 
@@ -234,19 +268,29 @@ and includes site formation works and any other kind of building operation conne
 
 ### Authorised officers
 
-3\.—(1) The powers conferred and the duties imposed on the Building Authority under this Act and the building regulations may be exercised and carried out by any of the following persons generally or specially authorised by name or office by the Building Authority and subject to his directions:
+3\.—(1) The Minister may appoint any person by name or office to be the Building Authority responsible for the operation and administration of this Act.
 
-(a) any officer of the Public Works Department; and
+[Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
 
-(b) a qualified person in the employment of the Government.
+(2) Subject to the directions of the Building Authority , the powers conferred and the duties imposed on the Building Authority under this Act and the building regulations may be exercised and carried out by —
 
-(2) Subject to the directions of the Building Authority, the powers conferred and the duties imposed on the Building Authority under the provisions of Part II relating to the approving of plans of building works and granting of permits to carry out building works, and under any building regulations necessary for carrying out or giving effect to those provisions may also be exercised and carried out by any qualified person who is —
+(a) any public officer; and
 
-(a) in the employment of the Housing and Development Board, the Jurong Town Corporation or such other public authority constituted by any written law as the Minister may approve for the purpose; and
+(b) any qualified person who is in the employment of —
 
-(b) generally or specially authorised by name or office by the Building Authority.
+(i) the Housing and Development Board;
 
-(3) Any qualified person who is generally or specially authorised under subsection (2) to exercise the powers or to carry out the duties of the Building Authority under this Act shall —
+(ii) the Land Transport Authority of Singapore;
+
+(iii) the Port of Singapore Authority; or
+
+(iv) such other public authority constituted by any written law as the Minister may approve for the purpose,
+
+generally or specially authorised by name or office by the Building Authority.
+
+[Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
+
+(3) Any qualified person who is generally or specially authorised under subsection (2) to exercise the powers or to carry out the duties of the under this Act shall —
 
 (a) be deemed to be public officers for the purposes of this Act; and
 
@@ -258,11 +302,15 @@ CONTROL OF BUILDING WORKS
 
 ### Application to temporary buildings, etc.
 
-4\. This Part shall not apply to —
+4\. Except as otherwise expressly provided, the provisions of this Part shall not apply to —
 
-(a) any building works for or connected with buildings which are required for a limited time or constructed of short-lived materials, or to the occupation of any such buildings; or
+(a) any temporary building or to the occupation of any such building; or
+
+[Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
 
 (b) any building works specified in the Schedule.
+
+[Act 2/91 wef 25/01/1991 vide S 43/91]
 
 ### Prohibition of building works without approval of plans and permit
 
@@ -270,7 +318,7 @@ CONTROL OF BUILDING WORKS
 
 (a) the Building Authority has approved all the plans of the building works under section 6; and
 
-(b) there is in force a permit granted by the Building Authority under section 7 to carry out the building works shown in the approved plans of the building works.
+(b) there is in force a permit granted by the Building Authorityunder section 7 to carry out the building works shown in the approved plans of the building works.
 
 (2) Notwithstanding subsection (1), a person may commence or carry out, or permit or authorise the commencement or carrying out of, building works if —
 
@@ -282,7 +330,7 @@ CONTROL OF BUILDING WORKS
 
 ### Approval of plans
 
-6\.—(1) Subject to the provisions of this Act, the person for whom any proposed building works are to be commenced or carried out may apply to the Building Authority for approval of the plans of the building works and such application shall be accompanied by —
+6\.—(1) Subject to the provisions of this Act, the person for whom any proposed building works are to be commenced or carried out may apply to the Building Authorityfor approval of the plans of the building works and such application shall be accompanied by —
 
 (a) the prescribed fee;
 
@@ -294,21 +342,47 @@ CONTROL OF BUILDING WORKS
 
 (2) The Building Authority may —
 
-(a) approve, subject to such terms and conditions as he may impose, any one or more of the plans submitted to him under subsection (1); or
+(a) approve, subject to such terms and conditions as he may impose or disapprove, any one or more of the plans submitted to him under subsection (1); or
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 (b) in writing direct the applicant to comply, within such period as may be specified in the direction, with such requirements as the Building Authority may specify for the purpose of ensuring compliance with the provisions of this Act and the building regulations.
 
-(3) If the person to whom any written direction is given under subsection (2) fails to comply with the requirements specified in the direction within the time specified therein, the Building Authority may disapprove the plans.
+(3) Subject to the provisions of this Act, every person for whom any building works are or are to be carried out shall, before making any application under subsection (1), appoint an appropriate qualified person in respect of those works.
+
+[Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
+
+(3A) The qualified person shall, within such period as may be specified by the Building Authorityor such other period as may be extended by the Building Authority, comply with any written direction given by the Building Authority under subsection (2) and resubmit the plan of the building works, failing which the plans shall be deemed to have been disapproved by the Building Authority .
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
+(3B) Where an application for the approval of the detailed structural plans of any building works is accompanied by the certificate of an accredited checker as required under subsection (1)(c) certifying that, to the best of the knowledge and belief of the accredited checker, the detailed structural plans and design calculations which are checked and reviewed by him do not show any inadequacy in the key structural elements of the building shown therein, the Building Authority may, without checking those plans or design calculations, approve those plans on the basis of the certificate and evaluation report of the accredited checker.
+
+[Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
+
+(3C) Notwithstanding subsection (3B), the Building Authority may, in his discretion, carry out random checks on any of the detailed structural plans and design calculations of any building works before approving those plans under that subsection.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 (4) Where the plans of any building works or proposed building works have been approved by the Building Authority under subsection (2)(a) and the person for whom the building works are or are to be carried out intends to depart or deviate from the plans approved, that person shall apply to the Building Authority for his approval of the plans showing the proposed departure or deviation and such application shall be accompanied by the latter plans and, unless otherwise prescribed, by a certificate by an accredited checker in respect of such of the latter plans relating to the structural elements of the building works or proposed building works stating that, to the best of the knowledge and belief of the accredited checker, those plans do not show any inadequacy in the key structural elements of the building to be erected or affected by building works carried out in accordance with those plans.
 
-(5) Any approval granted in respect of building works under this section shall automatically lapse —
+(5) Any approval granted in respect of buildings works under this section shall automatically lapse —
 
-(a) in cases where written permission has been granted by the competent authority under the Planning Act [Cap. 232, 1990 Ed.] in respect of any development of land involving the building works, if the written permission lapses pursuant to section 10(7) of that Act;
+(a) in cases where written permission has been granted by the competent authority under the Planning Act [Cap. 232, 1990 Ed] in respect of any development of land involving the building works, if the written permission lapses pursuant to section 10(7) of that Act;
 
 (b) if the building works are not commenced within the prescribed period; or
 
-(c) in cases where no written permission is granted under section 9 of the Planning Act in respect of those building works, if the building works are suspended for a continuous period of more than 6 months.
+(c) in cases where no written permission is granted under section 10(5) of the Planning Act in respect of those building works, if the building works are suspended for a continuous period of more than 6 months.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
+(6) The Building Authority may at any time revoke any approval granted in respect of any building works under subsection (2)(a) if he is satisfied that any information given in the application for approval or any document submitted to the Building Authority in respect of the application for approval is false in a material particular.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
+(7) Where the Building Authority has revoked under subsection (6) any approval granted in respect of any building works, any permit, certificate of statutory completion and temporary occupation permit granted in respect of the building works under this Act shall automatically lapse.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 ### Permit to carry out building works
 
@@ -316,7 +390,9 @@ CONTROL OF BUILDING WORKS
 
 (a) a notification, signed by the person for whom the building works are to be commenced or carried out, of the date upon which the building works are to be commenced;
 
-(b) a confirmation signed by the qualified person of his appointment in respect of the building works under section 9;
+(b) a confirmation signed by the qualified person of his appointment in respect of the building works under section 6(3);
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 (c) where appropriate, a notification signed by the qualified person of the appointment of a site supervisor in respect of the building works and a confirmation of the appointment signed by the site supervisor;
 
@@ -360,17 +436,19 @@ CONTROL OF BUILDING WORKS
 
 ### Appointment and duties of qualified persons
 
-9\.—(1) Subject to the provisions of this Act, every person for whom any building works are or are to be carried out shall appoint an appropriate qualified person in respect of those works.
+9\.—(1) (Deleted by Act 18/95 wef 1.9.95 vide S 370/95).
 
-(2) If any qualified person appointed under subsection (1) becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under subsection (4) —
+(2) If any qualified person appointed under section 6(3) becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under this Act —
 
 (a) the qualified person shall, within 14 days of his ceasing to carry out his duties, notify the Building Authority and the builder of the building works of the fact; and
 
 (b) the builder shall cease or shall not commence the building works until the person for whom the building works are being or are to be carried out appoints another appropriate qualified person in respect of those building works.
 
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
 (3) Where the person for whom any building works are or are to be carried out appoints a qualified person pursuant to subsection (2)(b), he shall, within 7 days, notify the Building Authority of the appointment.
 
-(4) Every qualified person appointed under this section in respect of building works shall —
+(4) Every qualified person appointed under section 6(3) shall —
 
 (a) take all reasonable steps and exercise due diligence in supervising and inspecting the building works to ensure that the building works are being carried out in accordance with the provisions of this Act and, subject to section 14, the building regulations, with the plans approved in respect thereof by the Building Authority and with any terms and conditions imposed by the Building Authority;
 
@@ -386,6 +464,8 @@ CONTROL OF BUILDING WORKS
 
 (g) supply to the site supervisor and builder of building works a copy of every plan of those building works approved by the Building Authority.
 
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
 (5) If any person contravenes or fails to comply with subsection (2)(b), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
 (6) Any qualified person who contravenes or fails to comply with subsection (4)(a), (b), (c), (d) or (e) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction:
@@ -396,23 +476,31 @@ Provided that it shall be a defence in any prosecution for a contravention or no
 
 ### Appointment and duties of site supervisor
 
-10\.—(1) Where the structural elements of any building works are required by section 8(1)(b) to be carried out under the full-time supervision of a site supervisor, the qualified person appointed under section 9 in respect of those building works shall appoint not less than one site supervisor in respect of the structural elements of those building works.
+10\.—(1) Where the structural elements of any building works are required by section 8(1)(b) to be carried out under the full-time supervision of a site supervisor, the qualified person appointed under section 6(3) in respect of those building works shall appoint not less than one site supervisor in respect of the structural elements of those building works.
 
-(2) Where the critical structural works of any building works are required by section 8(1)(c) to be carried out under the immediate supervision of a site supervisor or qualified person, the qualified person appointed under section 9 in respect of the building works may appoint one or more site supervisors in respect of the critical structural works of those building works.
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
-\*(3) No person shall be appointed as a site supervisor in respect of any building works for the purposes of this Act unless he possesses the prescribed practical experience and qualifications.
+(2) Where the critical structural works of any building works are required by section 8(1)(c) to be carried out under the immediate supervision of a site supervisor or qualified person, the qualified person appointed under section 6(3) in respect of the building works may appoint one or more site supervisors in respect of the critical structural works of those building works.
 
-\*Section 10(3) has not been brought into operation.
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
+1(3) No person shall be appointed as a site supervisor in respect of any building works for the purposes of this Act unless he possesses the prescribed practical experience and qualifications.
+
+[S 490/92 wef 04/12/1992]
+
+1Section 10(3)
 
 (4) If a site supervisor appointed in respect of any building works becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under subsection (5) —
 
 (a) the site supervisor shall, within 7 days of his ceasing to carry out such duties, notify the Building Authority of that fact; and
 
-(b) the qualified person appointed under section 9 in respect of those building works shall —
+(b) the qualified person appointed under section 6(3) in respect of those building works shall —
 
 (i) appoint another site supervisor in his stead; and
 
 (ii) notify the Building Authority of such appointment within 7 days thereof.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 (5) Every site supervisor of building works shall take all reasonable steps and exercise due diligence in giving —
 
@@ -458,7 +546,9 @@ Provided that it shall be a defence in any prosecution for a contravention of or
 
 ### Tests of or in connection with building works
 
-12\.—(1) Subject to subsection (3), the qualified person appointed under section 9 in respect of the structural elements of any building works shall carry out or cause to be carried out such tests of or in connection with the building works as may be prescribed or required by the Building Authority.
+12\.—(1) Subject to subsection (3), the qualified person appointed under section 6(3) in respect of the structural elements of any building works shall carry out or cause to be carried out such tests of or in connection with the building works as may be prescribed or required by the Building Authority.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 (2) Any tests that may be prescribed, or required to be carried out, under subsection (1) shall be carried out in such manner and at such places and times as may be prescribed in the building regulations.
 
@@ -482,7 +572,7 @@ Provided that it shall be a defence in any prosecution for a contravention of or
 
 (c) such work or alteration to the building or building works to be carried out as may be necessary to cause the same to comply with the provisions of this Act and the building regulations or otherwise to put an end to the contravention thereof,
 
-and, in every case, the order shall specify —
+and, in every case, the order shall specify all or any of the following:
 
 (i) the manner in which the demolition, work or alteration specified in the order is to be carried out;
 
@@ -492,23 +582,37 @@ and, in every case, the order shall specify —
 
 (iv) that the demolition, work or alteration shall be carried out with due diligence to the satisfaction of the Building Authority.
 
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
 (2) An order made under subsection (1) shall be served —
 
-(a) where a building has been erected, on the owner of the building; or
+(a) where a building has been erected, on the owner or occupier of the building; or
+
+[Act 2/91 wef 25/01/1991 vide S 43/91]
 
 (b) where building works are being carried out, on the person for whom the works are carried out or the builder carrying out the building works.
 
-(3) If an order made under subsection (1) is not complied with, the Building Authority may demolish, remove or alter, or cause to be demolished, removed or altered, such building or building works or take such other steps as appear to the Building Authority to be necessary and may recover all expenses reasonably incurred by him in the exercise of his powers under this section from the person in default.
+(3) If an order made under subsection (1) is not complied with, the Building Authority may demolish, remove or alter, or cause to be demolished, removed or altered, such building or building works or take such other steps as appear to the Building Authority to be necessary, including ordering the closure of the building, and may recover all expenses reasonably incurred by him in the exercise of his powers under this section from the person in default.
+
+[Act 2/91 wef 25/01/1991 vide S 43/91]
 
 (4) Without prejudice to the right of the Building Authority to exercise his powers under subsection (3), if any person on whom an order made under subsection (1) is served fails to comply with the order, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
 (5) The Building Authority may seize any materials resulting from the carrying out of any work under subsection (3).
 
+(6) This section shall apply to any building works, whether or not for or connected with any temporary building.
+
+[Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
+
 ### Modification or waiver of building regulations
 
-14\.—(1) The Building Authority may on receipt of an application in relation to any particular building works modify or waive, subject to such terms and conditions as he may impose, any of the requirements of the building regulations.
+14\.—(1) The Building Authority may on receipt of an application in relation to any particular building works, advertisements, signboards or skysigns modify or waive, subject to such terms and conditions as he may impose, any of the requirements of the building regulations.
 
-(2) Every application under subsection (1) shall be made to the Building Authority by or on behalf of the person for whom building works are being or are to be carried out and shall be in such form as may be required by the Building Authority and shall state the nature and extent of and reasons for the proposed modification or waiver of those requirements and shall be accompanied by such plans and other particulars as may be prescribed.
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
+(2) Every application under subsection (1) shall be made to the Building Authority by or on behalf of the person for whom building works, advertisements, signboards or skysigns are being or are to be carried out and shall be in such form as may be required by the Building Authority and shall state the nature and extent of and reasons for the proposed modification or waiver of those requirements and shall be accompanied by such plans and other particulars as may be prescribed.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 ### Register of accredited checkers
 
@@ -548,13 +652,29 @@ except that the Building Authority shall not exercise his powers under paragraph
 
 (9) Any person whose name has been removed from the register of accredited checkers under subsection (6)(b), (c), (d) or (e) shall, if his appeal to the Minister is allowed, be forthwith reinstated.
 
+### Appointment of accredited checkers
+
+16A\.—(1) Every person for whom building works are or are to be commenced or carried out shall, unless otherwise prescribed, appoint an accredited checker in respect of the detailed structural plans and design calculations of the building works.
+
+(2) Every accredited checker appointed under subsection (1) shall check the detailed structural plans and design calculations of the building works in accordance with the building regulations and shall carry out such other duties as may be prescribed by those regulations.
+
+(3) Any accredited checker who contravenes or fails to comply with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding one year or to both.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
 ### Independence of accredited checker
 
 17\.—(1) At the time of the making by an accredited checker of a certificate under section 6(1)(c) or (4), the accredited checker shall have no professional or financial interest in the building works shown in the plans described in his certificate.
 
 (2) An accredited checker shall be regarded as having a professional or financial interest in any building works if —
 
-(a) he is or has been responsible for the design or construction of any of the building works in any capacity;
+(a) he is or has been responsible for the design or construction of the building or any of the building works in any capacity except building works relating to the alterations of the building which —
+
+(i) do not affect any key structural element; or
+
+(ii) affect any structural element but the effects are localised in nature and do not require any strengthening of any key structural element;
+
+[Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
 
 (b) he or any nominee of his is a member, officer or employee of a company or other body which has a professional or financial interest in the building works; or
 
@@ -573,6 +693,22 @@ except that the Building Authority shall not exercise his powers under paragraph
 (b) entitlement to any fee paid for his function as an accredited checker,
 
 shall not be regarded as constituting a professional or financial interest.
+
+(5) Any accredited checker who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding one year or to both.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
+(6) The Minister may, by notification in theGazette, exempt from subsection (1) any building or building works owned by or to be carried out for —
+
+(a) the Housing and Development Board;
+
+(b) the Land Transport Authority of Singapore;
+
+(c) the Port of Singapore Authority; or
+
+(d) any other public authority constituted by any written law.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 ### Building offences
 
@@ -596,13 +732,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Occupation of building
 
-20\.—(1) Except as otherwise provided in this Act, no building or part of a building where any building works have been carried out, shall be occupied in any way unless the Building Authority has issued a certificate of statutory completion in respect of that building or that part of the building:
+20\.—(1) Except as otherwise provided in this Act, no person shall occupy, or permit or cause to be occupied, any building or any part thereof where any building works have been carried out unless the Building Authority has issued a certificate of statutory completion in respect of that building or that part of the building:
 
 Provided that nothing in this subsection shall prohibit —
 
 (a) the occupation by any person of any building or part thereof for the sole purpose of preventing any damage to the building or part thereof or any theft of any property therein; or
 
 (b) the occupation by any person of any building in respect of which a temporary occupation permit has been granted.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 (2) The Building Authority may, on an application in the prescribed manner in relation to any building, grant a temporary occupation permit in respect of the building subject to such written directions as the Building Authority may specify and, in particular, those written directions may —
 
@@ -640,21 +778,15 @@ is refused, or is granted by the Building Authority subject to terms and conditi
 
 DANGEROUS BUILDINGS
 
-### Entrances, exits, etc., to be required in case of fire
+Entrances, exits, etc., to be required in case of fire
 
-22\.—(1) If it appears to the Building Authority that a building is not provided with such means of escape in case of fire as the Building Authority considers satisfactory, regard being had to the purposes for which the building is used and the number of persons likely to resort to the building at any one time, the Building Authority may by order require the owner of the building to execute such work and make such provision as may be necessary to remedy the defect and if the owner fails to comply with the order, the Building Authority may execute the order in such manner as he thinks fit and may recover all expenses reasonably incurred by him in doing so from the owner in default.
-
-(2) If the Building Authority is satisfied that the safety of the public requires that immediate action should be taken in the case of any building as respects which he has given an order under subsection (1), he may by further order in writing served on the owner of the building require the closure of the building to, or restricting its use by, the public and if the owner fails to comply with the order, the Building Authority may execute the order in such manner as he thinks fit and recover all expenses reasonably incurred by him in doing so from the owner in default.
-
-(3) Without prejudice to the right of the Building Authority to exercise his powers under subsection (1) or (2), any person who, without reasonable excuse, fails to comply with an order served on him under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
-
-(4) The owner of any building shall take steps to secure that the means of escape in case of fire within the building are kept free and unobstructed and if he fails to do so, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+22\. [Repealed by Act 18/95 wef 01/09/1995 wef 01/09/1995 videS 370/95]
 
 ### Dangerous building
 
 23\.—(1) If it appears to the Building Authority that a building is in such a condition, or is used to carry such loads, as to be or likely to be dangerous, the Building Authority may —
 
-(a) where danger arises or is likely to arise from the condition of the building, make an order requiring the owner thereof to do all or any of the following within such time as may be specified:
+(a) where danger arises or is likely to arise from the condition of the building, make an order requiring the owner thereof to do all or any of the following within such time as may be specified;
 
 (i) to carry out or cause to be carried out such inspection of the building as he may specify;
 
@@ -698,6 +830,10 @@ he may, if he considers it necessary, take such steps as may be necessary for th
 
 25\.—(1) Where the Building Authority makes any order under this Act requiring the closure of any building, the order (referred to in this section as a closure order) shall be served on the owner and every occupier of the building.
 
+(1A) A closure order may require the owner or occupier of the building to which the order relates to cease to inhabit the building and to remove all goods, furniture and effects from the building before the closure order comes into force.
+
+[Act 2/91 wef 25/01/1991 vide S 43/91]
+
 (2) Except with the permission in writing of the Building Authority, no person other than a public officer in the course of his duty shall enter or be in a building at any time while a closure order is in force in respect of the building and any person who contravenes or fails to comply with this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $200 for every day during which the offence continues after conviction.
 
 (3) Where the Building Authority thinks fit, he may, subject to such conditions as he may impose, by notice in writing permit any person to enter and be in a building while a closure order is in force in respect of the building.
@@ -706,11 +842,17 @@ he may, if he considers it necessary, take such steps as may be necessary for th
 
 (5) Where a closure order is in force in respect of a building —
 
-(a) any police officer may, with such force or assistance as may be necessary, remove therefrom any person who is in the building in contravention of subsection (1); and
+(a) any police officer may, with such force or assistance as may be necessary, remove therefrom any person who is in the building in contravention of subsection (2);
 
-(b) the Building Authority may seal, or cause to be sealed, all or any of the entrances to or exits from the building.
+[Act 2/91 wef 25/01/1991 vide S 43/91]
 
-(6) A closure order shall remain in force in respect of a building until the Building Authority has served a notice of expiry of a closure order on the owner of the building by causing the notice to be posted upon a conspicuous part of the building to which it relates and by serving a copy of the notice upon the owner.
+(b) the Building Authority may seal, or cause to be sealed, all or any of the entrances to or exits from the building; and
+
+(c) the Building Authority or any police officer may remove all goods, furniture and effects from the building.
+
+[Act 2/91 wef 25/01/1991 vide S 43/91]
+
+(6) A closure order shall remain in force in respect of a building until the Building Authority had served a notice of expiry of a closure order on the owner of the building by causing the notice to be posted upon a conspicuous part of the building to which it relates and by serving a copy of the notice upon the owner.
 
 (7) Every notice of expiry of a closure order shall specify the building to which it relates and the date upon which the closure order expires.
 
@@ -720,19 +862,33 @@ INSPECTION OF BUILDINGS
 
 ### Interpretation of this Part
 
-26\.—(1) In this Part —
+26\.—(1) In this part —
 
-“building” shall not include part of a building;
+“building”, shall not include part of a building;
 
-“owner”, in relation to a subdivided building comprising two or more flats, means —
+“owner”, in relation to —
 
-(a) the management corporation established under the Land Titles (Strata) Act [Cap. 158, 1988 Ed.] having control of the building; or
+(a) a subdivided building comprising two or more flats, means —
 
-(b) the person receiving any rent or charge for the maintenance of the common property of the subdivided building;
+(i) the management corporation established under the Land Titles (Strata) Act [Cap. 158] having control of the building; or
+
+(ii) the person receiving any rent or charge for the maintenance and management of the common property of the building;
+
+(b) the common property of any building comprising two or more flats, means —
+
+(i) the person receiving any rent or charge for the maintenance and management of the common property of the building;
+
+(ii) any body corporate constituted under an order made by the Minister pursuant to section 3 of the HUDC Housing Estates Act [Cap. 131]; and
+
+(c) the common property of residential and commercial property in any housing estate of the Housing and Development Board, means that Board;
+
+[Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
 
 “special building” means any building of which not less than 90% of its floor area is used solely for residential purposes, and in this definition, “floor area” means the total area of floor space within the building measured between party walls including the thickness of external walls;
 
-“structural engineer” means a person who is registered as a professional engineer under the Professional Engineers Act [Cap. 253] in the civil or structural engineering discipline.
+“structural engineer” means a person who is registered under the Professional Engineers Act 1991 in the civil or structural engineering discipline and who has in force a practising certificate issued under that Act authorising him to engage in civil or structural engineering work.
+
+[Act 23/91 wef 30/08/1991 vide S 347/91]
 
 (2) For the purposes of this Part, a building which is physically connected with another building —
 
@@ -746,7 +902,9 @@ INSPECTION OF BUILDINGS
 
 (a) detached houses, semi-detached houses, terraced or linked houses which are used solely by the owners or occupiers thereof solely as their residence; and
 
-(b) buildings which are required for a limited time or constructed of short-lived materials.
+(b) temporary buildings.
+
+[Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
 
 ### Periodical inspection of buildings
 
@@ -754,23 +912,47 @@ INSPECTION OF BUILDINGS
 
 (2) In relation to any building to which this Part applies, a notice under subsection (1) may be made —
 
-(a) where the building (other than a special building) is used other than solely for residential purposes — after the fifth year commencing from the date the first certificate of statutory completion was issued in respect of the building and thereafter at intervals of not less than 5 years from the completion of the last inspection of the building under this section; or
+(a) where the building (other than a special building) is used other than solely for residential purposes — after the fifth year commencing from the date the first certificate of statutory completion was issued in respect of the building and thereafter at intervals of not less than 5 years from the date of the last notice under this section; or
 
-(b) where the building is a special building or is used solely for residential purposes — after the tenth year commencing from the date the first certificate of statutory completion was issued in respect of the building and thereafter at intervals of not less than 10 years from the date of the completion of the last inspection of the building under this section.
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
-(3) Every owner of a building to which this Part applies shall, on receipt of a notice under subsection (1), cause the building to be inspected in the prescribed manner by a structural engineer appointed by the owner and if the notice is not complied with, the Building Authority may inspect the building or cause the building to be so inspected by a structural engineer appointed by him and may recover all expenses reasonably incurred by the Building Authority in the exercise of his powers under this subsection from the owner of the building.
+(b) where the building is a special building or is used solely for residential purposes — after the tenth year commencing from the date the first certificate of statutory completion was issued in respect of the building and thereafter at intervals of not less than 10 years from the date of the last notice under this section.
 
-(4) The structural engineer who is appointed by the owner of a building or the Building Authority under subsection (3) to carry out an inspection of a building under this section shall be entitled at all reasonable times to full and free access to the building and any part thereof he is required to inspect and any person who hinders, obstructs or delays the structural engineer in the performance of his duty shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day during which the offence continues after conviction.
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
-(5) A structural engineer appointed under subsection (3) to carry out an inspection of a building under this section shall —
+(3) Every owner of a building to which this Part applies shall, on receipt of a notice under subsection (1), cause the building to be inspected within the period specified in the notice and in the prescribed manner by a structural engineer appointed by the owner.
 
-(a) carry out the inspection in a prescribed manner;
+[Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
+
+(3A) Where a building comprising two or more flats is not subdivided and there are subsisting leases for those flats registered under the Registration of Deeds Act [Cap. 269] or the Land Titles Act [Cap. 157], the owners of those flats shall, on receipt of a notice under subsection (1), jointly appoint a structural engineer to inspect the building within such time as may be specified in the notice and in the prescribed manner.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
+(4) The structural engineer who is appointed by the owner of a building to carry out an inspection of a building under this section shall be entitled at all reasonable times to full and free access to the building and any part thereof he is required to inspect and any person who hinders, obstructs or delays the structural engineer in the performance of his duty shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day during which the offence continues after conviction.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
+(5) A structural engineer appointed to carry out an inspection of a building under this section shall —
+
+(a) carry out the inspection in the prescribed manner;
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 (b) on completion of the inspection, prepare and sign a report of the result of the inspection; and
 
 (c) serve a copy of the report on the Building Authority within such period as the Building Authority may specify in the notice under subsection (1).
 
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
+(5A) Where the report of the result of the inspection of a building prepared under subsection (5)(b) contains any measure or other building works recommended by the structural engineer to be carried out to ensure the structural stability or integrity of the building, the owner of the building shall, within such period as may be specified by the Building Authority , carry out such measure or building works as is recommended by the structural engineer in the report.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
 (6) Without prejudice to the right of the Building Authority to exercise his powers under subsection (3), any owner of a building who contravenes or fails to comply with a notice under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+(6A) Any owner of a building who fails to comply with subsection (3), (3A) or (5A) within the period specified in the notice under subsection (1) or within the period specified under subsection (5A), as the case may be, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 (7) Any structural engineer who contravenes or fails to comply with subsection (5)(a), (b) or (c) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
@@ -782,7 +964,13 @@ INSPECTION OF BUILDINGS
 
 (2) A structural engineer shall be regarded as having a professional or financial interest in any building if —
 
-(a) he has been responsible for the design or construction of the building or any part thereof in any capacity;
+(a) he is or has been responsible for the design or construction of the building or any of the building works in any capacity except building works relating to the alterations of the building which —
+
+(i) do not affect any key structural element; or
+
+(ii) affect any structural element but the effects are localised in nature and do not require any strengthening of any key structural element;
+
+[Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
 
 (b) he or any nominee of his is a member, officer or employee of a company or other body which has a professional or financial interest in the building or any part thereof;
 
@@ -804,37 +992,25 @@ INSPECTION OF BUILDINGS
 
 shall not be regarded as constituting a professional or financial interest.
 
+(5) The Minister may, by notification in theGazette, exempt from subsection (1) any building or building works owned by or to be carried out for —
+
+(a) the Housing and Development Board;
+
+(b) the Mass Rapid Transit Corporation;
+
+(c) the Port of Singapore Authority; or
+
+(d) any other public authority constituted by any written law.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
 ## PART V
 
 PREMISES USED FOR DANGEROUS TRADES OR PURPOSES
 
-### Dangerous trades not to be carried on without licence
+Dangerous trades not to be carried on without licence
 
-30\.—(1) No premises shall, except in accordance with a licence from the Building Authority, be used by any person for any of the following trades or purposes:
-
-(a) tallow-melting and candle making;
-
-(b) making or storing matches, fireworks, carbide or any industrial gas;
-
-(c) making or storing charcoal;
-
-(d) a sawmill or place for depositing or storing coal, wood, timber, attap or other combustible materials otherwise than for domestic use in that place;
-
-(e) a foundry or smithy;
-
-(f) the manufacture, storage, treatment, smoking or preparation of rubber in any form;
-
-(g) the manufacture, storage or treatment of cinematograph or other films;
-
-(h) a garage or place kept or used for repairing, painting, washing, storing, housing or parking motor vehicles or a place where a pump is maintained from which petrol or oil is supplied to motor vehicles, except a garage or place used in connection with a private dwelling-house and kept for private use only; and
-
-(i) such other trades or purposes as the Minister may, by notification in theGazette, specify.
-
-(2) The Building Authority may at any time suspend or revoke any licence under subsection (1) without assigning any reason.
-
-(3) Any person who uses or permits to be used any premises without a licence for any of the trades or purposes specified in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
-
-(4) Where the Building Authority is satisfied that any premises have been or are being used in contravention of this section, he may enter the premises and seize any movable property by means of or in respect of which an offence under this section has been or is being committed or which contains evidence of such an offence and which is found therein.
+30\. [Repealed by Act 18/95 wef 01/09/1995 wef 01/09/1995 videS 370/95]
 
 ## PART VI
 
@@ -853,6 +1029,10 @@ MISCELLANEOUS
 33\.—(1) No liability shall lie against the Government or any public officer by reason of the fact that any building works are carried out in accordance with the provisions of this Act or that such building works or plans of the building works are subject to inspection or approval by the Building Authority or the public officer, nor shall anything in this Act make it obligatory for the Building Authority to inspect any building or building works or the site of any proposed building to ascertain whether the provisions of this Act are complied with or whether any plans, certificates, notices or other documents submitted to him are accurate.
 
 (2) No matter or thing done by the Building Authority or by any public officer shall if it were done bona fide for the purpose of carrying out the provisions of this Act subject him or such person personally to any action, liability, claim or demand whatsoever.
+
+(3) Where the Building Authority provides any information to any person in respect of any building or building works by electronic or other means, neither the Government, the Building Authority nor any public officer shall be liable for any loss or damage suffered by any person by reason of any error or omission of whatever nature or howsoever caused, including any defect or breakdown in the electronic equipment used for providing the information, if such error or omission is made in good faith and in the ordinary course of duties of the Building Authority or public officer.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 ### Power to enter premises
 
@@ -884,7 +1064,7 @@ Provided that those documents, books or records shall not be required to be prod
 
 (2) Where anything is required under this Act to be done by the owner of a building, and there is more than one owner of such building, it shall be a defence to any prosecution for failing to do that thing —
 
-(a) that such thing was done by another owner of the building; or
+(a) that such thing was done by another owner of the building ; or
 
 (b) that any notice or order in respect of such thing required under this Act to be served on the owner was served on another owner of the building and not on the person charged.
 
@@ -916,7 +1096,7 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (4) A certificate purporting to be under the hand of the Building Authority and to be made under subsection (2) and setting forth the amount claimed as due to the Building Authority and the persons as liable for the payment thereof shall be prima facie evidence of the facts certified therein and of the signature of the Building Authority thereto.
 
-(5) If any sum or any part thereof due to the Building Authority under this Act remains unpaid at the expiration of one month commencing from the date of service of the certificate under subsection (2), or such further period as the Building Authority may allow, it shall be deemed to be arrears and the provisions of sections 67 to 74 of the Local Government Integration Act [Cap. 166] shall, mutatis mutandis, apply to its recovery by the Building Authority.
+(5) If any sum or any part thereof due to the Building Authority under this Act remains unpaid at the expiration of one month commencing from the date of service of the certificate under subsection (2), or such further period as the Building Authority may allow, it shall be deemed to be arrears and the provisions of sections 67 to 74 of the Local Government Integration Act [Cap. 166] shall, mutatis mutandis, apply to its recovery by the Building Authority .
 
 ### Recovery of costs and expenses by instalments
 
@@ -926,7 +1106,7 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 ### Power to vary interest rates
 
-40\. The Minister may, at any time by notification in theGazette, vary the rates of interest specified in sections 38(3) and 39(1).
+40\. The Minister may, at any time by notification in theGazette, vary the rates of interest specified in section 38(3) and 39(1).
 
 ### Liability of transferor of property in respect of expenses incurred by Building Authority
 
@@ -936,13 +1116,21 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 ### Property and things seized or removed by Building Authority
 
-42\.—(1) Any property or materials seized by the Building Authority in the exercise of his powers under this Act may be forfeited to the Government and sold or otherwise disposed of by the Building Authority unless a claim is made by the person to whom the property or materials belong within two weeks of the seizure in which case the property or materials may be returned to the person on such terms and conditions as the Building Authority may impose.
+42\.—(1) Any property or materials seized or removed by the Building Authority in the exercise of his powers under this Act may be forfeited to the Government and sold or otherwise disposed of by the Building Authority unless a claim is made by the person to whom the property or materials belong within two weeks of the seizure or removal in which case the property or materials may be returned to the person on such terms and conditions as the Building Authority may impose.
 
-(2) Where the Building Authority sells any property or materials under subsection (1) (other than property or materials seized under section 30), the Building Authority shall pay the proceeds of the sale to the owner to whom the property or materials belonged after deducting the amount of any expenses recoverable by the Building Authority from him.
+[Act 2/91 wef 25/01/1991 vide S 43/91]
+
+(2) Where the Building Authority sells any property or materials under subsection (1), the Building Authority shall pay on demand the proceeds of the sale to the owner to whom the property or materials belonged after deducting the amount of any expenses recoverable by the Building Authority from him.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
+(3) Any proceeds of sale of property or materials under this section not claimed within two years of the sale shall be paid into the Consolidated Fund.
+
+[Act 2/91 wef 25/01/1991 vide S 43/91]
 
 ### Service of documents
 
-43\.—(1) Any notice, order or document required or authorised to be served under this Act may be served —
+43\.—(1) Any notice, order or document required or authorised to be served under this Act shall be deemed to be sufficiently served —
 
 (a) by delivering a copy thereof personally or by leaving it with some adult person at the last known place of abode of the person on whom the notice is to be served;
 
@@ -950,7 +1138,17 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (c) by sending it by registered post addressed to the person on whom the notice is to be served at his usual or last known place of abode or business.
 
+[Act 2/91 wef 25/01/1991 vide S 43/91]
+
+(1A) Any notice, order or document required or authorised to be served under this Act on the owner or occupier of any premises or building shall also be deemed to be sufficiently served by delivering a copy thereof personally to some adult person on the premises or building or, if there is no such person to whom it can with reasonable diligence be delivered, by affixing the notice, order or document to some conspicuous part of the premises or building.
+
+[Act 2/91 wef 25/01/1991 vide S 43/91]
+
 (2) A notice, order or document required or authorised by this Act to be served on the owner or the occupier of any premises shall be deemed to be properly addressed if addressed by the description of the “owner” or “occupier” of the premises without further name or description.
+
+(3) Any notice, order or document to be issued by the Building Authority under this Act or the building regulations may be issued in such form as the Building Authority may determine and every such notice, order or document shall be valid if the signature of the Building Authority or any officer authorised under this Act is duly printed or written thereon.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 ### Furnishing of information
 
@@ -976,9 +1174,13 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (3) All records and other documents required by this Act or the building regulations to be kept by the Building Authority shall be deemed to be public documents and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies, or extracts, as the case may be, subscribed by that officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts.
 
+(4) Where any information in respect of any building or building works is provided by the Building Authority by electronic means, the production of any document under the hand of a public officer responsible of providing such information purporting to be a hard-copy transcript of all or any such information shall, in all courts and in all proceedings, be sufficient evidence of the information provided electronically and all courts shall in all proceedings take judicial notice of the signature of the public officer.
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
 ### Magistrate’s and District Courts may impose full penalty
 
-47\. Notwithstanding the provisions of the Criminal Procedure Code [Cap. 68], a Magistrate’s Court or a District Court shall have power to impose the maximum penalties provided for an offence under this Act.
+47\. Notwithstanding the provisions of the Criminal Procedure Code, a Magistrate’s Court or a District Courts shall have power to impose the maximum penalties provided for an offence under this Act.
 
 ### General penalty
 
@@ -1010,11 +1212,11 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (iii) underpinning;
 
-(e) the planning, design and construction of buildings, including —
+(e) the design and construction of buildings including —
 
 (i) the preparation of sites for building works;
 
-(ii) arcades and footways adjacent to the buildings;
+(ii) (Deleted by Act 18/95 wef 1.9.95 vide S 370/95).
 
 (iii) projections;
 
@@ -1028,23 +1230,21 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (viii) the suitability and use of materials and components;
 
+[Act 18/95 wef 01/09/1995 vide S 370/95]
+
 (f) the demolition of buildings and the safety precautions to be taken in respect thereof;
 
-(g) prohibiting or regulating the use or occupation of buildings;
+(g) prohibiting or regulating the occupation of buildings;
+
+[Act 18/95 wef 01/09/1995 vide S 370/95]
 
 (h) the control and regulation of measures for energy conservation in buildings;
 
 (i) the provision of embankments and retaining walls;
 
-(j) fire precautions within buildings or proposed buildings, including —
+(j) (Deleted by Act 18/95 wef 1.9.95 vide S 370/95).
 
-(i) structural measures to resist the outbreak and spread of fire and to mitigate its effects;
-
-(ii) services, fittings and equipment designed to mitigate the effects of fire or to facilitate fire fighting;
-
-(iii) means of escape in case of fire;
-
-(k) the control, regulation and supervision by registration, licensing or otherwise of premises used for any trade or purpose specified in section 30;
+(k) (Deleted by Act 18/95 wef 1.9.95 vide S 370/95).
 
 (l) measures for the construction, installation and inspection of lifts and escalators;
 
@@ -1072,7 +1272,9 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 51\.—(1) Any building regulations made under section 50 may adopt wholly or partially or as amended by the regulations or by reference any code, standard, rule, specification or provision which relates to any matter with which the building regulations deal and which is —
 
-(a) recommended, issued or adopted by the Singapore Institute of Standards and Industrial Research;
+(a) recommended, issued or adopted by the Singapore Productivity and Standards Board;
+
+[Act 1/96 wef 01/04/1996 vide S 141/96]
 
 (b) recommended, issued or adopted by —
 
@@ -1082,9 +1284,13 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (c) included in any document issued by any Government department or issued by any public authority constituted by any written law.
 
-(2) The Building Authority shall cause a copy of every code, standard, rule, specification or provision adopted pursuant to subsection (1) (other than a code, standard, rule, specification or provision recommended, issued or adopted by the Singapore Institute of Standards and Industrial Research) to be made available for inspection by members of the public without charge at the office of the Building Authority during normal office hours.
+(2) The Building Authority shall cause a copy of every code, standard, rule, specification or provision adopted pursuant to subsection (1) (other than a code, standard, rule, specification or provision recommended, issued or adopted by the Singapore Productivity and Standards Board) to be made available for inspection by members of the public without charge at the office of the Building Authority during normal office hours.
 
-(3) In any proceedings under the building regulations, a copy certified by the Building Authority as a true copy of a code, standard, rule, specification or provision adopted pursuant to subsection (1) (other than a code, standard, rule, specification or provision recommended, issued or adopted by the Singapore Institute of Standards and Industrial Research) shall be evidence of the code, standard, rule, specification or provision so adopted.
+[Act 1/96 wef 01/04/1996 vide S 141/96]
+
+(3) In any proceedings under the building regulations, a copy certified by the Building Authority as a true copy of a code, standard, rule, specification or provision adopted pursuant to subsection (1) (other than a code, standard, rule, specification or provision recommended, issued or adopted by the Singapore Productivity and Standards Board) shall be evidence of the code, standard, rule, specification or provision so adopted.
+
+[Act 1/96 wef 01/04/1996 vide S 141/96]
 
 ### Amendment of Schedule
 
@@ -1100,7 +1306,17 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (2) A valid and subsisting certificate of fitness for occupation issued under regulations made under the repealed Act or a valid and subsisting temporary occupation licence shall have the same force and effect as a certificate of statutory completion or temporary occupation permit, respectively, granted under this Act.
 
-(3) The powers conferred on the Building Authority by this Act may be exercised in respect of any building or structure erected in contravention of, or deemed to be unauthorised under, any written law relating to building control in force before 1st May 1989, and such building or structure shall be deemed to be unauthorised for the purposes of this Act.
+(3) Any temporary permit, permission or other similar document issued in respect of a temporary building under any written law relating to building control in force before 1st February 1960 shall be presumed, until the contrary is proved, to have lapsed or expired; and for the purposes of this section, “temporary building” means a building which is required for a limited time or constructed of short-lived materials.
+
+(3A) The powers conferred on the Building Authority by this Act may be exercised in respect of —
+
+(a) any building erected in contravention of, or deemed to be unauthorised under, any written law relating to building control in force before 1st May 1989; and
+
+(b) any temporary building in respect of which no temporary permit, permission or other similar document issued under any such written law relating to building control or this Act is in force,
+
+and such building shall be deemed unauthorised for the purposes of this Act.
+
+[Subst. by Act 2/91 wef 25/01/1991vide S 43/91]
 
 (4) Where any written law or document refers expressly or by implication to a temporary occupation licence or to a certificate of fitness for occupation, the reference shall (except where the context otherwise requires) be construed as a reference to a temporary occupation permit or a certificate of statutory completion, respectively.
 
@@ -1108,17 +1324,7 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 Section 4
 
-Building works which do not require
-
-
-
-
-approval of plans of building works or
-
-
-
-
-permit to carry out building works
+Building Works Which Do Not Require Approval of Plans of Building Works or Permit to Carry Out Building Works
 
 1. In this Schedule —
 
@@ -1178,7 +1384,7 @@ permit to carry out building works
 
 10\. Installation of any roller shutter or grilled door in the front of any shop or warehouse unit which is not air-conditioned provided the roller shutter or grilled door is not installed at exits or protected staircases in the shop or warehouse unit.
 
-11\. Alterations to any lightweight demountable partitions of units within any commercial complex provided they do not form the building envelope or part of any compartment wall or part thereof, or affect any means of escape or fire fighting or protection system.
+11\. Alterations to any lightweight demountable partitions of units within any commercial complex provided they do not form the building envelope or part of any compartment wall or part thereof, or effect any means of escape or fire fighting or protection system.
 
 12\. Air-conditioning works where the cooling capacity of any individual equipment does not exceed 30kW and the works do not affect any compartment wall, compartment floor, protected shaft, any fire protection equipment and the structural integrity of the building.
 
@@ -1209,3 +1415,8 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of commencement|1 May 1989|
 |2.|**1990 Revised Edition—Building Control Act**|
 ||Date of operation|15 March 1990|
+|3.|**Act 2 of 1991—Building Control (Amendment) Act 1990**|
+||Date of First Reading|9.11.90|
+|||(Bill No. 31/90 published on 12.11.90)|
+||Date of Second and Third Readings|20.12.90|
+||Date of commencement|25 January 1991|
