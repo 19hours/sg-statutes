@@ -150,8 +150,6 @@ PRELIMINARY
 
 (b) an officer of customs within the meaning of section 3 of the Customs Act (Cap. 70);
 
-“Board” means the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act (Cap. 330);
-
 “bring in transit” means to bring goods from any country into Singapore by land, water or air, where the goods are to be taken out from Singapore on the same conveyance on which they are brought into Singapore without any landing in Singapore, but does not include the passage through Singapore in accordance with international law of a foreign conveyance carrying goods;
 
 “computer” has the same meaning as in section 2(1) of the Computer Misuse Act (Cap. 50A);
@@ -162,7 +160,7 @@ PRELIMINARY
 
 “device” means any tangible medium in which information, visual images, sounds or other data is or are recorded, stored or embodied in any form so as to be capable (with or without the aid of other equipment) of being retrieved or produced therefrom;
 
-“Director-General” means the Director-General of Customs and Excise appointed under section 4(1) of the Customs Act (Cap. 70);
+“Director-General” means the Director-General of Customs appointed under section 4(1) of the Customs Act (Cap. 70);
 
 “export” means to take out from Singapore goods by land, water or air, and includes the placing of the goods in a conveyance for the purpose of taking the goods out from Singapore; but does not include the taking out from Singapore of goods that have been brought in transit or transhipped;
 
@@ -364,39 +362,43 @@ that is authorised by a permit.
 
 ### Permits
 
-7\.—(1) An application for a permit to carry out an act referred to in section 5(1)(a), (b) or (d) or (2)(a) or (b) shall be made to the Director-General.
+7\.—(1) An application for a permit to carry out an act —
 
-(2) An application for a permit to carry out an act referred to in section 5(1)(c) or (2)(c), or to carry out an act referred to in section 6(1) in relation to —
+(a) referred to in section 5(1) or (2); or
 
-(a) any goods referred to in section 6(2)(b); or
+(b) referred to in section 6(1) in relation to —
 
-(b) any technology referred to in section 6(3) or any document in which such technology is recorded, stored or embodied,
+(i) any goods referred to in section 6(2)(b); or
 
-shall be made to the Board.
+(ii) any technology referred to in section 6(3) or any document in which such technology is recorded, stored or embodied,
 
-(3) An application for a permit shall be made in such manner and form as the Director-General or the Board may determine, and shall be accompanied by such fee as may be prescribed.
+shall be made to the Director-General.
 
-(4) The Director-General or the Board may, subject to the regulations made under subsection (8), grant a permit to the applicant and may impose such conditions on him as the Director-General or the Board thinks fit.
+[6/2003 wef 01/04/2003]
 
-(5) The Director-General or the Board may, subject to the regulations made under subsection (8), renew a permit with or without conditions, or cancel a permit.
+(3) An application for a permit shall be made in such manner and form as the Director-General may determine, and shall be accompanied by such fee as may be prescribed.
 
-(6) A person aggrieved by a decision of the Director-General or the Board not to grant or renew a permit, or to cancel a permit, may appeal to the Minister whose decision shall be final.
+(4) The Director-General may, subject to the regulations made under subsection (8), grant a permit to the applicant and may impose such conditions on him as the Director-General thinks fit.
 
-(7) The Director-General or the Board may delegate any of his or its powers under this section to a senior authorised officer.
+(5) The Director-General may, subject to the regulations made under subsection (8), renew a permit with or without conditions, or cancel a permit.
+
+(6) A person aggrieved by a decision of the Director-General not to grant or renew a permit, or to cancel a permit, may appeal to the Minister whose decision shall be final.
+
+(7) The Director-General may delegate any of his powers under this section to a senior authorised officer.
 
 (8) The Minister may make regulations to prescribe the class or classes of permits that may be granted, the time, form and manner of application for a permit, the conditions of a permit, the circumstances under which an application may be granted or refused, or a permit may be cancelled, renewed or replaced, and the fees payable in respect thereof.
 
 ### Registration
 
-8\.—(1) An application for registration to carry out an act referred to in section 6(1) in relation to goods referred to in section 6(2)(a) shall be made to the Board in such manner and form as the Board may determine, and shall be accompanied by such fee as may be prescribed.
+8\.—(1) An application for registration to carry out an act referred to in section 6(1) in relation to goods referred to in section 6(2)(a) shall be made to the Director-General in such manner and form as the Director-General may determine, and shall be accompanied by such fee as may be prescribed.
 
-(2) The Board may, subject to the regulations made under subsection (6), register the applicant and may impose such conditions on him as the Board thinks fit.
+(2) The Director-General may, subject to the regulations made under subsection (6), register the applicant and may impose such conditions on him as the Director-General thinks fit.
 
-(3) The Board may, subject to the regulations made under subsection (6), renew any registration with or without conditions, or cancel or suspend any registration.
+(3) The Director-General may, subject to the regulations made under subsection (6), renew any registration with or without conditions, or cancel or suspend any registration.
 
-(4) A person aggrieved by a decision of the Board not to register him or renew his registration, or to cancel or suspend his registration, may appeal to the Minister whose decision shall be final.
+(4) A person aggrieved by a decision of the Director-General not to register him or renew his registration, or to cancel or suspend his registration, may appeal to the Minister whose decision shall be final.
 
-(5) The Board may delegate any of itspowers under this section to a senior authorised officer.
+(5) The Director-General may delegate any of his powers under this section to a senior authorised officer.
 
 (6) The Minister may make regulations to prescribe different classes of registration, the time, form and manner of application for registration, the duration of any registration, the conditions of registration, the circumstances under which an application may be granted or refused, or any registration may be suspended, cancelled, extended or renewed, and the fees payable in respect thereof.
 
