@@ -28,7 +28,7 @@
 
 - [11 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
 
-- [12 Powers of investment](#Powers-of-investment)
+- [12 Power of investment](#Power-of-investment)
 
 - [13 Annual report](#Annual-report)
 
@@ -294,17 +294,11 @@ and shall be signed by these persons.
 
 [26/2002]
 
-### Powers of investment
+### Power of investment
 
-12\. The Agency may
+12\. The Agency may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-(a) invest its moneys in such securities and other investments as it thinks fit, including the deposit of moneys with financial institutions and other business or professional bodies; and
-
-(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
-
-[10
-
-[26/2002]
+[45/2004 wef 15/12/2004]
 
 ### Annual report
 
@@ -643,6 +637,12 @@ This Legislative History is provided for the convenience of users of the Agency 
 |||(item (18) in the Schedule)|
 |6.|**2002 Revised Edition—Agency for Science, Technology and Research Act**|
 ||Date of operation|31 December 2002|
+|7.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 Agency for Science, Technology and Research Act
