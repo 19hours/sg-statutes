@@ -12,7 +12,7 @@
 
 - [3 Acceptance of Agreement](#Acceptance-of-Agreement)
 
-- [4 Financial provision for membership subscription](#Financial-provision-for-membership-subscription)
+- [4 Financial provision for membership subscriptions and contributions](#Financial-provision-for-membership-subscriptions-and-contributions)
 
 - [5 Issue of non-negotiable notes and creation of other obligations](#Issue-of-non-negotiable-notes-and-creation-of-other-obligations)
 
@@ -26,7 +26,7 @@
 
 - [10 Power to make regulations](#Power-to-make-regulations)
 
-[**THE SCHEDULE Provisions Having Force of Law**](#THE-SCHEDULE)
+[**THE SCHEDULE Provisions having force of law**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -70,9 +70,11 @@ An Act to enable Singapore to become a member of the International Development A
 
 (ii) taken all steps necessary to enable the Government to carry out all its obligations under the Agreement and the membership resolution.
 
-### Financial provision for membership subscription
+### Financial provision for membership subscriptions and contributions
 
-4\.—(1) Subject to subsection (2), there shall be charged and paid out of the Consolidated Fund all sums necessary for the purpose of making all payments of subscriptionson behalf of the Government required to be made to the Association under the Agreement and the membership resolution.
+4\.—(1) Subject to subsection (2), there shall be charged and paid out of the Consolidated Fund all sums necessary for the purpose of making all payments of subscriptions and other contributions on behalf of the Government required to be made to the Association under the Agreement and the membership resolution.
+
+[10/2004 wef 15/05/2004]
 
 (2) The total subscription to the Association shall not exceed the sum of one million United States dollars unless increased with the approval of Parliament signified by resolution.
 
@@ -118,7 +120,7 @@ An Act to enable Singapore to become a member of the International Development A
 
 Section 8
 
-Provisions Having Force of Law
+Provisions having force of law
 
 Article VIII
 
@@ -126,7 +128,7 @@ Status, Immunities And Privileges
 
 SECTION 1 Purposes of Article
 
-To enable the Association to fulfill the functions with which it is entrusted, the status, immunities and privileges provided in this Article shall be accorded to the Association in the territories of each member\.
+To enable the Association to fulfill the functions with which it is entrusted, the status, immunities and privileges provided in this Article shall be accorded to the Association in the territories of each member.
 
 SECTION 2 Status of the Association
 
@@ -138,25 +140,25 @@ The Association shall possess full juridical personality and, in particular, the
 
 (iii) to institute legal proceedings.
 
-SECTION 3 Position of The Association with Regard to Judicial Process
+SECTION 3 Position of the Association with Regard to Judicial Process
 
-Actions may be brought against the Association only in a court of competent jurisdiction in the territories of a member in which the Association has an office, has appointed an agent for the purpose of accepting service or notice of process, or has issued or guaranteed securities\. No actions shall, however, be brought by members or persons acting for or deriving claims from members. The property and assets of the Association shall, wheresoever located and by whomsoever held, be immune from all forms of seizure, attachment or execution before the delivery of final judgment against the Association.
+Actions may be brought against the Association only in a court of competent jurisdiction in the territories of a member in which the Association has an office, has appointed an agent for the purpose of accepting service or notice of process, or has issued or guaranteed securities. No actions shall, however, be brought by members or persons acting for or deriving claims from members. The property and assets of the Association shall, wheresoever located and by whomsoever held, be immune from all forms of seizure, attachment or execution before the delivery of final judgment against the Association.
 
 SECTION 4 Immunity of Assets from Seizure
 
-Property and assets of the Association, wherever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of seizure by executive or legislative action\.
+Property and assets of the Association, wherever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of seizure by executive or legislative action.
 
 SECTION 5 Immunity of Archives
 
-The archives of the Association shall be inviolable\.
+The archives of the Association shall be inviolable.
 
 SECTION 6 Freedom of Assets from Restrictions
 
-To the extent necessary to carry out the operations provided for in this Agreement and subject to the provisions of this Agreement, all property and assets of the Association shall be free from restrictions, regulations, controls and moratoria of any nature\.
+To the extent necessary to carry out the operations provided for in this Agreement and subject to the provisions of this Agreement, all property and assets of the Association shall be free from restrictions, regulations, controls and moratoria of any nature.
 
 SECTION 7 Privilege for Communications
 
-The official communications of the Association shall be accorded by each member the same treatment that it accords to the official communications of other members\.
+The official communications of the Association shall be accorded by each member the same treatment that it accords to the official communications of other members.
 
 SECTION 8 Immunities and Privileges of Officers and Employees
 
@@ -168,7 +170,7 @@ All Governors, Executive Directors, Alternates, officers and employees of the As
 
 (iii) shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials and employees of comparable rank of other members.
 
-SECTION 9 Immunities from Taxation
+SECTION 9 Immunities from Taxation 
 
 (a) The Association, its assets, property, income and its operations and transactions authorised by this Agreement, shall be immune from all taxation and from all customs duties. The Association shall also be immune from liability for the collection or payment of any tax or duty.
 
@@ -188,7 +190,7 @@ SECTION 9 Immunities from Taxation
 
 SECTION 10 Application of Article
 
-Each member shall take such action as is necessary in its own territories for the purpose of making effective in terms of its own law the principles set forth in this Article and shall inform the Association of the detailed action which it has taken\.
+Each member shall take such action as is necessary in its own territories for the purpose of making effective in terms of its own law the principles set forth in this Article and shall inform the Association of the detailed action which it has taken.
 
 ## LEGISLATIVE HISTORY
 
@@ -196,14 +198,19 @@ International Development Association Act
 
 (CHAPTER 144A)
 
-This Legislative History is provided for the convenience of users of the International Development Association Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the International Development Association Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
 |1.|**Act 11 of 2002—International Development Association Act 2002**|
-||Date of First Reading|5.4.2002|
-|||(Bill No. 4/2002 published on 6.4.2002)|
-||Date of Second and Third Readings|8.7.2002|
-||Date of commencement|1.8.2002|
+||Date of First Reading|5 April 2002|
+|||(Bill No. 4/2002 published on 6 April 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|1 August 2002|
 |2.|**2003 Revised Edition—International Development Association Act**|
 ||Date of operation|31 July 2003|
+|3.|**Act 10 of 2004—International Development Association (Amendment) Act 2004**|
+||Date of First Reading|17 March 2004|
+|||(Bill No. 11/2004 published on 18 March 2004)|
+||Date of Second and Third Readings|19 April 2004|
+||Date of commencement|15 May 2004|
