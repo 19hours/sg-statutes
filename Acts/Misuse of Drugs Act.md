@@ -1248,6 +1248,8 @@ Diethylthiambutene.
 
 Difenoxin.
 
+Dihydroetorphine.
+
 Dihydromorphine.
 
 Dimenoxadole.
@@ -1403,6 +1405,8 @@ Racemethorphan.
 Racemoramide.
 
 Racemorphan.
+
+Remifentanil.
 
 Rolicyclidine.
 
@@ -2557,3 +2561,5 @@ This Legislative History is provided for the convenience of users of the Misuse 
 |||(Bill No. 5/2000 published on 18 January 2000)|
 ||Date of Second and Third Readings|21 February 2000|
 ||Date of commencement|17 April 2000|
+|28.|**G. N. No. S 232/2000—Misuse of Drugs Act (Amendment of First Schedule) Order 2000**|
+||Date of commencement|15 May 2000|
