@@ -150,12 +150,7 @@ ACCOUNTING OFFICERS
 
 ## PART III
 
-CONTROL AND MANAGEMENT OF PUBLIC FINANCES
-
-
-
-
-OF SINGAPORE
+CONTROL AND MANAGEMENT OF PUBLIC FINANCES OF SINGAPORE
 
 ### Powers of Minister
 
@@ -267,7 +262,7 @@ Provided that this subsection shall not apply to sums issued from the Consolidat
 
 (b) is withdrawn from the Consolidated Fund in accordance with subsection (4).
 
-(3) (a) The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to meet expenditure —
+(3)(a) The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to meet expenditure —
 
 (i) appropriated by a Supply or Supplementary Supply law or any other law or approved by resolution of Parliament in accordance with Article 148A(2) of the Constitution; or
 
@@ -275,13 +270,17 @@ Provided that this subsection shall not apply to sums issued from the Consolidat
 
 Provided that the aggregate of such sums under each head of expenditure shall not exceed the total sum so approved.
 
-(b) The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to meet —
+(b)
+
+The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to meet —
 
 (i) expenditure approved by resolution of Parliament in accordance with Article 148B(2) of the Constitution with which the President concurs; or
 
 (ii) expenditure approved by the Cabinet in accordance with Article 148B(4) of the Constitution.
 
-(c) Notwithstanding any general or specific authority which may have been given by him, it shall be within the discretion of the Minister to limit or suspend any expenditure so authorised.
+(c)
+
+Notwithstanding any general or specific authority which may have been given by him, it shall be within the discretion of the Minister to limit or suspend any expenditure so authorised.
 
 (4) The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to be applied for the purposes for which funds shall have been appropriated by or in accordance with the provisions of any written law authorising the raising of a loan and such sums shall be accounted in the Consolidated Loan Account.
 
@@ -325,7 +324,7 @@ Provided that the aggregate of such sums under each head of expenditure shall no
 
 ### Yearly statement of accounts
 
-18\. The Minister shall for the purpose of section 9 of the Audit Act [Cap. 17], as soon as practicable after the end of every financial year, prepare in respect of that year —
+18\. The Minister shall for the purpose of section 9 of the Audit Act, as soon as practicable after the end of every financial year, prepare in respect of that year —
 
 (a) a full and particular account of the Consolidated Revenue Account stating under the heads and subheads of the estimates or supplementary estimates laid before Parliament in accordance with Article 146, 147, 148, 148B or 148C of the Constitution in respect of that year the amounts estimated to be received and spent in that year and the amounts actually received and spent in that year;
 
@@ -347,15 +346,17 @@ Provided that the aggregate of such sums under each head of expenditure shall no
 
 and, after the accounts and statements referred to in this section have been audited, present to the President those audited accounts and statements together with another statement stating whether the audited accounts and statements referred to in this section show any drawing on or likelihood of drawing on the reserves of the Government which were not accumulated by the Government during its current term of office as defined in the Constitution.
 
-[25/91]
+[Cap. 17. 25/91]
 
 ### Write-off
 
-19\. The Minister shall in respect of public moneys and public stores have power —
+19\. Subject to the provisions of the Constitution, the Minister shall in respect of public moneys and public stores have power —
 
 (a) to write off losses or deficiencies of public moneys and the value of lost, deficient, condemned, unserviceable, redundant or obsolete public stores; and
 
 (b) to abandon any claim to irrecoverable amounts of revenue, debts and overpayments.
+
+[Act 18/94 wef 01/10/1994 vide S 390/94]
 
 ### Surcharge
 
@@ -389,7 +390,7 @@ REGULATIONS
 
 ### Regulations
 
-24\.—(1) The Minister may make regulations, to be called Financial Regulations, not inconsistent with the provisions of this Act, for carrying out the provisions of this Act and, in particular, such regulations may provide for —
+24\.—(1) The Minister may make regulations, to be called Financial Regulations, not inconsistent with the provisions of this Act, for carrying out the provisions of this Act, and, in particular, such regulations may provide for —
 
 (a) the collection, receipt, custody, issue, expenditure, due accounting for, care and management of all public moneys and the guidance of all persons concerned therein;
 
@@ -415,7 +416,7 @@ Financial Procedure Act
 
 (CHAPTER 109)
 
-This Legislative History is provided for the convenience of users of the Financial Procedure Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Financial Procedure Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -456,12 +457,17 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 17/76)|
 ||Date of Second and Third Readings|24 November 1976|
 ||Date of commencement|24 December 1976|
-|9.|**1985 Revised Edition—Financial Procedure Act**|
+|9.|**1985 Revised Edition—Financial Procedure Act (Chapter 109)**|
 ||Date of operation|30 March 1987|
 |10.|**Act 25 of 1991—Financial Procedure (Amendment) Act 1991**|
 ||Date of First Reading|7 May 1991|
-|||(Bill No. 19/1991)|
+|||(Bill No. 19/91 published on 8 May 1991)|
 ||Date of Second and Third Readings|28 June 1991|
 ||Date of commencement|30 November 1991|
-|11.|**1992 Revised Edition—Financial Procedure Act**|
+|11.|**1992 Revised Edition—Financial Procedure Act (Chapter 109)**|
 ||Date of operation|9 March 1992|
+|12.|**Act 18 of 1994—Statutes (Miscellaneous Amendments) Act 1994**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 25/94 published on 29 July 1994)|
+||Date of Second and Third Readings|25 August 1994|
+||Date of commencement|1 October 1994 (Item (3) of the Schedule – Amendment of the Financial Procedure Act)|
