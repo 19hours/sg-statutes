@@ -876,7 +876,7 @@ A\.—1. Murder of any degree.
 
 25\. An offence against the law relating to psychotropic substances, dangerous drugs or narcotics.
 
-25A. An offence against the law relating to benefits derived from drug trafficking.
+25A. An offence against the law relating to benefits derived from corruption, drug trafficking and other serious crimes.
 
 [20/98 wef 20/07/1998]
 
@@ -951,3 +951,9 @@ This Legislative History is provided for the convenience of users of the Extradi
 |||(Bill No. 17/1998 published on 21 April 1998)|
 ||Date of Second and Third Readings|1 June 1998|
 ||Date of commencement|20 July 1998|
+|9.|**Act 25 of 1999—Drug Trafficking (Confiscation of Benefits) (Amendment) Act 1999**|
+||(Consequential amendments made by)||
+||Date of First Reading|4 May 1999|
+|||(Bill No. 16/1999 published on 5 May 1999)|
+||Date of Second and Third Readings|6 July 1999|
+||Date of commencement|13 September 1999|
