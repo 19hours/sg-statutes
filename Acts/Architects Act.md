@@ -957,3 +957,8 @@ This Legislative History is provided for the convenience of users of the Archite
 ||Date of commencement|30 August 1991|
 |2.|**1992 Revised Edition—Architects Act**|
 ||Date of operation|9 March 1992|
+|3.|**Act 3 of 1995—Architects (Amendment) Act 1995**|
+||Date of First Reading|5 December 1994|
+|||(Bill No. 34/94 published on 6 December 1994)|
+||Date of Second and Third Readings|23 January 1995|
+||Date of commencement|1 April 1995|
