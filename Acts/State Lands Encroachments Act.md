@@ -172,7 +172,9 @@ shall be liable for a first offence to a fine not exceeding $200, and, for a sec
 
 11\.—(1) Any land forfeited to the State under section 10 may be dealt with as seems expedient to the President.
 
-(2) Such land shall be appraised without delay by some person or persons appointed for that purpose by the Minister, and the appraised value shall be recorded in the Land Office.
+(2) Such land shall be appraised without delay by some person or persons appointed for that purpose by the Minister, and the appraised value shall be recorded in the records of the Singapore Land Authority.
+
+[17/2001 wef 01/06/2001]
 
 (3) If, within 6 years from the forfeiture of the land, any person establishes a claim thereto or to any interest therein to the satisfaction of the President, he shall be entitled to receive out of the Consolidated Fund such sum, not exceeding the appraised value of that land so recorded, as the President directs.
 
@@ -286,3 +288,9 @@ This Legislative History is provided for the convenience of users of the State L
 ||Date of commencement|13 December 1974|
 |18.|**1985 Revised Edition—State Lands Encroachments Act (Cap. 315)**|
 ||Date of operation|30 March 1987|
+|19.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 6 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
