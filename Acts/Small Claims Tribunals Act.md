@@ -26,7 +26,7 @@
 
 - [8 No division of claims](#No-division-of-claims)
 
-- [9 Abandonment of part claim to give tribunal jurisdiction](#Abandonment-of-part-claim-to-give-tribunal-jurisdiction)
+- [9 Abandonment of part of claim to give tribunal jurisdiction](#Abandonment-of-part-of-claim-to-give-tribunal-jurisdiction)
 
 - [10 Transfer of counterclaim from tribunal to court](#Transfer-of-counterclaim-from-tribunal-to-court)
 
@@ -138,6 +138,10 @@ PRELIMINARY
 
 “party” means a claimant or respondent and any person joined as a third party;
 
+“prescribed limit” means $5,000 or such other sum as the Minister may, after consultation with the Chief Justice, by order published in the Gazette, substitute therefor;
+
+[Act 17 of 1995 wef 15/08/1995]
+
 “Referee” means a person appointed as such under section 4;
 
 “Registrar” means the Registrar of Small Claims Tribunals appointed under section 14 and includes the Deputy Registrar and an Assistant Registrar;
@@ -172,15 +176,29 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 ### Jurisdiction of tribunal
 
-5\.—(1) Subject to the provisions of this Act, a tribunal shall have jurisdiction to hear and determine any claim relating to a dispute arising from any contract for the sale of goods or the provision of services.
+5\.—(1) Subject to the provisions of this Act, a tribunal shall have jurisdiction to hear and determine —
 
-(2) Except where this Act expressly provides otherwise, the jurisdiction of a tribunal shall not extend to a claim —
+(a) any claim relating to a dispute arising from any contract for the sale of goods or the provision of services; and
 
-(a) which exceeds $2,000; or
+(b) any claim in tort in respect of damage caused to any property.
+
+(2) The jurisdiction of a tribunal shall not extend to a claim —
+
+(a) in respect of damage caused to any property by an accident arising out of or in connection with the use of a motor vehicle; or
+
+(b) which the subordinate courts have no jurisdiction to hear and determine.
+
+(3) Except where this Act expressly provides otherwise, the jurisdiction of a tribunal shall not extend to a claim —
+
+(a) which exceeds the prescribed limit; or
 
 (b) after the expiration of one year from the date on which the cause of action accrued.
 
-(3) Where a tribunal is of the opinion that a claim lodged with it pursuant to section 15(1) is beyond its jurisdiction, it shall discontinue the proceedings and advise the claimant and respondent accordingly.
+(4) A tribunal shall, subject to subsections (1) and (2), have jurisdiction to hear and determine any claim the value of which exceeds the prescribed limit but does not exceed $10,000 or such other sum as the Minister may, after consultation with the Chief Justice, by order published in theGazette, substitute therefor, if the parties to the claim so agree by a memorandum signed by them.
+
+(5) Where a tribunal is of the opinion that a claim lodged with it pursuant to section 15(1) is beyond its jurisdiction, the tribunal shall discontinue the proceedings and advise the claimant and respondent accordingly.
+
+[Act 17 of 1995 wef 15/08/1995]
 
 ### Exclusion of other jurisdictions
 
@@ -202,9 +220,13 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 8\. No claim shall be split or divided and pursued in separate proceedings before a tribunal for the sole purpose of bringing the sum claimed in each of such proceedings within the jurisdiction of a tribunal.
 
-### Abandonment of part claim to give tribunal jurisdiction
+### Abandonment of part of claim to give tribunal jurisdiction
 
-9\. If a claim exceeds $2,000, a claimant may abandon the excess, and thereupon a tribunal shall have jurisdiction to hear and determine the claim; and in that event, an order of the tribunal under this Act in relation to that claim shall be in full discharge of all demands in respect thereof.
+9\.—(1) Where the value of a claim exceeds the prescribed limit and no agreement is reached between the parties thereto as to an extension of the tribunal’s jurisdiction under section 5(4), the claimant may abandon the excess, and thereupon the tribunal shall have jurisdiction to hear and determine the claim.
+
+(2) Where the tribunal has jurisdiction to hear and determine a claim by virtue of subsection (1), an order of the tribunal under this Act in relation to that claim shall be in full discharge of all demands in respect thereof.
+
+[Act 17 of 1995 wef 15/08/1995]
 
 ### Transfer of counterclaim from tribunal to court
 
@@ -273,6 +295,10 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 (a) the Registrar may permit the claim to be filed notwithstanding that it has not been signed by all the claimants or persons represented on condition that all the claimants or such persons shall do so before the date of hearing; and
 
 (b) the name of a claimant or person represented who has not so signed the claim before the hearing may, if a tribunal so directs, be deleted from the claim and the amount of the claim reduced accordingly.
+
+(5) The Registrar may, in accordance with the rules, permit a claim to be lodged by electronic facsimile or any other prescribed electronic means.
+
+[Act 17 of 1995 wef 15/08/1995]
 
 ### Contents of claim
 
@@ -354,13 +380,33 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 [Act 31 of 1992 wef 13/11/1992]
 
-(b) a body corporate, one of its full-time employees may present the case on its behalf; and
+(b) a body corporate, one of its full-time employees may present the case on its behalf;
 
-(c) a partnership, one of its partners or full-time employees may present the case on its behalf.
+[Act 17 of 1995 wef 15/08/1995]
 
-(3) No party to any proceedings before a tribunal shall be represented by an advocate and solicitor or agent except as provided in subsection (2)(aa), whether paid or otherwise.
+(c) a partnership, one of its partners or full-time employees may present the case on its behalf;
 
-[Act 31 of 1992 wef 13/11/1992]
+[Act 17 of 1995 wef 15/08/1995]
+
+(d) a management corporation under the Land Titles (Strata) Act (Cap. 158), a member of its council or a full-time employee of its managing agent may present the case on its behalf;
+
+[Act 17 of 1995 wef 15/08/1995]
+
+(e) a minor and is, in the opinion of the Registrar or tribunal, unable to present his own case, his parent or guardian or any other person as may be approved by the Registrar or tribunal may present the case on his behalf;
+
+[Act 17 of 1995 wef 15/08/1995]
+
+(f) a person who is not resident in Singapore and who is unable to remain in Singapore until the hearing of the case, any other person who is duly authorised by him in writing may, with the approval of the Registrar or tribunal, present the case on his behalf; and
+
+[Act 17 of 1995 wef 15/08/1995]
+
+(g) a person who is, in the opinion of the Registrar or tribunal, unable to present his own case by reason of old age, illiteracy or infirmity of mind or body, any other person who is duly authorised by him in writing or who is approved by the Registrar or tribunal may present the case on his behalf.
+
+[Act 17 of 1995 wef 15/08/1995]
+
+(3) No party to any proceedings before a tribunal shall be represented by an advocate and solicitor or, except as provided by subsection (2), an agent, whether paid or otherwise.
+
+[Act 17 of 1995 wef 15/08/1995]
 
 (4) A tribunal shall, before permitting a person to act as a representative under subsection (2), satisfy itself that such person has sufficient knowledge of the case and sufficient authority to bind the party whom he represents.
 
@@ -470,9 +516,21 @@ and such ancillary orders as may be necessary to give effect to the order or ord
 
 (2) The following provisions shall apply to an order made under subsection (1):
 
-(a) an order made under subsection (1)(a) shall not require payment of money exceeding $2,000;
+(a) an order made under subsection (1)(a) shall not require payment of money exceeding —
 
-(b) the value of the work required to be performed by the order shall not exceed $2,000; and
+(i) the prescribed limit; or
+
+(ii) where the claim has been heard and determined by the tribunal pursuant to an agreement between the parties thereto under section 5(4), the value of the claim;
+
+[Act 17 of 1995 wef 15/08/1995]
+
+(b) the value of the work required to be performed by the order shall not exceed —
+
+(i) the prescribed limit; or
+
+(ii) where the claim has been heard and determined by the tribunal pursuant to an agreement between the parties thereto under section 5(4), the value of the claim; and
+
+[Act 17 of 1995 wef 15/08/1995]
 
 (c) the order may provide that, in default of compliance with the order within the time specified in it, the claimant may have the work needed to rectify the defect done by a competent person.
 
@@ -664,3 +722,8 @@ This Legislative History is provided for the convenience of users of the Small C
 |||(Bill No. 30/1992 published on 1 August 1992)|
 ||Date of Second and Third Readings|14 September 1992|
 ||Date of commencement|13 November 1992|
+|4.|**Act 17 of 1995—Small Claims Tribunals (Amendment) Act 1995**|
+||Date of First Reading|1 March 1995|
+|||(Bill No. 9/1995 published on 2 March 1995)|
+||Date of Second and Third Readings|25 May 1995|
+||Date of commencement|15 August 1995|
