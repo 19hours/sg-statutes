@@ -678,13 +678,13 @@ BROADCASTING CONDITIONS
 
 ### Sharing of facilities
 
-26\.—(1) The Authority may direct any broadcasting licensee or broadcasting apparatus licensee to co-ordinate and co-operate, in such manner and on such terms as the Authority may specify, with any other licensee or any other person specified by the Authority in the use or sharing of any broadcasting apparatus or related equipment or facility owned, operated or used by the broadcasting licensee or broadcasting apparatus licensee for the purpose of broadcasting, whether or not they have been provided, or are intended to be provided, by the licensee or any other licensee or any other person specified by the Authority.
+26\.—(1) The Authority may direct any broadcasting licensee or broadcasting apparatus licensee to co-ordinate and co-operate, in such manner and on such terms as the Authority may specify, with any other licensee or any other person specified by the Authority in the use or sharing of any broadcasting apparatus or related equipment or facility (other than a telecommunication system licensed under section 5 of the Telecommunications Act (Cap. 323)) owned, operated or used by the broadcasting licensee or broadcasting apparatus licensee for the purpose of broadcasting, whether or not they have been provided, or are intended to be provided, by the licensee or any other licensee or any other person specified by the Authority.
 
-(2) This section shall not apply to any telecommunication system licensed under section 5 of the Telecommunications Act (Cap. 323).
+(2) The Authority may direct any broadcasting licensee to co-ordinate and co-operate, in such manner and on such terms as the Authority may specify, with any telecommunication licensee in the use or sharing of any installation, plant or system, or part thereof owned or used by the telecommunication licensee, where the Authority is of the view that such co-ordination and co-operation is necessary for the provision of any broadcasting service.
 
-[38
+(3) In this section, “telecommunication licensee” and “telecommunication system” have the same meanings as in section 2 of the Telecommunications Act.
 
-[41/99]
+[10/2005 wef 16/02/2005]
 
 ### Inspection and testing of broadcasting apparatus
 
@@ -1803,6 +1803,11 @@ This Legislative History is provided for the convenience of users of the Broadca
 |||(Bill No. 50/2004 published on 17 December 2004)|
 ||Date of Second and Third Readings|16 November 2004|
 ||Date of commencement|1 January 2005|
+|12.|**Act 10 of 2005—Telecommunications (Amendment) Act 2005**|
+||Date of First Reading|24 November 2004|
+|||(Bill No. 67/2004 published on 25 November 2005)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|16 February 2005 (except sections 10 and 11)|
 ## COMPARATIVE TABLE
 
 Broadcasting Act
