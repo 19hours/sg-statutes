@@ -22,9 +22,9 @@
 
 - [6 Common seal of Board](#Common-seal-of-Board)
 
-- [7 Functions of the Board and committees](#Functions-of-the-Board-and-committees)
+- [7 Functions of Board and committees](#Functions-of-Board-and-committees)
 
-- [8 Registrar and officers](#Registrar-and-officers)
+- [8 Registrar, officers and employees](#Registrar-officers-and-employees)
 
 - [9 Registers](#Registers)
 
@@ -48,97 +48,81 @@
 
 - [16 Cancellation of practising certificates](#Cancellation-of-practising-certificates)
 
-[**Part VA APPROVED ASSISTANT SURVEYORS**](#Part-VA)
+[**Part VI APPROVED ASSISTANT SURVEYORS**](#Part-VI)
 
-- [16A Registered surveyor to employ approved assistant surveyor](#Registered-surveyor-to-employ-approved-assistant-surveyor)
+- [17 Registered surveyor to employ approved assistant surveyor](#Registered-surveyor-to-employ-approved-assistant-surveyor)
 
-- [16B Register to be kept](#Register-to-be-kept)
+- [18 Register of approved assistant surveyors](#Register-of-approved-assistant-surveyors)
 
-- [16C Registered surveyor to notify Board of cessation in employment](#Registered-surveyor-to-notify-Board-of-cessation-in-employment)
+- [19 Registered surveyor to notify Board of cessation of employment](#Registered-surveyor-to-notify-Board-of-cessation-of-employment)
 
-- [16D Approval may be revoked or suspended](#Approval-may-be-revoked-or-suspended)
+- [20 Approval may be revoked or suspended](#Approval-may-be-revoked-or-suspended)
 
-- [16E Penalty under this Part](#Penalty-under-this-Part)
+- [21 Penalty under this Part](#Penalty-under-this-Part)
 
-[**Part VI MULTI-DISCIPLINE AND CORPORATE PRACTICE**](#Part-VI)
+[**Part VII MULTI-DISCIPLINE AND CORPORATE PRACTICE**](#Part-VII)
 
-- [17 Licence for multi-discipline and corporate practice](#Licence-for-multi-discipline-and-corporate-practice)
+- [22 Licence for multi-discipline and corporate practice](#Licence-for-multi-discipline-and-corporate-practice)
 
-- [18 Conditions of licence](#Conditions-of-licence)
+- [23 Conditions of licence](#Conditions-of-licence)
 
-- [19 Change in composition of board of directors, members, etc.](#Change-in-composition-of-board-of-directors-members-etc)
+- [24 Change in composition of board of directors, members, etc.](#Change-in-composition-of-board-of-directors-members-etc)
 
-- [20 Application of Companies Act](#Application-of-Companies-Act)
+- [25 Application of Companies Act](#Application-of-Companies-Act)
 
-- [21 Liability insurance](#Liability-insurance)
+- [26 Liability insurance](#Liability-insurance)
 
-- [22 Relationship between client and corporation](#Relationship-between-client-and-corporation)
+- [27 Relationship between client and corporation](#Relationship-between-client-and-corporation)
 
-- [23 Professional responsibility of supervising surveyor](#Professional-responsibility-of-supervising-surveyor)
+- [28 Professional responsibility of supervising surveyor](#Professional-responsibility-of-supervising-surveyor)
 
-[**Part VII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES**](#Part-VII)
+[**Part VIII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES**](#Part-VIII)
 
-- [24 Appointment of Investigation Committees](#Appointment-of-Investigation-Committees)
+- [29 Appointment of Investigation Committees](#Appointment-of-Investigation-Committees)
 
-- [25 Cancellation of registration or suspension from practice](#Cancellation-of-registration-or-suspension-from-practice)
+- [30 Cancellation of registration or suspension from practice](#Cancellation-of-registration-or-suspension-from-practice)
 
-- [26 Removal from registers](#Removal-from-registers)
+- [31 Removal from registers](#Removal-from-registers)
 
-- [27 Revocation of licence](#Revocation-of-licence)
+- [32 Revocation of licence](#Revocation-of-licence)
 
-- [28 Appeals](#Appeals)
+- [33 Appeals](#Appeals)
 
-- [29 Reinstatement of registration](#Reinstatement-of-registration)
+- [34 Reinstatement of registration](#Reinstatement-of-registration)
 
-- [30 Powers of Investigation Committee and Board to require attendance of witnesses, etc.](#Powers-of-Investigation-Committee-and-Board-to-require-attendance-of-witnesses-etc)
+- [35 Powers to require attendance of witnesses, etc.](#Powers-to-require-attendance-of-witnesses-etc)
 
-[**Part VIII CONDUCT OF CADASTRAL SURVEYS**](#Part-VIII)
+[**Part IX CONDUCT OF CADASTRAL SURVEYS**](#Part-IX)
 
-- [31 Powers of entry for survey purposes](#Powers-of-entry-for-survey-purposes)
+- [36 Powers of entry for survey purposes](#Powers-of-entry-for-survey-purposes)
 
-- [32 Inspection of Authority’s survey maps](#Inspection-of-Authority’s-survey-maps)
+- [37 Inspection of Authority’s survey maps, plans or survey records](#Inspection-of-Authority’s-survey-maps-plans-or-survey-records)
 
-- [33 Deposit of plans](#Deposit-of-plans)
+- [38 Deposit of survey plans](#Deposit-of-survey-plans)
 
-- [34 Approval of cadastral surveys and assurance plans](#Approval-of-cadastral-surveys-and-assurance-plans)
+- [39 Approval of cadastral surveys and assurance plans](#Approval-of-cadastral-surveys-and-assurance-plans)
 
-- [35 Duty of registered surveyor to complete cadastral survey](#Duty-of-registered-surveyor-to-complete-cadastral-survey)
+- [40 Duty of registered surveyor to complete cadastral survey](#Duty-of-registered-surveyor-to-complete-cadastral-survey)
 
-- [36 Correction of errors](#Correction-of-errors)
+- [41 Correction of errors](#Correction-of-errors)
 
-[**Part IX GENERAL**](#Part-IX)
+[**Part X GENERAL**](#Part-X)
 
-- [37 Application of fees, etc., received by Board](#Application-of-fees-etc-received-by-Board)
+- [42 Application of fees, etc., received by Board](#Application-of-fees-etc-received-by-Board)
 
-- [38 Penalty for wilful falsification of register and for wrongfully procuring registration, etc.](#Penalty-for-wilful-falsification-of-register-and-for-wrongfully-procuring-registration-etc)
+- [43 Penalty for wilful falsification of register and for wrongfully procuring registration, etc.](#Penalty-for-wilful-falsification-of-register-and-for-wrongfully-procuring-registration-etc)
 
-- [39 Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
+- [44 Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
 
-- [40 Rules](#Rules)
+- [45 No action or proceedings in absence of bad faith or malice](#No-action-or-proceedings-in-absence-of-bad-faith-or-malice)
 
-- [41 Exemption](#Exemption)
+- [46 Exemption](#Exemption)
 
-- [42 No action in absence of bad faith or malice](#No-action-in-absence-of-bad-faith-or-malice)
-
-[**Part X SAVINGS AND TRANSITIONAL PROVISIONS**](#Part-X)
-
-- [43 Persons already registered](#Persons-already-registered)
-
-- [44 Continuation of office of Board members, etc.](#Continuation-of-office-of-Board-members-etc)
-
-- [45 Transfer of assets and property](#Transfer-of-assets-and-property)
-
-- [46 Transitional](#Transitional)
-
-- [47 Disciplinary proceedings](#Disciplinary-proceedings)
-
-- [48 Certificates of registration](#Certificates-of-registration)
-
-- [49 Payment of cadastral survey fees](#Payment-of-cadastral-survey-fees)
-
-- [50 References in other written laws](#References-in-other-written-laws)
+- [47 Rules](#Rules)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Land Surveyors Act
 
@@ -146,11 +130,11 @@
 
 (Original Enactment: Act 24 of 1991)
 
-REVISED EDITION 1992
+REVISED EDITION 2002
 
-(9th March 1992)
+(31st December 2002)
 
-An Act to establish the Land Surveyors Board, to provide for the registration of land surveyors, to regulate the qualifications and practice of land surveyors and to regulate corporations which supply title survey services in Singapore.
+An Act to establish the Land Surveyors Board, to provide for the registration of land surveyors and approval of assistant surveyors, to regulate the qualifications and practice of land surveyors and to regulate corporations which supply survey services in Singapore.
 
 [30th August 1991]
 
@@ -168,49 +152,33 @@ PRELIMINARY
 
 “allied professional” means —
 
-(a) an architect who is registered under the Architects Act [Cap. 12]; or
+(a) an architect who is registered under the Architects Act (Cap. 12); or
 
-(b) a professional engineer who is registered under the Professional Engineers Act [Cap. 253];
+(b) a professional engineer who is registered under the Professional Engineers Act (Cap. 253);
 
-“approved assistant surveyor” means a person approved to be employed as an assistant surveyor under Part VA;
-
-[34/99 wef 01/03/2000]
+“approved assistant surveyor” means a person approved to be employed as an assistant surveyor under Part VI;
 
 “assistant surveyor” means a person who performs or executes any survey or engages in any survey work under the direction or supervision of a registered surveyor;
-
-[34/99 wef 01/03/2000]
 
 “assurance plan” means any plan showing approximate boundaries or dimensions and areas for the purpose of identifying land which has not been surveyed to the satisfaction of the Chief Surveyor but is required to be surveyed under the provisions of any written law;
 
 “authorised surveyor” means a surveyor who is employed by the Authority, whether or not registered under section 12, and includes any other surveyor registered under section 12 appointed by the Chief Surveyor to be an authorised surveyor;
 
-[17/2001 wef 01/06/2001]
-
-“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
-
-[17/2001 wef 01/06/2001]
+“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act (Cap. 301);
 
 “Board” means the Land Surveyors Board established under section 4;
 
 “cadastral survey” means any survey relating to the recording of land boundaries, subdivision lines, buildings and related details;
 
-[35/98 wef 16/10/1998]
-
-[Deleted by Act 34/1999 wef 01/03/2000]
-
 “cadastral survey work” means any work which is part of or related to a cadastral survey;
-
-[35/98 wef 16/10/1998]
 
 “certificate of registration” means the certificate of registration issued under section 14;
 
-“Chief Surveyor” means the Chief Surveyor appointed under section 3(1) of the Boundaries and Survey Maps Act 1998 (Act 35 of 1998);
+“Chief Surveyor” means the Chief Surveyor appointed under section 3(1) of the Boundaries and Survey Maps Act (Cap. 25);
 
-[34/99 wef 01/03/2000]
+“Investigation Committee” means an Investigation Committee appointed under section 29(1);
 
-“Investigation Committee” means an Investigation Committee appointed under section 24(1);
-
-“licence” means a licence to supply survey services in Singapore granted under section 17;
+“licence” means a licence to supply survey services in Singapore granted under section 22;
 
 “licensed”, in relation to a corporation or partnership, means a corporation or partnership which has in force a licence;
 
@@ -218,11 +186,9 @@ PRELIMINARY
 
 “nominee”, in relation to any person, means a person who is accustomed or under an obligation (whether formal or informal) to act in accordance with the directions, instructions or wishes of the first-mentioned person, except that a person shall not be regarded as a nominee of another person by reason only that he acts on advice given by that other person in a professional capacity;
 
-“practising certificate” means an annual practising certificate issued under section 15 authorising the holder thereof to engage in cadastral survey work in Singapore;
+“practising certificate” means an annual practising certificate issued under section 15 authorising the holder thereof to engage in survey work in Singapore;
 
 “President” means the President of the Board;
-
-“previous Board” means the Land Surveyors Board constituted by section 3 of the repealed Act;
 
 “register of licensees” means the annual register of licensed corporations and partnerships kept by the Board under section 9(1)(c);
 
@@ -233,10 +199,6 @@ PRELIMINARY
 “registered surveyor” means a person registered as a land surveyor under section 12;
 
 “Registrar” means the Registrar of the Board appointed under section 8;
-
-“repealed Act” means the Land Surveyors Act [Cap. 156, 1985 Ed] repealed by this Act;
-
-“rules” means rules made by the Board under section 40;
 
 “survey” means the act or process of —
 
@@ -250,23 +212,25 @@ PRELIMINARY
 
 and includes the act or process of making or obtaining any plan therefrom;
 
-[34/99 wef 01/03/2000]
-
 “survey services” means the supply for gain or reward of any services, or any plan, certificate or other document, relating to any survey;
-
-[34/99 wef 01/03/2000]
 
 “survey work” means any work which is part of or related to a survey;
 
-[34/99 wef 01/03/2000]
-
 “unlimited corporation” means a corporation formed on the principle of having no limit placed on the liability of its members.
+
+[35/98; 34/99; 17/2001]
 
 ### Act not to apply to Government, etc.
 
 3\.—(1) Nothing in this Act shall apply to anything done or omitted to be done by the Government.
 
-(2) This Act shall not be construed as requiring any public authority which supplies survey services in Singapore under the provisions of any written law to obtain a licence; and in this subsection, “public authority” means any body established by or under any written law and exercising powers vested therein by written law for a public purpose.
+(2) This Act shall not be construed as requiring any public authority which supplies survey services in Singapore under the provisions of any written law to obtain a licence.
+
+[34/99]
+
+(3) In subsection (2), “public authority” means any body established by or under any written law and exercising powers vested therein by written law for a public purpose.
+
+[35/98]
 
 ## PART II
 
@@ -274,7 +238,13 @@ LAND SURVEYORS BOARD
 
 ### Establishment of Land Surveyors Board
 
-4\.—(1) There shall be established in Singapore a body to be called the Land Surveyors Board which shall be a body corporate with perpetual succession and a common seal, with power, subject to the provisions of this Act, to sue and be sued in its corporate name, to acquire and dispose of property, both movable and immovable, and to do and perform such other acts as bodies corporate may by law perform.
+4\.—(1) There is hereby established a body to be known as the Land Surveyors Board which shall be a body corporate with perpetual succession and a common seal, with power, subject to the provisions of this Act —
+
+(a) to sue and be sued in its corporate name;
+
+(b) to acquire and dispose of property, both movable and immovable; and
+
+(c) to do and perform such other acts as bodies corporate may by law perform.
 
 (2) The Board shall consist of —
 
@@ -284,13 +254,15 @@ LAND SURVEYORS BOARD
 
 (c) an authorised surveyor appointed by the Minister; and
 
-(d) 3 surveyors appointed by the Minister, of whom one shall be selected from a list of not less than two registered surveyors submitted by the Singapore Institute of Surveyors and Valuers.
+(d) 3 surveyors appointed by the Minister, of whom one shall be selected from a list of not less than 2 registered surveyors submitted by the Singapore Institute of Surveyors and Valuers.
 
-(3) A member of the Board (other than the Chief Surveyor or the Deputy Chief Surveyor) shall be appointed for a term not exceeding two years but may from time to time be reappointed, and may at any time be removed from office by the Minister.
+[17/2001]
+
+(3) A member of the Board(other than the Chief Surveyor or the Deputy Chief Surveyor) shall be appointed for a term not exceeding 2 years but may from time to time be reappointed, and may at any time be removed from office by the Minister.
 
 (4) A person shall not be qualified to be appointed as a member of the Board under subsection (2)(c) or (d) if —
 
-(a) he is neither a citizen nor a permanent resident of Singapore;
+(a) he is not a citizen or a permanent resident of Singapore;
 
 (b) he is not a registered surveyor;
 
@@ -306,13 +278,13 @@ LAND SURVEYORS BOARD
 
 (b) resigns or is removed from office; or
 
-(c) becomes in any manner disqualified for office within the meaning of subsection (4),
+(c) becomes in any manner disqualified for office within the meaning of subsection (4).
 
-and the vacancy so created shall, as soon as practicable, be filled in the manner in which the appointment to the vacant office was made; and every person so appointed shall hold office for the residue of the term for which his predecessor was appointed.
+(6) The vacancy created under subsection (5) shall, as soon as practicable, be filled in the manner in which the appointment to the vacant office was made; and every person so appointed shall hold office for the residue of the term for which his predecessor was appointed.
 
-(6) The powers of the Board shall not be affected by any vacancy in its membership.
+(7) The powers of the Board shall not be affected by any vacancy in its membership.
 
-(7) Any question as to whether a person has ceased to be a member of the Board appointed under subsection (2)(c) or (d) shall be determined by the Board whose decision shall be final.
+(8) Any question as to whether a person has ceased to be a member of the Board appointed under subsection (2)(c) or (d)shall be determined by the Board whose decision shall be final.
 
 ### Meetings of Board and quorum
 
@@ -324,15 +296,17 @@ and the vacancy so created shall, as soon as practicable, be filled in the manne
 
 (4) The member presiding at any meeting of the Board shall have a deliberative vote and, in the case of an equality of votes, shall also have a casting vote.
 
-(5) Subject to the provisions of this Act and any rules made thereunder, the Board may determine its own procedure.
+(5) Subject to the provisions of this Act, the Board may determine its own procedure.
 
 ### Common seal of Board
 
 6\.—(1) The common seal of the Board shall bear such device as the Board may approve and the seal may from time to time be broken, changed, altered or made anew by the Board as it may think fit.
 
-(2) The common seal shall be kept in the custody of the President and shall be authenticated by the President or other member acting in the absence of the President and any document purporting to be sealed and authenticated as aforesaid shall, until the contrary is proved, be deemed to be validly executed.
+(2) The common seal shall be kept in the custody of the President and shall be authenticated by the President or other member acting in the absence of the President.
 
-### Functions of the Board and committees
+(3) Any document purporting to be sealed and authenticated under subsection (2) shall, until the contrary is proved, be deemed to be validly executed.
+
+### Functions of Board and committees
 
 7\.—(1) The functions of the Board shall be —
 
@@ -354,15 +328,27 @@ and the vacancy so created shall, as soon as practicable, be filled in the manne
 
 (i) generally to do all such acts, matters and things as are necessary to be carried out under the provisions of this Act.
 
+[35/98; 34/99]
+
 (2) The Board may appoint such committees from among its members or other persons (whether or not they are registered surveyors) as it thinks fit to assist or advise the Board on such matters arising out of its functions under this Act as are referred to them by the Board.
 
-### Registrar and officers
+### Registrar, officers and employees
 
 8\.—(1) The Board may appoint a Registrar and such other officers and employees as it thinks necessary.
 
-(2) The Registrar shall be under the general direction of the Board and shall sign all certificates of registration, practising certificates and licences, and shall record all entries of registration, cancellations and reinstatements in the register of surveyors, annual register of practitioners and annual register of licensees.
+(2) The Registrar shall —
 
-(3) The Registrar shall attend all meetings of the Board and record the proceedings thereof, and shall conduct the correspondence and deal with such matters as may be assigned to him by the President or by the Board.
+(a) be under the general direction of the Board;
+
+(b) sign all certificates of registration, practising certificates and licences; and
+
+(c) record all entries of registration, cancellations and reinstatements in the register of surveyors, annual register of practitioners and annual register of licensees.
+
+(3) The Registrar shall —
+
+(a) attend all meetings of the Board and record the proceedings thereof; and
+
+(b) conduct the correspondence and deal with such matters as may be assigned to him by the President or by the Board.
 
 (4) The Registrar shall —
 
@@ -380,7 +366,7 @@ and the vacancy so created shall, as soon as practicable, be filled in the manne
 
 (c) an annual register of licensees in which shall be entered the names of all licensed corporations and partnerships and such other particulars in relation thereto as may from time to time be determined by the Board.
 
-(2) Any person may inspect any register mentioned in subsection (1) at any time during the office hours of the Board on payment of the prescribed fee.
+(2) Any person may, on payment of the prescribed fee, inspect any register mentioned in subsection (1) at any time during the office hours of the Board.
 
 (3) A copy of any entry in any register kept and maintained under this section purporting to be certified by the Registrar as a true copy thereof shall in all proceedings be prima facie evidence of the matters specified therein.
 
@@ -392,21 +378,27 @@ PRIVILEGES OF LAND SURVEYORS
 
 10\.—(1) Subject to the provisions of this Act, no person shall certify to the correctness or accuracy of any survey unless he is an authorised surveyor who is registered under section 12 or a registered surveyor who has in force a practising certificate.
 
+[35/98; 34/99; 17/2001]
+
 (2) Subject to the provisions of this Act, no person shall —
 
 (a) use or cause or permit to be used any written words, titles or initials or any abbreviation thereof which are intended to cause or may reasonably cause any person to believe that the person using them is authorised to supply survey services in Singapore; or
 
 (b) advertise or hold himself out or conduct himself in any way or by any means as a person authorised to supply survey services in Singapore,
 
-unless at the time of so doing the person is a registered surveyor who has in force a practising certificate, a licensed corporation, a licensed partnership or a partnership consisting wholly of registered surveyors.
+unless at the time of so doing the person is a registered surveyor who has in force a practising certificate, or is a licensed corporation, a licensed partnership or a partnership consisting wholly of registered surveyors.
+
+[35/98; 34/99]
 
 (3) Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, fee or remuneration for any survey services rendered in Singapore, unless the person rendering such services is —
 
-(a) a registered surveyor who has in force a practising certificate and is doing so on his own account or as a partner in a licensed partnership or partnership consisting wholly of registered surveyors;
+(a) a registered surveyor who has in force a practising certificate and is doing so on his own account or as a partner in a licensed partnership or a partnership consisting wholly of registered surveyors;
 
-(b) an allied professional and doing so only by reason of being a partner in a licensed partnership; or
+(b) an allied professional and is doing so only by reason of being a partner in a licensed partnership; or
 
 (c) a licensed corporation.
+
+[35/98; 34/99]
 
 (4) Subject to the provisions of this Act, no person shall perform or execute any survey or engage in any survey work in Singapore unless he is —
 
@@ -416,7 +408,9 @@ unless at the time of so doing the person is a registered surveyor who has in fo
 
 (c) under the direction or supervision of any of the persons mentioned in paragraphs (a) and (b).
 
-(5) Any person who contravenes or fails to comply with subsection (1), (2) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000.
+[35/98; 34/99; 17/2001]
+
+(5) Any person who contravenes subsection (1), (2) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000.
 
 ### Saving for winding up of corporation
 
@@ -436,9 +430,9 @@ REGISTRATION OF SURVEYORS
 
 (c) he is otherwise qualified by having proper training in surveying recognised by the Board and has passed such other examinations as the Board may require.
 
-[34/99 wef 01/03/2000]
+[34/99]
 
-(2) Notwithstanding anything in subsection (1), the Board may refuse to register any person who is not, in the opinion of the Board, of good character and reputation.
+(2) Notwithstanding subsection (1), the Board may refuse to register any person who is not, in the opinion of the Board, of good character and reputation.
 
 ### Application for registration
 
@@ -455,6 +449,8 @@ PRACTISING CERTIFICATES
 ### Practising certificates
 
 15\.—(1) Where a registered surveyor desires to engage in survey work in Singapore after 31st December of any year, he shall, not later than 1st December of that year, make an application in the prescribed form and manner for a practising certificate authorising him to engage in such survey work in the ensuing year.
+
+[35/98; 34/99]
 
 (2) Notwithstanding subsection (1), where a registered surveyor applies for a practising certificate for the first time after registration under section 12, the application shall be in the prescribed form and may be made at any time during the year and the registered surveyor may be issued a practising certificate for the remainder of the year in which the application is made.
 
@@ -478,17 +474,17 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (a) the applicant is an undischarged bankrupt;
 
-[Deleted by Act 15/95 wef 15/07/1995 vide S 268/95]
-
 (b) the applicant has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors;
 
 (c) the applicant is not resident in Singapore;
 
 (d) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying survey services in Singapore;
 
-(e) the declaration under subsection (3) contains a statement that to its knowledge is false in a material particular; or
+(e) the declaration under subsection (3)(a) contains a statement that to its knowledge is false in a material particular; or
 
 (f) the conduct of the applicant affords reasonable grounds for believing that he will not engage in survey work in Singapore in accordance with the written law and with honesty and integrity.
+
+[15/95; 35/98; 34/99]
 
 (5) Any registered surveyor (not being a registered surveyor who is applying for a practising certificate for the first time) who fails to apply for a practising certificate in the manner and within the period laid down in subsection (1) may, on the making of an application in such form and on payment of such additional fee as may be prescribed, be issued a practising certificate for —
 
@@ -496,15 +492,19 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (b) the remainder of the year if the application is made on or after 1st January of any year.
 
-(6) Subject to subsection (8), a practising certificate shall, unless earlier cancelled, be in force from the date of its issue until 31st December of the year in respect of which it is issued.
+(6) Subject to subsection (9), a practising certificate shall, unless earlier cancelled, be in force from the date of its issue until 31st December of the year in respect of which it is issued.
 
-(7) A practising certificate shall specify the address of the principal place of practice and all other places of practice of the registered surveyor in respect of whom the practising certificate was issued, and any change in such address shall be notified by the registered surveyor concerned to the Registrar within two weeks of such change and an endorsement of such change on the practising certificate shall be obtained from the Registrar.
+(7) A practising certificate shall specify the address of the principal place of practice and all other places of practice of the registered surveyor in respect of whom the practising certificate was issued.
 
-(8) Where the registration of a surveyor is cancelled under section 16, the practising certificate, if any, of that surveyor for the time being in force shall expire forthwith and the date of such expiration shall be entered by the Registrar on the register of practitioners.
+(8) Any change in such address shall be notified by the registered surveyor concerned to the Registrar within 2 weeks of such change and an endorsement of such change on the practising certificate shall be obtained from the Registrar.
 
-(9) Any person whose application for a practising certificate has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the High Court whose decision shall be final.
+(9) Where the registration of a surveyor is cancelled under section 16, the practising certificate, if any, of that surveyor for the time being in force shall expire immediately and the date of such expiration shall be entered by the Registrar on the register of practitioners.
 
-(10) This section shall not apply to an authorised surveyor.
+(10) Any person whose application for a practising certificate has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the High Court whose decision shall be final.
+
+(11) This section shall not apply to an authorised surveyor.
+
+[17/2001]
 
 ### Cancellation of practising certificates
 
@@ -514,53 +514,85 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (3) Any person whose practising certificate has been cancelled by the Board under this section may, within 30 days after being notified of such cancellation, appeal to the High Court whose decision shall be final.
 
-## PART VA
+## PART VI
 
 APPROVED ASSISTANT SURVEYORS
 
-[34/99 wef 01/03/2000]
-
 ### Registered surveyor to employ approved assistant surveyor
 
-16A\.—(1) No registered surveyor shall employ any person as his assistant surveyor unless that person is approved by the Board and the approval has not been revoked or suspended.
+17\.—(1) No registered surveyor shall employ any person as his assistant surveyor unless that person is approved by the Board and the approval has not been revoked or suspended.
+
+[34/99]
 
 (2) A registered surveyor who desires to employ any person as his assistant surveyor shall apply to the Board for approval in such form and manner as the Board may prescribe.
 
+[34/99]
+
 (3) The Board may approve, for such period as may be prescribed, an application under subsection (2) if the Board is satisfied that the person to be employed as an assistant surveyor possesses the necessary qualifications recognised by the Board.
+
+[34/99]
 
 (4) The Board shall not approve an application under subsection (2) if the registered surveyor does not have in force a practising certificate.
 
-(5) Every application under subsection (2) shall be accompanied by a prescribed fee.
+[34/99]
 
-(6) For the purposes of this section, “employ” means to engage or use the service of any person, whether under a contract of service or otherwise, with or without salary.
+(5) Every application under subsection (2) shall be accompanied by the prescribed fee.
 
-### Register to be kept
+[34/99]
 
-16B\. The Board shall keep and maintain a register in which shall be entered the names and such particulars of the approved assistant surveyors as the Board may determine.
+(6) In this section, “employ” means to engage or use the service of any person, whether under a contract of service or otherwise, with or without salary.
 
-### Registered surveyor to notify Board of cessation in employment
+[16A
 
-16C\.—(1) A registered surveyor shall forthwith notify the Board in writing if an approved assistant surveyor ceases to be employed by him.
+[34/99]
 
-(2) The approval granted under section 16A(3) in respect of an assistant surveyor shall be deemed to be revoked upon the cessation of his employment.
+### Register of approved assistant surveyors
+
+18\. The Board shall keep and maintain a register in which shall be entered the names and such particulars of the approved assistant surveyors as the Board may determine.
+
+[16B
+
+[34/99]
+
+### Registered surveyor to notify Board of cessation of employment
+
+19\.—(1) A registered surveyor shall immediately notify the Board in writing if an approved assistant surveyor ceases to be employed by him.
+
+[34/99]
+
+(2) The approval granted under section 17(3) in respect of an assistant surveyor shall be deemed to be revoked upon the cessation of his employment.
+
+[16C
+
+[34/99]
 
 ### Approval may be revoked or suspended
 
-16D\.—(1) The Board may revoke or suspend, for such period as the Board thinks fit, any approval granted under section 16A (3) if an approved assistant surveyor is, in the opinion of the Board, unfit to carry out survey work.
+20\.—(1) The Board may revoke or suspend, for such period as the Board thinks fit, any approval granted under section 17 (3) if an approved assistant surveyor is, in the opinion of the Board, unfit to carry out survey work.
+
+[34/99]
 
 (2) Any person who is aggrieved by the decision of the Board under subsection (1) may appeal to the Minister whose decision shall be final.
 
+[16D
+
+[34/99]
+
 ### Penalty under this Part
 
-16E\. Any registered surveyor who contravenes or fails to comply with section 16A(1) or 16C(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+21\. Any registered surveyor who contravenes section 17(1) or 19(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-## PART VI
+[16E
+
+[34/99]
+
+## PART VII
 
 MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 ### Licence for multi-discipline and corporate practice
 
-17\.—(1) Subject to the provisions of this Act, the Board may grant a licence to a corporation to supply survey services in Singapore if —
+22\.—(1) Subject to the provisions of this Act, the Board may grant a licence to a corporationto supply survey services in Singapore if —
 
 (a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply survey services;
 
@@ -576,7 +608,7 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 who are either directors, managers or employees of the corporation;
 
-(e) the business of the corporation, so far as it relates to survey work in Singapore, will be under the control and management of director of the corporation who —
+(e) the business of the corporation, so far as it relates to survey work in Singapore, will be under the control and management of a director of the corporation who —
 
 (i) is a registered surveyor ordinarily resident in Singapore;
 
@@ -584,7 +616,9 @@ who are either directors, managers or employees of the corporation;
 
 (iii) is a registered owner of at least one share of the corporation; and
 
-(f) the corporation is insured against professional liability in accordance with section 21 and the rules.
+(f) the corporation is insured against professional liability in accordance with section 26 and the rules made under section 47.
+
+[35/98; 34/99]
 
 (2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply survey services in Singapore if —
 
@@ -600,13 +634,17 @@ who are either directors, managers or employees of the corporation;
 
 (iii) is a member, or a registered owner of at least one share, of the corporation.
 
-(3) Subject to the provisions of this Act, the Board may grant to any partnership not consisting wholly of registered surveyors a licence to supply survey services in Singapore if —
+[35/98; 34/99]
+
+(3) Subject to the provisions of this Act, the Board may grant a licence to any partnership not consisting wholly of registered surveyors to supply survey services in Singapore if —
 
 (a) the partnership is one in which only registered surveyors, each of whom shall have in force a practising certificate, and allied professionals have a beneficial interest in the capital assets and profits of the partnership; and
 
 (b) the business of the partnership, so far as it relates to survey work in Singapore, will be under the control and management of a partner who is a registered surveyor ordinarily resident in Singapore; and has in force a practising certificate.
 
-(4) Subject to the provisions of this Act, the Board may grant to any corporation or partnership a licence to supply survey services in Singapore if the corporation or partnership has in force a licence granted under section 20 of the Architects Act or section 20 of the Professional Engineers Act and —
+[35/98; 34/99]
+
+(4) Subject to the provisions of this Act, the Board may grant a licence to any corporation or partnership to supply survey services in Singapore if the corporation or partnership has in force a licence granted under section 20 of the Architects Act (Cap. 12) or section 20 of the Professional Engineers Act (Cap. 253) and —
 
 (a) in the case of an unlimited corporation, the corporation complies with the requirements set out in subsections (1)(c) and (2)(b) and (c);
 
@@ -614,17 +652,23 @@ who are either directors, managers or employees of the corporation;
 
 (c) in the case of a partnership, the partnership complies with the requirements set out in subsection (3).
 
+[35/98; 34/99]
+
 (5) Any application for a licence under this section shall be in such form and shall be made in such manner as may be prescribed.
 
 (6) The Board may refuse to grant a licence under this section to any corporation (whether unlimited or not) or partnership if, in the opinion of the Board, the past conduct of any director, manager or employee of the corporation, or any partner, manager or employee of the partnership, affords reasonable grounds for believing that the corporation or partnership, as the case may be, will not supply survey services in Singapore in accordance with the written law and with honesty and integrity.
+
+[35/98; 34/99]
 
 (7) Every licence granted under this section shall, unless earlier revoked, be valid for such period as may be specified therein.
 
 (8) Any person whose application for a licence has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the Minister whose decision shall be final.
 
+[17
+
 ### Conditions of licence
 
-18\.—(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply survey services in Singapore only under the control and management of a registered surveyor ordinarily resident in Singapore who has in force a practising certificate and who is —
+23\.—(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply survey services in Singapore only under the control and management of a registered surveyor ordinarily resident in Singapore who has in force a practising certificate and who is —
 
 (a) a director of the corporation, and —
 
@@ -634,21 +678,37 @@ who are either directors, managers or employees of the corporation;
 
 (b) a partner of the partnership.
 
+[35/98; 34/99]
+
 (2) It shall be a condition of every licence granted to any corporation (other than an unlimited corporation) that the corporation shall not supply survey services in Singapore unless —
 
-(a) the corporation is insured in respect of professional liability in accordance with section 21 and the rules; and
+(a) the corporation is insured in respect of professional liability in accordance with section 26 and the rules made under section 47; and
 
-(b) not less than two-thirds, or such lower proportion as the Minister may specify in relation to the corporation under section 17(1)(d), of each class of shares of the corporation are beneficially owned by and registered in the names of registered surveyors, or registered surveyors and allied professionals, who are either directors, managers or employees of the corporation.
+(b) not less than two-thirds, or such lower proportion as the Minister may specify in relation to the corporation under section 22(1)(d), of each class of shares of the corporation are beneficially owned by and registered in the names of —
 
-(3) Without prejudice to subsections (1) and (2), the Board may grant a licence subject to such other conditions as it thinks fit and may at any time vary any existing conditions (other than those specified in subsections (1) and (2)) of such a licence or impose additional conditions thereto.
+(i) registered surveyors; or
+
+(ii) registered surveyors and allied professionals,
+
+who are either directors, managers or employees of the corporation.
+
+[35/98; 34/99]
+
+(3) Without prejudice to subsections (1) and (2), the Board may —
+
+(a) grant a licence subject to such other conditions as it thinks fit; and
+
+(b) at any time vary any existing conditions (other than those specified in subsections (1) and (2)) of such a licence or impose additional conditions thereto.
 
 (4) Where a licence is granted by the Board to a corporation or partnership subject to conditions (other than those specified in subsections (1) and (2)), the corporation or partnership may, if aggrieved by the decision of the Board, appeal in the prescribed manner to the Minister whose decision shall be final.
 
+[18
+
 ### Change in composition of board of directors, members, etc.
 
-19\.—(1) Any licensed corporation shall, within 30 days of the occurrence of —
+24\.—(1) Any licensed corporation shall, within 30 days of the occurrence of —
 
-(a) any alteration of its memorandum or articles of association to remove the restrictions, limitations or prohibitions of the kind specified in section 17(1), (2) or (4), whichever is applicable; or
+(a) any alteration of its memorandum or articles of association to remove the restrictions, limitations or prohibitions of the kind specified in section 22(1), (2) or (4), whichever is applicable; or
 
 (b) any change in the composition of its board of directors, members or shareholders,
 
@@ -656,51 +716,69 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 (2) Any licensed partnership shall, within 30 days of the occurrence of any change in the composition of its members, furnish the Board a true report in writing giving full particulars of the change.
 
+[19
+
 ### Application of Companies Act
 
-20\.—(1) Sections 162, 163, 197 of and the Eighth Schedule to the Companies Act shall apply to a licensed corporation which is an exempt private company subject to the modification that any reference in those sections and that Schedule to an exempt private company shall not include a reference to the licensed corporation; and every such licensed corporation shall —
+25\.—(1) Sections 162, 163 and 197 of and the Eighth Schedule to the Companies Act (Cap. 50) shall apply to a licensed corporation which is an exempt private company subject to the modification that any reference in those sections and that Schedule to an exempt private company shall not include a reference to the licensed corporation.
 
-(a) comply with the prohibitions in section 162 (relating to loans to its directors) and section 163 (relating to loans to persons connected with the directors of the lending company) of the Companies Act as if it were not an exempt private company; and
+(2) Every such licensed corporation shall —
 
-(b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act [Cap. 50], such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with Part II of the Eighth Schedule to that Act as if it were not an exempt private company.
+(a) comply with the prohibitions in section 162 (relating to loans to its directors) and section 163 (relating to loans to persons connected with the directors of the lending company) of the Companies Act (Cap. 50) as if it were not an exempt private company; and
 
-(2) In this section, “exempt private company” has the same meaning as in the Companies Act.
+(b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act, such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with Part II of the Eighth Schedule to that Act as if it were not an exempt private company.
+
+(3) In this section, “exempt private company” has the same meaning as in the Companies Act.
+
+[20
 
 ### Liability insurance
 
-21\. Every licensed corporation which is not an unlimited corporation shall be insured against liability for any breach of professional duty arising out of the conduct of its business of supplying survey services as a direct result of any negligent act, error or omission committed by the corporation or its directors, managers, secretaries or employees.
+26\. Every licensed corporation which is not an unlimited corporation shall be insured against liability for any breach of professional duty arising out of the conduct of its business of supplying survey services as a direct result of any negligent act, error or omission committed by the corporation or its directors, managers, secretaries or employees.
+
+[21
+
+[35/98; 34/99]
 
 ### Relationship between client and corporation
 
-22\. A licensed corporation shall have the same rights and shall be subject to the same obligations in respect of fiduciary, confidential and ethical relationships with each client of the corporation that exist at law between a registered surveyor and his client.
+27\. A licensed corporation shall have the same rights and shall be subject to the same obligations in respect of fiduciary, confidential and ethical relationships with each client of the corporation that exist at law between a registered surveyor and his client.
+
+[22
 
 ### Professional responsibility of supervising surveyor
 
-23\. A registered surveyor who has the control and management of the business of a licensed corporation or licensed partnership relating to the supply of survey services in Singapore shall be subject to the same standards of professional conduct and competence in respect of the business as if the survey services were personally supplied by the registered surveyor.
+28\. A registered surveyor who has the control and management of the business of a licensed corporation or licensed partnership relating to the supply of survey services in Singapore shall be subject to the same standards of professional conduct and competence in respect of the business as if the survey services were personally supplied by the registered surveyor.
 
-## PART VII
+[23
+
+[35/98; 34/99]
+
+## PART VIII
 
 DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 ### Appointment of Investigation Committees
 
-24\.—(1) Without prejudice to the generality of section 7(2), the Board may appoint one or more Investigation Committees, consisting of such number of members (which may include members of the Board) as the Board may determine, for the purpose of investigating into any complaint against a registered surveyor or a licensed corporation or partnership.
+29\.—(1) Without prejudice to the generality of section 7(2), the Board may appoint one or more Investigation Committees, consisting of such number of members (which may include members of the Board) as the Board may determine, for the purpose of investigating into any complaint against a registered surveyor or a licensed corporation or partnership.
 
-(2) An Investigation Committee shall, after investigating into any complaint, report to the Board on the matter and the report shall, inter alia, deal with the question of the necessity or otherwise of a hearing by the Board under section 25 or 27.
+(2) An Investigation Committee shall, after investigating into any complaint, report to the Board on the matter and the report shall, amongst other things, deal with the question of the necessity or otherwise of a hearing by the Board under section 30 or 32.
 
-(3) An Investigation Committee shall meet from time to time for the despatch of business and, subject to the provisions of this Act and any rules made thereunder, may regulate its own procedure.
+(3) An Investigation Committee shall meet from time to time for the despatch of business and, subject to the provisions of this Act, may regulate its own procedure.
 
-(4) Any member of the Board who is a member of an Investigation Committee investigating into any complaint against a registered surveyor or a corporation or partnership —
+(4) Any member of the Board who is a member of an Investigation Committee investigating into any complaint against a registered surveyor or a licensed corporation or partnership —
 
-(a) shall not take part in any deliberation of the Board under section 25 or 27, as the case may be, with respect to that registered surveyor, corporation or partnership; and
+(a) shall not take part in any deliberation of the Board under section 30 or 32, as the case may be, with respect to that registered surveyor, corporation or partnership; and
 
 (b) shall be disregarded for the purpose of constituting a quorum of the Board for such deliberation or decision.
 
+[24
+
 ### Cancellation of registration or suspension from practice
 
-25\.—(1) Subject to this section, the Board may by order cancel the registration of any registered surveyor or suspend him from practice for a period not exceeding one year under any of the following circumstances:
+30\.—(1) Subject to this section, the Board may by order cancel the registration of any registered surveyor or suspend him from practice for a period not exceeding 12 months under any of the following circumstances:
 
-(a) if he is convicted of any offence involving fraud or dishonesty or moral turpitude;
+(a) if he is convicted of any offence involving fraud, dishonesty or moral turpitude;
 
 (b) if his registration under section 12 or practising certificate was obtained by fraud or misrepresentation;
 
@@ -708,11 +786,11 @@ DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (d) if he has been guilty of such improper conduct as renders him, in the opinion of the Board, unfit to be a registered surveyor;
 
-(e) if it appears to the Board that he has contravened section 35(1) or any provision of the prescribed code of professional conduct and ethics;
+(e) if it appears to the Board that he has contravened section 40(1) or any provision of the prescribed code of professional conduct and ethics;
 
 (f) if it appears to the Board that he is no longer in a position to carry out the duties of a registered surveyor effectively;
 
-(g) if it appears to the Board that the registered surveyor, while being a director, manager, or employee of a corporation, or a partner, manager or employee of a partnership, had failed to take reasonable steps to prevent the corporation or partnership from acting in a manner (other than as described in section 27(1)(e)) which would warrant the Board revoking any licence granted to the corporation or partnership or imposing a penalty under section 27;
+(g) if it appears to the Board that the registered surveyor, while being a director, manager, or an employee of a corporation, or a partner, manager or an employee of a partnership, had failed to take reasonable steps to prevent the corporation or partnership from acting in a manner (other than as described in section 32(1)(e)) which would warrant the Board revoking any licence granted to the corporation or partnership or imposing a penalty under section 32;
 
 (h) if he has been adjudicated a bankrupt;
 
@@ -720,7 +798,9 @@ DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (j) if he refuses or fails to comply with any order of the Board made under subsection (2)(a) or (c); or
 
-(k) if he refuses or fails to pay the cost of any correction to his cadastral survey within 14 days of the receipt of a statement issued to him under section 36(4).
+(k) if he refuses or fails to pay the cost of any correction to his cadastral survey within 14 days of the receipt of a statement issued to him under section 41(4).
+
+[35/98]
 
 (2) The Board may, in any case in which it considers that no cause of sufficient gravity for cancellation of registration or suspension from practice exists —
 
@@ -730,6 +810,8 @@ DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (c) order the registered surveyor to pay the cost of any correction to his cadastral survey incurred by the Chief Surveyor.
 
+[35/98]
+
 (3) The Board shall not exercise its powers under subsection (1) or (2) unless —
 
 (a) an opportunity of being heard either personally or by counsel has been given to the registered surveyor against whom the Board intends to exercise its powers; and
@@ -738,7 +820,7 @@ DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (4) Every penalty imposed by the Board under subsection (2)(a) shall be recoverable as a debt due to the Board.
 
-(5) While any order of suspension from practice made under this section remains in force, the person concerned shall not for the purposes of this Act be regarded as having in force a practising certificate but forthwith on the expiry or annulment of such order, his privileges as a registered surveyor shall be revived as from the date of expiry or annulment.
+(5) While any order of suspension from practice made under this section remains in force, the person concerned shall not for the purposes of this Act be regarded as having in force a practising certificate but immediately on the expiry or annulment of such order, his privileges as a registered surveyor shall be revived as from the date of expiry or annulment.
 
 (6) An order of cancellation of registration or suspension from practice shall not take effect until the expiration of a period of 30 days after the Board has informed the person concerned, but if within that period the person concerned gives due notice of appeal to the High Court, the order shall not take effect unless the order is confirmed by the Court or the appeal is for any reason dismissed by the Court.
 
@@ -752,19 +834,21 @@ DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (8) In this section, references to acts done include references to omissions to act and to a series of acts or omissions to act.
 
+[25
+
 ### Removal from registers
 
-26\.—(1) There shall be removed from the register of surveyors and register of practitioners the name and other particulars of any registered surveyor —
+31\.—(1) There shall be removed from the register of surveyors and register of practitioners the name and other particulars of any registered surveyor —
 
 (a) who has died;
 
-(b) whose registration has been cancelled under section 25; or
+(b) whose registration has been cancelled under section 30; or
 
 (c) who has not renewed his practising certificate for a continuous period of not less than 10 years.
 
 (2) Any registered surveyor may apply to the Board to have his name removed from the register of surveyors.
 
-(3) Every application under subsection (2) shall be made in the prescribed form and shall be supported by an affidavit served on the Board not less than two months before the application is heard.
+(3) Every application under subsection (2) shall be made in the prescribed form and shall be supported by an affidavit served on the Board not less than 2 months before the application is heard.
 
 (4) The Board may for good cause require the applicant to advertise his intention to make the application in such manner as the Board shall direct.
 
@@ -776,13 +860,15 @@ DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 (b) the conduct of the applicant is the subject of inquiry or investigation by an Investigation Committee.
 
+[26
+
 ### Revocation of licence
 
-27\.—(1) Subject to subsection (3), the Board may by order revoke any licence it granted to a corporation or partnership if in the opinion of the Board —
+32\.—(1) Subject to subsection (3), the Board may by order revoke any licence it granted to a corporation or partnership if in the opinion of the Board —
 
-(a) the corporation or partnership has contravened or failed to comply with any of the conditions imposed by the Board under section 18;
+(a) the corporation or partnership has contravened or failed to comply with any of the conditions imposed by the Board under section 23;
 
-(b) the memorandum or articles of association of the corporation have been so altered that they no longer include the restrictions, limitations or prohibitions of the kind specified in section 17(1), (2) or (4), whichever is applicable;
+(b) the memorandum or articles of association of the corporation have been so altered that they no longer include the restrictions, limitations or prohibitions of the kind specified in section 22(1), (2) or (4), whichever is applicable;
 
 (c) a person who is neither —
 
@@ -796,15 +882,17 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (e) the corporation or partnership has ceased to supply survey services in Singapore;
 
-(f) the corporation or partnership has contravened or failed to comply with section 19, 20 or 21, or has been convicted of an offence under this Act;
+(f) the corporation or partnership has contravened or failed to comply with section 24, 25 or 26, or has been convicted of an offence under this Act;
 
 (g) the corporation or partnership has contravened any provision of the prescribed code of professional conduct and ethics;
 
-(h) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership, affords grounds for believing that the corporation or partnership, as the case may be, will not engage in survey work in Singapore in accordance with the written law and with honesty and integrity;
+(h) the conduct of any director, manager or employee of the corporation, or any partner, manager or employee of the partnership, affords grounds for believing that the corporation or partnership, as the case may be, will not engage in survey work in Singapore in accordance with the written law and with honesty and integrity;
 
 (i) the corporation or partnership has refused or failed to comply with an order of the Board made under subsection (2); or
 
-(j) the corporation or partnership refuses or fails to pay the cost of any correction to its cadastral survey within 14 days of the receipt of a statement issued to it under section 36(4).
+(j) the corporation or partnership refuses or fails to pay the cost of any correction to its cadastral survey within 14 days of the receipt of a statement issued to it under section 41(4).
+
+[35/98; 34/99]
 
 (2) The Board may, in any case in which it considers that no cause of sufficient gravity for revoking a licence exists —
 
@@ -812,13 +900,15 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (b) order the corporation or partnership to pay the cost of any correction to its cadastral survey incurred by the Chief Surveyor.
 
+[35/98]
+
 (3) The Board shall not exercise its powers under subsection (1) or (2) unless —
 
 (a) an opportunity of being heard by a representative in writing or by counsel had been given to the corporation or partnership against whom the Board intends to exercise its powers; and
 
 (b) at least 3 members of the Board are present at the hearing.
 
-(4) Where the Board has revoked a licence pursuant to this section, it shall forthwith inform the corporation or partnership concerned.
+(4) Where the Board has revoked a licence under this section, it shall immediately inform the corporation or partnership concerned.
 
 (5) Any order of revocation made by the Board shall not take effect until the expiration of 30 days after the Board has informed the corporation or partnership concerned and if within that period the corporation or partnership gives due notice of appeal to the High Court, the order shall not take effect unless the order is confirmed by the Court or the appeal is for any reason dismissed by the Court.
 
@@ -828,27 +918,35 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply survey services in Singapore except as may be approved by the Board for the purpose of winding up its business.
 
-(7) Subsection (6) (b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
+[35/98; 34/99]
+
+(7) Subsection (6)(b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
+
+[27
 
 ### Appeals
 
-28\. If the Board has made —
+33\. If the Board has made —
 
-(a) an order of cancellation of registration or suspension from practice under section 25 against a registered surveyor;
+(a) an order of cancellation of registration or suspension from practice under section 30 against a registered surveyor;
 
-(b) an order of revocation of a licence under section 27 against a corporation or partnership; or
+(b) an order of revocation of a licence under section 32 against a corporation or partnership; or
 
-(c) an order imposing any pecuniary penalty on a registered surveyor under section 25(2) or on a licensed corporation or partnership under section 27(2),
+(c) an order imposing any pecuniary penalty on a registered surveyor under section 30(2) or on a corporation or partnership under section 32(2),
 
-the surveyor, corporation or partnership concerned may, within 30 days after the order or penalty has been communicated to him or them, appeal to the High Court whose decision shall be final.
+the surveyor, corporation or partnership concerned may, within 30 days after the order or penalty has been communicated to him or it, appeal to the High Court whose decision shall be final.
+
+[28
 
 ### Reinstatement of registration
 
-29\. The Board may in its discretion, after the expiration of not less than one year from the cancellation of registration of any person, consider any application for registration by that person in accordance with the provisions of Part IV.
+34\. The Board may in its discretion, after the expiration of not less than one year from the cancellation of registration of any person, consider any application for registration by that person in accordance with the provisions of Part IV.
 
-### Powers of Investigation Committee and Board to require attendance of witnesses, etc.
+[29
 
-30\.—(1) For the purposes of any investigation by an Investigation Committee or any hearing under section 25 or 27 by the Board, the Investigation Committee or the Board may —
+### Powers to require attendance of witnesses, etc.
+
+35\.—(1) For the purposes of any investigation by an Investigation Committee or any hearing under section 30 or 32 by the Board, the Investigation Committee or the Board may —
 
 (a) require evidence to be given on oath and for that purpose the Chairman of the Investigation Committee or any member of the Board, as the case may be, may administer an oath; and
 
@@ -864,13 +962,15 @@ the surveyor, corporation or partnership concerned may, within 30 days after the
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-## PART VIII
+[30
+
+## PART IX
 
 CONDUCT OF CADASTRAL SURVEYS
 
 ### Powers of entry for survey purposes
 
-31\.—(1) Any registered surveyor who has in force a practising certificate and is authorised either generally or specially by the Chief Surveyor may, for the purpose of conducting any survey under or for the purposes of this Act or any other written law, or the installation of any boundary or survey mark —
+36\.—(1) Any registered surveyor who has in force a practising certificate and is authorised either generally or specially by the Chief Surveyor may, for the purpose of conducting any survey under or for the purposes of this Act or any other written law, or the installation of any boundary or survey mark —
 
 (a) enter and re-enter any land, seabed, foreshore or building at any reasonable time during the hours of daylight, with or without such assistants, aircraft, boats, vehicles, appliances, machinery and equipment as are reasonably necessary for the conduct of the survey or to install the boundary or survey mark;
 
@@ -888,61 +988,115 @@ CONDUCT OF CADASTRAL SURVEYS
 
 (4) Nothing in this section shall exempt any registered surveyor or his assistants from liability for any damage caused in the exercise of the powers conferred by subsection (1).
 
-### Inspection of Authority’s survey maps
+[31
 
-32\. For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Authority, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation or partnership may at all reasonable times be permitted to inspect the relevant maps, plans or survey records lodged with the Authority and to take copies of such information therefrom as he may require upon payment to the Authority of a fee prescribed under section 40(2A), but he shall not remove any such maps, plans or survey records and shall be liable for any damage which he may cause to them while they are under his control.
+### Inspection of Authority’s survey maps, plans or survey records
 
-### Deposit of plans
+37\.—(1) For the purpose of obtaining data for a cadastral survey, the survey plan of which is to be lodged with the Authority, a registered surveyor who has in force a practising certificate or an authorised employee or manager of a licensed corporation or partnership may, upon payment to the Authority of a fee prescribed under section 47(3), at all reasonable times be permitted —
 
-33\. On completion of a cadastral survey, the registered surveyor who signs the survey plan thereof shall deposit that plan together with the relevant field books, calculation sheets and survey data with the Authority and if the plan is approved by the Chief Surveyor or other officer appointed by him to approve it on his behalf all those documents (including any copyright subsisting therein) shall become the property of the Authority and shall be filed as permanent survey records.
+(a) to inspect the relevant maps, plans or survey records lodged with the Authority; and
+
+(b) to take copies of such information therefrom as he may require.
+
+[17/2001]
+
+(2) Any person referred to in subsection (1) shall not remove any such maps, plans or survey records and shall be liable for any damage which he may cause to them while they are under his control.
+
+[32
+
+[35/98; 34/99]
+
+### Deposit of survey plans
+
+38\.—(1) On completion of a cadastral survey, the registered surveyor who signs the survey plan thereof shall deposit that plan together with the relevant field books, calculation sheets and survey data with the Authority.
+
+[17/2001]
+
+(2) If the survey plan is approved by the Chief Surveyor or other officer appointed by him to approve it on his behalf, all those documents (including any copyright subsisting therein) shall become the property of the Authority and shall be filed as permanent survey records.
+
+[33
+
+[35/98; 17/2001]
 
 ### Approval of cadastral surveys and assurance plans
 
-34\.—(1) No cadastral survey or survey plan thereof shall be accepted or adopted for the purpose of any written law unless it has been approved by the Chief Surveyor or other officer appointed by him to approve plans on his behalf.
+39\.—(1) No cadastral survey or survey plan thereof shall be accepted or adopted for the purpose of any written law unless it has been approved by the Chief Surveyor or other officer appointed by him to approve plans on his behalf.
 
-(2) No assurance plan shall be lodged in the Registry of Titles and Deeds unless the plan is signed by a registered surveyor and approved by the Chief Surveyor or other officer appointed by him to approve assurance plans on his behalf, and bears a caution to the effect that the boundaries or dimensions and areas are inconclusive.
+[35/98]
 
-(3) The Chief Surveyor may withhold approval of any plan under this section where the subdivision permission as required by section 12 of the Planning Act 1998 has not been obtained or where the survey fees prescribed under section 40(2A) have not been paid.
+(2) No assurance plan shall be lodged in the Registry of Deeds or the Land Titles Registry, as the case may be, of the Authority unless the plan —
+
+(a) is signed by a registered surveyor and approved by the Chief Surveyor or other officer appointed by him to approve assurance plans on his behalf; and
+
+(b) bears a caution to the effect that the boundaries or dimensions and areas are inconclusive.
+
+(3) The Chief Surveyor may withhold approval of any plan under this section where the subdivision permission as required by section 12 of the Planning Act (Cap. 232) has not been obtained or where the survey fees prescribed under section 47(3) have not been paid.
+
+[34
+
+[3/98; 17/2001]
 
 ### Duty of registered surveyor to complete cadastral survey
 
-35\.—(1) A registered surveyor who prepares and signs an assurance plan shall carry out and complete the cadastral survey of the land described and shown in the plan within 6 months from the date of approval of the plan by the Chief Surveyor or such extended period as the Chief Surveyor may allow.
+40\.—(1) A registered surveyor who prepares and signs an assurance plan shall carry out and complete the cadastral survey of the land described and shown in the plan within 6 months from the date of approval of the plan by the Chief Surveyor or such extended period as the Chief Surveyor may allow.
+
+[35/98; 17/2001]
 
 (2) Where a registered surveyor has not carried out or has not been able to complete the cadastral survey within the period specified in subsection (1) or any extended period allowed by the Board, the Board may order the cadastral survey to be carried out or completed by an authorised surveyor or another registered surveyor.
 
+[35/98; 17/2001]
+
 (3) This section shall not apply to registered surveyors in the employment of any public authority established by any written law.
+
+[35
 
 ### Correction of errors
 
-36\.—(1) The Chief Surveyor or any authorised surveyor designated by him may at any time undertake field and office checks on the cadastral survey work of a registered surveyor or a licensed corporation or partnership.
+41\.—(1) The Chief Surveyor or any authorised surveyor designated by him may at any time undertake field and office checks on the cadastral survey work of a registered surveyor or a licensed corporation or partnership.
 
-(2) The Chief Surveyor or any person authorised by him may, within 12 months after the date on which any survey plan is deposited with the Authority, by notice in writing, direct any registered surveyor or any licensed corporation or partnership to correct at his or its expense within a period specified in the notice any error in the cadastral survey made by that registered surveyor or a registered surveyor who is a director, partner, manager or employee of that corporation or partnership, as the case may be.
+[35/98; 17/2001]
 
-(3) If any person fails to comply with the notice given under subsection (2), the Chief Surveyor may undertake the correction of the survey and recover the cost of the correction from the person.
+(2) The Chief Surveyor or any person authorised by him may, within 12 months after the date on which any survey plan is deposited with the Authority, by notice in writing, direct any registered surveyor or any licensed corporation or partnership to correct at his or its expense within a period specified in the notice any error in the cadastral survey made by that registered surveyor or a registered surveyor who is a director, partner, manager or an employee of that corporation or partnership, as the case may be.
+
+[35/98; 17/2001]
+
+(3) If any person fails to comply with the notice given under subsection (2), the Chief Surveyor may undertake the correction of the cadastral survey and recover the cost of the correction from the person.
 
 (4) Where the Chief Surveyor is authorised to recover the cost of any correction of a cadastral survey under subsection (3), he shall serve on the registered surveyor, corporation or partnership concerned a statement of the cost of the correction by registered post addressed to the last known place of practice or residence of the registered surveyor, corporation or partnership.
 
+[35/98]
+
 (5) Subsections (2) and (3) shall not apply to an assurance plan.
 
-## PART IX
+[36
+
+## PART X
 
 GENERAL
 
 ### Application of fees, etc., received by Board
 
-37\.—(1) All fees, penalties and other moneys payable under this Act (other than fees prescribed under section 40(2A)) shall be paid to the Board to be applied in the first place to defraying the expenses incurred by the Board in the administration of this Act, including the remuneration of the Registrar and other officers and employees of the Board, and thereafter to providing scholarships and the promotion of learning and education in connection with the profession of surveying.
+42\.—(1) All fees, penalties and other moneys payable under this Act(other than fees prescribed under section 47(3)) shall be paid to the Board to be applied —
+
+(a) in the first place to defraying the expenses incurred by the Board in the administration of this Act, including the remuneration of the Registrar and other officers and employees of the Board; and
+
+(b) thereafter to providing scholarships and the promotion of learning and education in connection with the surveying profession.
+
+[17/2001]
 
 (2) The Registrar shall take and receive all moneys payable to the Board under this Act.
 
-(3) All fees and other moneys payable to the Board under this Act shall be paid forthwith into a bank account approved by the Minister.
+(3) All fees and other moneys payable to the Board under this Act shall be paid immediately into a bank account approved by the Minister.
 
 (4) The Board may from time to time invest any moneys not immediately required by the Board in such trustees’ securities as the Board may determine.
 
 (5) The Board shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor approved by the Minister.
 
+[37
+
 ### Penalty for wilful falsification of register and for wrongfully procuring registration, etc.
 
-38\. Any person who —
+43\. Any person who —
 
 (a) wilfully makes or causes to be made any false entry in or falsification of any register kept and maintained under this Act;
 
@@ -954,35 +1108,51 @@ GENERAL
 
 (iii) for any person to be approved as an assistant surveyor under this Act,
 
-[34/99 wef 01/03/2000]
-
 by making or producing or causing to be made or produced any false or fraudulent representation or declaration, either verbally or in writing, or by intentionally suppressing any material fact and furnishing information which is misleading; or
 
 (c) knowingly aids or assists in any of the acts mentioned in paragraph (a) or (b),
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000.
 
+[38
+
+[34/99]
+
 ### Offences by bodies corporate, etc.
 
-39\. Where a corporation, partnership or unincorporated association of persons is guilty of an offence under this Act and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, partner, secretary or other similar officer of the corporation, partnership or association or any person who was purporting to act in any such capacity, he, as well as the corporation, partnership or association, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+44\. Where a corporation, partnership or an unincorporated association of persons is guilty of an offence under this Act and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, partner, secretary or other similar officer of the corporation, partnership or association or any person who was purporting to act in any such capacity, he, as well as the corporation, partnership or association, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+[39
+
+### No action or proceedings in absence of bad faith or malice
+
+45\. No action or proceedings shall lie against the Board, an Investigation Committee or any member thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
+
+[42
+
+### Exemption
+
+46\.—(1) The Minister may, by order and subject to such conditions as he thinks fit, exempt any person or class of persons from all or any of the provisions of this Act.
+
+(2) Any order made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[41
 
 ### Rules
 
-40\.—(1) The Board may, with the approval of the Minister, make rules for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
+47\.—(1) The Board may, with the approval of the Minister, make rules for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
 
 (2) Without prejudice to the generality of subsection (1), the Board may, with the approval of the Minister, make rules —
 
 (a) prescribing forms of applications under this Act and certificates of registration, practising certificates and licences;
 
-(aa) prescribing the form and manner of application for approval of any person to be employed as an assistant surveyor and the duration of such approval;
+(b) prescribing the form and manner of application for approval of any person to be employed as an assistant surveyor and the duration of such approval;
 
-[34/99 wef 01/03/2000]
+(c) prescribing the fees payable to the Board under this Act;
 
-(b) prescribing the fees payable to the Board under this Act;
+(d) prescribing the subject-matter of examinations to be conducted by or under the direction of the Board in the case of applicants or class of applicants for registration;
 
-(c) prescribing the subject-matter of examinations to be conducted by or under the direction of the Board in the case of applicants or class of applicants for registration;
-
-(d) prescribing the form of the register of surveyors, register of approved assistant surveyors, register of practitioners and register of licensees to be kept and the particulars to be entered therein;
+(e) prescribing the form of the register of surveyors,register of approved assistant surveyors, register of practitioners and register of licensees to be kept and the particulars to be entered therein;
 
 (f) prescribing a code of professional conduct and ethics;
 
@@ -1000,77 +1170,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (v) any other registered surveyor applying for a practising certificate;
 
-(i) prescribing the terms and conditions of insurance against professional liability under this Act or rules, including a minimum limit of indemnity; and
+(i) prescribing the terms and conditions of insurance against professional liability under this Act, including a minimum limit of indemnity; and
 
 (j) regulating the proceedings of an Investigation Committee.
 
-(2A) The Authority may, with the approval of the Minister, make rules prescribing the fees to be charged by the Authority in connection with cadastral surveys and the time for payment of those fees.
+[35/98; 34/99; 17/2001]
 
-[17/2001 wef 01/06/2001]
+(3) The Authority may, with the approval of the Minister, make rules prescribing the fees to be charged by the Authority in connection with cadastral surveys and the time for payment of those fees.
 
-(3) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+[17/2001]
 
-### Exemption
+(4) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
-41\.—(1) The Minister may, by order and subject to such conditions as he thinks fit, exempt any person or class of persons from all or any of the provisions of this Act.
-
-(2) Any order made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
-
-### No action in absence of bad faith or malice
-
-42\. No action or proceedings shall lie against the Board, an Investigation Committee or any member thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
-
-## PART X
-
-SAVINGS AND TRANSITIONAL PROVISIONS
-
-### Persons already registered
-
-43\.—(1) Every person who is registered under the provisions of the repealed Act immediately before 30th August 1991 shall be deemed to be a registered surveyor under the provisions of this Act.
-
-(2) The Registrar shall transfer to the register of surveyors the names of all persons on the register kept under section 7 of the repealed Act together with the dates of their respective registration and any other particulars appearing in that register.
-
-### Continuation of office of Board members, etc.
-
-44\.—(1) Subject to section 4(4), a person who, immediately before 30th August 1991, held office as a member of the previous Board shall continue to hold office as members of the Board under this Act as if appointed under the provisions of this Act for the residue of his term of office.
-
-(2) The first Registrar of the Board shall be the person who, immediately before 30th August 1991, held office as the Secretary of the previous Board, and such person shall continue to hold office as if he had been appointed under section 8.
-
-### Transfer of assets and property
-
-45\. On 30th August 1991, all assets and properties of every description and all powers, rights and privileges in connection therewith or appertaining thereto which immediately before that date were vested in the previous Board shall be transferred to and vest in the Board without further assurance.
-
-### Transitional
-
-46\.—(1) On 30th August 1991, any scheme, contract, document, licence or resolution prepared, made, granted or approved by or on behalf of the previous Board shall continue and be deemed to have been prepared, made, granted or approved by the Board under this Act.
-
-(2) All obligations and liabilities of the previous Board existing immediately before 30th August 1991 shall as from that date be the obligations and liabilities of the Board and the Board shall have all necessary powers to discharge them.
-
-(3) In any written law and in any document, unless the context otherwise requires, any reference to the previous Board shall be construed as a reference to the Board.
-
-(4) Any proceedings or cause of action pending or existing immediately before 30th August 1991 by or against the previous Board, or any person acting on its behalf, may be continued and enforced by or against the Board.
-
-### Disciplinary proceedings
-
-47\.—(1) Where on 30th August 1991 any disciplinary proceedings under section 12 of the repealed Act are pending against any person, the proceedings shall be carried on and completed by the Board; but where on that date any such matters was being heard or investigated or had been heard or investigated by the previous Board and no order, report or decision had been rendered thereon, the previous Board shall continue to exist to complete the hearing or investigation and may make such order, report or decision as it could have under the provisions of the repealed Act.
-
-(2) Where pursuant to this section any order, report or decision is made by the previous Board, that order, report or decision shall have the same force and effect as if it had been made by the Board pursuant to the provisions of this Act.
-
-### Certificates of registration
-
-48\. Every certificate of registration issued under the repealed Act to any registered surveyor before 30th August 1991 shall not lapse but remain valid until the registration of the surveyor is cancelled under this Act.
-
-### Payment of cadastral survey fees
-
-49\. Where any sum is deposited or paid in advance to the Chief Surveyor under section 10(3)(b) of the Planning Act before 30th August 1991 in respect of any cadastral survey of land, that sum may be utilised by the Chief Surveyor in payment of the fees of any registered surveyor who has been engaged —
-
-(a) by the person who deposited the sum, or his successor in cadastral, to carry out the cadastral survey of that land; or
-
-(b) by the Board or previous Board to complete the cadastral survey of that land.
-
-### References in other written laws
-
-50\. On the expiration of two months from and including 30th August 1991, all references in any other written law to licensed or registered surveyors, or to persons registered under the provisions of the repealed Act, shall be read as references to registered surveyors who have in force practising certificates within the meaning of this Act.
+[40
 
 ## LEGISLATIVE HISTORY
 
@@ -1121,3 +1233,211 @@ This Legislative History is provided for the convenience of users of the Land Su
 |||(Bill No. 17/2001 published on 7 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
+|8.|**2002 Revised Edition—Land Surveyors Act (Chapter 156)**|
+||Date of operation|31 December 2002|
+## COMPARATIVE TABLE
+
+Land Surveyors Act
+
+(CHAPTER 156)
+
+The following provisions in the 1992 Revised Edition of the Land Surveyors Act have been renumbered by the Law Revision Commissioners in this 2002 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Land Surveyors Act.
+
+2002 Ed\. 
+
+1992 Ed\. 
+
+3 —(2) and (3)
+
+3 —(2)
+
+4 —(5) and (6)
+
+4 —(5)
+
+(7)
+
+(6)
+
+(8)
+
+(7)
+
+6 —(2) and (3)
+
+6 —(2)
+
+15 —(7) and (8)
+
+15 —(7)
+
+(9)
+
+(8)
+
+(10)
+
+(9)
+
+(11)
+
+(10)
+
+PART VI
+
+PART VA
+
+17 
+
+16A 
+
+18 
+
+16B 
+
+19 
+
+16C 
+
+20 
+
+16D 
+
+21 
+
+16E 
+
+PART VII
+
+PART VI
+
+22 
+
+17 
+
+23 
+
+18 
+
+24 
+
+19 
+
+25 —(1) and (2)
+
+20 —(1)
+
+(3)
+
+(2)
+
+26 
+
+21 
+
+27 
+
+22 
+
+28 
+
+23 
+
+PART VIII
+
+PART VII
+
+29 
+
+24 
+
+30 
+
+25 
+
+31 
+
+26 
+
+32 
+
+27 
+
+33 
+
+28 
+
+34 
+
+29 
+
+35 
+
+30 
+
+PART IX
+
+PART VIII
+
+36 
+
+31 
+
+37 —(1) and (2)
+
+32 
+
+38 —(1) and (2)
+
+33 
+
+39 
+
+34 
+
+40 
+
+35 
+
+41 
+
+36 
+
+PART X
+
+PART IX
+
+42 
+
+37 
+
+43 
+
+38 
+
+44 
+
+39 
+
+45 
+
+42 
+
+46 
+
+41 
+
+47 —(3)
+
+40 —(2A)
+
+(4)
+
+(3)
+
+Omitted—Spent
+
+43 to50 
+
