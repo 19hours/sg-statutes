@@ -176,7 +176,7 @@
 
 - [72 Enforcement of conditions and directions](#Enforcement-of-conditions-and-directions)
 
-- [73 Applications and certificates to be stamped](#Applications-and-certificates-to-be-stamped)
+- [73 (Repealed)](#Repealed)
 
 - [74 Gifts to vest in corporate body](#Gifts-to-vest-in-corporate-body)
 
@@ -1440,11 +1440,7 @@ Incorporation of Trustees
 
 [75
 
-### Applications and certificates to be stamped
-
-73\. Every application for a certificate of incorporation under this Part, and every such certificate, shall be charged with a stamp duty of $50, and a stamp denoting the payment of that duty shall be impressed or affixed upon such application or certificate.
-
-[76
+73\. [Deleted by Act 38/2002 wef 01/01/2003]
 
 ### Gifts to vest in corporate body
 
@@ -1870,6 +1866,12 @@ This Legislative History is provided for the convenience of users of the Trustee
 |||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|1 July 2002 (item (13) of Fourth Schedule)|
+|23.|**Act 38 of 2002—Stamp Duties (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|31 October 2002|
+|||(Bill No. 40/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|1 January 2003|
 ## COMPARATIVE TABLE
 
 Trustees Act
