@@ -8718,3 +8718,13 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|28 February 1999 (Section 8)|
 |131.|**G.N. No. S 267/99—Income Tax Act (Amendment of First Schedule) Order 1999**|
 ||Date of commencement|21 May 1999|
+|132.|**Act 32 of 1999—Income Tax (Amendment) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 24/99 published on 7 July 1999)|
+||Date of Second and Third Readings|17 August 1999|
+||Date of commencement|31 August 1999|
+|133.|**Act 34 of 2005—Income Tax (Amendment) Act 2005**|
+||Date of First Reading|19 September 2005|
+|||(Bill No. 27/2005 published on 20 September 2005)|
+||Date of Second and Third Readings|18 October 2005|
+||Date of commencement|31 August 1999 (Section 10(a))|
