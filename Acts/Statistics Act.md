@@ -34,11 +34,11 @@
 
 - [14 Transitional provision](#Transitional-provision)
 
-[**FIRST SCHEDULE Subject matters**](#FIRST-SCHEDULE-Subject-matters)
+[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
-[**SECOND SCHEDULE Research and statistics units**](#SECOND-SCHEDULE-Research-and-statistics-units)
+[**SECOND SCHEDULE Research and Statistics Units**](#SECOND-SCHEDULE-Research-and-Statistics-Units)
 
-[**THIRD SCHEDULE Competent authorities**](#THIRD-SCHEDULE-Competent-authorities)
+[**THIRD SCHEDULE Competent Authorities**](#THIRD-SCHEDULE-Competent-Authorities)
 
 [**Legislative History**](#Legislative-History)
 
@@ -170,7 +170,7 @@ then, in addition to the restrictions imposed by this section and any order made
 
 [9/90]
 
-(7) If any person discloses any returns or any information contrary to this section, or of any order made thereunder, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+(7) If any person discloses any returns or any information contrary to his section, or of any order made thereunder, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
 
 [5
 
@@ -274,239 +274,135 @@ Sections 3(1) and 13.
 
 Subject matters
 
-1.
+1. Accidents
 
-Accidents
+23. Income and expenditure
 
-23.
+2. Agriculture
 
-Income and expenditure
+24. Insurance
 
-2.
+3. Animal husbandry
 
-Agriculture
+25. Internal trade
 
-24.
+4. Banking
 
-Insurance
+26. Labour
 
-3.
+5. Births and Deaths
 
-Animal husbandry
+27. Land use
 
-25.
+6. Building
 
-Internal trade
+28. Manpower
 
-4.
+7. Citizenship
 
-Banking
+29. Manufacturing
 
-26.
+8. Commerce
 
-Labour
+30. Marriage and divorce
 
-5.
+9. Communications
 
-Births and Deaths
+31. Meteorology
 
-27.
+10. Construction
 
-Land use
+32. Mining
 
-6.
+11. Crime
 
-Building
+33. Narcotics
 
-28.
+12. Culture
 
-Manpower
+34. Pollution
 
-7.
+13. Education
 
-Citizenship
+35. Population
 
-29.
+14. Energy
 
-Manufacturing
+36. Power
 
-8.
+15. External trade
 
-Commerce
+37. Prisons
 
-30.
+16. Family planning
 
-Marriage and divorce
+38. Quarrying
 
-9.
+17. Fisheries
 
-Communications
+39. Recreation
 
-31.
+18. Forestry
 
-Meteorology
+40. Social security
 
-10.
+19. Finance
 
-Construction
+41. Sports
 
-32.
+20. Health
 
-Mining
+42. Tourism
 
-11.
+21. Housing
 
-Crime
+43. Transport.
 
-33.
-
-Narcotics
-
-12.
-
-Culture
-
-34.
-
-Pollution
-
-13.
-
-Education
-
-35.
-
-Population
-
-14.
-
-Energy
-
-36.
-
-Power
-
-15.
-
-External trade
-
-37.
-
-Prisons
-
-16.
-
-Family planning
-
-38.
-
-Quarrying
-
-17.
-
-Fisheries
-
-39.
-
-Recreation
-
-18.
-
-Forestry
-
-40.
-
-Social security
-
-19.
-
-Finance
-
-41.
-
-Sports
-
-20.
-
-Health
-
-42.
-
-Tourism
-
-22.
-
-Housing
-
-43.
-
-Transport.
-
-22.
-
-Immigration and emigration
+22. Immigration and emigration
 
 SECOND SCHEDULE
 
 Sections 4, 6, 7 and 13.
 
-Research and statistics units
+Research and Statistics Units
 
-1. 
+1\. Construction Economic Research Unit of the Construction Industry Development Board.
 
-Construction Economic Research Unit of the Construction Industry Development Board.
+2\. Research and Statistics Unit of the Economic Development Board.
 
-2. 
+3\. Research and Statistics Unit of the Ministry of Education.
 
-Research and Statistics Unit of the Economic Development Board.
+4\. Research and Statistics Unit of the Ministry of the Environment.
 
-3. 
+5\. Research and Statistics Unit of the Ministry of Health.
 
-Research and Statistics Unit of the Ministry of Education.
+6\. Research and Statistics Unit of the Ministry of Labour.
 
-4. 
-
-Research and Statistics Unit of the Ministry of the Environment.
-
-5. 
-
-Research and Statistics Unit of the Ministry of Health.
-
-6. 
-
-Research and Statistics Unit of the Ministry of Labour.
-
-7. 
-
-Statistics Unit, Banking and Financial Institutions Department of the Monetary Authority of Singapore.
+7\. Statistics Unit, Banking and Financial Institutions Department of the Monetary Authority of Singapore.
 
 THIRD SCHEDULE
 
 Sections 6, 7 and 13.
 
-Competent authorities
+Competent Authorities
 
 First column
 
 Second column
 
-1.
-
-Superintendent of Census
+1. Superintendent of Census
 
 Particulars and information obtained by the Superintendent of Census under the Census Act (Chapter 35).
 
-2.
-
-Central Provident Fund Board
+2. Central Provident Fund Board
 
 Particulars and information relating to the employment, employer and wages of Central Provident Fund members obtained by the Central Provident Fund Board under the Central Provident Fund Act (Chapter 36).
 
-3.
+3. Trade Development Board
 
-Trade Development Board
+Particulars and information obtained by the Trade Development Board under section 3 of the Regulation of Imports and Exports Act 1995 and any regulations made thereunder.
 
-Particulars and information obtained by the Trade Development Board under section 3 of the Registration of Imports and Exports Act (Chapter 270) and any rules made thereunder.
+[Act 24/1995 wef 01/12/1995]
 
 ## LEGISLATIVE HISTORY
 
@@ -537,3 +433,9 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|6 April 1990|
 |5.|**1991 Revised Edition—Statistics Act (Chapter 317)**|
 ||Date of operation|1 March 1991|
+|6.|**Act 24 of 1995—Regulation of Imports and Exports Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 May 1995|
+|||(Bill No. 19/95 published on 26 May 1995)|
+||Date of Second and Third Readings|7 July 1995|
+||Date of commencement|1 December 1995|
