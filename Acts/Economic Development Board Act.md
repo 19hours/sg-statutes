@@ -48,6 +48,8 @@
 
 - [20 Special provisions for enforcement of claims by Board](#Special-provisions-for-enforcement-of-claims-by-Board)
 
+- [20A Application of sections 18, 19 and 20 to tourist enterprises](#Application-of-sections-18-19-and-20-to-tourist-enterprises)
+
 - [21 Compulsory acquisition of land](#Compulsory-acquisition-of-land)
 
 - [22 Compulsory acquisition of property before 15th April 1983 not to be called in question](#Compulsory-acquisition-of-property-before-15th-April-1983-not-to-be-called-in-question)
@@ -114,7 +116,9 @@ An Act to establish the Economic Development Board.
 
 (f) fishing;
 
-(g) the business of a tourist enterprise as defined in the Tourist Promotion Board Act [Cap. 328];
+(g) the business of a tourism enterprise as defined in the Singapore Tourism Board Act;
+
+[Act 9/1997 wef 20/11/1997]
 
 “underwrite” means to contract, with or without conditions, to subscribe for stocks, shares, bonds or debentures of a business enterprise with a view to the resale of the whole or part of it.
 
@@ -470,6 +474,12 @@ Provided that when making any order under paragraph (c), the Judge may make such
 
 [11/89]
 
+### Application of sections 18, 19 and 20 to tourist enterprises
+
+20A\. Any reference to a business enterprise in sections 18, 19 and 20 shall be read as including a reference to a tourist enterprise as defined in the Tourist Promotion Board Act (Cap. 328) in force immediately before the commencement of the Tourist Promotion Board (Amendment) Act 1997.
+
+[Act 9/1997 wef 20/11/1997]
+
 ### Compulsory acquisition of land
 
 21\. Where any immovable property, not being State land, is needed for the purposes of the Board, the Board may request and the President may if he thinks fit direct the acquisition of that property; in such a case, the property may be acquired in accordance with the provisions of any written law relating to the acquisition of land for a public purpose and any declaration required under any such written law that the property is so needed may be made (notwithstanding that compensation is to be paid out of the funds of the Board) and the declaration shall have effect as if it were a declaration that the property is needed for a public purpose made in accordance with that written law.
@@ -681,3 +691,9 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 6/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997 (Item (12) of the Second Schedule – Amendment of Economic Development Board Act)|
+|15.|**Act 9 of 1997—Tourist Promotion Board (Amendment) Act 1997**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 August 1997|
+|||(Bill No. 11/97 published on 26 August 1997)|
+||Date of Second and Third Readings|7 October 1997|
+||Date of commencement|20 November 1997|
