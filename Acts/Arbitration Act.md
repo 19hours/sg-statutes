@@ -874,6 +874,10 @@ POWERS OF COURT IN RELATION TO AWARD
 
 (2) Where leave of the Court is so granted, judgment may be entered in the terms of the award.
 
+(3) Notwithstanding section 3, subsection (1) shall apply to an award irrespective of whether the place of arbitration is Singapore or elsewhere.
+
+[9/2003 wef 16/05/2003]
+
 ### No judicial review of award
 
 47\. The Court shall not have jurisdiction to confirm, vary, set aside or remit an award on an arbitration agreement except where so provided in this Act.
@@ -1185,6 +1189,11 @@ This Legislative History is provided for the convenience of users of the Arbitra
 ||Date of commencement|1 March 2002|
 |2.|**2002 Revised Edition—Arbitration Act**|
 ||Date of operation|31 July 2002|
+|3.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
 ## COMPARATIVE TABLE
 
 Arbitration Act
