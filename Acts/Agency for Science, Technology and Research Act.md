@@ -76,71 +76,129 @@ An Act to establish the National Science and Technology Board and for matters co
 
 “Board” means the Science and Technology Board established under section 3;
 
+“commercial application”, in relation to any knowledge or technology, means the application, utilization or exploitation of such knowledge or technology in the manufacture, production, sale, distribution or provision of goods or services in the course of any trade, business, enterprise or profession, and includes any business or commercial activity that is necessary for or related to the promotion, development or growth of any such trade, business, enterprise or profession;
+
+[18/2000 wef 01/06/2000]
+
 “Council” means the Science Council of Singapore constituted under the repealed Science Council of Singapore Act [Cap. 287];
 
-“member” means a member of the Board and includes the Chairman and the Deputy Chairman;
+“financial assistance” includes assistance by way of grant, loan, loan guarantee, the purchase or guarantee of bonds, debentures, notes or other debt obligations or the purchase or acquisition of any stock, shares or other equity securities;
 
-“chief executive officer” means the chief executive officer appointed under section 14 and includes any temporary chief executive officer of the Board.
+[18/2000 wef 01/06/2000]
+
+“member” means a member of the Board and includes the Chairman;
+
+“chief executive officer” means the chief executive officer appointed under section 14 and includes any temporary chief executive of the Board.
 
 ### Establishment of the National Science and Technology Board
 
 3\. There shall be established a body to be known as the National Science and Technology Board which shall be a body corporate with perpetual succession and a common seal and shall, by that name, be capable of —
 
-(a) suing and being sued;
-
-(b) acquiring, owning, holding and developing or disposing of property, both movable and immovable; and
-
-(c) doing and suffering such other acts or things as bodies corporate may lawfully do and suffer.
-
 ### Constitution of Board
 
 4\.—(1) The Board shall consist of —
 
-(a) a Chairman;
+(a) a Chairman; and
 
-(b) a Deputy Chairman; and
+(b) not less than 8 and not more than 20 other members.
 
-(c) not less than 8 and not more than 20 other members.
+[18/2000 wef 01/06/2000]
 
 (2) The First Schedule shall apply to the Board, its members and proceedings.
 
 ### Functions of Board
 
-5\. The functions of the Board are to —
+5\.—(1) The functions of the Board are —
 
-(a) encourage and promote research and development in science and technology;
+(a) to initiate, promote, stimulate, encourage, facilitate and assist in the development of an environment in Singapore that is conducive —
 
-(b) co-ordinate the establishment and development of research institutes and other facilities connected with science and technology;
+(i) to scientific and technological activities in areas defined by the Board;
 
-(c) undertake programmes and provide funds to promote and facilitate scientific and technological research and development in both the private and public sectors;
+(ii) to scientific and technological innovation; and
 
-(d) assess scientific and technological manpower needs and engage in programmes for developing such manpower;
+(iii) to the commercial application of scientific knowledge and technology;
 
-(e) undertake exchanges and joint programmes with other national and international organisations connected with science and technology; and
+(b) to stimulate, encourage or facilitate scientific and technological research and development or innovation, and the commercial application of any new or improved knowledge or technology resulting from such research and development or innovation, or any other scientific and technological research and development or innovation;
 
-(f) promote activities to increase public awareness on the importance of science and technology.
+(c) to enhance or improve the technical capability of industry, educational institutions and the research community in Singapore in scientific and technological research and development in areas defined by the Board;
+
+(d) to co-ordinate scientific and technological research and development and innovation by the Government, industry, educational institutions and the research community, and to facilitate co-operation, communication and exchange of ideas and knowledge between them;
+
+(e) to initiate and develop programmes or activities for the purpose of stimulating desirable scientific or technological advances, scientific and technological innovation and commercial application of scientific knowledge and technology in Singapore;
+
+(f) to determine or advise on the adequacy of scientific and technological activities and innovative activities in Singapore;
+
+(g) to attract to Singapore from overseas individuals or corporations who undertake scientific and technological research, or who invest or are involved in the commercial application of scientific knowledge and technology;
+
+(h) to advise the Government on the manpower requirements for scientific and technological activities, innovative activities and for the commercial application of scientific knowledge and technology in Singapore, and to engage in programmes (not limited to education or training) for developing such manpower in Singapore;
+
+(i) to alert the private and public sectors of Singapore to any new business opportunities that arise from the commercial application of scientific knowledge or technology;
+
+(j) to initiate or develop facilities or programmes for the purpose of assisting or increasing the ability of new or growing enterprises in Singapore, particularly small to medium size enterprises, to access or commercially apply scientific knowledge and technology in areas defined by the Board, and to manage innovation therein;
+
+(k) to provide advice and guidance to the Government in the formulation of its policies and laws on any aspect of science and technology or scientific and technological innovation, and on any matter relating to or affecting the commercial application of scientific knowledge and technology;
+
+(l) to foster or develop linkages between individuals, industries and enterprises in Singapore based on or involved in scientific and technological research and development or commercial application of scientific knowledge or technology and either investors (whether within or outside Singapore), similar individuals, industries and enterprises outside Singapore or other national or international authorities connected with science and technology or scientific and technological innovation;
+
+(m) to promote public awareness and understanding of the importance of developments and innovation in science and technology and the commercial application of scientific knowledge and technology; and
+
+(n) to represent Singapore internationally in respect of matters relating to science and technology.
+
+(2) In carrying out its functions, the Board shall —
+
+(a) have regard to the needs of Singapore and its resources; and
+
+(b) promote developments, commercial applications and innovation in areas of science and technology that increase the economic growth, productivity and employment opportunities in Singapore, that enjoy good export market prospects and that will enhance Singapore’s international competitiveness.
+
+(3) In addition to the functions specified in subsection (1), the Board may undertake such other functions as the Minister may assign to the Board and in so doing, the Board shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Board in respect of such additional functions.
+
+(4) Nothing in this section shall be construed as imposing on the Board, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
+
+[18/2000 wef 01/06/2000]
 
 ### Powers of Board
 
 6\.—(1) The Board shall have power to do all things that are necessary or convenient to be done for or in connection with the performance of its functions and, in particular, may —
 
-(a) appoint committees consisting of persons who may or may not be members of the Board and delegate to the committees such of its powers and functions as it may determine;
+(a) appoint committees consisting of persons who may or may not be members of the Board and delegate to the committee such of its powers and functions as it may determine;
 
 (b) form or participate in the formation of a company or enter into any joint venture or partnership for the purposes of this Act;
 
-(c) provide scholarships and training grants for the development of manpower in the fields of science and technology;
+(c) provide financial assistance for the development of manpower in Singapore required or conducive to the conduct of scientific and technological research and development or innovation, or to the commercial application of any scientific knowledge and technology;
 
-(d) grant loans or advances to, or subscribe to stocks, shares, bonds or debentures of new enterprises based on technology;
+[18/2000 wef 01/06/2000]
 
-(e) provide financial support for research institutes and specific research and development projects undertaken by the private and public sectors;
+(d) provide or develop, in partnership with the private sector, incubator facilities for new enterprises, and business support facilities to growing enterprises, which are based on or involved in the commercial application of any scientific knowledge and technology;
 
-(f) promote or undertake publicity in any form;
+[18/2000 wef 01/06/2000]
 
-(g) publish or sponsor the publication of periodicals, booklets and other written materials;
+(e) provide financial assistance to any individual or enterprise in the public or private sector for scientific and technological research and development or innovation, or for any commercial application of scientific knowledge or technology, in areas defined by the Board;
 
-(h) receive donations and contributions from any source and raise funds by all lawful means; and
+[18/2000 wef 01/06/2000]
 
-(i) do anything incidental to any of its powers.
+(f) receive, acquire, develop or hold, or sell, mortgage or otherwise dispose of any property, movable or immovable, or any interest therein;
+
+[18/2000 wef 01/06/2000]
+
+(g) establish and maintain offices within and outside Singapore;
+
+[18/2000 wef 01/06/2000]
+
+(h) promote or undertake publicity in any form;
+
+[18/2000 wef 01/06/2000]
+
+(i) publish, produce or sponsor the publication or production of periodicals, booklets, films and other materials in written, electronic or other media;
+
+[18/2000 wef 01/06/2000]
+
+(j) receive donations and contributions from any source and raise funds by all lawful means; and
+
+[18/2000 wef 01/06/2000]
+
+(k) generally do anything incidental to or consequential upon the exercise of any of its powers or the discharge of its functions under this Act.
+
+[18/2000 wef 01/06/2000]
 
 (2) The Board may, with the approval of the Minister, make rules to regulate the proceedings of the Board and generally to carry out the purposes of this Act.
 
@@ -224,9 +282,9 @@ Section 4.
 
 Constitution and proceedings of the Board
 
-Appointment of Chairman, Deputy Chairman and other members
+Appointment of Chairman and other members
 
-1.—(1) The Chairman, the Deputy Chairman and other members shall be appointed by the Minister.
+1.—(1) The Chairman and other members shall be appointed by the Minister.
 
 (2) The Minister may appoint the chief executive officer to be a member of the Board.
 
@@ -234,9 +292,23 @@ Tenure of office of members
 
 2\. A member shall hold office on such conditions and for such term, as the Minister may determine, and shall be eligible for reappointment.
 
-Temporary Chairman or temporary Deputy Chairman
+Deputy Chairmen
 
-3\. The Minister may appoint any member to be a temporary Chairman or temporary Deputy Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman or the Deputy Chairman, as the case may be.
+2A.—(1) The Minister may appoint not more than 2 members to be Deputy Chairmen of the Board.
+
+(2) At any time when the Chairman is absent or otherwise incapable of acting and no temporary Chairman has been appointed —
+
+(a) such one of the Deputy Chairmen as the Chairman may designate; or
+
+(b) if there is only one Deputy Chairman, that Deputy Chairman,
+
+may exercise any of the functions of the Chairman.
+
+[18/2000 wef 01/06/2000]
+
+Temporary Chairman
+
+3\. The Minister may appoint any member to be a temporary Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman.
 
 Temporary members
 
@@ -244,7 +316,7 @@ Temporary members
 
 Revocation of appointment
 
-5\. The Minister may, at any time, revoke the appointment of the Chairman or the Deputy Chairman or any member without assigning any reason.
+5\. The Minister may, at any time, revoke the appointment of the Chairman or a Deputy Chairman or any member without assigning any reason.
 
 Resignation
 
@@ -294,9 +366,9 @@ Meetings of Board
 
 (3) A decision at a meeting of the Board shall be adopted by a simple majority of the members present and voting except that in the case of an equality of votes the Chairman or member presiding shall have a casting vote in addition to his original vote.
 
-(4) The Chairman or in his absence the Deputy Chairman shall preside at all meetings of the Board.
+(4) The Chairman or in his absence a Deputy Chairman shall preside at all meetings of the Board.
 
-(5) Where both the Chairman and the Deputy Chairman are absent at a meeting, such member as the members present may elect shall preside at that meeting.
+(5) Where both the Chairman and every Deputy Chairman are absent at a meeting, such member as the members present may elect shall preside at that meeting.
 
 (6) Where not less than 4 members of the Board request the Chairman by notice in writing signed by them to convene a meeting of the Board for any purpose specified in the notice, the Chairman shall, within 7 days from the receipt of the notice, convene a meeting for that purpose.
 
@@ -392,7 +464,7 @@ Existing contracts
 
 Pending proceedings
 
-4\. Any proceedings or cause of action pending or existing immediately before 11th January 1991 by or against the Council or any person acting on its behalf may be continued and enforced by or against the Board.
+4\. Any proceeding or cause of action pending or existing immediately before 11th January 1991 by or against the Council or any person acting on its behalf may be continued and enforced by or against the Board.
 
 Continuation and completion of disciplinary proceedings
 
@@ -421,3 +493,8 @@ This Legislative History is provided for the convenience of users of the Agency 
 ||Date of commencement|11 January 1991|
 |2.|**1991 Revised Edition—National Science and Technology Board Act (Cap. 201A)**|
 ||Date of operation|1 March 1991|
+|3.|**Act 18 of 2000—National Science and Technology Board (Amendment) Act 2000**|
+||Date of First Reading|21 February 2000|
+|||(Bill No. 10/2000 published on 22 February 2000)|
+||Date of Second and Third Readings|25 April 2000|
+||Date of commencement|1 June 2000|
