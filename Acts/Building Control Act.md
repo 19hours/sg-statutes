@@ -204,7 +204,9 @@ and includes site formation works and any other kind of building operation conne
 
 “common property” has the same meaning as in the Buildings and Common Property (Maintenance and Management) Act [Cap. 30];
 
-“competent authority” means the competent authority appointed under section 3 of the Planning Act [Cap. 232, 1990 Ed];
+“competent authority” means the competent authority appointed under section 5 of the Planning Act 1998 in respect of the development of land;
+
+[3/98 wef 01/04/1998]
 
 “immediate supervision”, in relation to any building works or part thereof, means personally and directly exercising oversight, control and inspection of the carrying out of the building works or part thereof;
 
@@ -368,11 +370,11 @@ CONTROL OF BUILDING WORKS
 
 (5) Any approval granted in respect of buildings works under this section shall automatically lapse —
 
-(a) in cases where written permission has been granted by the competent authority under the Planning Act [Cap. 232, 1990 Ed] in respect of any development of land involving the building works, if the written permission lapses pursuant to section 10(7) of that Act;
+(a) in cases where written permission has been granted by the competent authority under the Planning Act 1998 in respect of any development of land involving the building works, if the written permission lapses pursuant to section 20 of that Act;
 
 (b) if the building works are not commenced within the prescribed period; or
 
-(c) in cases where no written permission is granted under section 10(5) of the Planning Act in respect of those building works, if the building works are suspended for a continuous period of more than 6 months.
+(c) in cases where no written permission is granted under section 14 of the Planning Act 1998 in respect of those building works, if the building works are suspended for a continuous period of more than 6 months.
 
 [Act 18/95 wef 01/09/1995 vide S 370/95]
 
@@ -1474,3 +1476,9 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of commencement|7 July 1997|
 |10.|**G. N. No. S 96/1998—Building Control Act (Amendment of Schedule) Order 1998**|
 ||Date of commencement|13 March 1998|
+|11.|**Act 3 of 1998—Planning Act 1998**|
+||(Consequential amendments made by)||
+||Date of First Reading|19.11.97|
+|||(Bill No. 18/97 published on 20.11.97)|
+||Date of Second and Third Readings|14.1.98|
+||Date of commencement|1 April 1998|
