@@ -246,6 +246,14 @@
 
 - [130A "Harbour"](#"Harbour")
 
+[**A**](#A)
+
+[**Piracy**](#Piracy)
+
+- [130B Piracy by law of nations. Cf. 12 and 13 Victoria c.96 (Admiralty Offences (Colonial) Act 1849)](#Piracy-by-law-of-nations-Cf-12-and-13-Victoria-c96-Admiralty-Offences-Colonial-Act-1849)
+
+- [130C Piractical acts](#Piractical-acts)
+
 [**Chapter VII  OFFENCES RELATING TO THE ARMED FORCES**](#Chapter-VII--OFFENCES-RELATING-TO-THE-ARMED-FORCES)
 
 - [131 Abetting mutiny, or attempting to seduce an officer or a serviceman from his duty](#Abetting-mutiny-or-attempting-to-seduce-an-officer-or-a-serviceman-from-his-duty)
@@ -2077,6 +2085,42 @@ Explanation—A prisoner of State or prisoner of war who is permitted to be at l
 ### “Harbour”
 
 130A\. In this Chapter, “harbour” includes the supplying a person with shelter, food, drink, money, clothes, arms, ammunition, or means of conveyance, or the assisting a person in any way to evade apprehension.
+
+A
+
+Piracy
+
+### Piracy by law of nations. Cf. 12 and 13 Victoria c.96 (Admiralty Offences (Colonial) Act 1849)
+
+130B\.—(1) A person commits piracy who does any act that, by the law of nations, is piracy.
+
+(2) Whoever commits piracy shall be punished with imprisonment for life and with caning with not less than 12 strokes, but if while committing or attempting to commit piracy he murders or attempts to murder another person or does any act that is likely to endanger the life of another person he shall be punished with death.
+
+[Act 35 of 1993 wef 12/11/1993]
+
+### Piractical acts
+
+130C\. Whoever, while in or out of Singapore —
+
+(a) steals a Singapore ship;
+
+(b) steals or without lawful authority throws overboard, damages or destroys anything that is part of the cargo, supplies or fittings in a Singapore ship;
+
+(c) does or attempts to do a mutinous act on a Singapore ship; or
+
+(d) counsels or procures a person to do anything mentioned in
+
+paragraph (
+
+a
+
+)
+
+, (b) or (c),
+
+shall be punished with imprisonment for a term not exceeding 10 years and shall be liable to caning.”.
+
+[Act 35 of 1993 wef 12/11/1993]
 
 ### Chapter VII
 
@@ -5343,3 +5387,9 @@ This Ordinance was deemed to have come into operation on the same date as the St
 ||Date of commencement|31 August 1984|
 |44.|**1985 Revised Edition—Penal Code (Cap. 224)**|
 ||Date of operation|30 March 1987|
+|45.|**Act 35 of 1993—Application of English Law Act 1993**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|30 August 1993|
+|||(Bill No. 26/93 published on 31 August 1993)|
+||Date of Second and Third Readings|12 October 1993|
+||Date of commencement|12 November 1993|
