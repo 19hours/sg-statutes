@@ -58,7 +58,7 @@
 
 - [19 General civil jurisdiction](#General-civil-jurisdiction)
 
-- [20 Jurisdiction in actions of contracts and tort](#Jurisdiction-in-actions-of-contracts-and-tort)
+- [20 Jurisdiction in actions of contract and tort](#Jurisdiction-in-actions-of-contract-and-tort)
 
 - [21 Jurisdiction in actions for recovery of money under any written law](#Jurisdiction-in-actions-for-recovery-of-money-under-any-written-law)
 
@@ -72,41 +72,35 @@
 
 - [26 Equity jurisdiction](#Equity-jurisdiction)
 
-- [27 (Repealed)](#Repealed)
+- [27 Jurisdiction to grant probates](#Jurisdiction-to-grant-probates)
 
-- [28 Jurisdiction to grant probates](#Jurisdiction-to-grant-probates)
+- [28 Jurisdiction to issue distress](#Jurisdiction-to-issue-distress)
 
-- [29 (Repealed)](#Repealed)
+- [29 Jurisdiction to grant relief by interpleader](#Jurisdiction-to-grant-relief-by-interpleader)
 
-- [30 Jurisdiction to issue distress](#Jurisdiction-to-issue-distress)
+- [30 Variation of District Court limit](#Variation-of-District-Court-limit)
 
-- [31 Jurisdiction to grant relief by interpleader](#Jurisdiction-to-grant-relief-by-interpleader)
+- [31 Powers of District Court same as High Court](#Powers-of-District-Court-same-as-High-Court)
 
-- [31A Variation of District Court limit](#Variation-of-District-Court-limit)
+- [32 Powers of District Judge in chambers](#Powers-of-District-Judge-in-chambers)
 
-- [32 Powers of District Court same as High Court](#Powers-of-District-Court-same-as-High-Court)
-
-- [33 Powers of District Judge in chambers](#Powers-of-District-Judge-in-chambers)
-
-- [33A Assessors](#Assessors)
+- [33 Assessors](#Assessors)
 
 - [34 Jurisdiction of registrar](#Jurisdiction-of-registrar)
 
 - [35 Division of causes of action](#Division-of-causes-of-action)
 
-- [36 (Repealed)](#Repealed)
+- [36 Examination of witnesses abroad in District Court cases](#Examination-of-witnesses-abroad-in-District-Court-cases)
 
-- [37 Examination of witnesses abroad in District Court cases](#Examination-of-witnesses-abroad-in-District-Court-cases)
+- [37 General power to transfer from High Court to District Court](#General-power-to-transfer-from-High-Court-to-District-Court)
 
-- [38 General power to transfer from High Court to District Court](#General-power-to-transfer-from-High-Court-to-District-Court)
+- [38 General power to transfer from District Court to High Court](#General-power-to-transfer-from-District-Court-to-High-Court)
 
-- [39 General power to transfer from District Court to High Court](#General-power-to-transfer-from-District-Court-to-High-Court)
+- [39 Costs of certain actions commenced in High Court which could have been commenced in a subordinate court](#Costs-of-certain-actions-commenced-in-High-Court-which-could-have-been-commenced-in-a-subordinate-court)
 
-- [40 Costs of certain actions commenced in High Court which could have been commenced in a subordinate court](#Costs-of-certain-actions-commenced-in-High-Court-which-could-have-been-commenced-in-a-subordinate-court)
+- [40 Costs in cases transferred from one court to another](#Costs-in-cases-transferred-from-one-court-to-another)
 
-- [41 Costs in cases transferred from one court to another](#Costs-in-cases-transferred-from-one-court-to-another)
-
-- [41A Allocation of proceedings to High Court](#Allocation-of-proceedings-to-High-Court)
+- [41 Allocation of proceedings to High Court](#Allocation-of-proceedings-to-High-Court)
 
 - [42 Finality of judgments and orders of District Court](#Finality-of-judgments-and-orders-of-District-Court)
 
@@ -114,7 +108,7 @@
 
 - [44 Enforcement of judgments of District Courts](#Enforcement-of-judgments-of-District-Courts)
 
-- [45 (Repealed)](#Repealed)
+- [45 Execution of deed or indorsement of negotiable instrument](#Execution-of-deed-or-indorsement-of-negotiable-instrument)
 
 - [46 (Repealed)](#Repealed)
 
@@ -152,7 +146,7 @@
 
 [**Part V ADMINISTRATION**](#Part-V)
 
-- [57 Registry of the subordinate courts](#Registry-of-the-subordinate-courts)
+- [57 Registry of subordinate courts](#Registry-of-subordinate-courts)
 
 - [58 Nature of business at any sitting](#Nature-of-business-at-any-sitting)
 
@@ -178,9 +172,11 @@
 
 - [69 Rules of Court](#Rules-of-Court)
 
-[**THE SCHEDULE Forms of Oaths and Affirmations**](#THE-SCHEDULE)
+[**THE SCHEDULE Forms of Oaths and Affirmations 3. Oath of Office of Other Officer of A Court**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Subordinate Courts Act
 
@@ -188,9 +184,9 @@
 
 (Original Enactment: Act 19 of 1970)
 
-REVISED EDITION 1985
+REVISED EDITION 1999
 
-(30th March 1987)
+(1st August 1999)
 
 An Act relating to the constitution, jurisdiction and powers of the subordinate courts and the administration of justice therein.
 
@@ -210,17 +206,21 @@ PRELIMINARY
 
 “action” means a civil proceeding commenced by summons or in such other manner as may be prescribed by Rules of Court;
 
-“commissioner for oaths” means a commissioner for oaths appointed under section 68 of the Supreme Court of Judicature Act [Cap. 322];
+“commissioner for oaths” means a commissioner for oaths appointed under section 68 of the Supreme Court of Judicature Act (Cap. 322);
 
 “District Court limit” means —
 
-(a) in sections 26(a) and 28, $3 million or such other amount as may be specified by an order under section 31A; and
+(a) in sections 26(a) and 27, $3 million or such other amount as may be specified by an order under section 30; and
 
-(b) in any other section, $100,000 or such other amount as may be specified by an order under section 31A;
+(b) in any other section, $250,0001or such other amount as may be specified by an order under section 30;
+
+1O 1 (S 333/97) — Subordinate Courts (Variation of District Court Limit) Order.
 
 “judicial officer” means a District Judge, Magistrate, Coroner or registrar;
 
-“Magistrate’s Court limit” means $30,000 or such other amount as may be specified by an order under section 52(3);
+“Magistrate’s Court limit” means $60,0002or such other amount as may be specified by an order under section 52(3);
+
+2S 263/99 — Subordinate Courts (Variation of Magistrate’s Court Limit) Order 1999.
 
 “prescribed” means prescribed by Rules of Court;
 
@@ -252,11 +252,11 @@ CONSTITUTION
 
 (e) Small Claims Tribunals.
 
-(2) The Small Claims Tribunals shall have such jurisdiction as is conferred by the Small Claims Tribunals Act [Cap. 308] or any other written law.
-
-(3) Except as provided in the Small Claims Tribunals Act, no provision of this Act or any Rules of Court shall apply to a Small Claims Tribunal.
-
 [27/84]
+
+(2) The Small Claims Tribunals shall have such jurisdiction as is conferred by the Small Claims Tribunals Act (Cap. 308) or any other written law.
+
+(3) Except as provided in the Small Claims Tribunals Act, no provision of this Act or Rules of Court shall apply to a Small Claims Tribunal.
 
 ### Court houses
 
@@ -264,9 +264,9 @@ CONSTITUTION
 
 ### Seals of courts
 
-5\. The subordinate courts shall have and use as occasion may require a seal or seals of such nature as the Chief Justice may, by notification in theGazette, prescribe.
+5\. The subordinate courts shall have and use as occasion may require a seal or seals of such nature as the Chief Justice may, by notification in theGazette3, prescribe.
 
-[N 1.]
+3N 1, 1997 Ed. (S 230/75).
 
 ### Process of courts
 
@@ -276,7 +276,9 @@ CONSTITUTION
 
 ### Sittings of subordinate courts
 
-6A\.—(1) Subject to subsection (2), every subordinate court shall sit on every day of the year except on Sundays and public holidays.
+6A\.—(1) Subject to subsection (2), every subordinate court shall sit on every day of the year except on Sundays and public holidays .
+
+[8/98]
 
 (2) Notwithstanding subsection (1), a judicial officer may lawfully sit on a Sunday or public holiday or during a vacation authorised under section 61 if —
 
@@ -284,17 +286,21 @@ CONSTITUTION
 
 (b) in the opinion of the judicial officer, the business to be despatched is extremely urgent.
 
+[8/98]
+
 (3) Every subordinate court shall sit at such times as the Chief Justice may from time to time appoint.
 
-[8/98 wef 10/04/1998]
+[8/98]
 
 ### Sittings in camera, etc.
 
-7\.—(1) The place in which any subordinate court is held, shall be deemed an open and public court to which the public generally may have access:
+7\.—(1) The place in which any subordinate court is held shall be deemed an open and public court to which the public generally may have access.
 
-Provided that the court shall have power to hear any proceedings or any part thereof in camera if the court is satisfied that it is expedient in the interests of justice, public security or propriety, or for other sufficient reason to do so.
+(2) A subordinate court shall have power to hear any proceedings or any part thereof in camera if the court is satisfied that it is expedient in the interests of justice, public security or propriety, or for other sufficient reason to do so.
 
-(2) A subordinate court may at any time order that no person shall publish the name, address or photograph of any witness in any proceedings or any part thereof or any evidence or any other thing likely to lead to the identification of any such witness; and any person who acts in contravention of any such order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+(3) A subordinate court may at any time order that no person shall publish the name, address or photograph of any witness in any proceedings or any part thereof or any evidence or any other thing likely to lead to the identification of any such witness.
+
+(4) Any person who acts in contravention of any order under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Contempt
 
@@ -304,13 +310,19 @@ Provided that the court shall have power to hear any proceedings or any part the
 
 (b) in connection with any proceedings in the subordinate courts.
 
+[4/96]
+
 (2) Where contempt of court is committed in the circumstances mentioned in subsection (1), the court may impose imprisonment for a term not exceeding 6 months or a fine not exceeding $2,000 or both.
+
+[4/96]
 
 (3) The court may discharge the offender or remit the punishment if the court thinks it just to do so.
 
-(4) In any case where the contempt is punishable as an offence under section 175, 178, 179, 180 or 228 of the Penal Code [Cap. 224], the court may, in lieu of punishing the offender for contempt, refer the matter to the Attorney-General with a view to instituting criminal proceedings against the offender.
+[4/96]
 
-[Act 4/96 wef 26/01/1996 vide S 36/96]
+(4) In any case where the contempt is punishable as an offence under section 175, 178, 179, 180 or 228 of the Penal Code (Cap. 224), the court may, in lieu of punishing the offender for contempt, refer the matter to the Attorney-General with a view to instituting criminal proceedings against the offender.
+
+[4/96]
 
 ## PART III
 
@@ -322,7 +334,7 @@ APPOINTMENTS, POWERS AND DUTIES
 
 (2) For the purposes of the administration of this Act, the President may, on the recommendation of the Chief Justice, appoint a Senior District Judge who shall have seniority over all other District Judges.
 
-(3) No person shall be appointed to be or to act as a District Judge unless he has been for not less than 5 years a qualified person as defined in section 2 of the Legal Profession Act [Cap. 161].
+(3) No person shall be appointed to be or to act as a District Judge unless he has been for not less than 5 years a qualified person as defined in section 2 of the Legal Profession Act (Cap. 161).
 
 (4) Any person appointed to be or to act as a District Judge shall, although the period of his appointment has expired or his appointment has been revoked, sit as a District Judge for the purpose of giving judgment or otherwise in relation to any case heard by him.
 
@@ -332,7 +344,7 @@ APPOINTMENTS, POWERS AND DUTIES
 
 10\.—(1) The President may, on the recommendation of the Chief Justice, appoint any fit and proper person to be a Magistrate or a Coroner.
 
-(2) No person shall be appointed to be or to act as a Magistrate or a Coroner unless he has been for not less than one year a qualified person as defined in section 2 of the Legal Profession Act [Cap. 161].
+(2) No person shall be appointed to be or to act as a Magistrate or a Coroner unless he has been for not less than one year a qualified person as defined in section 2 of the Legal Profession Act (Cap. 161).
 
 ### Justices of the Peace
 
@@ -344,9 +356,7 @@ APPOINTMENTS, POWERS AND DUTIES
 
 12\.—(1) There shall be appointed by the Chief Justice a registrar and so many deputy registrars as may be necessary for the subordinate courts.
 
-(2) No person shall be appointed to be or to act as registrar unless he is a qualified person as defined in section 2 of the Legal Profession Act:
-
-Provided that the Chief Justice may, in his discretion, appoint any person who is not a qualified person under that Act.
+(2) No person shall be appointed to be or to act as registrar unless he is a qualified person as defined in section 2 of the Legal Profession Act, except that the Chief Justice may, in his discretion, appoint any person who is not a qualified person under that Act.
 
 (3) The registrar and the deputy registrars shall be ex officio commissioners for oaths.
 
@@ -360,11 +370,19 @@ Provided that the Chief Justice may, in his discretion, appoint any person who i
 
 ### Powers and duties of certain subordinate court officers
 
-15\. The bailiffs and process servers shall execute all writs, summonses, warrants, orders, notices and other mandatory processes of the subordinate courts given to them, and shall make a return of the same together with the manner of the execution thereof to the court from which the process issued, and shall arrest and receive all such persons and property as are committed to the custody of the subordinate courts.
+15\. The bailiffs and process servers shall —
+
+(a) execute all writs, summonses, warrants, orders, notices and other mandatory processes of the subordinate courts given to them;
+
+(b) make a return of the same together with the manner of the execution thereof to the court from which the process issued; and
+
+(c) arrest and receive all such persons and property as are committed to the custody of the subordinate courts.
 
 ### Solicitor, etc., authorised to act as bailiff
 
 15A\.—(1) Subject to such directions as may be given by the Senior District Judge, the registrar may authorise a solicitor or a person employed by a solicitor to exercise the powers and perform the duties of a bailiff during such period or on such occasion as the registrar thinks fit and subject to such terms and conditions as the registrar may determine.
+
+[15/93]
 
 (2) Section 68(2) shall apply to a solicitor or person authorised under subsection (1) as it applies to an officer of a subordinate court.
 
@@ -380,7 +398,11 @@ Provided that the Chief Justice may, in his discretion, appoint any person who i
 
 (2) The oath referred to in subsection (1) may be taken and subscribed before the Senior District Judge or a Judge of the Supreme Court.
 
-(3) Where the oath is taken before the Senior District Judge he shall enter in the record of his court that the oath was duly administered and taken before him, and shall transmit a certified copy of the entry to the Registrar of the Supreme Court.
+(3) Where the oath is taken before the Senior District Judge, he shall —
+
+(a) enter in the record of his court that the oath was duly administered and taken before him; and
+
+(b) transmit a certified copy of the entry to the Registrar of the Supreme Court.
 
 ### Appointments and revocations to be gazetted
 
@@ -400,7 +422,7 @@ Civil Jurisdiction of District Courts
 
 [15/93]
 
-(3) A District Court shall have the jurisdiction in sections 20, 21, 25, 26 and 31 where —
+(3) A District Court shall have the jurisdiction in sections 20, 21, 25, 26 and 29 where —
 
 (a) the defendant is served with a writ or other originating process —
 
@@ -412,35 +434,31 @@ Civil Jurisdiction of District Courts
 
 [15/93]
 
-(4) A District Court’s jurisdiction conferred by the following sections of this Part shall not include —
+(4) A District Court’s jurisdiction conferred by the following sections of this Part shall not include any jurisdiction expressly excluded by any other written law.
 
-(a) any jurisdiction to hear and try any civil proceeding which comes within the jurisdiction of the Syariah Court constituted under the Administration of Muslim Law Act [Cap. 3]; and
+[20/99]
 
-(b) any jurisdiction expressly excluded by any other written law.
+(5) A District Court’s jurisdiction to hear and try any civil proceeding which comes within the jurisdiction of the Syariah Court constituted under the Administration of Muslim Law Act (Cap. 3) shall be the same as the High Court as if section 17A of the Supreme Court of Judicature Act (Cap. 322) applies to the District Court with the modification that any reference therein to the High Court shall be read as a reference to a District Court.
+
+[20/99]
+
+(6) Without prejudice to the generality of subsection (2), a District Court shall have such jurisdiction as is vested in it by any other written law.
 
 [15/93]
 
-(5) Without prejudice to the generality of subsection (2), a District Court shall have such jurisdiction as is vested in it by any other written law.
-
-[15/93]
-
-### Jurisdiction in actions of contracts and tort
+### Jurisdiction in actions of contract and tort
 
 20\.—(1) A District Court shall have jurisdiction to hear and try any action founded on contract or tort where —
 
 (a) the debt, demand or damage claimed does not exceed the District Court limit, whether on balance of account or otherwise; or
 
-(b) there is no claim for money, and the remedy or relief sought in the action is in respect of a subject matter the value of which does not exceed the District Court limit.
+(b) there is no claim for money, and the remedy or relief sought in the action is in respect of a subject-matter the value of which does not exceed the District Court limit.
+
+[15/93]
 
 (2) A District Court shall have jurisdiction to hear and try any action where the debt or demand claimed consists of a balance not exceeding the District Court limit after a set-off of any debt or demand claimed or recoverable by the defendant from the plaintiff, being a set-off admitted by the plaintiff in the particulars of his claim or demand.
 
-[6/76]
-
-[3/86]
-
-[15/93]
-
-[15/93]
+[6/76; 3/86; 15/93]
 
 ### Jurisdiction in actions for recovery of money under any written law
 
@@ -450,23 +468,19 @@ Civil Jurisdiction of District Courts
 
 (b) the amount claimed in the action does not exceed the District Court limit.
 
-(2) For the purposes of this section, “sum” shall not include a fine to which any person is liable on conviction.
-
 [15/93]
+
+(2) For the purposes of this section, “sum” shall not include a fine to which any person is liable on conviction.
 
 [15/93]
 
 ### Abandonment of part of claim to give District Court jurisdiction
 
-22\.—(1) Where a plaintiff has a cause of action which exceeds the District Court limit in which, if it did not exceed the District Court limit, a District Court would have jurisdiction under section 20(1)(a) or (2) or section 21, the plaintiff may abandon the excess and thereupon a District Court shall have jurisdiction to hear and try the action, provided that the plaintiff shall not recover in the action an amount exceeding the District Court limit.
-
-(2) Where a District Court has jurisdiction to hear and try an action by virtue of this section, the judgment of the court in the action shall be in full discharge of all demands in respect of the cause of action.
+22\.—(1) Where a plaintiff has a cause of action which exceeds the District Court limit in which, if it did not exceed the District Court limit, a District Court would have jurisdiction under section 20(1) (a) or (2) or 21, the plaintiff may abandon the excess and thereupon a District Court shall have jurisdiction to hear and try the action, provided that the plaintiff shall not recover in the action an amount exceeding the District Court limit.
 
 [15/93]
 
-[6/76]
-
-[3/86]
+(2) Where a District Court has jurisdiction to hear and try an action by virtue of this section, the judgment of the court in the action shall be in full discharge of all demands in respect of the cause of action.
 
 [15/93]
 
@@ -474,15 +488,11 @@ Civil Jurisdiction of District Courts
 
 23\. Where the parties to an action agree, by a memorandum signed by them or their respective solicitors, a District Court shall have jurisdiction to hear and try any action founded on contract or tort notwithstanding that the debt, demand or damage claimed exceeds the District Court limit.
 
-[6/76]
-
-[3/86]
-
-[15/93]
+[6/76; 3/86; 15/93]
 
 ### Transfer of counterclaim from District Court to High Court
 
-24\.—(1) Where, in an action founded on contract or tort in a District Court, any counterclaim or set-off and counterclaim of any defendant involves a matter beyond the jurisdiction of the District Court, any party to the action may apply to the High Court, within such time as may be prescribed by the Rules of the Supreme Court, for an order that the whole proceedings, or the proceedings on the counterclaim or set-off and counterclaim, be transferred to the High Court.
+24\.—(1) Where, in an action founded on contract or tort in a District Court, any counterclaim or set-off and counterclaim of any defendant involves a matter beyond the jurisdiction of the District Court, any party to the action may apply to the High Court, within such time as may be prescribed by Rules of Court, for an order that the whole proceedings, or the proceedings on the counterclaim or set-off and counterclaim, be transferred to the High Court.
 
 (2) On any such application the High Court may, as it thinks fit, order either —
 
@@ -490,21 +500,21 @@ Civil Jurisdiction of District Courts
 
 (b) that the whole proceedings be tried in a District Court; or
 
-(c) that the proceedings on the counterclaim or set-off and counterclaim be transferred to the High Court and that the proceedings on the plaintiff’s claim and the defence thereto other than the set-off (if any) be tried in a District Court:
+(c) that the proceedings on the counterclaim or set-off and counterclaim be transferred to the High Court and that the proceedings on the plaintiff’s claim and the defence thereto other than the set-off (if any) be tried in a District Court.
 
-Provided that, where an order is made under paragraph (c), and judgment on the claim is given for the plaintiff, execution thereon shall, unless the High Court at any time otherwise orders, be stayed until the proceedings transferred to the High Court have been concluded.
+(3) Where an order is made under subsection (2)(c), and judgment on the claim is given for the plaintiff, execution thereon shall, unless the High Court at any time otherwise orders, be stayed until the proceedings transferred to the High Court have been concluded.
 
-(3) Where no application is made under subsection (1) or where on such an application it is ordered that the whole proceedings be tried in the District Court, the District Court shall have jurisdiction to try the proceedings, notwithstanding any other provisions of this Act.
+(4) Where no application is made under subsection (1) or where on such an application it is ordered that the whole proceedings be tried in the District Court, the District Court shall have jurisdiction to try the proceedings, notwithstanding any other provisions of this Act.
 
 ### Jurisdiction in actions for recovery of immovable property
 
 25\. A District Court shall have jurisdiction to hear and try any action for the recovery of immovable property with or without a claim for rent or mesne profits and whether or not the title to the property is in dispute, where —
 
-(a) the annual value of the property appearing in the Valuation List authenticated under the Property Tax Act [Cap. 254] does not exceed the District Court limit;
+(a) the annual value of the property appearing in the Valuation List authenticated under the Property Tax Act (Cap. 254) does not exceed the District Court limit;
 
 (b) the annual rent payable by the tenant does not exceed the District Court limit or the monthly rent payable by the tenant does not exceed one-twelfth of the District Court limit; or
 
-(c) if the annual value, annual rent or monthly rent cannot be ascertained, the last transacted price of the property does not exceed ten times the District Court limit.
+(c) if the annual value, annual rent or monthly rent cannot be ascertained, the last transacted price of the property does not exceed 10 times the District Court limit.
 
 [15/93]
 
@@ -528,57 +538,49 @@ Provided that, where an order is made under paragraph (c), and judgment on the c
 
 [15/93]
 
-27\. [Repealed by Act 15/93]
-
 ### Jurisdiction to grant probates
 
-28\. A District Court shall have jurisdiction to grant probate or letters of administration in respect of the estate and effects within Singapore of any deceased person, where the estate and effects in respect of which the grant is applied for, exclusive of what the deceased was possessed of or entitled to as a trustee and not beneficially, but without deducting anything on account of the debts due or owing from the deceased, do not exceed in value the District Court limit; and may alter, revoke or annul the same.
+27\. A District Court shall have jurisdiction to grant probate or letters of administration in respect of the estate and effects within Singapore of any deceased person, where the estate and effects in respect of which the grant is applied for, exclusive of what the deceased was possessed of or entitled to as a trustee and not beneficially, but without deducting anything on account of the debts due or owing from the deceased, do not exceed in value the District Court limit; and may alter, revoke or annul the same.
 
-[6/76]
+[28
 
-[3/86]
-
-[15/93]
-
-29\. [Repealed by Act 15/93]
+[6/76; 3/86; 15/93]
 
 ### Jurisdiction to issue distress
 
-30\. A District Court shall have jurisdiction under the Distress Act [Cap. 84] in all cases where the amount of rent distrained or to be distrained does not exceed the District Court limit.
+28\. A District Court shall have jurisdiction under the Distress Act (Cap. 84) in all cases where the amount of rent distrained or to be distrained does not exceed the District Court limit.
+
+[30
 
 [15/93]
 
 ### Jurisdiction to grant relief by interpleader
 
-31\.—(1) A District Court shall have jurisdiction to grant relief by way of interpleader —
+29\.—(1) A District Court shall have jurisdiction to grant relief by way of interpleader —
 
 (a) where a bailiff of a District Court is charged with the execution of any writ or order of the Court and claim is made to any money or other movable property taken or intended to be taken in execution of the writ or order, or to the proceeds or value of any such property, by any person other than the person against whom the writ or order was issued or made; and
 
-(b) where the person seeking relief is under liability for any debt, money, or other movable property of which the amount or value does not exceed the District Court limit and for or in respect of which he has been or expects to be sued by two or more parties making adverse claims thereto.
+(b) where the person seeking relief is under liability for any debt, money, or other movable property of which the amount or value does not exceed the District Court limit and for or in respect of which he has been or expects to be sued by 2 or more parties making adverse claims thereto.
 
-[6/76]
-
-[3/86]
-
-[15/93]
+[6/76; 3/86; 15/93]
 
 (2) If it appears to the High Court that any proceedings in the High Court by way of interpleader, in which the amount in dispute or value of the subject-matter does not exceed the District Court limit, may be more conveniently tried in a District Court, the High Court may at any time order that the proceedings be transferred to a District Court.
 
-[6/76]
+[31
 
-[3/86]
-
-[15/93]
+[6/76; 3/86; 15/93]
 
 ### Variation of District Court limit
 
-31A\. The President may, after consulting the Chief Justice, by order vary the District Court limit mentioned in any of the foregoing provisions.
+30\. The President may, after consulting the Chief Justice, by order vary the District Court limit mentioned in any of the foregoing provisions.
+
+[31A
 
 [15/93]
 
 ### Powers of District Court same as High Court
 
-32\.—(1) A District Court, as regards any action within its jurisdiction, shall in any proceedings before it —
+31\.—(1) A District Court, as regards any action within its jurisdiction, shall in any proceedings before it —
 
 (a) grant such relief, redress or remedy or combination of remedies, either absolute or conditional; and
 
@@ -586,29 +588,43 @@ Provided that, where an order is made under paragraph (c), and judgment on the c
 
 as ought to be granted or given in the like action by the High Court and in as full and ample a manner.
 
+[15/93]
+
 (2) Without prejudice to the generality of subsection (1), a District Court shall, as regards any action within its jurisdiction, have power —
 
 (a) to grant an injunction whether or not any other relief is or could be claimed; and
 
 (b) to make binding declarations of rights whether or not any consequential relief is or could be claimed.
 
+[32
+
 [15/93]
 
 ### Powers of District Judge in chambers
 
-33\. A District Judge shall have jurisdiction in any civil proceedings pending in a District Court to make any order or to exercise any authority or jurisdiction which, if it related to a proceeding pending in the High Court, might be made or exercised by a Judge of the High Court in chambers.
+32\. A District Judge shall have jurisdiction in any civil proceeding pending in a District Court to make any order or to exercise any authority or jurisdiction which, if it related to a proceeding pending in the High Court, might be made or exercised by a Judge of the High Court in chambers.
+
+[33
 
 [15/93]
 
 ### Assessors
 
-33A\.—(1) In any proceedings, a District Judge may, if he thinks fit on the application of any party, or on his own motion, summon to his assistance, in such manner as may be prescribed by Rules of Court, one or more persons of skill and experience in the matter to which the proceedings relate who may be willing to sit with the District Judge and act as assessors.
+33\.—(1) In any proceedings, a District Judge may, if he thinks fit on the application of any party, or on his own motion, summon to his assistance, in such manner as may be prescribed by Rules of Court, one or more persons of skill and experience in the matter to which the proceedings relate who may be willing to sit with the District Judge and act as assessors.
+
+[15/93]
 
 (2) Subject to subsection (3), the remuneration of assessors for sitting under this section shall be at such rate as may be prescribed by Rules of Court and shall be costs in the proceedings unless otherwise ordered by the District Judge.
 
+[15/93]
+
 (3) Where one or more assessors are summoned for the purposes of this section otherwise than on the application of a party to the proceedings, the remuneration of any such assessor shall be payable out of moneys provided by Parliament.
 
+[15/93]
+
 (4) Where any person is proposed to be summoned as an assessor, objection to him, either personally or in respect of his qualification, may be taken by any party in the prescribed manner.
+
+[33A
 
 [15/93]
 
@@ -618,37 +634,47 @@ as ought to be granted or given in the like action by the High Court and in as f
 
 ### Division of causes of action
 
-35\. A cause of action shall not be divided for the purpose of bringing two or more actions.
-
-36\. [Repealed by Act 15/93]
+35\. A cause of action shall not be divided for the purpose of bringing 2 or more actions.
 
 ### Examination of witnesses abroad in District Court cases
 
-37\.—(1) The High Court shall, on application made in the manner prescribed by the Rules of the Supreme Court, have the same power to issue a request or order to examine witnesses abroad for the purpose of civil proceedings in a District Court as it has for the purpose of an action or matter in the High Court.
+36\.—(1) The High Court shall, on application made in the manner prescribed by Rules of Court, have the same power to issue a request or order to examine witnesses abroad for the purpose of civil proceedings in a District Court as it has for the purpose of an action or matter in the High Court.
 
 (2) Where such an application is made, the High Court may, if it thinks fit, order the proceedings to be transferred to the High Court.
 
+[37
+
 ### General power to transfer from High Court to District Court
 
-38\. In any action commenced by way of writ of summons in the High Court in the exercise of its original civil jurisdiction, any party may for any sufficient reason at any time apply to the High Court for an order that the proceedings be transferred to a District Court, and the High Court may thereupon, if it thinks fit, order that the proceedings be transferred accordingly notwithstanding any other provisions of this Act.
+37\.—(1) In any action commenced by way of writ of summons in the High Court in the exercise of its original civil jurisdiction, any party may for any sufficient reason at any time apply to the High Court for an order that the proceedings be transferred to a District Court.
+
+(2) The High Court may thereupon, if it thinks fit, order that the proceedings be transferred accordingly notwithstanding any other provisions of this Act.
+
+[38
 
 ### General power to transfer from District Court to High Court
 
-39\. Where it is made to appear to the High Court, on the application of a party to any civil proceeding pending in a District Court that the proceeding by reason of its involving some important question of law, or being a test case, or for any other sufficient reason, is one which should be tried in the High Court, it may order the record to be transferred to the High Court.
+38\. Where it is made to appear to the High Court, on the application of a party to any civil proceeding pending in a District Court, that the proceeding by reason of its involving some important question of law, or being a test case, or for any other sufficient reason, is one which should be tried in the High Court, it may order the record to be transferred to the High Court.
+
+[39
 
 ### Costs of certain actions commenced in High Court which could have been commenced in a subordinate court
 
-40\.—(1) Where an action founded on contract or tort or any written law to recover a sum of money is commenced in the High Court which could have been commenced in a subordinate court, then subject to subsections (3) and (4), the plaintiff —
+39\.—(1) Where an action founded on contract or tort or any written law to recover a sum of money is commenced in the High Court which could have been commenced in a subordinate court, then, subject to subsections (3) and (4), the plaintiff —
 
 (a) if he recovers a sum not exceeding the District Court limit, shall not be entitled to any more costs of the action than those to which he would have been entitled if the action had been brought in a District Court; and
 
-(b) if he recovers a sum not exceeding the Magistrate’s Court limit, shall not be entitled to any more costs of the action than those to which he would have been entitled if the action had been brought in a Magistrate’s Court:
+(b) if he recovers a sum not exceeding the Magistrate’s Court limit, shall not be entitled to any more costs of the action than those to which he would have been entitled if the action had been brought in a Magistrate’s Court.
 
-Provided that this section shall not affect any question as to costs if it appears to the High Court that there was reasonable ground for supposing the amount recoverable in respect of the plaintiff’s claim to be in excess of the amount recoverable in an action commenced in a subordinate court.
+[15/93]
 
-(2) For the purposes of subsection (1)(a) and (b), a plaintiff shall be treated as recovering the full amount recoverable in respect of his claim without regard to any deduction made in respect of contributory negligence on his part or otherwise in respect of matters not falling to be taken into account in determining whether the action could have been commenced in a subordinate court.
+(2) For the purposes of subsection (1) (a) and (b), a plaintiff shall be treated as recovering the full amount recoverable in respect of his claim without regard to any deduction made in respect of contributory negligence on his part or otherwise in respect of matters not falling to be taken into account in determining whether the action could have been commenced in a subordinate court.
+
+[15/93]
 
 (3) Where a plaintiff is entitled to costs on the subordinate courts scale only, the Registrar of the Supreme Court shall have the same power of allowing any items of costs as a District Judge or Magistrate would have had if the action had been brought in a subordinate court.
+
+[15/93]
 
 (4) In any action, the High Court, if satisfied —
 
@@ -658,31 +684,43 @@ Provided that this section shall not affect any question as to costs if it appea
 
 may make an order allowing the costs or any part of the costs thereof on the High Court scale or on the subordinate courts scale as it may direct.
 
+[15/93]
+
 (5) This section shall not apply in the case of any proceedings by the Government.
+
+[15/93]
+
+(6) This section shall not affect any question as to costs if it appears to the High Court that there was reasonable ground for supposing the amount recoverable in respect of the plaintiff’s claim to be in excess of the amount recoverable in an action commenced in a subordinate court.
+
+[40
 
 [15/93]
 
 ### Costs in cases transferred from one court to another
 
-41\. Where an action, counterclaim or matter is ordered to be transferred —
+40\.—(1) Where an action, counterclaim or matter is ordered to be transferred —
 
 (a) from the High Court to a District Court; or
 
 (b) from a District Court to the High Court,
 
-the costs of the whole proceedings both before and after the transfer shall, subject to any order made by the court which ordered the transfer, be in the discretion of the court to which the proceedings are transferred, and that court shall have power to make orders with respect thereto and as to the scales on which the costs of the several parts of the proceedings are to be paid:
+the costs of the whole proceedings both before and after the transfer shall, subject to any order made by the court which ordered the transfer, be in the discretion of the court to which the proceedings are transferred, and that court shall have power to make orders with respect thereto and as to the scales on which the costs of the several parts of the proceedings are to be paid.
 
-Provided that, as regards so much of the proceedings in any action transferred from the High Court to a District Court as takes place in the High Court before the transfer —
+(2) As regards so much of the proceedings in any action transferred from the High Court to a District Court as takes place in the High Court before the transfer —
 
-(i) the costs thereof shall be subject to section 40; and
+(a) the costs thereof shall be subject to section 39; and
 
-(ii) the powers of the High Court under section 40(4) to make an order allowing costs on the High Court scale or on the subordinate courts scale, shall, subject to any order of the High Court, be exercisable by the District Court.
+(b) the powers of the High Court under section 39(4) to make an order allowing costs on the High Court scale or on the subordinate courts scale, shall, subject to any order of the High Court, be exercisable by the District Court.
 
 ### Allocation of proceedings to High Court
 
-41A\.—(1) The Chief Justice may, where he considers it necessary or expedient to improve efficiency in the administration of justice and to provide for more speedy disposal of proceedings commenced in the District Courts, by order direct such class or classes or description of proceedings as may be specified in the order to be heard and determined by the High Court.
+41\.—(1) The Chief Justice may, where he considers it necessary or expedient to improve efficiency in the administration of justice and to provide for more speedy disposal of proceedings commenced in the District Courts, by order direct such class or classes or description of proceedings as may be specified in the order to be heard and determined by the High Court.
+
+[15/93]
 
 (2) Any order under subsection (1) may make such incidental provision for the transfer of the proceedings to the High Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
+
+[41A
 
 [15/93]
 
@@ -700,7 +738,7 @@ Provided that, as regards so much of the proceedings in any action transferred f
 
 (2) If at any time it appears to the satisfaction of a District Court that any party to any proceedings is unable from any cause to pay any sum recovered against him (whether by way of satisfaction of the claim or counterclaim in the proceedings or by way of costs or otherwise) or any instalment thereof, the Court may, in its discretion, suspend or stay any judgment or order given or made in the proceedings for such time and on such terms as the Court thinks fit, and so from time to time until it appears that the cause of inability has ceased.
 
-(3) Where an order for payment by instalments is made, the payment shall be made into court and no execution shall issue, except with the leave of the Court.
+(3) Where an order for payment by instalments is made, the payment shall be made into court and no execution shall issue, except with the leave of the District Court.
 
 ### Enforcement of judgments of District Courts
 
@@ -708,13 +746,21 @@ Provided that, as regards so much of the proceedings in any action transferred f
 
 [15/93]
 
-45\. [Repealed by Act 15/93]
+### Execution of deed or indorsement of negotiable instrument
+
+45\.—(1) If a judgment or order of a District Court is for the execution of a deed, or signing of a document, or for the indorsement of a negotiable instrument, and the party ordered to execute, sign or indorse such instrument is absent, neglects or refuses to do so, any party interested in having the same executed, signed or indorsed, may prepare a deed, document or indorsement of the instrument in accordance with the terms of the judgment or order, and tender the same to a District Court for execution upon the proper stamp, if any is required by law, and the signature thereof by the registrar, by order of the District Court, shall have the same effect as the execution, signing or indorsement thereof by the party ordered to execute.
+
+[20/99]
+
+(2) Nothing in this section shall be held to abridge the powers of a District Court to proceed by attachment against any person neglecting or refusing to execute, sign or indorse any such instrument.
+
+[20/99]
 
 46\. [Repealed by Act 15/93]
 
 ### General provision relating to civil appeals
 
-47\. Subject to the provisions of the Supreme Court of Judicature Act [Cap. 322] relating to civil appeals from the subordinate courts to the High Court, the Rules of Court shall regulate and prescribe the procedure on appeals from a District Court exercising civil jurisdiction to the High Court.
+47\. Subject to the provisions of the Supreme Court of Judicature Act (Cap. 322) relating to civil appeals from the subordinate courts to the High Court, Rules of Court shall regulate and prescribe the procedure on appeals from a District Court exercising civil jurisdiction to the High Court.
 
 ### Agreement not to appeal
 
@@ -722,13 +768,17 @@ Provided that, as regards so much of the proceedings in any action transferred f
 
 ### Appeal not to operate as stay of execution
 
-49\. An appeal from a District Court exercising civil jurisdiction shall not operate as a stay of execution or of proceedings under the judgment or order appealed from, unless the Court or the High Court so orders, and no intermediate act or proceeding shall be invalidated except so far as the High Court may direct.
+49\.—(1) An appeal from a District Court exercising civil jurisdiction shall not operate as a stay of execution or of proceedings under the judgment or order appealed from, unless the District Court or the High Court so orders.
+
+(2) No intermediate act or proceeding shall be invalidated except so far as the High Court may direct.
 
 Criminal Jurisdiction of District Courts
 
 ### Jurisdiction of District Courts exercising criminal jurisdiction
 
-50\.—(1) Subject to subsection (2), a District Court exercising criminal jurisdiction shall have the jurisdiction and powers conferred on it by the Criminal Procedure Code and any other written law.
+50\.—(1) Subject to subsection (2), a District Court exercising criminal jurisdiction shall have the jurisdiction and powers conferred on it by the Criminal Procedure Code (Cap. 68) and any other written law.
+
+[15/93]
 
 (2) The criminal jurisdiction of a District Court shall be exercisable where the offence is committed —
 
@@ -742,13 +792,13 @@ Criminal Jurisdiction of District Courts
 
 [15/93]
 
-[Act 15/93]
-
 Jurisdiction of Magistrates’ Courts
 
 ### Criminal jurisdiction of Magistrates’ Courts
 
 51\.—(1) Subject to subsection (2), a Magistrate’s Court shall have the jurisdiction and powers conferred on it by the Criminal Procedure Code and any other written law.
+
+[15/93]
 
 (2) The criminal jurisdiction of a Magistrate’s Court shall be exercisable where the offence is committed —
 
@@ -762,21 +812,15 @@ Jurisdiction of Magistrates’ Courts
 
 [15/93]
 
-[15/93]
-
 ### Civil jurisdiction of Magistrates’ Courts
 
-52\.—(1) Subject to Rules of Court, a Magistrate’s Court shall have the jurisdiction and powers conferred on a District Court by sections 20 (except 20 (1) (b)), 21, 31, 32(1), 33 and 43 in any proceedings where the amount claimed or the value of the subject-matter in dispute does not exceed the Magistrate’s Court limit.
+52\.—(1) Subject to Rules of Court, a Magistrate’s Court shall have the jurisdiction and powers conferred on a District Court by sections 20 (except 20 (1) (b)), 21, 29, 31(1), 32 and 43 in any proceedings where the amount claimed or the value of the subject-matter in dispute does not exceed the Magistrate’s Court limit.
+
+[6/76; 3/86; 15/93]
 
 (2) In exercising its jurisdiction under subsection (1), a Magistrate’s Court shall be subject to the same limitations and provisions as are applicable to a District Court under this Act.
 
 (3) The President may, after consulting the Chief Justice, by order vary the Magistrate’s Court limit.
-
-[15/93]
-
-[6/76]
-
-[3/86]
 
 [15/93]
 
@@ -792,15 +836,13 @@ Jurisdiction of Juvenile Courts
 
 ### Jurisdiction of Juvenile Courts
 
-55\. A Juvenile Court shall have the jurisdiction and powers conferred on it by the Children and Young Persons Act [Cap. 38].
+55\. A Juvenile Court shall have the jurisdiction and powers conferred on it by the Children and Young Persons Act (Cap. 38).
 
 Jurisdiction of Coroners’ Courts
 
 ### Jurisdiction of Coroners’ Courts
 
-56\. A Coroner’s Court shall have and may exercise the jurisdiction and powers and perform the duties conferred on a Coroner by the Criminal Procedure Code.
-
-[Cap.68.]
+56\. A Coroner’s Court shall have and may exercise the jurisdiction and powers and perform the duties conferred on a Coroner by the Criminal Procedure Code (Cap. 68).
 
 Reference of Constitutional Question
 
@@ -808,11 +850,19 @@ Reference of Constitutional Question
 
 56A\.—(1) Where in any proceedings in a subordinate court a question arises as to the interpretation or effect of any provision of the Constitution, the court hearing the proceedings may stay the proceedings on such terms as may be just to await the decision of the question on the reference to the High Court.
 
+[15/93]
+
 (2) An order staying proceedings under this section may be made by the court of its own motion or on the application of any party and shall be made at such stage of the proceedings as the court may see fit having regard to the decision of such questions of fact as may be necessary to be settled to assist the High Court in deciding the question which has arisen and to the speedy and economical final determination of the proceedings.
+
+[15/93]
 
 (3) Where an order for stay of proceedings has been made under this section, the court shall state the question which in its opinion has arisen as to the interpretation or effect of the Constitution in the form of a special case which so far as may be possible shall state the question in a form which shall permit of an answer being given in the affirmative or the negative.
 
+[15/93]
+
 (4) The court shall cause the special case to be transmitted to the High Court and the High Court shall hear and determine the constitutional question arising out of the case in the exercise of its original jurisdiction.
+
+[15/93]
 
 (5) Notice of the hearing of the special case by the High Court under this section shall be given to the Attorney-General who shall have a right to be heard.
 
@@ -822,9 +872,11 @@ Reference of Constitutional Question
 
 ADMINISTRATION
 
-### Registry of the subordinate courts
+### Registry of subordinate courts
 
-57\.—(1) The Registry of the subordinate courts shall be open on every day of the year except on Sundays and public holidays.
+57\.—(1) The Registry of the subordinate courts shall be open on every day of the year except on Sundays and public holidays .
+
+[8/98]
 
 (2) Notwithstanding subsection (1), the registrar may lawfully sit or carry out the business of the Registry on a Sunday or public holiday if —
 
@@ -832,9 +884,11 @@ ADMINISTRATION
 
 (b) in the opinion of the registrar, the business to be despatched is extremely urgent.
 
+[8/98]
+
 (3) The office hours of the Registry shall be such times as the Senior District Judge, with the concurrence of the Chief Justice, may from time to time direct.
 
-[8/98 wef 10/04/1998]
+[8/98]
 
 ### Nature of business at any sitting
 
@@ -862,17 +916,17 @@ ADMINISTRATION
 
 (3) No person’s name shall be included in the list until he has been heard or had an opportunity of being heard against such inclusion.
 
-(4) An appeal shall lie to a Judge of the Supreme Court in chambers from an order made by the Senior District Judge to include a person’s name in the list.
+(4) An appeal shall lie to a Judge of the High Court in chambers from an order made by the Senior District Judge to include a person’s name in the list.
 
 [16/93]
 
-(5) The decision of the Judge of the Supreme Court shall be final.
+(5) The decision of the Judge of the High Court shall be final.
 
 [16/93]
 
 (6) A copy of the list shall be kept hung up in the office or offices of the subordinate courts and shall be published in theGazette.
 
-(7) A person whose name appears in the list of touts under section 73 of the Supreme Court of Judicature Act [Cap. 322] shall be deemed to be included in the list under this section, and vice versa.
+(7) A person whose name appears in the list of touts under section 73 of the Supreme Court of Judicature Act (Cap. 322) shall be deemed to be included in the list under this section, and vice versa.
 
 ### Impounding documents
 
@@ -880,13 +934,13 @@ ADMINISTRATION
 
 (2) The document which has been impounded shall not be delivered out of the custody of the court or inspected except on an order signed by a judicial officer.
 
-(3) The court that impounded the document may direct the document to be sent to the Attorney-General, the Commissioner of Stamps or any other officer of the Government.
+(3) The court that impounded the document may direct the document to be sent to the Attorney-General, the Commissioner of Stamp Duties or any other officer of the Government.
 
 ### Disqualification of judicial officers
 
-64\. A judicial officer shall not be capable of accepting or taking any other office of emolument, nor of carrying on any business whatsoever either directly or indirectly, nor shall he accept any fees of office, perquisites, emoluments or advantages whatsoever, other than and except his salary and allowances:
+64\.—(1) A judicial officer shall not be capable of accepting or taking any other office of emolument, nor of carrying on any business either directly or indirectly, nor shall he accept any fees of office, perquisites, emoluments or advantages, other than and except his salary and allowances.
 
-Provided that, with the approval of the Chief Justice, a judicial officer may be appointed to any commission of inquiry or other quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education, or other knowledge and may receive an allowance or other honorarium.
+(2) A judicial officer may, with the approval of the Chief Justice, be appointed to any commission of inquiry or other quasi-judicial or administrative tribunal, or hold any office in any institution or society for charitable purposes or for the advancement or encouragement of art, science, education, or other knowledge and may receive an allowance or other honorarium.
 
 ### Judicial officers not to act where interested
 
@@ -902,15 +956,15 @@ Provided that, with the approval of the Chief Justice, a judicial officer may be
 
 (a) with extortion or misconduct while acting under colour of the process of the court; or
 
-(b) with not duly paying or accounting for any money levied by him under the authority of this Act or the Rules of Court,
+(b) with not duly paying or accounting for any money levied by him under the authority of this Act or Rules of Court,
 
 it shall be lawful for a District Judge nominated by the Senior District Judge to inquire into the matter in a summary manner.
 
 (2) For the purpose of any such inquiry, the District Judge may summon and enforce the attendance of all necessary parties in the like manner as the attendance of witnesses in any case may be enforced.
 
-(3) On any such inquiry the District Judge may make such order as he thinks just for the repayment of the money extorted or the due payment of the money levied, and for the payment of damages and costs, and also, if he thinks fit, may impose such fine upon the officer, not exceeding $100 for each offence, as appears to him to be adequate.
+(3) On any such inquiry, the District Judge may make such order as he thinks just for the repayment of the money extorted or the due payment of the money levied, and for the payment of damages and costs, and also, if he thinks fit, may impose such fine upon the officer, not exceeding $100 for each offence, as appears to him to be adequate.
 
-(4) If it is found by a District Judge that any officer, while employed in carrying out his duties under this Act or the Rules of Court or in exercising any of the powers thereof, has wilfully and corruptly exacted or accepted any fee or reward whatsoever, other than such fees as are for the time being allowed under this Act or the Rules of Court, that officer shall, in addition to being liable for damages under subsection (3), be incapable of being an officer of the subordinate courts.
+(4) If it is found by a District Judge that any officer, while employed in carrying out his duties under this Act or Rules of Court or in exercising any of the powers thereof, has wilfully and corruptly exacted or accepted any fee or reward, other than such fees as are for the time being allowed under this Act or Rules of Court, that officer shall, in addition to being liable for damages under subsection (3), be incapable of being an officer of the subordinate courts.
 
 (5) An appeal shall lie to the Chief Justice from an order made by the District Judge under this section.
 
@@ -920,13 +974,17 @@ it shall be lawful for a District Judge nominated by the Senior District Judge t
 
 68\.—(1) A judicial officer shall not be liable to be sued for any act done by him in the discharge of his judicial duty whether or not within the limits of his jurisdiction, provided that he at the time in good faith believed himself to have jurisdiction to do or order the act complained of.
 
-(2) No officer of a subordinate court charged with the duty of executing any writ, summons, warrant, order, notice or other mandatory process of the subordinate courts shall be liable to be sued for the execution of or attempting to execute such writ, summons, warrant, order, notice or other mandatory process, or in respect of any damage caused to any property in effecting or attempting to effect execution, unless he knowingly acted in excess of the authority conferred upon him by such writ, summons, warrant, order, notice or other mandatory process of the court in question, and he shall not be deemed to have acted knowingly in excess of his authority merely by reason of the existence of a dispute as to the ownership of any property seized under any writ or order of execution.
+(2) No officer of a subordinate court charged with the duty of executing any writ, summons, warrant, order, notice or other mandatory process of the subordinate courts shall be liable to be sued for the execution of or attempting to execute such writ, summons, warrant, order, notice or other mandatory process, or in respect of any damage caused to any property in effecting or attempting to effect execution, unless he knowingly acted in excess of the authority conferred upon him by such writ, summons, warrant, order, notice or other mandatory process of the court in question.
+
+(3) An officer of a subordinate court shall not be deemed to have acted knowingly in excess of his authority merely by reason of the existence of a dispute as to the ownership of any property seized under any writ or order of execution.
 
 ### Rules of Court
 
-69\.—(1) The Rules Committee appointed under section 80(3) of the Supreme Court of Judicature Act [Cap. 322] may make Rules of Court regulating and prescribing the procedure and the practice to be followed in the District Courts and the Magistrates’ Courts in the exercise of their civil jurisdiction and any matters incidental to or relating to any such procedure or practice.
+69\.—(1) The Rules Committee appointed under section 80(3) of the Supreme Court of Judicature Act (Cap. 322) may make Rules of Court regulating and prescribing the procedure and the practice to be followed in the District Courts and the Magistrates’ Courts in the exercise of their civil jurisdiction and any matters incidental to or relating to any such procedure or practice.
 
-(2) The power to make Rules of Court shall extend to all matters of procedure or practice, or matters relating to or concerning the effect or operation in law of any procedure or practice or the enforcement of judgments or orders, in any case within the cognizance of the District Courts and Magistrates’ Courts in the exercise of the civil jurisdiction as to which Rules of the Supreme Court have been or might lawfully be made for cases within the cognizance of the High Court.
+[4/96]
+
+(2) The power to make Rules of Court shall extend to all matters of procedure or practice, or matters relating to or concerning the effect or operation in law of any procedure or practice or the enforcement of judgments or orders, in any case within the cognizance of the District Courts and Magistrates’ Courts in the exercise of the civil jurisdiction as to which Rules of Court have been or might lawfully be made for cases within the cognizance of the High Court.
 
 (3) Without prejudice to the generality of subsections (1) and (2), the power to make Rules of Court shall extend to —
 
@@ -952,15 +1010,15 @@ it shall be lawful for a District Judge nominated by the Senior District Judge t
 
 is issued, to deposit from time to time a sum of money to provide for the expenses of executing the writ or order and of bringing the person to be arrested or the person ordered to be committed before the court or to prison and of his subsistence while in the custody of the bailiff or in prison and of keeping possession of the property attached;
 
-(fa) enabling proceedings —
+(g) enabling proceedings —
 
 (i) to be commenced in a subordinate court against the estate of a deceased person (whether by the appointment of a person to represent the estate or otherwise) where no grant of probate or letters of administration has been made;
 
 (ii) purporting to have been commenced in a subordinate court by or against a person to be treated, if he was dead at their commencement, as having been commenced by or against, as the case may be, his estate whether or not a grant of probate or letters of administration was made before their commencement; and
 
-(iii) commenced or treated as commenced in a subordinate court by or against the estate of a deceased person to be maintained (whether by substitution of parties, amendment or otherwise) by or against, as the case may be, a person appointed to represent the estate or, if a grant of probate or letters of administration is or has been made, by or against the personal representatives;
+(iii) ommenced or treated as commenced in a subordinate court by or against the estate of a deceased person to be maintained (whether by substitution of parties, amendment or otherwise) by or against, as the case may be, a person appointed to represent the estate or, if a grant of probate or letters of administration is or has been made, by or against the personal representatives;
 
-(g) prescribing the manner in which money in a court is to be dealt with and in particular —
+(h) prescribing the manner in which money in a court is to be dealt with and in particular —
 
 (i) prescribing that money in court may be kept at a bank, to be approved by the Accountant-General, in the official name of the registrar;
 
@@ -968,43 +1026,27 @@ is issued, to deposit from time to time a sum of money to provide for the expens
 
 (iii) requiring the registrar to pay from time to time to the Accountant-General or into the court’s bank account all moneys not required for meeting current demands and to pay to the Accountant-General all sums which have been in the court’s bank account for such period as may be prescribed; and
 
-(h) prescribing the books, registers and accounts required to be kept by the registrar and bailiffs.
+(i) prescribing the books, registers and accounts required to be kept by the registrar and bailiffs.
 
 [15/93]
 
-(4)
-
-[Deleted by Act 4/96 wef 26/01/1996 vide S 36/96]
-
-(5)
-
-[Deleted by Act 4/96 wef 26/01/1996 vide S 36/96]
-
-(6)
-
-[Deleted by Act 4/96 wef 26/01/1996 vide S 36/96]
-
-(7) All Rules of Court made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
-
-[4/96 wef 26/01/1996]
+(4) All Rules of Court made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
 ## THE SCHEDULE
 
-Section 17(1).
+Section 17(1)
 
 Forms of Oaths and Affirmations
 
-FORM 1
-
 OATHS OF OFFICE AND ALLEGIANCE OF A JUDICIAL OFFICER
 
-FORM 2
+1.—
 
-OATHS OF OFFICE OF AN INTERPRETER
+OATH OF OFFICE OF AN INTERPRETER
 
-FORM 3
+2.—
 
-OATHS OF OFFICE OF OTHER OFFICER OF A COURT
+3. Oath of Office of Other Officer of A Court
 
 ## LEGISLATIVE HISTORY
 
@@ -1016,50 +1058,216 @@ This Legislative History is provided for the convenience of users of the Subordi
 
 ||||
 |:-|:-|:-|
-|1.|**1970 Revised Edition (Cap. 14)—Subordinate Courts Act 1970**|
-||Date of operation|1 January 1970|
-|2.|**Act 19 of 1970—Subordinate Courts Act 1970**|
+|1.|**Act 19 of 1970—Subordinate Courts Act 1970**|
 ||Date of First Reading|26 March 1970|
-|||(Bill No. 10/1970)|
-||Date of Second and Third Readings|Dates not available.|
+|||(Bill No. 10/70 published on 2 April 1970)|
+||Date of Second and Third Readings|7 May 1970|
 ||Date of commencement|1 January 1971|
-|3.|**Act 6 of 1976—Short title unknown**|
-||Date of First, Second and Third Readings|Date not available.|
-||Date of commencement|Date not available|
-|4.|**1985 Revised Edition—Subordinate Courts Act**|
-||Date of operation|1 January 1985|
+|2.|**1970 Revised Edition—Subordinate Courts Act (Cap. 14)**|
+||Date of operation|1 March 1971|
+|3.|**Act 34 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) (No. 3) Act 1973**|
+||Date of First Reading|11 July 1973|
+|||(Bill No. 27/73 published on 14 July 1973)|
+||Date of Second and Third Readings|25 July 1973|
+||Date of commencement|24 August 1973|
+|4.|**Act 6 of 1976—Subordinate Courts (Amendment) Act 1976**|
+||Date of First Reading|1 March 1976|
+|||(Bill No. 2/76 published on 5 March 1976)|
+||Date of Second and Third Readings|25 March 1976|
+||Date of commencement|3 April 1976|
 |5.|**Act 27 of 1984—Small Claims Tribunals Act 1984**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|29 June 1984|
-|||(Bill No. 10/1984)|
-||Date of Second and Third Readings|Dates not available.|
+|||(Bill No. 10/84 published on 9 July 1984)|
+||Date of Second and Third Readings|24 August 1984|
 ||Date of commencement|15 January 1985|
 |6.|**Act 3 of 1986—Subordinate Courts (Amendment) Act 1986**|
 ||Date of First Reading|31 October 1985|
-|||(Bill No. 19/1985 published on 31 January 1986)|
+|||(Bill No. 19/85 published on 8 November 1985)|
 ||Date of Second and Third Readings|10 January 1986|
 ||Date of commencement|1 March 1986|
 |7.|**Act 3 of 1987—Statute Law Revision Act 1987**|
 ||Date of First Reading|9 December 1986|
+|||(Bill No. 28/86 published on 10 December 1986)|
 ||Date of Second and Third Readings|26 January 1987|
 ||Date of commencement|20 February 1987|
 |8.|**1985 Revised Edition—Subordinate Courts Act**|
 ||Date of operation|30 March 1987|
 |9.|**Act 15 of 1993—Subordinate Courts (Amendment) Act 1993**|
 ||Date of First Reading|26 February 1993|
-|||(Bill No. 13/1993 published on 11 June 1993)|
+|||(Bill No. 13/93 published on 27 February 1993)|
 ||Date of Second and Third Readings|13 April 1993|
 ||Date of commencement|1 July 1993|
 |10.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 February 1993|
-|||(Bill No. 12/1993 published on 11 June 1993)|
+|||(Bill No. 12/93 published on 27 February 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
 |11.|**Act 4 of 1996—Subordinate Courts (Amendment) Act 1995**|
 ||Date of First Reading|1 November 1995|
-|||(Bill No. 37/1995 published on 19 January 1996)|
+|||(Bill No. 37/95 published on 2 November 1995)|
 ||Date of Second and Third Readings|5 December 1995|
 ||Date of commencement|26 January 1996|
 |12.|**Act 8 of 1998—Holidays Act 1998**|
 ||Date of First Reading|14 January 1998|
+|||(Bill No. 1/98 published on 15 January 1998)|
 ||Date of Second and Third Readings|19 February 1998|
 ||Date of commencement|10 April 1998|
+|13.|**Act 20 of 1999—Administration of Muslim Law (Amendment) Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|20 April 1998|
+|||(Bill No. 18/98 published on 21 April 1998)|
+||Date of Second Reading|30 June 1998|
+||Date Committed to Select Committee|30 June 1998|
+||Date of Presentation of Select Committee Report|10 February 1999 (Parl 1 of 1999)|
+||Date of Third Reading|15 April 1999|
+||Date of commencement|1 August 1999|
+|14.|**1999 Revised Edition—Subordinate Courts Act**|
+||Date of operation|1 August 1999|
+## COMPARATIVE TABLE
+
+Subordinate Courts Act
+
+(CHAPTER 321)
+
+The following provisions in the 1993 Reprint of the Subordinate Courts Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Subordinate Courts Act.
+
+1999 Ed.
+
+1993 Reprint
+
+7—(2)
+
+Proviso to 7—(1)
+
+(3) and (4)
+
+(2)
+
+19—(5)
+
+19—(4A)
+
+(6)
+
+(5)
+
+24—(3)
+
+Proviso to 24—(2)
+
+(4)
+
+(3)
+
+Omitted — Repealed by Act 15/93
+
+27
+
+27
+
+28
+
+Omitted — Repealed by Act 15/93
+
+29
+
+28
+
+30
+
+29
+
+31
+
+30
+
+31A
+
+31
+
+32
+
+32
+
+33
+
+33
+
+33A
+
+Omitted — Repealed by Act 15/93
+
+36
+
+36
+
+37
+
+37—(1) and (2)
+
+38
+
+38
+
+39
+
+39
+
+40
+
+39—(6)
+
+Proviso to 40—(1)
+
+40—(1) and (2)
+
+41
+
+41
+
+41A
+
+49—(1) and (2)
+
+49
+
+64—(1) and (2)
+
+64
+
+68—(2) and (3)
+
+68—(2)
+
+69—(3) (g)
+
+69—(3) (fa)
+
+(3) (h)
+
+(3) (g)
+
+(3) (i)
+
+(3) (h)
+
+Omitted — Deleted by Act 4/96
+
+(4)
+
+Omitted — Deleted by Act 4/96
+
+(5)
+
+Omitted — Deleted by Act 4/96
+
+(6)
+
+(4)
+
+(7)
+
