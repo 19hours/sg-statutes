@@ -288,7 +288,7 @@
 
 - [117 Proof as to registration or licensing of vehicles, vessels and aircraft](#Proof-as-to-registration-or-licensing-of-vehicles-vessels-and-aircraft)
 
-- [118 Scientific Officer’s certificate](#Scientific-Officer’s-certificate)
+- [118 Analyst’s certificate](#Analyst’s-certificate)
 
 - [119 Imprisonment for non-payment of fine](#Imprisonment-for-non-payment-of-fine)
 
@@ -424,13 +424,11 @@ PRELIMINARY
 
 (b) the consumption of which is harmful to human beings,
 
-as certified by the Director of Scientific Services ;
+as certified by an analyst employed by the Health Sciences Authority;
 
 “denatured” means rendered unfit for human consumption to the satisfaction of the Director-General;
 
 “Director-General” means the Director-General of Customs and Excise appointed under section 4(1);
-
-“Director of Scientific Services” includes the Deputy Director of Scientific Services, the Principal Scientific Officer, the Senior Scientific Officer and the Scientific Officer of the Department of Scientific Services;
 
 “dutiable goods” means any goods subject to the payment of customs duty or excise duty on entry into customs territory or manufactured in Singapore (including any free trade zone) and on which customs duty or excise duty has not been paid and includes goods manufactured in a free trade zone from materials of a class dutiable on entry into customs territory for consumption within the customs territory;
 
@@ -449,6 +447,10 @@ as certified by the Director of Scientific Services ;
 “Government warehouse” means a warehouse established by the Minister under section 49 for the deposit of dutiable goods;
 
 “Green Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a regular octagon and marked in green with the words “Customs” and “Nothing To Declare”;
+
+“Health Sciences Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001;
+
+[4/2001 wef 01/04/2001]
 
 “heavy oil or diesel oil” includes any liquid, other than petroleum, which is or may be used as a fuel in the engine of a traction engine or motor vehicle;
 
@@ -2210,15 +2212,19 @@ shall, until the contrary is proved, be presumed to have had those dutiable, pro
 
 (2) The burden of proving the incorrectness of any particulars stated in the certificate shall be on the person denying the same.
 
-### Scientific Officer’s certificate
+### Analyst’s certificate
 
-118\.—(1) A certificate purporting to be signed by a Scientific Officer and purporting to be a report by him upon any matter or thing duly submitted to him for examination or analysis may be used as evidence in any proceedings for an offence under this Act or any subsidiary legislation made thereunder on its production by the prosecution without proof of signature and shall be prima facie evidence of all matters contained therein.
+118\.—(1) A certificate purporting to be signed by an analyst employed by the Health Sciences Authority (hereafter referred to as an analyst) and purporting to be a report by him upon any matter or thing duly submitted to him for examination or analysis may be used as evidence in any proceedings for an offence under this Act or any subsidiary legislation made thereunder on its production by the prosecution without proof of signature and shall be prima facie evidence of all matters contained therein.
 
 [23/93; 24/96]
 
-(2) Where the accused person desires to examine a Scientific Officer on his report, he may require the court to summon that Scientific Officer to give evidence and the court shall thereupon summon that Scientific Officer as a witness for the prosecution.
+(2) Where the accused person desires to examine an analyst on his report, he may require the court to summon that analyst to give evidence and the court shall thereupon summon that analyst as a witness for the prosecution.
 
-(3) A Scientific Officer shall be bound to state the truth in a report made under his hand.
+[4/2001 wef 01/04/2001]
+
+(3) An analyst shall be bound to state the truth in a report made under his hand.
+
+[4/2001 wef 01/04/2001]
 
 ### Imprisonment for non-payment of fine
 
@@ -2764,3 +2770,9 @@ This Legislative History is provided for the convenience of users of the Customs
 |||(Bill No. 33/2000 published on 13 November 2000)|
 ||Date of Second and Third Readings|22 November 2000|
 ||Date of commencement|1 January 2001|
+|26.|**Act 4 of 2001—Health Sciences Authority Act 2001**|
+||(Consequential amendments made by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 3/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
