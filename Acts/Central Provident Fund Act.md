@@ -22,6 +22,8 @@
 
 - [5A Budget](#Budget)
 
+- [5B Issue of shares, etc.](#Issue-of-shares-etc)
+
 [**Part II CONTRIBUTIONS TO FUND**](#Part-II)
 
 - [6 Establishment of Central Provident Fund](#Establishment-of-Central-Provident-Fund)
@@ -459,6 +461,12 @@ that person shall be deemed to obstruct an inspector or that officer in the exec
 (2) The budget and supplementary budget (if any) when approved by the President shall be published in theGazette.
 
 [11/91]
+
+### Issue of shares, etc.
+
+5B\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ## PART II
 
@@ -2056,19 +2064,13 @@ he shall be guilty of an offence.
 
 (6) The Board may, on the request by an insurer administering or operating an insurance scheme referred to in section 77(1)(ja), give to the insurer information, in the Board’s possession, on any member that the insurer requires for the purpose of administering or operating the insurance scheme, including information relating to the amount standing to his credit in his medisave account.
 
-[34/2001 wef 01/01/2002]
-
 (7) The insurer may not use the information given under subsection (6) for any other purpose except —
 
 (a) for the purpose of determining whether a member is entitled to join the insurance scheme referred to in section 77(1)(ja); or
 
 (b) for any other purpose connected with the administration or operation of the insurance scheme.
 
-[34/2001 wef 01/01/2002]
-
 (8) An insurer who knowingly contravenes subsection (7) shall be guilty of an offence.
-
-[34/2001 wef 01/01/2002]
 
 ### Offences by corporations
 
@@ -2437,8 +2439,6 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 [22/2010 wef 01/10/2010]
 
 (k) with respect to the withdrawal of money from the medisave account of a member for payment of premium payable by the member or his dependant who is insured under a medical insurance scheme or other insurance scheme approved by the Minister charged with the responsibility for health;
-
-[34/2001 wef 01/01/2002]
 
 (l) to provide for rates of contributions, other than those specified in the First Schedule, in respect of employees declared by the President to be employees for the purposes of this Act by notification in theGazetteunder section 2(1);
 
@@ -4814,6 +4814,12 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 32/2001 published on 14 August 2001)|
 ||Date of Second and Third Readings|25 September 2001|
 ||Date of commencement|1 January 2002|
+|123.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002 (except item (18) of the Schedule)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
