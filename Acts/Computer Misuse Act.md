@@ -42,6 +42,8 @@
 
 - [15 Power of police officer to access computer and data](#Power-of-police-officer-to-access-computer-and-data)
 
+- [15A Preventing or countering threats to national security, etc.](#Preventing-or-countering-threats-to-national-security-etc)
+
 - [16 Arrest by police without warrant](#Arrest-by-police-without-warrant)
 
 [**Legislative History**](#Legislative-History)
@@ -404,6 +406,32 @@ to provide him with such reasonable technical and other assistance as he may req
 
 “plain text version” means original data before it has been transformed or scrambled to an unreadable or incomprehensible format.
 
+### Preventing or countering threats to national security, etc.
+
+15A\.—(1) Where the Minister is satisfied that it is necessary for the purposes of preventing or countering any threat to the national security, essential services, defence or foreign relations of Singapore, the Minister may, by a certificate under his hand, authorise any person or organisation specified in the certificate to take such measures as may be necessary to prevent or counter any threat to a computer or computer service or any class of computers or computer services.
+
+(2) The measures referred to in subsection (1) may include, without limitation, the exercise by the authorised person or organisation of the powers referred to in section 15.
+
+(3) Where an offence is disclosed in the course of or pursuant to the exercise of any power under this section —
+
+(a) no information for that offence shall be admitted in evidence in any civil or criminal proceedings; and
+
+(b) no witness in any civil or criminal proceedings shall be obliged —
+
+(i) to disclose the name, address or other particulars of any informer who has given information with respect to that offence; or
+
+(ii) to answer any question if the answer would lead, or would tend to lead, to the discovery of the name, address or other particulars of the informer.
+
+(4) If any book, document, data or computer output which is admitted in evidence or liable to inspection in any civil or criminal proceedings contain any entry in which any informer is named or described or which may lead to his discovery, the court shall cause those entries to be concealed from view or to be obliterated so far as may be necessary to protect the informer from discovery.
+
+(5) In subsection (1), “essential services” means —
+
+(a) services directly related to communications infrastructure, banking and finance, public utilities, public transportation or public key infrastructure; and
+
+(b) emergency services such as police, civil defence or medical services.
+
+[25/2003 wef 14/06/2004]
+
 ### Arrest by police without warrant
 
 16\. Any police officer may arrest without warrant any person reasonably suspected of committing an offence under this Act.
@@ -440,3 +468,8 @@ This Legislative History is provided for the convenience of users of the Compute
 ||Date of commencement|1 August 1998|
 |5.|**1998 Revised Edition—Computer Misuse Act (Chapter 50A)**|
 ||Date of operation|15 December 1998|
+|6.|**Act 25 of 2003—Computer Misuse (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 22/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|10 November 2003|
+||Date of commencement|14 June 2004 (except section 2)|
