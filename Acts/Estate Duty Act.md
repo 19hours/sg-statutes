@@ -2554,3 +2554,5 @@ This Legislative History is provided for the convenience of users of the Estate 
 |||(Bill No. 18/87 published on 11 November 1987)|
 ||Date of Second and Third Readings|30 November 1987|
 ||Date of commencement|18 December 1987|
+|26.|**G. N. No. S 8/1996—Estate Duty Act (Amendment of Fourteenth Schedule) Order 1996**|
+||Date of commencement|30 November 1995|
