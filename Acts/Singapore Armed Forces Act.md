@@ -508,7 +508,7 @@
 
 - [205C Administration of SAVER-Premium Fund](#Administration-of-SAVER-Premium-Fund)
 
-- [206 Pensions](#Pensions)
+- [206 Pension Fund](#Pension-Fund)
 
 - [206A Pension, etc., not of right](#Pension-etc-not-of-right)
 
@@ -3646,7 +3646,9 @@ MISCELLANEOUS
 
 [12/98; 10/2000]
 
-(2) All payments and other benefits payable to servicemen under the SAVER Plan or the Premium Plan, and all expenses incurred in the administration of the SAVER Plan or the Premium Plan and the investment of moneys in the SAVER — Premium Fund shall be charged on and paid out of the SAVER-Premium Fund, and no other moneys shall be withdrawn from the SAVER-Premium Fund unless authorised to be withdrawn under this Act.
+[43/2004 wef 01/12/2004]
+
+(2) Except as otherwise provided by section 206(1), all payments and other benefits payable to servicemen under the SAVER Plan or the Premium Plan, and all expenses incurred in the administration of the SAVER Plan or the Premium Plan and the investment of moneys in the SAVER — Premium Fund shall be charged on and paid out of the SAVER-Premium Fund, and no other moneys shall be withdrawn from the SAVER-Premium Fund unless authorised to be withdrawn under this Act.
 
 [12/98; 10/2000]
 
@@ -3720,11 +3722,21 @@ MISCELLANEOUS
 
 [12/98; 10/2000]
 
-### Pensions
+### Pension Fund
 
-206\.—(1) There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act (Cap. 224A) all such sums of money as may from time to time be granted by way of pension, gratuity or other allowance in accordance with any regulations made under section 205.
+206\.—(1) There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act (Cap. 224A) —
 
-[17/78; 8/95; 12/98]
+(a) all such sums of money as may from time to time be granted by way of pension, gratuity or other allowance in accordance with any regulations made under section 205; and
+
+(b) such payments and benefits as may from time to time be payable in accordance with any regulations made under section 205A to servicemen under the SAVER Plan or the Premium Plan —
+
+(i) in respect of the death of or injuries received by such servicemen in and which are attributable to service;
+
+(ii) in respect of any allowance, subsidy, rebate or other benefit in respect of medical services rendered to such servicemen or to such former servicemen after their retirement from the Singapore Armed Forces; or
+
+(iii) in respect of any initial lump-sum contributions to such servicemen.
+
+[43/2004 wef 01/12/2004]
 
 (2) A pension, gratuity or other allowance granted under any regulations made pursuant to section 205 shall not be assignable or transferable or liable to be garnished, attached, sequestered or levied upon for or in respect of a debt or claim, except for the purpose of satisfying —
 
@@ -4020,6 +4032,11 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 4/2001 published on 23 February 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|15 May 2001|
+|15.|**Act 43 of 2004—Singapore Armed Forces (Amendment No 2) Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 45/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 December 2004|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
