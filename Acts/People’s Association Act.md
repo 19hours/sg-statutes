@@ -284,9 +284,7 @@ Nanyang Academy of Fine Arts
 
 Nanyang Technological Institute Students’ Union
 
-17. 
-
-National Theatre Trust
+17. [Deleted by S 20/1992 wef 30/12/1991]
 
 18. 
 
@@ -501,6 +499,10 @@ Singapore Weiqi Association
 
 Perinatal Society of Singapore
 
+66E. 
+
+Singapore Pentaque Federation
+
 67. 
 
 Singapore Scout Association
@@ -596,6 +598,8 @@ Young Women Muslim Association (Persatuan Pemudi Islam Singapura)
 
 [S 550/1991 wef 13/12/1991]
 
+[S 20/1992 wef 30/12/1991]
+
 SECOND SCHEDULE
 
 Section 15(1).
@@ -667,3 +671,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|16 August 1991|
 |23.|**G.N. No. S 550/91—People’s Association Act (Amendment of First Schedule) (No. 3) Notification 1991**|
 ||Date of commencement|13 December 1991|
+|24.|**G.N. No. S 20/92—People’s Association Act (Amendment of First Schedule) Notification 1992**|
+||Date of commencement|30 December 1991|
