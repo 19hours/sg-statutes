@@ -492,7 +492,9 @@ PRELIMINARY
 
 “alteration” includes deterioration;
 
-“Authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act 1996 [Act 7 of 1996];
+“Authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act 1996;
+
+[Act 7 of 1996.]
 
 “beneficial interest” includes interests arising under contract and other equitable interests;
 
@@ -522,7 +524,9 @@ PRELIMINARY
 
 “equipment”, in relation to a ship, includes every fitting, thing or article belonging to, on or in the ship used or to be used in connection with, or necessary for the navigation or safety of, the ship or persons on board or the prevention of pollution, whether or not the fitting, thing or article is prescribed by this Act and, in particular, includes machinery, boilers, cargo handling gear and any fitting, thing or article prescribed by this Act;
 
-“harbour craft” means any ship that is used solely within the limits of the port that may be declared under the Maritime and Port Authority of Singapore Act 1996 [Act 7 of 1996];
+“harbour craft” means any ship that is used solely within the limits of the port that may be declared under the Maritime and Port Authority of Singapore Act 1996;
+
+[7/96]
 
 “load line” means a line indicating the maximum depth to which a ship, other than a passenger ship, may be loaded in circumstances prescribed by regulations made under section 100 and determined in accordance with those regulations;
 
@@ -530,7 +534,19 @@ PRELIMINARY
 
 “name” includes a surname;
 
+“natural resources” means the mineral and other non-living resources of the seabed and its subsoil;
+
+[56/2004 wef 25/01/2005]
+
 “officer” includes a master, a mate, an engineer, a helmsman and an engine driver of any ship;
+
+“off-shore industry mobile unit” means
+
+(a) a vessel that is used or intended for use in exploring or exploiting the natural resources of the subsoil of any seabed, or in any operation or activity associated with or incidental thereto, by drilling the seabed or its subsoil, or by obtaining substantial quantities of material from the seabed or its subsoil, with equipment that is on or forms part of the vessel; and
+
+(b) a barge or like vessel fitted with living quarters for more than 12 persons and used or intended for use in connection with the construction, maintenance or repair of any fixed structure used or intended for use in exploring or exploiting the natural resources of the subsoil of any seabed, or in any operation or activity associated with or incidental thereto;
+
+[56/2004 wef 25/01/2005]
 
 “passenger” means a person carried on board a ship with the knowledge or consent of the owner, manager, charterer, operator, agent or master of the ship, not being —
 
@@ -550,7 +566,9 @@ PRELIMINARY
 
 “Port Health Officer” means any person appointed as a Port Health Officer under the Infectious Diseases Act [Cap. 137];
 
-“Port Master” means the Port Master appointed under the Maritime and Port Authority of Singapore Act 1996 [Act 7 of 1996] and includes any Deputy Port Master;
+“Port Master” means the Port Master appointed under the Maritime and Port Authority of Singapore Act 1996 and includes any Deputy Port Master;
+
+[7/96]
 
 “port of return” means such port as is agreed upon by the master or seaman and his employer in the crew agreement or otherwise, or, in the absence of agreement —
 
@@ -576,9 +594,13 @@ PRELIMINARY
 
 “ship” means any kind of vessel used in navigation by water, however propelled or moved and includes —
 
-(a) a barge, lighter or other floating vessel; and
+(a) a barge, lighter or other floating vessel;
 
-(b) an air-cushion vehicle, or other similar craft, used wholly or primarily in navigation by water;
+(b) an air-cushion vehicle, or other similar craft, used wholly or primarily in navigation by water; and
+
+(c) an off-shore industry mobile unit;
+
+[56/2004 wef 25/01/2005]
 
 “Singapore ship” means a ship registered, provisionally or otherwise, under Part II and its registry is not closed or deemed to be closed or suspended under that Part;
 
@@ -1010,7 +1032,7 @@ SINGAPORE REGISTRY
 
 ### Regulations on evidence of seaworthiness, etc.
 
-45\.—(1) The Authority may, with the approval of the Minister, make such regulations as the Authority considers necessary or expedient to implement the provisions of this Part.
+45\.—(1) The Authority may, with the approval of the Minister, make such regulations as he considers necessary or expedient to implement the provisions of this Part.
 
 (2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, in particular, make regulations —
 
@@ -2052,7 +2074,7 @@ DELIVERY OF GOODS
 
 (a) upon the production to the wharfinger or warehouseman of a receipt for the amount claimed as due, and delivery to the wharfinger or warehouseman of a copy thereof or of a release of freight from the shipowner; and
 
-(b) upon the deposit by the owner of the goods with the wharfinger or warehouseman of a sum of money equal in amount to the sum claimed aforesaid by the shipowner,
+(b) upon the deposit by the owner of the goods with the wharfinger or warehouseman of a sum of money equal in amount to the sum claimed as aforesaid by the shipowner,
 
 but in the latter case, the lien shall be discharged without prejudice to any other remedy which the shipowner may have for the recovery of the freight.
 
@@ -2938,7 +2960,9 @@ or some other person having knowledge of the facts of the case, shall make a dec
 
 217\.—(1) Every Singapore ship registered before 2nd February 1996 shall be deemed to be registered under Part II of this Act and the provisions of this Act shall apply to the ship and all matters relating thereto as they apply to a ship registered on or after that date.
 
-(2) Any document, endorsement, exemption or certificate prepared, made or granted under the repealed Merchant Shipping Act [Cap. 179, 1985 Ed.] shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act, continue and be deemed to have been prepared or granted under the corresponding provisions of this Act.
+(2) Any document, endorsement, exemption or certificate prepared, made or granted under the repealed Merchant Shipping Act [Cap. 179,] shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act, continue and be deemed to have been prepared or granted under the corresponding provisions of this Act.
+
+[1985 Ed.]
 
 (3) Any reference to the Surveyor-General of Ships or Superintendent of the Mercantile Marine Office in any written law shall be read as a reference to the Director.
 
@@ -2965,3 +2989,8 @@ This Legislative History is provided for the convenience of users of the Merchan
 ||Date of commencement|2 February 1996|
 |3.|**1996 Revised Edition—Merchant Shipping Act (Chapter 179)**|
 ||Date of operation|30 April 1996|
+|4.|**Act 56 of 2004—Merchant Shipping (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 53/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|16 November 2004|
+||Date of commencement|25 January 2005|
