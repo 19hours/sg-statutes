@@ -1,16 +1,14 @@
-**Inland Revenue Authority of Singapore Act 1992**
+**Inland Revenue Authority of Singapore Act**
 
-**(No. 25 of 1992)**
+**(CHAPTER 138A)**
 
 **Table of Contents**
 
 [**Long Title**](#Inland-Revenue-Authority-of-Singapore-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -36,7 +34,7 @@
 
 - [10 Protection from personal liability](#Protection-from-personal-liability)
 
-- [11 Public servants](#Public-servants)
+- [11 Public servants and public officers](#Public-servants-and-public-officers)
 
 [**Part V FINANCIAL PROVISIONS**](#Part-V)
 
@@ -84,61 +82,41 @@
 
 - [31 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Authority)
+[**FIRST SCHEDULE Constitution and proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Authority)
 
-[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
+[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
 [**THIRD SCHEDULE Specified Acts**](#THIRD-SCHEDULE-Specified-Acts)
 
-[**FOURTH SCHEDULE Specified Offices**](#FOURTH-SCHEDULE-Specified-Offices)
+[**FOURTH SCHEDULE Specified offices**](#FOURTH-SCHEDULE-Specified-offices)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Inland Revenue Authority of Singapore Act
 
-ACTS SUPPLEMENT
+(CHAPTER 138A)
 
-Published by Authority
+(Original Enactment: Act 25 of 1992)
 
-NO. 25]
+REVISED EDITION 1993
 
-Friday, August 21
-
-[1992
-
-The following Act was passed by Parliament on 31st July 1992 and assented to by the President on 13th August 1992:—
-
-Inland Revenue Authority Of Singapore Act 1992
-
-(No. 25 of 1992)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-13th August 1992.
-
-Date of Commencement: 1st September 1992
+(15th March 1993)
 
 An Act to establish and incorporate the Inland Revenue Authority of Singapore, to provide for its functions and powers, and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st September 1992]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Inland Revenue Authority of Singapore Act 1992 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Inland Revenue Authority of Singapore Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “Authority” means the Inland Revenue Authority of Singapore established under section 3;
 
@@ -168,7 +146,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 4\.—(1) All deeds and other documents requiring the seal of the Authority shall be sealed with the common seal of the Authority and such instruments to which the common seal is affixed shall be signed by any two members generally or specially authorised by the Authority for the purpose or by one member and the chief executive officer.
 
-(2) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Authority affixed to any document and shall presume that it was duly affixed.
+(2) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Authority affixed to any document and shall presume that is was duly affixed.
 
 ### Constitution of Authority
 
@@ -194,7 +172,7 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 (c) to represent Singapore internationally in respect of matters relating to taxation;
 
-(d) to provide service to the Commissioner of Charities in the performance of his functions under the Charities Act (Cap. 37);
+(d) to provide service to the Commissioner of Charities in the performance of his functions under the Charities Act [Cap. 37];
 
 (e) to provide service in respect of the granting of licences or permits by the Comptroller of Property Tax or the Commissioner of Estate Duties under any written law;
 
@@ -260,9 +238,13 @@ PROVISIONS RELATING TO STAFF
 
 10\. No suit or other legal proceedings shall lie personally against any member, officer or employee of the Authority or other person acting under the direction of the Authority for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
 
-### Public servants
+### Public servants and public officers
 
-11\. All members, officers and employees of the Authority shall be deemed to be public servants for the purposes of the Penal Code and shall be deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 224) and section 20 of that Act (Cap. 109) shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
+11\. All members, officers and employees of the Authority shall be deemed to be —
+
+(a) public servants for the purposes of the Penal Code [Cap. 224]; and
+
+(b) public officers for the purposes of the Financial Procedure Act [Cap. 109] and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
 
 ## PART V
 
@@ -290,7 +272,7 @@ FINANCIAL PROVISIONS
 
 ### Grants
 
-14\. For the purpose of enabling the Authority to carry out its functions under this Act, the Minister may from time to time make grants-in-aid to the Authority of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
+14\. For the purpose of enabling the Authority to carry out its functions under this Act, the Minister may from time to time make grants-in-aid to the Authority of such sums of moneys as the Minister may determine out of money to be provided by Parliament.
 
 ### Bank accounts and application of revenue
 
@@ -300,7 +282,7 @@ FINANCIAL PROVISIONS
 
 ### Investment
 
-16\. The Authority may invest any of its funds available for investment in accordance with the provisions of the Trustees Act (Cap. 337) as to the investment of trust funds or, with the approval of the Minister, in any other manner.
+16\. The Authority may invest any of its funds available for investment in accordance with the provisions of the Trustees Act [Cap. 337] as to the investment of trust funds or, with the approval of the Minister, in any other manner.
 
 ### Other financial provisions
 
@@ -312,13 +294,13 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer to Authority of property, assets and liabilities of Inland Revenue Department
 
-18\.—(1) As from the appointed day, all movable property vested in the Government immediately before that day and used or managed by the Inland Revenue Department, and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to that Department (other than those in connection with taxes or licence fees for which the Department is responsible) shall be transferred to and shall vest in the Authority without further assurance.
+18\.—(1) As from 1st September 1992, all movable property vested in the Government immediately before that date and used or managed by the Inland Revenue Department, and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to that Department (other than those in connection with taxes or licence fees for which the Department is responsible) shall be transferred to and shall vest in the Authority without further assurance.
 
 (2) If any question arises as to whether any particular property, or whether any particular asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
 ### Transfer of employees
 
-19\.—(1) As from the appointed day, such categories of persons employed immediately before that day in the Inland Revenue Department as the Minister may determine shall be transferred to the service of the Authority on terms not less favourable than those enjoyed by them immediately prior to their transfer.
+19\.—(1) As from 1st September 1992, such categories of persons employed immediately before that date in the Inland Revenue Department as the Minister may determine shall be transferred to the service of the Authority on terms not less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) Until such time as terms and conditions of service are drawn up by the Authority, the scheme and terms and conditions of service in the Government shall continue to apply to every person transferred to the service of the Authority under subsection (1) as if he were still in the service of the Government.
 
@@ -326,25 +308,25 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 20\.—(1) The terms and conditions to be drawn up by the Authority shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the persons transferred to the service of the Authority under section 19 while in the employment of the Government; and any such term or condition relating to the length of service with the Authority shall provide for the recognition of service under the Government by the persons so transferred to be service by them under the Authority.
 
-(2) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
+(2) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act [Cap. 225].
 
 (3) In every case where a person has been transferred to the service of the Authority under section 19, the Government shall be liable to pay to the Authority such portion of any gratuity, pension or allowance payable to such person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Authority.
 
 (4) Where any person in the service of the Authority whose case does not fall within the scope of any pension or other schemes established under this section retires or dies in the service of the Authority or is discharged from such service, the Authority may grant to him or to such other person or persons wholly or partly dependent on him, as the Authority thinks fit, such allowance or gratuity as the Authority may determine.
 
-(5) Where any person who is transferred to the service of the Authority under section 19 is a contributor under the Widows’ and Orphans’ Pension Act (Cap. 350), he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
+(5) Where any person who is transferred to the service of the Authority under section 19 is a contributor under the Widows’ and Orphans’ Pension Act, he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Authority and for the purposes of that Act his service with the Authority shall be deemed to be service with the Government.
 
 ### No benefits in respect of abolition or reorganisation of office
 
-21\. Notwithstanding the provisions of the Pensions Act, no person who is transferred to the service of the Authority under section 19 shall be entitled to claim any benefit under the Pensions Act (Cap. 225) on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
+21\. Notwithstanding the provisions of the Pensions Act, no person who is transferred to the service of the Authority under section 19 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
 
 ### Existing contracts
 
-22\. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before the appointed day, to which the Government is a party and relating to the Inland Revenue Department or to any person transferred to the service of the Authority under section 19 shall continue in force on and after that day and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Government.
+22\. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before 1st September 1992, to which the Government is a party and relating to the Inland Revenue Department or to any person transferred to the service of the Authority under section 19 shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Government.
 
 ### Continuation and completion of disciplinary proceedings
 
-23\.—(1) Where on the appointed day any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Authority, the proceedings shall be carried on and completed by the Authority; but where on that day any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that day.
+23\.—(1) Where on 1st September 1992 any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Authority, the proceedings shall be carried on and completed by the Authority; but where on that date any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
 (2) An order, ruling or direction made or given by a committee pursuant to this section shall be treated as an order, ruling or direction of the Authority and have the same force or effect as if it had been made or given by the Authority pursuant to the authority vested in the Authority under this Act.
 
@@ -364,7 +346,7 @@ GENERAL
 
 26\.—(1) Proceedings in respect of any offence under this Act or any regulations made thereunder or any of the Acts specified in the Third Schedule or any subsidiary legislation made under any of those Acts may be conducted by an officer of the Authority who is authorised to conduct such proceedings by the Commissioner of Inland Revenue with the consent of the Attorney-General.
 
-(2) Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) may appear in any civil proceedings involving the Authority or any person holding any of the offices specified in the Fourth Schedule in the performance of his functions under any written law so specified, and may make and do all acts and applications in respect of such proceedings on behalf of the Authority or such person, as the case may be.
+(2) Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act [Cap. 161] may appear in any civil proceedings involving the Authority or any person holding any of the offices specified in the Fourth Schedule in the performance of his functions under any written law so specified, and may make and do all acts and applications in respect of such proceedings on behalf of the Authority or such person, as the case may be.
 
 ### Preservation of secrecy
 
@@ -402,7 +384,7 @@ FIRST SCHEDULE
 
 Section 5(2)
 
-Constitution and Proceedings of Authority
+Constitution and proceedings of Authority
 
 Appointment of Deputy Chairman and other members
 
@@ -490,7 +472,7 @@ SECOND SCHEDULE
 
 Section 17
 
-Financial Provisions
+Financial provisions
 
 1\. The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Authority shall begin on the date of its establishment and shall end on 31st March 1993.
 
@@ -498,7 +480,7 @@ Financial Provisions
 
 3.—(1) The accounts of the Authority shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
 
 4\. The remuneration of the auditor shall be paid out of the funds of the Authority.
 
@@ -536,39 +518,56 @@ Sections 26(1) and 30
 
 Specified Acts
 
-1\. Auctioneers’ Licences Act (Cap. 16).
+1\. Auctioneers’ Licences Act [Cap. 16].
 
-2\. Betting and Sweepstake Duties Act (Cap. 22).
+2\. Betting and Sweepstake Duties Act [Cap. 22].
 
-3\. Charities Act (Cap. 37).
+3\. Charities Act [Cap. 37].
 
-4\. Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86).
+4\. Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86].
 
-5\. Estate Duty Act (Cap. 96).
+5\. Estate Duty Act [Cap. 96].
 
-6\. Income Tax Act (Cap. 134).
+6\. Income Tax Act [Cap. 134].
 
-7\. Private Lotteries Act (Cap. 250).
+7\. Private Lotteries Act [Cap. 250].
 
-8\. Property Tax Act (Cap. 254).
+8\. Property Tax Act [Cap. 254].
 
-9\. Property Tax (Surcharge) Act (Cap. 255).
+9\. Property Tax (Surcharge) Act [Cap. 255].
 
-10\. Stamp Duties Act (Cap. 312).
+10\. Stamp Duties Act [Cap. 312].
 
 FOURTH SCHEDULE
 
 Sections 26(2) and 30
 
-Specified Offices
+Specified offices
 
-1\. The Comptroller of Income Tax under the Income Tax Act (Cap. 134) and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86).
+1\. The Comptroller of Income Tax under the Income Tax Act [Cap. 134] and the Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86].
 
-2\. The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act (Cap. 254) and the Property Tax (Surcharge) Act (Cap. 255).
+2\. The Comptroller of Property Tax or the Chief Assessor under the Property Tax Act [Cap. 254] and the Property Tax (Surcharge) Act [Cap. 255].
 
-3\. The Commissioner of Stamp Duties under the Stamp Duties Act (Cap. 312) and the Betting and Sweepstake Duties Act (Cap. 22).
+3\. The Commissioner of Stamp Duties under the Stamp Duties Act [Cap. 312] and the Betting and Sweepstake Duties Act [Cap. 22].
 
-4\. The Commissioner of Estate Duties under the Estate Duty Act (Cap. 96) and the Private Lotteries Act (Cap. 250).
+4\. The Commissioner of Estate Duties under the Estate Duty Act [Cap. 96] and the Private Lotteries Act [Cap. 250].
 
-5\. The Commissioner of Charities under the Charities Act (Cap. 37).
+5\. The Commissioner of Charities under the Charities Act [Cap. 37].
 
+## LEGISLATIVE HISTORY
+
+Inland Revenue Authority of Singapore Act
+
+(CHAPTER 138A)
+
+This Legislative History is provided for the convenience of users of the Inland Revenue Authority of Singapore Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 25 of 1992—Inland Revenue Authority of Singapore Act 1992**|
+||Date of First Reading|29 May 1992|
+|||(Bill No. 26/92 published on 1 June 1992)|
+||Date of Second and Third Readings|31 July 1992|
+||Date of commencement|1 September 1992|
+|2.|**1993 Revised Edition—Inland Revenue Authority of Singapore Act (Chapter 138A)**|
+||Date of operation|15 March 1993|
