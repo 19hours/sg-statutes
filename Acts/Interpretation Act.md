@@ -789,3 +789,8 @@ This Legislative History is provided for the convenience of users of the Interpr
 |||(Bill No. 4/1991 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991|
+|6.|**Act 11 of 1993—Interpretation (Amendment) Act 1993**|
+||Date of First Reading|18 January 1993|
+|||(Bill No. 4/93 published on 19 January 1993)|
+||Date of Second and Third Readings|26 February 1993|
+||Date of commencement|16 April 1993|
