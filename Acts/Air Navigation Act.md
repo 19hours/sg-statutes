@@ -14,7 +14,7 @@
 
 [**Part II CONTROL AND REGULATION OF AVIATION**](#Part-II)
 
-- [3 Power to give effect to Chicago Convention and regulate air navigation](#Power-to-give-effect-to-Chicago-Convention-and-regulate-air-navigation)
+- [3 Power to give effect to international obligations and regulate air navigation](#Power-to-give-effect-to-international-obligations-and-regulate-air-navigation)
 
 - [4 Nuisance caused by aircraft on aerodromes](#Nuisance-caused-by-aircraft-on-aerodromes)
 
@@ -136,13 +136,17 @@ PRELIMINARY
 
 CONTROL AND REGULATION OF AVIATION
 
-### Power to give effect to Chicago Convention and regulate air navigation
+### Power to give effect to international obligations and regulate air navigation
 
 3\.—(1) The Minister may, by order, make such provision as appears to him to be requisite or expedient —
 
-(a) for carrying out the Chicago Convention, any Annex thereto relating to international standards and recommended practices (being an Annex adopted in accordance with the Convention) and any amendment of the Convention or any such Annex made in accordance with the Convention; or
+(a) for carrying out the Chicago Convention, any Annex thereto relating to international standards and recommended practices (being an Annex adopted in accordance with the Convention) and any amendment of the Convention or any such Annex made in accordance with the Convention;
 
-(bc) generally for regulating air navigation.
+(b) for the purpose of discharging an obligation binding on Singapore by virtue of its being a member of an international organisation or a party to an international agreement; or
+
+[28/2000 wef 01/11/2000]
+
+(c) generally for regulating air navigation.
 
 (2) Without prejudice to the generality of the powers conferred by subsection (1) and without prejudice to any of the provisions of this Act, the Minister may, by order, make provision —
 
@@ -169,6 +173,10 @@ CONTROL AND REGULATION OF AVIATION
 (k) for regulating the use of the civil air ensign and any other ensign established by the Minister for purposes connected with air navigation;
 
 (l) for prohibiting aircraft from flying over such areas in Singapore as may be specified in the order;
+
+(la) for prohibiting aircraft of a specified description or origin or registered in a specified country or territory from landing in, flying over or taking off from Singapore, in order to discharge or facilitate the discharge of an obligation binding on Singapore by virtue of its being a member of an international organisation or a party to an international agreement;
+
+[28/2000 wef 01/11/2000]
 
 (m) for applying, adapting or modifying the enactments relating to customs in relation to aerodromes and to aircraft and to persons and property carried therein and for preventing smuggling by air, and for permitting in connection with air navigation, subject to such conditions as appear to the Minister to be requisite or expedient for the protection of the revenue, the importation of goods into Singapore without payment of duty;
 
@@ -583,3 +591,8 @@ This Legislative History is provided for the convenience of users of the Air Nav
 ||Date of Second and Third Readings|25 August 1997|
 ||Dates of commencement|1 October 1997|
 |||1 September 1998|
+|8.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
+||Date of First Reading|25 August 2000|
+|||(Bill No. 22/2000 published on 27 October 2000)|
+||Date of Second and Third Readings|9 October 2000|
+||Date of commencement|1 November 2000|
