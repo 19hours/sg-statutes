@@ -2036,11 +2036,13 @@ EASEMENTS
 
 (8) In this section —
 
-“competent authority” means the competent authority appointed under section 3 of the Planning Act [Cap. 232];
+“competent authority” means the competent authority appointed under section 5 of the Planning Act 1998 in respect of the development and subdivision of land;
 
-“estate” means land which has been subdivided into lots under the Planning Act where those lots include land intended for use as easements to be made appurtenant to other lots within the same estate as shown in the subdivision plan approved by the competent authority, a copy of which is deposited with the Registrar; and may include undeveloped lots in the course of erection which are shown in the first subdivision plan approved by the competent authority and is capable of being subdivided as shown in one or more approved subsequent subdivision plans as and when issued by the competent authority and copies of the subdivision plans have been delivered to the Registrar;
+[3/98 wef 01/04/1998]
 
-“lot” means a parcel of land forming part of an estate to which the Chief Surveyor has allotted a Government survey lot number and also described as a “plot” in a subdivision plan approved by the competent authority under the Planning Act [Cap. 232].
+“estate” means land which has been subdivided into lots under the Planning Act 1998 where those lots include land intended for use as easements to be made appurtenant to other lots within the same estate as shown in the subdivision plan approved by the competent authority, a copy of which is deposited with the Registrar; and may include undeveloped lots in the course of erection which are shown in the first subdivision plan approved by the competent authority and is capable of being subdivided as shown in one or more approved subsequent subdivision plans as and when issued by the competent authority and copies of the subdivision plans have been delivered to the Registrar;
+
+“lot” means a parcel of land forming part of an estate to which the Chief Surveyor has allotted a Government survey lot number and also described as a “plot” in a subdivision plan approved by the competent authorityunder thePlanning Act 1998.
 
 ### Extinguishment by union of tenements
 
@@ -2576,7 +2578,7 @@ RESTRICTIVE COVENANTS
 
 (4) Without prejudice to subsection (1), upon the application of any person interested in land affected by a restriction, the court shall have power, by order, wholly or partially, to extinguish or vary the restriction, upon being satisfied —
 
-(a) that by reason of a change of user of the land affected, as approved by the competent authority or the Minister, as the case may be, under the Planning Act [Cap. 232] or any rules made thereunder, the continued existence of the restriction will impede the development of the land for public or private purposes; or
+(a) that by reason of a change of user of the land affected, as approved by the competent authority or the Minister for National Development, as the case may be, under the Planning Act 1998 or any rules made thereunder, the continued existence of the restriction will impede the development of the land for public or private purposes; or
 
 (b) that the proposed extinguishment or variation will not materially injure the person entitled to the benefit of the restriction.
 
@@ -2656,7 +2658,7 @@ under the provisions of any written law or regulations made thereunder, and whic
 
 144\.—(1) Where registered land is sold pursuant to —
 
-(a) Part II of the Land Revenue Collection Act [Cap. 155];
+(a) Part II of the Land Revenue Collection Act;
 
 (b) section 39 of the Property Tax Act [Cap. 254]; or
 
@@ -2668,7 +2670,7 @@ the Collector, the Comptroller of Property Tax or the Director-General of Public
 
 (3) Where the existing certificate of title for the land is not presented with the transfer, the Registrar shall cancel the existing folio and shall create a new folio in favour of the transferee.
 
-(4) Section 14(1), (2) and (4) of the Land Revenue Collection Act [Cap. 155] shall not apply to transfers in pursuance of this section.
+(4) Section 14(1), (2) and (4) of the Land Revenue Collection Act [Cap. 155] [Cap. 155] shall not apply to transfers in pursuance of this section.
 
 ### Statutory vesting not elsewhere provided for
 
@@ -2682,7 +2684,9 @@ POWERS OF ATTORNEY
 
 ### Interpretation
 
-146\. In this Part, “attorney” means any person appointed by an instrument under seal to act as the agent for or on behalf of a principal in relation to transactions with registered land, whether the agent is called attorney, receiver, broker, factor or otherwise and, where the context admits, “power” means the instrument by which an attorney is appointed.
+146\. In this Part,
+
+“attorney” means any person appointed by an instrument under seal to act as the agent for or on behalf of a principal in relation to transactions with registered land, whether the agent is called attorney, receiver, broker, factor or otherwise and, where the context admits, “power” means the instrument by which an attorney is appointed.
 
 ### Registration of instruments executed by attorneys
 
@@ -2998,8 +3002,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 171\. For the avoidance of doubt, it is hereby declared that nothing in this Act shall affect the rights conferred on the Public Utilities Board by section 6 of and the Second Schedule to the Public Utilities Act 1995, the Director-General of Public Works by sections 34 and 35 of the Local Government Integration Act [Cap. 166] and the Director of Water Pollution Control and Drainage under section 16 of the Water Pollution Control and Drainage Act [Cap. 348].
 
-[Act 26/95 wef 01/10/1995]
-
 ### Savings
 
 172\.—(1) A reference in this Act to land brought under the provisions of this Act shall include a reference to land which has been brought under the provisions of the repealed Act.
@@ -3012,23 +3014,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (5) Any caveat lodged under the repealed Act may, unless it has lapsed or been removed or cancelled in accordance with the provisions of the repealed Act before 1st March 1994, be extended in accordance with the provisions of this Act.
 
-(6) Any application, instrument or caveat lodged for registration under the provisions of the repealed Act before 1st March 1994 and whose registration was not completed before such date shall, where applicable, be deemed to be an application, instrument or caveat lodged for registration under a corresponding provision of this Act.
+(6) Any application, instrument or caveat lodged for registration under the provisions of the repealed Act before 1st March 1994 and whose registration was not completed before that date shall, where applicable, be deemed to be an application, instrument or caveat lodged for registration under a corresponding provision of this Act.
 
 (7) Where at any time before 1st March 1994 a person —
 
 (a) was in adverse possession of any registered land; and
 
-(b) has lodged an application for a possessory title to the land under the provisions of the repealed Act and the application has not been withdrawn but is on such date pending in the Land Titles Registry,
+(b) has lodged an application for a possessory title to the land under the provisions of the repealed Act and the application has not been withdrawn but is on that date pending in the Land Titles Registry,
 
-the application shall be dealt with in accordance with the provisions of the repealed Act in force immediately before such date.
+the application shall be dealt with in accordance with the provisions of the repealed Act in force immediately before that date.
 
 (8) Where at any time before 1st March 1994 a person —
 
 (a) was in adverse possession of any registered land; and
 
-(b) was entitled to lodge an application for a possessory title to the land under the provisions of the repealed Act which were in force immediately before such date,
+(b) was entitled to lodge an application for a possessory title to the land under the provisions of the repealed Act which were in force immediately before that date,
 
-he may, within 6 months of such date make an application to court for an order to vest the title in him or lodge an application for a possessory title to the land and the application shall be dealt with in accordance with the provisions of the repealed Act in force immediately before such date.
+he may, within 6 months of that date make an application to court for an order to vest the title in him or lodge an application for a possessory title to the land and the application shall be dealt with in accordance with the provisions of the repealed Act in force immediately before that date.
 
 (9) Section 87 shall not prevent the registration of leases for a term not exceeding 7 years which were executed before 1st March 1994 and any such lease may be registered under the provisions of the repealed Act as if those provisions were never repealed.
 
@@ -3090,3 +3092,9 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 20/95 published on 26 May 1995)|
 ||Date of Second and Third Readings|7 July 1995|
 ||Date of commencement|1 October 1995|
+|4.|**Act 3 of 1998—Planning Act 1998**|
+||(Consequential amendments made by)||
+||Date of First Reading|19 November 1997|
+|||(Bill No. 18/97 published on 20 November 1997)|
+||Date of Second and Third Readings|14 January 1998|
+||Date of commencement|1 April 1998|
