@@ -354,6 +354,8 @@
 
 - [148 Administration in bankruptcy of estate of person dying insolvent](#Administration-in-bankruptcy-of-estate-of-person-dying-insolvent)
 
+- [148A Arbitration agreements to which bankrupt is a party](#Arbitration-agreements-to-which-bankrupt-is-a-party)
+
 - [149 Costs](#Costs)
 
 - [150 Actions by Official Assignee and bankrupt’s partners](#Actions-by-Official-Assignee-and-bankrupt’s-partners)
@@ -2826,6 +2828,24 @@ MISCELLANEOUS PROVISIONS
 
 (13) Subject to this section, nothing in this section shall invalidate any payment made or act or thing done in good faith by the legal representative before the date of the administration order.
 
+### Arbitration agreements to which bankrupt is a party
+
+148A\.—(1) This section shall apply where a bankrupt had become party to a contract containing an arbitration agreement before the commencement of his bankruptcy.
+
+(2) If the Official Assignee adopts the contract, the arbitration agreement shall be enforceable by or against the Official Assignee in relation to matters arising from or connected with the contract.
+
+(3) If the Official Assignee does not adopt the contract and a matter to which the arbitration agreement applies requires to be determined in connection with or for the purposes of the bankruptcy proceedings —
+
+(a) the Official Assignee; or
+
+(b) any other party to the agreement,
+
+may apply to the court which may, if it thinks fit in all the circumstances of the case, order that the matter be referred to arbitration in accordance with the arbitration agreement.
+
+(4) In this section, “court” means the court which has jurisdiction in the bankruptcy proceedings.
+
+[37/2001 wef 01/03/2002]
+
 ### Costs
 
 149\.—(1) No payment shall, without the approval of the Official Assignee, be allowed in the accounts of any trustee in bankruptcy or of any special manager in respect of the performance by any other person of the ordinary duties which are required by this Act or the rules to be performed by himself.
@@ -3160,6 +3180,12 @@ This Legislative History is provided for the convenience of users of the Bankrup
 ||Date of commencement|1 December 1999|
 |8.|**2000 Revised Edition—Bankruptcy Act (Chapter 20)**|
 ||Date of operation|1 July 2000|
+|9.|**Act 37 of 2001—Arbitration Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 37/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 March 2002|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
