@@ -141,6 +141,15 @@ Sentosa Development Corporation Act
 
 (Chapter 291).
 
+16. National Computer Board
+
+National Computer Board Act
+
+
+
+
+(Chapter 195).
+
 [Act 7/96 wef 02/02/1996 vide S 42/96]
 
 [S 344/95 wef 01/10/1994]
@@ -148,6 +157,8 @@ Sentosa Development Corporation Act
 [S 414/93 wef 15/10/1993]
 
 [S 405/96 wef 01/09/1995]
+
+[]
 
 []
 
@@ -187,3 +198,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|2 February 1996|
 |8.|**G. N. No. S 470/1997—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 1997**|
 ||Date of commencement|1 November 1996|
+|9.|**G. N. No. S 518/1997—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule No. 2) Order 1997**|
+||Date of commencement|28 November 1997|
