@@ -1,4 +1,4 @@
-**Auctioneers’ Licences Act**
+**Appraisers and House Agents Act**
 
 **(CHAPTER 16)**
 
@@ -8,9 +8,9 @@
 
 - [1 Short title](#Short-title)
 
-- [2 Definition of auctioneer](#Definition-of-auctioneer)
+- [2 (Repealed)](#Repealed)
 
-- [3 Auctioneers to be licensed](#Auctioneers-to-be-licensed)
+- [3 (Repealed)](#Repealed)
 
 - [4 Definition of appraiser](#Definition-of-appraiser)
 
@@ -26,9 +26,9 @@
 
 - [10 Exemption of officers of courts in levies not exceeding $100](#Exemption-of-officers-of-courts-in-levies-not-exceeding-$100)
 
-- [11 Full name of auctioneer to be displayed at every auction sale](#Full-name-of-auctioneer-to-be-displayed-at-every-auction-sale)
+- [11 (Repealed)](#Repealed)
 
-- [12 No exemption to auctioneers from taking out special licences](#No-exemption-to-auctioneers-from-taking-out-special-licences)
+- [12 (Repealed)](#Repealed)
 
 - [13 Exceptions](#Exceptions)
 
@@ -46,7 +46,7 @@
 
 [**Legislative History**](#Legislative-History)
 
-# AUCTIONEERS’ LICENCES ACT
+# Appraisers and House Agents Act
 
 (CHAPTER 16)
 
@@ -56,21 +56,21 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Act to provide for the licensing of auctioneers, appraisers and house agents.
+An Act to provide for the licensing of appraisers and house agents.
+
+[22/2000 wef 01/08/2000]
 
 [1st July 1906]
 
 ### Short title
 
-1\. This Act may be cited as the Auctioneers’ Licences Act.
+1\. This Act may be cited as the Appraisers and House Agents Act.
 
-### Definition of auctioneer
+[22/2000 wef 01/08/2000]
 
-2\. Every person who exercises or carries on the trade or business of an auctioneer, or who acts in such capacity at any sale, and every person who sells or offers for sale any goods or chattels, lands, tenements or hereditaments or any interest therein at any sale where any person becomes the purchaser of the same by competition and being the highest bidder, either by being the single bidder or by increasing upon the biddings made by others or decreasing on sums named by the auctioneer or person acting as auctioneer or other person at the sale, or by any other mode of sale by competition, shall be deemed to carry on the trade or business of an auctioneer and shall be an auctioneer within the meaning of this Act.
+2\. [Repealed by Act 22/2000 wef 01/08/2000]
 
-### Auctioneers to be licensed
-
-3\. Every auctioneer shall, before conducting any sale by auction, take out a licence substantially in the Form A in the Schedule.
+3\. [Repealed by Act 22/2000 wef 01/08/2000]
 
 ### Definition of appraiser
 
@@ -78,7 +78,9 @@ An Act to provide for the licensing of auctioneers, appraisers and house agents.
 
 ### Appraisers to be licensed
 
-5\. Every appraiser shall take out a licence in the Form B in the Schedule.
+5\. Every appraiser shall take out a licence in the Form A in the Schedule.
+
+[22/2000 wef 01/08/2000]
 
 ### Definition of house agent
 
@@ -94,7 +96,9 @@ shall be deemed to be a person using and exercising the business, occupation and
 
 ### House agents to be licensed
 
-7\. Every person, firm or company carrying on the business of a house agent shall take out a licence in the Form C in the Schedule.
+7\. Every person, firm or company carrying on the business of a house agent shall take out a licence in the Form B in the Schedule.
+
+[22/2000 wef 01/08/2000]
 
 ### Contents of licence
 
@@ -118,25 +122,19 @@ shall be deemed to be a person using and exercising the business, occupation and
 
 ### Exemption of officers of courts in levies not exceeding $100
 
-10\. It shall not be necessary for —
+10\. It shall not be necessary for any Sheriff, bailiff or other officer of a court of justice, acting under the authority of the court and appraising any goods or chattels, whatever may be the value, or selling any goods or chattels, whether under writ of seizure and sale, distress or other writ or order —
 
-(a) any Sheriff, bailiff or other officer of a court of justice, acting under the authority of the court and appraising any goods or chattels, whatever may be the value, or selling any goods or chattels, whether under writ of seizure and sale, distress or other writ or order to levy a sum not exceeding $100, exclusive of expenses, or where the property to be sold is not expected to exceed that sum, to take out a licence as an appraiser or auctioneer under this Act;
+(a) to levy a sum not exceeding $100, exclusive of expenses; or
 
-(b) any police officer, land office bailiff or other public servant in any department of the Government service to take out a licence as an auctioneer for the purpose of conducting a sale by auction held under the provisions of any written law or departmental regulations;
+(b) where the property to be sold is not expected to exceed $100,
 
-Sale of fish on seashore
+to take out a licence as an appraiser under this Act.
 
-(c) any person to take out a licence as an auctioneer in order to enable him to sell fish by auction on the seashore where the fish has been first landed.
+[22/2000 wef 01/08/2000]
 
-### Full name of auctioneer to be displayed at every auction sale
+11\. [Repealed by Act 22/2000 wef 01/08/2000]
 
-11\.—(1) Every auctioneer before beginning any auction shall affix or suspend or cause to be affixed or suspended a ticket or board containing his true and full name and residence, painted, printed or written in large letters, publicly visible and legible in some conspicuous part of the house, room or place where the auction is held, so that all persons may easily see the ticket or board, and shall also keep the ticket or board so affixed or suspended during the whole time the auction is being held.
-
-(2) Any auctioneer, who begins any auction or acts as an auctioneer at any auction in any house, room or place where his name and residence is not so painted or written on a ticket or board so affixed or suspended as aforesaid, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
-
-### No exemption to auctioneers from taking out special licences
-
-12\. Nothing in this Act shall exempt any auctioneer from taking out in addition to the licence granted to him as auctioneer such further licence as is required by law to deal in or retail or vend, trade in or sell any goods or commodities for which a special licence is required before he is permitted or authorised to sell the goods or commodities by auction.
+12\. [Repealed by Act 22/2000 wef 01/08/2000]
 
 ### Exceptions
 
@@ -144,17 +142,19 @@ Sale of fish on seashore
 
 (a) any agent employed in the management of landed estates to take out a licence under this Act for that purpose;
 
-(b) any advocate and solicitor who as such has in force a practising certificate, or any auctioneer having in force a licence as such under this Act, to take out in addition thereto a licence as a house agent;
+(b) any advocate and solicitor who as such has in force a practising certificate to take out in addition thereto a licence as a house agent; or
 
-(c) any auctioneer having a licence in force under this Act to take out in addition thereto a licence as an appraiser;
+[22/2000 wef 01/08/2000]
 
-(d) any appraiser having a licence in force under this Act to take out in addition thereto a licence as a house agent; or
+(c) any appraiser having a licence in force under this Act to take out in addition thereto a licence as a house agent.
 
-(e) any person licensed under section 19(4) of the Pawnbrokers Act [Cap. 222] for selling unredeemed pledges to take out in addition thereto a licence under this Act for the purpose of conducting such sales only.
+[22/2000 wef 01/08/2000]
 
 ### Refusal and cancellation of licences
 
-14\. The officer empowered to grant licences may refuse any application for a licence or to renew any licence, and may cancel the licence of any person who has been convicted of any offence under this Act or who has failed to account for or pay over any moneys or property which have come into his possession or control as such licensed person, or if an auctioneer has parted with any property entrusted to him for sale without obtaining payment for it and has failed to make good to his employer the value thereof or has otherwise misconducted himself as an auctioneer.
+14\. The officer empowered to grant licences may refuse any application for a licence or to renew any licence, and may cancel the licence of any person who has been convicted of any offence under this Act or who has failed to account for or pay over any moneys or property which have come into his possession or control as such licensed person.
+
+[22/2000 wef 01/08/2000]
 
 ### Evidence of misconduct
 
@@ -162,11 +162,13 @@ Sale of fish on seashore
 
 (a) is liable or responsible for any money or property come into his possession or control as a licensed person under circumstances amounting to a breach of trust or duty;
 
-(b) has committed any offence as an auctioneer or agent;
+(b) has committed any offence as a house agent; or
 
-(c) has contravened any statutory provision as to the conduct of sales by auction; or
+[22/2000 wef 01/08/2000]
 
-(d) has paid or agreed to pay to his employer any part of his charges or expenses by way of return commission when the employer is a person accountable to any other person for the proceeds of the sale,
+(c) has paid or agreed to pay to his employer any part of his charges or expenses by way of return commission when the employer is a person accountable to any other person for the proceeds of the sale,
+
+[22/2000 wef 01/08/2000]
 
 shall be ground for the cancellation of his licence.
 
@@ -188,33 +190,47 @@ shall be ground for the cancellation of his licence.
 
 ### Power to make regulations
 
-18\.—(1) The Minister may make regulations to regulate sales by public auction and to check collusive or fraudulent sales, and the regulations may provide amongst other things for the length of notice to be given and the manner of advertising sales on the instructions of mortgagees acting under powers of sale or of any person in a position of trust with respect to or liable to account for the proceeds of sale.
+18\. The Minister may make regulations necessary for or convenient to carrying out the provisions of this Act, including but not limited to the length of notice to be given and the manner of advertising sales on the instructions of mortgagees acting under powers of sale or of any person in a position of trust with respect to or liable to account for the proceeds of sale.
 
-(2) The breach of any regulations made under this section shall render the auctioneer liable to cancellation of his licence.
-
-(3) All such regulations shall be presented to Parliament and shall not come into force until approved by a resolution of Parliament.
+[22/2000 wef 01/08/2000]
 
 ## THE SCHEDULE
 
+Section 5
+
 FORM A
 
-Section 3
+Appraisers and House Agents Act
+
+
+
+
+(Chapter 16)
+
+Appraiser’s Licence
 
 FORM B
 
-Section 5
-
-FORM C
-
 Section 7
+
+Appraisers and House Agents Act
+
+
+
+
+(Chapter 16)
+
+HOUSE AGENT’S LICENCE
+
+[22/2000 wef 01/08/2000]
 
 ## LEGISLATIVE HISTORY
 
-Auctioneers’ Licences Act
+Appraisers and House Agents Act
 
 (CHAPTER 16)
 
-This Legislative History is provided for the convenience of users of the Auctioneers’ Licences Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Appraisers and House Agents Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -276,3 +292,8 @@ This Legislative History is provided for the convenience of users of the Auction
 ||Date of operation|31 July 1971|
 |15.|**1985 Revised Edition—Auctioneers’ Licences Act**|
 ||Date of operation|30 March 1987|
+|16.|**Act 22 of 2000—Auctioneers’ Licences (Amendment) Act 2000**|
+||Date of First Reading|22 May 2000|
+|||(Bill No. 17/2000 published on 23 May 2000)|
+||Date of Second and Third Readings|3 July 2000|
+||Date of commencement|1 August 2000|
