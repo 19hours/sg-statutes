@@ -24,7 +24,7 @@
 
 - [7 Vesting of property in Singapore and Malacca](#Vesting-of-property-in-Singapore-and-Malacca)
 
-- [8 Saving of Crown and other rights](#Saving-of-Crown-and-other-rights)
+- [8 Saving of Government and other rights](#Saving-of-Government-and-other-rights)
 
 [**FIRST SCHEDULE Penang property**](#FIRST-SCHEDULE-Penang-property)
 
@@ -116,9 +116,9 @@ It is hereby enacted by the Governor of the Straits Settlements with the advice 
 
 7\. The several persons mentioned in the third column of the Second and Third Schedules hereto, or the survivors or survivor of them, or the executors or administrators of them, or any of them in whom were vested the respective estates and interests mentioned in the second column of the said Second and Third Schedules, in the lands, hereditaments and premises specified in the first column of the said Second and Third Schedules, are hereby divested of such estates and interests, and such estates and interests are hereby vested in the Corporation as Trustee for the Society of Saint Maur, subject nevertheless to all conditions of tenure incident thereto, and to any trusts affecting the same, but with full power, subject as aforesaid, for the Corporation as such Trustee to deal with the property so vested in accordance with the provisions of subsection (4) of section 5 hereof.
 
-### Saving of Crown and other rights
+### Saving of Government and other rights
 
-8\. Nothing in this Ordinance shall affect the rights of Her Majesty or of any body politic or corporate or of any other persons except such as are mentioned in this Ordinance and those claiming by, through, from or under them.
+8\. Nothing in this Ordinance shall affect the rights of the Government or of any body politic or corporate or of any other persons except such as are mentioned in this Ordinance and those claiming by, through, from or under them.
 
 [7/97 wef 01/10/1997]
 
@@ -224,3 +224,8 @@ This Legislative History is provided for the convenience of users of the Society
 ||Date of commencement|23 August 1985|
 |5.|**1985 Revised Edition—Society of Saint Maur Incorporation Ordinance**|
 ||Date of operation|30 March 1987|
+|6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (item (34) in the First Schedule)|
