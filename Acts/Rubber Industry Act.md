@@ -88,7 +88,9 @@ An Act to provide for the promotion, regulation and control of the rubber trade 
 
 2\. In this Act, unless the context otherwise requires —
 
-“Board” means the Trade Development Board established under section 3 of the Trade Development Board Act;
+“Board” means the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act;
+
+[17/2002 wef 01/04/2002]
 
 “deal” means to broke in, purchase or sell rubber but does not include the purchase, sale or brokerage of rubber by means of a commodity futures contract within the meaning of the Commodity Futures Act;
 
@@ -240,7 +242,7 @@ unless he is for the time being the holder of a valid licence granted under this
 
 13\.—(1) For the purposes of section 12, there shall be established an Appeal Tribunal, which shall consist of a Chairman, who shall be a person qualified to be appointed as a Judge of the Supreme Court and two other persons, all of whom shall be appointed by the Minister for a term of not less than one year and not more than 3 years.
 
-(2) Those persons who, on 26th May 1992, were holding the appointments of Chairman or member of the Appeal Tribunal established under the repealed Rubber Industry Act [Cap. 280, 1985 Ed.] shall be deemed to have been appointed as Chairman or member, as the case may be, of the Appeal Tribunal under subsection (1).
+(2) Those persons who, on 26th May 1992, were holding the appointments of Chairman or member of the Appeal Tribunal established under the repealed Rubber Industry Act (Cap. 280, 1985 Ed.) shall be deemed to have been appointed as Chairman or member, as the case may be, of the Appeal Tribunal under subsection (1).
 
 (3) The Appeal Tribunal may make rules governing the fees payable to the Board and the procedure to be followed on appeals under section 12.
 
@@ -356,7 +358,7 @@ unless he is for the time being the holder of a valid licence granted under this
 
 ### Transitional provisions
 
-29\.—(1) Any licence granted under the repealed Rubber Dealers Act [Cap. 279, 1990 Ed.] or the repealed Rubber Industry Act [Cap. 280, 1985 Ed.] shall continue in force until the date of expiry provided thereunder as if it had been granted under the relevant provisions of this Act.
+29\.—(1) Any licence granted under the repealed Rubber Dealers Act (Cap. 279, 1990 Ed.) or the repealed Rubber Industry Act (Cap. 280, 1985 Ed.) shall continue in force until the date of expiry provided thereunder as if it had been granted under the relevant provisions of this Act.
 
 (2) Any order, ruling or direction made or given by the Appeal Tribunal established under the repealed Rubber Industry Act shall be entered as an order, ruling or direction of the Appeal Tribunal established under section 13 of this Act and shall have the same force and effect as if it had been made or given by the Appeal Tribunal under this Act.
 
@@ -377,3 +379,8 @@ This Legislative History is provided for the convenience of users of the Rubber 
 ||Date of commencement|27 May 1992|
 |2.|**1993 Revised Edition—Rubber Industry Act**|
 ||Date of operation|15 March 1993|
+|3.|**Act 17 of 2002—Trade Development Board (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+||Date of Second and Third Readings|8 July 2002|
+||Dates of commencement|1 April 2002|
