@@ -264,7 +264,7 @@ PRELIMINARY
 
 ### Appointment of officers
 
-3\.—(1) The President may appoint an officer to be styled the Director of Primary Production and an officer to be styled the Deputy Director of Primary Production.
+3\.—(1) The Minister may appoint an officer to be styled the Director of Primary Production and an officer to be styled the Deputy Director of Primary Production.
 
 (2) The Director may, with the approval of the Minister, appoint any public officer employed in the administration of this Act to be a veterinary authority who, subject to such limitations as may be prescribed by the Director, may perform all duties imposed and exercise all powers conferred on the Director and the veterinary authority by this Act.
 
@@ -971,3 +971,8 @@ This Legislative History is provided for the convenience of users of the Animals
 |||(Bill No. 46/95 published on 6 December 1995)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|2 February 1996|
+|8.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
