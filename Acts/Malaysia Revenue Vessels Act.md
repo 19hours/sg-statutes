@@ -58,7 +58,9 @@ An Act to empower revenue vessels owned by the government of Malaysia to operate
 
 (b) all the powers conferred by sections 105, 110 and 112 of the Customs Act [Cap. 70] upon senior officers of customs and officers of customs; and
 
-(c) all the powers conferred by sections 9, 13, 14, 16, 20 and 21 of the Control of Imports and Exports Act [Cap. 56] upon senior authorised officers and authorised officers.
+(c) all the powers conferred by sections 12, 16, 17, 19, 25 and 26 of the Regulation of Imports and Exports Act 1995 upon senior authorised officers and authorised officers.
+
+[Act 24/95 wef 01/12/1995]
 
 ### How person arrested is to be dealt with
 
@@ -96,11 +98,17 @@ This Legislative History is provided for the convenience of users of the Malaysi
 |:-|:-|:-|
 |1.|**Ordinance 3 of 1929—Malaysia Revenue Vessels Ordinance 1929**|
 ||Date of commencement|3 May 1929|
-|2.|**Act 8 of 1955—Revised Edition of the Laws (Miscellaneous Amendments) Ordinance 1955**|
+|2.|**Ordinance 8 of 1955—Revised Edition of the Laws (Miscellaneous Amendments) Ordinance 1955**|
 ||Date of commencement|4 February 1955|
-|3.|**Act 71 of 1959—Transfer of Powers Ordinance 1959**|
+|3.|**Ordinance 71 of 1959—Transfer of Powers Ordinance 1959**|
 ||Date of commencement|20 November 1959|
 |4.|**1970 Revised Edition—Malaysia Revenue Vessels Act (Chapter 142)**|
 ||Date of operation|31 May 1971|
 |5.|**1985 Revised Edition—Malaysia Revenue Vessels Act**|
 ||Date of operation|30 March 1987|
+|6.|**Act 24 of 1995—Regulation of Imports and Exports Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 May 1995|
+|||(Bill No. 19/1995 published on 26 May 1995)|
+||Date of Second and Third Readings|7 July 1995|
+||Date of commencement|1 December 1995|
