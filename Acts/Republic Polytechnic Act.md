@@ -1,14 +1,12 @@
-**Republic Polytechnic Act 2002**
+**Republic Polytechnic Act**
 
-**(No. 14 of 2002)**
+**(CHAPTER 270)**
 
 **Table of Contents**
 
 [**Long Title**](#Republic-Polytechnic-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -44,51 +42,33 @@
 
 - [18 Failure to furnish information to auditor](#Failure-to-furnish-information-to-auditor)
 
-- [19 Presentation of financial statements and auditor’ s report to Parliament](#Presentation-of-financial-statements-and-auditor’-s-report-to-Parliament)
+- [19 Presentation of financial statements and auditor’s report to Parliament](#Presentation-of-financial-statements-and-auditor’s-report-to-Parliament)
 
 - [20 Annual report](#Annual-report)
 
 - [21 Application of Societies Act to Students’ Union](#Application-of-Societies-Act-to-Students’-Union)
 
-[**THE SCHEDULE CONSTITUTION OF THE republic POLYTECHNIC**](#THE-SCHEDULE)
+[**THE SCHEDULE Constitution of the Republic Polytechnic**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Republic Polytechnic Act
 
-ACTS SUPPLEMENT
+(CHAPTER 270)
 
-Published by Authority
+(Original Enactment: Act 14 of 2002)
 
-NO. 12]
+REVISED EDITION 2003
 
-Friday, July 26
-
-[2002
-
-The following Act was passed by Parliament on 8th July 2002 and assented to by the President on 17th July 2002:—
-
-Republic Polytechnic Act 2002
-
-(No. 14 of 2002)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-17th July 2002.
-
-Date of Commencement: 1st August 2002
+(31st July 2003)
 
 An Act to establish the Republic Polytechnic, to provide for its functions and powers, and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st August 2002]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Republic Polytechnic Act 2002 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Republic Polytechnic Act.
 
 ### Interpretation
 
@@ -170,7 +150,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (2) There shall be a head of each School with such powers as may be conferred by the Board.
 
-(3) The Board may, on the recommendation of the Senate, form, dissolve or reform such schools and any department, centre, unit and other sub-divisions of any school as it may from time to time consider desirable.
+(3) The Board may, on the recommendation of the Senate, form, dissolve or reform such Schools and any department, centre, unit and other sub-divisions of any School as it may from time to time consider desirable.
 
 ### Committees and delegation of powers
 
@@ -188,7 +168,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (3) The powers and duties of the officers and members of the academic staff, the periods and conditions for and upon which they hold office and their emoluments shall be such as are prescribed by this Act, the Constitution and the terms of their respective appointments.
 
-(4) In addition to such powers and duties that are assigned under subsection (3), the Board may assign to any officer, and in the case of any member of the academic staff on the recommendation of the Principal, such further powers and duties as the Board may think fit.
+(4) In addition to such powers and duties that are assigned under subsection (3), the Board may assign to any officer, and in the case of any member of the academic staff on the recommendation of the Principal, such further powers and duties as the Board thinks fit.
 
 ### Constitution of Polytechnic
 
@@ -206,9 +186,9 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 12\. The Polytechnic shall have power —
 
-(a) to award diplomas and certificates and such other academic distinctions as may be specified in regulations made under the Constitution; and
+(a) to award diplomas, certificates and such other academic distinctions as may be specified in regulations made under the Constitution; and
 
-(b) to provide access to educational activities and programmes for persons who are not registered students as the Polytechnic may determine, and to award diplomas, certificates and such other academic distinctions to such persons.
+(b) to provide access to such educational activities and programmes for persons who are not registered students as the Polytechnic may determine, and to award diplomas, certificates and other academic distinctions to those persons.
 
 ### Grants
 
@@ -238,7 +218,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Audit of accounts
 
-17\.—(1) The accounts of the Polytechnic shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
+17\.—(1) The accounts of the Polytechnic shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General (referred to in this Act as the auditor).
 
 (2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
 
@@ -262,33 +242,38 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 18\.—(1) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor or the person authorised by him considers necessary for the purposes of his functions under this Act.
 
-(2) Any person who fails, without reasonable excuse, to comply with any requirement of the auditor under subsection (1) or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(2) Any person who fails, without reasonable excuse, to comply with any requirement of the auditor or authorised person under subsection (1) or who otherwise hinders, obstructs or delays the auditor or authorised person in the performance of his duties or the exercise of his powers under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-### Presentation of financial statements and auditor’ s report to Parliament
+### Presentation of financial statements and auditor’s report to Parliament
 
 19\.—(1) The Board shall, as soon as the financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of the auditor’s report.
 
 (2) Where the Auditor-General is not the auditor of the Polytechnic, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Board.
 
-(3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+(3) The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report referred to in subsection (1) to be presented to Parliament.
 
 ### Annual report
 
 20\.—(1) The Board shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Polytechnic during the preceding financial year and containing such information relating to the proceedings and policy of the Polytechnic as the Minister may, from time to time, direct.
 
-(2) The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
+(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
 
 ### Application of Societies Act to Students’ Union
 
 21\.—(1) Notwithstanding anything to the contrary in the Societies Act (Cap. 311), the provisions of that Act shall apply to the Republic Polytechnic Students’ Union and its constituent bodies constituted by the regulations.
 
-(2) The Minister charged with the responsibility for societies may, by order published in theGazette, exempt the Republic Polytechnic Students’ Union and any of its constituent bodies from all or any of the provisions of the Societies Act subject to such conditions as may be specified in the order.
+(2) The Minister charged with the responsibility for societies may, by order published in theGazette, exempt the Republic Polytechnic Students’ Union and any of its constituent bodies from all or any of the provisions of the Societies Act (Cap. 311) subject to such conditions as may be specified in the order.
 
 ## THE SCHEDULE
 
 Sections 2 and 10
 
-CONSTITUTION OF THE republic POLYTECHNIC
+Constitution of
+
+
+
+
+the Republic Polytechnic
 
 Part I
 
@@ -300,11 +285,9 @@ Interpretation
 
 “Act” means the Republic Polytechnic Act;
 
-“appointed day” means the date of commencement of the Act;
-
 “Board” means the Board of Governors of the Polytechnic;
 
-“Chairman” means the Chairman of the Board of Governors;
+“Chairman” means the Chairman of the Board;
 
 “Constitution” means the Constitution of the Polytechnic;
 
@@ -342,7 +325,7 @@ Appointment, powers and duties of Principal and Deputy Principal
 
 (a) for the proper administration and the academic management of the Polytechnic in accordance with the policies determined by the Board;
 
-(b) for the proper enforcement of regulations made under this Constitution; and
+(b) for the proper enforcement of regulations; and
 
 (c) for the welfare and discipline of the staff and students of the Polytechnic.
 
@@ -350,7 +333,7 @@ Appointment, powers and duties of Principal and Deputy Principal
 
 (4) The Principal shall be entitled to be present and speak at any meeting of any committee of the Polytechnic, but shall not be entitled to vote at the meeting unless he is a member thereof.
 
-(5) There shall be one or more Deputy Principals who shall be appointed by the Board on such terms and conditions as may be determined by the Board.
+(5) There shall be one or more Deputy Principals who shall be appointed by the Board on such terms and conditions as the Board may determine.
 
 (6) A Deputy Principal shall perform such duties as may be assigned to him by the Principal (or by the Board if the Principal is unable to so assign).
 
@@ -358,7 +341,7 @@ Secretary
 
 3.—(1) There shall be a Secretary of the Board who shall be an officer of the Polytechnic and shall be appointed by the Board on such terms and conditions as the Board may determine.
 
-(2) The Secretary shall —
+(2) The Secretary of the Board shall —
 
 (a) attend all meetings of the Board unless excused by the Chairman;
 
@@ -366,9 +349,9 @@ Secretary
 
 (c) carry out such other duties as may be assigned to him by the Board.
 
-(3) In the absence of the Secretary, the Chairman may appoint a suitable person to act as secretary for a particular meeting.
+(3) In the absence of the Secretary of the Board, the Chairman may appoint a suitable person to act as secretary for a particular meeting.
 
-(4) The Secretary shall not, unless he is a member of the Board appointed to serve in that capacity, be entitled to vote on any question before the Board.
+(4) The Secretary of the Board shall not, unless he is a member of the Board appointed to serve in that capacity, be entitled to vote on any question before the Board.
 
 Other officers
 
@@ -388,7 +371,7 @@ Board of Governors
 
 (c) the Principal; and
 
-(d) such other persons, not being less than 9 or more than 15, as may be determined by the Minister.
+(d) such other persons, being not less than 9 and not more than 15, as may be determined by the Minister.
 
 (2) Every member of the Board, except the Principal, shall be appointed by the Minister and shall, unless the Minister otherwise directs, hold office for a period of 3 years from the date of his appointment and shall be eligible for reappointment.
 
@@ -426,9 +409,9 @@ Powers of Board
 
 (n) to delegate any of its powers to any member of the Board or to any committee thereof or to any officer or other employee of the Polytechnic; and
 
-(o) to do all such other acts and things as may be requisite to give effect to the powers conferred on the Board by the Act or this Constitution.
+(o) to do all such other acts and things as may be require to give effect to the powers conferred on the Board by the Act or this Constitution.
 
-(3) The Board may by regulations provide for any of the following matters or for any of the following purposes:
+(3) The Board may by regulations provide for any of the following matters or purposes:
 
 (a) the administration of the affairs of the Polytechnic;
 
@@ -442,7 +425,7 @@ Powers of Board
 
 (f) fees;
 
-(g) the prescribing of anything which is by the Act or this Constitution to be prescribed by regulations made by the Board; and
+(g) the prescribing of anything which is by the Act or this Constitution required to be prescribed by regulations made by the Board; and
 
 (h) generally all matters which by the Act or this Constitution the Board is empowered to regulate.
 
@@ -480,13 +463,13 @@ Senate
 
 10.—(1) There shall be a Senate which shall consist of —
 
-(a) the Principal, who shall be Chairman;
+(a) the Principal, who shall be the chairman of the Senate;
 
 (b) the heads of the Schools;
 
-(c) such number of officers of the Polytechnic to be appointed by the Board; and
+(c) such number of officers of the Polytechnic as may be appointed by the Board; and
 
-(d) such number of academic staff as may be determined by the Board to be elected by all the full-time academic staff.
+(d) such number of academic staff as may be determined by the Board as may be elected by all the full-time academic staff.
 
 (2) The Senate shall meet at least twice in each semester of every academic year and such other times as may be necessary.
 
@@ -510,7 +493,7 @@ Powers of Senate
 
 (f) to advise the Board on the provision of facilities for educational and other academic matters;
 
-(g) to decide in accordance with this Constitution and the regulations persons who are qualified for the award of diplomas, certificates and other marks of distinction;
+(g) to decide in accordance with this Constitution and the regulations persons who are qualified for the award of diplomas, certificates and other academic distinctions;
 
 (h) to organise the Schools;
 
@@ -524,15 +507,15 @@ Powers of Senate
 
 (m) to delegate any of its powers to any member of the Senate or any committee thereof or to any officer of the Polytechnic; and
 
-(n) to do all such other acts and things as may be requisite to give effect to the powers conferred on the Senate by the Act and this Constitution.
+(n) to do all such other acts and things as may be required to give effect to the powers conferred on the Senate by the Act and this Constitution.
 
 Regulations made by Senate
 
-12.—(1) The Senate may by regulations provide for any of the following matters or for any of the following purposes:
+12.—(1) The Senate may by regulations provide for any of the following matters or purposes:
 
 (a) the admission and registration of students;
 
-(b) the conditions for the award of diplomas, certificates and other marks of distinction;
+(b) the conditions for the award of diplomas, certificates and other academic distinctions;
 
 (c) courses of study and examinations;
 
@@ -542,7 +525,7 @@ Regulations made by Senate
 
 (f) the conduct of examinations;
 
-(g) the prescribing of anything which is by the Act or this Constitution to be prescribed by regulations made by the Senate;
+(g) the prescribing of anything which is by the Act or this Constitution required to be prescribed by regulations made by the Senate;
 
 (h) the prescribing of conditions under which persons may be exempted from the provisions of any regulations made by the Senate; and
 
@@ -564,7 +547,7 @@ Financial Provisions
 
 Financial year
 
-14\. The financial year of the Polytechnic shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Polytechnic shall begin on the appointed day and end on 31st March of the succeeding year.
+14\. The financial year of the Polytechnic shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
 Preparation of estimates
 
@@ -582,7 +565,7 @@ Power of Board to accept gifts
 
 (2) Records shall be kept of all donations to the Polytechnic including the names of donors and any special conditions on which any donation may have been given.
 
-Property donated for specific purposes to be separately accounted for
+Property, etc., donated for specific purposes to be separately accounted for
 
 18\. All property, moneys or funds donated for any specific purpose shall be applied and administered in accordance with the purpose for which they may have been donated and shall be separately accounted for.
 
@@ -596,5 +579,24 @@ Republic Polytechnic Students’ Union
 
 (2) The constitution, membership, functions and other matters relating to the Republic Polytechnic Students’ Union and each of its constituent bodies shall be so prescribed.
 
-(3) The Polytechnic may impose and collect from the students or any class thereof such fees as it may determine for the benefit of the Republic Polytechnic Students’ Union and its constituent bodies; and such fees may be applied in such manner as the Polytechnic thinks fit for the purposes of the Union and its constituent bodies.
+(3) The Polytechnic may impose and collect from the students or any class thereof such fees as it may determine for the benefit of the Republic Polytechnic Students’ Union and its constituent bodies.
 
+(4) The fees collected under subsection (3) may be applied in such manner as the Polytechnic thinks fit for the purposes of the Republic Polytechnic Students’ Union and its constituent bodies.
+
+## LEGISLATIVE HISTORY
+
+Republic Polytechnic Act
+
+(CHAPTER 270)
+
+This Legislative History is provided for the convenience of users of the Republic Polytechnic Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 14 of 2002—Republic Polytechnic Act 2002**|
+||Date of First Reading|3 May 2002|
+|||(Bill No. 12/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|1 August 2002|
+|2.|**2003 Revised Edition—Republic Polytechnic Act**|
+||Date of operation|31 July 2003|
