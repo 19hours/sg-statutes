@@ -104,7 +104,7 @@
 
 - [37 Purposes and powers of Society](#Purposes-and-powers-of-Society)
 
-- [38 Visitors](#Visitors)
+- [38 (Repealed)](#Repealed)
 
 [**Members of Society and subscriptions**](#Members-of-Society-and-subscriptions)
 
@@ -326,7 +326,7 @@
 
 [**Part IX RECOVERY AND TAXATION OF COSTS**](#Part-IX)
 
-- [116 Definition of solicitor](#Definition-of-solicitor)
+- [116 Interpretation of this Part](#Interpretation-of-this-Part)
 
 - [117 Charging orders](#Charging-orders)
 
@@ -562,6 +562,14 @@ Board of Legal Education
 
 (e) do all things for which it has power to make rules under subsections (2) and (3) and all things that are necessary to carry into effect the objects of this Part and the purposes of the Board.
 
+(1A) The Board may —
+
+(a) invest its moneys in such manner as it thinks fit, including the deposit of moneys with financial institutions and other business or professional bodies; and
+
+(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
+
+[35/2001 wef 01/11/2001]
+
 (2) Subject to the provisions of this Part, the Board shall have power to make rules to carry into effect the objects of this Part.
 
 (3) In particular and without prejudice to the generality of subsection (2), the Board may make rules —
@@ -570,7 +578,7 @@ Board of Legal Education
 
 (b) with respect to the taking and retaining of pupils by masters and the conduct, duties and responsibilities of the parties;
 
-(c) for regulating the manner in which pupilsserve their period of pupillage;
+(c) for regulating the manner in which pupils keep dining terms and serve their period of pupillage;
 
 [35/2001 wef 01/11/2001]
 
@@ -594,9 +602,9 @@ Board of Legal Education
 
 ### Board may approve certain persons as qualified persons
 
-7\.—(1) The Board may in exceptional cases, in its discretion, upon an application made to it by any person who is not otherwise entitled to become a qualified person but who, in the opinion of the Board, possesses such qualification or expertise as would enhance the quality of legal services in Singapore, approve the person as a qualified person for the purpose of this Act and issue to him a certificate to that effect.
+7\.—(1) The Board may, in its discretion, upon an application made to it by any person who is not otherwise entitled to become a qualified person but who, in the opinion of the Board, possesses such qualification or expertise as would contribute to, promote or enhance the quality of legal services in Singapore or the economic or technological development of Singapore, approve the person as a qualified person for the purpose of this Act and issue to him a certificate to that effect.
 
-[41/93]
+[35/2001 wef 01/11/2001]
 
 (2) Notwithstanding section 22, any decision of the Board under subsection (1) shall be final and shall not be subject to appeal or review in any court.
 
@@ -608,9 +616,13 @@ Board of Legal Education
 
 (a) the Attorney-General;
 
+(aa) the President of the Society;
+
+[35/2001 wef 01/11/2001]
+
 (b) the Dean of the Faculty;
 
-(c) 5 advocates and solicitors nominated by the Senate of the Academy after consultation with the Council; and
+(c) 4 advocates and solicitors nominated by the Senate of the Academy after consultation with the Council; and
 
 [35/2001 wef 01/11/2001]
 
@@ -618,11 +630,11 @@ Board of Legal Education
 
 [15/89]
 
-(2) The members of the Board, other than the Attorney-General and the Dean of the Faculty, shall be nominated to hold office for a term of 3 years.
+(2) The members of the Board, other than the Attorney-General, the President of the Society and the Dean of the Faculty, shall be nominated to hold office for a term of 3 years.
 
 [35/2001 wef 01/11/2001]
 
-(3) If for any reason the Attorney-General or the Dean of the Faculty is unable to attend a particular meeting of the Board, he may nominate some other legal officer or some other member of the Faculty , as the case may be, to attend the meeting and when so attending that alternate member shall be deemed for all purposes to be a member of the Board.
+(3) If for any reason the Attorney-General, the President of the Society or the Dean of the Faculty is unable to attend a particular meeting of the Board, he may nominate some other legal officer or some other member of the Faculty or the Council, as the case may be, to attend the meeting and when so attending that alternate member shall be deemed for all purposes to be a member of the Board.
 
 [35/2001 wef 01/11/2001]
 
@@ -680,13 +692,13 @@ Qualified persons
 
 (c) has satisfactorily served the prescribed period of pupillage for qualified persons;
 
-(d) has attended such courses of instructionas may be prescribed by the Board; and
+(d) has attended such courses of instruction and kept such dining terms as may be prescribed by the Board; and
 
 [35/2001 wef 01/11/2001]
 
 (e) has passed such examinations as may be prescribed by the Board.
 
-(2) Notwithstanding subsection (1)(d) and (e), the Board may, in its discretion, exempt a qualified person from attending such courses of instructionand passing such examinations as may be prescribed by the Board if it is of the opinion that that qualified person is, by reason of his experience or for other cause, a fit and proper person to be so exempted.
+(2) Notwithstanding subsection (1)(d) and (e), the Board may, in its discretion, exempt a qualified person from attending such courses of instruction, keeping such dining terms and passing such examinations as may be prescribed by the Board if it is of the opinion that that qualified person is, by reason of his experience or for other cause, a fit and proper person to be so exempted.
 
 [35/2001 wef 01/11/2001]
 
@@ -728,7 +740,7 @@ Qualified persons
 
 [10/91; 41/93; 40/96]
 
-(3) For the purposes of this section and section 13(5), “legal officer” includes a legal officer of the Inland Revenue Authority of Singapore.
+(3) For the purposes of this section and section 13(5), “legal officer” includes a legal officer of the Inland Revenue Authority of Singapore or of such other statutory board or authority as the Minister may prescribe.
 
 [35/2001 wef 01/11/2001]
 
@@ -736,7 +748,7 @@ Qualified persons
 
 (4) The Board may approve a request that a qualified person serve different parts of his period of pupillage with different masters.
 
-(5) The Board may, in its discretion, exempt a qualified person from a maximum of 3 months’ pupillageupon application made supported by satisfactory evidence that the applicant —
+(5) The Board may, in its discretion, exempt a qualified person from pupillage, wholly or for such period as the Board thinks fit, upon application made supported by satisfactory evidence that the applicant —
 
 (a) has been a pupil or read in the chambers of a practising barrister of the United Kingdom or of a member of the Faculty of Advocates in Scotland of more than 7 years’ standing;
 
@@ -1100,13 +1112,37 @@ and the Registrar may comply with the request and notify the solicitor in writin
 
 [10/91]
 
-(3) Subsection (1) shall not apply to a member of the legal service or to a solicitor employed by the Society or by any statutory board or authority if the Attorney-General issues a certificate under his hand certifying that the solicitor is so employed and specifying therein the matters in which the solicitor so employed may appear and plead in courts of law.
+(3) Subsection (1) shall not apply to —
 
-[41/93]
+(a) a solicitor who is employed by the Society, the Board or any statutory board or authority;
 
-(4) Upon the solicitor otherwise complying with the provisions of this Act, the Registrar shall issue to him a practising certificate specifying therein the matters in which he may appear and plead as contained in the Attorney-General’s certificate.
+(b) a solicitor who is employed as a full-time member of the academic staff of any department of the National University of Singapore or of any department of law in any other institution of higher learning in Singapore and who has been so employed in either case for at least 3 continuous years; or
 
-[41/93]
+(c) a State Counsel, Deputy Public Prosecutor or other legal officer of the government of any country or any territory of that country,
+
+if the Attorney-General issues a certificate under his hand to the person and specifies therein the matters in which the person may appear and plead in courts of law.
+
+[35/2001 wef 01/11/2001]
+
+(3A) Where the Attorney-General has issued a certificate to a solicitor under subsection (3)(a) or (b), the Registrar shall, upon the solicitor complying with the provisions of this Act, issue him a practising certificate specifying therein the matters in which he may appear and plead in courts of law and the conditions (if any) as contained in the Attorney-General’s certificate.
+
+[35/2001 wef 01/11/2001]
+
+(3B) Where the Attorney-General has issued a certificate to a person under subsection (3)(c), the Registrar shall issue him a practising certificate specifying therein the matters in which he may appear and plead in courts of law and the conditions (if any) as contained in the Attorney-General’s certificate.
+
+[35/2001 wef 01/11/2001]
+
+(3C) The Attorney-General may shorten the period referred to in subsection (3)(b) if he is satisfied that the solicitor has gained substantial experience in law for the purposes of that subsection.
+
+[35/2001 wef 01/11/2001]
+
+(3D) Sections 72 and 73 shall not apply to a solicitor who has been issued with a certificate under subsection (3)(a) or (b).
+
+[35/2001 wef 01/11/2001]
+
+(4) The other provisions of this Act shall not apply to a person who has been issued a certificate under subsection (3)(c).
+
+[35/2001 wef 01/11/2001]
 
 (5) A practising certificate issued to a solicitor shall cease to be in force —
 
@@ -1286,7 +1322,7 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (2) A person who is not so qualified is referred to in this Act as an unauthorised person.
 
-(3) A Judge may, if he thinks fit, on the application of a solicitor who is a master under Part II allow his pupil who has completed not less than 4 months of his pupillage to appear on behalf of the master or the firm in which the master is a partner or the law corporation in which the master is a director or an employee before —
+(3) A Judge may, if he thinks fit, on the application of a solicitor who is a master under Part II allow his pupil who has completed not less than 4 months of his pupillage to appear on behalf of the master or the firm in which the master is a partner or consultant or the law corporation in which the master is a director or consultant or an employee before —
 
 (a) Judge or the Registrar in chambers;
 
@@ -1322,7 +1358,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 shall, unless he proves that the act was not done for or in expectation of any fee, gain or reward, be guilty of an offence.
 
-(3) Any unauthorised person whooffers or agrees to place at the disposal of any other person the services of an advocate and solicitor shall be guilty of an offence.
+(3) Any unauthorised person who, for or in expectation of any fee, gain or reward, offers or agrees to place at the disposal of any other person the services of an advocate and solicitor shall be guilty of an offence.
 
 [35/2001 wef 01/11/2001]
 
@@ -1364,7 +1400,9 @@ shall, unless he proves that the act was not done for or in expectation of any f
 
 (g) any arbitrator or umpire lawfully acting under any written law relating to arbitration, settling or attempting to settle the dispute between the parties to the arbitration;
 
-(h) any full-time member of the academic staff of the Faculty of Law of the National University of Singapore who is a qualified person rendering any opinion or acting in an advisory capacity on any matter in which he has been instructed;
+(h) any full-time member of the academic staff of any department of the National University of Singapore or of any department of law in any other institution of higher learning in Singapore who is a qualified person rendering any opinion or acting in an advisory capacity on any matter in which he has been instructed by an advocate and solicitor;
+
+[35/2001 wef 01/11/2001]
 
 (i) any accountant drawing or preparing documents in the exercise of his profession;
 
@@ -1458,9 +1496,7 @@ THE LAW SOCIETY OF SINGAPORE
 
 (3) In addition to rules that may be made by the Society under the other provisions of this Act, the Society may, subject to the provisions of this Act, make rules for giving effect to this Part.
 
-### Visitors
-
-38\. The Chief Justice and such other Judges of the Supreme Court as are elected by the Society shall be visitors of the Society.
+38\. [Deleted by Act 35/2001 wef 01/11/2001]
 
 Members of Society and subscriptions
 
@@ -1486,7 +1522,13 @@ Members of Society and subscriptions
 
 41\.—(1) Any of the following persons who applies for membership of the Society in the prescribed manner shall be admitted as a member of the Society:
 
-(a) any advocate and solicitor who does not have in force a practising certificate; and
+(a) any advocate and solicitor who does not have in force a practising certificate;
+
+[35/2001 wef 01/11/2001]
+
+(aa) any foreign lawyer registered under rules made under section 130I; and
+
+[35/2001 wef 01/11/2001]
 
 (b) any qualified person ordinarily resident in Singapore.
 
@@ -1552,11 +1594,15 @@ Council of Society
 
 48\.—(1) The following persons shall be statutory members of the Council each time it is constituted:
 
-(a) not more than 3 advocates and solicitors nominated by the Minister to sit on the Council; and
+(a) the immediate past President of the Society;
 
-(b) the immediate past President of the Society.
+(b) not more than 3 advocates and solicitors appointed by the Minister to sit on the Council; and
 
-(2) Every member of the Council nominated by the Minister under subsection (1)(a) shall hold office for a term of 2 years but may, from time to time, be renominated.
+(c) not more than 3 advocates and solicitors appointed by the Council to sit on the Council as soon as practicable after it is constituted.
+
+(2) Every member of the Council appointed by the Minister under subsection (1)(b) or by the Council under subsection (1)(c) shall hold office for a term of 2 years and may, from time to time, be re-appointed.
+
+[35/2001 wef 01/11/2001]
 
 ### Elected members
 
@@ -1632,7 +1678,7 @@ Election of Members of Council
 
 (2) Every advocate and solicitor who is required to vote for the election of the members of the Council in accordance with subsection (1) and who fails to do so shall not be entitled to apply for a practising certificate unless he —
 
-(a) satisfies the Registrar that he had a good and sufficient reason for not voting at the last election to the Council; or
+(a) satisfies the Registrar that he was not in Singapore at the time of the election or had a good and sufficient reason for not voting at the last election to the Council; or
 
 [35/2001 wef 01/11/2001]
 
@@ -1652,7 +1698,7 @@ Election of Members of Council
 
 [17/84]
 
-(2) The annual election of the members of the Council shall take place within 21 days after the annual general meeting and shall subject to section 53 be by secret ballot on the date and place fixed by the Council in accordance with subsection (1).
+(2) The annual election of the members of the Council shall take place within 21 days after the annual general meeting and shall subject to section 53 be conducted in such manner as may be prescribed by rules made under section 59 on the date and place fixed by the Council in accordance with subsection (1).
 
 [35/2001 wef 01/11/2001]
 
@@ -1666,7 +1712,7 @@ Election of Members of Council
 
 (d) the names of 3 scrutineers.
 
-(4) The election under subsection (3) shall subject to section 53 take place by secret ballot on the date and place fixed by the Council in accordance with that subsection.
+(4) The election under subsection (3) shall subject to section 53 be conducted in such manner as may be prescribed by rules made under section 59 on the date and place fixed by the Council in accordance with that subsection.
 
 [35/2001 wef 01/11/2001]
 
@@ -2708,7 +2754,7 @@ DISCIPLINARY PROCEEDINGS
 
 ### Appointment of Inquiry Panel
 
-84\.—(1) For the purpose of enabling Inquiry Committees to be constituted in accordance with this Part, the Chief Justice shall appoint a panel (referred to hereinafter as the Inquiry Panel) consisting of not more than 40 advocates and solicitors (whether in practice or not) and not more than 40 lay persons.
+84\.—(1) For the purpose of enabling Inquiry Committees to be constituted in accordance with this Part, the Chief Justice shall appoint a panel (referred to hereinafter as the Inquiry Panel) consisting of such number of advocates and solicitors (whether in practice or not) and lay persons as the Chief Justice may determine.
 
 [35/2001 wef 01/11/2001]
 
@@ -2736,13 +2782,13 @@ DISCIPLINARY PROCEEDINGS
 
 [15/89; 41/93]
 
-(3) The Supreme Court or any Judge thereof or the Attorney-General may at any time refer to the Society any information touching upon the conduct of an advocate and solicitor and the Council shall —
+(3) Any Judge of the Supreme Court or the Attorney-General may at any time refer to the Society any information touching upon the conduct of any advocate and solicitor and the Council shall —
 
 (a) refer the matter to the Chairman of the Inquiry Panel; or
 
-(b) where the Supreme Court or a Judge thereof or the Attorney-General requests that the matter be referred to a Disciplinary Committee, apply to the Chief Justice to appoint a Disciplinary Committee.
+(b) where the Judge or the Attorney-General requests that the matter be referred to a Disciplinary Committee, apply to the Chief Justice to appoint a Disciplinary Committee.
 
-[30/86; 15/89; 41/93]
+[35/2001 wef 01/11/2001]
 
 (4) Notwithstanding subsections (1), (2) and (3), where 2 or more complaints or information touching upon the conduct of an advocate and solicitor have been received by the Council, including any complaint which had been referred to a Disciplinary Committee under section 89, the Council may with the leave of the court refer to the Chairman of the Inquiry Panel one or more complaints or information which in its opinion are more serious in nature first and defer the referral of the remaining complaints or information.
 
@@ -2752,7 +2798,37 @@ DISCIPLINARY PROCEEDINGS
 
 [15/89; 41/93]
 
-(6) Where any complaint or information touching upon the conduct of an advocate and solicitor is referred to the Chairman of the Inquiry Panel under subsection (1), (2) or (3), he shall forthwith constitute an Inquiry Committee consisting of —
+(6) Where any complaint or information touching upon the conduct of any advocate and solicitor is referred to the Chairman of the Inquiry Panel under subsection (1), (2) or (3), the Chairman shall immediately constitute one or more Review Committees consisting of —
+
+(a) a chairman, being himself or a member of the Inquiry Panel who is an advocate and solicitor; and
+
+(b) a legal officer who has not less than 10 years’ experience,
+
+to review the complaint or information within 2 weeks of its constitution.
+
+[35/2001 wef 01/11/2001]
+
+(6A) A Review Committee may, in the course of a review under subsection (6), require the complainant or the advocate and solicitor concerned to answer any inquiry or to furnish any record that the Review Committee considers relevant for the purpose of the review.
+
+[35/2001 wef 01/11/2001]
+
+(6B) On the completion of a review under subsection (6), a Review Committee shall —
+
+(a) direct the Council to dismiss the matter if it is unanimously of the opinion that the complaint or information is frivolous, vexatious, misconceived or lacking in substance and give the reasons for the dismissal; or
+
+(b) in any other case, refer the matter back to the Chairman of the Inquiry Panel.
+
+[35/2001 wef 01/11/2001]
+
+(6C) The Council shall, within 7 days of receiving any direction under subsection (6B)(a) —
+
+(a) give effect to the direction to dismiss the matter; and
+
+(b) inform the complainant and the advocate and solicitor concerned of the dismissal of the matter and furnish the complainant with the reasons of the Review Committee in writing.
+
+[35/2001 wef 01/11/2001]
+
+(6D) Where any complaint or information touching upon the conduct of any advocate and solicitor is referred back to the Chairman of the Inquiry Panel under subsection (6B)(b), the Chairman shall immediately constitute an Inquiry Committee consisting of —
 
 (a) a chairman, being a member of the Inquiry Panel who is an advocate and solicitor;
 
@@ -2764,7 +2840,11 @@ DISCIPLINARY PROCEEDINGS
 
 to inquire into the complaint or information.
 
-[15/89; 41/93]
+[35/2001 wef 01/11/2001]
+
+(6E) A member of a Review Committee who has reviewed any matter concerning any advocate and solicitor shall not be a member of an Inquiry Committee inquiring into the same matter.
+
+[35/2001 wef 01/11/2001]
 
 (7) An Inquiry Committee may meet for the purposes of its inquiry, adjourn and otherwise regulate the conduct of its inquiry as the members may think fit.
 
@@ -2801,6 +2881,10 @@ to inquire into the complaint or information.
 (15) A member of an Inquiry Committee shall, notwithstanding that he has ceased to be a member of the Inquiry Panel on the expiry of his term of office, be deemed to be a member of the Inquiry Panel until such time as the Council has decided that the Inquiry Committee of which he is a member has completed its work.
 
 [15/89]
+
+(16) Any person who makes a complaint to the Society under this Part which he knows to be false in any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[35/2001 wef 01/11/2001]
 
 ### Inquiry
 
@@ -2928,7 +3012,9 @@ to inquire into the complaint or information.
 
 (b) an advocate and solicitor has been reprimanded by the Council under section 94(3)(a),
 
-the Council shall, at the expense of the advocate and solicitor, publish in theGazettea notice of the order if the penalty payable exceeds $1,000 or of the reprimand, as the case may be.
+the Council shall, at the expense of the advocate and solicitor, publish in theGazettea notice of the order or of the reprimand, as the case may be.
+
+[35/2001 wef 01/11/2001]
 
 [41/93]
 
@@ -2962,7 +3048,9 @@ the Council shall, at the expense of the advocate and solicitor, publish in theG
 
 90\.—(1) The Chief Justice may from time to time appoint one or more committees comprising —
 
-(a) a person from a panel of not more than 5 persons appointed by the Chief Justice being retired Judges or persons who have had not less than 12 years’ experience as advocates and solicitors;
+(a) a chairman from a panel appointed by the Chief Justice, being retired Judges or persons who have had not less than 12 years’ standing as advocates and solicitors;
+
+[35/2001 wef 01/11/2001]
 
 (b) an advocate and solicitor who has in force a practising certificate;
 
@@ -2994,6 +3082,10 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 [30/86]
 
+(7A) Any question arising at any meeting of a Disciplinary Committee shall be determined by a majority of votes of the members of the Committee, and in the case of an equality of votes, the chairman of the Committee shall have a second or casting vote.
+
+[35/2001 wef 01/11/2001]
+
 (8) A member of a Disciplinary Committee appointed under subsection (1)(a) who is not a practising advocate and solicitor shall be paid for each case such remuneration as the Chief Justice may determine.
 
 [30/86]
@@ -3022,7 +3114,7 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 ### Complaint made by Supreme Court, Judge or Attorney-General
 
-92\. Where the Supreme Court or a Judge thereofor the Attorney-General has referred to the Society any information touching upon the conduct of an advocate and solicitor, all references in this Part to a person who made the complaint shall be construed to include a reference to the Attorney-General.
+92\. Where any Judge of the Supreme Court or the Attorney-General has referred to the Society any information touching upon the conduct of an advocate and solicitor, all references in this Part to a person who made the complaint shall be construed to include a reference to the Attorney-General.
 
 [35/2001 wef 01/11/2001]
 
@@ -3034,7 +3126,7 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 (a) that no cause of sufficient gravity for disciplinary action exists under section 83;
 
-(b) that while no cause of sufficient gravity for disciplinary action exists under that section the advocate and solicitor should be reprimanded ; or
+(b) that while no cause of sufficient gravity for disciplinary action exists under that section the advocate and solicitor should be reprimanded or ordered to pay a penalty sufficient and appropriate to the misconduct committed; or
 
 [35/2001 wef 01/11/2001]
 
@@ -3054,7 +3146,7 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 [30/86]
 
-(5) The findings and determination of the Disciplinary Committee shall be published .
+(5) The findings and determination of the Disciplinary Committee shall be published by the Council in the Singapore LawGazetteor in such other media as the Council may determine which would adequately inform the public of the findings and determination.
 
 [35/2001 wef 01/11/2001]
 
@@ -3070,9 +3162,9 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 (2) If the determination of the Disciplinary Committee under section 93 is that no cause of sufficient gravity for disciplinary action exists under section 83, it shall not be necessary for the Society to take any further action in the matter unless so directed by the court.
 
-(3) If the determination of the Disciplinary Committee under section 93 is that, while no cause of sufficient gravity for disciplinary action exists under section 83, the advocate and solicitor should be reprimanded , the Council shall —
+(3) If the determination of the Disciplinary Committee under section 93 is that, while no cause of sufficient gravity for disciplinary action exists under section 83, the advocate and solicitor should be reprimanded or ordered to pay a penalty, the Council shall —
 
-(a) if it agrees with the determination, reprimand the advocate and solicitor ; or
+(a) if it agrees with the determination, reprimand the advocate and solicitor or order him to pay a penalty of not more than $10,000, as the case may be; or
 
 [35/2001 wef 01/11/2001]
 
@@ -3106,7 +3198,9 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 and may make an order for payment of costs by or to either the Society or the applicant as may be just.
 
-(4) If no such application is made or if the order for a penalty is affirmed or varied by the court, the advocate and solicitor shall pay the penalty to the Societyand the Society shall pay the penalty into the Consolidated Fund.
+(4) If no such application is made or if the order for a penalty is affirmed or varied by the court, the advocate and solicitor shall pay the penalty to the Society.
+
+[35/2001 wef 01/11/2001]
 
 (5) Any penalty not paid may be recoverable by the Society as a judgment debt.
 
@@ -3144,7 +3238,7 @@ and such order for the payment of costs as may be just.
 
 (a) that no cause of sufficient gravity for disciplinary action exists under section 83; or
 
-(b) that while no cause of sufficient gravity for disciplinary action exists under that section the advocate and solicitor should be reprimanded,
+(b) that while no cause of sufficient gravity for disciplinary action exists under that section the advocate and solicitor should be reprimanded or ordered to pay a penalty,
 
 [35/2001 wef 01/11/2001]
 
@@ -3278,7 +3372,7 @@ and such order for the payment of costs as may be just.
 
 ### No action in absence of bad faith
 
-106\. No action or proceeding shall lie againsta Disciplinary Committee, the Society, the Council or the Inquiry Committee or any member thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
+106\. No action or proceeding shall lie against the Attorney-General, a Review Committee constituted under section 85(6), a Disciplinary Committee, the Society, the Council or the Inquiry Committee or any member thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
 
 [35/2001 wef 01/11/2001]
 
@@ -3466,11 +3560,23 @@ REMUNERATION OF SOLICITORS AND LAW CORPORATIONS
 
 RECOVERY AND TAXATION OF COSTS
 
-### Definition of “solicitor”
+### Interpretation of this Part
 
-116\. In this Part, unless the context otherwise requires, “solicitor” includes the executors, administrators and assignees of the solicitor in question and a law corporation.
+116\. In this Part —
 
-[4/2000]
+“court” means the High Court, a Judge when sitting in open court or in chambers, a District Court or a Magistrate’s Court and includes the Registrar;
+
+“Registrar” means the Registrar of the Supreme Court or the Registrar of the Subordinate Courts, and includes —
+
+(a) the Deputy Registrar of the Supreme Court;
+
+(b) an Assistant Registrar of the Supreme Court; and
+
+(c) a Deputy Registrar of the Subordinate Courts;
+
+“solicitor” includes the executors, administrators and assignees of the solicitor in question and a law corporation.
+
+[35/2001 wef 01/11/2001]
 
 ### Charging orders
 
@@ -3515,6 +3621,10 @@ RECOVERY AND TAXATION OF COSTS
 (2) The order shall contain such directions and conditions as the court thinks proper, and any party aggrieved by any such order may apply by summons in chambers that the order be amended or varied.
 
 (3) In any case where a solicitor and his client consent to taxation of a solicitor’s bill, the Registrar may proceed to tax the bill notwithstanding that there is no order therefor.
+
+(4) Section 40 of the Subordinate Courts Act (Cap. 321) shall not apply to proceedings brought under this section.
+
+[35/2001 wef 01/11/2001]
 
 ### Costs of order for taxation
 
@@ -3970,9 +4080,19 @@ in connection with that solicitor’s practice or in connection with any trust o
 
 (g) the Council is satisfied that a sole solicitor is incapacitated by illness or accident to such an extent as to be unable to attend to his practice;
 
-(h) a solicitor has been found under section 7 of the Mental Disorders and Treatment Act (Cap. 178) to be of unsound mind and incapable of managing himself and his affairs; or
+(h) a solicitor has been found under section 7 of the Mental Disorders and Treatment Act (Cap. 178) to be of unsound mind and incapable of managing himself and his affairs;
 
-(i) the name of a solicitor has been removed from or struck off the roll or a solicitor has been suspended from practice.
+[35/2001 wef 01/11/2001]
+
+(i) the name of a solicitor has been removed from or struck off the roll or a solicitor has been suspended from practice ;
+
+[35/2001 wef 01/11/2001]
+
+(j) the Council is satisfied that a sole solicitor has abandoned his practice; or
+
+[35/2001 wef 01/11/2001]
+
+(k) the Council is satisfied that a person has acted as a solicitor at a time when he did not have a practising certificate which was in force.
 
 [35/2001 wef 01/11/2001]
 
@@ -4378,6 +4498,11 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of commencement|1 November 2000|
 |30.|**2000 Revised Edition—Legal Profession Act (Chapter 161)**|
 ||Date of operation|30 December 2000|
+|31.|**Act 35 of 2001—Legal Profession (Amendment) Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 39/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 November 2001|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
