@@ -158,7 +158,7 @@
 
 - [59 Point reserved in trial for Court of Appeal](#Point-reserved-in-trial-for-Court-of-Appeal)
 
-- [60 Reference to Court of Appeal on appeal from subordinate court](#Reference-to-Court-of-Appeal-on-appeal-from-subordinate-court)
+- [60 Reference to Court of Appeal of criminal matter determined by High Court in exercise of its appellate or revisionary jurisdiction](#Reference-to-Court-of-Appeal-of-criminal-matter-determined-by-High-Court-in-exercise-of-its-appellate-or-revisionary-jurisdiction)
 
 [**Part VI OFFICERS AND OFFICES**](#Part-VI)
 
@@ -528,13 +528,17 @@ Appellate Jurisdiction of the High Court
 
 ### Appeals from District and Magistrates’ Courts
 
-21\.—(1) Subject to the provisions of this or any other written law, an appeal shall lie to the High Court from a decision of a District Court or Magistrate’s Court in any suit or action for the recovery of immovable property or in any civil cause or matter where the amount in dispute or the value of the subject matter exceeds $5,000 or with the leave of the High Court if under that amount.
+21\.—(1) Subject to the provisions of this or any other written law, an appeal shall lie to the High Court from a decision of a District Court or Magistrate’s Court in any suit or action for the recovery of immovable property or in any civil cause or matter where the amount in dispute or the value of the subject matter exceeds $50,000 or such other amount as may be specified by an order made under subsection (3) or with the leave of a District Court, a Magistrate’s Court or the High Court if under that amount.
 
 [4/86]
 
 [16/93]
 
 (2) Such appeals may be heard before one Judge provided that the Judge, if he thinks fit, may reserve any appeal for the decision of a court consisting of 3 Judges, and in such case the appeal shall be decided in accordance with the opinion of the majority of the Judges composing the High Court.
+
+(3) The President may, after consulting the Chief Justice, by order published in theGazettevary the amount mentioned in subsection (1).
+
+[43/98 wef 01/01/1999]
 
 ### Powers of rehearing
 
@@ -698,13 +702,17 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 (2) Except with the leave of the Court of Appeal or a Judge, no appeal shall be brought to the Court of Appeal in any of the following cases:
 
-(a) where the amount or value of the subject-matter at the trial is $30,000 or less;
+(a) where the amount or value of the subject-matter at the trial is $250,000 or such other amount as may be specified by an order made under subsection (3) or less;
 
 (b) where the only issue in the appeal relates to costs or fees for hearing dates;
 
 (c) where a Judge in chambers makes a decision in a summary way on an interpleader summons where the facts are not in dispute; or
 
 (d) an order refusing to strike out an action or a pleading or a part of a pleading.
+
+(3) The President may, after consulting the Chief Justice, by order published in theGazettevary the amount mentioned in subsection (2)(a).
+
+[43/98 wef 01/01/1999]
 
 ### Applications
 
@@ -962,27 +970,19 @@ Provided that separate judgments shall be delivered if the presiding Judge of Ap
 
 [16/93]
 
-### Reference to Court of Appeal on appeal from subordinate court
+### Reference to Court of Appeal of criminal matter determined by High Court in exercise of its appellate or revisionary jurisdiction
 
-60\.—(1) When an appeal from a decision of a subordinate court in a criminal matter has been determined by the High Court, the Judge may, on the application of any party and shall on the application of the Public Prosecutor, reserve for the decision of the Court of Appeal any question of law of public interest which has arisen in the course of the appeal and the determination of which by the Judge has affected the event of the appeal.
+60\.—(1) When a criminal matter has been determined by the High Court in the exercise of its appellate or revisionary jurisdiction, the Judge may on the application of any party, and shall on the application of the Public Prosecutor, reserve for the decision of the Court of Appeal any question of law of public interest which has arisen in the matter and the determination of which by the Judge has affected the case.
 
-[16/93]
+(2) An application under subsection (1) shall be made within one month or such longer time as the Court of Appeal may permit of the determination of the matter to which it relates and in the case of an application by the Public Prosecutor shall be made by him or with his written consent.
 
-(2) An application under this section shall be made within one month or such longer time as the Court of Appeal may permit of the determination of the appeal to which it relates and in the case of an application by the Public Prosecutor shall be made by or with the consent in writing of that officer only.
+(3) When a question has been reserved under subsection (1), the Judge who has reserved the question may make such orders as he may see fit for the arrest, custody or release on bail of any party in the case.
 
-[16/93]
+(4) The Court of Appeal shall hear and determine the question reserved under subsection (1) and may make such orders as the High Court might have made as the Court of Appeal may consider just for the disposal of the case.
 
-(3) When a question has been reserved under this section the Judge who has reserved the question may make such orders as he may see fit for the arrest, custody or release on bail of any party to the appeal.
+(5) For the purposes of this section, any question of law which the Public Prosecutor applies to be reserved or regarding which there is a conflict of judicial authority shall be deemed to be a question of public interest.
 
-(4) The Court of Appeal shall hear and determine the question reserved and may make such orders as the High Court might have made as it may consider just for the disposal of the appeal.
-
-[16/93]
-
-(5) For the purposes of this section but without prejudice to the generality of its provisions —
-
-(a) any question of law regarding which there is a conflict of judicial authority shall be deemed to be a question of public interest; and
-
-(b) the reservation of a question of law for the consideration of the High Court under the provisions of any written law relating to criminal procedure or the exercise by the High Court of any power of revision under any such written law shall be deemed to be an appeal from a decision of a subordinate court in a criminal matter.
+[43/98 wef 01/01/1999]
 
 ## PART VI
 
@@ -1495,3 +1495,8 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 1/98)|
 ||Date of Second and Third Readings|19 February 1998|
 ||Date of commencement|10 April 1998 (section 11(6) — amendment of Supreme Court of Judicature Act)|
+|14.|**Act 43 of 1998—Supreme Court of Judicature (Amendment) Act 1998**|
+||Date of First Reading|12 October 1998|
+|||(Bill No. 40/98)|
+||Date of Second and Third Readings|26 November 1998|
+||Date of commencement|1 January 1999|
