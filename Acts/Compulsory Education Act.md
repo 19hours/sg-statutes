@@ -6,7 +6,7 @@
 
 [**Long Title**](#Compulsory-Education-Act)
 
-- [1 Short title](#Short-title)
+- [1 Short title and commencement](#Short-title-and-commencement)
 
 - [2 Interpretation](#Interpretation)
 
@@ -20,7 +20,7 @@
 
 - [7 Penalties](#Penalties)
 
-- [8 No person to be charged for offence except on complaint of Director-General of Education](#No-person-to-be-charged-for-offence-except-on-complaint-of-Director-General-of-Education)
+- [8 No person to be charged for offence except on complaint of Director-General](#No-person-to-be-charged-for-offence-except-on-complaint-of-Director-General)
 
 - [9 Composition of offences](#Composition-of-offences)
 
@@ -46,9 +46,11 @@ An Act to provide for compulsory primary education in Singapore and for matters 
 
 [1st January 2003]
 
-### Short title
+### Short title and commencement
 
-1\. This Act may be cited as the Compulsory Education Act.
+1\. This Act may be cited as the Compulsory Education Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint\*.
+
+\*This Act came into operation on 1st January 2003 (S 329/2002).
 
 ### Interpretation
 
@@ -96,11 +98,7 @@ shall attend regularly as a pupil at a national primary school.
 
 ### Exemption
 
-4\.—(1) The Minister may, by order published in the
-
-Gazette
-
-and subject to such terms or conditions as he may impose, exempt any child of compulsory school age or class of children of compulsory school age from section 3.
+4\.—(1) The Minister may, by order published in theGazetteand subject to such terms or conditions as he may impose, exempt any child of compulsory school age or class of children of compulsory school age from section 3.
 
 (2) An exemption granted under this section may be revoked at any time.
 
@@ -180,7 +178,7 @@ the Minister may remove him from such office.
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-### No person to be charged for offence except on complaint of Director-General of Education
+### No person to be charged for offence except on complaint of Director-General
 
 8\. No person shall be charged with any offence under this Act except on the complaint of the Director-General.
 
@@ -212,7 +210,7 @@ Compulsory Education Act
 
 (CHAPTER 51)
 
-This Legislative History is provided for the convenience of users of the Compulsory Education Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Compulsory Education Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -223,3 +221,8 @@ This Legislative History is provided for the convenience of users of the Compuls
 ||Date of commencement|25 October 2000 (Publication date of Act Supplement)|
 |2.|**2001 Revised Edition—Compulsory Education Act**|
 ||Date of operation|31 December 2001|
+|3.|**Act 27 of 2000—Compulsory Education Act**|
+||Date of First Reading|25 August 2000|
+|||(Bill No. 23/2000 published on 26 August 2000)|
+||Date of Second and Third Readings|9 October 2000|
+||Date of commencement|1 January 2003|
