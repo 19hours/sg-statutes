@@ -1,56 +1,36 @@
-**Judges’ Remuneration Act 1994**
+**Judges’ Remuneration Act**
 
-**(No. 7 of 1994)**
+**(CHAPTER 147)**
 
 **Table of Contents**
 
 [**Long Title**](#Judges’-Remuneration-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Remuneration of Judges](#Remuneration-of-Judges)
 
-- [3 Repeal and savings](#Repeal-and-savings)
+- [3 Savings](#Savings)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Judges’ Remuneration Act
 
-ACTS SUPPLEMENT
+(CHAPTER 147)
 
-Published by Authority
+(Original Enactment: Act 7 of 1994)
 
-NO. 9]
+REVISED EDITION 1995
 
-Friday, August 26
+(15th March 1995)
 
-[1994
+An Act to provide for the remuneration of the Judges of the Supreme Court.
 
-The following Act was passed by Parliament on 25th July 1994 and assented to by the President on 29th July 1994:—
+[1st September 1994]
 
-Judges’ Remuneration Act 1994
+### Short title
 
-(No. 7 of 1994)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-29th July 1994.
-
-Date of Commencement: 1st September 1994
-
-An Act to provide for the remuneration of the Judges of the Supreme Court and to repeal the Judges’ Remuneration Act (Chapter 147 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the Judges’ Remuneration Act 1994 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Judges’ Remuneration Act.
 
 ### Remuneration of Judges
 
@@ -66,13 +46,28 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (c) be payable monthly on the last day of each month or on such other day in each month as the Minister for Finance may from time to time determine.
 
-(4) Any order made under subsection (1) shall be presented to Parliament as soon as possible after publication.
+(4) Any order made under subsection (1) shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Repeal and savings
+### Savings
 
-3\.—(1) The Judges’ Remuneration Act (Cap. 147) is repealed.
+3\.—(1) Section 2(2)(b) of the repealed Judges’ Remuneration Act (Cap. 147, 1985 Ed.) shall continue to apply to a Judge of the Supreme Court appointed before 1st September 1994.
 
-(2) Section 2(2)(b) of the repealed Judges’ Remuneration Act shall continue to apply to a Judge of the Supreme Court appointed before the commencement of this Act.
+(2) The annual pensionable salary of a Judge of Appeal from 1st July 1993 to the day immediately before 1st September 1994 shall be $253,200.
 
-(3) The annual pensionable salary of a Judge of Appeal from 1st July 1993 to the day immediately before the commencement of this Act shall be $253,200.
+## LEGISLATIVE HISTORY
 
+Judges’ Remuneration Act
+
+(CHAPTER 147)
+
+This Legislative History is provided for the convenience of users of the Judges’ Remuneration Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 7 of 1994—Judges’ Remuneration Act 1994**|
+||Date of First Reading|23 May 1994|
+|||(Bill No. 9/1994 published on 24 May 1994)|
+||Date of Second and Third Readings|25 July 1994|
+||Date of commencement|1 September 1994|
+|2.|**1995 Revised Edition—Judges’ Remuneration Act**|
+||Date of operation|15 March 1995|
