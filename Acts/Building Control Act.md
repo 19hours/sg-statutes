@@ -54,6 +54,20 @@
 
 - [21 Appeals](#Appeals)
 
+[**Part IIA INSTALLATION AND RETROFITTING WORKS RELATING TO AIR-CONDITIONING UNITS**](#Part-IIA)
+
+- [21A Application of this Part](#Application-of-this-Part)
+
+- [21B Installation of air-conditioning unit](#Installation-of-air-conditioning-unit)
+
+- [21C Retrofitting existing air-conditioning unit](#Retrofitting-existing-air-conditioning-unit)
+
+- [21D Air-conditioning unit installed in an unsafe manner](#Air-conditioning-unit-installed-in-an-unsafe-manner)
+
+- [21E Installation report](#Installation-report)
+
+- [21F Penalty](#Penalty)
+
 [**Part III DANGEROUS BUILDINGS**](#Part-III)
 
 - [22 (Repealed)](#Repealed)
@@ -162,6 +176,10 @@ PRELIMINARY
 
 “accredited checker” means a person who is registered as an accredited checker under section 16;
 
+“air-conditioning unit” includes a window air-conditioning unit and any condensing equipment of an air-conditioning unit;
+
+[36/99 wef 01/10/1999]
+
 “analyst” means an analyst approved by the Commissioner of Building Control;
 
 [4/99 wef 01/04/1999]
@@ -185,6 +203,10 @@ PRELIMINARY
 (g) such other erection or structure (whether permanent or temporary) as the Minister may, by order published in theGazette, declare to be a building;
 
 [Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
+
+“Building and Construction Authority” means the Building and Construction Authority established under section 3 of the Building and Construction Authority Act 1999 (Act 4 of 1999);
+
+[36/99 wef 01/10/1999]
 
 “Building Authority” means the Building Authority appointed under section 3(1);
 
@@ -270,6 +292,10 @@ and includes site formation works and any other kind of building operation conne
 
 “temporary occupation permit” means a temporary occupation permit issued under section 20;
 
+“trained worker” means a person who holds a certificate issued by the Building and Construction Authority for installing a structural supporting system to support an air-conditioning unit;
+
+[36/99 wef 01/10/1999]
+
 “unauthorised”, in relation to a building or building works, means any building erected, or any building works commenced or carried out, in contravention of any provision of this Act or the building regulations;
 
 “ventilating system” means a mechanical system for introducing or exhausting air.
@@ -314,13 +340,17 @@ CONTROL OF BUILDING WORKS
 
 4\. Except as otherwise expressly provided, the provisions of this Part shall not apply to —
 
-(a) any temporary building or to the occupation of any such building; or
+(a) any temporary building or to the occupation of any such building;
 
 [Subst. by Act 18/95 wef 01/09/1995 vide S 370/95]
 
-(b) any building works specified in the Schedule.
+(b) any building works specified in the Schedule; and
 
 [Act 2/91 wef 25/01/1991 vide S 43/91]
+
+(c) any installation or retrofitting works relating to air-conditioning units referred to in Part IIA.
+
+[36/99 wef 01/10/1999]
 
 ### Prohibition of building works without approval of plans and permit
 
@@ -783,6 +813,46 @@ is refused, or is granted by the Commissioner of Building Control subject to ter
 (2) Where an appeal is brought under this section from a decision of the Commissioner of Building Control, the Minister may, after giving the aggrieved applicant an opportunity to make representations in writing, dismiss or allow the appeal, unconditionally or subject to such conditions as he thinks fit.
 
 (3) The decision of the Minister on any appeal referred to him under this section shall be final.
+
+## PART IIA
+
+INSTALLATION AND RETROFITTING WORKS RELATING TO AIR-CONDITIONING UNITS
+
+[36/99 wef 01/10/1999]
+
+### Application of this Part
+
+21A\. This Part shall apply to an air-conditioning unit that is to be installed or had been installed —
+
+(a) on the exterior of any premises or building; or
+
+(b) in such manner that any part of the air-conditioning unit projects outwards from any premises or building,
+
+except where the air-conditioning unit is to be installed or had been installed on any part of any bungalow, semi-detached house, terraced house or linked house.
+
+### Installation of air-conditioning unit
+
+21B\.—(1) A person who desires to install an air-conditioning unit on any premises or building to which this Part applies shall employ a trained worker to carry out the installation works relating to the air-conditioning unit.
+
+(2) Every trained worker appointed to carry out installation works relating to an air-conditioning unit under subsection (1) shall carry out the works in such manner as may be prescribed.
+
+### Retrofitting existing air-conditioning unit
+
+21C\. If an air-conditioning unit had been installed on a timber-framed opening on the exterior of any premises or building to which this Part applies, the owner of such premises or building shall, within the period of one year from the date of commencement of the Building Control (Amendment) Act 1999, retrofit that air-conditioning unit or timber-framed opening or both in such manner and using such material as may be prescribed.
+
+### Air-conditioning unit installed in an unsafe manner
+
+21D\. If the Commissioner of Building Control considers that any air-conditioning unit had been installed on any premises or building to which this Part applies in an unsafe manner, he shall notify the owner of the premises or building in writing and the owner of such premises or building shall, within such period as the Commissioner of Building Control may require, retrofit the air-conditioning unit in such manner and using such material as the Commissioner of Building Control may require.
+
+### Installation report
+
+21E\.—(1) The person referred to in section 21B(1), or the owner referred to in section 21C or 21D shall, upon completion of the installation or retrofitting works carried out under section 21B(1), 21C or 21D, as the case may be, submit a report of the completed works to the Commissioner of Building Control.
+
+(2) The report referred to in subsection (1) shall be in such form and manner as the Commissioner of Building Control may determine.
+
+### Penalty
+
+21F\. Any person who contravenes or fails to comply with section 21B(1), 21C, 21D or 21E(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 ## PART III
 
@@ -1256,7 +1326,9 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 [4/99 wef 01/04/1999]
 
-(k) (Deleted by Act 18/95 wef 1.9.95 vide S 370/95).
+(k) the regulation of installation and retrofitting works relating to air-conditioning units, including the duties and responsibilities of trained workers in carrying out such works;
+
+[36/99 wef 01/10/1999]
 
 (l) measures for the construction, installation and inspection of lifts and escalators;
 
@@ -1394,19 +1466,13 @@ BUILDING WORKS WHICH DO NOT REQUIRE APPROVAL OF PLANS OF BUILDING WORKS OR a PER
 
 11\. Erection of any single storey shed or hut not exceeding an area of 10 square metres for housing fuel tanks, mechanical or electrical equipment.
 
-12. All air-conditioning works except that in the case of any window air-conditioning unit, or any condensing equipment of an air-conditioning unit, that is installed —
+12. All air-conditioning works.
 
-(a) on the exterior of a building (other than a bungalow, semi-detached, terraced or linked house); or
-
-(b) in such a manner that a part of such unit or equipment projects outwards from a building (other than a bungalow, semi-detached, terraced or linked house),
-
-the unit or equipment, as the case may be, must be supported by a structural supporting system installed on the exterior of the building by a trained worker, and the unit or equipment must be affixed to the structural supporting system by a trained worker.
+[36/99 wef 01/10/1999]
 
 13\. Nothing in this Schedule shall exempt any person from complying with the requirements of any other written law.
 
 14. In this Schedule —
-
-“Building and Construction Authority” means the Construction Industry Development Board established by the Construction Industry Development Board Act (Cap. 51);
 
 “lightweight material” means —
 
@@ -1419,14 +1485,6 @@ the unit or equipment, as the case may be, must be supported by a structural sup
 “non-load bearing wall” means a wall which supports no load other than its own weight;
 
 “partition” means a temporary or easily removable vertical panel of lightweight construction for the subdivision of spaces within a building;
-
-“trained worker” means a person who holds a certificate issued by the Building and Construction Authority for installing a structural supporting system to support a window air-conditioning unit or a condensing unit that is installed —
-
-(a) on the exterior of a building; or
-
-(b) in such a manner that a part of such unit or equipment projects outwards from a building.
-
-[S 96/98 wef 13/03/1998]
 
 ## LEGISLATIVE HISTORY
 
@@ -1504,3 +1562,8 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 51/98 published on 24.11.98)|
 ||Date of Second and Third Readings|20.1.99|
 ||Date of commencement|1 April 1999|
+|14.|**Act 36 of 1999—Building Control (Amendment) Act 1999**|
+||Date of First Reading|3.8.99|
+|||(Bill No. 30/99 published on 4.8.99)|
+||Date of Second and Third Readings|18.8.99|
+||Date of commencement|1 October 1999|
