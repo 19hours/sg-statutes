@@ -106,7 +106,9 @@ Immunities and Privileges of the Organisation
 
 3\. The like exemption or relief from taxes and rates, other than import, export or excise duties on any article or articles, as may be accorded to a foreign sovereign Power.
 
-4\. Exemption from import or excise duties on any article or articles directly imported by the organisation for its official use in Singapore, such exemption to be subject to compliance with such conditions as the Director-General of Customs and Excise may prescribe for the protection of the revenue.
+4. Exemption from import or excise duties on any article or articles directly imported by the organisation for its official use in Singapore, such exemption to be subject to compliance with such conditions as the Director-General of Customs may prescribe for the protection of the revenue.
+
+[4/2003 wef 01/04/2003]
 
 5\. Exemption from prohibition and restrictions on importation or exportation in the case of goods directly imported or exported by the organisation for its official use and in the case of any publications of the organisation directly imported or exported by it.
 
@@ -177,3 +179,8 @@ This Legislative History is provided for the convenience of users of the Interna
 ||Date of operation|31 August 1971|
 |7.|**1985 Revised Edition—International Organisations (Immunities and Privileges) Act (Chapter 145)**|
 ||Date of operation|30 March 1987|
+|8.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 April 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
