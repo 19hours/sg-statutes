@@ -493,3 +493,8 @@ This Legislative History is provided for the convenience of users of the Governm
 ||Date of commencement|2 January 1998 (ActGazetted)|
 |2.|**1998 Revised Edition—Government Procurement Act**|
 ||Date of operation|30 May 1998|
+|3.|**Act 14 of 1997—Government Procurement Act 1997**|
+||Date of First Reading|7 October 1997|
+|||(Bill No. 14/97 published on 8 October 1997)|
+||Date of Second and Third Readings|19 November 1997|
+||Date of commencement|13 May 2002|
