@@ -160,9 +160,7 @@ Class I
 
 (a) The privy purse
 
-$1,568,000
-
-$1,757,700
+$2,232,000
 
 (b) Entertainment allowance
 
@@ -281,3 +279,5 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of commencement|26 February 1999|
 |33.|**G. N. No. S 143/2000—Parliamentary Resolution**|
 ||Date of commencement|25 February 2000|
+|34.|**G. N. No. S 36/2001—Parliamentary Resolution**|
+||Date of commencement|12 January 2001|
