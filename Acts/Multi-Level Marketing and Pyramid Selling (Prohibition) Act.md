@@ -26,7 +26,9 @@
 
 - [10 Sale to consumer of commodities received before operation of this Act not unlawful](#Sale-to-consumer-of-commodities-received-before-operation-of-this-Act-not-unlawful)
 
-- [11 Distribution and sale of commodities under any scheme or arrangement made lawful by regulations](#Distribution-and-sale-of-commodities-under-any-scheme-or-arrangement-made-lawful-by-regulations)
+- [11 When penalty to be imposed in addition to other punishment](#When-penalty-to-be-imposed-in-addition-to-other-punishment)
+
+- [11A Jurisdiction of District Courts](#Jurisdiction-of-District-Courts)
 
 - [12 Act to prevail](#Act-to-prevail)
 
@@ -56,7 +58,15 @@ An Act to prohibit the registration of businesses that are designed to promote m
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“commodity” means any goods, services, rights or other property, whether tangible or intangible, capable of being the subject of sale or lease;
+“benefit” includes any gratuity, commission, cross commission, bonus, refund, discount, dividend and any other payment, service or advantage of whatever description, but does not include —
+
+(a) the purchase of a sample of a commodity furnished at a price not exceeding the cost of the sample and which is not for resale; and
+
+(b) time and effort spent in pursuit of sales, distribution or recruiting activities;
+
+[19/2000 wef 01/06/2000]
+
+“commodity” means any goods, services, rights or other property, whether tangible or intangible, capable of being the subject of a sale, lease or licence;
 
 “company” means a company as defined in the Companies Act [Cap. 50] and includes a corporation as defined in that Act;
 
@@ -64,13 +74,23 @@ An Act to prohibit the registration of businesses that are designed to promote m
 
 “promote”, with its grammatical variations and cognate expressions, includes to manage, form, operate, carry on, engage in or otherwise to organise;
 
-“pyramid selling scheme or arrangement” means any scheme or arrangement for the distribution of a commodity whereby a person may for valuable consideration in any manner acquire a commodity or a right or a licence to acquire the commodity for sale, lease or otherwise —
+“pyramid selling scheme or arrangement” means any scheme or arrangement for the distribution or the purported distribution of a commodity whereby —
 
-(a) where that person receives a gratuity or consideration, directly or indirectly, as a result of the recruitment, acquisitions, actions or performances of one or more additional participants; or
+(a) a person may in any manner acquire a commodity or a right or a licence to acquire the commodity for sale, lease, licence or other distribution;
 
-(b) where that person is or may be paid, directly or indirectly, commissions, cross commissions, bonuses, refunds, discounts, dividends, gratuities or other consideration as a result of a sale, lease or other distribution of such commodity by any additional participant,
+(b) that person receives any benefit, directly or indirectly, as a result of —
 
-and under circumstances where any part of the benefits referred to in paragraph (a) or (b) accrue to any other person participating in the scheme or arrangement.
+(i) the recruitment, acquisition, action or performance of one or more additional participants in the scheme or arrangement; or
+
+(ii) the sale, lease, licence or other distribution of the commodity by one or more additional participants in the scheme or arrangement; and
+
+(c) any benefit is or may be received by any other person who promotes, or participates in, the scheme or arrangement (other than a person referred to in paragraph (a) or an additional participant referred to in paragraph (b)).
+
+[19/2000 wef 01/06/2000]
+
+(1A) In this Act, “pyramid selling scheme or arrangement” shall be taken not to include such schemes or arrangements for the sale, lease, licence or other distribution of a commodity, or any class of such schemes or arrangements, as the Minister may by order prescribe, subject to such terms or conditions as may be specified in the order.
+
+[19/2000 wef 01/06/2000]
 
 (2) Any reference in this Act to the winding up of a company includes in the case of a foreign company a reference to the winding up of the affairs of a foreign company so far as the assets of the foreign company within Singapore are concerned.
 
@@ -78,13 +98,13 @@ and under circumstances where any part of the benefits referred to in paragraph 
 
 3\.—(1) It shall be unlawful for any person to promote or participate in a multi-level marketing scheme or arrangement or pyramid selling scheme or arrangement or hold out that he is promoting or participating in such a scheme or arrangement.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 5 years or to both.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 5 years or to both.
 
 ### Registration of a business which is designed to promote pyramid selling scheme or arrangement prohibited
 
 4\.—(1) No business which is designed to promote a multi-level marketing scheme or arrangement or pyramid selling scheme or arrangement shall be registered under any written law relating to the registration of businesses.
 
-(2) A person who in contravention of subsection (1) obtains registration of a business which is designed to promote a multi-level marketing scheme or arrangement or pyramid selling scheme or arrangement shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 5 years or to both.
+(2) A person who in contravention of subsection (1) obtains registration of a business which is designed to promote a multi-level marketing scheme or arrangement or pyramid selling scheme or arrangement shall be guilty of an offence and shall be liable on conviction to fine not exceeding $200,000 or to imprisonment for a term not exceeding 5 years or to both.
 
 ### A business that promotes a pyramid selling scheme or arrangement to cease business
 
@@ -92,9 +112,9 @@ and under circumstances where any part of the benefits referred to in paragraph 
 
 ### Registration of a company which proposes to promote a pyramid selling scheme or arrangement prohibited
 
-6\.—(1) No company which proposes to promote a multi-level marketing scheme or arrangement or pyramid selling scheme or arrangement shall be incorporated or registered under the Companies Act [Cap. 50].
+6\.—(1) No company which proposes to promote a multi-level marketing scheme or arrangement or pyramid selling scheme or arrangement shall be incorporated or registered under the Companies Act.
 
-(2) Where a company which is designed to promote a multi-level marketing scheme or arrangement or pyramid selling scheme or arrangement contravenes subsection (1) by obtaining incorporation or registration under the Companies Act, that company and every officer thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 5 years or to both.
+(2) Where a company which is designed to promote a multi-level marketing scheme or arrangement or pyramid selling scheme or arrangement contravenes subsection (1) by obtaining incorporation or registration under the Companies Act [Cap. 50], that company and every officer thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 5 years or to both.
 
 ### Company which promotes a pyramid selling scheme or arrangement to cease promoting the same
 
@@ -114,15 +134,13 @@ and under circumstances where any part of the benefits referred to in paragraph 
 
 (a) for the winding up of the relevant company; or
 
-(b) in the case of a foreign company for the winding up of the affairs of the relevant company so far as the assets thereof within Singapore are concerned,
-
-pursuant to section 253(1)(e) of the Companies Act [Cap. 50] and the petition shall be dealt with by the court on the ground referred to in section 254(1)(l) of the Companies Act.
+(b) in the case of a foreign company for the winding up of the affairs of the relevant company so far as the assets thereof within Singapore are concerned, pursuant to section 253(1)(e) of the Companies Act [Cap. 50] and the petition shall be dealt with by the court on the ground referred to in section 254(1)(l) of the Companies Act.
 
 (2) For the purposes of any proceedings under the Companies Act for the winding up of the relevant company the rules relating to the winding up of companies shall be applicable with such modifications and adaptations as the court, in its discretion, considers expedient or necessary.
 
 ### Criminal liability
 
-9\.—(1) If the person committing an offence under this Act is a company, every individual who at the time the offence was committed was a director, general manager, manager, secretary or other officer of the company concerned in the management of the company or who was purporting to act in any such capacity, as well as the company, shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+9\.—(1) If the person committing an offence under this Act is a company, every individual who at the time the offence was committed was a director, general manager, manager, secretary or other officer of the company concerned in the management of the company, or who was purporting to act in any such capacity, as well as the company, shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 (2) It shall be a defence for the individual referred to in subsection (1) if he proves that the offence was committed without his consent or connivance and that he exercised such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions and to all other circumstances.
 
@@ -138,9 +156,29 @@ pursuant to section 253(1)(e) of the Companies Act [Cap. 50] and the petition sh
 
 10\. Nothing in this Act shall be construed to make unlawful the sale to consumers of commodities received by the seller under a multi-level marketing scheme or arrangement or under a pyramid selling scheme or arrangement the promotion of which becomes unlawful under this Act if the commodities were received by the seller at any time before this Act comes into operation.
 
-### Distribution and sale of commodities under any scheme or arrangement made lawful by regulations
+### When penalty to be imposed in addition to other punishment
 
-11\. Nothing in this Act shall be construed to make unlawful any scheme or arrangement promoted by a business or company for the distribution and sale of commodities the elements of which are not included in the definition of a pyramid selling scheme or arrangement in section 2 and the Minister may, by regulations, specify the elements under which any such scheme or arrangement may lawfully be promoted by a business or company in Singapore.
+11\.—(1) Where a court convicts any person of committing an offence of promoting or participating in a multi-level marketing scheme or arrangement or pyramid selling scheme or arrangement under section 3(2), then —
+
+(a) if the person has received any benefit, directly or indirectly, as a result of committing such offence; and
+
+(b) if the benefit received by the person is a sum of money or if the value of the benefit can be assessed,
+
+the court shall, in addition to imposing on that person any other punishment, order him to pay as a penalty, within such time as may be specified in the order, a sum not exceeding the amount of or, in the opinion of the court, the value of the benefit received by the person, and any such penalty shall be recoverable as a fine.
+
+(2) In determining the amount of the penalty that a person, being a participant, shall be required to pay under subsection (1), the court may take into account any benefit that the person may have given for the right to participate in the multi-level marketing scheme or arrangement or pyramid selling scheme or arrangement, as the case may be, or any loss that the person may have incurred as a result of such participation.
+
+(3) Where a person charged with any offence under section 3(2) is convicted of one or more offences under any other written law, and the outstanding offences are taken into consideration by the court under section 178 of the Criminal Procedure Code (Cap. 68) for the purpose of passing sentence, the court may impose the penalty mentioned in subsection (1) for any offence under this Act so taken into consideration.
+
+(4) Nothing in subsection (1) shall prejudice or affect any right which any person may have under any written law or rule of law to recover damages from the person referred to in subsection (1).
+
+[19/2000 wef 01/06/2000]
+
+### Jurisdiction of District Courts
+
+11A\. A District Court shall, notwithstanding the Criminal Procedure Code (Cap. 68), have jurisdiction to try any offence under this Act or any regulations made thereunder and may impose the full penalty or punishment in respect of such offence.
+
+[19/2000 wef 01/06/2000]
 
 ### Act to prevail
 
@@ -168,3 +206,8 @@ This Legislative History is provided for the convenience of users of the Multi-L
 |2.|**1985 Revised Edition—Multi-Level Marketing and Pyramid Selling (Prohibition) Act**|
 ||(G.N. No. S 227/1995 — Rectification Order)||
 ||Date of operation|30 March 1987|
+|3.|**Act 19 of 2000—Multi-Level Marketing and Pyramid Selling (Prohibition) (Amendment) Act 2000**|
+||Date of First Reading|25 April 2000|
+|||(Bill No. 14/2000 published on 26 April 2000)|
+||Date of Second and Third Readings|9 May 2000|
+||Date of commencement|1 June 2000|
