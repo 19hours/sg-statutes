@@ -144,6 +144,8 @@
 
 - [57A Offences by owners and tenants, etc.](#Offences-by-owners-and-tenants-etc)
 
+- [57B Prohibition of immigration offender entering or remaining at work place](#Prohibition-of-immigration-offender-entering-or-remaining-at-work-place)
+
 - [58 General penalty](#General-penalty)
 
 - [59 Compounding of offences](#Compounding-of-offences)
@@ -192,7 +194,9 @@ PRELIMINARY
 
 “Director of Marine” means the Director of Marine appointed under section 6(1) of the Merchant Shipping Act [Cap. 179] and includes the Deputy Director of Marine appointed under that subsection and such other officers appointed under section 6(2) of that Act as the Director of Marine may authorise to carry out any of his duties under this Act;
 
-“employ” means to engage or use the service of any person and to pay such person for services rendered or work done or to remunerate such person on a piece rate or on a commission basis;
+“employ” means to engage or use the service of any person, whether under a contract of service or otherwise, with or without remuneration;
+
+[Act 41/95 wef 01/03/1996 vide S 74/96]
 
 “entry” means —
 
@@ -326,7 +330,9 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and —
 
-(a) in the case of an offence under subsection (1), shall on conviction be punished with imprisonment for a term of not less than 3 months and not more than 2 years and shall also, subject to section 231 of the Criminal Procedure Code, be punished with caning with not less than 3 strokes;
+(a) in the case of an offence under subsection (1), shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also, subject to section 231 of the Criminal Procedure Code, be punished with caning with not less than 3 strokes, or where by virtue of that section he is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $6,000;
+
+[Act 41/95 wef 01/03/1996]
 
 (b) in the case of an offence under subsection (2), shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding one year or to both.
 
@@ -398,7 +404,9 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 
 (6) Any person in possession of a permit issued to him under the provisions of this Act who, upon his arrival in Singapore, is refused permission to enter upon the ground that he is a prohibited immigrant, may appeal against the refusal, within such time and in such manner as may be prescribed, to the Minister whose decision shall be final.
 
-(7) Notwithstanding sections 24, 25 and 26, any person who appeals against such refusal shall be permitted to disembark and shall be detained in an immigration depot pending the determination of his appeal, unless released on a pass issued at the discretion of the Controller on such conditions as to furnishing security or otherwise as the Controller may think fit.
+(7) Notwithstanding sections 24, 25, 25A and 26, any person who appeals against such refusal shall be permitted to disembark and shall be detained in an immigration depot pending the determination of his appeal, unless released on a pass issued at the discretion of the Controller on such conditions as to furnishing security or otherwise as the Controller may think fit.
+
+[Act 41/95 wef 01/03/1996]
 
 ### Power to prohibit or limit entry into Singapore
 
@@ -510,7 +518,9 @@ the Controller may declare at any time after the date of the entry, that the pre
 
 (a) in the case where he remains unlawfully for a period not exceeding 90 days, shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 6 months or to both;
 
-(b) in the case where he remains unlawfully for a period exceeding 90 days, shall on conviction be punished with imprisonment for a term of not less than 3 months and not more than 2 years and shall also, subject to section 231 of the Criminal Procedure Code [Cap. 68], be punished with caning with not less than 3 strokes.
+(b) in the case where he remains unlawfully for a period exceeding 90 days, shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also, subject to section 231 of the Criminal Procedure Code, be punished with caning with not less than 3 strokes, or where by virtue of that section he is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $6,000.
+
+[Act 41/95 wef 01/03/1996]
 
 [35/84]
 
@@ -762,9 +772,9 @@ shall each be guilty of an offence.
 
 ### Examination of persons entering Singapore by land or at a place other than an authorised landing place or airport
 
-26\.—(1) Every person who enters Singapore by land shall proceed to the nearest immigration control post and shall appear before the immigration officer in charge of the post and shall, if so required by the immigration officer, furnish particulars about himself in such form as may be prescribed.
+26\.—(1) Every person enters Singapore by land shall proceed to the nearest immigration control post and shall appear before the immigration officer in charge of the post and shall, if so required by the immigration officer, furnish particulars about himself in such form as may be prescribed.
 
-(2) Every person arriving by sea or air in Singapore at any place, other than at an authorised landing place or airport, shall forthwith proceed to and appear before the nearest immigration officer.
+(2) Every person who arriving by sea or air in Singapore at any place, other than at an authorised landing place or airport, shall forthwith proceed to and appear before the nearest immigration officer.
 
 (3) The immigration officer before whom any person appears in accordance with this section shall, if he considers that that person is prohibited from entering Singapore under the provisions of this Act or any regulations or orders made thereunder, inform him of his finding and that person shall in accordance with the instructions of the immigration officer forthwith leave and depart from Singapore.
 
@@ -774,7 +784,7 @@ shall each be guilty of an offence.
 
 ### Power to send person to depot for further examination
 
-27\.—(1) Where an immigration officer is in doubt as to the right of any person to enter Singapore, it shall be lawful for that officer to direct the person to an immigration depot and, in that case, that person shall proceed forthwith to that depot and shall remain there until permitted to leave by that officer.
+27\.—(1) Where an immigration officer is in doubt as to the right of any person to enter Singapore, it shall be lawful for that officer to direct the person to an immigration depot and, in that case, that person shall proceed forthwith to that depot and shall remain there until permitted to leave by that officer
 
 (2) No person shall, except on the written order of the Minister, be so detained for any period exceeding 7 days except that the Controller may, in his discretion, and pending the completion of inquiries regarding that person, release him from the immigration depot on such terms and conditions as the Controller may think fit, and for that purpose the Controller may issue to that person a pass in the prescribed form.
 
@@ -1162,7 +1172,7 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 (a) attempts unlawfully to enter Singapore;
 
-[S 227/1995 wef 15/03/1995]
+[S 227/95]
 
 (b) abets any person to enter or leave Singapore in contravention of the provisions of this Act or of the regulations;
 
@@ -1196,7 +1206,7 @@ shall be guilty of an offence and —
 
 (iii) in the case of an offence under paragraph (c), shall be punished with imprisonment for a term of not less than 2 years and not more than 5 years and shall also be punished, subject to section 231 of the Criminal Procedure Code, with caning with not less than 3 strokes;
 
-(iv) in the case of an offence under paragraph (f), (g), (h), (i), (j), (k) or (l), shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both; and
+(iv) in the case of an offence under paragraph (f), (g), (h), (i), (j), (k) or (l), shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding one year or to both; and
 
 [Act 41/95]
 
@@ -1216,11 +1226,17 @@ shall be guilty of an offence and —
 
 [S 22/89]
 
-(1A) Where, in the case of any offence under subsection (1)(e), it is proved to the satisfaction of the court that the defendant has at the same time employed more than 5 persons with the actual knowledge that those persons have acted in contravention of section 6(1), 15 or 36, the defendant shall be punished, subject to section 231 of the Criminal Procedure Code, with caning in addition to the punishment prescribed for that offence.
+(1A) Where, in the case of any offence under subsection (1)(e), it is proved to the satisfaction of the court that the defendant has at the same time employed more than 5 immigration offenders, the defendant shall be punished, subject to section 231 of the Criminal Procedure Code, with caning in addition to the punishment prescribed for that offence.
+
+[Act 41/95 wef 01/03/1996]
 
 (2) Where a body corporate is guilty of an offence under subsection (1)(e) and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 [35/84]
+
+(2A) Where a body corporate is guilty of an offence under this Act for which a period of mandatory imprisonment or mandatory caning is prescribed, the body corporate shall, in lieu of imprisonment or caning, be liable on conviction to a fine of not less than $50,000 and not more than $100,000.
+
+[Act 41/95 wef 01/03/1996]
 
 (3) Any person unlawfully entering or re-entering or attempting unlawfully to enter or re-enter Singapore or unlawfully remaining in Singapore shall whether or not any proceedings are taken against him in respect of that offence be liable to be removed from Singapore by order of the Controller.
 
@@ -1246,7 +1262,9 @@ it shall be presumed, until the contrary is proved, that he has, as the case may
 
 [35/84]
 
-(8) Where a person who has acted in contravention of section 6, 15 or 36 or the regulations is found at any premises or place, other than premises used solely for residential purposes, and is in possession of any tools or implements or engaged in any activity which may give rise to the inference that he is doing any work, the occupier of the premises or place shall be presumed, until the contrary is proved, to have employed him knowing that he is a person who has acted in contravention of section 6, 15 or 36 or the regulations.
+(8) Where an immigration offender is found at any premises or place, other than premises used solely for residential purposes, the occupier of the premises or place shall be presumed, until the contrary is proved, to have employed him knowing that he is an immigration offender.
+
+[Act 41/95 wef 01/03/1996 vide S 74/96]
 
 (9) In any proceedings for an offence under subsection (1)(d) or (e), it shall not be a defence for the defendant to prove that the person harboured or employed by him was in possession of a pass or permit issued to the person under this Act or the regulations unless the defendant further proves that he had exercised due diligence to ascertain that the pass or permit was at the material time valid under this Act or the regulations.
 
@@ -1260,11 +1278,53 @@ it shall be presumed, until the contrary is proved, that he has, as the case may
 
 [38/93]
 
+(11) In this section and section 57B, “immigration offender” means a person who has acted in contravention of section 6(1), 15 or 36 of the regulations.
+
+[Act 41/95 wef 01/03/1996]
+
 ### Offences by owners and tenants, etc.
 
 57A\.—(1) No person being the owner, tenant or occupier of any premises or place referred to in section 57(8) shall knowingly permit or suffer such premises or place or any part thereof to be kept or used as a place or premises in which any person is employed in contravention of section 57(1)(e).
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be punished with imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000.
+
+### Prohibition of immigration offender entering or remaining at work place
+
+57B\.—(1) No occupier of a work place who has control of access to the work place shall permit any immigration offender to enter or remain at the work place.
+
+(2) Where an immigration offender is found at a work place, it shall be presumed, until the contrary is proved, that the occupier of the work place —
+
+(a) had control of access to the work place;
+
+(b) had permitted the immigration offender to enter or remain at the work place; and
+
+(c) had knowledge that he is an immigration offender.
+
+(3) The presumptions provided for in subsection (2)(b) and (c) shall not be rebutted unless the defendant proves that he had exercised due diligence to prevent the immigration offender from entering or remaining at the work place.
+
+(4) For the purposes of subsection (3), a defendant shall not be presumed to have exercised due diligence unless he had taken all reasonable measures to prevent any immigration offender from entering or remaining at the work place, including all the measures prescribed under subsection (5) in respect of the work place.
+
+(5) For the purposes of subsection (4), the Minister may, by notification in theGazette, prescribe the measures that are required to be taken by the occupier of the work place.
+
+(6) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine of not less than $15,000 and not more than $30,000 or to imprisonment for a term not exceeding one year or to both for each immigration offender found at the work place, and in the case of a second or subsequent conviction, to a fine of not less than $30,000 and not more than $60,000 or to imprisonment for a term not exceeding 2 years or to both for each immigration offender found at the work place.
+
+(7) In this section —
+
+“construction works” has the same meaning as in the Construction and Industry Development Board Act and includes such other works or activities as the Minister may, by notification in theGazette, specify to be construction works;
+
+“occupier”, in relation to a work place, means the principal contractor who undertakes any construction works at the work place and includes such other person as the Minister may, by notification in theGazette, specify to be the occupier of the work place;
+
+“principal contractor” means a person who has entered into a contract with an owner, a developer or a lessee of a property or his agent for the purpose of carrying out any construction works on the property;
+
+“work place” means any place or premises where any construction works are being carried out and includes —
+
+(a) all the land within the vicinity of the work place which are owned by the person for whom the construction works are being carried out and to which the principal contractor has control of access;
+
+(b) any canteen, sleeping quarters, office and other structures or buildings erected on the work place; and
+
+(c) such other place or premises as the Minister may, by notification in theGazette, specify to be a work place.
+
+[Act 41/95 wef 01/03/1996]
 
 ### General penalty
 
@@ -1374,3 +1434,8 @@ This Legislative History is provided for the convenience of users of the Immigra
 |19.|**1995 Revised Edition—Immigration Act (Chapter 133)**|
 ||(G.N. No. S 227/1995 — Rectification Order)||
 ||Date of operation|15 March 1995|
+|20.|**Act 41 of 1995—Immigration (Amendment) Act 1995**|
+||Date of First Reading|27 September 1995|
+|||(Bill No. 33/95 published on 28 September 1995)|
+||Date of Second and Third Readings|1 November 1995|
+||Date of commencement|1 March 1996|
