@@ -392,6 +392,8 @@ Consultant Organisations
 
 48. Singapore Council of Women’s Organisations.
 
+48A Singapore Floorball Association.
+
 49. Singapore Gardening Society.
 
 50. Singapore Gasing Federation (Federasi Gasing Singapura).
@@ -592,3 +594,5 @@ This Legislative History is provided for the convenience of users of the People�
 |||(Bill No. 6/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Dates of commencement|1 October 1997 (except section 3)|
+|39.|**G.N. No. S 501/98—People’s Association Act (Amendment of First Schedule) Notification 1998**|
+||Date of commencement|19 September 1998|
