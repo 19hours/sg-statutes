@@ -1,16 +1,14 @@
-**Land Titles Act 1993**
+**Land Titles Act**
 
-**(No. 27 of 1993)**
+**(CHAPTER 157)**
 
 **Table of Contents**
 
 [**Long Title**](#Land-Titles-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Division into Parts](#Division-into-Parts)
 
@@ -46,7 +44,7 @@
 
 - [15 Application of section 8](#Application-of-section-8)
 
-- [16 Registrar to make an entry on folio as to conclusiveness of boundaries, etc](#Registrar-to-make-an-entry-on-folio-as-to-conclusiveness-of-boundaries-etc)
+- [16 Registrar to make an entry on folio as to conclusiveness of boundaries, etc.](#Registrar-to-make-an-entry-on-folio-as-to-conclusiveness-of-boundaries-etc)
 
 - [17 Priority of interests protected by caveats, mortgages and statutory charges registered or notified on land-register](#Priority-of-interests-protected-by-caveats-mortgages-and-statutory-charges-registered-or-notified-on-land-register)
 
@@ -166,7 +164,7 @@
 
 [**Part VIII MORTGAGES AND CHARGES**](#Part-VIII)
 
-[**Division 1  Mortgages of registered land**](#Division-1--Mortgages-of-registered-land)
+[**Division I  Mortgages of registered land**](#Division-I--Mortgages-of-registered-land)
 
 - [68 Form and effect of mortgages and charges](#Form-and-effect-of-mortgages-and-charges)
 
@@ -290,7 +288,7 @@
 
 - [123 Service of notices on caveator](#Service-of-notices-on-caveator)
 
-- [124 Order for security, etc](#Order-for-security-etc)
+- [124 Order for security, etc.](#Order-for-security-etc)
 
 - [125 Notifications for lapsing, cancellation or extension of caveats](#Notifications-for-lapsing-cancellation-or-extension-of-caveats)
 
@@ -298,7 +296,7 @@
 
 - [127 Remedies of caveatee](#Remedies-of-caveatee)
 
-- [128 Compensation payable for wrongfully lodging caveats, etc](#Compensation-payable-for-wrongfully-lodging-caveats-etc)
+- [128 Compensation payable for wrongfully lodging caveats, etc.](#Compensation-payable-for-wrongfully-lodging-caveats-etc)
 
 - [129 Registration of dealings in land](#Registration-of-dealings-in-land)
 
@@ -356,7 +354,7 @@
 
 - [151 Assurance fund](#Assurance-fund)
 
-- [152 Registrar may be summoned for refusal to register instruments, etc](#Registrar-may-be-summoned-for-refusal-to-register-instruments-etc)
+- [152 Registrar may be summoned for refusal to register instruments, etc.](#Registrar-may-be-summoned-for-refusal-to-register-instruments-etc)
 
 - [153 Registrar may state a case](#Registrar-may-state-a-case)
 
@@ -400,61 +398,35 @@
 
 - [171 Saving of rights](#Saving-of-rights)
 
-- [172 Repeal and savings](#Repeal-and-savings)
+- [172 Savings](#Savings)
 
 - [173 Validation of extensions of caveats lodged under repealed Act](#Validation-of-extensions-of-caveats-lodged-under-repealed-Act)
 
-- [174 Amendment of Conveyancing and Law of Property Act](#Amendment-of-Conveyancing-and-Law-of-Property-Act)
-
-- [175 Amendment of State Lands Act](#Amendment-of-State-Lands-Act)
-
-- [176 Amendment of Registration of Deeds Act](#Amendment-of-Registration-of-Deeds-Act)
-
-- [177 Amendment of Limitation Act](#Amendment-of-Limitation-Act)
-
 [**THE SCHEDULE**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Land Titles Act
 
-ACTS SUPPLEMENT
+(CHAPTER 157)
 
-Published by Authority
+(Original Enactment: Act 27 of 1993)
 
-NO. 32]
+REVISED EDITION 1994
 
-Friday, November 12
+(30th December 1994)
 
-[1993
+An Act which makes provision for the registration of titles to land.
 
-The following Act was passed by Parliament on 30th August 1993 and assented to by the President on 27th September 1993:—
-
-Land Titles Act 1993
-
-(No. 27 of 1993)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-27th September 1993.
-
-Date of Commencement: 1st March 1994
-
-An Act to repeal and re-enact with amendments the Land Titles Act (Chapter 157 of the 1985 Revised Edition) which makes provision for the registration of titles to land and to make consequential amendments to the Conveyancing and Law of Property Act (Chapter 61 of the 1985 Revised Edition), the State Lands Act (Chapter 314 of the 1985 Revised Edition), the Registration of Deeds Act (Chapter 269 of the 1989 Revised Edition) and the Limitation Act (Chapter 163 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st March 1994]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Land Titles Act 1993 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Land Titles Act.
 
 ### Division into Parts
 
@@ -462,105 +434,193 @@ PRELIMINARY
 
 Part I
 
-sections 1-4
+...
+
+sections
+
+1-4
 
 Part II
 
-sections 5-7
+...
+
+sections
+
+5-7
 
 Part III
 
 Division 1
 
-sections 8-20
+...
+
+sections
+
+8-20
 
 Division 2
 
-sections 21-27
+...
+
+sections
+
+21-27
 
 Part IV
 
-sections 28-44
+...
+
+sections
+
+28-44
 
 Part V
 
 Division 1
 
-sections 45–49
+...
+
+sections
+
+45-49
 
 Division 2
 
-section 50
+...
+
+section
+
+50
 
 Part VI
 
-sections 51–62
+...
+
+sections
+
+51-62
 
 Part VII
 
-sections 63–67
+...
+
+sections
+
+63-67
 
 Part VIII
 
 Division 1
 
-sections 68–80
+...
+
+sections
+
+68-80
 
 Division 2
 
-sections 81–85
+...
+
+sections
+
+81-85
 
 Part IX
 
-sections 86–93
+...
+
+sections
+
+86-93
 
 Part X
 
-sections 94–106
+...
+
+sections
+
+94-106
 
 Part XI
 
-sections 107–114
+...
+
+sections
+
+107-114
 
 Part XII
 
-sections 115–130
+...
+
+sections
+
+115-130
 
 Part XIII
 
-sections 131–137
+...
+
+sections
+
+131-137
 
 Part XIV
 
-sections 138–141
+...
+
+sections
+
+138-141
 
 Part XV
 
-sections 142–145
+...
+
+sections
+
+142-145
 
 Part XVI
 
-sections 146–150
+...
+
+sections
+
+146-150
 
 Part XVII
 
-sections 151–160
+...
+
+sections
+
+151-160
 
 Part XVIII
 
-sections 161–164
+...
+
+sections
+
+161-164
 
 Part XIX
 
-sections 165–177.
+...
+
+sections
+
+165-173.
 
 ### Reconciliation with existing laws
 
-3\.—(1) Except as hereinafter provided, all Acts, regulations, rules, and other laws, and all practices, relating to estates and interests in land and operative at the commencement of this Act, so far as they are inconsistent with the provisions of this Act in their application to registered land, are repealed.
+3\.—(1) Except as hereinafter provided, all Acts, regulations, rules, and other laws, and all practices, relating to estates and interests in land and operative at 1st March 1994, so far as they are inconsistent with the provisions of this Act in their application to registered land, are repealed.
 
 (2) Nothing in this Act shall affect the right of the Collector of Land Revenue, or of any other person or authority empowered by any written law, to enter on registered land pursuant to such a power.
 
-(3) Except as otherwise expressly provided in this Act, the Registration of Deeds Act (Cap. 269) shall not apply to registered land.
+(3) Except as otherwise expressly provided in this Act, the Registration of Deeds Act [Cap. 269] shall not apply to registered land.
 
 (4) This Act shall bind the Government.
 
@@ -580,7 +640,7 @@ sections 165–177.
 
 “certificate of title”, in relation to —
 
-(a) a manual folio includes a duplicate certificate of title issued by the Registrar before or after the commencement of this Act;
+(a) a manual folio includes a duplicate certificate of title issued by the Registrar before or after 1st March 1994;
 
 (b) a computer folio includes a print-out of that folio bearing a facsimile of the Registrar’s seal;
 
@@ -622,9 +682,9 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 “Registrar” means the Registrar of Titles appointed pursuant to this Act;
 
-“Registrar of Deeds” means the Registrar of Deeds appointed under the Registration of Deeds Act (Cap. 269);
+“Registrar of Deeds” means the Registrar of Deeds appointed under the Registration of Deeds Act [Cap. 269];
 
-“subdivided building” has the same meaning as in the Land Titles (Strata) Act (Cap. 158);
+“subdivided building” has the same meaning as in the Land Titles (Strata) Act [Cap. 158];
 
 “unregistered land” means any land which has not yet been brought under the provisions of this Act.
 
@@ -666,7 +726,7 @@ ESTABLISHMENT OF LAND TITLES REGISTRY
 
 (c) he may require any person who may have possession or control of an instrument relating to land the subject of a dealing, or relating to title to any such land, to produce that instrument, and he may retain any such instrument, whether produced pursuant to this paragraph or otherwise, until it is no longer required for the action in accordance with a dealing lodged with him provided that the Registrar shall permit the person who is entitled to the custody of that instrument to inspect the instrument; and
 
-(d) he may summon any person referred to in paragraph (c) or any person who from the landregister or a dealing appears to have or is entitled to or acquires or divests an estate or interest in any land to appear and give an explanation respecting that land or instrument.
+(d) he may summon any person referred to in paragraph (c) or any person who from the land-register or a dealing appears to have or is entitled to or acquires or divests an estate or interest in any land to appear and give an explanation respecting that land or instrument.
 
 (2) For the purpose of verifying the proprietorship of any land, whether registered or unregistered, and of establishing the limits of boundaries in relation to the proprietorship of such land where there is no modern survey or where the plans filed in the Survey Department are not sufficiently clear to establish such boundaries, the Registrar may require —
 
@@ -674,7 +734,7 @@ ESTABLISHMENT OF LAND TITLES REGISTRY
 
 (b) any person who owns any estate or interest in land, to furnish any information pertaining to the use or tenure of the land or any other matter pertaining thereto.
 
-(3) Where a person required to produce an instrument pursuant to subsection (1)(c) or (2) fails to produce the instrument or to allow it to be inspected or, on being summoned pursuant to subsection (1)(d), refuses or neglects to give an explanation which he is pursuant to that paragraph required to give, or knowingly misleads or deceives any person authorised to demand any such explanation, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000; and if the instrument or information withheld appears to the Registrar to be material in relation to an instrument lodged for registration under this Act, the Registrar may refuse to register the instrument lodged for registration.
+(3) Where a person required to produce an instrument pursuant to subsection (1)(c) or (2) fails to produce the instrument or to allow it to be inspected or, on being summoned pursuant to subsection (1)(d), refuses or neglects to give an explanation which he is pursuant to paragraph (d) required to give, or knowingly misleads or deceives any person authorised to demand any such explanation, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000; and if the instrument or information withheld appears to the Registrar to be material in relation to an instrument lodged for registration under this Act, the Registrar may refuse to register the instrument lodged for registration.
 
 ## PART III
 
@@ -686,7 +746,7 @@ Indefeasible titles
 
 ### Alienation by State
 
-8\.—(1) Where at any time, whether before or after the commencement of this Act, the State alienates or has alienated —
+8\.—(1) Where at any time, whether before or after 1st March 1994, the State alienates or has alienated —
 
 (a) an estate in fee simple;
 
@@ -696,13 +756,13 @@ Indefeasible titles
 
 in any land, the Collector shall furnish to the Registrar such particulars of the alienation in such manner as may be required by the Registrar to enable the Registrar to bring the land under the provisions of this Act by creating one or more folios for that land.
 
-(2) No land shall be brought under the provisions of this Act unless the estate held under a State lease has an unexpired term of not less than 10 years on the commencement of this Act.
+(2) No land shall be brought under the provisions of this Act unless the estate held under a State lease has an unexpired term of not less than 10 years on 1st March 1994.
 
 (3) Any land brought under the provisions of this Act pursuant to subsection (1) shall be held subject to such exceptions, reservations, covenants and conditions expressed or implied by law in the relevant State title.
 
 (4) Pending the issue of a State title, the land brought under the provisions of this Act pursuant to this section shall be held subject to such exceptions, reservations, covenants and conditions expressed or implied by law in the State title executed in escrow by the grantee or lessee of the land.
 
-(5) Where any land has been brought under the provisions of this Act pursuant to any certificate issued by the Collector before the commencement of this Act, the Collector shall upon the issue of the relevant State title deliver the full particulars of the State title to the Registrar who shall create a new edition of the relevant folio or make necessary alterations to the land-register to show the particulars of the State title and the boundaries and dimensions of the land and indicate whether the boundaries and dimensions are conclusive.
+(5) Where any land has been brought under the provisions of this Act pursuant to any certificate issued by the Collector before 1st March 1994, the Collector shall upon the issue of the relevant State title deliver the full particulars of the State title to the Registrar who shall create a new edition of the relevant folio or make necessary alterations to the land-register to show the particulars of the State title and the boundaries and dimensions of the land and indicate whether the boundaries and dimensions are conclusive.
 
 ### Surrender of title to land freed and discharged from subsisting mortgage
 
@@ -714,7 +774,7 @@ in any land, the Collector shall furnish to the Registrar such particulars of th
 
 (2) The following provisions shall apply to any mortgage created in respect of unregistered land in accordance with subsection (1)(a):
 
-(a) notwithstanding any other provision of this Act, the mortgage created in accordance with subsection (1)(a) may be registered under the provisions of the Registration of Deeds Act (Cap. 269);
+(a) notwithstanding any other provision of this Act, the mortgage created in accordance with subsection (1)(a) may be registered under the provisions of the Registration of Deeds Act [Cap. 269];
 
 (b) where the mortgage has been registered, provisionally or otherwise, under the Registration of Deeds Act, the person claiming as mortgagee under the mortgage may lodge an application with the Registrar for that mortgage to be notified on the relevant folio when created, and the Registrar shall, if satisfied that the application is in order, pending the creation of the folio, record the application in a provisional register-book, and thereupon the mortgage shall constitute a registered mortgage to the extent that the mortgagee of the mortgage may exercise the same powers as if he were a registered mortgagee;
 
@@ -722,13 +782,13 @@ in any land, the Collector shall furnish to the Registrar such particulars of th
 
 (d) nothing in this section shall require the Registrar to notify any mortgage created pursuant to subsection (1)(a) on the folio when created unless an application to notify the mortgage on the land-register has been lodged with and accepted by the Registrar as being in order for notification, and except in the case of fraud a purchaser dealing with the whole or part of the land at any time after the land has been brought under this Act shall not be deemed to have notice of any mortgage which has not been notified by the Registrar on the folio when created;
 
-(e) an assurance dealing with a mortgage referred to in subsection (1)(a) may be made with the consent of the Collector and the Registrar and may be registered under the provisions of the Registration of Deeds Act (Cap. 269); and
+(e) an assurance dealing with a mortgage referred to in subsection (1)(a) may be made with the consent of the Collector and the Registrar and may be registered under the provisions of the Registration of Deeds Act [Cap. 269]; and
 
 (f) any assurance made in favour of a purchaser by the mortgagee exercising his power of sale under a mortgage created pursuant to subsection (1)(a) may, with the consent of the Collector, be registered under the provisions of the Registration of Deeds Act, and upon the acceptance by the Registrar of Deeds of the assurance for registration —
 
 (i) the purchaser from the mortgagee shall be deemed to be a successor in title of the right, title and interest in the land surrendered to the extent of the whole or part of the land conveyed to the purchaser by the mortgagee under the assurance and shall be bound by all the terms and obligations relating to the surrender of the whole or part of the land sold as if these terms and obligations have been made between the purchaser and the Collector; and
 
-(ii) the fresh title shall be issued to the purchaser named in the assurance registered under the Registration of Deeds Act (Cap. 269) if the Collector acting on behalf of the President is satisfied with the right, title or interest conveyed to the purchaser by the mortgagee under the assurance.
+(ii) the fresh title shall be issued to the purchaser named in the assurance registered under the Registration of Deeds Act [Cap. 269] if the Collector acting on behalf of the President is satisfied with the right, title or interest conveyed to the purchaser by the mortgagee under the assurance.
 
 (3) The following provisions shall apply to any mortgage created in respect of registered land pursuant to subsection (1)(b):
 
@@ -748,7 +808,7 @@ in any land, the Collector shall furnish to the Registrar such particulars of th
 
 ### Surrender of title to unregistered land with subsisting caveat
 
-11\.—(1) Where the title to any unregistered land with any subsisting caveat registered under the Registration of Deeds Act (Cap. 269) is to be surrendered to the President for the reissue of one or more fresh titles, the owner of the land shall —
+11\.—(1) Where the title to any unregistered land with any subsisting caveat registered under the Registration of Deeds Act [Cap. 269] is to be surrendered to the President for the reissue of one or more fresh titles, the owner of the land shall —
 
 (a) serve by registered post a notice on each caveator —
 
@@ -764,13 +824,13 @@ in any land, the Collector shall furnish to the Registrar such particulars of th
 
 (4) Upon the provisional registration of the surrender by the Registrar of Deeds, the respective interests protected by each of the caveats affected shall cease to be an interest claimed against the land or any part thereof notwithstanding that the surrender may not have been finally registered by the Registrar of Deeds.
 
-(5) After the acceptance of the surrender for provisional registration, the Registrar of Deeds shall expeditiously finalise the registration of the surrender and enter in the Index to Caveat maintained for the purposes of the Registration of Deeds Act (Cap. 269) that all registration entries of the caveats subsisting immediately prior to the date of the surrender are cancelled.
+(5) After the acceptance of the surrender for provisional registration, the Registrar of Deeds shall expeditiously finalise the registration of the surrender and enter in the Index to Caveat maintained for the purposes of the Registration of Deeds Act [Cap. 269] that all registration entries of the caveats subsisting immediately prior to the date of the surrender are cancelled.
 
 (6) When the President has accepted the surrender and the Registrar of Deeds has notified the Collector that the surrender has been finally registered pursuant to subsection (5), the fresh title may be issued by the President.
 
 ### Restriction on registration of assurance, caveat or instrument pending issue of fresh title
 
-12\.—(1) Except for a mortgage created under section 9, the assurances referred to in subsection (2)(e) and (f) thereof or a discharge of a statutory charge in favour of the Central Provident Fund Board, no assurance or caveat in respect of the unregistered land surrendered to the President pursuant to section 9, 10 or 11 shall be capable of being registered under the provisions of the Registration of Deeds Act and the Registrar of Deeds shall have the power to refuse the registration of that assurance or caveat when presented for registration and, in the case where that assurance or caveat has been registered, the Registrar of Deeds shall have the power to cancel the registration of that assurance or caveat and any entries relating thereto.
+12\.—(1) Except for a mortgage created under section 9, the assurances referred to in subsection (2)(e) and (f) thereof or a discharge of a statutory charge in favour of the Central Provident Fund Board, no assurance or caveat in respect of the unregistered land surrendered to the President pursuant to section 9, 10 or 11 shall be capable of being registered under the provisions of the Registration of Deeds Act [Cap. 269] and the Registrar of Deeds shall have the power to refuse the registration of that assurance or caveat when presented for registration and, in the case where that assurance or caveat has been registered, the Registrar of Deeds shall have the power to cancel the registration of that assurance or caveat and any entries relating thereto.
 
 (2) Except for a mortgage created pursuant to section 9 or a discharge of a statutory charge in favour of the Central Provident Fund Board or an extension or withdrawal of a caveat notified under this Act, no instrument in respect of the registered land surrendered to the President pursuant to section 9 or 10 shall be capable of being registered or notified under the provisions of this Act and the Registrar shall have the power to refuse the registration or notification of such instrument when presented for registration or notification and where such instrument has been registered or notified, the Registrar shall have the power to cancel the registration or notification of such instrument and any entries relating thereto.
 
@@ -780,13 +840,13 @@ in any land, the Collector shall furnish to the Registrar such particulars of th
 
 (2) Upon the issue of the fresh title by the President for the land surrendered pursuant to section 9, 10 or 11, the Collector shall furnish to the Registrar such particulars of the land in such manner as may be required by the Registrar to enable the Registrar to bring the land under the provisions of this Act by creating one or more new folios for the land and to notify the subsisting mortgage, statutory charge or caveat on the relevant folio or folios and, where applicable, cancel the previously existing folio or folios for the land.
 
-(3) Section 27(5) and (6) shall, mutatis mutandis, apply to the mortgage, statutory charge or caveat notified on the relevant folio pursuant to subsection (2).
+(3) Section 27(5) and (6) shall apply, mutatis mutandis, to the mortgage, statutory charge or caveat notified on the relevant folio pursuant to subsection (2).
 
 ### Power of Registrar of Deeds to refuse registration of assurances
 
 14\. Where an assurance which requires the prior written consent of either the Collector or the Registrar or both of them, as the case may be, has been made without the endorsement of his or their written consent thereon —
 
-(a) the Registrar of Deeds shall not accept that assurance for registration or, in the case where that assurance has been registered under the provisions of the Registration of Deeds Act (Cap. 269), shall cancel the registration of that assurance and any entries relating thereto; and
+(a) the Registrar of Deeds shall not accept that assurance for registration or, in the case where that assurance has been registered under the provisions of the Registration of Deeds Act [Cap. 269], shall cancel the registration of that assurance and any entries relating thereto; and
 
 (b) the Collector shall disregard that assurance and may issue one or more fresh titles as if that assurance had not been made.
 
@@ -794,9 +854,9 @@ in any land, the Collector shall furnish to the Registrar such particulars of th
 
 15\.—(1) Section 8(2) to (4) shall apply to any land brought under the provisions of this Act pursuant to the issue of fresh title by the State after the surrender of an existing title.
 
-(2) Section 8(5) shall apply to any land brought under the provisions of this Act pursuant to the surrender of an existing title and the issue of a certificate by the Collector before the commencement of this Act.
+(2) Section 8(5) shall apply to any land brought under the provisions of this Act pursuant to the surrender of an existing title and the issue of a certificate by the Collector before 1st March 1994.
 
-### Registrar to make an entry on folio as to conclusiveness of boundaries, etc
+### Registrar to make an entry on folio as to conclusiveness of boundaries, etc.
 
 16\.—(1) Where any land alienated by the President is brought under the provisions of this Act and a folio has been created for the land, the Registrar shall —
 
@@ -816,9 +876,9 @@ in any land, the Collector shall furnish to the Registrar such particulars of th
 
 (a) the priority for caveats lodged pursuant to section 115 and notified in the land-register shall be determined in accordance with section 119; and
 
-(b) the priority for mortgages and statutory charges (including those instruments registered under the Registration of Deeds Act (Cap. 269) and subsequently notified on the folio when created) shall be determined in accordance with section 48.
+(b) the priority for mortgages and statutory charges (including those instruments registered under the Registration of Deeds Act [Cap. 269] and subsequently notified on the folio when created) shall be determined in accordance with section 48.
 
-(2) Where any instrument (including a mortgage, charge or caveat) was materially amended pending its final registration or notification in the land-register, as the case may be, section 48(1) shall, mutatis mutandis, apply to the determination of its priority in accordance with this section.
+(2) Where any instrument (including a mortgage, charge or caveat) was materially amended pending its final registration or notification in the land-register, as the case may be, section 48(1) shall apply, mutatis mutandis, to the determination of its priority in accordance with this section.
 
 (3) The respective priorities of mortgages, charges and caveats as determined in subsection (1) shall apply only to those mortgages, charges and caveats which were subsisting at the date of surrender and have not been discharged, withdrawn or cancelled at the date of the issue of fresh title to the land or part thereof.
 
@@ -828,7 +888,7 @@ in any land, the Collector shall furnish to the Registrar such particulars of th
 
 ### Primary applications
 
-19\.—(1) Land not subject to the provisions of this Act may be brought under its provisions.
+19\.—(1) Land not subject to the provisions of this Act may be brought under the provisions of this Act.
 
 (2) Subject to this section, a primary application may be made by —
 
@@ -860,13 +920,13 @@ the Registrar shall approve or reject the application.
 
 (9) Unless expressly prohibited by the terms of its memorandum of association, charter or other constitution, any corporation, whether sole or aggregate, shall be deemed to have power to apply to the Registrar to bring land under the provisions of this Act, and the application may be made on behalf of the corporation by its managing director, manager, secretary or by an attorney appointed in that behalf by the corporation under its common seal.
 
-(10) Where the Registrar creates a folio qualified or unqualified as to title, any subsisting mortgage registered under the Registration of Deeds Act (Cap. 269) in respect of land comprised in the folio shall, when notified on the folio, be deemed to be a registered mortgage under the provisions of this Act and the provisions of this Act applicable to registered mortgages shall apply to that mortgage and all the rights and powers vested in the mortgagee and the obligations of the mortgagor to that mortgage shall, notwithstanding this section, continue to be in force as between the mortgagee and the mortgagor.
+(10) Where the Registrar creates a folio qualified or unqualified as to title, any subsisting mortgage registered under the Registration of Deeds Act [Cap. 269] in respect of land comprised in the folio shall, when notified on the folio, be deemed to be a registered mortgage under the provisions of this Act and the provisions of this Act applicable to registered mortgages shall apply to that mortgage and all the rights and powers vested in the mortgagee and the obligations of the mortgagor to that mortgage shall, notwithstanding this section, continue to be in force as between the mortgagee and the mortgagor.
 
-(11) When a folio has been created pursuant to this section, then, except as provided in subsection (12), the Registration of Deeds Act (Cap. 269) shall cease to apply to the land therein comprised and the Registrar of Deeds shall cause an appropriate entry or endorsement to that effect to be made in the register kept under that Act.
+(11) When a folio has been created pursuant to this section, then, except as provided in subsection (12), the Registration of Deeds Act shall cease to apply to the land therein comprised and the Registrar of Deeds shall cause an appropriate entry or endorsement to that effect to be made in the register kept under that Act.
 
 (12) The Registration of Deeds Act shall continue to apply to any documents relating to any trust, probate and letters of administration and any settlement created under any instrument which were subsisting in the land comprised in a qualified folio immediately before the date of the creation of the folio provided that such document shall not in any manner purport to convey, mortgage or discharge any estate or interest in land comprised in such a folio and the Registrar of Deeds shall have the power to refuse to register any such document which is contrary to this subsection.
 
-(13) A folio, qualified or unqualified as to title, created under this section may, if the circumstances so require, be qualified as to the boundaries and dimensions of the land therein comprised, and section 165 shall, mutatis mutandis, apply thereto.
+(13) A folio, qualified or unqualified as to title, created under this section may, if the circumstances so require, be qualified as to the boundaries and dimensions of the land therein comprised, and section 165 shall apply, mutatis mutandis, thereto.
 
 ### Action following bringing of land under this Act
 
@@ -882,7 +942,7 @@ Qualified titles
 
 ### Registrar may bring land under this Act when conveyance is registered under Registration of Deeds Act
 
-21\.—(1) Upon the endorsement on any conveyance registered under the Registration of Deeds Act (Cap. 269) of the certificate required by section 7(2) of that Act, the Registrar of Deeds shall forward the conveyance to the Registrar who may deliver it to the person entitled thereto, or he may elect to bring the land comprised therein under the provisions of this Act by creating a qualified folio for the land.
+21\.—(1) Upon the endorsement on any conveyance registered under the Registration of Deeds Act [Cap. 269] of the certificate required by section 7(2) of that Act, the Registrar of Deeds shall forward the conveyance to the Registrar who may deliver it to the person entitled thereto, or he may elect to bring the land comprised therein under the provisions of this Act by creating a qualified folio for the land.
 
 (2) The Registrar shall not bring the land comprised in a conveyance referred to in subsection (1) under the provisions of this Act unless the conveyance purports to convey —
 
@@ -894,15 +954,17 @@ Qualified titles
 
 (3) Subject to the provisions of this Division, the land comprised in a qualified folio shall be held and may be dealt with by the proprietor therein named in the same manner and subject to the same exceptions as similar tenure comprised in the folios which are not qualified as to title.
 
-(4) Section 19(10), (11) and (12) shall, mutatis mutandis, apply to a qualified folio created under this section.
+(4) Section 19(10), (11) and (12) shall apply, mutatis mutandis, to a qualified folio created under this section.
 
 (5) The Registrar shall cancel any conveyance pertaining to any land which is brought under the provisions of this Act pursuant to this section.
 
-(6) In this section, “conveyance” includes assignment and other assurance made by deed, deed of assent or settlement of an estate or interest in land or on any other dealing which disposes of wholly any freehold or leasehold estate referred to in subsection (2).
+(6) In this section,
+
+“conveyance” includes assignment and other assurance made by deed, deed of assent or settlement of an estate or interest in land or on any other dealing which disposes of wholly any freehold or leasehold estate referred to in subsection (2).
 
 ### Registrar may bring land under this Act after examining instruments registered under Registration of Deeds Act
 
-22\.—(1) Notwithstanding section 19, the Registrar may, after examining the instruments registered under the Registration of Deeds Act (Cap. 269) or copies thereof, elect to bring the land comprised therein under the provisions of this Act by creating a qualified folio for the entire parcel of land or, where there are several parcels of land or the land has been subdivided and each part thereof has been allotted with a separate survey lot number, by creating a separate folio for each survey lot.
+22\.—(1) Notwithstanding section 19, the Registrar may, after examining the instruments registered under the Registration of Deeds Act [Cap. 269] or copies thereof, elect to bring the land comprised therein under the provisions of this Act by creating a qualified folio for the entire parcel of land or, where there are several parcels of land or the land has been subdivided and each part thereof has been allotted with a separate survey lot number, by creating a separate folio for each survey lot.
 
 (2) The Registrar shall not bring any land under the provisions of this Act unless —
 
@@ -918,11 +980,11 @@ Qualified titles
 
 (3) The Registrar may give notice of his intention to bring any parcel of land under the provisions of this Act by inserting a notice in one or more newspapers and such a notice may set out particulars of the name of the owner and his last recorded address as shown in the Registry of Deeds where the Registrar is unable to obtain all the necessary particulars from the owner himself.
 
-(4) Sections 19(10), (11) and (12) and 21(5) shall, mutatis mutandis, apply to the land comprised in the qualified folio.
+(4) Sections 19(10), (11) and (12) and 21(5) shall apply, mutatis mutandis, to the land comprised in the qualified folio.
 
 ### Registrar may bring land approved for subdivision or development under this Act
 
-23\.—(1) Where the owner of any estate or interest in unregistered land has obtained permission under the Planning Act (Cap. 232) or any other written law to develop or subdivide his land before or after the commencement of this Act, he shall, for the purpose of dealing with the unregistered land or any part thereof, produce to the Registrar all the title deeds necessary for deducing a good title to the land.
+23\.—(1) Where the owner of any estate or interest in unregistered land has obtained permission under the Planning Act [Cap. 232] or any other written law to develop or subdivide his land before or after 1st March 1994, he shall, for the purpose of dealing with the unregistered land or any part thereof, produce to the Registrar all the title deeds necessary for deducing a good title to the land.
 
 (2) The Registrar, on receipt of the title deeds, may —
 
@@ -934,15 +996,15 @@ Qualified titles
 
 (3) Where the title to the land has been surrendered to the President pursuant to subsection (2)(a), the President shall, upon being satisfied with the title of the owner and on payment by the owner of all costs and expenses of or consequent to the surrender, proceed with the alienation of the appropriate estate of the land in accordance with the terms of the surrender.
 
-(4) Sections 8 to 16 shall, mutatis mutandis, apply to any land alienated by the President pursuant to subsection (3).
+(4) Sections 8 to 16 shall apply, mutatis mutandis, to any land alienated by the President pursuant to subsection (3).
 
 (5) Upon the creation of a qualified folio for the land under subsection (2)(b), the Registrar shall cancel any conveyance relating to the land comprised in that folio.
 
-(6) Section 19(10), (11) and (12) shall, mutatis mutandis, apply to the land comprised in the qualified folio issued under this section.
+(6) Section 19(10), (11) and (12) shall apply, mutatis mutandis, to the land comprised in the qualified folio issued under this section.
 
-(7) On the production to the Registrar of Deeds of a certificate issued by the Registrar pursuant to subsection (2)(c), an assurance of the whole or any part of any land referred to in such a certificate may be registered under the provisions of the Registration of Deeds Act (Cap 269).
+(7) On the production to the Registrar of Deeds of a certificate issued by the Registrar pursuant to subsection (2)(c), an assurance of the whole or any part of any land referred to in such a certificate may be registered under the provisions of the Registration of Deeds Act [Cap. 269].
 
-(8) Subject to subsection (1), where any unregistered land comprises any subdivided building or where the owner has notified the Registrar in writing that any building to be erected thereon is intended to be dealt with in parts after subdivision approval therefor has been granted under the Planning Act (Cap. 232), the Registrar shall —
+(8) Subject to subsection (1), where any unregistered land comprises any subdivided building or where the owner has notified the Registrar in writing that any building to be erected thereon is intended to be dealt with in parts after subdivision approval therefor has been granted under the Planning Act [Cap. 232], the Registrar shall —
 
 (a) proceed under subsection (2)(a); or
 
@@ -954,23 +1016,23 @@ except that in any case where the Registrar is unable to proceed under paragraph
 
 (a) a leasehold title having an unexpired term of less than 10 years on the date the title deeds are produced to the Registrar pursuant to subsection (1); or
 
-(b) unregistered land where permission for the subdivision of any building erected thereon was granted by the authority for the time being charged with the responsibility of controlling or supervising the subdivision of land and an assurance of part of that subdivided building was registered under the provisions of the Registration of Deeds Act (Cap. 269) before 15th May 1968 except where the whole of the estate in the unregistered land comprising the subdivided building has wholly become vested or subsequently vests in the same proprietor at any time on or after 15th May 1968, this section shall apply to that unregistered land.
+(b) unregistered land where permission for the subdivision of any building erected thereon was granted by the authority for the time being charged with the responsibility of controlling or supervising the subdivision of land and an assurance of part of that subdivided building was registered under the provisions of the Registration of Deeds Act [Cap. 269] before 15th May 1968 except where the whole of the estate in the unregistered land comprising the subdivided building has wholly become vested or subsequently vests in the same proprietor at any time on or after 15th May 1968, this section shall apply to that unregistered land.
 
 (10) Subject to subsections (2)(c) and (9) —
 
 (a) no assurance of any unregistered land or any part thereof to which subsection (1) applies shall be registered under the Registration of Deeds Act; and
 
-(b) upon receipt from the competent authority under the Planning Act of a notice in writing or of an approved plan relating to the grant of permission to develop or subdivide any unregistered land or building, the whole or part of which is dealt with under any assurance, the Registrar of Deeds may refuse to register that assurance when presented for registration.
+(b) upon receipt from the competent authority under the Planning Act [Cap. 232] of a notice in writing or of an approved plan relating to the grant of permission to develop or subdivide any unregistered land or building, the whole or part of which is dealt with under any assurance, the Registrar of Deeds may refuse to register that assurance when presented for registration.
 
 ### Boundaries and dimensions of land comprised in a qualified folio
 
-24\. A qualified folio created pursuant to this Division may, if the circumstances so require, be qualified as to the boundaries and dimensions of the land therein comprised, and section 165 shall, mutatis mutandis, apply thereto.
+24\. A qualified folio created pursuant to this Division may, if the circumstances so require, be qualified as to the boundaries and dimensions of the land therein comprised, and section 165 shall apply, mutatis mutandis, thereto.
 
 ### Cautions and lapsing of cautions
 
 25\.—(1) Upon the creation of a qualified folio, the Registrar shall enter thereon a caution warning persons dealing with the registered proprietor therein named that the land comprised therein is held subject to any interest which affected it at the date of the creation of that folio, and so long as the caution remains on that folio that land shall be so held.
 
-(2) In favour of any purchaser of an entire estate or interest in any land comprised in a qualified folio who is registered as the proprietor in the qualified folio, a caution entered on the qualified folio whether before or after the commencement of this Act lapses, in respect of that estate or interest, on the expiration of 5 years from the date of the last conveyance which was cancelled by the Registrar upon the creation of the qualified folio.
+(2) In favour of any purchaser of an entire estate or interest in any land comprised in a qualified folio who is registered as the proprietor in the qualified folio, a caution entered on the qualified folio whether before or after 1st March 1994 lapses, in respect of that estate or interest, on the expiration of 5 years from the date of the last conveyance which was cancelled by the Registrar upon the creation of the qualified folio.
 
 (3) A mortgagee or chargee shall not be regarded as a purchaser for the purposes of subsection (2).
 
@@ -980,7 +1042,9 @@ except that in any case where the Registrar is unable to proceed under paragraph
 
 (6) Any person deprived of land by the operation of this section shall not by reason of that deprivation have any claim against the assurance fund.
 
-(7) For the purposes of subsection (2), “conveyance” has the same meaning as in section 21(6).
+(7) For the purposes of subsection (2),
+
+“conveyance” has the same meaning as in section 21(6).
 
 ### Cancellation of cautions
 
@@ -1000,7 +1064,7 @@ except that in any case where the Registrar is unable to proceed under paragraph
 
 (2) Any person claiming an interest in land which was subsisting at the date of the creation of a qualified folio for that land other than an interest excepted by section 46 may, so long as the folio remains qualified as to title, protect that interest by lodging a caveat pursuant to section 115, and the Registrar shall enter a notification of such a caveat in that folio.
 
-(3) The proprietor in whose name a qualified folio has been created shall lodge with the Registrar a statement setting out particulars of any subsisting interest affecting the land therein comprised which is known to him and which is not already notified pursuant to subsection (1) other than an interest excepted by section 46 and any interest claimed under a caveat under the Registration of Deeds Act (Cap. 269) notwithstanding that the land at the time when the interest arose was unregistered land, and the Registrar shall enter a notification of that interest on that folio.
+(3) The proprietor in whose name a qualified folio has been created shall lodge with the Registrar a statement setting out particulars of any subsisting interest affecting the land therein comprised which is known to him and which is not already notified pursuant to subsection (1) other than an interest excepted by section 46 and any interest claimed under a caveat under the Registration of Deeds Act [Cap. 269] notwithstanding that the land at the time when the interest arose was unregistered land, and the Registrar shall enter a notification of that interest on that folio.
 
 (4) The proprietor named in a qualified folio who —
 
@@ -1086,7 +1150,7 @@ and by allocating a distinctive reference to the record so made.
 
 (ii) to create new folios for separate parts of the land therein comprised in accordance with lots in any lawful subdivision or layout; or
 
-(iii) to create a new folio comprising contiguous parcels in substitution for two or more existing manual folios;
+(iii) to create a new folio comprising contiguous parcels in substitution for two or more existing folios;
 
 (d) in any other case where the Registrar is authorised or considers it practicable to create a new folio.
 
@@ -1094,15 +1158,15 @@ and by allocating a distinctive reference to the record so made.
 
 (4) Subject to any agreement to the contrary, the proprietor in whose name a new folio is to be issued shall, as between him and any person with whom he has dealt, be liable for the cost of creating that folio.
 
-(5) A new folio created pursuant to this section may, if the circumstances so require, be qualified as to boundaries and dimensions and section 165 shall, mutatis mutandis, apply thereto.
+(5) A new folio created pursuant to this section may, if the circumstances so require, be qualified as to boundaries and dimensions and section 165 shall apply, mutatis mutandis, thereto.
 
 ### Covenants restricting subdivision of land in State titles not to apply to registered land
 
-31\. Section 13 of the State Lands Act (Cap. 314) and the covenants or conditions pursuant to that Act prohibiting or restricting the division or partition of land shall not apply to registered land.
+31\. Section 13 of the State Lands Act [Cap. 314] and the covenants or conditions pursuant to that Act prohibiting or restricting the division or partition of land shall not apply to registered land.
 
 ### Creation of new folios of land-register on application of mortgagee or chargee
 
-32\.—(1) Where the competent authority appointed under the Planning Act (Cap. 232), or any other authority controlling or supervising the lawful subdivision of land, has granted subdivision approval for any land comprised in one or more folios which has been mortgaged or charged, any registered mortgagee or chargee (hereinafter called the applicant) may, with the written consent of his registered mortgagor or where default is made in the payment of the interest, principal or other moneys secured by the mortgage or charge or in payment of any part thereof, make an application together with the certificate of title for the creation of new folios for the separate subdivided lots.
+32\.—(1) Where the competent authority appointed under the Planning Act [Cap. 232], or any other authority controlling or supervising the lawful subdivision of land, has granted subdivision approval for any land comprised in one or more folios which has been mortgaged or charged, any registered mortgagee or chargee (hereinafter called the applicant) may, with the written consent of his registered mortgagor or where default is made in the payment of the interest, principal or other moneys secured by the mortgage or charge or in payment of any part thereof, make an application together with the certificate of title for the creation of new folios for the separate subdivided lots.
 
 (2) Where the registered mortgagor has given his consent for the application made by his registered mortgagee, the consent shall be endorsed on the application form lodged with the Registrar for creation of the new folios in accordance with subsection (1).
 
@@ -1152,7 +1216,7 @@ and by allocating a distinctive reference to the record so made.
 
 36\.—(1) Every manual folio duly authenticated under the hand and seal of the Registrar shall be received in all courts as evidence of the particulars therein set forth and that the land therein comprised has been duly brought under the provisions of this Act and shall be conclusive evidence that the person named as proprietor therein or in any memorial thereon is, or was at the relevant time, entitled to the estate or interest in the land therein specified and described.
 
-(2) Notwithstanding section 35 of the Evidence Act (Cap. 97), a print-out of a computer folio issued by the Registrar and bearing a facsimile of the Registrar’s seal shall be received in all courts as evidence of the particulars therein set forth and shall be conclusive evidence that the land therein comprised has been duly brought under the provisions of this Act and that the person named as proprietor therein or in any memorial thereon is, or was at the relevant time, entitled to the estate or interest in the land therein specified and described.
+(2) Notwithstanding section 35 of the Evidence Act [Cap. 97], a print-out of a computer folio issued by the Registrar and bearing a facsimile of the Registrar’s seal shall be received in all courts as evidence of the particulars therein set forth and shall be conclusive evidence that the land therein comprised has been duly brought under the provisions of this Act and that the person named as proprietor therein or in any memorial thereon is, or was at the relevant time, entitled to the estate or interest in the land therein specified and described.
 
 (3) Where, in a manual folio or a print-out of a computer folio, the estate or interest of a registered proprietor is expressed to be subject to —
 
@@ -1184,13 +1248,13 @@ except that where an instrument affects only a registered lease and no folio has
 
 (4) Where the intentions of the parties referred to in subsection (3) appear to the Registrar to conflict, the Registrar shall register the instruments in the order in which they were lodged in registrable form, or were made registrable, as the case may be.
 
-(5) When instruments affecting the same estate or interest in any land have been registered, they shall, notwithstanding any expressed, implied or constructive notice, be entitled to priority according to the order in which they are registered and not according to the date of the respective instruments.
+(5) When instruments affecting the same estate or interest in any land have been registered, they shall, notwithstanding any express, implied or constructive notice, be entitled to priority according to the order in which they are registered and not according to the date of the respective instruments.
 
 (6) For a manual folio, the memorial shall bear the signature and seal of the Registrar or a facsimile thereof and the date of registration.
 
 (7) For a computer folio, the memorial need not bear the signature of the Registrar but shall show the date of registration and shall be authenticated in such manner as the Registrar considers appropriate.
 
-(8) Where registration has been effected pursuant to subsection (1)(a) or (b), the person who is named therein as taking an estate or interest becomes the proprietor of that estate or interest.
+(8) Where registration has been effected pursuant to subsection (1) (a) or (b), the person who is named therein as taking an estate or interest becomes the proprietor of that estate or interest.
 
 (9) The Registrar, on being satisfied that any entry in the land-register has ceased to affect the land to which it purports to relate, may of his own motion cancel that entry.
 
@@ -1202,7 +1266,7 @@ except that where an instrument affects only a registered lease and no folio has
 
 (3) The Registrar shall not register as proprietor any person or body other than a natural person, or a corporation, or a foreign state in the name of that state, or a body expressly empowered by statute to hold land.
 
-(4) The Registrar shall not accept for registration any instrument unless the fees prescribed in respect thereof have been deposited or partially paid.
+(4) The Registrar shall not accept for registration any instrument unless the fees prescribed in respect thereof have been deposited or partially paid .
 
 ### Proprietors under disability
 
@@ -1242,7 +1306,7 @@ except that where an instrument affects only a registered lease and no folio has
 
 (f) for the registration of any transfer or other instrument pursuant to a writ or order of court as defined in section 131.
 
-(3) In any case under subsection (2)(e), the Registrar may require the person seeking registration to furnish evidence that the certificate of title or duplicate lease has not been deposited as security for a loan and to advertise (in such manner as the Registrar may direct) the application to dispense with production.
+(3) In any case under subsection (2)(e), the Registrar may require the person seeking registration to furnish evidence that the certificate of title or duplicate lease has not been deposited as security for a loan and to advertise (in such manner as the Registrar may direct) the application to dispense with production .
 
 ### Replacement certificates of title
 
@@ -1262,7 +1326,7 @@ except that where an instrument affects only a registered lease and no folio has
 
 (a) retain the documents in the Land Titles Registry;
 
-(b) microfilm and transfer the documents to the National Archives to be dealt with as if they were public records for the purposes of the National Archives and Records Centre; or
+(b) microfilm and transfer the documents to the National Archives to be dealt with as if they were public records for the purposes of the National Archives of Singapore; or
 
 (c) subject to subsection (2), destroy the documents.
 
@@ -1280,7 +1344,7 @@ except that where an instrument affects only a registered lease and no folio has
 
 (4) Before destroying any of the instruments or certificates of title referred to in subsection (3), the Registrar shall cause them to be microfilmed.
 
-(5) The Registrar may deal with documents of title lodged for the purpose of bringing land under the provisions of the repealed Land Titles Act (Cap. 157) in force immediately before the commencement of this Act in accordance with this section as if they were lodged after the commencement under the provisions of this Act.
+(5) The Registrar may deal with documents of title lodged for the purpose of bringing land under the provisions of the repealed Land Titles Act [Cap. 157, 1985 Ed] in force immediately before 1st March 1994 in accordance with this section as if they were lodged after that date under the provisions of this Act.
 
 ## PART V
 
@@ -1304,7 +1368,7 @@ Indefeasibility and priority
 
 (a) any subsisting exceptions, reservations, covenants and conditions, contained or implied in the State grant or State lease thereof;
 
-(b) any subsisting easement or public right of way which was in existence at the date on which the land was brought under the provisions of this Act and any right on, above or under any land created before or after the commencement of this Act in favour of a public authority under any statute and any statutory easement implied under sections 98, 99, 101, 102 and 104;
+(b) any subsisting easement or public right of way which was in existence at the date on which the land was brought under the provisions of this Act and any right on, above or under any land created before or after 1st March 1994 in favour of a public authority under any statute and any statutory easement implied under sections 98, 99, 101, 102 and 104;
 
 (c) any statutory obligation as defined in section 142;
 
@@ -1314,11 +1378,11 @@ Indefeasibility and priority
 
 (f) the rights of any person in occupation of the land under a tenancy when the proprietor became registered as such, provided that —
 
-(i) the term of the tenancy when created before the commencement of this Act did not exceed 3 years and could not have been extended by exercise of an option of renewal to exceed an aggregate of 3 years; and
+(i) the term of the tenancy when created before 1st March 1994 did not exceed 3 years and could not have been extended by exercise of an option of renewal to exceed an aggregate of 3 years; and
 
-(ii) the term of the tenancy when created after the commencement of this Act does not exceed 7 years and could not have been extended by exercise of the option of renewal to exceed an aggregate of 7 years; and
+(ii) the term of the tenancy when created after 1st March 1994 does not exceed 7 years and could not have been extended by exercise of the option of renewal to exceed an aggregate of 7 years; and
 
-(g) the power conferred on the court to make a declaration in respect of any transfer or an order to rectify the land-register and the power conferred on the Registrar to suspend or cancel the registration of the transfer and any relating instrument by section 24 of the Residential Property Act (Cap. 274) in respect of any residential property (the expressions “transfer” and “residential property” to have the meanings assigned by that Act).
+(g) the power conferred on the court to make a declaration in respect of any transfer or an order to rectify the land-register and the power conferred on the Registrar to suspend or cancel the registration of the transfer and any relating instrument by section 24 of the Residential Property Act [Cap. 274] in respect of any residential property (the expressions “transfer” and “residential property” to have the meanings assigned by that Act).
 
 (2) Nothing in this section shall be held to prejudice the rights and remedies of any person —
 
@@ -1334,7 +1398,9 @@ Indefeasibility and priority
 
 (3) Nothing in this section shall confer on a proprietor claiming otherwise than as a purchaser any better title than was held by his immediate predecessor.
 
-(4) For the purposes of subsection (1), “public authority” includes any corporation sole or body corporate incorporated under any written law.
+(4) For the purposes of subsection (1),
+
+“public authority” includes any corporation sole or body corporate incorporated under any written law.
 
 ### Exoneration from effect of notice
 
@@ -1342,7 +1408,7 @@ Indefeasibility and priority
 
 (2) The protection afforded by this section shall commence at the date of the contract or other instrument evidencing such dealing.
 
-(3) Section 18(2) and (3) of the Trustees Act (Cap. 337) shall not apply to any dealing by a proprietor of registered land.
+(3) Section 18(2) and (3)of the Trustees Act [Cap. 337] shall not apply to any dealing by a proprietor of registered land.
 
 ### Priority determined by order of registration
 
@@ -1372,7 +1438,9 @@ No title by adverse possession
 
 ### No title by adverse possession
 
-50\. Except as provided in section 172(8) and (9), no title to land adverse to or in derogation of the title of a proprietor of registered land shall be acquired by any length of possession by virtue of the Limitation Act (Cap. 163) or otherwise, nor shall the title of any proprietor of registered land be extinguished by the operation of that Act.
+50\. Except as provided in section 172(7) and (8), no title to land adverse to or in derogation of the title of a proprietor of registered land shall be acquired by any length of possession by virtue of the Limitation Act [Cap. 163] or otherwise, nor shall the title of any proprietor of registered land be extinguished by the operation of that Act.
+
+[S 453/95]
 
 ## PART VI
 
@@ -1386,7 +1454,7 @@ INSTRUMENTS
 
 ### Registration of mortgage, charge or lease
 
-52\.—(1) Every mortgage, charge or lease presented for registration need not be lodged in duplicate except for a lease issued by the Housing and Development Board under Part IV of the Housing and Development Act (Cap. 129).
+52\.—(1) Every mortgage, charge or lease presented for registration need not be lodged in duplicate except for a lease issued by the Housing and Development Board under Part IV of the Housing and Development Act [Cap. 129].
 
 (2) Upon registration of any mortgage, charge or lease, the Registrar shall enter a statement on the mortgage, charge or lease to the effect that it has been registered and, where such instrument is accompanied by a certificate of title, or lease the Registrar shall —
 
@@ -1424,7 +1492,7 @@ INSTRUMENTS
 
 54\.—(1) Every instrument lodged for registration shall refer to the folio and the lot intended to be dealt with.
 
-(2) Where a dealing referred to in an instrument affects part of any land comprised in a folio and such dealing does not contravene the provisions of the Planning Act (Cap. 232) or require the allocation of a new survey lot number by the Chief Surveyor for that part of the land, the instrument lodged for registration shall be accompanied by a plan which will enable the land to be identified with certainty.
+(2) Where a dealing referred to in an instrument affects part of any land comprised in a folio and such dealing does not contravene the provisions of the Planning Act [Cap. 232] or require the allocation of a new survey lot number by the Chief Surveyor for that part of the land, the instrument lodged for registration shall be accompanied by a plan which will enable the land to be identified with certainty.
 
 ### Memorandum of prior encumbrances
 
@@ -1480,7 +1548,7 @@ INSTRUMENTS
 
 59\.—(1) The Registrar may reject any application to bring land under the provisions of this Act, or any other instrument purporting to deal with or to affect registered land, unless there is endorsed thereon a certificate by the person acquiring title and a certificate by the person divesting title under this Act that it is correct for the purposes of this Act.
 
-(2) The certificate by the person acquiring title or divesting title shall imply representations that to the best of the signatory’s knowledge and belief and in so far as he has any reasonable means of ascertaining —
+(2) The certificate by the person acquiring title or divesting title shall imply representations that, to the best of the signatory’s knowledge and belief and in so far as he has any reasonable means of ascertaining —
 
 (a) the instrument is made in good faith;
 
@@ -1500,19 +1568,23 @@ INSTRUMENTS
 
 (6) Any person who falsely certifies to the correctness of any application, dealing or caveat shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and such penalty shall not prevent a person who may have sustained any damage or loss in consequence of errors or mistakes in any such certified application, dealing or caveat from recovering damages against the person who has certified the same.
 
-(7) In any instrument which is registered under the provisions of this Act either before or after the commencement of this Act, any reference to “Certificate of Correctness” shall be construed as a reference to a certificate of correctness given pursuant to this section or any corresponding provision in any repealed enactment.
+(7) In any instrument which is registered under the provisions of this Act either before or after 1st March 1994, any reference to
 
-(8) For the purposes of this section, “solicitor” means a solicitor who has in force a practising certificate issued under the Legal Profession Act (Cap. 161).
+“Certificate of Correctness” shall be construed as a reference to a certificate of correctness given pursuant to this section or any corresponding provision in any repealed enactment.
+
+(8) For the purposes of this section,
+
+“solicitor” means a solicitor who has in force a practising certificate issued under the Legal Profession Act [Cap. 161].
 
 ### Address for service of notices
 
 60\.—(1) Every instrument by which a person becomes a proprietor of registered land and every caveat relating to dealings with land (whether registered or unregistered) shall contain an address within Singapore to which may be sent any notice concerning the land authorised or required by this Act.
 
-(2) The proprietor or caveator may from time to time notify the Registrar in writing of any change of his address, and the Registrar shall make an appropriate record of the change.
+(2) The proprietor or caveator may from time to time notify the Registrar in writing of any change of his address , and the Registrar shall make an appropriate record of the change.
 
 (3) Any notice sent by registered post to the last recorded address of a proprietor or a caveator shall be deemed to be duly served on the person to whom it is addressed two days after the day on which the notice was posted by registered post, notwithstanding the fact that the letter may be returned by the post office as undelivered.
 
-(4) Section 72 of the Conveyancing and Law of Property Act (Cap. 61) shall not apply to the service on a proprietor or on a caveator of any notice authorised or required by this Act.
+(4) Section 72 of the Conveyancing and Law of Property Act [Cap. 61] shall not apply to the service on a proprietor or on a caveator of any notice authorised or required by this Act.
 
 ### Instruments to take effect as deeds
 
@@ -1568,7 +1640,7 @@ vest in the same proprietor, any intention to merge such interests shall be evid
 
 MORTGAGES AND CHARGES
 
-Division 1 —
+Division I —
 
 Mortgages of registered land
 
@@ -1584,7 +1656,7 @@ Mortgages of registered land
 
 ### Application of Conveyancing and Law of Property Act
 
-69\.—(1) The provisions of Part IV of the Conveyancing and Law of Property Act shall, mutatis mutandis, apply to mortgages and charges registered under the provisions of this Act (Cap. 61).
+69\.—(1) The provisions of Part IV of the Conveyancing and Law of Property Act [Cap. 61] shall apply, mutatis mutandis, to mortgages and charges registered under the provisions of this Act.
 
 (2) In every mortgage of registered land (unless a contrary intention is expressed), there shall be deemed to be included the covenant and proviso implied by section 31 of the Conveyancing and Law of Property Act.
 
@@ -1606,7 +1678,9 @@ Mortgages of registered land
 
 ### Submortgages
 
-71\.—(1) In this section, “submortgage” means the mortgage of a mortgage and the mortgage of a charge.
+71\.—(1) In this section,
+
+“submortgage” means the mortgage of a mortgage and the mortgage of a charge.
 
 (2) Upon the registration of a submortgage, all acts, powers and rights which might previously have been done or exercised by the mortgagor or chargor thereunder in relation to the land may thereafter be done or exercised by the registered proprietor of the submortgage, and shall not be done or exercised by the mortgagor or chargor thereunder during the currency of the submortgage.
 
@@ -1632,7 +1706,7 @@ Mortgages of registered land
 
 ### Application of proceeds of sale
 
-74\.—(1) The money received by a mortgagee who has exercised his power of sale, after discharge of prior encumbrances to which the sale is not made subject (if any), or after payment into court under the Conveyancing and Law of Property Act (Cap. 61) of a sum to meet any prior encumbrances, shall be held by him on trust to be applied —
+74\.—(1) The money received by a mortgagee who has exercised his power of sale, after discharge of prior encumbrances to which the sale is not made subject (if any), or after payment into court under the Conveyancing and Law of Property Act [Cap. 61] of a sum to meet any prior encumbrances, shall be held by him on trust to be applied —
 
 (a) firstly, in payment of all costs and expenses properly incurred as incidental to the sale or any attempted sale, or otherwise;
 
@@ -1648,7 +1722,9 @@ and the residue of the money so received shall be paid to the person who appears
 
 (b) secondly, in accordance with any express provision in the instrument of charge (as authorised by section 68(4)) for disposing of such money and, in the absence of any express provision, in discharge of the money due to the chargee at the date of the sale; and
 
-(c) thirdly, in payment of subsequent mortgages and charges (if any) in the order of their priority, and the residue of the money so received shall be paid to the person who appears from the land-register to be entitled to the charged property or to be authorised to give receipts for the proceeds of the sale thereof.
+(c) thirdly, in payment of subsequent mortgages and charges (if any) in the order of their priority,
+
+and the residue of the money so received shall be paid to the person who appears from the land-register to be entitled to the charged property or to be authorised to give receipts for the proceeds of the sale thereof.
 
 (3) Where by this section a mortgagee or chargee is required to account to a subsequent chargee for money arising on a sale, such money shall be paid or applied in accordance with the express provision (if any) in the instrument of charge for disposing of such money, and, in the absence of express provision, in discharge of the money due to the chargee at the date of the sale.
 
@@ -1670,7 +1746,7 @@ and the residue of the money so received shall be paid to the person who appears
 
 ### Right to discharge
 
-77\.—(1) Upon fulfilling his obligations under a registered mortgage or charge, a mortgagor or chargor shall be entitled, subject to section 22 of the Conveyancing and Law of Property Act (Cap. 61), to obtain from the proprietor of the mortgage or charge a registrable discharge.
+77\.—(1) Upon fulfilling his obligations under a registered mortgage or charge, a mortgagor or chargor shall be entitled, subject to section 22 of the Conveyancing and Law of Property Act [Cap. 61], to obtain from the proprietor of the mortgage or charge a registrable discharge.
 
 (2) A mortgagor or chargor shall not be bound to account to any person who has acquired an interest in the mortgage or charge unless the transfer or other instrument whereby that person became entitled has been registered and the mortgagor or chargor has been notified in writing of its registration.
 
@@ -1688,7 +1764,7 @@ and the residue of the money so received shall be paid to the person who appears
 
 (2) A discharge of mortgage or charge in an approved form shall be registered by entering a memorial thereof on the relevant folio whereupon the land shall be freed from the mortgage or charge and from all rights and powers of the mortgagee or chargee, either absolutely or to any lesser extent as expressed in the discharge.
 
-(3) Where a discharge was executed as a separate instrument in respect of a mortgage registered prior to the commencement of this Act, the Registrar —
+(3) Where a discharge was executed as a separate instrument in respect of a mortgage registered prior to 1st March 1994, the Registrar —
 
 (a) shall dispense with the production of the duplicate copy of the relevant mortgage where all the land mortgaged under the mortgage was to be wholly discharged; or
 
@@ -1704,11 +1780,11 @@ and the residue of the money so received shall be paid to the person who appears
 
 ### Tacking of further advances
 
-80\.—(1) Notwithstanding any other provision of this Act, a prior mortgagee of registered land shall have the right to make further advance or give further credit or accommodation to rank in priority to subsequent mortgages —
+80\.—(1) Notwithstanding any other provision of this Act, a prior mortgagee of registered land shall have the right to make further advances or give further credit or accommodation to rank in priority to subsequent mortgages —
 
-(a) if the prior mortgage expressly authorises the making of further advances, or for the giving of credit in instalments or on a current, revolving or continuing account or other accommodation; or
+(a) if the prior mortgage expressly authorises the making of further advances, or the giving of credit in instalments or on a current, revolving or continuing account or other accommodation; or
 
-(b) where the prior mortgage does not expressly authorise the making of such further advances, or for the giving of credit in instalments or on a current, revolving or continuing account or other accommodation, if the subsequent mortgagee agrees to such further advances being made or credit or other accommodation being given.
+(b) where the prior mortgage does not expressly authorise the making of such further advances, or the giving of credit in instalments or on a current, revolving or continuing account or other accommodation, if the subsequent mortgagee agrees to such further advances being made or credit or other accommodation being given.
 
 (2) Except as provided in this section, the right to tack shall not apply to mortgages of registered land.
 
@@ -1724,11 +1800,11 @@ Common law mortgages notified on land-register
 
 ### Application of this Division
 
-81\. This Division shall apply to a mortgage which was registered under the Registration of Deeds Act (Cap. 269) before the mortgaged land was brought under the provisions of this Act and the mortgage is notified on the relevant folio created for the land when the land is brought under the provisions of this Act either before or after the commencement of this Act.
+81\. This Division shall apply to a mortgage which was registered under the Registration of Deeds Act [Cap. 269] before the mortgaged land was brought under the provisions of this Act and the mortgage is notified on the relevant folio created for the land when the land is brought under the provisions of this Act either before or after the 1st March 1994.
 
 ### Application of sections 71 to 75 and 78 to 80
 
-82\. Sections 71 to 75 and 78 to 80 shall, mutatis mutandis, apply to a mortgage to which this Division applies.
+82\. Sections 71 to 75 and 78 to 80 shall apply, mutatis mutandis, to a mortgage to which this Division applies.
 
 ### Mortgagee to execute transfer
 
@@ -1738,13 +1814,13 @@ Common law mortgages notified on land-register
 
 ### Discharge of a mortgage, etc., notified on land-register
 
-84\.—(1) No instrument in respect of any future dealing with a mortgage to which this Division applies (including a reconveyance and a conveyance of the mortgagee’s estate or a sub-mortgage), or pursuant to such a mortgage, shall be registered under the Registration of Deeds Act except in respect of any dealing which has been executed by any party to the relevant instrument prior to the commencement of this Act.
+84\.—(1) No instrument in respect of any future dealing with a mortgage to which this Division applies (including a reconveyance and a conveyance of the mortgagee’s estate or a sub-mortgage), or pursuant to such a mortgage, shall be registered under the Registration of Deeds Act except in respect of any dealing which has been executed by any party to the relevant instrument prior to 1st March 1994.
 
-(2) Where the Registrar of Deeds has inadvertently accepted for registration any instrument for any dealing completed after the commencement of this Act, the Registrar of Deeds may cancel the registration of the instrument after having given 21 days’ notice to the person who presented the instrument for registration unless in the case of any provisional registration of the instrument, the person has agreed to withdraw the instrument from registration.
+(2) Where the Registrar of Deeds has inadvertently accepted for registration any instrument for any dealing completed after 1st March 1994, the Registrar of Deeds may cancel the registration of the instrument after having given 21 days’ notice to the person who presented the instrument for registration unless in the case of any provisional registration of the instrument, the person has agreed to withdraw the instrument from registration.
 
 ### Foreclosure of mortgages notified on land-register
 
-85\.—(1) Where before or after the commencement of this Act, the court has made an order for foreclosure in respect of a mortgage to which this Division applies, the mortgagee in whose favour the foreclosure order is made shall lodge an application in the approved form with the Registrar and not the Registrar of Deeds for the purpose of registering the court order and furnish the Registrar with an office copy of the order.
+85\.—(1) Where before or after 1st March 1994, the court has made an order for foreclosure in respect of a mortgage to which this Division applies, the mortgagee in whose favour the foreclosure order is made shall lodge an application in the approved form with the Registrar and not the Registrar of Deeds for the purpose of registering the court order and furnish the Registrar with an office copy of the order.
 
 (2) The Registrar, upon being satisfied that the court order is in order for registration, shall register the order by entering a memorial of the court order in the relevant folio, and the court order when so entered in the land-register shall have the effect of vesting in the applicant mortgagee all the estate and interest of the mortgagor in the land referred to in the court order freed from all right and equity of redemption on the part of the mortgagor, and freed and discharged from all liability on account of any mortgage, charge or other interest registered subsequently thereto except such leases or other interests as may be binding on the applicant mortgagee.
 
@@ -1758,7 +1834,7 @@ LEASES
 
 86\.—(1) In the interpretation of this Part, unless the context otherwise indicates or requires, “lease” includes a sublease; but nothing in this Part shall be taken to authorise the breach of a covenant against subletting.
 
-(2) Part III of the Conveyancing and Law of Property Act (Cap. 61) shall, mutatis mutandis, apply to leases of registered land; but this Part shall not apply to leases of land made before that land has been brought under the provisions of this Act.
+(2) Part III of the Conveyancing and Law of Property Act [Cap. 61] shall apply, mutatis mutandis, to leases of registered land; but this Part shall not apply to leases of land made before that land has been brought under the provisions of this Act.
 
 (3) Nothing in this Act shall affect any rule or principle of law relating to the quiet enjoyment of land by a lessee.
 
@@ -1782,7 +1858,7 @@ LEASES
 
 (b) the fact that a lease for a specified period of time is determinable on the happening of an event within that time shall not be taken into consideration in determining the term of the lease.
 
-(4) A lease is not unregistrable by reason only of the fact that the possession of the lessee is expressed to be noncontinuous.
+(4) A lease is not unregistrable by reason only of the fact that the possession of the lessee is expressed to be non-continuous.
 
 (5) Nothing in this Part shall affect the law relating to tenancies for terms of 7 years or less.
 
@@ -1808,7 +1884,7 @@ LEASES
 
 (3) When evidence is furnished to the Registrar that a mortgagee has consented to a lease by the mortgagor, the Registrar shall refer to that consent in the memorial of registration of the lease.
 
-(4) This section shall, mutatis mutandis, apply to leases executed by chargors of registered land.
+(4) This section shall apply, mutatis mutandis, to leases executed by chargors of registered land.
 
 ### Covenants against assigning and subletting
 
@@ -1854,7 +1930,7 @@ the lessor may apply in writing to the Registrar to have a notification of the d
 
 (b) that, in default of the lessee repairing any defect according to notice, the lessor may from time to time enter the premises and effect the required repairs;
 
-(c) that he may by himself or his agents at all reasonable times during the term, with workmen and others and all necessary materials and appliances, enter upon the leased premises or any part thereof for the purpose of complying with any written law affecting the premises and of any notices served on the lessor or the lessee by any public authority involving the carrying out of repairs or the doing of any work or other act which the lessee may not be bound, or, if bound, may neglect to do, and also for the purpose of exercising the powers and authorities of the lessor under the lease:
+(c) that he may by himself or his agents at all reasonable times during the term, with workmen and others and all necessary materials and appliances, enter upon the leased premises or any part thereof for the purpose of complying with any written law affecting the premises and with any notices served on the lessor or the lessee by any public authority involving the carrying out of repairs or the doing of any work or other act which the lessee may not be bound, or, if bound, may neglect to do, and also for the purpose of exercising the powers and authorities of the lessor under the lease:
 
 Provided that such repairs, work or other acts shall be carried out or done without undue interference with the occupation and use of the premises by the lessee;
 
@@ -1864,7 +1940,7 @@ Provided that such repairs, work or other acts shall be carried out or done with
 
 (3) This section shall be read subject to any written law imposing restrictions or conditions on re-entry or forfeiture or on ejectment of tenants.
 
-(4) Section 10 of the Conveyancing and Law of Property Act (Cap. 61) shall apply to a lease of registered land as if the powers implied by this section had been set forth or contained in the lease.
+(4) Section 10 of the Conveyancing and Law of Property Act [Cap. 61] shall apply to a lease of registered land as if the powers implied by this section had been set forth or contained in the lease.
 
 ## PART X
 
@@ -1872,7 +1948,9 @@ EASEMENTS
 
 ### Interpretation
 
-94\.—(1) In this Part, “dominant tenement” and “servient tenement” mean, respectively, the land to which the benefit of an easement has been made appurtenant, and the land which is subject to the burden of an easement.
+94\.—(1) In this Part,
+
+“dominant tenement” and “servient tenement” mean, respectively, the land to which the benefit of an easement has been made appurtenant, and the land which is subject to the burden of an easement.
 
 (2) Nothing in this Act shall be construed as altering the law relating to the natural rights to support, light, air, water, or to access to a highway, nor as altering any rule or principle of law which implies in the grant of an easement such ancillary rights as may be necessary for the effective enjoyment of the easement.
 
@@ -1938,11 +2016,11 @@ EASEMENTS
 
 “lot” means a parcel of land forming part of a development, to which the Chief Surveyor has allotted a Government survey lot number;
 
-“development” means any land subdivided into two or more lots pursuant to section 10(3) of the Planning Act (Cap. 232) where those lots are affected by common easements for the passage or provision of water, electricity, drainage, gas or sewerage that are capable of being created as cross easements by an instrument and enjoyed as such by those lots.
+“development” means any land subdivided into two or more lots pursuant to section 10(3) of the Planning Act [Cap. 232] where those lots are affected by common easements for the passage or provision of water, electricity, drainage, gas or sewerage that are capable of being created as cross easements by an instrument and enjoyed as such by those lots.
 
 ### Implied easements for right of way and other rights shown in an approved subdivision plan
 
-99\.—(1) Where the competent authority has approved the development and subdivision of any land comprised in an estate before or after the commencement of this Act, there shall be implied in respect of each lot of the estate which is used or intended to be used as a separate tenement (referred to hereinafter as the lot) in favour of the registered proprietor of the lot and as appurtenant thereto, all such easements of way and drainage and for party wall purposes and for the supply of water, gas, electricity, sewerage and telephone and other services to the lot on, over or under the lands appropriated or set apart for those purposes respectively on the approved subdivision plan relating to the estate as may be necessary for the reasonable enjoyment of the lot and of any building or part of a building at any time thereon.
+99\.—(1) Where the competent authority has approved the development and subdivision of any land comprised in an estate before or after 1st March 1994, there shall be implied in respect of each lot of the estate which is used or intended to be used as a separate tenement (referred to hereinafter as the lot) in favour of the registered proprietor of the lot and as appurtenant thereto, all such easements of way and drainage and for party wall purposes and for the supply of water, gas, electricity, sewerage and telephone and other services to the lot on, over or under the lands appropriated or set apart for those purposes respectively on the approved subdivision plan relating to the estate as may be necessary for the reasonable enjoyment of the lot and of any building or part of a building at any time thereon.
 
 (2) All ancillary rights and obligations reasonably necessary to make the easements referred to in subsection (1) effective shall be implied.
 
@@ -1954,15 +2032,15 @@ EASEMENTS
 
 (6) Unity of seisin of two or more lots shall not destroy the easements implied by this section but on the cessation of such unity they shall continue in full force and effect as if the seisin had never been united.
 
-(7) The easements implied by this section shall not apply to the lots in an estate where subdivision approval was given by the competent authority prior to the commencement of this Act and satisfactory documentary evidence has been produced to the Registrar of the completion of the transfer of any lot in the estate to a purchaser with easements expressly created in an instrument which has been executed and delivered to the purchaser.
+(7) The easements implied by this section shall not apply to the lots in an estate where subdivision approval was given by the competent authority prior to 1st March 1994 and satisfactory documentary evidence has been produced to the Registrar of the completion of the transfer of any lot in the estate to a purchaser with easements expressly created in an instrument which has been executed and delivered to the purchaser.
 
 (8) In this section —
 
-“competent authority” means the competent authority appointed under section 3 of the Planning Act (Cap. 232);
+“competent authority” means the competent authority appointed under section 3 of the Planning Act [Cap. 232];
 
 “estate” means land which has been subdivided into lots under the Planning Act where those lots include land intended for use as easements to be made appurtenant to other lots within the same estate as shown in the subdivision plan approved by the competent authority, a copy of which is deposited with the Registrar; and may include undeveloped lots in the course of erection which are shown in the first subdivision plan approved by the competent authority and is capable of being subdivided as shown in one or more approved subsequent subdivision plans as and when issued by the competent authority and copies of the subdivision plans have been delivered to the Registrar;
 
-“lot” means a parcel of land forming part of an estate to which the Chief Surveyor has allotted a Government survey lot number and also described as a “plot” in a subdivision plan approved by the competent authority under the Planning Act.
+“lot” means a parcel of land forming part of an estate to which the Chief Surveyor has allotted a Government survey lot number and also described as a “plot” in a subdivision plan approved by the competent authority under the Planning Act [Cap. 232].
 
 ### Extinguishment by union of tenements
 
@@ -1988,13 +2066,13 @@ EASEMENTS
 
 ### Grant of right of way
 
-103\.—(1) In an instrument purporting to create a right of way over registered land, the expressions “right of carriage way” and “right of footway” shall have the same effect as if there had been inserted in lieu thereof the words respectively contained in Part I and Part II of the Schedule.
+103\.—(1) In an instrument purporting to create a right of way over registered land, the expressions “right of carriage way” and “right of footway” shall have the same effect as if there had been inserted in lieu thereof the words respectively contained in Parts I and II of the Schedule.
 
 (2) The expressions referred to in subsection (1) shall not have the meaning attributed to them by this section if any alteration is made in the expressions otherwise than by means of a proviso thereto.
 
 ### Party walls
 
-104\.—(1) In this section, “conveyance” has the same meaning as in section 2 of the Conveyancing and Law of Property Act (Cap. 61), and it includes instruments of transfer taking effect under this Act.
+104\.—(1) In this section, “conveyance” has the same meaning as in section 2 of the Conveyancing and Law of Property Act [Cap. 61], and it includes instruments of transfer taking effect under this Act.
 
 (2) Where in a conveyance of land made by a person entitled to convey or to create easements in respect of a wall built on the common boundary of that land and adjoining land so that the boundary passes longitudinally through the wall (whether centrally or otherwise), the wall is described as a “party wall”, that expression means (unless a contrary intention appears) a wall severed vertically and longitudinally with separate ownership of the severed portions, and with cross easements entitling each of the persons entitled to a portion to have the whole wall continue in such a manner that each building supported thereby will have the support of the whole wall, and the conveyance shall operate to create such easements accordingly.
 
@@ -2028,7 +2106,7 @@ TRANSMISSIONS
 
 (2) An application under this section by a person claiming land of a deceased proprietor otherwise than as personal representative shall not be registered unless it can be established to the satisfaction of the Registrar that a transfer to that person by the personal representative is not reasonably practicable.
 
-(3) The Registrar may in his discretion register a transmission application by the Public Trustee acting in his capacity under section 6 of the Public Trustee Act (Cap. 260) in the administration of an estate in respect of which representation has not been taken out.
+(3) The Registrar may, in his discretion, register a transmission application by the Public Trustee acting in his capacity under section 6 of the Public Trustee Act [Cap. 260] in the administration of an estate in respect of which representation has not been taken out.
 
 (4) For the purposes of this section, “personal representative” includes —
 
@@ -2066,7 +2144,7 @@ TRANSMISSIONS
 
 110\.—(1) The Official Assignee claiming land under an adjudication of bankruptcy of a proprietor or under an order for administration in bankruptcy of the estate of a deceased proprietor may apply in the approved form to become registered as proprietor by transmission of the land so claimed, and upon proof of such adjudication or order, the Registrar shall enter on the folio a memorial of registration in accordance with section 37.
 
-(2) Nothingstanding the provisions of any written law relating to bankruptcy for the time being in force, the vesting of registered land pursuant to proceedings thereunder shall be subject to the registration of a transmission application as provided in this section.
+(2) Notwithstanding the provisions of any written law relating to bankruptcy for the time being in force, the vesting of registered land pursuant to proceedings thereunder shall be subject to the registration of a transmission application as provided in this section.
 
 (3) For the purposes of this Act, any dealing with land of which the Official Assignee is the proprietor may be executed by the Official Assignee for the time being.
 
@@ -2094,7 +2172,7 @@ TRANSMISSIONS
 
 (3) Where a person has become entitled to registered land consequent upon defeasance of the interest of the proprietor of that land, and under circumstances in respect of which no express provision is made by this Act for registration of the interest of that person, he may apply for such registration in the approved form.
 
-(4) Section 29 of the Estate Duty Act (Cap. 96) shall apply to registered land, and upon the death of a joint tenant or a life tenant of registered land, the Commissioner of Estate Duties shall not be required to register any instrument of charge claiming an interest in the land for estate duty payable.
+(4) Section 29 of the Estate Duty Act [Cap. 96] shall apply to registered land, and upon the death of a joint tenant or a life tenant of registered land, the Commissioner of Estate Duties shall not be required to register any instrument of charge claiming an interest in the land for estate duty payable.
 
 ## PART XII
 
@@ -2120,7 +2198,7 @@ CAVEATS
 
 (h) if the caveator is a purchaser or sub-purchaser of the interest in the land, the amount of the purchase price and the date of the caveator’s contract or the date on which he exercised the option to purchase the interest in the land, as the case may be; and
 
-(i) the particulars required by section 19 of the Residential Property Act (Cap. 274).
+(i) the particulars required by section 19 of the Residential Property Act [Cap. 274].
 
 (2) A caveator may, according to the extent of his interest, forbid the registration under this Act of any dealing affecting the land against which the caveat is directed, either —
 
@@ -2140,7 +2218,7 @@ CAVEATS
 
 116\. Where a caveat is lodged with the Registrar and before it has been accepted by the Registrar as being in order for notification, the Registrar shall —
 
-(a) if the caveat relates to land not brought under the provisions of this Act, provisionally enter the particulars thereof in the Caveat Index;
+(a) if the caveat relates to land not yet brought under the provisions of this Act, provisionally enter the particulars thereof in the Caveat Index;
 
 (b) if the caveat relates to a manual folio, provisionally enter the particulars thereof on the folio; and
 
@@ -2178,7 +2256,7 @@ and notify the caveatee that the caveat has been lodged and accepted by the Regi
 
 (3) For the purposes of according priority to a caveat which has been lodged under the provisions of this Act and is amended subsequent to its date of lodgment —
 
-(a) where it is materially amended subsequent to its date of notification in the Caveat Index before the land becomes registered land, the caveat shall have priority in accordance with section 49 upon the acceptance of the amendment by the Registrar as having complied with the requirements specified by the Registrar pursuant to section 117; or
+(a) where it is materially amended subsequent to its date of notification in the Caveat Index before the land becomes registered land, the caveat shall have priority in accordance with section 48 upon the acceptance of the amendment by the Registrar as having complied with the requirements specified by the Registrar pursuant to section 117; or
 
 (b) where it is materially amended at any time after its lodgment against the relevant folio, the caveat shall have priority upon the acceptance of the amendment by the Registrar as having complied with the requirements specified by the Registrar pursuant to section 117.
 
@@ -2218,7 +2296,7 @@ and notify the caveatee that the caveat has been lodged and accepted by the Regi
 
 (6) The lapsing of a caveat pursuant to subsection (1) shall not prevent the lodgment of a fresh caveat in respect of the same matter except where a caveat has lapsed pursuant to subsection (1)(a), any further caveat lodged in respect of the same estate or interest in land claimed under that lapsed caveat and purporting to be based on the same facts as the lapsed caveat (other than a fresh caveat lodged against any person except the caveatee named in the lapsed caveat) has no effect unless the caveator has obtained leave of the court to lodge the further caveat, and that order or an office copy of that order has to accompany the further caveat when it is lodged with the Registrar.
 
-(7) The Registrar shall not be concerned with the validity of the further caveat referred to in subsection (6) and if such further caveat is lodged without being accompanied by the order as mentioned in that subsection, the caveator shall be liable to pay compensation to any person who sustains pecuniary loss that is attributable to such an act or omission in complying with this subsection.
+(7) The Registrar shall not be concerned with the validity of the further caveat referred to in subsection (6) and if such further caveat is lodged without being accompanied by the order as mentioned in that subsection, the caveator shall be liable to pay compensation to any person who sustains pecuniary loss that is attributable to such an act or omission in complying with that subsection.
 
 (8) Subsection (1)(b) shall also apply to a caveat which relates to land not brought under the provisions of this Act and was lodged and entered in the Caveat Index pursuant to sections 116 and 117.
 
@@ -2262,7 +2340,7 @@ and notify the caveatee that the caveat has been lodged and accepted by the Regi
 
 (2) Where the person entitled to withdraw a caveat lodged under this Part notifies the Registrar by lodging a notice in the approved form that the name of the caveator or the address specified in the caveat for service of notice on the caveator has been changed, the Registrar shall record the change of name or address in the register maintained for changes in names and addresses or on the folio or in any other manner which is made known to any person who intends to find out the latest particulars of any caveator and thereupon the name or address so recorded shall be the name or address for service of notice on the caveator.
 
-### Order for security, etc
+### Order for security, etc.
 
 124\. In any proceedings in respect of a caveat, the court may —
 
@@ -2290,7 +2368,7 @@ and notify the caveatee that the caveat has been lodged and accepted by the Regi
 
 (d) where the caveator is adjudicated a bankrupt, by the Official Assignee; or where the caveator is a corporation and is in liquidation, and the estate or interest claimed by the caveator has become vested in the liquidator, by the liquidator;
 
-(e) by the person or the committee to whom it is entrusted, pursuant to the Mental Disorders and Treatment Act (Cap. 178), the management and care of the estate or interest claimed in the caveat; or
+(e) by the person or the committee to whom it is entrusted, pursuant to the Mental Disorders and Treatment Act [Cap. 178], the management and care of the estate or interest claimed in the caveat; or
 
 (f) by the solicitor acting for any of the persons mentioned in paragraphs (b), (c), (d) or (e).
 
@@ -2316,7 +2394,7 @@ and notify the caveatee that the caveat has been lodged and accepted by the Regi
 
 (6) For the purposes of this section, a person claiming an estate or interest in the land under another caveat shall be deemed to be a caveatee.
 
-### Compensation payable for wrongfully lodging caveats, etc
+### Compensation payable for wrongfully lodging caveats, etc.
 
 128\.—(1) Any person who wrongfully, vexatiously or without reasonable cause —
 
@@ -2376,7 +2454,7 @@ shall be liable to pay compensation to any person who sustains pecuniary loss th
 
 “mortgage” includes a “sub-mortgage”, “mortgagee” includes a “sub-mortgagee” and “mortgagor” includes a “sub-mortgagor”;
 
-“registered mortgage” means a mortgage registered under the Registration of Deeds Act (Cap. 269) and notified on the land-register and includes a charge so registered and notified; and a “registered mortgagee” has the corresponding meaning as in section 69.
+“registered mortgage” means a mortgage registered under the Registration of Deeds Act [Cap. 269] and notified on the land-register and includes a charge so registered and notified; and a “registered mortgagee” has the corresponding meaning as in section 69.
 
 ### Right to injunction not affected
 
@@ -2422,7 +2500,7 @@ WRITS AND ORDERS OF COURT
 
 134\.—(1) Registration of a writ shall lapse, and the power of the Sheriff to execute registrable instruments pursuant thereto shall be extinguished, at the expiration of one year from the date of the registration of the writ, and the land thereupon shall cease to be bound thereby. This subsection shall not prevent the registration of a renewal of a writ, or of a second or subsequent writ issued on the same judgment except that nothing in this Act shall enable a judgment creditor by a succession of writs on the same judgment to bind land for an uninterrupted period exceeding one year.
 
-(2) Upon the lapsing of the registration of a writ, the Registrar shall on an application made by the proprietor or of anyone claiming through him in an approved form, cancel the registration of the writ.
+(2) Upon the lapsing of the registration of a writ, the Registrar shall, on an application made by the proprietor or of anyone claiming through him in an approved form, cancel the registration of the writ.
 
 (3) The lapsing of the registration of a writ shall not prevent the registration of any instrument executed pursuant thereto and lodged for registration prior to such lapsing.
 
@@ -2450,7 +2528,7 @@ shall be void against a purchaser of the land at the sale in execution under the
 
 ### Vesting orders
 
-137\.—(1) In all cases where a vesting order affecting registered land would be made pursuant to the Trustees Act (Cap. 337), the court shall, in accordance with section 58 of that Act, make an order appointing a person to execute such transfers or other instruments as may be necessary to give effect to the vesting.
+137\.—(1) In all cases where a vesting order affecting registered land would be made pursuant to the Trustees Act [Cap. 337], the court shall, in accordance with section 54 of that Act, make an order appointing a person to execute such transfers or other instruments as may be necessary to give effect to the vesting.
 
 (2) After the registration of that order pursuant to section 132, any instrument so executed shall have effect as if it had been executed by such proprietors of the land intended to be dealt with thereunder as would be necessary to pass the registered title of the estate or interest in question.
 
@@ -2498,7 +2576,7 @@ RESTRICTIVE COVENANTS
 
 (4) Without prejudice to subsection (1), upon the application of any person interested in land affected by a restriction, the court shall have power, by order, wholly or partially, to extinguish or vary the restriction, upon being satisfied —
 
-(a) that by reason of a change of user of the land affected, as approved by the competent authority or the Minister, as the case may be, under the Planning Act (Cap. 232) or any rules made thereunder, the continued existence of the restriction will impede the development of the land for public or private purposes; or
+(a) that by reason of a change of user of the land affected, as approved by the competent authority or the Minister, as the case may be, under the Planning Act [Cap. 232] or any rules made thereunder, the continued existence of the restriction will impede the development of the land for public or private purposes; or
 
 (b) that the proposed extinguishment or variation will not materially injure the person entitled to the benefit of the restriction.
 
@@ -2538,7 +2616,9 @@ STATUTORY ACQUISITION AND SALE
 
 ### Statutory obligations
 
-142\.—(1) For the purposes of this section, “statutory obligation” means —
+142\.—(1) For the purposes of this section,
+
+“statutory obligation” means —
 
 (a) any charge on land; and
 
@@ -2560,7 +2640,9 @@ under the provisions of any written law or regulations made thereunder, and whic
 
 ### Compulsory acquisition of registered land
 
-143\.—(1) For the purposes of this section, “public authority” means the Government, the Collector, and any other person, corporation or body, authorised or empowered by any written law to acquire land compulsorily.
+143\.—(1) For the purposes of this section,
+
+“public authority” means the Government, the Collector, and any other person, corporation or body, authorised or empowered by any written law to acquire land compulsorily.
 
 (2) Where registered land has been acquired by any public authority otherwise than by purchase or agreement, an instrument of acquisition in the approved form, executed by that authority or by some proper officer appointed by the authority in that behalf, may be lodged with the Registrar.
 
@@ -2574,11 +2656,11 @@ under the provisions of any written law or regulations made thereunder, and whic
 
 144\.—(1) Where registered land is sold pursuant to —
 
-(a) Part II of the Land Revenue Collection Act (Cap. 155);
+(a) Part II of the Land Revenue Collection Act [Cap. 155];
 
-(b) section 39 of the Property Tax Act (Cap. 254); or
+(b) section 39 of the Property Tax Act [Cap. 254]; or
 
-(c) section 67 of the Local Government Integration Act (Cap. 166),
+(c) section 67 of the Local Government Integration Act [Cap. 166],
 
 the Collector, the Comptroller of Property Tax or the Director-General of Public Works, as the case may be, may execute a transfer in the approved form, and neither the purchaser of the land nor the Registrar shall be concerned to inquire whether the provisions of the relevant Act relating to the sale or transfer have been complied with, nor otherwise to inquire into the regularity or validity of the sale or transfer.
 
@@ -2586,7 +2668,7 @@ the Collector, the Comptroller of Property Tax or the Director-General of Public
 
 (3) Where the existing certificate of title for the land is not presented with the transfer, the Registrar shall cancel the existing folio and shall create a new folio in favour of the transferee.
 
-(4) Section 14(1), (2) and (4) of the Land Revenue Collection Act (Cap. 155) shall not apply to transfers in pursuance of this section.
+(4) Section 14(1), (2) and (4) of the Land Revenue Collection Act [Cap. 155] shall not apply to transfers in pursuance of this section.
 
 ### Statutory vesting not elsewhere provided for
 
@@ -2600,13 +2682,13 @@ POWERS OF ATTORNEY
 
 ### Interpretation
 
-146\. In this Part, “attorney” means any person appointed by an instrument under seal to act as the agent for or on behalf of a principal in relation to transactions with registered land, whether the agent is called attorney, receiver, broker, factor or otherwise, and, where the context admits, “power” means the instrument by which an attorney is appointed.
+146\. In this Part, “attorney” means any person appointed by an instrument under seal to act as the agent for or on behalf of a principal in relation to transactions with registered land, whether the agent is called attorney, receiver, broker, factor or otherwise and, where the context admits, “power” means the instrument by which an attorney is appointed.
 
 ### Registration of instruments executed by attorneys
 
 147\.—(1) On lodgment for registration of any instrument executed by an attorney, the Registrar may require the original power of attorney or an office copy thereof to be exhibited to him, and in case of doubt, or where he suspects impropriety, may require the execution of the power to be proved.
 
-(2) Where a power of attorney has been deposited in the Registry of the Supreme Court pursuant to section 48 of the Conveyancing and Law of Property Act (Cap. 61), no further proof of execution shall be required by the Registrar.
+(2) Where a power of attorney has been deposited in the Registry of the Supreme Court pursuant to section 48 of the Conveyancing and Law of Property Act [Cap. 61], no further proof of execution shall be required by the Registrar.
 
 (3) Before registering any instrument executed by an attorney, the Registrar may require either —
 
@@ -2672,7 +2754,7 @@ CIVIL RIGHTS AND REMEDIES
 
 (5) The assurance fund shall not be liable to compensate any person suffering loss, damage or deprivation occasioned by the breach by a proprietor of any trust.
 
-### Registrar may be summoned for refusal to register instruments, etc
+### Registrar may be summoned for refusal to register instruments, etc.
 
 152\.—(1) If, upon the application of any person to have land brought under the provisions of this Act, or to have any instrument registered or notified, or to have any certificate of title or other instrument issued, or to have performed or done by the Registrar any act or duty which by this Act is prescribed to be performed or done by him, the Registrar refuses to comply therewith, or if that person is dissatisfied with any requisition made or direction given by the Registrar which the Registrar refuses to withdraw, the person may require the Registrar to set forth in writing under his hand the grounds of his refusal and may, if he thinks fit, summon the Registrar to appear before the court to substantiate and uphold the grounds of his refusal.
 
@@ -2778,7 +2860,9 @@ CIVIL RIGHTS AND REMEDIES
 
 (7) When any person so summoned neglects or refuses to show cause, or to deliver up the certificate or duplicate lease, as directed by the court, the Registrar may, if the circumstances of the case so require, issue a replacement certificate in the same manner, and having the same effect, as provided by section 43 in the case of certificates which have been lost or destroyed or issue a subsidiary certificate of title for the lease.
 
-(8) In this section, “correction” includes cancellation and the addition of matter which has been omitted.
+(8) In this section,
+
+“correction” includes cancellation and the addition of matter which has been omitted.
 
 (9) For the purposes of section 158, time shall not run against any person entitled to compensation for loss or damage by reason of a correction under this section until the Registrar has given him notice that the correction has been made.
 
@@ -2790,7 +2874,7 @@ CIVIL RIGHTS AND REMEDIES
 
 (b) where the court is satisfied that any registration or notification of an instrument has been obtained through fraud, omission or mistake; or
 
-(c) where the court has declared that any instrument which purports to pass any estate or interest in any residential property within the meaning of the Residential Property Act (Cap. 274) is void pursuant to section 24 of that Act.
+(c) where the court has declared that any instrument which purports to pass any estate or interest in any residential property within the meaning of the Residential Property Act [Cap. 274] is void pursuant to section 24 of that Act.
 
 (2) The land-register shall not be rectified so as to affect the registered estate or interest of a proprietor who is in possession unless that proprietor is a party or privy to the omission, fraud or mistake in consequence of which the rectification is sought, or has caused that omission, fraud or mistake or substantially contributed thereto by his act, neglect or default.
 
@@ -2836,7 +2920,7 @@ SEARCHES AND CERTIFIED COPIES
 
 (2) Every such certified copy signed by the Registrar and sealed with his seal shall be received in evidence in any court, or before any person having by law or by consent of parties authority to receive evidence, as prima facie proof of all the matters contained in or entered on the original instrument.
 
-(3) Notwithstanding section 35 of the Evidence Act (Cap. 97), a print-out of any information (other than computer folios) stored in a computer in the Land Titles Registry issued by the Registrar and bearing a facsimile of the Registrar’s seal shall be received in evidence in any court, or before any person having authority by law or by consent of parties to receive evidence, as prima facie proof of all the matters contained in or entered on any instrument filed in the Land Titles Registry.
+(3) Notwithstanding section 35 of the Evidence Act [Cap. 97], a print-out of any information (other than computer folios) stored in a computer in the Land Titles Registry issued by the Registrar and bearing a facsimile of the Registrar’s seal shall be received in evidence in any court, or before any person having authority by law or by consent of parties to receive evidence, as prima facie proof of all the matters contained in or entered on any instrument filed in the Land Titles Registry.
 
 ## PART XIX
 
@@ -2880,7 +2964,7 @@ MISCELLANEOUS
 
 ### Fees and accounts
 
-168\. The Registrar shall be responsible for collecting such fees as are by this Act or any rules made thereunder directed to be paid, and for accounting for them to the Minister in charge of finance, or as otherwise directed by rules.
+168\. The Registrar shall be responsible for collecting such fees as are by this Act or any rules made thereunder directed to be paid, and for accounting for them to the Minister in charge of finance, or as otherwise directed by such rules.
 
 ### Offences and penalties
 
@@ -2896,7 +2980,7 @@ MISCELLANEOUS
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(2) No proceeding or conviction for any act made punishable by subsection (1) shall affect any remedy which any person aggrieved or injured by that act may be entitled to against the person who committed the act or against his estate
+(2) No proceeding or conviction for any act made punishable by subsection (1) shall affect any remedy which any person aggrieved or injured by that act may be entitled to against the person who committed the act or against his estate.
 
 ### Rules
 
@@ -2912,179 +2996,55 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Saving of rights
 
-171\. For the avoidance of doubt, it is hereby declared that nothing in this Act shall affect the rights conferred on the Public Utilities Board by section 15 of the Public Utilities Act (Cap. 261), the Director-General of Public Works by sections 34 and 35 of the Local Government Integration Act (Cap. 166) and the Director of Water Pollution Control and Drainage under section 16 of the Water Pollution Control and Drainage Act (Cap. 348).
+171\. For the avoidance of doubt, it is hereby declared that nothing in this Act shall affect the rights conferred on the Public Utilities Board by section 15 of and the Public Utilities Act [Cap. 261], the Director-General of Public Works by sections 34 and 35 of the Local Government Integration Act [Cap. 166] and the Director of Water Pollution Control and Drainage under section 16 of the Water Pollution Control and Drainage Act [Cap. 348].
 
-### Repeal and savings
+### Savings
 
-172\.—(1) The Land Titles Act (Cap. 157) (in this Part referred to as the repealed Act) is repealed.
+172\.—(1) A reference in this Act to land brought under the provisions of this Act shall include a reference to land which has been brought under the provisions of the repealed Act.
 
-(2) A reference in this Act to land brought under the provisions of this Act shall include a reference to land which has been brought under the provisions of the repealed Act.
+(2) Any register, instrument, index or other document maintained under the repealed Act shall be continued to be maintained under the corresponding provision of this Act or any rules made thereunder.
 
-(3) Any register, instrument, index or other document maintained under the repealed Act shall be continued to be maintained under the corresponding provision of this Act or any rules made thereunder.
+(3) In so far as any entry in a register or instrument was made or other thing whatsoever was done under any provision of the repealed Act, that entry or thing shall have effect as if made or done under the corresponding provision of this Act or any rules made thereunder.
 
-(4) In so far as any entry in a register or instrument was made or other thing whatsoever was done under any provision of the repealed Act, that entry or thing shall have effect as if made or done under the corresponding provision of this Act or any rules made thereunder.
+(4) A reference to a caveat in this Act shall include a reference to a caveat lodged and notified in a folio or the Caveat Index under the provisions of the repealed Act.
 
-(5) A reference to a caveat in this Act shall include a reference to a caveat lodged and notified in a folio or the Caveat Index under the provisions of the repealed Act.
+(5) Any caveat lodged under the repealed Act may, unless it has lapsed or been removed or cancelled in accordance with the provisions of the repealed Act before 1st March 1994, be extended in accordance with the provisions of this Act.
 
-(6) Any caveat lodged under the repealed Act may, unless it has lapsed or been removed or cancelled in accordance with the provisions of the repealed Act before the commencement of this Act, be extended in accordance with the provisions of this Act.
+(6) Any application, instrument or caveat lodged for registration under the provisions of the repealed Act before 1st March 1994 and whose registration was not completed before such date shall, where applicable, be deemed to be an application, instrument or caveat lodged for registration under a corresponding provision of this Act.
 
-(7) Any application, instrument or caveat lodged for registration under the provisions of the repealed Act before the commencement of this Act and whose registration was not completed before such commencement shall, where applicable, be deemed to be an application, instrument or caveat lodged for registration under a corresponding provision of this Act.
-
-(8) Where at any time before the commencement of this Act a person —
+(7) Where at any time before 1st March 1994 a person —
 
 (a) was in adverse possession of any registered land; and
 
-(b) has lodged an application for a possessory title to the land under the provisions of the repealed Act and the application has not been withdrawn but is on such commencement pending in the Land Titles Registry,
+(b) has lodged an application for a possessory title to the land under the provisions of the repealed Act and the application has not been withdrawn but is on such date pending in the Land Titles Registry,
 
-the application shall be dealt with in accordance with the provisions of the repealed Act in force immediately before such commencement.
+the application shall be dealt with in accordance with the provisions of the repealed Act in force immediately before such date.
 
-(9) Where at any time before the commencement of this Act a person —
+(8) Where at any time before 1st March 1994 a person —
 
 (a) was in adverse possession of any registered land; and
 
-(b) was entitled to lodge an application for a possessory title to the land under the provisions of the repealed Act which were in force immediately before such commencement,
+(b) was entitled to lodge an application for a possessory title to the land under the provisions of the repealed Act which were in force immediately before such date,
 
-he may, within 6 months of such commencement make an application to court for an order to vest the title in him or lodge an application for a possessory title to the land and the application shall be dealt with in accordance with the provisions of the repealed Act in force immediately before such commencement.
+he may, within 6 months of such date make an application to court for an order to vest the title in him or lodge an application for a possessory title to the land and the application shall be dealt with in accordance with the provisions of the repealed Act in force immediately before such date.
 
-(10) Section 87 shall not prevent the registration of leases for a term not exceeding 7 years which were executed before the commencement of this Act and any such lease may be registered under the provisions of the repealed Act as if those provisions were never repealed.
+(9) Section 87 shall not prevent the registration of leases for a term not exceeding 7 years which were executed before 1st March 1994 and any such lease may be registered under the provisions of the repealed Act as if those provisions were never repealed.
 
-(11) A person who, immediately before the commencement of this Act, held office as the Registrar of Titles, Deputy Registrar of Titles or Assistant Registrar of Titles shall continue to hold such office as if he had been appointed under section 5.
+(10) A person who, immediately before 1st March 1994, held office as the Registrar of Titles, Deputy Registrar of Titles or Assistant Registrar of Titles shall continue to hold such office as if he had been appointed under section 5.
 
-(12) Any written law or other document referring to the repealed Act shall, as far as may be necessary for preserving its effect, be construed as referring, or as including a reference, to this Act.
+(11) Any written law or other document referring to the repealed Act shall, as far as may be necessary for preserving its effect, be construed as referring, or as including a reference, to this Act.
 
-(13) Except as expressly provided in this section, nothing in this section shall be taken as prejudicing the operation of section 16 of the Interpretation Act (Cap. 1) (which relates to the effect of repeals).
+(12) Except as expressly provided in this section, nothing in this section shall be taken as prejudicing the operation of section 16 of the Interpretation Act [Cap. 1] (which relates to the effect of repeals).
 
 ### Validation of extensions of caveats lodged under repealed Act
 
-173\.—(1) Where at any time before the commencement of this Act a caveat was notified on a folio or the Caveat Index under the provisions of Part XI of the repealed Act and an extension of caveat was notified on the folio or Caveat Index in respect of the same matter dealt with by the caveat notwithstanding that the repealed Act did not provide for caveats to be extended, the caveat shall not lapse until —
+173\.—(1) Where at any time before 1st March 1994 a caveat was notified on a folio or the Caveat Index under the provisions of Part XI of the repealed Act and an extension of caveat was notified on the folio or Caveat Index in respect of the same matter dealt with by the caveat notwithstanding that the repealed Act did not provide for caveats to be extended, the caveat shall not lapse until —
 
-(a) the expiration of a period of 5 years commencing from the date of the lodgment of the extension of caveat which was accepted and notified on the folio; or
+(a) the expiration of a period of 5 years commencing from the date of the lodgment of the extension of caveat which was accepted and notified on the folio or Caveat Index; or
 
-(b) where more than one extension of caveat has been lodged and notified on the folio before the expiry of each 5-year period from the date of the lodgment of the last extension of caveat which was accepted and notified on the folio, the expiration of a period of 5 years from the date of the lodgment of the last extension of caveat which was accepted and notified on the folio.
+(b) where more than one extension of caveat has been lodged and notified on the folio or Caveat Index before the expiry of each 5-year period from the date of the lodgment of the last extension of caveat which was accepted and notified on the folio or Caveat Index, the expiration of a period of 5 years from the date of the lodgment of the last extension of caveat which was accepted and notified on the folio or Caveat Index.
 
-(2) Subsection (1) shall not apply to a caveat where an order has been made by a court before the commencement of this Act in respect of the validity or priority of the caveat.
-
-### Amendment of Conveyancing and Law of Property Act
-
-174\. The Conveyancing and Law of Property Act (Cap. 61) is amended —
-
-(a) by deleting the words “20 years” in the third line of section 3(3) and substituting the words “12 years”;
-
-(b) by deleting the words “30 years” in the second line of section 3(4) and substituting the words “15 years”;
-
-(c) by deleting the words “3 years” in section 53(1) and substituting the words “7 years”;
-
-(d) by deleting subsection (2) of section 53 and substituting the following subsection:
-
-“
-
-(2) This section shall only apply to conveyances executed on or after the commencement of the Land Titles Act 1993.
-
-”;
-
-(e) by inserting, immediately after section 65, the following section:
-
-“
-
-Consideration expressed in instrument authority for payment to solicitor
-
-65A\. Where a solicitor produces an instrument as defined in the Land Titles Act 1993 in which consideration is expressed and which has been executed by the person in whose favour the consideration is payable or has been paid or partly payable and partly paid, that instrument shall be sufficient authority to the person liable to pay or give the same for his paying or giving the same to the solicitor, without the solicitor producing any separate or other direction or authority in that behalf from the person who executed or signed the instrument.
-
-”; and
-
-(f) by inserting, immediately after section 66, the following section:
-
-“
-
-Severance of tenancy in common and joint tenancy
-
-66A\.—(1) Tenants in common who intend to hold their estate or interest in land as joint tenants may jointly declare by a deed of declaration that they hold the estate or interest in their respective shares in the land as joint tenants of the entire estate or interest thereof.
-
-(2) Upon the making of the deed of declaration referred to in subsection (1) —
-
-(a) where all the tenants in common of the entire estate or interest in the land are the declarants — the estate or interest which they held in their respective shares as tenants in common immediately before the making of such deed shall vest in them as joint tenants; or
-
-(b) where not all the tenants in common of the entire estate or interest in the land are the declarants —
-
-(i) the estate or interest which the declarants held in their respective shares as tenants in common immediately before the making of such deed shall vest in the declarants as joint tenants; and
-
-(ii) the declarants and the other tenants in common shall continue to hold their estate or interest in their respective shares as tenants in common.
-
-(3) Without prejudice to any rule or principle of law relating to severance of a joint tenancy, a joint tenant may sever a joint tenancy of an estate or interest in land by a deed of declaration and by serving a copy of the deed of declaration personally or by registered post on the other joint tenants.
-
-(4) Upon the making of the deed of declaration and the service of the deed of declaration pursuant to subsection (3), the respective estates and interests in the land shall be held by the declarant and the remaining joint tenants as tenants in common in their respective shares.
-
-(5) Where a joint tenant holds an estate or interest in land on trust, the severance of the joint tenancy shall not affect the rights of the beneficiary of the trust or the operation of the law relating to breaches of trust.
-
-”.
-
-### Amendment of State Lands Act
-
-175\.—(1) Section 5(1) of the State Lands Act (Cap. 314) is amended —
-
-(a) by deleting the words “under section 8, 12 or 13” in the third line and substituting the words “pursuant to Part II of the Land Titles Act 1993”; and
-
-(b) by deleting the words “section 106” in paragraph (b) and substituting the words “section 109”.
-
-(2) Section 11 of the State Lands Act is repealed and the following section substituted therefor:
-
-“
-
-Issue of State title or Collector’s Certificate pending final survey of land area
-
-11\.—(1) Pending the issue of a grant or lease for any State land, the Collector of Land Revenue may, where the circumstances so require, issue a Collector’s Certificate in respect of any land which has not been surveyed and demarcated to the satisfaction of the Collector of Land Revenue and the survey has not yet been approved by the Chief Surveyor and include a caution as to the inconclusiveness of the boundaries and dimensions of the land.
-
-(2) Notwithstanding subsection (1), the Collector of Land Revenue may, where applicable, issue a grant or lease for any parcel of land notwithstanding that its land area is only an estimated area as shown in a plan filed with and approved by the Chief Surveyor and include a caution as to the inconclusiveness of the boundaries and dimensions of the land.
-
-(3) For the purposes of subsections (1) and (2), the Collector of Land Revenue may require the intended grantee or lessee to engage a registered surveyor to carry out a survey in accordance with the provisions of the Land Surveyors Act (Cap. 156) and the Chief Surveyor shall forward the plan to the Collector of Land Revenue after it has been filed with and approved by the Chief Surveyor.
-
-(4) With regard to all land alienated either under subsection (1) or (2) and which has been taken possession of with the agreement of the Collector of Land Revenue, payment of the rent reserved under an agreement for alienation may be demanded and enforced in like manner as if a grant or lease had been issued for a parcel of land with conclusive land area and boundaries.
-
-”.
-
-### Amendment of Registration of Deeds Act
-
-176\.—(1) Section 8 of the Registration of Deeds Act (Cap. 269) is amended by deleting subsection (2) and substituting the following subsection:
-
-“
-
-(2) Such a caveat shall contain the following particulars:
-
-(a) the names of the caveator and the caveatee and their addresses for the service of notices under this Act;
-
-(b) a description of the estate or interest in the land given to or claimed by the caveator and, if the caveator is the purchaser or sub-purchaser of the estate or interest claimed in the caveat, the amount of the purchase price and the date of the caveator’s contract or the date on which he exercised the option to purchase the interest in the land, as the case may be.
-
-”.
-
-(2) Section 15(1) of the Registration of Deeds Act is amended by deleting paragraphs (a) and (b) and substituting the following paragraphs:
-
-“
-
-(a) if the prior mortgage authorises the making of further advances, or the giving of credit in instalments or on a current, revolving or continuing account or other accommodation; or
-
-(b) where the prior mortgage does not expressly authorise the making of such further advances, or for the giving of credit in instalments or on a current, revolving or continuing account or other accommodation, if the subsequent mortgagee agrees to such further advances being made or such credit or other accommodation being given.
-
-”.
-
-### Amendment of Limitation Act
-
-177\.—(1) Section 9 of the Limitation Act (Cap. 163) is amended by inserting, immediately after subsection (2), the following subsection:
-
-“
-
-(3) This section shall not apply to an action to recover land from a person by reason only of his unauthorised occupation of the land.
-
-”.
-
-(2) Section 16 of the Limitation Act is repealed.
-
-(3) Nothing in this section shall —
-
-(a) enable any action to be brought which was barred by the Limitation Act immediately before the commencement of the Land Titles Act 1993 (referred to in this subsection as the appointed day);
-
-(b) affect any action commenced before the appointed day; or
-
-(c) revive any title to land which was extinguished by the operation of the Limitation Act in force immediately before the appointed day.
+(2) Subsection (1) shall not apply to a caveat where an order has been made by a court before 1st March 1994 in respect of the validity or priority of the caveat.
 
 ## THE SCHEDULE
 
@@ -3102,3 +3062,23 @@ Right of Footway
 
 Full and free right for every person who is at any time entitled to an estate or interest in possession in the land herein indicated as the dominant tenement, and every person authorised by him, to go, pass, and repass, on foot, at all times and for all purposes, without animals or vehicles, to and from that dominant tenement.
 
+## LEGISLATIVE HISTORY
+
+Land Titles Act
+
+(CHAPTER 157)
+
+This Legislative History is provided for the convenience of users of the Land Titles Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 27 of 1993—Land Titles Act 1993**|
+||Date of First Reading|16 November 1992|
+|||(Bill No. 36/92 published on 17 November 1992)|
+||Date of Second Reading|18 January 1993|
+||Date Committed to Select Committee|Parl 3 of 1993 presented to Parliament on 18 August 1993|
+||Date of Third Reading|30 August 1993|
+||Date of commencement|1 March 1994|
+|2.|**1994 Revised Edition—Land Titles Act (Chapter 157)**|
+||(G.N. No. S 435/1995, S 92/1997 — Rectification Order)||
+||Date of operation|30 December 1994|
