@@ -100,7 +100,9 @@ Local Forces
 
 1\. The Singapore Civil Defence Force raised and maintained under the Civil Defence Act (Cap. 42).
 
-2\. The Special Constabulary constituted under section 59 of the Police Force Act (Cap. 235).
+2. The Special Constabulary constituted under Part VIII of the Police Force Act 2004.
+
+[24/2004 wef 12/10/2004]
 
 3\. The Singapore Armed Forces raised and maintained under section 7 of the Singapore Armed Forces Act (Cap. 295).
 
@@ -112,7 +114,7 @@ Local Forces (Relief of Financial Hardship) Act
 
 (CHAPTER 165)
 
-This Legislative History is provided for the convenience of users of the Local Forces (Relief of Financial Hardship) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Local Forces (Relief of Financial Hardship) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -127,3 +129,9 @@ This Legislative History is provided for the convenience of users of the Local F
 ||Date of operation|30 March 1987|
 |4.|**1998 Revised Edition—Local Forces (Relief of Financial Hardship) Act**|
 ||Date of operation|15 December 1998|
+|5.|**Act 24 of 2004—Police Force Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 May 2004|
+|||(Bill No. 22/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|12 October 2004|
