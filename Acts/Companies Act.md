@@ -4,6 +4,8 @@
 
 **Table of Contents**
 
+[**Long Title**](#Companies-Act)
+
 [**Part I PRELIMINARY**](#Part-I)
 
 - [1 Short title](#Short-title)
@@ -492,6 +494,8 @@
 
 - [200 As to accounting periods of companies within the same group](#As-to-accounting-periods-of-companies-within-the-same-group)
 
+- [200A Accounting Standards](#Accounting-Standards)
+
 - [201 Accounts, consolidated accounts and directors’ report](#Accounts-consolidated-accounts-and-directors’-report)
 
 - [201A Consolidated accounts not to be issued, etc., until receipt of accounts of subsidiaries](#Consolidated-accounts-not-to-be-issued-etc-until-receipt-of-accounts-of-subsidiaries)
@@ -674,7 +678,7 @@
 
 [**Division 2  Winding up by Court**](#Division-2--Winding-up-by-Court)
 
-[**Subdivision (1) — General**](#Subdivision-1-—-General)
+[**Division (1) — General**](#Division-1-—-General)
 
 - [253 Application for winding up](#Application-for-winding-up)
 
@@ -812,6 +816,8 @@
 
 - [312 Limitation on right to wind up voluntarily](#Limitation-on-right-to-wind-up-voluntarily)
 
+[**Division 4  Provisions applicable to every mode of winding up**](#Division-4--Provisions-applicable-to-every-mode-of-winding-up)
+
 [**Subdivision (1) — General**](#Subdivision-1-—-General)
 
 - [313 Books to be kept by liquidator](#Books-to-be-kept-by-liquidator)
@@ -843,6 +849,60 @@
 - [325 Meetings to ascertain wishes of creditors or contributories](#Meetings-to-ascertain-wishes-of-creditors-or-contributories)
 
 - [326 Special commission for receiving evidence](#Special-commission-for-receiving-evidence)
+
+[**Subdivision (2) — Proof and ranking of claims**](#Subdivision-2-—-Proof-and-ranking-of-claims)
+
+- [327 Proof of debts](#Proof-of-debts)
+
+- [328 Priorities](#Priorities)
+
+[**Subdivision (3) — Effect on other transactions**](#Subdivision-3-—-Effect-on-other-transactions)
+
+- [329 Undue preference](#Undue-preference)
+
+- [330 Effect of floating charge](#Effect-of-floating-charge)
+
+- [331 Liquidator’s right to recover in respect of certain sales to or by company](#Liquidator’s-right-to-recover-in-respect-of-certain-sales-to-or-by-company)
+
+- [332 Disclaimer of onerous property](#Disclaimer-of-onerous-property)
+
+- [333 Interpretation](#Interpretation)
+
+- [334 Restriction of rights of creditor as to execution or attachment](#Restriction-of-rights-of-creditor-as-to-execution-or-attachment)
+
+- [335 Duties of bailiff as to goods taken in execution](#Duties-of-bailiff-as-to-goods-taken-in-execution)
+
+[**Subdivision (4) — Offences**](#Subdivision-4-—-Offences)
+
+- [336 Offences by officers of companies in liquidation](#Offences-by-officers-of-companies-in-liquidation)
+
+- [337 Inducement to be appointed liquidator](#Inducement-to-be-appointed-liquidator)
+
+- [338 Penalty for falsification of books](#Penalty-for-falsification-of-books)
+
+- [339 Liability where proper accounts not kept](#Liability-where-proper-accounts-not-kept)
+
+- [340 Responsibility for fraudulent trading](#Responsibility-for-fraudulent-trading)
+
+- [341 Power of Court to assess damages against delinquent officers, etc.](#Power-of-Court-to-assess-damages-against-delinquent-officers-etc)
+
+- [342 Prosecution of delinquent officers and members of company](#Prosecution-of-delinquent-officers-and-members-of-company)
+
+[**Subdivision (5) — Dissolution**](#Subdivision-5-—-Dissolution)
+
+- [343 Power of Court to declare dissolution of company void](#Power-of-Court-to-declare-dissolution-of-company-void)
+
+- [344 Power of Registrar to strike defunct company off register](#Power-of-Registrar-to-strike-defunct-company-off-register)
+
+- [345 Official Receiver to act as representative of defunct company in certain events](#Official-Receiver-to-act-as-representative-of-defunct-company-in-certain-events)
+
+- [346 Outstanding assets of defunct company to vest in Official Receiver](#Outstanding-assets-of-defunct-company-to-vest-in-Official-Receiver)
+
+- [347 Outstanding interests in property how disposed of](#Outstanding-interests-in-property-how-disposed-of)
+
+- [348 Liability of Official Receiver and Government as to property vested in Official Receiver](#Liability-of-Official-Receiver-and-Government-as-to-property-vested-in-Official-Receiver)
+
+- [349 Accounts and audit](#Accounts-and-audit)
 
 [**Division 5  Winding up of unregistered companies**](#Division-5--Winding-up-of-unregistered-companies)
 
@@ -1017,6 +1077,12 @@
 (CHAPTER 50)
 
 (Original Enactment: Act 42 of 1967)
+
+REVISED EDITION 1994
+
+(15th March 1994)
+
+An Act relating to companies.
 
 [29th December 1967]
 
@@ -1228,6 +1294,10 @@ Division 3 — Miscellaneous sections 410-411.
 4\.—(1) In this Act, unless the contrary intention appears —
 
 “accounting records”, in relation to a corporation, includes such working papers and other documents as are necessary to explain the methods and calculations by which accounts of the corporation are made up;
+
+“Accounting Standards” means the Accounting Standards prescribed under section 200A(1)(a);
+
+[12/2002 wef 15/08/2002]
 
 “accounts” means profit and loss accounts and balance-sheets and includes notes (other than auditors’ reports or directors’ reports) attached or intended to be read with any of those profit and loss accounts or balance-sheets;
 
@@ -1485,11 +1555,9 @@ any shares in or debentures of, or any units of shares in or debentures of, a co
 
 (4) For the purposes of this Act, a statement shall be deemed to be included in a statement in lieu of prospectus if it is contained in any report or memorandum appearing on the face thereof or by reference incorporated therein or issued therewith.
 
-### Invitation to lend money deemed invitation to purchase debentures
+Invitation to lend money deemed invitation to purchase debentures
 
 (5)
-
-[40/89]
 
 (5) For the purposes of this Act, any invitation to the public to deposit money with or lend money to a corporation (other than a prescribed corporation referred to in section 239(4) of the Securities and Futures Act 2001) shall be deemed to be an invitation to subscribe for or purchase debentures of the corporation.
 
@@ -1502,6 +1570,8 @@ any shares in or debentures of, or any units of shares in or debentures of, a co
 As to what constitutes an offer to the public
 
 (6)
+
+(6) [Deleted by Act 42/2001 wef 01/07/2002]
 
 (7) Unless the contrary intention appears any reference in this Act to a person being or becoming bankrupt or to a person assigning his estate for the benefit of his creditors or making an arrangement with his creditors under any written law relating to bankruptcy or to a person being an undischarged bankrupt or to any status, condition, act, matter or thing under or in relation to the law of bankruptcy shall be construed as including a reference to a person being or becoming bankrupt or insolvent or to a person making any such assignment or arrangement or to a person being an undischarged bankrupt or insolvent or to the corresponding status, condition, act, matter or thing (as the case requires) under any written law relating to bankruptcy or insolvency.
 
@@ -6852,6 +6922,24 @@ Accounts
 
 [S 258/67]
 
+### Accounting Standards
+
+200A\.—(1) There shall be established a body (referred to in this section as the Accounting Standards Committee) which shall be responsible for —
+
+(a) prescribing by way of regulations and with the Minister’s approval, statements of standard accounting practice applicable to companies to be referred to as the Accounting Standards; and
+
+(b) carrying out such duties as the Minister may prescribe from time to time.
+
+(2) The Accounting Standards Committee shall consist of such persons as the Minister may appoint and may be known by such other name as the Minister may determine.
+
+(3) The Accounting Standards Committee may from time to time issue practice directions on the interpretation of the Accounting Standards and on matters relating to them and their use in Singapore.
+
+(4) Regulations made under this section may contain such transitional and other supplementary and incidental provisions as appear to the Accounting Standards Committee to be appropriate.
+
+(5) The Minister may, from time to time, give such directions to the Accounting Standards Committee as he considers fit on any matter within the purview of the Committee, and the Committee shall comply with such direction.
+
+[12/2002 wef 15/08/2002]
+
 ### Accounts, consolidated accounts and directors’ report
 
 201\.—(1) The directors of every company shall, at a date not later than 18 months after the incorporation of the company and subsequently at least once in every calendar year at intervals of not more than 15 months, lay before the company at its annual general meeting a profit and loss account for the period since the preceding account (or in the case of the first account, since the incorporation of the company) made up to a date —
@@ -8958,7 +9046,7 @@ Division 2 —
 
 Winding up by Court
 
-Subdivision (1) — General
+Division (1) — General
 
 ### Application for winding up
 
@@ -10082,6 +10170,10 @@ Subdivision (4) — Provisions applicable to every voluntary winding up
 
 [Aust.s.276.]
 
+Division 4 —
+
+Provisions applicable to every mode of winding up
+
 Subdivision (1) — General
 
 ### Books to be kept by liquidator
@@ -10297,6 +10389,500 @@ he shall forthwith pay those moneys to the Official Receiver to be placed to the
 [U.K.s.348.]
 
 [Aust. s. 290.]
+
+Subdivision (2) — Proof and ranking of claims
+
+### Proof of debts
+
+327\.—(1) In every winding up (subject in the case of insolvent companies to the application in accordance with the provisions of this Act of the law of bankruptcy) all debts payable on a contingency, and all claims against the company, present or future, certain or contingent, ascertained or sounding only in damages, shall be admissible to proof against the company, a just estimate being made, so far as possible, of the value of such debts or claims as are subject to any contingency or sound only in damages, or for some other reason do not bear a certain value.
+
+(2) Subject to section 328, in the winding up of an insolvent company the same rules shall prevail and be observed with regard to the respective rights of secured and unsecured creditors and debts provable and the valuation of annuities and future and contingent liabilities as are in force for the time being under the law relating to bankruptcy in relation to the estates of bankrupt persons, and all persons, who in any such case would be entitled to prove for and receive dividends out of the assets of the company, may come in under the winding up and make such claims against the company as they respectively are entitled to by virtue of this section.
+
+[U.K.ss.316,317.]
+
+[Aust. s. 291.]
+
+### Priorities
+
+328\.—(1) Subject to the provisions of this Act, in a winding up there shall be paid in priority to all other unsecured debts —
+
+(a) firstly, the costs and expenses of the winding up including the taxed costs of a petitioner payable under section 256, the remuneration of the liquidator and the costs of any audit carried out pursuant to section 317;
+
+(b) secondly, subject to subsection (2), all wages or salary (whether or not earned wholly or in part by way of commission) including any amount payable by way of allowance or reimbursement under any contract of employment or award or agreement regulating conditions of employment of any employee;
+
+(c) thirdly, subject to subsection (2) all amounts due to an employee as a retrenchment benefit or ex gratia payment under any contract of employment or award or agreement that regulates conditions of employment whether such amount becomes payable before, on or after the commencement of the winding up;
+
+(d) fourthly, all amounts due in respect of workmen’s compensation under the Workmen’s Compensation Act accrued before, on or after the commencement of the winding up;
+
+(e) fifthly, all amounts due in respect of contributions payable during the 12 months next before, on or after the commencement of the winding up by the company as the employer of any person under any written law relating to employees superannuation or provident funds or under any scheme of superannuation which is an approved scheme under the law relating to income tax;
+
+(f) sixthly, all remuneration payable to any employee in respect of vacation leave, or in the case of his death to any other person in his right, accrued in respect of any period before, on or after the commencement of the winding up; and
+
+(g) seventhly, the amount of all tax assessed and all goods and services tax due under any written law before the date of the commencement of the winding up or assessed at any time before the time fixed for the proving of debts has expired.
+
+[31/93]
+
+(2) The amount payable under subsection (1)(b) and (c) shall not exceed an amount that is equivalent to 5 months’ salary whether for time or piecework in respect of services rendered by him to the company or $7,500, which ever is the lesser.
+
+[22/93]
+
+(2A) The Minister may, by order published in theGazette, amend subsection (2) by varying the amount specified in that subsection as the maximum amount payable under subsection (1)(b) (c).
+
+[22/93]
+
+(2B)(a) For the purposes of subsection (1)(b) and (c) —
+
+“employee” means a person who has entered into or works under a contract of service with an employer and includes a subcontractor of labour;
+
+“wages or salary” shall be deemed to include —
+
+(i) all arrears of money due to a subcontractor of labour;
+
+(ii) any amount payable to an employee on account of wages or salary during a period of notice of termination of employment or in lieu of notice of such termination, as the case may be, whether such amount becomes payable before, on or after the commencement of the winding up; and
+
+(iii) any amount payable to an employee, on termination of his employment, as a gratuity under any contract of employment, or under any award or agreement that regulates conditions of employment whether such amount becomes payable before, on or after the commencement of the winding up.
+
+[22/93]
+
+(b)
+
+For the purposes of subsection (1)(c) —
+
+“ex gratia payment” means the amount payable to an employee on the winding up of a company or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and the amount payable to an employee for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be;
+
+“retrenchment benefit” means the amount payable to an employee on the winding up of a company, on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, the the amount payable to an employee for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be, or if no amount is stipulated therein, such amount as is stipulated by the Commissioner for Labour.
+
+(3) The debts in each class, specified in subsection (1), shall rank in the order therein specified but as between debts of the same class shall rank equally between themselves, and shall be paid in full, unless the property of the company is insufficient to meet them, in which case they shall abate in equal proportions between themselves.
+
+(4) Where any payment has been made to any employee of the company on account of wages, salary or vacation leave out of money advanced by a person for that purpose, the person by whom the money was advanced shall, in a winding up, have a right of priority in respect of the money so advanced and paid, up to the amount by which the sum in respect of which the employee would have been entitled to priority in the winding up has been diminished by reason of the payment, and shall have the same right of priority in respect of that amount as the employee would have had if the payment had not been made.
+
+(5) So far as the assets of the company available for payment of general creditors are insufficient to meet any preferential debts specified in subsection (1)(a), (b), (c), (e) and (f) and any amount payable in priority by virtue of subsection (4), those debts shall have priority over the claims of the holders of debentures under any floating charge created by the company (which charge, as created, was a floating charge), and shall be paid accordingly out of any property comprised in or subject to that charge.
+
+[22/93]
+
+(6) Where the company is under a contract of insurance (entered into before the commencement of the winding up) insured against liability to third parties, then if any such liability is incurred by the company (either before or after the commencement of the winding up) and an amount in respect of that liability is or has been received by the company or the liquidator from the insurer the amount shall, after deducting any expenses of or incidental to getting in such amount, be paid by the liquidator to the third party in respect of whom the liability was incurred to the extent necessary to discharge that liability or any part of that liability remaining undischarged in priority to all payments in respect of the debts referred to in subsection (1).
+
+(7) If the liability of the insurer to the company is less than the liability of the company to the third party, nothing in subsection (6) shall limit the rights of the third party in respect of the balance.
+
+(8) Subsections (6) and (7) shall have effect notwithstanding any agreement to the contrary entered into after 29th December 1967.
+
+[S 258/67]
+
+(9) Notwithstanding anything in subsection (1) —
+
+(a) paragraph (d) of that subsection shall not apply in relation to the winding up of a company in any case where the company is being wound up voluntarily merely for the purpose of reconstruction or of amalgamation with another company and the right to the compensation has on the reconstruction or amalgamation been preserved to the person entitled thereto, or where the company has entered into a contract with an insurer in respect of any liability under any law relating to workmen’s compensation; and
+
+(b) where a company has given security for the payment or repayment of any amount to which paragraph (g) of that subsection relates, that paragraph shall apply only in relation to the balance of any such amount remaining due after deducting therefrom the net amount realised from such security.
+
+[22/93]
+
+[22/93]
+
+(10) Where in any winding up assets have been recovered under an indemnity for costs of litigation given by certain creditors, or have been protected or preserved by the payment of moneys or the giving of indemnity by creditors, or where expenses in relation to which a creditor has indemnified a liquidator have been recovered, the Court may make such order as it thinks just with respect to the distribution of those assets and the amount of those expenses so recovered with a view to giving those creditors an advantage over others in consideration of the risks run by them in so doing.
+
+[U.K.s.319.]
+
+[Aust. s. 292.]
+
+[15/84]
+
+[13/87]
+
+[22/93]
+
+Subdivision (3) — Effect on other transactions
+
+### Undue preference
+
+329\.—(1) Subject to this Act and such modifications as may be prescribed, any transfer, mortgage, delivery of goods, payment, execution or other act relating to property made or done by or against a company which, had it been made or done by or against an individual, would in his bankruptcy be void or voidable under section 98, 99 or 103 of the Bankruptcy Act 1995 (read with sections 100, 101 and 102 thereof) shall in the event of the company being wound up be void or voidable in like manner.
+
+(2) For the purposes of this section, the date which corresponds with the date of presentation of the bankruptcy petition in the case of an individual shall be —
+
+(a) in the case of a winding up by the Court —
+
+(i) the date of the presentation of the petition; or
+
+(ii) where before the presentation of the petition a resolution has been passed by the company for voluntary winding up, the date upon which the resolution to wind up the company voluntarily is passed,
+
+whichever is the earlier; and
+
+(b) in the case of a voluntary winding up, the date upon which the winding up is deemed by this Act to have commenced.
+
+(3) Any transfer or assignment by a company of all its property to trustees for the benefit of all its creditors shall be void.
+
+[U.K.s.320.]
+
+[Aust. s. 293.]
+
+[15/95]
+
+### Effect of floating charge
+
+330\. A floating charge on the undertaking or property of the company created within 6 months of the commencement of the winding up shall, unless it is proved that the company immediately after the creation of the charge was solvent, be invalid except to the amount of any cash paid to the company at the time of or subsequently to the creation of and in consideration for the charge together with interest on that amount at the rate of 5% per annum.
+
+[U.K.s.322.]
+
+[Aust. s. 294.]
+
+### Liquidator’s right to recover in respect of certain sales to or by company
+
+331\.—(1) Where any property, business or undertaking has been acquired by a company for a cash consideration within a period of two years before the commencement of the winding up of the company —
+
+(a) from a person who was at the time of the acquisition a director of the company; or
+
+(b) from a company of which, at the time of the acquisition, a person was a director who was also a director of the first-mentioned company,
+
+the liquidator may recover from the person or company from which the property, business or undertaking was acquired any amount by which the cash consideration for the acquisition exceeded the value of the property, business or undertaking at the time of its acquisition.
+
+(2) Where any property, business or undertaking has been sold by a company for a cash consideration within a period of two years before the commencement of the winding up of the company —
+
+(a) to a person who was at the time of the sale a director of the company; or
+
+(b) to a company of which at the time of the sale a person was a director who was also a director of the company first-mentioned in this subsection,
+
+the liquidator may recover from the person or company to which the property, business or undertaking was sold any amount by which the value of the property, business or undertaking at the time of the sale exceeded the cash consideration.
+
+(3) For the purposes of this section, the value of the property, business or undertaking includes the value of any goodwill or profits which might have been made from the business or undertaking or similar considerations.
+
+(4) In this section “cash consideration”, in relation to an acquisition or sale by a company, means consideration for such acquisition or sale payable otherwise than by the issue of shares in the company.
+
+[Aust.s.295.]
+
+### Disclaimer of onerous property
+
+332\.—(1) Where any part of the property of a company consists of —
+
+(a) any estate or interest in land which is burdened with onerous covenants;
+
+(b) shares in corporations;
+
+(c) unprofitable contracts; or
+
+(d) any other property that is unsaleable, or not readily saleable, by reason of its binding the possessor thereof to the performance of any onerous act, or to the payment of any sum of money,
+
+the liquidator of the company, notwithstanding that he has endeavoured to sell or has taken possession of the property or exercised any act of ownership in relation thereto, may, with the leave of the Court or the committee of inspection and, subject to this section, by writing signed by him, at any time within 12 months after the commencement of the winding up or such extended period as is allowed by the Court, disclaim the property; but where any such property has not come to the knowledge of the liquidator within one month after the commencement of the winding up, the power of disclaiming may be exercised at any time within 12 months after he has become aware thereof or such extended period as is allowed by the Court.
+
+(2) The disclaimer shall operate to determine, as from the date of disclaimer, the rights, interest and liabilities of the company and the property of the company in or in respect of the property disclaimed, but shall not, except so far as is necessary for the purpose of releasing the company and the property of the company from liability, affect the rights or liabilities of any other person.
+
+(3) The Court or the committee before or on granting leave to disclaim may require such notices to be given to persons interested, and impose such terms as a condition of granting leave, and make such other order in the matter as the Court or committee thinks just.
+
+(4) The liquidator shall not be entitled to disclaim if an application in writing has been made to him by any person interested in the property requiring him to decide whether he will or will not disclaim, and the liquidator has not, within a period of 28 days after the receipt of the application or such further period as is allowed by the Court or the committee, given notice to the applicant that he intends to apply to the Court or the committee for leave to disclaim, and, in the case of a contract, if the liquidator after such an application in writing does not within that period or further period disclaim the contract the liquidator shall be deemed to have adopted it.
+
+(5) The Court may, on the application of a person who is, as against the liquidator, entitled to the benefit or subject to the burden of a contract made with the company, make an order rescinding the contract on such terms as to payment by or to either party of damages for the non-performance of the contract, or otherwise as the Court thinks just, and any damages payable under the order to that person may be proved by him as a debt in the winding up.
+
+(6) The Court may, on the application of a person who either claims any interest in any disclaimed property or is under any liability not discharged by this Act in respect of any disclaimed property and on hearing such persons as it thinks fit, make an order for the vesting of the property in or the delivery of the property to any person entitled thereto, or to whom it seems just that the property should be delivered by way of compensation for such liability as aforesaid, or a trustee for him, and on such terms as the Court thinks just, and on any such vesting order being made and an office copy thereof being lodged with the Registrar and with the Official Receiver and if the order relates to land with the appropriate authority concerned with the recording or registration of dealings in that land, as the case requires, the property comprised therein shall vest accordingly in the person therein named in that behalf without any further conveyance, transfer or assignment.
+
+(7) Notwithstanding anything in subsection (6), where the property disclaimed is of a leasehold nature, the Court shall not make a vesting order in favour of any person claiming under the company, whether as under-lessee or as mortgagee, except upon the terms of making that person —
+
+(a) subject to the same liabilities and obligations as those to which the company was subject under the lease in respect of the property at the commencement of the winding up; or
+
+(b) if the Court thinks fit, subject only to the same liabilities and obligations as if the lease had been assigned to that person at that date,
+
+and in either event, if the case so requires, as if the lease had comprised only the property comprised in the vesting order, and any under-lessee or mortgagee declining to accept a vesting order upon such terms shall be excluded from all interest in and security upon the property, and, if there is no person claiming under the company who is willing to accept an order upon such terms, the Court may vest the estate and interest of the company in the property in any person liable personally or in a representative character and either alone or jointly with the company to perform the lessee’s covenants in the lease, freed and discharged from all estates, incumbrances and interests created therein by the company.
+
+(8) Any person injured by the operation of a disclaimer under this section shall be deemed to be a creditor of the company to the amount of the injury, and may accordingly prove the amount as a debt in the winding up.
+
+[U.K.s.323.]
+
+[Aust. s. 296.]
+
+### Interpretation
+
+333\. For the purposes of sections 334 and 335 —
+
+“goods” includes all chattels personal;
+
+“bailiff” includes any officer charged with the execution of a writ or other process.
+
+[Aust.s.297.]
+
+### Restriction of rights of creditor as to execution or attachment
+
+334\.—(1) Where a creditor has issued execution against the goods or land of a company or has attached any debt due to the company and the company is subsequently wound up, he shall not be entitled to retain the benefit of the execution or attachment against the liquidator unless he has completed the execution or attachment before the date of the commencement of the winding up, but —
+
+(a) where any creditor has had notice of a meeting having been called at which a resolution for voluntary winding up is to be proposed, the date on which the creditor so had notice shall for the purposes of this section be substituted for the date of the commencement of the winding up;
+
+(b) a person who purchases in good faith under a sale by the bailiff any goods of a company on which an execution has been levied shall in all cases acquire a good title to them against the liquidator; and
+
+(c) the rights conferred by this subsection on the liquidator may be set aside by the Court in favour of the creditor to such extent and subject to such terms as the Court thinks fit.
+
+(2) For the purposes of this section —
+
+(a) an execution against goods is completed by seizure and sale;
+
+(b) an attachment of a debt is completed by receipt of the debt; and
+
+(c) an execution against land is completed by sale or, in the case of an equitable interest, by the appointment of a receiver.
+
+[U.K.s.325.]
+
+[Aust. s. 298.]
+
+### Duties of bailiff as to goods taken in execution
+
+335\.—(1) Subject to subsection (3), where any goods of a company are taken in execution and, before the sale thereof or the completion of the execution by the receipt or recovery of the full amount of the levy, notice is served on the bailiff that a provisional liquidator has been appointed or that a winding up order has been made or that a resolution for voluntary winding up has been passed, the bailiff shall, on being so required, deliver the goods and any money seized or received in part satisfaction of the execution to the liquidator, but the costs of the execution shall be a first charge on the goods or moneys so delivered, and the liquidator may sell the goods, or a sufficient part thereof, for the purpose of satisfying that charge.
+
+(2) Subject to subsection (3), where under an execution in respect of a judgment for a sum exceeding $100 the goods of a company are sold or money is paid in order to avoid sale, the bailiff shall deduct the costs of the execution from the proceeds of the sale or the money paid and retain the balance of 14 days; and if within that time notice is served on him of a petition for the winding up of the company having been presented or of a meeting having been called at which there is to be proposed a resolution for the voluntary winding up and an order is made or a resolution is passed for the winding up, the bailiff shall pay the balance to the liquidator who shall be entitled to retain it as against the execution creditor.
+
+(3) The rights conferred by this section on the liquidator may be set aside by the Court in favour of the creditor to such extent and subject to such terms as the Court thinks fit.
+
+[U.K.s.326.]
+
+[Aust. s. 299.]
+
+Subdivision (4) — Offences
+
+### Offences by officers of companies in liquidation
+
+336\.—(1) Every person who, being a past or present officer or a contributory of a company which is being wound up —
+
+(a) does not to the best of his knowledge and belief fully and truly disclose to the liquidator all the property movable and immovable of the company, and how and to whom and for what consideration and when the company disposed of any part thereof, except such part as has been disposed of in the ordinary way of the business of the company;
+
+(b) does not deliver up to the liquidator, or as he directs —
+
+(i) all the movable and immovable property of the company in his custody or under his control and which he is required by law to deliver up; or
+
+(ii) all books and papers in his custody or under his control belonging to the company and which he is required by law to deliver up;
+
+(c) within 12 months next before the commencement of the winding up or at any time thereafter —
+
+(i) has concealed any part of the property of the company to the value of $200 or upwards, or has concealed any debt due to or from the company;
+
+(ii) has fraudulently removed any part of the property of the company to the value of $200 or upwards;
+
+(iii) has concealed, destroyed, mutilated or falsified, or has been privy to the concealment, destruction, mutilation or falsification of, any book or paper affecting or relating to the property or affairs of the company;
+
+(iv) has made or has been privy to the making of any false entry in any book or paper affecting or relating to the property or affairs of the company;
+
+(v) has fraudulently parted with, altered or made any omission in, or has been privy to fraudulent parting with, altering or making any omission in, any document affecting or relating to the property or affairs of the company;
+
+(vi) by any false representation or other fraud, has obtained any property for or on behalf of the company on credit which the company has not subsequently paid for;
+
+(vii) has obtained on credit, for or on behalf of the company, under the false pretence that the company is carrying on its business, any property which the company has not subsequently paid for; or
+
+(viii) has pawned, pledged or disposed of any property of the company which has been obtained on credit and has not been paid for, unless such pawning, pledging or disposing was in the ordinary way of the business of the company;
+
+(d) makes any material omission in any statement relating to the affairs of the company;
+
+(e) knowing or believing that a false debt has been proved by any person fails for a period of one month to inform the liquidator thereof;
+
+(f) prevents the production of any book or paper affecting or relating to the property or affairs of the company;
+
+(g) within 12 months next before the commencement of the winding up or at any time thereafter, has attempted to account for any part of the property of the company by fictitious losses or expenses; or
+
+(h) within 12 months next before the commencement of the winding up or at any time thereafter, has been guilty of any false representation or other fraud for the purpose of obtaining the consent of the creditors of the company or any of them to an agreement with reference to the affairs of the company or to the winding up,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
+
+(2) It shall be a good defence to a charge under subsection (1)(a), (b), (d) or subsection (1)(c)(i), (vii) or (viii) if the accused proves that he had no intent to defraud, and to a charge under subsection (1)(f) or subsection (1)(c)(iii) or (iv) if he proves that he had no intent to conceal the state of affairs of the company or to defeat the law.
+
+(3) Where any person pawns, pledges or disposes of any property in circumstances which amount to an offence under subsection (1)(c)(viii), every person who takes in pawn or pledge or otherwise receives the property knowing it to be pawned, pledged or disposed of in those circumstances shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
+
+[15/84]
+
+[U.K.s.328.]
+
+[Aust. s. 300.]
+
+[13/87]
+
+### Inducement to be appointed liquidator
+
+337\. Any person who gives or agrees or offers to give to any member or creditor of a company any valuable consideration with a view to securing his own appointment or nomination, or to securing or preventing the appointment or nomination of some person other than himself, as the company’s liquidator shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months.
+
+[U.K.s.336.]
+
+[Aust. s. 301 (1).]
+
+[15/84]
+
+### Penalty for falsification of books
+
+338\. Every officer or contributory of any company being wound up who destroys, mutilates, alters or falsifies any books, papers or securities, or makes or is privy to the making of any false or fraudulent entry in any register or book of account or document belonging to the company with intend to defraud or deceive any person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
+
+[U.K.s.329.]
+
+[Aust. s. 301(2).]
+
+[15/84]
+
+### Liability where proper accounts not kept
+
+339\.—(1) If, on an investigation under any other Part or where a company is wound up, it is shown that proper books of account were not kept by the company throughout the period of two years immediately preceding the commencement of the investigation or winding up or the period between the incorporation of the company and the commencement of the investigation or winding up (whichever is the lesser) every officer who is in default shall, unless he acted honestly and shows that, in the circumstances in which the business of the company was carried on, the default was excusable, be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
+
+(2) For the purposes of this section, proper books of account shall be deemed not to have been kept in the case of any company if there have not been kept such books or accounts as are necessary to exhibit and explain the transactions and financial position of the trade or business of the company, including books containing entries from day to day in sufficient detail of all cash received and cash paid, and, where the trade or business has involved dealings in goods, statements of the annual stocktakings and (except in the case of goods sold by way of ordinary retail trade) of all goods sold and purchased, showing the goods and the buyers and sellers thereof in sufficient detail to enable those goods and those buyers and sellers to be identified or if such books or accounts have not been kept in such manner as to enable them to be conveniently and properly audited, whether or not the company has appointed an auditor.
+
+(3) If, in the course of the winding up of a company or in any proceedings against a company, it appears that an officer of the company who was knowingly a party to the contracting of a debt had, at the time the debt was contracted, no reasonable or probable ground of expectation, after taking into consideration the other liabilities, if any, of the company at the time of the company being able to pay the debt, the officer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months.
+
+[U.K.s.331.]
+
+[Aust. s. 303.]
+
+[15/84]
+
+### Responsibility for fraudulent trading
+
+340\.—(1) If, in the course of the winding up of a company or in any proceedings against a company, it appears that any business of the company has been carried on with intent to defraud creditors of the company or creditors of any other person or for any fraudulent purpose, the Court, on the application of the liquidator or any creditor or contributory of the company, may, if it thinks proper to do so, declare that any person who was knowingly a party to the carrying on of the business in that manner shall be personally responsible, without any limitation of liability, for all or any of the debts or other liabilities of the company as the Court directs.
+
+(2) Where a person has been convicted of an offence under section 339(3) in relation to the contracting of such a debt as is referred to in that subsection, the Court, on the application of the liquidator or any creditor or contributory of the company, may, if it thinks proper to do so, declare that the person shall be personally responsible without any limitation of liability for the payment of the whole or any part of that debt.
+
+(3) Where the Court makes any declaration pursuant to subsection (1) or (2), it may give such further directions as it thinks proper for the purpose of giving effect to that declaration, and in particular may make provision for making the liability of any person under the declaration a charge on any debt or obligation due from the company to him, or on any charge or any interest in any charge on any assets of the company held by or vested in him or any corporation or person on his behalf, or any person claiming as assignee from or through the person liable or any corporation or person acting on his behalf, and may from time to time make such further order as is necessary for the purpose of enforcing any charge imposed under this subsection.
+
+(4) For the purpose of subsection (3), assignee includes any person to whom or in whose favour by the directions of the person liable the debt, obligation or charge was created, issued or transferred or the interest created, but does not include an assignee for valuable consideration (not including consideration by way of marriage) given in good faith and without notice of any of the matters on the ground of which the declaration is made.
+
+(5) Where any business of a company is carried on with the intent or for the purpose mentioned in subsection (1), every person who was knowingly a party to the carrying on of the business with that intent or purpose shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 7 years or to both.
+
+[15/84]
+
+(6) Subsection (5) shall apply to a company whether or not it has been, or is in the course of being, wound up.
+
+[15/84]
+
+(7) This section shall have effect notwithstanding that the person concerned is criminally liable apart from this section in respect of the matters on the ground of which the declaration is made.
+
+(8) On the hearing of an application under subsection (1) or (2), the liquidator may himself give evidence or call witnesses.
+
+[U.K.s.332.]
+
+[Aust. s. 304.]
+
+### Power of Court to assess damages against delinquent officers, etc.
+
+341\.—(1) If, in the course of winding up, it appears that any person who has taken part in the formation or promotion of the company or any past or present liquidator or officer has misapplied or retained or become liable or accountable for any money or property of the company or been guilty of any misfeasance or breach of trust or duty in relation to the company, the Court may on the application of the liquidator or of any creditor or contributory examine into the conduct of such person, liquidator or officer and compel him to repay or restore the money or property or any part thereof with interest at such rate as the Court thinks just, or to contribute such sum to the assets of the company by way of compensation in respect of the misapplication, retainer, misfeasance or breach of trust or duty as the Court thinks just.
+
+(2) This section shall extend and apply to and in respect of the receipt of any money or property by any officer of the company during the two years preceding the commencement of the winding up whether by way of salary or otherwise appearing to the Court to be unfair or unjust to other members of the company.
+
+(3) This section shall have effect notwithstanding that the offence is one for which the offender is criminally liable.
+
+[U.K.s.333.]
+
+[Aust. s. 305.]
+
+### Prosecution of delinquent officers and members of company
+
+342\.—(1) If it appears to the Court, in the course of a winding up by the Court, that any past or present officer, or any member, of the company has been guilty of an offence in relation to the company for which he is criminally liable, the Court may, either on the application of any person interested in the winding up or of its own motion, direct the liquidator to prosecute the offender or to refer the matter to the Minister.
+
+(2) If it appears to the liquidator, in the course of a voluntary winding up, that any past or present officer, or any member, of the company has been guilty of any offence in relation to the company for which he is criminally liable, he shall forthwith report the matter to the Minister and shall, in respect of information or documents in his possession or under his control which relate to the matter in question, furnish the Minister with such information and give to him such access to and facilities for inspecting and taking copies of any documents as he may require.
+
+(3) If it appears to the liquidator, in the course of any winding up, that the company which is being wound up will be unable to pay its unsecured creditors more than 50 cents in the dollar, the liquidator shall forthwith report the matter in writing to the Official Receiver and shall furnish the Official Receiver with such information and give to him such access to and facilities for inspecting and taking copies of any document as the Official Receiver may require.
+
+(4) Where any report is made under subsection (2) or (3), the Minister may, if he thinks fit, investigate the matter and for the purposes of such an investigation shall have all such powers of investigating the affairs of the company as are provided by this Act in the case of a winding up by the Court, but if it appears to him that the case is not one in which proceedings ought to be taken by him he shall inform the liquidator accordingly, and thereupon, subject to the previous approval of the Court the liquidator may himself take proceedings against the offender.
+
+[13/87]
+
+(5) If it appears to the Court in the course of a voluntary winding up that any past or present officer, or any member, of the company has been guilty as aforesaid and that no report with respect to the matter has been made by the liquidator to the Minister, the Court may, on the application of any person interested in the winding up or of its own motion, direct the liquidator to make such a report, and on a report being made accordingly this section shall have effect as though the report has been made in pursuance of subsection (2).
+
+(6) If, where any matter is reported or referred to the Minister or the Official Receiver under this section, he considers that the case is one in which a prosecution ought to be instituted, he may institute proceedings accordingly, and the liquidator and every officer and agent of the company past and present, other than the defendant in the proceedings, shall give the Minister or the Official Receiver all assistance in connection with the prosecution which he is reasonably able to give.
+
+(7) For the purposes of subsection (6), agent, in relation to a company, includes any banker or solicitor of the company and any person employed by the company as auditor, whether or not an officer of the company.
+
+(8) If any person fails or neglects to give assistance in the manner required by subsection (6), the Court may, on the application of the Minister or the Official Receiver, direct that person to comply with the requirements of that subsection, and where any application is made under this subsection with respect to a liquidator the Court may, unless it appears that the failure or neglect to comply was due to the liquidator not having in his hands sufficient assets of the company to enable him to do so, direct that the costs of the application shall be borne by the liquidator personally.
+
+(9) The Minister may direct that the whole or any part of any costs and expenses properly incurred by the liquidator in proceedings brought under this section shall be defrayed out of moneys provided by Parliament.
+
+(10) Subject to any direction given under subsection (9) and to any charges on the assets of the company and any debts to which priority is given by this Act, all such costs and expenses shall be payable out of those assets as part of the costs of winding up.
+
+[U.K.s.334.]
+
+[Aust. s. 306.]
+
+Subdivision (5) — Dissolution
+
+### Power of Court to declare dissolution of company void
+
+343\.—(1) Where a company has been dissolved, the Court may at any time within two years after the date of dissolution, on application of the liquidator of the company or of any other person who appears to the Court to be interested, make an order upon such terms as the Court thinks fit declaring the dissolution to have been void, and thereupon such proceedings may be taken as might have been taken if the company had not been dissolved.
+
+(2) The person on whose application the order was made shall, within 7 days after the making of the order or such further time as the Court allows, lodge with the Registrar and with the Official Receiver an office copy of the order and if he fails to do so shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+[15/84]
+
+[U.K.s.352.]
+
+[Aust. s. 307.]
+
+### Power of Registrar to strike defunct company off register
+
+344\.—(1) Where the Registrar has reasonable cause to believe that a company is not carrying on business or is not in operation, he may send to the company by post a letter to that effect and stating that if an answer showing cause to the contrary is not received within one month from the date thereof a notice will be published in theGazettewith a view to striking the name of the company off the register.
+
+(2) Unless the Registrar receives an answer within one month from the date of the letter to the effect that the company is carrying on business or is in operation, he may publish in theGazetteand send to the company by registered post a notice that at the expiration of 3 months from the date of that notice the name of the company mentioned therein will unless cause is shown to the contrary be struck off the register and the company will be dissolved.
+
+(3) If in any case where a company is being wound up the Registrar has reasonable cause to believe that —
+
+(a) no liquidator is acting;
+
+(b) the affairs of the company are fully wound up and for a period of 6 months the liquidator has been in default in lodging any return required to be made by him; or
+
+(c) the affairs of the company have been fully wound up under Division 2 and there are no assets or the assets available are not sufficient to pay the costs of obtaining an order of the Court dissolving the company,
+
+he may publish in theGazetteand send to the company or the liquidator, if any, a notice to the same effect as that referred to in subsection (2).
+
+(4) At the expiration of the time mentioned in the notice, the Registrar may, unless cause to the contrary is previously shown, strike the name of the company off the register, and shall publish notice thereof in theGazette, and on the publication in theGazetteof the notice the company shall be dissolved; but —
+
+(a) the liability, if any, of every officer and member of the company shall continue and may be enforced as if the company had not been dissolved; and
+
+(b) nothing in this subsection shall affect the power of the Court to wind up a company the name of which has been struck off the register.
+
+(5) If any person feels aggrieved by the name of the company having been struck off the register, the Court, on an application made by the person at any time within 15 years after the name of the company has been so struck off may, if satisfied that the company was, at the time of the striking off, carrying on business or in operation or otherwise that it is just that the name of the company be restored to the register, order the name of the company be restored to the register, and upon an office copyof the order being lodged with the Registrar the company shall be deemed to have continued in existence as if its name had not been struck off, and the Court may by the order give such directions and make such provisions as seem just for placing the company and all other persons in the same position as nearly as may be as if the name of the company had not been struck off.
+
+(6) A notice to be sent under this section to a liquidator may be addressed to the liquidator at his last known place of business, and a letter or notice to be sent under this section to a company may be addressed to the company at its registered office or, if no office has been registered, to the care of some officer of the company, or, if there is no officer of the company whose name and address are known to the Registrar, may be sent to each of the persons who subscribed the memorandum of the company addressed to him at the address mentioned in the memorandum.
+
+[U.K.s.353.]
+
+[Aust. s. 308.]
+
+### Official Receiver to act as representative of defunct company in certain events
+
+345\.—(1) Where, after a company has been dissolved, it is proved to the satisfaction of the Official Receiver —
+
+(a) that the company, if still existing, would be legally or equitably bound to carry out, complete or give effect to some dealing, transaction or matter; and
+
+(b) that in order to carry out, complete or give effect thereto some purely administrative act, not discretionary, should have been done by or on behalf of the company, or should be done by or on behalf of the company, if still existing,
+
+the Official Receiver may, as representing the company or its liquidator under this section, do or cause to be done any such act.
+
+(2) The Official Receiver may execute or sign any relevant instrument or document adding a memorandum stating that he has done so in pursuance of this section, and such execution or signature shall have the same force, validity and effect as if the company if existing had duly executed such instrument or document.
+
+[Aust.s.309.]
+
+### Outstanding assets of defunct company to vest in Official Receiver
+
+346\.—(1) Where, after a company has been dissolved, there remains any outstanding property, movable or immovable, including things in action and whether in or outside Singapore which was vested in the company or to which it was entitled, or over which it had a disposing power at the time it was so dissolved, but which was not got in, realised upon or otherwise disposed of or dealt with by the company or its liquidator, such property except called and uncalled capital, shall, for the purposes of the following sections of this Subdivision and notwithstanding any written law or rule of law to the contrary, by the operation of this section, be and become vested in the Official Receiver for all the estate and interest therein legal or equitable of the company or its liquidator at the date the company was dissolved, together with all claims, rights and remedies which the company or its liquidator then had in respect thereof.
+
+(2) Where any claim, right or remedy of the liquidator may under this Act be made, exercised or availed of only with the approval or concurrence of the Court or some other person, the Official Receiver may for the purposes of this section make, exercise or avail himself of that claim, right or remedy without such approval or concurrence.
+
+[Aust.s.310.]
+
+### Outstanding interests in property how disposed of
+
+347\.—(1) Upon proof to the satisfaction of the Official Receiver that there is vested in him by operation of section 346 or by operation of any corresponding previous written law or of a law of a designated country corresponding with section 354 any estate or interest in property, whether solely or together with any other person, of a beneficial nature and not merely held in trust, the Official Receiver may sell or otherwise dispose of or deal with such estate or interest or any part thereof as he sees fit.
+
+(2) The Official Receiver may sell or otherwise dispose of or deal with such property either solely or in concurrence with any other person in such manner for such consideration by public auction, public tender or private contract upon such terms and conditions as he thinks fit, with power to rescind any contract and resell or otherwise dispose of or deal with such property as he thinks expedient, and may make, execute, sign and give such contracts, instruments and documents as he thinks necessary.
+
+(3) The Official Receiver shall be remunerated by such commission, whether by way of percentage or otherwise, as is prescribed in respect of the exercise of the powers conferred upon him by subsection (1).
+
+(4) The moneys received by the Official Receiver in the exercise of any of the powers conferred on him by this Subdivision shall be applied in defraying all costs, expenses, commission and fees incidental thereto and thereafter to any payment authorised by this Subdivision and the surplus, if any, shall be dealt with as if they were unclaimed moneys paid to the Official Receiver in pursuance of section 322.
+
+[Aust.s.311.]
+
+### Liability of Official Receiver and Government as to property vested in Official Receiver
+
+348\. Property vested in the Official Receiver by operation of this Subdivision or by operation of any corresponding previous written law shall be liable and subject to all charges, claims and liabilities imposed thereon or affecting such property by reason of any statutory provision as to rates, taxes, charges or any other matter or thing to which such property would have been liable or subject had such property continued in the possession, ownership or occupation of the company; but there shall not be imposed on the Official Receiver or the Government any duty, obligation or liability whatsoever to do or suffer any act or thing required by any such statutory provision to be done or suffered by the owner or occupier other than the satisfaction or payment of any such charges, claims or liabilities out of the assets of the company so far as they are in the opinion of the Official Receiver properly available for and applicable to such payment.
+
+[Aust.s.312.]
+
+### Accounts and audit
+
+349\.—(1) The Official Receiver shall —
+
+(a) record in a register a statement of any property coming to his hand or under his control or to his knowledge vested in him by operation of this Subdivision and of his dealings therewith;
+
+(b) keep accounts of all moneys arising therefrom and of how they have been disposed of; and
+
+(c) keep all accounts, vouchers, receipts and papers relating to such property and moneys.
+
+(2) The Auditor-General shall have all the powers in respect of such accounts as are conferred upon him by any Act relating to audit of public accounts.
+
+[Aust.s.313.]
 
 Division 5 —
 
@@ -11378,6 +11964,8 @@ Miscellaneous
 
 (b) all matters connected with or arising out of the judicial management of a company by a judicial manager including the appointment of the judicial manager;
 
+(ba) [Deleted by Act 42/2001 wef 01/07/2002]
+
 (c) the lodging or registration of documents and the time and manner of submission of documents for lodging or registration;
 
 (d) prescribing forms for the purposes of this Act;
@@ -11755,8 +12343,6 @@ If the Registrar decides to supply the information by means other than written o
 51. For supplying information to any authorised person for purposes of selling packaged information or information on a bulk basis
 
 $0.80 per prescribed particular of a company.
-
-[S 29/2001 wef 22/01/2001]
 
 [20030113]
 
@@ -13186,3 +13772,8 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|1 July 2002|
 |58.|**G. N. No. S 239/2002—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2002**|
 ||Date of commencement|1 July 2002|
+|59.|**Act 12 of 2002—Companies (Amendment) Act 2002**|
+||Date of First Reading|23 May 2002|
+|||(Bill No. 16/2002 published on 24 May 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Dates of commencement|15 August 2002 (sections 2(a) and 36)|
