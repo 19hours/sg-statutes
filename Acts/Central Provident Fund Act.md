@@ -482,7 +482,9 @@ CONTRIBUTIONS TO FUND
 
 (a) deposited in a bank or banks approved by the Board;
 
-(b) invested in any of the investments authorised by law for the investment of trust money and the Board shall have power to convert the same into cash; or
+(b) invested in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap.1); or
+
+[45/2004 wef 15/12/2004]
 
 (c) used for the purchase of any property and for the construction of buildings for the purposes of the Board or for letting to derive income therefrom and the Board may dispose of all or any part of the property or buildings.
 
@@ -4277,9 +4279,7 @@ Self-employed Persons
 
 15\. Films Act (Cap. 107).
 
-15A. Financial Advisers Act (Cap. 110).
-
-[S 660/2004 wef 01/11/2004]
+15A\. Financial Advisers Act (Cap. 110).
 
 16\. Fisheries Act (Cap. 111).
 
@@ -4826,6 +4826,12 @@ This Legislative History is provided for the convenience of users of the Central
 ||Dates of commencement|1 July 2004 (sections 3, 6 and 10(a))|
 |136.|**G.N. No. S 660/2004—Central Provident Fund Act (Amendment of Third Schedule) (No. 2) Notification 2004**|
 ||Date of commencement|1 November 2004|
+|137.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
