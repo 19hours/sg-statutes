@@ -78,11 +78,15 @@
 
 - [30 Approval of directors and principal officers of insurers](#Approval-of-directors-and-principal-officers-of-insurers)
 
+- [30A Restriction on granting of unsecured loans to directors and employees of insurer](#Restriction-on-granting-of-unsecured-loans-to-directors-and-employees-of-insurer)
+
 - [31 General obligation to furnish information](#General-obligation-to-furnish-information)
 
 [**Subsidiary**](#Subsidiary)
 
 - [32 Insurance agents and brokers](#Insurance-agents-and-brokers)
+
+- [32A Inspection and investigation of affairs of insurance agents and brokers](#Inspection-and-investigation-of-affairs-of-insurance-agents-and-brokers)
 
 - [33 Authority may prohibit insurance agents and brokers from carrying on business](#Authority-may-prohibit-insurance-agents-and-brokers-from-carrying-on-business)
 
@@ -166,7 +170,7 @@
 
 - [62 Regulations](#Regulations)
 
-- [63 Accounting periods of insurers](#Accounting-periods-of-insurers)
+- [63 (Repealed)](#Repealed)
 
 - [64 Miscellaneous definitions](#Miscellaneous-definitions)
 
@@ -204,7 +208,9 @@ PRELIMINARY
 
 (a) life business, which in addition to all insurance business concerned with life policies shall include, in the case of any insurer, any type of insurance business carried on as incidental only to the insurer’s other life business; and
 
-(b) general business, that is to say, all insurance business which is not life business.
+(b) general business, that is to say, all insurance business which is not life business, and shall include the effecting and carrying out by any person, not being a person licensed under the Monetary Authority of Singapore Act (Cap. 186), Banking Act (Cap. 19), Finance Companies Act (Cap. 108), Securities Industry Act (Cap. 289) or Futures Trading Act (Cap. 116), of contracts for fidelity bonds, performance bonds, administration bonds, bail bonds or customs bonds or similar contracts of guarantee, being contracts effected by way of business (and not merely incidental to some other business carried on by the person effecting them) in return for the payment of one or more premiums.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (2) For the purposes of this Act, the reinsurance of liabilities under insurance policies shall be treated as insurance business of the class and type to which the policies would have belonged if they had been issued by the reinsurer.
 
@@ -282,9 +288,23 @@ Registration of Singapore insurers
 
 (2) Upon receiving an application under subsection (1), the Authority shall consider the application and may, subject to section 8, register the applicant with or without conditions or refuse to register it.
 
-(3) A registration under this section may be restricted to reinsurance business.
+(3) The Authority may register the applicant as a direct insurer, reinsurer or captive insurer.
 
-(4) The Authority shall cause notice of any registration of a Singapore insurer to be published in theGazette.
+[Act 32 of 1993 wef 31/12/1993]
+
+(4) The Authority shall cause notice of any registration or change of name of a Singapore insurer to be published in theGazette.
+
+[Act 32 of 1993 wef 31/12/1993]
+
+(5) For the purposes of this Act —
+
+“captive insurer” means an insurer whose registration is restricted to the carrying on of business which consists principally of risks of its related companies, and includes a rent-a-captive insurer;
+
+“direct insurer” means any insurer other than a reinsurer or a captive insurer;
+
+“reinsurer” means an insurer whose registration is restricted to the carrying on of reinsurance business.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 [4
 
@@ -386,9 +406,11 @@ Deposits, registers of policies and insurance funds
 
 ### Deposits
 
-13\.—(1) A Singapore insurer, while registered in respect of any class of insurance business, shall at all times have in respect of that class of business a deposit with the Authority of a value of not less than $500,000.
+13\.—(1) A Singapore insurer, while registered in respect of any class of insurance business, shall at all times have in respect of that class of business a deposit with the Authority of a value of not less than $500,000 or such other amount as may be prescribed.
 
 [11/86]
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (2) A deposit under subsection (1) shall be made in assets of such nature as the Authority may specify.
 
@@ -396,7 +418,9 @@ Deposits, registers of policies and insurance funds
 
 (4) A deposit made under this section in respect of any class of business shall be retained by the Authority until either the insurer ceases to be registered in respect of that class of insurance business or the deposit is required in the winding up of the affairs of the insurer; and if the insurer ceases to be registered in respect of any class of insurance, the deposit or part of it may be further retained for the purpose of and in accordance with any such provision for liabilities in respect of policies as is required by section 11(4).
 
-(5) Where the value of the deposit made by an insurer under subsection (1) in respect of any class of business is less than $500,000 at any time, the Authority may by notice in writing direct the insurer to add thereto within 28 days of the service of the notice such assets as the Authority may specify of a value not less than the difference.
+(5) Where the value of the deposit made by an insurer under subsection (1) in respect of any class of business is less than $500,000 or the amount prescribed at any time, the Authority may by notice in writing direct the insurer to add thereto within 28 days of the service of the notice such assets as the Authority may specify of a value not less than the difference.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (6) An insurer which has made a deposit under this section may at any time substitute for any assets comprised in the deposit such other assets as the Authority may specify so long as the value of the deposit is not thereby reduced to an amount below that which is required by this Act.
 
@@ -454,21 +478,61 @@ and this Act shall thereafter apply in relation to the policy as if it were not 
 
 [11/86]
 
-(2) The Authority may require any registered insurer to establish and maintain, in addition to the insurance funds under subsection (1), such other insurance fund as the Authority may determine for different types of policies in respect of each class of business.
+(1A) If, in the case of a direct insurer registered to carry on life business, no part of the surplus of assets over liabilities from its non-participating policies is allocated by the insurer by way of bonus to its participating policies, the insurer shall, in addition to the insurance funds under subsection (1) and subject to such conditions as the Authority may impose, establish and maintain a separate insurance fund —
+
+(a) for its participating policies; and
+
+(b) for its non-participating policies.
+
+[Act 32 of 1993 wef 31/12/1993]
+
+(2) The Authority may require any registered insurer to establish and maintain, in addition to the insurance funds under subsections (1) and (1A) such other insurance fund as the Authority may determine for different types of policies in respect of each class of business.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (3) There shall be paid into an insurance fund all receipts of the insurer properly attributable to the business to which the fund relates (including the income of the fund), and the assets comprised in the fund shall be applicable only to meet such part of the insurer’s liabilities and expenses as is properly so attributable but shall not be applied to meet any levies payable by the insurer under section 46.
 
-(4) In the case of an insurance fund established in respect of life business, no part of the fund shall be allocated by way of bonus to participating policies except with the approval of a qualified actuary and out of a surplus of assets over liabilities as shown on the last statutory valuation of the fund; and on the making of any such allocation that surplus shall be treated for purposes of this section as reduced by the amount allocated.
+(4) In the case of an insurance fund which comprises wholly or partly of participating life policies, no part of the fund shall be allocated by way of bonus to those policies except with the approval of an actuary and out of a surplus of assets over liabilities as shown on the last statutory valuation of the fund; and on the making of any such allocation that surplus shall be treated for the purposes of this section as reduced by the amount allocated.
 
-(5) If on the last statutory valuation in the case of an insurance fund established in respect of life business there was shown a surplus of assets over liabilities of the fund, there may, subject to the approval of a qualified actuary and to any provision to the contrary in any instrument or contract binding the insurer, be withdrawn from the fund an amount not exceeding the surplus, and on the making of any such withdrawal that surplus shall be treated for the purposes of this section as reduced by the amount withdrawn:
+[Act 32 of 1993 wef 31/12/1993]
 
-Provided that no part of the surplus attributable to participating policies other than reinsurance policies shall be withdrawn in excess of one quarter of the amount allocated thereout by way of bonus to participating policies.
+(5) Subject to subsection (5A), if on the last statutory valuation in the case of an insurance fund which comprises wholly or partly of participating life policies, there was shown a surplus (as reduced under subsection (4)) of assets over liabilities of the fund, there may, subject to the approval of an actuary and to any provision to the contrary in any instrument or contract binding the insurer, be allocated to the shareholders or withdrawn from the fund an amount not exceeding the surplus, and on the making of any such allocation that surplus shall be treated for the purposes of this section as reduced by the amount allocated.
+
+[Act 32 of 1993 wef 31/12/1993]
+
+(5A) No part of the surplus shall be allocated under subsection (5) in any year in excess of the relevant percentage of the sum of —
+
+(a) the amount allocated in accordance with subsection (5); and
+
+(b) the amount allocated thereout by way of bonus to participating life policies in accordance with subsection (4) within that year.
+
+[Act 32 of 1993 wef 31/12/1993]
+
+(5B) For the purposes of subsection (5A), the relevant percentage —
+
+(a) in relation to 1993 is 18%;
+
+(b) in relation to 1994 is 16%;
+
+(c) in relation to 1995 is 14%;
+
+(d) in relation to 1996 is 12%; and
+
+(e) in relation to 1997 and any subsequent year is 10%.
+
+[Act 32 of 1993 wef 31/12/1993]
+
+(5C) If on the last statutory valuation in the case of an insurance fund established wholly in respect of non-participating life policies there was shown a surplus of assets over liabilities of the fund, there may, subject to any provision to the contrary in any instrument or contract binding the insurer, be withdrawn from the fund an amount not exceeding the surplus, and on the making of any such withdrawal that surplus shall, for the purposes of this section, be treated as reduced by the amount withdrawn.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (6) If in the last statutory balance-sheet in the case of an insurance fund established in respect of general business there was shown a surplus of assets over liabilities of the fund, there may, subject to any provision to the contrary in any instrument or contract binding the insurer, be withdrawn from the fund an amount not exceeding the excess of the surplus over any fund margin of solvency prescribed for that fund under section 17, and on the making of any such withdrawal that surplus shall for the purposes of this section be treated as reduced by the amount withdrawn.
 
 (7) In respect of any policy belonging to the insurer’s life business which is under section 15(4) removed from the insurer’s register of Singapore policies there may be withdrawn from an insurance fund to which the policy relates an amount not exceeding the prescribed amount.
 
-(8) Any amount withdrawn from an insurance fund under subsection (5), (6) or (7) and, in a winding up, any part of an insurance fund remaining after meeting the liabilities and expenses to which the fund is applicable may be dealt with as if it had not formed part of the fund except that in the case of a winding up where any other insurance fund of the insurer under this Act is in deficit the surplus remaining after the winding up shall first be applied to make good the deficit in that fund.
+(8) Any amount withdrawn from an insurance fund under subsection (5), (5C), (6) or (7) and, in a winding up, any part of an insurance fund remaining after meeting the liabilities and expenses to which the fund is applicable may be dealt with as if it had not formed part of the fund except that in the case of a winding up where any other insurance fund of the insurer under this Act is in deficit the surplus remaining after the winding up shall first be applied to make good the deficit in that fund.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (9) In a winding up, assets comprised in the deposit made by an insurer under section 13 in respect of either class of business may be allocated by the Authority to any insurance fund established by the insurer for that class of business in such manner and proportion as it sees fit, and assets so allocated shall be treated as assets of that insurance fund, and subsections (3) and (8) shall apply to those assets accordingly.
 
@@ -566,7 +630,9 @@ that value and amount being determined in accordance with any applicable valuati
 
 (4) A requirement imposed under this section may be framed so as to come into effect immediately after the day on which it is imposed or so as to come into effect after the expiration of a specified period or such longer period as the Authority may allow.
 
-(5) In this section, any reference to a domestic liability is a reference to a liability of the insurance business carried on by the registered insurer in Singapore.
+(5) In this section, any reference to a domestic liability is a reference to a liability of the insurance business carried on by the registered insurer in Singapore, including the margins of solvency prescribed under section 17.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (6) Subject to subsection (7), in computing the amount of any liabilities for the purposes of this section all contingent and prospective liabilities shall be taken into account but not liabilities in respect of share capital.
 
@@ -602,21 +668,27 @@ Miscellaneous requirements as to conduct of business
 
 ### Regulation of premiums under life policies
 
-23\.—(1) A Singapore insurer shall not issue a life policy of any description being a Singapore policy or an offshore policy, if the premium chargeable under the policy is not in accordance with rates fixed with the approval of a qualified actuary or, where no rates have been so fixed for policies of that description issued by the insurer, is not a premium approved for the policy by a qualified actuary.
+23\.—(1) A Singapore insurer shall not issue a life policy of any description being a Singapore policy or an offshore policy, if the premium chargeable under the policy is not in accordance with rates fixed with the approval of an actuary or, where no rates have been so fixed for policies of that description issued by the insurer, is not a premium approved for the policy by an actuary.
 
 [11/86]
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (2) An actuary shall not for the purposes of this section approve a premium for a policy or a rate of premium for any description of policy, unless he is satisfied that it is suitable and in accordance with sound insurance principles.
 
 (3) An actuary in giving his approval in respect of any description of life policy shall have regard to the maximum rate of commission proposed to be paid or allowed to any person in respect of that description of policy, and shall certify the maximum rate.
 
-(4) Where in the case of any insurer a rate of premium is approved by a qualified actuary for any description of life policy, the insurer shall not, except with the approval of the Authority, pay or allow in respect of any policy of that description a commission at a rate greater than the maximum rate of commission certified by the actuary.
+(4) Where in the case of any insurer a rate of premium is approved by an actuary for any description of life policy, the insurer shall not, except with the approval of the Authority, pay or allow in respect of any policy of that description a commission at a rate greater than the maximum rate of commission certified by the actuary.
 
 [11/86]
 
-(5) The Authority may by notice in writing require any Singapore insurer to obtain and furnish it within a time specified in the notice with a report by a qualified actuary as to the suitability of the rates of premium for the time being chargeable by the insurer for any description of life policy, and if the actuary considers that the rates are not suitable or not in accordance with sound insurance principles, a report as to the rates of premium which the actuary approves for that description of policy; and for the purposes of subsection (1) regard shall be had to any such report to the exclusion of any previous approval or report.
+[Act 32 of 1993 wef 31/12/1993]
+
+(5) The Authority may by notice in writing require any Singapore insurer to obtain and furnish it within a time specified in the notice with a report by an actuary as to the suitability of the rates of premium for the time being chargeable by the insurer for any description of life policy, and if the actuary considers that the rates are not suitable or not in accordance with sound insurance principles, a report as to the rates of premium which the actuary approves for that description of policy; and for the purposes of subsection (1) regard shall be had to any such report to the exclusion of any previous approval or report.
 
 [11/86]
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (6) For each occasion on which an insurer issues a policy or allows a commission in contravention of this section, the insurer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
@@ -778,7 +850,17 @@ unless the insurer satisfies the Authority that that person is a fit and proper 
 
 [11/86]
 
-(2) Any person aggrieved by any decision of the Authority under subsection (1) may appeal to the High Court.
+(1A) A direct insurer registered to carry on life business shall appoint a person as actuary of the insurer to perform such duties as may be prescribed.
+
+[Act 32 of 1993 wef 31/12/1993]
+
+(1B) The appointment of the actuary by a direct insurer under subsection (1A) shall be made by the board of directors of the insurer in writing and shall be subject to the approval of the Authority.
+
+[Act 32 of 1993 wef 31/12/1993]
+
+(2) Any person aggrieved by any decision of the Authority under subsection (1) or (1B) may appeal to the High Court.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (3) In this section —
 
@@ -787,6 +869,18 @@ unless the insurer satisfies the Authority that that person is a fit and proper 
 “principal officer”, in relation to a registered insurer, means any person by whatever name called employed by the insurer to be directly responsible for the conduct of any class of insurance business of the insurer in Singapore.
 
 [17E
+
+### Restriction on granting of unsecured loans to directors and employees of insurer
+
+30A\.—(1) No registered insurer shall in respect of its business in Singapore grant, whether directly or indirectly, unsecured loans —
+
+(a) to a director of the insurer which in the aggregate and outstanding at any one time exceed the sum of $5,000; or
+
+(b) to an employee of the insurer which in the aggregate and outstanding at any time exceed one year’s emolument of that employee.
+
+(2) For the purpose of this section, “director” includes the wife, husband, father, mother, son or daughter of a director.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 ### General obligation to furnish information
 
@@ -810,11 +904,25 @@ Subsidiary
 
 (4) Where in any particular case the Authority is satisfied that, by reason of the exceptional nature of the risk or other exceptional circumstances, it is not reasonably practicable to effect an insurance for that case with a Singapore insurer acting in the course of his business as such, the Authority may permit any insurance broker to negotiate the insurance with such insurer as the broker sees fit and also, if in the opinion of the Authority the case requires it, to effect the insurance and receive the premium in Singapore on behalf of the insurer.
 
-(5) The Authority may inspect books and records kept by any Singapore insurance agent and Singapore insurance broker and may for this purpose enter any premises at all reasonable times.
+(5) For the purpose of subsection (3), “risks outside Singapore” means any risk which would be classified as an offshore policy as defined in the First Schedule had the risk been underwritten by a registered insurer in Singapore.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (6) Sections 24 and 31 shall apply in relation to Singapore insurance agents and to Singapore insurance brokers as they apply in relation to Singapore insurers.
 
 [19
+
+### Inspection and investigation of affairs of insurance agents and brokers
+
+32A\.—(1) The Authority may, for the purpose of performing its functions under this Act, inspect the books, accounts and other documents of any Singapore insurance agent or Singapore insurance broker and may institute an investigation into the whole or any part of the insurance business carried on in Singapore by the agent or broker and may for this purpose enter any premises at all reasonable times.
+
+(2) Section 40(3) shall apply, mutatis mutandis, in relation to any Singapore insurance agent or Singapore insurance broker to which this section applies.
+
+(3) Any person who refuses or fails when required to do so under section 40(3), as made applicable by subsection (2), to produce any document in his custody shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
+
+(4) This section shall not apply to any financial institution licensed under the Monetary Authority of Singapore Act (Cap. 186), Banking Act (Cap. 19), Finance Companies Act (Cap. 108), Securities Industry Act (Cap. 289) or Futures Trading Act (Cap. 116) and such other person as may be prescribed.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 ### Authority may prohibit insurance agents and brokers from carrying on business
 
@@ -844,19 +952,15 @@ Subsidiary
 
 (5) The deposit required by this section from an association shall be such as is mentioned in the Second Schedule, and that Schedule shall have effect in relation thereto.
 
-(6) After the end of 6 months from the commencement of this Act, this section shall not authorise a person to carry on business as a Singapore insurance agent for any individual, or in the course of a business as Singapore insurance broker to negotiate insurances with any individual, except under the authority of a licence issued by the Authority or in respect of any risk for which the broker has been permitted under section 32 to negotiate with any insurer; and for each calendar year in which a person acts under the authority of such a licence, he shall before the end of June in the following year lodge with the Authority a statement in the prescribed form, signed by him or on his behalf and giving the prescribed information as to his receipts and payments in connection with business done under that authority.
+(6) This section shall not authorise a person to carry on business as a Singapore insurance agent for any individual, or in the course of a business as Singapore insurance broker to negotiate insurances with any individual, except under the authority of a licence issued by the Authority or in respect of any risk for which the broker has been permitted under section 32 to negotiate with any insurer.
 
-[11/86]
+[Act 32 of 1993 wef 31/12/1993]
 
-(7) Where a person fails to lodge a statement as required by subsection (6), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and in the case of a continuing offence to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(7) Any person who desires to obtain a licence under subsection (6) shall apply to the Authority in writing and shall furnish such information as the Authority may require.
 
-(8) The Authority shall not be required to consider an application for a licence under subsection (6) unless it is satisfied —
+[Act 32 of 1993 wef 31/12/1993]
 
-(a) that the person applying for a licence to carry on business as a Singapore insurance agent for any individual has a surplus of assets over liabilities of not less than $100,000 or such greater amount as may be prescribed; and
-
-(b) that the person applying for a licence to carry on business as Singapore insurance broker in negotiating insurances with any individual has furnished a certificate of solvency signed by the applicant’s auditor and has a professional indemnity insurance policy of a value of not less than $500,000 or such greater amount as the Authority may specify.
-
-[22/73]
+(8) [Deleted by Act 32 of 1993 wef 31/12/1993]
 
 (9) In granting a licence under subsection (6) the Authority may impose such conditions as it thinks fit and may at any time add to, vary or revoke such conditions.
 
@@ -868,7 +972,9 @@ Subsidiary
 
 (b) the agent or broker has ceased to carry on the business for which it is licensed;
 
-(c) there exists a ground on which the Authority would not be required to consider an application for a licence by the agent or broker under subsection (8);
+(c) the agent or broker has failed to maintain the minimum financial solvency requirement as specified by the Authority in its licence;
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (d) the agent or broker proposes to make, or has made, any composition or arrangement with its creditors or has gone into liquidation or has been wound up or otherwise dissolved;
 
@@ -929,7 +1035,9 @@ Returns
 
 [11/86]
 
-(2) A registered insurer shall cause to be kept such books and records as will sufficiently explain the transactions and financial position of the insurer in Singapore and enable the insurer to comply with the requirements of this section and section 37, and shall cause those books and records to be kept in such manner as to enable them to be conveniently and properly audited.
+(2) A registered insurer shall cause to be kept in Singapore such books and records as will sufficiently explain the transactions and financial position of the insurer in Singapore and enable the insurer to comply with the requirements of this section and section 37, and shall cause those books and records to be kept in such manner as to enable them to be conveniently and properly audited.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (3) A registered insurer shall have its accounts audited for each accounting period for which statements of account are prepared in accordance with regulations prescribed under subsection (1).
 
@@ -981,7 +1089,9 @@ he shall immediately report the matter to the Authority.
 
 ### Actuarial investigations and reports as to life business
 
-37\.—(1) Subject to this section, an insurer registered under this Act in respect of life business shall once in a period of 12 months have an investigation made by a qualified actuary into the financial condition of its life business and shall lodge with the Authority such abstract of the actuary’s report and certificate relating thereto and such statements as to that business as are prescribed under section 36(1).
+37\.—(1) Subject to this section, an insurer registered under this Act in respect of life business shall once in a period of 12 months have an investigation made by an actuary into the financial condition of its life business and shall lodge with the Authority such abstract of the actuary’s report and certificate relating thereto and such statements as to that business as are prescribed under section 36(1).
+
+[Act 32 of 1993 wef 31/12/1993]
 
 [11/86]
 
@@ -1045,7 +1155,7 @@ Inspections and Investigations
 
 [11/86]
 
-(2) The costs and expenses of any investigation under subsection (1) shall be paid by the insurer.
+(2) [Deleted by Act 32 of 1993 wef 31/12/1993]
 
 (3) In making an inspection or investigation under this section, the Authority may, by notice in writing, require —
 
@@ -1059,9 +1169,11 @@ to produce for its inspection, and allow it to copy the whole or any part of any
 
 Provided that a requirement under this subsection shall extend only to documents relating to business carried on by the insurer in Singapore, or evidencing the insurer’s title to assets held for the purposes of any such business.
 
-(4) In making an investigation under this section, the Authority may require any such individual as is specified in subsection (3) to attend before it and be examined on oath with respect to the insurer’s business, and for the purposes of this subsection may administer oaths.
+(4) [Deleted by Act 32 of 1993 wef 31/12/1993]
 
-(5) Any person who refuses or fails when required to do so under subsection (3) or (4) to produce any document in his custody or to attend for or submit to examination by the Authority or any person appointed by it, or to answer any question put to him on such examination shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and in the case of a continuing offence to a further fine of $1,000 for every day during which the offence continues after conviction.
+(5) Any person who refuses or fails when required to do so under subsection (3) to produce any document in his custody shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine of $1,000 for every day during which the offence continues after conviction.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 [27
 
@@ -1291,9 +1403,11 @@ Provided that —
 
 [11/86]
 
-(2) The Authority may cause a report on the scheme to be made by a qualified actuary independent of the parties to the scheme and, if it does so, shall cause a copy of the report to be sent to each of the insurers concerned.
+(2) The Authority may cause a report on the scheme to be made by an actuary independent of the parties to the scheme and, if it does so, shall cause a copy of the report to be sent to each of the insurers concerned.
 
 [11/86]
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (3) Copies of the scheme and any such report as is mentioned in subsection (1)(a) or (2), or summaries approved by the Authority of the scheme and any such report, shall, except in so far as the High Court upon application made in that behalf otherwise directs, be transmitted by the insurers concerned, at least 15 days before application is made for confirmation of the scheme, to every policy owner affected by the scheme.
 
@@ -1319,7 +1433,13 @@ Provided that —
 
 (b) a copy of the scheme as confirmed by the court, and a certified copy of the order of the court confirming the scheme;
 
-(c) copies of any actuarial or other reports upon which the scheme was founded (being reports made since a copy of the scheme was lodged under section 48(1)); and
+(c) copies of any actuarial or other reports upon which the scheme was founded (being reports made since a copy of the scheme was lodged under section 48(1));
+
+[Act 32 of 1993 wef 31/12/1993]
+
+(ca) a statement from an auditor of the transferee who satisfies the conditions mentioned in section 36(4)(a) and (b) certifying that the assets and liabilities of the transferor relating to the business transferred have been assumed and accounted for in the books of the transferee; and
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (d) a statutory declaration made by the chairman of directors of the transferee, or by its principal officer in Singapore, fully setting forth every payment made or to be made to any person on account of the transfer, and stating that, to the best of his belief, no other payment beyond those so set forth has been, or is to be, made on account thereof by or with the knowledge of any insurer concerned.
 
@@ -1357,9 +1477,11 @@ Administration and enforcement
 
 ### Annual reports
 
-52\.—(1) Not later than the end of April in any calendar year the Authority shall prepare and submit to the Minister a report on the working of this Act during the preceding calendar year.
+52\.—(1) Not later than the end of June in any calendar year the Authority shall prepare and submit to the Minister a report on the working of this Act during the preceding calendar year.
 
 [11/86]
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (2) The Authority shall include in its report under this section for any year copies or summaries of documents lodged with it in that year under sections 36 and 37, other than documents excepted from section 39(1) and (2), and may include copies or summaries of documents accompanying those lodged; and it may also include in the report such notes on any such documents or summaries as it thinks fit, and copies of any correspondence between it and an insurer about any such documents lodged by or received from the insurer.
 
@@ -1391,7 +1513,9 @@ Administration and enforcement
 
 55\.—(1) Any person who —
 
-(a) signs any document lodged with the Authority under section 34(6), 36, 37 or 49(1)(a); or
+(a) signs any document lodged with the Authority under section 36, 37 or 49(1)(a); or
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (b) furnishes the Authority with any information under or for the purposes of any other provision of this Act,
 
@@ -1399,7 +1523,9 @@ shall use due care to secure that the document or information is not false in an
 
 [11/86]
 
-(2) Any person who is guilty of any breach of a duty imposed on him by this Act as being or having been an insurer or an insurance agent or broker shall, in a case where no other punishment is provided for by this Act or by the regulations, be liable on conviction to a fine not exceeding $5,000 and in the case of a continuing offence to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(2) Any person who is guilty of any breach of a duty imposed on him by this Act or any regulations made thereunder or any direction issued by the Authority under section 62(2) as being or having been an insurer or an insurance agent or broker shall, in a case where no other punishment is provided for by this Act or any regulations made thereunder or by the regulations, be liable on conviction to a fine not exceeding $5,000 and in the case of a continuing offence to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 (3) Where an offence under this Act or any regulations made thereunder is committed by any company or body corporate, any person who at the time of the commission of the offence is a director, manager, secretary or other similar officer of that company or body, or is purporting to act in that capacity, shall be guilty of the offence unless he proves that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
 
@@ -1525,31 +1651,35 @@ Supplementary
 
 ### Regulations
 
-62\. The Authority may make regulations for carrying into effect the objects of this Act, and for prescribing anything which under this Act is to be prescribed; and in this Act “regulations” means regulations made by the Authority and “prescribed” means prescribed by regulations.
+62\.—(1) The Authority may make regulations for carrying into effect the objects of this Act, and for prescribing anything which under this Act is to be prescribed; and in this Act “regulations” means regulations made by the Authority and “prescribed” means prescribed by regulations.
+
+[Act 32 of 1993 wef 31/12/1993]
+
+(2) The Authority may issue such directions as it considers necessary for carrying into effect the objects of this Act, and in this Act “directions” includes notices and circulars.
 
 [45
 
 [11/86]
 
-### Accounting periods of insurers
+[Act 32 of 1993 wef 31/12/1993]
 
-63\. For the purposes of this Act —
-
-“accounting period”, in relation to any insurer, means the period for which the insurer makes up the accounts of the insurance business carried on by him in Singapore; but, unless in any particular case the Authority allows those accounts to be made up for a longer or shorter period, every accounting period for which those accounts have not been made up before the commencement of this Act shall be a period of 12 months beginning from the commencement of that business or from the end of the preceding accounting period; and
-
-“initial accounting period”, in relation to any existing insurer, means the accounting period beginning with 1st January 1967 or, if the insurer has no such accounting period, the first accounting period beginning thereafter.
-
-[46
-
-[11/86]
+63\. [Repealed by Act 32 of 1993 wef 31/12/1993]
 
 ### Miscellaneous definitions
 
 64\.—(1) In this Act —
 
+“accounting period”, in relation to any insurer, means the period beginning from the commencement of its business in Singapore or 1st January of any year, as the case may be, and ending on 31st December of that year for which accounts relating to the insurance business carried on by the insurer in Singapore are kept and for which an insurance fund has been established under this Act, unless otherwise allowed by the Authority;
+
+[Act 32 of 1993 wef 31/12/1993]
+
+“actuary” means a Fellow of any prescribed institute;
+
+[Act 32 of 1993 wef 31/12/1993]
+
 “Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act [Cap. 186];
 
-“qualified actuary” means a Fellow of the Institute of Actuaries in England, a Fellow of the Faculty of Actuaries in Scotland or a Fellow of the Society of Actuaries in America;
+[Deleted by Act 32 of 1993 wef 31/12/1993]
 
 “registered insurer” means an insurer which has been registered by the Authority under this Act.
 
@@ -1641,7 +1771,9 @@ Section 34(5).
 
 Deposits by associations of underwriters
 
-1\. An association of underwriters, in order to comply with section 34(4) of the Act, shall make a deposit of a value of $500,000 with the Authority.
+1. An association of underwriters, in order to comply with section 34(4) of the Act, shall make a deposit of a value of $500,000 or such other amount as may be prescribed with the Authority.
+
+[Act 32 of 1993 wef 31/12/1993]
 
 2\. Not later than the end of June in each calendar year after 1966 there shall be made such additional deposit, if any, as is necessary to secure that the aggregate value of the deposit is not less than 55% of the premiums received by members of the association in respect of Singapore policies in the preceding calendar year.
 
@@ -1696,3 +1828,8 @@ This Legislative History is provided for the convenience of users of the Insuran
 |||(Bill No. 26/93 published on 31 August 1993)|
 ||Date of Second and Third Readings|12 October 1993|
 ||Date of commencement|12 November 1993|
+|9.|**Act 32 of 1993—Insurance (Amendment) Act 1993**|
+||Date of First Reading|30 August 1993|
+|||(Bill No. 27/93 published on 31 August 1993)|
+||Date of Second and Third Readings|12 October 1993|
+||Date of commencement|31 December 1993|
