@@ -34,7 +34,7 @@
 
 [**Part III LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES**](#Part-III)
 
-- [11 Slaughter of animals to be carried out at licensed slaughter-houses or premises permitted by Director](#Slaughter-of-animals-to-be-carried-out-at-licensed-slaughter-houses-or-premises-permitted-by-Director)
+- [11 Slaughter of animals to be carried out at licensed slaughter-houses or premises permitted by Director-General](#Slaughter-of-animals-to-be-carried-out-at-licensed-slaughter-houses-or-premises-permitted-by-Director-General)
 
 - [12 Processing establishments and cold stores to be licensed](#Processing-establishments-and-cold-stores-to-be-licensed)
 
@@ -100,6 +100,8 @@
 
 - [40 Exemption](#Exemption)
 
+- [40A Fees, etc., payable to Authority](#Fees-etc-payable-to-Authority)
+
 - [41 Rules](#Rules)
 
 - [42 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
@@ -152,13 +154,23 @@ PRELIMINARY
 
 “animal” means any bird, mammal, reptile or amphibian;
 
-“authorised examiner” means any person or body of persons designated by the Director under section 3(5) to carry out any inspection, examination and certification of any meat product or fish product under this Act and includes any veterinary public health officer;
+“authorised examiner” means any person or body of persons designated by the Director-General under section 3(5) to carry out any inspection, examination and certification of any meat product or fish product under this Act and includes any authorised officer;
+
+“authorised officer” means any person appointed by the Director-General to be an authorised officer under section 3(2);
+
+[16/2000 wef 01/04/2000]
+
+“Authority” means the Agri-food and Veterinary Authority established under section 3 of the Agri-food and Veterinary Authority Act 2000;
+
+[16/2000 wef 01/04/2000]
 
 “cold store” means any chiller, freezer, cold room or other refrigerated facility used for the storage of meat products or fish products and includes any refrigerated conveyance used for transportation of meat products or fish products in the course of any trade or business;
 
 “conveyance” includes any aircraft, vessel, train, vehicle or any other artificial contrivance, whether mechanically propelled or otherwise, used or capable of being used as a means of transport on land, water or air;
 
-“Director” means the Director of Primary Production appointed under section 3 of the Animals and Birds Act (Cap. 7);
+“Director-General” means the Director-General, Agri-food and Veterinary Services appointed under section 3(1) of the Animals and Birds Act (Cap. 7);
+
+[16/2000 wef 01/04/2000]
 
 “Director-General of Customs and Excise” means the Director-General of Customs and Excise appointed under section 4(1) of the Customs Act (Cap. 70);
 
@@ -228,8 +240,6 @@ whether those goods are to be transferred directly between conveyances or whethe
 
 “vehicle” means any conveyance used to carry goods by land;
 
-“veterinary public health officer” means any person appointed by the Director to be a veterinary public health officer under section 3(2) and includes any officer of any statutory board who is authorised by the Director, in accordance with section 3(3), to perform any of the duties imposed and exercise any of the powers conferred on the Director or a veterinary public health officer by this Act or the rules.
-
 (2) For the purposes of this Act, any meat product or fish product shall be deemed to be adulterated if —
 
 (a) it does not comply with the prescribed standards; or
@@ -238,21 +248,27 @@ whether those goods are to be transferred directly between conveyances or whethe
 
 ### Administration of Act and appointment of officers, etc.
 
-3\.—(1) The Director shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
+3\.—(1) The Director-General shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
 
-(2) The Director may appoint any public officer to be a veterinary public health officer who, subject to such conditions and limitations as may be specified by the Director, may perform all duties imposed and exercise all powers conferred on the Director or a veterinary public health officer by this Act or the rules.
+(2) The Director-General may in writing appoint any public officer or any officer of the Authority or of any other statutory authority to be an authorised officer for the purposes of this Act and any rules made thereunder.
 
-(3) The Director may, with the approval of the Minister, in writing authorise any officer of any statutory board to perform any of the duties imposed and exercise any of the powers conferred on the Director or a veterinary public health officer by this Act or the rules subject to such conditions and limitations as may be specified by the Director.
+[16/2000 wef 01/04/2000]
 
-(4) The Director and any veterinary public health officer appointed under subsection (2), and any officer of any statutory board who is authorised by the Director under subsection (3) to perform any of the duties or to exercise any of the functions of a veterinary public health officer, shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+(3) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer.
 
-(5) The Director may designate any person or body of persons to carry out at any appointed place any inspection, examination and certification of any meat product or fish product under this Act.
+[16/2000 wef 01/04/2000]
+
+(4) All authorised officers shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+
+[16/2000 wef 01/04/2000]
+
+(5) The Director-General may designate any person or body of persons to carry out at any appointed place any inspection, examination and certification of any meat product or fish product under this Act.
 
 ### Identification card to be produced
 
-4\.—(1) Every veterinary public health officer, when exercising any of his powers under this Act or the rules shall, if not in uniform, declare his office and shall, on demand, produce to any person affected by the exercise of such power such identification card as the Director, the Director-General of Customs and Excise or the Commissioner of Police may direct to be carried by a veterinary public health officer.
+4\.—(1) Every authorised officer, when exercising any of his powers under this Act or the rules shall, if not in uniform, declare his office and shall, on demand, produce to any person affected by the exercise of such power such identification card as the Director-General, the Director-General of Customs and Excise or the Commissioner of Police may direct to be carried by an authorised officer.
 
-(2) It shall not be an offence for any person to refuse to comply with any request, demand or order made or given by any veterinary public health officer if the veterinary public health officer is not in uniform and refuses to declare his office and produce his identification card, on demand being made by the person.
+(2) It shall not be an offence for any person to refuse to comply with any request, demand or order made or given by any authorised officer if the authorised officer is not in uniform and refuses to declare his office and produce his identification card, on demand being made by the person.
 
 ## PART II
 
@@ -260,7 +276,7 @@ CONTROL OF IMPORT, EXPORT AND TRANSHIPMENT OF MEAT PRODUCTS AND FISH PRODUCTS
 
 ### Prohibition of import, export or transhipment of meat products or fish products without licence
 
-5\.—(1) No person shall import, export or tranship any meat product or fish product except under and in accordance with the conditions of a licence granted by the Director under this Part.
+5\.—(1) No person shall import, export or tranship any meat product or fish product except under and in accordance with the conditions of a licence granted by the Director-General under this Part.
 
 (2) Any person who —
 
@@ -274,7 +290,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 6\.—(1) No licensee shall import any meat product or fish product for sale, supply or distribution in Singapore unless —
 
-(a) the licensee has obtained a permit from the Director in respect of each consignment of meat products or fish products to be imported by him and the import of each such consignment is carried out in accordance with the conditions of the permit;
+(a) the licensee has obtained a permit from the Director-General in respect of each consignment of meat products or fish products to be imported by him and the import of each such consignment is carried out in accordance with the conditions of the permit;
 
 (b) the whole consignment conforms to the description as contained in the permit;
 
@@ -284,7 +300,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) No licensee shall export any meat product or fish product from Singapore to any country, territory or place unless —
 
-(a) the licensee has obtained a permit from the Director in respect of each consignment of meat products or fish products to be exported by him and the export of each such consignment is carried out in accordance with the conditions of the permit;
+(a) the licensee has obtained a permit from the Director-General in respect of each consignment of meat products or fish products to be exported by him and the export of each such consignment is carried out in accordance with the conditions of the permit;
 
 (b) the whole consignment to be exported conforms to the description as contained in the permit;
 
@@ -294,11 +310,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (e) in the case of a consignment which requires to be stored in a cold store, the cold store in which the consignment has been or is being stored is licensed under this Act;
 
-(f) the licensee provides the Director with satisfactory evidence that the whole consignment meets with the requirements of the country to which it is being exported; and
+(f) the licensee provides the Director-General with satisfactory evidence that the whole consignment meets with the requirements of the country to which it is being exported; and
 
 (g) the meat products or fish products constituting the consignment are packaged and labelled in the prescribed manner.
 
-(3) No licensee shall tranship any meat product or fish product in Singapore unless the licensee has obtained a permit from the Director in respect of each consignment of meat products or fish products to be transhipped by him and the transhipment is carried out in accordance with the conditions of the permit.
+(3) No licensee shall tranship any meat product or fish product in Singapore unless the licensee has obtained a permit from the Director-General in respect of each consignment of meat products or fish products to be transhipped by him and the transhipment is carried out in accordance with the conditions of the permit.
 
 (4) Any licensee who contravenes or fails to comply with subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -314,33 +330,33 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Application for licences and permits and renewal of licences
 
-7\.—(1) An application for a licence required under section 5 or a permit required under section 6 shall be made to the Director in such form or manner as the Director may require and shall be accompanied by —
+7\.—(1) An application for a licence required under section 5 or a permit required under section 6 shall be made to the Director-General in such form or manner as the Director-General may require and shall be accompanied by —
 
 (a) the prescribed fee;
 
-(b) such particulars, information and documents as may be specified by the Director; and
+(b) such particulars, information and documents as may be specified by the Director-General; and
 
-(c) if required by the Director, a statutory declaration by the applicant verifying any information contained in or relating to the application.
+(c) if required by the Director-General, a statutory declaration by the applicant verifying any information contained in or relating to the application.
 
-(2) On receipt of an application under subsection (1), the Director may —
+(2) On receipt of an application under subsection (1), the Director-General may —
 
 (a) grant the licence or permit applied for, with or without conditions; or
 
 (b) refuse to grant the licence or permit applied for.
 
-(3) Where the Director has refused to grant a licence or permit under subsection (2)(b), the Director shall, if requested to do so by the applicant, state in writing the reasons for his refusal.
+(3) Where the Director-General has refused to grant a licence or permit under subsection (2)(b), the Director-General shall, if requested to do so by the applicant, state in writing the reasons for his refusal.
 
-(4) The conditions which the Director may impose under subsection (2)(a) include any condition which —
+(4) The conditions which the Director-General may impose under subsection (2)(a) include any condition which —
 
 (a) restricts or prohibits the import of any meat product or fish product from any country, territory or place or any farm, slaughter-house or processing establishment therein; or
 
 (b) restricts or prohibits the export of any meat product or fish product from Singapore to any country, territory or place.
 
-(5) The Director may at any time vary or revoke any of the existing conditions imposed under subsection (2)(a) or impose new conditions.
+(5) The Director-General may at any time vary or revoke any of the existing conditions imposed under subsection (2)(a) or impose new conditions.
 
 (6) Every licence or permit granted under this section —
 
-(a) shall be in such form as the Director may determine;
+(a) shall be in such form as the Director-General may determine;
 
 (b) shall be valid for the period stated therein unless it is sooner revoked under section 8; and
 
@@ -350,7 +366,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Suspension and revocation of licences and permits
 
-8\.—(1) The Director may suspend or revoke a licence or permit granted under section 7 if he is satisfied that —
+8\.—(1) The Director-General may suspend or revoke a licence or permit granted under section 7 if he is satisfied that —
 
 (a) the grant of the licence or permit has been obtained by fraud or misrepresentation;
 
@@ -360,41 +376,41 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (ii) any condition of his licence or permit; or
 
-(iii) any direction given to him by the Director or a veterinary public health officer under this Act or the rules; or
+(iii) any direction given to him by the Director-General or an authorised officer under this Act or the rules; or
 
 (c) it is in the public interest to suspend or revoke the licence or permit.
 
-(2) The Director shall, before suspending or revoking the licence or permit under subsection (1), give to the holder of the licence or permit notice in writing of his intention to do so and shall in such notice call upon the holder of the licence or permit to show cause within such time as may be specified in the notice as to why his licence or permit should not be suspended or revoked.
+(2) The Director-General shall, before suspending or revoking the licence or permit under subsection (1), give to the holder of the licence or permit notice in writing of his intention to do so and shall in such notice call upon the holder of the licence or permit to show cause within such time as may be specified in the notice as to why his licence or permit should not be suspended or revoked.
 
 (3) If the holder of the licence or permit —
 
-(a) fails to show cause within the period of time given to him to do so or such extended period of time as the Director may allow; or
+(a) fails to show cause within the period of time given to him to do so or such extended period of time as the Director-General may allow; or
 
 (b) fails to show sufficient cause,
 
-the Director shall give notice in writing to the holder of the licence or permit of the date from which the suspension or revocation of his licence or permit is to take effect.
+the Director-General shall give notice in writing to the holder of the licence or permit of the date from which the suspension or revocation of his licence or permit is to take effect.
 
 ### Appeals
 
 9\.—(1) Any person who is aggrieved by —
 
-(a) the imposition of any condition by the Director upon granting or renewing a licence or upon granting a permit under section 7;
+(a) the imposition of any condition by the Director-General upon granting or renewing a licence or upon granting a permit under section 7;
 
-(b) the refusal of the Director to grant or renew a licence or to grant a permit under section 7; or
+(b) the refusal of the Director-General to grant or renew a licence or to grant a permit under section 7; or
 
-(c) the decision of the Director to suspend or revoke a licence or permit under section 8,
+(c) the decision of the Director-General to suspend or revoke a licence or permit under section 8,
 
 may, within 7 days of the date of receipt of the notice informing him of the imposition of conditions, refusal, suspension or revocation, as the case may be, appeal in writing to the Minister whose decision shall be final.
 
 (2) Notwithstanding that any appeal under subsection (1) is pending —
 
-(a) any condition imposed by the Director upon granting or renewing a licence or upon granting a permit under section 7; or
+(a) any condition imposed by the Director-General upon granting or renewing a licence or upon granting a permit under section 7; or
 
 (b) the suspension or revocation of a licence or permit under section 8,
 
-shall take effect from the date specified in the notice by the Director therefor, unless the Minister otherwise orders.
+shall take effect from the date specified in the notice by the Director-General therefor, unless the Minister otherwise orders.
 
-(3) Upon the suspension or revocation of a licence or permit, the holder of the licence or permit shall surrender the licence or permit to the Director within the time specified in the notice referred to in subsection (1), failing which the holder of the licence or permit shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(3) Upon the suspension or revocation of a licence or permit, the holder of the licence or permit shall surrender the licence or permit to the Director-General within the time specified in the notice referred to in subsection (1), failing which the holder of the licence or permit shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Inspection of meat products and fish products upon import or prior to export
 
@@ -412,19 +428,19 @@ shall take effect from the date specified in the notice by the Director therefor
 
 (3) Where a person who has imported, or who intends to export, any meat product or fish product fails to comply with subsection (1) or (2)(b), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(4) Where a person to whom paragraph (b) of subsection (2) applies fails to comply with that paragraph, any veterinary public health officer may take such steps as he thinks fit to secure the removal, destruction or disposal of the meat product or fish product and recover any costs and expenses reasonably incurred by him from that person.
+(4) Where a person to whom paragraph (b) of subsection (2) applies fails to comply with that paragraph, any authorised officer may take such steps as he thinks fit to secure the removal, destruction or disposal of the meat product or fish product and recover any costs and expenses reasonably incurred by him from that person.
 
 ## PART III
 
 LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
 
-### Slaughter of animals to be carried out at licensed slaughter-houses or premises permitted by Director
+### Slaughter of animals to be carried out at licensed slaughter-houses or premises permitted by Director-General
 
 11\.—(1) No person shall slaughter any animal which is intended for human consumption or permit any such animal to be slaughtered on any premises, unless —
 
-(a) those premises have been licensed by the Director as a slaughter-house under this Act and the slaughter of the animal is carried out in accordance with the rules and the conditions of the licence; or
+(a) those premises have been licensed by the Director-General as a slaughter-house under this Act and the slaughter of the animal is carried out in accordance with the rules and the conditions of the licence; or
 
-(b) the Director has granted a permit to such person allowing him to slaughter the animal on those premises for any special reason and the slaughter of the animal is carried out in accordance with the rules and the conditions of the permit.
+(b) the Director-General has granted a permit to such person allowing him to slaughter the animal on those premises for any special reason and the slaughter of the animal is carried out in accordance with the rules and the conditions of the permit.
 
 (2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -432,47 +448,47 @@ LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
 
 ### Processing establishments and cold stores to be licensed
 
-12\.—(1) No person shall use any premises or permit any premises to be used as a processing establishment or a cold store except under and in accordance with the conditions of a licence granted by the Director.
+12\.—(1) No person shall use any premises or permit any premises to be used as a processing establishment or a cold store except under and in accordance with the conditions of a licence granted by the Director-General.
 
 (2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Application for licences and permits and renewal of licences
 
-13\.—(1) An application for a licence required under section 11(1)(a) or 12(1) or a permit required under section 11(1)(b) shall be made to the Director in such form or manner as the Director may require and shall be accompanied by —
+13\.—(1) An application for a licence required under section 11(1)(a) or 12(1) or a permit required under section 11(1)(b) shall be made to the Director-General in such form or manner as the Director-General may require and shall be accompanied by —
 
 (a) the prescribed fee;
 
-(b) such particulars, information and documents as may be specified by the Director; and
+(b) such particulars, information and documents as may be specified by the Director-General; and
 
-(c) if required by the Director, a statutory declaration by the applicant verifying any information contained in or relating to the application.
+(c) if required by the Director-General, a statutory declaration by the applicant verifying any information contained in or relating to the application.
 
-(2) On receipt of an application under subsection (1), the Director may —
+(2) On receipt of an application under subsection (1), the Director-General may —
 
 (a) grant the licence or permit applied for, with or without conditions; or
 
 (b) refuse to grant the licence or permit applied for.
 
-(3) Where the Director has refused to grant a licence or permit under subsection (2)(b), the Director shall, if required by the applicant, state in writing the reasons for his refusal.
+(3) Where the Director-General has refused to grant a licence or permit under subsection (2)(b), the Director-General shall, if required by the applicant, state in writing the reasons for his refusal.
 
-(4) In determining whether to grant or refuse to grant a licence required under section 11(1)(a) or 12(1), the Director shall have regard to —
+(4) In determining whether to grant or refuse to grant a licence required under section 11(1)(a) or 12(1), the Director-General shall have regard to —
 
 (a) the financial standing of the applicant and his ability to operate and maintain a slaughter-house, processing establishment or cold store, as the case may be, in accordance with the prescribed standards; and
 
 (b) the suitability of the premises to be licensed for use as a slaughter-house, processing establishment or cold store, as the case may be.
 
-(5) For the purpose of subsection (4), the Director , before granting the licence applied for, may —
+(5) For the purpose of subsection (4), the Director-General, before granting the licence applied for, may —
 
-(a) require the applicant to produce to the Director evidence of his financial standing or to furnish a cash security deposit or a bank guarantee not exceeding the prescribed amount;
+(a) require the applicant to produce to the Director-General evidence of his financial standing or to furnish a cash security deposit or a bank guarantee not exceeding the prescribed amount;
 
-(b) inspect the premises to be licensed, or cause such premises to be inspected by a veterinary public health officer; and
+(b) inspect the premises to be licensed, or cause such premises to be inspected by an authorised officer; and
 
-(c) require the applicant to make, at his own expense, such alteration or improvements to the premises to be licensed, or to provide, fix or install such facilities therein, as the Director may specify.
+(c) require the applicant to make, at his own expense, such alteration or improvements to the premises to be licensed, or to provide, fix or install such facilities therein, as the Director-General may specify.
 
-(6) The Director may at any time vary or revoke any of the existing conditions imposed under subsection (2)(a) or impose new conditions.
+(6) The Director-General may at any time vary or revoke any of the existing conditions imposed under subsection (2)(a) or impose new conditions.
 
 (7) Every licence or permit granted under this section —
 
-(a) shall be in such form as the Director may determine;
+(a) shall be in such form as the Director-General may determine;
 
 (b) shall be valid for the period stated therein unless it is sooner revoked under section 14; and
 
@@ -482,7 +498,7 @@ LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
 
 ### Suspension and revocation of licences and permits
 
-14\.—(1) The Director may suspend or revoke a licence or permit granted under section 13, if he is satisfied that —
+14\.—(1) The Director-General may suspend or revoke a licence or permit granted under section 13, if he is satisfied that —
 
 (a) the grant of the licence or permit has been obtained by fraud or misrepresentation;
 
@@ -492,49 +508,49 @@ LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
 
 (ii) any condition of his licence or permit; or
 
-(iii) any direction given to him by the Director or a veterinary public health officer under this Act or the rules; or
+(iii) any direction given to him by the Director-General or an authorised officer under this Act or the rules; or
 
 (c) it is in the public interest to suspend or revoke the licence or permit.
 
-(2) The Director shall, before suspending or revoking the licence or permit under subsection (1), give to the holder of the licence or permit notice in writing of his intention to do so and shall in such notice call upon the holder of the licence or permit to show cause within such time as may be specified in the notice as to why his licence or permit should not be suspended or revoked.
+(2) The Director-General shall, before suspending or revoking the licence or permit under subsection (1), give to the holder of the licence or permit notice in writing of his intention to do so and shall in such notice call upon the holder of the licence or permit to show cause within such time as may be specified in the notice as to why his licence or permit should not be suspended or revoked.
 
 (3) If the holder of the licence or permit —
 
-(a) fails to show cause within the period of time given to him to do so or such extended period of time as the Director may allow; or
+(a) fails to show cause within the period of time given to him to do so or such extended period of time as the Director-General may allow; or
 
 (b) fails to show sufficient cause,
 
-the Director shall give notice in writing to the holder of the licence or permit of the date from which the suspension or revocation of his licence or permit is to take effect.
+the Director-General shall give notice in writing to the holder of the licence or permit of the date from which the suspension or revocation of his licence or permit is to take effect.
 
 ### Appeals
 
 15\.—(1) Any person who is aggrieved by —
 
-(a) the imposition of any condition by the Director upon granting or renewing a licence or upon granting a permit under section 13;
+(a) the imposition of any condition by the Director-General upon granting or renewing a licence or upon granting a permit under section 13;
 
-(b) the refusal of the Director to grant or renew a licence or to grant a permit under section 13; or
+(b) the refusal of the Director-General to grant or renew a licence or to grant a permit under section 13; or
 
-(c) the decision of the Director to suspend or revoke a licence or permit under section 14,
+(c) the decision of the Director-General to suspend or revoke a licence or permit under section 14,
 
 may, within 7 days of the date of receipt of the notice informing him of such imposition of conditions, refusal, suspension or revocation, as the case may be, appeal in writing to the Minister whose decision shall be final.
 
 (2) Notwithstanding that any appeal under subsection (1) is pending —
 
-(a) any condition imposed by the Director upon granting or renewing a licence or upon granting a permit under section 13; or
+(a) any condition imposed by the Director-General upon granting or renewing a licence or upon granting a permit under section 13; or
 
 (b) the suspension or revocation of a licence or permit under section 14,
 
-shall take effect from the date specified in the notice by the Director, unless the Minister otherwise orders.
+shall take effect from the date specified in the notice by the Director-General, unless the Minister otherwise orders.
 
-(3) Upon the suspension or revocation of a licence or permit, the holder of the licence or permit shall surrender the licence or permit to the Director within the time specified in the notice referred to in subsection (1), failing which the holder of the licence or permit shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(3) Upon the suspension or revocation of a licence or permit, the holder of the licence or permit shall surrender the licence or permit to the Director-General within the time specified in the notice referred to in subsection (1), failing which the holder of the licence or permit shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Ante mortem and post mortem examination
 
-16\.—(1) The Director may in writing direct the owner or occupier of a licensed slaughter-house to subject all or any of the animals intended for slaughter at the slaughter-house to an ante mortem examination before slaughter, and to a post mortem examination after slaughter, by an authorised examiner.
+16\.—(1) The Director-General may in writing direct the owner or occupier of a licensed slaughter-house to subject all or any of the animals intended for slaughter at the slaughter-house to an ante mortem examination before slaughter, and to a post mortem examination after slaughter, by an authorised examiner.
 
 (2) The costs of and incidental to any examination referred to in subsection (1) shall be borne by the person to whom the direction under that subsection is given.
 
-(3) Any person who fails to comply with any direction given to him by the Director under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(3) Any person who fails to comply with any direction given to him by the Director-General under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Owners and occupiers of licensed slaughter-houses to ensure that animals are fit for slaughter
 
@@ -554,23 +570,23 @@ shall take effect from the date specified in the notice by the Director, unless 
 
 ### Power to prohibit slaughter
 
-18\.—(1) Where the Director or a veterinary public health officer knows or has reason to believe that any animal intended for slaughter at a licensed slaughter-house is diseased or is, for any other reason, unfit for human consumption, the Director or veterinary public health officer may by order in writing —
+18\.—(1) Where the Director-General or an authorised officer knows or has reason to believe that any animal intended for slaughter at a licensed slaughter-house is diseased or is, for any other reason, unfit for human consumption, the Director-General or authorised officer may by order in writing —
 
 (a) prohibit the owner or occupier of the licensed slaughter-house from slaughtering that animal; and
 
-(b) require the owner or occupier of the licensed slaughter-house to destroy or treat such animal at his own expense in such manner as the Director or veterinary public health officer thinks fit.
+(b) require the owner or occupier of the licensed slaughter-house to destroy or treat such animal at his own expense in such manner as the Director-General or authorised officer thinks fit.
 
-(2) Any person who fails to comply with an order given to him by the Director or a veterinary public health officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(2) Any person who fails to comply with an order given to him by the Director-General or an authorised officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Power to prohibit dressing of carcases
 
-19\.—(1) Where the Director or a veterinary public health officer knows or has reason to believe that the carcase of any animal which has been slaughtered at a licensed slaughter-house is diseased or is, for any other reason, unfit for human consumption, the Director or veterinary public health officer may by order in writing —
+19\.—(1) Where the Director-General or an authorised officer knows or has reason to believe that the carcase of any animal which has been slaughtered at a licensed slaughter-house is diseased or is, for any other reason, unfit for human consumption, the Director-General or authorised officer may by order in writing —
 
 (a) prohibit the owner or occupier of the licensed slaughter-house from dressing that carcase; and
 
-(b) require the owner or occupier of the licensed slaughter-house to destroy or treat such carcase at his own expense in such manner as the Director or veterinary public health officer thinks fit.
+(b) require the owner or occupier of the licensed slaughter-house to destroy or treat such carcase at his own expense in such manner as the Director-General or authorised officer thinks fit.
 
-(2) Any person who fails to comply with an order given to him by the Director or a veterinary public health officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(2) Any person who fails to comply with an order given to him by the Director-General or an authorised officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Marking, branding or tagging of carcases
 
@@ -602,15 +618,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Power to close slaughter-houses, processing establishments and cold stores
 
-21\.—(1) Where the Director or a veterinary public health officer finds that any condition in a licensed slaughter-house, processing establishment or cold store has become dangerous to health or may hinder in any manner the suppression of disease or that the licensed slaughter-house, processing establishment or cold store has been or is being kept in an unhygienic condition, the Director or veterinary public health officer may —
+21\.—(1) Where the Director-General or an authorised officer finds that any condition in a licensed slaughter-house, processing establishment or cold store has become dangerous to health or may hinder in any manner the suppression of disease or that the licensed slaughter-house, processing establishment or cold store has been or is being kept in an unhygienic condition, the Director-General or authorised officer may —
 
-(a) give written directives requiring that the slaughter-house, processing establishment or cold store, as the case may be, be closed for such time as the Director may determine; or
+(a) give written directives requiring that the slaughter-house, processing establishment or cold store, as the case may be, be closed for such time as the Director-General may determine; or
 
 (b) give directives for the immediate stoppage of any slaughtering, processing or other work until he is satisfied that the owner or occupier of the slaughter-house, processing establishment or cold store, as the case may be, has taken action to render the slaughter-house, processing establishment or cold store in a clean and hygienic condition again.
 
-(2) The Director or a veterinary public health officer shall, as soon as possible after he has given written directives under subsection (1)(a), inform the owner or occupier of the slaughter-house, processing establishment or cold store of the reasons why the directives were given.
+(2) The Director-General or an authorised officer shall, as soon as possible after he has given written directives under subsection (1)(a), inform the owner or occupier of the slaughter-house, processing establishment or cold store of the reasons why the directives were given.
 
-(3) Any person who fails to comply with any directive given to him by the Director or a veterinary public health officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(3) Any person who fails to comply with any directive given to him by the Director-General or an authorised officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ## PART IV
 
@@ -620,7 +636,7 @@ SALE OF MEAT PRODUCTS AND FISH PRODUCTS
 
 22\.—(1) In this section, “wholesale market” means a place where any animal, meat product, fish or fish product is sold wholesale or through auction.
 
-(2) No person shall use any premises or permit any premises to be used as a wholesale market unless he has been granted a licence by the Director to use those premises as such.
+(2) No person shall use any premises or permit any premises to be used as a wholesale market unless he has been granted a licence by the Director-General to use those premises as such.
 
 (3) Any person who —
 
@@ -676,35 +692,35 @@ POWERS OF ENFORCEMENT
 
 ### Power to require production of documents, etc.
 
-24\.—(1) For the purpose of discharging his functions and duties under this Act and the rules, the Director or a veterinary public health officer may at any time require any person —
+24\.—(1) For the purpose of discharging his functions and duties under this Act and the rules, the Director-General or an authorised officer may at any time require any person —
 
-(a) to produce to the Director or veterinary public health officer for inspection or for the purpose of obtaining copies or extracts, or to provide the Director or veterinary public health officer with copies or extracts of, any book, shipping bill, bill of lading or other document or record that the Director or veterinary public health officer believes on reasonable grounds contains any information relevant to the administration or enforcement of this Act or the rules; or
+(a) to produce to the Director-General or authorised officer for inspection or for the purpose of obtaining copies or extracts, or to provide the Director-General or authorised officer with copies or extracts of, any book, shipping bill, bill of lading or other document or record that the Director-General or authorised officer believes on reasonable grounds contains any information relevant to the administration or enforcement of this Act or the rules; or
 
-(b) to furnish any information as the Director or veterinary public health officer may reasonably require.
+(b) to furnish any information as the Director-General or authorised officer may reasonably require.
 
-(2) The Director or a veterinary public health officer may record any information furnished by any person under subsection (1)(b) as a statement which shall be admissible as evidence in any proceedings in connection with any offence under this Act or the rules.
+(2) The Director-General or an authorised officer may record any information furnished by any person under subsection (1)(b) as a statement which shall be admissible as evidence in any proceedings in connection with any offence under this Act or the rules.
 
-(3) Any person who fails to comply with any requirement made by the Director or veterinary public health officer under subsection (1)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(3) Any person who fails to comply with any requirement made by the Director-General or authorised officer under subsection (1)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Powers of entry, search and seizure, etc.
 
-25\.—(1) In discharging his functions and duties under this Act and the rules, the Director or a veterinary public health officer may —
+25\.—(1) In discharging his functions and duties under this Act and the rules, the Director-General or an authorised officer may —
 
-(a) at all reasonable times without warrant enter, search and inspect any premises, or stop, enter, search and inspect any conveyance, in which the Director or veterinary public health officer believes on reasonable grounds there is any item to which this Act applies;
+(a) at all reasonable times without warrant enter, search and inspect any premises, or stop, enter, search and inspect any conveyance, in which the Director-General or authorised officer believes on reasonable grounds there is any item to which this Act applies;
 
 (b) inspect any item to which this Act applies that is found in any premises or conveyance entered into under paragraph (a);
 
 (c) take, without payment, for the purpose of examination reasonable samples of any meat product or fish product that is found in any premises or conveyance entered into under paragraph (a); or
 
-(d) seize and detain any item to which this Act applies that is found in any premises or conveyance entered into under paragraph (a) and that the Director or veterinary public health officer believes on reasonable grounds is not in compliance with this Act or the rules or is otherwise connected with the commission of an offence under this Act or the rules.
+(d) seize and detain any item to which this Act applies that is found in any premises or conveyance entered into under paragraph (a) and that the Director-General or authorised officer believes on reasonable grounds is not in compliance with this Act or the rules or is otherwise connected with the commission of an offence under this Act or the rules.
 
-(2) For the purpose of subsection (1)(a), the Director or a veterinary public health officer may —
+(2) For the purpose of subsection (1)(a), the Director-General or an authorised officer may —
 
-(a) require the owner or occupier of any premises or conveyance being inspected to provide all reasonable assistance to the Director or veterinary public health officer for the purpose of the inspection; and
+(a) require the owner or occupier of any premises or conveyance being inspected to provide all reasonable assistance to the Director-General or authorised officer for the purpose of the inspection; and
 
 (b) if the circumstances so warrant, with such assistance as he thinks necessary, break open any door, window, lock, fastener, hold, compartment, box, container, receptacle or any other thing.
 
-(3) Where the Director or a veterinary public health officer seizes any item under subsection (1)(d), the Director or veterinary public health officer shall forthwith give notice in writing of the seizure to the owner of the item seized or to the agent of such owner, if the name and address of such owner or agent thereof are known.
+(3) Where the Director-General or an authorised officer seizes any item under subsection (1)(d), the Director-General or authorised officer shall forthwith give notice in writing of the seizure to the owner of the item seized or to the agent of such owner, if the name and address of such owner or agent thereof are known.
 
 (4) Any person aggrieved by the seizure of any item under subsection (1)(d) may, within 48 hours after the seizure, complain thereof to a Magistrate’s Court and, upon hearing such complaint, the Court may —
 
@@ -716,37 +732,37 @@ POWERS OF ENFORCEMENT
 
 (d) order payment to be made to the owner of the item seized of such amount as the Court considers will compensate him for any loss or depreciation resulting from the seizure.
 
-(5) Any item seized under subsection (1)(d) may be kept or stored in the premises or conveyance where it was seized or may, at the direction of the Director or a veterinary public health officer, be removed to any other place to be kept or stored thereat.
+(5) Any item seized under subsection (1)(d) may be kept or stored in the premises or conveyance where it was seized or may, at the direction of the Director-General or an authorised officer, be removed to any other place to be kept or stored thereat.
 
-(6) The Director or a veterinary public health officer may mark, seal or label any item being detained under subsection (1)(d) in such manner as he thinks fit for the purpose of indicating that the item is under detention and may lock or seal the premises or conveyance in which the item is being detained.
+(6) The Director-General or an authorised officer may mark, seal or label any item being detained under subsection (1)(d) in such manner as he thinks fit for the purpose of indicating that the item is under detention and may lock or seal the premises or conveyance in which the item is being detained.
 
-(7) Any person who fails to comply with any requirement made by the Director or a veterinary public health officer under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(7) Any person who fails to comply with any requirement made by the Director-General or an authorised officer under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(8) Any person who, without the authority of the Director or a veterinary public health officer —
+(8) Any person who, without the authority of the Director-General or an authorised officer —
 
-(a) interferes, tampers with, removes, distributes, sells, or otherwise disposes of any item seized or detained under subsection (1)(d) or alters, counterfeits, defaces, destroys, erases or removes any mark, seal or label placed by the Director or a veterinary public health officer on such item under subsection (6); or
+(a) interferes, tampers with, removes, distributes, sells, or otherwise disposes of any item seized or detained under subsection (1)(d) or alters, counterfeits, defaces, destroys, erases or removes any mark, seal or label placed by the Director-General or an authorised officer on such item under subsection (6); or
 
-(b) opens, breaks or otherwise tampers with the lock or seal placed by the Director or a veterinary public health officer on any premises or conveyance or part thereof under subsection (6),
+(b) opens, breaks or otherwise tampers with the lock or seal placed by the Director-General or an authorised officer on any premises or conveyance or part thereof under subsection (6),
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Power to require destruction treatment or disposal of meat products or fish products found to be diseased, etc.
 
-26\.—(1) Where the result of the examination of any sample taken from any meat product or fish product under section 25(1)(c) reveals that the meat product or fish product is diseased, adulterated or unfit for human consumption, the Director or a veterinary public health officer may direct the owner of the meat product or fish product or the agent of such owner to destroy or treat or otherwise dispose of the meat product or fish product in such manner as the Director or veterinary public health officer thinks fit, and the costs of an incidental thereto shall be borne by such owner or agent thereof.
+26\.—(1) Where the result of the examination of any sample taken from any meat product or fish product under section 25(1)(c) reveals that the meat product or fish product is diseased, adulterated or unfit for human consumption, the Director-General or an authorised officer may direct the owner of the meat product or fish product or the agent of such owner to destroy or treat or otherwise dispose of the meat product or fish product in such manner as the Director-General or authorised officer thinks fit, and the costs of an incidental thereto shall be borne by such owner or agent thereof.
 
 (2) If a person to whom any direction under subsection (1) is given fails to comply with the direction —
 
 (a) he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; and
 
-(b) any veterinary public health officer may take such steps as he thinks fit to secure the destruction, treatment or disposal of the meat product or fish product to which the direction relates and recover any costs and expenses reasonably incurred by him from that person.
+(b) any authorised officer may take such steps as he thinks fit to secure the destruction, treatment or disposal of the meat product or fish product to which the direction relates and recover any costs and expenses reasonably incurred by him from that person.
 
 ### Powers of arrest
 
-27\.—(1) The Director or any veterinary public health officer, police officer or officer of customs may arrest without warrant any person he sees or finds committing or attempting to commit or whom he reasonably suspects of being engaged in committing or attempting to commit any offence under this Act or the rules, if the person refuses to furnish his name and address or furnishes an address out of Singapore or there are reasonable grounds for believing that he has furnished a false name or address or that he is likely to abscond.
+27\.—(1) The Director-General or any authorised officer, police officer or officer of customs may arrest without warrant any person he sees or finds committing or attempting to commit or whom he reasonably suspects of being engaged in committing or attempting to commit any offence under this Act or the rules, if the person refuses to furnish his name and address or furnishes an address out of Singapore or there are reasonable grounds for believing that he has furnished a false name or address or that he is likely to abscond.
 
-(2) The Director or any veterinary public health officer, police officer or officer of customs making an arrest without warrant shall, subject to subsection (3), without unnecessary delay bring the person arrested before a Magistrate’s Court.
+(2) The Director-General or any authorised officer, police officer or officer of customs making an arrest without warrant shall, subject to subsection (3), without unnecessary delay bring the person arrested before a Magistrate’s Court.
 
-(3) No person who has been arrested by the Director or any veterinary public health officer, police officer or officer of customs shall be released, except on his own bond or on bail or on the special order in writing of the Magistrate or the Director.
+(3) No person who has been arrested by the Director-General or any authorised officer, police officer or officer of customs shall be released, except on his own bond or on bail or on the special order in writing of the Magistrate or the Director-General.
 
 ## PART VI
 
@@ -754,7 +770,7 @@ MISCELLANEOUS
 
 ### Obstructing officers in execution of their duties
 
-28\. Any person who obstructs, hinders or impedes the Director or any veterinary public health officer, police officer or officer of customs or any other person acting under the direction of the Director, in the performance or execution of his duty or anything which he is authorised, empowered or required to do under this Act or the rules shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+28\. Any person who obstructs, hinders or impedes the Director-General or any authorised officer, police officer or officer of customs or any other person acting under the direction of the Director-General, in the performance or execution of his duty or anything which he is authorised, empowered or required to do under this Act or the rules shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Altering licence, permit or certificate
 
@@ -798,7 +814,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) If the court, having regard to the circumstances of the case, does not think it fit to order the forfeiture of any item which has been seized under the provisions of this Act, the court shall order that the item be released to the owner thereof or the person entitled thereto.
 
-(5) In the absence of any prosecution with regard to any item which has been seized under the provisions of this Act, the Director shall give to the person from whom the item was seized or to the owner of the item notice in writing that the item shall, on the expiration of 7 days of the date specified in the notice, be deemed to be forfeited unless a claim thereto is made before then in accordance with subsection (6).
+(5) In the absence of any prosecution with regard to any item which has been seized under the provisions of this Act, the Director-General shall give to the person from whom the item was seized or to the owner of the item notice in writing that the item shall, on the expiration of 7 days of the date specified in the notice, be deemed to be forfeited unless a claim thereto is made before then in accordance with subsection (6).
 
 (6) A person asserting —
 
@@ -806,23 +822,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) that the item is not liable to forfeiture,
 
-may, personally or by his agent authorised in writing, give written notice to the Director that he claims the item.
+may, personally or by his agent authorised in writing, give written notice to the Director-General that he claims the item.
 
-(7) On receipt of a notice under subsection (6), the Director may direct that the item be released to the person who has given the notice or may refer the matter to a court for decision.
+(7) On receipt of a notice under subsection (6), the Director-General may direct that the item be released to the person who has given the notice or may refer the matter to a court for decision.
 
 (8) Where no claim is received on the expiration of 7 days of the date specified in the notice referred to in subsection (5), the item to which the notice relates shall be deemed to be forfeited.
 
 (9) Where the owner of any item seized under the provisions of this Act consents to its disposal, the item shall thereupon be deemed to be forfeited.
 
-(10) Any item forfeited or deemed to be forfeited under this section shall be delivered to a veterinary public health officer and shall be disposed of in such manner as the Director thinks fit.
+(10) Any item forfeited or deemed to be forfeited under this section shall be delivered to an authorised officer and shall be disposed of in such manner as the Director-General thinks fit.
 
 ### Form and authentication of notices, orders and other documents
 
-33\.—(1) All notices, orders and other documents of whatsoever nature which the Director is empowered to give by this Act or the rules may be in such form as the Director may determine, and may be given by any veterinary public health officer.
+33\.—(1) All notices, orders and other documents of whatsoever nature which the Director-General is empowered to give by this Act or the rules may be in such form as the Director-General may determine, and may be given by any authorised officer.
 
 (2) Where any such notice, order or document requires authentication —
 
-(a) the signature of the Director or a veterinary public health officer; or
+(a) the signature of the Director-General or an authorised officer; or
 
 (b) an official facsimile of such signature,
 
@@ -858,7 +874,7 @@ appended thereto shall be sufficient authentication.
 
 ### Protection from liability
 
-36\. No suit or other legal proceedings shall lie against the Director or any veterinary public health officer, police officer or officer of customs or any other person acting under the direction of the Director for anything which is in good faith done in the execution or purported execution of this Act or the rules.
+36\. No suit or other legal proceedings shall lie against the Director-General or any authorised officer, police officer or officer of customs or any other person acting under the direction of the Director-General for anything which is in good faith done in the execution or purported execution of this Act or the rules.
 
 ### Jurisdiction of Courts
 
@@ -868,7 +884,7 @@ appended thereto shall be sufficient authentication.
 
 38\.—(1) Subject to subsection (3) —
 
-(a) a document or certificate purporting to be report under the hand of the Director or a veterinary public health officer upon any matter or thing in connection with the administration or enforcement of this Act or with any investigation carried out under this Act shall be admissible as evidence in any proceedings under this Act and shall be prima facie evidence of the facts stated therein; and
+(a) a document or certificate purporting to be report under the hand of the Director-General or an authorised officer upon any matter or thing in connection with the administration or enforcement of this Act or with any investigation carried out under this Act shall be admissible as evidence in any proceedings under this Act and shall be prima facie evidence of the facts stated therein; and
 
 (b) a certificate of an authorised examiner stating that he has analysed or examined any meat product or fish product and stating the result of his analysis or examination shall be admissible in evidence in any proceedings for an offence under this Act as prima facie evidence of the facts stated therein and of the correctness of the result of the analysis or examination.
 
@@ -882,17 +898,23 @@ appended thereto shall be sufficient authentication.
 
 not less than 10 clear days before the commencement of the proceedings.
 
-(4) Where a certificate of the Director, a veterinary public health officer or an authorised examiner is admitted in evidence under subsection (1), the person charged may require the Director , veterinary public health officer or authorised examiner to be called as a witness for the prosecution and be cross-examined as if he had given evidence of the matters stated in the certificate.
+(4) Where a certificate of the Director-General, an authorised officer or an authorised examiner is admitted in evidence under subsection (1), the person charged may require the Director-General, authorised officer or authorised examiner to be called as a witness for the prosecution and be cross-examined as if he had given evidence of the matters stated in the certificate.
 
 ### Composition of offences
 
-39\.—(1) The Director or any officer authorised in writing in that behalf by the Minister may, in his discretion, compound any offence under this Act or the rules which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $1,000.
+39\.—(1) The Director-General or any officer authorised in writing in that behalf by the Minister may, in his discretion, compound any offence under this Act or the rules which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $1,000.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
 
 ### Exemption
 
-40\. The Director may, in his discretion, either permanently or for such period as he may think fit, exempt any person or premises or any class of persons or premises from any of the provisions of this Act or the rules.
+40\. The Director-General may, in his discretion, either permanently or for such period as he may think fit, exempt any person or premises or any class of persons or premises from any of the provisions of this Act or the rules.
+
+### Fees, etc., payable to Authority
+
+40A\. All fees, charges, composition fines and moneys collected under this Act or any rules made thereunder shall be paid to the Authority.
+
+[16/2000 wef 01/04/2000]
 
 ### Rules
 
@@ -914,7 +936,7 @@ not less than 10 clear days before the commencement of the proceedings.
 
 (e) providing for the authorisation of an authorised examiner, the conditions to be complied with by an authorised examiner and the withdrawal of any such authorisation;
 
-(f) prescribing the powers and functions of veterinary public health officers and authorised examiners;
+(f) prescribing the powers and functions of authorised officers and authorised examiners;
 
 (g) providing for the certification of meat products and fish products intended for export and the conditions under which such certificates may be withdrawn;
 
@@ -956,9 +978,9 @@ not less than 10 clear days before the commencement of the proceedings.
 
 (w) prescribing the offences which may be compounded and the method and procedure by which such offences may be compounded; and
 
-(x) empowering the Director to issue, from time to time, such directives as the Director may consider necessary for the proper control and management of slaughter-houses, processing establishments and cold stores or for any matter connected with the provisions of this Act.
+(x) empowering the Director-General to issue, from time to time, such directives as the Director-General may consider necessary for the proper control and management of slaughter-houses, processing establishments and cold stores or for any matter connected with the provisions of this Act.
 
-(3) The Minister may, in making any rules, provide that any contravention of, or failure or neglect to comply with, any provision of the rules or any directive issued by the Director pursuant to the rules shall be an offence and may prescribe the fine with which the offence shall be punishable, except that no such fine shall exceed for any one offence, the sum of $10,000 and, in the case of a continuing offence, the sum of $100 for every day or part thereof during which the offence continues after conviction.
+(3) The Minister may, in making any rules, provide that any contravention of, or failure or neglect to comply with, any provision of the rules or any directive issued by the Director-General pursuant to the rules shall be an offence and may prescribe the fine with which the offence shall be punishable, except that no such fine shall exceed for any one offence, the sum of $10,000 and, in the case of a continuing offence, the sum of $100 for every day or part thereof during which the offence continues after conviction.
 
 (4) All rules made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
