@@ -1496,19 +1496,17 @@ Section 31
 
 Dangerous Trades or Purposes
 
-1\. Making or storing of matches, fireworks or calcium carbide.
+(1) Storage of acetylene.
 
-2\. A sawmill or a place where machinery other than light portable machinery is used to fashion timber into furniture, house fittings and other woodworks.
+(2) Storage of calcium carbide.
 
-3\. Manufacture, treatment, smoking or preparation of rubber in any form.
+(3) Storage of cellulose solutions.
 
-4\. A garage or place kept or used for painting motor vehicles, except a garage or place used in connection with a private dwelling-house and kept for private use only.
+(4) Storage of fireworks.
 
-5\. A place in which retreading of tyre is carried out.
+(5) Storage of matches.
 
-6\. Storage of cellulose solutions.
-
-7\. Acetylene manufacturing or storage.
+[S 449/2000 wef 15/10/2000]
 
 SECOND SCHEDULE
 
@@ -1587,3 +1585,5 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 |||(Bill No. 43/1999 published on 25 November 1999)|
 ||Date of Second and Third Readings|17 January 2000|
 ||Date of commencement|1 April 2000|
+|4.|**G. N. No. S 449/2000—Fire Safety Act (Amendment of First Schedule) Notification 2000**|
+||Date of commencement|15 October 2000|
