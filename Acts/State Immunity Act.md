@@ -270,7 +270,11 @@ if, at the time when the cause of action arose, the ship was in use or intended 
 
 13\. A State is not immune as respects proceedings relating to its liability for —
 
-(a) any customs duty or excise duty; or
+(a) any customs duty or excise duty;
+
+(aa) any goods and services tax; or
+
+[25/1996 wef 16/08/1996]
 
 (b) any tax in respect of premises occupied by it for commercial purposes.
 
@@ -385,3 +389,9 @@ This Legislative History is provided for the convenience of users of the State I
 ||Date of commencement|26 October 1979|
 |2.|**1985 Revised Edition—State Immunity Act**|
 ||Date of operation|30 March 1987|
+|3.|**Act 25 of 1996—Goods and Services Tax (Amendment) Act 1996**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 May 1996|
+|||(Bill No. 15/1996 published on 22 May 1996)|
+||Date of Second and Third Readings|12 July 1996|
+||Date of commencement|16 August 1996 (Section 18 –– Amendments of State Immunity Act)|
