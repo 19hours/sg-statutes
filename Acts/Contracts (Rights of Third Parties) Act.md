@@ -1,14 +1,12 @@
-**Contracts (Rights of Third Parties) Act 2001**
+**Contracts (Rights of Third Parties) Act**
 
-**(No. 39 of 2001)**
+**(CHAPTER 53B)**
 
 **Table of Contents**
 
 [**Long Title**](#Contracts-Rights-of-Third-Parties-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title and application](#Short-title-and-application)
 
 - [2 Right of third party to enforce contractual term](#Right-of-third-party-to-enforce-contractual-term)
 
@@ -26,49 +24,31 @@
 
 - [9 Arbitration provisions](#Arbitration-provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Contracts (Rights of Third Parties) Act
 
-ACTS SUPPLEMENT
+(CHAPTER 53B)
 
-Published by Authority
+(Original Enactment: Act 39 of 2001)
 
-NO. 42]
+REVISED EDITION 2002
 
-Friday, October 26
-
-[2001
-
-The following Act was passed by Parliament on 5th October 2001 and assented to by the President on 17th October 2001:—
-
-Contracts (Rights of Third Parties) Act 2001
-
-(No. 39 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-17th October 2001.
-
-Date of Commencement: 1st January 2002
+(31st July 2002)
 
 An Act to make provision for the enforcement of contractual terms by third parties.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st January 2002]
 
-### Short title and commencement
+### Short title and application
 
-1\.—(1) This Act may be cited as the Contracts (Rights of Third Parties) Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\.—(1) This Act may be cited as the Contracts (Rights of Third Parties) Act.
 
-(2) Subject to subsection (3), this Act shall not apply in relation to a contract entered into before the end of the period of 6 months from the date of commencement of this Act.
+(2) Subject to subsection (3), this Act shall not apply in relation to a contract entered into before the end of the period of 6 months from 1st January 2002.
 
 (3) The restriction in subsection (2) shall not apply in relation to a contract which —
 
-(a) is entered into on or after the date of commencement of this Act; and
+(a) is entered into on or after 1st January 2002; and
 
 (b) expressly provides for the application of this Act.
 
@@ -164,7 +144,7 @@ that would have been available to him by way of defence or set-off or by way of 
 
 ### Protection of promisor from double liability
 
-6\. Where under section 2 a term of a contract is enforceable by a third party, and the promisee has recovered from the promisor a sum in respect of —
+6\. Where under section 2, a term of a contract is enforceable by a third party, and the promisee has recovered from the promisor a sum in respect of —
 
 (a) the third party’s loss in respect of the term; or
 
@@ -226,17 +206,34 @@ except that a third party may in reliance on that section avail himself of an ex
 
 (a) a right under section 2 to enforce a term (referred to in this section as the substantive term) is subject to a term providing for the submission of disputes to arbitration (referred to in this section as the arbitration agreement); and
 
-(b) the arbitration agreement is an agreement in writing for the purposes of the Arbitration Act 2001 or Part II of the International Arbitration Act (Cap. 143A),
+(b) the arbitration agreement is an agreement in writing for the purposes of the Arbitration Act (Cap. 10) or Part II of the International Arbitration Act (Cap. 143A),
 
-the third party shall be treated for the purposes of the Arbitration Act 2001 or the International Arbitration Act, as the case may be, as a party to the arbitration agreement as regards disputes between himself and the promisor relating to the enforcement of the substantive term by the third party.
+the third party shall be treated for the purposes of the Arbitration Act or the International Arbitration Act, as the case may be, as a party to the arbitration agreement as regards disputes between himself and the promisor relating to the enforcement of the substantive term by the third party.
 
 (2) Where —
 
 (a) a third party has a right under section 2 to enforce a term providing for one or more descriptions of dispute between the third party and the promisor to be submitted to arbitration (referred to in this section as the arbitration agreement);
 
-(b) the arbitration agreement is an agreement in writing for the purposes of the Arbitration Act 2001 or Part II of the International Arbitration Act (Cap. 143A); and
+(b) the arbitration agreement is an agreement in writing for the purposes of the Arbitration Act or Part II of the International Arbitration Act; and
 
 (c) the third party does not fall to be treated under subsection (1) as a party to the arbitration agreement,
 
-the third party shall, if he exercises the right, be treated for the purposes of the Arbitration Act 2001 or the International Arbitration Act, as the case may be, as a party to the arbitration agreement in relation to the matter with respect to which the right is exercised, and be treated as having been so immediately before the exercise of the right.
+the third party shall, if he exercises the right, be treated for the purposes of the Arbitration Act (Cap. 10) or the International Arbitration Act (Cap. 143A), as the case may be, as a party to the arbitration agreement in relation to the matter with respect to which the right is exercised, and be treated as having been so immediately before the exercise of the right.
 
+## LEGISLATIVE HISTORY
+
+Contracts (Rights of Third Parties) Act
+
+(CHAPTER 53B)
+
+This Legislative History is provided for the convenience of users of the Contracts (Rights of Third Parties) Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 39 of 2001—Contracts (Rights of Third Parties) Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 36/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 January 2002|
+|2.|**2002 Revised Edition—Contracts (Rights of Third Parties) Act**|
+||Date of operation|31 July 2002|
