@@ -12,31 +12,31 @@
 
 - [3 Statistics Department and statistics units](#Statistics-Department-and-statistics-units)
 
-- [3A National statistical co-ordinator](#National-statistical-co-ordinator)
+- [4 National statistical co-ordinator](#National-statistical-co-ordinator)
 
-- [4 Power of Chief Statistician, director of research and statistics unit to issue requisition for information](#Power-of-Chief-Statistician-director-of-research-and-statistics-unit-to-issue-requisition-for-information)
+- [5 Power of Chief Statistician, director of research and statistics unit to issue requisition for information](#Power-of-Chief-Statistician-director-of-research-and-statistics-unit-to-issue-requisition-for-information)
 
-- [4A Power to request information from research and statistics units and other competent authorities](#Power-to-request-information-from-research-and-statistics-units-and-other-competent-authorities)
+- [6 Power to request information from research and statistics units and other competent authorities](#Power-to-request-information-from-research-and-statistics-units-and-other-competent-authorities)
 
-- [5 Disclosure of information](#Disclosure-of-information)
+- [7 Disclosure of information](#Disclosure-of-information)
 
-- [6 Impersonation of a statistical officer](#Impersonation-of-a-statistical-officer)
+- [8 Impersonation of a statistical officer](#Impersonation-of-a-statistical-officer)
 
-- [7 Penalties](#Penalties)
+- [9 Penalties](#Penalties)
 
-- [8 Compounding of offences](#Compounding-of-offences)
+- [10 Compounding of offences](#Compounding-of-offences)
 
-- [9 Service of requisition](#Service-of-requisition)
+- [11 Service of requisition](#Service-of-requisition)
 
-- [10 Rules and orders](#Rules-and-orders)
+- [12 Rules and orders](#Rules-and-orders)
 
-- [11 Amendment of Schedules](#Amendment-of-Schedules)
+- [13 Amendment of Schedules](#Amendment-of-Schedules)
 
-- [12 Transitional provision](#Transitional-provision)
+- [14 Transitional provision](#Transitional-provision)
 
-[**FIRST SCHEDULESubject matters**](#FIRST-SCHEDULESubject-matters)
+[**FIRST SCHEDULE Subject matters**](#FIRST-SCHEDULE-Subject-matters)
 
-[**SECOND SCHEDULE Research and Statistics Units**](#SECOND-SCHEDULE-Research-and-Statistics-Units)
+[**SECOND SCHEDULE Research and statistics units**](#SECOND-SCHEDULE-Research-and-statistics-units)
 
 [**THIRD SCHEDULE Competent authorities**](#THIRD-SCHEDULE-Competent-authorities)
 
@@ -48,9 +48,9 @@
 
 (Original Enactment: Act 46 of 1973)
 
-REVISED EDITION 1985
+REVISED EDITION 1991
 
-(30th March 1987)
+(1st March 1991)
 
 An Act relating to statistics.
 
@@ -62,7 +62,9 @@ An Act relating to statistics.
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires, “requisition” means a requisition issued under section 4.
+2\. In this Act, unless the context otherwise requires,
+
+“requisition” means a requisition issued under section 5.
 
 [19/86]
 
@@ -76,7 +78,7 @@ An Act relating to statistics.
 
 ### National statistical co-ordinator
 
-3A\.—(1) The Chief Statistician shall be the national statistical co-ordinator whose duties shall be —
+4\.—(1) The Chief Statistician shall be the national statistical co-ordinator whose duties shall be —
 
 (a) to co-ordinate statistical activities in Government departments, Ministries, research and statistics units and statutory bodies;
 
@@ -92,15 +94,15 @@ An Act relating to statistics.
 
 (4) On receipt of any notice from a research and statistics unit under subsection (3), the Chief Statistician shall reconsider the recommendation in question, and, in the event of the inability of the Chief Statistician to rescind or revise the recommendation, shall refer the matter to the Minister who shall give directions to the research and statistics unit as he thinks fit and that research and statistics unit shall comply with the directions of the Minister.
 
-[Act 9 of 1990 wef 06/04/1990]
+[3A
+
+[9/90]
 
 ### Power of Chief Statistician, director of research and statistics unit to issue requisition for information
 
-4\.—(1) For the purpose of obtaining statistical information, it shall be lawful for the Chief Statistician or the director of a research and statistics unit to issue a requisition to any person to furnish particulars and supply information to him relating to any matter to which this Act applies, and every such person is bound to furnish particulars and supply information to the best of his knowledge and belief.
+5\.—(1) For the purpose of obtaining statistical information, it shall be lawful for the Chief Statistician or the director of a research and statistics unit to issue a requisition to any person to furnish particulars and supply information to him relating to any matter to which this Act applies, and every such person is bound to furnish particulars and supply information to the best of his knowledge and belief.
 
-[Act 9 of 1990 wef 06/04/1990]
-
-(2) A requisition shall be in writing and shall be served upon the person to whom it is addressed in the manner specified in section 9 and shall specify the particulars of information required.
+(2) A requisition shall be in writing and shall be served upon the person to whom it is addressed in the manner specified in section 11 and shall specify the particulars of information required.
 
 (3) A requisition may —
 
@@ -112,31 +114,35 @@ An Act relating to statistics.
 
 (4) No person is bound to furnish any particulars or information other than those which are accessible to him in or derived by him from any business, occupation or work in the conduct or supervision of which he is engaged.
 
-[Act 9 of 1990 wef 06/04/1990]
+[4
+
+[9/90]
 
 ### Power to request information from research and statistics units and other competent authorities
 
-4A\.—(1) For the purpose of obtaining statistical information relating to any matter to which this Act applies, the Chief Statistician may in writing direct —
+6\.—(1) For the purpose of obtaining statistical information relating to any matter to which this Act applies, the Chief Statistician may in writing direct —
 
-(a) the director of any research and statistics unit specified in the Second Schedule to furnish or supply to him any particulars or information obtained by the director under section 4 pursuant to any requisition issued by the director on or after the commencement of the Statistics (Amendment) Act 1990; or
+(a) the director of any research and statistics unit specified in the Second Schedule to furnish or supply to him any particulars or information obtained by the director under section 5 pursuant to any requisition issued by the director on or after 6th April 1990; or
 
-(b) any competent authority specified in the first column of the Third Schedule to furnish or supply to him any particulars or information specified in the second column of the Third Schedule and obtained pursuant to any request by the competent authority made on or after the commencement of the Statistics (Amendment) Act 1990,
+(b) any competent authority specified in the first column of the Third Schedule to furnish or supply to him any particulars or information specified in the second column of the Third Schedule and obtained pursuant to any request by the competent authority made on or after 6th April 1990,
 
 and, notwithstanding the provisions of this Act or any other written law, the director or competent authority shall furnish and supply those particulars and information within such time as may be agreed to by the Chief Statistician and the director or competent authority, as the case may be.
 
 (2) Notwithstanding the provisions of this Act or any other written law, no person shall be guilty of an offence under this Act or that other written law or of any breach of confidence by virtue merely of his disclosing any particulars or information to the Chief Statistician pursuant to any direction under subsection (1).
 
-(3) Where an amendment to the Third Schedule inserts or deletes and substitutes any particulars or information specified in the second column of the Third Schedule, subsection (1)(b) shall have effect as if for the reference to the commencement of the Statistics (Amendment) Act 1990 there were substituted the date on which the amendment comes into operation.
+(3) Where an amendment to the Third Schedule inserts or deletes and substitutes any particulars or information specified in the second column of the Third Schedule, subsection (1)(b) shall have effect as if for the reference to 6th April 1990 there were substituted the date on which the amendment comes into operation.
 
 (4) Subsection (1) shall not apply to any particulars or information obtained under any written law relating to taxation or administered by the Monetary Authority of Singapore.
 
 (5) In this Act, “competent authority” means any public officer, or any statutory body established by or under any written law or any officer thereof, being under any obligation imposed by any written law to observe secrecy in respect of any particulars or information obtained by the public officer or the statutory body or officer thereof in the administration of that written law.
 
-[Act 9 of 1990 wef 06/04/1990]
+[4A
+
+[9/90]
 
 ### Disclosure of information
 
-5\.—(1) No particulars or information or any part thereof relating to any individual person obtained under the provisions of this Act shall, without the previous consent in writing of that person, be disclosed except —
+7\.—(1) No particulars or information or any part thereof relating to any individual person obtained under the provisions of this Act shall, without the previous consent in writing of that person, be disclosed except —
 
 (a) compiled statistics on the operation of an industry may be published irrespective of the number of persons engaged in that industry unless the industry is exempted by the Minister responsible for the Government department or Ministry in possession of such particulars from having its data published;
 
@@ -146,7 +152,7 @@ and, notwithstanding the provisions of this Act or any other written law, the di
 
 (d) information of a general nature including products manufactured or handled, size of establishment, number of employees and addresses, which could be obtained from other sources.
 
-(2) The Minister responsible for the Government department or Ministry issuing any requisition under this Act shall have due regard to the circumstances of various trades and industries and in particular to the importance of avoiding the disclosure in any return of any trade secret or of trading profits or of any other information the disclosure of which would be likely to tend to the prejudice of the person furnishing the return.
+(2) The Minister responsible for the Government department or Ministry issuing any requisition under this Act shall have due regard to the circumstances of various trades and industries and, in particular, to the importance of avoiding the disclosure in any return of any trade secret or of trading profits or of any other information the disclosure of which would be likely to tend to the prejudice of the person furnishing the return.
 
 (3) If any information to be obtained under this Act is also obtainable under any other written law which restricts the disclosure of information obtained thereunder, and the Minister is of the opinion that similar restrictions should be applied to any information to be obtained under this Act, the Minister shall by order provide for the application, without modifications or with such adaptations or modifications as he thinks fit, of those restrictions to the information to be so obtained, or any part thereof, in addition to the restrictions imposed by this section.
 
@@ -154,21 +160,23 @@ and, notwithstanding the provisions of this Act or any other written law, the di
 
 (5) The compilation of any report, summary or other communication to the public of information obtained under this Act shall be so arranged as to prevent any particulars published therein from being identified as being particulars relating to any individual person except with the previous consent in writing of that person.
 
-(5A) Where —
+(6) Where —
 
-(a) any particulars or information relating to any individual person have been obtained from a competent authority under section 4A(1)(b); and
+(a) any particulars or information relating to any individual person have been obtained from a competent authority under section 6(1)(b); and
 
 (b) the particulars or information were obtained by that competent authority under any written law which restricts the disclosure of information so obtained,
 
-then, in addition to the restrictions imposed by this section and any order under subsection (3), no such particulars or information shall be disclosed without the written permission of that competent authority.
+then, in addition to the restrictions imposed by this section and any order made under subsection (3), no such particulars or information shall be disclosed without the written permission of that competent authority.
 
-[Act 9 of 1990 wef 06/04/1990]
+[9/90]
 
-(6) If any person discloses any returns or any information contrary to this section, or of any order made thereunder, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+(7) If any person discloses any returns or any information contrary to this section, or of any order made thereunder, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+
+[5
 
 ### Impersonation of a statistical officer
 
-6\.—(1) Any person who impersonates a statistical officer shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 6 months.
+8\.—(1) Any person who impersonates a statistical officer shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 6 months.
 
 (2) In this section, statistical officer means —
 
@@ -176,11 +184,13 @@ then, in addition to the restrictions imposed by this section and any order unde
 
 (b) an officer of a research and statistics unit.
 
-(c) [Deleted by Act 9 of 1990 wef 06/04/1990]
+[6
+
+[9/90]
 
 ### Penalties
 
-7\.—(1) Any person who —
+9\.—(1) Any person who —
 
 (a) wilfully refuses or without lawful excuse (the proof of which lies on him) neglects to furnish the particulars or information required within the time allowed for furnishing them or to furnish them in the form specified or prescribed, or to authenticate them in the prescribed manner, or to deliver them at the place or in the manner specified or prescribed for the delivery thereof;
 
@@ -188,23 +198,23 @@ then, in addition to the restrictions imposed by this section and any order unde
 
 (c) refuses to answer, or wilfully gives a false answer to, any question necessary for obtaining any information or particulars required by a requisition to be furnished under this Act,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000, and in the case of a continuing offence to a further fine not exceeding $100 for every day during which the offence continues after conviction.
+[9/90]
 
-[Act 9 of 1990 wef 06/04/1990]
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
 
 (2) A certificate under the hand of the Chief Statistician or the director of a research and statistics unit stating that such returns have not been furnished or are incorrect shall be prima facie evidence of the facts stated in the certificate.
 
-[Act 9 of 1990 wef 06/04/1990]
+[7
 
 ### Compounding of offences
 
-8\. The Chief Statistician or the director of a research and statistics unit may compound any of the offences under section 7 by accepting from any person reasonably suspected of committing such offence a sum of money not exceeding $200.
+10\. The Chief Statistician or the director of a research and statistics unit may compound any of the offences under section 9 by accepting from a person reasonably suspected of having committed the offence a sum not exceeding $200.
 
-[Act 9 of 1990 wef 06/04/1990]
+[8
 
 ### Service of requisition
 
-9\. Subject to any rules made under section 10 requisitions may be served as follows:
+11\. Subject to any rules made under section 12, requisitions may be served as follows:
 
 (a) if the person on whom service is to be effected is within Singapore, the requisition may be delivered to him or left with some adult member of his family residing with him;
 
@@ -226,9 +236,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (iii) sent by registered post addressed to the company or corporation at its registered office.
 
+[9
+
 ### Rules and orders
 
-10\.—(1) The Minister may make rules —
+12\.—(1) The Minister may make rules —
 
 (a) for regulating the method of collecting statistics, the staff to be employed in connection therewith, the duties to be performed and the publication to be issued;
 
@@ -238,31 +250,207 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) generally for carrying out the purposes and provisions of this Act.
 
-(2) All rules made under this section and all orders made under section 5 shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
+(2) All rules made under this section and all orders made under section 7 shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[10
 
 ### Amendment of Schedules
 
-11\.—(1) Subject to subsection (2), the Minister may, by notification in theGazette, amend the First, Second or Third Schedule.
+13\.—(1) Subject to subsection (2), the Minister may, by notification in theGazette, amend the First, Second or Third Schedule.
 
 (2) The Minister shall not insert or delete and substitute any particulars or information specified in the second column of the Third Schedule without the approval of the Minister responsible for the written law under which those particulars and information are obtained.
 
-[Act 9 of 1990 wef 06/04/1990]
+[11
 
 ### Transitional provision
 
-12\. All information collected by the Department of Statistics before the commencement of this Act shall be subject to the same safeguards as respects disclosure as are provided by this Act as if that information was collected under this Act.
+14\. All information collected by the Department of Statistics before the commencement of this Act shall be subject to the same safeguards as respects disclosure as are provided by this Act as if that information was collected under this Act.
+
+[12
 
 FIRST SCHEDULE
 
-Sections 3(1) and 11.
+Sections 3(1) and 13.
 
 Subject matters
 
+1.
+
+Accidents
+
+23.
+
+Income and expenditure
+
+2.
+
+Agriculture
+
+24.
+
+Insurance
+
+3.
+
+Animal husbandry
+
+25.
+
+Internal trade
+
+4.
+
+Banking
+
+26.
+
+Labour
+
+5.
+
+Births and Deaths
+
+27.
+
+Land use
+
+6.
+
+Building
+
+28.
+
+Manpower
+
+7.
+
+Citizenship
+
+29.
+
+Manufacturing
+
+8.
+
+Commerce
+
+30.
+
+Marriage and divorce
+
+9.
+
+Communications
+
+31.
+
+Meteorology
+
+10.
+
+Construction
+
+32.
+
+Mining
+
+11.
+
+Crime
+
+33.
+
+Narcotics
+
+12.
+
+Culture
+
+34.
+
+Pollution
+
+13.
+
+Education
+
+35.
+
+Population
+
+14.
+
+Energy
+
+36.
+
+Power
+
+15.
+
+External trade
+
+37.
+
+Prisons
+
+16.
+
+Family planning
+
+38.
+
+Quarrying
+
+17.
+
+Fisheries
+
+39.
+
+Recreation
+
+18.
+
+Forestry
+
+40.
+
+Social security
+
+19.
+
+Finance
+
+41.
+
+Sports
+
+20.
+
+Health
+
+42.
+
+Tourism
+
+22.
+
+Housing
+
+43.
+
+Transport.
+
+22.
+
+Immigration and emigration
+
 SECOND SCHEDULE
 
-Sections 3A, 4A, 5 and 11.
+Sections 4, 6, 7 and 13.
 
-Research and Statistics Units
+Research and statistics units
 
 1. 
 
@@ -292,17 +480,15 @@ Research and Statistics Unit of the Ministry of Labour.
 
 Statistics Unit, Banking and Financial Institutions Department of the Monetary Authority of Singapore.
 
-[Act 9 of 1990 wef 06/04/1990]
-
 THIRD SCHEDULE
 
-Sections 4A, 5 and 11.
+Sections 6, 7 and 13.
 
 Competent authorities
 
-First column.
+First column
 
-Second column.
+Second column
 
 1.
 
@@ -321,8 +507,6 @@ Particulars and information relating to the employment, employer and wages of Ce
 Trade Development Board
 
 Particulars and information obtained by the Trade Development Board under section 3 of the Registration of Imports and Exports Act (Chapter 270) and any rules made thereunder.
-
-[Act 9 of 1990 wef 06/04/1990]
 
 ## LEGISLATIVE HISTORY
 
@@ -351,3 +535,5 @@ This Legislative History is provided for the convenience of users of the Statist
 |||(Bill No. 9/90 published on 3 March 1990)|
 ||Date of Second and Third Readings|28 March 1990|
 ||Date of commencement|6 April 1990|
+|5.|**1991 Revised Edition—Statistics Act (Chapter 317)**|
+||Date of operation|1 March 1991|
