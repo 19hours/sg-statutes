@@ -126,7 +126,7 @@
 
 [**Division 4  Miscellaneous Provisions**](#Division-4--Miscellaneous-Provisions)
 
-- [50 Where Council member is in public service](#Where-Council-member-is-in-public-service)
+- [50 Where Council member is in public service or is officer of Board](#Where-Council-member-is-in-public-service-or-is-officer-of-Board)
 
 - [51 Service of documents](#Service-of-documents)
 
@@ -146,7 +146,7 @@
 
 - [58 No action against Council, etc., in absence of bad faith](#No-action-against-Council-etc-in-absence-of-bad-faith)
 
-- [59 Exemption in respect of persons in public service and prescribed companies or organisations](#Exemption-in-respect-of-persons-in-public-service-and-prescribed-companies-or-organisations)
+- [59 Exemption in respect of persons in public service or employed by Board or prescribed companies or organisations](#Exemption-in-respect-of-persons-in-public-service-or-employed-by-Board-or-prescribed-companies-or-organisations)
 
 - [60 Exemption in respect of medical practitioners](#Exemption-in-respect-of-medical-practitioners)
 
@@ -199,6 +199,10 @@ PRELIMINARY
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
+
+“Board” means the Health Promotion Board established under the Health Promotion Board Act 2001;
+
+[5/2001 wef 01/04/2001]
 
 “certificate of registration” means a certificate of registration issued under section 16 ;
 
@@ -384,7 +388,7 @@ General
 
 ### Registrar
 
-12\.—(1) For the purposes of this Act and the regulations made thereunder, the Minister shall appoint a public officeras the Registrar.
+12\.—(1) For the purposes of this Act and the regulations made thereunder, the Minister shall appoint a registered dentist as the Registrar.
 
 (2) The Minister may appoint a person to act as Registrar during the absence from Singapore or incapacity from illness or otherwise of the Registrar.
 
@@ -672,7 +676,7 @@ Complaints Committee
 
 (c) information given to the Council touching upon the physical or mental fitness of a registered dentist to practise dentistry,
 
-shall be in writing and shall be supported by such statutory declaration as the Council may require, except that no statutory declaration shall be required if the complaint or information is made or given by any public officer.
+shall be in writing and shall be supported by such statutory declaration as the Council may require, except that no statutory declaration shall be required if the complaint or information is made or given by any public officer or officer of the Board.
 
 (2) The Council shall refer any complaint or information referred to in subsection (1), other than a complaint or information touching upon any matter set out in section 21(1)(a) to (e), to a Complaints Committee.
 
@@ -988,9 +992,11 @@ Division 4 —
 
 Miscellaneous Provisions
 
-### Where Council member is in public service
+### Where Council member is in public service or is officer of Board
 
-50\. A member of the Council who is in the public service shall not be disqualified from being the chairman or a member of a Complaints Committee or a member of a Disciplinary Committee or the Health Committee by reason only that he, or the person who made the complaint or gave the information leading to the proceeding in question, is in the public service.
+50\. A member of the Council who is in the public service or who is an officer of the Board shall not be disqualified from being the chairman or a member of a Complaints Committee or a member of a Disciplinary Committee or the Health Committee by reason only that he, or the person who made the complaint or gave the information leading to the proceeding in question, is in the public service or is an officer of the Board.
+
+[5/2001 wef 01/04/2001]
 
 ### Service of documents
 
@@ -1044,7 +1050,7 @@ who are not public officers or full-time members of the academic staff of the Na
 
 ### Inspectors
 
-56\.—(1) The Council may appoint one or more public officersas inspectors to investigate the commission of an offence under this Act or any regulations made thereunder.
+56\.—(1) The Council may appoint one or more public officers or officers of the Board as inspectors to investigate the commission of an offence under this Act or any regulations made thereunder.
 
 (2) In any case relating to the commission of an offence under this Act or any regulations made thereunder, an inspector shall have the power to do all or any of the following:
 
@@ -1078,15 +1084,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 58\. No action or legal proceedings shall lie against the Council, a Complaints Committee, a Disciplinary Committee, the Health Committee or any committee appointed by the Council, or any member or employee thereof, for any act or thing done under this Act or any regulations made thereunder unless it is proved to the court that the act or thing was done in bad faith or with malice.
 
-### Exemption in respect of persons in public service and prescribed companies or organisations
+### Exemption in respect of persons in public service or employed by Board or prescribed companies or organisations
 
 59\.—(1) Nothing in this Act shall prevent —
 
-(a) the carrying out of any act which comes within the practice of dentistry by a person in the public service if the act is carried out —
+(a) the carrying out of any act which comes within the practice of dentistry by a person who is in the public service or who is an officer of the Board if the act is carried out —
 
-(i) in the course of the person’s duties in the public service; and
+(i) in the course of the person’s duties in the public service or as an officer of the Board; and
 
 (ii) under the supervision of a registered dentist whose name appears in the first division of the register; or
+
+[5/2001 wef 01/04/2001]
 
 (b) the carrying out of any act which comes within the practice of dentistry by a person employed by a company or other organisation prescribed under subsection (2) if the act is carried out —
 
@@ -1492,6 +1500,12 @@ This Legislative History is provided for the convenience of users of the Dental 
 ||Date of commencement|15 October 1999|
 |16.|**2000 Revised Edition—Dentists Act (Chapter 76)**|
 ||Date of operation|30 December 2000|
+|17.|**Act 5 of 2001—Health Promotion Board Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 2/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
 ## COMPARATIVE TABLE
 
 Dentists Act
