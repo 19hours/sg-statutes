@@ -58,6 +58,8 @@
 
 - [20 Borrowing powers](#Borrowing-powers)
 
+- [20A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [21 Moneys of Council](#Moneys-of-Council)
 
 - [22 Financial provisions](#Financial-provisions)
@@ -358,6 +360,12 @@ FINANCIAL PROVISIONS
 
 [19
 
+### Issue of shares, etc.
+
+20A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Council under this Act, or of any capital injection or other investment by the Government in the Council in accordance with any written law, the Council shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
+
 ### Moneys of Council
 
 21\.—(1) The Council shall open and maintain such accounts with a bank or banks as it considers necessary.
@@ -405,8 +413,6 @@ MISCELLANEOUS
 (2) All regulations made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
 [23
-
-[48/75]
 
 ## THE SCHEDULE
 
@@ -513,3 +519,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|1 December 1977|
 |4.|**1985 Revised Edition—Singapore Sports Council Act 1985 (Chapter 305)**|
 ||Date of operation|30 March 1987|
+|5.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002 (item (43) of the Schedule –– amendment of Singapore Sports Council Act)|
