@@ -586,13 +586,13 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 
 (a) the market value —
 
-(i) as at 30th November 1973 in respect of land acquired before 30th November 1987, and as at 1st January 1986 in respect of land acquired on or after that date;
+(i) 
 
-(ii) as at the date of the publication of the notification under section 3(1) if the notification is, within 6 months from the date of its publication, followed by a declaration under section 5 in respect of the same land or part thereof; or
+(A) as at 30th November 1973 in respect of land acquired before 30th November 1987;
 
-(iii) as at the date of the publication of the declaration made under section 5,
+(B) as at 1st January 1986 in respect of land acquired on or after 30th November 1987 but before 18th January 1993; and
 
-whichever is the lowest;
+(C) as at 1st January 1992 in respect of land acquired on or after 18th January 1993;
 
 (b) any increase in the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put;
 
@@ -612,7 +612,13 @@ whichever is the lowest;
 
 (a) one-third of the value of such land had it been vacant land not subject to encumbrances, tenancies or occupation by squatters unless the Minister in his discretion, by notification in theGazette, specifies otherwise; or
 
-(b) the market value of the land as at 30th November 1973 in respect of land acquired before 30th November 1987, and the market value of the land as at 1st January 1986 in respect of land acquired on or after that date,
+(b) the market value of the land —
+
+(i) as at 30th November 1973 in respect of land acquired before 30th November 1987;
+
+(ii) as at 1st January 1986 in respect of land acquired on or after 30th November 1987 but before 18th January 1993; and
+
+(iii) as at 1st January 1992 in respect of land acquired on or after 18th January 1993,
 
 [Subst. by Act 38/95 wef 01/12/1995 vide S 524/95]
 
@@ -854,3 +860,8 @@ This Legislative History is provided for the convenience of users of the Land Ac
 |||(Bill No. 25/1987 published on 2 December 1987)|
 ||Date of Second and Third Readings|12 January 1988|
 ||Date of commencement|12 February 1988|
+|8.|**Act 9 of 1993—Land Acquisition (Amendment) Act 1993**|
+||Date of First Reading|18 January 1993|
+|||(Bill No. 2/1993 published on 19 January 1993)|
+||Date of Second and Third Readings|26 February 1993|
+||Date of commencement|16 April 1993|
