@@ -196,7 +196,7 @@
 
 - [37A Restriction on deduction of trading losses against dividends](#Restriction-on-deduction-of-trading-losses-against-dividends)
 
-- [37B Adjustment of capital allowances and losses between income subject to tax at concessionary and normal rates of tax](#Adjustment-of-capital-allowances-and-losses-between-income-subject-to-tax-at-concessionary-and-normal-rates-of-tax)
+- [37B Adjustment of capital allowances and losses between income subject to tax at concessionary and normal rates of tax Adjustment of capital allowances, losses or donations between income subject to tax at different rates](#Adjustment-of-capital-allowances-and-losses-between-income-subject-to-tax-at-concessionary-and-normal-rates-of-tax-Adjustment-of-capital-allowances-losses-or-donations-between-income-subject-to-tax-at-different-rates)
 
 - [37C Group relief for Singapore companies](#Group-relief-for-Singapore-companies)
 
@@ -486,21 +486,19 @@ PRELIMINARY
 
 “basis period” for any year of assessment means the period on the profits of which tax for that year falls to be assessed;
 
-“body of persons” means any body politic, corporate or collegiate, any corporation sole and any fraternity, fellowship or society of persons whether corporate or unincorporate but does not include a company or a partnership;
-
-“Central Fund Administration” means any institution of a public character appointed to be a Central Fund Administrator under section 107(1);
+“body of persons” means any body politic, corporate or collegiate, any corporation sole and any fraternity, fellowship or society of persons whether corporate or not corporate but does not include a company or a partnership;
 
 “Commonwealth”, in relation to a country, means any country recognised by the President to be a Commonwealth country and “part of the Commonwealth” means any Commonwealth country, colony, protectorate or protected state or any other territory administered by the government of any Commonwealth country;
 
 “company” means any company incorporated or registered under any law in force in Singapore or elsewhere;
 
-“Comptroller” means the Comptroller of Income Tax appointed under section 3(1) and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 45(7), 67(1)(a), 95, 96, 96A and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
+“Comptroller” means the Comptroller of Income Tax appointed under section 3(1) and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 45(7), 67(1)(a), 95, 96and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
 
 “country” includes a territory;
 
 “crops” includes any form of vegetable produce;
 
-“earned income” means the statutory income of an individual or a Hindu joint family, reduced by any deduction made under section 37(3)(a)from —
+“earned income” means the statutory income of an individual or a Hindu joint family, reduced by any deduction made under section 37(2)(a) from —
 
 (a) gains or profits from any trade, business, profession, vocation or employment on which tax is payable under section 10(1), where the Comptroller is satisfied that such gains or profits are immediately derived from the carrying on or exercise by such individual or Hindu joint family, as the case may be, of such trade, business, profession, vocation or employment; and
 
@@ -518,7 +516,9 @@ and “employer” and other cognate expressions shall be construed accordingly;
 
 “executor” means any executor, administrator or other person administering the estate of a deceased person;
 
-“Fund Manager” or “fund manager” means a company holding a capital markets services licence under the Securities and Futures Act (Cap. 289) for fund management or that is exempted under that Act from holding such a licence;
+“Fund manager” or “fund manager” means a company holding a capital markets services licence under the Securities and Futures Act 2001 for fund management or that is exempted under that Act from holding such a licence;
+
+[42/2001 wef 01/10/2002]
 
 “goods” includes currency and specie;
 
@@ -527,26 +527,6 @@ and “employer” and other cognate expressions shall be construed accordingly;
 “Hindu joint family” means what in any system of law prevailing in India is known as a Hindu joint family or a co-parcenary;
 
 “incapacitated person” means any infant, lunatic, idiot or insane person;
-
-“institution of a public character” means an institution or fund in Singapore which is —
-
-(a) a hospital not operated or conducted for profit;
-
-(b) a public or benevolent institution not operated or conducted for profit;
-
-(c) a public authority or society not operated or conducted for profit and which is engaged in research or other work connected with the causes, prevention or cure of disease in human beings, where the donation is for such activities;
-
-(d) a university or a public fund for the establishment, maintenance, enlargement or improvement of a university;
-
-(e) an educational institution not operated or conducted for profit, or a public fund for the establishment, maintenance, enlargement or improvement of such an educational institution;
-
-(f) a public or private fund for the provision, establishment or endowment of a scholarship, exhibition or prize in a university, or an educational institution not operated or conducted for profit;
-
-(g) a public fund established and maintained for the relief of distress among members of the public;
-
-(h) a charitable institution or a body of persons or a trust established for charitable purposes only; or
-
-(i) an organisation not operated or conducted primarily for profit which is engaged in or connected with the promotion of culture or the arts or with the promotion of sports;
 
 “life annuity” means an annuity payable under a policy issued to an SRS member for a term ending with, or at a time ascertainable only by reference to, the end of his life;
 
@@ -574,15 +554,15 @@ and “employer” and other cognate expressions shall be construed accordingly;
 
 and without prejudice to the generality of the foregoing, a person shall be deemed to have a permanent establishment in Singapore if that person —
 
-(i) carries on supervisory activities in connection with a building or work site or a construction, installation or assembly project; or
+(j) carries on supervisory activities in connection with a building or work site or a construction, installation or assembly project; or
 
-(ii) has another person acting on that person’s behalf in Singapore who —
+(k) has another person acting on that person’s behalf in Singapore who —
 
-(A) has and habitually exercises an authority to conclude contracts;
+(i) has and habitually exercises an authority to conclude contracts;
 
-(B) maintains a stock of goods or merchandise for the purpose of delivery on behalf of that person; or
+(ii) maintains a stock of goods or merchandise for the purpose of delivery on behalf of that person; or
 
-(C) habitually secures orders wholly or almost wholly for that person or for such other enterprises as are controlled by that person;
+(iii) habitually secures orders wholly or almost wholly for that person or for such other enterprises as are controlled by that person;
 
 “person” includes a company, body of persons and a Hindu joint family;
 
@@ -638,7 +618,7 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 
 “year of assessment” means the period of 12 months commencing on 1st January 1948, and each subsequent period of 12 months.
 
-[26/73; 37/75; 5/77; 28/80; 13/84; 31/86; 3/89; 11/94; 32/95; 1/98; 31/98; 32/99; 24/2001; 42/2001; 37/2002; 21/2003]
+[26/73; 37/75; 5/77; 28/80; 13/84; 31/86; 3/89; 11/94; 32/95; 1/98; 31/98; 32/99; 24/2001]
 
 (2) For the purposes of this Act, where an individual is present in Singapore for any part of a day his presence on that day shall be counted as one day.
 
@@ -758,7 +738,7 @@ IMPOSITION OF INCOME TAX
 
 (b) gains or profits from any employment;
 
-(c) [[Deleted by Act 29/65];]
+(c) [Deleted by Act 29/65);]
 
 (d) dividends, interest or discounts;
 
@@ -1810,14 +1790,6 @@ EXEMPTION FROM INCOME TAX
 
 [49/2004 wef 27/02/2004]
 
-(ab) subject to subsection (2B) and such conditions as may be prescribed by regulations, any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2008, to any person —
-
-(i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
-
-(ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
-
-[34/2005 wef 01/01/2005]
-
 (b) the official emoluments of consular officers (as defined in the Consular Conventions Act (Cap. 52)) of foreign countries and of Commonwealth officers (as defined in the Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act (Cap. 83)) and of persons employed on the staff of any such consular or Commonwealth officer who are subjects or citizens of the country which they represent, but only to the extent to which reciprocal treatment is accorded by the country which they represent to Singapore consular officers or to corresponding members of the staff of such consular officer;
 
 (c) the official emoluments payable from Commonwealth funds to members of Commonwealth forces, and to persons in the service of a Commonwealth government, in Singapore, in respect of their offices under such Commonwealth government, if such emoluments are subject to income tax in such Commonwealth country;
@@ -1952,12 +1924,6 @@ except where such income is derived through a partnership in Singapore or is der
 
 [49/2004 wef 30/11/2004]
 
-(zf) any amount payable from Islamic debt securities on or after 1st January 2005 to any individual, except where such amount is derived by the individual through a partnership in Singapore or from the carrying on of a trade, business or profession; and
-
-[34/2005 wef 01/01/2005]
-
-[7/2007 wef 13/02/2007]
-
 (zg) any distribution made by any registered business trust.
 
 [34/2005 wef 21/09/2004]
@@ -1979,14 +1945,6 @@ except where such income is derived through a partnership in Singapore or is der
 (b) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
 
 [49/2004 wef 27/02/2004]
-
-(2B) Subsection (1)(ab) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any amount payable from any Islamic debt securities which are qualifying debt securities where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where the amount is payable to —
-
-(a) any related party of the issuer of those securities; or
-
-(b) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
-
-[34/2005 wef 01/01/2005]
 
 (3) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
 
@@ -2096,7 +2054,7 @@ the income received by a person resident in Singapore from such source in any co
 
 “child”, in relation to an employee, means any legitimate child, illegitimate child, step-child, child adopted in accordance with any written law relating to the adoption of children and any child whom the employee is the legal guardian;
 
-“deposit”, in relation to any standard savings, current or fixed deposit account referred to in subsection (1)(zc), means any deposit of moneys but does not include —
+“deposit”, in relation to any standard savings, current or fixed deposit account referred to in subsection (1)(zc)and (zd), means any deposit of moneys but does not include —
 
 (a) any deposit of moneys the interest from which is determined by the performance of any securities or by the fluctuations in currency exchange rates or by any combination thereof; and
 
@@ -2105,10 +2063,6 @@ the income received by a person resident in Singapore from such source in any co
 “financial institution” means an institution licensed or approved by the Monetary Authority of Singapore, and includes an institution approved as an approved Fund Manager under section 43A and an institution approved as a Finance and Treasury Centre under section 43G;
 
 “financial sector incentive (bond market) company” means a company approved as such by the Minister or such person as he may appoint;
-
-“Islamic debt securities” has the same meaning as in section 43N(4);
-
-[34/2005 wef 01/01/2005]
 
 “qualifying debt securities” means —
 
@@ -2125,6 +2079,12 @@ the income received by a person resident in Singapore from such source in any co
 (B) during the period from 27th February 1999 to 31st December 2003 in any other case; or
 
 (iii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2004 to 31st December 2008,
+
+but, unless otherwise approved by the Minister or such person as he may appoint, excludes any debt securities issued on or after 10th May 1999 which, during its primary launch —
+
+(AA) are issued to less than 4 persons; and
+
+(BB) 50% or more of the issue of debt securities is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities;
 
 “related party”, in relation to a person, means any other person who, directly or indirectly, controls that person, or is controlled, directly or indirectly, by that person, or where he and that other person, directly or indirectly, are under the control of a common person;
 
@@ -2272,10 +2232,6 @@ ought not to have been so exempt, the Comptroller may at any time within 6 years
 
 (4) So much of the amount of any dividends debited to the account as is received by a shareholder of the company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
 
-(4A) Any dividends debited to the account shall be treated as having been distributed to the shareholders of the company or any particular class of the shareholders in accordance with the proportion of their shareholdings in the company.
-
-[37/2002 wef 10/12/2002]
-
 (5) Section 44 shall not apply to any dividends or part thereof which are exempt from tax under this section.
 
 [1/90]
@@ -2284,9 +2240,9 @@ ought not to have been so exempt, the Comptroller may at any time within 6 years
 
 [3/89]
 
-(6A) Notwithstanding subsections (4) and (6), no dividend paid on any share of a preferential nature shall be exempt from tax under this section in the hands of the shareholder.
+(6A) Notwithstanding subsections (4) and (6), no dividend paid on or after 17th February 1989 on any share of a preferential nature shall be exempt from tax in the hands of the shareholder.
 
-[21/2003 wef 10/12/2002]
+[3/89]
 
 (7) A company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
 
@@ -2414,7 +2370,7 @@ as the case may be.
 
 (a) only apply to income received on or after 1st January 1991;
 
-(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43Ror 43S or section 19B or 19J of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86); and
+(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P or 43Q or section 19B or 19J of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86); and
 
 (c) not apply to income derived from Malaysia and received in Singapore by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order.
 
@@ -3584,7 +3540,9 @@ is the number of years of assessment for which any deduction has been allowed un
 
 (c) notwithstanding anything in section 20(3), in no case shall the amount on which a balancing charge is made on a person exceed an amount computed in accordance with the formula
 
-where C and D have the same meanings as in paragraph (b).
+where C and D
+
+have the same meanings as in paragraph (b).
 
 [32/99]
 
@@ -4128,11 +4086,7 @@ for the purposes of a trade, business or profession carried on by him, he shall,
 
 [32/99]
 
-(LJ) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has incurred capital expenditure on the provision of a website for the purposes of a trade, business or profession carried on by him, he shall be entitled to an allowance of 100% in respect of the capital expenditure incurred on the provision of that website, and for this purpose, a website is deemed to be machinery or plant.
-
-[37/2002 wef 03/05/2002]
-
-(1K) Any claim by a person for allowances in respect of any machinery or plant under this section for any year of assessment shall not be disallowed by reason only that the person has not in use the machinery or plant at the end of the basis period for that year of assessment.
+(1J) Any claim by a person for allowances in respect of any machinery or plant under this section for any year of assessment shall not be disallowed by reason only that the person has not in use the machinery or plant at the end of the basis period for that year of assessment.
 
 [28/96; 31/98]
 
@@ -4300,11 +4254,7 @@ which has been certified by the Singapore Productivity and Standards Board or th
 
 (i) is registered within one month before, or within 6 months after, the deregistration of the existing vehicle; and
 
-(ii) bears an index mark which is the same as that of the index mark of the existing vehicle, and for this purpose, where the new goods vehicle and the existing vehicle have a maximum laden weight exceeding 3.0 metric tons but not exceeding 3.5 metric tons, the new goods vehicle shall be deemed to bear an index mark which is the same as that of the existing vehicle;
-
-(p) “website” means a collection of programmes, data and images which is accessible over the Internet or any network using a browser or any other form of access.
-
-[37/2002 wef 03/05/2002]
+(ii) bears an index mark which is the same as that of the index mark of the existing vehicle, and for this purpose, where the new goods vehicle and the existing vehicle have a maximum laden weight exceeding 3.0 metric tons but not exceeding 3.5 metric tons, the new goods vehicle shall be deemed to bear an index mark which is the same as that of the existing vehicle.
 
 [15/83; 13/84; 7/85; 1/90; 28/96; 31/98; 32/99; 24/2000]
 
@@ -4996,51 +4946,13 @@ ASCERTAINMENT OF ASSESSABLE INCOME
 
 [23/69]
 
-(2) There shall be deducted —
-
-(a) the amount of loss incurred by that person in any trade, business, profession or vocation, which, if it had been a profit would have been assessable under this Act, in the following order:
-
-(i) firstly, any balance of such loss which remains unabsorbed at the end of the basis period for the previous year of assessment; and
-
-(ii) secondly, the amount incurred during the basis period for the year of assessment;
-
-[37/2002 wef 10/12/2002]
-
-(b) an amount equivalent to twice the value, the value to be determined by the Minister or such person as he may appoint, of an approved donation of —
-
-(i) any artefact made by him in the year preceding the year of assessment to an approved museum; or
-
-(ii) any sculpture for public display outdoors made by him in the year preceding the year of assessment to an approved recipient not being an approved museum,
-
-and for this purpose, “approved” means approved by the Minister or such person as he may appoint;
-
-[21/2003 wef 01/04/2003]
-
-(c) an amount equivalent to twice the amount of any donation of money made by him in the year preceding the year of assessment to the Government or to any institution of a public character in Singapore approved by the Ministeron application by the institution concerned;
-
-(d) an amount equivalent to twice the value of any donation of a computer (including computer software and peripherals) approved by the Minister or such person as he may appoint and made by any company in the year preceding the year of assessment to a prescribed educational, research or other institution in Singapore; and
-
-(e) an amount equivalent to —
-
-(i) twice the value of any donation of shares in a company listed on the Singapore Exchange; or
-
-(ii) twice the value of any donation of units in unit trusts traded in Singapore ,
-
-made by an individual in the year preceding the year of assessment to any institution of a public character in Singapore approved by the Minister on the application by that institution; and
-
-[Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
-
-(f) an amount equivalent to twice the value, the value to be determined by an appraiser licensed under the Appraisers and House Agents Act (Cap. 16) and approved by the Chief Valuer appointed under the State Lands Act (Cap. 314), of any donation of any immovable property made by him in the year preceding the year of assessment to any institution of a public character approved by the Minister or any Central Fund Administrator on the application by that institution.
-
-[21/2003 wef 01/04/2003]
-
 (2A) A deduction under subsection (2)(a)(i) shall be made as far as possible from the statutory income of the first year of assessment after the year in which such loss was incurred, and, so far as it cannot be so made, then from the statutory income of the next year of assessment, and so on.
 
 (2B) Where, in any year of assessment, the amount of loss incurred by any person during the year preceding the year of assessment is not fully deducted under subsection (2)(a)(ii), the balance of such loss, after deducting any amount of such loss transferred to a claimant company under section 37C, shall be available for deduction against his statutory income for subsequent year of assessment under subsection (2)(a)(i).
 
 [Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
-(2C) The deduction allowed under subsection (2) (b), (c), (d), (e) or (f) shall be reduced to an amount equivalent to the value of the donation if it is made by any of the following persons:
+(2C) The deduction allowed under subsection (2)(b), (c), (d) or (e) shall be reduced to an amount equivalent to the value of the donation if it is made by any of the following persons:
 
 (a) if the recipient of the donation is named after an individual and the donation is made while he is alive, by —
 
@@ -5066,15 +4978,15 @@ made by an individual in the year preceding the year of assessment to any instit
 
 [Act 37/2002; Act 21/2003 wef 01/04/2003]
 
-(2D) A deduction under this section to any person in respect of any sum allowable under subsection (2)(b), (c), (d), (e) or (f) or (2C) shall only be allowed against his statutory income after the deduction under subsection (2)(a).
+(2D) A deduction under this section to any person in respect of any sum allowable under subsection (2)(b), (c), (d) or (e) or (2C) shall only be allowed against his statutory income after the deduction under subsection (2)(a).
 
 [Act 37/2002; Act 21/2003 wef 01/04/2003]
 
-(2E) Subject to subsections (2D) and (5), the deduction to any person in respect of any sum allowable under subsection (2)(b), (c), (d), (e) or (f) or (2C) shall be allowed as far as possible against his statutory income of the first year of assessment after the year in which the donation was made by him, and, so far as the deduction cannot be so allowed, after deducting any of such sum transferred to a claimant company under section 37C, then from his statutory income of the next year of assessment, and so on, except that any balance of the donation not deducted against his statutory income of the sixth year of assessment from the first year of assessment in which the donation was made shall be disregarded.
+(2E) Subject to subsections (2D) and (5), the deduction to any person in respect of any sum allowable under subsection (2)(b), (c), (d) or (e) or (2C) shall be allowed as far as possible against his statutory income of the first year of assessment after the year in which the donation was made by him, and, so far as the deduction cannot be so allowed, after deducting any of such sum transferred to a claimant company under section 37C, then from his statutory income of the next year of assessment, and so on, except that any balance of the donation not deducted against his statutory income of the sixth year of assessment from the first year of assessment in which the donation was made shall be disregarded.
 
 [Act 37/2002; Act 21/2003 wef 01/04/2003]
 
-(2F) For the purposes of subsections (2D) and (2E), any sum allowable under subsection (2)(b), (c), (d), (e) or (f) or (2C) in respect of any donation made on an earlier date shall be deemed to have been deducted first.
+(2F) For the purposes of subsections (2D) and (2E), any sum allowable under subsection (2)(b), (c), (d) or (e) or (2C) in respect of any donation made on an earlier date shall be deemed to have been deducted first.
 
 [Act 37/2002; Act 21/2003 wef 01/04/2003]
 
@@ -5082,7 +4994,7 @@ made by an individual in the year preceding the year of assessment to any instit
 
 (4) No deduction shall be allowed under this section to any person in respect of any sum which has been allowed as a deduction under this section against the income of his or her spouse chargeable in his or her own name.
 
-(5) Notwithstanding subsection (2), the amount of any loss incurred by a company in any trade or business or any sum allowable under subsection (2)(b), (c), (d), (e) or (f) or (2C) to a company in respect of any donation shall be disregarded unless the Comptroller is satisfied that the shareholders of the company on the last day of the year in which the loss was incurred or the donation was made, as the case may be, were substantially the same as the shareholders of the company on the first day of the year of assessment in which such loss or donation would otherwise be deductible under subsection (2).
+(5) Notwithstanding subsection (2), the amount of any loss incurred by a company in any trade or business or any sum allowable under subsection (2)(b), (c), (d) or (e) or (2C) to a company in respect of any donation shall be disregarded unless the Comptroller is satisfied that the shareholders of the company on the last day of the year in which the loss was incurred or the donation was made, as the case may be, were substantially the same as the shareholders of the company on the first day of the year of assessment in which such loss or donation would otherwise be deductible under subsection (2).
 
 [Act 37/2002; Act 21/2003 wef 01/04/2003]
 
@@ -5184,27 +5096,35 @@ made by an individual in the year preceding the year of assessment to any instit
 
 (b) where a loss company beneficially owns directly or indirectly a fraction of the issued capital of a second company which in turn beneficially owns directly or indirectly a fraction of the issued capital of a third company, the loss company shall be deemed to have a beneficial ownership of the issued capital of the third company equal to such fraction as results from the multiplication of those 2 fractions; and where the third company beneficially owns directly or indirectly a fraction of the issued capital of a fourth company, the loss company shall be deemed to have a beneficial ownership of the issued capital of the fourth company equal to such fraction as results from the multiplication of those 3 fractions, and so on.
 
-### Adjustment of capital allowances and losses between income subject to tax at concessionary and normal rates of tax
+### Adjustment of capital allowances, losses or donations between income subject to tax at different rates
 
-37B\.—(1) This section shall apply to any company whose income for any year of assessment is subject to tax as concessionary income and normal income.
+37B\.—(1) This section shall apply to any company whose income for any year of assessment is subject to tax at different rates.
 
 [26/93]
 
-(2) Where, for any year of assessment, there are any unabsorbed allowances or losses in respect of the concessionary income of a company to which this section applies, and there is any chargeable normal income of the company, those unabsorbed allowances or losses shall be deducted against the chargeable normal income in accordance with the following provisions:
+(2) Where, for any year of assessment, there are any unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a lower rate of tax to which this section applies, and there is any chargeable income of the company subject to tax at a higher rate of tax to which this section applies, those unabsorbed allowances, losses or donations shall be deducted against that chargeable income in accordance with the following provisions:
 
-(a) in the case where those unabsorbed allowances or losses do not exceed that chargeable normal income multiplied by the adjustment factor, that chargeable normal income shall be reduced by an amount arrived at by dividing those unabsorbed allowances or losses by the adjustment factor, and those unabsorbed allowances or losses shall be nil; and
+(a) in the case where those unabsorbed allowances, losses or donations do not exceed that chargeable income multiplied by the adjustment factor, that chargeable income shall be reduced by an amount arrived at by dividing those unabsorbed allowances, losses or donations by the adjustment factor, and those unabsorbed allowances, losses or donations shall be nil; and
 
-(b) in any other case, those unabsorbed allowances or losses shall be reduced by an amount arrived at by multiplying that chargeable normal income by the adjustment factor, and those unabsorbed allowances or losses so reduced shall be added to, and be deemed to form part of, the corresponding allowances or losses in respect of the concessionary income, for the next succeeding year of assessment and any subsequent year of assessment in accordance with section 23 or 37, as the case may be, and that chargeable normal income shall be nil.
+(b) in any other case, those unabsorbed allowances, losses or donations shall be reduced by an amount arrived at by multiplying that chargeable income by the adjustment factor, and those unabsorbed allowances, losses or donations so reduced shall be added to, and be deemed to form part of, the corresponding allowances, losses or donations in respect of the income subject to tax at the lower rate of tax, for the next succeeding year of assessment and any subsequent year of assessment in accordance with section 23 or 37, as the case may be, and that chargeable income shall be nil.
 
-(3) Where, for any year of assessment, there are any unabsorbed allowances or losses in respect of the normal income of a company to which this section applies, and there is any chargeable concessionary income of the company, those unabsorbed allowances or losses shall be deducted against that chargeable concessionary income in accordance with the following provisions:
+[Act 37/2002 wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
-(a) in the case where those unabsorbed allowances or losses do not exceed that chargeable concessionary income divided by the adjustment factor, that chargeable concessionary income shall be reduced by an amount arrived at by multiplying those unabsorbed allowances or losses by the adjustment factor, and those unabsorbed allowances or losses shall be nil; and
+(3) Where, for any year of assessment, there are any unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a higher rate of tax to which this section applies, and there is any chargeable income of the company subject to tax at a lower rate of tax to which this section applies, those unabsorbed allowances, losses or donations shall be deducted against that chargeable income in accordance with the following provisions:
 
-(b) in any other case, those unabsorbed allowances or losses shall be reduced by an amount arrived at by dividing that chargeable concessionary income by the adjustment factor, and those unabsorbed allowances or losses so reduced shall be added to, and be deemed to form part of, the corresponding allowances or losses in respect of the normal income, for the next succeeding year of assessment and any subsequent year of assessment in accordance with section 23 or 37, as the case may be, and that chargeable concessionary income shall be nil.
+(a) in the case where those unabsorbed allowances, losses or donations do not exceed that chargeable income divided by the adjustment factor, that chargeable income shall be reduced by an amount arrived at by multiplying those unabsorbed allowances, losses or donations by the adjustment factor, and those unabsorbed allowances, losses or donations shall be nil; and
 
-(4) Where a company to which this section applies ceases to derive concessionary income in the basis period for any year of assessment but derives normal income in that basis period, subsection (2) shall apply, with the necessary modifications, to any unabsorbed allowances or losses in respect of the concessionary income of the company for any year of assessment subsequent to that year of assessment.
+(b) in any other case, those unabsorbed allowances, losses or donations shall be reduced by an amount arrived at by dividing that chargeable income by the adjustment factor, and those unabsorbed allowances, losses or donations so reduced shall be added to, and be deemed to form part of, the corresponding allowances, losses or donations in respect of the income subject to tax at the higher rate of tax, for the next succeeding year of assessment and any subsequent year of assessment in accordance with section 23 or 37, as the case may be, and that chargeable income shall be nil.
 
-(5) Where a company to which this section applies ceases to derive normal income in the basis period for any year of assessment but derives concessionary income in that basis period, subsection (3) shall apply, with the necessary modifications, to any unabsorbed allowances or losses in respect of the normal income of the company for any year of assessment subsequent to that year of assessment.
+[Act 37/2002 wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
+
+(4) Where a company to which this section applies ceases to derive income subject to tax at a lower rate of tax in the basis period for any year of assessment but derives income subject to tax at a higher rate of tax in that basis period, subsection (2) shall apply, with the necessary modifications, to any unabsorbed allowances, losses or donations in respect of the income of the company subject to tax at the lower rate of tax for any year of assessment subsequent to that year of assessment.
+
+[Act 37/2002 wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
+
+(5) Where a company to which this section applies ceases to derive income subject to tax at a higher rate of tax in the basis period for any year of assessment but derives income subject to tax at a lower rate of tax in that basis period, subsection (3) shall apply, with the necessary modifications, to any unabsorbed allowances, losses or donations in respect of the income of the company subject to tax at the higher rate of tax for any year of assessment subsequent to that year of assessment.
+
+[Act 37/2002 wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
 (6) Nothing in this section shall be construed as affecting the application of section 23 or 37 unless otherwise provided in this section.
 
@@ -5214,29 +5134,35 @@ made by an individual in the year preceding the year of assessment to any instit
 
 where A
 
-is the rate of tax under section 43(1)(a) for that year of assessment; and
+is the higher rate of tax for that year of assessment; and
 
 B
 
-is the concessionary rate of tax for that year of assessment at which the concessionary income is subject to tax;
+is the lower rate of tax for that year of assessment;
 
-“allowances” means allowances under section 16, 17, 19, 19A, 19B, 19C, 20, 21, 22 or 23 including unabsorbed allowances which arose in any year of assessment prior to the year of assessment 1994;
+“allowances” means allowances under section 16, 17, 19, 19A, 19B, 19C,20, 21, 22 or 23 including unabsorbed allowances which arose in any year of assessment before the year of assessment 1994;
 
-“chargeable concessionary income” means concessionary income after deducting expenses, donations, allowances or losses allowable under this Act against the concessionary income;
+“chargeable income of the company subject to tax at a higher rate of tax” means income subject to tax at a higher rate of tax after deducting expenses, donations, allowances or losses allowable under this Act against that income;
 
-“chargeable normal income” means normal income after deducting expenses, donations, allowances or losses allowable under this Act against the normal income;
+“chargeable income of the company subject to tax at a lower rate of tax” means income subject to tax at a lower rate of tax after deducting expenses, donations, allowances or losses allowable under this Act against that income;
 
-“concessionary income” means income subject to tax at the concessionary rate of tax in accordance with the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K, 43L, 43M, 43N or 43O, as the case may be;
+“donations” means donations which are deductible including any unabsorbed donations allowable under section 37;
 
-“losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment prior to the year of assessment 1994;
+“higher rate of tax” or “lower rate of tax” means the rate of tax under section 43(1)(a) or the concessionary rate of tax in accordance with:
 
-“normal income” means income subject to tax at the rate of tax under section 43(1)(a);
+(a) any order made under section 13(8); or
 
-“unabsorbed allowances or losses in respect of the concessionary income” means the balance of such allowances or losses after deducting expenses, donations, allowances or losses allowable under this Act against the concessionary income;
+(b) the regulations made under section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K, 43L, 43M, 43N, 43O or 43P, as the case may be;
 
-“unabsorbed allowances or losses in respect of the normal income” means the balance of such allowances or losses after deducting expenses, donations, allowances or losses allowable under this Act against the normal income.
+[Act 37/2002; Act 21/2003 wef 01/04/2003]
 
-[1/98; 31/98]
+“losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
+
+“unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a higher rate of tax” means the balance of such allowances, losses or donations after deducting expenses, donations, allowances or losses allowable under this Act against the income subject to tax at a higher rate of tax;
+
+“unabsorbed allowances, losses or donations in respect of the income of a company subject to tax at a lower rate of tax” means the balance of such allowances, losses or donations after deducting expenses, donations, allowances or losses allowable under this Act against the income subject to tax at a lower rate of tax.
+
+[Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
 ### Group relief for Singapore companies
 
@@ -5346,7 +5272,7 @@ is the aggregate of the amounts of qualifying deductions previously claimed from
 
 where A, D and E
 
-E have the same meanings as in subsection (9)(b); and
+have the same meanings as in subsection (9)(b); and
 
 G
 
@@ -5662,7 +5588,7 @@ Deduction in respect of operationally ready national servicemen
 
 (ii) had not performed operationally ready national service but held a valid certificate issued by the proper authority certifying that he is entitled to the deduction under this sub-paragraph, there shall be allowed a deduction of $1,500;
 
-(m) was the wife or widow of an operationally ready national serviceman and was a citizen of Singapore who had not made a claim under paragraph (n) and had in the case of the wife elected for separate assessment under section 51(6), there shall be allowed a deduction of $750 subject to the following provisions:
+(m) was the wife or widow of an operationally ready national serviceman and was a citizen of Singapore who had not made a claim under paragraph (n) and had in the case of the wife elected for separate assessment under section 51(6), there shall be allowed a deduction of subject to the following provisions:
 
 (i) the marriage to such national serviceman had not been dissolved by divorce or annulment at the end of the basis period for that year of assessment;
 
@@ -6128,7 +6054,7 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [37/2002 wef 10/12/2002]
 
-(3B) Any individual or foreign firm to which subsection (3A) applies may make an irrevocable option to be taxed under subsection (1)(b) within 45 days from the date of payment of the income to the individual or firm or, where such payment was made before the date of commencement of the Income Tax (Amendment) Act 2002, within 30 days after that date.
+(3B) Any individual or foreign firm to which subsection (3A) applies may make an irrevocable option to be taxed under subsection (1)(b) within 30 daysfrom the date of payment of the income to the individual or firm or, where such payment was made before the date of commencement of the Income Tax (Amendment) Act 2002, within 30 days after that date.
 
 [Act 37/2002; Act 21/2003 wef 01/04/2003]
 
@@ -8292,237 +8218,101 @@ A. Public authorities, boards or funds constituted by statute in Singapore:
 
 Cap. 20.
 
-2. Board of Architects
-
-Cap. 12.
-
-3. Board of Commissioners of Currency, Singapore
-
-Cap. 69.
-
-4. Board of Legal Education
+2. Board of Legal Education
 
 Cap. 161.
 
-5. Central Provident Fund
-
-Cap. 36.
-
-6. Central Sikh Gurdwara Board
+3. Central Sikh Gurdwara Board
 
 Cap. 357.
 
-7. Civil Aviation Authority of Singapore
-
-Cap. 41
-
-8. Commercial and Industrial Security Corporation
-
-Cap. 47.
-
-9. Common Fund
+4. Common Fund
 
 Cap. 260.
 
-10. Defence Science and Technology Agency
-
-Cap. 75A.
-
-11. Dental Council
-
-Cap. 76.
-
-12. Dependents’ Protection Insurance Fund
+5. Dependents’ Protection Insurance Fund
 
 Cap. 36.
 
-13. Economic Development Board
-
-Cap. 85.
-
-14. Education Finance Board
+6. Education Finance Board
 
 Cap. 87.
 
-15. Hindu Endowments Board
+7. Hindu Endowments Board
 
 Cap. 364.
 
-16. Home Protection Fund
+8. Home Protection Fund
 
 Cap. 36.
 
-17. Hotels Licensing Board
+9. Hotels Licensing Board
 
 Cap. 127.
 
-18. Housing and Development Board
-
-Cap. 129.
-
-19. Info-communications Development Authority of Singapore
-
-Cap. 137A.
-
-20. Inland Revenue Authority of Singapore
-
-Cap. 138A.
-
-21. Institute of Certified Public Accountants of Singapore
+10. Institute of Certified Public Accountants of Singapore
 
 Cap. 2.
 
-22. Institute of Technical Education, Singapore
+11. Institute of Technical Education, Singapore
 
 Cap. 141A.
 
-23. Intellectual Property Office of Singapore
-
-Act 3 of 2001.
-
-24. Jurong Town Corporation
-
-Cap. 150.
-
-25. Land Surveyors Board
+12. Land Surveyors Board
 
 Cap. 156.
 
-26. Land Transport Authority of Singapore
+13. Law Society of Singapore
 
-Cap. 158A.
+Cap. 161
 
-27. Law Society of Singapore
-
-Cap. 161.
-
-28. Majlis Ugama Islam, Singapura
+14. Majlis Ugama Islam, Singapura
 
 Cap. 3.
 
-29. Maritime and Port Authority of Singapore
-
-Cap. 170A.
-
-30. Medical Council of Singapore
-
-Cap. 174.
-
-31. MediShield Fund
+15. MediShield Fund
 
 Cap. 36.
 
-32. Monetary Authority of Singapore
-
-Cap. 186.
-
-33. Minister for Finance
+16. Minister for Finance
 
 Cap. 183.
 
-34. National Arts Council
+17. National Arts Council
 
 Cap. 193A.
 
-35. National Council of Social Service
+18. National Council of Social Service
 
 Cap. 195A.
 
-36. National Heritage Board
+19. National Heritage Board
 
 Cap. 196A.
 
-37. National Library Board
+20. National Library Board
 
 Cap. 197.
 
-38. National Parks Board
-
-Cap. 198A.
-
-39. National Science and Technology Board
-
-Cap. 201A.
-
-40. People’s Association
+21. People’s Association
 
 Cap. 227.
 
-41. Pharmacy Board
-
-Cap. 230.
-
-42. Preservation of Monuments Board
-
-Cap. 239.
-
-43. Professional Engineers Board
-
-Cap. 253.
-
-44. Public Accountants Board
-
-Cap. 2.
-
-45. Public Transport Council
-
-Cap. 259B.
-
-46. Public Utilities Board
-
-Act 8 of 2001.
-
-47. Science Centre Board
+22. Science Centre Board
 
 Cap. 286.
 
-48. Sentosa Development Corporation
-
-Cap. 291.
-
-49. Singapore Academy of Law
+23. Singapore Academy of Law
 
 Cap. 294A.
 
-50. Singapore Broadcasting Authority
+24. Singapore Corporation of Rehabilitative Enterprises
 
-Cap. 297.
+Cap. 298.
 
-51. Singapore Corporation of Rehabilitative Enterprises
+25. Any specified statutory corporation within the meaning of section 3 of the Statutory Corporations (Contributions to Consolidated Fund) Act (Cap. 319A), as from the date of establishment of that statutory corporation.
 
-Cap. 298.9
-
-52. Singapore Land Authority
-
-Act 17 of 2001.
-
-53. Singapore Nursing Board
-
-Cap. 209.
-
-54. Singapore Productivity and Standards Board
-
-Cap. 303A.
-
-55. Singapore Sports Council
-
-Cap. 305.
-
-56. Singapore Totalisator Board
-
-Cap. 305A.
-
-57. Singapore Tourism Board
-
-Cap. 305B.
-
-58. Trade Development Board
-
-Cap. 330.
-
-59. Urban Redevelopment Authority
-
-Cap. 340.
+[S 220/2003, 07/05/2003]
 
 B. Clubs, corporations and institutions in Singapore:
 
@@ -9733,6 +9523,8 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 28/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
 ||Date of commencement|1 April 2003 (Section 9, 30(c), 31, 35, 44(a), 45|
+|166.|**G.N. No. S 220/2003—Income Tax Act (Amendment of First Schedule) Order 2003**|
+||Date of commencement|7 May 2003|
 ## COMPARATIVE TABLE
 
 Income Tax Act
