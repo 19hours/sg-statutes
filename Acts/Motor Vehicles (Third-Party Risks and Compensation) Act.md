@@ -292,9 +292,13 @@ Provided that an insurer who has obtained such a declaration in an action shall 
 
 if either before or after that event any such liability as aforesaid is incurred by the insured his rights against the insurer under the policy in respect of the liability shall, notwithstanding anything in any written law to the contrary, be transferred to and vest in the third party to whom the liability was so incurred.
 
-(2) Where an order is made under section 124 of the Bankruptcy Act [Cap. 20] for the administration in bankruptcy of the estate of a deceased debtor then if any debt provable in bankruptcy is owing by the deceased in respect of a liability against which he was insured under a policy issued for the purposes of this Act as being a liability to a third party the deceased debtor’s rights against the insurer under the policy in respect of that liability shall notwithstanding anything in the Bankruptcy Act be transferred to and vest in the person to whom the debt is owing.
+(2) Where an order is made under section 148 of the Bankruptcy Act 1994 for the administration in bankruptcy of the estate of a deceased debtor then if any debt provable in bankruptcy is owing by the deceased in respect of a liability against which he was insured under a policy issued for the purposes of this Act as being a liability to a third party the deceased debtor’s rights against the insurer under the policy in respect of that liability shall notwithstanding anything in the Bankruptcy Act be transferred to and vest in the person to whom the debt is owing.
 
-(3) Any condition in a policy issued for the purposes of this Act purporting directly or indirectly to avoid the policy or to alter the rights of the party thereunder upon the happening to the insured of any of the events specified in subsection (1)(a) or (b) or upon the making of an order under section 124 of the Bankruptcy Act in respect of his estate shall be of no effect.
+[Act 15/1995 wef 15/07/1995]
+
+(3) Any condition in a policy issued for the purposes of this Act purporting directly or indirectly to avoid the policy or to alter the rights of the party thereunder upon the happening to the insured of any of the events specified in subsection (1)(a) or (b) or upon the making of an order under section 148 of the Bankruptcy Act 1994 in respect of his estate shall be of no effect.
+
+[Act 15/1995 wef 15/07/1995]
 
 (4) Upon a transfer under subsection (1) or (2), the insurer shall, subject to section 12, be under the same liability to the third party as he would have been under to the insured but —
 
@@ -318,7 +322,9 @@ if either before or after that event any such liability as aforesaid is incurred
 
 (2) In the event of —
 
-(a) any person becoming bankrupt or making a composition or arrangement with his creditors or in the event of an order being made under section 124 of the Bankruptcy Act [Cap. 20] in respect of the estate of any person; or
+(a) any person becoming bankrupt or making a composition or arrangement with his creditors or in the event of an order being made under section 148 of the Bankruptcy Act 1994 in respect of the estate of any person; or
+
+[Act 15/1995 wef 15/07/1995]
 
 (b) a winding-up order being made or a resolution for a voluntary winding up being passed with respect to any company or a receiver or manager of the company’s business or undertaking being duly appointed or possession being taken by or on behalf of the holders of any debentures secured by a floating charge of any property comprised in or subject to the charge,
 
@@ -481,3 +487,11 @@ This Legislative History is provided for the convenience of users of the Motor V
 |||(Bill No. 27/94 published on 1 November 1994)|
 ||Date of Second and Third Readings|5 December 1994|
 ||Date of commencement|1 February 1995|
+|9.|**Act 15 of 1995—Bankruptcy (Amendment) Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|25 July 1994|
+|||(Bill No. 16/94 published on 29 July 1994)|
+||Date of Second Reading|25 August 1994|
+||Date Committed to Select Committee|Parl. 1 of 1995 presented to Parliament on 7 March 1995|
+||Date of Third Reading|23 March 1995|
+||Date of commencement|15 July 1995|
