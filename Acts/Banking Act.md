@@ -160,6 +160,8 @@
 
 - [59 Clearing House settlements and control over Clearing House](#Clearing-House-settlements-and-control-over-Clearing-House)
 
+- [59A Real-time gross settlement system](#Real-time-gross-settlement-system)
+
 - [60 Declaration of holidays](#Declaration-of-holidays)
 
 - [61 Priority of deposit liabilities](#Priority-of-deposit-liabilities)
@@ -1136,9 +1138,15 @@ and in either event, the Authority shall thereupon issue a direction in writing 
 
 (a) where it has obtained the prior written approval of the Authority;
 
-(b) where it is prohibited by its domestic law from divulging information obtained in the course of the inspection to any other person or it has given an undertaking to the Authority not to divulge the information obtained to any person other than the Authority; and
+(b) where the supervisory authority is prohibited by its domestic law from divulging information obtained in the course of the inspection to any other person or where the supervisory authority has given such written undertaking, as to the confidentiality of the information obtained, as the Authority may determine; and
+
+[Act 27/98:1998-Act-27]
 
 (c) where it has given to the Authority a written undertaking to comply with the provisions of this Act and any condition imposed by the Authority under this section.
+
+(1A) A supervisory authority may, with the prior written approval of the Authority, appoint another body to conduct the inspection referred to in subsection (1); and in such event the provisions of this section and section 46(1A) shall apply to the appointed body as they apply to a supervisory authority.
+
+[Act 27/98:1998-Act-27]
 
 (2) Subject to any condition imposed by the Authority under subsection (3), the supervisory authority, in carrying out an inspection under subsection (1) —
 
@@ -1246,7 +1254,9 @@ and the information is required by the head office of the branch;
 
 (h) the customer died, whether testate or intestate, and the information is required by his appointed personal representative or any person entitled to letters of administration solely in connection with an application for a grant of probate or letters of administration;
 
-(i) the information relates solely to credit facilities granted by a branch of a bank incorporated outside Singapore and is required by the supervisory authority which is responsible for regulating the head office of the bank for the purpose of supervision of the bank by the supervisory authority, but this exemption shall only apply if the supervisory authority is prohibited by its domestic law from divulging the information received to third parties or gives an undertaking to the Authority not to divulge the information received to third parties;
+(i) the information relates solely to credit facilities granted by a branch of a bank incorporated outside Singapore and is required by the supervisory authority which is responsible for regulating the head office of the bank for the sole purpose of supervision of the bank by the supervisory authority and where the supervisory authority will not divulge the information received to third parties unless compelled to do so by its domestic law or courts;
+
+[Act 27/98:1998-Act-27]
 
 (j) a customer who had been issued with a credit or charge card by a bank has his card suspended or cancelled by the bank by reason of his default in payment and the bank discloses information relating to the customer’s name and identity, the amount of his indebtedness and the date of suspension or cancellation of his credit or charge card to other banks and financial institutions issuing credit or charge cards in Singapore;
 
@@ -1268,13 +1278,13 @@ and the information is required by the head office of the branch;
 
 (7) No person shall publish the name, address or photograph of any parties to those civil proceedings as are referred to in subsection (5) or any information likely to lead to the identification of the parties thereto either during the currency of the proceedings or after they have been terminated.
 
-(8) The Authority may provide information on the operations of a branch in Singapore of a bank incorporated outside Singapore (including any report produced by the Authority pursuant to any inspection or investigation of the bank) to the supervisory authority which is responsible for regulating the head office of the bank for the purpose of supervision of the bank by the supervisory authority, except that no information regarding the money or other relevant particulars of the accounts of a customer of the branch in Singapore shall be divulged by the Authority.
+(8) The Authority may provide information on the operations of a branch in Singapore of a bank incorporated outside Singapore (including any report produced by the Authority pursuant to any inspection or investigation of the bank) to the supervisory authority which is responsible for regulating the head office of the bank for the purpose of supervision of the bank by the supervisory authority, except that no information regarding the money or other relevant particulars, other than credit facilities granted, of the accounts of a customer of the branch in Singapore shall be divulged by the Authority.
 
 [28/93]
 
-(9) The Authority may provide information to a supervisory authority under subsection (8) if and only if the supervisory authority is prohibited by its domestic law from divulging the information received to third parties or gives an undertaking to the Authority not to divulge the information received to third parties.
+(9) The Authority may provide information to a supervisory authority under subsection (8) if and only if the supervisory authority is prohibited by its domestic law from divulging the information received to third parties or gives such written undertaking, as to the confidentiality of the information provided, as the Authority may determine.
 
-[28/93]
+[Act 27/98:1998-Act-27]
 
 (10) Nothing in this section shall be deemed to limit any powers conferred upon the Supreme Court or a Judge thereof by Part IV of the Evidence Act [Cap. 97] or to prohibit obedience to an order under that Part.
 
@@ -1624,6 +1634,68 @@ he shall immediately report the matter to the Authority.
 
 [28/93]
 
+### Real-time gross settlement system
+
+59A\.—(1) The Authority may establish and operate one or more real-time gross settlement systems for the transfer of funds, the settlement of payment obligations and the transfer and settlement of book-entry securities and instruments between or among participants approved by the Authority.
+
+(2) A settlement system may be linked to another system in Singapore or elsewhere for the clearing or settlement of payment obligations or securities and whether or not such system is operated on a real-time gross settlement basis.
+
+(3) The Authority may enter into agreements with the participants of a settlement system and issue to the participants in writing rules for the operation of the settlement system and such rules shall not be deemed to be subsidiary legislation.
+
+(4) Without prejudice to the generality of subsection (3), such rules may provide —
+
+(a) for the appointment of the Authority as a certification authority for the purpose of issuing certificates for participants;
+
+(b) for the conduct of participants;
+
+(c) for the authentication of transactions carried out electronically;
+
+(d) for the Authority, if it considers it necessary in the interests of the system, to stop or suspend the operation of the system or to stop or suspend the privileges or rights of any participant or class of participants;
+
+(e) for the appointment of auditors or inspectors for the auditing or inspection of the operating systems of participants in respect of the settlement system; and
+
+(f) for the payment of fees to the Authority.
+
+(5) Notwithstanding anything to the contrary in any written law or rule of law, where the rules provide that the transfer of funds, the settlement of any payment obligation or the transfer and settlement of book-entry securities and instruments through an entry to or a payment out of an account of a participant kept with the Authority is final and irrevocable, the entry or payment made through the settlement system shall not be required to be reversed, repaid or set aside and no order shall be made by any court for the rectification or stay of such entry or payment.
+
+(6) Notwithstanding the provisions of any written law relating to the winding up of companies, including but not limited to sections 61 and 62, if proceedings for the winding up of a participant of a settlement system have commenced —
+
+(a) the Authority may do anything permitted or required by the rules of the settlement system in order to net obligations incurred before or on the day on which the proceedings commenced;
+
+(b) the obligations that are netted under the rules of the settlement system shall be disregarded in the proceedings; and
+
+(c) the netting made by the Authority and any payment made by the participant under the rules of the settlement system shall not be voidable in the proceedings.
+
+(7) Notwithstanding the provisions of any written law relating to the winding up of companies, where —
+
+(a) proceedings are commenced for the winding up of a participant;
+
+(b) an entry or payment referred to in subsection (5) is made through the settlement system at any time on the day on which the proceedings commenced; and
+
+(c) the entry or payment involves the payment of money or the transfer of any book-entry securities and instruments, by the participant,
+
+the payment or transfer has the same effect it would have had if the proceedings had commenced on the next day.
+
+(8) The Authority, any officer or employee of the Authority, or any person acting under the direction of the Authority, shall not be liable for any loss or damage suffered by any person or participant arising from, directly or indirectly, the use of a settlement system by any participant unless such loss or damages results from a reckless act or omission or any intentional misconduct of any officer or employee of the Authority or any person acting under the direction of the Authority.
+
+(9) In this section —
+
+“book-entry securities and instruments” means book-entry securities issued under the Development Loan (1987) Act (Cap. 81A) and the Government Securities Act (Cap. 121A), book-entry Treasury Bills issued under the Local Treasury Bills Act (Cap. 167) and such other book-entry securities or instruments as the Authority may approve for clearing, transfer or settlement under a settlement system;
+
+“certificate” has the same meaning as in the Electronic Transactions Act 1998;
+
+“certification authority” has the same meaning as in the Electronic Transactions Act 1998;
+
+“participant” means a bank or the Post Office Savings Bank of Singapore established under the Post Office Savings Bank of Singapore Act (Cap. 237) which has been approved by the Authority to be a participant of a settlement system and shall include the Authority where it participates in the settlement system;
+
+“real-time gross settlement system” means a system which can effect final settlement of funds, payment obligations and book-entry securities and instruments on a continuous basis during such operating hours of a processing day as the Authority may determine and on a transaction-by-transaction basis;
+
+“rules” means any rules issued by the Authority under subsection (3);
+
+“settlement system” means any real-time gross settlement system established under subsection (1).
+
+[Act 27/98:1998-Act-27]
+
 ### Declaration of holidays
 
 60\.—(1) The Authority may, at any time by notice in theGazette, declare any day or days to be a bank holiday or holidays.
@@ -1646,7 +1718,7 @@ he shall immediately report the matter to the Authority.
 
 62\.—(1) Notwithstanding the provisions of any written law or rule of law relating to the winding up of companies, in the event of a winding up of a bank the deposit liabilities of the bank shall, amongst themselves, rank in the following order of priority:
 
-(a) firstly, deposit liabilities incurred by the bank with non-bank customers where the deposit liabilities are required by the Authority to be included in the computation of the reserve and liquidity requirements pursuant to sections 39 and 40;
+(a) firstly, deposit liabilities incurred by the bank with non-bank customers where the deposit liabilities are required by the Authority to be included in the computation of the reserve and liquidity requirements pursuant to section 39, 40 or 77A, as the case may be;
 
 (b) secondly, deposit liabilities incurred by the bank with other banks where the deposit liabilities are required by the Authority to be included in the computation of the reserve and liquidity requirements pursuant to sections 39 and 40;
 
@@ -2083,3 +2155,8 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 12/96 published on 3 May 1996)|
 ||Date of Second and Third Readings|21 May 1996|
 ||Date of commencement|18 July 1996|
+|10.|**Act 27 of 1998—Banking (Amendment) Act 1998**|
+||Date of First Reading|1 June 1998|
+|||(Bill No. 20/98 published on 2 June 1998)|
+||Date of Second and Third Readings|29 June 1998|
+||Date of commencement|10 July 1998|
