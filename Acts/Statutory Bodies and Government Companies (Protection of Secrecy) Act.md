@@ -94,6 +94,10 @@ Commercial and Industrial Security Corporation Act (Chapter 47)
 
 Construction Industry Development Board Act (Chapter 51)
 
+5A. Defence Science and Technology Agency
+
+Defence Science and Technology Agency Act 2000.
+
 6. Economic Development Board
 
 Economic Development Board Act (Chapter 85)
@@ -157,6 +161,8 @@ Trade Development Board Act (Chapter 330)
 21. Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340)
+
+[9/2000 wef 15/03/2000]
 
 [41/99 wef 01/12/1999]
 
@@ -287,3 +293,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 36/1999 published on 12 October 1999)|
 ||Date of Second and Third Readings|23 November 1999|
 ||Date of commencement|1 December 1999|
+|25.|**Act 9 of 2000—Defence Science and Technology Agency Act 2000**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 January 2000|
+|||(Bill No. 1/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|21 February 2000|
+||Date of commencement|15 March 2000|
