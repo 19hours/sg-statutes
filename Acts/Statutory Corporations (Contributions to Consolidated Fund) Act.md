@@ -146,6 +146,14 @@ Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340).
 
+13.
+
+Inland Revenue Authority of Singapore
+
+Inland Revenue Authority of Singapore Act (Chapter 138A).
+
+[S 414/1993 wef 15/10/1993]
+
 ## LEGISLATIVE HISTORY
 
 Statutory Corporations (Contributions to Consolidated Fund) Act
@@ -168,3 +176,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 4/1991 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991|
+|4.|**G. N. No. S 414/1993—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 1993**|
+||Date of commencement|15 October 1993|
