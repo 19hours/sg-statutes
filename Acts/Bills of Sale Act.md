@@ -302,13 +302,6 @@ Sections 12 and 13
 
 Forms of statutory declaration
 
-Declaration on Registration of Bill of Sale attested by an
-
-
-
-
-Advocate and Solicitor
-
 THIRD SCHEDULE
 
 Section 14
@@ -321,7 +314,7 @@ Bills of Sale Act
 
 (CHAPTER 24)
 
-This Legislative History is provided for the convenience of users of the Bills of Sale Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Building Control Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -350,3 +343,9 @@ This Legislative History is provided for the convenience of users of the Bills o
 ||Date of operation|1 March 1971|
 |10.|**1985 Revised Edition—Bills of Sale Act**|
 ||Date of operation|30 March 1987|
+|11.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 12/1993 published on 11 June 1993)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|1 July 1993|
