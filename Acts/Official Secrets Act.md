@@ -40,7 +40,7 @@
 
 - [17 Punishment](#Punishment)
 
-- [18 President may confer police powers on suitable person](#President-may-confer-police-powers-on-suitable-person)
+- [18 Minister may confer police powers on suitable person](#Minister-may-confer-police-powers-on-suitable-person)
 
 - [19 Powers under Criminal Procedure Code not restricted](#Powers-under-Criminal-Procedure-Code-not-restricted)
 
@@ -80,7 +80,7 @@ An Act to prevent the disclosure of official documents and information.
 
 “office under the Government” includes any office or employment in or under any department of the Government and, in the event of war, of the government of any ally of Singapore;
 
-“officer of police” includes any person upon whom the powers of a police officer not below the rank of sergeant are conferred by the President under section 18;
+“officer of police” includes any person upon whom the powers of a police officer not below the rank of sergeant are conferred by the Minister under section 18;
 
 “photograph” includes a photographic or process negative and any printed or other pictorial representation or drawing produced in whole or in part by photographic means;
 
@@ -96,7 +96,7 @@ An Act to prevent the disclosure of official documents and information.
 
 (e) any area (being in the vicinity of any work of defence, arsenal, naval, military or air force establishment or station, factory, dockyard, mine, minefield, camp, ship or aircraft, belonging to or occupied by or on behalf of the armed forces) which is declared by the Minister, by order published in theGazette, to be a prohibited place for the purposes of this section, on the ground that information with respect thereto, or damage thereto, would be useful to a foreign Power or to an enemy;
 
-(f) any area specified in any notice under any written law for the time being in force relating to military manoeuvres or any area declared by proclamation of the President under such written law to be a manoeuvring ground or a firing ground, which is declared by order of the President to be a prohibited place for the purposes of this section.
+(f) any area specified in any notice under any written law for the time being in force relating to military manoeuvres or any area declared by proclamation of the Minister under such written law to be a manoeuvring ground or a firing ground, which is declared by order of the Minister to be a prohibited place for the purposes of this section.
 
 (2) Expressions referring to —
 
@@ -122,7 +122,9 @@ he shall be guilty of an offence.
 
 Provided that it shall not be an offence under this subsection to take or make, outside a prohibited place, a photograph or drawing in which such place or part thereof is included, unless it is proved that the photograph or drawing is intended to be prejudicial to the safety or interests of Singapore or to be directly or indirectly useful to a foreign Power or to an enemy. This proviso does not apply to any photograph taken from an aircraft.
 
-(3) The taking or making of any photograph, drawing, map, measurement, sounding or survey in accordance with the terms and conditions in such permit as the competent authority sees fit to give shall not be an offence under subsection (2). It may be a term or condition of that permit that anything so taken or made shall immediately be submitted to the competent authority for examination who, if satisfied that there is reasonable cause to believe that the thing so taken or made contains matter or information prejudicial to the safety or interests of Singapore and directly or indirectly useful to a foreign Power or to an enemy, shall send it to the Minister, and the President may give such orders in respect of the thing as he is empowered to give under subsection (8).
+(3) The taking or making of any photograph, drawing, map, measurement, sounding or survey in accordance with the terms and conditions in such permit as the competent authority sees fit to give shall not be an offence under subsection (2). It may be a term or condition of that permit that anything so taken or made shall immediately be submitted to the competent authority for examination who, if satisfied that there is reasonable cause to believe that the thing so taken or made contains matter or information prejudicial to the safety or interests of Singapore and directly or indirectly useful to a foreign Power or to an enemy, shall send it to the Minister, and the Minister may give such orders in respect of the thing as he is empowered to give under subsection (8).
+
+[7/97 wef 01/10/1997]
 
 (4) The Minister may, by notification in theGazette, provide who shall be the competent authority for the purposes of subsection (3).
 
@@ -132,7 +134,9 @@ Provided that it shall not be an offence under this subsection to take or make, 
 
 (7) If a Magistrate’s Court is satisfied that there is reasonable cause to believe that a photograph or drawing contains matter or information prejudicial to the safety or interests of Singapore and directly or indirectly useful to a foreign Power or to an enemy, the Court may issue a search warrant to search for and seize such photograph or drawing even though an offence under this Act is not alleged to have been committed.
 
-(8) The photograph or drawing, if seized under the search warrant or voluntarily produced by the person in whose possession it is, shall be sent by the Court to the Minister, and the President may if he considers that the photograph or drawing contains matter or information prejudicial to the safety or interests of Singapore and directly or indirectly useful to a foreign Power or to an enemy, order the photograph or drawing to be forfeited, or order that any part of the photograph or drawing be obliterated, erased or removed.
+(8) The photograph or drawing, if seized under the search warrant or voluntarily produced by the person in whose possession it is, shall be sent by the Court to the Minister, and the Minister may if he considers that the photograph or drawing contains matter or information prejudicial to the safety or interests of Singapore and directly or indirectly useful to a foreign Power or to an enemy, order the photograph or drawing to be forfeited, or order that any part of the photograph or drawing be obliterated, erased or removed.
+
+[7/97 wef 01/10/1997]
 
 ### Cameras prohibited except under permit
 
@@ -296,9 +300,9 @@ Provided that a person charged with such an offence may be arrested, or a warran
 
 (3) A person who is guilty of an offence under this Act by reason of section 9 or 10 shall be liable on conviction before a District Court to a fine not exceeding $2,000 and to imprisonment for a term not exceeding 2 years, and shall be liable on conviction before a Magistrate’s Court to a fine not exceeding $1,000 and to imprisonment for a term not exceeding 6 months.
 
-### President may confer police powers on suitable person
+### Minister may confer police powers on suitable person
 
-18\. The President may confer upon any person, whom he considers fit and suitable, the powers of a police officer not below the rank of sergeant for the purposes of this Act.
+18\. The Minister may confer upon any person, whom he considers fit and suitable, the powers of a police officer not below the rank of sergeant for the purposes of this Act.
 
 [21/73]
 
@@ -361,3 +365,8 @@ This Legislative History is provided for the convenience of users of the Officia
 ||Date of commencement|6 April 1973|
 |13.|**1985 Revised Edition—Official Secrets Act (Chapter 213)**|
 ||Date of operation|30 March 1987|
+|14.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (item (18) of Second Schedule — Amendment of Official Secrets Act)|
