@@ -190,7 +190,9 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“auditor” means an approved company auditor as defined in section 4 of the Companies Act [Cap. 50];
+“auditor” means a public accountant within the meaning of the Companies Act (Cap.50);
+
+[5/2004 wef 01/04/2004]
 
 “Board” means the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act;
 
@@ -282,7 +284,7 @@ and includes a commodity futures option transaction;
 
 “commodity futures pool operator” means any person who carries on a business in the nature of a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001 and who, in connection therewith, accepts or receives from other persons funds, security or property, either directly or through capital contributions, the sale of shares or other forms of security or otherwise for the purpose of trading in a commodity futures contract but does not include such persons as the Board may by regulations prescribe;
 
-[42/2001 wef 01/07/2002]
+[22/2001 wef 27/06/2001]
 
 “commodity futures pool operator’s representative” means a person in the direct employment of, or acting for, or by arrangement with, a commodity futures pool operator, who performs for that commodity futures pool operator any of the functions of a commodity futures pool operator;
 
@@ -463,8 +465,6 @@ but only to the extent that the activities carried out by or in such futures mar
 only to the extent that the activities carried out by or in such futures market or by any body corporate or holder of a licence or the trading of commodity futures contracts are regulated, under this Act.
 
 [22/2001 wef 27/06/2001]
-
-[42/2001 wef 01/10/2002]
 
 ## PART II
 
@@ -1038,6 +1038,8 @@ the Board may, without prejudice to its powers under section 28, if it is satisf
 
 (a) destroys, conceals or alters any book, account or record relating to the business of a commodity broker or commodity futures broker; or
 
+[22/2001 wef 27/06/2001]
+
 (b) sends, or conspires with any other person to send, out of Singapore any such book, account or record, or any property of any description belonging to or in the possession or under the control of a commodity broker or commodity futures broker,
 
 [22/2001 wef 27/06/2001]
@@ -1330,6 +1332,8 @@ and the market, Exchange or clearing house shall comply with that direction.
 
 as the Board may require.
 
+[22/2001 wef 27/06/2001]
+
 (2) The Board may, on production of any books, accounts or records under subsection (1), take copies of or extracts from them.
 
 (3) If any of the persons or bodies mentioned in subsection (1), without reasonable excuse, fails to comply with any requirement under subsection (1), the person or body concerned shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
@@ -1348,11 +1352,13 @@ as the Board may require.
 
 ### Information to be provided by market participants
 
-38\.—(1) Upon a determination by the Board that information concerning accounts may be relevant to determine whether manipulation, corner, squeeze or other market disorders exists in any commodity marketor commodity futures market, the Board may, by notice in writing, require such information as it thinks necessary from any person, including a member of a Commodity Futures Exchange or a clearing house or a commodity broker, commodity futures broker or any customer in the commodity market or commodity futures market, and the person concerned shall provide the required information within such time as may be specified by the Board.
+38\.—(1) Upon a determination by the Board that information concerning accounts may be relevant to determine whether manipulation, corner, squeeze or other market disorders exists in any commodity market or commodity futures market, the Board may, by notice in writing, require such information as it thinks necessary from any person, including a member of a Commodity Futures Exchange or a clearing house or a commodity broker, commodity futures broker or any customer in the commodity market or commodity futures market, and the person concerned shall provide the required information within such time as may be specified by the Board.
 
 [22/2001 wef 27/06/2001]
 
 (2) If the Board has reason to believe that any person has failed to give the information required in the notice, it may without prejudice to any other penalty that may be imposed inform a commodity market, a Commodity Futures Exchange or a clearing house which shall, in the event, prohibit the execution of, or acceptance for orders of, trades on the market, Exchange or a clearing house and in the months or expiration dates specified in the notice unless such trades offset open contracts of that person.
+
+[22/2001 wef 27/06/2001]
 
 ### Review of Commodity Futures Exchanges’ disciplinary action
 
@@ -1658,7 +1664,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) prescribing the conditions for the conduct of business on a commodity market or Commodity Futures Exchange;
 
-(c) providing for the content and distribution of written, printed or visual material and advertisements that may be distributed or used by a person in respect of a commodity contractor commodity futures contract;
+[22/2001 wef 27/06/2001]
+
+(c) providing for the content and distribution of written, printed or visual material and advertisements that may be distributed or used by a person in respect of a commodity contract or commodity futures contract;
+
+[22/2001 wef 27/06/2001]
 
 (d) prescribing the form and content of a confirmation statement of commodity contracts or commodity futures contracts entered into on behalf of customers by a commodity broker or commodity futures broker;
 
@@ -1791,3 +1801,8 @@ The Commodity Futures Act was renamed as the Commodity Trading Act vide Commodit
 |||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|1 October 2002 (item 3(b) of Fourth Schedule)|
+|8.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 3/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|1 April 2004 (except section 28(a) and (c))|
