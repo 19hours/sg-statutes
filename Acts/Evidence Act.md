@@ -1590,7 +1590,7 @@ Character when relevant
 
 57\. In civil cases, the fact that the character of any person is such as to affect the amount of damages which he ought to receive is relevant.
 
-Explanation.—In sections 54, 55, 56 and 57, the word “character” includes both reputation and disposition; but, except as provided in section 56, evidence may be given only of general reputation and general disposition, and not of particular acts by which reputation or disposition are shown..
+Explanation.—In sections 54, 55, 56 and 57, the word “character” includes both reputation and disposition; but, except as provided in section 56, evidence may be given only of general reputation and general disposition, and not of particular acts by which reputation or disposition are shown.
 
 ## PART II
 
@@ -3088,6 +3088,10 @@ Info-communications Development Authority of Singapore Act 1999.
 
 Inland Revenue Authority of Singapore Act (Chapter 138A).
 
+8A. Intellectual Property Office of Singapore
+
+Intellectual Property Office of Singapore Act 2001.
+
 9. Jurong Town Corporation
 
 Jurong Town Corporation Act (Chapter 150).
@@ -3137,6 +3141,8 @@ Urban Redevelopment Authority Act (Chapter 340).
 [9/2000 wef 15/03/2000]
 
 [41/99 wef 01/12/1999]
+
+[3/2001 wef 01/04/2001]
 
 ## LEGISLATIVE HISTORY
 
@@ -3276,3 +3282,10 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of Second and Third Readings|21 February 2000|
 ||Date of commencement|15 March 2000|
 |||(item (2) in the Schedule)|
+|30.|**Act 3 of 2001—Intellectual Property Office of Singapore Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 1/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
+|||(item (3) in the Fourth Schedule)|
