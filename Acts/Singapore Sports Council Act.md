@@ -278,6 +278,8 @@ PROVISIONS RELATING TO STAFF
 
 16\.—(1) The Council may, with the approval of the Minister, make rules for the establishment of a scheme or schemes for the payment of pensions, gratuities, provident fund or other superannuation benefits to such employees or classes of employees of the Council as it may determine, or to their legal personal representatives or dependants, on the death or retirement of such employees from the service of the Council or on their otherwise leaving the service of the Council.
 
+[14/77]
+
 (2) The following provisions shall apply to any scheme established under this section:
 
 (a) no assurance on the life of any contributor under any such scheme, and no moneys or other benefits payable under any such assurance, and no payment made under any such scheme to any person who has been employed by the Council, shall be assignable or transferable, or liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim other than a debt due to the Council or to the Government;
@@ -305,8 +307,6 @@ PROVISIONS RELATING TO STAFF
 (6) In every case of a person being transferred to the service of the Council under section 12, the Government shall be liable to pay to the Council such portion of any gratuity, pension or allowance payable to that person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Council.
 
 [16
-
-[14/77]
 
 ### No entitlement in respect of abolition or re-organisation of office
 
@@ -372,7 +372,9 @@ FINANCIAL PROVISIONS
 
 (2) The moneys and property of the Council shall be applied solely for the purpose of making payments in or in connection with the performance of its functions, powers and duties under this Act, and no portion thereof shall be paid or transferred directly or indirectly by way of dividend, bonus or otherwise by way of profit to its members.
 
-(3) Any moneys not immediately required for the purposes of the Council may be invested in such manner as may be authorised by the Minister.
+(3) The Council may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 [20
 
@@ -498,7 +500,7 @@ Singapore Sports Council Act
 
 (CHAPTER 305)
 
-This Legislative History is provided for the convenience of users of the Singapore Sports Council Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Singapore Sports Council Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -508,7 +510,7 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of Second and Third Readings|25 July 1973|
 ||Date of commencement|1 October 1973|
 |2.|**Act 48 of 1975—Singapore Sports Council (Amendment) Act 1975**|
-||Date of First Reading|11 July 1973|
+||Date of First Reading|11 November 1975|
 |||(Bill No. 50/75)|
 ||Date of Second and Third Readings|20 November 1975|
 ||Date of commencement|26 December 1975|
@@ -517,7 +519,7 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 11/77)|
 ||Date of Second and Third Readings|9 November 1977|
 ||Date of commencement|1 December 1977|
-|4.|**1985 Revised Edition—Singapore Sports Council Act 1985 (Chapter 305)**|
+|4.|**1985 Revised Edition—Singapore Sports Council Act (Chapter 305)**|
 ||Date of operation|30 March 1987|
 |5.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
 ||(Consequential amendments made to Act by)||
@@ -525,3 +527,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 7/2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002 (item (43) of the Schedule –– amendment of Singapore Sports Council Act)|
+|6.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004 (item (48) of the Schedule –– amendment of Singapore Sports Council Act)|
