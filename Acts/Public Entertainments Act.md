@@ -450,7 +450,9 @@ in any place to which the public or any class of the public has access whether g
 
 (b) public entertainment provided by or under the auspices of the Government or any department of the Government or any authority constituted under any written law relating to local government;
 
-(c) ceremonies, rites, services and celebrations lawfully conducted by priests or ministers of religion in premises consecrated generally or specially for the conduct thereof;
+(c) ceremonies, rites, services and celebrations lawfully conducted by priests or ministers of religion in premises consecrated generally or specifically for the conduct thereof where any discourse, sermon, lecture, talk or address at such ceremonies, rites, services and celebrations is only given by persons who are citizens or permanent residents of Singapore;
+
+[S 671/2001 wef 01/01/2002]
 
 (d) addresses, debates and discussions at meetings of public companies, chambers of commerce, registered trade unions, registered political associations or exempted or registered societies from which persons who are not shareholders or members, as the case may be, are excluded; and
 
@@ -590,6 +592,8 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|1 September 2001|
 |9.|**G. N. No. S 562/2001—Public Entertainments and Meetings Act (Amendment of Schedule) (No. 2) Order 2001**|
 ||Date of commencement|16 November 2001|
+|10.|**G. N. No. S 671/2001—Public Entertainments and Meetings Act (Amendment of Schedule) (No. 3) Order 2001**|
+||Date of commencement|1 January 2002|
 ## COMPARATIVE TABLE
 
 Public Entertainments and Meetings Act
