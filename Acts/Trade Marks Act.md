@@ -1,16 +1,14 @@
-**Trade Marks Act 1998**
+**Trade Marks Act**
 
-**(No. 46 of 1998)**
+**(CHAPTER 332)**
 
 **Table of Contents**
 
 [**Long Title**](#Trade-Marks-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -26,7 +24,7 @@
 
 - [5 Application for registration](#Application-for-registration)
 
-- [6 Classification of trade marks](#Classification-of-trade-marks)
+- [6 Classification of goods and services](#Classification-of-goods-and-services)
 
 [**Grounds for refusal of registration**](#Grounds-for-refusal-of-registration)
 
@@ -150,21 +148,17 @@
 
 [**Part VII INTERNATIONAL MATTERS**](#Part-VII)
 
-[**The Madrid Protocol, etc.**](#The-Madrid-Protocol-etc)
+[**The Paris Convention and the TRIPS Agreement: supplementary provisions**](#The-Paris-Convention-and-the-TRIPS-Agreement:-supplementary-provisions)
 
-- [54 Power to make provision giving effect to Madrid Protocol, etc.](#Power-to-make-provision-giving-effect-to-Madrid-Protocol-etc)
+- [55 Protection of well-known trade marks: Article 6bis of Paris Convention, etc.](#Protection-of-well-known-trade-marks:-Article-6bis-of-Paris-Convention-etc)
 
-[**The Paris Convention and the TRIPS Agreement supplementary provisions**](#The-Paris-Convention-and-the-TRIPS-Agreement-supplementary-provisions)
+- [56 National emblems, etc., of Convention countries: Article 6ter of Paris Convention, etc.](#National-emblems-etc-of-Convention-countries:-Article-6ter-of-Paris-Convention-etc)
 
-- [55 Protection of well-known trade marks: Article 6bisof Paris Convention, etc.](#Protection-of-well-known-trade-marks:-Article-6bisof-Paris-Convention-etc)
+- [57 Emblems, etc., of certain international organisations: Article 6ter of Paris Convention, etc.](#Emblems-etc-of-certain-international-organisations:-Article-6ter-of-Paris-Convention-etc)
 
-- [56 National emblems, etc., of Convention countries: Article 6terof Paris Convention, etc.](#National-emblems-etc-of-Convention-countries:-Article-6terof-Paris-Convention-etc)
+- [58 Notification under Article 6ter of Paris Convention, etc.](#Notification-under-Article-6ter-of-Paris-Convention-etc)
 
-- [57 Emblems, etc., of certain international organisations: Article 6terof Paris Convention, etc.](#Emblems-etc-of-certain-international-organisations:-Article-6terof-Paris-Convention-etc)
-
-- [58 Notification under Article 6terof Paris Convention, etc.](#Notification-under-Article-6terof-Paris-Convention-etc)
-
-- [59 Acts of agent or representative: Article 6septiesof the Paris Convention, etc.](#Acts-of-agent-or-representative:-Article-6septiesof-the-Paris-Convention-etc)
+- [59 Acts of agent or representative: Article 6septies of the Paris Convention, etc.](#Acts-of-agent-or-representative:-Article-6septies-of-the-Paris-Convention-etc)
 
 [**Part VIII COLLECTIVE MARKS AND CERTIFICATION MARKS**](#Part-VIII)
 
@@ -192,7 +186,7 @@
 
 - [68 Inspection of and extract from register](#Inspection-of-and-extract-from-register)
 
-[**Powers and duties of the Registrar**](#Powers-and-duties-of-the-Registrar)
+[**Powers and duties of Registrar**](#Powers-and-duties-of-Registrar)
 
 - [69 Costs awarded by Registrar](#Costs-awarded-by-Registrar)
 
@@ -240,7 +234,7 @@
 
 - [87 Forfeiture of seized goods by consent](#Forfeiture-of-seized-goods-by-consent)
 
-- [88 Compulsory release of the seized goods to importer](#Compulsory-release-of-the-seized-goods-to-importer)
+- [88 Compulsory release of seized goods to importer](#Compulsory-release-of-seized-goods-to-importer)
 
 - [89 Compensation for failure to take action](#Compensation-for-failure-to-take-action)
 
@@ -252,11 +246,11 @@
 
 - [93 Insufficient security](#Insufficient-security)
 
-[**Powers of Search**](#Powers-of-Search)
+[**Powers of search**](#Powers-of-search)
 
 - [94 Powers of search in relation to vessels, aircraft and vehicles](#Powers-of-search-in-relation-to-vessels-aircraft-and-vehicles)
 
-- [95 Examination of packages](#Examination-of-packages)
+- [95 Examination of packages, etc.](#Examination-of-packages-etc)
 
 - [96 Power to remove packages and goods to police station or examination station](#Power-to-remove-packages-and-goods-to-police-station-or-examination-station)
 
@@ -286,11 +280,7 @@
 
 - [108 Power to make rules](#Power-to-make-rules)
 
-- [109 Repeal](#Repeal)
-
-- [110 Transitional provisions](#Transitional-provisions)
-
-- [111 Consequential amendments](#Consequential-amendments)
+- [109 Transitional provisions](#Transitional-provisions)
 
 [**FIRST SCHEDULE Collective Marks**](#FIRST-SCHEDULE-Collective-Marks)
 
@@ -298,49 +288,31 @@
 
 [**THIRD SCHEDULE Transitional Provisions**](#THIRD-SCHEDULE-Transitional-Provisions)
 
-[**FOURTH SCHEDULE Consequential Amendments**](#FOURTH-SCHEDULE-Consequential-Amendments)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Trade Marks Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 332)
 
-ACTS SUPPLEMENT
+(Original Enactment: 46 of 1998)
 
-Published by Authority
+REVISED EDITION 1999
 
-NO. 49]
+(30th December 1999)
 
-Thursday, December 24
+An Act to establish a new law for trade marks, to enable Singapore to give effect to certain international conventions on intellectual property and for matters connected therewith.
 
-[1998
+[15th January 1999;
 
-The following Act was passed by Parliament on 26th November 1998 and assented to by the President on 11th December 1998:—
-
-Trade Marks Act 1998
-
-(No. 46 of 1998)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President.
-
-11th December 1998.
-
-Date of Commencement: 15th January 1999
-
-An Act to establish a new law for trade marks, to enable Singapore to give effect to certain international conventions on intellectual property and for matters connected therewith, to repeal the Trade Marks Act (Chapter 332 of the 1992 Revised Edition) and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+31st October 2000: Section 54]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Trade Marks Act 1998 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\.—(1) This Act may be cited as the Trade Marks Act.
 
 (2) The Minister may appoint different dates for the coming into operation of the different Parts or provisions of this Act.
 
@@ -360,13 +332,13 @@ PRELIMINARY
 
 “earlier trade mark” means —
 
-(a) a registered trade mark or international trade mark (Singapore), the application for registration of which was made earlier than the trade mark in question, taking account (where appropriate) of the priorities claimed in respect of the trade marks; or
+(a) a registered trade mark or an international trade mark (Singapore), the application for registration of which was made earlier than the trade mark in question, taking account (where appropriate) of the priorities claimed in respect of the trade marks; or
 
 (b) a trade mark which, at the date of application for registration of the trade mark in question or (where appropriate) of the priority claimed in respect of the application, was entitled to protection under the Paris Convention or the TRIPS Agreement as a well known trade mark,
 
 and includes a trade mark in respect of which an application for registration has been made and which, if registered, would be an earlier trade mark by virtue of paragraph (a) subject to its being so registered;
 
-“geographical indication” has the same meaning as in section 2 of the Geographical Indications Act 1998;
+“geographical indication” has the same meaning as in section 2 of the Geographical Indications Act (Cap. 117B);
 
 “international trade mark (Singapore)” has the meaning given to it under section 54;
 
@@ -380,7 +352,7 @@ and includes a trade mark in respect of which an application for registration ha
 
 “Registry” means the Registry of Trade Marks established under section 64;
 
-“repealed Act” means the Trade Marks Act (Cap. 332) repealed by this Act;
+“repealed Act” means the Trade Marks Act (Cap. 332, 1985 Ed.) repealed by this Act;
 
 “sign” includes any letter, word, name, signature, numeral, device, brand, heading, label, ticket, shape, colour, aspect of packaging or any combination thereof;
 
@@ -438,7 +410,7 @@ Introductory
 
 4\.—(1) A registered trade mark is a property right obtained by the registration of the trade mark under this Act and the proprietor of a registered trade mark has the rights and remedies provided by this Act.
 
-(2) No proceedings shall lie to prevent or recover damages for the infringement of an unregistered trade mark as such; but nothing in this Act shall affect the law relating to passing off or rights under the Geographical Indications Act 1998.
+(2) No proceedings shall lie to prevent or recover damages for the infringement of an unregistered trade mark as such; but nothing in this Act shall affect the law relating to passing off or rights under the Geographical Indications Act (Cap. 117B).
 
 Application for registration of trade mark
 
@@ -450,7 +422,7 @@ Application for registration of trade mark
 
 (3) The application shall be subject to the payment of the application fee and such other fees as may be appropriate.
 
-### Classification of trade marks
+### Classification of goods and services
 
 6\.—(1) Goods and services shall be classified for the purposes of the registration of trade marks according to a prescribed system of classification.
 
@@ -466,7 +438,7 @@ Grounds for refusal of registration
 
 (b) trade marks which are devoid of any distinctive character;
 
-(c) trade marks which consist exclusively of signs or indications which may serve, in trade, to designate the kind, quality, quantity, intended purpose, value, geographical origin, the time of production of goods or of rendering of services, or other characteristics of goods or services;
+(c) trade marks which consist exclusively of signs or indications which may serve, in trade, to designate the kind, quality, quantity, intended purpose, value, geographical origin, the time of production of goods or of rendering of services, or other characteristics of goods or services; and
 
 (d) trade marks which consist exclusively of signs or indications which have become customary in the current language or in the bona fide and established practices of the trade.
 
@@ -496,7 +468,7 @@ Grounds for refusal of registration
 
 (9) A trade mark shall not be refused registration by virtue of subsection (7) if the application for its registration had been made in good faith, or if it had been used continuously in good faith in the course of trade by the applicant for its registration or his predecessor in title, either —
 
-(a) before the commencement of this Act; or
+(a) before 15th January 1999; or
 
 (b) before the geographical indication in question is protected in its country of origin.
 
@@ -552,7 +524,7 @@ shall not be registered if —
 
 (6) The Registrar may, in his discretion, register a trade mark where the proprietor of the earlier trade mark or other earlier right consents to the registration.
 
-(7) A trade mark which is an earlier trade mark by virtue of paragraph (a) ofthe definition of “earlier trade mark” in section 2(1) and whose registration expires shall continue to be taken into account in determining the registrability of a later mark for a period of one year after the expiry unless the Registrar is satisfied that there was no bona fide use of the mark during the 2 years immediately preceding the expiry.
+(7) A trade mark which is an earlier trade mark by virtue of paragraph (a) of the definition of "earlier trade mark" in section 2(1) and whose registration expires shall continue to be taken into account in determining the registrability of a later mark for a period of one year after the expiry unless the Registrar is satisfied that there was no bona fide use of the mark during the 2 years immediately preceding the expiry.
 
 ### Raising of relative grounds in case of honest concurrent use
 
@@ -660,7 +632,7 @@ and then only where the correction does not substantially affect the identity of
 
 the Registrar shall register the trade mark.
 
-(2) Subject to subsections (3) and (4), a trade mark when registered shall be registered as of the date of the application for registration, and that date shall be deemed for the purposes of this Act to be the date of registration.
+(2) Subject to subsections (3) and (4), atrade mark when registered shall be registered as of the date of the application for registration, and that date shall be deemed for the purposes of this Act to be the date of registration.
 
 (3) If —
 
@@ -686,7 +658,7 @@ the registration of the trade mark in respect of those goods or services is take
 
 ### Revocation of acceptance
 
-16\.—(1) Notwithstanding section 15(1), if, before a trade mark is registered, the Registrar is satisfied —
+16\.—(1) Notwithstanding section 15 (1), if, before a trade mark is registered, the Registrar is satisfied —
 
 (a) that the application for registration of the trade mark was accepted because of an error or omission in the course of the examination; or
 
@@ -882,7 +854,7 @@ in relation to the goods or services for which the trade mark is registered.
 
 (b) no offence under section 46, 47, 48 or 49 is committed by anything done before the date on which the trade mark is in fact registered.
 
-(5) the trade mark is registered subject to any disclaimer or limitation, the rights of the proprietor are restricted by the disclaimer or limitation.
+(5) If the trade mark is registered subject to any disclaimer or limitation, the rights of the proprietor are restricted by the disclaimer or limitation.
 
 ### Acts amounting to infringement of registered trade mark
 
@@ -900,13 +872,13 @@ there exists a likelihood of confusion on the part of the public.
 
 (a) without the consent of the proprietor of the trade mark, he uses in the course of trade a sign which is identical with or similar to the trade mark, in relation to goods or services which are not similar to those for which the trade mark is registered;
 
-(b) the use of the trade mark in relation to those goods or services would indicate a connection between those goods or services and the proprietor and would be likely to cause confusion to the public;
+(b) the use of the trade mark in relation to those goods or services would indicate a connection between those goods or services and the proprietor;
 
 (c) there exists a likelihood of confusion on the part of the public because of such use; and
 
 (d) the interests of the proprietor are likely to be damaged by such use.
 
-(4) For the purposes of this section, sections 28 and 29, a person uses a sign if, in particular, he —
+(4) For the purposes of this section, sections 28 and 29 , a person uses a sign if, in particular, he —
 
 (a) applies it to goods or the packaging thereof;
 
@@ -918,7 +890,13 @@ there exists a likelihood of confusion on the part of the public.
 
 (e) uses the sign in advertising.
 
-(5) Notwithstanding subsection (4), a person who applies a sign to any material used or intended to be used for labelling or packaging goods, or who uses it on any document described in subsection (4)(d) or in advertising, is deemed not to use the sign if, at the time of such application or use, he does not know nor has reason to believe that the proprietor or a licensee of the registered trade mark did not consent to such application or use of the sign.
+(5) Notwithstanding subsection (4), a person who —
+
+(a) applies a sign to any material used or intended to be used for labelling or packaging goods; or
+
+(b) uses it on any document described in subsection (4)(d) or in advertising,
+
+is deemed not to use the sign if, at the time of such application or use, he does not know nor has reason to believe that the proprietor or a licensee of the registered trade mark did not consent to such application or use of the sign.
 
 (6) Nothing in subsections (1) to (5) shall be construed as preventing the use of a registered trade mark by any person for the purpose of identifying goods or services as those of the proprietor or a licensee, but any such use otherwise than in accordance with honest practices in industrial or commercial matters shall be treated as infringing the registered trade mark if the use without due cause takes unfair advantage of, or is detrimental to, the distinctive character or repute of the trade mark.
 
@@ -964,11 +942,11 @@ whichever is the earlier.
 
 (a) disclaim any right to the exclusive use of any specified element of the trade mark; or
 
-(b) agree that the rights conferred by the registration shall be subject to a specified territorial or other limitation,
+(b) agree that the rights conferred by the registration shall be subject to a specified territorial or other limitation.
 
-and where the registration of a trade mark is subject to a disclaimer or limitation, the rights conferred by section 26 are restricted accordingly.
+(2) Where the registration of a trade mark is subject to a disclaimer or limitation, the rights conferred by section 26 are restricted accordingly.
 
-(2) The Minister may make rules as to the publication and entry in the register of a disclaimer or limitation.
+(3) The Minister may make rules as to the publication and entry in the register of a disclaimer or limitation.
 
 Infringement proceedings
 
@@ -984,7 +962,7 @@ Infringement proceedings
 
 ### Order for erasure, etc., of offending sign
 
-32\.—(1) Where a person is found to have infringed a registered trade mark, the Court may make an order requiring him —
+32\.—(1) Wherea person is found to have infringed a registered trade mark, the Court may make an order requiring him —
 
 (a) to cause the offending sign to be erased, removed or obliterated from any infringing goods, material or articles in his possession, custody or control; or
 
@@ -1024,7 +1002,7 @@ Infringement proceedings
 
 (5) An order made under this section shall not take effect until the end of the period within which notice of an appeal may be given or, if before the end of that period notice of appeal is duly given, until the final determination or abandonment of the proceedings on the appeal.
 
-(6) Where there is more than one person interested in the goods, material or articles, the Court may direct that the goods, material or articles be sold, or otherwise dealt with, and the proceeds divided, and shall make any other order as it thinks just.
+(6) Wherethere is more than one person interested in the goods, material or articles, the Court may direct that the goods, material or articles be sold, or otherwise dealt with, and the proceeds divided, and shall make any other order as it thinks just.
 
 (7) If the Court decides that no order should be made under this section, the person in whose possession, custody or control the goods, material or articles were before being delivered up is entitled to their return.
 
@@ -1046,13 +1024,13 @@ any aggrieved person may bring proceedings for relief under this section.
 
 (b) an injunction against the continuance of the threats;
 
-(c) damages in respect of any loss he has sustained by the threats,
+(c) damages in respect of any loss he has sustained by the threats.
 
-and the plaintiff is entitled to such relief unless the defendant shows that the acts in respect of which proceedings were threatened constitute (or if done would constitute) an infringement of the registered trade mark concerned.
+(3) The plaintiff is entitled to the relief referred to in subsection (2) unless the defendant shows that the acts in respect of which proceedings were threatened constitute (or if done would constitute) an infringement of the registered trade mark concerned.
 
-(3) If the defendant showed that the acts in respect of which proceedings were threatened constitute (or if done would constitute) an infringement of the registered trade mark concerned, the plaintiff is nevertheless entitled to relief if he shows that the registration of the trade mark is invalid or liable to be revoked in a relevant respect.
+(4) If the defendant showed that the acts in respect of which proceedings were threatened constitute (or if done would constitute) an infringement of the registered trade mark concerned, the plaintiff is nevertheless entitled to relief if he shows that the registration of the trade mark is invalid or liable to be revoked in a relevant respect.
 
-(4) The mere notification that a trade mark is registered, or that an application for registration has been made, does not constitute a threat of proceedings for the purposes of this section.
+(5) The mere notification that a trade mark is registered, or that an application for registration has been made, does not constitute a threat of proceedings for the purposes of this section.
 
 ## PART IV
 
@@ -1214,9 +1192,11 @@ the licensee may bring the proceedings in his own name as if he were the proprie
 
 (7) A proprietor who is added as a defendant under subsection (5) shall not be made liable for any costs in the action unless he takes part in the proceedings.
 
-(8) In infringement proceedings brought by the proprietor of a registered trade mark, any loss suffered or likely to be suffered by licensees shall be taken into account; and the Court may give such directions as it thinks fit as to the extent to which the plaintiff is to hold the proceeds of any pecuniary remedy on behalf of licensees.
+(8) In infringement proceedings brought by the proprietor of a registered trade mark, any loss suffered or likely to be suffered by licensees shall be taken into account.
 
-(9) The provisions of this section shall apply in relation to an exclusive licensee if or to the extent that he has, by virtue of section 45(1), the rights and remedies of an assignee as if he were the proprietor of the registered trade mark.
+(9) The Court may give such directions as it thinks fit as to the extent to which the plaintiff is to hold the proceeds of any pecuniary remedy on behalf of licensees.
+
+(10) The provisions of this section shall apply in relation to an exclusive licensee if or to the extent that he has, by virtue of section 45(1), the rights and remedies of an assignee as if he were the proprietor of the registered trade mark.
 
 ### Exclusive licensee having rights and remedies of assignee
 
@@ -1384,41 +1364,9 @@ any goods or things to which a trade mark bearing any representation prohibited 
 
 INTERNATIONAL MATTERS
 
-The Madrid Protocol, etc.
+The Paris Convention and the TRIPS Agreement: supplementary provisions
 
-### Power to make provision giving effect to Madrid Protocol, etc.
-
-54\.—(1) The Minister may make rules to give effect in Singapore to the provisions of the Madrid Protocol or of any treaty, convention, arrangement or engagement relating to trade marks to which Singapore is a party.
-
-(2) Rules may, in particular, be made to provide for —
-
-(a) the making of applications for international registrations by way of the Registry as office of origin;
-
-(b) the procedures to be followed where the basic Singapore application or registration fails or ceases to be in force;
-
-(c) the procedures to be followed where the Registry receives from the International Bureau or any body specified in the rules a request for extension of protection to Singapore;
-
-(d) the effects of a successful request for extension of protection to Singapore;
-
-(e) the transformation of an application for an international registration, or an international registration, into a national application for registration;
-
-(f) the communication of information to the International Bureau; and
-
-(g) the payment of fees and amounts prescribed in respect of applications for international registrations, extensions of protection and renewals.
-
-(3) Provision may also be made in the rules to apply in relation to an international trade mark (Singapore) the provisions of section 35 and Parts VI and X.
-
-(4) For the purposes of this section —
-
-“International Bureau” has the meaning given by Article 2(1) of the Madrid Protocol;
-
-“international trade mark (Singapore)” means a trade mark which is entitled to protection in Singapore under the Madrid Protocol or a trade mark prescribed by the Minister as an international trade mark (Singapore);
-
-“Madrid Protocol” means the Protocol relating to the Madrid Agreement concerning the International Registration of Marks, adopted at Madrid on 27th June 1989, as revised or amended from time to time.
-
-The Paris Convention and the TRIPS Agreement supplementary provisions
-
-### Protection of well-known trade marks: Article 6bisof Paris Convention, etc.
+### Protection of well-known trade marks: Article 6bis of Paris Convention, etc.
 
 55\.—(1) References in this section to a trade mark which is entitled to protection under the Paris Convention or the TRIPS Agreement as a well-known trade mark are to a mark which is well-known in Singapore as being the mark of a person who —
 
@@ -1432,11 +1380,11 @@ whether or not that person carries on business, or has any goodwill, in Singapor
 
 (3) The right referred to in subsection (2) is subject to section 24.
 
-(4) Nothing in subsection (2) shall affect the continuation of any bona fide use of a trade mark begun before the commencement of this Act.
+(4) Nothing in subsection (2) shall affect the continuation of any bona fide use of a trade mark begun before 15th January 1999.
 
 (5) For the purposes of this section and sections 56, 57 and 59, “use”, in relation to a trade mark, means use within the meaning of section 27(4).
 
-### National emblems, etc., of Convention countries: Article 6terof Paris Convention, etc.
+### National emblems, etc., of Convention countries: Article 6ter of Paris Convention, etc.
 
 56\.—(1) A trade mark which consists of or contains the flag of a Convention country shall not be registered without the authorisation of the competent authorities of that country, unless it appears to the Registrar that use of the flag in the manner proposed is permitted without such authorisation.
 
@@ -1450,7 +1398,7 @@ whether or not that person carries on business, or has any goodwill, in Singapor
 
 (6) Where by virtue of this section the authorisation of the competent authorities of a Convention country is or would be required for the registration of a trade mark, those authorities are entitled to restrain by injunction any use in the course of trade of the trade mark in Singapore without their authorisation.
 
-### Emblems, etc., of certain international organisations: Article 6terof Paris Convention, etc.
+### Emblems, etc., of certain international organisations: Article 6ter of Paris Convention, etc.
 
 57\.—(1) This section shall apply to —
 
@@ -1472,7 +1420,7 @@ of international intergovernmental organisations of which one or more Convention
 
 (5) Nothing in this section shall affect the rights of a person whose bona fide use of the trade mark in question began before 23rd February 1995 (when the relevant provisions of the Paris Convention entered into force in relation to Singapore).
 
-### Notification under Article 6terof Paris Convention, etc.
+### Notification under Article 6ter of Paris Convention, etc.
 
 58\.—(1) For the purposes of section 56, state emblems of a Convention country (other than the national flag), and official signs or hallmarks, shall be regarded as protected under the Paris Convention or the TRIPS Agreement only if, or to the extent that —
 
@@ -1500,7 +1448,7 @@ of international intergovernmental organisations of which one or more Convention
 
 which are for the time being protected under the Paris Convention or the TRIPS Agreement by virtue of a notification under Article 6ter(3) of that Convention or under that Article as applied by the TRIPS Agreement.
 
-### Acts of agent or representative: Article 6septiesof the Paris Convention, etc.
+### Acts of agent or representative: Article 6septies of the Paris Convention, etc.
 
 59\.—(1) Subsections (2) to (6) shall apply where an application for registration of a trade mark is made by a person who is an agent or representative of a person who is the proprietor of the trade mark in a Convention country.
 
@@ -1516,7 +1464,9 @@ which are for the time being protected under the Paris Convention or the TRIPS A
 
 (5) Subsections (2), (3) and (4) shall not apply if, or to the extent that, the agent or representative justifies his action.
 
-(6) An application under subsection (3)(a) or (b) must be made within 3 years of the proprietor becoming aware of the registration; and no injunction shall be granted under subsection (4) in respect of a use in which the proprietor has acquiesced for a continuous period of 3 years or more.
+(6) An application under subsection (3)(a) or (b) must be made within 3 years of the proprietor becoming aware of the registration.
+
+(7) No injunction shall be granted under subsection (4) in respect of a use in which the proprietor has acquiesced for a continuous period of 3 years or more.
 
 ## PART VIII
 
@@ -1564,7 +1514,7 @@ The Registrar
 
 ### Registry of Trade Marks
 
-64\. For the purposes of this Act, there shall be an office which shall be known as the Registry of Trade Marks.
+64\. For the purposes of this Act, there shall be established an office which shall be known as the Registry of Trade Marks.
 
 ### Seal of Registry
 
@@ -1618,7 +1568,7 @@ The Register
 
 (5) In this section, “certified copy” and “certified extract” mean a copy and extract certified by the Registrar and sealed with the seal of the Registrar.
 
-Powers and duties of the Registrar
+Powers and duties of Registrar
 
 ### Costs awarded by Registrar
 
@@ -1666,7 +1616,7 @@ the Registrar may require the person to give security for the costs for the proc
 
 ### Exclusion of liability in respect of official acts
 
-74\.—(1) The Registrar shall not be taken to warrant the validity of the registration of a trade mark under this Act or under any treaty, convention, arrangement or engagement to which Singapore is a party.
+74\.—(1) The Registrarshall not be taken to warrant the validity of the registration of a trade mark under this Act or under any treaty, convention, arrangement or engagement to which Singapore is a party.
 
 (2) The Registrar is not subject to any liability by reason of, or in connection with, any examination required or authorised by this Act, or any such treaty, convention, arrangement or engagement, or any report or other proceedings consequent on such examination.
 
@@ -1704,7 +1654,9 @@ Forms, fees, hours of business and publication
 
 78\.—(1) The Minister may make rules to specify the hour at which the Registry shall be taken to be closed on any day for purposes of the transaction by the public of business under this Act or of any class of such business, and may specify days as excluded days for any such purposes.
 
-(2) Any business done under this Act on any day after the hour so specified in relation to business of that class, or on a day which is an excluded day in relation to business of that class, shall be taken to have been done on the next following day not being an excluded day; and where the time for doing anything under this Act expires on an excluded day, that time shall be extended to the next following day not being an excluded day.
+(2) Any business done under this Act on any day after the hour so specified in relation to business of that class, or on a day which is an excluded day in relation to business of that class, shall be taken to have been done on the next following day not being an excluded day.
+
+(3) Where the time for doing anything under this Act expires on an excluded day, that time shall be extended to the next following day not being an excluded day.
 
 ### Publication of trade mark applications, etc.
 
@@ -1736,7 +1688,7 @@ Border enforcement measures
 
 “conveyance” has the same meaning as in the Regulation of Imports and Exports Act (Cap. 272A);
 
-“Director-General” means the Director-General of Customs and Excise appointed under section 4(1) of the Customs Act (Cap. 70);
+“Director-General” means the Director-General of Customs and Excise appointed under section 4(1) of the Customs Act;
 
 “goods in transit” means goods imported, whether or not landed or transhipped within Singapore, which are to be carried to another country either by the same or another conveyance;
 
@@ -1760,13 +1712,13 @@ Border enforcement measures
 
 “senior authorised officer” means —
 
-(a) a senior officer of customs as defined in section 3 of the Customs Act (Cap. 70); and
+(a) a senior officer of customs as defined in section 3 of the Customs Act; and
 
 (b) any officer or class or description of officers appointed by the Minister by notification in theGazetteto exercise the powers and perform the duties conferred and imposed on a senior authorised officer by this Part;
 
-“vehicle” has the same meaning as in the Regulation of Imports and Exports Act;
+“vehicle” has the same meaning as in the Regulation of Imports and Exports Act (Cap. 272A);
 
-“vessel” has the same meaning as in the Regulation of Imports and Exports Act (Cap. 272A).
+“vessel” has the same meaning as in the Regulation of Imports and Exports Act.
 
 ### Restriction of importation of infringing goods
 
@@ -1780,7 +1732,7 @@ Border enforcement measures
 
 (2) A notice given under subsection (1) shall be supported by such documents and information, and accompanied by such fee, as may be prescribed by rules made under this Act.
 
-(3) A notice under subsection (1) remains in force until the end of the period of 60 days commencing on the day on which the notice was given, unless it is revoked, before the end of that period, by notice in writing given to the Director-General —
+(3) A notice under subsection (1) shall remain in force until the end of the period of 60 days commencing on the day on which the notice was given, unless it is revoked, before the end of that period, by notice in writing given to the Director-General —
 
 (a) if the person giving the first-mentioned notice is a licensee of the registered trade mark and he has power to revoke the notice, by the licensee;
 
@@ -1878,7 +1830,7 @@ the Director-General may extend the initial period by such period as is prescrib
 
 (b) if no manner of disposal is so prescribed, as the Director-General directs.
 
-### Compulsory release of the seized goods to importer
+### Compulsory release of seized goods to importer
 
 88\.—(1) The Director-General shall release seized goods (not being goods forfeited to the Government under section 87) to the importer on the expiration of the retention period for the goods if the objector has not, before the expiration of that period —
 
@@ -1948,7 +1900,7 @@ the Court may order the objector to pay compensation in such amount as the Court
 
 (2) The debt created by subsection (1) is due by the objector, or, if there are 2 or more objectors, by the objectors jointly and severally.
 
-Powers of Search
+Powers of search
 
 ### Powers of search in relation to vessels, aircraft and vehicles
 
@@ -1988,9 +1940,9 @@ Powers of Search
 
 (7) An authorised officer may exercise the powers conferred by this section in respect of a vessel under way if he reasonably suspects that it is not in transit through Singapore.
 
-### Examination of packages
+### Examination of packages, etc.
 
-95\.—(1) Any goods, package, box, chest or other article which is being or has recently been imported and in regard to which a reasonable suspicion exists that it is or that it contains goods liable to be seized under section 82 may be —
+95\.—(1) Any goods, package, box, chest or other article which is being or has recently been imported and in regard to which a reasonable suspicion exists that it is or that it contains goods liable to be seized under section 82may be —
 
 (a) examined and searched by an authorised officer or detained until any person in charge thereof has opened it for examination and search;
 
@@ -2000,7 +1952,7 @@ Powers of Search
 
 (d) marked, locked, sealed or otherwise secured by an authorised officer pending examination and search.
 
-(2) Any person, other than an authorised officer, who removes, opens, breaks or tampers with any lock, seal or other means of securing any goods, package, box, chest or other article referred to in subsection (1)(d) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
+(2) Any person, other than an authorised officer, who removes, opens, breaks or tampers with any mark, lock, seal or other means of securing any goods, package, box, chest or other article referred to in subsection (1)(d) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 ### Power to remove packages and goods to police station or examination station
 
@@ -2014,9 +1966,9 @@ Powers of Search
 
 97\.—(1) Any person landing or being about to land or having recently landed from any vessel or aircraft, or leaving any vessel or aircraft in Singapore whether for the purpose of landing or otherwise, or entering or having recently entered Singapore by land, sea or air, shall —
 
-(a) on demand by an authorised officer, either permit his person and goods and baggage to be searched by the officer for any goods liable to be seized under section 82 or, together with the goods and baggage, accompany the officer to a police station or an examination station, and there permit his person and goods and baggage to be searched in the presence and under the supervision of a senior authorised officer for any goods liable to be seized under section 82; or
+(a) on demand by an authorised officer, either permit his person and goods and baggage to be searched by the officer for any goods liable to be seized under section 82or, together with the goods and baggage, accompany the officer to a police station or an examination station, and there permit his person and goods and baggage to be searched in the presence and under the supervision of a senior authorised officer for any goods liable to be seized under section 82; or
 
-(b) on demand by a senior authorised officer, permit his person and goods and baggage to be searched by the officer, or in the presence and under the supervision of the officer, for any goods liable to be seized under section 82.
+(b) on demand by a senior authorised officer, permit his person and goods and baggage to be searched by the officer, or in the presence and under the supervision of the officer, for any goods liable to be seized under section 82 .
 
 (2) Whenever it is necessary to cause a woman to be searched, the search shall be made by another woman and with strict regard to decency.
 
@@ -2094,7 +2046,7 @@ he is entitled to his costs as between solicitor and client unless the Court dir
 
 ### Power to make rules
 
-108\.—(1) The Minister may make rules —
+108\.—(1) The Minister maymake rules —
 
 (a) for any purpose for which rules are required or authorised to be made under this Act;
 
@@ -2118,25 +2070,19 @@ he is entitled to his costs as between solicitor and client unless the Court dir
 
 (f) authorising the rectification of irregularities of procedure;
 
-(g) prescribing time limits for anything required to be done in connection with any proceeding under this Act;
+(g) prescribing time limits for anything required to be done in connection with any proceedings under this Act;
 
 (h) providing for the extension of any time limit so prescribed, or specified by the Registrar, whether or not it has already expired; and
 
 (i) as to the giving of evidence in proceedings before the Registrar under this Act by affidavit or statutory declaration.
 
-### Repeal
-
-109\. The Trade Marks Act (Cap. 332) is repealed.
-
 ### Transitional provisions
 
-110\.—(1) The provisions of the Third Schedule have effect with respect to transitional matters on the commencement of this Act.
+109\.—(1) The provisions of the Third Schedule have effect with respect to transitional matters on 15th January 1999.
 
 (2) The Minister may, by order published in theGazette, amend the Third Schedule to make such further transitional provisions as he may consider necessary and expedient.
 
-### Consequential amendments
-
-111\. The provisions of the written laws specified in the first column of the Fourth Schedule are amended in the manner set out in the second column thereof.
+[110
 
 FIRST SCHEDULE
 
@@ -2374,7 +2320,7 @@ Grounds for invalidity of registration
 
 THIRD SCHEDULE
 
-Section 110
+Section 109
 
 Transitional Provisions
 
@@ -2382,13 +2328,13 @@ Introductory
 
 1.—(1) In this Schedule, unless the context otherwise requires —
 
-“existing registered mark” means a trade mark or certification trade mark registered under the Trade Marks Act (Cap. 332, 1992 Ed.) immediately before the commencement of this Act;
+“existing registered mark” means a trade mark or certification trade mark registered under the Trade Marks Act (Cap. 332, 1992 Ed.) immediately before 15th January 1999;
 
-“the old law” means the repealed Act and any other enactment or rule of law applying to existing registered marks immediately before the commencement of this Act.
+“the old law” means the repealed Act and any other enactment or rule of law applying to existing registered marks immediately before 15th January 1999.
 
 (2) For the purposes of this Schedule —
 
-(a) an application shall be treated as pending on the commencement of this Act if it was made but not finally determined before commencement; and
+(a) an application shall be treated as pending on 15th January 1999 if it was made but not finally determined before that date; and
 
 (b) the date on which it was made shall be the date of filing under the repealed Act.
 
@@ -2400,19 +2346,19 @@ Existing registered marks
 
 (3) Existing registered marks registered as a series of trade marks in the register kept under the repealed Act are similarly registered in the new register for the purposes of this Act.
 
-(4) In any other case notes indicating that existing registered marks are associated with other marks shall cease to have effect on the commencement of this Act.
+(4) In any other case notes indicating that existing registered marks are associated with other marks shall cease to have effect on 15th January 1999.
 
-3.—(1) A condition entered on the register kept under the repealed Act in relation to an existing registered mark immediately before the commencement of this Act shall cease to have effect on commencement.
+3.—(1) A condition entered on the register kept under the repealed Act in relation to an existing registered mark immediately before 15th January 1999 shall cease to have effect on that date.
 
-(2) Proceedings under section 39(3) of the repealed Act which are pending on the commencement of this Act shall be dealt with under the old law and any necessary alteration made to the new register.
+(2) Proceedings under section 39(3) of the repealed Act which are pending on 15th January 1999 shall be dealt with under the old law and any necessary alteration made to the new register.
 
-(3) A disclaimer or limitation entered on the register kept under the repealed Act in relation to an existing registered mark immediately before the commencement of this Act shall be deemed to be transferred to the new register and have effect as if entered on the register in pursuance of section 30 of this Act.
+(3) A disclaimer or limitation entered on the register kept under the repealed Act in relation to an existing registered mark immediately before 15th January 1999 shall be deemed to be transferred to the new register and have effect as if entered on the register in pursuance of section 30 of this Act.
 
 Effects of registration: infringement
 
-4.—(1) Sections 26 to 29 of this Act apply in relation to an existing registered mark as from the commencement of this Act and section 31 of this Act applies in relation to infringement of an existing registered mark committed after the commencement of this Act, subject to sub-paragraph (3).
+4.—(1) Sections 26 to 29 of this Act apply in relation to an existing registered mark as from 15th January 1999 and section 31 of this Act applies in relation to infringement of an existing registered mark committed after that date, subject to sub-paragraph (3).
 
-(2) The old law continues to apply in relation to infringements committed before the commencement of this Act.
+(2) The old law continues to apply in relation to infringements committed before 15th January 1999.
 
 (3) It is not an infringement of —
 
@@ -2424,61 +2370,61 @@ to continue after commencement any use which did not amount to infringement of t
 
 Infringing goods, material or articles
 
-5\. Section 33 of this Act shall apply to infringing goods, material or articles whether made before or after the commencement of this Act.
+5\. Section 33 of this Act shall apply to infringing goods, material or articles whether made before or after 15th January 1999.
 
 Rights and remedies of licensee or authorised user
 
-6.—(1) Section 44 of this Act shall apply to licences granted before the commencement of this Act, but only in relation to infringements committed after commencement.
+6.—(1) Section 44 of this Act shall apply to licences granted before 15th January 1999, but only in relation to infringements committed after that date.
 
-(2) Paragraph 14 of the Second Schedule of this Act applies only in relation to infringements committed after the commencement of this Act.
+(2) Paragraph 14 of the Second Schedule of this Act applies only in relation to infringements committed after 15th January 1999.
 
 Co-ownership of registered mark
 
-7.—(1) Subject to sub-paragraph (2), the provisions of section 37 of this Act apply as from the commencement of this Act to an existing registered mark of which 2 or more persons were immediately before commencement registered as joint proprietors.
+7.—(1) Subject to sub-paragraph (2), the provisions of section 37 of this Act apply as from 15th January 1999 to an existing registered mark of which 2 or more persons were immediately before that date registered as joint proprietors.
 
 (2) So long as the relations between the joint proprietors remain such as are described in section 12(11) of the repealed Act there shall be taken to be an agreement to exclude the operation of section 37(1) and (3) of this Act.
 
 Assignment, etc., of registered mark
 
-8.—(1) Section 38 of this Act shall apply to transactions and events occurring after the commencement of this Act in relation to an existing registered mark; and the old law continues to apply in relation to transactions and events occurring before commencement.
+8.—(1) Section 38 of this Act shall apply to transactions and events occurring after 15th January 1999 in relation to an existing registered mark; and the old law continues to apply in relation to transactions and events occurring before that date.
 
-(2) Entries in the register kept under the repealed Act relating to the assignment of registered trade marks and of the benefits of applications for registration of trade marks shall be deemed to be transferred on the commencement of this Act to the register kept under this Act and have effect as if made under section 39 of this Act.
+(2) Entries in the register kept under the repealed Act relating to the assignment of registered trade marks and of the benefits of applications for registration of trade marks shall be deemed to be transferred on 15th January 1999 to the register kept under this Act and have effect as if made under section 39 of this Act.
 
 (3) Provision may be made by rules for putting entries referred to in sub-paragraph (2) in the same form as is required for entries made under this Act.
 
-(4) An application for registration of an assignment of a registered trade mark or of an assignment of the benefits of an application for registration of a trade mark, made to the Registrar before the commencement of this Act, shall be treated as an application for registration under section 39 of this Act and shall proceed accordingly.
+(4) An application for registration of an assignment of a registered trade mark or of an assignment of the benefits of an application for registration of a trade mark, made to the Registrar before 15th January 1999, shall be treated as an application for registration under section 39 of this Act and shall proceed accordingly.
 
 (5) The Registrar may require the applicant to amend his application so as to conform with the requirements of this Act.
 
-(6) An application for registration under section 43 of the repealed Act which has been determined by the Registrar but not finally determined before the commencement of this Act shall be dealt with under the old law; and sub-paragraphs (2) and (3) shall apply in relation to any resulting entry in the register.
+(6) An application for registration under section 43 of the repealed Act which has been determined by the Registrar but not finally determined before 15th January 1999 shall be dealt with under the old law; and sub-paragraphs (2) and (3) shall apply in relation to any resulting entry in the register.
 
-(7) Where before the commencement of this Act a person has become entitled by assignment or transmission to an existing registered mark but has not registered his title, any application for registration after commencement shall be made under section 39 of this Act.
+(7) Where before 15th January 1999 a person has become entitled by assignment or transmission to an existing registered mark but has not registered his title, any application for registration after that date shall be made under section 39 of this Act.
 
 (8) In cases to which sub-paragraph (4) or (7) applies, section 43(2) of the repealed Act continues to apply (and section 39(3) and (4) of this Act do not apply) as regards the consequences of failing to register.
 
 Licensing of registered mark
 
-9.—(1) Sections 42 and 43(2) of this Act shall apply only in relation to licences granted after the commencement of this Act; and the old law continues to apply in relation to licences granted before commencement.
+9.—(1) Sections 42 and 43(2) of this Act shall apply only in relation to licences granted after 15th January 1999; and the old law continues to apply in relation to licences granted before that date.
 
-(2) Existing entries under section 30 of the repealed Act shall be deemed transferred on the commencement of this Act to the register kept under this Act and have effect as if made under section 39 of this Act.
+(2) Existing entries under section 30 of the repealed Act shall be deemed transferred on 15th January 1999 to the register kept under this Act and have effect as if made under section 39 of this Act.
 
 (3) Provision may be made by rules for putting entries referred to in sub-paragraph (2) in the same form as is required for entries made under this Act.
 
-(4) An application for registration as a registered user which is pending before the Registrar on the commencement of this Act shall be treated as an application for registration of a licence under section 39(1) of this Act and shall proceed accordingly.
+(4) An application for registration as a registered user which is pending before the Registrar on 15th January 1999 shall be treated as an application for registration of a licence under section 39(1) of this Act and shall proceed accordingly.
 
 (5) The Registrar may require the applicant to amend his application so as to conform with the requirements of this Act.
 
-(6) An application for registration as a registered user which has been determined by the Registrar but not finally determined before the commencement of this Act shall be dealt with under the old law; and sub-paragraphs (2) and (3) shall apply in relation to any resulting entry in the register.
+(6) An application for registration as a registered user which has been determined by the Registrar but not finally determined before 15th January 1999 shall be dealt with under the old law; and sub-paragraphs (2) and (3) shall apply in relation to any resulting entry in the register.
 
-(7) Any proceedings pending on the commencement of this Act under section 30(9) or (10) of the repealed Act shall be dealt with under the old law and any necessary alteration made to the new register.
+(7) Any proceedings pending on 15th January 1999 under section 30(9) or (10) of the repealed Act shall be dealt with under the old law and any necessary alteration made to the new register.
 
 Pending applications for registration
 
-10.—(1) Subject to paragraph 11, an application for registration of a mark under the old law which is pending on the commencement of this Act shall be dealt with under the old law, and if registered the mark shall be treated for the purposes of this Schedule as an existing registered mark.
+10.—(1) Subject to paragraph 11, an application for registration of a mark under the old law which is pending on 15th January 1999 shall be dealt with under the old law, and if registered the mark shall be treated for the purposes of this Schedule as an existing registered mark.
 
 (2) The power of the Minister under section 108 of this Act to make rules regulating practice and procedure, and as to the matters mentioned in subsection (2) of that section, is exercisable in relation to such an application; and different provision may be made for such applications from that made for other applications.
 
-(3) Section 26 of the repealed Act shall be disregarded in dealing after the commencement of this Act with an application for registration.
+(3) Section 26 of the repealed Act shall be disregarded in dealing after 15th January 1999 with an application for registration.
 
 (4) Subject to sub-paragraph (6), a mark shall not be registered under this paragraph if it contains or consists of a geographical indication in respect of a wine or spirit and the mark is used or intended to be used in relation to a wine or spirit not originating from the geographical origin indicated by the geographical indication.
 
@@ -2486,7 +2432,7 @@ Pending applications for registration
 
 (6) A mark shall not be refused registration by virtue of sub-paragraph (4) if the application had been made in good faith, or if it had been used continuously in good faith in the course of trade by the applicant for its registration or his predecessor in title, either —
 
-(a) before the commencement of this Act; or
+(a) before 15th January 1999; or
 
 (b) before the geographical indication concerned is protected in its country of origin.
 
@@ -2500,17 +2446,17 @@ in its country of origin.
 
 Conversion of pending application
 
-11.—(1) In the case of a pending application for registration which has not been advertised under section 18 of the repealed Act before the commencement of this Act, the applicant may give notice to the Registrar claiming to have the registrability of the mark determined in accordance with the provisions of this Act.
+11.—(1) In the case of a pending application for registration which has not been advertised under section 18 of the repealed Act before 15th January 1999, the applicant may give notice to the Registrar claiming to have the registrability of the mark determined in accordance with the provisions of this Act.
 
-(2) The notice must be in the prescribed form, be accompanied by the appropriate fee and be given no later than 6 months after the commencement of this Act.
+(2) The notice must be in the prescribed form, be accompanied by the appropriate fee and be given no later than 6 months after 15th January 1999.
 
-(3) Notice duly given is irrevocable and has the effect that the application shall be treated as if made immediately after the commencement of this Act.
+(3) Notice duly given is irrevocable and has the effect that the application shall be treated as if made immediately after 15th January 1999.
 
 Claim to priority from overseas application
 
-12\. Section 10 of this Act shall apply to an application for registration under this Act made after the commencement of this Act notwithstanding that the Convention application was made before commencement.
+12\. Section 10 of this Act shall apply to an application for registration under this Act made after 15th January 1999 notwithstanding that the Convention application was made before that date.
 
-13.—(1) Where, before the commencement of this Act, a person has duly filed an application for protection of a trade mark in a foreign state to which section 75 of the repealed Act applies which is not a Convention country (referred to in this paragraph as a “relevant overseas application”), he, or his successor in title, has a right to priority, for the purposes of registering the same trade mark under this Act for some or all of the same goods or services, for a period of 6 months from the date of filing of the relevant overseas application.
+13.—(1) Where, before 15th January 1999, a person has duly filed an application for protection of a trade mark in a foreign state to which section 75 of the repealed Act applies which is not a Convention country (referred to in this paragraph as a “relevant overseas application”), he, or his successor in title, has a right to priority, for the purposes of registering the same trade mark under this Act for some or all of the same goods or services, for a period of 6 months from the date of filing of the relevant overseas application.
 
 (2) If the application for registration under this Act is made within that 6 month period —
 
@@ -2534,126 +2480,58 @@ and the previous application may not thereafter serve as a basis for claiming a 
 
 (7) A right to priority arising as a result of a relevant overseas application may be assigned or otherwise transmitted, either with the application or independently, and the reference in sub-paragraph (1) to the applicant’s “successor in title” shall be construed accordingly.
 
-(8) Nothing in this paragraph shall affect proceedings on an application for registration under the repealed Act made before the commencement of this Act.
+(8) Nothing in this paragraph shall affect proceedings on an application for registration under the repealed Act made before 15th January 1999.
 
 Renewal of registration
 
-14\. Section 19 of this Act applies where the renewal of an existing registered mark falls due on or after the commencement of this Act; and the old law continues to apply in any other case.
+14\. Section 19 of this Act applies where the renewal of an existing registered mark falls due on or after 15th January 1999; and the old law continues to apply in any other case.
 
 Pending application for alteration of registered mark
 
-15\. An application under section 38 of the repealed Act which is pending on the commencement of this Act shall be dealt with under the old law and any necessary alteration made to the new register.
+15\. An application under section 38 of the repealed Act which is pending on 15th January 1999 shall be dealt with under the old law and any necessary alteration made to the new register.
 
 Revocation for non-use
 
-16.—(1) An application under section 40 of the repealed Act which is pending on the commencement of this Act shall be dealt with under the old law and any necessary alteration made to the new register.
+16.—(1) An application under section 40 of the repealed Act which is pending on 15th January 1999 shall be dealt with under the old law and any necessary alteration made to the new register.
 
-(2) An application under section 22(1)(a) or (b) of this Act may be made in relation to an existing registered mark at any time after the commencement of this Act.
+(2) An application under section 22(1)(a) or (b) of this Act may be made in relation to an existing registered mark at any time after 15th January 1999.
 
-(3) However, no application referred to in sub-paragraph (2) for the revocation of the registration of an existing registered mark registered by virtue of section 41 of the repealed Act may be made until more than 5 years after the commencement of this Act.
+(3) However, no application referred to in sub-paragraph (2) for the revocation of the registration of an existing registered mark registered by virtue of section 41 of the repealed Act may be made until more than 5 years after 15th January 1999.
 
 Application for rectification, etc.
 
-17.—(1) An application under section 37 or 39 of the repealed Act which is pending on the commencement of this Act shall be dealt with under the old law and any necessary alteration made to the new register.
+17.—(1) An application under section 37 or 39 of the repealed Act which is pending on 15th January 1999 shall be dealt with under the old law and any necessary alteration made to the new register.
 
 (2) For the purposes of proceedings under section 23 of this Act as it applies in relation to an existing registered mark, the provisions of this Act shall be deemed to have been in force at all material times, except that no objection to the validity of the registration of an existing registered mark may be taken on the ground specified in section 8(3) of this Act.
 
 Regulations as to use of certification mark
 
-18.—(1) Regulations governing the use of an existing registered certification mark transmitted to the Registrar in pursuance of section 68 of the repealed Act shall be treated after the commencement of this Act as if filed under paragraph 6 of the Second Schedule to this Act.
+18.—(1) Regulations governing the use of an existing registered certification mark transmitted to the Registrar in pursuance of section 68 of the repealed Act shall be treated after 15th January 1999 as if filed under paragraph 6 of the Second Schedule to this Act.
 
-(2) Any request for amendment of the regulations which was pending on the commencement of this Act shall be dealt with under the old law.
+(2) Any request for amendment of the regulations which was pending on 15th January 1999 shall be dealt with under the old law.
 
 Certificate of validity of contested registration
 
-19\. A certificate given before the commencement of this Act under section 54 of the repealed Act shall have effect as if given under section 102 of this Act.
+19\. A certificate given before 15th January 1999 under section 54 of the repealed Act shall have effect as if given under section 102 of this Act.
 
-FOURTH SCHEDULE
-
-Section 111
-
-Consequential Amendments
-
-First column
-
-Second column
-
-(1) The Commercial and Industrial Security Corporation Act
-
-
-
-
-(Chapter 47, 1998 Ed.)
-
-Section 23(4)
-
-Delete the words “Trade Marks Act (Cap. 332)” and substitute the words “Trade Marks Act 1998”.
-
-(2) The Consumer Protection (Trade Descriptions and Safety Requirements) Act (Chapter 53, 1985 Ed.)
-
-Section 8
-
-(i) Delete the words “Trade Marks Act” wherever they appear and substitute in each case the words “Trade Marks Act 1998”.
-
-(ii) Delete the marginal reference “Cap. 332.”.
-
-(3) The Criminal Procedure Code
-
-
-
-
-(Chapter 68, 1985 Ed.)
-
-Section 62(a), (iii) and (v)
-
-(i) Delete the words “sections 70, 71, 72, 73 and 74 of the Trade Marks Act” and substitute the words “section 46, 47, 48, 49 or 52 of the Trade Marks Act 1998”.
-
-(ii) Delete the marginal reference “Cap. 332.”.
-
-(4) The Jurong Town Corporation Act
-
-
-
-
-(Chapter 150, 1998 Ed.)
-
-Section 35(4)
-
-Delete the words “Trade Marks Act (Cap. 332)” and substitute the words “Trade Marks Act 1998”.
-
-(5) The Registration of Criminals Act
-
-
-
-
-(Chapter 268, 1985 Ed.)
-
-Second Schedule
-
-Delete the following item in Part II:
-
-"Cap. 332.
+## LEGISLATIVE HISTORY
 
 Trade Marks Act
 
-Sections 70, 72 and 74"
+(CHAPTER 332)
 
-and substitute the following item:
+This Legislative History is provided for the convenience of users of the Trade Marks Act. It is not part of this Act.
 
-"
-
-Trade Marks Act 1998
-
-Sections 46, 48 and 52".
-
-(6) The Singapore Productivity and Standards Board Act (Chapter 303A,
-
-
-
-
-1996 Ed.)
-
-Section 2
-
-Delete the words “Trade Marks Act” in the definition of “trade mark” and substitute the words “Trade Marks Act 1998”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 38 of 1938—Trade Marks Act**|
+||Date of commencement|1 February 1939|
+|2.|**1992 Revised Edition—Trade Marks Act**|
+||Date of operation|9 March 1992|
+|3.|**Act 46 of 1998—Trade Marks Act 1998**|
+||Date of First Reading|12 October 1998|
+|||(Bill No. 42/1998 published on 13 October 1998)|
+||Date of Second and Third Readings|26 November 1998|
+||Date of commencement|15 January 1999 (except section 54)|
+|4.|**1999 Revised Edition—Trade Marks Act**|
+||Date of operation|30 December 1999|
