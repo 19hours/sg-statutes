@@ -1,6 +1,6 @@
-**Singapore Business Federation Act 2001**
+**Singapore Business Federation Act**
 
-**(No. 40 of 2001)**
+**(CHAPTER 297A)**
 
 **Table of Contents**
 
@@ -8,9 +8,7 @@
 
 [**Preamble**](#Preamble)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -18,7 +16,7 @@
 
 - [4 Composition of Council](#Composition-of-Council)
 
-- [5 Membership of Singapore Business Federation](#Membership-of-Singapore-Business-Federation)
+- [5 Membership of Federation](#Membership-of-Federation)
 
 - [6 Appointment of Board](#Appointment-of-Board)
 
@@ -26,61 +24,41 @@
 
 - [8 Accounts to be kept](#Accounts-to-be-kept)
 
-- [9 Access to accounts](#Access-to-accounts)
+- [9 Access to accounts and other records](#Access-to-accounts-and-other-records)
 
-- [10 Dissolution of Singapore Business Federation](#Dissolution-of-Singapore-Business-Federation)
+- [10 Dissolution of Federation](#Dissolution-of-Federation)
 
-- [11 Act to prevail over Constitution of Singapore Business Federation](#Act-to-prevail-over-Constitution-of-Singapore-Business-Federation)
+- [11 Act to prevail over Constitution of Federation](#Act-to-prevail-over-Constitution-of-Federation)
 
 - [12 Subscriptions payable by members](#Subscriptions-payable-by-members)
 
 - [13 Power to make regulations](#Power-to-make-regulations)
 
-- [14 Related amendment to Small Claims Tribunals Act](#Related-amendment-to-Small-Claims-Tribunals-Act)
-
 [**THE SCHEDULE Local Ethnic Chambers of Commerce and Industry**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Singapore Business Federation Act
 
-ACTS SUPPLEMENT
+(CHAPTER 297A)
 
-Published by Authority
+(Original Enactment: Act 40 of 2001)
 
-NO. 1]
+REVISED EDITION 2002
 
-Friday, March 8
+(31st July 2002)
 
-[2002
+An Act to provide for membership of certain local and foreign companies in the Singapore Business Federation and for certain matters relating to the management and operation thereof.
 
-The following Act was passed by Parliament on 5th October 2001 and assented to by the President on 17th October 2001:—
-
-Singapore Business Federation Act 2001
-
-(No. 40 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-17th October 2001.
-
-Date of Commencement: 1st April 2002
-
-An Act to provide for membership of certain local and foreign companies in the Singapore Business Federation and for certain matters relating to the management and operation thereof, and to make a related amendment to the Small Claims Tribunals Act (Chapter 308 of the 1998 Revised Edition).
+[1st April 2002]
 
 Whereas a society known as the “Singapore Business Federation” has been registered under the Societies Act (Chapter 311 of the 1985 Revised Edition) and has as its objects the enhancement of the organisation of the business community in Singapore and the representation, advancement, promotion and protection, in Singapore and abroad, of the major business concerns (such as investment and trade opportunities and labour management issues) of business entities carrying on commerce and industry in Singapore and, in particular, of larger local and foreign companies.
 
 And Whereas it is desirable that statutory provision be made to provide for membership and participation by larger local and foreign companies in the Singapore Business Federation.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+### Short title
 
-### Short title and commencement
-
-1\. This Act may be cited as the Singapore Business Federation Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Singapore Business Federation Act.
 
 ### Interpretation
 
@@ -100,7 +78,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 “local company” means a company incorporated under Division 1 of Part III of the Companies Act or under any corresponding previous written law;
 
-“rules”, in relation to the Singapore Business Federation, has the same meaning as in section 11(3) of the Societies Act (Cap. 311);
+“rules”, in relation to the Singapore Business Federation, has the same meaning as in section 11(3) of the Societies Act;
 
 “Singapore Business Federation” means the society registered under the Societies Act by that name, and “Federation” shall be construed accordingly.
 
@@ -114,7 +92,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Composition of Council
 
-4\.—(1) The Council shall consist of such members as may be specified in the Constitution of the Singapore Business Federation who shall include —
+4\.—(1) The Council shall consist of such members as may be specified in the Constitution of the Federation who shall include —
 
 (a) one nominee from each of the local ethnic chambers of commerce and industry specified in the Schedule; and
 
@@ -126,7 +104,7 @@ of the total number of members of the Council.
 
 (2) The Minister may, by order published in theGazette, amend, add to or vary the Schedule.
 
-### Membership of Singapore Business Federation
+### Membership of Federation
 
 5\.—(1) Every —
 
@@ -134,7 +112,7 @@ of the total number of members of the Council.
 
 (b) foreign company which has an authorised share capital of or above the amount of $500,000,
 
-shall become, by virtue of this section and without election, admission or appointment, a member of the Singapore Business Federation, unless the membership of such local or foreign company is terminated in accordance with the Constitution of the Federation.
+shall become, by virtue of this section and without election, admission or appointment, a member of the Federation, unless the membership of such local or foreign company is terminated in accordance with the Constitution of the Federation.
 
 (2) The Minister may, by order published in theGazette—
 
@@ -144,7 +122,7 @@ shall become, by virtue of this section and without election, admission or appoi
 
 ### Appointment of Board
 
-6\.—(1) The Minister shall appoint the Board of Trustees of the Singapore Business Federation, which shall consist of such number of trustees as the Minister thinks fit.
+6\.—(1) The Minister shall appoint the Board of Trustees of the Federation, which shall consist of such number of trustees as the Minister thinks fit.
 
 (2) The Minister may appoint one of the trustees on the Board to be the Chairman.
 
@@ -156,7 +134,7 @@ shall become, by virtue of this section and without election, admission or appoi
 
 7\.—(1) The Board shall be responsible for ensuring that —
 
-(a) the Singapore Business Federation acts in furtherance of its objects as set out in this Act and in its Constitution;
+(a) the Federation acts in furtherance of its objects as set out in this Act and in its Constitution;
 
 (b) the funds and assets of the Federation are properly accounted for and safeguarded; and
 
@@ -164,7 +142,7 @@ shall become, by virtue of this section and without election, admission or appoi
 
 (2) The approval of the Board shall be required for the following matters:
 
-(a) the annual report and accounts of the Singapore Business Federation;
+(a) the annual report and accounts of the Federation;
 
 (b) the annual budget of the Federation;
 
@@ -178,23 +156,23 @@ shall become, by virtue of this section and without election, admission or appoi
 
 8\.—(1) The Council shall —
 
-(a) cause to be kept full and proper accounts and records of all financial transactions of the Singapore Business Federation;
+(a) cause to be kept full and proper accounts and records of all financial transactions of the Federation;
 
 (b) ensure that payments out of the funds of the Federation are correctly made and properly authorised; and
 
 (c) ensure that adequate control is maintained over the assets and receipts of the funds of the Board.
 
-(2) The accounts of the Singapore Business Federation shall be audited by an auditor to be appointed by the Council with the approval of the Board.
+(2) The accounts of the Federation shall be audited by an auditor to be appointed by the Council with the approval of the Board.
 
 (3) A person shall not be qualified for appointment as an auditor under subsection (2) unless he is an approved company auditor under the Companies Act (Cap. 50).
 
-(4) The Council shall cause a copy of the audited accounts of the Singapore Business Federation and the auditor’s report to be submitted to the Board.
+(4) The Council shall cause a copy of the audited accounts of the Federation and the auditor’s report to be submitted to the Board.
 
-(5) The Minister may, by regulations made under section 13, provide for the proper control and management of the funds of the Singapore Business Federation and for the proper accounting, reporting, auditing and periodic examination of the accounts of the Federation.
+(5) The Minister may, by regulations made under section 13, provide for the proper control and management of the funds of the Federation and for the proper accounting, reporting, auditing and periodic examination of the accounts of the Federation.
 
-### Access to accounts
+### Access to accounts and other records
 
-9\.—(1) The Board or any authorised person shall be entitled, at all reasonable times, to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Singapore Business Federation.
+9\.—(1) The Board or any authorised person shall be entitled, at all reasonable times, to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Federation.
 
 (2) The Board or any authorised person may require any person to disclose or furnish to the Board or authorised person, as the case may be, such information or document which such person possesses or has access to as the Board or authorised person considers necessary —
 
@@ -212,21 +190,21 @@ shall become, by virtue of this section and without election, admission or appoi
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-### Dissolution of Singapore Business Federation
+### Dissolution of Federation
 
-10\.—(1) The Singapore Business Federation shall not be dissolved without the prior approval of the Minister.
+10\.—(1) The Federation shall not be dissolved without the prior approval of the Minister.
 
-(2) Upon dissolution of the Singapore Business Federation, the movable or immovable property of the Federation shall be disposed of in such manner as may be determined by its members and approved by the Board.
+(2) Upon dissolution of the Federation, the movable or immovable property of the Federation shall be disposed of in such manner as may be determined by its members and approved by the Board.
 
-### Act to prevail over Constitution of Singapore Business Federation
+### Act to prevail over Constitution of Federation
 
-11\.—(1) Any provision of the Constitution of the Singapore Business Federation that is inconsistent with this Act shall, to the extent of the inconsistency, be void.
+11\.—(1) Any provision of the Constitution of the Federation that is inconsistent with this Act shall, to the extent of the inconsistency, be void.
 
-(2) Nothing in this Act shall be construed to excuse or exempt the Singapore Business Federation from complying with any written law that, apart from this Act, would apply to it.
+(2) Nothing in this Act shall be construed to excuse or exempt the Federation from complying with any written law that, apart from this Act, would apply to it.
 
 ### Subscriptions payable by members
 
-12\.—(1) Every local or foreign company that is a member of the Singapore Business Federation by virtue of this Act shall pay to the Federation such annual or periodic subscription of such amount as may be —
+12\.—(1) Every local or foreign company that is a member of the Federation by virtue of this Act shall pay to the Federation such annual or periodic subscription of such amount as may be —
 
 (a) determined by the Council after consultation with the Board; and
 
@@ -234,17 +212,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) For the purpose of subsection (1), the Council, after consultation with the Board and subject to the approval of the Minister, may —
 
-(a) divide the members of the Singapore Business Federation into different classes;
+(a) divide the members of the Federation into different classes;
 
 (b) determine that different amounts of subscription shall be payable by different classes of such members and for different periods;
 
 (c) vary from time to time, the subscriptions payable by such members or different classes of such members; and
 
-(e) determine the rate of interest that shall be payable by any such member in the event that any subscription due from such member remains unpaid for such period as the Federation may determine.
+(d) determine the rate of interest that shall be payable by any such member in the event that any subscription due from such member remains unpaid for such period as the Federation may determine.
 
-(3) The amount of subscription prescribed as being payable by any member of the Singapore Business Federation under this section shall not exceed in the aggregate $1,500 in any calendar year.
+(3) The amount of subscription prescribed as being payable by any member of the Federation under this section shall not exceed in the aggregate $1,500 in any calendar year.
 
-(4) Any subscription that is payable to the Singapore Business Federation under this section —
+(4) Any subscription that is payable to the Federation under this section —
 
 (a) may be recovered by the Council by an action for a debt in any court of competent jurisdiction; and
 
@@ -253,20 +231,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 ### Power to make regulations
 
 13\. The Minister may make such regulations as may be necessary or expedient for the purposes of this Act.
-
-### Related amendment to Small Claims Tribunals Act
-
-14\. Section 23(2) of the Small Claims Tribunals Act (Cap. 308) is amended —
-
-(a) by inserting, immediately after paragraph (e), the following paragraph:
-
-“
-
-(f) the Council of the Singapore Business Federation as referred to in the Singapore Business Federation Act 2001, one of the members of the Council or any employee of the Federation duly authorised by the Council may present the case on the Council’s behalf;
-
-”and
-
-(b) by re-lettering the existing paragraphs (f), (g) and (h) as paragraphs (g), (h) and (i), respectively.
 
 ## THE SCHEDULE
 
@@ -280,3 +244,20 @@ Local Ethnic Chambers of Commerce and Industry
 
 3\. Singapore Malay Chamber of Commerce and Industry.
 
+## LEGISLATIVE HISTORY
+
+Singapore Business Federation Act
+
+(CHAPTER 297A)
+
+This Legislative History is provided for the convenience of users of the Singapore Business Federation Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 40 of 2001—Singapore Business Federation Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 40/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 April 2002|
+|2.|**2002 Revised Edition—Singapore Business Federation Act**|
+||Date of operation|31 July 2002|
