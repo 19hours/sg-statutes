@@ -538,7 +538,7 @@ the Registrar determines that the application does not satisfy the formal requir
 
 (c) issue a certificate of registration to the person who is the registered owner of the design at the time the design is registered; and
 
-(d) publish a notice of the registration and a representation of the design in theGazette.
+(d) publish a notice of the registration and a representation of the design in the prescribed manner.
 
 ### Only formality examination required
 
