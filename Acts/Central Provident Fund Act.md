@@ -100,9 +100,9 @@
 
 - [33 Establishment of Home Protection Fund](#Establishment-of-Home-Protection-Fund)
 
-- [34 Premium when due](#Premium-when-due)
+- [34 (Repealed)](#Repealed)
 
-- [35 Period of cover](#Period-of-cover)
+- [35 (Repealed)](#Repealed)
 
 - [36 Amount payable by Board to Housing Authority or approved mortgagee on death or incapacity of member of Scheme](#Amount-payable-by-Board-to-Housing-Authority-or-approved-mortgagee-on-death-or-incapacity-of-member-of-Scheme)
 
@@ -300,8 +300,6 @@ PRELIMINARY
 
 “wages” means the remuneration in money, including any bonus, due or granted to a person in respect of his employment but does not include such payments as the Minister may, by notification in theGazette, specify.
 
-[39/2000 wef 01/01/2001]
-
 [19/83; 32/84; 16/86; 5/87; 10/94; 30/98]
 
 ### Establishment and constitution of Central Provident Fund Board
@@ -342,8 +340,6 @@ PRELIMINARY
 
 (3A) The Minister, with the President’s concurrence under Article 22A(1)(b) of the Constitution, may appoint any member of the Board to be a temporary Chairman or temporary Deputy Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman or Deputy Chairman, as the case may be.
 
-[39/2000 wef 01/01/2001]
-
 (4) The other members of the Board shall be appointed by the Minister with the President’s concurrence under Article 22A(1)(b) of the Constitution and shall consist of the following persons:
 
 (a) 2 persons holding office of emolument under the Government;
@@ -375,8 +371,6 @@ PRELIMINARY
 (10) Any person who is a Member of Parliament shall be disqualified from being appointed to or remaining a member of the Board.
 
 (11) The Chairman may, by instrument in writing, authorise any member of the Board to exercise any power or perform any function conferred on the Chairman by or under this Act.
-
-[39/2000 wef 01/01/2001]
 
 ### Appointment of officers and employees
 
@@ -898,8 +892,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (4) In this section, “approved”, in relation to a bank or an annuity from an insurer, means approved by the Board for the purposes of this section.
 
-[39/2000 wef 01/01/2001]
-
 ### Restrictions on withdrawal from medisave account
 
 16\.—(1) Notwithstanding anything in section 15, a member of the Fund, or a committee of his person or of his estate appointed under the Mental Disorders and Treatment Act (Cap. 178), shall not be entitled to withdraw any sum standing to the member’s credit in the medisave account under section 15(2)(a), (d) or (e) or (3) if the amount in his medisave account does not exceed the prescribed amount.
@@ -1338,23 +1330,27 @@ HOME PROTECTION INSURANCE SCHEME
 
 [30/87]
 
-(4) The Board may, on application being made to it by a member, exempt him from the Scheme if the Board is satisfied that —
+(4) The Board may, on the application being made to it by a member, exempt the member from the Scheme.
 
-(a) there is in force an appropriate policy of insurance and the amount payable under the policy is sufficient to discharge the outstanding loan owing to the Housing Authority or approved mortgagee in the event of the death or incapacity of that member; or
+[39/2000 wef 01/03/2001]
 
-(b) the amount of the loan owing to the Housing Authority or the approved mortgagee does not exceed $3,000 or such other amount as may be fixed from time to time by the Minister and the loan will be repaid in 2 years or such other period as may be fixed by the Minister.
+(4A) Any exemption by the Board under subsection (4) shall be subject to such terms and conditions as may be prescribed by the Minister.
 
-[30/87]
+[39/2000 wef 01/03/2001]
 
 (5) The Scheme shall not apply to —
 
-(a) any member if he is 60 yearsof age or above or such other age as the Minister may prescribe at the time he is required to join the Scheme; and
+(a) any member if he is 65 years of age or above or such other age as the Minister may prescribe at the time he is required to join the Scheme; and
 
 [39/2000 wef 01/03/2001]
 
 (b) any member or class of members whom the Minister may, by notification in theGazette, specify.
 
 [30/87; 10/94]
+
+(5A) Notwithstanding subsection (5), the Scheme shall not apply to any member who is 60 years of age or above but below 65 years of age on the date of commencement of the Central Provident Fund (Amendment) Act 2000 unless that member opts, in such manner as the Board may determine, to join the Scheme.
+
+[39/2000 wef 01/03/2001]
 
 (6) Any person who became a member of the Scheme prior to 1st March 1988 shall continue to be a member of the Scheme subject to the same term, condition and restriction which were in force before that date.
 
@@ -1366,19 +1362,19 @@ HOME PROTECTION INSURANCE SCHEME
 
 [30/98]
 
-(2) Where a member who is insured under the Scheme in respect of any immovable property purchases another immovable property from a Housing Authority, the member shall, notwithstanding section 35, cease to be covered under the Scheme in respect of the first-mentioned immovable property immediately upon the commencement of cover under the Scheme in respect of the second-mentioned immovable property.
+(2) Where a member who is insured under the Scheme in respect of any immovable property purchases another immovable property from a Housing Authority, the member shall, notwithstanding anything in this Act or in regulations made under this Part, cease to be covered under the Scheme in respect of the first-mentioned immovable property immediately upon the commencement of cover under the Scheme in respect of the second-mentioned immovable property.
 
 [39/2000 wef 01/03/2001]
 
 [30/98]
 
-(3) Where a member’s cover under the Scheme in respect of any immovable property ceases by virtue of subsection (2), the Board shall refund to the member in cash or by crediting to his ordinary account in the Fund as the Board thinks fit an amount representing the surrender value of his cover under the Schemein respect of that property as on the date of cessation of cover calculated in accordance with regulations made under this Part as if the member had redeemed the housing loan on the property on that date.
+(3) Where a member’s cover under the Scheme in respect of any immovable property ceases by virtue of subsection (2), the Board shall refund to the member in cash or by crediting to his ordinary account in the Fund as the Board thinks fit an amount representing the surrender value of his cover under the Scheme, if any, in respect of that property as on the date of cessation of cover calculated in accordance with regulations made under this Part as if the member had redeemed the housing loan on the property on that date.
 
 [39/2000 wef 01/03/2001]
 
 [30/98]
 
-(4) Where a member is insured under the Scheme before 1st August 1998 for more than one immovable property at the same time, the member’s cover under the Scheme in respect of the earlier of 2 immovable properties purchased by him shall cease on that date and the Board shall refund to the member an amount representing the surrender value of his cover under the Schemein respect of that property as on that date in the manner provided in subsection (3).
+(4) Where a member is insured under the Scheme before 1st August 1998 for more than one immovable property at the same time, the member’s cover under the Scheme in respect of the earlier of 2 immovable properties purchased by him shall cease on that date and the Board shall refund to the member an amount representing the surrender value of his cover under the Scheme, if any, in respect of that property as on that date in the manner provided in subsection (3).
 
 [39/2000 wef 01/03/2001]
 
@@ -1408,21 +1404,17 @@ HOME PROTECTION INSURANCE SCHEME
 
 [30/87]
 
-(3) Where the amount of the premium which a member is liable to pay under the Scheme exceeds the amount standing to his credit in the Fund, the deficiency —
+(3) The deduction referred to in subsection (2) shall have priority to all other deductions which the Board is authorised to make under this Act or any regulations made thereunder.
 
-(a) may be paid in cash; or
+[39/2000 wef 01/03/2001]
 
-(b) may be recovered from the future contributions paid into the Fund for that member.
+(4) Where the amount of the premium which a member is liable to pay under the Scheme exceeds the amount standing to his credit in the Fund, the deficiency may be paid in such manner and within such time as the Board may determine.
 
-[30/87]
+[39/2000 wef 01/03/2001]
 
-(4) The deficiency referred to in subsection (3) shall be paid within such time as may be specified by the Board.
+(5) Where a joint-owner of an immovable property is insured under the Scheme, the Board may permit a joint-owner who is a spouse of the first-mentioned joint-owner to use his contributions in the Fund to pay for the whole or part of the premium which the first-mentioned joint-owner is liable to pay under the Scheme.
 
-[30/87]
-
-(5) Where the joint-owner of an immovable property is insured under the Scheme, the Board may permit the spouse of that joint-owner to use his contributions in the Fund to pay for the whole or part of the premium which the joint-owner is liable to pay under the Scheme.
-
-[30/87]
+[39/2000 wef 01/03/2001]
 
 ### Establishment of Home Protection Fund
 
@@ -1430,29 +1422,9 @@ HOME PROTECTION INSURANCE SCHEME
 
 (2) The Home Protection Fund shall be controlled and administered by the Board.
 
-### Premium when due
+34\. [Deleted by Act 39/2000 wef 01/03/2001]
 
-34\.—(1) Any premium required to be paid by a member of the Scheme shall become payable —
-
-(a) in any case where the loan document or the instrument of the mortgage of the immovable property purchased by the member of the Scheme has been executed on or after 1st November 1981, on the date of the commencement of the housing loan or the date of the possession of the immovable property by the member of the Scheme, whichever is the earlier; or
-
-(b) in any case where any money standing to the credit of the account of a member of the Fund has been withdrawn for the repayment of instalments of housing loan taken by the member for the purchase of an immovable property at any time after the date of the execution of the loan document or instrument of mortgage, on the date of such withdrawal.
-
-[30/87]
-
-(2) In this section, “loan document” means any agreement or other document evidencing a loan granted by the Housing Authority or approved mortgagee to a member of the Scheme for the purchase of an immovable property.
-
-[30/87]
-
-### Period of cover
-
-35\. Where the prescribed premium payable under the Scheme has been paid by or deducted from a member’s contributions standing to his credit in the Fund, the member or person in respect of whom the premium has been paid (referred to in this section as the insured) shall be covered under the Scheme —
-
-(a) in any case where the date the housing loan is repaid or the mortgage of the immovable property is discharged falls on or before the date the insured attains the age of 60 years or such other age as the Minister may prescribe, from the date the premium is paid or deducted to the date the housing loan is repaid or mortgage is discharged; or
-
-(b) in any case where the date the housing loan is repaid or the mortgage of the immovable property is discharged falls after the date the insured attains the age of 60 years or such other age as the Minister may prescribe, from the date the premium is paid or deducted to the same date in the period of 12 months immediately after he attains the age of 60 years or such other age as the Minister may prescribe.
-
-[30/87; 10/94]
+35\. [Deleted by Act 39/2000 wef 01/03/2001]
 
 ### Amount payable by Board to Housing Authority or approved mortgagee on death or incapacity of member of Scheme
 
@@ -1460,17 +1432,43 @@ HOME PROTECTION INSURANCE SCHEME
 
 [30/87]
 
-(2) Where there is a claim made to the Board by a member of the Scheme on the ground of incapacity at any time during the period he is insured under the Scheme, the Board shall upon proof of incapacity pay to the Housing Authority or the approved mortgagee, as the case may be, the monthly or other periodic loan instalments which the member of the Scheme is liable to pay to the Housing Authority or the approved mortgagee under the housing loan for a period not exceeding 2 years.
+(2) Subject to subsections (3), (3A) and (3B), where there is a claim made to the Board by a member of the Scheme on the ground of incapacity at any time during the period he is insured under the Scheme, the Board shall upon proof of incapacity pay to the Housing Authority or the approved mortgagee, as the case may be, the monthly or other periodic loan instalments which the member of the Scheme is liable to pay to the Housing Authority or the approved mortgagee under the housing loan for a period not exceeding 2 years.
 
 [39/2000 wef 01/03/2001]
 
-(2A) The outstanding housing loan shall only be discharged by the Board if the incapacity of the member of the Scheme is in the opinion of the Board likely to continue for more than 2 years.
+(3) For the avoidance of doubt, where the housing loan is taken from a Housing Authority or an approved mortgagee by 2 or more members of the Scheme in respect of property purchased jointly by the members, the monthly or other periodic loan instalments payable by the Board under subsection (2) on account of the incapacity of a member shall be in proportion to that member’s liability for the repayment of the housing loan as declared by that member to, and accepted by, the Board.
 
-[30/87]
+[39/2000 wef 01/03/2001]
 
-(3) If the prescribed premium which a member of the Scheme is liable to pay under the Scheme has not been fully paid or deducted from the contributions standing to his credit in the Fund at the time of his death or incapacity, the amount payable by the Board under subsection (1) or (2) shall be such an amount as is prescribed under regulations made under this Part in accordance with the amount of premium actually paid by the member or deducted from his contributions in the Fund at the time of his death or incapacity, as the case may be.
+(3A) The Board shall cease payment to the Housing Authority or the approved mortgagee under subsection (2) if the member of the Scheme is no longer incapacitated.
 
-[30/87]
+[39/2000 wef 01/03/2001]
+
+(3B) Where the Board ceases payment to the Housing Authority or the approved mortgagee under subsection (3A), the member of the Scheme shall remain insured under the Scheme for such an amount as is prescribed under regulations made under this Part less any amount that the Board has paid under subsection (2).
+
+[39/2000 wef 01/03/2001]
+
+(3C) Notwithstanding subsection (2), if the incapacity of the member of the Scheme is in the opinion of the Board likely to continue for more than 2 years, the Board shall pay the Housing Authority or the approved mortgagee such an amount as is determined in accordance with the formula —
+
+(A + B) — C,
+
+where A
+
+is the amount prescribed under regulations made under this Part to be payable at the time of incapacity of the member;
+
+B
+
+is the amount of interest accrued on A as determined by the Board from the time the first monthly or periodic loan instalment is made under subsection (2) to the time the amount under this subsection is paid by the Board;
+
+C
+
+is the total amount paid by the Board to the Housing Authority or the approved mortgagee under subsection (2).
+
+[39/2000 wef 01/03/2001]
+
+(3D) Where a claim under the Scheme is made in respect of the incapacity of a member of the Scheme, the Board may backdate any payment to be made by the Board to the Housing Authority or the approved mortgagee under this section to the date on which the incapacity occurred.
+
+[39/2000 wef 01/03/2001]
 
 (4) The amount payable by the Board to the Housing Authority or the approved mortgagee under this section on the death or incapacity of a member of the Scheme shall in no case exceed the amount which is necessary to repay the outstanding amount of any loan and interest accruing thereon in order to secure the discharge of the mortgage of the immovable property at the time of the death or incapacity.
 
@@ -1478,7 +1476,21 @@ HOME PROTECTION INSURANCE SCHEME
 
 (5) The Board shall not be required to make any payment in respect of any member of the Scheme —
 
-(a) if the death or incapacity of that member occurs within one year from the date he is insured under the Scheme and the death is the result of suicide or the incapacity is the result of deliberate self-injury; or
+(a) if the death or incapacity of the member —
+
+(i) in the case of a member who was insured under the Scheme before the date of commencement of the Central Provident Fund (Amendment) Act 2000, occurs within one year from the date he is insured under the Scheme and the death is the result of suicide or the incapacity is the result of deliberate self-injury; or
+
+(ii) in the case of a member who was insured under the Scheme on or after the date of commencement of the Central Provident Fund (Amendment) Act 2000, is the result of suicide or deliberate self-injury committed within one year from the date that he is insured under the Scheme;
+
+[39/2000 wef 01/03/2001]
+
+(aa) if the member suffered capital punishment for any criminal act committed within one year from the date that he is insured under the Scheme;
+
+[39/2000 wef 01/03/2001]
+
+(ab) if the death or incapacity of the member, directly or indirectly, arose out of or is consequent upon or contributed by his own intentional criminal act committed within one year from the date that he is insured under the Scheme; or
+
+[39/2000 wef 01/03/2001]
 
 (b) if the death or incapacity of that member arises from war or any warlike operations or participation in any riot.
 
@@ -1508,9 +1520,23 @@ HOME PROTECTION INSURANCE SCHEME
 
 39\. The Minister may make such regulations as are necessary or expedient for the purpose of carrying out the provisions of this Part and, in particular, such regulations may —
 
-(a) provide for the rate of premium payable by members under the Scheme;
+(a) provide for the different classes of members of the Scheme and the rates of premium payable by such members;
+
+[39/2000 wef 01/03/2001]
+
+(aa) provide for the manner and time for payment of premiums by the different classes of members of the Scheme;
+
+[39/2000 wef 01/03/2001]
+
+(ab) provide for the period and commencement of cover under the Scheme;
+
+[39/2000 wef 01/03/2001]
 
 (b) provide for the amount of money payable by the Board to the Housing Authority or the approved mortgagee in the event of the death or incapacity of a member of the Scheme;
+
+(ba) provide for the amount of money payable by the Board under the Scheme where the prescribed premium has not been fully paid;
+
+[39/2000 wef 01/03/2001]
 
 (c) provide for the refund of any premium and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
 
@@ -1670,7 +1696,7 @@ shall be insured under the Scheme.
 
 [23/89]
 
-(2) Where there is a claim made to the Board by an insured person on the ground of incapacity at any time during the period he is insured under the Scheme, the Board shall upon proof of incapacity pay to him the insured sum by monthly instalments of such amount as may be determined by the Board for a period not exceeding 3 years, subject to the condition that in the event the insured person takes up any employment the Board shall stop payment of any insured sum remaining unpaid at the date of his taking up the employment and such amount shall not be recoverable by him.
+(2) Where there is a claim made to the Board by an insured person on the ground of incapacity at any time during the period he is insured under the Scheme, the Board shall upon proof of incapacity pay to him the insured sum by monthly instalments of such amount as may be determined by the Board for a period not exceeding 3 years, subject to the condition that in the event the insured person is no longer incapacitated the Board shall stop payment of any insured sum remaining unpaid at the date of his taking up the employment and such amount shall not be recoverable by him.
 
 [39/2000 wef 01/03/2001]
 
@@ -1680,9 +1706,27 @@ shall be insured under the Scheme.
 
 [23/89]
 
+(3A) Where the Board ceases payment under subsection (2), the insured person shall remain insured under the Scheme for the insured sum remaining unpaid at the date that he is no longer incapacitated.
+
+[39/2000 wef 01/03/2001]
+
 (4) Notwithstanding anything contained in this Part, the Board shall not be liable to pay the insured sum in respect of any insured person —
 
-(a) if the death or incapacity of that person occurs within one year from the date he becomes an insured person and the death is the result of suicide or the incapacity is the result of deliberate self-injury;
+(a) if the death or incapacity of the person —
+
+(i) in the case of a person who was insured under the Scheme before the date of commencement of the Central Provident Fund (Amendment) Act 2000, occurs within one year from the date he is insured under the Scheme and the death is the result of suicide or the incapacity is the result of deliberate self-injury; or
+
+(ii) in the case of a person who was insured under the Scheme on or after the date of commencement of the Central Provident Fund (Amendment) Act 2000, is the result of suicide or deliberate self-injury committed within one year from the date that he is insured under the Scheme;
+
+[39/2000 wef 01/03/2001]
+
+(aa) if the person suffered capital punishment for any criminal act committed within one year from the date that he is insured under the Scheme;
+
+[39/2000 wef 01/03/2001]
+
+(ab) if the death or incapacity of the person, directly or indirectly, arose out of or is consequent upon or contributed by his own intentional criminal act committed within one year from the date that he is insured under the Scheme;
+
+[39/2000 wef 01/03/2001]
 
 (b) if the incapacity or death of that person arises from war or any warlike operations or participation in any riot;
 
@@ -1860,6 +1904,8 @@ he shall be guilty of an offence.
 
 61\.—(1) Any person convicted of an offence under this Act for which no penalty is provided shall be liable to a fine not exceeding $2,500 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
 
+(2) [Deleted by Act 39/2000 wef 01/01/2001]
+
 (3) Notwithstanding the provisions of any written law to the contrary, a District Court or a Magistrate’s Court shall have the jurisdiction to impose the maximum penalty prescribed for an offence under this Act.
 
 ### Recovery of contributions upon conviction
@@ -1873,8 +1919,6 @@ he shall be guilty of an offence.
 (b) upon the application by the Board, in like manner as a judgment of a civil court for the payment of money.
 
 (3) Where the court orders that the amount ordered to be paid under subsection (1) to be recoverable in the manner mentioned in subsection (2)(b), the court shall certify the amount to be paid and the Board may recover the amount so certified in any civil court of competent jurisdiction as though the amount were a judgment debt due to the Board.
-
-[39/2000 wef 01/01/2001]
 
 ### Notice to attend court
 
@@ -2174,17 +2218,17 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (g) to provide that the Board may, with the approval of the Minister, appoint any agent (including the Government or any statutory body) for the assessment, collection or recovery of contributions payable under this Act or any regulations made thereunder and any interest thereon and that such agent may be delegated such duties, powers and functions of the Board or its officers under this Act as may be prescribed;
 
-(h) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purchase of immovable properties or to repay any loan taken to finance or re-finance the purchase of immovable properties including the payment of costs, fees or other incidental expenses incurred for the purchase of immovable property or for obtaining any loan to finance or re-finance such purchase or in connection with withdrawals of any money from the Fund;
+(h) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purchase or acquisition of immovable properties or to repay any loan taken to finance or re-finance the purchase or acquisition of immovable properties including the payment of costs, fees or other incidental expenses incurred for the purchase or acquisition of immovable property or for obtaining any loan to finance or re-finance such purchase or acquisition or in connection with withdrawals of any money from the Fund;
 
 [39/2000 wef 01/03/2001]
 
 (i) to provide for members of the Fund to apply or withdraw all or part of the contributions and interest standing to their credit in the Fund —
 
-(i) for the repayment of any loan taken to finance or re-finance the purchase of any land (with or without any building thereon) and the cost incurred for the construction of any dwelling-house thereon, including the payment of any cost, fee or other incidental expense incurred for the purchase of that land and the construction of the dwelling-house; and
+(i) for the repayment of any loan taken to finance or re-finance the purchase or acquisition of any land (with or without any building thereon) and the cost incurred for the construction of any dwelling-house thereon, including the payment of any cost, fee or other incidental expense incurred for the purchase or acquisition of that land and the construction of the dwelling-house; and
 
 [39/2000 wef 01/03/2001]
 
-(ii) for the reimbursement of the cost for the purchase of any land (with or without any building thereon) and the construction of any dwelling-house thereon, including the payment of any cost, fee or other incidental expense incurred for the purchase of that land and the construction of the dwelling-house;
+(ii) for the reimbursement of the cost for the purchase or acquisition of any land (with or without any building thereon) and the construction of any dwelling-house thereon, including the payment of any cost, fee or other incidental expense incurred for the purchase or acquisition of that land and the construction of the dwelling-house;
 
 [39/2000 wef 01/03/2001]
 
@@ -2201,8 +2245,6 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 (n) to prescribe for the purposes of section 15(6) the minimum sum which is required to be set aside or topped-up by a member at the time of the withdrawal of the sum standing to his credit in the Fund, the method of computing the minimum sum and the amount or manner in which the minimum sum may be withdrawn after a member has attained the age of 60 years or such other age as may be prescribed and different minimum sums may be prescribed for different classes of members, and for the purposes of section 18;
 
 (na) to prescribe for the purposes of section 15B the manner of application to set aside the additional sum, the conditions on which the additional sum may be set aside, the time at which the additional sum may be set aside, and the amount of and the manner in which the additional sum may be withdrawn;
-
-[39/2000 wef 01/01/2001]
 
 (o) to provide for rates of contributions, other than those specified in the First Schedule, in respect of such categories, classes or descriptions of employees as the Minister may specify;
 
@@ -2283,6 +2325,176 @@ FIRST SCHEDULE
 Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
+
+1. Subject to paragraphs 2 to 7, with effect from 1st January 2001 the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+
+55 Years of Age and below
+
+Above 55 but not more than 60 Years of Age
+
+Above 60 but not more than 65 Years of Age
+
+Above 65 Years of Age
+
+Total amount of the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+Contributions payable by the employer for the calendar month.
+
+Amount recoverable from the employee’s wages for the calendar month.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+Not exceeding $50
+
+NIL
+
+NIL
+
+NIL
+
+NIL
+
+NIL
+
+NIL
+
+NIL
+
+NIL
+
+Exceeding $50 but not exceeding $200
+
+An amount equal to 16% of the total amount of the employee’s wages for the month.
+
+NIL
+
+An amount equal to 6% of the total amount of the employee’s wages for the month.
+
+NIL
+
+An amount equal to 3.5% of the total amount of the employee’s wages for the month.
+
+NIL
+
+An amount equal to 3.5% of the total amount of the employee’s wages for the month.
+
+NIL
+
+Exceeding $200 but not exceeding $363
+
+An amount equal to the sum of —
+
+(a) 21% of the total amount of the employee’s wages for the month; and
+
+An amount equal to the sum of —
+
+(a) 5% of the total amount of the employee’s wages for the month; and
+
+An amount equal to the sum of —
+
+(a) 6% of the total amount of the employee’s wages for the month; and
+
+An amount equal to the sum of 1/4 of the difference between the total amount of the employee’s wages for the month and $200.
+
+An amount equal to the sum of —
+
+(a) 3.5% of the total amount of the employee’s wages for the month; and
+
+An amount equal to the sum of 1/6 of the difference between the total amount of the employee’s wages for the month and $200.
+
+An amount equal to the sum of —
+
+(a) 3.5% of the total amount of the employee’s wages for the month; and
+
+An amount equal to the sum of 1/9 of the difference between the total amount of the employee’s wages for the month and $200.
+
+(b) 1/3 of the difference between the total amount of the employee’s wages for the month and $200.
+
+(b) 1/3 of the difference between the total amount of the employee’s wages for the month and $200.
+
+(b) 1/4 of the difference between the total amount of the employee’s wages for the month and $200.
+
+(b) 1/6 of the difference between the total amount of the employee’s wages for the month and $200.
+
+(b) 1/9 of the difference between the total amount of the employee’s wages for the month and $200.
+
+Exceeding $363
+
+An amount equal to the sum of —
+
+(a) 36% of the employee’s ordinary wages for the month subject to a maximum of $2,160; and
+
+An amount equal to the sum of —
+
+(a) 20% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
+
+An amount equal to the sum of —
+
+(a) 18.5% of the employee’s ordinary wages for the month subject to a maximum of $1,110; and
+
+An amount equal to the sum of —
+
+(a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $750; and
+
+An amount equal to the sum of —
+
+(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $660; and
+
+An amount equal to the sum of —
+
+(a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $450; and
+
+An amount equal to the sum of —
+
+(a) 8.5% of the employee’s ordinary wages for the month subject to a maximum of $510; and
+
+An amount equal to the sum of —
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
+
+(b) 36% of the amount of the additional wages payable to the employee in the month.
+
+(b) 20% of the amount of the additional wages payable to the employee in the month.
+
+(b) 18.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 12.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 11% of the amount of the additional wages payable to the employee in the month.
+
+(b) 7.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 8.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.
 
 2. In respect of an employee whose total wages from an employer for the preceding year exceed $100,000, no contributions shall be payable by that employer on the additional wages which are in excess of the following:
 
@@ -2955,6 +3167,11 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 34/2000 published on 13 November 2000)|
 ||Date of Second and Third Readings|22 November 2000|
 ||Date of commencement|1 January 2001 (sections 2, 3, 4, 6, 8, 17, 18 and 19 (b))|
+|115.|**Act 39 of 2000—Central Provident Fund (Amendment) Act 2000**|
+||Date of First Reading|13 November 2000|
+|||(Bill No. 34/2000 published on 13 November 2000)|
+||Date of Second and Third Readings|22 November 2000|
+||Date of commencement|1 March 2001 (sections 10, 11, 12, 13, 14, 15, 16 and 19 (a))|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
