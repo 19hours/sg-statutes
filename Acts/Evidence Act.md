@@ -30,7 +30,7 @@
 
 - [9 Facts necessary to explain or introduce relevant facts](#Facts-necessary-to-explain-or-introduce-relevant-facts)
 
-- [10 Things said or done by conspirator in reference to common design](#Things-said-or-done-by-conspirator-in-reference-to-common-design)
+- [10 Things said or done by conspirator in reference to commondesign](#Things-said-or-done-by-conspirator-in-reference-to-commondesign)
 
 - [11 When facts not otherwise relevant become relevant](#When-facts-not-otherwise-relevant-become-relevant)
 
@@ -38,9 +38,9 @@
 
 - [13 Facts relevant when right or custom is in question](#Facts-relevant-when-right-or-custom-is-in-question)
 
-- [14 Facts showing existence of state of mind or of body or bodily feeling](#Facts-showing-existence-of-state-of-mind-or-of-body-or-bodily-feeling)
+- [14 Facts showing existence of state of mind or of body or bodilyfeeling](#Facts-showing-existence-of-state-of-mind-or-of-body-or-bodilyfeeling)
 
-- [15 Facts bearing on question whether act was accidental or intentional](#Facts-bearing-on-question-whether-act-was-accidental-or-intentional)
+- [15 Facts bearing on question whether act was accidental orintentional](#Facts-bearing-on-question-whether-act-was-accidental-orintentional)
 
 - [16 Existence of course of business when relevant](#Existence-of-course-of-business-when-relevant)
 
@@ -50,7 +50,7 @@
 
 - [18 Admission by party to proceeding or his agent;](#Admission-by-party-to-proceeding-or-his-agent;)
 
-- [19 Admissions by persons whose position must be proved as against party to suit](#Admissions-by-persons-whose-position-must-be-proved-as-against-party-to-suit)
+- [19 Admissions by persons whose position must be proved as against party tosuit](#Admissions-by-persons-whose-position-must-be-proved-as-against-party-tosuit)
 
 - [20 Admissions by persons expressly referred to by party to suit](#Admissions-by-persons-expressly-referred-to-by-party-to-suit)
 
@@ -72,13 +72,13 @@
 
 - [29 Confession otherwise relevant not to become irrelevant because of promise of secrecy, etc.](#Confession-otherwise-relevant-not-to-become-irrelevant-because-of-promise-of-secrecy-etc)
 
-- [30 Consideration of proved confession affecting person making it and others jointly under trial for same offence](#Consideration-of-proved-confession-affecting-person-making-it-and-others-jointly-under-trial-for-same-offence)
+- [30 Consideration of proved confession affecting person making it andothers jointly under trial for same offence](#Consideration-of-proved-confession-affecting-person-making-it-andothers-jointly-under-trial-for-same-offence)
 
 - [31 Admissions not conclusive proof but may estop](#Admissions-not-conclusive-proof-but-may-estop)
 
 [**Statements by persons who cannot be called as witnesses**](#Statements-by-persons-who-cannot-be-called-as-witnesses)
 
-- [32 Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant;](#Cases-in-which-statement-of-relevant-fact-by-person-who-is-dead-or-cannot-be-found-etc-is-relevant;)
+- [32 Cases in which statement of relevant fact by person who is dead orcannot be found, etc., is relevant;](#Cases-in-which-statement-of-relevant-fact-by-person-who-is-dead-orcannot-be-found-etc-is-relevant;)
 
 - [33 Relevancy of certain evidence for proving in subsequent proceeding the truth of facts therein stated](#Relevancy-of-certain-evidence-for-proving-in-subsequent-proceeding-the-truth-of-facts-therein-stated)
 
@@ -92,7 +92,7 @@
 
 - [36A Rules for filing and receiving evidence and documents in court by using information technology](#Rules-for-filing-and-receiving-evidence-and-documents-in-court-by-using-information-technology)
 
-- [37 Relevancy of entry in public record made in performance ofduty](#Relevancy-of-entry-in-public-record-made-in-performance-ofduty)
+- [37 Relevancy of entry in public record made in performance of duty](#Relevancy-of-entry-in-public-record-made-in-performance-of-duty)
 
 - [38 Relevancy of statements in maps, charts and plans](#Relevancy-of-statements-in-maps-charts-and-plans)
 
@@ -110,9 +110,9 @@
 
 - [43 Relevancy of certain judgments in probate, etc., jurisdiction](#Relevancy-of-certain-judgments-in-probate-etc-jurisdiction)
 
-- [44 Relevancy and effect of judgments, orders or decrees other than those mentioned in section 43](#Relevancy-and-effect-of-judgments-orders-or-decrees-other-than-those-mentioned-in-section-43)
+- [44 Relevancy and effect of judgments, orders or decrees other than thosementioned in section 43](#Relevancy-and-effect-of-judgments-orders-or-decrees-other-than-thosementioned-in-section-43)
 
-- [45 Judgments, etc., other than those mentioned in sections 42 to 44 when relevant](#Judgments-etc-other-than-those-mentioned-in-sections-42-to-44-when-relevant)
+- [45 Judgments, etc., other than those mentioned in sections 42 to 44 whenrelevant](#Judgments-etc-other-than-those-mentioned-in-sections-42-to-44-whenrelevant)
 
 - [45A Relevance of convictions and acquittals](#Relevance-of-convictions-and-acquittals)
 
@@ -212,7 +212,7 @@
 
 - [82 Presumption as to documents produced as record of evidence](#Presumption-as-to-documents-produced-as-record-of-evidence)
 
-- [83 Presumption as toGazettes, newspapers and other documents.](#Presumption-as-toGazettes-newspapers-and-other-documents)
+- [83 Presumption as toGazettes, newspapers and otherdocuments.](#Presumption-as-toGazettes-newspapers-and-otherdocuments)
 
 - [84 Presumption as to document admissible in England without proof of seal or signature](#Presumption-as-to-document-admissible-in-England-without-proof-of-seal-or-signature)
 
@@ -234,7 +234,7 @@
 
 [**Exclusion of oral by documentary evidence**](#Exclusion-of-oral-by-documentary-evidence)
 
-- [93 Evidence of terms of contracts, grants and other dispositions of property reduced to form of document](#Evidence-of-terms-of-contracts-grants-and-other-dispositions-of-property-reduced-to-form-of-document)
+- [93 Evidence of terms of contracts, grants and other dispositions ofproperty reduced to form of document](#Evidence-of-terms-of-contracts-grants-and-other-dispositions-ofproperty-reduced-to-form-of-document)
 
 - [94 Exclusion of evidence of oral agreement](#Exclusion-of-evidence-of-oral-agreement)
 
@@ -244,9 +244,9 @@
 
 - [97 Evidence as to document meaningless in reference to existing facts](#Evidence-as-to-document-meaningless-in-reference-to-existing-facts)
 
-- [98 Evidence as to application of language which can apply to one only of several persons](#Evidence-as-to-application-of-language-which-can-apply-to-one-only-of-several-persons)
+- [98 Evidence as to application of language which can apply to one only ofseveral persons](#Evidence-as-to-application-of-language-which-can-apply-to-one-only-ofseveral-persons)
 
-- [99 Evidence as to application of language to one of two sets of facts to neither of which the whole correctly applies](#Evidence-as-to-application-of-language-to-one-of-two-sets-of-facts-to-neither-of-which-the-whole-correctly-applies)
+- [99 Evidence as to application of language to one of two sets of facts toneither of which the whole correctly applies](#Evidence-as-to-application-of-language-to-one-of-two-sets-of-facts-toneither-of-which-the-whole-correctly-applies)
 
 - [100 Evidence as to meaning of illegible characters, etc.](#Evidence-as-to-meaning-of-illegible-characters-etc)
 
@@ -368,7 +368,7 @@
 
 - [154 Questions intended to insult or annoy](#Questions-intended-to-insult-or-annoy)
 
-- [155 Exclusion of evidence of contradict answers to questions testing veracity](#Exclusion-of-evidence-of-contradict-answers-to-questions-testing-veracity)
+- [155 Exclusion of evidence of contradict answers to questions testingveracity](#Exclusion-of-evidence-of-contradict-answers-to-questions-testingveracity)
 
 - [156 Questions by party to his own witness](#Questions-by-party-to-his-own-witness)
 
@@ -390,7 +390,7 @@
 
 - [165 Giving as evidence document called for and produced on notice](#Giving-as-evidence-document-called-for-and-produced-on-notice)
 
-- [166 Using as evidence document production of which was refused on notice](#Using-as-evidence-document-production-of-which-was-refused-on-notice)
+- [166 Using as evidence document production of which was refused onnotice](#Using-as-evidence-document-production-of-which-was-refused-onnotice)
 
 - [167 Judge’s power to put questions or order production](#Judge’s-power-to-put-questions-or-order-production)
 
@@ -696,13 +696,13 @@ The facts thatAaskedCto lend him money, and thatDsaid toCinA’spresence and hea
 
 (h)
 
-The question is whether A committed a crime.
+The question is whether A committed acrime.
 
 The fact thatAabsconded after receiving a letter warning him that inquiry was being made for the criminal, and the contents of the letter, are relevant.
 
 (i)
 
-Ais accused of a crime.
+Ais accused of acrime.
 
 The facts that after the commission of the alleged crime he absconded, or was in possession of property or the proceeds of property acquired by the crime, or attempted to conceal things which were or might have been used in committing it, are relevant.
 
@@ -710,69 +710,69 @@ The facts that after the commission of the alleged crime he absconded, or was in
 
 The question is whetherAwas ravished.
 
-The facts that shortly after the alleged rape she made a complaint relating to the crime, the circumstances under which and the terms in which the complaint was made, are relevant.
+The facts that shortly after the alleged rape she made a complaint relatingto the crime, the circumstances under which and the terms in which thecomplaint was made, are relevant.
 
-The fact that without making a complaint she said that she had been ravished is not relevant as conduct under this section, though it may be relevant as a dying declaration under section 32(a), or as corroborative evidence under section 159.
+The fact that without making a complaint she said that she had beenravished is not relevant as conduct under this section, though it may berelevant as a dying declaration under section 32(a), or ascorroborative evidence under section 159.
 
 (k)
 
 The question is whetherAwas robbed.
 
-The fact that soon after the alleged robbery he made a complaint relating to the offence, the circumstances under which and the terms in which the complaint was made, are relevant.
+The fact that soon after the alleged robbery he made a complaint relatingto the offence, the circumstances under which and the terms in which thecomplaint was made, are relevant.
 
-The fact that he said he had been robbed without making any complaint is not relevant as conduct under this section, though it may be relevant as a dying declaration under section 32(a), or as corroborative evidence under section 159.
+The fact that he said he had been robbed without making any complaint isnot relevant as conduct under this section, though it may be relevant as adying declaration under section 32(a), or as corroborativeevidence under section 159.
 
 ### Facts necessary to explain or introduce relevant facts
 
-9\. Facts necessary to explain or introduce a fact in issue or relevant fact, or which support or rebut an inference suggested by a fact in issue or relevant fact, or which establish the identity of any thing or person whose identity is relevant, or fix the time or place at which any fact in issue or relevant fact happened or which show the relation of parties by whom any such fact was transacted, are relevant in so far as they are necessary for that purpose.
+9\. Facts necessary to explain or introduce a fact in issue or relevant fact,or which support or rebut an inference suggested by a fact in issue orrelevant fact, or which establish the identity of any thing or person whoseidentity is relevant, or fix the time or place at which any fact in issue orrelevant fact happened or which show the relation of parties by whom any suchfact was transacted, are relevant in so far as they are necessary for thatpurpose.
 
 Illustrations
 
 (a)
 
-The question is whether a given document is the will ofA.
+The question is whether a given documentis the will ofA.
 
-The state ofA’sproperty and of his family at the date of the alleged will may be relevant facts.
+The state ofA’sproperty and of his family at thedate of the alleged will may be relevant facts.
 
 (b)
 
-AsuesBfor libel imputing disgraceful conduct toA;Baffirms that the matter alleged to be libellous is true.
+AsuesBfor libel imputing disgraceful conduct toA;Baffirms that the matter alleged to belibellous is true.
 
-The position and relations of the parties at the time when the libel was published may be relevant facts as introductory to the facts in issue.
+The position and relations of the parties at the time when the libel waspublished may be relevant facts as introductory to the facts in issue.
 
-The particulars of a dispute betweenAandBabout a matter unconnected with the alleged libel are irrelevant, though the fact that there was a dispute may be relevant if it affected the relations betweenAandB.
+The particulars of a dispute betweenAandBabout a matter unconnected with the alleged libel areirrelevant, though the fact that there was a dispute may be relevant if itaffected the relations betweenAandB.
 
 (c)
 
-Ais accused of a crime.
+Ais accused of acrime.
 
-The fact that soon after the commission of the crimeAabsconded from his house is relevant under section 8 as conduct subsequent to and affected by facts in issue.
+The fact that soon after the commission of the crimeAabsconded from his house is relevant under section 8 as conduct subsequent toand affected by facts in issue.
 
-The fact that at the time when he left home he had sudden and urgent business at the place to which he went is relevant as tending to explain the fact that he left home suddenly.
+The fact that at the time when he left home he had sudden and urgentbusiness at the place to which he went is relevant as tending to explain thefact that he left home suddenly.
 
-The details of the business on which he left are not relevant, except in so far as they are necessary to show that the business was sudden and urgent.
+The details of the business on which he left are not relevant, except in sofar as they are necessary to show that the business was sudden and urgent.
 
 (d)
 
-AsuesBfor inducingCto break a contract of service made by him withA. Con leavingA’sservice says toA: “I am leaving you becauseBhas made me a better offer”. This statement is a relevant fact as explanatory ofC’sconduct, which is relevant as a fact in issue.
+AsuesBfor inducingCto break a contract ofservice made by him withA. Con leavingA’sservice says toA: “I amleaving you becauseBhas made me a better offer”.This statement is a relevant fact as explanatory ofC’sconduct, which is relevant as a fact in issue.
 
 (e)
 
-Aaccused of theft is seen to give the stolen property toBwho is seen to give it toA’swife.Bsays as he delivers it: “Asays you are to hide this”.B’sstatement is relevant as explanatory of a fact which is part of the transaction.
+Aaccused of theft isseen to give the stolen property toBwho is seen to give ittoA’swife.Bsays as he deliversit: “Asays you are to hide this”.B’sstatement is relevant as explanatory of a factwhich is part of the transaction.
 
 (f)
 
-Ais tried for a riot and is proved to have marched at the head of a mob. The cries of the mob are relevant as explanatory of the nature of the transaction.
+Ais tried for a riotand is proved to have marched at the head of a mob. The cries of the mob arerelevant as explanatory of the nature of the transaction.
 
-### Things said or done by conspirator in reference to common design
+### Things said or done by conspirator in reference to commondesign
 
-10\. Where there is reasonable ground to believe that two or more persons have conspired together to commit an offence or an actionable wrong, anything said, done or written by any one of such persons, in reference to their common intention after the time when such intention was first entertained by any one of them, is a relevant fact as against each of the persons believed to be so conspiring, as well for the purpose of proving the existence of the conspiracy as for the purpose of showing that any such person was a party to it.
+10\. Where there is reasonable ground to believe that two or more persons haveconspired together to commit an offence or an actionable wrong, anything said,done or written by any one of such persons, in reference to their commonintention after the time when such intention was first entertained by any oneof them, is a relevant fact as against each of the persons believed to be soconspiring, as well for the purpose of proving the existence of the conspiracyas for the purpose of showing that any such person was a party to it.
 
 Illustrations
 
-Reasonable ground exists for believing thatAhas joined in a conspiracy to wage war against the Government.
+Reasonable ground exists for believing thatAhas joinedin a conspiracy to wage war against the Government.
 
-The facts thatBprocured arms in Europe for the purpose of the conspiracy,Ccollected money in Malacca for a like object,Dpersuaded persons to join the conspiracy in Province Wellesley,Epublished writings advocating the object in view at Singapore, andFtransmitted from Singapore toGat Jakarta the money whichChad collected at Malacca, and the contents of a letter written byHgiving an account of the conspiracy are each relevant, both to prove the existence of the conspiracy and to proveA’scomplicity in it, although he may have been ignorant of all of them, and although the persons by whom they were done were strangers to him, and although they may have taken place before he joined the conspiracy or after he left it.
+The facts thatBprocured arms in Europe for the purposeof the conspiracy,Ccollected money in Malacca for a likeobject,Dpersuaded persons to join the conspiracy inProvince Wellesley,Epublished writings advocating theobject in view at Singapore, andFtransmitted fromSingapore toGat Jakarta the money whichChad collected at Malacca, and the contents of a letterwritten byHgiving an account of the conspiracy are eachrelevant, both to prove the existence of the conspiracy and to proveA’scomplicity in it, although he may have beenignorant of all of them, and although the persons by whom they were done werestrangers to him, and although they may have taken place before he joined theconspiracy or after he left it.
 
 ### When facts not otherwise relevant become relevant
 
@@ -780,7 +780,7 @@ The facts thatBprocured arms in Europe for the purpose of the conspiracy,Ccollec
 
 (a) if they are inconsistent with any fact in issue or relevant fact;
 
-(b) if by themselves or in connection with other facts they make the existence or non-existence of any fact in issue or relevant fact highly probable or improbable.
+(b) if by themselves or in connection with other facts they make the existenceor non-existence of any fact in issue or relevant fact highly probable orimprobable.
 
 Illustrations
 
@@ -788,15 +788,15 @@ Illustrations
 
 The question is whetherAcommitted a crime at Singapore on a certain day.
 
-The fact that on that dayAwas at Penang is relevant.
+The fact that on that dayAwas at Penang isrelevant.
 
-The fact that near the time when the crime was committedAwas at a distance from the place where it was committed, which would render it highly improbable, though not impossible, that he committed it, is relevant.
+The fact that near the time when the crime was committedAwas at a distance from the place where it was committed,which would render it highly improbable, though not impossible, that hecommitted it, is relevant.
 
 (b)
 
 The question is whetherAcommitted a crime.
 
-The circumstances are such that the crime must have been committed either byA,B,CorD. Every fact which shows that the crime could have been committed by no one else and that it was not committed by eitherB,CorDis relevant.
+The circumstances are such that the crime must have been committed eitherbyA,B,CorD. Every fact which shows that the crime could have beencommitted by no one else and that it was not committed by eitherB,CorDisrelevant.
 
 ### In suits for damages facts tending to enable court to determine amount are relevant
 
@@ -814,153 +814,153 @@ Illustrations
 
 The question is whetherAhas a right to a fishery. A deed conferring the fishery onA’sancestors, a mortgage of the fishery byA’sfather, a subsequent grant of the fishery byA’sfather irreconcilable with the mortgage, particular instances in whichA’sfather exercised the right, or in which the exercise of the right was stopped byA’sneighbours, are relevant facts.
 
-### Facts showing existence of state of mind or of body or bodily feeling
+### Facts showing existence of state of mind or of body or bodilyfeeling
 
-14\. Facts showing the existence of any state of mind, such as intention, knowledge, good faith, negligence, rashness, ill-will or good-will towards any particular person, or showing the existence of any state of body or bodily feeling, are relevant when the existence of any such state of mind or body or bodily feeling is in issue or relevant.
+14\. Facts showing the existence of any state of mind, such as intention,knowledge, good faith, negligence, rashness, ill-will or good-will towards anyparticular person, or showing the existence of any state of body or bodilyfeeling, are relevant when the existence of any such state of mind or body orbodily feeling is in issue or relevant.
 
-Explanation1.—A fact relevant as showing the existence of a relevant state of mind must show that the state of mind exists not generally but in reference to the particular matter in question.
+Explanation1.—A fact relevant as showing the existence of a relevant state of mind mustshow that the state of mind exists not generally but in reference to theparticular matter in question.
 
-Explanation2.—But where upon the trial of a person accused of an offence the previous commission by the accused of an offence is relevant within the meaning of this section, the previous conviction of such person shall also be a relevant fact.
+Explanation2.—But where upon the trial of a person accused of an offence the previouscommission by the accused of an offence is relevant within the meaning of thissection, the previous conviction of such person shall also be a relevantfact.
 
 Illustrations
 
 (a)
 
-Ais accused of receiving stolen goods, knowing them to be stolen. It is proved that he was in possession of a particular stolen article.
+Ais accused ofreceiving stolen goods, knowing them to be stolen. It is proved that he was inpossession of a particular stolen article.
 
-The fact that at the same time he was in possession of many other stolen articles is relevant as tending to show that he knew each and all of the articles of which he was in possession to be stolen.
+The fact that at the same time he was in possession of many other stolenarticles is relevant as tending to show that he knew each and all of thearticles of which he was in possession to be stolen.
 
 (b)
 
-Ais accused of fraudulently delivering to another person a counterfeit coin, which at the time when he delivered it he knew to be counterfeit.
+Ais accused offraudulently delivering to another person a counterfeit coin, which at thetime when he delivered it he knew to be counterfeit.
 
-The fact that at the time of its deliveryAwas possessed of a number of other pieces of counterfeit coin is relevant.
+The fact that at the time of its deliveryAwas possessedof a number of other pieces of counterfeit coin is relevant.
 
-The fact thatAhad been previously convicted of delivering to another person as genuine a counterfeit coin, knowing it to be counterfeit, is relevant.
+The fact thatAhad been previously convicted ofdelivering to another person as genuine a counterfeit coin, knowing it to becounterfeit, is relevant.
 
 (c)
 
-AsuesBfor damage done by a dog ofB’s, whichBknew to be ferocious.
+AsuesBfor damage done by a dog ofB’s,whichBknew to be ferocious.
 
-The facts that the dog had previously bittenX,YandZand that they had made complaints toBare relevant.
+The facts that the dog had previously bittenX,YandZand that they had made complaintstoBare relevant.
 
 (d)
 
-The question is whetherA, the acceptor of a bill of exchange, knew that the name of the payee was fictitious.
+The question is whetherA, the acceptor of a bill of exchange, knew that the name ofthe payee was fictitious.
 
-The fact thatAhad accepted other bills drawn in the same manner before they could have been transmitted to him by the payee, if the payee had been a real person, is relevant, as showing thatAknew that the payee was a fictitious person.
+The fact thatAhad accepted other bills drawn in thesame manner before they could have been transmitted to him by the payee, ifthe payee had been a real person, is relevant, as showing thatAknew that the payee was a fictitious person.
 
 (e)
 
-Ais accused of defamingBby publishing an imputation intended to harm the reputation ofB.
+Ais accused of defamingBby publishing an imputation intended to harm thereputation ofB.
 
 The fact of previous publications byArespectingBshowing ill-will on the part ofAtowardsBis relevant, as provingA’sintention to harmB’sreputation by the particular publication in question.
 
-The facts that there was no previous quarrel betweenAandBand thatArepeated the matter complained of as he heard it, are relevant as showing thatAdid not intend to harm the reputation ofB.
+The facts that there was no previous quarrel betweenAandBand thatArepeated the mattercomplained of as he heard it, are relevant as showing thatAdid not intend to harm the reputation ofB.
 
 (f)
 
-Ais sued byBfor fraudulently representing toBthatCwas solvent, wherebyBbeing induced tot rustC, who was insolvent, suffered loss.
+Ais sued byBfor fraudulently representing toBthatCwas solvent, wherebyBbeing induced totrustC, who was insolvent, suffered loss.
 
-The fact that at the time whenArepresentedCto be solventCwas supposed to be solvent by his neighbours, and by persons dealing with him, is relevant, as showing thatAmade the representation in good faith.
+The fact that at the time whenArepresentedCto be solventCwas supposed to besolvent by his neighbours, and by persons dealing with him, is relevant, asshowing thatAmade the representation in good faith.
 
 (g)
 
-Ais sued byBfor the price of work done byBupon a house of whichAis owner by the order ofC, a contractor.
+Ais sued byBfor the price of work done byBupon ahouse of whichAis owner by the order ofC, a contractor.
 
 A’sdefence is thatB’scontract was withC.
 
-The fact thatApaidCfor the work in question is relevant as providing thatAdid in good faith make over toCthe management of the work in question, so thatCwas in a position to contract withBonC’sown account and not as agent forA.
+The fact thatApaidCfor the work inquestion is relevant as providing thatAdid in good faithmake over toCthe management of the work in question, sothatCwas in a position to contract withBonC’sown account and not asagent forA.
 
 (h)
 
-Ais accused of the dishonest misappropriation of property which he had found, and the question is whether, when he appropriated it he believed in good faith that the real owner could not be found.
+Ais accused of thedishonest misappropriation of property which he had found, and the question iswhether, when he appropriated it he believed in good faith that the real ownercould not be found.
 
-The fact that public notice of the loss of the property had been given in the place whereAwas, is relevant as showing thatAdid not in good faith believe that the real owner of the property could not be found.
+The fact that public notice of the loss of the property had been given inthe place whereAwas, is relevant as showing thatAdid not in good faith believe that the real owner of theproperty could not be found.
 
-The fact thatAknew or had reason to believe that the notice was given fraudulently byCwho had heard of the loss of the property and wished to set up a false claim to it, is relevant as showing that the fact thatAknew of the notice did not disproveA’sgood faith.
+The fact thatAknew or had reason to believe that thenotice was given fraudulently byCwho had heard of the lossof the property and wished to set up a false claim to it, is relevant asshowing that the fact thatAknew of the notice did notdisproveA’sgood faith.
 
 (i)
 
-Ais charged with shooting atBwith intent to kill him.
+Ais charged withshooting atBwith intent to kill him.
 
 In order to showA’sintent, the fact ofA’shaving previously shot atBmaybe proved.
 
 (j)
 
-Ais charged with sending threatening letters toB.
+Ais charged withsending threatening letters toB.
 
 Threatening letters previously sent byAtoBmay be proved as showing the intention of the letters.
 
 (k)
 
-The question is whetherAhas been guilty of cruelty towardsBhis wife.
+The question is whetherAhas been guilty of cruelty towardsBhiswife.
 
-Expression of their feelings towards each other shortly before or after the alleged cruelty are relevant facts.
+Expression of their feelings towards each other shortly before or after thealleged cruelty are relevant facts.
 
 (l)
 
 The question is whetherA’sdeath was caused by poison.
 
-Statements made byAduring his illness as to his symptoms are relevant facts.
+Statements made byAduring his illness as to hissymptoms are relevant facts.
 
 (m)
 
-The question is, what was the state ofA’shealth at the time when an assurance on his life was effected?
+The question is, what was the state ofA’shealth at the time when an assurance on his lifewas effected?
 
-Statements made byAas to the state of his health at or near the time in question are relevant facts.
+Statements made byAas to the state of his health at ornear the time in question are relevant facts.
 
 (n)
 
-AsuesBfor negligence in providing him with a motor car for hire not reasonably fit for use wherebyAwas injured.
+AsuesBfor negligence in providing him with a motor car for hirenot reasonably fit for use wherebyAwas injured.
 
-The fact thatB’sattention was drawn on other occasions to the defect of that particular motor car is relevant.
+The fact thatB’sattention was drawn on otheroccasions to the defect of that particular motor car is relevant.
 
 The fact thatBwas habitually negligent about the motorcars which he let to hire is irrelevant.
 
 (o)
 
-Ais tried for the murder ofBby intentionally shooting him dead.
+Ais tried for themurder ofBby intentionally shooting him dead.
 
 The fact thatAon other occasions shot atBis relevant as showing his intention to shootB.
 
-The fact thatAwas in the habit of shooting at people with intent to murder them is irrelevant.
+The fact thatAwas in the habit of shooting at peoplewith intent to murder them is irrelevant.
 
 (p)
 
-Ais tried for a crime.
+Ais tried for acrime.
 
-The fact that he said something indicating an intention to commit that particular crime is relevant.
+The fact that he said something indicating an intention to commit thatparticular crime is relevant.
 
-The fact that he said something indicating a general disposition to commit crimes of that class is irrelevant.
+The fact that he said something indicating a general disposition to commitcrimes of that class is irrelevant.
 
-### Facts bearing on question whether act was accidental or intentional
+### Facts bearing on question whether act was accidental orintentional
 
-15\. When there is a question whether an act was accidental or intentional o done with a particular knowledge or intention, the fact that such act formed part of a series of similar occurrences, in each of which the person doing the act was concerned, is relevant.
+15\. When there is a question whether an act was accidental or intentional ordone with a particular knowledge or intention, the fact that such act formedpart of a series of similar occurrences, in each of which the person doing theact was concerned, is relevant.
 
 Illustrations
 
 (a)
 
-Ais accused of burning down his house in order to obtain money for which it is insured.
+Ais accused of burningdown his house in order to obtain money for which it is insured.
 
-The facts thatAlived in several houses successively, each of which he insured, in each of which a fire occurred, and after each of which firesAreceived payment from a different insurance office, are relevant as tending to show that the fire was not accidental.
+The facts thatAlived in several houses successively,each of which he insured, in each of which a fire occurred, and after each ofwhich firesAreceived payment from a different insuranceoffice, are relevant as tending to show that the fire was not accidental.
 
 (b)
 
-Ais employed to receive money from the debtors ofB. It isA’sduty to make entries in a book showing the amounts received by him. He makes an entry showing that on a particular occasion he received less than he really did receive.
+Ais employed to receivemoney from the debtors ofB. It isA’sduty to make entries in a book showing the amountsreceived by him. He makes an entry showing that on a particular occasion hereceived less than he really did receive.
 
 The question is whether this false entry was accidental or intentional.
 
-The facts that other entries made byAin the same book are false, and that the false entry is in each case in favour ofA, are relevant.
+The facts that other entries made byAin the same bookare false, and that the false entry is in each case in favour ofA, are relevant.
 
 (c)
 
-Ais accused of fraudulently delivering toBa counterfeit dollar.
+Ais accused offraudulently delivering toBa counterfeit dollar.
 
 The question is whether the delivery of the dollar was accidental.
 
-The facts that soon before or soon after the delivery toB,Adelivered counterfeit dollars toC, DandEare relevant as showing that the delivery toBwas not accidental.
+The facts that soon before or soon after the delivery toB,Adelivered counterfeit dollars toC, DandEare relevant as showing thatthe delivery toBwas not accidental.
 
 ### Existence of course of business when relevant
 
@@ -1008,15 +1008,15 @@ by person from whom interest derived
 
 are admissions if they are made during the continuance of the interest of the persons making the statements.
 
-### Admissions by persons whose position must be proved as against party to suit
+### Admissions by persons whose position must be proved as against party tosuit
 
-19\. Statements made by persons whose position or liability it is necessary to prove as against any party to the suit are admissions if such statements would be relevant as against such persons in relation to such position or liability in a suit brought by or against them, and if they are made whilst the person making them occupies such position or is subject to such liability.
+19\. Statements made by persons whose position or liability it is necessary to prove as against any party to the suit are admissions if such statements wouldbe relevant as against such persons in relation to such position or liabilityin a suit brought by or against them, and if they are made whilst the personmaking them occupies such position or is subject to such liability.
 
 Illustrations
 
 Aundertakes to collect rents forB.
 
-BsuesAfor not collecting rent due fromCtoB.
+BsuesAfor not collecting rent duefromCtoB.
 
 Adenies that rent was due fromCtoB.
 
@@ -1024,7 +1024,7 @@ Astatement byCthat he owedBrent is an admission and is a relevant fact, as again
 
 ### Admissions by persons expressly referred to by party to suit
 
-20\. Statements made by persons to whom a party to the suit has expressly referred for information in reference to a matter in dispute are admissions.
+20\. Statements made by persons to whom a party to the suit has expresslyreferred for information in reference to a matter in dispute areadmissions.
 
 Illustrations
 
@@ -1034,51 +1034,51 @@ Asays toB: “Go and askC, C</knows all about it”.C’sstatement is an admissi
 
 ### Proof of admissions against persons making them and by or on theirbehalf
 
-21\. Admissions are relevant and may be proved as against the person who makes them or his representative in interest; but they cannot be proved by or on behalf of the person who makes them or by his representative in interest except in the following cases:
+21\. Admissions are relevant and may be proved as against the person who makesthem or his representative in interest; but they cannot be proved by or onbehalf of the person who makes them or by his representative in interestexcept in the following cases:
 
-(a) an admission may be proved by or on behalf of the person making it when it is of such a nature that, if the person making it were dead, it would be relevant as between third persons under section 32;
+(a) an admission may be proved by or on behalf of the person making it when itis of such a nature that, if the person making it were dead, it would berelevant as between third persons under section 32;
 
-(b) an admission may be proved by or on behalf of the person making it when it consists of a statement of the existence of any state of mind or body relevant or in issue, made at or about the time when such state of mind or body existed and is accompanied by conduct rendering its falsehood improbable;
+(b) an admission may be proved by or on behalf of the person making it when itconsists of a statement of the existence of any state of mind or body relevantor in issue, made at or about the time when such state of mind or body existedand is accompanied by conduct rendering its falsehood improbable;
 
-(c) an admission may be proved by or on behalf of the person making it if it is relevant otherwise than as an admission.
+(c) an admission may be proved by or on behalf of the person making it if it isrelevant otherwise than as an admission.
 
 Illustrations
 
 (a)
 
-The question betweenAandBis whether a certain deed is or is not forged.Aaffirms that it is genuine;Bthat it is forged.
+The question betweenAandBis whether a certain deed is or is not forged.Aaffirms that it is genuine;Bthat itis forged.
 
-A may prove a statement byBthat the deed is genuine, andBmay prove a statement byAthat the deed is forged; butAcannot prove a statement by himself that the deed is genuine, nor canBprove a statement by himself that the deed is forged.
+A may prove a statement byBthat the deed is genuine,andBmay prove a statement byAthat thedeed is forged; butAcannot prove a statement by himselfthat the deed is genuine, nor canBprove a statement byhimself that the deed is forged.
 
 (b)
 
-A, the captain of a ship, is tried for casting her away.
+A, the captain of aship, is tried for casting her away.
 
-Evidence is given to show that the ship was taken out of her proper course.
+Evidence is given to show that the ship was taken out of her propercourse.
 
-Aproduces a book kept by him in the ordinary course of his business, showing observations alleged to have been taken by him from day to day, and indicating that the ship was not taken out of her proper course.Amay prove these statements because they would be admissible between third parties if he were dead under section 32(b).
+Aproduces a book kept by him in the ordinary course ofhis business, showing observations alleged to have been taken by him from dayto day, and indicating that the ship was not taken out of her proper course.Amay prove these statements because they would beadmissible between third parties if he were dead under section 32(b).
 
 (c)
 
-Ais accused of a crime committed by him at Singapore. He produces a letter written by himself and dated at Penang on that day, and bearing the Penang postmark of that day.
+Ais accused of a crimecommitted by him at Singapore. He produces a letter written by himself anddated at Penang on that day, and bearing the Penang postmark of that day.
 
 The statement in the date of the letter is admissible, because ifAwere dead it would be admissible under section 32(b).
 
 (d)
 
-Ais accused of receiving stolen goods, knowing them to be stolen.
+Ais accused ofreceiving stolen goods, knowing them to be stolen.
 
 He offers to prove that he refused to sell them below their value.
 
-A may prove these statements though they are admissions, because they are explanatory of conduct influenced by facts in issue.
+A may prove these statements though they are admissions, because they areexplanatory of conduct influenced by facts in issue.
 
 (e)
 
-Ais accused of fraudulently having in his possession counterfeit coin which he knew to be counterfeit.
+Ais accused offraudulently having in his possession counterfeit coin which he knew to becounterfeit.
 
-He offers to prove that he asked a skilful person to examine the coin as he doubted whether it was counterfeit or not, and that that person did examine it and told him it was genuine.
+He offers to prove that he asked a skilful person to examine the coin as hedoubted whether it was counterfeit or not, and that that person did examine itand told him it was genuine.
 
-Amay prove these facts for the reasons stated in illustration (d).
+Amay prove these facts for the reasons stated inillustration (d).
 
 ### When oral admissions as to contents of documents are relevant
 
@@ -1106,7 +1106,7 @@ Explanation1.—Nothing in this section shall be taken to exempt any advocate or
 
 ### How much of information received from accused may be proved
 
-27\. When any fact is deposed to as discovered in consequence of information received from a person accused of any offence in the custody of a police officer, so much of such information, whether such information amounts to aconfession or not, as relates distinctly to the fact thereby discovered may be proved.
+27\. When any fact is deposed to as discovered in consequence of information received from a person accused of any offence in the custody of a police officer, so much of such information, whether such information amounts to a confession or not, as relates distinctly to the fact thereby discovered may be proved.
 
 ### Confession made after removal of impression caused by inducement, threat or promise relevant
 
@@ -1116,15 +1116,15 @@ Explanation1.—Nothing in this section shall be taken to exempt any advocate or
 
 29\. If such a confession is otherwise relevant, it does not become irrelevant merely because it was made under a promise of secrecy, or in consequence of a deception practised on the accused person for the purpose of obtaining it, or when he was drunk, or because it was made in answer to questions which he need not have answered, whatever may have been the form of those questions, or because he was not warned that he was not bound to make such confession and that evidence of it might be given against him.
 
-### Consideration of proved confession affecting person making it and others jointly under trial for same offence
+### Consideration of proved confession affecting person making it andothers jointly under trial for same offence
 
-30\. When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the court may take into consideration such confession as against such other person as well as against the person who makes such confession.
+30\. When more persons than one are being tried jointly for the same offence,and a confession made by one of such persons affecting himself and some otherof such persons is proved, the court may take into consideration suchconfession as against such other person as well as against the person whomakes such confession.
 
-Explanations1.—“Offence” as used in this section includes the abetment of or attempt to commit the offence.
+Explanations1.—“Offence” as used in this section includes the abetment of orattempt to commit the offence.
 
-(a) AandBare jointly tried for the murder ofC. It is proved thatAsaid “Band I murderedC”. The court may consider the effect of this confession as againstB.
+(a) AandBare jointly tried for the murder ofC.It is proved thatAsaid “Band ImurderedC”. The court may consider the effect of thisconfession as againstB.
 
-(b) Ais on his trial for the murder ofC. There is evidence to show thatCwas murdered byAandBand thatBsaid:“Aand I murderedC”.
+(b) Ais on his trial forthe murder ofC. There is evidence to show thatCwas murdered byAandBand thatBsaid:“Aand I murderedC”.
 
 This statement may not be taken into consideration by the court againstAasBis not being jointly tried.
 
@@ -1134,41 +1134,41 @@ This statement may not be taken into consideration by the court againstAasBis no
 
 Statements by persons who cannot be called as witnesses
 
-### Cases in which statement of relevant fact by person who is dead or cannot be found, etc., is relevant;
+### Cases in which statement of relevant fact by person who is dead orcannot be found, etc., is relevant;
 
-32\. Statements, written or verbal, of relevant facts made by a person who is dead or who cannot be found, or who has become incapable of giving evidence, or whose attendance cannot be procured without an amount of delay or expense which under the circumstances of the case appears to the court unreasonable, are themselves relevant facts in the following cases:
+32\. Statements, written or verbal, of relevant facts made by a person who isdead or who cannot be found, or who has become incapable of giving evidence,or whose attendance cannot be procured without an amount of delay or expensewhich under the circumstances of the case appears to the court unreasonable,are themselves relevant facts in the following cases:
 
 when it relates to cause of death;
 
-(a) when the statement is made by a person as to the cause of his death, or as to any of the circumstances of the transaction which resulted in his death, in cases in which the cause of that person’s death comes into question; such statements are relevant whether the person who made them was or was not at the time when they were made under expectation of death, and whatever maybe the nature of the proceeding in which the cause of his death comes into question;
+(a) when the statement is made by a person as to the cause of his death, or asto any of the circumstances of the transaction which resulted in his death, incases in which the cause of that person’s death comes into question;such statements are relevant whether the person who made them was or was notat the time when they were made under expectation of death, and whatever maybe the nature of the proceeding in which the cause of his death comes intoquestion;
 
 or is made in course of business;
 
-(b) when the statement was made by such person in the ordinary course of business, and in particular when it consists of any entry or memorandum made by him in books kept in the ordinary course of business or in the discharge of professional duty, or of an acknowledgment written or signed by him of the receipt of money, goods, securities or property of any kind, or of a document used in commerce, written or signed by him, or of the date of a letter or other document usually dated, written or signed by him;
+(b) when the statement was made by such person in the ordinary course ofbusiness, and in particular when it consists of any entry or memorandum madeby him in books kept in the ordinary course of business or in the discharge ofprofessional duty, or of an acknowledgment written or signed by him of thereceipt of money, goods, securities or property of any kind, or of a documentused in commerce, written or signed by him, or of the date of a letter orother document usually dated, written or signed by him;
 
 or against interest of maker;
 
-(c) when the statement is against the pecuniary or proprietary interest of the person making it, or when, if true, it would expose him or would have exposed him to a criminal prosecution or to a suit for damages;
+(c) when the statement is against the pecuniary or proprietary interest of theperson making it, or when, if true, it would expose him or would have exposedhim to a criminal prosecution or to a suit for damages;
 
-or gives opinion as to public right or custom or matters of general interest;
+or gives opinion as to public right or custom or matters of generalinterest;
 
-(d) when the statement gives the opinion of any such person as to the existence of any public right or custom or matter of public or general interest, of the existence of which if it existed he would have been likely to be aware, and when such statement was made before any controversy as to such right, custom or matter had arisen;
+(d) when the statement gives the opinion of any such person as to the existenceof any public right or custom or matter of public or general interest, of theexistence of which if it existed he would have been likely to be aware, andwhen such statement was made before any controversy as to such right, customor matter had arisen;
 
 or relates to existence of relationship;
 
-(e) when the statement relates to the existence of any relationship by blood, marriage or adoption between persons as to whose relationship by blood, marriage or adoption the person making the statement had special means of knowledge, and when the statement was made before the question in dispute was raised;
+(e) when the statement relates to the existence of any relationship by blood,marriage or adoption between persons as to whose relationship by blood,marriage or adoption the person making the statement had special means ofknowledge, and when the statement was made before the question in dispute wasraised;
 
 or is made in will or deed relating to family affairs;
 
-(f) when the statement relates to the existence of any relationship by blood, marriage or adoption between persons deceased, and is made in any will or deed relating to the affairs of the family to which any such deceased person belonged, or in any family pedigree or upon any tombstone, family portrait or other thing on which such statements are usually made, and when such statement was made before the question in dispute was raised;
+(f) when the statement relates to the existence of any relationship by blood,marriage or adoption between persons deceased, and is made in any will or deedrelating to the affairs of the family to which any such deceased personbelonged, or in any family pedigree or upon any tombstone, family portrait orother thing on which such statements are usually made, and when such statementwas made before the question in dispute was raised;
 
 or in document relating to transaction mentioned in section 13(a);
 
-(g) when the statement is contained in any deed or other document which relates to any such transaction as is mentioned in section 13(a);
+(g) when the statement is contained in any deed or other document which relatesto any such transaction as is mentioned in section 13(a);
 
-or is made by several persons and expresses feelings relevant to matter in question
+or is made by several persons and expresses feelings relevant to matterin question
 
-(h) when the statement was made by a number of persons and expressed feelings or impressions on their part relevant to the matter in question.
+(h) when the statement was made by a number of persons and expressed feelingsor impressions on their part relevant to the matter in question.
 
 Illustrations
 
@@ -1176,31 +1176,31 @@ Illustrations
 
 The question is whetherAwas murdered byB; or
 
-A dies of injuries received in a transaction in the course of which she was ravished.
+A dies of injuries received in a transaction in the course of which she wasravished.
 
 The question is whether she was ravished byB; or
 
 The question is whetherAwas killed byBunder such circumstances that a suit would lie againstBbyA’swidow.
 
-Statements made byAas to the cause of his or her death, referring respectively to the murder, the rape and the actionable wrong under consideration, are relevant facts.
+Statements made byAas to the cause of his or her death,referring respectively to the murder, the rape and the actionable wrong underconsideration, are relevant facts.
 
 (b)
 
 The question is as to the date ofA’sbirth.
 
-An entry in the diary of a deceased surgeon regularly kept in the course of business, stating that on a given day he attendedA’smother and delivered her of a son, is a relevant fact.
+An entry in the diary of a deceased surgeon regularly kept in the course ofbusiness, stating that on a given day he attendedA’smother and delivered her of a son, is a relevant fact.
 
 (c)
 
 The question is whetherAwas in Singapore on a given day.
 
-A statement in the diary of a deceased solicitor regularly kept in the course of business that on a given day the solicitor attendedAat a place mentioned in Singapore for the purpose of conferring with him upon specified business is a relevant fact.
+A statement in the diary of a deceased solicitor regularly kept in thecourse of business that on a given day the solicitor attendedAat a place mentioned in Singapore for the purpose ofconferring with him upon specified business is a relevant fact.
 
 (d)
 
-The question is whether a ship sailed from Singapore harbour on a given day.
+The question is whether a ship sailed fromSingapore harbour on a given day.
 
-A letter written by a deceased member of a merchant’s firm by which she was chartered to their correspondents in London, to whom the cargo was consigned, stating that the ship sailed on a given day from Singapore harbour is a relevant fact.
+A letter written by a deceased member of a merchant’s firm by whichshe was chartered to their correspondents in London, to whom the cargo wasconsigned, stating that the ship sailed on a given day from Singapore harbouris a relevant fact.
 
 (e)
 
@@ -1212,53 +1212,53 @@ A letter fromA’sdeceased agent toB, saying that he had received the rent onA�
 
 The question is whetherAandBwere legally married.
 
-The statement of a deceased clergyman that he married them under such circumstances that the celebration would be a crime is relevant.
+The statement of a deceased clergyman that he married them under suchcircumstances that the celebration would be a crime is relevant.
 
 (g)
 
-The question is whetherA, a person who cannot be found, wrote a letter on a certain day.
+The question is whetherA, a person who cannot be found, wrote a letter on a certainday.
 
 The fact that a letter written by him is dated on that day is relevant.
 
 (h)
 
-The question is, what was the cause of the wreck of a ship?
+The question is, what was the cause of thewreck of a ship?
 
-A protest made by the captain, whose attendance cannot be procured, is a relevant fact.
+A protest made by the captain, whose attendance cannot be procured, is arelevant fact.
 
 (i)
 
-The question is whether a given road is a public way.
+The question is whether a given road is apublic way.
 
-A statement byA, a deceased Penghulu of the Mukim, that the road was public is a relevant fact.
+A statement byA, a deceased Penghulu of the Mukim, thatthe road was public is a relevant fact.
 
 (j)
 
-The question is, what was the price of shares on a certain day in a particular market?
+The question is, what was the price ofshares on a certain day in a particular market?
 
-A statement of the price made by a deceased broker in the ordinary course of his business is a relevant fact.
+A statement of the price made by a deceased broker in the ordinary courseof his business is a relevant fact.
 
 (k)
 
 The question is whetherA, who is dead, was the father ofB.
 
-A statement byAthatBwas his son is a relevant fact.
+A statement byAthatBwas his son isa relevant fact.
 
 (l)
 
-The question is, what was the date of the birth ofA?
+The question is, what was the date of thebirth ofA?
 
-A letter fromA’sdeceased father to a friend, announcing the birth ofAon a given day, is a relevant fact.
+A letter fromA’sdeceased father to a friend,announcing the birth ofAon a given day, is a relevantfact.
 
 (m)
 
 The question is whether and whenAandBwere married.
 
-An entry in a memorandum-book byC, the deceased father ofB, of his daughter’s marriage withAon a given date, is a relevant fact.
+An entry in a memorandum-book byC, the deceased fatherofB, of his daughter’s marriage withAon a given date, is a relevant fact.
 
 (n)
 
-AsuesBfor a libel expressed in a printed caricature exposed in a shop-window. The question is as to the similarity of the caricature and its libellous character.
+AsuesBfor a libel expressed in a printed caricature exposed in ashop-window. The question is as to the similarity of the caricature and itslibellous character.
 
 The remarks of a crowd of spectators on these points may be proved.
 
@@ -1386,7 +1386,7 @@ except that evidence may not be given of any matter of which, if that person had
 
 [Act 8/96 wef 08/03/1996 vide S 87/96]
 
-### Relevancy of entry in public record made in performance ofduty
+### Relevancy of entry in public record made in performance of duty
 
 37\. An entry in any public or other official book, register or record, stating a fact in issue or relevant fact and made by a public officer in the discharge of his official duty or by any other person in performance of a duty specially enjoined by the law of the country in which such book, register or record is kept, is itself a relevant fact.
 
@@ -1444,27 +1444,27 @@ Judgments of courts of justice when relevant
 
 (d) that anything to which it declares any person to be so entitled was the property of that person at the time from which such judgment, order or decree declares that it had been or should be his property.
 
-### Relevancy and effect of judgments, orders or decrees other than those mentioned in section 43
+### Relevancy and effect of judgments, orders or decrees other than thosementioned in section 43
 
-44\. Judgments, orders or decrees other than those mentioned in section 43 are relevant if they relate to matters of a public nature relevant to the inquiry; but such judgments, orders or decrees are not conclusive proof of that which they state.
+44\. Judgments, orders or decrees other than those mentioned in section 43 arerelevant if they relate to matters of a public nature relevant to the inquiry;but such judgments, orders or decrees are not conclusive proof of that whichthey state.
 
 Illustrations
 
-AsuesBfor trespass on his land.Balleges the existence of a public right of way over the land whichAdenies.
+AsuesBfor trespass on his land.Balleges the existence of a public right of way over theland whichAdenies.
 
-The existence of a decree in favour of the defendant in a suit byAagainstCfor a trespass on the same land in whichCalleged the existence of the same right of way is relevant, but it is not conclusive proof that the right of way exists.
+The existence of a decree in favour of the defendant in a suit byAagainstCfor a trespass on the sameland in whichCalleged the existence of the same right ofway is relevant, but it is not conclusive proof that the right of wayexists.
 
-### Judgments, etc., other than those mentioned in sections 42 to 44 when relevant
+### Judgments, etc., other than those mentioned in sections 42 to 44 whenrelevant
 
-45\. Judgments, orders or decrees other than those mentioned in sections 42, 43 and 44 are irrelevant unless the existence of such judgment, order or decree is a fact in issue or is relevant under some other provision of this Act.
+45\. Judgments, orders or decrees other than those mentioned in sections 42, 43and 44 are irrelevant unless the existence of such judgment, order or decreeis a fact in issue or is relevant under some other provision of this Act.
 
 Illustrations
 
 (a)
 
-AandBseparately sueCfor a libel which reflects upon each of them.Cin each case says that the matter alleged to be libellous is true, and the circumstances are such that it is probably true in each case or in neither.
+AandBseparately sueCfor a libel whichreflects upon each of them.Cin each case says that thematter alleged to be libellous is true, and the circumstances are such that itis probably true in each case or in neither.
 
-A obtains a decree againstCfor damages on the ground thatCfailed to make out his justification. The fact is irrelevant as betweenBandC.
+A obtains a decree againstCfor damages on the groundthatCfailed to make out his justification. The fact isirrelevant as betweenBandC.
 
 (b)
 
@@ -1478,19 +1478,19 @@ The judgment againstBis irrelevant as againstC.
 
 (c)
 
-Ahas obtained a decree for the possession of land againstB.C,B’sson, murdersAinconsequence.
+Ahas obtained a decreefor the possession of land againstB.C,B’sson, murdersAinconsequence.
 
-The existence of the judgment is relevant as showing motive for a crime.
+The existence of the judgment is relevant as showing motive for acrime.
 
 (d)
 
-Ais charged with theft and with having been previously convicted of theft.
+Ais charged with theftand with having been previously convicted of theft.
 
 The previous conviction is relevant as a fact in issue.
 
 (e)
 
-Ais tried for the murder ofB. The fact thatBprosecutedAfor libel and thatAwas convicted and sentenced is relevant under section 8 as showing the motive for the fact in issue.
+Ais tried for themurder ofB. The fact thatBprosecutedAfor libel and thatAwas convicted andsentenced is relevant under section 8 as showing the motive for the fact inissue.
 
 ### Relevance of convictions and acquittals
 
@@ -1526,7 +1526,7 @@ Opinions of third persons when relevant
 
 ### Opinions of experts
 
-47\.—(1) When the court has to form an opinion upon a point of foreign law or of science or art, or as to the identity or genuineness of handwriting or finger impressions, the opinions upon that point of persons specially skilled in such foreign law, science or art, or in questions as to the identity or genuineness of handwriting or finger impressions, are relevant facts.
+47\.—(1) When the court has to form an opinion upon a point of foreign law or ofscience or art, or as to the identity or genuineness of handwriting or fingerimpressions, the opinions upon that point of persons specially skilled in suchforeign law, science or art, or in questions as to the identity or genuinenessof handwriting or finger impressions, are relevant facts.
 
 (2) Such persons are called experts.
 
@@ -1540,19 +1540,19 @@ The opinions of experts as to the symptoms produced by the poison by whichAis su
 
 (b)
 
-The question is whetherA, at the time of doing a certain act, was by reason of unsoundness of mind, incapable of knowing the nature of the act or that he was doing what was either wrong or contrary to law.
+The question is whetherA, at the time of doing a certain act, was by reason ofunsoundness of mind, incapable of knowing the nature of the act or that he wasdoing what was either wrong or contrary to law.
 
-The opinions of experts upon the question whether symptoms exhibited byAcommonly show unsoundness of mind, and whether such unsoundness of mind usually renders persons incapable of knowing the nature of the acts which they do or of knowing that what they do is either wrong or contrary to law, are relevant.
+The opinions of experts upon the question whether symptoms exhibited byAcommonly show unsoundness of mind, and whether suchunsoundness of mind usually renders persons incapable of knowing the nature ofthe acts which they do or of knowing that what they do is either wrong orcontrary to law, are relevant.
 
 (c)
 
-The question is whether a certain document was written byA. Another document is produced which is proved or admitted to have been written byA.
+The question is whether a certain documentwas written byA. Another document is produced which isproved or admitted to have been written byA.
 
-The opinions of experts on the question whether the two documents were written by the same person or by different persons are relevant.
+The opinions of experts on the question whether the two documents werewritten by the same person or by different persons are relevant.
 
 ### Facts bearing upon opinions of experts
 
-48\. Facts not otherwise relevant are relevant if they support or are inconsistent with the opinions of experts when such opinions are relevant.
+48\. Facts not otherwise relevant are relevant if they support or areinconsistent with the opinions of experts when such opinions are relevant.
 
 Illustrations
 
@@ -1560,27 +1560,27 @@ Illustrations
 
 The question is whetherAwas poisoned by a certain poison.
 
-The fact that other persons who were poisoned by that poison exhibited certain symptoms, which experts affirm or deny to be the symptoms of that poison, is relevant.
+The fact that other persons who were poisoned by that poison exhibitedcertain symptoms, which experts affirm or deny to be the symptoms of thatpoison, is relevant.
 
 (b)
 
-The question is whether an obstruction to a harbour is caused by a certain sea-wall.
+The question is whether an obstruction toa harbour is caused by a certain sea-wall.
 
-The fact that other harbours similarly situated in other respects but where there were no such sea-walls began to be obstructed at about the same time is relevant.
+The fact that other harbours similarly situated in other respects but wherethere were no such sea-walls began to be obstructed at about the same time isrelevant.
 
 ### Opinion as to handwriting when relevant
 
-49\. When the court has to form an opinion as to the person by whom any document was written or signed, the opinion of any person acquainted with the handwriting of the person by whom it is supposed to be written or signed, that it was or was not written or signed by that person, is a relevant fact.
+49\. When the court has to form an opinion as to the person by whom any documentwas written or signed, the opinion of any person acquainted with thehandwriting of the person by whom it is supposed to be written or signed, thatit was or was not written or signed by that person, is a relevant fact.
 
-Explanation1.—A person is said to be acquainted with the handwriting of another person when he has seen that person write, or when he has received documents purporting to be written by that person in answer to documents written by himself or under his authority and addressed to that person, or when, in the ordinary course of business, documents purporting to be written by that person have been habitually submitted to him.
+Explanation1.—A person is said to be acquainted with the handwriting of another personwhen he has seen that person write, or when he has received documentspurporting to be written by that person in answer to documents written byhimself or under his authority and addressed to that person, or when, in theordinary course of business, documents purporting to be written by that personhave been habitually submitted to him.
 
 Illustrations
 
 The question is whether a given letter is in the handwriting ofA, a merchant in London.
 
-Bis a merchant in Singapore, who has written letters addressed toAand received letters purporting to be written by him.CisB’sclerk, whose duty it was to examine and fileB’scorrespondence.DisB’sbroker, to whomBhabitually submitted the letters purporting to be written byA, for the purpose of advising him thereon.
+Bis a merchant in Singapore, who has written lettersaddressed toAand received letters purporting to be writtenby him.CisB’sclerk, whose dutyit was to examine and fileB’scorrespondence.DisB’sbroker, to whomBhabitually submitted the letters purporting to be writtenbyA, for the purpose of advising him thereon.
 
-The opinions ofB,CandDon the question whether the letter is in the handwriting ofAare relevant, though neitherB,CnorDever sawAwrite.
+The opinions ofB,CandDon the question whether the letter is in the handwritingofAare relevant, though neitherB,CnorDever sawAwrite.
 
 ### Opinion as to existence of right or custom when relevant
 
@@ -1606,9 +1606,9 @@ the opinions of persons having special means of knowledge thereon are relevant f
 
 ### Opinion on relationship when relevant
 
-52\.—(1) When the court has to form an opinion as to the relationship of one person to another, the opinion expressed by conduct as to the existence of such relationship of any person who as a member of the family or otherwise has special means of knowledge on the subject is a relevant fact.
+52\.—(1) When the court has to form an opinion as to the relationship of one personto another, the opinion expressed by conduct as to the existence of suchrelationship of any person who as a member of the family or otherwise hasspecial means of knowledge on the subject is a relevant fact.
 
-(2) Such opinion shall not be sufficient to prove a marriage in prosecutions under section 494, 495 or 498 of the Penal Code [Cap. 224].
+(2) Such opinion shall not be sufficient to prove a marriage in prosecutionsunder section 494, 495 or 498 of the Penal Code [Cap. 224].
 
 Illustrations
 
@@ -1616,13 +1616,13 @@ Illustrations
 
 The question is whetherAandBwere married.
 
-The fact that they were usually received and treated by their friends as husband and wife is relevant.
+The fact that they were usually received and treated by their friends ashusband and wife is relevant.
 
 (b)
 
 The question is whetherAwas a legitimate son ofB.
 
-The fact thatAwas always treated as such by members of the family is relevant.
+The fact thatAwas always treated as such by members ofthe family is relevant.
 
 ### Grounds of opinion when relevant
 
@@ -1648,7 +1648,7 @@ Character when relevant
 
 (a) personally or by his advocate ask questions of any witness with a view to establishing directly or by implication that he is generally or in a particular respect a person of good disposition or reputation;
 
-(b) himself give evidence tending to establish directly or by implication that the is generally or in a particular respect such a person; or
+(b) himself give evidence tending to establish directly or by implication that he is generally or in a particular respect such a person; or
 
 (c) call a witness to give any such evidence,
 
@@ -1904,7 +1904,7 @@ and when, after the notice mentioned in section 68, such person does not produce
 
 (g) when the originals consist of numerous accounts or other documents which cannot conveniently be examined in court, and the fact to be proved is the general result of the whole collection.
 
-In cases (a), (c) and(d) any secondary evidence of the contents of the document is admissible.
+In cases (a), (c) and (d) any secondary evidence of the contents of the document is admissible.
 
 In case (b) the written admission is admissible.
 
@@ -1914,7 +1914,7 @@ In case (g) evidence may be given as to the general result of the documents by a
 
 ### Rules as to notice to produce
 
-68\. Secondary evidence of the contents of the documents referred to in section 67(a), shall not be given unless the party proposing to give such secondary evidence has previously given to the party in whose possession or power the document is, or to his solicitor, such notice to produce it as is prescribed by law; and if no notice is prescribed by law, then such notice as the court considers reasonable under the circumstances of the case:
+68\. Secondary evidence of the contents of the documents referred to in section 67 (a), shall not be given unless the party proposing to give such secondary evidence has previously given to the party in whose possession or power the document is, or to his solicitor, such notice to produce it as is prescribed by law; and if no notice is prescribed by law, then such notice as the court considers reasonable under the circumstances of the case:
 
 Provided that such notice shall not be required in order to render secondary evidence admissible in any of the following cases or in any other case in which the court thinks fit to dispense with it:
 
@@ -1932,21 +1932,21 @@ Provided that such notice shall not be required in order to render secondary evi
 
 ### Manner of giving voluminous or complex evidence
 
-68A\.—(1) Evidence may be given in the form of charts, summaries, computer output or other explanatory material if it appears to the court that —
+68A\.—(1) Evidence may be given in the form of charts, summaries, computer output orother explanatory material if it appears to the court that —
 
-(a) the materials would be likely to aid the court’s comprehension of other evidence which is relevant and admissible according to the provisions of this Act or any other written law; and
+(a) the materials would be likely to aid the court’s comprehension ofother evidence which is relevant and admissible according to the provisions ofthis Act or any other written law; and
 
-(b) the evidence that is to be given by any party is so voluminous or complex that the court considers it convenient to assess the evidence by reference to such materials.
+(b) the evidence that is to be given by any party is so voluminous or complexthat the court considers it convenient to assess the evidence by reference tosuch materials.
 
-(2) Any fact or opinion asserted in any material referred to in subsection (1)shall be proved by relevant and admissible evidence, and if such fact or opinion is one that is admissible only on the proof of some other fact or opinion, such last-mentioned fact or opinion must be proved before evidence is given of the fact or opinion first-mentioned, unless the party undertakes to give proof of such fact or opinion and the court is satisfied with such undertaking.
+(2) Any fact or opinion asserted in any material referred to in subsection (1)shall be proved by relevant and admissible evidence, and if such fact oropinion is one that is admissible only on the proof of some other fact oropinion, such last-mentioned fact or opinion must be proved before evidence isgiven of the fact or opinion first-mentioned, unless the party undertakes togive proof of such fact or opinion and the court is satisfied with suchundertaking.
 
-(3) In any proceedings where any material referred to in subsection (1) is adduced in evidence, the court may —
+(3) In any proceedings where any material referred to in subsection (1) isadduced in evidence, the court may —
 
-(a) direct the party to provide such material in any form, including computer output;
+(a) direct the party to provide such material in any form, including computeroutput;
 
-(b) require the provision of such material or copy thereof, including the identity and address of the person who prepared the material, to the other parties; and
+(b) require the provision of such material or copy thereof, including theidentity and address of the person who prepared the material, to the otherparties; and
 
-(c) specify a period within which such material or copy thereof must be provided to all parties to the proceedings.
+(c) specify a period within which such material or copy thereof must beprovided to all parties to theproceedings.
 
 [Act 8/96 wef 08/03/1996]
 
@@ -2108,11 +2108,11 @@ Provided that such document is substantially in the form and purports to be exec
 
 (c) that such evidence, statement or confession was duly taken.
 
-### Presumption as toGazettes, newspapers and other documents.2
+### Presumption as toGazettes, newspapers and otherdocuments.2
 
 2See also section 49 of the Interpretation Act (Cap. 1) and the explanationappended to section 92 of this Act
 
-83\. The court shall presume the genuineness of every document purporting to be the GovernmentGazetteof Singapore or the GovernmentGazetteof Malaysia or of any part of the Commonwealth, or to be theGazetteissued by the local government of any part of Malaysia or of the Commonwealth, or to be a newspaper or journal and of every document purporting to be a document directed by any law to be kept by any person, if such document is kept substantially in the form required by law and is produced from proper custody.
+83\. The court shall presume the genuineness of every document purporting to bethe GovernmentGazetteof Singapore or the GovernmentGazetteof Malaysia or of any part of the Commonwealth, orto be theGazetteissued by the local government of any partof Malaysia or of the Commonwealth, or to be a newspaper or journal and ofevery document purporting to be a document directed by any law to be kept byany person, if such document is kept substantially in the form required by lawand is produced from proper custody.
 
 ### Presumption as to document admissible in England without proof of seal or signature
 
@@ -2158,9 +2158,9 @@ Provided that such document is substantially in the form and purports to be exec
 
 ### Presumption as to documents 30 years old
 
-92\. Where any document purporting or proved to be 30 years old is produced from any custody which the court in the particular case considers proper, the court may presume that the signature and every other part of such document which purports to be in the handwriting of any particular person is in that person’s handwriting, and in the case of a document executed or attested, that it was duly executed and attested by the persons by whom it purports to be executed and attested.
+92\. Where any document purporting or proved to be 30 years old is produced fromany custody which the court in the particular case considers proper, the courtmay presume that the signature and every other part of such document whichpurports to be in the handwriting of any particular person is in thatperson’s handwriting, and in the case of a document executed orattested, that it was duly executed and attested by the persons by whom itpurports to be executed and attested.
 
-Explanation1.—Documents are said to be in proper custody if they are in the place in which and under the care of the person with whom they would naturally be; but no custody is improper if it is proved to have had a legitimate origin, or if the circumstances of the particular case are such as to render such an origin probable.
+Explanation1.—Documents are said to be in proper custody if they are in the place inwhich and under the care of the person with whom they would naturally be; butno custody is improper if it is proved to have had a legitimate origin, or ifthe circumstances of the particular case are such as to render such an originprobable.
 
 Explanation—This explanation applies also to section 83.
 
@@ -2168,11 +2168,11 @@ Illustrations
 
 (a)
 
-Ahas been in possession of landed property for a long time. He produces from his custody deeds relating to the land, showing his titles to it. The custody is proper.
+Ahas been in possessionof landed property for a long time. He produces from his custody deedsrelating to the land, showing his titles to it. The custody is proper.
 
 (b)
 
-Aproduces deeds relating to landed property of which he is the mortgagee. The mortgagor is in possession. The custody is proper.
+Aproduces deedsrelating to landed property of which he is the mortgagee. The mortgagor is inpossession. The custody is proper.
 
 (c)
 
@@ -2180,39 +2180,39 @@ A, a connection ofB, produces deeds relating to lands inB’spossession, which w
 
 Exclusion of oral by documentary evidence
 
-### Evidence of terms of contracts, grants and other dispositions of property reduced to form of document
+### Evidence of terms of contracts, grants and other dispositions ofproperty reduced to form of document
 
-93\. When the terms of a contract or of a grant or of any other disposition of property have been reduced by or by consent of the parties to the form of a document, and in all cases in which any matter is required by law to be reduced to the form of a document, no evidence shall be given in proof of the terms of such contract, grant or other disposition of property or of such matter except the document itself, or secondary evidence of its contents in cases in which secondary evidence is admissible under the provisions of this Act.
+93\. When the terms of a contract or of a grant or of any other disposition ofproperty have been reduced by or by consent of the parties to the form of adocument, and in all cases in which any matter is required by law to bereduced to the form of a document, no evidence shall be given in proof of theterms of such contract, grant or other disposition of property or of suchmatter except the document itself, or secondary evidence of its contents incases in which secondary evidence is admissible under the provisions of thisAct.
 
-Exception1.—When a public officer is required by law to be appointed in writing, and when it is shown that any particular person has acted as such officer, the writing by which he is appointed need not be proved.
+Exception1.—When a public officer is required by law to be appointed in writing, andwhen it is shown that any particular person has acted as such officer, thewriting by which he is appointed need not be proved.
 
 Exception2.—Wills admitted to probate in Singapore may be proved by the probate.
 
-Explanation1.—This section applies equally to cases in which the contracts, grants or dispositions of property referred to are contained in one document, and to cases in which they are contained in more documents than one.
+Explanation1.—This section applies equally to cases in which the contracts, grants ordispositions of property referred to are contained in one document, and tocases in which they are contained in more documents than one.
 
-Explanation2.—Where there are more originals than one, one original only need be proved.
+Explanation2.—Where there are more originals than one, one original only need beproved.
 
-Explanation3.—The statement in any document whatever of a fact, other than the facts referred to in this section, shall not preclude the admission of oral evidence as to the same fact.
+Explanation3.—The statement in any document whatever of a fact, other than the factsreferred to in this section, shall not preclude the admission of oral evidenceas to the same fact.
 
 Illustrations
 
 (a)
 
-If a contract is contained in several letters, all the letters in which it is contained must be proved.
+If a contract is contained in severalletters, all the letters in which it is contained must be proved.
 
 (b)
 
-If a contract is contained in a bill of exchange, the bill of exchange must be proved.
+If a contract is contained in a bill ofexchange, the bill of exchange must be proved.
 
 (c)
 
-If a bill of exchange is drawn in a set of 3, one only need be proved.
+If a bill of exchange is drawn in a set of3, one only need be proved.
 
 (d)
 
-Acontracts in writing withBfor the delivery of pepper upon certain terms. The contract mentions the fact thatBhad paidAthe price of other pepper contracted for verbally on another occasion.
+Acontracts in writingwithBfor the delivery of pepper upon certain terms. Thecontract mentions the fact thatBhad paidAthe price of other pepper contracted for verbally onanother occasion.
 
-Oral evidence is offered that no payment was made for the other pepper. The evidence is admissible.
+Oral evidence is offered that no payment was made for the other pepper. Theevidence is admissible.
 
 (e)
 
@@ -2316,27 +2316,27 @@ Ahad no plantation in Penang, but it appears that he had a plantation in Provinc
 
 These facts may be proved to show that the deed related to the plantation in Province Wellesley.
 
-### Evidence as to application of language which can apply to one only of several persons
+### Evidence as to application of language which can apply to one only ofseveral persons
 
-98\. When the facts are such that the language used might have been meant to apply to any one, and could not have been meant to apply to more than one of several persons or things, evidence may be given of facts which show to which of those persons or things it was intended to apply.
+98\. When the facts are such that the language used might have been meant toapply to any one, and could not have been meant to apply to more than one ofseveral persons or things, evidence may be given of facts which show to whichof those persons or things it was intended to apply.
 
 Illustrations
 
 (a)
 
-Aagrees to sell toBfor $500 “my white horse”.Ahas 2 white horses. Evidence may be given of facts which show which of them was meant.
+Aagrees to sell toBfor $500 “my white horse”.Ahas 2 white horses. Evidence may be given of facts which show which of themwas meant.
 
 (b)
 
-Aagrees to accompanyBto Halifax. Evidence may be given of facts showing whether Halifax in Yorkshire or Halifax in Nova Scotia was meant.
+Aagrees to accompanyBto Halifax. Evidence may be given of facts showing whetherHalifax in Yorkshire or Halifax in Nova Scotia was meant.
 
-### Evidence as to application of language to one of two sets of facts to neither of which the whole correctly applies
+### Evidence as to application of language to one of two sets of facts toneither of which the whole correctly applies
 
-99\. When the language used applies partly to one set of existing facts and partly to another set of existing facts, but the whole of it does not apply correctly to either, evidence may be given to show to which of the two it was meant to apply.
+99\. When the language used applies partly to one set of existing facts andpartly to another set of existing facts, but the whole of it does not applycorrectly to either, evidence may be given to show to which of the two it wasmeant to apply.
 
 Illustrations
 
-Aagrees to sell toB“my land atXin the occupation ofY”.Ahas land atX, but not in the occupation ofY, and he has land in the occupation ofY, but it is not atX. Evidence may be given of facts showing which he meant to sell.
+Aagrees to sell toB“my land atXin the occupation ofY”.Ahas land atX, but not in the occupationofY, and he has land in the occupation ofY, but it is not atX. Evidence may begiven of facts showing which he meant to sell.
 
 ### Evidence as to meaning of illegible characters, etc.
 
@@ -2348,11 +2348,11 @@ A, a sculptor, agrees to sell toB“all my mods”.Ahas both models and modellin
 
 ### Who may give evidence of agreement varying terms of document
 
-101\. Persons who are not parties to a document or their representatives in interest may give evidence of any fact tending to show a contemporaneous agreement varying the terms of the document.
+101\. Persons who are not parties to a document or their representatives ininterest may give evidence of any fact tending to show a contemporaneousagreement varying the terms of the document.
 
 Illustrations
 
-AandBmake a contract in writing thatBshall sellAcertain tin to be paid for on delivery. At the same time they make an oral agreement that 3 months’ credit shall be given toA. This could not be shown as betweenAandB, but it might be shown byCif it affected his interests.
+AandBmake a contract in writing thatBshall sellAcertain tin to be paid foron delivery. At the same time they make an oral agreement that 3 months’credit shall be given toA. This could not be shown asbetweenAandB, but it might be shown byCif it affected his interests.
 
 ### Construction of wills to be governed by English law
 
@@ -2366,21 +2366,21 @@ Burden of proof
 
 ### Burden of proof
 
-103\.—(1) Whoever desires any court to give judgment as to any legal right or liability, dependent on the existence of facts which he asserts, must prove that those facts exist.
+103\.—(1) Whoever desires any court to give judgment as to any legal right orliability, dependent on the existence of facts which he asserts, must provethat those facts exist.
 
-(2) When a person is bound to prove the existence of any fact, it is said that the burden of proof lies on that person.
+(2) When a person is bound to prove the existence of any fact, it is said thatthe burden of proof lies on that person.
 
 Illustrations
 
 (a)
 
-Adesires a court to give judgment thatBshall be punished for a crime whichAsaysBhas committed.
+Adesires a court togive judgment thatBshall be punished for a crime whichAsaysBhas committed.
 
-Amust prove thatBhas committed the crime.
+Amust prove thatBhas committed thecrime.
 
 (b)
 
-Adesires a court to give judgment that he is entitled to certain land in the possession ofBby reason of facts which he asserts and whichBdenies to be true.
+Adesires a court togive judgment that he is entitled to certain land in the possession ofBby reason of facts which he asserts and whichBdenies to be true.
 
 Amust prove the existence of those facts.
 
@@ -2402,7 +2402,7 @@ Therefore the burden of proof is onA.
 
 AsuesBfor money due on a bond.
 
-The execution of the bond is admitted, butBsays that itwas obtained by fraud, whichAdenies.
+The execution of the bond is admitted, butBsays that it was obtained by fraud, whichAdenies.
 
 If no evidence were given on either side,Awould succeed as the bond is not disputed and the fraud is not proved.
 
@@ -2410,7 +2410,7 @@ Therefore the burden of proof is onB.
 
 ### Burden of proof as to particular fact
 
-105\. The burden of proof as to any particular fact lies on that person who wishes the court to believe in its existence, unless it is provided by any law that the proof of that fact shall lie on any particular person.
+105\. The burden of proof as to any particular fact lies on that person whowishes the court to believe in its existence, unless it is provided by any lawthat the proof of that fact shall lie on any particular person.
 
 Illustrations
 
@@ -2420,7 +2420,7 @@ AprosecutesBfor theft and wishes the court to believe thatBadmitted the theft to
 
 (b)
 
-Bwishes the court to believe that at the time in question he was elsewhere. He must prove it.
+Bwishes the court tobelieve that at the time in question he was elsewhere. He must prove it.
 
 ### Burden of proving fact to be proved to make evidence admissible
 
@@ -2476,7 +2476,7 @@ When a person does an act with some intention other than that which the characte
 
 (b)
 
-Ais charged with travelling on a railway without a ticket. The burden of proving that he had ticket is on him.
+Ais charged with travelling on a railway without a ticket. The burden of proving that he had a ticket is on him.
 
 ### Burden of proving death of person known to have been alive within 30 years
 
@@ -2518,7 +2518,7 @@ Presumption that boy under 13 years cannot commit rape
 
 ### Court may presume existence of certain fact
 
-116\. The court may presume the existence of any fact which it thinks likely to have happened, regard being had to the common course of natural events, human conduct, and public and private business, in their relation to the facts of the particular case.
+116\. The court may presume the existence of any fact which it thinks likely tohave happened, regard being had to the common course of natural events, humanconduct, and public and private business, in their relation to the facts ofthe particular case.
 
 Illustrations
 
@@ -2526,31 +2526,31 @@ The court may presume —
 
 (a)
 
-that a man who is in possession of stolen goods soon after the theft is either the thief or has received the goods knowing them to be stolen, unless he can account for his possession;
+that a man who is in possession of stolengoods soon after the theft is either the thief or has received the goodsknowing them to be stolen, unless he can account for his possession;
 
 (b)
 
-that an accomplice is unworthy of credit and his evidence needs to be treated with caution;
+that an accomplice is unworthy of creditand his evidence needs to be treated with caution;
 
 (c)
 
-that a bill of exchange accepted or endorsed was accepted or endorsed for good consideration;
+that a bill of exchange accepted orendorsed was accepted or endorsed for good consideration;
 
 (d)
 
-that a thing or state of things which has been shown to be in existence within a period shorter than that within which such things or states of things usually cease to exist is still inexistence;
+that a thing or state of things which hasbeen shown to be in existence within a period shorter than that within whichsuch things or states of things usually cease to exist is still inexistence;
 
 (e)
 
-that judicial and official acts have been regularly performed;
+that judicial and official acts have beenregularly performed;
 
 (f)
 
-that the common course of business has been followed in particular cases;
+that the common course of business hasbeen followed in particular cases;
 
 (g)
 
-that evidence which could be and is not produced would if produced be unfavourable to the person who withholds it;
+that evidence which could be and is notproduced would if produced be unfavourable to the person who withholds it;
 
 (h)
 
@@ -2562,37 +2562,37 @@ that when a document creating an obligation is in the hands of the obligor the o
 
 But the court shall also have regard to such facts as the following in considering whether such maxims do or do not apply to the particular case before it:
 
-as to illustration (a)—a shop-keeper has in his till a marked dollar soon after it was stolen and cannot account for its possession specifically but is continually receiving dollars in the course of his business:
+as to illustration (a)—a shop-keeper hasin his till a marked dollar soon after it was stolen and cannot account forits possession specifically but is continually receiving dollars in the courseof his business:
 
-as to illustration(b)—A, a person of the highest character is tried for causing a man’s death by an act of negligence in arranging certain machinery.B, a person of equally good character, who also took part in the arrangement, describes precisely what was done and admits and explains the common carelessness ofAand himself:
+as to illustration(b)—A, a person of the highestcharacter is tried for causing a man’s death by an act of negligence inarranging certain machinery.B, a person of equally goodcharacter, who also took part in the arrangement, describes precisely what wasdone and admits and explains the common carelessness ofAand himself:
 
-as to illustration (b)—a crime is committed by several persons.A,BandC, 3 of the criminals, are captured on the spot and kept apart from each other. Each gives an account of the crime implicatingD, and the accounts corroborate each other in such a manner as to render previous concert highly improbable:
+as to illustration (b)—a crime iscommitted by several persons.A,BandC, 3 of the criminals, are captured on the spot and keptapart from each other. Each gives an account of the crime implicatingD, and the accounts corroborate each other in such a manneras to render previous concert highly improbable:
 
-as to illustration(c)—A, the drawer of a bill of exchange, was a man of business.B, the acceptor, was a young and ignorant person completely underA’sinfluence:
+as to illustration(c)—A, the drawer of a bill ofexchange, was a man of business.B, the acceptor, was ayoung and ignorant person completely underA’sinfluence:
 
-as to illustration (d)—it is proved that a river ran in a certain course 5 years ago, but it is known that there have been floods since that time which might change its course:
+as to illustration (d)—it is proved thata river ran in a certain course 5 years ago, but it is known that there havebeen floods since that time which might change its course:
 
-as to illustration (e)—a judicial act, the regularity of which is in question, was performed under exceptional circumstances:
+as to illustration (e)—a judicial act,the regularity of which is in question, was performed under exceptionalcircumstances:
 
-as to illustration (f)—the question is whether a letter was received. It is shown to have posted, but the usual course of the post was interrupted by disturbances:
+as to illustration (f)—the question iswhether a letter was received. It is shown to have posted, but the usualcourse of the post was interrupted by disturbances:
 
-as to illustration (g)—a man refuses to produce a document which would bear on a contract of small importance on which he is sued, but which might also injure the feeling and reputation of his family:
+as to illustration (g)—a man refuses toproduce a document which would bear on a contract of small importance on whichhe is sued, but which might also injure the feeling and reputation of hisfamily:
 
-as to illustration (h)—a man refuses to answer a question which he is not compelled by law to answer, but the answer to it might cause loss to him in matters unconnected with the matter in relation to which it is asked:
+as to illustration (h)—a man refuses toanswer a question which he is not compelled by law to answer, but the answerto it might cause loss to him in matters unconnected with the matter inrelation to which it is asked:
 
-as to illustration (i)—a bond is in possession of the obligor, but the circumstances of the case are such that he may have stolen it.
+as to illustration (i)—a bond is inpossession of the obligor, but the circumstances of the case are such that hemay have stolen it.
 
 Estoppel
 
 ### Estoppel
 
-117\. When one person has by his declaration, act or omission intentionally caused or permitted another person to believe a thing to be true and to act upon such belief, otherwise than but for that belief he would have acted, neither he nor his representative in interest shall be allowed in any suit or proceeding between himself and such person or his representative in interest to deny the truth of that thing.
+117\. When one person has by his declaration, act or omission intentionallycaused or permitted another person to believe a thing to be true and to actupon such belief, otherwise than but for that belief he would have acted,neither he nor his representative in interest shall be allowed in any suit orproceeding between himself and such person or his representative in interestto deny the truth of that thing.
 
 Illustrations
 
-Aintentionally and falsely leadsBto believe that certain land belongs toAand thereby inducesBto buy and pay for it.
+Aintentionally and falsely leadsBtobelieve that certain land belongs toAand thereby inducesBto buy and pay for it.
 
-The land afterwards becomes the property ofAandAseeks to set aside the sale on the ground that at the time of the sale he had no title.
+The land afterwards becomes the property ofAandAseeks to set aside the sale on the ground that at the timeof the sale he had no title.
 
 He must not be allowed to prove his want of title.
 
@@ -2688,37 +2688,37 @@ Explanation1.—“Revenue officer” in this section means any officer employed
 
 ### Professional communications
 
-128\.—(1) No advocate or solicitor shall at any time be permitted, unless with his client’s express consent, to disclose any communication made to him in the course and for the purpose of his employment as such advocate or solicitor by or on behalf of his client, or to state the contents or condition of any document with which he has become acquainted in the course and for the purpose of his professional employment, or to disclose any advice given by him to his client in the course and for the purpose of such employment:
+128\.—(1) No advocate or solicitor shall at any time be permitted, unless with hisclient’s express consent, to disclose any communication made to him inthe course and for the purpose of his employment as such advocate or solicitorby or on behalf of his client, or to state the contents or condition of anydocument with which he has become acquainted in the course and for the purposeof his professional employment, or to disclose any advice given by him to hisclient in the course and for the purpose of such employment:
 
 Provided that nothing in this section shall protect from disclosure —
 
 (a) any such communication made in furtherance of any illegal purpose;
 
-(b) any fact observed by any advocate or solicitor in the course of his employment as such showing that any crime or fraud has been committed since the commencement of his employment.
+(b) any fact observed by any advocate or solicitor in the course of hisemployment as such showing that any crime or fraud has been committed sincethe commencement of his employment.
 
-(2) It is immaterial whether the attention of such advocate or solicitor was or was not directed to such fact by or on behalf of his client.
+(2) It is immaterial whether the attention of such advocate or solicitor was orwas not directed to such fact by or on behalf of his client.
 
-Explanation1.—The obligation stated in this section continues after the employment has ceased.
+Explanation1.—The obligation stated in this section continues after the employment hasceased.
 
 Illustrations
 
 (a)
 
-A, a client, says toB, a solicitor: “I have committed forgery and I wish you to defend me”.
+A, a client, says toB, a solicitor: “I have committed forgery and I wishyou to defend me”.
 
-As the defence of a man known to be guilty is not a criminal purpose this communication is protected from disclosure.
+As the defence of a man known to be guilty is not a criminal purpose thiscommunication is protected from disclosure.
 
 (b)
 
-A, a client, says toB, a solicitor: “I wish to obtain possession of property by the use of a forged deed on which I request you to sue”.
+A, a client, says toB, a solicitor: “I wish to obtain possession ofproperty by the use of a forged deed on which I request you to sue”.
 
-This communication being made in furtherance of a criminal purpose is not protected from disclosure.
+This communication being made in furtherance of a criminal purpose is notprotected from disclosure.
 
 (c)
 
-A, being charged with embezzlement, retainsB, a solicitor, to defend him. In the course of the proceedingsBobserves that an entry has been made inA’saccount-book, chargingAwith the sum said to have been embezzled, which entry was not in the book at the commencement of his employment.
+A, being charged withembezzlement, retainsB, a solicitor, to defend him. In thecourse of the proceedingsBobserves that an entry has beenmade inA’saccount-book, chargingAwith the sum said to have been embezzled, which entry was not in the book atthe commencement of his employment.
 
-This being a fact observed byBin the course of his employment, showing that a fraud has been committed since the commencement of the proceedings, it is not protected from disclosure.
+This being a fact observed byBin the course of hisemployment, showing that a fraud has been committed since the commencement ofthe proceedings, it is not protected from disclosure.
 
 ### Section 128 to apply to interpreters, etc.
 
@@ -2878,7 +2878,7 @@ It is proposed to prove a fact (A) which is said to have been the cause or effec
 
 ### Evidence as to matters in writing
 
-146\. Any witness may be asked whilst under examination whether any contract, grant or other disposition of property as to which he is giving evidence was not contained in a document, and if he says that it was, or if he is about to make any statement as to the contents of any document which in the opinion of the court ought to be produced, the adverse party may object to such evidence being given until such document is produced or until facts have been proved which entitle the party who called the witness to give secondary evidence of it.
+146\. Any witness may be asked whilst under examination whether any contract, grant or other disposition of property as to which he is giving evidence was not contained in a document, and if he says that it was, or if he is about to make any statement as to the contents of any document which in the opinion of the court ought to be produced, the adverse party may object to such evidence being given until such document is produced or until facts have been proved which entitle the party who called the witness to give secondary evidence ofit.
 
 Explanation1.—A witness may give oral evidence of statements made by other persons about the contents of documents if such statements are in themselves relevant facts.
 
@@ -2964,21 +2964,21 @@ A witness of whom nothing whatever is known being questioned as to his mode of l
 
 154\. The court shall forbid any question which appears to it to be intended to insult or annoy, or which though proper in itself, appears to the court needlessly offensive in form.
 
-### Exclusion of evidence of contradict answers to questions testing veracity
+### Exclusion of evidence of contradict answers to questions testingveracity
 
-155\. When a witness has been asked and has answered any question which is relevant to the inquiry only in so far as it tends to shake his credit by injuring his character, no evidence shall be given to contradict him; but if he answers falsely he may afterwards be charged with giving false evidence.
+155\. When a witness has been asked and has answered any question which isrelevant to the inquiry only in so far as it tends to shake his credit byinjuring his character, no evidence shall be given to contradict him; but ifhe answers falsely he may afterwards be charged with giving falseevidence.
 
-Exception1.—If a witness is asked whether he has been previously convicted of any crime and denies it, evidence may be given of his previous conviction.
+Exception1.—If a witness is asked whether he has been previously convicted of any crimeand denies it, evidence may be given of his previous conviction.
 
-Exception2.—If a witness is asked any question tending to impeach his impartiality and answers it by denying the facts suggested, he may be contradicted.
+Exception2.—If a witness is asked any question tending to impeach his impartiality andanswers it by denying the facts suggested, he may be contradicted.
 
 Illustrations
 
 (a)
 
-A claim against an underwriter is resisted on the ground of fraud.
+A claim against an underwriter is resistedon the ground of fraud.
 
-The claimant is asked whether in a former transaction he had not made a fraudulent claim. He denies it.
+The claimant is asked whether in a former transaction he had not made afraudulent claim. He denies it.
 
 Evidence is offered to show that he did make such a claim.
 
@@ -2986,7 +2986,7 @@ The evidence is inadmissible.
 
 (b)
 
-A witness is asked whether he was not dismissed from a situation for dishonesty. He denies it.
+A witness is asked whether he was notdismissed from a situation for dishonesty. He denies it.
 
 Evidence is offered to show that he was dismissed for dishonesty.
 
@@ -2994,27 +2994,27 @@ The evidence is not admissible.
 
 (c)
 
-Aaffirms that on a certain day he sawBat Malacca.
+Aaffirms that on acertain day he sawBat Malacca.
 
-Ais asked whether he himself was not on that day at Penang. He denies it.
+Ais asked whether he himself was not on that day atPenang. He denies it.
 
-Evidence is offered to show thatAwas on that day at Penang.
+Evidence is offered to show thatAwas on that day atPenang.
 
-The evidence is admissible, not as contradictingAon a fact which affects his credit, but as contradicting the alleged fact thatBwas seen on the day in question in Malacca.
+The evidence is admissible, not as contradictingAon afact which affects his credit, but as contradicting the alleged fact thatBwas seen on the day in question in Malacca.
 
 (d)
 
-Ais tried for a rape onB.Bis asked in cross-examination whether she has not had illicit intercourse withCandD. She denies it.
+Ais tried for a rape onB.Bis asked in cross-examination whethershe has not had illicit intercourse withCandD. She denies it.
 
-Evidence is offered to show that she has had such intercourse withCandD. The evidence is not admissible.
+Evidence is offered to show that she has had such intercourse withCandD. The evidence is notadmissible.
 
-In each of the cases in illustrations (c) and(d) the witness might, if the denial was false, be charged with giving false evidence.
+In each of the cases in illustrations (c) and(d) the witness might, if the denial was false, be chargedwith giving false evidence.
 
 (e)
 
-Ais asked whether he has not said that he would be revenged onB, against whom he gives evidence. He denies it.
+Ais asked whether hehas not said that he would be revenged onB, against whom hegives evidence. He denies it.
 
-He may be contradicted on the ground that the question tends to impeach his impartiality.
+He may be contradicted on the ground that the question tends to impeach hisimpartiality.
 
 ### Questions by party to his own witness
 
@@ -3022,17 +3022,17 @@ He may be contradicted on the ground that the question tends to impeach his impa
 
 ### Impeaching credit of witness
 
-157\. The credit of a witness may be impeached in the following ways by the adverse party or, with the consent of the court, by the party who calls him:
+157\. The credit of a witness may be impeached in the following ways by theadverse party or, with the consent of the court, by the party who callshim:
 
-(a) by the evidence of persons who testify that they from their knowledge of the witness believe him to be unworthy of credit;
+(a) by the evidence of persons who testify that they from their knowledge ofthe witness believe him to be unworthy of credit;
 
-(b) by proof that the witness has been bribed, or has accepted the offer of a bribe, or has received any other corrupt inducement to give his evidence;
+(b) by proof that the witness has been bribed, or has accepted the offer of abribe, or has received any other corrupt inducement to give his evidence;
 
-(c) by proof of former statements inconsistent with any part of his evidence which is liable to be contradicted;
+(c) by proof of former statements inconsistent with any part of his evidencewhich is liable to be contradicted;
 
-(d) when a man is prosecuted for rape or an attempt to ravish, it may be shown that the prosecutrix was of generally immoral character.
+(d) when a man is prosecuted for rape or an attempt to ravish, it may be shownthat the prosecutrix was of generally immoral character.
 
-Explanation1.—A witness declaring another witness to be unworthy of credit may not, upon his examination-in-chief, give reasons for his belief, but he may be asked his reasons in cross-examination, and the answers which he gives cannot be contradicted, though, if they are false, he may afterwards be charged with giving false evidence.
+Explanation1.—A witness declaring another witness to be unworthy of credit may not, uponhis examination-in-chief, give reasons for his belief, but he may be asked hisreasons in cross-examination, and the answers which he gives cannot becontradicted, though, if they are false, he may afterwards be charged withgiving false evidence.
 
 Illustrations
 
@@ -3042,17 +3042,17 @@ AsuesBfor the price of goods sold and delivered toB.
 
 Csays that he delivered the goods toB.
 
-Evidence is offered to show that on a previous occasion he said that he had not delivered the goods toB.
+Evidence is offered to show that on a previous occasion he said that he hadnot delivered the goods toB.
 
 The evidence is admissible.
 
 (b)
 
-Ais indicted for the murder ofB.
+Ais indicted for themurder ofB.
 
-Csays thatB, when dying, declared thatAhad givenBthe wound of which he died.
+Csays thatB, when dying, declaredthatAhad givenBthe wound of which hedied.
 
-Evidence is offered to show that on a previous occasionCsaid that the wound was not given byAor in his presence.
+Evidence is offered to show that on a previous occasionCsaid that the wound was not given byAor in hispresence.
 
 The evidence is admissible.
 
@@ -3100,7 +3100,7 @@ A book-keeper may testify to facts recorded by him in books regularly kept in th
 
 164\.—(1) A witness summoned to produce a document shall, if it is in his possession or power, bring it to court notwithstanding any objection which there may be to its production or to its admissibility. The validity of any such objection shall be decided on by the court.
 
-(2) The court, if it sees fit, may inspect the document unless it refers to affairs of State, or take other evidence to enable it to determine on its admissibility.
+(2) The court, if it sees fit, may inspect the document unless it refers to affairs of State, or take other evidence to enable it to determine on its admissiblity.
 
 ### Translation of documents
 
@@ -3110,13 +3110,13 @@ A book-keeper may testify to facts recorded by him in books regularly kept in th
 
 165\. When a party calls for a document which he has given the other party notice to produce, and such document is produced and inspected by the party calling for its production, he is bound to give it as evidence if the party producing it requires him to do so and if it is relevant.
 
-### Using as evidence document production of which was refused on notice
+### Using as evidence document production of which was refused onnotice
 
-166\. When a party refuses to produce a document which he has had notice to produce, he cannot afterwards use the document as evidence without the consent of the other party or the order of the court.
+166\. When a party refuses to produce a document which he has had notice toproduce, he cannot afterwards use the document as evidence without the consentof the other party or the order of the court.
 
 Illustrations
 
-AsuesBon an agreement, and givesBnotice to produce it. At the trialAcalls for the document, andBrefuses to produce it.Agives secondary evidence of its contents.Bseeks to produce the document itself to contradict the secondary evidence given byA, or in order to show that the agreement is not stamped. He cannot do so.
+AsuesBon an agreement, and givesBnotice to produce it. At the trialAcalls for the document, andBrefuses to produce it.Agives secondary evidence of its contents.Bseeks to produce the document itself to contradict thesecondary evidence given byA, or in order to show that theagreement is not stamped. He cannot do so.
 
 ### Judge’s power to put questions or order production
 
@@ -3124,7 +3124,7 @@ AsuesBon an agreement, and givesBnotice to produce it. At the trialAcalls for th
 
 Provided that the judgment must be based upon facts declared by this Act to be relevant and duly proved:
 
-Provided also that this section shall not authorise any Judge to compel any witness to answer any question or to produce any document which such witness would be entitled to refuse to answer or produce under sections 123 to 133 if the question were asked or the document were called for by the adverse party; nor shall the Judge ask any question which it would be improper for any other person to ask under section 150 or 151; nor shall he dispense with the primary evidence of any document, except in the cases herein before excepted.
+Provided also that this section shall not authorise any Judge to compel any witness to answer any question or to produce any document which such witness would be entitled to refuse to answer or produce under sections 123 to 133 if the question were asked or the document were called for by the adverse party; nor shall the Judge ask any question which it would be improper for any other person to ask under section 150 or 151; nor shall he dispense with the primary evidence of any document, except in the cases hereinbefore excepted.
 
 ### Power of assessors to put questions
 
@@ -3404,3 +3404,9 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of operation|15 March 1990|
 |19.|**G. N. No. S 414/1992—The Evidence Act (Amendment of Schedule) Order 1992**|
 ||Date of commencement|25 September 1992|
+|20.|**Act 29 of 1995—Rapid Transit Systems Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|7 July 1995|
+|||(Bill No. 25/95 published on 8 July 1995)|
+||Date of Second and Third Readings|7 August 1995|
+||Date of commencement|1 September 1995|
