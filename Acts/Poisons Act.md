@@ -2958,6 +2958,14 @@ Boron trifluoride
 
 Bromine; Bromine solutions
 
+Bromotrifluoromethane (Halon 1301, CF
+
+3
+
+Br)
+
+in fire protection systems with building plans approved after 17th June 1991 and installed after 31st December 1991
+
 Carbamates, excepting —
 
 Benomyl
@@ -3146,6 +3154,20 @@ Diborane
 
 Dibromochloropropane
 
+Dibromotetrafluoroethane (Halon 2402, C
+
+2
+
+F
+
+4
+
+Br
+
+2
+
+)
+
 Dichlorosilane
 
 Diethyl sulphate
@@ -3198,7 +3220,7 @@ Isocyanates
 
 Lead tetra-ethyl and similar lead containing compounds
 
-Mercuric chloride; mercuric iodide; organic compounds of mecury
+Mecuric chloride; mercuric iodide; organic compounds of mecury; mecury and its compounds in batteries
 
 Metanil yellow (sodium salt of metanilylazo-diphenylamine)
 
@@ -3328,7 +3350,7 @@ Thallium, salts of
 
 Vinyl chloride monomer
 
-[S 361/1989; S 55/1990; S 51/1991; S 475/1991]
+[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991]
 
 ## LEGISLATIVE HISTORY
 
@@ -3474,3 +3496,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|5 February 1991|
 |54.|**G. N. No. S 475/1991—Poisons Act (Amendment of Schedule) (No. 2) Notification 1991**|
 ||Date of commencement|1 November 1991|
+|55.|**G. N. No. S 541/1991—Poisons Act (Amendment of Schedule) (No. 3) Notification 1991**|
+||Date of commencement|1 January 1992|
