@@ -1,16 +1,14 @@
-**Boundaries and Survey Maps Act 1998**
+**Boundaries and Survey Maps Act**
 
-**(No. 35 of 1998)**
+**(CHAPTER 25)**
 
 **Table of Contents**
 
 [**Long Title**](#Boundaries-and-Survey-Maps-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -50,57 +48,33 @@
 
 - [17 Rules](#Rules)
 
-- [18 Repeal](#Repeal)
+[**Legislative History**](#Legislative-History)
 
-- [19 Consequential amendments to Land Surveyors Act](#Consequential-amendments-to-Land-Surveyors-Act)
+# Boundaries and Survey Maps Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 25)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 35 of 1998)
 
-ACTS SUPPLEMENT
+REVISED EDITION 1999
 
-Published by Authority
+(30th December 1999)
 
-NO. 37]
+An Act to provide for the demarcation of land, the establishment and maintenance of boundary marks and the publication of certain survey maps.
 
-Friday, October 16
-
-[1998
-
-The following Act was passed by Parliament on 4th September 1998 and assented to by the President on 23rd September 1998:—
-
-Boundaries and Survey Maps Act 1998
-
-(No. 35 of 1998)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President.
-
-23rd September 1998.
-
-Date of Commencement: 16th October 1998
-
-An Act to provide for the demarcation of land, the establishment and maintenance of boundary marks and the publication of certain survey maps, and to repeal the Boundaries and Survey Maps Act (Chapter 25 of the 1985 Revised Edition) and the Landmarks Act (Chapter 159 of the 1985 Revised Edition) and to make consequential amendments to the Land Surveyors Act (Chapter 156 of the 1992 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[16th October 1998]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Boundaries and Survey Maps Act 1998 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Boundaries and Survey Maps Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “approved co-ordinates” means co-ordinates approved by the Chief Surveyor or approved under section 7(c) which are capable of describing and ascertaining the boundaries of any land in relation to survey control marks;
 
@@ -126,9 +100,9 @@ PRELIMINARY
 
 “owner”, in relation to any parcel of land, means the person for the time being receiving the rent of the land, whether on his own account or as agent or trustee or who would receive the rent if the land were let to a tenant;
 
-“registered surveyor” means a surveyor registered under the Land Surveyors Act (Cap.156);
+“registered surveyor” means a surveyor registered under the Land Surveyors Act (Cap. 156);
 
-“repealed Act” means the Boundaries and Survey Maps Act (Cap.25) in force immediately before the appointed day;
+“repealed Act” means the Boundaries and Survey Maps Act (Cap. 25, 1985 Ed.) in force immediately before 16th October 1998;
 
 “survey control mark” means any survey mark placed under the supervision of the Chief Surveyor the horizontal position or height of which is determined;
 
@@ -160,11 +134,11 @@ SURVEY
 
 (d) a lot number has been assigned to the land by the Chief Surveyor; and
 
-(e) a plan, showing the location of the land and its boundaries, area, lot number and the boundary marks placed on the land or the approved co-ordinates, has been approved by, and is filed in the office of, the Chief Surveyor.
+(e) a survey plan, showing the location of the land and its boundaries, area, lot number and the boundary marks placed on the land or the approved co-ordinates, has been approved by, and is filed in the office of, the Chief Surveyor.
 
 (2) A certified plan shall be prima facie evidence of the boundaries and boundary marks of the parcel of land to which it refers, and of its area and lot number.
 
-(3) Any plan for a cadastral survey of a parcel of land approved by and filed in the office of, the Chief Surveyor under the repealed Act shall be deemed to have been approved by, and filed in the office of, the Chief Surveyor under subsection (1)(e).
+(3) Any plan for a cadastral survey of a parcel of land approved by, and filed in the office of, the Chief Surveyor under the repealed Act shall be deemed to have been approved by, and filed in the office of, the Chief Surveyor under subsection (1)(e).
 
 ### Powers of Chief Surveyor
 
@@ -180,7 +154,7 @@ SURVEY
 
 (iv) to alter, repair or remove any boundary mark placed on the land;
 
-(v) to remove or destroy trees, crops, fences and other property on the land and adjacent land;
+(v) to remove or destroy trees, crops, fences and other property on the land and any adjacent land;
 
 (b) to establish a survey control mark on any parcel of land and to enter on the land and any adjacent land to do all things reasonably necessary for the establishment, protection, maintenance, repair, alteration or removal of the mark; and
 
@@ -222,7 +196,7 @@ SURVEY
 
 (c) approve and record the co-ordinates of the boundaries of land within each designated area as determined by surveys carried out in the area (whether before or after the declaration of the area as designated survey area), convert the co-ordinates recorded in relation to those parcels of land within the area and make any necessary adjustments to the recorded co-ordinates; and
 
-(d) where the co-ordinates for all parcels of land within a designated survey area have been so approved, recorded, converted and adjusted, declare by notice in theGazette, that area to be within the co-ordinated cadastre.
+(d) where the co-ordinates for all parcels of land within a designated survey area have been so approved, recorded, converted and adjusted, declare, by notice in theGazette, that area to be within the co-ordinated cadastre.
 
 ### Notice to secure attendance for certain purposes
 
@@ -272,11 +246,11 @@ may serve on that person a notice calling upon him to attend before the survey o
 
 ### Penalty for obliteration of boundary mark or survey control mark
 
-11\.—(1) Any person who wilfully obliterates, removes or injures, without reasonable excuse, any boundary mark or survey control mark which has been made or erected by or under the direction of the Chief Surveyor shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and may further be required by a Magistrate's Court to pay 3 times the cost of repairing and replacing the boundary mark or survey control mark and of making any survey rendered necessary by the act for which the person was convicted.
+11\.—(1) Any person who wilfully obliterates, removes or injures, without reasonable excuse, any boundary mark or survey control mark which has been made or erected by or under the direction of the Chief Surveyor shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and may further be required by a Magistrate’s Court to pay 3 times the cost of replacing and repairing the boundary mark or survey control mark and of making any survey rendered necessary by the act for which the person was convicted.
 
-(2) The amount mentioned in subsection (1) shall be levied in the manner provided by the Criminal Procedure Code (Cap.68) for the collection of fines.
+(2) The amount mentioned in subsection (1) shall be levied in the manner provided by the Criminal Procedure Code (Cap. 68) for the collection of fines.
 
-(3) If any person committing an offence under this section cannot be found, the Chief Surveyor may give directions for the restoration or repair of any boundary mark or survey control mark, and may order the cost thereof to be paid by the owners of the adjacent lands in such proportion as appears to the Chief Surveyor to be proper.
+(3) If any person committing an offence under this section cannot be found, the Chief Surveyor may give directions for the replacement or repair of any boundary mark or survey control mark, and may order the cost thereof to be paid by the owners of the adjacent lands in such proportion as appears to the Chief Surveyor to be proper.
 
 ## PART III
 
@@ -284,17 +258,17 @@ SURVEY MAP
 
 ### Correction of map
 
-12\.—(1) All maps published under the repealed Act shall continue to be valid.
+12\.—(1) All maps published under the repealed Act shall continue to be valid .
 
 (2) No map published under the repealed Act shall be corrected, altered or added to in respect of any boundary of any land therein laid down, except in the following cases:
 
-(a) where it is found that a map does not correctly represent the boundaries of any land, the Chief Surveyor shall inquire into the reason for the difference and, if it is found to be due to inaccuracy in the survey caused by error in measuring the angles or the sides of the land or in plotting the survey, he shall give notice to the owners of the land affected, or their agents if they are known and are in Singapore, of the error and require them to forward to the Chief Surveyor within one month of their objections (if any) to its correction;
+(a) where it is found that a map does not correctly represent the boundaries of any land, the Chief Surveyor shall inquire into the reason for the difference and, if it is found to be due to inaccuracy in the survey caused by error in measuring the angles or the sides of the land or in plotting the survey , he shall give notice to the owners of the land affected, or their agents if they are known and are in Singapore, of the error and require them to forward to the Chief Surveyor within one monthof their objections (if any) to its correction;
 
-(b) where it appears that wrong boundary marks have been joined up in the survey and delineation of a boundary shown on a map, or where it appears that there has been a change in the position of a boundary from that which it held at the time of the survey or at the time when it was delineated on the map under paragraph (c), the Chief Surveyor shall, after one month's notice to the owners of the land affected, or their agents if they are known and are in Singapore, of his intention, proceed to hold an inquiry, which may be held in part upon the land;
+(b) where it appears that wrong boundary marks have been joined up in the survey and delineation of a boundary shown on a map, or where it appears that there has been a change in the position of a boundary from that which it held at the time of the survey or at the time when it was delineated on the map under paragraph (c), the Chief Surveyor shall, after one month’s notice to the owners of the land affected, or their agents if they are known and are in Singapore, of his intention, proceed to hold an inquiry, which may be held in part upon the land;
 
 (c) where in the case of the assignment or demise of any land comprised wholly or partly in any State title in parcels or otherwise than the entirety thereof, the parcels have been properly demarcated and surveyed to the satisfaction of the Chief Surveyor and the fees payable in respect of the demarcation and survey have been duly paid, the boundaries of the parcels or any subdivision thereof shall be delineated upon the representation of the land or parcel of the land on the map;
 
-(d) where any owners whose boundaries are conterminous agree to an alteration in their boundaries, the map may be altered by the order of the Chief Surveyor upon a deed or instrument being presented at the Registry of Deeds or the Land Titles Registry, as the case may be, effectuating the alteration agreed to;
+(d) where any owners whose boundaries are conterminous agree to an alteration in their boundaries, the map may be altered by the order of the Chief Surveyor upon a deed or instrument being presented at the Registry of Deeds or the Land Titles Registry, as the case may be , effectuating the alteration agreed to;
 
 (e) where in any suit an order of the High Court has been made which affects the position of the boundaries of any land, the map may be altered upon an office copy of the order being served on the Chief Surveyor; and
 
@@ -344,31 +318,29 @@ MISCELLANEOUS
 
 (2) Without prejudice to the generality of subsection (1), the Minister may make rules —
 
-(a) prescribing the fees for the purposes of this Act; and
+(a) prescribing the fees for the purposes of this Act ; and
 
 (b) prescribing the manner and procedure for inquiries to be held under this Act.
 
-### Repeal
+## LEGISLATIVE HISTORY
 
-18\. The Boundaries and Survey Maps Act (Cap.25) and the Landmarks Act (Cap.159) are repealed.
+Boundaries and Survey Maps Act
 
-### Consequential amendments to Land Surveyors Act
+(CHAPTER 25)
 
-19\. The Land Surveyors Act (Cap.156) is amended —
+This Legislative History is provided for the convenience of users of the Boundaries and Survey Maps Act. It is not part of this Act.
 
-(a) by inserting, immediately after the definition of "Board" in section 2, the following definitions:
-
-“
-
-“cadastral survey” means any survey relating to the recording of land boundaries, subdivision lines, buildings and related details;
-
-“cadastral survey services” means the supply for gain or reward of any services, or any plan, certificate or other document, relating to any cadastral survey;
-
-“cadastral survey work” means any work which is part of or related to a cadastral survey;
-
-”;
-
-(b) by deleting the definitions of "title survey", "title survey services" and "title survey work" in section 2; and
-
-(c) by deleting the word "title" wherever it appears in the Act and substituting in each case the word "cadastral".
-
+||||
+|:-|:-|:-|
+|1.|**Act 8 of 1884—Boundaries and Survey Maps Act 1884**|
+||Date of First, Second and Third Readings|Date not available.|
+||Date of commencement|21 November 1884|
+|2.|**1985 Revised Edition—Boundaries and Survey Maps Act**|
+||Date of operation|30 March 1987|
+|3.|**Act 35 of 1998—Boundaries and Survey Maps Act 1998**|
+||Date of First Reading|31 July 1998|
+|||(Bill No. 32/98 published on 1 August 1998)|
+||Date of Second and Third Readings|4 September 1998|
+||Date of commencement|16 October 1998|
+|4.|**1999 Revised Edition—Boundaries and Survey Maps Act**|
+||Date of operation|30 December 1999|
