@@ -70,7 +70,7 @@
 
 - [27 Power to issue directions to financial institutions](#Power-to-issue-directions-to-financial-institutions)
 
-- [27A Directions to discharge Government’s international obligations](#Directions-to-discharge-Government’s-international-obligations)
+- [27A Directions or regulations to discharge Government’s international obligations](#Directions-or-regulations-to-discharge-Government’s-international-obligations)
 
 - [28 Power to approve financial institutions and control their operations](#Power-to-approve-financial-institutions-and-control-their-operations)
 
@@ -548,17 +548,63 @@ and in either event, the Authority shall thereupon issue a direction in writing 
 
 [31/72; 26/84]
 
-### Directions to discharge Government’s international obligations
+### Directions or regulations to discharge Government’s international obligations
 
-27A\.—(1) The Authority may, from time to time, issue such directions to a financial institution or class of financial institutions as the Authority considers necessary in order to discharge or facilitate the discharge of any obligation binding on Singapore by virtue of a decision of the Security Council of the United Nations.
+27A\.—(1) The Authority may, from time to time —
 
-(2) A financial institution to which a direction is issued shall comply with it notwithstanding any other duty imposed on the financial institution by any rule of law, written law or contract; and the financial institution shall not in carrying out any act in compliance with the direction be treated as being in breach of any such rule of law, written law or contract.
+(a) issue such directions to a financial institution or class of financial institutions; and
 
-(3) A financial institution shall not disclose any direction issued to it if the Authority notifies the financial institution that the Authority is of the opinion that the disclosure of the direction is against the public interest.
+(b) make such regulations concerning any financial institution or class of financial institutions or relating to the activities of any financial institution or class of financial institutions,
 
-(4) A financial institution which fails or refuses to comply with a direction issued to it, or which discloses a direction issued to it in contravention of subsection (3), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+as the Authority considers necessary in order to discharge or facilitate the discharge of any obligation binding on Singapore by virtue of a decision of the Security Council of the United Nations.
 
-[28/2000 wef 01/11/2000]
+(2) A financial institution to which a direction is issued under subsection (1)(a) or which is bound by any regulations made under subsection (1)(b) shall comply with the direction or regulations notwithstanding any other duty imposed on the financial institution by any rule of law, written law or contract.
+
+(3) A financial institution shall not in carrying out any act in compliance with any direction or regulations made under subsection (1) be treated as being in breach of any such rule of law, written law or contract.
+
+(4) A financial institution shall not disclose any direction issued under subsection (1)(a) if the Authority notifies the financial institution that the Authority is of the opinion that the disclosure of the direction is against the public interest.
+
+(5) A financial institution which —
+
+(a) fails or refuses to comply with a direction issued to it;
+
+(b) contravenes any regulations made under subsection (1)(b); or
+
+(c) discloses a direction issued to it in contravention of subsection (4),
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+[13/2007 wef 30/06/2007]
+
+[42/2007 wef 01/11/2007]
+
+(6) In this section, “financial institution” means —
+
+(a) any bank licensed under the Banking Act (Cap. 19);
+
+(b) any finance company licensed under the Finance Companies Act (Cap. 108);
+
+(c) any merchant bank that is approved as a financial institution under section 28;
+
+[13/2007 wef 30/06/2007]
+
+(d) any money-changer licensed to conduct money-changing business, or any remitter licensed to conduct remittance business, under the Money-changing and Remittance Businesses Act (Cap. 187);
+
+(e) any insurer registered or regulated under the Insurance Act (Cap. 142);
+
+(f) any insurance intermediary licensed under the Insurance Intermediaries Act (Cap. 142A);
+
+(g) any dealer or investment adviser licensed under the Securities Industry Act (Cap. 289);
+
+(h) any futures broker, futures trading adviser or futures pool operator licensed under the Futures Trading Act (Cap. 116); and
+
+(i) any other person licensed, approved or regulated by the Authority under any written law.
+
+(7) For the purpose of subsection (6), a reference to a person being licensed, approved, registered or regulated under any of the laws referred to in that subsection includes a person who is exempted under the relevant law from being licensed, approved, registered or regulated.
+
+[13/2007 wef 30/06/2007]
+
+[16/2002 wef 30/09/2002]
 
 ### Power to approve financial institutions and control their operations
 
@@ -908,6 +954,18 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||(Bill No. 22/2000 published on 27 October 2000)|
 ||Date of Second and Third Readings|9 October 2000|
 ||Date of commencement|1 November 2000|
+|14.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 7 December 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Dates of commencement|Parts I, VIII, IX, X and XV (except sections 314 and 342 (1) and (3)), First Schedule, Second Schedule and items (4) (o) and (q) and (7) (c) of the Fourth Schedule shall come into operation on 1st January 2002.|
+|||Parts XIII and XIV, and items (1) (a), (3) (a), (4) (a) (i), (iii) to (ix), (b), (c), (f), (g), (h), (i), (l), (m), (t) and (u), (7) (b), (12) and (13) of the Fourth Schedule shall come into operation on 1st July 2002.|
+|||Parts II to VII, XI and XII, sections 314 and 342 (1) and (3), Third Schedule and items (1) (b), (2), (3) (b), (4) (a) (ii), (d), (e), (j), (k), (n), (p), (r), (s) and (v), (5), (6) and (7) (a) and (d) and (8) to (11) of the Fourth Schedule shall come into operation on 1st October 2002.|
+|15.|**Act 16 of 2002—Terrorism (Suppression of Financing) Act 2002**|
+||Date of First Reading|23 May 2002|
+||Date of Second and Third Readings|8 July 2002|
+||Dates of commencement|Section 39 shall come into operation on 30th September 2002.|
+|||Section 2 to 38 shall come into operation on 29th January 2003.|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
