@@ -12,21 +12,19 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Appointment of agricultural officers](#Appointment-of-agricultural-officers)
+- [3 Authorised officers and authorised analysts](#Authorised-officers-and-authorised-analysts)
 
 - [4 Officers deemed to be public servants](#Officers-deemed-to-be-public-servants)
 
 - [5 Officer to produce identification on request](#Officer-to-produce-identification-on-request)
 
-[**Part II IMPORT FOR SALE OR SUPPLY OF FRESH FRUITS AND VEGETABLES**](#Part-II)
+- [5A Director may authorise public officer to exercise powers and perform duties](#Director-may-authorise-public-officer-to-exercise-powers-and-perform-duties)
 
-- [6 No import for sale or supply of fresh fruits and vegetables without licence](#No-import-for-sale-or-supply-of-fresh-fruits-and-vegetables-without-licence)
+[**Part II IMPORT AND TRANSHIPMENT OF FRESH FRUITS AND VEGETABLES**](#Part-II)
 
-- [7 Control of import for sale or supply of fresh fruits and vegetables by order of Minister](#Control-of-import-for-sale-or-supply-of-fresh-fruits-and-vegetables-by-order-of-Minister)
+- [6 Prohibition of import or transhipment of fresh fruits or vegetables without licence](#Prohibition-of-import-or-transhipment-of-fresh-fruits-or-vegetables-without-licence)
 
-- [8 Pesticide or toxic chemical residue levels](#Pesticide-or-toxic-chemical-residue-levels)
-
-- [9 Containers of fresh fruits or vegetables to bear particulars of producer](#Containers-of-fresh-fruits-or-vegetables-to-bear-particulars-of-producer)
+- [7 Prohibition of import or transhipment of fresh fruits and vegetables without permit](#Prohibition-of-import-or-transhipment-of-fresh-fruits-and-vegetables-without-permit)
 
 [**Part III CONTROL OF CULTIVATION OF PLANTS**](#Part-III)
 
@@ -41,6 +39,10 @@
 - [14 Suspension or cancellation of certification of pesticide operator](#Suspension-or-cancellation-of-certification-of-pesticide-operator)
 
 - [15 Application for registration of pesticide](#Application-for-registration-of-pesticide)
+
+- [15A Protection of confidential supporting information about innovative pesticides](#Protection-of-confidential-supporting-information-about-innovative-pesticides)
+
+- [15B Circumstances where protection under section 15A does not apply](#Circumstances-where-protection-under-section-15A-does-not-apply)
 
 [**Part IV PROHIBITED PLANTS**](#Part-IV)
 
@@ -82,6 +84,8 @@
 
 - [31 Revocation or suspension of licence or permit](#Revocation-or-suspension-of-licence-or-permit)
 
+- [31A Appeals](#Appeals)
+
 [**Part VIII MISCELLANEOUS**](#Part-VIII)
 
 - [32 Penalty](#Penalty)
@@ -90,13 +94,13 @@
 
 - [34 Offences committed by agent or servant](#Offences-committed-by-agent-or-servant)
 
-- [35 General powers of agricultural officers](#General-powers-of-agricultural-officers)
+- [35 General powers of authorised officers](#General-powers-of-authorised-officers)
 
 - [36 Power to label for identification](#Power-to-label-for-identification)
 
-- [37 Power to take samples](#Power-to-take-samples)
+- [37 Power to take samples for analysis](#Power-to-take-samples-for-analysis)
 
-- [38 Power to dispose of, etc., fresh fruits and vegetables](#Power-to-dispose-of-etc-fresh-fruits-and-vegetables)
+- [38 Power to dispose of, etc.,fresh fruits and vegetables](#Power-to-dispose-of-etcfresh-fruits-and-vegetables)
 
 - [39 Access to documents, books and records](#Access-to-documents-books-and-records)
 
@@ -114,9 +118,9 @@
 
 - [46 Rules](#Rules)
 
-- [47 Transitional provision](#Transitional-provision)
+- [47 Saving of licences and permits](#Saving-of-licences-and-permits)
 
-- [48 Saving of appointments of agricultural officers](#Saving-of-appointments-of-agricultural-officers)
+- [48 Agricultural officers to be deemed authorised officers](#Agricultural-officers-to-be-deemed-authorised-officers)
 
 [**Legislative History**](#Legislative-History)
 
@@ -146,13 +150,19 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“agricultural officer” means any officer appointed as an agricultural officer by the Director under section 3;
+“authorised analyst” means any person appointed by the Director as an authorised analyst under section 3(2);
+
+[32/98 wef 08/01/1999]
+
+“authorised officer” means any person appointed by the Director as an authorised officer under section 3(1);
+
+[32/98 wef 08/01/1999]
 
 “certified pesticide operator” means a person who is certified as a pesticide operator under section 13;
 
 “conveyance” includes any aircraft, vessel, train, vehicle or any other artificial contrivance, whether mechanically-propelled or otherwise used or capable of being used as a means of transport on land, water or air;
 
-“Director” means the Director of Primary Production and includes the Deputy Director of Primary Production and the Director, Agriculture Divisionof the Primary Production Department;
+“Director” means the Director of Primary Production and includes the Deputy Director of Primary Production and any Divisional Director of the Primary Production Department;
 
 “diseased” means attacked by or infected with any pest;
 
@@ -182,7 +192,9 @@ PRELIMINARY
 
 “package” includes every means by which plants, plant products and pests are encased, covered, enclosed, contained or packed for conveyance from one place to another;
 
-“pest” means any vertebrate or invertebrate animal (including the eggs of such animal), fungus, bacterium, virus or any other organism which is or is capable of being injurious or destructive to plants or plant products;
+“pest” means any species, strain or biotype of plant, animal or pathogenic agent which is or is capable of being injurious to plants or plant products;
+
+[32/98 wef 08/01/1999]
 
 “pesticide” means any substance or mixture of substances prepared or used for preventing, destroying, repelling or mitigating any pest and any substance or mixture of substances prepared or used as a plant regulator, defoliant or desiccant;
 
@@ -196,6 +208,14 @@ PRELIMINARY
 
 “premises” includes land;
 
+“prohibited pesticide” means a pesticide not specified in the Tenth Schedule to the Food Regulations (Cap.283, Rg 1);
+
+[32/98 wef 08/01/1999]
+
+“prohibited pesticide residue” means the remains of any substance resulting from the use of any prohibited pesticide;
+
+[32/98 wef 08/01/1999]
+
 “sell” includes offering or attempting to sell, or receiving for sale, or having in possession for sale, or exposing for sale, or sending or delivering for sale, or causing or allowing to be sold, offered or exposed for sale and “sale” has a corresponding meaning;
 
 “soil” includes earth, water, peat, manure, compost, sand, clay and any other substance capable of supporting plant life, or transmitting any pest, whether or not used or intended to be used as a growing medium, or in any process of manufacture, or as ballast or for any other purpose whatsoever;
@@ -204,45 +224,85 @@ PRELIMINARY
 
 “toxic chemical residue” means the remains of any chemical substance, other than pesticides, the level of which is prescribed by rules made under this Act;
 
-“tranship” means to transfer from one conveyance to another conveyance for the purpose of export;
+“tranship”, with its grammatical variations and cognate expressions, means to bring or cause to be brought into Singapore by land, sea or air from any place which is outside Singapore any plant and thereafter to —
+
+(a) remove or cause to be removed that plant from the conveyance in which it was brought into Singapore; and
+
+(b) return or cause to be returned that plant to the same conveyance or transfer it or cause it to be transferred to another conveyance, for the purpose of export,
+
+whether such plant is to be transferred directly between conveyances or whether it is to be landed in Singapore after it was brought into Singapore and stored, pending export;
+
+[32/98 wef 08/01/1999]
 
 “treatment” means disinfection and disinfestation to ensure the removal, sterilisation or killing of any pest by appropriate means.
 
-### Appointment of agricultural officers
+### Authorised officers and authorised analysts
 
-3\. The Director may appoint such number of agricultural officers as he considers necessary for carrying out the purposes of this Act.
+3\.—(1) The Director may appoint such number of authorised officers as he considers necessary for the purposes of this Act and any rules made thereunder.
+
+(2) The Director may appoint one or more persons with the prescribed qualifications and practical experience as authorised analysts for the purposes of this Act and any rules made thereunder.
+
+[32/98 wef 08/01/1999]
 
 ### Officers deemed to be public servants
 
-4\. All agricultural officersshall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
+4\. All authorised officers shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
 
 ### Officer to produce identification on request
 
-5\. Every agricultural officer, when exercising any power under this Act, shall declare his office and shall, if requested by any person in relation to whom the power is sought to be exercised, produce such identification card as the Director may provide.
+5\. Every authorised officer, when exercising any power under this Act, shall declare his office and shall, if requested by any person in relation to whom the power is sought to be exercised, produce such identification card as the Director may provide.
+
+### Director may authorise public officer to exercise powers and perform duties
+
+5A\. The powers conferred and the duties imposed on the Director under this Act or any rules made thereunder may be exercised and carried out by any public officer generally or specially authorised by name or office by the Director and subject to his directions.
+
+[32/98 wef 08/01/1999]
 
 ## PART II
 
-IMPORT FOR SALE OR SUPPLY OF FRESH FRUITS AND VEGETABLES
+IMPORT AND TRANSHIPMENT OF FRESH FRUITS AND VEGETABLES
 
-### No import for sale or supply of fresh fruits and vegetables without licence
+[32/98 wef 08/01/1999]
 
-6\. No person shall import for sale or supply any fresh fruit or vegetable except under and in accordance with a licence issued by the Director.
+### Prohibition of import or transhipment of fresh fruits or vegetables without licence
 
-### Control of import for sale or supply of fresh fruits and vegetables by order of Minister
+6\.—(1) No person shall import for sale, supply or distribution or tranship any fresh fruit or vegetable except under and in accordance with the conditions of a licence issued by the Director.
 
-7\.—(1) The Minister may, if he considers it necessary or expedient for the purpose of securing that fresh fruits and vegetables imported are safe and wholesome, by order prohibit either absolutely or conditionally the import for sale or supply of any fresh fruit or vegetable from any country, territory, place or farm.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(2) An order made under subsection (1) may provide that no person shall import for sale or supply any fresh fruit or vegetable from the country, territory, place or farm specified in the order except under and in accordance with a permit issued by the Director.
+### Prohibition of import or transhipment of fresh fruits and vegetables without permit
 
-### Pesticide or toxic chemical residue levels
+7\.—(1) No licensee shall import any fresh fruit or vegetable for sale, supply or distribution unless —
 
-8\. No person shall import for sale or supply any fresh fruit or vegetable which contains levels of pesticide residue or toxic chemical residue exceeding the prescribed levels.
+(a) the licensee has obtained a permit from the Director in respect of each consignment of fresh fruits or vegetables to be imported by him and the import of such consignment is carried out in accordance with the conditions of the permit;
 
-### Containers of fresh fruits or vegetables to bear particulars of producer
+(b) the whole consignment conforms to the description contained in the permit;
 
-9\.—(1) No person shall import for sale or supply any fresh fruit or vegetable where the container of the fruit or vegetable does not bear the name and address of its producer and such other particulars as may be prescribed.
+(c) the whole consignment does not contain any prohibited pesticide residue, or levels of pesticide residue or toxic chemical residue exceeding the prescribed levels;
 
-(2) In subsection (1), “container” means the basket, carton, bag, box, packet or other receptacle which contains the fresh fruit or vegetable and where any such receptacle is contained in another such receptacle, includes the latter receptacle.
+(d) the whole consignment complies with such sanitary standards as may be prescribed by the Minister;
+
+(e) the licensee provides the Director with satisfactory evidence that the whole consignment complies with paragraphs (c) and (d); and
+
+(f) the container of the fruits or vegetables constituting the consignment bears the name and address of the producer and such other particulars as may be prescribed.
+
+(2) No licensee shall tranship any fresh fruit or vegetable unless the licensee has obtained a permit from the Director in respect of each consignment of fresh fruits or vegetables to be transhipped by him and the transhipment is carried out by him in accordance with the conditions of the permit.
+
+(3) Any licensee who contravenes or fails to comply with subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(4) Subject to subsection (5), in any proceedings for an offence under subsection (3), it shall be a defence for the person charged to prove —
+
+(a) that the commission of the offence was due to the act or default of another person or some other cause beyond his control; and
+
+(b) that he took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence by himself or by any person under his control.
+
+(5) If in any case the defence provided by subsection (4) involves the allegation that the commission of the offence was due to the act or default of another person, the person charged shall not, without leave of the court, be entitled to rely on that defence unless, within a period ending 7 clear days before the hearing, he has served on the prosecutor a notice in writing giving such information as was then in his possession identifying or assisting in the identification of that other person.
+
+(6) For the purposes of this section —
+
+“container” means the basket, carton, bag, box, packet or other receptacle which contains the fresh fruits or vegetables and where any such receptacle is contained in another such receptacle, includes the latter receptacle;
+
+“licensee” means a person who has obtained a licence as required under section 6 for the import or transhipment, as the case may be, of any fresh fruit or vegetable.
 
 ## PART III
 
@@ -310,6 +370,90 @@ CONTROL OF CULTIVATION OF PLANTS
 
 (3) The Director may establish one or more committees consisting of such persons as he may appoint for the purpose of advising him on such matters arising out of any application for registration under this section as are referred to any such committee by the Director.
 
+### Protection of confidential supporting information about innovative pesticides
+
+15A\.—(1) Where the Director receives, or has received not more than 5 years before the commencement of the Control of Plants (Amendment) Act 1998, an innovative pesticide application and confidential supporting information, the Director, during the protected period in relation to that confidential supporting information —
+
+(a) shall take reasonable steps to ensure that the confidential supporting information is kept confidential to the Director; and
+
+(b) shall not use the confidential supporting information for the purposes of determining whether to grant any other application.
+
+(2) For the purposes of this section and section 15B, unless the context otherwise requires —
+
+“application” means an application for registration of a pesticide under section 15;
+
+“confidential information” includes —
+
+(a) trade secrets; and
+
+(b) information that has commercial value that would be, or would be likely to be, diminished by disclosure;
+
+“confidential supporting information” means confidential information given —
+
+(a) in, or in relation to, an innovative pesticide application; and
+
+(b) about the pesticide that is or was, as the case may be, the subject of that application;
+
+“Director” includes any public officer authorised under section 5A to carry out registration of pesticides under section 15;
+
+“ingredient” includes a chemical or biological entity;
+
+“innovative pesticide application” means —
+
+(a) in relation to an application made after the commencement of the Control of Plants (Amendment) Act 1998, an application that refers to an active ingredient —
+
+(i) that is an active ingredient of the pesticide to which the application relates; and
+
+(ii) that has not, before that application is received by the Director, been referred to in any other application as an active ingredient of the pesticide; and
+
+(b) in relation to an application made before the commencement of the Control of Plants (Amendment) Act 1998, an application that referred to an active ingredient —
+
+(i) that is or was, as the case may be, an active ingredient of the pesticide to which the application related; and
+
+(ii) that had not, before the application was received by the Director, been referred to in any other application as an active ingredient of the pesticide;
+
+“protected period”, in relation to confidential supporting information relating to an innovative pesticide application received by the Director, means a period of 5 years from the date the innovative pesticide application is or was, as the case may be, received by the Director.
+
+[32/98 wef 08/01/1999]
+
+### Circumstances where protection under section 15A does not apply
+
+15B\.—(1) Notwithstanding section 15A, the Director may, during the protected period in relation to confidential supporting information —
+
+(a) disclose that confidential supporting information, or use that confidential supporting information for the purposes of determining whether to grant any application other than the application to which it relates or related, as the case may be —
+
+(i) with the consent of the applicant who made the application to which the confidential supporting information relates or related; or
+
+(ii) if that disclosure or use is, in the opinion of the Director, necessary to protect the health or safety of members of the public;
+
+(b) disclose that confidential supporting information to a Government department or statutory body for the purposes of the Government department or statutory body if, in the opinion of the Director, the Government department or statutory body will take reasonable steps to ensure the confidential supporting information is kept confidential; or
+
+(c) disclose that confidential supporting information to any one or more of the following:
+
+(i) the World Health Organisation;
+
+(ii) the Food and Agriculture Organisation;
+
+(iii) any regulatory agency of a WTO Country;
+
+(iv) any committee established under section 15(3);
+
+(v) any person or organisation, or a person or an organisation within a class or classes of persons or organisations, approved by any rules made under this Act, if the disclosure is in accordance with such conditions as may be specified in the rules.
+
+(2) The power to grant consent under subsection (1)(a)(i) may be exercised by a person other than the applicant referred to in that subsection if —
+
+(a) that applicant —
+
+(i) has notified the Director in writing that that other person may grant that consent; and
+
+(ii) has not notified the Director in writing that that person’s authority to grant that consent has been withdrawn; or
+
+(b) that applicant’s rights in respect of the relevant confidential supporting information have been transferred to that person and the applicant or that other person has notified the Director in writing of the transfer.
+
+(3) For the purposes of this section, “WTO Country” means a country that is a party to the Agreement establishing the World Trade Organisation adopted at Marrakesh on 15th April 1994.
+
+[32/98 wef 08/01/1999]
+
 ## PART IV
 
 PROHIBITED PLANTS
@@ -344,31 +488,43 @@ CONTROL OF PESTS
 
 ### Power to direct destruction or treatment of plants, etc.
 
-20\.—(1) If as a result of any inspection or examination of any land, premises or plant by an agricultural officer, it appears to the agricultural officer that any land or premises or plant is in a condition favourable to the introduction or spread of any pest or that any plant is diseased, the Director may, by notice in writing under his hand addressed to the owner or occupier of the land or premises where that condition exists or where the plant is, direct him to take within a time to be stated in the notice such measures as may appear to the Director necessary or expedient for —
+20\.—(1) For the purpose of ascertaining whether any pest is present on or in any land or premises, an authorised officer may, upon serving notice in writing under the hand of the Director on the owner or occupier of the land or premises and upon producing, if so requested, an identification card —
+
+(a) enter the land or premises and examine any plant, plant product, package, soil or article thereon at all reasonable times; and
+
+(b) take, without payment, any sample of any plant, plant product or soil.
+
+(2) The notice referred to in subsection (1) shall be served on the owner or occupier of the land or premises at least 6 hours before the time of intended entry of the land or premises.
+
+(3) If, as a result of any examination by an authorised officer under subsection (1), it appears to the authorised officer that any land or premises or plant is in a condition favourable to the introduction or spread of any pest or that any plant is diseased, the Director may, by notice in writing under his hand addressed to the owner or occupier of the land or premises where that condition exists or where the plant is, direct him to take within a time to be stated in the notice such measures as may appear to the Director necessary or expedient for —
 
 (a) the eradication or the prevention of the spread of any pest, either by destruction or by treatment in a manner to be specified in the notice of that plant or any plant or of any pest or of any tool or utensil used for agricultural or industrial purposes on the land or premises including the cessation of obtaining or abstracting any product from any plant on the land or premises; and
 
 (b) the treatment of the land or premises or plant or of any tool or utensil used for agricultural or industrial purposes on the land or premises with a view to bringing them into a condition not favourable to the introduction or spread of any pest.
 
-(2) If an owner or occupier of any land or premises fails to comply with a notice under subsection (1) within the time stated for the performance of the acts required to be done, any agricultural officer may enter upon the land or premises to which the notice refers and may cause such duly authorised persons to enter with such instruments and things as are necessary and may proceed to perform all acts required by the notice, and the costs and expenses thereof shall be recoverable as a debt due from the owner or occupier to the Government.
+(4) If the owner or occupier of any land or premises fails to comply with a notice under subsection (3) within the time stated for the performance of the acts required to be done, any authorised officer may enter upon the land or premises to which the notice refers and may cause any person authorised by him to enter with such instruments and things as are necessary and may proceed to perform all acts required by the notice, and the costs and expenses thereof shall be recoverable as a debt due from the owner or occupier to the Government.
 
-(3) Nothing in subsection (2) shall affect the liability of any person to prosecution and punishment under subsection (4).
+(5) Nothing in subsection (4) shall affect the liability of any person to prosecution and punishment under subsection (7).
 
-(4) Any owner or occupier of any land or premises who wilfully fails to comply with the notice under subsection (1) within the time stated shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
+(6) Any person who obstructs or hinders the Director or an authorised officer in the exercise of any of his powers under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(7) Any owner or occupier of any land or premises who wilfully fails to comply with the notice under subsection (3) within the time stated shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
+
+[32/98 wef 08/01/1999]
 
 ### Placing land under quarantine
 
 21\.—(1) Where the Director is of the opinion that any plant on any land is diseased, he may make an order placing the land or any part thereof in quarantine for such period as may be prescribed by the order.
 
-(2) So long as an order of quarantine applies to any land, no person shall remove any plant therefrom except under and in accordance with the direction of an agricultural officer.
+(2) So long as an order of quarantine applies to any land, no person shall remove any plant therefrom except under and in accordance with the direction of an authorised officer.
 
 (3) Any land placed in quarantine under subsection (1) shall continue in quarantine until the Director certifies that no plant thereon is diseased.
 
 ### Application for examination of quarantined area
 
-22\.—(1) Any owner or occupier of any land quarantined under section 21(1) may apply to an agricultural officerto examine the quarantined area with a view to obtaining from the agricultural officerthe certificate referred to in section 21(3).
+22\.—(1) Any owner or occupier of any land quarantined under section 21(1) may apply to an authorised officer to examine the quarantined area with a view to obtaining from the authorised officer the certificate referred to in section 21(3).
 
-(2) The agricultural officer shall, as soon as possible after receipt of such an application, visit and examine the quarantined area and may charge such fees as may be prescribed for such visit and examination.
+(2) The authorised officer shall, as soon as possible after receipt of such an application, visit and examine the quarantined area and may charge such fees as may be prescribed for such visit and examination.
 
 ### Power to order immediate destruction of plants
 
@@ -378,9 +534,9 @@ CONTROL OF PESTS
 
 ### Clearing diseased land
 
-24\.—(1) Where it appears to an agricultural officerthat any plant on any land is diseased and he is of the opinion that it is necessary for the prevention of the spread of any pest that the land be entirely cleared of cultivation or cleared of all cultivation of any particular species, the Director may, with the approval of the Minister, by notice in writing addressed to the owner or occupier of the land where the plant is, direct him to fell and burn or otherwise destroy within a time to be stated in the notice and to the satisfaction of the agricultural officerall cultivation or all cultivation of the species named in the notice.
+24\.—(1) Where it appears to an authorised officer that any plant on any land is diseased and he is of the opinion that it is necessary for the prevention of the spread of any pest that the land be entirely cleared of cultivation or cleared of all cultivation of any particular species, the Director may, with the approval of the Minister, by notice in writing addressed to the owner or occupier of the land where the plant is, direct him to fell and burn or otherwise destroy within a time to be stated in the notice and to the satisfaction of the authorised officer all cultivation or all cultivation of the species named in the notice.
 
-(2) The action directed by a notice under subsection (1) may be enforced in the manner provided by section 20(2)for the enforcement of the action directed by a notice under section 20(1).
+(2) The action directed by a notice under subsection (1) may be enforced in the manner provided by section 20(4) for the enforcement of the action directed by a notice under section 20(3).
 
 (3) If the owner or occupier of any land on whom a notice under subsection (1) has been served fails to comply with the notice, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
@@ -396,7 +552,9 @@ CONTROL OF PESTS
 
 ### Accredited pest control agency
 
-26\. The Director may register any fit and proper person possessing the prescribed qualifications and practical experience as an accredited pest control agency to carry out, at any appointed place, any treatment, detention, destruction or disposal of any plant, plant product or pest under this Act.
+26\. The Director may register any fit and proper person possessing the prescribed qualifications and practical experience as an accredited pest control agency to carry out, at any place, any inspection, identification, analysis, treatment, detention, destruction or disposal of any plant, plant product, pest, or any soil or other material attached to any plant or plant product under this Act and any rules made thereunder, and to issue phytosanitary certificates.
+
+[32/98 wef 08/01/1999]
 
 ## PART VI
 
@@ -414,7 +572,7 @@ EXPORT OF PLANTS
 
 ### Phytosanitary certificate
 
-29\.—(1) Any agricultural officer may, on application and on such terms as the Director may require, issue a phytosanitary certificate stating that any plant or plant product is free from pests for the purpose of export.
+29\.—(1) Any authorised officer or accredited pest control agency may, on application and on such terms as the Director may require, issue a phytosanitary certificate stating that any plant or plant product is free from pests for the purpose of export.
 
 (2) Any person who wilfully —
 
@@ -434,17 +592,43 @@ LICENCE AND PERMIT
 
 30\.—(1) An application —
 
-(a) for a licence under section 6 or 11; or
+(a) for a licence under section 6 or 11;
 
-(b) where provision is made by an order under section 7(1), 16(1) or 27(1) for the issue by the Director of a permit, for a permit,
+(b) for a permit under section 7; or
 
-shall be made to the Director in such manner and form as the Director may require and shall be accompanied by the prescribed fee.
+(c) where provision is made by an order under section 16(1) or 27(1) for the issue by the Director of a permit, for a permit under that section,
 
-(2) Every licence or permit issued shall be in such form and for such period and may contain such terms and conditions as the Director may determine.
+shall be made to the Director in such manner and form as the Director may require and shall be accompanied by the prescribed fee and such particulars, information and documents as the Director may require.
 
-(3) Every licence or permit issued shall, unless earlier revoked, be valid for such period as may be specified therein and may be renewed.
+(2) On the receipt of an application under subsection (1), the Director may —
 
-(4) The Director may vary or revoke any of the existing conditions of a licence or permit or impose new conditions.
+(a) issue the licence or permit applied for, with or without conditions; or
+
+(b) refuse to issue the licence or permit applied for.
+
+(3) Without prejudice to the generality of subsection (2), the Director may, in respect of an application for a licence under section 6 or a permit under section 7 —
+
+(a) refuse to issue the licence or permit; or
+
+(b) impose a condition restricting or prohibiting the import or transhipment of any fresh fruit or vegetable from any country, territory, place or farm,
+
+if he considers that this is necessary to protect the health or safety of members of the public.
+
+(4) Where the Director has refused to issue the licence or permit applied for, he shall give the applicant notice in writing of the reasons for his refusal.
+
+(5) The Director may at any time vary or revoke any of the conditions imposed under subsection (2)(a) or impose new conditions.
+
+(6) Every licence or permit issued under this section —
+
+(a) shall be in such form as the Director may determine;
+
+(b) shall be valid for the period stated therein unless it is sooner revoked under section 31; and
+
+(c) may, unless it is a permit under section 7, be renewed upon its expiry.
+
+(7) Subsections (1) to (6) shall apply, with the necessary modifications, to an application for the renewal of a licence under section 6 or 11 or a permit under section 16(1) or 27(1).
+
+[32/98 wef 08/01/1999]
 
 ### Revocation or suspension of licence or permit
 
@@ -456,7 +640,19 @@ shall be made to the Director in such manner and form as the Director may requir
 
 (4) Where a licence issued by the Director pursuant to an order made under section 16 is revoked or has expired, the licensee shall eradicate and destroy all or any of the prohibited plants planted or cultivated or maintained in pursuance thereof and any prohibited plant not eradicated and destroyed shall be deemed to have been grown in contravention of section 16.
 
-(5) Notwithstanding subsection (2), a permit issued pursuant to section 7(2) may be revoked without notice by the Director.
+### Appeals
+
+31A\.—(1) Any person who is aggrieved by —
+
+(a) the refusal of the Director to issue or renew a licence or permit under section 30;
+
+(b) the decision of the Director to suspend or revoke a licence or permit under section 31,
+
+may, within 7 days of the receipt of the notice informing him of the refusal, suspension or revocation, as the case may be, appeal in writing to the Minister whose decision shall be final.
+
+(2) Notwithstanding the pendency of any appeal under subsection (1) in respect of the suspension or revocation of a licence or permit, such suspension or revocation shall , unless the Minister otherwise orders, take effect from the date specified by the Director therefor.
+
+[32/98 wef 08/01/1999]
 
 ## PART VIII
 
@@ -466,9 +662,9 @@ MISCELLANEOUS
 
 32\. Any person who —
 
-(a) contravenes or fails to comply with section 6, 8, 9(1), 11, 12(1), 12(2), 21(2) or 39; or
+(a) contravenes or fails to comply with section 11, 12(1), 12(2), 21(2) or 39; or
 
-(b) contravenes or fails to comply with any order made by the Minister under section 7, 16 or 27,
+(b) contravenes or fails to comply with any order made by the Minister under section 16 or 27,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -480,9 +676,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 34\. Where an offence under this Act or any rules made thereunder is committed by any person acting as the agent or servant of another person, or being otherwise subject to the supervision or instructions of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under this Act or any rules made thereunder in the same manner and to the same extent as if he had personally committed the offence if it is proved that the act which constituted the offence was committed with his consent or connivance or that it was attributable to any neglect on his part.
 
-### General powers of agricultural officers
+### General powers of authorised officers
 
-35\.—(1) For the purpose of ascertaining whether any offence under this Act or any rules made thereunder has been or is being committed, any agricultural officermay, on producing, if so requested, an identification card —
+35\.—(1) For the purpose of ascertaining whether any offence under this Act or any rules made thereunder has been or is being committed, any authorised officer may, on producing, if so requested, an identification card —
 
 (a) enter and inspect any land or premises and examine any plant, plant product, package, soil or article thereon at all reasonable times;
 
@@ -494,7 +690,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (e) break open any hold, compartment or container or other receptacle including any place that could be used as a receptacle.
 
-(2) The owner or occupier of any land, premises or conveyance shall, if requested by an agricultural officer, provide reasonable assistance to the agricultural officer for the purpose of the exercise of his powers under this section and furnish any information relating to the land or premises which is reasonably required by the agricultural officer for the purposes of the discharge of his duties under this Act.
+(2) The owner or occupier of any land, premises or conveyance shall, if requested by an authorised officer, provide reasonable assistance to the authorised officer for the purpose of the exercise of his powers under this section and furnish any information relating to the land or premises which is reasonably required by the authorised officer for the purposes of the discharge of his duties under this Act.
 
 (3) A police officer may arrest without warrant any person who has committed or whom he reasonably suspects to have committed an offence under this Act or any rules made thereunder —
 
@@ -504,23 +700,25 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) A person arrested under this section may be detained until his name and address are correctly ascertained except that no person shall be detained longer than is necessary for bringing him before a court.
 
-(5) Any person who obstructs or hinders any agricultural officer in the exercise of any of his powers under this Act or any rules made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+(5) Any person who obstructs or hinders any authorised officer in the exercise of any of his powers under this Act or any rules made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 ### Power to label for identification
 
-36\.—(1) Any agricultural officer may, where he considers it necessary for the purposes of identification, label permanently or temporarily, any consignment of plants or plant products.
+36\.—(1) Any authorised officer may, where he considers it necessary for the purposes of identification, label permanently or temporarily, any consignment of plants or plant products.
 
 (2) Any person who wilfully counterfeits, alters, defaces, erases or removes any such label shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-### Power to take samples
+### Power to take samples for analysis
 
-37\.—(1) Any agricultural officer may, for the purpose of ascertaining the levels of pesticide residue or toxic chemical residue contained in any fresh fruit or vegetable, enter any premises, at all reasonable times, to take, without payment, any reasonable sample of fresh fruits and vegetables for analysis and detain the whole lot from which the sample is taken under normal storage conditions until a report of the result of the analysis is obtained.
+37\.—(1) An authorised officer may, for the purposes of ascertaining the presence of prohibited pesticide residue, and the levels of pesticide residue or toxic chemical residue, contained in any fresh fruit or vegetable, enter any premises at all reasonable times to take, without payment, any reasonable sample of fresh fruits and vegetables for analysis by an authorised analyst and detain the whole lot from which the sample is taken under normal storage conditions until a report of the result of the analysis is obtained.
 
-(2) Any report issued under subsection (1) which is signed by a Scientific Officer shall be admissible as conclusive evidence of the facts stated therein in any proceedings under this Act or any rules made thereunder.
+(2) A report of the result of an analysis which is signed by an authorised analyst shall be admissible in evidence in any proceedings under this Act or any rules made thereunder and, in the absence of evidence to the contrary, is proof of the matters stated in the report.
 
-### Power to dispose of, etc., fresh fruits and vegetables
+[32/98 wef 08/01/1999]
 
-38\.—(1) Where any sample of fresh fruits or vegetables is determined by a Scientific Officer to contain pesticide residue or toxic chemical residue exceeding the prescribed levels, the Director may, in his discretion, cause the whole lot of fresh fruits or vegetables from which the sample is taken, to be —
+### Power to dispose of, etc.,fresh fruits and vegetables
+
+38\.—(1) Where any sample of fresh fruits or vegetables is determined by an authorised analyst to contain any prohibited pesticide residue, or any pesticide residue or toxic chemical residue exceeding the prescribed levels, the Director may, in his discretion, cause the whole lot of fresh fruits or vegetables from which the sample is taken, to be —
 
 (a) re-exported or returned to its place of origin;
 
@@ -560,7 +758,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Protection from liability
 
-43\. No suit or other legal proceedings shall lie against the Director or any agricultural officerin respect of anything done or omitted to be done in the discharge of their duties under this Act or any rules made thereunder unless the thing was done or omitted to be done in bad faith.
+43\. No suit or other legal proceedings shall lie against the Director or any authorised officer in respect of anything done or omitted to be done in the discharge of their duties under this Act or any rules made thereunder unless the thing was done or omitted to be done in bad faith.
 
 ### Power to compound
 
@@ -580,11 +778,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Without prejudice to the generality of subsection (1), rules may be made —
 
-(a) providing for the powers and duties of the agricultural officers appointed under this Act;
+(a) providing for the powers and duties of the authorised officers appointed under this Act;
 
 (b) providing for matters relating to registration, licensing, certification and the issue of permits;
 
-(c) prescribing the procedure, condition or location for the import of any fresh fruit and vegetable;
+(c) prescribing the procedure, condition or location for the import or transhipment of any fresh fruit and vegetable;
+
+(ca) providing for matters relating to the taking of samples of fresh fruits and vegetables under section 37 for analysis, and for matters relating to such analysis;
+
+[32/98 wef 08/01/1999]
+
+(cb) prescribing the qualifications and practical experience of an authorised analyst;
+
+[32/98 wef 08/01/1999]
+
+(cc) prescribing the sanitary standards referred to in section 7(1)(d);
+
+[32/98 wef 08/01/1999]
 
 (d) providing for the inspection, observation, detention, identification, treatment, destruction, reshipment or disposal of any plant or plant product;
 
@@ -624,17 +834,21 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) The Minister may, in any rules made under this Act, provide that any contravention of or failure to comply with any provision thereof shall be an offence and may prescribe a penalty for any such offence of a fine not exceeding $10,000 or imprisonment for a term not exceeding 3 years or both.
 
-### Transitional provision
+### Saving of licences and permits
 
-47\. Any licence, permit, certificate or any other document issued, made or granted under the repealed Agricultural Pests Act, the Controlled Plants Act or the Export of Plants (Control) Act [Cap. 101] which is in force immediately before 18th February 1994 —
+47\. Any licence or permit issued under the repealed section 30 of this Act in force immediately before the date of commencement of the Control of Plants (Amendment) Act 1998, being a licence or permit which is in force immediately before that date —
 
-(a) shall have effect as from that date as if issued, made or granted under this Act; and
+(a) shall have effect from that date as if issued under section 30; and
 
-(b) in the case of any licence, permit, certificate or other document for a specified period, shall remain in force, subject to the provisions of this Act, for so much of that period as remains after that date.
+(b) in the case of any licence or permit for a specified period, shall remain in force, subject to the provisions of this Act, for so much of that period as remains after that date.
 
-### Saving of appointments of agricultural officers
+[32/98 wef 08/01/1999]
 
-48\. Any person appointed as an agricultural officer under the repealed Agricultural Pests Act shall continue to be an agricultural officer under this Act as if that person had been appointed under section 3 of this Act on the same terms and conditions for a term expiring on the day on which his previous appointment would otherwise expire.
+### Agricultural officers to be deemed authorised officers
+
+48\. Any person who immediately before the date of commencement of the Control of Plants (Amendment) Act 1998 is an agricultural officer under this Act in force immediately before that date shall be deemed to be an authorised officer as if that person had been appointed under section 3 on the same terms and conditions for a term expiring on the day on which his previous appointment would otherwise expire.
+
+[32/98 wef 08/01/1999]
 
 ## LEGISLATIVE HISTORY
 
@@ -653,3 +867,8 @@ This Legislative History is provided for the convenience of users of the Control
 ||Date of commencement|18 February 1994|
 |2.|**1994 Revised Edition—Control of Plants Act**|
 ||Date of operation|15 March 1994|
+|3.|**Act 32 of 1998—Control of Plants (Amendment) Act 1998**|
+||Date of First Reading|29 June 1998|
+|||(Bill No. 31/98 published on 30 June 1998)|
+||Date of Second and Third Readings|31 July 1998|
+||Date of commencement|8 January 1999|
