@@ -2958,6 +2958,8 @@ Boron trifluoride
 
 Bromine; Bromine solutions
 
+Bromodichlorofluoromethane (Halon 1211) in fire extinguishers
+
 Bromotrifluoromethane (Halon 1301, CF
 
 3
@@ -3366,7 +3368,7 @@ Vinyl bromide
 
 Vinyl chloride monomer
 
-[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991; S 9/1993; S 172/1993; S 12/1994]
+[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991; S 9/1993; S 172/1993; S 12/1994; S 147/1994]
 
 ## LEGISLATIVE HISTORY
 
@@ -3520,3 +3522,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 July 1993|
 |58.|**G. N. No. S 12/1994—Poisons Act (Amendment of Schedule) Notification 1994**|
 ||Date of commencement|1 February 1994|
+|59.|**G. N. No. S 147/1994—Poisons Act (Amendment of Schedule) (No. 2) Notification 1994**|
+||Date of commencement|15 April 1994|
