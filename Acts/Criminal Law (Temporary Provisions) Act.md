@@ -856,3 +856,5 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of operation|30 March 1987|
 |28.|**G. N. No. S 130/1989—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) Notification 1989**|
 ||Date of commencement|7 April 1989|
+|29.|**G. N. No. S 318/1989—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) |(No. 2) Notification 1989**|
+||Date of commencement|28 July 1989|
