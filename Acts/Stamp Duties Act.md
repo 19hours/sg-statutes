@@ -18,7 +18,7 @@
 
 [**Liability of instruments to duty**](#Liability-of-instruments-to-duty)
 
-- [4 Instruments chargeable with duty](#Instruments-chargeable-with-duty)
+- [4 Instrument chargeable with duty](#Instrument-chargeable-with-duty)
 
 [**Payment of duty**](#Payment-of-duty)
 
@@ -26,11 +26,19 @@
 
 - [6 Instrument relating to distinct matters](#Instrument-relating-to-distinct-matters)
 
+- [6A How duties are denoted](#How-duties-are-denoted)
+
+- [6B E-Stamping system](#E-Stamping-system)
+
+- [6C Electronic assessment and stamping of instruments](#Electronic-assessment-and-stamping-of-instruments)
+
+- [6D Electronic funds transfer of duty](#Electronic-funds-transfer-of-duty)
+
 - [7 Mode of payment](#Mode-of-payment)
 
 - [8 Franking of certain instruments](#Franking-of-certain-instruments)
 
-- [9 Composition of duty on receipts](#Composition-of-duty-on-receipts)
+- [9 Composition of duty](#Composition-of-duty)
 
 - [10 How instruments are to be written and stamped](#How-instruments-are-to-be-written-and-stamped)
 
@@ -66,7 +74,7 @@
 
 - [22B Exempted instruments made on or after 15th May 1996](#Exempted-instruments-made-on-or-after-15th-May-1996)
 
-- [23 Sale of annuity or right not before in existence](#Sale-of-annuity-or-right-not-before-in-existence)
+- [23 (Repealed)](#Repealed)
 
 - [24 What is to be deemed a conveyance, not being a sale or mortgage](#What-is-to-be-deemed-a-conveyance-not-being-a-sale-or-mortgage)
 
@@ -76,17 +84,19 @@
 
 - [27 Directions as to duty upon mortgages, etc.](#Directions-as-to-duty-upon-mortgages-etc)
 
-- [28 Settlement of policy of life insurance](#Settlement-of-policy-of-life-insurance)
+- [28 (Repealed)](#Repealed)
 
 - [29 Security for future advances, how to be charged](#Security-for-future-advances-how-to-be-charged)
 
 - [30 Certain mortgages of stock to be exempt from duty](#Certain-mortgages-of-stock-to-be-exempt-from-duty)
 
-- [31 Directions as to sea policy](#Directions-as-to-sea-policy)
+- [31 (Repealed)](#Repealed)
 
-- [32 Legal alteration in policies may be made](#Legal-alteration-in-policies-may-be-made)
+- [32 (Repealed)](#Repealed)
 
 - [33 Directions as to certain contract notes](#Directions-as-to-certain-contract-notes)
+
+- [33A Comptroller may disregard certain transactions and dispositions](#Comptroller-may-disregard-certain-transactions-and-dispositions)
 
 [**Part IV LIABILITY FOR PAYMENT OF DUTY**](#Part-IV)
 
@@ -100,9 +110,11 @@
 
 - [37 Mode of adjudication as to proper stamp duty](#Mode-of-adjudication-as-to-proper-stamp-duty)
 
-- [38 Certificate by Commissioner](#Certificate-by-Commissioner)
+- [38 Certificate of adjudication by Commissioner](#Certificate-of-adjudication-by-Commissioner)
 
 - [39 Exception to sections 37 and 38](#Exception-to-sections-37-and-38)
+
+- [39A Notice of objection](#Notice-of-objection)
 
 - [40 Appeal to High Court](#Appeal-to-High-Court)
 
@@ -126,7 +138,7 @@
 
 - [49 Persons liable to penalty](#Persons-liable-to-penalty)
 
-- [50 Penalty, how recoverable](#Penalty-how-recoverable)
+- [50 Suit for recovery of duty, etc., by Commissioner](#Suit-for-recovery-of-duty-etc-by-Commissioner)
 
 [**Part VII INSTRUMENTS NOT DULY STAMPED**](#Part-VII)
 
@@ -156,13 +168,15 @@
 
 - [61 Not cancelling adhesive stamps](#Not-cancelling-adhesive-stamps)
 
-- [62 Penalty for not setting forth all the facts and circumstances](#Penalty-for-not-setting-forth-all-the-facts-and-circumstances)
+- [62 Penalty for evasion of duty](#Penalty-for-evasion-of-duty)
 
-- [63 Penalty for executing and signing documents not duly stamped](#Penalty-for-executing-and-signing-documents-not-duly-stamped)
+- [63 Penalty for executing instruments not duly stamped, etc.](#Penalty-for-executing-instruments-not-duly-stamped-etc)
 
-- [64 Penalty for not making out policy other than on sea insurance or making one not duly stamped](#Penalty-for-not-making-out-policy-other-than-on-sea-insurance-or-making-one-not-duly-stamped)
+- [64 Penalties relating to stamp certificates, etc.](#Penalties-relating-to-stamp-certificates-etc)
 
-- [65 Penalty for assuring on sea insurance unless under policy duly stamped and for making or issuing pretended copies](#Penalty-for-assuring-on-sea-insurance-unless-under-policy-duly-stamped-and-for-making-or-issuing-pretended-copies)
+- [65 Penalty for obstructing Commissioner and similar offences](#Penalty-for-obstructing-Commissioner-and-similar-offences)
+
+- [65A General penalty](#General-penalty)
 
 - [66 Penalty for enrolling, etc., instrument not duly stamped](#Penalty-for-enrolling-etc-instrument-not-duly-stamped)
 
@@ -170,11 +184,19 @@
 
 - [68 Institution and conduct of prosecution](#Institution-and-conduct-of-prosecution)
 
+- [68A Service of summons](#Service-of-summons)
+
 [**Part X MISCELLANEOUS**](#Part-X)
 
 - [69 Books, etc., in the custody of public officers may be inspected without fee](#Books-etc-in-the-custody-of-public-officers-may-be-inspected-without-fee)
 
 - [70 Power to declare agents](#Power-to-declare-agents)
+
+- [70A Recovery of duty from deceased individual](#Recovery-of-duty-from-deceased-individual)
+
+- [70B Company wound-up](#Company-wound-up)
+
+- [70C Power to call for any instruments, books, accounts or other records](#Power-to-call-for-any-instruments-books-accounts-or-other-records)
 
 - [71 Commissioner may require declaration, etc.](#Commissioner-may-require-declaration-etc)
 
@@ -182,7 +204,7 @@
 
 - [73 Responsibility for loss or damage](#Responsibility-for-loss-or-damage)
 
-- [74 Power to reduce, remit or compound duties](#Power-to-reduce-remit-or-compound-duties)
+- [74 Power to reduce or remit duties](#Power-to-reduce-or-remit-duties)
 
 - [75 Refund and repayment of duty](#Refund-and-repayment-of-duty)
 
@@ -197,6 +219,10 @@
 [**SECOND SCHEDULE Instruments Which May be Stamped With Impressed or Adhesive Stamps**](#SECOND-SCHEDULE-Instruments-Which-May-be-Stamped-With-Impressed-or-Adhesive-Stamps)
 
 [**THIRD SCHEDULE Stamp Duty Payable by Whom**](#THIRD-SCHEDULE-Stamp-Duty-Payable-by-Whom)
+
+[**FOURTH SCHEDULE Adjudication Fees**](#FOURTH-SCHEDULE-Adjudication-Fees)
+
+[**FIFTH SCHEDULE Valuation Fees**](#FIFTH-SCHEDULE-Valuation-Fees)
 
 [**Legislative History**](#Legislative-History)
 
@@ -232,17 +258,25 @@ PRELIMINARY
 
 “Commissioner” means the Commissioner of Stamp Duties appointed under this Act;
 
-“continuation clause” in a policy of sea insurance made for time means an agreement to the following or the like effect, namely, that in the event of the ship being at sea or the voyage otherwise not completed on the expiration of the policy, the subject-matter of the insurance shall be held covered until the arrival of the ship, or for a reasonable time thereafter not exceeding 30 days;
-
 “contract note” means the note sent by a broker or agent to his principal, or by any person who by way of business deals, or holds himself out as dealing, as a principal, in any stock or marketable securities, advising the principal, or the vendor or purchaser, as the case may be, of the sale or purchase of any stock or marketable security, but does not include a note sent by a broker or agent to his principal where the principal is himself acting as broker or agent for a principal and is himself a person who bona fide carries on the business of a stockbroker in Singapore;
 
 “conveyance on sale” includes every instrument and every decree or order of any court, whereby any property, or any estate or interest in any property, upon the sale thereof is transferred to or vested in a purchaser or any other person on his behalf or by his direction;
 
 “die” includes any plate, type, tool or implement whatever used under the direction of the Commissioner for expressing or denoting any duty, or rate of duty, or the fact that any duty or rate of duty or penalty has been paid, or that an instrument is duly stamped, or is not chargeable with any duty, or for denoting any fee, and also any part of any such plate, type, tool or implement;
 
-“duly stamped”, as applied to an instrument, means that the instrument bears an adhesive or impressed stamp of not less than the proper amount and that such stamp has been affixed or used in accordance with the law for the time being in force in Singapore;
+“duly stamped”, as applied to an instrument chargeable with duty, means —
+
+(a) that the instrument bears an adhesive or impressed stamp of not less than the proper amount, and that stamp has been affixed in accordance with the provisions of this Act for the time being in force at the time of stamping; or
+
+(b) that the instrument, if stamped using the E-Stamping system, has attached to it a stamp certificate issued for the instrument by the Commissioner in accordance with the provisions of this Act for the time being in force at the time of stamping;
+
+[33/99 wef 01/09/1999]
 
 “duty” means any stamp duty for the time being chargeable under this Act or any other Act;
+
+“E-Stamping system” means the computer service established under section 6B;
+
+[33/99 wef 01/09/1999]
 
 “equitable mortgage” means an agreement or memorandum under hand only, relating to the deposit of any title deeds or instruments constituting or being evidence of the title to any property whatever (other than stock or marketable securities), or creating a charge on such property;
 
@@ -280,15 +314,11 @@ PRELIMINARY
 
 “paper” includes every material upon which words or figures can be expressed;
 
-“policy of insurance” includes every writing whereby any contract of insurance is made or agreed to be made or is evidenced, and “insurance” includes assurance;
+“proper officer” means the Commissioner of Stamp Duties and such other officer as may be authorised by him to impress stamps or to issue stamp certificates;
 
-“policy of sea insurance” —
+“registered person” means a person approved under section 6B to be a registered user of the E-Stamping system;
 
-(a) means any insurance, including reinsurance, made upon any ship or vessel, whether for marine or inland navigation, or upon the machinery, tackle or furniture of any ship or vessel or upon any goods, merchandise or property of any description whatever on board of any ship or vessel or upon the freight of or any other interest which may be lawfully insured in or relating to any ship or vessel; and
-
-(b) includes any insurance of goods, merchandise or property for any transit which includes, not only a sea risk under paragraph (a), but also any other risk incidental to the transit insured from the commencement of the transit to the ultimate destination covered by the insurance;
-
-“proper officer” means the Commissioner of Stamp Duties and such other officer as may be authorised by him to impress stamps ;
+[33/99 wef 01/09/1999]
 
 “residential property” means —
 
@@ -300,6 +330,10 @@ and shall include any estate or interest therein;
 
 “settlement” means any non-testamentary disposition in writing whether made voluntarily or upon a good or valuable consideration other than a bona fide pecuniary consideration whereby any definite and certain property is settled or agreed to be settled in any manner for any purpose whatsoever;
 
+“stamp certificate” means a certificate that is issued electronically in respect of any instrument chargeable with duty denoting the amount of duty payable in respect of that instrument or that the duty otherwise chargeable in respect of that instrument is remitted;
+
+[33/99 wef 01/09/1999]
+
 “stock” includes any share in the capital stock or funded debt of a company, corporation or society in Singapore or elsewhere and stocks or funds of the Government or of any other government or country.
 
 [38/75; 14/83; 26/96]
@@ -310,6 +344,10 @@ and shall include any estate or interest therein;
 
 [38/75]
 
+(1A) Every Deputy Commissioner of Stamp Duties shall have and may exercise all the powers of the Commissioner under the provisions of this Act except sections 3(2), 40(2) and 68(1).
+
+[33/99 wef 01/09/1999]
+
 (2) The Commissioner may, subject to such conditions or restrictions as he thinks fit, delegate to any person having official duty or employed in the administration of this Act, all or any of the powers, functions and duties by this Act vested in him.
 
 ## PART II
@@ -318,17 +356,19 @@ PROVISIONS APPLICABLE TO INSTRUMENTS GENERALLY
 
 Liability of instruments to duty
 
-### Instruments chargeable with duty
+### Instrument chargeable with duty
 
-4\.—(1) Subject to the provisions of this Act and subject to the exemptions in this Act and in any other Act for the time being in force, the following instruments shall be chargeable with duty of the amounts indicated in the First Schedule as the proper duty for them respectively:
+4\.—(1) Subject to the provisions of this Act and any other written law, every instrument mentioned in the First Schedule, being an instrument —
 
-(a) every instrument mentioned in that Schedule which, not having been previously executed by any person, is executed in Singapore;
+(a) which, not having been previously executed by any person, is executed in Singapore; or
 
-(b) every instrument mentioned in that Schedule, which is executed outside Singapore, and relates to any property situate, or to any matter or thing done or to be done, in Singapore, and is received in Singapore.
+(b) which is executed outside Singapore, and relates to any property situate, or to any matter or thing done or to be done, in Singapore, and is received in Singapore,
 
-[38/75; 14/83; 26/96]
+shall be chargeable with duty of the amount specified in that Schedule as the proper duty for that instrument.
 
-(2) Nothing in this Act shall render liable to additional duty any instrument on which duty is expressly imposed under the provisions of any other law in force in Singapore.
+(2) All instruments chargeable with duty shall be duly stamped.
+
+[33/99 wef 01/09/1999]
 
 Payment of duty
 
@@ -344,11 +384,67 @@ Payment of duty
 
 (b) an instrument made for any consideration in respect of which it is chargeable with ad valorem duty, and also for any further or other valuable consideration or considerations, shall be separately and distinctly charged, as if it were a separate instrument with duty in respect of each of the considerations.
 
+### How duties are denoted
+
+6A\. Except where express provision is made to the contrary in this Act, all duties chargeable on any instrument shall be paid and denoted by attaching to the instrument a stamp certificate relating to the instrument.
+
+[33/99 wef 01/09/1999]
+
+### E-Stamping system
+
+6B\.—(1) The Commissioner may establish or operate a computer service known as the E-Stamping system that enables a registered person, in accordance with the arrangements made under this section —
+
+(a) to obtain an assessment of stamp duty (and any penalty) on an instrument;
+
+(b) to pay stamp duty (and any penalty) on an instrument by electronic funds transfer in accordance with the assessment; and
+
+(c) to stamp the instrument by attaching a stamp certificate to it which bears an authorisation number issued for the instrument and such other particulars as are determined by the Commissioner,
+
+without the need for the instrument to be presented to the Commissioner or a proper officer in charge of the stamp office.
+
+(2) Any person may apply to the Commissioner to register to use the E-Stamping system.
+
+(3) The Commissioner may refuse an application made under subsection (2) or approve the registration of the applicant subject to such terms as he thinks fit.
+
+(4) An approval may be amended at any time by agreement between the Commissioner and the registered person or by written notice given by the Commissioner to the registered person.
+
+(5) An approval granted under subsection (3) shall remain in force until it is cancelled by the Commissioner or until the registered person surrenders the approval.
+
+(6) The Commissioner may, by written notice, cancel an approval at any time for any reason.
+
+(7) The Commissioner may, with the approval of the Minister —
+
+(a) determine the information and particulars that may be electronically transmitted under the E-Stamping system, including the form and manner they are to be transmitted;
+
+(b) determine the procedure for use of the E-Stamping system, including the procedure in circumstances where there is a breakdown or interruption in the computer service; and
+
+(c) generally do such other things for the better provision of the computer service.
+
+[33/99 wef 01/09/1999]
+
+### Electronic assessment and stamping of instruments
+
+6C\.—(1) For the purposes of this Act, the issue, using the E-Stamping system, of a stamp certificate for an instrument shall comprise an assessment of the duty (and any penalty) in relation to the instrument.
+
+(2) A registered person must, on receipt of a stamp certificate issued for the instrument by the Commissioner, forthwith attach the stamp certificate to the instrument.
+
+[33/99 wef 01/09/1999]
+
+### Electronic funds transfer of duty
+
+6D\.—(1) Every registered person shall, for the purposes of the E-Stamping system, open an electronic banking facility with a bank to enable the transfer of funds from his designated account with the bank to an account specified by the Commissioner.
+
+(2) The Commissioner shall, on issuing to a registered person a stamp certificate in respect of any instrument that is chargeable with duty, forthwith deduct through electronic funds transfer the full amount of duty chargeable from the designated account of the registered person.
+
+(3) Nothing in subsection (2) shall require the Commissioner to deduct any moneys from the designated account of the registered person if the funds in that designated account are less than the full amount of duty chargeable on the instrument.
+
+[33/99 wef 01/09/1999]
+
 ### Mode of payment
 
 7\.—(1) The duties for the time being chargeable upon any of the instruments specified in the Second Schedule may be paid and denoted by either impressed or adhesive stamps.
 
-(2) Subject to subsection (1), duties for the time being chargeable are to be paid and denoted by impressed stamps, and no instrumentrequiring an impressed stamp shall be deemed to be duly stamped unless it has been stamped in the manner prescribed in this section.
+(2) Subject to subsection (1), duties for the time being chargeable may be paid and denoted by impressed stamps, and no instrument, the duty upon which is permitted to be denoted by an impressed stamp, shall be deemed to be duly stamped unless it has been stamped in the manner prescribed in this section.
 
 (3) The officer in charge of any stamp office authorised by the Commissioner to issue impressed stamps shall, on presentation to him at his office of any instrument for the purpose of being stamped with an impressed stamp, affix to the instrument an impressed stamp or stamps denoting the amount of duty paid.
 
@@ -364,11 +460,11 @@ Payment of duty
 
 (6) In the case of the instruments specified in the second column of the Second Schedule, the persons mentioned in the third column of that Schedule are the persons required to cancel the adhesive stamps.
 
-(7) No stamps other than stamps of Singapore shall be used for payment of duty upon any instrument chargeable with duty under this Act.
+(7) Subject to section 6A, no stamps other than stamps of Singapore shall be used for payment of duty upon any instrument chargeable with duty under this Act.
 
 ### Franking of certain instruments
 
-8\.—(1) Notwithstanding anything in this Act, it shall be lawful for the Commissioner by licence under his hand to authorise any person to pay, by means of a postal franking machine, the duty on a policy of insurance, contract note or any other instrument included in the Second Schedule which may from time to time be specified by the Minister by notification in theGazette.
+8\.—(1) Notwithstanding anything in this Act, it shall be lawful for the Commissioner by licence under his hand to authorise any person to pay, by means of a postal franking machine, the duty on any instrument included in the Second Schedule.
 
 [38/75; 14/83; 26/96]
 
@@ -380,19 +476,27 @@ Payment of duty
 
 (5) The franking of any of the above-mentioned instruments by any duly authorised person as provided for in this section if done in accordance with the terms of this section and of the licence shall have the same effect as cancelling an adhesive stamp on the date and to the value indicated by the franking.
 
-### Composition of duty on receipts
+### Composition of duty
 
-9\.—(1) Where the Commissioner is of the opinion that it is impracticable or inexpedient to require that duty payable under this Act should be charged and paid on each separate receipt issued by a statutory body in the course of its business, the Commissioner may authorise that statutory body to compound for the payment of duty on such receipts issued by it as may be specified in the order on the following conditions:
+9\.—(1) Where the Commissioner is of the opinion that it is impracticable or inexpedient to require that the duty payable under this Act should be charged and paid on each separate instrument, the Commissioner may by order authorise any person to compound the payment of duty on such instruments as may be specified in the order on the following conditions:
 
-(a) that the statutory body delivers to the Commissioner accounts on or before 7th January and 7th July in each year in such form and containing such particulars as the Commissioner may direct;
+(a) that the person delivers to the Commissioner accounts in respect of the instruments at a date to be specified by the Commissioner in such form and containing such particulars as the Commissioner may direct;
 
-(b) that on delivery of the accounts required under paragraph (a) the statutory body pays to the Commissioner the amount of duty due on the unstamped receipts; and
+(b) that, on delivery of the accounts required under paragraph (a), the person pays to the Commissioner the amount of duty due on all the instruments;
 
-(c) that the statutory body complies with such other requirements as the Commissioner may impose.
+(c) that the person endorses on each of the instruments specified in the order the words “Stamp Duty Paid” together with such other particulars as the Commissioner may specify; and
 
-[38/75]
+(d) that the person complies with such other requirements as the Commissioner may impose.
 
-(2) Receipts issued by a statutory body in respect of which payment of duty by way of composition has been made under this section shall, notwithstanding section 7, be deemed to be duly stamped.
+(2) The Commissioner may, if he thinks fit, waive any of the conditions in subsection (1).
+
+(3) Instruments in respect of which payment of duty by way of composition has been made under this section shall, notwithstanding any other provision of this Act, be deemed to be duly stamped.
+
+(4) The Commissioner may, by notice and for any reason he deems fit, cancel any authorisation granted under subsection (1) and shall, in such notice, specify the date from which the authorisation is cancelled.
+
+(5) Where a person fails or neglects to pay the whole of the amount of duty within the time required by subsection (1), he shall be liable to pay, in addition to the unpaid amount of duty, a penalty under section 46.
+
+[33/99 wef 01/09/1999]
 
 ### How instruments are to be written and stamped
 
@@ -402,11 +506,11 @@ Payment of duty
 
 ### Where duty chargeable depends on duty paid on another instrument
 
-11\. Where the duty with which an instrument is chargeable, or its exemption from duty, depends in any manner upon the duty actually paid in respect of another instrument, the payment of such last-mentioned duty shall, if application is made to the Commissioner for that purpose, and on production of both the instruments, be denoted upon such first-mentioned instrument by endorsement under the hand of the Commissioner or in such other manner, if any, as the Minister may by rules prescribe.
+11\. Where the duty with which an instrument is chargeable, or its exemption from duty, depends in any manner upon the duty actually paid in respect of another instrument, the payment of such last-mentioned duty may, if application is made to the Commissioner for that purpose, and on production of both the instruments, be denoted upon such first-mentioned instrument in such manner as the Minister may by rules prescribe.
 
 ### Counterparts
 
-12\. The duplicate or counterpart of an instrument chargeable with duty (except the counterpart of an instrument chargeable as a lease, such counterpart not being executed by or on behalf of any lessor or grantor) shall not be deemed duly stamped unless it is stamped as an original instrument, or unless it appears by a certificate endorsed thereon by the Commissioner that the full and proper duty has been paid upon the original instrument of which it is the duplicate or counterpart.
+12\. The duplicate or counterpart of an instrument chargeable with duty (except the counterpart of an instrument chargeable as a lease, such counterpart not being executed by or on behalf of any lessor or grantor) shall not be deemed duly stamped unless it is stamped as an original instrument, or unless it appears from the stamp certificate for the instrument that the instrument is a duplicate or counterpart.
 
 [4/81]
 
@@ -620,11 +724,27 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 (a) the vendor is unable to prove his title to the property;
 
-(b) a purchaser, being a foreign person, is unable to obtain approval under the Residential Property Act (Cap. 274) to acquire or purchase the property; or
+(b) a purchaser, being a foreign person, is unable to obtain approval under the Residential Property Act (Cap. 274) to acquire or purchase the property;
 
-(c) the property is acquired or is proposed for acquisition by any public authority pursuant to the provisions of any written law authorising or empowering the public authority to acquire land compulsorily.
+(c) the property is acquired or is proposed for acquisition by any public authority pursuant to the provisions of any written law authorising or empowering the public authority to acquire land compulsorily;
 
 [26/96]
+
+(d) the purchase of the property is conditional upon permission by the competent authority to develop or subdivide the property and such permission is refused;
+
+[33/99 wef 01/09/1999]
+
+(e) either vendor or purchaser fails to obtain the approval of any public authority to sell or purchase, as the case may be, the property;
+
+[33/99 wef 01/09/1999]
+
+(f) the Commissioner of Building Control made an order under section 24 of the Building Control Act (Cap. 29) in respect of the property; or
+
+[33/99 wef 01/09/1999]
+
+(g) a Strata Titles Board refused an application for the sale of the property under section 84A, 84D or 84E of the Land Titles (Strata) Act (Cap. 158).
+
+[33/99 wef 01/09/1999]
 
 (7) The refund under subsection (6) shall be made if and only if —
 
@@ -632,17 +752,35 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 (i) 6 months after the date of the stamp, or in the case of an executed instrument, after the date of the instrument;
 
-(ii) if the instrument is not dated, 6 months after the execution thereof; or
+(ii) if the instrument is not dated, 6 months after the execution thereof;
 
-(iii) such further time as the Commissioner may determine in the case of any instrument sent abroad for execution or when in unavoidable circumstances any instrument for which another has been substituted cannot be produced within that period; and
+(iii) in the case of a contract or agreement that is rescinded or annulled on the ground referred to in subsection (6)(g), 2 months after the refusal of a Strata Titles Board; or
 
-(b) in the case of an executed instrument no legal proceeding has been commenced in which the instrument could or would have been given or offered in evidence, and that the instrument is given up to be cancelled.
+[33/99 wef 01/09/1999]
 
-[26/96]
+(iv) such further time as the Commissioner may deem reasonable when, in unavoidable circumstances, the instrument cannot be produced within that period; and
+
+[33/99 wef 01/09/1999]
+
+(b) in the case of an executed instrument, the instrument is given up to be cancelled.
+
+[33/99 wef 01/09/1999]
 
 (8) Subject to the provisions of this Act, this section shall apply to instruments made on or after 15th May 1996.
 
 [26/96]
+
+(9) In this section —
+
+“Commissioner of Building Control” has the same meaning as in the Building Control Act (Cap. 29);
+
+“competent authority” has the same meaning as in the Planning Act (Cap. 232);
+
+“public authority” means the Housing and Development Board constituted by the Housing and Development Act (Cap. 129) or the Jurong Town Corporation constituted under the Jurong Town Corporation Act (Cap. 150);
+
+“Strata Titles Board” means a Strata Titles Board constituted under Part VI of the Land Titles (Strata) Act (Cap. 158).
+
+[33/99 wef 01/09/1999]
 
 ### Contracts and instruments chargeable as conveyances on sale of residential property
 
@@ -796,9 +934,7 @@ that contract or agreement shall be chargeable with duty under this Act as if it
 
 [26/96]
 
-### Sale of annuity or right not before in existence
-
-23\. Where upon the sale of any annuity or other right not before in existence such annuity or other right is not created by actual grant or conveyance, but is only secured by bond, warrant of attorney, covenant, contract or otherwise, the bond or other instrument, or some one of such instruments, if there are more than one, shall be charged with the same duty as an actual grant or conveyance, and shall for the purpose of this Act be deemed an instrument of conveyance on sale.
+23\. 
 
 ### What is to be deemed a conveyance, not being a sale or mortgage
 
@@ -812,9 +948,21 @@ that contract or agreement shall be chargeable with duty under this Act as if it
 
 25\.—(1) Where the consideration or any part of the consideration for which a lease is granted or agreed to be granted consists of any produce or other goods, the value of the produce or goods shall be deemed a consideration in respect of which the lease or agreement is chargeable with ad valorem duty.
 
-(2) Where it is stipulated that the value of the produce or goods is to amount at least to, or is not to exceed, a given sum, or where the lessee is specially charged with, or has the option of paying after any permanent rate of conversion, the value of the produce or goods shall, for the purpose of assessing the ad valorem duty, be estimated at such given sum, or according to such permanent rate.
+(2) If the rent or any other consideration payable by the lessee under a lease cannot be ascertained or estimated at the time that the lease is presented for stamping (whether because the consideration depends on some future contingency or for any other reason), the Commissioner may assess the duty payable based on the open market rent for the leased property as if the open market rent were the rate or average rate of rent per annum under the lease and there were no other consideration payable under the lease.
 
-(3) A lease or an agreement for a lease made either wholly or partially for any such consideration, if it contains a statement of the value thereof and is stamped in accordance with the statement, shall, so far as regards the subject-matter of the statement, be deemed duly stamped, unless it is otherwise shown that the statement is incorrect, and that the lease or agreement is in fact not duly stamped.
+[33/99 wef 01/09/1999]
+
+(3) If the consideration payable by the lessee under a lease can be ascertained or estimated at the time that the lease is presented for stamping but the duty that may be charged on the instrument (whether as a lease or a conveyance on sale or both) apart from this section is less than the duty that would be payable based on the open market rent for the property, the Commissioner may assess the duty payable based on the open market rent as if the open market rent were the rate or average rate of rent per annum under the lease and there were no other consideration payable under the lease.
+
+[33/99 wef 01/09/1999]
+
+(4) For the purposes of this section, the Commissioner may cause a valuation to be made by the Chief Valuer of any property that is the subject of a lease for the purpose of determining the open market rent for the property.
+
+[33/99 wef 01/09/1999]
+
+(5) In this section, “open market rent” for property means the consideration (including rent, payment for the hire of any furniture, chattels, fittings or equipment or for the provision of services, facilities or other things in connection with the property, and any other form of valuable consideration) that a lessee might reasonably be expected to pay under a lease of the property, if it were unoccupied and offered for renting, expressed as a rate of rent per annum.
+
+[33/99 wef 01/09/1999]
 
 ### Directions as to duty upon leases, etc.
 
@@ -834,17 +982,13 @@ that contract or agreement shall be chargeable with duty under this Act as if it
 
 (4) An instrument chargeable with ad valorem duty as a mortgage shall not be charged with any further duty by reason of the equity of redemption in the mortgaged property being thereby conveyed or limited in any other manner than to a purchaser, or in trust for, or according to the direction of, a purchaser.
 
-### Settlement of policy of life insurance
-
-28\. Where any money which may become due or payable upon any policy of life insurance is settled or agreed to be settled, the instrument whereby the settlement is made or agreed to be made shall be charged with ad valorem duty in respect of that money, except that where no provision is made for keeping up the policy, the ad valorem duty shall be charged only on the value of the policy at the date of the instrument.
+28\. 
 
 ### Security for future advances, how to be charged
 
 29\.—(1) A security for the payment or repayment of money to be lent, advanced or paid, or which may become due upon an account current either with or without money previously due, shall be charged, where the total amount secured or to be ultimately recoverable is in any way limited, with the same duty as a security for the amount so limited.
 
 (2) Where such total amount is unlimited, the security is to be available for such an amount only as the ad valorem duty impressed thereon extends to cover; but where any advance or loan is made in excess of the amount covered by that duty the security shall for the purpose of stamp duty be deemed to be a new and separate instrument bearing date on the day on which the advance or loan is made.
-
-(3) No money to be advanced for the insurance of any property comprised in the security against damage by fire, or for keeping up any policy of life insurance comprised in the security, or for effecting in lieu thereof any new policy, shall be reckoned as forming part of the amount in respect of which the security is chargeable with ad valorem duty.
 
 ### Certain mortgages of stock to be exempt from duty
 
@@ -858,45 +1002,37 @@ that contract or agreement shall be chargeable with duty under this Act as if it
 
 (3) The transfer referred to in subsection (2) is duly stamped for the purpose of this section if stamped with the duty of $10.
 
-(4) A release or discharge of any such instrument shall be exempt from duty.
+31\. 
 
-### Directions as to sea policy
-
-31\.—(1) No contract for sea insurance, other than such insurance as is referred to in section 139 of the Merchant Shipping Act (Cap. 179) shall be valid unless it is expressed in a sea policy.
-
-[26/96]
-
-(2) No policy of sea insurance made for time shall be made for any time exceeding 12 months.
-
-(3) No policy of sea insurance shall be valid unless it specifies the particular risk or adventure, or the time for which it is made, the names of the subscribers or underwriters, and the amount or amounts insured.
-
-(4) Where any sea insurance is made for or upon a voyage and also for time, or to extend to or cover any time beyond 30 days after the ship shall have arrived at her destination and been there moored at anchor, the policy shall be charged with duty as a policy for or upon a voyage and also with duty as a policy for time.
-
-(5) Notwithstanding anything in this section, a policy of sea insurance made for time may contain a continuation clause, and such a policy shall not be invalid on the ground only that by reason of the continuation clause it may become available for a period exceeding 12 months.
-
-(6) There shall be charged on a policy of sea insurance containing a continuation clause as defined in this Act the stamp duty mentioned in the First Schedule in addition to the stamp duty which is otherwise chargeable on the policy.
-
-(7) If the risk covered by the continuation clause attaches and a new policy is not issued covering the risk, the continuation clause shall be deemed to be a new and separate contract of sea insurance expressed in the policy in which it is contained, but not covered by the stamp thereon, and the policy shall be stamped in respect of that contract accordingly, but may be so stamped without penalty at any time not exceeding 30 days after the risk has so attached.
-
-(8) Where any person, in consideration of any sum of money paid or to be paid for additional freight or otherwise, agrees to take upon himself any risk attending goods, merchandise or property of any description whatever while on board of any ship or vessel, or engages to indemnify the owner of any such goods, merchandise or property from any risk, loss or damage, the agreement or engagement shall be deemed to be a contract for sea insurance.
-
-### Legal alteration in policies may be made
-
-32\. Nothing in this Act shall prohibit the making of any alteration which may lawfully be made in the terms and conditions of any policy of sea insurance after the policy has been underwritten where —
-
-(a) the alteration is made before notice of the determination of the risk originally insured;
-
-(b) it does not prolong the time covered by the insurance thereby made beyond the period of 6 months in the case of a policy made for a less period than 6 months, or beyond the period of 12 months in the case of a policy made for a greater period than 6 months;
-
-(c) the articles insured remain the property of the same person or persons; and
-
-(d) no additional or further sum is insured by reason or means of the alteration.
+32\. 
 
 ### Directions as to certain contract notes
 
 33\.—(1) Where a contract note is a continuation or carrying over note made for the purpose of continuing or carrying over any transaction for the sale or purchase of stock or marketable securities, the contract note, although it is made in respect of both a sale and purchase, shall be charged with duty under this section as if it related to one of those transactions only, and, if different rates of duty are chargeable in respect of those transactions, to that one of those transactions which would render the contract note chargeable at the highest rate.
 
 (2) Where a contract note advises the sale or purchase of more than one description of stock or marketable security, the note shall be deemed to be as many contract notes as there are descriptions of stocks or securities sold or purchased.
+
+### Comptroller may disregard certain transactions and dispositions
+
+33A\.—(1) Where the Commissioner is satisfied that the purpose or effect of any arrangement is, directly or indirectly —
+
+(a) to alter the incidence of any duty which is payable or which would otherwise have been payable by any person;
+
+(b) to relieve any person from any liability to pay duty; or
+
+(c) to reduce or avoid any liability imposed or which would otherwise have been imposed on any person by this Act,
+
+the Commissioner may, without prejudice to such validity as it may have in any other respect or for any other purpose, disregard or vary the arrangement and make such adjustments as he considers appropriate, including the amount of duty payable, or the imposition of liability to duty, so as to counteract any reduction in or avoidance of duty payable by that person from or under that arrangement.
+
+(2) In this section, “arrangement” means any scheme, trust, grant, covenant, agreement, disposition, transaction and includes all steps by which it is carried into effect.
+
+(3) This section shall not apply to —
+
+(a) any arrangement made or entered into before the date of commencement of section 15 of the Stamp Duties (Amendment) Act 1999; or
+
+(b) any arrangement carried out for bona fide commercial reasons and had not as one of its main purpose the avoidance or reduction of duty.
+
+[33/99 wef 01/09/1999]
 
 ## PART IV
 
@@ -918,29 +1054,13 @@ LIABILITY FOR PAYMENT OF DUTY
 
 (a) any instrument executed by or on behalf of or in favour of the Government in cases where, but for this exemption, the Government would be liable to pay the duty chargeable in respect of that instrument;
 
-(b) any instrument for the sale, transfer or other disposition, either absolutely or by way of mortgage or otherwise, of any ship or vessel, or any part, interest, share or property of or in any ship or vessel;
-
 (c) any instrument for the sale, transfer, lease or other disposition, either absolutely or by way of mortgage or otherwise, of land situate outside Singapore or any share, estate or interest in land situate outside Singapore;
 
 (d) any instrument which relates exclusively to things to be done outside Singapore;
 
-(e) any instrument for the transfer on sale of any stock issued by or on behalf of any government or State, other than the Government of Singapore, or of any stock issued by or on behalf of any corporation, company, or body of persons incorporated, formed or established outside Singapore, except stock registered in a register kept in Singapore;
+(e) any instrument for the transfer on sale of any stock issued by or on behalf of any government or State, other than the Government of Singapore, or of any stock issued by or on behalf of any corporation, company, or body of persons incorporated, formed or established outside Singapore, except stock registered in a register kept in Singapore; and
 
-(f) any instrument executed by or on behalf of a society registered under the Co-operative Societies Act (Cap. 62) or executed by an officer or member of any such society and relating solely to the business of the society;
-
-(g) any instrument which relates to any offshore credit facility given by a financial institution through its Asian Currency Unit, either alone or in conjunction with other financial institutions; and any instrument for the transfer, assignment or other disposition of any right or interest (whether such facility is drawn down or not) under any such instrument to an Asian Currency Unit of another financial institution or to a person outside Singapore;
-
-(h) any instrument which relates to any offshore facility (whether underwritten or not) for the issue of bonds, notes, certificates of deposit or other instruments of indebtedness arranged by a financial institution through its Asian Currency Unit, either alone or in conjunction with other financial institutions, for any person outside Singapore to be used outside Singapore; and any instrument for the transfer, assignment or other disposition of any right or interest (whether such facility is drawn down or not) under any such instrument to an Asian Currency Unit of another financial institution or to a person outside Singapore; and
-
-(i) any instrument for the transfer, assignment or other disposition of any right or interest made by a person outside Singapore under any offshore credit facility (whether such facility is drawn down or not) or any offshore facility (whether such facility is underwritten or not) for the issue of bonds, notes, certificates of deposit or other instruments of indebtedness to an Asian Currency Unit of a financial institution in Singapore.
-
-[38/75; 4/81; 18/86]
-
-(2) For the purposes of this section —
-
-“offshore credit facility” means any loan or advance or facility whereby any fund, guarantee or letter of credit is made available to any person outside Singapore to be used outside Singapore;
-
-“person outside Singapore” includes a branch outside Singapore of a company resident in Singapore.
+(f) any instrument executed by or on behalf of a society registered under the Co-operative Societies Act (Cap. 62) or executed by an officer or member of any such society and relating solely to the business of the society unless the instrument relates to any immovable property where, but for this exemption, the purchaser of the property, not being a co-operative society would, in accordance with section 34, be the person liable to pay the duty chargeable on that instrument.
 
 ## PART V
 
@@ -948,7 +1068,9 @@ ADJUDICATION AS TO STAMPS
 
 ### Mode of adjudication as to proper stamp duty
 
-37\.—(1) When any instrument, whether executed or not and whether previously stamped or not, is brought to the Commissioner, and the person bringing it applies to have the opinion of the Commissioner as to whether the instrument is chargeable with any duty and, if so, the amount of duty chargeable, the Commissioner shall, upon payment of $25 in any case involving immovable property or $10 in any other case, adjudicate and assess the duty, if any, with which in his judgment the instrument is chargeable.
+37\.—(1) Where any instrument, whether executed or not and whether previously stamped or not, is brought to the Commissioner and the person bringing it applies to the Commissioner as to whether the instrument is chargeable with any duty and, if so, the amount of duty chargeable, the Commissioner shall, upon payment of the relevant adjudication fee prescribed in the Fourth Schedule, adjudicate and assess the duty with which, in his judgment, the instrument is chargeable.
+
+[33/99 wef 01/09/1999]
 
 (1A) Where the person seeks the opinion of the Commissioner under subsection (1) as to the amount of duty chargeable, he shall in making the application for adjudication set forth the value upon which in his opinion duty is chargeable.
 
@@ -964,27 +1086,21 @@ ADJUDICATION AS TO STAMPS
 
 (2A) The Commissioner may refuse to proceed upon any application under subsection (1) until such abstract and evidence have been furnished accordingly.
 
-(3) Notwithstanding any other provisions of this section, the Commissioner may himself require in the case of a conveyance, assignment or transfer of immovable property a certificate of the value of such property from the Chief Valuer.
+(3) Notwithstanding any other provisions of this section, the Commissioner may himself require in the case of a conveyance, lease, assignment or transfer of immovable property a certificate of the value of such property from the Chief Valuer.
 
-(4) The request for a certificate from the Chief Valuer shall be made to him directly by the Commissioner but the Commissioner shall be entitled (in addition to the fee payable under subsection (1)) to charge the person seeking the adjudication of such property or regarding whose property the Commissioner requires a certificate, a fee for such certification at the following rates:
+(4) The request for a certificate from the Chief Valuer shall be made to him directly by the Commissioner but the Commissioner shall be entitled (in addition to the fee payable under subsection (1)) to charge the person seeking the adjudication of such property or regarding whose property the Commissioner requires a certificate, a fee as specified in the Fifth Schedule.
 
-(a) on the first $10,000 of the difference between the certified value and the value on which in the opinion of the applicant the duty was chargeable
+(a) [Deleted by Act 33/99 wef 01/09/1999]
 
-1%
+(b) [Deleted by Act 33/99 wef 01/09/1999]
 
-(b) on the next $90,000 of such difference
-
-½%
-
-(c) in all cases where the difference is in excess of $100,000 — on the excess
-
-¼%.
+(c) [Deleted by Act 33/99 wef 01/09/1999]
 
 (5) No evidence furnished in pursuance of this section shall be used against any person in any civil proceedings, except in an inquiry as to the duty with which the instrument to which it relates is chargeable.
 
-(6) Every person by whom any evidence is furnished shall, on payment of the full amount of duty chargeable on the instrument and the fees if any under subsection (4), be relieved from any penalty which he has incurred under this Act by reason of the omission to state truly in such instrument any of the facts or circumstances aforesaid.
+(6) [Deleted by Act 33/99 wef 01/09/1999]
 
-### Certificate by Commissioner
+### Certificate of adjudication by Commissioner
 
 38\.—(1) When an instrument brought to the Commissioner under section 37 is in his opinion one of a description chargeable with duty, and —
 
@@ -992,11 +1108,11 @@ ADJUDICATION AS TO STAMPS
 
 (b) the duty assessed by the Commissioner under section 37, or such a sum as, with the duty already paid in respect of the instrument, is equal to the duty so assessed, has been paid,
 
-the Commissioner shall certify by endorsement on the instrument that the full duty, stating the amount, with which it is chargeable, has been paid.
+the Commissioner shall certify by issuing and attaching to the instrument a certificate of adjudication, stating that the full duty, with which it is chargeable, has been paid.
 
 (2) When the instrument is in the opinion of the Commissioner not chargeable with duty, the Commissioner shall certify in the manner aforesaid that the instrument is not so chargeable.
 
-(3) Any instrument upon which an endorsement has been made under this section shall be deemed to be duly stamped or not chargeable with duty, as the case may be; and, if chargeable with duty, shall be receivable in evidence or otherwise and may be acted upon and registered as if it had been originally duly stamped.
+(3) Any instrument in respect of and to which a certificate of adjudication has been issued and attached under this section shall be deemed to be duly stamped or not chargeable with duty, as the case may be; and, if chargeable with duty, shall be receivable in evidence or otherwise and may be acted upon and registered as if it had been originally duly stamped.
 
 (4) Nothing in this section shall be deemed to require the Commissioner to certify that the full duty with which an instrument is chargeable has been paid —
 
@@ -1008,17 +1124,41 @@ the Commissioner shall certify by endorsement on the instrument that the full du
 
 39\. Nothing in sections 37 and 38 shall extend to any instrument chargeable with ad valorem duty and made as a security for money or stock without limit.
 
+### Notice of objection
+
+39A\.—(1) Any person who is dissatisfied with an assessment of the Commissioner under section 37 may, by written notice (referred to in this Act as a notice of objection), object to the assessment and apply to the Commissioner to review the assessment.
+
+(2) Every notice of objection must state the grounds of objection to the Commissioner’s assessment and must be made within 30 days after the date of the assessment or such further period as the Commissioner may allow in any particular case.
+
+(3) The person giving a notice of objection must furnish further particulars and information in relation to the grounds of the objection if required to do so by the Commissioner in writing.
+
+(4) The Commissioner shall, on receipt of a notice of objection and such further particulars and information as he may require under subsection (3), review the assessment.
+
+(5) As soon as practicable after the objection is determined, the Commissioner must inform the person concerned in writing of the Commissioner’s decision on the objection and the reasons for his decision.
+
+(6) Where, on review, it appears to the Commissioner that the amount of duty originally assessed is excessive, he may cancel the original assessment and make such other assessment in substitution thereof as he considers proper; and any reference in this Act to an assessment shall be construed as including such a substituted assessment.
+
+(7) The Commissioner shall serve a notice of amended assessment on the person concerned of the assessment substituted in accordance with subsection (6).
+
+(8) The making of an objection shall not relieve the person of liability to pay the duty as required by this Act.
+
+[33/99 wef 01/09/1999]
+
 ### Appeal to High Court
 
-40\.—(1) Any person who is dissatisfied with the assessment of the Commissioner may, within 21 days after the date of the assessment and upon payment of duty in conformity therewith, appeal against the assessment to the High Court and may for that purpose require the Commissioner to state and sign a case, setting forth the question upon which his opinion was required, and the assessment made by him.
+40\.—(1) Any person who is dissatisfied with the Commissioner’s decision under section 39A(5) on a notice of objection may, within 21 days after the person is informed of that decision and upon payment of duty in conformity therewith, appeal against the decision to the High Court and may for that purpose require the Commissioner to state and sign a case, setting forth the question upon which his opinion was required, and the decision made by him.
+
+(1A) Any appeal under subsection (1) shall not be effective unless written notice of the appeal is served on the Commissioner within 21 days of the person being informed of the Commissioner’s decision under section 39A(5) on the notice of objection.
+
+[33/99 wef 01/09/1999]
 
 (2) The Commissioner shall thereupon state and sign a case and deliver it to the person by whom it is required, and the case may, within 7 days thereafter, be set down by him for hearing.
 
 (3) Upon the hearing of the case, the High Court shall determine the question submitted, and, if the instrument in question is in the opinion of the Court chargeable with any duty, shall assess the duty with which it is chargeable.
 
-(4) If it is decided by the High Court that the assessment of the Commissioner is erroneous, any excess of duty which may have been paid in conformity with the erroneous assessment, together with any fine or penalty which may have been paid in consequence thereof, shall be ordered by the Court to be repaid to the appellant, with or without costs as the Court may determine.
+(4) If it is decided by the High Court that the decision of the Commissioner is erroneous, any excess of duty which may have been paid in conformity with the erroneous decision, together with any fine or penalty which may have been paid in consequence thereof, shall be ordered by the Court to be repaid to the appellant, with or without costs as the Court may determine.
 
-(5) If the assessment of the Commissioner is confirmed, the High Court may make an order for payment to the Commissioner of the costs incurred by him in relation to the appeal.
+(5) If the decision of the Commissioner is confirmed, the High Court may make an order for payment to the Commissioner of the costs incurred by him in relation to the appeal.
 
 ### Stamping after adjudication
 
@@ -1060,15 +1200,25 @@ TIME OF STAMPING INSTRUMENTS
 
 (2) The Commissioner may reduce or remit any penalty prescribed by this section.
 
+(3) For the purposes of this section, an instrument shall be deemed to be unstamped or insufficiently stamped notwithstanding that a stamp certificate is attached thereto if, by reason of the circumstances mentioned in section 6D(3), the duty chargeable on the instrument was not deducted by the Commissioner from the designated account of a registered person.
+
+[33/99 wef 01/09/1999]
+
 ### Period of time for stamping to commence on day after execution
 
 47\. Where it is provided in this Act that an instrument is to be stamped within a certain period of time after execution, such period shall be reckoned as commencing on the day after the execution of the instrument by the person who first executed it unless otherwise stated in this Act.
 
 ### Denoting penalty
 
-48\. The payment of any penalty prescribed under section 46 shall be denoted on the instrument by an impressed stamp and shall be certified by the Commissioner.
+48\. The payment of any penalty prescribed under section 46 shall be denoted —
 
-[26/96]
+(a) on the instrument concerned by an impressed stamp and certification by the Commissioner;
+
+(b) by a receipt issued by the Commissioner; or
+
+(c) by notation on the stamp certificate relating to the instrument.
+
+[33/99 wef 01/09/1999]
 
 ### Persons liable to penalty
 
@@ -1076,9 +1226,19 @@ TIME OF STAMPING INSTRUMENTS
 
 [26/96]
 
-### Penalty, how recoverable
+### Suit for recovery of duty, etc., by Commissioner
 
-50\. All duties, penalties and other sums required to be paid under this Part may be recovered under the Government Proceedings Act (Cap. 121).
+50\.—(1) Notwithstanding the provisions of any other written law, all duty and penalty required to be paid under this Act may be sued for by way of a specially endorsed writ of summons.
+
+(2) The Commissioner may, in his own name, sue for any such duty or penalty and shall be entitled to all costs allowed by law against the person liable thereto.
+
+(3) The Commissioner may appear personally or by counsel in any suit instituted under this section.
+
+(4) In any suit under this section, the production of a certificate signed by the Commissioner giving the name and address of the defendant and the amount of duty or penalty due by him shall be sufficient evidence of the amount so due and sufficient authority for the court to give judgment for that amount.
+
+(5) Any penalty required to be paid under this Act shall be recoverable as if it were duly due and payable under this Act and accordingly, section 6(4) of the Limitation Act (Cap. 163) shall not apply to such penalty.
+
+[33/99 wef 01/09/1999]
 
 ## PART VII
 
@@ -1142,10 +1302,6 @@ ALLOWANCE FOR SPOILED STAMPS
 
 (a) the stamp on any paper inadvertently and undesignedly spoiled, obliterated or by any means rendered unfit for the purpose intended, before the paper bears the signature of any person or any instrument written thereon is executed by any party;
 
-(b) any adhesive stamp which has been inadvertently and undesignedly spoiled or rendered unfit for use and has not in the opinion of the Commissioner been affixed to any paper;
-
-(c) any adhesive stamp representing a fee capable of being collected by means of such stamp which has been affixed to paper where a certificate from an officer nominated by the Commissioner in that behalf is produced to the effect that the stamp should be allowed;
-
 (d) the stamp used for any of the following instruments:
 
 (i) an instrument executed by any party thereto, but afterwards found to be absolutely void from the beginning;
@@ -1165,6 +1321,10 @@ ALLOWANCE FOR SPOILED STAMPS
 (b) in the case of an executed instrument no legal proceeding has been commenced in which the instrument could or would have been given or offered in evidence, and that the instrument is given up to be cancelled.
 
 [38/75]
+
+(3) In this section and section 58, “stamp” includes a stamp certificate.
+
+[33/99 wef 01/09/1999]
 
 ### Allowance for misused stamps
 
@@ -1192,75 +1352,89 @@ OFFENCES AND PENALTIES
 
 61\. Any person who being required by law to cancel an adhesive stamp neglects or refuses duly and effectually to do so in the manner prescribed by section 7(4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
 
-### Penalty for not setting forth all the facts and circumstances
+### Penalty for evasion of duty
 
 62\. Any person who with intent to evade the payment of duty —
 
-(a) executes any instrument in which all the facts and circumstances are not truly and fully set forth as required by section 5; or
+(a) executes any instrument in which all the facts and circumstances are not truly and fully set forth as required by section 5;
 
-(b) being employed or concerned in or about the preparation of any instrument neglects or omits fully and truly to set forth therein all those facts and circumstances,
+(b) being employed or concerned in or about the preparation of any instrument, neglects or omits to set forth fully or truly in the instrument all those facts and circumstances; or
+
+(c) draws, makes, executes or signs, or otherwise than as a witness, any instrument whatsoever chargeable with duty without the instrument being duly stamped,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[33/99 wef 01/09/1999]
+
+### Penalty for executing instruments not duly stamped, etc.
+
+63\. Any person who —
+
+(a) having drawn, made, executed or signed, otherwise than as a witness, any instrument that is chargeable with duty without the instrument being duly stamped and fails, without lawful excuse, to procure the due stamping of the instrument within the time within which the instrument may be stamped without penalty under this Act;
+
+(b) not being a person authorised under section 9(1) or an employee of such person, makes an endorsement on any instrument in the manner described in section 9(1)(c); or
+
+(c) being a person authorised under section 9(1) —
+
+(i) fails to deliver to the Commissioner accounts as required by section 9(1)(a);
+
+(ii) delivers to the Commissioner accounts which are false in any material particular; or
+
+(iii) contravenes or fails to comply with any condition in section 9(1) not waived by the Commissioner,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-### Penalty for executing and signing documents not duly stamped
+[33/99 wef 01/09/1999]
 
-63\.—(1) Any person who —
+### Penalties relating to stamp certificates, etc.
 
-(a) makes or executes any contract note without the contract note being duly stamped;
+64\. Any person who —
 
-(b) with intent to evade the payment of duty, draws, makes, executes or signs, otherwise than as a witness, any instrument whatsoever chargeable with duty without the instrument being duly stamped;
+(a) sells or offers for sale a stamp certificate or certificate of adjudication;
 
-(c) having drawn, made, executed or signed, otherwise than as a witness, any instrument whatsoever chargeable with duty without the instrument being duly stamped, fails, without lawful excuse, to procure the due stamping thereof within the time within which such instrument may be stamped without penalty under this Act,
+(b) fraudulently attaches a stamp certificate or certificate of adjudication to an instrument other than the instrument for which the stamp certificate or certificate of adjudication was issued;
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+(c) fraudulently detaches a stamp certificate or certificate of adjudication or fraudulently causes a stamp certificate or certificate of adjudication to be detached from an instrument;
 
-[38/75, 4/81,14/83; 26/96]
+(d) counterfeits, or knowingly performs any part of the process of counterfeiting, any stamp certificate or certificate of adjudication issued by the Commissioner;
 
-(2) When any penalty has been paid in respect of any instrument under section 46, the amount of the penalty shall be allowed in reduction of the fine, if any, subsequently imposed under this section in respect of the same instrument upon the person who paid the penalty.
+(e) sells or offers for sale any certificate which he knows or ought reasonably to know to be a counterfeit of any stamp certificate or certificate of adjudication issued by the Commissioner;
 
-[64
+(f) has in his possession any certificate which he knows to be a counterfeit of any stamp certificate or certificate of adjudication, intending to use or dispose of it as a genuine stamp certificate or certificate of adjudication, or in order that it may be used as a genuine stamp certificate or certificate of adjudication; or
 
-[26/96]
+(g) uses as a genuine stamp certificate or certificate of adjudication, knowing it to be a counterfeit of any stamp certificate or certificate of adjudication,
 
-### Penalty for not making out policy other than on sea insurance or making one not duly stamped
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-64\.—(1) Any person who —
+[33/99 wef 01/09/1999]
 
-(a) receives or takes credit for any premium or consideration for any insurance other than a sea insurance and does not within 3 months after receiving or taking credit for the premium or consideration make out and execute a duly stamped policy of insurance; or
+### Penalty for obstructing Commissioner and similar offences
 
-(b) makes, executes or delivers out or pays or allows in account or agrees to pay or allow in account any money upon or in respect of any policy other than a policy of sea insurance which is not duly stamped,
+65\.—(1) No person shall —
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $400.
+(a) resist or obstruct the Commissioner or any officer in the performance of any duty or the exercise of any power under this Act or any rules made thereunder; or
 
-(2) On application and for good cause shown by any person, the Minister may, by notification in theGazette, extend the period mentioned in subsection (1)(a) to a period not exceeding 5 months in favour of that person.
+(b) wilfully mislead the Commissioner or any officer in any particular likely to affect the discharge of his duty.
 
-[67
+(2) Subject to subsection (3), no person shall, being lawfully asked any question by the Commissioner or any officer under this Act or any rules made thereunder, give an answer (whether orally or in writing) to the question or, in furnishing information, make any statement or representation that is false or misleading in any material particular.
 
-### Penalty for assuring on sea insurance unless under policy duly stamped and for making or issuing pretended copies
+(3) Any person who contravenes or fails to comply with subsection (1) or (2) shall be guilty of an offence.
 
-65\.—(1) Any person who —
+(4) It shall be a defence to a charge under subsection (2) to prove that, when the answer, statement or representation was given or made, the defendant believed on reasonable grounds that it was neither false nor misleading.
 
-(a) becomes an assurer upon any sea insurance or enters into any contract for sea insurance, or directly or indirectly receives or contracts or takes credit in account for any premium or consideration for any sea insurance, or knowingly takes upon himself any risk, or renders himself liable to pay, or pays any sum of money upon any loss, peril or contingency relative to any sea insurance unless the insurance is expressed in a policy of sea insurance duly stamped;
+(5) In this section, “officer” means any Deputy Commissioner of Stamp Duties and any officer of the staff of the Commissioner assisting him in the administration of this Act.
 
-(b) makes or effects or knowingly procures to be made or effected any sea insurance, or directly or indirectly gives or pays, or renders himself liable to pay, any premium or consideration for any sea insurance, or enters into any contract for sea insurance unless the insurance is expressed in a policy of sea insurance duly stamped; or
+[33/99 wef 01/09/1999]
 
-(c) is concerned in any fraudulent contrivance or device, or is guilty of any wilful act, neglect or omission with intent to evade the duties payable on policies of sea insurance or whereby the duties may be evaded,
+### General penalty
 
-shall be guilty of an offence and shall for every such offence be liable on conviction to a fine not exceeding $400.
+65A\. Any person guilty of an offence under this Act for which no other penalty is provided shall be liable on conviction to a fine not exceeding $1,000 and in default to imprisonment for a term not exceeding 6 months.
 
-(2) Every broker, agent or other person negotiating or transacting any sea insurance contrary to the true intent and meaning of this Act, or executing any policy of sea insurance upon paper not duly stamped —
-
-(a) shall be guilty of an offence and shall for every such offence be liable on conviction to a fine not exceeding $400; and
-
-(b) shall not have any legal claim to any charge for brokerage, commission or agency or for any money expended or paid by him with reference to the insurance, and any money paid to him in respect of any such charge shall be deemed to be paid without consideration, and shall remain the property of his employer.
-
-(3) If any person makes or issues or causes to be made or issued any document purporting to be a copy of a sea policy and there is not at the time of the making or issue in existence a policy duly stamped of which that document is a copy, he shall be guilty of an offence and shall for such offence, in addition to any other fine or penalty to which he is liable, be liable on conviction to a fine not exceeding $400.
-
-[68
+[33/99 wef 01/09/1999]
 
 ### Penalty for enrolling, etc., instrument not duly stamped
 
-66\. If any person whose office it is to enrol, register or enter in or upon any rolls, books or records any instrument chargeable with duty, enrols, registers or enters any such instrument not being duly stamped, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 .
+66\. If any person whose office it is to enrol, register or enter in or upon any rolls, books or records any instrument chargeable with duty, enrols, registers or enters any such instrument not being duly stamped, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 [69
 
@@ -1268,19 +1442,43 @@ shall be guilty of an offence and shall for every such offence be liable on conv
 
 ### Fraud in relation to duty
 
-67\. Any person who practises or is concerned in any fraudulent act, contrivance or device not specially provided for by law, with intent to defraud the Government of any duty, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 .
+67\. Any person who practises or is concerned in any fraudulent act, contrivance or device not specially provided for by law, with intent to defraud the Government of any duty, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [70
 
 ### Institution and conduct of prosecution
 
-68\.—(1) No prosecution in respect of any offence punishable under this Act shall be instituted without the sanction of the Commissioner.
+68\.—(1) No prosecution in respect of any offence punishable under this Act shall be instituted without the sanction of either the Commissioner or the Attorney-General.
 
-(2) The Commissioner may stay any such prosecution or compound any such offence.
+(2) The Commissioner may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
 
-(3) The amount of any such composition may be recovered under the Government Proceedings Act (Cap. 121).
+[33/99 wef 01/09/1999]
 
-[71
+(3) The Minister may make rules to prescribe the offences which may be compounded.
+
+[33/99 wef 01/09/1999]
+
+### Service of summons
+
+68A\.—(1) Every summons issued by a court against any person in connection with any offence under this Act or any rules made thereunder may be served on the person —
+
+(a) by delivering the summons to the person or to some adult member or employee of his family at his usual or last known place of residence;
+
+(b) by leaving the summons at his usual or last known place of residence or business in an envelope addressed to the person;
+
+(c) by sending the summons by registered post addressed to the person at his usual or last known place of residence or business; or
+
+(d) where the person is a body of persons or a company —
+
+(i) by delivering the summons to the secretary or other like officer of the body of persons or company at its registered office or principal place of business; or
+
+(ii) by sending the summons by registered post addressed to the body of persons or company at its registered office or principal place of business.
+
+(2) Any summons sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person to whom the letter is addressed at the time when the letter would in the ordinary course of post be delivered.
+
+(3) In proving service of the summons by registered post, it shall be sufficient to prove that the envelope containing the summons was properly addressed, stamped and posted by registered post.
+
+[33/99 wef 01/09/1999]
 
 ## PART X
 
@@ -1354,6 +1552,44 @@ MISCELLANEOUS
 
 [26/96]
 
+### Recovery of duty from deceased individual
+
+70A\.—(1) Where, at the time of a person’s death, any duty or penalty is due from him under this Act and has not been paid, the Commissioner shall have the same powers and remedies for recovering the duty or penalty so payable from the person’s estate as the Commissioner would have in relation to the person if the person were alive; and such duty or penalty or both shall be payable by the executor or administrator in respect of the deceased person’s estate to the same extent as it would be payable by the person if he were alive.
+
+(2) This section shall not apply if the duty is assessed after the end of the third year following that year in which the person died.
+
+[33/99 wef 01/09/1999]
+
+### Company wound-up
+
+70B\. Where a company is being wound up, the liquidator of the company shall not distribute any of the assets of the company to the shareholders thereof unless he has made provision for the payment in full of any duty or penalty which may be found payable by the company.
+
+[33/99 wef 01/09/1999]
+
+### Power to call for any instruments, books, accounts or other records
+
+70C\.—(1) For the purposes of this Act, the Commissioner may give notice in writing to any person requiring him to furnish within the time limited by such notice, not being less than 30 days from the date of service of such notice, to attend personally before him or to produce to him for examination any instruments, books, documents, accounts and other records which the Commissioner may consider necessary.
+
+(2) Where records are maintained by computer the person required to make them available for examination shall provide all facilities necessary for obtaining the computer records.
+
+(3) The Commissioner shall at all times have full and free access to all buildings, places, instruments, books, documents and other records for any of the purposes of this Act, and may, without fee or reward, inspect, copy or make extracts from any such instruments, books, documents, accounts or records.
+
+(4) The Commissioner may take possession of any such instruments, books, documents, accounts or records where in his opinion —
+
+(a) the inspection, copying thereof or extraction wherefrom cannot reasonably be performed without taking possession;
+
+(b) the instruments, books, documents, accounts or records may be interfered with or destroyed unless possession is taken; or
+
+(c) the instruments, books, documents, accounts or records may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of duty or penalty, or in proceedings by way of an appeal against the assessment.
+
+(5) The Commissioner may require any person to give orally or in writing, as may be required, all such information, facts and circumstances affecting the liability of any instrument to duty.
+
+(6) Any person who fails or neglects without reasonable excuse to comply with any notice issued by the Commissioner under this section shall be guilty of an offence.
+
+(7) Any person who, for the purpose of evading any duty under this Act, falsifies or destroys any document, book or accounts, records or other instrument shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[33/99 wef 01/09/1999]
+
 ### Commissioner may require declaration, etc.
 
 71\. The Commissioner may require any person to produce evidence by way of statutory declaration or otherwise for any purpose connected with the administration of this Act.
@@ -1372,13 +1608,13 @@ MISCELLANEOUS
 
 ### Responsibility for loss or damage
 
-73\. The Government shall not be responsible for the loss of or for damage to any instrument tendered for stamping while in the custody of the Commissioner, nor shall any officer of the stamp office be responsible for such loss or damage, unless he has caused it wilfully, fraudulently or by gross negligence.
+73\. Neither the Government nor the Commissioner shall be responsible for the loss of or for damage to any instrument tendered for stamping while in the custody of the Commissioner, nor shall any officer of the stamp office be responsible for such loss or damage, unless he has caused it wilfully, fraudulently or by gross negligence.
 
 [74
 
-### Power to reduce, remit or compound duties
+### Power to reduce or remit duties
 
-74\. The Minister may, by rule or order published in theGazette, reduce or remit, prospectively or retrospectively, in the whole or any part of Singapore, the duties with which any instrument or any particular class of instruments, or any of the instruments belonging to such class, or any instruments when executed by or in favour of any particular class of persons, or by or in favour of any members of such class, are chargeable.
+74\. The Minister may reduce or remit, prospectively or retrospectively, in the whole or any part of Singapore, the duties with which any instrument or any particular class of instruments, or any of the instruments belonging to such class, or any instruments when executed by or in favour of any particular class of persons, or by or in favour of any members of such class, are chargeable.
 
 [75
 
@@ -1400,13 +1636,13 @@ MISCELLANEOUS
 
 ### Rules
 
-77\. The Minister may make rules to carry out generally the purposes of this Act, and may by such rules prescribe the fines, which shall in no case exceed $200, to be incurred on breach thereof.
+77\. The Minister may make rules to carry out generally the purposes of this Act, and may by such rules prescribe the fines, which shall in no case exceed $1,000, to be incurred on breach thereof.
 
 [78
 
 ### Power to amend Schedules
 
-78\. The Minister may by notification in theGazetteadd to, vary or revoke the whole or any part of the First, Second or Third Schedule.
+78\. The Minister may by notification in theGazetteadd to, vary or revoke the whole or any part of the First, Second, Third, Fourth or Fifth Schedule.
 
 [79
 
@@ -1792,6 +2028,64 @@ The parties thereto, in proportion to their respective shares in the whole prope
 
 [S 284/98 wef 28/02/1998]
 
+FOURTH SCHEDULE
+
+Section 37(1)
+
+Adjudication Fees
+
+Subject-matter of Instrument
+
+Fee
+
+1. A scheme of reconstruction or amalgamation under section 15
+
+$150
+
+2. Any immovable property that is sold under Part IV of the Housing and Development Act (Cap. 129)
+
+$30
+
+3. Any other immovable property
+
+$90
+
+4. All other transactions
+
+$90.
+
+[33/99 wef 01/09/1999]
+
+FIFTH SCHEDULE
+
+Section 37(4)
+
+Valuation Fees
+
+Subject-matter of Instrument
+
+Fee
+
+1. Any immovable property sold under Part IV of the Housing and Development Act (Cap.129)
+
+$30
+
+2. Any other immovable property —
+
+(a) on the first $10,000 of the difference between the certified value under section 37(3) and the value on which, in the opinion of the applicant for adjudication, the duty was chargeable
+
+1%
+
+(b) on the next $90,000 of such difference
+
+0.5%
+
+(c) on the excess where the difference is in excess of $100,000
+
+0.25% or $105 for each certificate of adjudication, whichever is the higher.
+
+[33/99 wef 01/09/1999]
+
 ## LEGISLATIVE HISTORY
 
 Stamp Duties Act
@@ -2007,3 +2301,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of operation|30 May 1997|
 |57.|**G. N. No. S 284/1998—Stamp Duties Act (Substitution of Schedules) Notification 1998**|
 ||Date of commencement|28 February 1998|
+|58.|**Act 33 of 1999—Stamp Duties (Amendment) Act 1999**|
+||Date of First Reading|3 August 1999|
+|||(Bill No. 28/1999 published on 3 September 1999)|
+||Date of Second and Third Readings|18 August 1999|
+||Date of commencement|1 September 1999|
