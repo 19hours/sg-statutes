@@ -32,9 +32,13 @@
 
 - [13 Use of seal](#Use-of-seal)
 
-- [14 Duties and powers of Secretary of Board](#Duties-and-powers-of-Secretary-of-Board)
+- [14 Duties and powers of Secretary and Finance member](#Duties-and-powers-of-Secretary-and-Finance-member)
 
 - [15 Minutes](#Minutes)
+
+- [15A Appointment of committees](#Appointment-of-committees)
+
+- [15B Power to acquire, develop, etc., property](#Power-to-acquire-develop-etc-property)
 
 - [16 Minister may order endowment to be administered by Board](#Minister-may-order-endowment-to-be-administered-by-Board)
 
@@ -114,13 +118,23 @@ An Act to provide for the administration of Hindu religious and charitable endow
 
 5\.—(1) The Board shall consist of —
 
-(a) a Chairman to be appointed by the Minister; and
+(a) a Chairman;
 
-(b) not less than 5 members and not more than 8 members to be appointed by the Minister.
+(b) a Vice‑Chairman;
+
+(c) a Finance member; and
+
+(d) not less than 8 and not more than 12 other members,
+
+all of whom shall be appointed by the Minister.
+
+[Act 2/93 wef 15/03/1993]
 
 (2) Subject to the provisions of this Act and unless the contrary intention appears in the instrument of appointment, the appointment of members under subsection (1) shall be for a period of 3 years from the date thereof.
 
-(3) The members of the Board shall be eligible for reappointment, but no member shall be appointed for more than two consecutive terms.
+(3) The members of the Board shall be eligible for reappointment except that a Finance member shall not be appointed for more than two consecutive terms as a Finance member but may, at the end of the second consecutive term, be appointed in any capacity in the Board except as a Finance member.
+
+[Act 2/93 wef 15/03/1993]
 
 (4) No person shall be appointed a member of the Board under subsection (1) unless he —
 
@@ -172,15 +186,23 @@ An Act to provide for the administration of Hindu religious and charitable endow
 
 ### Chairman
 
-11\.—(1) The Chairman shall preside at all meetings of the Board.
+11\.—(1) The Chairman and in his absence the Vice‑Chairman shall preside at all meetings of the Board.
 
-(2) In his absence the Board may elect any other member to act as Chairman.
+[Act 2/93 wef 15/03/1993]
+
+(2) In the absence of the Chairman and Vice‑Chairman, the Board may elect any other member to act as Chairman.
+
+[Act 2/93 wef 15/03/1993]
 
 (3) The Chairman is entitled to vote. In the event of an equality of votes, the Chairman shall have a casting vote.
 
+(4) The proceedings of the Board shall be secret and no member or employee thereof shall disclose or divulge to any person, other than the Minister or any person authorised by the Minister or any member of the Board, any fact or matter which has been disclosed or arisen at any meeting unless he is authorised by the Board in writing or he is ordered by a court to do so.
+
+[Act 2/93 wef 15/03/1993]
+
 ### Quorum
 
-12\.—(1) No business, except that of adjournment, shall be transacted and no action or resolution of the Board shall be valid unless at least 4 members or one‑third of the members whichever is the greater are present at the meeting.
+12\.—(1) No business, except that of adjournment, shall be transacted and no action or resolution of the Board shall be valid unless at least 7 members or one‑third of the members whichever is the greater are present at the meeting.
 
 (2) The Board may, subject to subsection (1), act notwithstanding any vacancy in its membership.
 
@@ -200,9 +222,15 @@ Provided that, in the absence of the Chairman or the Secretary of the Board or b
 
 (c) such other documents or classes of documents as the Minister may from time to time direct.
 
-### Duties and powers of Secretary of Board
+### Duties and powers of Secretary and Finance member
 
-14\. Subject to such directions as may be given to him by the Chairman, the Secretary of the Board shall have charge of all correspondence and documents of the Board, including all books of account thereof and all title deeds and securities, and shall be responsible for the proper collection of, accounting for and disposal of all funds of the Board, and shall in all other respects carry out such duties as may be imposed upon him by this Act or allotted to him by direction of the Board.
+14.—(1) Subject to such directions as may be given to him by the Chairman, the Secretary of the Board shall have charge of all correspondence and documents of the Board, including all title deeds, and shall in all other respects carry out such duties as may be imposed upon him by this Act or allotted to him by direction of the Board.
+
+[Act 2/93 wef 15/03/1993]
+
+(2) The Finance member shall have charge of all books of account of the Board and shall be responsible for the proper collection of, accounting for and disposal of all funds of the Board.
+
+[Act 2/93 wef 15/03/1993]
 
 ### Minutes
 
@@ -211,6 +239,36 @@ Provided that, in the absence of the Chairman or the Secretary of the Board or b
 (2) Such minutes shall be entered in the minute book of the Board and shall include a full record of every resolution of the Board.
 
 (3) As soon as possible after every meeting of the Board a copy of the minutes shall be sent to the Minister. If on confirmation the minutes are amended, the Minister shall forthwith be informed of the amendments made.
+
+### Appointment of committees
+
+15A\.—(1) The Board may from time to time appoint committees, other than a committee of management referred to in section 18, consisting of one or more persons (whether members of the Board or not) for the purpose of advancing its objectives.
+
+[Act 2/93 wef 15/03/1993]
+
+(2) The Board may define and vary the terms of reference of such committees and alter and discharge such committees.
+
+[Act 2/93 wef 15/03/1993]
+
+(3) Subject to this Act and to the control of the Board, a committee appointed under this section may regulate its own procedure.
+
+[Act 2/93 wef 15/03/1993]
+
+### Power to acquire, develop, etc., property
+
+15B\.—(1) The Board may —
+
+(a) enter into contracts and may acquire, purchase, take, hold and enjoy any property movable and immovable;
+
+(b) solely or in partnership, erect any building on or develop any immovable property vested in, belonging to or acquired by the Board; and
+
+(c) convey, assign, surrender and yield up, charge, mortgage, demise, reassign, lease, sub-lease or licence, transfer or otherwise dispose of, or deal with, any movable or immovable property vested in, belonging to or acquired by the Board upon such terms as the Board thinks fit.
+
+[Act 2/93 wef 15/03/1993]
+
+(2) A property vested in the Board may be developed, disposed of or otherwise dealt with by the Board in the manner provided under subsection (1)(b) and (c) notwithstanding section 17 or a trust or condition (express or implied) prohibiting or restricting such development, disposal of or other dealing with the property.
+
+[Act 2/93 wef 15/03/1993]
 
 ### Minister may order endowment to be administered by Board
 
@@ -238,11 +296,15 @@ the Minister may order that the endowment shall be administered by the Board.
 
 18\.—(1) For the purpose of the management of each such endowment or part thereof the Board shall, subject to the approval of the Minister, appoint a committee of management to act under the control of the Board.
 
-(2) Every such committee shall consist of at least one member of the Board, and of not more than 4 other persons.
+(2) Every such committee shall consist of at least one member of the Board, and of not more than 7 other persons.
 
-(3) Every such committee shall meet not less than once in every two months, and the quorum at all meetings thereof shall be 3 members present.
+(3) Every such committee shall meet at least once a month and the quorum at all meetings of the committee shall be 4 members present.
 
-(4) The members of every such committee shall be appointed for a period of two years and shall be eligible for reappointment, but no member, other than a member of the Board, shall be appointed for more than two consecutive terms.
+[Act 2/93 wef 15/03/1993]
+
+(4) The members of every such committee shall be appointed for a period of two years and shall be eligible for reappointment.
+
+[Act 2/93 wef 15/03/1993]
 
 (5) No person shall be appointed a member of such a committee unless he —
 
@@ -268,9 +330,13 @@ the Minister may order that the endowment shall be administered by the Board.
 
 (i) in defraying the expenses of the management of the endowment and of the Board; and
 
-(ii) in carrying out the purposes of the endowment; and
+(ii) in carrying out the purposes of the endowment;
 
-(d) raise funds by means of voluntary subscriptions, donations or contributions for the purposes of exercising its powers, performing its duties and discharging its obligations under this Act.
+(d) raise funds by means of voluntary subscriptions, donations or contributions for the purposes of exercising its powers, performing its duties and discharging its obligations under this Act; and
+
+(e) promote or undertake publicity in any form.
+
+[Act 2/93 wef 15/03/1993]
 
 ### Power to require accounts from any trustee and others
 
@@ -438,3 +504,8 @@ This Legislative History is provided for the convenience of users of the Hindu E
 ||Date of commencement|24 August 1973|
 |4.|**1985 Revised Edition—Hindu Endowments Act**|
 ||Date of operation|1 January 1985|
+|5.|**Act 2 of 1993—Hindu Endowments (Amendment) Act 1993**|
+||Date of First Reading|16 November 1992|
+|||(Bill No. 39/1992 published on 26 February 1993)|
+||Date of Second and Third Readings|18 January 1993|
+||Date of commencement|15 March 1993|
