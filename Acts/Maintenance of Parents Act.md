@@ -358,7 +358,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) In all proceedings under this Act including a case stated and an appeal from the decision of the Tribunal or the High Court, as the case may be —
 
-(a) the remuneration a solicitor is entitled to receive in respect of such proceedings shall not exceed the maximum amount prescribed in rules made under section 21 and any agreement for costs which exceeds the maximum amount so prescribed shall be null and void;
+(a) the remuneration a solicitor is entitled to receive in respect of such proceedings shall not exceed the amount prescribed in rules made under section 21 and any agreement for costs which exceeds the maximum amount so prescribed shall be null and void;
 
 (b) the costs of the Commissioner shall be at the discretion of the Tribunal or the Court, as the case may be, but the Commissioner shall not be ordered to pay the costs of any of the other parties; and
 
@@ -402,3 +402,10 @@ This Legislative History is provided for the convenience of users of the Mainten
 |||(Publication date)|
 |2.|**1996 Revised Edition—Maintenance of Parents Act**|
 ||Date of operation|30 April 1996|
+|3.|**Act 35 of 1995—Maintenance of Parents Act 1995**|
+||Date of First Reading|23 May 1994|
+|||(Bill No. 13/94 published on 24 May 1994)|
+||Dates of Second Reading|25 July 1994 to 27 July 1994|
+||Referred to Select Committee|Parl 2 of 1995 presented to Parliament on 20 October 1995|
+||Date of Third Reading|2 November 1995|
+||Date of commencement|1 June 1996|
