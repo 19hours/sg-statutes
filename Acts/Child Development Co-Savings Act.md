@@ -26,15 +26,19 @@
 
 - [8 Recovery of payment by Government](#Recovery-of-payment-by-Government)
 
-[**Part III THIRD CHILD MATERNITY LEAVE PROTECTION and BENFITS**](#Part-III)
+[**Part III MATERNITY PROTECTION AND BENEFITSAND ADOPTION LEAVE**](#Part-III)
 
 - [9 Length of benefit period, etc.](#Length-of-benefit-period-etc)
+
+- [9A Eligibility criteria and cap in respect of maternity benefits](#Eligibility-criteria-and-cap-in-respect-of-maternity-benefits)
 
 - [10 Reimbursement from Government](#Reimbursement-from-Government)
 
 - [11 Recovery of payment by Government and employer](#Recovery-of-payment-by-Government-and-employer)
 
 - [12 Application of certain provisions of Employment Act](#Application-of-certain-provisions-of-Employment-Act)
+
+- [12A Reimbursement of employer of female employee, and self-employed woman in respect of adoption leave](#Reimbursement-of-employer-of-female-employee-and-self-employed-woman-in-respect-of-adoption-leave)
 
 - [13 Exclusion of certain classes of persons](#Exclusion-of-certain-classes-of-persons)
 
@@ -55,6 +59,8 @@
 - [20 Regulations](#Regulations)
 
 - [21 Exemption](#Exemption)
+
+- [22 Transitional provision](#Transitional-provision)
 
 [**Legislative History**](#Legislative-History)
 
@@ -88,7 +94,7 @@ PRELIMINARY
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires —
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “approved person” means a person approved by the Minister as an approved person under the regulations made under section 7;
 
@@ -100,11 +106,15 @@ PRELIMINARY
 
 “eligible child” means a child who is eligible for membership of the Scheme under the regulations made under section 3;
 
-“employee” means any person who has entered into or works under a contract of service with an employer in Singapore, and includes a workman and any officer or employee of the Governmentincluded in a category, class or description of such officers or employees declared by the Minister to be employees for the purposes of this Act;
+“employee” means any person who has entered into or works under a contract of service with an employer in Singapore, and includes a workman and any officer or employee of the Government;
+
+[42/2004 wef 01/10/2004]
 
 “employer” means any person who employs another person under a contract of service and includes —
 
-(a) the Government in respect of such categories, classes or descriptions of officers or employees of the Government as are declared from time to time by the Minister to be employees for the purposes of this Act;
+(a) the Government;
+
+[42/2004 wef 01/10/2004]
 
 (b) any statutory authority;
 
@@ -132,7 +142,17 @@ PRELIMINARY
 
 “Scheme” means the Children Development Co-Savings Scheme established by the regulations made under section 3;
 
+[13/2011 wef 01/05/2011]
+
 “self-employed woman” means any woman resident in Singapore who engages in or carries on any trade, business, profession or vocation other than employment under a contract of service and derives income from such trade, business, profession or vocation or such other woman declared by the Minister to be a self-employed woman for the purposes of this Act.
+
+[42/2004 wef 01/10/2004]
+
+(2) For the purpose of determining whether a confinement referred to in Part III or section 22 (referred to in this section as the relevant confinement) is the first, second, third or fourth confinement of a woman, any previous confinement shall be disregarded if, at the time of the relevant confinement, there is no living child from the previous confinement.
+
+[42/2004 wef 01/10/2004]
+
+[28/2008 wef 31/10/2008]
 
 ## PART II
 
@@ -250,91 +270,175 @@ the Government may recover such payment from any moneys standing to the credit o
 
 ## PART III
 
-THIRD CHILD MATERNITY LEAVE PROTECTION and BENFITS
+MATERNITY PROTECTION AND BENEFITSAND ADOPTION LEAVE
 
 ### Length of benefit period, etc.
 
-9\.—(1) Notwithstanding section 76(4) of the Employment Act (Cap. 91) and subject to this section and any regulations made under this Act, every female employee shall be entitled to absent herself from work —
+9\.—(1) Subject to subsections (2) and (3), section 9A and any regulations made under section 20, every female employee who satisfies the requirements of section 9A(1) shall be entitled to absent herself from work —
 
-(a) during the period of 4 weeks immediately before and the period of 4 weeks immediately after her confinement; or
+(a) during —
 
-(b) during the period of 8 weeks, as agreed to by her and her employer, commencing not earlier than 28 days immediately preceding the day of her confinement or later than that day,
+(i) the period of 4 weeks immediately before her confinement; and
 
-and for such period (referred to in this Part as the benefit period) she shall be entitled to receive payment from her employer at her gross rate of pay in accordance with the regulations made under section 20.
+(ii) the period of 8 weeks immediately after her confinement;
 
-(2) A self-employed woman who —
+[28/2008 wef 31/10/2008]
 
-(a) ceases to be actively engaged in her trade, business, profession or vocation —
+(b) during a period of 12 weeks, as agreed to by her and her employer, commencing —
 
-(i) during the period of 4 weeks immediately before and the period of 4 weeks immediately after her confinement; or
+(i) not earlier than 28 days immediately preceding the day of her confinement; and
 
-(ii) during the period of 8 weeks, commencing not earlier than 28 days immediately preceding the day of her confinement or later than that day; and
+(ii) not later than the day of her confinement; or
 
-(b) has lost any income by reason of her ceasing to be actively engaged in such trade, business, profession or vocation,
+[28/2008 wef 31/10/2008]
 
-shall be entitled to claim from the Government, in accordance with the regulations made under section 20, the income she would have otherwise derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during that period.
+(c) during —
 
-(3) No woman shall be entitled to absent herself from work under subsection (1) or to payment under subsection (1) or (2) unless —
+(i) a period of 8 weeks, as agreed to by her and her employer, commencing —
 
-(a) the child who is the subject of her confinement —
+(A) not earlier than 28 days immediately preceding the day of her confinement; and
 
-(i) is a citizen of Singapore at the time of his birth;
+(B) not later than the day of her confinement; and
 
-(ii) is born alive on or after 1st April 2001; and
+(ii) one or more further periods, not exceeding 24 days in the aggregate, as agreed to by her and her employer, which shall be within the period of 6 months commencing on the day of her confinement,
 
-(iii) is the third child born alive to her;
+[28/2008 wef 31/10/2008]
 
-(b) she —
+and for such period (referred to in this Act as the benefit period), she shall be entitled to receive payment from her employer at her gross rate of pay.
+
+[9/2007 wef 01/03/2007]
+
+(2) Where a female employee has worked in her employment for any day during the benefit period before her confinement, she shall be entitled —
+
+(a) to receive, in addition to her gross rate of pay for that day, an amount that is equivalent to a day’s pay at the gross rate of pay; or
+
+(b) to absent herself from work on another day at the end of the benefit period.
+
+(3) Where the employment of a female employee is terminated (whether by resignation or dismissal, upon the completion of her contract of service, or for any other reason) before she has exercised, wholly or partly, her entitlement to absent herself from work during a period referred to in subsection (1)(c)(ii), she shall forfeit that entitlement (or the balance thereof) upon the termination of her employment.
+
+[9/2007 wef 01/03/2007]
+
+[28/2008 wef 31/10/2008]
+
+(4) Subject to subsection (5), section 9A and any regulations made under section 20, every self-employed woman who satisfies the requirements of section 9A(1) and who ceases to be actively engaged in her trade, business, profession or vocation —
+
+(a) during —
+
+(i) the period of 4 weeks immediately before her confinement; and
+
+(ii) the period of 8 weeks immediately after her confinement;
+
+[28/2008 wef 31/10/2008]
+
+(b) during a period of 12 weeks commencing —
+
+(i) not earlier than 28 days immediately preceding the day of her confinement; and
+
+(ii) not later than the day of her confinement; or
+
+[28/2008 wef 31/10/2008]
+
+(c) during —
+
+(i) a period of 8 weeks commencing —
+
+(A) not earlier than 28 days immediately preceding the day of her confinement; and
+
+(B) not later than the day of her confinement; and
+
+(ii) one or more further periods, not exceeding 24 days in the aggregate, which shall be within the period of 6 months commencing on the day of her confinement,
+
+[28/2008 wef 31/10/2008]
+
+and who has lost any income by reason of her ceasing to be actively engaged in such trade, business, profession or vocation, shall be entitled to claim from the Government the income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during such period referred to in subsection (5) as may be applicable.
+
+(5) A self-employed woman shall be entitled to payment from the Government under subsection (4) —
+
+(a) in respect of her first or second confinement, for such period of her cessation of active engagement in her trade, business, profession or vocation which is after the first 8 weeks of such cessation; and
+
+(b) in respect of her third or fourth confinement, for the whole period of her cessation of active engagement in her trade, business, profession or vocation.
+
+[42/2004 wef 01/10/2004]
+
+### Eligibility criteria and cap in respect of maternity benefits
+
+9A\.—(1) Subject to this section, a female employee shall be entitled to absent herself from work and to payment under section 9(1), and a self-employed woman shall be entitled to payment by the Government under section 9(4), if —
+
+(a) the child delivered during her confinement is a citizen of Singapore at the time of the child’s birth;
+
+(b) she has fewer than 4 other living children at the time of her confinement;
+
+(c) she —
 
 (i) is lawfully married to the child’s natural father at the time the child is conceived; or
 
 (ii) becomes lawfully married to the child’s natural father after the child is conceived but before the child’s birth, whether or not such marriage remains subsisting at the time of the child’s birth;
 
-(c) in the case of a female employee, she has served the employer for not less than 180 days immediately preceding the day of her confinement; and
+(d) in the case of a female employee, she has served the employer for not less than 180 days immediately preceding the day of her confinement; and
 
-(d) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of not less than 180 days immediately preceding the day of her confinement.
+(e) in the case of a self-employed woman, she has been carrying on her trade, business, profession or vocation for a continuous period of not less than 180 days immediately preceding the day of her confinement.
 
-(4) Notwithstanding subsection (3)(a)(ii), a female employee or self-employed woman who has given birth to a child before 1st April 2001 but has satisfied all the other requirements specified in subsection (3) shall —
+(2) Subsection (1)(b) shall not apply to the second confinement of a female employee or self-employed woman who has 4 or more other living children born to her during her first confinement.
 
-(a) in the case of a female employee, be entitled to payment by her employer of her gross rate of pay in accordance with subsection (5) if she has been granted maternity leave for the benefit period and such leave has not been completely consumed by 1st April 2001; and
+[9/2007 wef 01/03/2007]
 
-(b) in the case of a self-employed woman who has ceased to be actively engaged in her trade, business, profession or vocation during the period referred to in subsection (2), be entitled to claim from the Government in accordance with subsection (6), such income as she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during that period.
+(3) Notwithstanding anything in the Employment Act (Cap. 91), no female employee shall be entitled to absent herself from work or to any payment under section 76 of that Act in respect of any confinement to which she is entitled to absent herself from work or to payment under section 9(1).
 
-(5) A female employee referred to in subsection (4)(a) shall only be entitled to her gross rate of pay in respect of that period of her maternity leave which remains unconsumed on 1st April 2001.
+(4) Where a female employee absents herself from work during the whole or part of the benefit period —
 
-(6) A self-employed woman referred to in subsection (4)(b) shall only be entitled to claim the income she would have derived from her trade, business, profession or vocation for that part of the period referred to in subsection (2) which remains unexhausted on 1st April 2001.
+(a) in respect of her first or second confinement, the amount of payment she shall be entitled to receive from her employer under section 9(1) for such period of her absence from work which is after the first 8 weeks of her absence from work shall not exceed $10,000; and
 
-(7) Notwithstanding anything in this section, no woman shall be entitled to any payment under this section —
+(b) in respect of her third or fourth confinement, the amount of payment she shall be entitled to receive from her employer under section 9(1) for the whole period of her absence from work shall not exceed $30,000.
 
-(a) if she is also entitled to payment under section 76 of the Employment Act (Cap. 91) in respect of the confinement to which this section applies; and
+(5) Where a self-employed woman ceases to be actively engaged in her trade, business, profession or vocation during the whole or part of the period referred to in section 9(4)(a), (b) or (c) —
 
-(b) in excess of the amount of $20,000 (which amount shall be inclusive of any contribution to the Central Provident Fund which an employer, a female employee or self-employed woman is liable to make under the Central Provident Fund Act (Cap. 36)) regardless of —
+(a) in respect of her first or second confinement, the amount of payment she shall be entitled to receive from the Government under section 9(4) for the period referred to in section 9(5)(a) shall not exceed $10,000; and
 
-(i) the gross rate of pay to which she would normally have been entitled under the terms of her contract of service; or
+(b) in respect of her third or fourth confinement, the amount of payment she shall be entitled to receive from the Government under section 9(4) for the period referred to in section 9(5)(b) shall not exceed $30,000.
 
-(ii) the income she would have otherwise derived from her trade, business, profession or vocation.
+(6) The amounts of payment referred to in subsections (4) and (5) shall be inclusive of any contribution to the Central Provident Fund which an employer, a female employee or a self-employed woman is liable to make under the Central Provident Fund Act (Cap. 36).
 
-(8) Nothing in this section shall be construed as derogating from any other benefits that the female employee is entitled to during the benefit period under the terms of her contract of service or under any other written law.
+(7) Subject to subsection (3), nothing in this Part shall be construed as derogating from any other benefits that a female employee is entitled to during the benefit period under the terms of her contract of service or under any other written law.
 
-### Reimbursement from Government
-
-10\.—(1) Subject to subsection (2), every employer who makes payment to a female employee at her gross rate of pay in accordance with section 9 shall be entitled to claim reimbursement from the Government in accordance with the regulations made under section 20 of —
-
-(a) the amount of such payment; and
-
-(b) any contribution which the employer is liable to make in respect of such payment under the Central Provident Fund Act which is not recoverable from the employee’s wages.
-
-(2) No employer shall be entitled to claim reimbursement from the Government of an amount exceeding $20,000 in respect of each female employee who is entitled to payment at her gross rate of pay under section 9.
-
-### Recovery of payment by Government and employer
-
-11\.—(1) Where any payment has been made by an employer to a female employee or by the Government to a self-employed woman under section 9 by reason of a mistake of fact or in reliance of any false or misleading statement or document made or furnished by that female employee or self-employed woman —
-
-(a) the employer may, if he has not been reimbursed by the Government for the payment to the female employee under section 9, recover the payment directly from the female employee; and
+[28/2008 wef 31/10/2008]
 
 [42/2004 wef 01/10/2004]
 
-(b) the Government may, where it has reimbursed an employer for the payment to the female employee under section 9, recover such payment from the female employee or where the payment is made to a self-employed woman, from that woman, as a civil debt.
+### Reimbursement from Government
+
+10\.—(1) Subject to subsection (2) and any regulations made under section 20, where an employer makes payment to a female employee under section 9(1), he shall be entitled to claim reimbursement from the Government —
+
+(a) in respect of the first or second confinement of the employee, for —
+
+(i) the amount paid to the employee for such period of her absence from work which is after the first 8 weeks of her absence from work; and
+
+(ii) any contribution which the employer has made under the Central Provident Fund Act (Cap. 36) in respect of such payment which is not recoverable from the employee’s wages; and
+
+(b) in respect of the third or fourth confinement of the employee, for —
+
+(i) the amount paid to the employee for the whole period of her absence from work; and
+
+(ii) any contribution which the employer has made under the Central Provident Fund Act in respect of such payment which is not recoverable from the employee’s wages.
+
+[28/2008 wef 31/10/2008]
+
+[9/2007 wef 01/03/2007]
+
+(2) The amount of reimbursement an employer shall be entitled to claim from the Government under subsection (1) in respect of a female employee shall not exceed —
+
+(a) where subsection (1)(a) applies, $10,000; and
+
+(b) where subsection (1)(b) applies, $30,000.
+
+### Recovery of payment by Government and employer
+
+11\.—(1) Where any payment has been made by an employer to a female employee or by the Government to a self-employed woman under section 9, 12A or 22, as the case may be, by reason of a mistake of fact or in reliance of any false or misleading statement or document made or furnished by that female employee or self-employed woman —
+
+(a) the employer may, if he has not been reimbursed by the Government for the payment to the female employee under section 9, 12A or 22, as the case may be, recover the payment directly from the female employee; and
+
+[42/2004 wef 01/10/2004]
+
+(b) the Government may, where it has reimbursed an employer for the payment to the female employee under section 9, 12A or 22, as the case may be, recover such payment from the female employee or where the payment is made to a self-employed woman, from that woman, as a civil debt.
 
 [42/2004 wef 01/10/2004]
 
@@ -342,13 +446,13 @@ shall be entitled to claim from the Government, in accordance with the regulatio
 
 [28/2008 wef 31/10/2008]
 
-(2) The Government shall, if it is satisfied that an employer referred to in subsection (1)(a) has, despite all reasonable efforts to recover a payment from the female employee, been unable to recover such payment successfully, reimburse the employer under section 10 for the payment made to the female employee by the employer.
+(2) The Government shall, if it is satisfied that an employer referred to in subsection (1)(a) has, despite all reasonable efforts to recover a payment from the female employee, been unable to recover such payment successfully, reimburse the employer under section 10, 12A or 22, as the case may be, for the payment made to the female employee by the employer.
 
 [42/2004 wef 01/10/2004]
 
 ### Application of certain provisions of Employment Act
 
-12\. Sections 77 to 86 of the Employment Act (Cap. 91) shall apply to a payment under section 9 and to any female employee to which this Part applies and for the purposes of such application, any reference in those sections of the Employment Act to —
+12\.—(1) Sections 77 to 86 of the Employment Act (Cap. 91) shall apply to a payment under section 9 and to any female employee to which this Part applies and for the purposes of such application, any reference in those sections of the Employment Act to —
 
 (a) a female employee shall be read as a reference to a female employee to which this Act applies;
 
@@ -359,6 +463,98 @@ shall be entitled to claim from the Government, in accordance with the regulatio
 (d) “this Act” shall be read as a reference to this Act; and
 
 (e) section 76 shall be read as a reference to section 9 of this Act.
+
+[42/2004 wef 01/10/2004]
+
+(2) Parts XV and XVI of the Employment Act (Cap. 91) and such other provisions of that Act as the Minister for Manpower may by order specify shall apply, with such exceptions, adaptations and modifications as may be prescribed in the order, in relation to —
+
+(a) any employer or female employee to whom section 9 or 22 applies;
+
+(b) any dispute under this Part between such employer and such female employee; and
+
+(c) any offence or proceedings under section 17 (including any act or omission in respect of which a penalty is imposed),
+
+[28/2008 wef 31/10/2008]
+
+as they apply in relation to any employer, employee, dispute, offence or proceedings, as the case may be, under that Act.
+
+[42/2004 wef 01/10/2004]
+
+### Reimbursement of employer of female employee, and self-employed woman in respect of adoption leave
+
+12A\.—(1) Subject to subsections (2) and (3), where a female employee —
+
+(a) on or after 1st August 2004 , adopts a child in accordance with any written law relating to the adopting of children, being a child who —
+
+(i) is a citizen of Singapore at the time of the adoption or becomes a citizen of Singapore before he attains 6 months of age; and
+
+(ii) is below 6 months of age at the time he is adopted or becomes a citizen of Singapore, whichever is the later;
+
+[9/2007 wef 01/03/2007]
+
+(b) has fewer than 4 other living children at the time the child is adopted or becomes a citizen of Singapore, whichever is the later;
+
+(c) is married, widowed or divorced at the time the child is adopted or becomes a citizen of Singapore, whichever is the later;
+
+(d) during the period commencing on the day the child is adopted or becomes a citizen of Singapore, whichever is the later, and ending on the day before the child attains 6 months of age —
+
+(i) is granted leave by her employer; and
+
+(ii) absents herself from work by taking such leave,
+
+for one or more periods, not exceeding 24 days in the aggregate; and
+
+(e) has received payment from her employer at her gross rate of pay during such period or periods of absence,
+
+the employer shall be entitled to be reimbursed by the Government in accordance with any regulations made under section 20 for —
+
+(A) the amount of such payment; and
+
+(B) any contribution which the employer has made under the Central Provident Fund Act (Cap. 36) in respect of such payment which is not recoverable from the employee’s wages.
+
+(2) The leave referred to in subsection (1)(d) shall be in addition to —
+
+(a) the rest days, holidays, annual leave, sick leave and childcare leave to which an employee is entitled under sections 36, 42, 43, 44 and 87A, respectively, of the Employment Act (Cap. 91); and
+
+(b) any type of leave of absence to which the female employee is entitled under her contract of service with her employer that does not relate to the adoption of a child.
+
+[9/2007 wef 01/03/2007]
+
+[28/2008 wef 31/10/2008]
+
+(3) The amount of reimbursement an employer shall be entitled to claim from the Government in respect of a female employee under subsection (1) shall not exceed $10,000.
+
+[9/2007 wef 01/03/2007]
+
+[28/2008 wef 31/10/2008]
+
+(4) Subject to subsection (5), where a self-employed woman —
+
+(a) on or after 1st August 2004 , adopts a child in accordance with any written law relating to the adopting of children, being a child who —
+
+(i) is a citizen of Singapore at the time of the adoption or becomes a citizen of Singapore before he attains 6 months of age; and
+
+(ii) is below 6 months of age at the time he is adopted or becomes a citizen of Singapore, whichever is the later;
+
+[9/2007 wef 01/03/2007]
+
+(b) has fewer than 4 other living children at the time the child is adopted or becomes a citizen of Singapore, whichever is the later;
+
+(c) is married, widowed or divorced at the time the child is adopted or becomes a citizen of Singapore, whichever is the later;
+
+(d) during the period commencing on the day the child is adopted or becomes a citizen of Singapore, whichever is the later, and ending on the day before the child attains 6 months of age, ceases to be actively engaged in her trade, business, profession or vocation for one or more periods, not exceeding 24 days in the aggregate; and
+
+(e) has lost any income by reason of her ceasing to be actively engaged in her trade, business, profession or vocation during such period or periods,
+
+she shall be entitled to claim from the Government, in accordance with any regulations made under section 20, the income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during the period or periods referred to in paragraph (d).
+
+(5) The amount of payment a self-employed woman shall be entitled to receive from the Government under subsection (4) shall not exceed $10,000.
+
+[9/2007 wef 01/03/2007]
+
+[28/2008 wef 31/10/2008]
+
+[42/2004 wef 01/10/2004]
 
 ### Exclusion of certain classes of persons
 
@@ -388,9 +584,13 @@ MISCELLANEOUS
 
 (c) the entitlement of a person to make a withdrawal of moneys under the Scheme;
 
-(d) the entitlement of a female employee or self-employed woman to any payment under section 9;
+(d) the entitlement of a self-employed woman to any payment under section 9, 12A or 22;
 
-(e) the entitlement of an employer to reimbursement from the Government under section 10 or 11; or6
+[42/2004 wef 01/10/2004]
+
+[28/2008 wef 31/10/2008]
+
+(e) the entitlement of an employer to reimbursement from the Government under section 10, 11, 12A or 22; or6
 
 [42/2004 wef 01/10/2004]
 
@@ -424,7 +624,37 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Failure of employer to pay female employee
 
-17\.—(1) Any employer who fails to pay his female employee in accordance with or acts in contravention of any provision of Part III or sections 77 to 86 of the Employment Act (Cap. 91) as made applicable by section 12 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+17\.—(1) Any employer who —
+
+(a) fails to pay his employee in accordance with any provision of Part III or of sections 77 to 80 of the Employment Act (Cap. 91) as made applicable by section 12; or
+
+[28/2008 wef 31/10/2008]
+
+(b) contravenes section 81 of the Employment Act as made applicable by section 12,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[42/2004 wef 01/10/2004]
+
+[28/2008 wef 31/10/2008]
+
+(1A) Any employer who contravenes section 82 of the Employment Act as made applicable by section 12 shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both; and
+
+[28/2008 wef 31/10/2008]
+
+(b) for a subsequent offence, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[28/2008 wef 31/10/2008]
+
+[42/2004 wef 01/10/2004]
+
+(1B) Any employer who fails to comply with the direction of the Minister for Manpower under section 84(3) of the Employment Act as made applicable by section 12 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[42/2004 wef 01/10/2004]
+
+[28/2008 wef 31/10/2008]
 
 (2) Where an employer has been convicted of an offence under subsection (1), the court may order that employer to make restitution of any moneys paid out to that employer by the Government under section 10 which has not been paid to the female employee in accordance with the provisions of Part III.
 
@@ -444,7 +674,15 @@ he, as well as the body corporate, shall be guilty of the offence under subsecti
 
 ### Composition of offences
 
-19\. The Minister or any person authorised by him may, in his discretion, compound any offence under this Act by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $5,000, or in the case of an offence under section 17, a sum not exceeding $500.
+19\.—(1) The Minister or any person authorised by him may, in his discretion, compound any offence under section 16 or 18 or any regulations made under section 20 by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $5,000.
+
+[28/2008 wef 31/10/2008]
+
+(2) The Commissioner for Labour may, in his discretion, compound any offence under section 17 by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
+
+[28/2008 wef 31/10/2008]
+
+[42/2004 wef 01/10/2004]
 
 ### Regulations
 
@@ -452,13 +690,27 @@ he, as well as the body corporate, shall be guilty of the offence under subsecti
 
 (2) Without prejudice to the generality of subsection (1), the Minister may make regulations relating to —
 
-(a) the terms and conditions, manner and method of any payment to female employees and self-employed women under section 9;
+(a) the terms and conditions, manner and method of any payment to female employees and self-employed women under section 9, 12A or 22;
 
-(b) the manner and method of determining the income which a self-employed woman is entitled to claim from the Government under section 9;
+[42/2004 wef 01/10/2004]
 
-(c) the manner by which and the terms and conditions subject to which an employer may be reimbursed under section 10;
+(b) the manner of and method for determining the income which a self-employed woman is entitled to claim from the Government under section 9, 12A or 22;
 
-(d) the authority responsible for the assessment and payment of the income which a self-employed woman is entitled to claim under section 9 or the reimbursement which an employer is entitled to claim under section 10;
+[42/2004 wef 01/10/2004]
+
+(c) the manner of and method for determining the amount of reimbursement which an employer is entitled to claim under section 10, 12A or 22 and the terms and conditions subject to which the employer may be reimbursed;
+
+[42/2004 wef 01/10/2004]
+
+[28/2008 wef 31/10/2008]
+
+(d) the authority responsible for the assessment and payment of —
+
+(i) the income which a self-employed woman is entitled to claim under section 9, 12A or 22; or
+
+(ii) the reimbursement which an employer is entitled to claim under section 10, 12A or 22;
+
+[42/2004 wef 01/10/2004]
 
 (e) the registers and records to be maintained for the purposes of Part III and the forms and contents thereof; and
 
@@ -469,6 +721,76 @@ he, as well as the body corporate, shall be guilty of the offence under subsecti
 ### Exemption
 
 21\. The Minister may, subject to such terms and conditions as he may specify, exempt any person from complying with any requirement of this Act.
+
+### Transitional provision
+
+22\.—(1) Subject to subsections (2) and (3), where —
+
+(a) a female employee satisfies the requirements set out in section 9A(1);
+
+(b) her confinement occurred —
+
+(i) between 1st August 2004 and 30th September 2004 (both dates inclusive); or
+
+(ii) before 1st August 2004 but the estimated delivery date for that confinement (as certified by a medical practitioner) was a date on or after 1st August 2004;
+
+(c) her employer has granted her leave of absence for the period referred to in section 9(1)(a), (b) or (c), as the case may be;
+
+(d) she absents herself from work during the whole or any part of such period; and
+
+(e) she has received payment from her employer at her gross rate of pay during such period of absence,
+
+the employer shall be entitled to claim reimbursement from the Government in accordance with any regulations made under section 20 for the payments referred to in subsection (2).
+
+(2) The payments for which an employer shall be entitled to be reimbursed by the Government under subsection (1) shall be —
+
+(a) in respect of the first or second confinement of the employee —
+
+(i) the amount paid to the employee for such period of her absence from work which is after the first 8 weeks of her absence from work; and
+
+(ii) any contribution which the employer has made under the Central Provident Fund Act (Cap. 36) in respect of such payment which is not recoverable from the employee’s wages; and
+
+(b) in respect of the third or fourth confinement of the employee —
+
+(i) the amount paid to the employee for the whole period of her absence from work; and
+
+(ii) any contribution which the employer has made under the Central Provident Fund Act in respect of such payment which is not recoverable from the employee’s wages.
+
+(3) The amount of reimbursement an employer shall be entitled to claim from the Government under subsection (1) in respect of a female employee shall not exceed —
+
+(a) where subsection (2)(a) applies, $10,000; and
+
+(b) where subsection (2)(b) applies, $30,000.
+
+(4) Subject to subsections (5) and (6), where —
+
+(a) a self-employed woman satisfies the requirements set out in section 9A(1);
+
+(b) her confinement occurred —
+
+(i) between 1st August 2004 and 30th September 2004 (both dates inclusive); or
+
+(ii) before 1st August 2004 but the estimated delivery date for that confinement (as certified by a medical practitioner) was a date on or after 1st August 2004;
+
+(c) she ceases or has ceased to be actively engaged in her trade, business, profession or vocation during the whole or part of the period referred to in section 9(4)(a), (b) or (c), as the case may be; and
+
+(d) she has lost any income by reason of her ceasing to be actively engaged in such trade, business, profession or vocation during the whole or any part of such period,
+
+she shall be entitled to claim from the Government, in accordance with any regulations made under section 20, the income she would otherwise have derived from her trade, business, profession or vocation had she continued to be actively engaged in such trade, business, profession or vocation during such period referred to in subsection (5) as may be applicable.
+
+(5) A self-employed woman shall be entitled to payment from the Government under subsection (4) —
+
+(a) in respect of her first or second confinement, for such period of her cessation of active engagement in her trade, business, profession or vocation which is after the first 8 weeks of such cessation; and
+
+(b) in respect of her third or fourth confinement, for the whole period of her cessation of active engagement in her trade, business, profession or vocation.
+
+(6) The amount of payment that a self-employed woman shall be entitled to receive from the Government under subsection (4) —
+
+(a) in respect of her first or second confinement, for the period referred to in subsection (5)(a) shall not exceed $10,000; and
+
+(b) in respect of her third or fourth confinement, for the period referred to in subsection (5)(b) shall not exceed $30,000.
+
+[42/2004 wef 01/10/2004]
 
 ## LEGISLATIVE HISTORY
 
@@ -487,3 +809,8 @@ This Legislative History is provided for the convenience of users of the Childre
 ||Date of commencement|1 April 2001|
 |2.|**2002 Revised Edition—Children Development Co-Savings Act**|
 ||Date of operation|31 July 2002|
+|3.|**Act 42 of 2004—Children Development Co-Savings (Amendment) Act 2004**|
+||Date of First Reading|1 September 2004|
+|||(Bill No. 41/2004 published on 2 September 2004)|
+||Date of Second and Third Readings|21 September 2004|
+||Date of commencement|1 October 2004|
