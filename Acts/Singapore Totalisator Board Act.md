@@ -1,22 +1,20 @@
-**Singapore Totalisator Board Act 1987**
+**Singapore Totalisator Board Act**
 
-**(No. 29 of 1987)**
+**(CHAPTER 305A)**
 
 **Table of Contents**
 
 [**Long Title**](#Singapore-Totalisator-Board-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II THE SINGAPORE TOTALISATOR BOARD**](#Part-II)
+[**Part II SINGAPORE TOTALISATOR BOARD**](#Part-II)
 
-- [3 Establishment and incorporation of the Singapore Totalisator Board](#Establishment-and-incorporation-of-the-Singapore-Totalisator-Board)
+- [3 Establishment and incorporation of Singapore Totalisator Board](#Establishment-and-incorporation-of-Singapore-Totalisator-Board)
 
 - [4 Functions of Board](#Functions-of-Board)
 
@@ -60,51 +58,33 @@
 
 - [22 Property of Singapore Turf Club to be held on trust for Board](#Property-of-Singapore-Turf-Club-to-be-held-on-trust-for-Board)
 
-[**FIRST SCHEDULE Constitution and Proceedings of the Board**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-the-Board)
+[**FIRST SCHEDULE Constitution and Proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Board)
 
-[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
+[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Singapore Totalisator Board Act
 
-ACTS SUPPLEMENT
+(CHAPTER 305A)
 
-Published by Authority
+(Original Enactment: Act 29 of 1987)
 
-NO. 29]
+REVISED EDITION 1988
 
-Friday, December 18
-
-[1987
-
-The following Act was passed by Parliament on 30th November 1987 and assented to by the President on 15th December 1987:—
-
-Singapore Totalisator Board Act 1987
-
-(No. 29 of 1987)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-15th December 1987.
-
-Date of Commencement: 1st January 1988
+(30th April 1988)
 
 An Act to provide for the establishment of the Singapore Totalisator Board and to regulate the conduct of betting by agencies of the Board, and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st January 1988]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Singapore Totalisator Board Act 1987 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Singapore Totalisator Board Act.
 
 ### Interpretation
 
@@ -130,9 +110,9 @@ PRELIMINARY
 
 ## PART II
 
-THE SINGAPORE TOTALISATOR BOARD
+SINGAPORE TOTALISATOR BOARD
 
-### Establishment and incorporation of the Singapore Totalisator Board
+### Establishment and incorporation of Singapore Totalisator Board
 
 3\. There is hereby established a Board to be known as the Singapore Totalisator Board which shall be a body corporate with perpetual succession and a common seal and shall, by that name, be capable of —
 
@@ -150,7 +130,7 @@ THE SINGAPORE TOTALISATOR BOARD
 
 (b) to conduct equine research and establish, maintain and improve turf clubs, training centres for apprentices, jockeys, blacksmiths and others employed in connection with racing, and other places used in connection with racing;
 
-(c) to conduct four digit numbers forecast draws in accordance with any scheme which the Minister may, subject to such conditions as he may impose, authorise; and
+(c) to conduct 4 digit numbers forecast draws in accordance with any scheme which the Minister may, subject to such conditions as he may impose, authorise; and
 
 (d) to carry on all other activities which appear to the Board requisite, advantageous or convenient for or in connection with its functions and for the improvement of racing generally in Singapore.
 
@@ -204,9 +184,9 @@ TOTALISATORS AND TOTALISATOR AGENCIES
 
 (a) the administration of the scheme, and for the establishment, maintenance and operation of totalisators and totalisator agencies and for the carrying out of the functions of the Board under the scheme;
 
-(b) the receiving at totalisators and totalisator agencies of totalisator investments in respect of horse races, the credit facilities in respect of such investments, the manner in which such investments may be made and the times at which the conditions upon or subject to which such investments may be made and received;
+(b) the receiving at totalisators and totalisator agencies of totalisator investments in respect of horse races, the credit facilities in respect of such investments, the manner in which the investments may be made and the times at which and the conditions upon or subject to which the investments may be made and received;
 
-(c) the payment at or from totalisators and totalisator agencies of dividends payable in respect of totalisator investments received and the times at which and the manner in which such dividends may be paid;
+(c) the payment at or from totalisators and totalisator agencies of dividends payable in respect of totalisator investments received and the times at which and the manner in which the dividends may be paid;
 
 (d) the method of calculation of the dividends payable as aforesaid out of moneys received as totalisator investments;
 
@@ -258,9 +238,9 @@ MISCELLANEOUS
 
 (a) shall be applicable to any race course notwithstanding the fact that it is or forms part of a reserve or other place in respect of which there exists a right of public use or entry;
 
-(b) shall not be deemed to limit the power of any club to exclude or remove any person from any race course occupied by such club and which is free from such right of public use or entry.
+(b) shall not be deemed to limit the power of any club to exclude or remove any person from any race course occupied by the club and which is free from such right of public use or entry.
 
-(6) Any person who commits a breach of any by-law made under this section may be removed from the race course by any member, officer, agent or employee of the turf club by which such by-law was made, or by any police officer.
+(6) Any person who commits a breach of any by-law made under this section may be removed from the race course by any member, officer, agent or employee of the turf club by which the by-law was made, or by any police officer.
 
 (7) All by-laws made under this section shall be published in theGazette, and the cost of such publication shall be borne by the turf club by which the by-laws were made.
 
@@ -272,11 +252,11 @@ MISCELLANEOUS
 
 (b) any person of or above the age of 18 years to buy a ticket or chance or take part in any totalisator operated in accordance with an approved scheme, notwithstanding that he is not a member of a turf club.
 
-(2) Where any totalisator is operated in accordance with an approved scheme, no person shall be liable in respect of the use of such totalisator to any penalty or forfeiture under the Common Gaming Houses Act [Cap. 49] or the Betting Act [Cap. 21] or any other written law for the time being in force relating to gaming, betting or lotteries.
+(2) Where any totalisator is operated in accordance with an approved scheme, no person shall be liable in respect of the use of the totalisator to any penalty or forfeiture under the Common Gaming Houses Act [Cap. 49] or the Betting Act [Cap. 21] or any other written law for the time being in force relating to gaming, betting or lotteries.
 
 ### Certain advertisements relating to totalisator agencies not unlawful
 
-16\.—(1) Notwithstanding anything contained in any written law, it shall not be an offence for any person —
+16\.—(1) Notwithstanding anything in any written law, it shall not be an offence for any person —
 
 (a) to exhibit the name of any totalisator agency on any premises in which the agency is situated;
 
@@ -294,7 +274,7 @@ MISCELLANEOUS
 
 18\. Subject to the provisions of any approved scheme and any regulations made under section 21, any member, officer, agent or employee of the Board or of any turf club who —
 
-(a) receives or permits to be received any investment on the totalisator in respect of any race after the start of such race;
+(a) receives or permits to be received any investment on the totalisator in respect of any race after the start of the race;
 
 (b) registers on the totalisator after the start of any race any moneys received for investment in respect of that race;
 
@@ -308,11 +288,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Power of arrest
 
-19\. Any police officer may arrest without warrant any person whom he has reason to believe has committed an offence under section 17 or 18.
+19\. Any police officer may arrest without warrant any person who he has reason to believe has committed an offence under section 17 or 18.
 
 ### Inspection of totalisators and totalisator agencies
 
-20\. A police officer not below the rank of inspector may at any time enter for the purpose of inspection any premises in which any totalisator or totalisator agency is operated, and may during such inspection examine any books, accounts, records or other documents, or any machine or equipment, for the time being used in the operation of the totalisator or agency, and seize any such books, accounts, records, documents, machine or equipment which he has reasonable cause to believe to be evidence of the commission of any offence against this Act, and may demand from any person for the time being having the care and management of the totalisator or agency or any part thereof any information that he considers necessary for the purpose of the inspection.
+20\. A police officer not below the rank of inspector may at any time enter for the purpose of inspection any premises in which any totalisator or totalisator agency is operated, and may during such inspection examine any books, accounts, records or other documents, or any machine or equipment, for the time being used in the operation of the totalisator or agency, and seize any such books, accounts, records, documents, machine or equipment which he has reasonable cause to believe to be evidence of the commission of any offence under this Act, and may demand from any person for the time being having the care and management of the totalisator or agency or any part thereof any information that he considers necessary for the purpose of the inspection.
 
 ### Power to make regulations
 
@@ -320,25 +300,25 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Property of Singapore Turf Club to be held on trust for Board
 
-22\.—(1) The following property and funds of the Singapore Turf Club, a society registered under the Societies Act [Cap. 311], shall with effect from the appointed day be deemed to be held by the Club on trust for the purposes of the Board and the Board may at any time require the Club to transfer to the Board any such property or funds for those purposes:
+22\.—(1) The following property and funds of the Singapore Turf Club, a society registered under the Societies Act [Cap. 311], shall with effect from 9th November 1987 be deemed to be held by the Club on trust for the purposes of the Board and the Board may at any time require the Club to transfer to the Board any such property or funds for those purposes:
 
-(a) all immovable property owned by the Club on the appointed day; and
+(a) all immovable property owned by the Club on that date; and
 
-(b) all funds and investments belonging to the Club on the appointed day.
+(b) all funds and investments belonging to the Club on that date.
 
 (2) If any question arises as to whether any particular property, fund or investment is held on trust for the Board, the matter shall be determined by the Minister and a certificate under the hand of the Minister shall be conclusive evidence of the matter certified therein.
 
 (3) The Board may grant to the Singapore Turf Club out of the funds deemed to be held by the Club on trust for the Board such sums of money as the Board may determine to enable the Club to meet the expenses of carrying out its operations and to maintain or improve its facilities and for such other purpose as the Board thinks fit.
 
-(4) Notwithstanding subsection (1), the Singapore Turf Club may, from the appointed day to the commencement of this Act, apply any funds deemed to be held by the Club on trust for the Board for such purposes as may be approved by the Minister for Finance.
+(4) Notwithstanding subsection (1), the Singapore Turf Club may, from 9th November 1987 to 1st January 1988, apply any funds deemed to be held by the Club on trust for the Board for such purposes as may be approved by the Minister for Finance.
 
-(5) In this section, “appointed day” means 9th November 1987.
+[S 349/87]
 
 FIRST SCHEDULE
 
-Section 6(2)
+Section 6(2).
 
-Constitution and Proceedings of the Board
+Constitution and Proceedings of Board
 
 Appointment of Chairman and other members
 
@@ -426,11 +406,11 @@ Validity of proceedings
 
 SECOND SCHEDULE
 
-Section 10
+Section 10.
 
-Financial Provisions
+Financial provisions
 
-1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Board shall begin on the date of the establishment of the Board and shall end on 31st March 1988.
+1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
 2\. The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in custody of, the Board and over the expenditure incurred by the Board.
 
@@ -468,3 +448,20 @@ Financial Provisions
 
 14\. The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
+## LEGISLATIVE HISTORY
+
+Singapore Totalisator Board Act
+
+(CHAPTER 305A)
+
+This Legislative History is provided for the convenience of users of the Singapore Totalisator Board Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 29 of 1987—Singapore Totalisator Board Act 1987**|
+||Date of First Reading|9 November 1987|
+|||(Bill No. 21/1987 published on 11 November 1987)|
+||Date of Second and Third Readings|30 November 1987|
+||Date of commencement|1 January 1988|
+|2.|**1988 Revised Edition—Singapore Totalisator Board Act (Chapter 305A)**|
+||Date of operation|30 April 1988|
