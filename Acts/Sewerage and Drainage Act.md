@@ -228,11 +228,17 @@ PRELIMINARY
 
 “owner”, in relation to —
 
-(a) any premises, includes the person for the time being receiving the rent of the premises, whether on his own account or as agent or trustee or as receiver, or who would receive the rent if the premises were let to a tenant, and the person whose name is entered in the Valuation List authenticated under section 15 of the Property Tax Act (Cap. 254); and
+(a) any premises, includes the person for the time being receiving the rent of the premises, whether on his own account or as agent or trustee or as receiver, or who would receive the rent if the premises were let to a tenant, and the person whose name is entered in the Valuation List authenticated under section 15 of the Property Tax Act (Cap. 254);
 
-(b) the common property of any building erected on land comprised in a strata subdivision plan approved by a competent authority, means the management corporation having control of the building, a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Land Titles (Strata) Act (Cap. 158) or a liquidator appointed under that Act for the management corporation;
+(b) the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the management corporation having control of the building, and a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Building Maintenance and Strata Management Act 2004, and a liquidator appointed for that management corporation; and
 
-“premises” includes messuages, houses, buildings, lands, tenements, easements and hereditaments of any tenure whether open or enclosed, whether built or not, whether public or private, and whether maintained under statutory authority or not;
+[47/2004 wef 01/04/2005]
+
+(c) the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the subsidiary management corporation having control of that limited common property, and a managing agent appointed by a subsidiary management corporation or by the Commissioner of Buildings under the Building Maintenance and Strata Management Act 2004, and a liquidator appointed for that subsidiary management corporation;
+
+[47/2004 wef 01/04/2005]
+
+“premises” includes messuages, houses, buildings, lands, tenements, easements and hereditaments of any tenure, whether open or enclosed, whether built or not, whether public or private, and whether maintained under statutory authority or not;
 
 “public sewerage system” includes —
 
@@ -1256,6 +1262,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) an authorisation under section 27; or
 
+(c) [Deleted by Act 9/2002 wef 01/08/2002]
+
 (d) a notice under section 4(5) or (6), 6, 10, 11, 12, 14, 15, 20, 23, 24, 25, 26, or 30.
 
 [48
@@ -1663,6 +1671,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) prohibit the discharge of silt or debris into storm water drainage systems.
 
+(d) [Deleted by Act 9/2002 wef 01/08/2002]
+
 (2) Any regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
 [75
@@ -1697,6 +1707,13 @@ This Legislative History is provided for the convenience of users of the Sewerag
 |||(Bill No. 14/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|8 July 2002|
 ||Date of commencement|1 August 2002|
+|6.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|6 February 2004|
+|||(Bill No. 6/2004 published on 7 February 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 April 2005|
+|||(item (15) in the Fifth Schedule)|
 ## COMPARATIVE TABLE
 
 Sewerage and Drainage Act
