@@ -13777,3 +13777,9 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 16/2002 published on 24 May 2002)|
 ||Date of Second and Third Readings|8 July 2002|
 ||Dates of commencement|15 August 2002 (sections 2(a) and 36)|
+|60.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 October 2002 (Parts II to VII, XI and XIII, sections 314 and 342(1) and (3), Third Schedule and items (1)(b), (2), (3)(b), (4)(a)(ii), (d), (e), (j), (k), (n), (p), (r), (s) and (v), (5), (6) and (7)(a) and (d) and (8) to (11) of Fourth Schedule).|
