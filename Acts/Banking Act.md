@@ -1380,7 +1380,7 @@ Dividends
 
 [23/2001]
 
-(4) The Authority may, in its discretion, regard the balance-sheet and profit and loss account as having been duly audited for the purpose of subsection (2)(a)(iv) and (v) if the balance-sheet and profit and loss account are accompanied by a report by an approved company auditor which complies, insofar as it is practicable, with section 207 of the Companies Act (Cap. 50).
+(4) The Authority may, in its discretion, regard the balance-sheet and profit and loss account as having been duly audited for the purpose of subsection (2)(a)(iv) and (v) if the balance-sheet and profit and loss account are accompanied by a report by a public accountant within the meaning of the Companies Act (Cap.50) which complies, insofar as it is practicable, with section 207 of that Act.
 
 [23/2001]
 
@@ -3189,6 +3189,12 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 21/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|1 January 2004|
+|20.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 January 2004|
+|||(Bill No. 3/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|1 April 2004|
 ## COMPARATIVE TABLE
 
 Banking Act
