@@ -1,12 +1,10 @@
-**Development Loan Act 1987**
+**Development Loan (1987) Act**
 
-**(No. 9 of 1987)**
+**(CHAPTER 81A)**
 
 **Table of Contents**
 
 [**Long Title**](#Development-Loan-1987-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 [**Part I PRELIMINARY**](#Part-I)
 
@@ -22,7 +20,7 @@
 
 - [5 Application of loan](#Application-of-loan)
 
-[**Part III PROVISIONS APPLICABLE TO THE ISSUE AND REGISTRATION OF STOCK AND BEARER BONDS**](#Part-III)
+[**Part III PROVISIONS APPLICABLE TO ISSUE AND REGISTRATION OF STOCK AND BEARER BONDS**](#Part-III)
 
 - [6 Issue and form of stock](#Issue-and-form-of-stock)
 
@@ -44,7 +42,7 @@
 
 - [14 Confirmation of transaction](#Confirmation-of-transaction)
 
-[**Part V PROVISIONS RELATING TO THE REDEMPTION OF STOCK AND BEARER BONDS AND BOOK-ENTRY GOVERNMENT SECURITIES AND CREATION OF SINKING FUND**](#Part-V)
+[**Part V PROVISIONS RELATING TO REDEMPTION OF STOCK AND BEARER BONDS AND BOOK-ENTRY GOVERNMENT SECURITIES AND CREATION OF SINKING FUND**](#Part-V)
 
 - [15 Payment of interest](#Payment-of-interest)
 
@@ -72,43 +70,25 @@
 
 - [25 Regulations](#Regulations)
 
-- [26 Miscellaneous amendment](#Miscellaneous-amendment)
-
 [**THE SCHEDULE**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Development Loan (1987) Act
 
-ACTS SUPPLEMENT
+(CHAPTER 81A)
 
-Published by Authority
+(Original Enactment: Act 9 of 1987)
 
-NO. 12]
+REVISED EDITION 1988
 
-Friday, April 10
+(30th April 1988)
 
-[1987
+An Act to authorise a sum of $35,000 million to be raised by way of loan for the purposes of the Development Fund.1
 
-The following Act was passed by Parliament on 26th March 1987 and assented to by the President on 31st March 1987:—
+1Note: Seealso the Development Loan Act (Cap. 81).
 
-Development Loan Act 1987
-
-(No. 9 of 1987)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-31st March 1987.
-
-Date of Commencement: 10th April 1987
-
-An Act to authorise a sum of $35,000 million to be raised by way of loan for the purposes of the Development Fund.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[10th April 1987]
 
 ## PART I
 
@@ -116,7 +96,7 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the Development Loan Act 1987.
+1\. This Act may be cited as the Development Loan (1987) Act.
 
 ### Interpretation
 
@@ -124,7 +104,7 @@ PRELIMINARY
 
 “advance deposits” means such deposits as are received under section 21;
 
-“Authority” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 195);
+“Authority” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act [Cap. 186];
 
 “bearer bond” means a bearer bond issued under this Act;
 
@@ -152,11 +132,11 @@ AUTHORISATION AND APPLICATION OF LOAN
 
 ### Application of loan
 
-5\. The moneys received under this Act, less the sums required to defray the expenses of issues of stock, bearer bonds or book-entry Government securities and the sums arising from the acceptance of advance deposits under this Act, shall be paid into the Development Fund constituted under the Development Fund Act (Cap. 65), and shall be applied to the purposes of that Fund.
+5\. The moneys received under this Act, less the sums required to defray the expenses of issues of stock, bearer bonds or book-entry Government securities and the sums arising from the acceptance of advance deposits under this Act, shall be paid into the Development Fund constituted under the Development Fund Act [Cap. 80], and shall be applied to the purposes of that Fund.
 
 ## PART III
 
-PROVISIONS APPLICABLE TO THE ISSUE AND REGISTRATION OF STOCK AND BEARER BONDS
+PROVISIONS APPLICABLE TO ISSUE AND REGISTRATION OF STOCK AND BEARER BONDS
 
 ### Issue and form of stock
 
@@ -258,7 +238,7 @@ BOOK-ENTRY GOVERNMENT SECURITIES
 
 ## PART V
 
-PROVISIONS RELATING TO THE REDEMPTION OF STOCK AND BEARER BONDS AND BOOK-ENTRY GOVERNMENT SECURITIES AND CREATION OF SINKING FUND
+PROVISIONS RELATING TO REDEMPTION OF STOCK AND BEARER BONDS AND BOOK-ENTRY GOVERNMENT SECURITIES AND CREATION OF SINKING FUND
 
 ### Payment of interest
 
@@ -280,7 +260,7 @@ PROVISIONS RELATING TO THE REDEMPTION OF STOCK AND BEARER BONDS AND BOOK-ENTRY G
 
 Provided that the total amount in the sinking fund with the additional contributions does not exceed the outstanding principal moneys represented by the stock, bearer bonds and book-entry Government securities.
 
-(3) The Minister may at any time apply all or any part of the moneys in the sinking fund created under this section to the purchase of trustee stock or local stock or of any other stock, fund, security or investment mentioned in section 7(3) of the Financial Procedure Act (Cap. 68).
+(3) The Minister may at any time apply all or any part of the moneys in the sinking fund created under this section to the purchase of trustee stock or local stock or of any other stock, fund, security or investment mentioned in section 7(3) of the Financial Procedure Act [Cap. 109].
 
 (4) The Accountant-General shall in each year pay into the sinking fund created under this section a sum equal to the annual interest that would have been payable on any local stock purchased under subsection (3) if such stock had not been purchased as aforesaid.
 
@@ -326,7 +306,7 @@ ADVANCE DEPOSITS
 
 ### Saving
 
-23\. All advance deposits accepted by the Authority before the commencement of this Act under the Development Loan Act 1983 (Act 1 of 1983) in excess of the limit prescribed in section 3 of that Act shall be deemed to have been lawfully accepted under the provisions of this Act.
+23\. All advance deposits accepted by the Authority before 10th April 1987 under the Development Loan Act [Cap. 81] in excess of the limit prescribed in section 3 of that Act shall be deemed to have been lawfully accepted under the provisions of this Act.
 
 ## PART VII
 
@@ -350,19 +330,15 @@ GENERAL
 
 (2) The Authority may, with the approval of the Minister, by notification in theGazette, vary the regulations in relation to any particular issue of stock, bearer bonds or book-entry Government securities issued under this Act.
 
-### Miscellaneous amendment
-
-26\. Section 2 of the Trustees Act (Cap. 40) is amended by inserting, immediately after the words “by other formalities” in the definition of “stock”, the words “or otherwise,”.
-
 ## THE SCHEDULE
 
-Section 2.
+Section 2
 
 (a) The Development Loan (Local) Ordinance 1959 (No. 50 of 1959).
 
 (b) The Development Loan Ordinance 1961 (No. 7 of 1961).
 
-(c) The Development Loan Act (Chapter 66).
+(c) The Development Loan Act (1970 Ed. Cap. 66).
 
 (d) The Development Loan Act 1972 (Act 6 of 1972).
 
@@ -370,5 +346,22 @@ Section 2.
 
 (f) The Development Loan Act 1978 (Act 1 of 1978).
 
-(g) The Development Loan Act 1983 (Act 1 of 1983).
+(g) The Development Loan Act (Chapter 81).
 
+## LEGISLATIVE HISTORY
+
+Development Loan (1987) Act
+
+(CHAPTER 81A)
+
+This Legislative History is provided for the convenience of users of the Development Loan (1987) Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 9 of 1987—Development Loan Act 1987**|
+||Date of First Reading|13 March 1987|
+|||(Bill No. 7/1987 published on 16 March 1987)|
+||Date of Second and Third Readings|26 March 1987|
+||Date of commencement|10 April 1987|
+|2.|**1988 Revised Edition—Development Loan (1987) Act**|
+||Date of operation|30 April 1988|
