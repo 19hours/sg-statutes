@@ -380,15 +380,19 @@ the Minister may order that the society shall be dissolved.
 
 25\.—(1) Upon the making of an order of dissolution against any society under section 24 —
 
-(a) the property of the society shall forthwith vest either in the Official Assignee or, if any other officer is appointed for the purpose of winding up by the Minister in the notification of the order, then in that officer;
+(a) the property of the society shall forthwith vest either in the Official Receiver or, if any other officer is appointed for the purpose of winding up by the Minister in the notification of the order, then in that officer; and
 
-(b) the Official Assignee or that other officer shall proceed to wind up the affairs of the society and, after satisfying and providing for all debts and liabilities of the society and the costs of winding up, shall pay the surplus assets, if any, of the society —
+(b) the Official Receiver or that other officer shall proceed to wind up the affairs of the society and, after satisfying and providing for all debts and liabilities of the society and the costs of winding up, shall pay the surplus assets, if any, of the society —
 
 (i) where the Minister so directs, into the Consolidated Fund; and
 
-(ii) in the absence of a direction by the Minister, to the members of the society according to the rules of the society; and
+(ii) in the absence of a direction by the Minister, to the members of the society according to the rules of the society.
 
-(c) for the purposes of the winding up of the affairs of the society, the Official Assignee or that other officer shall have all the powers vested in the Official Assignee by any written law relating to bankruptcy for the purpose of the discovery of the property of a debtor and the realisation thereof, and the provisions of that law shall apply mutatis mutandis to the winding up of the affairs of the society under this Act.
+[9/2003 wef 16/05/2003]
+
+(1A) For the purposes of the winding up of the affairs of the society, the Official Receiver or that other officer shall have all the powers vested in the Official Receiver under the Companies Act (Cap. 50) for the purpose of the discovery of the property of a debtor and the realisation thereof, and the provisions of that Act shall apply, with the necessary modifications, to the winding up of the affairs of the society under this Act.
+
+[9/2003 wef 16/05/2003]
 
 (2) The Minister may, for the purpose of enabling a society to wind up its own affairs, suspend the operation of this section for such period as to him seems expedient.
 
@@ -550,3 +554,8 @@ The Societies Act 1966 repealed and re-enacted with amendments the Societies Act
 |||(Bill No. 35/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|8 January 2002|
+|6.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
