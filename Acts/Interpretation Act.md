@@ -138,7 +138,7 @@
 
 - [54 Saving of rights of Government](#Saving-of-rights-of-Government)
 
-- [55 Act to be binding on Government](#Act-to-be-binding-on-Government)
+- [55 Act to bind Government](#Act-to-bind-Government)
 
 [**Legislative History**](#Legislative-History)
 
@@ -148,11 +148,11 @@
 
 (CHAPTER 1)
 
-(Original Enactment: ACT 10 OF 1965)
+(Original Enactment: Act 10 of 1965)
 
-REVISED EDITION 1999
+REVISED EDITION 2002
 
-(1st August 1999)
+(31st December 2002)
 
 An Act to define certain terms and expressions used in written law and to make provision for the construction, interpretation and publication of written law and for matters connected therewith.
 
@@ -174,7 +174,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “Accountant-General” means the Accountant-General of Singapore;
 
-“act”, when used with reference to an offence or civil wrong, includes a series of acts, and words which refer to acts done shall be construed as extending to illegal omissions;
+“act”, in relation to an offence or civil wrong, includes a series of acts, and words which refer to acts done shall be construed as extending to illegal omissions;
 
 “Act” or “Act of Parliament” means an Act of the Parliament of Singapore and includes any Ordinance or Act of Singapore or Malaysia having the force of law in Singapore; and “Act”, when used in any subsidiary legislation, means the Act under the authority of which the subsidiary legislation was made;
 
@@ -183,8 +183,6 @@ GENERAL PROVISIONS OF INTERPRETATION
 “animal” includes bird, reptile, fish and every kind of vertebrate animal and the young thereof;
 
 “appoint” includes re-appoint;
-
-[28/2000 wef 01/11/2000]
 
 “Attorney-General” means the Attorney-General of Singapore;
 
@@ -198,7 +196,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “civil list” means the provision made under the Constitution for the maintenance of the President;
 
-“commencement”, when used with reference to an Act, means the time at which the Act comes into operation in Singapore;
+“commencement”, in relation to an Act, means the time at which the Act comes into operation in Singapore;
 
 “common law” means the common law in so far as it is in operation in Singapore and any custom or usage having the force of law in Singapore;
 
@@ -213,8 +211,6 @@ GENERAL PROVISIONS OF INTERPRETATION
 “consular officer” means consul-general, consul, vice-consul, consular agent and any person for the time being authorised to discharge the duties of consul-general, consul, vice-consul or consular agent;
 
 “contravene”, in relation to a provision of a written law, includes a failure to comply with a requirement or condition in that provision;
-
-[28/2000 wef 01/11/2000]
 
 “court” means any court of competent jurisdiction in Singapore;
 
@@ -244,7 +240,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “Judge of the Supreme Court” includes the Chief Justice, a Judge of Appeal and a Judge of the High Court;
 
-“legislature”, when used with reference to any part of the Commonwealth, means the authority competent to make laws for that part of the Commonwealth;
+“legislature”, in relation to any part of the Commonwealth, means the authority competent to make laws for that part of the Commonwealth;
 
 “Magistrate” means a Magistrate appointed as such under any written law for the time being in force relating to the courts;
 
@@ -254,7 +250,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “Malaysian citizen” or “Federal citizen” means any person who is a citizen of Malaysia by virtue of the provisions of any law for the time being in force, or any instrument for the time being having the force of law, in Malaysia;
 
-“master”, when used with reference to a ship, means any person, except a pilot or harbour master, having for the time being control or charge of the ship;
+“master”, in relation to a ship, means any person, except a pilot or harbour master, having for the time being control or charge of the ship;
 
 “Minister” means the Minister for the time being charged with the responsibility for the department or subject to which the context refers;
 
@@ -290,11 +286,11 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “Public Service Commission” means the Public Service Commission constituted under the provisions of the Constitution;
 
-“registered”, when used with reference to a document, means registered under the provisions of any written law for the time being applicable to the registration of such document;
+“registered”, in relation to a document, means registered under the provisions of any written law for the time being applicable to the registration of such document;
 
 “repeal” includes rescind, revoke, cancel or replace;
 
-“Rules of Court”, when used in relation to any court, means rules made by the authority having for the time being power to make rules or orders regulating the practice and procedure of such court, together with the forms necessary thereto;
+“Rules of Court”, in relation to any court, means rules made by the authority having for the time being power to make rules or orders regulating the practice and procedure of such court, together with the forms necessary thereto;
 
 “Secretary to the Cabinet” means the Secretary to the Cabinet appointed in accordance with the provisions of the Constitution;
 
@@ -312,7 +308,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “statutory declaration”, if made —
 
-(a) in Singapore, means a declaration made under the Statutory Declarations Act (Cap. 320);
+(a) in Singapore, means a declaration made under the Oaths and Declarations Act (Cap. 211);
 
 (b) in the United Kingdom or any part of the Commonwealth other than in Singapore, means a declaration made before a justice of the peace, notary public or other person having authority therein under any law for the time being in force to take or receive a declaration;
 
@@ -324,7 +320,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “United Kingdom” means Great Britain and Northern Ireland;
 
-“value”, when used with reference to a suit, means the value of the subject-matter of the suit;
+“value”, in relation to a suit, means the value of the subject-matter of the suit;
 
 “vessel” includes floating craft of every description;
 
@@ -342,13 +338,13 @@ words in the singular include the plural and words in the plural include the sin
 
 “year” means a year reckoned according to the Gregorian calendar.
 
-[14/69; 11/91; 16/93; 7/97,25/98]
+[14/69; 11/91; 16/93; 7/97; 25/98; 28/2000]
 
-(1A) Where a word or expression is defined in a written law, then, unless the contrary intention appears, other parts of speech and grammatical forms of that word or expression, and cognate expressions, have corresponding meanings in that law.
+(2) Where a word or expression is defined in a written law, then, unless the contrary intention appears, other parts of speech and grammatical forms of that word or expression, and cognate expressions, have corresponding meanings in that law.
 
-[28/2000 wef 01/11/2000]
+[28/2000]
 
-(2) In every written law enacted before 28th December 1965 —
+(3) In every written law enacted before 28th December 1965 —
 
 (a) references to the Colony of the Straits Settlements, the Settlement of Singapore, the Colony of Singapore, the Colony, the State of Singapore or the State, shall be construed as references to Singapore;
 
@@ -374,13 +370,13 @@ words in the singular include the plural and words in the plural include the sin
 
 (l) references to a Judge of the High Court and the Registrar of the High Court shall be construed as references to a Judge of the Supreme Court and the Registrar of the Supreme Court, respectively.
 
-(3) In every written law enacted before or after 26th January 1996, references to the Rules of the Supreme Court, the Supreme Court Rules, the Rules of the Subordinate Courts or the Subordinate Courts Rules, shall be construed as references to the Rules of Court.
+(4) In every written law enacted before or after 26th January 1996, references to the Rules of the Supreme Court, the Supreme Court Rules, the Rules of the Subordinate Courts or the Subordinate Courts Rules, shall be construed as references to the Rules of Court.
 
 [4/96]
 
-(4) Where an Act authorises or requires any document to be served by post, whether the word “serve”, “give” or “send” or any other word is used, then, unless a contrary intention appears, the service shall be deemed to be effected by properly addressing, prepaying and posting a letter containing the document, and, unless the contrary is proved, shall be deemed to have been effected at the time at which the letter would be delivered in the ordinary course of post.
+(5) Where an Act authorises or requires any document to be served by post, whether the word “serve”, “give” or “send” or any other word is used, then, unless a contrary intention appears, the service shall be deemed to be effected by properly addressing, prepaying and posting a letter containing the document, and, unless the contrary is proved, shall be deemed to have been effected at the time at which the letter would be delivered in the ordinary course of post.
 
-(5) Where aGazetteis published in more than one form, the date of publication of thatGazetteshall be deemed to be the date thatGazetteis first published in any form.
+(6) Where aGazetteis published in more than one form, the date of publication of thatGazetteshall be deemed to be the date thatGazetteis first published in any form.
 
 [25/98]
 
@@ -394,11 +390,15 @@ words in the singular include the plural and words in the plural include the sin
 
 [22/98]
 
-(2) The determination of the irreversible cessation of circulation of blood and respiration in the body of a person shall, subject to subsection (4), be made in accordance with the ordinary standards of current medical practice; and the determination of the total and irreversible cessation of all functions of the brain of a person shall, subject to subsections (3) and (5), be made in accordance with the prescribed criteria.
+(2) The determination of the irreversible cessation of circulation of blood and respiration in the body of a person shall, subject to subsection (5), be made in accordance with the ordinary standards of current medical practice.
 
 [22/98]
 
-(3) Except in the circumstances referred to in subsection (5), the determination of the total and irreversible cessation of all functions of the brain of a person shall be certified in the prescribed form by 2 medical practitioners —
+(3) The determination of the total and irreversible cessation of all functions of the brain of a person shall, subject to subsections (4) and (6), be made in accordance with the prescribed criteria.
+
+[22/98]
+
+(4) Except in the circumstances referred to in subsection (6), the determination of the total and irreversible cessation of all functions of the brain of a person shall be certified in the prescribed form by 2 medical practitioners —
 
 (a) at least one of whom has not been involved in the care or treatment of the person so certified; and
 
@@ -406,7 +406,7 @@ words in the singular include the plural and words in the plural include the sin
 
 [22/98]
 
-(4) If the death of a person from whose body an organ is to be removed after his death as authorised under the Human Organ Transplant Act (Cap. 131A) or the Medical (Therapy, Education and Research) Act (Cap. 175) is determined by the irreversible cessation of circulation of blood and respiration in the body of that person, his death shall be certified in the prescribed form by 2 medical practitioners —
+(5) If the death of a person from whose body an organ is to be removed after his death as authorised under the Human Organ Transplant Act (Cap. 131A) or the Medical (Therapy, Education and Research) Act (Cap. 175) is determined by the irreversible cessation of circulation of blood and respiration in the body of that person, his death shall be certified in the prescribed form by 2 medical practitioners —
 
 (a) who have not been involved in the care or treatment of the person so certified;
 
@@ -418,7 +418,7 @@ words in the singular include the plural and words in the plural include the sin
 
 [22/98]
 
-(5) If the death of a person from whose body an organ is to be removed after his death as authorised under the Human Organ Transplant Act (Cap. 131A) or the Medical (Therapy, Education and Research) Act (Cap. 175) is determined by the total and irreversible cessation of all functions of the brain of that person, his death shall be certified in the prescribed form by 2 medical practitioners —
+(6) If the death of a person from whose body an organ is to be removed after his death as authorised under the Human Organ Transplant Act (Cap. 131A) or the Medical (Therapy, Education and Research) Act (Cap. 175) is determined by the total and irreversible cessation of all functions of the brain of that person, his death shall be certified in the prescribed form by 2 medical practitioners —
 
 (a) who have not been involved in the care or treatment of the person so certified;
 
@@ -432,15 +432,15 @@ words in the singular include the plural and words in the plural include the sin
 
 [22/98]
 
-(6) The Minister may, for the purposes of all laws or any specified written law, by regulations prescribe —
+(7) The Minister may, for the purposes of all laws or any specified written law, by regulations prescribe —
 
-(a) the criteria for determining the total and irreversible cessation of all functions of the brain of a person referred to in subsections (1)(b) and (2); and
+(a) the criteria for determining the total and irreversible cessation of all functions of the brain of a person referred to in subsections (1)(b) and (3); and
 
-(b) the postgraduate medical qualifications and form of the death certificate for the purposes of subsection (3), (4) or (5).
+(b) the postgraduate medical qualifications and form of the death certificate for the purposes of subsection (4), (5) or (6).
 
 [22/98]
 
-(7) Nothing in this section shall —
+(8) Nothing in this section shall —
 
 (a) affect the operation of section 110 of the Evidence Act (Cap. 97) (burden of proving that a person is alive who has not been heard of for 7 years), section 100 of the Women’s Charter (Cap. 353) (proceedings for decree nisi of presumption of death and divorce) or any other written law relating to the presumption of death;
 
@@ -448,7 +448,7 @@ words in the singular include the plural and words in the plural include the sin
 
 [22/98]
 
-(8) In this section, “medical practitioner” means a person who is registered, or deemed to be registered, as a medical practitioner under the Medical Registration Act (Cap. 174).
+(9) In this section, “medical practitioner” means a person who is registered, or deemed to be registered, as a medical practitioner under the Medical Registration Act (Cap. 174).
 
 [22/98]
 
@@ -484,13 +484,21 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 (b) if the example or illustration is inconsistent with the provision, the provision prevails.
 
-[28/2000 wef 01/11/2000]
+[28/2000]
 
 ### Mode of citing Acts
 
-8\.—(1) Where any Act is referred to, it shall be sufficient for all purposes to cite the Act either by the short title, if any, by which it is made citable, or by the year in which it was made and its number among the Acts of that year or, in the case of a revised edition of the Acts issued under any written law providing for the issue of a revised edition, by its short title or its chapter number; and the reference may in all cases be made according to the copies of Acts printed by the Government Printer.
+8\.—(1) Where any Act is referred to, it shall be sufficient for all purposes to cite the Act —
 
-(2) Any such citation of an Act shall, unless the contrary intention appears, be construed as a reference to the Act as amended from time to time by any other Act.
+(a) by the short title, if any, by which it is made citable;
+
+(b) by the year in which it was made and its number among the Acts of that year or;
+
+(c) in the case of a revised edition of the Acts issued under any written law providing for the issue of a revised edition, by its short title or its chapter number;
+
+(2) The reference under subsection (1) may in all cases be made according to the copies of Acts printed by the Government Printer.
+
+(3) Any such citation of an Act shall, unless the contrary intention appears, be construed as a reference to the Act as amended from time to time by any other Act.
 
 ### Construction in an Act of references to sections, etc.
 
@@ -498,7 +506,7 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 (2) Where in any section of an Act there is a reference to a subsection, paragraph or sub-paragraph by number or letter only, the reference shall be construed as a reference to the subsection, paragraph or sub-paragraph of that number or letter contained in the section in which the reference occurs.
 
-(3) This section shall, with suitable modification, apply to subsidiary legislation.
+(3) This section shall apply, with suitable modification, to subsidiary legislation.
 
 ### Purposive interpretation of written law and use of extrinsic materials
 
@@ -552,11 +560,9 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 [11/93]
 
-[28/2000 wef 01/11/2000]
-
 (2) Where a written law is to come into operation on a day specified by a notification made under the written law, the notification may specify different days for different provisions of the written law to come into operation.
 
-[28/2000 wef 01/11/2000]
+[28/2000]
 
 ### Effect of repeal of Act on subsidiary legislation made thereunder
 
@@ -608,15 +614,15 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 (c) the exclusion of the application of the written law or part to any person, subject-matter or circumstance.
 
-[28/2000 wef 01/11/2000]
+[28/2000]
 
 (3) Where a written law expires, lapses or otherwise ceases to have effect, this section applies as if the written law had been repealed by another written law.
 
-[28/2000 wef 01/11/2000]
+[28/2000]
 
 (4) A reference in this section to a part of a written law includes a reference to any provision of, or words, figures, drawings or symbols in, the written law.
 
-[28/2000 wef 01/11/2000]
+[28/2000]
 
 ### Construction of amending Act
 
@@ -680,13 +686,17 @@ SUBSIDIARY LEGISLATION
 
 ### Commencement of subsidiary legislation
 
-23\.—(1) Subsidiary legislation made under any Act or other lawful authority shall, unless it is otherwise expressly provided in any Act, be published in theGazetteand, unless it is otherwise provided in the subsidiary legislation, shall take effect and come into operation on the date of its publication.
+23\.—(1) Subsidiary legislation made under any Act or other lawful authority shall —
+
+(a) unless it is otherwise expressly provided in any Act, be published in theGazette; and
+
+(b) unless it is otherwise provided in the subsidiary legislation, take effect and come into operation on the date of its publication.
 
 (2) Any such subsidiary legislation may be made to operate retrospectively to any date not being a date earlier than the commencement of the Act or the establishment of the authority by or under which the subsidiary legislation is made.
 
 ### Judicial notice of subsidiary legislation
 
-24\. Judicial notice shall be taken of all subsidiary legislation made or purporting to be made in pursuance of any Act or other lawful authority.
+24\. Judicial notice shall be taken of all subsidiary legislation made or purporting to be made under any Act or other lawful authority.
 
 ### Construction of amending subsidiary legislation
 
@@ -700,7 +710,7 @@ SUBSIDIARY LEGISLATION
 
 26A\. Unless the contrary intention appears, a reference in any written law to an Act is to be construed so as to include a reference to any subsidiary legislation made under that Act.
 
-[28/2000 wef 01/11/2000]
+[28/2000]
 
 ## PART IV
 
@@ -750,6 +760,8 @@ POWERS AND APPOINTMENTS
 
 32A\.—(1) Where a written law confers a power or function or imposes a duty upon a statutory body consisting of not fewer than 3 persons, the power may be exercised, or the function or duty may be performed, by a majority of those persons.
 
+[28/2000]
+
 (2) Where a statutory body consists of 3 or more persons —
 
 (a) a quorum is constituted at a meeting of the body by a number of members of the body equal to —
@@ -760,13 +772,19 @@ POWERS AND APPOINTMENTS
 
 (b) an act or thing done by a majority of the members of the body present at the meeting, if those members constitute a quorum, is to be regarded as having been done by the body.
 
+[28/2000]
+
 (3) At a meeting of a statutory body, the chairman or other member presiding shall have a casting as well as a deliberative vote in all matters in which a decision is taken by vote.
+
+[28/2000]
 
 (4) This section is subject to any provision to the contrary in any written law.
 
+[28/2000]
+
 (5) In this section, “statutory body” means a board, commission, committee or similar body, whether corporate or unincorporate, established under a written law.
 
-[28/2000 wef 01/11/2000]
+[28/2000]
 
 ### Powers of board, etc., not affected by vacancy, etc.
 
@@ -838,7 +856,7 @@ MISCELLANEOUS
 
 ### Prima facie evidence of signature
 
-43\. Whenever the fiat, authorisation or sanction of the President, a Minister, the Attorney-General, the Solicitor-General, the Public Prosecutor, a Deputy Public Prosecutor or any public officer is necessary before any prosecution or action is commenced or for any purpose whatsoever in connection with any proceeding, any document purporting to bear the fiat, authorisation or sanction of the President, Minister, Attorney-General, Solicitor-General, Public Prosecutor, Deputy Public Prosecutor or public officer, as the case may be, shall be received as prima facie evidence in any proceeding without proof being given that the signature to such fiat, authorisation or sanction is that of the President, Minister, Attorney-General, Solicitor-General, Public Prosecutor, Deputy Public Prosecutor or public officer, as the case may be.
+43\. Where the fiat, authorisation or sanction of the President, a Minister, the Attorney-General, the Solicitor-General, the Public Prosecutor, a Deputy Public Prosecutor or any public officer is necessary before any prosecution or action is commenced or for any purpose in connection with any proceeding, any document purporting to bear the fiat, authorisation or sanction of the President, Minister, Attorney-General, Solicitor-General, Public Prosecutor, Deputy Public Prosecutor or public officer, as the case may be, shall be received as prima facie evidence in any proceeding without proof being given that the signature to such fiat, authorisation or sanction is that of the President, Minister, Attorney-General, Solicitor-General, Public Prosecutor, Deputy Public Prosecutor or public officer, as the case may be.
 
 ### Public officers
 
@@ -846,17 +864,17 @@ MISCELLANEOUS
 
 ### Act for which payment is required need not be performed until payment is made
 
-45\.—(1) Whenever any person, public officer, public department or statutory authority is required to do anything for which a fee is to be paid or a charge made under any written law, the person, public officer, public department or statutory authority may decline to do that thing —
+45\.—(1) Where any person, public officer, public department or statutory authority is required to do anything for which a fee is to be paid or a charge made under any written law, the person, public officer, public department or statutory authority may decline to do that thing —
 
 (a) until the fee is paid or payment is made; and
 
 (b) where the precise amount of the payment to be made cannot be ascertained until the thing is done, until there is paid such an amount as may be estimated to be the correct amount by the person, public officer, public department or statutory authority required to do that thing.
 
-(2) Whenever a thing has been done for which an estimated amount has been paid, the amount shall be adjusted to the correct amount either by means of a further payment or by a refund of the amount overpaid.
+(2) Where a thing has been done for which an estimated amount has been paid, the amount shall be adjusted to the correct amount either by means of a further payment or by a refund of the amount overpaid.
 
 ### Fees or charges may be prescribed and may be reduced, varied, remitted or refunded
 
-46\.—(1) Whenever any act requires to be done or a service performed by a public body, statutory authority or public officer under or in connection with any written law, and no special provision is made thereby or thereunder for making a charge in respect of the act or service, the Minister may, by order published in theGazette, provide for the imposition of such fees or charges as he may consider proper.
+46\.—(1) Where any act requires to be done or a service performed by a public body, statutory authority or public officer under or in connection with any written law, and no special provision is made thereby or thereunder for making a charge in respect of the act or service, the Minister may, by order published in theGazette, provide for the imposition of such fees or charges as he may consider proper.
 
 (2) Any fee or charge under any written law made payable to the Government or to any public body, statutory authority or public officer, not being a fee or charge which is regulated by Rules of Court, may by order of the Minister be reduced, remitted or refunded, in whole or in part in the circumstances of any particular case.
 
@@ -894,13 +912,15 @@ MISCELLANEOUS
 
 (ii) by leaving it at, or by sending it by pre-paid post to, the registered office or a principal office of the body corporate in Singapore.
 
+[28/2000]
+
 (2) Nothing in subsection (1) —
 
 (a) affects the operation of any written law that authorises the service of a document otherwise than as provided in that subsection; or
 
 (b) affects the power of a court to authorise service of a document otherwise than as provided in that subsection.
 
-[28/2000 wef 01/11/2000]
+[28/2000]
 
 ### Measurement of distance
 
@@ -920,11 +940,11 @@ MISCELLANEOUS
 
 ### Standard time
 
-51\.—(1) Whenever any expression of time occurs in any written law or in any instrument whatsoever and whenever the doing or not doing anything at a certain time of the day or night or during a certain part of the day or night has an effect in law, that time shall, unless it is otherwise specifically stated, be held to be standard time as declared by this section.
+51\.—(1) Where any expression of time occurs in any written law or in any instrument whatsoever and whenever the doing or not doing anything at a certain time of the day or night or during a certain part of the day or night has an effect in law, that time shall, unless it is otherwise specifically stated, be held to be standard time as declared by this section.
 
 (2) “Standard time” means standard time as used in Singapore, namely, 8 hours, or such other period as may from time to time be determined by the President by notification in theGazette, in advance of Coordinated Universal Time.
 
-[26/2001 wef 01/09/2001]
+[26/2001]
 
 ### Provision when no time prescribed
 
@@ -938,9 +958,9 @@ MISCELLANEOUS
 
 54\. No Act shall in any manner whatsoever affect the rights of the Government unless it is therein expressly provided, or unless it appears by necessary implication, that the Government is bound thereby.
 
-### Act to be binding on Government
+### Act to bind Government
 
-55\. This Act shall be binding on the Government
+55\. This Act shall bind the Government.
 
 ## LEGISLATIVE HISTORY
 
@@ -1032,31 +1052,25 @@ This Legislative History is provided for the convenience of users of the Interpr
 
 |
 (Section 2 — Amendment of Interpretation Act)|
+|17.|**2002 Revised Edition—Interpretation Act**|
+||Date of operation|31 December 2002|
 ## COMPARATIVE TABLE
 
 Interpretation Act
 
 (CHAPTER 1)
 
-The following provisions in the 1997 Revised Edition of the Interpretation Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+The following provisions in the 1999 Revised Edition of the Interpretation Act have been renumbered by the Law Revision Commissioners in this 2002 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Interpretation Act.
 
+2002 Ed\. 
+
 1999 Ed\. 
 
-1997 Ed\. 
+2 — (2)
 
-30 —(1) and (2)
-
-30 —(1)
-
-(3)
-
-(2)
-
-36 —(1) and (2)
-
-36 —(1)
+2 —(1A)
 
 (3)
 
@@ -1066,15 +1080,47 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (3)
 
-42 —(1) and (2)
+(5)
 
-42 —(1)
+(4)
+
+(6)
+
+(5)
+
+2A —(2) and (3)
+
+2A —(2)
+
+(4)
+
+(3)
+
+(5)
+
+(4)
+
+(6)
+
+(5)
+
+(7)
+
+(6)
+
+(8)
+
+(7)
+
+(9)
+
+(8)
+
+8 —(1) and (2)
+
+8 —(1)
 
 (3)
 
 (2)
-
-48 (a) and (b)
-
-48 
 
