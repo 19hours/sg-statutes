@@ -2809,3 +2809,8 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 12/1993 published on 27 February 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
+|41.|**Act 18 of 1994—Statutes (Miscellaneous Amendments) Act 1994**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 25/1994 published on 29 July 1994)|
+||Date of Second and Third Readings|25 August 1994|
+||Date of commencement|1 October 1994|
