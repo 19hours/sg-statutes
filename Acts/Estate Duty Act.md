@@ -2561,3 +2561,5 @@ This Legislative History is provided for the convenience of users of the Estate 
 |||(Bill No. 21/96 published on 13 July 1996)|
 ||Date of Second and Third Readings|27 August 1996|
 ||Date of commencement|6 September 1996|
+|28.|**G. N. No. S 460/1996—Estate Duty Act (Amendment Of Fourteenth Schedule) (No. 2) Order 1996**|
+||Date of commencement|18 October 1996|
