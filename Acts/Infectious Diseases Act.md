@@ -1144,7 +1144,15 @@ Infectious Diseases
 
 (7) Encephalitis\.
 
+(7A) Hand, foot and mouth disease.
+
+[S 397/2000 wef 01/10/2000]
+
 (8) Human Immunodeficiency Virus Infection \.
+
+(8A) Legionellosis.
+
+[S 397/2000 wef 01/10/2000]
 
 (9) Leprosy\.
 
@@ -1153,6 +1161,10 @@ Infectious Diseases
 (11) Measles\.
 
 (12) Mumps\.
+
+(12A) Nipah virus infection.
+
+[S 397/2000 wef 01/10/2000]
 
 (13) Paratyphoid\.
 
@@ -1272,6 +1284,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 |||(Bill No. 38/99 published on 12 October 1999)|
 ||Date of Second and Third Readings|24 November 1999|
 ||Date of commencement|1 May 2000|
+|16.|**G. N. No. S 397/2000—Infectious Diseases Act (Amendment of First Schedule) Notification 2000**|
+||Date of commencement|1 October 2000|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
