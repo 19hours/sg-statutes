@@ -520,7 +520,7 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 [Act 3/95 wef 01/04/1995]
 
-(d) (Deleted by Act 3/95 wef 1.4.95 vide S 138/95).
+(d) [Deleted by Act 3/95 wef 1.4.95]
 
 (e) the business of the corporation, so far as it relates to the supply of architectural services, will be under the control and management of a director of the corporation who —
 
@@ -530,7 +530,7 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (ii) has in force a practising certificate; and
 
-(iii) (Deleted by Act 3/95 wef 1.4.95 vide S 138/95).
+(iii) [Deleted by Act 3/95 wef 1.4.95]
 
 (f) the corporation is insured against professional liability in accordance with section 24 and the rules.
 
@@ -650,7 +650,12 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ## PART VII
 
-DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
+DISCIPLINARY PROCEEDINGS AND
+
+
+
+
+REVOCATION OF LICENCES
 
 ### Cancellation of registration or suspension from practice
 
@@ -770,7 +775,7 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply architectural services in Singapore except as may be approved by the Board for the purpose of winding up its business.
 
-(7) Subsection (6) (b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
+(7) Subsection (6)(b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
 
 ### Appeals
 
@@ -962,3 +967,11 @@ This Legislative History is provided for the convenience of users of the Archite
 |||(Bill No. 34/94 published on 6 December 1994)|
 ||Date of Second and Third Readings|23 January 1995|
 ||Date of commencement|1 April 1995|
+|4.|**Act 15 of 1995—Bankruptcy Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 July 1994|
+|||(Bill No. 16/94 published on 29 July 1994)|
+||Date of Second Reading|25 August 1994|
+||Referred to Select Committee|Parl 1 of 1995 presented to Parliament on 7 March 1995|
+||Date of Third Reading|23 March 1995|
+||Date of commencement|15 July 1995|
