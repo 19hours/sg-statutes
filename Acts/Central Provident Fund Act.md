@@ -3035,6 +3035,12 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|15 March 2000|
 |110.|**G.N. No. S 156/2000—Central Provident Fund Act (Amendment of First Schedule) Notification 2000**|
 ||Date of commencement|1 April 2000|
+|111.|**Act 22 of 2000—Auctioneers’ Licences (Amendment) Act 2000**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 May 2000|
+|||(Bill No. 17/2000 published on 23 May 2000)|
+||Date of Second and Third Readings|3 July 2000|
+||Date of commencement|1 August 2000|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
