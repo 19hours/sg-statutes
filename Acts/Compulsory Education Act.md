@@ -1,14 +1,12 @@
-**Compulsory Education Act 2000**
+**Compulsory Education Act**
 
-**(No. 27 of 2000)**
+**(CHAPTER 51)**
 
 **Table of Contents**
 
 [**Long Title**](#Compulsory-Education-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -32,43 +30,25 @@
 
 - [12 Regulations](#Regulations)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Compulsory Education Act
 
-ACTS SUPPLEMENT
+(CHAPTER 51)
 
-Published by Authority
+(Original Enactment: Act 27 of 2000)
 
-NO. 27]
+REVISED EDITION 2001
 
-Friday, October 27
-
-[2000
-
-The following Act was passed by Parliament on 9th October 2000 and assented to by the President on 16th October 2000:—
-
-Compulsory Education Act 2000
-
-(No. 27 of 2000)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-16th October 2000.
-
-Date of Commencement: 1st January 2003
+(31st December 2001)
 
 An Act to provide for compulsory primary education in Singapore and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st January 2003]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Compulsory Education Act 2000 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Compulsory Education Act.
 
 ### Interpretation
 
@@ -84,7 +64,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (a) a school organised and conducted directly by the Government;
 
-(b) a school in receipt of grant-in-aid under the Education Act or any regulations made thereunder;
+(b) a school in receipt of grant-in-aid under the Education Act;
 
 (c) a school specified in any order made under section 3(1) of the School Boards (Incorporation) Act (Cap. 284A); or
 
@@ -116,7 +96,11 @@ shall attend regularly as a pupil at a national primary school.
 
 ### Exemption
 
-4\.—(1) The Minister may, by order published in theGazetteand subject to such terms or conditions as he may impose, exempt any child of compulsory school age or class of children of compulsory school age from section 3.
+4\.—(1) The Minister may, by order published in the
+
+Gazette
+
+and subject to such terms or conditions as he may impose, exempt any child of compulsory school age or class of children of compulsory school age from section 3.
 
 (2) An exemption granted under this section may be revoked at any time.
 
@@ -154,15 +138,15 @@ the Minister may remove him from such office.
 
 (11) All questions arising at any meeting of the Board shall be decided by a majority of votes of the members present and, in the case of an equality of votes, the chairman or, in his absence, the member presiding shall have a casting vote.
 
-(12) Subject to the provisions of this Act and any regulations made thereunder, the Board may regulate its own procedure in such manner as it thinks fit.
+(12) Subject to the provisions of this Act, the Board may regulate its own procedure in such manner as it thinks fit.
 
 ### Duties and powers of Board
 
 6\.—(1) The duties of the Board shall be —
 
-(a) to investigate whether the provisions of this Act or any regulations made thereunder have been or are being contravened;
+(a) to investigate whether the provisions of this Act have been or are being contravened;
 
-(b) to make recommendations to the Director-General on the enforcement of the provisions of this Act or any regulations made thereunder; and
+(b) to make recommendations to the Director-General on the enforcement of the provisions of this Act; and
 
 (c) generally to do all such acts and things as are necessary to be carried out under the provisions of this Act.
 
@@ -198,11 +182,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### No person to be charged for offence except on complaint of Director-General of Education
 
-8\. No person shall be charged with any offence under this Act or any regulations made thereunder except on the complaint of the Director-General.
+8\. No person shall be charged with any offence under this Act except on the complaint of the Director-General.
 
 ### Composition of offences
 
-9\. The Director-General may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $2,000.
+9\. The Director-General may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $2,000.
 
 ### Protection from personal liability
 
@@ -212,13 +196,30 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) any other person acting under the direction of the Board,
 
-for anything which is in good faith done or intended to be done in the execution or purported execution of this Act or any regulations made thereunder.
+for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
 
 ### Operation of this Act not to affect Education Act
 
-11\. Except as otherwise expressly provided in this Act, nothing in this Act shall affect the operation of the Education Act (Cap. 87) or any regulations made thereunder.
+11\. Except as otherwise expressly provided in this Act, nothing in this Act shall affect the operation of the Education Act (Cap. 87).
 
 ### Regulations
 
 12\. The Minister may make such regulations as are necessary or expedient for the purpose of carrying out any of the provisions of this Act.
 
+## LEGISLATIVE HISTORY
+
+Compulsory Education Act
+
+(CHAPTER 51)
+
+This Legislative History is provided for the convenience of users of the Compulsory Education Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 27 of 2000—Compulsory Education Act 2000**|
+||Date of First Reading|25 August 2000|
+|||(Bill No. 23/2000 published on 26 August 2000)|
+||Date of Second and Third Readings|9 October 2000|
+||Date of commencement|25 October 2000 (Publication date of Act Supplement)|
+|2.|**2001 Revised Edition—Compulsory Education Act**|
+||Date of operation|31 December 2001|
