@@ -360,8 +360,6 @@ and includes any computer program that is used in the operation of the machine;
 
 and such material shall be election advertising even though it can reasonably be regarded as intended to achieve any other purpose as well and even though it does not expressly mention the name of any political party or candidate, but excludes any button, badge, pen, pencil, balloon and any other thing prescribed by the Minister by notification in theGazette;
 
-[31/2001 wef 14/09/2001]
-
 “elector” means a person whose name is entered in a register as an elector to vote at an election;
 
 “electoral division” means an electoral division specified in the notification for the time being in force under section 8;
@@ -384,8 +382,6 @@ and such material shall be election advertising even though it can reasonably be
 
 “political party” means a political party which is registered under the Societies Act (Cap. 311);
 
-[31/2001 wef 14/09/2001]
-
 “polling district” means a part of an electoral division subdivided under section 9;
 
 “polling station” means any polling station established by or under the authority of the Returning Officer under section 36A for voters to cast their votes at an election, and includes any overseas polling station;
@@ -397,8 +393,6 @@ and such material shall be election advertising even though it can reasonably be
 “public authority” means any body corporate, board or authority established by or under any written law for the performance of any public function, but excludes any Town Council constituted under the Town Councils Act (Cap. 329A);
 
 “publish” means make available to the general public, or any section thereof, in whatever form and by whatever means, including broadcasting (by wireless telegraphy or otherwise) and transmitting on what is commonly known as the Internet;
-
-[31/2001 wef 14/09/2001]
 
 “register” or “register of electors” means the register of electors for any particular electoral division comprising sections, each of which shall relate to a polling district of that electoral division;
 
@@ -1122,8 +1116,6 @@ a certificate issued to him under section 27A(6) certifying that he is a person 
 
 (5) Where the nomination paper of any group does not comply with this section or section 27A, or where any candidate in a group withdraws or is deemed to have withdrawn his candidature under section 32, the nomination of that group shall be deemed to be void.
 
-[31/2001 wef 14/09/2001]
-
 [10/88]
 
 (6) Section 27 shall not apply to any election in any group representation constituency.
@@ -1206,6 +1198,10 @@ the sum deposited shall be forfeited and paid into the Consolidated Fund.
 
 [10/88]
 
+(5) [Deleted by Act 31/2001 wef 14/09/2001]
+
+(5A) [Deleted by Act 31/2001 wef 14/09/2001]
+
 (6) For the purposes of this section —
 
 (a) the number of votes polled shall be deemed to be the number of votes counted other than rejected votes; and
@@ -1283,8 +1279,6 @@ the sum deposited shall be forfeited and paid into the Consolidated Fund.
 32A\.—(1) A candidate who is validly nominated for more than one electoral division at a general election shall withdraw his candidature in all those electoral divisions except one before 12 noon on the day of nomination, and if he does not so withdraw he shall be deemed to have withdrawn his candidature in all the electoral divisions under section 32.
 
 (2) Subsection (1) shall also apply where 2 or more by-elections are held at the same time.
-
-[31/2001 wef 14/09/2001]
 
 UNCONTESTED ELECTIONS
 
@@ -2282,8 +2276,6 @@ shall be guilty of the offence of undue influence.
 
 (ii) in the case of any other election advertising, does not bear in the form and manner prescribed under section 78A the names and addresses of its publisher and the person for whom or at whose direction the election advertising is published;
 
-[31/2001 wef 14/09/2001]
-
 (d) makes or publishes, before or during any election, for the purpose of affecting the return of any candidate, any false statement of fact in relation to the personal character or conduct of the candidate;
 
 (e) makes or publishes, before or during any election, for the purpose of promoting or procuring the election of any candidate, any false statement of the withdrawal of any other candidate at the election; or
@@ -2306,8 +2298,6 @@ shall be guilty of a corrupt practice and shall on conviction by a District Cour
 
 (5) Where any election advertising is published in contravention of subsection (1)(c), the printer of the election advertising as well as the person for whom or at whose direction the election advertising is published shall each also be guilty of a corrupt practice and shall each be liable on conviction to the same punishment and incapacity under this section as the publisher thereof.
 
-[31/2001 wef 14/09/2001]
-
 (6) Subsection (1)(c) shall not apply in respect of —
 
 (a) the distribution of a book, or the promotion of the sale of a book, for not less than its commercial value, if the book was planned to be published regardless of whether there was to be an election;
@@ -2319,8 +2309,6 @@ shall be guilty of a corrupt practice and shall on conviction by a District Cour
 (d) the publication of any news relating to an election in a newspaper in any medium or in a radio or television broadcast; or
 
 (e) such other circumstances or activities as may be prescribed by the Minister by order in theGazette.
-
-[31/2001 wef 14/09/2001]
 
 ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
@@ -2630,8 +2618,6 @@ and a person or a group of persons shall be regarded as required to register wit
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[31/2001 wef 14/09/2001]
-
 ### Blackout period for election survey results
 
 78C\.—(1) No person shall publish or permit or cause to be published the results of any election survey during the period beginning with the day the writ of election is issued for an election and ending with the close of all polling stations on polling day at the election.
@@ -2639,8 +2625,6 @@ and a person or a group of persons shall be regarded as required to register wit
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (3) In this section, “election survey” means an opinion survey of how electors will vote at an election or of the preferences of electors respecting any candidate or group of candidates or any political party or issue with which an identifiable candidate or group of candidates is associated at an election.
-
-[31/2001 wef 14/09/2001]
 
 ### Exit polls ban on polling day
 
@@ -2658,8 +2642,6 @@ and a person or a group of persons shall be regarded as required to register wit
 
 (b) any reference to the result of an election is a reference to the result of an election either as a whole or so far as any particular candidate or group of candidates at the election are concerned.
 
-[31/2001 wef 14/09/2001]
-
 ### Defence for election advertising offences
 
 78E\.—(1) It shall be a defence for a person charged with an offence under section 61(1) or (5), 78A(2), 78B(3), 78C(2) or 78D(2) to prove —
@@ -2669,8 +2651,6 @@ and a person or a group of persons shall be regarded as required to register wit
 (b) that he took all reasonable steps, and exercised all due diligence, to ensure that that contravention would not arise.
 
 (2) Nothing in subsection (1) shall limit the operation of section 10 of the Electronic Transactions Act (Cap. 88) in relation to network service providers.
-
-[31/2001 wef 14/09/2001]
 
 ### Punishment for conviction for illegal practice
 
@@ -3122,11 +3102,11 @@ he, as well as the body corporate, shall be guilty of that offence and shall be 
 
 shall also be guilty of an offence and shall be liable to be proceeded against and punished accordingly.
 
-[31/2001 wef 14/09/2001]
-
 FIRST SCHEDULE
 
 FORM 1
+
+[S 522/2001 wef 17/10/2001]
 
 SECOND SCHEDULE
 
@@ -3170,11 +3150,11 @@ Election Expenses
 
 The maximum amount which a candidate at an election or his election agent can pay or incur on account of or in respect of the conduct or management of the election shall be —
 
-(a) in relation to a candidate at an election in any group representation constituency — an amount equal to $2.50 for each elector on the register for that constituency divided by the number of candidates in each group nominated for that election; or
+(a) in relation to a candidate at an election in any group representation constituency — an amount equal to $3 for each elector on the register for that constituency divided by the number of candidates in each group nominated for that election; or
 
 [S 523/2001 wef 17/10/2001]
 
-(b) in relation to any other candidate — an amount equal to $2.50 for each elector on the register.
+(b) in relation to any other candidate — an amount equal to $3 for each elector on the register.
 
 [S 523/2001 wef 17/10/2001]
 
@@ -3650,6 +3630,10 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 29/2001 published on 26 July 2001)|
 ||Date of Second and Third Readings|13 August 2001|
 ||Date of commencement|14 September 2001|
+|52.|**G. N. No. S 522/2001—Parliamentary Elections Act (Amendment of First Schedule) Regulations 2001**|
+||Date of commencement|17 October 2001|
+|53.|**G. N. No. S 523/2001—Parliamentary Elections Act (Amendment of Third Schedule) Regulations 2001**|
+||Date of commencement|17 October 2001|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
