@@ -44,9 +44,11 @@
 
 - [15 Penalty for non-compliance](#Penalty-for-non-compliance)
 
-- [16 Recovery of amounts due](#Recovery-of-amounts-due)
+- [16 (Repealed)](#Repealed)
 
 - [17 Rules](#Rules)
+
+- [18 Fees to be paid to Authority](#Fees-to-be-paid-to-Authority)
 
 [**Legislative History**](#Legislative-History)
 
@@ -77,6 +79,10 @@ PRELIMINARY
 2\.—(1) In this Act, unless the context otherwise requires —
 
 “approved co-ordinates” means co-ordinates approved by the Chief Surveyor or approved under section 7(c) which are capable of describing and ascertaining the boundaries of any land in relation to survey control marks;
+
+“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
+
+[17/2001 wef 01/06/2001]
 
 “boundary mark” includes any survey stone, iron pipe, spike, or other survey mark authorised by law for the purpose of marking boundaries;
 
@@ -230,7 +236,7 @@ may serve on that person a notice calling upon him to attend before the survey o
 
 (a) the survey officer may himself cause the work to be carried out; and
 
-(b) the cost of carrying out the work shall be recoverable from that person as a debt due to the Government.
+(b) the cost of carrying out the work shall be recoverable from that person as a debt due to the Authority.
 
 ### Replacement or repair of boundary mark or survey control mark
 
@@ -240,7 +246,7 @@ may serve on that person a notice calling upon him to attend before the survey o
 
 (a) cause the mark to be replaced or repaired; and
 
-(b) recover the costs of the replacement or repair from the owners of the lands for which the boundary marks and survey control marks are to serve as boundaries as a debt due to the Government in such proportion as appears to the Chief Surveyor to be proper.
+(b) recover the costs of the replacement or repair from the owners of the lands for which the boundary marks and survey control marks are to serve as boundaries as a debt due to the Authority in such proportion as appears to the Chief Surveyor to be proper.
 
 (3) The costs of replacing or repairing boundary marks or survey control marks where the marks are to serve as boundaries of 2 or more parcels of land, including the costs of carrying out a cadastral survey if the survey has been made by the order of the Chief Surveyor, shall be borne by the owners of the lands for which the marks are to serve as boundaries in such proportion as appears to the Chief Surveyor to be proper.
 
@@ -268,7 +274,7 @@ SURVEY MAP
 
 (c) where in the case of the assignment or demise of any land comprised wholly or partly in any State title in parcels or otherwise than the entirety thereof, the parcels have been properly demarcated and surveyed to the satisfaction of the Chief Surveyor and the fees payable in respect of the demarcation and survey have been duly paid, the boundaries of the parcels or any subdivision thereof shall be delineated upon the representation of the land or parcel of the land on the map;
 
-(d) where any owners whose boundaries are conterminous agree to an alteration in their boundaries, the map may be altered by the order of the Chief Surveyor upon a deed or instrument being presented at the Registry of Deeds or the Land Titles Registry, as the case may be , effectuating the alteration agreed to;
+(d) where any owners whose boundaries are conterminous agree to an alteration in their boundaries, the map may be altered by the order of the Chief Surveyor upon a deed or instrument being presented at the Registry of Deeds or the Land Titles Registry, as the case may be of the Authority, effectuating the alteration agreed to;
 
 (e) where in any suit an order of the High Court has been made which affects the position of the boundaries of any land, the map may be altered upon an office copy of the order being served on the Chief Surveyor; and
 
@@ -308,19 +314,23 @@ MISCELLANEOUS
 
 15\. Any person who being legally bound to comply with any order under this Act, or with the requisition contained in any notice served upon him under this Act, wilfully refuses, or without reasonable excuse neglects, to comply therewith, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100 for every day or part thereof during which the refusal or neglect continues after conviction.
 
-### Recovery of amounts due
-
-16\. Every amount due to the Government under this Act may be recovered by any procedure for the time being provided by law for the recovery of arrears of land revenue.
+16\. [Repealed by Act 17/2001 wef 01/06/2001]
 
 ### Rules
 
-17\.—(1) The Minister may make rules for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
+17\.—(1) The Authority, with the approval of the Minister, may make rules for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make rules —
+(2) Without prejudice to the generality of subsection (1), the Authority, with the approval of the Minister, may make rules —
 
 (a) prescribing the fees for the purposes of this Act ; and
 
 (b) prescribing the manner and procedure for inquiries to be held under this Act.
+
+### Fees to be paid to Authority
+
+18\. All prescribed fees collected for the purposes of this Act shall be paid into the funds of the Authority.
+
+[17/2001 wef 01/06/2001]
 
 ## LEGISLATIVE HISTORY
 
@@ -344,3 +354,12 @@ This Legislative History is provided for the convenience of users of the Boundar
 ||Date of commencement|16 October 1998|
 |4.|**1999 Revised Edition—Boundaries and Survey Maps Act**|
 ||Date of operation|30 December 1999|
+|5.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on|
+|||
+|
+|||7 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
