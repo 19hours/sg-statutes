@@ -68,6 +68,8 @@
 
 - [26 Board’s financial year](#Board’s-financial-year)
 
+- [26A Budget](#Budget)
+
 - [27 Audit](#Audit)
 
 - [28 Annual accounts and report](#Annual-accounts-and-report)
@@ -153,7 +155,11 @@ AND ADMINISTRATION OF BOARD
 
 ### Employment of officers, etc.
 
-5\.—(1) The Board may appoint such officers and employees as it considers to be necessary for the efficient conduct of the business of the Board upon such terms and conditions as may be determined by the Board.
+5\.—(1) Subject to subsection (1A), the Board may appoint such officers and employees as it considers to be necessary for the efficient conduct of the business of the Board upon such terms and conditions as may be determined by the Board.
+
+[Act 11/91 wef 30/11/1991]
+
+(1A) The Board with the President’s concurrence under Article 22A(1)(b) of the Constitution shall appoint a General Manager on such terms and conditions as it may determine.
 
 (2) The Board and its officers and employees shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
 
@@ -161,11 +167,21 @@ AND ADMINISTRATION OF BOARD
 
 6\.—(1) The Board shall consist of —
 
-(a) the Chairman, who shall be the Minister responsible for finance;
+(a) the Chairman who shall be appointed by the President on the recommendation of the Cabinet;
+
+[Act 11/91 wef 30/11/1991]
 
 (b) the Deputy Chairman, who shall be appointed by the President for a specific period and shall vacate his office without prejudice to his eligibility for reappointment at the expiration of that period; and
 
 (c) four other members possessing recognised banking, financial or business experience who shall be appointed by the President from time to time for such periods as the President may decide.
+
+(1A) Subject to subsection (1B), the members of the Board shall be appointed for a term not exceeding 3 years and shall be eligible for reappointment.
+
+[Act 11/91 wef 30/11/1991]
+
+(1B) The President, acting in his discretion, may refuse to appoint any person as Chairman, Deputy Chairman or a member of the Board under subsection (1) or to revoke any such appointment if the President does not concur with the advice or recommendation of the Cabinet or a Minister acting under the general authority of the Cabinet.
+
+[Act 11/91 wef 30/11/1991]
 
 (2) The Deputy Chairman shall act for the Chairman whenever he is absent.
 
@@ -547,6 +563,14 @@ MISCELLANEOUS
 
 [28
 
+### Budget
+
+26A\.—(1) The Board shall in every financial year prepare a budget containing estimates of income and expenditure of the Board for the ensuing financial year and a supplementary budget (if necessary) for any financial year and present them to the President for his approval under Article 22B of the Constitution.
+
+(2) The budget and supplementary budget (if any) when approved by the President shall be published in theGazette.
+
+[Act 11/91 wef 30/11/1991]
+
 ### Audit
 
 27\.—(1) The accounts of the Board shall be audited by the Auditor-General.
@@ -557,7 +581,9 @@ MISCELLANEOUS
 
 (b) whether proper accounting and other records have been kept;
 
-(c) whether the receipts, expenditure and investment of moneys, and the acquisition and disposal of assets by the Board during the financial year were in accordance with the provisions of this Act; and
+(c) whether the receipts, expenditure and investment of moneys, and the acquisition and disposal of assets by the Board during the financial year were in accordance with the provisions of this Act and the Constitution; and
+
+[Act 11/91 wef 30/11/1991]
 
 (d) such other matters arising from the audit as he considers necessary.
 
@@ -676,3 +702,8 @@ This Legislative History is provided for the convenience of users of the Currenc
 |||(Bill No. 32/1990)|
 ||Date of Second and Third Readings|20 December 1990|
 ||Date of commencement|1 February 1991|
+|10.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
