@@ -558,7 +558,9 @@ Explanation.—This section shall not enable any person to give evidence of a fa
 
 Illustrations
 
-(a) A is tried for the murder of B by beating him with a club with the intention of causing his death.
+(a)
+
+A is tried for the murder of B by beating him with a club with the intention of causing his death.
 
 AtA’strial the following facts are in issue:
 
@@ -568,7 +570,9 @@ A’scausingB’sdeath by such beating;
 
 A’sintention to causeB’sdeath.
 
-(b)A, a party to a suit, does not comply with a notice given byB, the other party, to produce forB’sinspection a document referred to inA’spleadings. This section does not enableAto put such document in evidence on his behalf in such suit, otherwise than in accordance with the conditions prescribed by the Rules of Court.
+(b)
+
+A, a party to a suit, does not comply with a notice given byB, the other party, to produce forB’sinspection a document referred to inA’spleadings. This section does not enableAto put such document in evidence on his behalf in such suit, otherwise than in accordance with the conditions prescribed by the Rules of Court.
 
 ### Relevancy of facts forming part of same transaction
 
@@ -2052,9 +2056,9 @@ Presumptions as to documents
 
 ### Presumption as toGazettes, newspapers and other documents
 
-83\. 2The court shall presume the genuineness of every document purporting to be the GovernmentGazetteof Singapore or the GovernmentGazetteof Malaysia or of any part of the Commonwealth, or to be theGazetteissued by the local government of any part of Malaysia or of the Commonwealth, or to be a newspaper or journal and of every document purporting to be a document directed by any law to be kept by any person, if such document is kept substantially in the form required by law and is produced from proper custody.
+83\. \**The court shall presume the genuineness of every document purporting to be the GovernmentGazetteof Singapore or the GovernmentGazetteof Malaysia or of any part of the Commonwealth, or to be theGazetteissued by the local government of any part of Malaysia or of the Commonwealth, or to be a newspaper or journal and of every document purporting to be a document directed by any law to be kept by any person, if such document is kept substantially in the form required by law and is produced from proper custody.
 
-2See also section 48 of the Interpretation Act (Cap. 1) and the explanation appended to section 92 of this Act.
+\*See also section 48 of the Interpretation Act (Cap. 1) and the explanation appended to section 92 of this Act.
 
 ### Presumption as to document admissible in England without proof of seal or signature
 
@@ -2560,7 +2564,9 @@ Illustrations
 
 ### Official communications
 
-126\. No public officer shall be compelled to disclose communications made to him in official confidence when he considers that the public interest would suffer by the disclosure.
+126\.—(1) No public officer shall be compelled to disclose communications made to him in official confidence when he considers that the public interest would suffer by the disclosure.
+
+(2) No person who is a member, an officer or an employee of, or who is seconded to, any organisation specified in the Schedule to the Official Secrets Act (Cap. 213) shall be compelled to disclose communications made to him in official confidence when he considers that the public interest would suffer by the disclosure.
 
 ### Information as to commission of offences
 
@@ -2582,7 +2588,7 @@ Explanation.—“Revenue officer” in this section means any officer employed 
 
 (3) It is immaterial whether the attention of such advocate or solicitor was or was not directed to such fact by or on behalf of his client.
 
-Explanation—.The obligation stated in this section continues after the employment has ceased.
+Explanation.—The obligation stated in this section continues after the employment has ceased.
 
 Illustrations
 
@@ -3315,3 +3321,8 @@ This Legislative History is provided for the convenience of users of the Evidenc
 |||(item (4) in the Fourth Schedule)|
 |32.|**G. N. No. S 613/2001—Evidence Act (Amendment of Schedule) Order 2001**|
 ||Date of commencement|12 December 2001|
+|33.|**Act 17 of 2003—Evidence (Amendment) Act 2003**|
+||Date of First Reading|14 August 2003|
+|||(Bill No. 16/2003 published on 15 August 2003)|
+||Date of Second and Third Readings|2 September 2003|
+||Date of commencement|26 September 2003|
