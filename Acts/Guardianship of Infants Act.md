@@ -188,9 +188,11 @@ An Act relating to the guardianship of infants.
 
 ### Exception for money paid into a District Court
 
-21\. \*Nothing in this Act shall apply to any money paid into a District Court to the credit of an infant in any action or proceeding in a District Court or to any money in a District Court ordered to be transferred to the credit of an infant, but the same shall be dealt with according to the Subordinate Courts Rules, unless in any case the Supreme Court or a judge of the Supreme Court otherwise orders.
+21\. \*Nothing in this Act shall apply to any money paid into a District Court to the credit of an infant in any action or proceeding in a District Court or to any money in a District Court ordered to be transferred to the credit of an infant, but the same shall be dealt with according to the Subordinate Courts Rules, unless in any case the High Court or a judge of the High Court otherwise orders.
 
 \*SeeG.N. No. S 59/86.
+
+[16/1993 wef 01/07/1993]
 
 ## LEGISLATIVE HISTORY
 
@@ -215,3 +217,9 @@ This Legislative History is provided for the convenience of users of the Guardia
 ||Date of operation|1 March 1971|
 |5.|**1985 Revised Edition—Guardianship of Infants Act**|
 ||Date of operation|30 March 1987|
+|6.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 12/1993 published on 27 February 1993)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|1 July 1993|
