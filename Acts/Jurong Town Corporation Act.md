@@ -40,7 +40,7 @@
 
 - [14 Loan conditions](#Loan-conditions)
 
-- [15 Annual financial statement](#Annual-financial-statement)
+- [15 (Repealed)](#Repealed)
 
 - [16 Budget](#Budget)
 
@@ -56,6 +56,8 @@
 
 - [22 Presentation of financial statements](#Presentation-of-financial-statements)
 
+- [22A Annual report](#Annual-report)
+
 - [23 Bank account and accounting records](#Bank-account-and-accounting-records)
 
 - [24 Payments to be made in accordance with budget](#Payments-to-be-made-in-accordance-with-budget)
@@ -64,13 +66,13 @@
 
 - [26 Investment](#Investment)
 
-- [27 Power to form companies](#Power-to-form-companies)
+- [27 (Repealed)](#Repealed)
 
 - [28 Compulsory acquisition of land](#Compulsory-acquisition-of-land)
 
 - [29 Compulsory acquisition of property before 15th April 1983 not to be called in question](#Compulsory-acquisition-of-property-before-15th-April-1983-not-to-be-called-in-question)
 
-- [30 Annual report](#Annual-report)
+- [30 (Repealed)](#Repealed)
 
 - [31 Special provisions relating to the sale of land by Corporation](#Special-provisions-relating-to-the-sale-of-land-by-Corporation)
 
@@ -230,11 +232,15 @@ ESTABLISHMENT, INCORPORATION AND POWERS OF CORPORATION
 
 5\.—(1) The Corporation shall consist of —
 
-(a) a Chairman;
+(a) a Chairman; and
 
-(b) a Deputy Chairman and 7 other members to be appointed by the Minister with the President’s concurrence under Article 22A(1)(b) of the Constitution.
+(b) not fewer than 4 and not more than 11 other members to be appointed by the Minister with the President’s concurrence under Article 22A(1)(b) of the Constitution.
 
-[11/1991 wef 30/11/1991]
+[23/1995 wef 04/08/1995]
+
+(1A) The Minister may, with the President’s concurrence, appoint one of the members of the Corporation as Deputy Chairman.
+
+[23/1995 wef 04/08/1995]
 
 (2) The quorum at all meetings of the Corporation shall be 4.
 
@@ -242,7 +248,9 @@ ESTABLISHMENT, INCORPORATION AND POWERS OF CORPORATION
 
 [11/78]
 
-(3) The Chairman or any officer authorised by him to act on his behalf may call a meeting of the Corporation at least once in every month or as often as he thinks fit.
+(3) The Chairman or any officer authorised by him to act on his behalf may call a meeting of the Corporation at least once in every 2 months or as often as he thinks fit.
+
+[23/1995 wef 04/08/1995]
 
 (4) The members of the Corporation, other than the Chairman, shall, unless their appointment is revoked by the Minister under subsection (9) or unless they resign during their period of office, hold office for a period of 3 years or for such shorter period as the Minister may in any case determine.
 
@@ -268,9 +276,9 @@ ESTABLISHMENT, INCORPORATION AND POWERS OF CORPORATION
 
 ### Appointment of chief executive officer and other employees
 
-7\.—(1) After consultation with the Public Service Commission, the Corporation with the President’s concurrence under Article 22A(1)(b) of the Constitution may appoint a chief executive officer on such terms and conditions as it may determine.
+7\.—(1) After consulting the Public Service Commission, the Corporation may, with the approval of the Minister and the President’s concurrence under Article 22A(1)(b) of the Constitution, appoint a chief executive officer on such terms and conditions as it may determine.
 
-[11/1991 wef 30/11/1991]
+[23/1995 wef 04/08/1995]
 
 (2) The chief executive officer shall —
 
@@ -332,37 +340,41 @@ PROVISIONS RELATING TO THE CORPORATION
 
 12\.—(1) The functions of the Corporation are —
 
-(a) to develop and manage industrial estates and sites in Singapore or elsewhere; and
+(a) to develop and manage sites, parks, estates, townships and other premises for industries and businesses in Singapore or elsewhere;
 
-(b) to provide facilities to enhance the operation of industries and social amenities for the advancement and the well-being of persons living and working in such industrial estates and sites.
+(b) to provide facilities to enhance the operations of industries and businesses including social amenities for the advancement and the well-being of persons living and working in such sites, parks, estates and townships or otherwise; and
 
-(2) The Corporation shall have power for the purpose of the discharge of its functions under subsection (1) —
+(c) to participate in overseas ventures and developments which the Corporation has the expertise to engage or undertake in.
 
-(a) to carry on all activities, the carrying on of which appears to the Corporation to be necessary, advantageous or convenient for or in connection with the discharge of its functions;
+(2) The Corporation shall have power to do anything for the purpose of the discharge of its functions under this Act or which is incidental or conducive to the discharge of those functions and in particular, and without prejudice to the generality of the foregoing, may —
 
-(b) to promote the carrying on of any such activities by other bodies or persons;
+(a) act in combination or association with other persons or organisations for the discharge of any of its functions;
 
-(c) to carry on such activities in association with other bodies or persons, including departments or authorities of the Government;
+(b) promote the carrying on of any activities for the discharge of its functions by other persons or organisations;
 
-(d) to purchase, acquire or lease any land required for the purpose of the discharge of its functions under this Act;
+(c) purchase, acquire or lease any land and premises required for the purpose of the discharge of its functions under this Act;
 
-(e) to sell or lease land for the purposes of industrial sites, for the housing of persons living and working in industrial estates and sites, for general economic development or for social amenities;
+(d) sell or lease land and premises for the purpose of the discharge of its functions under this Act upon such terms as the Corporation may determine;
 
-(f) to lay out sites for the purposes mentioned in paragraph (e) for sale or lease;
+(e) provide technical, managerial and other specialist services for industrial, business and other development and build up a corps of engineering, managerial and other specialist staff to provide such services;
 
-(g) to provide technical advice and assistance to industrial enterprises and businesses in the industrial estates and to build up a corps of engineering and managerial staff to provide such assistance;
+(f) prepare and execute proposals, plans and projects for the erection, conversion, improvement and extension of any building for sale, lease, rental or other purpose;
 
-(h) to prepare and execute proposals, plans and projects for the erection, conversion, improvement and extension of any building for sale, lease, rental or other purpose;
+(g) provide and maintain housing accommodation including convalescent or holiday houses for employees of the Corporation, provide and maintain for those employees clubs and playing fields and provide educational facilities for them; grant loans to those employees or to act as guarantor for loans taken by them, to enable them to purchase their own houses, furniture, fittings, home appliances and vehicles; and award scholarships or give loans to those employees to obtain professional, technical or other training;
 
-(i) to provide and maintain housing accommodation including convalescent or holiday houses for employees of the Corporation, to provide and maintain for those employees clubs and playing fields and to provide educational facilities for them; to grant loans to those employees or to act as guarantor for loans taken by them, to enable them to purchase their own houses, furniture, fittings, home appliances and vehicles; and to award scholarships or to give loans to those employees to obtain professional, technical or other training;
+(h) sell or lease flats, houses or other living accommodation and land for the housing of persons living and working in industrial and business sites, parks, estates and townships;
 
-(j) to provide and maintain adequate and efficient port services and facilities in the Jurong Port;
+(i) provide loans on mortgage at such interest as may be prescribed to enable persons, other than employees of the Corporation, to purchase any flat, house or building which is used or intended to be used solely for the purpose of human habitation;
 
-(k) to sell or lease flats, houses or other living accommodation; and
+(j) with the written approval of the Minister, form or participate in the formation of a company or companies or enter into any joint venture or partnership in Singapore or elsewhere;
 
-(l) to provide loans on mortgage at such interest as may be prescribed to enable persons, other than employees of the Corporation, to purchase any flat, house or building which is used or intended to be used solely for the purpose of human habitation.
+(k) with the written approval of the Minister, grant loans to any company in which the Corporation or any of its subsidiary companies holds any shares;
 
-[13
+(l) with the written approval of the Minister and the President, guarantee the repayment of loans given to any company in which the Corporation or any of its subsidiary companies holds any shares; and
+
+(m) provide and maintain adequate and efficient port services and facilities in the Jurong Port.
+
+[23/1995 wef 04/08/1995]
 
 ### Borrowing powers
 
@@ -396,33 +408,23 @@ PROVISIONS RELATING TO THE CORPORATION
 
 ### Loan conditions
 
-14\. Where the Corporation is authorised to borrow money, it may, subject to the approval of the Minister, raise the money either by —
+14\. Where the Corporation is authorised to borrow money, it may, subject to the approval or direction of the Minister, raise money in any manner, and without prejudice to the foregoing raise it by —
 
 (a) mortgage;
 
-(b) charge, whether legal or equitable, on any property vested in the Corporation or on any revenue receivable by the Corporation under this Act or any other written law; or
+(b) charge, whether legal or equitable, on any property vested in the Corporation or on any revenue receivable by the Corporation under this Act or any other written law; and
 
-(c) the creation and issue of debentures, stocks or bonds,
+(c) debentures, stocks, bonds or other instruments or securities issued by the Corporation,
 
-and may, with the like approval, fix such rates of interest and such terms, conditions and periods to secure the repayment of the sums borrowed as it thinks fit.
+and the Corporation may, with the like approval or direction, fix such rates of interest and such terms, conditions and periods to secure the repayment of the sums borrowed as it thinks fit.
 
-### Annual financial statement
+[23/1995 wef 04/08/1995]
 
-15\.—(1) The Corporation shall at the end of every financial year transmit to the Minister a statement showing —
-
-(a) the amount of any loan outstanding at the end of that year; and
-
-(b) the amount standing to the credit of any sinking fund formed for the purpose of repayment of any loan and the manner in which that amount is for the time being invested.
-
-[11/78]
-
-(2) The annual statement referred to in subsection (1) shall be published in theGazette.
-
-[16
+15\. [Repealed by Act 23/1995 wef 04/08/1995]
 
 ### Budget
 
-16\. The Corporation shall in every financial year cause to be prepared in a form to be approved by the Minister a budget to be forwarded to the Minister not later than 15th November containing estimates of income and expenditure of the Jurong Town Corporation for the ensuing year —
+16\. The Corporation shall in every financial year cause to be prepared in a form to be approved by the Minister a budget to be forwarded to the Minister not later than 31st January containing estimates of income and expenditure of the Jurong Town Corporation for the ensuing year —
 
 (a) on capital account;
 
@@ -435,6 +437,8 @@ and may, with the like approval, fix such rates of interest and such terms, cond
 [7/71]
 
 [11/78]
+
+[23/1995 wef 04/08/1995]
 
 ### Approval of budget by Minister
 
@@ -496,43 +500,25 @@ and may, with the like approval, fix such rates of interest and such terms, cond
 
 ### Auditor’s report
 
-21\.—(1) The chief financial officer of the Corporation shall, not later than 31st July in every year, prepare and submit the financial statements in respect of the preceding financial year to the Corporation’s auditor who shall audit and report on them.
+21\.—(1) The chief financial officer of the Corporation shall prepare the financial statements in respect of each preceding financial year and submit them to the Corporation’s auditor who shall audit and report on them to the Minister and the President.
 
-[29/74]
+(2) The Corporation’s auditor shall state in his report of his audit whether —
 
-[11/78]
+(a) the financial statements show fairly the financial transactions and the state of affairs of the Corporation;
 
-(2) The auditor shall, not later than 30th September next following the end of the year respect of which he is appointed, send to the Corporation and to the Minister and the President a report of his audit and may also submit such periodical and special reports as may appear necessary to him.
+(b) proper accounting and other records have been kept; and
 
-[11/78]
+(c) the receipt, expenditure and investment of moneys and the acquisition and disposal of assets by the Corporation during the year have been in accordance with the provisions of this Act and the Constitution.
 
-[11/1991 wef 30/11/1991]
+(3) The Corporation’s auditor shall report on any other matter arising from the audit as he considers necessary.
 
-(3) The Corporation’s auditor shall report —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Corporation; and
-
-(b) on such other matters arising from the audit as he considers necessary.
-
-(4) The Corporation’s auditor shall state in his report whether —
-
-(a) proper accounting and other records have been kept; and
-
-(b) the receipt, expenditure and investment of moneys and the acquisition and disposal of assets by the Corporation during the year have been in accordance with the provisions of this Act and the Constitution.
-
-[11/1991 wef 30/11/1991]
-
-[22
+[23/1995 wef 04/08/1995]
 
 ### Presentation of financial statements
 
-22\.—(1) A copy of the audited financial statements signed by the Chairman and the chief financial officer, and certified by the Corporation’s auditor, together with a copy of any report made by the auditor, shall be submitted to the Minister and the President not later than 31st October in each year.
+22\.—(1) A copy of the audited financial statements signed by the Chairman, the chief executive officer and the chief financial officer, and certified by the Corporation’s auditor, together with a copy of any report made by the auditor, shall be submitted to the Minister not later than 8th September and to the President not later than 30th September in each year.
 
-[29/74]
-
-[11/78]
-
-[11/1991 wef 30/11/1991]
+[23/1995 wef 04/08/1995]
 
 (2) Where the Auditor-General has not been appointed to be the auditor of the Corporation a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time as they are submitted to the Minister.
 
@@ -541,6 +527,14 @@ and may, with the like approval, fix such rates of interest and such terms, cond
 (4) The audited financial statements and the auditor’s report referred to in subsection (3) shall be published in theGazette.
 
 [23
+
+### Annual report
+
+22A\.—(1) The Corporation shall, not later than 8th September in each year, unless the Minister otherwise authorises in writing, furnish to the Minister a report of its functions during the preceding year.
+
+(2) The Minister shall cause a copy of every such report to be presented to Parliament.
+
+[23/1995 wef 04/08/1995]
 
 ### Bank account and accounting records
 
@@ -584,43 +578,13 @@ and may, with the like approval, fix such rates of interest and such terms, cond
 
 [26
 
-[11/1991 wef 30/11/1991]
-
 ### Investment
 
-26\.—(1) Moneys standing to the credit of the Corporation may from time to time be invested in any of the securities in which trust funds may, by section 4 of the Trustees Act, be invested.
+26\. Moneys belonging to the Corporation may be invested in such securities as trustees may by any written law be authorised to invest and, with the approval of the Minister, in any other securities or investments or in any other manner.
 
-(2) The Corporation may, with the written approval of the Minister, invest moneys standing to the credit of the Corporation from time to time in shares of any private or public company.
+[23/1995 wef 04/08/1995]
 
-[7/71]
-
-[27
-
-### Power to form companies
-
-27\.—(1) The Corporation may with the written approval Power to of the Minister, cause to be formed under the provisions of any written law for the time being in force relating to companies an incorporated company or companies limited by shares the majority of which are to be held by the Corporation and having as its or their object, all or any of the functions of the Corporation set out in section 12.
-
-[7/71]
-
-(2) Notwithstanding the provisions of any written law for the time being in force relating to companies, there shall be registered with the memorandum of association of any company formed pursuant to subsection (1) articles of association prescribing regulations for that company.
-
-(3) The articles of association of the company shall contain, inter alia, provisions relating to —
-
-(a) the capital and share structure of the company;
-
-(b) the qualification, appointment, remuneration, powers and proceedings of directors;
-
-(c) dividends and reserve funds; and
-
-(d) the winding up of the company,
-
-as may be directed by the Minister and. shall also provide that such employees of the Corporation as are transferred to the company shall enjoy salaries and conditions of service as near as may be to those on which they were employed by the Corporation.
-
-(4) The Corporation may, with the written approval of the Minister, grant loans to any company in which the Corporation holds any shares.
-
-[27/86]
-
-[27A
+27\. [Repealed by Act 23/1995 wef 04/08/1995]
 
 ### Compulsory acquisition of land
 
@@ -636,17 +600,7 @@ as may be directed by the Minister and. shall also provide that such employees o
 
 1Section 3 of the Statutes (Miscellaneous Amendments) Act 1983 (No. 7/83).
 
-### Annual report
-
-30\.—(1) The Corporation shall, not later than 31st July in each year, unless the Minister otherwise authorises in writing, furnish to the Minister a report of its functions during the preceding year.
-
-[29/74]
-
-[11/78]
-
-(2) The Minister shall cause a copy of every such report to be presented to Parliament.
-
-[29
+30\. [Repealed by Act 23/1995 wef 04/08/1995]
 
 ### Special provisions relating to the sale of land by Corporation
 
@@ -694,11 +648,19 @@ as may be directed by the Minister and. shall also provide that such employees o
 
 ### Corporation’s symbols
 
-35\.—(1) The Corporation shall have the exclusive right to the use of the symbol a representation of which is set out in the Schedule.
+35\.—(1) The Corporation shall have the exclusive right to the use of —
 
-[7/71]
+(a) the symbols which are set out in the Schedule; and
 
-(2) Any person who uses a symbol identical with the Corporation’s symbol or so nearly resembling the symbol as to be likely to deceive or cause confusion in relation to the identity of the Corporation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+(b) such other symbol as it may devise or adopt from time to time and thereafter display or exhibit in connection with its activities or affairs.
+
+(2) The Corporation shall publish the symbol referred to in subsection (1)(b) in theGazette.
+
+(3) Any person who uses a symbol identical with, or which so resembles, any of the Corporation’s symbols as to or be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(4) Nothing in this section shall be construed to authorise the Corporation to use any symbol which any person has acquired the exclusive right to use the same under the Trade Marks Act (Cap. 332) or otherwise.
+
+[23/1995 wef 04/08/1995]
 
 ## PART IV
 
@@ -1302,6 +1264,10 @@ Section 35(1)
 
 Symbols of the Corporation
 
+(Existing symbol)
+
+(New symbol)
+
 ## LEGISLATIVE HISTORY
 
 Jurong Town Corporation Act
@@ -1364,3 +1330,7 @@ This Legislative History is provided for the convenience of users of the Jurong 
 ||Date of First Reading|25 July 1994 (Bill No. 25/94 published on 29 July 1994)|
 ||Date of Second and Third Readings|25 August 1994|
 ||Date of commencement|1 October 1994|
+|14.|**Act 23 of 1995—Jurong Town Corporation (Amendment) Act 1995**|
+||Date of First Reading|25 May 1995 (Bill No. 18/95 published on 26 May 1995)|
+||Date of Second and Third Readings|7 July 1995|
+||Date of commencement|4 August 1995|
