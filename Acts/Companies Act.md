@@ -4,6 +4,8 @@
 
 **Table of Contents**
 
+[**Long Title**](#Companies-Act)
+
 [**Part I PRELIMINARY**](#Part-I)
 
 - [1 Short title](#Short-title)
@@ -136,15 +138,19 @@
 
 - [45 Contents of prospectuses](#Contents-of-prospectuses)
 
-- [46 Exemption from requirements as to form and content of prospectus](#Exemption-from-requirements-as-to-form-and-content-of-prospectus)
+- [45A Profile statement](#Profile-statement)
+
+- [46 Exemption from requirements as to form or content of prospectus or profile statement](#Exemption-from-requirements-as-to-form-or-content-of-prospectus-or-profile-statement)
 
 - [47 Abridged prospectus for renounceable rights issues](#Abridged-prospectus-for-renounceable-rights-issues)
 
-- [48 Certain advertisements deemed to be prospectuses](#Certain-advertisements-deemed-to-be-prospectuses)
+- [48 Restrictions on advertisements, etc.](#Restrictions-on-advertisements-etc)
 
 - [49 As to retention of over-subscriptions in debenture issues](#As-to-retention-of-over-subscriptions-in-debenture-issues)
 
 - [50 Registration of prospectus](#Registration-of-prospectus)
+
+- [50A Lodging supplementary document or replacement document](#Lodging-supplementary-document-or-replacement-document)
 
 - [51 Exemption for certain governmental and international corporations as regards the signing of a copy of prospectus by all directors](#Exemption-for-certain-governmental-and-international-corporations-as-regards-the-signing-of-a-copy-of-prospectus-by-all-directors)
 
@@ -154,9 +160,13 @@
 
 - [54 Expert’s consent to issue of prospectus containing statement by him](#Expert’s-consent-to-issue-of-prospectus-containing-statement-by-him)
 
-- [55 Civil liability for mis-statements in prospectus](#Civil-liability-for-mis-statements-in-prospectus)
+- [55 Civil liability for false or misleading statements and omissions](#Civil-liability-for-false-or-misleading-statements-and-omissions)
 
-- [56 Criminal liability for untrue statement in prospectus](#Criminal-liability-for-untrue-statement-in-prospectus)
+- [55A Persons liable to inform person making offer or invitation about certain deficiencies](#Persons-liable-to-inform-person-making-offer-or-invitation-about-certain-deficiencies)
+
+- [55B Defences](#Defences)
+
+- [56 Criminal liability for false or misleading statements and omissions](#Criminal-liability-for-false-or-misleading-statements-and-omissions)
 
 [**Division 2  Restrictions on allotment and commencement of business**](#Division-2--Restrictions-on-allotment-and-commencement-of-business)
 
@@ -453,6 +463,8 @@
 - [148 Restriction on undischarged bankrupt being director or manager](#Restriction-on-undischarged-bankrupt-being-director-or-manager)
 
 - [149 Disqualification of unfit directors of insolvent companies](#Disqualification-of-unfit-directors-of-insolvent-companies)
+
+- [149A Disqualification of directors of companies wound up on grounds of national security or interest](#Disqualification-of-directors-of-companies-wound-up-on-grounds-of-national-security-or-interest)
 
 - [150 Appointment of directors to be voted on individually](#Appointment-of-directors-to-be-voted-on-individually)
 
@@ -918,6 +930,8 @@
 
 - [322 Unclaimed assets to be paid to Official Receiver](#Unclaimed-assets-to-be-paid-to-Official-Receiver)
 
+- [322A Outstanding assets of company wound up on grounds of national security or interest](#Outstanding-assets-of-company-wound-up-on-grounds-of-national-security-or-interest)
+
 - [323 Expenses of winding up where assets insufficient](#Expenses-of-winding-up-where-assets-insufficient)
 
 - [324 Resolutions passed at adjourned meetings of creditors and contributories](#Resolutions-passed-at-adjourned-meetings-of-creditors-and-contributories)
@@ -1062,7 +1076,7 @@
 
 - [409A Injunctions](#Injunctions)
 
-- [409B Investigations by Commercial Affairs Department](#Investigations-by-Commercial-Affairs-Department)
+- [409B (Repealed)](#Repealed)
 
 [**Division 3  Miscellaneous**](#Division-3--Miscellaneous)
 
@@ -1099,6 +1113,12 @@
 (CHAPTER 50)
 
 (Original Enactment: Act 42 of 1967)
+
+REVISED EDITION 1994
+
+(15th March 1994)
+
+An Act relating to companies.
 
 [29th December 1967]
 
@@ -1489,6 +1509,10 @@ but does not include —
 
 being a company which has not ceased to be a private company under section 31 or 32;
 
+“profile statement” means a profile statement referred to in section 45A;
+
+[36/2000 wef 22/01/2001]
+
 “profit and loss account” includes income and expenditure account, revenue account or any other account showing the results of the business of a corporation for a period;
 
 “promoter”, in relation to a prospectus issued by or in connection with a corporation, means a promoter of the corporation who was a party to the preparation of the prospectus or of any relevant portion thereof, but does not include any person by reason only of his acting in a professional capacity;
@@ -1509,6 +1533,10 @@ being a company which has not ceased to be a private company under section 31 or
 
 “repealed written laws” means the written laws repealed by this Act;
 
+“replacement document” means a replacement prospectus or a replacement profile statement referred to in section 50A(1), as the case may be;
+
+[36/2000 wef 22/01/2001]
+
 “resolution for voluntary winding up” means the resolution referred to in section 290;
 
 “Rules” means Rules of Court;
@@ -1520,6 +1548,10 @@ being a company which has not ceased to be a private company under section 31 or
 “statutory meeting” means the meeting referred to in section 174;
 
 “statutory report” means the report referred to in section 174;
+
+“supplementary document” means a supplementary prospectus or a supplementary profile statement referred to in section 50A(1), as the case may be;
+
+[36/2000 wef 22/01/2001]
 
 “Table A” means Table A in the Fourth Schedule;
 
@@ -1575,11 +1607,23 @@ being a company which has not ceased to be a private company under section 31 or
 
 (5)
 
-### As to what constitutes an offer to the public
+As to what constitutes an offer to the public
 
-(6) Any reference in this Act to offering shares or debentures to the public or to issuing an invitation to the public in respect of shares or debentures shall, unless the contrary intention appears, be construed as including a reference to offering them to any section of the public or to issuing of an invitation to any section of the public, as the case may be, whether selected as clients of the person making the offer or issuing the invitation or in any other manner.
+(6)
 
-[40/89]
+(6) Any reference in this Act to offering shares or debentures, or units of shares or debentures, to the public or to issuing an invitation to the public in respect of shares or debentures, or units of shares or debentures, shall, unless the contrary intention appears, include a reference to offering shares or debentures, or units of shares or debentures, to any section of the public or to issuing an invitation to any section of the public, as the case may be, whether selected as clients of the person making the offer or issuing the invitation or in any other manner, but does not include the following:
+
+(a) an offer or invitation to enter into an underwriting agreement, whether or not relating to shares or debentures, or units of shares or debentures, that have been previously issued;
+
+(b) an offer or invitation made to existing members or debenture holders of a corporation which —
+
+(i) relates to shares in or debentures of that corporation, or to units of such shares or debentures; and
+
+(ii) is not an offer or invitation to which section 47 applies; and
+
+(c) an offer made to existing members of a company under section 306 which relates to shares, or units of shares, in the company.
+
+[36/2000 wef 22/01/2001]
 
 (7) Unless the contrary intention appears any reference in this Act to a person being or becoming bankrupt or to a person assigning his estate for the benefit of his creditors or making an arrangement with his creditors under any written law relating to bankruptcy or to a person being an undischarged bankrupt or to any status, condition, act, matter or thing under or in relation to the law of bankruptcy shall be construed as including a reference to a person being or becoming bankrupt or insolvent or to a person making any such assignment or arrangement or to a person being an undischarged bankrupt or insolvent or to the corresponding status, condition, act, matter or thing (as the case requires) under any written law relating to bankruptcy or insolvency.
 
@@ -2158,6 +2202,16 @@ he may refuse to register or receive the document and request that the document 
 12B\.—(1) Where it appears to the Court, as a result of evidence adduced before it by an applicant company, that any particular recorded in a register is erroneous or defective, the Court may, by order, direct the Registrar to rectify the register on such terms and conditions as seem to the Court just and expedient, as are specified in the order and the Registrar shall, upon receipt of the order, rectify the register accordingly.
 
 (2) An order of the Court made under subsection (1) shall require that a fresh document, showing the rectification, shall be filed by the applicant company with the Registrar together with a copy of the Court order, a copy of the court application and the affidavits in support thereof .
+
+(3) Notwithstanding subsections (1) and (2), an officer of a company may notify the Registrar in the prescribed form of any typographical or clerical error contained in any document relating to the company lodged with the Registrar.
+
+[36/2000 wef 22/01/2001]
+
+(4) The Registrar may, upon receipt of any notification referred to in subsection (3), rectify the registers accordingly.
+
+[36/2000 wef 22/01/2001]
+
+[13/87]
 
 ### Enforcement of duty to make returns
 
@@ -2997,23 +3051,23 @@ Prospectuses
 
 ### Requirement to issue form of application for shares or debentures with a prospectus
 
-43\.—(1) A person shall not issue, circulate or distribute any form of application for shares in or debentures of a corporation unless the form is issued, circulated or distributed together with a prospectus a copy of which has been registered by the Registrar.
+43\.—(1) No person shall make an offer or invitation to the public in respect of shares in or debentures of, or units of shares in or debentures of, a corporation unless —
 
-(2) Subsection (1) shall not apply if the form of application is issued, circulated or distributed in connection with —
+(a) a prospectus prepared in accordance with section 45 in respect of such shares or debentures, or such units of shares or debentures, has been lodged with and registered by the Registrar; and
 
-(a) an offer or invitation in respect of shares or debentures which is not made or issued to the public; or
+(b) such offer or invitation is made in or accompanied by a profile statement lodged with and registered by the Registrar under section 45A, if not made in or accompanied by a prospectus referred to in paragraph (a).
 
-(b) an offer made or invitation issued to the public in respect of shares or debentures that is exempted under Division 5A of this Part.
+[36/2000 wef 22/01/2001]
 
-[40/89]
+(2) No person shall make an offer or invitation to the public in respect of shares in or debentures of, or units of shares in or debentures of, a corporation which has not been formed or does not exist.
 
-(2A) Nothing in this section shall apply to an offer or invitation in respect of shares or debentures for sale to the public in a case where the offer or invitation relates to shares or debentures that have been previously issued and the shares or debentures are of a class that are listed for quotation on a stock exchange in Singapore approved by the Minister under section 16 of the Securities Industry Act.
+[36/2000 wef 22/01/2001]
 
-[40/89]
+(2A) Subsection (1) shall not apply to an offer made or invitation issued to the public in respect of shares or debentures, or units of shares or debentures, that is exempted under Division 5A of this Part.
 
-[22/93]
+[36/2000 wef 22/01/2001]
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
+(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
 
 [15/84]
 
@@ -3095,91 +3149,135 @@ in accordance with this section.
 
 ### Contents of prospectuses
 
-45\.—(1) To comply with the requirements of this Act a prospectus —
+45\.—(1) A prospectus for an offer or invitation to the public in respect of shares in or debentures of, or units of shares in or debentures of, a corporation shall contain —
 
-(a) shall be printed in type of a size not less than the type known as 8 point Times unless the Registrar, before the issuing, advertising, circulating or distributing of the prospectus in Singapore, certifies in writing, that the type and size of letters are legible and satisfactory;
+(a) all the information that investors and their professional advisers would reasonably require to make an informed assessment of the matters specified in subsection (3); and
 
-(b) shall be dated and that date shall, unless the contrary is proved, be taken as the date of issue of the prospectus;
+(b) the matters specified in the Fifth Schedule.
 
-(c) shall be lodged with the Registrar and shall state that a copy of the prospectus has been so lodged with and registered by the Registrar and shall also state immediately after such statement that the Registrar takes no responsibility as to its contents;
+(2) The prospectus shall, with respect to subsection (1)(a), contain such information —
 
-(d) shall, subject to Part III of the Fifth Schedule, state the matters specified in Part I of that Schedule and set out the reports specified in Part II of that Schedule;
+(a) only to the extent to which it is reasonable for investors and their professional advisers to expect to find in the prospectus; and
 
-(e) shall, where the persons making any report specified in Part II of the Fifth Schedule, have made therein, or have, without giving the reasons, indicated therein, any such adjustments as are mentioned in paragraph 31 of that Schedule, have endorsed thereon or attached thereto, a statement by those persons setting out the adjustments and giving the reasons therefor;
+(b) only to the extent that a person whose knowledge is relevant —
 
-(f) shall contain a statement that no shares or debentures or that no shares and debentures (as the case requires) shall be allotted on the basis of the prospectus later than 6 months after the date of the issue of the prospectus;
+(i) actually knows the information; or
 
-(g) shall, if it contains any statement made by an expert or contains what purports to be a copy of or extract from a report, memorandum or valuation of an expert, state the date on which the statement, report, memorandum or valuation was made and whether or not it was prepared by the expert for incorporation in the prospectus;
+(ii) in the circumstances ought reasonably to have obtained the information by making enquiries.
 
-(h) shall not contain the name of any person as a trustee for holders of debentures or as an auditor or a banker or a solicitor or a stock broker or share broker of the corporation or proposed corporation or for or in relation to the issue or proposed issue of shares or debentures unless that person has consented in writing before the issue of the prospectus to act in that capacity in relation to the prospectus and, in the case of a company or proposed company, a copy, verified as prescribed, of the consent has been lodged with the Registrar; and
+(3) The matters referred to in subsection (1)(a) shall relate to —
 
-(i) shall, where the prospectus offers shares in or debentures of a foreign company incorporated or to be incorporated, in addition contain particulars with respect to —
+(a) the rights and liabilities attaching to the shares or debentures, or units of shares or debentures;
 
-(A) the instrument constituting or defining the constitution of the company;
+(b) the assets and liabilities, profits and losses, financial position and performance, and prospects of the corporation that is to issue or has issued the shares or debentures, or units of shares or debentures;
 
-(B) the enactments or provisions having the force of an enactment by or under which the incorporation of the company was effected or is to be effected;
+(c) in the case of options over shares or debentures, the capacity of the person making the offer or invitation to issue or deliver the relevant shares or debentures; and
 
-(C) an address in Singapore where such instrument, enactments or provisions or certified copies thereof may be inspected;
+(d) if the person making the offer or invitation is one who controls the corporation whose shares or debentures underlie the offer or invitation, the assets and liabilities, profits and losses, financial position and performance, and prospects of the corporation.
 
-(D) the date on which and the place where the company was or is to be incorporated; and
+(4) In deciding what information shall be included under subsection (1)(a), regard shall be had to —
 
-(E) whether the company has established a place of business in Singapore and, if so, the address of its principal office in Singapore.
+(a) the nature of the shares or debentures, or units of shares or debentures, and the nature of the corporation concerned;
 
-(2) Sub-paragraphs (A), (B) and (C) of subsection (1)(i) shall not apply in the case of a prospectus issued more than two years after the date on which the company is entitled to commence business and in the application to a foreign company of Part I of the Fifth Schedule for the purposes of that subsection, paragraph 2 of that Part shall have effect as if a reference to the constitution of the company were substituted for the reference to the articles.
+(b) the matters that likely investors may reasonably be expected to know; and
 
-(3) A condition requiring or binding an applicant for shares in or debentures of a corporation to waive compliance with any requirement of this section, or purporting to affect him with notice of any contract, document or matter not specifically referred to in the prospectus shall be void.
+(c) the fact that certain matters may reasonably be expected to be known to the professional advisers of such investors.
 
-(4) Where a prospectus relating to any shares in or debentures of a corporation is issued and the prospectus does not comply with the requirements of this Act, each director of the corporation and other person responsible for the prospectus shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
+(5) For the purposes of subsection (2), a person’s knowledge is relevant only if he is one of the following persons:
 
-[15/84]
+(a) the person making the offer or invitation in respect of the shares or debentures, or units of shares or debentures;
 
-(5) In the event of non-compliance with or contravention of any of the requirements set out in this section, a director or other person responsible for the prospectus shall not incur any liability by reason of the non-compliance or contravention, if —
+(b) if the person making the offer or invitation in respect of the shares or debentures, or units of shares or debentures, is a corporation, a director of the corporation;
 
-(a) as regards any matter not disclosed, he proves that he was not cognizant thereof;
+(c) a proposed director of the corporation whose shares or debentures, or units of shares or debentures, will be issued under the offer or invitation;
 
-(b) he proves that the non-compliance or contravention arose from an honest mistake on his part concerning the facts; or
+(d) a person named in the prospectus as an underwriter of the issue or sale;
 
-(c) the non-compliance or contravention was in respect of matter which in the opinion of the Court dealing with the case was immaterial or was otherwise such as ought, in the opinion of that Court, having regard to all the circumstances of the case, reasonably to be excused.
+(e) a person named in the prospectus as a stockbroker to the issue or sale if he participates in any way in the preparation of the prospectus;
 
-(6) In the event of failure to include in a prospectus a statement with respect to the matters specified in paragraph 17 of the Fifth Schedule no director or other person shall incur any liability in respect of the failure unless it is proved that he had knowledge of the matters not disclosed.
+(f) a person named in the prospectus with his consent as having made a statement —
 
-(7) Nothing in this section shall limit or diminish any liability which any person may incur under any rule of law or any written law or under this Act apart from subsection (4).
+(i) that is included in the prospectus; or
+
+(ii) on which a statement made in the prospectus is based;
+
+(g) a person named in the prospectus with his consent as having performed a particular professional or advisory function.
+
+(6) A condition requiring or binding an applicant for shares in or debentures of, or units of shares in or debentures of, a corporation to waive compliance with any requirement of this section, or purporting to affect him with notice of any contract, document or matter not specifically referred to in the prospectus, shall be void.
+
+(7) This section shall not affect any liability that a person has under any other law.
 
 (8) The Minister may, by notification in theGazette, add to, vary or amend the Fifth Schedule.
 
-[62/70]
+[36/2000 wef 22/01/2001]
 
-[U.K.ss.37,38.]
+### Profile statement
 
-[Aust. s. 39.]
+45A\.—(1) Subject to this section, nothing in this Act shall be construed as preventing any person from issuing, circulating or distributing an extract from, or an abridged version of, the prospectus (referred to in this section as the profile statement) if —
 
-### Exemption from requirements as to form and content of prospectus
+(a) a copy of the profile statement and the prospectus have been lodged with and registered by the Registrar; and
 
-46\.—(1) A person may apply to the Registrar in writing for an order of exemption from any requirements of this Act relating to the form and content of a prospectus, and the Registrar may make such an order either unconditionally or on such terms and conditions as he may think fit to impose.
+(b) sufficient copies of the prospectus are made available free of charge for collection at the times and places specified in the profile statement.
+
+(2) The directors of the corporation concerned shall ensure that the profile statement shall contain at least —
+
+(a) the following particulars:
+
+(i) identification of the corporation and the nature of the shares or debentures, or units of shares or debentures, to which the prospectus relates;
+
+(ii) the nature of the risks involved in investing in the shares or debentures, or units of shares or debentures; and
+
+(iii) details of all amounts payable in respect of the shares or debentures, or units of shares or debentures (including any amount by way of fee, commission or charge);
+
+(b) a statement that copies of the prospectus are available free of charge for collection at the times and places specified in the profile statement; and
+
+(c) a statement that the directors are satisfied that the profile statement contains a fair summary of the key information set out in the prospectus.
+
+(3) A profile statement shall not contain —
+
+(a) any statement or matter that is false or misleading in the form and context in which it is included;
+
+(b) any material information that is not contained in the prospectus; and
+
+(c) any material information that differs in any material particular from that set out in the prospectus.
+
+(4) The Registrar may refuse to register a copy of any profile statement if —
+
+(a) it is not in compliance with subsection (2) or (3);
+
+(b) the copy, signed by every director and by every person who is named therein as a proposed director of the corporation or by his agent authorised in writing, is not lodged with the Registrar on or before the date of its issue;
+
+(c) the prospectus has not been registered or is not to be registered at the same time; or
+
+(d) it appears to the Registrar that it is not in the public interest to do so.
+
+(5) Sections 50(2A), (2B) and (2C) and 54 shall apply in relation to a profile statement as they apply in relation to a prospectus.
+
+(6) If a profile statement is issued, circulated or distributed without a copy thereof having been registered by the Registrar, the corporation and every person who is knowingly a party to the issue, circulation or distribution of the profile statement shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[36/2000 wef 22/01/2001]
+
+### Exemption from requirements as to form or content of prospectus or profile statement
+
+46\.—(1) A person may apply to the Registrar in writing for an order of exemption from any requirement of this Act relating to the form or content of a prospectus or a profile statement, and the Registrar may make such an order either unconditionally or subject to such conditions as he may think fit to impose.
 
 (2) The Registrar shall not make an order under subsection (1) unless he is of the opinion that compliance with the requirements in respect of which exemption has been applied for would be unduly burdensome.
 
-(2A) Notwithstanding subsection (2), in a case where a prospectus states or implies that an application has been or will be made for permission for international securities to which the prospectus relates to be listed or quoted on a stock exchange in Singapore approved by the Minister under section 16 of the Securities Industry Act, the Registrar may, by order, exempt a person from complying with any particular requirement as regards the form and content of a prospectus, as shall be specified in the order, if he considers that compliance with that particular requirement is unnecessary for the protection of persons who may normally be expected to buy or deal in those securities, being persons who are sufficiently expert to understand the risks involved.
+(3) The Registrar may, by order published in theGazette, exempt any class or description of prospectuses or profile statements from such requirement of this Act relating to the form or content of a prospectus or a profile statement, as the case may be, as may be specified in the order.
 
-[40/89]
+(4) An exemption referred to in subsection (3) may be subject to such conditions as may be specified in the order.
 
-(2B) In subsection (2A), “international securities” means shares or debentures denominated in a currency other than Singapore dollars and issued by a body corporate incorporated outside Singapore, or by a foreign government or an international organisation.
+(5) Any person who contravenes or fails to comply with any of the conditions specified in the order made under subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
-[40/89]
+(6) A prospectus or a profile statement shall be deemed to be in compliance with all the requirements of this Act relating to the form and content of a prospectus or a profile statement, as the case may be, if it is issued in compliance with an order made under subsection (1) or (3).
 
-(2C) Regulations may provide for the class or classes of international securities in respect of which an order may be made under subsection (2A) and for such other matters as the Minister considers are expedient in connection with the issue of such securities.
-
-[40/89]
-
-(3) A prospectus shall be deemed to comply with all the requirements of this Act relating to the form and content of a prospectus if it is issued in compliance with an order made under subsection (1).
-
-[49/73]
+[36/2000 wef 22/01/2001]
 
 ### Abridged prospectus for renounceable rights issues
 
-47\.—(1) Any offer or invitation with respect to shares or debenturesof a company shall be deemed to be an offer to the public if it is an offer or invitation by means of a rights issue which is renounceable in favour of persons other than existing members or debenture holders of that company and an application has been or will be made for permission to deal with or quote such shares or debentureson any stock exchange.
+47\.—(1) Any offer or invitation with respect to shares or debentures, or units of shares or debentures, of a company shall be deemed to be an offer to the public if it is an offer or invitation by means of a rights issue which is renounceable in favour of persons other than existing members or debenture holders of that company and an application has been or will be made for permission to deal with or quote such shares or debentures, or units of such shares or debentures, on any stock exchange.
 
-(2) Where subsection (1) applies to any offer or invitation with respect to shares or debenturesof a company, an abridged prospectus shall be registered containing the particulars set out in Part V of the Fifth Schedule.
+(2) Where subsection (1) applies to any offer or invitation with respect to shares or debentures, or units of shares or debentures, of a company, an abridged prospectus shall be registered containing the particulars set out in Part V of the Fifth Schedule.
 
 (3) Any abridged prospectus registered pursuant to subsection (2) shall be deemed to be a prospectus for the purposes of this Act and all written law and rules of law as to contents of prospectuses (to the extent that may be applicable) and as to liability in respect of statements in and omissions from prospectuses or otherwise relating to prospectuses shall apply to an abridged prospectus and have effect accordingly.
 
@@ -3189,57 +3287,109 @@ in accordance with this section.
 
 [13/87]
 
-### Certain advertisements deemed to be prospectuses
+### Restrictions on advertisements, etc.
 
-48\.—(1) Every advertisement offering or calling attention to an offer or intended offer of shares in or debentures of a corporation or proposed corporation to the public for subscription or purchase shall be deemed to be a prospectus (and all written laws and rules of law as to the contents of prospectuses and as to liability in respect of statements in and omissions from prospectuses or otherwise relating to prospectuses shall apply and have effect accordingly) if it contains any information or matter other than the following:
+48\.—(1) A person shall not —
 
-(a) the number and description of the shares or debentures concerned;
+(a) advertise; or
 
-(b) the name and date of registration of the corporation and its paid-up share capital;
+(b) publish a statement that directly or indirectly refers to,
 
-(c) a concise statement of the general nature of the main business or proposed main business of the corporation;
+an offer or intended offer of shares or debentures, or units of shares or debentures, to the public for subscription or purchase that would need a prospectus or a profile statement.
 
-(d) the names, addresses and occupations of —
+(2) If an offer or intended offer of shares or debentures, or units of shares or debentures, to the public for subscription or purchase needs a prospectus or a profile statement, a person shall not —
 
-(i) the directors or proposed directors;
+(a) advertise the offer or intended offer; or
 
-(ii) the brokers or underwriters to the issue; and
+(b) publish a statement that —
 
-(iii) in the case of debentures, the trustee for the debenture holders;
+(i) directly or indirectly refers to the offer or intended offer; or
 
-(e) the name of the stock exchange of which the brokers or underwriters to the issue are members;
+(ii) is reasonably likely to induce people to subscribe or purchase the shares or debentures, or units of shares or debentures,
 
-(f) particulars of the opening and closing dates of the offer and the time and place at which copies of the full prospectus and forms of application for the shares or debentures may be obtained; and
+unless the advertisement or publication is authorised by subsection (4), (5), (7) or (8).
 
-(g) statements with respect to the sale price of units, or the yield therefrom or other benefits received or likely to be received by holders of units in relation to authorised unit trust schemes,
+(3) In deciding whether a statement —
 
-and unless it states that applications for shares or debentures will proceed only on one of the forms of application referred to in and attached to a printed copy of the prospectus.
+(a) indirectly refers to an offer or intended offer of shares or debentures, or units of shares or debentures; or
 
-(2) No statement that, or to the effect that, the advertisement is not a prospectus shall affect the operation of this section.
+(b) is reasonably likely to induce people to apply for or purchase the shares or debentures, or units of shares or debentures,
 
-(3) This section shall apply to advertisements published or disseminated in Singapore by newspaper, broadcasting, television, cinematograph or any other means whatsoever.
+regard shall be had to whether the statement —
 
-(4) Where an advertisement that is deemed to be a prospectus by virtue of subsection (1) does not comply with the requirements of this Act as to prospectuses, the person who published or disseminated the advertisement, and every officer of the corporation concerned, or other person, who knowingly authorised or permitted the publication or dissemination shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
+(i) forms part of the normal advertising of a corporation’s products or services and is genuinely directed at maintaining its existing customers, or attracting new customers, for those products or services;
 
-[15/84]
+(ii) communicates information that materially deals with the affairs of the corporation; and
 
-(5) For the purposes of this section, where —
+(iii) is likely to encourage investment decisions being made on the basis of the statement rather than on the basis of information contained in a prospectus or a profile statement.
 
-(a) an advertisement offering or calling attention to an offer or intended offer of shares in or debentures of a corporation or proposed corporation to the public for subscription or purchase is published or disseminated;
+(4) For the avoidance of doubt, a person may disseminate a prospectus or a profile statement that has been registered by the Registrar without contravening subsection (1).
 
-(b) the person who published or disseminated the advertisement before so doing obtained a certificate signed by at least two directors of the corporation, or two proposed directors of the proposed corporation, that the proposed advertisement is an advertisement that will not be deemed to be a prospectus by virtue of subsection (1); and
+(5) Before a prospectus or a profile statement is registered by the Registrar, an advertisement or publication does not contravene subsection (1) if it contains the following but nothing more:
 
-(c) the advertisement is not patently an advertisement that is deemed to be a prospectus by virtue of that subsection,
+(a) a statement that identifies the offeror and the shares or debentures, or units of shares or debentures;
 
-the corporation and each person who signed the certificate shall be deemed to be the persons who published or disseminated the advertisement, but no other person shall be deemed to be such a person.
+(b) a statement that a prospectus or a profile statement for the offer will be made available when the shares or debentures, or units of shares or debentures, are offered;
 
-(6) Any person who has obtained a certificate referred to in subsection (5)(b) shall when so requested by the Registrar forthwith deliver the certificate to the Registrar and if he fails to do so he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year and also to a default penalty.
+(c) a statement that anyone who wants to acquire the shares or debentures, or units of shares or debentures, will need to make an application in the manner set out in the prospectus or the profile statement; and
 
-[15/84]
+(d) a statement on how to arrange to receive a copy of the prospectus or the profile statement.
 
-(7) Nothing in this section shall limit or diminish any liability which any person may incur under any rule of law or under any provision of this Act apart from this section.
+(6) To satisfy subsection (5), the advertisement or publication shall include all of the statements referred to in paragraphs (a), (b) and (c) of that subsection, and may include the statement referred to in paragraph (d).
 
-[Aust.s.40.]
+(7) After the prospectus or the profile statement is registered by the Registrar, an advertisement or publication does not contravene subsection (1) if it includes a statement to the effect that —
+
+(a) the offer of the shares or debentures, or units of shares or debentures, will be made in, or accompanied by, a copy of the prospectus or the profile statement; and
+
+(b) anyone wishing to acquire the shares or debentures, or units of shares or debentures, will need to make an application in the manner set out in the prospectus or the profile statement.
+
+(8) An advertisement or publication does not contravene subsection (1) if it —
+
+(a) consists of a notice or report by the corporation or one of its officers about its affairs to a stock exchange;
+
+(b) consists solely of a notice or report by the corporation or one of its officers of a general meeting;
+
+(c) consists solely of a report about the corporation that is published by the corporation or one of its officers and —
+
+(i) does not contain information that materially affects affairs of the corporation other than information previously made available in a prospectus that has been registered by the Registrar, an annual report or a report referred to in paragraph (a) or (b); and
+
+(ii) does not refer (whether directly or indirectly) to the offer;
+
+(d) is a news report or a genuine comment, in a newspaper, periodical or magazine or on radio or television, or any other means of broadcasting or communication, relating to —
+
+(i) a prospectus or a profile statement that has been registered by the Registrar or information contained in such a prospectus or a profile statement; or
+
+(ii) a notice or report covered by paragraph (a), (b) or (c);
+
+(e) is a report about the shares in or debentures of, or units of the shares in or debentures of, the corporation published by someone who is not —
+
+(i) the corporation;
+
+(ii) acting at the instigation of, or by arrangement with, the corporation;
+
+(iii) a director of the corporation; or
+
+(iv) a person who has an interest in the success of the issue or sale of the shares or debentures, or units of shares or debentures; or
+
+(f) is published in the ordinary course of a business of —
+
+(i) publishing a newspaper, periodical or magazine; or
+
+(ii) broadcasting by radio, television or any other means of broadcasting or communication,
+
+and the person who published the advertisement or statement did not know and had no reason to suspect that its publication would amount to a contravention of subsection (1).
+
+(9) Subsection (8)(d) and (e) shall not apply if any person gives consideration or any other benefit for the publication of the report or comment, as the case may be.
+
+(10) Any person who contravenes or fails to comply with subsection (1), and every officer of the corporation concerned, or other person, who knowingly authorised or permitted the publication or dissemination, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months.
+
+(11) This section shall not affect any liability that a person has under any other law.
+
+(12) The Minister may, by order published in theGazette, exempt any person or class of persons from this section, subject to such conditions as may be specified in the order.
+
+(13) For the purposes of this section, “offer” or “intended offer” of shares or debentures, or units of shares or debentures, includes an invitation to the public in respect thereof.
+
+[36/2000 wef 22/01/2001]
 
 ### As to retention of over-subscriptions in debenture issues
 
@@ -3295,7 +3445,7 @@ the corporation and each person who signed the certificate shall be deemed to be
 
 [40/89]
 
-(3) If a prospectus is issued without a copy thereof having been so registered, the corporation and every person who is knowingly a party to the issue of the prospectus shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months.
+(3) If a prospectus is issued without a copy thereof having been so registered, the corporation and every person who is knowingly a party to the issue of the prospectus shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
 [15/84]
 
@@ -3309,6 +3459,54 @@ the corporation and each person who signed the certificate shall be deemed to be
 
 [13/87]
 
+### Lodging supplementary document or replacement document
+
+50A\.—(1) If the person making an offer or invitation to the public in respect of shares in or debentures of, or units of shares in or debentures of, a corporation becomes aware of —
+
+(a) a false or misleading statement in the prospectus or the profile statement;
+
+(b) an omission, from the prospectus or the profile statement, of information required by section 45 or 45A, as the case may be; or
+
+(c) a new circumstance that —
+
+(i) has arisen since the prospectus or the profile statement was registered by the Registrar; and
+
+(ii) would have been required by section 45 or the Fifth Schedule to be included in the prospectus, or by section 45A to be included in the profile statement, if it had arisen before the prospectus or the profile statement was registered,
+
+that is materially adverse from the point of view of an investor, the person may lodge a supplementary or replacement prospectus or a supplementary or replacement profile statement (referred to in this section as a supplementary or replacement document, as the case may be) with the Registrar.
+
+(2) At the beginning of a supplementary document, there shall be —
+
+(a) a statement that it is a supplementary prospectus or a supplementary profile statement, as the case may be;
+
+(b) an identification of the prospectus or the profile statement it supplements;
+
+(c) an identification of any previous supplementary document lodged with the Registrar in relation to the offer or invitation; and
+
+(d) a statement that it is to be read together with the prospectus or the profile statement it supplements and any previous supplementary document.
+
+(3) At the beginning of a replacement document, there shall be —
+
+(a) a statement that it is a replacement prospectus or a replacement profile statement, as the case may be; and
+
+(b) an identification of the prospectus or the profile statement it replaces.
+
+(4) The supplementary document and the replacement document must be dated with the date on which they are lodged with the Registrar.
+
+(5) The person who lodges a supplementary document or the corporation concerned shall take reasonable steps to inform investors of such lodgment and make available the supplementary document free of charge to them, whereupon, for the purposes of the application of this Part to events that occur after the lodgment of the supplementary document —
+
+(a) where the supplementary document is a supplementary prospectus, the prospectus shall be taken to be the prospectus together with the supplementary prospectus; and
+
+(b) where the supplementary document is a supplementary profile statement, the profile statement shall be taken to be the profile statement together with the supplementary profile statement.
+
+(6) The person who lodges a replacement document or the corporation concerned shall take reasonable steps to inform investors of such lodgment and make available the replacement document free of charge to them, whereupon, for the purposes of the application of this Part to events that occur after the lodgment of the replacement document —
+
+(a) where the replacement document is a replacement prospectus, the prospectus shall be taken to be the prospectus together with the replacement prospectus; and
+
+(b) where the replacement document is a replacement profile statement, the profile statement shall be taken to be the profile statement together with the replacement profile statement.
+
+[36/2000 wef 22/01/2001]
+
 ### Exemption for certain governmental and international corporations as regards the signing of a copy of prospectus by all directors
 
 51\.—(1) This section shall apply only to corporations that are both of a governmental and international character.
@@ -3321,21 +3519,21 @@ the corporation and each person who signed the certificate shall be deemed to be
 
 ### Document containing offer of shares for sale deemed prospectus
 
-52\.—(1) Where a corporation allots or agrees to allot to any person any shares in or debentures ofthe corporation with a view to all or any of them being offered for sale to the public, any document by which the offer for sale to the public is made shall for all purposes be deemed to be a prospectus issued by the corporation, and all written laws and rules of law as to the contents of prospectuses and to liability in respect of statements and non-disclosures in prospectuses, or otherwise relating to prospectuses, shall apply and have effect accordingly as if the shares or debentures had been offered to the public and as if persons accepting the offer in respect of any shares or debentureswere subscribers therefor but without prejudice to the liability, if any, of the persons by whom the offer is made, in respect of statements or non-disclosures in the document or otherwise.
+52\.—(1) Where a corporation allots or agrees to allot to any person any shares in or debentures of, or units of shares in or debentures of, the corporation with a view to all or any of them being offered for sale to the public, any document by which the offer for sale to the public is made shall for all purposes be deemed to be a prospectus issued by the corporation, and all written laws and rules of law as to the contents of prospectuses and to liability in respect of statements and non-disclosures in prospectuses, or otherwise relating to prospectuses, shall apply and have effect accordingly as if the shares or debentures, or units of shares or debentures, had been offered to the public and as if persons accepting the offer in respect of any shares or debentures, or units of any shares or debentures, were subscribers therefor but without prejudice to the liability, if any, of the persons by whom the offer is made, in respect of statements or non-disclosures in the document or otherwise.
 
-(2) For the purposes of this Act, it shall, unless the contrary is proved, be evidence that an allotment of, or an agreement to allot, shares or debentureswas made with a view to the shares or debenturesbeing offered for sale to the public if it is shown —
+(2) For the purposes of this Act, it shall, unless the contrary is proved, be evidence that an allotment of, or an agreement to allot, shares or debentures, or units of shares or debentures, was made with a view to the shares or debentures, or units of shares or debentures, being offered for sale to the public if it is shown —
 
-(a) that an offer of the shares or debenturesor of any of them for sale to the public was made within 6 months after the allotment or agreement to allot; or
+(a) that an offer of the shares or debentures, or units of shares or debentures, or of any of them for sale to the public was made within 6 months after the allotment or agreement to allot; or
 
-(b) that at the date when the offer was made the whole consideration to be received by the corporation in respect of the shares or debentureshad not been so received.
+(b) that at the date when the offer was made the whole consideration to be received by the corporation in respect of the shares or debentures, or units of shares or debentures, had not been so received.
 
 (3) The requirements of this Division as to prospectuses shall have effect as though the persons making an offer to which this section relates were persons named in a prospectus as directors of a corporation.
 
 (4) In addition to complying with the other requirements of this Division the document making the offer shall state —
 
-(a) the net amount of the consideration received or to be received by the corporation in respect of shares or debentures to which the offer relates; and
+(a) the net amount of the consideration received or to be received by the corporation in respect of shares or debentures, or units of shares or debentures, to which the offer relates; and
 
-(b) the place and time at which a copy of the contract under which the shares or debentureshave been or are to be allotted may be inspected.
+(b) the place and time at which a copy of the contract under which the shares or debentures, or units of shares or debentures, have been or are to be allotted may be inspected.
 
 (5) Where an offer to which this section relates is made by a corporation or a firm, it shall be sufficient if the document referred to in subsection (1) is signed on behalf of the corporation or firm by two directors of the corporation or not less than half of the members of the firm, as the case may be, and any such director or member may sign by his agent authorised in writing.
 
@@ -3345,7 +3543,7 @@ the corporation and each person who signed the certificate shall be deemed to be
 
 ### Allotment of shares and debentures where prospectus indicates application to list on stock exchange
 
-53\.—(1) Where a prospectus states or implies that application has been or will be made for permission for the shares or debentures offered thereby to be listed for quotation on the official list of any stock exchange, any allotment made on an application in pursuance of the prospectus shall, subject to subsection (3), whenever made, be void if —
+53\.—(1) Where a prospectus states or implies that application has been or will be made for permission for the shares or debentures, or units of shares or debentures, offered thereby to be listed for quotation on the official list of any stock exchange, any allotment made on an application in pursuance of the prospectus shall, subject to subsection (3), whenever made, be void if —
 
 (a) the permission is not applied for in the form for the time being required by the stock exchange before the third day on which the stock exchange is open after the date of issue of the prospectus; or
 
@@ -3353,13 +3551,13 @@ the corporation and each person who signed the certificate shall be deemed to be
 
 (2) Where the permission has not been applied for, or has not been granted as aforesaid, the corporation shall, subject to subsection (3), forthwith repay without interest all money received from applicants in pursuance of the prospectus, and if any such money is not repaid within 14 days after the corporation so becomes liable to repay it then in addition to the liability of the corporation the directors of the corporation shall be jointly and severally liable to repay that money with interest at the rate of 10% per annum from the expiration of such 14 days.
 
-(3) Where in relation to any shares or debentures —
+(3) Where in relation to any shares or debentures, or units of any shares or debentures —
 
 (a) permission is not applied for as specified in subsection (1)(a); or
 
 (b) permission is not granted as specified in subsection (1)(b),
 
-the Minister may by notification in theGazetteon the application of the corporation, made before any share or debenture is purported to be allotted, exempt the allotment of the shares or debentures from the provisions of this section.
+the Minister may by notification in theGazetteon the application of the corporation, made before any share or debenture , or unit of any share or debenture, is purported to be allotted, exempt the allotment of the shares or debentures from the provisions of this section.
 
 (4) A director shall not be liable under subsection (2) if he proves that the default in the repayment of the money was not due to any misconduct or negligence on his part.
 
@@ -3367,9 +3565,9 @@ the Minister may by notification in theGazetteon the application of the corporat
 
 (6) Without limiting the application of any of its provisions, this section shall have effect —
 
-(a) in relation to any shares or debentures agreed to be taken by a person underwriting an offer thereof contained in a prospectus as if he had applied therefor in pursuance of the prospectus; and
+(a) in relation to any shares or debentures, or units of any shares or debentures, agreed to be taken by a person underwriting an offer thereof contained in a prospectus as if he had applied therefor in pursuance of the prospectus; and
 
-(b) in relation to a prospectus offering shares for sale as if —
+(b) in relation to a prospectus offering shares or units of shares for sale as if —
 
 (i) a reference to sale were substituted for a reference to allotment;
 
@@ -3403,7 +3601,7 @@ the Minister may by notification in theGazetteon the application of the corporat
 
 ### Expert’s consent to issue of prospectus containing statement by him
 
-54\.—(1) A prospectus inviting subscription for or purchase of shares in or debentures ofa corporation and including a statement purporting to be made by an expert or to be based on a statement made by an expert shall not be issued unless —
+54\.—(1) A prospectus inviting subscription for or purchase of shares in or debentures of, or units of shares in or debentures of, a corporation and including a statement purporting to be made by an expert or to be based on a statement made by an expert shall not be issued unless —
 
 (a) he has given, and has not before delivery of a copy of the prospectus for registration withdrawn, his written consent to the issue thereof with the statement included in the form and context in which it is included; and
 
@@ -3417,69 +3615,159 @@ the Minister may by notification in theGazetteon the application of the corporat
 
 [Aust. s. 45.]
 
-### Civil liability for mis-statements in prospectus
+### Civil liability for false or misleading statements and omissions
 
-55\.—(1) Subject to this section, each of the following persons shall be liable to pay compensation to all persons who subscribe for or purchase any shares or debentures on the faith of a prospectus for any loss or damage sustained by reason of any untrue statement therein, or by reason of the wilful non-disclosure therein of any matter of which he had knowledge and which he knew to be material, that is to say, every person who —
+55\.—(1) Where an offer or invitation in respect of shares or debentures, or units of shares or debentures, is made under a prospectus or a profile statement and —
 
-(a) is a director of the corporation at the time of the issue of the prospectus;
+(a) a false or misleading statement is contained in —
 
-(b) authorised or caused himself to be named and is named in the prospectus as a director or as having agreed to become a director either immediately or after an interval of time;
+(i) the prospectus or the profile statement; or
 
-(c) is a promoter of the corporation; or
+(ii) any application form that is in or accompanies the prospectus or the profile statement;
 
-(d) authorised or caused the issue of the prospectus.
+(b) there is an omission to state any information required to be disclosed under section 45 in respect of the prospectus, or under section 45A in respect of the profile statement; or
 
-(2) Notwithstanding anything in subsection (1), where the consent of an expert is required to the issue of a prospectus and he has given that consent, he shall not by reason only thereof be liable as a person who has authorised or caused the issue of the prospectus except in respect of an untrue statement purporting to be made by him as an expert, and the inclusion in the prospectus of a name of a person as a trustee for the debenture holders, auditor, banker, solicitor or stock or share broker shall not for that reason alone be construed as an authorisation by such person of the issue of the prospectus.
+(c) there is an omission to state a new circumstance that —
 
-(3) No person shall be so liable if he proves —
+(i) has arisen since the prospectus or the profile statement was registered by the Registrar; and
 
-(a) that, having consented to become a director of the corporation, he withdrew his consent before the issue of the prospectus, and that it was issued without his authority or consent;
+(ii) would have been required by section 45 to be included in the prospectus, or by section 45A to be included in the profile statement, if it had arisen before the prospectus or the profile statement was registered,
 
-(b) that the prospectus was issued without his knowledge or consent and he gave reasonable public notice thereof forthwith after he became aware of its issue;
+the persons referred to in subsection (3) shall be liable to compensate any person who suffers loss or damage as a result of the false or misleading statement in or omission from the prospectus or the profile statement, even if such persons were not involved in the making of the false or misleading statement or the omission.
 
-(c) that after the issue of the prospectus and before allotment or sale thereunder he, on becoming aware of any untrue statement therein, withdrew his consent and gave reasonable public notice of the withdrawal and of the reason therefor; or
+(2) For the purposes of subsection (1), a false or misleading statement about a future matter (including the doing of, or the refusal to do, an act) is taken to have been made if a person makes the statement without having reasonable grounds for making the statement.
 
-(d) that —
+(3) The persons liable are —
 
-(i) as regards every untrue statement not purporting to be made on the authority of an expert or of a public official document or statement, he had reasonable ground to believe, and did up to the time of the allotment or sale of the shares or debentures believe, that the statement was true;
+(a) the person making the offer or invitation to the public;
 
-(ii) as regards every untrue statement purporting to be a statement made by an expert or to be based on a statement made by an expert or contained in what purports to be a copy of or extract from a report or valuation of an expert, it fairly represented the statement, or was a correct and fair copy of or extract from the report or valuation, and he had reasonable ground to believe and did up to the time of the issue of the prospectus believe that the person making the statement was competent to make it and that that person had given the consent required by section 54 to the issue of the prospectus and had not withdrawn that consent before delivery of a copy of the prospectus for registration, or, to that person’s knowledge, before any allotment or sale thereunder; and
+(b) if the offer or invitation is made by a corporation, each director of the corporation;
 
-(iii) as regards every untrue statement purporting to be a statement made by an official person or contained in what purports to be a copy of or extract from a public official document, it was a correct and fair representation of the statement or copy of or extract from the document.
+(c) a person named in the prospectus or the profile statement with his consent as a proposed director of the corporation;
 
-(4) Subsection (3) shall not apply in the case of a person liable, by reason of his having given a consent required of him by section 54, as a person who has authorised or caused the issue of the prospectus in respect of an untrue statement purporting to have been made by him as an expert.
+(d) an underwriter (but not a sub-underwriter) to the issue or sale of the shares or debentures, or units of shares or debentures, named in the prospectus or the profile statement with his consent;
 
-(5) A person who apart from this subsection would under subsection (1) be liable, by reason of his having given a consent required of him by section 54, as a person who has authorised the issue of a prospectus in respect of an untrue statement purporting to be made by him as an expert shall not be so liable if he proves —
+(e) a person named in the prospectus or the profile statement with his consent as having made a statement —
 
-(a) that, having given his consent under section 54 to the issue of the prospectus, he withdrew it in writing before a copy of the prospectus was lodged with the Registrar;
+(i) that is included in the prospectus or the profile statement; or
 
-(b) that, after a copy of the prospectus was lodged with the Registrar and before allotment or sale thereunder, he, on becoming aware of the untrue statement, withdrew his consent in writing and gave reasonable public notice of the withdrawal and of the reasons therefor; or
+(ii) on which a statement made in the prospectus or the profile statement is based,
 
-(c) that he was competent to make the statement and that he had reasonable ground to believe and did up to the time of the allotment or sale of the shares or debentures believe that the statement was true.
+but only in respect of the inclusion of that statement; and
 
-(6) Where —
+(f) a person who made the false or misleading statement, or omitted to state the information or circumstance, as the case may be.
 
-(a) the prospectus contains the name of a person as a director of the corporation, or as having agreed to become a director, and he has not consented to become a director, or has withdrawn his consent before the issue of the prospectus, and has not authorised or consented to the issue thereof; or
+(4) A person who acquires shares or debentures, or units of shares or debentures, as a result of an offer or invitation that was made in or accompanied by a profile statement is taken to have acquired the shares or debentures, or units of shares or debentures, in reliance on both the profile statement and the prospectus for the offer.
 
-(b) the consent of a person is required under section 54 to the issue of the prospectus and he either has not given that consent or has withdrawn it before the issue of the prospectus,
+(5) An action under subsection (1) may begin at any time within 6 years after the day on which the cause of action arose.
 
-the directors of the corporation, except any directors without whose knowledge or consent the prospectus was issued, and any other person who authorised or caused the issue thereof shall be liable to indemnify the person so named or whose consent was so required against all damages, costs and expenses to which he may be made liable by reason of his name having been inserted in the prospectus or of the inclusion therein of a statement purporting to be made by him as an expert, or in defending himself against any action or legal proceeding brought against him in respect thereof.
+(6) This section shall not affect any liability that a person has under any other law.
 
-[U.K.s.43.]
+[36/2000 wef 22/01/2001]
 
-[Aust. s. 46.]
+### Persons liable to inform person making offer or invitation about certain deficiencies
 
-### Criminal liability for untrue statement in prospectus
+55A\.—(1) A person referred to in section 55(3) shall notify in writing the person making an offer or invitation in respect of shares or debentures, or units of shares or debentures, as soon as practicable, if he becomes aware during the application period that —
 
-56\.—(1) Where in a prospectus there is any untrue statement or wilful non-disclosure any person who authorised or caused the issue of the prospectus shall unless he proves either that the statement or non-disclosure was immaterial or that he had reasonable ground to believe and did, up to the time of the issue of the prospectus, believe the statement was true or the non-disclosure immaterial be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+(a) a material statement in the prospectus or the profile statement is false or misleading;
 
-(2) A person shall not be deemed to have authorised or caused the issue of a prospectus by reason only of his having given the consent required by this Division to the inclusion therein of a statement purporting to be made by him as an expert.
+(b) there is a material omission from the prospectus of material required by section 45, or from the profile statement of material required by section 45A; or
 
-[U.K.s.44.]
+(c) a material new circumstance —
 
-[Aust. s. 47.]
+(i) has arisen since the prospectus or the profile statement was registered by the Registrar; and
 
-[15/84]
+(ii) would have been required by section 45 to be included in the prospectus, or by section 45A to be included in the profile statement, as the case may be, if it had arisen before the prospectus or the profile statement was registered.
+
+(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[36/2000 wef 22/01/2001]
+
+### Defences
+
+55B\.—(1) A person is not liable under section 55(1) only because of a false or misleading statement in a prospectus or a profile statement if the person proves that he —
+
+(a) made all inquiries (if any) that were reasonable in the circumstances; and
+
+(b) after doing so, believed on reasonable grounds that the statement was not false or misleading.
+
+(2) A person is not liable under section 55(1) only because of an omission from a prospectus or a profile statement in relation to a particular matter if the person proves that he —
+
+(a) made all inquiries (if any) that were reasonable in the circumstances; and
+
+(b) after doing so, believed on reasonable grounds that there was no omission from the prospectus or the profile statement in relation to that matter.
+
+(3) A person is not liable under section 55(1) only because of a false or misleading statement in, or an omission from, a prospectus or a profile statement if the person proves that he placed reasonable reliance on information given to him by —
+
+(a) if the person is a corporation, someone other than a director, an employee or agent of the corporation; or
+
+(b) if the person is an individual, someone other than an employee or agent of the individual.
+
+(4) For the purposes of subsection (3), a person is not the agent of a corporation or an individual merely because he performs a particular professional or advisory function for the corporation or individual.
+
+(5) A person who is named in a prospectus or a profile statement as —
+
+(a) being a proposed director or underwriter;
+
+(b) making a statement included in the prospectus or the profile statement; or
+
+(c) making a statement on the basis of which a statement is included in the prospectus or the profile statement,
+
+is not liable under section 55(1) only because of a false or misleading statement in, or an omission from, the prospectus or the profile statement if the person proves that he publicly withdrew his consent to being named in the prospectus or the profile statement in that way.
+
+(6) A person is not liable under section 55(1) only because of a new circumstance that has arisen since the prospectus or the profile statement was registered if the person proves that he was not aware of the matter.
+
+[36/2000 wef 22/01/2001]
+
+### Criminal liability for false or misleading statements and omissions
+
+56\.—(1) Where an offer or invitation in respect of shares or debentures, or units of shares or debentures, is made under a prospectus or a profile statement and —
+
+(a) a false or misleading statement is contained in —
+
+(i) the prospectus or the profile statement; or
+
+(ii) any application form that is in or accompanies the prospectus or the profile statement;
+
+(b) there is an omission to state any information required to be disclosed under section 45 in respect of the prospectus, or under section 45A in respect of the profile statement; or
+
+(c) there is an omission to state a new circumstance that —
+
+(i) has arisen since the prospectus or the profile statement was registered by the Registrar; and
+
+(ii) would have been required by section 45 to be included in the prospectus, or by section 45A to be included in the profile statement, if it had arisen before the prospectus or the profile statement was registered,
+
+the persons referred to in subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(2) The persons guilty of the offence are —
+
+(a) the person making the offer or invitation to the public;
+
+(b) if the offer or invitation is made by a corporation, each director of the corporation;
+
+(c) a person named in the prospectus or the profile statement with his consent as a proposed director of the corporation;
+
+(d) an underwriter (but not a sub-underwriter) to the issue or sale of the shares or debentures, or units of shares or debentures, named in the prospectus or the profile statement with his consent;
+
+(e) a person named in the prospectus or the profile statement with his consent as having made a statement —
+
+(i) that is included in the prospectus or the profile statement; or
+
+(ii) on which a statement made in the prospectus or the profile statement is based,
+
+but only in respect of the inclusion of that statement; and
+
+(f) a person who made the false or misleading statement, or omitted to state the information or circumstance, as the case may be.
+
+(3) A person shall not be taken to have contravened subsection (1) if the false or misleading statement, or omission, or new circumstance that is omitted from disclosure, is not materially adverse from the point of view of the investor.
+
+(4) For the purposes of subsection (1), a false or misleading statement about a future matter (including the doing of, or the refusal to do, an act) is taken to have been made if a person makes the statement without having reasonable grounds for making the statement.
+
+(5) Where a prospectus relating to any shares or debentures, or any unit of shares or debentures, in a corporation is issued and the prospectus omits to state any matter required to be stated as specified in the Fifth Schedule, each director of the corporation and other person responsible for the prospectus shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years.
+
+(6) The defences specified in section 55B shall, with the necessary modifications, be available to any person who is liable for an offence under this section.
+
+[36/2000 wef 22/01/2001]
 
 Division 2 —
 
@@ -4364,17 +4652,43 @@ the Court may make such order or orders as it thinks just and equitable (includi
 
 ### Company may acquire its own shares
 
-76B\.—(1) Notwithstanding section 76, a company may, in accordance with this section and sections 76C to 76G, purchase or otherwise acquire ordinary shares issued by it if it is expressly permitted to do so by its articles.
+76B\.—(1) Notwithstanding section 76, a company may, in accordance with this section and sections 76C to 76G, purchase or otherwise acquire shares issued by it if it is expressly permitted to do so by its articles.
 
-(2) This section and sections 76C to 76G shall apply only to ordinary shares.
+(2) This section and sections 76C to 76G shall apply to ordinary shares, stocks and preference shares.
 
-(3) The total number of shares purchased or acquired by a company during the relevant period shall not exceed 10% (or such other percentage as the Minister may by notification prescribe) of the issued ordinary share capital of the company ascertained —
+[36/2000 wef 22/01/2001]
+
+(3) The total number of ordinary shares and stocks that may be purchased or acquired by a company during the relevant period shall not exceed 10% (or such other percentage as the Minister may by notification prescribe) of the issued ordinary share capital of the company ascertained —
 
 (a) as at the date of the last annual general meeting of the company held before any resolution passed pursuant to section 76C, 76D or 76E; or
 
 (b) as at the date of such resolution,
 
-whichever is the higher, unless the Court has, at any time during the relevant period, made an order under section 73(4) confirming the reduction of share capital of the company and in such circumstances the issued ordinary share capital of the company shall, notwithstanding paragraphs (a) and (b), be taken to be the amount of the issued ordinary share capital as altered by the order of the Court.
+whichever is the higher, unless the Court has, at any time during the relevant period, made an order under section 73(4) confirming the reduction of share capital of the company.
+
+[36/2000 wef 22/01/2001]
+
+(3A) Where the Court has made an order under section 73(4), the issued ordinary share capital of the company shall, notwithstanding subsection (3)(a) and (b), be taken to be the amount of the issued ordinary share capital as altered by the order of the Court.
+
+[36/2000 wef 22/01/2001]
+
+(3B) The total number of preference shares which are not redeemable under section 70 that may be purchased or acquired by a company during the relevant period shall not exceed 10% (or such other percentage as the Minister may by notification prescribe) of the issued non-redeemable preference share capital of the company ascertained —
+
+(a) as at the date of the last annual general meeting of the company held before any resolution passed pursuant to section 76C, 76D or 76E; or
+
+(b) as at the date of such resolution,
+
+whichever is the higher, unless the Court has, at any time during the relevant period, made an order under section 73(4) confirming the reduction of share capital of the company.
+
+[36/2000 wef 22/01/2001]
+
+(3C) Where the Court has made an order under section 73(4), the issued non-redeemable preference share capital of the company shall, notwithstanding subsection (3B)(a) and (b), be taken to be the amount of the issued non-redeemable preference share capital as altered by the order of the Court.
+
+[36/2000 wef 22/01/2001]
+
+(3D) There shall be no limit on the number of redeemable preference shares that may be purchased or acquired by a company during the relevant period.
+
+[36/2000 wef 22/01/2001]
 
 (4) In subsection (3), “relevant period” means the period commencing from the date the last annual general meeting of the company was held or if no such meeting was held the date it was required by law to be held before the resolution in question is passed, and expiring on the date the next annual general meeting is or is required by law to be held, whichever is the earlier, after the date the resolution in question is passed.
 
@@ -5330,35 +5644,47 @@ Prospectus Requirements
 
 106A\. In this Part —
 
-(a) a reference to an offer of shares or debenturesto the public shall be deemed to include a reference to an offer that is made pursuant to an invitation to the public in relation to shares or debentures;
+(a) a reference to an offer of shares or debentures, or units of shares or debentures, to the public shall be deemed to include a reference to an offer that is made pursuant to an invitation to the public in relation to shares or debentures, or units of shares or debentures;
 
-(b) a reference to Divisions 1 and 5 not applying to an offer of shares or debenturesis a reference to those sections only in those Divisions which are related to an offer of shares or debentures to the public; and
+(b) a reference to Divisions 1 and 5 not applying to an offer of shares or debentures, or units of shares or debentures, is a reference to those sections only in those Divisions which are related to an offer of shares or debentures , or units of shares or debentures, to the public; and
 
-(c) a reference to issuer is a reference to a corporation which issues or proposes to issue shares or debentures.
+(c) a reference to issuer is a reference to a corporation which issues or proposes to issue shares or debentures, or units of shares or debentures.
 
 [40/89]
 
 ### Offer made by or to certain persons or under certain circumstances
 
-106B\.—(1) Divisions 1 and 5 of this Part shall not apply to an offer of shares or debentures to the public if it is —
+106B\.—(1) Divisions 1 and 5 of this Part shall not apply to an offer or invitation to the public in respect of shares or debentures, or units of shares or debentures, if it is —
 
-(a) an offer to enter into an underwriting agreement, whether relating to shares or debentures that have been previously issued or not;
+(a) made in connection with a take-over scheme which is in compliance with the provisions of this Act applicable to such schemes;
 
-(b) (Deleted by Act 22/93).
+(b) made —
 
-(c) made to existing members or debenture holders of a corporation (whether or not it is renounceable in favour of persons other than existing members or debenture holders) and relates to shares in or debentures of that corporation and is not an offer to which section 47 applies;
+(i) in the case of an offer or invitation in respect of shares or debentures, in relation to shares or debentures; or
 
-(d) made to existing members of a company within the meaning of section 306 and relates to shares in the corporation within the meaning of that section;
+(ii) in the case of an offer or invitation in respect of units of shares or debentures, in relation to units of shares or debentures,
 
-(e) made in connection with a take over scheme which complies with the provisions of this Act applicable to such schemes; or
+that have been previously issued and that are of a class that are quoted or listed for quotation on a stock exchange in Singapore approved under the Securities Industry Act (Cap. 289);
 
-(f) made, whether in relation to shares or debentures that have been previously issued or not, by a corporation to employees of the corporation or its related corporation, where the shares or debentures are to be held by or for the benefit of the employees, in accordance with an employee share investment scheme (including a share option scheme) for the time being in force, if —
+(c) made, whether or not in relation to shares or debentures, or units of shares or debentures, that have been previously issued, by a corporation to employees of the corporation or its related corporation, where the shares or debentures, or units of shares or debentures, are to be held by or for the benefit of the employees in accordance with an employee share investment offer or scheme (including a share option offer or scheme) for the time being in force, if —
 
-(i) the employees are not induced to purchase by expectation of employment of continued employment; and
+(i) the employees are not induced to purchase the shares or debentures, or units of shares or debentures, by an expectation of employment or continued employment; and
 
-(ii) no selling or promotional expenses are paid or incurred in connection with the offer, other than those incurred for administrative or professional services or incurred by way of commission or fee for services rendered by a dealer or investment adviser licensed under the Securities Industry Act or an exempt dealer under section 40 (d) of that Act or an exempt dealer whose carrying on the business of advising others concerning securities is solely incidental to the conduct of his business in dealing in securities.
+(ii) no selling or promotional expenses are paid or incurred in connection with the offer or scheme, other than those incurred for administrative or professional services or incurred by way of commission or fee for services rendered by —
 
-(2)(a) Divisions 1 and 5 of this Part shall not apply to any person making an offer of shares or debenturesto the public where, on the application of any person interested, the Minister declares, by order, that circumstances exist whereby —
+(A) a dealer or investment adviser licensed under the Securities Industry Act (Cap. 289);
+
+(B) an exempt dealer under section 40(d) of that Act; or
+
+(C) an exempt dealer within the meaning of section 40 of that Act whose carrying on of the business of advising others concerning securities is solely incidental to the conduct of his business in dealing in securities.
+
+[36/2000 wef 22/01/2001]
+
+(1A) For the avoidance of doubt, nothing in subsection (1)(c) shall be construed to make an offer by a corporation to employees of the corporation or its related corporation of any of its shares or debentures, or units of shares or debentures, an offer to the public by reason only that such offer is made to the employees of the corporation or its related corporation.
+
+[36/2000 wef 22/01/2001]
+
+(2)(a) Divisions 1 and 5 of this Part shall not apply to any person making an offer of shares or debentures, or units of shares or debentures, to the public where, on the application of any person interested, the Minister declares, by order, that circumstances exist whereby —
 
 (i) the cost of providing a prospectus outweighs the resulting protection to investors; or
 
@@ -5378,7 +5704,7 @@ An order made under this subsection shall be final and shall not be challenged i
 
 ### Offer made to certain institutions or persons
 
-106C\. Divisions 1 and 5 of this Part shall not apply to an offer of shares or debentures , whether or not they have been previously issued, made to —
+106C\. Divisions 1 and 5 of this Part shall not apply to an offer of shares or debentures , or units of shares or debentures, to the public, whether or not they have been previously issued, made to —
 
 (a) a bank that is licensed under the Banking Act [Cap. 19] or a merchant bank that is approved under section 28 of the Monetary Authority of Singapore Act [Cap. 186];
 
@@ -5386,29 +5712,29 @@ An order made under this subsection shall be final and shall not be challenged i
 
 (c) the Government or a statutory board;
 
-(ca) a person whose ordinary business it is to buy or sell shares or debentures;
+(ca) a person who is licensed as a dealer under the Securities Industry Act (Cap. 289), or a person exempted under that Act or any subsidiary legislation made thereunder from obtaining a dealer’s licence;
 
-[22/93]
+[36/2000 wef 22/01/2001]
 
 (d) any person licensed as an investment adviser under the Securities Industry Act;
 
 (e) a pension fund or unit trust;
 
-(f) an investment company as defined in section 355(1) or an approved body corporate as defined under regulation 36 of the Securities Industry Regulations; and
+(f) an investment company as defined in section 355(1), or any person exempted under the Securities Industry Act (Cap. 289) or any subsidiary legislation made thereunder from obtaining an investment adviser’s licence; and
 
-[Cap 289, Rg 1.]
+[36/2000 wef 22/01/2001]
 
-(g) such other persons as the Minister may, by order , declare to be exempt purchasers,
+(g) such other persons as the Minister may, by order published in theGazette, declare to be exempt purchasers,
 
-who or which, pursuant to the offer, acquires the shares or debenturesas principal or as a trustee for accounts fully managed by it who, for the purposes of this section, shall be deemed to be dealing as principal.
+who or which, pursuant to the offer, acquires the shares or debentures, or units of shares or debentures, as principal or as a trustee for accounts fully managed by it who, for the purposes of this section, shall be deemed to be dealing as principal.
 
 [40/89]
 
 ### Offer to sophisticated investors
 
-106D\.—(1) Divisions 1 and 5 of this Part shall not apply to an offer of shares or debentures to the public, whether or not they have been previously issued, where the offer is made to not more than 50 persons, each of whom is a sophisticated investor, if —
+106D\.—(1) Divisions 1 and 5 of this Part shall not apply to an offer of shares or debentures , or units of shares or debentures, to the public, whether or not they have been previously issued, where the offer is made to a sophisticated investor, if —
 
-(a) the offer of the shares or debenturesis not accompanied by an advertisement offering or calling attention to the offer or intended offer; and
+(a) the offer of the shares or debentures, or units of shares or debentures, is not accompanied by an advertisement offering or calling attention to the offer or intended offer; and
 
 (b) no selling or promotional expenses are paid or incurred in connection with the offer other than those incurred for administrative or professional services or incurred by way of commission or fee for services rendered by a dealer or investment adviser.
 
@@ -5422,9 +5748,9 @@ who or which, pursuant to the offer, acquires the shares or debenturesas princip
 
 (c) a communication by means of a recorded telephone message,
 
-that is published in connection with an offer of shares or debentures but does not include an information memorandum or an announcement made by a company listed on the Stock Exchange of Singapore Ltd. or a recognised stock exchange pursuant to any requirement of that stock exchange or an advertisement which contains only such information as is permitted by section 48(1);
+that is published in connection with an offer of shares or debentures, or units of shares or debentures, but does not include an information memorandum or an announcement made by a company listed on a stock exchange in Singapore or a recognised stock exchange pursuant to any requirement of that stock exchange or an advertisement which contains only such information as is permitted by section 48;
 
-“information memorandum” means a document lodged with the Registrar as purporting to describe the business and affairs of the person making the offer and as having been prepared for delivery and review by sophisticated investors so as to assist them in making an investment decision in respect of shares or debentures that are being offered;
+“information memorandum” means a document lodged with the Registrar as purporting to describe the business and affairs of the person making the offer and as having been prepared for delivery and review by sophisticated investors so as to assist them in making an investment decision in respect of shares or debentures, or units of shares or debentures, that are being offered;
 
 “dealer” has the same meaning as is assigned to that expression in section 2 of the Securities Industry Act;
 
@@ -5438,45 +5764,59 @@ that is published in connection with an offer of shares or debentures but does n
 
 (a) a person who acquires the shares or debentures, pursuant to the offer, as principal if the aggregate consideration for the acquisition is not less than $200,000 (or its equivalent in foreign currencies) for each transaction whether such amount is paid for in cash, by exchange of shares or other assets; or
 
-(b) a person who acquires the shares or debentures pursuant to the offer as principal and —
+(b) a person who acquires the shares or debentures, or units of shares or debentures, pursuant to the offer as principal and —
 
-(i) whose total net personal assets exceed S$1 millionor its equivalent in foreign currencies or whose income in the preceding 12 months is not less than S$200,000 or its equivalent in foreign-currencies at the time of the acquisition; or
+(i) whose total net personal assets exceed S$2 million or its equivalent in foreign currencies or whose income in the preceding 12 months is not less than S$300,000 or its equivalent in foreign-currencies at the time of the acquisition; or
 
-(ii) in the case of a corporation, whose total net assets exceed S$5 millionin value or its equivalent in foreign currencies as determined by the last audited balance-sheet of the corporation; or
+(ii) in the case of a corporation, whose total net assets exceed S$10 million in value or its equivalent in foreign currencies as determined by the last audited balance-sheet of the corporation; or
 
 (c) an officer of the person making the offer or a spouse, parent, brother, sister, son or daughter of that officer or of the person making the offer, if he is a natural person.
 
-(3) Nothing in section 40(a) and (d)(iv) of the Securities Industry Act (which, in effect, requires an exempt dealer to acquire shares or debentures only through the holder of a dealer’s licence) shall apply to any of the persons or bodies specified in section 106C or this section who or which acquire shares or debentures under either of these sections as principals and who or which are classified as exempt dealers under section 40(a) and (d)(iv) of the Securities Industry Act with the result that an exempt dealer who so acquires shares or debentures under section 106C or this section shall not be regarded as contravening any provision in the Securities Industry Act.
+(3) Nothing in section 40(a) and (d)(iv) of the Securities Industry Act (which, in effect, requires an exempt dealer to acquire shares or debentures, or units of shares or debentures, only through the holder of a dealer’s licence) shall apply to any of the persons or bodies specified in section 106C or this section who or which acquire shares or debentures, or units of shares or debentures, under either of these sections as principals and who or which are classified as exempt dealers under section 40(a) and (d)(iv) of the Securities Industry Act with the result that an exempt dealer who so acquires shares or debentures , or units of shares or debentures, under section 106C or this section shall not be regarded as contravening any provision in the Securities Industry Act.
 
-(4) This exemption may not be invoked on more than one occasion in any 12-month period.
+(4) The Minister may, by order published in theGazette, specify an amount in substitution of any amount specified in paragraph (a) or (b) of the definition of “sophisticated investor” in subsection (2).
 
-[40/89]
+[36/2000 wef 22/01/2001]
 
 ### Circumstances in which a prospectus is not required on first sale of shares or debentures acquired pursuant to exemptions in section 106C or 106D
 
-106E\.—(1) Where shares or debentures acquired under an exemption in section 106C or 106D are first sold to any of the bodies or persons specified in either of those sections, the offer for sale shall not be regarded as an offer to the public for which a prospectus is required; neither will a subsequent offer for sale to any of those bodies or persons be regarded as an offer to the public for which a prospectus is required.
+106E\.—(1) Where shares or debentures, or units of shares or debentures, initially acquired pursuant to an exemption in section 106C or 106D, are first sold to any of the persons specified in the sections —
 
-(2) Where shares or debentures, acquired under an exemption in section 106C or 106D, are first sold, other than to any of the bodies or persons specified in either of those sections, the offer for sale shall be regarded as an offer to the public for which a prospectus is required unless —
+(a) the offer for sale to any of those persons shall not be regarded as an offer to the public for which a prospectus is required; and
 
-(a) the shares or debentures to which the offer relates are listed for quotation on the Stock Exchange of Singapore Ltd. or a recognised stock exchange and have been held for at least 12 months from the date they were initially acquired, pursuant to an exemption under section 106C or 106D; and
+(b) any subsequent offer for sale to any of those persons shall not be regarded as an offer to the public for which a prospectus is required.
 
-(b) the seller —
+[36/2000 wef 22/01/2001]
 
-(i) gives a notice in writing to the purchaser at the time of the sale that he is buying shares or debentures acquired by the seller pursuant to an exemption under section 106C or 106D and that they are subject to the conditions in paragraph (a); and
+(2) Where shares or debentures, or units of shares or debentures, initially acquired pursuant to an exemption in section 106C or 106D, are first sold to any person other than those specified in the sections, the offer for sale shall be regarded as an offer to the public for which a prospectus is required, unless —
 
-(ii) gives a notice in writing within 3 days of the sale to the person from whom he originally acquired his shares or debentures containing particulars of the sale, in such form as may be prescribed,
+(a) the shares or debentures, or units of shares or debentures, to which the offer relates are listed or quoted on a stock exchange in Singapore or a recognised stock exchange, and at least 6 months have elapsed from the date that they were initially acquired pursuant to the exemption under section 106C or 106D; or
 
-provided that the offer of the shares or debentures is not accompanied by an advertisement offering or calling attention to the offer and no selling or promotional expenses are paid or incurred in connection with the offer except for administrative or professional services or services performed by a dealer or investment adviser licensed under the Securities Industry Act.
+(b) where the shares or debentures, or units of shares or debentures, to which the offer relates are not listed or quoted on a stock exchange in Singapore or a recognised stock exchange, the following conditions are satisfied:
 
-(3) A contract of sale of shares or debentures made or entered into in contravention of the condition in subsection (2)(a) or (b) shall be void.
+(i) the seller gives a notice in writing to the purchaser at the time of the sale that —
+
+(A) he is buying the shares or debentures, or units of shares or debentures, acquired by the seller pursuant to an exemption under section 106C or 106D; and
+
+(B) the shares or debentures, or units of shares or debentures, shall not be sold, transferred or assigned by the purchaser to any person, other than to any of the persons specified in section 106C or 106D, for at least 6 months from the date that the shares or debentures, or units of shares or debentures, are initially acquired pursuant to the exemption under section 106C or 106D;
+
+(ii) the seller gives a notice in writing, within 3 days of the sale to the person from whom he initially acquired the shares or debentures, or units of shares or debentures, containing particulars of the sale in such form as may be prescribed; and
+
+(iii) the offer of the shares or debentures, or units of shares or debentures, is not accompanied by an advertisement offering or calling attention to the offer and no selling or promotional expenses are paid or incurred in connection with the offer except for administrative or professional services or services performed by a dealer or investment adviser licensed under the Securities Industry Act (Cap. 289).
+
+[36/2000 wef 22/01/2001]
+
+(3) A contract of sale of shares or debentures, or units of shares or debentures, made or entered into in contravention of the condition in subsection (2)(b) shall be void.
 
 (4) The Court, on being satisfied that a contract of sale is void under subsection (3), may, on the application of the Registrar or any other person, make such order or orders as it thinks just and equitable including, without limiting the generality of the foregoing, the following orders:
 
-(a) an order directing the seller to refund the purchase moneys to the purchaser and directing the purchaser to return the shares or debentures to the seller;
+(a) an order directing the seller to refund the purchase moneys to the purchaser and directing the purchaser to return the shares or debentures , or units of shares or debentures, to the seller;
 
 (b) an order directing the seller to indemnify the purchaser for any loss or damage that he may have suffered as a result of the contract being void.
 
-(5) In a case to which subsection (2)(a) applies, any subsequent offer for sale of the listed shares or debentures, after the expiration of the 12-month period, shall not require a prospectus.
+(5) In a case to which subsection (2)(a) applies, any subsequent offer for sale of the listed or quoted shares or debentures, or units of shares or debentures, after the expiration of the 6-month period shall not require a prospectus.
+
+[36/2000 wef 22/01/2001]
 
 (6) In subsection (2) —
 
@@ -5486,7 +5826,7 @@ provided that the offer of the shares or debentures is not accompanied by an adv
 
 (ii) a communication by radio, television or other communication medium; or
 
-(iii) a communication by means of a recorded telephone message that is published in connection with an offer of shares or debentures; and
+(iii) a communication by means of a recorded telephone message that is published in connection with an offer of shares or debentures, or units of shares or debentures; and
 
 (b) “recognised stock exchange” has the same meaning as is assigned to that expression in section 106G.
 
@@ -5494,7 +5834,7 @@ provided that the offer of the shares or debentures is not accompanied by an adv
 
 ### Stock exchange offer
 
-106F\.—(1) Divisions 1 and 5 of this Part shall not apply to an offer of shares of debentures to the public, that have not been previously issued, in a case where the shares or debentures to be offered are, or are to be, uniform in all respects with shares or debentures previously issued and listed for quotation on a stock exchange if a statement of material facts, which complies as to form and content with Part VI of the Fifth Schedule, is lodged with, and accepted by, the Registrar and the stock exchange.
+106F\.—(1) Divisions 1 and 5 of this Part shall not apply to an offer of shares of debentures , or units of shares or debentures, to the public, that have not been previously issued, in a case where the shares or debentures, or units of shares or debentures, to be offered are, or are to be, uniform in all respects with shares or debentures, or units of shares or debentures, previously issued and listed for quotation on a stock exchange if a statement of material facts, which complies as to form and content with Part VI of the Fifth Schedule, is lodged with, and accepted by, the Registrar and the stock exchange.
 
 (2) For the purposes of this section —
 
@@ -5508,11 +5848,11 @@ provided that the offer of the shares or debentures is not accompanied by an adv
 
 ### Offer of international debentures
 
-106G\.—(1) Divisions 1 and 5 of this Part shall not apply to an offer to the public of debentures by a body incorporated in a country outside Singapore where the offer is made by a recognised dealer to such institutional, professional or business investors as the Minister may, by notification in theGazette, specify, being persons or bodies that appear to him sufficiently expert to understand any risk involved in buying or selling those debentures (whether as principal or agent) and the offer complies with the conditions set forth in subsection (2).
+106G\.—(1) Divisions 1 and 5 of this Part shall not apply to an offer to the public of debentures or units of debentures by a body incorporated in a country outside Singapore where the offer is made by a recognised dealer to such institutional, professional or business investors as the Minister may, by notification in theGazette, specify, being persons or bodies that appear to him sufficiently expert to understand any risk involved in buying or selling those debentures or units of debentures (whether as principal or agent) and the offer complies with the conditions set forth in subsection (2).
 
 (2) The conditions referred to in subsection (1) are that —
 
-(a) the debentures are denominated in a currency, other than the Singapore dollar, that is equivalent in value to at least US$5,000; and
+(a) the debentures or units of debentures are denominated in a currency, other than the Singapore dollar, that is equivalent in value to at least US$5,000; and
 
 (b) the shares of the issuing body corporate are listed on a recognised stock exchange or the offer is guaranteed by a corporation whose shares are listed on a recognised stock exchange.
 
@@ -5532,7 +5872,7 @@ provided that the offer of the shares or debentures is not accompanied by an adv
 
 ### Offer of debentures made by the Government or international financial institutions
 
-106H\. Divisions 1 and 5 of this Part shall not apply to an offer to the public of debentures made by or guaranteed by —
+106H\. Divisions 1 and 5 of this Part shall not apply to an offer to the public of debentures or units of debentures made by or guaranteed by —
 
 (a) the Government; or
 
@@ -5542,21 +5882,21 @@ provided that the offer of the shares or debentures is not accompanied by an adv
 
 ### Reporting requirements
 
-106I\.—(1) Where an issuer intends to invoke an exemption under this Division other than an exemption under sections 106B(1), 106E and 106F, he shall lodge with the Registrar a report of his intention to issue the shares or debentures, in such form as may be prescribed at or before the time of invoking the exemption.
+106I\.—(1) Where an issuer intends to invoke an exemption under this Division other than an exemption under sections 106B(1), 106E and 106F, he shall lodge with the Registrar a report of his intention to issue the shares or debentures, or units of shares or debentures, in such form as may be prescribed at or before the time of invoking the exemption.
 
 [22/93]
 
-(2) The issuer, if incorporated in Singapore, shall maintain a register in the prescribed form of the shares or debentures issued under subsection (1).
+(2) The issuer, if incorporated in Singapore, shall maintain a register in the prescribed form of the shares or debentures, or units of shares or debentures, issued under subsection (1).
 
 [22/93]
 
-(3) Particulars of the issue of the shares or debentures shall be entered in the register within 3 days of the sale.
+(3) Particulars of the issue of the shares or debentures, or units of shares or debentures, shall be entered in the register within 3 days of the sale.
 
 [22/93]
 
 (4) Upon the request of the Registrar, the issuer shall produce for inspection the register maintained under subsection (2) and the Registrar may make extracts from the register.
 
-(5) The Registrar may supply a copy of an extract from a register to any person who, in his opinion, should, in the public interest, be informed of the issue of the shares or debentures disclosed in the register.
+(5) The Registrar may supply a copy of an extract from a register to any person who, in his opinion, should, in the public interest, be informed of the issue of the shares or debentures, or units of shares or debentures, disclosed in the register.
 
 [22/93]
 
@@ -5910,7 +6250,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Power to exempt from compliance with Division and non-application of Division in certain circumstances
 
-119\.—(1) The Minister may, by notification in theGazette, exempt any company, subject to such terms and conditions as are specified in the notification, from complying with all or any of the provisions of this Division in relation to any interest, or class of interests, specified in the notification, and may, by notification in theGazette, revoke such a notification or vary it in such manner as he thinks fit.
+119\.—(1) The Minister may, by notification in theGazette, exempt any person or class of persons, subject to such terms and conditions as are specified in the notification, from complying with all or any of the provisions of this Division in relation to any interest, or class of interests, specified in the notification, and may, by notification in theGazette, revoke such a notification or vary it in such manner as he thinks fit.
+
+(1A) Any person who contravenes or fails to comply with any of the conditions specified in the notification shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[36/2000 wef 22/01/2001]
 
 ### Non-application of Division to personal representatives, etc.
 
@@ -6897,6 +7241,30 @@ On a hearing of an application under this section —
 [40/89]
 
 [13/87]
+
+### Disqualification of directors of companies wound up on grounds of national security or interest
+
+149A\.—(1) Subject to subsections (2) and (3), where a company is ordered to be wound up by the Court under section 254(1)(m) on the ground that it is being used for purposes against national security or interest, the Court may, on the application of the Minister, make an order (referred to in this section as a disqualification order) disqualifying any person who is a director of that company from being a director or in any way, directly or indirectly, being concerned in, or from taking part in, the management of any company or foreign company for a period of 3 years from the date of the making of the winding up order.
+
+(2) The Court shall not make a disqualification order against any person under subsection (1) unless the Court is satisfied that the person against whom the order is sought has been given not less than 14 days’ notice of the Minister’s application for the order.
+
+(3) The Court shall not make a disqualification order against any person under subsection (1) if such person proves to the satisfaction of the Court that —
+
+(a) the company had been used for purposes against national security or interest without his consent or connivance; and
+
+(b) he had exercised such diligence to prevent the company from being so used as he ought to have exercised having regard to the nature of his function in that capacity and to all the circumstances.
+
+(4) Any person who acts in contravention of a disqualification order made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(5) In this section —
+
+“director”, in relation to a company, includes a shadow director;
+
+“foreign company” means a foreign company to which Division 2 of Part XI applies;
+
+“shadow director”, in relation to a company, means a person in accordance with whose directions or instructions the directors of a company are accustomed to act except that a person shall not be deemed to be a shadow director by reason only that the directors act on advice given by him in a professional capacity.
+
+[36/2000 wef 22/01/2001]
 
 ### Appointment of directors to be voted on individually
 
@@ -8274,6 +8642,14 @@ Accounts
 
 (2) Where the financial year of a holding company that is not a foreign company and that of each of its subsidiaries coincide the directors of the holding company shall at all times take such steps as are necessary to ensure that, without the consent of the Registrar, the financial year of the holding company or any of its subsidiaries is not altered so that all such financial years do not coincide.
 
+(2A) Notwithstanding subsection (1) or (2), the financial year of a subsidiary which is a foreign company shall end on a date which is —
+
+(a) not later than the financial year of its holding company; and
+
+(b) not earlier than 2 months before the end of the financial year of its holding company, or such other earlier date as the Registrar may, on an application in writing by the directors of the holding company, approve.
+
+[36/2000 wef 22/01/2001]
+
 (3) Where the directors of the holding company are of the opinion that there is good reason why the financial year of any of its subsidiaries should not coincide with the financial year of the holding company the directors may apply in writing to the Registrar for an order authorising any subsidiary to continue to have or to adopt (as the case requires) a financial year which does not coincide with that of the holding company.
 
 (4) The application shall be supported by a statement by the directors of the holding company of their reasons for seeking the order.
@@ -8302,9 +8678,25 @@ Accounts
 
 ### Accounts, consolidated accounts and directors’ report
 
-201\.—(1) The directors of every company shall, at some date not later than 18 months after the incorporation of the company and subsequently once at least in every calendar year at intervals of not more than 15 months, lay before the company at its annual general meeting a profit and loss account for the period since the preceding account (or in the case of the first account, since the incorporation of the company) made up to a date not more than 6 months before the date of the meeting being a profit and loss account that gives a true and fair view of the profit and loss of the company for the period of accounting as shown in the accounting and other records of the company.
+201\.—(1) The directors of every company shall, at a date not later than 18 months after the incorporation of the company and subsequently at least once in every calendar year at intervals of not more than 15 months, lay before the company at its annual general meeting a profit and loss account for the period since the preceding account (or in the case of the first account, since the incorporation of the company) made up to a date —
 
-(2) Notwithstanding subsection (1), the Registrar on application by the company, if for any special reason he thinks fit to do so, may extend the periods of 18 months and 15 months referred to in that subsection and with respect to any year extend the period of 6 months referred to in that subsection, notwithstanding that that period is so extended beyond the calendar year.
+(a) in the case of a public company listed or quoted on a stock exchangein Singapore, not more than 5 months before the date of the meeting;
+
+(b) in the case of any other company, not more than 6 months before the date of the meeting.
+
+[36/2000 wef 22/01/2001]
+
+(1A) The profit and loss account referred to in subsection (1) shallgive a true and fair view of the profit and loss of the company for the period of accounting as shown in the accounting and other records of the company.
+
+[36/2000 wef 22/01/2001]
+
+[Act 12/2002 wef 01/01/2003]
+
+(1B) The Minister may, by order published in theGazette, specify such other period in substitution of the period referred to in subsection (1)(a) or (b).
+
+[36/2000 wef 22/01/2001]
+
+(2) Notwithstanding subsection (1), the Registrar on application by the company, if for any special reason he thinks fit to do so, may extend the periods of 18 months and 15 months referred to in that subsection and with respect to any year extend the period referred to in subsection (1)(a) or (b), notwithstanding that that period is so extended beyond the calendar year.
 
 (3) The directors of every company shall cause to be made out, and to be laid before the company at its annual general meeting with the profit and loss account required by subsection (1) a balance-sheet as at the date to which the profit and loss account is made up being a balance-sheet thatgives a true and fair view of the state of affairs of the company as at the end of the period to which it relates.
 
@@ -8553,6 +8945,12 @@ and giving a true and fair view of the profit or loss and state of affairs so fa
 (5) Where the directors of a holding company, having taken all such steps as are reasonably available to them, are unable to obtain from the directors of a subsidiary any accounts, report or other information required for the preparation of the consolidated accounts and the directors’ report of the group, they may cause to be made out the consolidated accounts and make the directors’ report without incorporating therein or including therewith the first-mentioned accounts, report or other information relating to the subsidiary but with such qualifications and explanations as are necessary to prevent the consolidated accounts and report from being misleading.
 
 (6) Where the directors of a holding company have caused to be made out the consolidated accounts and have made the directors’ report in accordance with subsection (5) they shall send to the shareholders of the holding company, within one month after receiving the accounts, report or other information from the directors of the subsidiary, a copy of the accounts and report or a statement embodying the other information (as the case may be) together with a statement by the directors of the holding company containing such qualifications and explanations of the consolidated accounts and of their report as are necessary having regard to the accounts, report or information received from the subsidiary.
+
+(7) The Registrar may, by order published in theGazette, exempt the directors of a holding company from compliance with subsection (6) in respect of a specified company or class of companies, whether incorporated in or outside Singapore, subject to such conditions as he may think fit.
+
+[36/2000 wef 22/01/2001]
+
+[13/87]
 
 ### Audit committees
 
@@ -10668,6 +11066,30 @@ or of any two or more of those parties.
 
 [13/87]
 
+(3) For the purpose of subsection (1)(m), a certificate issued by the Minister charged with the responsibility for internal security stating that he is satisfied that the company referred to in the certificate is being used for purposes against national security or interest shall be conclusive evidence that the company is being used for such purposes.
+
+[36/2000 wef 22/01/2001]
+
+(4) Upon the presentation of a petition by the Minister under section 253(1)(h) for the winding up of a company under subsection (1)(m) on the ground that it is being used for purposes against national security or interest, the Court, upon the application of the Minister, may, pending the hearing of the petitionor the making of a winding up order, make —
+
+(a) an order restraining the company or its directors, manager, officers or employees from doing any act or from carrying out any activity as may be specified in the order; and
+
+(b) such other interim orders as the Court thinks fit.
+
+[36/2000 wef 22/01/2001]
+
+(5) Any person who acts in contravention of an order made by the Court under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[36/2000 wef 22/01/2001]
+
+[U.K.ss.222,223.]
+
+[Aust. s. 222.]
+
+[49/73]
+
+[15/84]
+
 ### Commencement of winding up
 
 255\.—(1) Where before the presentation of the petition a resolution has been passed by the company for voluntary winding up, the winding up of the company shall be deemed to have commenced at the time of the passing of the resolution, and, unless the Court on proof of fraud or mistake thinks fit otherwise to direct, all proceedings taken in the voluntary winding up shall be deemed to have been validly taken.
@@ -10774,7 +11196,7 @@ or of any two or more of those parties.
 
 ### Effect of order
 
-(4) An order for winding up a company shall operate in favour of all the creditors and contributories of the company as if made on the joint petition of a creditor and of a contributory.
+(4) Subject to section 322A, an order for winding up a company shall operate in favour of all the creditors and contributories of the company as if made on the joint petition of a creditor and of a contributory.
 
 (5) If default is made in complying with subsection (1) or (2), the petitioner shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
 
@@ -10797,6 +11219,10 @@ Subdivision (2) — Liquidators
 (c) the Court may make any appointment and order required to give effect to any such determination, and, if there is a difference between the determinations of the meetings of the creditors and contributories in respect of the matter aforesaid, the Court shall decide the difference and make such order thereon as the Court may think fit;
 
 (d) in a case where a liquidator is not appointed by the Court, the Official Receiver shall be the liquidator of the company;
+
+(da) in a case where a winding up order is made under section 254(1)(m) on the ground that the company is being used for purposes against national security or interest, the Official Receiver shall be the liquidator of the company;
+
+[36/2000 wef 22/01/2001]
 
 (e) the Official Receiver shall by virtue of his office be the liquidator during any vacancy;
 
@@ -11840,6 +12266,12 @@ he shall forthwith pay those moneys to the Official Receiver to be placed to the
 
 [Aust. s. 286.]
 
+### Outstanding assets of company wound up on grounds of national security or interest
+
+322A\. Notwithstanding any written law or rule of law to the contrary, upon a company being wound up under section 254(1)(m) on the ground that it is being used for purposes against national security or interest, the Court may, on the application of the Minister, order that any assets of the company remaining after payment of its debts and liabilities and the costs, charges and expenses of the winding up shall be paid into the Consolidated Fund.
+
+[36/2000 wef 22/01/2001]
+
 ### Expenses of winding up where assets insufficient
 
 323\.—(1) Unless expressly directed to do so by the Official Receiver, a liquidator shall not be liable to incur any expense in relation to the winding up of a company unless there are sufficient available assets.
@@ -12704,13 +13136,21 @@ Offences
 
 (b) seeking or receiving offers to subscribe for or to purchase shares from the public or from any member of the public.
 
-(2) Subsection (1) shall not apply in the case of the shares of any corporation which, after notice of intention in the form prescribed to apply for exemption from subsection (1) has been advertised in a local daily newspaper , has applied to and obtained from the Minister such exemption but such exemption may at any time be revoked by order of the Minister.
+(2) The Minister may, by order published in theGazette, exempt —
+
+(a) any person or class of persons; or
+
+(b) any class or description of shares,
+
+from compliance with subsection (1), subject to such conditions as may be specified in the order.
+
+[36/2000 wef 22/01/2001]
 
 (3) (Deleted by Act 40/89).
 
 (4) (Deleted by Act 40/89).
 
-(5) Every person who acts, incites, causes or procures any person to act in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both and in the case of a second or subsequent offence to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+(5) Every person who acts, incites, causes or procures any person to act in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and in the case of a second or subsequent offence to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [15/84]
 
@@ -12896,11 +13336,11 @@ shall be guilty of an offence.
 
 409\.—(1) Except where provision is otherwise made in this Act, proceedings for any offence under this Act may be taken by the Registrar or with the written consent of the Minister by any person.
 
-(2) Notwithstanding anything in any other Act, proceedings for any offence under this Act may be brought within the period of 3 years after the commission of the alleged offence or, with the consent of the Minister, at any later time.
+(2) [Deleted by Act 36/2000 wef 22/01/2001]
 
 (3) Proceedings for any offence under this Act, other than an offence punishable with imprisonment for a term exceeding 6 months, may be prosecuted in a Magistrate’s Court and in the case of an offence punishable with imprisonment for a term of 6 months or more may be prosecuted in a District Court.
 
-(4) The Registrar may, without instituting proceedings against any person for any offence under this Act or the regulations which is punishable only by a fine or a fine and a default penalty, demand and receive the amount of such fine or default penalty or such reduced amount as he thinks fit from that person, whereupon —
+(4) The Registrar may, without instituting proceedings against any person for any offence under this Act or any subsidiary legislation made thereunder which is punishable only by a fine or a fine and a default penalty, demand and receive the amount of such fine or default penalty or such reduced amount as he thinks fit from that person, whereupon —
 
 (a) if that person pays the amount to the Registrar within 14 days after the demand, no proceedings shall be taken against him in relation to the offence; or
 
@@ -12966,21 +13406,7 @@ grant an injunction requiring the first-mentioned person to do that act or thing
 
 [13/87]
 
-### Investigations by Commercial Affairs Department
-
-409B\.—(1) The Director or a Commercial Affairs Officer, belonging to a body known as the Commercial Affairs Department which is constituted as a Department of the Ministry of Finance, may exercise all or any of the powers in relation to police investigations conferred by the Criminal Procedure Code [Cap. 68] in any case where a seizable offence has been committed under this Act or the Securities Industry Act or in any case where a seizable offence is disclosed under any written law in the course of an investigation under this Act or the Securities Industry Act.
-
-(2) The Director or a Commercial Affairs Officer referred to in subsection (1) may, by order of the Public Prosecutor, be authorised to exercise all or any of the powers in relation to police investigations conferred by the Criminal Procedure Code in any case where a non-seizable offence has been committed under this Act or the Securities Industry Act or in any case where a non-seizable offence is disclosed under any written law in the course of investigations under this Act or the Securities Industry Act.
-
-(3) A reference to a Commercial Affairs Officer in this section is a reference to a person —
-
-(a) who has been appointed by the Minister to exercise the powers in relation to police investigations referred to in this section; and
-
-(b) who had his appointment as a Commercial Affairs Officer published in theGazette.
-
-(4) In this section, “seizable offence” and non-seizable offence have the meanings assigned to those expressions in section 2 of the Criminal Procedure Code.
-
-[40/89]
+409B\. [Repealed by Act 39/99 wef 10/01/2000]
 
 Division 3 —
 
@@ -13196,6 +13622,14 @@ $305
 
 $420
 
+(4) For perusal of any profile statement required under section 45A
+
+$600
+
+(5) For perusal of any supplementary or replacement document required under section 50A
+
+$1,200
+
 26. For registering any charge created by a corporation
 
 $25
@@ -13257,6 +13691,14 @@ S 119/95 wef 1.4.95.
 $25
 
 S 119/95 wef 1.4.95.
+
+33F For every application to the Registrar under section 46 or pursuant to any order made under section 46
+
+$50
+
+33G For every application to the Minister under section 48 or 106B(2)(a)
+
+$100
 
 34. For every certificate issued by the Registrar under the Act or any other Act
 
@@ -13386,11 +13828,21 @@ The number of man-hours and CPU-seconds taken shall be certified by the Registra
 
 If the Registrar decides to supply the information by means other than written or printed form, an additional fee of $3 per company shall be payable.
 
+51. For supplying information to any authorised person for purposes of selling packaged information or information on a bulk basis
+
+$0.80 per prescribed particular of a company.
+
+[S 29/2001 wef 22/01/2001]
+
 [20030113]
 
 [S 61/97 wef 15/02/1997]
 
+[S 387/2000 wef 29/08/2000]
+
 []
+
+[S 29/2001 wef 22/01/2001]
 
 []
 
@@ -13876,6 +14328,10 @@ Prospectus
 
 Part I
 
+Form of prospectus
+
+The prospectus shall be printed in type of a size no smaller than the type known as 8 point Times unless the Registrar, before the issuing, advertising, circulating or distributing of the prospectus in Singapore, certifies in writing, that the type and size of the printed letters are legible.
+
 Matters to be stated
 
 1\. The number of founders or management or deferred shares, if any, and the nature and extent of the interest of the holders of those shares in the property and profits of the company.
@@ -13883,6 +14339,52 @@ Matters to be stated
 2\. The number of shares, if any, fixed by the articles as the qualification of a director, and any provision in the articles as to the remuneration of the directors.
 
 3\. The names, descriptions, and addresses of all the directors or proposed directors except in the case of the directors of an issuing corporation that is a prescribed corporation under section 97(8), only the city or locality of the residence of the directors need be given.
+
+3A. The date of the prospectus.
+
+[36/2000 wef 22/01/2001]
+
+3B. A statement that a copy of the prospectus has been lodged with and registered by the Registrar and, immediately after that statement, another statement that the Registrar takes no responsibility as to the contents of the prospectus.
+
+[36/2000 wef 22/01/2001]
+
+3C. Where the persons making any report specified in Part II of this Schedule have made therein or have, without giving reasons, indicated therein any such adjustments as are mentioned in paragraph 31, a statement which is to be endorsed thereon or attached thereto by those persons, setting out the adjustments and giving the reasons for the adjustments.
+
+[36/2000 wef 22/01/2001]
+
+3D. A statement that no shares or debentures, or units of shares or debentures, as the case may be, shall be allotted on the basis of the prospectus later than 6 months after the date of the issue of the prospectus.
+
+[36/2000 wef 22/01/2001]
+
+3E. Where the prospectus contains any statement made by an expert or contains what purports to be a copy of or extract from a report, memorandum or valuation of an expert, the date on which the statement, report, memorandum or valuation was made and whether or not it was prepared by the expert for the purpose of incorporation in the prospectus.
+
+[36/2000 wef 22/01/2001]
+
+3F. The name of any person as a trustee for debenture holders, or as an auditor, a banker, a solicitor, a stock broker or share broker of the corporation or proposed corporation or for or in relation to the issue or proposed issue of shares or debentures, or units of shares or debentures, if, but only if —
+
+(a) that person has consented in writing before the issue of the prospectus to act in that capacity in relation to the prospectus; and
+
+(b) in the case of a company or proposed company, a copy, verified as prescribed, of the consent has been lodged with the Registrar.
+
+[36/2000 wef 22/01/2001]
+
+3G.—(1) Where the prospectus relates to shares in or debentures of, or units of shares in or debentures of, a foreign company that has been incorporated or is to be incorporated, the prospectus shall also contain particulars with respect to —
+
+(a) the instrument constituting, or defining the constitution of, the foreign company;
+
+(b) the enactments or provisions having the force of an enactment by or under which the incorporation of the company was effected or is to be effected;
+
+(c) an address in Singapore where such instrument, enactments or provisions or certified copies thereof may be inspected;
+
+(d) the date on which and the place where the company was or is to be incorporated; and
+
+(e) whether the company has established a place of business in Singapore and, if so, the address of its principal office in Singapore.
+
+(2) Sub-paragraph (1)(a), (b) and (c) shall not apply in the case of a prospectus issued more than 2 years after the date on which the company is entitled to commence business.
+
+(3) For the purposes of this paragraph, in the application of this Part to a foreign company, paragraph 2 of this Part shall have effect as if a reference to the constitution of the company were substituted for the reference to the articles.
+
+[36/2000 wef 22/01/2001]
 
 4. Where the prospectus relates to shares particulars as to —
 
@@ -13952,13 +14454,13 @@ Reports to be set out
 
 (a) profits and losses and assets and liabilities of the corporation and of any guarantor corporation referred to in the prospectus, in accordance with sub-paragraph (2) or (3), as the case requires; and
 
-(b) the rates of the dividends, if any, paid by the corporation in respect of each class of shares in respect of each of the 5 financial years immediately preceding the issue of the prospectus, giving particulars of each such class of shares on which such dividends have been paid and particulars of the cases in which no dividends have been paid in respect of any class of shares in respect of any of those years,
+(b) the rates of the dividends, if any, paid by the corporation in respect of each class of shares in respect of each of the 3 financial years immediately preceding the issue of the prospectus, giving particulars of each such class of shares on which such dividends have been paid and particulars of the cases in which no dividends have been paid in respect of any class of shares in respect of any of those years,
 
-and, if no accounts have been made up in respect of any part of the period of 5 years ending on a date 3 months before the issue of the prospectus, containing a statement of that fact.
+and, if no accounts have been made up in respect of any part of the period of 3 years ending on a date 3 months before the issue of the prospectus, containing a statement of that fact.
 
 (2) If the corporation or the guarantor corporations have no subsidiaries, the report shall —
 
-(a) so far as regards profits and losses, deal with the profits or losses of the corporation and of the guarantor corporations referred to in the prospectus in respect of each of the 5 financial years immediately preceding the last date to which the accounts of the corporation or the guarantor corporations were made up;
+(a) so far as regards profits and losses, deal with the profits or losses of the corporation and of the guarantor corporations referred to in the prospectus in respect of each of the 3 financial years immediately preceding the last date to which the accounts of the corporation or the guarantor corporations were made up;
 
 (b) so far as regards assets and liabilities, deal with the assets and liabilities of the corporation and of the guarantor corporations referred to in the prospectus at the last date to which the accounts of the corporation and the guarantor corporations were made up,
 
@@ -13996,7 +14498,7 @@ calculated from the last date to which the accounts of the borrowing corporation
 
 21. If the proceeds, or any part of the proceeds, of the issue of the shares or debentures are to be applied directly or indirectly in the purchase of any business, a report by an approved company auditor (who shall be named in the prospectus) with respect to —
 
-(a) the profits or losses of the business in respect of each of the 5 financial years immediately preceding the last date to which the accounts of the business were made up; and
+(a) the profits or losses of the business in respect of each of the 3 financial years immediately preceding the last date to which the accounts of the business were made up; and
 
 (b) the assets and liabilities of the business at the last date to which the accounts of the business were made up,
 
@@ -14010,7 +14512,7 @@ which date shall in no case be more than 6 months before the issue of the prospe
 
 a report by an approved company auditor (who shall be named in the prospectus) with respect to —
 
-(c) the profits or losses of the other corporation in respect of each of the 5 financial years immediately preceding the last date to which the accounts of the corporation were made up; and
+(c) the profits or losses of the other corporation in respect of each of the 3 financial years immediately preceding the last date to which the accounts of the corporation were made up; and
 
 (d) the assets and liabilities of the other corporation at the last date to which the accounts of the corporation were made up,
 
@@ -14056,7 +14558,11 @@ Provisions applying to Parts I and II of this Schedule
 
 28\. For the purposes of paragraph 10 where the vendors or any of them are a firm, the members of the firm shall not be treated as separate vendors.
 
-29\. If in the case of a corporation which has been carrying on business, or of a business which has been carried on, for less than 5 years, the accounts of the corporation or business have only been made up in respect of 4 years, 3 years, 2 years, or one year, Part II of this Schedule shall have effect as if references to 4 years, 3 years, 2 years or one year, as the case may be, were substituted for references to 5 years.
+29\. If in the case of a corporation which has been carrying on business, or of a business which has been carried on, for less than 3 years, the accounts of the corporation or business have only been made up to 2 years or one year, Part II of this Schedule shall have effect as if references to 2 years or one year, as the case may be, were substituted for references to 3 years.
+
+29.
+
+[S 99/2001 wef 22/02/2001]
 
 30\. The expression financial year in Part II of this Schedule means the year in respect of which the accounts of the corporation or of the business, as the case may be, are made up, and where by reason of any alteration of the date on which the financial year of the corporation or business terminates the accounts of the corporation or business have been made up for a period greater or less than a year, that greater or less period shall for the purposes of that Part of this Schedule be deemed to be a financial year.
 
@@ -14168,7 +14674,7 @@ The last day and time for renunciation and payment.
 
 12. The profits, prospects and dividends of the group — there should be disclosed, subject to paragraph 29 of Part III, the following:
 
-(a) a tabulation for each of the last 5 financial years in the following format:
+(a) a tabulation for each of the last 3 financial years in the following format:
 
 Year ended
 
@@ -14198,6 +14704,22 @@ Gross rate of dividend
 
 (b) the effect of the rights issue on the net asset backing per share.
 
+15. A statement that no shares or debentures, shares and debentures, units of shares or debentures, or units of shares and debentures, as the case may be, shall be allotted on the basis of the prospectus later than 6 months after the date of the issue of the prospectus.
+
+[36/2000 wef 22/01/2001]
+
+16. Where the prospectus contains any statement made by an expert or contains what purports to be a copy of or extract from a report, memorandum or valuation of an expert, the date on which the statement, report, memorandum or valuation was made and whether or not it was prepared by the expert for the purpose of incorporation in the prospectus.
+
+[36/2000 wef 22/01/2001]
+
+17. The name of any person as a trustee for debenture holders, or as an auditor, a banker, a solicitor, a stock broker or share broker of the corporation or proposed corporation or for or in relation to the issue or proposed issue of shares or debentures, or units of shares or debentures, if, and only if —
+
+(a) that person has consented in writing before the issue of the prospectus to act in that capacity in relation to the prospectus; and
+
+(b) in the case of a company or proposed company, a copy, verified as prescribed, of the consent has been lodged with the Registrar.
+
+[36/2000 wef 22/01/2001]
+
 Part VI
 
 Section 106F 40/89
@@ -14224,7 +14746,7 @@ ____________________________________________________________________________
 
 (address of registered office of issuer)
 
-1. State the business carried on and to be carried on by the issuer and its subsidiary and the general development of the business within the preceding 5 years and indicate any material changes in the affairs of the issuer since the last annual report.
+1. State the business carried on and to be carried on by the issuer and its subsidiary and the general development of the business within the preceding 3 years and indicate any material changes in the affairs of the issuer since the last annual report.
 
 2. Set out the description, designation and number of *shares/debentures being offered by the issuer.
 
@@ -14248,7 +14770,7 @@ ____________________________________________________________________________
 
 9. Give the profits, prospects and dividends of the issuer and provide the following:
 
-(a) a tabulation for each of the last 5 financial years immediately preceding the offer in the following format:
+(a) a tabulation for each of the last 3 financial years immediately preceding the offer in the following format:
 
 Year ended
 
@@ -15416,3 +15938,10 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|10 January 2000|
 |48.|**G. N. No. S 387/2000—Companies Act (Amendment of Second Schedule) Notification 2000**|
 ||Date of commencement|29 August 2000|
+|49.|**Act 36 of 2000—Companies (Amendment) Act 2000**|
+||Date of First Reading|9 October 2000|
+|||(Bill No. 28/2000 published on 10 October 2000)|
+||Date of Second and Third Readings|13 November 2000|
+||Date of commencement|22 January 2001|
+|50.|**G. N. No. S 29/2001—Companies Act (Amendment of Second Schedule) Notification 2001**|
+||Date of commencement|22 January 2001|
