@@ -42,7 +42,7 @@
 
 - [14 Annual estimates](#Annual-estimates)
 
-- [15 Investments](#Investments)
+- [15 Power of investment](#Power-of-investment)
 
 - [16 Bank accounts](#Bank-accounts)
 
@@ -310,13 +310,11 @@ the Minister may, after consultation with the Authority, give such directions to
 
 (4) A summary of the annual estimates and supplementary estimates adopted by the Authority shall be published in theGazette.
 
-### Investments
+### Power of investment
 
-15\. The Authority may, with the approval of the Minister —
+15\. The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-(a) invest its moneys in such manner as it thinks fit; and
-
-(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
+[45/2004 wef 15/12/2004]
 
 ### Bank accounts
 
@@ -673,3 +671,9 @@ This Legislative History is provided for the convenience of users of the Energy 
 ||Date of commencement|15 July 2002|
 |3.|**2002 Revised Edition—Energy Market Authority of Singapore Act**|
 ||Date of operation|31 July 2002|
+|4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|22 September 2004|
+||Date of commencement|15 December 2004|
