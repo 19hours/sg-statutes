@@ -82,6 +82,10 @@
 
 - [32 General obligation to furnish information](#General-obligation-to-furnish-information)
 
+- [32A Production orders against insurers to produce material relating to drug trafficking](#Production-orders-against-insurers-to-produce-material-relating-to-drug-trafficking)
+
+- [32B Production orders to obtain information to assist foreign authority investigating drug trafficking](#Production-orders-to-obtain-information-to-assist-foreign-authority-investigating-drug-trafficking)
+
 [**Subsidiary**](#Subsidiary)
 
 - [33 Insurance agents and brokers](#Insurance-agents-and-brokers)
@@ -172,9 +176,9 @@
 
 - [67 Miscellaneous definitions](#Miscellaneous-definitions)
 
-[**FIRST SCHEDULE Definition of insurance terms**](#FIRST-SCHEDULE-Definition-of-insurance-terms)
+[**FIRST SCHEDULE Definition of Insurance Terms**](#FIRST-SCHEDULE-Definition-of-Insurance-Terms)
 
-[**SECOND SCHEDULE Deposits by associations of underwriters**](#SECOND-SCHEDULE-Deposits-by-associations-of-underwriters)
+[**SECOND SCHEDULE Deposits by Associations of Underwriters**](#SECOND-SCHEDULE-Deposits-by-Associations-of-Underwriters)
 
 [**Legislative History**](#Legislative-History)
 
@@ -206,9 +210,11 @@ PRELIMINARY
 
 (a) life business, which in addition to all insurance business concerned with life policies shall include, in the case of any insurer, any type of insurance business carried on as incidental only to the insurer’s other life business; and
 
-(b) general business, that is to say, all insurance business which is not life business, and shall include the effecting and carrying out by any person, not being a person licensed under the Monetary Authority of Singapore Act [Cap. 186], Banking Act [Cap. 19], Finance Companies Act [Cap. 108], Securities Industry Act [Cap. 289] or Futures Trading Act [Cap. 116], of contracts for fidelity bonds, performance bonds, administration bonds, bail bonds or customs bonds or similar contracts of guarantee, being contracts effected by way of business (and not merely incidental to some other business carried on by the person effecting them) in return for the payment of one or more premiums.
+(b) general business, that is to say, all insurance business which is not life business, and shall include the effecting and carrying out by any person, not being a person licensed under the Monetary Authority of Singapore Act [Cap. 186], Banking Act [Cap. 19], Finance Companies Act [Cap. 108], Securities Industry Act or Futures Trading Act [Cap. 116], of contracts for fidelity bonds, performance bonds, administration bonds, bail bonds or customs bonds or similar contracts of guarantee, being contracts effected by way of business (and not merely incidental to some other business carried on by the person effecting them) in return for the payment of one or more premiums.
 
 [32/93]
+
+[Cap 289.]
 
 (2) For the purposes of this Act, the reinsurance of liabilities under insurance policies shall be treated as insurance business of the class and type to which the policies would have belonged if they had been issued by the reinsurer.
 
@@ -824,6 +830,8 @@ unless the insurer satisfies the Authority that that person is a fit and proper 
 
 [30A
 
+[Act 32/93wef 31.12.93 vide S 442/93]
+
 ### General obligation to furnish information
 
 32\. The Authority may, by notice in writing, require any Singapore insurer to furnish it with information about any matter related to any business carried on by the insurer in Singapore or elsewhere, if in the opinion of the Authority it requires that information for the discharge of its functions under this Act.
@@ -831,6 +839,84 @@ unless the insurer satisfies the Authority that that person is a fit and proper 
 [11/86]
 
 [31
+
+### Production orders against insurers to produce material relating to drug trafficking
+
+32A\.—(1) The Attorney-General or any person duly authorised by him in writing may, for the purpose of an investigation into drug trafficking, apply to the High Court for an order under subsection (2) in relation to any particular material or material of a particular description.
+
+(2) The High Court may, if on such an application it is satisfied that the conditions referred to in subsection (3) are fulfilled, make an order that the insurer which appears to the Court to be in possession of the material to which the application relates shall —
+
+(a) produce the material to the Attorney-General or the person duly authorised by him for the Attorney-General or such person to take away; or
+
+(b) give the Attorney-General or the person duly authorised by him access to the material,
+
+within a reasonable period, but not less than 7 days, as the order may specify.
+
+(3) The conditions referred to in subsection (2) are —
+
+(a) 
+
+(i) where the application is in respect of a foreign offence, that there is prima facie case that a specified person has carried on or has benefited from drug trafficking; and
+
+(ii) in any other case, that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking;
+
+(b) that there are reasonable grounds for believing that the material to which the application relates —
+
+(i) is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made; and
+
+(ii) does not consist of or include items subject to legal privilege; and
+
+(c) that it is not contrary to the public interest to produce the material to which the application relates.
+
+(4) No action shall lie against an insurer which in good faith produces materials or gives access to materials relating to any policy by reason of that insurer having made the production or given access in compliance with an order made against it under subsection (2) or any act done or omitted to be done in relation to moneys, commissions or property relating to that policy in consequence of the production of or access to those materials.
+
+(5) The proceedings for an application of a production order under this section shall be heard in camera.
+
+(6) In this section —
+
+“drug trafficking” and “foreign offence” have the same meanings as in the Drug Trafficking (Confiscation of Benefits) Act;
+
+“items subject to legal privilege” has the same meaning as in section 33(2) of the Drug Trafficking (Confiscation of Benefits) Act.
+
+[Act 21/95wef 15.8.95 vide S 349/95]
+
+### Production orders to obtain information to assist foreign authority investigating drug trafficking
+
+32B\.—(1) The Attorney-General or any person duly authorised by him in writing may make an application under section 32A for the purpose of assisting a foreign authority in its investigation into a foreign offence if and only if the conditions in subsection (2) are fulfilled in addition to those in section 32A(3).
+
+(2) The conditions referred to in subsection (1) are —
+
+(a) there exists a mutual legal assistance treaty, memorandum of understanding or other agreement or arrangement in drug-related matters between Singapore and the foreign government and the conditions therein have been fulfilled in respect of any particular request for assistance from the Attorney-General, which conditions shall be in addition to and not in derogation of the conditions in this subsection;
+
+(b) the foreign authority has agreed to provide reciprocal assistance in drug-related matters to Singapore;
+
+(c) the foreign offence which is the subject of the investigation constitutes an offence against the law of or of a part of the State of the foreign authority and the act or omission constituting the offence or the equivalent act or omission would, if it had occurred in Singapore, have constituted an offence under the Drug Trafficking (Confiscation of Benefits) Act or the Misuse of Drugs Act [Cap. 185];
+
+(d) the seriousness of the foreign offence under investigation is of sufficient gravity and the material which is the subject of the application is of sufficient importance to the investigation and whether the material could not reasonably be obtained by other means;
+
+(e) the assistance is not likely to prejudice the sovereignty, security or other essential interests of Singapore;
+
+(f) it is appropriate in the public interest to give the assistance sought;
+
+(g) the foreign authority undertakes that the material sought if granted by the High Court pursuant to a production order shall not be used for any other purposes except for the investigation of the foreign offence or for the prosecution of the offender concerned and the material shall be returned to the Attorney-General upon completion of the investigation or the proceedings against the offender; and
+
+(h) such other conditions as the Minister may prescribe.
+
+(3) The proceedings for an application for a production order under subsection (1) shall be heard in camera.
+
+(4) In this section —
+
+“drug-related matters” includes the subject of mutual assistance in the investigation of drug trafficking offences within the meaning of the Drug Trafficking (Confiscation of Benefits) Act;
+
+“foreign authority” means a foreign government or an appropriate authority designated by a foreign government exercising any function corresponding to a function of the Minister in charge of the Drug Trafficking (Confiscation of Benefits) Act or the Misuse of Drugs Act [Cap. 185];
+
+“foreign country” means any country or territory outside Singapore;
+
+“foreign government” means the government of a foreign country;
+
+“foreign offence” has the same meaning as in the Drug Trafficking (Confiscation of Benefits) Act;
+
+[Act 21/95 wef 15/08/1995vide S 349/95]
 
 Subsidiary
 
@@ -964,12 +1050,7 @@ Subsidiary
 
 ## PART III
 
-RETURNS, INSPECTIONS AND INVESTIGATIONS,
-
-
-
-
-WINDING UP AND TRANSFERS OF BUSINESS
+RETURNS, INSPECTIONS AND INVESTIGATIONS, WINDING UP AND TRANSFERS OF BUSINESS
 
 Returns
 
@@ -1035,7 +1116,7 @@ he shall immediately report the matter to the Authority.
 
 (2) An investigation under subsection (1) shall be made as at the end of each accounting period.
 
-(3) In the case of a company incorporated or established outside Singapore, the investigation required by subsection (1) need not extend beyond the business for which an insurance fund is maintained under this Act; but if such a company is required by the law relating to insurance in the country in which it is incorporated or established to furnish the authority having the administration of that law with returns as to actuarial investigations of its life business, the documents to be lodged with the Authority under this section shall be accompanied by certified copies of any such returns made since the company was first registered under this Act in respect of life business (or, in the case of an existing insurer, since the 1st January 1967), other than returns of which copies have previously been furnished under this subsection.
+(3) In the case of a company incorporated or established outside Singapore, the investigation required by subsection (1) need not extend beyond the business for which an insurance fund is maintained under this Act; but if such a company is required by the law relating to insurance in the country in which it is incorporated or established to furnish the authority having the administration of that law with returns as to actuarial investigations of its life business, the documents to be lodged with the Authority under this section shall be accompanied by certified copies of any such returns made since the company was first registered under this Act in respect of life business (or, in the case of an existing insurer, since 1st January 1967), other than returns of which copies have previously been furnished under this subsection.
 
 (4) References in this Act to documents lodged with the Authority shall not be taken to include documents required by subsection (3) to accompany documents so lodged.
 
@@ -1159,7 +1240,7 @@ Winding up
 
 (7) In the winding up of the affairs of an insurer registered under this Act, section 327(2) of the Companies Act (which applies bankruptcy rules in the winding up of insolvent companies), shall not apply to the valuation of liabilities in respect of policies; but in any such winding up, whether the insurer is insolvent or not, those liabilities shall be estimated in accordance with any prescribed rules and, as regards matters not fixed by the rules, on a basis approved by the court.
 
-(8) In a members’ voluntary winding up, the basis to be adopted as regards matters not fixed by the rules may be approved by the Authority instead of by the court.
+(8) In a members’ voluntary winding up the basis to be adopted as regards matters not fixed by the rules may be approved by the Authority instead of by the court.
 
 (9) References in this section to an insurer registered under this Act shall extend also to a Singapore insurer which has ceased to be so registered but remains under any liability in respect of Singapore policies or offshore policies.
 
@@ -1627,7 +1708,7 @@ FIRST SCHEDULE
 
 Section 2(8).
 
-Definition of insurance terms
+Definition of Insurance Terms
 
 General
 
@@ -1671,7 +1752,7 @@ Definitions related to life business
 
 (3) A paid-up policy granted in place of a home-service policy is to be treated as a home-service policy, unless the grant is made in pursuance of an agreement of option providing for it to be treated as an ordinary policy.
 
-7\. “Participating policy” means a life policy conferring any right to share in the profits or surplus arising from the business of the insurer or any part of it, and “non-participating policy” means a life policy not conferring any such right.
+7\. “Participating policy” means a life policy conferring any right to share in the profits or surplus arising from the business of the insurer or any part of it, and “non-participating policy”means a life policy not conferring any such right.
 
 Definitions related to general business
 
@@ -1697,7 +1778,7 @@ SECOND SCHEDULE
 
 Section 36(5).
 
-Deposits by associations of underwriters
+Deposits by Associations of Underwriters
 
 1. An association of underwriters, in order to comply with section 36(4) of the Act, shall make a deposit of a value of $500,000, or such other amount as may be prescribed, with the Authority.
 
@@ -1763,3 +1844,8 @@ This Legislative History is provided for the convenience of users of the Insuran
 ||Date of commencement|31 December 1993|
 |10.|**1994 Revised Edition—Insurance Act**|
 ||Date of operation|15 March 1994|
+|11.|**Act 21 of 1995—Insurance (Amendment) Act 1995**|
+||Date of First Reading|23 March 1995|
+|||(Bill No. 16/95 published on 24 March 1995)|
+||Date of Second and Third Readings|7 July 1995|
+||Date of commencement|15 August 1995|
