@@ -3228,7 +3228,7 @@ Isocyanates
 
 Lead tetra-ethyl and similar lead containing compounds
 
-Lead compounds in any paint in which the lead content is 0.25% or more by weight of the paint
+Lead compounds in any paint in which the lead content is 0.06% or more by weight of the paint
 
 Mecuric chloride; mercuric iodide; organic compounds of mecury; mecury and its compounds in batteries
 
@@ -3370,7 +3370,7 @@ Vinyl bromide
 
 Vinyl chloride monomer
 
-[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991;, S 9/1993; S 172/1993; S 12/1994; S 147/1994; S 399/1994; S 449/1994; S 465/1994]
+[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991; S 9/1993; S 172/1993; S 12/1994; S 147/1994; S 399/1994; S 449/1994; S 465/1994; S 10/1995]
 
 ## LEGISLATIVE HISTORY
 
@@ -3532,3 +3532,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 January 1995|
 |62.|**G. N. No. S 465/1994—Poisons Act (Amendment of Schedule) (No. 5) Notification 1994**|
 ||Date of commencement|1 January 1995|
+|63.|**G. N. No. S 10/1995—Poisons Act (Amendment of Schedule) Notification 1995**|
+||Date of commencement|1 February 1995|
