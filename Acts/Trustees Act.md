@@ -1668,27 +1668,41 @@ Part IV
 
 (d) the company has reported a profit (excluding any extraordinary item) in the profit and loss account in the annual accounts of the company in the financial year immediately preceding the financial year in which the investment is made.
 
-(2) For the purposes of sub-paragraph (1)(a) and (c), the issued and paid-up share capital and the shareholders equity shall, if they are in a currency other than Singapore currency, be converted into Singapore currency at a rate of exchange certified by a bank licensed under the Banking Act (Cap. 19) to be appropriate on the day the trustee exercises his power to invest in such securities.
+(2) A company formed —
+
+(a) to take over the business of another company or other companies; or
+
+(b) to acquire the securities of, or control of, another company or other companies,
+
+or for either of those purposes and for other purposes, shall be deemed —
+
+(i) to have paid a dividend as mentioned in sub-paragraph (1)(b) in any financial year in which such a dividend has been so paid by the other company or each of the other companies, as the case may be;
+
+(ii) to have had a shareholders equity of not less than $30 million as mentioned in sub-paragraph (1)(c) if the other company or companies, as the case may be, had a shareholders equity of not less than $30 million; and
+
+(iii) to have reported a profit as mentioned in sub-paragraph (1)(d) in the financial year in which such a profit has been so reported by the other company or each of the other companies, as the case may be.
 
 [S 316/2000 wef 05/07/2000]
 
-(3) The securities referred to in paragraph 2 of Part II do not include shares or debenture stock not fully paid-up, except shares or stock which by the terms of issue are required to be fully paid-up within 9 months of the date of issue.
+(3) For the purposes of sub-paragraph (1)(a) and (c), the issued and paid-up share capital and the shareholders equity shall, if they are in a currency other than Singapore currency, be converted into Singapore currency at a rate of exchange certified by a bank licensed under the Banking Act (Cap. 19) to be appropriate on the day the trustee exercises his power to invest in such securities.
 
 [S 316/2000 wef 05/07/2000]
 
-(4) Where immediately before 26th June 1992 the securities of a company were investments in which trustees were authorised by this Act to invest and the total issued and paid-up capital of that company, if incorporated in Singapore, was less than $15 million and, if incorporated elsewhere, was less than $30 million, sub-paragraph (1)(a) shall have effect in relation to those securities only after the expiry of 3 years from that date.
+(4) The securities referred to in paragraph 2 of Part II do not include shares or debenture stock not fully paid-up, except shares or stock which by the terms of issue are required to be fully paid-up within 9 months of the date of issue.
 
 [S 316/2000 wef 05/07/2000]
 
-(5) Where immediately before 26th June 1992 the securities of a company were investments in which trustees were authorised by this Act to invest and the shareholders equity of that company was less than $30 million, sub-paragraph (1)(c) shall have effect in relation to those securities only after the expiry of 3 years from that date.
+(5) Where immediately before 26th June 1992 the securities of a company were investments in which trustees were authorised by this Act to invest and the total issued and paid-up capital of that company, if incorporated in Singapore, was less than $15 million and, if incorporated elsewhere, was less than $30 million, sub-paragraph (1)(a) shall have effect in relation to those securities only after the expiry of 3 years from that date.
+
+[S 316/2000 wef 05/07/2000]
+
+(6) Where immediately before 26th June 1992 the securities of a company were investments in which trustees were authorised by this Act to invest and the shareholders equity of that company was less than $30 million, sub-paragraph (1)(c) shall have effect in relation to those securities only after the expiry of 3 years from that date.
 
 [S 316/2000 wef 05/07/2000]
 
 [S 322/99]
 
-2\. The land referred to in paragraph 4 of Part II shall not include land, the gross rental whereof is at the time of such investment less than 7% of the purchase price of such land, in the case of a purchase, or the value of such land ascertained in accordance with paragraph 2 of Part V, in the case of a mortgage.
-
-3. Not more than 30% of the funds belonging to the trust shall at any time be invested in the investments in Part III taken together.
+2. Not more than 30% of the funds belonging to the trust shall at any time be invested in the investments in Part III taken together.
 
 [S 316/2000 wef 05/07/2000]
 
@@ -1838,6 +1852,8 @@ This Legislative History is provided for the convenience of users of the Trustee
 ||Date of commencement|16 July 1999|
 |18.|**1999 Revised Edition—Trustees Act**|
 ||Date of operation|1 August 1999|
+|19.|**G. N. No. S 316/2000—Revised Edition of the Laws (Trustees Act) (Rectification) Order 2000**|
+||Date of commencement|5 July 2000|
 ## COMPARATIVE TABLE
 
 Trustees Act
