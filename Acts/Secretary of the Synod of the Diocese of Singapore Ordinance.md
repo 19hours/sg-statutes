@@ -20,7 +20,7 @@
 
 - [5 Vesting of property in the Corporation](#Vesting-of-property-in-the-Corporation)
 
-- [6 Saving of Crown and other rights](#Saving-of-Crown-and-other-rights)
+- [6 Saving of Government and other rights](#Saving-of-Government-and-other-rights)
 
 [**THE SCHEDULE Lands in Singapore Vested in the Bishop of Singapore**](#THE-SCHEDULE)
 
@@ -86,9 +86,11 @@ It is hereby enacted by the Governor of the Colony of Singapore with the advice 
 
 (2) All lands hereditaments and premises specified in the Schedule to this Ordinance and all estates rights and interests therein are hereby vested in the Corporation as trustee for the Synod of the Diocese of Singapore for the respective estates, rights and interests for which the same are held, and the Corporation shall have full powers as such trustee to deal with the said property as provided in section 2 of this Ordinance.
 
-### Saving of Crown and other rights
+### Saving of Government and other rights
 
-6\. Nothing in this Ordinance shall affect the rights of Her Majesty the QUEEN, Her Heirs and Successors, all bodies politic and corporate, and all others except such as are mentioned in this Ordinance and those claiming by, from or under them.
+6\. Nothing in this Ordinance shall affect the rights of the Government, all bodies politic and corporate, and all others except such as are mentioned in this Ordinance and those claiming by, from or under them.
+
+[7/97 wef 01/10/1997]
 
 ## THE SCHEDULE
 
@@ -258,7 +260,7 @@ Statutory Land Grant No. 30351
 
 10
 
-St. Andrew’s School Woodsville
+St. Andrew’s School, Woodsville
 
 MK. 17
 
@@ -454,3 +456,9 @@ This Legislative History is provided for the convenience of users of the Secreta
 ||Date of commencement|23 August 1985|
 |3.|**1985 Revised Edition—Secretary of the Synod of the Diocese of Singapore Ordinance**|
 ||Date of operation|30 March 1987|
+|4.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997|
+|||(item (33) in the First Schedule)|
