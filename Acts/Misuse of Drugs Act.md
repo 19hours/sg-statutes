@@ -1966,3 +1966,10 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|7 February 1986|
 |14.|**1985 Revised Edition—Misuse of Drugs Act (Chapter 185)**|
 ||Date of operation|30 March 1987|
+|15.|**G. N. No. S 50/1990—Misuse of Drugs Act (Amendment of First Schedule) Order 1990**|
+||Date of commencement|15 February 1990|
+|16.|**Act 38 of 1989—Misuse of Drugs (Amendment) Act 1989**|
+||Date of First Reading|6 October 1989|
+|||(Bill No. 39/89 published on 7 October 1989)|
+||Date of Second and Third Readings|30 November 1989|
+||Date of commencement|15 February 1990|
