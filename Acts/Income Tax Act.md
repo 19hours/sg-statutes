@@ -26,6 +26,8 @@
 
 - [8 Service and signature of notices](#Service-and-signature-of-notices)
 
+- [8A Electronic service](#Electronic-service)
+
 - [9 Free postage](#Free-postage)
 
 [**Part III IMPOSITION OF INCOME TAX**](#Part-III)
@@ -105,8 +107,6 @@
 - [14A Deduction for patenting costs](#Deduction-for-patenting-costs)
 
 - [14B Further deduction for expenses relating to approved trade fairs, exhibitions or trade missions or to maintenance of overseas trade office](#Further-deduction-for-expenses-relating-to-approved-trade-fairs-exhibitions-or-trade-missions-or-to-maintenance-of-overseas-trade-office)
-
-- [14C (Repealed)](#Repealed)
 
 - [14C Further deduction for logistics expenses](#Further-deduction-for-logistics-expenses)
 
@@ -196,6 +196,8 @@
 
 - [36 Partnership](#Partnership)
 
+- [36A Limited liability partnership](#Limited-liability-partnership)
+
 - [36B Registered business trusts](#Registered-business-trusts)
 
 [**Part IX ASCERTAINMENT OF ASSESSABLE INCOME**](#Part-IX)
@@ -207,6 +209,8 @@
 - [37B Adjustment of capital allowances, losses or donations between income subject to tax at different rates](#Adjustment-of-capital-allowances-losses-or-donations-between-income-subject-to-tax-at-different-rates)
 
 - [37C Group relief for Singapore companies](#Group-relief-for-Singapore-companies)
+
+- [37D Transfer of qualifying deduction between spouses](#Transfer-of-qualifying-deduction-between-spouses)
 
 [**Part X ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS**](#Part-X)
 
@@ -268,6 +272,10 @@
 
 - [43Q Concessionary rate of tax for financial sector incentive company](#Concessionary-rate-of-tax-for-financial-sector-incentive-company)
 
+- [43R Concessionary rate of tax for provision of processing services to financial institutions](#Concessionary-rate-of-tax-for-provision-of-processing-services-to-financial-institutions)
+
+- [43S Concessionary rate of tax for commodity derivatives trading company](#Concessionary-rate-of-tax-for-commodity-derivatives-trading-company)
+
 [**Part XII DEDUCTION OF TAX AT SOURCE**](#Part-XII)
 
 - [44 Deduction of tax from dividends of companies](#Deduction-of-tax-from-dividends-of-companies)
@@ -326,7 +334,7 @@
 
 - [58 Deceased persons](#Deceased-persons)
 
-- [59 Company wound up](#Company-wound-up)
+- [59 Duty of liquidator on winding up of company or limited liability partnership](#Duty-of-liquidator-on-winding-up-of-company-or-limited-liability-partnership)
 
 - [60 Chargeability of joint trustees](#Chargeability-of-joint-trustees)
 
@@ -335,6 +343,10 @@
 [**Part XVI RETURNS**](#Part-XVI)
 
 - [62 Notice of chargeability and returns](#Notice-of-chargeability-and-returns)
+
+- [62A The basic rule: Singapore dollar to be used](#The-basic-rule:-Singapore-dollar-to-be-used)
+
+- [62B Currency other than Singapore dollar to be used in certain circumstances](#Currency-other-than-Singapore-dollar-to-be-used-in-certain-circumstances)
 
 - [63 Furnishing of estimate of chargeable income if no return is made under section 62](#Furnishing-of-estimate-of-chargeable-income-if-no-return-is-made-under-section-62)
 
@@ -360,7 +372,7 @@
 
 - [71 Return to be made by partnership](#Return-to-be-made-by-partnership)
 
-- [71A Filing of return by electronic transmission](#Filing-of-return-by-electronic-transmission)
+- [71A (Repealed)](#Repealed)
 
 [**Part XVII ASSESSMENTS AND OBJECTIONS**](#Part-XVII)
 
@@ -490,6 +502,10 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the subject or context otherwise requires —
 
+“account with the electronic service”, in relation to any person, means a computer account within the electronic service which is assigned by the Comptroller to that person for the storage and retrieval of electronic records relating to that person;
+
+[49/2004 wef 30/11/2004]
+
 “accountant” means a public accountant within the meaning of the Accountants Act (Cap. 2);
 
 “advocate and solicitor” means an advocate and solicitor within the meaning of the Legal Profession Act (Cap. 161);
@@ -497,6 +513,10 @@ PRELIMINARY
 “annual value” has the same meaning as in section 2 of the Property Tax Act (Cap. 254) and shall be ascertained in the same manner as annual value is ascertained under that Act;
 
 “approved pension or provident fund or society” means a pension or provident fund or society approved by the Comptroller under section 5;
+
+“authentication code”, in relation to any person, means an identification or identifying code, a password or any other authentication method or procedure which is assigned to that person for the purposes of identifying and authenticating the access to and use of the electronic service by that person;
+
+[49/2004 wef 30/11/2004]
 
 “basis period” for any year of assessment means the period on the profits of which tax for that year falls to be assessed;
 
@@ -519,6 +539,14 @@ PRELIMINARY
 (a) gains or profits from any trade, business, profession, vocation or employment on which tax is payable under section 10(1), where the Comptroller is satisfied that such gains or profits are immediately derived from the carrying on or exercise by such individual or Hindu joint family, as the case may be, of such trade, business, profession, vocation or employment; and
 
 (b) any pension on which tax is payable under section 10(1)(e) given to the individual in respect of the past services of such individual or any deceased individual;
+
+“electronic record” has the same meaning as in the Electronic Transactions Act (Cap. 88);
+
+[49/2004 wef 30/11/2004]
+
+“electronic service” means the electronic service provided by the Comptroller under section 8A(1);
+
+[49/2004 wef 30/11/2004]
 
 “employee” —
 
@@ -563,6 +591,10 @@ and “employer” and other cognate expressions shall be construed accordingly;
 (i) an organisation not operated or conducted primarily for profit which is engaged in or connected with the promotion of culture or the arts or with the promotion of sports;
 
 “life annuity” means an annuity payable under a policy issued to an SRS member for a term ending with, or at a time ascertainable only by reference to, the end of his life;
+
+“limited liability partnership” means any limited liability partnership incorporated or registered under any law in force in Singapore or elsewhere;
+
+[49/2004 wef 30/11/2004]
 
 “local forces” means the Singapore Armed Forces and any volunteer or reserve forces attached thereto;
 
@@ -633,8 +665,6 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 (a) in relation to an individual, means a person who, in the year preceding the year of assessment, resides in Singapore except for such temporary absences therefrom as may be reasonable and not inconsistent with a claim by such person to be resident in Singapore, and includes a person who is physically present or who exercises an employment (other than as a director of a company) in Singapore for 183 days or more during the year preceding the year of assessment; and
 
 (b) in relation to a company or body of persons, means a company or body of persons the control and management of whose business is exercised in Singapore;
-
-“return” includes an electronic return under section 71A;
 
 “SRS account” means an account opened with an SRS operator by an SRS member;
 
@@ -740,7 +770,15 @@ shall be guilty of an offence.
 
 ### Service and signature of notices
 
-8\.—(1) Except where it is provided by this Act that service shall be effected either personally or by registered post, a notice may be served on a person either personally or by being sent through the post.
+8\.—(1) Except where it is provided by this Act that service shall be effected either personally or by registered post, a notice may be served on a person —
+
+(a) personally;
+
+(b) by being sent through the post; or
+
+(c) where the person has given his consent for the notice to be served on him through the electronic service, by transmitting an electronic record of the notice to his account with the electronic service.
+
+[49/2004 wef 30/11/2004]
 
 (2) Where a notice is served by ordinary or registered post, it shall be deemed to have been served on the day succeeding the day on which the notice would have been received in the ordinary course of post if the notice is addressed —
 
@@ -752,9 +790,101 @@ shall be guilty of an offence.
 
 (3) Where the person to whom there has been addressed a registered letter containing any notice which may be given under the provisions of this Act is informed of the fact that there is a registered letter awaiting him at a post office and such person refuses or neglects to take delivery of such registered letter, such notice shall be deemed to have been served upon him on the date on which he was informed that there was a registered letter awaiting him at a post office.
 
-(4) Every noticeto be given by the Comptroller under this Act shall be signed by the Comptroller or by some person or persons from time to time authorised by him in that behalf under section 4, and every such notice shall be valid if the signature of the Comptroller or of such person or persons is duly printed or written thereon.
+(3A) Where a person has given his consent for a notice to be served on him through the electronic service, the notice shall be deemed to have been served at the time when an electronic record of the notice enters his account with the electronic service.
 
-(5) Any noticeunder this Act requiring the attendance of any person or witness before the Comptroller shall be signed by the Comptroller or by a person duly authorised by him.
+[49/2004 wef 30/11/2004]
+
+(4) Subject to subsection (6), every notice to be given by the Comptroller under this Act shall be signed by the Comptroller or by some person or persons from time to time authorised by him in that behalf under section 4, and every such notice shall be valid if the signature of the Comptroller or of such person or persons is duly printed or written thereon.
+
+(5) Subject to subsection (6), any notice under this Act requiring the attendance of any person or witness before the Comptroller shall be signed by the Comptroller or by a person duly authorised by him.
+
+(6) Where any person has given his consent for any notice referred to in subsection (4) or (5) to be served on him through the electronic service, the notice need not be signed if it is served on him by transmitting an electronic record of the notice to his account with the electronic service.
+
+[49/2004 wef 30/11/2004]
+
+### Electronic service
+
+8A\.—(1) The Comptroller may provide an electronic service for —
+
+(a) the filing or submission of any return, estimate, statement or document; or
+
+(b) the service of any notice by the Comptroller.
+
+(2) For the purposes of the electronic service, the Comptroller may assign to any person —
+
+(a) an authentication code; and
+
+(b) an account with the electronic service.
+
+(3) Any person who is required to file or submit any return, estimate, statement or document may do so through the electronic service.
+
+(4) Any agent who is authorised by his principal in the prescribed manner may file or submit any return, estimate, statement or document on behalf of his principal through the electronic service.
+
+(5) Where any return, estimate, statement or document is filed or submitted on behalf of any person under subsection (4) —
+
+(a) it shall be deemed to have been filed or submitted with the authority of that person; and
+
+(b) that person shall be deemed to be cognizant of all matters therein.
+
+(6) Where any return, estimate, statement or document is filed or submitted through the electronic service using the authentication code assigned to any person before that person has requested, in the prescribed manner, for the cancellation of the authentication code —
+
+(a) the return, estimate, statement or document shall, for the purposes of this Act, be presumed to have been filed or submitted by that person unless he adduces evidence to the contrary; and
+
+(b) where that person alleges that he did not file or submit the return, estimate, statement or document, the burden shall be on him to adduce evidence of that fact.
+
+(7) Where any person has given his consent for any notice to be served on him through the electronic service, the Comptroller may serve the notice on that person by transmitting an electronic record of the notice to that person’s account with the electronic service.
+
+(8) Notwithstanding any other written law, in any proceedings under this Act —
+
+(a) an electronic record of any return, estimate, statement or document that was filed or submitted, or any notice that was served, through the electronic service; or
+
+(b) any copy or print-out of that electronic record,
+
+shall be admissible as evidence of the facts stated or contained therein if that electronic record, copy or print-out —
+
+(i) is certified by the Comptroller to contain all or any information filed, submitted or served through the electronic service in accordance with this section; and
+
+(ii) is duly authenticated in the manner specified in subsection (10) or is otherwise authenticated in the manner provided in the Evidence Act (Cap. 97) for the authentication of computer output.
+
+(9) For the avoidance of doubt —
+
+(a) an electronic record of any return, estimate, statement or document that was filed or submitted, or any notice that was served, through the electronic service; or
+
+(b) any copy or print-out of that electronic record,
+
+shall not be inadmissible in evidence merely because the return, estimate, statement or document was filed or submitted, or the notice was served, without the delivery of any equivalent document or counterpart in paper form.
+
+(10) For the purposes of this section, a certificate —
+
+(a) giving the particulars of —
+
+(i) any person whose authentication code was used to file, submit or serve the return, estimate, statement, document or notice; and
+
+(ii) any person or device involved in the production or transmission of the electronic record of the return, estimate, statement, document or notice, or the copy or print-out thereof;
+
+(b) identifying the nature of the electronic record or copy thereof; and
+
+(c) purporting to be signed by the Comptroller or by a person occupying a responsible position in relation to the operation of the electronic service at the relevant time,
+
+shall be sufficient evidence that the electronic record, copy or print-out has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
+
+(11) Where the electronic record of any return, estimate, statement, document or notice, or a copy or print-out of that electronic record, is admissible under subsection (8), it shall be presumed, until the contrary is proved, that the electronic record, copy or print-out accurately reproduces the contents of that document.
+
+(12) The Comptroller may, for the purposes of the electronic service, approve the use of any symbol, code, abbreviation or notation to represent any particulars or information required under this Act.
+
+(13) The Minister may make regulations which are necessary or expedient for carrying out the purposes of this section, including regulations prescribing —
+
+(a) the procedure for the use of the electronic service, including the procedure in circumstances where there is a breakdown or interruption of the electronic service;
+
+(b) the procedure for the correction of errors in, or the amendment of, any return, estimate, statement or document that is filed or submitted through the electronic service;
+
+(c) the manner in which a person who has given his consent for a notice to be served on him through the electronic service shall be notified of the transmission of an electronic record of the notice to his account with the electronic service;
+
+(d) the manner in which authentication codes are to be assigned; and
+
+(e) anything which may be prescribed under this section.
+
+[49/2004 wef 30/11/2004]
 
 ### Free postage
 
@@ -804,7 +934,7 @@ IMPOSITION OF INCOME TAX
 
 (4) Where, under section 17, 20 or 21, a balancing charge falls to be made, the amount thereof shall be deemed to be income chargeable with tax under this Act, except in the case of a balancing charge in respect of —
 
-(a) a Singapore ship which is owned by a shipping enterprise within the meaning of section 13A at the time the balancing charge falls to be made in respect of the Singapore ship, but only up to the amount ascertained in accordance with the formula
+(a) a Singapore ship which is owned by a shipping enterprise within the meaning of section 13A or by an approved shipping investment enterprise within the meaning of section 13S at the time the balancing charge falls to be made in respect of the Singapore ship, but only up to the amount ascertained in accordance with the formula
 
 where
 
@@ -814,11 +944,11 @@ B is the total amount of allowances under section 19 or 19A which have been made
 
 C is the amount of balancing charge;
 
-(b) a foreign ship the income derived from the operation of which would be income of a shipping enterprise within the meaning of section 13A or income of an approved international shipping enterprise within the meaning of section 13F, as the case may be, but only up to the amount ascertained in accordance with the formula
+(b) a foreign ship the income derived from the operation of which is exempt from tax under section 13A or 13F, or the income derived from the chartering or finance leasing of which is exempt from tax under section 13S, as the case may be, but only up to the amount ascertained in accordance with the formula
 
 where
 
-X is the amount of allowances under section 19 or 19A made to the enterprise in respect of the foreign ship against any income exempt from tax under section 13A or 13F, as the case may be;
+X is the amount of allowances under section 19 or 19A made to the enterprise in respect of the foreign ship against any income exempt from tax under section 13A, 13F or 13S, as the case may be;
 
 Y is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
 
@@ -826,9 +956,13 @@ Z is the amount of balancing charge.
 
 [2/92; 32/95; 31/98]
 
-(5) Subsection (4)(b) shall apply, with the necessary modifications, to any dredger, seismic ship, or any vessel used for offshore oil or gas activity the income derived from the operation of which is exempt from tax under section 13F .
+(5) Subsection (4)(b) shall apply, with the necessary modifications, to any dredger, seismic ship, or any vessel used for offshore oil or gas activity the income derived from the operation of which is exempt from tax under section 13F or the income derived from the chartering or finance leasing of which is exempt from tax under section 13S.
 
 [49/2004 wef 30/11/2004]
+
+[Act 7/2007, wef 01/03/006]
+
+(5A) In subsections (4) and (5), “finance leasing” has the same meaning as in section 13S(20).
 
 [Act 7/2007, wef 01/03/006]
 
@@ -1316,11 +1450,11 @@ whichever is the less;
 
 (ii) any loss may be deducted under section 37;
 
-(b) where the lessor derives income from onshore leasing but does not derive income from offshore leasing, the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of onshore finance leasing shall, subject to paragraph (c), only be available as a deduction against the income from such onshore finance leasing and any balance of the allowances shall not be available as a deduction against any other income or be available for transfer under section 37C;
+(b) where the lessor derives income from onshore leasing but does not derive income from offshore leasing, the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of onshore finance leasing shall, subject to paragraph (c), only be available as a deduction against the income from such onshore finance leasing and any balance of the allowances shall not be available as a deduction against any other income or be available for transfer under section 37C or 37D;
 
 (c) where the lessor referred to in paragraph (b) ceases to derive income from onshore finance leasing in the basis period for any year of assessment, any balance of the allowances after the deduction in paragraph (b) shall be available as a deduction against any other income for that year of assessment or for any subsequent year of assessment in accordance with section 23;
 
-(d) where the lessor derives income from both onshore leasing and offshore leasing and such income is subject to tax under section 42(1) or 43(1), the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of the leasing under any finance lease shall, subject to paragraph (e), only be available as a deduction against the income from such finance lease and any balance of the allowances shall not be available as a deduction against any other income or be available for transfer under section 37C;
+(d) where the lessor derives income from both onshore leasing and offshore leasing and such income is subject to tax under section 42(1) or 43(1), the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of the leasing under any finance lease shall, subject to paragraph (e), only be available as a deduction against the income from such finance lease and any balance of the allowances shall not be available as a deduction against any other income or be available for transfer under section 37C or 37D;
 
 (e) where the lessor referred to in paragraph (d) ceases to derive income from the leasing of any machinery or plant under any finance lease in the basis period for any year of assessment, any balance of the allowances after the deduction in paragraph (d) shall be available as a deduction against any other income for that year of assessment and for any subsequent year of assessment in accordance with section 23;
 
@@ -1380,9 +1514,9 @@ whichever is the less;
 
 10H\.—(1) Notwithstanding any other provisions of this Act, in determining the income derived by any person for any year of assessment from any business of hiring out motor cars or of providing driving instruction using motor cars, the following provisions shall apply:
 
-(a) any outgoings and expenses incurred in respect of that business for that year of assessment and allowable under this Act shall only be deducted against the income derived from that business and any excess of such outgoings and expenses over such income shall not be available as a deduction against any other income of the person or be available for transfer under section 37Cfor that year of assessment and any subsequent year of assessment; and
+(a) any outgoings and expenses incurred in respect of that business for that year of assessment and allowable under this Act shall only be deducted against the income derived from that business and any excess of such outgoings and expenses over such income shall not be available as a deduction against any other income of the person or be available for transfer under section 37C or 37Dfor that year of assessment and any subsequent year of assessment; and
 
-(b) the allowances under sections 19, 19A, 20, 21 and 22 relating to that business for that year of assessment shall only be available as a deduction against the income derived from that business and any excess of such allowances over such income shall not be available as a deduction against any other income of the person or be available for transfer under section 37Cfor that year of assessment and any subsequent year of assessment.
+(b) the allowances under sections 19, 19A, 20, 21 and 22 relating to that business for that year of assessment shall only be available as a deduction against the income derived from that business and any excess of such allowances over such income shall not be available as a deduction against any other income of the person or be available for transfer under section 37C or 37Dfor that year of assessment and any subsequent year of assessment.
 
 [32/99; 37/2002]
 
@@ -1951,11 +2085,21 @@ EXEMPTION FROM INCOME TAX
 
 13\.—(1) There shall be exempt from tax —
 
-(a) subject to subsection (2) and the prescribed conditions, the interest derived from —
+(a) subject to subsection (2) and such conditions as may be prescribed by regulations, the interest derived from —
 
-(i) any qualifying debt securities issued during the period from 28th February 1998 to 27th February 2003by any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
+(i) any qualifying debt securities issued during the period from 28th February 1998 to 31st December 2008 by any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
 
-(ii) any qualifying debt securities issued during the period from 27th February 1999 to 27th February 2003by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+(ii) any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2008 by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+
+(aa) subject to subsection (2A) and such conditions as may be prescribed by regulations, the discount from any qualifying debt securities, which mature within one year from the date of issue of those securities and issued during the period from 27th February 2004 to 31st December 2008, by —
+
+(i) any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
+
+(ii) any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+
+[49/2004 wef 27/02/2004]
+
+(b) 
 
 (b) the official emoluments of consular officers (as defined in the Consular Conventions Act (Cap. 52)) of foreign countries and of Commonwealth officers (as defined in the Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act (Cap. 83)) and of persons employed on the staff of any such consular or Commonwealth officer who are subjects or citizens of the country which they represent, but only to the extent to which reciprocal treatment is accorded by the country which they represent to Singapore consular officers or to corresponding members of the staff of such consular officer;
 
@@ -2013,13 +2157,21 @@ EXEMPTION FROM INCOME TAX
 
 (viii) cloves;
 
-(o) payments made on or after 1st April 1991 under any agreement or arrangement approved by the Minister or such person as he may appoint to a person not resident in Singapore (excluding any permanent establishment in Singapore) by an international shipping enterprise approved under section 13F for the charter of a foreign ship within the meaning of that section, an approved floating production storage offloading ship or an approved floating storage offloading ship, except for any payment attributable to the carriage of passengers, mails, livestock or goods from Singapore;
+(o) payments made under any agreement or arrangement approved by the Minister or such person as he may appoint to a person not resident in Singapore (excluding any permanent establishment in Singapore) by an international shipping enterprise approved under section 13F —
 
-(p) for a period of 10 years from the commencement of its business, such income of the Singapore Commodity Exchange Limited as may be prescribed;
+(i) on or after 1st April 1991 for the charter of a foreign ship within the meaning of that section (other than that used for towing or salvage operations during the period 1st April 1991 to 2nd May 2002);
+
+(ii) on or after 27th February 2004 for the charter of any dredger, seismic ship or any vessel used for offshore oil or gas activity,
+
+[49/2004 wef 30/11/2004]
+
+except for any payment attributable to the carriage of passengers, mails, livestock or goods from Singapore;
+
+(p) for a period of 5 years from 1st January 2003, such income of the Singapore Commodity Exchange Limited as may be prescribed;
 
 (q) the investment income of any approved pension or provident fund or society;
 
-(r) [Deleted by Act 29/65);]
+(r) the income derived on or after 3rd May 2002 by an individual not resident in Singapore from acting as an arbitrator, and for this purpose, “arbitrator” means an individual appointed for any arbitration which is governed by the Arbitration Act (Cap. 10) or the International Arbitration Act (Cap. 143A) or would have been governed by either of those Acts had the place of arbitration been Singapore;
 
 (s) sums payable by way of annual bounty out of the public revenue to members of such local forces as the Minister may from time to time by order declare to be a force to which this paragraph shall apply;
 
@@ -2031,6 +2183,10 @@ EXEMPTION FROM INCOME TAX
 
 (u) such interest derived during the period 1st January 2002 to 31st December 2004 by any person from the deposit of moneys of up to an aggregate amount of $100,000 in one or more of his POSB savings accounts with The Development Bank of Singapore Ltd;
 
+(ua) such interest derived during the period 1st January 2003 to 31st December 2004 by any individual resident in Singapore from the deposit of moneys in one or more of his POSB savings accounts with The Development Bank of Singapore Ltd;
+
+[49/2004 wef 30/11/2004]
+
 (v) the interest received from such Asian Dollar Bonds as may be approved in writing by the Minister or such person as he may appoint if the interest is received by —
 
 (i) a non-resident individual; and
@@ -2039,19 +2195,71 @@ EXEMPTION FROM INCOME TAX
 
 (w) the income derived from an employment exercised on board a Singapore ship, as defined in the Merchant Shipping Act (Cap. 179), if the employment is exercised substantially outside Singapore;
 
-(x) the income derived by a person resident in Singapore from any pension granted under any written law relating to pensions in Singapore, or from any pension paid under such other pensions scheme as may be approved by the Minister by notification in the Gazette to the extent of such amount of the pension as the Comptroller may determine relating to the period of employment of that person with the employer before 1st January 1993;
+(x) the income derived by a person resident in Singapore from any pension granted under any written law relating to pensions in Singapore, or from any pension paid under such other pensions scheme as may be approved by the Minister by notification in theGazetteto the extent of such amount of the pension as the Comptroller may determine relating to the period of employment of that person with the employer before 1st January 1993;
 
-(y) such income as may be prescribed by regulations under section 43A, 43C, 43E or 43N; and
+(y) such income as may be prescribed by regulations under section 43A, 43C, 43E or 43N;
 
-(z) such income derived by the Singapore Exchange Derivatives Trading Limited before 1st January 2004 as may be prescribed.
+(z) such income derived by the Singapore Exchange Derivatives Trading Limited before 1st January 2004 as may be prescribed;
 
-(2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 27th February 2003where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
+(za) any dividends accrued in or derived from Singapore on or after 1st January 2003 paid by any company from which tax is not deductible and not deducted under section 44;
+
+(zb) any subsidy, allowance or benefit provided by an employer to an employee for the attendance by any child of the employee at a child care centre licensed under the Child Care Centres Act (Cap. 37A);
+
+(zc) the prescribed amount of interest derived during the period 1st January 2003 to 31st December 2004 by any individual from the deposit in any standard savings, current or fixed deposit account with an approved bank or a finance company licensed under the Finance Companies Act (Cap. 108);
+
+(zd) the interest derived on or after 1st January 2005 by any individual from the deposit of moneys with an approved bank or a finance company licensed under the Finance Companies Act in Singapore; and
+
+[49/2004 wef 30/11/2004]
+
+[34/2005 wef 07/11/2005]
+
+(ze) the following income derived from Singapore on or after 1st January 2004 by any individual:
+
+(i) any interest from debt securities;
+
+(ii) any discount from debt securities which mature within one year from the date of issue of those securities;
+
+(iii) any income from an annuity, except income from —
+
+(A) any annuity purchased by the employer of an individual in lieu of any pension or other benefit payable during his employment or upon his retirement; and
+
+(B) any annuity purchased under SRS;
+
+(iv) any income from any life insurance policy, except income referred to in section 10(3);
+
+(v) any distribution made by any collective investment scheme constituted as a unit trust (including any real estate investment trust) authorised under section 286 of the Securities and Futures Act (Cap. 289) and offered to the public for subscription, that is income or deemed to be income of the individual, except distributions made out of Singapore dividends from which tax is deducted or deductible under section 44; and
+
+(vi) any fee or compensatory payment from securities lending or repurchase arrangements,
+
+except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession ;
+
+[49/2004 wef 30/11/2004]
+
+(zg) any distribution made by any registered business trust.
+
+[34/2005 wef 21/09/2004]
+
+(zj) any income from any structured product offered by a financial institution derived from Singapore —
+
+(2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2008 where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
 
 (a) any related party of the issuer of those securities; or
 
 (b) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
 
-[32/99]
+[32/99; 21/2003]
+
+(2A) Subsection (1)(aa) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any discount derived from any qualifying debt securities where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such discount is derived by —
+
+(a) any related party of the issuer of those securities; or
+
+(b) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
+
+[49/2004 wef 27/02/2004]
+
+(2C)
+
+(2D)
 
 (3) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
 
@@ -2063,11 +2271,7 @@ EXEMPTION FROM INCOME TAX
 
 [5/77]
 
-### Income received in Singapore by temporary residents
-
-(5) There shall be exempt from tax for any year of assessment any income arising from sources outside Singapore and received by any individual who is not resident in Singapore in that year of assessment.
-
-[13/84]
+(5) [Deleted by Act 49/2004 wef 01/01/2004]
 
 ### Income derived by short term visiting employees
 
@@ -2081,63 +2285,131 @@ EXEMPTION FROM INCOME TAX
 
 (b) the gains or profits of public entertainers, as defined in section 40A, whose visits are not substantially supported from public funds of the government of another country.
 
-### Income received from outside Singapore
+(7A) There shall be exempt from tax any income arising from sources outside Singapore and received in Singapore —
 
-(8) The Minister may by order exempt from tax wholly or in part the income received by a person resident in Singapore from such sources in any country outside Singapore as may be specified in the order.
+(a) by any individual who is not resident in Singapore; and
 
-[9/80; 15/83]
+(b) on or after 1st January 2004 by any individual who is resident in Singapore if the Comptroller is satisfied that the tax exemption would be beneficial to the individual, but excludes such income received by him through a partnership in Singapore.
 
-(9) Any order made under subsection (8) may be either general or specific and may prescribe the conditions subject to which the income will be exempt from taxbut such conditions need not be included in the order for the purpose of publication in theGazette.
+[49/2004 wef 01/01/2004]
 
-[9/80]
+(8) Where the conditions specified in subsection (9) are satisfied, there shall be exempt from tax —
 
-(10) Where any income is exempt from taxby virtue of an order made under subsection (8) and the income is received by a company which is resident in Singapore —
+(a) any dividend derived from any territory outside Singapore;
 
-(a) an amount equal to the incomeshall be credited to an account to be kept by the company for the purpose of this subsection; and
+(b) any profit derived from any trade or business carried on by a branch in any territory outside Singapore of a company resident in Singapore; and
 
-(b) subsections (3) to (10), (12) and (13) of section 13E shall apply, with the necessary modifications, to the company in respect of a distribution of dividends from the income as if the company were a company referred to in section 13E(3).
+(c) any income derived from any professional, consultancy and other services rendered in any territory outside Singapore only if the Comptroller is satisfied that the income is derived, for the purposes of this Act, from outside Singapore,
 
-[32/95]
+and received in Singapore —
 
-(11) For the purposes of subsection (1)(a) —
+(i) on or after 1st June 2003 by any person, not being an individual, resident in Singapore;
+
+(ii) during 1st June 2003 to 31st December 2003 by any individual resident in Singapore; and
+
+(iii) on or after 1st January 2004 by any individual resident in Singapore through a partnership in Singapore.
+
+[49/2004 wef 01/01/2004]
+
+(9) The conditions referred to in subsection (8) are —
+
+(a) the income is subject to tax of a similar character to income tax (by whatever name called) under the law of the territory from which the income is received;
+
+(b) at the time the income is received in Singapore by the person resident in Singapore, the highest rate of tax of a similar character to income tax (by whatever name called) levied under the law of the territory from which the income is received on any gains or profits from any trade or business carried on by any company in that territory at that time is not less than 15%; and
+
+(c) the Comptroller is satisfied that the tax exemption would be beneficial to the person resident in Singapore.
+
+[21/2003]
+
+(10) Where the income referred to in subsection (8) consists of dividends paid by a company, the tax referred to in subsection (9)(a) shall be —
+
+(a) where the company is resident in the territory from which the dividends are received, the tax paid in that territory by the company in respect of its income out of which the dividends are paid; and
+
+(b) the tax paid on the dividends in the territory from which the dividends are received.
+
+[21/2003]
+
+(11) The Minister may make regulations generally to give full effect to or for carrying out the purposes of subsection (8).
+
+[21/2003]
+
+(12) The Minister may by order —
+
+(a) exempt from tax wholly or in part; or
+
+(b) provide that tax at such concessionary rate of tax be levied and paid on,
+
+the income received by a person resident in Singapore from such source in any country outside Singapore as may be specified in the order.
+
+[37/2002]
+
+(13) Any order made under subsection (12) may be either general or specific and may prescribe the conditions subject to which the income will be exempt from tax or be taxed at a concessionary rate of tax but such conditions need not be included in the order for the purpose of publication in theGazette.
+
+[9/80; 37/2002]
+
+(14) Where any income is exempt from tax under subsection (8), or is exempt from tax or is taxed at a concessionary rate of tax by virtue of an order made under subsection (12) and the income is received by a company which is resident in Singapore (other than income derived from Malaysia and received in Singapore on or after 1st June 2003 by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order) —
+
+(a) an amount equal to the income exempt from tax or an amount equal to the net income after deduction of tax levied at the concessionary rate of tax, as the case may be, shall be credited to an account to be kept by the company for the purpose of this subsection; and
+
+(b) subsections (3) to (11) of section 13E shall apply, with the necessary modifications, to the company in respect of a distribution of dividends from the income as if the company were a company referred to in section 13E(3).
+
+[32/95; 37/2002; 21/2003]
+
+(15) The Minister may, at any time, by rules made under section 7, add to, vary or amend the list of commodities mentioned in subsection (1)(n).
+
+[29/65]
+
+(16) In this section —
+
+“approved bank” means a bank in Singapore approved by the Minister by order in theGazette;
 
 “approved bond intermediary” means a financial institution approved as such by the Minister or such person as he may appoint;
 
 “debt securities” has the same meaning as in section 43N;
 
+“child”, in relation to an employee, means any legitimate child, illegitimate child, step-child, child adopted in accordance with any written law relating to the adoption of children and any child whom the employee is the legal guardian;
+
+“deposit”, in relation to any standard savings, current or fixed deposit account referred to in subsection (1)(zc)and (zd), means any deposit of moneys but does not include —
+
+(a) any deposit of moneys the interest from which is determined by the performance of any securities or by the fluctuations in currency exchange rates or by any combination thereof; and
+
+(b) any other prescribed deposit;
+
 “financial institution” means an institution licensed or approved by the Monetary Authority of Singapore, and includes an institution approved as an approved Fund Manager under section 43A and an institution approved as a Finance and Treasury Centre under section 43G;
+
+“financial sector incentive (bond market) company” means a company approved as such by the Minister or such person as he may appoint;
 
 “qualifying debt securities” means —
 
-(a) Singapore Government securities issued during the period from 28th February 1998 to 27th February 2003;
+(a) Singapore Government securities issued during the period from 28th February 1998 to 31st December 2008;
 
 (b) bonds, notes, commercial papers and certificates of deposits which are arranged in accordance with regulations made for this purpose —
 
-(i) by any financial institution in Singapore and issued during the period from 28th February 1998 to 27th February 2003; or
+(i) by any financial institution in Singapore and issued during the period from 28th February 1998 to 31st December 2008;
 
-(ii) by any approved bond intermediary and issued during the period from 27th February 1999 to 27th February 2003,
+(ii) by any approved bond intermediary and issued —
+
+(A) during the period from 27th February 1999 to 31st December 2008 under any prescribed programme the arrangement of which is completed on or before 31st December 2003; or
+
+(B) during the period from 27th February 1999 to 31st December 2003 in any other case; or
+
+(iii) by any financial sector incentive (bond market) company and issued during the period from 1st January 2004 to 31st December 2008,
 
 but, unless otherwise approved by the Minister or such person as he may appoint, excludes any debt securities issued on or after 10th May 1999 which, during its primary launch —
 
-(iii) are issued to less than 4 persons; and
+(AA) are issued to less than 4 persons; and
 
-(iv) 50% or more of the issue of debt securities is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities;
+(BB) 50% or more of the issue of debt securities is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities;
 
 “related party”, in relation to a person, means any other person who, directly or indirectly, controls that person, or is controlled, directly or indirectly, by that person, or where he and that other person, directly or indirectly, are under the control of a common person;
 
+“securities lending or repurchase arrangement” has the same meaning as in section 10N(12);
+
+[49/2004 wef 01/01/2004]
+
 “Singapore Government securities” has the same meaning as in section 43N.
 
-[31/98; 32/99]
-
-(12) The Minister may, at any time, by rules made under section 7, add to, vary or amend the list of commodities mentioned in subsection (1)(n).
-
-[29/65]
-
-(13) In this section, “approved bank” means a bank in Singapore approved by the Minister by order in theGazette.
-
-[23/69; 5/77]
-
-[26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001]
+[31/98; 32/99; 21/2003]
 
 ### Exemption of shipping profits
 
@@ -2425,27 +2697,23 @@ as the case may be.
 
 (i) the carriage of passengers, mails, livestock or goods from outside the limits of the port of Singapore by any foreign ship;
 
-(ii) the charter of any foreign ship to a person not resident in Singapore (excluding any permanent establishment in Singapore) or to another approved international shipping enterprise where such ship is used by that person or enterprisefor the carriage of passengers, mails, livestock or goods outside the limits of the port of Singapore; and
+(ii) the charter of any foreign ship to any person where such ship is used by the person for the carriage of passengers, mails, livestock or goods outside the limits of the port of Singapore; and
 
 (iii) the carriage of passengers, mails, livestock or goods by any foreign ship to Singapore solely for the purpose of transhipment;
 
-(b) for the year of assessment 2000 and subsequent years of assessment from —
+(b) for the year of assessment 2005 and subsequent years of assessment from —
 
-(i) the operation outside the limits of the port of Singapore of any floating production storage offloading ship or floating storage offloading ship; and
+(i) the operation outside the limits of the port of Singapore of any dredger, seismic ship or any vessel used for offshore oil or gas activity; and
 
-(ii) the charter of any foreign floating production storage offloading ship or foreign floating storage offloading ship to a person not resident in Singapore (excluding any permanent establishment in Singapore) or to another approved international shipping enterprisewhere such ship is used by that person or enterprise for its operation outside the limits of the port of Singapore;
+(ii) the charter of any foreign dredger, foreign seismic ship, or any foreign vessel used for offshore oil or gas activity to any person where such dredger, seismic ship or vessel is used by the person for his operation outside the limits of the port of Singapore;
+
+[49/2004 wef 30/11/2004]
 
 (c) for the year of assessment 2003 and subsequent years of assessment from —
 
-(i) towing or salvage operations carried out from outside the limits of the port of Singapore by any foreign ship;
+(i) towing or salvage operations carried out from outside the limits of the port of Singapore by any foreign ship; and
 
-(ii) the charter of any foreign ship to a person not resident in Singapore (excluding any permanent establishment in Singapore) or to another approved international shipping enterprise where such ship is used by that person or enterprise for towage and salvage operations carried out outside the limits of the port of Singapore;
-
-(iii) the operation outside the limits of the port of Singapore of any dredger, seismic ship or semi- submersible rig; and
-
-(iv) the charter of any semi-submersible rig, foreign dredger or foreign seismic ship to a person not resident in Singapore (excluding any permanent establishment in Singapore) or to another approved international shipping enterprise where the same is used by that person or enterprise for its operation outside the limits of the port of Singapore.
-
-[37/2002]
+(ii) the charter of any foreign ship to any person where such ship is used by the person for towage and salvage operations carried out outside the limits of the port of Singapore.
 
 (2) The exemption shall be for such period not exceeding 10 years as the Minister may specify in approving each case, except that the Minister may extend the period so specified for such further periods, not exceeding 10 years at any one time, as he thinks fit.
 
@@ -2965,6 +3233,8 @@ B is the amount of contribution which would have been required to be made by the
 
 “relevant employment income”, in relation to an NOR individual, means —
 
+[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
+
 where
 
 C is the number of days in the year preceding that year of assessment for which the NOR individual is not physically present in Singapore by reason of the exercise of any employment in Singapore;
@@ -2979,17 +3249,11 @@ such perquisite as may be determined by the Comptroller;
 
 (b)
 
-leave pay;
+leave pay; and
 
 (c)
 
-director’s fee; and
-
-(d)
-
-gains or profits from employment deemed to be income of the NOR individual under section 51(1).
-
-[37/2002]
+director’s fee.
 
 ### Exemption of income derived from asset securitisation transaction
 
@@ -3046,6 +3310,12 @@ Provided that in the case of any contribution to the Central Provident Fund or a
 (D) commencing on or after 1st April 2000 and before 1st January 2001 shall not exceed 12%;
 
 (E) commencing on or after 1st January 2001 shall not exceed 16%,
+
+(F) commencing on or after 1st October 2003 shall not exceed 13%,
+
+[49/2004 wef 30/11/2004]
+
+[53/2007 wef 01/07/2007]
 
 of the remuneration paid by the employer to the employee for that period, and “remuneration” in this proviso means that part of an employee’s emoluments by reference to which his employer’s contributions are calculated;
 
@@ -3290,8 +3560,6 @@ ought not to have been so allowed or exempted, as the case may be, the Comptroll
 “master intellectual property licence” means any licence under which the licensor authorises or permits the licensee to use in Singapore or overseas the rights under a patent, copyright, trademark, design or know-how, including the sub-licensing of the same.
 
 [32/95; 31/98]
-
-14C\. [Repealed by Act 31/98]
 
 ### Further deduction for logistics expenses
 
@@ -3843,10 +4111,6 @@ A is the amount of upfront land premium paid; and
 
 B is the number of years of the term of the designated lease for which the upfront land premium was paid.
 
-where A is the amount of upfront land premium paid; and
-
-B is the number of years of the term of the designated lease for which the upfront land premium was paid.
-
 (2) Where an assignee has incurred any expenditure in acquiring the remaining term of a designated lease for the construction or use of a building or structure for the purposes of carrying on any qualifying activity, there shall, subject to this section, be allowed to the assignee, for each year of assessment in the basis period for which the qualifying activity is carried on, a deduction of an amount of such expenditure ascertained by the formula
 
 where
@@ -4089,6 +4353,10 @@ whichever is the greater, and so on for any subsequent sales.
 
 [7/79]
 
+(13) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where, in the basis period for any year of assessment, the trade, for which purpose the industrial building is used, produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004 wef 30/11/2004]
+
 ### Balancing allowances and charges for industrial buildings and structures
 
 17\.—(1) Where any capital expenditure has been incurred on the construction of a building or structure and, in or after the basis period for the first year of assessment under this Act, any of the following events occurs while the building or structure is an industrial building or structure or after it has ceased to be one:
@@ -4117,11 +4385,19 @@ an allowance or charge, to be known as a “balancing allowance” or a “balan
 
 (5) If the sale, insurance, salvage or compensation moneys exceed the residue, if any, of the expenditure immediately before the event, a balancing charge shall be made and the amount on which it is made shall be an amount equal to the excess or, where the residue is nil, to the moneys.
 
-(6) Notwithstanding anything in subsection (5), in no case shall the amount on which a balancing charge is made on a person exceed the aggregate of the following amounts:
+(6) Notwithstanding anything in subsection (5) but subject to subsection (7), in no case shall the amount on which a balancing charge is made on a person exceed the aggregate of the following amounts:
 
 (a) the amount of the initial allowance, if any, made to him in respect of the expenditure in question; and
 
 (b) the amount of the annual allowances, if any, made to him in respect of the expenditure in question.
+
+(7) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act, where, in the basis period for any year of assessment, the trade, for which purpose the industrial building is used, produces income that is exempt from tax as well as income chargeable with tax, and any balancing allowance or balancing charge arises to be made —
+
+(a) the balancing allowance shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances; and
+
+(b) such proportion of the balancing charge shall be exempt from tax as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004 wef 30/11/2004]
 
 ### Definitions for sections 16 and 17
 
@@ -4261,6 +4537,10 @@ D is the number of years of working life of the asset as specified in the Sixth 
 
 [32/99]
 
+(5A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where, in the basis period for any year of assessment, the trade, profession or business, for which purpose the machinery or plant is provided, produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004 wef 30/11/2004]
+
 (6) In subsection (1), “prescribed” means prescribed by an order made by the Minister.
 
 (7) Every order made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
@@ -4334,6 +4614,10 @@ for the purposes of a trade, business or profession carried on by him, he shall,
 (14) Where any allowance has been claimed and allowed under section 19 in respect of any expenditure, no allowances shall, except with the approval of the Minister and subject to such conditions as he may impose, be made in any subsequent year of assessment under this section in respect of the amount of that expenditure remaining unallowed under section 19.
 
 [15/83; 13/84; 20/91; 28/96; 31/98; 32/99]
+
+(14A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act, (Cap. 86) where, in the basis period for any year of assessment, the trade, profession or business, for which purpose the machinery or plant is provided, produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004 wef 30/11/2004]
 
 (15) In this section —
 
@@ -4533,6 +4817,14 @@ A is the capital expenditure incurred in acquiring the intellectual property rig
 
 B is the total amount of any charges made under this section in any previous years of assessment in respect of that expenditure.
 
+(6A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where, in the basis period for any year of assessment, the trade or business, in which the intellectual property rights are used, produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004 wef 30/11/2004]
+
+(6B) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act, where, in the basis period for any year of assessment, the trade or business, in which the intellectual property rights are used, produces income that is exempt from tax as well as income chargeable with tax, and any charge under subsection (4) or (5) arises to be made, such proportion of that charge shall be exempt from tax as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004 wef 30/11/2004]
+
 (7) For the purpose of this section, any sale, transfer or assignment of any intellectual property rights which occurs after the date on which the trade or business of a company permanently ceases shall be deemed to have occurred immediately before the cessation.
 
 [24/2001; 21/2003]
@@ -4596,6 +4888,16 @@ the amount or value of any consideration therefor shall, so far as it is not cha
 (10) Any event referred to in subsection (6) which occurs after the date on which the relevant trade or business permanently ceases shall be deemed to have occurred immediately before the cessation.
 
 (11) Where a person to whom writing-down allowances have been made under this section is entitled to royalty or other payments in one lump sum or otherwise for the use of or right to use any technology or know-how developed from the research and development activities carried out under any approved cost-sharing agreement, such royalty or payments shall be deemed to be income derived from Singapore for the year of assessment which relates to the basis period in which the person is entitled to the royalty or payments, as the case may be.
+
+(11A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where, in the basis period for any year of assessment, the relevant trade or business produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004 wef 30/11/2004]
+
+(11B) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act, where, in the basis period for any year of assessment, the relevant trade or business, produces income that is exempt from tax as well as income chargeable with tax, and the event referred to in subsection (6)(d) occurs, such proportion of any amount or value of any consideration treated as a trading receipt under that subsection shall be exempt from tax as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004 wef 30/11/2004]
+
+[7/2007 wef 17/02/2006]
 
 (12) In this section —
 
@@ -4697,6 +4999,18 @@ and so on for any subsequent sale, transfer or assignment of the IRU.
 
 [21/2003]
 
+(12A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where, in the basis period for any year of assessment, the relevant trade, business or profession produces income that is exempt from tax as well as income chargeable with tax, the allowances for that year of assessment shall be made against each income in that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004 wef 30/11/2004]
+
+(12B) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act, where, in the basis period for any year of assessment, the relevant trade, business or profession produces income that is exempt from tax as well as income chargeable with tax, and any balancing allowance or balancing charge arises to be made —
+
+(a) the balancing allowance shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances; and
+
+(b) such proportion of the balancing charge shall be exempt from tax as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004 wef 30/11/2004]
+
 (13) In this section —
 
 “capital expenditure” does not include legal fees, registration fees, stamp duty and other costs related to the acquisition of any IRU;
@@ -4747,7 +5061,7 @@ an allowance or charge, to be known as a balancing allowance or a balancing char
 
 [13/84]
 
-(5) Notwithstanding anything in this section, where a balancing allowance or balancing charge falls to be made under subsection (1) in respect of a motor car to which section 19(3) applies, the sum to be taken in lieu of the open-market price or sale, insurance, salvage or compensation moneys for the purpose of calculating such balancing allowance or charge shall be ascertained in accordance with the formula
+(5) Notwithstanding anything in this section but subject to subsection (6A), where a balancing allowance or balancing charge falls to be made under subsection (1) in respect of a motor car to which section 19(3) applies, the sum to be taken in lieu of the open-market price or sale, insurance, salvage or compensation moneys for the purpose of calculating such balancing allowance or charge shall be ascertained in accordance with the formula
 
 where
 
@@ -4758,6 +5072,14 @@ B is the capital expenditure incurred in respect of the motor car.
 (6) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(4)(a) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276).
 
 [9/80; 1/98]
+
+(6A) Unless otherwise provided in this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), where, in the basis period for any year of assessment, the trade, profession or business, for which purpose the machinery or plant is provided, produces income that is exempt from tax as well as income chargeable with tax, and any balancing allowance or balancing charge arises to be made —
+
+(a) the balancing allowance shall be made against each income for that year of assessment in such proportion as appears reasonable to the Comptroller in the circumstances; and
+
+(b) such proportion of the balancing charge shall be exempt from tax as appears reasonable to the Comptroller in the circumstances.
+
+[49/2004 wef 30/11/2004]
 
 (7) In this section, “open-market price”, in relation to any machinery or plant, means the price which the machinery or plant would have fetched if sold in the open market at the time of the event in question; except that where the Comptroller is satisfied by reason of the special nature of any machinery or plant that it is not practicable to determine an open-market price, he may adopt such other value as appears to him to be reasonable in the circumstances.
 
@@ -4821,7 +5143,7 @@ B is the capital expenditure incurred in respect of the motor car.
 
 [13/84]
 
-(3) Where any allowance for any year of assessment falling to be made to any person under section 16, 17, 18A (repealed), 19, 19A, 19B, 19C, 19D or 20 is deducted against income of the person from other sources under section 35(1)issued share capital , the amount of such allowance shall be deducted from the balance in subsection (1).
+(3) Where any allowance for any year of assessment falling to be made to any person under section 16, 17, 18A (repealed), 19, 19A, 19B, 19C, 19D or 20 is deducted against income of the person from other sources under section 35(1)issued share capital, transferred to a claimant company under section 37C or to a spouse under section 37D , the amount of such allowance shall be deducted from the balance in subsection (1).
 
 [21/2003]
 
@@ -5119,7 +5441,7 @@ and where any such risk is in transit in Singapore, it shall be deemed to be out
 
 (b) in the event of the exercise of the power, the settlor or the wife or husband of the settlor will or may become beneficially entitled to the whole or any part of the property then comprised in the settlement, or of the income arising from the whole or any part of the property so comprised,
 
-all income arising under the settlement from the property comprised in the settlement shall be deemed to be income of the settlor and, subject to section 51, not income of any other person.
+all income arising under the settlement from the property comprised in the settlement shall be deemed to be income of the settlor and not income of any other person.
 
 (3) Subsection (2) shall not apply by reason only that the settlor or the wife or husband of the settlor will or may become beneficially entitled to any income or property relating to the interest of any beneficiary under the settlement in the event that the beneficiary should die before him.
 
@@ -5213,6 +5535,14 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 [21/2003]
 
+(2A) A deduction under subsection (2) shall be made in the following order:
+
+(a) firstly, against income from any trade, business, profession or vocation; and
+
+(b) secondly, against income from any other source.
+
+[49/2004 wef 30/11/2004]
+
 (3) For the purposes of subsection (2), the balance of allowance for the earliest year of assessment shall be deemed to have been deducted first, followed by the balance of allowance for the next earliest year of assessment, and so on.
 
 [21/2003]
@@ -5229,9 +5559,15 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 (d) derived during the period from 1st January 2000 to 31st December 2000 shall be treated as his statutory income for the year of assessment 2001 and be charged to tax at the rate applicable to him for that year of assessment;
 
-(e) derived during the period from 1st January 2001 to 31st December 2001 shall be treated as his statutory income for the year of assessment 2002 and be charged to tax at the rate applicable to him for that year of assessment.
+(e) derived during the period from 1st January 2001 to 31st December 2001 shall be treated as his statutory income for the year of assessment 2002 and be charged to tax at the rate applicable to him for that year of assessment
 
 [1/90; 20/91; 28/92; 26/93; 1/98; 24/2000; 24/2001; 37/2002]
+
+(f) derived during the period from 1st January 2003 to 31st December 2003 shall be treated as his statutory income for the year of assessment 2004 and be charged to tax at the rate applicable to him for that year of assessment.
+
+[49/2004 wef 30/11/2004]
+
+[53/2007 wef 06/12/2007]
 
 (6) Where the statutory income of any personfrom a trade, business, profession or vocation has been computed by reference to an account made up to a certain day, and such person fails for any reason whatsoever to make up an account to the corresponding day in the year following, the statutory incomefrom the trade, business, profession or vocation both of the year of assessment in which such failure occurs and of the 2 years of assessment following shall be computed on such basis as the Comptroller in his discretion thinks fit.
 
@@ -5313,6 +5649,102 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 (2) This section shall not be deemed to apply to any trade, business, profession or vocation carried on by a Hindu joint family.
 
+### Limited liability partnership
+
+36A\.—(1) For the purposes of this Act, where a limited liability partnership carries on a trade, business, profession or vocation —
+
+(a) all the activities of the partnership shall be treated as carried on in partnership by its partners (and not by the partnership as such);
+
+(b) anything done by, to or in relation to the partnership for the purposes of, or in connection with, any of its activities shall be treated as done by, to or in relation to the partners; and
+
+(c) the property of the partnership shall be treated as held by the partners as partnership property.
+
+(2) For the purposes, except as otherwise provided, of this Act —
+
+(a) references to a partnership include a limited liability partnership in relation to which subsection (1) applies;
+
+(b) references to partners of a partnership include partners of such a limited liability partnership;
+
+(c) references to a company do not include such a limited liability partnership; and
+
+(d) references to shareholders of a company do not include partners of such a limited liability partnership.
+
+(3) In ascertaining the income of a limited liability partnership for the purpose of section 36(1)(a), section 10E shall apply to income from any business of the making of investments as if the limited liability partnership is a company.
+
+(4) For any year of assessment, the amount of relevant deductions that may be allowed to or transferred by a partner of a limited liability partnership shall not exceed —
+
+(a) in the case of a relevant deduction allowed to him under section 35(2), an amount equal to the amount ascertained in accordance with the formula
+
+(b) in the case of a relevant deduction allowed to him under section 37(3)(a), an amount equal to the amount ascertained in accordance with the formula
+
+(c) in the case of a transferred deduction transferred by him, an amount equal to the amount ascertained in accordance with the formula
+
+where
+
+A
+
+is his contributed capital in that year of assessment;
+
+B
+
+is the past relevant deductions already allowed to him;
+
+C
+
+is the relevant deduction allowed to him in that year of assessment under section 35(2); and
+
+D
+
+is the relevant deduction allowed to him in that year of assessment under section 37(3)(a).
+
+(5) If, as a result of any reduction in the contributed capital of a partner of a limited liability partnership in any year of assessment, the past relevant deductions already allowed to him exceeds his contributed capital, the excess shall be deemed to be income of the partner chargeable with tax under section 10(1)(g) for that year of assessment, and an amount equal to the excess shall be deemed to be a loss incurred by him in the trade, business, profession or vocation of the limited liability partnership.
+
+(6) Subsections (4) and (5) shall not apply in the year of assessment relating to the basis period in which the partner ceases to be a partner of a limited liability partnership or in any subsequent year of assessment.
+
+(7) For the purposes of any allowances made under section 16, 17, 19, 19A, 19B, 19C, 19D, 20 or 23, where —
+
+(a) any person is admitted to or withdraws from a limited liability partnership as a partner thereof; and
+
+(b) one or more persons remain as partners of the limited liability partnership after the admission or withdrawal of that person,
+
+the interest of that person in any property of the limited liability partnership shall be deemed to be —
+
+(i) where he is admitted to the limited liability partnership as a partner, sold to him by all the remaining partners; or
+
+(ii) where he withdraws from the limited liability partnership as a partner, sold by him to all the remaining partners.
+
+(8) The precedent partner of a limited liability partnership shall make and deliver, together with a return of the income of the limited liability partnership under section 71 or when required by the Comptroller by notice in writing, a return of the contributed capital of each partner of the limited liability partnership for any year of assessment.
+
+(9) For the purposes of this section, the Minister may make regulations to provide generally for giving full effect to or for carrying out the purposes of this section.
+
+(10) In this section —
+
+“activities of the limited liability partnership” means anything done by the limited liability partnership, whether or not in the course of carrying on a trade, business, profession or vocation;
+
+“contributed capital”, in relation to a partner of a limited liability partnership for any year of assessment, means the aggregate of —
+
+(a) the amount, as at the end of the basis period for the year of assessment to be determined by the Comptroller, which he has contributed (in cash or in kind but not including any loan by him to the limited liability partnership) to the limited liability partnership as capital, and has not, directly or indirectly, drawn out or received back (whether as a distribution or a loan from the limited liability partnership or otherwise); and
+
+(b) the amount, as at the end of the basis period for the year of assessment to be determined by the Comptroller, of any profits or gains of the trade, business, profession or vocation from any past year of assessment to which he is entitled as a partner but which he has not, directly or indirectly, received (whether as a distribution or a loan from the limited liability partnership or otherwise);
+
+“past relevant deductions”, in relation to a partner of a limited liability partnership in any year of assessment, means the aggregate of any relevant deductions allowed to the partner less any amount deemed under subsection (5) to be income chargeable with tax in any year of assessment before that year of assessment;
+
+“precedent partner” has the same meaning as in section 71;
+
+“relevant deductions”, in relation to a partner of a limited liability partnership, means —
+
+(a) any deduction allowed to the partner under section 35(2) of any allowance arising from any trade, business or profession carried on by the limited liability partnership;
+
+(b) any deduction allowed to the partner under section 37(3)(a) of any loss incurred in any trade, business, profession or vocation carried on by the limited liability partnership that is made against his statutory income from any other source; or
+
+(c) any transferred deduction transferred by the partner,
+
+as the case may be;
+
+“transferred deduction”, in relation to a partner of a limited liability partnership, means any allowance arising from any trade, business or profession, or any loss incurred in any trade, business, profession or vocation carried on by the limited liability partnership that is transferred by him to a claimant company under section 37C or to a spouse under section 37D.
+
+[49/2004 wef 30/11/2004]
+
 ### Registered business trusts
 
 36B\.—(1) For the purposes of this Act, except as otherwise provided, references to a company shall be read as including a reference to a registered business trust or, as the context requires, to the trustee-manager of a registered business trust subject to the following modifications:
@@ -5393,7 +5825,7 @@ ASCERTAINMENT OF ASSESSABLE INCOME
 
 (i) any artefact made by him in the year preceding the year of assessment to an approved museum; or
 
-(ii) any sculpture for public display outdoors made by him in the year preceding the year of assessment to an approved recipient not being an approved museum22%
+(ii) any sculpture for public display outdoors made by him in the year preceding the year of assessment to an approved recipient not being an approved museum
 
 and for this purpose, “approved” means approved by the Minister or such person as he may appoint;
 
@@ -5413,11 +5845,21 @@ made by an individual in the year preceding the year of assessment to any instit
 
 [31/86; 1/90; 26/93; 31/98; 24/2001; 37/2002; 21/2003]
 
-(4) A deduction under subsection (3)(a)(i) shall be made as far as possible from the statutory income of the first year of assessment after the year in which such loss was incurred, and, so far as it cannot be so made, then from the statutory income of the next year of assessment, and so on.
+(4) A deduction under subsection (3)(a)(i) shall be made in the following order:
 
-[37/2002]
+(a) firstly, against statutory income from the same trade, business, profession or vocation;
 
-(5) Where, in any year of assessment, the amount of loss incurred by any person during the year preceding the year of assessment is not fully deducted under subsection (3)(a)(ii), the balance of such loss, after deducting any amount of such loss transferred to a claimant company under section 37C , shall be available for deduction against his statutory income for subsequent year of assessment under subsection (3)(a)(i).
+(b) secondly, against statutory income from any other trade, business, profession or vocation; and
+
+(c) thirdly, against statutory income from any other source.
+
+[49/2004 wef 30/11/2004]
+
+(4A) A deduction under subsection (3)(a)(i) shall be made as far as possible in the order specified in subsection (4) from the statutory income of the first year of assessment after the year in which such loss was incurred, and, so far as it cannot be so made, then from the statutory income of the next year of assessment, and so on.
+
+[49/2004 wef 30/11/2004]
+
+(5) Where, in any year of assessment, the amount of loss incurred by any person during the year preceding the year of assessment is not fully deducted under subsection (3)(a)(ii), the balance of such loss, after deducting any amount of such loss transferred to a claimant company under section 37C or to a spouse under section 37D , shall be available for deduction against his statutory income for subsequent year of assessment under subsection (3)(a)(i).
 
 [37/2002]
 
@@ -5455,7 +5897,7 @@ made by an individual in the year preceding the year of assessment to any instit
 
 (a) as far as possible against his statutory income of the first year of assessment after the year in which the donation was made by him; and
 
-(b) so far as the deduction cannot be so allowed, after deducting any of such sum transferred to a claimant company under section 37C, then from his statutory income of the next year of assessment,
+(b) so far as the deduction cannot be so allowed, after deducting any of such sum transferred to a claimant company under section 37C or to a spouse under section 37D, then from his statutory income of the next year of assessment,
 
 and so on, except that any balance of the donation not deducted against his statutory income of the sixth year of assessment from the first year of assessment in which the donation was made shall be disregarded.
 
@@ -5853,6 +6295,42 @@ and where the company has no residual profit, a notional amount of $100 is deeme
 
 [37/2002]
 
+### Transfer of qualifying deduction between spouses
+
+37D\.—(1) Subject to the provisions of this section, an individual may transfer any qualifying deduction for any year of assessment to a spouse living with him or her who has claimed the qualifying deduction against her or his assessable income for the same year of assessment.
+
+(2) Qualifying deductions shall be transferred to a claimant spouse in the following order:
+
+(a) any allowance specified in subsection (8)(a);
+
+(b) any loss specified in subsection (8)(b); and
+
+(c) any donation specified in subsection (8)(c).
+
+(3) For each type of qualifying deduction to be transferred in the order specified in subsection (2), any allowance, loss or donation (as the case may be) arising to the transferor in an earlier year of assessment shall be transferred first before any allowance, loss or donation arising to the transferor in a later year of assessment.
+
+(4) The amount of qualifying deduction to be transferred by a transferor to a claimant spouse is the lower of —
+
+(a) the amount of qualifying deduction available for transfer; and
+
+(b) the assessable income of the claimant spouse.
+
+(5) Any individual transferring or claiming a qualifying deduction under this section shall notify the Comptroller and make an election to transfer or claim qualifying deductions, as the case may be, not later than 30 days from the date of the service of the notice of assessment on the individual or his or her spouse, whichever is the later.
+
+(6) An election made by an individual under subsection (5) shall be irrevocable unless the Comptroller otherwise allows and shall be accompanied by such particulars as the Comptroller may require.
+
+(7) Where the Comptroller discovers that any transfer or claim of qualifying deduction which has been made from or to any individual is or has become excessive, he may make an assessment upon that individual under section 74 on the amount which, in his opinion, ought to have been charged to tax.
+
+(8) For the purposes of this section, subject to sections 35 and 37, qualifying deductions, in relation to an individual, for each year of assessment, are —
+
+(a) any allowance falling to be made under section 16, 17, 19, 19A, 19C, 19D or 20 that is in excess of the individual’s income from all sources chargeable with tax for that year of assessment;
+
+(b) any loss incurred by the individual in any trade, business, profession or vocation which, if it had been a profit, would have been assessable under this Act, and which is not deducted for that year of assessment because of insufficiency of statutory income of the individual; and
+
+(c) any donation made by the individual under section 37(3)(b), (c), (e) or (f) or (6) that is not deducted for that year of assessment because of insufficiency of statutory income of the individual.
+
+[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
+
 ## PART X
 
 ASCERTAINMENT OF CHARGEABLE INCOME AND PERSONAL RELIEFS
@@ -5881,7 +6359,9 @@ whichever is the less.
 
 Deduction for wife
 
-(a) had a wife living with or maintained by him, there shall be allowed a deduction equal to the amount by which the sum of $2,000 exceeds the amount of income chargeable in the wife’s own name;
+(a) had a wife, living with or maintained by him, whose income was not more than $2,000 in that year, there shall be allowed a deduction of $2,000;
+
+[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
 
 Deduction for alimony
 
@@ -5935,7 +6415,7 @@ Provided that in the case of any unmarried child incapacitated from maintaining 
 
 Deduction for delivery and hospitalisation expenses
 
-(f) incurred delivery and hospitalisation expenses in respect of a legitimate 4th child born to him or (6) and maintained by him, there shall be allowed a deduction against his earned income of the amount of such expenses or $3,000, whichever is the less:
+(f) incurred delivery and hospitalisation expenses in respect of a legitimate 4th child born to him or (6) during the period from 1st January 1988 to 31st July 2004 and maintained by him, there shall be allowed a deduction against his earned income of the amount of such expenses or $3,000, whichever is the less:
 
 Provided that where more than one individual is entitled to claim such deduction, the deduction shall be apportioned between the individuals in question in such proportion as they agree, or, in the absence of such agreement, in such proportion as appears to the Comptroller to be reasonable;
 
@@ -5960,6 +6440,10 @@ Provided that —
 (vii) notwithstanding sub-paragraph (iii), no deduction shall be allowed in respect of any sum contributed to the Central Provident Fund for any period on or after 1st January 1999 by an employee who holds a professional visit pass, an employment pass or a work permit ;
 
 (viii) no such deduction shall be allowed where the premiums for such insurance are paid with funds standing in his SRS account;
+
+(ix) in the case of an NOR individual who has elected for tax exemption under section 13N(1) for the year of assessment, no deduction shall exceed the contributions which would have been recoverable under section 7(2) of the Central Provident Fund Act (Cap. 36) in respect of his apportioned employment income for the year immediately preceding the year of assessment;
+
+[Act 49/2004, wef Y/A 2003 & Sub Ys/A:2004-ACT-49]
 
 Deduction for CPF contributions by self-employed
 
@@ -6033,7 +6517,7 @@ Deduction in respect of operationally ready national servicemen
 
 (ii) had not performed operationally ready national service but held a valid certificate issued by the proper authority certifying that he is entitled to the deduction under this sub-paragraph, there shall be allowed a deduction of $1,500;
 
-(m) was the wife or widow of an operationally ready national serviceman and was a citizen of Singapore who had not made a claim under paragraph (n) and had in the case of the wife elected for separate assessment under section 51(6), there shall be allowed a deduction of $750 subject to the following provisions:
+(m) was the wife or widow of an operationally ready national serviceman and was a citizen of Singapore who had not made a claim under paragraph (n), there shall be allowed a deduction of $750 subject to the following provisions:
 
 (i) the marriage to such national serviceman had not been dissolved by divorce or annulment at the end of the basis period for that year of assessment;
 
@@ -6067,15 +6551,35 @@ Deduction for contributions under Supplementary Retirement Scheme
 
 (ii) the amount of such contribution is withdrawn from his SRS account within the year immediately preceding the year of assessment:
 
-Provided that where an SRS member derives income from a trade, business, profession or vocation or the exercise of an employment outside Singapore, the deduction shall not exceed the amount of income remitted to, transmitted or brought into Singapore from outside Singapore.
+Provided that —
+
+(i) where an SRS member derives income from a trade, business, profession or vocation or the exercise of an employment outside Singapore, no deduction shall exceed the amount of income remitted to, transmitted or brought into Singapore from outside Singapore;
+
+(ii) where an SRS member is an NOR individual who has elected for tax exemption under section 13N(1) for the year of assessment, no deduction shall exceed the contributions to the SRS account in respect of his apportioned employment income for the year immediately preceding the year of assessment;
 
 [26/73; 4/75; 37/75; 1/82; 5/83; 31/86; 1/88; 1/90; 23/90; 20/91; 2/92; 28/92; 26/93; 11/94; 32/95; 28/96; 1/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003]
 
-(3) In the case of an individual resident in Singapore in the year of assessment who is a citizen or permanent resident in Singapore and who, in the year preceding the year of assessment, has paid money in accordance with section 18 of the Central Provident Fund Act (Cap. 36) to his, his parent’s or his grandparent’s retirement account, there shall be allowed a deduction of the amount of such payment or $6,000, whichever is the less.
+Deduction for grandparent caregiver
 
-[1/88; 24/2000]
+(p) was a married woman, widow or divorcee whose parent or grandparent, or parent or grandparent of her husband or of her previous husband —
 
-(4) The total deduction allowed under subsection (3) in respect of any amount paid by a person to his, his parent’s and his grandparent’s retirement accounts shall not exceed such amount as may be prescribed; and where more than one person is entitled to claim such deduction in respect of the same parent or grandparent, the deduction shall be apportioned in such manner as appears to the Comptroller to be reasonable.
+(i) was living in Singapore;
+
+(ii) was looking after any of her children who is a citizen of Singapore and is 12 years old and below at any time during the year preceding the year of assessment ; and
+
+(iii) was not carrying on any trade, business, profession, vocation or employment in that year,
+
+there shall be allowed against her earned income a deduction of $3,000 in respect of one such parent or grandparent only:
+
+Provided that a deduction under this paragraph in respect of that parent or grandparent shall be allowed to one woman only and where more than one woman claims a deduction under this paragraph in respect of the same parent or grandparent, a deduction shall be allowed to such claimant as the women may agree or, failing such agreement, to such claimant as determined by the Comptroller whose decision shall be final, and in this paragraph, “children” has the same meaning as “child” in the Fifth Schedule;
+
+[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
+
+(3) In the case of an individual resident in Singapore in the year of assessment who is a citizen or permanent resident in Singapore and who, in the year preceding the year of assessment, has paid money in accordance with section 18 of the Central Provident Fund Act (Cap. 36) to his, his spouse’s, his parent’s or his grandparent’s retirement account, there shall be allowed a deduction of the amount of such payment, or $7,000, whichever is the less, except that no payment made to his spouse’s retirement account shall be allowed as a deduction if the income of the spouse exceeds $2,000 in the year preceding the year of payment.
+
+[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
+
+(4) The total deduction allowed under subsection (3) in respect of any amount paid by a person to his, his spouse’s, his parent’s and his grandparent’s retirement accounts shall not exceed such amount as may be prescribed; and where more than one person is entitled to claim such deduction in respect of the same spouse, parent or grandparent, the deduction shall be apportioned in such manner as appears to the Comptroller to be reasonable.
 
 [24/2000]
 
@@ -6097,13 +6601,15 @@ Provided that where an SRS member derives income from a trade, business, profess
 
 (9) Where in any year an individual has made contributions to the Central Provident Fund or to a pension or provident fund designated under subsection (8), in addition to any other approved pension or provident fund, no deduction shall be allowed in respect of the whole of the contributions made to that approved pension or provident fund.
 
-(10) For the purposes of subsection (2)(g), where in any year an individual has made contributions (not being contributions under section 7(2) of the Central Provident Fund Act (Cap. 36)) to the Central Provident Fund in respect of overseas ordinary wages or overseas additional wages paid to him by any relevant employer in that year, no deduction shall include any contributions in respect of that part of his overseas total wages which exceeds $93,500, if his overseas additional wages exceed $27,500 and his overseas total wages exceed or transferred to a claimant company under section 37C$93,500.
+(10) For the purposes of subsection (2)(g), where in any year an individual has made contributions (not being contributions under section 7(2) of the Central Provident Fund Act (Cap. 36)) to the Central Provident Fund in respect of overseas ordinary wages or overseas additional wages paid to him by any relevant employer in that year, no deduction shall include any contributions in respect of that part of his overseas total wages which exceeds $93,500, if his overseas additional wages exceed $27,500 and his overseas total wages exceed $93,500.
 
 [11/94]
 
 (11) In the case of a woman resident in Singapore who, in the year immediately preceding the year of assessment, is —
 
-(a) living with her husband and who has elected to be charged in her own name under section 51(6);
+(a) living with her husband;
+
+[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
 
 (b) married and her husband is not resident in Singapore; or
 
@@ -6127,7 +6633,15 @@ there shall be allowed a deduction against her earned income equal to twice the 
 
 “additional wages” has the same meaning as in the Central Provident Fund Act (Cap. 36);
 
+“apportioned employment income” has the same meaning as in section 13N(7);
+
+[Act 49/2004, wef Y/A 2003 & Sub Ys/A:2004-ACT-49]
+
 “approved” means approved by the Minister or such person as he may appoint;
+
+“NOR individual” has the same meaning as in section 13N(7);
+
+[Act 49/2004, wef Y/A 2003 & Sub Ys/A:2004-ACT-49]
 
 “operationally ready national serviceman” means any person who has completed national service under the Enlistment Act (Cap. 93) or been deemed to have completed such service by the proper authority;
 
@@ -6421,87 +6935,83 @@ where 50% or more of the issue of those securities is beneficially held or funde
 
 ### Rebate for second, third and fourth child of family
 
-42A\.—(1) Where an individual resident in Singapore in the year of assessment has a legitimate second child of the family born to him on or after 1st January 1990, there shall, in respect of that child, be allowed for the year of assessment immediately following the year of birth of that child a rebate of —
+42A\.—(1) Where an individual resident in Singapore has —
 
-(a) $20,000 if at the time of birth the mother is married or widowed and is below 28 years of age;
+(a) a legitimate second child of the family born to him; or
 
-[24/2001]
+(b) a second child of the family adopted by him under any written law relating to the adoption of children,
 
-(b) $15,000 if at the time of birth the mother is married or widowed and is below 29 years of age;
+on or after 1st January 2004, there shall, in respect of that child, be allowed for the year of assessment immediately following the year of birth or adoption of that child, a rebate of $10,000 against the tax payable by that individual; but where more than one individual is entitled to claim such rebate in respect of that child, the rebate shall be apportioned between them in such proportion as they may agree, or, in the absence of any agreement, in such manner as appears to the Comptroller to be reasonable.
 
-(c) $10,000 if at the time of birth the mother is married or widowed and is below 30 years of age; and
+(2) Where an individual resident in Singapore has —
 
-(d) $5,000 if at the time of birth the mother is married or widowed and is below 31 years of age,
+(a) a legitimate third or fourth child of the family born to him; or
 
-against the tax payable by that individual; but where more than one individual is entitled to claim such rebate in respect of that child, the rebate shall be apportioned between them in such proportion as they may agree, or, in the absence of any agreement, in such manner as appears to the Comptroller to be reasonable.
+(b) a third or fourth child of the family adopted by him under any written law relating to the adoption of children,
 
-[20/91; 37/2002]
+on or after 1st January 2004, there shall, in respect of that child, be allowed for the year of assessment immediately following the year of birth or adoption of that child, a rebate of $20,000 against the tax payable by that individual; but where more than one individual is entitled to claim such rebate in respect of that child, the rebate shall be apportioned between them in such proportion as they may agree, or, in the absence of any agreement, in such manner as appears to the Comptroller to be reasonable.
 
-(2) Where an individual resident in Singapore in the year of assessment has a legitimate third child of the family born to him on or after 1st January 1987 or a legitimate fourth child of the family born to him on or after 1st January 1988, there shall, in respect of each child whose mother is married or widowed at the time of his birth, be allowed for the year of assessment immediately following the year of birth of each child —
+(3) For the purposes of subsections (1) and (2), where full effect cannot be given to the rebate in respect of any child by reason of an insufficiency of the tax payable by an individual for that year of assessment, the balance of the unabsorbed rebate shall be available for deduction against the tax payable by the individual for the year of assessment immediately following that year of assessment and any subsequent year of assessment.
 
-(a) a rebate of $20,000 against the tax payable by that individual; but where more than one individual is entitled to claim such rebate in respect of that child, the rebate shall be apportioned between them in such proportion as they may agree, or, in the absence of any agreement, in such manner as appears to the Comptroller to be reasonable; and
+(4) Where the second, third or fourth child in respect of whom a rebate is allowable to an individual under this section is adopted by another person, the rebate or balance, if any, of the unabsorbed rebate shall not be available for deduction against the tax payable by the individual for any year of assessment following the year in which the child is adopted.
 
-(b) subject to subsection (3), a rebate against the tax payable by a married woman, who has elected to be charged in her own name under section 51(6), of a sum equal to 15% of her earned income assessed for that year of assessment.
+(5) Where, for the year of assessment 2005 or any subsequent year of assessment, an individual would have been entitled to claim any rebate or balance of the unabsorbed rebate under section 42A(1) and (2)(a) in force immediately before 1st January 2005 but for the repeal of that section, such rebate or balance shall, subject to subsection (4), be available for deduction against the tax payable by that individual for the year of assessment 2005 and any subsequent year of assessment; but where more than one individual is entitled to claim such rebate, the rebate shall be apportioned between them in such proportion as they may agree, or, in the absence of any agreement, in such manner as appears to the Comptroller to be reasonable.
 
-[24/2001; 37/2002]
+(6) Where, for the year of assessment 2005 or any subsequent year of assessment, a married woman would have been entitled to claim any rebate or balance of the unabsorbed rebate under section 42A(2)(b) and (3) in force immediately before 1st January 2005 but for the repeal of that section —
 
-(3) Where a married woman has a legitimate third child or a legitimate fourth child born on or after 1st April 2001, the rebate to be allowed under subsection (2)(b) shall be subject to a maximum of $20,000 in respect of the third child and a maximum of $40,000 in respect of the fourth child.
+(a) such rebate or balance shall, subject to subsection (4), be available for deduction against the tax payable by that woman for the year of assessment 2005 and any subsequent year of assessment up to 9 years of assessment immediately following the year of birth of the third child or fourth child, as the case may be; and
 
-[24/2001]
+(b) where the fourth child is born within 9 years of the birth of the third child and full effect cannot be given to the rebate in respect of the fourth child by reason of an insufficiency of the tax payable by that woman for that year of assessment, the rebate or balance, if any, of the unabsorbed rebate shall, subject to subsection (4), be available for deduction, in the case of the fourth child, against the tax payable by that woman for up to 9 years of assessment immediately following the last year of assessment in which the rebate in respect of the third child may be allowed under paragraph (a).
 
-(4) For the purposes of subsections (1) and (2) —
+(7) Where, for the year of assessment 2005 or any subsequent year of assessment, a married woman would have been entitled to claim any rebate or balance of the unabsorbed rebate under section 42A(1), (2) and (3) in force immediately before 1st January 2005 but for the repeal of that section, the rebate or balance of the unabsorbed rebate in respect of the third child or fourth child, as the case may be, under section 42A(2)(b) and (3) in force immediately before 1st January 2005 shall —
 
-(a) where full effect cannot be given to the rebate in respect of each child by reason of an insufficiency of the tax payable for that year of assessment, the balance of the unabsorbed rebate shall be available for deduction against the tax payable for the year of assessment immediately following that year of assessment and so on for the next 7 subsequent years of assessment;
+(a) subject to subsection (4), first be allowed for deduction against the tax payable by that woman before the rebate or balance of unabsorbed rebate under section 42A(1) and (2)(a) in force immediately before 1st January 2005 is allowed; and
 
-(b) where the third child is born within 9 years of the birth of the second child or the fourth child is born within 9 years of the birth of the third child and full effect cannot be given to the rebate in respect of the third child or fourth child, as the case may be, by reason of an insufficiency of the tax payable for that year of assessment, the rebate or balance, if any, of the unabsorbed rebate shall be available for deduction against the tax payable for up to 9 years of assessment immediately following the last year of assessment in which the rebate in respect of the second or third child, as the case may be, may be allowed under paragraph (a);
+(b) subject to section 42A(4)(b) and (c) in force immediately before 1st January 2005, be available for deduction for the year of assessment 2005 and any subsequent year of assessment.
 
-(c) where the third child and the fourth child are born within 9 years of the birth of the second child and full effect cannot be given to the rebate in respect of the third or fourth child by reason of an insufficiency of the tax payable for that year of assessment, the rebate or balance, if any, of the unabsorbed rebate shall be available for deduction in the case of the third child, against the tax payable for up to 9 years of assessment immediately following the last year of assessment in which the rebate in respect of the second child may be allowed under paragraph (a) and in the case of the fourth child, against the tax payable for up to 9 years of assessment immediately following the last year of assessment in which the rebate in respect of the third child may be allowed under this paragraph; and
+(8) Where a marriage has been dissolved by divorce or annulment and an individual is entitled to claim —
 
-(d) where the second, third or fourth child in respect of whom a rebate is allowable under this section is adopted by another person within 9 years of his birth, the rebate or balance, if any, of the unabsorbed rebate shall not be available for deduction against the tax payable for any year of assessment following the year in which the child is adopted.
+(a) any rebate or balance of the unabsorbed rebate under section 42A(1) or (2) in force immediately before 1st January 2005, but for the repeal of that section, in respect of any child born to the individual from that marriage; and
 
-[11/94; 37/2002]
+(b) any rebate under section 42A(1) or (2) in force immediately before 1st January 2005, but for the repeal of that section, in respect of any child born to the individual after the dissolution of the marriage,
 
-(5) Where a marriage has been dissolved by divorce or annulment and an individual is entitled to claim —
+subsections (5), (6) and (7) shall only apply to any second, third or fourth child, as the case may be, born to the individual after the dissolution of the marriage.
 
-(a) any rebate or balance of the unabsorbed rebate under subsection (1) or (2) in respect of any child born to the individual from that marriage; and
+(9) Where a marriage was dissolved by divorce or annulment before 1st January 2002 and an individual would, but for section 42A(3)(e) in force immediately before that date, have been entitled to claim any rebate or balance of the unabsorbed rebate under section 42A(1) or (2) in force immediately before 1st January 2005, such rebate or balance shall, subject to subsection 42A(4)(a) to (d) in force immediately before 1st January 2005, be available for deduction against the tax payable by that individual only on due claim by that individual after that date and only for any year of assessment from the year of the claim.
 
-(b) any rebate under subsection (1) or (2) in respect of any child born to the individual after the dissolution of that marriage,
+(10) No rebate shall be allowed under this section in respect of a child who —
 
-subsection (4)(b) and (c) shall only apply to any second, third or fourth child, as the case may be, born to the individual after the dissolution of that marriage.
+(a) at the time of his birth or adoption , has more than 3 other siblings who are members of the same household; or
 
-[37/2002]
+(b) is adopted by an individual before the individual is married.
 
-(6) Where a marriage was dissolved by divorce or annulment before 1st January 2002 and an individual would, but for subsection (3)(e) in force immediately before that date, have been entitled to claim any rebate or balance of the unabsorbed rebate under subsection (1) or (2), such rebate or balance shall, subject to subsection (4)(a) to (d), be available for deduction against the tax payable by that individual only on due claim by that individual after that date and only for any year of assessment from the year of the claim or, in respect of any claim made in 2002, only from the year of assessment 2003.
+(11) In this section —
 
-[37/2002]
+“second child of the family” means a child of the family being a citizen of Singapore at the time of his birth or adoption, or within 12 months thereafter, and who, at the time of his birth or adoption, has one other sibling who is a member of the same household;
 
-(7) In this section —
+“third child of the family” means a child of the family being a citizen of Singapore at the time of his birth or adoption, or within 12 months thereafter, and who, at the time of his birth or adoption, has 2 other siblings who are members of the same household;
 
-“second child of the family” means a child of the family being a citizen of Singapore at the time of his birth or within 12 months thereafter and who has at the time of his birth one other sibling who is a member of the same household and who is a citizen of Singapore at that time or within 12 months thereafter;
+“fourth child of the family” means a child of the family being a citizen of Singapore at the time of his birth or adoption, or within 12 months thereafter, and who, at the time of his birth or adoption, has 3 other siblings who are members of the same household;
 
-“third child of the family” means a child of the family being a citizen of Singapore at the time of his birth or within 12 months thereafter and who has at the time of his birth 2 other siblings who are members of the same household and who are citizens of Singapore at that time or within 12 months thereafter;
+“sibling” means a brother or sister and includes a step-brother, a step-sister and a brother or sister adopted under any written law relating to the adoption of children.
 
-“fourth child of the family” means a child of the family being a citizen of Singapore at the time of his birth or within 12 months thereafter and who has at the time of his birth 3 other siblings who are members of the same household and who are citizens of Singapore at that time or within 12 months thereafter;
+(12) For the purposes of subsection (11), any sibling who is deceased shall be taken into account in determining the number of siblings a child has at the time of his birth or adoption unless otherwise determined by the Comptroller.
 
-“sibling” means a brother or sister and includes a step-brother or step-sister, or a brother or sister adopted in accordance with any written law relating to adoption.
-
-(8) For the purposes of subsection (7), any sibling who is deceased shall be taken into account in determining the number of siblings a child has at the time of his birth.
-
-(9) No rebate shall be allowed under this section in respect of a child who has, at the time of his birth, more than 3 other siblings who are members of the same household.
+[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
 
 ### Rate of tax upon companies and others
 
 43\.—(1) Subject to section 40, there shall be levied and paid for each year of assessment upon the chargeable income of —
 
-(a) every company, tax at the rate of 22% on every dollar of the chargeable income thereof;
+(a) every company, tax at the rate of 20% on every dollar of the chargeable income thereof;
 
-(b) every person (other than a company) not resident in Singapore, trustee (other than the trustee of an incapacitated person) and executor, tax at the rate of 22% on every dollar of the chargeable income thereof.
+(b) every person (other than a company) not resident in Singapore, trustee (other than the trustee of an incapacitated person) and executor, tax at the rate of 20% on every dollar of the chargeable income thereof.
 
 [31/86; 1/90; 20/91; 28/92; 26/93; 28/96; 24/2001; 37/2002]
 
 (2) Where any trustee proves to the satisfaction of the Comptroller that any beneficiary of the trust is entitled to a share of the trust income, a corresponding share of the statutory income of the trustee may be charged at a lower rate or not charged with any tax, as the Comptroller shall determine.
 
-(3) Notwithstanding anything in this Act, tax at the rate of 15% shall be levied and paid on the gross amount of —
+(3) Notwithstanding anything in this Act but subject to subsection (3A), tax at the rate of 15% shall be levied and paid on the gross amount of —
 
 (a) any income referred to in section 12(6); and
 
@@ -6510,6 +7020,10 @@ subsection (4)(b) and (c) shall only apply to any second, third or fourth child,
 accruing in or derived from Singapore on or after 28th February 1996 by a person not resident in Singapore which is not derived by the person from any trade, business, profession or vocation carried on or exercised by him in Singapore and which is not effectively connected with any permanent establishment in Singapore of the person.
 
 [28/96]
+
+(3A) Notwithstanding anything in this Act, tax at the rate of 10% shall be levied and paid on the gross amount of any income referred to in section 12(7)(a) and (b) but excluding the incomes specified in subsection (7), accruing in or derived from Singapore on or after 1st January 2005 by a person not resident in Singapore which is not derived by the person from any trade, business, profession or vocation carried on or exercised by him in Singapore and which is not effectively connected with any permanent establishment in Singapore of the person.
+
+[49/2004 wef 30/11/2004]
 
 (4) Notwithstanding anything in this Act but subject to subsection (5) and sections 13(1)(r) and 40A, tax at the rate of 15% shall be levied and paid on the gross amount of any income accruing in or derived from Singapore on or after 3rd May 2002 from any profession or vocation carried on by —
 
@@ -6523,7 +7037,7 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [37/2002; 21/2003]
 
-(6) Notwithstanding subsection (1), for the year of assessment 2002 and subsequent years of assessment, there shall be levied and paid for each year of assessment upon the chargeable income of every company, tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income thereof except that —
+(6) Notwithstanding subsection (1) but subject to subsection (6A), for the year of assessment 2002 and subsequent years of assessment, there shall be levied and paid for each year of assessment upon the chargeable income of every company, tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income thereof except that —
 
 (a) for every dollar of the first $10,000 of the chargeable income (excluding Singapore dividends), only 25% shall be charged with tax; and
 
@@ -6531,7 +7045,11 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [24/2001]
 
-(7) The incomes excluded under subsection (3)(b)are —
+(6A) Notwithstanding subsections (1) and (6), for each of the first 3 years of assessment, falling within the years of assessment 2005 to 2009, of a qualifying company, there shall be levied and paid upon the chargeable income of the company tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income thereof except that every dollar of the first $100,000 of the chargeable income (excluding Singapore dividends) shall be exempt from tax.
+
+[49/2004 wef 30/11/2004]
+
+(7) The incomes excluded under subsections (3) (b) and (3A) are —
 
 (a) any royalty and other payments referred to in section 10(14) or (16) which are derived by the person not resident in Singapore; and
 
@@ -6539,9 +7057,9 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [28/96]
 
-(8) The reference to 22% in subsection (1) shall, for the year of assessment 2002, be read as a reference to 24.5%.
+(8) The reference to 20% in subsection (1) shall, for the years of assessment 2003 and 2004, be read as a reference to 22%.
 
-[37/2002]
+[49/2004 wef 30/11/2004]
 
 (9) Notwithstanding subsection (1)(a), the tax to be levied and paid upon such income of a life insurance company apportioned to the policyholders of the company as the Minister may by regulations specify shall be at the rate of 10% or such other prescribed rate.
 
@@ -6551,7 +7069,19 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 “foreign firm” means an unincorporated body of 2 or more persons who have entered into partnership with one another with a view to carrying on business for profit and whose principal place of business is situated outside Singapore;
 
+“first 3 years of assessment”, in relation to a qualifying company, means the year of assessment relating to the basis period during which the company is incorporated in Singapore and the 2 consecutive years of assessment immediately following that year of assessment;
+
+[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
+
 “gross amount”, in relation to any income referred to in subsections (3) and (4), means the full amount of the income without any deduction and relief being allowed against the income under the provisions of this Act;
+
+“qualifying company” means a company incorporated in Singapore (other than a company limited by guarantee) which for each of the first 3 years of assessment —
+
+(a) is resident in Singapore for that year of assessment; and
+
+(b) has no more than 20 shareholders all of whom are individuals throughout the basis period for that year of assessment;
+
+[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
 
 “Singapore dividends” means any dividend derived from Singapore from which tax has been deducted under section 44.
 
@@ -6981,6 +7511,32 @@ and for deduction of losses otherwise than in accordance with section 37(3).
 
 [21/2003]
 
+### Concessionary rate of tax for provision of processing services to financial institutions
+
+43R\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 5% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved company derived by it on or after 27th February 2004 from the provision of prescribed processing services in Singapore to any financial institution or another approved company; and those regulations may provide for the deduction of losses of an approved company otherwise than in accordance with section 37(3).
+
+(2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved company subject to such conditions as the Minister or such person as he may appoint may impose.
+
+(3) No approval under this section shall be granted to any company on or after 27th February 2009.
+
+(4) In this section, “financial institution” means —
+
+(a) any institution in Singapore that is licensed or approved by the Monetary Authority of Singapore, or exempted from such licensing or approval, under any written law administered by the Monetary Authority of Singapore; or
+
+(b) any institution outside Singapore that is licensed or approved, or exempted from such licensing or approval, by its financial supervisory authority for the carrying on of financial activities.
+
+[49/2004 wef 30/11/2004]
+
+### Concessionary rate of tax for commodity derivatives trading company
+
+43S\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 5% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved commodity derivatives trading company derived by it on or after 27th February 2004 from prescribed transactions in commodity derivatives or commodities, and those regulations may provide for the conditions to be satisfied for the approval of such a company, and for the deduction of losses otherwise than in accordance with section 37(3).
+
+(2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved commodity derivatives trading company subject to such conditions as the Minister or such person as he may appoint may impose.
+
+(3) In this section, “commodity derivatives trading company” means a company carrying on the business of trading of commodity derivatives.
+
+[49/2004 wef 30/11/2004]
+
 ## PART XII
 
 DEDUCTION OF TAX AT SOURCE
@@ -7119,9 +7675,11 @@ as the case may be, a sum equal to such excess shall be paid by the company to t
 
 (g) relevant rate of tax —
 
-(i) in relation to a dividend paid from 1st January 2001 to 31st December 2001, is 24.5%; and
+(i) in relation to a dividend paid from 1st January 2002 to 31st December 2003, is 22%; and
 
-(ii) in relation to a dividend paid from 1st January 2002, is 22%.
+(ii) in relation to a dividend paid from 1st January 2004, is 20%.
+
+[49/2004 wef 30/11/2004]
 
 [1/88; 28/92; 26/93; 32/95; 1/98; 31/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003]
 
@@ -7143,13 +7701,13 @@ as the case may be, a sum equal to such excess shall be paid by the company to t
 
 [37/2002]
 
-(4) Notwithstanding anything in this Act, where the tax on any dividend paid by a company in the year 2002 has been deducted at the rate of 24.5% —
+(4) Notwithstanding anything in this Act, where the tax on any dividend paid by a company in the year 2004 has been deducted at the rate of 22% —
 
-(a) the amount of such dividend received by a shareholder shall be deemed to have been paid without deduction of tax and to be a dividend of such a gross amount as after deduction of tax at the rate of 22% would be equal to the net amount paid; and a sum equal to the difference between such gross amount and the net amount paid shall be deemed to have been deducted from the dividend as tax; and
+(a) the amount of such dividend received by a shareholder shall be deemed to have been paid without deduction of tax and to be a dividend of such a gross amount as after deduction of tax at the rate of 20% would be equal to the net amount paid; and a sum equal to the difference between such gross amount and the net amount paid shall be deemed to have been deducted from the dividend as tax; and
 
-(b) the difference between the amount of tax deducted at 24.5% from such dividend and the amount deemed to have been so deducted under paragraph (a) shall be added to the 44A balance of the company and deemed to be a part thereof.
+(b) the difference between the amount of tax deducted at 22% from such dividend and the amount deemed to have been so deducted under paragraph (a) shall be added to the 44A balance of the company and deemed to be a part thereof.
 
-[37/2002]
+[49/2004 wef 30/11/2004]
 
 (5) Notwithstanding subsection (3), where a company has furnished to the Comptroller an estimate of its chargeable income for the year of assessment 2003 on or before 31st March 2003, the tax assessed on or after 1st January 2003 on such chargeable income, after deducting any amount of such tax which is set-off under subsection (9) and section 44(18), shall be added to the 44A balance of the company on the date such tax is assessed.
 
@@ -7207,7 +7765,7 @@ after deducting any amount of such tax which is set-off under subsection (9) and
 
 45\.—(1) Where a person is liable to pay to another person not known to him to be resident in Singapore any interest which is chargeable to tax under this Act, the person paying the interest shall —
 
-(a) deduct therefrom tax at the rate of 22% or the rate specified in section 43(3), as the case may be, on every dollar of the interest; and
+(a) deduct therefrom tax at the rate of 20% or the rate specified in section 43(3), as the case may be, on every dollar of the interest; and
 
 (b) immediately give notice of the deduction of tax in writing and pay to the Comptroller the amount so deducted,
 
@@ -7215,15 +7773,15 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [37/75; 31/86; 1/90; 20/91; 28/92; 26/93; 28/96; 24/2001; 37/2002]
 
-(1A) Notwithstanding subsection (1), tax shall be deducted at the rate of 24.5% on every payment (other than payment subject to tax at the rate specified in section 43(3)) made on or after 1st January 2002 which would be assessable on the person receiving the payment for the year of assessment 2002.
+(1A) Notwithstanding subsection (1), tax shall be deducted at the rate of 22% on every payment (other than payment subject to tax at the rate specified in section 43(3) or (3A)) made on or after 1st January 2004 which would be assessable on the person receiving the payment for the year of assessment 2004.
 
-[37/2002]
+[49/2004 wef 30/11/2004]
 
 (2) The Comptroller may —
 
 (a) if he thinks fit, allow any bank or financial institution to give notice of the deduction of tax and make payment of the amount so deducted within such other period and subject to such conditions as the Comptroller may determine;
 
-(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than 22% or the rate specified in section 43(3), as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
+(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than 20% or the rate specified in section 43(3), as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
 
 [1/90; 20/91; 28/92; 26/93; 28/96; 24/2001; 37/2002]
 
@@ -7265,9 +7823,9 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 ### Application of section 45 to royalties, management fees, etc.
 
-45A\. Section 45shall apply in relation to the payment of any income referred to in section 12(6) or (7) by any person to another person not known to him to be resident in Singapore as those provisions apply to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in those provisions to interest shall be construed as a reference to the income referred to in section 12(6) or (7).
+45A\. Section 45Section 45(1) to (8) shall apply in relation to the payment of any income referred to in section 12(6) or (7) by any person to another person not known to him to be resident in Singapore as those provisions apply to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in those provisions to interest shall be construed as a reference to the income referred to in section 12(6) or (7).
 
-(1) Section 45shall apply in relation to the payment of any income referred to in section 12(6) or (7) by any person to another person not known to him to be resident in Singapore as those provisions apply to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in those provisions to interest shall be construed as a reference to the income referred to in section 12(6) or (7).
+(1) Section 45(1) to (8) shall apply in relation to the payment of any income referred to in section 12(6) or (7) by any person to another person not known to him to be resident in Singapore as those provisions apply to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in those provisions to interest shall be construed as a reference to the income referred to in section 12(6) or (7).
 
 [49/2004 wef 27/02/2004]
 
@@ -7289,7 +7847,7 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [7/79]
 
-(2) For the purposes of this section and section 45C, the references to interest therein shall be read as references to interest which is subject to deduction of tax at the rate of 22% on every dollar of the interest.
+(2) For the purposes of this section and section 45C, the references to interest therein shall be read as references to interest which is subject to deduction of tax at the rate of 20% on every dollar of the interest.
 
 [28/96; 24/2001; 37/2002]
 
@@ -7427,9 +7985,9 @@ whichever is the lower.
 
 [37/2002]
 
-(2) Notwithstanding subsection (1), where the tax on any dividend paid in the year 2002 has been deducted at the rate of 24.5%, the tax to be set-off under subsection (1) shall be the sum deemed to be the tax deducted from such dividend under section 44A(4).
+(2) Notwithstanding subsection (1), where the tax on any dividend paid in the year 2004 has been deducted at the rate of 22%, the tax to be set-off under subsection (1) shall be the sum deemed to be the tax deducted from such dividend under section 44A(4).
 
-[37/2002]
+[49/2004 wef 30/11/2004]
 
 (3) Notwithstanding subsection (1), if any amount of the charge referred to in section 44(4) or (6), or any amount of tax payable referred to in section 44(4), (6) or (13) is not paid within 14 days from the date of payment of any dividend to which the charge or tax relates or by 31st December of the year in which the dividend is paid, whichever is the later, no set-off against tax under subsection (1) shall be allowed in respect of the whole of the dividend.
 
@@ -7619,11 +8177,9 @@ Husband and wife
 
 ### Income of wife
 
-51\.—(1) Subject to subsection (6), the income of a married woman living with her husband shall, for the purposes of this Act, be deemed to be the income of the husband, and shall be charged in the name of the husband and not in her name nor in that of her trustee.
+51\.—(1) The income of a married woman shall for the purposes of this Act be charged in her own name.
 
-(2) That part of the total amount of tax charged upon the husband which bears the same proportion to that total amount as the amount of the assessable income of the wife bore to the amount of the assessable income of the husband and wife may, if necessary, be collected from the wife, notwithstanding that no assessment has been made upon her.
-
-(3) When a married woman is not living with her husband each spouse shall for all purposes of this Act be treated as if he or she were unmarried.
+[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
 
 (4) Any amount payable by way of alimony or allowance under any judicial order or written agreement of separation or under any decree of divorce shall be returned as the separate income of the person to whom it is paid.
 
@@ -7634,10 +8190,6 @@ Husband and wife
 (b) they are in fact separated in such circumstances that the separation is likely to be permanent; or
 
 (c) she is, and her husband is not, resident in Singapore.
-
-(6) A married woman living with her husband may elect to be chargeable in her own name on her income, including any profits arising from any property owned by her which is deemed to be owned by her husband under section 10(11)(c); and where she so elects all her income shall be so chargeable.
-
-[26/93]
 
 Trustees, agents and curators
 
@@ -7747,9 +8299,13 @@ Trustees, agents and curators
 
 (4) In the case of an individual dying during the year preceding the year of assessment, if his executor distributes the estate before the commencement of the year of assessment, such executor shall pay any tax for that year of assessment at the rate or rates in force at the date of distribution of the estate, if the rate of tax for that year of assessment has not been varied at that date.
 
-### Company wound up
+### Duty of liquidator on winding up of company or limited liability partnership
 
-59\. Where a company is being wound up, the liquidator of the company shall not distribute any of the assets of the company to the shareholders thereof unless he has made provision for the payment in full of any tax which may be found payable by the company.
+59\.—(1) Where a company or a limited liability partnership is being wound up, the liquidator of the company or limited liability partnership, as the case may be, shall be answerable for doing all such acts, matters and things as are required to be done under this Act in relation to the affairs of the company or the limited liability partnership.
+
+(2) Where a company is being wound up, the liquidator of the company shall not distribute any of the assets of the company to its shareholders unless he has made provision for the payment in full of any tax which may be found payable by the company.
+
+[49/2004 wef 30/11/2004]
 
 ### Chargeability of joint trustees
 
@@ -7765,23 +8321,19 @@ RETURNS
 
 ### Notice of chargeability and returns
 
-62\.—(1) The Comptroller may, by notice published in theGazette, require every person to furnish to the Comptroller in such form and manner as the Comptroller may determine, within a reasonable time specified in the notice or such extended time as the Comptroller may allow, a return of income for the year of assessment specified in the notice and such particulars as may be required for the purpose of ascertaining the income, if any, for which the person is chargeable under this Act, and in the case of —
+62\.—(1) The Comptroller may, by notice published in theGazette, require every person to furnish to the Comptroller in such form and manner as the Comptroller may determine, within a reasonable time specified in the notice or such extended time as the Comptroller may allow, a return of income for the year of assessment specified in the notice and such particulars as may be required for the purpose of ascertaining the income, if any, for which —
 
-(a) a married woman, for which her husband is chargeable;
+(a) the person is chargeable under this Act; and
 
-(b) a precedent partner or such other person referred to in section 71, for which each partner in the partnership is chargeable.
+(b) in the case of a precedent partner or such other person referred to in section 71, each partner in the partnership is chargeable.
 
-[2/92]
+[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
 
 (2) The Comptroller may, in any notice made under subsection (1), exempt from liability to furnish returns such classes of persons not liable to pay tax as he thinks fit, and any person so exempted need not furnish a return under that subsection unless he is required by the Comptroller to do so under subsection (3).
 
 [2/92]
 
-(3) Notwithstanding subsection (1), the Comptroller may, by notice in writing, require any person to furnish to the Comptroller in such form and manner and within such reasonable time as the Comptroller may determine, with a return of income and such particulars as may be required for the purpose of ascertaining the income, if any, for which such person is chargeable under this Act, and in the case of a married woman for which her husband is chargeable under this Act.
-
-[2/92]
-
-(4) For the purposes of subsections (1) and (3), the Comptroller may require a married woman who has not furnished a separate return of her income to verify the return furnished by her husband in so far as it relates to her income and to sign such return.
+(3) Notwithstanding subsection (1), the Comptroller may, by notice in writing, require any person to furnish to the Comptroller in such form and manner and within such reasonable time as the Comptroller may determine, with a return of income and such particulars as may be required for the purpose of ascertaining the income, if any, for which such person is chargeable under this Act.
 
 [2/92]
 
@@ -7791,13 +8343,55 @@ RETURNS
 
 (6) Any individual who arrives in Singapore during any year of assessment shall give such notice within one month of the date of his arrival.
 
-(7) Subsections (5) and (6) shall apply to a married woman in respect of any income derived by her for which her husband is chargeable.
-
-[2/92]
-
 (8) Any person who fails or neglects without reasonable excuse to comply with any of the provisions of this section shall be guilty of an offence.
 
 [2/92]
+
+### The basic rule: Singapore dollar to be used
+
+62A\. Subject to section 62B, where a person carrying on a trade, business, profession or vocation is required to furnish tax computations and particulars of income with a return of income made under section 62 or 71, the tax computations and particulars of income shall be denominated in Singapore dollar.
+
+[49/2004 wef 30/11/2004]
+
+### Currency other than Singapore dollar to be used in certain circumstances
+
+62B\.—(1) Where a person maintains his financial accounts in respect of any trade, business, profession or vocation carried on by him in a functional currency other than Singapore dollar in accordance with financial reporting standards in Singapore, the person who is required to furnish tax computations and particulars of income with a return of income made under section 62 or 71 shall furnish such computations and particulars of income denominated in that functional currency in the manner prescribed under this section.
+
+(2) The amount of chargeable income (after deducting the amount not charged to tax under section 43(6) or (6A)) of any company for any year of assessment shall be converted to an equivalent amount in Singapore dollar, and the amount of tax which has been deducted or is deductible from any dividend under section 44 or from any interest under section 45 derived by the company shall remain denominated in Singapore dollar.
+
+(3) The amount of statutory income from any trade, business, profession or vocation carried on by any individual for any basis period and the amount of donation made by him during any year shall be converted to an equivalent amount in Singapore dollar, and any amount of allowances, losses or donations which remains unabsorbed at the end of any basis period or at the end of any year, as the case may be, shall be carried forward to the next basis period or next year denominated in Singapore dollar.
+
+(4) In respect of any partnership, the income of a partner from the partnership and his share of donation made by the partnership for any year of assessment shall be converted to an equivalent amount in Singapore dollar, and any amount of allowances, losses or donations which remains unabsorbed at the end of any basis period or at the end of any year, as the case may be, shall be carried forward to the next basis period or next year denominated in Singapore dollar in the tax computation of each partner.
+
+(5) Notwithstanding anything in this section, a person who is required to furnish tax computations and particulars of income with a return of income made under section 62 or 71 to whom this section applies shall declare any information required in any return of income in Singapore dollar.
+
+(6) Subject to subsection (7), the rate of exchange applicable for the purposes of converting any amount in Singapore dollar to an equivalent amount in a non-Singapore dollar functional currency, or any amount in a non-Singapore dollar functional currency to an equivalent amount in Singapore dollar, as the case may be, shall be —
+
+(a) the average rate of exchange, as made available by the Monetary Authority of Singapore, calculated on the basis of the rate of exchange at the end of each month for the accounting period that constitutes the basis period for the year of assessment; or
+
+(b) where no such average rate of exchange is made available by the Monetary Authority of Singapore, such rate of exchange as the Comptroller may determine.
+
+(7) Notwithstanding subsection (6), for the purposes of —
+
+(a) converting any dividend to which section 44 applies; or
+
+(b) an election under section 24 where the buyer and seller of any property each uses a different functional currency,
+
+the rate of exchange applicable shall be the rate of exchange prevailing as at the date of payment of the dividend or the date of sale of the property, as the case may be.
+
+(8) Notwithstanding subsection (6), where a person has furnished a tax computation and particulars of income with a return of income in Singapore dollar, and is required under subsection (9) or has obtained the approval of the Comptroller under subsection (10), as the case may be, to furnish a tax computation and particulars of income with a return of income in a non-Singapore dollar functional currency for any year of assessment, such person shall convert the amounts denominated in Singapore dollar into the equivalent amount in the functional currency in accordance with the regulations made under subsection (11).
+
+(9) This section shall have effect for accounting periods beginning on or after 1st January 2003.
+
+(10) This section shall also have effect for accounting periods beginning before 1st January 2003 of a person which had been approved by the Comptroller to furnish tax computations and particulars of income with a return of income made under section 62 or 71 denominated in a functional currency other than Singapore dollar for those accounting periods.
+
+(11) For the purposes of this section, the Minister may make regulations to provide for —
+
+(a) such transitional, supplementary and consequential matters as he may consider necessary or expedient; and
+
+(b) generally giving effect to or for carrying out the purposes of this section.
+
+[49/2004 wef 30/11/2004]
 
 ### Furnishing of estimate of chargeable income if no return is made under section 62
 
@@ -7955,9 +8549,13 @@ and every employer shall be bound to comply with any such notice within the time
 
 (2A) It shall not be necessary to deliver nil returns under subsection (2).
 
-(2B) Where an employer has granted an individual who is a citizen of Singapore or a Singapore permanent resident any right or benefit to acquire shares in any company incorporated in Singapore, the employer shall submit a return in such form and manner specified in subsection (2) including any gain or profit derived by the individual as computed under section 10(6), notwithstanding that the individual has ceased to be employed by him at the time the gain or profit is derived.
+(2B) Where an employer has granted an individual, other than a director to whom subsection (2C) applies, any right or benefit to acquire shares in any company incorporated in Singapore, the employer shall submit a return in such form and manner specified in subsection (2) including any gain or profit derived by the individual as computed under section 10(6), notwithstanding that the individual has ceased to be employed by him at the time the gain or profit is derived.
 
 [37/2002]
+
+(2C) Where an employer, being a company, has granted a director of the company who is not resident in Singapore any right or benefit to acquire shares in any company incorporated in Singapore, the employer shall submit a return, in such form as the Comptroller may determine, of any gain or profit derived by the non-resident director when the right or benefit is exercised, assigned, released or acquired as computed under section 10(6) within 30 days of such exercise, assignment, release or acquisition (as the case may be), notwithstanding that the non-resident director may have ceased to be employed by the company at the time the gain or profit is derived.
+
+[49/2004 wef 30/11/2004]
 
 (3) Where the employer is a company or a body of persons, the manager or principal officer shall be deemed to be the employer for the purposes of this section, and any director of a company, or person engaged in the management of a company, shall be deemed to be a person employed.
 
@@ -8017,79 +8615,7 @@ shall, when required by the Comptroller by notice in writing or by notice publis
 
 (2) Where no partner is personally present in Singapore, the return shall be made and delivered by the attorney, agent, manager or factor of the firm in Singapore.
 
-### Filing of return by electronic transmission
-
-71A\.—(1) A person who meets the criteria determined in writing by the Comptroller may file a return under this Part for any year of assessment by way of electronic filing.
-
-[11/94]
-
-(2) For the purposes of this Part, where a return of any person for any year of assessment is filed by way of electronic filing, it shall be deemed to be a return filed with the Comptroller in the form and manner determined by the Comptroller under this Part.
-
-[11/94]
-
-(3) Where a return of a person for any year of assessment is filed by way of electronic filing by a particular person (referred to in this section as the filer) other than the person who is required to file the return, the filer shall, if required by the Comptroller, obtain from the other person a signed statement in such form as the Comptroller may determine, retain one copy of the statement and provide the other person with a copy, and the statement shall be deemed to be a record referred to in section 67 in respect of the filer and the other person.
-
-[11/94]
-
-(4) Where an electronic return is filed with the Comptroller using the identifying code or password of a person who meets the prescribed criteria —
-
-(a) without the authority of that person; and
-
-(b) before notification to the Comptroller by that person of the cancellation of the code or password,
-
-that return shall, for the purposes of this Part, be presumed to be made by that person unless he adduces evidence to the contrary, and where he alleges that he had filed no such return, the burden is also on him to adduce evidence of that fact.
-
-[11/94]
-
-(5) Notwithstanding any other written law, in any proceedings under this Act, an electronic return or a copy thereof (including a print-out of that return or copy) —
-
-(a) certified by the Comptroller to contain all or any information transmitted by electronic filing in accordance with this section; and
-
-(b) duly authenticated in the manner specified in subsection (7) or is otherwise duly authenticated by showing that there is no material discrepancy between the electronic return or copy thereof certified by the Comptroller and the copy of the same electronic return kept by an independent record keeper appointed by the Minister,
-
-shall be admissible as evidence of the facts stated or contained therein.
-
-[11/94]
-
-(6) For the avoidance of doubt, an electronic return or a copy thereof shall not be inadmissible in evidence merely on the basis that it was filed without the delivery of any equivalent document or counterpart in paper form.
-
-[11/94]
-
-(7) For the purposes of this section, a certificate —
-
-(a) giving the particulars of any person and device involved in the production and transmission of, and identifying the nature of, the electronic return or a copy thereof; and
-
-(b) purporting to be signed by the Comptroller or by a person occupying a responsible position in relation to the operation of the electronic media at the relevant time,
-
-shall be sufficient evidence that the electronic return or a copy thereof has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
-
-[11/94]
-
-(8) Where an electronic return or a copy thereof is admissible under subsection (5), it shall be presumed that the facts stated or contained therein are correct unless the contrary is proved and any person filing the electronic return or whose return has been filed by a filer shall be deemed to be cognizant of all matters therein.
-
-[11/94]
-
-(9) The Comptroller may, for the purpose of facilitating any electronic filing under this section, approve the use in any such electronic filing of symbols, abbreviations or other notations to represent any particulars or information required under this Part.
-
-[11/94]
-
-(10) Notwithstanding section 6, any person having any official duty or being employed in the administration of this Act shall not be treated as having contravened section 6 merely because he communicates to the independent record keeper or his employee or permits the independent record keeper or his employee to have access to any electronic return or any information contained therein; and section 6 shall apply to the independent record keeper and his employee as if they were persons employed in the administration of this Act.
-
-[11/94]
-
-(11) In this section —
-
-“electronic filing” means using electronic media in a manner determined in writing by the Comptroller;
-
-“electronic return” means a return made by way of electronic filing;
-
-“independent record keeper” means an independent record keeper appointed by the Minister for the purpose of this section.
-
-[11/94]
-
-(12) The Minister may make regulations which are necessary or expedient for carrying out the purposes of this section.
-
-[11/94]
+71A\. [Deleted by Act 49/2004 wef 30/11/2004]
 
 ## PART XVII
 
@@ -8118,6 +8644,14 @@ ASSESSMENTS AND OBJECTIONS
 the Comptroller may make such assessment or additional assessments as may be necessary to bring to charge the full amount of the income from all sources derived or to be derived by such person up to the year in which the source of income ceases or is likely to cease.
 
 (2) Where the income of a person is ascertained under section 27, the Comptroller may make an assessment in respect of any income of such person within the year in which the income is deemed to accrue.
+
+(2A) Notwithstanding any other provisions of this Act, the Comptroller may make an assessment on an individual to whom section 10(7B) or (7C) applies within the year in which the income accrues or is deemed to accrue to the individual, as the case may be.
+
+[49/2004 wef 30/11/2004]
+
+(2B) Notwithstanding any other provisions of this Act, where income accrues under section 10(6) to a director of a company who is not resident in Singapore, the Comptroller may make an assessment in respect of that income within the year in which the income accrues to the director.
+
+[49/2004 wef 30/11/2004]
 
 (3) The Comptroller may, if he thinks fit, at any time during any year make an assessment in respect of the income derived by any person carrying on or exercising any trade, business, profession or vocation up to that year.
 
@@ -8159,7 +8693,7 @@ the Comptroller may make such assessment or additional assessments as may be nec
 
 ### Service of notices of assessment and revision of assessment
 
-76\.—(1) The Comptroller shall cause or (6) —
+76\.—(1) The Comptroller shall cause or (6) each person assessed to tax to be served, in accordance with section 8(1), with —
 
 (a) where tax is payable, a notice stating the amount of his chargeable income together with the amount of tax payable and the place at which such payment should be made; or
 
@@ -8225,21 +8759,65 @@ APPEALS
 
 (4) A member may resign his office by notice in writing to the Minister.
 
-(5) The Minister shall appoint to be Chairman of the Board a person who is either qualified to be a District Judge or is an accountant.
+(5) The Minister may appoint from amongst the members of the Board —
 
-(6) The Chairman of the Board shall, when present, preside at every meeting of the Board, and in his absence such member of the Board as may be chosen by the members present shall preside.
+(a) a Chairman of the Board; and
+
+(b) such number of Deputy Chairmen of the Board as the Minister thinks fit.
+
+[49/2004 wef 30/11/2004]
+
+(6) No person may be appointed as Chairman of the Board or Deputy Chairman of the Board unless he is either qualified to be a District Judge or is an accountant.
+
+[49/2004 wef 30/11/2004]
+
+(6A) Meetings of the Board shall be presided by —
+
+(a) the Chairman of the Board;
+
+(b) in the absence of the Chairman of the Board —
+
+(i) where there is only one Deputy Chairman of the Board present, the Deputy Chairman; and
+
+(ii) where there is more than one Deputy Chairman of the Board present, such Deputy Chairman as may be chosen by the Deputy Chairmen present; and
+
+(c) where neither the Chairman of the Board nor any Deputy Chairman of the Board is present, such member of the Board as may be chosen by the members present.
+
+[49/2004 wef 30/11/2004]
 
 (7) The Minister may appoint a clerk or clerks to the Board and such other officers and employees of the Board as may be necessary.
 
-(8) All the powers, functions and duties of the Board may be exercised, discharged and performed by any committee of the Board consisting of not less than 3 members of the Board.
+(8) All the powers, functions and duties of the Board may be exercised, discharged and performed by any committee of the Board consisting of not less than 3 members of the Board, at least one of whom shall be the Chairman of the Board or a Deputy Chairman of the Board.
 
 (9) Any act, finding or decision of any such committee shall be deemed to be the act, finding or decision of the Board.
 
-(10) The clerk shall, from time to time, summon such members of the Board as may be nominated by the Minister, or by any officer of the Government authorised in that behalf by the Minister,to constitute a committee of the Board for the purposes of giving effect to the provisions of this Part, and it shall be the duty of such members to attend at the times and places specified in the summons.
+(10) The clerk shall, from time to time, summon such members of the Board as may be nominated by the Chairman to constitute a committee of the Board for the purposes of giving effect to the provisions of this Part, and it shall be the duty of such members to attend at the times and places specified in the summons.
 
-(11) All matters coming before a committee of the Board at any sitting thereof shall be decided by a majority of votes of those members present, and, in the event of an equality of votes, the Chairman of the Board or any other member presiding shall have a second or casting vote.
+(10A) Meetings of a committee shall be presided by —
 
-[7/79]
+(a) where the Chairman of the Board is a member of the committee, the Chairman;
+
+(b) where the Chairman of the Board is not a member of the committee and —
+
+(i) there is only one Deputy Chairman of the Board on the committee, the Deputy Chairman; or
+
+(ii) there is more than one Deputy Chairman of the Board on the committee, such Deputy Chairman as the Chairman may determine.
+
+[49/2004 wef 30/11/2004]
+
+(10B) Where the Chairman of the Board or any Deputy Chairman of the Board, as the case may be, is absent from any meeting of a committee at which he ought under subsection (10A) to be presiding, the meeting shall be presided by —
+
+(a) where there is only one Deputy Chairman who is a member of the committee present, the Deputy Chairman;
+
+(b) where there is more than one Deputy Chairman who is a member of the committee present, such Deputy Chairman as may be chosen by the Deputy Chairmen present; and
+
+(c) where there is no Deputy Chairman who is a member of the committee present, such member of the Board as may be chosen by the members present.
+
+[49/2004 wef 30/11/2004]
+
+(11) All matters coming before the Board or a committee of the Board at any sitting thereof shall be decided by a majority of votes of the members of the Board present, and, in the event of an equality of votes, the Chairman of the Board, the Deputy Chairman of the Board or such other member as may be presiding, as the case may be, shall have a second or casting vote.
+
+[49/2004 wef 30/11/2004]
 
 (12) Members of the Board shall be entitled to receive such remuneration and such travelling and subsistence allowances as the Minister may determine.
 
@@ -8265,21 +8843,47 @@ APPEALS
 
 (b) within 30 days of the date on which such notice of appeal was lodged, a petition of appeal in quadruplicate containing a statement of the grounds of appeal.
 
-(2) A notice of appeal shall contain an address for service and a list of the names of any members of the Board to whom the appellant objects.
+(2) A notice of appeal shall contain —
+
+(a) an address for service;
+
+(b) a list of the names of any members of the Board to whom the appellant objects; and
+
+(c) the reasons for such objection.
+
+[49/2004 wef 30/11/2004]
+
+(2A) An appellant shall not be entitled to object to the Chairman or any Deputy Chairman of the Board and to more than one-third of the total number of members of the Board.
+
+(3) On receipt of a notice of appeal, the clerk shall forthwith forward one copy thereof to the Comptroller who may, within 3 days of the receipt of such copy, lodge with the clerk a list of any members of the Board to whom he objects and the reasons for such objection.
 
 [7/79]
 
-(2A) An appellant shall not be entitled to object to the Chairmanof the Board and to more than one-third of the total number of members of the Board.
+(3A) The Comptroller shall not be entitled to object to the Chairman or any Deputy Chairman of the Board and the number of members of the Board objected to by the Comptroller shall not, when added to the number objected to by the appellant, exceed one-half of the total number of members of the Board.
 
-(3) On receipt of a notice of appeal, the clerk shall forthwith forward one copy thereof to the Comptroller who may, within 3 days of the receipt of such copy, lodge with the clerk a list of any members of the Board to whom he objects.
+(4) The Chairman of the Board, or such Deputy Chairman of the Board as the Chairman may authorise, shall determine whether the reason for any objection to any member under subsection (2) or (3) is valid.
 
-[7/79]
+[49/2004 wef 30/11/2004]
 
-(3A) The Comptroller shall not be entitled to object to the Chairman of the Board and the number of members of the Board objected to by the Comptroller shall not, when added to the number objected to by the appellant, exceed one-half of the total number of members of the Board.
+(4A) Where the Chairman of the Board or a Deputy Chairman of the Board determines under subsection (4) that the reason for any objection is valid, the member of the Board in respect of whom the objection was made shall not attend the hearing of the appeal of the appellant.
 
-(4) No member of the Board to whom the appellant or the Comptroller has objected as provided in this section shall attend the hearing of the appeal of such appellant.
+[49/2004 wef 30/11/2004]
 
-(5) The Board may, in its discretion and on such terms as it may see fit, permit any person to proceed with an appeal notwithstanding that the notice of appeal or petition of appeal was not lodged within the time limited therefor by this section, if it is shown to the satisfaction of the Board that the person was prevented from lodging the notice or petition in due time owing to absence, sickness or other reasonable cause and that there has been no unreasonable delay on his part.
+(4B) Where the Chairman of the Board or a Deputy Chairman of the Board determines under subsection (4) that the reason for any objection is not valid, the Chairman or Deputy Chairman shall reject that objection and inform the appellant or the Comptroller accordingly.
+
+[49/2004 wef 30/11/2004]
+
+(4C) Where an objection has been rejected by the Chairman of the Board or a Deputy Chairman of the Board under subsection (4B), the member of the Board in respect of whom that objection was made may attend the hearing of the appeal of the appellant.
+
+[49/2004 wef 30/11/2004]
+
+(4D) The decision of the Chairman of the Board or a Deputy Chairman of the Board under subsection (4) shall be final.
+
+[49/2004 wef 30/11/2004]
+
+(5) The Chairman of the Board may, in his discretion and on such terms as he thinks fit, permit any person to proceed with an appeal notwithstanding that the notice of appeal or petition of appeal was not lodged within the time limited therefor by this section, if it is shown to the satisfaction of the Chairman that the person was prevented from lodging the notice or petition in due time owing to absence, sickness or other reasonable cause and that there has been no unreasonable delay on his part.
+
+[49/2004 wef 30/11/2004]
 
 (6) Except with the consent of the Board and on such terms as the Board may determine, an appellant may not at the hearing of his appeal rely on any grounds of appeal other than the grounds stated in his petition of appeal.
 
@@ -8570,8 +9174,6 @@ where the Comptroller is satisfied that the remission of tax would be beneficial
 [1/88; 37/2002]
 
 (5) Where through death, incapacity, bankruptcy, liquidation or other cause a person who would, but for such cause, have been entitled to make a claim under subsection (1) is unable to do so, his executor, trustee or receiver, as the case may be, shall be entitled to have refunded to him for the benefit of such person or his estate any tax paid in excess within the meaning of subsection (1).
-
-(6) Where any such repayment relates to the income of a married woman chargeable in the name of her husband, such married woman shall be entitled, on application, to have refunded to her any tax paid by her, by deduction or otherwise, in excess within the meaning of subsection (1), where the Comptroller is satisfied that repayment to such married woman is reasonable.
 
 (7) The Comptroller shall certify any amount repayable under this section and shall cause repayment to be made forthwith.
 
@@ -9284,7 +9886,7 @@ Child Relief
 
 (c) for the fourth child if born on or after 1st January 1988 $2,000.
 
-2\. Subject to paragraphs 1(c) and 6 (d) and (e), no deduction shall be granted under any paragraph of this Schedule in respect of a child born on or after 1st August 1973 if that child is the fourth or subsequent child.
+2\. Subject to paragraphs 1(c) and 5 (d), no deduction shall be granted under any paragraph of this Schedule in respect of a child born on or after 1st August 1973 if that child is the fourth or subsequent child.
 
 3. No deduction shall be allowed in respect of any child —
 
@@ -9294,55 +9896,43 @@ Child Relief
 
 4\. Where more than one individual is entitled to claim a deduction in respect of the same child under this Schedule or the proviso to section 39(2)(e), the deduction shall be apportioned in such manner as appears to the Comptroller to be reasonable.
 
-5\. Where a married woman has elected to be charged in her own name under section 51(6), the deduction to be apportioned under paragraph 4 shall not exceed the deduction which would have been allowed to her husband if he had wholly maintained the child during the year preceding the year of assessment and she had not elected for separate assessment.
+5. Where a married woman, divorcee or widow has a child who is a citizen of Singapore as at 31st December of the year immediately preceding the year of assessment, the following deductions shall, without prejudice to any deduction allowable under paragraph 1 or proviso (A) to section 39(2)(e), be allowable to her only:
 
-6. Where a married woman who has elected to be charged in her own name under section 51(6) has passed at one sitting the examination for the General Certificate of Education with at least 3 subjects at ordinary level or has equivalent or higher educational qualification, the following deductions shall, without prejudice to any deduction allowable under paragraph 1 or proviso (A) to section 39(2)(e), be allowable to her only:
+(a)
 
-Below the age of 12 years on the first day of the year preceding the year of assessment
-
-Of the age of 12 years or above on the first day of the year preceding the year of assessment
-
-(a) First eligible child
-
-5% of her earned income
+First eligible child
 
 5% of her earned income;
 
-(b) Second eligible child
+(b)
 
-15% of her earned income
-
-10% of her earned income;
-
-(c) Third eligible child
-
-20% of her earned income
+Second eligible child
 
 15% of her earned income;
 
-(d) Fourth child (other than an adopted child) of the family who is born in 1987
+(c)
 
-$1,500 and 25% of her earned income
+Third eligible child
 
-$1,500 and 15% of her earned income;
+20% of her earned income;
 
-(e) Fourth child (other than an adopted child) of the family who is born on or after 1st January 1988
+(d)
 
-25% of her earned income
+Fourth eligible child of the family who is born on or after 1987 (other than a child adopted before 1st January 2004)
 
-15% of her earned income.
+25% of her earned income.
 
-7.—(1) The total deductions allowable to all individuals under paragraph 1, proviso (A) to section 39(2)(e) and paragraph 6 in respect of the same child shall be subject to a maximum of $15,000 if the child is below the age of 12 years on the first day of the year preceding the year of assessment or a maximum of $10,000 if the child is of the age of 12 years or above on the first day of the year preceding the year of assessment.
+[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
 
-(2) For the purpose of sub-paragraph (1), any deduction allowable under paragraph 1 or proviso (A) to section 39(2)(e) shall first be allowed before a deduction, to the extent allowable under sub-paragraph (1), is allowed under paragraph 6.
+6.—(1) The total deductions allowable to all individuals under paragraph 1, proviso (A) to section 39(2)(e) and paragraph 5 in respect of the same child shall not exceed $25,000.
 
-8\. Subject to paragraph 7, the deduction allowable under paragraph 6 shall also be granted to a divorcee, a widow or a married woman living separately from her husband if she possesses the qualification specified in paragraph 6.
+(2) For the purpose of sub-paragraph (1), any deduction allowable under paragraph 1 or proviso (A) to section 39(2)(e) shall first be allowed before a deduction, to the extent allowable under sub-paragraph (1), is allowed under paragraph 5.
+
+[Act 49/2004, wef Y/A 2005 & Sub Ys/A:2004-ACT-49]
 
 9. In this Schedule —
 
 (a) “child”, in relation to an individual claiming a deduction, means a legitimate child, step-child or child adopted in accordance with any written law relating to the adopting of children;
-
-(b) where any question arises as to whether any qualification is equivalent to or higher than that specified in paragraph 6 it shall be determined by the Minister whose decision shall be final;
 
 (c) where any question arises as to the ranking of any child for the purpose of any deduction to be granted under this Schedule, it shall be determined by the Comptroller whose decision shall be final.
 
@@ -10263,6 +10853,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 56/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|17 November 2004|
 ||Date of commencement|25 November 2004 (section 16 — amendment of Income Tax Act)|
+|186.|**Act 49 of 2004—Income Tax (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 58/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|30 November 2004|
 ## COMPARATIVE TABLE
 
 Income Tax Act
