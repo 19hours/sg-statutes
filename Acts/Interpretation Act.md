@@ -272,7 +272,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “police officer” means any member of the Singapore Police Force;
 
-“prescribed” means prescribed by the Act in which the word occurs or by any subsidiary legislation made thereunder;
+“prescribed” means prescribed by the Act in which the word occurs or by any subsidiary legislation made thereunder and, in relation to forms, includes being set out in electronic form on an electronically accessible server (such as an internet website) that is specified in the Act or subsidiary legislation in which the word occurs;
 
 “President” means the President of Singapore and includes any person for the time being performing the functions of the President under the provisions of the Constitution;
 
@@ -1054,6 +1054,11 @@ This Legislative History is provided for the convenience of users of the Interpr
 (Section 2 — Amendment of Interpretation Act)|
 |17.|**2002 Revised Edition—Interpretation Act**|
 ||Date of operation|31 December 2002|
+|18.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
 ## COMPARATIVE TABLE
 
 Interpretation Act
