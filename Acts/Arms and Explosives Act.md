@@ -12,11 +12,19 @@
 
 - [3 Exemptions from operation of this Act](#Exemptions-from-operation-of-this-Act)
 
+- [3A Prohibition on manufacture of unmarked plastic explosives](#Prohibition-on-manufacture-of-unmarked-plastic-explosives)
+
+- [3B Prohibition on possession and transfer of possession of unmarked plastic explosives](#Prohibition-on-possession-and-transfer-of-possession-of-unmarked-plastic-explosives)
+
+- [3C Prohibition on importation and exportation of unmarked plastic explosives](#Prohibition-on-importation-and-exportation-of-unmarked-plastic-explosives)
+
+- [3D Rules for purposes of sections 3A, 3B and 3C](#Rules-for-purposes-of-sections-3A-3B-and-3C)
+
 - [4 Minister may prohibit exportation by notification](#Minister-may-prohibit-exportation-by-notification)
 
 - [5 Extension of definition of explosive and prohibition as to explosives by notification](#Extension-of-definition-of-explosive-and-prohibition-as-to-explosives-by-notification)
 
-- [6 Power to prohibit poisonous or noxious gas](#Power-to-prohibit-poisonous-or-noxious-gas)
+- [6 Power to prohibit poisonous or noxious gas or noxious substance](#Power-to-prohibit-poisonous-or-noxious-gas-or-noxious-substance)
 
 - [7 Penalty for unauthorised exportation or removal](#Penalty-for-unauthorised-exportation-or-removal)
 
@@ -24,7 +32,7 @@
 
 - [8 Licences required in respect of guns, arms and explosives](#Licences-required-in-respect-of-guns-arms-and-explosives)
 
-- [9 Appointment of licensing authority](#Appointment-of-licensing-authority)
+- [9 Appointment of Licensing Officer](#Appointment-of-Licensing-Officer)
 
 - [10 Conditions of licences](#Conditions-of-licences)
 
@@ -36,11 +44,11 @@
 
 - [14 Provision upon death or bankruptcy, etc., of licensee](#Provision-upon-death-or-bankruptcy-etc-of-licensee)
 
-- [15 Guns, arms or explosives of which possession has become unlawful to be deposited at police station](#Guns-arms-or-explosives-of-which-possession-has-become-unlawful-to-be-deposited-at-police-station)
+- [15 Guns, arms or explosives of which possession has become unlawful to be deposited with authorised person](#Guns-arms-or-explosives-of-which-possession-has-become-unlawful-to-be-deposited-with-authorised-person)
 
-- [16 Forfeiture of arms or explosives deposited with the licensing authority](#Forfeiture-of-arms-or-explosives-deposited-with-the-licensing-authority)
+- [16 Forfeiture of arms or explosives deposited with authorised person or Licensing Officer](#Forfeiture-of-arms-or-explosives-deposited-with-authorised-person-or-Licensing-Officer)
 
-- [17 Permit to land may be granted](#Permit-to-land-may-be-granted)
+- [17 (Repealed)](#Repealed)
 
 - [18 Minister may authorise erection of magazines or establishment of hulks](#Minister-may-authorise-erection-of-magazines-or-establishment-of-hulks)
 
@@ -94,9 +102,13 @@
 
 - [40 Power to make rules](#Power-to-make-rules)
 
+- [40A Power to amend Schedule](#Power-to-amend-Schedule)
+
 - [41 Notice of accidents](#Notice-of-accidents)
 
 - [42 Inquiry into accidents](#Inquiry-into-accidents)
+
+[**THE SCHEDULE Detection Agents**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -122,11 +134,47 @@ An Act to regulate the manufacture, use, sale, storage, transport, importation, 
 
 2\.—(1) In this Act —
 
-“arms” includes firearms, air-guns, air-pistols, automatic guns, automatic pistols, and guns or any other kind of gun from which any shot, bullet or other missile can be discharged or noxious fumes can be emitted and any component part of any such arms, and bayonets, swords, daggers, spears and spearheads;
+“arms” includes firearms, air-guns, air-pistols, automatic guns, automatic pistols, and guns or any other kind of gun from which any shot, bullet or other missile can be discharged or noxious fumes or noxious substance can be emitted and any component part of any such arms, and bayonets, swords, daggers, spears and spearheads;
+
+“authorised military device” means any explosive manufactured solely for lawful military or police purposes, including but not limited to a shell, bomb, projectile, mine, missile, rocket, shaped charge, grenade or perforater;
+
+[30/2002 wef 21/03/2003]
+
+“authorised military or police personnel” means —
+
+(a) any member of the Singapore Armed Forces;
+
+(b) any member of the Singapore Police Force; or
+
+(c) any person who performs military functions for the Ministry of Defence or the Singapore Armed Forces;
+
+[30/2002 wef 21/03/2003]
+
+“authorised person” means —
+
+(a) the Commercial and Industrial Security Corporation; or
+
+(b) any other auxiliary police force established under any written law and which is authorised by the Licensing Officer to accept the deposit of guns, arms or explosives under section 15(1);
+
+[30/2002 wef 21/03/2003]
 
 “carriage” includes any carriage, wagon, cart, truck or other vehicle used for the conveyance of goods or passengers by land, in whatever manner the same is propelled or moved;
 
+“Commercial and Industrial Security Corporation” means the Commercial and Industrial Security Corporation established under the Commercial and Industrial Security Corporation Act (Cap. 47);
+
+[30/2002 wef 21/03/2003]
+
 “deal in”, with its grammatical variations and cognate expressions, includes repair, sell, keep or expose for sale;
+
+“detection agent” means any of the substances set out in the Schedule and which —
+
+(a) is intended to be used to enhance the detectability of explosives by vapour detection means;
+
+(b) is introduced into a plastic explosive during its manufacture in such a manner as to achieve homogeneous distribution in the finished product; and
+
+(c) is present in the plastic explosive in such concentration no less than that specified in the fourth column of the Schedule;
+
+[30/2002 wef 21/03/2003]
 
 “explosive” —
 
@@ -138,19 +186,43 @@ An Act to regulate the manufacture, use, sale, storage, transport, importation, 
 
 “gun” includes howitzers, mortars, quick-firing and machine-guns, and other guns of a similar nature;
 
+“high explosives” includes but is not limited to cyclotetramethylenetetranitramine (HMX), pentaerythritol tetranitrate (PETN) and cyclotrimethylenetrinitramine (RDX);
+
+[30/2002 wef 21/03/2003]
+
 “licensed dealer” means a person licensed under this Act to manufacture or deal in arms or guns;
 
-“licensing authority” means such person or authority as may be appointed by the Minister under section 9;
+“Licensing Officer” means the person appointed by the Minister under section 9 and includes an Assistant Licensing Officer;
+
+[30/2002 wef 21/03/2003]
 
 “manufacture” includes the preparation of any component parts of an explosive, the admixture or other treatment of the same, the breaking up or unmaking of any explosive, and the process of remaking or making fit for use any damaged explosive, and the process of remaking, altering or repairing any explosive;
 
-“master” includes every person having command or charge of a vessel or aircraft other than a pilot of a vessel;
+“master” includes every person having command or charge of a vessel other than a pilot of a vessel;
+
+“plastic explosive” means any explosive which —
+
+(a) is formulated with one or more high explosives which in their pure form have vapour pressure of less than 10-4 Pa at a temperature of 25°C;
+
+(b) is formulated with a binder material; and
+
+(c) is, when mixed, malleable or flexible at normal room temperature;
+
+[30/2002 wef 21/03/2003]
+
+“pilot-in-command” means the pilot designated by the operator or the owner of an aircraft as being in command and charged with the safe conduct of a flight;
+
+[30/2002 wef 21/03/2003]
 
 “Port Master” has the same meaning as in the Maritime and Port Authority of Singapore Act 1996;
 
 [Act 7/96 wef 02/02/1996 vide S 42/96]
 
 “railway administration” means any person or body of persons responsible for the regulation of traffic on any railway;
+
+“unmarked plastic explosive” means any plastic explosive that does not contain a detection agent;
+
+[30/2002 wef 21/03/2003]
 
 “vessel” includes any steam or sailing ship, junk, boat, sampan or any kind of craft used for the conveyance of persons or things by water.
 
@@ -160,7 +232,7 @@ An Act to regulate the manufacture, use, sale, storage, transport, importation, 
 
 ### Exemptions from operation of this Act
 
-3\.—(1) Nothing in this Act shall apply to —
+3\.—(1) Subject to subsection (3), nothing in this Act shall apply to —
 
 (a) the manufacture, possession, use, storage, sale, transport, importation or exportation, in accordance with the provisions of any rules made under this Act, of any explosive by order of the Government;
 
@@ -192,11 +264,105 @@ An Act to regulate the manufacture, use, sale, storage, transport, importation, 
 
 (2) In any proceedings under this Act, proof of these facts shall rest with the person alleging them.
 
+(3) Sections 3A to 3D and any rules made under section 3D shall also apply to —
+
+(a) the Government;
+
+(b) any other person referred to in subsection (1);
+
+(c) the articles referred to in subsection (1)(f); and
+
+(d) the arms and ammunition referred to in subsection (1)(g).
+
+[30/2002 wef 21/03/2003]
+
+### Prohibition on manufacture of unmarked plastic explosives
+
+3A\.—(1) No person shall manufacture any unmarked plastic explosive unless such unmarked plastic explosive is manufactured in a quantity no greater than that necessary for the purpose of and is solely for use in —
+
+(a) any research, development or testing of new or modified explosives;
+
+(b) any training in explosives detection, or in any development or testing of explosives detection equipment; or
+
+(c) any forensic science activity,
+
+carried out under a licence issued by the Licensing Officer.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and to imprisonment for a term not exceeding 3 years.
+
+[30/2002 wef 21/03/2003]
+
+### Prohibition on possession and transfer of possession of unmarked plastic explosives
+
+3B\.—(1) Subject to subsection (2), no person shall possess or transfer possession of any unmarked plastic explosive unless such unmarked plastic explosive —
+
+(a) is possessed or transferred to another person in a quantity no greater than that necessary for the purpose of and is solely for use in —
+
+(i) any research, development or testing of new or modified explosives;
+
+(ii) any training in explosives detection, or in any development or testing of explosives detection equipment; or
+
+(iii) any forensic science activity,
+
+carried out under a licence issued by the Licensing Officer; or
+
+(b) has been incorporated as an integral part of an authorised military device and is possessed or transferred in the course of his duty by an authorised military or police personnel or a member of a visiting force lawfully present in Singapore.
+
+(2) Subsection (1) shall not, for the relevant period, apply to any unmarked plastic explosive which is manufactured in or imported into Singapore before the appointed day and which is possessed or transferred during the relevant period by —
+
+(a) an authorised military or police personnel in the course of his duty; or
+
+(b) any other person authorised by the Minister and in accordance with this Act and any rules made thereunder.
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and to imprisonment for a term not exceeding 3 years.
+
+(4) In this section and section 3C —
+
+“appointed day” means the date of commencement of section 4 of the Arms and Explosives (Amendment) Act 2002;
+
+“relevant period” means —
+
+(a) a period of 15 years from the appointed day in the case of an authorised military or police personnel; or
+
+(b) a period of 3 years from the appointed day in the case of any other person authorised under subsection (2)(b).
+
+[30/2002 wef 21/03/2003]
+
+### Prohibition on importation and exportation of unmarked plastic explosives
+
+3C\.—(1) Subject to subsection (2), no person shall import or export any unmarked plastic explosive unless such unmarked plastic explosive —
+
+(a) is imported or exported in a quantity no greater than that necessary for the purpose of and is solely for use in —
+
+(i) any research, development or testing of new or modified explosives;
+
+(ii) any training in explosives detection, or in any development or testing of explosives detection equipment; or
+
+(iii) any forensic science activity,
+
+carried out under a licence issued by the Licensing Officer; or
+
+(b) has been incorporated as an integral part of an authorised military device and is imported or exported in the course of his duty by an authorised military or police personnel or a member of a visiting force lawfully present in Singapore.
+
+(2) Subsection (1) shall not, for the relevant period, apply to the import or export by an authorised military or police personnel in the course of his duty of any unmarked plastic explosive which has been manufactured in or imported into Singapore before the appointed day.
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and to imprisonment for a term not exceeding 3 years.
+
+[30/2002 wef 21/03/2003]
+
+### Rules for purposes of sections 3A, 3B and 3C
+
+3D\.—(1) The Minister may make rules for carrying out the purposes of sections 3A, 3B and 3C.
+
+(2) Without prejudice to the generality of subsection (1), such rules may provide for the application of any rules or any provision of any rules made under section 40(1) to any unmarked plastic explosives, subject to such modifications as may be specified in the rules made under subsection (1).
+
+[30/2002 wef 21/03/2003]
+
 ### Minister may prohibit exportation by notification
 
 4\.—(1) The Minister may, by notification published in theGazette, prohibit for a period in the notification to be mentioned the exportation from Singapore, either absolutely, or to any country, territory or place outside Singapore, or may permit exportation or removal subject to such conditions, limitations or restrictions as he considers necessary in the notification to be specified, or the removal from place to place in Singapore, of all or any of the following articles:
 
-(a) arms, guns, explosives or any specified class of explosives, aircraft, armoured cars, tanks, naval, military or air force stores or any war material whatsoever including any poisonous or noxious gas;
+(a) arms, guns, explosives or any specified class of explosives, aircraft, armoured cars, tanks, naval, military or air force stores or any war material whatsoever including any poisonous or noxious gas or noxious substance;
 
 (b) articles which, in the opinion of the Minister, are capable of being converted into or of being made useful for manufacturing any of the said articles;
 
@@ -216,53 +382,61 @@ An Act to regulate the manufacture, use, sale, storage, transport, importation, 
 
 (2) Any person who manufactures, possesses or imports an explosive in contravention of a notification issued under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000.
 
-### Power to prohibit poisonous or noxious gas
+### Power to prohibit poisonous or noxious gas or noxious substance
 
-6\.—(1) The Minister may, by notification in theGazette, prohibit either absolutely or subject to conditions the manufacture, possession or importation of any poisonous or noxious gas .
+6\.—(1) The Minister may, by notification in theGazette, prohibit either absolutely or subject to conditions the manufacture, possession or importation of any poisonous or noxious gas or noxious substance.
 
-(2) Any person who commits any act in contravention of a notification issued under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(2) Any person who commits any act in contravention of a notification issued under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 ### Penalty for unauthorised exportation or removal
 
-7\.—(1) If any vessel or aircraft is used for the exportation or removal of any article in contravention of any notification issued under section 4, or for the importation of any explosive or poisonous or noxious gas in contravention of any notification issued under section 5 or 6, the master and the owner thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000, unless it is proved to the satisfaction of the court that the master or owner was not implicated in the placing or keeping of the article or explosive or poisonous or noxious gas on board the vessel or aircraft and that the offence in question was committed without his knowledge, consent or connivance, and the vessel or aircraft may be detained by order of the court until security has been given for such sum as the court orders not exceeding $5,000.
+7\.—(1) If any vessel or aircraft is used for the exportation or removal of any article in contravention of any notification issued under section 4, or for the importation of any explosive or poisonous or noxious gas or noxious substance in contravention of any notification issued under section 5 or 6, the master or pilot-in-command and the owner thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000, unless it is proved to the satisfaction of the court that the master or pilot-in-command or owner was not implicated in the placing or keeping of the article or explosive or poisonous or noxious gas or noxious substance on board the vessel or aircraft and that the offence in question was committed without his knowledge, consent or connivance, and the vessel or aircraft may be detained by order of the court until security has been given for such sum as the court orders not exceeding $20,000.
 
-(2) Except as provided by section 3(1)(f), the finding on board any vessel or aircraft of any article the exportation or removal of which is in contravention of any notification issued under section 4 or of any explosive or poisonous or noxious gas the importation of which is in contravention of any notification issued under section 5 or 6 shall be prima facie evidence that the vessel or aircraft has been used for the exportation, removal or importation of the same contrary to this Act.
+(2) Except as provided by section 3(1)(f), the finding on board any vessel or aircraft of any article the exportation or removal of which is in contravention of any notification issued under section 4 or of any explosive or poisonous or noxious gas or noxious substance the importation of which is in contravention of any notification issued under section 5 or 6 shall be prima facie evidence that the vessel or aircraft has been used for the exportation, removal or importation of the same contrary to this Act.
 
 Licences
 
 ### Licences required in respect of guns, arms and explosives
 
-8\.—(1) No person shall, unless authorised thereto by licence, and in accordance with the conditions of the licence and such conditions as are prescribed —
+8\.—(1) No person shall, unless authorised thereto by licence, and in accordance with the conditions of the licence and such other conditions as may be prescribed —
 
-(a) have in his possession or under his control any guns or arms or poisonous or noxious gas:
+(a) have in his possession or under his control any gun, arms, explosives, poisonous or noxious gas or noxious substance;
 
-Provided that this sub-paragraph shall not apply to bayonets, swords, daggers, spears and spearheads in any dwelling-house kept therein as curios or for ornamental purposes;
+(b) import any gun, arms, explosives, poisonous or noxious gas or noxious substance;
 
-(b) import any guns, arms or explosives or poisonous or noxious gas;
+(c) export any gun, arms, explosives, naval or military stores, poisonous or noxious gas or noxious substance; or
 
-(c) export any guns, arms or naval or military stores or poisonous or noxious gas; or
+(d) manufacture or deal in guns, arms, explosives, poisonous or noxious gas or noxious substance.
 
-(d) manufacture or deal in guns or arms or poisonous or noxious gas.
+[30/2002 wef 21/03/2003]
 
 (2) Any person who, in contravention of this section —
 
-(a) imports any guns, arms or explosives or poisonous or noxious gas;
+(a) imports any gun, arms, explosives, poisonous or noxious gas or noxious substance;
 
-(b) exports any guns, arms or poisonous or noxious gas or naval or military stores; or
+(b) exports any gun, arms, explosives, naval or military stores, poisonous or noxious gas or noxious substance; or
 
-(c) manufactures or deals in guns or arms or poisonous or noxious gas,
+(c) manufactures or deals in guns, arms, explosives, poisonous or noxious gas or noxious substance,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 and to imprisonment for a term which may extend to 3 years.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and to imprisonment for a term not exceeding 3 years.
 
-(3) Any person who, in contravention of this section, has in his possession or under his control any gun shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 for every such gun and to imprisonment for a term which may extend to 3 years.
+[30/2002 wef 21/03/2003]
 
-(4) Any person who, in contravention of this section, has in his possession or under his control any arms or poisonous or noxious gas shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and to imprisonment for a term which may extend to 3 years, and if, upon the conviction of any person of an offence under this subsection, it is proved to the satisfaction of the court before which the conviction is had that the offender had possession or control of the arms or poisonous or noxious gas for the purpose of committing an offence punishable under the Penal Code [Cap. 224], the offender shall, in addition to the imprisonment prescribed by this subsection, be liable to caning.
+(3) Any person who, in contravention of this section, has in his possession or under his control any gun shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 for every such gun and to imprisonment for a term which may extend to 3 years.
 
-### Appointment of licensing authority
+(4) Any person who, in contravention of this section, has in his possession or under his control any arms, explosives, poisonous or noxious gas or noxious substance shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and to imprisonment for a term which may extend to 3 years, and if, upon the conviction of any person of an offence under this subsection, it is proved to the satisfaction of the court before which the conviction is had that the offender had possession or control of the arms, explosives, poisonous or noxious gas or noxious substance for the purpose of committing an offence punishable under the Penal Code [Cap. 224], the offender shall, in addition to the imprisonment prescribed by this subsection, be liable to caning.
 
-9\.—(1) The Minister may, by rules made under section 40 or by notification in theGazette, appoint any person or authority to be the licensing authority for the purpose of carrying into effect all or any of the provisions of this Act or of any rules made thereunder.
+(5) Subsection (1)(a) shall not apply to any bayonet, sword, dagger, spear or spearhead in any dwelling-house kept therein as a curio or for ornamental purposes.
 
-(2) The licensing authority may issue licences under this Act to approved persons on payment of the prescribed fee and any other prescribed charges.
+[30/2002 wef 21/03/2003]
+
+### Appointment of Licensing Officer
+
+9\.—(1) The Minister may, by notification in theGazette, appoint a Licensing Officer and such number of Assistant Licensing Officers as he considers necessary for the purposes of this Act or any rules made thereunder.
+
+(2) The Licensing Officer may issue licences under this Act to any approved person on payment of the prescribed fee and any other prescribed charges.
+
+[30/2002 wef 21/03/2003]
 
 ### Conditions of licences
 
@@ -270,13 +444,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) it shall expire after such period as is prescribed;
 
-(b) it shall be liable to suspension or cancellation, without any reason being given therefor, at any time by the licensing authority; and
+(b) it shall be liable to suspension or cancellation, without any reason being given therefor, at any time by the Licensing Officer; and
 
 (c) it shall not be transferable save as in this Act provided.
 
 ### Appeal
 
-11\. Any person dissatisfied with any refusal, suspension or cancellation of a licence may within one month appeal in writing to the Minister whose decision shall be final and conclusive.
+11\. Any person dissatisfied with any refusal, suspension or cancellation of a licence may within 14 days appeal in writing to the Minister whose decision shall be final and conclusive.
 
 ### No purchase of guns or arms from licensed dealer without licence
 
@@ -284,7 +458,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) No licensed dealer shall deliver to any person any guns or arms except upon delivery to him of the licence nor beyond the extent permitted thereby.
 
-(3) Any person who commits any act in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200:
+(3) Any person who commits any act in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000:
 
 Provided that this section shall not apply to bayonets, swords, daggers, spears and spearheads bona fide intended to be kept as curios or for ornamental purposes.
 
@@ -292,45 +466,41 @@ Provided that this section shall not apply to bayonets, swords, daggers, spears 
 
 13\.—(1) Any person, not being a licensed dealer, in possession of any guns, arms or ammunition under a licence, may deliver the same to any other person who has produced to him a licence for the possession thereof:
 
-Provided that the person delivering the same forthwith returns his licence to the licensing authority or other proper officer, endorsed with a note containing the date of delivery and the name, address and description of the person to whom he has delivered the guns, arms or ammunition, or such other information as is prescribed.
+Provided that the person delivering the same forthwith returns his licence to the Licensing Officer or other proper officer, endorsed with a note containing the date of delivery and the name, address and description of the person to whom he has delivered the guns, arms or ammunition, or such other information as is prescribed.
 
-(3) Any person who commits any act in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
+(2) [Deleted by Act 22/2000 wef 01/08/2000]
+
+(3) Any person who commits any act in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 ### Provision upon death or bankruptcy, etc., of licensee
 
-14\.—(1) If a person licensed to import an explosive or any guns or arms dies or becomes bankrupt or becomes mentally incapable or otherwise disabled, the person carrying on the business of that licensee shall not be liable to any penalty or forfeiture for acting under the licence during such reasonable time as is necessary to allow him to make an application to the licensing authority for a new licence.
+14\.—(1) If a person licensed to import an explosive or any guns or arms dies or becomes bankrupt or becomes mentally incapable or otherwise disabled, the person carrying on the business of that licensee shall not be liable to any penalty or forfeiture for acting under the licence during such reasonable time as is necessary to allow him to make an application to the Licensing Officer for a new licence.
 
 (2) The second-mentioned person referred to in subsection (1) shall be deemed to be the holder of the licence for all purposes under this Act, and to be liable in the same way as if he were the original holder of the licence until a new licence is issued.
 
-### Guns, arms or explosives of which possession has become unlawful to be deposited at police station
+### Guns, arms or explosives of which possession has become unlawful to be deposited with authorised person
 
-15\.—(1) Any person, whose possession of guns, arms or explosives has become unlawful in consequence of the expiry, suspension or cancellation of a licence, shall without unnecessary delay deposit them at the nearest police station.
+15\.—(1) Any person whose possession of guns, arms or explosives has become unlawful in consequence of the expiry, suspension or cancellation of a licence shall, without unnecessary delay, deposit them with such authorised person and at such place as may be specified in the licence or by notice in writing by the Licensing Officer.
 
-(2) If the owner of any guns, arms or explosives so deposited does not, within 6 months from the date of deposit, produce a licence authorising him to possess them and apply for the delivery of them, the guns, arms or explosives shall be forfeited to the Government.
+[30/2002 wef 21/03/2003]
+
+(2) If the owner of any guns, arms or explosives so deposited does not, within 6 months from the date of deposit, produce a licence authorising him to possess them and apply for the delivery of them, the guns, arms or explosives deposited with an authorised person shall be forfeited to the Government.
 
 (3) Every person licensed to possess guns or arms under this Act and intending to leave Singapore for any period exceeding one month shall, unless he intends to export such guns or arms, before so leaving transfer them to some person authorised under section 13 to take delivery of them or deposit them for safe keeping at a police station.
 
-(4) The licensing authority may authorise in writing any police officer to search any house for any guns or arms which he has reason to believe have not been transferred or deposited as required by subsection (3).
+(4) The Licensing Officer may authorise in writing any police officer to search any house for any guns or arms which he has reason to believe have not been transferred or deposited as required by subsection (3).
 
 [21/73]
 
-### Forfeiture of arms or explosives deposited with the licensing authority
+### Forfeiture of arms or explosives deposited with authorised person or Licensing Officer
 
-16\. Any arms or explosives deposited with the licensing authority in accordance with the provisions of this Act or any rules made thereunder or any other written law for the time being in force shall, if not claimed by its owner or owners within 6 months from the date of the deposit, be forfeited to the Government.
+16\. Any arms or explosives deposited with an authorised person or the Licensing Officer in accordance with the provisions of this Act or any rules made thereunder or any other written law for the time being in force shall, if not claimed by its owner or owners within 6 months from the date of the deposit, be forfeited to the Government.
 
 [2/73]
 
 [15A
 
-### Permit to land may be granted
-
-17\.—(1) The licensing authority may, upon application by the master, owner or agent of any vessel or aircraft arriving or about to arrive at any port, grant a permit to that master, owner or agent authorising him to land any guns or arms consigned upon that vessel or aircraft to that port or for transhipment at that port.
-
-(2) The licensing authority may, upon application by the master, owner or agent of any vessel or aircraft arriving or about to arrive at any port, and having on board the vessel any guns or arms for transhipment at that port, grant to that master, owner or agent a permit to tranship the guns or arms.
-
-(3) That master, owner or agent shall thereupon cease to be liable to any prosecution for importing the guns or arms without a licence, but the granting of the permit shall not render any other person free from any prosecution for importing the guns or arms without a licence.
-
-[16
+17\. [Deleted by Act 30/2002 wef 21/03/2003]
 
 ### Minister may authorise erection of magazines or establishment of hulks
 
@@ -342,37 +512,37 @@ Other offences and penalties
 
 ### Knowingly concealing arms, etc., imported without a licence
 
-19\. Any person who knowingly conceals any guns, arms, explosives or poisonous or noxious gas imported unlawfully or without a licence, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 3 years and to a fine not exceeding $1,000 .
+19\. Any person who knowingly conceals any guns, arms, explosives or poisonous or noxious gas or noxious substance imported unlawfully or without a licence, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 3 years and to a fine not exceeding $5,000.
 
 [18
 
 ### Knowingly purchasing arms from person not licensed
 
-20\. Any person who knowingly purchases guns or arms from any person not licensed shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $400.
+20\. Any person who knowingly purchases guns or arms from any person not licensed shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 [19
 
 ### Failure to keep prescribed book or make prescribed entry or making false entry
 
-21\. Any person who, being required under any rules made under this Act to keep any book or to make any entry in any book, omits or fails duly to keep that book or make an entry, or obstructs or prevents the inspection of that book or entry, or makes a false entry, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 in addition to double the value of any articles sold of which he has failed to make an entry or respecting which he has made a false entry.
+21\. Any person who, being required under any rules made under this Act to keep any book or to make any entry in any book, omits or fails duly to keep that book or make an entry, or obstructs or prevents the inspection of that book or entry, or makes a false entry, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 in addition to double the value of any articles sold of which he has failed to make an entry or respecting which he has made a false entry.
 
 [20
 
 ### Resisting person in execution of power
 
-22\. Any person who assaults or obstructs or resists any person in the execution of any power vested in him by this Act or by any rules made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200 or to imprisonment for a term which may extend to 6 months or to both.
+22\. Any person who assaults or obstructs or resists any person in the execution of any power vested in him by this Act or by any rules made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term which may extend to 6 months or to both.
 
 [21
 
 ### Obstructing inspection of stock-in-trade
 
-23\. Any person who intentionally conceals from any officer duly authorised to inspect the stock-in-trade of any licensed dealer that stock-in-trade, or wilfully refuses to point out where the stock-in-trade is kept, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term which may extend to 2 years or to both.
+23\. Any person who intentionally conceals from any officer duly authorised to inspect the stock-in-trade of any licensed dealer that stock-in-trade, or wilfully refuses to point out where the stock-in-trade is kept, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term which may extend to 2 years or to both.
 
 [22
 
 ### General penalty
 
-24\. Any person who is guilty of any contravention of this Act or any rules made thereunder, for which no special provision is made, shall be liable on conviction to a fine not exceeding $200.
+24\. Any person who is guilty of any contravention of this Act or any rules made thereunder, for which no special provision is made, shall be liable on conviction to a fine not exceeding $1,000.
 
 [23
 
@@ -386,13 +556,13 @@ Other offences and penalties
 
 26\. All offences under this Act shall be triable by a District Court or a Magistrate’s Court:
 
-Provided that no Magistrate’s Court shall award a fine exceeding $500 or imprisonment exceeding 6 months. District Courts may, notwithstanding anything contained in the Criminal Procedure Code [Cap. 68], award the full penalties prescribed by this Act.
+Provided that no Magistrate’s Court shall award a fine exceeding $2,000 or imprisonment exceeding 6 months. District Courts may, notwithstanding anything contained in the Criminal Procedure Code [Cap. 68], award the full penalties prescribed by this Act.
 
 [25
 
 ### Sanction
 
-27\.—(1) No prosecution shall be instituted for any offence made punishable by section 4, 5 or 6 except with the written sanction of the Public Prosecutor or a Deputy Public Prosecutor or on the complaint of the licensing authority or the Port Master.
+27\.—(1) No prosecution shall be instituted for any offence made punishable by section 4, 5 or 6 except with the written sanction of the Public Prosecutor or a Deputy Public Prosecutor or on the complaint of the Licensing Officer or the Port Master.
 
 (2) Such a sanction shall state under what section or sections the prosecution is instituted, but if, in the course of the trial, it appears necessary to the court to alter, add to or amend any charge, no further or other sanction shall be necessary.
 
@@ -404,13 +574,13 @@ Provided that no Magistrate’s Court shall award a fine exceeding $500 or impri
 
 ### Rewards to informers
 
-28\. In the case of a conviction under any section of this Act involving a fine, the court inflicting the fine may direct, on the application of the licensing authority or other person conducting the prosecution, that any part, not exceeding one-half thereof, shall be paid to any person who has given such information to the police as has led to the conviction of the offender or offenders, or, if there is more than one such person, may direct it to be divided amongst them in such proportions as the court orders.
+28\. In the case of a conviction under any section of this Act involving a fine, the court inflicting the fine may direct, on the application of the Licensing Officer or other person conducting the prosecution, that any part, not exceeding one-half thereof, shall be paid to any person who has given such information to the police as has led to the conviction of the offender or offenders, or, if there is more than one such person, may direct it to be divided amongst them in such proportions as the court orders.
 
 [27
 
 ### Forfeitures
 
-29\.—(1) All articles with regard to which any offence has been committed under this Act or any rules made or permit granted thereunder, or in respect of which a breach has been committed of any of the restrictions or conditions subject to or upon which any licence has been issued, may be seized by any police officer and, together with the receptacles containing them, shall be forfeited to the Government on application made by the licensing authority.
+29\.—(1) All articles with regard to which any offence has been committed under this Act or any rules made or permit granted thereunder, or in respect of which a breach has been committed of any of the restrictions or conditions subject to or upon which any licence has been issued, may be seized by any police officer and, together with the receptacles containing them, shall be forfeited to the Government on application made by the Licensing Officer.
 
 (2) All guns, arms, naval or military stores and war material of any kind whatsoever which are found without an apparent owner may be seized by any police officer, and if, after such notice given as to a Magistrate’s Court seems fit, no owner appears, they shall be forfeited to the Government.
 
@@ -446,17 +616,17 @@ the court may, by warrant directed to any police officer or police officers, aut
 
 ### Search for arms, etc.
 
-32\.—(1) The licensing authority may authorise, by writing, any police officer to search any house or the houses in any district for any guns, arms, explosives or poisonous or noxious gas , and may in like manner authorise the police officer to require any person or the persons living in any district to produce his or their licence or licences for the possession of guns, arms, explosives or poisonous or noxious gas, and to produce or account for the things covered thereby.
+32\.—(1) The Licensing Officer may authorise, by writing, any police officer to search any house or the houses in any district for any guns, arms, explosives or poisonous or noxious gas or noxious substance, and may in like manner authorise the police officer to require any person or the persons living in any district to produce his or their licence or licences for the possession of guns, arms, explosives or poisonous or noxious gas or noxious substance, and to produce or account for the things covered thereby.
 
 [21/73]
 
-(2) Any person who fails to give a satisfactory account to the police officer for any guns, arms, explosives or poisonous or noxious gas in his possession or under his control during the existence or after the expiry, suspension or cancellation of a licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
+(2) Any person who fails to give a satisfactory account to the police officer for any guns, arms, explosives or poisonous or noxious gas or noxious substance in his possession or under his control during the existence or after the expiry, suspension or cancellation of a licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 [31
 
 ### Search of vessels or aircraft
 
-33\.—(1) If any vessel or aircraft, about to leave any port of Singapore —
+33\.—(1) If any vessel or aircraft that is in or that is about to leave any port or airport of Singapore —
 
 (a) is suspected of having on board any article, the exportation or removal of which is absolutely prohibited by a notification issued under this Act, and which is not exempted by this Act or by any licence issued under this Act;
 
@@ -466,7 +636,7 @@ the court may, by warrant directed to any police officer or police officers, aut
 
 (d) is suspected of having on board any guns, arms, explosives or naval or military stores for the exportation of which no licence has been issued,
 
-the Port Master or the licensing authority may issue a search warrant directed to any boarding officer or boarding officers or any police officer named or referred to in the warrant.
+the Port Master, the Licensing Officer, the Commander, Airport Police or the Commander, Police Coast Guard may issue a search warrant directed to any boarding officer or boarding officers or any police officer named or referred to in the warrant.
 
 (2) In the execution of the warrant any person to whom the warrant is directed may —
 
@@ -476,7 +646,7 @@ the Port Master or the licensing authority may issue a search warrant directed t
 
 (c) arrest any person reasonably suspected of being guilty of an offence under this Act.
 
-(3) The Port Master or the licensing authority may himself do what he may authorise a police officer to do under this section in either of the following cases:
+(3) The Port Master, the Licensing Officer, the Commander, Airport Police or the Commander, Police Coast Guard may himself do what he may authorise a police officer to do under this section in either of the following cases:
 
 (a) if he has personal knowledge of such facts as satisfy him that there are sufficient grounds for a search;
 
@@ -484,13 +654,21 @@ the Port Master or the licensing authority may issue a search warrant directed t
 
 (4) If, upon any search made under this section —
 
-(a) any article, the exportation or removal of which is absolutely prohibited by any notification issued under this Act, and which is not exempted by this Act or by any licence issued under this Act, is found on board any vessel or aircraft about to leave any port of Singapore;
+(a) any article, the exportation or removal of which is absolutely prohibited by any notification issued under this Act, and which is not exempted by this Act or by any licence issued under this Act, is found on board any vessel or aircraft about to leave any port or airport of Singapore;
 
-(b) any article, the exportation of which to any particular country, territory or place is prohibited by any such notification, and which is not exempted as aforesaid, is found on board any vessel or aircraft about to leave any port of Singapore for that country, territory or place; or
+(b) any article, the exportation of which to any particular country, territory or place is prohibited by any such notification, and which is not exempted as aforesaid, is found on board any vessel or aircraft about to leave any port or airport of Singapore for that country, territory or place; or
 
-(c) any article, for the exportation of which a licence is required by this Act, is found on board any vessel or aircraft about to leave any port of Singapore,
+(c) any article, for the exportation of which a licence is required by this Act, is found on board any vessel or aircraft about to leave any port or airport of Singapore,
 
 it shall be presumed, unless the contrary is proved, that the article was attempted to be exported or removed contrary to this Act, or that the article was attempted to be exported without a licence, as the case may be, and that vessel or aircraft may be detained for the purpose of removing that article therefrom, and the article may be removed.
+
+(5) In this section, “Commander, Airport Police” and “Commander, Police Coast Guard” mean the persons designated by the Commissioner of Police as such.
+
+[30/2002 wef 21/03/2003]
+
+[32
+
+[21/73]
 
 ### Persons conveying arms, etc., may be apprehended without warrant in suspicious circumstances
 
@@ -502,7 +680,7 @@ it shall be presumed, unless the contrary is proved, that the article was attemp
 
 ### Power to arrest without warrant persons committing dangerous offences
 
-35\. Any person who is found committing any act for which he is punishable under this Act, which tends to cause explosion or fire in or about any place where an explosive is manufactured or stored, or any railway or port or any carriage or vessel, may be apprehended without a warrant by a police officer or by the occupier of or the agent or employee of or other person authorised by the occupier of that place, or by an agent or employee of or other person authorised by the railway administration or the Maritime and Port Authority of Singapore.
+35\. Any person who is found committing any act for which he is punishable under this Act, which tends to cause explosion or fire in or about any place where an explosive is manufactured or stored, or any railway, port or airport or any carriage, vessel or aircraft, may be apprehended without a warrant by a police officer or by the occupier of or the agent or employee of or other person authorised by the occupier of that place, or by an agent or employee of or other person authorised by the railway administration or the Maritime and Port Authority of Singapore.
 
 [34
 
@@ -552,13 +730,13 @@ General
 
 (g) to regulate or prohibit, except under or in accordance with the conditions of a licence, the manufacture, possession, use, sale, purchase, storage, transport, importation and exportation of explosives or any specified class of explosives;
 
-(h) to regulate or prohibit except under and in accordance with the conditions of a licence, the manufacture, possession, use, sale, purchase, storage, transport, importation and exportation of poisonous or noxious gases or any specified class of poisonous or noxious gases ;
+(h) to regulate or prohibit except under and in accordance with the conditions of a licence, the manufacture, possession, use, sale, purchase, storage, transport, importation and exportation of poisonous or noxious gases or noxious substances or any specified class of poisonous or noxious gases or noxious substances;
 
 (i) to regulate the tests to which various classes or any particular class of explosive may or shall be subjected before permission is granted to land the same in Singapore;
 
-(j) to regulate the duties of the Port Master under this Act or of the licensing authority or of any other officer vested with powers under this Act or any rules made under this Act;
+(j) to regulate the duties of the Port Master under this Act or of the Licensing Officer or of any other officer vested with powers under this Act or any rules made under this Act;
 
-(k) to declare what duties may be carried out by subordinate police officers under the direction and control of the licensing authority, and to regulate the conduct of such duties;
+(k) to declare what duties may be carried out by subordinate police officers under the direction and control of the Licensing Officer, and to regulate the conduct of such duties;
 
 (l) to regulate the manner in which applications for licences shall be made, and the matters to be specified in them;
 
@@ -586,6 +764,10 @@ General
 
 (s) to regulate the disposition, destruction or sale of all articles forfeited under this Act;
 
+(sa) to regulate the possession and use of arms by schools and clubs for sporting activities and to exempt any school or club from the requirement for a licence under this Act, subject to such conditions as may be prescribed;
+
+[30/2002 wef 21/03/2003]
+
 (t) generally to give effect to the provisions of this Act.
 
 (2) The Minister may in making any rules prescribe the penalty with which the contravention thereof shall be punishable, but so that no such penalty shall exceed imprisonment for a term of 2 years or a fine of $5,000 or both and, in the case of a continuing contravention, a fine of $2,000 for every day during which the offence continues.
@@ -598,11 +780,17 @@ General
 
 [39
 
+### Power to amend Schedule
+
+40A\. The Minister may, by order published in theGazette, amend the Schedule.
+
+[30/2002 wef 21/03/2003]
+
 ### Notice of accidents
 
-41\.—(1) Whenever there occurs, in or about or in connection with any place in which an explosive is manufactured, possessed or used, or any carriage, vessel or aircraft either conveying an explosive or on or from which an explosive is being loaded or unloaded, any accident by explosion or by fire attended with loss of human life, or serious injury to person or property, or of a description usually attended with such loss or injury, the occupier of the place, or the master of the vessel, or the person in charge of the carriage shall forthwith give notice thereof to the officer in charge of the nearest police station.
+41\.—(1) Whenever there occurs, in or about or in connection with any place in which an explosive is manufactured, possessed or used, or any carriage, vessel or aircraft either conveying an explosive or on or from which an explosive is being loaded or unloaded, any accident by explosion or by fire attended with loss of human life, or serious injury to person or property, or of a description usually attended with such loss or injury, the occupier of the place the master of the vessel, the pilot-in-command of the aircraft or the person in charge of the carriage shall forthwith give notice thereof to the officer in charge of the nearest police station.
 
-(2) Any such occupier, master or person who fails to give notice as required by subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+(2) Any such occupier, master, pilot-in-command or person who fails to give notice as required by subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
 
 [40
 
@@ -615,6 +803,112 @@ General
 (3) The Magistrate or the Port Master shall on the conclusion of the inquiry forward to the Public Prosecutor or to a Deputy Public Prosecutor a copy of the proceedings and a report in writing as to the nature and cause of the accident and shall state whether in his opinion it was caused by design or was the result of accident or of negligence stating the full particulars of the case and the reasons for the conclusions he has arrived at.
 
 [41
+
+## THE SCHEDULE
+
+Section 2(1)
+
+Detection Agents
+
+First column
+
+Second column
+
+Third column
+
+Fourth column
+
+Name of detection agent
+
+Molecular formula
+
+Molecular weight
+
+Minimum concentration
+
+Ethylene glycol dinitrate
+
+
+
+
+(EGDN)
+
+C
+
+2
+
+H
+
+4
+
+(NO
+
+3
+
+)
+
+2
+
+152
+
+0.2% by mass
+
+2,3-Dimethyl-2,3-
+
+
+
+
+dinitrobutane
+
+
+
+
+(DMNB)
+
+C
+
+6
+
+H1
+
+2
+
+(NO
+
+2
+
+)
+
+2
+
+176
+
+0.1% by mass
+
+para-Mononitrotoluene
+
+
+
+
+(p-MNT)
+
+C
+
+7
+
+H
+
+7
+
+NO
+
+2
+
+137
+
+0.5% by mass.
+
+[30/2002 wef 21/03/2003]
 
 ## LEGISLATIVE HISTORY
 
@@ -745,3 +1039,8 @@ This Legislative History is provided for the convenience of users of the Arms an
 |||(Bill No. 17/2000 published on 23 May 2000)|
 ||Date of Second and Third Readings|3 July 2000|
 ||Date of commencement|1 August 2000|
+|30.|**Act 30 of 2002—Arms and Explosives (Amendment) Act 2002**|
+||Date of First Reading|1 October 2002|
+|||(Bill No. 32/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|21 March 2003|
