@@ -491,6 +491,10 @@ Singapore Red Cross Society
 
 Singapore Rugby Union
 
+66B. 
+
+Chinese Calligraphy Society of Singapore
+
 67. 
 
 Singapore Scout Association
@@ -576,6 +580,8 @@ Young Women Muslim Association (Persatuan Pemudi Islam Singapura)
 
 [S 140/1988 wef 10/06/1988]
 
+[S 360/1988 wef 11/11/1988]
+
 SECOND SCHEDULE
 
 Section 15(1).
@@ -637,3 +643,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|29 January 1988|
 |18.|**G.N. No. S 140/88—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1988**|
 ||Date of commencement|10 June 1988|
+|19.|**G.N. No. S 360/88—People’s Association Act (Amendment of First Schedule) Notification 1988**|
+||Date of commencement|11 November 1988|
