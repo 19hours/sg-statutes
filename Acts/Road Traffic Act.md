@@ -172,6 +172,8 @@
 
 - [65 Driving without due care or reasonable consideration](#Driving-without-due-care-or-reasonable-consideration)
 
+- [65A Collision of heavy motor vehicles and public service vehicles with buildings or structures](#Collision-of-heavy-motor-vehicles-and-public-service-vehicles-with-buildings-or-structures)
+
 - [66 Causing death by reckless or dangerous driving](#Causing-death-by-reckless-or-dangerous-driving)
 
 - [67 Driving while under influence of drink or drugs](#Driving-while-under-influence-of-drink-or-drugs)
@@ -182,9 +184,15 @@
 
 - [69 Breath tests](#Breath-tests)
 
-- [70 Presumption of incapability of having proper control of motor vehicle](#Presumption-of-incapability-of-having-proper-control-of-motor-vehicle)
+- [70 Provision of specimen for analysis](#Provision-of-specimen-for-analysis)
 
-- [71 Breath tests](#Breath-tests)
+- [71 Protection of hospital patients](#Protection-of-hospital-patients)
+
+- [71A Evidence in proceedings for offences under sections 67 and 68](#Evidence-in-proceedings-for-offences-under-sections-67-and-68)
+
+- [71B Deputy Commissioner of Police may require medical practitioner to send blood specimen for laboratory test](#Deputy-Commissioner-of-Police-may-require-medical-practitioner-to-send-blood-specimen-for-laboratory-test)
+
+- [71C Interpretation of sections 67 to 71B](#Interpretation-of-sections-67-to-71B)
 
 - [72 Driving motor vehicle which emits excessive smoke](#Driving-motor-vehicle-which-emits-excessive-smoke)
 
@@ -218,7 +226,7 @@
 
 [**Miscellaneous**](#Miscellaneous)
 
-- [86 Power of Minister to authorise on specified roads carriage of greater weights](#Power-of-Minister-to-authorise-on-specified-roads-carriage-of-greater-weights)
+- [86 Power of Authority to authorise on specified roads carriage of greaterweights](#Power-of-Authority-to-authorise-on-specified-roads-carriage-of-greaterweights)
 
 - [87 Power to order production of vehicle and licence](#Power-to-order-production-of-vehicle-and-licence)
 
@@ -242,7 +250,7 @@
 
 - [97 Restriction on persons taking hold of motor vehicle in motion](#Restriction-on-persons-taking-hold-of-motor-vehicle-in-motion)
 
-- [98 Application to vehicles belonging to Government and armed forces](#Application-to-vehicles-belonging-to-Government-and-armed-forces)
+- [98 Application to vehicles belonging to Government and armedforces](#Application-to-vehicles-belonging-to-Government-and-armedforces)
 
 [**Part V PUBLIC SERVICE VEHICLES**](#Part-V)
 
@@ -286,7 +294,7 @@
 
 - [117 Court to order forfeiture of vehicle](#Court-to-order-forfeiture-of-vehicle)
 
-- [118 Power to prohibit or restrict use of vehicles on certain bridges](#Power-to-prohibit-or-restrict-use-of-vehicles-on-certain-bridges)
+- [118 Power to prohibit or restrict use of vehicles on certainbridges](#Power-to-prohibit-or-restrict-use-of-vehicles-on-certainbridges)
 
 - [119 Power to place traffic signs](#Power-to-place-traffic-signs)
 
@@ -296,7 +304,7 @@
 
 - [122 Leaving vehicles in positions likely to cause danger, obstruction or undue inconvenience](#Leaving-vehicles-in-positions-likely-to-cause-danger-obstruction-or-undue-inconvenience)
 
-- [123 Removal from roads of vehicles abandoned, etc.](#Removal-from-roads-of-vehicles-abandoned-etc)
+- [123 Removal, detention or immobilisation of vehicles abandoned,etc.](#Removal-detention-or-immobilisation-of-vehicles-abandonedetc)
 
 - [124 Provisions with respect to stretching of ropes, etc., across roads](#Provisions-with-respect-to-stretching-of-ropes-etc-across-roads)
 
@@ -326,7 +334,7 @@
 
 - [136 Payment for licences by cheque](#Payment-for-licences-by-cheque)
 
-- [137 Moneys received to be paid into Consolidated Fund](#Moneys-received-to-be-paid-into-Consolidated-Fund)
+- [137 Moneys received under this Act](#Moneys-received-under-this-Act)
 
 - [138 Registrar and Deputy Commissioner of Police to be informed of convictions](#Registrar-and-Deputy-Commissioner-of-Police-to-be-informed-of-convictions)
 
@@ -343,6 +351,8 @@
 - [144 Property left in public service vehicles](#Property-left-in-public-service-vehicles)
 
 - [145 Transitional provision](#Transitional-provision)
+
+[**THE SCHEDULE**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -367,6 +377,10 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 ### Interpretation
 
 2\.—(1) In this Act —
+
+“Authority” means the Land Transport Authority of Singapore established under the Land Transport Authority of Singapore Act 1995.
+
+[Act 28/95 wef 01/09/1995 vide S 381/95]
 
 “bicycle” means a two-wheeled pedal cycle constructed or adapted for use as a means of conveyance;
 
@@ -398,7 +412,9 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 (a) except as provided in paragraph (b), the Minister for Communications;
 
-(b) for the purposes of the whole of Parts II and III and sections 63(2) and(3), 74, 75, 76, 112 to 116, 121, 123, 132, 133(7), 134 and 135(2), the Minister for Home Affairs;
+(b) for the purposes of the whole of Parts II and III and sections 63(2) and(3), 74, 75, 76, 112 to 116, 121, 123, 132, 133(7) and 134, the Minister for Home Affairs;
+
+[Act 28/95 wef 01/09/1995]
 
 “motor spirit” has the same meaning as in the Customs Act;
 
@@ -484,7 +500,9 @@ REGISTRATION AND LICENSING OF VEHICLES
 
 (g) invalid carriages; that is to say, motor vehicles the weight of which unladen does not exceed 250 kilograms and which are specially designed and constructed and not merely adapted for the use of persons suffering from some physical defect or disability and are used solely by such persons.
 
-(2) The Minister may make rules for subdividing any such class as aforesaid whether according to weight, construction, nature of tyres, use or otherwise and making different provision with respect to each subdivision and varying in respect of any class the maximum or minimum weight fixed by this section.
+(2) The Authority may make rules for subdividing any such class as aforesaid whether according to weight, construction, nature of tyres, use or otherwise and making different provision with respect to each subdivision and varying in respect of any class the maximum or minimum weight fixed by this section.
+
+[Act 28/95 wef 01/09/1995]
 
 (3) Any reference in this Part to a class of motor vehicles shall include a reference to any subdivision of such a class.
 
@@ -500,9 +518,11 @@ REGISTRATION AND LICENSING OF VEHICLES
 
 5\.—(1) Subject as hereinafter provided, it shall not be lawful to use a vehicle or trailer which does not comply with the rules as to construction, weight and equipment applicable to the class or description of vehicles to which the vehicle or trailer belongs:
 
-Provided that the Minister may, by notification in theGazette, authorise, subject to such restrictions and conditions as may be specified in the notification, the use of special vehicles or trailers or special types of vehicles or trailers which are constructed either for special purposes or for tests or trials and of new or improved types of vehicles or trailers whether wheeled or wheel-less.
+Provided that the Authority may by notification in theGazette, authorise, subject to such restrictions and conditions as may be specified in the notification, the use of special vehicles or trailers or special tyres of vehicles or trailers which are constructed either for special purposes or for tests or trials and of new or improved types of vehicles or trailers whether wheeled or wheel-less.
 
-(2) The Minister may at any time revoke, vary or amend a notification made under this section.
+[Act 28/95 wef 01/09/1995]
+
+(2) The Authority may at any time revoke, vary or amend a notification made under this section.
 
 (3) Subject to this section, it shall not be lawful to sell or to supply or to offer to sell or supply a vehicle or trailer for delivery in such a condition that the use thereof in that condition would be unlawful by virtue of this section.
 
@@ -514,7 +534,7 @@ Provided that the Minister may, by notification in theGazette, authorise, subjec
 
 ### Rules as to use and construction of vehicles
 
-6\. The Minister may make rules generally as to the use of vehicles and trailers, their construction and equipment and the conditions under which they may be used and, in particular, may make rules —
+6\. The Authority may make rules generally as to the use of vehicles and trailers, their construction and equipment and the conditions under which they may be used and, in particular, may make rules —
 
 (a) to regulate the width, height, wheel base, length and overhang of vehicles and trailers and the load carried thereby, the diameter of wheels and the width, nature and condition of tyres of vehicles and trailers and to prohibit the use of any tyres likely to cause damage to the roads;
 
@@ -556,6 +576,8 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 and different rules may be made in respect of different classes or descriptions of vehicles or in respect of the same class or description of vehicles in different circumstances.
 
+[Act 28/95 wef 01/09/1995]
+
 [20/89]
 
 ### Alteration of fuel-measuring equipment
@@ -580,13 +602,15 @@ and different rules may be made in respect of different classes or descriptions 
 
 ### Appointment of Registrar, Deputy Registrar and assistant registrars
 
-9\.—(1) The Minister shall appoint one of its officers as the Registrar of Vehicles who shall carry out such duties as may be assigned to him under this Act and the rules.
+9\.—(1) The Authority shall appoint one of its officers as the Registrar of Vehicles who shall carry out such duties as may be assigned to him under this Act and the rules.
 
-(2) The Minister may appoint among its officers a Deputy Registrar and such number of assistant registrars as may from time to time be required for the purposes of this Act.
+(2) The Authority may appoint among its officers a Deputy Registrar and such number of assistant registrars as may from time to time be required for the purposes of this Act.
 
-(3) The Minister may from time to time give to the Registrar such directions, not inconsistent with the provisions of this Act, as he may consider necessary for carrying out the provisions of this Part, and may from time to time vary or revoke such directions, and the Registrar shall comply with any directions so given.
+(3) The Authority may from time to time give to the Registrar such directions, not inconsistent with the provisions of this Act, as it may consider necessary for carrying out the provisions of this Part, and may from time to time vary or revoke such directions, and the Registrar shall comply with any directions so given.
 
-(4) The Registrar shall cause to be printed and provided the forms of licences and of applications for the licences and all declarations, notices, returns, books of accounts and other documents required by the rules or otherwise bylaw required with respect to any matter to which this Act relates.
+(4) The Registrar shall cause to be printed and provided the forms of licences and of applications for the licences and all declarations, notices, returns, books or accounts and other documents required by the rules or otherwise bylaw required with respect to any matter to which this Act relates.
+
+[Act 28/95 wef 01/09/1995]
 
 ### Registration of vehicles
 
@@ -684,7 +708,7 @@ and the tax shall be paid upon a licence to be taken out by the person keeping t
 
 ### Restricted licences and supplementary licences
 
-11A\.—(1) The Registrar may, upon application by the owner of a motor car in such circumstances as may be prescribed, issue a licence subject to the restriction that the motor car shall not be driven on any road or on any specified road during specified days or times unless there is in force a supplementary licence for that motor car.
+11A\.—(1) The Registrar may, upon application by the owner of a motor car in such circumstances as may be prescribed, issue a licence subject to the restriction that the motor car shall not be driven on any roads or on any specified road during specified days or times unless there is in force a supplementary licence for that motor car.
 
 [16/91]
 
@@ -888,7 +912,7 @@ Provided that a person charged under this section with having an obscured mark o
 
 27\.—(1) The Registrar may cancel the registration of a motor vehicle —
 
-(a) if the permit issued under section 10A authorising the registration of the vehicle under this Act has been cancelled or has expired and has not been restored or renewed within the time prescribed therefor by this Act or any rules;
+(a) if a permit issued under section 10A authorising the registration of the vehicle under this Act has been cancelled or has expired and has not been restored or renewed within the time prescribed therefor by this Act or any rules;
 
 (b) if no licence has been taken out for the vehicle for a period exceeding 3 years by the registered owner who has notified the Registrar that he will not use the vehicle during that period;
 
@@ -950,7 +974,9 @@ Provided that a person charged under this section with having an obscured mark o
 
 (2) The person to whom any warrant is addressed may break open in the daytime any house or building for the purpose of the seizure of the vehicle in pursuance of such warrant.
 
-(3) Such fees as are prescribed by the Minister shall be payable by way of costs in the case of the issue of a warrant for the recovery of any tax under this section.
+(3) Such fees as are prescribed by the Authority shall be payable by way of costs in the case of the issue of a warrant for the recovery of any tax under this section.
+
+[Act 28/95 wef 01/09/1995]
 
 ### Limitation on bringing of proceedings for recovery of over-payment of tax
 
@@ -1038,9 +1064,19 @@ Provided that for the purposes of this subsection, “holder of a driving licenc
 
 (7) Subject to the provisions of this Act or the rules, a driving licence not being a provisional licence shall, unless previously revoked or surrendered, remain in force for a period of either one year or 3 years from the date of its grant or renewal as the applicant may elect at the time of the application for the grant or renewal of a licence and on payment of the fee prescribed for the period.
 
-(7A) The Deputy Commissioner of Police may refuse to renew any driving licence, or renew it for a period of one year only notwithstanding that the applicant has elected to renew it for 3 years, if he is satisfied that the holder thereof has not complied with any warrant or process of court issued against him in respect of any offence or offences committed by him under this Act or the rules.
+[Act 11/96 wef 10/05/1996]
+
+(7A) The Deputy Commissioner of Police may refuse to renew any driving licence, or renew it for a period of one year only notwithstanding that the applicant has elected to renew it for 3 years, if he is satisfied that the holder thereof has not complied with any warrant or process of court issued against him in respect of any offence or offences committed by him under this Act or the rules or any written law specified in Part II of the Schedule.
 
 [7/90]
+
+[8/94]
+
+(7AA) Subject to subsection (7AB), the Minister may, by notification published in theGazette, amend Part II of the Schedule.
+
+[8/94]
+
+(7AB) The Minister shall before exercising his powers under subsection (7AA),consult the Minister responsible for the written law to which the amendment relates.
 
 [8/94]
 
@@ -1118,7 +1154,9 @@ Provided that for the purposes of this subsection, “holder of a driving licenc
 
 [9/85]
 
-(5) The court before which a person is convicted of an offence under section 64 or 65 may, whether he has previously passed the prescribed test of competence to drive or not and whether or not the court makes an order undersection 42 disqualifying him from holding or obtaining a licence to drive a motor vehicle, order him to be disqualified from holding or obtaining a licence to drive a motor vehicle until he has since the date of the order passed the test.
+(5) The court before which a person is convicted of an offence under section 65 or 65A may, whether he has previously passed the prescribed test of competence to drive or not and whether or not the court makes an order undersection 42 disqualifying him from holding or obtaining a licence to drive a motor vehicle, order him to be disqualified from holding or obtaining a licence to drive a motor vehicle until he has since the date of the order passed the test.
+
+[Act 11/96 wef 10/05/1996]
 
 (6) The provisions of this Act which have effect where an order disqualifying a person from holding or obtaining a driving licence is made shall have effect in relation to a disqualification by virtue of an order under this section subject to the following modifications:
 
@@ -1290,9 +1328,13 @@ whichever period is the longer.
 
 47C\.—(1) Where a person drives a motor vehicle on a road or other public place —
 
-(a) whilst under the influence of drink or of a drug or an intoxicating substance in contravention of section 67(1)(a); or
+(a) whilst under the influence of drink or of a drug or an intoxicating substance in contravention of section 67(1)(a) ; or
 
-(b) without a policy of insurance in respect of third-party risks in contravention of section 3(1) of the Motor Vehicles (Third-Party Risks and Compensation) Act,
+(b) whilst he has so much alcohol in his body that the proportion of it in his breath or blood exceeds the prescribed limit in contravention of section 67(1)(b); or
+
+(c) without a policy of insurance in respect of third-party risks in contravention of section 3(1) of the Motor Vehicles (Third-Party Risks and Compensation) Act,
+
+[Act 11/96 wef 10/05/1996 vide S 212/96]
 
 and whilst so driving causes death or serious injury to any other person, the Deputy Commissioner of Police may, where the first-mentioned person is charged for that offence, suspend his driving licence from the date he is charged for the offence, and the suspension shall remain in force until the offence is tried and determined by a court.
 
@@ -1488,9 +1530,11 @@ Provisions as to driving and offences in connection therewith
 
 62\.—(1) A person under 16 years of age shall not drive a motor vehicle on a road.
 
-(2) A person under 17 years of age shall not drive a motor vehicle other than a motor cycle or an invalid carriage on a road.
+(2) A person who has attained the age of 16 years but who is under the age of 18 years shall not drive a motor vehicle other than an invalid carriage on a road.
 
-(3) A person under 21 years of age shall not drive a heavy locomotive, light locomotive, motor tractor or heavy motor car on a road.
+(3) A person who has attained the age of 18 years but who is under the age of 21 years shall not drive a heavy locomotive, light locomotive, motor tractor or heavy motor car on a road.
+
+[Subst. by Act 11/96 wef 10/05/1996]
 
 (4) The burden of establishing his age shall rest on the applicant for a driving licence.
 
@@ -1528,7 +1572,9 @@ Provisions as to driving and offences in connection therewith
 
 ### Reckless or dangerous driving
 
-64\.—(1) If any person drives a motor vehicle on a road recklessly, or at a speed or in a manner which is dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the road, and the amount of traffic which is actually at the time, or which might reasonably be expected to be, on the road, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+64\.—(1) If any person drives a motor vehicle on a road recklessly, or at a speed or in a manner which is dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the road, and the amount of traffic which is actually at the time, or which might reasonably be expected to be, on the road, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 11/96 wef 10/05/1996]
 
 (2) On a second or subsequent conviction under this section, the convicting court shall exercise the power conferred by section 42 of ordering that the offender shall be disqualified from holding or obtaining a driving licence unless the court, having regard to the lapse of time since the date of the previous or last previous conviction or for any other special reason, thinks fit to order otherwise, but this provision shall not be construed as affecting the right of the court to exercise the power aforesaid on a first conviction.
 
@@ -1536,7 +1582,23 @@ Provisions as to driving and offences in connection therewith
 
 ### Driving without due care or reasonable consideration
 
-65\. If any person drives a motor vehicle on a road without due care and attention or without reasonable consideration for other persons using the road, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+65\. If any person drives a motor vehicle on a road without due care and attention or without reasonable consideration for other persons using the road, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 11/96 wef 10/05/1996]
+
+### Collision of heavy motor vehicles and public service vehicles with buildings or structures
+
+65A\.—(1) Any person who, when driving or attempting to drive —
+
+(a) a heavy motor vehicle as defined in section 79(6); or
+
+(b) a public service vehicle as defined in section 100(1)(a), (b), (c),(f) or (g),
+
+causes the heavy motor vehicle or public service vehicle to collide with any building or structure shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+(2) In this section, “structure” includes any bus shelter, gantry post, overhead bridge and pillar.
+
+[Act 11/96 wef 10/05/1996]
 
 ### Causing death by reckless or dangerous driving
 
@@ -1548,9 +1610,17 @@ Provisions as to driving and offences in connection therewith
 
 ### Driving while under influence of drink or drugs
 
-67\.—(1) Any person who, when driving or attempting to drive a motor vehicle on a road or other public place, is under the influence of drink or of a drug to such an extent as to be incapable of having proper control of such vehicle shall be guilty of an offence and shall be liable on conviction to a fine of not less than $1,000 and not more than $5,000 or to imprisonment for a term not exceeding 6 months and, in the case of a second or subsequent conviction, to a fine of not less than $3,000 and not more than $10,000 and to imprisonment for a term not exceeding 12 months.
+67\.—(1) Any person who, when driving or attempting to drive a motor vehicle on a road or other public place —
+
+(a) is unfit to drive in that he is under the influence of drink or of a drug or an intoxicating substance to such an extent as to be incapable of having proper control of such vehicle; or
+
+(b) has so much alcohol in his body that the proportion of it in his breath or blood exceeds the prescribed limit,
+
+shall be guilty of an offence and shall be liable on conviction to a fine of not less than $1,000 and not more than $5,000 or to imprisonment for a term not exceeding 6 months and, in the case of a second or subsequent conviction, to a fine of not less than $3,000 and not more than $10,000 and to imprisonment for a term not exceeding 12 months.
 
 [7/90]
+
+[Act 11/96 wef 10/05/1996]
 
 (2) A person convicted of an offence under this section shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified from holding or obtaining a driving licence for a period of not less than 12 months from the date of his conviction or, where he is sentenced to imprisonment, from the date of his release from prison.
 
@@ -1562,21 +1632,45 @@ Provisions as to driving and offences in connection therewith
 
 ### Enhanced penalties for repeat offenders with previous convictions under certain sections
 
-67A\.—(1) Where a person having been convicted on at least two previous occasions of an offence under section 43(3A), 47(5), 47C(5), 63(4), 64(1), 66(1) or 67(1) is convicted of the same offence (such person shall be referred to in this section as a repeat offender), the court shall have the power to impose a punishment in excess of that prescribed for such conviction as follows:
+67A\.—(1) Where a person having been convicted on at least 2 previous occasions of any one or more of the offences under section 43(3A), 47(5), 47C(5), 63(4), 64(1), 66(1), 67(1) and 70(4) is again convicted of an offence undersection 43(3A), 47(5), 47C(5), 63(4), 64(1), 66(1), 67(1) or 70(4),the court shall have the power to impose a punishment in excess of that prescribed for such conviction as follows:
 
 (a) where the court is satisfied, by reason of his previous convictions or his antecedents, that it is expedient for the protection of the public or with the view to the prevention of further commission of any such offence that a punishment in excess of that prescribed for such a conviction should be awarded, then the court may punish such offender with punishment not exceeding 3 times the amount of punishment to which he would otherwise have been liable for such a conviction except that where imprisonment is imposed it shall not exceed 10 years; and
 
-(b) notwithstanding section 11 of the Criminal Procedure Code, if such repeat offender while committing the offence under section 43(3A), 47(5), 47C(5), 64(1), 66(1) or 67(1) causes any serious injury or death to another person, the court may also punish him, subject to section 231 of the Criminal Procedure Code, with caning with not more than 6 strokes.
+(b) notwithstanding section 11 of the Criminal Procedure Code, if —
 
-(2) In subsection (1), “serious injury” has the same meaning as in section 47D.
+(i) such offender while committing the offence under section 43(3A), 47(5),47C (5), 63(4), 64(1), 66(1) or 67(1) causes any serious injury or death to another person; or
+
+(ii) in the case of an offender under section 70(4), such offender had, in driving or attempting to drive a motor vehicle at the time of any accident leading to his arrest under section 69(5), caused any serious injury or death to another person,
+
+the court may also punish him, subject to section 231 of the Criminal Procedure Code, with caning with not more than 6 strokes.
+
+(1A) This section shall not apply to a person who has been convicted of an offence under section 63(4) unless the court is satisfied that in committing such offence and the offence in respect of which he had been previously convicted, he had driven a motor vehicle on a road at a speed which exceeded by 40 kilometres per hour the speed limit imposed by or in exercise of powers conferred by this Act.
+
+[Act 11/96 wef 10/05/1996]
+
+(2) In subsection (1), “serious injury” has the same meaning as inspection 47D.
 
 (3) A District Court or a Magistrate’s Court may, notwithstanding anything contained in the Criminal Procedure Code, award the full punishment prescribed by this section.
 
 ### Being in charge of motor vehicle when under influence of drink or drugs
 
-68\.—(1) Any person who when in charge of a motor vehicle which is on a road or other public place but not driving the vehicle is unfit to drive in that he is under the influence of drink or of a drug to such an extent as to be incapable of having proper control of a motor vehicle shall be guilty of an offence and shall be liable on conviction to a fine of not less than $500 and not more than $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine of not less than $1,000 and not more than $5,000 and to imprisonment for a term not exceeding 6 months.
+68\.—(1) Any person who when in charge of a motor vehicle which is on a road or other public place but not driving the vehicle —
+
+(a) is unfit to drive in that he is under the influence of drink or of a drug or an intoxicating substance to such an extent as to be incapable of having proper control of a motor vehicle; or
+
+(b) has so much alcohol in his body that the proportion of it in his breath or blood exceeds the prescribed limit,
+
+shall be guilty of an offence and shall be liable on conviction to a fine of not less than $500 and not more than $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine of not less than $1,000 and not more than $5,000 and to imprisonment for a term not exceeding 6 months.
 
 [7/90]
+
+(1) For the purpose of subsection (1), a person shall be deemed not to have been in charge of a motor vehicle if he proves —
+
+(a) that at the material time the circumstances were such that there was no likelihood of his driving the vehicle so long as he remained so unfit to drive or so long as the proportion of alcohol in his breath or blood remained in excess of the prescribed limit; and
+
+(b) that between his becoming so unfit to drive and the material time, or between the time when the proportion of alcohol in his breath or blood first exceeded the prescribed limit and the material time, he had not driven the vehicle on a road or other public place.
+
+[Act 11/96 wef 10/05/1996]
 
 (2) On a second or subsequent conviction for an offence under this section, the offender shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified from holding or obtaining a driving licence for a period of 12 months from the date of his release from prison.
 
@@ -1590,13 +1684,25 @@ Provisions as to driving and offences in connection therewith
 
 ### Breath tests
 
-69\.—(1) A person who has been arrested under section 67, 68 or 71 may be required by a police officer to provide at a hospital a specimen of his blood or urine, or both, for a laboratory test if the police officer has reasonable cause to suspect such person of having alcohol or a drug in his body; but a person shall not be required to provide a specimen of his blood for a laboratory test under this subsection if a medical practitioner in immediate charge of his case is not first notified of the proposal to make the requirement or objects to the provision of the specimen on the ground that its provision would be prejudicial to the proper care or treatment of the patient.
+69\.—(1) Where a police officer has reasonable cause to suspect that —
+
+(a) a person driving or attempting to drive or in charge of a motor vehicle on a road or other public place has alcohol in his body or has committed a traffic offence whilst the vehicle was in motion;
+
+(b) a person has been driving or attempting to drive or been in charge of a motor vehicle on a road or other public place with alcohol in his body and that that person still has alcohol in his body;
+
+(c) a person has been driving or attempting to drive or been in charge of a motor vehicle on a road or other public place and has committed a traffic offence whilst the vehicle was in motion; or
+
+(d) a person has been driving or attempting to drive or been in charge of a motor vehicle on a road or other public place when an accident occurred —
+
+(i) between that motor vehicle and one or more other motor vehicles; or
+
+(ii) causing any injury or death to another person,
+
+he may, subject to section 71, require that person to provide a specimen of his breath for a breath test.
 
 (2) A person may be required under subsection (1) to provide a specimen of his breath either at or near the place where the requirement is made or, if the requirement is made under paragraph (d) of that subsection and the police officer making the requirement thinks fit, at a police station specified by the police officer.
 
-(3) For the purposes of any proceedings for an offence under section 67 or 68 or subsection (2), a certificate purporting to be signed by a medical practitioner that he took a specimen of blood or urine from a person with his consent shall be evidence of the matters so certified and of the qualifications of the medical practitioner:
-
-Provided that the certificate shall not be accepted as evidence for the prosecution unless a copy thereof had been served on the accused not less than 7 days before the hearing.
+(3) A breath test required under subsection (1) shall be conducted by a police officer.
 
 (4) A person who, without reasonable excuse, fails to provide a specimen of his breath when required to do so in pursuance of this section shall be guilty of an offence and shall be liable on conviction to a fine of not less than $1,000 and not more than $5,000 or to imprisonment for a term not exceeding 6 months and, in the case of a second or subsequent conviction, to a fine of not less than $3,000 and not more than $10,000 and to imprisonment for a term not exceeding 12 months.
 
@@ -1610,39 +1716,123 @@ Provided that the certificate shall not be accepted as evidence for the prosecut
 
 but a person shall not be arrested by virtue of this subsection when he is at a hospital as a patient.
 
-### Presumption of incapability of having proper control of motor vehicle
+[Act 11/96 wef 10/05/1996 vide S 212/96]
 
-70\. Any person who has been arrested under section 67 or 68 shall be presumed to be incapable of having proper control of a motor vehicle if the specimen of blood provided by him under section 69 is certified by a medical practitioner to have a blood alcohol concentration in excess of 80 milligrammes of alcohol in 10 millilitres of blood.
+### Provision of specimen for analysis
 
-### Breath tests
+70\.—(1) In the course of an investigation whether a person arrested under section 69 (5) has committed an offence under section 67 or 68, a police officer may, subject to the provisions of this section and section 71, require him —
 
-71\.—(1) A police officer may require any person driving or attempting to drive a motor vehicle on a road or other public place to provide forthwith a specimen of his breath for a breath test, if the police officer has reasonable cause —
+(a) to provide a specimen of his breath for analysis by means of a prescribed breath analyser; or
 
-(a) to suspect him of having alcohol in his body; or
+(b) to provide at a hospital a specimen of his blood for a laboratory test,
 
-(b) to suspect him of having committed a traffic offence while the vehicle was in motion,
+notwithstanding that he has been required to provide a specimen of his breath for a breath test under section 69(1).
 
-but no requirement may be made by virtue of paragraph (b) unless it is made as soon as reasonably practicable after the commission of the traffic offence.
+(2) A breath test under this section shall be conducted by a police officer and shall only be conducted at a police station.
 
-(2) If an accident occurs owing to the presence of a motor vehicle on a road or other public place, a police officer may require any person who he has reasonable cause to believe was driving or attempting to drive the vehicle at the time of the accident to provide a specimen of his breath for a breath test —
+(3) A requirement under this section to provide a specimen of blood shall not be made unless —
 
-(a) except where paragraph (b) applies, either at or near the place where the requirement is made, or if the police officer thinks fit, at any police station specified by the police officer; or
+(a) the police officer making the requirement has reasonable cause to believe that for medical reasons a specimen of breath cannot be provided or should not be required;
 
-(b) if that person is at a hospital as a patient, at the hospital,
+(b) at the time the requirement is made, the prescribed breath analyser is not available at the police station or it is for any other reason not practicable to use the breath analyser; or
 
-but a person shall not be required to provide a specimen while at a hospital as a patient if the medical practitioner in immediate charge of his case is not first notified of the proposal to make the requirement or objects to the provision of such specimen on the ground that its provision or the requirement to provide it would be prejudicial to the proper care or treatment of the patient.
+(c) the police officer making the requirement has reasonable cause to suspect that the person required to provide the specimen is under the influence of a drug or an intoxicating substance,
 
-(3) A person who, without reasonable excuse, fails to provide a specimen of his breath for a breath test under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine of not less than $1,000 and not more than $5,000 or to imprisonment for a term not exceeding 6 months and, in the case of a second or subsequent conviction, to a fine of not less than $3,000 and not more than $10,000 and to imprisonment for a term not exceeding 12 months.
+and may be made notwithstanding that the person required to provide the specimen has already provided or been required to provide a specimen of his breath.
 
-(4) If it appears to a police officer in consequence of a breath test carried out by him on any person under subsection (1) or (2) that the device by means of which the test is carried out indicates that the proportion of alcohol in that person’s blood exceeds the prescribed limit, the police officer may arrest that person without warrant except while that person is at a hospital as a patient.
+(4) A person who, without reasonable excuse, fails to provide a specimen when required to do so in pursuance of this section shall be guilty of an offence and if it is shown that at the time of any accident referred to in section 69(1)(d) or of his arrest under section 69(5) —
 
-(5) If a person required by a police officer under subsections (1) and (2) to provide a specimen of breath for a breath test fails or refuses to do so and the police officer has reasonable cause to suspect him of having alcohol in his body, the police officer may arrest him without warrant except while he is at a hospital as a patient.
+(a) he was driving or attempting to drive a motor vehicle on a road or any other public place, he shall be liable on conviction to be punished as if the offence charged were an offence under section 67; or
 
-(6) In this section —
+(b) he was in charge of a motor vehicle on a road or any other public place, he shall be liable on conviction to be punished as if the offence charged were an offence under section 68.
 
-“breath test” means a preliminary test for the purpose of obtaining, by means of a device of a type prescribed by the Minister, an indication whether the proportion of alcohol in a person’s blood is likely to exceed the prescribed limit;
+(5) A police officer shall, on requiring any person under this section to provide a specimen for a laboratory test, warn him that failure to provide a specimen of blood may make him liable to imprisonment, a fine and disqualification, and, if the police officer fails to do so, the court before which that person is charged with an offence under subsection (4) may dismiss the charge.
 
-“prescribed limit” means 80 milligrammes of alcohol in 100 millilitres of blood.
+[Act 11/96 wef 10/05/1996 vide S 212/96]
+
+### Protection of hospital patients
+
+71\.—(1) A person who is at a hospital as a patient shall not be required to provide a specimen for a breath test or to provide a specimen for a laboratory test unless the medical practitioner in immediate charge of his case authorises it and the specimen is to be provided at the hospital.
+
+(2) The medical practitioner referred to in subsection (1) shall not authorise a specimen to be taken where it would be prejudicial to the proper care and treatment of the patient.
+
+[Act 11/96 wef 10/05/1996 vide S 212/96]
+
+### Evidence in proceedings for offences under sections 67 and 68
+
+71A\.—(1) In proceedings for an offence under section 67 or 68, evidence of the proportion of alcohol or of any drug or intoxicating substance in a specimen of breath or blood (as the case may be) provided by the accused shall be taken into account and, subject to subsection (2), it shall be assumed that the proportion of alcohol in the accused’s breath or blood at the time of the alleged offence was not less than in the specimen.
+
+(2) Where the proceedings are for an offence under section 67(1)(a) or 68(1)(a) and it is alleged that, at the time of the offence, the accused was unfit to drive in that he was under the influence of drink, or for an offence under section 67(1)(b) or 68(1)(b), the assumption referred to in subsection (1) shall not be made if the accused proves —
+
+(a) that he consumed alcohol after he had ceased to drive, attempt to drive or be in charge of a motor vehicle on a road or any other public place and before he provided the specimen; and
+
+(b) that had he not done so the proportion of alcohol in his breath or blood —
+
+(i) would not have been such as to make him unfit to drive a motor vehicle in the case of proceedings for an offence under section 67(1)(a) or 68(1)(a); or
+
+(ii) would not have exceeded the prescribed limit in the case of proceedings for an offence under section 67(1)(b) or 68(1)(b).
+
+(3) Subject to subsection (5) —
+
+(a) evidence of the proportion of alcohol in a specimen of breath may be given by the production of a document or documents purporting to be either a statement automatically produced by a prescribed breath analyser and a certificate signed by a police officer (which may but need not be contained in the same document as the statement) to the effect that the statement relates to a specimen provided by the accused at the date and time shown in the statement; and
+
+(b) evidence of the proportion of alcohol or of any drug or intoxicating substance in a specimen of blood may be given by the production of a document purporting to be a certificate signed by an authorised analyst as to the proportion of alcohol, drug or intoxicating substance found in a specimen of blood identified in the certificate.
+
+(4) A specimen of blood shall be disregarded unless it was taken from the accused with his consent by a medical practitioner; but evidence that a specimen of blood was so taken may be given by the production of a document purporting to certify that fact and to be signed by a medical practitioner.
+
+(5) A document purporting to be such a statement or such a certificate, or both, as is mentioned in subsection (3) is admissible in evidence on behalf of the prosecution in pursuance of this section only if a copy of it has been handed to the accused when the document was produced or has been served on him not later than 7 days before the hearing, and any other document is so admissible only if a copy of it has been served on the accused not later than 7 days before the hearing; but a document purporting to be a certificate (or so much of a document as purports to be a certificate) is not so admissible if the accused, not later than 3 days before the hearing or within such further time as the court may in special circumstances allow, has served notice on the prosecution requiring the attendance at the hearing of the person by whom the document purports to be signed.
+
+(6) A copy of a certificate required by this section to be served on the accused or a notice required by this section to be served on the prosecution may be served personally or sent by registered post.
+
+[Act 11/96 wef 10/05/1996 vide S 212/96]
+
+### Deputy Commissioner of Police may require medical practitioner to send blood specimen for laboratory test
+
+71B\.—(1) Notwithstanding anything in section 69 or 71A, where a person —
+
+(a) was the driver of or attempted to drive or was in charge of a motor vehicle on a road or other public place when an accident occurred —
+
+(i) between that motor vehicle and one or more other motor vehicles; or
+
+(ii) causing any injury or death to another person; and
+
+(b) as a result of any injury sustained by him in the accident or any other cause is unable to provide a specimen of his breath under section 69 or to give his consent to a specimen of blood being taken from him for analysis,
+
+any medical practitioner treating such person for his injury shall, if so directed by the Deputy Commissioner of Police, cause any specimen of blood taken by the medical practitioner from such person in connection with his treatment to be sent for a laboratory test to determine the proportion of alcohol or of any drug or intoxicating substance in the specimen.
+
+(2) In proceedings for an offence under section 67 or 68, evidence of the proportion of alcohol or of any drug or intoxicating substance in a specimen of blood analysed in pursuance of this section shall be taken into account.
+
+(3) Evidence of the proportion of alcohol or of any drug or intoxicating substance in a specimen of blood analysed under this section may, subject to subsection (4), be given by the production of a document purporting to be a certificate signed by an authorised analyst as to the proportion of alcohol, drug or intoxicating substance found in the specimen of blood identified in the certificate.
+
+(4) The provisions of section 71A(5) and (6) shall apply, mutatis mutandis, to a certificate referred to in subsection (3) as they apply to a document or certificate referred to in section 71A(3).
+
+[Act 11/96 wef 10/05/1996 vide S 212/96]
+
+### Interpretation of sections 67 to 71B
+
+71C\.—(1) For the purposes of sections 67 to 71B —
+
+“authorised analyst” means any medical practitioner, scientific officer or chemist who is employed in a hospital or laboratory to carry out analyses of blood;
+
+“breath test” means a test for the purpose of obtaining, by means of a breath analyser or any other device prescribed by the Minister, an indication whether the proportion of alcohol in a person’s breath or blood is likely to exceed the prescribed limit;
+
+“fail” includes refuse;
+
+“intoxicating substance” has the same meaning as in the Intoxicating Substances Act;
+
+“police station” includes any place or conveyance authorised or appointed by the Commissioner of Police to be used as a police station;
+
+“prescribed limit” means —
+
+(a) 35 microgrammes of alcohol in 100 millilitres of breath; or
+
+(b) 80 milligrammes of alcohol in 100 millilitres of blood.
+
+(2) A person does not provide a specimen of breath for a breath test or for analysis unless the specimen is sufficient to enable the test or the analysis to be carried out and is provided in such a way as to enable the objective of the test or analysis to be satisfactorily achieved.
+
+(3) Subject to section 71B, a person provides a specimen of blood if and only if he consents to its being taken by a medical practitioner and it is so taken.
+
+[Act 11/96 wef 10/05/1996 vide S 212/96]
 
 ### Driving motor vehicle which emits excessive smoke
 
@@ -1692,9 +1882,13 @@ but a person shall not be required to provide a specimen while at a hospital as 
 
 (4) If any person causes or permits a motor vehicle or trailer to be driven or drawn in contravention of this section, he shall be guilty of an offence.
 
-(5) The Minister may by rules prescribe the number of attendants who shall be and other persons who may be carried on goods vehicles and regulate the positions on the vehicle which they may occupy and the duties of those attendants.
+(5) The Authority may by rules prescribe the number of attendants who shall be and other persons who may be carried on goods vehicles and regulate the positions on the vehicle which they may occupy and the duties of those attendants.
 
-(6) The Minister may by rules vary the requirements of this section in respect of any class or description of motor vehicles or any class or description of trailers.
+[Act 28/95 wef 01/09/1995]
+
+(6) The Authority may by rules vary the requirements of this section in respect of any class or description of motor vehicles or any class or description of trailers.
+
+[Act 28/95 wef 01/09/1995]
 
 ### Restriction on number of trailers drawn
 
@@ -1714,7 +1908,7 @@ but a person shall not be required to provide a specimen while at a hospital as 
 
 [9/85]
 
-(2) The Deputy Commissioner of Police may, in granting a permit for the purpose of subsection (1), impose such conditions as he thinks fit including conditions relating to —
+(2) The Deputy Commissioner of Police may in granting a permit for the purpose of subsection (1), impose such conditions as he thinks fit including conditions relating to —
 
 (a) the overall height of the heavy motor vehicle;
 
@@ -1836,7 +2030,7 @@ Provided that —
 
 (c) in the case of a vehicle in respect of which a general licence is issued under section 28, the person to whom the general licence is issued;
 
-“parking offence” means an offence of parking a motor vehicle or of causing or permitting a motor vehicle to stand, wait or be parked in contravention of any rules or an offence under section 122.
+“parking offence” means an offence of parking a motor vehicle or of causing or permitting motor vehicle to stand, wait or be parked in contravention of any rules or an offence under section 122.
 
 Accidents
 
@@ -1846,7 +2040,9 @@ Accidents
 
 (2) If in the case of any such accident as aforesaid the driver of the motor vehicle for any reason does not give his name and address to any such personas aforesaid, he shall report the accident at a police station or to a police officer as soon as reasonably practicable and, in any case, within 24 hours of the occurrence thereof.
 
-(3) If in any case owing to the presence of a motor vehicle on a road an accident occurs whereby damage or injury is caused to any person, vehicle, structure or animal, the driver of the motor vehicle shall render such assistance as may be reasonably required by any police officer or in the absence of any police officer such assistance as it may reasonably be in the power of the driver to render.
+(3) If in any case owing to the presence of a motor vehicle on a road an accident occurs whereby any person is killed or any damage or injury is caused to any person, vehicle, structure or animal, the driver of the motor vehicle shall render such assistance as may be reasonably required by any police officer or in the absence of any police officer such assistance as it may reasonably be in the power of the driver to render.
+
+[Act 11/96 wef 10/05/1996]
 
 (4) When owing to the presence of a motor vehicle on a road an accident occurs in consequence of which any person is killed or seriously injured or serious damage is caused to any vehicle or structure, no person shall, except under the authority of a police officer, move or otherwise interfere with any vehicle involved in the accident or any part of such vehicle or do any other act so as to destroy or alter any evidence of the accident:
 
@@ -1858,9 +2054,27 @@ Provided that —
 
 (c) this subsection shall not apply where it is urgently necessary to remove any seriously injured person to hospital and no suitable means of conveyance other than a vehicle involved in the accident is at hand.
 
-(5) In this section, “animal” means any horse, cattle, ass, mule, sheep, pig, goat or dog.
+(5) In this section,
+
+“animal” means any horse, cattle, ass, mule, sheep, pig, goat or dog.
 
 (6) If any person fails to comply with any of the provisions of this section, he shall be guilty of an offence.
+
+(7) Any person who is guilty of an offence under subsection (3) shall, if he had in driving or attempting to drive a motor vehicle at the time of the accident referred to in that subsection caused any serious injury or death toanother person, be liable on conviction —
+
+(a) to a fine not exceeding $3,000 or to imprisonment for a term not exceedingone year; and
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding$5,000 or to imprisonment for a term not exceeding 2 years.
+
+(8) Where at one trial the driver of a motor vehicle is convicted and sentencedto imprisonment for —
+
+(a) an offence involving the use of the motor vehicle by him whereby anyserious injury or death is caused to another person; and
+
+(b) an offence under subsection (3),
+
+the court before which he is convicted shall order that the sentences forthose offences shall run consecutively.
+
+[Act 11/96 wef 10/05/1996]
 
 ### Inquiry into accident
 
@@ -1878,9 +2092,11 @@ Provided that the person may decline to answer any question the answer to which 
 
 Miscellaneous
 
-### Power of Minister to authorise on specified roads carriage of greater weights
+### Power of Authority to authorise on specified roads carriage of greaterweights
 
-86\. The Minister may, subject to such conditions as it may think fit, grant a permit in respect of any trailer specified in the permit drawn by a heavy locomotive or a light locomotive on any road or bridge to carry weights specified in the permit notwithstanding that when conveying such weights the trailer does not comply with any rules as to the weight laden of trailers or as to the maximum weight which may be transmitted to the road or any part thereof by trailers and where such a permit is given it shall not, so long as the conditions, if any, attached to the permit are complied with, be an offence in the case of any such trailer to carry on that road or bridge weights authorised by the permit by reason only that the trailer when conveying them does not comply with such rules as aforesaid.
+86\. The Authority may, subject to such conditions as it may think fit, grant apermit in respect of any trailer specified in the permit drawn by a heavylocomotive or a light locomotive on any road or bridge to carry weightsspecified in the permit notwithstanding that when conveying such weights thetrailer does not comply with any rules as to the weight laden of trailers oras to the maximum weight which may be transmitted to the road or any partthereof by trailers and where such a permit is given it shall not, so long asthe conditions, if any, attached to the permit are complied with, be anoffence in the case of any such trailer to carry on that road or bridgeweights authorised by the permit by reason only that the trailer whenconveying them does not comply with such rules as aforesaid.
+
+[Act 28/95 wef 01/09/1995]
 
 ### Power to order production of vehicle and licence
 
@@ -1902,43 +2118,49 @@ Miscellaneous
 
 ### Rules prescribing fees
 
-89\. The Minister may make rules prescribing the fees that may be levied undersection 88.
+89\. The Authority may make rules prescribing the fees that may be levied undersection 88.
+
+[Act 28/95 wef 01/09/1995]
 
 ### Test of satisfactory condition of vehicle
 
-90\.—(1) The Minister may make rules for the examination of any motor vehicle and for the issue, where the vehicle is found on such examination to comply with the prescribed requirements relating to its construction and condition, of a certificate (referred to in this Act as a test certificate) that at the date of the examination those requirements were complied with.
+90\.—(1) The Authority may make rules for the examination of any motor vehicle andfor the issue, where the vehicle is found on such examination to comply withthe prescribed requirements relating to its construction and condition, of acertificate (referred to in this Act as a test certificate) that at the dateof the examination those requirements were complied with.
 
-(2) An examination for the purposes of this section shall be carried out by a person authorised by the Registrar (referred to in this section as an authorised examiner).
+[Act 28/95 wef 01/09/1995]
 
-(3) Where a test certificate is refused, the authorised examiner shall specify the grounds of the refusal, and a person aggrieved by the refusal may appeal to the Registrar, and on such appeal the Registrar shall cause a further examination to be made and may issue or refuse to issue a test certificate.
+(2) An examination for the purposes of this section shall be carried out by aperson authorised by the Registrar (referred to in this section as anauthorised examiner).
 
-(4) The Minister may make rules for the purpose of giving effect to this section and, in particular, as to —
+(3) Where a test certificate is refused, the authorised examiner shall specifythe grounds of the refusal, and a person aggrieved by the refusal may appealto the Registrar, and on such appeal the Registrar shall cause a furtherexamination to be made and may issue or refuse to issue a testcertificate.
 
-(a) the authorisation of an authorised examiner, the conditions to be complied with by an authorised examiner and the withdrawal of any such authorisation;
+(4) The Authority may make rules for the purpose of giving effect to thissection and, in particular, as to —
 
-(b) the manner in which, the conditions under which and the apparatus with which an examination of a motor vehicle is to be carried out, and the maintenance of that apparatus in an efficient state;
+(a) the authorisation of an authorised examiner, the conditions to be compliedwith by an authorised examiner and the withdrawal of any suchauthorisation;
 
-(c) the inspection of premises at which and the apparatus with which an examination of a motor vehicle is being, or is to be, carried out;
+(b) the manner in which, the conditions under which and the apparatus withwhich an examination of a motor vehicle is to be carried out, and themaintenance of that apparatus in an efficient state;
+
+(c) the inspection of premises at which and the apparatus with which anexamination of a motor vehicle is being, or is to be, carried out;
 
 (d) the fee to be paid for the examination of a motor vehicle;
 
-(e) the additional fee to be paid for any further examination of a motor vehicle where the vehicle is found, after a previous examination, not to comply with any prescribed requirement relating to its construction or condition;
+(e) the additional fee to be paid for any further examination of a motorvehicle where the vehicle is found, after a previous examination, not tocomply with any prescribed requirement relating to its construction orcondition;
 
-(f) the manner in which an application may be made for the examination of a motor vehicle;
+(f) the manner in which an application may be made for the examination of amotor vehicle;
 
-(g) the manner in which and time within which an appeal may be brought under subsection (3);
+(g) the manner in which and time within which an appeal may be brought undersubsection (3);
 
-(h) the fee to be paid on an appeal under subsection (3) and the repayment of the fee or part thereof where it appears to the Registrar that there were substantial grounds for the appeal;
+(h) the fee to be paid on an appeal under subsection (3) and the repayment ofthe fee or part thereof where it appears to the Registrar that there weresubstantial grounds for the appeal;
 
 (i) the form of, and particulars to be contained, in a test certificate;
 
-(j) the issue of a copy of a test certificate that is lost or defaced and the fee payable therefor;
+(j) the issue of a copy of a test certificate that is lost or defaced and thefee payable therefor;
 
-(k) the keeping by an authorised examiner of a register of test certificates in the prescribed form and containing the prescribed particulars, and the inspection of such register by such person and in such circumstances as may be prescribed; and
+(k) the keeping by an authorised examiner of a register of test certificates inthe prescribed form and containing the prescribed particulars, and theinspection of such register by such person and in such circumstances as may beprescribed; and
 
-(l) the keeping of records by an authorised examiner and the furnishing of returns and information to the Registrar by the authorised examiner.
+(l) the keeping of records by an authorised examiner and the furnishing ofreturns and information to the Registrar by the authorised examiner.
 
-(5) Rules made under this section may make different provisions in respect of different vehicles or classes of vehicles.
+[Act 28/95 wef 01/09/1995]
+
+(5) Rules made under this section may make different provisions in respect ofdifferent vehicles or classes of vehicles.
 
 ### Vehicle without test certificate cannot be used
 
@@ -1998,15 +2220,17 @@ Provided that if the accused satisfies the court that he acted in the reasonable
 
 (4) Any police officer may arrest without warrant any person reasonably suspected by him of having committed or of attempting to commit an offence under this section.
 
-### Application to vehicles belonging to Government and armed forces
+### Application to vehicles belonging to Government and armedforces
 
-98\. This Part shall subject as otherwise provided apply to vehicles, trailers and persons in the service of the Government or of any visiting force lawfully present in Singapore and for the purpose of proceedings for an offence in connection with any such vehicle or trailer against any person other than the driver of the vehicle the person nominated in that behalf by the department in whose service the vehicle or trailer is used shall be deemed to be the person actually responsible unless it is shown to the satisfaction of the court that the driver only was responsible:
+98\. This Part shall subject as otherwise provided apply to vehicles, trailersand persons in the service of the Government or of any visiting force lawfullypresent in Singapore and for the purpose of proceedings for an offence inconnection with any such vehicle or trailer against any person other than thedriver of the vehicle the person nominated in that behalf by the department inwhose service the vehicle or trailer is used shall be deemed to be the personactually responsible unless it is shown to the satisfaction of the court thatthe driver only was responsible:
 
-Provided that in the case of motor vehicles owned by the Government or by any visiting force lawfully present in Singapore and used for naval, military or air force purposes or in the case of motor vehicles so used while being driven by persons for the time being subject to the orders of any member of the armed forces in Singapore, the Minister may by rules, subject to such conditions as may be specified in the rules, vary in relation to any such vehicles while being driven as aforesaid the provisions of this Act or any rule, order or notification imposing a speed limit on motor vehicles and the provisions of this Part which respectively —
+Provided that in the case of motor vehicles owned by the Government or byany visiting force lawfully present in Singapore and used for naval, militaryor air force purposes or in the case of motor vehicles so used while beingdriven by persons for the time being subject to the orders of any member ofthe armed forces in Singapore, the Authority may by rules, subject to suchconditions as may be specified in the rules, vary in relation to any suchvehicles while being driven as aforesaid the provisions of this Act or anyrule, order or notification imposing a speed limit on motor vehicles and theprovisions of this Part which respectively —
 
-(a) impose restrictions on persons under 21 years of age with respect to the driving of heavy locomotives, light locomotives, motor tractors or heavy motorcars;
+(a) impose restrictions on persons under 21 years of age with respect to thedriving of heavy locomotives, light locomotives, motor tractors or heavy motorcars;
 
 (b) regulate the number of trailers which may be drawn by motor vehicles.
+
+[Act 28/95 wef 01/09/1995]
 
 ## PART V
 
@@ -2018,29 +2242,31 @@ PUBLIC SERVICE VEHICLES
 
 ### Classification of public service vehicles
 
-100\.—(1) For the purpose of this Part and the rules, public service vehicles shall be divided into the following classes:
+100\.—(1) For the purpose of this Part and the rules, public service vehicles shallbe divided into the following classes:
 
-(a) omnibuses; that is to say, public service vehicles which are used on scheduled services and in which passengers are charged separate and distinct fares;
+(a) omnibuses; that is to say, public service vehicles which are used onscheduled services and in which passengers are charged separate and distinctfares;
 
-(b) private buses; that is to say, public service vehicles of a design approved by the Registrar, having seating capacity for more than 6 persons owned by any person and used exclusively for the conveyance of the employees of the owner of such vehicle or for the conveyance of persons in connection with his business, any charges made for the conveyance of such persons being such that no profit results therefrom;
+(b) private buses; that is to say, public service vehicles of a design approvedby the Registrar, having seating capacity for more than 6 persons owned by anyperson and used exclusively for the conveyance of the employees of the ownerof such vehicle or for the conveyance of persons in connection with hisbusiness, any charges made for the conveyance of such persons being such thatno profit results therefrom;
 
-(c) excursion buses; that is to say, public service vehicles which are used on unscheduled services and in which passengers are charged separate and distinct fares;
+(c) excursion buses; that is to say, public service vehicles which are used onunscheduled services and in which passengers are charged separate and distinctfares;
 
-(d) taxis; that is to say, public service vehicles having seating capacity for not more than 6 persons (including the driver), which ply for hire on any road and are hired under a contract, express or implied, for the use of each such vehicle as a whole or for the use of two or more persons who pay separate fares;
+(d) taxis; that is to say, public service vehicles having seating capacity fornot more than 6 persons (including the driver), which ply for hire on any roadand are hired under a contract, express or implied, for the use of each suchvehicle as a whole or for the use of two or more persons who pay separatefares;
 
-(e) private hire cars; that is to say, public service vehicles which do not ply for hire on any road but are hired under a contract, express or implied for the use of each such vehicle as a whole;
+(e) private hire cars; that is to say, public service vehicles which do not plyfor hire on any road but are hired under a contract, express or implied forthe use of each such vehicle as a whole;
 
-(f) private hire buses; that is to say, public service vehicles having seating capacity for more than 6 persons (including the driver), which do not ply for hire on any road but are hired under a contract, express or implied, for the use of each such vehicle as a whole;
+(f) private hire buses; that is to say, public service vehicles having seatingcapacity for more than 6 persons (including the driver), which do not ply forhire on any road but are hired under a contract, express or implied, for theuse of each such vehicle as a whole;
 
-(g) school bus; that is to say, public service vehicles used for carrying children to and from schools and hired under a contract, express or implied, at a fixed or agreed rate or sum; and
+(g) school bus; that is to say, public service vehicles used for carryingchildren to and from schools and hired under a contract, express or implied,at a fixed or agreed rate or sum; and
 
 (h) trishaws.
 
 [7/90]
 
-(2) The Minister may make rules for subdividing any class of public service vehicle, and any reference in this Part to a class of public service vehicle shall include a reference to any subdivision of such class.
+(2) The Authority may make rules for subdividing any class of public servicevehicle, and any reference in this Part to a class of public service vehicleshall include a reference to any subdivision of such class.
 
-(3) Notwithstanding the classifications in subsection (1), the Minister may permit any class of public service vehicles to be used for any prescribed purpose.
+[Act 28/95 wef 01/09/1995]
+
+(3) Notwithstanding the classifications in subsection (1), the Minister maypermit any class of public service vehicles to be used for any prescribedpurpose.
 
 [7/90]
 
@@ -2076,7 +2302,9 @@ Provided that the Registrar shall not issue a public service vehicle licence to 
 
 ### Limitation on number of public service vehicle licences
 
-103\. The Minister may from time to time prescribe the maximum number of public service vehicles of any class which may be licensed and the Registrar shall not issue licences in excess of the number so prescribed.
+103\. The Authority may from time to time prescribe the maximum number of publicservice vehicles of any class which may be licensed and the Registrar shallnot issue licences in excess of the number so prescribed.
+
+[Act 28/95 wef 01/09/1995]
 
 ### Transfer of public service vehicle licences
 
@@ -2140,7 +2368,9 @@ Provided that the Registrar shall not issue a public service vehicle licence to 
 
 ### Public stands
 
-109\. The Minister may provide, appoint and regulate the use of such public stands for any class of public service vehicle as he may think fit, and on the application of or with the consent of the owner of any private property may regulate the use of public stands provided on such private property.
+109\. The Authority may provide, appoint and regulate the use of such publicstands for any class of public service vehicle as it may think fit, and on theapplication of or with the consent of the owner of any private property mayregulate the use of public stands provided on such private property.
+
+[Act 28/95 wef 01/09/1995]
 
 ### Vocational licences
 
@@ -2160,7 +2390,9 @@ Provided that the Registrar shall not grant a vocational licence unless he is sa
 
 ### Rules for purposes of this Part
 
-111\. The Minister may make such rules as he may consider expedient for the purposes of this Part.
+111\. The Authority may make such rules as it may consider expedient for thepurposes of this Part.
+
+[Act 28/95 wef 01/09/1995]
 
 ## PART VI
 
@@ -2260,11 +2492,11 @@ Provided that no order shall be made under this subsection with respect to any r
 
 (6) No person shall, in any proceedings in any court in respect of the seizure of any vehicle seized in exercise or the purported exercise of any power conferred under this section, be entitled to the costs of such proceedings or to any damages or other relief, other than an order for the return of the vehicle, unless the seizure was made without reasonable or probable cause.
 
-### Power to prohibit or restrict use of vehicles on certain bridges
+### Power to prohibit or restrict use of vehicles on certainbridges
 
-118\.—(1) When the Minister is satisfied that any bridge over which a road passes is insufficient to carry vehicles of which the weights or axle weights as hereinafter defined exceed certain limits, the Minister may by a conspicuous notice placed in a proper position at each end of the bridge prohibit the use of the bridge either —
+118\.—(1) When the Authority is satisfied that any bridge over which a road passes isinsufficient to carry vehicles of which the weights or axle weights ashereinafter defined exceed certain limits, the Authority may by a conspicuousnotice placed in a proper position at each end of the bridge prohibit the useof the bridge either —
 
-(a) by any vehicle of which the weight exceeds a maximum weight specified in the notice; or
+(a) by any vehicle of which the weight exceeds a maximum weight specified inthe notice; or
 
 (b) by any vehicle of which —
 
@@ -2272,57 +2504,75 @@ Provided that no order shall be made under this subsection with respect to any r
 
 (ii) any axle weight exceeds a maximum axle weight so specified,
 
-and any such notice may as regards both weight of vehicle and axle weight specify different maximum weights in relation to a vehicle travelling at a speed less than a speed specified in the notice and in relation to a vehicle travelling at that speed or any greater speed.
+and any such notice may as regards both weight of vehicle and axle weightspecify different maximum weights in relation to a vehicle travelling at aspeed less than a speed specified in the notice and in relation to a vehicletravelling at that speed or any greater speed.
+
+[Act 28/95 wef 01/09/1995]
 
 (2) For the purposes of this section —
 
-(a) “weight” means the actual weight of the vehicle at the time including the weight of every person and thing carried by it;
+(a) “weight” means the actual weight of the vehicle at the timeincluding the weight of every person and thing carried by it;
 
-(b) the weight transmitted by a vehicle to any transverse strip of the road surface 152.4 centimetres in breadth shall be taken as being an “axle weight” of that vehicle and for the purposes of this paragraph a vehicle and any trailer drawn thereby shall be deemed to be a single vehicle; and
+(b) the weight transmitted by a vehicle to any transverse strip of the roadsurface 152.4 centimetres in breadth shall be taken as being an “axleweight” of that vehicle and for the purposes of this paragraph a vehicleand any trailer drawn thereby shall be deemed to be a single vehicle; and
 
-(c) “placed in a proper position” means placed in such a position either on or near the bridge or on or near the road leading to the bridge as to be visible at a reasonable distance from the bridge to the drivers of vehicles approaching it.
+(c) “placed in a proper position” means placed in such a positioneither on or near the bridge or on or near the road leading to the bridge asto be visible at a reasonable distance from the bridge to the drivers ofvehicles approaching it.
 
-(3) The fact that a prohibition such as is referred to in subsection (1) has been made by the Minister and has been notified in the manner prescribed in that subsection shall be published in theGazette:
+(3) The fact that a prohibition such as is referred to in subsection (1) hasbeen made by the Authority and has been notified in the manner prescribed inthat subsection shall be published in theGazette:
 
-Provided that any omission to so publish the prohibition and notification shall not affect the validity of the prohibition or notification.
+Provided that any omission to so publish the prohibition and notificationshall not affect the validity of the prohibition or notification.
 
-(4) If without the consent of the Minister, a vehicle is driven across abridge in contravention of this section, any person who so drives it or causes or permits it to be so driven shall, without prejudice to any civil liability incurred by him in the case of damage being caused to the bridge or otherwise, be guilty of an offence and shall be liable on conviction to a fine not exceeding $400 and, in the case of a second or subsequent conviction, to a fine not exceeding $1,000.
+[Act 28/95 wef 01/09/1995]
 
-(5) If, in any proceedings under this subsection, the prosecutor satisfies the court that there are reasonable grounds for believing that the weight of the vehicle exceeded the maximum weight specified in the notice or that any axle weight of the vehicle exceeded the maximum axle weight so specified, the burden shall lie on the defendant to prove that the weight of the vehicle or every axle weight of the vehicle, as the case may be, did not exceed the maximum weight or maximum axle weight.
+(4) If without the consent of the Authority, a vehicle is driven across abridge in contravention of this section, any person who so drives it or causesor permits it to be so driven shall, without prejudice to any civil liabilityincurred by him in the case of damage being caused to the bridge or otherwise,be guilty of an offence and shall be liable on conviction to a fine notexceeding $400 and, in the case of a second or subsequent conviction, to afine not exceeding $1,000.
+
+[Act 28/95 wef 01/09/1995]
+
+(5) If, in any proceedings under this subsection, the prosecutor satisfies thecourt that there are reasonable grounds for believing that the weight of thevehicle exceeded the maximum weight specified in the notice or that any axleweight of the vehicle exceeded the maximum axle weight so specified, theburden shall lie on the defendant to prove that the weight of the vehicle orevery axle weight of the vehicle, as the case may be, did not exceed themaximum weight or maximum axle weight.
 
 ### Power to place traffic signs
 
-119\.—(1) The Minister may cause or permit traffic signs to be drawn, placed or erected and maintained on or near any road, and any signs so drawn, placed or erected shall be subject to and be in conformity with such general or special directions as he may give.
+119\.—(1) The Authority, with the approval of the Minister, may cause or permit traffic signs to be drawn, placed or erected and maintained on or near any road, and any signs so drawn, placed or erected shall be subject to and be in conformity with such general or special directions as the Authority may give.
 
-(2) Traffic signs shall be of the prescribed size, colour and type except where the Minister authorises the placing or retention of a sign of another character.
+[Act 28/95 wef 01/09/1995]
 
-(3) No traffic signs shall be drawn or placed on or near any road except under and in accordance with subsections (1) and (2).
+(2) Traffic signs shall be of the prescribed size, colour and type except wherethe Authority, with the approval of the Minister, authorises the placing orretention of a sign of another character.
 
-(4) The Minister shall, by notice in writing, require the owner or occupier of any land on which there is any traffic sign or any object which so closely resembles a traffic sign that it might reasonably be taken to be such a sign to remove it and if any person fails to comply with such a notice, the Authority may cause the removal to be effected with as little damage as may be and the expense incurred in doing so may be recovered as a civil debt from the person so in default:
+[Act 28/95 wef 01/09/1995]
 
-Provided that this subsection shall not apply in the case of any sign or object which complies with subsection (2) and the retention of which is expressly authorised by the Authority.
+(3) No traffic signs shall be drawn or placed on or near any road except underand in accordance with subsections (1) and (2).
 
-(5) The Minister may authorise the entry upon any land and the exercise of such other powers as may be necessary for the purpose of the exercise and performance of its powers and duties under this section.
+(4) The Authority shall, by notice in writing, require the owner or occupier ofany land on which there is any traffic sign or any object which so closelyresembles a traffic sign that it might reasonably be taken to be such a signto remove it and if any person fails to comply with such a notice, theAuthority may cause the removal to be effected with as little damage as may beand the expense incurred in doing so may be recovered as a civil debt from theperson so in default:
 
-(6) In this Part, “traffic sign” includes all signals, warning signposts, direction posts, signs, lines or other devices for the guidance or direction of persons using roads, but shall not include warning signs or other devices temporarily set up by any Government department to indicate that roadwork is in progress.
+Provided that this subsection shall not apply in the case of any sign orobject which complies with subsection (2) and the retention of which isexpressly authorised by the Authority.
 
-(7) Any person wilfully and unlawfully damaging, moving, defacing, altering or otherwise interfering with, any traffic sign shall be guilty of an offence, and any police officer or the Registrar or any officer authorised in writing in that behalf by the Registrar on production of his authority may without warrant arrest any person found committing such offence.
+[Act 28/95 wef 01/09/1995]
 
-(8) The Minister may make rules to prescribe the size, colour and type of traffic signs to be drawn or placed on or near roads.
+(5) The Authority may authorise the entry upon any land and the exercise ofsuch other powers as may be necessary for the purpose of the exercise andperformance of its powers and duties under this section.
+
+[Act 28/95 wef 01/09/1995]
+
+(6) In this Part, “traffic sign” includes all signals, warning signposts, direction posts, signs, lines or other devices for the guidance ordirection of persons using roads, but shall not include warning signs or otherdevices temporarily set up by any Government department to indicate that roadwork is in progress.
+
+(7) Any person wilfully and unlawfully damaging, moving, defacing, altering orotherwise interfering with, any traffic sign shall be guilty of an offence,and any police officer or the Registrar or any officer authorised in writingin that behalf by the Registrar on production of his authority may withoutwarrant arrest any person found committing such offence.
+
+(8) The Authority, with the approval of the Minister, may make rules toprescribe the size, colour and type of traffic signs to be drawn or placed onor near roads.
+
+[Act 28/95 wef 01/09/1995]
 
 ### Penalties for neglect of traffic directions
 
-120\.—(1) Where a police officer in uniform is for the time being engaged in the regulation of traffic on a road or where any traffic sign, being a sign for regulating the movement of traffic or indicating the route to be followed by traffic and being of the prescribed size, colour and type or of another character authorised by the Authority, with the approval of the Minister, under section 119, has been lawfully placed on or near any road, any person driving or propelling any vehicle who —
+120\.—(1) Where a police officer in uniform is for the time being engaged in theregulation of traffic on a road or where any traffic sign, being a sign forregulating the movement of traffic or indicating the route to be followed bytraffic and being of the prescribed size, colour and type or of anothercharacter authorised by the Authority, with the approval of the Minister,under section 119, has been lawfully placed on or near any road, any persondriving or propelling any vehicle who —
 
-(a) neglects or refuses to stop the vehicle or to make it proceed in or keep to a particular line of traffic when directed to do so by the police officer in the execution of his duty; or
+(a) neglects or refuses to stop the vehicle or to make it proceed in or keep toa particular line of traffic when directed to do so by the police officer inthe execution of his duty; or
 
 (b) fails to conform to the indication given by the sign,
 
-and any pedestrian who fails to comply with any direction given by the police officer in the execution of his duty, either to pedestrians or to pedestrians and other traffic, shall be guilty of an offence.
+and any pedestrian who fails to comply with any direction given by thepolice officer in the execution of his duty, either to pedestrians or topedestrians and other traffic, shall be guilty of an offence.
 
-(2) Where a police officer in uniform is for the time being engaged in the regulation of traffic on a road at any place where there are traffic light signals regulating the movement of traffic, a person driving a vehicle shall comply with the directions given by the police officer notwithstanding that the traffic light signals indicate otherwise.
+[Act 28/95 wef 01/09/1995]
 
-(3) In any proceedings for an offence under subsection (1), in so far as it is necessary to establish the offence charged, it shall be presumed until the contrary is proved that the sign was of the prescribed size, colour and type and that it was lawfully placed under section 119.
+(2) Where a police officer in uniform is for the time being engaged in theregulation of traffic on a road at any place where there are traffic lightsignals regulating the movement of traffic, a person driving a vehicle shallcomply with the directions given by the police officer notwithstanding thatthe traffic light signals indicate otherwise.
+
+(3) In any proceedings for an offence under subsection (1), in so far as it isnecessary to establish the offence charged, it shall be presumed until thecontrary is proved that the sign was of the prescribed size, colour and typeand that it was lawfully placed under section 119.
 
 ### Pedestrian crossings
 
@@ -2346,13 +2596,45 @@ and any pedestrian who fails to comply with any direction given by the police of
 
 122\. Except as otherwise provided in section 84(4), if any person in charge of a vehicle causes or permits the vehicle or any trailer drawn thereby to remain at rest on any road in such a position or in such condition or in such circumstances as to be likely to cause danger, obstruction or undue inconvenience to other users of the road or to traffic, he shall be guilty of an offence.
 
-### Removal from roads of vehicles abandoned, etc.
+### Removal, detention or immobilisation of vehicles abandoned,etc.
 
-123\.—(1) The Minister may make rules to provide for the removal and detention of any vehicle (including any trailer drawn or any load carried thereby) which constitutes a danger or unreasonable obstruction to traffic or which appears to have been abandoned on a road or which is parked or permitted to stand on any road in contravention of any provision of this Act or the rules.
+123\.—(1) The Minister may make rules to provide for —
 
-(2) The Deputy Commissioner of Police may detain any vehicle so removed until the expenses of removal and charges for detention have been paid and any such vehicle shall remain at the risk of the owner and the person offending until the expenses and charges have been paid.
+(a) the removal and detention of any vehicle (including any trailer drawn orany load carried thereby) which —
 
-(3) If any vehicle so detained has not been claimed by the owner within 3 months from the date of detention, the Deputy Commissioner of Police may, after due notice in theGazetteand after giving not less than one month’s notice in writing to the owner (if the name and address of that person are known to him), sell by public auction or otherwise dispose of the vehicle. The proceeds, if any, from the sale or disposal of any such vehicle shall be applied in the payment of any charges incurred in carrying out the provisions of this section and the surplus, if any, shall be paid to the owner of the vehicle or if not claimed by the owner of the vehicle within 12 months shall be forfeited to the Government.
+(i) constitutes a danger or unreasonable obstruction to traffic;
+
+(ii) appears to have been abandoned on a road; or
+
+(iii) is parked or permitted to stand on any road in contravention of anyprovision of this Act or the rules; or
+
+(b) the prevention of the removal of any vehicle referred to in paragraph (a)(ii) or (iii) by the fixing of an immobilisation deviceto the vehicle.
+
+(2) No vehicle which has been removed and detained by the Deputy Commissionerof Police or to which an immobilisation device has been fixed in accordancewith any rules made under this section shall be released to the owner of thevehicle except —
+
+(a) by or under the direction of the Deputy Commissioner of Police or anofficer authorised by him; and
+
+(b) upon the owner of the vehicle having paid all expenses incurred by theDeputy Commissioner of Police or the authorised officer in that behalf, andsuch other charges as may be imposed under this Act or the rules,
+
+and the vehicle shall remain at the risk of the owner of the vehicle untilall such expenses and charges have been paid.
+
+(3) Any person who, without being authorised to do so in accordance with therules, removes or attempts to remove —
+
+(a) any vehicle from any place at which it is being detained under the rules;or
+
+(b) an immobilisation device fixed to a vehicle in accordance with therules,
+
+shall be guilty of an offence.
+
+(4) Where any vehicle which has been removed and detained by the DeputyCommissioner of Police or to which an immobilisation device has been fixed inaccordance with the rules is not claimed by its owner with 3 months of thedate of its detention or immobilisation, the Deputy Commissioner of Policemay, after the giving due notice in theGazetteand aftergiving not less than one month’s notice in writing to the owner (if thename and address of that person are known to him), sell the vehicle by publicauction or otherwise dispose of the vehicle.
+
+(5) The proceeds from the sale or disposal of any such vehicle shall be appliedin the payment of any charges incurred in carrying out the provisions of thissection and the rules made thereunder and the surplus, if any, shall be paidto the owner of the vehicle or if not claimed by the owner of the vehiclewithin 12 months shall be forfeited to the Government.
+
+(6) Where, in pursuance of any rules made under this section, a vehicle hasbeen removed and detained by the Deputy Commissioner of Police or animmobilisation device has been fixed to the vehicle, neither the DeputyCommissioner of Police nor any officer authorised by him to remove and detainthe vehicle or to fix an immobilisation device thereto shall be liable for anydamage to or loss of the vehicle or the contents thereof not caused wilfullyor negligently by the Deputy Commissioner of Police or the authorised officerin the exercise of their powers under the rules or by any person acting underthe direction of the Deputy Commissioner of Police or the authorisedofficer.
+
+(7) In this section, “immobilisation device” means any device orappliance designed or adapted to be fixed to any part of a vehicle for thepurpose of preventing the vehicle from being driven or otherwise put inmotion, being a device or appliance of a type approved by the Minister for usefor that purpose in accordance with rules made under this section.
+
+[Act 11/96 wef 10/05/1996]
 
 ### Provisions with respect to stretching of ropes, etc., across roads
 
@@ -2508,43 +2790,49 @@ shall be liable on conviction, where no special penalty is provided in the case 
 
 ### Ticketing of prescribed offences
 
-132\.—(1) Where it appears to a police officer that any person has committed or is guilty of any prescribed offence to which this section applies, he may serve a prescribed notice on such person, offering such person the opportunity of the discharge of any liability to the conviction of that offence by the payment of a fixed penalty prescribed for that offence under this section; and no person shall be liable to be convicted of that offence if the fixed penalty is paid in accordance with this section before the expiration of 14 days following the date of the notice or such longer period (if any) as may be specified therein.
+132\.—(1) Where it appears to a police officer or an employee of the Authorityauthorised in that behalf that any person has committed or is guilty of anyprescribed offence to which this section applies, he may serve a prescribednotice on such person, offering such person the opportunity of the dischargeof any liability to the conviction of that offence by the payment of a fixedpenalty prescribed for that offence under this section; and no person shall beliable to be convicted of that offence if the fixed penalty is paid inaccordance with this section before the expiration of 14 days following thedate of the notice or such longer period (if any) as may be specified therein.
 
-(2) A notice under subsection (1) may be addressed to the owner or driver of the motor vehicle without stating his name or address and may be served personally or by affixing it to the motor vehicle.
+[Act 28/95 wef 01/09/1995]
 
-(3) A notice affixed to a motor vehicle under subsection (2) shall not be removed or interfered with except by or under the authority of the owner or driver liable for the offence in question; and any person contravening this subsection shall be guilty of an offence.
+(2) A notice under subsection (1) may be addressed to the owner or driver ofthe motor vehicle without stating his name or address and may be servedpersonally or by affixing it to the motor vehicle.
 
-(4) Payment of a fixed penalty under this section shall be made at the police station or office specified in the notice.
+(3) A notice affixed to a motor vehicle under subsection (2) shall not beremoved or interfered with except by or under the authority of the owner ordriver liable for the offence in question; and any person contravening thissubsection shall be guilty of an offence.
 
-(5) Where the amount of any fixed penalty for an alleged offence is paid pursuant to this section, no person shall be liable for any further proceedings for the alleged offence.
+(4) Payment of a fixed penalty under this section shall be made at the policestation or office specified in the notice.
+
+(5) Where the amount of any fixed penalty for an alleged offence is paidpursuant to this section, no person shall be liable for any furtherproceedings for the alleged offence.
 
 (6) The Minister may make rules —
 
 (a) to prescribe the offences to which this section shall apply;
 
-(b) to prescribe the amount of penalty payable under this section for any prescribed offence;
+(b) to prescribe the amount of penalty payable under this section for anyprescribed offence;
 
-(c) to prescribe different amounts of penalties for different prescribed offences or for the same offence having regard to the circumstances thereof; and
+(c) to prescribe different amounts of penalties for different prescribedoffences or for the same offence having regard to the circumstances thereof;and
 
-(d) to make provision as to any matter incidental to the operation of this section.
+(d) to make provision as to any matter incidental to the operation of thissection.
 
-(7) This section is supplemental to and not in derogation of any other provisions of this Act.
+(7) This section is supplemental to and not in derogation of any otherprovisions of this Act.
 
 ### Traffic ticket notice
 
-133\.—(1) Where a police officer has reasonable grounds for believing that a person has committed an offence under this Act or the rules, he may, in lieu of applying to a court for a summons, forthwith serve upon that person a prescribed notice, requiring that person to attend at the court described, at the hour and on the date specified in the notice.
+133\.—(1) Where a police officer or an employee of the Authority authorised in thatbehalf has reasonable grounds for believing that a person has committed anoffence under this Act or the rules, he may, in lieu of applying to a courtfor a summons, forthwith serve upon that person a prescribed notice, requiringthat person to attend at the court described, at the hour and on the datespecified in the notice.
 
-(2) A duplicate of the notice shall be prepared by the police officer and, if so required by a court, produced to the court.
+[Act 28/95 wef 01/09/1995]
 
-(3) The notice may be served on the person alleged to have committed the offence in the manner provided by section 131(3).
+(2) A duplicate of the notice shall be prepared by the police officer and, ifso required by a court, produced to the court.
 
-(4) On an accused person appearing before a court in pursuance of such a notice, the court shall take cognizance of the offence alleged and shall proceed as though he were produced before it in pursuance of section 136 of the Criminal Procedure Code.
+(3) The notice may be served on the person alleged to have committed theoffence in the manner provided by section 131(3).
 
-(5) If a person, upon whom such a notice has been served as aforesaid, fails to appear before a court in person or by counsel in accordance therewith, the court may, if satisfied that the notice was duly served, issue a warrant for the arrest of the person unless in the case of an offence which may be compounded that person has before that date been permitted to compound the offence.
+(4) On an accused person appearing before a court in pursuance of such anotice, the court shall take cognizance of the offence alleged and shallproceed as though he were produced before it in pursuance of section 136 ofthe Criminal Procedure Code.
 
-(6) Upon a person arrested in pursuance of a warrant issued under subsection (5) being produced before it, a court shall proceed as though he were produced before it in pursuance of section 136 of the Criminal Procedure Code and shall, at the conclusion of the proceedings, call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and if cause is not shown may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
+(5) If a person, upon whom such a notice has been served as aforesaid, fails toappear before a court in person or by counsel in accordance therewith, thecourt may, if satisfied that the notice was duly served, issue a warrant forthe arrest of the person unless in the case of an offence which may becompounded that person has before that date been permitted to compound theoffence.
 
-(7) A police officer not below the rank of sergeant specially authorised by name in that behalf by the Minister by notification in theGazettemay, at any time before the date specified in the notice, cancel the notice.
+(6) Upon a person arrested in pursuance of a warrant issued under subsection (5) being produced before it, a court shall proceed as though he were producedbefore it in pursuance of section 136 of the Criminal Procedure Code andshall, at the conclusion of the proceedings, call upon him to show cause whyhe should not be punished for failing to attend in compliance with the noticeserved upon him and if cause is not shown may order him to pay such fine notexceeding $2,000 as the court thinks fit or may commit him to prison for aterm not exceeding 2 months.
+
+(7) A police officer not below the rank of sergeant or an employee of theAuthority specially authorised by name in that behalf by the Minister bynotification in theGazettemay, at any time before the datespecified in the notice, cancel the notice.
+
+[Act 28/95 wef 01/09/1995]
 
 ### Minister may prescribe forms of notices
 
@@ -2552,9 +2840,13 @@ shall be liable on conviction, where no special penalty is provided in the case 
 
 ### Composition of offences
 
-135\.—(1) The Deputy Commissioner of Police, any police officer not below the rank of sergeant specially authorised by name in that behalf by the Deputy Commissioner of Police by notification in theGazettemay, in his discretion, compound any such offence under this Act or the rules as may be prescribed as an offence which may be compounded by the Deputy Commissioner of Police or such police officer or employee of the Authority by collecting from the person reasonably suspected of having committed the offence a sum of money not exceeding $200.
+135\.—(1) The Deputy Commissioner of Police, any police officer not below the rank ofsergeant specially authorised by name in that behalf by the DeputyCommissioner of Police by notification in theGazetteor anyemployee of the Authority specially authorised by name in that behalf by theMinister for Communications by notification in theGazettemay, in his discretion, compound any such offence under this Act or the rulesas may be prescribed as an offence which may be compounded by the DeputyCommissioner of Police or such police officer or employee of the Authority bycollecting from the person reasonably suspected of having committed theoffence a sum of money not exceeding $500.
 
-(2) The Minister may make rules to prescribe the offences which may be compounded and the method and procedure by which those offences may be compounded under this section.
+[Act 11/96 wef 10/05/1996]
+
+(2) The appropriate Minister may make rules to prescribe the offences which maybe compounded by the officers and persons referred to in subsection (1) andthe method and procedure by which those offences may be compounded under thissection.
+
+[Subst. by Act 28/95 wef 01/09/1995]
 
 ### Payment for licences by cheque
 
@@ -2562,9 +2854,11 @@ shall be liable on conviction, where no special penalty is provided in the case 
 
 (2) Where a licence is granted as aforesaid to any person and the cheque is subsequently dishonoured, the licence shall be void as from the date when it was granted and the Registrar shall send to that person by a registered letter addressed to him to the address given by him when applying for the licence a notice requiring him to deliver up the licence to the Registrar within a period of 7 days from the date that the notice was posted, and if that person fails to comply with the request within that period he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and if the licence is in respect of a motor vehicle the Registrar may on the expiry of the 7 days proceed under section 15.
 
-### Moneys received to be paid into Consolidated Fund
+### Moneys received under this Act
 
-137\. All moneys received by the Registrar and the Deputy Commissioner of Police under this Act shall be paid into the Consolidated Fund.
+137\. Except as otherwise provided in the Land Transport Authority of SingaporeAct 1995, all moneys received by the Deputy Commissioner of Police and by theRegistrar under this Act shall be paid into the Consolidated Fund.
+
+[Subst. by Act 28/95 wef 01/09/1995]
 
 ### Registrar and Deputy Commissioner of Police to be informed of convictions
 
@@ -2658,15 +2952,33 @@ shall be guilty of an offence.
 
 ### Property left in public service vehicles
 
-144\.—(1) Every driver or conductor of a public service vehicle shall forthwith deposit at a police station or at the office of the Registrar all money or other property left in any public service vehicle of which he is in charge and not claimed by the owner thereof.
+144\.—(1) Every driver or conductor of a public service vehicle shall forthwithdeposit at a police station or at the office of the Registrar all money orother property left in any public service vehicle of which he is in charge andnot claimed by the owner thereof.
 
-(2) Any driver or conductor who neglects or omits to so deposit all money or other property shall be guilty of an offence.
+(2) Any driver or conductor who neglects or omits to so deposit all money orother property shall be guilty of an offence.
 
-(3) The Minister may make rules for the disposal of money or other property deposited at a police station or the office of the Registrar under subsection (1).
+(3) The Authority may make rules for the disposal of money or other propertydeposited at a police station or the office of the Registrar under subsection (1).
+
+[Act 28/95 wef 01/09/1995]
 
 ### Transitional provision
 
 145\. Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved under any written law repealed by this Act, insofar as such scheme, contract, document, licence, permission or resolution could be prepared, made, granted or approved under and by virtue of this Act shall, except where in this Act otherwise expressly provided, continue and be deemed to have been prepared, made, granted or approved, as the case may be, under this Act.
+
+## THE SCHEDULE
+
+Part I
+
+The Parking Places Act (Cap. 214).
+
+Section 19(3) and (7)
+
+Part II
+
+The Parking Places Act (Cap. 214).
+
+Section 35(7A) and (7AA)
+
+[8/94]
 
 ## LEGISLATIVE HISTORY
 
@@ -2683,12 +2995,13 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 143/61 published on 2 June 1961)|
 ||Date of Second and Third Readings|14 June 1961|
 ||Date of commencement|1 January 1963|
-|||23 November 1963|
-|2.|**Ordinance 17 of 1963—Parking Places Ordinance, 1963**|
-||Date of First Reading|11 June 1963|
-|||(Bill No. 207/1963)|
-||Date of Second and Third Readings|24 July 1963|
-||Date of commencement|1 September 1963|
+|||(sections 13 to 21) (S 410/62)|
+|2.|**Ordinance 26 of 1961—Road Traffic Ordinance 1961**|
+||Date of First Reading|24 May 1961|
+|||(Bill No. 143/61 published on 2 June 1961)|
+||Date of Second and Third Readings|14 June 1961|
+||Date of commencement|23 November 1963|
+|||(sections 1 to 12, 22 to 78 and 80 to 90) (Sp. No. S 41/63)|
 |3.|**Ordinance 22 of 1966—Road Traffic (Amendment) Act 1966**|
 ||Date of First Reading|23 February 1966|
 |||(Bill No. 11/66 published on 3 March 1966)|
@@ -2701,6 +3014,7 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of Second and Third Readings|26 August 1966|
 ||Date of commencement|9 September 1966|
 |5.|**Act 42 of 1967—Companies Act 1967**|
+||(Consequential amendments made by)||
 ||Date of First Reading|5 December 1966|
 |||(Bill No. 58/66 published on 12 December 1966)|
 ||Date of Second Reading|21 December 1966|
@@ -2712,32 +3026,36 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 35/68 published on 5 August 1968)|
 ||Date of Second and Third Readings|3 December 1968|
 ||Date of commencement|1 February 1969|
-|||1 January 1970|
-|7.|**Act 27 of 1970—Road Traffic (Amendment) Act 1970**|
+|||(except section 5)|
+|7.|**Act 28 of 1968—Road Traffic (Amendment) Act 1968**|
+||Date of First Reading|31 July 1968|
+|||(Bill No. 35/68 published on 5 August 1968)|
+||Date of Second and Third Readings|3 December 1968|
+||Date of commencement|1 January 1970|
+|||(section 5)|
+|8.|**Act 27 of 1970—Road Traffic (Amendment) Act 1970**|
 ||Date of First Reading|21 May 1970|
 |||(Bill No. 21/70 published on 26 May 1970)|
 ||Date of Second and Third Readings|26 June 1970|
 ||Date of commencement|1 August 1970|
 |||(except section 4)|
-|8.|**Act 6 of 1971—Road Traffic (Amendment) Act 1971**|
+|9.|**Act 6 of 1971—Road Traffic (Amendment) Act 1971**|
 ||Date of First Reading|30 December 1970|
 |||(Bill No. 58/70 published on 31 December 1970)|
 ||Date of Second and Third Readings|11 January 1971|
 ||Date of commencement|1 March 1971|
-|9.|**1970 Revised Edition—Road Traffic Act (Cap. 92)**|
+|10.|**1970 Revised Edition—Road Traffic Act (Cap. 92)**|
 ||Date of operation|1 April 1971|
-|10.|**Act 21 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1973**|
-||Date of First Reading|7 March 1973|
-|||(Bill No. 16/73 published on 9 March 1973)|
-||Date of Second and Third Readings|20 March 1973|
-||Date of commencement|6 April 1973|
 |11.|**Act 4 of 1973—Road Traffic (Amendment) Act 1973**|
 ||Date of First Reading|22 November 1972|
 |||(Bill No. 44/72 published on 25 November 1972)|
 ||Date of Second and Third Readings|16 February 1973|
 ||Date of commencement|1 May 1973|
-|12.|**1973 Reprint—Road Traffic Act (Chapter 92)**|
-||Date of operation|5 May 1973|
+|12.|**Act 21 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1973**|
+||Date of First Reading|7 March 1973|
+|||(Bill No. 16/73 published on 9 March 1973)|
+||Date of Second and Third Readings|20 March 1973|
+||Date of commencement|6 April 1973|
 |13.|**Act 19 of 1974—Road Traffic (Amendment) Act 1974**|
 ||Date of First Reading|28 August 1974|
 |||(Bill No. 15/74 published on 2 September 1974)|
@@ -2788,44 +3106,62 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 14/84 published on 9 July 1984)|
 ||Date of Second and Third Readings|24 August 1984|
 ||Date of commencement|1 October 1984|
-|23.|**1985 Reprint—Road Traffic Act (Chapter 92)**|
-||Date of operation|25 April 1985|
-|24.|**Act 9 of 1985—Road Traffic (Amendment) Act 1985**|
+|23.|**Act 7 of 1982—Road Traffic (Amendment) Act 1982**|
+||Date of First Reading|22 December 1981|
+|||(Bill No. 33/81 published on 30 December 1981)|
+||Date of Second and Third Readings|3 March 1982|
+||Date of commencement|16 April 1984|
+|24.|**Act 10 of 1984—Road Traffic (Amendment) Act 1984**|
+||Date of First Reading|17 January 1984|
+|||(Bill No. 3/84 published on 21 January 1984)|
+||Date of Second and Third Readings|2 March 1984|
+||Date of commencement|27 April 1984|
+|25.|**Act 28 of 1984—Road Traffic (Amendment No. 2) Act 1984**|
+||Date of First Reading|29 June 1984|
+|||(Bill No. 14/84 published on 9 July 1984)|
+||Date of Second and Third Readings|24 August 1984|
+||Date of commencement|1 October 1984|
+|26.|**Act 9 of 1985—Road Traffic (Amendment) Act 1985**|
 ||Date of First Reading|23 July 1985|
 |||(Bill No. 8/85 published on 26 July 1985)|
 ||Date of Second and Third Readings|30 August 1985|
 ||Date of commencement|1 October 1985|
-|25.|**1985 Revised Edition—Road Traffic Act**|
+|27.|**1985 Revised Edition—Road Traffic Act**|
 ||Date of operation|30 March 1987|
-|26.|**Act 18 of 1987—Public Transport Council Act 1987**|
+|28.|**Act 18 of 1987—Public Transport Council Act 1987**|
 ||Date of First Reading|20 May 1987|
 |||(Bill No. 9/87 published on 22 May 1987)|
 ||Date of Second and Third Readings|28 July 1987|
 ||Date of commencement|14 August 1987|
-|27.|**Act 20 of 1989—Road Traffic (Amendment) Act 1989**|
+|29.|**Act 20 of 1989—Road Traffic (Amendment) Act 1989**|
 ||Date of First Reading|13 March 1989|
 |||(Bill No. 21/89 published on 14 March 1989)|
 ||Date of Second and Third Readings|7 April 1989|
 ||Date of commencement|17 April 1989|
-|28.|**Act 7 of 1990—Road Traffic (Amendment) Act 1990**|
+|30.|**Act 7 of 1990—Road Traffic (Amendment) Act 1990**|
 ||Date of First Reading|26 February 1990|
 |||(Bill No. 5/90 published on 27 February 1990)|
 ||Date of Second and Third Readings|28 March 1990|
 ||Date of commencement|2 April 1990|
-|29.|**Act 16 of 1991—Road Traffic (Amendment) Act 1991**|
+|31.|**Act 16 of 1991—Road Traffic (Amendment) Act 1991**|
 ||Date of First Reading|26 February 1991|
 |||(Bill No. 7/91 published on 28 February 1991)|
 ||Date of Second and Third Readings|22 March 1991|
 ||Date of commencement|1 April 1991|
-|30.|**Act 3 of 1993—Road Traffic (Amendment) Act 1993**|
+|32.|**Act 3 of 1993—Road Traffic (Amendment) Act 1993**|
 ||Date of First Reading|16 November 1992|
 |||(Bill No. 37/92 published on 17 November 1992)|
 ||Date of Second and Third Readings|18 January 1993|
 ||Date of commencement|15 April 1993|
-|31.|**Act 33 of 1993—Road Traffic (Amendment No. 2) Act 1993**|
+|33.|**Act 33 of 1993—Road Traffic (Amendment No. 2) Act 1993**|
 ||Date of First Reading|30 August 1993|
 |||(Bill No. 29/93 published on 31 August 1993)|
 ||Date of Second and Third Readings|12 October 1993|
 ||Date of commencement|1 July 1994|
-|32.|**1994 Revised Edition—Road Traffic Act**|
+|34.|**1994 Revised Edition—Road Traffic Act**|
 ||Date of operation|15 July 1994|
+|35.|**Act 8 of 1994—Road Traffic (Amendment) Act 1994**|
+||Date of First Reading|23 May 1994|
+|||(Bill No. 8/94 published on 24 May 1994)|
+||Date of Second and Third Readings|25 July 1994|
+||Date of commencement|28 October 1994|
