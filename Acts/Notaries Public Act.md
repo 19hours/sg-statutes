@@ -46,21 +46,35 @@ An Act relating to notaries public.
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires, “notary public” means a person who has been appointed as a notary public under section 3 but does not include any person whose appointment has been revoked under section 5.
+2\. In this Act, unless the context otherwise requires —
+
+“notary public” means a person who has been appointed as a notary public under section 3 but does not include any person whose appointment has been revoked under section 5;
+
+“Senate” means the Senate of the Singapore Academy of Law constituted under the Singapore Academy of Law Act (Cap. 294A).
+
+[Act 34/1995 wef 01/01/1996]
 
 ### Appointment of notaries public
 
-3\.—(1) The Attorney-General may, from time to time, appoint fit and proper persons to be notaries public.
+3\.—(1) The Senate may, from time to time, appoint fit and proper persons to be notaries public for a period not exceeding 12 months.
 
 [18/83]
 
+[Act 34/1995 wef 01/01/1996]
+
 (2) No person shall be appointed as a notary public unless he is a practising advocate and solicitor in Singapore and has so practised for not less than 7 years.
 
-(3) The Attorney-General shall not make any appointment under this section without consulting the Council of the Law Society of Singapore constituted under the Legal Profession Act [Cap. 161].
+(3) The Senate shall not make any appointment under this section without consulting the Council of the Law Society of Singapore constituted under the Legal Profession Act [Cap. 161].
 
-(4) In making any appointment under this section the Attorney-General shall have regard to the number of notaries public already practising in the place where the applicant proposes to practise and to the convenience of the inhabitants of that place, but, subject as aforesaid, the Attorney-General shall have absolute discretion in making or refusing to make any such appointment and there shall be no appeal from his decision.
+[Act 34/1995 wef 01/01/1996]
 
-(5) If it appears to the Attorney-General that any notary public is about to be absent from Singapore for a period exceeding one month, the Attorney-General may appoint any person, being a practising advocate and solicitor in Singapore, to be a notary public temporarily during the absence of that notary public from Singapore.
+(4) In making any appointment under this section the Senate shall have regard to the number of notaries public already practising in the place where the applicant proposes to practise and to the convenience of the inhabitants of that place, but, subject as aforesaid, the Senate shall have absolute discretion in making or refusing to make any such appointment and there shall be no appeal from its decision.
+
+[Act 34/1995 wef 01/01/1996]
+
+(5) If it appears to the Senate that any notary public is about to be absent from Singapore for a period exceeding one month, the Senate may appoint any person, being a practising advocate and solicitor in Singapore, to be a notary public temporarily during the absence of that notary public from Singapore.
+
+[Act 34/1995 wef 01/01/1996]
 
 (6) No temporary appointment of a notary public shall have effect for a longer period than 12 months and any such appointment shall lapse on the death or on the return to Singapore of the notary public on account of whose departure from Singapore the appointment was made.
 
@@ -90,21 +104,23 @@ and may take or attest any such affidavit or statutory declaration;
 
 ### Misconduct of notaries public
 
-5\. If it appears to the Attorney-General that any person being a notary public —
+5\. If it appears to the Senate that any person being a notary public —
 
 (a) has become a bankrupt or has made an arrangement with his creditors;
 
 (b) has been struck off the roll of advocates and solicitors of Singapore; or
 
-(c) has been found to be guilty of such professional or other misconduct as, in the opinion of the Attorney-General, renders him unfit to practise as a notary public,
+(c) has been found to be guilty of such professional or other misconduct as, in the opinion of the Senate, renders him unfit to practise as a notary public,
 
-the Attorney-General shall, by order under his hand, revoke the appointment of the person and shall cause the order to be published in theGazette.
+the Senate shall, by order, revoke the appointment of the person and shall cause the order to be published in theGazette.
+
+[Act 34/1995 wef 01/01/1996]
 
 [18/83]
 
 ### Revocation of appointment under special circumstances
 
-6\. The Attorney-General may by notification in theGazetterevoke the appointment of a notary public if the notary public —
+6\. The Senate may by notification in theGazetterevoke the appointment of a notary public if the notary public —
 
 (a) requests that his appointment be revoked; or
 
@@ -114,6 +130,8 @@ the Attorney-General shall, by order under his hand, revoke the appointment of t
 
 [18/83]
 
+[Act 34/1995 wef 01/01/1996]
+
 ### Penalty for exercise of functions of notary public by unauthorised persons
 
 7\. Any person who exercises within Singapore any of the functions of a notary public otherwise than in accordance with the provisions of this Act shall be guilty of an offence and shall be liable on conviction before a District Judge to a fine not exceeding $500.
@@ -122,17 +140,17 @@ the Attorney-General shall, by order under his hand, revoke the appointment of t
 
 ### Rules
 
-8\.—(1) The Chief Justice, after consultation with the Attorney-General, may make rules —
+8\.—(1) The Chief Justice, after consultation with the Senate, may make rules —
 
 (a) for the guidance and control of persons entitled to exercise the functions of a notary public under this Act;
 
 (b) to fix the fees payable to such notaries;
 
-(c) to fix the fees payable by any person on appointment as a notary public:
-
-Provided that no such rule shall require any fee to be paid in respect of any appointment as a notary public deemed to have been made by virtue of section 9;
+(c) to fix the fees payable to the Singapore Academy of Law by any person on appointment as a notary public, and on renewal of such appointment;
 
 (d) prescribing the powers and functions of notaries public.
+
+[Act 34/1995 wef 01/01/1996]
 
 (2) All rules made under this section shall be published in theGazette, and shall come into force on the date of such publication or on such later date as may be specified in the rules.
 
@@ -140,7 +158,11 @@ Provided that no such rule shall require any fee to be paid in respect of any ap
 
 ### Saving
 
-9\. Any person who, immediately before 18th March 1965 was lawfully entitled to practise as a notary public within Singapore shall be deemed to have been appointed a notary public in accordance with this Act.
+9\.—(1) Any person who, immediately before 18th March 1965 was lawfully entitled to practise as a notary public within Singapore shall be deemed to have been appointed a notary public in accordance with this Act.
+
+(2) Any person who, immediately before the date of commencement of section 11 of the Singapore Academy of Law (Amendment) Act 1995, is a notary public shall continue in office for a period of 3 months from that date and shall thereafter cease to be a notary public unless he is reappointed before the expiry of that period.
+
+[Act 34/1995 wef 01/01/1996]
 
 [8
 
@@ -176,3 +198,9 @@ This Legislative History is provided for the convenience of users of the Notarie
 ||Date of commencement|20 January 1984|
 |6.|**1985 Revised Edition—Notaries Public Act**|
 ||Date of operation|30 March 1987|
+|7.|**Act 34 of 1995—Singapore Academy of Law (Amendment) Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|7 August 1995|
+|||(Bill No. 27/1995 published on 8 August 1995)|
+||Date of Second and Third Readings|27 September 1995|
+||Date of commencement|1 January 1996 (section 11 — Consequential amendments to Notaries Public Act)|
