@@ -48,7 +48,7 @@
 
 - [11 Ascertainment of income of clubs, trade associations, etc.](#Ascertainment-of-income-of-clubs-trade-associations-etc)
 
-- [12 Source of income. Trading operations carried on partly in Singapore](#Source-of-income-Trading-operations-carried-on-partly-in-Singapore)
+- [12 Source of income.](#Source-of-income)
 
 [**Part IV EXEMPTION FROM INCOME TAX**](#Part-IV)
 
@@ -1398,7 +1398,9 @@ more than 2 years but not more than 3 years prior to the disposal of the shares;
 
 (3) In this section, “members”, in relation to a body of persons, means those persons who are entitled to vote at a general meeting of the body at which effective control is exercised over its affairs.
 
-### Source of income. Trading operations carried on partly in Singapore
+### Source of income.
+
+### Trading operations carried on partly in Singapore
 
 12\.—(1) Where a non-resident person carries on a trade or business of which only part of the operations is carried on in Singapore, the gains or profits of the trade or business shall be deemed to be derived from Singapore to the extent to which such gains or profits are not directly attributable to that part of the operations carried on outside Singapore.
 
@@ -2116,11 +2118,7 @@ as the case may be.
 
 (b) notwithstanding section 43, shall be taxed at such concessionary rate, not being more than 10%, as the Minister, or such person as the Minister may appoint, may specify for each year of assessment.
 
-[Act 31/98, Wef 14/08/1998]
-
 (2) Regulations made under subsection (1) may provide for the determination of the amount of the income of an approved venture company to be exempted or taxed at a concessionary rate and for the deduction of losses otherwise than in accordance with section 37.
-
-[Act 31/98, Wef 14/08/1998]
 
 (2A) The exemption from tax or tax at a concessionary rate of the income of an approved venture company under regulations made under subsection (1) —
 
@@ -2128,11 +2126,7 @@ as the case may be.
 
 (b) in any particular case after the period referred to in paragraph (a), shall be for such further period or periods, not exceeding 5 years at any one time for each period, as the Minister, or such person as the Minister may appoint, may specify.
 
-[Act 31/98, Wef 14/08/1998]
-
 (2B) The total period under subsection (2A)(a) and the further period or periods under subsection (2A)(b) shall not in the aggregate exceed 15 years.
-
-[Act 31/98, Wef 14/08/1998]
 
 (3) The Comptroller shall determine the manner and extent to which allowances under section 19, 19A, 20, 21 or 22 and any expenses, losses and donations allowable under this Act which are attributable to the income referred to in subsection (1) are to be deducted.
 
@@ -2154,19 +2148,13 @@ as the case may be.
 
 (b) notwithstanding subsection (5), where the income of the company was exempted from tax immediately before being taxed at a concessionary rate, the balance referred to in subsection (5) shall firstly be deducted against the income taxed at a concessionary rate and thereafter shall be available for deduction against any other income of the company for the year of assessment which relates to the basis period in which the tax exemption ceases, and subsequent years of assessment, in accordance with section 23 or 37, as the case may be.
 
-[Act 31/98, Wef 14/08/1998]
-
 (6) The Comptroller shall for each year of assessment for which the income of an approved venture company is exempt from tax under regulations made under subsection (1) issue to the approved venture company a statement showing the amount of income exempt from tax under regulations made under subsection (1) and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
-
-[Act 31/98, Wef 14/08/1998]
 
 (7) Subject to subsection (8), where any statement issued to an approved venture company under subsection (6) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of the company for the year of assessment to which the statement relates and shall be exempt from tax.
 
 (8) The Comptroller may, before any such statement has become final and conclusive, treat a specified amount of the income of an approved venture company as exempt from tax pending such statement becoming final and conclusive.
 
 (9) As soon as any amount of the income of an approved venture company has been exempt from tax or subject to tax at a concessionary rate under regulations made under subsection (1), the amount of the income exempted or the net amount of the income after deduction of the tax shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purpose of this section.
-
-[Act 31/98, Wef 14/08/1998]
 
 (10) Where the account of an approved venture company is in credit at the date on which any dividends are paid by the company out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
 
@@ -2184,11 +2172,9 @@ as the case may be.
 
 (a) any income of an approved venture company which has been exempted from tax or subject to tax at a concessionary rate under regulations made under subsection (1); or
 
-[Act 31/98, Wef 14/08/1998]
-
 (b) any dividend (including a dividend paid by a company to which subsection (13) applies) which has been exempted from tax in the hands of any shareholder,
 
-ought not to have been so exempted, or taxed at a concessionary rate for any year of assessment, the Comptroller may, at any time within 6 years after the expiration of that year of assessment—
+ought not to have been so exempted, or taxed at a concessionary rate for any year of assessment, the Comptroller may, at any time within 6 years after the expiration of that year of assessment —
 
 (i) make such assessment or additional assessment upon the company or any such shareholder as may appear to be necessary in order to make good any loss of tax; or
 
@@ -2472,7 +2458,7 @@ an amount equal to the excess medical expenses shall be deemed to be income of t
 
 (iii) which are specifically excluded as a condition for the approval of the overseas trade office under this section;
 
-(iv) which are incurred after the end of the the date of establishment of the approved overseas trade office; and
+(iv) which are incurred after the end of the date of establishment of the approved overseas trade office; and
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -2508,7 +2494,7 @@ and any remaining balance in the further deduction account shall be carried forw
 
 (3E) Notwithstanding anything in this section, where it appears to the Comptroller that in any year of assessment —
 
-(a) any further deduction which has been allowed under this section, section ; or
+(a) any further deduction which has been allowed under this section; or
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -4168,7 +4154,7 @@ Gifts to approved institutions of a public character
 
 [11/94]
 
-(9) In Subsection (2)(c), “institution of a public character” means an institution or fund in Singapore which is —
+(9) In subsection (2)(c), “institution of a public character” means an institution or fund in Singapore which is —
 
 (a) a hospital not operated or conducted for profit;
 
@@ -5110,7 +5096,7 @@ Provided that a company shall be deemed to be an associated company in relation 
 
 ### Concessionary rate of tax for offshore leasing of machinery and plant
 
-43I\.—(1) Notwithstanding section 43, tax at the rate of 10% or such other concessionary rate as the Minister may by order prescribe shall be levied and paid for each year of assessment upon the income of a leasing company accruing in or derived from Singapore in respect of offshore leasing of any machinery or plant .
+43I\.—(1) Notwithstanding section 43, tax at the rate of 10% or such other concessionary rate as the Minister may by order prescribe shall be levied and paid for each year of assessment upon the income of a leasing company accruing in or derived from Singapore in respect of offshore leasing of any machinery or plant.
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -5120,7 +5106,7 @@ Provided that a company shall be deemed to be an associated company in relation 
 
 (b) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of offshore finance leasing shall, subject to paragraph (c), only be deducted against the income from such leasing and any balance of the allowances shall not be available as a deduction against any other income;
 
-(c) where the leasing company ceases to derive income from offshore finance leasing in the basis period for any year of assessment, any balance of the allowances after the deduction in paragraph (b) shall be available as a deduction against any other income in accordance with regulations made under subsection (3);
+(c) where the leasing company ceases to derive income from offshore finance leasing in the basis period for any year of assessment, any balance of the allowances after the deduction in paragraph (b) shall be available as a deduction against any other income in accordance with regulations made under sub- section (3);
 
 (d) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of offshore operating leasing shall firstly be deducted against the income from such leasing and any balance of the allowances shall, subject to paragraph (e), be deducted against the income from offshore finance leasing but not against any other income;
 
@@ -8488,3 +8474,8 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 29/98)|
 ||Date of Second and Third Readings|31 July 1998|
 ||Date of commencement|27 February 1998 (Section 7)|
+|126.|**Act 32 of 1999—Income Tax (Amendment) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 24/99 published on 7 July 1999)|
+||Date of Second and Third Readings|17 August 1999|
+||Date of commencement|28 February 1998 (Section 19(c))|
