@@ -349,3 +349,8 @@ This Legislative History is provided for the convenience of users of the Probati
 |||(Bill No. 12/1993 published on 27 February 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
+|10.|**Act 37 of 1993—Probation of Offenders (Amendment) Act 1993**|
+||Date of First Reading|30 August 1993|
+|||(Bill No. 25/1993 published on 31 August 1993)|
+||Date of Second and Third Readings|10 November 1993|
+||Date of commencement|6 December 1993|
