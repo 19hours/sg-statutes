@@ -1,16 +1,14 @@
-**National Heritage Board Act 1993**
+**National Heritage Board Act**
 
-**(No. 13 of 1993)**
+**(CHAPTER 196A)**
 
 **Table of Contents**
 
 [**Long Title**](#National-Heritage-Board-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -40,7 +38,7 @@
 
 - [13 Initial vesting of objects in Board](#Initial-vesting-of-objects-in-Board)
 
-- [14 Certain gifts vesting on or after appointed day](#Certain-gifts-vesting-on-or-after-appointed-day)
+- [14 Certain gifts vesting on or after 1st August 1993](#Certain-gifts-vesting-on-or-after-1st-August-1993)
 
 - [15 Acquisition and disposal of objects](#Acquisition-and-disposal-of-objects)
 
@@ -86,7 +84,7 @@
 
 - [33 Grants](#Grants)
 
-- [34 Income of Board to be exempt from income tax, etc](#Income-of-Board-to-be-exempt-from-income-tax-etc)
+- [34 Income of Board to be exempt from income tax, etc.](#Income-of-Board-to-be-exempt-from-income-tax-etc)
 
 - [35 Establishment of National Heritage Endowment Fund](#Establishment-of-National-Heritage-Endowment-Fund)
 
@@ -96,7 +94,7 @@
 
 - [37 Transfer of assets and liabilities](#Transfer-of-assets-and-liabilities)
 
-- [38 Existing agreements, etc](#Existing-agreements-etc)
+- [38 Existing agreements, etc.](#Existing-agreements-etc)
 
 - [39 Pending legal proceedings](#Pending-legal-proceedings)
 
@@ -114,67 +112,47 @@
 
 [**Part VIII MISCELLANEOUS PROVISIONS**](#Part-VIII)
 
-- [46 Power to enter upon lands to conduct archaeological investigtion](#Power-to-enter-upon-lands-to-conduct-archaeological-investigtion)
+- [46 Power to enter upon lands to conduct archaeological investigation](#Power-to-enter-upon-lands-to-conduct-archaeological-investigation)
 
 - [47 Board’s symbol](#Board’s-symbol)
 
-- [48 Immunity of Board and its employees, etc](#Immunity-of-Board-and-its-employees-etc)
+- [48 Immunity of Board and its employees, etc.](#Immunity-of-Board-and-its-employees-etc)
 
 - [49 Regulations](#Regulations)
 
-- [50 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [50 Transitional provisions](#Transitional-provisions)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Board)
+[**FIRST SCHEDULE Constitution and proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Board)
 
-[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
+[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# National Heritage Board Act
 
-ACTS SUPPLEMENT
+(CHAPTER 196A)
 
-Published by Authority
+(Original Enactment: Act 13 of 1993)
 
-NO. 14]
+REVISED EDITION 1994
 
-Friday, May 14
+(15th March 1994)
 
-[1993
+An Act to establish the National Heritage Board, to transfer to it the National Museum, the National Archives and Records Centre and the Oral History Department and for matters connected therewith.
 
-The following Act was passed by Parliament on 13th April 1993 and assented to by the President on 28th April 1993:—
-
-National Heritage Board Act 1993
-
-(No. 13 of 1993)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-28th April 1993.
-
-Date of Commencement: 1st August 1993
-
-An Act to establish the National Heritage Board, to transfer to it the National Museum, the National Archives and Records Centre and the Oral History Department and to repeal the National Archives and Records Centre Act (Chapter 193 of the 1985 Revised Edition) and section 21 of the Science Centre Act (Chapter 286 of the 1985 Revised Edition) and for matters connected therewith.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st August 1993]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the National Heritage Board Act 1993 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the National Heritage Board Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “Board” means the National Heritage Board established under section 3;
 
@@ -184,11 +162,11 @@ PRELIMINARY
 
 “Deputy Chairman” means the Deputy Chairman of the Board and includes any temporary Deputy Chairman of the Board;
 
-“Fund” means the National Heritage Endowment Fund established under section 35(1);
+“Fund” means the National Heritage Endowment Fund established under section 35;
 
 “member” means a member of the Board;
 
-“National Archives” means the National Archives of Singapore established under section 17(1);
+“National Archives” means the National Archives of Singapore established under section 17;
 
 “object” includes any work of art and any artifact;
 
@@ -206,7 +184,12 @@ PRELIMINARY
 
 ## PART II
 
-ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
+ESTABLISHMENT, CONSTITUTION, FUNCTIONS
+
+
+
+
+AND POWERS OF BOARD
 
 ### Establishment of National Heritage Board
 
@@ -320,33 +303,33 @@ NATIONAL MUSEUM OF SINGAPORE
 
 (2) Every museum established by the Board under subsection (1) shall be known by such name as the Board thinks fit.
 
-(3) All museums established by the Board under subsection (1) and the museum transferred to the Board under section 37(1) shall collectively be known as the National Museum of Singapore.
+(3) All museums established by the Board under subsection (1) and the museum transferred to the Board under section 37 shall collectively be known as the National Museum of Singapore.
 
 ### Appointment of directors of museums
 
-12\. The Board may appoint a director for any museum established by the Board under section 11(1) and the museum transferred to it under section 37(1) who shall be responsible to the Board for the general management and control of the museum so established or transferred.
+12\. The Board may appoint a director for any museum established by the Board under section 11 and the museum transferred to it under section 37 who shall be responsible to the Board for the general management and control of the museum so established or transferred.
 
 ### Initial vesting of objects in Board
 
-13\.—(1) Where the property in an object was vested in the Government immediately before the appointed day, and the object —
+13\.—(1) Where the property in an object was vested in the Government immediately before 1st August 1993, and the object —
 
 (a) then formed part of the collections of the National Museum; or
 
 (b) was then in use in respect of the collections or solely for the purposes of the administration of the National Museum,
 
-then the property shall on that day become vested instead in the Board.
+then the property shall on that date become vested instead in the Board.
 
-(2) In the case of an object mentioned in subsection (1)(a), it is immaterial that, immediately before the appointed day, it was situated elsewhere than at premises managed for the purposes of the National Museum.
+(2) In the case of an object mentioned in subsection (1)(a), it is immaterial that, immediately before 1st August 1993, it was situated elsewhere than at premises managed for the purposes of the National Museum.
 
-(3) On the appointed day, any right, power, duty or liability which was immediately before that day exercisable by or incumbent on the Government in relation to any object mentioned in subsection (1) shall instead become exercisable by or incumbent on the Board.
+(3) On 1st August 1993, any right, power, duty or liability which was immediately before that date exercisable by or incumbent on the Government in relation to any object mentioned in subsection (1) shall instead become exercisable by or incumbent on the Board.
 
 (4) Subsections (1) and (3) shall not apply as regards such object excepted from those provisions as the Minister may specify.
 
-### Certain gifts vesting on or after appointed day
+### Certain gifts vesting on or after 1st August 1993
 
 14\.—(1) Subsection (2) shall apply to a gift (by will or otherwise) —
 
-(a) which is contained in an instrument made or executed before the appointed day but coming into effect on or after that day; and
+(a) which is contained in an instrument made or executed before 1st August 1993 but coming into effect on or after that date; and
 
 (b) which would, apart from this Act, have vested an interest in property (of any nature) in the Government for the purposes of the National Museum.
 
@@ -358,7 +341,7 @@ then the property shall on that day become vested instead in the Board.
 
 (2) Without prejudice to any power apart from this subsection, the Minister may transfer to the Board any object (whether or not he acquired it before the Board’s establishment) if in his opinion it would appropriately form part of its collections.
 
-(3) The Board may not dispose of an object of significant national or historical value the property in which is vested in it and which is comprised in its collections unless with the prior approval of the Minister and the disposal is by way of sale, exchange or gift of an object which —
+(3) The Board may not dispose of an object of significant national or historical value the property in which is vested in the Board and which is comprised in its collections unless with the prior approval of the Minister and the disposal is by way of sale, exchange or gift of an object which —
 
 (a) is a duplicate of another object the property in which is so vested and which is so comprised; or
 
@@ -372,7 +355,7 @@ then the property shall on that day become vested instead in the Board.
 
 ### Lending and borrowing of objects
 
-16\.—(1) Subject to subsection (2), the Board may lend any object the property in which is vested in it and which is comprised in its collections (whether or not the loan is for purposes of public exhibition, and whether or not under the terms of the loan the object is to remain in Singapore).
+16\.—(1) Subject to subsection (2), the Board may lend any object the property in which is vested in the Board and which is comprised in its collections (whether or not the loan is for purposes of public exhibition, and whether or not under the terms of the loan the object is to remain in Singapore).
 
 (2) In deciding whether or not to lend an object, and in determining the time for which and the conditions subject to which an object is to be lent, the Board —
 
@@ -410,7 +393,7 @@ NATIONAL ARCHIVES OF SINGAPORE
 
 (f) may provide information, consultation, research and other services related to archives;
 
-(g) may, subject to the terms and conditions, if any, on which they were acquired, reproduce or publish any public archives; and
+(g) may, subject to the terms and conditions, if any, on which the public archives were acquired, reproduce or publish any public archives; and
 
 (h) may acquire by purchase, donations, bequest or otherwise any document, book or other material which, in the opinion of the Board, is or is likely to be of national or historical significance.
 
@@ -450,7 +433,7 @@ NATIONAL ARCHIVES OF SINGAPORE
 
 (3) The National Archives shall be open for the inspection of public records during such hours as may be determined by the Board.
 
-(4) For the purpose of this section, “recording” means any recording deposited with the Board under section 26(1).
+(4) For the purpose of this section, “recording” means any recording deposited with the Board under section 26.
 
 ### Certified copy of public records
 
@@ -458,7 +441,7 @@ NATIONAL ARCHIVES OF SINGAPORE
 
 ### Reproduction of public records and recordings
 
-24\.—(1) No person shall publish or reproduce the whole or any part of the contents of any public records which have been transferred to the National Archives or of any recording which has been deposited under section 26(1) except with the written consent of the director of National Archives and in accordance with such conditions as may be imposed by the director or the person from whom they were acquired.
+24\.—(1) No person shall publish or reproduce the whole or any part of the contents of any public records which have been transferred to the National Archives or of any recording which has been deposited under section 26 except with the written consent of the director of National Archives and in accordance with such conditions as may be imposed by the director or the person from whom the public records or recordings were acquired.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
 
@@ -530,7 +513,7 @@ PROVISIONS RELATING TO STAFF
 
 ### Public servants for purposes of Penal Code
 
-30\. All members, officers and employees of the Board shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+30\. All members, officers and employees of the Board shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
 
 ## PART VI
 
@@ -540,7 +523,7 @@ FUNDS AND PROPERTY OF BOARD
 
 31\.—(1) The funds and property of the Board shall include —
 
-(a) all moneys and property transferred to the Board pursuant to section 37(1);
+(a) all moneys and property transferred to the Board pursuant to section 37;
 
 (b) all gifts, donations and contributions to the Board;
 
@@ -564,11 +547,11 @@ FUNDS AND PROPERTY OF BOARD
 
 33\. For the purpose of enabling the Board to carry out its functions under this Act, the Minister may from time to time make grants to the Board of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
 
-### Income of Board to be exempt from income tax, etc
+### Income of Board to be exempt from income tax, etc.
 
 34\. The Board shall be deemed to be —
 
-(a) an institution specified in the First Schedule to, and under section 13(1)(e) of, the Income Tax Act (Cap. 134); and
+(a) an institution specified in the First Schedule to, and under section 13(1)(e) of, the Income Tax Act [Cap. 134]; and
 
 (b) an institution of a public character approved by the Minister for Finance for the purposes of section 37(2)(c) of the Income Tax Act.
 
@@ -598,59 +581,59 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer of assets and liabilities
 
-37\.—(1) As from the appointed day, all movable property vested in the Government immediately before that day and used or managed by the National Museum, the National Archives and Records Centre or the Oral History Department, and all assets, rights, interests, liabilities and obligations of the Government relating to the National Museum, the National Archives and Records Centre or the Oral History Department shall be transferred to and shall vest in the Board without further assurance.
+37\.—(1) As from 1st August 1993, all movable property vested in the Government immediately before that date and used or managed by the National Museum, the National Archives and Records Centre or the Oral History Department, and all assets, rights, interests, liabilities and obligations of the Government relating to the National Museum, the National Archives and Records Centre or the Oral History Department shall be transferred to and shall vest in the Board without further assurance.
 
-(2) As from the appointed day, the Board shall control and manage the National Museum which shall be known by such name as the Board thinks fit.
+(2) As from 1st August 1993, the Board shall control and manage the National Museum which shall be known by such name as the Board thinks fit.
 
 (3) If any question arises as to whether any particular property, or whether any particular asset, interest, right, liability or obligation has been transferred to or vested in the Board under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, liability or obligation was or was not so transferred or vested.
 
-### Existing agreements, etc
+### Existing agreements, etc.
 
-38\. All deeds, bonds, agreements, instruments and working arrangements, subsisting immediately before the appointed day, affecting any of the property, rights, interests, liabilities and obligations transferred to or vested in the Board under section 37(1) shall continue in force on and after that day and shall be enforceable by or against the Board as if, instead of the Government or a person acting on behalf of the Government, the Board had been named therein or had been a party thereto.
+38\. All deeds, bonds, agreements, instruments and working arrangements, subsisting immediately before 1st August 1993, affecting any of the property, rights, interests, liabilities and obligations transferred to or vested in the Board under section 37(1) shall continue in force on and after that date and shall be enforceable by or against the Board as if, instead of the Government or a person acting on behalf of the Government, the Board had been named therein or had been a party thereto.
 
 ### Pending legal proceedings
 
-39\. Any proceedings or cause of action pending or existing immediately before the appointed day by or against the Government or any person acting on behalf of the Government relating to the National Museum, the National Archives and Records Centre or the Oral History Department may be continued and shall be enforced by or against the Board.
+39\. Any proceedings or cause of action pending or existing immediately before 1st August 1993 by or against the Government or any person acting on behalf of the Government relating to the National Museum, the National Archives and Records Centre or the Oral History Department may be continued and shall be enforced by or against the Board.
 
 ### Transfer of employees
 
-40\.—(1) As from the appointed day, such categories of persons employed immediately before that day in the National Museum, the National Archives and Records Centre and the Oral History Department as the Minister may determine shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+40\.—(1) As from 1st August 1993, such categories of persons employed immediately before that date in the National Museum, the National Archives and Records Centre and the Oral History Department as the Minister may determine shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) Until such time as terms and conditions of service are drawn up by the Board, the scheme and terms and conditions of service in the Government shall continue to apply to every person transferred to the service of the Board under subsection (1) as if he were still in the service of the Government.
 
 ### Pension rights, etc., of Government employees to be preserved
 
-41\.—(1) The terms and conditions of service of persons transferred to the service of the Board under section 40(1) shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by such persons while in the employment of the Government and any such term or condition relating to the length of service with the Board shall provide for the recognition of service under the Government by persons so transferred to be service by them under the Board.
+41\.—(1) The terms and conditions of service of persons transferred to the service of the Board under section 40 shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by such persons while in the employment of the Government and any such term or condition relating to the length of service with the Board shall provide for the recognition of service under the Government by persons so transferred to be service by them under the Board.
 
-(2) Nothing in the terms and conditions of service to be drawn up by the Board shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Board as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
+(2) Nothing in the terms and conditions of service to be drawn up by the Board shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Board as regards any pension, gratuity or allowance payable under the Pensions Act [Cap. 225].
 
-(3) In every case where a person has been transferred to the service of the Board under section 40(1), the Government shall be liable to pay the Board such portion of any gratuity, pension or allowance payable to such person on his retirement or otherwise leaving the service of the Board as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Board.
+(3) In every case where a person has been transferred to the service of the Board under section 40, the Government shall be liable to pay the Board such portion of any gratuity, pension or allowance payable to such person on his retirement or otherwise leaving the service of the Board as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Board.
 
-(4) Where any person who is transferred to the service of the Board under section 40(1) is a contributor under the Widows’ and Orphans’ Pension Act (Cap. 350), he shall, for the purposes of that Act, continue to make contributions under that Act as if he had not been transferred to the service of the Board and, for the purposes of that Act, his service with the Board shall be deemed to be service with the Government.
+(4) Where any person who is transferred to the service of the Board under section 40 is a contributor under the Widows’ and Orphans’ Pension Act [Cap. 350], he shall, for the purposes of that Act, continue to make contributions under that Act as if he had not been transferred to the service of the Board and, for the purposes of that Act, his service with the Board shall be deemed to be service with the Government.
 
 ### No benefits in respect of abolition or reorganisation of office
 
-42\. Notwithstanding the provisions of the Pensions Act, no person who is transferred to the service of the Board under section 40(1) shall be entitled to claim any benefit under the Pensions Act (Cap. 225) on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Board.
+42\. Notwithstanding the provisions of the Pensions Act [Cap. 225], no person who is transferred to the service of the Board under section 40 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Board.
 
 ### Continuation and completion of disciplinary proceedings
 
-43\.—(1) Where on the appointed day, any disciplinary proceedings are pending against any person transferred to the service of the Board under section 40(1), any committee acting under due authority to hear or investigate the matter shall continue to exist, notwithstanding this Act, for the purpose of completing the hearing or investigation and the making of an order or rendering a decision, as the case may be, and the Government or committee shall complete the hearing or investigation in accordance with the authority vested in the Government or committee immediately before that day and make such order, ruling or direction as the Government or committee could have made under the authority vested in it immediately before that day.
+43\.—(1) Where on 1st August 1993, any disciplinary proceedings are pending against any person transferred to the service of the Board under section 40, any committee acting under due authority to hear or investigate the matter shall continue to exist, notwithstanding this Act, for the purpose of completing the hearing or investigation and the making of an order or rendering a decision, as the case may be, and the Government or committee shall complete the hearing or investigation in accordance with the authority vested in the Government or committee immediately before that date and make such order, ruling or direction as the Government or committee could have made under the authority vested in it immediately before that date.
 
 (2) Any order, ruling or direction made or given by the Government or committee pursuant to this section shall be treated as an order, ruling or direction of the Board and have the same force or effect as if it had been made or given by the Board pursuant to the authority vested in the Board under this Act.
 
 ### Misconduct or neglect of duty by employee before transfer
 
-44\. The Board may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Board under section 40(1) for any misconduct or neglect of duty committed prior to the appointed day which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner by the Government as if this Act had not been enacted.
+44\. The Board may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Board under section 40 for any misconduct or neglect of duty committed prior to 1st August 1993 which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner by the Government as if this Act had not been enacted.
 
 ### Interpretation of this Part
 
-45\. In this Part, “National Archives and Records Centre” means the National Archives and Records Centre established under the repealed National Archives and Records Centre Act (Cap. 193) in force immediately before the appointed day.
+45\. In this Part, “National Archives and Records Centre” means the National Archives and Records Centre established under the repealed National Archives and Records Centre Act [Cap. 193] in force immediately before 1st August 1993.
 
 ## PART VIII
 
 MISCELLANEOUS PROVISIONS
 
-### Power to enter upon lands to conduct archaeological investigtion
+### Power to enter upon lands to conduct archaeological investigation
 
 46\.—(1) Subject to this section, any person specifically authorised in writing by the Board, after giving not less than 24 hours’ notice in writing to the occupier of the land of his intention to enter the land and on production of his authority, if so required by or on behalf of the occupier, may enter for the purposes of archaeological investigation or examination at all reasonable times upon any land which the Board has reason to believe contains any ancient monument and may make excavations in the land.
 
@@ -688,7 +671,7 @@ and any machinery attached to a monument shall be regarded as part of the monume
 
 (a) any investigation for the purpose of discovering and revealing and (where appropriate) recovering and removing any objects or other material of archaeological or historical interest situated in, on or under the land; and
 
-(b) examining, testing, treating, recording and preserving any such objects or material discovered during the course of any excavations or inspections carried out for the purposes of any such investigation.
+(b) examining, testing, treating, recording and preserving any such objects or material discovered during the course of any excavation or inspection carried out for the purposes of any such investigation.
 
 (12) For the purposes of this section, an archaeological examination of any land means any examination or inspection of the land (including any buildings or other structures thereon) for the purpose of obtaining and recording any information of archaeological or historical interest.
 
@@ -698,9 +681,9 @@ and any machinery attached to a monument shall be regarded as part of the monume
 
 (2) A person who, without the permission of the Board, uses a symbol or representation identical with that of the Board or which so resembles the Board’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
 
-### Immunity of Board and its employees, etc
+### Immunity of Board and its employees, etc.
 
-48\. No suit or other legal proceedings shall lie against the Board, any member, officer or employee of the Board or other person acting under the direction of the Board for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+48\. No suit or other legal proceedings shall lie against the Board, any member, officer or employee of the Board or other person acting under the direction of the Board for anything which is in good faith done or intended to be done in the execution or purported execution of this Act .
 
 ### Regulations
 
@@ -718,21 +701,17 @@ and any machinery attached to a monument shall be regarded as part of the monume
 
 (e) provide for the exemption from the payment, in whole or in part, of any fee under this Act.
 
-### Repeal and transitional provisions
+### Transitional provisions
 
-50\.—(1) The National Archives and Records Centre Act (Cap. 193) is repealed.
+50\.—(1) Any scheme, contract, document, certificate, licence, permission or resolution prepared, made, granted or approved under the repealed National Archives and Records Centre Act [Cap. 193] shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or approved under this Act.
 
-(2) Section 21 of the Science Centre Act (Cap. 286) is deleted.
-
-(3) Any scheme, contract, document, certificate, licence, permission or resolution prepared, made, granted or approved under the repealed National Archives and Records Centre Act shall, so far as it is not inconsistent with the provisions of this Act, continue and be deemed to have been prepared, made, granted or approved under this Act.
-
-(4) Any subsidiary legislation made under the repealed National Archives and Records Centre Act and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
+(2) Any subsidiary legislation made under the repealed National Archives and Records Centre Act and in force immediately before 1st August 1993 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
 
 FIRST SCHEDULE
 
-Section 5(2).
+Section 5(2)
 
-Constitution and Proceedings of Board
+Constitution and proceedings of Board
 
 Appointment of Chairman, Deputy Chairman and other members
 
@@ -756,7 +735,7 @@ Temporary members
 
 Revocation of appointment
 
-5\. The Minister may, at any time, revoke the appointment of the Chairman or the Deputy Chairman or any member; and in exercising his power under this paragraph, the Minister shall not be required to assign any reason for such revocation.
+5\. The Minister may, at any time, revoke the appointment of the Chairman or the Deputy Chairman or any member without assigning any reason.
 
 Resignation
 
@@ -770,7 +749,7 @@ Vacation of office of member
 
 (b) has been absent, without leave of the Board, from 3 consecutive meetings of the Board.
 
-Filling of vacancy in office of member
+Filing of vacancy in office of member
 
 8\. If a member dies, resigns or has his appointment revoked or otherwise vacates his office before the expiry of the term for which he has been appointed, another person may be appointed by the Minister for the unexpired period of the term of office of the member in whose place he is appointed.
 
@@ -822,13 +801,13 @@ Validity of acts of members
 
 SECOND SCHEDULE
 
-Section 36.
+Section 36
 
-Financial Provisions
+Financial provisions
 
 Financial year
 
-1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Board shall begin on the appointed day and shall end on 31st March 1994.
+1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Board shall begin on 1st August 1993 and shall end on 31st March 1994.
 
 Accounts to be kept
 
@@ -842,7 +821,7 @@ Appointment of auditor
 
 4.—(1) The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
 
 Remuneration of auditor
 
@@ -862,7 +841,7 @@ Duties of auditor
 
 (c) whether receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Board during the financial year have been in accordance with the provisions of this Act; and
 
-(d) such other matters, arising from the audit as he considers necessary.
+(d) such other matters arising from the audit as he considers necessary.
 
 (2) The auditor shall send a report of his audit to the Minister through the Board.
 
@@ -882,3 +861,20 @@ Presentation of financial statements and auditor’s report to Parliament
 
 (3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the report of the auditor to be presented to Parliament.
 
+## LEGISLATIVE HISTORY
+
+National Heritage Board Act
+
+(CHAPTER 196A)
+
+This Legislative History is provided for the convenience of users of the National Heritage Board Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 13 of 1993—National Heritage Board Act 1993**|
+||Date of First Reading|26 February 1993|
+|||(Bill No. 5/1993 published on 27 February 1993)|
+||Date of Second and Third Readings|13 April 1993|
+||Date of commencement|1 August 1993|
+|2.|**1994 Revised Edition—National Heritage Board Act**|
+||Date of operation|15 March 1994|
