@@ -1,14 +1,12 @@
-**Advance Medical Directive Act 1996**
+**Advance Medical Directive Act**
 
-**(No. 16 of 1996)**
+**(CHAPTER 4A)**
 
 **Table of Contents**
 
 [**Long Title**](#Advance-Medical-Directive-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -52,45 +50,27 @@
 
 - [22 Regulations](#Regulations)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Advance Medical Directive Act
 
-ACTS SUPPLEMENT
+(CHAPTER 4A)
 
-Published by Authority
+(Original Enactment: Act 16 of 1996)
 
-NO. 1]
+REVISED EDITION 1997
 
-Friday, January 17
-
-[1997
-
-The following Act was passed by Parliament on 2nd May 1996 and assented to by the President on 17th May 1996:—
-
-Advance Medical Directive Act 1996
-
-(No. 16 of 1996)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President
-
-17th May 1996.
-
-Date of Commencement: 1st July 1997
+(20th December 1997)
 
 An Act to provide for, and give legal effect to, advance directives to medical practitioners against artificial prolongation of the dying process and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st July 1997]
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Advance Medical Directive Act 1996 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\.—(1) This Act may be cited as the Advance Medical Directive Act.
 
-(2) This Act shall not apply to any act done or any directive or instrument made or executed before the commencement of this Act.
+(2) This Act shall not apply to any act done or any directive or instrument made or executed before 1st July 1997.
 
 ### Interpretation
 
@@ -122,7 +102,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 “terminal illness” means an incurable condition caused by injury or disease from which there is no reasonable prospect of a temporary or permanent recovery where —
 
-(a) death would within reasonable medical judgment be imminent regardless of the application of extraordinary life-sustaining treatment; and
+(a) death would, within reasonable medical judgment, be imminent regardless of the application of extraordinary life-sustaining treatment; and
 
 (b) the application of extraordinary life-sustaining treatment would only serve to postpone the moment of death of the patient.
 
@@ -148,7 +128,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 4\. Before witnessing the execution of the directive on the prescribed form, a witness who is a medical practitioner shall take reasonable steps in the circumstances to ensure that the patient —
 
-(a) is of sound mind ;
+(a) is of sound mind;
 
 (b) has attained the age of 21 years;
 
@@ -160,7 +140,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 5\.—(1) Any person who has made a directive in accordance with section 3 shall register his directive with the Registrar.
 
-(2) Upon receipt of the directive registered under subsection (1), the Registrar shall issue to the person who made the directive an acknowledgement in the prescribed form.
+(2) Upon receipt of the directive registered under subsection (1), the Registrar shall issue to the person who made the directive an acknowledgment in the prescribed form.
 
 (3) No person shall act on a directive if it has not been registered in accordance with this section.
 
@@ -188,9 +168,9 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Revocation of directive
 
-7\.—(1) Any patient who has made a directive may in the presence of at least one witness revoke the directive —
+7\.—(1) Any patient who has made a directive may, in the presence of at least one witness, revoke the directive —
 
-(a) in writing ;
+(a) in writing;
 
 (b) orally; or
 
@@ -202,11 +182,11 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (4) It shall be the duty of any other person who has witnessed a revocation, whether made in writing, orally or in any other way in which the patient can communicate, to inform the Registrar of that fact.
 
-(5) Upon receipt of the notice of revocation (if there is more than one notice, the first notice), the Registrar shall issue to that person an acknowledgement in the prescribed form and shall mark the directive as a revoked directive in the register.
+(5) Upon receipt of the notice of revocation (if there is more than one notice, the first notice), the Registrar shall issue to that person an acknowledgment in the prescribed form and shall mark the directive as a revoked directive in the register.
 
 ### Panel of specialists
 
-8\.—(1) The Minister shall appoint a panel of not less than 20 specialist who have each not less than 10 years’ experience in medical practice.
+8\.—(1) The Minister shall appoint a panel of not less than 20 specialists who have each not less than 10 years’ experience in medical practice.
 
 (2) The Minister shall, in appointing the members of the panel, have regard to the need to appoint specialists who possess the requisite skills, knowledge and qualifications in diagnosing terminal illness.
 
@@ -216,7 +196,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Certification of terminal illness
 
-9\.—(1) Where a medical practitioner, who is responsible for the treatment of any person, has reason to believe that that person —
+9\.—(1) Where a medical practitioner, who is responsible for the treatment of any person, has reason to believe that the person —
 
 (a) is suffering from a terminal illness;
 
@@ -226,13 +206,13 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 the medical practitioner shall —
 
-(i) determine and certify in the prescribed form that that person is suffering from a terminal illness and the reasons for the determination; and
+(i) determine and certify in the prescribed form that the person is suffering from a terminal illness and the reasons for the determination; and
 
-(ii) forward the certificate to the Registrar with a request that a search of the register be conducted in order to ascertain whether that person has made a directive which is in force.
+(ii) forward the certificate to the Registrar with a request that a search of the register be conducted in order to ascertain whether the person has made a directive which is in force.
 
-(2) Upon receipt of a request made under subsection (1), the Registrar shall cause a search of the register to be conducted in order to ascertain whether that person has made a directive which is in force and shall thereafter inform the medical practitioner accordingly.
+(2) Upon receipt of a request made under subsection (1), the Registrar shall cause a search of the register to be conducted in order to ascertain whether the person has made a directive which is in force and shall thereafter inform the medical practitioner accordingly.
 
-(3) Where the Registrar informs the medical practitioner responsible for the treatment of the person who has been certified to be terminally ill that the patient has made a directive which is in force, that medical practitioner shall obtain the opinion in the prescribed form of 2 other medical practitioners as to whether they agree with the determination that the patient is terminally ill.
+(3) Where the Registrar informs the medical practitioner responsible for the treatment of the person who has been certified to be terminally ill that the patient has made a directive which is in force, that medical practitioner shall obtain, in the prescribed form, the opinion of 2 other medical practitioners as to whether they agree with the determination that the patient is terminally ill.
 
 (4) Where the medical practitioner responsible for the treatment of the patient —
 
@@ -242,7 +222,7 @@ the medical practitioner shall —
 
 (5) Where the opinions of the 2 medical practitioners referred to in subsection (3) are not unanimously in agreement that the patient is terminally ill, the issue shall be referred for determination to a committee of 3 specialists (referred to in this section as the committee) appointed by the Director from among the panel of specialists referred to in section 8.
 
-(6) A patient shall, on reference to the committee, be determined to be terminally ill only on the unanimous decision of the committee.
+(6) A patient shall, on a reference to the committee, be determined to be terminally ill only on the unanimous decision of the committee.
 
 (7) If the committee is unable to reach a unanimous decision, the patient shall be presumed not to be terminally ill.
 
@@ -262,7 +242,7 @@ the medical practitioner shall —
 
 10\.—(1) A medical practitioner or any person who acts under the instructions of a medical practitioner, who for any reason objects to acting on a directive shall register his objection in the prescribed form to this effect and register it with the Registrar and such objection may be revoked by notifying the Registrar in the prescribed form.
 
-(2) Where a person who has made a directive in accordance with section 3 has been determined in accordance with section 9 to be suffering from a terminal illness, it shall be the duty of that medical practitioner responsible for his treatment (unless he has registered his objection under subsection (1)) to act in accordance with the directive unless there is reasonable ground to believe —
+(2) Where a person who has made a directive in accordance with section 3 has been determined in accordance with section 9 to be suffering from a terminal illness, it shall be the duty of the medical practitioner responsible for his treatment (unless he has registered his objection under subsection (1)) to act in accordance with the directive unless there is reasonable ground to believe —
 
 (a) that a notice of revocation under section 7 has been received by the registry or such revocation has been sent to the registry;
 
@@ -332,7 +312,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) would be entitled to an interest in the moneys of another person held in the Central Provident Fund or other provident fund on the death of that person,
 
-and who is guilty of an offence under subsection (1) (whether or not he has been convicted of such an offence)shall forfeit any interest under the will, policy, instrument, intestacy or memorandum executed under the Central Provident Fund Act (Cap. 36), as the case may be.
+and who is guilty of an offence under subsection (1) (whether or not he has been convicted of such an offence) shall forfeit any interest under the will, policy, instrument, intestacy or memorandum executed under the Central Provident Fund Act (Cap. 36), as the case may be.
 
 (3) Where a person is charged for an offence under subsection (1), no person shall act on a directive unless it is ascertained that the directive has been validly and voluntarily made in accordance with the provisions of this Act.
 
@@ -342,7 +322,7 @@ and who is guilty of an offence under subsection (1) (whether or not he has been
 
 15\.—(1) Except in the circumstances specified in subsection (2), no person who has or who will be likely to have the medical care of any patient (whether or not he has made or intends to make a directive) shall ask or otherwise enquire of the patient as to whether or not the patient has made or intends to make a directive.
 
-(2) Nothing in subsection (1) shall affect the duty or right of a medical practitioner responsible for the care of a patient to discuss and explore with his patient the concept of directives and the objects and provisions of this Act and the regulations made thereunder where such discussions are —
+(2) Nothing in subsection (1) shall affect the duty or right of a medical practitioner responsible for the care of a patient to discuss and explore with his patient the concept of directives and the objects and provisions of this Act and any regulations made thereunder where such discussions are —
 
 (a) consistent with good medical practice;
 
@@ -352,11 +332,11 @@ and who is guilty of an offence under subsection (1) (whether or not he has been
 
 (3) Except where a patient has been determined in accordance with section 9 to be suffering from a terminal illness, all information relating to the patient’s making of a directive, or of the patient’s intention to make a directive communicated by the patient to the medical practitioner or other medical worker having the care of the patient shall be kept confidential by the medical practitioner or other medical worker.
 
-(4) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+(4) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Offence to require directive as condition for insurance or medical care
 
-16\.—(1) Any person who requires or prohibits the making of a directive as a condition for being insured for, or receiving medical or health care services shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+16\.—(1) Any person who requires or prohibits the making of a directive as a condition for being insured for, or receiving medical or health care services shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (2) Any condition of a policy of insurance referred to in subsection (1) shall be void to the extent that it requires or prohibits the making of a directive.
 
@@ -374,7 +354,7 @@ and who is guilty of an offence under subsection (1) (whether or not he has been
 
 ### Protection of medical practitioners and other persons acting in good faith and without negligence
 
-19\.—(1) A medical practitioner shall not be subject to civil or criminal liability or discipline for professional misconduct or a decision made by him in good faith and without negligence as to whether —
+19\.—(1) A medical practitioner shall not be subject to civil or criminal liability or discipline for professional misconduct for a decision made by him in good faith and without negligence as to whether —
 
 (a) a patient is, or is not, suffering from a terminal illness;
 
@@ -390,7 +370,7 @@ and who is guilty of an offence under subsection (1) (whether or not he has been
 
 20\.—(1) For the purposes of the laws of Singapore, the non-application of extraordinary life-sustaining treatment to, or the withdrawal of extraordinary life-sustaining treatment from, a person suffering from a terminal illness shall not constitute a cause of death where the non-application or withdrawal was as a result of and in compliance with a directive validly made in accordance with this Act by the person.
 
-(2) This section shall not relieve a medical practitioner from the consequences of a negligent decision to whether or not a patient is suffering from a terminal illness.
+(2) This section shall not relieve a medical practitioner from the consequences of a negligent decision as to whether or not a patient is suffering from a terminal illness.
 
 ### Composition of offences
 
@@ -404,3 +384,22 @@ and who is guilty of an offence under subsection (1) (whether or not he has been
 
 22\. The Minister may make regulations to prescribe anything which is required to be prescribed by this Act and generally to give effect to the provisions of this Act.
 
+## LEGISLATIVE HISTORY
+
+Advance Medical Directive Act
+
+(CHAPTER 4A)
+
+This Legislative History is provided for the convenience of users of the Advance Medical Directive Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 16 of 1996—Advance Medical Directive Act 1996**|
+||Date of First Reading|1 November 1995|
+|||(Bill No. 40/1995 published on 2 November 1995)|
+||Date of Second Reading|5 December 1995|
+||Referred to Select Committee|Parl 1 of 1996 presented to Parliament on 11 March 1996|
+||Date of Third Reading|2 May 1996|
+||Date of commencement|1 July 1997|
+|2.|**1997 Revised Edition—Advance Medical Directive Act**|
+||Date of operation|20 December 1997|
