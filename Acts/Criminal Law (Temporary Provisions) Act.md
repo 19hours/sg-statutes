@@ -822,101 +822,81 @@ Essential Services
 
 3\. Bulk distribution of fuel and lubricants.
 
-4\. Civil defence services.
+4\. Civil defence services provided by the Singapore Civil Defence Force.
 
-5\. Clearing and settlement services relating to transactions in securities and futures contracts.
+5\. Clearing and settlement services relating to transactions in securities and futures contracts and transactions in the banking system.
 
 6\. Drug enforcement services provided by the Central Narcotics Bureau.
 
-7\. Electricity services and undertakings, including meter reading and billing, provided by any public electricity licensee licensed under the Public Utilities Act (Cap. 261).
+7\. Electricity and gas services.
 
 8\. Fire services, including rescue and fire-fighting services provided by the Civil Aviation Authority of Singapore.
 
-9\. Gas services provided by any public gas licensee licensed under the Public Utilities Act.
+9\. Information services and undertakings provided by the Ministry of Information, Communications and the Arts and its agencies.
 
-10\. Immigration and registration services.
+10\. Information technology services to support the processing of applications for permits for the import, export and transshipment of goods.
 
-11\. Information services and undertakings provided by the Ministry of Information and the Arts and its agencies.
+11\. Newspaper services.
 
-12\. Juvenile rehabilitation services provided by the Ministry of Community Development and Sports.
+12\. Pollution control and environmental monitoring and assessment services provided by the National Environment Agency.
 
-13\. Newspaper services.
+13\. Port, dock and harbour services and undertakings including services relating to the tracking and safe navigation of vessels in the territorial waters of Singapore and marine services and facilities and port services and facilities as defined in the Maritime and Port Authority of Singapore Act (Cap. 170A).
 
-14\. Pollution control and environmental monitoring and assessment services provided by the Ministry of the Environment.
+14\. Postal and telecommunication services and undertakings.
 
-15\. Port, dock and harbour services and undertakings.
+15\. Prison services.
 
-16\. Postal and telecommunication services and undertakings.
+16\. Private and public health services, including services relating to the collection of blood for the use of hospitals and the pharmaceutical services.
 
-17\. Prison services.
+17\. Public transport and air transport services, including ground handling services.
 
-18\. Public health services including services relating to the collection of blood for the use of hospitals and the pharmaceutical services under the Ministry of Health.
+18\. Refuse or waste collection services provided by any public waste collector licensee licensed under the Environmental Public Health Act (Cap. 95).
 
-19\. Public transport and air transport services.
+19\. Services provided by the Air Traffic Controllers and the Operations and Licensing Assistants of the Civil Aviation Authority of Singapore.
 
-20\. Refuse or waste collection services provided by any public waste collector licensee licensed under the Environmental Public Health Act (Cap. 95).
+20\. Services provided by the Immigration & Checkpoints Authority.
 
-21\. Services provided by the Air Traffic Controllers and the Operations and Licensing Assistants of the Civil Aviation Authority of Singapore.
+21\. Services relating to dealings in securities, trading in futures contracts and leveraged foreign exchange trading provided by the holder of a capital markets services licence under the Securities and Futures Act (Cap. 289).
 
-22. Services relating to dealings in securities, trading in futures contracts and leveraged foreign exchange trading provided by the holder of a capital markets services licence under the Securities and Futures Act 2001.
+22\. Sewerage and waste water treatment services.
 
-[42/2001 wef 01/10/2002]
+23\. Veterinary public health services provided by the Agri-Food and Veterinary Authority, including the inspection of primary food (meat and meat product, fish and fish product, egg, raw milk, fruit and vegetable) at the point of import and before distribution to retail.
 
-23\. Sewerage and waste water treatment services.
-
-24\. Veterinary public health services provided by the Agri-food and Veterinary Authority, including the inspection of primary food (meat and meat product, fish and fish product, egg, raw milk, fruit and vegetable) at the point of import and before distribution to retail.
+24\. Water reclamation services.
 
 25\. Water services.
 
-26\. Water reclamation services.
+26\. Weather information provided by the Meteorological Services Division of the National Environment Agency.
 
-27\. Weather information provided by the Meteorological Service Department of the Ministry of Communications and Information Technology.
+27. The following undertakings performed for the Singapore Armed Forces:
 
-28. The following undertakings performed for the Singapore Armed Forces:
+(a) the construction, maintenance and repair of military installations;
 
-(a) the design, development, production, manufacture, supply, transport, delivery, repair and maintenance of weapon systems (including military aircraft, ships, submarines and vehicles, arms, explosives, computer hardware and software and other military equipment) and spares and components thereof;
-
-(b) the construction, maintenance and repair of military installations;
+(b) the design, development, production, manufacture, supply, transport, delivery, repair and maintenance of weapon systems (including military aircraft, ships, submarines and vehicles, arms, explosives, computer hardware and software and other military equipment) and spares and components thereof;
 
 (c) the land, air and sea transportation of military personnel and equipment;
 
-(d) the management and the operation of warehouses, military retail outlets, storehouses, ferry terminals, cookhouses and camp complexes;
+(d) the management and operation of warehouses, military retail outlets, storehouses, ferry terminals, cookhouses and camp complexes;
 
 (e) the security functions performed at military installations or buildings;
 
-(f) the supply, transport and delivery of military supplies including rations and construction materials; and
+(f) the supply, transport and delivery of military supplies, including rations and construction materials; and
 
 (g) the surveillance, testing and disposal of ammunition.
 
-29. All undertakings of whatever nature of —
+28. All undertakings of whatever nature of —
 
-(a) the Monetary Authority of Singapore under the Currency Act (Cap. 69);
+(a) a securities exchange, a futures exchange, a clearing house or an exchange holding company approved under the Securities and Futures Act (Cap. 289);
 
-(b) the CISCO Recall Total Information Management Pte. Ltd.
+(b) Singapore Customs;
 
-[S 343/2001 wef 13/07/2001]
+(c) SNP SPrint Pte. Ltd.;
 
-(c) the CISCO Security Technology Pte. Ltd.;
+(d) the CISCO Recall Total Information Management Pte. Ltd.;
 
-(d) Singapore Customs;
+(e) the Monetary Authority of Singapore in managing the Singapore dollar exchange rate; and
 
-[4/2003 wef 01/04/2003]
-
-(e) the Imports and Exports Office of the Trade Development Board;
-
-(f) the Singapore International Monetary Exchange Ltd.;
-
-(g) the Singapore Mint Pte. Ltd.;
-
-(h) the Singapore Network Systems Pte. Ltd.;
-
-(i) the SNP Printing Pte. Ltd. and the SNP Security Printing Pte. Ltd.;
-
-(j) the Singapore Exchange Securities Trading Ltd.; and
-
-(k) the Thomas De La Rue (Singapore) Pte. Ltd.
-
-[S 31/2000]
+(f) the Monetary Authority of Singapore under the Currency Act (Cap. 69).
 
 Part II
 
@@ -1152,6 +1132,8 @@ This Legislative History is provided for the convenience of users of the Crimina
 |||(Bill No. 30/2004 published on 21 July 2004)|
 ||Date of Second and Third Readings|1 September 2004|
 ||Date of commencement|21 October 2004|
+|47.|**G. N. No. S 13/2005—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) Notification 2005**|
+||Date of commencement|7 January 2005|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
