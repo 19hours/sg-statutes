@@ -24,7 +24,7 @@
 
 - [6 Senate of Academy may give directions to Board](#Senate-of-Academy-may-give-directions-to-Board)
 
-- [7 Power of Minister and Board as to recognition of foreign qualifications](#Power-of-Minister-and-Board-as-to-recognition-of-foreign-qualifications)
+- [7 Board may approve certain persons as qualified persons](#Board-may-approve-certain-persons-as-qualified-persons)
 
 - [8 Constitution of Board](#Constitution-of-Board)
 
@@ -208,6 +208,8 @@
 
 - [82 Jurisdiction of Supreme Court over solicitors](#Jurisdiction-of-Supreme-Court-over-solicitors)
 
+- [82A Disciplinary proceedings against legal officers and non-practising solicitors](#Disciplinary-proceedings-against-legal-officers-and-non-practising-solicitors)
+
 - [83 Power to strike off the roll or suspend or censure](#Power-to-strike-off-the-roll-or-suspend-or-censure)
 
 - [84 Appointment of Inquiry Panel](#Appointment-of-Inquiry-Panel)
@@ -360,7 +362,7 @@ PRELIMINARY
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires —
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “Academy” means the Singapore Academy of Law established under the Singapore Academy of Law Act 1988 [Cap. 294A];
 
@@ -390,7 +392,9 @@ PRELIMINARY
 
 “lay person”, in relation to an Inquiry Committee or Disciplinary Committee, means an architect, accountant, banker, company director, insurer, professional engineer, medical practitioner or a person who possesses such other qualifications as may be approved by the Chief Justice and the Attorney-General;
 
-“legal officer” means a qualified person in the judicial or legal service of Singapore;
+“legal officer” means a person appointed as a legal officer in the Singapore Legal Service;
+
+[Act 41 of 1993 wef 01/01/1994]
 
 “Malayan practitioner” means any qualified person entitled to practise before a High Court in any part of Western Malaysia;
 
@@ -398,13 +402,21 @@ PRELIMINARY
 
 “qualified person” means any person who —
 
-(a) has passed the final examination for the degree of Bachelor of Laws in the University of Malaya in Singapore, the University of Singapore or the National University of Singapore;
+(a) before 1st May 1993 —
 
-(b) is a barrister-at-law of England or of Northern Ireland or a member of the Faculty of Advocates in Scotland;
+(i) has passed the final examination for the degree of Bachelor of Laws in the University of Malaya in Singapore, the University of Singapore or the National University of Singapore;
 
-(c) is a solicitor in England or Northern Ireland or a writer to the Signet, law agent or solicitor in Scotland; or
+(ii) was and still is a barrister-at-law of England or of Northern Ireland or a member of the Faculty of Advocates in Scotland;
 
-(d) is in possession of such other degree or qualification as may be declared by the Minister under section 6 and has obtained a certificate from the Board under that section;
+(iii) was and still is a solicitor in England or Northern Ireland or a writer to the Signet, law agent or solicitor in Scotland; or
+
+(iv) was and still is in possession of such other degree or qualification as may be declared by the Minister under section 7 in force immediately before the date of commencement of the Legal Profession (Amendment) Act 1993 and has obtained a certificate from the Board under that section;
+
+(b) on or after 1st May 1993 possesses such qualifications and satisfies such requirements as the Minister may prescribe under subsection (2); or
+
+(c) is approved by the Board as a qualified person under section 7;
+
+[Act 41 of 1993 wef 01/01/1994]
 
 “register of practitioners” means the annual register kept by the Registrar under section 27;
 
@@ -418,7 +430,25 @@ PRELIMINARY
 
 “trust” and “trustee” extend to implied and constructive trusts and to cases where the trustee has a beneficial interest in the trust property and to the duties incident to the office of a personal representative, and “trustee”, where the context admits, includes a personal representative.
 
+(2) For the purposes of paragraph (b) of the definition of “qualified person” in subsection (1), the Minister may, after consultation with the Board, make rules to prescribe the qualifications, education and training for persons seeking to be qualified persons under this Act.
+
+[Act 41 of 1993 wef 01/01/1994]
+
+(3) Without prejudice to the generality of subsection (2), rules made thereunder may —
+
+(a) prescribe the institutions of higher learning and the qualifications conferred thereby which may be recognised for the purposes of this Act;
+
+(b) specify the minimum standard of attainment, including the class of honours, to be achieved by persons who possess any of the prescribed qualifications;
+
+(c) prescribe such courses, tests or examinations to be undergone by persons who possess any of the prescribed qualifications;
+
+(d) provide for the exemption of any person or classes of persons from any of the provisions thereof; and
+
+(e) include such incidental, supplementary or transitional provisions as may be necessary or expedient.
+
 [17/84; 30/86; 15/89]
+
+[Act 41 of 1993 wef 01/01/1994]
 
 ## PART II
 
@@ -490,17 +520,13 @@ Board of Legal Education
 
 [15/89]
 
-### Power of Minister and Board as to recognition of foreign qualifications
+### Board may approve certain persons as qualified persons
 
-7\.—(1) The Minister may, on the advice of the Board, by notification in theGazettedeclare any degree or qualification to be sufficient to qualify the holder thereof for admission as an advocate and solicitor subject to his obtaining a certificate under this section.
+7\.—(1) The Board may in exceptional cases, in its discretion, upon an application made to it by any person who is not otherwise entitled to become a qualified person but who, in the opinion of the Board, possesses such qualification or expertise as would enhance the quality of legal services in Singapore, approve the person as a qualified person for the purpose of this Act and issue to him a certificate to that effect.
 
-[17/84]
+(2) Notwithstanding section 22, any decision of the Board under subsection (1) shall be final and shall not be subject to appeal or review in any court.
 
-(2) No holder of any degree or qualification declared under subsection (1) shall be deemed to be a qualified person unless he satisfies the Board that he has attained a sufficient standard to be a qualified person and has obtained a certificate to that effect from the Board.
-
-(3) The Board may, before granting any certificate under subsection (2), impose such conditions or requirements as it thinks fit to be complied with by an applicant who is the holder of a declared degree or qualification.
-
-[6
+[Act 41 of 1993 wef 01/01/1994]
 
 ### Constitution of Board
 
@@ -622,9 +648,13 @@ Provided that this subsection shall not —
 
 (c) partly with an advocate and solicitor under paragraph (a) and partly with a legal officer under paragraph (b).
 
-(2) In any case where subsection (1)(c) applies, pupillage with a legal officer shall be counted as equal to pupillage with an advocate and solicitor.
+(2) In any case where subsection (1)(b) or (c) applies, 6 months’ pupillage with a legal officer shall count as one month’s period of pupillage with an advocate and solicitor.
 
-[Act 10 of 1991 wef 01/02/1991]
+[Act 41 of 1993 wef 01/01/1994]
+
+(2A) For the purposes of this section and section 13(4), “legal officer” includes a legal officer of the Inland Revenue Authority of Singapore.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (3) The Board may approve a request that a qualified person serve different parts of his period of pupillage with different masters.
 
@@ -673,6 +703,10 @@ Provided that this subsection shall not —
 “associate”, in relation to an advocate and solicitor, means a person who is neither a partner nor employee of that advocate and solicitor but carries on practice in the same office and maintains separate accounts;
 
 “Hong Kong practitioner” means any person who is entitled to practise as a barrister or solicitor in Hong Kong.
+
+(7) Subsection (1) shall cease to have effect from 1st January 1995, and no Hong Kong practitioner shall be admitted as an advocate and solicitor under that subsection unless he has filed his petition for admission before that date.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 [15
 
@@ -752,7 +786,9 @@ Provided that this subsection shall not —
 
 [Act 10 of 1991 wef 01/02/1991]
 
-(2) Any person applying to be admitted under this section shall do so by originating motion verified by an affidavit of the applicant or of the advocate and solicitor instructing him stating the names of the parties and brief particulars of the case in which the applicant intends to appear and the originating motion and affidavit or affidavits shall be served on the Attorney-General, the Society and the other party or parties to the case and at the time of the service the applicant shall pay a fee of $100 to the Society for its costs incurred in the application.
+(2) Any person applying to be admitted under this section shall do so by originating motion verified by an affidavit of the applicant or of the advocate and solicitor instructing him stating the names of the parties and brief particulars of the case in which the applicant intends to appear and the originating motion and affidavit or affidavits shall be served on the Attorney-General, the Society and the other party or parties to the case and at the time of the service the applicant shall pay the prescribed fee to the Society and the Attorney-General for their costs incurred in the application.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (3) Before admitting a person under this section the court shall have regard to the views of each of the persons served with the application.
 
@@ -888,7 +924,7 @@ Provided that where the name of a solicitor is removed from or struck off the ro
 
 [Act 10 of 1991 wef 01/02/1991]
 
-(2) Subsection (1) shall not apply to a solicitor employed by any statutory board or authority or a member of the legal service if the Attorney-General issues a certificate under his hand certifying that the solicitor is so employed and specifying therein the matters in which the solicitor so employed may appear and plead in courts of law, and upon the solicitor otherwise complying with the provisions of this Act the Registrar shall issue to him a practising certificate specifying therein the matters in which he may appear and plead as contained in the Attorney-General’s certificate.
+(2) Subsection (1) shall not apply to a solicitor employed by the Society, any statutory board or authority or a member of the legal service if the Attorney-General issues a certificate under his hand certifying that the solicitor is so employed and specifying therein the matters in which the solicitor so employed may appear and plead in courts of law, and upon the solicitor otherwise complying with the provisions of this Act the Registrar shall issue to him a practising certificate specifying therein the matters in which he may appear and plead as contained in the Attorney-General’s certificate.
 
 (3) A practising certificate issued to a solicitor shall cease to have effect when he ceases to practise or he ceases to be employed as provided in this section.
 
@@ -1044,7 +1080,9 @@ Provided that this subsection shall not apply to any person who offers or agrees
 
 (a) proceedings before an arbitrator or umpire lawfully acting under any written law relating to arbitration (referred to in this section as arbitration proceedings) where the law, designated by the parties or otherwise determined by the rules of the conflict of laws, as applicable to the dispute to which the proceedings relate is not the law of Singapore; and
 
-(b) arbitration proceedings, where the applicable law referred to in paragraph (a) is the law of Singapore, if that person appears in the proceedings jointly with an advocate and solicitor who has in force a practising certificate.
+(b) arbitration proceedings, where the applicable law referred to in paragraph (a) is the law of Singapore, if that person appears in the proceedings jointly with an advocate and solicitor who has in force a practising certificate or with a legal officer.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (2) Nothing in this section shall be construed as derogating from or adversely affecting any power or right of any person to appear or act in arbitration proceedings or in connection therewith.
 
@@ -1252,7 +1290,9 @@ The Council
 
 (3) Subject to subsection (4), a practitioner member who has been struck off the roll or suspended from practising as an advocate and solicitor for a period of 6 months or more or has been convicted of an offence involving fraud or dishonesty shall not be eligible for election or appointment as a member of the Council.
 
-(4) A practitioner member may, after a period of 5 years following the date of his conviction or the date he was reinstated to the roll or the date of the expiry of his suspension, whichever is the later, with the leave of a court of 3 judges one of whom shall be the Chief Justice, be eligible for election or appointment as a member of the Council.
+(4) A practitioner member may, after a period of 5 years following the date of his conviction or the date he was reinstated to the roll or the date of the expiry of his suspension, whichever is the later, with the leave of a court of 3 judges of the Supreme Court one of whom shall be the Chief Justice, be eligible for election or appointment as a member of the Council.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (5) Where an application for leave under subsection (4) has been refused, the applicant shall not be entitled to make another application under that subsection within a period of 5 years from the date the first-mentioned application was dismissed.
 
@@ -1520,7 +1560,13 @@ Proceedings of Council
 
 ### Proceedings of Council and its Inquiry Committees to be confidential
 
-66\. Except insofar as may be necessary for the purpose of giving effect to any resolutions or decisions of the Council and its Inquiry Committees, confidentiality shall be maintained in all proceedings conducted by the Council, its staff and Inquiry Committees.
+66\.—(1) Except insofar as may be necessary for the purpose of giving effect to any resolutions or decisions of the Council and its Inquiry Committees, confidentiality shall be maintained in all proceedings conducted by the Council, its staff and Inquiry Committees.
+
+[Act 41 of 1993 wef 01/01/1994]
+
+(2) Notwithstanding subsection (1), the Chief Justice or the Attorney-General may require the Council to disclose to him any matter or information relating to any complaint of misconduct or disciplinary action against any advocate and solicitor.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 [63
 
@@ -1530,7 +1576,9 @@ General meetings of the Society
 
 ### Annual general meeting
 
-67\.—(1) (a) The Council shall each year convene an annual general meeting which shall be held in the month of November of that year.
+67\.—(1) (a) The Council shall each year convene an annual general meeting which shall be held in the month of October of that year.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (b) At least 10 days’ prior notice of the annual general meeting shall be given to all members of the Society.
 
@@ -1805,7 +1853,9 @@ Provided that no grant shall be made under this section in respect of any loss d
 
 (g) employed as a public officer.
 
-(2) Subsection (1)(g) shall not apply to any public officer who is an advocate and solicitor or a qualified person.
+(2) Subsection (1)(g) shall not apply to any public officer who is an advocate and solicitor or a qualified person or in respect of whom the consent of the court had previously been obtained under subsection (1).
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (3) On application made by or on behalf of the Attorney-General or the Society, the court may make an order directing that, as from a date to be specified in the order, no solicitor shall in connection with his practice as such employ or remunerate any person, the subject of the application, who —
 
@@ -1871,9 +1921,11 @@ DISCIPLINARY PROCEEDINGS
 
 ### Jurisdiction of Supreme Court over solicitors
 
-82\.—(1) Any person duly admitted as an advocate and solicitor shall be an officer of the Supreme Court:
+82\.—(1) Any person duly admitted as an advocate and solicitor or in respect of whom the consent of the court had previously been obtained under subsection (1) shall be an officer of the Supreme Court:
 
 Provided that the provisions of any written law which imposes on officers of the Supreme Court any restrictions as to practice as advocates or solicitors shall not apply to any advocate and solicitor by virtue only of this subsection.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (2) Nothing in this Part shall affect the jurisdiction referred to in subsection (3) which is exercisable by the Supreme Court or any judge thereof over any advocate or solicitor practising before it.
 
@@ -1881,15 +1933,65 @@ Provided that the provisions of any written law which imposes on officers of the
 
 [79
 
+### Disciplinary proceedings against legal officers and non-practising solicitors
+
+82A\.—(1) This Part, with the exception of this section and sections 82, 90, 91, 98 to 102, 104, 105 and 106, shall not apply to any legal officer or any advocate and solicitor who does not at the time of the misconduct have in force a practising certificate (referred to in this section as a non-practising solicitor).
+
+(2) All legal officers and non-practising solicitors shall be subject to the control of the Supreme Court and shall be liable on due cause shown to be punished in accordance with this section.
+
+(3) Such due cause may be shown by proof that a legal officer or a non-practising solicitor, as the case may be —
+
+(a) has been guilty in Singapore or elsewhere of such misconduct unbefitting a legal officer or an advocate and solicitor as an officer of the Supreme Court or as a member of an honourable profession; or
+
+(b) has been adjudicated bankrupt and has been guilty of any of the acts or omissions mentioned in section 33(6)(a), (b), (c), (d), (e), (f), (h) or (i) of the Bankruptcy Act (Cap. 20).
+
+(4) No application for an order to show cause under this section shall be made unless leave has been granted by the Chief Justice for an investigation to be made into the complaint of misconduct against the legal officer or non-practising solicitor concerned.
+
+(5) An application for such leave shall be made by ex parte originating summons and shall be accompanied by an affidavit setting out the allegations of misconduct against the legal officer or non-practising solicitor.
+
+(6) Where the Chief Justice is of the opinion that the applicant has made out a prima facie case for an investigation into his complaint, the Chief Justice may grant such leave and appoint a Disciplinary Committee under section 90.
+
+(7) The Disciplinary Committee shall hear and investigate into the complaint and submit its findings of fact and law in the form of a report to the Chief Justice.
+
+(8) A copy of the report shall be supplied to the legal officer or non-practising solicitor concerned, and to the Attorney-General if the report relates to a legal officer.
+
+(9) Where the Disciplinary Committee finds that no cause of sufficient gravity for disciplinary action exists under this section against the legal officer or non-practising solicitor concerned, the Chief Justice shall dismiss the complaint.
+
+(10) Where the Disciplinary Committee finds that cause of sufficient gravity for disciplinary action exists under this section against the legal officer or non-practising solicitor concerned, the Chief Justice may appoint an advocate and solicitor or a legal officer to apply by motion in the same proceedings for an order that the legal officer or the non-practising solicitor concerned be struck off the roll, prohibited from applying for a practising certificate, censured or otherwise punished, and section 98 shall apply, mutatis mutandis, to such application.
+
+(11) On completion of the hearing of the application under subsection (10), the court may —
+
+(a) censure the legal officer or non-practising solicitor;
+
+(b) prohibit him from applying for a practising certificate for such period not exceeding 5 years as it may specify;
+
+(c) order that his name be struck off the roll;
+
+(d) order him to pay a penalty of not more than $5,000; or
+
+(e) make such other order as it thinks fit.
+
+(12) The costs of and incidental to all proceedings under this section shall be in the discretion of the judge or of the court before whom the hearing has taken place.
+
+(13) Subject to this section, the Rules Committee may make rules for regulating and prescribing the procedure and practice to be followed in connection with proceedings under this section and in the absence of any rule or rules dealing with any point of procedure or practice, the Rules of the Supreme Court (Cap. 322, R. 1) may be followed as nearly as the circumstances permit.
+
+(14) For the avoidance of doubt, nothing in this section shall prevent any legal officer from being subject to disciplinary action by the Legal Service Commission for any act or omission which constitutes a disciplinary offence under this section.
+
+[Act 41 of 1993 wef 01/01/1994]
+
 ### Power to strike off the roll or suspend or censure
 
-83\.—(1) All advocates and solicitors shall be subject to the control of the Supreme Court and shall be liable on due cause shown to be struck off the roll or suspended from practice for any period not exceeding two years or censured.
+83\.—(1) All advocates and solicitors shall be subject to the control of the Supreme Court and shall be liable on due cause shown to be struck off the roll or suspended from practice for any period not exceeding 5 years or censured.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (2) Such due cause may be shown by proof that an advocate and solicitor —
 
 (a) has been convicted of a criminal offence, implying a defect of character which makes him unfit for his profession;
 
-(b) has been guilty of fraudulent or grossly improper conduct in the discharge of his professional duty or guilty of such a breach of any usage or rule of conduct made by the Council under the provisions of this Act as in the opinion of the court amounts to improper conduct or practice as an advocate and solicitor;
+(b) has been guilty of fraudulent or grossly improper conduct in the discharge of his professional duty or guilty of such a breach of any usage or rule of conduct made by the Council under the provisions of this Act as amounts to improper conduct or practice as an advocate and solicitor;
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (c) has been adjudicated bankrupt and has been guilty of any of the acts or omissions mentioned in section 33(6)(a), (b), (c), (d), (e), (f), (h) or (i) of the Bankruptcy Act [Cap. 20];
 
@@ -1901,11 +2003,15 @@ Provided that the provisions of any written law which imposes on officers of the
 
 (g) allows any clerk or other unauthorised person to undertake or carry on legal business in his name, that other person not being under such direct and immediate control of his principal as to ensure that he does not act without proper supervision;
 
-(h) has done some other act which would render him liable to be disbarred or struck off the roll of the court or suspended from practice or censured if a barrister or solicitor in England due regard being had to the fact that the two professions are fused in Singapore;
+(h) has been guilty of such misconduct unbefitting an advocate and solicitor as an officer of the Supreme Court or as a member of an honourable profession;
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (i) carries on by himself or any person in his employment any trade, business or calling that detracts from the profession of law or is in any way incompatible with it, or is employed in any such trade, business or calling;
 
-(j) has contravened or failed to comply with any of the provisions of this Act or of any rules made thereunder in relation thereto if in the opinion of the court such contravention or failure warrants disciplinary action; or
+(j) has contravened or failed to comply with any of the provisions of this Act or of any rules made thereunder in relation thereto if such contravention or failure warrants disciplinary action; or
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (k) has been disbarred, struck off, suspended or censured in his capacity as a legal practitioner by whatever name called in any other country.
 
@@ -1915,7 +2021,9 @@ Provided that the jurisdiction given by this subsection shall be exercised by a 
 
 (4) In any proceedings under this Part, the court may in addition to the facts of the case take into account the past conduct of the person concerned in order to determine what order should be made.
 
-(5) In any proceedings instituted under this Part against an advocate and solicitor consequent upon his conviction for a criminal offence, an Inquiry Committee, a Disciplinary Committee appointed under section 90 and a court of 3 judges referred to in section 98 shall accept his conviction as final and conclusive.
+(5) In any proceedings instituted under this Part against an advocate and solicitor consequent upon his conviction for a criminal offence, an Inquiry Committee, a Disciplinary Committee appointed under section 90 and a court of 3 judges of the Supreme Court referred to in section 98 shall accept his conviction as final and conclusive.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 [80
 
@@ -1943,21 +2051,31 @@ Provided that the jurisdiction given by this subsection shall be exercised by a 
 
 ### Complaints against advocates and solicitors
 
-85\.—(1) An application by any person that an advocate and solicitor be dealt with under this Part and any complaint of the conduct of an advocate and solicitor in his professional capacity shall in the first place be made to the Society and the Council shall refer the application or complaint to the Chairman of the Inquiry Panel.
+85\.—(1) Any complaint of the conduct of an advocate and solicitor shall in the first place be made to the Society and the Council shall refer the complaint to the Chairman of the Inquiry Panel.
 
-[15/89]
+[Act 41 of 1993 wef 01/01/1994]
 
-(2) The Council may on its own motion refer any information touching upon the conduct of an advocate and solicitor in his professional capacity to the Chairman of the Inquiry Panel.
+(2) The Council may on its own motion refer any information touching upon the conduct of an advocate and solicitor to the Chairman of the Inquiry Panel.
 
-(3) The Supreme Court or any judge thereof or the Attorney-General may at any time refer to the Society any information touching upon the conduct of an advocate and solicitor in his professional capacity and the Council shall —
+[Act 41 of 1993 wef 01/01/1994]
+
+(3) The Supreme Court or any judge thereof or the Attorney-General may at any time refer to the Society any information touching upon the conduct of an advocate and solicitor and the Council shall —
 
 (a) refer the matter to the Chairman of the Inquiry Panel; or
 
 (b) where the Supreme Court or a judge thereof or the Attorney-General requests that the matter be referred to a Disciplinary Committee, apply to the Chief Justice to appoint a Disciplinary Committee.
 
-(4) Where an application under subsection (1) or any complaint or information touching upon the conduct of an advocate and solicitor in his professional capacity is referred to the Chairman of the Inquiry Panel, the Council shall inform the advocate and solicitor concerned that it has done so.
+[Act 41 of 1993 wef 01/01/1994]
 
-(5) Where an application or any complaint or information touching upon the conduct of an advocate and solicitor in his professional capacity is referred to the Chairman of the Inquiry Panel pursuant to subsection (1), (2) or (3), he shall forthwith constitute an Inquiry Committee consisting of —
+(3A) Notwithstanding subsections (1), (2) and (3), where two or more complaints or information touching upon the conduct of an advocate and solicitor have been received by the Council, including any complaint which had been referred to a Disciplinary Committee under section 89, the Council may with the leave of the court refer to the Chairman of the Inquiry Panel one or more complaints or information which in its opinion are more serious in nature first and defer the referral of the remaining complaints or information.
+
+[Act 41 of 1993 wef 01/01/1994]
+
+(4) Where any complaint or information touching upon the conduct of an advocate and solicitor is referred to the Chairman of the Inquiry Panel, the Council shall inform the advocate and solicitor concerned that it has done so.
+
+[Act 41 of 1993 wef 01/01/1994]
+
+(5) Where any complaint or information touching upon the conduct of an advocate and solicitor is referred to the Chairman of the Inquiry Panel pursuant to subsection (1), (2) or (3), he shall forthwith constitute an Inquiry Committee consisting of —
 
 (a) a chairman, being a member of the Inquiry Panel who is an advocate and solicitor;
 
@@ -1967,7 +2085,9 @@ Provided that the jurisdiction given by this subsection shall be exercised by a 
 
 (d) a legal officer who has not less than 10 years’ experience,
 
-to inquire into the application, complaint or information.
+to inquire into the complaint or information.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (6) An Inquiry Committee may meet for the purposes of its inquiry, adjourn and otherwise regulate the conduct of its inquiry as the members may think fit.
 
@@ -1977,9 +2097,13 @@ to inquire into the application, complaint or information.
 
 (9) All the members of an Inquiry Committee shall be present to constitute a quorum for a meeting of the Inquiry Committee and any resolution or decision in writing signed by all the members of an Inquiry Committee shall be as valid and effectual as if it had been made or reached at a meeting of the Inquiry Committee where all its members were present.
 
-(10) Every written application or complaint received by the Society shall be supported by such statutory declarations or affidavits as the Chairman of the Inquiry Panel or of an Inquiry Committee may require.
+(10) Every complaint received by the Society shall be supported by such statutory declarations or affidavits as the Chairman of the Inquiry Panel or of an Inquiry Committee may require.
 
-(11) An Inquiry Committee may require any person making a written application or complaint to the Society under this Part to deposit with the Society a reasonable sum not exceeding $500 to cover necessary costs and expenses and in case the application or complaint is found to be frivolous or vexatious, the sum so deposited or such part thereof as the Inquiry Committee may determine shall be applied for the payment of those costs and expenses; otherwise the sum so deposited shall be returned to the person making the same.
+[Act 41 of 1993 wef 01/01/1994]
+
+(11) An Inquiry Committee may require any person making a complaint to the Society under this Part to deposit with the Society a reasonable sum not exceeding $500 to cover necessary costs and expenses and in case the complaint is found to be frivolous or vexatious, the sum so deposited or such part thereof as the Inquiry Committee may determine shall be applied for the payment of those costs and expenses; otherwise the sum so deposited shall be returned to the person making the same.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (12) A member of an Inquiry Committee shall, notwithstanding that he has ceased to be a member of the Inquiry Panel on the expiry of his term of office, be deemed to be a member of the Inquiry Panel until such time as the Council has decided that the Inquiry Committee of which he is a member has completed its work.
 
@@ -1989,13 +2113,15 @@ to inquire into the application, complaint or information.
 
 ### Inquiry
 
-86\.—(1) Subject to subsections (2), (3) and (4), an Inquiry Committee shall, within two weeks of its appointment, commence its inquiry into an application under section 85(1) or any complaint or information touching upon the conduct of an advocate and solicitor in his professional capacity and report its findings to the Council —
+86\.—(1) Subject to subsections (2), (3) and (4), an Inquiry Committee shall, within two weeks of its appointment, commence its inquiry into any complaint or information touching upon the conduct of an advocate and solicitor and report its findings to the Council —
 
 (a) in any case where the members of the Inquiry Committee have decided not to call upon the advocate and solicitor concerned to offer any explanation or to answer the allegations made against him, not later than two months after the date of its appointment; and
 
 (b) in any other case, not later than two weeks after the last meeting of the Inquiry Committee or 3 months after the date of its appointment, whichever is earlier.
 
 [15/89]
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (2) Where an Inquiry Committee is of the opinion that it will not be able to report its findings to the Council within the period specified in subsection (1)(b) due to the complexity of the matter or serious difficulties encountered by the Inquiry Committee in conducting its inquiry, the Inquiry Committee may apply in writing to the Chairman of the Inquiry Panel for an extension of the time to report its findings to the Council.
 
@@ -2007,7 +2133,9 @@ to inquire into the application, complaint or information.
 
 (6) Where an Inquiry Committee is of the opinion that an advocate and solicitor should be called upon to answer any allegation made against him, the Inquiry Committee shall post or deliver to the advocate and solicitor concerned —
 
-(a) copies of any written application, complaint or information touching upon his conduct in a professional capacity and of any statutory declarations or affidavits that have been made in support of the application, complaint or information; and
+(a) copies of any complaint or information touching upon his conduct and of any statutory declarations or affidavits that have been made in support of the complaint or information; and
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (b) a notice inviting the advocate and solicitor concerned to give within such period (not being less than 14 days) as may be specified in the notice to the Inquiry Committee any written explanation he may wish to offer and to advise the Inquiry Committee if he wishes to be heard by the Committee,
 
@@ -2019,7 +2147,21 @@ and allow the time specified in the notice to elapse and shall give the advocate
 
 (b) that the complaint be dismissed.
 
-(8) Where in the course of its inquiry an Inquiry Committee receives information touching on or evidence of the conduct of the advocate and solicitor concerned which may give rise to proceedings under this Part, the Inquiry Committee may decide on its own motion to inquire into that matter and report its findings to the Council.
+(8) Where in the course of its inquiry an Inquiry Committee receives information touching on or evidence of the conduct of the advocate and solicitor concerned which may give rise to proceedings under this Part, the Inquiry Committee may, after giving notice to him, decide on its own motion to inquire into that matter and report its findings to the Council.
+
+[Act 41 of 1993 wef 01/01/1994]
+
+(8A) Where in the course of its inquiry an Inquiry Committee receives information touching on or evidence of the conduct of the advocate and solicitor concerned which discloses an offence under any written law, the Inquiry Committee shall record the information in its report to the Council.
+
+[Act 41 of 1993 wef 01/01/1994]
+
+(8B) Where the complainant withdraws his complaint before the Council has referred the complaint to an Inquiry Committee or before the conclusion of the inquiry by an Inquiry Committee, the Council may, notwithstanding such withdrawal, refer the complaint to or direct an Inquiry Committee to continue the inquiry, as the case may be, and the Inquiry Committee shall comply with the direction and all future proceedings thereon shall be taken as if the complaint had been made by the Society.
+
+[Act 41 of 1993 wef 01/01/1994]
+
+(8C) Subsections (2) to (6) of section 91 shall apply, mutatis mutandis, in relation to an Inquiry Committee as they apply in relation to a Disciplinary Committee and the references in those subsections to a Disciplinary Committee shall be read as references to an Inquiry Committee.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (9) For the purposes of conducting an inquiry, an Inquiry Committee may —
 
@@ -2045,7 +2187,9 @@ and allow the time specified in the notice to elapse and shall give the advocate
 
 (c) that there should be a formal investigation by a Disciplinary Committee; or
 
-(d) that the matter be referred back to the Inquiry Committee, or adjourned for consideration.
+(d) that the matter be adjourned for consideration or be referred back to the Inquiry Committee for reconsideration or a further report.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (2) If the Inquiry Committee in its report recommends —
 
@@ -2053,9 +2197,19 @@ and allow the time specified in the notice to elapse and shall give the advocate
 
 (b) that a formal investigation by a Disciplinary Committee is not necessary, the Council may, if it disagrees with the recommendation, request the Chief Justice to appoint a Disciplinary Committee.
 
-(3) The Council shall inform the advocate and solicitor and the person who made the application or complaint of the manner in which it has determined the application or complaint and in the event of the determination being that a formal investigation is unnecessary the Council shall on the request of the person furnish him with its reasons in writing.
+(2A) Where the report of the Inquiry Committee discloses the commission of —
+
+(a) any other misconduct by the advocate and solicitor which has not been referred to or inquired into by the Inquiry Committee, the Council shall, if it determines that there should be a formal investigation of such misconduct, have power to prefer such charge against the advocate and solicitor as it thinks fit with respect to that misconduct; or
+
+(b) any offence involving fraud or dishonesty by that advocate and solicitor, the Council shall forthwith refer the matter to the police for investigation.
+
+[Act 41 of 1993 wef 01/01/1994]
+
+(3) The Council shall inform the advocate and solicitor and the person who made the complaint of the manner in which it has determined the complaint and in the event of the determination being that a formal investigation is unnecessary the Council shall on the request of the person furnish him with its reasons in writing.
 
 [84
+
+[Act 41 of 1993 wef 01/01/1994]
 
 ### Council’s power to order penalty
 
@@ -2065,21 +2219,37 @@ and allow the time specified in the notice to elapse and shall give the advocate
 
 (3) Before the Council makes an order for the payment of a penalty under this section, it shall notify the advocate and solicitor concerned of its intention to do so and give him a reasonable opportunity to be heard by the Council.
 
+(4) Where —
+
+(a) no application is made to set aside an order for the payment of a penalty under subsection (1) or if the order is affirmed or varied by the court under section 95(3)(a); or
+
+(b) an advocate and solicitor has been reprimanded by the Council under section 94(3)(a),
+
+the Council shall, at the expense of the advocate and solicitor, publish in theGazettea notice of the order if the penalty payable exceeds $1,000 or the reprimand, as the case may be.
+
+[Act 41 of 1993 wef 01/01/1994]
+
+(5) Any notice under subsection (4) shall contain the name of the advocate and solicitor, the nature of the misconduct committed by him and the penalty payable by him or the reprimand, as the case may be.
+
+[Act 41 of 1993 wef 01/01/1994]
+
+(6) Where an application is made to a judge by any person under section 97(1), the Council shall not publish the notice under subsection (4) until the application has been withdrawn or deemed to have been withdrawn or disposed of by the judge under section 97(3).
+
 [85
+
+[Act 41 of 1993 wef 01/01/1994]
 
 ### Application to appoint a Disciplinary Committee
 
-89\. Where —
+89\.—(1) Where the Council determines under section 87 that there should be a formal investigation, the Council shall forthwith apply to the Chief Justice to appoint a Disciplinary Committee which shall hear and investigate the matter.
 
-(a) the Council determines under section 87 that there should be a formal investigation; or
+(2) Notwithstanding subsection (1), where two or more matters are pending against an advocate and solicitor, the Council may apply for one or more matters which in its opinion are more serious in nature to be heard and investigated first and defer the hearing and investigation of the other matters.
 
-(b) an advocate and solicitor has been convicted of an offence of criminal breach of trust under section 409 of the Penal Code [Cap. 224] or any other offence involving fraud or dishonesty,
+(3) Where a Disciplinary Committee has been appointed to hear and investigate any matter against an advocate and solicitor under subsection (1) and before the commencement of the hearing of and investigation into that matter there is any other matter pending against the advocate and solicitor, the Chief Justice may, on the application of the Council, direct that Disciplinary Committee to hear and investigate the other matter or matters.
 
-the Council shall forthwith apply to the Chief Justice to appoint a Disciplinary Committee which shall hear and investigate the matter.
+(4) Where, in the course of its investigation of any matter against an advocate and solicitor referred to it under subsection (1) or (3), a Disciplinary Committee receives information touching on or evidence of the conduct of the advocate and solicitor which may give rise to proceedings under this Part, the Disciplinary Committee may, on the application of the Council, prefer such additional charge against the advocate and solicitor as it thinks fit with respect to such misconduct and, after giving notice to him, hear and investigate such charge and section 93 shall apply to such charge accordingly.
 
-[86
-
-[30/86]
+[Act 41 of 1993 wef 01/01/1994]
 
 Disciplinary Committee
 
@@ -2121,7 +2291,9 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 [30/86; 15/89]
 
-(2) For the purpose of any application, complaint or matter heard and investigated by it under this Act the Disciplinary Committee may administer oaths and the Society or the applicant or person making the complaint and the solicitor to whom the application or complaint relates and (if so instructed by the Disciplinary Committee) the secretary of the Disciplinary Committee may sue out writs of subpoena ad testificandum and of duces tecum but no person shall be compelled under any such writ to produce any document which he could not be compelled to produce at the trial of an action.
+(2) For the purpose of any complaint or matter heard and investigated by it under this Act the Disciplinary Committee may administer oaths and the Society or the person making the complaint and the solicitor to whom the complaint relates and (if so instructed by the Disciplinary Committee) the secretary of the Disciplinary Committee may sue out writs of subpoena ad testificandum and of duces tecum but no person shall be compelled under any such writ to produce any document which he could not be compelled to produce at the trial of an action.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (3) The writs referred to in subsection (2) shall be served and may be enforced as if they were writs issued in connection with a civil action in the High Court.
 
@@ -2135,11 +2307,13 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 ### Person who made the complaint etc.
 
-92\. Where the Supreme Court or a judge thereof or the Attorney-General has referred to the Society any information touching upon the conduct of an advocate and solicitor in his professional capacity, all references in this Part to a person who made the written application or complaint shall be construed to include a reference to the Attorney-General.
+92\. Where the Supreme Court or a judge thereof or the Attorney-General has referred to the Society any information touching upon the conduct of an advocate and solicitor, all references in this Part to a person who made the complaint shall be construed to include a reference to the Attorney-General.
 
 [89
 
 [30/86]
+
+[Act 41 of 1993 wef 01/01/1994]
 
 ### Findings of Disciplinary Committee
 
@@ -2175,7 +2349,15 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 (2) If the determination of the Disciplinary Committee under section 93 is that no cause of sufficient gravity for disciplinary action exists under section 83, it shall not be necessary for the Society to take any further action in the matter unless so directed by the court.
 
+(3) If the determination of the Disciplinary Committee under section 93 is that, while no cause of sufficient gravity for disciplinary action exists under section 83, the advocate and solicitor should be reprimanded, the Council shall —
+
+(a) if it agrees with the determination, reprimand the advocate and solicitor; or
+
+(b) if it disagrees with the determination, without further direction or directions proceed to make an application in accordance with section 98.
+
 [91
+
+[Act 41 of 1993 wef 01/01/1994]
 
 ### Provisions as to penalties
 
@@ -2199,7 +2381,7 @@ and may make an order for payment of costs by or to either the Society or the ap
 
 ### Procedure for complainants dissatisfied with Council’s decision
 
-96\.—(1) Where a person has made a written application or complaint to the Society and the Council has determined —
+96\.—(1) Where a person has made a complaint to the Society and the Council has determined —
 
 (a) that a formal investigation is not necessary; or
 
@@ -2207,7 +2389,11 @@ and may make an order for payment of costs by or to either the Society or the ap
 
 that person, if he is dissatisfied with the decision, may within 14 days of being notified of the Council’s determination apply to a judge under this section.
 
-(2) Such an application shall be made by originating summons and shall be accompanied by an affidavit or affidavits of the facts constituting the basis of the application or complaint and by a copy of the application or complaint originally made to the Society together with a copy of the Council’s reasons in writing supplied to the applicant under section 87(3).
+[Act 41 of 1993 wef 01/01/1994]
+
+(2) Such an application shall be made by originating summons and shall be accompanied by an affidavit or affidavits of the facts constituting the basis of the complaint and by a copy of the complaint originally made to the Society together with a copy of the Council’s reasons in writing supplied to the applicant under section 87(3).
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (3) The application accompanied by a copy of each of the documents referred to in subsection (2) shall be served on the Society.
 
@@ -2231,9 +2417,11 @@ and such order for the payment of costs as may be just.
 
 (b) that while no cause of sufficient gravity for disciplinary action exists under that section the advocate and solicitor should be reprimanded,
 
-and the person who made the written application or complaint or the Council is dissatisfied with the determination that person or the Council may within 14 days of being notified of the Disciplinary Committee’s decision apply to a judge under this section.
+and the person who made the complaint, the advocate and solicitor or the Council is dissatisfied with the determination, that person, advocate and solicitor or the Council may within 14 days of being notified of the Disciplinary Committee’s decision apply to a judge under this section.
 
 [30/86]
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (2) Such an application shall be made by originating summons and shall be served on the Society and the secretary of the Disciplinary Committee who shall thereupon file in court the record and report of the hearing and investigation by the Disciplinary Committee.
 
@@ -2247,9 +2435,11 @@ and the person who made the written application or complaint or the Council is d
 
 and such order for the payment of costs as may be just.
 
-(4) If the judge makes an order under subsection (3)(b) or (c) on the application of a person other than the Council the applicant shall have the conduct of proceedings under section 98 and any such proceedings shall be brought in the name of the applicant.
+(4) If the judge makes an order under subsection (3)(b) or (c) on the application of a person other than the Council or advocate and solicitor the applicant shall have the conduct of proceedings under section 98 and any such proceedings shall be brought in the name of the applicant.
 
 [94
+
+[Act 41 of 1993 wef 01/01/1994]
 
 ### Order to show cause
 
@@ -2265,11 +2455,17 @@ and such order for the payment of costs as may be just.
 
 (4) If an order to show cause is made a copy of the affidavit or affidavits upon which the order was made shall be served with the order upon the solicitor named in the order.
 
+(4A) An application to make absolute an order to show cause must be made by motion in the same proceedings and, unless the judge otherwise directs, there must be at least 8 clear days between the service of the notice of the motion and the day named therein for the hearing.
+
+[Act 41 of 1993 wef 01/01/1994]
+
 (5) Any order absolute, made in cases where personal service of the order to show cause has not been effected, may be set aside on the application of the solicitor on good cause being shown.
 
-(6) The application to make absolute and the showing of cause consequent upon any order to show cause made under subsections (1) and (2) shall be heard by a court of 3 judges and from the decision of that court there shall be no appeal.
+(6) The application to make absolute and the showing of cause consequent upon any order to show cause made under subsections (1) and (2) shall be heard by a court of 3 judges of the Supreme Court and from the decision of that court there shall be no appeal.
 
 [15/89]
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (7) The judge who made the order to show cause shall not thereby be disqualified from sitting as a member of the court of 3 judges under subsection (6).
 
@@ -2323,7 +2519,9 @@ Provided that an order as to costs only need not be so entered on the roll.
 
 102\.—(1) The court may, if it thinks fit, at any time order the Registrar to replace on the roll the name of a solicitor whose name has been removed from, or struck off, the roll.
 
-(2) Any application that the name of a solicitor be replaced on the roll shall be by originating motion, supported by affidavit, before a court of 3 judges of whom the Chief Justice shall be one.
+(2) Any application that the name of a solicitor be replaced on the roll shall be by originating motion, supported by affidavit, before a court of 3 judges of the Supreme Court of whom the Chief Justice shall be one.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (3) Notice of the motion shall be served on the Society which shall appear at the hearing of the motion and shall place before the court a report which shall include copies of the record of any proceedings as the result of which the name of the solicitor was removed from or struck off the roll and a statement of any facts which have occurred since the name of the solicitor was removed from or struck off the roll and which in the opinion of the Council or any member of it are relevant to be considered or to be investigated in connection with the application.
 
@@ -2331,7 +2529,9 @@ Provided that an order as to costs only need not be so entered on the roll.
 
 ### Costs
 
-103\.—(1) Where under section 93 a Disciplinary Committee determines that no cause of sufficient gravity for disciplinary action exists and further records the opinion that the application or complaint was frivolous or vexatious the Disciplinary Committee may by summons to be heard before a judge ask that the court order that the costs of the application or complaint shall be paid by the person who made the application or complaint and thereupon and after hearing that person the court may order that those costs or any part of them shall be paid by that person and any such order shall thereupon be enforceable in the same manner as any other order for costs made in proceedings in the court.
+103\.—(1) Where under section 93 a Disciplinary Committee determines that no cause of sufficient gravity for disciplinary action exists and further records the opinion that the complaint was frivolous or vexatious the Disciplinary Committee may by summons to be heard before a judge ask that the court order that the costs of the complaint shall be paid by the person who made the complaint and thereupon and after hearing that person the court may order that those costs or any part of them shall be paid by that person and any such order shall thereupon be enforceable in the same manner as any other order for costs made in proceedings in the court.
+
+[Act 41 of 1993 wef 01/01/1994]
 
 (2) The costs of and incidental to all proceedings under section 98, 100 or 102 shall be in the discretion of the judge or of the court before whom the hearing has taken place and such costs may include the costs of the Society or Disciplinary Committee and may be ordered to be paid by the solicitor by or against whom or by the person by whom any application or complaint was made or was intended to be made or partly by the solicitor and partly by the other person.
 
@@ -2563,9 +2763,7 @@ Provided that if one of the parties holds out and does not agree to taxation the
 
 122\.—(1) After the expiration of one year from the delivery of a bill of costs, or after payment of the bill, no order shall be made for taxation of a solicitor’s bill of costs, except upon notice to the solicitor and under special circumstances to be proved to the satisfaction of the court.
 
-(2) No such order for taxation shall in any event be made after the expiry of one year from the payment of the bill of costs.
-
-[119
+(2) [Deleted by Act 41 of 1993 wef 01/01/1994]
 
 ### Petitions for taxation to contain a submission to pay
 
@@ -2775,6 +2973,10 @@ in connection with that solicitor’s practice or in connection with any trust o
 
 (f) a solicitor has been committed to prison in any civil or criminal proceedings;
 
+(fa) the Council is satisfied that a sole solicitor is incapacitated by illness or accident to such an extent as to be unable to attend to his practice;
+
+[Act 41 of 1993 wef 01/01/1994]
+
 (g) a solicitor has been found under section 7 of the Mental Disorders and Treatment Act [Cap. 178] to be of unsound mind and incapable of managing himself and his affairs; or
 
 (h) the name of a solicitor has been removed from or struck off the roll or a solicitor has been suspended from practice.
@@ -2982,3 +3184,8 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 12/93 published on 27 February 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
+|20.|**Act 41 of 1993—Legal Profession (Amendment) Act 1993**|
+||Date of First Reading|12 October 1993|
+|||(Bill No. 34/93 published on 13 October 1993)|
+||Date of Second and Third Readings|12 November 1993|
+||Date of commencement|1 January 1994|
