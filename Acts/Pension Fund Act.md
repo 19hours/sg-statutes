@@ -1,16 +1,14 @@
-**Pension Fund Act 1995**
+**Pension Fund Act**
 
-**(No. 8 of 1995)**
+**(CHAPTER 224A)**
 
 **Table of Contents**
 
 [**Long Title**](#Pension-Fund-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -46,57 +44,31 @@
 
 - [15 Regulations](#Regulations)
 
-[**Part V CONSEQUENTIAL AMENDMENTS**](#Part-V)
-
-- [16 Amendments to Pensions Act](#Amendments-to-Pensions-Act)
-
-- [17 Amendments to Widows’ and Orphans’ Pension Act](#Amendments-to-Widows’-and-Orphans’-Pension-Act)
-
-- [18 Miscellaneous amendments](#Miscellaneous-amendments)
-
 [**THE SCHEDULE**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Pension Fund Act
 
-ACTS SUPPLEMENT
+(CHAPTER 224A)
 
-Published by Authority
+(Original Enactment: Act 8 of 1995)
 
-NO. 8]
+REVISED EDITION 1996
 
-Friday, March 24
+(30th April 1996)
 
-[1995
+An Act to establish a Pension Fund and for matters connected therewith.
 
-The following Act was passed by Parliament on 1st March 1995 and assented to by the President on 16th March 1995:—
-
-Pension Fund Act 1995
-
-(No. 8 of 1995)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-16th March 1995.
-
-Date of Commencement: 1st April 1995
-
-An Act to establish a Pension Fund and for matters connected therewith; and to make consequential amendments to certain other Acts.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 1995]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Pension Fund Act 1995 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Pension Fund Act.
 
 ### Interpretation
 
@@ -108,11 +80,11 @@ PRELIMINARY
 
 (a) service as a Member of the Legislative Assembly or Parliament (including an office-holding Member);
 
-(b) service as a member of the Special Constabulary constituted by the Police Force Act (Cap. 235);
+(b) service as a member of the Special Constabulary constituted by the Police Force Act [Cap. 235];
 
 (c) service as a volunteer in the Singapore Armed Forces or the Singapore Civil Defence Force; and
 
-(d) such other service as has been determined to be public service for the purposes of the Pensions Act (Cap. 225);
+(d) such other service as has been determined to be public service for the purposes of the Pensions Act [Cap. 225];
 
 “Singapore” means —
 
@@ -148,7 +120,7 @@ PENSION FUND
 
 ### Investment
 
-5\. All moneys belonging to the Pension Fund may be deposited in a bank and may be invested in any investment authorised under section 7 of the Financial Procedure Act (Cap. 109).
+5\. All moneys belonging to the Pension Fund may be deposited in a bank and may be invested in any investment authorised under section 7 of the Financial Procedure Act [Cap. 109].
 
 ## PART III
 
@@ -164,15 +136,15 @@ APPLICATION OF PENSION FUND
 
 (c) the payment of any sum ex gratia or any pension, gratuity, allowance, compensation, subsidy or other like benefit pursuant to a prescribed superannuation scheme;
 
-(d) the payment of any gratuity on the death or retirement of persons appointed as a member of the local staff of any diplomatic mission of Singapore; and
+(d) the payment of any gratuity on the death or retirement of persons appointed as members of the local staff of any diplomatic mission of Singapore; and
 
 (e) such other expenses relating to the granting of any pension, gratuity, allowance, compensation or other like benefit which is referred to in paragraphs (a) and (b) and expressly provided by written law to be met out of the Pension Fund.
 
-(2) The Minister may, by order in theGazette, amend the Schedule.
+(2) The Minister may, by order published in theGazette, amend the Schedule.
 
 ### Expenses
 
-7\. All expenses arising from or incidental to the administration of, and the investment and management of moneys in, the Pension Fund shall be charged on and payable out of the Pension Fund.
+7\. All expenses arising from or incidental to the administration of, and the investment and management of moneys in, the Pension Fund shall be charged on and payable out of the Fund.
 
 ### Deficiencies
 
@@ -180,7 +152,7 @@ APPLICATION OF PENSION FUND
 
 (2) Subsection (1) shall apply only to any pension, gratuity, allowance, compensation or other like benefit in respect of persons who have been in the public service in Singapore which —
 
-(a) prior to the commencement of this Act, was charged on the Consolidated Fund; or
+(a) prior to 1st April 1995, was charged on the Consolidated Fund; or
 
 (b) is provided for under any written law enacted on or after such commencement.
 
@@ -206,7 +178,7 @@ ACCOUNTING AND AUDIT
 
 12\.—(1) The Minister shall, as soon as practicable after the close of each financial year, cause to be prepared and submitted financial statements in respect of that year to the Auditor-General who shall audit and report on them.
 
-(2) In this section, the financial year of the Pension Fund shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year shall begin on the commencement of this Act and end on 31st March of the succeeding year.
+(2) In this section, the financial year of the Pension Fund shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
 ### Periodic examination of Pension Fund
 
@@ -226,113 +198,82 @@ and the amendment affects the cost of benefits payable under the law or scheme o
 
 ### Application of Financial Procedure Act
 
-14\. Except as otherwise expressly provided in this Act, the provisions of the Financial Procedure Act (Cap. 109) and the regulations made thereunder shall apply to the Pension Fund.
+14\. Except as otherwise expressly provided in this Act, the provisions of the Financial Procedure Act [Cap. 109] and any regulations made thereunder shall apply to the Pension Fund.
 
 ### Regulations
 
 15\. The Minister may make regulations prescribing all matters that are required to be prescribed or are necessary or expedient for carrying out or giving effect to this Act.
 
-## PART V
-
-CONSEQUENTIAL AMENDMENTS
-
-### Amendments to Pensions Act
-
-16\. The Pensions Act (Cap. 225) is amended —
-
-(a) by inserting, immediately after the definition of “other public service” in section 2, the following definition:
-
-“
-
-“Pension Fund” means the Pension Fund established by the Pension Fund Act 1995;
-
-”;
-
-(b) by deleting the words “Consolidated Fund” in section 4 and in the marginal note and substituting in each case the words “Pension Fund”;
-
-(c) by inserting, immediately after section 6, the following section:
-
-“
-
-Payment into Pension Fund
-
-6A\. Any amount that is required under section 6(d)(i) to be first paid to the Government before any pension, gratuity or other allowance may be granted under this Act shall be paid into the Pension Fund.
-
-”; and
-
-(d) by deleting the words “Consolidated Fund” wherever they appear in section 10(2) and (3) and substituting in each case the words “Pension Fund”.
-
-### Amendments to Widows’ and Orphans’ Pension Act
-
-17\. The Widows’ and Orphans’ Pension Act (Cap. 350) is amended —
-
-(a) by inserting, immediately after the definition of “officer on the Malayan Establishment” in section 2, the following definition:
-
-“
-
-“Pension Fund” means the Pension Fund established by the Pension Fund Act 1995;
-
-”;
-
-(b) by inserting, immediately after section 2, the following section:
-
-“
-
-Pensions, etc., to be charged on Pension Fund
-
-2A\. There shall be charged on and paid out of the Pension Fund all sums of money payable by way of pension in accordance with this Act.
-
-”; and
-
-(c) by deleting the words “Consolidated Fund” in sections 3 and 4(1) and in the marginal note to section 3 and substituting in each case the words “Pension Fund”.
-
-### Miscellaneous amendments
-
-18\.—(1) The following provisions in the following Acts are amended by deleting the words “Consolidated Fund” wherever they appear therein and substituting in each case the words “Pension Fund established by the Pension Fund Act 1995”:
-
-(a) section 111 of the Civil Defence Act (Cap. 42);
-
-(b) section 13 of the Civil List and Pension Act (Cap. 44);
-
-(c) section 16 of the Parliamentary Pensions Act (Cap. 219);
-
-(d) section 4(5) of the Personal Injuries (Emergency Provisions) Act (Cap. 228); and
-
-(e) section 206(1) of the Singapore Armed Forces Act (Cap. 295).
-
-(2) The marginal note to the following provisions in the following Acts are amended by deleting the words “Consolidated Fund” wherever they appear therein and substituting in each case the words “Pension Fund”:
-
-(a) section 13 of the Civil List and Pension Act; and
-
-(b) section 16 of the Parliamentary Pensions Act.
-
 ## THE SCHEDULE
 
-Section 6(1)
+Section 6(1).
 
-1\. The Civil Defence Act (Cap. 42).
+1. 
 
-2\. The Civil List and Pension Act (Cap. 44).
+The Civil Defence Act [Cap. 42].
 
-3\. The Internal Security (Injury Allowances) Regulations (Cap. 143, Rg 3).
+2. 
 
-4\. The Parliamentary Pensions Act (Cap. 219).
+The Civil List and Pension Act [Cap. 44].
 
-5\. The Pensions Act (Cap. 225).
+3. 
 
-6\. The Personal Injuries (Emergency Provisions) Act (Cap. 228).
+The Internal Security (Injury Allowances) Regulations [Cap. 143, Rg 3].
 
-7\. The Police Force Act, more particularly the Police Regulations (Cap. 235, Rg 1).
+4. 
 
-8\. The Public Service Commission (Pension) Regulations (Const., Rg 2).
+The Parliamentary Pensions Act [Cap. 219].
 
-9\. The Singapore Armed Forces Act, more particularly the Singapore Armed Forces (Pensions) Regulations (Cap. 295, Rg 9).
+5. 
 
-10\. The Widows’ and Orphans’ Pension Act (Cap. 350).
+The Pensions Act [Cap. 225].
 
-11\. The Workmen’s Compensation Act (Cap. 354).
+6. 
 
-12\. The Singapore City Council Superannuation Fund for Subordinate Employees Rules 1954.
+The Personal Injuries (Emergency Provisions) Act [Cap. 228].
 
-13\. The Municipal (Firemen’s Injuries) Provident Fund Rules 1956.
+7. 
 
+The Police Force Act [Cap. 235, Rg 1], more particularly the Police Regulations.
+
+8. 
+
+The Public Service Commission (Pension) Regulations [Const., Rg 2].
+
+9. 
+
+The Singapore Armed Forces Act, more particularly the Singapore Armed Forces (Pensions) Regulations [Cap. 295, Rg 9].
+
+10. 
+
+The Widows’ and Orphans’ Pension Act [Cap. 350].
+
+11. 
+
+The Workmen’s Compensation Act [Cap. 354].
+
+12. 
+
+The Singapore City Council Superannuation Fund for Subordinate Employees Rules 1954.
+
+13. 
+
+The Municipal (Firemen’s Injuries) Provident Fund Rules 1956.
+
+## LEGISLATIVE HISTORY
+
+Pension Fund Act
+
+(CHAPTER 224A)
+
+This Legislative History is provided for the convenience of users of the Pension Fund Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 8 of 1995—Pension Fund Act 1995**|
+||Date of First Reading|23 January 1995|
+|||(Bill No. 2/95 published on 24 January 1995)|
+||Date of Second and Third Readings|1 March 1995|
+||Date of commencement|1 April 1995|
+|2.|**1996 Revised Edition—Pension Fund Act**|
+||Date of operation|30 April 1996|
