@@ -64,6 +64,10 @@ An Act to prohibit smoking in specified places and vehicles, and to provide for 
 
 “public service vehicle” has the same meaning as in the Road Traffic Act [Cap. 276];
 
+“residential premises or building” means any premises or building which is permitted to be used pursuant to the Planning Act [Cap. 232] or any other written law as a dwelling-house or which is lawfully so used;
+
+[13/1994 wef 01/10/1994]
+
 “smoking”, with its grammatical variations, means inhaling and expelling the smoke of tobacco or any other substance and includes the holding of any cigar, cigarette, pipe or any other form of tobacco product which is alight or emitting smoke;
 
 “specified place” means any premises or building or part thereof specified in a notification made under section 3;
@@ -74,9 +78,21 @@ An Act to prohibit smoking in specified places and vehicles, and to provide for 
 
 3\.—(1) The Minister may, by notification in theGazetteand subject to such conditions as he may think fit, specify —
 
-(a) any premises or building or part thereof or class of premises or buildings or parts thereof to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise; or
+(a) any premises or building or such part thereof or any class of premises or buildings or such parts thereof —
 
-(b) any public service vehicle or part thereof or a class of public service vehicles or parts thereof,
+(i) being used for commercial, industrial or recreational purposes; or
+
+(ii) to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise;
+
+[13/1994 wef 01/10/1994]
+
+(b) any common property of any residential premises or building; or
+
+[13/1994 wef 01/10/1994]
+
+(c) any public service vehicle or part thereof or a class of public service vehicles or parts thereof,
+
+[13/1994 wef 01/10/1994]
 
 as being a place or places or a vehicle or vehicles in which smoking shall not be permitted either permanently or during such time or for such period or periods or under such circumstances as the Minister may prescribe.
 
@@ -120,7 +136,23 @@ as being a place or places or a vehicle or vehicles in which smoking shall not b
 
 (b) render such assistance as is reasonable to such officer to deal with that person in the manner provided in section 4.
 
-(3) If the manager of any specified place or the operator of any specified vehicle falls or neglects to comply with the provisions of subsection (1) or (2) in relation to any person whom he knows or ought reasonably to know is smoking in the specified place or specified vehicle in contravention of any notification made under section 3(1), that manager or operator shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000.
+(2A) Where any person smokes in a specified place in contravention of any notification made under section 3(1), any other person who is aggrieved by the smoking of that person may lodge a complaint to the manager of the specified place and it shall be the duty of the manager of the specified place —
+
+(a) to take all reasonable steps to investigate into the complaint; and
+
+(b) if the complaint is found to be true, to take action in accordance with subsection (1) or (2) against the person smoking in the specified place.
+
+[13/1994 wef 01/10/1994]
+
+(3) If the manager of any specified place or the operator of any specified vehicle, as the case may be, fails or neglects to comply with the provisions of —
+
+(a) subsection (1) or (2) in relation to any person whom he knows or ought reasonably to know is smoking in the specified place or specified vehicle; or
+
+(b) subsection (2A) in relation to any complaint received by him that a person is smoking in the specified place,
+
+in contravention of any notification made under section 3(1), that manager or operator shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000.
+
+[13/1994 wef 01/10/1994]
 
 (4) For the purposes of subsection (3), a manager of a specified place shall be presumed, until the contrary is proved, to have the knowledge referred to in that subsection where a person who is under his charge or supervision and who is employed at the specified place knows that a person is smoking in that place in contravention of a notification made under section 3(1).
 
@@ -187,3 +219,8 @@ This Legislative History is provided for the convenience of users of the Smoking
 ||Date of commencement|6 April 1992|
 |6.|**1993 Revised Edition—Smoking (Prohibition in Certain Places) Act (Chapter 310)**|
 ||Date of operation|15 March 1993|
+|7.|**Act 13 of 1994—Smoking (Prohibition in Certain Places) (Amendment) Act 1994**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 23/94 published on 29 July 1994)|
+||Date of Second and Third Readings|26 August 1994|
+||Date of commencement|1 October 1994|
