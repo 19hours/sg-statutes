@@ -1262,7 +1262,7 @@ the mortgage money, or other money or money’s worth, for the time being due to
 
 ### Severance of tenancy in common and joint tenancy
 
-66A\.—(1) Tenants in common who intend to hold their estate or interest in land as joint tenants may jointly declare by a deed of declaration that they hold the estate or interest in their respective shares in the land as joint tenants of the entire estate or interest thereof.
+66A\.—(1) Tenants in common entitled in equal shares who intend to hold their estate or interest in land as joint tenants may jointly declare by a deed of declaration that they hold the estate or interest in their respective shares in the land as joint tenants of the entire estate or interest thereof.
 
 [25/2001 wef 20/08/2001]
 
@@ -1280,7 +1280,7 @@ the mortgage money, or other money or money’s worth, for the time being due to
 
 (3) Without prejudice to any rule or principle of law relating to severance of a joint tenancy, a joint tenant may sever a joint tenancy of an estate or interest in land by a deed of declaration and by serving a copy of the deed of declaration personally or by registered post on the other joint tenants.
 
-(4) Upon the making of the deed of declaration and the service of the deed of declaration pursuant to subsection (3), the respective estates and interests in the land shall be held by the declarant and the remaining joint tenants as tenants in common in their respective shares.
+(4) Upon the making of the deed of declaration and the service of the deed of declaration pursuant to subsection (3), the respective estates and interests in the land shall be held by the declarant as tenant in common with the remaining joint tenants and shares in the registered land shall be equally apportioned by the Registrar among the declarant and the remaining joint tenants.
 
 [25/2001 wef 20/08/2001]
 
@@ -1615,8 +1615,21 @@ This Legislative History is provided for the convenience of users of the Conveya
 ||Date of commencement|1 March 1994|
 |24.|**1994 Revised Edition—Conveyancing and Law of Property Act**|
 ||Date of operation|15 March 1994|
-|25.|**Act 7 of 1997—Statutes (Miscellaneous Amendment) Act 1997**|
+|25.|**Act 27 of 1993—Land Titles Act 1993**|
+||Date of First Reading|16 November 1992|
+|||(Bill No. 36/1992 published on 12 November 1993)|
+||Date of Second and Third Readings|30 August 1993|
+||Date of commencement|1 March 1994|
+|26.|**1994 Revised Edition—Conveyancing and Law of Property Act**|
+||Date of operation|15 March 1994|
+|27.|**Act 7 of 1997—Statutes (Miscellaneous Amendment) Act 1997**|
 ||Date of First Reading|11 July 1997|
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997|
+|28.|**Act 25 of 2001—Land Titles (Amendment) Act 2001**|
+||(Consequential amendments made by)||
+||Date of First Reading|11 July 2001|
+|||(Bill No. 23/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|20 August 2001|
