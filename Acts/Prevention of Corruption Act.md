@@ -6,13 +6,19 @@
 
 [**Long Title**](#Prevention-of-Corruption-Act)
 
+[**Part I**](#Part-I)
+
 - [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
+[**Part II**](#Part-II)
+
 - [3 Appointment of Director and officers](#Appointment-of-Director-and-officers)
 
 - [4 Director and officers deemed to be public servants](#Director-and-officers-deemed-to-be-public-servants)
+
+[**Part III**](#Part-III)
 
 - [5 Punishment for corruption](#Punishment-for-corruption)
 
@@ -33,6 +39,8 @@
 - [13 When penalty to be imposed in addition to other punishment](#When-penalty-to-be-imposed-in-addition-to-other-punishment)
 
 - [14 Principal may recover amount of secret gift](#Principal-may-recover-amount-of-secret-gift)
+
+[**Part IV**](#Part-IV)
 
 - [15 Powers of arrest](#Powers-of-arrest)
 
@@ -57,6 +65,8 @@
 - [24 Evidence of pecuniary resources or property](#Evidence-of-pecuniary-resources-or-property)
 
 - [25 Evidence of accomplice](#Evidence-of-accomplice)
+
+[**Part VI**](#Part-VI)
 
 - [26 Obstruction of search](#Obstruction-of-search)
 
@@ -98,6 +108,8 @@ An Act to provide for the more effectual prevention of corruption.
 
 [17th June 1960]
 
+## PART I
+
 ### Short title
 
 1\. This Act may be cited as the Prevention of Corruption Act.
@@ -130,6 +142,8 @@ An Act to provide for the more effectual prevention of corruption.
 
 [25/81]
 
+## PART II
+
 ### Appointment of Director and officers
 
 3\.—(1) The President may appoint an officer to be the Director of the Corrupt Practices Investigation Bureau:
@@ -155,6 +169,8 @@ Provided that the President acting in his discretion may refuse to appoint or re
 (2) A certificate of appointment signed by the Director shall be issued to every officer of the Corrupt Practices Investigation Bureau and shall be evidence of his appointment under this Act.
 
 [25/81]
+
+## PART III
 
 ### Punishment for corruption
 
@@ -259,6 +275,14 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 14\.—(1) Where any gratification has, in contravention of this Act, been given by any person to an agent, the principal may recover as a civil debt the amount or the money value thereof either from the agent or from the person who gave the gratification to the agent, and no conviction or acquittal of the defendant in respect of an offence under this Act shall operate as a bar to proceedings for the recovery of that amount or money value.
 
 (2) Nothing in this section shall be deemed to prejudice or affect any right which any principal may have under any written law or rule of law to recover from his agent any money or property.
+
+### Principal may recover amount of secret gift
+
+14\.—(1) Where any gratification has, in contravention of this Act, been given by any person to an agent, the principal may recover as a civil debt the amount or the money value thereof either from the agent or from the person who gave the gratification to the agent, and no conviction or acquittal of the defendant in respect of an offence under this Act shall operate as a bar to proceedings for the recovery of that amount or money value.
+
+(2) Nothing in this section shall be deemed to prejudice or affect any right which any principal may have under any written law or rule of law to recover from his agent any money or property.
+
+## PART IV
 
 ### Powers of arrest
 
@@ -405,6 +429,8 @@ and the special investigator or police officer has reasonable grounds for believ
 25\. Notwithstanding any rule of law or written law to the contrary, no witness shall, in any such trial or inquiry as is referred to in section 24, be presumed to be unworthy of credit by reason only of any payment or delivery by him or on his behalf of any gratification to an agent or member of a public body.
 
 [24
+
+## PART VI
 
 ### Obstruction of search
 
@@ -574,3 +600,10 @@ This Legislative History is provided for the convenience of users of the Prevent
 ||Date of commencement|30 November 1991|
 |11.|**1993 Revised Edition—Prevention of Corruption Act**|
 ||Date of operation|15 March 1993|
+|12.|**Act 37 of 1998—Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998**|
+||(Consequential amendments made by)||
+||Date of First Reading|31 July 1998|
+|||(Bill No. 34/1998 published on 1 August 1998)|
+||Date of Second and Third Readings|12 October 1998|
+||Dates of commencement|16 November 1998|
+|||(item (9) in the Schedule)|
