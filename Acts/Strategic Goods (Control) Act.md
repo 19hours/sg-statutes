@@ -1,24 +1,22 @@
-**Strategic Goods (Control) Act 2002**
+**Strategic Goods (Control) Act**
 
-**(No. 40 of 2002)**
+**(CHAPTER 300)**
 
 **Table of Contents**
 
 [**Long Title**](#Strategic-Goods-Control-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Act subject to section 4 of Arms and Explosives Act](#Act-subject-to-section-4-of-Arms-and-Explosives-Act)
+- [3 Act subject to section 9 of Arms and Explosives Act](#Act-subject-to-section-9-of-Arms-and-Explosives-Act)
 
 - [4 Appointment of authorised officers and senior authorised officers](#Appointment-of-authorised-officers-and-senior-authorised-officers)
 
-[**Part II TRANSFER and brokering OF strategic goods and strategic goods technology**](#Part-II)
+[**Part II TRANSFER AND BROKERING OF STRATEGIC GOODS AND STRATEGIC GOODS TECHNOLOGY**](#Part-II)
 
 - [5 Transfer of strategic goods, etc.](#Transfer-of-strategic-goods-etc)
 
@@ -76,7 +74,7 @@
 
 - [29 No damages recoverable for seizure unless made without reasonable or probable cause](#No-damages-recoverable-for-seizure-unless-made-without-reasonable-or-probable-cause)
 
-[**Part Vi MISCELLANEOUS**](#Part-Vi)
+[**Part VI MISCELLANEOUS**](#Part-VI)
 
 - [30 False or misleading document or information](#False-or-misleading-document-or-information)
 
@@ -98,47 +96,31 @@
 
 [**THE SCHEDULE**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Strategic Goods (Control) Act
 
-Published by Authority
+(CHAPTER 300)
 
-NO. 43]
+(Original Enactment: Act 40 of 2002)
 
-Friday, December 27
+REVISED EDITION 2003
 
-[2002
-
-The following Act was passed by Parliament on 25th November 2002 and assented to by the President on 3rd December 2002:—
-
-Strategic Goods (Control) Act 2002
-
-(No. 40 of 2002)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-3rd December 2002.
-
-Date of Commencement: 1st January 2003
+(31st July 2003)
 
 An Act to control the transfer and brokering of strategic goods, strategic goods technology, goods and technology capable of being used to develop, produce, operate, stockpile or acquire weapons capable of causing mass destruction, and missiles capable of delivering such weapons; and for purposes connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st January 2003]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Strategic Goods (Control) Act 2002 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Strategic Goods (Control) Act.
 
 ### Interpretation
 
@@ -148,7 +130,7 @@ PRELIMINARY
 
 (a) an officer appointed as an authorised officer under section 4; or
 
-(b) an officer of customs within the meaning of section 3 of the Customs Act (Cap. 70);
+(b) an officer of customs within the meaning of section 3(1) of the Customs Act (Cap. 70);
 
 “bring in transit” means to bring goods from any country into Singapore by land, water or air, where the goods are to be taken out from Singapore on the same conveyance on which they are brought into Singapore without any landing in Singapore, but does not include the passage through Singapore in accordance with international law of a foreign conveyance carrying goods;
 
@@ -182,7 +164,7 @@ PRELIMINARY
 
 (a) an officer appointed as a senior authorised officer under section 4; or
 
-(b) a senior officer of customs within the meaning of section 3 of the Customs Act;
+(b) a senior officer of customs within the meaning of section 3(1) of the Customs Act;
 
 “strategic goods” means any goods specified in Part II, III or IV of the Schedule;
 
@@ -190,9 +172,9 @@ PRELIMINARY
 
 “technology” means any technology or software as defined in Part I of the Schedule, and includes an essential part of the technology;
 
-“through bill of lading”, “through air way bill” and “through manifest” mean a bill of lading, air way bill and manifest, respectively, for the consignment of goods from a place outside Singapore to a destination which is also outside Singapore without a consignee in Singapore;
+“through bill of lading”, “through airway bill” and “through manifest” mean a bill of lading, airway bill and manifest, respectively, for the consignment of goods from a place outside Singapore to a destination which is also outside Singapore without a consignee in Singapore;
 
-“tranship” means to remove goods from the conveyance on which they were brought into Singapore and to place the goods on the same or another conveyance for the purpose of taking them out of Singapore, where these acts are carried out on a through bill of lading, through air way bill or through manifest;
+“tranship” means to remove goods from the conveyance on which they were brought into Singapore and to place the goods on the same or another conveyance for the purpose of taking them out of Singapore, where these acts are carried out on a through bill of lading, through airway bill or through manifest;
 
 “transmit”, in relation to any technology, means to —
 
@@ -201,6 +183,8 @@ PRELIMINARY
 (b) make it available in Singapore on a computer,
 
 so that it becomes accessible (whether on a request, or subject to a pre-condition, or otherwise) to a person in a foreign country, whether he is a specific person, a person within a specific class, any person in general or the person who carries out the transmission.
+
+[6/2003]
 
 (2) For the purposes of the definition of the expression “bring in transit” —
 
@@ -220,9 +204,9 @@ so that it becomes accessible (whether on a request, or subject to a pre-conditi
 
 (4) A reference in this Act to the value of goods or technology in respect of which an offence was committed is a reference to the value of the goods or technology at the time of the commission of the offence.
 
-### Act subject to section 4 of Arms and Explosives Act
+### Act subject to section 9 of Arms and Explosives Act
 
-3\. This Act is subject to section 4 of the Arms and Explosives Act (Cap. 13).
+3\. This Act is subject to section 9 of the Arms and Explosives Act (Cap. 13).
 
 ### Appointment of authorised officers and senior authorised officers
 
@@ -230,7 +214,7 @@ so that it becomes accessible (whether on a request, or subject to a pre-conditi
 
 ## PART II
 
-TRANSFER and brokering OF strategic goods and strategic goods technology
+TRANSFER AND BROKERING OF STRATEGIC GOODS AND STRATEGIC GOODS TECHNOLOGY
 
 ### Transfer of strategic goods, etc.
 
@@ -240,7 +224,7 @@ TRANSFER and brokering OF strategic goods and strategic goods technology
 
 (b) export any document in which any strategic goods technology is recorded, stored or embodied;
 
-(c) transmit any strategic goods technology; or
+(c) transmit any strategic goods technology ; or
 
 (d) tranship any goods specified in Part III of the Schedule.
 
@@ -374,37 +358,57 @@ that is authorised by a permit.
 
 shall be made to the Director-General.
 
-[6/2003 wef 01/04/2003]
+[6/2003]
 
-(3) An application for a permit shall be made in such manner and form as the Director-General may determine, and shall be accompanied by such fee as may be prescribed.
+(2) An application for a permit shall be made in such manner and form as the Director-General may determine, and shall be accompanied by such fee as may be prescribed.
 
-(4) The Director-General may, subject to the regulations made under subsection (8), grant a permit to the applicant and may impose such conditions on him as the Director-General thinks fit.
+[6/2003]
 
-(5) The Director-General may, subject to the regulations made under subsection (8), renew a permit with or without conditions, or cancel a permit.
+(3) The Director-General may, subject to the regulations made under subsection (7), grant a permit to the applicant and may impose such conditions on him as the Director-General thinks fit.
 
-(6) A person aggrieved by a decision of the Director-General not to grant or renew a permit, or to cancel a permit, may appeal to the Minister whose decision shall be final.
+[6/2003]
 
-(7) The Director-General may delegate any of his powers under this section to a senior authorised officer.
+(4) The Director-General may, subject to the regulations made under subsection (7), renew a permit with or without conditions, or cancel a permit.
 
-(8) The Minister may make regulations to prescribe the class or classes of permits that may be granted, the time, form and manner of application for a permit, the conditions of a permit, the circumstances under which an application may be granted or refused, or a permit may be cancelled, renewed or replaced, and the fees payable in respect thereof.
+[6/2003]
+
+(5) A person aggrieved by a decision of the Director-General not to grant or renew a permit, or to cancel a permit, may appeal to the Minister whose decision shall be final.
+
+[6/2003]
+
+(6) The Director-General may delegate any of his powers under this section to a senior authorised officer.
+
+[6/2003]
+
+(7) The Minister may make regulations to prescribe the class or classes of permits that may be granted, the time, form and manner of application for a permit, the conditions of a permit, the circumstances under which an application may be granted or refused, or a permit may be cancelled, renewed or replaced, and the fees payable in respect thereof.
 
 ### Registration
 
 8\.—(1) An application for registration to carry out an act referred to in section 6(1) in relation to goods referred to in section 6(2)(a) shall be made to the Director-General in such manner and form as the Director-General may determine, and shall be accompanied by such fee as may be prescribed.
 
+[6/2003]
+
 (2) The Director-General may, subject to the regulations made under subsection (6), register the applicant and may impose such conditions on him as the Director-General thinks fit.
+
+[6/2003]
 
 (3) The Director-General may, subject to the regulations made under subsection (6), renew any registration with or without conditions, or cancel or suspend any registration.
 
+[6/2003]
+
 (4) A person aggrieved by a decision of the Director-General not to register him or renew his registration, or to cancel or suspend his registration, may appeal to the Minister whose decision shall be final.
 
+[6/2003]
+
 (5) The Director-General may delegate any of his powers under this section to a senior authorised officer.
+
+[6/2003]
 
 (6) The Minister may make regulations to prescribe different classes of registration, the time, form and manner of application for registration, the duration of any registration, the conditions of registration, the circumstances under which an application may be granted or refused, or any registration may be suspended, cancelled, extended or renewed, and the fees payable in respect thereof.
 
 ### Breach of condition of permit or registration an offence
 
-9\. If any person who holds a permit or who is registered contravenes, without lawful excuse, a condition of the permit or registration that is prescribed under section 7(8) or 8(6), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+9\. If any person who holds a permit or who is registered contravenes, without lawful excuse, a condition of the permit or registration that is prescribed under section 7(7) or 8(6), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ## PART III
 
@@ -496,7 +500,7 @@ ENFORCEMENT
 
 (c) inspect any document which he has reasonable cause to believe is such document, and make copies of, or seize and remove, such document;
 
-(d) inspect, seize and remove any article found on the premises which he has reasonable cause to believe to be such article;
+(d) inspect, seize and remove any article found on the premises which he has reasonable cause to believe to be such article; and
 
 (e) search or cause to be searched any person found on the premises whom he has reasonable cause to believe to be in possession of any such article or document.
 
@@ -516,13 +520,13 @@ he may exercise all the powers mentioned in section 14 as if he were authorised 
 
 16\.—(1) A senior authorised officer, or an authorised officer acting in accordance with the general or special directions of a senior authorised officer, may board any conveyance in Singapore and may rummage and search all parts of the conveyance for any article or document in respect of which an offence under section 5 or 6 has been, is being or is about to be committed.
 
-(2) For the more effective exercise of the powers under subsection (1), the senior authorised officer or authorised officer may —
+(2) For the more effective exercise of the powers under subsection (1), the authorised officer or senior authorised officer may —
 
 (a) require the master of any vessel or the captain of any aircraft to give such information relating to the vessel or aircraft, cargo, stores, crew, passengers or voyage as he may consider necessary;
 
 (b) by direction to the master of any vessel or the pilot of any aircraft, require the vessel or aircraft, as the case may be, not to proceed until so authorised;
 
-(c) require any document which ought to be on board any vessel or aircraft to be brought to him for inspection and, if he has reasonable cause to believe that the document is evidence of the commission of an offence under section 5 or 6, to make copies of, or seize and remove, the document;
+(c) require any document which ought to be on board any vessel or aircraft to be brought to him for inspection and, if he has reasonable cause to believe that the document is evidence of the commission of an offence under section 5 or 6, to make copies of, or seize and remove, the document; and
 
 (d) require the person in charge of a vehicle —
 
@@ -530,7 +534,7 @@ he may exercise all the powers mentioned in section 14 as if he were authorised 
 
 (ii) to bring the vehicle to any premises prescribed by the Minister as an examinations station for the purposes of this section.
 
-(3) The senior authorised officer or authorised officer may seize and remove any article or document in respect of which he has reasonable cause for believing that an offence under section 5 or 6 has been, is being or is about to be committed.
+(3) The authorised officer or senior authorised officer may seize and remove any article or document in respect of which he has reasonable cause for believing that an offence under section 5 or 6 has been, is being or is about to be committed.
 
 ### Duties of authorised officer, etc., upon seizure
 
@@ -572,7 +576,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Power of arrest
 
-21\.—(1) An authorised officer or a senior authorised officer may arrest without warrant any person whom he has reason to believe to be committing or to have committed an offence under section 5 or 6, and may search the person arrested and seize anything which he reasonably considers to be evidence of the commission of the offence.
+21\.—(1) An authorised officer or a senior authorised officer may —
+
+(a) arrest without warrant any person whom he has reason to believe to be committing or to have committed an offence under section 5 or 6; and
+
+(b) search the person arrested and seize anything which he reasonably considers to be evidence of the commission of the offence.
 
 (2) No woman or girl may be searched except by a woman.
 
@@ -588,7 +596,7 @@ PROVISIONS AS TO PROCEEDINGS
 
 ### Jurisdiction of court
 
-22\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of any such offence.
+22\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
 ### Who may prosecute
 
@@ -642,7 +650,7 @@ the court shall not order the thing to be forfeited unless that person has been 
 
 29\. No person shall, in any proceedings before any court in respect of the seizure of anything under any provision of Part IV, be entitled to the costs of the proceedings or to any damages or other relief other than an order for the return of that thing or the payment of its value, unless the seizure was made without reasonable or probable cause.
 
-## PART Vi
+## PART VI
 
 MISCELLANEOUS
 
@@ -684,7 +692,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 “partner” includes a person purporting to act as a partner.
 
-(6) Regulations may provide for the application of any provision of this section, with such modifications as the Authority considers appropriate, to a body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
+(6) Regulations may provide for the application of any provision of this section, with such modifications as the Minister considers appropriate, to a body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
 ### Public servants
 
@@ -912,7 +920,7 @@ but does not include the following devices:
 
 “special fissile material” means plutonium-239, uranium-233, “uranium enriched in the isotopes 235 or 233”, and any material containing all of these;
 
-“specific modulus” means Young’s modulus in pascals, equivalent to N/m2divided by specific weight in N/m3, measured at a temperature of (296 + 2)K ((23 + 2)°C) and a relative humidity of (50 + 5)%:
+“specific modulus” means Young’s modulus in pascals, equivalent to N/m2divided by specific weight in N/m3, measured at a temperature of (296 + 2)K ((23 + 2)°C) and a relative humidity of (50 + 5)%;
 
 “specific tensile strength” means ultimate tensile strength in pascals, equivalent to N/m2divided by specific weight in N/m3, measured at a temperature of (296 + 2) K ((23 + 2)°C) and a relative humidity of (50 + 5)%;
 
@@ -1010,9 +1018,9 @@ ML02
 
 Armament or weapons with a calibre greater than 12.7 mm (calibre 0.50 inches), projectors and accessories, as follows, and specially designed components therefor:
 
-a. guns, howitzers, cannon, mortars, anti-tank weapons, projectile launchers, military flame throwers, recoilless rifles and signature reduction devices therefor;
-
 Munition Code ML02.a includes injectors, metering devices, storage tanks and other specially designed components for use with liquid propelling charges for any of the items under that Munition Code.
+
+a. guns, howitzers, cannon, mortars, anti-tank weapons, projectile launchers, military flame throwers, recoilless rifles and signature reduction devices therefor;
 
 b. smoke, gas and pyrotechnic projectors or generators specifically designed for military use, except signal pistols;
 
@@ -1056,21 +1064,21 @@ ML04
 
 Bombs, torpedoes, rockets, missiles, and related equipment and accessories, as follows, if specially designed for military use, and specially designed components therefor:
 
-a. bombs, rockets and missiles;
-
 1. Munition Code ML04.a includes missile rocket nozzles and re-entry vehicle nosetips.
 
-b. torpedoes, grenades, smoke canisters, mines, depth charges, demolition-charges, demolition-devices and demolition-kits, “military pyrotechnics”, cartridges, and equipment simulating the characteristics of any of these;
+a. bombs, rockets and missiles;
 
 2. Munition Code ML04.b includes smoke grenades, fire bombs, incendiary bombs and explosive devices.
 
-c. equipment specially designed for the handling, control, activation, powering with one-time operational output, launching, discharging, decoying, jamming, detonation or detection of any item under Munition Code ML04.a;
+b. torpedoes, grenades, smoke canisters, mines, depth charges, demolition-charges, demolition-devices and demolition-kits, “military pyrotechnics”, cartridges, and equipment simulating the characteristics of any of these;
 
 3. Munition Codes ML04.c and ML04.d also include —
 
-d. equipment specially designed for the handling, control, activation, powering with one-time operational output, launching, laying, sweeping, discharging, decoying, jamming, detonation or detection of any item under Munition Code ML04.b.
+c. equipment specially designed for the handling, control, activation, powering with one-time operational output, launching, discharging, decoying, jamming, detonation or detection of any item under Munition Code ML04.a;
 
 (a) mobile gas liquefying equipment capable of producing 1,000 kg or more per day of gas in liquid form; and
+
+d. equipment specially designed for the handling, control, activation, powering with one-time operational output, launching, laying, sweeping, discharging, decoying, jamming, detonation or detection of any item under Munition Code ML04.b.
 
 (b) buoyant electric conducting cable suitable for sweeping magnetic mines.
 
@@ -1200,7 +1208,12 @@ a. the following substances and mixtures thereof:
 
 (o) Hydrogen peroxide in concentrations of less than 85%;
 
-13. Tetranitrobenzotriazolobenzotriazole (TACOT) (CAS 25243-36-1);
+13. Tetranitrobenzotriazolobenzotriazole
+
+
+
+
+(TACOT) (CAS 25243-36-1);
 
 (p) Misch metal;
 
@@ -1212,7 +1225,12 @@ a. the following substances and mixtures thereof:
 
 (r) Dioctylmaleate;
 
-16. 3-nitro-1,2,4-triazol-5-one (NTO or ONTA) (CAS 932-64-9);
+16. 3-nitro-1,2,4-triazol-5-one (NTO or ONTA)
+
+
+
+
+(CAS 932-64-9);
 
 (s) Ethylhexylacrylate;
 
@@ -1272,7 +1290,12 @@ a. the following substances and mixtures thereof:
 
 (zg) 2-Nitrodiphenylamine (2-NDPA);
 
-31. Ammonium dinitramide (ADN or SR 12) (CAS 140456-78-6);
+31. Ammonium dinitramide (ADN or SR 12)
+
+
+
+
+(CAS 140456-78-6);
 
 (zh) 4-Nitrodiphenylamine (4-NDPA);
 
@@ -1318,14 +1341,14 @@ e. the following “additives” and “precursors”:
 
 4. Bis-(2-fluoro-2,2-dinitroethyl) formal (FEFO) (CAS 17003-79-1);
 
-5. Bis-(2-hydroxyethyl) glycolamide (BHEGA) (CAS 17409-41-5);
-
-6. Bis(2-methyl aziridinyl) methylamino phosphine oxide (Methyl BAPO)
+5. Bis-(2-hydroxyethyl) glycolamide (BHEGA)
 
 
 
 
-(CAS 85068-72-0);
+(CAS 17409-41-5);
+
+6. Bis(2-methyl aziridinyl) methylamino phosphine oxide (Methyl BAPO) (CAS 85068-72-0);
 
 7. Bisazidomethyloxetane and its polymers
 
@@ -1334,28 +1357,13 @@ e. the following “additives” and “precursors”:
 
 (CAS 17607-20-4);
 
-8. Bischloromethyloxetane (BCMO)
-
-
-
-
-(CAS 142173-6-0);
+8. Bischloromethyloxetane (BCMO) (CAS 142173-6-0);
 
 9. Butadienenitrileoxide (BNO);
 
-10. Butanetrioltrinitrate (BTTN)
+10. Butanetrioltrinitrate (BTTN) (CAS 6659-60-5);
 
-
-
-
-(CAS 6659-60-5);
-
-11. Catocene (CAS 37206-42-1) (2,2-Bis-ethylferrocenyl propane); ferrocene carboxylic acids; N-butyl-ferrocene
-
-
-
-
-(CAS 319904-29-7); Butacene (CAS 125856-62-4) and other adducted polymer ferrocene derivatives;
+11. Catocene (CAS 37206-42-1) (2,2-Bis-ethylferrocenyl propane); ferrocene carboxylic acids; N-butyl-ferrocene (CAS 319904-29-7); Butacene (CAS 125856-62-4) and other adducted polymer ferrocene derivatives;
 
 12. Dinitroazetidine-t-butyl salt;
 
@@ -1481,29 +1489,29 @@ b. other “aircraft” including military reconnaissance, assault, military tra
 
 1. Munition Code ML09.b does not include “aircraft” or variants of those “aircraft” specially designed for military use which —
 
-(a) are not configured for military use and are not fitted with equipment or attachments specially designed or modified for military use; and
-
-(b) have been certified for civil use by the civil aviation authority in the recipient state.
-
 c. aero-engines and specially designed components therefor;
 
-2. Munition Code ML09.c does not include —
-
-(a) aero-engines designed or modified for military use which have been certified by the civil aviation authority in the recipient state for use in “civil aircrafts”, or specially designed components therefor; or
-
-(b) reciprocating engines or specially designed components therefor.
-
-3. The references in Munition Codes ML09.b and ML09.c to specially designed components and related equipment shall, in the case of non-military “aircraft” or aero-engines modified for military use, include only those military components and military related equipment required for the modification of these aircrafts or aero-engines to military use.
+(a) are not configured for military use and are not fitted with equipment or attachments specially designed or modified for military use; and
 
 d. the following unmanned airborne vehicles and related equipment and specially designed components therefor:
 
+(b) have been certified for civil use by the civil aviation authority in the recipient state.
+
 1. unmanned airborne vehicles including remotely piloted air vehicles (RPVs) and autonomous programmable vehicles;
+
+2. Munition Code ML09.c does not include —
 
 2. associated launchers and ground support equipment;
 
+(a) aero-engines designed or modified for military use which have been certified by the civil aviation authority in the recipient state for use in “civil aircrafts”, or specially designed components therefor; or
+
 3. related equipment for command and control;
 
+(b) reciprocating engines or specially designed components therefor.
+
 e. airborne equipment, including airborne refuelling equipment, specially designed for use with an “aircraft” under Munition Code ML09.a or ML09.b or an aero-engine under Munition Code ML09.c, and specially designed components therefor or modified for military use;
+
+3. The references in Munition Codes ML09.b and ML09.c to specially designed components and related equipment shall, in the case of non-military “aircraft” or aero-engines modified for military use, include only those military components and military related equipment required for the modification of these aircrafts or aero-engines to military use.
 
 f. pressure refuellers, pressure refuelling equipment, equipment specially designed to facilitate operations in confined areas and ground equipment, developed specially for “aircraft” under Munition Code ML09.a or ML09.b, or for aero-engines under Munition Code ML09.c;
 
@@ -1587,23 +1595,23 @@ ML12
 
 Armoured or protective equipment and constructions and components, as follows:
 
+1. Munition Code ML12.b includes materials specially designed to form explosive reactive armour or to construct military shelters.
+
 a. armoured plate that is —
 
+2. Munition Code ML12.c does not include conventional steel helmets which are neither modified or designed to accept, nor equipped with, any type of accessory device.
+
 1. manufactured to comply with a military standard or specification; or
+
+3. Munition Code ML12.d does not include an individual suit of body armour for personal protection and accessories therefor when carried on the person of its user.
 
 2. suitable for military use;
 
 b. constructions of metallic or non-metallic materials or combinations thereof specially designed to provide ballistic protection for military systems, and specially designed components therefor;
 
-1. Munition Code ML12.b includes materials specially designed to form explosive reactive armour or to construct military shelters.
-
 c. military helmets;
 
-2. Munition Code ML12.c does not include conventional steel helmets which are neither modified or designed to accept, nor equipped with, any type of accessory device.
-
 d. body armour manufactured according to military standards or specifications, or equivalent, and specially designed components therefor;
-
-3. Munition Code ML12.d does not include an individual suit of body armour for personal protection and accessories therefor when carried on the person of its user.
 
 e. flak suits manufactured according to military standards or specifications, or equivalent, and specially designed components therefor.
 
@@ -1863,13 +1871,13 @@ ML19
 
 Cryogenic and “superconductive” equipment, as follows, and specially designed components and accessories therefor:
 
-a. equipment specially designed or configured to be installed in a vehicle for military ground, marine, airborne or space applications, capable of operating while in motion and of producing or maintaining temperatures below 103K (-170°C);
-
 1. Munition Code ML19.a includes mobile systems incorporating or employing accessories or components manufactured from non-metallic or non-electrical conductive materials, such as plastics or epoxy-impregnated materials.
 
-b. “superconductive” electrical equipment (rotating machinery and transformers) specially designed or configured to be installed in a vehicle for military ground, marine, airborne or space applications, capable of operating while in motion.
+a. equipment specially designed or configured to be installed in a vehicle for military ground, marine, airborne or space applications, capable of operating while in motion and of producing or maintaining temperatures below 103K (-170°C);
 
 2. Munition Code ML19.b does not include direct-current hybrid homopolar generators that have single-pole normal metal armatures which rotate in a magnetic field produced by superconducting windings, provided those windings are the only superconducting component in the generator.
+
+b. “superconductive” electrical equipment (rotating machinery and transformers) specially designed or configured to be installed in a vehicle for military ground, marine, airborne or space applications, capable of operating while in motion.
 
 ML20
 
@@ -2180,16 +2188,31 @@ CL01-1A
 
 TOXIC CHEMICALS
 
-a. O-Alkyl (equal to or less than C10, including cycloalkyl) alkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-phosphonofluoridates, for example: Sarin(GB):O-Isopropyl methylphosphonofluoridate (CAS 107-44-8); Soman(GD):O-Pinacolyl methylphosphonofluoridate (CAS 96-64-0);
+a. O-Alkyl (equal to or less than C10, including cycloalkyl) alkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-phosphonofluoridates, for example:
 
-b. O-Alkyl (equal to or less than C10, including cycloalkyl) N, N-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphoramidocyanidates, for example: Tabun(GA):O-Ethyl N,N-dimethylphosphoramidocyanidate
+
+
+
+Sarin(GB):O-Isopropyl methylphosphonofluoridate (CAS 107-44-8); Soman(GD):O-Pinacolyl methylphosphonofluoridate (CAS 96-64-0);
+
+b. O-Alkyl (equal to or less than C10, including cycloalkyl) N, N-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphoramidocyanidates, for example:
+
+
+
+
+Tabun(GA):O-Ethyl N,N-dimethylphosphoramidocyanidate
 
 
 
 
 (CAS 77-81-6);
 
-c. O-Alkyl (H or equal to or less than C10, including cycloalkyl) S-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonothiolates and corresponding alkylated and protonated salts, for example: VX:O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate (CAS 50782-69-9);
+c. O-Alkyl (H or equal to or less than C10, including cycloalkyl) S-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonothiolates and corresponding alkylated and protonated salts, for example:
+
+
+
+
+VX:O-Ethyl S-2-diisopropylaminoethyl methyl phosphonothiolate (CAS 50782-69-9);
 
 d. Sulphur mustards, 2-Chloroethylchloromethylsulphide (CAS 2625-76-5); Mustard gas (H): Bis(2-chloroethyl) sulphide (CAS 505-60-2); Bis(2-chloroethylthio) methane (CAS 63869-13-6); 1,2-bis (2-chloroethylthio) ethane (CAS 3563-36-8); 1,3-bis (2-chloroethylthio)-n-propane (CAS 63905-10-2); 1,4-bis (2-chloroethylthio)-n-butane (CAS 142868-93-7); 1,5-bis (2-chloroethylthio)-n-pentane (CAS 142868-94-8); Bis (2-chloroethylthioethyl) ether (CAS 63918-89-8);
 
@@ -2209,7 +2232,7 @@ f. Nitrogen mustards:
 
 3. HN3:tris (2-chloroethyl) amine (CAS 555-77-1);
 
-g. Saxitoxin (cas 35523– 89-8);
+g. Saxitoxin (CAS 35523– 89-8);
 
 h. Ricin (CAS 9009-86-3).
 
@@ -2226,7 +2249,7 @@ for example: DF: Methylphosphonyldifluoride
 
 (CAS 676-99-3);
 
-b.O-Alkyl (H or equal to or less than C10, including cycloalkyl) O-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonites and corresponding alkylated or protonated salts,
+b. O-Alkyl (H or equal to or less than C10, including cycloalkyl) O-2-dialkyl (Methyl, Ethyl, n-Propyl or Isopropyl)-aminoethyl alkyl (Methyl, Ethyl, n-Propyl or Isopropyl) phosphonites and corresponding alkylated or protonated salts,
 
 for example: QL: O-Ethyl O-2 diisopropylaminoethyl methylphosphonite (CAS 57856-11-8);
 
@@ -2466,7 +2489,7 @@ In Dual Use Code DL01B-01.b, “high strength-to-density ratio material” means
 
 ” containing a damping medium and having the magnet coupling with a pole piece or second magnet fitted to the top cap of the rotor;
 
-8. specially prepared bearings comprising a pivot-cup assembly mounted on a damper
+8. specially prepared bearings comprising a pivot-cup assembly mounted on a damper;
 
 9. molecular pumps comprised of cylinders having internally machined or extruded helical grooves and internally machined bores;
 
@@ -2898,15 +2921,7 @@ b. the following equipment and components:
 
 1. water-hydrogen sulphide exchange towers fabricated from fine carbon steel (for example, “ASTM” A516) with diameters of 6 m to 9 m, capable of operating at pressures greater than or equal to 2 MPa and with a corrosion allowance of 6 mm or greater;
 
-2. single stage, low head (that is, 0.2 MPa) centrifugal blowers or compressors for hydrogen sulphide gas circulation (that is, gas containing more than 70% H
-
-2
-
-S) with a throughput capacity greater than or equal to 56 m3per second when operating at pressures greater than or equal to 1.8 MPa suction and having seals designed for wet H
-
-2
-
-S service;
+2. single stage, low head (that is, 0.2 MPa) centrifugal blowers or compressors for hydrogen sulphide gas circulation (that is, gas containing more than 70% H2S) with a throughput capacity greater than or equal to 56 m3per second when operating at pressures greater than or equal to 1.8 MPa suction and having seals designed for wet H2S service;
 
 3. ammonia-hydrogen exchange towers greater than or equal to 35 m in height with diameters of
 
@@ -3011,11 +3026,7 @@ Graphite, nuclear grade, having a purity level of less than 5 parts per million 
 
 (b) graphite powder.
 
-2. In Dual Use Code DL01C-04, “boron equivalent” (BE) means the sum of BE
-
-Z
-
-for impurities (excluding BE
+2. In Dual Use Code DL01C-04, “boron equivalent” (BE) means the sum of BEZ for impurities (excluding BE
 
 carbon
 
@@ -3025,7 +3036,7 @@ BE
 
 Z
 
-(ppm) = CFxconcentration of element Z in ppm
+(ppm) = CF x concentration of element Z in ppm
 
 Where CF is the conversion factor = ó
 
@@ -3051,15 +3062,7 @@ and ó
 
 z
 
-are the thermal neutron capture cross sections (in barns) for naturally occurring boron and element Z respectively; and A
-
-B
-
-and A
-
-Z
-
-are the atomic masses of naturally occurring boron and element Z, respectively.
+are the thermal neutron capture cross sections (in barns) for naturally occurring boron and element Z respectively; and AB and A Z are the atomic masses of naturally occurring boron and element Z, respectively.
 
 DL01C-05
 
@@ -3145,7 +3148,7 @@ Hydrogen-cryogenic distillation columns having all of the following characterist
 
 a. designed to operate with internal temperatures of 35 K (-238°C) or less;
 
-b. designed to operate at an internal pressure of 0.5 MPa to 5 MPa (5 - 50 atmospheres);
+b. designed to operate at an internal pressure of 0.5 MPa to 5 MPa (5 — 50 atmospheres);
 
 c. constructed of either —
 
@@ -3269,9 +3272,9 @@ The following “fibrous or filamentary materials” or prepregs:
 
 1. In Dual Use Code DL02C-02, “fibrous or filamentary materials” is restricted to continuous “monofilaments”, “yarns”, “rovings”, “tows” or “tapes”.
 
-2. The resin forms the matrix of the composite.
-
 a. carbon or aramid “fibrous or filamentary materials” having a “specific modulus” of 12.7 x 106m or greater or a “specific tensile strength” of 235 x 103m or greater; except: aramid “fibrous or filamentary materials” having 0.25 percent or more by weight of an ester based fibre surface modifier;
+
+2. The resin forms the matrix of the composite.
 
 b. glass “fibrous or filamentary materials” having a “specific modulus” of 3.18 x 106m or greater and a “specific tensile strength” of 76.2 x 103m or greater; or
 
@@ -3291,7 +3294,7 @@ Boron enriched in the boron-10 (10B) isotope to greater than its natural isotopi
 
 a. elemental boron;
 
-2. The natural isotopic abundance of boron-10 is approximately 18.5 weight per cent (20 atom per cent).
+2. The natural isotopic abundance of boron-10 is approximately 18.5 weight per cent (20 atom per cent);
 
 b. compounds and mixtures containing boron;
 
@@ -3429,9 +3432,9 @@ Dual Use Code DL02C-19.b refers to porous metal formed by compacting and sinteri
 
 DL03
 
-CATEGORY 3 – MATERIALS PROCESSING
+CATEGORY 3 — MATERIALS PROCESSING
 
-SUB-CATEGORY 3A – SYSTEMS, EQUIPMENT AND COMPONENTS
+SUB-CATEGORY 3A — SYSTEMS, EQUIPMENT AND COMPONENTS
 
 DL03A-01
 
@@ -3503,9 +3506,7 @@ c. crucibles with a volume of between 50 ml (cm3) and 2 litres (2,000 cm3), made
 
 DL03A-02
 
-Valves having all of the following characteristics:
-
-For valves with different inlet and outlet diameters, the nominal size refers to the smallest diameter.
+Valves having all of the following characteristics: For valves with different inlet and outlet diameters, the nominal size refers to the smallest diameter.
 
 a. a nominal size of 5 mm or greater;
 
@@ -3513,7 +3514,7 @@ b. having a bellows seal;
 
 c. wholly made of or lined with aluminium, aluminium alloy, nickel, or nickel alloy containing more than 60% nickel by weight.
 
-SUB-CATEGORY 3B – TEST, INSPECTION AND PRODUCTION EQUIPMENT
+SUB-CATEGORY 3B — TEST, INSPECTION AND PRODUCTION EQUIPMENT
 
 DL03B-01
 
@@ -4217,4 +4218,74 @@ ML03
 ML04
 
 ML07.
+
+## LEGISLATIVE HISTORY
+
+Strategic Goods (Control) Act
+
+(CHAPTER 300)
+
+This Legislative History is provided for the convenience of users of the Strategic Goods (Control) Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 40 of 2002—Strategic Goods (Control) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 44/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|1 January 2003|
+|2.|**Act 6 of 2003—International Enterprise Singapore Board (Amendment) Act 2003**|
+||(Consequential amendments made by)||
+||Date of First Reading|10 March 2003|
+|||(Bill No. 5/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
+|3.|**2003 Revised Edition—Strategic Goods (Control) Act**|
+||Date of operation|31 July 2003|
+## COMPARATIVE TABLE
+
+Strategic Goods (Control) Act
+
+(CHAPTER 300)
+
+The following provisions in the Strategic Goods (Control) Act 2002 (Act 40 of 2002) have been renumbered by the Law Revision Commissioners in this 2003 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Control) Act.
+
+2003 Ed\. 
+
+Act 40 of 2002 
+
+7 —(1)
+
+7 —(1)
+(Deleted and substituted by Act 6/2003)
+
+—
+
+(2) (Deleted by Act 6/2003)
+
+(2)
+
+(3)
+
+(3)
+
+(4)
+
+(4)
+
+(5)
+
+(5)
+
+(6)
+
+(6)
+
+(7)
+
+(7)
+
+(8)
 
