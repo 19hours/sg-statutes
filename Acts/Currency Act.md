@@ -54,11 +54,13 @@
 
 - [21 Currency Fund](#Currency-Fund)
 
-- [22 External assets of Fund](#External-assets-of-Fund)
+- [22 External assets of Currency Fund](#External-assets-of-Currency-Fund)
+
+- [22A Currency Reserve Fund](#Currency-Reserve-Fund)
 
 - [23 Currency Fund Income Account](#Currency-Fund-Income-Account)
 
-- [24 Meeting of deficiencies in Fund](#Meeting-of-deficiencies-in-Fund)
+- [24 Meeting of deficiencies in Currency Fund](#Meeting-of-deficiencies-in-Currency-Fund)
 
 - [25 Board of survey](#Board-of-survey)
 
@@ -71,6 +73,8 @@
 - [28 Annual accounts and report](#Annual-accounts-and-report)
 
 - [29 Mutilating, destroying or defacing currency notes and coins](#Mutilating-destroying-or-defacing-currency-notes-and-coins)
+
+- [29A Counterfeit notes or coins to be forfeited](#Counterfeit-notes-or-coins-to-be-forfeited)
 
 - [30 Power of arrest](#Power-of-arrest)
 
@@ -129,7 +133,9 @@ AND ADMINISTRATION OF BOARD
 
 3\.—(1) There shall be established a Board to be known as the Board of Commissioners of Currency, Singapore.
 
-(2) The Board shall issue currency notes and coins in Singapore in accordance with section 13.
+(2) The Board shall issue currency notes and coins in Singapore in accordance with section 13 and may provide such other services as it considers necessary.
+
+[Act 3/91 wef 01/02/1991]
 
 ### Incorporation, etc.
 
@@ -137,7 +143,7 @@ AND ADMINISTRATION OF BOARD
 
 [11/82]
 
-(2) The Board shall have its head office in Singapore.
+(2) [Deleted by Act 3/91 wef 01/02/1991]
 
 (3) The Board may appoint a person or persons or corporation to be its agents or correspondents for the purposes of this Act.
 
@@ -211,7 +217,9 @@ Provided that the Chairman shall call a meeting as soon as practicable after rec
 
 ### Preservation of secrecy
 
-10\. Except for the purposes of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any law, no member, officer or employee of the Board shall disclose to any person any information which he has acquired in the performance of his duties or the exercise of his functions.
+10\. Except for the purposes of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any law, no person who is or has been a member, officer, employee, consultant or agent of the Board shall disclose to any person any information which he has acquired in the performance of his duties or the exercise of his functions.
+
+[Act 3/91 wef 01/02/1991]
 
 ## PART III
 
@@ -235,7 +243,9 @@ CURRENCY
 
 [11/82]
 
-(2) (a) Notes issued by the Board shall be legal tender up to their face value for the payment of any amount.
+(2) (a) Notes issued by the Board, if the notes have not been illegally dealt with, shall be legal tender up to their face value for the payment of any amount.
+
+[Act 3/91 wef 01/02/1991]
 
 (b) Coins issued by the Board, if the coins have not been illegally dealt with, shall be legal tender up to their face value in Singapore as follows:
 
@@ -245,9 +255,17 @@ CURRENCY
 
 (iii) in the case of coins of a denomination lower than 50 cents — for the payment of an amount not exceeding $2.
 
-(3) For the purposes of this Act, a coin shall be deemed to have been illegally dealt with where the coin has been impaired, diminished, or lightened otherwise than by fair wear and tear, or has been defaced by having any name, word, device or number stamped or engraved thereon, whether the coin has or has not been thereby diminished or lightened.
+(3) For the purposes of this Act —
 
-(4) In any criminal proceedings in which the genuineness of any currency note or coin may be in question, a certificate signed by the Deputy Chairman of the Board that he is satisfied by personal examination that such note or coin is or is not forged shall be held to be conclusive evidence of the same and neither the Deputy Chairman nor any officer of the Board shall be cross-examined with regard to the contents of such certificate unless the court otherwise orders.
+(a) a coin shall be deemed to have been illegally dealt with where the coin has been impaired, diminished, or lightened otherwise than by fair wear and tear, or has been defaced by having any name, word, device or number stamped or engraved thereon, whether the coin has or has not been thereby diminished or lightened; and
+
+(b) a note shall be deemed to have been illegally dealt with where the note has been impaired, diminished or affected otherwise than by fair wear and tear, or has been defaced by writing or impressing on any note any mark, word, letter or figure or by perforation, cutting, splitting or in any other manner, whether the note has or has not been thereby impaired or diminished.
+
+[Act 3/91 wef 01/02/1991]
+
+(4) In any criminal proceedings in which the genuineness of any currency note or coin may be in question, a certificate signed by an officer of the Board authorised for that purpose that he is satisfied by personal examination that such note or coin is or is not forged shall be held to be conclusive evidence of the same and no officer of the Board shall be cross-examined with regard to the contents of such certificate unless the court otherwise orders.
+
+[Act 3/91 wef 01/02/1991]
 
 [14
 
@@ -265,9 +283,15 @@ CURRENCY
 
 ### Exchange of currency notes and coins
 
-15\.—(1) The Board shall arrange for the reissue and exchange of currency notes and coins at its offices subject to such conditions as may be prescribed.
+15\.—(1) The Board shall arrange for the reissue and exchange of currency notes and coins subject to such conditions as may be prescribed.
 
 [11/82]
+
+[Act 3/91 wef 01/02/1991]
+
+(1A) Where the Board transfers its functions in relation to the reissue and exchange of currency notes and coins to another body, that body may charge for its services in respect thereof.
+
+[Act 3/91 wef 01/02/1991]
 
 (2) The Board may in its discretion charge any person or class of persons such fee as may be prescribed for the reissue and exchange of currency notes or coins with the Board under this section.
 
@@ -285,7 +309,9 @@ CURRENCY
 
 ### Form and design of currency notes and coins
 
-17\.—(1) Currency notes issued by the Board shall be of such denomination and of such form and design and printed from such plates and on such paper and may be authenticated in such manner as the Board may, from time to time, decide.
+17\.—(1) Currency notes issued by the Board shall be of such denomination and of such form and design and printed from such plates and on such material and may be authenticated in such manner as the Board may, from time to time, decide.
+
+[Act 3/91 wef 01/02/1991]
 
 (2) The dies, plates and other instruments or materials used for the printing of notes shall be prepared and kept and the currency notes printed, issued and destroyed in accordance with any direction of the Board for the prevention of fraud and improper use.
 
@@ -313,11 +339,19 @@ CURRENCY
 
 ### Mutilated notes and coins
 
-19\.—(1) No person shall be entitled to recover from the Board the value of any mutilated currency note or coin or any coin which has been illegally dealt with.
+19\.—(1) No person shall be entitled to recover from the Board the value of any mutilated currency note or coin or any note or coin which has been illegally dealt with.
 
 [11/82]
 
-(2) The circumstances in which, and the conditions and limitations subject to which the value of mutilated currency notes or coins, or coins which have been illegally dealt with, may be refunded as an act of grace shall be in the absolute discretion of the Board.
+[Act 3/91 wef 01/02/1991]
+
+(2) The circumstances in which, and the conditions and limitations subject to which the value of mutilated currency notes or coins, or notes or coins which have been illegally dealt with, may be refunded as an act of grace shall be in the absolute discretion of the Board.
+
+[Act 3/91 wef 01/02/1991]
+
+(3) Mutilated notes or coins, or notes or coins that have been illegally dealt with, shall be repossessed by any officer of the Board when tendered to the Board.
+
+[Act 3/91 wef 01/02/1991]
 
 [21
 
@@ -337,27 +371,37 @@ CURRENCY
 
 ### Currency Fund
 
-21\.—(1) The Board shall establish a Currency Fund (referred to in this Act as the Fund) which shall be maintained and managed by the Board in the manner prescribed in this Act.
+21\.—(1) The Board shall establish a Currency Fund which shall be maintained and managed by the Board in the manner prescribed in this Act.
 
 [11/82]
 
-(2) The Board may, with the approval of the President, appoint any person to manage the Fund on its behalf in the manner prescribed in this Act.
+[Act 3/91 wef 01/02/1991]
 
-(3) There shall be paid into the Fund —
+(2) The Board may, with the approval of the President, appoint any person to manage the Currency Fund on its behalf in the manner prescribed in this Act.
+
+[Act 3/91 wef 01/02/1991]
+
+(3) There shall be paid into the Currency Fund —
 
 (a) all gold, silver and foreign currencies bought by the Board pursuant to section 16; and
 
 (b) the proceeds of any transactions under subsection (7)(c), less all expenses incurred in connection therewith.
 
-(4) Subject to this Act, the Fund shall not be applied for any other purpose.
+[Act 3/91 wef 01/02/1991]
 
-(5) A portion of the Fund shall be held in liquid form and such portion may be determined and varied from time to time by the Board, except that at no time shall less than 30% of the Fund be so retained without the unanimous approval of all members of the Board.
+(4) Subject to this Act, the Currency Fund shall not be applied for any other purpose.
 
-(6) The liquid portion of the Fund held in accordance with subsection (5) shall be held in all or any of the following forms:
+[Act 3/91 wef 01/02/1991]
+
+(5) A portion of the Currency Fund shall be held in liquid form and such portion may be determined and varied from time to time by the Board, except that at no time shall less than 30% of the Currency Fund be so retained without the unanimous approval of all members of the Board.
+
+[Act 3/91 wef 01/02/1991]
+
+(6) The liquid portion of the Currency Fund held in accordance with subsection (5) shall be held in all or any of the following forms:
 
 (a) gold and silver in any form;
 
-(b) sterling and other foreign exchange in the form of —
+(b) foreign exchange in the form of —
 
 (i) demand or time deposits, maturing within two years, with the Board’s agents or correspondents abroad;
 
@@ -367,29 +411,41 @@ CURRENCY
 
 (iv) notes or coins;
 
+[Act 3/91 wef 01/02/1991]
+
 (c) securities, maturing within two years, of or guaranteed by foreign governments or international financial institutions.
+
+[Act 3/91 wef 01/02/1991]
 
 (7) Notwithstanding anything in subsections (1) to (6), the Board may —
 
-(a) use any coin held for the account of the Fund for the purpose of having it reminted into current coin;
+(a) use any coin held for the account of the Currency Fund for the purpose of having it reminted into current coin;
 
-(b) pay from the Fund the cost of the purchase of metal to be minted into current coin; and
+[Act 3/91 wef 01/02/1991]
 
-(c) sell any coin held for the account of the Fund.
+(b) pay from the Currency Fund the cost of material for printing currency notes and the cost of the purchase of metal to be minted into current coin; and
 
-(8) The value of the Fund and its assets for any purpose of this Act shall be determined by such method as the Board may, with the approval of the President, from time to time adopt.
+[Act 3/91 wef 01/02/1991]
+
+(c) sell any coin held for the account of the Currency Fund.
+
+[Act 3/91 wef 01/02/1991]
+
+(8) The value of the Currency Fund and its assets for any purpose of this Act shall be determined by such method as the Board may, with the approval of the President, from time to time adopt.
+
+[Act 3/91 wef 01/02/1991]
 
 (9) Any method of valuation adopted by the Board pursuant to subsection (8) shall be published in theGazette.
 
 [23
 
-### External assets of Fund
+### External assets of Currency Fund
 
-22\. The external assets of the Fund shall consist of all or any of the following and they shall at all times be not less than 100% of the face value of the currency issued by the Board:
+22\. The external assets of the Currency Fund shall consist of all or any of the following and they shall at all times be not less than 100% of the face value of the currency issued by the Board:
 
 (a) gold and silver in any form;
 
-(b) sterling and other foreign exchange in the form of —
+(b) foreign exchange in the form of —
 
 (i) demand or time deposits with the Board’s agents or correspondents abroad;
 
@@ -401,6 +457,8 @@ CURRENCY
 
 (v) notes or coins;
 
+[Act 3/91 wef 01/02/1991]
+
 (c) securities of or guaranteed by foreign governments or international financial institutions;
 
 (d) any readily available international drawing facility which the Board, after consultation with the International Monetary Fund and with the approval of the President, considers suitable for inclusion;
@@ -411,9 +469,29 @@ CURRENCY
 
 [11/82]
 
+[Act 3/91 wef 01/02/1991]
+
+### Currency Reserve Fund
+
+22A\.—(1) There shall be established a Currency Reserve Fund (referred to in this Act as the Reserve Fund).
+
+(2) The assets of the Reserve Fund shall be invested in the same commodities, financial instruments, securities or things as the assets of the Currency Fund are invested in under paragraphs (a) to (e) inclusive of section 22.
+
+(3) All dividends, interest or other revenue derived from investments or from the utilisation in any other manner of the moneys of the Reserve Fund shall be paid into the Currency Fund Income Account established under section 23.
+
+(4) The value of the Reserve Fund and its assets for any purpose of this Act shall be determined by the same method as that adopted for the Currency Fund.
+
+(5) The Board may, with the approval of the President, appoint any person to manage the Reserve Fund on its behalf.
+
+(6) At the end of each financial year, the assets in the Reserve Fund that are in excess of requirements, as determined by the Board, shall be transferred to the Currency Fund Income Account.
+
+[Act 3/91 wef 01/02/1991]
+
 ### Currency Fund Income Account
 
-23\.—(1) All dividends, interest or other revenue derived from investments or from the utilisation in any other manner of the moneys of the Fund and all commissions paid to the Board in connection with the issue or redemption of currency notes or coins shall be paid into an account to be called “the Currency Fund Income Account” (referred to in this Act as the Income Account).
+23\.—(1) All dividends, interest or other revenue derived from investments or from the utilisation in any other manner of the moneys of the Currency Fund and all commissions paid to the Board in connection with the issue or redemption of currency notes or coins shall be paid into an account to be called “the Currency Fund Income Account” (referred to in this Act as the Income Account).
+
+[Act 3/91 wef 01/02/1991]
 
 (2) There shall be charged upon the Income Account —
 
@@ -423,19 +501,33 @@ CURRENCY
 
 (c) all other expenses properly incurred by the Board in the execution of its functions under this Act:
 
-Provided that the Board may charge upon the Fund and not upon the Income Account any expenditure of an exceptional nature.
+Provided that the Board may charge upon the Currency Fund and not upon the Income Account any expenditure of an exceptional nature.
 
-(3) At the end of each financial year, any surplus in the Income Account shall be paid into the Consolidated Fund but if on the last day in any financial year there is a deficiency in the Income Account, it shall be charged upon and paid out of the Consolidated Fund:
+[Act 3/91 wef 01/02/1991]
 
-Provided that if on the last day in any financial year, the face value of the Board’s currency notes and coins in circulation exceeds the value of the Fund determined by the Board pursuant to section 21(8), there shall be paid into the Fund the whole of the said surplus in the Income Account or such part thereof as shall make up the moneys of the Fund as aforesaid to an amount equal to the face value of the currency notes and coins then in circulation; but if the said surplus in the Income Account is insufficient to make up the deficiency in the Fund, the balance of such deficiency shall be charged upon and paid out of the Consolidated Fund.
+(3) At the end of each financial year the Board shall determine whether or not any part of the surplus in the Income Account should be paid into the Reserve Fund and if it is determined that a part of the surplus should be so paid, the amount of any such payment. Thereafter any surplus remaining in the Income Account shall be paid into the Consolidated Fund.
 
-(4) If on the last day in any financial year, the value of the Fund so calculated exceeds 100% of the face value of the Board’s currency notes and coins then in circulation, the Board may direct that the whole or part of such excess be transferred from the Fund to the Income Account.
+[Act 3/91 wef 01/02/1991]
+
+(4) Where there is on the last day in any financial year a deficiency in the Income Account, it shall be charged upon and paid out of the Consolidated Fund.
+
+[Act 3/91 wef 01/02/1991]
+
+(5) Notwithstanding subsection (3), if, on the last day in any financial year, the face value of the Board’s currency notes and coins in circulation exceeds the value of the Currency Fund determined by the Board pursuant to section 21(8), the deficiency shall be made up from the Income Account and, if necessary, from the Reserve Fund; but if the amounts in the Income Account and in the Reserve Fund are insufficient to make up the deficiency in the Currency Fund, the balance of such deficiency shall be charged upon and paid out of the Consolidated Fund.
+
+[Act 3/91 wef 01/02/1991]
+
+(6) If, on the last day in any financial year, the value of the Currency Fund so calculated exceeds 100% of the face value of the Board’s currency notes and coins then in circulation, the Board may direct that the whole or part of such excess be transferred from the Currency Fund to the Income Account.
+
+[Act 3/91 wef 01/02/1991]
 
 [25
 
-### Meeting of deficiencies in Fund
+### Meeting of deficiencies in Currency Fund
 
-24\. If the assets of the Fund should at any time prove insufficient to meet legal demands upon the Board, such deficiencies shall be charged upon and paid out of the Consolidated Fund.
+24\. If the assets of the Currency Fund should at any time prove insufficient to meet legal demands upon the Board, such deficiencies shall be charged upon and paid out of the Consolidated Fund.
+
+[Act 3/91 wef 01/02/1991]
 
 [26
 
@@ -483,9 +575,13 @@ MISCELLANEOUS
 
 (4) The Board shall also publish at half yearly intervals in theGazettean abstract showing —
 
-(a) the amount of the liquid portion of the Fund; and
+(a) the amount of the liquid portion of the Currency Fund; and
 
-(b) the nominal value and price paid for and, where appropriate, the latest known market price, of the securities belonging to the Fund.
+[Act 3/91 wef 01/02/1991]
+
+(b) the nominal value and price paid for and, where appropriate, the latest known market price, of the securities belonging to the Currency Fund.
+
+[Act 3/91 wef 01/02/1991]
 
 [30
 
@@ -508,6 +604,12 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (2) Nothing in this section shall be construed as limiting or affecting the provisions of the Penal Code [Cap. 224].
 
 [30A
+
+### Counterfeit notes or coins to be forfeited
+
+29A\. An officer of the Board shall be empowered to seize any currency note or coin tendered to the Board, which he believes on reasonable grounds to be counterfeit and, upon such seizure, that note or coin shall be forfeited to the Board.
+
+[Act 3/91 wef 01/02/1991]
 
 ### Power of arrest
 
@@ -569,3 +671,8 @@ This Legislative History is provided for the convenience of users of the Currenc
 ||Date of commencement|30 April 1982|
 |8.|**1985 Revised Edition—Currency Act**|
 ||Date of operation|30 March 1987|
+|9.|**Act 3 of 1991—Currency (Amendment) Act 1990**|
+||Date of First Reading|9 November 1990|
+|||(Bill No. 32/1990)|
+||Date of Second and Third Readings|20 December 1990|
+||Date of commencement|1 February 1991|
