@@ -46,6 +46,8 @@
 
 - [20 Income and property of Polytechnic](#Income-and-property-of-Polytechnic)
 
+- [20A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [21 Annual report](#Annual-report)
 
 - [22 Ngee Ann Polytechnic Students’ Union](#Ngee-Ann-Polytechnic-Students’-Union)
@@ -272,6 +274,8 @@ An Act for the incorporation of the Ngee Ann Polytechnic and for matters connect
 
 [12
 
+[40/75; 4/82]
+
 ### Powers of Senate
 
 15\.—(1) The Senate shall, subject to the provisions of this Act and of any rules made thereunder, have the control of —
@@ -370,6 +374,12 @@ An Act for the incorporation of the Ngee Ann Polytechnic and for matters connect
 
 [19/72; 4/82]
 
+### Issue of shares, etc.
+
+20A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Polytechnic under this Act, or of any capital injection or other investment by the Government in the Polytechnic in accordance with any written law, the Polytechnic shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
+
 ### Annual report
 
 21\. The Council shall, as soon as practicable after the close of each financial year, submit to the Minister an annual report on the activities of the Polytechnic during that year and the Minister shall cause a copy of every such report to be presented to Parliament.
@@ -399,6 +409,8 @@ An Act for the incorporation of the Ngee Ann Polytechnic and for matters connect
 ### Application of Societies Act to Student’s Union
 
 23\.—(1) Notwithstanding anything to the contrary in the Societies Act [Cap. 311], the provisions of that Act shall apply to the Ngee Ann Polytechnic Students’ Union constituted by rules made under section 24(1) and its constituent bodies.
+
+[8/80]
 
 (2) The Minister charged with responsibility for societies may, by order published in theGazette, exempt the Ngee Ann Polytechnic Students’ Union and any of its constituent bodies from all or any of the provisions of the Societies Act subject to such conditions as may be specified in the order.
 
@@ -537,3 +549,9 @@ This Legislative History is provided for the convenience of users of the Ngee An
 ||Date of commencement|16 April 1982|
 |8.|**1985 Revised Edition—Ngee Ann Polytechnic Act (Chapter 207)**|
 ||Date of operation|30 March 1987|
+|9.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002 (Item (31) of the Schedule — Amendment of Ngee Ann Polytechnic Act)|
