@@ -1,12 +1,10 @@
-**Presidential Elections Act 1991**
+**Presidential Elections Act**
 
-**(No. 27 of 1991)**
+**(CHAPTER 240A)**
 
 **Table of Contents**
 
 [**Long Title**](#Presidential-Elections-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 [**Part I PRELIMINARY**](#Part-I)
 
@@ -74,6 +72,8 @@
 
 - [31 Procedure on closing of poll](#Procedure-on-closing-of-poll)
 
+- [31A Counting at counting places](#Counting-at-counting-places)
+
 - [32 Counting votes](#Counting-votes)
 
 - [33 Votes to be rejected](#Votes-to-be-rejected)
@@ -86,7 +86,7 @@
 
 [**Part III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES**](#Part-III)
 
-[**Chapter 1  Offences**](#Chapter-1--Offences)
+[**Chapter I  Offences**](#Chapter-I--Offences)
 
 - [37 Offences](#Offences)
 
@@ -132,7 +132,7 @@
 
 - [56 Return and declaration respecting election expenses](#Return-and-declaration-respecting-election-expenses)
 
-- [57 Publication of receipt of return, etc](#Publication-of-receipt-of-return-etc)
+- [57 Publication of receipt of return, etc.](#Publication-of-receipt-of-return-etc)
 
 - [58 Employers to allow employees reasonable period for voting](#Employers-to-allow-employees-reasonable-period-for-voting)
 
@@ -158,7 +158,7 @@
 
 - [68 Report exonerating candidate in certain cases of corrupt and illegal practice by agents](#Report-exonerating-candidate-in-certain-cases-of-corrupt-and-illegal-practice-by-agents)
 
-- [69 Power of Election Judge to except innocent act from being illegal practice, etc](#Power-of-Election-Judge-to-except-innocent-act-from-being-illegal-practice-etc)
+- [69 Power of Election Judge to except innocent act from being illegal practice, etc.](#Power-of-Election-Judge-to-except-innocent-act-from-being-illegal-practice-etc)
 
 - [70 Authorised excuse for non-compliance with provisions as to return and declaration respecting election expenses](#Authorised-excuse-for-non-compliance-with-provisions-as-to-return-and-declaration-respecting-election-expenses)
 
@@ -200,39 +200,21 @@
 
 [**THE SCHEDULE Amendments to the Parliamentary Elections Act (Chapter 218)**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Presidential Elections Act
 
-ACTS SUPPLEMENT
+(CHAPTER 240A)
 
-Published by Authority
+(Original Enactment: Act 27 of 1991)
 
-NO. 29]
+REVISED EDITION 1992
 
-Friday, August 16
-
-[1991
-
-The following Act was passed by Parliament on 29th July 1991 and assented to by the President on 6th August 1991:—
-
-Presidential Elections Act 1991
-
-(No. 27 of 1991)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-6th August 1991.
-
-Date of Commencement: 16th August 1991
+(9th March 1992)
 
 An Act to make provision for the election of the President.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[16th August 1991]
 
 ## PART I
 
@@ -240,7 +222,9 @@ PRELIMINARY
 
 ### Short title and commencement
 
-1\. This Act may be cited as the Presidential Elections Act 1991 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Presidential Elections Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.1
+
+1No date has yet been appointed for the coming into operation of this Act.
 
 ### Interpretation
 
@@ -248,17 +232,19 @@ PRELIMINARY
 
 “candidate” means a person who is nominated as a candidate for election to the office of President;
 
-“Commissioner of National Registration” means the Commissioner of National Registration appointed under the National Registration Act (Cap. 201);
+“Commissioner of National Registration” means the Commissioner of National Registration appointed under the National Registration Act [Cap. 201];
 
 “election” means an election for the purpose of electing the President;
 
 “election agent” means a person named under section 43 by or on behalf of a candidate as his agent for an election and includes any candidate acting in his capacity of election agent;
 
-“Election Judge” means the Chief Justice or a Judge of the Supreme Court nominated by the Chief Justice for the purpose of hearing an election petition;
+“Election Judge” has the same meaning as in the Constitution;
+
+[Subst. by Act 12/93 wef 16/04/1993 vide S 115/93]
 
 “elector” means a person whose name is entered in the register as an elector;
 
-“electoral division” means an electoral division specified in a notification for the time being in force made pursuant to section 8 of the Parliamentary Elections Act (Cap. 218);
+“electoral division” means an electoral division specified in a notification for the time being in force made pursuant to section 8 of the Parliamentary Elections Act [Cap. 218];
 
 “polling district” means a part of an electoral division subdivided under section 9 of the Parliamentary Elections Act;
 
@@ -314,11 +300,13 @@ ELECTIONS
 
 ### Certificate of eligibility
 
-8\.—(1) At any time after the date of the notice referred to in section 7 for the holding of an election and at least two clear days before nomination day for the election, every person who desires to be elected to the office of President shall apply in the prescribed manner to the Presidential Elections Committee for a certificate in the prescribed form which shall certify, for the purposes of that election —
+8\.—(1) At any time after the date referred to in section 6(1)(a) or such date which is 3 months before the date referred to in section 6(1)(b), whichever is the earlier, but in any case not later than 3 days after the date of the writ for an election, every person who desires to be elected to the office of President shall apply in the prescribed manner to the Presidential Elections Committee for a certificate in the prescribed form which shall certify, for the purposes of that election —
 
 (a) that the Committee is satisfied that the person is a person of integrity, good character and reputation; and
 
 (b) where the person states that he desires to contest in an election by virtue of being qualified under Article 19(2)(g)(iv) of the Constitution, that the Committee is of the opinion that the person, having held office for a period of not less than 3 years in such position of seniority and responsibility in such organisation or department in the public or private sector as described in Article 19(2)(g)(iv) of the Constitution, has such experience and ability in administering and managing financial affairs as to enable him to carry out effectively the functions and duties of the office of President.
+
+[Act 12/93 wef 16/04/1993]
 
 (2) If the Presidential Elections Committee, upon receipt of an application under subsection (1), is satisfied that the applicant is a person of integrity, good character and reputation or is of the opinion that the applicant has such experience and ability in administering and managing financial affairs as to enable him to carry out effectively the functions and duties of the office of President, the Committee shall not later than the day before nomination day issue to the applicant the certificate referred to in subsection (1) containing the relevant certification, and any such certificate shall be final and shall not be subject to appeal or review in any court.
 
@@ -326,7 +314,7 @@ ELECTIONS
 
 9\.—(1) Any person eligible for election to the office of President in accordance with the provisions of the Constitution may be nominated as a candidate for election to the office of President.
 
-(2) Each candidate shall be nominated by means of a nomination paper signed by two persons as proposer and seconder respectively and by not less than 4 other persons all of whose names must appear in any register of electors.
+(2) Each candidate shall be nominated by means of a nomination paper signed by two persons as proposer and seconder, respectively, and by not less than 4 other persons all of whose names must appear in any register of electors.
 
 (3) The written consent of the candidate must be endorsed on the nomination paper relating to the candidate.
 
@@ -344,7 +332,7 @@ ELECTIONS
 
 ### Deposits by candidates
 
-10\.—(1) A candidate, or some person on his behalf, shall deposit or cause to be deposited with the Returning Officer, or with some person authorised by the Returning Officer in that behalf, between the date of the issue of the writ under section 6 and 12 noon of nomination day, a sum equal to three times the amount of deposit referred to in section 28(1) of the Parliamentary Elections Act (Cap. 218) and, in default of a deposit under this section being so made, the candidate shall be deemed to have withdrawn his candidature under section 13.
+10\.—(1) A candidate, or some person on his behalf, shall deposit or cause to be deposited with the Returning Officer, or with some person authorised by the Returning Officer in that behalf, between the date of the issue of the writ under section 6 and 12 noon of nomination day, a sum equal to 3 times the amount of deposit referred to in section 28(1) of the Parliamentary Elections Act [Cap. 218] and, in default of a deposit under this section being so made, the candidate shall be deemed to have withdrawn his candidature under section 13.
 
 (2) The Returning Officer shall forthwith give a receipt for any sum deposited under this section and shall pay that sum into the Treasury and that sum shall be dealt with in accordance with the provisions of this Act.
 
@@ -364,7 +352,7 @@ ELECTIONS
 
 ### Proceedings on nomination day
 
-11\.—(1) The Returning Officer shall, on nomination day, attend at the place of nomination from 11 a.m. until 12 noon to receive nomination papers, statutory declarations and certificates issued under section 8 (referred to in this Act as nomination papers).
+11\.—(1) The Returning Officer shall, on nomination day, attend at the place of nomination from 11 a.m. until 12 noon to receive nominations papers, statutory declarations and certificates issued under section 8 (referred to in this Act as nomination papers).
 
 (2) Every nomination paper, statutory declaration and certificate must be delivered by the candidate to the Returning Officer together with a true copy of each on the day and at the place and between the hours specified in subsection (1), and if not so delivered, shall be rejected.
 
@@ -410,9 +398,7 @@ ELECTIONS
 
 16\.—(1) If, on nomination day after the decision by the Returning Officer of any objections which may have been lodged, more than one candidate stands nominated for election to the office of President, the Returning Officer shall forthwith adjourn the election to enable a poll to be taken in accordance with the provisions of this Act, and shall allot to each candidate an approved symbol which shall be printed on the ballot paper opposite the name of that candidate, except that the Returning Officer may, in his discretion, allot to any candidate some other symbol selected by the candidate.
 
-(2) In subsection (1),
-
-“approved symbol” means any symbol approved by the Returning Officer for the purposes of this Act by notification published in theGazette.
+(2) In subsection (1), “approved symbol” means any symbol approved by the Returning Officer for the purposes of this Act by notification published in theGazette.
 
 (3) Subject to subsection (1), the determination of the approved symbol to be allotted to each candidate shall be made by lot by the Returning Officer, except that no candidate shall be allotted any symbol which is of any racial or religious significance or which denotes or implies an affiliation with any political party.
 
@@ -434,7 +420,7 @@ ELECTIONS
 
 17\.—(1) Polling day at any election shall be a public holiday as though it had been so expressly appointed in addition to the days mentioned in any written law for the time being in force relating to holidays.
 
-(2) Nothing in any written law for the time being in force relating to holidays shall affect the performance on the polling day of any act or thing relating to public offices and departments concerned with elections or of the duty to vote at elections imposed by section 26.
+(2) Nothing in any written law for the time being in force relating to holidays shall affect the performance on the polling day of-any act or thing relating to public offices and departments concerned with elections or of the duty to vote at elections imposed by section 26.
 
 ### Polling districts and polling stations
 
@@ -470,13 +456,11 @@ ELECTIONS
 
 ### Register of electors to be conclusive evidence of right to vote
 
-21\.—(1) A person who, by reason of circumstances existing on the day of an election, is by virtue of the provisions of this Act or the Parliamentary Elections Act (Cap. 218), not entitled to have his name entered or retained in any register of electors shall not be entitled to vote at the election, and if that person votes at the election, he shall be guilty of an offence and shall be liable on conviction to a fine not execeeding $500 or to imprisonment for a term not exceeding 6 months.
+21\.—(1) A person who, by reason of circumstances existing on the day of an election, is by virtue of the provisions of this Act or the Parliamentary Elections Act [Cap. 218], not entitled to have his name entered or retained in any register of electors shall not be entitled to vote at the election, and if that person votes at the election, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
 
 (2) The register of electors in operation in accordance with the Parliamentary Elections Act at the time of any election shall be conclusive evidence for the purpose of determining whether a person is or is not entitled to vote at the election, and the right of voting of any person whose name is for the time being contained in the register shall not be prejudiced by any appeal pending before a Revising Officer in respect of the inclusion of that person’s name in the register, and any vote given by that person during the pendency of that appeal shall be as good as though no such appeal were pending and shall not be affected by the subsequent decision of the appeal.
 
-(3) For the purposes of this section,
-
-“Revising Officer” means a Revising Officer appointed under section 12 of the Parliamentary Elections Act (Cap. 218).
+(3) For the purposes of this section, “Revising Officer” means a Revising Officer appointed under section 12 of the Parliamentary Elections Act [Cap. 218].
 
 ### Admittance to polling station
 
@@ -484,7 +468,7 @@ ELECTIONS
 
 (2) Where an elector for any electoral division is employed as a presiding officer, police officer, or in any other official capacity at a polling station, and it is inconvenient for him to vote at the polling station which has been allotted to him, the Returning Officer may, by a certificate authorise the elector to vote at any other polling station and that polling station shall, for the purposes of this section, be deemed to be the polling station allotted to that elector.
 
-(3) The certificate referred to in subsection (2) shall be given under the hand of the Returning Officer and shall state the name of the elector, his number and description in the register of electors, and the fact that he is so employed as a presiding officer, police officer or in any other official capacity at a polling station.
+(3) The certificate referred to in subsection (2) shall be given under the hand of the Returning Officer and shall state the name of the elector, his number, and description in the register of electors, and the fact that he is so employed as a presiding officer, police officer or in any other official capacity at a polling station.
 
 (4) Unless the Returning Officer, by notification in theGazette, appoints any other hour, the poll shall open at 8 a.m. on the day appointed under section 16(5) and shall close at 8 p.m. on that day.
 
@@ -518,11 +502,21 @@ ELECTIONS
 
 ### Ballot boxes
 
-24\.—(1) Every ballot box shall be so constructed that the ballot papers can be introduced therein but cannot be withdrawn therefrom unless the box is unlocked.
+24\.—(1) Every ballot box shall be so constructed that the ballot papers can be introduced into the box after it has been sealed or locked but cannot be withdrawn from the box unless the seal or lock is broken.
 
-(2) The presiding officer at a polling station shall, immediately before the commencement of the poll, show each ballot box to be used at the commencement of the poll empty to such person (if any) as may be present in the station so that the person may see that it is empty, and shall then lock it up and place his seal upon it in such manner as to prevent it being opened without breaking the seal, and shall place it in his view for the receipt of ballot papers and keep it so locked and sealed.
+(2) The presiding officer at a polling station shall, immediately before the commencement of the poll, and in the sight of such person as may be present in the polling station —
 
-(3) Subsection (2) shall apply to every ballot box used during a poll and it shall be sufficient compliance with that subsection if a ballot box, other than a ballot box used at the commencement of a poll, is shown, locked up and sealed in accordance with that subsection before it is used.
+(a) show that each ballot box to be used at the commencement of the poll is empty;
+
+(b) close the ballot box; and
+
+(c) ensure that the ballot box is sealed or locked in such a manner as to prevent it being opened without breaking the seal or lock.
+
+(3) The ballot boxes, after being sealed or locked in accordance with subsection (2), shall be kept in the view of the presiding officer of the polling station for the receipt of ballot papers and shall not be opened again until after the close of the poll.
+
+(4) Subsections (2) and (3) shall apply to every ballot box used during a poll and it shall be sufficient compliance with those subsections if a ballot box, other than a ballot box used at the commencement of a poll, is shown and sealed or locked in accordance with subsection (2) before it is used.
+
+[Subst. by Act 42/96 wef 12/11/1996 vide S 479/96]
 
 ### Manner of voting
 
@@ -542,7 +536,7 @@ ELECTIONS
 
 (8) The presiding officer may, at any time while a poll is proceeding, take such steps as may be necessary to ensure that no voter delays unduly in any place reserved for the marking of ballot papers.
 
-(9) During the taking of the poll, the presiding officer shall cause to be exhibited outside his polling station a notice in English, Malay, Chinese and Tamil, substantially in the prescribed form, giving directions for the guidance of voters in voting.
+(9) During the taking of the poll, the presiding officer shall cause to be exhibited outside his polling station a notice, in English, Malay, Chinese and Tamil, substantially in the prescribed form, giving directions for the guidance of voters in voting.
 
 ### Compulsory voting
 
@@ -602,13 +596,41 @@ ELECTIONS
 
 (2) The ballot box or boxes unopened shall be secured by the presiding officer and sealed with his seal and with the seals of such of the candidates or their agents as attend and desire to affix their seals, in such manner that the box or boxes cannot be opened and nothing can be inserted therein without breaking the seals.
 
-(3) The presiding officer shall despatch each such packet and the ballot box or boxes in safe custody to the Returning Officer.
+(3) Every presiding officer of a polling station shall despatch each such packet and the ballot box or boxes in safe custody to the Returning Officer at the counting place where the votes cast at the polling station are to be counted in accordance with the provisions of this Act, except that where the Returning Officer has in any direction made under section 31A(1) specified a polling station to be a counting place, the presiding officer of the polling station shall keep at that station every such packet and ballot box in safe custody pending counting of the votes thereat.
+
+[Subst. by Act 12/93 wef 16/04/1993]
+
+### Counting at counting places
+
+31A\.—(1) The Returning Officer may direct —
+
+(a) that the votes cast at any polling station or stations be counted at such time and counting place (which may or may not be a polling station) as he may specify; and
+
+(b) where more than one counting place is specified under paragraph (a), that the total number of votes given to each candidate at the poll be ascertained at such other time and place (referred to in this Act as the principal counting place) as he may specify.
+
+(2) The Returning Officer shall give notice in writing of his direction under subsection (1) to each candidate or his election agent not less than two clear days before polling day.
+
+[Act 12/93 wef 16/04/1993]
 
 ### Counting votes
 
 32\.—(1) Each candidate may appoint an agent (referred to in this Act as the counting agent) to attend the counting of the votes and shall give written notice of the name and address of the counting agent so appointed to the Returning Officer.
 
-(2) The Returning Officer shall make arrangements for counting the votes, in the presence of such of the candidates and their counting agents as attend, as soon as practicable after he has received all the ballot boxes, and for that purpose shall give notice in writing to each candidate, or, if the candidate has appointed a counting agent, to the counting agent, of the time and place at which he will begin to count the votes.
+(2) Each candidate may appoint not more than one counting agent to attend the counting of votes at each counting place specified in the direction made under section 31A(1).
+
+[Act 12/93 wef 16/04/1993]
+
+(2A) The Returning Officer shall make arrangements for counting the votes in the presence of such of the candidates and their counting agents as attend as soon as practicable —
+
+(a) where only one counting place is specified in a direction made under section 31A(1) — after he has received all the ballot boxes used during the poll ; or
+
+(b) where more than one counting place is specified in a direction made under section 31A(1) —
+
+(i) after the procedure in section 31 has been complied with at the close of the poll if the polling station is a counting place; or
+
+(ii) after he has received at that counting place all the ballot boxes containing the votes cast at such polling station or stations specified in the direction in relation to that counting place.
+
+[Subst. by Act 12/93 wef 16/04/1993 vide S 115/93]
 
 (3) The Returning Officer, his assistants and clerks, and the candidates and their counting agents, but no other persons except with the sanction of the Returning Officer, may be present at the counting of the votes.
 
@@ -620,13 +642,57 @@ ELECTIONS
 
 (7) The Returning Officer shall not count the tendered ballot papers but shall place them in separate packets according to the candidate whom they support and shall mark each packet with the name of the candidate and shall seal the packet and retain it unless it is required for the purposes of an election petition.
 
-(8) When the counting of the votes has been completed, the Returning Officer shall forthwith declare the candidate to whom the greatest number of votes is given to be elected unless any candidate or his counting agent applies to the Returning Officer for a recount, in which case a recount shall be made before the Returning Officer makes the declaration.
+(8) Where only one counting place is specified in the direction made under section 31A(1), the Returning Officer shall, when the counting of votes has been completed, forthwith declare the candidate to whom the greatest number of votes is given to be elected unless any candidate or his counting agent applies to the Returning Officer for a recount, in which case a recount shall be made before the Returning Officer makes the declaration.
+
+[Subst. by Act 12/93 wef 16/04/1993 vide S 115/93]
+
+(8A) Where more than one counting place is specified in a direction made under section 31A(1), the Returning Officer shall, immediately after the completion of the counting of the votes or, where any candidate or his counting agent applies to the Returning Officer for a recount, the recounting of the votes, at each counting place —
+
+(a) announce to the candidates or their counting agents as attend the number of votes given to each candidate;
+
+(b) prepare a record (referred to in this Act as the record of counting) in a prescribed form containing the number of votes given to each candidate and other results of the counting of votes at his counting place, and certify that record;
+
+[Act 42/96 wef 12/11/1996 vide S 479/96]
+
+(c) transmit to the principal counting place, by any means available, the results of the counting of votes at his counting place;
+
+(d) seal up in separate packets the ballot papers and all other documents at the counting place relating to the election, and, except for the sealed packet containing the record of counting, place them in a ballot box which shall then be sealed with his seal and with the seals of such of the candidates or their counting agents as attend and desire to affix their seals; and all ballot papers and documents in the ballot box shall be deemed to be sealed in pursuance of subsection (10);
+
+(e) despatch or deliver the sealed ballot box referred to in paragraph (d) in safe custody to the Returning Officer; and
+
+[Subst. by Act 42/96 wef 12/11/1996 vide S 479/96]
+
+(f) despatch or deliver the sealed packed containing the record of counting in safe custody to the principal counting place.
+
+[Act 12/93 wef 16/04/1993 vide S 115/93]
+
+(8B) Except with the sanction of the Returning Officer, no person other than —
+
+(a) the Returning Officer and such other officers and staff appointed by him to assist him in adding the votes cast for each candidate at the counting places and ascertaining the total number of votes given to each candidate at the poll; and
+
+(b) the candidates and their election agents,
+
+may be present at the principal counting place during the addition of the votes.
+
+[Act 12/93 wef 16/04/1993 vide S 115/93]
+
+(8C) At the principal counting place, the Returning Officer shall, upon receipt of the results of the counting of votes at all counting places, ascertain the total number of votes given to each candidate at the poll by adding up the number of votes recorded for each candidate in the said results.
+
+[Act 12/93 wef 16/04/1993 vide S 115/93]
+
+(8D) When the Returning Officer has ascertained the total number of votes given to each candidate under subsection (8C), he shall forthwith declare as having been elected the candidate to whom the greatest total number of votes is given.
+
+[Act 12/93 wef 16/04/1993 vide S 115/93]
 
 (9) When an equality of votes is found to exist between any candidates, and the addition of a vote would entitle any of the candidates to be declared elected, the determination of the candidate to whom the one additional vote shall be deemed to have been given shall be made by lot in the presence of the Returning Officer in such manner as the Returning Officer shall determine.
 
-(10) Upon the completion of the counting and after the result has been declared by him, the Returning Officer shall seal up the ballot papers and all other documents relating to the election as required by this Act and shall, subject to subsection (11), retain the same for a period of 6 months and thereafter shall cause them to be destroyed unless otherwise directed by order of the Minister.
+(10) After the result has been declared by him under subsection (8) or (8D), the Returning Officer shall seal all documents relating to the election as required by this Act and shall, subject to subsection (11), retain the same for a period of 6 months and thereafter shall cause them to be destroyed unless otherwise directed by order of the Minister.
 
-(11) A Judge of the Supreme Court may make an order that any ballot paper or other document relating to an election which has been sealed as required by this Act be inspected, copied or produced at such time and place and subject to such conditions as the Judge may consider expedient, but no Judge shall make such an order unless he is satisfied that the inspection, copy or production is required for the purpose of instituting or maintaining a prosecution or an election petition in connection with the election.
+[Act 12/93 wef 16/04/1993 vide S 115/93]
+
+(11) An Election Judge may make an order that any ballot paper or other document relating to an election which has been sealed as required by this Act be inspected, copied or produced at such time and place and subject to such conditions as the Judge may consider expedient, but no Judge shall make such an order unless he is satisfied that the inspection, copy or production is required for the purpose of instituting or maintaining a prosecution or an election petition in connection with the election.
+
+[Act 12/93 wef 16/04/1993 vide S 115/93]
 
 (12) Except as provided in this section, no person shall be allowed to inspect any such ballot paper or document after it has been sealed up in pursuance of subsection (10).
 
@@ -652,7 +718,7 @@ ELECTIONS
 
 ### Publication of result and statement of poll in theGazette
 
-34\.—(1) After declaring the result under section 321, the Returning Officer shall forthwith compile a statement of the poll in the prescribed form and shall cause the statement and the name of the person elected to the office of President to be published in theGazette.
+34\.—(1) After declaring the result under section 32, the Returning Officer shall forthwith compile a statement of the poll in the prescribed form and shall cause the statement and the name of the person elected to the office of President to be published in theGazette.
 
 (2) Notwithstanding the provisions of this Act, if the candidate who has been declared elected to the office of President under section 15 or 32 dies before the commencement of his term of office, the Prime Minister shall forthwith issue a fresh writ under section 6 and the provisions of this Act shall, mutatis mutandis, apply to that writ.
 
@@ -682,7 +748,7 @@ ELECTIONS
 
 OFFENCES AND CORRUPT AND ILLEGAL PRACTICES
 
-Chapter 1
+Chapter I
 
 —
 
@@ -706,17 +772,19 @@ Offences
 
 (g) without due authority takes out of the polling station any ballot paper or is found in possession of any ballot paper outside a polling station;
 
-(h) without due authority destroys, takes, opens, or otherwise interferes with any ballot box or packet of ballot papers in use or intended to be used for the purposes of an election;
+(h) without due authority destroys, takes, opens, or otherwise interferes with any ballot boxor packet of ballot papers in use or intended to be used for the purposes of an election;
 
 (i) without due authority prints any ballot paper or what purports to be or is capable of being used as a ballot paper at an election; or
 
 (j) manufactures, constructs, imports into Singapore, has in his possession, supplies or uses for the purpose of an election, or causes to be manufactured, constructed, imported into Singapore, supplied or used for the purpose of any election, any appliance, device or mechanism by which a ballot paper may be extracted, affected or manipulated after having been deposited in a ballot box during the polling at any election,
 
-shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years.
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years and shall become incapable for a period of 7 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament.
+
+[Act 18/94 wef 01/10/1994 vide S 390/94]
 
 (2) Every person who attempts to commit an offence specified in this section shall be liable to the punishment prescribed for that offence.
 
-(3) Every offence under this section shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+(3) Every offence under this section shall be a seizable offence within the meaning of the Criminal Procedure Code.
 
 (4) In a prosecution for an offence in relation to a nomination paper, ballot box, ballot paper or marking instrument at an election, the property in the nomination paper, ballot box, ballot paper or marking instrument, as well as the property in the counterfoil of any ballot paper, may be stated to be in the Returning Officer at that election.
 
@@ -738,11 +806,11 @@ Corrupt Practices
 
 shall be guilty of the offence of personation.
 
-(2) The offence of personation under this section shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+(2) The offence of personation under this section shall be a seizable offence within the meaning of the Criminal Procedure Code.
 
 ### Treating
 
-39\.—(1) A person shall be guilty of treating if he corruptly, by himself or by any other person, either before, during or after an election directly or indirectly gives or provides, or pays wholly or in part the expense of giving, any food, drink, refreshment, cigarette, entertainment or other provision or thing or any money or ticket or other means or device to enable the procuring of any such food, drink, refreshment, cigarette, entertainment or other provision or thing to or for any person —
+39\.—(1) A person shall be guilty of treating if he corruptly, by himself or by any other person, either before, during or after an election, directly or indirectly, gives or provides, or pays wholly or in part the expense of giving, any food, drink, refreshment, cigarette, entertainment or other provision or thing or any money or ticket or other means or device to enable the procuring of any such food, drink, refreshment, cigarette, entertainment or other provision or thing to or for any person —
 
 (a) for the purpose of corruptly influencing that person or any other person to vote or refrain from voting;
 
@@ -756,7 +824,7 @@ shall be guilty of the offence of personation.
 
 ### Undue influence
 
-40\. Every person who directly or indirectly, by himself or by any other person on his behalf, makes use of or threatens to make use of any force, violence or restraint, or inflicts or threatens to inflict, by himself or by any other person, any temporal or spiritual injury, damage, harm or loss upon or against any person in order to induce or compel that person to vote or refrain from voting, or on account of that person having voted or refrained from voting at any election, or who, by abduction, duress or any fraudulent device or contrivance, impedes or prevents the free exercise of the franchise of any elector or voter, or thereby compels, induces or prevails upon any elector or voter either to give or refrain from giving his vote at any election, shall be guilty of the offence of undue influence.
+40\. Every person who, directly or indirectly, by himself or by any other person on his behalf, makes use of or threatens to make use of any force, violence or restraint, or inflicts or threatens to inflict, by himself or by any other person, any temporal or spiritual injury, damage, harm or loss upon or against any person in order to induce or compel that person to vote or refrain from voting, or on account of that person having voted or refrained from voting at any election, or who, by abduction, duress or any fraudulent device or contrivance, impedes or prevents the free exercise of the franchise of any elector or voter, or thereby compels, induces or prevails upon any elector or voter either to give or refrain from giving his vote at any election, shall be guilty of the offence of undue influence.
 
 ### Bribery
 
@@ -794,9 +862,9 @@ shall be guilty of the offence of bribery.
 
 (c) prints, publishes, distributes or posts up or causes to be printed, published, distributed or posted up any advertisement, handbill, placard or poster which refers to any election and which does not bear upon its face the names and addresses of its printer and publisher;
 
-(d) makes or publishes, before or during any election for the purpose of affecting the return of any candidate, any false statement of fact in relation to the personal character or conduct of the candidate;
+(d) makes or publishes, before or during any election, for the purpose of affecting the return of any candidate, any false statement of fact in relation to the personal character or conduct of the candidate;
 
-(e) makes or publishes, before or during any election for the purpose of promoting or procuring the election of any candidate, any false statement of the withdrawal of any other candidate at the election; or
+(e) makes or publishes, before or during any election, for the purpose of promoting or procuring the election of any candidate, any false statement of the withdrawal of any other candidate at the election; or
 
 (f) being a candidate or election agent, knowingly makes the declaration as to election expenses required by section 56 falsely,
 
@@ -806,9 +874,13 @@ shall be guilty of a corrupt practice and shall on conviction by a District Cour
 
 (ii) in any other case, to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
 
+(1A) Every person who is convicted of a corrupt practice shall become incapable for a period of 7 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament.
+
+[Act 18/94 wef 01/10/1994]
+
 (2) A prosecution for a corrupt practice (except any corrupt practice as defined in subsection (1)(d) or (e)) shall not be instituted without the sanction of the Public Prosecutor.
 
-(3) Nothing in this section shall prevent any police officer from exercising the powers conferred upon him by Chapter XIII of the Criminal Procedure Code (Cap. 68) in the case of nonseizable offences or from exercising his powers to prevent the continuance of any corrupt practice.
+(3) Nothing in this section shall prevent any police officer from exercising the powers conferred upon him by Chapter XIII of the Criminal Procedure Code in the case of nonseizable offences or from exercising his powers to prevent the continuance of any corrupt practice.
 
 Chapter 3
 
@@ -828,7 +900,9 @@ Election Agent, Election Expenses and Illegal Practices
 
 ### Person convicted of corrupt practice not to be appointed election agent
 
-44\. No person shall be appointed an election agent if he has, within 7 years prior to such appointment, been convicted of any corrupt practice under this Act or the Parliamentary Elections Act (Cap. 218).
+44\. No person shall be appointed an election agent if he has, within 7 years prior to such appointment, been convicted of any corrupt practice under this Act or the Parliamentary Elections Act.
+
+[Cap 218.]
 
 ### Making of contracts through election agent
 
@@ -864,9 +938,11 @@ Election Agent, Election Expenses and Illegal Practices
 
 (8) The claimant may, if he thinks fit, bring an action for a disputed claim in any competent court; and any sum paid by a candidate or his election agent in pursuance of the judgment or order of that court shall be deemed to be paid within the time limited by this Act, and to be an exception from the provisions of this Act, requiring claims to be paid by the election agent.
 
-(9) On cause shown to the satisfaction of a Judge of the Supreme Court, the Judge, on application by the claimant or by the candidate or his election agent, may by order give leave for the payment by the candidate or his election agent of a disputed claim, or of a claim for those expenses, although the claim was sent in after the time in this section mentioned for sending in claims or was sent in to the candidates and not to the election agent.
+(9) On cause shown to the satisfaction of an Election Judge, the Judge, on application by the claimant or by the candidate or his election agent, may by order give leave for the payment by the candidate or his election agent of a disputed claim, or of a claim for those expenses, although the claim was sent in after the time in this section mentioned for sending in claims or was sent in to the candidates and not to the election agent.
 
-(10) Any sum specified in any order of leave under subsection (9) may be paid by the candidate or his election agent; and when paid in pursuance of that leave shall be deemed to be paid within the time limited by this Act.
+[Act 12/93 wef 16/04/1993 vide S 115/93]
+
+(10) Any sum specified in any order of leave under subsection (9) may be paid by the candidate or his election agent ; and when paid in pursuance of that leave shall be deemed to be paid within the time limited by this Act.
 
 ### Remuneration of election agent
 
@@ -876,7 +952,7 @@ Election Agent, Election Expenses and Illegal Practices
 
 49\.—(1) Any candidate at an election may pay any personal expenses incurred by him on account of or in connection with or incidental to the election to an amount not exceeding $1,000, but any further personal expenses so incurred by him shall be paid by his election agent.
 
-(2) The candidate shall send to his election agent within the time limited by this Act for sending in claims a written statement of the amount of personal expenses paid by the candidate.
+(2) The candidate shall send to his election agent within the time limited by this Act for sending in claims, a written statement of the amount of personal expenses paid by the candidate.
 
 (3) The personal expenses of a candidate shall include his reasonable travelling expenses and the reasonable expenses of his living at hotels or elsewhere for the purposes of the election.
 
@@ -886,7 +962,7 @@ Election Agent, Election Expenses and Illegal Practices
 
 ### Expenses in excess of maximum to be illegal practice
 
-50\.—(1) Subject to such exception as may be allowed in pursuance of this Act, no sum shall be paid and no expense shall be incurred by any candidate at any election or his election agent, whether before, during, or after an election, on account of or in respect of the conduct or management of the election, in excess of $600,000 or an amount equal to 30 cents for each elector on the registers, whichever is the greater:
+50\.—(1) Subject to such exception as may be allowed in pursuance of this Act, no sum shall be paid and no expense shall be incurred by any candidate at any election or the name and address of the election agent, whether before, during, or after an election, on account of or in respect of the conduct or management of the election, in excess of $600,000 or an amount equal to 30 cents for each elector on the registers, whichever is the greater:
 
 Provided that there shall not be included in the amount any expenditure incurred by the candidate for his personal expenses, nor the fee, if any, paid to the election agent not exceeding $500.
 
@@ -922,9 +998,7 @@ Provided that there shall not be included in the amount any expenditure incurred
 
 (2) Nothing in this section shall prevent any person from employing a motor vehicle for the purpose of conveying to or from the poll himself or any member of his family.
 
-(3) For the purposes of subsection (2),
-
-“member of his family” means a person’s spouse, parents and children.
+(3) For the purposes of subsection (2), “member of his family” means a person’s spouse, parents and children.
 
 (4) No person shall between 8 a.m. and 8 p.m. on polling day park a motor vehicle within 100 metres of any polling station other than a motor vehicle used for the conveyance of any sick, infirm or disabled person for such time as is reasonably necessary to enable the person to cast his vote.
 
@@ -960,13 +1034,15 @@ except that if the officer has reason to suspect that a name or address so ascer
 
 56\.—(1) Within 31 days after the date of publication of the result of an election in theGazette, the election agent of every candidate at that election shall transmit to the Returning Officer a true return (referred to in this Act as the return respecting election expenses), in the prescribed form, containing detailed statements as respects the candidate of —
 
-(a) all payments made by the election agent together with all the bills and receipts referred to in section 47(1), which bills and receipts are in this Act included in the expression “return respecting election expenses”, and the dates of payment of all sums for which no receipt is attached;
+(a) all payments made by the election agenttogether with all the bills and receipts referred to in section 47(1), which bills and receipts are in this Act included in the expression “return respecting election expenses”, and the dates of payment of all sums for which no receipt is attached;
 
 (b) the amount of personal expenses, if any, paid by the candidate;
 
 (c) the disputed claims so far as the election agent is aware;
 
-(d) all unpaid claims, if any, of which the election agent is aware in respect of which application has been made or is about to be made to an Election Judge or Judge of the Supreme Court;
+(d) all unpaid claims, if any, of which the election agent is aware in respect of which application has been made or is about to be made to an Election Judge;
+
+[Act 12/93 wef 16/04/1993]
 
 (e) all moneys, securities and other valuable considerations received by or promised to the election agent from or by any candidate or any other person for the purpose of expenses incurred or to be incurred on account or in respect of the management of the election, naming every person from whom the sum may have been received or by whom the sum may have been promised, showing as to each sum whether it was received as contribution, loan, deposit or otherwise.
 
@@ -974,7 +1050,7 @@ except that if the officer has reason to suspect that a name or address so ascer
 
 (3) Any candidate or election agent who fails to comply with the requirements of subsection (1) or (2) shall be guilty of an illegal practice and the provisions of this section shall be in addition to and not in derogation of section 42.
 
-### Publication of receipt of return, etc
+### Publication of receipt of return, etc.
 
 57\.—(1) When any return respecting election expenses and the statements made in respect thereof have been received by the Returning Officer, he shall, as soon as possible, cause a notice of the date on which the return and statements in question were received by him and of the time and place at which they can be inspected to be fixed in some conspicuous place in his office and published in theGazette.
 
@@ -1012,11 +1088,13 @@ except that if the officer has reason to suspect that a name or address so ascer
 
 ### Punishment for conviction for illegal practice
 
-61\.—(1) Every person who commits an illegal practice shall be guilty of an offence and shall on conviction by a District Court be liable to a fine not exceeding $300.
+61\.—(1) Every person who commits an illegal practice shall be guilty of an offence and shall on conviction by a District Court be liable to a fine not exceeding $300 and shall become incapable for a period of 3 years from the date of his conviction of being registered as an elector or of voting at any election under this Act or of being elected as the President or a Member of Parliament.
+
+[Act 18/94 wef 01/10/1994]
 
 (2) A prosecution for an illegal practice shall not be instituted without the sanction of the Public Prosecutor.
 
-(3) Nothing in this section shall prevent any police officer from exercising the powers conferred upon him by Chapter XIII of the Criminal Procedure Code (Cap. 68) in the case of nonseizable offences or from exercising his powers to prevent a continuance of any illegal practice.
+(3) Nothing in this section shall prevent any police officer from exercising the powers conferred upon him by Chapter XIII of the Criminal Procedure Code in the case of nonseizable offences or from exercising his powers to prevent a continuance of any illegal practice.
 
 ### Prohibition of canvassing on polling day
 
@@ -1028,7 +1106,7 @@ except that if the officer has reason to suspect that a name or address so ascer
 
 (2) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year.
 
-(3) Notwithstanding the provisions of the Criminal Procedure Code (Cap. 68) relating to the powers of search of any police officer, if any police officer has reasonable cause to believe that an offence is being committed under this section, the police officer, by virtue of his office, shall be empowered to enter and search any premises or place for the purpose of ascertaining whether such an offence is being committed.
+(3) Notwithstanding the provisions of the Criminal Procedure Code relating to the powers of search of any police officer, if any police officer has reasonable cause to believe that an offence is being committed under this section, the police officer, by virtue of his office, shall be empowered to enter and search any premises or place for the purpose of ascertaining whether such an offence is being committed.
 
 (4) Any police officer may arrest without warrant any person offending in his view against any of the provisions of this section and take him before a Magistrate’s Court to be dealt with according to law.
 
@@ -1036,7 +1114,7 @@ except that if the officer has reason to suspect that a name or address so ascer
 
 ### Prohibition of dissuasion from voting
 
-63\.—(1) No person shall between nomination day and polling day (both days being inclusive) at any election, by word message, writing or in any other manner dissuade or attempt to dissuade any person from giving his vote at the election.
+63\.—(1) No person shall between nomination day and polling day (both days being inclusive) at any election, by word, message, writing or in any other manner dissuade or attempt to dissuade any person from giving his vote at the election.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year.
 
@@ -1058,7 +1136,7 @@ except that if the officer has reason to suspect that a name or address so ascer
 
 (e) loiter in any street or public place within a radius of 200 metres of any polling station on polling day; or
 
-(f) open or maintain, for the purpose of any activity directed towards promoting or procuring the election of a candidate at any election, any office in any room, building or any place whatsover, whether open or enclosed, on polling day.
+(f) open or maintain, for the purpose of any activity directed towards promoting or procuring the election of a candidate at any election, any office in any room, building or any place whatsoever, whether open or enclosed, on polling day.
 
 (2) Every candidate or his election agent may open or maintain one office for each polling district, which shall not be within a radius of 200 metres of any polling station, and the address of every such office shall be registered by the candidate or his election agent with the Returning Officer before polling day.
 
@@ -1072,7 +1150,7 @@ except that if the officer has reason to suspect that a name or address so ascer
 
 (a) attending a primary or secondary school as a student;
 
-(b) against whom an order of supervision has been made under section 30(b) of the Criminal Law (Temporary Provisions) Act (Cap. 67);
+(b) against whom an order of supervision has been made under section 30(b) of the Criminal Law (Temporary Provisions) Act [Cap. 67];
 
 (c) who is an undischarged bankrupt; or
 
@@ -1090,7 +1168,7 @@ shall take part in any election activity.
 
 (6) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year.
 
-(7) No candidate or election agent shall authorise any person to conduct an election activity, knowing or having reason to believe that the person is attending a primary or secondary school as a student or that an order has been made in respect of the person under section 30(b) of the Criminal Law (Temporary Provisions) Act.
+(7) No candidate or election agent shall authorise any person to conduct an election activity, knowing or having reason to believe that the person is attending a primary or secondary school as a student or that an order has been made in respect of the person under section 30(b) of the Criminal Law (Temporary Provisions) Act [Cap. 67].
 
 (8) Any police officer may arrest without warrant any person offending in his view against subsection (1) or (2) and take him before a Magistrate’s Court to be dealt with according to law.
 
@@ -1102,7 +1180,7 @@ shall take part in any election activity.
 
 (b) to go about in a group on polling day in a manner calculated to cause intimidation, alarm or annoyance to any elector, voter or candidate,
 
-the assembly shall be deemed to be an unlawful assembly as defined in section 141 of the Penal Code (Cap. 224).
+the assembly shall be deemed to be an unlawful assembly as defined in section 141 of the Penal Code [Cap. 224].
 
 ### Offence to operate loudspeaker
 
@@ -1132,9 +1210,9 @@ Excuse for Corrupt and Illegal Practice
 
 then the election of the candidate shall not, by reason of the offences mentioned in the report, be void.
 
-### Power of Election Judge to except innocent act from being illegal practice, etc
+### Power of Election Judge to except innocent act from being illegal practice, etc.
 
-69\. Where, on application made, it is shown to an Election Judge or to a Judge of the Supreme Court by such evidence as seems to the Judge sufficient —
+69\. Where, on application made, it is shown to an Election Judge by such evidence as seems to the Judge sufficient —
 
 (a) that any act or omission of a candidate at any election, or of his election agent or of any other agent or person, would, by reason of being the payment of a sum or the incurring of expense in excess of any maximum amount allowed by this Act, or of being a payment, engagement, employment, or contract in contravention of this Act, or of otherwise being in contravention of any of the provisions of this Act, be but for this section an illegal practice; and
 
@@ -1142,19 +1220,25 @@ then the election of the candidate shall not, by reason of the offences mentione
 
 and in the circumstances it seems to the Judge, after giving the candidates, the Returning Officer, and any elector within the electoral division an opportunity of being heard, to be just that the candidate in question and the election and other agent and person, or any of them, should not be subject to any of the consequences under this Act of that act or omission, the Judge may make an order allowing that act or omission to be an exception from the provisions of this Act which would otherwise make the act or omission an illegal practice, payment, employment or hiring, and thereupon the candidate, agent or person shall not be subject to any of the consequences under this Act of that act or omission.
 
+[Act 12/93 wef 16/04/1993 vide S 115/93]
+
 ### Authorised excuse for non-compliance with provisions as to return and declaration respecting election expenses
 
 70\.—(1) Where the return and statements respecting election expenses of a candidate at an election have not been transmitted as required by this Act, or being transmitted contain some error or false statement, then —
 
-(a) if the candidate applies to an Election Judge or a Judge of the Supreme Court and shows that the failure to transmit the return and declarations, or any of them, or any part thereof, or any error or false statement therein, has arisen by reason of his illness, or of the absence, death, illness or misconduct of his election agent or of any clerk or officer of the agent, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant; or
+(a) if the candidate applies to an Election Judge and shows that the failure to transmit the return and declarations, or any of them, or any part thereof, or any error or false statement therein, has arisen by reason of his illness, or of the absence, death, illness or misconduct of his election agent or of any clerk or officer of the agent, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant; or
 
-(b) if the election agent of the candidate applies to an Election Judge or a Judge of the Supreme Court and shows that the failure to transmit the return and statements which he was required to transmit, or any part thereof, or any error or false statement therein, arose by reason of his illness, or of the death, illness or misconduct of any prior election agent of the candidate, or of the absence, death, illness or misconduct of any clerk, or officer of an election agent of the candidate, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant,
+[Act 12/93 wef 16/04/1993 vide S 115/93]
+
+(b) if the election agent of the candidate applies to an Election Judge and shows that the failure to transmit the return and statements which he was required to transmit, or any part thereof, or any error or false statement therein, arose by reason of his illness, or of the death, illness or misconduct of any prior election agent of the candidate, or of the absence, death, illness or misconduct of any clerk, or officer of an election agent of the candidate, or by reason of inadvertence or of any reasonable cause of a like nature, and not by reason of any want of good faith on the part of the applicant,
+
+[Act 12/93 wef 16/04/1993 vide S 115/93]
 
 the Judge may, after such notice of the application, and on production of such evidence of the grounds stated in the application, and of the good faith of the application, and otherwise, as to the Judge seems fit, and after giving the other candidates, the Returning Officer and any elector an opportunity of being heard, make such order for allowing an authorised excuse for the failure to transmit such return and statements, or for an error or false statement in such return and statements as to the Judge seems just.
 
 (2) Where it appears to the Judge that any person being or having been an election agent has refused or failed to make such return or supply such particulars as will enable any candidate and his election agent, respectively, to comply with the provisions of this Act as to the return and statements respecting election expenses, the Judge shall, before making an order allowing the excuse mentioned in this section, order the person to attend before the Judge, and shall, unless the person attends and shows cause to the contrary, order the person to make the return and statements, or to deliver a statement of the particulars required to be contained in the return, as to the Judge appears just, and to make or deliver them within such time and to such other person and in such manner as the Judge may direct, or may order the person to be examined with respect to those particulars, and, in default of compliance with that order, the person shall be guilty of an illegal practice.
 
-(3) The order may make the allowance conditional upon the making of the return and statements in a modified form or within an extended time, and upon the compliance with such other terms as to the Judge seems best calculated for carrying into effect the objects of this Act; and an order allowing an authorised excuse shall relieve the applicant for the order from any liability or consequences under this Act in respect of the matter excused by the order; and where it is proved by the candidate to the Judge that any act or omission of the election agent in relation to the return and statements respecting election expenses was without the sanction or connivance of the candidate, and that the candidate took all reasonable means for preventing the act or omission, the Judge shall relieve the candidate from the consequences of the act or omission on the part of his election agent.
+(3) The order may make the allowance conditional upon the making of the return and statements in a modified form or within an extended time, and upon the compliance with such other terms as to the Judge seems best calculated for carrying into effect the objects of this Act; and an order allowing an authorised excuse shall relieve the applicant for the order from any liability or consequences under this Act in respect of the matter excused by the order; and where it is proved by the candidate to the Judge that any act or omission of the election agent in relation to the return and statements respecting election expenses was without the sanction or connivance of the candidate, and that the candidate took all reasonable means for preventing the act or omission, the Judge shall relieve the candidate from the consequences of the act or omission on the part of his his election agent.
 
 (4) The date of the order or, if conditions and terms are to be complied with, the date at which the applicant fully complies with them is referred to in this Act as the date of the allowance of the excuse.
 
@@ -1172,7 +1256,7 @@ GROUNDS FOR AVOIDING ELECTIONS
 
 (c) that a corrupt practice or illegal practice was committed in connection with the election by the candidate or with his knowledge or consent or by any agent of the candidate;
 
-(d) that the candidate personally engaged a person as his election agent, or as a canvasser or agent, knowing that the person had, within 7 years prior to such engagement, been convicted or found guilty of a corrupt practice under this Act or the Parliamentary Elections Act (Cap. 218);
+(d) that the candidate personally engaged a person as his election agent, or as a canvasser or agent, knowing that the person had, within 7 years prior to such engagement, been convicted or found guilty of a corrupt practice under this Act or the Parliamentary Elections Act [Cap. 218];
 
 (e) that the candidate was at the time of his election a person disqualified for election as President.
 
@@ -1196,7 +1280,9 @@ ELECTION PETITIONS
 
 (5) The Election Judge shall be attended on the trial of an election petition in the same manner as if he were a Judge of the Supreme Court sitting at assizes.
 
-(6) Unless otherwise ordered by the Chief Justice, all interlocutory matters in connection with an election petition may be dealt with and decided by any Judge of the Supreme Court.
+(6) All interlocutory matters in connection with an election petition may be dealt with and decided by an Election Judge.
+
+[Subst. by Act 12/93 wef 16/04/1993]
 
 ### Who may present petition
 
@@ -1250,7 +1336,9 @@ ELECTION PETITIONS
 
 (b) if the election petition specifically alleges a payment of money or other act to have been made or done since that date by the President whose election is questioned or by an agent of the President or with the privity of the President or of his election agent in pursuance or in furtherance of the illegal practice alleged in the petition, the petition may be presented at any time within 28 days after the date of the payment or other act.
 
-(4) An election petition presented in due time may, for the purpose of questioning the return or the election upon an allegation of a corrupt or illegal practice, be amended with the leave of a Judge of the Supreme Court within the time within which an election petition questioning the return or the election upon that ground may be presented.
+(4) An election petition presented in due time may, for the purpose of questioning the return or the election upon an allegation of a corrupt or illegal practice, be amended with the leave of an Election Judge within the time within which an election petition questioning the return or the election upon that ground may be presented.
+
+[Act 12/93 wef 16/04/1993]
 
 (5) For the purposes of this section, where there is an authorised excuse for failing to make and transmit the return and statements respecting election expenses, the date of the allowance of the excuse or, if there was a failure in two or more particulars and the excuse was allowed at different times, the date of the allowance of the last excuse shall be substituted for the date of the publication in theGazetteof the notice mentioned in subsection (3).
 
@@ -1302,30 +1390,42 @@ GENERAL
 
 ### Consequential amendments
 
-85\. The Parliamentary Elections Act (Cap. 218) is amended in the manner set out in the Schedule.
+85\. The Parliamentary Elections Act [Cap. 218] is amended in the manner set out in the Schedule.
 
 ## THE SCHEDULE
 
 Section 85.
 
-Amendments to the Parliamentary Elections Act
-
-
-
-
-(Chapter 218)
+Amendments to the Parliamentary Elections Act (Chapter 218)
 
 1. In section 6 —
 
 (a) delete the word “or” at the end of paragraph (f); and
 
-(b) delete the full-stop at the end of paragraph (g) and substitute the word “; or”; and insert immediately thereafter the following paragraph:
+(b) delete the full-stop at the end of paragraph (g) and substitute the word “; or”, and insert immediately thereafter the following paragraph:
 
 “
 
-(h) is a person whose name has been expunged from the register of electors under section 26(5) of the Presidential Elections Act 1991 and whose name has not been restored to the register under section 26(8) of that Act.
+(h) is a person whose name has been expunged from the register of electors under section 26(5) of the Presidential Elections Act [Cap. 240A] and whose name has not been restored to the register under section 26(8) of that Act.
 
 ”.
 
-2\. In section 63, insert immediately after the words “this Act”, the words “or the Presidential Elections Act 1991”.
+2\. In section 63, insert immediately after the words “this Act”, the words “or the Presidential Elections Act”.
 
+## LEGISLATIVE HISTORY
+
+Presidential Elections Act
+
+(CHAPTER 240A)
+
+This Legislative History is provided for the convenience of users of the Presidential Elections Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 27 of 1991—Presidential Elections Act 1991**|
+||Date of First Reading|28 June 1991|
+|||(Bill No. 21/1991 published on 29 June 1991)|
+||Date of Second and Third Readings|29 July 1991|
+||Date of commencement|29 June 1991 (published date)|
+|2.|**1992 Revised Edition—Presidential Elections Act (Chapter 240A)**|
+||Date of operation|9 March 1992|
