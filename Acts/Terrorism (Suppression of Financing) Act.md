@@ -94,6 +94,8 @@
 
 - [36 No prosecution without Public Prosecutor’s consent](#No-prosecution-without-Public-Prosecutor’s-consent)
 
+- [36A Jurisdiction of District Court](#Jurisdiction-of-District-Court)
+
 - [37 Amendment of Schedule](#Amendment-of-Schedule)
 
 - [38 Regulations](#Regulations)
@@ -130,9 +132,9 @@ President.
 
 17th July 2002.
 
-Date of Commencement: 30th September 2002 Section 39 shall come into operation on .
+Date of Commencement: 30th September 2002 Section 39
 
-Date of Commencement: 29th January 2003 Section 2 to 38 shall come into operation on .
+Date of Commencement: 29th January 2003 Section 2 to 38
 
 An Act to suppress the financing of terrorism, to give effect to the International Convention for the Suppression of the Financing of Terrorism and for matters connected therewith, and to make a related amendment to the Monetary Authority of Singapore Act (Chapter 186 of the 1999 Revised Edition).
 
@@ -633,6 +635,12 @@ Miscellaneous
 ### No prosecution without Public Prosecutor’s consent
 
 36\. A prosecution under this Act shall not be instituted except by or with the consent of the Public Prosecutor.
+
+### Jurisdiction of District Court
+
+36A\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[9/2003 wef 16/05/2003]
 
 ### Amendment of Schedule
 
