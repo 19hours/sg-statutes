@@ -404,7 +404,7 @@ PRACTISING CERTIFICATES
 
 ### Practising certificates
 
-15\.—(1) Where a registered surveyor desires to engage in title survey work in Singapore after 31st December of any year, he shall, not later than 1st December of that year, make an application in the prescribed form and manner for a practising certificate authorising him to engage in such title survey work in the ensuing year.
+15\.—(1) Where a registered surveyor desires to engage in title survey work in Singapore after 31st December of any year, he shall, not later than 1st December of that year, make an application in the prescribed form and manner for a practising certificate authorising him to engage in such titlesurvey work in the ensuing year.
 
 (2) Notwithstanding subsection (1), where a registered surveyor applies for a practising certificate for the first time after registration under section 12, the application shall be in the prescribed form and may be made at any time during the year and the registered surveyor may be issued a practising certificate for the remainder of the year in which the application is made.
 
@@ -426,17 +426,19 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (4) The Board may refuse to issue a practising certificate if —
 
-(a) the applicant is an undischarged bankrupt or a receiving order in bankruptcy is in force against him;
+(a) the applicant is an undischarged bankrupt;
+
+[Act 15/1995 wef 15/07/1995]
 
 (b) the applicant has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors;
 
 (c) the applicant is not resident in Singapore;
 
-(d) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying title survey services in Singapore;
+(d) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying titlesurvey services in Singapore;
 
 (e) the declaration under subsection (3) contains a statement that to its knowledge is false in a material particular; or
 
-(f) the conduct of the applicant affords reasonable grounds for believing that he will not engage in title survey work in Singapore in accordance with the written law and with honesty and integrity.
+(f) the conduct of the applicant affords reasonable grounds for believing that he will not engage in titlesurvey work in Singapore in accordance with the written law and with honesty and integrity.
 
 (5) Any registered surveyor (not being a registered surveyor who is applying for a practising certificate for the first time) who fails to apply for a practising certificate in the manner and within the period laid down in subsection (1) may, on the making of an application in such form and on payment of such additional fee as may be prescribed, be issued a practising certificate for —
 
@@ -566,11 +568,11 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ### Application of Companies Act
 
-20\.—(1) Sections 162, 163, 197 of and the Eighth Schedule to the Companies Act [Cap. 50] shall apply to a licensed corporation which is an exempt private company subject to the modification that any reference in those sections and that Schedule to an exempt private company shall not include a reference to the licensed corporation; and every such licensed corporation shall —
+20\.—(1) Sections 162, 163, 197 of and the Eighth Schedule to the Companies Act shall apply to a licensed corporation which is an exempt private company subject to the modification that any reference in those sections and that Schedule to an exempt private company shall not include a reference to the licensed corporation; and every such licensed corporation shall —
 
 (a) comply with the prohibitions in section 162 (relating to loans to its directors) and section 163 (relating to loans to persons connected with the directors of the lending company) of the Companies Act as if it were not an exempt private company; and
 
-(b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act, such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with Part II of the Eighth Schedule to that Act as if it were not an exempt private company.
+(b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act [Cap. 50], such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with Part II of the Eighth Schedule to that Act as if it were not an exempt private company.
 
 (2) In this section, “exempt private company” has the same meaning as in the Companies Act.
 
@@ -588,12 +590,7 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ## PART VII
 
-DISCIPLINARY PROCEEDINGS AND
-
-
-
-
-REVOCATION OF LICENCES
+DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
 ### Appointment of Investigation Committees
 
@@ -713,7 +710,7 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (g) the corporation or partnership has contravened any provision of the prescribed code of professional conduct and ethics;
 
-(h) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership, affords grounds for believing that the corporation or partnership, as the case may be, will not engage in title survey work in Singapore in accordance with the written law and with honesty and integrity;
+(h) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership, affords grounds for believing that the corporation or partnership, as the case may be, will not engage in titlesurvey work in Singapore in accordance with the written law and with honesty and integrity;
 
 (i) the corporation or partnership has refused or failed to comply with an order of the Board made under subsection (2); or
 
@@ -739,7 +736,7 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (a) the Registrar shall cause notice of the revocation to be published in theGazetteand shall cancel the entry in the register of licensees relating to the corporation or partnership concerned; and
 
-(b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply title survey services in Singapore except as may be approved by the Board for the purpose of winding up its business.
+(b) the corporation or partnership concerned shall, as from the date of the notice, cease to supply titlesurvey services in Singapore except as may be approved by the Board for the purpose of winding up its business.
 
 (7) Subsection (6) (b) shall not prejudice the enforcement by any person of any right or claim against the corporation or partnership or by the corporation or partnership of any right or claim against any person.
 
@@ -965,7 +962,7 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
 ### Payment of title survey fees
 
-49\. Where any sum is deposited or paid in advance to the Chief Surveyor under section 10(3)(b) of the Planning Act [Cap. 232] before 30th August 1991 in respect of any title survey of land, that sum may be utilised by the Chief Surveyor in payment of the fees of any registered surveyor who has been engaged —
+49\. Where any sum is deposited or paid in advance to the Chief Surveyor under section 10(3)(b) of the Planning Act before 30th August 1991 in respect of any title survey of land, that sum may be utilised by the Chief Surveyor in payment of the fees of any registered surveyor who has been engaged —
 
 (a) by the person who deposited the sum, or his successor in title, to carry out the title survey of that land; or
 
@@ -992,3 +989,12 @@ This Legislative History is provided for the convenience of users of the Land Su
 ||Date of commencement|30 August 1991|
 |2.|**1992 Revised Edition—Land Surveyors Act (Chapter 156)**|
 ||Date of operation|9 March 1992|
+|3.|**Act 15 of 1995—Bankruptcy Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 July 1994|
+|||(Bill No. 16/94 published on 29 July 1994)|
+||Date of Second Reading|25 August 1994|
+||Date Committed to Select Committee|25 August 1994|
+||Date of Presentation of Select Committee Report|7 March 1995 (Parl 1 of 1995)|
+||Date of Third Reading|23 March 1995|
+||Date of commencement|15 July 1995|
