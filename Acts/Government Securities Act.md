@@ -214,7 +214,13 @@ AUTHORISATION OF BORROWING AND APPLICATION OF PROCEEDS
 
 ### Power to issue Government securities
 
-11\.—(1) Where Parliament by resolution authorises the borrowing of moneys under this Act and the President, acting in his discretion, concurs with such borrowing, the Minister may borrow, by the issue of Government securities in Singapore, sums not exceeding the amount specified in such resolution.
+11\.—(1) The Parliament may, by a resolution under Article 144(1)(a) of the Constitution with which the President concurs, authorise the amount of borrowing by the issue of Government securities in Singapore under this Act, and may, from time to time, vary that amount.
+
+[29/2004 wef 14/09/2004]
+
+(1A) The Minister may, from time to time, borrow such sums by the issue of Government securities in Singapore except that the aggregate amount borrowed (whether before, on or after the date of commencement of the Government Securities (Amendment) Act 2004) and outstanding at any time shall not exceed the amount specified in any resolution (varied or otherwise) referred to in subsection (1).
+
+[29/2004 wef 14/09/2004]
 
 (2) The Authority may, on behalf of the Minister, undertake the issue and management of Government securities issued under this Act.
 
@@ -493,6 +499,11 @@ This Legislative History is provided for the convenience of users of the Governm
 ||Date of commencement|8 July 2002|
 |5.|**2002 Revised Edition—Government Securities Act (Chapter 121A)**|
 ||Date of operation|31 December 2002|
+|6.|**Act 29 of 2004—Government Securities (Amendment) Act 2004**|
+||Date of First Reading|20 July 2004|
+|||(Bill No. 33/2004 published on 21 July 2004)|
+||Date of Second and Third Readings|2 September 2004|
+||Date of commencement|14 September 2004|
 ## COMPARATIVE TABLE
 
 Government Securities Act
