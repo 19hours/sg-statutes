@@ -980,8 +980,6 @@ Provided that no fresh nomination shall be necessary in the case of any group wh
 
 35\.—(1) Polling day at any general election shall be a public holiday as though it had been so expressly appointed in addition to the days mentioned in any written law for the time being in force relating to holidays.
 
-(2) Nothing in any written law for the time being in force relating to holidays shall affect the performance on the polling day of any act or thing relating to public offices and departments concerned with elections or of the duty to vote at elections imposed by section 43.
-
 ### Presiding officers
 
 36\.—(1) The Returning Officer shall appoint, and may revoke the appointment of, one or more persons (referred to in this Act as presiding officers) to preside at each polling station. If more than one presiding officer is appointed for any polling station, the Returning Officer may appoint one of the presiding officers to be the senior presiding officer who shall exercise general supervision over the other presiding officers, and over all arrangements for the conduct of the poll in that station. Each presiding officer shall be supplied with a copy of that part of the register of electors containing the names of electors in the register assigned to his polling place.
@@ -2823,3 +2821,9 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|12 November 1996|
 |44.|**G. N. No. S 528/1996—Parliamentary Elections Act (Amendment of First Schedule) Regulations 1996**|
 ||Date of commencement|13 December 1996|
+|45.|**Act 8 of 1998—Holidays Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|14 January 1998|
+|||(Bill No. 1/1998 published on 15 January 1998)|
+||Date of Second and Third Readings|19 February 1998|
+||Date of commencement|10 April 1998|
