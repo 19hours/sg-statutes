@@ -3174,8 +3174,6 @@ D
 
 is the remaining number of years (excluding any part of a year) of the term of the designated lease for which the upfront land premium was paid.
 
-[32/99]
-
 (3) Subsection (2) shall apply, with the necessary modifications, to any subsequent assignment of the remaining term of the designated lease.
 
 [32/99]
@@ -7096,6 +7094,8 @@ Cap. 2A.
 
 Cap. 141A.
 
+21A. Intellectual Property Office of Singapore
+
 22. Jurong Town Corporation
 
 Cap. 150.
@@ -7279,6 +7279,8 @@ Cap. 375.
 12. Young Women’s Christian Association
 
 [9/2000 wef 15/03/2000]
+
+[3/2001 wef 01/04/2001]
 
 SECOND SCHEDULE
 
@@ -8356,6 +8358,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 25/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|31 January 2001|
+|144.|**Act 3 of 2001—Intellectual Property Office of Singapore Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 1/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
 ## COMPARATIVE TABLE
 
 Income Tax Act
