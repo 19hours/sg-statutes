@@ -68,7 +68,9 @@ Provided that, if the party to whom the sums were so paid or payable incurred ex
 
 (b) to any contract of insurance, except as is provided by section 2(5); or
 
-(c) to any contract to which section 7 of the Sale of Goods Act 1979 [U.K. 1979 c. 54.] (which avoids contracts for the sale of specific goods which perish before the risk has passed to the buyer) applies, or to any other contract for the sale, or for the sale and delivery, of specific goods, where the contract is frustrated by reason of the fact that the goods have perished.
+(c) to any contract to which section 7 of the Sale of Goods Act (Cap. 393) (which avoids contracts for the sale of specific goods which perish before the risk has passed to the buyer) applies, or to any other contract for the sale, or for the sale and delivery, of specific goods, where the contract is frustrated by reason of the fact that the goods have perished.
+
+[7/97 wef 01/10/1997]
 
 ## LEGISLATIVE HISTORY
 
@@ -91,3 +93,8 @@ This Legislative History is provided for the convenience of users of the Frustra
 ||Date of operation|1 March 1971|
 |4.|**1985 Revised Edition—Frustrated Contracts Act (Chapter 115)**|
 ||Date of operation|30 March 1987|
+|5.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
