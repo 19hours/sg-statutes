@@ -248,7 +248,9 @@ An Act to create a competitive market framework for the gas industry, to make pr
 
 [23rd July 2003: Section 1 and Part XII — come into operation on ;
 
-19th December 2003: Sections 2, 3(1), (2), (3)(e) and (h), (4) and (5), 4, 5, Parts IX, X, sections 87 to 91 and 95 — come into operation on ]
+19th December 2003: Sections 2, 3(1), (2), (3)(e) and (h), (4) and (5), 4, 5, Parts IX, X, sections 87 to 91 and 95 — come into operation on ;
+
+11th June 2007: Sections 3(3)(a), (b), (c), (d), (f) and (g) and (6), 8, 9, 10, 14 to 18, 21, 24, 27, 28, 30, 31, 36, 38, 40 to 44, 47, 48, 53, 54, 58, 59, 60, 61, 64 to 68, 86, 92, 96 and 97 — come into operation on ]
 
 ## PART I
 
@@ -2216,3 +2218,8 @@ This Legislative History is provided for the convenience of users of the Gas Act
 |||(Bill No. 10/2001 published on 23 February 2001)|
 ||Date of Second and Third Readings|16 March 2001|
 ||Date of commencement|23 July 2003|
+|4.|**Act 11 of 2001—Gas Act 2001**|
+||Date of First Reading|22 February 2001|
+|||(Bill No. 10/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|16 March 2001|
+||Date of commencement|19 December 2003|
