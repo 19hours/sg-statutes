@@ -408,19 +408,9 @@
 
 - [142 Limitation of actions in respect of infringement of copyright](#Limitation-of-actions-in-respect-of-infringement-of-copyright)
 
-[**Part VI COMPULSORY LICENCES FOR TRANSLATION AND REPRODUCTION OF CERTAIN WORKS**](#Part-VI)
+[**Part VI**](#Part-VI)
 
-- [143 Interpretation of this Part](#Interpretation-of-this-Part)
-
-- [144 Licence to produce and publish translations](#Licence-to-produce-and-publish-translations)
-
-- [145 Licence to reproduce and publish works for certain purposes](#Licence-to-reproduce-and-publish-works-for-certain-purposes)
-
-- [146 Licence for domestic broadcasting organisation](#Licence-for-domestic-broadcasting-organisation)
-
-- [147 Termination of licences granted under this Part](#Termination-of-licences-granted-under-this-Part)
-
-- [148 Discontinuation of this Part](#Discontinuation-of-this-Part)
+- [148 (Repealed)](#Repealed)
 
 [**Part VII COPYRIGHT TRIBUNAL**](#Part-VII)
 
@@ -713,6 +703,20 @@
 - [260 Removal or alteration of rights management information](#Removal-or-alteration-of-rights-management-information)
 
 - [261 Relief which court may grant](#Relief-which-court-may-grant)
+
+[**Part XIV TRANSITIONAL PROVISIONS UNDER INTELLECTUAL PROPERTY (MISCELLANEOUS AMENDMENTS) ACT 2004**](#Part-XIV)
+
+- [262 Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [263 Works published before appointed day](#Works-published-before-appointed-day)
+
+- [264 Other subject matter published before appointed day](#Other-subject-matter-published-before-appointed-day)
+
+- [265 Works and other subject matter published by international organisations before appointed day](#Works-and-other-subject-matter-published-by-international-organisations-before-appointed-day)
+
+- [266 Works and other subject matter published by Government before appointed day](#Works-and-other-subject-matter-published-by-Government-before-appointed-day)
+
+- [267 Performances given before appointed day](#Performances-given-before-appointed-day)
 
 [**THE SCHEDULE False Registration of Industrial Designs**](#THE-SCHEDULE)
 
@@ -1550,7 +1554,7 @@ if, but only if —
 
 28\.—(1) This section shall have effect subject to sections 27(2) and 29.
 
-(2) Subject to this section, where, by virtue of this Part, copyright subsists in a literary, dramatic or musical work, or in an artistic work other than a photograph, that copyright shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the author of the work died.
+(2) Subject to this section, where, by virtue of this Part, copyright subsists in a literary, dramatic or musical work, or in an artistic work other than a photograph, that copyright shall continue to subsist until the expiration of 70 years after the expiration of the calendar year in which the author of the work died.
 
 (3) If, before the death of the author of a literary, dramatic or musical work —
 
@@ -1564,17 +1568,17 @@ if, but only if —
 
 (e) records of the work had not been offered or exposed for sale to the public,
 
-the copyright in the work shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the work is first published, performed in public, or broadcast, or included in a cable programme, or records of the work are first offered or exposed for sale to the public, whichever is the earliest of those events to happen.
+the copyright in the work shall continue to subsist until the expiration of 70 years after the expiration of the calendar year in which the work is first published, performed in public, or broadcast, or included in a cable programme, or records of the work are first offered or exposed for sale to the public, whichever is the earliest of those events to happen.
 
 (4) A reference in subsection (3) to the doing of an act in relation to a work shall be read as including a reference to the doing of that act in relation to an adaptation of the work.
 
-(5) If, before the death of the author of an engraving, the engraving had not been published, the copyright in the engraving shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the engraving is first published.
+(5) If, before the death of the author of an engraving, the engraving had not been published, the copyright in the engraving shall continue to subsist until the expiration of 70 years after the expiration of the calendar year in which the engraving is first published.
 
-(6) Copyright subsisting in a photograph by virtue of this Part shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the photograph is first published.
+(6) Copyright subsisting in a photograph by virtue of this Part shall continue to subsist until the expiration of 70 years after the expiration of the calendar year in which the photograph is first published.
 
 ### Duration of copyright in anonymous and pseudonymous work
 
-29\.—(1) Subject to subsection (2), where the first publication of a literary, dramatic or musical work, or of an artistic work other than a photograph, is anonymous or pseudonymous, section 28 shall not apply in relation to the work but any copyright subsisting in the work by virtue of this Part shall continue to subsist until the expiration of the period of 50 years after the expiration of the calendar year in which the work was first published.
+29\.—(1) Subject to subsection (2), where the first publication of a literary, dramatic or musical work, or of an artistic work other than a photograph, is anonymous or pseudonymous, section 28 shall not apply in relation to the work but any copyright subsisting in the work by virtue of this Part shall continue to subsist until the expiration of the period of 70 years after the expiration of the calendar year in which the work was first published.
 
 (2) Subsection (1) shall not apply in relation to a work if at any time before the expiration of the period referred to in that subsection, the identity of the author of the work is generally known or can be ascertained by reasonable inquiry.
 
@@ -2424,7 +2428,7 @@ Designs
 
 (b) references to the scope of the copyright in a registered design as extended to all associated designs and articles are references to the aggregate of the things which, by virtue of that written law, the registered owner would have had the exclusive right to do if —
 
-(i) when that design was registered, there had at the same time been registered every possible design consisting of that design with modifications or variations not sufficient to alter the character or substantially to affect the identity thereof, and that 50 years owner had been registered as the owner of every such design; and
+(i) when that design was registered, there had at the same time been registered every possible design consisting of that design with modifications or variations not sufficient to alter the character or substantially to affect the identity thereof, and that owner had been registered as the owner of every such design; and
 
 (ii) the design in question, and every other design such as is mentioned in sub-paragraph (i), had been registered in respect of all the articles to which it was capable of being applied.
 
@@ -2504,7 +2508,7 @@ Works of Joint Authorship
 
 78\.—(1) This section shall apply to a work of joint authorship that was first published under 2 or more names of which one was a pseudonym or 2 or more (but not all) were pseudonyms.
 
-(2) This section shall also apply to a work of joint authorship that was first published under 2 or more names all of which were pseudonyms if, at any time within 50 yearsafter the expiration of the calendar year in which the work was first published, the identity of one or more (but not all) of the authors was generally known or could be ascertained by reasonable inquiry.
+(2) This section shall also apply to a work of joint authorship that was first published under 2 or more names all of which were pseudonyms if, at any time within 70 years after the expiration of the calendar year in which the work was first published, the identity of one or more (but not all) of the authors was generally known or could be ascertained by reasonable inquiry.
 
 (3) The references in sections 28 and 47 to the author of a work shall, in relation to a work to which this section applies, be read as references to the author whose identity was disclosed or, if the identities of 2 or more of the authors were disclosed, as references to whichever of those authors died last.
 
@@ -2694,13 +2698,13 @@ Duration of Copyright in Subject-matter other than Works
 
 ### Duration of copyright in sound recordings
 
-92\. Copyright subsisting in a sound recording by virtue of this Part shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the recording is first published.
+92\. Copyright subsisting in a sound recording by virtue of this Part shall continue to subsist until the expiration of 70 years after the expiration of the calendar year in which the recording is first published.
 
 ### Duration of copyright in cinematograph films
 
-93\.—(1) Copyright subsisting in a cinematograph film by virtue of section 88(1) or (2) shall continue to subsist until the film is published and, after the publication of the film, until the expiration of after the expiration of the calendar year in which the film was first published.
+93\.—(1) Copyright subsisting in a cinematograph film by virtue of section 88(1) or (2) shall continue to subsist until the film is published and, after the publication of the film, until the expiration of 70 years after the expiration of the calendar year in which the film was first published.
 
-(2) Copyright subsisting in a cinematograph film by virtue only of section 88(3) shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the film was first published.
+(2) Copyright subsisting in a cinematograph film by virtue only of section 88(3) shall continue to subsist until the expiration of 70 years after the expiration of the calendar year in which the film was first published.
 
 ### Duration of copyright in television broadcasts and sound broadcasts
 
@@ -3228,7 +3232,7 @@ the person shall be presumed, unless the contrary is established, to have been t
 
 132\. Where, in an action brought by virtue of this Part in relation to a literary, dramatic, musical or artistic work, section 131 does not apply, but it is established —
 
-(a) that the work was first published in Singapore and was so published during the period of 50 years that ended immediately before the commencement of the calendar year in which the action was brought; and
+(a) that the work was first published in Singapore and was so published during the period of 70 years that ended immediately before the commencement of the calendar year in which the action was brought; and
 
 (b) that a name purporting to be that of the publisher appeared on copies of the work as first published,
 
@@ -3886,165 +3890,7 @@ Miscellaneous
 
 ## PART VI
 
-COMPULSORY LICENCES FOR TRANSLATION AND REPRODUCTION OF CERTAIN WORKS
-
-### Interpretation of this Part
-
-143\. In this Part —
-
-“purposes of teaching, research or scholarship” includes —
-
-(a) purposes of instructional activity at all levels in educational institutions; and
-
-(b) purposes of all types of organised educational activity;
-
-“qualified person” means —
-
-(a) a citizen of Singapore, or an individual resident in Singapore; or
-
-(b) a body corporate incorporated under any written law in Singapore.
-
-[6/98]
-
-### Licence to produce and publish translations
-
-144\.—(1) Any qualified person may apply to the Copyright Tribunal for a licence to produce and publish a translation of a literary or dramatic work which has been published in printed or analogous forms of reproduction in any of the official languages in use in Singapore for the purposes of teaching, scholarship or research.
-
-(2) An application under this section shall be made in such form as may be prescribed and shall state the proposed retail price of a copy of the translation of the work.
-
-(3) Every applicant for a licence under this section shall, along with his application, deposit with the Copyright Tribunal such fee as may be prescribed.
-
-(4) Where an application is made to the Copyright Tribunal under this section, it may, after holding such inquiry as may be prescribed, grant to the applicant a licence, not being an exclusive licence, to produce and publish a translation of the work in the language mentioned in the application subject to the condition —
-
-(a) that the applicant shall pay to the owner of the copyright in the work royalties in respect of copies of the translation of the work sold to the public, calculated at such rate as the Copyright Tribunal may, in the circumstances of each case, determine in the prescribed manner, except that the royalties shall be consistent with the standards normally operating in the case of licences freely negotiated between persons in Singapore and owners of translation rights in the country of the owner of the right of translation; and
-
-(b) that the licence shall not extend to the export of copies of the translation of the work outside Singapore and every copy of such translation shall contain a notice in the language of such translation that the copy is available for distribution only in Singapore.
-
-(5) Subsection (4) shall not apply to the export by the Government or any authority under the Government of copies of such translation in a language other than English to any country if —
-
-(a) such copies are sent to citizens of Singapore residing outside Singapore or to any association of such citizens outside Singapore; or
-
-(b) such copies are meant to be used for purposes of teaching, scholarship or research and not for any commercial purpose,
-
-and in either case, the government of the country to which the copies are exported has agreed to the receipt or distribution, or both, of the copies exported to that country.
-
-(6) No licence shall be granted by the Copyright Tribunal under this section until the expiration of whichever of the following periods is applicable:
-
-(a) one year from the date of first publication of the work where the application is for a licence for translation into any of the official languages of Singapore other than English;
-
-(b) 3 years from the date of first publication of the work where the application is for a licence for translation into English.
-
-(7) No licence shall be granted by the Copyright Tribunal unless —
-
-(a) the Tribunal is satisfied that no translation of the work into the language in question has been published in printed or analogous forms of reproduction, by or with the authorisation of the owner of the right of translation, or that all previous editions in that language are out of print;
-
-(b) the applicant has proved to the satisfaction of the Tribunal that he had requested and had been denied authorisation by the owner of the copyright to produce and publish such translation, or that he was, after due diligence on his part, unable to find the owner;
-
-(c) where the applicant was, after due diligence on his part, unable to find the owner of the copyright, he had sent a copy of his request for the authorisation by registered air-mail post to the publisher whose name appears from the work, not less than 2 months before the application for the licence;
-
-(d) the applicant had at the time he submitted an application under this section informed any national or international information centre designated for this purpose by the government of the country in which the publisher of the work to be translated is believed to have his principal place of business;
-
-(e) the Tribunal is satisfied that the applicant is competent to produce and publish a correct translation of the work and possesses the means to pay to the owner of the copyright the royalties payable to him under this section;
-
-(f) a period of 6 months in the case of an application for a licence for translation into English or 9 months in the case of an application for a licence for translation into any of the official languages of Singapore other than English, has elapsed from the date of making the request under paragraph (b), or where a copy of the request has been sent under paragraph (c) from the date of sending of that copy, and the translation of the work in the language mentioned in the application has not been published by the owner of the copyright in the work or any person authorised by him within the said period of 6 months or 9 months, as the case may be;
-
-(g) the name of the author and the title of the particular edition of the work proposed to be translated are printed on all the copies of the translation;
-
-(h) if the work is composed mainly of illustrations, the provisions of section 145 are also complied with;
-
-(i) the author has not withdrawn from circulation copies of the work; and
-
-(j) an opportunity of being heard is given, wherever practicable, to the owner of the copyright in the work.
-
-### Licence to reproduce and publish works for certain purposes
-
-145\.—(1) Where, after the expiration of the relevant period from the date of the first publication of an edition of a literary, scientific or artistic work —
-
-(a) copies of that edition are not made available in Singapore; or
-
-(b) such copies have not been put on sale in Singapore for a period of 6 months,
-
-by the owner of the right of reproduction or by any person authorised by him in this behalf to the general public, or in connection with systematic instructional activities at a price reasonably related to that normally charged in Singapore for comparable works, any qualified person may apply to the Copyright Tribunal for a licence to reproduce and publish such work in printed or analogous forms of reproduction at the price at which such edition is sold or at a lower price for the purposes of systematic instructional activities.
-
-(2) Every such application shall be made in such form as may be prescribed and shall state the proposed retail price of a copy of the work to be reproduced.
-
-(3) Every applicant for a licence under this section shall, along with his application, deposit with the Copyright Tribunal such fee as may be prescribed.
-
-(4) Where an application is made to the Copyright Tribunal under this section, it may, after holding such inquiry as may be prescribed, grant to the applicant a licence, not being an exclusive licence to produce and publish a reproduction of the work mentioned in the application subject to the conditions that —
-
-(a) the applicant shall pay to the owner of the copyright in the work royalties in respect of copies of the reproduction of the work sold to the public, calculated at such rate as the Copyright Tribunal may, in the circumstances of each case, determine in the prescribed manner, except that the royalties shall be consistent with the standards normally operating in the case of licences freely negotiated between persons in Singapore and owners of reproduction rights in the country of the owner of the reproduction right; and
-
-(b) a licence granted under this section shall not extend to the export of copies of the reproduction of the work outside Singapore and every copy of such reproduction shall contain a notice that the copy is available for distribution only in Singapore.
-
-(5) No licence shall be granted to an applicant under this section unless —
-
-(a) the applicant has proved to the satisfaction of the Copyright Tribunal that he had requested and had been denied authorisation by the owner of the copyright in the work to reproduce and publish such work or that he was, after due diligence on his part, unable to find the owner;
-
-(b) where the applicant was, after due diligence on his part, unable to find the owner of the copyright, he had sent a copy of his request for such authorisation by registered air-mail post to the publisher whose name appears from the work not less than 3 months before the application for the licence;
-
-(c) the applicant had informed any national or international centre designated for this purpose by the government of the country in which the publisher of the work to be reproduced is believed to have his principal place of business;
-
-(d) the Copyright Tribunal is satisfied that the applicant is competent to reproduce and publish an accurate reproduction of the work and possesses the means to pay to the owner of the copyright the royalties payable to him under this section;
-
-(e) the applicant undertakes to reproduce and publish the work at such price as may be fixed by the Copyright Tribunal being a price reasonably related to the price normally charged in Singapore for works of the same standard on the same or similar subjects;
-
-(f) a period of 6 months in the case of an application for the reproduction and publication of any work of natural science, physical science, mathematics or technology, or a period of 3 months in the case of an application for the reproduction and publication of any other work, has elapsed from the date of making the request under paragraph (a), or where a copy of the request has been sent under paragraph (b), from the date of sending of a copy, and a reproduction of the work has not been published by the owner of the copyright in the work or any person authorised by him within the said period of 6 months or 3 months, as the case may be;
-
-(g) the name of the author and the title of the particular edition of the work proposed to be reproduced are printed on all the copies of the reproduction;
-
-(h) the author has not withdrawn from circulation copies of the work; and
-
-(i) an opportunity of being heard is given, wherever practicable, to the owner of the copyright in the work.
-
-(6) No licence to reproduce and publish the translation of a work shall be granted under this section unless such translation has been published by the owner of the right of translation or any person authorised by him and the translation is in a language in general use in Singapore.
-
-(7) This section shall also apply to the reproduction and publication, or translation into a language in general use in Singapore, of any text incorporated in audio-visual fixations prepared and published solely for the purpose of systematic instructional activities.
-
-(8) For the purposes of this section, “relevant period”, in relation to any work, means a period of —
-
-(a) 7 years from the date of the first publication of that work, where the application is for the reproduction and publication of any work of, or relating to fiction, poetry, drama, music or art;
-
-(b) 3 years from the date of the first publication of that work, where the application is for the reproduction and publication of any work of, or relating to natural science, physical science, mathematics or technology; and
-
-(c) 5 years from the date of the first publication of that work, in any other case.
-
-### Licence for domestic broadcasting organisation
-
-146\.—(1) Any qualified person who is the holder of a broadcasting licence may apply to the Copyright Tribunal for a licence to produce and publish the translation of —
-
-(a) a work referred to in section 144 and published in printed or analogous forms of reproduction; or
-
-(b) any text incorporated in audio-visual fixations prepared and published solely for the purpose of systematic instructional activities,
-
-for broadcasting such translation for the purposes of teaching or for the dissemination of the results of specialised, technical or scientific research to the experts in any particular field.
-
-[15/94]
-
-(2) Section 144(2) to (4) shall, with the necessary modifications, apply to the grant of a licence under this section and the licence shall not also be granted unless —
-
-(a) the translation is made from a work lawfully acquired;
-
-(b) the broadcast is made through the medium of sound and visual recordings;
-
-(c) the recording has been lawfully and exclusively made for the purpose of broadcasting in Singapore by the applicant or by any other broadcasting agency; and
-
-(d) the translation and the broadcasting of the translation are not used for any commercial purpose.
-
-### Termination of licences granted under this Part
-
-147\.—(1) If at any time after the granting of a licence to produce and publish the translation of a work in any language under section 144 (referred to in this section as the licensed work), the owner of the copyright in the work or any person authorised by him publishes a translation of the work in the same language and which is substantially the same in content at a price reasonably related to the price normally charged in Singapore for the translation of works of the same standard on the same or similar subject, the licence so granted shall, subject to this section, be terminated.
-
-(2) If, at any time after the granting of a licence to produce and publish the reproduction or translation of any work under section 145, the owner of the right of reproduction or any person authorised by him sells or distributes copies of the work or a translation thereof, as the case may be, in the same language and which is substantially the same in content at a price reasonably related to the price normally charged in Singapore for works of the same standard on the same or similar subject, the licence so granted shall, subject to this section, be terminated.
-
-(3) No termination of the licence shall take effect until after the expiry of a period of 3 months from the date of service of a notice in the prescribed manner on the person holding the licence by the owner of the right of reproduction or of the right of translation, as the case may be, intimating the sale or distribution of the copies of the editions of work as aforesaid.
-
-(4) Copies of the licensed work produced and published or already reproduced by the licensee before the termination of his licence takes effect may continue to be sold or distributed until the copies are exhausted.
-
-### Discontinuation of this Part
-
-148\.—(1) The Minister may, by order published in theGazette, discontinue the operation of this Part.
-
-(2) Any order made for the purpose of subsection (1) may contain savings and transitional provisions with respect to licences granted under this Part.
+148\. [Deleted by Act 21/2004 wef 01/07/2004]
 
 ## PART VII
 
@@ -4646,7 +4492,7 @@ the Minister may by regulations declare that organisation to be an international
 
 (a) copyright shall subsist in the work, sound recording or cinematograph film, or, if copyright in the work, sound recording or cinematograph film subsisted immediately before its first publication, copyright shall continue to subsist in the work, sound recording or cinematograph film;
 
-(b) that copyright shall subsist until the expiration of 50 years after the expiration of the calendar year in which the work, sound recording or cinematograph film, as the case may be, was first published; and
+(b) that copyright shall subsist until the expiration of 70 years after the expiration of the calendar year in which the work, sound recording or cinematograph film, as the case may be, was first published; and
 
 (c) the organisation shall, subject to Part X, be the owner of that copyright.
 
@@ -4884,9 +4730,17 @@ and references in this Act to a partial assignment are references to an assignme
 
 (3) No assignment of copyright (whether total or partial) shall have effect unless it is in writing signed by or on behalf of the assignor.
 
-(4) A licence granted in respect of any copyright by the person who, in relation to the matters to which the licence relates, is the owner of the copyright shall be binding upon every successor in title to his interest in the copyright, except a purchaser in good faith for valuable consideration and without notice (actual or constructive) of the licence or a person deriving title from such a purchaser.
+(4) Subject to subsection (4A), a licence granted in respect of any copyright by the person who, in relation to the matters to which the licence relates, is the owner of the copyright shall be binding upon every successor in title to his interest in the copyright, except a purchaser in good faith for valuable consideration and without notice (actual or constructive) of the licence or a person deriving title from such a purchaser.
+
+(4A) A licence granted to the Government or any statutory board on or after the date of commencement of the Intellectual Property (Miscellaneous Amendments) Act 2004 in respect of any copyright by the person who, in relation to the matters to which the licence relates, is the owner of the copyright shall be binding upon every successor in title to his interest in the copyright.
+
+[21/2004 wef 01/07/2004]
 
 (5) References in this Act, in relation to any copyright, to the doing of anything with, or (as the case may be) without, the licence of the owner of the copyright shall be construed accordingly.
+
+(6) In this section, “statutory board” means any body corporate established by or under any written law to perform or discharge a public function.
+
+[21/2004 wef 01/07/2004]
 
 ### Prospective ownership of copyright
 
@@ -4894,7 +4748,7 @@ and references in this Act to a partial assignment are references to an assignme
 
 (2) Where, at the time when any copyright comes into existence, the person who, if he were then living, would be entitled to the copyright is dead, the copyright shall devolve as if it had subsisted immediately before his death and he had then been the owner of the copyright.
 
-(3) Section 194(4) shall apply in relation to a licence granted by a prospective owner of any copyright as it applies in relation to a licence granted by the owner of a subsisting copyright, as if any reference in that subsection to the owner’s interest in the copyright included a reference to his prospective interest therein.
+(3) Section 194(4) and (4A) shall apply in relation to a licence granted by a prospective owner of any copyright as it applies in relation to a licence granted by the owner of a subsisting copyright, as if any reference in that subsection to the owner’s interest in the copyright included a reference to his prospective interest therein.
 
 ### Copyright to pass under will with unpublished work
 
@@ -4914,11 +4768,11 @@ and references in this Act to a partial assignment are references to an assignme
 
 (a) where the work is unpublished, shall continue to subsist so long as the work remains unpublished; and
 
-(b) where the work is published, shall subsist (or, if copyright in the work subsisted immediately before its first publication, shall continue to subsist) until the end of the period of 50 years from the end of the calendar year in which the work was first published, and shall then expire.
+(b) where the work is published, shall subsist (or, if copyright in the work subsisted immediately before its first publication, shall continue to subsist) until the end of the period of 70 years from the end of the calendar year in which the work was first published, and shall then expire.
 
-(4) Copyright in an artistic work to which the Government is entitled in accordance with this section shall continue to subsist until the end of the period of 50 years from the end of the calendar year in which the work was made, and shall then expire.
+(4) Copyright in an artistic work to which the Government is entitled in accordance with this section shall continue to subsist until the end of the period of 70 years from the end of the calendar year in which the work was made, and shall then expire.
 
-(4A) Where the work referred to in subsection (4) is an engraving or a photograph, the copyright shall continue to subsist until the end of the period of 50 yearsfrom the end of the calendar year in which the engraving or photograph is first published.
+(4A) Where the work referred to in subsection (4) is an engraving or a photograph, the copyright shall continue to subsist until the end of the period of 70 years from the end of the calendar year in which the engraving or photograph is first published.
 
 (5) In the case of every sound recording or cinematograph film made by or under the direction or control of the Government —
 
@@ -5220,7 +5074,7 @@ Original Works
 
 ### Duration of copyright in photographs
 
-212\. Section 28(6) shall not apply in relation to a photograph taken before 10th April 1987 but, subject to section 27(2) as affected by section 207, copyright subsisting in such a photograph by virtue of Part III shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the photograph was taken.
+212\. Section 28(6) shall not apply in relation to a photograph taken before 10th April 1987 but, subject to section 27(2) as affected by section 207, copyright subsisting in such a photograph by virtue of Part III shall continue to subsist until the expiration of 70 years after the expiration of the calendar year in which the photograph was taken.
 
 ### Ownership of copyright
 
@@ -5324,7 +5178,7 @@ Matter other than Works
 
 (3) Section 87(3) shall apply in relation to sound recordings first published before 10th April 1987 as if the reference in that subsection to Singapore included a reference to a country to which the Copyright Act 1911 extended.
 
-(4) Section 92 shall not apply in relation to a sound recording made before 10th April 1987 but copyright subsisting in such a recording by virtue of section 87(1) or (3) shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the recording was made.
+(4) Section 92 shall not apply in relation to a sound recording made before 10th April 1987 but copyright subsisting in such a recording by virtue of section 87(1) or (3) shall continue to subsist until the expiration of 70 years after the expiration of the calendar year in which the recording was made.
 
 ### Cinematograph films
 
@@ -5646,7 +5500,7 @@ PERFORMERS’ PROTECTION
 
 being a live performance given in Singapore or by one or more qualified persons, whether in the presence of an audience or otherwise;
 
-“protection period”, in relation to a performance, means the period beginning on the day when the performance is given and ending at the end of the period of 50 calendar years after the calendar year in which the performance is given;
+“protection period”, in relation to a performance, means the period beginning on the day when the performance is given and ending at the end of the period of 70 calendar years after the calendar year in which the performance is given;
 
 “qualified person” means a citizen of Singapore or a person resident in Singapore;
 
@@ -6136,6 +5990,50 @@ be delivered up to the plaintiff or destroyed.
 
 [38/99]
 
+## PART XIV
+
+TRANSITIONAL PROVISIONS UNDER INTELLECTUAL PROPERTY (MISCELLANEOUS AMENDMENTS) ACT 2004
+
+[21/2004 wef 01/07/2004]
+
+### Interpretation of this Part
+
+262\. In this Part —
+
+“appointed day” means the date of commencement of section 2(a), (b), (g) and (h) of the Intellectual Property (Miscellaneous Amendments) Act 2004;
+
+“performance” has the same meaning as in section 246.
+
+### Works published before appointed day
+
+263\.—(1) Copyright shall not subsist by virtue of Part III in any work first published before the appointed day unless copyright subsisted in that work immediately before that day under that Part in force immediately before that day.
+
+(2) Section 212 shall not apply in relation to any photograph first taken before 10th April 1987 unless copyright subsisted in that photograph immediately before the appointed day under Part III and that section in force immediately before that day.
+
+### Other subject matter published before appointed day
+
+264\.—(1) Copyright shall not subsist by virtue of Part IV in any sound recording or cinematograph film first published before the appointed day unless copyright subsisted in such recording or film immediately before that day under that Part in force immediately before that day.
+
+(2) Section 219(4) shall not apply in relation to any sound recording made before 10th April 1987 unless copyright subsisted in that recording immediately before the appointed day under sections 87(1) or (3) and 219(4) in force immediately before that day.
+
+### Works and other subject matter published by international organisations before appointed day
+
+265\. Copyright shall not subsist by virtue of section 185 in any work, sound recording or cinematograph film first published before the appointed day unless copyright subsisted in such work, recording or film immediately before that day under that section in force immediately before that day.
+
+### Works and other subject matter published by Government before appointed day
+
+266\.—(1) Subject to subsections (2), (3) and (4), copyright shall not subsist by virtue of section 197 in any literary, dramatic or musical work, sound recording or cinematograph film first published or any artistic work made before the appointed day unless copyright in such work, recording or film subsisted immediately before that day under that section in force immediately before that day.
+
+(2) Copyright shall not subsist by virtue of section 197 in any photograph taken before 10th April 1987 unless copyright subsisted in that photograph immediately before that day under that section, as modified by section 231, in force immediately before that day.
+
+(3) Copyright shall not subsist by virtue of section 197 in any sound recording made before 10th April 1987 unless copyright subsisted in that recording immediately before the appointed day under that section, as modified by section 232, in force immediately before that day.
+
+(4) Copyright shall not subsist by virtue of section 197 in any cinematograph film made before 10th April 1987 unless copyright subsisted in that film immediately before the appointed day under that section in force immediately before that day in accordance with section 233.
+
+### Performances given before appointed day
+
+267\. Part XII shall not apply to a performance given before the appointed day unless the period beginning on the day when the performance was given and ending on the appointed day is less than the protection period as defined in section 246(1) in force immediately before the appointed day.
+
 ## THE SCHEDULE
 
 Section 74(1A)
@@ -6248,6 +6146,11 @@ This Legislative History is provided for the convenience of users of the Copyrig
 |||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|15.|**Act 21 of 2004—Intellectual Property (Miscellaneous Amendments) Act 2004**|
+||Date of First Reading|19 May 2004|
+|||(Bill No. 20/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|1 July 2004|
 ## COMPARATIVE TABLE
 
 Copyright Act
