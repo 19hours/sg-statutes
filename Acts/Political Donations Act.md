@@ -1,16 +1,14 @@
-**Political Donations Act 2000**
+**Political Donations Act**
 
-**(No. 20 of 2000)**
+**(CHAPTER 236)**
 
 **Table of Contents**
 
 [**Long Title**](#Political-Donations-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -60,7 +58,7 @@
 
 - [19 Post-election donation reports and declarations](#Post-election-donation-reports-and-declarations)
 
-[**Part IV oBLIGATIONS OF CERTAIN DONORS**](#Part-IV)
+[**Part IV Obligations OF CERTAIN DONORS**](#Part-IV)
 
 - [20 Donations on behalf of others](#Donations-on-behalf-of-others)
 
@@ -98,60 +96,33 @@
 
 - [35 Saving](#Saving)
 
-- [36 Related amendments to Parliamentary Elections Act](#Related-amendments-to-Parliamentary-Elections-Act)
-
-- [37 Related amendments to Presidential Elections Act](#Related-amendments-to-Presidential-Elections-Act)
-
 [**THE SCHEDULE Details to be Given in Donation Reports**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Political Donations Act
 
-Published by Authority
+(CHAPTER 236)
 
-NO. 19]
+(Original Enactment: Act 20 of 2000)
 
-Friday, June 23
+REVISED EDITION 2001
 
-[2000
+(31st December 2001)
 
-The following Act was passed by Parliament on 22nd May 2000 and assented to by the President on 5th June 2000:—
+An Act to regulate donations to political parties and political associations and to candidates and election agents in a parliamentary election or presidential election so as to prohibit foreign donations and restrict anonymous donations thereto and for matters connected therewith.
 
-Political Donations Act 2000
-
-(No. 20 of 2000)
-
-I assent.
-
-LIM KIM SAN,
-
-Person exercising the
-
-
-
-
-Functions of the President.
-
-5th June 2000.
-
-Date of Commencement: 15th February 2001
-
-An Act to regulate donations to political parties and political associations and to candidates and election agents in a parliamentary election or presidential election so as to prohibit foreign donations and restrict anonymous donations thereto and for matters connected therewith, and to make related amendments to the Parliamentary Elections Act (Chapter 218 of the 1999 Revised Edition) and the Presidential Elections Act (Chapter 240A of the 1999 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[15th February 2001]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Political Donations Act 2000 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
-
-(2) The Minister may appoint different dates for the coming into operation of the different provisions of this Act.
+1\.—(1) This Act may be cited as the Political Donations Act.
 
 ### Interpretation
 
@@ -185,8 +156,6 @@ PRELIMINARY
 
 (c) in relation to a candidate, any political party he is standing for at an election;
 
-[19/2001 wef 15/05/2001]
-
 “political association” means —
 
 (a) a political party or an organisation which has as one of its objects or activities the promotion or procuring of the election to Parliament or to the office of President of a candidate or candidates endorsed by the organisation; or
@@ -216,6 +185,8 @@ and includes any person carrying out the duties of any such office referred to i
 “Singapore-controlled company” means a company incorporated in Singapore, the majority of whose directors and members are citizens of Singapore or, in the case of any member being another company, where that other company is incorporated in Singapore and the majority of whose directors and members are citizens of Singapore, and where that other company has a member who is a company which in turn has a member who is a company and so on, where each of those member companies are companies incorporated in Singapore and the majority of whose directors and members are citizens of Singapore;
 
 “writ” means a writ of election issued under section 24 of the Parliamentary Elections Act (Cap. 218) or, in the case of a presidential election, under section 6 of the Presidential Elections Act (Cap. 240A).
+
+[19/2001]
 
 (2) Where a company has for the time being only 2 directors or 2 members, then, notwithstanding the definition of “Singapore-controlled company” in subsection (1), the company shall still be regarded as a Singapore-controlled company for the purposes of this Act if —
 
@@ -339,7 +310,7 @@ shall be taken to be the amount representing the difference between —
 
 7\.—(1) The Minister may, by notification in theGazette, appoint a public officer to be the Registrar of Political Donations for the purposes of this Act, and such number of Assistant Registrars of Political Donations as he considers necessary.
 
-(2) An Assistant Registrar of Political Donations may exercise all powers and may perform all duties of the Registrar under this Act or any regulations made thereunder subject to the general or specific directions of the Registrar.
+(2) An Assistant Registrar of Political Donations may exercise all powers and may perform all duties of the Registrar under this Act subject to the general or specific directions of the Registrar.
 
 ## PART II
 
@@ -485,7 +456,7 @@ Restrictions on donations
 
 (4) In this section, “relevant period”, in relation to a candidate and his election agent or (as the case may be) principal election agent, means —
 
-(a) in the event a writ is issued within 12 months of the commencement of Part III, the period beginning on the date of such commencement and ending on the latest date the candidate’s declaration under section 19 is required by that section to be sent to the Registrar; or
+(a) in the event a writ is issued within 12 months of 15th February 2001, the period beginning on that date and ending on the latest date the candidate’s declaration under section 19 is required by that section to be sent to the Registrar; or
 
 (b) in any other case, the period beginning on a date 12 months preceding the date the declaration is made by the candidate under section 18 before nomination day at an election or (as the case may be) a presidential election, and ending on the latest date the candidate’s declaration under section 19 is required by that section to be sent to the Registrar after the election or (as the case may be) presidential election.
 
@@ -583,7 +554,7 @@ Declarations and donation reports
 
 (6) In this section, “relevant period”, in relation to any person, means —
 
-(a) in the event a writ is issued within 12 months of the commencement of Part III, the period beginning on the date of such commencement and ending on the date the declaration under this section is made by that person; or
+(a) in the event a writ is issued within 12 months of 15th February 2001, the period beginning on that date and ending on the date the declaration under this section is made by that person; or
 
 (b) in any other case, the period of 12 months preceding the date the declaration under this section is made by that person (that date inclusive).
 
@@ -623,11 +594,13 @@ Declarations and donation reports
 
 shall also accompany the donation report and declaration of the candidate and principal election agent.
 
+[19/2001]
+
 (6) In this section, “relevant period”, in relation to any candidate or his election agent, means the period beginning on the date of the candidate’s declaration under section 18(1)(b) and ending on the latest date the candidate’s declaration under this section is required to be sent to the Registrar.
 
 ## PART IV
 
-oBLIGATIONS OF CERTAIN DONORS
+Obligations OF CERTAIN DONORS
 
 ### Donations on behalf of others
 
@@ -648,6 +621,8 @@ then each individual contribution by each person referred to in paragraph (a) or
 ### Reporting of multiple small donations to political associations
 
 21\.—(1) This section shall apply where a person (referred to in this section as the donor) has during the course of a calendar year made donations (each of which is referred to in this section as a small donation) to a political association, the aggregate value of which is not less than $10,000, or such other prescribed sum.
+
+[19/2001]
 
 (2) The donor must make a donation report in the prescribed form to the Registrar in respect of the small donations, giving the following particulars:
 
@@ -693,11 +668,13 @@ OFFENCES
 
 as the case may be, have been complied with in relation to the donation report.
 
-(4) Where the court is satisfied, on an application made by the Public Prosecutor, that any failure to comply with any such requirements in relation to any donation received by a political association, candidate or election agent was attributable to an intention on the part of any person to conceal the existence or true amount of the donation, the court may order the forfeiture of an amount equal to the value of the donation; and sections 11 and 17 shall apply in connection with such an application with the necessary modifications.
+(4) Where the court is satisfied, on an application made by the Public Prosecutor, that any failure to comply with any such requirements in relation to any donation received by a political association, candidate or election agent was attributable to an intention on the part of any person to conceal the existence or true amount of the donation, the court may order the forfeiture of an amount equal to the value of the donation.
 
-(5) Any person who makes a false declaration under section 13, 18(1)(b) or 19(4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
+(5) Sections 11 and 17 shall apply in connection with an application under subsection (4) with the necessary modifications.
 
-(6) Where any responsible officer of a political association, candidate or election agent is charged with an offence under subsection (5), it shall be a defence to prove that he did not know and could not reasonably have known that the declaration was false.
+(6) Any person who makes a false declaration under section 13, 18(1)(b) or 19(4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(7) Where any responsible officer of a political association, candidate or election agent is charged with an offence under subsection (6), it shall be a defence to prove that he did not know and could not reasonably have known that the declaration was false.
 
 ### Evasion of restrictions on donations
 
@@ -721,7 +698,7 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 24\. Any donor to which section 21 applies who —
 
-(a) delivers a donation report under section 21 which does not comply with subsection (2) thereof;
+(a) delivers a donation report under section 21 which does not comply with subsection (2) of that section;
 
 (b) fails to deliver such donation report in accordance with section 21(3) or such a report, when delivered by him, is not accompanied by a declaration under section 21(4); or
 
@@ -761,7 +738,7 @@ shall also be guilty of an offence and shall be liable to be proceeded against a
 
 ### Composition of offences
 
-27\.—(1) The Registrar may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $500.
+27\.—(1) The Registrar may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $500.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
 
@@ -773,7 +750,7 @@ shall also be guilty of an offence and shall be liable to be proceeded against a
 
 29\.—(1) The Registrar may by notice require the relevant person in the case of any political association —
 
-(a) to produce, for inspection by the Registrar or a person authorised by the Registrar, any such books, documents or other records relating to the income and expenditure of the political association as the Registrar may reasonably require for the purposes of the carrying out by his function under this Act or any regulations made thereunder; or
+(a) to produce, for inspection by the Registrar or a person authorised by the Registrar, any such books, documents or other records relating to the income and expenditure of the political association as the Registrar may reasonably require for the purposes of the carrying out by his function under this Act; or
 
 (b) to furnish the Registrar, or a person authorised by the Registrar, with such information or explanation relating to the income and expenditure of the political association as the Registrar may reasonably so require,
 
@@ -865,61 +842,13 @@ until after the last day prescribed by section 74(1) of the Parliamentary Electi
 
 35\. This Act shall not apply to any donation which is received and accepted —
 
-(a) by any political association before the commencement of Part II of this Act; or
+(a) by any political association before 15th February 2001; or
 
-(b) by any candidate or election agent before the commencement of Part III of this Act.
-
-### Related amendments to Parliamentary Elections Act
-
-36\.—(1) Section 27 of the Parliamentary Elections Act (Cap. 218) is amended —
-
-(a) by deleting subsection (3) and substituting the following subsection:
-
-“
-
-(3) Every candidate shall, at the time of his nomination, deliver to the Returning Officer —
-
-(a) a statutory declaration of his qualifications and subscribed by the candidate in Form 10 in the First Schedule; and
-
-(b) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act 2000.
-
-”; and
-
-(b) by deleting the words “subsection (3)” in subsection (3A) and substituting the words “subsection (3)(a) or the political donation certificate which is required by subsection (3)(b) to be delivered”.
-
-(2) Section 27B(3) of the Parliamentary Elections Act (Cap. 218) is amended by deleting the word “and” at the end of paragraph (a) and, by inserting immediately thereafter the following paragraph:
-
-“
-
-(aa) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act 2000; and
-
-”.
-
-(3) Section 29 of the Parliamentary Elections Act is amended —
-
-(a) by inserting, immediately after the words “statutory declarations” in the 3rd line of subsection (1), the words “, political donation certificates issued by the Registrar of Political Donations”; and
-
-(b) by inserting, immediately after the word “Every” in subsection (2), the word “such”.
-
-### Related amendments to Presidential Elections Act
-
-37\.—(1) Section 9(4) of the Presidential Elections Act (Cap. 240A) is amended by deleting the word “and” at the end of paragraph (b) and, by inserting immediately thereafter the following paragraph:
-
-“
-
-(ba) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act 2000; and
-
-”.
-
-(2) Section 11 of the Presidential Elections Act is amended —
-
-(a) by inserting, immediately after the words “statutory declarations” in subsection (1), the words “, political donation certificates issued by the Registrar of Political Donations”; and
-
-(b) by inserting, immediately after the word “Every” in subsection (2), the word “such”.
+(b) by any candidate or election agent before 15th February 2001.
 
 ## THE SCHEDULE
 
-Sections 9(1), 12(1), 15(1), 18(1), 19(1), 22(2) and (3) and 21(2)
+Sections 9(1), 12(1), 15(1), 18(1), 19(1), 21(2) and 22(2) and (3)
 
 Details to be Given in Donation Reports
 
@@ -966,4 +895,72 @@ a donation report must give the aggregate value of the donation as well as the v
 Other details
 
 5\. A donation report must give such other information as is prescribed by regulations made under section 32.
+
+## LEGISLATIVE HISTORY
+
+Political Donations Act
+
+(CHAPTER 236)
+
+This Legislative History is provided for the convenience of users of the Political Donations Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 20 of 2000—Political Donations Act 2000**|
+||Date of First Reading|9.5.2000|
+|||(Bill No. 15/2000 published on 10.5.2000)|
+||Date of Second and Third Readings|22.5.2000|
+||Date of commencement|15.5.2001|
+|2.|**Act 19 of 2001—Parliamentary Elections (Amendment) Act 2001**|
+||Date of First Reading|16.3.2001|
+|||(Bill No. 20/2001 published on 17.3.2001)|
+||Date of Second and Third Readings|20.4.2001|
+||Date of commencement|15.5.2001|
+|3.|**2001 Revised Edition—Political Donations Act**|
+||Date of operation|31 December 2001|
+## COMPARATIVE TABLE
+
+Political Donations Act
+
+(CHAPTER 236)
+
+The following provisions in the Political Donations Act 2000 (Act 20 of 2000) have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Political Donations Act.
+
+2001 Ed\. 
+
+Act 20 of 2000 
+
+22 —(1)
+
+22 —(1)
+
+(2)
+
+(2)
+
+(3)
+
+(3)
+
+(4) and (5)
+
+(4)
+
+(6)
+
+(5)
+
+(7)
+
+(6)
+
+Omitted
+
+36 
+
+Omitted
+
+37 
 
