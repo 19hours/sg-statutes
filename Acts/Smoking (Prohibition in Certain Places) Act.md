@@ -20,17 +20,19 @@
 
 - [7 Composition of offences](#Composition-of-offences)
 
-- [7A Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
+- [8 Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
 
-- [8 Forms](#Forms)
+- [9 Forms](#Forms)
 
-- [9 Exemption](#Exemption)
+- [10 Exemption](#Exemption)
 
-- [10 Regulations](#Regulations)
+- [11 Regulations](#Regulations)
 
-- [11 Transitional provision](#Transitional-provision)
+- [12 Transitional provision](#Transitional-provision)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Smoking (Prohibition in Certain Places) Act
 
@@ -38,9 +40,9 @@
 
 (Original Enactment: Act 6 of 1992)
 
-REVISED EDITION 1998
+REVISED EDITION 2002
 
-(15th December 1998)
+(31st December 2002)
 
 An Act to prohibit smoking in specified places and vehicles, and to provide for matters connected therewith.
 
@@ -54,25 +56,19 @@ An Act to prohibit smoking in specified places and vehicles, and to provide for 
 
 2\. In this Act, unless the context otherwise requires —
 
-“Agency” means the National Environment Agency established under the National Environment Agency Act 2002;
-
-[4/2002 wef 01/07/2002]
+“Agency” means the National Environment Agency established under the National Environment Agency Act 2002 (Act 4 of 2002);
 
 “authorised officer” means any person appointed by the Director-General of Public Health under section 3(2) of the Environmental Public Health Act (Cap. 95);
 
-[4/2002 wef 01/07/2002]
-
 “Director-General” means the Director-General of Public Health appointed under section 3(1) of the Environmental Public Health Act;
 
-[4/2002 wef 01/07/2002]
-
-“manager” includes any owner, occupier, lessee or person who is responsible for the management of a specified building or is in charge or control thereof, and includes an assistant manager or supervisor or any person holding an appointment analogous to that of manager or assistant manager or supervisor;
+“manager”, in relation to a specified building, includes any owner, occupier, lessee or person who is responsible for the management of the specified building or is in charge or control thereof, and includes an assistant manager or supervisor or any person holding an appointment analogous to that of manager, assistant manager or supervisor;
 
 “operator”, in relation to a specified vehicle, means any owner, ticket or tour conductor, driver, ticket inspector or person who is in charge or control of the specified vehicle;
 
 “public service vehicle” has the same meaning as in the Road Traffic Act (Cap. 276);
 
-“residential premises or building” means any premises or building which is permitted to be used pursuant to the Planning Act (Cap. 232) or any other written law as a dwelling-house or which is lawfully so used;
+“residential premises or building” means any premises or building which is permitted to be used under the Planning Act (Cap. 232) or any other written law as a dwelling-house or which is lawfully so used;
 
 “smoking”, with its grammatical variations, means inhaling and expelling the smoke of tobacco or any other substance and includes the holding of any cigar, cigarette, pipe or any other form of tobacco product which is alight or emitting smoke;
 
@@ -80,7 +76,7 @@ An Act to prohibit smoking in specified places and vehicles, and to provide for 
 
 “specified vehicle” means any public service vehicle or part thereof specified in a notification made under section 3.
 
-[13/94]
+[13/94; 4/2002]
 
 ### Prohibition of smoking in specified places and vehicles
 
@@ -94,9 +90,11 @@ An Act to prohibit smoking in specified places and vehicles, and to provide for 
 
 (b) any common property of any residential premises or building; or
 
-(c) any public service vehicle or part thereof or a class of public service vehicles or parts thereof,
+(c) any public service vehicle or part thereof or any class of public service vehicles or parts thereof,
 
 as being a place or places or a vehicle or vehicles in which smoking shall not be permitted either permanently or during such time or for such period or periods or under such circumstances as the Agency may, with the approval of the Minister, prescribe.
+
+[4/2002]
 
 (2) Any person who smokes in any specified place or specified vehicle in contravention of any notification made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
@@ -106,17 +104,25 @@ as being a place or places or a vehicle or vehicles in which smoking shall not b
 
 4\.—(1) Any person reasonably suspected of having committed an offence under this Act may be arrested without warrant by any police officer or authorised officer and produced before a District Court or a Magistrate’s Court.
 
+[4/2002]
+
 (2) Notwithstanding any other written law, any police officer or authorised officer who, having effected an arrest in accordance with subsection (1), is satisfied as to the identity, name and place of residence of the person arrested may, instead of producing such person before a District Court or a Magistrate’s Court or to a police station, serve upon such person a notice in such form as may be determined under section 9 requiring the person to attend at such Court, at such time and on such date as may be specified in the notice.
 
-(3) For the purpose of satisfying himself as to the identity of the person arrested, the police officer, public health officer or authorised public officer may require such evidence of identity as he may consider necessary to be furnished by that person.
+[4/2002]
+
+(3) For the purpose of satisfying himself as to the identity of the person arrested, the police officer or authorised officer may require such evidence of identity as he may consider necessary to be furnished by that person.
+
+[4/2002]
 
 (4) A duplicate of the notice served under subsection (2) shall be prepared by the police officer or authorised officer and produced by him to the District Court or the Magistrate’s Court if so required by the Court.
 
-(5) Where an accused person appears before a District Court or a Magistrate’s Court in accordance with a notice served under subsection (2), the Court shall take cognizance of the offence alleged and shall proceed as though he were produced before it in pursuance of subsection (1).
+[4/2002]
+
+(5) Where an accused person appears before a District Court or a Magistrate’s Court in accordance with a notice served under subsection (2), the Court shall take cognizance of the offence alleged and shall proceed as though he were produced before it under subsection (1).
 
 (6) If a person upon whom a notice has been served under subsection (2) fails to appear before a District Court or a Magistrate’s Court in accordance with the notice, the Court may issue a warrant for the arrest of that person.
 
-(7) Where a person arrested in pursuance of a warrant issued under subsection (6) is produced before a District Court or a Magistrate’s Court, the Court shall —
+(7) Where a person arrested under a warrant issued under subsection (6) is produced before a District Court or a Magistrate’s Court, the Court shall —
 
 (a) proceed as though he were produced before it under subsection (1); and
 
@@ -128,23 +134,35 @@ and if due cause is not shown, the Court may order him to pay a penalty not exce
 
 5\.—(1) The manager of every specified place and the operator of every specified vehicle shall —
 
-(a) cause to be displayed suitable and sufficient number of notices of an adequate size or sizes in conspicuous positions therein, stating to the effect that smoking is prohibited by law; and
+(a) cause to be displayed suitable and sufficient number of notices of an adequate size or sizes in conspicuous positions in the specified place or specified vehicle, as the case may be, stating to the effect that smoking is prohibited by law; and
 
 (b) if so directed by the Director-General, display such notices in such places, phrase them in such manner or cause them to be of such size, as the Director-General may consider fit.
 
-(2) The manager or operator may, subject to any direction that may be given by the Director-General under subsection (1)(b), in addition to such notices, adopt any means, method or device as he may think fit for bringing such prohibition to the attention of members of the public in any specified place or passengers in any specified vehicle.
+[4/2002]
 
-(3) A manager of any specified place or any operator of any specified vehicle who contravenes any of the provisions of subsection (1) or fails to comply with any directions given by the Director-General under that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(2) In addition to such notices, the manager or operator may, subject to any direction that may be given by the Director-General under subsection (1)(b) adopt any means, method or device as he may think fit for bringing such prohibition to the attention of members of the public in any specified place or passengers in any specified vehicle.
+
+[4/2002]
+
+(3) A manager of any specified place or an operator of any specified vehicle who contravenes any of the provisions of subsection (1) or fails to comply with any directions given by the Director-General under that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+[4/2002]
 
 ### Duties of managers or operators of specified places and vehicles
 
-6\.—(1) The manager of any specified place or the operator of any specified vehicle shall inform any person who smokes in the specified place or specified vehicle in contravention of any notification made under section 3(1) to cease smoking immediately, indicating the penalty provided under section 3(2), and if such person refuses, neglects or fails to cease smoking, he shall request such person to leave the specified place or specified vehicle immediately.
+6\.—(1) The manager of any specified place or the operator of any specified vehicle shall inform any person who smokes in the specified place or specified vehicle in contravention of any notification made under section 3(1) —
+
+(a) to cease smoking immediately, indicating the penalty provided under section 3(2); and
+
+(b) if the person refuses, neglects or fails to cease smoking, he shall request the person to leave the specified place or specified vehicle immediately.
 
 (2) If any such person refuses to leave the specified place or specified vehicle or to cease smoking, the manager or operator referred to in subsection (1) shall —
 
 (a) seek the assistance of any police officer or authorised officer; and
 
 (b) render such assistance as is reasonable to such officer to deal with that person in the manner provided in section 4.
+
+[4/2002]
 
 (3) Where any person smokes in a specified place in contravention of any notification made under section 3(1), any other person who is aggrieved by the smoking of that person may lodge a complaint to the manager of the specified place and it shall be the duty of the manager of the specified place —
 
@@ -174,43 +192,59 @@ in contravention of any notification made under section 3(1), that manager or op
 
 ### Composition of offences
 
-7\.—(1) The Director-General may, in his discretion, compound such offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence, a sum not exceeding $500.
+7\.—(1) The Director-General may, in his discretion, compound such offence under this Act as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence, a sum not exceeding $500.
+
+[4/2002]
 
 (2) On payment of such sum, no further proceedings shall be taken against the person in respect of that offence.
 
 (3) The Agency may, with the approval of the Minister, make regulations prescribing the offences which may be compounded and the method and procedure by which such offences may be compounded under this section.
 
+[4/2002]
+
 ### Fees, etc., payable to Agency
 
-7A\. All fees, charges, composition fines and moneys collected under this Act or any regulations made thereunder shall be paid to the Agency.
+8\. All fees, charges, composition fines and moneys collected under this Act shall be paid to the Agency.
 
-[4/2002 wef 01/07/2002]
+[7A
+
+[4/2002]
 
 ### Forms
 
-8\. The Director-General may design and utilise such forms as he may think fit for any of the purposes of this Act or any regulations made thereunder, and may require any person to complete any of the forms for any such purpose.
-
-[9
-
-### Exemption
-
-9\. The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, exempt any specified place or specified vehicle from all or any of the provisions of this Act.
-
-[4/2002 wef 01/07/2002]
-
-### Regulations
-
-10\.—(1) The Agency may, with the approval of the Minister, make such regulations as seem to the Agency necessary or expedient for the purpose of carrying out the provisions of this Act.
-
-(2) All such regulations shall be presented to Parliament as soon as possible after publication in the Gazette.
+9\. The Director-General may design and utilise such forms as he may think fit for any of the purposes of this Act, and may require any person to complete any of the forms for any such purpose.
 
 [8
 
+[4/2002]
+
+### Exemption
+
+10\. The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, exempt any specified place or specified vehicle from all or any of the provisions of this Act.
+
+[9
+
+[4/2002]
+
+### Regulations
+
+11\.—(1) The Agency may, with the approval of the Minister, make such regulations as seem to the Agency necessary or expedient for the purpose of carrying out the provisions of this Act.
+
+[4/2002]
+
+(2) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[10
+
 ### Transitional provision
 
-11\. Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before the date of commencement of the National Environment Agency Act 2002 shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
+12\. Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before 1st July 2002\*shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
 
-[4/2002 wef 01/07/2002]
+\*Date of commencement of the National Environment Agency Act 2002 (Act 4 of 2002).
+
+[11
+
+[4/2002]
 
 ## LEGISLATIVE HISTORY
 
@@ -256,3 +290,39 @@ This Legislative History is provided for the convenience of users of the Smoking
 |||(Bill No. 13/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|1 July 2002|
+|10.|**2002 Revised Edition—Smoking (Prohibition in Certain Places) Act**|
+||Date of operation|31 December 2002|
+## COMPARATIVE TABLE
+
+Smoking (Prohibition in Certain Places) Act
+
+(CHAPTER 310)
+
+The following provisions in the 1998 Revised Edition of the Smoking (Prohibition in Certain Places) Act have been renumbered by the Law Revision Commissioners in this 2002 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Smoking (Prohibition in Certain Places) Act.
+
+2002 Ed\. 
+
+1998 Ed\. 
+
+8 
+
+7A 
+
+9 
+
+8 
+
+10 
+
+9 
+
+11 
+
+10 
+
+12 
+
+11 
+
