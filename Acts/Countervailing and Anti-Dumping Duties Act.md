@@ -922,7 +922,7 @@ ADMINISTRATION
 
 (3) Any countervailing or anti-dumping duty imposed under this Act shall be paid to the Director-General of Customs and Excise.
 
-(4) The Customs Act shall, to the extent relevant and with such exceptions or modifications as may be prescribed, apply to any countervailing or anti-dumping duty as it applies to a customs duty imposed under the provisions of the Customs Act.
+(4) The Customs Act shall, to the extent relevant and with such exceptions or modifications as may be prescribed, apply to any countervailing or anti-dumping duty as it applies to a customs duty or excise duty imposed under the provisions of the Customs Act.
 
 ## PART V
 
@@ -1085,3 +1085,8 @@ This Legislative History is provided for the convenience of users of the Counter
 ||Date of commencement|1.11.96|
 |2.|**1997 Revised Edition—Countervailing and Anti-Dumping Duties Act**|
 ||Date of operation|30 May 1997|
+|3.|**Act 33 of 2000—Customs (Amendment) Act 2000**|
+||Date of First Reading|13 November 2000|
+|||(Bill No. 33/2000 published on 22 December 2000)|
+||Date of Second and Third Readings|22 November 2000|
+||Date of commencement|1 January 2001|
