@@ -2848,3 +2848,8 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 7/98 published on 15 January 1998)|
 ||Date of Second and Third Readings|19 February 1998|
 ||Date of commencement|11 July 1997|
+|19.|**Act 44 of 2002—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2002**|
+||Date of First Reading|25 November 2002|
+|||(Bill No. 46/2002 published on 26 November 2002)|
+||Date of Second and Third Readings|5 December 2002|
+||Date of commencement|1 June 2001|
