@@ -1,16 +1,14 @@
-**Commodity Futures Act 1992**
+**Commodity Futures Act**
 
-**(No. 17 of 1992)**
+**(CHAPTER 48A)**
 
 **Table of Contents**
 
 [**Long Title**](#Commodity-Trading-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -20,7 +18,7 @@
 
 - [4 Establishment of commodities futures markets](#Establishment-of-commodities-futures-markets)
 
-- [5 Power of Board to approve a Commodity Futures Exchange](#Power-of-Board-to-approve-a-Commodity-Futures-Exchange)
+- [5 Power of Board to approve Commodity Futures Exchange](#Power-of-Board-to-approve-Commodity-Futures-Exchange)
 
 - [6 Business rules](#Business-rules)
 
@@ -36,7 +34,7 @@
 
 [**Part III LICENCES**](#Part-III)
 
-- [12 Commodity Futures broker’s licence](#Commodity-Futures-broker’s-licence)
+- [12 Commodity futures broker’s licence](#Commodity-futures-broker’s-licence)
 
 - [13 Other licences](#Other-licences)
 
@@ -50,11 +48,11 @@
 
 - [18 Revocation of licence](#Revocation-of-licence)
 
-- [19 Powers of Board in cases of misconduct, etc](#Powers-of-Board-in-cases-of-misconduct-etc)
+- [19 Powers of Board in cases of misconduct, etc.](#Powers-of-Board-in-cases-of-misconduct-etc)
 
 - [20 Effect of revocation or suspension of licence](#Effect-of-revocation-or-suspension-of-licence)
 
-- [21 Appeal against refusal to license, etc](#Appeal-against-refusal-to-license-etc)
+- [21 Appeal against refusal to license, etc.](#Appeal-against-refusal-to-license-etc)
 
 [**Part IV ACCOUNTS AND AUDIT**](#Part-IV)
 
@@ -78,7 +76,7 @@
 
 - [30 Segregation of customer’s funds by futures broker](#Segregation-of-customer’s-funds-by-futures-broker)
 
-- [31 Nature of a pool and segregation of funds by a futures pool operator, etc](#Nature-of-a-pool-and-segregation-of-funds-by-a-futures-pool-operator-etc)
+- [31 Nature of pool and segregation of funds by futures pool operator, etc.](#Nature-of-pool-and-segregation-of-funds-by-futures-pool-operator-etc)
 
 - [32 Risk disclosure by futures broker, futures pool operator and futures trading adviser](#Risk-disclosure-by-futures-broker-futures-pool-operator-and-futures-trading-adviser)
 
@@ -90,13 +88,13 @@
 
 - [35 Fixing of position and trading limits in futures contracts](#Fixing-of-position-and-trading-limits-in-futures-contracts)
 
-- [36 Production of records, etc., by Exchange, clearing house, futures broker, etc](#Production-of-records-etc-by-Exchange-clearing-house-futures-broker-etc)
+- [36 Production of records, etc., by Commodity Futures Exchange, clearing house, futures broker, etc.](#Production-of-records-etc-by-Commodity-Futures-Exchange-clearing-house-futures-broker-etc)
 
-- [37 Records of transactions on Exchange or clearing house](#Records-of-transactions-on-Exchange-or-clearing-house)
+- [37 Records of transactions on Commodity Futures Exchange or clearing house](#Records-of-transactions-on-Commodity-Futures-Exchange-or-clearing-house)
 
 - [38 Information to be provided by market participants](#Information-to-be-provided-by-market-participants)
 
-- [39 Review of Exchanges’ disciplinary action](#Review-of-Exchanges’-disciplinary-action)
+- [39 Review of Commodity Futures Exchanges’ disciplinary action](#Review-of-Commodity-Futures-Exchanges’-disciplinary-action)
 
 - [40 Investigations by Board](#Investigations-by-Board)
 
@@ -114,7 +112,7 @@
 
 - [46 Manipulation of price of a futures contract and cornering](#Manipulation-of-price-of-a-futures-contract-and-cornering)
 
-- [47 Employment of fraudulent or deceptive devices, etc](#Employment-of-fraudulent-or-deceptive-devices-etc)
+- [47 Employment of fraudulent or deceptive devices, etc.](#Employment-of-fraudulent-or-deceptive-devices-etc)
 
 - [48 Fraudulently inducing trading in futures contracts](#Fraudulently-inducing-trading-in-futures-contracts)
 
@@ -130,9 +128,9 @@
 
 - [53 Falsification of records by directors, employees and agents](#Falsification-of-records-by-directors-employees-and-agents)
 
-- [54 False reports to Board or Exchange](#False-reports-to-Board-or-Exchange)
+- [54 False reports to Board or Commodity Futures Exchange](#False-reports-to-Board-or-Commodity-Futures-Exchange)
 
-- [55 Immunity of Board and its employees, etc](#Immunity-of-Board-and-its-employees-etc)
+- [55 Immunity of Board and its employees, etc.](#Immunity-of-Board-and-its-employees-etc)
 
 - [56 Offences by corporations](#Offences-by-corporations)
 
@@ -154,55 +152,37 @@
 
 - [65 Validation of acts done in anticipation of this Act and grace period for licensing](#Validation-of-acts-done-in-anticipation-of-this-Act-and-grace-period-for-licensing)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Commodity Futures Act
 
-ACTS SUPPLEMENT
+(CHAPTER 48A)
 
-Published by Authority
+(Original Enactment: Act 17 of 1992)
 
-NO. 21]
+REVISED EDITION 1993
 
-Friday, May 22
+(15th March 1993)
 
-[1992
+An Act for the regulation of trading in certain commodity futures, and for matters connected therewith.
 
-The following Act was passed by Parliament on 20th March 1992 and assented to by the President on 30th March 1992:—
-
-Commodity Futures Act 1992
-
-(No. 17 of 1992)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-30th March 1992.
-
-Date of Commencement: 27th May 1992
-
-An Act for the regulation of trading in certain commodity futures and for matters connected therewith.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[27th May 1992]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Commodity Futures Act 1992 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Commodity Futures Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“auditor” means an approved company auditor as defined in section 4 of the Companies Act (Cap. 50);
+“auditor” means an approved company auditor as defined in section 4 of the Companies Act [Cap. 50];
 
-“Board” means the Trade Development Board established under the Trade Development Board Act (Cap. 330);
+“Board” means the Trade Development Board established under the Trade Development Board Act [Cap. 330];
 
 “business rules”, in relation to a body corporate that maintains or proposes to maintain a commodity futures market, means the rules, regulations and by-laws, by whatever name called, governing the activities and conduct of —
 
@@ -246,17 +226,17 @@ and includes a commodity futures option transaction;
 
 “commodity futures option transaction” means a transaction in relation to a commodity futures contract which gives a person a right, acquired for a consideration, to buy or sell a specified amount of a commodity at a specified price within a specified period of time and includes any other option of which the subject is a commodity futures contract;
 
-“commodity futures pool operator” means any person who carries on a business in the nature of a unit trust or other interest to which Division 6 of Part IV of the Companies Act (Cap. 50) applies and who, in connection therewith, accepts or receives from other persons funds, security or property, either directly or through capital contributions, the sale of shares or other forms of security or otherwise for the purpose of trading in a commodity futures contract but does not include such persons as the Board may by regulations prescribe;
+“commodity futures pool operator” means any person who carries on a business in the nature of a unit trust or other interest to which Division 6 of Part IV of the Companies Act [Cap. 50] applies and who, in connection therewith, accepts or receives from other persons funds, security or property, either directly or through capital contributions, the sale of shares or other forms of security or otherwise for the purpose of trading in a commodity futures contract but does not include such persons as the Board may by regulations prescribe;
 
 “commodity futures pool operator’s representative” means a person in the direct employment of, or acting for, or by arrangement with, a commodity futures pool operator, who performs for that commodity futures pool operator any of the functions of a commodity futures pool operator;
 
 “commodity futures trading adviser” means any person who carries on the business of advising others, directly or indirectly, through publications or writings, or by whatever means or media advises others concerning commodity futures contracts, including the advisability of trading in any commodity futures contract made or to be made on, or subject to the business rules of, a commodity futures market or who as part of a regular business issues or promulgates analyses or reports concerning futures trading but does not include —
 
-(a) a bank that is licensed under the Banking Act (Cap. 19) or a merchant bank approved by the Monetary Authority of Singapore under the Monetary Authority of Singapore Act (Cap. 186);
+(a) a bank that is licensed under the Banking Act [Cap. 19] or a merchant bank approved by the Monetary Authority of Singapore under the Monetary Authority of Singapore Act [Cap. 186];
 
 (b) a commodity futures broker, commodity futures broker’s representative, commodity futures pool operator or commodity futures pool’s representative;
 
-(c) a person who carries on the business of printing or publishing a newspaper and is the holder of a permit issued under the Newspaper and Printing Presses Act (Cap. 206) where —
+(c) a person who carries on the business of printing or publishing a newspaper and is the holder of a permit issued under the Newspaper and Printing Presses Act [Cap. 206] where —
 
 (i) in so far as the newspaper is distributed generally to the public it is distributed only to subscribers to, and purchasers of, the newspaper for value;
 
@@ -270,7 +250,7 @@ so long as the carrying on of the business by the abovementioned persons is sole
 
 “commodity futures trading adviser’s representative” means a person in the direct employment of, or acting for, or by arrangement with, a commodity futures trading adviser, who performs for that commodity futures trading adviser any of the functions of a commodity futures trading adviser (other than work ordinarily performed by accountants, clerks or cashiers) whether his remuneration is by way of salary, wages, commission or otherwise; and, where the commodity futures trading adviser is a corporation, includes any director, member or officer of the corporation who is not the holder of a commodity futures trading adviser’s licence and who performs for that corporation any of the functions of a commodity futures trading adviser (whether or not his remuneration is by way of salary, wages, commission or otherwise);
 
-“corporation” has the same meaning as in the Companies Act (Cap. 50);
+“corporation” has the same meaning as in the Companies Act [Cap. 50];
 
 “customer” means a person on whose account a commodity futures broker carries on trading in commodity futures contracts;
 
@@ -294,7 +274,7 @@ so long as the carrying on of the business by the abovementioned persons is sole
 
 (a) a futures market established and maintained by the Singapore International Monetary Exchange Ltd or the clearing house of that futures market;
 
-(b) a futures market of a Futures Exchange approved by the Monetary Authority of Singapore under section 4 of the Futures Trading Act (Cap. 116);
+(b) a futures market of a Futures Exchange approved by the Monetary Authority of Singapore under section 4 of the Futures Trading Act [Cap. 116];
 
 (c) a body corporate approved as a clearing house by the Monetary Authority of Singapore under section 8 of the Futures Trading Act;
 
@@ -322,7 +302,7 @@ COMMODITY FUTURES EXCHANGE AND CLEARING HOUSE
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-### Power of Board to approve a Commodity Futures Exchange
+### Power of Board to approve Commodity Futures Exchange
 
 5\.—(1) A body corporate may apply to the Board for approval as a Commodity Futures Exchange in such form and manner as may be prescribed and the body corporate shall, in connection with that application, provide such information as the Board may require.
 
@@ -370,7 +350,7 @@ COMMODITY FUTURES EXCHANGE AND CLEARING HOUSE
 
 (d) any information provided to the Board under section 5(1) was false or misleading in a material particular.
 
-(2) For the purposes of subsection (1) (a), a body corporate shall be deemed to have ceased to operate as a Commodity Futures Exchange if it has ceased to operate for more than 30 days unless it has obtained the approval of the Board to do so, or unless it has ceased to operate by virtue of any direction issued by the Board under section 34 (1) (a).
+(2) For the purposes of subsection (1)(a), a body corporate shall be deemed to have ceased to operate as a Commodity Futures Exchange if it has ceased to operate for more than 30 days unless it has obtained the approval of the Board to do so, or unless it has ceased to operate by virtue of any direction issued by the Board under section 34(1)(a).
 
 ### Establishment of clearing house
 
@@ -404,7 +384,7 @@ COMMODITY FUTURES EXCHANGE AND CLEARING HOUSE
 
 LICENCES
 
-### Commodity Futures broker’s licence
+### Commodity futures broker’s licence
 
 12\.—(1) No person, whether as principal or agent, shall —
 
@@ -460,7 +440,7 @@ unless he is the holder of a licence granted under this Part that authorises him
 
 (a) the applicant has not provided the Board with such information relating to him or any person employed by or associated with him for the purposes of his business, and to any circumstances likely to affect his method of conducting business, as may be prescribed under this Act;
 
-(b) the applicant is an undischarged bankrupt or has committed an act of bankruptcy within the meaning of the Bankruptcy Act (Cap. 20) or has made a composition or arrangement with his creditors;
+(b) the applicant is an undischarged bankrupt or has committed an act of bankruptcy within the meaning of the Bankruptcy Act [Cap. 20] or has made a composition or arrangement with his creditors;
 
 (c) it appears to the Board that, by reason of the applicant, or any person employed by or associated with him for the purposes of his business, having been convicted, whether in Singapore or elsewhere, of an offence the conviction for which involved a finding that he acted fraudulently or dishonestly, or having been convicted of an offence under this Act, or having committed a breach of any regulations made under this Act relating to licensed persons, the applicant is not a fit and proper person to be licensed; or
 
@@ -542,7 +522,7 @@ unless he is the holder of a licence granted under this Part that authorises him
 
 (5) The Board shall not revoke a licence under subsection (2) or (3) without first giving such person an opportunity of being heard.
 
-### Powers of Board in cases of misconduct, etc
+### Powers of Board in cases of misconduct, etc.
 
 19\.—(1) The Board may inquire into any allegation that a licensed person is or has been guilty of any misconduct or is no longer a fit and proper person to continue to remain licensed by reason of any other circumstances which have led, or are likely to lead, to the improper conduct of business by him or to reflect discredit on the method of conducting his business.
 
@@ -574,7 +554,7 @@ unless he is the holder of a licence granted under this Part that authorises him
 
 (b) affect any right, obligation or liability arising under any such agreement, transaction or arrangement.
 
-### Appeal against refusal to license, etc
+### Appeal against refusal to license, etc.
 
 21\. Where —
 
@@ -622,7 +602,7 @@ ACCOUNTS AND AUDIT
 
 (b) the Board receives an auditor’s report on any matter adversely affecting the financial position of the broker or such other matter as the auditor is required to report under regulations made pursuant to section 22(2)(e),
 
-the Board may, without prejudice to its powers under section 28, if it is satisfied that it is in the interests of the commodity futures broker, futures broker’s customers or the general public to do so, appoint in writing an auditor to examine and audit, either generally or in relation to any particular matter, the books, accounts and records of the futures broker.
+the Board may, without prejudice to its powers under section 28, if it is satisfied that it is in the interests of the commodity futures broker, futures broker’s customersor the general public to do so, appoint in writing an auditor to examine and audit, either generally or in relation to any particular matter, the books, accounts and records of the futures broker.
 
 (2) Where the Board is of the opinion that the whole or any part of the costs and expenses of an auditor appointed by it under subsection (1) should be borne by the commodity futures broker, the Board may, by order in writing, direct the commodity futures broker to pay a specified amount, being the whole or part of such costs and expenses, within the time and in the manner specified in the order.
 
@@ -662,7 +642,7 @@ the Board may, without prejudice to its powers under section 28, if it is satisf
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(2) If, in a prosecution of an offence under subsection (1), it is proved that the person charged —
+(2) If, in a prosecution for an offence under subsection (1), it is proved that the person charged —
 
 (a) destroyed, concealed or altered any book, account or record mentioned in subsection (1)(a); or
 
@@ -688,9 +668,7 @@ he shall be presumed until the contrary is proved, that in so doing he did not a
 
 (a) statements of account, at such periodic intervals, as the Board may prescribe; and
 
-(b) an annual report,
-
-to each participant in his pool operations.
+(b) an annual report, to each participant in his pool operations.
 
 (4) Such statements and annual report shall be in such form and manner as may be prescribed by the Board and shall include complete information as to the current status of all trading accounts in which such participant has an interest.
 
@@ -700,7 +678,7 @@ to each participant in his pool operations.
 
 ### Additional powers of Board in respect of auditors
 
-28\.—(1) Notwithstanding the provisions of the Companies Act (Cap. 50) or anything contained in this Part, the Board may —
+28\.—(1) Notwithstanding the provisions of the Companies Act [Cap. 50] or anything contained in this Part, the Board may —
 
 (a) itself appoint an auditor under this Part; and
 
@@ -728,7 +706,7 @@ he shall immediately report the matter to the Board.
 
 (3) An auditor appointed under subsection (1)(a) shall have all the powers conferred upon an auditor under section 24.
 
-(4) Where the Board is of the opinion that the whole or any part of the costs and expenses of an auditor appointed under subsection (1)(a) should be borne by a Commodity Futures Exchange, a clearing house, a commodity futures broker, a commodity futures trading adviser or a commodity futures pool operator, as the case may be, the Board may by order in writing direct that the Exchange, clearing house, futures broker, futures trading adviser or futures pool operator, as the case may be, shall pay a specified amount, being the whole or part of the costs and expenses within the time and manner specified in the order.
+(4) Where the Board is of the opinion that the whole or any part of the costs and expenses of an auditor appointed under subsection (1)(a) should be borne by a Commodity Futures Exchange, a clearing house, a commodity futures broker, a commodity futures trading adviser, or a commodity futures pool operator, as the case may be, the Board may by order in writing direct that the Exchange, clearing house, futures broker, futures trading adviser or futures pool operator, as the case may be, shall pay a specified amount, being the whole or part of the costs and expenses within the time and manner specified in the order.
 
 ### Defamation
 
@@ -770,7 +748,7 @@ CONDUCT OF COMMODITY FUTURES BUSINESS
 
 (6) In this section, “customer” means a person on whose account a commodity futures broker carries on trading in commodity futures contracts but does not include directors, employees and representatives and related corporations of the commodity futures broker.
 
-### Nature of a pool and segregation of funds by a futures pool operator, etc
+### Nature of pool and segregation of funds by futures pool operator, etc.
 
 31\.—(1) A commodity futures pool operator shall operate its pool as an entity cognizable as a legal entity, separate from that of the commodity futures pool operator.
 
@@ -788,7 +766,7 @@ CONDUCT OF COMMODITY FUTURES BUSINESS
 
 (3) No commodity futures trading adviser shall solicit or enter into an agreement with a prospective client for the purpose of managing his commodity futures trading account or guiding the client’s commodity futures trading by means of a systematic programme that recommends specific transactions unless the commodity futures trading adviser at or before the time he engages in the solicitation or enters into the agreement (whichever is the earlier) delivers or causes to be delivered to the prospective client a risk disclosure document in respect of those purposes which shall be in such form and contain such information as the Board may prescribe and receives from the prospective client an acknowledgment signed and dated by him that he has received and understood the nature and contents of the disclosure document.
 
-(4) Except as may be provided by any regulations made under this Act, no commodity futures trading adviser shall solicit, accept or secure from an existing or prospective client money, securities or other property in the commodity futures trading adviser’s name to purchase, margin, guarantee or secure any interest of the client in a futures contract.
+(4) Except as may be provided by any regulations made under this Act, no commodity futures trading adviser shall solicit, accept or secure from an existing or prospective client money, securities or other property in the commodity futures trading adviser’s name to purchase, margin guarantee or secure any interest of the client in a futures contract.
 
 (5) Subsection (4) shall not apply to a commodity futures broker who carries on the business of a commodity futures trading adviser.
 
@@ -822,15 +800,15 @@ POWERS OF BOARD
 
 (i) requiring additional margins for any contracts; and
 
-(j) modifying or suspending any of the business rules of a Commodity Futures Exchange,
+(j) modifying or suspending any of the business rules of a or Commodity Futures Exchange,
 
 and the Exchange or clearing house shall comply with that direction.
 
-(2) Where a Commodity Futures Exchange or a clearing house fails to comply with the direction of the Board under subsection (1), within such time as is specified by the Board, the Board may itself take action to set emergency margin levels in any commodity futures contract, or class of commodity futures contracts, or to fix limits that may apply to market positions acquired in good faith prior to the date of the Board’s action or such other action, including but not limited to those specified in subsection (1), as it thinks are necessary to maintain or restore orderly trading in or liquidation of commodity futures contracts, or any class of commodity futures contracts.
+(2) Where a Commodity Futures Exchange or a clearing house fails to comply with the direction of the Board under subsection (1) within such time as is specified by the Board, the Board may itself take action to set emergency margin levels in any commodity futures contract,or class of commodity futures contracts, or to fix limits that may apply to market positions acquired in good faith prior to the date of the Board’s action or such other action, including but not limited to those specified in subsection (1), as it thinks are necessary to maintain or restore orderly trading in or liquidation of commodity futures contracts, or any class of commodity futures contracts.
 
 (3) In this section, “emergency” includes, in addition to threatened or actual market manipulations and corners, any act of government affecting a commodity or any other major market disturbance which prevents the market from accurately reflecting the forces of supply and demand for such commodity or any other undesirable situations or practices which in the opinion of the Board constitutes an emergency.
 
-(4) Without prejudice to subsection (1), where a Commodity Futures Exchange or a clearing house exercises its powers under its rules to take emergency action, the Board may modify such emergency action, including but not limited to the setting aside of that emergency action.
+(4) Without prejudice to subsection (1) where a Commodity Futures Exchange or a clearing house exercises its powers under its rules to take emergency action, the Board may modify such emergency action, including but not limited to the setting aside of that emergency action.
 
 (5) Any person who is aggrieved by any action taken by the Board, a Commodity Futures Exchange or a clearing house under this section may appeal to the Minister whose decision shall be final.
 
@@ -840,7 +818,7 @@ and the Exchange or clearing house shall comply with that direction.
 
 35\.—(1) For the purpose of diminishing, eliminating or preventing excessive speculation in any commodity under a commodity futures contract, the Board may, by notice in writing, from time to time establish and fix such limits as it considers necessary on the amount of trading which may be done or positions which may be held by any person, generally or specifically, under a commodity futures contract on or subject to the business rules of a commodity futures market.
 
-(2) In determining whether a person has exceeded such limits, the positions held and trading done by any persons directly or indirectly controlled by such a person shall be included with the positions held and trading done by that person.
+(2) In determining whether a person has exceeded such limits, the positions held and trading done by any persons, directly or indirectly, controlled by such a person shall be included with the positions held and trading done by that person.
 
 (3) Such limits upon positions and trading shall apply to positions held by, and trading done by, two or more persons acting pursuant to an express or implied agreement or understanding, as if the positions were held by, or the trading done by, a single person.
 
@@ -854,7 +832,7 @@ and the Exchange or clearing house shall comply with that direction.
 
 (6) Nothing in this section shall preclude the Board, or a Commodity Futures Exchange with the approval of the Board, from fixing different trading or position limits for different futures contracts or delivery months or for different days remaining until the last day of trading in a contract or different trading limits for the purposes of subsection (5), or from exempting transactions under this section.
 
-### Production of records, etc., by Exchange, clearing house, futures broker, etc
+### Production of records, etc., by Commodity Futures Exchange, clearing house, futures broker, etc.
 
 36\.—(1) A Commodity Futures Exchange, clearing house, commodity futures broker, commodity futures trading adviser or commodity futures pool operator shall —
 
@@ -862,15 +840,15 @@ and the Exchange or clearing house shall comply with that direction.
 
 (b) collect and furnish any returns; and
 
-(c) provide any information relating to its or his business, or any trading in commodity futures contracts, or any other specified information,
+(c) provide any information relating to its or his business, or any trading in or commodity futures contracts, or any other specified information,
 
 as the Board may require.
 
-(2) The Board may, on production of any books, accounts or records under subsection (1), take copies of them or extracts from them.
+(2) The Board may, on production of any books, accounts or records under subsection (1), take copies of or extracts from them.
 
 (3) If any of the persons or bodies mentioned in subsection (1), without reasonable excuse, fails to comply with any requirement under subsection (1), the person or body concerned shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
-### Records of transactions on Exchange or clearing house
+### Records of transactions on Commodity Futures Exchange or clearing house
 
 37\.—(1) Every Commodity Futures Exchange and clearing house shall keep such records as are necessary for the proper recording of each transaction on the Exchange or clearing house and shall supply to any customer of any member of such Exchange or clearing house, upon production of a written confirmation of any transaction with such member, particulars of the approximate time at which the transaction took place and verification or otherwise of the matters set forth in the confirmation.
 
@@ -882,7 +860,7 @@ as the Board may require.
 
 (2) If the Board has reason to believe that any person has failed to give the information required in the notice, it may without prejudice to any other penalty that may be imposed inform a Commodity Futures Exchange or a clearing house which shall, in the event, prohibit the execution of, or acceptance for orders of, trades on the Exchange or a clearing house and in the months or expiration dates specified in the notice unless such trades offset open contracts of that person.
 
-### Review of Exchanges’ disciplinary action
+### Review of Commodity Futures Exchanges’ disciplinary action
 
 39\.—(1) Where a Commodity Futures Exchange reprimands, fines, suspends, expels or otherwise takes disciplinary action against a member of the Exchange, it shall forthwith inform the Board in writing of the name of the member, the reason for, and nature of, the action taken, the amount of any fine and the period of any suspension.
 
@@ -956,7 +934,7 @@ OFFENCES
 
 (b) corner, or attempt to corner, any commodity which is the subject of a commodity futures contract.
 
-### Employment of fraudulent or deceptive devices, etc
+### Employment of fraudulent or deceptive devices, etc.
 
 47\. No person shall, directly or indirectly, in connection with any transaction with any other person involving trading in a commodity futures contract —
 
@@ -1032,9 +1010,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-### False reports to Board or Exchange
+### False reports to Board or Commodity Futures Exchange
 
-54\. Any person who with intent to deceive, makes or furnishes, or knowingly and wilfully authorises or permits the making or furnishing of, any false or misleading statement or report to the Board, a Commodity Futures Exchange, a clearing house or any officers thereof relating to —
+54\. Any person who, with intent to deceive, makes or furnishes, or knowingly and wilfully authorises or permits the making or furnishing of, any false or misleading statement or report to the Board, a Commodity Futures Exchange, a clearing house or any officers thereof relating to —
 
 (a) trading in commodity futures contracts;
 
@@ -1044,7 +1022,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-### Immunity of Board and its employees, etc
+### Immunity of Board and its employees, etc.
 
 55\. No suit or other legal proceedings shall lie against the Board or any officer or employee of the Board or any person (including a Commodity Futures Exchange or a clearing house) acting under the direction of the Board for any act done in good faith in the performance, or intended performance, of any duty, or in the exercise of any power under this Act or any regulations made thereunder, or for any neglect or default in the performance or exercise in good faith of such duty or power.
 
@@ -1066,19 +1044,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) take or use, or have attached to or exhibited at any place, any title or description that resembles the titles specified in paragraph (a) or so closely resembles such titles as to be calculated to deceive.
 
-(3) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and in the case of a continuing offence to a further fine of $2,000 for every day during which the offence continues after conviction.
+(3) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine of $2,000 for every day during which the offence continues after conviction.
 
 (4) Nothing in this section shall operate to prevent any person from —
 
-(a) taking or using the titles “Futures Exchange” or “clearing house” in accordance with section 65 of the Futures Trading Act (Cap. 116); or
+(a) taking or using the title “Futures Exchange” or “clearing house” in accordance with section 65 of the Futures Trading Act [Cap. 116]; or
 
 (b) taking or using the title or description of “futures broker”, “futures trading adviser” or “futures pool operator” in accordance with section 65 of the Futures Trading Act.
 
 (5) Nothing in section 65 of the Futures Trading Act shall operate to prevent any person from —
 
-(a) taking or using the titles “Commodity Futures Exchange” or “clearing house” in accordance with subsection (1); or
+(a) taking or using the title “Commodity Futures Exchange” or “clearing house” in accordance with subsection (1); or
 
-(b) taking or using the titles “commodity futures broker”, “commodity futures trading adviser” or “commodity futures pool operator” in accordance with subsection (2).
+(b) taking or using the title “commodity futures broker”, “commodity futures trading adviser” or “commodity futures pool operator” in accordance with subsection (2).
 
 ### Proceedings by whom and when to be taken and power to compound offences
 
@@ -1090,7 +1068,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) The Board may, without instituting proceedings against any person for an offence under this Act or any regulations made thereunder, which is punishable only by a fine, demand and receive the amount of such fine or such reduced amount as it thinks fit, from such person, whereupon —
 
-(a) if that persons pays that amount to the Board within 14 days after the demand, no proceedings shall be taken against him in relation to the offence;
+(a) if that person pays that amount to the Board within 14 days after the demand, no proceedings shall be taken against him in relation to the offence;
 
 (b) if that person does not pay the amount so demanded, the Board may cause proceedings to be instituted in relation to the offence.
 
@@ -1162,7 +1140,24 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Where a person would, but for this subsection, be liable to a penalty for not being licensed under Part III, he shall not be so liable —
 
-(a) until the expiration of a period of 6 months after the commencement of this Act; or
+(a) until the expiration of a period of 6 months after 27th May 1992; or
 
 (b) where before the expiration of that period he applies to be licensed, until the licence is granted or refused.
 
+## LEGISLATIVE HISTORY
+
+Commodity Futures Act
+
+(CHAPTER 48A)
+
+This Legislative History is provided for the convenience of users of the Commodity Trading Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 17 of 1992—Commodity Futures Act 1992**|
+||Date of First Reading|10 March 1992|
+|||(Bill No. 23/92 published on 11 March 1992)|
+||Date of Second and Third Readings|20 March 1992|
+||Date of commencement|27 May 1992|
+|2.|**1993 Revised Edition—Commodity Futures Act (Chapter 48A)**|
+||Date of operation|15 March 1993|
