@@ -40,6 +40,8 @@
 
 - [17 Punishment](#Punishment)
 
+- [17A Jurisdiction of District Court](#Jurisdiction-of-District-Court)
+
 - [18 Minister may confer police powers on suitable person](#Minister-may-confer-police-powers-on-suitable-person)
 
 - [19 Powers under Criminal Procedure Code not restricted](#Powers-under-Criminal-Procedure-Code-not-restricted)
@@ -328,6 +330,12 @@ Provided that a person charged with such an offence may be arrested, or a warran
 
 (3) A person who is guilty of an offence under this Act by reason of section 9 or 10 shall be liable on conviction before a District Court to a fine not exceeding $2,000 and to imprisonment for a term not exceeding 2 years, and shall be liable on conviction before a Magistrate’s Court to a fine not exceeding $1,000 and to imprisonment for a term not exceeding 6 months.
 
+### Jurisdiction of District Court
+
+17A\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[9/2003 wef 16/05/2003]
+
 ### Minister may confer police powers on suitable person
 
 18\. The Minister may confer upon any person, whom he considers fit and suitable, the powers of a police officer not below the rank of sergeant for the purposes of this Act.
@@ -469,3 +477,8 @@ This Legislative History is provided for the convenience of users of the Officia
 |||(Bill No. 23/2002 published on 9 July 2002)|
 ||Date of Second and Third Readings|23 July 2002|
 ||Date of commencement|1 October 2002|
+|19.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003 (item (4) of Schedule — Amendment of Official Secrets Act)|
