@@ -1,14 +1,12 @@
-**Nanyang Polytechnic Act 1992**
+**Nanyang Polytechnic Act**
 
-**(No. 11 of 1992)**
+**(CHAPTER 191A)**
 
 **Table of Contents**
 
 [**Long Title**](#Nanyang-Polytechnic-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -30,7 +28,7 @@
 
 - [11 Examinations](#Examinations)
 
-- [12 Power to confer diplomas, etc](#Power-to-confer-diplomas-etc)
+- [12 Power to confer diplomas, etc.](#Power-to-confer-diplomas-etc)
 
 - [13 Grants-in-aid](#Grants-in-aid)
 
@@ -48,43 +46,25 @@
 
 [**THE SCHEDULE Constitution of Nanyang Polytechnic**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Nanyang Polytechnic Act
 
-ACTS SUPPLEMENT
+(CHAPTER 191A)
 
-Published by Authority
+(Original Enactment: Act 11 of 1992)
 
-NO. 13]
+REVISED EDITION 1993
 
-Wednesday, April 1
+(15th March 1993)
 
-[1992
+An Act to establish the Nanyang Polytechnic, and for matters connected therewith.
 
-The following Act was passed by Parliament on 20th March 1992 and assented to by the President on 30th March 1992:—
+[1st April 1992]
 
-Nanyang Polytechnic Act 1992
+### Short title
 
-(No. 11 of 1992)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-30th March 1992.
-
-Date of Commencement: 1st April 1992
-
-An Act to establish the Nanyang Polytechnic and for matters connected therewith.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the Nanyang Polytechnic Act 1992 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Nanyang Polytechnic Act.
 
 ### Interpretation
 
@@ -192,7 +172,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 11\. All examinations held by the Polytechnic shall be conducted in such manner as may be prescribed by the Constitution and any regulations made thereunder.
 
-### Power to confer diplomas, etc
+### Power to confer diplomas, etc.
 
 12\. The Polytechnic shall have power —
 
@@ -216,7 +196,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 15\.—(1) The accounts of the Polytechnic shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
 
 (3) The remuneration of the auditor shall be paid out of the funds of the Polytechnic.
 
@@ -256,7 +236,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Application of Societies Act to Students’ Union
 
-19\.—(1) Notwithstanding anything to the contrary in the Societies Act (Cap. 311), the provisions of that Act shall apply to the Nanyang Polytechnic Students’ Union and its constituent bodies constituted by the regulations.
+19\.—(1) Notwithstanding anything to the contrary in the Societies Act [Cap. 311], the provisions of that Act shall apply to the Nanyang Polytechnic Students’ Union and its constituent bodies constituted by the regulations.
 
 (2) The Minister charged with the responsibility for societies may, by order published in theGazette, exempt the Nanyang Polytechnic Students’ Union and any of its constituent bodies from all or any of the provisions of the Societies Act subject to such conditions as may be specified in the order.
 
@@ -274,7 +254,7 @@ Interpretation
 
 1.—(1) In this Constitution, unless the context otherwise requires —
 
-“Act” means the Nanyang Polytechnic Act 1992;
+“Act” means the Nanyang Polytechnic Act;
 
 “Board” means the Board of Governors of the Polytechnic;
 
@@ -366,7 +346,7 @@ Board of Governors
 
 (c) the Principal; and
 
-(d) such other persons, not being less than 9 or more than 15, as are appointed by the Minister.
+(d) such other persons, not being less than 9 or more than 15, as may be determined by the Minister.
 
 (2) Every member of the Board, except the Principal, shall be appointed by the Minister and shall, unless the Minister otherwise directs, hold office for a period of 3 years from the date of his appointment and shall be eligible for reappointment.
 
@@ -546,7 +526,7 @@ Financial Provisions
 
 Financial year
 
-14\. The financial year of the Polytechnic shall begin on 1st April each year and end on 31st March the succeeding year except that the first financial year of the Polytechnic shall begin on the date of its establishment and end on 31st March of the succeeding year.
+14\. The financial year of the Polytechnic shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
 Preparation of estimates
 
@@ -580,3 +560,20 @@ Nanyang Polytechnic Students’ Union
 
 (3) The Polytechnic may impose and collect from the students or any class thereof such fees as it may determine for the benefit of the Nanyang Polytechnic Students’ Union and its constituent bodies; and such fees may be applied in such manner as the Polytechnic thinks fit for the purposes of the Union and its constituent bodies.
 
+## LEGISLATIVE HISTORY
+
+Nanyang Polytechnic Act
+
+(CHAPTER 191A)
+
+This Legislative History is provided for the convenience of users of the Nanyang Polytechnic Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 11 of 1992—Nanyang Polytechnic Act 1992**|
+||Date of First Reading|27 February 1992|
+|||(Bill No. 13/1992 published on 1 March 1992)|
+||Date of Second and Third Readings|20 March 1992|
+||Date of commencement|1 April 1992|
+|2.|**1993 Revised Edition—Nanyang Polytechnic Act**|
+||Date of operation|15 March 1993|
