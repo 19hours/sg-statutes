@@ -104,11 +104,13 @@ Provided that where any part of such a sum cannot be applied to the purposes afo
 
 ### Power of Government to guarantee loans by Bank to statutory authorities
 
-7\.—(1) The Government may in such manner and on such terms and subject to such conditions as may be agreed between it and the Bank —
+7\.—(1) The Government with the President’s concurrence under Article 144(1)(b) of the Constitution may in such manner and on such terms and subject to such conditions as may be agreed between it and the Bank —
 
 (a) guarantee the discharge by a statutory authority of its obligations under any agreement which may be entered into by the statutory authority with the Bank in respect of any borrowing authorised by section 5(1) or under any bond, promissory note or other instrument issued pursuant to any such agreement; and
 
 (b) undertake such other obligations as may be agreed between the Government and the Bank in relation to or pursuant to any such agreement, bond, promissory note or instrument.
+
+[Act 11/91 wef 30/11/1991]
 
 (2) Any guarantee or undertaking given under this section shall be given in writing in the name of the Republic of Singapore and it and any indorsement on any bond, promissory note or other instrument of any guarantee given under this section may be signed on behalf of the Government by the Minister or by any person or persons authorised thereto in writing by the Minister.
 
@@ -166,7 +168,7 @@ Loans (International Banks) Act
 
 (CHAPTER 164)
 
-This Legislative History is provided for the convenience of users of the Loans (International Banks) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Loans (International Banks) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -183,3 +185,8 @@ This Legislative History is provided for the convenience of users of the Loans (
 ||Date of commencement|1 December 1970|
 |5.|**1985 Revised Edition—Loans (International Banks) Act**|
 ||Date of operation|30 March 1987|
+|6.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/1991 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
