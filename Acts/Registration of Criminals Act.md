@@ -210,7 +210,9 @@ Provided that in any trial before the High Court the accused may require that th
 
 ### Power to vary Schedules
 
-15\. The President may by order delete any provision from, or add to or vary the provisions of, the Schedules.
+15\. The Minister may by order delete any provision from, or add to or vary the provisions of, the Schedules.
+
+[7/1997 wef 01/10/1997]
 
 ### Saving
 
@@ -836,3 +838,8 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Referred to Select Committee|Parl 1 of 1995 presented to Parliament on 7 March 1995|
 ||Date of Third Reading|23 March 1995|
 ||Date of commencement|15 July 1995|
+|21.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (item (28) of Second Schedule)|
