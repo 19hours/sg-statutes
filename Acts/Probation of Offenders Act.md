@@ -343,3 +343,9 @@ This Legislative History is provided for the convenience of users of the Probati
 |||(Bill No. 3/1989 published on 16 January 1989)|
 ||Date of Second and Third Readings|26 January 1989|
 ||Date of commencement|1 April 1989|
+|9.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 12/1993 published on 27 February 1993)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|1 July 1993|
