@@ -162,7 +162,9 @@ shall, in favour of a person who has become the lawful holder of the bill, be co
 
 “information technology” includes any computer or other technology by means of which information or other matter may be recorded or communicated without being reduced to documentary form;
 
-“telecommunication system” has the same meaning as in the Telecommunication Authority of Singapore Act [Cap. 323].
+“telecommunication system” has the same meaning as in the Telecommunications Act 1999.
+
+[43/99 wef 01/12/1999]
 
 (2) References in this Act to the holder of a bill of lading are references to any of the following persons:
 
@@ -205,3 +207,8 @@ This Legislative History is provided for the convenience of users of the Bills o
 ||Date of commencement|12 November 1993|
 |2.|**1994 Revised Edition—Bills of Lading Act**|
 ||Date of operation|20 May 1994|
+|3.|**Act 43 of 1999—Telecommunications Act 1999**|
+||Date of First Reading|11 October 1999|
+|||(Bill No. 33/1999)|
+||Date of Second and Third Readings|23 November 1999]|
+||Date of commencement|1 December 1999|
