@@ -92,9 +92,11 @@ An Act to declare the law relating to wills.
 
 “state” means a territory or group of territories having its own law of nationality;
 
-“will” includes a testament and an appointment by will or by writing in the nature of a will in exercise of a power and also a disposition by will and testament or devise of the custody and tuition of any child by virtue of the Tenures Abolition Act 1660 [U.K. 1660 c. 24.] and any other testamentary disposition.
+“will” includes a testament and an appointment by will or by writing in the nature of a will in exercise of a power and also a disposition by will and testament and any other testamentary disposition.
 
 [24/92]
+
+[7/97 wef 01/10/1997]
 
 ### Property disposable by will
 
@@ -436,3 +438,9 @@ This Legislative History is provided for the convenience of users of the Wills A
 ||Date of commencement|26 June 1992|
 |12.|**1996 Revised Edition—Wills Act**|
 ||Date of operation|27 December 1996|
+|13.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
