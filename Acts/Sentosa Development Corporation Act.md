@@ -22,15 +22,19 @@
 
 - [6 Disclosure of interest by members](#Disclosure-of-interest-by-members)
 
+- [6A Protection from personal liability](#Protection-from-personal-liability)
+
 - [7 Appointment of staff](#Appointment-of-staff)
 
-- [8 Appointment of General Manager](#Appointment-of-General-Manager)
+- [8 Appointment of Chief Executive](#Appointment-of-Chief-Executive)
 
 [**Part III FUNCTIONS AND POWERS OF CORPORATION**](#Part-III)
 
 - [9 General functions of Corporation](#General-functions-of-Corporation)
 
 - [10 Powers of Corporation](#Powers-of-Corporation)
+
+- [10A Power to prohibit or restrict use of motor vehicles in Sentosa](#Power-to-prohibit-or-restrict-use-of-motor-vehicles-in-Sentosa)
 
 [**Part IV FINANCIAL PROVISIONS**](#Part-IV)
 
@@ -50,6 +54,42 @@
 
 - [18 Application of profits of Corporation](#Application-of-profits-of-Corporation)
 
+[**Part IVA RESORT AREA**](#Part-IVA)
+
+- [18A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [18B Certain building works not to be carried out without permit](#Certain-building-works-not-to-be-carried-out-without-permit)
+
+- [18C Marine facility not to be constructed or altered without permit](#Marine-facility-not-to-be-constructed-or-altered-without-permit)
+
+- [18D Order for cessation of building works, etc.](#Order-for-cessation-of-building-works-etc)
+
+- [18E Establishment of maintenance fund for the resort area](#Establishment-of-maintenance-fund-for-the-resort-area)
+
+- [18F Contributions payable by property owners](#Contributions-payable-by-property-owners)
+
+- [18G Recovery of contributions from sale of immovable property](#Recovery-of-contributions-from-sale-of-immovable-property)
+
+[**Part IVB VESSELS AND NAVIGATION**](#Part-IVB)
+
+- [18H Appointment of Marina Superintendent and Deputy and Assistant Marina Superintendents](#Appointment-of-Marina-Superintendent-and-Deputy-and-Assistant-Marina-Superintendents)
+
+- [18I General rules for navigation](#General-rules-for-navigation)
+
+- [18J Vessels adrift](#Vessels-adrift)
+
+- [18K Control of embankments, etc.](#Control-of-embankments-etc)
+
+- [18L Control of navigation](#Control-of-navigation)
+
+- [18M Special directions to vessels](#Special-directions-to-vessels)
+
+- [18N Master’s responsibility to be unaffected](#Master’s-responsibility-to-be-unaffected)
+
+- [18O Failure to comply with directions](#Failure-to-comply-with-directions)
+
+- [18P Enforcement of directions](#Enforcement-of-directions)
+
 [**Part V GENERAL**](#Part-V)
 
 - [19 Appointment of committees and delegation of powers](#Appointment-of-committees-and-delegation-of-powers)
@@ -60,7 +100,9 @@
 
 - [22 Common seal of Corporation](#Common-seal-of-Corporation)
 
-- [23 Staff pensions and gratuities](#Staff-pensions-and-gratuities)
+- [23 Composition of offences](#Composition-of-offences)
+
+- [23A Saving of prosecution under other written law](#Saving-of-prosecution-under-other-written-law)
 
 - [24 Regulations](#Regulations)
 
@@ -98,7 +140,59 @@ PRELIMINARY
 
 “Corporation” means the Sentosa Development Corporation established under this Act;
 
-“member” means a member of the Corporation.
+“float” means any floating structure normally used as a point of transfer for passengers and goods and for mooring purposes;
+
+[34/1996 wef 01/11/1996]
+
+“land” includes land covered by water and any interest in land;
+
+[34/1996 wef 01/11/1996]
+
+“Marina Superintendent” means the Marina Superintendent appointed under section 18H and includes any Deputy or Assistant Marina Superintendent appointed under that section;
+
+[34/1996 wef 01/11/1996]
+
+“marine facilities” means facilities either owned by the Corporation or any lessee of any land in Sentosa that are intended primarily to be used by or for the service of vessels (including floats, ramps, hoists, parking areas, leased water areas, concessions and service facilities) located on land in Sentosa or in the waters and waterways of Sentosa;
+
+[34/1996 wef 01/11/1996]
+
+“master”, in relation to a vessel, means any person having or taking command, charge or management of a vessel for the time being;
+
+[34/1996 wef 01/11/1996]
+
+“member” means a member of the Corporation;
+
+“mooring” includes anchoring;
+
+[34/1996 wef 01/11/1996]
+
+“owner” —
+
+(a) in relation to any area of the waters of Sentosa, means the person who has leased the area from the Corporation; and
+
+(b) in relation to a vessel, includes the charterer;
+
+[34/1996 wef 01/11/1996]
+
+“Sentosa” means all that part of the island known as Sentosa which was transferred to and vested in the Corporation on 1st September 1972 by virtue of section 25, the bridge known as Gateway Avenue linking Sentosa and the main island of Singapore and any land reclaimed from the foreshore of Sentosa which is transferred to or leased by the State to the Corporation;
+
+[34/1996 wef 01/11/1996]
+
+“vessel” means every description of vessel however propelled or moved and includes any thing constructed or used to carry persons or goods by water and a seaplane on or in the water, a hovercraft and a hydrofoil vessel;
+
+[34/1996 wef 01/11/1996]
+
+“waters of Sentosa” means all the inland waters of Sentosa that are —
+
+(a) vested in or leased to the Corporation; or
+
+(b) managed or controlled by the Corporation, whether or not the lands lying under the inland waters are vested in or leased to the Corporation or leased by the Corporation to others;
+
+[34/1996 wef 01/11/1996]
+
+“waterways” means any area of the waters of Sentosa providing access from one place to another, principally a water area providing a regular route for water-borne traffic.
+
+[34/1996 wef 01/11/1996]
 
 ## PART II
 
@@ -162,6 +256,14 @@ the Minister may declare his office as a member to be vacant and shall notify th
 
 6\. A member who is in any way directly or indirectly interested in a transaction or project of the Corporation shall disclose the nature of his interest at a meeting of the Corporation; and the disclosure shall be recorded in the minutes of the Corporation and the member shall not take any part in any deliberation of the Corporation with respect to that transaction or project.
 
+### Protection from personal liability
+
+6A\.—(1) No matter or thing done and no contract of any kind entered into by the Corporation and no matter or thing done by any member of the Corporation or by any employee thereof or any other person whomsoever acting under the direction of the Corporation shall, if the matter or thing was done or the contract was entered into bona fide for the purpose of executing the provisions of this Act, subject any such member or employee or any other person whomsoever acting under the direction of the Corporation personally to any action, liability, claim or demand whatsoever in respect thereof.
+
+(2) Any expense incurred by the Corporation or any member or employee acting under the direction of the Corporation shall be borne by and repaid out of the funds of the Corporation.
+
+[34/1996 wef 01/11/1996]
+
 ### Appointment of staff
 
 7\. The Corporation may —
@@ -170,9 +272,11 @@ the Minister may declare his office as a member to be vacant and shall notify th
 
 (b) engage and remunerate for their services such professional persons or agents as the Corporation considers necessary for carrying out its functions.
 
-### Appointment of General Manager
+### Appointment of Chief Executive
 
-8\. The Corporation shall, with the approval of the Minister, appoint and employ a General Manager who shall, subject to the directions of the Corporation on matters of policy, be charged with the direction of the functions or business of the Corporation, its administration and organisation and the administrative control of its employees.
+8\. The Corporation shall, with the approval of the Minister, appoint and employ a Chief Executive who shall, subject to the directions of the Corporation on matters of policy, be charged with the direction of the functions or business of the Corporation, its administration and organisation and the administrative control of its employees.
+
+[34/1996 wef 01/11/1996]
 
 ## PART III
 
@@ -180,41 +284,71 @@ FUNCTIONS AND POWERS OF CORPORATION
 
 ### General functions of Corporation
 
-9\. The functions of the Corporation shall be —
+9\. The functions of the Corporation are the following:
 
-(a) to assume control of and administer Sentosa;
+(a) to control, manage and administer Sentosa and, with the approval of the Minister, any other island or land elsewhere in or outside Singapore whether or not the island or land is owned by or leased to the Corporation;
 
-(b) to encourage the development of services, facilities and amenities in Sentosa or, with the approval of the Minister, elsewhere in Singapore for tourists and the public;
+(b) to promote and encourage the development of services, facilities and amenities in Sentosa and, with the approval of the Minister, elsewhere in or outside Singapore for tourists and the public;
 
-(c) to control scenic attractions and recreational facilities in Sentosa or, with the approval of the Minister, elsewhere in Singapore and to encourage their full and proper use by tourists and the public;
+(c) to develop, manage and control scenic attractions, educational, entertainment, leisure, recreational, tour and sports services, facilities and amenities in Sentosa and, with the approval of the Minister, elsewhere in or outside Singapore and to encourage their full and proper use by tourists and the public;
 
-(d) to prepare and implement or to give assistance to schemes or projects which will provide or improve services, facilities and amenities in Sentosa or, with the approval of the Minister, elsewhere in Singapore for tourists and the public.
+(d) to develop and manage part of Sentosa for residential, commercial or recreational purposes and, with the approval of the Minister, any land elsewhere in Singapore for similar purposes;
+
+(e) to provide facilities for persons living and working in Sentosa and to enhance the operations of businesses operating in Sentosa;
+
+(f) to prepare and implement or to give assistance to schemes or projects which will provide or improve services, facilities and amenities in Sentosa and, with the approval of the Minister, elsewhere in or outside Singapore for tourists and the public.
+
+[34/1996 wef 01/11/1996]
 
 ### Powers of Corporation
 
-10\. The Corporation shall have power to do anything for the purpose of discharging its functions under this Act, or which is incidental or conducive to the discharge of those functions and in particular, but without prejudice to the generality of the foregoing, may —
+10\. The Corporation shall have power to do anything for the purpose of discharging its functions under this Act, or which is incidental or conducive to the discharge of those functions and, in particular, may —
 
 (a) promote or undertake publicity in any form;
 
-(b) provide advisory and information services;
+(b) provide advisory, consultancy, professional and information services;
 
 (c) promote or undertake research;
 
-(d) acquire by purchase, lease, sub-lease or otherwise, any land or interest in land with or without any building;
+(d) acquire by purchase, lease, sub-lease, or otherwise, any land with or without any building and any areas of the waters of Sentosa;
 
-(e) grant leases, sub-leases and licences of any land or interest in land belonging to the Corporation;
+(e) grant leases, sub-leases and licences of any land vested in or leased to the Corporation and any of the areas of the waters of Sentosa;
 
-(f) erect, alter or reconstruct any building on land belonging to or administered by the Corporation;
+(f) develop any land and sell any developed land or part thereof;
 
-(g) subscribe for, acquire and hold and dispose of or otherwise deal with shares or stock in any company, whether incorporated in or outside Singapore, carrying on or intending to carry on any activity or business in Sentosa;
+(g) take or hold mortgages, liens, and charges to secure payment of the purchase price, or any unpaid balance of the purchase price, of any property sold by the Corporation or any money owing to the Corporation from purchasers and others;
 
-(h) act in combination or association with any person or persons engaged, concerned or interested in the promotion of services and amenities for tourists and the public in Sentosa, and pay for or contribute to the cost and expenses involved in such combination or association;
+(h) erect, alter or reconstruct any building or marine facility on land vested in, leased to, or controlled or managed by, the Corporation;
 
-(i) establish, maintain and operate launches, boats, services for the transport of passengers and goods, golf courses, and other works, buildings, services, equipment and apparatus as the Corporation thinks necessary for the performance of its functions;
+(i) form or participate in the formation of, subscribe for, acquire and hold and dispose of or otherwise deal with shares or stocks in any company, whether incorporated in or outside Singapore, carrying on or intending to carry on any activity or business in Sentosa and enter into any joint venture or partnership for the carrying on of any business or activity in Sentosa;
 
-(j) subject to any regulations made by the Minister, impose such charges or fees as the Corporation may determine for the use of any accommodation, services, works, buildings, recreation grounds, equipment, attractions, amenities or facilities provided, maintained, controlled or operated by the Corporation; and
+(j) with the written approval of the Minister, form or participate in the formation of or subscribe for shares or stocks in any company;
 
-(k) enter into any contract or agreement for the carrying out of the purposes of this Act.
+(k) with the written approval of the Minister, grant loans to, or guarantee the repayment of loans given to, any company in which the Corporation or any of its subsidiary companies holds any shares;
+
+(l) establish, maintain and operate launches, boats, services for the transport of passengers and goods, golf courses, services, facilities, equipment and apparatus as the Corporation thinks necessary for the performance of its functions;
+
+(m) subject to any regulations made by the Minister, impose such charges or fees as the Corporation may determine for admission into Sentosa and for the use, improvement or maintenance of any accommodation, services, works, marine facilities, recreation grounds, equipment, attractions, amenities or other facilities provided, maintained, controlled, administered or operated by the Corporation;
+
+(n) enter into any contract or agreements for the carrying out of the purposes of this Act; and
+
+(o) take such measures as are necessary for the prevention of pollution of the waters and waterways of Sentosa.
+
+[34/1996 wef 01/11/1996]
+
+### Power to prohibit or restrict use of motor vehicles in Sentosa
+
+10A\.—(1) The Corporation may prohibit or restrict the use of vehicles or of any class or description of vehicles on any road in Sentosa and may for that purpose grant permits for vehicles entering Sentosa and levy charges for the issue of such permits.
+
+(2) Without prejudice to the generality of subsection (1), the Corporation may —
+
+(a) impose different charges for different classes of vehicles entering Sentosa and for vehicles which are driven by different categories of visitors to Sentosa;
+
+(b) prohibit any class of vehicles, or vehicles driven by any category of visitors, from entering Sentosa; and
+
+(c) restrict the movement of vehicles during certain hours of the day or on certain days of the week.
+
+[34/1996 wef 01/11/1996]
 
 ## PART IV
 
@@ -222,7 +356,9 @@ FINANCIAL PROVISIONS
 
 ### Borrowing powers
 
-11\. The Corporation may from time to time, with the consent of the Minister, and subject to such terms as he thinks fit, borrow money and issue debentures or mortgage or charge any of its property for the purpose of meeting its obligations or discharging its functions under this Act.
+11\. The Corporation may from time to time, with the consent of the Minister, and subject to such terms as he thinks fit, borrow money and issue bonds, debentures or mortgage or charge any of its property for the purpose of meeting its obligations or discharging its functions under this Act.
+
+[34/1996 wef 01/11/1996]
 
 ### Provision of working capital
 
@@ -250,13 +386,291 @@ FINANCIAL PROVISIONS
 
 ### Annual report and accounts to be presented to Parliament
 
-17\.—(1) As soon as may be reasonably practicable after the end of each accounting year but not later than 4 months from the end of that year, unless the Minister otherwise authorises in writing, the Corporation shall furnish to the Minister a report of its functions for that year together with a copy of the statement of accounts in respect of that year and the auditors' report thereon.
+17\.—(1) As soon as may be reasonably practicable after the end of each accounting year but not later than 6 months from the end of that year, unless the Minister otherwise authorises in writing, the Corporation shall furnish to the Minister a report of its functions for that year together with a copy of the statement of accounts in respect of that year and the auditors' report thereon.
+
+[34/1996 wef 01/11/1996]
 
 (2) A copy of the report and of the statement of accounts attached thereto shall be presented to Parliament.
 
 ### Application of profits of Corporation
 
 18\. The Minister may, after consultation with the Corporation, give directions to the Corporation as to the manner in which its profits shall be applied.
+
+## PART IVA
+
+RESORT AREA
+
+### Interpretation of this Part
+
+18A\.—(1) In this Part, unless the context otherwise requires —
+
+“immovable property” means any land, premises, building or tenement;
+
+“maintenance fund” means the maintenance fund established under section 18E;
+
+“owner”, in relation to any immovable property, means the person for the time being receiving the rent for the immovable property, whether on his own account or as agent or trustee for any other person or as receiver, or who would receive the same if it were let to a tenant, and includes the person whose name is or will be entered in the Valuation List maintained by the Comptroller of Property Tax under the Property Tax Act [Cap. 254] as the owner of the immovable property;
+
+“resort area” means all that part of Sentosa which is designated by the Corporation, from time to time by notice published in the Gazette, as the resort area for the purposes of this Part.
+
+(2) For the purposes of this Part, each part of a building divided laterally or horizontally into parts in such a manner that the owner, either solely or jointly with other owners, of one part is not also the owner either solely or jointly with the other owners respectively of any other part, shall be deemed to be a building.
+
+(3) For the purposes of this Part, each part of a partially completed building, divided laterally or horizontally into parts shall be deemed to be a building.
+
+[34/1996 wef 01/11/1996]
+
+### Certain building works not to be carried out without permit
+
+18B\.—(1) No person shall commence or carry out, or permit or authorise the commencement or carrying out of, any building works affecting or changing the facade or external appearance of any building in the resort area unless there is in force a permit granted by the Corporation for carrying out the building works and the Corporation may refuse to grant any such permit.
+
+(2) In granting any permit under this section, the Corporation may impose such conditions as it thinks fit.
+
+(3) Where any person fails to comply with any condition imposed by the Corporation, the Corporation may cancel the permit in relation to which the condition that the person failed to comply with was imposed.
+
+(4) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
+
+[34/1996 wef 01/11/1996]
+
+### Marine facility not to be constructed or altered without permit
+
+18C\.—(1) No person shall construct or alter, or permit or authorise the construction or alteration of, any marine facility in the resort area unless there is in force a permit granted by the Corporation for the construction or alteration of the marine facility and the Corporation may refuse to grant any such permit.
+
+(2) In granting any permit under this section, the Corporation may impose such conditions as it thinks fit.
+
+(3) Where any person fails to comply with any condition imposed by the Corporation, the Corporation may cancel the permit in relation to which the condition that the person failed to comply with was imposed.
+
+(4) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
+
+[34/1996 wef 01/11/1996]
+
+### Order for cessation of building works, etc.
+
+18D\.—(1) Where in the opinion of the Corporation any building works are or have been carried out, or any marine facility has been constructed or altered, in contravention of the provisions of this Part or any regulations made under this Act, the Corporation may by order in writing require —
+
+(a) the cessation of the building works until the order is withdrawn;
+
+(b) the demolition of the marine facility; or
+
+(c) such work or alteration to the building or marine facility to be carried out as may be necessary to cause the same to comply with the provisions of this Part or otherwise to put an end to the contravention thereof,
+
+and, in every case, the order shall specify all or any of the following:
+
+(i) the manner in which the demolition, work or alteration specified in the order is to be carried out;
+
+(ii) the time within which the demolition, work or alteration shall commence;
+
+(iii) the time within which the demolition, work or alteration shall be completed; and
+
+(iv) the demolition, work or alteration shall be carried out with due diligence to the satisfaction of the Corporation.
+
+(2) An order made under subsection (1) shall be served —
+
+(a) where a building or marine facility has been erected, on the owner or occupier of the building or marine facility; or
+
+(b) where building works are being carried out, on the person for whom the works are carried out or the builder carrying out the building works.
+
+(3) If an order made under subsection (1) is not complied with, the Corporation may demolish, remove or alter, or cause to be demolished, removed or altered, such building or marine facility or take such other steps as appear to the Corporation to be necessary and may recover all expenses reasonably incurred by the Corporation in the exercise of its powers under this section from the person in default.
+
+(4) Without prejudice to the right of the Corporation to exercise its powers under subsection (3), if any person on whom an order made under subsection (1) is served fails to comply with the order, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
+
+(5) The Corporation may seize any materials resulting from the carrying out of any work under subsection (3).
+
+[34/1996 wef 01/11/1996]
+
+### Establishment of maintenance fund for the resort area
+
+18E\.—(1) The Corporation shall establish a maintenance fund for the purposes of managing and maintaining the resort area and of providing and maintaining the infrastructure and other facilities and services for the use of persons living and working in the resort area and the maintenance fund shall be under the direction and control of the Corporation.
+
+(2) All moneys received by the Corporation by virtue of section 18F shall be paid into the maintenance fund and all expenditure and other expenses incurred by the Corporation for managing and maintaining the resort area and for providing and maintaining the infrastructure and other facilities and services for persons living and working in the resort area shall be charged to the maintenance fund.
+
+(3) All moneys in the maintenance fund that are not immediately required may be placed on time deposits with banks or invested in such securities as trustees may by written law be authorised to invest.
+
+(4) Nothing in this section shall be construed as imposing an obligation on the Corporation to maintain any immovable property in the resort area that is privately owned.
+
+[34/1996 wef 01/11/1996]
+
+### Contributions payable by property owners
+
+18F\.—(1) Commencing from a date to be appointed by the Minister, the Corporation may in each month levy a contribution at such rates as may be prescribed in respect of all immovable properties in the resort area and different rates may be prescribed for different types or classes of immovable properties.
+
+(2) The contributions referred to in subsection (1) shall be payable by the owners of the immovable properties quarterly in advance, without demand to the Corporation at such dates as may be prescribed.
+
+(3) The contributions levied under sub-section (1) —
+
+(a) are payable in addition to any property tax levied under the Property Tax Act [Cap. 254];
+
+(b) shall become due and payable to the Corporation without any deduction whatsoever and may be recovered as a debt due to the Corporation in any court of competent jurisdiction; and
+
+(c) if not paid within 30 days when it becomes due and payable, shall bear interest at the prescribed rates.
+
+(4) In respect of any contributions levied under subsection (1) and the interest thereon, the owner of the immovable property shall be liable, jointly and severally with any person who was liable to pay the same when the contributions become due and payable, to pay the charges and interest to the Corporation except that a person who has ceased to be the owner of the immovable property shall only be liable to pay the contributions which were unpaid at the time he ceased to be the owner of the immovable property and the interest accruing on the unpaid contributions until such time as they are paid.
+
+(5) Without affecting the liability of the owner of an immovable property in respect of any contributions levied under this section, where a mortgagee is in possession (whether by himself or any other person) of the immovable property, he shall be liable jointly and severally with the owner of the immovable property for any contributions levied on the immovable property under this section.
+
+[34/1996 wef 01/11/1996]
+
+### Recovery of contributions from sale of immovable property
+
+18G\.—(1) Where any contributions and interest thereon levied under section 18F remain unpaid on the expiry of the period of 90 days after the Corporation has served on the owner of the immovable property a written demand for the payment of the contributions, the contributions and any interest accrued thereon shall constitute a charge on the immovable property upon lodgment of an instrument of charge by the Corporation with and the registration thereof by the Registrar.
+
+(2) Upon registration of the instrument of charge by the Registrar —
+
+(a) the Corporation shall, subject to sub-section (3), have the power of sale and all other powers relating or incidental thereto as if the Corporation is a registered mortgagee; and
+
+(b) the contributions and interest owing to the Corporation shall be subject to all statutory charges of any public authority over the immovable property and to all encumbrances registered or notified prior to the date of lodgment of that instrument of charge except that in the case where a prior registered mortgagee or chargee has sold the immovable property in exercise of his power of sale, the registered charge of the estate or interest of the immovable property when transferred to a purchaser by the mortgagee or chargee shall not be over-reached by the exercise of the power of sale by the mortgagee or chargee of a prior registered mortgage or charge.
+
+(3) The Corporation shall not exercise its power of sale under subsection (2)(a) unless —
+
+(a) a resolution has been passed by the Corporation to have the immovable property sold;
+
+(b) a notice of the intended sale approved by the Registrar has been published once in one or more daily newspapers, as may be determined by the Registrar;
+
+(c) during the period of 6 weeks after the date of such publication no payment has been received for the contributions due including interest thereon and the cost of publication specified in paragraph (b) as well as any other necessary incidental charges; and
+
+(d) there is no legal action pending in court to restrain the Corporation from proceeding with the sale.
+
+(4) Where a transfer of any immovable property has been made by the Corporation in the exercise of its power of sale conferred by this section is lodged with the Registrar for registration —
+
+(a) the Registrar shall not accept the transfer for registration unless the following documents are lodged at the same time:
+
+(i) a certified true copy of the resolution of the Corporation authorising the exercise of its power of sale with the seal of the Corporation affixed thereto and authenticated in accordance with section 22;
+
+(ii) a copy of every publication containing the notice referred to in subsection (3)(b); and
+
+(iii) a statutory declaration made by the Chief Executive of the Corporation stating that the unpaid contributions and interest thereon and all necessary incidental costs and expenses owing to the Corporation as of the date of the contract of sale of the immovable property have not been paid and that there is no legal action pending in court to restrain the Corporation from proceeding with the sale of the immovable property; and
+
+(b) neither the person who purchased the immovable property from the Corporation nor the Registrar shall be concerned to inquire into the regularity or validity of the sale or transfer.
+
+(5) Where an instrument of charge has been registered against any immovable property under this section, the owner of the immovable property, shall, upon payment of the amount of contributions and interest and any necessary incidental charges owing to the Corporation before it has exercised its power of sale conferred by this section, be entitled to an instrument of discharge executed and acknowledged by the Corporation as to the receipt of such payment, and upon registration of the instrument of discharge or, in the event of the Corporation refusing to execute a discharge, an order of court declaring that the immovable property shall be discharged from the charge, the immovable property be freed from the charge constituted under this section.
+
+(6) For the purpose of registration of a charge, discharge or transfer under this section, the Registrar may dispense with the production of the relevant duplicate certificate of title.
+
+(7) Notwithstanding section 74 of the Land Titles Act [Cap. 157] and section 16 of the Registration of Deeds Act [Cap. 269], where further contributions are due to be paid to the Corporation after the instrument of charge under this section, the amount of such contributions due including interest thereon, shall rank in priority to any other claims as if such contributions and the interest thereon were owing to the Corporation at the date of the registration of the charge.
+
+(8) A charge under subsection (2) shall continue in force until all contributions including interest thereon secured by the charge have been paid.
+
+(9) This section shall not affect any rights and powers of the Corporation to recover the contributions and interest owing to the Corporation including any legal costs and incidental charges necessarily incurred for the recovery of such contributions in respect of any immovable property as a debt from the owner of, or his successor in title to, the property.
+
+(10) In this section —
+
+“public authority” means the Government, the Collector of Land Revenue, the Comptroller of Property Tax and any other person, corporation or body, authorised or empowered by any written law to attach, sell or acquire land compulsorily;
+
+“Registrar” means the Registrar of Titles appointed under the Land Titles Act [Cap. 157].
+
+[34/1996 wef 01/11/1996]
+
+## PART IVB
+
+VESSELS AND NAVIGATION
+
+### Appointment of Marina Superintendent and Deputy and Assistant Marina Superintendents
+
+18H\.—(1) The Corporation may appoint a Marina Superintendent and such number of Deputy and Assistant Marina Superintendents as may be necessary for the purpose of administering and carrying out the provisions of this Part.
+
+(2) Whenever, by the provisions of this Part, a power is granted to or a duty imposed upon the Corporation, the power may be exercised or duty performed by the Marina Superintendent or a Deputy or an Assistant Marina Superintendent.
+
+[34/1996 wef 01/11/1996]
+
+### General rules for navigation
+
+18I\. A master who navigates his vessel in the waters or waterways of Sentosa —
+
+(a) without due care and attention; or
+
+(b) in a manner liable to injure or endanger persons, other vessels, the marina facilities in Sentosa or any structure or installation in Sentosa,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[34/1996 wef 01/11/1996]
+
+### Vessels adrift
+
+18J\.—(1) The owner or master of a vessel adrift in the waters and waterways of Sentosa shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(2) It shall be a defence to the owner or master of a vessel charged with an offence under subsection (1) to prove that the vessel did not become adrift as the result of any neglect or default on his part.
+
+[34/1996 wef 01/11/1996]
+
+### Control of embankments, etc.
+
+18K\. The Corporation is vested with authority over and control of all embankments, revetments, floats, wharves, docks and marine facilities in the waters and waterways of Sentosa whether or not they are owned, leased, controlled, constructed or maintained by the Corporation.
+
+[34/1996 wef 01/11/1996]
+
+### Control of navigation
+
+18L\.—(1) The Corporation is vested with authority over and control of navigation and the use of vessels in the waters and waterways of Sentosa and may give general directions for the purpose of promoting or securing conditions conducive to the ease, convenience or safety of navigation in the waters and waterways of Sentosa and, in particular, for any of the following purposes:
+
+(a) for designating waterways in Sentosa which vessels are to use or refrain from using for movement or mooring;
+
+(b) for securing that vessels move only at certain times or during certain periods;
+
+(c) for prohibiting —
+
+(i) entry into or movement in the waters and waterways of Sentosa by vessels at times of poor visibility due to the weather or other matters; and
+
+(ii) entry into the waters and waterways of Sentosa by a vessel which for any reason would be, or be likely to become, a danger to other vessels in the waterways;
+
+(d) for the movement, berthing or mooring of a vessel;
+
+(e) for the removal of any vessel from the waters and waterways of Sentosa if —
+
+(i) it is on fire;
+
+(ii) it is in a condition where it is liable to be immobilised or waterlogged, or to sink; and
+
+(iii) it is making an unlawful or improper use of the waters and waterways of Sentosa;
+
+(f) requiring the master of a vessel to give to the Marina Superintendent information relating to the vessel reasonably required by the Marina Superintendent in order to effect the objects of this subsection.
+
+(2) Directions given under subsection (1) may apply —
+
+(a) to all vessels or to a class of vessels designated, or the designation of which is provided for, in the direction;
+
+(b) to all or some of the waters and waterways of Sentosa or to the parts of the waters and waterways designated in the direction; and
+
+(c) at all times or at times designated in the direction.
+
+(3) The Corporation may revoke or amend any direction given under this section.
+
+(4) Directions given by the Corporation under this section shall, as soon as practicable after they have been made, be published in theGazette.
+
+[34/1996 wef 01/11/1996]
+
+### Special directions to vessels
+
+18M\. The Marina Superintendent may at any time give a direction to a vessel anywhere in the waters or waterways of Sentosa —
+
+(a) requiring the vessel to comply with the requirement made in or under a general direction;
+
+(b) regulating or requiring the movement, mooring or unmooring of a vessel; and
+
+(c) regulating the manner in which a vessel takes in or discharges fuel, water or ship’s stores.
+
+[34/1996 wef 01/11/1996]
+
+### Master’s responsibility to be unaffected
+
+18N\. The giving of a general or special direction shall not diminish or in any other way affect the responsibility of the master of the vessel to which the direction is given in relation to his vessel, persons on board or any other person or property.
+
+[34/1996 wef 01/11/1996]
+
+### Failure to comply with directions
+
+18O\.—(1) The master of a vessel who fails to comply with a general or special direction shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+(2) It shall be a defence to a person charged with an offence under subsection (1) to prove that he had reasonable ground for supposing that compliance with the direction in question would be likely to imperil his vessel or that in the circumstances compliance was impracticable.
+
+[34/1996 wef 01/11/1996]
+
+### Enforcement of directions
+
+18P\.—(1) Without prejudice to any other remedy available to the Corporation, if a direction is not complied with within a reasonable time, the Marina Superintendent may, where applicable, put persons aboard the vessel to carry out the direction or may otherwise cause the vessel to be handled in accordance with the direction.
+
+(2) If there is no one on board a vessel to attend to a direction, the Marina Superintendent may proceed as if the direction had been given and not complied with.
+
+(3) Expenses incurred by the Corporation in the exercise of the powers conferred by subsection (1) shall be recoverable by the Corporation as if they were a charge of the Corporation in respect of the vessel.
+
+[34/1996 wef 01/11/1996]
 
 ## PART V
 
@@ -274,7 +688,9 @@ GENERAL
 
 ### Advisory and technical committees
 
-20\.—(1) The Corporation may, from time to time, appoint such advisory or technical committees as it thinks fit to advise the Corporation on such matters within the scope of its functions as are referred to them by the Corporation.
+20\.—(1) The Corporation may, from time to time, appoint such advisory, professional or technical committees as it thinks fit to advise the Corporation on such matters within the scope of its functions as are referred to them by the Corporation.
+
+[34/1996 wef 01/11/1996]
 
 (2) Any person may be appointed to be member of any such committee notwithstanding that he is not a member, officer or employee of the Corporation.
 
@@ -282,65 +698,67 @@ GENERAL
 
 21\.—(1) Any contract, which if made between private persons would be required to be in writing under seal, shall if made by the Corporation be in writing under the seal of the Corporation.
 
-(2) Any contract, which if made between private persons would be required to be in writing signed by the parties to be charged therewith, shall if made by the Corporation be either in writing under the seal of the Corporation or in writing signed by the General Manager on behalf of and by direction of the Corporation or signed by any other person on behalf of and pursuant to the authority of the Corporation.
+(2) Any contract, which if made between private persons would be required to be in writing signed by the parties to be charged therewith, shall if made by the Corporation be either in writing under the seal of the Corporation or in writing signed by the Chief Executive on behalf of and by direction of the Corporation or signed by any other person on behalf of and pursuant to the authority of the Corporation.
 
-(3) Any contract, which if made between private persons would be valid although made orally, may be similarly made on behalf of the Corporation by the General Manager acting by direction of the Corporation or by any other person pursuant to the authority of the Corporation but no oral contract may be made involving payment by the Corporation of a sum exceeding $500.
+[34/1996 wef 01/11/1996]
+
+(3) Any contract, which if made between private persons would be valid although made orally, may be similarly made on behalf of the Corporation by the Chief Executive acting by direction of the Corporation or by any other person pursuant to the authority of the Corporation but no oral contract may be made involving payment by the Corporation of a sum exceeding $500.
+
+[34/1996 wef 01/11/1996]
 
 ### Common seal of Corporation
 
 22\.—(1) The fixing of the seal of the Corporation shall be authenticated by the signature of the Chairman or the Deputy Chairman of the Corporation or of some other person authorised either generally or specially by the Corporation to act for that purpose.
 
-(2) Any document purporting to be a document duly executed under the seal of the Corporation shall be received in evidence and shall, unless the contrary is proved, be deemed to be a document so executed.
+[34/1996 wef 01/11/1996]
 
-### Staff pensions and gratuities
+### Composition of offences
 
-23\.—(1) The Corporation shall in the case of such of its officers and employees as the Minister may determine —
+23\.—(1) The Corporation may, in its discretion, compound any offence under this Act or any regulations made thereunder by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500.
 
-(a) pay such pensions or gratuities to or in respect of them as may be so determined;
+(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
-(b) make such payments towards the provisions of such pensions or gratuities as may be so determined; or
+[34/1996 wef 01/11/1996]
 
-(c) establish and maintain such schemes (whether contributory or not) for the payments of such pensions and gratuities as may be so determined.
+### Saving of prosecution under other written law
 
-(2) The following provisions shall apply to any scheme established under this section:
+23A\. Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act, omission, neglect or default which constitutes an offence under this Act or any regulations made thereunder, or from being liable under that other written law to any punishment or penalty, higher or other than that provided by this Act or any regulations made thereunder except that no person shall be punished twice for the same offence.
 
-(a) no assurance on the life of any contributor under any such scheme, and no moneys or other benefits payable under any such assurance, and no payment made under any such scheme to any person who has been employed by the Corporation, shall be assignable or transferable, or liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim whatsoever other than a debt due to the Corporation or to the Government;
-
-(b) no donation by the Corporation or contribution by its officers made under any such scheme and no interest thereon shall be assignable or transferable or liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim whatsoever other than a debt due to the Corporation or to the Government;
-
-(c) no such donation, contribution or interest shall be subject to the debts of the contributor, nor shall such donation, contribution or interest pass to the Official Assignee on the bankruptcy of the contributor, but, if such contributor is adjudicated a bankrupt or is declared insolvent by a court, such donation, contribution or interest shall, subject to the provisions of this Act, be deemed to be subject to a trust in favour of the persons entitled thereto on the death of the contributor;
-
-(d) the bankruptcy of a contributor shall not affect the making of deductions from the salary of the contributor in accordance with any such scheme, but the deductions shall continue to be made notwithstanding the provisions of any written law, and the portion of salary so deducted shall not be deemed to form part of his after-acquired property;
-
-(e) subject to the provisions of any such scheme, all moneys paid or payable under any such scheme on the death of a contributor shall be deemed to be subject to a trust in favour of the persons entitled thereto under the will or intestacy of the deceased contributor, or under a nomination in such form as may be prescribed in such scheme, and shall not be deemed to form part of his estate or be subject to the payment of his debts but shall be deemed to be property passing on his death for the purposes of the Estate Duty Act [Cap. 96];
-
-(f) any contributor may, by a memorandum under his hand, appoint a trustee or trustees of the moneys payable on his death out of any such scheme and may make provision for the appointment of a new trustee or new trustees of such moneys and for the investment thereof; such memorandum shall be in the form prescribed in such scheme and shall be deposited with the Corporation;
-
-(g) if at the time of the death of any contributor or at any time afterwards, there is no trustee of such moneys or it is expedient to appoint a new trustee or new trustees, then and in any such case a trustee or trustees or a new trustee or new trustees may be appointed by the High Court;
-
-(h) the receipt of a trustee or trustees duly appointed, or in default of any such appointment and of written notice thereof to the Corporation, the receipt of the legal personal representative of a deceased contributor shall be a discharge to the Corporation for any moneys payable on his death out of any such scheme.
+[34/1996 wef 01/11/1996]
 
 ### Regulations
 
-24\.—(1) The Minister may, after consulting with the Corporation, make such regulations as he may consider necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof including, without prejudice to the generality of the foregoing, regulations for or with respect to —
+24\.—(1) The Minister may, after consultation with the Corporation, make such regulations as he may consider necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof including, in particular, regulations for or with respect to —
 
-(a) the control and management of lands, buildings and other property acquired by, vested in, or under the control of the Corporation;
+(a) the control, administration and management of lands and other properties vested in, leased to, acquired by, managed or controlled by the Corporation;
 
-(b) the use and enjoyment of those lands, buildings and other property;
+(b) the use and enjoyment of those lands and other properties;
 
-(c) the prevention of trespassing on any of those lands and buildings and the removal of trespassers or other persons causing annoyance or inconvenience upon or in those lands and buildings;
+(c) the prevention of trespassing on any of those lands and other properties and the removal of trespassers or other persons causing annoyance or inconvenience upon or in those lands and other properties;
 
-(d) the preservation and protection of and prevention of damage to animals, birds, fish or other fauna whatsoever and trees and plants of any kind on or in any of those lands; and
+(d) the preservation and protection of and prevention of damage to animals, birds, fish or other fauna whatsoever and trees and plants of any kind on or in any of those lands;
 
-(e) the making of charges or entrance fees for persons using or entering upon those lands or buildings or any specified parts thereof and the collecting and receiving of those charges and fees by the Corporation or by other persons.
+(e) the prescribing and imposition of charges or entrance fees for persons using or entering upon those lands or other properties or any specified parts thereof, the prescribing of any deposit or security as the Corporation considers fit for the payment of such charges or fees and the collection and receipt of such charges and fees by the Corporation or by other persons;
+
+(f) the prohibition, prevention, removal and disposal of any obstruction or impediment thereof in those lands and other property;
+
+(g) the regulation of traffic, movement and parking of vehicles in Sentosa;
+
+(h) the enforcement and regulation of the use of lights, signals and fires by vessels navigating in the waters and waterways of Sentosa;
+
+(i) the supervision, regulation and control of traffic, navigation and mooring of vessels and any other activities carried on within the waters and waterways of Sentosa;
+
+(j) the regulation, maintenance, use and enjoyment of all marina facilities;
+
+(k) the prohibition, prevention, removal or rectification of any pollution of the waters and waterways of Sentosa; and
+
+(l) the collection, receipt, custody, issue, expenditure, due accounting for, care and management of the contributions received under Part IVA.
 
 (2) Such regulations may impose a penalty not exceeding $2,000 for any breach thereof.
 
-(3) All fines recovered under this Act shall be paid into and form part of the general funds of the Corporation.
+(3) All fines recovered under this Act and any regulations made thereunder and moneys received for the composition of offences shall be paid into and form part of the general funds of the Corporation.
 
-[25\*
-
-\*The former section 24 was deleted by Act 35/73.
+[34/1996 wef 01/11/1996]
 
 ### Transfer to Corporation of property, assets and liabilities
 
@@ -374,3 +792,8 @@ This Legislative History is provided for the convenience of users of the Sentosa
 ||Date of commencement|1 September 1973|
 |3.|**1985 Revised Edition—Sentosa Development Corporation Act**|
 ||Date of operation|30 March 1987|
+|4.|**Act 34 of 1996—Sentosa Development Corporation (Amendment) Act 1996**|
+||Date of First Reading|12 July 1996|
+|||(Bill No. 22/96 published on 13 July 1996)|
+||Date of Second and Third Readings|1 October 1996|
+||Date of commencement|1 November 1996|
