@@ -126,7 +126,7 @@ An Act to give effect to the provisions of the Warsaw Convention concerning inte
 
 6\.—(1) It is declared that the limitations on liability in Article 22 in the First, Second and Third Schedules shall apply whatever the nature of the proceedings by which liability may be enforced and that, in particular —
 
-(a) those limitations shall apply where proceedings are brought by a tortfeasor to obtain a contribution from another tortfeasor; and
+(a) [Deleted by 45/98 wef 01/01/1999]
 
 (b) the limitation for each passenger in Article 22(1) in the First, Second and Third Schedules shall apply to the aggregate liability of the carrier in all proceedings which may be brought against him under the law of Singapore, together with any proceedings brought against him outside Singapore.
 
@@ -555,6 +555,8 @@ Additional Protocol
 
 The High Contracting Parties reserve to themselves the right to declare at the time of ratification or of accession that paragraph (1) of Article 2 of this Convention shall not apply to international carriage by air performed directly by the State, its colonies, protectorates or mandated territories or by any other territory under its sovereignty, suzerainty or authority.
 
+[7/99 wef 12/09/1998]
+
 SECOND SCHEDULE
 
 Section 2
@@ -573,7 +575,7 @@ for the Unification of Certain Rules Relating
 
 to International Carriage by Air
 
-Chapter I
+Chapter 1
 
 
 
@@ -910,7 +912,7 @@ Article 40
 
 (3) Any High Contracting Party may denounce this Convention, in accordance with its provisions, separately or for all or any of his colonies, protectorates, territories under mandate or any other territory subject to his sovereignty or to his authority, or any other territory under his suzerainty\.
 
-Article 42
+Article 41
 
 Any High Contracting Party shall be entitled not earlier than two years after the coming into force of this Convention to call for the assembling of a new international Conference in order to consider any improvements which may be made in this Convention. To this end he will communicate with the Government of the French Republic which will take the necessary measures to make preparations for such Conference.
 
@@ -924,7 +926,17 @@ The High Contracting Parties reserve to themselves the right to declare at the t
 
 THIRD SCHEDULE
 
-The Warsaw Convention With the Amendments Made to It by the Hague Protocol and the Montreal Protocol No. 4
+The Warsaw Convention
+
+
+
+
+With the Amendments Made to It by
+
+
+
+
+the Hague Protocol and the Montreal Protocol No. 4
 
 (Words in square brackets in the text are words substituted for or added to the Warsaw Convention, as amended by the Hague Protocol, by Chapter I of the Montreal Protocol No. 4)
 
@@ -933,9 +945,12 @@ Convention
 
 
 
-for the Unification of Certain Rules Relating to International Carriage by Air
+for the Unification of Certain Rules Relating to
 
-Chapter I
+
+
+
+International Carriage by Air
 
 Scope — Definitions
 
@@ -953,7 +968,7 @@ Article 2
 
 [(2) In the carriage of postal items the carrier shall be liable only to the relevant postal administration in accordance with the rules applicable to the relationship between the carriers and the postal administrations.
 
-(3) Except as provided in paragraph (2) of this Article, the provisions of this Convention shall not apply to the carriage of postal items\.]
+(3) Except as provided in paragraph (2) of this Article, the provisions of this Convention shall not apply to the carriage of postal items.]
 
 Chapter II
 
@@ -973,7 +988,7 @@ Article 3
 
 (2) The passenger ticket shall constituteprima facieevidence of the conclusion and conditions of the contract of carriage\. The absence, irregularity or loss of the passenger ticket does not affect the existence or the validity of the contract of carriage which shall, nonetheless, be subject to the rules of this Convention. Nevertheless, if, with the consent of the carrier, the passenger embarks without a passenger ticket having been delivered, or if the ticket does not include the notice required by paragraph (1) (c) of this Article, the carrier shall not be entitled to avail himself of the provisions of Article 22.
 
-Section 2 - Baggage Check
+Section 2 — Baggage Check
 
 Article 4
 
@@ -1011,29 +1026,19 @@ Article 7
 
 When there is more than one package:
 
-(a)
+(a) the carrier of cargo has the right to require the consignor to make out separate air waybills;
 
-the carrier of cargo has the right to require the consignor to make out separate air waybills;
-
-(b)
-
-the consignor has the right to require the carrier to deliver separate receipts when the other means referred to in paragraph (2) of Article 5 are used.
+(b) the consignor has the right to require the carrier to deliver separate receipts when the other means referred to in paragraph (2) of Article 5 are used.
 
 Article 8
 
 The air way bill and the receipt for the cargo shall contain:
 
-(a)
+(a) an indication of the places of departure and destination;
 
-an indication of the places of departure and destination;
+(b) if the places of departure and destination are within the territory of a single High Contracting Party, one or more agreed stopping places being within the territory of another State, an indication of at least one such stopping place; and
 
-(b)
-
-if the places of departure and destination are within the territory of a single High Contracting Party, one or more agreed stopping places being within the territory of another State, an indication of at least one such stopping place; and
-
-(c)
-
-an indication of the weight of the consignment.
+(c) an indication of the weight of the consignment.
 
 Article 9
 
@@ -1209,7 +1214,7 @@ Article 30
 
 Nothing in this Convention shall prejudice the question whether a person liable for damage in accordance with its provisions has a right of recourse against any other person.]
 
-Chapter Chapter Iv
+Chapter Iv
 
 Provisions Relating to Combined Carriage
 
@@ -1219,7 +1224,7 @@ Article 31
 
 (2) Nothing in this Convention shall prevent the parties in the case of combined carriage from inserting in the document of air carriage conditions relating to other modes of carriage, provided that the provisions of this Convention are observed as regards the carriage by air\.
 
-Chapter Chapter V
+Chapter V
 
 General and Final Provisions
 
@@ -1315,3 +1320,9 @@ This Legislative History is provided for the convenience of users of the Carriag
 |||(Bill No. 5/1999 published on 21 January 1999)|
 ||Date of Second and Third Readings|11 February 1999|
 ||Date of commencement|12 September 1998|
+|4.|**Act 45 of 1998—Civil Law (Amendment) Act 1998**|
+||(Consequential amendments made by)||
+||Date of First Reading|12 October 1998|
+|||(Bill No. 41/1998 published on 13 October 1998)|
+||Date of Second and Third Readings|26 November 1998|
+||Date of commencement|1 January 1999|
