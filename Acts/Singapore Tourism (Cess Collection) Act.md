@@ -338,33 +338,33 @@ Section 5.
 
 Rate of cess leviable
 
+1. The rate of cess leviable under this Act shall be as follows:
+
 (a)
 
 For every room or suite occupied each day in every tourist hotel
 
-...
+…
 
-4% of the charge for the room or suite subject to a minimum of $1 per day.
+1% of the charge for the room or suite subject to a minimum of $1 per day.
 
 (b)
 
 For every tourist food establishment
 
-...
+…
 
-4% of the total of all sales and charges in respect of which cess is payable.
+1% of the total of all sales and charges in respect of which cess is payable.
 
 (c)
 
 For every tourist public house
 
-...
+…
 
-4% of the total of all sales and charges in respect of which cess is payable.
+1% of the total of all sales and charges in respect of which cess is payable.
 
-For the purposes of calculating the cess payable under paragraphs (b) and (c), fractions of a cent shall be ignored.
-
-The minimum amount of cess payable under each receipt shall be 5 cents and thereafter in multiples of 5 cents rounded off to the next higher multiple of 5 cents.
+2. In computing the amount of cess payable under each receipt, any fraction of a cent shall be rounded off to the nearest cent.
 
 [S 51/78; S 153/78]
 
@@ -373,6 +373,8 @@ The minimum amount of cess payable under each receipt shall be 5 cents and there
 [S 111/1991 wef 01/04/1991]
 
 [S 82/1992 wef 01/04/1992]
+
+[S 98/1994 wef 01/04/1994]
 
 SECOND SCHEDULE
 
@@ -435,3 +437,5 @@ This Legislative History is provided for the convenience of users of the Tourist
 ||Date Committed to Select Committee|Parl 4 of 1993 presented to Parliament on 7 September 1993|
 ||Date of Third Reading|12 October 1993|
 ||Date of commencement|26 November 1993 (except para (3) of Fifth Schedule)|
+|9.|**G. N. No. S 98/1994—Tourist Promotion (Cess Collection) Act (Variation) Order 1994**|
+||Date of commencement|1 April 1994|
