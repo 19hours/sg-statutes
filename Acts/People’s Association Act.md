@@ -32,6 +32,8 @@
 
 - [13 Bank accounts and application of funds](#Bank-accounts-and-application-of-funds)
 
+- [13A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [14 Accounts and audit](#Accounts-and-audit)
 
 - [15 Association’s symbol](#Association’s-symbol)
@@ -277,6 +279,12 @@ for anything which is in good faith done or intended to be done in the execution
 (4) The Board may, from time to time, invest any of the funds of the Association not immediately required for carrying out the objects of the Association in such securities which trustees may by any written law for the time being in force be authorised to invest trust moneys in.
 
 [12
+
+### Issue of shares, etc.
+
+13A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Association under this Act, or of any capital injection or other investment by the Government in the Association in accordance with any written law, the Association shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Accounts and audit
 
@@ -674,6 +682,12 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|19 December 2000|
 |47.|**G.N. No. S 234/2001—People’s Association Act (Amendment of First Schedule) Notification 2001**|
 ||Date of commencement|26 April 2001|
+|48.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002 (except item (18) of the Schedule)|
 ## COMPARATIVE TABLE
 
 People’s Association Act
