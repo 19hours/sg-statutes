@@ -96,7 +96,9 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Board” means the Singapore Productivity and Standards Board established under the Singapore Productivity and Standards Board Act (Cap. 303A);
+“Board” means the Standards, Productivity and Innovation Board established under section 3 of the Standards, Productivity and Innovation Board Act (Cap. 303A);
+
+[18/2002 wef 01/04/2002]
 
 “employee”, in relation to a month, means an employee rendering in that month services wholly or partly in Singapore and an employee who is on leave during that month where such leave is attributable to services rendered wholly or partly in Singapore in any previous month, but does not include any domestic servant, gardener or chauffeur, wholly and exclusively employed by an individual otherwise than in connection with his trade, business, profession or vocation;
 
@@ -118,7 +120,7 @@ SKILLS DEVELOPMENT LEVY
 
 3\.—(1) Subject to the provisions of this Act, there shall be imposed on every employer a skills development levy in respect of each of his employees at the rate of 1% of the remuneration in any month of that employee or $2, whichever is the greater.
 
-[S 196/80; S 83/85; S 74/86]
+[S 196/80; S83/85; S74/86]
 
 (2) The levy shall be collected and paid in respect of the month of October 1979 and every subsequent month.
 
@@ -576,3 +578,9 @@ This Legislative History is provided for the convenience of users of the Skills 
 ||Date of commencement|1 November 1996|
 |10.|**1998 Revised Edition—Skills Development Levy Act (Chapter 306)**|
 ||Date of operation|30 May 1998|
+|11.|**Act 18 of 2002—Singapore Productivity and Standards Board (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|14 May 2002|
+|||(Bill No. 15/2002 published on 15 May 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|1 April 2002|
