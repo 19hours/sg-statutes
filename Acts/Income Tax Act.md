@@ -196,6 +196,8 @@
 
 - [36 Partnership](#Partnership)
 
+- [36B Registered business trusts](#Registered-business-trusts)
+
 [**Part IX ASCERTAINMENT OF ASSESSABLE INCOME**](#Part-IX)
 
 - [37 Assessable income](#Assessable-income)
@@ -1050,7 +1052,9 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (ix) an insurer registered or regulated under the Insurance Act (Cap. 142) or exempted under that Act from being registered or regulated; or
 
-(x) a trust company registered under the Trust Companies Act (Cap. 336);
+(x) a trust company licensed under the Trust Companies Act 2005;
+
+[11/2005 wef 01/02/2006]
 
 (d) rents and any other income derived from any immovable property situated outside Singapore and received in Singapore on or after 27th February 2004;
 
@@ -1482,7 +1486,7 @@ where
 
 A is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
 
-N is the number of remaining shares in the company held by the shareholder after the buyback of his shares
+N is the number of remaining shares in the company held by the shareholder after the buyback of his shares.
 
 [32/99]
 
@@ -2027,7 +2031,7 @@ except for any payment attributable to the carriage of passengers, mails, livest
 
 (za) any dividends accrued in or derived from Singapore on or after 1st January 2003 paid by any company from which tax is not deductible and not deducted under section 44.
 
-[Act 21/2003; 37/2002 wef 10/12/2002]
+[Act 37/2002; Act 21/2003 wef 01/04/2003]
 
 (2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 27th February 2003where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
 
@@ -2065,23 +2069,19 @@ except for any payment attributable to the carriage of passengers, mails, livest
 
 (b) the gains or profits of public entertainers, as defined in section 40A, whose visits are not substantially supported from public funds of the government of another country.
 
-(8) The Minister may by order —
+### Income received from outside Singapore
 
-(a) exempt from tax wholly or in part; or
+(8) The Minister may by order exempt from tax wholly or in part the income received by a person resident in Singapore from such sources in any country outside Singapore as may be specified in the order.
 
-(b) provide that tax at such concessionary rate of tax be levied and paid on,
+[9/80; 15/83]
 
-the income received by a person resident in Singapore from such source in any country outside Singapore as may be specified in the order.
-
-[Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
-
-(9) Any order made under subsection (8) may be either general or specific and may prescribe the conditions subject to which the income will be exempt from tax or be taxed at a concessionary rate of tax but such conditions need not be included in the order for the purpose of publication in theGazette.
+(9) Any order made under subsection (8) may be either general or specific and may prescribe the conditions subject to which the income will be exempt from taxbut such conditions need not be included in the order for the purpose of publication in theGazette.
 
 [9/80]
 
-(10) Where any income is exempt from tax or is taxed at a concessionary rate of tax by virtue of an order made under subsection (8) and the income is received by a company which is resident in Singapore —
+(10) Where any income is exempt from taxby virtue of an order made under subsection (8) and the income is received by a company which is resident in Singapore —
 
-(a) an amount equal to the income exempt from tax or an amount equal to the net income after deduction of tax levied at the concessionary rate of tax, as the case may be, shall be credited to an account to be kept by the company for the purpose of this subsection; and
+(a) an amount equal to the incomeshall be credited to an account to be kept by the company for the purpose of this subsection; and
 
 (b) subsections (3) to (10), (12) and (13) of section 13E shall apply, with the necessary modifications, to the company in respect of a distribution of dividends from the income as if the company were a company referred to in section 13E(3).
 
@@ -5297,6 +5297,60 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 (2) This section shall not be deemed to apply to any trade, business, profession or vocation carried on by a Hindu joint family.
 
+### Registered business trusts
+
+36B\.—(1) For the purposes of this Act, except as otherwise provided, references to a company shall be read as including a reference to a registered business trust or, as the context requires, to the trustee-manager of a registered business trust subject to the following modifications:
+
+(a) sections 23 and 37 shall apply to a registered business trust except that —
+
+(i) any reference to the shareholders of a company shall be read as a reference to the unitholders of a registered business trust;
+
+(ii) the unitholders of a registered business trust at any date shall not be deemed to be substantially the same as the unitholders at any other date unless, on both those dates —
+
+(A) the same unitholders are entitled to not less than 50% of any residual profits of the registered business trust available for distribution; and
+
+(B) the same unitholders are entitled to not less than 50% of any residual assets of the registered business trust available for distribution on winding up;
+
+(iii) units in a registered business trust held by or on behalf of a company shall be deemed to be held by the shareholders of the company; and
+
+(iv) units held by or on behalf of the trustee of the estate of a deceased unitholder or by or on behalf of the person entitled to those units as beneficiaries under the will or any intestacy of a deceased unitholder shall be deemed to be held by that deceased unitholder;
+
+(b) for the purpose of section 24(1) —
+
+(i) a body of persons shall be deemed to have control over a registered business trust if —
+
+(A) the body of persons is a company and it holds more than 50% of the units in the registered business trust; or
+
+(B) the body of persons is another registered business trust and they hold on trust for their unitholders more than 50% of the units in the first mentioned registered business trust;
+
+(ii) a registered business trust shall be deemed to have control over a company if —
+
+(A) the trustee-manager of the registered business trust holds on trust for its unitholders more than 50% of the total number of issued shares of the company; or
+
+(B) the unitholders of the registered business trust hold more than 50% of the total number of issued shares of the company;
+
+(c) for the purpose of section 37C —
+
+(i) a registered business trust shall be deemed to be a Singapore company if —
+
+(A) the registered business trust is established in Singapore; and
+
+(B) the trust deed of the registered business trust is executed in Singapore and is governed by Singapore law;
+
+(ii) any reference to ordinary share or ordinary share capital in a company shall be read as a reference to the units in a registered business trust; and
+
+(iii) any reference to residual assets or residual profits in a company shall be read as a reference to the residual assets and residual profits of a registered business trust; and
+
+(d) sections 10I, 10J, 10K and 10M shall not apply to a registered business trust.
+
+(2) The statutory income of a registered business trust shall be computed in accordance with section 35(11).
+
+(3) Sections 35(15), 43(2) and 46(1)(b) shall not apply to any registered business trust or unitholders of any registered business trust.
+
+(4) In this section, “business trust”, “registered business trust”, “trustee-manager”, “unit” and “unitholder” have the same meanings as in the Business Trusts Act (Cap. 31A).
+
+[34/2005 wef 21/09/2004]
+
 ## PART IX
 
 ASCERTAINMENT OF ASSESSABLE INCOME
@@ -6321,7 +6375,7 @@ where
 
 A is the tax chargeable on the chargeable income of the person for the year of assessment calculated in accordance with section 43(6) as if the person is a company; and
 
-B is the chargeable income of the person for the year of assessment.
+B is the chargeable income of the person for the year of assessment
 
 (6) There shall be levied and paid for each year of assessment upon the following income derived by a body of persons at the rate of 10%:
 
@@ -10182,6 +10236,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 58/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|17 November 2004|
 ||Date of commencement|1 July 2004 (Section 13)|
+|184.|**Act 34 of 2005—Income Tax (Amendment) Act 2005**|
+||Date of First Reading|19 September 2005|
+|||(Bill No. 27/2005 published on 20 September 2005)|
+||Date of Second and Third Readings|18 October 2005|
+||Date of commencement|21 September 2004 (Sections 10(f), 21)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
