@@ -1,16 +1,14 @@
-**Hazardous Waste (Control of Export, Import and Transit) Act 1997**
+**Hazardous Waste (Control of Export, Import and Transit) Act**
 
-**(No. 13 of 1997)**
+**(CHAPTER 122A)**
 
 **Table of Contents**
 
 [**Long Title**](#Hazardous-Waste-Control-of-Export-Import-and-Transit-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -38,13 +36,13 @@
 
 - [14 Other written laws not affected](#Other-written-laws-not-affected)
 
-[**Part II ADMINISTRATION**](#Part-II)
+[**Part II Administration**](#Part-II)
 
 - [15 Appointment of Director, Deputy Director and Assistant Directors of Hazardous Waste](#Appointment-of-Director-Deputy-Director-and-Assistant-Directors-of-Hazardous-Waste)
 
 - [16 Appointment of authorised officers](#Appointment-of-authorised-officers)
 
-[**Part III IMPORT, EXPORT AND TRANSIT PERMITS**](#Part-III)
+[**Part III Import, Export and Transit Permits**](#Part-III)
 
 - [17 Regulations to give effect to Basel Convention](#Regulations-to-give-effect-to-Basel-Convention)
 
@@ -62,7 +60,7 @@
 
 - [24 Applications and notices to be accompanied by fees](#Applications-and-notices-to-be-accompanied-by-fees)
 
-[**Part IV REGULATION OF IMPORT, EXPORT AND TRANSIT OF HAZARDOUS AND OTHER WASTES**](#Part-IV)
+[**Part IV Regulation of Import, Export and Transit of Hazardous and Other Wastes**](#Part-IV)
 
 - [25 Prohibition of import](#Prohibition-of-import)
 
@@ -70,7 +68,7 @@
 
 - [27 Prohibition of bringing waste into Singapore in course of carrying out transit proposal](#Prohibition-of-bringing-waste-into-Singapore-in-course-of-carrying-out-transit-proposal)
 
-[**Part V ENFORCEMENT**](#Part-V)
+[**Part V Enforcement**](#Part-V)
 
 - [28 Injunctions](#Injunctions)
 
@@ -94,7 +92,7 @@
 
 - [38 Part does not limit power to impose permit conditions](#Part-does-not-limit-power-to-impose-permit-conditions)
 
-[**Part VI MISCELLANEOUS**](#Part-VI)
+[**Part VI Miscellaneous**](#Part-VI)
 
 - [39 Evidentiary certificate — classification of hazardous or other waste](#Evidentiary-certificate-—-classification-of-hazardous-or-other-waste)
 
@@ -116,55 +114,42 @@
 
 - [48 Regulations](#Regulations)
 
-[**THE SCHEDULE Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal**](#THE-SCHEDULE)
+[**THE SCHEDULE Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Hazardous Waste (Control of
 
-ACTS SUPPLEMENT
+# 
 
-Published by Authority
 
-NO. 13]
+# Export, Import and Transit) Act
 
-Friday, December 26
+(CHAPTER 122A)
 
-[1997
+(Original Enactment: Act 13 of 1997)
 
-The following Act was passed by Parliament on 19th November 1997 and assented to by the President on 1st December 1997:—
+REVISED EDITION 1998
 
-Hazardous Waste (Control of Export, Import and Transit) Act 1997
-
-(No. 13 of 1997)
-
-I assent.
-
-ONG TENG CHEONG
-
-President
-
-1st December 1997.
-
-Date of Commencement: 16th March 1998
+(30th May 1998)
 
 An Act to provide for the regulation of the export, import and transit of hazardous and other wastes, and for related purposes.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[16th March 1998]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Hazardous Waste (Control of Export, Import and Transit) Act 1997 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Hazardous Waste (Control of Export, Import and Transit) Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“Antarctica” means the area south of 60° South Latitude, including all ice shelves in that area;
+“Antarctica” means the area south of 60º South Latitude, including all ice shelves in that area;
 
 “Article 11 arrangement” has the meaning given to it by section 7;
 
@@ -324,7 +309,7 @@ the territory is taken to be a party to the Basel Convention.
 
 a person or an organisation that officially represents the territory is taken to be a competent authority of the territory.
 
-(3) Subsection (2) has effect despite anything in the definition of “competent authority” in section 2(1).
+(3) Subsection (2) has effect despite anything in the definition of "competent authority" in section 2(1).
 
 ### Meaning of hazardous and other wastes
 
@@ -384,7 +369,7 @@ the Minister shall, by notification in theGazette, declare that that waste is ha
 
 (a) to bring hazardous or other waste into Singapore for the purpose of being carried to a foreign country either by the same or another conveyance; and
 
-(b) if the waste is brought into Singapore by sea or air, the carriage is on a through bill of lading or through air waybill,
+(b) if the waste is brought into Singapore by sea or air, the carriage is on a through bill of lading or through airway bill,
 
 is a transit proposal so long as it is not proposed to dispose of the waste in Singapore.
 
@@ -474,11 +459,11 @@ the holder of the permit is taken to have breached that condition at the end of 
 
 ### Other written laws not affected
 
-14\. This Act is in addition to, and not in derogation of or substitution for, any other written law, whether enacted before or after the commencement of this Act.
+14\. This Act is in addition to, and not in derogation of or substitution for, any other written law, whether enacted before or after 16th March 1998.
 
 ## PART II
 
-ADMINISTRATION
+Administration
 
 ### Appointment of Director, Deputy Director and Assistant Directors of Hazardous Waste
 
@@ -506,7 +491,7 @@ for the purposes of this Act.
 
 ## PART III
 
-IMPORT, EXPORT AND TRANSIT PERMITS
+Import, Export and Transit Permits
 
 ### Regulations to give effect to Basel Convention
 
@@ -702,7 +687,12 @@ the Director shall not grant the permit unless he is satisfied that the correspo
 
 ## PART IV
 
-REGULATION OF IMPORT, EXPORT AND TRANSIT OF HAZARDOUS AND OTHER WASTES
+Regulation of Import, Export and Transit of
+
+
+
+
+Hazardous and Other Wastes
 
 ### Prohibition of import
 
@@ -768,7 +758,7 @@ REGULATION OF IMPORT, EXPORT AND TRANSIT OF HAZARDOUS AND OTHER WASTES
 
 ## PART V
 
-ENFORCEMENT
+Enforcement
 
 ### Injunctions
 
@@ -996,7 +986,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VI
 
-MISCELLANEOUS
+Miscellaneous
 
 ### Evidentiary certificate — classification of hazardous or other waste
 
@@ -1122,9 +1112,16 @@ MISCELLANEOUS
 
 Sections 2 and 48(3)
 
-Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and Their Disposal
+Basel Convention on the Control of Transboundary
 
-Note:The following text incorporates corrections made by the Rectifications of 4 November 1992 and 16 May 1994.
+
+
+
+Movements of Hazardous Wastes and their Disposal
+
+Note: The following text incorporates corrections made by the Rectifications of 4 November 1992 and 16 May 1994.
+
+Preamble
 
 The Parties to this Convention,
 
@@ -1160,7 +1157,7 @@ Affirmingthat States are responsible for the fulfilment of their international o
 
 Recognizingthat in the case of a material breach of the provisions of this Convention or any protocol thereto the relevant international law of treaties shall apply,
 
-Awareof the need to continue the development and implementation of environmentally sound low-waste technologies, recycling options, good housekeeping and management systems with a view to reducing to a minimum the generation of hazardous wastes and other wastes,
+Awareof the need to continue the development and implementation of environmentally sound low-waste technologies, recycling options, good house- keeping and management systems with a view to reducing to a minimum the generation of hazardous wastes and other wastes,
 
 Aware alsoof the growing international concern about the need for stringent control of transboundary movement of hazardous wastes and other wastes, and of the need as far as possible to reduce such movement to a minimum,
 
@@ -1244,7 +1241,7 @@ For the purposes of this Convention:
 
 Article 3
 
-National Definitions of Hazardous Wastes
+National Definations of Hazardous Wastes
 
 1\. Each Party shall, within six months of becoming a Party to this Convention, inform the Secretariat of the Convention of the wastes, other than those listed in Annexes I and II, considered or defined as hazardous under its national legislation and of any requirements concerning transboundary movement procedures applicable to such wastes.
 
@@ -1428,7 +1425,7 @@ International Co-operation
 
 3\. The Parties shall employ appropriate means to co-operate in order to assist developing countries in the implementation of subparagraphs (a), (b), (c) and (d) of paragraph 2 of Article 4.
 
-4\. Taking into account the needs of developing countries, co-operation between Parties and the competent international organizations is encouraged to promote,inter alia, public awareness, the development of sound management of hazardous wastes and other wastes and the adoption of new low-waste technologies.
+4\. Taking into account the needs of developing countries, co-operation between Parties and the competent international organizations is encouraged to promote, inter alia, public awareness, the development of sound management of hazardous wastes and other wastes and the adoption of new low-waste technologies.
 
 Article 11
 
@@ -1550,47 +1547,27 @@ Secretariat
 
 (g) To receive and convey information from and to Parties on;
 
-—
+— sources of technical assistance and training;
 
-sources of technical assistance and training;
+— available technical and scientific know-how;
 
-—
+— sources of advice and expertise; and
 
-available technical and scientific know-how;
-
-—
-
-sources of advice and expertise; and
-
-—
-
-availability of resources
+— availability of resources
 
 with a view to assisting them, upon request, in such areas as:
 
-—
+— the handling of the notification system of this Convention;
 
-the handling of the notification system of this Convention;
+— the management of hazardous wastes and other wastes;
 
-—
+— environmentally sound technologies relating to hazardous wastes and other wastes, such as low - and non-waste technology;
 
-the management of hazardous wastes and other wastes;
+— the assessment of disposal capabilities and sites;
 
-—
+— the monitoring of hazardous wastes and other wastes; and
 
-environmentally sound technologies relating to hazardous wastes and other wastes, such as low - and non-waste technology;
-
-—
-
-the assessment of disposal capabilities and sites;
-
-—
-
-the monitoring of hazardous wastes and other wastes; and
-
-—
-
-emergency responses;
+— emergency responses;
 
 (h) To provide Parties, upon request, with information on consultants or consulting firms having the necessary technical competence in the field, which can assist them to examine a notification for a transboundary movement, the concurrence of a shipment of hazardous wastes or other wastes with the relevant notification, and/or the fact that the proposed disposal facilities for hazardous wastes or other wastes are environmentally sound, when they have reason to believe that the wastes in question will not be managed in an environmentally sound manner. Any such examination would not be at the expense of the Secretariat;
 
@@ -1668,7 +1645,7 @@ This Convention shall be open for signature by States, by Namibia, represented b
 
 Article 22
 
-Ratification, Acceptance, Formal Confirmation or Approval
+Ractification, Acceptance, Formal Confirmation or Approval
 
 1\. This Convention shall be subject to ratification, acceptance or approval by States and by Namibia, represented by the United Nations Council for Namibia, and to formal confirmation or approval by political and/or economic integration organizations. Instruments of ratification, acceptance, formal confirmation, or approval shall be deposited with the Depositary.
 
@@ -1738,7 +1715,7 @@ DONE at Basel on the 22nd day of March 1989.
 
 Annex I
 
-CATEGORIES OF WASTES TO BE CONTROLLED
+Categories of Wastes to be Controlled
 
 Waste Streams
 
@@ -1926,7 +1903,12 @@ Organohalogen compounds other than substances referred to in this Annex (eg. Y39
 
 Annex II
 
-CATEGORIES OF WASTES REQUIRING SPECIAL CONSIDERATION
+Catergories of Wastes Requiring
+
+
+
+
+Special Consideration
 
 Y46
 
@@ -1938,11 +1920,9 @@ Residues arising from the incineration of household wastes
 
 Annex III
 
-LIST OF HAZARDOUS CHARACTERISTICS
+List of Hazardous Characteristics
 
-UN Class1
-
-1Corresponds to the hazard classification system included in the United Nations Recommendations on the Transport of Dangerous Goods (ST/SG/AC. 10/1/Rev.5, United Nations, New York, 1988).
+UN Class*
 
 Code
 
@@ -1962,7 +1942,7 @@ H 3
 
 Flammable liquids
 
-The word “flammable” has the same meaning as “inflammable”. Flammable liquids are liquids, or mixtures of liquids, or liquids containing solids in solution or suspension (for example, paints, varnishes, lacquers, etc, but not including substances or wastes otherwise classified on account of their dangerous characteristics) which give off a flammable vapour at temperatures of not more than 60.5°C, closed-cup, test, or not more than 65.6°C, open-cup test. (Since the results of open-cup tests and of closed-cup tests are not strictly comparable and even individual results by the same test are often variable, regulations varying from the above figures to make allowance for such differences would be within the spirit of this definition.)
+The word “flammable” has the same meaning as “inflammable”. Flammable liquids are liquids, or mixtures of liquids, or liquids containing solids in solution or suspension (for example, paints, varnishes, lacquers, etc, but not including substances or wastes otherwise classified on account of their dangerous characteristics) which give off a flammable vapour at temperatures of not more than 60.5ºC, closed-cup, test, or not more than 65.6ºC, open-cup test. (Since the results of open-cup tests and of closed-cup tests are not strictly comparable and even individual results by the same test are often variable, regulations varying from the above figures to make allowance for such differences would be within the spirit of this definition.)
 
 4.1
 
@@ -2058,15 +2038,19 @@ H13
 
 Capable, by any means, after disposal, of yielding another material, e.g., leachate, which possesses any of the characteristics listed above.
 
+* Corresponds to the hazard classification system included in the United Nations Recommendations on the Transport of Dangerous Goods (ST/SG/AC.10/1/Rev.5, United Nations, New York, 1988).
+
 Tests
 
 The potential hazards posed by certain types of wastes are not yet fully documented; tests to define quantitatively these hazards do not exist. Further research is necessary in order to develop means to characterise potential hazards posed to man and/or the environment by these wastes. Standardized tests have been derived with respect to pure substances and materials. Many countries have developed national tests which can be applied to materials listed in Annex I, in order to decide if these materials exhibit any of the characteristics listed in this Annex.
 
 Annex IV
 
-DISPOSAL OPERATIONS
+Disposal Operations
 
-A. OPERATIONS WHICH DO NOT LEAD TO THE POSSIBILITY OF RESOURCE RECOVERY, RECYCLING, RECLAMATION, DIRECT RE-USE OR ALTERNATIVE USES
+A.
+
+OPERATIONS WHICH DO NOT LEAD TO THE POSSIBILITY OF RESOURCE RECOVERY, RECYCLING, RECLAMATION, DIRECT RE-USE OR ALTERNATIVE USES
 
 Section A encompasses all such disposal operations which occur in practice.
 
@@ -2130,7 +2114,9 @@ D15
 
 Storage pending any of the operations in Section A
 
-B. OPERATIONS WHICH MAY LEAD TO RESOURCE RECOVERY, RECYCLING, RECLAMATION, DIRECT RE-USE OR ALTERNATIVE USES
+B.
+
+OPERATIONS WHICH MAY LEAD TO RESOURCE RECOVERY, RECYCLING, RECLAMATION, DIRECT RE-USE OR ALTERNATIVE USES
 
 Section B encompasses all such operations with respect to materials legally defined as or considered to be hazardous wastes and which otherwise would have been destined for operations included in Section A
 
@@ -2176,7 +2162,7 @@ Land treatment resulting in benefit to agriculture or ecological improvement
 
 R11
 
-Uses of residual materials obtained from any of the operations numbered R1 — R10
+Uses of residual materials obtained from any of the operations numbered R1
 
 R12
 
@@ -2188,123 +2174,185 @@ Accumulation of material intended for any operation in Section B.
 
 Annex VA
 
-INFORMATION TO BE PROVIDED ON NOTIFICATION
+Information to be Provided on Notification
 
-1\. Reason for waste export
+1.
 
-2. Exporter of the waste2
+Reason for waste export
 
-2Full name and address, telephone, telex or telefax number and the name, address, telephone, telex or telefax number of the person to be contacted.
+2.
 
-3. Generator(s) of the waste and site of generation3
+Exporter of the waste1
 
-3Full name and address, telephone, telex or telefax number and the name, address, telephone, telex or telefax number of the person to be contacted.
+3.
 
-4. Disposer of the waste and actual site of disposal4
+Generator(s) of the waste and site of generation1
 
-4Full name and address, telephone, telex or telefax number and the name, address, telephone, telex or telefax number of the person to be contacted.
+4.
 
-5. Intended carrier(s) of the waste or their agents, if known5
+Disposer of the waste and actual site of disposal1
 
-5Full name and address, telephone, telex or telefax number and the name, address, telephone, telex or telefax number of the person to be contacted.
+5.
 
-6. Country of export of the waste Competent authority6
+Intended carrier(s) of the waste or their agents, if known1
 
-62. Full name and address, telephone, telex or telefax number.
+6.
 
-7. Expected countries of transit
+Country of export of the waste
+Competent authority2
 
-7Competent authority
+7.
 
-7Full name and address, telephone, telex or telefax number.
+Expected countries of transit
+Competent authority2
 
-8. Country of import of the waste
+8.
 
-8Competent authority
+Country of import of the waste
+Competent authority2
 
-8Full name and address, telephone, telex or telefax number.
+9.
 
-9\. General or single notification
+General or single notification
 
-10. Projected date(s) of shipment(s) and period of time over which waste is to be exported and proposed itinerary (including point of entry and exit)9
+10.
 
-9In the case of a general notification covering several shipments, either the expected dates of each shipment or, if this is not known, the expected frequency of the shipments will be required.
+Projected date(s) of shipment(s) and period of time over which waste is to be exported and proposed itinerary (including point of entry and exit)3
 
-11\. Means of transport envisaged (road, rail, sea, air, inland waters)
+11.
 
-12. Information relating to insurance10
+Means of transport envisaged (road, rail, sea, air, inland waters)
 
-10Information to be provided on relevant insurance requirements and how they are met by exporter, carrier and disposer.
+12.
 
-13. Designation and physical description of the waste including Y number and UN number and its composition11and information on any special handling requirements including emergency provisions in case of accidents
+Information relating to insurance4
 
-11The nature and the concentration of the most hazardous components, in terms of toxicity and other dangers presented by the waste both in handling and in relation to the proposed disposal method.
+13.
 
-14\. Type of packaging envisaged (e.g. bulk, drummed, tanker)
+Designation and physical description of the waste including Y number and UN number and its composition5and information on any special handling requirements including emergency provisions in case of accidents
 
-15. Estimated quantity in weight/volume12
+14.
 
-12In the case of a general notification covering several shipments, both the estimated total quantity and the estimated quantities for each individual shipment will be required.
+Type of packaging envisaged (e.g. bulk, drummed, tanker)
 
-16. Process by which the waste is generated13
+15.
 
-13Insofar as this is necessary to assess the hazard and determine the appropriateness of the proposed disposal operation.
+Estimated quantity in weight/volume6
 
-17\. For wastes listed in Annex I, classifications from Annex III: hazardous characteristic, H number, and UN class
+16.
 
-18\. Method of disposal as per Annex IV
+Process by which the waste is generated7
 
-19\. Declaration by the generator and exporter that the information is correct
+17.
 
-20\. Information transmitted (including technical description of the plant) to the exporter or generator from the disposer of the waste upon which the latter has based his assessment that there was no reason to believe that the wastes will not be managed in an environmentally sound manner in accordance with the laws and regulations of the country of import
+For wastes listed in Annex I, classifications from Annex III: hazardous characteristic, H number, and UN class
 
-21\. Information concerning the contract between the exporter and disposer.
+18.
+
+Method of disposal as per Annex IV
+
+19.
+
+Declaration by the generator and exporter that the information is correct
+
+20.
+
+Information transmitted (including technical description of the plant) to the exporter or generator from the disposer of the waste upon which the latter has based his assessment that there was no reason to believe that the wastes will not be managed in an environmentally sound manner in accordance with the laws and regulations of the country of import
+
+21.
+
+Information concerning the contract between the exporter and disposer.
+
+Notes
+
+1\. Full name and address, telephone, telex or telefax number and the name, address, telephone, telex or telefax number of the person to be contacted.
+
+2\. Full name and address, telephone, telex or telefax number.
+
+3\. In the case of a general notification covering several shipments, either the expected dates of each shipment or, if this is not known, the expected frequency of the shipments will be required.
+
+4\. Information to be provided on relevant insurance requirements and how they are met by exporter, carrier and disposer.
+
+5\. The nature and the concentration of the most hazardous components, in terms of toxicity and other dangers presented by the waste both in handling and in relation to the proposed disposal method.
+
+6\. In the case of a general notification covering several shipments, both the estimated total quantity and the estimated quantities for each individual shipment will be required.
+
+7\. Insofar as this is necessary to assess the hazard and determine the appropriateness of the proposed disposal operation.
 
 Annex VB
 
-INFORMATION TO BE PROVIDED ON THE MOVEMENT DOCUMENT
+Information to be Provided on the
 
-1. Exporter of the waste14
 
-14Full name and address, telephone, telex or telefax number and the name, address, telephone, telex or telefax number of the person to be contacted in case of emergency.
 
-2. Generator(s) of the waste and site of generation15
 
-15Full name and address, telephone, telex or telefax number and the name, address, telephone, telex or telefax number of the person to be contacted in case of emergency.
+Movement Document
 
-3. Disposer of the waste and actual site of disposal16
+1.
 
-16Full name and address, telephone, telex or telefax number and the name, address, telephone, telex or telefax number of the person to be contacted in case of emergency.
+Exporter of the waste1
 
-4. Carrier(s) of the waste17or his agent(s)
+2.
 
-17Full name and address, telephone, telex or telefax number and the name, address, telephone, telex or telefax number of the person to be contacted in case of emergency.
+Generator(s) of the waste and site of generation1
 
-5\. Subject of general or single notification
+3.
 
-6\. The date the transboundary movement started and date(s) and signature on receipt by each person who takes charge of the waste
+Disposer of the waste and actual site of disposal1
 
-7\. Means of transport (road, rail, inland waterway, sea, air) including countries of export, transit and import, also point of entry and exit where these have been designated
+4.
 
-8\. General description of the waste (physical state, proper UN shipping name and class, UN number, Y number and H number as applicable)
+Carrier(s) of the waste1or his agent(s)
 
-9\. Information on special handling requirements including emergency provision in case of accidents
+5.
 
-10\. Type and number of packages
+Subject of general or single notification
 
-11\. Quantity in weight/volume
+6.
 
-12\. Declaration by the generator or exporter that the information is correct
+The date the transboundary movement started and date(s) and signature on receipt by each person who takes charge of the waste
 
-13\. Declaration by the generator or exporter indicating no objection from the competent authorities of all States concerned which are Parties
+7.
 
-14. Certification by disposer of receipt at designated disposal facility and indication of method of disposal and of the approximate date of disposal.
+Means of transport (road, rail, inland waterway, sea, air) including countries of export, transit and import, also point of entry and exit where these have been designated
 
-[Notes The information required on the movementdocument shall where possible be integrated in one document withthat required under transport rules. Where this is not possiblethe information should complement rather than duplicate that requiredunder the transport rules. The movement document shall carry instructionsas to who is to provide information and fill-out any form.]
+8.
+
+General description of the waste (physical state, proper UN shipping name and class, UN number, Y number and H number as applicable)
+
+9.
+
+Information on special handling requirements including emergency provision in case of accidents
+
+10.
+
+Type and number of packages
+
+11.
+
+Quantity in weight/volume
+
+12.
+
+Declaration by the generator or exporter that the information is correct
+
+13.
+
+Declaration by the generator or exporter indicating no objection from the competent authorities of all States concerned which are Parties
+
+14.
+
+Certification by disposer of receipt at designated disposal facility and indication of method of disposal and of the approximate date of disposal.
+
+Notes
+
+The information required on the movement document shall where possible be integrated in one document with that required under transport rules. Where this is not possible the information should complement rather than duplicate that required under the transport rules. The movement document shall carry instructions as to who is to provide information and fill-out any form.
+
+1\. Full name and address, telephone, telex or telefax number and the name, address, telephone, telex or telefax number of the person to be contacted in case of emergency.
 
 Annex VI
 
-ARBITRATION
+Arbitration
 
 Article 1
 
@@ -2360,3 +2408,19 @@ Article 10
 
 3\. Any dispute which may arise between the parties concerning the interpretation or execution of the award may be submitted by either party to the arbitral tribunal which made the award or, if the latter cannot be seized thereof, to another tribunal constituted for this purpose in the same manner as the first.
 
+## LEGISLATIVE HISTORY
+
+Hazardous Waste (Control of Export, Import and Transit) Act
+
+(CHAPTER 122A)
+
+This Legislative History is provided for the convenience of users of the Hazardous Waste (Control of Export, Import and Transit) Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 13 of 1997—Hazardous Waste (Control of Export, Import and Transit) Act 1997**|
+||Date of First Reading|7 October 1997 (Bill No. 13/97 published on 8 October 1997)|
+||Date of Second and Third Readings|19 November 1997|
+||Date of commencement|16 March 1998|
+|2.|**1998 Revised Edition—Hazardous Waste (Control of Export, Import and Transit) Act**|
+||Date of operation|30 May 1998|
