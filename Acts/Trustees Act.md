@@ -1467,3 +1467,8 @@ This Legislative History is provided for the convenience of users of the Trustee
 |||(Bill No. 7/87 published on 16 March 1987)|
 ||Date of Second and Third Readings|26 March 1987|
 ||Date of commencement|10 April 1987|
+|10.|**Act 39 of 1989—Trustees (Amendment) Act 1989**|
+||Date of First Reading|6 October 1989|
+|||(Bill No. 40/89 published on 7 October 1989)|
+||Date of Second and Third Readings|30 November 1989|
+||Date of commencement|5 January 1990|
