@@ -118,9 +118,9 @@ Public Utilities Act (Chapter 261).
 
 8.
 
-Singapore Broadcasting Corporation
+Singapore Broadcasting Authority
 
-Singapore Broadcasting Corporation Act (Chapter 297).
+Singapore Broadcasting Authority Act (Chapter 297)
 
 9.
 
@@ -154,6 +154,8 @@ Inland Revenue Authority of Singapore Act (Chapter 138A).
 
 [S 414/1993 wef 15/10/1993]
 
+[S 344/1995 wef 01/10/1994]
+
 ## LEGISLATIVE HISTORY
 
 Statutory Corporations (Contributions to Consolidated Fund) Act
@@ -178,3 +180,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|30 November 1991|
 |4.|**G. N. No. S 414/1993—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 1993**|
 ||Date of commencement|15 October 1993|
+|5.|**G. N. No. S 344/1995—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 1995**|
+||Date of commencement|1 October 1994|
