@@ -88,7 +88,9 @@ An Act to prohibit smoking in specified places and vehicles, and to provide for 
 
 (ii) to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise;
 
-(b) any common property of any residential premises or building; or
+(b) any common property or limited common property of any residential premises or building; or
+
+[47/2004 wef 01/04/2005]
 
 (c) any public service vehicle or part thereof or any class of public service vehicles or parts thereof,
 
@@ -252,7 +254,7 @@ Smoking (Prohibition in Certain Places) Act
 
 (CHAPTER 310)
 
-This Legislative History is provided for the convenience of users of the Smoking (Prohibition in Certain Places) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Smoking (Prohibition in Certain Places) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -292,6 +294,12 @@ This Legislative History is provided for the convenience of users of the Smoking
 ||Date of commencement|1 July 2002|
 |10.|**2002 Revised Edition—Smoking (Prohibition in Certain Places) Act**|
 ||Date of operation|31 December 2002|
+|11.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|6 February 2004|
+|||(Bill No. 6/2004 published on 7 February 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 April 2005|
 ## COMPARATIVE TABLE
 
 Smoking (Prohibition in Certain Places) Act
