@@ -236,7 +236,7 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 (d) the presence in any building of any fire safety measure which from lack of proper maintenance or for any other reason is not in efficient working order;
 
-(e) the obstruction of escape routes, passageways or common property of any building such as might render escape in the event of fire more difficult; and
+(e) the obstruction of escape routes, passageways , common property or limited common property of any building such as might render escape in the event of fire more difficult; and
 
 [47/2004 wef 01/04/2005]
 
@@ -287,6 +287,10 @@ using engineering tools, methodologies and performance criteria as may be accept
 (a) in relation to any premises, includes any mortgagee in possession and any person for the time being receiving the rent of the premises whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises were let to a tenant, and any person whose name is entered in the Valuation List authenticated under section 15 of the Property Tax Act (Cap. 254) as the owner of the premises;
 
 (b) in relation to the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, means the management corporation having control of the building;
+
+(ba) in relation to the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, means the subsidiary management corporation having control of that limited common property; and
+
+[47/2004 wef 01/04/2005]
 
 (c) in respect of any fire safety measure, includes the occupier or the owner of the premises in or on which the fire safety measure is installed or kept;
 
@@ -1602,9 +1606,7 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 ### Interpretation of this Part
 
-34\. In this Part and in section 61, unless the context otherwise requires —
-
-(1) In this Part and in section 61, unless the context otherwise requires —
+34\.—(1) In this Part and in section 61, unless the context otherwise requires —
 
 “Class O petroleum” means liquefied petroleum gas;
 
@@ -1614,19 +1616,11 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 “dispensing” means transferring any class of petroleum or any flammable material from one container to any other container or containers for the purpose of distribution, through hose, pipe or by any other means and includes discharging into a motor vehicle or from the tank of a road tanker;
 
-[7/2004 wef 16/02/2005]
-
 “flammable material” means any substance specified in the Schedule;
-
-[7/2004 wef 16/02/2005]
 
 “import”, with its grammatical variations and cognate expressions, means to take or cause to be taken into Singapore by land, sea or air from any place outside Singapore, but does not include the bringing into Singapore by sea or air of any substance or product which it is proved to be intended to be taken out of Singapore on the same vessel or aircraft on which the substance or product was brought into Singapore without any landing or transhipment within Singapore;
 
-[7/2004 wef 16/02/2005]
-
 “licensed premises” means any premises licensed for the storage of any class of petroleum or any flammable material under this Act;
-
-[7/2004 wef 16/02/2005]
 
 “liquefied petroleum gas” means any material having a vapour pressure not exceeding that allowed for commercial propane and composed predominantly of the following hydrocarbons, either by themselves or as mixtures, that is to say, propane, propylene, butane (normal butane or iso-butane) and butylenes;
 
@@ -1636,8 +1630,6 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 “road tanker” means a goods vehicle as defined in the Road Traffic Act (Cap. 276) which has a tank that is structurally attached or is an integral part of the frame of the vehicle;
 
-[7/2004 wef 16/02/2005]
-
 “transport”, in relation to any class of petroleum or any flammable material, means the carriage of such petroleum or flammable material by any vehicle on land from one place in Singapore to another place, whether within or outside Singapore, and includes —
 
 (a) the packing, loading and unloading of the goods, and the transfer of the goods to or from a vehicle;
@@ -1645,10 +1637,6 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 (b) the marking of packages and unit loads containing petroleum or flammable material for transport, and placarding containers and vehicles in which such petroleum or flammable material are transported; and
 
 (c) any other matters incidental to their transport.
-
-[7/2004 wef 16/02/2005]
-
-[7/2004 wef 16/02/2005]
 
 (2) For the purposes of this Part and section 61, a person may be regarded as transporting any class of petroleum or any flammable material —
 
@@ -1670,11 +1658,7 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 (i) by being involved as a director, secretary or manager of a body corporate, or other person who takes part in the management of a body corporate, that takes part in an activity referred to above.
 
-[7/2004 wef 16/02/2005]
-
 (3) The Minister may at any time, by order published in theGazette, amend the Schedule.
-
-[7/2004 wef 16/02/2005]
 
 ### Storage of petroleum and flammable materials
 
@@ -1685,8 +1669,6 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 (b) in such quantities and in such manner and subject to such conditions as may be prescribed in relation to such petroleum or flammable material; and
 
 (c) under the authority of and in accordance with the provisions of a licence from the Commissioner and every condition specified therein.
-
-[7/2004 wef 16/02/2005]
 
 ### Import of petroleum and flammable materials
 
@@ -1701,8 +1683,6 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 (a) is effected in accordance with the provisions of his licence and with every condition specified therein; and
 
 (b) is in such quantities and in such manner and subject to such conditions as may be prescribed in relation to such petroleum or flammable material.
-
-[7/2004 wef 16/02/2005]
 
 ### Transport of petroleum and flammable material
 
@@ -1730,21 +1710,15 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 (6) Every permit issued by the Commissioner before the date of commencement of section 16 of the Fire Safety (Amendment) Act 2004 authorising any person to drive any vehicle transporting any class of petroleum or any flammable material by road shall be deemed to have been issued under subsection (3)(b).
 
-[7/2004 wef 16/02/2005]
-
 ### Dispensing of petroleum and flammable material
 
 36\.—(1) No person shall dispense or cause to be dispensed any class of petroleum or any flammable material at any place other than at a licensed premises.
-
-[7/2004 wef 16/02/2005]
 
 (2) Any licensed premises to be used for the dispensing of liquid petroleum gas into cylinders must be specifically approved for that purpose by the Commissioner who may impose additional requirements as he thinks fit.
 
 ### Offences
 
 37\. Any person who contravenes section 35, 35A(1) or (2), 35B(1), (2), (3) or (4) or 36(1) shall be guilty of an offence.
-
-[7/2004 wef 16/02/2005]
 
 ### Powers of Commissioner
 
@@ -1756,61 +1730,35 @@ CONTROL OF PETROLEUM AND FLAMMABLE MATERIALS
 
 (b) stop and examine any vehicle when he has reason to believe that any class of petroleum or any flammable material is being transported in the vehicle in contravention of this Act or any regulations made thereunder;
 
-[7/2004 wef 16/02/2005]
-
 (c) inspect, examine and test all classes of petroleum or any flammable material stored on land and for such purposes take samples thereof;
-
-[7/2004 wef 16/02/2005]
 
 (d) enter any place where he has reason to believe that any class of petroleum or any flammable material is stored in contravention of this Act or any regulations made thereunder; and
 
-[7/2004 wef 16/02/2005]
-
 (e) seize any stock of any class of petroleum, any flammable material or equipment in respect of which he has reason to believe that an offence under this Act has been committed.
-
-[7/2004 wef 16/02/2005]
 
 ### Grant and renewal of licence or permit
 
 39\.—(1) The grant of any licence or permit under this Part shall be in the absolute discretion of the Commissioner.
 
-[7/2004 wef 16/02/2005]
-
 (2) Every licence or permit granted under this Part shall be subject to such conditions as the Commissioner thinks fit to impose.
-
-[7/2004 wef 16/02/2005]
 
 (3) Every licence or permit granted under this Part, if it has not been cancelled under section 40, may, on the application of the holder of the licence or permit, be renewed by the Commissioner subject to such conditions as he thinks fit to impose.
 
-[7/2004 wef 16/02/2005]
-
 (4) Every licence or permit shall, on payment of the prescribed fees, be valid for such period not exceeding 3 years as the Commissioner may determine.
-
-[7/2004 wef 16/02/2005]
 
 (5) Any person who is aggrieved by any decision of the Commissioner under this section may, within one month of being notified of the decision of the Commissioner, appeal to the Minister whose decision shall be final.
 
 (6) Any person who contravenes any of the conditions of a licence or permit granted under this Part shall be guilty of an offence.
 
-[7/2004 wef 16/02/2005]
-
 ### Cancellation of licence or permit
 
 40\.—(1) If at any time it appears to the Commissioner that any premises or vehicle, in respect of which a licence or permit has been granted, has become unfit for the purpose for which it was licensed by reason of the increase of building or of population in its neighbourhood, or that from any other cause, any licence or permit should for the public safety be cancelled, or if the person to whom the licence or permit was granted contravenes any of the conditions of the licence or permit, the Commissioner may by order cancel the licence or permit.
 
-[7/2004 wef 16/02/2005]
-
 (2) The Commissioner shall, before cancelling any licence or permit under subsection (1), give to the person concerned notice in writing of his intention to do so specifying a date, not less than 21 days after the notice, upon which the cancellation shall take effect and calling upon the person concerned to show cause to the Commissioner why the licence or permit should not be cancelled.
-
-[7/2004 wef 16/02/2005]
 
 (3) When the Commissioner has cancelled the licence or permit under subsection (1), he shall forthwith inform the person concerned by notice in writing of such cancellation.
 
-[7/2004 wef 16/02/2005]
-
 (4) The person whose licence or permit has been cancelled may, within 14 days of the receipt of the notice referred to in subsection (3), or such extended period of time as the Minister may allow, appeal in writing against the cancellation to the Minister whose decision shall be final.
-
-[7/2004 wef 16/02/2005]
 
 (5) An order of cancellation shall not take effect until the expiration of a period of 14 days after the Commissioner has informed the holder of the licence or permit in question of the order.
 
@@ -1984,6 +1932,8 @@ MISCELLANEOUS
 
 (e) the prescribing of the requirements of a fire emergency plan in designated premises;
 
+(f) [Deleted by Act 7/2004 wef 16/02/2005]
+
 (g) the control, regulation and supervision by registration, licensing, inspection or otherwise of places to which the public has access;
 
 (h) the submission of plans and specifications of fire safety works, the authorisation of persons qualified to submit the same and their duties and responsibilities and the nature or classifications of plans or specifications which each such person may submit;
@@ -1998,27 +1948,15 @@ MISCELLANEOUS
 
 (m) the licensing and management of places for storing any class of petroleum or any flammable material;
 
-[7/2004 wef 16/02/2005]
-
 (n) the prescribing of the quantities of any class of petroleum or any flammable material that may be stored in any licensed premises and the method in which it is to be stored including the maximum quantity of any class of petroleum or any flammable material that can be stored without a licence for residential, commercial or industrial use;
-
-[7/2004 wef 16/02/2005]
 
 (o) the regulation of the dispensing of any class of petroleum or any flammable material;
 
-[7/2004 wef 16/02/2005]
-
 (p) the regulation of the transport of any class of petroleum or any flammable material, including specifying the time during which such petroleum or flammable material can be transported and the maximum quantity of any class of petroleum or any flammable material that can be transported without a licence or permit;
-
-[7/2004 wef 16/02/2005]
 
 (q) the determining of the quantity of and the receptacles in which any class of petroleum or any flammable material may be carried in any vehicle;
 
-[7/2004 wef 16/02/2005]
-
 (r) the prescribing of the standard and specification for the construction of any premises in which any class of petroleum or any flammable material is to be stored;
-
-[7/2004 wef 16/02/2005]
 
 (s) the prescribing of the types and standards of materials and appliances to be used for preventing or extinguishing fire in any licensed premises;
 
@@ -2026,21 +1964,13 @@ MISCELLANEOUS
 
 (u) the requiring of any receptacle containing petroleum or flammable material to carry warning labels and to denote the class of petroleum or the flammable material contained therein;
 
-[7/2004 wef 16/02/2005]
-
 (v) the prescribing of fees and charges for the purposes of this Act;
 
 (w) the prescribing of conditions to be attached to any licence or permit, and the requirements and conditions to be observed by persons at the premises or driving any vehicle to which the licence or permit relates;
 
-[7/2004 wef 16/02/2005]
-
 (x) the regulation, control and licensing of persons and organisations engaged in the business of petroleum or flammable material distribution;
 
-[7/2004 wef 16/02/2005]
-
 (y) the prescribing of forms for licences and permits and for other purposes for use in connection with this Act;
-
-[7/2004 wef 16/02/2005]
 
 (z) the duties and responsibilities of registered inspectors and fire safety engineers and the manner in which those duties and responsibilities are to be discharged, including a code of conduct and ethics for registered inspectors and fire safety engineers;
 
@@ -2546,8 +2476,6 @@ Flammable Materials
 
 (237) Zirconium powder.
 
-[7/2004 wef 16/02/2005]
-
 ## LEGISLATIVE HISTORY
 
 Fire Safety Act
@@ -2601,6 +2529,12 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 |||(Bill No. 4/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|16 February 2005 (sections 14 to 22 and 26, paragraphs 25(a) to (g) and items (1) and (2) in the Schedule)|
+|11.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+||(Consequential amendments made by)||
+||Date of First Reading|6 February 2004|
+|||(Bill No. 6/2004 published on 7 February 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 April 2005|
 ## COMPARATIVE TABLE
 
 Fire Safety Act
