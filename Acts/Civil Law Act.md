@@ -22,13 +22,19 @@
 
 - [8 Power of courts of record to award interest on debts and damages](#Power-of-courts-of-record-to-award-interest-on-debts-and-damages)
 
+- [8A Abolition of right to damages for loss of expectation of life](#Abolition-of-right-to-damages-for-loss-of-expectation-of-life)
+
 - [9 Abolition of husband’s liability for wife’s torts and antenuptial contracts, debts and obligations](#Abolition-of-husband’s-liability-for-wife’s-torts-and-antenuptial-contracts-debts-and-obligations)
 
 - [10 Proceedings against, and contribution between, joint and several tortfeasors](#Proceedings-against-and-contribution-between-joint-and-several-tortfeasors)
 
 - [11 Compensation to family of a person for loss occasioned by his death](#Compensation-to-family-of-a-person-for-loss-occasioned-by-his-death)
 
-- [12 Appointments to be valid notwithstanding one or more objects excluded, or only take an unsubstantial share](#Appointments-to-be-valid-notwithstanding-one-or-more-objects-excluded-or-only-take-an-unsubstantial-share)
+- [12 Right of action for wrongful act causing death](#Right-of-action-for-wrongful-act-causing-death)
+
+- [12A Bereavement](#Bereavement)
+
+- [12B Assessment of damages](#Assessment-of-damages)
 
 - [13 Executor deemed to be trustee for person entitled to residue on intestacy](#Executor-deemed-to-be-trustee-for-person-entitled-to-residue-on-intestacy)
 
@@ -230,13 +236,27 @@ Provided that this subsection shall not apply to causes of action for defamation
 
 Provided that nothing in this section —
 
-(a) shall authorise the giving of interest upon interest;
+(a) shall not include —
+
+(i) any exemplary damages; and
+
+(ii) any damages for loss of income in respect of any period after that person’s death;
+
+[Act 11 of 1987 wef 01/05/1987]
 
 (b) shall apply in relation to any debt upon which interest is payable as of right whether by virtue of any agreement or otherwise; or
 
 (c) shall affect the damages recoverable for the dis-honour of a bill of exchange.
 
 [9
+
+### Abolition of right to damages for loss of expectation of life
+
+8A\.—(1) In any action for damages for personal injuries, no damages shall be recoverable in respect of any loss of expectation of life caused to the injured person by the injuries, except that if the injured person’s expectation of life has been reduced by the injuries, the court, in assessing damages in respect of pain and suffering caused by the injuries, shall take into account any suffering caused or likely to be caused to him by awareness that his expectation of life has been so reduced.
+
+(2) In subsection (1), any reference to damages in respect of loss of expectation of life does not include damages in respect of loss of income.
+
+[Act 11 of 1987 wef 01/05/1987]
 
 ### Abolition of husband’s liability for wife’s torts and antenuptial contracts, debts and obligations
 
@@ -344,21 +364,99 @@ Provided that in deducing any relationship referred to in this subsection any il
 
 [12
 
-### Appointments to be valid notwithstanding one or more objects excluded, or only take an unsubstantial share
+### Right of action for wrongful act causing death
 
-12\.—(1) Where by any deed, will or other instrument a power is given to appoint movable or immovable property amongst several objects in such manner that no one of the objects of the power can be excluded, or some one or more of the objects of the power cannot be excluded by the donee of the power from a share of such property, but without requiring a substantial share of such property to be given to each object of the power or to each object of the power who cannot be excluded, no appointment, which has been or is after 23rd July 1909 made in exercise of any such power or authority shall be invalid on the ground that an unsubstantial, illusory or nominal share only is thereby appointed, or left unappointed to devolve upon any one or more of the objects of the power or on the ground that any object of such power has been altogether excluded.
+12\.—(1) If death is caused by any wrongful act, neglect or default which is such as would (if death had not ensued) have entitled the person injured to maintain an action and recover damages in respect thereof, the person who would have been liable if death had not ensued shall be liable to an action for damages, notwithstanding the death of the person injured.
 
-(2) Every such appointment shall be valid and effectual notwithstanding that any one or more of the objects does or do not thereunder, or in default thereof, take more than an unsubstantial, illusory or nominal share, and notwithstanding that any one or more of the objects does or do not thereunder, or in default thereof, take a share or shares of the said property.
+(2) Subject to section 12A(2), every such action shall be for the benefit of the dependants of the person (referred to as the deceased) whose death has been so caused.
 
-### Not to affect any deed which declares the amount of the share
+(3) Every action brought under this section shall be brought by and in the name of the executor or administrator of the deceased.
 
-(3) Nothing in this section shall prejudice or affect any provision in any deed, will or other instrument creating any such power as aforesaid, which declares the amount of the share or shares from which no object of the power shall be excluded.
+(4) If —
 
-### Not to give any other force to any appointment than the same would have had
+(a) there is no executor or administrator of the deceased; or
 
-(4) Nothing in this section shall be construed, deemed or taken to give any other validity, force or effect to any appointment than such appointment would have had if a substantial share of the property affected by the power had been thereby appointed, or left unappointed.
+(b) no action is brought within 6 months after the death by and in the name of an executor or administrator of the deceased,
 
-[13
+the action may be brought by and in the name of all or any of the persons for whose benefit an executor or administrator could have brought it.
+
+(5) Not more than one action shall lie for or in respect of the same subject-matter of complaint and every such action shall be brought within 3 years after the death of such deceased person.
+
+(6) The plaintiff in every such action brought under this section shall be required to deliver to the defendant or his solicitor full particulars of the persons for whom and on whose behalf the action is brought and of the nature of the claim in respect of which damages are sought to be recovered.
+
+(7) In any action brought under this section, the executor of the deceased may insert a claim for and recover any pecuniary loss to the estate of the deceased occasioned by such wrongful act, neglect or default, which sum when recovered shall be deemed part of the assets of the estate of the deceased.
+
+(8) In this section,
+
+“dependant” means —
+
+(a) the wife or husband of the deceased;
+
+(b) any parent, grandparent or great-grandparent of the deceased;
+
+(c) any child, grandchild or greatgrandchild of the deceased;
+
+(d) any person (not being a child of the deceased) who, in the case of any marriage to which the deceased was at any time a party, was treated by the deceased as a child of the family in relation to that marriage;
+
+(e) any person who is, or is the issue of, a brother, sister, uncle or aunt of the deceased.
+
+(9) In deducing any relationship for the purposes of subsection (8) —
+
+(a) an adopted person shall be treated as the child of the person or persons by whom he was adopted and not as the child of any other person; and
+
+(b) subject to paragraph (a), any relationship by affinity shall be treated as a relationship by consanguinity, any relationship of the half blood as a relationship of the whole blood, and the stepchild of any person as his child and an illegitimate person shall be treated as the legitimate child of his mother and reputed father.
+
+(10) In subsection (9)(a), “adopted” means adopted in pursuance of an adoption order made under the Adoption of Children Act (Cap. 43) or of any adoption recognised as valid by the law of Singapore.
+
+(11) Any reference in this section to injury includes any disease and any impairment of a person’s physical or mental condition.
+
+[Act 11 of 1987 wef 01/05/1987]
+
+### Bereavement
+
+12A\.—(1) An action under section 12 may consist of or include a claim for damages for bereavement.
+
+(2) A claim for damages for bereavement shall only be for the benefit of such of the following persons as survive the deceased:
+
+(a) the wife or husband of the deceased;
+
+(b) where there is no spouse by or for whom a claim can be made under paragraph (a), the children of the deceased;
+
+(c) where there is no person by or for whom a claim can be made under paragraph (a) or (b), the parents of the deceased or, if the deceased was illegitimate, his mother;
+
+(d) where there is no person by or for whom a claim can be made under paragraph (a), (b) or (c), but the deceased was at the date of his death a minor, any person who during any marriage to which that person was a party treated the deceased as a child of the family in relation to that marriage; or
+
+(e) where there is no other person by or for whom a claim can be made under this subsection, any brother or sister of the deceased.
+
+(3) The right of a person to claim under this section for damages for bereavement shall not survive for the benefit of his estate.
+
+(4) Subject to subsection (6), the sum to be awarded as damages under this section shall be $10,000.
+
+(5) Where there is a claim for damages under this section for the benefit of two or more persons, the sum awarded shall be divided equally between them (subject to any deduction falling to be made in respect of costs not recovered from the defendant).
+
+(6) The President may by order published in theGazettevary the sum specified in subsection (4).
+
+[Act 11 of 1987 wef 01/05/1987]
+
+### Assessment of damages
+
+12B\.—(1) In every action brought under section 12, the court may award such damages as are proportioned to the losses resulting from the death to the dependants respectively except that in assessing the damages there shall not be taken into account —
+
+(a) any sum paid or payable on the death of the deceased under any contract of assurance or insurance;
+
+(b) any sum payable as a result of the death under the Central Provident Fund Act (Cap. 121); or
+
+(c) any pension or gratuity which has been or will or may be paid as a result of the death.
+
+(2) Where damages are awarded under subsection (1), any costs not recovered from the defendant shall be deducted from those damages and thereafter those damages shall be divided among the dependants in such proportions as has been decided under that subsection.
+
+(3) In an action brought under section 12 where there fall to be assessed damages payable to a widow in respect of the death of her husband, there shall not be taken into account the re-marriage of the widow or her prospects of re-marriage.
+
+(4) If the dependants have incurred funeral expenses in respect of the deceased, damages may be awarded in respect of those expenses.
+
+(5) Money paid into court in satisfaction of a cause of action under this Act may be in one sum without specifying any person’s share.
+
+[Act 11 of 1987 wef 01/05/1987]
 
 ### Executor deemed to be trustee for person entitled to residue on intestacy
 
@@ -525,3 +623,8 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of commencement|1 October 1982|
 |24.|**1985 Revised Edition—Civil Law Act**|
 ||Date of operation|30 March 1987|
+|25.|**Act 11 of 1987—Civil Law (Amendment) Act 1987**|
+||Date of First Reading|26 January 1987|
+|||(Bill No. 1/87 published on 2 February 1987)|
+||Date of Second and Third Readings|4 March 1987|
+||Date of commencement|1 May 1987|
