@@ -388,11 +388,17 @@ Research and Statistics Units
 
 4\. Statistics Unit of the Ministry of the Environment.
 
-5\. Information Services Department of the Ministry of Health.
+5. Health Information Management of the Ministry of Health.
+
+[S 536/2002 wef 04/10/2002]
 
 6\. Manpower Research and Statistics Department of the Ministry of Manpower.
 
-7\. Statistics Unit, Financial Supervision Group of the Monetary Authority of Singapore.
+7. Financial Surveillance Division of the Monetary Authority of Singapore.
+
+[S 536/2002 wef 04/10/2002]
+
+[S 40/2011 wef 03/08/2010]
 
 8. Research and Statistics Unit of the Info-communications Development Authority of Singapore.
 
@@ -422,9 +428,11 @@ Particulars and information relating to the employment, employer and wages of Ce
 
 3.
 
-Trade Development Board
+International Enterprise Singapore Board
 
-Particulars and information obtained by the Trade Development Board under section 3 of the Regulation of Imports and Exports Act (Cap. 272A) and any regulations made thereunder.
+Particulars and information obtained by the International Enterprise Singapore Board under section 3 of the Regulation of Imports and Exports Act (Cap. 272A) and any regulations made thereunder.
+
+[S 536/2002 wef 04/10/2002]
 
 [9/90; 24/95]
 
@@ -479,6 +487,8 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|1 November 2000|
 |12.|**G.N. No. S 502/2000—Statistics Act (Amendment of Second Schedule) Notification 2000**|
 ||Date of commencement|1 November 2000|
+|13.|**G.N. No. S 536/2002—Statistics Act (Amendment of Second and Third Schedules) Notification 2002**|
+||Date of commencement|4 October 2002|
 ## COMPARATIVE TABLE
 
 Statistics Act
