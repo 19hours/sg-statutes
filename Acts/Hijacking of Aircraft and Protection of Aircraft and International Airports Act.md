@@ -18,15 +18,15 @@
 
 - [6 Other acts endangering or likely to endanger safety of aircraft](#Other-acts-endangering-or-likely-to-endanger-safety-of-aircraft)
 
-- [6A Endangering safety at aerodromes](#Endangering-safety-at-aerodromes)
+- [7 Endangering safety at aerodromes](#Endangering-safety-at-aerodromes)
 
-- [7 Abetting the commission of acts outside Singapore](#Abetting-the-commission-of-acts-outside-Singapore)
+- [8 Abetting the commission of acts outside Singapore](#Abetting-the-commission-of-acts-outside-Singapore)
 
-- [8 Penalty](#Penalty)
+- [9 Penalty](#Penalty)
 
-- [9 Consent for prosecution](#Consent-for-prosecution)
+- [10 Consent for prosecution](#Consent-for-prosecution)
 
-- [10 Extradition](#Extradition)
+- [11 Extradition](#Extradition)
 
 [**Legislative History**](#Legislative-History)
 
@@ -36,21 +36,21 @@
 
 (Original Enactment: Act 9 of 1978)
 
-REVISED EDITION 1985
+REVISED EDITION 1997
 
-(30th March 1987)
+(20th December 1997)
 
-An Act to give effect to the Convention for the Suppression of Unlawful Seizure of Aircraft signed at The Hague on 16th December 1970, and to the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation signed at Montreal on 23rd September 1971, and to the Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation signed at Montreal on 24th February 1988, and for purposes connected therewith.
+An Act to give effect to the Convention for the Suppression of Unlawful Seizure of Aircraft signed at The Hague on 16th December 1970, the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation signed at Montreal on 23rd September 1971 and the Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation signed at Montreal on 24th February 1988, and for purposes connected therewith.
 
-[32/96 wef 01/11/1996]
+[32/96]
 
 [8th April 1978]
 
 ### Short title
 
-1\. This Act may be cited as the Hijacking of Aircraft and Protection of Aircraft and International Airports Act .
+1\. This Act may be cited as the Hijacking of Aircraft and Protection of Aircraft and International Airports Act.
 
-[32/96 wef 01/11/1996]
+[32/96]
 
 ### Interpretation
 
@@ -60,19 +60,17 @@ An Act to give effect to the Convention for the Suppression of Unlawful Seizure 
 
 (a) any act done in Singapore which constitutes the offence of murder, attempted murder, culpable homicide not amounting to murder, voluntarily causing grievous hurt, voluntarily causing hurt by dangerous weapons or means, or an offence under —
 
-(i) section 4 of the Arms Offences Act [Cap. 14];
+(i) section 4 of the Arms Offences Act (Cap. 14);
 
-(ii) section 3 or 4 of the Corrosive and Explosive Substances and Offensive Weapons Act [Cap. 65];
+(ii) section 3 or 4 of the Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65);
 
-(iii) section 3 or 4 of the Explosive Substances Act [Cap. 100]; or
+(iii) section 3 or 4 of the Explosive Substances Act (Cap. 100); or
 
-(iv) section 3 of the Kidnapping Act [Cap. 151]; and
+(iv) section 3 of the Kidnapping Act (Cap. 151); and
 
 (b) any act done outside Singapore which, if done in Singapore, would constitute such an offence as is mentioned in paragraph (a);
 
-“aerodrome” has the same meaning as in the Air Navigation Act [Cap. 6];
-
-[32/96 wef 01/11/1996]
+“aerodrome” has the same meaning as in the Air Navigation Act (Cap. 6);
 
 “landing” includes alighting on water;
 
@@ -83,6 +81,8 @@ An Act to give effect to the Convention for the Suppression of Unlawful Seizure 
 (a) in Singapore, means an offence that is (apart from this Act) constituted under any written law in force in Singapore; and
 
 (b) outside Singapore, means the commission of the act that would (apart from this Act) have been an offence under any written law in force in Singapore had it been committed in Singapore.
+
+[32/96]
 
 (2) For the purposes of this Act —
 
@@ -110,7 +110,7 @@ An Act to give effect to the Convention for the Suppression of Unlawful Seizure 
 
 ### Destroying, damaging or endangering safety of aircraft
 
-5\.—(1) Subject to subsection (4), any person who unlawfully and intentionally —
+5\.—(1) Subject to subsection (5), any person who unlawfully and intentionally —
 
 (a) destroys an aircraft in service or so damages the aircraft as to render it incapable of flight or as to be likely to endanger its safety in flight; or
 
@@ -118,15 +118,17 @@ An Act to give effect to the Convention for the Suppression of Unlawful Seizure 
 
 shall be guilty of an offence.
 
-(2) Subject to subsection (4), any person who unlawfully and intentionally places or causes to be placed on an aircraft in service any device or substance which is likely to destroy the aircraft or is likely so to damage it as to render it incapable of flight or as to be likely to endanger its safety in flight shall be guilty of an offence; but nothing in this subsection shall be construed as limiting the circumstances in which the commission of any act —
+(2) Subject to subsection (5), any person who unlawfully and intentionally places or causes to be placed on an aircraft in service any device or substance which is likely to destroy the aircraft or is likely so to damage it as to render it incapable of flight or as to be likely to endanger its safety in flight shall be guilty of an offence.
+
+(3) Nothing in subsection (2) shall be construed as limiting the circumstances in which the commission of any act —
 
 (a) may constitute an offence under subsection (1); or
 
 (b) may constitute attempting or conspiring to commit or abetting the commission of the offence.
 
-(3) Except as provided by subsection (4), subsections (1) and (2) shall apply whether any such act therein mentioned is committed in Singapore or elsewhere, whatever the nationality or citizenship of the person committing the act or whatever the state in which the aircraft is registered.
+(4) Except as provided by subsection (5), subsections (1) and (2) shall apply whether any such act therein mentioned is committed in Singapore or elsewhere, whatever the nationality or citizenship of the person committing the act or whatever the state in which the aircraft is registered.
 
-(4) Subsections (1) and (2) shall not apply to any act committed in relation to an aircraft used in military, customs or police service unless —
+(5) Subsections (1) and (2) shall not apply to any act committed in relation to an aircraft used in military, customs or police service unless —
 
 (a) the act is committed in or over Singapore; or
 
@@ -140,11 +142,11 @@ shall be guilty of an offence.
 
 (3) Subject to subsections (4) and (5), any person who intentionally communicates any information which is false, misleading or deceptive in a material particular, where the communication of the information endangers the safety of an aircraft in flight or is likely to endanger the safety of an aircraft in flight, shall be guilty of an offence.
 
-(4) It shall be a defence for a person charged with an offence under subsection (3) to prove —
+(4) It shall be a defence for a person charged with an offence under subsection (3) to prove that —
 
-(a) that he believed, and had reasonable grounds for believing, that the information was true; or
+(a) he believed, and had reasonable grounds for believing, that the information was true; or
 
-(b) that, when he communicated the information, he was lawfully employed to perform duties which consisted of or included the communication of information and that he communicated the information in good faith in the performance of those duties.
+(b) when he communicated the information, he was lawfully employed to perform duties which consisted of or included the communication of information and that he communicated the information in good faith in the performance of those duties.
 
 (5) Subsections (1) and (3) shall not apply to the commission of any act unless either the act is committed in Singapore, or, where the act is committed outside Singapore —
 
@@ -162,13 +164,15 @@ shall be guilty of an offence.
 
 ### Endangering safety at aerodromes
 
-6A\.—(1) Any person who by means of any device, substance or weapon intentionally commits at an aerodrome serving international civil aviation any act of violence which —
+7\.—(1) Any person who by means of any device, substance or weapon intentionally commits at an aerodrome serving international civil aviation any act of violence which —
 
 (a) causes or is likely to cause death or serious personal injury; and
 
 (b) endangers or is likely to endanger the safe operation of the aerodrome or the safety of persons at the aerodrome,
 
 shall be guilty of an offence.
+
+[32/96]
 
 (2) Subject to subsection (4), any person who by means of any device, substance or weapon unlawfully and intentionally —
 
@@ -182,6 +186,8 @@ shall be guilty of an offence.
 
 in such a way as to endanger or be likely to endanger the safe operation of the aerodrome or the safety of persons at the aerodrome, shall be guilty of an offence.
 
+[32/96]
+
 (3) Except as provided in subsection (4), subsections (1) and (2) shall apply whether any such act as is referred to in those subsections is committed in Singapore or elsewhere and whatever the nationality of the person committing the act.
 
 (4) Subsection (2)(a)(ii) shall not apply to any act committed in relation to an aircraft used in military, customs or police service unless —
@@ -190,31 +196,37 @@ in such a way as to endanger or be likely to endanger the safe operation of the 
 
 (b) where the act is committed outside Singapore, the person committing it is a citizen of Singapore.
 
-[32/96 wef 01/11/1996]
+[6A
+
+[32/96]
 
 ### Abetting the commission of acts outside Singapore
 
-7\. Any person in Singapore who abets the commission elsewhere of any act which —
+8\. Any person in Singapore who abets the commission elsewhere of any act which —
 
-(a) would, but for subsection (2) of section 3, be the offence of hijacking;
+(a) would, but for section 3(2), be the offence of hijacking;
 
 (b) would, but for subsection (4) of section 5, be an offence under that section;
 
 (c) would, but for subsection (5) or (6) of section 6, be an offence under that section; or
 
-(d) would, but for subsection (4) of section 6A, be an offence under that section,
-
-[32/96 wef 01/11/1996]
+(d) would, but for subsection (4) of section 7, be an offence under that section,
 
 shall be guilty of an offence.
 
+[7
+
+[32/96]
+
 ### Penalty
 
-8\. Any person guilty of an offence under this Act shall be liable on conviction to be punished with imprisonment for life.
+9\. Any person guilty of an offence under this Act shall be liable on conviction to be punished with imprisonment for life.
+
+[8
 
 ### Consent for prosecution
 
-9\.—(1) No prosecution shall be instituted under this Act without the written consent of the Public Prosecutor.
+10\.—(1) No prosecution shall be instituted under this Act without the written consent of the Public Prosecutor.
 
 (2) Notwithstanding that a consent has not been given in relation to the offence in accordance with subsection (1) —
 
@@ -226,25 +238,29 @@ shall be guilty of an offence.
 
 (d) a person charged with any offence under this Act may be remanded in custody or granted bail,
 
-but no further steps in the proceedings in relation to the offence shall be taken until the Public Prosecutor’s consent has been obtained.
+but no further steps in the proceedings in relation to the offence shall be taken until the consent of the Public Prosecutor has been obtained.
+
+[9
 
 ### Extradition
 
-10\.—(1) There shall be deemed to be included in the list of extradition crimes described in the First Schedule to the Extradition Act [Cap. 103] offences under this Act and attempts to commit such offences.
+11\.—(1) There shall be deemed to be included in the list of extradition crimes described in the First Schedule to the Extradition Act (Cap. 103) offences under this Act and attempts to commit such offences.
 
-(2) Where no extradition treaty is in force between Singapore and a state which is a party to the Convention, a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act as if the Convention were an extradition treaty between Singapore and that state; but where the Extradition Act is so applied, it shall have effect as if the only extradition crimes within the meaning of that Act were offences under this Act and attempts to commit such offences.
+(2) Where no extradition treaty is in force between Singapore and a State which is a party to the Convention, a notification in theGazetteunder section 4 of the Extradition Act may be made applying that Act as if the Convention were an extradition treaty between Singapore and that State; but where the Extradition Act is so applied, it shall have effect as if the only extradition crimes within the meaning of that Act were offences under this Act and attempts to commit such offences.
 
 (3) For the purposes of the Extradition Act, any act, wherever committed, which —
 
 (a) is an offence under this Act or an attempt to commit such an offence, or would be such an offence or attempt but for section 3(2), 5(4), 6(5) or 6(6); and
 
-(b) is an offence against the law of any state in the case of which the Extradition Act [Cap. 103] has been applied by a notification in theGazettemade under section 4 of that Act,
+(b) is an offence against the law of any State in the case of which the Extradition Act has been applied by a notification in theGazettemade under section 4 of that Act,
 
-shall be deemed to be an offence within the jurisdiction of that state.
+shall be deemed to be an offence within the jurisdiction of that State.
 
-(4) In this section, “the Convention” means the Convention for the Suppression of Unlawful Seizure of Aircraft signed at The Hague on 16th December 1970, or the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation signed at Montreal on 23rd September 1971 or the Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation signed at Montreal on 24th February 1988.
+(4) In this section, “the Convention” means the Convention for the Suppression of Unlawful Seizure of Aircraft signed at The Hague on 16th December 1970 or the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation signed at Montreal on 23rd September 1971 or the Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation signed at Montreal on 24th February 1988.
 
-[32/96 wef 01/11/1996]
+[10
+
+[32/96]
 
 ## LEGISLATIVE HISTORY
 
@@ -268,3 +284,5 @@ This Legislative History is provided for the convenience of users of the Hijacki
 |||(Bill No. 20/96 published on 13 July 1996)|
 ||Date of Second and Third Readings|27 August 1996|
 ||Date of commencement|1 November 1996|
+|4.|**1997 Revised Edition—Hijacking of Aircraft and Protection of Aircraft and International Airports Act**|
+||Date of operation|20 December 1997|
