@@ -1,14 +1,12 @@
-**Sale of Goods (United Nations Convention) Act 1995**
+**Sale of Goods (United Nations Convention) Act**
 
-**(No. 14 of 1995)**
+**(CHAPTER 283A)**
 
 **Table of Contents**
 
 [**Long Title**](#Sale-of-Goods-United-Nations-Convention-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -20,51 +18,29 @@
 
 [**THE SCHEDULE United Nations Convention on Contracts for the International Sale of Goods**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Sale of Goods (United Nations Convention) Act
 
-ACTS SUPPLEMENT
+(CHAPTER 283A)
 
-Published by Authority
+(Original Enactment: Act 14 of 1995)
 
-NO. 15]
+REVISED EDITION 1996
 
-Friday, April 21
-
-[1995
-
-The following Act was passed by Parliament on 23rd March 1995 and assented to by the President on 12th April 1995:—
-
-Sale Of Goods (United Nations Convention) Act 1995
-
-(No. 14 of 1995)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-12th April 1995.
-
-Date of Commencement: 1st March 1996
+(30th April 1996)
 
 An Act to give effect to the United Nations Convention on Contracts for the International Sale of Goods concluded at Vienna on 11th April 1980.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st March 1996]
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Sale of Goods (United Nations Convention) Act 1995.
-
-(2) This Act shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Sale of Goods (United Nations Convention) Act.
 
 ### Interpretation
 
-2\. In this Act,
-
-“Convention” means the United Nations Convention on Contracts for the International Sale of Goods adopted at Vienna, Austria, on 10th April 1980 and opened for signature and accession on 11th April 1980, the English text of which is set out in the Schedule.
+2\. In this Act, “Convention” means the United Nations Convention on Contracts for the International Sale of Goods adopted at Vienna, Austria, on 10th April 1980 and opened for signature and accession on 11th April 1980, the English text of which is set out in the Schedule.
 
 ### Convention to have force of law
 
@@ -94,7 +70,7 @@ shall be evidence of the facts contained in the notification.
 
 ## THE SCHEDULE
 
-Section 2.
+Section 2
 
 United Nations Convention on Contracts for the International Sale of Goods
 
@@ -112,9 +88,7 @@ Part I
 
 Sphere of Application and General Provisions
 
-Chapter I
-
-—
+CHAPTER I
 
 Sphere of Application
 
@@ -134,29 +108,17 @@ Article 2
 
 This Convention does not apply to sales:
 
-(a)
+(a) of goods bought for personal, family or household use, unless the seller, at any time before or at the conclusion of the contract, neither knew nor ought to have known that the goods were bought for any such use;
 
-of goods bought for personal, family or household use, unless the seller, at any time before or at the conclusion of the contract, neither knew nor ought to have known that the goods were bought for any such use;
+(b) by auction;
 
-(b)
+(c) on execution or otherwise by authority of law;
 
-by auction;
+(d) of stocks, shares, investment securities, negotiable instruments or money;
 
-(c)
+(e) of ships, vessels, hovercraft or aircraft;
 
-on execution or otherwise by authority of law;
-
-(d)
-
-of stocks, shares, investment securities, negotiable instruments or money;
-
-(e)
-
-of ships, vessels, hovercraft or aircraft;
-
-(f)
-
-of electricity.
+(f) of electricity.
 
 Article 3
 
@@ -168,13 +130,9 @@ Article 4
 
 This Convention governs only the formation of the contract of sale and the rights and obligations of the seller and the buyer arising from such a contract. In particular, except as otherwise expressly provided in this Convention, it is not concerned with:
 
-(a)
+(a) the validity of the contract or of any of its provisions or of any usage;
 
-the validity of the contract or of any of its provisions or of any usage;
-
-(b)
-
-the effect which the contract may have on the property in the goods sold.
+(b) the effect which the contract may have on the property in the goods sold.
 
 Article 5
 
@@ -184,9 +142,7 @@ Article 6
 
 The parties may exclude the application of this Convention or, subject to article 12, derogate from or vary the effect of any of its provisions.
 
-Chapter II
-
-—
+CHAPTER II
 
 General Provisions
 
@@ -310,8 +266,6 @@ Sale of Goods
 
 Chapter I
 
-—
-
 General Provisions
 
 Article 25
@@ -336,9 +290,7 @@ Article 29
 
 (2) A contract in writing which contains a provision requiring any modification or termination by agreement to be in writing may not be otherwise modified or terminated by agreement\. However, a party may be precluded by his conduct from asserting such a provision to the extent that the other party has relied on that conduct.
 
-Chapter II
-
-—
+CHAPTER II
 
 Obligations of the Seller
 
@@ -548,13 +500,11 @@ Article 51
 
 Article 52
 
-(1) If the seller delivers the goods before the date fixed, the buyer may take delivery or refuse to take deivery\.
+(1) If the seller delivers the goods before the date fixed, the buyer may take delivery or refuse to take delivery\.
 
 (2) If the seller delivers a quantity of goods greater than that provided for in the contract, the buyer may take delivery or refuse to take delivery of the excess quantity\. If the buyer takes delivery of all or part of the excess quantity, he must pay for it at the contract rate.
 
 Chapter III
-
-—
 
 Obligations of the Buyer
 
@@ -562,7 +512,7 @@ Article 53
 
 The buyer must pay the price for the goods and take delivery of them as required by the contract and this Convention.
 
-Section I
+Section 1
 
 —
 
@@ -674,8 +624,6 @@ Article 65
 
 Chapter IV
 
-—
-
 Passing of Risk
 
 Article 66
@@ -705,8 +653,6 @@ Article 70
 If the seller has committed a fundamental breach of contract, articles 67, 68 and 69 do not impair the remedies available to the buyer on account of the breach.
 
 Chapter V
-
-—
 
 Provisions Common to the Obligations of the Seller and of the Buyer
 
@@ -850,7 +796,7 @@ Preservation of the goods
 
 Article 85
 
-If the buyer is in delay in taking delivery of the goods or, where payment of the price and delivery of the goods are to be made concurrently, if he falls to pay the price, and the seller is either in possession of the goods or otherwise able to control their disposition, the seller must take such steps as are reasonable in the circumstances to preserve them. He is entitled to retain them until he has been reimbursed his reasonable expenses by the buyer.
+If the buyer is in delay in taking delivery of the goods or, where payment of the price and delivery of the goods are to be made concurrently, if he fails to pay the price, and the seller is either in possession of the goods or otherwise able to control their disposition, the seller must take such steps as are reasonable in the circumstances to preserve them. He is entitled to retain them until he has been reimbursed his reasonable expenses by the buyer.
 
 Article 86
 
@@ -970,3 +916,20 @@ DONE at Vienna, this day of eleventh day of April, one thousand nine hundred and
 
 IN WITNESS WHEREOF the undersigned plenipotentiaries, being duly authorized by their respective Governments, have signed this Convention.
 
+## LEGISLATIVE HISTORY
+
+Sale of Goods (United Nations Convention) Act
+
+(CHAPTER 283A)
+
+This Legislative History is provided for the convenience of users of the Sale of Goods (United Nations Convention) Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 14 of 1995—Sale of Goods (United Nations Convention) Act 1995**|
+||Date of First Reading|1 March 1995|
+|||(Bill No. 8/95 published on 2 March 1995)|
+||Date of Second and Third Readings|23 March 1995|
+||Date of commencement|1 March 1996|
+|2.|**1996 Revised Edition—Sale of Goods (United Nations Convention) Act (Chapter 283A)**|
+||Date of operation|30 April 1996|
