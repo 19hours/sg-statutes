@@ -2917,3 +2917,5 @@ This Legislative History is provided for the convenience of users of the Bankrup
 ||Date of commencement|15 July 1995|
 |2.|**1996 Revised Edition—Bankruptcy Act (Chapter 20)**|
 ||Date of operation|30 April 1996|
+|3.|**G. N. No. S 380/1997—Bankruptcy (Variation of Sum of Debts under Section 125(2)(b)) Rules 1997**|
+||Date of commencement|15 September 1997|
