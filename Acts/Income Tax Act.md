@@ -752,6 +752,12 @@ Z
 
 is the amount of balancing charge.
 
+[Act 31/98, Wef 14/08/1998]
+
+[32/95]
+
+[2/92]
+
 (5) Any gains or profits directly or indirectly derived by any person by the exercise, assignment or release of a right or benefit whether granted in his name or in the name of his nominee or agent to acquire shares in a company shall, where the right or benefit is obtained by that person by reason of any office or employment held by him, be deemed to be income and for the purposes of this subsection —
 
 (a) such gains or profits shall be the price of the shares in the open market at the time of the exercise, assignment or release of the right or benefit, less the amount paid for such shares;
@@ -780,11 +786,11 @@ is the amount of balancing charge.
 
 2For the Year of Assessment 1981 and subsequent Years of Assessment the sum specified is $75,000 — see G.N. No. S 303/81.
 
+[9/80]
+
 whichever is the less, shall not be deemed to be profits arising from property; and for the purposes of this paragraph any property owned by a married woman living with her husband shall be deemed to be owned by the husband.
 
 [7/70]
-
-[9/80]
 
 (7) Where a person derives interest from a negotiable certificate of deposit or derives gains or profits from the sale thereof, his income shall be treated as follows:
 
@@ -2386,7 +2392,7 @@ an amount equal to the excess medical expenses shall be deemed to be income of t
 
 [26/93]
 
-(3A) As soon as any amount of further deduction is allowed to any company under this , a sum equal to that amount shall be credited to an account (referred to in this section as the further deduction account) to be kept by the company for the purposes of any of those sections.
+(3A) As soon as any amount of further deduction is allowed to any company under this, a sum equal to that amount shall be credited to an account (referred to in this section as the further deduction account) to be kept by the company for the purposes of any of those sections.
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -2396,13 +2402,13 @@ an amount equal to the excess medical expenses shall be deemed to be income of t
 
 (a) debit from that account such amount as would have been the chargeable income had the further deduction not been allowed or the amount of the credit in that account, whichever is the less; and
 
-(b) credit the amount debited under paragraph (a) to an account to be called a tax exempt account which shall be kept by the company for the purposes of this ,
-
-[Act 31/98, Wef 14/08/1998]
+(b) credit the amount debited under paragraph (a) to an account to be called a tax exempt account which shall be kept by the company for the purposes of this,
 
 and any remaining balance in the further deduction account shall be carried forward to be used by the company in the first subsequent year of assessment when the company has chargeable income had the further deduction not been allowed, and so on for subsequent years of assessment until the credit in the further deduction account has been fully used.
 
 [28/92]
+
+[Act 31/98, Wef 14/08/1998]
 
 (3C) Where a tax exempt account of a company is in credit at the date on which any dividends are paid by the company out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the tax exempt account.
 
@@ -2414,7 +2420,7 @@ and any remaining balance in the further deduction account shall be carried forw
 
 (3E) Notwithstanding anything in this section, where it appears to the Comptroller that in any year of assessment —
 
-(a) any further deduction which has been allowed under this section, section ; or
+(a) any further deduction which has been allowed under this section; or
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -2616,7 +2622,7 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 (a) where there are no qualifying profits in the basis period for that year of assessment; or
 
-(b) where the total amount of all deductions previously allowed under this section, which have not been deemed to be trading receipts under subsections (2) and (2A), is in excess of of the prescribed value of the loans and investments in securities for the relevant basis period for that year of assessment.
+(b) where the total amount of all deductions previously allowed under this section, which have not been deemed to be trading receipts under subsections (2) and (2A), is in excess of the prescribed value of the loans and investments in securities for the relevant basis period for that year of assessment.
 
 (6) In this section —
 
@@ -2834,7 +2840,7 @@ has been incurred on or after 1st April 1993 by an approved firm or company resi
 
 [15/83]
 
-(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14D, 14E, 14F, 14G, 14H, 14Ior 14K.
+(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14D, 14E, 14F, 14G, 14H, 14I or 14K.
 
 [Act 32/99, wef Y/A 1999:1999-ACT-32]
 
@@ -3010,9 +3016,9 @@ an allowance or charge, to be known as a “balancing allowance” or a “balan
 
 (l) for prescribed purposes and where such building or structure has been approved by the Minister or such person as he may appoint,
 
-and includes any building or structure provided by the person carrying on such a trade or undertaking for the welfare of workers employed in that trade or undertaking and in use for that purpose, but does not include a building or structure in respect of which a deduction is prescribed under section 14(1)(g).
-
 [3/89]
+
+and includes any building or structure provided by the person carrying on such a trade or undertaking for the welfare of workers employed in that trade or undertaking and in use for that purpose, but does not include a building or structure in respect of which a deduction is prescribed under section 14(1)(g).
 
 (1A) A building or structure shall not be deemed, by reason only of its falling or having fallen into temporary disuse, to have thereby ceased altogether to be used for one of the purposes specified in this subsection if, immediately prior to falling into such temporary disuse, it was in use for such a purpose and if, during the period of such temporary disuse, it is constantly maintained in readiness to be brought back into use for such a purpose; but if, in such circumstances, the building or structure at any time during disuse ceases to be ready for use for any of the said purposes, or if at any time, for any reason, the disuse of the building or structure can no longer be reasonably regarded as temporary, then and in any such case, the building or structure shall be deemed to have ceased, on the commencement of the period of disuse, to be used for any of the purposes specified in subsection (1).
 
@@ -3228,7 +3234,7 @@ Provided that, in respect of a motor car acquired —
 
 [Act 28/96 wef 06/09/1996]
 
-(1E) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed on or after 1st January 1996 any certified energy-efficient equipment as a replacement for any other equipment, or has installed on or after that date any approved energy-saving equipment, for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified energy-efficient equipment or approved energy-saving equipment.
+(1E) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed on or after 1st January 1996 any certified energy-efficient equipment as a replacement for any other equipment, or has installed on or after that date any certified energy-saving equipment, for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified energy-efficient equipment or certified energy-saving equipment.
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -3332,7 +3338,7 @@ which has been certified by a professional engineer registered under the Profess
 
 (e) 
 
-“approved energy-saving equipment” means —
+“certified energy-saving equipment” means —
 
 (i) any solar heating or cooling system;
 
@@ -3352,7 +3358,7 @@ which has been certified by a professional engineer registered under the Profess
 
 (ix) any other energy-saving equipment or device,
 
-approved by the Minister or such person as he may appoint.
+which has been certified by the Singapore Productivity and Standards Board to be an energy-saving equipment.
 
 [Act 28/96 wef 06/09/1996]
 
@@ -4733,6 +4739,8 @@ RATES OF TAX
 [20/91]
 
 [28/92]
+
+[(from Y/A 1993.]
 
 [26/93]
 
@@ -6842,6 +6850,10 @@ Cap. 197.
 
 Act 22 of 1996.
 
+35B. National Science and Technology Board
+
+Cap.201A.
+
 36. People’s Association
 
 Cap. 227.
@@ -6929,6 +6941,8 @@ Cap. 330.
 56. Urban Redevelopment Authority
 
 Cap. 340.
+
+[S 372/98 wef 01/01/1997]
 
 B. Clubs, corporations and institutions in Singapore:
 
@@ -8323,3 +8337,10 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 23/96 published on 13 July 1996)|
 ||Date of Second and Third Readings|27 August 1996|
 ||Date of commencement|6 September 1996|
+|121.|**G.N. No. S 372/98—Income Tax Act (Amendment of First Schedule) Order 1998**|
+||Date of commencement|1 January 1997|
+|122.|**Act 31 of 1998—Income Tax Act 1998**|
+||Date of First Reading|29 June 1998|
+|||(Bill No. 29/98 published on 30 June 1998)|
+||Date of Second and Third Readings|31 July 1998|
+||Date of commencement|1 January 1997 (Section 13(a), (e), (f)|
