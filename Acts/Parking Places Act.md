@@ -214,7 +214,7 @@ but does not include any parking place provided under section 4;
 
 ### Parking places to be indicated by traffic signs
 
-11\.—(1) When the Authority authorises the use as a parking place of any part of a road, the Authority shall cause the parking place to be indicated by means of traffic signs.
+11\.—(1) When the Minister authorises the use as a parking place of any part of a road, the Minister shall cause the parking place to be indicated by means of traffic signs.
 
 [28/95]
 
@@ -452,3 +452,8 @@ This Legislative History is provided for the convenience of users of the Parking
 ||Date of commencement|1 September 1995|
 |8.|**1996 Revised Edition—Parking Places Act (Chapter 214)**|
 ||Date of operation|27 December 1996|
+|9.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (item (2) of the Third Schedule –– Amendment of Parking Places Act)|
