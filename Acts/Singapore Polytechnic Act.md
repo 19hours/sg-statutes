@@ -28,6 +28,8 @@
 
 - [11 Power of Board to borrow and invest](#Power-of-Board-to-borrow-and-invest)
 
+- [11A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [12 Use of common seal](#Use-of-common-seal)
 
 - [13 Establishment of Board of Studies](#Establishment-of-Board-of-Studies)
@@ -224,6 +226,12 @@ An Act to establish the Singapore Polytechnic and for matters connected therewit
 
 [9
 
+### Issue of shares, etc.
+
+11A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
+
 ### Use of common seal
 
 12\. The common seal of the Board shall be in the custody of the Principal and shall not be affixed to any instrument, other than diplomas or academic certificates, except in the presence of the Chairman or a member of the Board and the Principal nor until the Chairman or the member of the Board and the Principal have signed their names to the instrument in token of their presence.
@@ -413,3 +421,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Dates of commencement|1 April 1980|
 |8.|**1985 Revised Edition—Singapore Polytechnic Act**|
 ||Date of operation|30 March 1987|
+|9.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002|
