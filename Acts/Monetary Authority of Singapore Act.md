@@ -108,6 +108,8 @@
 
 - [39 Fiat of Attorney-General](#Fiat-of-Attorney-General)
 
+- [39A Legal officer of Authority may act for Authority in civil proceedings](#Legal-officer-of-Authority-may-act-for-Authority-in-civil-proceedings)
+
 - [40 Immunity of Authority from defamation suits](#Immunity-of-Authority-from-defamation-suits)
 
 - [41 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
@@ -788,6 +790,16 @@ MISCELLANEOUS
 
 39\. No prosecution in respect of any offence under this Act shall be instituted without the consent in writing of the Attorney-General .
 
+### Legal officer of Authority may act for Authority in civil proceedings
+
+39A\. Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) or a State Counsel may —
+
+(a) appear in any civil proceedings on behalf of the Authority under the Futures Trading Act (Cap. 116) or the Securities Industry Act (Cap. 289), including proceedings referred to in section 104A of the Securities Industry Act; and
+
+(b) make and do all acts and applications in respect of such proceedings on behalf of the Authority.
+
+[2/2000 wef 06/03/2000]
+
 ### Immunity of Authority from defamation suits
 
 40\.—(1) The Authority shall not, in the absence of malice on its part, be liable to any action for defamation at the suit of any person in respect of any statements made in the discharge of any of its functions under this Act whether the statements are made orally or in writing.
@@ -874,6 +886,11 @@ This Legislative History is provided for the convenience of users of the Monetar
 ||Date of commencement|8.10.99 (except sections 19 (a), (b) and (c) and 20 (d), (e), (f), (h) and (i) 1.12.99 — Section 20 (d), (e), (f), (h) and (i)|
 |11.|**1999 Revised Edition—Monetary Authority of Singapore Act**|
 ||Date of operation|30 December 1999|
+|12.|**Act 2 of 2000—Securities Industry (Amendment) Act 2000**|
+||Date of First Reading|23 November 1999|
+|||(Bill No. 40/1999 published on 3 March 2000)|
+||Date of Second and Third Readings|17 January 2000|
+||Date of commencement|6 March 2000|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
