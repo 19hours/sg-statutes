@@ -332,13 +332,39 @@ PROVISIONS RELATING TO INTEREST PAYMENTS ON AND REDEMPTION OF GOVERNMENT SECURIT
 
 ### Payment of interest
 
-23\.—(1) The interest payable on any Government securities issued under this Act shall be paid half-yearly at the office of the Authority as shall be specified in the regulations relating to the issue of the Government securities.
+23\.—(1) Subject to subsection (2), the interest payable on any Government securities issued under this Act shall be paid half-yearly at the office of the Authority as shall be specified in the regulations relating to the issue of the Government securities.
 
-(2) The Minister shall, in each half-yearly period ending with the day on which interest on Government securities issued under this Act falls due, appropriate out of the Government Securities Fund a sum equal to the appropriate half-year’s interest on the whole of the Government securities so issued in order that the interest for that half-year may be paid therefrom.
+(2) Where any Government security that is redeemable at the election of the holder thereof at any time is redeemed before its date of maturity, a portion of the half-yearly interest payable on that Government security (calculated on a pro-rata basis) shall be payable on such date as may be specified as the redemption date in the duly served notice of intention to redeem that Government security.
+
+[6/2002 wef 08/07/2002]
+
+(3) The Minister shall —
+
+(a) in each half-yearly period ending on the day on which interest on the Government securities falls due; or
+
+(b) in the case of Government securities that are redeemable at the election of the holders thereof at any time, as soon as practicable after due notice of intention to redeem the Government securities before their date of maturity is given,
+
+appropriate out of the Government Securities Fund a sum equal to the appropriate interest (or portion thereof) on all the Government securities that is due and payable in order to pay that interest.
+
+[6/2002 wef 08/07/2002]
 
 ### Redemption of Government securities
 
-24\.—(1) Government securities issued under this Act shall be redeemable at par on such dates as may be specified in the regulations relating to the issue of the Government securities, after which dates all the interest on the principal sums payable on these Government securities shall cease and determine, whether payment of the principal sums has been demanded or not.
+24\.—(1) Government securities shall be redeemable at par —
+
+(a) on such date as may be specified in the regulations relating to the issue of such Government securities (referred to in this Act as the date of maturity); or
+
+(b) in the case of Government securities that are redeemable at the election of the holder thereof at any time, on the earlier of the following dates:
+
+(i) the date of maturity; or
+
+(ii) such date as may be specified as the redemption date in any notice of intention to redeem that is duly served in the prescribed manner.
+
+[6/2002 wef 08/07/2002]
+
+(1A) After the date of maturity of the Government securities under subsection (1), all the interest on the principal sums payable on the Government securities shall cease and determine, whether payment of the principal sums have been demanded.
+
+[6/2002 wef 08/07/2002]
 
 (2) Redemption proceeds of book-entry Government securities shall be disposed of in accordance with the instructions from the depositor for whose account the securities shall have been maintained by the Authority.
 
@@ -428,3 +454,8 @@ This Legislative History is provided for the convenience of users of the Governm
 |||(Bill No. 44/95 published on 6 December 1995)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|1 April 1996|
+|4.|**Act 6 of 2002—Government Securities (Amendment) Act 2002**|
+||Date of First Reading|3 May 2002|
+|||(Bill No. 8/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|8 July 2002|
