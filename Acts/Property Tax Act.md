@@ -1450,3 +1450,8 @@ This Legislative History is provided for the convenience of users of the Propert
 ||Date of commencement|20 February 1987|
 |12.|**1985 Revised Edition—Property Tax Act**|
 ||Date of operation|30 March 1987|
+|13.|**Act 46 of 1996—Property Tax (Amendment) Act 1996**|
+||Date of First Reading|2 December 1996|
+|||(Bill No. 36/96 published on 2 December 1996)|
+||Date of Second and Third Readings|11 December 1996|
+||Date of commencement|27 December 1996|
