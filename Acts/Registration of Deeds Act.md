@@ -130,7 +130,9 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 “probate” means the probate of any will or any letters of administration with the will annexed or copy thereof, stamped with the seal of the Supreme Court or other court of competent jurisdiction, or a certified office copy thereof;
 
-“registered surveyor” means a person registered under the Land Surveyors Act [Cap. 156];
+“registered surveyor” means a person who is registered under the Land Surveyors Act 1991 and has in force a practising certificate issued under that Act;
+
+[Act 24/1991 wef 30/08/1991]
 
 “Registrar” means the Registrar of Deeds and includes any Deputy Registrar of Deeds appointed under this Act;
 
@@ -526,7 +528,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (k) exempting instruments relating to land intended to form part of street or back lanes from any of the provisions of this Act, and prescribing the mode in which such instruments may be registered;
 
-(l) enabling the Registrar in his discretion to dispense with the requirements of section 13(1)(c) when he considers it desirable to do so;
+(l) enabling the Registrar in his discretion to dispense with section 13(1)(c) when he considers it desirable to do so;
 
 (m) the persons by whom and the manner in which any memorandum of discharge shall be signed;
 
@@ -571,3 +573,9 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of commencement|30 November 1988|
 |2.|**1989 Revised Edition—Registration of Deeds Act**|
 ||Date of operation|15 March 1989|
+|3.|**Act 24 of 1991—Land Surveyors Act 1991**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 1991|
+|||(Bill No. 11/1991 published on 28 February 1991)|
+||Date of Second and Third Readings|28 June 1991|
+||Date of commencement|30 August 1991|
