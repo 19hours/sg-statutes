@@ -122,7 +122,9 @@ PRELIMINARY
 
 “public service vehicle” means a vehicle used or kept for use for the carriage of passengers for hire or reward, other than a vehicle constructed for use on fixed rails or specially prepared ways;
 
-“taxi” means a public service vehicle having a seating capacity of not more than 6 persons (including the driver), which plies for hire on any road and is hired under a contract, express or implied, for the use of each such vehicle as a whole or for the use of 2 or more persons who pay separate fares.
+“taxi” means any public service vehicle which is classified as a taxi under the Second Schedule to the Road Traffic Act (Cap. 276).
+
+[28/2001 wef 10/09/2001]
 
 [29/95; 29/99]
 
@@ -692,6 +694,12 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|28 August 1999|
 |7.|**2000 Revised Edition—Public Transport Council Act (Chapter 259B)**|
 ||Date of operation|1 July 2000|
+|8.|**Act 28 of 2001—Road Traffic (Amendment) Act 2001**|
+||(Consequential amendment made to Act by)||
+||Date of First Reading|11 July 2001|
+|||(Bill No. 27/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|10 September 2001|
 ## COMPARATIVE TABLE
 
 Public Transport Council Act
