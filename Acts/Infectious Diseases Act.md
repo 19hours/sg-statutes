@@ -242,7 +242,9 @@ PRELIMINARY
 
 (b) in relation to Part IV, the Minister charged with the responsibility for the environment;
 
-“nurse” means a nurse registered or enrolled under the Nurses and Midwives Act (Cap. 209);
+“nurse” means a registered nurse or enrolled nurse within the meaning of the Nurses and Midwives Act 1999;
+
+[46/99 wef 01/05/2000]
 
 “occupier”, in relation to any premises or vessel, means the person in occupation of the premises or vessel or having the charge or control thereof either on his own account or as an agent of another person;
 
@@ -1264,6 +1266,12 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|1 April 1999|
 |14.|**1999 Revised Edition—Infectious Diseases Act**|
 ||Date of operation|1 August 1999|
+|15.|**Act 46 of 1999—Nurses and Midwives Act 1999**|
+||(Consequential amendments made by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 38/99 published on 12 October 1999)|
+||Date of Second and Third Readings|24 November 1999|
+||Date of commencement|1 May 2000|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
