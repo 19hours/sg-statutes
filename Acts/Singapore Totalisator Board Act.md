@@ -98,7 +98,15 @@ PRELIMINARY
 
 “Board” means the Singapore Totalisator Board established under section 3;
 
+“gaming” means the playing of any game of chance or of mixed chance and skill for money or money’s worth;
+
+[13/2004 wef 01/05/2004]
+
 “horse race” includes a pony race;
+
+“lottery” includes any game, method, device, scheme or competition whereby money or money’s worth is distributed or allotted in any manner depending upon or to be determined by chance or lot;
+
+[13/2004 wef 01/05/2004]
 
 “race course” means any land used for the purpose of a race meeting;
 
@@ -134,7 +142,9 @@ SINGAPORE TOTALISATOR BOARD
 
 (b) to conduct equine research and establish, maintain and improve turf clubs, training centres for apprentices, jockeys, blacksmiths and others employed in connection with racing, and other places used in connection with racing;
 
-(c) to conduct 4 digit numbers forecast draws in accordance with any scheme which the Minister may, subject to such conditions as he may impose, authorise;
+(c) to operate and conduct (by means of a totalisator or otherwise) such lottery or other betting or gaming activities as may be prescribed, in accordance with any scheme which the Minister may, subject to such conditions as he may impose, authorise;
+
+[13/2004 wef 01/05/2004]
 
 (d) with the approval of the Minister, to establish and maintain places and facilities for recreation on land owned or held by the Board and to carry out such activities as appear to the Board to be requisite, advantageous or convenient for or in connection with its functions; and
 
@@ -154,11 +164,17 @@ SINGAPORE TOTALISATOR BOARD
 
 5\.—(1) The Board shall, subject to the provisions of this Act, have power to do all such things as are in its opinion necessary for or conducive to the proper discharge of its functions under this Act and, in particular, the Board shall have power —
 
-(a) to provide technical assistance and advice relating to racing and gaming in Singapore or elsewhere; and
+(a) to provide assistance and advice relating to racing, betting and gaming in Singapore or elsewhere; and
 
-(b) to form or participate in the formation of any company or joint venture for the purpose of carrying out any function of the Board or for such other purposes as the Minister may approve.
+[13/2004 wef 01/05/2004]
 
-[4/97]
+[12/2008 wef 27/12/2010]
+
+(b) to subscribe for or acquire any securities, stocks or shares of any company or to form or participate in the formation of any company, partnership or joint venture for the purpose of carrying out any function of the Board or for such other purposes as the Minister may approve.
+
+[13/2004 wef 01/05/2004]
+
+[12/2008 wef 27/12/2010]
 
 (2) Subject to any regulations made under section 21, the Board may, from time to time, distribute any moneys forming part of the funds of the Board and not required by it in the exercise of its functions under section 4 for all or any of the following purposes:
 
@@ -172,7 +188,7 @@ SINGAPORE TOTALISATOR BOARD
 
 (a) a Chairman; and
 
-(b) not less than 4 and not more than 6 other members as the Minister may from time to time determine.
+(b) not less than 4 and not more than 11 other members as the Minister may from time to time determine.
 
 (2) The First Schedule shall have effect with respect to the Board, its members and proceedings.
 
@@ -519,6 +535,11 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002 (except item 18 of the Schedule)|
+|7.|**Act 13 of 2004—Singapore Totalisator Board (Amendment) Act 2004**|
+||Date of First Reading|27 February 2004|
+|||(Bill No. 8/2004 published on 28 February 2004)|
+||Date of Second and Third Readings|20 April 2004|
+||Date of commencement|1 May 2004|
 ## COMPARATIVE TABLE
 
 Singapore Totalisator Board Act
