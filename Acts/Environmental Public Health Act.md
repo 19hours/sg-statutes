@@ -1839,3 +1839,8 @@ This Legislative History is provided for the convenience of users of the Environ
 |||(Bill No. 31/92 published on 1 August 1992)|
 ||Date of Second and Third Readings|14 September 1992|
 ||Date of commencement|1 November 1992|
+|5.|**Act 2 of 1996—Environmental Public Health (Amendment) Act 1996**|
+||Date of First Reading|1 November 1995|
+|||(Bill No. 41/95 published on 2 November 1995)|
+||Date of Second and Third Readings|5 December 1995|
+||Date of commencement|2 February 1996|
