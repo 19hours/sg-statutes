@@ -108,6 +108,8 @@
 
 - [14C (Repealed)](#Repealed)
 
+- [14C Further deduction for logistics expenses](#Further-deduction-for-logistics-expenses)
+
 - [14D Expenditure on research and development](#Expenditure-on-research-and-development)
 
 - [14E Further deduction for expenditure on research and development project](#Further-deduction-for-expenditure-on-research-and-development-project)
@@ -716,6 +718,10 @@ shall be guilty of an offence.
 
 (10) Notwithstanding anything in this section, the Comptroller may furnish to the Chief Executive Officer of the Central Provident Fund Board any information which may be required by him in the performance of his duties, or may permit such access to any records or documents as may be necessary for that purpose.
 
+(10A) Notwithstanding anything in this section, the Comptroller may, for the purpose of enabling the Chief Statistician to perform his duties under the Statistics Act (Cap. 317), furnish and permit the Chief Statistician access to any information and records prescribed in rules made under section 7.
+
+[16/2004 wef 01/07/2004]
+
 (11) Notwithstanding anything in this section, the Comptroller may lay a complaint of professional misconduct against any person in his professional dealings with the Comptroller to the appropriate authority empowered to take disciplinary action against the person and may in connection with the complaint furnish any relevant documents or information.
 
 [4/75]
@@ -938,7 +944,7 @@ shall not be deemed to be income for the purposes of subsection (1).
 
 [28/96]
 
-(14) For the purposes of subsection (1)(a) and (f), the income derived by any author, composer or choreographer, or any company in which he beneficially owns all the issued share capital, from any royalties or other payments received from a person carrying on in Singapore the business of publishing, of recording music or of producing cinematograph films, choreographic works or plays as consideration for the assignment of or for the right to use the copyright in any literary, dramatic, musical or artistic work, shall be deemed to be —
+(14) For the purposes of subsection (1)(a) and (f), the income derived by any author, composer or choreographer, or any company in which he beneficially owns all the issued shares, from any royalties or other payments received from a person carrying on in Singapore the business of publishing, of recording music or of producing cinematograph films, choreographic works or plays as consideration for the assignment of or for the right to use the copyright in any literary, dramatic, musical or artistic work, shall be deemed to be —
 
 (a) the amount of the royalties or other payments remaining after the deductions allowable under Parts V and VI have been made; or
 
@@ -1086,9 +1092,9 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (b) in relation to a company, means a company which is not resident in Singapore and —
 
-(i) in the case of a company with not more than 50 shareholders, the whole of its issued capital is beneficially owned, directly or indirectly, by persons who are not citizens of Singapore and not resident in Singapore; and
+(i) in the case of a company with not more than 50 shareholders, all of its issued shares are beneficially owned, directly or indirectly, by persons who are not citizens of Singapore and not resident in Singapore; and
 
-(ii) in the case of a company with more than 50 shareholders, not less than 80% of its issued capital is beneficially owned, directly or indirectly, by persons who are not citizens of Singapore and not resident in Singapore; and
+(ii) in the case of a company with more than 50 shareholders, not less than 80% of the total number of its issued shares are is beneficially owned, directly or indirectly, by persons who are not citizens of Singapore and not resident in Singapore; and
 
 (c) in relation to a trust fund, means a trust fund where at least 80% of the value of the fund is beneficially held, directly or indirectly, by foreign investors referred to in paragraph (a) or (b) and, unless waived by the Minister or such person as he may appoint, where —
 
@@ -2077,7 +2083,7 @@ the income received by a person resident in Singapore from such source in any co
 
 (a) an amount equal to the income exempt from tax or an amount equal to the net income after deduction of tax levied at the concessionary rate of tax, as the case may be, shall be credited to an account to be kept by the company for the purpose of this subsection; and
 
-(b) subsections (3) to (10) of section 13E shall apply, with the necessary modifications, to the company in respect of a distribution of dividends from the income as if the company were a company referred to in section 13E(3).
+(b) subsections (3) to (10), (12) and (13) of section 13E shall apply, with the necessary modifications, to the company in respect of a distribution of dividends from the income as if the company were a company referred to in section 13E(3).
 
 [32/95]
 
@@ -2771,6 +2777,8 @@ C is the number of part-time employees (other than non-executive directors) on t
 
 D is the number of full-time employees with less than one-year’s service (other than non-executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year; and
 
+E is the number of employees engaged on contracts not exceeding 2 years (other than non-executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year;
+
 “holding company” has the same meaning as in section 5 of the Companies Act (Cap. 50);
 
 “minimum holding period” has the same meaning as in section 13J;
@@ -2844,6 +2852,8 @@ D is the number of full-time employees with less than one-year’s service (othe
 where
 
 X is the cost of the shares at the date of acquisition; and
+
+Y is the total number of the original shares, bonus shares and split shares; and
 
 (ii) where the original shares upon which the bonus shares or split shares are derived were donated on or after 1st April 2003, on the date of donation of the original shares.
 
@@ -3270,6 +3280,102 @@ ought not to have been so allowed or exempted, as the case may be, the Comptroll
 [32/95; 31/98]
 
 14C\. [Repealed by Act 31/98]
+
+### Further deduction for logistics expenses
+
+14C\.—(1) Subject to this section, where the Comptroller is satisfied that an approved company has incurred approved logistics expenses, there shall be allowed to the company a further deduction of the amount of such expenses specified by the Minister or such person as he may appoint, in addition to the amount allowed under section 14.
+
+(2) The Minister or such person as he may appoint may —
+
+(a) specify the items of logistics expenses to be allowed to an approved company under subsection (1);
+
+(b) specify the maximum amount of logistics expenses to be allowed to an approved company under subsection (1) for each year of assessment, up to the full amount of such expenses incurred by the company;
+
+(c) specify the number of years of assessment for which deduction is to be allowed to an approved company under subsection (1), up to a maximum of 10 years of assessment; and
+
+(d) impose such conditions as he thinks fit when approving a company for the purpose of this section.
+
+(3) No deduction shall be allowed under this section in respect of any logistics expenses which are not allowed as deductions under section 14.
+
+(4) Where in any relevant period an approved company fails to comply with any condition imposed under subsection (2)(d), there shall be deemed to be income of the company, chargeable with tax for the year of assessment relating to the basis period in which such failure occurs, an amount ascertained in accordance with the formula
+
+where
+
+E
+
+1
+
+, E
+
+2
+
+, E
+
+3
+
+, E
+
+n
+
+is the total amount of logistics expenses allowed to the company under subsection (1) for each year of assessment falling within the relevant period in which such failure occurs;
+
+C
+
+1
+
+, C
+
+2
+
+, C
+
+3
+
+, C
+
+n
+
+is the rate of tax under section 43(1)(a) or concessionary rate of tax, or both such rates, as the case may be, applicable to the income of the company for each year of assessment falling within the relevant period in which such failure occurs; and
+
+D
+
+is the rate of tax under section 43(1)(a) or concessionary rate of tax, or both such rates, as the case may be, applicable to the income of the company for the year of assessment relating to the basis period in which such failure occurs.
+
+(5) Notwithstanding subsection (4), the Minister or such person as he may appoint may vary all or any of the conditions imposed on an approved company under subsection (2)(d).
+
+(6) In this section —
+
+“approved” means approved by the Minister or such person as he may appoint;
+
+“approved company” means a company resident in Singapore which —
+
+(a) undertakes logistics activities in-house in support of its business activities; or
+
+(b) outsources its logistics activities to a service provider,
+
+and approved by the Minister or such person as he may appoint;
+
+“concessionary rate of tax” means the rate of tax in accordance with —
+
+(a) any order made under section 13(12);
+
+(b) the regulations made undersection 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43Ror 43S, as the case may be; or
+
+(c) section 19J(5) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
+
+“logistics expenses” means expenses incurred by an approved company which are —
+
+(a) directly attributable to the carrying out of logistics activities by the company in Singapore; or
+
+(b) paid to a service provider that carries out the company’s logistic activities in Singapore,
+
+but excludes such expenses on international freight;
+
+“relevant period”, in relation to an approved company, means the period or periods any condition imposed under subsection (2)(d) is to be satisfied by the company.
+
+(7) No approval shall be granted under this section on or after 1st July 2009.
+
+[49/2004 wef 01/07/2004]
 
 ### Expenditure on research and development
 
@@ -3734,6 +3840,8 @@ C is —
 (a)
 
 the residual expenditure immediately after the assignment; or
+
+[32/99]
 
 (b)
 
@@ -10063,6 +10171,17 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 7/2004 published on 28 February 2004)|
 ||Date of Second and Third Readings|20 April 2004|
 ||Date of commencement|28 April 2004 (section 30 — amendment of Income Tax Act)|
+|182.|**Act 16 of 2004—Statistics (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 April 2004|
+|||(Bill No. 15/2004 published on 20 April 2004)|
+||Date of Second and Third Readings|19 May 2004|
+||Date of commencement|1 July 2004|
+|183.|**Act 49 of 2004—Income Tax (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 58/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|1 July 2004 (Section 13)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
