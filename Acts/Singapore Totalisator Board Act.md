@@ -30,6 +30,8 @@
 
 - [9A Issue of shares, etc.](#Issue-of-shares-etc)
 
+- [9B Power to borrow](#Power-to-borrow)
+
 - [10 Financial provisions](#Financial-provisions)
 
 [**Part III TOTALISATORS AND TOTALISATOR AGENCIES**](#Part-III)
@@ -216,6 +218,20 @@ SINGAPORE TOTALISATOR BOARD
 
 [5/2002 wef 15/07/2002]
 
+### Power to borrow
+
+9B\.—(1) The Board may, from time to time, for the purposes of this Act, raise loans from the Government or, with the approval of the Minister, raise loans within or outside Singapore from such source as the Minister may direct by —
+
+(a) mortgage, overdraft or other means, with or without security;
+
+(b) charge, whether legal or equitable, on any property vested in the Board or on any other revenue receivable by the Board under this Act or any other written law; or
+
+(c) the creation and issue of debentures, bonds or any other instrument as the Minister may approve.
+
+(2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods or services.
+
+[14/2005 wef 01/04/2005]
+
 ### Financial provisions
 
 10\. The financial provisions set out in the Second Schedule shall have effect with respect to the Board.
@@ -256,7 +272,9 @@ TOTALISATORS AND TOTALISATOR AGENCIES
 
 (a) the amount of any duty charged under the Betting and Sweepstake Duties Act (Cap. 22); and
 
-(b) by way of commission, such amount as may be prescribed by any regulations made under section 21, of all such moneys.
+(b) the amount of any commission prescribed, or determined in any manner prescribed, in any regulations made under section 21.
+
+[14/2005 wef 01/04/2005]
 
 (2) It shall not be necessary to pay out fractions of a dollar.
 
@@ -546,6 +564,12 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|9.|**Act 14 of 2005—Betting and Sweepstake Duties (Amendment) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|28 February 2005|
+|||(Bill No. 4/2005 published on 1 March 2005)|
+||Date of Second and Third Readings|11 March 2005|
+||Date of commencement|1 April 2005|
 ## COMPARATIVE TABLE
 
 Singapore Totalisator Board Act
