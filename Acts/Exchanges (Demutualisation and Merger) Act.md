@@ -214,15 +214,17 @@ shall prohibit the capital reduction under section 4 and the capital creation un
 
 ### Application of Companies Act to shares held by special purpose company
 
-11\.—(1) Notwithstanding section 213 of the Companies Act (which deals with take-over offers) and the Singapore Code on Take-Overs and Mergers referred to in section 213(18)(a) of the Companies Act (referred to in this section as the Code), the transferee holding company’s shares held by the special purpose company under section 8(1) shall not be taken into account in determining whether —
+11\.—(1) Notwithstanding section 139 or 140 of the Securities and Futures Act 2001 (relating to take-overs offers) and the Take-over Code referred to in section 139(2) of that Act (referred to in this section as the Code), the transferee holding company’s shares held by the special purpose company under section 8(1) shall not be taken into account in determining whether —
 
 (a) the special purpose company;
 
-(b) any other company that is deemed by virtue of section 6 of the Companies Act to be related to the special purpose company; or
+(b) any other company that is deemed by virtue of section 6 of the Companies Act (Cap. 50) to be related to the special purpose company; or
 
 (c) a company acting in concert with the company referred to in paragraph (a) or (b), as defined in the Code,
 
-has acquired shares which carry the right to exercise or control the exercise of the votes attached to the transferee holding company’s shares for the purposes of section 213 of the Companies Act (Cap. 50) or the Code.
+has acquired shares which carry the right to exercise or control the exercise of the votes attached to the transferee holding company’s shares for the purposes of section 139 or 140 of the Securities and Futures Act 2001 or the Code.
+
+[42/2001 wef 01/01/2002]
 
 (2) Notwithstanding any of the provisions of the Companies Act or anything contained in the memorandum or articles of association of the transferee holding company or the special purpose company, the special purpose company shall —
 
@@ -396,6 +398,11 @@ This Legislative History is provided for the convenience of users of the Exchang
 |||(section 19(a), (b)and (c))|
 |4.|**2000 Revised Edition—Exchanges (Demutualisation and Merger) Act**|
 ||Date of operation|30 December 2000|
+|5.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Dates of commencement|1st January 2002|
 ## COMPARATIVE TABLE
 
 Exchanges (Demutualisation and Merger) Act
