@@ -152,7 +152,9 @@ PRELIMINARY
 
 “Board” means the Professional Engineers Board established under section 4;
 
-“building” has the same meaning as in the Building Control Act [Cap. 29];
+“builder”, “building” and “building works” have the same meanings as in the Building Control Act (Cap. 29);
+
+[18/2003 wef 01/01/2004]
 
 “building authority” means any person empowered under the provisions of the Building Control Act to approve plans of building works;
 
@@ -386,6 +388,10 @@ Provided that nothing in this subsection shall apply to prevent a corporation th
 
 [Act 4/95 wef 01/041995]
 
+(5A) Notwithstanding subsection (5), a builder may supply or offer to supply professional engineering services in Singapore in connection with any building works which he undertakes to carry out if the professional engineering services are provided by a person referred to in subsection (5)(a), (b) or (c).
+
+[18/2003 wef 01/01/2004]
+
 (6) Any person who contravenes subsection (1), (2), (3), (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 (7) Nothing in this section shall be construed to permit or authorise any licensed corporation or partnership to supply any professional engineering services which it is not licensed to supply.
@@ -494,9 +500,13 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (c) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying professional engineering services in Singapore;
 
-(d) the declaration under subsection (3) contains a statement that to its knowledge is false in a material particular; or
+(d) the declaration under subsection (3) contains a statement that to its knowledge is false in a material particular;
 
-(e) the conduct of the applicant affords reasonable grounds for believing that he will not engage in professional engineering work in Singapore in accordance with any written law and with honesty and integrity.
+(e) the conduct of the applicant affords reasonable grounds for believing that he will not engage in professional engineering work in Singapore in accordance with any written law and with honesty and integrity; or
+
+(f) the Board is not satisfied that the applicant has complied with the prescribed requirements relating to continuing professional education.
+
+[18/2003 wef 01/01/2004]
 
 (5) Any registered professional engineer (not being a registered professional engineer who is applying for a practising certificate for the first time) who fails to apply for a practising certificate in the manner and within the period laid down in subsection (1) may, on the making of an application in such form and on payment of such additional fee as may be prescribed, be issued a practising certificate for —
 
@@ -526,23 +536,27 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 ### Licence for multi-discipline and corporate practice
 
-20\.—(1) Subject to the provisions of this Act, the Board may grant a licence to any corporation to supply any professional engineering services in Singapore if —
+20\.—(1) Subject to the provisions of this Act, the Board may grant a licence to any limited corporation to supply any professional engineering services in Singapore if —
 
 (a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply such professional engineering services;
 
 (b) at least $1 million of its authorised capital is bona fide paid-up;
 
-(c) the articles of association of the corporation provide that the chairman and at least two-thirds of the directors of the corporation shall be registered professional engineers or allied professionals;
+(c) the articles of association of the corporation provide that a prescribed number or proportion of directors shall be registered professional engineers or allied professionals;
 
-[Act 4/95 wef 01/04/1995]
+[18/2003 wef 01/01/2004]
 
 (d) [Deleted by Act 4/95 wef 01/04/1995]
 
 (e) the business of the corporation, so far as it relates to such professional engineering work in Singapore, will be under the control and management of a director of the corporation who —
 
-(i) is a registered professional engineer ordinarily resident in Singapore; and
+(i) is a registered professional engineer who has in force a practising certificate; and
 
-(ii) has in force a practising certificate authorising him to engage in such professional engineering work; and
+[18/2003 wef 01/01/2004]
+
+(ii) is authorised under a resolution of the board of directors of the corporation to make all final engineering decisions on behalf of the corporation with respect to the requirements of this Act, the rules or any other law relating to the supply of professional engineering services by the corporation; and.
+
+[18/2003 wef 01/01/2004]
 
 (iii) [Deleted by Act 4/95 wef 01/04/1995]
 
@@ -564,11 +578,17 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (c) the business of the corporation, so far as it relates to professional engineering work, will be under the control and management of a director of the corporation who —
 
-(i) is a registered professional engineer ordinarily resident in Singapore;
+(i) is a registered professional engineer who has in force a practising certificate;
 
-(ii) has in force a practising certificate authorising him to engage in such professional engineering work; and
+[18/2003 wef 01/01/2004]
 
-(iii) is a member, or a registered owner of at least one share, of the corporation.
+(ii) is a member, or a registered owner of at least one share, of the corporation; and
+
+[18/2003 wef 01/01/2004]
+
+(iii) is authorised under a resolution of the board of directors of the corporation to make all final engineering decisions on behalf of the corporation with respect to the requirements of this Act, the rules or any other law relating to the supply of professional engineering services by the corporation..
+
+[18/2003 wef 01/01/2004]
 
 [Subst. by Act 4/95 wef 01/04/1995]
 
@@ -578,7 +598,7 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (b) the business of the partnership, so far as it relates to professional engineering work in Singapore, will be under the control and management of a partner who —
 
-(i) is a registered professional engineerordinarily resident in Singapore; and
+(i) is a registered professional engineer; and
 
 (ii) has in force a practising certificate authorising the partner to engage in such professional engineering work.
 
@@ -602,25 +622,33 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (8) Any person whose application for a licence has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the Minister whose decision shall be final.
 
+(9) In subsection (1), “prescribed number or proportion of directors” means —
+
+(a) a majority of the directors, where no number or proportion is specified under paragraph (b); or
+
+(b) where a number or proportion is specified by the Minister for the purposes of subsection (1) by notification in theGazette, such number or proportion of directors as may for the time being be so specified..
+
+[18/2003 wef 01/01/2004]
+
 ### Conditions of licence to practise
 
-21\.—(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply professional engineering services in Singapore only under the control and management of a registered professional engineer who —
+21\.—(1) It shall be a condition of every licence granted to any corporation or partnership that the corporation or partnership shall supply professional engineering services in Singapore through a professional engineer —
 
-(a) is ordinarily resident in Singapore; and
+(a) who shall be responsible for the professional engineering works;
 
-(b) has in force a practising certificate authorising him to engage in professional engineering work to which those services relate,
+(b) who has in force a practising certificate authorising him to engage in professional engineering work to which those services relate; and
 
-and who is —
+(c) who is —
 
-(i) is the case of a corporation other than an unlimited corporation, a director of the corporation;
+(i) in the case of a corporation other than an unlimited corporation, a director or an employee of the corporation;
 
-(ii) in the case of an unlimited corporation which has a share capital, a director and registered owner of at least one share of the corporation;
+(ii) in the case of an unlimited corporation which has a share capital, either a director or an employee of the corporation who is a registered owner of at least one share of the corporation;
 
-(iii) in the case of an unlimited corporation which does not have any share capital, a director and member of the corporation; or
+(iii) in the case of an unlimited corporation which does not have any share capital, either a director or an employee of the corporation who is a member of the corporation; or
 
 (iv) in the case of a partnership, a partner thereof.
 
-[Act 4/95 wef 01/04/1995]
+[18/2003 wef 01/01/2004]
 
 (2) It shall be a condition of every licence granted to any corporation, other than an unlimited corporation, that the corporation shall not supply professional engineering services in Singapore unless the corporation is insured in respect of professional liability in accordance with section 24 and the rules.
 
@@ -634,9 +662,13 @@ and who is —
 
 22\.—(1) Any licensed corporation shall, within 30 days of the occurrence of —
 
-(a) any alteration of its memorandum or articles of association to remove the restrictions, limitations or prohibitions of the kind specified in section 20(1), (2) or (4), whichever is applicable; or
+(a) any alteration of its memorandum or articles of association to remove the restrictions, limitations or prohibitions of the kind specified in section 20(1), (2) or (4), whichever is applicable;
 
-(b) any change in the composition of its board of directors, members or shareholders,
+(b) any change in the composition of its board of directors, members or shareholders; or
+
+(c) any revocation of any resolution passed by the board of directors under section 20(1)(e)(ii) or (2)(c)(iii),
+
+[18/2003 wef 01/01/2004]
 
 furnish the Board a true report in writing giving full particulars of the alteration or change.
 
@@ -662,7 +694,7 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 ### Professional responsibility of supervising engineers
 
-26\. A registered professional engineer who has the control and management of the business of a licensed corporation relating to the supply of professional engineering services in Singapore shall be subject to the same standards of professional conduct and competence in respect of the business as if the professional engineering services were personally supplied by the registered professional engineer.
+26\. A registered professional engineer who has the control and management of the business of a licensed corporation relating to the supply of professional engineering services in Singapore shall be subject to the same standards of professional conduct in respect of the business as if the professional engineering services were personally supplied by the registered professional engineer.
 
 ## PART VII
 
@@ -948,9 +980,7 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
 ### References in other written laws
 
-45\. 
-
-(1) On the expiration of two months from and including 30th August 1991, all references in any other written law to registered professional engineers, or to persons registered under the provisions of the repealed Act, shall be read as references to registered professional engineers who have in force practising certificates within the meaning of this Act.
+45\.—(1) On the expiration of two months from and including 30th August 1991, all references in any other written law to registered professional engineers, or to persons registered under the provisions of the repealed Act, shall be read as references to registered professional engineers who have in force practising certificates within the meaning of this Act.
 
 ## THE SCHEDULE
 
@@ -970,7 +1000,7 @@ Professional Engineers Act
 
 (CHAPTER 253)
 
-This Legislative History is provided for the convenience of users of the Professional Engineers Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Professional Engineers Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -1001,3 +1031,8 @@ This Legislative History is provided for the convenience of users of the Profess
 ||Date of Second and Third Readings|8 July 2002|
 ||Date of commencement|13 January 2003|
 |||(section 63 — Consequential amendments to other Acts)|
+|6.|**Act 18 of 2003—Building Control (Amendment) Act 2003**|
+||Date of First Reading|14 August 2003|
+|||(Bill No. 17/2003 published on 15 August 2003)|
+||Date of Second and Third Readings|2 September 2003|
+||Date of commencement|1 January 2004|
