@@ -12,6 +12,8 @@
 
 - [3 Establishment of the Agency for Science, Technology and Research](#Establishment-of-the-Agency-for-Science-Technology-and-Research)
 
+- [3A Common seal](#Common-seal)
+
 - [4 Constitution of Agency](#Constitution-of-Agency)
 
 - [5 Functions of Agency](#Functions-of-Agency)
@@ -26,7 +28,7 @@
 
 - [9 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
 
-- [10 Investment](#Investment)
+- [10 Powers of investment](#Powers-of-investment)
 
 - [11 Annual report](#Annual-report)
 
@@ -42,7 +44,7 @@
 
 - [17 Preservation of secrecy](#Preservation-of-secrecy)
 
-- [18 Transfer of property, employees, etc.](#Transfer-of-property-employees-etc)
+- [18 (Repealed)](#Repealed)
 
 - [19 Symbol of Agency](#Symbol-of-Agency)
 
@@ -50,7 +52,7 @@
 
 [**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
-[**THIRD SCHEDULE Provisions relating to the transfer of assets, liabilities and employees**](#THIRD-SCHEDULE-Provisions-relating-to-the-transfer-of-assets-liabilities-and-employees)
+[**THIRD SCHEDULE**](#THIRD-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -109,6 +111,28 @@ An Act to establish the Agency for Science, Technology and Research and for matt
 (2) The Agency may perform any of its functions or carry out any of its duties under the business name of A*STAR, or such other business name as the Minister may, from time to time by notification in theGazette, specify.
 
 [26/2002 wef 01/01/2002]
+
+### Common seal
+
+3A\.—(1) The Agency shall have a common seal and such seal may from time to time be broken, altered or made anew as the Agency thinks fit.
+
+(2) All deeds and other documents requiring the seal of the Agency shall be sealed with the common seal of the Agency in the presence of —
+
+(a) the Chairman or a Deputy Chairman of the Agency; and
+
+(b) an employee of the Agency who is authorised by resolution or otherwise in writing (either generally or specially) to act in that behalf,
+
+and shall be signed by these persons.
+
+(3) Such signing shall be sufficient evidence that the common seal of the Agency has been duly and properly affixed and that the seal is the lawful common seal of the Agency.
+
+(4) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Agency affixed to any document and shall presume that it was duly affixed.
+
+(5) The Agency may, by resolution or otherwise in writing, appoint an employee of the Agency or any other agent, either generally or specially, to execute or sign on behalf of the Agency any agreement or other instrument not under seal in relation to any matter coming within the powers of the Agency.
+
+(6) Section 12 of the Registration of Deeds Act (Cap. 269) shall not apply to any instrument purporting to have been executed under subsection (2).
+
+[26/2002 wef 01/10/2002]
 
 ### Constitution of Agency
 
@@ -210,9 +234,13 @@ An Act to establish the Agency for Science, Technology and Research and for matt
 
 [18/2000 wef 01/06/2000]
 
-(j) receive donations and contributions from any source and raise funds by all lawful means; and
+(j) receive donations and contributions from any source and raise funds by all lawful means;
 
 [18/2000 wef 01/06/2000]
+
+(ja) with the approval of the Minister, establish any scheme for the payment of gratuities, pensions, provident fund or other superannuation benefits to such employees or classes of employees of the Agency as it may determine on their death in or retirement from the service of the Agency or on their otherwise leaving the service of the Agency; and
+
+[26/2002 wef 01/10/2002]
 
 (k) generally do anything incidental to or consequential upon the exercise of any of its powers or the discharge of its functions under this Act.
 
@@ -242,9 +270,15 @@ An Act to establish the Agency for Science, Technology and Research and for matt
 
 (2) The moneys of the Agency shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Agency and in making any payments that the Agency is authorised or required to make.
 
-### Investment
+### Powers of investment
 
-10\. Moneys belonging to the Board may be invested in such securities as trustees may by any written law be authorised to invest or, with the written approval of the Minister, in any other securities or investments.
+10\. The Agency may
+
+(a) invest its moneys in such securities and other investments as it thinks fit, including the deposit of moneys with financial institutions and other business or professional bodies; and
+
+(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
+
+[26/2002 wef 01/10/2002]
 
 ### Annual report
 
@@ -290,9 +324,7 @@ An Act to establish the Agency for Science, Technology and Research and for matt
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
 
-### Transfer of property, employees, etc.
-
-18\. The Third Schedule shall have effect for the purpose of the transfer to the Board of the property, employees, rights and liabilities of the Council and for other transitional purposes specified therein.
+18\. [Deleted by Act 26/2002 wef 01/10/2002]
 
 ### Symbol of Agency
 
@@ -466,39 +498,7 @@ Audited financial statements and report of auditor
 
 THIRD SCHEDULE
 
-Section 18.
-
-Provisions relating to the transfer of assets, liabilities and employees
-
-Transfer to Board of assets and liabilities
-
-1\. As from 11th January 1991, all movable and immovable property vested in the Council immediately before that date and all assets, rights, interest, privileges, liabilities and obligations incurred by the Council in connection therewith shall be transferred to and shall vest in the Board without further assurance.
-
-Transfer of employees
-
-2.—(1) As from 11th January 1991, all persons employed immediately before that date by the Council shall be transferred to the service of the Board on terms not less favourable than those enjoyed by them immediately prior to their transfer.
-
-(2) Until such time as terms and conditions of service are drawn up by the Board, the scheme and terms and conditions of service in the Council shall continue to apply to every person transferred to the service of the Board under sub-paragraph (1) as if he were still in the service of the Council.
-
-(3) The terms and conditions to be drawn up by the Board shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the persons transferred to the service of the Board under this section while in the employment of the Council; and any such term or condition relating to the length of service with the Board shall provide for the recognition of service under the Council by the persons so transferred to be service by them under the Board.
-
-Existing contracts
-
-3\. All deeds, bonds, agreements, instruments and arrangements, subsisting immediately before 11th January 1991, relating to the Council or to any person transferred to the service of the Board under section 18 shall continue in force on and after that date and shall be enforceable by or against the Board as if the Board had been named therein or had been a party thereto.
-
-Pending proceedings
-
-4\. Any proceeding or cause of action pending or existing immediately before 11th January 1991 by or against the Council or any person acting on its behalf may be continued and enforced by or against the Board.
-
-Continuation and completion of disciplinary proceedings
-
-5.—(1) Where on 11th January 1991 any disciplinary proceedings were pending against any employee of the Council transferred to the service of the Board, the proceedings shall be carried on and completed by the Board; but where on that date any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that date.
-
-(2) An order, ruling or direction made or given by a committee pursuant to this section shall be treated as an order, ruling or direction of the Board and have the same force or effect as if it had been made or given by the Board pursuant to the authority vested in the Board under this Act.
-
-Misconduct by employee before transfer
-
-6\. The Board may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, whilst he was in the employment of the Council, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Council as if this Act had not been enacted.
+Deleted by Act 26/2002 wef 01/10/2002.
 
 ## LEGISLATIVE HISTORY
 
@@ -522,16 +522,16 @@ This Legislative History is provided for the convenience of users of the Agency 
 |||(Bill No. 10/2000 published on 22 February 2000)|
 ||Date of Second and Third Readings|25 April 2000|
 ||Date of commencement|1 June 2000|
-|4.|**Act 26 of 2002—National Science and Technology Board (Amendment) Act 2002**|
-||Date of First Reading|27 July 2002|
-|||(Bill No. 26/2002 published on 28 July 2002)|
-||Date of Second and Third Readings|27 August 2002|
-||Date of commencement|1 January 2002|
-|||(except sections 6, 8(b), 9 and 10)|
-|5.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+|4.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|3 May 2002|
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002|
 |||(item (18) in the Schedule)|
+|5.|**Act 26 of 2002—National Science and Technology Board (Amendment) Act 2002**|
+||Date of First Reading|27 July 2002|
+|||(Bill No. 26/2002 published on 28 July 2002)|
+||Date of Second and Third Readings|27 August 2002|
+||Date of commencement|1 January 2002|
+|||1 October 2002|
