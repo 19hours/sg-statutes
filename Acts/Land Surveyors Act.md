@@ -1036,6 +1036,10 @@ CONDUCT OF CADASTRAL SURVEYS
 
 [3/98; 17/2001]
 
+(4) Where the strata subdivision of any building or class of buildings has been authorised by a notification made by the Minister under section 21(6) of the Planning Act, the Chief Surveyor shall not, when he approves any plan under this section, be obliged to enquire whether any of the conditions set out in the notification or imposed by the competent authority under the Planning Act have been satisfied or complied with.
+
+[30/2003 wef 10/12/2003]
+
 ### Duty of registered surveyor to complete cadastral survey
 
 40\.—(1) A registered surveyor who prepares and signs an assurance plan shall carry out and complete the cadastral survey of the land described and shown in the plan within 6 months from the date of approval of the plan by the Chief Surveyor or such extended period as the Chief Surveyor may allow.
@@ -1241,6 +1245,12 @@ This Legislative History is provided for the convenience of users of the Land Su
 |||(Bill No. 16/2002 published on 24 May 2002)|
 ||Date of Second and Third Readings|8 July 2002|
 ||Dates of commencement|13 January 2003 (sections 2(b), 3 to 35, 42 to 54, 55(a), 56 to 60, 62, 63 and 64)|
+|10.|**Act 30 of 2003—Planning (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 October 2003|
+|||(Bill No. 27/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Dates of commencement|10 December 2003 (except section 12)|
 ## COMPARATIVE TABLE
 
 Land Surveyors Act
