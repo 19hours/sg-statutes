@@ -1036,3 +1036,8 @@ This Legislative History is provided for the convenience of users of the Subordi
 |||(Bill No. 12/93 published on 27 February 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
+|11.|**Act 4 of 1996—Subordinate Courts (Amendment) Act 1995**|
+||Date of First Reading|1 November 1995|
+|||(Bill No. 37/95 published on 2 November 1995)|
+||Date of Second and Third Readings|5 December 1995|
+||Date of commencement|26 January 1996|
