@@ -154,11 +154,19 @@ PRELIMINARY
 
 “newspaper register” means the books which are to be kept by the Registrar under section 30;
 
+“officer of customs” has the same meaning as in the Customs Act (Cap. 70);
+
+[4/2003 wef 01/04/2003]
+
 “place”, in the phrases “place of business” and “place of residence”, means the street, square or other place and the number or other designation of the house;
 
 “proprietor” includes the chief executive officer of a newspaper company;
 
-“Registrar” means the Registrar of Newspapers and includes any Deputy or Assistant Registrar of Newspapers appointed by the Minister under section 29.
+“Registrar” means the Registrar of Newspapers and includes any Deputy or Assistant Registrar of Newspapers appointed by the Minister under section 29;
+
+“senior officer of customs” has the same meaning as in the Customs Act.
+
+[4/2003 wef 01/04/2003]
 
 [22/86]
 
@@ -978,7 +986,9 @@ GENERAL
 
 (a) officer of a public postal licensee not below the rank of postal superintendent;
 
-(b) officer of customs not below the rank of Assistant Superintendent of Customs and Excise; or
+(b) senior officer of customs; or
+
+[4/2003 wef 01/04/2003]
 
 (c) police officer not below the rank of Inspector,
 
@@ -1177,6 +1187,12 @@ This Legislative History is provided for the convenience of users of the Newspap
 |||(Bill No. 37/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Date of commencement|1 January 2003|
+|13.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
 ## COMPARATIVE TABLE
 
 Newspaper and Printing Presses Act
