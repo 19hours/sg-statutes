@@ -60,6 +60,8 @@
 
 - [22 Borrowing powers](#Borrowing-powers)
 
+- [22A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [23 Loans charged upon revenues of Authority](#Loans-charged-upon-revenues-of-Authority)
 
 - [24 Provision of working capital](#Provision-of-working-capital)
@@ -93,6 +95,8 @@
 - [37 No benefits in respect of abolition or reorganisation of office](#No-benefits-in-respect-of-abolition-or-reorganisation-of-office)
 
 - [38 Safeguarding of Municipal Provident Fund benefits](#Safeguarding-of-Municipal-Provident-Fund-benefits)
+
+- [38 (Repealed)](#Repealed)
 
 - [39 Continuation and completion of disciplinary proceedings](#Continuation-and-completion-of-disciplinary-proceedings)
 
@@ -172,7 +176,9 @@ PRELIMINARY
 
 “chief executive” means the chief executive of the Authority appointed under section 18 and includes any temporary chief executive of the Authority;
 
-“develop” has the same meaning as in section 12 of the Planning Act [Cap. 232, 1990 Ed.];
+“develop” has the same meaning as in section 12 of the Planning Act [Cap. 232,];
+
+[1990 Ed.]
 
 “developed land” means land of the Authority upon which a building has been erected;
 
@@ -186,13 +192,17 @@ PRELIMINARY
 
 “monument” has the same meaning as in the Preservation of Monuments Act;
 
-“Municipal Provident Fund” means the Municipal Provident Fund established by the City Council under the provisions of the repealed Municipal Ordinance [1936 Ed.] and continued and deemed to have been established under section 11 of the Local Government Integration Act;
+“Municipal Provident Fund” means the Municipal Provident Fund established by the City Council under the provisions of the repealed Municipal Ordinance and continued and deemed to have been established under section 11 of the Local Government Integration Act;
+
+[1936 Ed.]
 
 “Planning Department” means the Planning Department of the Ministry of National Development;
 
 “property” includes houses, buildings, lands and tenements;
 
-“repealed Act” means the Urban Redevelopment Authority Act [Cap. 340, 1985 Ed.] repealed by this Act;
+“repealed Act” means the Urban Redevelopment Authority Act [Cap. 340,] repealed by this Act;
+
+[1985 Ed.]
 
 “Research and Statistics Unit” means the Research and Statistics Unit of the Ministry of National Development;
 
@@ -228,7 +238,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 (3) The Authority may by resolution or otherwise in writing appoint an officer of the Authority or any other agent either generally or in a particular case to execute or sign on behalf of the Authority an agreement or other instrument not under seal in relation to any matter coming within the powers of the Authority.
 
-(4) Section 12 of the Registration of Deeds Act [Cap. 269, 1989 Ed.] shall not apply to an instrument purporting to have been executed under subsection (2).
+(4) Section 12 of the Registration of Deeds Act (Cap. 269, 1989 Ed.) shall not apply to an instrument purporting to have been executed under subsection (2).
 
 ## PART III
 
@@ -406,7 +416,7 @@ PROVISIONS RELATING TO STAFF
 
 ### Public servants
 
-21\. The members and employees of the Authority shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
+21\. The members and employees of the Authority shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
 
 ## PART V
 
@@ -423,6 +433,12 @@ FINANCIAL PROVISIONS
 (a) for the purpose of defraying expenses pending the receipt of revenues receivable by it in respect of the period of account in which those expenses are chargeable; or
 
 (b) for the purpose of defraying, pending the receipt of money due in respect of a loan authorised to be raised under subsection (1), expenses intended to be defrayed by such loan.
+
+### Issue of shares, etc.
+
+22A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Loans charged upon revenues of Authority
 
@@ -476,7 +492,7 @@ TRANSFER OF ASSETS, LIABILITIES, FUNCTIONS AND EMPLOYEES
 
 (a) all movable property vested in the Government immediately before that date for the purposes of the Planning Department and the Research and Statistics Unit, and all assets, rights or interests vested in, and all outstanding debts, liabilities and obligations incurred by, the Government in connection therewith; and
 
-(b) all the lands, buildings and other property movable and immovable, vested in the former Authority immediately before that day, and all assets, rights and interests vested in, and all outstanding debts, liabilities and obligations incurred by, the former Authority in connection therewith,
+(b) all the lands, buildings and other property movable and immovable, vested in the former Authority immediately before that date and all assets, rights and interests vested in, and all outstanding debts, liabilities and obligations incurred by, the former Authority in connection therewith,
 
 shall be transferred to and shall vest in the Authority without further assurance.
 
@@ -484,7 +500,7 @@ shall be transferred to and shall vest in the Authority without further assuranc
 
 (3) If any question arises as to whether any particular movable property vested in the Government, or whether any particular asset, right, interest, liability or obligation of the Government has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, right, interest, liability or obligation was or was not so transferred or vested.
 
-(4) No disclosure to the Authority under this section of information collected by the Research and Statistics Unit before 1st September 1989 shall be called in question on the ground that such disclosure is contrary to section 5 of the Statistics Act [Cap. 317] or in breach of confidence.
+(4) No disclosure to the Authority under this section of information collected by the Research and Statistics Unit before 1st September 1989 shall be called in question on the ground that such disclosure is contrary to section 5 of the Statistics Act (Cap. 317) or in breach of confidence.
 
 ### Existing agreements, etc.
 
@@ -528,11 +544,15 @@ shall be transferred to and shall vest in the Authority without further assuranc
 
 38\.—(1) Rules for the maintenance of the Municipal Provident Fund made under section 12 of the Local Government Integration Act shall be binding upon the Authority and its employees who were members of the Municipal Provident Fund immediately before 1st September 1989.
 
-(2) Until other provision is made, the Municipal (Provident Fund) Rules 1956 [S 179/56] shall continue to apply to every person transferred to the service of the Authority who, immediately before 1st September 1989 was a member of the Municipal Provident Fund, in the like manner as those Rules applied to such person immediately before that date, and every reference to service or employment with the City Council in those Rules shall be construed as a reference to service or employment with the Authority in respect of such person.
+(2) Until other provision is made, the Municipal (Provident Fund) Rules 1956 shall continue to apply to every person transferred to the service of the Authority who, immediately before 1st September 1989 was a member of the Municipal Provident Fund, in the like manner as those Rules applied to such person immediately before that date, and every reference to service or employment with the City Council in those Rules shall be construed as a reference to service or employment with the Authority in respect of such person.
+
+[S 179/56]
 
 (3) Until other provision is made, the provisions of the Municipal (Provident Fund) Rules 1956 requiring the City Council to make payments into the Municipal Provident Fund shall apply to the Authority and be construed as provisions requiring the Authority to make payments into that Fund in respect of every person transferred to the service of the Authority who is a member of the Fund.
 
 (4) Persons who have been transferred to the service of the Authority may count their previous service in the Singapore Improvement Trust, the Housing and Development Board, the former Authority, the Planning Department or the Research and Statistics Unit and their previous membership of the Municipal Provident Fund and their contributions to that Fund for the purpose of determining the benefits to which they become entitled under this section.
+
+38\. [Repealed by Act 11/2003 wef 01/08/2003]
 
 ### Continuation and completion of disciplinary proceedings
 
@@ -558,7 +578,9 @@ SALE OF UNITS
 
 42\. For the purposes of the registration of an assurance pertaining to the sale by the Authority of any unit, the mortgage of such unit in favour of the Authority or the reconveyance or discharge of such mortgage —
 
-(a) in the case of land registered under the provisions of the Registration of Deeds Act [Cap. 269, 1989 Ed.], section 12 of that Act shall not apply; and
+(a) in the case of land registered under the provisions of the Registration of Deeds Act [Cap. 269,], section 12 of that Act shall not apply; and
+
+[1989 Ed.]
 
 (b) in the case of land registered under the provisions of the Land Titles Act [Cap. 157], where a solicitor is not employed by the party acquiring title under an instrument relating to the transactions referred to in this section, a certificate of an officer authorised in writing in that behalf by the Authority, shall be sufficient for the purposes of section 54(4) of that Act.
 
@@ -794,7 +816,9 @@ Financial Provisions
 
 3.—(1) The accounts of the Authority shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50, 1988 Ed.].
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50,].
+
+[1988 Ed.]
 
 4. The remuneration of the auditor shall be paid out of the funds of the Authority.
 
@@ -880,13 +904,13 @@ Annual report
 
 Pending appeals
 
-8.—(1) Any right of appeal subsisting immediately before 1st September 1989 by virtue of section 51 of the repealed Act shall from that date be treated as subsisting by virtue of section 16 of the Planning Act [Cap. 232, 1990 Ed.].
+8.—(1) Any right of appeal subsisting immediately before 1st September 1989 by virtue of section 51 of the repealed Act shall from that date be treated as subsisting by virtue of section 16 of the Planning Act (Cap. 232, 1990 Ed.).
 
 (2) Any such appeal pending before 1st September 1989 under the repealed Act may be prosecuted and disposed of in accordance with section 16 of the Planning Act.
 
 Information collected by Research and Statistics Units
 
-9\. All information collected by the Research and Statistics Unit before the appointed day and transferred to the Authority under section 31 shall be subject to the same safeguards as respect disclosure as are provided by the Statistics Act [Cap. 317] as if the information had been collected by the Authority under that Act.
+9\. All information collected by the Research and Statistics Unit before 1st September 1989 and transferred to the Authority under section 31 shall be subject to the same safeguards as respect disclosure as are provided by the Statistics Act (Cap. 317) as if the information had been collected by the Authority under that Act.
 
 Contracts, documents, etc.
 
@@ -932,3 +956,9 @@ This Legislative History is provided for the convenience of users of the Urban R
 ||Date of operation|15 March 1990|
 |7.|**G. N. No. S 227/1995—Revised Edition of the Laws (Rectification) Order 1995**|
 ||Date of commencement|15 March 1990|
+|8.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
