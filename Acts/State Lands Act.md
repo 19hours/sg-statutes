@@ -12,6 +12,12 @@
 
 - [2 Interpretation](#Interpretation)
 
+- [2A Appointment of Chief Valuer](#Appointment-of-Chief-Valuer)
+
+- [2B Functions of Chief Valuer](#Functions-of-Chief-Valuer)
+
+- [2C Access to lands, buildings, etc.](#Access-to-lands-buildings-etc)
+
 - [3 Power to make rules for disposal of available lands](#Power-to-make-rules-for-disposal-of-available-lands)
 
 - [4 Form of grant](#Form-of-grant)
@@ -81,6 +87,40 @@ STATUTORY GRANTS AND LEASES
 ### Interpretation
 
 2\. In this Act, “grant” means a grant in perpetuity and “grantee” means the owner of a grant in perpetuity.
+
+### Appointment of Chief Valuer
+
+2A\.—(1) The President may appoint a Chief Valuer in accordance with the advice of the Public Service Commission unless the President, acting in his discretion, does not concur with that advice.
+
+(2) The remuneration and other terms of service of the Chief Valuer shall not be altered to his disadvantage during his continuance in office.
+
+[17/98 wef 05/06/1998]
+
+### Functions of Chief Valuer
+
+2B\.—(1) The functions of the Chief Valuer shall be —
+
+(a) to carry out the valuation of all State lands, lands managed for or on behalf of the Government or buildings on any such land for their disposal; and
+
+(b) to carry out valuation of any lands and buildings required for feasibility studies, court proceedings, arbitration or other purposes.
+
+(2) The Chief Valuer shall perform such other duties and exercise such other powers as may be prescribed by or under any written law.
+
+[17/98 wef 05/06/1998]
+
+### Access to lands, buildings, etc.
+
+2C\. 
+
+(1) The Chief Valuer or any officer authorised by him may —
+
+(a) where reasonably necessary for the purposes of any work undertaken by the Chief Valuer in the performance of his functions, enter at all reasonable hours into and upon and inspect any land, building or premises without liability for trespass;
+
+(b) request in writing the owner or person in occupation of any land, building or premises to furnish information to enable the Chief Valuer to carry out that work; and
+
+(c) inspect any books, documents or papers in the charge of any public officer for the purposes of such work and take extracts from those books, documents or papers without any charge.
+
+[ 17/98 wef 05/06/1998]
 
 ### Power to make rules for disposal of available lands
 
@@ -480,3 +520,8 @@ This Legislative History is provided for the convenience of users of the State L
 ||Date of commencement|4 August 1995|
 |29.|**1996 Revised Edition—State Lands Act**|
 ||Date of operation|27 December 1996|
+|30.|**Act 17 of 1998—State Lands (Amendment) Act 1998**|
+||Date of First Reading|19 February 1998|
+|||(Bill No. 12/1998 published on 20 February 1998)|
+||Date of Second and Third Readings|20 April 1998|
+||Date of commencement|5 June 1998|
