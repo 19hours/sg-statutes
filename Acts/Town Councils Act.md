@@ -1197,3 +1197,8 @@ This Legislative History is provided for the convenience of users of the Town Co
 |||(Bill No. 24/90 published on 5 October 1990)|
 ||Date of Second and Third Readings|9 November 1990|
 ||Date of commencement|7 December 1990|
+|4.|**Act 18 of 1992—Town Councils (Amendment) Act 1992**|
+||Date of First Reading|10 March 1992|
+|||(Bill No. 25/92 published on 11 March 1992)|
+||Date of Second and Third Readings|20 March 1992|
+||Date of commencement|1 April 1992|
