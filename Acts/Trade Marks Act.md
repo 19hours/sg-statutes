@@ -2537,3 +2537,8 @@ This Legislative History is provided for the convenience of users of the Trade M
 ||Date of operation|30 December 1999|
 |5.|**G. N. No. S 2/2000—Revised Edition of the Laws (Trade Marks Act) (Rectification) Order 2000**|
 ||Date of commencement|4 January 2000|
+|6.|**Act 46 of 1998—Trade Marks Act 1998**|
+||Date of First Reading|12 October 1998|
+|||(Bill No. 42/1998 published on 13 October 1998)|
+||Date of Second and Third Readings|26 November 1998|
+||Date of commencement|31 October 2000 (section 54)|
