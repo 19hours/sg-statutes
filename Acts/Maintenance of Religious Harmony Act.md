@@ -108,6 +108,10 @@ Provided that a member, other than the chairman, may be appointed for any shorte
 
 (4) The President may, after consultation with the Presidential Council for Minority Rights, at any time revoke the appointment of the chairman or any member of the Council and may, on the advice of the Presidential Council for Minority Rights, appoint any person to fill any vacancy which may arise in the Council for any reason whatsoever.
 
+(4A) The President, acting in his discretion, may refuse to appoint any person as chairman or member of the Council or to revoke any such appointment if he does not concur with the advice or recommendation of the Council.
+
+[Act 11/91 wef 30/11/1991 vide S 527/91]
+
 (5) No person shall be qualified to be appointed as a member of the Council unless —
 
 (a) he is a citizen of Singapore;
@@ -302,3 +306,8 @@ This Legislative History is provided for the convenience of users of the Mainten
 ||Date of commencement|25 January 1991 (publication date)|
 |2.|**1991 Revised Edition—Maintenance of Religious Harmony Act**|
 ||Date of operation|1 March 1991|
+|3.|**Act 11 of 1991—Statute (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/1991 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
