@@ -84,6 +84,8 @@
 
 - [39 Court for trial of offence](#Court-for-trial-of-offence)
 
+- [39A Payment of fees, etc.](#Payment-of-fees-etc)
+
 - [40 Exemptions](#Exemptions)
 
 - [41 Regulations](#Regulations)
@@ -692,6 +694,12 @@ knowing or having reasonable cause to believe the film to be a party political f
 
 [34
 
+### Payment of fees, etc.
+
+39A\. All fees and other moneys collected under this Act or any subsidiary legislation made thereunder shall be paid to the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act 2002.
+
+[34/2002 wef 01/01/2003 wef 01/01/2003]
+
 ### Exemptions
 
 40\.—(1) This Act shall not apply to —
@@ -760,3 +768,8 @@ This Legislative History is provided for the convenience of users of the Films A
 ||Date of commencement|1.4.98|
 |6.|**1998 Revised Edition—Films Act**|
 ||Date of operation|15 December 1998|
+|7.|**Act 34 of 2002—Media Development Authority of Singapore Act 2002**|
+||Date of First Reading|1 October 2002|
+|||(Bill No. 37/2002 published on 29 November 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|1 January 2003|
