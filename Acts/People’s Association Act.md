@@ -556,6 +556,10 @@ Sriwana
 
 Tamils Representative Council
 
+78A. 
+
+The Eurasian Association, Singapore
+
 79. 
 
 Singapore Civil Defence Force Sports and Recreation Association
@@ -605,6 +609,8 @@ Young Women Muslim Association (Persatuan Pemudi Islam Singapura)
 [S 20/1992 wef 30/12/1991]
 
 [S 138/1992 wef 16/03/1992]
+
+[S 290/1992 wef 17/06/1992]
 
 SECOND SCHEDULE
 
@@ -681,3 +687,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|30 December 1991|
 |25.|**G.N. No. S 138/92—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1992**|
 ||Date of commencement|16 March 1992|
+|26.|**G. N. No. S 290/1992—People’s Association Act (Amendment of First Schedule) (No. 3) Notification 1992**|
+||Date of commencement|17 June 1992|
