@@ -474,8 +474,6 @@ PRELIMINARY
 
 “country” includes a territory;
 
-[32/99 wef 03/09/1999]
-
 “crops” includes any form of vegetable produce;
 
 “earned income” means the statutory income of an individual or a Hindu joint family, reduced by any deduction made under section 37(2)(a) from —
@@ -640,7 +638,7 @@ ADMINISTRATION
 
 shall be guilty of an offence.
 
-(3) [Deleted byAct 29/65]
+(3) [DeletedbyAct29/65]
 
 (4) No person appointed under, or employed in carrying out, the provisions of this Act shall be required to produce in any court any return, document or assessment, or to divulge or communicate to any court any matter or thing coming under his notice in the performance of his duties under this Act except as may be necessary for the purpose of carrying into effect the provisions of this Act, or in order to institute a prosecution, or in the course of a prosecution, for any offence committed in relation to income tax.
 
@@ -791,8 +789,6 @@ is the amount of balancing charge.
 [2/92]
 
 (4A) Subsection (4)(b) shall apply, with the necessary modifications, to an approved floating production storage offloading ship or an approved floating storage offloading ship the income derived from the operation of which is exempt from tax under section 13F.
-
-[Act 32/99, wef Y/A 2000:1999-ACT-32]
 
 (5) Any gains or profits directly or indirectly derived by any person by the exercise, assignment or release of a right or benefit whether granted in his name or in the name of his nominee or agent to acquire shares in a company shall, where the right or benefit is obtained by that person by reason of any office or employment held by him, be deemed to be income and for the purposes of this subsection —
 
@@ -1428,8 +1424,6 @@ more than 2 years but not more than 3 years prior to the disposal of the shares;
 
 (2) In this section, “motor car” means a car which is constructed or adapted for the carriage of not more than 7 passengers exclusive of the driver and the weight of which unladen does not exceed 3,000 kilograms.
 
-[Act 32/99, wef Y/A 2000:1999-ACT-32]
-
 ### Reduction of share capital
 
 10I\.—(1) This section shall, subject to sections 10J and 10K, apply where a company resident in Singapore reduces its share capital and the reduction of share capital involves a payment to any shareholder of the company.
@@ -1473,8 +1467,6 @@ more than 2 years but not more than 3 years prior to the disposal of the shares;
 (h) any amount applied by a company in paying up unissued shares of the company to be issued to shareholders of the company as fully or partly paid bonus shares shall not be regarded as receipts by the company from the issue of shares.
 
 (6) A company shall deliver to the Comptroller a copy of the contributed capital account made up to any date specified by the Comptroller whenever called upon to do so by notice in writing.
-
-[32/99 wef 18/11/1998]
 
 ### Shares buyback
 
@@ -1553,8 +1545,6 @@ is the number of remaining shares in the company held by the shareholder after t
 (a) the contributed capital of a company has the same meaning as in section 10I(5)(b); and
 
 (b) where a company redeems any redeemable shares to which this section applies and the redemption is effected before any reduction of its share capital to which section 10I applies or any buyback to which section 10J(2) applies, section 10I(5)(c), (d) and (e) shall apply, with the necessary modifications, for the purpose of the redemption and any reference in that section to the first reduction shall be read as a reference to the redemption.
-
-[32/99 wef 03/09/1999]
 
 ### Ascertainment of income of clubs, trade associations, etc.
 
@@ -1636,8 +1626,6 @@ EXEMPTION FROM INCOME TAX
 
 (ii) any qualifying debt securities issued during the period from 27th February 1999 to 27th February 2003 by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
-[32/99 wef 03/09/1999]
-
 (b) the official emoluments of consular officers (as defined in the Consular Conventions Act [Cap. 52]) of foreign countries and of Commonwealth officers (as defined in the Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act) and of persons employed on the staff of any such consular or Commonwealth officer who are subjects or citizens of the country which they represent, but only to the extent to which reciprocal treatment is accorded by the country which they represent to Singapore consular officers or to corresponding members of the staff of such consular officer;
 
 (c) the official emoluments payable from Commonwealth funds to members of Commonwealth forces, and to persons in the service of a Commonwealth government, in Singapore, in respect of their offices under such Commonwealth government, if such emoluments are subject to income tax in such Commonwealth country;
@@ -1712,8 +1700,6 @@ EXEMPTION FROM INCOME TAX
 
 (o) payments made on or after 1st April 1991 under any agreement or arrangement approved by the Minister or such person as he may appoint to a person not resident in Singapore (excluding any permanent establishment in Singapore) by an international shipping enterprise approved under section 13F for the charter of a foreign ship within the meaning of that section, an approved floating production storage offloading ship or an approved floating storage offloading ship, except for any payment attributable to the carriage of passengers, mails, livestock or goods from Singapore;
 
-[Act 32/99, wef Y/A 2000:1999-ACT-32]
-
 [2/92]
 
 (p) for a period of 10 years from the commencement of its business, such income of the Singapore Commodity Exchange Limited as may be prescribed;
@@ -1786,11 +1772,7 @@ EXEMPTION FROM INCOME TAX
 
 “approved bond intermediary” means a financial institution approved as such by the Minister or such person as he may appoint;
 
-[32/99 wef 03/09/1999]
-
 “debt securities” has the same meaning as in section 43N;
-
-[32/99 wef 03/09/1999]
 
 “financial institution” means an institution licensed or approved by the Monetary Authority of Singapore, and includes an institution approved as an approved Fund Manager under section 43A and an institution approved as a Finance and Treasury Centre under section 43G;
 
@@ -1810,23 +1792,15 @@ but, unless otherwise approved by the Minister or such person as he may appoint,
 
 (iv) 50% or more of the issue of debt securities is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities;
 
-[32/99 wef 03/09/1999]
-
 “related party”, in relation to a person, means any other person who, directly or indirectly, controls that person, or is controlled, directly or indirectly, by that person, or where he and that other person, directly or indirectly, are under the control of a common person;
 
-[32/99 wef 03/09/1999]
-
 “Singapore Government securities” has the same meaning as in section 43N.
-
-[32/99 wef 03/09/1999]
 
 (2B) Subsection (1)(a) shall, unless otherwise approved by the Minister or such person as he may appoint, not apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 27th February 2003 where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
 
 (a) any related party of the issuer of those securities; or
 
 (b) any other person where the funds used by such person to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
-
-[32/99 wef 03/09/1999]
 
 (3) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
 
@@ -2270,8 +2244,6 @@ as the case may be.
 
 (d) the operation or charter (other than within the limits of the port of Singapore) of any approved floating production storage offloading ship or any approved floating storage offloading ship.
 
-[Act 32/99, wef Y/A 2000:1999-ACT-32]
-
 (2) The exemption shall be for such period not exceeding 10 years as the Minister may specify in approving each case, except that the Minister may extend the period so specified for such further periods, not exceeding 10 years at any one time, as he thinks fit.
 
 (3) In determining the amount of the income of an approved international shipping enterprise which is exempted under this section, the allowances provided for in sections 16, 17, 18, 19, 19A, 20, 21, 22 and 23 —
@@ -2292,8 +2264,6 @@ as the case may be.
 
 (b) any reference to a Singapore ship shall be read as a reference to a foreign ship, an approved floating production storage offloading ship or an approved floating storage offloading ship, as the case may be; and
 
-[Act 32/99, wef Y/A 2000:1999-ACT-32]
-
 (c) the reference to a holding company in section 13A(6)(f) means a company which holds not less than 50% beneficial interest in the issued shares of an approved international shipping enterprise.
 
 (6) In this section —
@@ -2303,8 +2273,6 @@ as the case may be.
 “foreign ship” means a sea-going ship other than a Singapore ship within the meaning of section 13A(10);
 
 “international shipping enterprise” means any company resident in Singapore owning or operating foreign ships, approved floating production storage offloading ships or approved floating storage offloading ships.
-
-[Act 32/99, wef Y/A 2000:1999-ACT-32]
 
 [2/92]
 
@@ -2484,8 +2452,6 @@ Provided that in the case of any contribution to the Central Provident Fund or a
 
 (H) commencing on or after 1st January 1999 shall not exceed 10%,
 
-[32/99 wef 03/09/1999]
-
 of the remuneration paid by the employer to the employee for that period, and “remuneration” in this proviso means that part of an employee’s emoluments by reference to which his employer’s contributions are calculated;
 
 (ii) where any such fund or society is first established and a special contribution is made thereto by the employer whereby persons in his employment whose employment commenced prior to the establishment of the fund or society may qualify for the benefits thereunder in respect of such prior employment, the Comptroller may, when approving the fund or society, authorise such deductions in respect of that special contribution as he thinks fit;
@@ -2561,8 +2527,6 @@ shall be allowed as deductions only to the extent to which, in the opinion of th
 (ii) acquired by a person who carries on the business of providing driving instruction and who holds a driving school licence or driving instructor’s licence issued under that Act; or
 
 (b) is registered outside Singapore and used exclusively outside Singapore.
-
-[Act 32/99, wef Y/A 2000:1999-ACT-32]
 
 (5) Notwithstanding subsection (1), medical expenses falling within that subsection incurred by any employer (other than an employer who derives any income from any trade, business, profession or vocation which is wholly or partly exempt from tax or subject to tax at a concessionary rate of tax under this Act or the Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86]) shall not be allowed as deductions to the extent specified in the following provisions:
 
@@ -2663,6 +2627,8 @@ there shall be allowed a further deduction of the amount of such expenses in add
 [Act 31/98, Wef 14/08/1998]
 
 [26/93]
+
+(3) [Deleted by Act 32/99 wef 03/09/1999]
 
 (3A) As soon as any amount of further deduction is allowed to any company under this section 14E, 14J or 14L, a sum equal to that amount shall be credited to an account (referred to in this section as the further deduction account) to be kept by the company for the purposes of any of those sections.
 
@@ -2903,8 +2869,6 @@ is the total investment income (whether chargeable to tax or not) for that basis
 (5A) Subsections (4)(a) and (b) and (5)(a) shall not apply to any bank.
 
 (5B) Subsections (4)(a) and (b) and (5)(a) shall not apply to any qualifying finance company.
-
-[Act 32/99, wef Ys/A 1999 & 2000]
 
 (6) In this section —
 
@@ -3178,8 +3142,6 @@ ought not to have been so allowed or exempted, as the case may be, the Comptroll
 
 (ii) direct the company to debit its tax exempt account with such amount as the circumstances require.
 
-[Act 32/99, wef Y/A 1999:1999-ACT-32]
-
 ### Deduction of upfront land premium
 
 14N\.—(1) Where the Comptroller is satisfied that an upfront land premium has been paid by a lessee to a relevant body in respect of a designated lease for the construction or use of a building or structure for the purposes of carrying on any qualifying activity in that building or structure, there shall, subject to this section, be allowed to the lessee, for each year of assessment in the basis period for which the qualifying activity is carried on, a deduction of an amount of such expenditure ascertained by the formula
@@ -3211,6 +3173,8 @@ whichever is the lower; and
 D
 
 is the remaining number of years (excluding any part of a year) of the term of the designated lease for which the upfront land premium was paid.
+
+[32/99]
 
 (3) Subsection (2) shall apply, with the necessary modifications, to any subsequent assignment of the remaining term of the designated lease.
 
@@ -3262,8 +3226,6 @@ and increased by any amount deemed to be income of the assignor under subsection
 
 “upfront land premium”, in relation to a designated lease, means the lump sum payment for a period of 30 years or less paid by a lessee to a relevant body at the commencement of the term of the designated lease.
 
-[32/99 wef 03/09/1999]
-
 ### Deductions not allowed
 
 15\.—(1) Notwithstanding the provisions of this Act, for the purpose of ascertaining the income of any person, no deduction shall be allowed in respect of —
@@ -3304,8 +3266,6 @@ and increased by any amount deemed to be income of the assignor under subsection
 
 (v) a motor car registered on or after 1st April 1998 which is used principally for instructional purposes if the person is carrying on the business of providing driving instruction and holds a driving school licence or driving instructor’s licence issued under the Road Traffic Act;
 
-[32/99 wef 03/09/1999]
-
 (l) any outgoings and expenses incurred in respect of any unit trust designated under section 35(7C) if the person is a unit holder of such trust;
 
 [32/95]
@@ -3323,8 +3283,6 @@ and increased by any amount deemed to be income of the assignor under subsection
 (ii) which exceed, and only to the extent of the excess, such amount as is in the opinion of the Comptroller reasonable having regard to the periods of use of that car and its requirement by that person during the basis period for any year of assessment ; and
 
 [Act 31/98, Wef 14/08/1998]
-
-[32/99 wef 03/09/1999]
 
 [15/83]
 
@@ -3678,8 +3636,6 @@ Provided that, in respect of a motor car acquired —
 
 (b) is registered outside Singapore and used exclusively outside Singapore.
 
-[Act 32/99, wef Y/A 2000:1999-ACT-32]
-
 (2D) No allowance under this section shall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers exclusive of the driver and the weight of which unladen does not exceed 3,000 kilograms except —
 
 (a) a taxi;
@@ -3691,8 +3647,6 @@ Provided that, in respect of a motor car acquired —
 (d) a motor car which was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276) and the rules made thereunder; and
 
 (e) a motor car registered on or after 1st April 1998 which is used principally for instructional purposes and acquired by a person who carries on the business of providing driving instruction and who holds a driving school licence or driving instructor’s licence issued under the Road Traffic Act.
-
-[Act 32/99, wef Y/A 1999:1999-ACT-32]
 
 (3) In subsection (1), “prescribed” means prescribed by an order made by the Minister.
 
@@ -3754,15 +3708,13 @@ for the purposes of a trade, business or profession carried on by him, he shall,
 
 (1H) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has, on or after 27th February 1999, registered any new vehicle as a replacement for an existing vehicle, for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of that new vehicle.
 
-[32/99 wef 03/09/1999]
-
-(J) Any claim by a person for allowances in respect of any machinery or plant under this section for any year of assessment shall not be disallowed by reason only that the person has not in use the machinery or plant at the end of the basis period for that year of assessment.
+(1J) Any claim by a person for allowances in respect of any machinery or plant under this section for any year of assessment shall not be disallowed by reason only that the person has not in use the machinery or plant at the end of the basis period for that year of assessment.
 
 [Act 31/98, Wef 14/08/1998]
 
 [Act 28/96 wef 06/09/1996]
 
-(K) Where at the end of the basis period for the year of assessment 1990 a person has in use any prescribed automation equipment or any generator referred to in subsection (1B) in respect of which capital allowances have been made under subsection (1) or section 19, there shall be made to him, on due claim, an allowance of an amount equal to the capital expenditure then remaining unallowed under subsection (1) or section 19 in respect of that equipment or generator.
+(1K) Where at the end of the basis period for the year of assessment 1990 a person has in use any prescribed automation equipment or any generator referred to in subsection (1B) in respect of which capital allowances have been made under subsection (1) or section 19, there shall be made to him, on due claim, an allowance of an amount equal to the capital expenditure then remaining unallowed under subsection (1) or section 19 in respect of that equipment or generator.
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -3819,8 +3771,6 @@ Provided that —
 (iii) a goods vehicle the maximum weight of which laden does not exceed 3,000 kilograms;
 
 [Act 28/96 wef 06/09/1996]
-
-[32/99 wef 03/09/1999]
 
 [13/84. (from Y/A1985]
 
@@ -3954,8 +3904,6 @@ which has been certified by the Singapore Productivity and Standards Board or th
 
 (l) “certificate of entitlement” means a permit issued or deemed to be issued under section 10A of the Road Traffic Act (Cap. 276);
 
-[32/99 wef 03/09/1999]
-
 (m) “existing vehicle” means any goods vehicle or bus using diesel oil as fuel, and registered before 1st January 1991, which —
 
 (i) is not a vehicle registered under the RU index marks;
@@ -3968,19 +3916,13 @@ which has been certified by the Singapore Productivity and Standards Board or th
 
 (B) a certificate of entitlement which can be renewed after its expiration;
 
-[Act 32/99, wef 03//09/1999]
-
 (n) “goods vehicle” means any motor vehicle constructed or adapted for use for the carriage of goods;
-
-[32/99 wef 03/09/1999]
 
 (o) “new vehicle” means any new goods vehicle or new bus which —
 
 (i) is registered within one month before, or within 6 months after, the deregistration of the existing vehicle; and
 
 (ii) bears an index mark which is the same as that of the index mark of the existing vehicle.
-
-[32/99 wef 03/09/1999]
 
 ### Writing-down allowances for approved know-how or patent rights
 
@@ -4172,11 +4114,7 @@ is the aggregate of the initial and annual allowances made in respect of the mot
 
 (4) This section shall not apply to the provision of any new motor car for which no allowance is allowed by virtue of section 19(2D).
 
-[Act 32/99, wef Y/A 2000:1999-ACT-32]
-
 (5) For the purpose of this section, where the capital expenditure incurred in providing a new motor car registered outside Singapore and used exclusively outside Singapore exceeds $35,000, the expenditure incurred shall be deemed to be $35,000.
-
-[Act 32/99, wef Y/A 2000:1999-ACT-32]
 
 ### Expenditure on machinery or plant
 
@@ -5550,6 +5488,8 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [28/92]
 
+[26/93]
+
 [Act 28/96 wef Y/A 1997 & subsq. Ys/A]
 
 (3) Notwithstanding subsection (1)(a), the tax to be levied and paid upon such income of a life insurance company apportioned to the policyholders of the company as the Minister may by regulations specify shall be at the rate of 10% or such other prescribed rate.
@@ -5579,10 +5519,6 @@ approved by the Minister or such person as he may appoint.
 (b) a company approved under subsection (1)(c),
 
 derived by it from any approved syndicated offshore credit or guarantee facility or any other syndicated offshore credit or guarantee facility which satisfies the prescribed criteria and for deduction of losses otherwise than in accordance with section 37(2).
-
-[Act 31/98, Wef 14/08/1998]
-
-[32/99 wef 03/09/1999]
 
 [1/88]
 
@@ -5624,11 +5560,7 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 (iv) a branch office outside Singapore of a company resident in Singapore; or
 
-[32/99 wef 03/09/1999]
-
 (v) a foreign investor where such transaction is carried out through an Asian Currency Unit of a financial institution or a fund manager approved in either case under section 13C or 43A;
-
-[32/99 wef 03/09/1999]
 
 (b) derived on or after 1st January 1989 from transactions in any petroleum futures on any approved exchange with an oil trading company approved under section 43F,
 
@@ -5685,8 +5617,6 @@ Provided that a company shall be deemed to be an associated company in relation 
 (a) the qualifying service and the office, associated company or person to whom the service is rendered have been approved in relation to the approved headquarters company for the purposes of the exemption from tax; and
 
 (b) the approved headquarters company has global responsibility for the provision of any qualifying service.
-
-[Act 32/99, wef Y/A 2000:1999-ACT-32]
 
 [31/86]
 
@@ -5880,8 +5810,6 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (b) any company where the funds used by such company to acquire those securities are obtained, directly or indirectly, from any related party of the issuer of those securities.
 
-[32/99 wef 03/09/1999]
-
 (2) Regulations made under subsection (1) may provide for exemption from tax of —
 
 (a) income derived by any financial institution from arranging, underwriting or distributing any qualifying debt securities; and
@@ -5890,23 +5818,15 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 and for deduction of losses otherwise than in accordance with section 37(2).
 
-[32/99 wef 03/09/1999]
-
 (3) In this section —
 
 “debt securities” means bonds, notes, commercial papers, treasury bills and certificates of deposits;
 
 “financial institution”, “qualifying debt securities” and “related party” have the same meanings as in section 13(2A);
 
-[32/99 wef 03/09/1999]
-
 “primary dealer” means any financial institution specified in the First Schedule to the Government Securities Regulations (Cap. 121A, Rg 1);
 
-[32/99 wef 03/09/1999]
-
 “Singapore Government securities” means debt securities issued under the Government Securities Act (Cap. 121A), the Local Treasury Bills Act (Cap. 167) or any other written law.
-
-[32/99 wef 03/09/1999]
 
 ### Concessionary rate of tax for cyber trading
 
@@ -6158,11 +6078,7 @@ a charge equal to the amount of such excess shall be paid to the Comptroller wit
 
 (10) This section shall not apply to any interest derived from any qualifying debt securities issued during the period from 27th February 1999 to 27th February 2003, subject to such conditions as the Minister may impose.
 
-[32/99 wef 03/09/1999]
-
 (11) In this section, “qualifying debt securities” has the same meaning as in section 13(2A).
-
-[32/99 wef 03/09/1999]
 
 ### Application of section 45 to royalties, management fees, etc.
 
@@ -7284,8 +7200,6 @@ Provided that —
 
 (3) Subject to rules made under subsection (4), there shall be remitted the tax payable for the year of assessment 1999 by any company a sum equal to 10% of the specified tax payable by the company for that year of assessment where the Comptroller is satisfied that the remission of tax would be beneficial to the company.
 
-[32/99 wef 03/09/1999]
-
 (4) The Minister may make rules to provide for —
 
 (a) the exemption from tax of certain dividends received by a shareholder of a company which has been given the remission of tax under subsection (3) where the dividends are received by him from that company;
@@ -7296,15 +7210,11 @@ Provided that —
 
 (d) generally giving effect to this section.
 
-[32/99 wef 03/09/1999]
-
 (5) For the purposes of this section, “specified tax payable”, in relation to a company for the year of assessment 1999, means the amount of tax payable by the company ascertained by deducting from the tax payable of the company for that year of assessment computed in accordance with this Act, and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) if the company is given tax relief under that Act —
 
 (a) any tax payable on any dividend derived from Singapore from which tax has been deducted under section 44; and
 
 (b) any tax payable on any income which is subject to tax at the rate of 15% under section 43(1B).
-
-[32/99 wef 03/09/1999]
 
 ### Repayment of tax
 
@@ -7622,6 +7532,8 @@ Cap. 127.
 
 Cap. 129.
 
+17A. Info-communications Development Authority of Singapore.
+
 18. Inland Revenue Authority of Singapore
 
 Cap. 138A.
@@ -7678,9 +7590,7 @@ Cap. 183.
 
 Cap. 193A.
 
-32. National Computer Board
-
-Cap. 195.
+32.Deleted by Act 41/99, wef 01/12/1999
 
 33. National Council of Social Service
 
@@ -7774,9 +7684,7 @@ Cap. 305A.
 
 Cap. 328.
 
-54. Telecommunication Authority of Singapore
-
-Cap. 323.
+54.Deleted by Act 41/99, wef 01/12/1999.
 
 55. Trade Development Board
 
@@ -7786,7 +7694,9 @@ Cap. 330.
 
 Cap. 340.
 
-B. Clubs, corporations and institutions in Singapore:
+[41/99 wef 01/12/1999]
+
+B.4Clubs, corporations and institutions in Singapore:
 
 1. Catholic Young Men’s Association
 
@@ -7827,6 +7737,8 @@ Cap. 375.
 11. Young Men’s Christian Association
 
 12. Young Women’s Christian Association
+
+4deleted by act 41[sol ]99 wef 01[sol ]12[sol ]1999.
 
 C. Authorities not incorporated in Singapore:
 
@@ -9243,3 +9155,14 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 24/99 published on 7 July 1999)|
 ||Date of Second and Third Readings|17 August 1999|
 ||Date of commencement|3 September 1999|
+|135.|**Act 41 of 1999—Info-communications Development Authority of Singapore Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 36/99 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
+|136.|**Act 24 of 2000—Income Tax (Amendment) Act 2000**|
+||Date of First Reading|30 June 2000|
+|||(Bill No. 20/2000 published on 1 July 2000)|
+||Date of Second and Third Readings|25 August 2000|
+||Date of commencement|1 December 1999 (Section 13)|
