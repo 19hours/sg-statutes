@@ -64,7 +64,7 @@
 
 - [25 Transfer of sums from one item to another](#Transfer-of-sums-from-one-item-to-another)
 
-- [26 Investment](#Investment)
+- [26 Power of investment](#Power-of-investment)
 
 - [27 (Repealed)](#Repealed)
 
@@ -575,11 +575,11 @@ PROVISIONS RELATING TO CORPORATION
 
 [11/91]
 
-### Investment
+### Power of investment
 
-26\. Moneys belonging to the Corporation may be invested in such securities as trustees may by any written law be authorised to invest and, with the approval of the Minister, in any other securities or investments or in any other manner.
+26\. The Corporation may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[23/95]
+[45/2004 wef 15/12/2004]
 
 27\. [Repealed byAct 23/95]
 
@@ -1286,3 +1286,9 @@ This Legislative History is provided for the convenience of users of the Jurong 
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002 (Item (19) of the Schedule –– Amendment of Jurong Town Corporation Act)|
+|18.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
