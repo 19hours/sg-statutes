@@ -2370,7 +2370,7 @@ if the object would not appear to persons who are not experts in relation to obj
 
 ### Special exception for artistic works which have been industrially applied
 
-70\.—(1) Notwithstanding section 69, the making of any useful article in 3 dimensions (including a reproduction in 2 dimensions reasonably required for the making of the article) does not infringe the copyright in an artistic work if, when the useful article or reproduction is made, the artistic work has been industrially applied in Singapore or in any other country more than 15 years before the useful article or reproduction is made.
+70\.—(1) Notwithstanding section 69, the making of any useful article in 3 dimensions (including a reproduction in 2 dimensions reasonably required for the making of the article) does not infringe the copyright in an artistic work if, when the useful article or reproduction is made, the artistic work has been industrially applied in Singapore or in any other country at any time before the useful article or reproduction is made.
 
 (2) For the purposes of subsection (1), an artistic work is applied industrially if —
 
@@ -2412,17 +2412,17 @@ Designs
 
 (2) In this Division —
 
-(a) references to the scope of the copyright in a registered design are references to the aggregate of the things, which, by virtue of the provisions of the United Kingdom Designs (Protection) Act (Cap. 339), the registered proprietor of the design has the exclusive right to do; and
+(a) references to the scope of the copyright in a registered design are references to the aggregate of the things, which, by virtue of the provisions of the Registered Designs Act 2000, the registered owner of the design has the exclusive right to do; and
 
-(b) references to the scope of the copyright in a registered design as extended to all associated designs and articles are references to the aggregate of the things which, by virtue of that written law, the registered proprietor would have had the exclusive right to do if —
+(b) references to the scope of the copyright in a registered design as extended to all associated designs and articles are references to the aggregate of the things which, by virtue of that written law, the registered owner would have had the exclusive right to do if —
 
-(i) when that design was registered, there had at the same time been registered every possible design consisting of that design with modifications or variations not sufficient to alter the character or substantially to affect the identity thereof, and that 50 years had been registered as the proprietor of every such design; and
+(i) when that design was registered, there had at the same time been registered every possible design consisting of that design with modifications or variations not sufficient to alter the character or substantially to affect the identity thereof, and that 50 years owner had been registered as the owner of every such design; and
 
 (ii) the design in question, and every other design such as is mentioned in sub-paragraph (i), had been registered in respect of all the articles to which it was capable of being applied.
 
 ### Special exception in respect of industrial design
 
-74\.—(1) Where copyright subsists in an artistic work and a corresponding design is registered under the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c. 88), or any Act amending or substituting for that Act, it shall not be an infringement of the copyright in the work —
+74\.—(1) Where copyright subsists in an artistic work and a corresponding design is registered or deemed registered under the Registered Designs Act 2000, it shall not be an infringement of the copyright in the work —
 
 (a) to do anything, during the subsistence of the copyright in the registered design, which is within the scope of the copyright in the design; or
 
@@ -2436,7 +2436,7 @@ Designs
 
 (b) articles to which the design has been so applied are sold, let for hire, or offered for sale or hire whether in Singapore or elsewhere; and
 
-(c) at the time when those articles are sold, let for hire or offered or exposed for sale or hire, they are not articles in respect of which the corresponding design has been registered under the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c. 88), or any Act amending or substituting for that Act,
+(c) at the time when those articles are sold, let for hire or offered or exposed for sale or hire, they are not articles in respect of which the corresponding design has been registered or, is deemed registered under the Registered Designs Act 2000,
 
 subsections (3), (4), (5) and (6) shall apply.
 
@@ -2444,23 +2444,33 @@ subsections (3), (4), (5) and (6) shall apply.
 
 (3) Subject to subsection (5) —
 
-(a) during the relevant period of 25 years, it shall not be an infringement of the copyright in the work to do anything which, at the time when it is done, would have been within the scope of the copyright in the design if the design had, immediately before that time, been registered in respect of all relevant articles; and
+(a) during the relevant period of 15 years, it shall not be an infringement of the copyright in the work to do anything which, at the time when it is done, would have been within the scope of the copyright in the design if the design had, immediately before that time, been registered in respect of all relevant articles; and
 
-(b) after the end of the relevant period of 25 years, it shall not be an infringement of the copyright in the work to do anything which, at the time when it is done, would, if the design had been registered immediately before that time, have been within the scope of the copyright in the design as extended to all associated designs and articles.
-
-[6/98]
-
-(4) In subsection (3), “the relevant period of 25 years” means the period of 25 yearsbeginning with the date on which articles, such as are mentioned in subsection (2)(b), were first sold, let for hire or offered for sale or hire, whether in Singapore or elsewhere.
+(b) after the end of the relevant period of 15 years, it shall not be an infringement of the copyright in the work to do anything which, at the time when it is done, would, if the design had been registered immediately before that time, have been within the scope of the copyright in the design as extended to all associated designs and articles.
 
 [6/98]
 
-(5) For the purposes of subsections (2) and (3), no account shall be taken of any articles in respect of which, at the time when they were sold, let for hire, or offered for sale or hire, the design in question was excluded from registration under the provisions of the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c. 88), or any Act amending or substituting for that Act, by rules made under that Act or such other Act (which relates to the exclusion of designs for articles which are primarily literary or artistic in character).
+(4) In subsection (3), “the relevant period of 15 years” means the period of 15 years beginning with the date on which articles, such as are mentioned in subsection (2)(b), were first sold, let for hire or offered for sale or hire, whether in Singapore or elsewhere.
+
+[6/98]
+
+(5) For the purposes of subsections (2) and (3), no account shall be taken of any articles in respect of which, at the time when they were sold, let for hire, or offered for sale or hire, the design in question was excluded from registration under the provisions of the Registered Designs Act 2000 or the Registered Designs Act 1949 of the United Kingdom (as the case may be), by rules made under the applicable Act (which relates to the exclusion of designs for articles which are primarily literary or artistic in character).
 
 (6) For the purposes of any proceedings under this Act a design shall be conclusively presumed to have been excluded under subsection (5) if —
 
-(a) before the commencement of those proceedings, an application for the registration of the design under the Registered Designs Act 1949 of the United Kingdom, or any Act amending or substituting for that Act, in respect of those articles had been refused;
+(a) before the commencement of those proceedings —
 
-(b) the reason or one of the reasons stated for the refusal was that the design was excluded from such registration by rules made under that Act or such other Act; and
+(i) an application for the registration of the design in respect of those articles under the Registered Designs Act 2000; or
+
+(ii) an application for the registration of the design in respect of those articles under the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c.88), being an application made before the date of commencement of the Registered Designs Act 2000,
+
+has been refused;
+
+[25/2000 wef 13/11/2000]
+
+(b) the reason or one of the reasons stated for the refusal was that the design was excluded from such registration by rules made under the Registered Designs Act 2000 or the Registered Designs Act 1949 of the United Kingdom (as the case may be); and
+
+[25/2000 wef 13/11/2000]
 
 (c) no appeal against that refusal had been allowed before the date of the commencement of the proceedings or was pending on that date.
 
@@ -2542,7 +2552,7 @@ Nature of Copyright in Subject-matter other than Works
 
 (a) to make a copy of the sound recording;
 
-(b) to enter into a commercial rental arrangement in respect of the recording 25 years
+(b) to enter into a commercial rental arrangement in respect of the recording
 
 [6/98]
 
@@ -2680,7 +2690,7 @@ Duration of Copyright in Subject-matter other than Works
 
 ### Duration of copyright in cinematograph films
 
-93\.—(1) Copyright subsisting in a cinematograph film by virtue of section 88(1) or (2) shall continue to subsist until the film is published and, after the publication of the film, until the expiration of the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c. 88), or any Act amending or substituting for that Act, by rules made under that Act or such other Act after the expiration of the calendar year in which the film was first published.
+93\.—(1) Copyright subsisting in a cinematograph film by virtue of section 88(1) or (2) shall continue to subsist until the film is published and, after the publication of the film, until the expiration of after the expiration of the calendar year in which the film was first published.
 
 (2) Copyright subsisting in a cinematograph film by virtue only of section 88(3) shall continue to subsist until the expiration of 50 years after the expiration of the calendar year in which the film was first published.
 
@@ -6120,19 +6130,23 @@ False Registration of Industrial Designs
 
 (a) copyright subsists in an artistic work, and proceedings are brought under this Act relating to that work;
 
-(b) a corresponding design has been registered under the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c. 88), or any Act amending or substituting for that Act, and the copyright in the design subsisting by virtue of that registration has not expired by effluxion of time before the commencement of those proceedings; and
+(b) a corresponding design has been registered or is deemed registered under the Registered Designs Act 2000, and the copyright in the design subsisting by virtue of that registration has not expired by effluxion of time before the commencement of those proceedings; and
 
-(c) it is proved or admitted in the proceedings that the person registered as the proprietor of the design was not the proprietor thereof for the purposes of that Act or such other Act and was so registered without the knowledge of the owner of the copyright in the artistic work.
+(c) it is proved or admitted in the proceedings that the person who is the registered owner of the design was not the owner thereof for the purposes of that Act and was registered as the owner under that Act or as the proprietor under the Registered Designs Act 1949 of the United Kingdom (as the case may be) without the knowledge of the owner of the copyright in the artistic work.
 
-2\. For the purposes of those proceedings (but subject to paragraph 3) the registration shall be treated as never having been effected, and accordingly, in relation to that registration, section 74(1) of this Act shall not apply, and nothing in any written law relating to industrial designs shall be construed as affording any defence in those proceedings.
+[25/2000 wef 13/11/2000]
 
-3. Notwithstanding anything in paragraph 2, if in the proceedings it is proved or admitted that any act to which the proceedings relate —
+2\. For the purposes of those proceedings (but subject to paragraph 3) the registration under the Registered Designs Act 2000 or the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c.88) (as the case may be) shall be treated as never having been effected, and accordingly, in relation to that registration, section 74(1) of this Act shall not apply, and nothing in any written law relating to industrial designs shall be construed as affording any defence in those proceedings.
 
-(a) was done in pursuance of an assignment or licence made or granted by the person registered as proprietor of the design; and
+3. Notwithstanding anything in paragraph 2, if in the proceedings it is proved or admitted that any act to which the proceedings relate— 
 
-(b) was so done in good faith in reliance upon the registration, and without notice of any proceedings for the cancellation of the registration or for rectifying the entry in the register of designs relating thereto,
+(a) was done in pursuance of an assignment or licence made or granted by the registered owner of the design; and
+
+(b) was so done in good faith in reliance upon the registration, and without notice of any proceedings for the cancellation or revocation of the registration (as the case may be) or for rectifying the entry in the relevant register of designs relating thereto,
 
 section 74(1) of this Act shall apply in relation to that act for the purposes of the first-mentioned proceedings.
+
+[25/2000 wef 13/11/2000]
 
 ## LEGISLATIVE HISTORY
 
@@ -6194,6 +6208,12 @@ This Legislative History is provided for the convenience of users of the Copyrig
 ||Date of commencement|15 December 1999 (except section 25)|
 |10.|**1999 Revised Edition—Copyright Act (Chapter 63)**|
 ||Date of operation|30 December 1999|
+|11.|**Act 25 of 2000—Registered Designs Act 2000**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|30 June 2000|
+|||(Bill No. 19/2000 published on 1 July 2000)|
+||Date of Second and Third Readings|25 August 2000|
+||Date of commencement|13 November 2000|
 ## COMPARATIVE TABLE
 
 Copyright Act
