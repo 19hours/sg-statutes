@@ -4134,3 +4134,8 @@ This Legislative History is provided for the convenience of users of the Housing
 ||Date of commencement|5 September 1986|
 |18.|**1985 Revised Edition—Housing and Development Act**|
 ||Date of operation|30 March 1987|
+|19.|**Act 28 of 1989—Housing and Development (Amendment) Act 1989**|
+||Date of First Reading|29 May 1989|
+|||(Bill No. 31/89 published on 31 May 1989)|
+||Date of Second and Third Readings|11 July 1989|
+||Date of commencement|4 August 1989|
