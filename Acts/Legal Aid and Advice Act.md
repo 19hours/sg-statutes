@@ -64,9 +64,9 @@
 
 - [25 Savings](#Savings)
 
-[**FIRST SCHEDULE Civil proceedings for which legal aid may be given**](#FIRST-SCHEDULE-Civil-proceedings-for-which-legal-aid-may-be-given)
+[**FIRST SCHEDULE Civil Proceedings for Which Legal Aid May be Given**](#FIRST-SCHEDULE-Civil-Proceedings-for-Which-Legal-Aid-May-be-Given)
 
-[**SECOND SCHEDULE Requirements relating to means of an applicant for legal aid**](#SECOND-SCHEDULE-Requirements-relating-to-means-of-an-applicant-for-legal-aid)
+[**SECOND SCHEDULE Requirements Relating to Means of An Applicant for Legal Aid**](#SECOND-SCHEDULE-Requirements-Relating-to-Means-of-An-Applicant-for-Legal-Aid)
 
 [**Legislative History**](#Legislative-History)
 
@@ -104,6 +104,8 @@ PRELIMINARY
 
 “guardian”, in relation to an infant, includes any person whom the Director considers might properly be appointed to be the next friend or guardian ad litem of the infant;
 
+[42/2005 wef 01/01/2006]
+
 “judge”, in relation to proceedings —
 
 (a) in the High Court, includes a Judicial Commissioner;
@@ -132,11 +134,17 @@ PRELIMINARY
 
 4\.—(1) The Director shall prepare and maintain panels of solicitors willing —
 
-(a) to investigate, report and give an opinion upon applications for the grant of legal aid;
+(a) to investigate, report and give an opinion upon applications for the grant of legal aid ;
 
-(b) to act for persons receiving legal aid; and
+[27/2010 wef 01/03/2011]
 
-(c) to give legal advice under the provisions of this Act,
+(b) to act for persons receiving legal aid ; and
+
+[27/2010 wef 01/03/2011]
+
+(c) to give legal advice under the provisions of this Act ,
+
+[27/2010 wef 01/03/2011]
 
 and there may be separate panels for different purposes and for different courts.
 
@@ -146,7 +154,9 @@ and there may be separate panels for different purposes and for different courts
 
 (4) Subject to section 15(2), any solicitor may at any time request the Director to remove his name from the panels or any of them and the Director shall comply with such request.
 
-(5) Subject to any regulations made under this Act, the Director shall pay to a solicitor investigating and reporting, or giving an opinion, upon applications for the grant of legal aid or acting for persons receiving legal aid or giving legal advice under the provisions of this Act such fees as may be agreed between the Director and the solicitor.
+(5) Subject to any regulations made under this Act, the Director shall pay to a solicitor investigating and reporting, or giving an opinion, upon applications for the grant of legal aid or acting for persons receiving legal aid or giving legal advice under the provisions of this Actsuch fees as may be agreed between the Director and the solicitor.
+
+[27/2010 wef 01/03/2011]
 
 ## PART II
 
@@ -170,7 +180,7 @@ LEGAL AID IN CIVIL ACTIONS
 
 (3) Where any application is made on behalf of an infant then —
 
-(a) a reference in section 7 or 8(2)(a) to the applicant shall be construed as a reference to the guardian and the infant jointly or to either of them severally; and
+(a) a reference in section 7 or in section 8(2)(a) to the applicant shall be construed as a reference to the guardian and the infant jointly or to either of them severally; and
 
 (b) a reference in sections 8(2)(b) and 9(1) or in the Second Schedule to the applicant shall, in any case where the infant is unmarried and the guardian is a relative of the infant, be construed as a reference to both the guardian and the infant and in every other case shall be construed as a reference to the infant only.
 
@@ -456,7 +466,7 @@ FIRST SCHEDULE
 
 Section 5(1).
 
-Civil proceedings for which legal aid may be given
+Civil Proceedings for Which Legal Aid May be Given
 
 Part I
 
@@ -500,13 +510,17 @@ SECOND SCHEDULE
 
 Section 8(2).
 
-Requirements relating to means of an applicant for legal aid
+Requirements Relating to Means of An Applicant for Legal Aid
 
 1. For the purposes of section 8(2) of the Act —
 
-(a) the amount of disposable capital is $7,000; and
+(a) the amount of disposable capital is $7,000 ; and
 
-(b) the amount of disposable income is $7,000 per annum.
+[S 310/2007 wef 01/07/2007]
+
+(b) the amount of disposable income is $10,000 per annum.
+
+[S 135/2001 wef 01/04/2001]
 
 2. For the purposes of section 9(1) of the Act —
 
@@ -534,15 +548,25 @@ Requirements relating to means of an applicant for legal aid
 
 (e) a dwelling-house owned and exclusively used by the applicant and his family as their home assessed at an annual value of not more than $7,710 or a Housing and Development Board flat owned and exclusively used by the applicant and his family as their home;
 
+[S 310/2007 wef 01/07/2007]
+
 (f) savings of the applicant of up to $30,000, if he is of the age of 60 years and above; and
 
 (g) moneys standing to the credit of the applicant’s account in the Central Provident Fund;
 
 “disposable income” means the income of the applicant together with the income (if any) of the spouse of the applicant, during the period of 12 months immediately preceding the date of the application, after deducting therefrom —
 
-(a) an amount equal to $1,000 per annum for each person totally or partially dependent on the applicant or spouse;
+(a) an amount equal to $2,000 per annum for each person totally or partially dependent on the applicant or spouse;
 
-(b) an amount equal to $2,000 per annum for the applicant;
+[S 135/2001 wef 01/04/2001]
+
+[S 310/2007 wef 01/07/2007]
+
+(b) an amount equal to $3,000 per annum for the applicant;
+
+[S 135/2001 wef 01/04/2001]
+
+[S 310/2007 wef 01/07/2007]
 
 (c) an amount not exceeding $1,000 per annum for rent; and
 
@@ -567,3 +591,5 @@ This Legislative History is provided for the convenience of users of the Legal A
 ||Date of commencement|1 October 1995|
 |2.|**1996 Revised Edition—Legal Aid and Advice Act (Chapter 160)**|
 ||Date of operation|30 April 1996|
+|3.|**G.N. No. S 135/2001—Legal Aid and Advice Act (Amendment of Second Schedule) Notification 2001**|
+||Date of commencement|1 April 2001|
