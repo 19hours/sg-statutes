@@ -118,11 +118,11 @@ PRELIMINARY
 
 (c) society, whether a co-operative society or otherwise; or
 
-(d) company,
+(d) company ,
 
 who or which engages in or undertakes housing development, but does not include any —
 
-(i) bank which is in possession of a valid licence granted by the Monetary Authority of Singapore under section 4 of the Banking Act [Cap. 19];
+(i) bank which is in possession of a valid licence granted by the Monetary Authority of Singapore under the Banking Act [Cap. 19];
 
 (ii) insurance company registered under section 7 of the Insurance Act [Cap. 142],
 
@@ -600,3 +600,8 @@ This Legislative History is provided for the convenience of users of the Housing
 ||Date of commencement|4 July 1985|
 |4.|**1985 Revised Edition—Housing Developers (Control and Licensing) Act**|
 ||Date of operation|30 March 1987|
+|5.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 September 2001|
