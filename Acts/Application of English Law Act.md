@@ -1,12 +1,10 @@
-**Application of English Law Act 1993**
+**Application of English Law Act**
 
-**(No. 35 of 1993)**
+**(CHAPTER 7A)**
 
 **Table of Contents**
 
 [**Long Title**](#Application-of-English-Law-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 - [1 Short title](#Short-title)
 
@@ -28,45 +26,27 @@
 
 [**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
-[**SECOND SCHEDULE Miscellaneous Amendments**](#SECOND-SCHEDULE-Miscellaneous-Amendments)
+[**SECOND SCHEDULE Miscellaneous amendments**](#SECOND-SCHEDULE-Miscellaneous-amendments)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Application of English Law Act
 
-ACTS SUPPLEMENT
+(CHAPTER 7A)
 
-Published by Authority
+(Original Enactment: Act 35 of 1993)
 
-NO. 33]
+REVISED EDITION 1994
 
-Friday, November 12
+(15th March 1994)
 
-[1993
+An Act to declare the extent to which English law is applicable in Singapore and for purposes connected therewith.
 
-The following Act was passed by Parliament on 12th October 1993 and assented to by the President on 28th October 1993:—
-
-Application Of English Law Act 1993
-
-(No. 35 of 1993)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-28th October 1993.
-
-Date of Commencement: 12th November 1993
-
-An Act to declare the extent to which English law is applicable in Singapore and for purposes connected therewith and to make consequential amendments to the Civil Law Act (Chapter 43 of the 1988 Revised Edition), the Conveyancing and Law of Property Act (Chapter 61 of the 1985 Revised Edition), the Extradition Act (Chapter 103 of the 1985 Revised Edition), the Insurance Act (Chapter 142 of the 1985 Revised Edition) and the Penal Code (Chapter 224 of the 1985 Revised Edition), and to repeal the Voluntary Conveyances Act (Chapter 346 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[12th November 1993]
 
 ### Short title
 
-1\. This Act may be cited as the Application of English Law Act 1993.
+1\. This Act may be cited as the Application of English Law Act.
 
 ### Interpretation
 
@@ -78,7 +58,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Application of common law and equity
 
-3\.—(1) The common law of England (including the principles and rules of equity), so far as it was part of the law of Singapore immediately before the commencement of this Act, shall continue to be part of the law of Singapore.
+3\.—(1) The common law of England (including the principles and rules of equity), so far as it was part of the law of Singapore immediately before 12th November 1993, shall continue to be part of the law of Singapore.
 
 (2) The common law shall continue to be in force in Singapore, as provided in subsection (1), so far as it is applicable to the circumstances of Singapore and its inhabitants and subject to such modifications as those circumstances may require.
 
@@ -90,9 +70,9 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (b) any other English enactment which applies to or is in force in Singapore by virtue of any written law.
 
-(2) The English enactments specified in Part II of the First Schedule shall be the enactments as they are in force at the commencement of this Act, subject to the exceptions specified in the fourth column of that Part and to the amendments specified in Part III of that Schedule.
+(2) The English enactments specified in Part II of the First Schedule shall be the enactments as they are in force at 12th November 1993, subject to the exceptions specified in the fourth column of that Part and to the amendments specified in Part III of that Schedule.
 
-(3) To the extent to which any of the provisions of any English enactment is inconsistent with the provisions of any local Act in force at or after the commencement of this Act, the provisions of the local Act shall prevail.
+(3) To the extent to which any of the provisions of any English enactment is inconsistent with the provisions of any local Act in force at or after 12th November 1993, the provisions of the local Act shall prevail.
 
 (4) In relation to any English enactment specified in the First Schedule, unless the context otherwise requires —
 
@@ -110,17 +90,17 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Other enactments not part of law of Singapore
 
-5\.—(1) Except as provided in this Act (Cap. 1), no English enactment shall be part of the law of Singapore.
+5\.—(1) Except as provided in this Act, no English enactment shall be part of the law of Singapore.
 
-(2) Where any English enactment ceases by virtue of this Act to be part of the law of Singapore, the Interpretation Act shall apply as it would apply on the repeal of an Act of the Parliament of Singapore.
+(2) Where any English enactment ceases by virtue of this Act to be part of the law of Singapore, the Interpretation Act [Cap. 1] shall apply as it would apply on the repeal of an Act of the Parliament of Singapore.
 
 ### Repeal
 
-6\.—(1) Subject to subsection (2), section 5 of the Civil Law Act (Cap. 43) is repealed.
+6\.—(1) Subject to subsection (2), section 5 of the Civil Law Act [Cap. 43] is repealed.
 
-(2) In respect of any proceedings instituted or any cause of action accruing before the commencement of this Act, section 5 of the Civil Law Act shall continue to apply as if it had not been repealed by this Act.
+(2) In respect of any proceedings instituted or any cause of action accruing before 12th November 1993, section 5 of the Civil Law Act shall continue to apply as if it had not been repealed by this Act.
 
-(3) The Voluntary Conveyances Act (Cap. 346) is repealed.
+(3) The Voluntary Conveyances Act [Cap. 346] is repealed.
 
 ### Miscellaneous amendments
 
@@ -132,7 +112,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Revised edition of English enactments
 
-9\.—(1) The Law Revision Commissioners appointed under the Revised Edition of the Laws Act (Cap. 275) may prepare and publish a revised edition of any English enactment specified in the First Schedule so as to bring the enactment into conformity with the local Acts.
+9\.—(1) The Law Revision Commissioners appointed under the Revised Edition of the Laws Act [Cap. 275] may prepare and publish a revised edition of any English enactment specified in the First Schedule so as to bring the enactment into conformity with the local Acts.
 
 (2) In preparing a revised edition under subsection (1), the Commissioners shall have all the powers under section 4 of the Revised Edition of the Laws Act.
 
@@ -145,6 +125,10 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 FIRST SCHEDULE
 
 Section 4(1).
+
+Part I
+
+Imperial Acts
 
 First column
 
@@ -161,10 +145,6 @@ Session or Year and Chapter No.
 Title or Short Title
 
 Extent of Application
-
-PART I
-
-IMPERIAL ACTS
 
 1.
 
@@ -190,9 +170,25 @@ Straits Settlements and Johore Territorial Waters (Agreement) Act 1928
 
 The whole
 
-PART II
+Part II
 
-ENACTMENTS RELATING TO COMMERCIAL LAW
+Enactments Relating to Commercial Law
+
+First column
+
+Second column
+
+Third column
+
+Fourth column
+
+Item
+
+Session or Year and Chapter No.
+
+Title or Short Title
+
+Extent of Application
 
 1.
 
@@ -200,7 +196,7 @@ ENACTMENTS RELATING TO COMMERCIAL LAW
 
 Mercantile Law Amendment Act 1856
 
-Sections 3 and 5.
+Sections 3 and 5
 
 2.
 
@@ -264,7 +260,7 @@ The whole
 
 Unfair Contract Terms Act 1977
 
-Part I (except section 1(1)(c) and (3) (b) and the amendment to that section by the Occupiers’ Liability Act 1984) and Part III.
+Part I (except section 1(1)(c) and (3)(b) and the amendment to that section by the Occupiers’ Liability Act 1984) and Part III.
 
 10.
 
@@ -318,7 +314,7 @@ In section 36(2), delete the words “London Gazetteas to a firm whose principal
 
 “
 
-(b) section 6(1) of the Hire-Purchase Act (Cap. 125),
+(b) section 6(1) of the Hire-Purchase Act [Cap. 125],
 
 ”;
 
@@ -326,7 +322,7 @@ In section 36(2), delete the words “London Gazetteas to a firm whose principal
 
 “
 
-(b) section 6(2) and (3) of the Hire-Purchase Act (Cap. 125),
+(b) section 6(2) and (3) of the Hire-Purchase Act [Cap. 125],
 
 ”.
 
@@ -336,7 +332,7 @@ In section 36(2), delete the words “London Gazetteas to a firm whose principal
 
 “
 
-“hire-purchase agreement” has the same meaning as in the Hire-Purchase Act (Cap. 125);
+“hire-purchase agreement” has the same meaning as in the Hire-Purchase Act [Cap. 125];
 
 ”.
 
@@ -368,12 +364,6 @@ Provision for sea carriage of passengers
 
 (a) delete the definition of “hire-purchase agreement” and substitute —
 
-“
-
-“hire-purchase agreement” has the same meaning as in the Hire-Purchase Act (Cap. 125);
-
-”; and
-
 (b) delete the definitions of “redemption” and “trading stamps”.
 
 (4) In section 19, delete the definitions of “the 1973 Act” and “the 1974 Act”.
@@ -386,14 +376,14 @@ SECOND SCHEDULE
 
 Section 7.
 
-Miscellaneous Amendments
+Miscellaneous amendments
 
-the Civil Law Act
-
-
+THE CIVIL LAW ACT
 
 
-(Chapter 43)
+
+
+(CHAPTER 43)
 
 1. The Civil Law Act is amended —
 
@@ -401,8 +391,7 @@ the Civil Law Act
 
 “
 
-Voluntary waste.
-Cf. 52 Henry III (Statute of Malborough) c.23. (1267)
+Voluntary waste. Cf. 52 Henry III (Statute of Malborough) c.23. (1267)
 
 (2A) A tenant for life or lives or a leasehold tenant shall not commit voluntary waste; but this subsection shall not apply to any estate or tenancy without impeachment of waste, or affect any licence or other right to commit waste\.
 
@@ -414,8 +403,7 @@ Cf. 52 Henry III (Statute of Malborough) c.23. (1267)
 
 “
 
-Contracts which must be evidenced in writing.
-Cf. 29 Charles II c.3 (Statute of Frauds 1677, s. 4) Law of Property Act 1925, s. 40
+Contracts which must be evidenced in writing. Cf. 29 Charles II c3 (Statute of Frauds 1677, s. 4) Law of Property Act 1925, s. 40
 
 6A. No action shall be brought against —
 
@@ -431,8 +419,7 @@ Cf. 29 Charles II c.3 (Statute of Frauds 1677, s. 4) Law of Property Act 1925, s
 
 unless the promise or agreement upon which such action is brought, or some memorandum or note thereof, is in writing and signed by the party to be charged therewith or some other person lawfully authorised by him.
 
-Trusts respecting immovable property and disposition of equitable interest.
-Cf. 29 Charles II c.3 (Statute of Frauds 1677, ss. 7, 8 and 9) Law of Property Act 1925, s. 53
+Trusts respecting immovable property and disposition of equitable interest. Cf. 29 Charles II c. 3 (Statute of Frauds 1677, ss. 7, 8 and 9) Law of Property Act 1925, s. 53
 
 6B.—(1) A declaration of trust respecting any immovable property or any interest in such property must be manifested and proved by some writing signed by some person who is able to declare such trust or by his will.
 
@@ -446,8 +433,7 @@ Cf. 29 Charles II c.3 (Statute of Frauds 1677, ss. 7, 8 and 9) Law of Property A
 
 “
 
-Executor of executor represents original testator.
-Cf. 25 Edward III St. 5. c.5 (1351–2)
+Executor of executor represents original testator. Cf. 25 Edward III St. 5.c.5 (1351-2)
 
 16A.—(1) An executor of a sole or last surviving executor of a testator is the executor of that testator; but this provision shall not apply to an executor who does not prove the will of his testator and, in the case of an executor who on his death leaves surviving him some other executor of his testator who afterwards proves the will of that testator, it shall cease to apply on such probate being granted.
 
@@ -471,12 +457,12 @@ but is not broken by a temporary grant of administration if probate is subsequen
 
 ”.
 
-the Conveyancing and Law of Property Act
+THE CONVEYANCING AND LAW OF PROPERTY ACT
 
 
 
 
-(Chapter 61)
+(CHAPTER 61)
 
 2. The Conveyancing and Law of Property Act is amended —
 
@@ -484,10 +470,9 @@ the Conveyancing and Law of Property Act
 
 “
 
-Relief against forfeiture by action for non-payment of rent.
-Cf. 4 George II c.28 (Landlord and Tenant Act 1730) County Courts Act 1984, s. 138
+Relief against forfeiture by action for non-payment of rent. Cf. 4 George II c. 28 (Landlord and Tenant Act 1730) County Courts Act 1984, s. 138
 
-18A.—(1) This section has effect where a lessor is proceeding by action to enforce against a lessee a right of re-entry or forfeiture in respect of any immovable property for non-payment of rent.
+18A\. —(1) This section has effect where a lessor is proceeding by action to enforce against a lessee a right of re-entry or forfeiture in respect of any immovable property for non-payment of rent.
 
 (2) If, within the time prescribed by rules of court for acknowledging service of the writ by which the action was commenced, the lessee pays into court all the rent in arrear and the costs of the action, the action shall cease, and the lessee shall hold the land according to the lease without any new lease.
 
@@ -495,7 +480,9 @@ Cf. 4 George II c.28 (Landlord and Tenant Act 1730) County Courts Act 1984, s. 1
 
 (a) the action does not cease under subsection (2); and
 
-(b) the court at the trial is satisfied that the lessor is entitled to enforce the right of re-entry or forfeiture, the court shall order possession of the land to be given to the lessor at the expiration of such period, but not being less than 4 weeks from the date of the order, as the court thinks fit, unless within that period the lessee pays into court all the rent in arrear and such sum as the court shall direct on account of the costs of the action.
+(b) the court at the trial is satisfied that the lessor is entitled to enforce the right of re-entry or forfeiture,
+
+the court shall order possession of the land to be given to the lessor at the expiration of such period, but not being less than 4 weeks from the date of the order, as the court thinks fit, unless within that period the lessee pays into court all the rent in arrear and such sum as the court shall direct on account of the costs of the action.
 
 (4) The court may extend the period specified under subsection (3) at any time before possession of the land is recovered in pursuance of the order under that subsection.
 
@@ -553,12 +540,9 @@ the court shall suspend the writ for the extended period, and if, before the exp
 
 Part XIIA
 
-—
-
 Accumulations
 
-Restrictions on accumulation of income.
-Cf. 39 and 40. George III, c.98 (Accumulations Act 1800) Law of Property Act 1925, s. 164
+Restrictions on accumulation of income. Cf. 39 and 40. George III, c. 98 (Accumulations Act 1800) Law of Property Act 1925, s. 164
 
 69A.—(1) No person may by any instrument or otherwise settle or dispose of any property in such manner that the income thereof shall, except as provided in subsection (2), be wholly or partially accumulated for any longer period than one of the following, namely:
 
@@ -584,7 +568,7 @@ In every case where any accumulation is directed otherwise than as aforesaid, th
 
 (i) any child, children or remoter of any grantor, settlor or testator; or
 
-(ii) any child, children or remoter issue of a person taking any interest under any settlement or other disposition directing the accumulations or to whom any interest is thereby limited,
+(ii) any child, children or remoter issue of a person taking any interest under any settlement or other disposition directing the accumulations or to whom any interest in thereby limited,
 
 and accordingly such provisions may be made as if no statutory restrictions on accumulation of income had been imposed.
 
@@ -594,35 +578,32 @@ and accordingly such provisions may be made as if no statutory restrictions on a
 
 “
 
-Co-owner liable to account.
-Cf. 4 and 5 Ann, c.3 (Administration of Justice Act 1705)
+Co-owner liable to account. Cf. 4 and 5 Ann, c. 3 (Administration of Justice Act 1705)
 
-73A\. A joint tenant or tenant in common shall be liable to account to his co-owner for receiving more than his share or proportion of any rents or profits arising from the property.
+73A\\. A joint tenant or tenant in common shall be liable to account to his co-owner for receiving more than his share or proportion of any rents or profits arising from the property.
 
-Voluntary conveyances to defraud creditors voidable.
-Cf. 13 Eliz c.5 (1571) Law of Property Act 1925, s. 172
+Voluntary conveyances to defraud creditors voidable. Cf. 13 Eliz. c. 5 (1571) Law of Property Act 1925, s.172
 
-73B.—(1) Except as provided in this section, every conveyance of property, made whether before or after the commencement of this section, with intent to defraud creditors, shall be voidable, at the instance of any person thereby prejudiced.
+73B\. —(1) Except as provided in this section, every conveyance of property, made whether before or after 12th November 1993, with intent to defraud creditors, shall be voidable, at the instance of any person thereby prejudiced.
 
 (2) This section does not affect the law relating to bankruptcy for the time being in force.
 
 (3) This section does not extend to any estate or interest in property disposed of for valuable consideration and in good faith or upon good consideration and in good faith to any person not having, at the time of the disposition, notice of the intent to defraud creditors.
 
-Voluntary disposition of land how far voidable as against purchasers.
-Cf. 27 Eliz. c.4 (1584–5) Law of Property Act 1925, s. 173
+Voluntary disposition of land how far voidable as against purchasers. Cf. 27 Eliz. c.4 (1584-5) Law of Property Act 1925, s.173
 
-73C.—(1) Every voluntary disposition of immovable property made with intent to defraud a subsequent purchaser is voidable at the instance of that purchaser.
+73C\. —(1) Every voluntary disposition of immovable property made with intent to defraud a subsequent purchaser is voidable at the instance of that purchaser.
 
 (2) For the purposes of this section, no voluntary disposition shall be deemed to have been made with intent to defraud by reason only that a subsequent disposition for valuable consideration was made.
 
 ”.
 
-the Extradition Act
+THE EXTRADITION ACT
 
 
 
 
-(Chapter 103)
+(CHAPTER 103)
 
 3. Section 43 of the Extradition Act is amended —
 
@@ -630,25 +611,20 @@ the Extradition Act
 
 (b) by deleting the word “States” in the marginal note and substituting the words “or Commonwealth countries”.
 
-the Insurance Act
+THE INSURANCE ACT
 
 
 
 
-(Chapter 142)
+(CHAPTER 142)
 
 4. The Insurance Act is amended by inserting, immediately after section 61, the following sections:
 
 “
 
-No insurance to be made unless insurer has interest and no policy without inserting names.
+No insurance to be made unless insurer has interest and no policy without inserting names Cf. 14 George III c. 48 (Life Assurance Act 1774)
 
-
-
-
-Cf. 14 George III c.48 (Life Assurance Act 1774)
-
-61A.—(1) No insurance shall be made by any person on any event wherein the person for whose use or benefit or on whose account the policy is made has no interest, or by way of gaming or wagering; and every assurance made contrary to this subsection shall be void.
+61A\. —(1) No insurance shall be made by any person on any event wherein the person for whose use or benefit or on whose account the policy is made has no interest, or by way of gaming or wagering; and every assurance made contrary to this subsection shall be void.
 
 (2) It shall not be lawful to make any policy on any event without inserting in such policy the names of the persons interested therein, or for whose use or benefit or on whose account such policy was made.
 
@@ -658,16 +634,16 @@ Cf. 14 George III c.48 (Life Assurance Act 1774)
 
 No action for accidental fire. (Fire Prevention (Metropolis) Act 1774, s.86)
 
-61B. No action shall lie against a person in whose house or premises or on whose estate any fire accidentally began except that no contract or agreement made between landlord and tenant shall be hereby defeated or made void.
+61B\. No action shall lie against a person in whose house or premises or on whose estate any fire accidentally began except that no contract or agreement made between landlord and tenant shall be hereby defeated or made void.
 
 ”.
 
-the Penal Code
+THE PENAL CODE
 
 
 
 
-(Chapter 224)
+(CHAPTER 224)
 
 5. The Penal Code is amended by inserting, immediately after section 130A, the following Chapter:
 
@@ -675,16 +651,9 @@ the Penal Code
 
 Chapter VIA
 
-—
-
 Piracy
 
-Piracy by law of nations.
-
-
-
-
-Cf. 12 and 13 Victoria c.96 (Admiralty Offences (Colonial) Act 1849)
+Piracy by law of nations. Cf. 12 and 13 Victoria c. 96 (Admiralty Offences (Colonial) Act 1849)
 
 130B.—(1) A person commits piracy who does any act that, by the law of nations, is piracy.
 
@@ -706,3 +675,20 @@ shall be punished with imprisonment for a term not exceeding 10 years and shall 
 
 ”.
 
+## LEGISLATIVE HISTORY
+
+Application of English Law Act
+
+(CHAPTER 7A)
+
+This Legislative History is provided for the convenience of users of the Application of English Law Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 35 of 1993—Application of English Law Act 1993**|
+||Date of First Reading|30 August 1993|
+|||(Bill No. 26/1993 published on 31 August 1993)|
+||Date of Second and Third Readings|12 October 1993|
+||Date of commencement|12 November 1993|
+|2.|**1994 Revised Edition—Application of English Law Act**|
+||Date of operation|15 March 1994|
