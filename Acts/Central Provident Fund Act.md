@@ -68,6 +68,8 @@
 
 - [18B Transfer of member’s moneys in ordinary account to special account](#Transfer-of-member’s-moneys-in-ordinary-account-to-special-account)
 
+- [18C Transfer of member’s moneys in ordinary or special account to medisave account](#Transfer-of-member’s-moneys-in-ordinary-or-special-account-to-medisave-account)
+
 - [19 Provisions relating to moneys transferred or paid to parent’s, grandparent’s or spouse’s retirement account on death](#Provisions-relating-to-moneys-transferred-or-paid-to-parent’s-grandparent’s-or-spouse’s-retirement-account-on-death)
 
 - [20 Withdrawals](#Withdrawals)
@@ -600,7 +602,7 @@ CONTRIBUTIONS TO FUND
 
 13\.—(1) Subject to subsection (5), there shall be maintained for each member in respect of the money standing to his credit in the Fund the following subsidiary accounts:
 
-(a) an ordinary account from which, apart from section 15(2) to (5), 18, 18A, 18B, 22 or 45 but subject to sections 14, 14A and 15A, withdrawals may be made in accordance with any regulations made under section 51(b) or 77(1)(h), (i), (m), (n) or (r);
+(a) an ordinary account from which, apart from section 15(2) to (5), 18, 18A, 18B, 22 or 45 but subject to sections 14, 14A and 15A, withdrawals may be made in accordance with any regulations made under section 51(b) or 77(1)(h), (i), (n) or (r);
 
 [31/2003 wef 01/07/2004]
 
@@ -1101,6 +1103,16 @@ if the member and the person or persons, as the case may be, give an undertaking
 [30/98; 39/2000]
 
 [See S 320/2002 wef 01/07/2002; S395/2004wef1stJuly2004]
+
+### Transfer of member’s moneys in ordinary or special account to medisave account
+
+18C\.—(1) Subject to subsection (2), a member who has less than the requisite amount standing to his credit in his medisave account may apply to the Board to transfer any sum standing to his credit in his ordinary or special account, or in both accounts, to his medisave account.
+
+(2) An application by a member to transfer any sum standing to his credit in his ordinary or special account, or in both accounts, under subsection (1) shall be irrevocable and any transfer shall be subject to such terms and conditions as the Board may determine.
+
+(3) In this section, “requisite amount” means the amount as directed by the Minister under section 13(6).
+
+[31/2003 wef 01/07/2004]
 
 ### Provisions relating to moneys transferred or paid to parent’s, grandparent’s or spouse’s retirement account on death
 
@@ -2505,8 +2517,6 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 (k) with respect to the withdrawal of money from the medisave account of a member for payment of premium payable by the member or his dependant who is insured under a medical insurance scheme or other insurance scheme approved by the Minister charged with the responsibility for health;
 
 (l) to provide for rates of contributions, other than those specified in the First Schedule, in respect of employees declared by the President to be employees for the purposes of this Act by notification in theGazetteunder section 2(1);
-
-(m) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of purchasing the stocks and shares of the Singapore Bus Service (1978) Limited, a company incorporated under the provisions of the Companies Act (Cap. 50), subject to such conditions as the Minister may impose;
 
 (n) to provide for members of the Fund to apply, assign or withdraw all or part of the contributions and interest standing to their credit in the Fund for the purpose of investing in such precious metals, insurance policies (including investment-linked insurance policies) and securities, and depositing in such fixed deposit accounts, as may be approved by the Minister, or for the reimbursement of the cost of the making of any such investments, including the payment of any fees, charges or incidental expenses incurred for such investments;
 
@@ -4120,8 +4130,6 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (47) Accounting and Corporate Regulatory Authority.
 
-[3/2004 wef 01/04/2004]
-
 (48) Public Transport Council.
 
 (49) Public Utilities Board.
@@ -4807,6 +4815,11 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 1/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 April 2004|
+|135.|**Act 31 of 2003—Central Provident Fund (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 30/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Dates of commencement|1 July 2004 (sections 3, 6 and 10(a))|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
