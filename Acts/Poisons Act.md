@@ -4646,7 +4646,7 @@ Sodium hydroxide
 
 Styrene monomer
 
-Sulphur in diesel oil in which the sulphur content is more than 0.3% by weight of the diesel oil
+Sulphur in diesel oil in which the sulphur content is more than 0.05% by weight of the diesel oil.
 
 Sulphuric acid
 
@@ -4664,7 +4664,7 @@ Vinyl bromide
 
 Vinyl chloride monomer
 
-[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991; S 9/1993; S 172/1993; S 12/1994; S 147/1994; S 399/1994; S 449/1994; S 465/1994; S 10/1995; S 132/1995; S 267/1995; S 416/1995; S 236/1996; S 547/1998]
+[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991; S 9/1993; S 172/1993; S 12/1994; S 147/1994; S 399/1994; S 449/1994; S 465/1994; S 10/1995; S 132/1995; S 267/1995; S 416/1995; S 236/1996; S 547/1998; S 53/1999]
 
 ## LEGISLATIVE HISTORY
 
@@ -4849,3 +4849,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 January 1999|
 |73.|**G. N. No. S 633/1998—Poisons Act (Amendment of Schedule) (No. 3) Notification 1998**|
 ||Date of commencement|1 January 1999|
+|74.|**G. N. No. S 53/1999—Poisons Act (Amendment of Schedule) Notification 1999**|
+||Date of commencement|1 March 1999|
