@@ -541,7 +541,33 @@ Assistant Director CID
 
 Criminal Investigation Department.
 
+Assistant Director CID
+
+
+
+
+(Support & Services)
+
+
+
+
+Criminal Investigation Department
+
+Assistant Director CID
+
+
+
+
+(Investigation Support & Services)
+
+
+
+
+Criminal Investigation Department.
+
 [S 412/98 wef 01/02/1996]
+
+[S 408/99 wef 26/07/1999]
 
 [S 139/70]
 
@@ -621,3 +647,5 @@ This Legislative History is provided for the convenience of users of the Departm
 ||Date of commencement|12 July 1996|
 |18.|**G. N. No. S 151/1999—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 1999**|
 ||Date of commencement|1 April 1999|
+|19.|**G. N. No. S 408/1999—Departmental Titles (Alteration) Act (Amendment of Schedule) (No. 2) Notification 1999**|
+||Date of commencement|26 July 1999|
