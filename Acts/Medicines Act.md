@@ -274,7 +274,9 @@ where (in any such case) there is evidence that medicinal products of that descr
 
 (c) the administration of any substance or article, other than a medicinal product, to one or more animals for the purpose of ascertaining whether it has any effects relevant to a medicinal purpose or whether there is evidence that it has effects which may be beneficial to, or otherwise advantageous in relation to, that animal or those animals;
 
-“midwife” means a midwife registered under the Nurses and Midwives Act [Cap. 209];
+“midwife” means a registered midwife within the meaning of the Nurses and Midwives Act 1999;
+
+[46/99 wef 01/05/2000]
 
 “Minister” means —
 
@@ -282,7 +284,9 @@ where (in any such case) there is evidence that medicinal products of that descr
 
 (b) for the purpose of performing any function under this Act (whether by the making of any regulations or order or otherwise) where the function is performed exclusively in relation to veterinary medicinal products and animals, the Minister for National Development;
 
-“nurse” means a nurse registered or enrolled under the Nurses and Midwives Act;
+“nurse” means a registered nurse or enrolled nurse within the meaning of the Nurses and Midwives Act 1999;
+
+[46/99 wef 01/05/2000]
 
 “package”, in relation to any medicinal product, means any box, packet or other article in which one or more containers of the products are or are to be enclosed, and, where any such box, packet or other article is or is to be itself enclosed in one or more boxes, packets or other articles, includes each of the boxes, packets or articles in question;
 
@@ -1565,3 +1569,9 @@ This Legislative History is provided for the convenience of users of the Medicin
 |||(Bill No. 11/2000 published on 22 February 2000)|
 ||Date of Second and Third Readings|17 March 2000|
 ||Date of commencement|1 April 2000|
+|6.|**Act 46 of 1999—Nurses and Midwives Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 38/1999 published on 12 October 1999)|
+||Date of Second and Third Readings|24 November 1999|
+||Date of commencement|1 May 2000|
