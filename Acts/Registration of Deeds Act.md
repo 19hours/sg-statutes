@@ -1,18 +1,16 @@
-**Registration of Deeds Act 1988**
+**Registration of Deeds Act**
 
-**(No. 13 of 1988)**
+**(CHAPTER 269)**
 
 **Table of Contents**
 
 [**Long Title**](#Registration-of-Deeds-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Appointment of Registrar, etc](#Appointment-of-Registrar-etc)
+- [3 Appointment of Registrar, etc.](#Appointment-of-Registrar-etc)
 
 - [4 All instruments affecting land may be registered](#All-instruments-affecting-land-may-be-registered)
 
@@ -26,7 +24,7 @@
 
 - [9 Persons to present documents for registration](#Persons-to-present-documents-for-registration)
 
-- [10 Powers of attorney for the purposes of section 9](#Powers-of-attorney-for-the-purposes-of-section-9)
+- [10 Powers of attorney for purposes of section 9](#Powers-of-attorney-for-purposes-of-section-9)
 
 - [11 Inquiry before registration](#Inquiry-before-registration)
 
@@ -38,7 +36,7 @@
 
 - [15 Tacking of further advances](#Tacking-of-further-advances)
 
-- [16 Rights of purchasers to relief to be the same as those of the persons through whom they claim](#Rights-of-purchasers-to-relief-to-be-the-same-as-those-of-the-persons-through-whom-they-claim)
+- [16 Rights of purchasers to relief to be same as those of persons through whom they claim](#Rights-of-purchasers-to-relief-to-be-same-as-those-of-persons-through-whom-they-claim)
 
 - [17 Registration](#Registration)
 
@@ -52,7 +50,7 @@
 
 - [22 Print-outs of information stored](#Print-outs-of-information-stored)
 
-- [23 Protection of solicitors, trustees, etc., in the case of certificates, etc](#Protection-of-solicitors-trustees-etc-in-the-case-of-certificates-etc)
+- [23 Protection of solicitors, trustees, etc., in case of certificates, etc.](#Protection-of-solicitors-trustees-etc-in-case-of-certificates-etc)
 
 - [24 Rectification of register by Court](#Rectification-of-register-by-Court)
 
@@ -68,45 +66,27 @@
 
 - [30 Service of notices](#Service-of-notices)
 
-- [31 Repeal and savings provision](#Repeal-and-savings-provision)
+- [31 Transitional provision](#Transitional-provision)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Registration of Deeds Act
 
-ACTS SUPPLEMENT
+(CHAPTER 269)
 
-Published by Authority
+(Original Enactment: Act 13 of 1988)
 
-NO. 11]
+REVISED EDITION 1989
 
-Friday, July 29
+(15th March 1989)
 
-[1988
+An Act relating to the registration of deeds.
 
-The following Act was passed by Parliament on 28th June 1988 and assented to by the President on 21st July 1988:—
+[30th November 1988]
 
-Registration Of Deeds Act 1988
+### Short title
 
-(No. 13 of 1988)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-21st July 1988.
-
-Date of Commencement: 30th November 1988
-
-An Act to repeal and re-enact with amendments the Registration of Deeds Act (Chapter 269 of the Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the Registration of Deeds Act 1988 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Registration of Deeds Act.
 
 ### Interpretation
 
@@ -164,11 +144,13 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 “subsequent mortgagee” includes a subsequent chargee or assignee in whose favour an estate or interest in respect of land was mortgaged, charged or assigned by way of mortgage;
 
-“will” includes codicil.
+“will” includes a codicil.
 
-(2) In this Act, any reference to a plan certified by a registered surveyor shall, in relation to a plan certified at any time prior to the commencement of the Land Surveyors Act [Cap. 156], be construed as a reference to a plan which was certified by a surveyor licensed under any written law which was in force at the time that plan was certified.
+(2) In this Act, any reference to a plan certified by a registered surveyor shall, in relation to a plan certified at any time prior to 1st September 19721, be construed as a reference to a plan which was certified by a surveyor licensed under any written law which was in force at the time that plan was certified.
 
-### Appointment of Registrar, etc
+1Commencement of the Land Surveyors Act (Cap. 156, 1985 Ed.).
+
+### Appointment of Registrar, etc.
 
 3\.—(1) The Minister may appoint a Registrar of Deeds and such number of Deputy Registrars and Assistant Registrars of Deeds and other officers of the Registry as he may think fit.
 
@@ -180,7 +162,7 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 ### All instruments affecting land may be registered
 
-4\. Subject to this Act and the rules, all assurances executed or made, and all probates and letters of administration granted, before or after the commencement of this Act by which any land within Singapore is affected and which have not been registered under any repealed enactment, may be registered in such manner as is hereinafter directed, and unless so registered shall not be admissible in any court as evidence of title to such land.
+4\. Subject to this Act and the rules, all assurances executed or made, and all probates and letters of administration granted, before or after 30th November 1988 by which any land within Singapore is affected and which have not been registered under any repealed enactment, may be registered in such manner as is hereinafter directed, and unless so registered shall not be admissible in any court as evidence of title to such land.
 
 ### Mode of registration
 
@@ -204,7 +186,7 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 (3) As soon as conveniently may be after the provisional registration of any instrument has been effected, the instrument or its memorial shall be duly enrolled in the register by an entry made in the index to land which is maintained by the Registrar for the purposes of the registration of instruments under this Act.
 
-(4) Upon the presentation for registration of an instrument affecting any land that has not been surveyed and demarcated to the satisfaction of the Chief Surveyor, the person on whose behalf the instrument is so presented shall be deemed to have made an application for the land to be surveyed and demarcated under the direction of the Chief Surveyor, and for the purposes of satisfying the Chief Surveyor on the survey and demarcation of the land, such person may either make application to the Chief Surveyor for the survey to be carried out by the Government Survey Department in which case the Chief Surveyor may either cause the survey to be carried out by the Government Survey Department or direct that a registered surveyor be employed to carry out the survey, or such person may satisfy the Registrar by annexing an assurance plan to the instrument which has been approved by the Chief Surveyor as provided in section 13(1)(c).
+(4) Upon the presentation for registration of an instrument affecting any land that has not been surveyed and demarcated to the satisfaction of the Chief Surveyor, the person on whose behalf the instrument is so presented shall be deemed to have made an application for the land to be surveyed and demarcated under the direction of the Chief Surveyor, and for the purposes of satisfying the Chief Surveyor on the survey and demarcation of the land, that person may either make application to the Chief Surveyor for the survey to be carried out by the Government Survey Department in which case the Chief Surveyor may either cause the survey to be carried out by the Government Survey Department or direct that a registered surveyor be employed to carry out the survey, or that person may satisfy the Registrar by annexing an assurance plan to the instrument which has been approved by the Chief Surveyor as provided in section 13(1)(c).
 
 ### Memorandum of lien or charge
 
@@ -216,9 +198,9 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 ### Registration complete on compliance with conditions precedent within 6 months of provisional registration
 
-7\.—(1) Immediately on compliance with subsection (1) of section 13, or the provisions of that subsection, other than paragraph (c) in the event of that paragraph being dispensed with, any instrument provisionally registered shall be deemed to have been registered under this Act as to the lands with respect to which an endorsement has been made under section 5(2), and the date, hour and minute entered under that subsection shall be deemed for all purposes to be the date and time of registration.
+7\.—(1) Immediately on compliance with section 13(1) or the provisions of that section, other than paragraph (c) in the event of that paragraph being dispensed with, any instrument provisionally registered shall be deemed to have been registered under this Act as to the lands with respect to which an endorsement has been made under section 5(2), and the date, hour and minute entered under that subsection shall be deemed for all purposes to be the date and time of registration.
 
-(2) Immediately after the provisional registration of any instrument, probate, letters of administration, order of court, certificate of appointment of trustee in bankruptcy, private Act or memorandum of charge or discharge there shall be endorsed on the original instrument or on the probate or letters of administration or the office copy of the order of court or certificate or the copy of the Act or on the memorandum of charge or discharge, as the case may be, produced to the Registrar, a certificate stating the date, hour and minute of registration, and the volume and number in the register in which the same or the memorial thereof, as the case may be, is or is intended to be enrolled, and the Registrar or any officer duly authorised by the Registrar shall sign the certificate and seal it with the seal of the Registrar, and every certificate so signed and sealed shall be receivable in evidence.
+(2) Immediately after the provisional registration of any instrument, probate, letters of administration, order of court, certificate of appointment of trustee in bankruptcy, private Act or memorandum of charge or discharge there shall be endorsed on the original instrument or on the probate or letters of administration or the office copy of the order of court or certificate or the copy of the Act or on the memorandum of charge or discharge, as the case may be, produced to the Registrar, a certificate stating the date, hour and minute of registration, and the volume and number in the register in which the same or a memorial thereof, as the case may be, is or is intended to be enrolled, and the Registrar or any officer duly authorised by the Registrar shall sign the certificate and seal it with the seal of the Registrar, and every certificate so signed and sealed shall be receivable in evidence.
 
 (3) If at the expiration of 6 months from the date of provisional registration of any instrument section 13(1) (other than paragraph (c)) has not been fully complied with, then the provisional registration shall be null and void for all purposes and all entries in respect thereof shall be cancelled.
 
@@ -238,27 +220,27 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 (b) a description of the estate or interest in the land given to or claimed by the caveator.
 
-(3) Where part of a government survey lot is affected, the caveat shall have a plan annexed edging with sufficient identity that part of the lot affected.
+(3) Where a part of a Government survey lot is affected, the caveat shall have a plan annexed edging with sufficient identity that part of the lot affected.
 
 (4) The Registrar shall not register a caveat which does not —
 
 (a) disclose any estate or interest in land; or
 
-(b) state the government survey lot number maintained in the records of the Chief Surveyor or, in the case where part of a government survey lot is affected, does not state that part of the existing lot and does not clearly identify that part of the lot in one or more plans annexed to the caveat.
+(b) state the Government survey lot number maintained in the records of the Chief Surveyor or, in the case where a part of a Government survey lot is affected, does not state that part of the existing lot and does not clearly identify that part of the lot in one or more plans annexed to the caveat.
 
-(5) Where after the acceptance of any caveat for provisional registration the Registrar discovers that the caveat does not comply with any of the requirements under this section or the rules, the Registrar may cancel the provisional registration.
+(5) Where, after the acceptance of any caveat for provisional registration, the Registrar discovers that the caveat does not comply with any of the requirements under this section or the rules, the Registrar may cancel the provisional registration.
 
 (6) Notwithstanding subsections (4) and (5), the Registrar shall not be concerned to consider whether or not a caveator’s claim is justified.
 
 (7) Where a caveat is lodged by a person claiming an estate or interest in land or by his solicitor or agent, such a person shall serve a notice by registered post on the proprietor of the land and all persons who have prior claims as shown in the register, and the Registrar shall not be concerned to inquire whether or not such a notice has been effected.
 
-(8) If within the period during which a caveat remains in force any subsequent assurance made or executed in favour of the person to whom a caveat has been granted under subsection (1)(a) or in favour of the person who has lodged a caveat under subsection (1)(b) and conveying the same estate or interest protected by and so described in the subsisting caveat is presented and accepted for registration, such assurance when registered shall have priority as though it had been registered on the date the caveat was registered and that date shall be deemed to be the date of registration of the assurance for all purposes and to have been substituted in all certificates and other instruments for the date on which the assurance was actually presented for enrolment accordingly.
+(8) If within the period during which a caveat remains in force any subsequent assurance made or executed in favour of the person to whom a caveat has been granted under subsection (1)(a) or in favour of the person who has lodged a caveat under subsection (1)(b) and conveying the same estate or interest protected by and so described in the subsisting caveat is presented and accepted for registration, that assurance when registered shall have priority as though it had been registered on the date the caveat was registered and that date shall be deemed to be the date of registration of the assurance for all purposes and to have been substituted in all certificates and other instruments for the date on which the assurance was actually presented for enrolment accordingly.
 
 (9) A caveat registered under this Act shall, unless withdrawn by the caveator or cancelled by an order of court, be in force for a period of 5 years.
 
 ### Persons to present documents for registration
 
-9\.—(1) No assurance or caveat shall be provisonally registered under this Act unless it is presented for registration by —
+9\.—(1) No assurance or caveat shall be provisionally registered under this Act unless it is presented for registration by —
 
 (a) a person who has executed or claims under it;
 
@@ -266,7 +248,7 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 (c) the agent of that person or representative duly authorised by power of attorney, executed and authenticated in the manner hereinafter mentioned; or
 
-(d) the solicitor of that person or representative.
+(d) the solicitor of that person or his representative.
 
 (2) No instrument shall be provisionally registered on behalf of a corporation or company, unless it is presented for registration —
 
@@ -276,7 +258,7 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 (c) by the solicitor of the corporation or company.
 
-### Powers of attorney for the purposes of section 9
+### Powers of attorney for purposes of section 9
 
 10\. For the purposes of section 9, where any assurance or caveat has been executed by any agent or representative duly authorised by a power of attorney, the Registrar may require the power of attorney to be deposited in the Registry of the Supreme Court pursuant to section 48 of the Conveyancing and Law of Property Act [Cap. 61] before the assurance or caveat is provisionally registered under this Act.
 
@@ -330,7 +312,7 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 (b) he is satisfied that the instrument was executed by the company or corporation in accordance with the articles of association or other rules governing the management of the affairs of the company or corporation and that the seal affixed onto the instrument is the seal of the company or corporation.
 
-(9) This section shall not apply in the case of any instrument executed by the Public Trustee or by the Official Assignee under his official seal.
+(9) This section shall not apply in the case of any instrument executed by the Public Trustee or the Official Assignee under his official seal.
 
 ### Procedure where appearance of executant or witness is desired
 
@@ -382,7 +364,7 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 (2) Except as provided in this section, the right to tack shall not apply to mortgages.
 
-### Rights of purchasers to relief to be the same as those of the persons through whom they claim
+### Rights of purchasers to relief to be same as those of persons through whom they claim
 
 16\. Any person claiming under any assurance duly registered shall have and be entitled to all the same grounds of relief as against any person claiming through any assurance of a subsequent date to that under which he claims but which has acquired priority by earlier registration as the person through whom he claims under that first-mentioned assurance might have had and been entitled to.
 
@@ -414,7 +396,7 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 19\.—(1) Subject to this Act and the rules, any person may at any time require an official search to be made on his behalf at the Registry by delivering to the Registrar a requisition in writing signed by him.
 
-(2) The requisition referred to in subsection (1) shall specify the government survey lot number and mukim number or town subdivision number and either —
+(2) The requisition referred to in subsection (1) shall specify the Government survey lot number and mukim number or town subdivision number and either —
 
 (a) the specified instruments which have been registered or provisionally registered under this Act or any repealed enactment; or
 
@@ -440,7 +422,7 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 22\. Where a public record in the custody of the Registrar is stored in a computer, a document purporting to be a print-out of that public record and certified to be a true reproduction of that public record shall be receivable in evidence.
 
-### Protection of solicitors, trustees, etc., in the case of certificates, etc
+### Protection of solicitors, trustees, etc., in case of certificates, etc.
 
 23\. Where any solicitor, trustee, executor, agent or other person in a fiduciary position, either by himself or by a solicitor, obtains —
 
@@ -448,7 +430,7 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 (b) a certified copy of or extract from any document enrolled in the register or any entry in the register or any other public record maintained by the Registrar under this Act or the rules,
 
-the solicitor, trustee, executor, agent or other person shall not be answerable for any loss, damage or injury that arises from any error in that certificate, copy or signed extract.
+the solicitor, trustee, executor, agent or other person shall not be answerable for any loss, damage or injury that arises from any error in that certificate, copy or extract.
 
 ### Rectification of register by Court
 
@@ -476,7 +458,7 @@ the solicitor, trustee, executor, agent or other person shall not be answerable 
 
 (6) Upon registration of an order made by the court under this section, any instrument, register, book or index kept at the Registry which is affected by the order of court shall be construed as if the amendments, rectifications, cancellations or endorsements ordered by the court had been made in the instrument, register, book or index and the Registrar shall, if so directed by the order of court, make the amendments, rectifications, cancellations or endorsements on the instrument, register, book or index unless it is not practicable for him to do so.
 
-(7) The Registrar may require any person who has custody, possession or control of any instrument which is the subject of an order of court made under this section to produce that instrument to the Registrar for amendments, rectifications or endorsements to be made on the instrument or to cancel the instrument in accordance with the terms of the said order of court; and if that person refuses or neglects to produce that instrument he shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years.
+(7) The Registrar may require any person who has custody, possession or control of any instrument which is the subject of an order of court made under this section to produce that instrument to the Registrar for amendments, rectifications or endorsements to be made on the instrument or to cancel the instrument in accordance with the terms of that order of court; and if that person refuses or neglects to produce that instrument he shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years.
 
 ### Act not to extend to certain leaseholds
 
@@ -496,7 +478,7 @@ the solicitor, trustee, executor, agent or other person shall not be answerable 
 
 27\. Any person who —
 
-(a) intentionally makes any false statement, whether on oath or not , before an officer acting in the execution of this Act;
+(a) intentionally makes any false statement, whether on oath or not, before an officer acting in the execution of this Act;
 
 (b) fraudulently procures, assists in fraudulently procuring, or is privy to the fraudulent procuring of any instrument, or any entry in, any alteration or erasure of, or any addition to, in any register or record kept at the Registry;
 
@@ -508,7 +490,9 @@ the solicitor, trustee, executor, agent or other person shall not be answerable 
 
 (f) fraudulently removes from the Registry any part of the records or any instrument kept at the Registry or causes any defacement, obliteration, mutilation or unauthorised entry or alteration to be made thereto; or
 
-(g) abets the commission of an offence under this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+(g) abets the commission of an offence under this Act,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 ### Fees
 
@@ -542,7 +526,7 @@ the solicitor, trustee, executor, agent or other person shall not be answerable 
 
 (k) exempting instruments relating to land intended to form part of street or back lanes from any of the provisions of this Act, and prescribing the mode in which such instruments may be registered;
 
-(l) enabling the Registrar in his discretion to dispense with section 13(1)(c) when he considers it desirable to do so;
+(l) enabling the Registrar in his discretion to dispense with the requirements of section 13(1)(c) when he considers it desirable to do so;
 
 (m) the persons by whom and the manner in which any memorandum of discharge shall be signed;
 
@@ -556,19 +540,34 @@ the solicitor, trustee, executor, agent or other person shall not be answerable 
 
 (2) Section 72 of the Conveyancing and Law of Property Act [Cap. 61] shall not apply to the service on a proprietor of a notice under this Act.
 
-### Repeal and savings provision
+### Transitional provision
 
-31\.—(1) The Registration of Deeds Act [Cap. 269] (in this section referred to as the previous enactment) is repealed.
+31\.—(1) Any register, instrument, index or other document maintained under the repealed Registration of Deeds Act shall be continued to be maintained under a corresponding provision of this Act or any of the rules.
 
-(2) Any register, instrument, index or other document maintained under the previous enactment shall be continued to be maintained under a corresponding provision of this Act or any of the rules.
+(2) In so far as any entry in a register or instrument was made or other thing whatsoever was done under the repealed Registration of Deeds Act, that entry or thing shall have effect as if made or done under a corresponding provision of this Act or any of the rules.
 
-(3) In so far as any entry in a register or instrument was made or other thing whatsoever was done under the previous enactment, that entry or thing shall have effect as if made or done under a corresponding provision of this Act or any of the rules.
+(3) Any caveat registered under the repealed Registration of Deeds Act shall, unless removed or cancelled in accordance with any rules made for that purpose, be in force for such period not exceeding 6 months as is specified therein in that behalf.
 
-(4) Any caveat registered under the previous enactment shall, unless removed or cancelled in accordance with any rules made for that purpose, be in force for such period not exceeding 6 months as is specified therein in that behalf.
+(4) Any lease for a term exceeding 3 years but less than 7 years or any assignment thereof executed or made before 30th November 1988 and which was not registered under the repealed Registration of Deeds Act [Cap. 269, 1985 Ed] may, notwithstanding section 25 of this Act, be registered under this Act, and unless so registered shall not be admissible in any court as evidence of title to land.
 
-(5) Any lease for a term exceeding 3 years but less than 7 years or any assignment thereof executed or made before the date of commencement of this Act and which was not registered under the previous enactment may, notwithstanding section 25 of this Act, be registered under this Act, and unless so registered shall not be admissible in any court as evidence of title to land.
+(5) Any written law or other document referring to the repealed Registration of Deeds Act shall as far as may be necessary for preserving its effect, be construed as referring, or as including a reference, to this Act.
 
-(6) Any written law or other document referring to the previous enactment shall as far as may be necessary for preserving its effect, be construed as referring, or as including a reference, to this Act.
+(6) Nothing in this section shall be taken as prejudicing the operation of section 16 of the Interpretation Act [Cap. 1] (which relates to the effect of repeals).
 
-(7) Nothing in this section shall be taken as prejudicing the operation of section 16 of the Interpretation Act [Cap. 1] (which relates to the effect of repeals).
+## LEGISLATIVE HISTORY
 
+Registration of Deeds Act
+
+(CHAPTER 269)
+
+This Legislative History is provided for the convenience of users of the Registration of Deeds Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 13 of 1988—Registration of Deeds Act 1988**|
+||Date of First Reading|31 May 1988|
+|||(Bill No. 10/1988 published on 1 June 1988)|
+||Date of Second and Third Readings|28 June 1988|
+||Date of commencement|30 November 1988|
+|2.|**1989 Revised Edition—Registration of Deeds Act**|
+||Date of operation|15 March 1989|
