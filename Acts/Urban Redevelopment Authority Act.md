@@ -94,8 +94,6 @@
 
 - [37 No benefits in respect of abolition or reorganisation of office](#No-benefits-in-respect-of-abolition-or-reorganisation-of-office)
 
-- [38 Safeguarding of Municipal Provident Fund benefits](#Safeguarding-of-Municipal-Provident-Fund-benefits)
-
 - [38 (Repealed)](#Repealed)
 
 - [39 Continuation and completion of disciplinary proceedings](#Continuation-and-completion-of-disciplinary-proceedings)
@@ -191,10 +189,6 @@ PRELIMINARY
 “member” means a member of the Authority;
 
 “monument” has the same meaning as in the Preservation of Monuments Act;
-
-“Municipal Provident Fund” means the Municipal Provident Fund established by the City Council under the provisions of the repealed Municipal Ordinance and continued and deemed to have been established under section 11 of the Local Government Integration Act;
-
-[1936 Ed.]
 
 “Planning Department” means the Planning Department of the Ministry of National Development;
 
@@ -540,18 +534,6 @@ shall be transferred to and shall vest in the Authority without further assuranc
 
 37\. Notwithstanding the provisions of the Pensions Act [Cap. 225], no person who is transferred to the service of the Authority under section 34 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
 
-### Safeguarding of Municipal Provident Fund benefits
-
-38\.—(1) Rules for the maintenance of the Municipal Provident Fund made under section 12 of the Local Government Integration Act shall be binding upon the Authority and its employees who were members of the Municipal Provident Fund immediately before 1st September 1989.
-
-(2) Until other provision is made, the Municipal (Provident Fund) Rules 1956 shall continue to apply to every person transferred to the service of the Authority who, immediately before 1st September 1989 was a member of the Municipal Provident Fund, in the like manner as those Rules applied to such person immediately before that date, and every reference to service or employment with the City Council in those Rules shall be construed as a reference to service or employment with the Authority in respect of such person.
-
-[S 179/56]
-
-(3) Until other provision is made, the provisions of the Municipal (Provident Fund) Rules 1956 requiring the City Council to make payments into the Municipal Provident Fund shall apply to the Authority and be construed as provisions requiring the Authority to make payments into that Fund in respect of every person transferred to the service of the Authority who is a member of the Fund.
-
-(4) Persons who have been transferred to the service of the Authority may count their previous service in the Singapore Improvement Trust, the Housing and Development Board, the former Authority, the Planning Department or the Research and Statistics Unit and their previous membership of the Municipal Provident Fund and their contributions to that Fund for the purpose of determining the benefits to which they become entitled under this section.
-
 38\. [Repealed by Act 11/2003 wef 01/08/2003]
 
 ### Continuation and completion of disciplinary proceedings
@@ -676,7 +658,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 53\.—(1) The transitional and savings provisions in the Fourth Schedule shall have effect.
 
-(2) Except as provided in the Fourth Schedule, nothing in that Schedule shall affect any saving provided by the Interpretation Act [Cap. 1].
+(2) Except as provided in the Fourth Schedule, nothing in that Schedule shall affect any saving provided by the Interpretation Act (Cap. 1).
 
 FIRST SCHEDULE
 
@@ -962,3 +944,9 @@ This Legislative History is provided for the convenience of users of the Urban R
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002|
+|9.|**Act 11 of 2003—Street Works (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|24 April 2003|
+|||(Bill No. 9/2003 published on 25 April 2003)|
+||Date of Second and Third Readings|30 June 2003|
+||Date of commencement|1 August 2003|
