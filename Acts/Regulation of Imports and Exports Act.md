@@ -144,7 +144,7 @@ PRELIMINARY
 
 (d) any officer or class or description of officers appointed by the Minister by notification in theGazetteto exercise the powers and perform the duties conferred and imposed on an authorised officer by this Act;
 
-“Board” means the Trade Development Board established under section 3 of the Trade Development Board Act [Cap. 330];
+“Board” means the Trade Development Board established under section 3 of the Trade Development Board Act;
 
 “conveyance” includes any vessel, train, vehicle or aircraft in which persons or goods can be carried;
 
@@ -208,7 +208,12 @@ PRELIMINARY
 
 ## PART II
 
-REGULATION AND CONTROL OF IMPORTATION AND EXPORTATION, ETC.
+REGULATION AND CONTROL OF IMPORTATION
+
+
+
+
+AND EXPORTATION, ETC.
 
 ### Regulations for registration, regulation and control of importation and exportation, etc.
 
@@ -534,9 +539,11 @@ to provide the authorised officer or senior authorised officer, with such reason
 
 ### Powers of authorised officers to enter certain premises
 
-25\.—(1) For the purpose of exercising the powers conferred by sections 17 to 22, an authorised officer or a senior authorised officer, as the case may be, may, without warrant, enter upon any islet, landing place, wharf, dock, railway or quay or the premises of the Port of Singapore Authority or the Civil Aviation Authority of Singapore.
+25\.—(1) For the purpose of exercising the powers conferred by sections 17 to 22, an authorised officer or a senior authorised officer, as the case may be, may, without warrant, enter upon any islet, landing place, wharf, dock, railway or quay or the premises of a provider of port services or facilities licensed or exempted under the Maritime and Port Authority of Singapore Act (Cap. 107A) or the Civil Aviation Authority of Singapore.
 
-(2) In this section, “railway” has the same meaning as in the Railways Act [Cap. 263].
+[6/1997 wef 01/10/1997]
+
+(2) In this section, “railway” has the same meaning as in the Railways Act (Cap. 263).
 
 ### Powers of arrest and search
 
@@ -638,11 +645,11 @@ except where it is necessary for the purposes of —
 
 ### Abetment and attempts
 
-32\. Any person who abets, within the meaning of the Penal Code [Cap. 224], and any person who attempts to commit any offence, shall be guilty of an offence and shall be liable on conviction to the same punishment as that provided for the offence so abetted or attempted.
+32\. Any person who abets, within the meaning of the Penal Code (Cap. 224), and any person who attempts to commit any offence, shall be guilty of an offence and shall be liable on conviction to the same punishment as that provided for the offence so abetted or attempted.
 
 ### Jurisdiction of Courts
 
-33\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions for offences under this Act or any regulations made thereunder; and a District Court shall, notwithstanding anything to the contrary in the Criminal Procedure Code [Cap. 68], have jurisdiction to impose the full penalty or punishment under this Act or any regulations made thereunder.
+33\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions for offences under this Act or any regulations made thereunder; and a District Court shall, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), have jurisdiction to impose the full penalty or punishment under this Act or any regulations made thereunder.
 
 ### Power of Board to remit penalties and restore goods seized or forfeited
 
@@ -694,7 +701,7 @@ except where it is necessary for the purposes of —
 
 ### Officers to be deemed public servants
 
-41\. All authorised officers shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
+41\. All authorised officers shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
 ### Levy, fees and other charges
 
@@ -712,11 +719,11 @@ MISCELLANEOUS
 
 ### Transitional and savings provisions
 
-44\.—(1) Any scheme, certificate, document, licence or permit granted before 1st December 1995 under the repealed Control of Imports and Exports Act [Cap. 56, 1985 Ed.] or the repealed Registration of Imports and Exports Act [Cap. 270, 1985 Ed.] or any order, rules or regulations made thereunder shall, except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been granted or approved under the corresponding provisions of this Act or the regulations made thereunder.
+44\.—(1) Any scheme, certificate, document, licence or permit granted before 1st December 1995 under the repealed Control of Imports and Exports Act (Cap. 56, 1985 Ed.) or the repealed Registration of Imports and Exports Act (Cap. 270, 1985 Ed.) or any order, rules or regulations made thereunder shall, except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been granted or approved under the corresponding provisions of this Act or the regulations made thereunder.
 
 (2) Any subsidiary legislation made under the repealed Control of Imports and Exports Act or the repealed Registration of Imports and Exports Act and in force immediately before 1st December 1995 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or cancelled by subsidiary legislation made under this Act.
 
-(3) Any reference in any written law to the repealed Control of Imports and Exports Act [Cap. 56, 1985 Ed.] or the repealed Registration of Imports and Exports Act [Cap. 270, 1985 Ed.] shall be read as a reference to this Act.
+(3) Any reference in any written law to the repealed Control of Imports and Exports Act (Cap. 56, 1985 Ed.) or the repealed Registration of Imports and Exports Act (Cap. 270, 1985 Ed) shall be read as a reference to this Act.
 
 (4) Any proceedings or cause of action pending or existing immediately before 1st December 1995 by or against the Board or any person acting on behalf of the Board under the repealed Control of Imports and Exports Act or the repealed Registration of Imports and Exports Act may be continued and enforced by or against the Board as it might have been continued and enforced by or against the Board or such person as if this Act had not been enacted.
 
@@ -751,3 +758,9 @@ This Legislative History is provided for the convenience of users of the Regulat
 ||Date of commencement|2 February 1996|
 |3.|**1996 Revised Edition—Regulation of Imports and Exports Act**|
 ||Date of operation|30 April 1996|
+|4.|**Act 6 of 1997—Port of Singapore Authority (Dissolution) Act 1997**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 July 1997|
+|||(Bill No. 5/1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (Section 15(3))|
