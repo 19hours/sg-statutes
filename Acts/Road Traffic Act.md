@@ -1324,11 +1324,23 @@ LICENSING OF DRIVERS
 
 (6) Where the applicant is subject to any restriction with respect to the driving of any class of motor vehicle, the extent of the restriction shall be specified in the prescribed manner on the driving licence.
 
-(7) Subject to the provisions of this Act or the rules, a driving licence not being a provisional licence shall, unless previously revoked or surrendered, remain in force for a period of either one year or 3 years from the date of its grant or renewal as the applicant may elect at the time of the application for the grant or renewal of a licence and on payment of the fee prescribed for the period.
+(7) Subject to the provisions of this Act and the rules, unless earlier revoked or surrendered —
 
-[7/90; 11/96]
+(a) a driving licence or a renewal thereof granted to a person who is a citizen or permanent resident of Singapore shall remain in force for the lifetime of that person; and
 
-(8) The Deputy Commissioner of Police may refuse to renew any driving licence, or may renew it for a period of one year only notwithstanding that the applicant has elected to renew it for 3 years, if he is satisfied —
+(b) a driving licence or a renewal thereof granted to a person who is not a citizen or permanent resident of Singapore shall remain in force for a period not exceeding 5 years from the date of such grant.
+
+[21/2002 wef 16/12/2002]
+
+(7A) Subsection (7) shall not apply to a provisional licence referred to in section 36(3).
+
+[21/2002 wef 16/12/2002]
+
+(7B) In subsection (7), “permanent resident” means a person who is not subject to any restriction as to his period of residence in Singapore imposed under the Immigration Act (Cap. 133).
+
+[21/2002 wef 16/12/2002]
+
+(8) The Deputy Commissioner of Police may refuse to renew any driving licence, or may renew it for a period shorter than that provided for in subsection (7) (a) or (b), if he is satisfied —
 
 (a) that the holder of the driving licence has not complied with any process of court issued against him in respect of any offence committed by him under this Act or the rules or any written law specified in Part II of the First Schedule; or
 
@@ -1477,6 +1489,10 @@ LICENSING OF DRIVERS
 (7) The licence holder shall on receipt of such notice deliver the driving licence to the Deputy Commissioner of Police for cancellation.
 
 (8) The licence holder may, except in the case of such diseases and disabilities as may be prescribed, claim to be subjected to a test as to his fitness or disability to drive a motor vehicle and, if he passes the prescribed test, the driving licence shall not be revoked or, if it has already been revoked, shall be returned to the licence holder and the revocation thereof shall be rescinded.
+
+(9) Subject to the provisions of this Act and the rules, a driving licence or a renewal thereof referred to in section 35(7)(a) or (b) shall cease to be valid when the licence holder attains any of the prescribed ages, unless he has, before attaining such age, undergone the prescribed medical examination and is duly certified by a medical practitioner as being fit to drive a motor vehicle.
+
+[21/2002 wef 16/12/2002]
 
 ### Recognition of foreign driving licences and driving permits held by members of visiting forces
 
@@ -1973,6 +1989,10 @@ Provisions as to driving and offences in connection therewith
 (d) heavy motor cars.
 
 [7/90]
+
+(2) [Deleted by Act 21/2002 wef 01/09/2002]
+
+(3) [Deleted by Act 21/2002 wef 01/09/2002]
 
 ### Rate of speed
 
@@ -3968,3 +3988,9 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of Second and Third Readings|23 July 2002|
 ||Date of commencement|1 September 2002|
 |||(except sections 2, 3 and 9)|
+|45.|**Act 21 of 2002—Road Traffic (Amendment) Act 2002**|
+||Date of First Reading|8 July 2002|
+|||(Bill No. 24/2002 published on 9 July 2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|16 December 2002|
+|||(sections 2, 3 and 9)|
