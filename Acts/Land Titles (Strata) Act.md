@@ -28,9 +28,9 @@
 
 - [8 Notification of planning condition on land-register, etc.](#Notification-of-planning-condition-on-land-register-etc)
 
-- [9 Registration of strata title plan](#Registration-of-strata-title-plan)
+- [9 Registration of strata title application and strata title plan](#Registration-of-strata-title-application-and-strata-title-plan)
 
-- [10 Strata title plan and other accompanying documents](#Strata-title-plan-and-other-accompanying-documents)
+- [10 Subsidiary strata land-register](#Subsidiary-strata-land-register)
 
 - [11 Share value not to be changed](#Share-value-not-to-be-changed)
 
@@ -384,7 +384,7 @@ PRELIMINARY
 
 “common property” —
 
-(a) in relation to any subdivided building, means so much of the land for the time being not comprised in any lot shown in a strata title plan or in any parts of any building unit (partially erected or to be erected) intended to be included as lots in a strata title planto be lodged with the Registrar; and
+(a) in relation to any subdivided building, means so much of the land for the time being not comprised in any lot shown in a strata title plan or in any parts of any building unit (partially erected or to be erected) intended to be included as lots in a strata title plan; and
 
 [30/2003 wef 10/12/2003]
 
@@ -480,9 +480,11 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 (b) shows the whole or any part of the land comprised therein as being divided into 2 or more strata, whether or not any stratum is divided into 2 or more lots; and
 
-(c) contains the particulars prescribed by section 10,
+(c) contains the particulars prescribed under the Boundaries and Survey Maps Act (Cap. 25),
 
-and includes a plan of resubdivision of any lot in a strata title plan registered under this Act;
+[37/2004 wef 31/03/2005]
+
+and includes a strata title plan for redevelopment of any lot in a strata title plan registered under this Act;
 
 “strata units” means the units allotted to any building or buildings approved for development by the relevant authority and shown in a schedule of strata units to be filed with the Commissioner;
 
@@ -548,9 +550,13 @@ then for the purposes of this Act and any regulations made thereunder, where any
 
 (2) An assurance disposing of any part of a subdivided building may be lodged for registration under the provisions of this Act where —
 
-(a) a strata title plan duly certified in accordance with section 10 together with an application for the issue of subsidiary strata certificates of title has been lodged with the Registrar; and
+(a) a strata title application in the approved form for the issue of subsidiary strata certificates of title has been lodged with the Registrar;
 
-(b) the Registrar has registered the strata title plan and application lodged under paragraph (a) and has issued the subsidiary strata certificates of title applied for in the application.
+(b) a strata title plan has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25); and
+
+(c) the Registrar has registered the strata title application lodged under paragraph (a) and has issued the subsidiary strata certificates of title applied for.
+
+[37/2004 wef 31/03/2005]
 
 (3) This section shall not apply to any building or class of buildings specified by the Minister by notification in theGazette.
 
@@ -652,101 +658,55 @@ before the legal completion of the transfer for the lot, flat or land, as the ca
 
 (5) The registered proprietor may lodge an application with the Registrar in the approved form for the cancellation of any notification made by the Registrar in the land-register or subsidiary strata land-register under this section and the Registrar shall cancel the notification if he is satisfied that the condition referred to in subsection (1) has been fulfilled.
 
-### Registration of strata title plan
+### Registration of strata title application and strata title plan
 
-9\.—(1) The strata title plan shall be deemed to be registered under the provisions of this Act when the plan has been signed and sealed by the Registrar and has been marked with the serial number of the strata title plan register.
+9\.—(1) No strata title application for a parcel shall be registered under this section unless —
 
-(2) The Registrar shall prepare and maintain for the purposes of this Act a series of records to be called “the subsidiary strata land-register”, and shall issue for each lot shown on the strata title plan a subsidiary strata certificate of title.
+(a) it is in the approved form; and
 
-(3) Upon registration of a strata title plan, a subsidiary proprietor shall be deemed to be the proprietor of his lot and his share in the common property subject to the encumbrances, if any, registered or notified in the subsidiary strata land-register and on the strata title plan.
+(b) the strata title plan for that parcel has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25).
 
-(4) Subject to the provisions of this Act, any assurance or other dealing affecting a lot may be registered in the same manner and form and, upon registration, has the same effect as a similar assurance or dealing affecting part of registered land comprised in a subdivision plan approved by the competent authority, and registered under the provisions of the Land Titles Act (Cap. 157).
+(2) Every strata title application shall —
 
-### Strata title plan and other accompanying documents
+(a) show the share values in whole numbers of each lot (except an accessory lot) and a number equal to the aggregate share value entitlement of all the lots comprised in the parcel; and
 
-10\.—(1) Every strata title plan shall include an index plan and a storey plan.
+(b) contain such other particulars as may be prescribed or as the Registrar may specify.
 
-(2) Each index plan shall —
+(3) The strata title plan shall be deemed to be registered under the provisions of this Act on the date that the strata title application is registered by the Registrar under subsection (1) and the strata title plan has been assigned a strata title plan serial number as notified in the land-register.
 
-(a) delineate the external surface boundaries and boundary marks of the proposed parcel and the position of each subdivided building thereon fixed in relation to the surface boundaries;
+(4) For the purposes of subsection (2)(a), where planning permission for the erection of the buildings comprising the lots has been granted on or after 15th April 1976, the share values shown on the strata title application shall be those shown in the schedule of strata units filed with and accepted by the Commissionerunder section 7.
 
-(b) specify the Government survey lot number, Mukim or Town Subdivision of the parcel, the surveyed area thereof, and the certificate of title comprising the parcel;
+(5) No share value shall be allotted to an accessory lot.
 
-(c) include a vertical section of the subdivided building showing —
+(6) In this section, “lot” includes a provisional lot.
 
-(i) the floors and ceilings of each storey; and
+[37/2004 wef 31/03/2005]
 
-(ii) the height of each storey; and
+### Subsidiary strata land-register
 
-(d) include a legend, as well as the vertical section and dimensions, of each building or parts thereof proposed to be erected within the parcel as a separate tenement or an extension of any completed subdivided building, in accordance with building plans and subdivision plans, if any, approved by the relevant authority.
+10\.—(1) The Registrar shall —
 
-(3) Each storey plan shall —
+(a) prepare and maintain for the purposes of this Act a series of records to be called “the subsidiary strata land-register”; and
 
-(a) delineate, subject to subsections (5) and (6), one or more proposed lots and define the boundaries thereof by reference to floors and walls;
+(b) issue for each lot shown on the strata title application a subsidiary strata certificate of title.
 
-(b) show the number of every storey and every lot included in the plan;
+(2) Upon registration of a strata title application, a subsidiary proprietor shall be deemed to be the proprietor of his lot and his share in the common property subject to the encumbrances, if any, shall beregistered or notified in the subsidiary strata land-register.
 
-(c) show the approximate floor area of each lot including any accessory lot and the total floor area of a lot which comprises separate parts as well as the lot number and floor number;
+(3) Subject to the provisions of this Act, any assurance or other dealing affecting a lot may be registered in the same manner and form and, upon registration, shall have the same effect as a similar assurance or dealing registered under the provisions of the Land Titles Act (Cap. 157), and affecting part of registered land comprised in a subdivision plan submitted to the competent authority.
 
-(d) delineate the external boundaries of each building or parts thereof proposed to be erected within the parcel as a separate tenement or an extension of any completed subdivided building or buildings in accordance with building plans and subdivision plans, if any, approved by the relevant authority; and
-
-(e) be drawn to scale.
-
-[23/82]
-
-(4) Each strata title plan shall show a legend of —
-
-(a) all common property; and
-
-(b) all accessory lots and specify therein the lots they are made appurtenant to, irrespective of whether the accessory lots are contiguous to these specified lots.
-
-(5) Where an accessory lot consists of a building or parts thereof and is bounded by external walls, floors and ceilings, the boundaries of such accessory lot shall be shown in the strata title plan in accordance with the requirements of subsections (2) and (3).
-
-[23/82]
-
-(6) Where an accessory lot does not consist of a building or parts thereof —
-
-(a) the external boundaries of the accessory lot shall be ascertained from the building plans and the subdivision plans, if any, approved by the relevant authority, and the accessory lot shall be unlimited in its vertical dimensions except to the extent of any projection above, or encroachment below ground level by another part of the parcel; and
-
-(b) the strata title plan shall show a diagram of the accessory lot with similar dimensions as those shown on the approved plans mentioned in paragraph (a).
-
-(7) Each strata title plan shall —
-
-(a) show the share values in whole numbers of each lot including a provisional lot and a number equal to the aggregate share value entitlement of all the lots including provisional lots and, where planning permission for the erection of the buildings comprising the lots was granted on or after 15th April 1976, the share values shown shall be those filed with and accepted by the Commissioner; and
-
-(b) contain such other particulars as may be prescribed by rules made under this Act.
-
-[23/82; 16/87]
-
-(8) Unless otherwise stipulated in the strata title plan, the common boundary on any lot with another lot or with the common property shall be the centre of the floor, wall or ceiling, as the case may be.
-
-(9) No plan lodged as a strata title plan shall be registered unless —
-
-(a) the plan has been endorsed with —
-
-(i) a certificate of a surveyor who is registered under the Land Surveyors Act (Cap. 156) and has in force a practising certificate issued under that Act that all buildings and all lots shown in the strata title plan in relation to the external surface boundaries of the parcel are within the parcel and are in compliance with building plans and subdivision plans, if any, issued by the relevant authority; and
-
-(ii) the certificate of the Chief Surveyor or any other officer duly appointed to approve strata title plans on his behalf that such strata title plan has been approved by or on behalf of the Chief Surveyor and a copy thereof has been lodged with the Authority; and
-
-(b) [Deleted by Act 30/2003 wef 10/12/2003]
-
-(c) the share value of each proposed lot has been entered in the plan in compliance with section 30.
-
-[24/91]
-
-(10) No share value shall be allotted to an accessory lot.
-
-[23/82]
+[37/2004 wef 31/03/2005]
 
 ### Share value not to be changed
 
-11\.—(1) Except as provided in this section and in sections 25(3)(b) and 77 or where a transfer of a lot or part thereof is made under section 27(1)(b), the share value of any lot shown in a strata title plan registered under this Act shall not be altered in any manner on or after the date of registration of the strata title plan.
+11\.—(1) Except as otherwise expressly provided in this Act , the share value of any lot shown in the subsidiary strata land-register shall not be altered in any manner on or after the date of registration of the strata title application comprising that lot.
 
-[16/87]
+[37/2004 wef 31/03/2005]
 
-(2) The Registrar may correct any entry in a strata title plan in respect of the share value of a lot if he is satisfied that there is an error in the entry.
+[47/2004 wef 01/04/2005]
 
-(3) The court may order the share value of a lot shown in a strata title plan to be amended where the court is satisfied that the value was fraudulently assigned to the lot.
+(2) The Registrar may correct any entry in the subsidiary strata land-register in respect of the share value of a lot if he is satisfied that there is an error in the entry.
+
+(3) The court may order the share value of a lot shown in the subsidiary strata land-register to be amended where the court is satisfied that the value was fraudulently assigned to the lot.
 
 (4) Nothing in this section shall prohibit the alteration of the share value of a lot consequent upon the subdivision of that lot into 2 or more lots or the amalgamation of 2 or more lots.
 
@@ -754,41 +714,53 @@ before the legal completion of the transfer for the lot, flat or land, as the ca
 
 ### Plan of redevelopment
 
-12\.—(1) A subsidiary proprietor of a lot or of 2 or more lots who intends to subdivide his lot or amalgamate his lots may lodge a section 48(1)(r) for redevelopment for registration with the Registrar after he has obtained the approval of the relevant authority.
+12\.—(1) A subsidiary proprietor of a lot or of 2 or more lots who intends to subdivide his lot or amalgamate his lots may lodge a section 48(1)(r)strata title application for redevelopment for registration with the Registrar after he has obtained the approval of the relevant authority.
 
 [16/87]
 
-(2) Where the subdivision of a lot or the amalgamation of 2 or more lots results in the creation of any additional or new common property, the subsidiary proprietor shall obtain the approval of the management corporation before lodging the strata title plan for redevelopment with the Registrar.
+(2) Where the subdivision of a lot or the amalgamation of 2 or more lots results in the creation of any additional or new common property, the subsidiary proprietor shall obtain the approval of the management corporation before lodging the strata title application for redevelopment with the Registrar.
 
-(3) Section 7 shall apply, with the necessary modifications, to a lot intended for strata subdivision.
+(3) No strata title application for redevelopment shall be accepted by the Registrar unless an amended schedule of strata units showing the proposed share values to be allotted to the lot or lots affected by the redevelopment has been filed with and accepted by the Commissioner.
+
+[37/2004 wef 31/03/2005]
+
+(3A) In the proposed allotment of share values referred to in subsection (3) —
+
+(a) where a lot is subdivided, the aggregate share value of the proposed new lot or lots shall be equal to the share value of the former lot; and
+
+(b) where 2 or more lots are amalgamated, the share value of the proposed new lot or lots shall be equal to the aggregate share value of the former lots.
+
+[37/2004 wef 31/03/2005]
 
 (4) The Registrar shall not be concerned to inquire whether a subsidiary proprietor has obtained the approval of the relevant authority or the management corporation under subsection (1) or (2).
 
-(5) Every strata title plan of redevelopment shall —
+(5) No strata title application for redevelopment shall be registered unless —
 
-(a) define the boundaries of the new proposed or enlarged lot or lots;
+(a) it is in the approved form; and
 
-(b) specify each proposed new lot or enlarged lot by a new number;
+(b) the strata title plan for redevelopment has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25).
 
-(c) show the approximate floor area of each lot; and
+[37/2004 wef 31/03/2005]
 
-(d) show a legend of all proposed new or enlarged lots, specifying which of the new lots are accessory lots, and apportioning thereon among the proposed new lots the value entitlement of the former lot or lots.
+(5A) The strata title plan for redevelopment shall be deemed to be registered under the provisions of this Act on the date that the strata title application for redevelopment is registered by the Registrar.
+
+[37/2004 wef 31/03/2005]
+
+(6) On registration of the strata title application for redevelopment, parts of any lot which are capable of forming the common property as provided under this Act shall form part of the common property in relation to all the lots comprised within the same parcel as described in the strata title plan first registered with the Registrar without the need for a resolution made under section 25 directing the management corporation concerned to accept a transfer of such parts of a lot to form part of the common property.
 
 [23/82]
 
-(6) On registration of the strata title plan for redevelopment, parts of any lot which are capable of forming the common property as provided under this Act shall form part of the common property in relation to all the lots comprised within the same parcel as described in the strata title plan first registered with the Registrar without the need for a resolution made under section 25 directing the management corporation concerned to accept a transfer of such parts of a lot to form part of the common property.
+(7) On registration of the strata title application for redevelopment, the Registrar shall make the appropriate amendment and entry on the relevant folios of the land-register and subsidiary strata land-register comprising the lot or lots shown in the strata title plan for redevelopment.
 
-[23/82]
+[37/2004 wef 31/03/2005]
 
-(7) On registration of the strata title plan for redevelopment, the Registrar shall make the appropriate amendment and entry on the relevant registered strata title plan and on the volume and folio of the subsidiary strata land-register comprising the lot or lots shown in the strata title plan for redevelopment in regard to the share value and lot numbers of the lot or lots affected.
+(8) All other provisions of this Act relating to a strata title plan, a strata title application and a lot, so far as they are not inconsistent with the provisions of this section, shall apply to a strata title plan for redevelopment, a strata title application for redevelopment and any lot shown therein, respectively.
 
-(8) Subject to subsections (1) and (5), section 10 other than subsections (1) and (2) of that section, as well as other provisions of this Act relating to a strata title plan and a lot shall apply to the strata title plan for redevelopment when registered and to any lot shown therein.
-
-[16/87]
+[37/2004 wef 31/03/2005]
 
 ### Common property
 
-13\.—(1) On registration of the strata title plan the Registrar shall enter a memorial in the land-register on the volume and folio of the parcel to the effect that a subsidiary strata land-register has been created, and thereupon the common property shall be held by the subsidiary proprietors as tenants-in-common proportional to their respective share value and for the same term and tenure as their respective lots are held by them.
+13\.—(1) On registration of the strata title application the Registrar shall enter a memorial in the land-register on the volume and folio of the parcel to the effect that a subsidiary strata land-register has been created, and thereupon the common property shall be held by the subsidiary proprietors as tenants-in-common proportional to their respective share value and for the same term and tenure as their respective lots are held by them.
 
 [16/87]
 
@@ -796,9 +768,13 @@ before the legal completion of the transfer for the lot, flat or land, as the ca
 
 (3) No share in the common property shall be disposed of except as appurtenant to the lot of the subsidiary proprietor and any assurance of a lot operates to assure the share in the common property appurtenant to that lot without any express mention in the assurance.
 
-(4) The duplicate certificate of title comprising the parcel shall be deposited with the Registrar after the issue of the relevant subsidiary strata certificates of title.
+(4) The certificate of title comprising the parcel shall be retained by the Registrar after the issue of the relevant subsidiary strata certificates of title.
 
-[16/87]
+[37/2004 wef 31/03/2005]
+
+(5) Where the subsidiary strata certificates of title were issued before 15th April 1976, the duplicate certificate of title comprising the parcel may be deposited with the Registrar.
+
+[37/2004 wef 31/03/2005]
 
 ### Powers of mortgagees of flats brought under this Act
 
@@ -900,7 +876,9 @@ RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
 
 (3) Every instrument creating the easement or restrictive covenant lodged for registration shall be endorsed with or accompanied by a certificate in the prescribed form under the seal of the management corporation that the resolution was duly passed and that all necessary consents were given, and the certificate in favour of a purchaser and the Registrar shall be conclusive evidence of the facts stated therein.
 
-(4) The Registrar shall register the instrument creating the easement or restrictive covenant by noting it on the registered strata title plan.
+(4) The Registrar shall register the instrument creating the easement or restrictive covenant by making the appropriate notification on the relevant folio of the land-register.
+
+[37/2004 wef 31/03/2005]
 
 ### Dispositions of common property
 
@@ -926,7 +904,7 @@ RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
 
 (a) enter a memorial of the transfer on the folio of the land-register comprising the parcel;
 
-(b) amend the registered strata title plan in such manner as the Registrar may think fit so as to show thereon the part of the common property which has been transferred; and
+(b) amend the relevant folios of the land-register and subsidiary strata land-register in such manner as the Registrar may think fit so as to show thereon the part of the common property which has been transferred; and
 
 (c) issue to the transferee a certificate of title for the land transferred.
 
@@ -940,7 +918,7 @@ RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
 
 (2A) Upon registration under subsection (2) the estate or interest in the part of the common property comprised in the instrument of vesting shall vest in the Government freed and discharged from all encumbrances and from any subsisting easements.
 
-(3) On registration of the instrument of vesting, the Registrar shall cancel the registration of any mortgage, charge or lease thereby overreached and make the appropriate entries in the registered strata title plan comprising the common property.
+(3) On registration of the instrument of vesting, the Registrar shall cancel the registration of any mortgage, charge or lease thereby overreached and make the appropriate notification on the relevant folio of the land-register comprising the common property.
 
 (4) The land thereby vested in the Government shall cease to be subject to the provisions of the Land Titles Act (Cap. 157) and the Registrar shall enter an appropriate notification to that effect on the relevant folio of the land-register, and create a new folio for the balance of the common property which remains vested in the subsidiary proprietors.
 
@@ -954,15 +932,15 @@ RIGHTS AND OBLIGATIONS OF A SUBSIDIARY PROPRIETOR
 
 (2) The transfer lodged for registration shall contain a request to the Registrar that such land or part thereof, or the lot transferred, as the case may be, be included as part of the common property.
 
-(3) Upon registration of such transfer the Registrar shall —
+(3) Upon registration of the transfer, the Registrar shall —
 
-(a) enter a memorial of the transfer on the folio of the land-register and the registered strata title plan comprising the parcel;
+(a) enter a memorial of the transfer on the folio of the land-register comprising the common property;
 
-(b) amend the registered strata title plan in such manner as the Registrar may think fit so as to show thereon the transferred land or part thereof or the lot transferred as forming part of the common property;
+(b) amend the relevant folios of the land-register and subsidiary strata land-register in such manner as the Registrar may think fit so as to show thereon the transferred land or part thereof or the lot transferred as forming part of the common property; and
 
-(c) in the case where the lot is transferred, delete the share value of that lot shown on the registered strata title plan and decrease the total number of share value equal to the aggregate share entitlement by amending such aggregate number shown on the registered strata title plan; and
+(c) where a lot is transferred, amend the relevant folios of the subsidiary strata land-register to decrease the aggregate share value by a number equivalent to the share value of that lot.
 
-(d) upon such amendment being made the Registrar shall notify the Commissioner of the aggregate share entitlement and the consequent share entitlement of each subsidiary proprietor.
+[37/2004 wef 31/03/2005]
 
 (4) Upon registration of the transfer by the Registrar —
 
@@ -1052,9 +1030,15 @@ may make an order directing the management corporation or management corporation
 
 ### Share values
 
-30\.—(1) Each lot including a provisional lot (except an accessory lot where no share value shall be allotted) shown in every plan lodged for registration as a strata title plan shall have its share value determined as shown in the strata title plan.
+30\.—(1) Each lot including a provisional lot (except an accessory lot) shown in a strata title plan shall have its share value determined as shown in the strata title application registered under section 9.
 
-[16/87]
+[37/2004 wef 31/03/2005]
+
+(1A) In the case of a strata title plan comprising land and buildings in respect of which planning permission has been granted on or after 15th April 1976, each lot shown in that plan shall have the share value as shown in the schedule of strata units filed with and accepted by the Commissioner under section 7.
+
+[37/2004 wef 31/03/2005]
+
+[47/2004 wef 01/04/2005]
 
 (2) The share value of a lot shall determine —
 
@@ -1492,7 +1476,7 @@ and the defect is not due to any breach of the duty imposed on any person by sec
 
 [16/87]
 
-(2) Where a management corporation has, under subsection (1), decided that the address for the service of notices on it shall be changed, the management corporation shall forthwith notify the Registrar and the Commissioner of the changeand the Registrar shall amend the registered strata title plan accordingly.
+(2) Where a management corporation has, under subsection (1), decided that the address for the service of notices on it shall be changed, the management corporation shall forthwith notify the Registrar and the Commissioner of the change.
 
 [16/87]
 
@@ -2432,7 +2416,7 @@ may make an application to the court for an order under subsection (4).
 
 [16/87]
 
-(2) Where, pursuant to the receipt of strata title plan of an order made under section 78, the Registrar has made entries in accordance with subsection (1), the Registrar shall, as soon as practicable after making the entries, cancel each folio of the subsidiary strata land-register which evidences title to a lot the subject of the strata title plan.
+(2) Where, pursuant to the receipt of of an order made under section 78, the Registrar has made entries in accordance with subsection (1), the Registrar shall, as soon as practicable after making the entries, cancel each folio of the subsidiary strata land-register which evidences title to a lot the subject of the strata title plan.
 
 [16/87]
 
@@ -2450,7 +2434,7 @@ may make an application to the court for an order under subsection (4).
 
 (3) If a management corporation fails to comply with subsection (2), the management corporation and every officer of the management corporation who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-(4) On receipt of a resolution referred to in subsection (1), the Registrar shall enter a notification of the cancellation of the strata subdivision of the building and a memorial of the vesting of the parcel in the subsidiary proprietors as tenants-in-common in theregistered strata title plan and in the volume and folioof the land-register comprising the parcel.
+(4) On receipt of a resolution referred to in subsection (1), the Registrar shall enter a notification of the cancellation of the strata subdivision of the building and a memorial of the vesting of the parcel in the subsidiary proprietors as tenants-in-common in the relevant folio of the land-register comprising the parcel.
 
 (5) Upon the entry of that memorial —
 
@@ -3394,9 +3378,11 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 [16/87]
 
-(2) Where a strata title plan and an application for the issue of subsidiary strata certificates of title are lodged by the Housing and Development Board with and duly registered by the Registrar, the provisions of this Act relating to a strata title plan and a subsidiary proprietor and Parts IV to VII shall apply to each and every subdivided building comprised in the registered strata title plan.
+(2) Where a strata title application for a parcel is lodged by the Housing and Development Board with and duly registered by the Registrar, the provisions of this Act relating to a strata title plan and a subsidiary proprietor and Parts IV to VII shall apply to each and every subdivided building comprised in the registered strata title plan for that parcel.
 
-[16/87]
+[37/2004 wef 31/03/2005]
+
+[47/2004 wef 01/04/2005]
 
 ### Flats sold by Jurong Town Corporation
 
@@ -3404,13 +3390,15 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 [16/87]
 
-(2) Where a strata title plan and an application for the issue of subsidiary strata certificates of title are lodged by the Jurong Town Corporation with and duly registered by the Registrar, the provisions of this Act relating to a registered strata title plan and a subsidiary proprietor and Parts IV to VII shall apply to each and every subdivided building comprised in the registered strata title plan.
+(2) Where a strata title application for a parcel is lodged by the Jurong Town Corporation with and duly registered by the Registrar, the provisions of this Act relating to a strata title plan and a subsidiary proprietor and Parts IV to VII shall apply to each and every subdivided building comprised in the registered strata title plan for that parcel.
 
-[16/87]
+[37/2004 wef 31/03/2005]
+
+[47/2004 wef 01/04/2005]
 
 ### Subsidiary strata certificates of title for flats with registered leases under Registration of Deeds Act
 
-125\.—(1) Where there are 3 or more flats in a building and subsisting leases for those flats have been registered under the Registration of Deeds Act (Cap. 269), the proprietor of the land together with the proprietors of those flats who altogether own not less than 25% of the total number of flats in the building may lodge with the Registrar an application —
+125\.—(1) Where there are 3 or more flats in a building and subsisting leases for those flats have been registered under the Registration of Deeds Act (Cap. 269), the proprietor of the land together with the proprietors of those flats who altogether own not less than 25% of the total number of flats in the building may lodge with the Registrar a strata title application in the approved form —
 
 (a) to have the land brought under the Land Titles Act (Cap. 157); and
 
@@ -3418,11 +3406,13 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 [16/87]
 
-(2) An application submitted to the Registrar under subsection (1) shall be accompanied by —
+(2) A strata title application submitted to the Registrar under subsection (1) —
 
-(a) a transfer of the proprietor’s estate and interest in the land to the proprietors of all the flats in that building as tenants-in-common in the shares according to the ratio of one share to each flat except where the flats are of different sizes, the share in the land allotted to the proprietor of each flat shall have the value determined by the Registrar; and
+(a) shall be accompanied by a transfer of the proprietor’s estate and interest in the land to the proprietors of all the flats in that building as tenants-in-common in the shares according to the ratio of one share to each flat, except that where the flats are of different sizes, the share in the land allotted to the proprietor of each flat shall have the value determined by the Registrar based on the methods used by the Commissioner for the allocation of share values ; and
 
-(b) a strata title plan (as approved by the Chief Surveyor) prepared for the purpose of the issue of subsidiary strata certificates of title for those flats.
+(b) shall not be registered unless the strata title plan has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25).
+
+[37/2004 wef 31/03/2005]
 
 (3) The Registrar may, upon acceptance of the application, dispense with the production of the leases of the flats.
 
@@ -3468,7 +3458,7 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 [21/99]
 
-(2) The proprietors of the flats referred to in subsection (1) shall serve a notice on the proprietor of the land and the subsisting mortgagees, chargees or other persons with an estate or interest in land who appear as such in the records of the Land Titles Registry or the Registry of Deeds, as the case may be, at least one month before the date of the application for registration of the strata title plan is filed with the Registrar, informing them of the transfer under subsection (1).
+(2) The proprietors of the flats referred to in subsection (1) shall serve a notice on the proprietor of the land and the subsisting mortgagees, chargees or other persons with an estate or interest in land who appear as such in the records of the Land Titles Registry or the Registry of Deeds, as the case may be, at least one month before the date of the strata title application is filed with the Registrar, informing them of the transfer under subsection (1).
 
 [21/99]
 
@@ -3476,21 +3466,31 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 [21/99]
 
-(4) Upon registration of the strata title plan for the development and the issue of subsidiary strata certificates of title for the flats in the development, the estate and interest of the registered proprietor in the land shall vest in the subsidiary proprietors.
+(4) Upon registration of the strata title application for the development and the issue of subsidiary strata certificates of title for the flats in the development, the estate and interest of the registered proprietor in the land shall vest in the subsidiary proprietors.
 
 [21/99]
 
 ### Issue of subsidiary strata certificates of title for flats with subsisting leases registered under Land Titles Act
 
-126\.—(1) Where there are subsisting leases of flats registered under the Land Titles Act (Cap. 157), the registered proprietors of the flats who altogether own not less than 25% of the total number of flats comprised in the building erected on the same parcel of land together with the registered proprietor of the land on which the said flats are erected may lodge with the Registrar a transfer of the estate and interest of the registered proprietor of the land to all the registered proprietors of the flats as tenants-in-common in the shares according to the ratio of one share to each flat together with an application for the issue of subsidiary strata certificates of title for the flats.
+126\.—(1) Where there are subsisting leases of flats registered under the Land Titles Act (Cap. 157), the registered proprietors of the flats who altogether own not less than 25% of the total number of flats comprised in the building erected on the same parcel of land together with the registered proprietor of the land on which the said flats are erected may lodge with the Registrar a transfer of the estate and interest of the registered proprietor of the land to all the registered proprietors of the flats as tenants-in-common in the shares according to the ratio of one share to each flat together with a strata title application in the approved form.
 
 [16/87]
 
-(2) Where the flats in the building are of different sizes, the shares in the land to be allotted to the registered proprietor of each flat shall have the values determined by the Registrar .
+(2) Where the flats in the building are of different sizes, the shares in the land to be allotted to the registered proprietor of each flat shall have the values determined by the Registrar based on the methods used by the Commissioner for the allocation of share values .
 
-(3) An application submitted under subsection (1) shall be accompanied by a strata title plan (as approved by the Chief Surveyor) prepared for the purpose of the issue of subsidiary strata certificates of title for the flats.
+(3) A strata title application submitted under subsection (1) shall not be registered unless the strata title plan has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25).
 
-(4) The Registrar may, upon acceptance of the instruments and strata title plan and being satisfied that the instruments and strata title plan are in order, register all the registered proprietors of the flats as the proprietors of the registered land as tenants-in-common and issue the subsidiary strata certificates of title according to the strata title application and the strata title plan lodged and dispense with the production of the duplicate leases of the flats.
+[37/2004 wef 31/03/2005]
+
+(4) The Registrar may, upon being satisfied that the transfer and the strata title application are in order —
+
+(a) register all the registered proprietors of the flats as the proprietors of the registered land as tenants-in-common;
+
+(b) issue the subsidiary strata certificates of title according to the strata title application; and
+
+(c) dispense with the production of the duplicate leases of the flats.
+
+[37/2004 wef 31/03/2005]
 
 (5) Where the registered proprietors of the flats who altogether own not less than 25% of the total number of flats comprised in the building erected on the parcel of land have agreed in writing to accept the transfer of all the estate and interest of the registered proprietor in the land, all the remaining registered proprietors of the flats in the same building shall be deemed to have accepted the transfer and deemed to have applied for the issue of subsidiary strata certificates of title for the flats.
 
@@ -3604,11 +3604,13 @@ ISSUE OF SUBSIDIARY CERTIFICATES OF TITLE FOR FLATS UNDER OTHER SCHEMES AND ISSU
 
 ### Issue of subsidiary strata certificates of title for flats with subsisting leases registered under Registration of Deeds Act where land is vested in flat-owners as tenants-in-common
 
-127\.—(1) Where there are subsisting leases of flats registered under the provisions of the Registration of Deeds Act (Cap. 269) and the registered estate or interest in the land on which the flats are erected is vested, subject to the provisions of the Land Titles Act (Cap. 157), in the lessees of the flats as tenants-in-common in the shares shown in the land-register, the registered lessees of those flats who altogether own not less than 25% of the total number of those flats may lodge with the Registrar an application for the issue of subsidiary strata certificates of title for all those flats.
+127\.—(1) Where there are subsisting leases of flats registered under the provisions of the Registration of Deeds Act (Cap. 269) and the registered estate or interest in the land on which the flats are erected is vested, subject to the provisions of the Land Titles Act (Cap. 157), in the lessees of the flats as tenants-in-common in the shares shown in the land-register, the registered lessees of those flats who altogether own not less than 25% of the total number of those flats may lodge with the Registrar a strata title application in the approved form.
 
 [16/87]
 
-(2) An application submitted to the Registrar under subsection (1) shall be accompanied by a strata title plan (as approved by the Chief Surveyor) prepared for the purpose of the issue of subsidiary strata certificates of title for those flats.
+(2) A strata title application submitted under subsection (1) shall not be registered unless the strata title plan has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act (Cap. 25).
+
+[37/2004 wef 31/03/2005]
 
 (3) The Registrar may, upon acceptance of the application, dispense with the production of the leases of the flats.
 
@@ -4293,6 +4295,12 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 5/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|16 February 2005|
+|20.|**Act 37 of 2004—Land Surveyors (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|1 September 2004|
+|||(Bill No. 36/2004 published on 2 September 2004)|
+||Date of Second and Third Readings|21 September 2004|
+||Date of commencement|31 March 2005|
 ## COMPARATIVE TABLE
 
 Land Titles (Strata) Act
