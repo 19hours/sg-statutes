@@ -1122,10 +1122,6 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (c) the Director of Legal Aid and Assistant Directors of Legal Aid to appear and plead in those courts under the provisions of the Legal Aid and Advice Act [Cap. 160].
 
-(3) The Attorney-General and the Solicitor-General appearing personally shall have such priority as is customarily accorded to the holders of those offices in England.
-
-[15/89]
-
 ### Appointment of Senior Counsel
 
 30\.—(1) A Selection Committee comprising the Chief Justice, the Attorney-General and the Judges of Appeal may appoint an advocate and solicitor or a legal officer as Senior Counsel if the Selecton Committee is of the opinion that, by virtue of the person’s ability, standing at the Bar or special knowledge or experience in law, he is deserving of such distinction.
@@ -2078,12 +2074,6 @@ DISCIPLINARY PROCEEDINGS
 
 (2) The provisions of any written law which imposes on officers of the Supreme Court any restrictions as to practice as advocates or solicitors shall not apply to any advocate and solicitor by virtue only of subsection (1).
 
-(3) Nothing in this Part shall affect the jurisdiction referred to in subsection (4) which is exercisable by the Supreme Court or any judge thereof over any advocate or solicitor practising before it.
-
-(4) The Supreme Court or any judge thereof may exercise the same jurisdiction in respect of advocates and solicitors as can be exercised by a superior court in England over barristers or solicitors practising before any such court.
-
-[Act 41/93]
-
 ### Disciplinary proceedings against legal officers and non-practising solicitors
 
 82A\.—(1) This Part, with the exception of this section and sections 82, 90, 91, 98 to 102, 104, 105 and 106, shall not apply to any legal officer or any advocate and solicitor who does not at the time of the misconduct have in force a practising certificate (referred to in this section as a non-practising solicitor).
@@ -2872,8 +2862,6 @@ RECOVERY AND TAXATION OF COSTS
 
 (2) Upon such petition being filed, the Registrar shall mark the order thereon forthwith, and draw up the order if necessary.
 
-(3) Subject to this section, the court shall have the like jurisdiction as the High Court in England to make an order under subsection (1).
-
 ### Solicitor to deliver copy of bill of costs
 
 125\. When application is made by a party other than the party chargeable, the court may order the solicitor to deliver to the party making the application a copy of the bill of costs, upon payment of the costs of making the copy.
@@ -3365,3 +3353,8 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 31/96 published on 1 October 1996)|
 ||Date of Second and Third Readings|10 October 1996|
 ||Date of commencement|1 January 1997 (except section 9)|
+|25.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
