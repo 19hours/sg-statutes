@@ -1,20 +1,18 @@
-**Merchant Shipping Act 1995**
+**Merchant Shipping Act**
 
-**(No. 19 of 1995)**
+**(CHAPTER 179)**
 
 **Table of Contents**
 
 [**Long Title**](#Merchant-Shipping-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Exemption of naval ships, etc](#Exemption-of-naval-ships-etc)
+- [3 Exemption of naval ships, etc.](#Exemption-of-naval-ships-etc)
 
 - [4 Appointment of Director of Marine](#Appointment-of-Director-of-Marine)
 
@@ -52,7 +50,7 @@
 
 - [20 Transfer to person not qualified to own Singapore ship](#Transfer-to-person-not-qualified-to-own-Singapore-ship)
 
-- [21 Transmission of property in ship on marriage, bankruptcy, death, etc](#Transmission-of-property-in-ship-on-marriage-bankruptcy-death-etc)
+- [21 Transmission of property in ship on marriage, bankruptcy, death, etc.](#Transmission-of-property-in-ship-on-marriage-bankruptcy-death-etc)
 
 - [22 Order for sale on transmission to unqualified person](#Order-for-sale-on-transmission-to-unqualified-person)
 
@@ -100,7 +98,7 @@
 
 - [44 Rules as to name of ship](#Rules-as-to-name-of-ship)
 
-- [45 Regulations on evidence of seaworthiness, etc](#Regulations-on-evidence-of-seaworthiness-etc)
+- [45 Regulations on evidence of seaworthiness, etc.](#Regulations-on-evidence-of-seaworthiness-etc)
 
 [**Part III MANNING AND CERTIFICATION**](#Part-III)
 
@@ -150,7 +148,7 @@
 
 - [67 Protection of certain rights and remedies](#Protection-of-certain-rights-and-remedies)
 
-- [68 Remedies of master for remuneration, disbursements, etc](#Remedies-of-master-for-remuneration-disbursements-etc)
+- [68 Remedies of master for remuneration, disbursements, etc.](#Remedies-of-master-for-remuneration-disbursements-etc)
 
 - [69 Powers of court in case of unreasonable delay in paying seaman’s wages](#Powers-of-court-in-case-of-unreasonable-delay-in-paying-seaman’s-wages)
 
@@ -168,7 +166,7 @@
 
 - [76 Drunkenness, etc., on board ship](#Drunkenness-etc-on-board-ship)
 
-- [77 Continued or concerted disobedience, neglect of duty, etc](#Continued-or-concerted-disobedience-neglect-of-duty-etc)
+- [77 Continued or concerted disobedience, neglect of duty, etc.](#Continued-or-concerted-disobedience-neglect-of-duty-etc)
 
 - [78 Offences committed by certain other persons](#Offences-committed-by-certain-other-persons)
 
@@ -196,7 +194,7 @@
 
 - [90 Discharge books](#Discharge-books)
 
-- [91 Returns of births and deaths in ships, etc](#Returns-of-births-and-deaths-in-ships-etc)
+- [91 Returns of births and deaths in ships, etc.](#Returns-of-births-and-deaths-in-ships-etc)
 
 - [92 Handing over of documents on change of master](#Handing-over-of-documents-on-change-of-master)
 
@@ -224,7 +222,7 @@
 
 - [103 Observance of collision regulations](#Observance-of-collision-regulations)
 
-- [104 Defect or deficiency in ship, etc](#Defect-or-deficiency-in-ship-etc)
+- [104 Defect or deficiency in ship, etc.](#Defect-or-deficiency-in-ship-etc)
 
 - [105 Cancellation of certificate or exemption certificate](#Cancellation-of-certificate-or-exemption-certificate)
 
@@ -232,7 +230,7 @@
 
 - [107 Report of accidents, etc., to Director](#Report-of-accidents-etc-to-Director)
 
-- [108 Appointment of inspector to report on accident, etc](#Appointment-of-inspector-to-report-on-accident-etc)
+- [108 Appointment of inspector to report on accident, etc.](#Appointment-of-inspector-to-report-on-accident-etc)
 
 - [109 Notification of loss of ship](#Notification-of-loss-of-ship)
 
@@ -296,7 +294,7 @@
 
 - [136 Limitation of shipowner’s liability in certain cases of loss of life, injury or damage](#Limitation-of-shipowner’s-liability-in-certain-cases-of-loss-of-life-injury-or-damage)
 
-- [137 Power of High Court to consolidate claims against owners, etc](#Power-of-High-Court-to-consolidate-claims-against-owners-etc)
+- [137 Power of High Court to consolidate claims against owners, etc.](#Power-of-High-Court-to-consolidate-claims-against-owners-etc)
 
 - [138 Part owners to account in respect of damages](#Part-owners-to-account-in-respect-of-damages)
 
@@ -318,7 +316,7 @@
 
 - [146 Receiver of wrecks](#Receiver-of-wrecks)
 
-- [147 Duty of receiver where ship in distress](#Duty-of-receiver-where-ship-in-distress)
+- [147 Duty of receiver in respect of ship in distress](#Duty-of-receiver-in-respect-of-ship-in-distress)
 
 - [148 Powers of receiver in case of ships in distress](#Powers-of-receiver-in-case-of-ships-in-distress)
 
@@ -348,7 +346,7 @@
 
 - [161 Removal of wreck by receiver](#Removal-of-wreck-by-receiver)
 
-- [162 Powers of removal extend to tackle, cargo, etc](#Powers-of-removal-extend-to-tackle-cargo-etc)
+- [162 Powers of removal extend to tackle, cargo, etc.](#Powers-of-removal-extend-to-tackle-cargo-etc)
 
 - [163 Taking wreck to foreign port](#Taking-wreck-to-foreign-port)
 
@@ -414,11 +412,11 @@
 
 - [193 Forgery, etc., of documents and fraudulent use](#Forgery-etc-of-documents-and-fraudulent-use)
 
-- [194 False declaration, etc](#False-declaration-etc)
+- [194 False declaration, etc.](#False-declaration-etc)
 
-- [195 Interfering with person in carrying out duty, etc](#Interfering-with-person-in-carrying-out-duty-etc)
+- [195 Interfering with person in carrying out duty, etc.](#Interfering-with-person-in-carrying-out-duty-etc)
 
-- [196 Misleading officer, refusal to answer questions, produce documents, etc](#Misleading-officer-refusal-to-answer-questions-produce-documents-etc)
+- [196 Misleading officer, refusal to answer questions, produce documents, etc.](#Misleading-officer-refusal-to-answer-questions-produce-documents-etc)
 
 - [197 Offences relating to markings of ship](#Offences-relating-to-markings-of-ship)
 
@@ -434,11 +432,11 @@
 
 - [203 Security for costs of detention of unsafe ships](#Security-for-costs-of-detention-of-unsafe-ships)
 
-- [204 Immunity of Government, Authority and their employees, etc](#Immunity-of-Government-Authority-and-their-employees-etc)
+- [204 Immunity of Government, Authority and their employees, etc.](#Immunity-of-Government-Authority-and-their-employees-etc)
 
 [**Part XI MISCELLANEOUS**](#Part-XI)
 
-- [205 Powers of Director, etc](#Powers-of-Director-etc)
+- [205 Powers of Director, etc.](#Powers-of-Director-etc)
 
 - [206 Powers of inspector](#Powers-of-inspector)
 
@@ -454,7 +452,7 @@
 
 - [212 Copy of Act and regulations to be kept on Singapore ships](#Copy-of-Act-and-regulations-to-be-kept-on-Singapore-ships)
 
-- [213 Powers of Minister to prescribe fees, recovery of fees and application of moneys](#Powers-of-Minister-to-prescribe-fees-recovery-of-fees-and-application-of-moneys)
+- [213 Powers of Authority to prescribe fees, recovery of fees and application of moneys](#Powers-of-Authority-to-prescribe-fees-recovery-of-fees-and-application-of-moneys)
 
 - [214 Documents to be in approved form](#Documents-to-be-in-approved-form)
 
@@ -462,49 +460,31 @@
 
 - [216 Regulations](#Regulations)
 
-- [217 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [217 Transitional provisions](#Transitional-provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Merchant Shipping Act
 
-ACTS SUPPLEMENT
+(CHAPTER 179)
 
-Published by Authority
+(Original Enactment: Act 19 of 1995)
 
-NO. 20]
+REVISED EDITION 1996
 
-Friday, July 14
+(30th April 1996)
 
-[1995
+An Act relating to merchant shipping.
 
-The following Act was passed by Parliament on 25th May 1995 and assented to by the President on 30th June 1995:—
-
-Merchant Shipping Act 1995
-
-(No. 19 of 1995)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-30th June 1995.
-
-Date of Commencement: 2nd February 1996
-
-An Act to revise the law relating to merchant shipping and to repeal and re-enact with amendments the Merchant Shipping Act (Chapter 179 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[2nd February 1996]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Merchant Shipping Act 1995 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Merchant Shipping Act.
 
 ### Interpretation
 
@@ -512,11 +492,7 @@ PRELIMINARY
 
 “alteration” includes deterioration;
 
-“appointed day” means the date of commencement of this Act;
-
-“Authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act 1996;
-
-[7/1996 wef 02/02/1996]
+“Authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act 1996 [Act 7 of 1996];
 
 “beneficial interest” includes interests arising under contract and other equitable interests;
 
@@ -540,15 +516,13 @@ PRELIMINARY
 
 “crew agreement” means an agreement made pursuant to section 53;
 
-“Director” means the Director of Marine appointed under section 4 and includes the Deputy Director of Marine appointed under that section;
+“Director” means the Director of Marine appointed under section 4 and includes the Deputy Director of Marine;
 
 “effects” includes clothes and documents;
 
 “equipment”, in relation to a ship, includes every fitting, thing or article belonging to, on or in the ship used or to be used in connection with, or necessary for the navigation or safety of, the ship or persons on board or the prevention of pollution, whether or not the fitting, thing or article is prescribed by this Act and, in particular, includes machinery, boilers, cargo handling gear and any fitting, thing or article prescribed by this Act;
 
-“harbour craft” means any ship that is used solely within the limits of the port that may be declared under the Maritime and Port Authority of Singapore Act 1996;
-
-[7/1996 wef 02/02/1996]
+“harbour craft” means any ship that is used solely within the limits of the port that may be declared under the Maritime and Port Authority of Singapore Act 1996 [Act 7 of 1996];
 
 “load line” means a line indicating the maximum depth to which a ship, other than a passenger ship, may be loaded in circumstances prescribed by regulations made under section 100 and determined in accordance with those regulations;
 
@@ -576,9 +550,7 @@ PRELIMINARY
 
 “Port Health Officer” means any person appointed as a Port Health Officer under the Infectious Diseases Act [Cap. 137];
 
-“Port Master” means the Port Master appointed under the Maritime and Port Authority of Singapore Act 1996 and includes any Deputy Port Master appointed under that Act;
-
-[7/1996 wef 02/02/1996]
+“Port Master” means the Port Master appointed under the Maritime and Port Authority of Singapore Act 1996 [Act 7 of 1996] and includes any Deputy Port Master;
 
 “port of return” means such port as is agreed upon by the master or seaman and his employer in the crew agreement or otherwise, or, in the absence of agreement —
 
@@ -636,7 +608,7 @@ PRELIMINARY
 
 (c) a ship shall be deemed to have gone to sea if it has got under way for any purpose except for the purpose of moving the ship from one berth or place in a port to another berth or place in the port.
 
-### Exemption of naval ships, etc
+### Exemption of naval ships, etc.
 
 3\. This Act, with the exception of Part VIII or where the contrary intention appears, shall not apply to or in relation to any ship belonging to the naval, military or air forces of Singapore or any other country.
 
@@ -644,15 +616,15 @@ PRELIMINARY
 
 4\.—(1) The Authority may appoint a Director of Marine and a Deputy Director of Marine.
 
-[7/1996 wef 02/02/1996]
-
 (2) If the Director is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any reason temporarily unable to perform his duties, a person may be appointed by the Authority to act in the place of the Director during any such period of absence from duty.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 (3) The Director may appoint such number of officers as he thinks fit for the purpose of carrying out all or any of the functions conferred on the Director by this Act.
 
 (4) The Director may delegate to any officer appointed under this section all or any of the powers conferred on the Director by this Act, except the powers conferred by section 113.
+
+[7/96]
 
 ### Appointment of surveyors
 
@@ -674,9 +646,7 @@ SINGAPORE REGISTRY
 
 ### Conditions for registration of ships
 
-8\.—(1) The Authority, with the approval of the Minister may make regulations prescribing the conditions for the registration of a ship as a Singapore ship.
-
-[7/1996 wef 02/02/1996]
+8\.—(1) The Authority may, with the approval of the Minister, make regulations prescribing the conditions for the registration of a ship as a Singapore ship.
 
 (2) Without prejudice to the generality of subsection (1), regulations made under this section may make provision —
 
@@ -691,6 +661,8 @@ SINGAPORE REGISTRY
 (e) empowering the Registrar to close the registry of a Singapore ship and cancel its certificate of registry for any contravention of the regulations.
 
 (3) The Registrar may refuse to register any ship as a Singapore ship without assigning any reason.
+
+[7/96]
 
 ### Register of Singapore ships
 
@@ -754,7 +726,7 @@ SINGAPORE REGISTRY
 
 ### Entry of particulars in register
 
-13\.—(1) The Registrar shall, if he is satisfied that the requirements preliminary to registry, whether provisional or otherwise, have been complied with by the applicant for the registry of a ship and upon payment of the fees specified in section 14, enter in the register the following particulars of the ship:
+13\.—(1) The Registrar shall, if he is satisfied that the requirements preliminary to registry, whether provisional or otherwise, have been complied with by the applicant for the registry of a ship and, upon payment of the fees specified in section 14, enter in the register the following particulars of the ship:
 
 (a) the name of the ship and the port to which it belongs;
 
@@ -846,7 +818,7 @@ SINGAPORE REGISTRY
 
 (3) This section, except subsection (2), shall not apply to a Singapore ship or any share therein sold pursuant to an order of the High Court.
 
-### Transmission of property in ship on marriage, bankruptcy, death, etc
+### Transmission of property in ship on marriage, bankruptcy, death, etc.
 
 21\.—(1) Where the property in a Singapore ship or any share therein is transmitted to a person on the marriage, bankruptcy or death of any registered owner, or by any lawful means other than by a transfer under this Part —
 
@@ -1008,39 +980,39 @@ SINGAPORE REGISTRY
 
 43\.—(1) The Authority may close the registry of a Singapore ship (except in relation to any unsatisfied mortgages entered therein) and cancel its certificate of registry for any contravention of any of the provisions of this Act or any international convention applicable to Singapore.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
-(2) The Authority may close the registry of a Singapore ship (except in relation to any unsatisfied mortgages entered therein) and cancel its certificate of registry if he is satisfied that it is not in the public interest for the ship to continue to be registered as a Singapore ship.
+(2) The Authority may close the registry of a Singapore ship (except in relation to any unsatisfied mortgages entered therein) and cancel its certificate of registry if the Authority is satisfied that it is not in the public interest for the ship to continue to be registered as a Singapore ship.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 (3) Where the registry of a ship is closed under this section, the registered owner of the ship at the time of the closure shall, within 30 days of the closure, deliver up the certificate of registry to the Registrar for cancellation and if he fails to deliver up the certificate of registry within the specified period, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[7/96]
 
 ### Rules as to name of ship
 
 44\.—(1) A ship shall not be registered under any name except a name which is approved by the Registrar and a Singapore ship shall not be described by any name other than that by which it is for the time being registered.
 
-(2) The Authority, with the approval of the Minister may make regulations for the approval of a ship’s name and the changes thereto.
+(2) The Authority may, with the approval of the Minister, make regulations for the approval of a ship’s name and the changes thereto.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
-(3) Without prejudice to the generality of subsection (2), the Authority, with the approval of the Minister may in the regulations —
+(3) Without prejudice to the generality of subsection (2), the Authority may, with the approval of the Minister, in the regulations —
 
 (a) require an existing ship to be registered under its existing name unless a change thereof has been approved in accordance with the regulations; and
 
 (b) require an existing ship to change its name if it is the same as or similar to the name of a Singapore ship.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 (4) For the purposes of this section, “registered” includes registered anew.
 
-### Regulations on evidence of seaworthiness, etc
+### Regulations on evidence of seaworthiness, etc.
 
-45\.—(1) The Authority, with the approval of the Minister may make such regulations as he considers necessary or expedient to implement the provisions of this Part.
+45\.—(1) The Authority may, with the approval of the Minister, make such regulations as the Authority considers necessary or expedient to implement the provisions of this Part.
 
-[7/1996 wef 02/02/1996]
-
-(2) Without prejudice to the generality of subsection (1), the Authority, with the approval of the Minister may, in particular, make regulations —
+(2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, in particular, make regulations —
 
 (a) specifying the documents which may be accepted as evidence of seaworthiness of a ship for the purposes of section 11;
 
@@ -1056,7 +1028,7 @@ SINGAPORE REGISTRY
 
 (g) specifying the provisions of this Act which shall continue to apply, with such modifications as may be specified, notwithstanding the suspension of the registry of a Singapore ship and its registration in another country.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 ## PART III
 
@@ -1078,7 +1050,7 @@ MANNING AND CERTIFICATION
 
 ### Manning and certification
 
-47\.—(1) The Authority, with the approval of the Minister may make regulations —
+47\.—(1) The Authority may, with the approval of the Minister, make regulations —
 
 (a) requiring ships to carry such number of qualified officers of any description, qualified doctors and such number of qualified or other seamen of any description as may be specified in the regulations;
 
@@ -1086,11 +1058,7 @@ MANNING AND CERTIFICATION
 
 (c) providing that existing certificates shall, except in such cases as are specified in the regulations, be deemed for the purposes of this Act to be issued in pursuance of this section and to confer on the persons to whom they are issued such qualifications as may be specified in the regulations.
 
-[7/1996 wef 02/02/1996]
-
-(2) In subsection (1),
-
-“existing certificate” means a certificate granted before 1st August 1986.
+(2) In subsection (1), “existing certificate” means a certificate granted before 1st August 1986.
 
 (3) Without prejudice to the generality of paragraph (b) of subsection (1), the conditions prescribed or specified under that paragraph may include conditions as to nationality and regulations made for the purposes of that paragraph may make provision for —
 
@@ -1100,6 +1068,8 @@ MANNING AND CERTIFICATION
 
 (c) the issue, surrender, replacement, form and recording of certificates and other documents.
 
+[7/96]
+
 ### Prohibition of going to sea undermanned
 
 48\. Subject to any exemption under section 215, if a ship goes to sea or attempts to go to sea without carrying such number of officers, doctors and other seamen as it is required to carry under section 47, the owner or the master of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and the ship may be detained.
@@ -1108,9 +1078,7 @@ MANNING AND CERTIFICATION
 
 49\.—(1) If a person goes to sea as a qualified officer, doctor or seaman of any description without being such a qualified officer, doctor or seaman, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-(2) In this section,
-
-“qualified” means qualified for the purposes of section 47.
+(2) In this section, “qualified” means qualified for the purposes of section 47.
 
 ### Production of certificates and other documents of qualification
 
@@ -1122,7 +1090,7 @@ MANNING AND CERTIFICATION
 
 (2) The Authority may cancel any certificate issued under this Part which is fraudulently obtained and the person to whom the certificate has been issued shall, upon being notified by the Director of its cancellation, forthwith deliver it or cause it to be delivered to the Director.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 ## PART IV
 
@@ -1158,15 +1126,13 @@ CREW MATTERS
 
 (4) This section shall not apply to any ship of less than 25 net tons exclusively employed in trading within such limits as are prescribed by regulations.
 
-(5) If a ship goes to sea or attempts to go to sea in contravention of the requirements of this section, the master or the person employing the crew of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and the ship may be detained.
+(5) If a ship goes to sea or attempts to go to sea in contravention of the requirements of this section, the master or the person employing the crew of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000, and the ship may be detained.
 
 ### Regulations relating to crew agreements, engagement and discharge of seamen
 
-54\.—(1) The Authority, with the approval of the Minister may make regulations prescribing the particulars to be entered in a crew agreement and the procedure to be followed in connection with the engagement and discharge of seamen from ships.
+54\.—(1) The Authority may, with the approval of the Minister, make regulations prescribing the particulars to be entered in a crew agreement and the procedure to be followed in connection with the engagement and discharge of seamen from ships.
 
-[7/1996 wef 02/02/1996]
-
-(2) Without prejudice to the generality of subsection (1), the Authority, with the approval of the Minister may in the regulations make provision —
+(2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, in the regulations make provision —
 
 (a) regarding the period of validity of a crew agreement and the circumstances under which it may be extended;
 
@@ -1178,7 +1144,7 @@ CREW MATTERS
 
 (e) requiring the crew agreement to be produced to the Director when the ship is in Singapore.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 ### Discharge of seamen when ship ceases to be registered in Singapore
 
@@ -1186,7 +1152,7 @@ CREW MATTERS
 
 ### Payment of seaman’s wages
 
-56\.—(1) Except as provided by this Act or any other written law, the wages due to a seaman under a crew agreement relating to a ship shall be paid to him in full at the time when he leaves the ship on being discharged therefrom (in this section and section 57 referred to as the time of discharge).
+56\.—(1) Except as provided by this Act or any other written law, the wages due to a seaman under a crew agreement relating to a ship shall be paid to him in full at the time when he leaves the ship on being discharged therefrom (referred to in this section and in section 57 as the time of discharge).
 
 (2) If the amount shown in the account delivered to a seaman under section 57(1) as being the amount payable to him under subsection (1) is replaced by an increased amount shown in a further account delivered to him under section 57(3), the balance shall be paid to him within 7 days of the time of discharge.
 
@@ -1212,7 +1178,7 @@ CREW MATTERS
 
 ### Regulations relating to wages and accounts
 
-58\. The Authority, with the approval of the Minister may make regulations —
+58\. The Authority may, with the approval of the Minister, make regulations —
 
 (a) authorising deductions to be made from the wages due to a seaman under a crew agreement (in addition to any deduction authorised by any of the provisions of this Act or any other written law) in cases where a breach of his obligation under the crew agreement is alleged against him and such condition, if any, as may be specified in the regulations are complied with, or in such other cases as may be specified in the regulations;
 
@@ -1224,7 +1190,7 @@ CREW MATTERS
 
 (e) prescribing the form and manner in which any account required to be delivered under section 57 is to be prepared and the particulars to be contained therein (which may include estimated amounts).
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 ### Settlement of disputes
 
@@ -1306,7 +1272,7 @@ or to anything done or to be done for giving effect to such a disposition.
 
 (2) Subsection (1) does not affect such term of any agreement made with a seaman belonging to a ship which, in accordance with the agreement, is to be employed on salvage service, as provide for the remuneration to be paid to him for salvage services rendered by that ship.
 
-### Remedies of master for remuneration, disbursements, etc
+### Remedies of master for remuneration, disbursements, etc.
 
 68\. The master of a ship shall have the same lien and remedies for his remuneration and all disbursements or liabilities properly made or incurred by him on account of the ship, as a seaman has for his wages.
 
@@ -1316,15 +1282,15 @@ or to anything done or to be done for giving effect to such a disposition.
 
 ### Provisions and water
 
-70\.—(1) The Authority, with the approval of the Minister may make regulations requiring such provisions and water to be provided for seamen employed on ships.
-
-[7/1996 wef 02/02/1996]
+70\.—(1) The Authority may, with the approval of the Minister, make regulations requiring such provisions and water to be provided for seamen employed on ships.
 
 (2) Regulations made under this section may require a ship to carry such weighing and measuring equipment as may be necessary to ensure that the quantities of provisions and water supplied to seamen employed on the ship are in accordance with the regulations.
 
 (3) If any regulation made under this section is not complied with, the master or the person employing the seamen of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 unless he proves that the failure to comply was not due to his neglect or default.
 
 (4) If a person empowered under this Act to inspect the provisions and water to be supplied to the seamen employed on a ship is not satisfied that the provisions and water are in accordance with regulations made under this section, the ship may be detained.
+
+[7/96]
 
 ### Complaints about provisions or water
 
@@ -1350,13 +1316,13 @@ or to anything done or to be done for giving effect to such a disposition.
 
 ### Medical stores
 
-73\.—(1) The Authority, with the approval of the Minister may make regulations requiring ships to carry such medicines and other medical stores (including books containing instructions and advice) as may be specified in the regulations.
-
-[7/1996 wef 02/02/1996]
+73\.—(1) The Authority may, with the approval of the Minister, make regulations requiring ships to carry such medicines and other medical stores (including books containing instructions and advice) as may be specified in the regulations.
 
 (2) If a ship goes to sea or attempts to go to sea without carrying the medical stores which it is required to carry by regulations made under this section, the master or the owner of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 unless he proves that the failure to carry the medical stores was not due to his neglect or default.
 
 (3) If a person empowered under this Act to inspect the medical stores carried in a ship is not satisfied that the ship carries the stores which it is required to carry by the regulations made under this section, the ship may be detained.
+
+[7/96]
 
 ### Medical treatment on board ship
 
@@ -1366,13 +1332,13 @@ or to anything done or to be done for giving effect to such a disposition.
 
 75\.—(1) If a seaman, while employed on a ship, receives any surgical or medical treatment or such dental or optical treatment (including the repair or replacement of any appliance) as cannot be postponed without impairing efficiency, the reasonable expenses thereof shall be borne by the person employing him, and if he dies while so employed and is buried or cremated outside his port of return, the expenses of his burial or cremation or the return of the body to his home shall also be borne by that person.
 
-(2) A compensation shall be payable by the person employing a seaman for the death of or injury to the seaman employed on a Singapore ship who is not covered under the Workmen’s Compensation Act [Cap. 354] and such compensation shall not be less than that provided under that Act.
+(2) A compensation shall be payable by the person employing a seaman for the death of or injury to the seaman employed on a Singapore ship who is not covered under the Workmen’s Compensation Act and such compensation shall not be less than that provided under that Act.
 
 ### Drunkenness, etc., on board ship
 
 76\. If a seaman employed on a ship is, while on board the ship, under the influence of drink or a drug to such an extent that his capacity to fulfil his responsibility for the ship or to carry out his duties is impaired, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-### Continued or concerted disobedience, neglect of duty, etc
+### Continued or concerted disobedience, neglect of duty, etc.
 
 77\.—(1) If a seaman employed on a ship —
 
@@ -1386,7 +1352,9 @@ or to anything done or to be done for giving effect to such a disposition.
 
 (ii) to neglect any duty which is required to be discharged at such time; or
 
-(iii) to impede, at such a time, the progress of a voyage or the navigation of the ship, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+(iii) to impede, at such a time, the progress of a voyage or the navigation of the ship,
+
+he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (2) For the purposes of this section, a ship shall be treated as being at sea at any time when it is not securely moored in a safe berth.
 
@@ -1400,9 +1368,7 @@ or to anything done or to be done for giving effect to such a disposition.
 
 ### Disciplinary offences
 
-80\.—(1) For the purpose of maintaining discipline on board a ship, the Authority, with the approval of the Minister may make regulations prescribing any misconduct on board as a disciplinary offence and enabling the master of the ship, or such officer as may under the regulations be required or authorised to exercise the powers of the master, to impose fines on any seaman committing any disciplinary offence.
-
-[7/1996 wef 02/02/1996]
+80\.—(1) For the purpose of maintaining discipline on board a ship, the Authority may, with the approval of the Minister, make regulations prescribing any misconduct on board as a disciplinary offence and enabling the master of the ship, or such officer as may under the regulations be required or authorised to exercise the powers of the master, to impose fines on any seaman committing any disciplinary offence.
 
 (2) The regulations made under this section may provide for —
 
@@ -1412,11 +1378,13 @@ or to anything done or to be done for giving effect to such a disposition.
 
 (c) the circumstances in which the master of a ship may remit the whole or part of any fine imposed thereunder.
 
+[7/96]
+
 ### Appeal against fine for disciplinary offences
 
 81\.—(1) A seaman on whom a fine has been imposed for a disciplinary offence may, in accordance with the regulations made under this section, appeal against the decision to the Director, and on such an appeal, the Director may confirm or quash the decision and may remit the whole or part of the fine.
 
-(2) The Authority, with the approval of the Minister may make regulations under this section to provide for —
+(2) The Authority may, with the approval of the Minister, make regulations under this section to provide for —
 
 (a) the procedure to be followed on any such appeal;
 
@@ -1424,7 +1392,7 @@ or to anything done or to be done for giving effect to such a disposition.
 
 (c) the place at which the appeal is to be heard.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 ### Prohibition of double prosecution
 
@@ -1452,9 +1420,9 @@ or to anything done or to be done for giving effect to such a disposition.
 
 (2) The regulations to be so made may include the repayment of expenses incurred in bringing a shipwrecked seaman ashore and maintaining him until he is brought ashore and the payment of the expenses of the burial or cremation of a seaman who dies before he can be returned.
 
-(3) The Authority, with the approval of the Minister may make regulations providing for the manner in which any wages due to any person left behind or taken to any country as mentioned in subsection (1) and any property of his left on board the ship are to be dealt with.
+(3) The Authority may, with the approval of the Minister, make regulations providing for the manner in which any wages due to any person left behind or taken to any country as mentioned in subsection (1) and any property of his left on board the ship are to be dealt with.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 (4) Without prejudice to the generality of subsections (1), (2) and (3), regulations made under this section may make provision —
 
@@ -1472,7 +1440,7 @@ or to anything done or to be done for giving effect to such a disposition.
 
 ### Custody, etc., of property of deceased seamen
 
-87\.—(1) The Authority, with the approval of the Minister may make regulations providing for the custody of and dealing with —
+87\.—(1) The Authority may, with the approval of the Minister, make regulations providing for the custody of and dealing with —
 
 (a) any property left on board a ship by a seaman dying while or after being employed on the ship;
 
@@ -1480,9 +1448,9 @@ or to anything done or to be done for giving effect to such a disposition.
 
 (c) the recovery by the Director of any wages which, at the time of a seaman’s death, were due to him in respect of his employment on a ship.
 
-[7/1996 wef 02/02/1996]
-
 (2) Regulations made under this section may require the recording of particulars and the rendering of accounts and may enable the Director or any person having custody of any such property to sell it by auction or otherwise and account for the proceeds.
+
+[7/96]
 
 ### Disposal of property of deceased seamen
 
@@ -1518,9 +1486,9 @@ or to anything done or to be done for giving effect to such a disposition.
 
 89\.—(1) Except as provided by regulations made under this section, an official log-book and such other log-books as may be prescribed in the regulations shall be kept in every ship.
 
-(2) The Authority, with the approval of the Minister may make regulations prescribing the particulars to be entered in the log-books, the persons by whom such entries are to be made, signed or witnessed, and the procedure to be followed in the making of such entries and their amendment or cancellation.
+(2) The Authority may, with the approval of the Minister, make regulations prescribing the particulars to be entered in the log-books, the persons by whom such entries are to be made, signed or witnessed, and the procedure to be followed in the making of such entries and their amendment or cancellation.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 (3) Regulations may require the production or delivery of the log-books to such persons, in such circumstances and within such times as may be specified therein.
 
@@ -1528,29 +1496,27 @@ or to anything done or to be done for giving effect to such a disposition.
 
 ### Discharge books
 
-90\. The Authority, with the approval of the Minister may make regulations providing —
+90\.—(1) The Authority may, with the approval of the Minister, make regulations providing —
 
 (a) for the issue of discharge books in such form and containing such particulars with respect to the holders thereof and such other particulars as may be prescribed by the regulations and for requiring such persons to apply for such discharge books;
 
 (b) for requiring the holders of discharge books to produce them to such persons and in such circumstances as may be prescribed by the regulations; and
 
-(c) for the surrender of discharge books in such circumstances as may be prescribed by the regulations,
+(c) for the surrender of discharge books in such circumstances as may be prescribed by the regulations.
 
-and any provision of the regulations having effect by virtue of paragraph (a) may be so framed as to apply to all such persons as are mentioned in that paragraph or any description of such persons and as to have effect subject to any exemptions for which provisions may be made by the regulations.
+(2) Any provision of the regulations having effect by virtue of paragraph (a) of subsection (1) may be so framed as to apply to all such persons as are mentioned in that paragraph or any description of such persons and as to have effect subject to any exemptions for which provisions may be made by the regulations.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
-### Returns of births and deaths in ships, etc
+### Returns of births and deaths in ships, etc.
 
-91\.—(1) The Authority, with the approval of the Minister may make regulations —
+91\.—(1) The Authority may, with the approval of the Minister, make regulations —
 
 (a) requiring the master of any ship to make a return to the Director of any birth or death occurring in the ship;
 
 (b) requiring the master of any ship to conduct an inquiry to determine the nature and cause and make a report to the Director of any death occurring in the ship and, wherever occurring outside Singapore, of any person employed on the ship, and to notify any such death to such person (if any) as the deceased may have named as his next of kin; and
 
 (c) requiring the master of any ship not registered in Singapore which calls at Singapore in the course of or at the end of a voyage to make a return to the Director of any birth or death of a citizen of Singapore which has occurred in the ship during the voyage.
-
-[7/1996 wef 02/02/1996]
 
 (2) Regulations made under this section may require the Director to send a certified copy of any return made thereunder to the Registrar of Births and Deaths.
 
@@ -1560,7 +1526,7 @@ and any provision of the regulations having effect by virtue of paragraph (a) ma
 
 (b) may also record in that register such additional information as appears to him desirable for the purpose of ensuring the completeness and correctness of the register,
 
-and the provisions of any written law relating to the registration of births and deaths shall have effect with such modifications as are appropriate and so far as those provisions may be complied with in the circumstances as if the marine register were a register of births (other than stillbirths) or deaths, except that it shall not be necessary for any person to sign the register as an informant.
+and the provisions of any written law relating to the registration of births and deaths shall have effect with such modifications as are appropriate and so far as those provisions may be complied with in the circumstances as if the marine register were a register of births (other than still-births) or deaths, except that it shall not be necessary for any person to sign the register as an informant.
 
 (4) Regulations made under this section may contain provisions for authorising the registration of the following births and deaths occurring outside Singapore in circumstances where no return is required to be made under subsection (1) —
 
@@ -1571,6 +1537,8 @@ and the provisions of any written law relating to the registration of births and
 (c) any death of a person who has been employed on a Singapore ship which occurs elsewhere than in the ship.
 
 (5) Any person who, being required under the regulations made under this section to make a return of any birth or death or a report on the inquiry into the cause of any death, furnishes as true any information in the return or report which he knows or has reason to believe to be false shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[7/96]
 
 ### Handing over of documents on change of master
 
@@ -1596,17 +1564,17 @@ and the provisions of any written law relating to the registration of births and
 
 96\.—(1) No young person shall be employed on any ship except as permitted by regulations made under this section.
 
-(2) The Authority, with the approval of the Minister may make regulations prescribing the circumstances in which and the conditions subject to which young persons who have attained such specified age may be employed on a ship in such capacities as may be specified.
-
-[7/1996 wef 02/02/1996]
+(2) The Authority may, with the approval of the Minister, make regulations prescribing the circumstances in which and the conditions subject to which young persons who have attained such specified age may be employed on a ship in such capacities as may be specified.
 
 (3) If any person is employed on a ship in contravention of any regulations made under this section or if any condition subject to which a person may be employed under any such regulation is not complied with, the owner or the master of the ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
+[7/96]
+
 ### Extension to foreign ships
 
-97\. The Authority, with the approval of the Minister may by regulations extend the application of all or any of the provisions of this Part to foreign ships subject to such modifications as are specified in those regulations.
+97\. The Authority may, with the approval of the Minister, by regulations extend the application of all or any of the provisions of this Part to foreign ships subject to such modifications as are specified in those regulations.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 ## PART V
 
@@ -1632,11 +1600,9 @@ and the ship may be detained until the certificates are produced to the Director
 
 ### Powers of Authority to make regulations
 
-100\.—(1) The Authority, with the approval of the Minister may make regulations for carrying out the purposes and provisions of this Part.
+100\.—(1) The Authority may, with the approval of the Minister, make regulations for carrying out the purposes and provisions of this Part.
 
-[7/1996 wef 02/02/1996]
-
-(2) Without prejudice to the generality of subsection (1), the Authority, with the approval of the Minister may make regulations providing for —
+(2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, make regulations providing for —
 
 (a) the standards of construction and equipment of ships including the provision of life-saving and fire-fighting appliances and radio installations;
 
@@ -1660,15 +1626,17 @@ and the ship may be detained until the certificates are produced to the Director
 
 (k) the recognition of certificates or exemption certificates issued by or under the authority of the government of any other country for the purposes of section 99.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
-(3) The Authority, with the approval of the Minister may in the regulations make provisions to give effect to the provisions of any international convention or agreement concerning or relating to ships, ships’ safety, ships’ equipment, property or goods carried in ships or persons employed on ships and to which Singapore is a party.
+(3) The Authority may, with the approval of the Minister, in the regulations make provisions to give effect to the provisions of any international convention or agreement concerning or relating to ships, ships’ safety, ships’ equipment, property or goods carried in ships or persons employed on ships and to which Singapore is a party.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
-(4) The owner and the master of any ship to which section 99 applies shall comply with any regulations made under this section and shall ensure that the ship and its equipment and in respect of any matter that is governed by the regulations, comply with any such regulations before the ship goes to sea and at all times when the ship is at sea, unless otherwise provided in this Act.
+(4) The owner and the master of any ship to which section 99 applies shall comply with any regulations made under this section and shall ensure that the ship and its equipment and in respect of any matter that is governed by the regulations comply with any such regulations before the ship goes to sea and at all times when the ship is at sea, unless otherwise provided in this Act.
 
 (5) Any owner or master who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and the ship may be detained.
+
+[7/96]
 
 ### Overloaded ships
 
@@ -1714,7 +1682,7 @@ the ship shall, for the purposes of this Act, be deemed to be overloaded to the 
 
 (4) For the purposes of this section, “vessel” shall have the meaning assigned to it in the collision regulations.
 
-### Defect or deficiency in ship, etc
+### Defect or deficiency in ship, etc.
 
 104\.—(1) Where a material defect or deficiency affecting safety is discovered in a Singapore ship or its equipment, whether the defect or deficiency is due to wear and tear or to accident or to any other cause, the owner or the master of the ship shall report to the Director the nature and extent of the defect or deficiency and the probable cause thereof within 7 days of its discovery unless it has been reported to the Director under section 107.
 
@@ -1736,7 +1704,7 @@ the ship shall, for the purposes of this Act, be deemed to be overloaded to the 
 
 (a) to render to the other ship, its master, crew and passengers (if any) such assistance as may be practicable, and may be necessary to save them from any danger caused by the collision, and to stay by the other ship until he has ascertained that it has no need of further assistance; and
 
-(b) to give to the master or person in charge, of the other ship the name of his own ship and of the port to which it belongs, and also the names of the ports from which it came and to which it is bound.
+(b) to give to the master or person in charge of the other ship the name of his own ship and of the port to which it belongs, and also the names of the ports from which it came and to which it is bound.
 
 (2) If the master fails without reasonable cause to comply with this section, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and if he is a certificated officer, an inquiry into his conduct may be held and his certificate may be cancelled or suspended.
 
@@ -1746,7 +1714,7 @@ the ship shall, for the purposes of this Act, be deemed to be overloaded to the 
 
 (a) has sustained or caused an accident occasioning loss of life or serious injury to a person;
 
-(b) has sustained an accident or received damage, or otherwise sustained a defect or deficiency in the ship or its equipment which has been discovered, and the accident, damage, defect or deficiency has affected, or is likely to affect the seaworthiness of the ship, or the efficiency or completeness of the life-saving appliances or other safety equipment of the ship;
+(b) has sustained an accident or received damage, or otherwise sustained a defect or deficiency in the ship or its equipment which has been discovered, and the accident, damage, defect or deficiency has affected, or is likely to affect the sea-worthiness of the ship, or the efficiency or completeness of the life-saving appliances or other safety equipment of the ship;
 
 (c) has been in a position of great peril, either from the action of some other ship or from danger of wreck or collision; or
 
@@ -1756,7 +1724,7 @@ the owner or the master of the ship shall, within 24 hours of the happening, rep
 
 (2) Any owner or master of a ship who fails without reasonable cause to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
-### Appointment of inspector to report on accident, etc
+### Appointment of inspector to report on accident, etc.
 
 108\. The Minister may appoint any person as an inspector to report to him —
 
@@ -1850,7 +1818,7 @@ is an unsafe ship, that is to say, is by reason of any of the matters mentioned 
 
 (i) is registered under the law of any country outside Singapore; and
 
-(ii) is within the seaward limits of the territorial sea of Singapore while proceeding to or from a port in Singapore, unless the ship would not be so proceeding but for weather conditions or any other unavoidable circumstances.
+(ii) is within the seaward limits of the territorial waters of Singapore while proceeding to or from a port in Singapore, unless the ship would not be so proceeding but for weather conditions or any other unavoidable circumstances.
 
 (3) If the owner of a ship to which this section applies fails to discharge the duty imposed on him by subsection (1), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -1864,7 +1832,7 @@ is an unsafe ship, that is to say, is by reason of any of the matters mentioned 
 
 (i) is registered under the law of any country outside Singapore; and
 
-(ii) is in a port in Singapore or within the seaward limits of the territorial sea of Singapore while proceeding to or from any such port, unless the ship would not be in that port, or, as the case may be, would not be so proceeding, but for weather conditions or any other unavoidable circumstances.
+(ii) is in a port in Singapore or within the seaward limits of the territorial waters of Singapore while proceeding to or from any such port, unless the ship would not be in that port, or, as the case may be, would not be so proceeding, but for weather conditions or any other unavoidable circumstances.
 
 (2) If a person to whom this section applies, while on board his ship or in its immediate vicinity —
 
@@ -1928,11 +1896,9 @@ he shall, subject to subsections (5) and (6), be guilty of an offence and shall 
 
 ### Regulations for survey of ships and issue of certificates
 
-116\.—(1) The Authority, with the approval of the Minister may make regulations for the purposes of authorising any organisation for the survey or inspection of Singapore ships and the issue of any certificate under this Part.
+116\.—(1) The Authority may, with the approval of the Minister, make regulations for the purposes of authorising any organisation for the survey or inspection of Singapore ships and the issue of any certificate under this Part.
 
-[7/1996 wef 02/02/1996]
-
-(2) Without prejudice to the generality of subsection (1), the Authority, with the approval of the Minister may in the regulations —
+(2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, in the regulations —
 
 (a) specify the surveys or inspections and the issue of certificates or endorsements;
 
@@ -1940,9 +1906,11 @@ he shall, subject to subsections (5) and (6), be guilty of an offence and shall 
 
 (c) prescribe the conditions for the registration of any person under paragraph (b) and the cancellation of the registration of any person.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 (3) Any certificate issued or endorsement made by any authorised organisation in accordance with any regulations made under this section shall be deemed to be issued or made by the Director for the purposes of this Act.
+
+[7/96]
 
 ## PART VI
 
@@ -2022,11 +1990,11 @@ and, at the time it occurred, the ship was registered in Singapore or the ship o
 
 ### Regulations as to inquiries, formal investigations and appeals
 
-121\.—(1) The Authority, with the approval of the Minister may make regulations for the conduct of inquiries under section 117 and of formal investigations under section 119 and for the conduct of any re-hearing under section 120 which is not held by the High Court.
-
-[7/1996 wef 02/02/1996]
+121\.—(1) The Authority may, with the approval of the Minister, make regulations for the conduct of inquiries under section 117 and of formal investigations under section 119 and for the conduct of any re-hearing under section 120 which is not held by the High Court.
 
 (2) Without prejudice to the generality of subsection (1), regulations made under this section may provide for the appointment and summoning of assessors, the manner in which any facts may be proved, the persons allowed to appear, and the notices to be given to persons affected.
+
+[7/96]
 
 ### Failure to deliver cancelled or suspended certificate
 
@@ -2084,7 +2052,7 @@ DELIVERY OF GOODS
 
 (a) upon the production to the wharfinger or warehouseman of a receipt for the amount claimed as due, and delivery to the wharfinger or warehouseman of a copy thereof or of a release of freight from the shipowner; and
 
-(b) upon the deposit by the owner of the goods with the wharfinger or warehouseman of a sum of money equal in amount to the sum claimed as aforesaid by the shipowner,
+(b) upon the deposit by the owner of the goods with the wharfinger or warehouseman of a sum of money equal in amount to the sum claimed aforesaid by the shipowner,
 
 but in the latter case, the lien shall be discharged without prejudice to any other remedy which the shipowner may have for the recovery of the freight.
 
@@ -2110,7 +2078,7 @@ but in the latter case, the lien shall be discharged without prejudice to any ot
 
 ### Application of proceeds of sale
 
-131\. The proceeds of sale of the goods shall be applied by the wharfinger or warehouseman as follows and in the following order:
+131\.—(1) The proceeds of sale of the goods shall be applied by the wharfinger or warehouseman as follows and in the following order:
 
 (a) firstly, in payment of any duties payable to the Government in respect thereof;
 
@@ -2120,9 +2088,9 @@ but in the latter case, the lien shall be discharged without prejudice to any ot
 
 (i) in payment of the rent, rates and other charges due to the wharfinger or warehouseman in respect of the goods; and
 
-(ii) in payment of the amount claimed by the shipowner as due for freight or other charges in respect of the goods,
+(ii) in payment of the amount claimed by the shipowner as due for freight or other charges in respect of the goods.
 
-and the surplus, if any, shall be paid to the owner of the goods.
+(2) The surplus, if any, shall be paid to the owner of the goods.
 
 ### Wharfinger’s and warehouseman’s rent and expenses
 
@@ -2138,7 +2106,9 @@ LIABILITY OF SHIPOWNERS
 
 ### Interpretation of this Part
 
-134\. In this Part, “owner” —
+134\. In this Part,
+
+“owner” —
 
 (a) in section 135, includes every person whose liability is excluded by section 141; and
 
@@ -2168,9 +2138,9 @@ be liable to damages beyond the following amounts:
 
 (i) in respect of loss of life or personal injury, either alone or together with such loss, damage or infringement as is mentioned in paragraphs (b) and (d), an aggregate amount not exceeding in the currency of Singapore the equivalent of 3,100 gold francs for each ton of the ship’s tonnage; and
 
-(ii) in respect of such loss, damage or infringement as is mentioned in paragraphs (b) and (d), whether there is loss of life or personal injury or not, an aggregate amount not exceeding in the currency of Singapore the equivalent of 1,000 gold francs for each ton of the ship’s tonnage:
+(ii) in respect of such loss, damage or infringement as is mentioned in paragraphs (b) and (d), whether there is loss of life or personal injury or not, an aggregate amount not exceeding in the currency of Singapore the equivalent of 1,000 gold francs for each ton of the ship’s tonnage.
 
-Provided that for the purpose of ascertaining the limit of the owner’s liability in accordance with sub-paragraph (i), the tonnage of a ship of less than 300 tons shall be deemed to be 300 tons.
+(1A) For the purpose of ascertaining the limit of the owner’s liability in accordance with sub-paragraph (i) of subsection (1), the tonnage of a ship of less than 300 tons shall be deemed to be 300 tons.
 
 (2) For the purposes of this section —
 
@@ -2178,11 +2148,7 @@ Provided that for the purpose of ascertaining the limit of the owner’s liabili
 
 (b) if the tonnage of a ship cannot be ascertained in accordance with paragraph (a), the Director shall, if so directed by the court, certify what, on the evidence specified in the direction, would in his opinion be the tonnage of the ship if ascertained in accordance with that paragraph; and
 
-(c) a gold franc shall be taken to be a unit consisting of 651/
-
-2
-
-milligrams of gold of millesimal fineness 900.
+(c) a gold franc shall be taken to be a unit consisting of 65½ milligrams of gold of millesimal fineness 900.
 
 (3) The Minister may, from time to time, by order published in theGazette, specify the amounts which for the purposes of this section are to be taken as equivalent to 3,100 and 1,000 gold francs, respectively.
 
@@ -2192,7 +2158,7 @@ milligrams of gold of millesimal fineness 900.
 
 (6) Nothing in this section shall apply to any liability in respect of loss of life or personal injury caused to, or loss of or damage to any property or infringement of any right of, a person who is on board or employed in connection with a ship under a contract of service with all or any of the persons whose liabilities are limited by this section, if that contract is governed by the law of any country outside Singapore and that law either does not set any limit to that liability or sets a limit exceeding that set to it by this section.
 
-### Power of High Court to consolidate claims against owners, etc
+### Power of High Court to consolidate claims against owners, etc.
 
 137\.—(1) Where any liability is alleged to have been incurred by the owner of a ship in respect of any occurrence in respect of which his liability is limited under section 136, and several claims are made or apprehended in respect of that liability, then the owner may apply to the High Court, and the Court may —
 
@@ -2308,7 +2274,7 @@ WRECK AND SALVAGE
 
 146\. The Authority shall have the general supervision throughout Singapore over all matters relating to wrecks and may, by notification in theGazette, appoint any person to be a receiver of wreck and to perform the duties of a receiver under this Part.
 
-### Duty of receiver where ship in distress
+### Duty of receiver in respect of ship in distress
 
 147\.—(1) Where any ship is wrecked, stranded or in distress at any place on or near the coasts of Singapore or any tidal water within the limits of Singapore, the receiver shall, upon being made acquainted with the circumstances, forthwith proceed there, and upon his arrival shall take the command of all persons present and shall assign such duties and give such directions to each person as he thinks fit for the preservation of the ship and of the lives of the persons belonging to the ship (referred to in this Part as shipwrecked persons) and of the cargo and apparel of the ship.
 
@@ -2356,11 +2322,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Examination in respect of ships in distress
 
-152\.—(1) Where any ship is or has been in distress on the coasts of Singapore, a receiver of wreck, or in his absence a Magistrate or a Justice of the Peace shall, as soon as conveniently may be, examine on oath any person belonging to the ship, or any other person who is able to give any account thereof or of the cargo or stores thereof, as to the following matters:
+152\.—(1) Where any ship is or has been in distress on the coasts of Singapore, a receiver of wreck or in his absence a Magistrate or a Justice of the Peace shall, as soon as conveniently may be, examine on oath any person belonging to the ship, or any other person who is able to give any account thereof or of the cargo or stores thereof, as to the following matters:
 
 (a) the name and description of the ship;
 
-(b) the names of the master and of the owner;
+(b) the names of the master and the owner;
 
 (c) the names of the owners of the cargo;
 
@@ -2446,7 +2412,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) The sum paid to the receiver as the value of any property under this section shall be deemed to be the proceeds of sale of that property.
 
-### Powers of removal extend to tackle, cargo, etc
+### Powers of removal extend to tackle, cargo, etc.
 
 162\. The provisions of this Part relating to removal of wrecks shall apply to every article or thing or collection of things being or forming part of the tackle, equipment, cargo, stores or ballast of a ship in the same manner as if it were included in the term “ship”, and for the purposes of those provisions any proceeds of sale arising from a ship and from the cargo thereof, or any other property recovered therefrom, shall be regarded as a common fund.
 
@@ -2468,7 +2434,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) wrongfully carry away or remove any part of a ship stranded or in danger of being stranded, or otherwise in distress on or near any coast or tidal water, or any part of the cargo or apparel thereof or any wreck.
 
-(4) Any person who acts in contravention of subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000, and such fine may be imposed in addition to any punishment to which he may be liable by law under this Act or otherwise.
+(4) Any person who acts in contravention of sub-section (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000, and such fine may be imposed in addition to any punishment to which he may be liable by law under this Act or otherwise.
 
 ### Summary procedure for concealment of wreck
 
@@ -2510,7 +2476,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Appeal in case of salvage disputes
 
-170\. Where a dispute relating to salvage has been determined by a District Court, any party aggrieved by the decision may appeal therefrom in accordance with the Rules of the Supreme Court to the Court of Appeal, but no such appeal shall be allowed unless the sum in dispute exceeds $2,000.
+170\. Where a dispute relating to salvage has been determined by a District Court, any party aggrieved by the decision may appeal therefrom in accordance with the Rules of Court to the Court of Appeal, but no such appeal shall be allowed unless the sum in dispute exceeds $2,000.
 
 ### Valuation of property by receiver
 
@@ -2610,9 +2576,7 @@ LEGAL PROCEEDINGS
 
 ### Depositions to be received in evidence when witness cannot be produced
 
-184\.—(1) Whenever in the course of any legal proceedings instituted before any court, or before any person authorised by law or by consent of parties to receive evidence, the testimony of any witness is required in relation to the subject-matter of that proceedings, then upon due proof that the witness cannot be found in Singapore, any deposition that the witness has previously made on oath in relation to the same subject-matter before any judge, magistrate or any consular officer elsewhere shall be admissible in evidence:
-
-Provided that —
+184\.—(1) Whenever in the course of any legal proceedings instituted before any court, or before any person authorised by law or by consent of parties to receive evidence, the testimony of any witness is required in relation to the subject-matter of that proceedings, then upon due proof that the witness cannot be found in Singapore, any deposition that the witness has previously made on oath in relation to the same subject-matter before any judge, magistrate or any consular officer elsewhere shall be admissible in evidence subject to the following provisions:
 
 (a) if the deposition was made in Singapore, it shall not be admissible in any proceedings instituted in Singapore; and
 
@@ -2644,7 +2608,7 @@ Provided that —
 
 (e) a certificate issued or deemed to be issued in accordance with regulations made under section 47;
 
-(f) crew agreements, and copies of entries given under Part IV of additions to or changes in crew agreements;
+(f) crew agreements and copies of entries given under Part IV of additions to or changes in crew agreements;
 
 (g) documents purporting to be submissions to or decisions by the Director under section 59;
 
@@ -2684,7 +2648,7 @@ Provided that —
 
 190\.—(1) Where any person has a beneficial interest in any ship or any share therein registered in the name of some other person as owner, the person so interested shall, as well as the registered owner of the ship, be subject to all pecuniary penalties imposed by this Act or any other written law on the owner of the ship or the shares therein and proceedings may be taken for the enforcement of any such penalty against both or either of the aforesaid parties, with or without joining them.
 
-(2) For the purpose of this section, a person who has an interest in any ship or share therein by way of mortgage, charge or lien, shall not be deemed to have a beneficial interest in the ship unless he is in possession of the ship.
+(2) For the purpose of this section, a person who has an interest in any ship or any share therein by way of mortgage, charge or lien, shall not be deemed to have a beneficial interest in the ship unless he is in possession of the ship.
 
 ### Offences by body corporate
 
@@ -2724,7 +2688,7 @@ that person shall be guilty of an offence.
 
 (4) If any person allows any other person to fraudulently use any of the documents mentioned in subsection (1)(d) which is issued to or issued in relation to a person and that other person is not the person named in that document or to which the document relates, he shall be guilty of an offence.
 
-### False declaration, etc
+### False declaration, etc.
 
 194\. If any person knowingly or recklessly, for any purpose prescribed by this Act —
 
@@ -2736,7 +2700,7 @@ that person shall be guilty of an offence.
 
 he shall be guilty of an offence.
 
-### Interfering with person in carrying out duty, etc
+### Interfering with person in carrying out duty, etc.
 
 195\. Any person who —
 
@@ -2746,7 +2710,7 @@ he shall be guilty of an offence.
 
 shall be guilty of an offence.
 
-### Misleading officer, refusal to answer questions, produce documents, etc
+### Misleading officer, refusal to answer questions, produce documents, etc.
 
 196\. Any person who —
 
@@ -2800,11 +2764,9 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 202\.—(1) If it appears that there was no reasonable or probable cause for the provisional detention of a ship under section 113, the Authority shall be liable to pay to the owner of the ship his costs of and incidental to the detention and survey of the ship, and also compensation for any loss or damage sustained by him by reason of the detention or survey.
 
-[7/1996 wef 02/02/1996]
-
 (2) An action for any costs or compensation payable by the Authority under subsection (1) may be brought against the Director by his official title.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 (3) If —
 
@@ -2816,11 +2778,11 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 the owner of the ship shall be liable to pay to the Authority its costs of and incidental to the detention and survey of the ship.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 (4) Any costs payable to the Authority under this Act may be recovered by the Director and those costs shall, without prejudice to any other remedy, be recoverable as salvage is recoverable.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 ### Security for costs of detention of unsafe ships
 
@@ -2830,9 +2792,9 @@ the owner of the ship shall be liable to pay to the Authority its costs of and i
 
 (3) Where a ship is detained in consequence of any complaint, and the circumstances are such that the Authority is liable under section 202 to pay to the owner of the ship any costs or compensation, the complainant shall be liable to pay the Authority all costs incurred and compensation paid by the Authority in respect of the detention and survey of the ship.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
-### Immunity of Government, Authority and their employees, etc
+### Immunity of Government, Authority and their employees, etc.
 
 204\. No suit or other legal proceedings shall lie against the Government, the Authority or any officer or employee of the Government or the Authority or any person appointed under this Act or acting under the direction of the Government or the Authority for any act done in good faith in the performance, or intended performance, of any duty, or in the exercise of any power under this Act, or for any failure or default in the performance or exercise in good faith of such duty or power.
 
@@ -2840,7 +2802,7 @@ the owner of the ship shall be liable to pay to the Authority its costs of and i
 
 MISCELLANEOUS
 
-### Powers of Director, etc
+### Powers of Director, etc.
 
 205\.—(1) The Director, the Port Master, a Port Health Officer, a surveyor of ships or a police officer may, at any time, for the purposes of this Act —
 
@@ -2916,11 +2878,9 @@ or some other person having knowledge of the facts of the case, shall make a dec
 
 (2) Any master who contravenes or fails to comply with this section without reasonable cause shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-### Powers of Minister to prescribe fees, recovery of fees and application of moneys
+### Powers of Authority to prescribe fees, recovery of fees and application of moneys
 
-213\.—(1) The Authority, with the approval of the Minister may make regulations prescribing the fees to be paid in respect of the issue or recording of any certificate, licence or other instrument or the doing of any other thing in pursuance of this Act.
-
-[7/1996 wef 02/02/1996]
+213\.—(1) The Authority may, with the approval of the Minister, make regulations prescribing the fees to be paid in respect of the issue or recording of any certificate, licence or other instrument or the doing of any other thing in pursuance of this Act.
 
 (2) All fees prescribed under this Act shall be paid to the Director.
 
@@ -2938,13 +2898,13 @@ or some other person having knowledge of the facts of the case, shall make a dec
 
 (5) All moneys recovered or received under this Act shall be paid to the Authority except that the annual tonnage tax paid under section 14(2) shall be paid into the Consolidated Fund.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 ### Documents to be in approved form
 
 214\. Every register, certificate, licence, book, instrument or other document prescribed by this Act shall be made in such form, if any, as may be approved by the Authority or as near thereto as circumstances permit.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
 ### Exemption
 
@@ -2954,9 +2914,9 @@ or some other person having knowledge of the facts of the case, shall make a dec
 
 ### Regulations
 
-216\.—(1) The Authority, with the approval of the Minister may make such regulations as are necessary for carrying into effect the provisions of this Act.
+216\.—(1) The Authority may, with the approval of the Minister, make such regulations as are necessary for carrying into effect the provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Authority, with the approval of the Minister may make regulations —
+(2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, make regulations —
 
 (a) to exempt any person or ship or description of persons or ships from all or any of the provisions of this Act;
 
@@ -2970,19 +2930,38 @@ or some other person having knowledge of the facts of the case, shall make a dec
 
 (f) to make provisions for any incidental or supplementary matters for which the Authority thinks it expedient for the purposes of the regulations to provide; and
 
-[7/1996 wef 02/02/1996]
-
 (g) to make a contravention of any provision of any regulation an offence punishable with a fine not exceeding $10,000.
 
-[7/1996 wef 02/02/1996]
+[7/96]
 
-### Repeal and transitional provisions
+### Transitional provisions
 
-217\.—(1) The Merchant Shipping Act [Cap. 179] is repealed.
+217\.—(1) Every Singapore ship registered before 2nd February 1996 shall be deemed to be registered under Part II of this Act and the provisions of this Act shall apply to the ship and all matters relating thereto as they apply to a ship registered on or after that date.
 
-(2) Every Singapore ship registered before the appointed day shall be deemed to be registered under Part II of this Act and the provisions of this Act shall apply to the ship and all matters relating thereto as they apply to a ship registered on or after that day.
+(2) Any document, endorsement, exemption or certificate prepared, made or granted under the repealed Merchant Shipping Act [Cap. 179, 1985 Ed.] shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act, continue and be deemed to have been prepared or granted under the corresponding provisions of this Act.
 
-(3) Any document, endorsement, exemption or certificate prepared, made or granted under the repealed Merchant Shipping Act shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act, continue and be deemed to have been prepared or granted under the corresponding provisions of this Act.
+(3) Any reference to the Surveyor-General of Ships or Superintendent of the Mercantile Marine Office in any written law shall be read as a reference to the Director.
 
-(4) Any reference to the Surveyor-General of Ships or Superintendent of the Mercantile Marine Office in any written law shall be read as a reference to the Director.
+## LEGISLATIVE HISTORY
 
+Merchant Shipping Act
+
+(CHAPTER 179)
+
+This Legislative History is provided for the convenience of users of the Merchant Shipping Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 19 of 1995—Merchant Shipping Act 1995**|
+||Date of First Reading|13 March 1995|
+|||(Bill No. 14/95 published on 14 March 1995)|
+||Date of Second Reading|25 May 1995|
+||Date of commencement|2 February 1996|
+|2.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+||(Consequential amendments made by)||
+||Date of First Reading|5 December 1995|
+|||(Bill No. 46/95 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|2 February 1996|
+|3.|**1996 Revised Edition—Merchant Shipping Act (Chapter 179)**|
+||Date of operation|30 April 1996|
