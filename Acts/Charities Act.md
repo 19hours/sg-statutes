@@ -1,12 +1,10 @@
-**Charities Act 1994**
+**Charities Act**
 
-**(No. 22 of 1994)**
+**(CHAPTER 37)**
 
 **Table of Contents**
 
 [**Long Title**](#Charities-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 [**Part I PRELIMINARY**](#Part-I)
 
@@ -32,7 +30,7 @@
 
 - [9 Power of Commissioner to call for documents and search records](#Power-of-Commissioner-to-call-for-documents-and-search-records)
 
-- [10 Supply of false or misleading information to Commissioner, etc](#Supply-of-false-or-misleading-information-to-Commissioner-etc)
+- [10 Supply of false or misleading information to Commissioner, etc.](#Supply-of-false-or-misleading-information-to-Commissioner-etc)
 
 - [11 Disclosure of information to and by Commissioner](#Disclosure-of-information-to-and-by-Commissioner)
 
@@ -44,17 +42,17 @@
 
 - [14 Annual audit or examination of charity accounts](#Annual-audit-or-examination-of-charity-accounts)
 
-- [15 Supplementary provisions relating to audits, etc](#Supplementary-provisions-relating-to-audits-etc)
+- [15 Supplementary provisions relating to audits, etc.](#Supplementary-provisions-relating-to-audits-etc)
 
 - [16 Annual reports](#Annual-reports)
 
-- [17 Public inspection of annual reports, etc](#Public-inspection-of-annual-reports-etc)
+- [17 Public inspection of annual reports, etc.](#Public-inspection-of-annual-reports-etc)
 
 - [18 Offences](#Offences)
 
 [**Part V SMALL CHARITIES**](#Part-V)
 
-- [19 Power to transfer all property, modify objects, etc](#Power-to-transfer-all-property-modify-objects-etc)
+- [19 Power to transfer all property, modify objects, etc.](#Power-to-transfer-all-property-modify-objects-etc)
 
 - [20 Power to spend capital](#Power-to-spend-capital)
 
@@ -78,7 +76,7 @@
 
 - [29 Publicity for proceedings under this Part](#Publicity-for-proceedings-under-this-Part)
 
-- [30 Power to authorise dealings with charity property, etc](#Power-to-authorise-dealings-with-charity-property-etc)
+- [30 Power to authorise dealings with charity property, etc.](#Power-to-authorise-dealings-with-charity-property-etc)
 
 - [31 Taking of legal proceedings](#Taking-of-legal-proceedings)
 
@@ -88,9 +86,9 @@
 
 - [33 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [34 Prohibition on professional fund-raiser, etc., raising funds for charitable institution without an agreement in prescribed form](#Prohibition-on-professional-fund-raiser-etc-raising-funds-for-charitable-institution-without-an-agreement-in-prescribed-form)
+- [34 Prohibition on professional fund-raiser, etc. raising funds for charitable institution without agreement in prescribed form](#Prohibition-on-professional-fund-raiser-etc-raising-funds-for-charitable-institution-without-agreement-in-prescribed-form)
 
-- [35 Professional fund-raisers, etc., required to indicate institutions benefitting and arrangements for remuneration](#Professional-fund-raisers-etc-required-to-indicate-institutions-benefitting-and-arrangements-for-remuneration)
+- [35 Professional fund-raisers, etc., required to indicate institutions benefiting and arrangements for remuneration](#Professional-fund-raisers-etc-required-to-indicate-institutions-benefiting-and-arrangements-for-remuneration)
 
 - [36 Cancellation of payments and agreements made in response to appeals](#Cancellation-of-payments-and-agreements-made-in-response-to-appeals)
 
@@ -106,7 +104,7 @@
 
 [**Part IX MISCELLANEOUS**](#Part-IX)
 
-- [41 Manner of giving notice of charity meetings, etc](#Manner-of-giving-notice-of-charity-meetings-etc)
+- [41 Manner of giving notice of charity meetings, etc.](#Manner-of-giving-notice-of-charity-meetings-etc)
 
 - [42 Miscellaneous provisions as to orders of Commissioner](#Miscellaneous-provisions-as-to-orders-of-Commissioner)
 
@@ -122,43 +120,25 @@
 
 - [48 Regulations](#Regulations)
 
-- [49 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [49 Transitional provisions](#Transitional-provisions)
 
 [**THE SCHEDULE Exempt Charities**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Charities Act
 
-ACTS SUPPLEMENT
+(CHAPTER 37)
 
-Published by Authority
+(Original Enactment: Act 22 of 1994)
 
-NO. 24]
+REVISED EDITION 1995
 
-Friday, December 23
+(15th March 1995)
 
-[1994
+An Act to make provision for the registration of charities, the administration of charities and their affairs, the regulation of fund-raising activities carried on in connection with charities and other institutions and the conduct of public charitable collections and for purposes connected therewith.
 
-The following Act was passed by Parliament on 31st October 1994 and assented to by the President on 25th November 1994:—
-
-Charities Act 1994
-
-(No. 22 of 1994)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-25th November 1994.
-
-Date of Commencement: 1st January 1995
-
-An Act to make provision for the registration of charities, the administration of charities and their affairs, the regulation of fund-raising activities carried on in connection with charities and other institutions and the conduct of public charitable collections and for purposes connected therewith, and to repeal the Charities Act (Chapter 37 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st January 1995]
 
 ## PART I
 
@@ -166,7 +146,7 @@ PRELIMINARY
 
 ### Short title and commencement
 
-1\.—(1) This Act may be cited as the Charities Act 1994 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\.—(1) This Act may be cited as the Charities Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
 
 (2) The Minister may appoint different dates for the coming into operation of the different provisions of this Act.
 
@@ -196,7 +176,7 @@ PRELIMINARY
 
 “financial year” —
 
-(a) in relation to a charity which is a company, shall be construed in accordance with the Companies Act (Cap. 50); and
+(a) in relation to a charity which is a company, shall be construed in accordance with the Companies Act [Cap. 50]; and
 
 (b) in relation to any other charity, shall be construed in accordance with regulations made under section 13(2);
 
@@ -316,7 +296,7 @@ and any reference in this subsection to the name of a charity is, in relation to
 
 (7) Any reference in this section to the charity trustees of a charity shall, in relation to a charity which is a company, be read as a reference to the directors of the company.
 
-(8) Where any direction is given under this section with respect to a charity which is a company, the direction shall be taken to require the directors of the company to take the necessary steps to effect the change of the name of the company, including applying to the Registrar of Companies for the reservation and approval of the new name under section 27 or 378 of the Companies Act (Cap. 50), as the case may be.
+(8) Where any direction is given under this section with respect to a charity which is a company, the direction shall be taken to require the directors of the company to take the necessary steps to effect the change of the name of the company, including applying to the Registrar of Companies for the reservation and approval of the new name under section 27 or 378 of the Companies Act [Cap. 50], as the case may be.
 
 (9) Nothing in this section shall apply to an exempt charity.
 
@@ -338,7 +318,7 @@ and any person who fails to comply with any requirement specified in the order s
 
 (4) For the purposes of any such inquiry, evidence may be taken on oath, and the person conducting the inquiry may for that purpose administer oaths, or may instead of administering an oath require the person examined to make and subscribe a declaration of the truth of the matters about which he is examined.
 
-(5) Where the Commissioner proposes to take any action in consequence of an inquiry under this section, he may publish the report of the person conducting the inquiry, or such other statement of the results of the inquiry as he thinks fit, in any manner calculated in his opinion to bring it to the attention of persons who may wish to make representations to him about the action to be taken.
+(5) Where the Commissioner proposes to take any action in consequence of an inquiry under this section, the Commissioner may publish the report of the person conducting the inquiry, or such other statement of the results of the inquiry as he thinks fit, in any manner calculated in his opinion to bring it to the attention of persons who may wish to make representations to him about the action to be taken.
 
 (6) A copy of the report of the person conducting an inquiry under this section shall, if certified by the Commissioner to be a true copy, be admissible as evidence of any fact stated in the report, and as evidence of the opinion of that person as to any matter referred to in the report, in any legal proceedings instituted by the Commissioner under section 25 and in any legal proceedings instituted by the Attorney-General in respect of a charity.
 
@@ -378,7 +358,7 @@ and any person who fails to comply with any requirement specified in the order s
 
 (8) Subject to section 11(2), no person shall by virtue of this section be obliged to disclose any particulars as to which he is under any statutory obligation to observe secrecy.
 
-### Supply of false or misleading information to Commissioner, etc
+### Supply of false or misleading information to Commissioner, etc.
 
 10\.—(1) Any person who knowingly or recklessly provides the Commissioner with information which is false or misleading in a material particular shall be guilty of an offence if the information is provided —
 
@@ -490,7 +470,7 @@ for at least 7 years from the end of the financial year to which any such statem
 
 exceeds $250,000 or such other sum as the Minister may by notification prescribe.
 
-(2) If this subsection applies to a financial year of a charity, the accounts of the charity for that year shall be audited by a person who is, in accordance with section 9 of the Companies Act (Cap. 50), approved as an approved company auditor.
+(2) If this subsection applies to a financial year of a charity, the accounts of the charity for that year shall be audited by a person who is, in accordance with section 9 of the Companies Act [Cap. 50], approved as an approved company auditor.
 
 (3) If subsection (2) does not apply to a financial year of a charity, then (subject to subsection (4)) the accounts of the charity for that year shall, at the election of the charity trustees, either —
 
@@ -516,7 +496,7 @@ the Commissioner may by order require the accounts of the charity for that year 
 
 (7) Nothing in this section shall apply to an exempt charity or a charity which is a company.
 
-### Supplementary provisions relating to audits, etc
+### Supplementary provisions relating to audits, etc.
 
 15\.—(1) The Minister may by regulations make provision —
 
@@ -532,7 +512,7 @@ the Commissioner may by order require the accounts of the charity for that year 
 
 (2) If any person fails to afford an approved company auditor or independent examiner any facility to which he is entitled by virtue of subsection (1)(c) or (d), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000, and the Commissioner may by order give to that person or to the charity trustees for the time being of the charity concerned, such directions as the Commissioner thinks appropriate for securing that the default is made good.
 
-(3) Section 391 of the Companies Act (Cap. 50) shall have effect in relation to an auditor or independent examiner appointed by a charity in pursuance of section 14 as it has effect in relation to a person employed as auditor by a company within the meaning of that Act.
+(3) Section 391 of the Companies Act [Cap. 50] shall have effect in relation to an auditor or independent examiner appointed by a charity in pursuance of section 14 as it has effect in relation to a person employed as auditor by a company within the meaning of that Act.
 
 ### Annual reports
 
@@ -554,13 +534,13 @@ the Commissioner may by order require the accounts of the charity for that year 
 
 (b) where the accounts of the charity for that year have been examined under section 14, a copy of the report made by the independent examiner in respect of the examination carried out by him under that section.
 
-(4) Subsection (3) shall not apply to a charity which is a company, and any annual report transmitted by the charity trustees of such a charity under subsection (2) shall have attached to it a copy of the charity’s annual accounts prepared for the financial year in question under Part VI of the Companies Act (Cap. 50), together with a copy of the auditor’s report on those accounts.
+(4) Subsection (3) shall not apply to a charity which is a company, and any annual report transmitted by the charity trustees of such a charity under subsection (2) shall have attached to it a copy of the charity’s annual accounts prepared for the financial year in question under Part VI of the Companies Act [Cap. 50], together with a copy of the auditor’s report on those accounts.
 
 (5) Any annual report transmitted to the Commissioner under subsection (2), together with the documents attached to it, shall be kept by the Commissioner for such period as he may think fit.
 
 (6) This section shall not apply to an exempt charity.
 
-### Public inspection of annual reports, etc
+### Public inspection of annual reports, etc.
 
 17\.—(1) Any annual report or other document kept by the Commissioner in pursuance of section 16(5) shall be open to public inspection at all reasonable times —
 
@@ -574,23 +554,23 @@ the Commissioner may by order require the accounts of the charity for that year 
 
 (b) pays the charity trustees such reasonable fee (if any) as they may require in respect of the costs of complying with the request,
 
-those trustees shall comply with the request within the period of two months beginning with the date on which the request is made.
+those trustees shall comply with the request within the period of 2 months beginning with the date on which the request is made.
 
 (3) In subsection (2), the reference to a charity’s most recent accounts shall be —
 
 (a) a reference to the statement of accounts or account and statement prepared in pursuance of section 13(1) or (3) in respect of the last financial year of the charity the accounts for which have been audited or examined under section 14; and
 
-(b) in the case of a charity which is a company, a reference to the annual accounts of the company most recently audited under Part VI of the Companies Act (Cap. 50).
+(b) in the case of a charity which is a company, a reference to the annual accounts of the company most recently audited under Part VI of the Companies Act [Cap. 50].
 
 ### Offences
 
-18\. Any person who, without reasonable excuse, is persistently in default in relation to any requirement imposed by section 16(2) or 17(2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+18\. Any person who, without reasonable excuse, is persistently in default in relation to any requirement imposed by section 16(2) or 17(2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 .
 
 ## PART V
 
 SMALL CHARITIES
 
-### Power to transfer all property, modify objects, etc
+### Power to transfer all property, modify objects, etc.
 
 19\.—(1) This section shall apply to a charity if —
 
@@ -722,9 +702,7 @@ and the Commissioner shall take into account any representations made to him by 
 
 (9) The Minister may by order amend subsection (1)(b) by substituting a different sum for the sum for the time being specified therein.
 
-(10) A charity shall be deemed for the purposes of this section to have a permanent endowment unless all property held for the purposes of the charity may be expended for those purposes without distinction between capital and income, and in this section
-
-“permanent endowment” means, in relation to any charity, property held subject to a restriction on its being expended for the purposes of the charity
+(10) A charity shall be deemed for the purposes of this section to have a permanent endowment unless all property held for the purposes of the charity may be expended for those purposes without distinction between capital and income, and in this section “permanent endowment” means, in relation to any charity, property held subject to a restriction on its being expended for the purposes of the charity.
 
 ## PART VI
 
@@ -760,7 +738,7 @@ APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY 
 
 (4) It is hereby declared that a trust for charitable purposes places a trustee under a duty, where the case permits and requires the property of some part of it to be applied cy-près, to secure its effective use for charity by taking steps to enable it to be so applied.
 
-(5) This section shall apply to property given for charitable purposes, notwithstanding that it was so given before the commencement of this Act.
+(5) This section shall apply to property given for charitable purposes, notwithstanding that it was so given before 1st January 1995.
 
 ### Application cy-près of gifts of donors unknown or disclaiming
 
@@ -798,15 +776,13 @@ APPLICATION OF PROPERTY CY-PRÈS AND ASSISTANCE AND SUPERVISION OF CHARITIES BY 
 
 (b) the aggregate amount of any such claims actually made exceeds the relevant amount,
 
-then if the Commissioner so directs, each of the donors in question shall be entitled only to such proportion of the relevant amount as the amount of his claim bears to the aggregate amount referred to in paragraph (b); and for this purpose,
-
-“relevant amount” means the amount of the sum so set aside after deduction of any expenses properly incurred by the charity trustees in connection with claims relating to the donors’ gifts.
+then if the Commissioner so directs, each of the donors in question shall be entitled only to such proportion of the relevant amount as the amount of his claim bears to the aggregate amount referred to in paragraph (b); and for this purpose, “relevant amount” means the amount of the sum so set aside after deduction of any expenses properly incurred by the charity trustees in connection with claims relating to the donors’ gifts.
 
 (7) For the purposes of this section, charitable purposes shall be deemed to fail where any difficulty in applying property to those purposes makes that property or the part not applicable cy-près available to be returned to the donors.
 
 (8) In this section, except in so far as the context otherwise requires, references to a donor include persons claiming through or under the original donor, and references to property given include the property for the time being representing the property originally given or property derived from it.
 
-(9) This section shall apply to property given for charitable purposes, notwithstanding that it was so given before the commencement of this Act.
+(9) This section shall apply to property given for charitable purposes, notwithstanding that it was so given before 1st January 1995.
 
 ### Entrusting charity property to Public Trustee and termination of trust
 
@@ -892,7 +868,7 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (c) is a corporation in liquidation;
 
-(d) is incapable of acting by reason of mental disorder within the meaning of the Mental Disorders and Treatment Act (Cap. 178);
+(d) is incapable of acting by reason of mental disorder within the meaning of the Mental Disorders and Treatment Act [Cap. 178];
 
 (e) has not acted, and will not declare his willingness or unwillingness to act; or
 
@@ -940,7 +916,7 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (4) Where a person has been appointed receiver and manager by any such order, the Commissioner may apply to the High Court for directions in relation to any particular matter arising in connection with the discharge of those functions.
 
-(5) The High Court may, on an application under subsection (4), give such directions or make such orders declaring the rights of any person (whether before the Court or not), as it thinks just; and the costs of any such application shall be paid by the charity concerned.
+(5) The High Court may, on an application under subsection (4), give such directions or make such orders declaring the rights of any person (whether before the Court or not), as the Court thinks just; and the costs of any such application shall be paid by the charity concerned.
 
 (6) The Minister may make regulations with respect to —
 
@@ -964,9 +940,9 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (d) he has been removed from the office of charity trustee or trustee for a charity by an order made by the Commissioner under section 25(1)(i) or by the High Court on the ground of any misconduct or mismanagement in the administration of the charity for which he was responsible or to which he was privy, or which he by his conduct contributed to or facilitated; or
 
-(e) he is subject to a disqualification order under section 148, 149 or 154 of the Companies Act (Cap. 50).
+(e) he is subject to a disqualification order under section 148, 149 or 154 of the Companies Act [Cap. 50].
 
-(2) Where (apart from this subsection) a person is disqualified under subsection (1)(b) for being a charity trustee or trustee for any charity which is a company, he shall not be so disqualified if leave has been granted under section 148 of the Companies Act for him to act as director of the charity; and similarly a person shall not be disqualified under subsection (1)(e) for being a charity trustee or trustee for such a charity if leave under the order has been granted for him to act as director of the charity.
+(2) Where (apart from this subsection) a person is disqualified under subsection (1)(b) for being a charity trustee or trustee for any charity which is a company, he shall not be so disqualified if leave has been granted under section 148 of the Companies Act [Cap. 50] for him to act as director of the charity; and similarly a person shall not be disqualified under subsection (1)(e) for being a charity trustee or trustee for such a charity if leave under the order has been granted for him to act as director of the charity.
 
 ### Persons acting as charity trustee while disqualified
 
@@ -994,19 +970,19 @@ the Commissioner may by order direct him to repay to the charity the whole or pa
 
 (b) an order discharging or removing a trustee if the Commissioner is of opinion that it is unnecessary and not in the interest of the trustee to give publicity to the proposal to discharge or remove the trustee.
 
-(3) Before the Commissioner makes an order under this Part to remove without his consent a charity trustee or trustee for a charity, or an officer, agent or employee of a charity, the Commissioner shall, unless he cannot be found or has no known address in Singapore, give him not less than one month’s notice of the Commissioner’s proposal, inviting representations to be made to him within a time specified in the notice.
+(3) Before the Commissioner makes an order under this Part to remove without his consent a charity trustee or trustee for a charity, or an officer, agent or employee of a charity, the Commissioner shall, unless he cannot be found or has no known address in Singapore, give him not less than one month’s notice of the Commissioner’s proposal, inviting representations to be made to the Commissioner within a time specified in the notice.
 
 (4) Where notice is given of any proposal as required by subsection (1), (2) or (3), the Commissioner shall take into consideration any representation made about the proposal within the time specified in the notice, and may (without further notice) proceed with the proposal either without modification or with such modification as appear to him to be desirable.
 
 (5) Where the Commissioner makes an order which is subject to appeal under subsection (4) of section 24, the order shall be published either by giving public notice of it or by giving notice of it to all persons entitled to appeal against it under that subsection, as the Commissioner thinks fit.
 
-(6) Where the Commissioner makes an order under this Part to establish a scheme for the administration of a charity, a copy of the order shall, for not less than one month after the order is published, be available for public inspection at all reasonable times at the Commissioner’s office.
+(6) Where the Commissioner makes an order under this Part to establish a scheme for the administration of a charity, a copy of the order shall, for not less than one month after the order is published, be available for public inspection at all reasonable times at the office of the Commissioner.
 
 (7) Any notice to be given under this section of any proposals or order shall give such particulars of the proposals or order, or such directions for obtaining information about them, as the Commissioner thinks sufficient and appropriate, and any public notice shall be given in such manner as he thinks sufficient and appropriate.
 
 (8) Any notice to be given under this section, other than a public notice, may be given by post and, if given by post, may be addressed to the recipient’s last known address in Singapore.
 
-### Power to authorise dealings with charity property, etc
+### Power to authorise dealings with charity property, etc.
 
 30\.—(1) Subject to this section, where it appears to the Commissioner that any action proposed or contemplated in the administration of a charity is expedient in the interests of the charity, he may by order sanction that action, whether or not it would otherwise be within the powers exercisable by the charity trustees in the administration of the charity; and anything done under the authority of that order shall be deemed to be properly done in the exercise of those powers.
 
@@ -1032,19 +1008,20 @@ the Commissioner may by order direct him to repay to the charity the whole or pa
 
 (7) Where it appears to the Commissioner, on an application for an order under this section or otherwise, that it is desirable for legal proceedings to be taken with reference to any charity (other than an exempt charity) or its property or affairs, and for the proceedings to be taken by the Attorney-General, the Commissioner shall so inform the Attorney-General, and send him such statements and particulars as the Commissioner thinks necessary to explain the matter.
 
-(8) In this section,
-
-“charity proceedings” means proceedings in the High Court brought under the Court’s jurisdiction with respect to charities, or brought under the Court’s jurisdiction with respect to trusts in relation to the administration of a trust for charitable purposes.
+(8) In this section, “charity proceedings” means proceedings in the High Court brought under the jurisdiction of the Court with respect to charities, or brought under the jurisdiction of the Court with respect to trusts in relation to the administration of a trust for charitable purposes.
 
 ### Charitable companies
 
-32\.—(1) Where a charity may be wound up by the High Court under the Companies Act (Cap. 50), a petition for it to be wound up under that Act by the High Court may be presented by the Attorney-General, as well as by any person authorised by that Act.
+32\.—(1) Where a charity may be wound up by the High Court under the Companies Act [Cap. 50], a petition for it to be wound up under that Act by the High Court may be presented by the Attorney-General, as well as by any person authorised by that Act.
 
 (2) Where a charity is a company or other body corporate, and has power to alter the instruments establishing or regulating it as a body corporate, no exercise of that power which has the effect of the body corporate ceasing to be a charity shall be valid so as to affect the application of any property acquired under any disposition or agreement previously made otherwise than for full consideration in money or money’s worth, or of any property representing property so acquired, or of any property representing income which has accrued before the alteration is made, or of the income from any such property as aforesaid.
 
-## PART VII
+## PART VII\*
 
-CONTROL OF FUND-RAISING FOR CHARITABLE INSTITUTIONS
+CONTROL OF FUND-RAISING
+FOR CHARITABLE INSTITUTIONS
+
+\*No date has been appointed for the coming into operation of this Part.
 
 ### Interpretation of this Part
 
@@ -1084,9 +1061,9 @@ CONTROL OF FUND-RAISING FOR CHARITABLE INSTITUTIONS
 
 “promotional venture” means any advertising or sales campaign or any other venture undertaken for promotional purposes;
 
-“radio or television programme” includes any item included in a broadcasting service within the meaning of the Singapore Broadcasting Authority Act 1994;
+“radio or television programme” includes any item included in a broadcasting service within the meaning of the Singapore Broadcasting Authority Act;
 
-“represent” and “solicit” mean respectively represent and solicit in any manner whatever, whether expressly or impliedly and whether done —
+“represent” and “solicit” mean, respectively, represent and solicit in any manner whatever, whether expressly or impliedly and whether done —
 
 (a) by speaking directly to the person or persons to whom the representation or solicitation is addressed (whether or not in his or their presence); or
 
@@ -1112,7 +1089,7 @@ makes any solicitation at the instance of that institution or company; or
 
 (e) any commercial participator.
 
-(3) Paragraph (b) of the definition of “professional fund-raiser” shall also not apply to a person if he does not receive —
+(3) Paragraph (b) of the definition of “professional fund-raiser” shall also not apply to a person if the person does not receive —
 
 (a) more than $10 per day or $1,000 per year by way of remuneration in connection with soliciting money or other property for the benefit of the charitable institution referred to in that paragraph; or
 
@@ -1164,7 +1141,7 @@ but where no person acts in the manner mentioned in paragraph (b) in respect of 
 
 (10) The Minister may by order amend subsection (3)(a) or (b) by substituting a different sum for the sum for the time being specified therein.
 
-### Prohibition on professional fund-raiser, etc., raising funds for charitable institution without an agreement in prescribed form
+### Prohibition on professional fund-raiser, etc. raising funds for charitable institution without agreement in prescribed form
 
 34\.—(1) It shall be unlawful for a professional fund-raiser to solicit money or other property for the benefit of a charitable institution unless he does so in accordance with an agreement with the institution satisfying the prescribed requirements.
 
@@ -1196,7 +1173,7 @@ the agreement shall not be enforceable against the institution except to such ex
 
 (b) any such provision has effect by virtue of an order of the High Court under subsection (4).
 
-### Professional fund-raisers, etc., required to indicate institutions benefitting and arrangements for remuneration
+### Professional fund-raisers, etc., required to indicate institutions benefiting and arrangements for remuneration
 
 35\.—(1) Where a professional fund-raiser solicits money or other property for the benefit of one or more particular charitable institutions, the solicitation shall be accompanied by a statement clearly indicating —
 
@@ -1256,7 +1233,7 @@ the professional fund-raiser or commercial participator concerned shall, within 
 
 “prescribed amount” means such sum in cash as the Minister may, by notification in theGazette, prescribe for the purposes of subsection (4);
 
-“telecommunication system” has the same meaning as in the Telecommunications Authority of Singapore Act (Cap. 323).
+“telecommunication system” has the same meaning as in the Telecommunication Authority of Singapore Act [Cap. 323].
 
 ### Cancellation of payments and agreements made in response to appeals
 
@@ -1308,9 +1285,9 @@ then, if before the end of the period of 7 days beginning with the date when the
 
 and that, unless restrained, he is likely to do further acts of that nature; and
 
-(b) the High Court is also satisfied as to one or more of the matters specified in subsection (2),
+(b) the Court is also satisfied as to one or more of the matters specified in subsection (2),
 
-then, subject to subsection (3), the High Court may grant an injunction restraining the doing of any such acts.
+then, subject to subsection (3), the Court may grant an injunction restraining the doing of any such acts.
 
 (2) The matters referred to in subsection (1)(b) are —
 
@@ -1338,7 +1315,7 @@ the institution shall not, in connection with an application made by it under th
 
 ### False statements relating to institutions which are not registered charities
 
-38\. Where a person solicits money or other property for the benefit of an institution in association with a representation that the institution is a registered charity, and the institution is not such a charity, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+38\. Where a person solicits money or other property for the benefit of an institution in association with a representation that the institution is a registered charity, and the institution is not such a charity, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both .
 
 ## PART VIII
 
@@ -1354,7 +1331,7 @@ FUND-RAISING APPEALS
 
 (2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(3) The Minister, or such person as he may appoint, may exempt any person or class or persons from the provision of this section.
+(3) The Minister, or such person as he may appoint, may exempt any person or class of persons from the provision of this section.
 
 (4) In this section and any regulations made for the purpose of this section —
 
@@ -1380,7 +1357,7 @@ FUND-RAISING APPEALS
 
 MISCELLANEOUS
 
-### Manner of giving notice of charity meetings, etc
+### Manner of giving notice of charity meetings, etc.
 
 41\.—(1) All notices which are required or authorised by the trusts of a charity to be given to a charity trustee, member or subscriber may be sent by post, and, if sent by post, may be addressed to any address given as his in the list of charity trustees, members or subscribers for the time being in use at the office or principal office of the charity.
 
@@ -1406,7 +1383,7 @@ MISCELLANEOUS
 
 (b) any notice or other document required or authorised to be given or served under Part VII; and
 
-(c) any notice required to be served under regulations made under this Act.
+(c) any notice required to be served under any regulations made under this Act.
 
 (2) A document to which this section applies may be served on or given to a person (other than a body corporate) —
 
@@ -1426,9 +1403,7 @@ MISCELLANEOUS
 
 44\.—(1) Where any offence under this Act or any regulations made thereunder is committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-(2) In relation to a body corporate whose affairs are managed by its members,
-
-“director” means a member of the body corporate.
+(2) In relation to a body corporate whose affairs are managed by its members, “director” means a member of the body corporate.
 
 ### Enforcement of orders of Commissioner
 
@@ -1484,15 +1459,13 @@ may on the application of the Commissioner to the High Court be dealt with as fo
 
 (4) All regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Repeal and transitional provisions
+### Transitional provisions
 
-49\.—(1) The Charities Act (Cap. 37) is repealed.
+49\.—(1) Any document or order made or thing done under any provision of the repealed Charities Act [Cap. 37, 1985 Ed], and every such document, order or thing so far as it is subsisting or in force on 1st January 1995 shall continue and have effect as if it had been made or done under the corresponding provisions of this Act.
 
-(2) Any document or order made or thing done under any provision of the repealed Charities Act, and every such document, order or thing so far as it is subsisting or in force on the commencement of this Act shall continue and have effect as if it had been made or done under the corresponding provisions of this Act.
+(2) On 1st January 1995, the Commissioner of Charities, Deputy Commissioner, Assistant Commissioner and other officers appointed under section 3 of the repealed Charities Act shall continue in office and shall be deemed to be appointed under section 3 of this Act.
 
-(3) On the commencement of this Act, the Commissioner of Charities, Deputy Commissioner, Assistant Commissioner and other officers appointed under section 3 of the repealed Charities Act shall continue in office and shall be deemed to be appointed under section 3 of this Act.
-
-(4) In any written law, any reference to the repealed Charities Act shall be read as a reference to this Act.
+(3) In any written law, any reference to the repealed Charities Act shall be read as a reference to this Act.
 
 ## THE SCHEDULE
 
@@ -1506,3 +1479,20 @@ The following institutions, so far as they are charities, are exempt charities w
 
 (b) any other institution which the Minister by order declares to be an exempt charity for the purposes of this Act.
 
+## LEGISLATIVE HISTORY
+
+Charities Act
+
+(CHAPTER 37)
+
+This Legislative History is provided for the convenience of users of the Charities Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 22 of 1994—Charities Act 1994**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 18/1994 published on 29 July 1994)|
+||Date of Second and Third Readings|31 October 1994|
+||Date of commencement|1 January 1995 (except Part VII)|
+|2.|**1995 Revised Edition—Charities Act (Chapter 37)**|
+||Date of operation|15 March 1995|
