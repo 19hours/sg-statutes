@@ -46,6 +46,8 @@
 
 - [10G Gains from short-term transactions of shares in private real property companies](#Gains-from-short-term-transactions-of-shares-in-private-real-property-companies)
 
+- [10J Shares buyback](#Shares-buyback)
+
 - [11 Ascertainment of income of clubs, trade associations, etc.](#Ascertainment-of-income-of-clubs-trade-associations-etc)
 
 - [12 Source of income. Trading operations carried on partly in Singapore](#Source-of-income-Trading-operations-carried-on-partly-in-Singapore)
@@ -1394,6 +1396,62 @@ more than 2 years but not more than 3 years prior to the disposal of the shares;
 
 (g) any gains or profits derived from the disposal of securities which do not form part of the statutory income of any designated unit trust or approved CPF unit trust under section 35(7A).
 
+### Shares buyback
+
+10J\.—(1) Where a company resident in Singapore purchases or otherwise acquires shares issued by it from any shareholder of the company (referred to in this section as a buyback), for the purposes of this section —
+
+(a) the buyback constitutes a market purchase if the purchase of the shares is made on a stock exchange; and
+
+(b) the buyback constitutes an off-market purchase if the purchase of the shares is made otherwise than on a stock exchange.
+
+(2) Where a company undertakes a buyback described in subsection (1), any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is made out of contributed capital of the company, not be regarded as a payment of dividend by the company to the shareholder, and an amount equal to the payment shall be debited to the contributed capital account kept by the company under section 10I(5)(c)(i).
+
+(3) Where a company undertakes a buyback described in subsection (1), any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is not made out of the contributed capital of the company, be deemed to be —
+
+(a) a dividend paid by the company on the date of the payment, and the provisions relating to payment of dividends under this Act and the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86), shall apply, with the necessary modifications, to the dividend deemed to be paid;
+
+(b) a dividend received by the shareholder where the buyback is an off-market purchase made in accordance with an equal access scheme authorised in advance by the company at a general meeting of the company.
+
+(4) Where the dividend deemed to be paid by a company under subsection (3)(a) is a dividend to which section 44 applies, the amount of dividend so paid by the company and the amount of dividend deemed to be received by the shareholder under subsection (3)(b) shall be deemed to be of such a gross amount as after deduction of tax at the rate deductible at the date of payment would be equal to the amount of payment made by the company to the shareholder.
+
+(5) Where any payment made by a company to any shareholder for a buyback is not deemed to be a dividend received by the shareholder under subsection (3)(b), no set-off under section 46 shall be allowed to the shareholder in respect of the payment.
+
+(6) Where a shareholder sells his shares to the company in an off-market purchase referred to in subsection (3)(b) —
+
+(a) no deduction shall be allowed to him in respect of the costs he incurred to acquire the shares he sold to the company; and
+
+(b) the cost of each remaining share in the company held by the shareholder immediately after the sale shall be ascertained by the formula
+
+where A
+
+is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
+
+N
+
+is the number of remaining shares in the company held by the shareholder after the buyback of his shares.
+
+(7) For the purposes of this section —
+
+(a) the contributed capital of a company has the same meaning as in section 10I(5)(b);
+
+(b) where a company undertakes a buyback to which subsection (2) applies and the buyback is effected before any reduction of its share capital to which section 10I applies or any redemption of shares to which section 10K applies, section 10I(5)(c), (d) and (e) shall apply, with the necessary modifications, for the purpose of the buyback and any reference in that section to the first reduction shall be read as a reference to the buyback;
+
+(c) “equal access scheme” means a scheme which satisfies all the following conditions:
+
+(i) the offers under the scheme are to be made to every person who holds shares to purchase or acquire the same percentage of their shares;
+
+(ii) all the persons mentioned in sub- paragraph (i) have a reasonable opportunity to accept the offers made to them; and
+
+(iii) the terms of all the offers are the same except that there shall be disregarded —
+
+(A) differences in consideration attributable to the fact that the offers relate to shares with different accrued dividend entitlements;
+
+(B) differences in consideration attributable to the fact that the offers relate to shares with different amounts remaining unpaid; and
+
+(C) differences in the offers introduced solely to ensure that each shareholder is left with a whole number of shares.
+
+[32/99 wef 18/11/1998]
+
 ### Ascertainment of income of clubs, trade associations, etc.
 
 11\.—(1) Where a body of persons, whether corporate or unincorporate, carries on a club or similar institution and receives from its members not less than half of its gross receipts on revenue account (including entrance fees and subscriptions), it shall not be deemed to carry on a business; but where less than half of such gross receipts are received from members, the whole of the income from transactions both with members and others (including entrance fees and subscriptions) shall be deemed to be receipts from a business, and the body of persons shall be chargeable in respect of the profits therefrom.
@@ -1565,8 +1623,6 @@ EXEMPTION FROM INCOME TAX
 (ii) a person, other than an individual, if that person does not, by himself or in association with others, carry on a business in Singapore, and does not have a permanent establishment in Singapore;
 
 (u) the interest derived by any person from the deposit of moneys in any savings account with the Post Office Savings Bank of Singapore transferred to The Development Bank of Singapore Ltd under the Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998 or in any POSB savings account with The Development Bank of Singapore Ltd approved by the Minister;
-
-[37/98 wef 16/11/1998]
 
 (v) the interest received from such Asian Dollar Bonds as may be approved in writing by the Minister or such person as he may appoint if the interest is received by —
 
@@ -3404,6 +3460,8 @@ Provided that —
 
 [13/84]
 
+[20/91. Act 28/96wef6.9.96]
+
 (6) In this section —
 
 (a) “automation equipment” means any machinery or plant designed for the automation of functions or services in any office or factory;
@@ -4936,8 +4994,6 @@ RATES OF TAX
 
 [28/92]
 
-[(from Y/A 1993.]
-
 [26/93]
 
 [Act 28/96 wef Y/A 1997 & subsq. Ys/A]
@@ -5097,8 +5153,6 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 [28/92]
 
 [26/93]
-
-[(from Y/A 1994.]
 
 [Act 28/96 wef Y/A 1997 & subsq. Ys/A]
 
@@ -8658,3 +8712,8 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 34/98 published on 1 August 1998)|
 ||Date of Second and Third Readings|12 October 1998|
 ||Date of commencement|16 November 1998 (Transfer Date)|
+|129.|**Act 32 of 1999—Income Tax (Amendment) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 24/99 published on 7 July 1999)|
+||Date of Second and Third Readings|17 August 1999|
+||Date of commencement|18 November 1998 (Section 4(b))|
