@@ -22,7 +22,7 @@
 
 [**Part III GRANT OF PROBATE OR LETTERS OF ADMINISTRATION**](#Part-III)
 
-- [6 Provisions as to the number of personal representatives](#Provisions-as-to-the-number-of-personal-representatives)
+- [6 Provisions as to number of personal representatives](#Provisions-as-to-number-of-personal-representatives)
 
 - [7 Notation of domicile](#Notation-of-domicile)
 
@@ -48,9 +48,9 @@
 
 - [13 On failure of executors](#On-failure-of-executors)
 
-- [14 Letters of administration with will annexed to attorney of absent executor](#Letters-of-administration-with-will-annexed-to-attorney-of-absent-executor)
+- [14 Letters of administration with will annexed may be granted to attorney of absent executor](#Letters-of-administration-with-will-annexed-may-be-granted-to-attorney-of-absent-executor)
 
-- [15 To attorney of absent person entitled to letters of administration](#To-attorney-of-absent-person-entitled-to-letters-of-administration)
+- [15 Grant to attorney of absent person entitled to letters of administration](#Grant-to-attorney-of-absent-person-entitled-to-letters-of-administration)
 
 - [16 Codicil propounded after grant of letters of administration](#Codicil-propounded-after-grant-of-letters-of-administration)
 
@@ -64,11 +64,11 @@
 
 - [19 Letters of administration to attorney of person entitled](#Letters-of-administration-to-attorney-of-person-entitled)
 
-[**Letters of administration pendente lite**](#Letters-of-administration-pendente-lite)
+[**Letters of administration pending probate action**](#Letters-of-administration-pending-probate-action)
 
-- [20 Letters of administration pendente lite](#Letters-of-administration-pendente-lite)
+- [20 Letters of administration pending probate action](#Letters-of-administration-pending-probate-action)
 
-[**Letters of administration durante minore aetate**](#Letters-of-administration-durante-minore-aetate)
+[**Letters of administration during infancy**](#Letters-of-administration-during-infancy)
 
 - [21 Infants](#Infants)
 
@@ -90,7 +90,7 @@
 
 - [26 Grants with exception](#Grants-with-exception)
 
-- [27 Administration when limited grant expired and still some part of estate unadministered](#Administration-when-limited-grant-expired-and-still-some-part-of-estate-unadministered)
+- [27 Administration when limited grant expired and some part of estate unadministered](#Administration-when-limited-grant-expired-and-some-part-of-estate-unadministered)
 
 [**Part IV OATH**](#Part-IV)
 
@@ -122,31 +122,29 @@
 
 [**Part IX PROTECTION OF ESTATES PENDING GRANT**](#Part-IX)
 
-- [37 Vesting of estate in certain circumstances between death and grant of administration](#Vesting-of-estate-in-certain-circumstances-between-death-and-grant-of-administration)
+- [37 Vesting of estate in Public Trustee in certain circumstances between death and grant of administration](#Vesting-of-estate-in-Public-Trustee-in-certain-circumstances-between-death-and-grant-of-administration)
 
-- [37A Transitional and savings](#Transitional-and-savings)
+- [38 Estate vested in Chief Justice before 1st October 1997](#Estate-vested-in-Chief-Justice-before-1st-October-1997)
 
-- [38 Receiver pending grant](#Receiver-pending-grant)
+- [39 Receiver pending grant](#Receiver-pending-grant)
 
-- [39 Sale by order of court](#Sale-by-order-of-court)
+- [40 Sale by order of court](#Sale-by-order-of-court)
 
-- [40 Application of rules relating to receivers](#Application-of-rules-relating-to-receivers)
+- [41 Application of rules relating to receivers](#Application-of-rules-relating-to-receivers)
 
-- [41 Penalty](#Penalty)
+- [42 Penalty](#Penalty)
 
-- [42 No suit against receiver](#No-suit-against-receiver)
+- [43 No suit against receiver](#No-suit-against-receiver)
 
-- [43 Receiver’s lien](#Receiver’s-lien)
+- [44 Receiver’s lien](#Receiver’s-lien)
 
-- [44 District Courts](#District-Courts)
+- [45 District Courts](#District-Courts)
 
 [**Part X RE-SEALING OF PROBATES AND LETTERS OF ADMINISTRATION GRANTED OUT OF SINGAPORE**](#Part-X)
 
-- [45 Interpretation](#Interpretation)
+- [46 Interpretation](#Interpretation)
 
-- [46 Power of court to re-seal](#Power-of-court-to-re-seal)
-
-- [47 (Repealed)](#Repealed)
+- [47 Power of court to re-seal](#Power-of-court-to-re-seal)
 
 - [48 Provisions for estate duty](#Provisions-for-estate-duty)
 
@@ -170,7 +168,7 @@
 
 - [57 Administration of assets](#Administration-of-assets)
 
-- [58 Charges on property of deceased to be paid primarily out of the property charged](#Charges-on-property-of-deceased-to-be-paid-primarily-out-of-the-property-charged)
+- [58 Charges on property of deceased to be paid primarily out of property charged](#Charges-on-property-of-deceased-to-be-paid-primarily-out-of-property-charged)
 
 - [59 Administration of estates by consular officers](#Administration-of-estates-by-consular-officers)
 
@@ -180,9 +178,9 @@
 
 - [62 Administration by official assignee](#Administration-by-official-assignee)
 
-- [63 Payment for minor’s maintenance, etc., out of property not exceeding in value $25,000 held by official assignee](#Payment-for-minor’s-maintenance-etc-out-of-property-not-exceeding-in-value-$25000-held-by-official-assignee)
+- [63 Payment for minor’s maintenance, etc., out of property not exceeding $25,000 in value held by official assignee](#Payment-for-minor’s-maintenance-etc-out-of-property-not-exceeding-$25000-in-value-held-by-official-assignee)
 
-- [64 Exemption from necessity of giving notice of distribution of property of less than $10,000](#Exemption-from-necessity-of-giving-notice-of-distribution-of-property-of-less-than-$10000)
+- [64 Exemption from necessity of giving notice of distribution of property of less than $10,000 in value](#Exemption-from-necessity-of-giving-notice-of-distribution-of-property-of-less-than-$10000-in-value)
 
 - [65 When interest is payable into Consolidated Fund](#When-interest-is-payable-into-Consolidated-Fund)
 
@@ -202,15 +200,17 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Probate and Administration Act
 
 (CHAPTER 251)
 
 (Original Enactment: Ordinance 24 of 1934)
 
-REVISED EDITION 1985
+REVISED EDITION 2000
 
-(30th March 1987)
+(1st July 2000)
 
 An Act relating to the grant of probate and letters of administration.
 
@@ -228,9 +228,17 @@ PRELIMINARY
 
 2\. In this Act, unless there is something repugnant in the subject or context —
 
-“court” means the High Court or a judge when sitting in open court in all cases where proceedings are taken in the High Court and means the District Court or a District Judge when sitting in open court in all cases where proceedings are taken in a District Court;
+“court” means —
 
-“judge” means a judge sitting in chambers in all cases where proceedings are taken in the High Court and means a District Judge sitting in chambers in all cases where proceedings are taken in a District Court;
+(a) the High Court or a judge when sitting in open court in all cases where proceedings are taken in the High Court; and
+
+(b) a District Court or a District Judge when sitting in open court in all cases where proceedings are taken in a District Court;
+
+“judge” means —
+
+(a) a judge sitting in chambers in all cases where proceedings are taken in the High Court; and
+
+(b) a District Judge sitting in chambers in all cases where proceedings are taken in a District Court;
 
 “letters of administration” means a grant under the seal of the court issuing the same, authorising the person or persons therein named to administer an intestate’s estate in accordance with law;
 
@@ -244,9 +252,17 @@ PRELIMINARY
 
 “probate action” means a cause or matter in which a petition for probate or letters of administration is contested by any person, and includes any application to alter or revoke the grant of any probate or letters of administration;
 
-“registrar” means the Registrar or the Deputy Registrar or Assistant Registrar of the Supreme Court in all cases where proceedings are taken in the High Court and means a registrar or deputy registrar of a District Court in all cases where proceedings are taken in a District Court to which a registrar is attached and means a District Judge in all cases where proceedings are taken in any other District Court;
+“registrar” means —
+
+(a) the Registrar or the Deputy Registrar or Assistant Registrar of the Supreme Court in all cases where proceedings are taken in the High Court;
+
+(b) a registrar or deputy registrar of a District Court in all cases where proceedings are taken in a District Court to which a registrar is attached; and
+
+(c) a District Judge in all cases where proceedings are taken in any other District Court;
 
 “will” includes any codicil or other testamentary document.
+
+[7/97]
 
 ## PART II
 
@@ -256,39 +272,49 @@ RENUNCIATION
 
 3\.—(1) Any person who is or may become entitled to any probate or letters of administration may expressly renounce his right to such grant.
 
-(2) Such renunciation may be made orally by the person renouncing or by his advocate and solicitor, on the hearing of any petition or probate action, or in writing signed by the person so renouncing and attested either by an advocate and solicitor or by any person before whom an affidavit may be sworn.
+(2) Such renunciation may be made —
+
+(a) orally by the person renouncing or by his advocate and solicitor, on the hearing of any petition or probate action; or
+
+(b) in writing signed by the person so renouncing and attested either by an advocate and solicitor or by any person before whom an affidavit may be sworn.
 
 ### Constructive renunciation
 
 4\.—(1) Any person having or claiming any interest in the estate of a deceased person, or any creditor of a deceased person, may, without applying for probate or letters of administration, cause to be issued a citation directed to the executor or executors appointed by the deceased’s will, or to any person appearing to have a prior right to probate or letters of administration, calling upon the person cited to accept or renounce that right.
 
-(2) Any person so cited may enter an appearance to the citation, but if he makes default in appearance thereto, he shall be deemed to have renounced his right; and if, having appeared, he does not proceed to apply for probate or letters of administration, the person so citing may apply for an order that the person cited, unless he applies for and obtains a grant within a time limited by the order, shall be deemed to have renounced his right thereto, and an order may be made accordingly.
+(2) Any person so cited may enter an appearance to the citation, but if he makes default in appearance thereto, he shall be deemed to have renounced his right.
+
+(3) If, having appeared, the person so cited does not proceed to apply for probate or letters of administration, the person so citing may apply for an order that the person cited, unless he applies for and obtains a grant within a time limited by the order, shall be deemed to have renounced his right thereto, and an order may be made accordingly.
 
 ### Effect of renunciation
 
-5\. The renunciation, whether made expressly in the manner provided by section 3, or constructively in the manner provided by section 4, shall preclude the person so renouncing from applying thereafter for probate or letters of administration:
+5\.—(1) The renunciation, whether made expressly in the manner provided by section 3, or constructively in the manner provided by section 4, shall preclude the person so renouncing from applying thereafter for probate or letters of administration.
 
-Provided that the court may at any time allow the person so renouncing to withdraw his renunciation for the purpose of taking a grant, if it is shown that the withdrawal is for the benefit of the estate or of those interested under the will or intestacy.
+(2) Notwithstanding subsection (1), the court may at any time allow the person so renouncing to withdraw his renunciation for the purpose of taking a grant, if it is shown that the withdrawal is for the benefit of the estate or of those interested under the will or intestacy.
 
 ## PART III
 
 GRANT OF PROBATE OR LETTERS OF ADMINISTRATION
 
-### Provisions as to the number of personal representatives
+### Provisions as to number of personal representatives
 
-6\.—(1) Probate or letters of administration shall not be granted to more than 4 persons in respect of the same property, and letters of administration shall, if there is a minority or if a life interest arises under the will, be granted either to a trust corporation, with or without an individual, or to not less than two individuals.
+6\.—(1) Probate or letters of administration shall not be granted to more than 4 persons in respect of the same property.
 
-(2) The court in granting letters of administration may act on such prima facie evidence, furnished by the applicant or any other person, as to whether or not there is a minority or life interest, as may be prescribed by rules made under any written law for the time being in force relating to the courts.
+(2) Letters of administration shall, if there is a minority or if a life interest arises under the will, be granted either to a trust corporation, with or without an individual, or to not less than 2 individuals.
 
-(3) If there is only one personal representative (not being a trust corporation) then, during the minority of a beneficiary or the subsistence of a life interest and until the estate is fully administered, the court may, on the application of any person interested or of the guardian, committee or receiver of any such person, appoint one or more personal representatives in addition to the existing personal representative in accordance with rules made under any written law for the time being in force relating to the courts.
+(3) The court in granting letters of administration may act on such prima facie evidence, furnished by the applicant or any other person, as to whether or not there is a minority or life interest, as may be prescribed by rules made under any written law for the time being in force relating to the courts.
 
-(4) This section shall apply to grants made after 1st January 1935 whether the testator or interstate died before or after that date.
+(4) If there is only one personal representative (not being a trust corporation) then, during the minority of a beneficiary or the subsistence of a life interest and until the estate is fully administered, the court may, on the application of any person interested or of the guardian, committee or receiver of any such person, appoint one or more personal representatives in addition to the existing personal representative in accordance with rules made under any written law for the time being in force relating to the courts.
 
-(5) For the purposes of this section, “trust corporation” means the Public Trustee or a corporation registered as a trust company under the Trust Companies Act [Cap. 336].
+(5) This section shall apply to grants made after 1st January 1935 whether the testator or intestate died before or after that date.
+
+(6) For the purposes of this section, “trust corporation” means the Public Trustee or a corporation registered as a trust company under the Trust Companies Act (Cap. 336).
 
 ### Notation of domicile
 
-7\. A petitioner for a grant of probate or of letters of administration may at any time apply to the registrar by summons intituled in the estate of the deceased person for an order that a notation be endorsed on the grant that the deceased person died domiciled in Singapore, and the registrar, on being satisfied by affidavit and by such further evidence as he may require that the testator or intestate died domiciled in Singapore, may write and sign a note or memorandum upon such grant stating that the testator or intestate died domiciled in Singapore.
+7\.—(1) A petitioner for a grant of probate or of letters of administration may at any time apply to the registrar by summons intituled in the estate of the deceased person for an order that a notation be endorsed on the grant that the deceased person died domiciled in Singapore.
+
+(2) The registrar, on being satisfied by affidavit and by such further evidence as he may require that the testator or intestate died domiciled in Singapore, may write and sign a note or memorandum upon such grant stating that the testator or intestate died domiciled in Singapore.
 
 ### Grant of probate
 
@@ -324,19 +350,19 @@ Where codicil propounded after probate
 
 ### Codicil propounded after probate
 
-12\. Where, after probate has been granted, a codicil of the will is propounded, separate probate may be granted of the codicil:
+12\.—(1) Where, after probate has been granted, a codicil of the will is propounded, separate probate may be granted of the codicil.
 
-Provided that where the codicil expressly or impliedly revokes the appointment of any executor to whom probate has been granted, the probate shall be revoked, and a new probate granted of the will and codicil together.
+(2) Where the codicil expressly or impliedly revokes the appointment of any executor to whom probate has been granted, the probate shall be revoked, and a new probate shall be granted of the will and codicil together.
 
 Letters of administration with will annexed
 
 ### On failure of executors
 
-13\. Where —
+13\.—(1) Where —
 
 (a) no executor is appointed by a will;
 
-(b) the executor or all the executors appointed by will are legally incapable of acting as such, or have renounced;
+(b) the executor or all the executors appointed by will are legally incapable of acting as such, or have renounced the right to act as such;
 
 (c) no executor survives the testator;
 
@@ -344,9 +370,9 @@ Letters of administration with will annexed
 
 (e) the executors appointed by any will do not appear and extract probate,
 
-letters of administration with the will annexed may be granted to such person or persons as the court considers the fittest to administer the estate:
+letters of administration with the will annexed may be granted to such person or persons as the court considers the fittest to administer the estate.
 
-Provided that a prior right to such grant shall belong to the following persons in the following order:
+(2) A prior right to a grant under subsection (1) shall belong to the following persons in the following order:
 
 (a) a universal or residuary legatee;
 
@@ -358,11 +384,11 @@ Provided that a prior right to such grant shall belong to the following persons 
 
 (e) a creditor of the deceased.
 
-### Letters of administration with will annexed to attorney of absent executor
+### Letters of administration with will annexed may be granted to attorney of absent executor
 
 14\. Where an executor appointed by a will is absent from Singapore, and there is no other executor within Singapore willing to act, letters of administration with the will annexed may be granted to a duly authorised attorney of the absent executor, limited until he obtains probate for himself, and in the meantime to any purpose to which the attorney’s authority is limited.
 
-### To attorney of absent person entitled to letters of administration
+### Grant to attorney of absent person entitled to letters of administration
 
 15\. Where any person to whom letters of administration with the will annexed might be granted under section 13 is absent from Singapore, letters of administration with the will annexed may be granted to his duly authorised attorney, limited as described in section 14.
 
@@ -382,9 +408,11 @@ Letters of administration on intestacy
 
 18\.—(1) When a person has died intestate, the court may grant letters of administration of his estate.
 
-(2) In granting such letters of administration the court shall have regard to the rights of all persons interested in the estate of the deceased person or the proceeds of sale thereof, and in regard to land settled previously to the death of the deceased, letters of administration may be granted to the trustees of the settlement, and any such grant of letters of administration may be limited in any way the court thinks fit.
+(2) In granting such letters of administration the court shall have regard to the rights of all persons interested in the estate of the deceased person or the proceeds of sale thereof, and in regard to land settled previously to the death of the deceased, letters of administration may be granted to the trustees of the settlement.
 
-(3) Without prejudice to the generality of subsection (2) —
+(3) Any such grant of letters of administration may be limited in any way the court thinks fit.
+
+(4) Without prejudice to the generality of subsection (2) —
 
 (a) letters of administration may be granted to the husband or widow or next of kin or any of them;
 
@@ -400,31 +428,35 @@ Letters of administration on intestacy
 
 letters of administration of the estate and effects of the intestate may be granted by the court to such person as the court thinks fit for the purpose.
 
-(4) Nothing in this section shall affect any law by which special provision is made regarding the estates of persons of a particular religion or race.
+(5) Nothing in this section shall affect any law by which special provision is made regarding the estates of persons of a particular religion or race.
 
 ### Letters of administration to attorney of person entitled
 
 19\. Where a person entitled to letters of administration in case of intestacy is absent from Singapore, and no person equally entitled is willing to act, letters of administration may be granted to an authorised attorney of the absent person, limited until he obtains a grant to himself.
 
-Letters of administration pendente lite
+Letters of administration pending probate action
 
-### Letters of administration pendente lite
+### Letters of administration pending probate action
 
 20\. Pending any probate action, letters of administration may be granted to such person as the court may appoint, limited so that the administrator shall not be empowered to distribute the estate, and shall be subject to such control by, and direction of, the court as the court thinks fit.
 
-Letters of administration durante minore aetate
+Letters of administration during infancy
 
 ### Infants
 
-21\.—(1) No probate or letters of administration shall be granted to a person while he is an infant; but where an infant would, but for his infancy, be entitled to probate or letters of administration, letters of administration with or without the will annexed may, subject to section 6(1), be granted to the guardian of the person and property of the infant, or to such person as the court thinks fit, limited until the infant obtains a grant to himself.
+21\.—(1) No probate or letters of administration shall be granted to a person while he is an infant.
 
-(2) Where there are two or more infant executors or persons so entitled, any grant made under subsection (1) shall be limited until one or other of them obtains a grant.
+(2) Where an infant would, but for his infancy, be entitled to probate or letters of administration, letters of administration with or without the will annexed may, subject to section 6(1), be granted to the guardian of the person and property of the infant, or to such person as the court thinks fit, limited until the infant obtains a grant to himself.
+
+(3) Where there are 2 or more infant executors or persons so entitled, any grant made under subsection (2) shall be limited until any of them obtains a grant.
 
 Letters of administration during lunacy
 
 ### Lunatics
 
-22\. No probate or letters of administration shall be granted to a lunatic or person of unsound mind, but where any such person, if of sound mind, would be entitled to probate or letters of administration, letters of administration with or without the will annexed may be granted to the person to whom the care of his estate has been lawfully committed, or to such person as to the court seems fit, for the use and benefit of the lunatic or person of unsound mind, until he becomes of sound mind and obtains a grant to himself.
+22\.—(1) No probate or letters of administration shall be granted to a lunatic or person of unsound mind.
+
+(2) Where any such person, if of sound mind, would be entitled to probate or letters of administration, letters of administration with or without the will annexed may be granted to the person to whom the care of his estate has been lawfully committed, or to such person as the court thinks fit, for the use and benefit of the lunatic or person of unsound mind, until he becomes of sound mind and obtains a grant to himself.
 
 Letters of administration limited to trust property
 
@@ -448,9 +480,11 @@ Death of one of several executors, etc.
 
 ### Grants with exception
 
-26\. A grant of probate or letters of administration may be made subject to such exception as the will or the circumstances of the case require. In any such case a further grant may be made of the part of the estate so excepted.
+26\.—(1) A grant of probate or letters of administration may be made subject to such exception as the will or the circumstances of the case require.
 
-### Administration when limited grant expired and still some part of estate unadministered
+(2) A further grant may be made of the part of the estate excepted under subsection (1).
+
+### Administration when limited grant expired and some part of estate unadministered
 
 27\. When a limited grant has expired by effluxion of time or the happening of the event or contingency on which it was limited, and there is still some part of the deceased’s estate unadministered, letters of administration shall be granted to those persons to whom original grants might have been made.
 
@@ -460,7 +494,9 @@ OATH
 
 ### Oath
 
-28\. Upon the grant of any probate or letters of administration, the grantee shall take an oath in the prescribed form, faithfully to administer the estate and to account for the same. This section shall not apply where the grantee is the Public Trustee or the official assignee or a trust company.
+28\.—(1) Upon the grant of any probate or letters of administration, the grantee shall take an oath in the prescribed form, faithfully to administer the estate and to account for the same.
+
+(2) Subsection (1) shall not apply where the grantee is the Public Trustee, the official assignee or a trust company.
 
 ## PART V
 
@@ -470,15 +506,17 @@ SECURITY
 
 29\.—(1) Where security is required the registrar shall determine its sufficiency.
 
-(2) The security shall ordinarily be by bond in the prescribed form by the grantee and two sureties in the amount at which the estate within the jurisdiction is sworn, without deduction of any debts due by the deceased, other than debts secured by mortgage; but the court or a judge or any registrar whom the Chief Justice may specially appoint for that purpose may for any sufficient reason increase or decrease the number of the sureties, or dispense with them, or reduce the amount of the bond.
+(2) The security shall ordinarily be by bond in the prescribed form by the grantee and 2 sureties in the amount at which the estate within the jurisdiction is sworn, without deduction of any debts due by the deceased, other than debts secured by mortgage.
 
-(3) Where the official assignee has obtained a grant of letters of administration, he shall not be required to give security.
+(3) The court or a judge or any registrar whom the Chief Justice may specially appoint for that purpose may for any sufficient reason increase or decrease the number of the sureties, or dispense with them, or reduce the amount of the bond.
 
-(4) When the administrator is entitled to the whole of the estate after payment of the debts, sureties in the bond may ordinarily be dispensed with.
+(4) Where the official assignee has obtained a grant of letters of administration, he shall not be required to give security.
 
-(5) Sureties may be required by the registrar to justify.
+(5) When the administrator is entitled to the whole of the estate after payment of the debts, sureties in the bond may ordinarily be dispensed with.
 
-(6) In the case of administrations whether with or without the will annexed the person to whom the grant is made or on whose behalf it is sealed shall give security for the due administration of the estate.
+(6) Sureties may be required by the registrar to justify.
+
+(7) In the case of administrations whether with or without the will annexed the person to whom the grant is made or on whose behalf it is sealed shall give security for the due administration of the estate.
 
 ### Bond by creditor administrator
 
@@ -502,7 +540,9 @@ CAVEATS
 
 ### Caveat
 
-33\. Any person having or claiming to have interest may, at any time after the death of a deceased person and before probate or letters of administration have been granted to his estate, enter a general caveat, so that no probate or letters of administration shall be granted without notice to the caveator, and after entry of any such caveat no such grant shall be made until the caveator has been given opportunity to contest the right of any petitioner to a grant.
+33\.—(1) Any person having or claiming to have interest may, at any time after the death of a deceased person and before probate or letters of administration have been granted to his estate, enter a general caveat, so that no probate or letters of administration shall be granted without notice to the caveator.
+
+(2) After entry of any such caveat no such grant shall be made until the caveator has been given opportunity to contest the right of any petitioner .
 
 ## PART VIII
 
@@ -510,25 +550,27 @@ DISTRICT COURTS
 
 ### Jurisdiction of District Courts
 
-34\.—(1) District Courts shall exercise the jurisdiction conferred on them by any written law for the time being in force relating to the courts in accordance with this Act, subject to sections 35 and 36 and to the Subordinate Courts Rules*.
+34\.—(1) District Courts shall exercise the jurisdiction conferred on them by any written law for the time being in force relating to the courts in accordance with this Act, subject to sections 35 and 36 and to the Rules of Court (Cap. 322, R 5).
 
-*SeeG.N. No. S 59/86.
+[7/76]
 
-(2) A District Court may, subject to the Subordinate Courts Rules*, allow any citation issued under section 4 or under any such Rules to be served out of the jurisdiction by registered post upon any person required to be served therewith wherever he may be whether in Singapore or elsewhere.
-
-SeeG.N. No. S 59/86.
+(2) A District Court may, subject to the Rules of Court, allow any citation issued under section 4 or under any such Rules to be served out of the jurisdiction by registered post upon any person required to be served therewith wherever he may be whether in Singapore or elsewhere.
 
 [7/76]
 
 ### Grants in excess of jurisdiction not to be invalid
 
-35\.—(1) No probate or letters of administration granted by a District Court shall be invalid by reason of the assets and effects of the deceased being subsequently found to be of greater value than $250,000; but the grantee shall be liable for the estate duty payable in respect of the true value of the estate, and for all such court fees as would have been payable had application for the grant been made to the High Court; and he shall be required to give such security for the due administration of the estate as is required in the case of a grant by the High Court.
+35\.—(1) No probate or letters of administration granted by a District Court shall be invalid by reason of the assets and effects of the deceased being subsequently found to be of greater value than $250,000.
 
-(2) Unless in such case the grantee complies without delay with the requirements of subsection (1), the grant may be revoked, on the application of the Commissioner of Estate Duties, or of the Registrar of the Supreme Court, or of any person having any interest as beneficiary or creditor in the assets of the estate.
+(2) The grantee shall be —
 
-[7/76]
+(a) liable for the estate duty payable in respect of the true value of the estate, and for all such court fees as would have been payable had the application for the grant been made to the High Court; and
 
-[3/87]
+(b) required to give such security for the due administration of the estate as is required in the case of a grant by the High Court.
+
+[7/76; 3/87]
+
+(3) Unless in such case the grantee complies without delay with the requirements of subsection (2), the grant may be revoked, on the application of the Commissioner of Estate Duties, or of the Registrar of the Supreme Court, or of any person having any interest as beneficiary or creditor in the assets of the estate.
 
 ### Security in case of grant of administration by District Court
 
@@ -538,9 +580,11 @@ SeeG.N. No. S 59/86.
 
 PROTECTION OF ESTATES PENDING GRANT
 
-### Vesting of estate in certain circumstances between death and grant of administration
+### Vesting of estate in Public Trustee in certain circumstances between death and grant of administration
 
 37\.—(1) Where a person dies intestate, his real and personal estate shall vest in the Public Trustee.
+
+[7/97]
 
 (2) Where a testator dies and —
 
@@ -550,47 +594,75 @@ PROTECTION OF ESTATES PENDING GRANT
 
 the real and personal estate of which the testator disposes by the will shall vest in the Public Trustee with effect from the time specified in paragraph (a) or (b) in relation to each case.
 
+[7/97]
+
 (3) The vesting by virtue of this section of any estate in the Public Trustee shall not, without more, confer or impose on him any power, duty, right, equity, obligation or liability in respect of the estate.
+
+[7/97]
 
 (4) Any estate or part of an estate vested in the Public Trustee under subsection (1) or (2) shall cease to be so vested on the grant of administration in respect of the estate or part in question.
 
-### Transitional and savings
+[7/97]
 
-37A\.—(1) Any estate or part of an estate of a deceased person vested in the Chief Justice under section 37 immediately before the commencement of section 4 of the Statutes (Miscellaneous Amendments) Act 1997 (referred to in this section as the appointed day) shall on the appointed day vest in the Public Trustee.
+### Estate vested in Chief Justice before 1st October 1997
 
-(2) Subject to subsection (3), the amendment made to this Act by the Statutes (Miscellaneous Amendments) Act 1997 applies in respect of a person’s estate whether the person died before or after the appointed day.
+38\.—(1) Any estate or part of an estate of a deceased person vested in the Chief Justice under section 37 immediately before 1st October 1997 shall on that date vest in the Public Trustee.
 
-(3) Where, but for this subsection, the vesting under section 37 (as amended by the Statutes (Miscellaneous Amendments) Act 1997) of any estate of a testator would have effect from a time before the appointed day, the vesting shall have effect from that day and section 37(2) shall have effect subject to this.
+[7/97]
 
-[7/97 wef 01/10/1997]
+(2) Subject to subsection (3), the amendment made to this Act by the Statutes (Miscellaneous Amendments) Act 1997 (Act 7 of 1997) applies in respect of a person’s estate whether the person died before, on or after 1st October 1997.
+
+[7/97]
+
+(3) Where, but for this subsection, the vesting under section 37 (as amended by the Statutes (Miscellaneous Amendments) Act 1997) of any estate of a testator would have effect from a time before 1st October 1997, the vesting shall have effect from that date and section 37(2) shall have effect subject to this.
+
+[37A
+
+[7/97]
 
 ### Receiver pending grant
 
-38\. Where any person dies leaving property within Singapore, the court or a judge may, if it appears, on the application by motion of the official assignee or of any person claiming to be interested in the property, or having the custody or control thereof at the time of the death of the deceased, or being at such time an attorney of the deceased, that there is danger that the property may be wasted, appoint the official assignee or such other person as the court or judge thinks fit, to be a receiver of the property pending a grant of probate or letters of administration.
+39\. Where any person dies leaving property within Singapore, the court or a judge may, if it appears, on the application by motion of the official assigneeor of any person claiming to be interested in the property, or having the custody or control thereof at the time of the death of the deceased, or being at such time an attorney of the deceased, that there is danger that the property may be wasted, appoint the official assignee or such other person as the court or judge thinks fit, to be a receiver of the property pending a grant of probate or letters of administration.
+
+[38
 
 ### Sale by order of court
 
-39\. The court or a judge may, on application by a receiver appointed under section 38, or any person interested in the estate, order the sale of the whole or any part of such property, if it appears that such sale will be beneficial to the estate.
+40\. The court or a judge may, on application by a receiver appointed under section 39, or any person interested in the estate, order the sale of the whole or any part of such property, if it appears that such sale will be beneficial to the estate.
+
+[39
 
 ### Application of rules relating to receivers
 
-40\. A receiver appointed under section 38 shall be subject to all Rules of Court relating to receivers generally, but neither the official assignee nor the Public Trustee shall be required to furnish security.
+41\. A receiver appointed under section 39 shall be subject to the Rules of Court (Cap. 322, R 5) relating to receivers generally, but neither the official assignee nor the Public Trustee shall be required to furnish security.
+
+[40
 
 ### Penalty
 
-41\. Any person who, without lawful authority, removes or attempts to remove from Singapore any portion of the property of which a receiver has been appointed under section 38, or destroys, conceals, or refuses to yield up the same to the receiver, shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+42\. Any person who, without lawful authority, removes or attempts to remove from Singapore any portion of the property of which a receiver has been appointed under section 39, or destroys, conceals, or refuses to yield up the same to the receiver, shall be guilty of an offence and shall be liable on conviction by a Magistrates’ Court to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[41
 
 ### No suit against receiver
 
-42\. No suit shall be brought against a receiver appointed under section 38 in relation to anything done or intended to be done by him in respect of the property of the deceased in exercise or intended exercise of the powers vested in him; but any person aggrieved by anything so done, or intended to be done, may apply to the court or a judge for directions in the matter, and the court or judge may make such order in the premises as is just.
+43\.—(1) No suit shall be brought against a receiver appointed under section 39 in relation to anything done or intended to be done by him in respect of the property of the deceased in exercise or intended exercise of the powers vested in him.
+
+(2) Any person aggrieved by anything so done, or intended to be done, may apply to the court or a judge for directions in the matter, and the court or judge may make such order in the premises as is just.
+
+[42
 
 ### Receiver’s lien
 
-43\. A receiver appointed under section 38 shall have a lien upon the property entrusted to him for all costs and expenses properly incurred by him in the exercise of his duties as such receiver.
+44\. A receiver appointed under section 39 shall have a lien upon the property entrusted to him for all costs and expenses properly incurred by him in the exercise of his duties as such receiver.
+
+[43
 
 ### District Courts
 
-44\. This Part does not apply to District Courts.
+45\. This Part shall not apply to District Courts.
+
+[44
 
 ## PART X
 
@@ -598,7 +670,7 @@ RE-SEALING OF PROBATES AND LETTERS OF ADMINISTRATION GRANTED OUT OF SINGAPORE
 
 ### Interpretation
 
-45\. In this Part —
+46\. In this Part —
 
 “Commonwealth” shall, for the purposes of this Part, be deemed to include any country in the Commonwealth which the Minister may, by notification in theGazette, specify to be a country to which this Part applies;
 
@@ -606,39 +678,53 @@ RE-SEALING OF PROBATES AND LETTERS OF ADMINISTRATION GRANTED OUT OF SINGAPORE
 
 “probate” and “letters of administration” include confirmation in Scotland and any instrument having in any country or territory the same effect which, under the law of Singapore, is given to probate or letters of administration respectively.
 
+[45
+
+[7/97; 2/99]
+
 ### Power of court to re-seal
 
-46\.—(1) Subject to subsections (3) and (4), where —
+47\.—(1) Subject to subsections (3) and (4), where —
 
-(a) a court of probate in any part of the Commonwealth has, either before, on or after the date of commencement of the Probate and Administration (Amendment) Act 1999, granted probate or letters of administration in respect of the estate of a deceased person; or
+(a) a court of probate in any part of the Commonwealth has, either before, on or after 25th February 1999, granted probate or letters of administration in respect of the estate of a deceased person; or
 
 (b) a court of probate in a country or territory, being a country or territory declared by the Minister under subsection (5) as a country or territory to which this subsection applies, has, on or after a date specified by the Minister in respect of that country or territory (referred to in this section as the relevant date), granted probate or letters of administration in respect of the estate of a deceased person,
 
 the probate or letters of administration so granted, or a certified copy thereof, sealed with the seal of the court granting the same, may, on being produced to and a copy thereof deposited in the High Court, be sealed with the seal of the Supreme Court.
 
+[2/99]
+
 (2) Upon sealing under subsection (1), the probate or letters of administration shall be of the like force and effect, and have the same operation in Singapore, as if granted by the High Court to the person by whom or on whose behalf the application for sealing was made.
+
+[2/99]
 
 (3) Before the probate or letters of administration is sealed with the seal of the Supreme Court, the High Court may require such evidence as it thinks fit as to the domicile of the deceased person.
 
-(4) If it appears that the deceased was not, at the time of his death, domiciled within the jurisdiction of the court from which the grant issued, the seal shall not be affixed unless the grant is such as the High Court would have made.
+[2/99]
+
+(4) If it appears that the deceased was not, at the time of his death, domiciled within the jurisdiction of the court from which the grant was issued, the seal shall not be affixed unless the grant is such as the High Court would have made.
+
+[2/99]
 
 (5) For the purposes of subsection (1)(b), the Minister may, by notification in theGazette—
 
 (a) declare any country or territory, which is not a part of the Commonwealth, as a country or territory to which subsection (1) applies; and
 
-(b) specify the relevant date in respect of that country or territory which may be a date before, on or after the date of commencement of the Probate and Administration (Amendment) Act 1999.
+(b) specify the relevant date in respect of that country or territory which may be a date before, on or after 25th February 1999.
 
-[2/99 wef 25/02/1999]
+[46
 
-47\. [Repealed by Act 2/99 wef 25/02/1999]
+[2/99]
 
 ### Provisions for estate duty
 
-48\. The provisions of the Estate Duty Act [Cap. 96], including the penal provisions thereof, shall apply as if the person who applies for sealing under this Part were an executor within the meaning of that Act, and section 41 of that Act shall apply mutatis mutandis to the re-sealing of grants under this Part.
+48\. The provisions of the Estate Duty Act (Cap. 96), including the penal provisions thereof, shall apply as if the person who applies for sealing under this Part were an executor within the meaning of that Act, and section 42 of that Act shall apply with the necessary modifications to the re-sealing of grants under this Part.
 
 ### Security on re-sealing letters of administration
 
-49\. Before the sealing of letters of administration under this Part, the administrator or his attorney shall give security by a bond in the prescribed form for the due administration of the estate. Such security shall be subject to section 29 relating to security to be given in the case of a grant of letters of administration.
+49\.—(1) Before the sealing of letters of administration under this Part, the administrator or his attorney shall give security by a bond in the prescribed form for the due administration of the estate.
+
+(2) Such security shall be subject to section 29 relating to security to be given in the case of a grant of letters of administration.
 
 ### Security for creditors in Singapore
 
@@ -648,7 +734,7 @@ the probate or letters of administration so granted, or a certified copy thereof
 
 ### Notice of sealing
 
-51\. Notice of the sealing of a grant under this Part shall be sent forthwith by the registrar to the court from which the grant issued.
+51\. Notice of the sealing of a grant under this Part shall be sent forthwith by the registrar to the court from which the grant is issued.
 
 ### Notice of revocation
 
@@ -656,7 +742,7 @@ the probate or letters of administration so granted, or a certified copy thereof
 
 ### District Courts
 
-53\. This Part does not apply to District Courts.
+53\. This Part shall not apply to District Courts.
 
 ## PART XI
 
@@ -664,7 +750,7 @@ GENERAL
 
 ### Order to bring in will, etc.
 
-54\. The court or a judge may, on the application of any person interested, if it appears that there is reason to believe that any will or other testamentary document of a deceased person is in the possession or under the control of any person, or that any person has knowledge of the existence of such a will or document, order that that person do, within a time named, produce such will or document at the registry, or attend at a time named before a court or a judge, for the purpose of being examined in relation to such will or document.
+54\. The court or a judge may, on the application of any person interested, if it appears that there is reason to believe that any will or other testamentary document of a deceased person is in the possession or under the control of any person, or that any person has knowledge of the existence of such a will or document, order that that person do, within a time named, produce the will or document at the registry, or attend at a time named before a court or a judge, for the purpose of being examined in relation to the will or document.
 
 ### Grant to official assignee in cases of delay
 
@@ -676,11 +762,13 @@ GENERAL
 
 (c) where any person, who has received a grant of letters of administration with or without the will annexed, neglects within one month of the date of the grant to give such security as he is lawfully required to furnish;
 
-(d) where a receiver may be appointed under section 38, but it appears that such appointment would not be a sufficient protection for the estate;
+(d) where a receiver may be appointed under section 39, but it appears that such appointment would not be a sufficient protection for the estate;
 
 (e) where an administrator has failed to extract the grant of letters of administration; or
 
-(f) where after the death of a last surviving executor or administrator of a deceased person’s estate 6 months have elapsed and no application for the representation of the estate has been made, letters of administration with or without the will annexed may be granted to the official assignee, or to such other person as the court thinks fit.
+(f) where after the death of a last surviving executor or administrator of a deceased person’s estate 6 months have elapsed and no application for the representation of the estate has been made,
+
+letters of administration with or without the will annexed may be granted to the official assignee , or to such other person as the court thinks fit.
 
 (2) Nothing in this section shall be construed so as to prevent the official assignee from applying for or being granted letters of administration of the estate of a deceased person with or without the will annexed before the expiration of a period of 6 months of the death of the deceased.
 
@@ -694,15 +782,19 @@ GENERAL
 
 57\.—(1) Where the estate of a deceased person is insolvent his estate shall be administered in accordance with the rules set out in the First Schedule.
 
-(2) The right of retainer of a personal representative and his right to prefer creditors may be exercised in respect of all assets of the deceased, but the right of retainer shall only apply to debts owing to the personal representative in his own right whether solely or jointly with another person; and subject as aforesaid, nothing in this Act shall affect the right of retainer of a personal representative, or his right to prefer creditors.
+(2) The right of retainer of a personal representative and his right to prefer creditors may be exercised in respect of all assets of the deceased, but the right of retainer shall only apply to debts owing to the personal representative in his own right whether solely or jointly with another person.
 
-(3) Where the estate of a deceased person is solvent his estate shall, subject to Rules of Court and the provisions hereinafter contained as to charges on property of the deceased, and to the provisions, if any, contained in his will, be applicable towards the discharge of the funeral, testamentary and administration expenses, debts and liabilities payable thereout in the order mentioned in the Second Schedule.
+(3) Subject to subsection (2), nothing in this Act shall affect the right of retainer of a personal representative, or his right to prefer creditors.
 
-### Charges on property of deceased to be paid primarily out of the property charged
+(4) Where the estate of a deceased person is solvent his estate shall, subject to the Rules of Court (Cap. 322, R 5) and section 58 as to charges on property of the deceased, and to the provisions, if any, contained in his will, be applicable towards the discharge of the funeral, testamentary and administration expenses, debts and liabilities payable thereout in the order mentioned in the Second Schedule.
 
-58\.—(1) Where a person dies possessed of, or entitled to, or, under a general power of appointment, by his will disposes of an interest in property which at the time of his death is charged with the payment of money, whether by way of legal mortgage, equitable charge or otherwise (including lien for unpaid purchase money), and the deceased has not by will, deed or other document signified a contrary or other intention, the interest so charged shall, as between the different persons claiming through the deceased, be primarily liable for the payment of the charge; and every part of the said interest, according to its value, shall bear a proportionate part of the charge on the whole thereof.
+### Charges on property of deceased to be paid primarily out of property charged
 
-(2) Such contrary or other intention shall not be deemed to be signified —
+58\.—(1) Where a person dies possessed of, or entitled to, or, under a general power of appointment, by his will disposes of an interest in property which at the time of his death is charged with the payment of money, whether by way of legal mortgage, equitable charge or otherwise (including lien for unpaid purchase money), and the deceased has not by will, deed or other document signified a contrary or other intention, the interest so charged shall, as between the different persons claiming through the deceased, be primarily liable for the payment of the charge.
+
+(2) Every part of the interest referred to on subsection (1), according to its value, shall bear a proportionate part of the charge on the whole thereof.
+
+(3) Such contrary or other intention shall not be deemed to be signified —
 
 (a) by a general direction for the payment of debts or of the debts of the testator out of his movable property or of his residuary estate; or
 
@@ -710,35 +802,51 @@ GENERAL
 
 unless such intention is further signified by words expressly or by necessary implication referring to all or some part of the charge.
 
-(3) Nothing in this section shall affect the right of a person entitled to the charge to obtain payment or satisfaction thereof either out of the other assets of the deceased or otherwise.
+(4) Nothing in this section shall affect the right of a person entitled to the charge to obtain payment or satisfaction thereof either out of the other assets of the deceased or otherwise.
 
 ### Administration of estates by consular officers
 
-59\. Whenever any subject or citizen of any State mentioned in the first column of the Third Schedule —
+59\.—(1) Whenever any subject or citizen of any State mentioned in the first column of the Third Schedule —
 
 (a) dies within Singapore; or
 
 (b) dies outside Singapore leaving property within Singapore,
 
-and no person is present in Singapore at the time of his death who is rightfully entitled to administer the estate of the deceased person, the consul, vice-consul or consular agent of that State within Singapore may take possession and have the custody of the property of the deceased person, and may apply the same in payment of his debts and funeral expenses, and may retain the surplus for the benefit of the persons entitled thereto; but the consul, vice-consul or consular agent shall immediately apply for, and shall be entitled to obtain from the court, letters of administration of the property of the deceased person, limited in such manner and for such time as to the court seems fit.
+and no person is present in Singapore at the time of his death who is rightfully entitled to administer the estate of the deceased person, the consul, vice-consul or consular agent of that State within Singapore may —
+
+(i) take possession and have the custody of the property of the deceased person;
+
+(ii) apply the same in payment of his debts and funeral expenses; and
+
+(iii) retain the surplus for the benefit of the persons entitled thereto.
+
+(2) Notwithstanding subsection (1), the consul, vice-consul or consular agent shall immediately apply for, and shall be entitled to obtain from the court, letters of administration of the property of the deceased person, limited in such manner and for such time as to the court seems fit.
 
 ### Variation of Third Schedule
 
 60\. The Minister may, by notification in theGazette, add to, amend or vary the Third Schedule.
 
+[7/97]
+
 ### Letters of administration granted to consular officer to pass to his successors in office
 
-61\. Letters of administration granted to a consular officer under section 59 shall be granted to such an officer in his official style and title and not in his personal name, but the person officiating as such consul, vice-consul or consular agent shall personally take the administrator’s oath. Such letters of administration and the estate of the deceased shall pass from such consular officer to his successors in office, and shall vest in each such consular officer for the time being during his continuance in office without any order of the court or any conveyance, assignment or other instrument whatsoever.
+61\.—(1) Letters of administration granted to a consular officer under section 59 shall be granted to such an officer in his official style and title and not in his personal name, but the person officiating as such consul, vice-consul or consular agent shall personally take the administrator’s oath.
+
+(2) The letters of administration referred to in subsection (1) and the estate of the deceased shall pass from such consular officer to his successors in office, and shall vest in each such consular officer for the time being during his continuance in office without any order of the court or any conveyance, assignment or other instrument whatsoever.
 
 ### Administration by official assignee
 
-62\.—(1) Where any person dies leaving property in Singapore not exceeding $50,000 in value (without deduction for debts but not including the value of any property which the deceased possessed or was entitled to as trustee and not beneficially) the official assignee, after satisfying himself that no petition for letters of administration is pending, may, if he thinks fit, by writing signed by him declare that he undertakes to administer such property, and thereupon he shall be empowered to administer it as though letters of administration, with or without the will annexed, of the estate of the deceased person had been granted to him, and his receipt shall be a sufficient discharge to any person who pays any money or delivers any property to him; and notice of every such declaration shall be filed in court.
+62\.—(1) Where any person dies leaving property in Singapore not exceeding $50,000 in value (without deduction for debts but not including the value of any property which the deceased possessed or was entitled to as trustee and not beneficially) the official assignee, after satisfying himself that no petition for letters of administration is pending, may, if he thinks fit, by writing signed by him declare that he undertakes to administer such property.
 
-(2) At any time prior to the distribution of any part of the property among the beneficiaries thereof under this section the official assignee may, if he thinks it expedient to do so, notwithstanding any declaration made by him under subsection (1), decline to proceed with the administration of the property in his hands until a grant of representation has been obtained in respect of the estate of the deceased.
+(2) Upon a declaration under subsection (1), the official assignee shall be empowered to administer such property as though letters of administration, with or without the will annexed, of the estate of the deceased person had been granted to him, and his receipt shall be a sufficient discharge to any person who pays any money or delivers any property to him.
+
+(3) Notice of every declaration made under subsection (1) shall be filed in court.
 
 [7/76]
 
-### Payment for minor’s maintenance, etc., out of property not exceeding in value $25,000 held by official assignee
+(4) At any time prior to the distribution of any part of the property among the beneficiaries thereof under this section the official assignee may, if he thinks it expedient to do so, notwithstanding any declaration made by him under subsection (1), decline to proceed with the administration of the property in his hands until a grant of representation has been obtained in respect of the estate of the deceased.
+
+### Payment for minor’s maintenance, etc., out of property not exceeding $25,000 in value held by official assignee
 
 63\.—(1) Where any property not exceeding $25,000 in value is held by the official assignee, whether by virtue of a grant of letters of administration to him or by virtue of the powers conferred on him by this Act, and the property is held by him upon trust for any person for any interest whatsoever, whether vested or contingent, then, subject to any prior interest or charges affecting that property, the official assignee may in his sole discretion, during the minority of any such person, in respect of that person’s maintenance, education or benefit make payments of the whole or such part of the income and capital money of such property as may in all the circumstances be reasonable.
 
@@ -754,9 +862,13 @@ and no person is present in Singapore at the time of his death who is rightfully
 
 (b) any person bound by law to provide for such person’s maintenance or education.
 
-### Exemption from necessity of giving notice of distribution of property of less than $10,000
+### Exemption from necessity of giving notice of distribution of property of less than $10,000 in value
 
-64\. Where the total value of any property (without deduction for debts, but not including the value of any property which the deceased possessed or was entitled to as trustee and not beneficially) administered by the official assignee whether by virtue of a grant of letters of administration to him or by virtue of the powers conferred on him by this Act, does not exceed $10,000, it shall not be necessary for the official assignee to give notice by advertisement in theGazetteor otherwise of his intention to distribute the estate or require any person interested to send in particulars of his claim against the estate, but the official assignee may proceed forthwith to convey or distribute the estate or any part thereof to or among the persons entitled thereto, having regard only to the claims, whether formal or not, of which the official assignee then had notice, and the official assignee shall not, as respects the property so conveyed or distributed, be liable to any person of whose claim the official assignee has not had notice at the time of conveyance or distribution; but nothing in this section shall —
+64\.—(1) Where the total value of any property (without deduction for debts, but not including the value of any property which the deceased possessed or was entitled to as trustee and not beneficially) administered by the official assignee, whether by virtue of a grant of letters of administration to him or by virtue of the powers conferred on him by this Act, does not exceed $10,000, it shall not be necessary for the official assignee to give notice by advertisement in theGazetteor otherwise of his intention to distribute the estate or require any person interested to send in particulars of his claim against the estate, but the official assignee may proceed forthwith to convey or distribute the estate or any part thereof to or among the persons entitled thereto, having regard only to the claims, whether formal or not, of which the official assignee then had notice.
+
+(2) The official assignee shall not, as respects the property conveyed or distributed under subsection (1), be liable to any person of whose claim the official assignee has not had notice at the time of conveyance or distribution.
+
+(3) Nothing in this section shall —
 
 (a) prejudice the right of any person to follow the property representing the same, into the hands of any person, other than a purchaser, who may have received it; or
 
@@ -766,25 +878,33 @@ and no person is present in Singapore at the time of his death who is rightfully
 
 ### When interest is payable into Consolidated Fund
 
-65\. Where any trust money in the hands of the official assignee is normally insufficient to earn bank interest if kept in a bank current account the money may be kept in a general banking account or deposited in any bank and any interest allowed by the bank shall be paid into the Consolidated Fund.
+65\.—(1) Where any trust money in the hands of the official assigneeis normally insufficient to earn bank interest if kept in a bank current account the money may be kept in a general banking account or deposited in any bank.
+
+(2) Any interest allowed by the bank shall be paid into the Consolidated Fund.
 
 ### Executors’ or administrators’ commission
 
 66\.—(1) The court or a judge may in its or his discretion allow the executors or administrators a commission not exceeding 5% on the value of the assets collected by them, but in the allowance or disallowance of such commission the court or judge shall be guided by its or his approval or otherwise of their conduct in the administration of the estate.
 
-(2) The registrar may in the course of the taking of the administration accounts of executors or administrators exercise the powers conferred on the court or a judge by subsection (1).
+(2) The registrar may, in the course of the taking of the administration accounts of executors or administrators, exercise the powers conferred on the court or a judge by subsection (1).
 
 ### Testamentary and funeral expenses
 
 67\.—(1) The court or a judge shall allow the executors or administrators the reasonable testamentary and other expenses incurred by them, and also proper funeral expenses and all reasonable expenses of subsequent religious ceremonies suitable to the station in life of the deceased.
 
-(2) The registrar may in the course of the taking of the administration accounts of executors or administrators exercise the powers conferred on the court or a judge by subsection (1).
+(2) The registrar may, in the course of the taking of the administration accounts of executors or administrators, exercise the powers conferred on the court or a judge by subsection (1).
 
 ### Letters of administration granted to official assignee pass to his successor in office
 
 68\.—(1) When letters of administration have been granted to the official assignee under this Act after 1st January 1937, the said letters of administration and the estate of the deceased shall pass from official assignee to official assignee, and shall vest in the official assignee for the time being during his continuance in office, without any order of the court or any conveyance, assignment or other instrument whatsoever.
 
-(2) Where, upon the conclusion of the administration of the estate of a person dying testate or intestate, there remain in the hands of the official assignee, or of any other personal representative, funds of which he is unable to dispose immediately by distribution in accordance with law by reason of the inability of the person entitled to give a discharge, through lack of legal capacity or otherwise, or for any other cause which to the Public Trustee appears sufficient, the official assignee or other legal representative, as the case may be, may, if the Public Trustee consents to accept the same, pay those funds to the Public Trustee, who shall not be required to make any enquiry whether the administration has been conducted in accordance with law, but may accept those funds as a trustee for the person entitled, and apply the same for the benefit of such person and may for such purpose exercise all the powers conferred on the official assignee under section 63, as if the references in that section to the official assignee had been references to the Public Trustee.
+(2) Where, upon the conclusion of the administration of the estate of a person dying testate or intestate, there remain in the hands of the official assignee, or of any other personal representative, funds of which he is unable to dispose immediately by distribution in accordance with law by reason of the inability of the person entitled to give a discharge, through lack of legal capacity or otherwise, or for any other cause which to the Public Trustee appears sufficient, the official assignee or other legal representative, as the case may be, may, if the Public Trustee consents to accept the same, pay those funds to the Public Trustee who —
+
+(a) shall not be required to make any enquiry whether the administration has been conducted in accordance with law;
+
+(b) may accept those funds as a trustee for the person entitled, and apply the same for the benefit of such person; and
+
+(c) may for such purpose exercise all the powers conferred on the official assignee under section 63, as if the references in that section to the official assignee had been references to the Public Trustee.
 
 (3) The receipt of the Public Trustee may be accepted by the official assignee or other legal personal representative, as the case may be, and shall constitute a full and sufficient discharge in respect of such funds.
 
@@ -794,7 +914,7 @@ and no person is present in Singapore at the time of his death who is rightfully
 
 FIRST SCHEDULE
 
-Section 57(1).
+Section 57(1)
 
 Rules as to payment of debts where estate is insolvent
 
@@ -804,7 +924,7 @@ Rules as to payment of debts where estate is insolvent
 
 SECOND SCHEDULE
 
-Section 57(3).
+Section 57(4)
 
 Order of application of assets where the estate is solvent
 
@@ -830,7 +950,7 @@ Order of application of assets where the estate is solvent
 
 THIRD SCHEDULE
 
-Sections 59 and 60.
+Sections 59 and 60
 
 Names of States
 
@@ -967,3 +1087,215 @@ This Legislative History is provided for the convenience of users of the Probate
 |||(Bill No. 48/1998 published on 24 November 1998)|
 ||Date of Second and Third Readings|20 January 1999|
 ||Date of commencement|25 February 1999|
+|16.|**2000 Revised Edition—Probate and Administration Act**|
+||Date of operation|1 July 2000|
+## COMPARATIVE TABLE
+
+Probate and Administration Act
+
+(CHAPTER 251)
+
+The following provisions of the 1985 Revised Edition of the Probate and Administration Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Probate and Administration Act.
+
+2000 Ed\. 
+
+1985 Ed\. 
+
+4 —(2) and (3)
+
+4 —(2)
+
+5 —(1) and (2)
+
+5 
+
+6 —(1) and (2)
+
+6 —(1)
+
+(3)
+
+(2)
+
+(4)
+
+(3)
+
+(5)
+
+(4)
+
+(6)
+
+(5)
+
+7 —(1) and (2)
+
+7 
+
+12 —(1) and (2)
+
+12 
+
+13 —(1) and (2)
+
+13 
+
+18 —(2) and (3)
+
+18 —(2)
+
+(4)
+
+(3)
+
+(5)
+
+(4)
+
+21 —(1) and (2)
+
+21 —(1)
+
+(3)
+
+(2)
+
+22 —(1) and (2)
+
+22 
+
+26 —(1) and (2)
+
+26 
+
+28 —(1) and (2)
+
+28 
+
+29 —(2) and (3)
+
+29 —(2)
+
+(4)
+
+(3)
+
+(5)
+
+(4)
+
+(6)
+
+(5)
+
+(7)
+
+(6)
+
+33 —(1) and (2)
+
+33 
+
+35 —(1) and (2)
+
+35 —(1)
+
+(3)
+
+(2)
+
+38 
+
+37A 
+
+39 
+
+38 
+
+40 
+
+39 
+
+41 
+
+40 
+
+42 
+
+41 
+
+43 —(1) and (2)
+
+42 
+
+44 
+
+43 
+
+45 
+
+44 
+
+46 
+
+45 
+
+47 
+
+46 
+
+Omitted — Repealed by Act 2/99
+
+47 
+
+49 —(1) and (2)
+
+49 
+
+57 —(2) and (3)
+
+57 —(2)
+
+(4)
+
+(3)
+
+58 —(1) and (2)
+
+58 —(1)
+
+(3)
+
+(2)
+
+(4)
+
+(3)
+
+59 —(1) and (2)
+
+59 
+
+61 —(1) and (2)
+
+61 
+
+62 —(1), (2) and (3)
+
+62 —(1)
+
+(4)
+
+(2)
+
+64 —(1), (2) and (3)
+
+64 
+
+65 —(1) and (2)
+
+65 
+
