@@ -2538,9 +2538,7 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1\. Subject to paragraphs 2 to 7, with effect from 1st October 2002, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
-
-1.—
+1. Subject to paragraphs 2 to 7, with effect from 1st October 2002, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
 [S 524/2002 wef 01/10/2002]
 
@@ -3956,273 +3954,141 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (h) “year” means the period beginning on 1st January and ending on 31st December.
 
-6\. The rates of contribution specified in paragraph 1 shall not apply to the employees of the following:
+6. The rates of contribution specified in paragraph 1 shall not apply to the employees of the following:
 
-6.—(1) The managers of any aided school.
+(1) The managers of any aided school.
 
-(2)
+(2) Agency for Science, Technology and Research (A*Star).
 
-Agency for Science, Technology and Research (A*Star).
+(3) Agri-Food and Veterinary Authority of Singapore.
 
-(3)
+(4) Board of Architects.
 
-Agri-Food and Veterinary Authority of Singapore.
+(5) Building and Construction Authority.
 
-(4)
+(6) Central Provident Fund Board.
 
-Board of Architects.
+(7) Civil Aviation Authority of Singapore.
 
-(5)
+(8) Civil Service College.
 
-Building and Construction Authority.
+(9) Commercial and Industrial Security Corporation.
 
-(6)
+(10) Contact Lens Practitioners Board.
 
-Central Provident Fund Board.
+(11) Defence Science and Technology Agency.
 
-(7)
+(12) Economic Development Board.
 
-Civil Aviation Authority of Singapore.
+(13) Energy Market Authority of Singapore.
 
-(8)
+(14) Health Promotion Board.
 
-Civil Service College.
+(15) Health Sciences Authority.
 
-(9)
+(16) Hindu Advisory Board.
 
-Commercial and Industrial Security Corporation.
+(17) Hindu Endowments Board.
 
-(10)
+(18) Hotels Licensing Board.
 
-Contact Lens Practitioners Board.
+(19) Housing and Development Board.
 
-(11)
+(20) Info-communications Development Authority of Singapore.
 
-Defence Science and Technology Agency.
+(21) Inland Revenue Authority of Singapore.
 
-(12)
+(22) Institute of Southeast Asian Studies.
 
-Economic Development Board.
+(23) Institute of Technical Education, Singapore.
 
-(13)
+(24) Intellectual Property Office of Singapore.
 
-Energy Market Authority of Singapore.
+(25) International Enterprise Singapore Board.
 
-(14)
+(26) Jurong Town Corporation.
 
-Health Promotion Board.
+(27) Land Transport Authority of Singapore.
 
-(15)
+(28) Majlis Ugama Islam, Singapura.
 
-Health Sciences Authority.
+(29) Maritime and Port Authority of Singapore.
 
-(16)
+(30) Monetary Authority of Singapore.
 
-Hindu Advisory Board.
+(31) Nanyang Polytechnic.
 
-(17)
+(32) Nanyang Technological University.
 
-Hindu Endowments Board.
+(33) National Arts Council.
 
-(18)
+(34) National Council of Social Service.
 
-Hotels Licensing Board.
+(35) National Environment Agency.
 
-(19)
+(36) National Heritage Board.
 
-Housing and Development Board.
+(37) National Institute of Education.
 
-(20)
+(38) National Library Board.
 
-Info-communications Development Authority of Singapore.
+(39) National Parks Board.
 
-(21)
+(40) National University of Singapore.
 
-Inland Revenue Authority of Singapore.
+(41) Ngee Ann Polytechnic.
 
-(22)
+(42) People’s Association.
 
-Institute of Southeast Asian Studies.
+(43) Pharmacy Board.
 
-(23)
+(44) Preservation of Monuments Board.
 
-Institute of Technical Education, Singapore.
+(45) Professional Engineers Board.
 
-(24)
+(46) Public Accountants Board.
 
-Intellectual Property Office of Singapore.
+(47) Public Transport Council.
 
-(25)
+(48) Public Utilities Board.
 
-International Enterprise Singapore Board.
+(49) Science Centre Board.
 
-(26)
+(50) Sentosa Development Corporation.
 
-Jurong Town Corporation.
+(51) Sikh Advisory Board.
 
-(27)
+(52) Singapore Broadcasting Authority.
 
-Land Transport Authority of Singapore.
+(53) Singapore Corporation of Rehabilitative Enterprises.
 
-(28)
+(54) Singapore Dental Council.
 
-Majlis Ugama Islam, Singapura.
+(55) Singapore Labour Foundation.
 
-(29)
+(56) Singapore Land Authority.
 
-Maritime and Port Authority of Singapore.
+(57) Singapore Medical Council.
 
-(30)
+(58) Singapore Nursing Board.
 
-Monetary Authority of Singapore.
+(59) Singapore Polytechnic.
 
-(31)
+(60) Singapore Sports Council.
 
-Nanyang Polytechnic.
+(61) Singapore Totalisator Board.
 
-(32)
+(62) Singapore Tourism Board.
 
-Nanyang Technological University.
+(63) Specialist Accreditation Board.
 
-(33)
+(64) Standards, Productivity and Innovation Board (Spring Singapore).
 
-National Arts Council.
+(65) Traditional Chinese Medicine Practitioners Board.
 
-(34)
+(66) Temasek Polytechnic.
 
-National Council of Social Service.
-
-(35)
-
-National Environment Agency.
-
-(36)
-
-National Heritage Board.
-
-(37)
-
-National Institute of Education.
-
-(38)
-
-National Library Board.
-
-(39)
-
-National Parks Board.
-
-(40)
-
-National University of Singapore.
-
-(41)
-
-Ngee Ann Polytechnic.
-
-(42)
-
-People’s Association.
-
-(43)
-
-Pharmacy Board.
-
-(44)
-
-Preservation of Monuments Board.
-
-(45)
-
-Professional Engineers Board.
-
-(46)
-
-Public Accountants Board.
-
-(47)
-
-Public Transport Council.
-
-(48)
-
-Public Utilities Board.
-
-(49)
-
-Science Centre Board.
-
-(50)
-
-Sentosa Development Corporation.
-
-(51)
-
-Sikh Advisory Board.
-
-(52)
-
-Singapore Broadcasting Authority.
-
-(53)
-
-Singapore Corporation of Rehabilitative Enterprises.
-
-(54)
-
-Singapore Dental Council.
-
-(55)
-
-Singapore Labour Foundation.
-
-(56)
-
-Singapore Land Authority.
-
-(57)
-
-Singapore Medical Council.
-
-(58)
-
-Singapore Nursing Board.
-
-(59)
-
-Singapore Polytechnic.
-
-(60)
-
-Singapore Sports Council.
-
-(61)
-
-Singapore Totalisator Board.
-
-(62)
-
-Singapore Tourism Board.
-
-(63)
-
-Specialist Accreditation Board.
-
-(64)
-
-Standards, Productivity and Innovation Board (Spring Singapore).
-
-(65)
-
-Traditional Chinese Medicine Practitioners Board.
-
-(66)
-
-Temasek Polytechnic.
-
-(67)
-
-Urban Redevelopment Authority
+(67) Urban Redevelopment Authority
 
 [S 524/2002 wef 01/10/2002]
 
@@ -4373,9 +4239,7 @@ Self-employed Persons
 
 35\. Secondhand Dealers Act (Cap. 288).
 
-36\. Securities and Futures Act 2001
-
-36.
+36. Securities and Futures Act 2001
 
 [42/2001 wef 01/10/2002]
 
@@ -4834,6 +4698,20 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|29 July 2002 (Item (18) of the Schedule)|
+|125.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2002|
+|||(Bill No. 23/2002 published on 9 July 2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|1 October 2002|
+|126.|**G.N. No. S 524/2002—Central Provident Fund Act (Amendment of First Schedule) Notification 2002**|
+||Date of commencement|1 October 2002|
+|127.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 October 2002 (Item (2) of the Fourth Schedule — Amendment of Central Provident Fund Act)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
