@@ -126,6 +126,8 @@
 
 - [51 Fines to be paid to Authority](#Fines-to-be-paid-to-Authority)
 
+- [51A Composition of offences](#Composition-of-offences)
+
 - [52 Exemption](#Exemption)
 
 - [53 Transitional and savings provisions](#Transitional-and-savings-provisions)
@@ -220,7 +222,9 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 (a) a Chairman; and
 
-(b) not less than 4 nor more than 8 other members.
+(b) not less than 4 nor more than 12 other members.
+
+[29/2003 wef 05/12/2003]
 
 (2) The First Schedule shall have effect with respect to the Authority, its members and proceedings.
 
@@ -258,13 +262,23 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (c) to sell, lease or grant licences to use or occupy such land belonging to the Authority for the purposes of the development and redevelopment of the land as the Authority may think fit;
 
+(ca) to sell, lease or grant licences to use or occupy land or other property as agent for the Government or any statutory authority when appointed to do so, for the purposes of the development and redevelopment of the land or property or for such other purpose as the Government or statutory authority may specify;
+
+[29/2003 wef 05/12/2003]
+
 (d) to manage such lands, buildings or other property as the Authority may think fit;
 
 (e) to submit or make recommendations or proposals to the Government or any person or statutory body for the preservation and protection of any monument and land of historic, traditional, archaeological, architectural or aesthetic interest;
 
 (f) to provide information and advice to and act as agent and consultant for such Government department, person, company and corporation carrying on or intending to carry on a building project or scheme or urban redevelopment in Singapore or elsewhere as the Authority may think fit;
 
-(g) to inform and advise the Government on all matters relating to urban redevelopment;
+(fa) to undertake land planning and to manage and control the development of land in Singapore;
+
+[29/2003 wef 05/12/2003]
+
+(g) to inform and advise the Government on matters relating to land planning and the development of land in Singapore;
+
+[29/2003 wef 05/12/2003]
 
 (h) to secure and promote publicity in any form in Singapore or elsewhere of the functions and activities of the Authority;
 
@@ -462,7 +476,13 @@ FINANCIAL PROVISIONS
 
 ### Investment
 
-27\. Moneys belonging to the Authority may from time to time, subject to the approval of the Minister, be invested in any of the securities in which trust funds may, by any written law for the time being in force relating to trustees, be invested.
+27\. The Authority may, with the approval of the Minister —
+
+(a) invest its funds in such manner as it thinks fit; and
+
+(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
+
+[29/2003 wef 05/12/2003]
 
 ### Application of profits of Authority
 
@@ -647,6 +667,18 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 ### Fines to be paid to Authority
 
 51\. All fines imposed for an offence under this Act or any regulations made thereunder shall be paid into the funds of the Authority.
+
+### Composition of offences
+
+51A\.—(1) The Authority may, in its discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+
+(2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+
+(3) The Authority may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
+
+(4) All sums collected under this section shall be paid to the Authority.
+
+[29/2003 wef 05/12/2003]
 
 ### Exemption
 
@@ -950,3 +982,8 @@ This Legislative History is provided for the convenience of users of the Urban R
 |||(Bill No. 9/2003 published on 25 April 2003)|
 ||Date of Second and Third Readings|30 June 2003|
 ||Date of commencement|1 August 2003|
+|10.|**Act 29 of 2003—Urban Redevelopment Authority (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 26/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|5 December 2003|
