@@ -1436,3 +1436,8 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Referred to Select Committee|Parl 3 of 1991 presented to Parliament on 17.6.91|
 ||Date of Third Reading|28.6.91|
 ||Date of commencement|30 August 1991|
+|6.|**Act 9 of 1989—Building Control Act 1989**|
+||Date of First Reading|16.1.1989|
+|||(Bill No. 5/89)|
+||Date of Second and Third Readings|16.2.1989|
+||Date of commencement|4 December 1992|
