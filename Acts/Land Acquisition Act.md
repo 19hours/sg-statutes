@@ -168,7 +168,9 @@ PRELIMINARY
 
 “Board” means an Appeals Board constituted under section 19(1);
 
-“Collector” means any officer appointed by the Minister to be a Collector of Land Revenue or a Deputy Collector of Land Revenue;
+“Collector” has the same meaning as in the Land Revenue Collection Act (Cap. 155);
+
+[17/2001 wef 01/06/2001]
 
 “Commissioner” means a Commissioner of Appeals or a Deputy Commissioner of Appeals, appointed under section 19(2), and includes an acting Commissioner of Appeals or acting Deputy Commissioner of Appeals;
 
@@ -889,3 +891,9 @@ This Legislative History is provided for the convenience of users of the Land Ac
 |||(Bill No. 18/1997 published on 20 November 1998|
 ||Date of Second and Third Readings|14 January 1998|
 ||Date of commencement|1 April 1998 (item (4) of the Second Schedule)|
+|12.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 7 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001 (item (17) of the Fourth Schedule)|
