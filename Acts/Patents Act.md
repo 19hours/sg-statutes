@@ -294,7 +294,7 @@
 
 (CHAPTER 221)
 
-(Original Enactment: 21 of 1994)
+(Original Enactment: Act 21 of 1994)
 
 REVISED EDITION 1995
 
@@ -826,7 +826,7 @@ the Registrar shall, as soon as practicable after the end of the prescribed peri
 
 (b) file a request in the prescribed form and pay the prescribed fee for a search and examination report within the prescribed period; or
 
-(c) where the applicant has filed, alone or jointly with any other person, a corresponding international application for a patent, not designating Singapore, or a corresponding application for a patent at any prescribed patent office, furnish such detail as prescribed and within the prescribed period, of all the corresponding international applications and the other corresponding applications filed by him,
+(c) where the applicant has filed, alone or jointly with any other person, a corresponding international application for a patent, not designating Singapore, or a corresponding application for a patent at any prescribed patent office, furnish such detail as prescribed in the prescribed form and within the prescribed period, of all the corresponding international applications and the other corresponding applications filed by him,
 
 and if the applicant fails to make such request, pay the prescribed fee or furnish the prescribed detail within the prescribed period, the application shall be treated as having been abandoned at the end of the period prescribed under paragraph (a), (b) or (c), whichever is the latest.
 
@@ -834,7 +834,7 @@ and if the applicant fails to make such request, pay the prescribed fee or furni
 
 (3) Upon receipt of the report of the search carried out under subsection (2), the Registrar shall send to the applicant a copy of the report, and the applicant may, within the prescribed period, file a request and pay the prescribed fee for an examination report on the application so as to determine whether the conditions specified in sections 13 and 25(4) and (5) have been complied with, taking into consideration all the relevant prior art, if any, referred to in the search report; and upon receipt of the report, the Registrar shall send to the applicant a copy of the report.
 
-(4) Where the applicant has furnished the prescribed details under subsection (1)(c), he shall, subject to subsection (5), within the prescribed period, file the prescribed information in or translated into the English language relating to any one of the corresponding international applications or other corresponding applications referred to in subsection (1)(c).
+(4) Where the applicant has furnished the prescribed details under subsection (1)(c), he shall, subject to subsection (5), within the prescribed period, file in the prescribed form, the prescribed information in or translated into the English language relating to any one of the corresponding international applications or other corresponding applications referred to in subsection (1)(c).
 
 (5) The applicant may, instead of filing the prescribed information referred to in subsection (4), within the prescribed period, either —
 
@@ -1482,7 +1482,7 @@ USE OF PATENTED INVENTIONS FOR SERVICES OF GOVERNMENT
 
 (b) the power of a Government department or a person authorised by a Government department under this section to make, use, exercise and vend a patented invention shall include the power to sell to any person any articles made in the exercise of the powers conferred by this section that are no longer required for the purpose for which they were made;
 
-(c) the power of a Government department or a person authorised by a Government department under this section to vend a patented invention shall not, in the case of a patent relating to an intergrated circuit, extend to sale of the invention to the public.
+(c) the power of a Government department or a person authorised by a Government department under this section to vend a patented invention shall not, in the case of a patent relating to an integrated circuit, extend to sale of the invention to the public.
 
 (3) The purchaser of any articles sold in the exercise of the powers conferred by this section, and any person claiming through the purchaser, shall have power to deal with them in the same manner as if the patent were held on behalf of the Government.
 
@@ -2448,3 +2448,8 @@ This Legislative History is provided for the convenience of users of the Patents
 |||(Bill No. 28/2001 published on 26 July 2001)|
 ||Date of Second and Third Readings|13 August 2001|
 ||Date of commencement|2 February 2002 (section 14)|
+|7.|**Act 30 of 2001—Patents (Amendment) Act 2001**|
+||Date of First Reading|25 July 2001|
+|||(Bill No. 28/2001 published on 26 July 2001)|
+||Date of Second and Third Readings|13 August 2001|
+||Date of commencement|25 February 2002 (section 6)|
