@@ -160,11 +160,11 @@ Class I
 
 (a) The privy purse
 
-$2,232,000
+$2,391,600
 
 (b) Entertainment allowance
 
-$104,300
+$113,000
 
 (c) Acting President’s allowance
 
@@ -174,19 +174,19 @@ Class II
 
 Salaries of personal staff
 
-$2,177,200
+$2,653,200
 
 Class III
 
 Expenses of household
 
-$1,000,130
+$ 945,600
 
 Class IV
 
 Special services
 
-$ 56,400
+$1,000
 
 ## LEGISLATIVE HISTORY
 
@@ -281,3 +281,5 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of commencement|25 February 2000|
 |34.|**G. N. No. S 36/2001—Parliamentary Resolution**|
 ||Date of commencement|12 January 2001|
+|35.|**G. N. No. S 168/2001—Parliamentary Resolution**|
+||Date of commencement|23 February 2001|
