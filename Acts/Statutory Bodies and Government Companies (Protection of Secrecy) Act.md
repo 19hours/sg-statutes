@@ -74,9 +74,7 @@ Statutory body
 
 Act under which established or constituted
 
-1. Board of Commissioners of Currency, Singapore
-
-Currency Act (Chapter 69)
+1. Deleted by Act 25/2002, wef 01/10/2002.
 
 2. Central Provident Fund Board
 
@@ -329,3 +327,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 17/2001 published on 6 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
+|29.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2002|
+|||(Bill No. 23/2002 published on 9 July 2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|1 October 2002|
