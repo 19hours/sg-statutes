@@ -110,7 +110,7 @@
 
 - [37 Provisions as to physical fitness of applicants for driving licences](#Provisions-as-to-physical-fitness-of-applicants-for-driving-licences)
 
-- [38 Recognition of Malaysian driving licences](#Recognition-of-Malaysian-driving-licences)
+- [38 Recognition of foreign driving licences and driving permits held by members of visiting forces](#Recognition-of-foreign-driving-licences-and-driving-permits-held-by-members-of-visiting-forces)
 
 - [39 Production of driving licences](#Production-of-driving-licences)
 
@@ -119,6 +119,8 @@
 - [41 Paid drivers to attend when required](#Paid-drivers-to-attend-when-required)
 
 - [42 Disqualification for offences](#Disqualification-for-offences)
+
+- [42A Disqualification for failing to attend court](#Disqualification-for-failing-to-attend-court)
 
 - [43 Provisions as to disqualifications and suspensions](#Provisions-as-to-disqualifications-and-suspensions)
 
@@ -139,6 +141,8 @@
 - [47D Definition of serious injury](#Definition-of-serious-injury)
 
 - [47E Penalties for offences under sections 47 (5) and 47C (5)](#Penalties-for-offences-under-sections-47-5-and-47C-5)
+
+- [47F Prohibition order against foreign motorists](#Prohibition-order-against-foreign-motorists)
 
 - [48 Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
@@ -185,6 +189,8 @@
 - [65 Driving without due care or reasonable consideration](#Driving-without-due-care-or-reasonable-consideration)
 
 - [65A Collision of heavy motor vehicles and public service vehicles with buildings or structures](#Collision-of-heavy-motor-vehicles-and-public-service-vehicles-with-buildings-or-structures)
+
+- [65B Use of mobile telephone while driving](#Use-of-mobile-telephone-while-driving)
 
 - [66 Causing death by reckless or dangerous driving](#Causing-death-by-reckless-or-dangerous-driving)
 
@@ -414,6 +420,10 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “driving licence” means a licence to drive a motor vehicle granted under the provisions of Part II;
 
+“foreign driving licence” means a driving licence or permit (not being a provisional driving licence or permit) issued by a competent authority in another country between which and Singapore there is in force a treaty for the recognition of driving licences or permits issued in the countries which are parties to the treaty;
+
+[1/99 wef 01/03/1999]
+
 “goods” includes goods or burden of any description;
 
 “goods vehicle” means a motor vehicle constructed or adapted for use for the carriage of goods or a trailer so constructed or adapted;
@@ -472,7 +482,7 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 [20/89; 33/93; 28/95]
 
-(2) For the purposes of this Act, a person is a resident of Singapore, or is deemed to have taken up residence in Singapore, if he resides in Singapore for a continuous period of 6 months and any temporary period or periods of absence during that period of 6 months is immaterial.
+(2) For the purposes of this Act, except sections 38(1) and 47F(4), a person is a resident of Singapore, or is deemed to have taken up residence in Singapore, if he resides in Singapore for a continuous period of 6 months and any temporary period or periods of absence during that period of 6 months is immaterial.
 
 ## PART I
 
@@ -1172,8 +1182,6 @@ LICENSING OF DRIVERS
 
 35\.—(1) Except as otherwise provided in this Act, no person shall drive a motor vehicle of any class or description on a road unless he is the holder of a driving licence authorising him to drive a motor vehicle of that class or description, and no person shall employ or permit another person to drive a motor vehicle on a road unless the person so employed or permitted to drive is the holder of such a driving licence, and any person who acts in contravention of this subsection shall be guilty of an offence.
 
-(1A) For the purposes of subsection (1), “holder of a driving licence” includes any member of the navy, army or air force of a Commonwealth country stationed in Singapore who is in possession of a certificate or other document duly issued to the member by a competent authority to drive a motor vehicle of the class or description specified in the certificate or document, that motor vehicle being the property of the navy, army or air force of a Commonwealth country.
-
 (2) An application for a driving licence shall be made in the prescribed form to the Deputy Commissioner of Police.
 
 (3) On an application for the grant of a driving licence, the applicant shall, in addition to any declaration required under this Act, state whether he has held a driver’s certificate or licence in any part of the world, whether any such certificate or licence has been endorsed, suspended or cancelled, whether he has been disqualified from holding a licence and whether he is under the provisions of this Act disqualified by reason of age or otherwise from obtaining the licence for which he is applying.
@@ -1188,9 +1196,13 @@ LICENSING OF DRIVERS
 
 [7/90; 11/96]
 
-(8) The Deputy Commissioner of Police may refuse to renew any driving licence, or renew it for a period of one year only notwithstanding that the applicant has elected to renew it for 3 years, if he is satisfied that the holder thereof has not complied with any warrant or process of court issued against him in respect of any offence or offences committed by him under this Act or the rules or any written law specified in Part II of the Schedule.
+(8) The Deputy Commissioner of Police may refuse to renew any driving licence, or may renew it for a period of one year only notwithstanding that the applicant has elected to renew it for 3 years, if he is satisfied —
 
-[7/90; 8/94]
+(a) that the holder of the driving licence has not complied with any process of court issued against him in respect of any offence committed by him under this Act or the rules or any written law specified in Part II of the Schedule; or
+
+(b) that the holder of the driving licence has, pursuant to a warrant of court, been arrested in connection with an offence under this Act or the rules or any written law specified in Part II of the Scheduleand the offence has not been tried and determined by the court.
+
+[1/99 wef 01/03/1999]
 
 (9) Subject to subsection (10), the Minister may, by notification in theGazette, amend Part II of the Schedule.
 
@@ -1334,11 +1346,21 @@ LICENSING OF DRIVERS
 
 (8) The licence holder may, except in the case of such diseases and disabilities as may be prescribed, claim to be subjected to a test as to his fitness or disability to drive a motor vehicle and, if he passes the prescribed test, the driving licence shall not be revoked or, if it has already been revoked, shall be returned to the licence holder and the revocation thereof shall be rescinded.
 
-### Recognition of Malaysian driving licences
+### Recognition of foreign driving licences and driving permits held by members of visiting forces
 
-38\. Subject to section 62, any person, other than a resident of Singapore, who holds a driving licence, other than a provisional licence, to drive a motor cycle issued under any written law relating to motor vehicles in Malaysia which licence would, if the person were in the place where it was issued, still be in force may drive a motor vehicle of the class or description which the licence authorises him to drive notwithstanding that he has not been granted a driving licence under this Part.
+38\.—(1) Subject to the provisions of this Act, it shall be lawful for a person resident outside Singapore who is temporarily in Singapore and who holds a valid foreign driving licence to drive in Singapore during a period of 12 months from the date of his last entry into Singapore a motor vehicle of the class or description which the foreign driving licence authorises him to drive, notwithstanding that he does not hold a driving licence granted under this Part.
 
-[9/85]
+(2) It shall be lawful for —
+
+(a) a member of a visiting force; or
+
+(b) a member of a civilian component of such visiting force,
+
+who holds a driving permit issued to him by a competent authority of the country of the visiting force to drive in Singapore a motor vehicle belonging to the country of the visiting force which is of the class or description specified in the driving permit, notwithstanding that he does not hold a driving licence granted under this Part.
+
+(3) In subsection (2), “visiting force” and “civilian component” shall have the same meanings as in the Visiting Forces Act (Cap. 344).
+
+[1/99 wef 01/03/1999]
 
 ### Production of driving licences
 
@@ -1364,9 +1386,51 @@ LICENSING OF DRIVERS
 
 42\.—(1) A court before which a person is convicted of any offence in connection with the driving of a motor vehicle may, in any case except where otherwise expressly provided by this Act and shall, where so required by this Act, order him to be disqualified from holding or obtaining a driving licence for life or for such period as the court may think fit.
 
+(1A) Where a person (referred to hereinafter as the offender), is convicted of an offence under section 160, 304, 304A, 323, 324, 325, 326, 341, 342, 350, 352, 426 or 427 of the Penal Code (Cap. 224) and —
+
+(a) at the time of the commission of the offence the offender was the driver or was in charge of a motor vehicle on a road or other public place;
+
+(b) the person against whom the offence was committed was the driver of another vehicle on the road or public place, a passenger in that other vehicle or a pedestrian on the road or public place;
+
+(c) the court convicting the offender of the offence is satisfied that the commission of the offence arose from or was connected with a dispute between the offender and that other person over the use of the road or public place; and
+
+(d) having regard to the circumstances under which the offence was committed and the behaviour of the offender, the court is of the opinion that it is undesirable for the offender to continue to be allowed to drive a motor vehicle,
+
+the court may, in addition to imposing on the offender the punishment provided for such offence, make an order disqualifying him from holding or obtaining a driving licence for life or for such period as the court may think fit.
+
+[1/99 wef 01/03/1999]
+
 (2) If the court thinks fit, any disqualification imposed under this section may be limited to the driving of a motor vehicle of the same class or description as the motor vehicle in relation to which the offence was committed.
 
 (3) A person who, by virtue of an order of a court, is disqualified from holding or obtaining a driving licence may appeal against the order in the same manner as against a conviction, and the court may if it thinks fit, pending the appeal, suspend the operation of the order.
+
+### Disqualification for failing to attend court
+
+42A\.—(1) The Public Prosecutor may apply to the court for an order disqualifying a person from holding or obtaining a driving licence if —
+
+(a) that person is accused of an offence under this Act or the rules or any written law specified in Part II of the Schedule and had failed to appear before a court to answer the charge against him notwithstanding that he had been served with the appropriate process of court requiring him to so appear before that court;
+
+(b) the court before which he was to have appeared had, pursuant to his default in appearance, issued a warrant for his arrest;
+
+(c) he has been arrested pursuant to the warrant and subsequently released on bail;
+
+(d) he has been duly informed by —
+
+(i) the Deputy Commissioner of Police;
+
+(ii) the officer who arrested him; or
+
+(iii) if he is accused of an offence under any written law specified in Part II of the Schedule, an officer responsible for administering such written law,
+
+that should he fail to appear in court on the date next appointed for his appearance in connection with the offence of which he is accused, the Public Prosecutor shall make an application under this section for him to be disqualified from holding or obtaining a driving licence; and
+
+(e) he has failed, without lawful excuse, to appear in court on the date next appointed for his appearance in connection with the offence of which he is accused.
+
+(2) Upon an application made by the Public Prosecutor under subsection (1), the court, if satisfied of the matters referred to in paragraphs (a) to (e) of that subsection and, having regard to the circumstances of the case and the behaviour of the accused person, is of the opinion that it is undesirable for him to continue to be allowed to drive a motor vehicle, may make an order disqualifying the accused person from holding or obtaining a driving licence until the offence of which he is accused has been tried and determined by a court or for such other period as the court thinks fit.
+
+(3) Where the court makes an order under subsection (2) disqualifying a person from holding or obtaining a driving licence for any period ending before the trial and determination of the offence of which that person is accused, the court may, on further application of the Public Prosecutor, extend the period of the disqualification if it thinks fit.
+
+[1/99 wef 01/03/1999]
 
 ### Provisions as to disqualifications and suspensions
 
@@ -1492,15 +1556,33 @@ whichever period is the longer.
 
 (a) whilst under the influence of drink or of a drug or an intoxicating substance in contravention of section 67(1)(a);
 
-(b) whilst he has so much alcohol in his body that the proportion of it in his breath or blood exceeds the prescribed limit in contravention of section 67(1)(b); or
+(b) whilst he has so much alcohol in his body that the proportion of it in his breath or blood exceeds the prescribed limit in contravention of section 67(1)(b);
 
-(c) without a policy of insurance in respect of third-party risks in contravention of section 3(1) of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189),
+(c) without a policy of insurance in respect of third-party risks in contravention of section 3(1) of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189);
+
+(d) recklessly or at a speed or in a manner which is dangerous to the public in contravention of section 64(1); or
+
+[1/99 wef 01/03/1999]
+
+(e) in a manner so rash or negligent as to endanger human life in contravention of section 279 of the Penal Code (Cap. 224),
+
+[1/99 wef 01/03/1999]
 
 and whilst so driving causes death or serious injury to any other person, the Deputy Commissioner of Police may, where the first-mentioned person is charged for that offence, suspend his driving licence from the date he is charged for the offence, and the suspension shall remain in force until the offence is tried and determined by a court.
 
 [7/90; 11/96]
 
-(2) The Deputy Commissioner of Police shall, before suspending a driving licence of a person under subsection (1) , give to the person concerned a notice in writing informing the person that his driving licence is immediately suspended until the charge has been tried and determined by a court and requiring the person forthwith to surrender his driving licence.
+(1A) Where a person drives a motor vehicle on a road or other public place and whilst so driving commits an offence of —
+
+(a) causing death by reckless or dangerous driving in contravention of section 66(1); or
+
+(b) causing death by a rash or negligent act in contravention of section 304A of the Penal Code,
+
+the Deputy Commissioner of Police may, where the first mentioned person is charged for that offence, suspend his driving licence from the date on which he is first charged for the offence, and the suspension shall remain in force until the offence is tried and determined by a court.
+
+[1/99 wef 01/03/1999]
+
+(2) The Deputy Commissioner of Police shall, before suspending a driving licence of a person under subsection (1) or (1A), give to the person concerned a notice in writing informing the person that his driving licence is immediately suspended until the charge has been tried and determined by a court and requiring the person forthwith to surrender his driving licence.
 
 [7/90]
 
@@ -1532,6 +1614,24 @@ and whilst so driving causes death or serious injury to any other person, the De
 
 [3/93]
 
+### Prohibition order against foreign motorists
+
+47F\.—(1) Where any provision of this Act empowers —
+
+(a) a court to order that a person be disqualified from holding or obtaining a driving licence; or
+
+(b) the Deputy Commissioner of Police to suspend a driving licence of any person,
+
+such provision shall, in relation to a foreign motorist, be read as empowering the court or the Deputy Commissioner of Police to make an order (referred to hereinafter as a prohibition order) prohibiting such foreign motorist from driving any motor vehicle in Singapore for the same period for which the court or the Deputy Commissioner of Police may, by virtue of that provision, disqualify any person from holding or obtaining a driving licence or suspend the driving licence of any person, as the case may be.
+
+(2) Any other provision of this Act which relates or which makes reference to the disqualification of persons from holding or obtaining a driving licence or to the suspension of driving licences, including any provision which provides for the punishment of any offence committed by a person who has been disqualified from holding or obtaining a driving licence or whose driving licence has been suspended, shall, in relation to a foreign motorist, be read as if every reference in that provision to the disqualification of a person from holding or obtaining a driving licence or to the suspension of the driving licence of any person were a reference to the making of a prohibition order against the foreign motorist.
+
+(3) The Minister may make rules for modifying, in such manner as he may consider necessary, any of the provisions of this Act which relates or refers to the disqualification of persons from holding or obtaining a driving licence or to the suspension of driving licences in order that such provision may appropriately apply in relation to a foreign motorist against whom a prohibition order has been made under this section.
+
+(4) In this section, “foreign motorist” means a person resident outside Singapore who is temporarily in Singapore and who holds a valid foreign driving licence, but does not include any member of any visiting force or a civilian component thereof to whom section 38(2) applies.
+
+[1/99 wef 01/03/1999]
+
 ### Rules for purposes of this Part
 
 48\. The Minister may make rules for any purpose for which rules may be made under this Part and for prescribing anything which may be prescribed under this Part and otherwise for the purpose of carrying this Part into effect and, in particular, may make rules —
@@ -1558,7 +1658,7 @@ and whilst so driving causes death or serious injury to any other person, the De
 
 ### Exemption
 
-49\. Any person who is a member of the Singapore Armed Forces and is in possession of a certificate or document issued to him by the competent authority of the Singapore Armed Forces to drive a motor vehicle of a class or description specified in such certificate or document may drive a vehicle of the class or description specified in the certificate or document, such vehicle being in the possession of the Singapore Armed Forces , notwithstanding that he has not been granted a driving licence under this Part.
+49\. Any person who is a member of the Singapore Armed Forces or the Singapore Civil Defence Force and is in possession of a certificate or document issued to him by the competent authority of the Singapore Armed Forces or the Singapore Civil Defence Force to drive a motor vehicle of a class or description specified in such certificate or document may drive a vehicle of the class or description specified in the certificate or document, such vehicle being in the possession of the Singapore Armed Forces or the Singapore Civil Defence Force, notwithstanding that he has not been granted a driving licence under this Part.
 
 [9/85]
 
@@ -1700,11 +1800,7 @@ Provisions as to driving and offences in connection therewith
 
 ### Restriction on driving by young persons
 
-62\.—(1) A person below the age of 16 years shall not drive a motor vehicle on a road.
-
-(2) A person who has attained the age of 16 years but who is below the age of 18 years shall not drive a motor vehicle other than an invalid carriage on a road.
-
-[11/96]
+62\.—(1) A person below the age of 18 years shall not drive a motor vehicle on a road.
 
 (3) A person who has attained the age of 18 years but who is below the age of 21 years shall not drive a heavy locomotive, light locomotive, motor tractor or heavy motor car on a road.
 
@@ -1758,6 +1854,10 @@ Provisions as to driving and offences in connection therewith
 
 (3) Where a person is convicted of abetting the commission of an offence under this section and it is proved that he was present in the motor vehicle at the time of the commission of the offence, the offence of which he is convicted shall, for the purpose of the provisions of Part II relating to disqualification from holding or obtaining driving licences, be deemed to be an offence in connection with the driving of a motor vehicle.
 
+(4) Any police officer may arrest without warrant any person committing an offence under this section.
+
+[1/99 wef 01/03/1999]
+
 ### Driving without due care or reasonable consideration
 
 65\. If any person drives a motor vehicle on a road without due care and attention or without reasonable consideration for other persons using the road, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
@@ -1779,6 +1879,18 @@ causes the heavy motor vehicle or public service vehicle to collide with any bui
 (2) In this section, “structure” includes any bus shelter, gantry post, overhead bridge and pillar.
 
 [11/96]
+
+### Use of mobile telephone while driving
+
+65B\.—(1) Any person who, being the driver of a motor vehicle on a road or in a public place, uses a mobile telephone while the motor vehicle is in motion shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both, and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(2) In this section —
+
+“mobile telephone” includes any hand held equipment which is designed or capable of being used for telecommunication;
+
+“use”, in relation to a mobile telephone, means to hold it in one hand while using it to communicate with any person.
+
+[1/99 wef 01/03/1999]
 
 ### Causing death by reckless or dangerous driving
 
@@ -1810,13 +1922,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 ### Enhanced penalties for offenders with previous convictions under certain sections
 
-67A\.—(1) Where a person having been convicted on at least 2 previous occasions of any one or more of the offences under sections 43(3A), 47(5), 47C(5), 63(4), 64(1), 66(1), 67(1) and 70(4) is again convicted of an offence under section 43(3A), 47(5), 47C(5), 63(4), 64(1), 66(1), 67(1) or 70(4), the court shall have the power to impose a punishment in excess of that prescribed for such conviction as follows:
+67A\.—(1) Where a person having been convicted on at least 2 previous occasions of any one or more of the offences under sections 43 (4), 47(5), 47C(5), 63(4), 64(1), 66(1), 67(1) and 70(4) is again convicted of an offence under section 43 (4), 47(5), 47C(5), 63(4), 64(1), 66(1), 67(1) or 70(4), the court shall have the power to impose a punishment in excess of that prescribed for such conviction as follows:
 
 (a) where the court is satisfied, by reason of his previous convictions or his antecedents, that it is expedient for the protection of the public or with the view to the prevention of further commission of any such offence that a punishment in excess of that prescribed for such a conviction should be awarded, then the court may punish such offender with punishment not exceeding 3 times the amount of punishment to which he would otherwise have been liable for such a conviction except that where imprisonment is imposed it shall not exceed 10 years; and
 
 (b) notwithstanding section 11 of the Criminal Procedure Code (Cap. 68), if —
 
-(i) such offender, while committing the offence under section 43(3A), 47(5), 47C(5), 63(4), 64(1), 66(1) or 67(1) causes any serious injury or death to another person; or
+(i) such offender, while committing the offence under section 43 (4), 47(5), 47C(5), 63(4), 64(1), 66(1) or 67(1) causes any serious injury or death to another person; or
 
 (ii) in the case of an offender under section 70(4), such offender had, in driving or attempting to drive a motor vehicle at the time of any accident leading to his arrest under section 69(5), caused any serious injury or death to another person,
 
@@ -2040,7 +2152,7 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 “intoxicating substance” has the same meaning as in the Intoxicating Substances Act (Cap. 146A);
 
-“police station” includes any place or conveyance authorised or appointed by the Commissioner of Police to be used as a police station;
+“police station” includes any place or conveyance authorised or appointed by the Deputy Commissioner of Police to be used as a police station;
 
 “prescribed limit” means —
 
@@ -3475,3 +3587,8 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 8/98 published on 15 January 1998)|
 ||Date of Second and Third Readings|19 February 1998|
 ||Date of commencement|1 April 1998|
+|41.|**Act 1 of 1999—Road Traffic (Amendment) Act 1999**|
+||Date of First Reading|23 November 1998|
+|||(Bill No. 50/98 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|1 March 1999|
