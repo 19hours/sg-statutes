@@ -12,7 +12,7 @@
 
 - [3 Treatment for sexual sterilization](#Treatment-for-sexual-sterilization)
 
-- [4 Sexual sterilization to be carried out in Government hospital or approved institution](#Sexual-sterilization-to-be-carried-out-in-Government-hospital-or-approved-institution)
+- [4 Sexual sterilization to be carried out in approved institution](#Sexual-sterilization-to-be-carried-out-in-approved-institution)
 
 - [5 Privilege against disclosure of matters or treatment relating to sexual sterilization](#Privilege-against-disclosure-of-matters-or-treatment-relating-to-sexual-sterilization)
 
@@ -26,7 +26,7 @@
 
 - [10 Conscientious objection to participate in treatment for sexual sterilization](#Conscientious-objection-to-participate-in-treatment-for-sexual-sterilization)
 
-- [11 Charges for treatment for sexual sterilization](#Charges-for-treatment-for-sexual-sterilization)
+- [11 (Repealed)](#Repealed)
 
 - [12 Relief from certain restrictions where treatment consists solely of drugs](#Relief-from-certain-restrictions-where-treatment-consists-solely-of-drugs)
 
@@ -58,13 +58,11 @@ An Act relating to treatment for voluntary sexual sterilization by registered me
 
 “approved institution” means any hospital, maternity home, clinic or other place approved by the Minister for the purposes of this Act;
 
-“Government hospital” means any hospital, maternity home or clinic under the control of the Minister;
-
 “registered medical practitioner” means a person registered under the Medical Registration Act [Cap. 174] who —
 
 (a) is in possession of such medical qualifications as may be prescribed; or
 
-(b) has acquired skill in the treatment for sexual sterilization either in practice or by virtue of holding an appointment in a Government hospital or in an approved institution over such period as may be prescribed;
+(b) has acquired skill in the treatment for sexual sterilization either in practice or by virtue of holding an appointment in an approved institution over such period as may be prescribed;
 
 “treatment for sexual sterilization” means the surgical sterilization of a male or female that does not involve removal of the reproduction glands or organs unless such removal is necessary for medical or therapeutic reasons.
 
@@ -90,9 +88,9 @@ so long as in the cases to which paragraphs (d) and (e) refer the registered med
 
 (3) Before a registered medical practitioner carries out treatment for sexual sterilization he shall give to the person undergoing such treatment, or to the person that gives consent to that treatment on his behalf, a full and reasonable explanation as to the meaning and consequences of that treatment and such person, or the person who gives consent on his behalf, shall certify that he clearly understands the meaning and consequences of that treatment.
 
-### Sexual sterilization to be carried out in Government hospital or approved institution
+### Sexual sterilization to be carried out in approved institution
 
-4\. Subject to section 12, every treatment for sexual sterilization shall be carried out in a Government hospital or in an approved institution.
+4\. Subject to section 12, every treatment for sexual sterilization shall be carried out in an approved institution.
 
 ### Privilege against disclosure of matters or treatment relating to sexual sterilization
 
@@ -126,13 +124,7 @@ shall, unless the person upon whom the treatment has been performed expressly gi
 
 10\. No person shall be under any duty whether by contract or by any statutory or legal requirement to participate in any treatment for sexual sterilization authorised by this Act to which he has a conscientious objection.
 
-### Charges for treatment for sexual sterilization
-
-11\.—(1) Where treatment for sexual sterilization is carried out in a Government hospital the fee payable for such treatment shall be $5.
-
-(2) Any additional hospital costs that may be incurred in the Government hospital, where the treatment is carried out, shall be borne by the person undergoing such treatment.
-
-(3) The Minister may, from time to time by notification in theGazette, vary the fee payable for the treatment specified in subsection (1).
+11\. [Repealed by Act 26 of 2001 wef 01/09/2001]
 
 ### Relief from certain restrictions where treatment consists solely of drugs
 
@@ -140,7 +132,7 @@ shall, unless the person upon whom the treatment has been performed expressly gi
 
 (a) for the registered medical practitioner to hold the prescribed qualifications or to have acquired skill in such treatment over such period as may be prescribed; and
 
-(b) for the treatment to be carried out in a Government hospital or in an approved institution.
+(b) for the treatment to be carried out in an approved institution.
 
 ### Regulations
 
@@ -175,3 +167,8 @@ This Legislative History is provided for the convenience of users of the Volunta
 ||Date of operation|30 March 1987|
 |3.|**G.N. No. S 85/92—Revised Edition of the Laws (Rectification) Order 1992**|
 ||Date of commencement|30 March 1987|
+|4.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Dates of commencement|1 September 2001 (except sections 3 and 17)|
