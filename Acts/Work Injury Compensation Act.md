@@ -914,179 +914,285 @@ Description of Occupational Disease or Injury
 
 Nature of Occupation
 
-1. Anthrax
+1.
+
+Anthrax
 
 Any occupation involving the handling of wool, hair, bristles, hides or skins or other animal products or residues, or contact with animals infected with anthrax.
 
-2. Asbestosis
+2.
+
+Asbestosis
 
 Any occupation involving exposure to asbestos duest.
 
-3. Barotrauma
+3.
+
+Barotrauma
 
 Any occupation involving subjection to compressed air.
 
-4. Byssinosis
+4.
+
+Byssinosis
 
 Any occupation involving exposure to raw cotton dust.
 
-5. Cataract produced by exposure to the glare of, or rays from, molten glass or molten or red-hot metal
+5.
+
+Cataract produced by exposure to the glare of, or rays from, molten glass or molten or red-hot metal
 
 Any process involving frequent or prolonged exposure to the glare of, or rays from molten glass or molten or red-hot metal.
 
-6. Chrome Ulceration
+6.
+
+Chrome Ulceration
 
 Any process involving the use or handling of chromic acid, chromates or bichromates or any preparation or solution containing any of these substances.
 
-7. Compressed Air Illness or its sequelae
+7.
+
+Compressed Air Illness or its sequelae
 
 Any occupation involving subjection to compressed air.
 
-8. (a) Epitheliomatous cancer or ulceration of the skin
+8.(a)
+
+Epitheliomatous cancer or ulceration of the skin
 
 Any occupation involving the use or handling of, or exposure to tar, pitch, bitumen, mineral oil (including paraffin), soot or any compound, product, or residue of any of these substances.
 
-(b) Localised new growth of the skin, papillomatous or keratotic
+(b)
+
+Localised new growth of the skin, papillomatous or keratotic
 
 Any occupation involving the use or handling of, or exposure to tar, pitch, bitumen, mineral oil (including paraffin), soot or any compound, product, or residue of any of these substances.
 
-(c) Ulceration of the corneal surface of the eye
+(c)
+
+Ulceration of the corneal surface of the eye
 
 Any occupation involving the use or handling of, or exposure to tar, pitch, bitumen, mineral oil (including paraffin), soot or any compound, product, or residue of any of these substances.
 
-9. Glanders
+9.
+
+Glanders
 
 Any occupation involving contact with equine animals or their carcasses.
 
-10. Industrial Dermatitis
+10.
+
+Industrial Dermatitis
 
 Any occupation or process involving the exposure to or contact with cutaneous irritants or sensitisers such as alkalis and acids, solvents, mineral oils, synethetic and natural resins, certain woods, formaldehyde, nickel salts, chromates and bichromates, mercury compounds, chlorinated naphthalenes, rubber accelerators, fibre-glass and other chemicals.
 
-11. Repetitive strain disorder of the upper limb
+11.
+
+Repetitive strain disorder of the upper limb
 
 Any process or activity involving frequent or repeated movements of the upper limb.
 
-12. Inflammation, ulceration or malignant disease of the skin or subcutaneous tissues or of the bones, or leukaemia, or anaemia of the aplastic type
+12.
+
+Inflammation, ulceration or malignant disease of the skin or subcutaneous tissues or of the bones, or leukaemia, or anaemia of the aplastic type
 
 Any process involving exposure to x-rays, ionising particles, radium, or other radio-active substances or other forms of radiant energy.
 
-13. Leptospirosis or its sequelae
+13.
+
+Leptospirosis or its sequelae
 
 Any occupation involving contact with a source or sources of leptospiral infections e.g. abattoir, drainage and sewerage work, refuse collection, road sweeping and work with animals.
 
-14. Liver Angiosarcoma
+14.
+
+Liver Angiosarcoma
 
 Any occupation involving the use or handling of, or exposure to, vinyl chloride mononer.
 
-15. Mesothelioma
+15.
+
+Mesothelioma
 
 Any occupation involving the use or handling of, or exposure to, asbestos.
 
-16. Noise-Induced Deafness
+16.
+
+Noise-Induced Deafness
 
 Any occupation involving prolonged exposure to a high level of noise.
 
-17. Occupational Asthma
+17.
+
+Occupational Asthma
 
 Any occupation involving the use of or handling of or exposure to a chemical or other agent which may irritate or sensitise the respiratory system, e.g. isocyanates, rosin, formaldehyde, proteolytic enzymes.
 
-18. Poisoning by:
+18.
+
+Poisoning by:
 
 Any occupation or process involving:
 
-(a) Arsenic
+(a)
 
-— the use or handling of, or exposure to the fumes, dust or vapour of, arsenic or a compound of arsenic, or a substance containing arsenic or exposure to any solution containing arsenic or compound of arsenic;
+Arsenic
 
-(b) Benzene or a homologue
+—
 
-— the use or handling of, or exposure to or the fumes of, or vapour containing benzene or any of its homologues;
+the use or handling of, or exposure to the fumes, dust or vapour of, arsenic or a compound of arsenic, or a substance containing arsenic or exposure to any solution containing arsenic or compound of arsenic;
 
-(c) Cadmium
+(b)
 
-— the use or handling of, or exposure to the fumes, or dust of cadmium or its coumpounds;
+Benzene or a homologue
 
-(ca) Carbamate
+—
 
-— the production, use of handling of carbamate;
+the use or handling of, or exposure to or the fumes of, or vapour containing benzene or any of its homologues;
 
-(d) Carbon disulphide
+(c)
 
-— the use or handling of, or exposure to the fumes or vapour of, carbon disulphide or a compound of carbon disulphide, or a substance containing carbon disulphide;
+Cadmium
 
-(e) Carbon dioxide gas
+—
 
-— the exposure to carbon dioxide, e.g. in the manufacture of mineral water, fermentation in breweries or other processes;
+the use or handling of, or exposure to the fumes, or dust of cadmium or its coumpounds;
 
-(f) Carbon monoxide gas
+(ca)
 
-— the exposure to carbon monoxide, e.g. where blast furnaces and internal combustion engines are used;
+Carbamate
 
-(g) Cyanide
+—
 
-— the use or handling of, or exposure to the fumes, dust or vapour of, cyanide or compound of cyanide, or a substance containing cyanide;
+the production, use of handling of carbamate;
 
-(h) Halogen derivatives of hydrocarbon compounds
+(d)
 
-— the production, liberation or use of any halogen derivative of hydrocarbon compounds;
+Carbon disulphide
 
-(ha) Hydrogen sulphide
+—
 
-— the exposure to hydrogen sulphide, e.g. in oil refining, sewerage work and manholes;
+the use or handling of, or exposure to the fumes or vapour of, carbon disulphide or a compound of carbon disulphide, or a substance containing carbon disulphide;
 
-(i) Lead
+(e)
+
+Carbon dioxide gas
+
+—
+
+the exposure to carbon dioxide, e.g. in the manufacture of mineral water, fermentation in breweries or other processes;
+
+(f)
+
+Carbon monoxide gas
+
+—
+
+the exposure to carbon monoxide, e.g. where blast furnaces and internal combustion engines are used;
+
+(g)
+
+Cyanide
+
+—
+
+the use or handling of, or exposure to the fumes, dust or vapour of, cyanide or compound of cyanide, or a substance containing cyanide;
+
+(h)
+
+Halogen derivatives of hydrocarbon compounds
+
+—
+
+the production, liberation or use of any halogen derivative of hydrocarbon compounds;
+
+(ha)
+
+Hydrogen sulphide
+
+—
+
+the exposure to hydrogen sulphide, e.g. in oil refining, sewerage work and manholes;
+
+(i)
+
+Lead
 
 — the use or handling of, or exposure to the fumes, dust or vapour of, lead or compound of lead, or a substance containing lead;
 
-(j) Manganese
+(j)
+
+Manganese
 
 — the use or handling of manganese or substance containing manganese;
 
-(k) Mercury
+(k)
 
-— the use or handling of, or exposure to the fumes, dust or vapour of, mercury or a compound of mercury, or a substance containing mercury;
+Mercury
 
-(l) Nitrous fumes
+—
 
-— the use or handling of nitric acid or exposure to nitrous fumes;
+the use or handling of, or exposure to the fumes, dust or vapour of, mercury or a compound of mercury, or a substance containing mercury;
 
-(m) Organophosphates
+(l)
 
-— the production, use or handling of organophosphates;
+Nitrous fumes
 
-(n) Phosphorus
+—
 
-— the use or handling of, or exposure to the fumes, dust or vapour of, phosphorus or a compound of phosphorus, or a substance containing phosphorus.
+the use or handling of nitric acid or exposure to nitrous fumes;
 
-19. Silcosis
+(m)
+
+Organophosphates
+
+—
+
+the production, use or handling of organophosphates;
+
+(n)
+
+Phosphorus
+
+—
+
+the use or handling of, or exposure to the fumes, dust or vapour of, phosphorus or a compound of phosphorus, or a substance containing phosphorus.
+
+19.
+
+Silcosis
 
 Any occupation involving exposure to silica dust, e.g., in granite quarries, foundries with sand moulds.
 
-20. Toxic hepatitis
+20.
+
+Toxic hepatitis
 
 Any process involving the use or handling of, or exposure to, tetrachloroethane, nitro-derivatives or amino-derivatives of benzene, vinyl chloride monomer, or other poisonous substances.
 
-21. Tuberculosis
+21.
+
+Tuberculosis
 
 Any occupation involving close and frequent contact with a source or sources of tuberculosis infection by reason of employment —
 
-(a) in the medical treatment or nursing of a person or persons suffering from tuberculosis, or in a service ancillary to such treatment or nursing;
+(a)
 
-(b) in attendance upon a person or persons suffering from tuberculosis, where the need for such attendance arises by reason of physical or mental infirmity;
+in the medical treatment or nursing of a person or persons suffering from tuberculosis, or in a service ancillary to such treatment or nursing;
 
-(c) as a research worker engaged in research in connection with tuberculosis;
+(b)
 
-(d) as a laboratory worker, pathologist or post-mortem worker, where the occupation involves working with material which is a source of tuberculosis infection, or in any occupation ancillary to such employment.
+in attendance upon a person or persons suffering from tuberculosis, where the need for such attendance arises by reason of physical or mental infirmity;
+
+(c)
+
+as a research worker engaged in research in connection with tuberculosis;
+
+(d)
+
+as a laboratory worker, pathologist or post-mortem worker, where the occupation involves working with material which is a source of tuberculosis infection, or in any occupation ancillary to such employment.
 
 [S 316/95 wef 01/08/1995]
-
-[S 316/95]
-
-[S 316/95 wef 01/08/1995]
-
-[Subst. by S 316/95 wef 01/08/1995]
-
-[Subst by S 316/95 wef 01/08/1995]
 
 [S 336/86]
 
@@ -1403,3 +1509,5 @@ This Legislative History is provided for the convenience of users of the Workmen
 |||(Bill No. 16/90 published on 15 June 1990)|
 ||Date of Second and Third Readings|18 July 1990|
 ||Date of commencement|1 September 1990|
+|5.|**G. N. No. S 316/1995—The Workmen’s Compensation (Amendment of Second Schedule) Order 1995**|
+||Date of commencement|1 August 1995|
