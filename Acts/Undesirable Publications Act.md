@@ -230,7 +230,9 @@ shall forthwith, as soon as the nature of its contents has become known to him, 
 
 (a) officer of a public postal licensee not below the rank of postal superintendent;
 
-(b) officer of the Customs and Excise Department not below the rank of Assistant Superintendent of Customs and Excise;
+(b) senior officer of customs;
+
+[4/2003 wef 01/04/2003]
 
 (c) police officer not below the rank of sergeant; and
 
@@ -241,6 +243,10 @@ may detain, open and examine any package or article which he suspects to contain
 [21/73; 12/92]
 
 (2) If any prohibited publication or extract therefrom is found in such package or article, the whole package or article may be impounded and retained by the officer and the person importing, distributing or posting it, or in whose possession it is found, may forthwith be arrested by such officer and proceeded against for the commission of an offence under section 6 or 7, as the case may be.
+
+(3) In this section, “senior officer of customs” has the same meaning as in the Customs Act (Cap. 70).
+
+[4/2003 wef 01/04/2003]
 
 ### Forfeiture
 
@@ -530,3 +536,9 @@ This Legislative History is provided for the convenience of users of the Undesir
 |||(Bill No. 37/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Date of commencement|1 January 2003|
+|10.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
