@@ -1,20 +1,18 @@
-**Countervailing and Anti-Dumping Duties Act 1996**
+**Countervailing and Anti-Dumping Duties Act**
 
-**(No. 33 of 1996)**
+**(CHAPTER 65B)**
 
 **Table of Contents**
 
 [**Long Title**](#Countervailing-and-Anti-Dumping-Duties-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II Countervailing Duties**](#Part-II)
+[**Part II COUNTERVAILING DUTIES**](#Part-II)
 
 - [3 Imposition of countervailing duties](#Imposition-of-countervailing-duties)
 
@@ -110,49 +108,31 @@
 
 - [46 Power to make regulations](#Power-to-make-regulations)
 
-- [47 Repeal](#Repeal)
+- [47 Transitional provision](#Transitional-provision)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Countervailing and Anti-Dumping Duties Act
 
-ACTS SUPPLEMENT
+(CHAPTER 65B)
 
-Published by Authority
+(Original Enactment: Act 33 of 1996)
 
-NO. 36]
+REVISED EDITION 1997
 
-Friday, November 1
+(30th May 1997)
 
-[1996
+An Act to make provisions for the investigation and determination of subsidies being provided on, and the dumping of, goods imported into Singapore, the imposition of countervailing and anti-dumping duties to offset such subsidies or dumping and for matters connected therewith.
 
-The following Act was passed by Parliament on 1st October 1996 and assented to by the President on 16th October 1996:—
-
-Countervailing and Anti-dumping Duties Act 1996
-
-(No. 33 of 1996)
-
-I assent.
-
-ONG TENG CHEONG
-
-President
-
-16th October 1996.
-
-Date of Commencement: 1st November 1996
-
-An Act to make provisions for the investigation and determination of subsidies being provided on, and the dumping of, goods imported into Singapore, the imposition of countervailing and anti-dumping duties to offset such subsidies or dumping and for matters connected therewith, and to repeal the Customs (Dumping and Subsidies) Act (Chapter 71 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st November 1996]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Countervailing and Anti-Dumping Duties Act 1996 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Countervailing and Anti-Dumping Duties Act.
 
 ### Interpretation
 
@@ -278,7 +258,7 @@ provided that there are grounds for believing or suspecting that the effects of 
 
 ## PART II
 
-Countervailing Duties
+COUNTERVAILING DUTIES
 
 ### Imposition of countervailing duties
 
@@ -502,7 +482,7 @@ Countervailing Duties
 
 (c) make a final determination under section 9 within the prescribed period after the publication of the preliminary determination.
 
-(10) Where an investigation has been completed under subsection (5), the Minister may forthwith issue a final determination under section 9 and collect the countervailing duties applicable.
+(10) Where an investigation has been completed under subsection (4), the Minister may forthwith make a final determination under section 9 and collect the countervailing duties applicable.
 
 (11) The Minister may use the facts available with respect to any determination under subsection (9) where a material violation of the undertakings occurs.
 
@@ -594,7 +574,7 @@ ANTI-DUMPING DUTIES
 
 15\.—(1) For the purpose of this Act, the normal value of any subject goods shall be the comparable price actually paid or payable in the ordinary course of trade for like goods sold for consumption in the domestic market of the exporting country.
 
-(2) Where there are no sales in the domestic market of the exporting country under subsection (1), or where, because of the particular market situation or the low volume of the sales in the domestic market of the exporting country, such sales do not permit a proper comparison, the normal value of the subject goods shall be either —
+(2) Where there are no sales in the domestic market of the exporting country under subsection (1), or where, because of the particular market situation or the low volume of the sales in the domestic market of the exporting country, such sales do not permit a proper comparison, the normal value of the subject goods shall be —
 
 (a) the comparable price actually paid or payable in the ordinary course of trade for like goods exported to any appropriate third country, provided that such price is representative; or
 
@@ -818,7 +798,7 @@ ANTI-DUMPING DUTIES
 
 (c) make a final determination under section 23 within 120 days after the publication of the preliminary determination.
 
-(10) Where an investigation has been completed under subsection (5), the Minister may immediately issue a final determination under section 23 and collect the anti-dumping duties applicable.
+(10) Where an investigation has been completed under subsection (5), the Minister may immediately make a final determination under section 23 and collect the anti-dumping duties applicable.
 
 (11) The Minister may use the facts available with respect to any determination under subsection (9) or (10) where a material violation of the undertakings occurs under subsection (8)(b).
 
@@ -908,7 +888,7 @@ ADMINISTRATION
 
 (6) The Chairman or any member of the Tribunal may at any time resign from his office by giving notice in writing to the Minister.
 
-(7) The Chairman and members of the Tribunal shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
+(7) The Chairman and members of the Tribunal shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
 (8) The Tribunal shall review the evidence on the record to ascertain whether there is substantial evidence on the record to support the decision of the Minister.
 
@@ -930,19 +910,19 @@ ADMINISTRATION
 
 ### Delegation
 
-31\.—(1) The Minister may, by writing under his hand, delegate to any person, either generally or otherwise, all or any of his powers and functions under this Act or any regulations made thereunder except his powers under sections 3, 9, 14, 23 and 46; and any reference in this Act or the regulations to the Minister shall, unless the context otherwise requires, include a reference to a delegate.
+31\.—(1) The Minister may, by writing under his hand, delegate to any person, either generally or otherwise, all or any of his powers and functions under this Act or any regulations made thereunder except his powers under sections 3, 9, 14, 23 and 46; and any reference in this Act or those regulations to the Minister shall, unless the context otherwise requires, include a reference to a delegate.
 
 (2) A delegate of the Minister is, in the exercise of his powers and the performance of his functions under this Act or any regulations made thereunder, other than in his being satisfied or having an opinion as to any matter, subject to the directions of the Minister.
 
 ### Application of Customs Act
 
-32\.—(1) This Act shall be construed as one with the Customs Act and, unless otherwise provided in this Act, for the purposes of the interpretation of this Act, section 3 of the Customs Act shall apply to this Act in the same manner as it applies for the purposes of the interpretation of the Customs Act.
+32\.—(1) This Act shall be construed as one with the Customs Act (Cap. 70) and, unless otherwise provided in this Act, for the purposes of the interpretation of this Act, section 3 of the Customs Act shall apply to this Act in the same manner as it applies for the purposes of the interpretation of the Customs Act.
 
 (2) In the event of any inconsistency occurring between the provisions of the Customs Act and the provisions of this Act, the provisions of this Act shall prevail.
 
 (3) Any countervailing or anti-dumping duty imposed under this Act shall be paid to the Director-General of Customs and Excise.
 
-(4) The Customs Act [Cap. 70] [Cap. 70] shall, to the extent relevant and with such exceptions or modifications as may be prescribed, apply to any countervailing or anti-dumping duty as it applies to a customs duty imposed under the provisions of the Customs Act.
+(4) The Customs Act shall, to the extent relevant and with such exceptions or modifications as may be prescribed, apply to any countervailing or anti-dumping duty as it applies to a customs duty imposed under the provisions of the Customs Act.
 
 ## PART V
 
@@ -1048,7 +1028,7 @@ the Minister shall allow exporters at least 60 days to adjust their export price
 
 ### Public servants
 
-44\. Any person acting for and on behalf of or under the direction of the Minister under this Act or any regulations made thereunder shall be deemed to be a public servant for the purposes of the Penal Code [Cap. 224].
+44\. Any person acting for and on behalf of or under the direction of the Minister under this Act or any regulations made thereunder shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
 
 ### Obligation of secrecy
 
@@ -1084,9 +1064,24 @@ the Minister shall allow exporters at least 60 days to adjust their export price
 
 (i) to provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-### Repeal
+### Transitional provision
 
-47\.—(1) The Customs (Dumping and Subsidies) Act [Cap. 71] is repealed.
+47\. The repealed Customs (Dumping and Subsidies) Act (Cap. 71, 1985 Ed.) and any subsidiary legislation made thereunder in force immediately before 1st November 1996 shall continue to apply to any representation, investigation, application or order made or thing done under that Act or subsidiary legislation as if this Act had not been enacted but shall not apply to the procedure for any review of existing measures initiated, pursuant to an application, after that date.
 
-(2) Notwithstanding subsection (1), the repealed Customs (Dumping and Subsidies) Act and any subsidiary legislation made thereunder in force immediately before the date of commencement of this Act shall continue to apply to any representation, investigation, application or order made or thing done under the repealed Act and subsidiary legislation as if this Act had not been enacted but shall not apply to the procedure for any review of existing measures initiated, pursuant to an application, after that date.
+## LEGISLATIVE HISTORY
 
+Countervailing and Anti-Dumping Duties Act
+
+(CHAPTER 65B)
+
+This Legislative History is provided for the convenience of users of the Countervailing and Anti-Dumping Duties Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 33 of 1996—Countervailing and Anti-Dumping Duties Act 1996**|
+||Date of First Reading|12.7.96|
+|||(Bill No. 24/96 published on 13.7.96)|
+||Date of Second and Third Readings|1.10.96|
+||Date of commencement|1.11.96|
+|2.|**1997 Revised Edition—Countervailing and Anti-Dumping Duties Act**|
+||Date of operation|30 May 1997|
