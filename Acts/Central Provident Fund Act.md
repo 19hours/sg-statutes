@@ -484,8 +484,6 @@ CONTRIBUTIONS TO FUND
 
 (b) invested in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap.1); or
 
-[45/2004 wef 15/12/2004]
-
 (c) used for the purchase of any property and for the construction of buildings for the purposes of the Board or for letting to derive income therefrom and the Board may dispose of all or any part of the property or buildings.
 
 (3) The land situate at 79 Robinson Road, Singapore, acquired by the Board and the building constructed thereon prior to 15th May 1980 shall be deemed to have been purchased and constructed by the Board in pursuance of the powers conferred upon the Board by subsection (2)(c).
@@ -2618,7 +2616,9 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1. Subject to paragraphs 2 to 7, with effect from 1st January 2004, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1. Subject to paragraphs 2 to 7, with effect from 1st January 2005, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+
+[S 801/2004 wef 01/01/2005]
 
 1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
@@ -3996,9 +3996,9 @@ until the employee leaves the employment of the employer or the agreement expire
 
 then the agreed rates of the contribution shall continue to apply in relation to that employee until the employee leaves the employment of the employer, or the agreement expires or is lawfully terminated, whichever is the earlier.
 
-2\. No contributions shall be payable by an employer on the additional wages in a year which are in excess of $93,500 less the amount of ordinary wages for that year.
+2\. No contributions shall be payable by an employer on the additional wages in a year which are in excess of $85,000 less the amount of ordinary wages for that year.
 
-3. Where the additional wages of an employee are paid at any time before the relevant time and before the amount of his ordinary wages for that year is computed, no contributions shall be payable by an employer on the additional wages which are in excess of an amount computed as follows: $93,500 less —
+3. Where the additional wages of an employee are paid at any time before the relevant time and before the amount of his ordinary wages for that year is computed, no contributions shall be payable by an employer on the additional wages which are in excess of an amount computed as follows: $85,000 less —
 
 (a) the ordinary wages of the employee for the preceding year; and
 
@@ -4010,11 +4010,11 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (3) Where the employer is required to make additional contributions under sub-paragraph (2), he shall be entitled to recover from the employee’s wages, at the rate of recovery for additional wages applicable to the employee, the amount of additional contributions paid by the employer under that sub-paragraph.
 
-4A\. In computing the amount of ordinary wages for a year or a preceding year for the purposes of paragraphs 2, 3 and 4, the amount of ordinary wages which is in excess of $5,500 for any month shall be disregarded.
+4A\. In computing the amount of ordinary wages for a year or a preceding year for the purposes of paragraphs 2, 3 and 4, the amount of ordinary wages which is in excess of $5,000 for any month shall be disregarded.
 
 5. For the purpose of this Schedule —
 
-(a) a person shall be deemed to have attained 55, 60 or 65 years of age on the fifty-fifth, sixtieth or sixty-fifth anniversary, respectively, of the day of his birth and the contributions payable in respect of an employee above 55, 60 or 65 years of age shall be payable from the first day of the month following the month in which the employee attains that age;
+(a) a person shall be deemed to have attained 50, 55, 60 or 65 years of age on the fiftieth, fifty-fifth, sixtieth or sixty-fifth anniversary, respectively, of the day of his birth and the contributions payable in respect of an employee above 50, 55, 60 or 65 years of age shall be payable from the first day of the month following the month in which the employee attains that age;
 
 [S 801/2004 wef 01/01/2005]
 
@@ -4040,113 +4040,113 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (1) The managers of any aided school.
 
-(2) Agency for Science, Technology and Research (A*Star).
+(2) Accounting and Corporate Regulatory Authority.
 
-(3) Agri-Food and Veterinary Authority of Singapore.
+(3) Agency for Science, Technology and Research (A*Star).
 
-(4) Board of Architects.
+(4) Agri-Food and Veterinary Authority of Singapore.
 
-(5) Building and Construction Authority.
+(5) Board of Architects.
 
-(6) Central Provident Fund Board.
+(6) Building and Construction Authority.
 
-(7) Civil Aviation Authority of Singapore.
+(7) Central Provident Fund Board.
 
-(8) Civil Service College.
+(8) Civil Aviation Authority of Singapore.
 
-(9) Commercial and Industrial Security Corporation.
+(9) Civil Service College.
 
-(10) Contact Lens Practitioners Board.
+(10) Commercial and Industrial Security Corporation.
 
-(11) Defence Science and Technology Agency.
+(11) Contact Lens Practitioners Board.
 
-(12) Economic Development Board.
+(12) Defence Science and Technology Agency.
 
-(13) Energy Market Authority of Singapore.
+(13) Economic Development Board.
 
-(14) Health Promotion Board.
+(14) Energy Market Authority of Singapore.
 
-(15) Health Sciences Authority.
+(15) Health Promotion Board.
 
-(16) Hindu Advisory Board.
+(16) Health Sciences Authority.
 
-(17) Hindu Endowments Board.
+(17) Hindu Advisory Board.
 
-(18) Hotels Licensing Board.
+(18) Hindu Endowments Board.
 
-(19) Housing and Development Board.
+(19) Hotels Licensing Board.
 
-(20) Info-communications Development Authority of Singapore.
+(20) Housing and Development Board.
 
-(21) Inland Revenue Authority of Singapore.
+(21) Info-communications Development Authority of Singapore.
 
-(22) Institute of Southeast Asian Studies.
+(22) Inland Revenue Authority of Singapore.
 
-(23) Institute of Technical Education, Singapore.
+(23) Institute of Southeast Asian Studies.
 
-(24) Intellectual Property Office of Singapore.
+(24) Institute of Technical Education, Singapore.
 
-(25) International Enterprise Singapore Board.
+(25) Intellectual Property Office of Singapore.
 
-(26) Jurong Town Corporation.
+(26) International Enterprise Singapore Board.
 
-(27) Land Transport Authority of Singapore.
+(27) Jurong Town Corporation.
 
-(28) Majlis Ugama Islam, Singapura.
+(28) Land Transport Authority of Singapore.
 
-(29) Maritime and Port Authority of Singapore.
+(29) Majlis Ugama Islam, Singapura.
 
-(30) Media Development Authority.
+(30) Maritime and Port Authority of Singapore.
 
-(31) Monetary Authority of Singapore.
+(31) Media Development Authority of Singapore.
 
-(32) Nanyang Polytechnic.
+(32) Monetary Authority of Singapore.
 
-(33) Nanyang Technological University.
+(33) Nanyang Polytechnic.
 
-(34) National Arts Council.
+(34) Nanyang Technological University.
 
-(35) National Council of Social Service.
+(35) National Arts Council.
 
-(36) National Environment Agency.
+(36) National Council of Social Service.
 
-(37) National Heritage Board.
+(37) National Environment Agency.
 
-(38) National Institute of Education.
+(38) National Heritage Board.
 
-(39) National Library Board.
+(39) National Institute of Education.
 
-(40) National Parks Board.
+(40) National Library Board.
 
-(41) National University of Singapore.
+(41) National Parks Board.
 
-(42) Ngee Ann Polytechnic.
+(42) National University of Singapore.
 
-(43) People’s Association.
+(43) Ngee Ann Polytechnic.
 
-(44) Pharmacy Board.
+(44) People’s Association.
 
 (45) Preservation of Monuments Board.
 
 (46) Professional Engineers Board.
 
-(47) Accounting and Corporate Regulatory Authority.
+(47) Public Transport Council.
 
-(48) Public Transport Council.
+(48) Public Utilities Board.
 
-(49) Public Utilities Board.
+(49) Republic Polytechnic.
 
-(50) Republic Polytechnic.
+(50) Science Centre Board.
 
-(51) Science Centre Board.
+(51) Sentosa Development Corporation.
 
-(52) Sentosa Development Corporation.
+(52) Sikh Advisory Board.
 
-(53) Sikh Advisory Board.
+(53) Singapore Corporation of Rehabilitative Enterprises.
 
-(54) Singapore Corporation of Rehabilitative Enterprises.
+(54) Singapore Dental Council.
 
-(55) Singapore Dental Council.
+(55) Singapore Examinations and Assessment Board.
 
 (56) Singapore Labour Foundation.
 
@@ -4156,25 +4156,29 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (59) Singapore Nursing Board.
 
-(60) Singapore Polytechnic.
+(60) Singapore Pharmacy Board.
 
-(61) Singapore Sports Council.
+(61) Singapore Polytechnic.
 
-(62) Singapore Totalisator Board.
+(62) Singapore Sports Council.
 
-(63) Singapore Tourism Board.
+(63) Singapore Totalisator Board.
 
-(64) Singapore Workforce Development Agency
+(64) Singapore Tourism Board.
 
-(65) Specialist Accreditation Board.
+(65) Singapore Workforce Development Agency.
 
-(66) Standards, Productivity and Innovation Board (Spring Singapore).
+(66) Specialist Accreditation Board.
 
-(67) Temasek Polytechnic.
+(67) Standards, Productivity and Innovation Board (Spring Singapore).
 
-(68) Traditional Chinese Medicine Practitioners Board.
+(68) Temasek Polytechnic.
 
-(69) Urban Redevelopment Authority.
+(69) Traditional Chinese Medicine Practitioners Board.
+
+(70) Urban Redevelopment Authority.
+
+[S 801/2004 wef 01/01/2005]
 
 7. Contributions shall be payable for and recoverable from the wages of such employees who are —
 
@@ -4832,6 +4836,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|138.|**G.N. No. S 801/2004—Central Provident Fund Act (Amendment of First Schedule) Notification 2004**|
+||Date of commencement|1 January 2005|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
