@@ -44,21 +44,21 @@
 
 - [14 Application](#Application)
 
-- [15 Modification of this Act](#Modification-of-this-Act)
+- [15 Modification of Act](#Modification-of-Act)
 
-- [16 Certain persons to remain subject to this Act](#Certain-persons-to-remain-subject-to-this-Act)
+- [16 Certain persons to remain subject to Act](#Certain-persons-to-remain-subject-to-Act)
 
 [**Division 2  Liability of persons subject to this Act to be tried and punished for service offences**](#Division-2--Liability-of-persons-subject-to-this-Act-to-be-tried-and-punished-for-service-offences)
 
 - [17 Trial and punishment of person committing service offence](#Trial-and-punishment-of-person-committing-service-offence)
 
-- [18 Trial and punishment of service offences under this Act notwithstanding offender ceasing to be subject to this Act](#Trial-and-punishment-of-service-offences-under-this-Act-notwithstanding-offender-ceasing-to-be-subject-to-this-Act)
+- [18 Trial and punishment of service offences under Act notwithstanding offender ceasing to be subject to Act](#Trial-and-punishment-of-service-offences-under-Act-notwithstanding-offender-ceasing-to-be-subject-to-Act)
 
-- [19 Limitation of time for trial of offences under this Act](#Limitation-of-time-for-trial-of-offences-under-this-Act)
+- [19 Limitation of time for trial of offences under Act](#Limitation-of-time-for-trial-of-offences-under-Act)
 
 - [20 Jurisdiction of courts](#Jurisdiction-of-courts)
 
-- [21 Persons not to be tried under this Act for offences already disposed of](#Persons-not-to-be-tried-under-this-Act-for-offences-already-disposed-of)
+- [21 Persons not to be tried under Act for offences already disposed of](#Persons-not-to-be-tried-under-Act-for-offences-already-disposed-of)
 
 - [22 Application of principles of Penal Code](#Application-of-principles-of-Penal-Code)
 
@@ -70,13 +70,13 @@
 
 - [25 Connivance at desertion](#Connivance-at-desertion)
 
-- [26 Assault on a guard](#Assault-on-a-guard)
+- [26 Assault on guard](#Assault-on-guard)
 
 - [27 Offence by or in relation to person on guard or on watch](#Offence-by-or-in-relation-to-person-on-guard-or-on-watch)
 
-- [28 Violence to a superior](#Violence-to-a-superior)
+- [28 Violence to superior](#Violence-to-superior)
 
-- [29 Assault on a subordinate](#Assault-on-a-subordinate)
+- [29 Assault on subordinate](#Assault-on-subordinate)
 
 - [30 Cruel, indecent or disgraceful conduct](#Cruel-indecent-or-disgraceful-conduct)
 
@@ -144,7 +144,7 @@
 
 - [61 Detention in civil custody of arrested person](#Detention-in-civil-custody-of-arrested-person)
 
-- [62 Person in custody to be dealt with in accordance with this Act](#Person-in-custody-to-be-dealt-with-in-accordance-with-this-Act)
+- [62 Person in custody to be dealt with in accordance with Act](#Person-in-custody-to-be-dealt-with-in-accordance-with-Act)
 
 - [63 Avoidance of delay after arrest](#Avoidance-of-delay-after-arrest)
 
@@ -170,7 +170,7 @@
 
 - [73 Trial of former members](#Trial-of-former-members)
 
-- [74 Dismissal of a charge](#Dismissal-of-a-charge)
+- [74 Dismissal of charge](#Dismissal-of-charge)
 
 - [75 Punishments](#Punishments)
 
@@ -198,7 +198,7 @@
 
 - [86 Provost officer may investigate service offences](#Provost-officer-may-investigate-service-offences)
 
-- [87 Powers of investigation of a provost officer](#Powers-of-investigation-of-a-provost-officer)
+- [87 Powers of investigation of provost officer](#Powers-of-investigation-of-provost-officer)
 
 [**Part IX DEDUCTIONS FROM PAY OF A MEMBER**](#Part-IX)
 
@@ -210,7 +210,7 @@
 
 - [91 Write-off of public property](#Write-off-of-public-property)
 
-[**Part X BOARDS OF INQUIRY**](#Part-X)
+[**Part X BOARD OF INQUIRY**](#Part-X)
 
 - [92 Board of inquiry](#Board-of-inquiry)
 
@@ -218,7 +218,7 @@
 
 - [94 Powers](#Powers)
 
-- [95 Summoning and privilege of witnesses at a board of inquiry and misconduct of civilian thereat](#Summoning-and-privilege-of-witnesses-at-a-board-of-inquiry-and-misconduct-of-civilian-thereat)
+- [95 Summoning and privilege of witnesses at board of inquiry and misconduct of civilian thereat](#Summoning-and-privilege-of-witnesses-at-board-of-inquiry-and-misconduct-of-civilian-thereat)
 
 - [96 Evidence and procedure](#Evidence-and-procedure)
 
@@ -238,7 +238,7 @@
 
 - [102 Declaration of state of civil defence emergency](#Declaration-of-state-of-civil-defence-emergency)
 
-- [103 Special powers during an emergency](#Special-powers-during-an-emergency)
+- [103 Special powers during emergency](#Special-powers-during-emergency)
 
 [**Part XIII TRAINING OF CIVILIAN POPULATION IN CIVIL DEFENCE**](#Part-XIII)
 
@@ -270,17 +270,19 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Civil Defence Act
 
 (CHAPTER 42)
 
 (Original Enactment: Act 29 of 1986)
 
-REVISED EDITION 1985
+REVISED EDITION 2001
 
-(30th March 1987)
+(31st July 2001)
 
-An Act to provide for the raising, maintenance and discipline of a civil defence force and for the exercise of the functions and powers of the Force during national emergencies and for purposes connected therewith.
+An Act to provide for the raising, maintenance and discipline of a civil defence force and for the exercise of the functions and powers of the Force during national emergencies, and for purposes connected therewith.
 
 [14th November 1986]
 
@@ -298,9 +300,11 @@ PRELIMINARY
 
 “auxiliary member” means any person who has been recruited to serve as a member of the Force on a part-time basis;
 
-“civil defence” means the planning, organisation, co-ordination and implementation of measures, other than measures amounting to an actual combat, that are necessary or desirable for the safety of the public and are designed to guard against, prevent, reduce, or overcome the effects or possible effects of a national emergency or a civil defence emergency and includes the conducting of, and participation in, drills, exercises and training for such purposes;
+“civil defence” means the planning, organisation, co-ordination and implementation of measures, other than measures amounting to an actual combat, that are necessary or desirable for the safety of the public and are designed to guard against, prevent, reduce, or overcome the effects or possible effects of a national emergency or a civil defence emergency, and includes the conducting of, and participation in, drills, exercises and training for such purposes;
 
 “civil defence emergency” means any fire, explosion, earthquake, oil spill, eruption, flood, storm or other happening (whether or not attributable to an attack by an enemy or to any warlike act) that causes or may cause destruction of or damage to property or loss of life or injury or distress to persons or that in any way endangers the safety of the public in Singapore or in any part thereof;
+
+[32/2010 wef 01/02/2011]
 
 “commanding officer” means —
 
@@ -312,11 +316,11 @@ PRELIMINARY
 
 “detention barracks” means any building or part of a building which is set apart by the Commissioner for those members who are serving sentences of detention;
 
-“disciplinary officer” means a junior disciplinary officer or a senior disciplinary officer designated as such pursuant to the provisions of Part VII;
+“disciplinary officer” means a junior disciplinary officer or a senior disciplinary officer designated as such under Part VII;
 
 “Force” means the Singapore Civil Defence Force raised and maintained in accordance with the provisions of this Act;
 
-“full-time service” has the same meaning as in the Enlistment Act [Cap. 93];
+“full-time service” has the same meaning as in the Enlistment Act (Cap. 93);
 
 “Fund” means the Civil Defence Force Fund established under section 101;
 
@@ -324,19 +328,27 @@ PRELIMINARY
 
 “member” means an officer or a serviceman of the Force;
 
+[32/2010 wef 01/02/2011]
+
 “national service” and “national serviceman” have the same meanings as in the Enlistment Act;
 
 “non-commissioned officer” means a member holding a rank not higher than the rank of warrant officer and not lower than the rank of lance-corporal;
+
+[32/2010 wef 01/02/2011]
 
 “offence” means an offence punishable under any written law or a service offence;
 
 “officer” means an officer of the rank of second lieutenant and above;
 
+“operationally ready national service” has the same meaning as in the Enlistment Act;
+
+“operationally ready national serviceman” means a person liable to render operationally ready national service under the Enlistment Act;
+
 “person of a higher rank”, in relation to a member, includes any other member who, by virtue of his office or appointment, is entitled to exercise command over the first-mentioned member;
 
 “police officer” means any member of the Singapore Police Force;
 
-“proper authority” has the same meaning as in the Enlistment Act;
+“proper authority” has the same meaning as in the Enlistment Act (Cap. 93);
 
 “provost officer” means —
 
@@ -348,13 +360,11 @@ PRELIMINARY
 
 “public authority” includes a body corporate constituted under any written law to perform certain functions or vested with certain powers;
 
-“reserve service” has the same meaning as in the Enlistment Act [Cap. 93];
-
-“reservist” means a person liable to render reserve service under the Enlistment Act;
-
 “regulations” means the regulations made under this Act;
 
-“serviceman” means a member of the Force holding a rank not higher than the rank of a warrant officer and includes a recruit in the Force;
+“serviceman” means a member of the Force holding a rank not higher than the rank of warrant officer and includes a recruit in the Force;
+
+[32/2010 wef 01/02/2011]
 
 “service land” means land (including a building or other structure or part thereof) in the possession of or under the control of —
 
@@ -364,17 +374,21 @@ PRELIMINARY
 
 “service offence” means an offence punishable under any of the provisions of Part V;
 
-“service property” means property used by, or in the possession or control of, —
+“service property” means property used by, or in the possession or control of —
 
 (a) the Force; or
 
 (b) a mess, club, common room, canteen or other institution of the Force,
 
-and “service ship”, “service aircraft”, and “service vehicle” shall have corresponding meanings;
+and “service ship”, “service aircraft” and “service vehicle” shall have corresponding meanings;
+
+[32/2010 wef 01/02/2011]
 
 “state of civil defence emergency” means a state of civil defence emergency declared under section 102;
 
 “state of emergency” means the period when a Proclamation of Emergency issued by the President under Article 150 of the Constitution of the Republic of Singapore is in force.
+
+[19/94]
 
 ## PART II
 
@@ -382,7 +396,7 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 ### Raising and maintenance of Singapore Civil Defence Force
 
-3\. There shall be raised and maintained in accordance with the provisions of this Act and of the regulations a civil defence force to be known as the Singapore Civil Defence Force, which shall consist of such number of officers and servicemen as are from time to time approved by the Minister.
+3\. There shall be raised and maintained in accordance with the provisions of this Act, a civil defence force to be known as the Singapore Civil Defence Force, which shall consist of such number of officers and servicemen as are from time to time approved by the Minister.
 
 ### Functions of Force
 
@@ -391,6 +405,8 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 (a) to carry out civil defence duties; and
 
 (b) to instruct the members of the public regarding civil defence and to equip them for the purposes of such defence.
+
+[32/2010 wef 01/02/2011]
 
 (2) Without limiting the generality of subsection (1), the Force may exercise and perform all the following functions and duties:
 
@@ -402,15 +418,13 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 (d) train and equip the civilian population to cope with any civil defence emergency;
 
-(e) assist the public authorities and other agencies to provide for the relief of distress and for welfare generally including the accommodation of the homeless and the conserving and supplying of food, fuel, clothing, first-aid and medical supplies and other necessities;
+(e) assist the public authorities and other agencies to provide for the relief of distress and for welfare generally, including the accommodation of the homeless and the conserving and supplying of food, fuel, clothing, first-aid and medical supplies and other necessities;
 
 (f) assist the public authorities to undertake measures for the disposal of the dead;
 
 (g) disseminate information and advice to the public;
 
 (h) take lawful measures to extinguish and prevent the spread of fire;
-
-[39/1993 wef 29/04/1994]
 
 (i) provide, maintain, control and operate prescribed warning devices;
 
@@ -422,19 +436,13 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 (m) take lawful measures for protecting life and property in case of fire;
 
-[39/1993 wef 29/04/1994]
-
 (n) provide and maintain an adequate emergency ambulance service;
-
-[39/1993 wef 29/04/1994]
 
 (o) ensure effective co-ordination between the Force and other fire services in Singapore; and
 
-[39/1993 wef 29/04/1994]
-
 (p) execute such other duties as may be imposed on it by this Act or any other written law.
 
-[39/1993 wef 29/04/1994]
+[39/93]
 
 ### Organisation
 
@@ -450,9 +458,9 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 (c) persons who are recruited to serve as auxiliary members; and
 
-(d) public officers who are serving in the Force as engineering or technical officers.
+(d) public officers who are serving in the Forceas engineering or technical officers.
 
-[39/1993 wef 29/04/1994]
+[39/93]
 
 ### Administration of Force by Commissioner
 
@@ -460,11 +468,15 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 (a) be responsible for the supreme command, direction and administration of the Force and of members of the Force who are appointed, enlisted or recruited under the provisions of this Act; and
 
-(b) exercise and perform such functions, duties and powers with respect to civil defence as are conferred upon him by this Act.
+(b) exercise such functions, and perform such duties and powers with respect to civil defence as are conferred upon him by this Act.
 
 (2) The Minister may appoint such number of Deputy Commissioners and Assistant Commissioners of Civil Defence as he thinks fit.
 
+[32/2010 wef 01/02/2011]
+
 (3) The Deputy Commissioners and the Assistant Commissioners of Civil Defence shall have and may exercise all the powers conferred on the Commissioner by or under this Act, subject to such limitations as the Commissioner may see fit to impose.
+
+[32/2010 wef 01/02/2011]
 
 ## PART III
 
@@ -472,9 +484,9 @@ ENLISTMENT AND DISCHARGE OF MEMBERS OF FORCE
 
 ### Appointment of officers and enlistment of servicemen in Force
 
-7\.—(1) The Minister may appoint and enlist such number of officers and servicemen for the Force as he thinks fit.
+7\.—(1) The Minister may, appoint and enlist such number of officers and servicemen for the Force as he thinks fit.
 
-(2) The Commissioner may in accordance with such conditions and subject to such qualifications or requirements as are prescribed or provided for by the regulations recruit persons to serve in the auxiliary units of the Force on a part-time basis and confer any rank on any such auxiliary member.
+(2) The Commissioner may, in accordance with such conditions and subject to such qualifications or requirements as are prescribed or provided for by the regulations, recruit persons to serve in the auxiliary units of the Force on a part-time basis and confer any rank on any such auxiliary member.
 
 (3) Auxiliary members shall not be bound to serve continuously but shall be bound to render service for such periods as are prescribed by the regulations.
 
@@ -490,7 +502,7 @@ ENLISTMENT AND DISCHARGE OF MEMBERS OF FORCE
 
 ### Enlistment of national servicemen in Force
 
-9\.—(1) A person on whom a notice under section 10 of the Enlistment Act [Cap. 93] has been served requiring him to report for enlistment in the Force shall, as from the time when he reports for enlistment for national service, be deemed to have been enlisted in the Force.
+9\.—(1) A person on whom a notice under section 10 of the Enlistment Act (Cap. 93) has been served requiring him to report for enlistment in the Force shall, as from the time when he reports for enlistment for national service, be deemed to have been enlisted in the Force.
 
 (2) A person enlisted for national service pursuant to the provisions of the Enlistment Act shall, from such time as the proper authority transfers him to the service of the Force, be deemed to have been enlisted in the Force.
 
@@ -498,15 +510,17 @@ ENLISTMENT AND DISCHARGE OF MEMBERS OF FORCE
 
 (a) full-time service for the period prescribed by the Enlistment Act; and
 
-(b) where they have completed full-time service for the prescribed period, reserve service for the period prescribed by the Enlistment Act [Cap. 93].
+(b) where they have completed full-time service for the prescribed period, operationally ready national service for the period prescribed by the Enlistment Act.
+
+[19/94]
 
 ### Discharge of national servicemen from Force
 
 10\. A member who is enlisted in the Force pursuant to the Enlistment Act shall be discharged —
 
-(a) from continuous full-time service in the Force when he has completed the period of full-time service prescribed by the Enlistment Act; and
+(a) from continuous full-time service in the Force when he has completed the period of full-time service prescribed by the Enlistment Act (Cap. 93); and
 
-(b) from reserve service in the Force when —
+(b) from operationally ready national service in the Force when —
 
 (i) the proper authority notifies him that he has been transferred from the Force to another force specified by the proper authority;
 
@@ -514,13 +528,15 @@ ENLISTMENT AND DISCHARGE OF MEMBERS OF FORCE
 
 (iii) he ceases to be a person subject to the Enlistment Act.
 
+[19/94]
+
 ### Discharge of auxiliary members
 
 11\. Except when a state of emergency or a state of civil defence emergency is in force or when auxiliary members are mobilised for continuous full-time service, an auxiliary member shall be entitled to be discharged from the Force when he gives 30 days’ notice in writing to the Commissioner of his intention to resign from the Force.
 
 ### Identity card
 
-12\. An identity card shall be issued to every member and shall be evidence of his appointment under this Act.
+12\. An indentity card shall be issued to every member and shall be evidence of his appointment under this Act.
 
 ### Delivery of Government property on leaving Force
 
@@ -542,21 +558,25 @@ Persons subject to this Act
 
 (a) national servicemen enlisted in the Force who are rendering continuous full-time service either as officers or servicemen; and
 
-(b) officers and servicemen who are appointed to or enlisted in the Force pursuant to section 7(1).
+(b) officers and servicemen who are appointed to or enlisted in the Force under section 7(1).
 
-(2) National servicemen enlisted in the Force as either officers or servicemen who are rendering reserve service shall be subject to this Act while on duty, in uniform or while under arrest, in custody or undergoing punishment or detention in accordance with the provisions of this Act.
+(2) National servicemen enlisted in the Force as either officers or servicemen who are rendering operationally ready national service shall be subject to this Act while on duty, in uniform or while under arrest, in custody or undergoing punishment or detention in accordance with the provisions of this Act.
+
+[19/94]
 
 (3) Auxiliary members shall be subject to this Act while on duty, in uniform or while under arrest, in custody or undergoing punishment or detention in accordance with the provisions of this Act.
 
 (4) For the purposes of subsection (2), a member shall be deemed to be on duty —
 
-(a) from the time appointed by the Commissioner for him to report to or to attend at a place specified by the Commissioner for rendering any reserve service which he is required to render under the Enlistment Act until he is duly released or discharged from that service; or
+(a) from the time appointed by the Commissioner for him to report to or to attend at a place specified by the Commissioner for rendering any operationally ready national service which he is required to render under the Enlistment Act (Cap. 93) until he is duly released or discharged from that service; or
 
 (b) while acting or purporting to act in or with intended reference to his capacity as a member of the Force.
 
+[19/94]
+
 (5) For the purposes of subsection (3), an auxiliary member shall be deemed to be on duty while acting or purporting to act in or with intended reference to his capacity as a member of the Force.
 
-### Modification of this Act
+### Modification of Act
 
 15\. The regulations may make provision for —
 
@@ -566,7 +586,9 @@ Persons subject to this Act
 
 (c) the addition or substitution or provisions relating to all or any of those classes.
 
-### Certain persons to remain subject to this Act
+[32/2010 wef 01/02/2011]
+
+### Certain persons to remain subject to Act
 
 16\. Subject to section 73, a person who has ceased to be a member may, in respect of a service offence committed while he was a member, be dealt with as though he were still a member, if and only if he is charged with the offence within 6 months of his ceasing to be a member.
 
@@ -576,35 +598,39 @@ Liability of persons subject to this Act to be tried and punished for service of
 
 ### Trial and punishment of person committing service offence
 
-17\.—(1) Any person subject to this Act who is alleged to have committed a service offence may be charged, dealt with and tried by a court or may be dealt with by a disciplinary officer under the provisions of this Act and shall, if found guilty of the service offence by a court or by a disciplinary officer in accordance with the provisions of this Act, be liable to be punished or dealt with in accordance with the provisions of this Act.
+17\.—(1) Any person subject to this Act who is alleged to have committed a service offence may be charged, dealt with and tried by a court or may be dealt with by a disciplinary officer under the provisions of this Act and shall, if found guilty of the service offence by a court or by a disciplinary officer, be liable to be punished or dealt with in accordance with the provisions of this Act.
 
 (2) Where a charge against a person for a service offence is dealt with by a disciplinary officer, a reference in any provision of this Act to a conviction shall be construed as a reference to a finding of guilt made by a disciplinary officer.
 
-### Trial and punishment of service offences under this Act notwithstanding offender ceasing to be subject to this Act
+### Trial and punishment of service offences under Act notwithstanding offender ceasing to be subject to Act
 
 18\.—(1) Subject to section 19, where a service offence under this Act has been committed, or is reasonably suspected of having been committed, by any person while subject to this Act, then in relation to that service offence he shall be treated, for the purposes of this Act relating to arrest, keeping in custody, investigation of charges, trial and punishment by a disciplinary officer including review and execution of sentences as continuing to be subject to this Act notwithstanding his ceasing at any time to be subject thereto.
 
 (2) Where, while a person is in service custody by virtue of this section (whether before, during or after trial) he commits, or is reasonably suspected of having committed, an offence which if he were subject to this Act would be a service offence, then in relation to that offence or suspected offence he shall be treated, for the purposes of this Act mentioned in subsection (1) and the provisions thereof as to the dealing with charges by a disciplinary officer, as having been subject to this Act when the offence was committed or is suspected of having been committed and as continuing to be subject to this Act thereafter.
 
-(3) Where by virtue of subsection (1) or (2) a person is treated as being at any time subject to this Act for the purpose of any provision of this Act, that provision shall apply to him —
+(3) Where under subsection (1) or (2) a person is treated as being at any time subject to this Act for the purpose of any provision of this Act, that provision shall apply to him —
 
 (a) if he holds any service rank, as to a person having that rank; and
 
-(b) otherwise as to a person having the rank which he had when last actually subject to this Act.
+(b) in any other case, as to a person having the rank which he had when last actually subject to this Act.
 
 (4) Where apart from this subsection any provision of this Act would under subsection (3) apply to a person, in relation to different service offences, as to a person having different ranks, it shall apply to him as to a person having the lower or lowest of those ranks.
 
-### Limitation of time for trial of offences under this Act
+### Limitation of time for trial of offences under Act
 
 19\.—(1) Subject to subsection (2) and except in respect of the service offences mentioned in subsection (3), no person shall be liable to be tried by a disciplinary officer unless his trial begins before the expiration of a period of 6 months from the day upon which the service offence was alleged to have been committed.
 
-(2) A person may be tried by a disciplinary officer within 3 years of the date of commission of the offence if he is a reservist.
+[32/2010 wef 01/02/2011]
+
+(2) A person may be tried by a disciplinary officer within 3 years of the date of commission of the offence if he is an operationally ready national serviceman.
+
+[19/94]
 
 (3) Every person who is subject to this Act at the time of the alleged commission by him of a service offence of desertion or absence without leave shall continue to be liable to be charged, dealt with and tried at any time under this Act.
 
 (4) In calculating the period of limitation referred to in subsection (1), there shall not be included —
 
-(a) time during which a person was serving sentence in a prison;
+(a) any time during which a person was serving sentence in a prison;
 
 (b) any period of absence caused by his detention in a drug rehabilitation centre or at any other place pursuant to the provisions of any other written law; and
 
@@ -616,19 +642,21 @@ Liability of persons subject to this Act to be tried and punished for service of
 
 20\.—(1) Nothing in this Act shall affect the jurisdiction of any court to try a person for any offence under any other written law triable by the court where the act or omission of that person also constitutes a service offence.
 
-(2) Where a person subject to this Act has been charged with a service offence and has had the charge dealt with by a disciplinary officer, a court shall be debarred from trying him subsequently for an offence substantially the same as that offence; but except as aforesaid nothing in this Act shall be construed as restricting the jurisdiction of any court to try a person subject to this Act for an offence.
+(2) Where a person subject to this Act has been charged with a service offence and has had the charge dealt with by a disciplinary officer, a court shall be debarred from trying him subsequently for an offence substantially the same as that offence.
 
-(3) For the purposes of this section, a case shall be deemed to have been dealt with by a disciplinary officer notwithstanding that the finding of that officer has been quashed, or the award of that officer quashed or varied, on the review thereof.
+(3) Nothing in this Act shall be construed as restricting the jurisdiction of any court to try a person subject to this Act for an offence.
 
-(4) A person subject to this Act shall not be tried by a court for any service offence unless the Public Prosecutor has given his consent for the trial.
+(4) For the purposes of this section, a case shall be deemed to have been dealt with by a disciplinary officer notwithstanding that the finding of that officer has been quashed, or the award of that officer quashed or varied, on the review thereof.
 
-### Persons not to be tried under this Act for offences already disposed of
+(5) A person subject to this Act shall not be tried by a court for any service offence unless the Public Prosecutor has given his consent for the trial.
 
-21\. Where a person subject to this Act has been tried for a service offence by a court or has had a service offence committed by him taken into consideration by the court in sentencing him, he shall not liable in respect of that offence to be dealt with and punished by a disciplinary officer in pursuance of this Act.
+### Persons not to be tried under Act for offences already disposed of
+
+21\. Where a person subject to this Act has been tried for a service offence by a court or has had a service offence committed by him taken into consideration by the court in sentencing him, he shall not be liable in respect of that offence to be dealt with and punished by a disciplinary officer in pursuance of this Act.
 
 ### Application of principles of Penal Code
 
-22\. The principles of the Penal Code [Cap. 224] with respect to criminal liability shall apply in relation to service offences under this Act.
+22\. The principles of the Penal Code (Cap. 224) with respect to criminal liability shall apply in relation to service offences under this Act.
 
 ## PART V
 
@@ -648,21 +676,21 @@ shall be guilty of the offence of looting and shall be liable on conviction to i
 
 ### Desertion
 
-24\. A person who being on duty, or having been notified to report for duty, with intent to remain permanently absent without leave, leaves or does not attend at, his place of duty without leave, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 10 years or any other punishment authorised by this Act.
+24\. Any person who being on duty, or having been notified to report for duty, with intent to remain permanently absent without leave, leaves or does not attend at, his place of duty without leave, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 10 years or any other punishment authorised by this Act.
 
 ### Connivance at desertion
 
 25\. Any person who —
 
-(a) being aware of the desertion or intended desertion of a member, does not without reasonable excuse inform his superior officer forthwith; or
+(a) being aware of the desertion or intended desertion of a member, does not without reasonable excuse inform his superior officer immediately; or
 
 (b) fails to take any steps in his power to cause the apprehension of a member whom he knows, or has reasonable cause to believe, to be a deserter,
 
 shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
-### Assault on a guard
+### Assault on guard
 
-26\.—(1) A person who —
+26\.—(1) Any person who —
 
 (a) commits an assault on a member who is on guard duty; or
 
@@ -670,7 +698,7 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
-(2) In this section, a reference to a person on guard duty includes a reference to a person who is —
+(2) In this section, any reference to a person on guard duty includes a reference to a person who is —
 
 (a) posted or ordered to patrol; or
 
@@ -678,15 +706,15 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 for the purpose of —
 
-(i) protecting any person, any premises or place or any ship, vehicle, aircraft or other thing;
+(i) protecting any person, premises or place or ship, vehicle, aircraft or other thing;
 
-(ii) preventing or controlling access to, or egress from any premises or place or any ship, vehicle, aircraft or other thing; or
+(ii) preventing or controlling access to, or egress from any premises or place or ship, vehicle, aircraft or other thing; or
 
 (iii) regulating traffic by road, rail or water.
 
 ### Offence by or in relation to person on guard or on watch
 
-27\.—(1) A person who, while on guard duty or on watch, —
+27\.—(1) Any person who, while on guard duty or on watch —
 
 (a) sleeps at his post or on watch;
 
@@ -706,21 +734,21 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (b) he is unfit for the discharge of his duties.
 
-### Violence to a superior
+### Violence to superior
 
-28\. A person who commits an assault on a person of a higher rank shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+28\. Any person who commits an assault on a person of a higher rank shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
-### Assault on a subordinate
+### Assault on subordinate
 
-29\. A person who commits an assault on, or ill-treats, a person of a lower rank shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+29\. Any person who commits an assault on, or ill-treats, a person of a lower rank shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
 ### Cruel, indecent or disgraceful conduct
 
-30\. A person who behaves in a cruel, indecent or disgraceful manner or in a manner unbecoming of a member of the Force shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+30\. Any person who behaves in a cruel, indecent or disgraceful manner or in a manner unbecoming of a member of the Force shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
 ### Obstruction of provost officer
 
-31\. A person who —
+31\. Any person who —
 
 (a) obstructs; or
 
@@ -730,7 +758,7 @@ a provost officer, or a person lawfully exercising authority under or on behalf 
 
 ### Insubordinate behaviour
 
-32\. A person who —
+32\. Any person who —
 
 (a) uses threatening, insubordinate or insulting language to a person of a higher rank; or
 
@@ -740,21 +768,21 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Disobedience to command
 
-33\. A person who disobeys a lawful command given to him by a person of a higher rank shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years or any other punishment authorised by this Act.
+33\. Any person who disobeys a lawful command given to him by a person of a higher rank shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years or any other punishment authorised by this Act.
 
 ### Failure to comply with direction of person in command
 
-34\. A person who, when in or near any service ship, aircraft or vehicle, fails to comply with a lawful direction given to him by or with the authority of the person in command of the ship, aircraft or vehicle —
+34\. Any person who, when in or near any service ship, aircraft or vehicle, fails to comply with a lawful direction given to him by or with the authority of the person in command of the ship, aircraft or vehicle —
 
 (a) in relation to the sailing or handling of the ship, flying or handling of the aircraft or handling of the vehicle; or
 
 (b) affecting the safety of the ship, aircraft or vehicle or persons on board the ship, aircraft or vehicle,
 
-whether the person in command is a member or not shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+whether the person in command is a member or not, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
 ### Failure to comply with order
 
-35\.—(1) A person who does not comply with a lawful order that is applicable to him shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+35\.—(1) Any person who does not comply with a lawful order that is applicable to him shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
 (2) In this section, “order” means —
 
@@ -764,15 +792,15 @@ whether the person in command is a member or not shall be guilty of an offence a
 
 ### Abuse of authority
 
-36\. A person who knowingly exceeds his authority over a person of a lower rank shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+36\. Any person who knowingly exceeds his authority over a person of a lower rank shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
 ### Destruction of, or damage to, service property
 
-37\. A person who intentionally, recklessly or negligently destroys or damages service property shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years or any other punishment authorised by this Act.
+37\. Any person who intentionally, recklessly or negligently destroys or damages service property shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years or any other punishment authorised by this Act.
 
 ### Dishonest misappropriation of service property
 
-38\. A person who —
+38\. Any person who —
 
 (a) steals or dishonestly misappropriates any service property or any property belonging to a person subject to this Act or is concerned in the stealing or dishonest misappropriation of any such property; or
 
@@ -782,15 +810,15 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Misapplication and waste of service property
 
-39\. A person who misapplies or wastefully expends any service property shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+39\. Any person who misapplies or wastefully expends any service property shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
 ### False statement in application
 
-40\. A person who, in or in connection with, or in support of, an application for any grant, payment, allotment of money or allowances, leave of absence or any other benefit or advantage, for himself or another, makes, either orally or in writing, any statement which is to his knowledge false in a material particular shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+40\. Any person who, in or in connection with, or in support of, an application for any grant, payment, allotment of money or allowances, leave of absence or any other benefit or advantage, for himself or another, makes, either orally or in writing, any statement which is to his knowledge false in a material particular shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
 ### Falsification, etc., of service documents
 
-41\.—(1) A person who with a view to gain for himself or another or with intent to deceive another or cause loss to another —
+41\.—(1) Any person who with a view to gaining for himself or another or with intent to deceive another or cause loss to another —
 
 (a) makes or signs a service document that is false in a material particular;
 
@@ -812,7 +840,7 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### False statement in relation to appointment or enlistment
 
-42\.—(1) A person who —
+42\.—(1) Any person who —
 
 (a) for the purposes of his appointment to or enlistment in the Force with intent to deceive —
 
@@ -826,7 +854,7 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
-(2) A person who, with intent to deceive, —
+(2) Any person who, with intent to deceive —
 
 (a) makes a false answer to any question set forth in a document required to be completed in relation to his appointment or enlistment;
 
@@ -838,7 +866,7 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### False evidence
 
-43\. A person who having been lawfully sworn as a witness or as an interpreter in proceedings before a disciplinary officer, or a board of inquiry, makes a statement material in those proceedings which he knows to be false or does not believe to be true shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+43\. Any person who having been lawfully sworn as a witness or as an interpreter in proceedings before a disciplinary officer or a board of inquiry makes a statement material in those proceedings which he knows to be false or does not believe to be true shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
 ### Delay or denial of justice
 
@@ -854,7 +882,7 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Resistance to arrest
 
-45\. A person who —
+45\. Any person who —
 
 (a) refuses to obey a lawful order for his arrest; or
 
@@ -868,19 +896,19 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Escape from custody
 
-46\. A person who escapes from custody or a place of detention in which he is being held under this Act shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years or any other punishment authorised by this Act.
+46\. Any person who escapes from custody or a place of detention in which he is being held under this Act shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years or any other punishment authorised by this Act.
 
 ### Unlawful release, etc., of person in custody
 
-47\.—(1) A person who allows to escape or without authority releases a person who is delivered into his custody under this Act or whom it is his duty to guard shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+47\.—(1) Any person who allows to escape or without authority releases a person who is delivered into his custody under this Act or whom it is his duty to guard shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
-(2) A person who facilitates the escape of a person who is in custody or confinement under this Act shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+(2) Any person who facilitates the escape of a person who is in custody or confinement under this Act shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
-(3) A person who with intent to facilitate an escape from a place of confinement under this Act conveys anything into that place shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+(3) Any person who with intent to facilitate an escape from a place of confinement under this Act conveys anything into that place shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
 ### Absence without leave
 
-48\.—(1) A person who is absent without leave shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+48\.—(1) Any person who is absent without leave shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
 (2) For the purposes of this section, a person is absent without leave if he —
 
@@ -894,19 +922,19 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Malingering
 
-49\.—(1) A person who with intent to render or keep himself unfit for service or duty —
+49\.—(1) Any person who with intent to render or keep himself unfit for service or duty —
 
 (a) injures himself or causes or permits himself to be injured; or
 
 (b) by act or omission causes himself to suffer from a sickness or disability or prolongs or aggravates a sickness or disability from which he suffers,
 
-shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding one year or any other punishment authorised by this Act.
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 12 months or any other punishment authorised by this Act.
 
-(2) A person who, with intent to avoid service or duty, falsely represents himself to be suffering from a sickness or disability shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding one year or any other punishment authorised by this Act.
+(2) Any person who, with intent to avoid service or duty, falsely represents himself to be suffering from a sickness or disability shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 12 months or any other punishment authorised by this Act.
 
 ### Drunkeness on duty, etc.
 
-50\.—(1) A person who —
+50\.—(1) Any person who —
 
 (a) is drunk on duty; or
 
@@ -922,7 +950,7 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Assaults, insulting words, etc.
 
-51\. A person who, on service land, in a service ship, aircraft or vehicle or in a public place —
+51\. Any person who, on service land, in a service ship, aircraft or vehicle or in a public place —
 
 (a) commits an assault on another person;
 
@@ -938,11 +966,11 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Negligent performance of duty
 
-52\. A person who, in the performance of a duty that he is required by his office or appointment to perform, does not exercise such care as he could reasonably be expected to exercise having regard to the activities upon which he is engaged and to his training and experience in the Force shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years or any other punishment authorised by this Act.
+52\. Any person who, in the performance of a duty that he is required by his office or appointment to perform, does not exercise such care as he could reasonably be expected to exercise having regard to the activities upon which he is engaged and to his training and experience in the Force shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years or any other punishment authorised by this Act.
 
 ### Contempt
 
-53\. A person who —
+53\. Any person who —
 
 (a) fails to comply with a summons or order to attend as a witness at a board of inquiry or at a trial of a service offence before a disciplinary officer;
 
@@ -960,17 +988,17 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Attempts to commit service offence
 
-54\.—(1) A person who, with intent to commit an offence under this Part, by act or omission behaves in a manner that is, or that he believes to be, a substantial step towards the commission of the offence shall be deemed, for the purpose of this section, to have attempted to commit the offence.
+54\.—(1) Any person who, with intent to commit an offence under this Part, by act or omission behaves in a manner that is, or that he believes to be, a substantial step towards the commission of the offence shall be deemed, for the purpose of this section, to have attempted to commit the offence.
 
-(2) A person who attempts to commit a service offence under any of the provisions of this Part shall be liable on conviction to the like punishment for that offence.
+(2) Any person who attempts to commit a service offence under any of the provisions of this Part shall be liable on conviction to the like punishment for that offence.
 
-(3) A person charged with attempting to commit a service offence may be convicted of the attempt even though the evidence in the proceedings proves that the person committed the offence.
+(3) Any person charged with attempting to commit a service offence may be convicted of the attempt even though the evidence in the proceedings proves that the person committed the offence.
 
 (4) Where an attempt to commit a service offence is voluntarily abandoned, the fact and circumstances of that abandonment shall be taken into consideration in mitigation of any punishment to be imposed in respect of the attempt.
 
 ### Aiding, etc., commission of service offence
 
-55\. A person who intentionally or recklessly —
+55\. Any person who intentionally or recklessly —
 
 (a) aids, abets, counsels or procures;
 
@@ -1040,7 +1068,7 @@ ARREST, CUSTODY AND SEARCH
 
 ### Reasonable force to effect arrest
 
-59\. A person authorised to effect an arrest may use such force as is reasonably necessary for that purpose.
+59\. Any person authorised to effect an arrest may use such force as is reasonably necessary for that purpose.
 
 ### Arrested person to be informed of alleged offence
 
@@ -1048,9 +1076,9 @@ ARREST, CUSTODY AND SEARCH
 
 ### Detention in civil custody of arrested person
 
-61\. A police officer may detain a person arrested (whether by himself or by another) at a police station or other place provided for the holding of persons in custody for such time as is reasonably necessary to enable the arrested person to be delivered into the custody of a provost officer or of any other member who is authorised for the purpose by or under the regulations.
+61\. Any police officer may detain a person arrested (whether by himself or by another) at a police station or other place provided for the holding of persons in custody for such time as is reasonably necessary to enable the arrested person to be delivered into the custody of a provost officer or of any other member who is authorised for the purpose by or under the regulations.
 
-### Person in custody to be dealt with in accordance with this Act
+### Person in custody to be dealt with in accordance with Act
 
 62\. It shall be the duty of a member who receives a person into his custody to deal with the person as provided by this Act and the regulations.
 
@@ -1156,7 +1184,13 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 (c) may try the accused.
 
-(3) References in this Act to dealing with a charge by a disciplinary officer are references to the taking by the appropriate disciplinary officer, as the case may require, of the following action, that is to say, determining whether the accused is guilty, dismissing the charge or recording a finding of guilt accordingly, and awarding punishment.
+(3) References in this Act to dealing with a charge by a disciplinary officer are references to the taking by the appropriate disciplinary officer, as the case may require, of the following actions:
+
+(a) determining whether the accused is guilty;
+
+(b) dismissing the charge or recording a finding of guilt accordingly; and
+
+(c) awarding punishment.
 
 ### Manner of dealing with charge against members who are public officers
 
@@ -1164,17 +1198,19 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 ### Jurisdiction of disciplinary officers
 
-72\.—(1) If the accused is an officer below the rank of lieutenant-colonel, the charge shall, within such time as may be prescribed, be brought before a senior disciplinary officer who is at least two ranks above him.
+72\.—(1) If the accused is an officer below the rank of lieutenant-colonel, the charge shall, within such time as may be prescribed, be brought before a senior disciplinary officer who is at least 2 ranks above him.
 
 (2) If the accused is a warrant officer, the charge shall, within such time as may be prescribed, be brought before a senior disciplinary officer.
+
+[32/2010 wef 01/02/2011]
 
 (3) If the accused is a serviceman below the rank of warrant officer, the charge shall, within such time as may be prescribed, be brought before a junior disciplinary officer.
 
 ### Trial of former members
 
-73\. A person who is subject to this Act pursuant to section 16 may be tried for an offence committed while he was a member only by a court.
+73\. A person who is subject to this Act under section 16 may be tried for an offence committed while he was a member only by a court.
 
-### Dismissal of a charge
+### Dismissal of charge
 
 74\. Where a disciplinary officer dismisses a charge, he shall record the reason for the dismissal of the charge.
 
@@ -1184,25 +1220,35 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 (a) if the accused is a serviceman, detention for a period not exceeding 40 days;
 
-(b) a fine not exceeding $100 or, if the accused is an officer, a fine not exceeding $300;
+(b) a fine not exceeding $100 or, if the accused is an officer, a fine not exceeding $300 ;
+
+[32/2010 wef 01/02/2011]
 
 (c) reprimand; or
 
 (d) such other minor punishment as may be prescribed by the regulations.
 
-(2) Where a disciplinary officer is of the opinion that the accused should be reduced in rank in addition to or in lieu of any punishment which may be awarded by him he may refer the charge and the record of the proceedings to the Commissioner with a recommendation that the accused be reduced in rank and the Commissioner may at his discretion reduce the rank of the accused in addition to or in substitution for the punishment imposed by the disciplinary officer.
+(2) Where a disciplinary officer is of the opinion that the accused should be reduced in rank in addition to or in lieu of any punishment which may be awarded by him he may refer the charge and the record of the proceedings to the Commissioner with a recommendation that the accused be reduced in rank and the Commissioner may, at his discretion, reduce the rank of the accused in addition to or in substitution for the punishment imposed by the disciplinary officer.
 
 (3) In addition to any of the punishments referred to in subsection (1), a disciplinary officer may order an officer or serviceman found guilty of any offence under this Act to pay compensation, not exceeding $100, to any person who suffered damage or loss occasioned by the commission of the service offence.
 
-(4) In addition to or in lieu of any other punishment, a disciplinary officer may order the accused to pay such sum as he may determine as compensation to the Government for the loss of or damage to any service property or part thereof occasioned by the commission of the service offence and, in assessing the amount of compensation payable under this subsection, the disciplinary officer shall have regard to the earnings of the accused.
+[32/2010 wef 01/02/2011]
 
-(5) Nothing in subsection (3) shall prejudice the right of any person to a civil remedy for the recovery of damages beyond the amount of compensation ordered.
+(4) In addition to or in lieu of any other punishment, a disciplinary officer may order the accused to pay such sum as he may determine as compensation to the Government for the loss of or damage to any service property or part thereof occasioned by the commission of the service offence.
+
+(5) In assessing the amount of compensation payable under subsection (4), the disciplinary officer shall have regard to the earnings of the accused.
+
+(6) Nothing in subsection (3) shall prejudice the right of any person to a civil remedy for the recovery of damages beyond the amount of compensation ordered.
 
 ### Power of Disciplinary Board to deal with charges against lieutenant-colonel, etc.
 
 76\.—(1) A charge against an officer of the rank of lieutenant-colonel or above may be dealt with by a Disciplinary Board consisting of 3 persons appointed for the purpose, either generally or specially, by the Minister.
 
-(2) A Disciplinary Board may dismiss the charge if it thinks that the charge ought not to be proceeded with or may deal with the case and upon conviction of the accused may impose a reprimand and in addition may make a recommendation to the Commissioner that the accused be reduced in rank and the Commissioner may at his discretion reduce the rank of the accused.
+(2) A Disciplinary Board may —
+
+(a) dismiss the charge if it thinks that the charge ought not to be proceeded with; or
+
+(b) deal with the case and upon conviction of the accused may impose a reprimand and in addition may make a recommendation to the Commissioner that the accused be reduced in rank and the Commissioner may at his discretion reduce the rank of the accused.
 
 ### Commencement of sentence of detention
 
@@ -1212,17 +1258,21 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 ### Sentence of detention
 
-78\. A person sentenced to detention under this Act shall, unless otherwise provided for in the regulations, serve his sentence in detention barracks.
+78\. Any person sentenced to detention under this Act shall, unless otherwise provided for in the regulations, serve his sentence in detention barrack.
 
 ### Suspension of sentence
 
 79\.—(1) It shall be lawful for a disciplinary officer when passing a sentence of detention to order that the sentence shall be suspended and the accused shall not in that event be committed to detention barrack.
 
-(2) Where any such sentence is suspended and the offender so sentenced is sentenced for a fresh offence during the period of suspension by a disciplinary officer to detention, then the disciplinary officer may cancel the suspension of the earlier sentence and the disciplinary officer shall direct whether the two sentences are to run concurrently or consecutively.
+(2) Where any such sentence is suspended and the offender so sentenced is sentenced for a fresh offence during the period of suspension by a disciplinary officer to detention, the disciplinary officer —
+
+(a) may cancel the suspension of the earlier sentence; and
+
+(b) shall direct whether the 2 sentences are to run concurrently or consecutively.
 
 ### Provisions as to persons unlawfully at large
 
-80\.—(1) Any person who, having been sentenced to detention under this Act, is at large may (without prejudice to any other power of arrest) be arrested by any police officer or any officer of the Force or a provost officer without warrant and taken to any place in which he may be required to be detained in accordance with this Act or the regulations.
+80\.—(1) Any person who, having been sentenced to detention under this Act, is at large may (without prejudice to any other power of arrest) be arrested by any police officer or any officer of the Force or a provost officer without warrant and taken to any place in which he may be required to be detained in accordance with this Act.
 
 (2) Where any person sentenced to detention under this Act is at large at any time during the period for which he is liable to be detained in pursuance of the sentence, no account shall be taken, in calculating the period for which he is liable to be so detained, of any time elapsing after he was at large and before either he is taken into custody or he is received into a detention barrack.
 
@@ -1230,19 +1280,23 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 81\.—(1) The Commissioner shall appoint an officer or officers (hereinafter referred to as the reviewing authority) to act for the purposes of this section in any particular case or any class of cases.
 
-(2) No person shall be appointed to be or act as the reviewing authority unless he is a qualified person within the meaning of the Legal Profession Act [Cap. 161].
+[32/2010 wef 01/02/2011]
+
+(2) No person shall be appointed to be or act as the reviewing authority unless he is a qualified person within the meaning of the Legal Profession Act (Cap. 161).
 
 (3) Where a charge has been dealt with by a disciplinary officer otherwise than by the dismissal thereof, the reviewing authority shall as soon as practicable review the finding or award.
 
 (4) Where on a review under this section it appears to the reviewing authority expedient to do so by reason of any mistake in law in the proceedings on the dealing with the charge or of anything occurring in those proceedings which in the opinion of the reviewing authority involved substantial injustice to the accused, the reviewing authority may quash the finding and may order a re-trial if it considers that a re-trial is necessary in the interests of justice.
 
-(5) If a finding in any proceedings is quashed under subsection (4) and the award made in those proceedings relates only to the finding quashed, the reviewing authority shall also quash the award; and if the award relates also to any other finding and it appears to the reviewing authority that the award was not warranted by this Act in respect of that other finding, the reviewing authority may vary the award by substituting such punishment as the reviewing authority may think proper, being a punishment which could have been included in the original award in relation to that other finding, and not being in the opinion of the reviewing authority more severe than the punishment included in the original award.
+(5) If a finding in any proceedings is quashed under subsection (4) and the award made in those proceedings relates only to the finding quashed, the reviewing authority shall also quash the award.
 
-(6) Where on a review under this section it appears to the reviewing authority that a punishment awarded was invalid, or too severe, the reviewing authority may vary the award by substituting such punishment as the reviewing authority may think proper, being a punishment which could have been included in the original award and not being in the opinion of the reviewing authority more severe than the punishment included in the original award.
+(6) If the award relates also to any other finding and it appears to the reviewing authority that the award was not warranted by this Act in respect of that other finding, the reviewing authority may vary the award by substituting such punishment as the reviewing authority may think proper, being a punishment which could have been included in the original award in relation to that other finding, and not being in the opinion of the reviewing authority more severe than the punishment included in the original award.
 
-(7) Where on a review under this section it appears to the reviewing authority that an order to pay compensation made under section 75(3) or (4) was invalid, or unduly excessive, the reviewing authority may quash the order or vary the amount of compensation payable under the order.
+(7) Where on a review under this section it appears to the reviewing authority that a punishment awarded was invalid, or too severe, the reviewing authority may vary the award by substituting such punishment as the reviewing authority may think proper, being a punishment which could have been included in the original award and not being in the opinion of the reviewing authority more severe than the punishment included in the original award.
 
-(8) The reviewing authority may at any time suspend the execution of any sentence passed by a disciplinary officer for such period as it thinks fit.
+(8) Where on a review under this section it appears to the reviewing authority that an order to pay compensation made under section 75(3) or (4) was invalid, or unduly excessive, the reviewing authority may quash the order or vary the amount of compensation payable under the order.
+
+(9) The reviewing authority may at any time suspend the execution of any sentence passed by a disciplinary officer for such period as it thinks fit.
 
 ### Officers who are to act as junior and senior disciplinary officers
 
@@ -1266,9 +1320,9 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 (b) if the fine exceeds $100 but does not exceed $200, detention for a period not exceeding 20 days; and
 
-(c) in any other case, detention for a period not exceeding 40 days,
+(c) in any other case, detention for a period not exceeding 40 days.
 
-and such detention shall take effect from such date as the disciplinary officer may direct and shall terminate whenever the fine is paid.
+(3) Such detention shall take effect from such date as the disciplinary officer may direct and shall terminate whenever the fine is paid.
 
 ### Rules of Procedure
 
@@ -1302,9 +1356,9 @@ POWERS OF INVESTIGATION
 
 86\. A provost officer may conduct an investigation where there is reason to believe that a service offence has been committed.
 
-### Powers of investigation of a provost officer
+### Powers of investigation of provost officer
 
-87\. In an investigation relating to the commission of a service offence, a provost officer shall have all the powers of a police officer under the Criminal Procedure Code [Cap. 68] in relation to an investigation of a seizable offence.
+87\. In an investigation relating to the commission of a service offence, a provost officer shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation of a seizable offence.
 
 ## PART IX
 
@@ -1312,7 +1366,7 @@ DEDUCTIONS FROM PAY OF A MEMBER
 
 ### Authorised deductions only to be made from pay
 
-88\. The pay of a member shall be paid without any deduction other than the deductions authorised by this Act or the regulations or by any other written law.
+88\. The pay of a member shall be paid without any deduction other than the deductions authorised by this Act or by any other written law.
 
 ### Deductions from ordinary pay of member
 
@@ -1324,27 +1378,31 @@ DEDUCTIONS FROM PAY OF A MEMBER
 
 (ii) for every day of imprisonment, corrective training, preventive detention, reformative training or detention of any other description, to which he is liable in consequence of an order or sentence of a court;
 
-(iii) for every day of detention imposed by a disciplinary officer pursuant to section 75;
+(iii) for every day of detention imposed by a disciplinary officer under section 75;
 
 (iv) for every day during which he is in a drug rehabilitation centre;
 
 (v) for every day during which he is in hospital on account of sickness certified by the proper medical officer attending on him at the hospital to have been caused by a service offence committed by him;
 
-(b) the sum required to make good any compensation which a disciplinary officer has in exercise of the powers conferred by section 75(3) ordered him to pay any person;
+(b) the sum required to make good any compensation which a disciplinary officer has in exercise of the powers conferred by section 75(3) ordered him to pay to any person;
 
-(c) the sum to make good any compensation which a disciplinary officer has pursuant to section 75(4) ordered him to pay to the Government;
+(c) the sum to make good any compensation which a disciplinary officer has under section 75(4) ordered him to pay to the Government;
 
 (d) the sum required to pay any fine or penalty which a disciplinary officer before which he has been charged with a service offence has ordered him to pay; and
 
 (e) the sum which he is required to pay as contribution to the Government pursuant to an order made under section 92(3).
 
-(2) The total amount of deductions from the ordinary pay due to a member in respect of the sums referred to in subsection (1) shall not exceed such sums as will leave to him less than $2 a day; and a member shall not be subjected to any deduction greater than the sums which he has been ordered to pay to make good the loss or damage.
+(2) The total amount of deductions from the ordinary pay due to a member in respect of the sums referred to in subsection (1) shall not exceed such sums as will leave to him less than $2 a day.
+
+[32/2010 wef 01/02/2011]
+
+(3) A member shall not be subjected to any deduction greater than the sums which he has been ordered to pay to make good the loss or damage.
 
 ### Supplemental provisions as to deductions from ordinary pay
 
 90\.—(1) Any sum authorised by this Act to be deducted from the ordinary pay of a member may, without prejudice to any other mode of recovering the same, be deducted from the ordinary pay or from any sum due to the member, in such manner, and when deducted or recovered may be appropriated in such manner, as may from time to time be directed by the regulations.
 
-(2) The regulations may from time to time declare what shall, for the purposes of this Act relating to deductions from pay, be deemed to constitute a day of absence or a day of imprisonment or detention, so, however, that —
+(2) The regulations may from time to time declare what shall, for the purposes of this Act relating to deductions from pay, be deemed to constitute a day of absence or a day of imprisonment or detention, so that —
 
 (a) no person shall be treated as absent, imprisoned or detained for the purposes of this Act unless the absence, imprisonment or detention has lasted 6 hours or more, except where the absence prevented the absentee from fulfilling any duty;
 
@@ -1356,7 +1414,7 @@ DEDUCTIONS FROM PAY OF A MEMBER
 
 ### Write-off of public property
 
-91\. Without prejudice to section 19 of the Financial Procedure Act [Cap. 109] —
+91\. Without prejudice to section 19 of the Financial Procedure Act (Cap. 109) —
 
 (a) where, during or at the conclusion of a trial by a disciplinary officer, the disciplinary officer —
 
@@ -1370,19 +1428,23 @@ the Commissioner may write off the full value or part thereof of the loss or dam
 
 ## PART X
 
-BOARDS OF INQUIRY
+BOARD OF INQUIRY
 
 ### Board of inquiry
 
-92\.—(1) Where it is expedient that the Minister, or such other person as the Minister may appoint to exercise the powers conferred upon the Minister by this Part, should be informed on any matter connected with the Government, discipline, administration or functions of the Force or affecting any person subject to this Act, the Minister or the person appointed by the Minister as aforesaid may convene a board of inquiry.
+92\.—(1) Where it is expedient that the Minister, or such other person as the Minister may appoint to exercise the powers conferred upon the Minister by this Part, should be informed on any matter connected with the Government, discipline, administration or functions of the Force or affecting any person subject to this Act, the Minister or the person appointed by the Minister may convene a board of inquiry.
+
+[32/2010 wef 01/02/2011]
 
 (2) A board of inquiry shall inquire into and report on the facts relating to any matter referred to it and, if directed by the Minister to do so, express its opinion on any question arising out of any such matter.
 
-(3) The Minister may, where a board of inquiry has found that any wrongful or negligent act or omission of a member has caused or will cause the Government to suffer any loss or to incur any liability arising from the negligent act or omission of the member, order the member (whether or not he is still a member when the order is made) to pay such sum as the Minister may determine as contribution to the Government for the loss or liability and the Minister may write off the value of any loss which remains irrecoverable or unrecovered.
+(3) The Minister may, where a board of inquiry has found that any wrongful or negligent act or omission of a member has caused or will cause the Government to suffer any loss or to incur any liability arising from the negligent act or omission of the member, order the member (whether or not he is still a member when the order is made) to pay such sum as the Minister may determine as contribution to the Government for the loss or liability.
 
-(4) The Minister may exercise the powers conferred by this section notwithstanding that any other person has been appointed under subsection (1).
+(4) The Minister may write off the value of any loss which remains irrecoverable or unrecovered.
 
-(5) In this Part, “Minister” shall include the person appointed by the Minister under subsection (1) to act on his behalf for the purposes of this Part.
+(5) The Minister may exercise the powers conferred by this section notwithstanding that any other person has been appointed under subsection (1).
+
+(6) In this Part, “Minister” shall include the person appointed by the Minister under subsection (1) to act on his behalf for the purposes of this Part.
 
 ### Composition
 
@@ -1402,7 +1464,7 @@ BOARDS OF INQUIRY
 
 (b) visit any place in order to inquire into any matter which may arise in the course of the inquiry.
 
-### Summoning and privilege of witnesses at a board of inquiry and misconduct of civilian thereat
+### Summoning and privilege of witnesses at board of inquiry and misconduct of civilian thereat
 
 95\.—(1) Every person required to give evidence before a board of inquiry may be summoned or ordered to attend the proceedings of the board.
 
@@ -1420,15 +1482,33 @@ BOARDS OF INQUIRY
 
 (iii) refuses to answer any question to which a board may lawfully require an answer,
 
-the chairman of the board may certify the offence of such person under his hand to a Magistrate’s Court and that Court may thereupon inquire into such alleged offence, and after examining any witnesses that may be produced against or on behalf of the person so accused, and after hearing any statement that may be offered in defence, if it seems just, punish such person in the like manner as if he had committed such offence in a proceeding in that Court.
+the chairman of the board may certify the offence of the person under his hand to a Magistrate’s Court and that Court may thereupon inquire into the alleged offence.
 
-(4) Where a person not subject to this Act when examined on oath or on affirmation before a board of inquiry wilfully gives false evidence, he shall be guilty of an offence and shall be liable on conviction before a competent court to be punished for the offence of giving false evidence in a judicial proceeding.
+(4) After examining any witness that may be produced against or on behalf of the person so accused, and after hearing any statement that may be offered in defence, the Court may, if it seems just, punish the person in the like manner as if he had committed the offence in a proceeding in the Court.
 
-(5) Where a person not subject to this Act is guilty of any contempt towards a board of inquiry, by using insulting or threatening language, or by causing any interruption or disturbance in its proceedings or by printing observations or using words calculated to influence the members of or witnesses before such board, or to bring such board into disrepute, the chairman may certify the offence of such person under his hand to a Magistrate’s Court and the Court may thereupon inquire into such alleged offence, and after hearing any witnesses that may be produced against or on behalf of the person so accused, and after hearing any statement that may be offered in defence, if it seems just, punish or take steps for the punishment of such person in the like manner as if he had been guilty of contempt of that Court.
+(5) Where a person not subject to this Act when examined on oath or on affirmation before a board of inquiry wilfully gives false evidence, he shall be guilty of an offence and shall be liable on conviction before a competent court to be punished for the offence of giving false evidence in a judicial proceeding.
+
+(6) Where a person not subject to this Act is guilty of any contempt towards a board of inquiry —
+
+(a) by using insulting or threatening language;
+
+(b) by causing any interruption or disturbance in its proceedings; or
+
+(c) by printing observations or using words calculated to influence the members of or witnesses before the board or to bring the board into disrepute,
+
+the chairman may certify the offence of the person under his hand to a Magistrate’s Court.
+
+(7) The Magistrate’s Court may thereupon inquire into the alleged offence as specified in subsection (6), and after hearing —
+
+(a) any witness that may be produced against or on behalf of the person so accused; and
+
+(b) any statement that may be offered in defence,
+
+if it seems just, punish or take steps for the punishment of the person in the like manner as if he had been guilty of contempt of that Court.
 
 ### Evidence and procedure
 
-96\. Except as otherwise provided in this Act or in the regulations, a board of inquiry shall not be bound by the rules of evidence and shall act in such manner as it thinks most expedient.
+96\. Except as otherwise provided in this Act, a board of inquiry shall not be bound by the rules of evidence and shall act in such manner as it thinks most expedient.
 
 ### Admissibility of evidence
 
@@ -1436,7 +1516,9 @@ the chairman of the board may certify the offence of such person under his hand 
 
 ### Sittings not open to public
 
-98\. A board of inquiry shall not sit in public and no person shall be allowed to attend an inquiry or address the board of inquiry except with the permission of the chairman or if the Minister so directs.
+98\.—(1) A board of inquiry shall not sit in public.
+
+(2) No person shall be allowed to attend an inquiry or address the board of inquiry except with the permission of the chairman or if the Minister so directs.
 
 ### Person who may be affected by finding
 
@@ -1480,31 +1562,33 @@ CIVIL DEFENCE EMERGENCY
 
 102\.—(1) If at any time it appears to the Minister that a civil defence emergency has occurred or may occur in any part or district of Singapore, the Minister may declare that a state of civil defence emergency exists in that part or district.
 
-(2) The Minister shall forthwith give public notice by such means of communication as are available of every declaration of a state of civil defence emergency made under subsection (1) and the declaration shall be published in theGazetteas soon as possible.
+(2) The Minister shall immediately give public notice by such means of communication as are available of every declaration of a state of civil defence emergency made under subsection (1) and the declaration shall be published in theGazetteas soon as possible.
 
 (3) A state of civil defence emergency for any part or district in Singapore shall terminate on the expiry of the seventh day from the time the civil defence emergency is in force.
 
+[32/2010 wef 01/02/2011]
+
 (4) The Minister may, with the approval of the President, extend the duration of a state of civil defence emergency for such further period or periods as he thinks fit.
 
-### Special powers during an emergency
+### Special powers during emergency
 
-103\.—(1) During a state of emergency or a state of civil defence emergency, the Commissioner, a member or a police officer may, if the action authorised by this section appears to him to be necessary for the carrying out of civil defence measures or for the preservation of human life or property, —
+103\.—(1) During a state of emergency or a state of civil defence emergency, the Commissioner, a member or a police officer may, if the action authorised by this section appears to him to be necessary for the carrying out of civil defence measures or for the preservation of human life or property —
 
 (a) direct any person to render any assistance to the Force to save life in immediate danger;
 
-(b) direct the evacuation of any area or building or place, and the exclusion of persons from any area, building or place and in the exercise of that power may remove or cause to be removed a person who does not comply with a direction to evacuate or a person who enters or is found in any area, building or place in respect of which a direction for the exclusion of persons has been given;
+(b) direct the evacuation of any area, building or place, and the exclusion of persons from any area, building or place and in the exercise of that power may remove or cause to be removed a person who does not comply with a direction to evacuate or a person who enters or is found in any area, building or place in respect of which a direction for the exclusion of persons has been given;
 
-(c) remove from any place, any vehicle, structure or thing that is impeding civil defence operations and to facilitate its removal may use such force as is reasonably necessary or may break into any such vehicle;
+(c) remove from any place, vehicle, structure or thing that is impeding civil defence operations and to facilitate its removal may use such force as is reasonably necessary or may break into any such vehicle;
 
 (d) enter upon and, if necessary, break into any place, building, premises or land where he believes on reasonable grounds that it is necessary to do so for saving life or preventing injury or rescuing injured or endangered persons or for facilitating the carrying out of any urgent measures in respect of the relief of suffering and distress; and
 
 (e) restrict the movement of persons and close to traffic any road, street, motorway, private street, private way, service lane, right of way or access way or other way or close any public place.
 
-(2) Any person who renders any assistance pursuant to subsection (1)(a) shall be entitled to fair and reasonable remuneration from the Commissioner, such claim to be made in accordance with the regulations and paid out of moneys appropriated by Parliament for the purpose.
+(2) Any person who renders any assistance under subsection (1)(a) shall be entitled to fair and reasonable remuneration from the Commissioner, such claim to be made in accordance with the regulations and paid out of moneys appropriated by Parliament for the purpose.
 
 (3) Any person who suffers loss of or damage to his property by reason of the exercise of the powers conferred by subsection (1)(c) and (d) shall be entitled to fair and reasonable compensation for such loss or damage, such claim to be made in accordance with the regulations and paid out of moneys appropriated by Parliament for the purpose.
 
-(4) Any person who contravenes or fails to comply with a direction lawfully given under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+(4) Any person who contravenes a direction lawfully given under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 ## PART XIII
 
@@ -1516,9 +1600,11 @@ TRAINING OF CIVILIAN POPULATION IN CIVIL DEFENCE
 
 ### Protection of civil defence volunteers
 
-105\.—(1) For the purposes of the Government Proceedings Act [Cap. 121], any civil defence volunteer acting or purporting in good faith to be acting under any order or instruction given to him by a member of the Force whilst participating in any civil defence measures or whilst receiving instruction in civil defence shall be deemed to be the agent of and acting under the instructions of the Government and no act or default done or made by the civil defence volunteer in good faith whilst participating in any civil defence measures or whilst receiving instruction in civil defence shall subject him to any personal liability.
+105\.—(1) For the purposes of the Government Proceedings Act (Cap. 121), any civil defence volunteer acting or purporting in good faith to be acting under any order or instruction given to him by a member of the Force whilst participating in any civil defence measures or whilst receiving instruction in civil defence shall be deemed to be the agent of and acting under the instructions of the Government.
 
-(2) For the purposes of subsection (1), “civil defence volunteer” means any person who has agreed to take part in civil defence measures or receives instruction in civil defence organised under the authority of the Commissioner.
+(2) No act or default done or made by the civil defence volunteer in good faith whilst participating in any civil defence measures or whilst receiving instruction in civil defence shall subject him to any personal liability.
+
+(3) For the purposes of subsection (1), “civil defence volunteer” means any person who has agreed to take part in civil defence measures or receives instruction in civil defence organised under the authority of the Commissioner.
 
 ## PART XIV
 
@@ -1530,25 +1616,29 @@ GENERAL
 
 ### Offences by body corporate
 
-107\. Where a body corporate commits an offence against this Act or the regulations —
+107\. Where a body corporate commits an offence against this Act —
 
 (a) the managing director, manager, or other governing officer, by whatever name called, and every member of the governing body thereof, by whatever name called; and
 
 (b) every person who manages or acts or takes part in the management, administration, or government of the business of the body corporate,
 
-shall be deemed also to have committed the offence jointly with the body corporate and shall be liable to be proceeded against and punished accordingly unless he proves that the offence was committed without his consent or connivance and that he exercised such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his function in that capacity and to all the circumstances.
+shall be deemed also to have committed the offence jointly with the body corporate and shall be liable to be proceeded against and punished accordingly unless he proves that —
+
+(a) the offence was committed without his consent or connivance; and
+
+(b) he exercised such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his function in that capacity and to all the circumstances.
 
 ### Protection of employment rights
 
-108\. A person who, during a state of emergency or a state of civil defence emergency is absent from his usual employment by reason of carrying out duties in connection with civil defence measures in any capacity whatsoever, shall not be liable for dismissal, loss of vacation leave, or other benefits to which he may be entitled under the industrial award or agreement applicable to his usual employment, by reason only of his absence on those duties, whether or not his usual employer has consented to his absence.
+108\. A person who, during a state of emergency or a state of civil defence emergency, is absent from his usual employment by reason of carrying out duties in connection with civil defence measures in any capacity shall not be liable for dismissal, loss of vacation leave, or other benefits to which he may be entitled under the industrial award or agreement applicable to his usual employment, by reason only of his absence on those duties, whether or not his usual employer has consented to his absence.
 
 ### Members deemed to be public servants
 
-109\. Members of the Force shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
+109\. Members of the Force shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
 ### Civil Defence General Orders and Standing Orders
 
-110\.—(1) The Commissioner may from time to time make such orders not inconsistent with the provisions of this Act or the regulations to be called Civil Defence General Orders as he may consider necessary or expedient to provide for —
+110\.—(1) The Commissioner may from time to time make such orders not inconsistent with the provisions of this Act to be called Civil Defence General Orders as he may consider necessary or expedient to provide for —
 
 (a) conduct and discipline and the regulation and carrying out of punishment;
 
@@ -1578,7 +1668,9 @@ shall be deemed also to have committed the offence jointly with the body corpora
 
 (b) participating in training for civil defence measures under the control of the Commissioner or a person acting under the authority of the Commissioner,
 
-at the rates prescribed by the regulations and paid out of the Consolidated Fund.
+at the rates prescribed by the regulations and paid out of the Pension Fund established by the Pension Fund Act (Cap. 224A).
+
+[8/95]
 
 ### Protection from liability
 
@@ -1596,7 +1688,7 @@ at the rates prescribed by the regulations and paid out of the Consolidated Fund
 
 ### Section 14 of Government Proceedings Act shall apply to Force
 
-114\. Section 14 of the Government Proceedings Act [Cap. 121] shall apply to members of the Force including any person serving as an auxiliary member of the Force.
+114\. Section 14 of the Government Proceedings Act (Cap. 121) shall apply to members of the Force including any person serving as an auxiliary member of the Force.
 
 ### Regulations
 
@@ -1622,7 +1714,7 @@ at the rates prescribed by the regulations and paid out of the Consolidated Fund
 
 (i) the control of public lighting during civil defence drills;
 
-(j) reimbursements for or payments to members;
+(j) the reimbursement for or payment to members;
 
 (k) the payment of compensation in respect of death and physical injury suffered by any member of the Force or by a member of the public in the course of being trained in civil defence measures or taking part in civil defence measures or drills;
 
@@ -1634,7 +1726,11 @@ at the rates prescribed by the regulations and paid out of the Consolidated Fund
 
 (o) the instruction of members of the public in civil defence and to equip them for the purposes of civil defence;
 
+[32/2010 wef 01/02/2011]
+
 (p) the provision, storage and maintenance of essential foodstuff and equipment for the purposes of civil defence;
+
+[32/2010 wef 01/02/2011]
 
 (q) the imposition of controls or prohibitions on lighting in any area or place for the purposes of civil defence.
 
@@ -1644,7 +1740,7 @@ Civil Defence Act
 
 (CHAPTER 42)
 
-This Legislative History is provided for the convenience of users of the Civil Defence Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Civil Defence Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -1661,3 +1757,111 @@ This Legislative History is provided for the convenience of users of the Civil D
 |||(Bill No. 31/93 published on 13 October 1993)|
 ||Date of Second and Third Readings|10 November 1993|
 ||Date of commencement|29 April 1994 (Part VI, sections 60 and 62)|
+|4.|**Act 19 of 1994—Enlistment (Amendment) Act 1994**|
+||(Consequential amendments made by)||
+||Date of First Reading|25 July 1994|
+|||(Bill No. 21/94 published on 29 July 1994)|
+||Date of Second and Third Readings|31 October 1994|
+||Date of commencement|1 December 1994|
+|5.|**Act 8 of 1995—Pension Fund Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|23 January 1995|
+|||(Bill No. 2/95 published on 24 January 1995)|
+||Date of Second and Third Readings|1 March 1995|
+||Date of commencement|1 April 1995|
+|6.|**2001 Revised Edition—Civil Defence Act**|
+||Date of operation|31 July 2001|
+## COMPARATIVE TABLE
+
+Civil Defence Act
+
+(CHAPTER 42)
+
+The following provisions in the 1985 Revised Edition of the Civil Defence Act have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Civil Defence Act.
+
+2001 Ed\. 
+
+1985 Ed\. 
+
+20 — (2) and (3)
+
+20 — (2)
+
+(4)
+
+(3)
+
+(5)
+
+(4)
+
+75 — (4) and (5)
+
+75 — (4)
+
+(6)
+
+(5)
+
+81 — (5) and (6)
+
+81 — (5)
+
+(7)
+
+(6)
+
+(8)
+
+(7)
+
+(9)
+
+(8)
+
+84 — (2) and (3)
+
+84 — (2)
+
+89 — (2) and (3)
+
+89 — (2)
+
+92 — (3) and (4)
+
+92 — (3)
+
+(5)
+
+(4)
+
+(6)
+
+(5)
+
+95 — (3) and (4)
+
+95 — (3)
+
+(5)
+
+(4)
+
+(6) and (7)
+
+(5)
+
+98 — (1) and (2)
+
+98 
+
+105 — (1) and (2)
+
+105 — (1)
+
+(3)
+
+(2)
+
