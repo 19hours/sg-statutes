@@ -126,6 +126,8 @@ PRELIMINARY
 
 “fish pond” means any enclosed area of water whether fresh or otherwise, which is used or intended for use in the cultivation, storage or capture of fish, and includes estuarine prawn ponds;
 
+[Deleted by Act 16/2000 wef 01/04/2000]
+
 “fishing stakes” means any device used for the capture of fish which is made up of poles or other supports permanently fixed into the ground and enclosed by ramie, rattan, wire or other screening material, so designed as to lead fish into the enclosures, or any device using a net or other screening material that is anchored permanently or impermanently;
 
 “fishing vessel” includes any ship or boat or any other description of vessel used for fishing or the transport of fish or fishing materials;
@@ -200,11 +202,11 @@ RULES
 
 (m) to prescribe and control the route or routes to be used by fishing vessels within territorial waters;
 
-(n) [Deleted by Act 5/1999 wef 01/07/2000]
+(n) [Deleted by Act 5/99 wef 10/12/1999]
 
-(o) [Deleted by Act 5/1999 wef 01/07/2000]
+(o) [Deleted by Act 5/99 wef 10/12/1999]
 
-(p) [Deleted by Act 5/1999 wef 01/07/2000]
+(p) [Deleted by Act 5/99 wef 10/12/1999]
 
 (q) to regulate and control by licensing the use of ponds, pools, lakes, swamps, foreshores and any inland waters for the cultivation of fish;
 
@@ -216,9 +218,9 @@ RULES
 
 (u) to license fishing vessels, fishing stakes, fishing nets, gear and equipment, and the like;
 
-(v) to regulate or prohibit the import, export or transhipment of fish, any species of fish or processed fish and to impose such conditions as may be necessary;
+(v) to regulate or prohibit the import, export or transhipment of any species of fish if the Minister is of the opinion that such species of fish may pose a threat to the ecological balance or integrity of fisheries, or to public safety;
 
-[Act 12/94 wef 15/10/1994 vide S 392/94]
+[10/2002 wef 15/09/2002]
 
 (w) to regulate or prohibit the construction of any bunds, slides, dams or other barriers or obstruction in inland and estuarine waters;
 
@@ -424,6 +426,8 @@ SEARCH, SEIZURE AND ARREST
 
 [Act 12/94 wef 15/10/1994 vide S 392/94]
 
+[Act 12/94 wef 15/10/1994 vide S 392/94]
+
 (2) For the purpose of exercising his power under this Act or any rules made thereunder, any authorised officer or police officer may, with such assistance as he thinks necessary, break open any door, window, lock, fastener, compartment, box, container or other thing.
 
 [Act 12/94 wef 15/10/1994 vide S 392/94]
@@ -505,3 +509,9 @@ This Legislative History is provided for the convenience of users of the Fisheri
 |||(Bill No. 52/98 published on 24 November 1998)|
 ||Date of Second and Third Readings|20 January 1999|
 ||Date of commencement|1 July 2000|
+|8.|**Act 10 of 2002—Animals and Birds (Amendment) Act 2002**|
+||(Consequential amendment made by)||
+||Date of First Reading|3 April 2002|
+|||(Bill No. 2/2002 published on 4 April 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|15 September 2002|
