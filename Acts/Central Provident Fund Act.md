@@ -220,7 +220,7 @@
 
 REVISED EDITION 1999
 
-(30th December 1999)
+(31st December 1999)
 
 An Act to make provision for the establishment of the Central Provident Fund Board and a central provident fund.
 
@@ -2570,7 +2570,11 @@ Specified Acts Relating to Self-employed Persons
 
 2\. Arms and Explosives Act (Cap. 13).
 
-3\. Auctioneers’ Licences Act (Cap. 16).
+3\. Appraisers and House Agents Act (Cap. 16).
+
+3.
+
+[22/2000 wef 01/08/2000]
 
 4\. Business Registration Act (Cap. 32).
 
@@ -3023,6 +3027,12 @@ This Legislative History is provided for the convenience of users of the Central
 ||Dates of commencement|10 December 1999 (paragraph 2(c))|
 |108.|**1999 Revised Edition—Central Provident Fund Act (Chapter 36)**|
 ||Date of operation|30 December 1999|
+|109.|**Act 9 of 2000—Defence Science and Technology Agency Act 2000**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 January 2000|
+|||(Bill No. 1/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|21 February 2000|
+||Date of commencement|15 March 2000|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
