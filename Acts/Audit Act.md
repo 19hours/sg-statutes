@@ -6,33 +6,31 @@
 
 [**Long Title**](#Audit-Act)
 
-[**Part 1 PRELIMINARY**](#Part-1)
+[**Part I PRELIMINARY**](#Part-I)
 
 - [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II AUDITOR-GENERAL**](#Part-II)
+[**Part II DUTIES AND POWERS OF AUDITOR-GENERAL**](#Part-II)
 
-- [3 (Repealed)](#Repealed)
+- [3 Duties of Auditor-General](#Duties-of-Auditor-General)
 
-- [4 Powers and duties of Auditor-General](#Powers-and-duties-of-Auditor-General)
+- [4 Audit of accounts of public authorities and bodies administering public funds](#Audit-of-accounts-of-public-authorities-and-bodies-administering-public-funds)
 
-- [5 Audit of accounts of public authorities and bodies administering public funds](#Audit-of-accounts-of-public-authorities-and-bodies-administering-public-funds)
+- [5 Nature of audit](#Nature-of-audit)
 
-- [6 Nature of audit](#Nature-of-audit)
+- [6 Powers of Auditor-General](#Powers-of-Auditor-General)
 
-- [7 Powers of Auditor-General](#Powers-of-Auditor-General)
+- [7 Secrecy](#Secrecy)
 
-- [8 Secrecy](#Secrecy)
+- [8 Audit reports](#Audit-reports)
 
-- [9 Audit reports](#Audit-reports)
-
-- [10 Regulations](#Regulations)
-
-- [11 Director of Audit to read as Auditor-General in written law](#Director-of-Audit-to-read-as-Auditor-General-in-written-law)
+- [9 Regulations](#Regulations)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Audit Act
 
@@ -40,15 +38,15 @@
 
 (Original Enactment: Act 3 of 1966)
 
-REVISED EDITION 1985
+REVISED EDITION 1999
 
-(30th March 1987)
+(1st August 1999)
 
 An Act to make provision for the audit of the accounts of Singapore and of other public authorities and bodies administering public funds and for matters connected therewith.
 
 [9th August 1965]
 
-## PART 1
+## PART I
 
 PRELIMINARY
 
@@ -62,47 +60,59 @@ PRELIMINARY
 
 “public authority” means the President, the Government, any statutory authority exercising powers vested in it by any written law, any tribunal other than the Supreme Court and the subordinate courts, or any officer or authority appointed by or acting on behalf of any of the aforesaid;
 
-“public funds” means any moneys, bonds, debentures or securities whatsoever, received from individuals, corporations or bodies by way of loans, trusts or any other voluntary payments, which are intended to be disbursed or are in fact disbursed for the benefit of the citizens of Singapore or any part of them, and includes any public moneys.
+“public funds” means any moneys, bonds, debentures or securities, received from individuals, corporations or bodies by way of loans, trusts or any other voluntary payments, which are intended to be disbursed or are in fact disbursed for the benefit of the citizens of Singapore or any part of them, and includes any public moneys.
 
-(2) In this Act, the words and expressions used shall, unless the context otherwise requires or it is herein otherwise expressly provided, have the meanings respectively assigned to them in the Financial Procedure Act [Cap. 109].
+(2) In this Act, the words and expressions used shall, unless the context otherwise requires or it is herein otherwise expressly provided, have the meanings respectively assigned to them in the Financial Procedure Act (Cap. 109).
 
 ## PART II
 
-AUDITOR-GENERAL
+DUTIES AND POWERS OF AUDITOR-GENERAL
 
-3\. [Repealed by Act 11 of 1991 wef 30/11/1991]
+### Duties of Auditor-General
 
-### Powers and duties of Auditor-General
+3\.—(1) The accounts of all departments and offices of the Government (including the office of the Public Service Commission) and the accounts of the Supreme Court, all subordinate courts and Parliament shall be audited and reported on by the Auditor-General.
 
-4\.—(1) The accounts of all departments and offices of the Government (including the office of the Public Service Commission) and the accounts of the Supreme Court, of all subordinate courts and of Parliament shall be audited and reported on by the Auditor-General who, with subordinate staff, shall at all times be entitled to have access to all books, records, returns and reports relating to such accounts.
+(2) The Auditor-General, with subordinate staff, shall at all times be entitled to have access to all books, records, returns and reports relating to such accounts.
 
-(2) The Auditor-General shall submit his report made under subsection (1) to the President who shall cause it to be presented to Parliament.
+(3) The Auditor-General shall submit his report made under subsection (1) to the President who shall cause it to be presented to Parliament.
 
-(3) The Auditor-General shall perform such other duties and exercise such other powers in relation to the accounts of the Government and the accounts of other public authorities and other bodies administering public funds as may be prescribed by or under any written law.
+(4) The Auditor-General shall perform such other duties and exercise such other powers in relation to the accounts of the Government and the accounts of other public authorities and other bodies administering public funds as may be prescribed by or under any written law.
+
+[4
 
 ### Audit of accounts of public authorities and bodies administering public funds
 
-5\.—(1) The Auditor-General shall, if it is so provided by any written law, audit the accounts of any public authority and, if it is not so provided by any written law, may with the consent of the Minister if so requested by a public authority or a body administering public funds, audit the accounts of such public authority or body, the fee for such audit in each case being a charge upon the funds of the authority or body concerned.
+4\.—(1) The Auditor-General shall —
 
-(2) For the purposes of subsection (1), the fee shall, unless otherwise determined under the provisions of any other written law, be determined by the Minister.
+(a) if it is so provided by any written law, audit the accounts of any public authority; and
 
-(3) Notwithstanding the provisions of any written law relating to the accounts and audit of any public authority, the Minister may, if he is satisfied that the public interest so requires, direct that the accounts of such authority shall be audited by the Auditor-General.
+(b) if it is not so provided by any written law, may with the consent of the Minister if so requested by a public authority or a body administering public funds, audit the accounts of such public authority or body.
 
-(4) No fee shall be payable for an audit directed in accordance with subsection (3).
+(2) The fee for any audit under subsection (1) shall be a charge upon the funds of the public authority or body concerned.
+
+(3) For the purposes of subsection (2), the fee shall, unless otherwise determined under the provisions of any other written law, be determined by the Minister.
+
+(4) Notwithstanding the provisions of any written law relating to the accounts and audit of any public authority, the Minister may, if he is satisfied that the public interest so requires, direct that the accounts of such authority shall be audited by the Auditor-General.
+
+(5) No fee shall be payable for an audit directed in accordance with subsection (4).
+
+[5
 
 ### Nature of audit
 
-6\. The Auditor-General shall in his audit make such examination as he may consider necessary to ascertain whether all reasonable steps have been taken —
+5\. The Auditor-General shall in his audit make such examination as he may consider necessary to ascertain whether all reasonable steps have been taken —
 
 (a) to safeguard the collection and custody of public moneys or other moneys subject to his audit;
 
 (b) to ensure that issues and payments of moneys subject to his audit were made in accordance with proper authority and payments were properly chargeable and are supported by sufficient vouchers or proof of payment; and
 
-(c) to ensure that the provisions of the Constitution and of the Financial Procedure Act [Cap. 109] and any other written law relating to moneys or stores subject to his audit have been in all respects complied with.
+(c) to ensure that the provisions of the Constitution and of the Financial Procedure Act (Cap. 109) and any other written law relating to moneys or stores subject to his audit have been in all respects complied with.
+
+[6
 
 ### Powers of Auditor-General
 
-7\.—(1) In the performance of his functions under the Constitution or this Act, the Auditor-General —
+6\.—(1) In the performance of his functions under the Constitution or this Act, the Auditor-General —
 
 (a) may call upon any person for any explanation and information which the Auditor-General may require in order to enable him to discharge his duties;
 
@@ -110,7 +120,7 @@ AUDITOR-GENERAL
 
 (c) shall have access to all records, books, vouchers, documents, cash, stamps, securities, stores or other property subject to his audit;
 
-(d) may examine upon oath or affirmation (which oath or affirmation the Auditor-General is hereby empowered to administer) any person whom he may think fit to examine respecting all matters and things whatever necessary for the due performance of such functions;
+(d) may examine upon oath or affirmation (which oath or affirmation the Auditor-General is empowered to administer) any person whom he may think fit to examine respecting all matters and things whatever necessary for the due performance of such functions;
 
 (e) may authorise any public officer or any other person on his behalf to conduct any inquiry, examination or audit and to report thereon to him; and
 
@@ -118,49 +128,53 @@ AUDITOR-GENERAL
 
 (2) Any of the powers conferred by this section upon the Auditor-General may be exercised by any public officer authorised in writing in this behalf by the Auditor-General or by any other person so authorised.
 
-(3) Every person called upon for any explanation or information pursuant to subsection (1) shall be legally bound to furnish such explanation or information, as the case may be.
+(3) Any person called upon for any explanation or information under subsection (1) shall be legally bound to furnish such explanation or information, as the case may be.
 
 ### Secrecy
 
-8\.—(1) The operation of section 7 shall not be limited by any provision (including a provision relating to secrecy) contained in any other written law except to the extent to which any such other written law expressly excludes the operation of that section.
+7\.—(1) The operation of section 6 shall not be limited by any provision (including a provision relating to secrecy) contained in any other written law except to the extent to which any such other written law expressly excludes the operation of that section.
 
-(2) Notwithstanding anything in any other written law and notwithstanding the making of an oath or declaration of secrecy, a person shall not be guilty of an offence by reason of anything done by him for the purposes of section 7.
+(2) Notwithstanding anything in any other written law and notwithstanding the making of an oath or declaration of secrecy, a person shall not be guilty of an offence by reason of anything done by him for the purposes of section 6.
 
-(3) The Auditor-General or any other person shall not divulge or communicate, except in the course of duty, to another person performing duties under this Act any information which has come to his knowledge directly or indirectly in accordance with section 7 in any case in which the person from whom such information was obtained or from whose custody accounts, books, documents or papers from which such information was derived were produced could not, but for the provisions of this Act, lawfully have divulged that information to the Auditor-General or such other person.
+(3) The Auditor-General or any other person shall not divulge or communicate, except, in the course of duty, to another person performing duties under this Act, any information which has come to his knowledge, directly or indirectly, in accordance with section 6 in any case in which the person from whom such information was obtained or from whose custody accounts, books, documents or papers from which such information was derived were produced, could not, but for the provisions of this Act, lawfully have divulged that information to the Auditor-General or such other person.
 
-(4) Subsection (3) shall not prevent the making, divulging or communicating in any report of the Auditor-General of conclusions, observations or recommendations which are based on information obtained in accordance with section 7.
+(4) Subsection (3) shall not prevent the making, divulging or communicating in any report of the Auditor-General of conclusions, observations or recommendations which are based on information obtained in accordance with section 6.
+
+[8
 
 ### Audit reports
 
-9\.—(1) The Minister shall, as soon as a statement required under section 18 of the Financial Procedure Act [Cap. 109] has been prepared, transmit the statement to the Auditor-General, who shall cause the statement to be examined and audited and prepare his report thereon.
+8\.—(1) The Minister shall, as soon as a statement required under section 18 of the Financial Procedure Act (Cap. 109) has been prepared, transmit the statement to the Auditor-General, who shall cause the statement to be examined and audited and prepare his report thereon.
 
 (2) In the event of any such statement not being received within a period of 7 months after the close of the financial year to which it relates, the Auditor-General shall submit a report to that effect to the President, who shall cause it to be presented to Parliament as soon as possible after its receipt by him.
 
-(3) Subject to subsection (3A), every report relating to the statement prepared in accordance with subsection (1) shall be submitted by the Auditor-General to the President who shall present the report and statement to Parliament within 30 days of their receipt by him, or if Parliament is not in session, within 14 days after the commencement of its next sitting.
+(3) Subject to subsection (4), every report relating to the statement prepared in accordance with subsection (1) shall be submitted by the Auditor-General to the President who shall present the report and statement to Parliament within 30 days of their receipt by him, or if Parliament is not in session, within 14 days after the commencement of its next sitting.
 
-[Act 18 of 1994 wef 01/10/1994]
+[18/94]
 
-(3A) Nothing in section 3 shall require the presentation to Parliament of any report or statement containing any matter which the Prime Minister and the Minister responsible for defence, on the recommendations of the Permanent Secretary to the Ministry of Defence and the Chief of Defence Force, certify to be necessary for the defence and security of Singapore, and any certificate under the hands of the Prime Minister and the Minister responsible for defence shall be conclusive evidence of the matters specified therein.
+(4) Nothing in subsection (3) shall require the presentation to Parliament of any report or statement containing any matter which the Prime Minister and the Minister responsible for defence, on the recommendations of the Permanent Secretary to the Ministry of Defence and the Chief of Defence Force, certify to be necessary for the defence and security of Singapore.
 
-[Act 18 of 1994 wef 01/10/1994]
+(5) Any certificate under the hands of the Prime Minister and the Minister responsible for defence shall be conclusive evidence of the matters specified therein.
 
-(4) If at any time it appears to the Auditor-General that any serious irregularities have occurred in the accounting or custody of public moneys or public stores, he shall immediately bring the matter to the notice of the Permanent Secretary to the Ministry of Finance.
+[18/94]
 
-(5) The Auditor-General may in any report submitted in accordance with the provisions of this Act or otherwise make recommendations and may generally comment upon all matters relating to public accounts, public moneys and public stores.
+(6) If at any time it appears to the Auditor-General that any serious irregularities have occurred in the accounting or custody of public moneys or public stores, he shall immediately bring the matter to the notice of the Permanent Secretary to the Ministry of Finance.
 
-(6) Unless it is otherwise required by law or by direction of the Minister, where the Auditor-General audits the accounts of any other authority or body he shall present his certificate and any report found necessary upon such accounts to the head of that authority or body.
+(7) The Auditor-General may, in any report submitted in accordance with the provisions of this Act or otherwise, make recommendations and may generally comment upon all matters relating to public accounts, public moneys and public stores.
 
-(7) Notwithstanding this section, the Auditor-General may at any time submit a report to the President upon any matter arising out of the performance of any of his duties or the exercise of any of his powers under this Act or under any other written law.
+(8) Unless it is otherwise required by law or by direction of the Minister, where the Auditor-General audits the accounts of any other authority or body he shall present his certificate and any report found necessary upon such accounts to the head of that authority or body.
+
+(9) Notwithstanding this section, the Auditor-General may, at any time, submit a report to the President upon any matter arising out of the performance of any of his duties or the exercise of any of his powers under this Act or under any other written law.
+
+[9
 
 ### Regulations
 
-10\.—(1) The Minister may make regulations for the purpose of carrying out the provisions of this Act.
+9\.—(1) The Minister may make regulations for the purpose of carrying out the provisions of this Act.
 
 (2) All such regulations shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
-### Director of Audit to read as Auditor-General in written law
-
-11\. All references in any written law to the Director of Audit shall be read as references to the Auditor-General.
+[10
 
 ## LEGISLATIVE HISTORY
 
@@ -168,7 +182,7 @@ Audit Act
 
 (CHAPTER 17)
 
-This Legislative History is provided for the convenience of users of the Audit Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Audit Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -196,3 +210,95 @@ This Legislative History is provided for the convenience of users of the Audit A
 |||(Bill No. 25/94 published on 29 July 1994)|
 ||Date of Second and Third Readings|25 August 1994|
 ||Date of commencement|1 October 1994|
+|7.|**1999 Revised Edition—Audit Act**|
+||Date of operation|1 August 1999|
+## COMPARATIVE TABLE
+
+Audit Act
+
+(CHAPTER 17)
+
+The following provisions in the 1985 Revised Edition of the Audit Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Audit Act.
+
+1999 Ed\. 
+
+1985 Ed\. 
+
+—
+
+3 (Repealed by Act 11/97)
+
+3 —(1) and (2)
+
+4 —(1)
+
+(3)
+
+(2)
+
+(4)
+
+(3)
+
+4 —(1) and (2)
+
+5 —(1)
+
+(3)
+
+(2)
+
+(4)
+
+(3)
+
+(5)
+
+(4)
+
+5 
+
+6 
+
+6 
+
+7 
+
+7 
+
+8 
+
+8 —(1) to (3)
+
+9 —(1) to (3)
+
+(4) and (5)
+
+(3A)
+
+(6)
+
+(4)
+
+(7)
+
+(5)
+
+(8)
+
+(6)
+
+(9)
+
+(7)
+
+9 
+
+10 
+
+Omitted
+
+11 
+
