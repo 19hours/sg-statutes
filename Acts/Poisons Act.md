@@ -42,7 +42,7 @@
 
 - [18 Sanction to prosecute](#Sanction-to-prosecute)
 
-- [19 Prohibition of sale to persons under 18 years](#Prohibition-of-sale-to-persons-under-18-years)
+- [19 Prohibition of sale to persons below 18 years](#Prohibition-of-sale-to-persons-below-18-years)
 
 - [20 Rules](#Rules)
 
@@ -50,15 +50,17 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Poisons Act
 
 (CHAPTER 234)
 
 (Original Enactment: Ordinance 39 of 1938)
 
-REVISED EDITION 1989
+REVISED EDITION 1999
 
-(15th March 1989)
+(30th December 1999)
 
 An Act to regulate the importation, possession, manufacture, compounding, storage, transport and sale of poisons.
 
@@ -66,15 +68,11 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 
 ### Short title
 
-1\. This Act may be cited as the Poisons Act.1
-
-1Sections 6, 7, 9, 11, 16 and 20 are to be amended and new section 21 inserted on the coming into operation of section 76(2) of the Medicines Act (Cap. 176).
+1\. This Act may be cited as the Poisons Act.
 
 ### Interpretation
 
 2\. In this Act and in any rules made thereunder unless there is something repugnant in the subject or context —
-
-“dentist” means any person registered as a dentist under the Dentists Act [Cap. 76];
 
 “licensed pharmacist” means a pharmacist licensed under this Act;
 
@@ -82,11 +80,13 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 
 “medical practitioner” means a medical practitioner registered under any written law for the time being in force relating to the registration of medical practitioners and includes a medical officer exempted by that written law from registration thereunder;
 
-“pharmacist” means a person registered as a pharmacist under the Pharmacists Registration Act [Cap. 230];
+“pharmacist” means a person registered as a pharmacist under the Pharmacists Registration Act (Cap. 230);
 
 “poison” means any substance deemed to be a poison within the meaning of this Act;
 
 “Poisons List” means the Poisons List in the Schedule;
+
+“registered dentist” has the same meaning as in the Dentists Act 1999 (Act 24 of 1999);
 
 “sale by way of wholesale dealing” means sale to a person who buys for the purpose of selling again;
 
@@ -102,9 +102,7 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 
 4\. The Director of Medical Services or any public officer authorised by him in writing may issue licences for the purposes of this Act.
 
-[14/80]
-
-[21/87]
+[14/80; 21/87]
 
 ### General prohibition with respect to importation and sale of poisons
 
@@ -126,9 +124,9 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 
 (v) the sale is effected by or under the personal supervision of a pharmacist; or
 
-[Act 9 of 1999 wef 01/04/1999]
-
 (b) for any person to sell any poison by way of wholesale dealing except to a person licensed under this Act to sell that poison.
+
+[9/99]
 
 (2) It shall not be lawful for a person to sell any poison unless the container of the poison is labelled —
 
@@ -156,7 +154,7 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 
 (a) to a medicine which is supplied by a medical practitioner for the purposes of medical treatment of his own patients;
 
-(b) to a medicine which is supplied by a dentist for the purposes of dental treatment of his own patients;
+(b) to a medicine which is supplied by a registered dentist for the purposes of dental treatment of his own patients;
 
 (c) to a medicine which is supplied by a veterinary surgeon for the purposes of animal treatment;
 
@@ -176,21 +174,21 @@ if the requirements contained in subsections (2), (3) and (4) are satisfied in r
 
 (c) if the medicine was dispensed by a licensed pharmacist, the name or initials and, if it is known, the address of the person by whom the prescription was signed, and the name and address of the person to whom, and the date on which, the prescription was given;
 
-(d) if the medicine was not so dispensed, the name and address of the person to whom it was supplied:
+(d) if the medicine was not so dispensed, the name and address of the person to whom it was supplied.
 
-Provided that this subsection shall, in the case of a medicine supplied on a prescription on which such medicine had been supplied by the seller on a previous occasion, be deemed to be complied with if the date on which the medicine is supplied and the quantity thereof supplied are entered in the book or in a book kept for the purpose of this proviso on that day or, if that is not reasonably practicable, on the day next following that day, together with a sufficient reference to any entry in the book duly recording the dispensing of the medicine by the seller on the first occasion.
+(4) Subsection (3) shall, in the case of a medicine supplied on a prescription on which such medicine had been supplied by the seller on a previous occasion, be deemed to be complied with if the date on which the medicine is supplied and the quantity thereof supplied are entered in the book or in a book kept for the purpose of this subsection on that day or, if that is not reasonably practicable, on the day next following that day, together with a sufficient reference to any entry in the book duly recording the dispensing of the medicine by the seller on the first occasion.
 
-(4) In the case of a medicine which is supplied or dispensed by a pharmacist or medical practitioner the medicine must have been compounded by or under the direct and personal supervision of the pharmacist or medical practitioner.
+(5) In the case of a medicine which is supplied or dispensed by a pharmacist or medical practitioner the medicine must have been compounded by or under the direct and personal supervision of the pharmacist or medical practitioner.
 
 ### Exemptions in respect of poisons sold or exported
 
-8\. Except as provided in any rules made under this Act, nothing in section 6(1)(a)(v) and section 6(2) and (3) shall extend to or affect —
+8\. Except as provided in any rules made under this Act, nothing in section 6(1)(a)(v), (2) and (3) shall extend to or affect —
 
 (a) the sale of poisons by way of wholesale dealing;
 
 (b) the sale of poisons to be exported from Singapore to a place other than Malaysia;
 
-(c) the sale of poisons to a medical practitioner, dentist or veterinary surgeon for the purposes of his profession;
+(c) the sale of poisons to a medical practitioner, registered dentist or veterinary surgeon for the purposes of his profession;
 
 (d) the sale of poisons for use in or in connection with any hospital, dispensary or similar institution approved by an order, whether general or special, of the Director of Medical Services;
 
@@ -226,45 +224,45 @@ Provided that this subsection shall, in the case of a medicine supplied on a pre
 
 ### Issue of licences
 
-10\.—(1) A licensing officer may issue to any person, subject to such terms and conditions as the licensing officer may think fit, any licence authorising the person to import, possess for sale, sell or offer for sale any poison or for any purpose for which a licence may be prescribed:
+10\.—(1) A licensing officer may issue to any person, subject to such terms and conditions as the licensing officer may think fit, any licence authorising the person to import, possess for sale, sell or offer for sale any poison or for any purpose for which a licence may be prescribed.
 
-Provided that no licence shall be issued to a medical practitioner other than a licence authorising him to import, possess and sell poisons by retail in connection with his own practice or with a practice or partnership in which every member is a medical practitioner.
-
-[21/87]
-
-(2) A licensing officer, if it appears expedient to him to do so, may cancel any licence issued under subsection (1).
-
-(3) Every licence shall, unless previously cancelled, remain in force for such period as may be prescribed.
+(2) No licence shall be issued to a medical practitioner other than a licence authorising him to import, possess and sell poisons by retail in connection with his own practice or with a practice or partnership in which every member is a medical practitioner.
 
 [21/87]
 
-(4) Such fees as may be prescribed shall be charged on the issue of each licence.
+(3) A licensing officer, if it appears expedient to him to do so, may cancel any licence issued under subsection (1).
 
-### Appeal
+(4) Every licence shall, unless previously cancelled, remain in force for such period as may be prescribed.
 
-(5) Any person to whom a licensing officer refuses to issue a licence or whose licence is cancelled under subsection (2) may appeal to the Minister whose decision shall be final and conclusive.
+[21/87]
+
+(5) Such fees as may be prescribed shall be charged on the issue of each licence.
+
+(6) Any person to whom a licensing officer refuses to issue a licence or whose licence is cancelled under subsection (3) may appeal to the Minister whose decision shall be final and conclusive.
 
 ### Terms of licences
 
 11\.—(1) There shall be implied in every licence issued under this Act the condition that the licensee is bound to comply with all the provisions of this Act and any rules made thereunder.
 
+[21/87]
+
 (2) Every licence issued under this Act shall be personal to the licensee named therein and shall not in any case be transferable to another person and no licence shall authorise the sale of any poison by any person other than the person named therein.
 
 (3) A licensing officer may, if he sees fit, amend the description in a licence of the premises at which the person licensed carries on the business or profession in connection with which he is licensed.
-
-[21/87]
 
 ### Licences to be numbered and registered
 
 12\.—(1) All licences issued shall be numbered consecutively in the year in respect of which they are issued, commencing each year with the number one.
 
-(2) The Director of Medical Services shall keep a register of licences showing all the particulars of each licence issued under this Act and the entries in the register shall be numbered to correspond with the serial numbers of the licences and there shall be noted in the register in the event of cancellation of any licence the date of such cancellation.
+(2) The Director of Medical Services shall keep a register of licences showing all the particulars of each licence issued under this Act.
+
+(3) The entries in the register shall be numbered to correspond with the serial numbers of the licences and there shall be noted in the register in the event of cancellation of any licence the date of such cancellation.
 
 [21/87]
 
-(3) Any extract from or copy of an entry in a register kept under this section shall be prima facie evidence of the facts stated therein if the extract or copy is certified under the hand of a licensing officer to be a true extract or copy.
+(4) Any extract from or copy of an entry in a register kept under this section shall be prima facie evidence of the facts stated therein if the extract or copy is certified under the hand of a licensing officer to be a true extract or copy.
 
-(4) The register of licences kept under this section shall be kept at the office of the Director of Medical Services and shall be available for inspection by any person without charge at all reasonable hours.
+(5) The register of licences kept under this section shall be kept at the office of the Director of Medical Services and shall be available for inspection by any person without charge at all reasonable hours.
 
 [21/87]
 
@@ -272,39 +270,35 @@ Provided that no licence shall be issued to a medical practitioner other than a 
 
 13\. Licences issued under this Act shall be substantially in the forms prescribed with such variations as circumstances may require.
 
-[14
-
 ### Search and search warrants
 
 14\.—(1) A licensing officer or any public officer authorised in writing by a licensing officer or any police officer not below the rank of sergeant may enter at all reasonable times upon any premises in which poisons are reasonably believed by that officer to be kept or stored and by himself or by some other person accompanying him and acting under his instructions and in his presence may search the premises and take possession of any substances found therein and reasonably believed to be or to contain a poison.
 
+[21/73; 14/80]
+
 (2) Any officer referred to in subsection (1) may in like manner inspect and take extracts from any book or record relating or reasonably believed to relate to any dealing in or with poisons wherever and by whomsoever kept and whether kept under the provisions of this Act or of any rules made thereunder or otherwise and for the purpose of such inspections or taking of extracts may enter at all reasonable times upon any place whatsoever.
 
-(3) In any case in which it appears to any magistrate upon the oath of any person that there is reasonable cause to believe that in any premises there is concealed or deposited any substance in respect of which an offence has been committed under this Act, the magistrate may, by warrant addressed to any police officer not below the rank of sergeant or to any senior officer of customs within the meaning of the Customs Act [Cap. 70], empower the officer to enter upon and search by day or night any premises and to take possession of any substance and to arrest any person being in the premises in whose possession the substance may be found or who is reasonably suspected by the officer to have concealed or deposited the substance therein, and any officer to whom the warrant may be directed may in case of obstruction or resistance break open any outer or inner door of the premises and any cupboard, chest, trunk or package or other receptacle and by force, if necessary, enter upon any part of the premises and remove any obstruction to such entry, search or seizure and detain any person found in the premises until the search has been completed.
+(3) In any case in which it appears to any magistrate upon the oath of any person that there is reasonable cause to believe that in any premises there is concealed or deposited any substance in respect of which an offence has been committed under this Act, the magistrate may, by warrant addressed to any police officer not below the rank of sergeant or to any senior officer of customs within the meaning of the Customs Act (Cap. 70), empower the officer to enter upon and search by day or night any premises and to take possession of any substance and to arrest any person being in the premises in whose possession the substance may be found or who is reasonably suspected by the officer to have concealed or deposited the substance therein.
 
-[15
-
-[21/73]
+(4) Any officer to whom the warrant may be directed may in case of obstruction or resistance break open any outer or inner door of the premises and any cupboard, chest, trunk or package or other receptacle and by force, if necessary, enter upon any part of the premises and remove any obstruction to such entry, search or seizure and detain any person found in the premises until the search has been completed.
 
 [21/73]
-
-[14/80]
 
 ### Powers of exemption
 
-15\. The Minister may by order published in theGazetteexempt from the operation of this Act or of any specific provision thereof —
+15\.—(1) The Minister may by order published in theGazetteexempt from the operation of this Act or of any specific provision thereof —
 
 (a) any specified person or class of persons; or
 
-(b) any chemical commonly used for any process in connection with a trade, manufacture or industry,
+(b) any chemical commonly used for any process in connection with a trade, manufacture or industry.
 
-but every such exemption shall be subject to such instructions and conditions as the Minister may think fit to impose either generally or in any particular case.
-
-[16
+(2) Every such exemption shall be subject to such instructions and conditions as the Minister may think fit to impose either generally or in any particular case.
 
 ### Penalties
 
 16\.—(1) Any person who acts in contravention of any of the provisions of this Act shall, except in so far as his act comes within one of the exemptions made by sections 7 and 8, be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[14/80; 21/87]
 
 (2) Any poison in respect of which an offence has been committed in contravention of any provision of this Act or of any rules made thereunder by any unlicensed person shall, upon that person being convicted of that offence, be forfeited and shall be handed over to the Director of Medical Services for disposal.
 
@@ -314,17 +308,9 @@ but every such exemption shall be subject to such instructions and conditions as
 
 (5) Where an offence committed by a body corporate under this Act or any rules made thereunder is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person purporting to act in any such capacity, he, as well as the body corporate, shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-[17
-
-[14/80]
-
-[21/87]
-
 ### Jurisdiction
 
-17\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code, a District Court shall have power to impose the full penalty or punishment provided by this Act.
-
-[18
+17\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have power to impose the full penalty or punishment provided by this Act.
 
 ### Sanction to prosecute
 
@@ -332,15 +318,15 @@ but every such exemption shall be subject to such instructions and conditions as
 
 (2) In any prosecution under this Act the burden of proving that any poison found in the possession of the accused was not kept for sale shall be upon the accused.
 
-[19
+### Prohibition of sale to persons below 18 years
 
-### Prohibition of sale to persons under 18 years
+19\.—(1) No poison shall be sold to any person below 18 years of age.
 
-19\.—(1) No poison shall be sold to any person under 18 years of age. Any person contravening this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+(2) Any person contravening this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(2) It shall be a sufficient defence to any charge under subsection (1) that the person charged had reasonable cause to believe that the person to whom the sale was made was above the age of 18 years.
+[21/87]
 
-[20
+(3) It shall be a sufficient defence to any charge under subsection (2) that the person charged had reasonable cause to believe that the person to whom the sale was made was above the age of 18 years.
 
 [21/87]
 
@@ -357,8 +343,6 @@ but every such exemption shall be subject to such instructions and conditions as
 (i) regulating or restricting the sale or supply of poisons by persons licensed under this Act and prohibiting the sale of any specified poison or class of poisons by any class of such persons;
 
 (ii) prohibiting the sale by retail of poisons included in the Poisons List except on a prescription duly signed by a medical practitioner, registered dentist or registered veterinary surgeon, and prescribing the form and regulating the use of prescriptions given for the purpose of rules made under this paragraph; and
-
-[Act 9 of 1999 wef 01/04/1999]
 
 (iii) dispensing with or relaxing with respect to any specified poison any of the provisions contained in this Act or in any rules made thereunder relating to the sale of poisons;
 
@@ -384,15 +368,15 @@ but every such exemption shall be subject to such instructions and conditions as
 
 (n) prescribing that any act or omission in contravention of any rule shall be an offence punishable by a fine not exceeding $5,000 or imprisonment for a term not exceeding 2 years or both.
 
-[21/87]
+[21/87; 9/99]
 
-(2) All rules made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of 3 months from the date when the rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from the date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
+(2) All rules made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
-[21
+(3) If a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of 3 months from the date when the rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from the date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
 
 ## THE SCHEDULE
 
-Section 2.
+Section 2
 
 Poisons List
 
@@ -664,7 +648,7 @@ Atovaquone
 
 Atracurium; its salts; its isomers; their salts
 
-Atropine; its quarternary compounds; its salts
+Atropine; its salts; its quarternary compounds
 
 Auranofin
 
@@ -822,7 +806,7 @@ Bromocriptine; its salts
 
 Bromodiphenhydramine; its salts
 
-4-bromo-2,5, -dimethoxy-α-methylphenethylamine
+4-bromo-2,5, -dimethoxy-&alpha;-methylphenethylamine
 
 Brompheniramine; its salts
 
@@ -1006,7 +990,7 @@ Cephaloram
 
 Cephaloridine
 
-Cephalosporins; its salts; its esters; their salts, that is to say, the antimicrobial substances containing in their chemical structure a fused dihydrothiazine β-lactam nucleus.
+Cephalosporins; its salts; its esters; their salts, that is to say, the antimicrobial substances containing in their chemical structure a fused dihydrothiazine ß;-lactam nucleus
 
 Cephalothin
 
@@ -1022,7 +1006,7 @@ Cetirizine; its salts
 
 Chenodeoxycholic acid
 
-Chloral; its addition and its condensation products other than α−χηλoραλoσε; τηειρ µoλεχυλαρ χoµπoυνδσ
+Chloral; its addition and its condensation products other than &alpha;-chloralose; their molecular compounds
 
 Chlorambucil
 
@@ -1326,9 +1310,7 @@ Dextropropoxyphene; its salts
 
 Dextrorphan; its salts
 
-Dextrothyroxine sodium
-
-3-Di-n-butylaminomethyl-4,5,6-trihydroxyphthalide; its salts
+Dextrothyroxine sodium 3-Di-n-butylaminomethyl-4,5,6-trihydroxyphthalide; its salts
 
 Diacetylmorphine; its salts
 
@@ -1366,17 +1348,13 @@ Didanosine
 
 Dienoestrol
 
-Diethanolamine fusidate
-
-N-Diethylaminoethyl ephedrine; its salts
+Diethanolamine fusidate N-Diethylaminoethyl ephedrine; its salts
 
 Diethylcarbamazine; its salts
 
 Diethylpropion; its salts
 
-Diethylthiambutene; its salts
-
-N, N-Diethyltryptamine (DET)
+Diethylthiambutene; its salts N, N-Diethyltryptamine (DET)
 
 Difenoxin; its salts
 
@@ -1400,9 +1378,7 @@ Dihydroergotoxine; its salts
 
 Dihydromorphine; its salts; its esters and ethers; their salts
 
-Dihydrostreptomycin; its salts; its esters; their salts
-
-3-(3, 4-Dihydroxyphenyl) alanine; its salts
+Dihydrostreptomycin; its salts; its esters; their salts 3-(3, 4-Dihydroxyphenyl) alanine; its salts
 
 Diloxanide; its salts
 
@@ -1432,13 +1408,13 @@ Dimethoxanate; its salts
 
 2, 5-Dimethoxy-4-ethylamphetamine
 
-2, 5-Dimethoxy-|ga, 4-dimethylphenethylamine; its salts
+2, 5-Dimethoxy-alpha&, 4-dimethylphenethylamine; its salts
 
 Dimethpyrindene; its salts
 
 3-(1,2-Dimethylheptyl)-1-hydroxy-7,8,9,10-tetrahydro-6 ,6,9-trimethyl-6 H dibenzo [b,d] pyran (DMHP)
 
-Dimethyl 4-sulphamoylphenyl phosphorothionate
+Dimethyl 4-sulphamoylphenyl phosphorothioate
 
 Dimethyl sulphoxide
 
@@ -1634,13 +1610,13 @@ N-Ethylamphetamine
 
 Ethyl biscoumacetate
 
-()-4-ethyl-2,5-dimethoxy--phenethylamine
+()-4-ethyl-2,5-dimethoxy-&alpha;-phenethylamine
 
 Ethyl loflazepate
 
 Ethyl methylthiambutene
 
-()-N-ethyl--;methyl-3-4-(methylenedioxy)phenethylamine
+()-N-ethyl-&alpha;-methyl-3-4-(methylenedioxy)phenethylamine
 
 Ethylmorphine, its salts; its esters and ethers; their salts
 
@@ -1660,7 +1636,7 @@ Etidronic acid; its salts; which are intended for the treatment of human ailment
 
 Etodolac
 
-Etofenamate
+Etofenamate; its salts; its esters
 
 Etofibrate
 
@@ -1968,7 +1944,7 @@ Human growth hormones
 
 Hydrallazine; its salts
 
-Hydrazines, benzyl, phenethyl and phenoxyethyl; their α-methyl derivatives; acyl derivatives of any of the foregoing substances comprised in this item; salts of any compounds comprised in this item
+Hydrazines, benzyl, phenethyl and phenoxyethyl; their &alpha-methyl derivatives; acyl derivatives of any of the foregoing substances comprised in this item; salts of any compounds comprised in this item
 
 Hydrochlorothiazide
 
@@ -2040,7 +2016,7 @@ Ipratropium; its salts
 
 Iprindole; its salts
 
-Iproniazid; its salts
+Iproniazid; its salt
 
 Irbesartan
 
@@ -2160,7 +2136,7 @@ Lidoflazine
 
 Lignocaine; its salts
 
-Lincomycin; its salts; its esters; their salts; that is to say, the S-alkyl derivatives of 6,8-dideoxy-6-trans- (4-alkyl- L-2-pyrrolidine carboxamido)-1-thio-D-erythro-α-D-galacto-octopyranoside and N-methylpyrrolidine analogues thereof
+Lincomycin; its salts; its esters; their salts; that is to say, the S-alkyl derivatives of 6,8-dideoxy-6-trans- (4-alkyl- L-2-pyrrolidine carboxamido)-1-thio-D-erythro-&alpha;-D-galacto-octopyranoside and N-methylpyrrolidine analogues thereof
 
 Liothyronine sodium
 
@@ -2374,11 +2350,11 @@ Methoxamine; its salts
 
 Methoxsalen
 
-2-methoxy--;methyl-4,5-(methylenedioxy)phenethylamine
+2-methoxy-&alpha;-methyl-4,5-(methylenedioxy)phenethylamine
 
 5-methoxy-3, 4-methylene-dioxyamphetamine
 
-p-Methoxy—methylphenethylamine
+p-Methoxy-&alpha;-methylphenethylamine
 
 Methoxyphenamine; its salts
 
@@ -2408,13 +2384,13 @@ Methylergometrine; its salts
 
 3-Methylfentanyl and its isomeric forms
 
-()-N-[∝-methyl-3-4-(methylenedioxy)phenethyl]hydrox ylamine
+()-N-[&alpha-methyl-3-4-(methylenedioxy)phenethyl]hydrox ylamine
 
 2-Methyl-3-morpholino-1,1-diphenylpropane carboxylic acid; its salts; its esters; their salts
 
 Methylpentynol; its esters and other derivatives
 
--Methylphenethylamine, β−µετηψλπηενετηψλαµινε ανδ α-ethylphenethylamine; any synthetic compound structurally derived from any of those substances by substitution in the aliphatic part or by ring closure therein (or by both such substitution and such closure) or by substitution in the aromatic ring (with or without substitution at the nitrogen atom), except ephedrine, its optical isomers and N-substituted derivatives, fenfluramine, hydroxyamphetamine, methoxyphenamine, phenylpropanolamine, pholedrine and prenylamine; any salt of any substance falling within this item
+|&alpha;-Methylphenethylamine, ß;-methylphenethylamine and &alpha;-ethylphenethylamine; any synthetic compound structurally derived from any of those substances by substitution in the aliphatic part or by ring closure therein (or by both such substitution and such closure) or by substitution in the aromatic ring (with or without substitution at the nitrogen atom), except ephedrine, its optical isomers and N-substituted derivatives, fenfluramine, hydroxyamphetamine, methoxyphenamine, phenylpropanolamine, pholedrine and prenylamine; any salt of any substance falling within this item
 
 Methylphenidate; its salts
 
@@ -2552,7 +2528,7 @@ Naphazoline; its salts; when contained in eye preparations
 
 Naproxen; its salts
 
-Naratripton; its salts
+Naratriptan; its salts
 
 Natamycin; its salts; its esters; their salts
 
@@ -2640,7 +2616,9 @@ Nomifensine; its salts
 
 Noracymethadol; its salts
 
-Noradrenaline; its salts
+Noradrenaline; its salt
+
+Parnaparin; its salts
 
 Noramidopyrine; its salts; noramidopyrine sulphonates; their salts
 
@@ -2816,7 +2794,7 @@ Penfluridol
 
 Penicillamine; its salts
 
-Penicillin, any antimicrobial acid, any salt thereof, or any derivative which is obtained therefrom, which may be shown on chemical and physical examination to contain in its structure a fused thiazolidine β-lactam nucleus; their esters; their salts
+Penicillin, any antimicrobial acid, any salt thereof, or any derivative which is obtained therefrom, which may be shown on chemical and physical examination to contain in its structure a fused thiazolidine ß;-lactam nucleus; their esters; their salts
 
 Penicillin V; its salts; its esters; their salts
 
@@ -3146,9 +3124,9 @@ Pyrrobutamine; its salts
 
 Quebracho alkaloids of, except the alkaloids of red quebracho; its quarternary compounds; their salts
 
-Quinagolide; its salts
-
 Quetiapine; its salts
+
+Quinagolide; its salts
 
 Quinalbarbitone; its salts
 
@@ -3184,7 +3162,7 @@ Rauwolfia, alkaloids of; their quarternary compounds; derivatives of alkaloids o
 
 Razoxane
 
-Reboxetine, its salts; its esters; their salts
+Reboxetine; its salts; its esters; their salts
 
 Remifentanil; its salts
 
@@ -3790,8 +3768,6 @@ Zoxazolamine; its salts
 
 Zuclopenthixol; its salts; its esters; their salts.
 
-[S 190/1995; S 227/1996; S 456/1998; S 633/1998; Act 9 of 1999; S 280/1999]
-
 ## LEGISLATIVE HISTORY
 
 Poisons Act
@@ -3807,181 +3783,211 @@ This Legislative History is provided for the convenience of users of the Poisons
 |||(Bill published on 4 November 1938)|
 ||Date of Second and Third Readings|23 November 1938|
 ||Date of commencement|1 December 1939|
-|2.|**G. N. No. 3805/1939—The Poisons Ordinance, 1938**|
-||Date of commencement|8 December 1939|
-|3.|**G. N. No. S 165/1946—The Poisons Ordinance, 1938**|
-||Date of commencement|11 October 1946|
-|4.|**G. N. No. S 192/1948—The Poisons Ordinance, 1938**|
-||Date of commencement|9 July 1948|
-|5.|**G. N. No. S 536/1950—The Poisons Ordinance, 1938**|
-||Date of commencement|8 December 1950|
-|6.|**G. N. No. S 19/1952—The Poisons Ordinance, 1938**|
-||Date of commencement|18 January 1952|
-|7.|**G. N. No. S 206/1952—The Poisons Ordinance, 1938**|
-||Date of commencement|16 May 1952|
-|8.|**G. N. No. S 32/1954—The Poisons Ordinance, 1938**|
-||Date of commencement|29 January 1954|
-|9.|**Ordinance 8 of 1954—Poisons (Amendment) Ordinance 1954**|
+|2.|**Ordinance 8 of 1954—Poisons (Amendment) Ordinance 1954**|
 ||Date of First Reading|13 April 1954|
 |||(Bill published on 15 April 1954)|
 ||Date of Second Reading|18 May 1954|
-||Date of commencement|29 June 1954|
-|10.|**Ordinance 5 of 1956—Poisons (Amendment) Ordinance 1956**|
+||Date of commencement|9 July 1954|
+|3.|**Ordinance 5 of 1956—Poisons (Amendment) Ordinance 1956**|
 ||Date of First Reading|8 February 1956|
 |||(Bill No. 36/1956 published on 22 February 1956)|
 ||Date of Second and Third Readings|7 March 1956|
 ||Date of commencement|29 March 1956|
-|11.|**1955 Revised Edition—Poisons Ordinance (Chapter 146)**|
-||Date of operation|1 July 1956|
-|12.|**Ordinance 31 of 1958—Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance 1958**|
+|4.|**Ordinance 31 of 1958—Legislative Assembly (Presentation of Subsidiary Legislation) Ordinance 1958**|
 ||Date of First Reading|16 July 1958|
 |||(Bill No. 158/1958 published on 22 July 1958)|
 ||Date of Second and Third Readings|10 September 1958|
 ||Date of commencement|25 September 1958|
-|13.|**G. N. No. S 328/1955—The Poisons Ordinance, 1938**|
-||Date of commencement|27 October 1955|
-|14.|**G. N. No. S 93/1957—The Poisons Ordinance, 1938**|
-||Date of commencement|5 April 1957|
-|15.|**G. N. No. S 43/1958—The Poisons Ordinance, 1938**|
-||Date of commencement|28 February 1958|
-|16.|**G. N. No. S 121/1958—The Poisons Ordinance, 1938**|
-||Date of commencement|30 May 1958|
-|17.|**G. N. No. S 92/1959—The Poisons Ordinance**|
-||Date of commencement|20 January 1959|
-|18.|**G. N. No. S (N.S) 67/1959—The Singapore Constitution (Modification of Laws) (No. 2) Order, 1959**|
-||Date of commencement|21 August 1959|
-|19.|**G. N. No. S 213/1960—The Poisons Ordinance**|
-||Date of commencement|2 September 1960|
-|20.|**G. N. No. S 219/1961—The Poisons Ordinance**|
-||Date of commencement|22 September 1961|
-|21.|**G. N. Sp. No. S 133/1964—The Poisons (List of Substances) Notification, 1964**|
-||Date of commencement|28 August 1964|
-|22.|**G. N. Sp. No. S 144/1964—The Poisons (List of Substances) (Amendment) Notification, 1964**|
-||Date of commencement|11 September 1964|
-|23.|**G. N. Sp. No. S 153/1964—The Poisons (List of Substances) (Amendment No. 2)Notification, 1964**|
-||Date of commencement|18 September 1964|
-|24.|**G. N. Sp. No. S 211/1965—The Poisons (List of Substances) Notification, 1965**|
-||Date of commencement|17 December 1965|
-|25.|**G. N. No. S 156/1968—The Poisons (List of Substances) (Amendment) Notification, 1968**|
-||Date of commencement|7 June 1968|
-|26.|**G. N. No. S 76/1970—The Poisons (List of Substances) (Amendment) Notification, 1970**|
-||Date of commencement|6 March 1970|
-|27.|**1970 Revised Edition—Poisons Act 1970 (Cap. 164)**|
+|5.|**1970 Revised Edition—Poisons Act 1970 (Cap. 164)**|
 ||Date of operation|31 May 1971|
-|28.|**Act 21 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1973**|
+|6.|**Act 21 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1973**|
 ||Date of First Reading|7 March 1973|
 |||(Bill No. 16/1973 published on 9 March 1973)|
 ||Date of Second and Third Readings|20 March 1973|
 ||Date of commencement|6 April 1973|
-|29.|**G. N. No. S 353/1973—Poisons (List of Substances) Notification 1973**|
+|7.|**G. N. No. S 353/1973—Poisons (List of Substances) Notification 1973**|
 ||Date of commencement|12 October 1973|
-|30.|**G. N. No. S 16/1974—Poisons (List of Substances) Notification 1974**|
+|8.|**G. N. No. S 16/1974—Poisons (List of Substances) Notification 1974**|
 ||Date of commencement|18 January 1974|
-|31.|**G. N. No. S 363/1974—Poisons (List of Substances) (No. 2) Notification 1974**|
+|9.|**G. N. No. S 363/1974—Poisons (List of Substances) (No. 2) Notification 1974**|
 ||Date of commencement|20 December 1974|
-|32.|**G. N. No. S 18/1975—Poisons (List of Substances) (Amendment) Notification 1975**|
+|10.|**G. N. No. S 18/1975—Poisons (List of Substances) (Amendment) Notification 1975**|
 ||Date of commencement|31 January 1975|
-|33.|**G. N. No. S 233/1976—Poisons (List of Substances) (Amendment) Notification 1976**|
+|11.|**G. N. No. S 233/1976—Poisons (List of Substances) (Amendment) Notification 1976**|
 ||Date of commencement|19 November 1976|
-|34.|**Act 52 of 1975—Medicines Act 1975**|
+|12.|**Act 52 of 1975—Medicines Act 1975**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|3 March 1975|
 |||(Bill No. 12/1975 published on 7 March 1975)|
 ||Date of Third Reading|20 November 1975|
 ||Date of commencement|24 June 1977 (Part VII)|
-|35.|**G. N. No. S 132/1978—Poisons (List of Substances) (Amendment) Notification 1978**|
+|13.|**G. N. No. S 132/1978—Poisons (List of Substances) (Amendment) Notification 1978**|
 ||Date of commencement|9 June 1978|
-|36.|**G. N. No. S 241/1978—Poisons (List of Substances) Notification 1978**|
-||(G.N. No. S 263/1978 — Corrigendum)||
+|14.|**G. N. No. S 241/1978—Poisons (List of Substances) Notification 1978**|
 ||Date of commencement|6 October 1978|
-|37.|**G. N. No. S 2/1980—Poisons (List of Substances) Notification 1980**|
+|15.|**G. N. No. S 2/1980—Poisons (List of Substances) Notification 1980**|
 ||Date of commencement|4 January 1980|
-|38.|**Act 14 of 1980—Poisons (Amendment) Act 1980**|
+|16.|**Act 14 of 1980—Poisons (Amendment) Act 1980**|
 ||Date of First Reading|26 February 1980|
 |||(Bill No. 3/1980 published on 29 February 1980)|
 ||Date of Second and Third Readings|17 March 1980|
 ||Date of commencement|9 May 1980|
-|39.|**G. N. No. S 186/1982—Poisons (List of Substances) Notification 1982**|
+|17.|**G. N. No. S 186/1982—Poisons (List of Substances) Notification 1982**|
 ||Date of commencement|25 June 1982|
-|40.|**G. N. No. S 279/1983—Poisons (List of Substances) Notification 1983**|
+|18.|**G. N. No. S 279/1983—Poisons (List of Substances) Notification 1983**|
 ||Date of commencement|25 November 1983|
-|41.|**G. N. No. S 201/1984—Poisons (List of Substances) (Amendment) Notification 1984**|
+|19.|**G. N. No. S 201/1984—Poisons (List of Substances) (Amendment) Notification 1984**|
 ||Date of commencement|3 August 1984|
-|42.|**G. N. No. S 205/1985—Poisons Act (Amendment of Schedule) Notification 1985**|
+|20.|**G. N. No. S 205/1985—Poisons Act (Amendment of Schedule) Notification 1985**|
 ||Date of commencement|8 August 1985|
-|43.|**G. N. No. S 342/1985—Poisons Act (Amendment of Schedule) (No. 2) Notification 1985**|
+|21.|**G. N. No. S 342/1985—Poisons Act (Amendment of Schedule) (No. 2) Notification 1985**|
 ||Date of commencement|6 December 1985|
-|44.|**G. N. No. S 211/1986—Poisons Act (Amendment of Schedule) Notification 1986**|
+|22.|**G. N. No. S 211/1986—Poisons Act (Amendment of Schedule) Notification 1986**|
 ||Date of commencement|1 October 1986|
-|45.|**1985 Revised Edition—Poisons Act**|
+|23.|**1985 Revised Edition—Poisons Act**|
 ||Date of operation|30 March 1987|
-|46.|**Act 21 of 1987—Poisons (Amendment) Act 1987**|
+|24.|**Act 21 of 1987—Poisons (Amendment) Act 1987**|
 ||Date of First Reading|20 May 1987|
 |||(Bill No. 12/1987 published on 22 May 1987)|
 ||Date of Second and Third Readings|28 July 1987|
 ||Date of commencement|11 September 1987|
-|47.|**G. N. No. S 40/1988—Poisons Act (Amendment of Schedule) Notification 1988**|
+|25.|**G. N. No. S 40/1988—Poisons Act (Amendment of Schedule) Notification 1988**|
 ||Date of commencement|26 February 1988|
-|48.|**G. N. No. S 82/1988—Poisons Act (Amendment of Schedule No. 2) Notification 1988**|
+|26.|**G. N. No. S 88/1988—Poisons Act (Amendment of Schedule No. 2) Notification 1988**|
 ||Date of commencement|11 April 1988|
-|49.|**G. N. No. S 16/1989—Poisons Act (Amendment of Schedule) Notification 1989**|
+|27.|**G. N. No. S 16/1989—Poisons Act (Amendment of Schedule) Notification 1989**|
 ||Date of commencement|13 January 1989|
-|50.|**1989 Revised Edition—Poisons Act**|
+|28.|**1989 Revised Edition—Poisons Act**|
 ||Date of operation|15 March 1989|
-|51.|**G. N. No. S 361/1989—Poisons Act (Amendment of Schedule) (No. 2) Notification 1989**|
+|29.|**G. N. No. S 361/1989—Poisons Act (Amendment of Schedule) (No. 2) Notification 1989**|
 ||Date of commencement|1 October 1989|
-|52.|**G. N. No. S 55/1990—Poisons Act (Amendment of Schedule) Notification 1990**|
+|30.|**G. N. No. S 55/1990—Poisons Act (Amendment of Schedule) Notification 1990**|
 ||Date of commencement|9 February 1990|
-|53.|**G. N. No. S 51/1991—Poisons Act (Amendment of Schedule) Notification 1991**|
+|31.|**G. N. No. S 51/1991—Poisons Act (Amendment of Schedule) Notification 1991**|
 ||Date of commencement|5 February 1991|
-|54.|**G. N. No. S 475/1991—Poisons Act (Amendment of Schedule) (No. 2) Notification 1991**|
+|32.|**G. N. No. S 475/1991—Poisons Act (Amendment of Schedule) (No. 2) Notification 1991**|
 ||Date of commencement|1 November 1991|
-|55.|**G. N. No. S 541/1991—Poisons Act (Amendment of Schedule) (No. 3) Notification 1991**|
+|33.|**G. N. No. S 541/1991—Poisons Act (Amendment of Schedule) (No. 3) Notification 1991**|
 ||Date of commencement|1 January 1992|
-|56.|**G. N. No. S 9/1993—Poisons Act (Amendment of Schedule) Notification 1993**|
+|34.|**G. N. No. S 9/1993—Poisons Act (Amendment of Schedule) Notification 1993**|
 ||Date of commencement|1 February 1993|
-|57.|**G. N. No. S 172/1993—Poisons Act (Amendment of Schedule) (No. 2) Notification 1993**|
+|35.|**G. N. No. S 172/1993—Poisons Act (Amendment of Schedule) (No. 2) Notification 1993**|
 ||Date of commencement|1 July 1993|
-|58.|**G. N. No. S 12/1994—Poisons Act (Amendment of Schedule) Notification 1994**|
+|36.|**G. N. No. S 12/1994—Poisons Act (Amendment of Schedule) Notification 1994**|
 ||Date of commencement|1 February 1994|
-|59.|**G. N. No. S 147/1994—Poisons Act (Amendment of Schedule) (No. 2) Notification 1994**|
+|37.|**G. N. No. S 147/1994—Poisons Act (Amendment of Schedule) (No. 2) Notification 1994**|
 ||Date of commencement|15 April 1994|
-|60.|**G. N. No. S 399/1994—Poisons Act (Amendment of Schedule) (No. 3) Notification 1994**|
+|38.|**G. N. No. S 399/1994—Poisons Act (Amendment of Schedule) (No. 3) Notification 1994**|
 ||Date of commencement|1 January 1995|
-|61.|**G. N. No. S 449/1994—Poisons Act (Amendment of Schedule) (No. 4) Notification 1994**|
+|39.|**G. N. No. S 449/1994—Poisons Act (Amendment of Schedule) (No. 4) Notification 1994**|
 ||Date of commencement|1 January 1995|
-|62.|**G. N. No. S 465/1994—Poisons Act (Amendment of Schedule) (No. 5) Notification 1994**|
+|40.|**G. N. No. S 465/1994—Poisons Act (Amendment of Schedule) (No. 5) Notification 1994**|
 ||Date of commencement|1 January 1995|
-|63.|**G. N. No. S 10/1995—Poisons Act (Amendment of Schedule) Notification 1995**|
+|41.|**G. N. No. S 10/1995—Poisons Act (Amendment of Schedule) Notification 1995**|
 ||Date of commencement|1 February 1995|
-|64.|**G. N. No. S 132/1995—Poisons Act (Amendment of Schedule) (No. 2) Notification 1995**|
+|42.|**G. N. No. S 132/1995—Poisons Act (Amendment of Schedule) (No. 2) Notification 1995**|
 ||Date of commencement|1 April 1995|
-|65.|**G. N. No. S 190/1995—The Poisons Act (Amendment of Schedule) (No. 3) Notification 1995**|
-||(G.N. No. S 266/1995 — Corrigenda)||
+|43.|**G. N. No. S 190/1995—Poisons Act (Amendment of Schedule) (No. 3) Notification 1995**|
 ||Date of commencement|28 April 1995|
-|66.|**G. N. No. S 267/1995—Poisons Act (Amendment of Schedule) (No. 4) Notification 1995**|
+|44.|**G. N. No. S 267/1995—Poisons Act (Amendment of Schedule) (No. 4) Notification 1995**|
 ||Date of commencement|1 July 1995|
-|67.|**G. N. No. S 416/1995—Poisons Act (Amendment of Schedule) (No. 5) Notification 1995**|
+|45.|**G. N. No. S 416/1995—Poisons Act (Amendment of Schedule) (No. 5) Notification 1995**|
 ||Date of commencement|1 November 1995|
-|68.|**G. N. No. S 227/1996—Poisons Act (Amendment of Schedule) Notification 1996**|
+|46.|**G. N. No. S 227/1996—Poisons Act (Amendment of Schedule) Notification 1996**|
 ||Date of commencement|17 May 1996|
-|69.|**G. N. No. S 236/1996—Poisons Act (Amendment of Schedule) (No. 2) Notification 1996**|
+|47.|**G. N. No. S 236/1996—Poisons Act (Amendment of Schedule) (No. 2) Notification 1996**|
 ||Date of commencement|1 July 1996|
-|70.|**G. N. No. S 511/1997—Poisons Act (Amendment of Schedule) Notification 1997**|
+|48.|**G. N. No. S 511/1997—Poisons Act (Amendment of Schedule) Notification 1997**|
 ||Date of commencement|1 December 1997|
-|71.|**G. N. No. S 456/1998—Poisons Act (Amendment of Schedule) Notification 1998**|
+|49.|**G. N. No. S 456/1998—Poisons Act (Amendment of Schedule) Notification 1998**|
 ||Date of commencement|28 August 1998|
-|72.|**G. N. No. S 547/1998—Poisons Act (Amendment of Schedule) (No. 2) Notification 1998**|
+|50.|**G. N. No. S 547/1998—Poisons Act (Amendment of Schedule) (No. 2) Notification 1998**|
 ||Date of commencement|1 January 1999|
-|73.|**G. N. No. S 633/1998—Poisons Act (Amendment of Schedule) (No. 3) Notification 1998**|
+|51.|**G. N. No. S 633/1998—Poisons Act (Amendment of Schedule) (No. 3) Notification 1998**|
 ||Date of commencement|1 January 1999|
-|74.|**G. N. No. S 53/1999—Poisons Act (Amendment of Schedule) Notification 1999**|
+|52.|**G. N. No. S 53/1999—Poisons Act (Amendment of Schedule) Notification 1999**|
 ||Date of commencement|1 March 1999|
-|75.|**Act 9 of 1999—Environmental Pollution Control Act 1999**|
+|53.|**Act 9 of 1999—Environmental Pollution Control Act 1999**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|20 January 1999|
 |||(Bill No. 2/1999 published on 21 January 1999)|
 ||Date of Second and Third Readings|11 February 1999|
 ||Date of commencement|1 April 1999|
-|76.|**G. N. No. S 280/1999—Poisons Act (Amendment of Schedule) (No. 2) Notification 1999**|
+|54.|**G. N. No. S 280/1999—Poisons Act (Amendment of Schedule) (No. 2) Notification 1999**|
 ||Date of commencement|10 June 1999|
+|55.|**1999 Revised Edition—Poisons Act**|
+||Date of operation|30 December 1999|
+## COMPARATIVE TABLE
+
+Poisons Act
+
+(CHAPTER 234)
+
+The following provisions in the 1989 Revised Edition of the Poisons Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Poisons Act.
+
+1999 Ed.
+
+1989 Ed.
+
+7 — (4)
+
+Proviso to7 — (3)
+
+(5)
+
+(4)
+
+10 — (2)
+
+Proviso to10 — (1)
+
+(3)
+
+(2)
+
+(4)
+
+(3)
+
+(5)
+
+(4)
+
+(6)
+
+(5)
+
+12 — (2) and (3)
+
+12 — (2)
+
+(4)
+
+(3)
+
+(5)
+
+(4)
+
+14 — (3) and (4)
+
+14 — (3)
+
+15 — (1) and (2)
+
+15 
+
+19 — (1) and (2)
+
+19 — (1)
+
+(3)
+
+(2)
+
+20 — (2) and (3)
+
+20 — (2)
+
