@@ -16,7 +16,7 @@
 
 - [5 Notification of appointment of Titular Superior of the congregation of the Brothers of Christian Instruction of St. Gabriel](#Notification-of-appointment-of-Titular-Superior-of-the-congregation-of-the-Brothers-of-Christian-Instruction-of-St-Gabriel)
 
-- [6 Saving of Crown and other rights](#Saving-of-Crown-and-other-rights)
+- [6 Saving of Government and other rights](#Saving-of-Government-and-other-rights)
 
 [**Legislative History**](#Legislative-History)
 
@@ -26,7 +26,7 @@
 
 (Original Enactment: Ordinance 5 of 19501)
 
-1Note: This private Ordinance is reproduced in the form it appears in the 1955 Revised Edition.
+1Note:This private Ordinance is reproduced in the form it appears in the 1955 Revised Edition.
 
 REVISED EDITION 1985
 
@@ -56,7 +56,7 @@ An Ordinance to incorporate the Titular Superior of the Congregation of the Brot
 
 ### Execution of documents
 
-4\.—(1) All deeds, documents and other instruments requiring the seal of the corporation shall be sealed with the seal of the corporation in the presence of the person who is the Titular Superior for the time being of the Congregation of the Brothers of Christian Instruction of St. Gabriel in Singapore, or when the office is vacant, in the presence of the Brother Procurator or of the Attorney of any one of them duly authorized by a Power of Attorney deposited under section 48 of the Conveyancing and Law of Property Ordinance (1955 Ed. Cap. 243), and shall also be signed by the said Titular Superior for the time being of the Congregation of the Brothers of Christian Instruction of St. Gabriel or by the Brother Procurator as the case may be or the Attorney of any one of them so authorized as aforesaid.
+4\.—(1) All deeds, documents and other instruments requiring the seal of the corporation shall be sealed with the seal of the corporation in the presence of the person who is the Titular Superior for the time being of the Congregation of the Brothers of Christian Instruction of St. Gabriel in Singapore, or when the office is vacant, in the presence of the Brother Procurator or of the Attorney of any one of them duly authorized by a Power of Attorney deposited under section 48 of the Conveyancing and Law of Property Ordinance [1955 Ed., Cap. 243], and shall also be signed by the said Titular Superior for the time being of the Congregation of the Brothers of Christian Instruction of St. Gabriel or by the Brother Procurator as the case may be or the Attorney of any one of them so authorized as aforesaid.
 
 (2) Such signing shall be and be taken as sufficient evidence that the said seal was duly and properly affixed and that the same is the lawful seal of the corporation.
 
@@ -64,9 +64,11 @@ An Ordinance to incorporate the Titular Superior of the Congregation of the Brot
 
 5\. A notification in theGazetteof the appointment of any person to exercise the office of Titular Superior of the Congregation of the Brothers of Christian Instruction of St. Gabriel in the Colony of Singapore or of the Brother Procurator shall be conclusive evidence that such person was duly authorized to exercise the said office in the Colony of Singapore.
 
-### Saving of Crown and other rights
+### Saving of Government and other rights
 
-6\. Nothing in this Ordinance contained shall affect the rights of Her Majesty the Queen, Her Heirs and Successors , all bodies politic and corporate, and all others, except such as are mentioned in this Ordinance and those claiming by, from and under them.
+6\. Nothing in this Ordinance contained shall affect the rights of the Government, all bodies politic and corporate, and all others, except such as are mentioned in this Ordinance and those claiming by, from and under them.
+
+[7/97 wef 01/10/1997]
 
 ## LEGISLATIVE HISTORY
 
@@ -84,3 +86,8 @@ This Legislative History is provided for the convenience of users of the Brother
 ||Date of operation|1 May 1955|
 |3.|**1985 Revised Edition—Brothers of St. Gabriel Ordinance**|
 ||Date of operation|30 March 1987|
+|4.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (item (15) in the First Schedule)|
