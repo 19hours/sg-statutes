@@ -122,8 +122,6 @@ PAYROLL TAX
 
 [5
 
-[1/86]
-
 ### Exemption
 
 7\. There shall be exempted from the payment of payroll tax the following:
@@ -166,7 +164,7 @@ PAYROLL TAX
 
 ### Regulations
 
-11\.—(1) The President shall make such regulations as appear to him to be necessary for carrying out the provisions of this Act; and without prejudice to the generality of the foregoing the regulations may provide for —
+11\.—(1) The Minister shall make such regulations as appear to him to be necessary for carrying out the provisions of this Act; and without prejudice to the generality of the foregoing the regulations may provide for —
 
 (a) requiring employers to give notice of their liability to pay payroll tax, and the manner in which the notice shall be given;
 
@@ -187,6 +185,8 @@ PAYROLL TAX
 (i) the remission of any payroll tax; and
 
 (j) empowering the Comptroller to abate any penalty or compound any offence under such regulations or, before judgment, to stay and compound any proceedings thereunder.
+
+[7/97 wef 01/10/1997]
 
 (2) Regulations made under this section may provide for the imposition of penalties for failure to comply with such regulations; and such penalties may consist of —
 
@@ -240,7 +240,9 @@ Scheduled matters
 
 4\. Any matter relating to any tax or proposed tax levied or to be levied on capital gains.
 
-5\. Any matter relating to any tax or proposed tax levied on any other matter which the President, by order, declares to be a tax to which this Schedule relates.
+5. Any matter relating to any tax or proposed tax levied on any other matter which the Minister, by order, declares to be a tax to which this Schedule relates.
+
+[7/97 wef 01/10/1997]
 
 ## LEGISLATIVE HISTORY
 
@@ -248,7 +250,7 @@ Payroll Tax Act
 
 (CHAPTER 223)
 
-This Legislative History is provided for the convenience of users of the Payroll Tax Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Payroll Tax Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -264,7 +266,7 @@ This Legislative History is provided for the convenience of users of the Payroll
 ||Date of commencement|15 June 1972 (except sections 191 and 192)|
 |4.|**Act 21 of 1974—Enlistment (Amendment) Act 1974**|
 ||Date of First Reading|23 October 1974|
-|||(Bill No. 27/1974 published on 25 October 1997)|
+|||(Bill No. 27/1974 published on 25 October 1974)|
 ||Date of Second and Third Readings|6 November 1974|
 ||Date of commencement|1 March 1975|
 |5.|**Act 1 of 1986—Finance (Amendment) Act 1986**|
@@ -274,3 +276,9 @@ This Legislative History is provided for the convenience of users of the Payroll
 ||Date of commencement|1 April 1985|
 |6.|**1985 Revised Edition—Payroll Tax Act**|
 ||Date of operation|30 March 1987|
+|7.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
