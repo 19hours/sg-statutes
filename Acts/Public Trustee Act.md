@@ -114,13 +114,9 @@ Establishment of Public Trustee
 
 3\.—(1) The Minister shall appoint a fit person to the office of Public Trustee, who shall hold office during his pleasure, and receive such salary or fees, and be appointed on such terms, as the Minister determines.
 
-[Act 7/1997 wef 01/10/1997]
-
 (2) The Minister may appoint such fit and proper persons to be Assistant Public Trustees and other officers of the Public Trustee as he considers necessary for the purposes of this Act and the Assistant Public Trustees and other officers shall hold office upon such terms, and be remunerated at such rates and in such manner, as the Minister may determine.
 
 Any reference in this Act or in any other written law to officers or officer of the Public Trustee shall include an Assistant Public Trustee.
-
-[Act 7/1997 wef 01/10/1997]
 
 ### Corporation sole
 
@@ -129,8 +125,6 @@ Any reference in this Act or in any other written law to officers or officer of 
 ### Remuneration
 
 (4) The salary or remuneration of the Public Trustee and his officers and such other expenses of executing his office or otherwise carrying this Act into effect as are sanctioned by the Minister shall be paid out of the Consolidated Fund.
-
-[Act 7/1997 wef 01/10/1997]
 
 (5) The Public Trustee and every officer of the Public Trustee is hereby declared to be a public servant within the meaning of the Penal Code [Cap. 224].
 
@@ -145,6 +139,10 @@ Powers and Duties of Public Trustee
 (b) act as an ordinary trustee;
 
 (c) be appointed trustee by a court of competent jurisdiction.
+
+(1A) In addition to the powers and duties under subsection (1), the Public Trustee may undertake such other functions and duties relating to victims of motor accidents and their claims to compensation as the Minister may assign to him.
+
+[9/2003 wef 16/05/2003]
 
 (2) Subject to and in accordance with this Act and the rules made thereunder, the Public Trustee may act either alone or jointly with any person or body of persons in any capacity to which he is appointed in pursuance of this Act, and shall have all the same powers, duties and liabilities, and be entitled to the same rights and immunities and be subject to the control and orders of the court, as a private trustee acting in the same capacity.
 
@@ -422,11 +420,9 @@ Rules
 
 (j) generally to carry out the provisions of sections 10 to 16.
 
-(2) Any rules made by the Minister under this section shall be published in theGazetteand shall be presented to Parliament and shall not come into force until approved by a resolution of Parliament.
+(2) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
-(3) In approving any rules Parliament may make such alterations therein as it thinks fit.
-
-(4) Any rules made by the Minister under this section shall have the same force and effect as if enacted in this Act.
+[9/2003 wef 16/05/2003]
 
 ## LEGISLATIVE HISTORY
 
@@ -484,3 +480,8 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997 (Item (26) of the Second Schedule – Amendment of Public Trustee Act)|
+|18.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003 (Section 13 – Amendment of Public Trustee Act)|
