@@ -15414,3 +15414,5 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 32/99 published on 12 October 1999)|
 ||Date of Second and Third Readings|23 November 1999|
 ||Date of commencement|10 January 2000|
+|48.|**G. N. No. S 387/2000—Companies Act (Amendment of Second Schedule) Notification 2000**|
+||Date of commencement|29 August 2000|
