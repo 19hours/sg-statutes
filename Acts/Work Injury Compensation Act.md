@@ -1511,3 +1511,5 @@ This Legislative History is provided for the convenience of users of the Workmen
 ||Date of commencement|1 September 1990|
 |5.|**G. N. No. S 316/1995—The Workmen’s Compensation (Amendment of Second Schedule) Order 1995**|
 ||Date of commencement|1 August 1995|
+|6.|**G. N. No. S 447/1995—The Workmen’s Compensation (Amendment of Third Schedule) Order 1995**|
+||Date of commencement|1 January 1996|
