@@ -44,13 +44,17 @@
 
 - [14 Payment of cash grant by Government into Fund](#Payment-of-cash-grant-by-Government-into-Fund)
 
+- [14A Loan by Government to member](#Loan-by-Government-to-member)
+
 [**Part III WITHDRAWAL OF CONTRIBUTIONS**](#Part-III)
 
 - [15 Authorisation and conditions for withdrawal from Fund](#Authorisation-and-conditions-for-withdrawal-from-Fund)
 
+- [15A Restrictions on withdrawals to ensure repayment of approved loan](#Restrictions-on-withdrawals-to-ensure-repayment-of-approved-loan)
+
 - [16 Restrictions on withdrawal from medisave account](#Restrictions-on-withdrawal-from-medisave-account)
 
-- [17 Withdrawal from special account for payment of housing loan](#Withdrawal-from-special-account-for-payment-of-housing-loan)
+- [17 Withdrawal from special account for loan, etc.](#Withdrawal-from-special-account-for-loan-etc)
 
 - [18 Transfer of member’s moneys in Fund to parent’s or spouse’s retirement account, etc.](#Transfer-of-member’s-moneys-in-Fund-to-parent’s-or-spouse’s-retirement-account-etc)
 
@@ -346,9 +350,9 @@ PRELIMINARY
 
 (12) All deeds, documents and other instruments requiring the seal of the Board shall be —
 
-(a) sealed with the common seal of the Board by the authority of the Board in the presence of the General Manageror a member of the Board and of some other person duly authorised by the Board to act in that behalf; and
+(a) sealed with the common seal of the Board by the authority of the Board in the presence of the General Manager, a Deputy General Manager or a member of the Board and of some other person duly authorised by the Board to act in that behalf; and
 
-(b) signed by the General Manageror the member of the Board, as the case may be, and by that duly authorised person, and such signing shall be sufficient evidence that the common seal of the Board has been duly and properly affixed and that the seal is the lawful seal of the Board.
+(b) signed by the General Manager, a Deputy General Manager or the member of the Board, as the case may be, and by that duly authorised person, and such signing shall be sufficient evidence that the common seal of the Board has been duly and properly affixed and that the seal is the lawful seal of the Board.
 
 (13) The Board may by resolution or otherwise appoint an officer of the Board or any other agent either generally or in a particular case to execute or sign on behalf of the Board any agreement or other instrument not under seal in relation to any matter coming within the powers of the Board.
 
@@ -550,7 +554,9 @@ CONTRIBUTIONS TO FUND
 
 13\.—(1) Subject to subsection (5), there shall be maintained for each member in respect of the money standing to his credit in the Fund the following subsidiary accounts:
 
-(a) an ordinary account from which, apart from sections 15(2) to (5) and 18, withdrawals may be made under section 22 or 45 or in accordance with any regulations made under section 51(b) or 77(1)(h), (l), (m) or (p);
+(a) an ordinary account from which, apart from section 15(2) to (5), 18, 18A, 18B, 22 or 45 but subject to sections 14, 14A and 15A, withdrawals may be made in accordance with any regulations made under section 51(b) or 77(1)(h), (i), (l), (m) or (p);
+
+[12/99 wef 01/03/1999]
 
 (b) a medisave account from which, apart from sections 15(2) to (5) and 54 but subject to section 16, withdrawals may be made in accordance with any regulations made under section 77(1)(j) and (ja); and
 
@@ -632,13 +638,37 @@ CONTRIBUTIONS TO FUND
 
 “cash grant” means a cash grant made by the Government under any approved scheme.
 
+### Loan by Government to member
+
+14A\.—(1) The Board may, on and from time to time after 1st March 1999, accept moneys lent by the Government to any member of the Fund pursuant to any approved loan scheme.
+
+(2) The Board shall credit the moneys lent to any member under subsection (1) into the ordinary account of that member.
+
+(3) Any moneys paid into the Fund under subsection (2) shall be deemed to be contributions for the purposes of this Act and those moneys or interest thereon may be withdrawn under the provisions of any regulations made under this Act for such purposes and in such manner as may be prescribed by the regulations.
+
+(4) Notwithstanding anything in this Act, the Board may allow a member who has taken a loan from the Government pursuant to an approved loan scheme to withdraw any part of the contributions and interest standing to his credit in the Fund for the repayment of the loan and the payment of any interest or other charges which the member may from time to time be liable to pay to the Government under the terms and conditions of that loan.
+
+(5) The Board shall be entitled to receive any repayment and payment under subsection (4) on behalf of the Government.
+
+(6) Notwithstanding anything in this Act, the Board shall be entitled to recover on behalf of the Government any moneys lent to a member pursuant to any approved loan scheme and which have been paid into the Fund for the benefit of the member under subsection (2), together with any interest and other charges which the member is liable to pay to the Government under the terms and conditions of the loan from any money standing to the credit of the member’s accounts in the Fund if —
+
+(a) the member fails to pay any sum under the loan when due; or
+
+(b) the member is in breach of any other term or condition of the loan.
+
+(7) Any moneys received or recovered by the Board from any member under subsection (5) or (6) shall be refunded forthwith to the Government.
+
+(8) In this section, “approved loan scheme” means a loan scheme approved by the Minister.
+
+[12/99 wef 01/03/1999]
+
 ## PART III
 
 WITHDRAWAL OF CONTRIBUTIONS
 
 ### Authorisation and conditions for withdrawal from Fund
 
-15\.—(1) No sum of money standing to the credit of a member of the Fund may be withdrawn from the Fund except with the authority of the Board and, subject to section 25(2)and any regulations and rules made under section 77, that authority shall not be given except on the application of a person entitled to withdraw the money from the Fund under subsections (2) and (3).
+15\.—(1) No sum of money standing to the credit of a member of the Fund may be withdrawn from the Fund except with the authority of the Board and, subject to sections 14, 14A, 15A and 25(2) and any regulations and rules made under section 77, that authority shall not be given except on the application of a person entitled to withdraw the money from the Fund under subsections (2) and (3).
 
 (2) Subject to this section, a member of the Fund, or a committee of his person or of his estate appointed under the provisions of the Mental Disorders and Treatment Act (Cap. 178), shall be entitled to withdraw the sum standing to the credit of the member in the Fund at any time after the Board is satisfied that the member —
 
@@ -756,6 +786,12 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [5/87]
 
+### Restrictions on withdrawals to ensure repayment of approved loan
+
+15A\. Notwithstanding anything in section 15, a member of the Fund shall not be entitled to withdraw from the Fund any sum standing to his credit under section 15(2)(b), (c), (d) or (e) unless the Board is satisfied that all moneys lent to the member pursuant to any approved loan scheme within the meaning of section 14A and which have been paid into the Fund under section 14A(2) for the benefit of the member, together with any interest and other charges which the member is liable to pay to the Government under the terms and conditions of the loan, have been repaid to the Government.
+
+[12/99 wef 01/03/1999]
+
 ### Restrictions on withdrawal from medisave account
 
 16\.—(1) Notwithstanding anything in section 15, a member of the Fund, or a committee of his person or of his estate appointed under the Mental Disorders and Treatment Act (Cap. 178), shall not be entitled to withdraw any sum standing to the member’s credit in the medisave account under section 15(2)(a), (d) or (e) or (3) if the amount in his medisave account does not exceed the prescribed amount.
@@ -770,11 +806,15 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [32/84]
 
-### Withdrawal from special account for payment of housing loan
+### Withdrawal from special account for loan, etc.
 
-17\. The Board may allow a member who has purchased any immovable property in accordance with any regulations made under section 77 to withdraw the whole or part of the moneys standing to his credit in his special account for the payment of any housing loan taken by him for the purchase of such property.
+17\. The Board may allow a member to withdraw the whole or part of the moneys standing to his credit in his special account for all or any of the following purposes:
 
-[16/86]
+(a) for the payment of any loan taken by him for the purchase of any immovable property by the member in accordance with any regulations made under section 77;
+
+(b) for the payment of improvement contributions due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129), including the payment of such costs, fees or other incidental expenses arising from the upgrading works as are authorised by any regulations made under section 77.
+
+[12/99 wef 01/03/1999]
 
 ### Transfer of member’s moneys in Fund to parent’s or spouse’s retirement account, etc.
 
@@ -1118,7 +1158,7 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 
 [15/90]
 
-(2) The Board may, in its discretion, allow a member who is an undischarged bankrupt to withdraw from the amount standing to his credit in the Fund if he satisfies any of the grounds for withdrawals specified in section 15(2)(a), (d) or (e).
+(2) The Board may, in its discretion but only after the Board is satisfied that all repayments of any loan given to the member by the Government under an approved loan scheme within the meaning of section 14A, together with all interest and other charges which the member is liable to pay to the Government under the terms and conditions of that loan, have been paid, allow a member who is an undischarged bankrupt to withdraw from the amount standing to his credit in the Fund if he satisfies any of the grounds for withdrawals specified in section 15(2)(a), (d) or (e).
 
 (2A) Any moneys paid out of the Fund to that member shall be deemed not to form part of his after-acquired property and shall not be liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
 
@@ -1996,8 +2036,6 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1.—
-
 2. In respect of an employee whose total wages from an employer for the preceding year exceed $100,000, no contributions shall be payable by that employer on the additional wages which are in excess of the following:
 
 (a) if his ordinary wages for the preceding year do not exceed $72,000 — $100,000 less his ordinary wages for the preceding year and less his additional wages already paid in the current year; or
@@ -2085,6 +2123,8 @@ Rates of Contribution
 (26) Ngee Ann Polytechnic.
 
 (27) People’s Association.
+
+(28) [Deleted By S 645/98 wef 01/01/1999]
 
 (29) Preservation of Monuments Board.
 
@@ -2604,3 +2644,8 @@ This Legislative History is provided for the convenience of users of the Central
 ||Dates of commencement|1 September 1998 (paragraph 2(b))|
 |101.|**G. N. No. S 645/1998—Central Provident Fund Act (Amendment of Schedule) Notification 1998**|
 ||Date of commencement|1 January 1999|
+|102.|**Act 12 of 1999—Central Provident Fund (Amendment) Act 1999**|
+||Date of First Reading|20 January 1999|
+|||(Bill No. 4/99 published on 21 January 1999)|
+||Date of Second and Third Readings|11 February 1999|
+||Date of commencement|1 March 1999|
