@@ -58,6 +58,8 @@
 
 - [20 Power to borrow](#Power-to-borrow)
 
+- [20A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [21 Other financial provisions](#Other-financial-provisions)
 
 [**Part VI TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES**](#Part-VI)
@@ -495,6 +497,12 @@ FINANCIAL PROVISIONS
 (b) charge, whether legal or equitable, on any property vested in the Authority or on any other revenue receivable by the Authority under this Act or any other written law; or
 
 (c) the creation and issue of debentures or bonds.
+
+### Issue of shares, etc.
+
+20A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Other financial provisions
 
