@@ -436,8 +436,6 @@ PRELIMINARY
 
 (a) in relation to contentious business, any person who as principal or on behalf of another person retains or employs, or is about to retain or employ, a solicitor, and any person who is or may be liable to pay a solicitor’s or a law corporation’s costs; and
 
-[4/2000 wef 05/05/2000]
-
 (b) in relation to non-contentious business, any person who, as a principal or on behalf of another, or as a trustee, executor or administrator, or in any other capacity, has power, express or implied, to retain or employ, and retains or employs or is about to retain or employ, a solicitor, and any person for the time being liable to pay a solicitor or a law corporation for his or its services any costs;
 
 [4/2000 wef 05/05/2000]
@@ -459,8 +457,6 @@ PRELIMINARY
 “Judge” means a Judge of the High Court sitting in chambers;
 
 “law corporation” means a company approved as a law corporation under section 81B;
-
-[4/2000 wef 05/05/2000]
 
 “lay person”, in relation to an Inquiry Committee or Disciplinary Committee, means an architect, accountant, banker, company director, insurer, professional engineer, medical practitioner or a person who possesses such other qualifications as may be approved by the Chief Justice and the Attorney-General;
 
@@ -920,8 +916,6 @@ PRACTISING CERTIFICATES
 
 (ii) the name under which he practises if different from his own name, or the name of the solicitor or firm of solicitors or law corporation employing him; and
 
-[4/2000 wef 05/05/2000]
-
 (iii) the principal and any other address or addresses at which he practises in Singapore;
 
 (b) a certificate from the Council or such other evidence as the Registrar may require that —
@@ -947,8 +941,6 @@ PRACTISING CERTIFICATES
 [40/96]
 
 (3) Every practising certificate shall be signed or approved by the Registrar and shall, subject to sections 26(5) and 27B, be in force from the date of issue to the end of the year.
-
-[4/2000 wef 05/05/2000]
 
 [40/96]
 
@@ -1061,8 +1053,6 @@ and the Registrar may comply with the request and notify the solicitor in writin
 (b) unless he is or is about to be employed in his or their practice by a solicitor or firm of solicitors in practice in Singapore;
 
 (ba) unless he is or is about to be a director or an employee of a law corporation;
-
-[4/2000 wef 05/05/2000]
 
 (c) if he has, for a period of 3 years or more, held office as a Judge of the Supreme Court or of the Supreme Court of Malaysia or of any High Court in any part of Malaysia;
 
@@ -1272,8 +1262,6 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 (c) a District Judge or a Magistrate to mention a case or to apply for bail.
 
-[4/2000 wef 05/05/2000]
-
 ### Unauthorised person acting as advocate or solicitor
 
 33\.—(1) Any unauthorised person who —
@@ -1305,8 +1293,6 @@ shall, unless he proves that the act was not done for or in expectation of any f
 (5) Every person who is convicted of an offence under subsection (2) or (3) shall be liable for a first offence to a fine not exceeding $500 or in default of payment to imprisonment for a term not exceeding 3 months and for a second or subsequent offence to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 (6) Any act done by a body corporate which in the case of a person would be an offence under subsection (1), (2) or (3) or is of such a nature or is done in such a manner as to be calculated to imply that the body corporate is qualified or recognised by law as qualified to act as a solicitor, or has the capacity or powers of a law corporation when in fact the body corporate does not, shall be an offence and the body corporate shall be liable on conviction for a first offence to a fine not exceeding $1,000 and, for a second or subsequent offence, to a fine not exceeding $3,000.
-
-[4/2000 wef 05/05/2000]
 
 (7) Where the act mentioned in subsection (6) is done by a director, an officer or employee of the body corporate, the director, officer or employee shall, without prejudice to the liability of the body corporate, be liable to the punishments provided in subsection (5).
 
@@ -1427,8 +1413,6 @@ THE LAW SOCIETY OF SINGAPORE
 [4/2000 wef 05/05/2000]
 
 (ca) exercise such powers or functions as may be conferred upon the Society by this Act or any other written law; and
-
-[4/2000 wef 05/05/2000]
 
 (d) do all such other things as are incidental or conducive to the achievement or betterment of the purposes of the Society.
 
@@ -1886,8 +1870,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 
 (1A) Such rules may provide for the manner in which the matters referred to in subsection (1) shall apply to law corporations or to Joint Law Ventures or Formal Law Alliances registered under Part IXA.
 
-[4/2000 wef 05/05/2000]
-
 (2) Such rules shall not come into operation until they have been approved by the Chief Justice who may if he thinks fit consult any of the other Judges before giving his approval.
 
 (3) Disciplinary proceedings may be taken against any solicitor who fails to comply with any rules made under this section.
@@ -1900,11 +1882,7 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 
 (a) state that in compliance with this section and rules made thereunder the accountant has examined the books, accounts and documents of the solicitor or his firm or the law corporation for such accounting period as may be specified in the report;
 
-[4/2000 wef 05/05/2000]
-
 (b) state whether or not the accountant is satisfied, from his examination of the books, accounts and documents produced to him and from the information and explanations given to him, that during the said accounting period the solicitor or his firm or the law corporation has complied with any rules made under section 72(1)(a) and (b);
-
-[4/2000 wef 05/05/2000]
 
 (c) state, if the accountant is not satisfied as aforesaid, the matters in respect of which he is not so satisfied;
 
@@ -1922,15 +1900,11 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 
 (d) where possible, consistently with paragraphs (a), (b) and (c), correspond to a period or consecutive periods for which the accounts of the solicitor or his firm or the law corporation are ordinarily made up.
 
-[4/2000 wef 05/05/2000]
-
 (4) The Council shall make rules to give effect to this section, and such rules shall prescribe —
 
 (a) what qualification shall be held by an accountant by whom an accountant’s report may be given; and
 
 (b) the nature and extent of the examination to be made by the accountant of the books and accounts of a solicitor or his firm or the law corporation and of any other relevant documents with a view to the signing of a report to be delivered by the solicitor under this section.
-
-[4/2000 wef 05/05/2000]
 
 (5) Such rules may include provision for —
 
@@ -1996,11 +1970,7 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 
 (9) Where it is proved to the satisfaction of the Council that any person has sustained loss in consequence of dishonesty on the part of any solicitor or any clerk or servant of a solicitor in connection with that solicitor’s practice in Singapore as a solicitor or in connection with any trust in Singapore of which that solicitor is a trustee or any officer or employee of a law corporation in connection with legal services performed in Singapore by the law corporation, then subject to this section, the Society may, if the Council thinks fit, make a grant to that person out of the Fund for the purpose of relieving or mitigating that loss.
 
-[4/2000 wef 05/05/2000]
-
 (10) A grant may be made under this section whether or not the solicitor had in force a practising certificate when the act of dishonesty was committed and notwithstanding that subsequent to the commission of that act the solicitor has died or had his name removed from or struck off the roll or has ceased to practise or been suspended from practice or the law corporation had wound up, as the case may be.
-
-[4/2000 wef 05/05/2000]
 
 (11) On the making by the Society of any grant under this section to any person in respect of any loss —
 
@@ -2028,8 +1998,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 
 (c) by a law corporation in connection with legal services performed by it or with any trust of which it is a trustee.
 
-[4/2000 wef 05/05/2000]
-
 (2) For the purposes of providing such indemnity, such rules may —
 
 (a) authorise or require the Society to establish and maintain one or more funds;
@@ -2037,8 +2005,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 (b) authorise or require the Society to take out and maintain insurance with authorised insurers; or
 
 (c) require all advocates and solicitors making application for a practising certificate and all law corporations to take out and maintain insurance with authorised insurers.
-
-[4/2000 wef 05/05/2000]
 
 [10/91]
 
@@ -2048,11 +2014,7 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 
 (b) provide for the management, administration and protection of any fund maintained by virtue of subsection (2)(a) and require all advocates and solicitors who have in force practising certificates and all law corporations to make payment to any such fund;
 
-[4/2000 wef 05/05/2000]
-
 (c) require all advocates and solicitors who have in force practising certificates and all law corporations to make payments by way of premium on any insurance policy maintained by the Society by virtue of subsection (2)(b);
-
-[4/2000 wef 05/05/2000]
 
 (d) prescribe the conditions which an insurance policy must satisfy for the purposes of subsection (2)(c);
 
@@ -2064,8 +2026,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 
 (g) specify the circumstances in which advocates and solicitors or law corporations are exempt from such rules; and
 
-[4/2000 wef 05/05/2000]
-
 (h) empower the Council to take such steps as it considers necessary or expedient to ascertain whether or not the rules are being complied with.
 
 (4) Rules made under this section shall not come into operation until they have been approved by the Chief Justice who may if he thinks fit consult any of the other Judges before giving his approval.
@@ -2073,8 +2033,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 (5) The Society shall have power to carry into effect any arrangements which it considers necessary or expedient for the purpose of providing indemnity under this section.
 
 (6) Nothing in this section shall affect the right of any advocate and solicitor or a law corporation, in addition to the indemnity provided in rules made under this section, to insure himself or the law corporation further against loss arising from such claims as may be instituted against him or the law corporation .
-
-[4/2000 wef 05/05/2000]
 
 ### Redress for inadequate professional services
 
@@ -2094,13 +2052,9 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 
 (b) has, since being admitted as a solicitor, been employed for not less than 3 continuous years or 3 years out of a continuous period of 5 years in the practice of a solicitor in Singapore or in the practice of a law corporation; or
 
-[4/2000 wef 05/05/2000]
-
 (c) has been employed as a legal officer for not less than 3 continuous years or 3 years out of a continuous period of 5 years.
 
 [40/96]
-
-[4/2000 wef 05/05/2000]
 
 (2) The Council may, with the approval of the Minister, exempt a solicitor from subsection (1)(a) or shorten any period referred to in subsection (1)(b) and (c) if it is satisfied that the solicitor has gained substantial experience in law in Singapore or elsewhere.
 
@@ -2111,8 +2065,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 [40/96]
 
 (3A) Subsection (1) shall not apply to a solicitor who is a director of a law corporation if at least one of the directors of that law corporation is a solicitor who has been in active practice in Singapore for not less than 3 continuous years or 3 years out of a continuous period of 5 years.
-
-[4/2000 wef 05/05/2000]
 
 (4) Any solicitor who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
@@ -2159,8 +2111,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 (c) send any process to any unauthorised person, or do any other act enabling any unauthorised person to appear, act or practise or purport to practise in any respect as a solicitor in any such proceeding or matter.
 
 (2) No solicitor shall authorise any unauthorised person to operate any bank account in the name of the solicitor or his firm or the law corporation and maintained by the solicitor or his firm or the law corporation in connection with his practice as a solicitor.
-
-[4/2000 wef 05/05/2000]
 
 (3) Disciplinary proceedings may be taken against any solicitor who has acted in contravention of subsection (1) or (2).
 
@@ -2238,8 +2188,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 
 (c) any director or employee of the law corporation of which the solicitor is a director or an employee.
 
-[4/2000 wef 05/05/2000]
-
 (3) Subsection (1) is without prejudice to any law affecting solicitors who act for parties where there is a conflict of interest or where a conflict of interest may arise.
 
 (4) Disciplinary proceedings may be taken against a solicitor who acts in contravention of subsection (1).
@@ -2256,15 +2204,11 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS AND CLERKS
 
 81\.—(1) If, during the taxation of any bill of costs or the taking of any account between solicitor and client, it appears to the Registrar that there must in any event be moneys due from the solicitor or law corporation to the client, the Registrar may make an interim certificate as to the amount so payable by the solicitor or law corporation .
 
-[4/2000 wef 05/05/2000]
-
 (2) Upon the filing of such certificate, the court or a Judge may order the moneys so certified to be forthwith paid to the client or brought into court.
 
 ## PART VIA
 
 LAW CORPORATIONS
-
-[4/2000 wef 05/05/2000]
 
 ### Interpretation of this Part
 
@@ -3110,8 +3054,6 @@ REMUNERATION OF SOLICITORS
 
 (4) This section shall apply, with the necessary modifications, to a law corporation.
 
-[4/2000 wef 05/05/2000]
-
 ### Orders as to remuneration of solicitors or law corporations for non-contentious business
 
 108\.—(1) For the purposes of this section, there shall be a committee consisting of the following persons:
@@ -3125,8 +3067,6 @@ REMUNERATION OF SOLICITORS
 (d) 2 solicitors nominated by the Council.
 
 (2) The committee or any 4 of the members thereof (the Chief Justice being one) may make general orders prescribing and regulating in such manner as they think fit the remuneration of solicitors or law corporations in respect of non-contentious business and any order made under this section may revoke or alter any previous order so made.
-
-[4/2000 wef 05/05/2000]
 
 (3) An order made under this section may, as regards the mode of remuneration, prescribe that it shall be according to a scale of rates of commission or percentage, varying or not in different classes of business, or by a gross sum, or by a fixed sum for each document prepared or perused, without regard to length, or in any other mode, or partly in one mode and partly in another, and may regulate the amount of remuneration with reference to all or any of the following, among other, considerations:
 
@@ -3150,49 +3090,33 @@ REMUNERATION OF SOLICITORS
 
 (5) So long as an order made under this section is in operation, taxation of bills of costs of solicitors or law corporations in respect of non-contentious business shall, subject to section 109, be regulated by that order.
 
-[4/2000 wef 05/05/2000]
-
 (6) Section 131 shall apply to any order made under this section.
 
 ### Agreements with respect to remuneration for non-contentious business
 
 109\.—(1) Whether or not any order is in force under section 108, a solicitor and his client may, either before or after or in the course of the transaction of any non-contentious business by the solicitor, make an agreement as to the remuneration of the solicitor or law corporation in respect thereof.
 
-[4/2000 wef 05/05/2000]
-
 (2) An agreement under subsection (1) shall not provide for costs at a scale lower than that provided by any order made under section 108.
 
 (3) The agreement may provide for the remuneration of the solicitor or law corporation by a gross sum, or by commission or percentage, or by salary, or otherwise, and it may be made on the terms that the amount of the remuneration therein stipulated for either shall or shall not include all or any disbursements made by the solicitor or law corporation in respect of searches, plans, travelling, stamps, fees or other matters.
-
-[4/2000 wef 05/05/2000]
 
 (4) The agreement shall be in writing and signed by the person to be bound thereby or his agent in that behalf.
 
 (5) The agreement may be sued and recovered on or set aside in the like manner and on the like grounds as an agreement not relating to the remuneration of a solicitor or law corporation.
 
-[4/2000 wef 05/05/2000]
-
 (6) If on any taxation of costs the agreement is relied on by the solicitor or law corporation and objected to by the client as unfair or unreasonable, the taxing officer may enquire into the facts and certify them to the court, and if on that certificate it appears just to the court that the agreement should be cancelled, or the amount payable thereunder reduced, the court may order the agreement to be cancelled, or the amount payable thereunder to be reduced, and may give such consequential directions as the court thinks fit.
-
-[4/2000 wef 05/05/2000]
 
 ### Remuneration of a solicitor who is a mortgagee
 
 110\.—(1) If a mortgage is made to a solicitor, either alone or jointly with any other person, he, or the firm or the law corporation of which he is a member or the law corporation of which he is a member, director or an employee, shall be entitled to recover from the mortgagor in respect of all business transacted and acts done by him or them in negotiating the loan, deducing and investigating the title to the property, and preparing and completing the mortgage, such usual costs as he or they would have been entitled to receive if the mortgage had been made to a person who was not a solicitor and that person had retained and employed him or them to transact that business and do those acts.
 
-[4/2000 wef 05/05/2000]
-
 (2) If a mortgage has been made to, or has become vested by transfer or transmission in, a solicitor, either alone or jointly with any other person, and any business is transacted or acts are done by that solicitor, or by the firm or the law corporation of which he is a member or by the law corporation of which he is a member, director or an employee, in relation to that mortgage or the security thereby created or the property comprised thereunder, then he or they shall be entitled to recover from the person on whose behalf the business was transacted or the acts were done, and to charge against the security, such usual costs as he or they would have been entitled to receive if the mortgage had been made to and had remained vested in a person who was not a solicitor and that person had retained and employed him or them to transact that business and do those acts.
-
-[4/2000 wef 05/05/2000]
 
 (3) In this section, “mortgage” includes any charge on any property for securing money or money’s worth.
 
 ### Agreement as to costs for contentious business
 
 111\.—(1) Subject to the provisions of any other written law, a solicitor or a law corporation may make an agreement in writing with his client respecting the amount and manner of payment for the whole or any part of his costs in respect of contentious business done or to be done by the solicitor or the law corporation, either by a gross sum or otherwise, and at either the same rate as or a greater or a less rate than that at which he would otherwise be entitled to be remunerated.
-
-[4/2000 wef 05/05/2000]
 
 (2) Every such agreement shall be signed by the client and shall be subject to the provisions and conditions contained in this Part.
 
@@ -3202,19 +3126,11 @@ REMUNERATION OF SOLICITORS
 
 (2) Notwithstanding subsection (1), the client shall not be entitled to recover from any other person, under any order for the payment of any costs which are the subject of the agreement, more than the amount payable by the client to his own solicitor or law corporation under the agreement.
 
-[4/2000 wef 05/05/2000]
-
 (3) Such an agreement shall be deemed to exclude any further claim of the solicitor or law corporation beyond the terms of agreement in respect of any services, fees, charges or disbursements in relation to the conduct and completion of the business in reference to which the agreement is made, except such services, fees, charges or disbursements (if any) as are expressly excepted by the agreement.
-
-[4/2000 wef 05/05/2000]
 
 (4) Subject to the provisions of this Part, the costs of a solicitor or law corporation, in any case where there is such an agreement as is referred to in section 111, shall not be subject to taxation nor to the provisions of section 118.
 
-[4/2000 wef 05/05/2000]
-
 (5) A provision in any such agreement that the solicitor or law corporation shall not be liable for negligence, or that he or law corporation shall be relieved from any responsibility to which he or law corporation would otherwise be subject as a solicitor, shall be wholly void.
-
-[4/2000 wef 05/05/2000]
 
 ### Enforcement of agreements
 
@@ -3230,23 +3146,17 @@ REMUNERATION OF SOLICITORS
 
 (6) When the amount agreed for under any such agreement has been paid by or on behalf of the client or by any person chargeable with or entitled to pay it, any court or Judge having jurisdiction to examine and enforce the agreement may, on application by the person who has paid the amount within 12 months after payment, if it appears to the court or Judge that the special circumstances of the case require the agreement to be reopened, reopen it, and order the costs, fees, charges and disbursements to be taxed, and the whole or any portion of the amount received by the solicitor or law corporation to be repaid by him, on such terms and conditions as to the court or Judge seems just.
 
-[4/2000 wef 05/05/2000]
-
 (7) Where any such agreement is made by the client in the capacity of guardian or of trustee under a deed or will, or of committee of any person or persons whose estate or property will be chargeable with the amount payable under the agreement or with any part of that amount, the agreement shall before payment be laid before the Registrar, who shall examine it and disallow any part thereof, or may require the direction of the court or a Judge to be taken thereon by summons, motion or petition.
 
 (8) If in any such case the client pays the whole or any part of the amount payable under the agreement without the previous allowance of the Registrar or court or Judge as aforesaid, he shall be liable at any time to account to the person whose estate or property is charged with the amount paid, or with any part thereof, for the amount so charged.
 
 (9) The solicitor or law corporation who accepts the payment may be ordered by any court which would have had jurisdiction to enforce the agreement, if it thinks fit, to refund the amount received by him or the law corporation.
 
-[4/2000 wef 05/05/2000]
-
 ### Death or incapability of solicitor after agreement
 
 114\.—(1) Where a solicitor has made an agreement with his client, in pursuance of section 111 and anything has been done by the solicitor under the agreement, and, before the agreement has been completely performed by him, the solicitor dies or becomes incapable to act, an application may be made to the court by any party thereto or by the representatives of that party.
 
 (1A) Where a law corporation has made an agreement with its client in pursuance of section 111 and anything has been done by the law corporation or any of its directors or employees under the agreement, and, before the agreement has been completely performed by the law corporation or any of its directors or employees, the law corporation is wound up, an application may be made to the court by any party thereto or by the representatives of that party.
-
-[4/2000 wef 05/05/2000]
 
 (2) The court shall thereupon have the same power to enforce or set aside the agreement, so far as it may have been acted upon, as if the death or incapacity had not happened.
 
@@ -3291,8 +3201,6 @@ RECOVERY AND TAXATION OF COSTS
 118\.—(1) Subject to the provisions of this Act, no solicitor, except by leave of the court, shall commence or maintain any action for the recovery of any costs due for any business done by him until the expiration of one month after he has delivered to the party to be charged therewith, or sent by post to, or left with him at his office or place of business, dwelling-house or last known place of residence, a bill of those costs.
 
 (2) The bill referred to in subsection (1) shall be signed by the solicitor or, in the case of a partnership, by one of the partners, either with his own name or with the name or style of the partnership, or by a solicitor employed by that solicitor or partnership, or, in the case of a law corporation, by a director of or by a solicitor employed by that law corporation, or be enclosed in or accompanied by a letter, signed in the like manner, referring to the bill.
-
-[4/2000 wef 05/05/2000]
 
 (3) Where a bill is proved to have been delivered in compliance with subsection (1), it shall not be necessary in the first instance for the solicitor to prove the contents of the bill and it shall be presumed until the contrary is shown to be a bill bona fide complying with this Act.
 
@@ -3448,6 +3356,14 @@ FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES
 
 (10) A Joint Law Venture shall, notwithstanding that the shares in the Joint Law Venture are held by more than 20 members, be deemed to be an exempt private company for the purposes of the Companies Act (Cap. 50).
 
+(11) Notwithstanding section 27 of the Companies Act (Cap. 50), a Joint Law Venture which is a limited company need not have the word “Limited” or “Berhad” as part of its name and a Joint Law Venture which is a private company need not have the word “Private” or “Sendirian” as part of its name.
+
+[28/2000 wef 01/11/2000]
+
+(12) The directors of a Joint Law Venture which is a limited company shall ensure that every invoice or official correspondence of the Joint Law Venture bears the statement that it is incorporated with limited liability.
+
+[28/2000 wef 01/11/2000]
+
 ### Registration to practise Singapore law
 
 130C\.—(1) A foreign lawyer who is employed by or who is a partner or director of a Joint Law Venture may, notwithstanding anything to the contrary in Part IV, practise Singapore law as a partner, director or an employee of the Joint Law Venture and recover costs and retain payments in respect of such practice if he is registered to practise Singapore law by the Attorney-General under subsection (3).
@@ -3548,7 +3464,7 @@ FOREIGN LAW FIRMS, JOINT LAW VENTURES AND FORMAL LAW ALLIANCES
 
 (a) the registration with the Attorney-General of all foreign law firms;
 
-(b) the registration with the Attorney-General of all foreign lawyers resident in Singapore and practising in or employed by a foreign law firm;
+(b) the registration with the Attorney-General of all foreign lawyers practising in or employed by a foreign law firm, a Singapore law firm or a Joint Law Venture;
 
 [28/2000 wef 01/11/2000]
 
@@ -3630,13 +3546,9 @@ MISCELLANEOUS
 
 136\.—(1) Subject to this section, no bank shall, in connection with any transaction on account of any solicitor or law corporation kept with it or with any other bank (other than an account kept by a solicitor as trustee for a specified beneficiary), incur any liability or be under any obligation to make any inquiry, or be deemed to have any knowledge of any right of any person to any money paid or credited to any such account, which it would not incur or be under or be deemed to have in the case of an account kept by a person entitled absolutely to all the money paid or credited to it.
 
-[4/2000 wef 05/05/2000]
-
 (2) Nothing in subsection (1) shall relieve a bank from any liability or obligation under which it would be apart from section 73 or this section.
 
 (3) Notwithstanding anything in subsection (1), a bank at which a solicitor or law corporation keeps an account for clients’ moneys shall not, in respect of any liability of the solicitor or law corporation to the bank, not being a liability in connection with that account, have or obtain any recourse or right, whether by way of set-off, counterclaim, charge or otherwise, against moneys standing to the credit of that account.
-
-[4/2000 wef 05/05/2000]
 
 ### Income tax exemption
 
@@ -3716,8 +3628,6 @@ the powers conferred by Part II shall be exercisable in relation to the law corp
 
 (2) Those powers shall only be exercisable by virtue of sub-paragraph (1)(a) if the Society has given the law corporation notice in writing that the Council is satisfied that the law corporation has failed to comply with the rules specified in the notice and also (at the same or any later time) notice that those powers are accordingly exercisable in its case by virtue of sub-paragraph (1)(a).
 
-[4/2000 wef 05/05/2000]
-
 4B. The powers conferred by Part II shall also be exercisable as mentioned in paragraph 4A(1) where —
 
 (a) a complaint is made to the Society that there has been undue delay on the part of a law corporation in connection with any matter in which it was instructed on behalf of a client or with any controlled trust;
@@ -3728,13 +3638,9 @@ the powers conferred by Part II shall be exercisable in relation to the law corp
 
 (d) the Society gives notice of the failure to the law corporation and (at the same or any later time) notice that the powers conferred by Part II are accordingly exercisable.
 
-[4/2000 wef 05/05/2000]
-
 4C.—(1) Where the registration of a law corporation has been cancelled under section 81K, the powers conferred by Part II shall be exercisable in relation to the law corporation and its former business as a law corporation as they are exercisable in relation to a solicitor and his practice.
 
 (2) Where the powers conferred by Part II are exercisable in relation to a law corporation in accordance with paragraph 4A or 4B, they shall continue to be so exercisable after that law corporation’s registration has been cancelled or has otherwise ceased to be in force.
-
-[4/2000 wef 05/05/2000]
 
 4D. In connection with the application of Part II to a law corporation in that Part —
 
@@ -3743,8 +3649,6 @@ the powers conferred by Part II shall be exercisable in relation to the law corp
 (b) any reference to paragraph 1 shall be construed as including a reference to paragraph 4A or 4C(1); and
 
 (c) any reference to paragraph 3 shall be construed as including a reference to paragraph 4B.
-
-[4/2000 wef 05/05/2000]
 
 Part II
 
@@ -3850,8 +3754,6 @@ Circumstances in which Council’s powers may be exercised
 
 1.—(1) The Council may take any of the steps mentioned in paragraph 2 (referred to in this Schedule as the steps) with respect to a solicitor where it appears to the Council that the professional services provided by him in connection with any matter in which he or his firm or the law corporation of which he is a director or an employee has been instructed by a client have, in any respect, not been of the quality which it is reasonable to expect of him as a solicitor.
 
-[4/2000 wef 05/05/2000]
-
 (2) The Council shall not take any of the steps unless it is satisfied that, in all the circumstances of the case, it is appropriate to do so.
 
 (3) In determining in any case whether it is appropriate to take any of the steps, the Council may —
@@ -3866,15 +3768,11 @@ Directions which may be given
 
 (a) determining that the costs to which the solicitor or the law corporation of which he is a director or an employee is entitled in respect of his services (referred to in this Schedule as the costs) are to be limited to such amount as may be specified in the determination and directing him to comply, or to secure compliance, with such one or more of the permitted requirements as appear to the Council to be necessary in order for effect to be given to the Council’s determination;
 
-[4/2000 wef 05/05/2000]
-
 (b) directing him to secure the rectification, at his expense or at that of his firm, of any such error, omission or other deficiency arising in connection with the matter in question as the Council may specify;
 
 (c) directing him to pay such compensation to the client as the Council sees fit to specify in the direction;
 
 (d) directing him to take, at his expense or at that of his firm or the law corporation of which he is a director or an employee, such other action in the interests of the client as the Council may specify.
-
-[4/2000 wef 05/05/2000]
 
 (2) The permitted requirements referred to in sub-paragraph (1)(a) are —
 
@@ -3908,8 +3806,6 @@ Failure to comply with direction
 
 5.—(1) If a solicitor or law corporation fails to comply with a direction given under this Schedule, any person may make a complaint in respect of that failure to a Judge; but no other proceedings whatever shall be brought in respect of it except pursuant to an order made under sub-paragraph (2).
 
-[4/2000 wef 05/05/2000]
-
 (2) On the hearing of such a complaint, the Judge may, if he thinks fit, direct that the direction be treated, for the purpose of enforcement, as if it were contained in an order made by the High Court.
 
 Fees
@@ -3941,8 +3837,6 @@ he shall inform the Council.
 Powers of Society to examine documents in connection with complaints
 
 9.—(1) Where the Council is satisfied that it is necessary to do so for the purpose of investigating any complaint made to the Society relating to the quality of any professional services provided by a solicitor, the Society may give notice to the solicitor or his firm or the law corporation of which he is a director or an employee requiring the production or delivery to any person appointed by the Society, at a time and place to be fixed by the Society, of all documents in the possession of the solicitor or his firm or the law corporation of which he is a director or an employee in connection with the matters to which the complaint relates (whether or not they relate also to other matters).
-
-[4/2000 wef 05/05/2000]
 
 (2) Sub-paragraphs (2) to (12) of paragraph 9 and paragraphs 11 to 15 of the First Schedule shall apply in relation to the powers conferred by sub-paragraph (1) as they apply in relation to the powers conferred by paragraph 9(1) of that Schedule and accordingly in those provisions —
 
@@ -4097,3 +3991,8 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 41/99 published on 24 November 1999)|
 ||Date of Second and Third Readings|17 January 2000|
 ||Date of commencement|5 May 2000|
+|29.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
+||Date of First Reading|25 August 2000|
+|||(Bill No. 22/2000 published on 26 August 2000)|
+||Date of Second and Third Readings|9 October 2000|
+||Date of commencement|1 November 2000|
