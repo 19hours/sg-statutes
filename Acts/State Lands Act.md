@@ -28,7 +28,7 @@
 
 - [10 Land granted for religious purposes, when resumable](#Land-granted-for-religious-purposes-when-resumable)
 
-- [11 Agreements licensing occupation in anticipation of survey](#Agreements-licensing-occupation-in-anticipation-of-survey)
+- [11 Issue of State title or Collector’s Certificate pending final survey of land area](#Issue-of-State-title-or-Collector’s-Certificate-pending-final-survey-of-land-area)
 
 - [12 Agreement to be called in where title issued after survey](#Agreement-to-be-called-in-where-title-issued-after-survey)
 
@@ -116,13 +116,15 @@ STATUTORY GRANTS AND LEASES
 
 ### Death of grantee or lessee
 
-5\.—(1) Where a grant or lease has been issued under this Act, or a certificate has been issued by the Collector of Land Revenue under section 8, 12 or 13 of the Land Titles Act [Cap. 157], to a person who, unknown to the Collector of Land Revenue, was not alive at the date of the issue of the grant or lease or Collector’s certificate and pursuant to the issue of such grant, lease or certificate the Registrar of Titles has issued a certificate of title to the deceased person —
+5\.—(1) Where a grant or lease has been issued under this Act, or a certificate has been issued by the Collector of Land Revenue pursuant to Part II of the Land Titles Act 1993 of the Land Titles Act [Cap. 157], to a person who, unknown to the Collector of Land Revenue, was not alive at the date of the issue of the grant or lease or Collector’s certificate and pursuant to the issue of such grant, lease or certificate the Registrar of Titles has issued a certificate of title to the deceased person —
 
 (a) an application may be made by the personal representative of the deceased person to the Registrar of Titles to have the certificate of title duly amended and endorsed with the name of the personal representative as the registered proprietor of the land comprised therein in place of the deceased person; and
 
-(b) the Registrar of Titles, if he is satisfied that the personal representative has obtained a grant of probate of the will or letters of administration of the estate of the deceased person or has been vested with authority to act as such personal representative, as the case may be, shall make the appropriate amendment and endorsement on the certificate of title, and the State grant or lease affected, and thereupon section 106 of the Land Titles Act [Cap. 157] shall apply mutatis mutandis.
+(b) the Registrar of Titles, if he is satisfied that the personal representative has obtained a grant of probate of the will or letters of administration of the estate of the deceased person or has been vested with authority to act as such personal representative, as the case may be, shall make the appropriate amendment and endorsement on the certificate of title, and the State grant or lease affected, and thereupon section 109 of the Land Titles Act [Cap. 157] shall apply mutatis mutandis.
 
 [35/80]
+
+[Act 27 of 1993 wef 01/04/1994]
 
 (2) For the purposes of this section, “personal representative” includes —
 
@@ -214,19 +216,17 @@ for the time being of the estate of a deceased person.
 
 [8
 
-### Agreements licensing occupation in anticipation of survey
+### Issue of State title or Collector’s Certificate pending final survey of land area
 
-11\.—(1) No grant or lease shall be issued under this Part for any State land unless the land has been surveyed and demarcated to the satisfaction of the Collector of Land Revenue.
+11\.—(1) Pending the issue of a grant or lease for any State land, the Collector of Land Revenue may, where the circumstances so require, issue a Collector’s Certificate in respect of any land which has not been surveyed and demarcated to the satisfaction of the Collector of Land Revenue and the survey has not yet been approved by the Chief Surveyor and include a caution as to the inconclusiveness of the boundaries and dimensions of the land.
 
-(2) If for any sufficient reason it is found to be impracticable to cause an immediate survey to be made of land with respect to which a grant or lease is applied for, the Collector of Land Revenue may enter into an agreement with the applicant for a grant or lease.
+(2) Notwithstanding subsection (1), the Collector of Land Revenue may, where applicable, issue a grant or lease for any parcel of land notwithstanding that its land area is only an estimated area as shown in a plan filed with and approved by the Chief Surveyor and include a caution as to the inconclusiveness of the boundaries and dimensions of the land.
 
-(3) Such an agreement shall be in the prescribed form and the number, date and all other essential particulars thereof shall be entered in a register to be kept in the Land Office for that purpose.
+(3) For the purposes of subsections (1) and (2), the Collector of Land Revenue may require the intended grantee or lessee to engage a registered surveyor to carry out a survey in accordance with the provisions of the Land Surveyors Act (Cap. 156) and the Chief Surveyor shall forward the plan to the Collector of Land Revenue after it has been filed with and approved by the Chief Surveyor.
 
-[35/80]
+(4) With regard to all land alienated either under subsection (1) or (2) and which has been taken possession of with the agreement of the Collector of Land Revenue, payment of the rent reserved under an agreement for alienation may be demanded and enforced in like manner as if a grant or lease had been issued for a parcel of land with conclusive land area and boundaries.
 
-(4) With respect to all land occupied under any such agreement the payment of the rent reserved thereby may be demanded and enforced in like manner as if a grant or lease had been issued.
-
-[9
+[Act 27 of 1993 wef 01/04/1994]
 
 ### Agreement to be called in where title issued after survey
 
@@ -442,3 +442,11 @@ This Legislative History is provided for the convenience of users of the State L
 ||Date of commencement|15 January 1981|
 |26.|**1985 Revised Edition—State Lands Act (Cap. 314)**|
 ||Date of operation|30 March 1987|
+|27.|**Act 27 of 1993—Land Titles Act 1993**|
+||(Consequential amendments made by)||
+||Date of First Reading|16 November 1992|
+|||(Bill No. 36/92 published on 17 November 1992)|
+||Date of Second Reading|18 January 1993|
+||Referred to Select Committee|Parl 3 of 1993 presented to Parliament on 18 August 1993|
+||Date of Third Reading|30 August 1993|
+||Date of commencement|1 March 1994|
