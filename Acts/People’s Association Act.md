@@ -308,9 +308,7 @@ Ngee Ann Polytechnic Graduates’ Guild
 
 Ngee Ann Polytechnic Students’ Union
 
-23. 
-
-Ornamental Horticulture Society
+23. [Deleted by S 211/1991 wef 24/04/1991]
 
 24. 
 
@@ -326,7 +324,7 @@ Radio Modellers Singapore
 
 27. 
 
-St. John’s Ambulance
+St. John Ambulance
 
 28. 
 
@@ -453,7 +451,7 @@ Singapore Malay Youth Library Association
 
 58. 
 
-Singapore National Pugilistic Federation
+Singapore National Wushu Federation
 
 59. 
 
@@ -588,6 +586,8 @@ Young Women Muslim Association (Persatuan Pemudi Islam Singapura)
 
 [S 78/1990 wef 23/02/1990]
 
+[S 211/1991 wef 24/04/1991]
+
 SECOND SCHEDULE
 
 Section 15(1).
@@ -653,3 +653,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|11 November 1988|
 |20.|**G.N. No. S 78/90—People’s Association Act (Amendment of First Schedule) Notification 1990**|
 ||Date of commencement|23 February 1990|
+|21.|**G.N. No. S 211/91—People’s Association Act (Amendment of First Schedule) Notification 1991**|
+||Date of commencement|24 April 1991|
