@@ -190,7 +190,7 @@
 
 - [67 Offences by directors, employees and agents](#Offences-by-directors-employees-and-agents)
 
-- [68 Indemnity](#Indemnity)
+- [68 (Repealed)](#Repealed)
 
 - [69 Power to compound](#Power-to-compound)
 
@@ -2510,23 +2510,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [2/84; 23/2001]
 
-### Indemnity
-
-68\. No liability shall be incurred by —
-
-(a) any public officer;
-
-(b) any person authorised or employed by the Authority under section 3;
-
-(c) any person appointed under section 49(2)(b) to advise a bank in the proper conduct of its business;
-
-(d) any person who has assumed control of the business of a bank pursuant to a direction or order of the Authority under section 49(2)(c) or 50(b); or
-
-(e) any person appointed under section 44A(3),
-
-as a result of anything done by him bona fide in the exercise of any power, or the performance of any function or duty, conferred or imposed by or under this Act.
-
-[23/2001]
+68\. [Deleted by Act 24/2003 wef 01/01/2004]
 
 ### Power to compound
 
@@ -3199,6 +3183,12 @@ This Legislative History is provided for the convenience of users of the Banking
 ||Date of commencement|9 December 2002|
 |18.|**2003 Revised Edition—Banking Act**|
 ||Date of operation|31 July 2003|
+|19.|**Act 24 of 2003—Monetary Authority of Singapore (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 October 2003|
+|||(Bill No. 21/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|10 November 2003|
+||Date of commencement|1 January 2004|
 ## COMPARATIVE TABLE
 
 Banking Act
