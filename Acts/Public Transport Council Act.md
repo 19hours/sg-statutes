@@ -52,9 +52,9 @@
 
 - [19 Suspension and cancellation of licence](#Suspension-and-cancellation-of-licence)
 
-[**Part V BUS, TAXI AND MASS RAPID TRANSIT SYSTEM FARES**](#Part-V)
+[**Part V BUS, TAXI AND RAPID TRANSIT SYSTEM FARES**](#Part-V)
 
-- [20 Bus, taxi and Mass Rapid Transit System fares](#Bus-taxi-and-Mass-Rapid-Transit-System-fares)
+- [20 Bus, taxi and rapid transit systems fares](#Bus-taxi-and-rapid-transit-systems-fares)
 
 - [21 Matters to be considered by Council](#Matters-to-be-considered-by-Council)
 
@@ -106,7 +106,7 @@ PRELIMINARY
 
 “Council” means the Public Transport Council established under section 3;
 
-“Mass Rapid Transit System” has the same meaning as in the Mass Rapid Transit Corporation Act [Cap. 172];
+“rapid transit system” has the same meaning as in the Rapid Transit Systems Act 1995;
 
 “public service vehicle” means a vehicle used or kept for use for the carriage of passengers for hire or reward, other than a vehicle constructed for use on fixed rails or specially prepared ways;
 
@@ -130,9 +130,13 @@ PUBLIC TRANSPORT COUNCIL
 
 (a) to receive and consider applications for the issue of bus service licences;
 
-(b) to receive and consider applications for approval of bus, taxi and Mass Rapid Transit System fares;
+(b) to receive and consider applications for approval of bus, taxi and rapid transit systems fares;
 
-(c) to regulate bus routes and bus, taxi and Mass Rapid Transit System fares; and
+[Act 29 of 1995 wef 01/09/1995]
+
+(c) to regulate bus routes and bus, taxi and rapid transit systems fares; and
+
+[Act 29 of 1995 wef 01/09/1995]
 
 (d) to engage in such other activities and to perform such functions as the Minister may permit or assign to it by order published in theGazette.
 
@@ -330,11 +334,15 @@ the Council may, by notice in writing and without any compensation, do either or
 
 ## PART V
 
-BUS, TAXI AND MASS RAPID TRANSIT SYSTEM FARES
+BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
-### Bus, taxi and Mass Rapid Transit System fares
+[Act 29 of 1995 wef 01/09/1995]
 
-20\.—(1) No person shall be entitled to demand and take any bus, taxi or Mass Rapid Transit System rate of hire or fare in excess of that approved by the Council.
+### Bus, taxi and rapid transit systems fares
+
+20\.—(1) No person shall be entitled to demand and take any bus, taxi or rapid transit systems rate of hire or fare in excess of that approved by the Council.
+
+[Act 29 of 1995 wef 01/09/1995]
 
 (2) Subsection (1) shall not prevent any person from demanding or taking a lower rate of hire or fare than that approved by the Council.
 
@@ -346,11 +354,13 @@ BUS, TAXI AND MASS RAPID TRANSIT SYSTEM FARES
 
 ### Matters to be considered by Council
 
-21\. In considering any application for approval of bus, taxi or Mass Rapid Transit System rate of hire or fare, the Council shall take into account —
+21\. In considering any application for approval of bus, taxi or rapid transit systems rate of hire or fare, the Council shall take into account —
 
 (a) the need for the applicants to remain financially viable; and
 
 (b) the need for public interest to be safeguarded.
+
+[Act 29 of 1995 wef 01/09/1995]
 
 ## PART VI
 
@@ -364,7 +374,9 @@ MISCELLANEOUS PROVISIONS
 
 (b) prescribing a scale of fees for bus service licences;
 
-(c) prescribing the manner and form in which applications for bus, taxi and Mass Rapid Transit System fares shall be made; and
+(c) prescribing the manner and form in which applications for bus, taxi and rapid transit systems fares shall be made; and
+
+[Act 29 of 1995 wef 01/09/1995]
 
 (d) regulating the procedure of the Council.
 
@@ -400,7 +412,9 @@ Constitution of Council
 
 (b) the chief executive officer to the Trans-Island Bus Services Ltd.;
 
-(c) the chief executive officer of the company which is licensed to operate the Mass Rapid Transit System;
+(c) the chief executive officer of every company licensed to operate a rapid transit system;
+
+[Act 29 of 1995 wef 01/09/1995]
 
 (d) the chief executive officer of Comfort Transportation Pte Ltd; and
 
@@ -519,3 +533,9 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of operation|30 April 1988|
 |3.|**G.N. No. S 432/94—Public Transport Council Act (Amendment of First Schedule) Order 1994**|
 ||Date of commencement|7 March 1994|
+|4.|**Act 29 of 1995—Rapid Transit Systems Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|7 July 1995|
+|||(Bill No. 25/95 published on 8 July 1995)|
+||Date of Second and Third Readings|7 August 1995|
+||Date of commencement|1 September 1995|
