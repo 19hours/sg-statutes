@@ -238,7 +238,9 @@ he shall be guilty of an offence.
 
 (2) Any person who, on being required to produce any such original or transcript or paper as aforesaid, refuses or neglects to do so, or mutilates or destroys the same, shall be guilty of an offence.
 
-(3) In this section “message” and “telecommunication system” shall have the same meanings as in the Telecommunication Authority of Singapore Act.
+(3) In this section “message” and “telecommunication system” shall have the same meanings as in the Telecommunications Act 1999.
+
+[43/99 wef 01/12/1999]
 
 ### Duty of giving information as to commission of offences
 
@@ -316,7 +318,7 @@ Official Secrets Act
 
 (CHAPTER 213)
 
-This Legislative History is provided for the convenience of users of the Official Secrets Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Official Secrets Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -370,3 +372,9 @@ This Legislative History is provided for the convenience of users of the Officia
 |||(Bill No. 6/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Dates of commencement|1 October 1997 (item (18) of Second Schedule — Amendment of Official Secrets Act)|
+|15.|**Act 43 of 1999—Telecommunications Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 33/99 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
