@@ -1228,3 +1228,8 @@ This Legislative History is provided for the convenience of users of the Sale of
 |:-|:-|:-|
 |1.|**1994 Revised Edition—Sale of Goods Act**|
 ||Date of operation|20 May 1994|
+|2.|**Act 43 of 1996—Sale of Goods (Amendment) Act 1996**|
+||Date of First Reading|28 October 1996|
+|||(Bill No. 33/96 published on 29 October 1996)|
+||Date of Second and Third Readings|7 November 1996|
+||Date of commencement|1 January 1997|
