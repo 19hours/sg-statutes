@@ -30,6 +30,8 @@
 
 - [10 Registration of vehicles](#Registration-of-vehicles)
 
+- [10A Vehicles not to be registeredwithout permits issued by Registrar](#Vehicles-not-to-be-registeredwithout-permits-issued-by-Registrar)
+
 - [11 Charge of tax on vehicles](#Charge-of-tax-on-vehicles)
 
 - [12 Vehicles licensed outside Singapore](#Vehicles-licensed-outside-Singapore)
@@ -82,6 +84,12 @@
 
 - [35 Licensing of drivers, etc.](#Licensing-of-drivers-etc)
 
+- [35A Power of Deputy Commissioner of Police to revoke driving licence](#Power-of-Deputy-Commissioner-of-Police-to-revoke-driving-licence)
+
+- [35B Licensee may show cause why driving licence should not be revoked](#Licensee-may-show-cause-why-driving-licence-should-not-be-revoked)
+
+- [35C Surrender of driving licence](#Surrender-of-driving-licence)
+
 - [36 Tests of competence to drive of new applicants for driving licences](#Tests-of-competence-to-drive-of-new-applicants-for-driving-licences)
 
 - [37 Provisions as to physical fitness of applicants for driving licences](#Provisions-as-to-physical-fitness-of-applicants-for-driving-licences)
@@ -105,6 +113,14 @@
 - [46 Licensee may show cause why driving licence should not be suspended](#Licensee-may-show-cause-why-driving-licence-should-not-be-suspended)
 
 - [47 Surrender and return of driving licence](#Surrender-and-return-of-driving-licence)
+
+- [47A Effect of suspension of licence by Deputy Commissioner of Police](#Effect-of-suspension-of-licence-by-Deputy-Commissioner-of-Police)
+
+- [47B Disqualification or suspension to continue in certain circumstances](#Disqualification-or-suspension-to-continue-in-certain-circumstances)
+
+- [47C Immediate suspension of driving licence in certain circumstances](#Immediate-suspension-of-driving-licence-in-certain-circumstances)
+
+- [47D Definition of serious injury](#Definition-of-serious-injury)
 
 - [48 Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
@@ -141,6 +157,8 @@
 [**Provisions as to driving and offences in connection therewith**](#Provisions-as-to-driving-and-offences-in-connection-therewith)
 
 - [62 Restriction on driving by young persons](#Restriction-on-driving-by-young-persons)
+
+- [62A Restriction on driving certain categories of heavy motor vehicles](#Restriction-on-driving-certain-categories-of-heavy-motor-vehicles)
 
 - [63 Rate of speed](#Rate-of-speed)
 
@@ -552,21 +570,61 @@ and different rules may be made in respect of different classes or descriptions 
 
 ### Appointment of Registrar, Deputy Registrar and assistant registrars
 
-9\.—(1) The President shall appoint a Registrar of Vehicles who shall be responsible for the performance of the duties and functions assigned to the Registrar under this Act.
+9\.—(1) The Minister shall appoint a Registrar of Vehicles who shall be responsible for the performance of the duties and functions assigned to the Registrar under this Act.
 
-(2) The President may appoint a Deputy Registrar and such number of assistant registrars as may from time to time be required for the purposes of this Act.
+[Act 7 of 1990 wef 02/04/1990]
+
+(2) The Minister may appoint a Deputy Registrar and such number of assistant registrars as may from time to time be required for the purposes of this Act.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (3) The Minister may appoint different grades of assistant registrars for the purposes of this Act.
 
-(4) The President may from time to time give to the Registrar such directions, not inconsistent with the provisions of this Act, as he may consider necessary for carrying out the provisions of this Part, and may from time to time vary or revoke such directions, and the Registrar shall conform to any directions so given.
+(4) The Minister may from time to time give to the Registrar such directions, not inconsistent with the provisions of this Act, as he may consider necessary for carrying out the provisions of this Part, and may from time to time vary or revoke such directions, and the Registrar shall conform to any directions so given.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (5) The Registrar shall cause to be printed and provided the forms of licences and of applications for the licences and all declarations, notices, returns, books of accounts and other documents required by the rules or otherwise by law required with respect to any matter to which this Act relates.
 
 ### Registration of vehicles
 
-10\.—(1) Except as otherwise provided by this Act or the rules, no person shall keep or use a vehicle unless it has been registered under this Act.
+10\.—(1) Except as otherwise provided by this Act or the rules, no person shall keep or use a vehicle unless it has been registered under this Act and its registration under this Act has not been cancelled.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (2) The Registrar may charge such fees as may be prescribed for the registration of a vehicle under this Act.
+
+### Vehicles not to be registeredwithout permits issued by Registrar
+
+10A\.—(1) No vehicle shall be registered or continue to be registered under this Act unless there is in force a permit issued by the Registrar authorising the registration of the vehicle.
+
+(2) Except as otherwise provided by this Act or the rules, a permit shall be issued upon the payment of a levy.
+
+(3) The Minister may from time to time, by notification in theGazette, prescribe a limit on the number of permits to be issued by the Registrar under subsection (1) and the Minister may prescribe different limits for vehicles belonging to any category, class or description.
+
+(4) The Minister may make rules for carrying out or giving effect to this section and, without prejudice to the generality of this provision, the rules may —
+
+(a) provide for the issue of permits under this section to successful applicants who submitted bids for the permits;
+
+(b) require fees and deposits to be paid for the submission of applications for the issue of permits under this section, and provide for the forfeiture of deposits for non-compliance with any conditions governing the submission of such applications;
+
+(c) prescribe the levy, or the method or manner for determining the amount of the levy, payable for a permit issued under this section;
+
+(d) prescribe the period for which a permit issued under this section is in force and different periods may be prescribed for vehicles belonging to different categories, classes or descriptions;
+
+(e) prescribe the conditions upon which permits are issued under this section;
+
+(f) provide for the cancellation of a permit issued under this section and the refund of all or part of the levy paid for the issue of the permit in such circumstances as may be permitted by the rules;
+
+(g) impose a levy on the transfer of a permit at any time prior to the registration of a vehicle authorised by the permit;
+
+(h) provide for the issue of permits, whether with or without the payment of a levy, for vehicles which were registered under this Act prior to the commencement of the Road Traffic (Amendment) Act 1990;
+
+(i) exempt any particular vehicle or class of vehicles from the payment of the levy for a permit issued under this section; and
+
+(j) provide for all matters which are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this section.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 ### Charge of tax on vehicles
 
@@ -592,11 +650,37 @@ and the tax shall be paid upon a licence to be taken out by the person keeping t
 
 (6) Nothing in this section shall operate so as to render lawful the keeping of a vehicle for any period, in any manner or at any place, if to do so would be unlawful apart from this section.
 
+(7) Any person who gives any incorrect information in relation to any matter affecting the amount of tax chargeable under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months, and the court shall order him to pay to the Registrar the amount of tax which has been undercharged.
+
+[Act 7 of 1990 wef 02/04/1990]
+
+(8) The Registrar may, in his discretion, compound any offence punishable under subsection (7) by collecting from the person reasonably suspected of having committed the offence a sum of money not exceeding $1,000 and the amount of the tax undercharged, and may before judgment stay or compound any proceedings thereunder.
+
+[Act 7 of 1990 wef 02/04/1990]
+
 ### Vehicles licensed outside Singapore
 
-12\.—(1) Where any vehicle in respect of which a licence authorising its use is first issued outside Singapore is kept or used on any road in Singapore by a person who is a resident of Singapore, the tax chargeable under section 11(1)(a) shall be paid in respect of the vehicle by the person keeping or using it as if that vehicle is first registered and used in Singapore.
+12\.—(1) Where any vehicle not registered under this Act is kept or used on any road in Singapore by a person who is —
+
+(a) a citizen of Singapore;
+
+(b) a resident of Singapore; or
+
+(c) the holder of a work permit or an employment pass issued under the Immigration Act (Cap. 133),
+
+the tax chargeable under section 11(1)(a) shall be paid in respect of the vehicle by the person keeping or using it in Singapore as if that vehicle is first registered and used in Singapore.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (2) Any person who has in his possession or comes into possession of, or uses, a motor vehicle in respect of which a licence issued under the provisions of any law of any country relating to motor vehicles is in force shall inform the Registrar, within such period as may be prescribed, if he is a resident of Singapore or takes up residence in Singapore.
+
+(3) For the purposes of this section, a person is deemed to be a resident of Singapore if he —
+
+(a) has been granted the status of a permanent resident of Singapore by the competent authority, even though he may not have a place of residence in Singapore; or
+
+(b) resides in Singapore for a continuous period of 6 months and any temporary period or periods of absence during that period is immaterial.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 ### Commencement and duration of licences
 
@@ -672,7 +756,9 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 (3) The Registrar shall not be required to issue any vehicle licence for which application is made unless he is satisfied —
 
-(a) that the licence applied for is the appropriate licence for the vehicle specified in the application;
+(a) that the licence applied for is the appropriate licence for the vehicle specified in the application and all fees and taxes due and payable in respect of the vehicle and any penalty recoverable from the registered owner of the vehicle under this Act or the rules have been paid;
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (b) in the case of an application for a licence for a vehicle purporting to be the first application for a licence for the vehicle, that a licence has not previously been issued for that vehicle;
 
@@ -738,17 +824,27 @@ Provided that a person charged under this section with having an obscured mark o
 
 ### Cancellation of registration
 
-27\. The Registrar may cancel the registration of a motor vehicle —
+27\.—(1) The Registrar may cancel the registration of a motor vehicle —
 
-(a) if no licence has been issued for the vehicle for a period exceeding 3 years;
+(a) if a permit issued under section 10A authorising the registration of the vehicle under this Act has expired or is cancelled;
 
-(b) if he is satisfied that the vehicle has been destroyed or become wholly unfit for further use or has been permanently removed from Singapore; or
+(b) if no licence has been taken out for the vehicle for a period exceeding 3 years by the registered owner who has notified the Registrar that he will not use the vehicle during that period;
 
-(c) if the vehicle exceeds the age limit prescribed for that class or description of vehicles.
+(c) if the tax chargeable under section 11(1)(b) has not been paid by the registered owner of the vehicle for a period of 12 months or any longer period;
+
+(d) if he is satisfied that the vehicle has been destroyed or become wholly unfit for further use or has been permanently removed from Singapore; or
+
+(e) if the vehicle exceeds the age-limit prescribed for the class or description of vehicles to which the vehicle belongs.
+
+(2) Where the registration of a motor vehicle is cancelled pursuant to subsection (1), the registered owner of the vehicle or any person who is in possession of the registration book or card issued in respect of the vehicle shall surrender that book or card to the Registrar within 14 days of the cancellation.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 ### General licences
 
-28\.—(1) If any person, being a manufacturer or repairer of or dealer in motor vehicles, makes in the prescribed manner an application in that behalf to the Registrar that he may be entitled in lieu of taking out a licence under this Part for each motor vehicle kept by him to take out a general licence in respect of all motor vehicles used by him, the Registrar may, if satisfied as to the bona fides of the applicant and subject to the prescribed conditions, issue to him such a licence on payment of the prescribed fee.
+28\.—(1) If any person, being a manufacturer or repairer of or dealer in motor vehicles, makes in the prescribed manner an application in that behalf to the Registrar that he may be entitled in lieu of taking out a licence under this Part for each motor vehicle kept by him to take out a general licence in respect of all motor vehicles used by him, the Registrar may, if satisfied as to the bona fides of the applicant and subject to the prescribed conditions, issue to him such a licence on payment of the prescribed levy.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (2) The holder of any licence issued under this section shall not be entitled by virtue of that licence to use more than one motor vehicle at any one time except in the case of a motor vehicle drawing a trailer and used for the prescribed purposes or to use any vehicle for any purpose other than such purposes as may be prescribed.
 
@@ -830,9 +926,21 @@ Provided that a person charged under this section with having an obscured mark o
 
 (m) to make provision with respect to the furnishing of information and production of certificates of insurance or security and with respect to the registration and identification of such vehicles (including vehicles belonging to the Government);
 
-(n) to prescribe the particulars to be marked on vehicles and trailers; and
+(n) to prescribe the particulars to be marked on vehicles and trailers;
 
-(o) to prescribe such fees and costs as are payable for the recovery of any tax payable under this Act.
+[Act 7 of 1990 wef 02/04/1990]
+
+(o) to prescribe such fees and costs as are payable for the recovery of any tax payable under this Act;
+
+[Act 7 of 1990 wef 02/04/1990]
+
+(p) to prohibit the registration under this Act of used vehicles beyond a prescribed age-limit; and
+
+[Act 7 of 1990 wef 02/04/1990]
+
+(q) to prescribe a levy for the re-registration of a used vehicle in the name of the purchaser of the vehicle.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 ## PART II
 
@@ -854,7 +962,17 @@ Provided that for the purposes of this subsection, “holder of a driving licenc
 
 (6) Where the applicant is subject to any restriction with respect to the driving of any class of motor vehicle, the extent of the restriction shall be specified in the prescribed manner on the driving licence.
 
-(7) Subject to the provisions of this Act with respect to provisional licences, a driving licence shall, unless previously revoked or surrendered, remain in force for a period of either one year or 3 years from the first day of the month in which it was granted as the applicant may elect at the time of making application for the licence and on payment of the fee prescribed for that period.
+(7) Subject to the provisions of this Act, a driving licence not being a provisional licence shall, unless previously revoked or surrendered, remain in force for a period of either one year or 3 years from the date of its grant or renewal as the applicant may elect at the time of the application for the grant or renewal of a licence and on payment of the fee prescribed for the period.
+
+[Act 7 of 1990 wef 02/04/1990]
+
+(7A) The Deputy Commissioner of Police may refuse to renew any driving licence, or renew it for a period of one year only notwithstanding that the applicant has elected to renew it for 3 years, if he is satisfied that the holder thereof has not complied with any warrant or process of court issued against him in respect of any offence or offences committed by him under this Act or the rules.
+
+[Act 7 of 1990 wef 02/04/1990]
+
+(7B) Where a driving licence has lapsed for a period of 3 years or more, the Deputy Commissioner of Police shall not renew the licence or grant a new licence to the person who held such a licence unless he passes the prescribed test of competence to drive or the Deputy Commissioner of Police is satisfied that at some time within 3 years before the date of the application the applicant has held a driver’s certificate or licence granted by the competent authority in any country authorising him to drive a motor vehicle of the class or description which he would be authorised to drive by the licence applied for.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (8) A person shall be disqualified from obtaining a driving licence —
 
@@ -865,6 +983,52 @@ Provided that for the purposes of this subsection, “holder of a driving licenc
 (9) In any proceedings the fact that a driving licence has been granted to a person shall be evidence that that person for the purpose of obtaining that licence made a declaration that he was not disqualified from holding or obtaining the licence.
 
 (10) If any person is aggrieved by the refusal of the Deputy Commissioner of Police to grant a driving licence or by the revocation of a driving licence under section 37, he may, after giving the Deputy Commissioner of Police notice of his intention to do so, appeal to the Minister and on any such appeal the Minister may make such order as he thinks fit and any order so made shall be binding on the Deputy Commissioner of Police.
+
+### Power of Deputy Commissioner of Police to revoke driving licence
+
+35A\.—(1) Where a driving licence is granted to a person who has just passed the prescribed test of competence to drive or to a person who meets the requirements of section 36(2), the Deputy Commissioner of Police may revoke such a licence if within a period of 12 months from the date of the grant of the licence, that person’s record (as kept by the Deputy Commissioner of Police) as a driver of motor vehicles or his conduct or habits as such driver establishes that it would not be in the interests of public safety for him to hold a valid driving licence or that such person is not competent to drive a motor vehicle.
+
+(2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a valid driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act or the rules.
+
+(3) The rules made under subsection (2) shall specify the maximum number of points to be awarded against a person before it may be established that it would not be in the interests of public safety for him to hold a valid driving licence or that such person is not competent to drive a motor vehicle.
+
+(4) The power conferred upon the Deputy Commissioner of Police by this section to revoke the driving licence of a person may be exercised at such time as the Deputy Commissioner of Police thinks fit after the maximum number of points, referred to in subsection (3), has been awarded against such person.
+
+(5) Where the points awarded against a person under the rules made under subsection (2) reach 50% of the maximum number at which the Deputy Commissioner of Police may revoke the driving licence of such person under this section, the Deputy Commissioner of Police shall give notice thereof in writing to the person.
+
+(6) Where a person is disqualified by an order of a court from holding or obtaining a driving licence for such period of time as may be specified in the order, every point awarded against him under the rules made under subsection (2) shall thereupon be cancelled.
+
+(7) Where a holder of a valid driving licence commits on a single occasion more than one offence under this Act or the rules, points shall be awarded against him only for the offence committed by him and in respect of which the largest number of points may be awarded against a person.
+
+(8) For the purposes of this section, a person shall be deemed to have committed an offence under this Act or the rules if he pays the prescribed penalty for that offence under section 132.
+
+[Act 7 of 1990 wef 02/04/1990]
+
+### Licensee may show cause why driving licence should not be revoked
+
+35B\.—(1) The Deputy Commissioner of Police shall, before revoking a driving licence of a person under section 35A, give the person concerned notice in writing of his intention to do so, specifying a date, not less than 14 days after the date of the notice, upon which such revocation shall be made and calling upon the person to show cause to the Deputy Commissioner of Police why such driving licence should not be revoked.
+
+(2) Upon the person failing to show cause within the period referred to in subsection (1) and if the Deputy Commissioner of Police decides to revoke the driving licence of such person pursuant to section 35A, the Deputy Commissioner of Police shall forthwith inform the person by notice in writing of the revocation.
+
+(3) A person may, within 14 days of the receipt of the notice referred to in subsection (2), or within such extended period of time as the Minister may allow, appeal in writing against the revocation to the Minister whose decision shall be final.
+
+(4) An order of revocation under section 35A shall not take effect until the expiration of a period of 14 days after the Deputy Commissioner of Police has informed the person concerned of the order.
+
+(5) If within that period the person concerned appeals to the Minister, the order shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister.
+
+[Act 7 of 1990 wef 02/04/1990]
+
+### Surrender of driving licence
+
+35C\.—(1) The Deputy Commissioner of Police shall, upon revoking a licence under section 35A, require the licence to be surrendered to and retained by him.
+
+(2) Any person whose driving licence has been revoked under section 35A shall forthwith surrender the driving licence to the Deputy Commissioner of Police.
+
+(3) Any person whose driving licence has been revoked under section 35A shall not drive a motor vehicle on a road under any other driving licence granted by any authority or otherwise.
+
+(4) Any person who drives a motor vehicle on a road when his driving licence is revoked under section 35A shall be guilty of an offence.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 ### Tests of competence to drive of new applicants for driving licences
 
@@ -940,9 +1104,17 @@ Provided that if the court thinks fit, any disqualification imposed under this s
 
 ### Provisions as to disqualifications and suspensions
 
-43\.—(1) Where a person who is disqualified by virtue of a conviction or order under this Act is the holder of a driving licence, the licence shall be suspended as long as the disqualification continues in force.
+43\.—(1) Where a person who is disqualified by virtue of a conviction or order under this Act is the holder of a driving licence, the licence shall —
 
-(2) A driving licence suspended by virtue of subsection (1) or section 45 shall during the time of suspension be of no effect.
+(a) be suspended as long as the disqualification continues in force if he is disqualified from holding or obtaining a driving licence for a period of less than one year; and
+
+(b) be of no effect if he is disqualified from holding or obtaining a driving licence for a period of one year or longer and he shall not drive a motor vehicle after the period of disqualification unless he passes the prescribed test of competence to drive.
+
+[Act 7 of 1990 wef 02/04/1990]
+
+(2) A driving licence suspended by virtue of subsection (1) or section 45, 47B or 47C shall during the time of suspension be of no effect.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (3) If any person who under the provisions of this Act is disqualified from holding or obtaining a driving licence applies for or obtains a driving licence while he is so disqualified or if any such person while he is so disqualified drives a motor vehicle, or if the disqualification is limited to the driving of a motor vehicle of a particular class or description a motor vehicle of that class or description, on a road, that person shall be guilty of an offence and shall be liable on conviction —
 
@@ -972,7 +1144,9 @@ whichever period is the longer.
 
 ### Power of Deputy Commissioner of Police to suspend a driving licence
 
-45\.—(1) Notwithstanding anything in this Act, the Deputy Commissioner of Police may suspend every driving licence of a person for a period not exceeding 6 months if the person’s record (as kept by the Deputy Commissioner of Police) as a driver of motor vehicles or his conduct or habits as such driver establishes that it would not be in the interests of public safety for him to hold a valid driving licence or that such person is not competent to drive a motor vehicle.
+45\.—(1) Notwithstanding anything in this Act, the Deputy Commissioner of Police may suspend every driving licence of a person for a period not exceeding 3 years if the person’s record (as kept by the Deputy Commissioner of Police) as a driver of motor vehicles or his conduct or habits as such driver establishes that it would not be in the interests of public safety for him to hold a valid driving licence or that such person is not competent to drive a motor vehicle.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a valid driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act or the rules.
 
@@ -1012,6 +1186,46 @@ whichever period is the longer.
 
 (5) Any person who drives a motor vehicle on a road when his driving licence is suspended under section 45 shall be guilty of an offence.
 
+### Effect of suspension of licence by Deputy Commissioner of Police
+
+47A\. A driving licence suspended by the Deputy Commissioner of Police under section 45(1) for a period of one year or any other longer period shall be of no effect and the holder of the licence shall not drive a motor vehicle after the period of suspension unless he passes the prescribed test of competence to drive.
+
+[Act 7 of 1990 wef 02/04/1990]
+
+### Disqualification or suspension to continue in certain circumstances
+
+47B\. If any person who is disqualified from holding or obtaining a driving licence, or whose driving licence is suspended under the provisions of this Act, drives while he is so disqualified or his licence is under suspension and causes death or serious injury to any other person and is charged for an offence under this Act, the disqualification or suspension shall continue until that offence has been tried and determined by a court.
+
+[Act 7 of 1990 wef 02/04/1990]
+
+### Immediate suspension of driving licence in certain circumstances
+
+47C\.—(1) Where a person drives a motor vehicle on a road or other public place —
+
+(a) whilst under the influence of drink or of a drug in contravention of section 67(1); or
+
+(b) without a policy of insurance in respect of third-party risks in contravention of section 3(1) of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189),
+
+and whilst so driving causes death or serious injury to any other person, the Deputy Commissioner of Police may, where the first-mentioned person is charged for that offence, suspend his driving licence from the date he is charged for the offence, and the suspension shall remain in force until the offence is tried and determined by a court.
+
+(2) The Deputy Commissioner of Police shall, before suspending a driving licence of a person under subsection (1), give to the person concerned a notice in writing informing the person that his driving licence is immediately suspended until the charge has been tried and determined by a court and requiring the person forthwith to surrender his driving licence.
+
+(3) A person who without reasonable cause or excuse refuses or fails to surrender his driving licence to the Deputy Commissioner of Police under subsection (2) shall be guilty of an offence.
+
+(4) Any person whose driving licence has been suspended under this section shall not during the period of suspension drive a motor vehicle on a road under any other driving licence granted by any authority or otherwise.
+
+(5) Any person who drives a motor vehicle on a road when his driving licence is suspended under this section shall be guilty of an offence.
+
+(6) A person to whom a notice is given under subsection (1) may appeal against the notice to the Minister whose decision shall be final.
+
+[Act 7 of 1990 wef 02/04/1990]
+
+### Definition of “serious injury”
+
+47D\. For the purposes of sections 47B and 47C, “serious injury” means any injury which causes a person to be during a period of 7 days in severe bodily pain or unable to follow his ordinary pursuits.
+
+[Act 7 of 1990 wef 02/04/1990]
+
 ### Rules for purposes of this Part
 
 48\. The Minister may make rules for any purpose for which rules may be made under this Part and for prescribing anything which may be prescribed under this Part and otherwise for the purpose of carrying this Part into effect, and in particular, but without prejudice to the generality of the foregoing provisions, may make rules —
@@ -1028,9 +1242,17 @@ whichever period is the longer.
 
 (f) to provide special facilities for granting driving licences to persons not resident in Singapore;
 
-(g) for modifying the provisions of this Part relating to the licensing of drivers of motor vehicles in the case of persons resident abroad and who enter Singapore intending to make only a temporary stay in Singapore; and
+(g) for modifying the provisions of this Part relating to the licensing of drivers of motor vehicles in the case of persons resident abroad and who enter Singapore intending to make only a temporary stay in Singapore;
 
-(h) to make any particulars with respect to persons, who are disqualified from holding or obtaining driving licences or whose licences are suspended, available for use by the Deputy Commissioner of Police and to prevent a person holding more than one driving licence and to facilitate the identification of holders of driving licences and to provide for the issue of a new licence in the place of a driving licence lost or defaced on payment of such fee as may be prescribed and in connection with driving licences generally.
+[Act 7 of 1990 wef 02/04/1990]
+
+(h) to make any particulars with respect to persons, who are disqualified from holding or obtaining driving licences or whose licences are suspended, available for use by the Deputy Commissioner of Police and to prevent a person holding more than one driving licence and to facilitate the identification of holders of driving licences and to provide for the issue of a new licence in the place of a driving licence lost or defaced on payment of such fee as may be prescribed and in connection with driving licences generally; and
+
+[Act 7 of 1990 wef 02/04/1990]
+
+(i) to prescribe the circumstances in which a person may be required to be certified by a medical practitioner as fit to drive a vehicle or to pass any practical driving test before granting or renewing a driving licence.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 ### Exemption
 
@@ -1195,6 +1417,24 @@ Provisions as to driving and offences in connection therewith
 
 [63
 
+### Restriction on driving certain categories of heavy motor vehicles
+
+62A\.—(1) Subject to subsection (2), a person who has attained the age of 70 years shall not drive a vehicle belonging to the following categories or classes of motor vehicles:
+
+(a) heavy locomotives;
+
+(b) light locomotives;
+
+(c) motor tractors; and
+
+(d) heavy motor cars.
+
+(2) Notwithstanding subsection (1), a person who has a valid driving licence in force at the date of the commencement of the Road Traffic (Amendment) Act 1990 authorising him to drive any of the category or class of vehicles referred to in subsection (1) may continue to drive a vehicle belonging to the said category or class of vehicles for a period of 3 years from that date if his licence has not expired or is renewed during that period.
+
+(3) Notwithstanding subsection (1), the Deputy Commissioner of Police may renew the driving licence of any person who has attained the age of 70 years for a period not exceeding 3 years from the date of the commencement of the Road Traffic (Amendment) Act 1990.
+
+[Act 7 of 1990 wef 02/04/1990]
+
 ### Rate of speed
 
 63\.—(1) Except as otherwise provided by this Act or the rules, it shall not be lawful for any person to drive a motor vehicle of any class or description on a road at a speed greater than any speed which may be prescribed as the maximum speed in relation to a vehicle of that class or description.
@@ -1235,17 +1475,17 @@ Provisions as to driving and offences in connection therewith
 
 ### Driving while under the influence of drink or drugs
 
-67\.—(1) Any person who, when driving or attempting to drive a motor vehicle on a road or other public place, is under the influence of drink or of a drug to such an extent as to be incapable of having proper control of such vehicle, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months, and in the case of a second or subsequent conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+67\.—(1) Any person who, when driving or attempting to drive a motor vehicle on a road or other public place, is under the influence of drink or of a drug to such an extent as to be incapable of having proper control of such vehicle shall be guilty of an offence and shall be liable on conviction to a fine of not less than $1,000 and not more than $5,000 or to imprisonment for a term not exceeding 6 months and, in the case of a second or subsequent conviction, to a fine of not less than $3,000 and not more than $10,000 and to imprisonment for a term not exceeding 12 months.
 
-(2) A person convicted of an offence under this section shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified for a period of not less than 12 months from the date of the conviction from holding or obtaining a driving licence.
+(2) A person convicted of an offence under this section shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified from holding or obtaining a driving licence for a period of not less than 12 months from the date of his conviction or, where he is sentenced to imprisonment, from the date of his release from prison.
 
 (3) Any police officer may arrest without warrant any person committing an offence under this section.
 
-[68
+[Act 7 of 1990 wef 02/04/1990]
 
 ### Being in charge of a motor vehicle when under the influence of drink or drugs
 
-68\.—(1) Any person who when in charge of a motor vehicle which is on a road or other public place but not driving the vehicle is unfit to drive in that he is under the influence of drink or of a drug to such an extent as to be incapable of having proper control of a motor vehicle, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 3 months, and in the case of a second or subsequent conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both:
+68\.—(1) Any person who when in charge of a motor vehicle which is on a road or other public place but not driving the vehicle is unfit to drive in that he is under the influence of drink or of a drug to such an extent as to be incapable of having proper control of a motor vehicle shall be guilty of an offence and shall be liable on conviction to a fine of not less than $500 and not more than $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine of not less than $1,000 and not more than $5,000 and to imprisonment for a term not exceeding 6 months:
 
 Provided that a person shall be deemed for the purpose of this section not to have been in charge of a motor vehicle if he proves —
 
@@ -1253,13 +1493,13 @@ Provided that a person shall be deemed for the purpose of this section not to ha
 
 (b) that between his becoming so unfit to drive and the material time he had not driven the vehicle on a road or other public place.
 
-(2) On a second or subsequent conviction for an offence under this section, the offender shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified for a period of 12 months from the date of the conviction from holding or obtaining a driving licence.
+(2) On a second or subsequent conviction for an offence under this section, the offender shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified from holding or obtaining a driving licence for a period of 12 months from the date of his release from prison.
 
 (3) Where a person convicted of an offence under this section has been previously convicted of an offence under section 67, he shall be treated for the purpose of this section as having been previously convicted under this section.
 
 (4) Any police officer may arrest without warrant any person committing an offence under this section.
 
-[69
+[Act 7 of 1990 wef 02/04/1990]
 
 ### Blood and urine test
 
@@ -1309,7 +1549,9 @@ but no requirement may be made by virtue of paragraph (b) unless it is made as s
 
 but a person shall not be required to provide a specimen while at a hospital as a patient if the medical practitioner in immediate charge of his case is not first notified of the proposal to make the requirement or objects to the provision of such specimen on the ground that its provision or the requirement to provide it would be prejudicial to the proper care or treatment of the patient.
 
-(3) A person who, without reasonable excuse, fails to provide a specimen of his breath for a breath test under subsection (1) or (2) shall be guilty of an offence.
+(3) A person who, without reasonable excuse, fails to provide a specimen of his breath for a breath test under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine of not less than $1,000 and not more than $5,000 or to imprisonment for a term not exceeding 6 months and, in the case of a second or subsequent conviction, to a fine of not less than $3,000 and not more than $10,000 and to imprisonment for a term not exceeding 12 months.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (4) If it appears to a police officer in consequence of a breath test carried out by him on any person under subsection (1) or (2) that the device by means of which the test is carried out indicates that the proportion of alcohol in that person’s blood exceeds the prescribed limit, the police officer may arrest that person without warrant except while that person is at a hospital as a patient.
 
@@ -1337,7 +1579,9 @@ but a person shall not be required to provide a specimen while at a hospital as 
 
 74\.—(1) On and after 1st January 1971, every person who drives or is carried on a motor cycle shall wear securely on his head a protective helmet of a type approved by the Minister.
 
-(2) No person shall sell or offer for sale or have in his possession for sale any protective helmet which is not of a type approved by the Minister.
+(2) No person shall import, sell or offer for sale or have in his possession for sale any protective helmet which is not of a type approved by the Minister.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
 
@@ -1651,7 +1895,9 @@ Miscellaneous
 
 (3) If the owner of the vehicle or trailer is convicted of or has been permitted to compound an offence under this Act or the rules, the expenses incurred by the Deputy Commissioner of Police or the Registrar in carrying out the provisions of this section shall be recoverable by or on behalf of the Deputy Commissioner of Police or the Registrar and, in case of dispute or neglect to pay, be summarily ascertained by a Magistrate’s Court and may be recovered in the same manner as if they were fines imposed by that Court.
 
-(4) When any vehicle or trailer is detained under this section, the Deputy Commissioner of Police or the Registrar shall with all reasonable despatch give notice in writing to the owner (if the name and address of the owner are known to him) of the seizure and if the vehicle or trailer is not claimed by its owner within 3 months of the date of its detention, the Deputy Commissioner of Police or the Registrar thereafter and after giving one month’s notice in theGazetteof his intention to do so may sell by public auction or otherwise dispose of the vehicle or trailer. The proceeds, if any, from the sale or disposal of any such vehicle or trailer shall be applied in payment of any licence fees which may be due in respect of the vehicle and of any charges incurred in carrying out the provisions of this section and thereafter shall be applied in payment of any damage caused to property of the Government by the unlawful use of the vehicle or trailer and the surplus, if any, shall be paid to the owner of the vehicle or trailer, or if not claimed by the owner of the vehicle or trailer within 12 months after the date of the sale or disposal shall be forfeited to the Government.
+(4) When any vehicle or trailer is detained under this section, the Deputy Commissioner of Police or the Registrar shall with all reasonable despatch give notice in writing to the owner (if the name and address of the owner are known to him) of the seizure and if the vehicle or trailer is not claimed by its owner within one month of the date of its detention, the Deputy Commissioner of Police or the Registrar thereafter and after giving one month’s notice in theGazetteof his intention to do so may sell by public auction or otherwise dispose of the vehicle or trailer. The proceeds, if any, from the sale or disposal of any such vehicle or trailer shall be applied in payment of any licence fees which may be due in respect of the vehicle and of any charges incurred in carrying out the provisions of this section and thereafter shall be applied in payment of any damage caused to property of the Government by the unlawful use of the vehicle or trailer and the surplus, if any, shall be paid to the owner of the vehicle or trailer, or if not claimed by the owner of the vehicle or trailer within 12 months after the date of the sale or disposal shall be forfeited to the Government.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 ### Taking of motor vehicle without owner’s consent
 
@@ -1707,11 +1953,17 @@ PUBLIC SERVICE VEHICLES
 
 (f) private hire buses; that is to say, public service vehicles having seating capacity for more than 6 persons (including the driver), which do not ply for hire on any road but are hired under a contract, express or implied, for the use of each such vehicle as a whole;
 
-(g) private cars (school transport); that is to say, public service vehicles used for carrying children to and from schools and hired under a contract, express or implied, at a fixed or agreed rate or sum; and
+(g) school bus; that is to say, public service vehicles used for carrying children to and from schools and hired under a contract, express or implied, at a fixed or agreed rate or sum; and
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (h) trishaws.
 
 (2) The Minister may make rules for subdividing any class of public service vehicle, and any reference in this Part to a class of public service vehicle shall include a reference to any subdivision of such class.
+
+(3) Notwithstanding the classifications in subsection (1), the Minister may permit any class of public service vehicles to be used for any prescribed purpose.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 ### Prohibition of use of unlicensed public service vehicles
 
@@ -1793,7 +2045,9 @@ Provided that the Registrar shall not issue a public service vehicle licence to 
 
 (a) owing to any defects in the vehicle in respect of which the licence is issued, the vehicle is or is likely to become unfit for service;
 
-(b) having regard to the conduct of the holder of the licence or to the manner in which the vehicle is being used, it appears to the Registrar that the licence should be suspended or revoked; or
+(b) having regard to the conduct of the holder of the licence or to the manner in which the vehicle is being used, it appears to the Registrar that the licence should be suspended or revoked;
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (c) in the case of a public service vehicle licence issued in respect of a taxi, the holder of the licence —
 
@@ -1801,7 +2055,13 @@ Provided that the Registrar shall not issue a public service vehicle licence to 
 
 (ii) holds more than one public service vehicle licence issued in respect of a taxi; or
 
-(iii) has ceased to carry on his vocation as a taxi-driver.
+(iii) has ceased to carry on his vocation as a taxi-driver; or
+
+[Act 7 of 1990 wef 02/04/1990]
+
+(d) the licensee has contravened or failed to comply with any of the provisions of this Act or the rules.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 ### Public stands
 
@@ -2093,7 +2353,9 @@ MISCELLANEOUS PROVISIONS
 
 129\.—(1) If any person —
 
-(a) for the purpose of obtaining under the provisions of this Act the grant of any licence to himself or to any other person or the variation of any licence or for the purpose of preventing the grant or variation of any licence or of procuring the imposition of any condition or limitation in relation to a licence makes any statement or declaration which to his knowledge is false or in any material respect misleading;
+(a) in relation to an application made under this Act or the rules for the registration of a vehicle, the grant of any permit or licence to himself or any other person, or for the purpose of preventing the grant or variation of any licence or of procuring the imposition of any condition or limitation in relation to a licence, makes any statement or declaration which is false or in any material respect misleading;
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (b) furnishes any particulars in connection with a change of the registration of any vehicle which to his knowledge are false or in any material respect misleading; or
 
@@ -2153,7 +2415,9 @@ he shall, unless he establishes to the satisfaction of the court that he acted w
 
 shall be liable on conviction, where no special penalty is provided in the case of the first offence, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months and in the case of a second or subsequent offence to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months.
 
-(2) If any person committing an offence under this Act is a company, the managing director or other manager in Singapore of the company who is privy to the offence shall also be liable to the like punishment.
+(2) If any person committing an offence under this Act or the rules is a company, the managing director or other manager in Singapore of the company who is privy to the offence shall also be liable to the like punishment.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 (3) Every summons issued for an offence, and every notice or other document required or authorised to be given or served, under this Act or any rules or orders made thereunder may be served on any person —
 
@@ -2203,7 +2467,9 @@ shall be liable on conviction, where no special penalty is provided in the case 
 
 (6) Upon a person arrested in pursuance of a warrant issued under subsection (5) being produced before it, a court shall proceed as though he were produced before it in pursuance of section 136 of the Criminal Procedure Code [Cap. 68] and shall at the conclusion of the proceedings call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and if cause is not shown may order him to pay such fine not exceeding $2,000 as the court thinks fit or may commit him to prison for a term not exceeding 2 months.
 
-(7) A police officer not below the rank of inspector specially authorised by name in that behalf by the Minister by notification in theGazettemay, at any time before the date specified in the notice, cancel the notice.
+(7) A police officer not below the rank of sergeant specially authorised by name in that behalf by the Minister by notification in theGazettemay, at any time before the date specified in the notice, cancel the notice.
+
+[Act 7 of 1990 wef 02/04/1990]
 
 ### Minister may prescribe forms of notices
 
@@ -2468,3 +2734,8 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 21/89 published on 14 March 1989)|
 ||Date of Second and Third Readings|7 April 1989|
 ||Date of commencement|17 April 1989|
+|28.|**Act 7 of 1990—Road Traffic (Amendment) Act 1990**|
+||Date of First Reading|26 February 1990|
+|||(Bill No. 5/90 published on 27 February 1990)|
+||Date of Second and Third Readings|28 March 1990|
+||Date of commencement|2 April 1990|
