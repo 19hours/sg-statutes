@@ -748,9 +748,15 @@ ELECTIONS
 
 (2B) The written consent of the candidate shall be endorsed on the nomination paper.
 
-(3) Every candidate shall, at the time of his nomination, deliver to the Returning Officer a statutory declaration of his qualifications made and subscribed by the candidate in Form 10 in the First Schedule.
+(3) Every candidate shall, at the time of his nomination, deliver to the Returning Officer —
 
-(3A) If the statutory declaration under subsection (3) is not so delivered, the nomination of the candidate shall be deemed to be void.
+(a) a statutory declaration of his qualifications and subscribed by the candidate in Form 10 in the First Schedule; and
+
+(b) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act 2000.
+
+[20/2000 wef 15/02/2001]
+
+(3A) If the statutory declaration under subsection (3) (a) or the political donation certificate which is required by subsection (3) (b) to be delivered is not so delivered, the nomination of the candidate shall be deemed to be void.
 
 (4) The Returning Officer may, at any time between the date of the notice of the writ referred to in section 25 and 12 noon of the day of nomination, supply a form of nomination paper and statutory declaration to any registered elector requiring them.
 
@@ -830,7 +836,11 @@ shall apply in the prescribed manner to the appropriate Committee for a certific
 
 (3) Every candidate in a group shall, at the time of the nomination of the group, deliver to the Returning Officer —
 
-(a) a statutory declaration of his qualifications and the political party for which he stands (if any) made and subscribed by the candidate in Form 10 in the First Schedule; and
+(a) a statutory declaration of his qualifications and the political party for which he stands (if any) made and subscribed by the candidate in Form 10 in the First Schedule;
+
+(aa) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act 2000; and
+
+[20/2000 wef 15/02/2001]
 
 (b) if he is a person belonging to —
 
@@ -950,11 +960,11 @@ the sum deposited shall be forfeited and paid into the Consolidated Fund.
 
 ### Proceedings on nomination day
 
-29\.—(1) The Returning Officer shall, on the day of nomination, attend at the place of nomination from 11 a.m. until 12 noon to receive nomination papers, statutory declarations and certificates (if any) issued under section 27A(6) (referred to in this Act as nomination papers).
+29\.—(1) The Returning Officer shall, on the day of nomination, attend at the place of nomination from 11 a.m. until 12 noon to receive nomination papers, statutory declarations, political donation certificates issued by the Registrar of Political Donations and certificates (if any) issued under section 27A(6) (referred to in this Act as nomination papers).
 
 [10/88]
 
-(2) Every nomination paper, certificate and statutory declaration must be delivered to the Returning Officer together with a true copy of each on the day and at the place and between the hours aforesaid by the candidate, and if not so delivered, shall be rejected.
+(2) Every such nomination paper, certificate and statutory declaration must be delivered to the Returning Officer together with a true copy of each on the day and at the place and between the hours aforesaid by the candidate, and if not so delivered, shall be rejected.
 
 [10/88]
 
@@ -2864,6 +2874,12 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|14 May 1999|
 |47.|**1999 Revised Edition—Parliamentary Elections Act**|
 ||Date of operation|30 December 1999|
+|48.|**Act 20 of 2000—Political Donations Act 2000**|
+||(Related amendments made to Act by)||
+||Date of First Reading|9 May 2000|
+|||(Bill No. 15/2000 published on 10 May 2000)|
+||Date of Second and Third Readings|22 May 2000|
+||Date of commencement|15 February 2001|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
