@@ -1850,3 +1850,9 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|2 February 1996|
 |6.|**G. N. No. S 77/1998—Environmental Public Health Act (Amendment of Fourth Schedule) Notification 1998**|
 ||Date of commencement|1 March 1998|
+|7.|**Act 9 of 1999—Environmental Pollution Control Act 1999**|
+||(Consequential amendments made by)||
+||Date of First Reading|20 January 1999|
+|||(Bill No. 2/99 published on 21 January 1999)|
+||Date of Second and Third Readings|11 February 1999|
+||Date of commencement|1 April 1999|
