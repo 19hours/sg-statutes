@@ -738,83 +738,115 @@ The question is whetherAhas a right to a fishery. A deed conferring the fishery 
 
 14\. Facts showing the existence of any state of mind, such as intention, knowledge, good faith, negligence, rashness, ill-will or good-will towards any particular person, or showing the existence of any state of body or bodily feeling, are relevant when the existence of any such state of mind or body or bodily feeling is in issue or relevant.
 
-Explanation 1.—A fact relevant as showing the existence of a relevant state of mind must show that the state of mind exists not generally but in reference to the particular matter in question.
+Explanation1.—A fact relevant as showing the existence of a relevant state of mind must show that the state of mind exists not generally but in reference to the particular matter in question.
 
-Explanation 2.—But where upon the trial of a person accused of an offence the previous commission by the accused of an offence is relevant within the meaning of this section, the previous conviction of such person shall also be a relevant fact.
+Explanation— 2.—But where upon the trial of a person accused of an offence the previous commission by the accused of an offence is relevant within the meaning of this section, the previous conviction of such person shall also be a relevant fact.
 
 Illustrations
 
-(a)Ais accused of receiving stolen goods, knowing them to be stolen. It is proved that he was in possession of a particular stolen article.
+(a)
+
+Ais accused of receiving stolen goods, knowing them to be stolen. It is proved that he was in possession of a particular stolen article.
 
 The fact that at the same time he was in possession of many other stolen articles is relevant as tending to show that he knew each and all of the articles of which he was in possession to be stolen.
 
-(b)Ais accused of fraudulently delivering to another person a counterfeit coin, which at the time when he delivered it he knew to be counterfeit.
+(b)
+
+Ais accused of fraudulently delivering to another person a counterfeit coin, which at the time when he delivered it he knew to be counterfeit.
 
 The fact that at the time of its deliveryAwas possessed of a number of other pieces of counterfeit coin is relevant.
 
 The fact thatAhad been previously convicted of delivering to another person as genuine a counterfeit coin, knowing it to be counterfeit, is relevant.
 
-(c)AsuesBfor damage done by a dog ofB’s, whichBknew to be ferocious.
+(c)
+
+AsuesBfor damage done by a dog ofB’s, whichBknew to be ferocious.
 
 The facts that the dog had previously bittenX,YandZand that they had made complaints toBare relevant.
 
-(d) The question is whetherA, the acceptor of a bill of exchange, knew that the name of the payee was fictitious.
+(d)
+
+The question is whetherA, the acceptor of a bill of exchange, knew that the name of the payee was fictitious.
 
 The fact thatAhad accepted other bills drawn in the same manner before they could have been transmitted to him by the payee, if the payee had been a real person, is relevant, as showing thatAknew that the payee was a fictitious person.
 
-(e)Ais accused of defamingBby publishing an imputation intended to harm the reputation ofB.
+(e)
+
+Ais accused of defamingBby publishing an imputation intended to harm the reputation ofB.
 
 The fact of previous publications byArespectingBshowing ill-will on the part ofAtowardsBis relevant, as provingA’sintention to harmB’sreputation by the particular publication in question.
 
 The facts that there was no previous quarrel betweenAandBand thatArepeated the matter complained of as he heard it, are relevant as showing thatAdid not intend to harm the reputation ofB.
 
-(f)Ais sued byBfor fraudulently representing toBthatCwas solvent, wherebyBbeing induced to trustC, who was insolvent, suffered loss.
+(f)
+
+Ais sued byBfor fraudulently representing toBthatCwas solvent, wherebyBbeing induced to trustC, who was insolvent, suffered loss.
 
 The fact that at the time whenArepresentedCto be solventCwas supposed to be solvent by his neighbours, and by persons dealing with him, is relevant, as showing thatAmade the representation in good faith.
 
-(g)Ais sued byBfor the price of work done byBupon a house of whichAis owner by the order ofC, a contractor.
+(g)
+
+Ais sued byBfor the price of work done byBupon a house of whichAis owner by the order ofC, a contractor.
 
 A’sdefence is thatB’scontract was withC.
 
 The fact thatApaidCfor the work in question is relevant as providing thatAdid in good faith make over toCthe management of the work in question, so thatCwas in a position to contract withBonC’sown account and not as agent forA.
 
-(h)Ais accused of the dishonest misappropriation of property which he had found, and the question is whether, when he appropriated it he believed in good faith that the real owner could not be found.
+(h)
+
+Ais accused of the dishonest misappropriation of property which he had found, and the question is whether, when he appropriated it he believed in good faith that the real owner could not be found.
 
 The fact that public notice of the loss of the property had been given in the place whereAwas, is relevant as showing thatAdid not in good faith believe that the real owner of the property could not be found.
 
 The fact thatAknew or had reason to believe that the notice was given fraudulently byCwho had heard of the loss of the property and wished to set up a false claim to it, is relevant as showing that the fact thatAknew of the notice did not disproveA’sgood faith.
 
-(i)Ais charged with shooting atBwith intent to kill him.
+(i)
+
+Ais charged with shooting atBwith intent to kill him.
 
 In order to showA’sintent, the fact ofA’shaving previously shot atBmay be proved.
 
-(j)Ais charged with sending threatening letters toB.
+(j)
+
+Ais charged with sending threatening letters toB.
 
 Threatening letters previously sent byAtoBmay be proved as showing the intention of the letters.
 
-(k) The question is whetherAhas been guilty of cruelty towardsBhis wife.
+(k)
+
+The question is whetherAhas been guilty of cruelty towardsBhis wife.
 
 Expression of their feelings towards each other shortly before or after the alleged cruelty are relevant facts.
 
-(l) The question is whetherA’sdeath was caused by poison.
+(l)
+
+The question is whetherA’sdeath was caused by poison.
 
 Statements made byAduring his illness as to his symptoms are relevant facts.
 
-(m) The question is, what was the state ofA’shealth at the time when an assurance on his life was effected? Statements made byAas to the state of his health at or near the time in question are relevant facts.
+(m)
 
-(n)AsuesBfor negligence in providing him with a motor car for hire not reasonably fit for use wherebyAwas injured.
+The question is, what was the state ofA’shealth at the time when an assurance on his life was effected? Statements made byAas to the state of his health at or near the time in question are relevant facts.
+
+(n)
+
+AsuesBfor negligence in providing him with a motor car for hire not reasonably fit for use wherebyAwas injured.
 
 The fact thatB’sattention was drawn on other occasions to the defect of that particular motor car is relevant.
 
 The fact thatBwas habitually negligent about the motor cars which he let to hire is irrelevant.
 
-(o)Ais tried for the murder ofBby intentionally shooting him dead.
+(o)
+
+Ais tried for the murder ofBby intentionally shooting him dead.
 
 The fact thatAon other occasions shot atBis relevant as showing his intention to shootB.
 
 The fact thatAwas in the habit of shooting at people with intent to murder them is irrelevant.
 
-(p)Ais tried for a crime.
+(p)
+
+Ais tried for a crime.
 
 The fact that he said something indicating an intention to commit that particular crime is relevant.
 
@@ -914,27 +946,37 @@ Asays toB: “Go and askC,Cknows all about it”.C’sstatement is an admission.
 
 Illustrations
 
-(a) The question betweenAandBis whether a certain deed is or is not forged.Aaffirms that it is genuine;Bthat it is forged.
+(a)
+
+The question betweenAandBis whether a certain deed is or is not forged.Aaffirms that it is genuine;Bthat it is forged.
 
 Amay prove a statement byBthat the deed is genuine, andBmay prove a statement byAthat the deed is forged; butAcannot prove a statement by himself that the deed is genuine, nor canBprove a statement by himself that the deed is forged.
 
-(b)A, the captain of a ship, is tried for casting her away.
+(b)
+
+A, the captain of a ship, is tried for casting her away.
 
 Evidence is given to show that the ship was taken out of her proper course.
 
 Aproduces a book kept by him in the ordinary course of his business, showing observations alleged to have been taken by him from day to day, and indicating that the ship was not taken out of her proper course.Amay prove these statements because they would be admissible between third parties if he were dead under section 32(b).
 
-(c)Ais accused of a crime committed by him at Singapore. He produces a letter written by himself and dated at Penang on that day, and bearing the Penang postmark of that day.
+(c)
+
+Ais accused of a crime committed by him at Singapore. He produces a letter written by himself and dated at Penang on that day, and bearing the Penang postmark of that day.
 
 The statement in the date of the letter is admissible, because if A were dead it would be admissible under section 32(b).
 
-(d)Ais accused of receiving stolen goods, knowing them to be stolen.
+(d)
+
+Ais accused of receiving stolen goods, knowing them to be stolen.
 
 He offers to prove that he refused to sell them below their value.
 
 Amay prove these statements though they are admissions, because they are explanatory of conduct influenced by facts in issue.
 
-(e)Ais accused of fraudulently having in his possession counterfeit coin which he knew to be counterfeit.
+(e)
+
+Ais accused of fraudulently having in his possession counterfeit coin which he knew to be counterfeit.
 
 He offers to prove that he asked a skilful person to examine the coin as he doubted whether it was counterfeit or not, and that that person did examine it and told him it was genuine.
 
@@ -1332,15 +1374,19 @@ The existence of a decree in favour of the defendant in a suit byAagainstCfor a 
 
 ### Judgments, etc., other than those mentioned in sections 42 to 44 when relevant
 
-45\. Judgments, orders or decrees other than those mentioned in sections 42, 43 and 44 are irrelevant unless the existence of such judgment, order or decree is a fact in issue or is relevant under some other provision of this Act.
+45\. Judgments, orders or decrees other than those mentioned in sections 42, 43(1) and 44 are irrelevant unless the existence of such judgment, order or decree is a fact in issue or is relevant under some other provision of this Act.
 
 Illustrations
 
-(a)AandBseparately sueCfor a libel which reflects upon each of them.Cin each case says that the matter alleged to be libellous is true, and the circumstances are such that it is probably true in each case or in neither.
+(a)
+
+AandBseparately sueCfor a libel which reflects upon each of them.Cin each case says that the matter alleged to be libellous is true, and the circumstances are such that it is probably true in each case or in neither.
 
 Aobtains a decree againstCfor damages on the ground thatCfailed to make out his justification. The fact is irrelevant as betweenBandC.
 
-(b)AprosecutesBunder section 498 of the Penal Code for enticing awayC,A’swife.
+(b)
+
+AprosecutesBunder section 498 of the Penal Code for enticing awayC,A’swife.
 
 Bdenies thatCisA’swife, but the court convictsB.
 
@@ -1348,15 +1394,21 @@ AfterwardsCis prosecuted for bigamy in marryingBduringA’slifetime.Csays that s
 
 The judgment againstBis irrelevant as againstC.
 
-(c)Ahas obtained a decree for the possession of land againstB.C,B’sson, murdersAin consequence.
+(c)
+
+Ahas obtained a decree for the possession of land againstB.C,B’sson, murdersAin consequence.
 
 The existence of the judgment is relevant as showing motive for a crime.
 
-(d)Ais charged with theft and with having been previously convicted of theft.
+(d)
+
+Ais charged with theft and with having been previously convicted of theft.
 
 The previous conviction is relevant as a fact in issue.
 
-(e)Ais tried for the murder ofB. The fact thatBprosecutedAfor libel and thatAwas convicted and sentenced is relevant under section 8 as showing the motive for the fact in issue.
+(e)
+
+Ais tried for the murder ofB. The fact thatBprosecutedAfor libel and thatAwas convicted and sentenced is relevant under section 8 as showing the motive for the fact in issue.
 
 ### Relevance of convictions and acquittals
 
@@ -1538,7 +1590,7 @@ Character when relevant
 
 57\. In civil cases, the fact that the character of any person is such as to affect the amount of damages which he ought to receive is relevant.
 
-Explanation.—In sections 54, 55, 56 and 57, the word “character” includes both reputation and disposition; but, except as provided in section 56, evidence may be given only of general reputation and general disposition, and not of particular acts by which reputation or disposition are shown.
+Explanation.—In sections 54, 55, 56 and 57, the word “character” includes both reputation and disposition; but, except as provided in section 56, evidence may be given only of general reputation and general disposition, and not of particular acts by which reputation or disposition are shown..
 
 ## PART II
 
@@ -2990,7 +3042,7 @@ BANKERS’ BOOKS
 
 ## THE SCHEDULE
 
-Section 80A
+Section 80A(1)
 
 Statutory Body
 
@@ -3015,6 +3067,10 @@ Commercial and Industrial Security Corporation Act (Chapter 47).
 5. Building and Construction Authority
 
 Building and Construction Authority Act 1999 (Act 4 of 1999).
+
+5A. Defence Science and Technology Agency
+
+Defence Science and Technology Agency Act 2000.
 
 6. Economic Development Board
 
@@ -3077,6 +3133,8 @@ Trade Development Board Act (Chapter 330).
 Urban Redevelopment Authority Act (Chapter 340).
 
 [S 414/92]
+
+[9/2000 wef 15/03/2000]
 
 [41/99 wef 01/12/1999]
 
@@ -3211,3 +3269,10 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of Second and Third Readings|23 November 1999|
 ||Date of commencement|1 December 1999|
 |||(item 8(2) in the Fourth Schedule)|
+|29.|**Act 9 of 2000—Defence Science and Technology Agency Act 2000**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 January 2000|
+|||(Bill No. 1/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|21 February 2000|
+||Date of commencement|15 March 2000|
+|||(item (2) in the Schedule)|
