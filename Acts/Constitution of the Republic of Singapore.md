@@ -310,12 +310,6 @@
 
 - [110 Appointment, etc., of public officers](#Appointment-etc-of-public-officers)
 
-- [110A Education Service Commission](#Education-Service-Commission)
-
-- [110B Police and Civil Defence Services Commission](#Police-and-Civil-Defence-Services-Commission)
-
-- [110C Provisions applicable to Education Service Commission and Police and Civil Defence Services Commission](#Provisions-applicable-to-Education-Service-Commission-and-Police-and-Civil-Defence-Services-Commission)
-
 - [110D Personnel boards](#Personnel-boards)
 
 - [111 Legal Service Commission](#Legal-Service-Commission)
@@ -324,7 +318,7 @@
 
 - [112 Protection of pension rights](#Protection-of-pension-rights)
 
-- [113 Power of Public Service Commission , the Education Service Commission, the Police and Civil Defence Services Commission and Legal Service Commission in relation to pensions, etc.](#Power-of-Public-Service-Commission--the-Education-Service-Commission-the-Police-and-Civil-Defence-Services-Commission-and-Legal-Service-Commission-in-relation-to-pensions-etc)
+- [113 Power of Public Service Commission and Legal Service Commission in relation to pensions, etc.](#Power-of-Public-Service-Commission-and-Legal-Service-Commission-in-relation-to-pensions-etc)
 
 - [114 Pensions, etc., to be charged on Pension Fund, or Consolidated Fund](#Pensions-etc-to-be-charged-on-Pension-Fund-or-Consolidated-Fund)
 
@@ -996,9 +990,9 @@ and the vacancy shall be filled by a new member nominated by the Chairman of the
 
 [Act 17/94]
 
-(g) the Chairmen of the Education Service Commission and the Police and Civil Defence Services Commission, and the persons appointed thereto under Articles 110A(1) (c) and 110B(1) (c), respectively;
+(g) the Chief Valuer;
 
-[Act 17/94 wef 01/10/1994]
+[Act 11/98]
 
 (h) the Auditor-General;
 
@@ -2696,7 +2690,7 @@ THE PUBLIC SERVICE
 
 (iii) the office of Judge of the Supreme Court;
 
-(iv) the office of member of the Public Service Commission, the Legal Service Commission, the Education Service Commission or the Police and Civil Defence Services Commission;
+(iv) the office of member of the Public Service Commission or the Legal Service Commission;
 
 [12/90]
 
@@ -2834,77 +2828,9 @@ Provided that a member, other than the Chairman may be appointed to hold office 
 
 [78
 
-### Education Service Commission
-
-110A\.—(1) There shall be an Education Service Commission which shall consist of —
-
-(a) a Chairman (being either the Chairman or a Deputy Chairman of the Public Service Commission) appointed in writing under the hand of the President if the President, acting in his discretion, concurs with the advice of the Prime Minister who shall, before tendering such advice, consult the Chairman of the Public Service Commission;
-
-[12/90]
-
-[5/91]
-
-(b) two members of the Public Service Commission nominated generally or specially by the Chairman of the Public Service Commission of whom one shall be nominated as the Deputy Chairman of the Education Service Commission; and
-
-(c) two persons appointed in writing under the hand of the President if he, acting in his discretion, concurs with the advice of the Prime Minister.
-
-[5/91]
-
-(2) It shall be the duty of the Education Service Commission to appoint, confirm, emplace on the permanent or pensionable establishment, promote, transfer, dismiss and exercise disciplinary control over all public officers in the Education Service of the Singapore Civil Service.
-
-[Act 17/94 wef 01/10/1994]
-
-### Police and Civil Defence Services Commission
-
-110B\.—(1) There shall be a Police and Civil Defence Services Commission which shall consist of —
-
-(a) a Chairman (being either the Chairman or a Deputy Chairman of the Public Service Commission) appointed in writing under the hand of the President if the President, acting in his discretion, concurs with the advice of the Prime Minister who shall, before tendering such advice, consult the Chairman of the Public Service Commission;
-
-[12/90]
-
-[5/91]
-
-(b) two members of the Public Service Commission nominated generally or specially by the Chairman of the Public Service Commission of whom one shall be nominated as the Deputy Chairman of the Police and Civil Defence Services Commission; and
-
-(c) two persons appointed in writing under the hand of the President if he, acting in his discretion, concurs with the advice of the Prime Minister.
-
-[5/91]
-
-(2) It shall be the duty of the Police and Civil Defence Services Commission to appoint, confirm, emplace on the permanent or pensionable establishment, promote, transfer, dismiss and exercise disciplinary control over all public officers in the Police Service and the Civil Defence Service, including the transfer of such officers between those Services.
-
-[Act 17/94 wef 01/10/1994]
-
-(3) [Deleted by Act 17/94 wef 01/10/1994]
-
-(4) In this Article, the reference to the Police Service and the Civil Defence Service shall be construed as a reference to the Singapore Police Force, the Singapore Civil Defence Force and any other services as the President may, after consultation with the Chairman of the Public Service Commission, by notification in theGazette, designate as part of the Police Service or the Civil Defence Service.
-
-### Provisions applicable to Education Service Commission and Police and Civil Defence Services Commission
-
-110C\.—(1) The provisions of this Article shall have effect in relation to the Education Service Commission and to the Police and Civil Defence Services Commission, and “Commission” in this Article shall be construed accordingly.
-
-[12/90]
-
-(2) The Commission may, subject to such conditions as it thinks fit, delegate to any member of the Commission, to any public officer or other person, or to any board consisting of public officers or other persons appointed by it, any of its functions in respect of any grade of service, and that member, officer, person or board shall exercise those functions under the direction and control of the Commission.
-
-(3) At any meeting of the Commission, 3 members who shall include either its Chairman or Deputy Chairman shall form a quorum; and if a quorum is present, the Commission shall not be disqualified for the transaction of business by reason of any vacancy among its members, and any proceeding of the Commission shall be valid notwithstanding that some person not entitled to do so took part therein.
-
-(4) The Commission may, subject to the provisions of this Constitution, regulate its own procedure and make rules for that purpose, and may, in connection with the discharge of its functions, confer powers and impose duties on any person or any authority of the Government.
-
-(5) The Commission shall appoint the Secretary of the Public Service Commission, or any other public officer, to be Secretary of the Commission.
-
-(6) The Chairman of the Commission shall be appointed for a period of not less than 3 years and not more than 5 years except that —
-
-(a) he shall cease to be Chairman if he ceases to be the Chairman or Deputy Chairman of the Public Service Commission; and
-
-(b) the first Chairman may be appointed for a period of less than 3 years.
-
-(7) Articles 105(6), 106, 107 and 108 shall apply to a member of the Commission appointed under Article 110A(1)(c) or 110B(1)(c) as they apply to a member of the Public Service Commission.
-
-(8) Before assuming the duties of his office, a member of the Commission appointed under Article 110A(1)(c) or 110B(1)(c) shall take and subscribe before the Chief Justice or some other Judge of the Supreme Court the Oath for the due execution of his office in the form (with necessary modifications) applicable to a member of the Public Service Commission as set out in the First Schedule.
-
 ### Personnel boards
 
-110D\.—(1) Subject to the provisions of this Article, the President may, on the advice of the Prime Minister and by order in theGazette, establish one or more personnel boards to exercise all or any of the powers and functions of the Public Service Commission, the Education Service Commission and the Police and Civil Defence Services Commission in respect of the public officers each Commission has charge of under Articles 110, 110A and 110B, respectively.
+110D\.—(1) Subject to the provisions of this Article, the President may, on the advice of the Prime Minister and by order in theGazette, establish one or more personnel boards to exercise all or any of the powers and functions of the Public Service Commission under Article 110.
 
 (2) The order under clause (1) shall specify the powers and functions to be exercised by a personnel board and the class or classes of public officers in respect of which those powers and functions may be exercised except the following:
 
@@ -2914,13 +2840,13 @@ Provided that a member, other than the Chairman may be appointed to hold office 
 
 and any power of appointment specified in the order as to be exercised by a personnel board shall not include a power to dismiss any person so appointed.
 
-(3) Where the President has by order established a personnel board under clause (1) for the purpose of exercising any of the powers or functions of a Commission referred to in that clause, such power or function —
+(3) Where the President has by order established a personnel board under clause (1) for the purpose of exercising any of the powers or functions of the Public Service Commission, such power or function —
 
-(a) may be exercised by such personnel board notwithstanding anything in Articles 110(1) and (4), 110A(2) and 110B(2); and
+(a) may be exercised by such personnel board notwithstanding anything in Article 110(1) and (4); and
 
 (b) shall, so long as it remains a power or function to be exercised by the board pursuant to such order, cease to be exercisable by that Commission except to the extent permitted under clause (4).
 
-(4) Subject to regulations made under clause (7), any person aggrieved by any decision of any personnel board may, within such time and in such manner as may be prescribed, appeal to the Commission referred to in clause (1) which would have exercised the powers of that personnel board if this Article had not been enacted, and the decision of any such Commission shall be final.
+(4) Subject to regulations made under clause (7), any person aggrieved by any decision of any personnel board may, within such time and in such manner as may be prescribed, appeal to the Public Service Commission, and the decision of the Commission shall be final.
 
 (5) Subject to clause (6), a personnel board which is established to exercise any power over officers in Division I shall consist of such persons as the President may, on the advice of the Prime Minister, appoint except that the President may, acting in his discretion, refuse to make any such appointment if he does not concur with the advice of the Prime Minister.
 
@@ -2940,9 +2866,9 @@ and any power of appointment specified in the order as to be exercised by a pers
 
 (c) prescribe the manner of appeals under clause (4); and
 
-(d) modify the application of clause (4) by providing that appeals under that clause shall be made first to such person or persons as may be appointed by the President but without prejudice to the right to appeal thereafter to a Commission.
+(d) modify the application of clause (4) by providing that appeals under that clause shall be made first to such person or persons as may be appointed by the President but without prejudice to the right to appeal thereafter to the Public Service Commission.
 
-(8) Nothing in this Article shall affect any direction or delegation issued before the commencement of this Article by the Education Service Commission, the Police and Civil Defence Services Commission or the Public Service Commission under Article 110C(2) or 116(3), as the case may be, and this Article shall not apply to any power or function of these Commissions so long it forms the subject of any such direction or delegation.
+(8) Nothing in this Article shall affect any direction or delegation issued before the commencement of this Article by the Public Service Commission under Article 116(3), and this Article shall not apply to any power or function of these Commissions so long it forms the subject of any such direction or delegation.
 
 [Act 17/94 wef 01/10/1994]
 
@@ -3000,7 +2926,7 @@ and any power of appointment specified in the order as to be exercised by a pers
 
 [79
 
-### Power of Public Service Commission , the Education Service Commission, the Police and Civil Defence Services Commission and Legal Service Commission in relation to pensions, etc.
+### Power of Public Service Commission and Legal Service Commission in relation to pensions, etc.
 
 113\.—(1) Where under any written law any person or authority has a discretion —
 
@@ -3008,11 +2934,11 @@ and any power of appointment specified in the order as to be exercised by a pers
 
 (b) to withhold, reduce in amount or suspend any such award that has been made,
 
-that award shall be made and may not be withheld, reduced in amount or suspended unless the Public Service Commission, the Education Service Commission, the Police and Civil Defence Services Commission or the Legal Service Commission, as the case may be, concurs in the refusal to grant the award or, as the case may be, in the decision to withhold, reduce in amount or suspend it.
+that award shall be made and may not be withheld, reduced in amount or suspended unless the Public Service Commission or the Legal Service Commission, as the case may be, concurs in the refusal to grant the award or, as the case may be, in the decision to withhold, reduce in amount or suspend it.
 
 [Act 41/96 wef 12/11/1996]
 
-(2) Where the amount of any award that may be made to any person is not fixed by law, the amount of the award to be made to him shall be the greatest amount for which he is eligible unless the Public Service Commission , the Education Service Commission, the Police and Civil Defence Services Commissionor the Legal Service Commission, as the case may be, concurs in the making of an award of a smaller amount.
+(2) Where the amount of any award that may be made to any person is not fixed by law, the amount of the award to be made to him shall be the greatest amount for which he is eligible unless the Public Service Commission or the Legal Service Commission, as the case may be, concurs in the making of an award of a smaller amount.
 
 [Act 41/96 wef 12/11/1996]
 
@@ -3022,9 +2948,7 @@ that award shall be made and may not be withheld, reduced in amount or suspended
 
 ### Pensions, etc., to be charged on Pension Fund, or Consolidated Fund
 
-114\. Pensions, gratuities and other like allowances granted in respect of the public service shall be charged on and paid out of, in the first instance, the Pension Fund established by the Pension Fund Act 1995 and, if that Fund is deficient, the Consolidated Fund.
-
-(1) Pensions, gratuities and other like allowances granted in respect of the public service shall be charged on and paid out, in the first instance, the Pension Fund established by the Pension Fund Act 1995 and, if that Fund is deficient, the Consolidated Fund.
+114\.—(1) Pensions, gratuities and other like allowances granted in respect of the public service shall be charged on and paid out, in the first instance, the Pension Fund established by the Pension Fund Act 1995 and, if that Fund is deficient, the Consolidated Fund.
 
 [Act 11/98]
 
@@ -3033,10 +2957,6 @@ that award shall be made and may not be withheld, reduced in amount or suspended
 (2) Notwithstanding clause (1), the Legislature may by law provide that any pension, gratuity or other allowance granted in respect of public service otherwise than in a civil capacity may be paid out of another Government Fund in lieu of the Pension Fund and the Consolidated Fund.
 
 [Act 11/98]
-
-[80A
-
-[Act 7/95 wef 01/04/1995 vide S 136/95]
 
 ### Pension rights on transfer
 
@@ -3676,7 +3596,7 @@ Provided that the expenditure so authorised for any service or purpose shall not
 
 (2) The Prime Minister shall, before tendering any advice under clause (1), consult the Chairman of the Public Service Commission.
 
-(3) It shall be the duty of the Auditor-General to audit and report on the accounts of all departments and offices of the Government, the Public Service Commission, the Legal Service Commission, the Education Service Commission, the Police and Civil Defence Services Commission, the Supreme Court, all subordinate courts and Parliament.
+(3) It shall be the duty of the Auditor-General to audit and report on the accounts of all departments and offices of the Government, the Public Service Commission, the Legal Service Commission, the Supreme Court, all subordinate courts and Parliament.
 
 (4) The Auditor-General shall perform such other duties and exercise such other powers in relation to the accounts of the Government and accounts of other public authorities and other bodies administering public funds as may be prescribed by or under any written law.
 
@@ -4224,7 +4144,7 @@ Appointment of Nominated Members of Parliament
 
 5\. As soon as practicable after 10th September 1990, the President shall on the nomination of the Special Select Committee appoint not more than 6 persons as nominated Members of Parliament.
 
-6\. Where under section 3 the Special Select Committee has nominated less than 9 persons for appointment by the President as nominated Members, the Committee may, if it thinks fit, from time to time nominate one or more persons for the President to appoint as nominated Members but the number of persons so nominated together with the number of persons already nominated under section 3a Commission shall not exceed 9.
+6\. Where under section 3 the Special Select Committee has nominated less than 9 persons for appointment by the President as nominated Members, the Committee may, if it thinks fit, from time to time nominate one or more persons for the President to appoint as nominated Members but the number of persons so nominated together with the number of persons already nominated under section 3 shall not exceed 9.
 
 7. Sections 2 and 3(2) shall apply to any nomination made by the Special Select Committee under section 4, 5 or 6; and for the purpose of section 4(1) the Committee may invite the general public to submit names of persons who may be considered for nomination by the Committee before the seat of the nominated Member has become vacant.
 
@@ -4451,3 +4371,8 @@ This Legislative History is provided for the convenience of users of the Constit
 |||(Bill No. 9/98 published on 20 February 1998)|
 ||Date of Second and Third Readings|20 March 1998|
 ||Date of commencement|31 March 1998 (sections 1 and 7)|
+|35.|**Act 11 of 1998—Constitution of the Republic of Singapore (Amendment) Act 1998**|
+||Date of First Reading|19 February 1998|
+|||(Bill No. 9/98 published on 20 February 1998)|
+||Date of Second and Third Readings|20 March 1998|
+||Date of commencement|1 April 1998 (sections 3, 4, 5, 6, 8 and 9)|
