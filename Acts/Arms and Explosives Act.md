@@ -158,7 +158,7 @@ PRELIMINARY
 
 (a) the Commercial and Industrial Security Corporation; or
 
-(b) any other auxiliary police force established under any written law and which is authorised by the Licensing Officer to accept the deposit of guns, arms or explosives under section 19(1);
+(b) any other auxiliary police force established under the Police Force Act 2004 and which is authorised by the Licensing Officer to accept the deposit of guns, arms or explosives under section 19(1);
 
 “carriage” includes any carriage, wagon, cart, truck or other vehicle used for the conveyance of goods or passengers by land, in whatever manner the same is propelled or moved;
 
@@ -236,7 +236,7 @@ PRELIMINARY
 
 (iv) members of the Singapore Police Force or any other police force on duty in Singapore;
 
-(v) members of the Special Constabulary, additional constables and peace officers;
+(v) members of the Special Constabulary or any Auxiliary Police Force created under the Police Force Act 2004, and any additional constables and peace officers;
 
 (vi) dog-shooters employed by the Government;
 
@@ -1164,6 +1164,12 @@ This Legislative History is provided for the convenience of users of the Arms an
 ||Date of commencement|21 March 2003|
 |31.|**2003 Revised Edition—Arms and Explosives Act**|
 ||Date of operation|31 July 2003|
+|32.|**Act 24 of 2004—Police Force Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 May 2004|
+|||(Bill No. 22/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|12 October 2004|
 ## COMPARATIVE TABLE
 
 Arms and Explosives Act
