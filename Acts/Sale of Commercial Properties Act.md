@@ -56,6 +56,8 @@ An Act to regulate the sales of separate units of commercial properties in a com
 
 “building” includes any completed building, or any building partially completed or to be erected, and intended for any strata subdivision as shown in a development plan approved by the relevant competent authority under the Planning Act 1998 or is comprised in one or more lots as shown in a strata title plan lodged with the Registrar of Titles;
 
+[3/1998 wef 01/04/1998]
+
 “Building Authority” has the same meaning as in the Building Control Act [Cap. 29];
 
 “commercial property” means a horizontal stratum of any building or part thereof, whether such stratum is on one or more levels or is partially or wholly below the surface of the ground, and is intended for use in accordance with the provisions of any written law as a complete and separate unit for any purpose other than a residential purpose;
@@ -116,6 +118,8 @@ An Act to regulate the sales of separate units of commercial properties in a com
 
 (b) applied for the grant of subdivision permission under section 14 of the Planning Act 1998 or complied with the requirements of the competent authority necessary for the purpose of obtaining written permission for such strata subdivision;
 
+[3/1998 wef 01/04/1998]
+
 (c) employed any registered surveyor who has in force a practising certificate to carry out the necessary surveys and prepare the necessary plans for submission to the Chief Surveyor to enable a subsidiary strata certificate of title to be issued for the commercial property, or has failed to cause amendments to these plans to be made as required by the Chief Surveyor;
 
 [Act 24/91 wef 30/08/1991]
@@ -169,6 +173,14 @@ the Controller may, in his discretion, issue directions in writing to the develo
 (iii) the requirements to be fulfilled before a vendor can require a purchaser to pay an instalment which is due; and
 
 (iv) the percentage of the total purchase price, which the purchaser shall not be required to pay before the certificate of fitness is issued by the Building Authority;
+
+(ca) require the disclosure in any sale and purchase agreement of any limited common property comprised in the commercial property to be sold;
+
+[47/2004 wef 01/04/2005]
+
+(cb) prescribe any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and modify the application of any of the provisions of this Act in relation to staged developments;
+
+[47/2004 wef 01/04/2005]
 
 (d) regulate the form or forms of an agreement for the sale and purchase of any commercial property; and
 
@@ -240,3 +252,9 @@ This Legislative History is provided for the convenience of users of the Sale of
 |||(Bill No. 18/1997 published on 20 November 1997)|
 ||Date of Second and Third Readings|14 January 1998|
 ||Date of commencement|1 April 1998|
+|6.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|6 February 2004|
+|||(Bill No. 6/2004 published on 7 February 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 April 2005|
