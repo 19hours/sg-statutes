@@ -2280,6 +2280,8 @@ C
 
 is the foreign tax paid,
 
+shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
+
 (3) Where the account is in credit at the date on which any dividends are paid by the company out of the income which has been credited to that account, an amount equal to such dividends or to the credit in that account, whichever is the less, shall be debited to the account.
 
 (4) So much of the amount of any dividends debited to the account as is received by a shareholder of the company shall, if the Comptroller is satisfied with the entries in the account, be exempt from tax in the hands of the shareholder.
@@ -2910,13 +2912,21 @@ E
 
 is the gains or profits from the exercise of any employment in Singapore by the NOR individual referred to in section 10(2)(a), (5) and (5A), but excluding —
 
-(a) such perquisite as may be determined by the Comptroller;
+(a)
 
-(b) leave pay;
+such perquisite as may be determined by the Comptroller;
 
-(c) director’s fee; and
+(b)
 
-(d) gains or profits from employment deemed to be income of the NOR individual under section 51(1).
+leave pay;
+
+(c)
+
+director’s fee; and
+
+(d)
+
+gains or profits from employment deemed to be income of the NOR individual under section 51(1).
 
 [Act 37/2002, wef Y/A 2003 & Sub Ys/A:2002-ACT-37]
 
@@ -9596,6 +9606,16 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 58/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|17 November 2004|
 ||Date of commencement|1 October 2003 (Section 28(d))|
+|170.|**Act 21 of 2003—Income Tax (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 28/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|1 November 2003 (Section 23)|
+|171.|**Act 49 of 2004—Income Tax (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 58/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|1 November 2003 (Sections 26(a), (b), (c), 54(b), (c)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
