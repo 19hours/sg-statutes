@@ -148,6 +148,10 @@
 
 [**Part VII INTERNATIONAL MATTERS**](#Part-VII)
 
+[**The Madrid Protocol, etc.**](#The-Madrid-Protocol-etc)
+
+- [54 Power to make provision giving effect to Madrid Protocol, etc.](#Power-to-make-provision-giving-effect-to-Madrid-Protocol-etc)
+
 [**The Paris Convention and the TRIPS Agreement: supplementary provisions**](#The-Paris-Convention-and-the-TRIPS-Agreement:-supplementary-provisions)
 
 - [55 Protection of well-known trade marks: Article 6bis of Paris Convention, etc.](#Protection-of-well-known-trade-marks:-Article-6bis-of-Paris-Convention-etc)
@@ -742,22 +746,6 @@ Cancellation, revocation and invalidity
 
 (4) Any commencement or resumption of use referred to in subsection (3) after the expiry of the 5 year period but within the period of 3 months before the making of the application for revocation shall be disregarded unless preparations for the commencement or resumption began before the proprietor became aware that the application might be made.
 
-(5) The registration of —
-
-(a) a trade mark which consists of a geographical indication; or
-
-(b) that part of a trade mark which is a geographical indication,
-
-may be revoked if the geographical indication —
-
-(i) is not protected;
-
-(ii) has ceased to be protected; or
-
-(iii) has fallen into disuse,
-
-in its country of origin.
-
 (6) An application for revocation may be made by any person, and may be made either to the Registrar or to the Court, except that —
 
 (a) if proceedings concerning the trade mark in question are pending in the Court, the application must be made to the Court; and
@@ -1031,6 +1019,10 @@ any aggrieved person may bring proceedings for relief under this section.
 (4) If the defendant showed that the acts in respect of which proceedings were threatened constitute (or if done would constitute) an infringement of the registered trade mark concerned, the plaintiff is nevertheless entitled to relief if he shows that the registration of the trade mark is invalid or liable to be revoked in a relevant respect.
 
 (5) The mere notification that a trade mark is registered, or that an application for registration has been made, does not constitute a threat of proceedings for the purposes of this section.
+
+(6) Nothing in this section shall render an advocate and solicitor liable to an action under this section in respect of an act done by him in his professional capacity on behalf of a client.
+
+[28/2000 wef 01/11/2000]
 
 ## PART IV
 
@@ -1363,6 +1355,38 @@ any goods or things to which a trade mark bearing any representation prohibited 
 ## PART VII
 
 INTERNATIONAL MATTERS
+
+The Madrid Protocol, etc.
+
+### Power to make provision giving effect to Madrid Protocol, etc.
+
+54\.—(1) The Minister may make rules to give effect in Singapore to the provisions of the Madrid Protocol or of any treaty, convention, arrangement or engagement relating to trade marks to which Singapore is a party.
+
+(2) Rules may, in particular, be made to provide for —
+
+(a) the making of applications for international registrations by way of the Registry as office of origin;
+
+(b) the procedures to be followed where the basic Singapore application or registration fails or ceases to be in force;
+
+(c) the procedures to be followed where the Registry receives from the International Bureau or any body specified in the rules a request for extension of protection to Singapore;
+
+(d) the effects of a successful request for extension of protection to Singapore;
+
+(e) the transformation of an application for an international registration, or an international registration, into a national application for registration;
+
+(f) the communication of information to the International Bureau; and
+
+(g) the payment of fees and amounts prescribed in respect of applications for international registrations, extensions of protection and renewals.
+
+(3) Provision may also be made in the rules to apply in relation to an international trade mark (Singapore) the provisions of section 35 and Parts VI and X.
+
+(4) For the purposes of this section —
+
+“International Bureau” has the meaning given by Article 2(1) of the Madrid Protocol;
+
+“international trade mark (Singapore)” means a trade mark which is entitled to protection in Singapore under the Madrid Protocol or a trade mark prescribed by the Minister as an international trade mark (Singapore);
+
+“Madrid Protocol” means the Protocol relating to the Madrid Agreement concerning the International Registration of Marks, adopted at Madrid on 27th June 1989, as revised or amended from time to time.
 
 The Paris Convention and the TRIPS Agreement: supplementary provisions
 
@@ -2542,3 +2566,8 @@ This Legislative History is provided for the convenience of users of the Trade M
 |||(Bill No. 42/1998 published on 13 October 1998)|
 ||Date of Second and Third Readings|26 November 1998|
 ||Date of commencement|31 October 2000 (section 54)|
+|7.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
+||Date of First Reading|25 August 2000|
+|||(Bill No. 22/2000 published on 26 August 2000)|
+||Date of Second and Third Readings|9 October 2000|
+||Date of commencement|1 November 2000|
