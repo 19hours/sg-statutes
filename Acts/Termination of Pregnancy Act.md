@@ -22,7 +22,7 @@
 
 - [8 Power to inspect approved institutions and examine records, etc.](#Power-to-inspect-approved-institutions-and-examine-records-etc)
 
-- [9 Charges for treatment to terminate pregnancy](#Charges-for-treatment-to-terminate-pregnancy)
+- [9 (Deleted)](#Deleted)
 
 - [10 Relief from certain restrictions where treatment consists solely of drugs](#Relief-from-certain-restrictions-where-treatment-consists-solely-of-drugs)
 
@@ -56,8 +56,6 @@ An Act relating to termination of pregnancy by authorised medical practitioners 
 
 “authorised medical practitioner” means any medical practitioner who is authorised under any regulations made under this Act to carry out treatment to terminate pregnancy;
 
-“Government hospital” means any hospital, maternity home or clinic under the control of the Minister;
-
 “law relating to abortion” means sections 312, 313, 314, and 315 of the Penal Code [Cap. 224];
 
 “medical practitioner” means any person registered under the Medical Registration Act [Cap. 174].
@@ -68,7 +66,7 @@ An Act relating to termination of pregnancy by authorised medical practitioners 
 
 3\.—(1) Subject to the provisions of this Act, no person shall be guilty of an offence under the law relating to abortion when a pregnancy is terminated by an authorised medical practitioner acting on the request of a pregnant woman and with her written consent.
 
-(2) Except as provided by section 10, every treatment to terminate pregnancy shall be carried out by an authorised medical practitioner in a Government hospital or in an approved institution.
+(2) Except as provided by section 10, every treatment to terminate pregnancy shall be carried out by an authorised medical practitioner in an approved institution.
 
 (3) No treatment to terminate pregnancy shall be carried out by an authorised medical practitioner unless the pregnant woman —
 
@@ -94,7 +92,7 @@ but this subsection shall not apply to any treatment to terminate pregnancy whic
 
 (i) is in possession of such surgical or obstetric qualifications as may be prescribed; or
 
-(ii) has acquired special skill in such treatment either in practice or by virtue of holding an appointment in a Government hospital or in an approved institution over such period as may be prescribed.
+(ii) has acquired special skill in such treatment either in practice or by virtue of holding an appointment in an approved institution over such period as may be prescribed.
 
 (2) For the purposes of subsection (1), the duration of the pregnancy shall be calculated from the first day of the last normal menstruation of the pregnant woman to the end of the 24th week or to the end of any week between the 16th and the 24th week, as the case may be, or the duration of the pregnancy may be ascertained by clinical examination.
 
@@ -128,17 +126,7 @@ shall, unless the pregnant woman expressly gives her consent thereto, disclose a
 
 8\. Any public officer, appointed by the Minister for the purpose, shall have power to enter any approved institution for the purpose of ensuring that the provisions of this Act, and any regulations made thereunder, are being complied with and may examine and make copies of or take extracts from any records or documents connected with any treatment to terminate pregnancy.
 
-### Charges for treatment to terminate pregnancy
-
-9\.—(1) Where treatment to terminate a pregnancy is carried out in a Government hospital the fee payable for the treatment shall be $5.
-
-(2) Any additional hospital costs that may be incurred in the Government hospital where the treatment is carried out shall be borne by the pregnant woman.
-
-(3) The Minister may from time to time by notification in theGazettevary the fee payable for the treatment specified in subsection (1).
-
-[10 in the 1970 Revised Edition was repealed by Act 32/80.1
-
-1Section 9
+9\. [Repealed by Act 26/2001 wef 01/09/2001]
 
 ### Relief from certain restrictions where treatment consists solely of drugs
 
@@ -146,7 +134,7 @@ shall, unless the pregnant woman expressly gives her consent thereto, disclose a
 
 (a) for the authorised medical practitioner to hold the prescribed qualifications or to have acquired skill in the treatment over such period as may be prescribed; and
 
-(b) for the treatment to be carried out in a Government hospital or in an approved institution.
+(b) for the treatment to be carried out in an approved institution.
 
 [11
 
@@ -194,3 +182,9 @@ This Legislative History is provided for the convenience of users of the Termina
 ||Date of commencement|9 January 1981|
 |3.|**1985 Revised Edition—Termination of Pregnancy Act**|
 ||Date of operation|30 March 1987|
+|4.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 September 2001|
+|||(section 18)|
