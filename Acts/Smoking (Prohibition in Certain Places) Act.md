@@ -1,14 +1,12 @@
-**Smoking (Prohibition in Certain Places) Act 1992**
+**Smoking (Prohibition in Certain Places) Act**
 
-**(No. 6 of 1992)**
+**(CHAPTER 310)**
 
 **Table of Contents**
 
 [**Long Title**](#Smoking-Prohibition-in-Certain-Places-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -28,45 +26,27 @@
 
 - [10 Exemption](#Exemption)
 
-- [11 Repeal and transitional](#Repeal-and-transitional)
+- [11 Transitional](#Transitional)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Smoking (Prohibition in Certain Places) Act
 
-ACTS SUPPLEMENT
+(CHAPTER 310)
 
-Published by Authority
+(Original Enactment: Act 6 of 1992)
 
-NO. 14]
+REVISED EDITION 1993
 
-Friday, April 3
+(15th March 1993)
 
-[1992
+An Act to prohibit smoking in specified places and vehicles, and to provide for matters connected therewith.
 
-The following Act was passed by Parliament on 27th February 1992 and assented to by the President on 18th March 1992:—
+[6th April 1992]
 
-Smoking (Prohibition In Certain Places) Act 1992
+### Short title
 
-(No. 6 of 1992)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-18th March 1992.
-
-Date of Commencement: 6th April 1992
-
-An Act to repeal and re-enact with amendments the Smoking (Prohibition in Certain Places) Act (Chapter 310 of the 1985 Revised Edition) and to prohibit smoking in specified places and vehicles, and to provide for matters connected therewith.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the Smoking (Prohibition in Certain Places) Act 1992 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Smoking (Prohibition in Certain Places) Act.
 
 ### Interpretation
 
@@ -78,7 +58,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 “operator”, in relation to a specified vehicle, means any owner, ticket or tour conductor, driver, ticket inspector or person who is in charge or control of the specified vehicle;
 
-“public health officer” has the same meaning as in the Environmental Public Health Act;
+“public health officer” has the same meaning as in the Environmental Public Health Act [Cap. 95];
 
 “public officer” includes any officer of any statutory body who is authorised in writing in that behalf by the Commissioner to carry out all or any of the powers conferred on a public officer by any of the provisions of this Act;
 
@@ -106,7 +86,7 @@ as being a place or places or a vehicle or vehicles in which smoking shall not b
 
 4\.—(1) Any person reasonably suspected of having committed an offence under this Act may be arrested without warrant by any police officer or public health officer or by any public officer authorised in writing in that behalf by the Commissioner (referred to in this section as the authorised public officer) and produced before a Magistrate’s Court or a District Court.
 
-(2) Notwithstanding any other written law, any police officer, public health officer or authorised public officer who, having effected an arrest in accordance with subsection (1), is satisfied as to the identity, name and place of residence of the person arrested, the officer may, instead of producing such person before a Court or to a police station, serve upon such person a notice in such form as may be determined under section 9 requiring the person to attend at such Court, at such time and on such date as may be specified in the notice.
+(2) Notwithstanding any other written law, any police officer, public health officer or authorised public officer who, having effected an arrest in accordance with subsection (1), is satisfied as to the identity, name and place of residence of the person arrested may, instead of producing such person before a Court or to a police station, serve upon such person a notice in such form as may be determined under section 9 requiring the person to attend at such Court, at such time and on such date as may be specified in the notice.
 
 (3) For the purpose of satisfying himself as to the identity of the person arrested, the police officer, public health officer or authorised public officer may require such evidence of identity as he may consider necessary to be furnished by that person.
 
@@ -126,13 +106,13 @@ as being a place or places or a vehicle or vehicles in which smoking shall not b
 
 (b) shall, if so directed by the Commissioner, display such notices in such places, phrase them in such manner or cause them to be of such size, as the Commissioner may consider fit.
 
-(2) The manager or operator may, subject to any direction that may be given by the Commissioner under subsection (1)(b), in addition to such notices, adopt any means, method or device as he may think fit for bringing such prohibition to the attention of members of the public in the specified place or passengers in a specified vehicle.
+(2) The manager or operator may, subject to any direction that may be given by the Commissioner under subsection (1)(b), in addition to such notices, adopt any means, method or device as he may think fit for bringing such prohibition to the attention of members of the public in any specified place or passengers in any specified vehicle.
 
 (3) A manager of any specified place or any operator of any specified vehicle who contravenes any of the provisions of subsection (1) or fails to comply with any directions given by the Commissioner under that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 ### Duties of managers or operators of specified places and vehicles
 
-6\.—(1) The manager of any specified place or the operator of any specified vehicle shall inform any person who smokes in any specified place or specified vehicle in contravention of any notification made under section 3(1) to cease smoking immediately, indicating the penalty provided under section 3(2), and if such person refuses, neglects or fails to cease smoking, he shall request such person to leave the specified place or specified vehicle immediately.
+6\.—(1) The manager of any specified place or the operator of any specified vehicle shall inform any person who smokes in the specified place or specified vehicle in contravention of any notification made under section 3(1) to cease smoking immediately, indicating the penalty provided under section 3(2), and if such person refuses, neglects or fails to cease smoking, he shall request such person to leave the specified place or specified vehicle immediately.
 
 (2) If any such person refuses to leave the specified place or specified vehicle or to cease smoking, the manager or operator referred to in subsection (1) shall —
 
@@ -172,9 +152,38 @@ as being a place or places or a vehicle or vehicles in which smoking shall not b
 
 10\. The Minister may, subject to such conditions as he may in his discretion impose, exempt any specified place or any specified vehicle from all or any of the provisions of this Act, either permanently or for such period or periods as he may determine.
 
-### Repeal and transitional
+### Transitional
 
-11\.—(1) The Smoking (Prohibition In Certain Places) Act [Cap. 310] is repealed (referred to in this section as the repealed Act).
+11\. Any form used for the purposes of the repealed Smoking (Prohibition in Certain Places) Act [Cap. 310, 1985 Ed] which was in force or in effect immediately before 6th April 1992 shall continue in force and have effect as though designed under this Act until new forms are so designed or determined.
 
-(2) Any form used for the purposes of the repealed Act which was in force or in effect immediately before the commencement of this Act shall continue in force and have effect as though designed under this Act until new forms are so designed or determined.
+## LEGISLATIVE HISTORY
 
+Smoking (Prohibition in Certain Places) Act
+
+(CHAPTER 310)
+
+This Legislative History is provided for the convenience of users of the Smoking (Prohibition in Certain Places) Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 26 of 1970—Prohibition on Smoking in Certain Places Act 1970**|
+||Date of First Reading|7 May 1970|
+|||(Bill No. 19/1970 published on 11 May 1970)|
+||Date of Second and Third Readings|21 May 1970|
+||Date of commencement|1 October 1970|
+|2.|**1970 Revised Edition—Prohibition on Smoking in Certain Places Act (Chapter 165)**|
+||Date of operation|31 May 1971|
+|3.|**Act 57 of 1973—Prohibition on Smoking in Certain Places (Amendment) Act 1973**|
+||Date of First Reading|28 August 1973|
+|||(Bill No. 49/1973 published on 31 August 1973)|
+||Date of Second and Third Readings|30 November 1973|
+||Date of commencement|1 March 1974|
+|4.|**1985 Revised Edition—Smoking (Prohibition in Certain Places) Act (Chapter 310)**|
+||Date of operation|30 March 1987|
+|5.|**Act 6 1992—Smoking (Prohibition in Certain Places) Act 1992**|
+||Date of First Reading|15 January 1992|
+|||(Bill No. 8/92 published on 16 January 1992)|
+||Date of Second and Third Readings|27 February 1992|
+||Date of commencement|6 April 1992|
+|6.|**1993 Revised Edition—Smoking (Prohibition in Certain Places) Act (Chapter 310)**|
+||Date of operation|15 March 1993|
