@@ -472,8 +472,6 @@ and “employer” and other cognate expressions shall be construed accordingly;
 
 “employment pass” means an employment pass issued by the Controller of Immigration under the Immigration Regulations (Cap.133, Rg 1);
 
-[1/98 wef 23/01/1998]
-
 “executor” means any executor, administrator or other person administering the estate of a deceased person;
 
 “goods” includes currency and specie;
@@ -530,8 +528,6 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 
 “professional visit pass” means a professional visit pass issued by the Controller of Immigration under the Immigration Regulations (Cap. 133, Rg 1);
 
-[1/98 wef 23/01/1998]
-
 “replanting” means the replacement of the crop of any product on any area of land by the planting on the same area —
 
 (a) of a crop of the same product; or
@@ -575,8 +571,6 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 “tax” means the income tax imposed by this Act;
 
 “work permit” means a work permit issued by the Controller of Work Permits under the Employment of Foreign Workers Act (Cap. 91A);
-
-[1/98 wef 23/01/1998]
 
 “year of assessment” means the period of 12 months commencing on such date as the Minister may, by notification in theGazette, appoint, and each subsequent period of 12 months.1
 
@@ -780,15 +774,9 @@ is the amount of balancing charge.
 
 (c) notwithstanding paragraphs (a) and (b), any gains or profits derived by him by any exercise of a right or benefit to acquire shares in a company listed on the Stock Exchange of Singapore shall be the last done price on the listing date of the shares so acquired less the amount paid for such shares;
 
-[Act 1/98, Wef 23/01/1998]
-
 (d) “the last done price on the listing date”, in relation to any shares referred to in paragraph (c), means the price of such shares in the open market at the last transaction on the date on which such shares are first listed on the Stock Exchange of Singapore after the acquisition of such shares by him; and
 
-[Act 1/98, Wef 23/01/1998]
-
 (e) “shares” includes stocks.
-
-[Act 1/98, Wef 23/01/1998]
 
 [26/73]
 
@@ -1016,11 +1004,7 @@ shall be deemed to be income accruing to the employee for the year in which the 
 
 (1AA) Subsection (1A) shall not apply to contributions made by an employer in any year from 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass, an employment pass or a work permit in that year.
 
-[Act 1/98, Wef 23/01/1998]
-
 (1B) Notwithstanding subsection (1)(a), where on or after 1st January 1995, contributions are made by any employer in any month to the medisave account of an employee maintained under the Central Provident Fund Act [Cap. 36] in lieu of hospitalisation benefits which the employer is obliged to provide by reason of a contract of employment, such contributions up to 1% of his ordinary wages for that month or $60, whichever is the less, shall subject to subsections (1C) and (1D) not be deemed to be income accruing to the employee.
-
-[Act 1/98, Wef 23/01/1998]
 
 [32/95]
 
@@ -1029,8 +1013,6 @@ shall be deemed to be income accruing to the employee for the year in which the 
 [32/95]
 
 (1D) Subsection (1B) shall not apply to contributions made by an employer in any year from 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass, an employment pass or a work permit in that year.
-
-[Act 1/98, Wef 23/01/1998]
 
 (2) Notwithstanding subsection (1)(b), where in any year from 1st January 1989 all the ordinary wages of an employee paid in that year do not exceed $72,000, and his total wages paid in the same year —
 
@@ -1118,8 +1100,6 @@ whichever is the less;
 
 (iii) any losses incurred in respect of onshore finance leasing or onshore operating leasing shall be available as a deduction against any other income in accordance with such regulations as may be prescribed.
 
-[Act 1/98, Wef 23/01/1998]
-
 (3) In this section —
 
 “finance lease” means a lease of any machinery or plant (including any arrangement or agreement in connection with the lease) which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of such machinery or plant to the lessee;
@@ -1131,8 +1111,6 @@ whichever is the less;
 “onshore leasing” means the leasing, other than offshore leasing, of any machinery or plant;
 
 “onshore operating leasing” means the onshore leasing of any machinery or plant, other than onshore finance leasing.
-
-[Act 1/98, Wef 23/01/1998]
 
 ### Ascertainment of income of investment holding company
 
@@ -1569,8 +1547,6 @@ EXEMPTION FROM INCOME TAX
 [2/92]
 
 (p) for a period of 10 years from the commencement of its business, such income of the Singapore Commodity Exchange Limited as may be prescribed;
-
-[Act 1/98, Wef 23/01/1998]
 
 [28/92]
 
@@ -2134,9 +2110,33 @@ as the case may be.
 
 ### Exemption of income of venture company
 
-13H\.—(3) The Comptroller shall determine the manner and extent to which allowances under section 19, 19A, 20, 21 or 22 and any expenses, losses and donations allowable under this Act which are attributable to the income referred to in subsection (1) are to be deducted.
+13H\.—(1) The Minister may by regulations prescribe that any income of an approved venture company derived by it from making approved investments —
 
-(4) In determining the income of an approved venture company which is exempt from tax under regulations made under subsection (1) for any year of assessment, there shall be deducted therefrom —
+(a) shall be exempt from tax; or
+
+(b) notwithstanding section 43, shall be taxed at such concessionary rate, not being more than 10%, as the Minister, or such person as the Minister may appoint, may specify for each year of assessment.
+
+[Act 31/98, Wef 14/08/1998]
+
+(2) Regulations made under subsection (1) may provide for the determination of the amount of the income of an approved venture company to be exempted or taxed at a concessionary rate and for the deduction of losses otherwise than in accordance with section 37.
+
+[Act 31/98, Wef 14/08/1998]
+
+(2A) The exemption from tax or tax at a concessionary rate of the income of an approved venture company under regulations made under subsection (1) —
+
+(a) shall be for such period, not exceeding 10 years, as the Minister, or such person as the Minister may appoint, may specify; and
+
+(b) in any particular case after the period referred to in paragraph (a), shall be for such further period or periods, not exceeding 5 years at any one time for each period, as the Minister, or such person as the Minister may appoint, may specify.
+
+[Act 31/98, Wef 14/08/1998]
+
+(2B) The total period under subsection (2A)(a) and the further period or periods under subsection (2A)(b) shall not in the aggregate exceed 15 years.
+
+[Act 31/98, Wef 14/08/1998]
+
+(3) The Comptroller shall determine the manner and extent to which allowances under section 19, 19A, 20, 21 or 22 and any expenses, losses and donations allowable under this Act which are attributable to the income referred to in subsection (1) are to be deducted.
+
+(4) In determining the income of an approved venture company which is exempt from tax or taxed at a concessionary rate under regulations made under subsection (1) for any year of assessment, there shall be deducted therefrom —
 
 (a) expenses and donations allowable under this Act for that year of assessment which are attributable to that income;
 
@@ -2148,13 +2148,25 @@ as the case may be.
 
 (5) Any expenses, donations, allowances or losses referred to in subsection (4) shall only be deducted against the income of an approved venture company exempt from tax under regulations made under subsection (1) and shall not be available as a deduction against any other income of the company, except that any balance of the expenses, donations, allowances or losses remaining unabsorbed at the end of the tax exempt period of the company shall be available as a deduction against any other income of the company for the year of assessment which relates to the basis period in which the tax exemption ceases and for any subsequent year of assessment in accordance with section 23 or 37, as the case may be.
 
-(6) The Comptroller shall for each year of assessment approved venture company a statement showing the amount of income exempt from tax under regulations made under subsection (1) and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
+(5A) Where the income of an approved venture company is taxed at a concessionary rate under regulations made under subsection (1) —
+
+(a) any expenses, donations, allowances or losses referred to in subsection (4) shall only be deducted against such income, and any balance of the expenses, donations, allowances or losses for any year of assessment shall, subject to sections 23, 37 and 37B, be available as a deduction against any other income of the company for that year of assessment and for any subsequent year of assessment; and
+
+(b) notwithstanding subsection (5), where the income of the company was exempted from tax immediately before being taxed at a concessionary rate, the balance referred to in subsection (5) shall firstly be deducted against the income taxed at a concessionary rate and thereafter shall be available for deduction against any other income of the company for the year of assessment which relates to the basis period in which the tax exemption ceases, and subsequent years of assessment, in accordance with section 23 or 37, as the case may be.
+
+[Act 31/98, Wef 14/08/1998]
+
+(6) The Comptroller shall for each year of assessment for which the income of an approved venture company is exempt from tax under regulations made under subsection (1) issue to the approved venture company a statement showing the amount of income exempt from tax under regulations made under subsection (1) and Parts XVII and XVIII (relating to objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
 
 [Act 31/98, Wef 14/08/1998]
 
 (7) Subject to subsection (8), where any statement issued to an approved venture company under subsection (6) has become final and conclusive, the amount of income shown therein shall not form part of the statutory income of the company for the year of assessment to which the statement relates and shall be exempt from tax.
 
 (8) The Comptroller may, before any such statement has become final and conclusive, treat a specified amount of the income of an approved venture company as exempt from tax pending such statement becoming final and conclusive.
+
+(9) As soon as any amount of the income of an approved venture company has been exempt from tax or subject to tax at a concessionary rate under regulations made under subsection (1), the amount of the income exempted or the net amount of the income after deduction of the tax shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purpose of this section.
+
+[Act 31/98, Wef 14/08/1998]
 
 (10) Where the account of an approved venture company is in credit at the date on which any dividends are paid by the company out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the account.
 
@@ -2170,13 +2182,13 @@ as the case may be.
 
 (16) Notwithstanding anything in this section, where it appears to the Comptroller that —
 
-(a) any income of an approved venture company which has been exempted from tax ; or
+(a) any income of an approved venture company which has been exempted from tax or subject to tax at a concessionary rate under regulations made under subsection (1); or
 
 [Act 31/98, Wef 14/08/1998]
 
 (b) any dividend (including a dividend paid by a company to which subsection (13) applies) which has been exempted from tax in the hands of any shareholder,
 
-ought not to have been so exempted, the Comptroller may, at any time within 6 years from the date of the statement referred to in subsection (6)—
+ought not to have been so exempted, or taxed at a concessionary rate for any year of assessment, the Comptroller may, at any time within 6 years after the expiration of that year of assessment—
 
 (i) make such assessment or additional assessment upon the company or any such shareholder as may appear to be necessary in order to make good any loss of tax; or
 
@@ -2282,8 +2294,6 @@ of the remuneration paid by the employer to the employee for that period, and �
 
 (iii) no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass, an employment pass or a work permit or who would be required to obtain such a pass or permit if he were to work in Singapore;
 
-[Act 1/98, Wef 23/01/1998]
-
 [26/93]
 
 [7/79]
@@ -2302,9 +2312,11 @@ of the remuneration paid by the employer to the employee for that period, and �
 
 [26/93]
 
-(ea) any sum contributed by an employer in any month to the medisave account maintained under the Central Provident Fund Act in respect of any of his employees engaged in activities relating to the production of the income of the employer and which is not deemed to be the income of the employee under section 10C(1B), subject to a maximum deduction of 1% of the ordinary wages of the employee for that month or $60, whichever is the less, for each employee:
+(ea) any sum contributed by an employer in any month to the medisave account maintained under the Central Provident Fund Act [Cap. 36] in respect of any of his employees engaged in activities relating to the production of the income of the employer and which is not deemed to be the income of the employee under section 10C(1B), subject to a maximum deduction of 1% of the ordinary wages of the employee for that month or $60, whichever is the less, for each employee:
 
 Provided that no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of an employee who holds a professional visit pass, an employment pass or a work permit or who would be required to obtain such a pass or permit if he were to work in Singapore;
+
+[32/95]
 
 (f) zakat, fitrah or any religious dues, payment of which is made under any written law;
 
@@ -3602,8 +3614,6 @@ is the aggregate of the initial and annual allowances made in respect of the mot
 
 (5A) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(2C) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act [Cap. 276] and the rules made thereunder except where the motor car is registered outside Singapore and used exclusively outside Singapore.
 
-[Act 1/98, Wef 23/01/1998]
-
 [9/80]
 
 (6) In this section, “open-market price”, in relation to any machinery or plant, means the price which the machinery or plant would have fetched if sold in the open market at the time of the event in question; except that, where the Comptroller is satisfied by reason of the special nature of any machinery or plant that it is not practicable to determine an open-market price, he may adopt such other value as appears to him to be reasonable in the circumstances.
@@ -4022,13 +4032,9 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 (e) derived during the period from 1st January 1992 to 31st December 1992 shall be treated as his statutory income for the year of assessment 1993 and be charged to tax at the rate applicable to him for that year of assessment;
 
-[Act 1/98, Wef 23/01/1998]
-
 [26/93]
 
 (f) derived during the period from 1st January 1995 to 31st December 1995 shall be treated as his statutory income for the year of assessment 1996 and be charged to tax at the rate applicable to him for that year of assessment.
-
-[Act 1/98, Wef 23/01/1998]
 
 [1/90]
 
@@ -4312,8 +4318,6 @@ Deduction for wife
 
 (a) had a wife living with or maintained by him, there shall be allowed a deduction equal to the amount by which the sum of $2,000 exceeds the amount of income chargeable in the wife’s own name;
 
-[Act 1/98, Wef 23/01/1998]
-
 [1/82]
 
 [1/90]
@@ -4322,8 +4326,6 @@ Deduction for alimony
 
 (b) paid alimony to a previous wife whose marriage with him has been dissolved by any court of competent jurisdiction, there shall be allowed a deduction of the amount of such alimony or $2,000 whichever is the less;
 
-[Act 1/98, Wef 23/01/1998]
-
 [1/90]
 
 Deductions for payments under order or deed
@@ -4331,8 +4333,6 @@ Deductions for payments under order or deed
 (c) made payments in accordance with an order of court or deed of separation to a wife from whom he was separated by such order or deed, there shall be allowed a deduction of the amount of such payments or $2,000 whichever is the less:
 
 Provided that the total deductions allowed to any individual under this paragraph and paragraphs (a) and (b) shall not exceed $2,000;
-
-[Act 1/98, Wef 23/01/1998]
 
 [1/90]
 
@@ -4343,8 +4343,6 @@ Deduction for handicapped spouse
 (i) who was incapacitated by reason of physical or mental infirmity;
 
 (ii) whose income (other than payment of maintenance or alimony received from that individual under an order of court or deed of separation) was not more than $2,000 in that year; and
-
-[Act 1/98, Wef 23/01/1998]
 
 [26/93]
 
@@ -4386,6 +4384,8 @@ Provided that in the case of any unmarried child incapacitated from maintaining 
 
 (B) no deduction is allowable under the Fifth Schedule, there shall be allowed a deduction of $3,500;
 
+[26/73]
+
 [1/90]
 
 [20/91]
@@ -4425,8 +4425,6 @@ Provided that —
 [23/90]
 
 (vii) notwithstanding sub-paragraph (iii), no deduction shall be allowed in respect of any sum contributed to the Central Provident Fund for the period on or after 1st January 1999 by an employee who holds a professional visit pass, an employment pass or a work permit;
-
-[Act 1/98, Wef 23/01/1998]
 
 [37/75]
 
@@ -4502,13 +4500,9 @@ Deduction for aged parents
 
 (iii) whose income was not more than $2,000 in that year; and
 
-[Act 1/98, Wef 23/01/1998]
-
 [5/83]
 
 (iv) in respect of whom no deduction has been claimed by another person under paragraph (a), (b), (c) or (ca) ,
-
-[Act 1/98, Wef 23/01/1998]
 
 [26/93]
 
@@ -4524,13 +4518,17 @@ there shall be allowed in respect of each such dependant —
 
 (A) a deduction of $4,500, where the dependant was living with him in the same household; or
 
-[Act 1/98, Wef 23/01/1998]
-
 (B) a deduction of $3,500, where the dependant was not living with him in the same household but in respect of whom a sum of not less than $2,000, or such lower sum as the Comptroller may determine, was incurred in that year by the individual in maintaining the dependant:
 
-[Act 1/98, Wef 23/01/1998]
-
 Provided that a deduction under this paragraph in respect of any one dependant shall be allowed to one person only and no person may obtain a deduction under this paragraph for more than two dependants, and where more than one individual claims a deduction in respect of the same dependant, the deduction shall be allowed to such claimant as the individuals may agree or, failing such agreement, to such claimant as determined by the Comptroller whose decision shall be final;
+
+[4/75]
+
+[5/77]
+
+[2/92]
+
+[26/93]
 
 Deduction for maintenance for handicapped siblings
 
@@ -4541,8 +4539,6 @@ Deduction for maintenance for handicapped siblings
 (ii) who was incapacitated from maintaining himself by reason of physical or mental infirmity;
 
 (iii) whose income was not more than $2,000 in that year;
-
-[Act 1/98, Wef 23/01/1998]
 
 [1/90]
 
@@ -4558,7 +4554,7 @@ there shall be allowed in respect of each such dependant a deduction of $3,500; 
 
 Deduction for course fees
 
-(h) had undertaken any course of study for the purpose of gaining an approved academic or professional qualification or such other approved course as is related to his trade, business, profession, vocation or employment, there shall be allowed a deduction of the amount incurred by him in that year on the fees (including examination and tuition fees) for the course, subject to a maximum deduction of $2,000 ; but no deduction shall be allowed under this paragraph in respect of any sum which has been allowed under section 14;
+(h) had undertaken any course of study for the purpose of gaining an approved academic or professional qualification or such other approved course as is related to his trade, business, profession, vocation or employment, there shall be allowed a deduction of the amount incurred by him in that year on the fees (including examination and tuition fees) for the course, subject to a maximum deduction of $2,000; but no deduction shall be allowed under this paragraph in respect of any sum which has been allowed under section 14;
 
 [1/90]
 
@@ -4598,11 +4594,7 @@ Deduction for national servicemen
 
 (v) no deduction under this paragraph shall be allowed to a wife of such national serviceman who is not entitled to a deduction under paragraph (i) for that year of assessment; and
 
-[Act 1/98, Wef 23/01/1998]
-
 (vi) where such national serviceman dies during the basis period for any year of assessment for which he is not entitled to a deduction under paragraph (i), no deduction under this paragraph shall be allowed to his widow for that year of assessment;
-
-[Act 1/98, Wef 23/01/1998]
 
 [Act 28/96 wef Y/A 1997 & subsq. Ys/A]
 
@@ -4614,13 +4606,9 @@ Deduction for national servicemen
 
 (iii) where such national serviceman has died, his parents shall continue to be allowed a deduction under this paragraph, except that where he dies during the basis period for any year of assessment for which he is not entitled to a deduction under paragraph (i), his parents shall not be allowed a deduction under this paragraph for that year of assessment;
 
-[Act 1/98, Wef 23/01/1998]
-
-(iv) where a parent has more than one child who is an operationally ready national serviceman, the deduction under this paragraph shall be allowed to the parent in respect of only one such national serviceman; and
+(iv) where a parent has more than one child who is an operationally ready national serviceman, the deduction under this paragraph shall be allowed to the parent in respect of only one such national serviceman ; and
 
 (v) no deduction under this paragraph shall be allowed to a parent of an operationally ready national serviceman who is not entitled to a deduction under paragraph (i) for that year of assessment.
-
-[Act 1/98, Wef 23/01/1998]
 
 [Act 28/96 wef Y/A 1997 & subsq. Ys/A]
 
@@ -5132,39 +5120,21 @@ Provided that a company shall be deemed to be an associated company in relation 
 
 (b) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of offshore finance leasing shall, subject to paragraph (c), only be deducted against the income from such leasing and any balance of the allowances shall not be available as a deduction against any other income;
 
-[Act 1/98, Wef 23/01/1998]
-
 (c) where the leasing company ceases to derive income from offshore finance leasing in the basis period for any year of assessment, any balance of the allowances after the deduction in paragraph (b) shall be available as a deduction against any other income in accordance with regulations made under subsection (3);
-
-[Act 1/98, Wef 23/01/1998]
 
 (d) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of offshore operating leasing shall firstly be deducted against the income from such leasing and any balance of the allowances shall, subject to paragraph (e), be deducted against the income from offshore finance leasing but not against any other income;
 
-[Act 1/98, Wef 23/01/1998]
-
 (e) where the leasing company ceases to derive income from offshore operating leasing in the basis period for any year of assessment, any balance of the allowances after the deduction against the income from such leasing shall be available as a deduction against any other income in accordance with regulations made under subsection (3);
-
-[Act 1/98, Wef 23/01/1998]
 
 (f) the Comptroller shall determine the manner and extent to which allowances under section 19, 19A, 20, 21, 22 or 23 and any expenses and donations allowable under this Act are to be deducted;
 
-[Act 1/98, Wef 23/01/1998]
-
 (g) any losses incurred in respect of offshore finance leasing for any year of assessment shall, subject to paragraph (h), only be deducted against the income from offshore operating leasing but not against any other income for that year of assessment and any balance of the losses shall be available for deduction for any subsequent year of assessment in accordance with section 37 firstly against the income from offshore finance leasing and thereafter against the income from offshore operating leasing;
-
-[Act 1/98, Wef 23/01/1998]
 
 (h) where the leasing company ceases to derive income from offshore finance leasing in the basis period for any year of assessment, any losses under section 37 in respect of such leasing shall firstly be deducted against the income from such leasing and any balance of the losses shall be available as a deduction against any other income in accordance with regulations made under subsection (3);
 
-[Act 1/98, Wef 23/01/1998]
-
 (i) any losses incurred in respect of offshore operating leasing for any year of assessment shall, subject to paragraph (j), only be deducted against the income from offshore finance leasing but not against any other income for that year of assessment and any balance of the losses shall be available for deduction for any subsequent year of assessment in accordance with section 37 firstly against the income from offshore operating leasing and thereafter against the income from offshore finance leasing;
 
-[Act 1/98, Wef 23/01/1998]
-
 (j) where the leasing company ceases to derive income from offshore operating leasing in the basis period for any year of assessment, any losses under section 37 in respect of such leasing shall firstly be deducted against the income from such leasing and any balance of the losses shall be available as a deduction against any other income in accordance with regulations made under subsection (3);
-
-[Act 1/98, Wef 23/01/1998]
 
 (3) The Minister may make regulations —
 
@@ -5174,15 +5144,11 @@ Provided that a company shall be deemed to be an associated company in relation 
 
 (c) generally for the determination of the income of a leasing company.
 
-[Act 1/98, Wef 23/01/1998]
-
 (4) Section 37B shall apply, with the necessary modifications, in relation to the deduction of allowances under section 19, 19A, 20, 21, 22 or 23 or losses under section 37 in respect of such part of the income of the leasing company as is subject to tax at the rate of tax under section 43(1)(a) and of such part of the income of the leasing company as is subject to tax at the concessionary rate of tax under this section; and for the purpose of such application any reference in section 37B to —
 
 (a) concessionary income shall be read as a reference to such part of the income of the leasing company as is subject to tax at the concessionary rate of tax under this section; and
 
 (b) normal income shall be read as a reference to such part of the income of the leasing company as is subject to tax at the rate of tax under section 43(1)(a).
-
-[Act 1/98, Wef 23/01/1998]
 
 (5) Notwithstanding subsection (1), a leasing company may, at any time, elect that the whole of its income accruing in or derived from Singapore in respect of offshore leasing of any machinery or plant shall be taxed at the rate prescribed by section 43(1)(a).
 
@@ -5198,8 +5164,6 @@ Provided that a company shall be deemed to be an associated company in relation 
 
 (b) any allowance or loss or the balance thereof which were not deducted against the income of the leasing company for any year of assessment during which the concessionary rate prescribed by subsection (1) applies shall be available as a deduction against its income for the first year of assessment to which paragraph (a) applies or for any subsequent year of assessment in such manner and extent as prescribed by regulations made under subsection (3).
 
-[Act 1/98, Wef 23/01/1998]
-
 [11/94]
 
 (8) In this section —
@@ -5214,15 +5178,9 @@ Provided that a company shall be deemed to be an associated company in relation 
 
 “finance lease” has the same meaning as in section 10D(3);
 
-[Act 1/98, Wef 23/01/1998]
-
 “offshore finance leasing” means the offshore leasing of any machinery or plant under any finance lease;
 
-[Act 1/98, Wef 23/01/1998]
-
 “offshore operating leasing” means the offshore leasing of any machinery or plant, other than offshore finance leasing.
-
-[Act 1/98, Wef 23/01/1998]
 
 [20/91]
 
@@ -5275,8 +5233,6 @@ and those regulations may provide for the deduction of losses otherwise than in 
 (2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(2).
 
 (3) In this section, “credit rating agency” means a company carrying on the business in Singapore of providing credit rating services.
-
-[Act 1/98, Wef 23/01/1998]
 
 ## PART XII
 
@@ -5924,7 +5880,7 @@ Trustees, agents and curators
 
 (c) any owner of such moneys who objects to the share presumed under paragraph (b) shall give notice of his objection in writing to the person declared to be the agent under subsection (1) within 28 days of the receipt of the notice of the agent under paragraph (a)(i), or within such further period as the Comptroller in his discretion may allow, and furnish proof as to his share of the moneys;
 
-(d) where an objection under paragraph (c)has been received, the person declared to be the agent shall —
+(d) where an objection under paragraph (c) has been received, the person declared to be the agent shall —
 
 (i) retain the amount of such moneys referred to in paragraph (a)(ii) until such time as the Comptroller by notice under paragraph (e) informs him of his decision on the objection; and
 
@@ -7672,8 +7628,6 @@ $300
 
 $2,000
 
-[Act 1/98, Wef 23/01/1998]
-
 [26/73]
 
 [from Y/A 1974) 1/88(fromY/A1988]
@@ -8529,3 +8483,8 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 16/97 published on 20 November 1997)|
 ||Date of Second and Third Readings|14 January 1998|
 ||Date of commencement|23 January 1998|
+|125.|**Act 31 of 1998—Income Tax (Amendment) Act 1998**|
+||Date of First Reading|29 June 1998|
+|||(Bill No. 29/98)|
+||Date of Second and Third Readings|31 July 1998|
+||Date of commencement|27 February 1998 (Section 7)|
