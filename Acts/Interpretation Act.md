@@ -184,7 +184,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “commencement”, when used with reference to an Act, means the time at which the Act comes into operation in Singapore;
 
-“common law” means the common law of England;
+“common law” means the common law in so far as it is in operation in Singapore and any custom or usage having the force of law in Singapore;
 
 “Commonwealth” or “British Commonwealth” means collectively the Commonwealth countries and includes any colony, protectorate or protected state or any other territory administered by any Commonwealth country;
 
@@ -208,7 +208,7 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “export”, with its grammatical variations and cognate expressions, means to take or cause to be taken out of Singapore by land, sea or air;
 
-“Gazette” or “GovernmentGazette” means theGazettepublished by order of the Government and includes any supplement thereto and anyGazetteExtraordinary so published;
+“Gazette” or “Government Gazette” means theGazettepublished by order of the Government and includes any supplement thereto and anyGazetteExtraordinary so published;
 
 “Government” means the Government of Singapore;
 
@@ -308,7 +308,11 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “vessel” includes floating craft of every description;
 
-“will” includes a codicil; words importing the masculine gender include females; words in the singular include the plural and words in the plural include the singular;
+“will” includes a codicil;
+
+words importing the masculine gender include females;
+
+words in the singular include the plural and words in the plural include the singular;
 
 “writing” and expressions referring to writing include printing, lithography, typewriting, photography and other modes of representing or reproducing words or figures in visible form;
 
@@ -386,7 +390,7 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 9\.—(1) Where in any Act there is a reference to a section, Part, Chapter or Schedule by number or letter only, and not in conjunction with the title or number of an Act, the reference shall be construed as a reference to the section, Part, Chapter or Schedule of that number or letter contained in the Act in which the reference occurs.
 
-(2) Where in any section of an Act there is a reference to a subsection, paragraph or sub-paragraph by number or letter only, the reference sh all be construed as a reference to the subsection, paragraph or sub-paragraph of that number or letter contained in the section in which the reference occurs.
+(2) Where in any section of an Act there is a reference to a subsection, paragraph or sub-paragraph by number or letter only, the reference shall be construed as a reference to the subsection, paragraph or sub-paragraph of that number or letter contained in the section in which the reference occurs.
 
 (3) This section shall, with suitable modification, apply to subsidiary legislation.
 
@@ -530,7 +534,7 @@ SUBSIDIARY LEGISLATION
 
 (iii) authority to prescribe new forms for the purpose thereof and for the purpose of the subsidiary legislation;
 
-(b) authority to provide for fees and charges shall include authority to provide for the reduction, waiver or refund thereof, either generally or in any particular event or case or class of cases or in the discretion of any person; and
+(b) authority to provide for fees and charges shall include authority to provide for the determination of the manner and method of payment and the reduction, waiver or refund thereof, either generally or in any particular event or case or class of cases or in the discretion of any person; and
 
 (c) a reference in a written law to another written law shall include reference to any subsidiary legislation made thereunder.
 
@@ -626,7 +630,7 @@ POWERS AND APPOINTMENTS
 
 ### Signification of orders, etc., of Minister
 
-35\. Where any written law confers upon a Minister power to make any subsidiary legislation or appointment, give any direction, issue any order, authorise any thing or matter to be done, grant any exemption, remit any fee or penalty or exercise any other power, it shall be sufficient, unless in such written law it is otherwise provided, if the exercise of such power by the Minister be signified under the hand of the Permanent Secretary to the Ministry for which the Minister is responsible.
+35\. Where any written law confers upon a Minister power to make any subsidiary legislation or appointment, give any direction, issue any order, authorise any thing or matter to be done, grant any exemption, remit any fee or penalty or exercise any other power, it shall be sufficient, unless in such written law it is otherwise provided, if the exercise of such power by the Minister be signified under the hand of the Permanent Secretary to the Ministry for which the Minister is responsible or of any public officer duly authorised in writing by the Minister.
 
 ### Delegation of powers of Minister
 
@@ -976,3 +980,11 @@ This Legislative History is provided for the convenience of users of the Interpr
 ||Date of commencement|26 January 1996|
 |10.|**1997 Revised Edition—Interpretation Act**|
 ||Date of operation|30 May 1997|
+|11.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
+
+|
+(Section 2 — Amendment of Interpretation Act)|
