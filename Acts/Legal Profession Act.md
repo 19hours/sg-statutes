@@ -570,7 +570,9 @@ Board of Legal Education
 
 (2) The Board may —
 
-(a) invest its moneys in such manner as it thinks fit, including the deposit of moneys with financial institutions and other business or professional bodies; and
+(a) invest its moneys in such manner as it thinks fit; and
+
+[45/2004 wef 15/12/2004]
 
 (b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
 
@@ -1448,6 +1450,8 @@ shall, unless he proves that the act was not done for or in expectation of any f
 
 (f) any bona fide and full-time employee of an insurance company negotiating for the settlement of or settling a claim made or contemplated against any person or body corporate in cases where the claim, arising out of personal injury or death, relates to a risk insured by that insurance company;
 
+(g) [Deleted by Act 23/2004 wef 14/09/2004]
+
 (h) any full-time member of the academic staff of any department of the National University of Singapore or of any department of law in any other institution of higher learning in Singapore who is a qualified person rendering any opinion or acting in an advisory capacity on any matter in which he has been instructed by an advocate and solicitor;
 
 (i) any accountant drawing or preparing documents in the exercise of his profession;
@@ -1477,8 +1481,6 @@ shall, unless he proves that the act was not done for or in expectation of any f
 (a) is governed by the Arbitration Act (Cap. 10) or the International Arbitration Act (Cap. 143A); or
 
 (b) would have been governed by either the Arbitration Act or the International Arbitration Act had the place of arbitration been Singapore.
-
-[23/2004 wef 14/09/2004]
 
 ### No costs recoverable by unauthorised person
 
@@ -1934,7 +1936,9 @@ Powers of Council
 
 (l) to make and give receipts, releases and other discharges for moneys payable to and for claims and demands of the Society;
 
-(m) to invest and deal with any moneys of the Society from time to time in securities authorised for the investment of trust funds by any written law for the time being in force;
+(m) to invest the moneys of the Society in such manner as it thinks fit and engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment;
+
+[45/2004 wef 15/12/2004]
 
 (n) to form or participate in the formation of any company for the purpose of carrying out all or any of the functions of the Society;
 
@@ -3644,7 +3648,7 @@ and such order for the payment of costs as may be just.
 
 [41/93]
 
-(3) , including the deposit of moneys with financial institutions and other business or professional bodies shall be served on the Society which shall —
+(3) shall be served on the Society which shall —
 
 (a) appear at the hearing of the motion; and
 
@@ -4894,6 +4898,12 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 17/2004 published on 20 May 2004)|
 ||Date of Second and Third Readings|15 June 2004|
 ||Date of commencement|14 September 2004 (sections 5 and 6)|
+|34.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
