@@ -1,14 +1,12 @@
-**Maintenance of Parents Act 1995**
+**Maintenance of Parents Act**
 
-**(No. 35 of 1995)**
+**(CHAPTER 167B)**
 
 **Table of Contents**
 
 [**Long Title**](#Maintenance-of-Parents-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -50,57 +48,39 @@
 
 - [21 Rules](#Rules)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Maintenance of Parents Act
 
-ACTS SUPPLEMENT
+(CHAPTER 167B)
 
-Published by Authority
+(Original Enactment: Act 35 of 1995)
 
-NO. 40]
+REVISED EDITION 1996
 
-Friday, November 24
-
-[1995
-
-The following Act was passed by Parliament on 2nd November 1995 and assented to by the President on 18th November 1995:—
-
-Maintenance Of Parents Act 1995
-
-(No. 35 of 1995)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-18th November 1995.
-
-Date of Commencement: 1st June 1996
+(30th April 1996)
 
 An Act to make provision for the maintenance of parents by their children and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st June 1996]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Maintenance of Parents Act 1995 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Maintenance of Parents Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“applicant” includes a person in whose favour a maintenance order has been made under the provisions of this Act;
+“applicant” includes a person in whose favour a maintenance order has been made under this Act;
 
 “approved person or organisation” means a person or an organisation that has been approved by the Minister in writing for the purposes of this Act;
 
-“child” includes an illegitimate, adopted and step-child;
+“child” includes an illegitimate or adopted child and a step-child;
 
 “Commissioner” means the Commissioner for the Maintenance of Parents appointed under section 12(1) and includes a Deputy Commissioner and an Assistant Commissioner for the Maintenance of Parents;
 
-“respondent” includes a person against whom a maintenance order has been made under the provisions of this Act;
+“respondent” includes a person against whom a maintenance order has been made under this Act;
 
 “Tribunal” means the Tribunal for the Maintenance of Parents established under section 13.
 
@@ -146,7 +126,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (4) The onus of proving abandonment, abuse or neglect shall be on the respondent alleging it.
 
-(5) Where there is more than one respondent the Tribunal may apportion the maintenance among the various respondents in such manner as may be just.
+(5) Where there is more than one respondent, the Tribunal may apportion the maintenance among the various respondents in such manner as may be just.
 
 (6) The Tribunal shall, before hearing an application under this section, refer the differences between the parties to a conciliation officer for mediation between the parties.
 
@@ -172,7 +152,9 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (b) if the maintenance was secured, on the death of the applicant.
 
-(2) Where a maintenance order was made against more than one respondent, the death of a respondent does not affect the liability of the others to continue paying maintenance to the applicant. The applicant may apply to the Tribunal to re-apportion the liability among the surviving respondents.
+(2) Where a maintenance order was made against more than one respondent, the death of a respondent does not affect the liability of the others to continue paying maintenance to the applicant.
+
+(3) The applicant may apply to the Tribunal to re-apportion the liability among the surviving respondents on the death of a respondent.
 
 ### Power of Tribunal to vary orders for maintenance
 
@@ -190,7 +172,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (e) in respect of secured maintenance, the legal personal representatives of a respondent.
 
-(3) Where a maintenance order was made against more than one respondent or another respondent is joined, the Tribunal may re-apportion the maintenance upon an application to vary the maintenance order in such manner as it considers just.
+(3) Where a maintenance order was made against more than one respondent or another respondent is joined, the Tribunal may re-apportion in such manner as it considers just the maintenance upon an application to vary the maintenance order.
 
 ### Maintenance payable under order of Tribunal to be inalienable
 
@@ -198,7 +180,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Enforcement of maintenance orders
 
-10\. Maintenance orders made under this Act shall be deemed to be orders made by a District Court and may be enforced in the same manner as maintenance orders for wives and children are enforced under the Women’s Charter, and the provisions of that Act (Cap. 353) shall apply, mutatis mutandis, to enforcement of orders made under this Act.
+10\. Maintenance orders made under this Act shall be deemed to be orders made by a District Court and may be enforced in the same manner as maintenance orders for wives and children are enforced under the Women’s Charter, and the provisions of that Act shall apply, with the necessary modifications, to enforcement of orders made under this Act.
 
 ### Applications on behalf of incapacitated applicants
 
@@ -232,9 +214,9 @@ on such terms and conditions as the Minister may determine.
 
 (2) The President and every member of the Tribunal shall be appointed by the Minister and upon appointment the names of the President and every member of the Tribunal shall be published in theGazette.
 
-(3) The President of the Tribunal shall possess the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act (Cap. 321).
+(3) The President of the Tribunal shall possess the qualifications required for a District Judge under section 9(3) of the Subordinate Courts Act [Cap. 321].
 
-(4) Three members of the Tribunal of whom the President shall be one shall form a quorum, and the opinion of the majority of the Tribunal present shall be decisive upon any matter, except that in the case of an equality the President shall decide which opinion shall prevail.
+(4) Three members of the Tribunal, of whom the President shall be one, shall form a quorum, and the opinion of the majority of the Tribunal present shall be decisive upon any matter, except that in the case of an equality the President shall decide which opinion shall prevail.
 
 (5) The President and every member of the Tribunal shall hold office for a period of 3 years or for such shorter period as the Minister may determine and shall be eligible for reappointment.
 
@@ -242,13 +224,13 @@ on such terms and conditions as the Minister may determine.
 
 (a) he resigns; or
 
-(b) where the Minister has revoked his appointment on the ground of his unfitness to continue in office or incapacity to perform the duties thereof.
+(b) the Minister has revoked his appointment on the ground of his unfitness to continue in office or incapacity to perform the duties thereof.
 
 (7) Where a person ceases to be the President or a member of the Tribunal, the Minister shall, as soon as is reasonably practicable, take steps to fill the vacancy but the existence of any vacancy in the Tribunal shall not invalidate the acts of the Tribunal.
 
 (8) If the President or any member of the Tribunal is for the time being unable to perform the duties of his office, either generally or in relation to any particular proceedings, the Minister may appoint some other person to discharge the duties of the President or that member for any period, not exceeding 6 months at one time, or, as the case may be, in relation to those proceedings; and a person so appointed shall, during that period or in relation to those proceedings, have the same powers as the person in whose place he is appointed.
 
-(9) The President and every member of the Tribunal when and so long as he is serving on the Tribunal shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224) and the proceedings of the Tribunal shall be deemed to be judicial proceedings.
+(9) The President and every member of the Tribunal shall be deemed to be a public servant within the meaning of the Penal Code [Cap. 224] and the proceedings of the Tribunal shall be deemed to be judicial proceedings.
 
 (10) There shall be paid to the President and the members of the Tribunal such salaries, fees and allowances as the Minister may determine.
 
@@ -274,19 +256,19 @@ on such terms and conditions as the Minister may determine.
 
 (5) Every summons and notice issued under the hand of the Secretary to the Tribunal to any person shall be deemed to be issued by the Tribunal and may be served on that person —
 
-(a) by delivering the summons to the person or to some adult member of his family at his last known place of residence;
+(a) by delivering the summons or notice to the person or to some adult member of his family at his last known place of residence;
 
-(b) by leaving the summons at his usual or last known place of residence or business in an envelope addressed to the person;
+(b) by leaving the summons or notice at his usual or last known place of residence or business in an envelope addressed to the person;
 
-(c) by sending the summons by registered post addressed to the person at his usual or last known place of residence or business; or
+(c) by sending the summons or notice by registered post addressed to the person at his usual or last known place of residence or business; or
 
 (d) where the person is a body of persons or a company —
 
-(i) by delivering the summons to the secretary or other like officer of the body of persons or company at its registered office or principal place of business; or
+(i) by delivering the summons or notice to the secretary or other like officer of the body of persons or company at its registered office or principal place of business; or
 
-(ii) by sending the summons by registered post addressed to the body of persons or company at its registered office or principal place of business.
+(ii) by sending the summons or notice by registered post addressed to the body of persons or company at its registered office or principal place of business.
 
-(6) Any summons or notice sent by registered post to any person in accordance with subsection (5) shall be deemed to be duly served on the person to whom the letter is addressed at the time when the letter would in the ordinary course of post be delivered and in proving service of the summons, it shall be sufficient to prove that the envelope containing the summons was properly addressed, stamped and posted by registered post.
+(6) Any summons or notice sent by registered post to any person in accordance with subsection (5) shall be deemed to be duly served on the person to whom the letter is addressed at the time when the letter would in the ordinary course of post be delivered and in proving service of the summons or notice, it shall be sufficient to prove that the envelope containing the summons or notice was properly addressed, stamped and posted by registered post.
 
 (7) The Tribunal shall have the following powers:
 
@@ -312,7 +294,7 @@ on such terms and conditions as the Minister may determine.
 
 15\.—(1) Any person who —
 
-(a) assaults, wilfully insults or obstructs the President, a member or an officer of the Tribunal or any witness during a sitting of the Tribunal or while the President, a member, witness or officer is on his way to or from such a sitting;
+(a) assaults, wilfully insults or obstructs the President, a member or an officer of the Tribunal or any witness during a sitting of the Tribunal or while the President, member, witness or officer is on his way to or from such a sitting;
 
 (b) assaults or wilfully insults or obstructs any person in attendance at a sitting of the Tribunal;
 
@@ -322,11 +304,11 @@ on such terms and conditions as the Minister may determine.
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
 
-(2) A Tribunal may by oral order exclude from a sitting of the Tribunal any person whose behaviour in the opinion of the President constitutes an offence under subsection (1) whether or not such person is charged with the offence, and the member or officer under the President’s control or any police officer may take such steps as are reasonably necessary to enforce such exclusion.
+(2) A Tribunal may by oral order exclude from a sitting of the Tribunal any person whose behaviour in the opinion of the President constitutes an offence under subsection (1) whether or not the person is charged with the offence, and the member or officer under the President’s control or any police officer may take such steps as are reasonably necessary to enforce such exclusion.
 
 ### Power of Tribunal to state special case for decision of High Court
 
-16\.—(1) The Tribunal may, at any stage of an application or proceeding before it, reserve for the consideration of the High Court any question of law arising in the application or proceeding in the form of a special case which shall be —
+16\.—(1) The Tribunal may, at any stage of any application or proceeding before it, reserve for the consideration of the High Court any question of law arising in the application or proceeding in the form of a special case which shall be —
 
 (a) drawn up by the President and shall set out shortly the facts on which the law is to be applied and the question or questions of law to be determined;
 
@@ -358,7 +340,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Proceedings in camera
 
-19\.—(1) Subject to subsections (2) and (3), all proceedings before the Tribunal and in appeals to, or in cases stated for the opinion of, the High Court and in appeals from decisions of the Tribunal and High Court shall be heard in camera.
+19\.—(1) Subject to subsections (2) and (3), all proceedings before the Tribunal and in appeals to, or in cases stated for the opinion of, the High Court and in appeals from decisions of the Tribunal and the High Court shall be heard in camera.
 
 (2) Where any party at the hearing before the Tribunal applies to the Tribunal, the High Court or the Court of Appeal, as the case may be, that the proceedings be heard by way of a hearing open to the public, the Tribunal or the Court may, in its discretion, direct that the proceedings be so heard, notwithstanding any objection from the other party to the proceedings.
 
@@ -378,7 +360,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) the remuneration a solicitor is entitled to receive in respect of such proceedings shall not exceed the maximum amount prescribed in rules made under section 21 and any agreement for costs which exceeds the maximum amount so prescribed shall be null and void;
 
-(b) the costs of the Commissioner shall be in the discretion of the Tribunal or the Court, as the case may be, but the Commissioner shall not be ordered to pay the costs of any of the other parties; and
+(b) the costs of the Commissioner shall be at the discretion of the Tribunal or the Court, as the case may be, but the Commissioner shall not be ordered to pay the costs of any of the other parties; and
 
 (c) no member of the Tribunal shall be personally liable to any costs in respect of a case stated or an appeal from the decision of the Tribunal.
 
@@ -400,3 +382,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (f) the costs of any proceedings under this Act.
 
+## LEGISLATIVE HISTORY
+
+Maintenance of Parents Act
+
+(CHAPTER 167B)
+
+This Legislative History is provided for the convenience of users of the Maintenance of Parents Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 35 of 1995—Maintenance of Parents Act 1995**|
+||Date of First Reading|23 May 1994|
+|||(Bill No. 13/94 published on 24 May 1994)|
+||Dates of Second Reading|25 July 1994 to 27 July 1994|
+||Referred to Select Committee|Parl 2 of 1995 presented to Parliament on 20 October 1995|
+||Date of Third Reading|2 November 1995|
+||Date of commencement|24 November 1995|
+|||(Publication date)|
+|2.|**1996 Revised Edition—Maintenance of Parents Act**|
+||Date of operation|30 April 1996|
