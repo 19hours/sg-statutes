@@ -146,7 +146,7 @@ as if the judgment had been a judgment originally given in the registering court
 
 Provided that execution shall not issue on the judgment so long as, under this Part and the Rules of Court made thereunder, it is competent for any party to make an application to have the registration of the judgment set aside, or, where such application is made, until after the application has been finally determined.
 
-(3) Where the sum payable under a judgment which is to be registered is expressed in a currency other than the currency of Singapore, the judgment shall be registered as if it were a judgment for such sum in the currency of Singapore as, on the basis of the rate of exchange prevailing at the date of judgment of the original court, is equivalent to the sum so payable.
+(3) [Deleted by Act 34 of 1992 wef 18/12/1992]
 
 (4) If at the date of the application for registration the judgment of the original court has been partly satisfied, the judgment shall not be registered in respect of the whole sum payable under the judgment of the original court, but only in respect of the balance remaining payable at the date.
 
@@ -312,3 +312,9 @@ This Legislative History is provided for the convenience of users of the Recipro
 |4.|**1985 Revised Edition—Reciprocal Enforcement of Foreign Judgments Act**|
 ||(G.N. No. S 227/1995 — Rectification Order)||
 ||Date of operation|30 March 1987|
+|5.|**Act 34 of 1992—Bills of Exchange (Amendment) Act 1992**|
+||(Consequential amendments made by)||
+||Date of First Reading|14 September 1992|
+|||(Bill No. 35/92 published on 15 September 1992)|
+||Date of Second and Third Readings|16 November 1992|
+||Date of commencement|18 December 1992|
