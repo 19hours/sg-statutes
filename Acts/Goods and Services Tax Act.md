@@ -2857,3 +2857,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 |||(Bill No. 46/95 published on 6 December 1995)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|2 February 1996|
+|4.|**Act 25 of 1996—Goods and Services Tax (Amendment) Act 1996**|
+||Date of First Reading|21 May 1996|
+|||(Bill No. 15/1996 published on 22 May 1996)|
+||Date of Second and Third Readings|12 July 1996|
+||Date of commencement|16 August 1996|
