@@ -1,16 +1,14 @@
-**Lifelong Learning Endowment Fund Act 2001**
+**Lifelong Learning Endowment Fund Act**
 
-**(No. 1 of 2001)**
+**(CHAPTER 162A)**
 
 **Table of Contents**
 
 [**Long Title**](#Lifelong-Learning-Endowment-Fund-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -52,47 +50,29 @@
 
 [**THE SCHEDULE Advisory Council**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Lifelong Learning Endowment Fund Act
 
-ACTS SUPPLEMENT
+(CHAPTER 162A)
 
-Published by Authority
+(Original Enactment: Act 1 of 2001)
 
-NO. 3]
+REVISED EDITION 2002
 
-Friday, February 16
-
-[2001
-
-The following Act was passed by Parliament on 12th January 2001 and assented to by the President on 23rd January 2001:—
-
-Lifelong Learning Endowment Fund Act 2001
-
-(No. 1 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-23rd January 2001.
-
-Date of Commencement: 12th March 2001
+(31st July 2002)
 
 An Act to provide for the establishment of a Lifelong Learning Endowment Fund and for purposes connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[12th March 2001]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Lifelong Learning Endowment Fund Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Lifelong Learning Endowment Fund Act.
 
 ### Interpretation
 
@@ -122,7 +102,7 @@ LIFELONG LEARNING ENDOWMENT FUND
 
 ### Capital money of Endowment Fund
 
-4\.—(1) Upon the date of commencement of this Act, such sum as the Minister for Finance may determine out of moneys to be provided by Parliament shall be paid into the Endowment Fund as capital money.
+4\.—(1) As from 12th March 2001, such sum as the Minister for Finance may determine out of moneys to be provided by Parliament shall be paid into the Endowment Fund as capital money.
 
 (2) The Minister for Finance may from time to time pay into the Endowment Fund such sums of capital money as he may determine out of moneys to be provided by Parliament.
 
@@ -172,7 +152,7 @@ GENERAL FINANCIAL PROVISIONS
 
 ### Financial year of Endowment Fund
 
-8\. The financial year of the Endowment Fund shall begin on 1st April of each year and end on 31st March of the succeeding year except that the first financial year shall begin on the date of its establishment and end on 31st March of the succeeding year.
+8\. The financial year of the Endowment Fund shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
 ### Accounts
 
@@ -236,7 +216,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Offences by body corporate, etc.
 
-15\.—(1) Where an offence under this Act or any regulations made thereunder has been committed by a body corporate, a partnership, or an unincorporated association of persons, any person who, at the time of the commission of the offence, was a director, manager, partner, secretary or other similar officer thereof, or was purporting to act in any such capacity, shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
+15\.—(1) Where an offence under this Act has been committed by a body corporate, a partnership, or an unincorporated association of persons, any person who, at the time of the commission of the offence, was a director, manager, partner, secretary or other similar officer thereof, or was purporting to act in any such capacity, shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
 
 (a) the offence was committed without his consent or connivance; and
 
@@ -246,7 +226,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Composition of offences
 
-16\.—(1) The Minister or any person authorised by him may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $500.
+16\.—(1) The Minister or any person authorised by him may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $500.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of such offence.
 
@@ -288,11 +268,28 @@ the Minister may remove him from office.
 
 3\. At any meeting of the Council, one-half of the number of members shall constitute a quorum.
 
-4\. The arrangements relating to meetings of the Council shall be such as the Council may determine.
+4\. The arrangements relating to meetings of the Council shall be determined by the Council.
 
 5\. The chairman shall preside at all meetings of the Council at which he is present and, in his absence, the members present shall elect one of their number to act as chairman of that meeting.
 
 6\. All questions arising at any meeting of the Council shall be decided by a majority of votes of the members present and, in the case of an equality of votes, the chairman or member presiding shall have a casting vote.
 
-7\. Subject to the provisions of this Act and any regulations made thereunder, the Council may regulate its own procedure in such manner as it thinks fit.
+7\. Subject to the provisions of this Act, the Council may regulate its own procedure in such manner as it thinks fit.
 
+## LEGISLATIVE HISTORY
+
+Lifelong Learning Endowment Fund Act
+
+(CHAPTER 162A)
+
+This Legislative History is provided for the convenience of users of the Lifelong Learning Endowment Fund Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 1 of 2001—Lifelong Learning Endowment Fund Act 2001**|
+||Date of First Reading|22 November 2000|
+|||(Bill No. 37/2000 published on 23 November 2000)|
+||Date of Second and Third Readings|12 January 2001|
+||Date of commencement|12 March 2001|
+|2.|**2002 Revised Edition—Lifelong Learning Endowment Fund Act**|
+||Date of operation|31 July 2002|
