@@ -20,9 +20,15 @@
 
 - [5 Powers of Council](#Powers-of-Council)
 
+- [5A Protection from personal liability](#Protection-from-personal-liability)
+
+- [5B Public servants](#Public-servants)
+
 [**Part III FINANCIAL PROVISIONS**](#Part-III)
 
 - [6 Expenses](#Expenses)
+
+- [6A Grants to Council](#Grants-to-Council)
 
 - [7 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
 
@@ -56,17 +62,17 @@
 
 - [20 Bus, taxi and rapid transit systems fares.](#Bus-taxi-and-rapid-transit-systems-fares)
 
-- [21 Matters to be considered by Council](#Matters-to-be-considered-by-Council)
+- [21 Application for approval of fares](#Application-for-approval-of-fares)
 
 [**Part VI MISCELLANEOUS PROVISIONS**](#Part-VI)
 
-- [22 Regulations](#Regulations)
+- [22 Annual report](#Annual-report)
 
-- [23 (Repealed)](#Repealed)
+- [23 Composition of offences](#Composition-of-offences)
 
-- [24 (Repealed)](#Repealed)
+- [24 Exemption](#Exemption)
 
-- [25 Transitional provisions](#Transitional-provisions)
+- [25 Regulations](#Regulations)
 
 [**FIRST SCHEDULE Constitution and Proceedings of Council**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Council)
 
@@ -84,7 +90,9 @@ REVISED EDITION 1988
 
 (30th April 1988)
 
-An Act to provide for the establishment of the Public Transport Council to license bus services and approve bus, taxi and Mass Rapid Transit System fares and for matters connected therewith.
+An Act to provide for the establishment of the Public Transport Council to license bus services and approve bus, taxi and rapid transit system fares and for matters connected therewith.
+
+[29/99 wef 28/08/1999]
 
 [14th August 1987]
 
@@ -105,6 +113,10 @@ PRELIMINARY
 “bus service licence” means a bus service licence issued under Part IV;
 
 “Council” means the Public Transport Council established under section 3;
+
+“fare”, in relation to a taxi, means the rate payable for hiring the taxi, and includes any surcharge approved by the Council as being payable for such hire;
+
+[29/99 wef 28/08/1999]
 
 “rapid transit system” has the same meaning as in the Rapid Transit Systems Act 1995;
 
@@ -148,7 +160,21 @@ PUBLIC TRANSPORT COUNCIL
 
 (a) approve new bus routes and amend or delete existing bus routes; and
 
-(b) appoint an agent to do anything which the Council may do.
+(b) appoint and employ from time to time and on such terms and conditions as the Council may determine such officers, employees and agents as the Council thinks fit for the effective performance of its functions.
+
+[29/99 wef 28/08/1999]
+
+### Protection from personal liability
+
+5A\. No suit or legal proceedings shall lie personally against any member, officer or employee of the Council or other person acting under the direction of the Council for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+
+[29/99 wef 28/08/1999]
+
+### Public servants
+
+5B\. Every member, officer and employee of the Council shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+
+[29/99 wef 28/08/1999]
 
 ## PART III
 
@@ -157,6 +183,12 @@ FINANCIAL PROVISIONS
 ### Expenses
 
 6\. Except as otherwise provided, all expenses incurred in carrying out the purposes of this Act shall be met from the funds of the Council.
+
+### Grants to Council
+
+6A\. For the purpose of enabling the Council to carry out its functions under this Act or any other written law, the Minister may from time to time make grants to the Council of such sums as he may determine out of moneys to be provided by Parliament.
+
+[29/99 wef 28/08/1999]
 
 ### Bank accounts and application of revenue
 
@@ -246,7 +278,7 @@ LICENSING OF BUS SERVICES
 
 (e) the deposit of such security as may be determined by the Council for the due performance by the licensee of any obligations imposed upon him by the bus service licence or by this Act or any other written law.
 
-(2) All security under subsection (1)(e) shall be deposited by the licensee or by his bank pursuant to a bank guarantee with the Accountant-General.
+(2) All security under subsection (1)(e) shall be deposited by the licensee or by his bank pursuant to a bank guarantee with the Council.
 
 ### Licensee to submit accounts
 
@@ -258,7 +290,7 @@ LICENSING OF BUS SERVICES
 
 (4) If any licensee fails to comply with this section, the licensee and, if the licensee is a company, every director and manager thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and the court may on the application made by the Council order the licensee and, if the licensee is a company, a director or manager thereof to lodge the balance-sheet and the profit and loss account and the statements referred to in subsections (1) and (2) within such time as the court may determine.
 
-(5) Nothing in this section shall prevent the Council from taking an action to suspend or cancel the bus service licence granted to the licensee or to forfeit the whole or any part of any security deposited with the Accountant-General by the licensee or by his bank pursuant to a bank guarantee in accordance with section 19 for a contravention of subsection (1), (2) or (3).
+(5) Nothing in this section shall prevent the Council from taking an action to suspend or cancel the bus service licence granted to the licensee or to forfeit the whole or any part of any security deposited with the Council by the licensee or by his bank pursuant to a bank guarantee in accordance with section 19 for a contravention of subsection (1), (2) or (3).
 
 ### Investigation into affairs of a licensee
 
@@ -332,7 +364,7 @@ the Council may, by notice in writing and without any compensation, do either or
 
 (i) suspend or cancel the bus service licence;
 
-(ii) forfeit the whole or any part of any security deposited with the Accountant-General by the licensee or by his bank pursuant to a bank guarantee.
+(ii) forfeit the whole or any part of any security deposited with the Council by the licensee or by his bank pursuant to a bank guarantee.
 
 ## PART V
 
@@ -340,67 +372,85 @@ BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
 ### Bus, taxi and rapid transit systems fares.
 
-20\.—(1) No person shall be entitled to demand and take any bus, taxi or rapid transit systems rate of hire or fare in excess of that approved by the Council.
+20\.—(1) No person shall be entitled to demand and take any bus, taxi or rapid transit systems fare in excess of that approved by the Council.
 
 [Act 29/95 wef 01/09/1995]
 
-(2) Subsection (1) shall not prevent any person from demanding or taking a lower rate of hire or fare than that approved by the Council.
+(2) Subsection (1) shall not prevent any person from demanding or taking a lower fare than that approved by the Council.
 
-(3) If any dispute arises as to the rate of hire or fare calculated according to distance, the dispute may be referred to the Council or to the officer-in-charge of any police station whose decision shall be final, and any certificate issued by the Council or the police officer with regard thereto shall be admissible in evidence.
+(3) If any dispute arises as to the fare calculated according to distance, the dispute may be referred to the Council or to the officer-in-charge of any police station whose decision shall be final, and any certificate issued by the Council or the police officer with regard thereto shall be admissible in evidence.
 
-(4) Any person who demands or takes or attempts to take any money in excess of such approved rate of hire or fare shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+(4) Any person who demands or takes or attempts to take any money in excess of such approved fare shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(5) Any person who refuses to pay the approved rate of hire or fare when lawfully demanded shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+(5) Any person who refuses to pay the approved fare when lawfully demanded shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [Act 29/95 wef 01/09/1995]
 
-### Matters to be considered by Council
+### Application for approval of fares
 
-21\. In considering any application for approval of bus, taxi or rapid transit systems rate of hire or fare, the Council shall take into account —
+21\.—(1) An application for the Council’s approval of any bus, taxi or rapid transit system fare shall —
 
-(a) the need for the applicants to remain financially viable; and
+(a) be made in such form and manner as the Council may determine; and
+
+(b) be supported by such documents (including certified copies of any balance-sheet and profit and loss account, and any auditor’s report, relating to the applicant’s undertaking) as the Council may require.
+
+(2) In considering any application for approval of any bus, taxi or rapid transit system fare, the Council shall take into account —
+
+(a) the need for the applicant to remain financially viable; and
 
 (b) the need for public interest to be safeguarded.
 
-[Act 29/95 wef 01/09/1995]
+[29/99 wef 28/08/1999]
 
 ## PART VI
 
 MISCELLANEOUS PROVISIONS
 
+### Annual report
+
+22\.—(1) The Council shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Council during the preceding financial year and containing such information relating to the proceedings and policy of the Council as the Minister may, from time to time, direct.
+
+(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
+
+[29/99 wef 28/08/1999]
+
+### Composition of offences
+
+23\.—(1) The Council or any officer authorised by the Council may, in its or his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $200.
+
+(2) All sums collected under this section shall be paid to the Council.
+
+[29/99 wef 28/08/1999]
+
+### Exemption
+
+24\. The Council may, in its discretion, by order published in theGazetteand subject to such conditions as it may impose, exempt any person or class of persons from all or any of the provisions of this Act or any regulations made thereunder.
+
+[29/99 wef 28/08/1999]
+
 ### Regulations
 
-22\. The Council may make such regulations as it considers necessary or expedient for carrying out the provisions of this Act and, in particular but without prejudice to the generality of the foregoing, for —
+25\.—(1) The Council may, with the approval of the Minister, make regulations for, or in respect of, every purpose which is considered by the Council necessary or expedient for carrying out the provisions of this Act.
 
-(a) prescribing the manner and form in which applications for bus service licences shall be made and the form of such licences;
+(2) Without prejudice to the generality of subsection (1), the Council may make regulations for all or any of the following purposes:
 
-(b) prescribing a scale of fees for bus service licences;
+(a) to prescribe the manner and form in which applications for bus service licences are to be made, the documents to be submitted in support of such applications and the form of such licences;
 
-(c) prescribing the manner and form in which applications for bus, taxi and rapid transit systems fares shall be made; and
+(b) to prescribe a scale of fees for bus service licences;
 
-[Act 29/95 wef 01/09/1995]
+(c) to prescribe the manner and form in which applications for the approval of bus, taxi and rapid transit system fares are to be made and the documents to be submitted in support of such applications;
 
-(d) regulating the procedure of the Council.
+(d) to regulate the procedure of the Council;
 
-23\. 1[Omitted]
+(e) to prescribe the powers and duties of the officers and employees of the Council;
 
-1This section repealed the Bus Services Licensing Authority Act (Chapter 31).
+(f) to control and regulate the conduct of the officers and employees of the Council;
 
-24\. 2[Omitted]
+(g) to prescribe the offences under this Act or any regulations made thereunder which may be compounded under section 23.
 
-2This section amended section 106 of the Road Traffic Act (Chapter 276).
+(3) The Council may, in making any regulations, provide that any contravention of, or failure or neglect to comply with, any regulation shall be an offence and may prescribe a fine with which such offence shall be punishable but so that no such fine shall exceed for any one offence the sum of $1,000.
 
-### Transitional provisions
-
-25\.—(1) Any licence granted under the repealed Bus Services Licensing Authority Act shall be deemed to be a bus service licence granted under this Act, and shall, unless suspended or cancelled by the Council, be valid until the date of expiry specified in such licence.
-
-[1985 Ed. Cap. 31]
-
-(2) Any security deposited with or bank guarantee furnished to the Bus Services Licensing Authority, established under the repealed Act, prior to 14th August 1987 shall be deemed to have been deposited with or furnished to the Accountant-General under this Act.
-
-[S 220/87]
-
-(3) Any rate of hire or fare prescribed for omnibuses and taxis under the Road Traffic Act [Cap. 276] prior to 14th August 1987 shall be deemed to be rate of hire or fare approved for buses and taxis respectively under this Act and shall continue to apply until a new rate of hire or fare is approved by the Council.
+[29/99 wef 28/08/1999]
 
 FIRST SCHEDULE
 
@@ -410,15 +460,11 @@ Constitution and Proceedings of Council
 
 Constitution of Council
 
-1\. The Council shall consist of —
-
-Constitution of Council
-
-1.
+1. The Council shall consist of —
 
 (a) such number of representatives from public transport companies; and
 
-(b) not more than 9 other members,
+(b) not more than 11 other members,
 
 to be appointed by the Minister.
 
@@ -488,29 +534,49 @@ Accounts to be kept
 
 Audit of accounts
 
-3.—(1) The accounts of the Council shall be audited by the Auditor-General or such other auditor as may appointed annually by the Minister in consultation with the Auditor-General.
+3.—(1) The accounts of the Council shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) The remuneration of the auditor shall be paid out of the funds of the Council.
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
 
-(3) The Council shall, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
+(3) The remuneration of the auditor shall be paid out of the funds of the Council.
 
-(4) The auditor shall in his report state —
+[29/99 wef 28/08/1999]
+
+Financial statements
+
+4. The Council shall, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
+
+[29/99 wef 28/08/1999]
+
+Duties of auditor
+
+5.—(1) The auditor shall in his report state —
 
 (a) whether the financial statements show fairly the financial transactions and the state of affairs of the Council;
 
-(b) whether proper accounting and other records have been kept;
+(b) whether proper accounting and other records have been kept, including records of all assets of the Council whether purchased, donated or otherwise;
 
-(c) whether the receipts and expenditure of moneys by the Council during the financial year have been in accordance with this Act; and
+(c) whether the receipts, expenditure, investment of moneys and the acquisition and disposal of assets by the Council during the financial year have been in accordance with the provisions of this Act; and
 
 (d) such other matters arising from the audit as he considers should be reported.
 
-(5) The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating directly or indirectly to the financial transactions of the Council.
+(2) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Council, and shall also submit such periodical and special reports to the Minister and to the Council as may appear to him to be necessary or as the Minister or the Council may require.
 
-(6) Any person who fails without any reasonable cause to comply with any requirement of the auditor under this paragraph shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+[29/99 wef 28/08/1999]
+
+Powers of auditor
+
+6.—(1) The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Council and may make copies of, or extracts from, any such accounting and other records.
+
+(2) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
+
+(3) Any person who fails, without reasonable excuse, to comply with any requirement of the auditor under sub-paragraph (2) or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+[29/99 wef 28/08/1999]
 
 Presentation of financial statements and audit reports
 
-47.—(1) As soon as the accounts of the Council and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
+7.—(1) As soon as the accounts of the Council and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
 
 (2) Where the Auditor-General is not the auditor of the Council, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Council.
 
@@ -543,3 +609,8 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|1 September 1995|
 |5.|**G.N. No. S 59/98—Public Transport Council Act (Amendment of First Schedule) Order 1998**|
 ||Date of commencement|6 February 1998|
+|6.|**Act 29 of 1999—Public Transport Council (Amendment) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 25/99 published on 7 July 1999)|
+||Date of Second and Third Readings|4 August 1999|
+||Date of commencement|28 August 1999|
