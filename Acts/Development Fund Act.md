@@ -106,7 +106,15 @@ Purposes to Which the Development Fund May be Applied
 
 5\. The payment of any charges or expenses incidental to or arising out of depreciation or losses on investments of moneys in the Development Fund.
 
-6\. Grants and loans to any public authority, or any other corporation or body, for any one or more of the purposes referred to in paragraphs 1 to 4.
+6. Grants and loans to any public authority, or any other corporation or body, for any one or more of the purposes referred to in paragraphs 1 to 4.
+
+[6/2000 wef 1/4/2000]
+
+7.—(1) Capital contribution for investment by way of capital injection in any statutory corporation on such terms and conditions as the Minister for Finance may, after consultation with the Minister in charge of the statutory corporation, determine or as prescribed by any written law.
+
+(2) In sub-paragraph (1), “capital contribution” and “statutory corporation” have the same meanings as in section 7A of the Financial Procedure Act (Cap. 109).
+
+[22/2003 wef 19/12/2003]
 
 ## LEGISLATIVE HISTORY
 
@@ -144,3 +152,8 @@ This Legislative History is provided for the convenience of users of the Develop
 |||(Bill No. 4/2000 published on 18 January 2000)|
 ||Date of Second and Third Readings|22 February 2000|
 ||Date of commencement|1 April 2000|
+|8.|**Act 22 of 2003—Statutes (Miscellaneous Amendments) (No. 2) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 29/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|19 December 2003 (section 2 — amendment of Development Fund Act)|
