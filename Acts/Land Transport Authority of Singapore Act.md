@@ -184,7 +184,7 @@ and any associated investigative and engineering studies, but does not include t
 
 “President” means the President of the Compensation Board appointed under section 26;
 
-“railway” has the same meaning as in the Rapid Transit Systems Act [Cap. 263A];
+“railway” has the same meaning as in the Rapid Transit Systems Act (Cap. 263A);
 
 “road” includes —
 
@@ -476,7 +476,7 @@ RIGHTS TO COMPENSATION, CLAIMS PROCEDURE AND ASSESSMENT OF COMPENSATION
 
 19\.—(1) No action, claim or proceedings shall lie or be brought against the Authority or any other person —
 
-(a) to restrain the doing of anything which is authorised by or under the Rapid Transit Systems Act [Cap. 263A] or to compel the doing of anything which may be omitted to be done thereunder; or
+(a) to restrain the doing of anything which is authorised by or under the Rapid Transit Systems Act (Cap. 263A) or to compel the doing of anything which may be omitted to be done thereunder; or
 
 (b) to recover damages, compensation or costs for —
 
@@ -494,7 +494,7 @@ which is authorised by or under the Rapid Transit Systems Act or arises from any
 
 (a) to restrain the doing of anything which —
 
-(i) is authorised by section 9, 12 or 29 of the Street Works Act [Cap. 320A]; or
+(i) is authorised by section 9, 12 or 29 of the Street Works Act (Cap. 320A); or
 
 (ii) is authorised by any other provision of the Street Works Act relating to the construction of a road tunnel,
 
@@ -1084,7 +1084,9 @@ Persons who may claim compensation for their respective losses.
 
 Period within which the claim must be served on the Authority or other person.
 
-1. The loss due to displacement resulting from the exercise of the Authority’s right under section 5 of the Rapid Transit Systems Act (Cap.263A) or section 9 of the Street Works Act (Cap.320A).
+1.
+
+The loss due to displacement resulting from the exercise of the Authority’s right under section 5 of the Rapid Transit Systems Act (Cap. 263A) or section 9 of the Street Works Act (Cap. 320A).
 
 A displacement payment.
 
@@ -1092,23 +1094,39 @@ Any person owning a compensatable interest in the land on the date on which the 
 
 Before the expiration of 2 years from the date on which the notice is issued under section 5(2) of the Rapid Transit Systems Act or section 9(2) of the Street Works Act, as the case may be.
 
-2. (a) Structural damage to any building resulting from the construction or operation of the railway or the construction of a road tunnel under the Street Works Act (Cap.320A).
+2. (a) Structural damage to any building resulting from the construction or operation of the railway or the construction of a road tunnel under the Street Works Act (Cap. 320A).
 
-(a) The amount which is, or might be, fairly and reasonably incurred in repairing the damage.
+(a)
 
-(a) Any person owning a compensatable interest in the damaged building.
+The amount which is, or might be, fairly and reasonably incurred in repairing the damage.
 
-(a) Before the expiration of 6 years from the date of the opening for public traffic of that portion of the railway or road tunnel, as the case may be, from which the damage is alleged to have resulted.
+(a)
 
-(b) the loss due to displacement resulting from structural damage mentioned in item (aabove.
+Any person owning a compensatable interest in the damaged building.
 
-(b) A displacement payment.
+(a)
 
-(b) Same as in item (a) above.
+Before the expiration of 6 years from the date of the opening for public traffic of that portion of the railway or road tunnel, as the case may be, from which the damage is alleged to have resulted.
 
-(b) Same as in item (a) above.
+(b)
 
-3. Damage to any land or building resulting from the exercise of any power contained in section 9 of the Rapid Transit Systems Act (Cap.263A) or section 12 of the Street Works Act (Cap.320A).
+the loss due to displacement resulting from structural damage mentioned in item (a) above.
+
+(b)
+
+A displacement payment.
+
+(b)
+
+Same as in item (a) above.
+
+(b)
+
+Same as in item (a) above.
+
+3.
+
+Damage to any land or building resulting from the exercise of any power contained in section 9 of the Rapid Transit Systems Act (Cap. 263A) or section 12 of the Street Works Act (Cap. 320A).
 
 The amount which is, or might be, fairly and reasonably incurred in repairing the damage.
 
@@ -1116,7 +1134,9 @@ Any person owning a compensatable interest in the land or damaged building.
 
 Before the expiration of one year from the date of completion of the work carried out under section 10 of the Rapid Transit Systems Act or section 29 of the Street Works Act, as the case may be, from which the damage or loss is alleged to have resulted.
 
-4. The cost of altering the course or position of any apparatus and of repairing any street surface pursuant to a notice served by the Authority under section 10 of the Rapid Transit Transit Systems Act or section 29 of the Street Works Act.
+4.
+
+The cost of altering the course or position of any apparatus and of repairing any street surface pursuant to a notice served by the Authority under section 10 of the Rapid Transit Systems Act or section 29 of the Street Works Act.
 
 The cost which is fairly and reasonably incurred in effecting such alteration and repair.
 
@@ -1126,27 +1146,49 @@ Before the expiration of one year from the completion of the alteration and repa
 
 5. (a) The cost of the removal of any object or structure pursuant to a notice served by the Authority under section 11 of the Rapid Transit Systems Act (Cap. 263A) or section 13 of the Street Works Act (Cap. 320A) and which was erected and maintained without the contravention of any written law.
 
-(a) The cost incurred in moving the object or structure and making good that part of the land or building from which it is removed.
+(a)
 
-(a) The person on whom the notice under section 11 of the Rapid Transit Systems Act or section 13 of the Street Works Act, as the case may be, is served.
+The cost incurred in moving the object or structure and making good that part of the land or building from which it is removed.
 
-(a) Before the expiration of one year from the date of removal.
+(a)
 
-(b) The cost of reinstating an object or a structure described in item (a) above or of replacing the same with a similar object or structure.
+The person on whom the notice under section 11 of the Rapid Transit Systems Act or section 13 of the Street Works Act, as the case may be, is served.
 
-(b) The cost incurred in so doing.
+(a)
 
-(b) The person on whom the notice under section 11 of the Rapid Transit Systems Act or section 13 of the Street Works Act, as the case may be, is served.
+Before the expiration of one year from the date of removal.
 
-(b) Before the expiration of one year from the date of reinstatement or replacement.
+(b)
 
-(c) The loss sustained by the removal of an object or a structure which was erected and maintained without the contravention of any written law and is not to be reinstated or replaced with a similar object or structure at the expense of the Authority under item (b) above.
+The cost of reinstating an object or a structure described in item (a) above or of replacing the same with a similar object or structure.
 
-(c) The amount which might fairly and reasonably be estimated as the cost of reinstating or replacing the object or structure.
+(b)
 
-(c) Any person owning a share or interest in the object or structure on the date on which it is removed under section 11(4) of the Rapid Transit Systems Act (Cap.263A) or section 13(4) of the Street Works Act (Cap.320A), as the case may be.
+The cost incurred in so doing.
 
-(c) Before the expiration of one year from the date of removal.
+(b)
+
+The person on whom the notice under section 11 of the Rapid Transit Systems Act or section 13 of the Street Works Act, as the case may be, is served.
+
+(b)
+
+Before the expiration of one year from the date of reinstatement or replacement.
+
+(c)
+
+The loss sustained by the removal of an object or a structure which was erected and maintained without the contravention of any written law and is not to be reinstated or replaced with a similar object or structure at the expense of the Authority under item (b) above.
+
+(c)
+
+The amount which might fairly and reasonably be estimated as the cost of reinstating or replacing the object or structure.
+
+(c)
+
+Any person owning a share or interest in the object or structure on the date on which it is removed under section 11(4) of the Rapid Transit Systems Act (Cap. 263A) or section 13(4) of the Street Works Act (Cap. 320A), as the case may be.
+
+(c)
+
+Before the expiration of one year from the date of removal.
 
 Part II
 
@@ -1180,13 +1222,13 @@ No account of certain financial loss or increase or decrease in value attributab
 
 (b) any increase or decrease in the value of land to which the compensation relates which is attributable to —
 
-(i) the delineation thereof under section 3 of the Rapid Transit Systems Act [Cap. 263A] as part of the railway area; or
+(i) the delineation thereof under section 3 of the Rapid Transit Systems Act (Cap. 263A) as part of the railway area; or
 
 (ii) the construction or operation of any railway or road.
 
 Refusal or reduction where Building Control Act contravened
 
-4\. Compensation may be refused or reduced in respect of any building or part thereof which has been constructed or modified or on which building works have been carried out so as to amount to a contravention of the Building Control Act [Cap. 29] being a contravention within the meaning of that Act.
+4\. Compensation may be refused or reduced in respect of any building or part thereof which has been constructed or modified or on which building works have been carried out so as to amount to a contravention of the Building Control Act (Cap. 29) being a contravention within the meaning of that Act.
 
 Compensation where damage results only partly from railway
 
@@ -1194,7 +1236,7 @@ Compensation where damage results only partly from railway
 
 No compensation under item 5 (c) of Part I for loss of advertising
 
-6\. Where a sign advertising any business, product, service or activity is removed under section 11(4) of the Rapid Transit Systems Act [Cap. 263A], nothing in item 5 (c) of Part I shall be construed as conferring upon any person a right to compensation for the loss of any benefit which might have accrued to him from the advertising of that business, product, service or activity if the sign had not been removed.
+6\. Where a sign advertising any business, product, service or activity is removed under section 11(4) of the Rapid Transit Systems Act (Cap. 263A), nothing in item 5 (c) of Part I shall be construed as conferring upon any person a right to compensation for the loss of any benefit which might have accrued to him from the advertising of that business, product, service or activity if the sign had not been removed.
 
 Claim by a mortgagee in possession
 
@@ -1212,7 +1254,11 @@ Specified Acts
 
 1\. Section 17 of the Customs Act [Cap. 70].
 
-2\. Section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act [Cap. 189].
+2\. Section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189) and rules 9 and 10 of the Motor Vehicles (Third-Party Risks and Compensation) Rules (Cap. 189, R 1).
+
+2.
+
+[S 590/2004 wef 24/09/2004]
 
 3\. All provisions of the Parking Places Act [Cap. 214] and any subsidiary legislation made thereunder.
 
@@ -1257,6 +1303,8 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of commencement|15 July 2002|
 |6.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
 ||Date of First Reading|5 January 2004|
-|||(Bill No. 4/2004 published on 6 January 2004)|
+|||(Bill No. 4/2004 published on 27 February 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Dates of commencement|8 March 2004|
+|7.|**G. N. No. S 590/2004—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2004**|
+||Date of commencement|24 September 2004|
