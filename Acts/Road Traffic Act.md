@@ -72,7 +72,11 @@
 
 - [28 General licences](#General-licences)
 
+- [28A Special purpose licences](#Special-purpose-licences)
+
 - [29 Offences in connection with registration and licensing of vehicles](#Offences-in-connection-with-registration-and-licensing-of-vehicles)
+
+- [29A Court may order offender to pay arrears of taxes](#Court-may-order-offender-to-pay-arrears-of-taxes)
 
 - [30 Power to seize and sell vehicles](#Power-to-seize-and-sell-vehicles)
 
@@ -212,7 +216,7 @@
 
 - [71C Interpretation of sections 67 to 71B](#Interpretation-of-sections-67-to-71B)
 
-- [72 Driving motor vehicle which emits excessive smoke](#Driving-motor-vehicle-which-emits-excessive-smoke)
+- [72 (Repealed)](#Repealed)
 
 - [73 Pillion riding](#Pillion-riding)
 
@@ -276,7 +280,7 @@
 
 - [99 Application of this Part](#Application-of-this-Part)
 
-- [100 Classification of public service vehicles](#Classification-of-public-service-vehicles)
+- [100 Classification and descriptions of public service vehicles](#Classification-and-descriptions-of-public-service-vehicles)
 
 - [101 Prohibition of use of unlicensed public service vehicles](#Prohibition-of-use-of-unlicensed-public-service-vehicles)
 
@@ -326,6 +330,8 @@
 
 - [123 Removal, detention or immobilisation of vehicles abandoned, etc.](#Removal-detention-or-immobilisation-of-vehicles-abandoned-etc)
 
+- [123A Removal of stationary vehicles from expressways](#Removal-of-stationary-vehicles-from-expressways)
+
 - [124 Provisions with respect to stretching of ropes, etc., across roads](#Provisions-with-respect-to-stretching-of-ropes-etc-across-roads)
 
 - [125 Application to vehicles and drivers in the service of Government](#Application-to-vehicles-and-drivers-in-the-service-of-Government)
@@ -342,7 +348,9 @@
 
 - [130 Presumptions](#Presumptions)
 
-- [131 Penalties](#Penalties)
+- [131 Offences and penalties](#Offences-and-penalties)
+
+- [131A Service of summonses and other documents](#Service-of-summonses-and-other-documents)
 
 - [132 Ticketing of prescribed offences](#Ticketing-of-prescribed-offences)
 
@@ -372,7 +380,9 @@
 
 - [144 Property left in public service vehicles](#Property-left-in-public-service-vehicles)
 
-[**THE SCHEDULE**](#THE-SCHEDULE)
+[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
+
+[**SECOND SCHEDULE Classification and Descriptions of Public Service Vehicles**](#SECOND-SCHEDULE-Classification-and-Descriptions-of-Public-Service-Vehicles)
 
 [**Legislative History**](#Legislative-History)
 
@@ -734,7 +744,7 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 (4) Any rates prescribed by the Minister may be so made to apply only to vehicles of a specified class, category or description and the Minister may prescribe different rates for vehicles of different classes, categories or descriptions or vehicles used for different purposes.
 
-(4A) The Minister mayprescribe —
+(4A) The Minister may, subject to such conditions as he thinks fit to impose, prescribe —
 
 (a) a rebate on all or any part of the tax payable for vehicles of a specified class, category or description; and
 
@@ -760,7 +770,7 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 ### Restricted licences and supplementary licences
 
-11A\.—(1) The Registrar may, upon application by the owner of a motor carin such circumstances as may be prescribed, issue a licence subject to the restriction that the motor car shall not be driven on any road or on any specified road during specified days or times unless there is in force a supplementary licence for that motor car.
+11A\.—(1) The Registrar may, upon application by the owner of a motor vehicle in such circumstances as may be prescribed, issue a licence subject to the restriction that the motor vehicle shall not be driven on any road or on any specified road during specified days or times unless there is in force a supplementary licence for that motor vehicle .
 
 [16/91]
 
@@ -768,19 +778,19 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 (a) provide for the issue of supplementary licences, whether at prescribed fees or without charge, and regulate their use and exhibition; and
 
-(b) provide for all matters necessary or incidental to allow subsection (1) to apply or cease to apply to motor cars of any description, including the re-registration of such cars and the imposition of any fee or levy in connection with such re-registration.
+(b) provide for all matters necessary or incidental to allow subsection (1) to apply or cease to apply to motor vehicles of any description, including the re-registration of such vehicles and the imposition of any fee or levy in connection with such re-registration.
 
 [16/91]
 
-(3) Any person who drives a motor car, issued with a licence subject to the restriction referred to in subsection (1), in contravention of such a restriction or any owner of such a motor carwho causes or permits his car to be so driven shall be guilty of an offence and shall on conviction be punished with —
+(3) Any person who drives a motor vehicle, issued with a licence subject to the restriction referred to in subsection (1), in contravention of such a restriction or any owner of such a motor vehicle who causes or permits his vehicle to be so driven shall be guilty of an offence and shall on conviction be punished with —
 
-(a) a fine of not less than half the amount of the road tax payable for 12 months in respect of that motor carif it were not subject to the restriction referred to in that subsection; and
+(a) a fine of not less than half the amount of the road tax payable for 12 months in respect of that motor vehicle if it were not subject to the restriction referred to in that subsection; and
 
-(b) in the case of a second or subsequent conviction, a fine of not less than the amount of the road tax payable for 12 months in respect of that motor car if it were not subject to the restriction referred to in that subsection.
+(b) in the case of a second or subsequent conviction, a fine of not less than the amount of the road tax payable for 12 months in respect of that motor vehicle if it were not subject to the restriction referred to in that subsection.
 
 [16/91]
 
-(4) Any person who falsifies an identification mark or plate prescribed in the case of a motor carissued with a licence subject to the restriction referred to in subsection (1) or who displays, or causes or permits to be displayed, a falsified identification mark or plate on such a motor carshall be guilty of an offence and shall on conviction be punished with a fine of not less than twice the amount of the fee payable for a licence for 12 months in respect of that motor car as if it were not subject to the restriction referred to in that subsection.
+(4) Any person who falsifies an identification mark or plate prescribed in the case of a motor vehicle issued with a licence subject to the restriction referred to in subsection (1) or who displays, or causes or permits to be displayed, a falsified identification mark or plate on such a motor vehicle shall be guilty of an offence and shall on conviction be punished with a fine of not less than twice the amount of the fee payable for a licence for 12 months in respect of that motor vehicle as if it were not subject to the restriction referred to in that subsection.
 
 [16/91]
 
@@ -894,7 +904,7 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 (b) in the case of an application for a licence for a vehicle purporting to be the first application for a licence for the vehicle, that a licence has not previously been issued for that vehicle;
 
-(c) that there is no warrant of arrest issued under section 54 of the Criminal Procedure Code (Cap. 68) against the applicant in respect of any offence committed by him under this Act or the rules or any written law specified in Part I of the Schedule;
+(c) that there is no warrant of arrest issued under section 54 of the Criminal Procedure Code (Cap. 68) against the applicant in respect of any offence committed by him under this Act or the rules or any written law specified in Part I of the First Schedule;
 
 (d) that either —
 
@@ -908,7 +918,7 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 [7/90; 33/93; 8/94]
 
-(3A) Without prejudice to subsection (3), the Registrar may refuse to issue a vehicle licence if he is satisfied that the vehicle in respect of which the licence is to be issued is registered in the name of a person who, pursuant to a warrant of court, has been arrested in connection with an offence under this Act or the rules or any written law specified in Part I of the Scheduleand the offence has not been tried and determined by the court.
+(3A) Without prejudice to subsection (3), the Registrar may refuse to issue a vehicle licence if he is satisfied that the vehicle in respect of which the licence is to be issued is registered in the name of a person who, pursuant to a warrant of court, has been arrested in connection with an offence under this Act or the rules or any written law specified in Part I of the First Schedule and the offence has not been tried and determined by the court.
 
 [45/99 wef 21/12/1999]
 
@@ -920,7 +930,7 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 (6) Any vehicle licence may be transferred in the prescribed manner.
 
-(7) Subject to subsection (8), the Minister may, by notification in theGazette, amend Part I of the Schedule.
+(7) Subject to subsection (8), the Minister may, by notification in theGazette, amend Part I of the First Schedule.
 
 [8/94]
 
@@ -936,7 +946,7 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 ### Late application for licence
 
-21\. If a licence is applied for a vehicle after the period of 14 days followingthe date of expiry of the last licence issued for the vehicle, a late payment fee as may be prescribed shall be payable for the issue of the licence.
+21\. If a licence is applied for a vehicle after the date of expiry of the last licence issued for the vehicle, a late payment fee as may be prescribed shall be payable for the issue of the licence.
 
 ### Surrender of licences
 
@@ -1048,37 +1058,83 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 ### General licences
 
-28\.—(1) If any person, being a manufacturer or repairer of or dealer in motor vehicles, makes in the prescribed manner an application in that behalf to the Registrar that he may be entitled in lieu of taking out a licence under this Part for each motor vehicle kept by him to take out a general licence in respect of all motor vehicles used by him, the Registrar may, if satisfied as to the bona fides of the applicant and subject to the prescribed conditions, issue to him such a licence on payment of the prescribed levy.
+28\.—(1) Any person being a manufacturer or repairer of or a dealer in vehicles may apply to the Registrar in the prescribed manner to be allowed, in lieu of taking out a licence under this Part for each vehicle kept or used by him, to take out a general licence in respect of all vehicles kept or used by him.
 
-[7/90]
+[28/2001 wef 10/09/2001]
 
-(2) The holder of any licence issued under this section shall not be entitled by virtue of that licence to use more than one motor vehicle at any one time except in the case of a motor vehicle drawing a trailer and used for the prescribed purposes or to use any vehicle for any purpose other than such purposes as may be prescribed.
+(1A) Subject to subsection (4), the Registrar, upon receiving an application under subsection (1), may —
+
+(a) if satisfied as to the bona fides of the applicant; and
+
+(b) on payment by the applicant of the prescribed levy,
+
+issue a general licence to the applicant either unconditionally or subject to such conditions as the Registrar thinks fit to impose.
+
+[28/2001 wef 10/09/2001]
+
+(2) The holder of any licence issued under this section shall not be entitled by virtue of that licence to use more than one vehicle at any one time except in the case of a motor vehicle drawing a trailer and used for the prescribed purposes or to use any vehicle for any purpose other than such purposes as may be prescribed.
 
 (3) Nothing in this section shall operate to prevent a person entitled to take out a general licence from holding 2 or more such licences.
 
-(4) A general licence shall not be issued until the applicant has produced to the Registrar such evidence as may be prescribed that either —
+(4) A general licence shall not be issued until the applicant has produced to the Registrar such evidence as the Registrar may require that either —
 
-(a) for the period of the licence there will be in force the policy of insurance or the security required by law in relation to the use of the motor vehicleby the applicant or by other persons on his order or with his permission; or
+(a) for the period of the licence there will be in force the policy of insurance or the security required by law in relation to the use of the vehicle by the applicant or by other persons on his order or with his permission; or
 
-(b) the motor vehicleis a vehicle to which section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189) does not apply at any time when it is being driven by the owner thereof or by an employee of his in the course of his employment or is otherwise subject to the control of the owner.
+(b) the vehicle is a vehicle to which section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189) does not apply at any time when it is being driven by the owner thereof or by an employee of his in the course of his employment or is otherwise subject to the control of the owner.
 
 (5) Provision may be made by rules under this Act for the issue of more than one type of general licence and for assigning a general identification mark to a person holding any licence issued under this section.
 
 (6) No general licence shall be assigned or transferred and the holder of any general licence who shall assign or transfer or attempt to assign or transfer the licence shall be guilty of an offence.
 
-(7) If any person is aggrieved by the refusal of the Registrar to issue a general licence under this section, he may appeal to the Minister.
+(6A) The Registrar may suspend or revoke a general licence if he is satisfied —
+
+(a) that the issue of the licence has been procured by fraud or misrepresentation; or
+
+(b) that the person to whom the general licence was issued has contravened or failed to comply with any of the provisions of this Act or the rules or with any condition of the general licence.
+
+[28/2001 wef 10/09/2001]
+
+(6B) Upon the suspension or revocation of a licence under subsection (6A), the holder of the general licence shall surrender the general licence to the Registrar.
+
+[28/2001 wef 10/09/2001]
+
+(7) If any person is aggrieved by the refusal of the Registrar to issue a general licence or by the suspension or revocation of a general licence, he may appeal to the Minister.
+
+[28/2001 wef 10/09/2001]
 
 (8) The Minister shall, on any such appeal, make such order in the matter as he thinks just and the Registrar shall comply with any order so made.
 
-(9) Any order made by the Minister under subsection (8) shall be final and shall not be challenged, appealed against, reviewed, quashed or called in question in any court and shall not be subject to certiorari, prohibition, mandamus or injunction in any court on any account.
+(9) Any order made by the Minister under subsection (8) shall be final.
 
-(10) Any court before whom the holder of a general licence has been convicted of any offence under this Act or the rules or of any breach of the conditions of such general licence in respect of any vehicle used under a general licence held by him may suspend the general licence for the period of its validity or for any lesser period.
+[28/2001 wef 10/09/2001]
 
-(11) The general licence shall thereupon be delivered to the court by the holder thereof and the court shall send the general licence to the Registrar who shall keep such licence until the suspension has expired or been cancelled.
+### Special purpose licences
+
+28A\.—(1) Any person intending to keep or use any vehicle for purposes of research and development or for any other special purpose may apply to the Registrar for a licence (referred to hereinafter as a special purpose licence) allowing him so to keep or use such vehicle on a road.
+
+(2) Sections 10 and 11 shall not apply in respect of a vehicle that is licensed under this section.
+
+(3) Upon receiving an application under subsection (1) and upon payment by the applicant of the prescribed levy, the Registrar may issue a special purpose licence to the applicant either unconditionally or subject to such conditions as the Registrar thinks fit to impose.
+
+(4) The Registrar may suspend or cancel a special purpose licence if the vehicle in respect of which the special purpose licence has been issued is kept or used in contravention of —
+
+(a) any of the provisions of this Act or the rules; or
+
+(b) any of the conditions subject to which the special purpose licence was issued.
+
+(5) The Registrar shall not issue a special purpose licence in respect of any vehicle until the applicant for the special purpose licence has produced to the Registrar such evidence as the Registrar may require that either —
+
+(a) for the period of the special purpose licence there will be in force such policy of insurance or security as is required by law in relation to the use of the vehicle by the applicant or by any other person on his order or with his permission; or
+
+(b) the vehicle is a vehicle to which section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189) does not apply at any time when it is being driven by the owner thereof or by an employee of his in the course of his employment or when it is otherwise subject to the control of the owner.
+
+(6) A special purpose licence issued to any person under this section shall not be transferable to any other person and the holder of any such special purpose licence who transfers or attempts to transfer his licence to any other person shall be guilty of an offence.
+
+[28/2001 wef 10/09/2001]
 
 ### Offences in connection with registration and licensing of vehicles
 
-29\.—(1) If any person possesses or uses any vehicle, other than a bicycle or a trishaw, for which a licence under this Part is not in force or causes or permits it to be so used or, being the holder of a general licence or general licences issued under this Act, uses at any one time a greater number of motor vehicles than he is authorised to use by virtue of that licence or those licences, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+29\.—(1) If any person possesses or uses any vehicle, other than a bicycle or a trishaw, for which a licence under this Part is not in force or causes or permits it to be so used or, being the holder of a general licence or general licences issued under this Act, uses at any one time a greater number of vehicles than he is authorised to use by virtue of that licence or those licences, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 (2) If any person uses a bicycle which has not been registered or a trishaw which has not been licensed under this Part, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
 
@@ -1089,6 +1145,12 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 (5) If in any proceedings under this section any question arises as to the number of motor vehicles used or as to the character, weight and horse-power of any motor vehicle or as to the number of seats provided in a motor vehicle or as to the purposes for which any motor vehicle has been used, it shall be sufficient for a witness for the prosecution to swear that, in consequence of inquiries which he has made or of reports which he has received, he has reasonable grounds for believing that the number of motor vehicles used or the character, weight and horse-power of any motor vehicle or the number of seats provided in a motor vehicle or the purposes for which any motor vehicle has been used or any one or more of these facts was or were such as would be necessary to establish the offence charged.
 
 (6) Thereupon the burden shall be on the defendant to prove that the number of motor vehicles used or the character, weight and horse-power of any motor vehicle, the number of seats provided in a motor vehicle or the purposes for which any motor vehicle has been used (as the case may require) was or were in fact such that the offence charged was not in law committed by him.
+
+### Court may order offender to pay arrears of taxes
+
+29A\. Where a person is convicted of an offence under section 15 or 29, the court before which such person is convicted may, in addition to the punishment prescribed for the offence, order him to pay the amount of any taxes as may be certified by an officer appointed by the Authority to be due and payable under section 11(1)(b) by such person at the date of his conviction, and such amount may be recovered according to the law for the time being in force for the recovery of fines.
+
+[28/2001 wef 10/09/2001]
 
 ### Power to seize and sell vehicles
 
@@ -1130,7 +1192,7 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 (d) to require any person to whom any vehicle is sold or disposed of to furnish the prescribed particulars in the prescribed manner;
 
-(e) to prescribe the form of, and the particulars to be included in, the register with respect to motor vehicles for which a general licence has been taken out by a manufacturer or dealer and the identification marks to be carried by any such motor vehicle and to define the purposes for which the holder of a general licence may use a motor vehicle under such general licence;
+(e) to prescribe the form of, and the particulars to be included in, the register with respect to vehicles for which a general licence has been taken out by a manufacturer or dealer and the identification marks to be carried by any such vehicle and to define the purposes for which the holder of a general licence may use a vehicle under such general licence;
 
 (f) to extend any provisions as to registration and provisions incidental to any such provisions to any vehicle in respect of which taxes chargeable under this Part are not payable and to provide for the identification of any such vehicle;
 
@@ -1264,13 +1326,13 @@ LICENSING OF DRIVERS
 
 (8) The Deputy Commissioner of Police may refuse to renew any driving licence, or may renew it for a period of one year only notwithstanding that the applicant has elected to renew it for 3 years, if he is satisfied —
 
-(a) that the holder of the driving licence has not complied with any process of court issued against him in respect of any offence committed by him under this Act or the rules or any written law specified in Part II of the Schedule; or
+(a) that the holder of the driving licence has not complied with any process of court issued against him in respect of any offence committed by him under this Act or the rules or any written law specified in Part II of the First Schedule; or
 
-(b) that the holder of the driving licence has, pursuant to a warrant of court, been arrested in connection with an offence under this Act or the rules or any written law specified in Part II of the Scheduleand the offence has not been tried and determined by the court.
+(b) that the holder of the driving licence has, pursuant to a warrant of court, been arrested in connection with an offence under this Act or the rules or any written law specified in Part II of the First Schedule and the offence has not been tried and determined by the court.
 
 [1/99 wef 01/03/1999]
 
-(9) Subject to subsection (10), the Minister may, by notification in theGazette, amend Part II of the Schedule.
+(9) Subject to subsection (10), the Minister may, by notification in theGazette, amend Part II of the First Schedule.
 
 [8/94]
 
@@ -1474,7 +1536,7 @@ the court may, in addition to imposing on the offender the punishment provided f
 
 42A\.—(1) The Public Prosecutor may apply to the court for an order disqualifying a person from holding or obtaining a driving licence if —
 
-(a) that person is accused of an offence under this Act or the rules or any written law specified in Part II of the Schedule and had failed to appear before a court to answer the charge against him notwithstanding that he had been served with the appropriate process of court requiring him to so appear before that court;
+(a) that person is accused of an offence under this Act or the rules or any written law specified in Part II of the First Schedule and had failed to appear before a court to answer the charge against him notwithstanding that he had been served with the appropriate process of court requiring him to so appear before that court;
 
 (b) the court before which he was to have appeared had, pursuant to his default in appearance, issued a warrant for his arrest;
 
@@ -1486,7 +1548,7 @@ the court may, in addition to imposing on the offender the punishment provided f
 
 (ii) the officer who arrested him; or
 
-(iii) if he is accused of an offence under any written law specified in Part II of the Schedule, an officer responsible for administering such written law,
+(iii) if he is accused of an offence under any written law specified in Part II of the First Schedule, an officer responsible for administering such written law,
 
 that should he fail to appear in court on the date next appointed for his appearance in connection with the offence of which he is accused, the Public Prosecutor shall make an application under this section for him to be disqualified from holding or obtaining a driving licence; and
 
@@ -1938,7 +2000,9 @@ Provisions as to driving and offences in connection therewith
 
 (a) a heavy motor vehicle as defined in section 79(6); or
 
-(b) a public service vehicle as defined in section 100(1)(a), (b), (c), (f) or (g),
+(b) any public service vehicle which is classified as a type of bus under the Second Schedule,
+
+[28/2001 wef 10/09/2001]
 
 causes the heavy motor vehicle or public service vehicle to collide with any building or structure shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
 
@@ -2238,9 +2302,7 @@ any medical practitioner treating such person for his injury shall, if so direct
 
 [11/96]
 
-### Driving motor vehicle which emits excessive smoke
-
-72\. If any smoke or visible vapour is emitted from any motor vehicle used on a road and the emission thereof causes or is likely to cause annoyance or danger to the public, or injury or damage to any person or property, the owner and the driver of the vehicle shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 and, in the case of a second or subsequent conviction, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both.
+72\. [Deleted by Act 28/2001 wef 10/09/2001]
 
 ### Pillion riding
 
@@ -2594,9 +2656,29 @@ Miscellaneous
 
 ### Power to seize vehicles
 
-95\.—(1) When any person is found or is reasonably believed to be using a vehicle in contravention of any provision of this Act or any rule, order or prohibition made thereunder or in contravention of the terms of the licence for the vehicle, any police officer or the Registrar or any officer authorised in writing in that behalf by the Registrar on production of his authority may, whenever it appears that the vehicle or its driver cannot be sufficiently identified or that such action is necessary to cause a discontinuance of the offence, take or cause to be taken, or require the person in charge of a vehicle to take the vehicle and any trailer attached thereto to a place of safety there to be kept until released by order of a Magistrate or the Deputy Commissioner of Police or the Registrar.
+95\.—(1) Where a police officer, the Registrar or an authorised officer has reason to believe that a vehicle is a vehicle in connection with which an offence under this Act or the rules has been or is being committed or a vehicle that has been or is being used in contravention of the conditions of any licence issued in respect thereof under this Act, the police officer, Registrar or authorised officer, on production of his authority, may —
 
-(2) If that person refuses or neglects to comply with any requirement under subsection (1), he shall be guilty of an offence.
+(a) seize the vehicle and take it to a place of safety; or
+
+(b) require the owner, driver or person in charge of the vehicle to take the vehicle and any trailer attached thereto to a specified place of safety.
+
+[28/2001 wef 10/09/2001]
+
+(1A) The power conferred on a police officer, the Registrar or an authorised officer under subsection (1)(a) may be exercised whether or not the owner, driver or person in charge of the vehicle is present at the time of its seizure.
+
+[28/2001 wef 10/09/2001]
+
+(1B) Any vehicle which is taken to a place of safety under subsection (1) shall be detained thereat until it is released by order of a Magistrate or the Deputy Commissioner of Police or the Registrar.
+
+[28/2001 wef 10/09/2001]
+
+(1C) In this section, “authorised officer” means any employee of the Authority who is authorised in writing by the Registrar to act under this section.
+
+[28/2001 wef 10/09/2001]
+
+(2) Any person who refuses or neglects to comply with any requirement under subsection (1)(b) shall be guilty of an offence.
+
+[28/2001 wef 10/09/2001]
 
 (3) Any unauthorised person removing or causing to be removed such vehicle or trailer from the place of safety pending the order of a Magistrate or the Deputy Commissioner of Police or the Registrar shall be guilty of an offence.
 
@@ -2748,35 +2830,17 @@ PUBLIC SERVICE VEHICLES
 
 99\. This Part shall apply to all public service vehicles.
 
-### Classification of public service vehicles
+### Classification and descriptions of public service vehicles
 
-100\.—(1) For the purpose of this Part and the rules, public service vehicles shall be divided into the following classes:
+100\.—(1) The classification and descriptions of public service vehicles for the purpose of this Act and the rules shall be as set out in the Second Schedule.
 
-(a) omnibuses; that is to say, public service vehicles which are used on scheduled services and in which passengers are charged separate and distinct fares;
+(2) The Authority may by order published in theGazette, add to, amend or vary the Second Schedule.
 
-(b) private buses; that is to say, public service vehicles of a design approved by the Registrar, having seating capacity for more than 6 persons owned by any person and used exclusively for the conveyance of the employees of the owner of such vehicle or for the conveyance of persons in connection with his business, any charges made for the conveyance of such persons being such that no profit results therefrom;
+(3) The Authority may, by rules made under section 111, subdivide any class of public service vehicles as set out in the Second Schedule, and any reference in this Act or the rules to a class of public service vehicles shall include a reference to any subdivision of such class.
 
-(c) excursion buses; that is to say, public service vehicles which are used on unscheduled services and in which passengers are charged separate and distinct fares;
+(4) Notwithstanding the classification and descriptions of public service vehicles in the Second Schedule, the Authority may permit any class of public service vehicles to be used for any prescribed purpose.
 
-(d) taxis; that is to say, public service vehicles having seating capacity for not more than 6 persons (including the driver), which ply for hire on any road and are hired under a contract, express or implied, for the use of each such vehicle as a whole or for the use of 2 or more persons who pay separate fares;
-
-(e) private hire cars; that is to say, public service vehicles which do not ply for hire on any road but are hired under a contract, express or implied, for the use of each such vehicle as a whole;
-
-(f) private hire buses; that is to say, public service vehicles having seating capacity for more than 6 persons (including the driver), which do not ply for hire on any road but are hired under a contract, express or implied, for the use of each such vehicle as a whole;
-
-(g) school bus; that is to say, public service vehicles used for carrying children to and from schools and hired under a contract, express or implied, at a fixed or agreed rate or sum; and
-
-(h) trishaws.
-
-[7/90]
-
-(2) The Authority may make rules for subdividing any class of public service vehicle, and any reference in this Part to a class of public service vehicle shall include a reference to any subdivision of such class.
-
-[28/95]
-
-(3) Notwithstanding the classifications in subsection (1), the Minister may permit any class of public service vehicles to be used for any prescribed purpose.
-
-[7/90]
+[28/2001 wef 10/09/2001]
 
 ### Prohibition of use of unlicensed public service vehicles
 
@@ -3176,6 +3240,38 @@ shall be guilty of an offence.
 
 [11/96]
 
+### Removal of stationary vehicles from expressways
+
+123A\.—(1) Without prejudice to section 123, an employee of the Authority or an agent authorised by the Authority may remove any stationary vehicle from an expressway.
+
+(2) An employee or authorised agent of the Authority who has removed any vehicle from an expressway under subsection (1) shall take the vehicle to a parking place that is near to that part of the expressway from which the vehicle was removed.
+
+(3) A vehicle which has been removed from an expressway and taken to a parking place under this section shall remain at such parking place at the risk of the owner of the vehicle, and such owner shall be responsible for any parking charges incurred in respect of that vehicle while it remains at that parking place.
+
+(4) An employee or authorised agent of the Authority who has removed a vehicle from an expressway and taken it to a parking place under this section shall with all reasonable despatch give to the owner of the vehicle (if his name and address are known) notice in writing of the removal and the location of the parking place to which the vehicle has been taken, and shall in such notice inform such owner of the procedure by which he may claim the vehicle.
+
+(5) Any person who without the authority of an employee of the Authority removes any vehicle from a parking place to which it has been taken under subsection (2) or otherwise tampers with such vehicle shall be guilty of an offence.
+
+(6) Where a vehicle has been removed from an expressway and taken to a parking place under this section, neither the Authority nor any of its employees or authorised agents who effected the removal shall be liable for any damage to or loss of the vehicle or the contents thereof not caused wilfully or negligently by the Authority or by any of its employees or authorised agents in the exercise of their powers under this section or by any person acting under the direction of any employee or authorised agent of the Authority.
+
+(7) The costs and expenses (as determined by the Authority) of removing any vehicle and of taking the vehicle to a parking place under this section shall be borne by the owner of the vehicle and if such costs and expenses are not paid upon demand therefor, they may be recovered from the owner of the vehicle as a debt due to the Authority.
+
+(8) If a vehicle is not claimed by its owner within one month of the date on which it was taken to a parking place under subsection (2), the Authority, after giving one month’s notice in theGazetteof its intention to do so, may sell the vehicle by public auction or otherwise dispose of the vehicle.
+
+(9) The proceeds, if any, from the sale or disposal of any vehicle under subsection (8) shall be applied in payment of any charges incurred in carrying out the provisions of this section and thereafter shall be applied in payment of any damage that may have been caused to any property of the Government by any unlawful use of the vehicle and the surplus, if any, shall be paid to the owner of the vehicle or, if not claimed by the owner of the vehicle within 12 months after the date of the sale or disposal, shall be forfeited to the Government.
+
+(10) The Authority may waive, in whole or in part, the costs and expenses of the removal of a vehicle as referred to in subsection (7).
+
+(11) Except as provided in subsection (1), any person who, without the prior authorisation of the Authority, tows any stationary vehicle from a tunnel forming part of an expressway shall be guilty of an offence.
+
+(12) In this section —
+
+“expressway” means any road which is prescribed by the Minister by order published in theGazetteto be an expressway for the purposes of this section;
+
+“parking charges” means the charges which are prescribed under section 9 of the Parking Places Act (Cap. 214) as being payable by the owner of a vehicle for the use of any parking place.
+
+[28/2001 wef 10/09/2001]
+
 ### Provisions with respect to stretching of ropes, etc., across roads
 
 124\. Any person who for any purpose places or causes to be placed any rope, wire, chain, tackle or similar apparatus across a road or any part thereof in such a manner as to be likely to cause danger to persons using the road shall, unless he proves that he had a lawful right or excuse to do so and that he had taken all necessary means to give adequate warning of the danger, be guilty of an offence.
@@ -3308,33 +3404,45 @@ he shall, unless he establishes to the satisfaction of the court that he acted w
 
 (f) that any person is the holder of a licence granted under Part V.
 
-### Penalties
+### Offences and penalties
 
-131\.—(1) A person who —
+131\.—(1) A person who without lawful excuse —
 
-(a) is guilty of an offence under this Act;
+(a) refuses or neglects to do anything he is by this Act required to do;
 
-(b) without lawful excuse refuses or neglects to do anything he is by this Act required to do;
+(b) fails to comply with the requirements of any notice served on him under this Act; or
 
-(c) without lawful excuse fails to comply with the requirements of any notice served on him under this Act; or
+(c) acts in contravention of or fails to comply with any provision of this Act or of the rules,
 
-(d) without lawful excuse acts in contravention of or fails to comply with any provision of this Act or of the rules,
+shall be guilty of an offence.
 
-shall be liable on conviction, where no special penalty is provided in the case of the first offence, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent offence, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months.
+[28/2001 wef 10/09/2001]
+
+(1A) Any person who, by virtue of this section or any other provision of this Act or the rules, is guilty of an offence shall be liable on conviction, where no special penalty is provided in the case of a first offence, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent offence, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months.
+
+[28/2001 wef 10/09/2001]
 
 (2) If any person committing an offence under this Act or the rules is a company, the managing director, director, agent or other manager in Singapore of the company who is privy to the offence shall also be liable to the like punishment.
 
 [7/90; 33/93]
 
-(3) Every summons issued for an offence, and every notice or other document required or authorised to be given or served, under this Act or any rules or orders made thereunder may be served on any person —
+### Service of summonses and other documents
 
-(a) by delivering the same to such person;
+131A\.—(1) Every summons issued for an offence under this Act or the rules, and every notice, order or other document required or authorised to be given or served under this Act or the rules may be served on any person —
 
-(b) by delivering the same to any adult residing in the last known place of residence of such person or employed at the last known place of business of that person; or
+(a) by delivering it to the person or to some adult member or employee of his family at his usual or last known place of residence;
 
-(c) by forwarding the same by registered post in a cover addressed to such person at his last known place of residence or business or at any address furnished by him.
+(b) by leaving it at the usual or last known place of residence or place of business of the person in a cover addressed to him;
 
-(4) In proving service by registered post, it shall be sufficient to prove that the registered cover containing the summons was duly addressed and posted.
+(c) by sending it by registered post in a prepaid letter addressed to the person at his usual or last known place of residence or business or any address furnished by him; or
+
+(d) in the case of a notice to be served on a person whose usual or last known place of residence or business cannot, with reasonable diligence, be ascertained, by publication of such notice in theGazette.
+
+(2) Where any summons, notice, order or document is served on any person by registered post, it shall be deemed to have been served within such time as it would take to arrive in the ordinary course of transmission and in proving service of the same it shall be sufficient to prove that the envelope containing the summons, notice, order or document was properly addressed, stamped and posted by registered post.
+
+(3) All notices, orders and other documents which the Registrar is empowered to give by this Act or the rules may be given by any officer duly authorised by the Registrar.
+
+[28/2001 wef 10/09/2001]
 
 ### Ticketing of prescribed offences
 
@@ -3372,7 +3480,7 @@ shall be liable on conviction, where no special penalty is provided in the case 
 
 (2) A duplicate of the notice shall be prepared by the police officer and, if so required by a court, produced to the court.
 
-(3) The notice may be served on the person alleged to have committed the offence in the manner provided by section 131(3).
+(3) The notice may be served on the person alleged to have committed the offence in the manner provided by section 131A.
 
 (4) On an accused person appearing before a court in pursuance of such a notice, the court shall take cognizance of the offence alleged and shall proceed as though he were produced before it in pursuance of section 136 of the Criminal Procedure Code (Cap. 68).
 
@@ -3545,6 +3653,58 @@ Part II
 The Parking Places Act (Cap. 214).
 
 Section 35(8) and (9)
+
+SECOND SCHEDULE
+
+Section 100
+
+Classification and Descriptions of Public Service Vehicles
+
+1. The classification and descriptions of public service vehicles for the purpose of this Act and the rules shall be as follows:
+
+First column
+
+Second column
+
+Class of Public Service Vehicles
+
+Description
+
+(a) Excursion buses
+
+Buses which are used on unscheduled services and in which passengers are charged separate and distinct fares.
+
+(b) Omnibuses
+
+Buses which are used on scheduled services and in which passengers are charged separate and distinct fares.
+
+(c) Private buses
+
+Buses owned by any person and used exclusively for the conveyance of the employees of the owner of such buses or for the conveyance of persons in connection with his business, any charges made for the conveyance of such persons being such that no profit results therefrom.
+
+(d) Private hire buses
+
+Buses which do not ply for hire on any road but are hired under a contract, express or implied, for the use of each such vehicle as a whole.
+
+(e) Private hire cars
+
+Motor cars which do not ply for hire on any road but are hired under a contract, express or implied, for the use of each such vehicle as a whole.
+
+(f) School buses
+
+Buses used for carrying children to and from schools and hired under a contract, express or implied, at a fixed or agreed rate or sum.
+
+(g) Taxis
+
+Motor cars having a seating capacity for not more than 8 persons (including the driver), which ply for hire on any road and are hired under a contract, express or implied, for the use of each such vehicle as a whole or for the use of 2 or more persons who pay separate fares.
+
+(h) Trishaws
+
+Three-wheeled pedal cycles constructed or adapted for the carriage of passengers.
+
+2. For the purposes of this Schedule, “bus” means a public service vehicle of a design approved by the Registrar and having a seating capacity for not less than 9 persons (excluding the driver).
+
+[28/2001 wef 10/09/2001]
 
 ## LEGISLATIVE HISTORY
 
@@ -3763,3 +3923,8 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 35/99 published on 12 October 1999)|
 ||Date of Second and Third Readings|24 November 1999|
 ||Date of commencement|21 December 1999|
+|43.|**Act 28 of 2001—Road Traffic (Amendment) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 27/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|10 September 2001|
