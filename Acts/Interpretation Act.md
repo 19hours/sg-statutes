@@ -12,6 +12,8 @@
 
 - [2 Interpretation of certain words and expressions](#Interpretation-of-certain-words-and-expressions)
 
+- [2A Criteria for determining death](#Criteria-for-determining-death)
+
 [**Part II GENERAL PROVISIONS REGARDING WRITTEN LAW**](#Part-II)
 
 - [3 Acts to be public Acts](#Acts-to-be-public-Acts)
@@ -359,6 +361,60 @@ words in the singular include the plural and words in the plural include the sin
 (5) Where aGazetteis published in more than one form, the date of publication of thatGazetteshall be deemed to be the date thatGazetteis first published in any form.
 
 [Act 25/1998]
+
+### Criteria for determining death
+
+2A\.—(1) For all purposes, a person has died when there has occurred either —
+
+(a) irreversible cessation of circulation of blood and respiration in the body of the person; or
+
+(b) total and irreversible cessation of all functions of the brain of the person.
+
+(2) The determination of the irreversible cessation of circulation of blood and respiration in the body of a person shall, subject to subsection (4), be made in accordance with the ordinary standards of current medical practice; and the determination of the total and irreversible cessation of all functions of the brain of a person shall, subject to subsections (3) and (5), be made in accordance with the prescribed criteria.
+
+(3) Except in the circumstances referred to in subsection (5), the determination of the total and irreversible cessation of all functions of the brain of a person shall be certified in the prescribed form by 2 medical practitioners —
+
+(a) at least one of whom has not been involved in the care or treatment of the person so certified; and
+
+(b) who possess the prescribed postgraduate medical qualifications.
+
+(4) If the death of a person from whose body an organ is to be removed after his death as authorised under the Human Organ Transplant Act (Cap. 131A) or the Medical (Therapy, Education and Research) Act (Cap. 175) is determined by the irreversible cessation of circulation of blood and respiration in the body of that person, his death shall be certified in the prescribed form by 2 medical practitioners —
+
+(a) who have not been involved in the care or treatment of the person so certified;
+
+(b) who do not belong to the team of medical practitioners which will effect the removal of the organ from the body;
+
+(c) who have not been involved in the selection of the proposed recipient of the organ; and
+
+(d) who will not be involved in the care or treatment of the proposed recipient of the organ during his hospitalisation for the purpose of the transplant.
+
+(5) If the death of a person from whose body an organ is to be removed after his death as authorised under the Human Organ Transplant Act (Cap. 131A) or the Medical (Therapy, Education and Research) Act (Cap. 175) is determined by the total and irreversible cessation of all functions of the brain of that person, his death shall be certified in the prescribed form by 2 medical practitioners —
+
+(a) who have not been involved in the care or treatment of the person so certified;
+
+(b) who do not belong to the team of medical practitioners which will effect the removal of the organ from the body;
+
+(c) who have not been involved in the selection of the proposed recipient of the organ;
+
+(d) who will not be involved in the care or treatment of the proposed recipient of the organ during his hospitalisation for the purpose of the transplant; and
+
+(e) who possess the prescribed postgraduate medical qualifications.
+
+(6) The Minister may, for the purposes of all laws or any specified written law, by regulations prescribe —
+
+(a) the criteria for determining the total and irreversible cessation of all functions of the brain of a person referred to in subsections (1)(b) and (2); and
+
+(b) the postgraduate medical qualifications and form of the death certificate for the purposes of subsection (3), (4) or (5).
+
+(7) Nothing in this section shall —
+
+(a) affect the operation of section 110 of the Evidence Act (Cap. 97) (burden of proving that a person is alive who has not been heard of for 7 years), section 100 of the Women’s Charter (Cap. 353) (proceedings for decree nisi of presumption of death and divorce) or any other written law relating to the presumption of death;
+
+(b) prevent the certification or determination of death in a case where the body of a person is not found or recovered.
+
+(8) In this section, "medical practitioner" means a person who is registered, or deemed to be registered, as a medical practitioner under the Medical Registration Act (Cap. 174).
+
+[22/98 wef 02/11/1998]
 
 ## PART II
 
@@ -1002,3 +1058,10 @@ This Legislative History is provided for the convenience of users of the Interpr
 |||(Bill No. 23/98 published on 2 June 1998)|
 ||Date of Second and Third Readings|29 June 1998|
 ||Date of commencement|10 July 1998|
+|13.|**Act 22 of 1998—Interpretation (Amendment) Act 1998**|
+||Date of First Reading|19 November 1997|
+|||(Bill No. 17/1997 published on 20 November 1997)|
+||Date of Second Reading|14 January 1998|
+||Referred to Select Committee|Parl. 3 of 1998 presented to Parliament on 1 June 1998|
+||Date of Third Reading|30 June 1998|
+||Date of commencement|2 November 1998|
