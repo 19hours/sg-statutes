@@ -1,16 +1,14 @@
-**Telecommunications Act 1999**
+**Telecommunications Act**
 
-**(No. 43 of 1999)**
+**(CHAPTER 323)**
 
 **Table of Contents**
 
 [**Long Title**](#Telecommunications-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -40,7 +38,7 @@
 
 - [13 Power to enter on State land for purposes of installation or plant](#Power-to-enter-on-State-land-for-purposes-of-installation-or-plant)
 
-- [14 Power to enter on other land for purposes of installation or plant](#Power-to-enter-on-other-land-for-purposes-of-installation-or-plant)
+- [14 Power to enter on other landfor purposes of installation or plant](#Power-to-enter-on-other-landfor-purposes-of-installation-or-plant)
 
 - [15 Savings of wayleave agreements](#Savings-of-wayleave-agreements)
 
@@ -86,7 +84,7 @@
 
 - [33 Unlawful operation of telecommunication system or service](#Unlawful-operation-of-telecommunication-system-or-service)
 
-- [34 Prohibitions in respect of telecommunication and radio-communication equipment](#Prohibitions-in-respect-of-telecommunication-and-radio-communication-equipment)
+- [34 Prohibitions in respect of telecommunication and radio- communication equipment](#Prohibitions-in-respect-of-telecommunication-and-radio--communication-equipment)
 
 - [35 Penalty for unlicensed station](#Penalty-for-unlicensed-station)
 
@@ -116,7 +114,7 @@
 
 - [48 Prohibition of false notice relating to public telecommunication licensees’ installation or plant](#Prohibition-of-false-notice-relating-to-public-telecommunication-licensees’-installation-or-plant)
 
-- [49 Damage to public telecommunication licensees’ installation or plant](#Damage-to-public-telecommunication-licensees’-installation-or-plant)
+- [49 Damage to telecommunication system licensees’ installation or plant](#Damage-to-telecommunication-system-licensees’-installation-or-plant)
 
 - [50 Compensation for damage caused to public telecommunication licensees’ installation or plant](#Compensation-for-damage-caused-to-public-telecommunication-licensees’-installation-or-plant)
 
@@ -176,61 +174,41 @@
 
 - [75 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-- [76 Consequential amendments](#Consequential-amendments)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+[**Comparative Table**](#Comparative-Table)
 
-GOVERNMENT GAZETTE
+# Telecommunications Act
 
-ACTS SUPPLEMENT
+(CHAPTER 323)
 
-Published by Authority
+(Original Enactment: Act 43 of 1999)
 
-NO. 40]
+REVISED EDITION 2000
 
-Friday, December 3
+(30th December 2000)
 
-[1999
+An Act to provide for the operation and provision of telecommunication systems and services in Singapore, and for matters connected therewith.
 
-The following Act was passed by Parliament on 23rd November 1999 and assented to by the President on 30th November 1999:—
-
-Telecommunications Act 1999
-
-(No. 43 of 1999)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-30th November 1999.
-
-Date of Commencement: 1st December 1999
-
-An Act to provide for the operation and provision of telecommunication systems and services in Singapore, and for matters connected therewith, and to make consequential amendments to certain other Acts.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st December 1999]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Telecommunications Act 1999 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Telecommunications Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“appointed day” means the date of commencement of this Act;
+“Authority” means the Info-communications Development Authority of Singapore established under the Info-communications Development Authority of Singapore Act (Cap. 137A);
 
-“Authority” means the Info-communications Development Authority of Singapore established under the Info-communications Development Authority of Singapore Act 1999;
+“Chief Executive” means the Chief Executive of the Authority and includes any temporary Chief Executive of the Authority appointed under section 10 of the Info-communications Development Authority of Singapore Act;
 
-“Chief Executive” means the Chief Executive of the Authority and includes any temporary Chief Executive of the Authority appointed under section 10 of the Info-communications Development Authority of Singapore Act 1999;
-
-“code of practice" and "standard of performance” mean, respectively, a code of practice and a standard of performance issued or approved under section 26;
+“code of practice” and “standard of performance” mean, respectively, a code of practice and a standard of performance issued or approved under section 26;
 
 “earthworks” includes —
 
@@ -254,8 +232,6 @@ PRELIMINARY
 
 “installation or plant used for telecommunications” includes all buildings, lands, structures, machinery, equipment, cables, poles and lines used or intended for use in connection with telecommunications;
 
-“master”, in relation to a vessel or aircraft, means any person for the time being in charge or command of the vessel or aircraft but does not include a sea pilot;
-
 “message” means any sign, signal, writing, image, sound, intelligence or information of any nature transmitted by telecommunications;
 
 “public telecommunication licensee” means a person designated by the Authority under section 6;
@@ -268,7 +244,7 @@ PRELIMINARY
 
 “radio-communication system” means any system used or intended to be used for radio-communications;
 
-“repealed Act” means the Telecommunication Authority of Singapore Act (Cap. 323) repealed by the Info-communications Development Authority of Singapore Act 1999;
+“repealed Act” means the Telecommunication Authority of Singapore Act (Cap. 323, 1993 Ed.) repealed by the Info- communications Development Authority of Singapore Act (Cap. 137A);
 
 “securities”, in relation to a company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;
 
@@ -306,7 +282,7 @@ EXCLUSIVE PRIVILEGE AND LICENSING, ETC., OF TELECOMMUNICATION SYSTEMS
 
 ### Exclusive privilege with respect to telecommunications
 
-3\.—(1) As from the appointed day and subject to this Act, the Authority shall have the exclusive privilege for the operation and provision of telecommunication systems and services in Singapore.
+3\.—(1) As from 1st December 1999 and subject to this Act, the Authority shall have the exclusive privilege for the operation and provision of telecommunication systems and services in Singapore.
 
 (2) The privilege conferred on the Authority by subsection (1) shall —
 
@@ -406,19 +382,19 @@ the Authority may, by notice in writing, do either or both of the following:
 
 (i) issue such written order to the person as it considers requisite for the purpose of securing compliance thereof;
 
-(ii) require the payment, within a specified period, of a financial penalty of such amount not exceeding $1 million as it thinks fit,
+(ii) require the payment, within a specified period, of a financial penalty of such amount not exceeding $1 million as it thinks fit.
 
-except that where the Authority is satisfied that the person is again likely to so contravene, whether by act or omission, the Authority may (in lieu of an order or financial penalty under paragraph (i) or (ii) or both) by notice in writing and without any compensation, do all or any of the following:
+(2) Where the Authority is satisfied that the person mentioned in subsection (1) is again likely to so contravene, whether by act or omission, the Authority may (in lieu of an order or financial penalty under subsection (1)(i) or (ii) or both) by notice in writing and without any compensation, do all or any of the following:
 
-(A) cancel the licence or part thereof;
+(a) cancel the licence or part thereof;
 
-(B) suspend the licence or part thereof for such period as it thinks fit;
+(b) suspend the licence or part thereof for such period as it thinks fit;
 
-(C) reduce the period for which the licence is to be in force.
+(c) reduce the period for which the licence is to be in force.
 
-(2) Any person who is aggrieved by any decision of the Authority under subsection (1) may, within 14 days after such person has been given the notice in writing referred to in subsection (1), appeal to the Minister whose decision shall be final.
+(3) Any person who is aggrieved by any decision of the Authority under subsection (1) may, within 14 days after such person has been given the notice in writing referred to in subsection (1), appeal to the Minister whose decision shall be final.
 
-(3) An order under subsection (1)(i) —
+(4) An order under subsection (1)(i) —
 
 (a) shall require the person concerned (according to the circumstances of the case) to do, or not to do, such things as are specified in the order or are of a description so specified therein;
 
@@ -426,11 +402,11 @@ except that where the Authority is satisfied that the person is again likely to 
 
 (c) may be revoked at any time by the Authority.
 
-(4) Any person who fails to comply with any order under subsection (1)(i) shall be guilty of an offence.
+(5) Any person who fails to comply with any order under subsection (1)(i) shall be guilty of an offence.
 
-(5) In any proceedings brought against any person for an offence under subsection (4), it shall be a defence for him to prove that he took all reasonable steps and exercised all due diligence to avoid contravening the order.
+(6) In any proceedings brought against any person for an offence under subsection (5), it shall be a defence for him to prove that he took all reasonable steps and exercised all due diligence to avoid contravening the order.
 
-(6) Any financial penalty payable by any person by virtue of subsection (1) shall be recoverable by the Authority as a debt due to the Authority from that person; and the person’s liability to pay shall not be affected by his licence ceasing (for any reason) to be in force.
+(7) Any financial penalty payable by any person under subsection (1)(ii) shall be recoverable by the Authority as a debt due to the Authority from that person; and the person’s liability to pay shall not be affected by his licence ceasing (for any reason) to be in force.
 
 ### Approval of equipment
 
@@ -440,11 +416,13 @@ except that where the Authority is satisfied that the person is again likely to 
 
 (3) An approval under this section may apply either to particular equipment or to any equipment of a description specified in the approval, and may so apply either for the purposes of a particular telecommunication system or for the purposes of any telecommunication system of a description so specified.
 
-(4) An approval under this section may specify conditions which must be complied with if the approval is to apply, for any purposes specified in the approval, to any telecommunication system or equipment which is so specified or is of a description so specified; and any such condition may impose on the person to whom the approval is given a requirement from time to time to satisfy some other person with respect to any matter.
+(4) An approval under this section may specify conditions which must be complied with if the approval is to apply, for any purposes specified in the approval, to any telecommunication system or equipment which is so specified or is of a description so specified.
 
-(5) The Authority or any other person by whom any matter falls to be determined for the purposes of any requirement imposed in pursuance of subsection (2) or (4) may charge a fee in respect of the carrying out of any test or other assessment made by the Authority or other person.
+(5) Any such condition referred to in subsection (4) may impose on the person to whom the approval is given a requirement from time to time to satisfy some other person with respect to any matter.
 
-(6) A public telecommunication licensee may, with the approval of the Authority (except in cases of emergency), cease or refuse to supply a telecommunication service to any person by means of a telecommunication system or telecommunication line operated by the licensee if, through the use of such telecommunication service, there is or is intended to be connected to the telecommunication system or telecommunication line, equipment or cabling that is a threat to —
+(6) The Authority or any other person by whom any matter falls to be determined for the purposes of any requirement imposed in pursuance of subsection (2) or (4) may charge a fee in respect of the carrying out of any test or other assessment made by the Authority or other person.
+
+(7) A public telecommunication licensee may, with the approval of the Authority (except in cases of emergency), cease or refuse to supply a telecommunication service to any person by means of a telecommunication system or telecommunication line operated by the licensee if, through the use of such telecommunication service, there is or is intended to be connected to the telecommunication system or telecommunication line, equipment or cabling that is a threat to —
 
 (a) the safety or proper functioning of the telecommunication system or telecommunication line; or
 
@@ -476,7 +454,7 @@ except that where the Authority is satisfied that the person is again likely to 
 
 (5) Nothing in this section shall be construed as prohibiting the Authority from levying any charge or collecting any dues for anything done or any service rendered by reason only of not being incorporated in a scheme and the rates, charges and fees payable to the Authority for any service rendered shall be in accordance with such rates, charges and fees as may, from time to time, be determined by the Authority.
 
-(6) The rates, charges and fees applied by the TAS immediately before the appointed day shall continue to be valid as though determined by the Authority under this section until rescinded, varied or otherwise determined by the Authority.
+(6) The rates, charges and fees applied by the TAS immediately before 1st December 1999 shall continue to be valid as though determined by the Authority under this section until rescinded, varied or otherwise determined by the Authority.
 
 ## PART III
 
@@ -492,27 +470,39 @@ ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS
 
 ### Power to enter on State land for purposes of installation or plant
 
-13\. For the purpose of providing any telecommunication service, a public telecommunication licensee or any person authorised by the Authority in that behalf may, at any reasonable time, enter upon any State land and may, subject to the approval of the Authority and the Collector of Land Revenue, erect in or upon the State land such installation or plant used for telecommunications or excavate such trenches as may be necessary or proper for the purpose of providing the telecommunication service, and may carry out all necessary works in connection therewith, and may, in the course thereof, fell or lop trees, remove vegetation and do all other things necessary for that purpose, but —
+13\.—(1) For the purpose of providing any telecommunication service, a public telecommunication licensee or any person authorised by the Authority in that behalf may at any reasonable time —
 
-(a) where any such work interferes with improvements, buildings, growing trees or crops, the licensee shall pay compensation for any damage or disturbance; and
+(a) enter upon any State land;
 
-(b) where the land is occupied under a licence for temporary occupation, the compensation shall be paid to the occupant under the licence.
+(b) subject to the approval of the Authority and the Collector of Land Revenue, erect in or upon the State land such installation or plant used for telecommunications or excavate such trenches as may be necessary or proper for the purpose of providing the telecommunication service; and
 
-### Power to enter on other land for purposes of installation or plant
+(c) carry out all necessary works in connection therewith, and may, in the course thereof, fell or lop trees, remove vegetation and do all other things necessary for that purpose.
 
-14\.—(1) Subject to this section, whenever it is necessary to do so for the purposes of providing any telecommunication service under this Act, a public telecommunication licensee may lay, place or carry on, and erect under, upon or over any land, other than State land, such installation or plant used for telecommunications as may be necessary or proper for such purposes and may take such other action as may be necessary to render such installation or plant safe and efficient, paying compensation to any person interested for any damage, disturbance or disability that may be caused thereby.
+(2) Where any such work interferes with improvements, buildings, growing trees or crops, the licensee shall pay compensation for any damage or disturbance.
 
-(2) Any compensation payable under subsection (1) may include an annual payment for land or other immovable property used for the purpose of the public telecommunication licensee’s installation or plant.
+(3) Where the land is occupied under a licence for temporary occupation, the compensation shall be paid to the occupant under the licence.
 
-(3) A public telecommunication licensee shall not acquire any right other than that of user only in respect of any land or property under, over, along, across, in or upon which the licensee places any installation or plant used for telecommunications under this section.
+### Power to enter on other landfor purposes of installation or plant
 
-(4) Before entering on any land for the purpose specified in subsection (1), a public telecommunication licensee shall give 14 days’ notice stating as fully and accurately as possible the nature and extent of the acts intended to be done.
+14\.—(1) Subject to this section, whenever it is necessary to do so for the purposes of providing any telecommunication service under this Act, a public telecommunication licensee may under, upon or over any land, other than State land —
 
-(5) The notice shall be given to the owner or occupier of the land in the manner provided under this Act.
+(a) lay, place or carry on and erect such installation or plant used for telecommunications as may be necessary or proper for such purposes; and
 
-(6) The owner or occupier of the land may, within 14 days of the receipt of the notice referred to in subsection (4), lodge a written objection with the Authority and the Authority shall specify a date to inquire into any such objection.
+(b) take such other action as may be necessary to render such installation or plant safe and efficient,
 
-(7) If no objection is lodged within the time specified in subsection (6), the public telecommunication licensee may forthwith enter on the land and do all or any of the acts specified in the notice given under subsection (4).
+and pay compensation to any person interested for any damage, disturbance or disability that may be caused thereby.
+
+(2) Any compensation payable under subsection (1) may include an annual payment for landor other immovable property used for the purpose of the public telecommunication licensee’s installation or plant.
+
+(3) A public telecommunication licensee shall not acquire any right other than that of user only in respect of any land or propertyunder, over, along, across, in or upon which the licensee places any installation or plant used for telecommunications under this section.
+
+(4) Before entering on any landfor the purpose specified in subsection (1), a public telecommunication licensee shall give 14 days’ notice stating as fully and accurately as possible the nature and extent of the acts intended to be done.
+
+(5) The notice shall be given to the owner or occupier of the landin the manner provided under this Act.
+
+(6) The owner or occupier of the landmay, within 14 days of the receipt of the notice referred to in subsection (4), lodge a written objection with the Authority and the Authority shall specify a date to inquire into any such objection.
+
+(7) If no objection is lodged within the time specified in subsection (6), the public telecommunication licensee may forthwith enter on the landand do all or any of the acts specified in the notice given under subsection (4).
 
 (8) If an objection is lodged and is not withdrawn before the date fixed for the hearing thereof, the Authority shall hold an enquiry, giving each party an opportunity to be heard.
 
@@ -526,7 +516,7 @@ ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS
 
 (a) affect the right of a public telecommunication licensee to enter into an agreement, commonly known as a wayleave agreement, with the owner or occupier of any land for the purpose of laying, placing, carrying or erecting any installation or plant used for telecommunications on the land;
 
-(b) affect any such wayleave agreement subsisting immediately before the appointed day; or
+(b) affect any such wayleave agreement subsisting immediately before 1st December 1999; or
 
 (c) affect the right of a public telecommunication licensee to negotiate the use of land or facilities belonging to the State or any other person.
 
@@ -534,7 +524,13 @@ ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS
 
 16\.—(1) Whenever it is necessary to do so for the purposes of carrying out any functions and duties of the Authority under this Act or any regulations made thereunder, the Authority may enter upon any land or building, or stop or board any vessel, aircraft or vehicle and may carry out all necessary inspections or investigations and do all things necessary for such purpose.
 
-(2) Whenever it is necessary to do so for the purpose of inspecting, maintaining or repairing a public telecommunication licensee’s installation or plant or for the purpose of carrying out any functions conferred on a public telecommunication licensee under this Act or under any licence granted under section 5, that licensee or any person authorised by that licensee in that behalf may, at any reasonable time, enter upon any land or building, whether or not such installation or plant has been laid, placed, carried or erected on, under, upon or over the land or building, and may carry out all necessary inspection, maintenance or repair, and may in the course thereof, fell or lop trees, remove vegetation and do all other things necessary for the purpose, causing as little damage as possible and paying compensation to any person adversely affected for any damage that may be caused thereby for which compensation has not already been assessed under section 14.
+(2) Whenever it is necessary to do so for the purpose of inspecting, maintaining or repairing a public telecommunication licensee’s installation or plant or for the purpose of carrying out any functions conferred on a public telecommunication licensee under this Act or under any licence granted under section 5, that licensee or any person authorised by that licensee in that behalf may at any reasonable time —
+
+(a) enter upon any land or building, whether or not such installation or plant has been laid, placed, carried or erected on, under, upon or over the land or building;
+
+(b) carry out all necessary inspection, maintenance or repair, and may in the course thereof, fell or lop trees, remove vegetation and do all other things necessary for the purpose, causing as little damage as possible,
+
+and pay compensation to any person adversely affected for any damage that may be caused thereby for which compensation has not already been assessed under section 14.
 
 ### Removal or alteration of installation or plant for telecommunications
 
@@ -568,11 +564,13 @@ ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS
 
 (6) In the event of the owner or occupier of any land felling, lopping or clearing any tree or vegetation adjacent to a public telecommunication licensee’s installation or plant, the owner or occupier shall give the licensee 14 days’ notice in writing of his intention to do so and shall take all such reasonable precautions as the licensee may require for the protection of such installation or plant.
 
-(7) If any such owner or occupier fails to give notice as provided under subsection (6) or having given notice fails to take any such reasonable precautions as the public telecommunication licensee may have required, he shall be liable to pay the licensee any cost and expense incurred by the licensee for any damage caused to any such installation or plant, and a certificate purporting to be under the hand of the Chief Executive of the licensee stating the amount of the cost and expense incurred by the licensee shall be prima facie evidence of the amount due from the owner or occupier.
+(7) If any such owner or occupier fails to give notice as provided under subsection (6) or having given notice fails to take any such reasonable precautions as the public telecommunication licensee may have required, he shall be liable to pay the licensee any cost and expense incurred by the licensee for any damage caused to any such installation or plant.
 
-(8) If the amount due for the cost and expense is not paid within 7 days after demand, the amount may be recovered in the same manner as if it were a simple contract debt.
+(8) A certificate purporting to be under the hand of the chief executive of the licensee stating the amount of the cost and expense incurred by the licensee under subsection (7) shall be prima facie evidence of the amount due from the owner or occupier.
 
-(9) If any tree is felled or vegetation is cleared upon land adjacent to a public telecommunication licensee’s installation or plant, it shall be presumed until the contrary is proved that the tree was felled or the vegetation was cleared by the owner or occupier of the land or by his employees or agents acting as such.
+(9) If the amount due for the cost and expense is not paid within 7 days after demand, the amount may be recovered in the same manner as if it were a simple contract debt.
+
+(10) If any tree is felled or vegetation is cleared upon land adjacent to a public telecommunication licensee’s installation or plant, it shall be presumed until the contrary is proved that the tree was felled or the vegetation was cleared by the owner or occupier of the land or by his employees or agents acting as such.
 
 ### Provision of space or facility by developer or owner of building
 
@@ -614,7 +612,7 @@ ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS
 
 ### Disputes as to compensation
 
-23\.—(1) If any dispute arises concerning the sufficiency of compensation to be paid under sections 12(2), 13, 14(1), 16(2), 17(6), 18(3) and 20(4), it shall, on application for that purpose by any aggrieved person to the Authority, be determined by the Authority.
+23\.—(1) If any dispute arises concerning the sufficiency of compensation to be paid under sections 12(2), 13(2), 14(1), 16(2), 17(6), 18(3) and 20(4), it shall, on application for that purpose by any aggrieved person to the Authority, be determined by the Authority.
 
 (2) If any aggrieved person is dissatisfied with the Authority’s determination, he may, within 14 days of the determination, appeal to the Minister whose decision shall be final.
 
@@ -668,11 +666,11 @@ CODES OF PRACTICE AND DIRECTIONS
 
 (c) may be revoked at any time by the Authority.
 
-(3) Before giving a direction to any telecommunication licensee under subsection (1), the Authority shall, unless the Authority in respect of any particular direction considers that it is not practicable or desirable, give notice —
+(3) Before giving a direction to any telecommunication licensee under subsection (1) , the Authority shall, unless the Authority in respect of any particular direction considers that it is not practicable or desirable, give notice —
 
-(a) stating that the Authority proposes to make the direction and setting out its effect; and
+(a) stating that the Authority proposes to makethe direction and setting out its effect; and
 
-(b) specifying the time within which representations or objections to the proposed direction may be made,
+(b) specifying the time within which representations or objections to the proposed directionmay be made,
 
 and shall consider any representations or objections which are duly made.
 
@@ -768,7 +766,7 @@ TELECOMMUNICATION CABLE DETECTION WORK
 
 ### Licensed telecommunication cable detection workers
 
-31\.—(1) Any person who, not being a licensed telecommunication cable detection worker, advertises or holds himself out or conducts himself in any way or by any means as a person who is a licensed telecommunication cable detection worker shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+31\.—(1) Any person who, not being a licensed telecommunication cable detection worker, advertises or holds himself out or conducts himself in any way or by any means as a person who is a licensed telecommunication cable detection worker shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 yearsor to both.
 
 (2) No person other than a licensed telecommunication cable detection worker shall be entitled to recover in any court any charge, fee or remuneration for any telecommunication cable detection work performed or carried out by the person.
 
@@ -786,15 +784,17 @@ OFFENCES AND PENALTIES
 
 (2) Any person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
-(3) In the case of an offence in relation to a telecommunication system or service not extending beyond Singapore, the person or every person operating the system or service (or, if different people run different parts of the system or service, each of them) shall be guilty of an offence and, in the case of an offence in relation to a telecommunication system or service extending beyond Singapore, the person or every person operating that portion of such system or service within Singapore (or, if different people operate different parts of the system or service, each of them) shall be guilty of an offence and shall be similarly liable.
+(3) In the case of an offence in relation to a telecommunication system or service not extending beyond Singapore, the person or every person operating the system or service (or, if different people run different parts of the system or service, each of them) shall be guilty of an offence and shall be similarly liable.
 
-(4) Where the commission by any person of an offence under this section is due to the act or default of some other person, that other person shall be guilty of the offence; and a person may be charged with and convicted of the offence by virtue of this subsection whether or not proceedings are taken against the first-mentioned person.
+(4) In the case of an offence in relation to a telecommunication system or service extending beyond Singapore, the person or every person operating that portion of such system or service within Singapore (or, if different people operate different parts of the system or service, each of them) shall be guilty of an offence and shall be similarly liable.
 
-(5) In any proceedings for an offence under this section, it shall, subject to subsection (6), be a defence for the person charged to prove that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
+(5) Where the commission by any person of an offence under this section is due to the act or default of some other person, that other person shall be guilty of the offence; and a person may be charged with and convicted of the offence by virtue of this subsection whether or not proceedings are taken against the first-mentioned person.
 
-(6) Where the defence provided by subsection (5) involves an allegation that the commission of the offence was due to the act or default of another person, the person charged shall not, without leave of the court, be entitled to rely on that defence unless, within a period ending 7 clear days before the hearing, he has served on the prosecutor a written notice giving such information identifying or assisting in the identification of that other person as was then in his possession.
+(6) In any proceedings for an offence under this section, it shall, subject to subsection (7), be a defence for the person charged to prove that he took all reasonable steps and exercised all due diligence to avoid committing the offence.
 
-### Prohibitions in respect of telecommunication and radio-communication equipment
+(7) Where the defence provided by subsection (6) involves an allegation that the commission of the offence was due to the act or default of another person, the person charged shall not, without leave of the court, be entitled to rely on that defence unless, within a period ending 7 clear days before the hearing, he has served on the prosecutor a written notice giving such information identifying or assisting in the identification of that other person as was then in his possession.
+
+### Prohibitions in respect of telecommunication and radio- communication equipment
 
 34\.—(1) No person shall —
 
@@ -808,7 +808,7 @@ except and in accordance with a licence granted under section 5 or any regulatio
 
 ### Penalty for unlicensed station
 
-35\.—(1) Any person who establishes, installs, maintains, provides or operates a radio-communication system or service or any radio-communication equipment in any place or on board any vessel, aircraft or in any vehicle in Singapore without a licence granted under section 5 or any regulations made under this Act shall be guilty of an offence.
+35\.—(1) Any person who establishes, installs, maintains, provides or operates a radio-communication system or service or any radio- communication equipment in any place or on board any vessel, aircraft or in any vehicle in Singapore without a licence granted under section 5 or any regulations made under this Act shall be guilty of an offence.
 
 (2) Any person who is in possession of any radio-communication equipment shall be deemed, until the contrary is proved, to have operated the same.
 
@@ -828,7 +828,7 @@ except and in accordance with a licence granted under section 5 or any regulatio
 
 (b) in the case of any radio-communication system or service, enter any place in Singapore or stop or board any vessel, aircraft or vehicle and inspect any place therein and may seize any radio-communication system or equipment found therein which appears to be used or is capable of being used for or in connection with radio-communications.
 
-(2) Where any police officer not below the rank of sergeant or any employee authorised by the Authority has reasonable grounds for believing that an offence has been or is being committed under section 33, 34, 35, 39 or 42, he may seize any telecommunication system or equipment or any radio-communication system or equipment, or any other thing used in the commission of the offence.
+(2) Where any police officer not below the rank of sergeant or any employee authorised by the Authority has reasonable grounds for believing that an offence has been or is being committed under section 33, 34, 35, 39 or 44, he may seize any telecommunication system or equipment or any radio-communication system or equipment, or any other thing used in the commission of the offence.
 
 (3) If there is no prosecution with regard to any equipment or system seized under this section, the equipment or system shall be taken and deemed to be forfeited to the Authority unless a claim is made within 2 months from the date of seizure.
 
@@ -842,7 +842,7 @@ except and in accordance with a licence granted under section 5 or any regulatio
 
 38\.—(1) Where it appears to any police officer not below the rank of sergeant or any employee authorised by the Authority that it is not practicable to remove from where it is found any telecommunication system or equipment or any radio-communication system or equipment seized by him under section 37 by reason of its nature, size or amount, he may by any means seal the telecommunication system or equipment or the radio-communication system or equipment.
 
-(2) Any person who, without lawful authority, breaks, tampers with or damages any seal referred to in subsection (1), or removes any telecommunication system or equipment or any radio-communication system or equipment which has been sealed under that subsection, or attempts to do so, shall be guilty of an offence.
+(2) Any person who, without lawful authority, breaks, tampers with or damages any seal referred to in subsection (1), or removes any telecommunication system or equipment or any radio- communication system or equipment which has been sealed under that subsection, or attempts to do so, shall be guilty of an offence.
 
 ### Using unlawful telecommunication system or service
 
@@ -870,7 +870,7 @@ shall be guilty of an offence.
 
 (c) to commit mischief,
 
-damages, removes, tampers with or touches any installation or plant or any part thereof used for telecommunications belonging to a public telecommunication licensee or interferes with the radio-communication service or system of a public telecommunication licensee shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+damages, removes, tampers with or touches any installation or plant or any part thereof used for telecommunications belonging to a public telecommunication licensee or interferes with the radio- communication service or system of a public telecommunication licensee shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 ### Offences by officer, employee or agent of public telecommunication licensees
 
@@ -938,7 +938,13 @@ he shall be guilty of an offence.
 
 ### Fraudulent retention of messages
 
-46\. Any person who fraudulently retains or wilfully secretes, makes away with or detains a message or record of a message which ought to have been delivered to some other person or being required by a public telecommunication licensee to deliver up any such message or record thereof neglects or refuses to do so shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+46\. Any person who —
+
+(a) fraudulently retains or wilfully secretes, makes away with or detains a message or record of a message which ought to have been delivered to some other person; or
+
+(b) being required by a public telecommunication licensee to deliver up any such message or record of such message neglects or refuses to do so,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 ### Protection of installation or plant used for telecommunications
 
@@ -962,7 +968,7 @@ he shall be guilty of an offence.
 
 48\. Any person who, without the permission of a public telecommunication licensee, places or maintains in or on any house or place, belonging to him or under his control, any word, letter or mark which signifies or implies or may reasonably lead the public to believe that the house or place is part of a public telecommunication licensee’s installation or plant shall be guilty of an offence.
 
-### Damage to public telecommunication licensees’ installation or plant
+### Damage to telecommunication system licensees’ installation or plant
 
 49\.—(1) Any person who wilfully removes, destroys or damages any installation or plant used for telecommunications shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -1010,11 +1016,19 @@ INTERNATIONAL OBLIGATIONS AND NATIONAL INTERESTS
 
 ### Right to conduct international business dealings
 
-53\. For the purposes of the conduct of any international telecommunication service by a public telecommunication licensee, and subject to this Act, the licensee may enter into direct communication, arrangement and agreement with the lawfully constituted telecommunication authority of any country or with any duly authorised international agency or organisation concerned with telecommunication matters for the purpose of providing facilities, fixing rates, arranging terms of payment or accounting, for operational, engineering or administrative purposes or for any other purpose necessary for the proper fulfilment of its functions.
+53\. For the purposes of the conduct of any international telecommunication service by a public telecommunication licensee, and subject to this Act, the licensee may enter into direct communication, arrangement and agreement with the lawfully constituted telecommunication authority of any country or with any duly authorised international agency or organisation concerned with telecommunication matters —
+
+(a) for the purpose of providing facilities, fixing rates, arranging terms of payment or accounting;
+
+(b) for operational, engineering or administrative purposes; or
+
+(c) for any other purpose necessary for the proper fulfilment of its functions.
 
 ### Government’s overriding international rights
 
-54\. Nothing in section 53 shall be deemed to abrogate the right of the Government at any time to determine its relations with any country or with any international agency or organisation and a public telecommunication licensee shall so discharge its responsibilities and conduct its business as to comply with and fulfil all international agreements, conventions or undertakings relating to telecommunication to which Singapore is a party.
+54\.—(1) Nothing in section 53 shall be deemed to abrogate the right of the Government at any time to determine its relations with any country or with any international agency or organisation.
+
+(2) A public telecommunication licensee shall so discharge its responsibilities and conduct its business as to comply with and fulfil all international agreements, conventions or undertakings relating to telecommunication to which Singapore is a party.
 
 ### Liability for international financial obligations
 
@@ -1026,7 +1040,9 @@ INTERNATIONAL OBLIGATIONS AND NATIONAL INTERESTS
 
 ### Provision to Government of telecommunication services, etc.
 
-57\. The Minister may direct a public telecommunication licensee to undertake and provide such telecommunication services and facilities as may be necessary for aeronautical, maritime, meteorological, governmental, defence or other purposes and upon being so directed, the licensee shall so provide the services or facilities, and shall be entitled to fair and proper payment therefor.
+57\.—(1) The Minister may direct a public telecommunication licensee to undertake and provide such telecommunication services and facilities as may be necessary for aeronautical, maritime, meteorological, governmental, defence or other purposes.
+
+(2) Upon being so directed by the Minister, the public telecommunication licensee shall so provide the telecommunication services or facilities referred to in subsection (1), and shall be entitled to fair and proper payment therefor.
 
 ### Directions by Minister
 
@@ -1086,7 +1102,7 @@ ENFORCEMENT POWERS AND PROCEDURES
 
 (ii) unless the document forms part of the records or other documents of a court or public authority, to transmit the document itself to the Authority for inspection.
 
-(2) The Authority or such duly authorised officer shall be entitled without payment to keep any copy or extract furnished to him under subsection (1).
+(2) The Authority or the officer authorised by the Authority in that behalf shall be entitled without payment to keep any copy or extractfurnished to him under subsection (1).
 
 (3) The Authority or any officer authorised by the Authority in that behalf shall at all reasonable times in the day have full and free access to all buildings, places, books, documents and other papers for the purpose of discharging its functions under this Act, and may, without payment, inspect, copy or make extracts from any such books, documents or papers.
 
@@ -1130,7 +1146,7 @@ and may search any person so arrested, except that no female shall be searched e
 
 (a) stop and examine the vessel, aircraft or vehicle or enter the premises and there search for and take possession of any article and of any book or document which is reasonably believed to have a bearing on the case; and
 
-(b) arrest any person being in the vessel, aircraft, vehicle or premises in whose possession the article may be found or whom the police officer or the Chief Executive or employee of the Authority may reasonably suspect to have concealed or deposited the article and may search any person so arrested, except that no female shall be searched except by a female.
+(b) arrest any person being in the vessel, aircraft, vehicle or premises in whose possession the article may be found or whom the police officer or the Chief Executive or the employee of the Authority may reasonably suspect to have concealed or deposited the article and may search any person so arrested, except that no female shall be searched except by a female.
 
 (2) Every person so arrested shall, together with any such article, be taken to a police station.
 
@@ -1156,7 +1172,9 @@ and may search any person so arrested, except that no female shall be searched e
 
 ### Saving of prosecutions under other written laws
 
-66\. Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or any regulations made thereunder, or from being liable under that other written law to any punishment or penalty higher or other than that provided by this Act or the regulations, but no person shall be punished twice for the same offence.
+66\.—(1) Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or any regulations made thereunder, or from being liable under that other written law to any punishment or penalty higher or other than that provided by this Act or the regulations.
+
+(2) No person shall be punished twice for the same offence.
 
 ### Jurisdiction of Courts
 
@@ -1164,7 +1182,11 @@ and may search any person so arrested, except that no female shall be searched e
 
 ### Offences by bodies of persons
 
-68\. Where an offence under this Act or any regulations made thereunder has been committed by a company, firm, society or other body of persons, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in such capacity shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
+68\. Where an offence under this Act or any regulations made thereunder has been committed by a company, firm, society or other body of persons, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in such capacity shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
+
+(a) the offence was committed without his consent or connivance; and
+
+(b) he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
 
 ## PART IX
 
@@ -1236,7 +1258,7 @@ which is due to the act or default of another person, or an accident or some oth
 
 (a) the proficiency examinations, including the syllabi and the details thereof, for the certification of competency of individuals operating telecommunication services or for the grant of any licence by the Authority;
 
-(b) the classes and the conditions for the grant of licences by the Authority;
+(b) the classes and the conditions for the grant of licencesby the Authority;
 
 (c) in relation to cable detection work licences —
 
@@ -1256,39 +1278,96 @@ which is due to the act or default of another person, or an accident or some oth
 
 75\.—(1) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved by the TAS in relation to telecommunication matters under the repealed Act shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Authority under the corresponding provisions of this Act.
 
-(2) Any subsidiary legislation made under the repealed Act or any other written law relating to telecommunication matters and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
+(2) Any subsidiary legislation made under the repealed Act or any other written law relating to telecommunication matters and in force immediately before 1st December 1999 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
 
-### Consequential amendments
+## LEGISLATIVE HISTORY
 
-76\.—(1) Section 2(1) of the Betting Act (Cap. 21) is amended by deleting the words “Telecommunication Authority of Singapore Act” wherever they appear in the definitions of “equipment” and “telecommunication system” and substituting in each case the words “Telecommunications Act 1999”.
+Telecommunications Act
 
-(2) The Third Schedule to the Central Provident Fund Act (Cap. 36) is amended —
+(CHAPTER 323)
 
-(a) by inserting, immediately after item 23, the following item:
+This Legislative History is provided for the convenience of users of the Telecommunications Act. It is not part of this Act.
 
-“23A. Postal Services Act 1999.”; and
+||||
+|:-|:-|:-|
+|1.|**Act 43 of 1999—Telecommunications Act 1999**|
+||Date of First Reading|11 October 1999|
+|||(Bill No. 33/1999 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
+|2.|**2000 Revised Edition—Telecommunications Act**|
+||Date of operation|30 December 2000|
+## COMPARATIVE TABLE
 
-(b) by deleting item 34 and substituting the following item:
+Telecommunications Act
 
-“34. Telecommunications Act 1999.”.
+(CHAPTER 323)
 
-(3) Section 35(9) of the Charities Act (Cap. 37) is amended —
+The following provisions in the Telecommunications Act 1999 (Act 43 of 1999) have been enumbered by the Law Revision Commissioners in this 2000 Revised Edition.
 
-(a) by deleting the words “Telecommunication Authority of Singapore Act” in the definition of “telecommunication system” and substituting the words “Telecommunications Act 1999”; and
+This Comparative Table is provided for the convenience of users. It is not part of the Telecommunications Act.
 
-(b) by deleting the marginal reference “Cap. 323.”.
+2000 Ed\. 
 
-(4) Section 9(3) of the Official Secrets Act (Cap. 213) is amended —
+Act 43 of 1999 
 
-(a) by deleting the words “Telecommunication Authority of Singapore Act” and substituting the words “Telecommunications Act 1999”; and
+8 — (2)
 
-(b) by deleting the marginal reference “Cap.323.”.
+Set out for8 — (1)
 
-(5) Section 2 of the Statutory Boards (Taxable Services) Act (Cap. 318) is amended by deleting the words “Telecommunication Authority of Singapore Act” in the definition of “statutory board” and substituting the words “Telecommunications Act 1999”.
+(3) to (7)
 
-(6) Section 5(1) of the Bills of Lading Act (Cap. 384) is amended —
+(2) to (6)
 
-(a) by deleting the words “Telecommunication Authority of Singapore Act” in the definition of “telecommunication system” and substituting the words “Telecommunications Act 1999”; and
+9 — (4) and (5)
 
-(b) by deleting the marginal reference “Cap. 323.”.
+9 — (4)
+
+(6) and (7)
+
+(5) and (6)
+
+13 — (1)
+
+13 
+
+(2)
+
+13 — (a)
+
+(3)
+
+13 — (b)
+
+18 — (7) and (8)
+
+18 — (7)
+
+(9) and (10)
+
+(8) and (9)
+
+33 — (3) and (4)
+
+33 — (3)
+
+(5), (6) and (7)
+
+(4), (5) and (6)
+
+54 — (1) and (2)
+
+54 
+
+57 — (1) and (2)
+
+57 
+
+66 — (1) and (2)
+
+66 
+
+Omitted
+
+76 
 
