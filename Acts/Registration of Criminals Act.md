@@ -474,7 +474,7 @@ Misuse of Drugs Act [Cap. 185]
 
 ...
 
-Sections 5 to 14 and 33(3).
+Part II, sections 31(2), 33(3) and 33A
 
 Moneylenders Act [Cap. 188]
 
@@ -611,6 +611,8 @@ Sections 35 to 40 and the whole of Part X.
 [17/80]
 
 [10/1989 wef 09/06/1989]
+
+[20/1998 wef 20/07/1998]
 
 SECOND SCHEDULE
 
@@ -843,3 +845,9 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Dates of commencement|1 October 1997 (item (28) of Second Schedule)|
+|22.|**Act 20 of 1998—Misuse of Drugs (Amendment) Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|20 April 1998|
+|||(Bill No. 17/1998 published on 21 April 1998)|
+||Date of Second and Third Readings|1 June 1998|
+||Date of commencement|20 July 1998|
