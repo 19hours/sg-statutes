@@ -34,6 +34,8 @@
 
 - [11 Charge of tax on vehicles](#Charge-of-tax-on-vehicles)
 
+- [11A Restricted licences and supplementary licences](#Restricted-licences-and-supplementary-licences)
+
 - [12 Vehicles licensed outside Singapore](#Vehicles-licensed-outside-Singapore)
 
 - [13 Commencement and duration of licences](#Commencement-and-duration-of-licences)
@@ -258,7 +260,7 @@
 
 - [108 Revocation and suspension of licences](#Revocation-and-suspension-of-licences)
 
-- [109 Public stands](#Public-stands)
+- [109 [Act 7 of 1990 wef 02/04/1990]Public stands](#[Act-7-of-1990-wef-02/04/1990]Public-stands)
 
 - [110 Vocational licences](#Vocational-licences)
 
@@ -614,6 +616,10 @@ and different rules may be made in respect of different classes or descriptions 
 
 (e) prescribe the conditions upon which permits are issued under this section;
 
+(ea) provide for a rebate on all or any part of the levy payable for the issue of a permit under this section, in such circumstances as may be permitted by the rules;
+
+[Act 16 of 1991 wef 01/04/1991]
+
 (f) provide for the cancellation of a permit issued under this section and the refund of all or part of the levy paid for the issue of the permit in such circumstances as may be permitted by the rules;
 
 (g) impose a levy on the transfer of a permit at any time prior to the registration of a vehicle authorised by the permit;
@@ -642,6 +648,10 @@ and the tax shall be paid upon a licence to be taken out by the person keeping t
 
 (4) Any rates prescribed by the Minister may be so made to apply only to vehicles of a specified class, category or description and the Minister may prescribe different rates for vehicles of different classes, categories or descriptions or vehicles used for different purposes.
 
+(4A) The Minister may prescribe a rebate on all or any part of the tax payable for vehicles of a specified class, category or description and the Minister may prescribe different rates of rebate or the methods for determining the amount of the rebate for vehicles of different classes, categories or descriptions or vehicles used for different purposes.
+
+[Act 16 of 1991 wef 01/04/1991]
+
 (5) For the purposes of the tax, in so far as it is chargeable in respect of the use or keeping of a vehicle on a road, a vehicle shall be deemed —
 
 (a) to be chargeable with the like tax as on the occasion of the issue of the vehicle licence or last vehicle licence issued for the vehicle under this Act, and to be so chargeable by reference to the prescribed rate as applicable to the vehicle on that occasion; or
@@ -657,6 +667,22 @@ and the tax shall be paid upon a licence to be taken out by the person keeping t
 (8) The Registrar may, in his discretion, compound any offence punishable under subsection (7) by collecting from the person reasonably suspected of having committed the offence a sum of money not exceeding $1,000 and the amount of the tax undercharged, and may before judgment stay or compound any proceedings thereunder.
 
 [Act 7 of 1990 wef 02/04/1990]
+
+### Restricted licences and supplementary licences
+
+11A\.—(1) The Registrar may, upon application by the owner of a motor car in such circumstances as may be prescribed, issue a licence subject to the restriction that the motor car shall not be driven on any roads or on specified roads during specified days or times unless there is in force a supplementary licence for that motor car.
+
+(2) The Minister may make rules for carrying out or giving effect to this section and, in particular, may —
+
+(a) provide for the issue of supplementary licences, whether at prescribed fees or without charge, and regulate their use and exhibition; and
+
+(b) provide for all matters necessary or incidental to allow subsection (1) to apply or cease to apply to motor cars of any description, including the re-registration of such cars and the imposition of any fee or levy in connection with such re-registration.
+
+(3) Any person who drives a motor car, issued with a licence subject to the restriction referred to in subsection (1), in contravention of such a restriction or any owner of such a motor car who causes or permits his car to be so driven shall be guilty of an offence and shall on conviction be punished with a fine of not less than half the amount of the road tax payable for 12 months in respect of that motor car if it were not subject to the restriction referred to in subsection (1) and, in the case of a second or subsequent conviction, with a fine of not less than the amount of the road tax payable for 12 months in respect of that motor car if it were not subject to the restriction referred to in subsection (1).
+
+(4) Any person who falsifies an identification mark or plate prescribed in the case of a motor car issued with a licence subject to the restriction referred to in subsection (1) or who displays, or causes or permits to be displayed, a falsified identification mark or plate on such a motor car shall be guilty of an offence and shall on conviction be punished with a fine of not less than twice the amount of the fee payable for a licence for 12 months in respect of that motor car if it were not subject to the restriction referred to in subsection (1).
+
+[Act 16 of 1991 wef 01/04/1991]
 
 ### Vehicles licensed outside Singapore
 
@@ -888,13 +914,17 @@ Provided that a person charged under this section with having an obscured mark o
 
 ### Power to compound
 
-32\. The Registrar may, in his discretion, compound any offence under this Part or any rules made thereunder by collecting from the person reasonably suspected of having committed the offence a sum of money not exceeding $50 and in the case of an offence under section 15 a sum not exceeding $200.
+32\. The Registrar may, in his discretion, compound any offence under this Part or any rules made thereunder by collecting from the person reasonably suspected of having committed the offence a sum of money not exceeding $50 and in the case of an offence under section 11A (3), 11A (4) or 15 a sum not exceeding $200.
+
+[Act 16 of 1991 wef 01/04/1991]
 
 ### Exemptions and application to vehicles belonging to Government
 
 33\.—(1) The Minister may in special cases and for a particular occasion exempt any vehicle or type of vehicle from the operation of all or any of the provisions of this Part or from the taxes or fees payable thereunder or may reduce such taxes or fees.
 
-(2) This Part shall apply to vehicles belonging to the Government but nothing in this Part shall be construed as requiring any taxes or fees to be payable under this Part in respect of such vehicles.
+(2) This Part shall apply to vehicles belonging to the Government.
+
+[Act 16 of 1991 wef 01/04/1991]
 
 ### Rules for purposes of this Part
 
@@ -904,7 +934,9 @@ Provided that a person charged under this section with having an obscured mark o
 
 (b) to provide for the issue of registration books in respect of the registration of any vehicle and for the surrender, transfer and production and the inspection by the prescribed persons of any book so issued; and for the issue of new registration books and new vehicle licences in the place of any such books or licences which may be lost or destroyed and for a fee to be paid on the issue of a new registration book or vehicle licence;
 
-(c) to prescribe the size, shape and character of the identification marks or the signs to be fixed on any vehicle and the manner in which those marks or signs are to be displayed and rendered easily distinguishable whether by night or by day;
+(c) to prescribe the size, shape and character of the identification marks or the signs to be fixed on any vehicle and the manner in which those marks or signs are to be secured, sealed, displayed and rendered easily distinguishable whether by night or by day and to prohibit those marks, signs and seals from being tampered with;
+
+[Act 16 of 1991 wef 01/04/1991]
 
 (d) to require any person to whom any vehicle is sold or disposed of to furnish the prescribed particulars in the prescribed manner;
 
@@ -2061,9 +2093,7 @@ Provided that the Registrar shall not issue a public service vehicle licence to 
 
 (d) the licensee has contravened or failed to comply with any of the provisions of this Act or the rules.
 
-[Act 7 of 1990 wef 02/04/1990]
-
-### Public stands
+### [Act 7 of 1990 wef 02/04/1990]Public stands
 
 109\. The Minister may provide, appoint and regulate the use of such public stands for any class of public service vehicle as he thinks fit, and on the application of or with the consent of the owner of any private property may regulate the use of public stands provided on such private property.
 
@@ -2739,3 +2769,8 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 5/90 published on 27 February 1990)|
 ||Date of Second and Third Readings|28 March 1990|
 ||Date of commencement|2 April 1990|
+|29.|**Act 16 of 1991—Road Traffic (Amendment) Act 1991**|
+||Date of First Reading|26 February 1991|
+|||(Bill No. 7/91 published on 28 February 1991)|
+||Date of Second and Third Readings|22 March 1991|
+||Date of commencement|1 April 1991|
