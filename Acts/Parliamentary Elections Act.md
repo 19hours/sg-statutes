@@ -272,9 +272,9 @@
 
 (Original Enactment: Ordinance 26 of 1954)
 
-REVISED EDITION 1985
+REVISED EDITION 1989
 
-(30th March 1987)
+(15th March 1989)
 
 An Act to make provision for Parliamentary Elections.
 
@@ -2782,3 +2782,5 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|30 July 1988|
 |34.|**G. N. No. S 212/1988—Parliamentary Elections Act (Variation of Form) Regulations 1988**|
 ||Date of commencement|16 August 1988|
+|35.|**1989 Revised Edition—Parliamentary Elections Act**|
+||Date of operation|15 March 1989|
