@@ -92,7 +92,9 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Board” means the National Productivity Board established under the National Productivity Board Act [Cap. 329];
+“Board” means the Singapore Productivity and Standards Board established under the Singapore Productivity and Standards Board Act 1995;
+
+[Act 1/1996 wef 01/04/1996]
 
 “employee”, in relation to a month, means an employee rendering in that month services wholly or partly in Singapore and an employee who is on leave during that month where such leave is attributable to services rendered wholly or partly in Singapore in any previous month, but does not include any domestic servant, gardener or chauffeur, wholly and exclusively employed by an individual otherwise than in connection with his trade, business, profession or vocation;
 
@@ -212,7 +214,7 @@ MISCELLANEOUS
 
 ### Penalty for false return or information
 
-11A\.—(1) Any person who neligently or without reasonable excuse —
+11A\.—(1) Any person who negligently or without reasonable excuse —
 
 (a) makes a return which is false in any material particulars; or
 
@@ -254,7 +256,7 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 ### Power to compound
 
-14\.—(1) The Board may abate any penalty or compound any offence under this Act or any regulations made thereunder by accepting from the person who is reasonably suspected of having committed the offence a sum not exceeding $500.
+14\.—(1) The board may abate any penalty or compound any offence under this Act or any regulations made thereunder by accepting from the person who is reasonably suspected of having committed the offence a sum not exceeding $500.
 
 (2) All sums received for the composition of any offence under this section shall be paid into the Fund.
 
@@ -274,7 +276,7 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 17\.—(1) The Board shall, as soon as practicable but not later than 30th June in every year, prepare and submit the financial statements relating to the Fund in respect of the preceding financial year of the Board to the Auditor-General who shall audit and report on them.
 
-(2) As soon as the financial statements have been audited by the Auditor-General, a copy of the audited financial statements and the report of the Auditor-General shall be submitted to the Minister.
+(2) As soon as the financial statements have been audited by the Auditor-General, a copy of the audited financial statements and the report if the Auditor-General shall be submitted to the Minister.
 
 (3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the report of the Auditor-General to be presented to Parliament.
 
@@ -294,7 +296,7 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 ### Preservation of secrecy
 
-20\.—(1) Except for the purpose of the peformance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a member, employee or agent of the Board shall disclose to any person any information relating to the affairs of the Board or of any person which he has acquired in the performance of his duties or the exercise of his functions.
+20\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a member, employee or agent of the Board shall disclose to any person any information relating to the affairs of the Board or of any person which he has acquired in the performance of his duties or the exercise of his functions.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
 
@@ -380,3 +382,9 @@ This Legislative History is provided for the convenience of users of the Skills 
 ||Date of commencement|7 June 1991|
 |7.|**1992 Revised Edition—Skills Development Levy Act (Chapter 306)**|
 ||Date of operation|9 March 1992|
+|8.|**Act 1 of 1996—Singapore Productivity and Standards Board Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|1 November 1995|
+|||(Bill No. 39/1995 published on 2 November 1995)|
+||Date of Second and Third Readings|5 December 1995|
+||Date of commencement|1 April 1996|
