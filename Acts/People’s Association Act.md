@@ -362,8 +362,6 @@ Consultant Organisations
 
 34. Singapore Amateur Gymnastic Association.
 
-35. Singapore Amateur Sepak Takraw Association.
-
 36. Singapore Amateur Swimming Association.
 
 37. Singapore Amateur Weightlifting Federation.
@@ -440,7 +438,9 @@ Consultant Organisations
 
 70. Singapore Scout Association.
 
-71. Singapore Silat Federation (Persekutuan Silat Singapura).
+71. Singapore Sepaktakraw Federation.
+
+71A. Singapore Silat Federation (Persekutuan Silat Singapura).
 
 72. Singapore Squash Rackets Association.
 
@@ -596,3 +596,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Dates of commencement|1 October 1997 (except section 3)|
 |39.|**G.N. No. S 501/98—People’s Association Act (Amendment of First Schedule) Notification 1998**|
 ||Date of commencement|19 September 1998|
+|40.|**G.N. No. S 110/99—People’s Association Act (Amendment of First Schedule) Notification 1999**|
+||Date of commencement|18 March 1999|
