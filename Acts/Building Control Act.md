@@ -1441,3 +1441,8 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 5/89)|
 ||Date of Second and Third Readings|16.2.1989|
 ||Date of commencement|4 December 1992|
+|7.|**Act 18 of 1995—Building Control (Amendment) Act 1995**|
+||Date of First Reading|1.3.95|
+|||(Bill No. 10/95 published on 2.3.95)|
+||Date of Second and Third Readings|25.5.95|
+||Date of commencement|1 September 1995|
