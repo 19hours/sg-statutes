@@ -1,14 +1,12 @@
-**Maritime Offences Act 2003**
+**Maritime Offences Act**
 
-**(No. 26 of 2003)**
+**(CHAPTER 170B)**
 
 **Table of Contents**
 
 [**Long Title**](#Maritime-Offences-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -30,47 +28,25 @@
 
 - [11 Extradition](#Extradition)
 
-- [12 Consequential amendment to Hijacking of Aircraft and Protection of Aircraft and International Airports Act](#Consequential-amendment-to-Hijacking-of-Aircraft-and-Protection-of-Aircraft-and-International-Airports-Act)
+[**Legislative History**](#Legislative-History)
 
-- [13 Consequential amendment to Supreme Court of Judicature Act](#Consequential-amendment-to-Supreme-Court-of-Judicature-Act)
+# Maritime Offences Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 170B)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 26 of 2003)
 
-ACTS SUPPLEMENT
+REVISED EDITION 2004
 
-Published by Authority
+(31st December 2004)
 
-NO. 10]
+An Act to give effect to the provisions of the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation done in Rome on 10th March 1988 and for purposes connected therewith.
 
-Friday, April 2
+[3rd May 2004]
 
-[2004
+### Short title
 
-The following Act was passed by Parliament on 10th November 2003 and assented to by the President on 28th November 2003:—
-
-Maritime Offences Act 2003
-
-(No. 26 of 2003)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-28th November 2003.
-
-Date of Commencement: 3rd May 2004
-
-An Act to give effect to the provisions of the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation done in Rome on 10th March 1988 and for purposes connected therewith, and to make consequential amendments to the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Chapter 124 of the 1997 Revised Edition) and the Supreme Court of Judicature Act (Chapter 322 of the 1999 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the Maritime Offences Act 2003 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Maritime Offences Act.
 
 ### Interpretation
 
@@ -198,13 +174,13 @@ where the destruction, damage or interference is likely to endanger the safe nav
 
 6\.—(1) A person shall be guilty of an offence if —
 
-(a) in order to compel any other person to do or abstain from doing any act, threatens that he or some other person will do in relation to any ship an act which is an offence under section 4(1); and
+(a) in order to compel any other person to do or abstain from doing any act, he threatens that he or some other person will do in relation to any ship an act which is an offence under section 4(1); and
 
 (b) the making of that threat is likely to endanger the safe navigation of the ship.
 
 (2) Subject to subsection (4), a person shall be guilty of an offence if —
 
-(a) in order to compel any other person to do or abstain from doing any act, threatens that he or some other person will do an act which is an offence under section 5(1); and
+(a) in order to compel any other person to do or abstain from doing any act, he threatens that he or some other person will do an act which is an offence under section 5(1); and
 
 (b) the making of that threat is likely to endanger the safe navigation of any ship.
 
@@ -322,17 +298,20 @@ but no further steps in the proceedings in relation to the offence shall be take
 
 shall be deemed to be an offence within the jurisdiction of that country.
 
-### Consequential amendment to Hijacking of Aircraft and Protection of Aircraft and International Airports Act
+## LEGISLATIVE HISTORY
 
-12\. Section 11 of the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124) is amended by inserting, immediately after subsection (2), the following subsection:
+Maritime Offences Act
 
-“
+(CHAPTER 170B)
 
-(2A) Subsection (2) is without prejudice to any other notification made under section 4 of the Extradition Act.
+This Legislative History is provided for the convenience of users of the Maritime Offences Act. It is not part of the Act.
 
-”.
-
-### Consequential amendment to Supreme Court of Judicature Act
-
-13\. Section 15(1) of the Supreme Court of Judicature Act (Cap. 322) is amended by inserting, immediately after the words “Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124)” in paragraph (e), the words “or the Maritime Offences Act 2003”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 26 of 2003—Maritime Offences Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 23/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|10 November 2003|
+||Date of commencement|3 May 2004|
+|2.|**2004 Revised Edition—Maritime Offences Act**|
+||Date of operation|31 December 2004|
