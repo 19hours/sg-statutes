@@ -977,7 +977,9 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 (d) harbours any person who has acted in contravention of the provisions of this Act or the regulations;
 
-(e) employs any person who has acted in contravention of section 6, 15 or 36 or the regulations;
+(e) employs any person who has acted in contravention of section 6(1), 15 or 36 or the regulations;
+
+[Act 34 of 1989 wef 13/10/1989]
 
 (f) makes or causes to be made any false report, false statement or false representation in connection with any obligation imposed by the provisions of this Act or the regulations;
 
@@ -997,13 +999,21 @@ shall be guilty of an offence and —
 
 (i) in the case of an offence under paragraph (a) shall be liable on conviction to imprisonment for a term of not less than 3 months and not more than 2 years and shall also be liable to a fine not exceeding $4,000;
 
-(ii) in the case of an offence under paragraph (b), (d) or (e) shall be liable on conviction to imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000;
+(ii) subject to subsection (1A), in the case of an offence under paragraph (b), (d) or (e) shall be liable on conviction to imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000;
 
-(iii) in the case of an offence under paragraph (c) shall be liable on conviction to imprisonment for a term of not less than 2 years and not more than 5 years and shall also be liable to a fine not exceeding $10,000 and to caning; and
+[Act 34 of 1989 wef 13/10/1989]
+
+(iii) in the case of an offence under paragraph (c) shall be punished with imprisonment for a term of not less than 2 years and not more than 5 years and shall also be punished, subject to section 231 of the Criminal Procedure Code (Cap. 68), with caning with not less than 3 strokes; and
+
+[Act 34 of 1989 wef 13/10/1989]
 
 (iv) in the case of an offence under paragraph (f), (g), (h), (i), (j), (k) or (l) shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [12/70; 60/73; 13/77; 35/84]
+
+(1A) Where in the case of any offence under subsection (1)(e), it is proved to the satisfaction of the court that the defendant has at the same time employed more than 5 persons with the actual knowledge that those persons have acted in contravention of section 6(1), 15 or 36, the defendant shall be punished, subject to section 231 of the Criminal Procedure Code (Cap. 68), with caning in addition to the punishment prescribed for that offence.
+
+[Act 34 of 1989 wef 13/10/1989]
 
 (2) Where a body corporate is guilty of an offence under subsection (1)(e) and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
@@ -1148,3 +1158,8 @@ This Legislative History is provided for the convenience of users of the Immigra
 |||(Bill No. 8/89 published on 16 January 1989)|
 ||Date of Second and Third Readings|26 January 1989|
 ||Date of commencement|31 March 1989|
+|17.|**Act 34 of 1989—Immigration (Amendment No. 2) Act 1989**|
+||Date of First Reading|4 August 1989|
+|||(Bill No. 36/89 published on 5 August 1989)|
+||Date of Second and Third Readings|31 August 1989|
+||Date of commencement|13 October 1989|
