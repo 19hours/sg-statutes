@@ -22,6 +22,8 @@
 
 - [8 Power to borrow](#Power-to-borrow)
 
+- [8A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [9 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
 
 - [10 Investment](#Investment)
@@ -44,7 +46,7 @@
 
 - [19 Symbol of Agency](#Symbol-of-Agency)
 
-[**FIRST SCHEDULE Constitution and proceedings of the Agency**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-the-Agency)
+[**FIRST SCHEDULE Constitution and proceedings of the aAgency**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-the-aAgency)
 
 [**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
@@ -228,6 +230,12 @@ An Act to establish the Agency for Science, Technology and Research and for matt
 
 8\. The Agency may from time to time for the purposes of this Act raise loans from the Government or, with the consent of the Minister, from any other source.
 
+### Issue of shares, etc.
+
+8A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Agency under this Act, or of any capital injection or other investment by the Government in the Agency in accordance with any written law, the Agency shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
+
 ### Bank accounts and application of revenue
 
 9\.—(1) The Agency shall open and maintain an account or accounts with such bank or banks as the Agency thinks fit; and every such account shall be operated upon as far as practicable by cheque signed by such person or persons as may from time to time be authorised in that behalf by the Agency.
@@ -296,7 +304,7 @@ FIRST SCHEDULE
 
 Section 4.
 
-Constitution and proceedings of the Agency
+Constitution and proceedings of the aAgency
 
 Appointment of Chairman and other members
 
@@ -520,3 +528,10 @@ This Legislative History is provided for the convenience of users of the Agency 
 ||Date of Second and Third Readings|27 August 2002|
 ||Date of commencement|1 January 2002|
 |||(except sections 6, 8(b), 9 and 10)|
+|5.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
+|||(item (18) in the Schedule)|
