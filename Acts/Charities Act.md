@@ -472,7 +472,7 @@ for at least 7 years from the end of the financial year to which any such statem
 
 exceeds $250,000 or such other sum as the Minister may by notification prescribe.
 
-(2) If this subsection applies to a financial year of a charity, the accounts of the charity for that year shall be audited by a person who is, in accordance with section 9 of the Companies Act [Cap. 50], approved as an approved company auditor.
+(2) If this subsection applies to a financial year of a charity, the accounts of the charity for that year shall be audited by a person who is a public accountant within the meaning of the Companies Act.
 
 (3) If subsection (2) does not apply to a financial year of a charity, then (subject to subsection (4)) the accounts of the charity for that year shall, at the election of the charity trustees, either —
 
@@ -1509,3 +1509,9 @@ This Legislative History is provided for the convenience of users of the Chariti
 |||(Bill No. 24/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|1 March 2002 (section 3 — Amendment of Charities Act)|
+|5.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
+||(Consequential amendments made by)||
+||Date of First Reading|5 January 2004|
+|||(Bill No. 3/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|1 April 2004 (except section 28(a) and (c))|
