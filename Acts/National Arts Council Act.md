@@ -257,7 +257,9 @@ FUNDS AND PROPERTY OF COUNCIL
 
 (2) The Council may open and maintain an account or accounts with any bank or banks as the Council thinks fit.
 
-(3) The Council may from time to time invest any funds of the Council in such manner or securities as trustees may by any written law be authorised to invest or, with the approval of the Minister, in any other securities or investments.
+(3) The Council may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 (4) Subject to the terms of any trust or endowment, the funds and property of the Council shall be applied solely for the purposes of or in connection with the performance of the functions, powers and duties of the Council under this Act, and no portion thereof shall be paid or transferred, directly or indirectly, by way of dividend, bonus or otherwise by way of profit to its members.
 
@@ -583,3 +585,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002 (Except item 18 in the Schedule)|
+|4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
