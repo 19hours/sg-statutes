@@ -138,8 +138,6 @@ An Act to regulate the manufacture, use, sale, storage, transport, importation, 
 
 “gun” includes howitzers, mortars, quick-firing and machine-guns, and other guns of a similar nature;
 
-“licensed auctioneer” means any person licensed under the Auctioneers’ Licences Act [Cap. 16] as an auctioneer;
-
 “licensed dealer” means a person licensed under this Act to manufacture or deal in arms or guns;
 
 “licensing authority” means such person or authority as may be appointed by the Minister under section 9;
@@ -150,7 +148,7 @@ An Act to regulate the manufacture, use, sale, storage, transport, importation, 
 
 “Port Master” has the same meaning as in the Maritime and Port Authority of Singapore Act 1996;
 
-[7/1996 wef 02/02/1996]
+[Act 7/96 wef 02/02/1996 vide S 42/96]
 
 “railway administration” means any person or body of persons responsible for the regulation of traffic on any railway;
 
@@ -292,11 +290,9 @@ Provided that this section shall not apply to bayonets, swords, daggers, spears 
 
 ### Delivery by other than licensed dealers
 
-13\.—(1) Any person, not being a licensed dealer, in possession of any guns, arms or ammunition under a licence, may deliver the same to any other person who has produced to him a licence for the possession thereof or to a licensed auctioneer:
+13\.—(1) Any person, not being a licensed dealer, in possession of any guns, arms or ammunition under a licence, may deliver the same to any other person who has produced to him a licence for the possession thereof:
 
 Provided that the person delivering the same forthwith returns his licence to the licensing authority or other proper officer, endorsed with a note containing the date of delivery and the name, address and description of the person to whom he has delivered the guns, arms or ammunition, or such other information as is prescribed.
-
-(2) A licensed auctioneer may sell any guns, arms or ammunition sent to him for sale but shall be governed by the rules made under this Act relating to licensed dealers in respect thereof, and shall within 24 hours of the receipt of any guns, arms or ammunition for sale report the receipt thereof with particulars of the guns, arms and ammunition and the name and address of the owner thereof to the licensing authority.
 
 (3) Any person who commits any act in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
 
@@ -510,7 +506,7 @@ it shall be presumed, unless the contrary is proved, that the article was attemp
 
 [34
 
-[7/1996 wef 02/02/1996]
+[Act 7/96 wef 02/02/1996]
 
 ### Arrest by police without warrant
 
@@ -743,3 +739,9 @@ This Legislative History is provided for the convenience of users of the Arms an
 |||(Bill No. 46/95 published on 6 December 1995)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|2 February 1996|
+|29.|**Act 22 of 2000—Auctioneers’ Licences (Amendment) Act 2000**|
+||(Consequential amendments made by)||
+||Date of First Reading|22 May 2000|
+|||(Bill No. 17/2000 published on 23 May 2000)|
+||Date of Second and Third Readings|3 July 2000|
+||Date of commencement|1 August 2000|
