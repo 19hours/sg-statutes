@@ -192,7 +192,9 @@ PRELIMINARY
 
 “Certified Interpretation Plan” means a Certified Interpretation Plan prepared and certified by the competent authority under section 7;
 
-“Collector” means any officer appointed by the Minister for Law to be a Collector of Land Revenue or a Deputy Collector of Land Revenue;
+“Collector” has the same meaning as in the Land Revenue Collection Act (Cap.155);
+
+[17/2001 wef 01/06/2001]
 
 “competent authority”, in relation to this Act or any Part or provision of this Act, means any competent authority appointed under section 5 to be responsible for the operation of this Act or that Part or provision, as the case may be;
 
@@ -1396,3 +1398,9 @@ This Legislative History is provided for the convenience of users of the Plannin
 |||(Bill No. 27/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
 ||Dates of commencement|24th December 1998 (section 6)|
+|21.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 6 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
