@@ -15945,3 +15945,5 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|22 January 2001|
 |50.|**G. N. No. S 29/2001—Companies Act (Amendment of Second Schedule) Notification 2001**|
 ||Date of commencement|22 January 2001|
+|51.|**G. N. No. S 99/2001—Companies Act (Amendment of Fifth Schedule) Notification 2001**|
+||Date of commencement|22 February 2001|
