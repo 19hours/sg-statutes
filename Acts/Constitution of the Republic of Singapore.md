@@ -4426,3 +4426,8 @@ This Legislative History is provided for the convenience of users of the Constit
 |||(Bill No. 1/95 published on 24 January 1995)|
 ||Date of Second and Third Readings|1 March 1995|
 ||Date of commencement|1 April 1995|
+|32.|**Act 41 of 1996—Constitution of the Republic of Singapore (Amendment) Act 1996**|
+||Date of First Reading|1 October 1996|
+|||(Bill No. 30/96 published on 1 October 1996)|
+||Date of Second and Third Readings|28 October 1996|
+||Date of commencement|12 November 1996 (sections 1, 5 to 15 and 17)|
