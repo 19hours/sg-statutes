@@ -1364,8 +1364,6 @@ Diacetylmorphine; its salts
 
 Diacetylnalorphine; its salts
 
-Diamines, the following; their salts: phenylene diamines; tolylene diamines; other derivatives of benzene diamines
-
 Diamino-diphenylsulphones; their salts; their derivatives
 
 Diamorphine; its salts
@@ -4037,6 +4035,8 @@ This Legislative History is provided for the convenience of users of the Poisons
 |||(Bill No. 3/2001 published on 13 January 2001)|
 ||Date of Second and Third Readings|22 February 2001|
 ||Date of commencement|1 April 2001|
+|58.|**G. N. No. S 239/2001—Poisons Act (Amendment of Schedule) Notification 2001**|
+||Date of commencement|1 July 2001|
 ## COMPARATIVE TABLE
 
 Poisons Act
