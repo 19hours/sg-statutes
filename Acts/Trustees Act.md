@@ -1284,7 +1284,9 @@ Part I
 
 3\. In fixed income securities issued in Singapore by any public authority established under written law.
 
-4\. In any interest bearing deposits held in Singapore currency in the Post Office Savings Bank or a bank or finance company in Singapore.
+4. In any interest bearing deposits held in Singapore currency in a bank or finance company in Singapore.
+
+[37/98 wef 16/11/1998]
 
 5\. In negotiable certificates of deposits denominated in Singapore currency and issued by any bank in Singapore.
 
@@ -1304,9 +1306,7 @@ Part II
 
 (b) will mature not later than 3 months after the date of the investment.
 
-4\. In any land or building (not being a building under construction) in Singapore of the following tenure:
-
-4.
+4. In any land or building (not being a building under construction) in Singapore of the following tenure:
 
 (a) freehold, including a grant in perpetuity; or
 
@@ -1370,9 +1370,7 @@ Part V
 
 [Cap.19.]
 
-2\. In relation to the investments specified in paragraph 4 of Part II, proper advice for the purposes of section 5(2) means advice given by an appraiser who is —
-
-2.
+2. In relation to the investments specified in paragraph 4 of Part II, proper advice for the purposes of section 5(2) means advice given by an appraiser who is —
 
 (a) licensed under the Auctioneer Licences Act (Cap. 16) to value or appraise land; and
 
@@ -1506,3 +1504,9 @@ This Legislative History is provided for the convenience of users of the Trustee
 ||Date of commencement|1 October 1997 (except section 3)|
 |15.|**G. N. No. S 44/1998—Trustees Act (Amendment of First Schedule) Order 1998**|
 ||Date of commencement|23 January 1998|
+|16.|**Act 37 of 1998—Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|31 July 1998|
+|||(Bill No. 34/1998 published on 1 August 1998)|
+||Date of Second and Third Readings|12 October 1998|
+||Date of commencement|16 November 1998 (Transfer date)|
