@@ -56,7 +56,7 @@
 
 - [20 Financial statements](#Financial-statements)
 
-- [21 Copies of financial statements for members](#Copies-of-financial-statements-for-members)
+- [21 Financial statements to be available for members’ inspection](#Financial-statements-to-be-available-for-members’-inspection)
 
 - [22 Appointment and powers of Academy’s auditor](#Appointment-and-powers-of-Academy’s-auditor)
 
@@ -440,9 +440,27 @@ ACCOUNTS
 
 20\. The Senate shall from time to time cause to be prepared financial statements that will give a true and fair view of the income and expenditure of the Academy and its assets and liabilities.
 
-### Copies of financial statements for members
+### Financial statements to be available for members’ inspection
 
-21\. Copies of the financial statements together with the auditor’s report thereon shall be circulated to all members.
+21\.—(1) The financial statements and the auditor’s report thereon shall, as soon as practicable after they have been prepared, be made available for inspection by all members at such time and place as the Senate may determine.
+
+(2) Copies of —
+
+(a) the financial statements and the auditor’s report thereon; or
+
+(b) a summary financial statement derived from the financial statements, the auditor’s report on the financial statements and a statement by the auditor as to whether the summary financial statement is consistent with the financial statements and the auditor’s report thereon,
+
+shall be circulated to all members other than those falling within classes of members prescribed under subsection (3)(a).
+
+(3) The Senate may make rules —
+
+(a) to provide that copies of the documents referred to in subsection (2) need not be circulated to specified classes of members;
+
+(b) to prescribe the conditions which must be satisfied before copies of the documents referred to in subsection (2)(b) may be circulated to members; and
+
+(c) to prescribe the information which the summary financial statement must contain.
+
+[26/2001 wef 22/08/2001]
 
 ### Appointment and powers of Academy’s auditor
 
@@ -548,3 +566,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Dates of commencement|10 November 1995 (except sections 11 and 12)|
 |5.|**1997 Revised Edition—Singapore Academy of Law Act**|
 ||Date of operation|20 December 1997|
+|6.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|22 August 2001|
