@@ -1,16 +1,14 @@
-**Defence Science and Technology Agency Act 2000**
+**Defence Science and Technology Agency Act**
 
-**(No. 9 of 2000)**
+**(CHAPTER 75A)**
 
 **Table of Contents**
 
 [**Long Title**](#Defence-Science-and-Technology-Agency-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -88,63 +86,39 @@
 
 - [33 Regulations](#Regulations)
 
-- [34 Consequential amendments](#Consequential-amendments)
-
 [**FIRST SCHEDULE Constitution and Proceedings of Board of Directors of Agency**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Board-of-Directors-of-Agency)
 
 [**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
 
-[**THIRD SCHEDULE Consequential Amendments**](#THIRD-SCHEDULE-Consequential-Amendments)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Defence Science and Technology Agency Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 75A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 9 of 2000)
 
-Published by Authority
+REVISED EDITION 2001
 
-NO. 6]
+(31st December 2001)
 
-Friday, March 17
+An Act to establish the Defence Science and Technology Agency, to provide for its functions and powers, and for matters connected therewith.
 
-[2000
-
-The following Act was passed by Parliament on 21st February 2000 and assented to by the President on 7th March 2000:—
-
-Defence Science and Technology Agency Act 2000
-
-(No. 9 of 2000)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-7th March 2000.
-
-Date of Commencement: 15th March 2000
-
-An Act to establish the Defence Science and Technology Agency, to provide for its functions and powers, and for matters connected therewith, and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[15th March 2000]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Defence Science and Technology Agency Act 2000 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Defence Science and Technology Agency Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
 “Agency” means the Defence Science and Technology Agency established under section 3;
-
-“appointed day” means the date of commencement of this Act;
 
 “board” means the board of directors of the Agency;
 
@@ -324,7 +298,7 @@ PROVISIONS RELATING TO STAFF
 
 (5) Any employee who fails to comply with a requirement of the Minister under subsection (2) or who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(6) For the purpose of subsection (4) —
+(6) In subsection (4) —
 
 “industrial action” means any action or omission by a body of persons employed in any trade or industry, acting in combination or under a common understanding, which would result in any limitation or restriction on, or delay in, the performance of any duty connected with their employment;
 
@@ -338,11 +312,11 @@ PROVISIONS RELATING TO STAFF
 
 13\. All directors, officers and employees of the Agency (including persons seconded to the Agency for any period) shall be deemed to be —
 
-(a) public servants for the purposes of the Penal Code (Cap. 224);
+(a) public officers for the purposes of the Financial Procedure Act (Cap. 109) in relation to all contracts entered into, administered, or managed by the Agency on behalf of the Ministry of Defence, and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government;
 
-(b) public officers for the purposes of the Government Contracts Act (Cap. 18); and
+(b) public officers for the purposes of the Government Contracts Act (Cap. 118); and
 
-(c) public officers for the purposes of the Financial Procedure Act (Cap. 109) in relation to all contracts entered into, administered, or managed by the Agency on behalf of the Ministry of Defence, and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
+(c) public servants for the purposes of the Penal Code (Cap. 224).
 
 ## PART V
 
@@ -364,7 +338,7 @@ FINANCIAL PROVISIONS
 
 (f) all other moneys and property lawfully received by the Agency for the purposes of the Agency; and
 
-(g) all accumulations of income derived from any such property or money.
+(g) all accumulations of income derived from any such moneys or property.
 
 ### Application of revenue
 
@@ -410,11 +384,11 @@ FINANCIAL PROVISIONS
 
 ### Investments
 
-18\. The Agency may from time to time invest any of its funds in such manner or securities as trustees may by any written law be authorised to invest and, with the approval of the Minister, in any other securities or investments or in any other manner.
+18\. The Agency may, from time to time, invest any of its funds in such manner or securities as trustees may by any written law be authorised to invest and, with the approval of the Minister, in any other securities or investments or in any other manner.
 
 ### Grants
 
-19\. For the purpose of enabling the Agency to carry out its functions under this Act, the Minister may from time to time make grants to the Agency of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
+19\. For the purpose of enabling the Agency to carry out its functions under this Act, the Minister may, from time to time, make grants to the Agency of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
 
 ### Power to borrow
 
@@ -430,7 +404,7 @@ TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer to Agency of property, assets and liabilities
 
-22\.—(1) As from the appointed day, such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by any of the incorporated Departments, and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the incorporated Departments shall be transferred to and shall vest in the Agency without further assurance, act or deed.
+22\.—(1) As from 15th March 2000, such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by any of the incorporated Departments, and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the incorporated Departments shall be transferred to and shall vest in the Agency without further assurance, act or deed.
 
 (2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Agency under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
@@ -438,13 +412,13 @@ TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer of employees
 
-23\.—(1) As from the appointed day, such persons or categories of persons as the Minister may determine who, immediately before that day, were employed by the Ministry of Defence or the Singapore Armed Forces in the incorporated Departments, or in any other department in the Ministry of Defence or the Singapore Armed Forces, or in the DSO National Laboratories incorporated under the Companies Act (Cap. 50), shall be transferred to the service of the Agency on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+23\.—(1) As from 15th March 2000, such persons or categories of persons as the Minister may determine who, immediately before that date, were employed by the Ministry of Defence or the Singapore Armed Forces in the incorporated Departments, or in any other department in the Ministry of Defence or the Singapore Armed Forces, or in the DSO National Laboratories incorporated under the Companies Act (Cap. 50), shall be transferred to the service of the Agency on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) If any question arises as to whether any person or any category of persons has been transferred to the service of the Agency under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the person or category of persons was or was not so transferred.
 
 (3) Until such time as terms and conditions of service are drawn up by the Agency, the scheme and terms and conditions of service in the Government or the Singapore Armed Forces, as the case may be, shall continue to apply to every person transferred to the service of the Agency under subsection (1) as if he were still in the service of the Government or the Singapore Armed Forces.
 
-(4) In the case of every person transferred to the service of the Agency under subsection (1) who, immediately before the appointed day, was in the regular service of the Singapore Armed Forces by virtue of the Enlistment Act (Cap. 93), such person shall, upon the transfer, be deemed to be released from regular service in accordance with section 26 of that Act.
+(4) In the case of every person transferred to the service of the Agency under subsection (1) who, immediately before 15th March 2000, was in the regular service of the Singapore Armed Forces by virtue of the Enlistment Act (Cap. 93), such person shall, upon the transfer, be deemed to be released from regular service in accordance with section 27 of that Act.
 
 ### Pension rights, etc., of Government employees to be preserved
 
@@ -454,35 +428,35 @@ TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 (3) Nothing in the terms and conditions of service to be drawn up by the Agency shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Agency as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225) or the Singapore Armed Forces Act (Cap. 295).
 
-(4) In every case where a person has been transferred to the service of the Agency under section 23, the Government shall be liable to pay to the Agency such portion of any pension, gratuity, pension or allowance payable to such person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government or the Singapore Armed Forces, as the case may be, bears to the aggregate amount of his pensionable emoluments during his service under both the Government or the Singapore Armed Forces, as the case may be, and the Agency.
+(4) In every case where a person has been transferred to the service of the Agency under section 23, the Government shall be liable to pay to the Agency such portion of any pension, gratuity or allowance payable to such person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government or the Singapore Armed Forces, as the case may be, bears to the aggregate amount of his pensionable emoluments during his service under both the Government or the Singapore Armed Forces, as the case may be, and the Agency.
 
 (5) Where any person in the service of the Agency, whose case does not fall within the scope of any pension or other schemes established under this section, retires or dies in the service of the Agency or is discharged from such service, the Agency may grant to him or to such other person or persons wholly or partly dependent on him, as the Agency thinks fit, such allowance or gratuity as the Agency may determine.
 
 ### No benefits in respect of abolition or reorganisation of office
 
-25\. Notwithstanding the provisions of the Pensions Act, no person who is transferred to the service of the Agency under section 23 shall be entitled to claim any benefit under that Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Agency.
+25\. Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Agency under section 23 shall be entitled to claim any benefit under that Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Agency.
 
 ### Existing contracts
 
-26\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Government is a party and relating to the incorporated Departments or to any person transferred to the service of the Agency under section 23 shall continue in force on and after that day and shall be enforceable by or against the Agency as if the Agency had been named therein or had been a party thereto instead of the Government.
+26\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before 15th March 2000 to which the Government is a party and relating to the incorporated Departments or to any person transferred to the service of the Agency under section 23 shall continue in force on and after that date and shall be enforceable by or against the Agency as if the Agency had been named therein or had been a party thereto instead of the Government.
 
 ### Pending legal proceedings
 
-27\. Any proceedings or cause of action relating to the portion of the property, assets, interests, rights, privileges, liabilities and obligations transferred to the Agency under section 22 or to any employee transferred to the service of the Agency under section 23 pending or existing immediately before the appointed day by or against the Government, or any person acting on its behalf, may be continued and shall be enforced by or against the Agency.
+27\. Any proceedings or cause of action relating to the portion of the property, assets, interests, rights, privileges, liabilities and obligations transferred to the Agency under section 22 or to any employee transferred to the service of the Agency under section 23 pending or existing immediately before 15th March 2000 by or against the Government, or any person acting on its behalf, may be continued and shall be enforced by or against the Agency.
 
 ### Continuation and completion of disciplinary proceedings
 
-28\.—(1) Where on the appointed day —
+28\.—(1) Where on 15th March 2000 —
 
 (a) any disciplinary proceedings were pending against any employee of the Government or the Singapore Armed Forces, as the case may be, transferred to the service of the Agency under section 23, the proceedings shall be carried on and completed by the Agency; and
 
-(b) any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before the appointed day.
+(b) any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before 15th March 2000.
 
-(2) Any order, ruling or direction made or given by a committee under this section shall be treated as an order, a ruling or a direction of the Agency and have the same force or effect as if it had been made or given by the Agency pursuant to the authority vested in the Agency under this Act or any regulations made thereunder.
+(2) Any order, ruling or direction made or given by a committee under this section shall be treated as an order, a ruling or a direction of the Agency and have the same force or effect as if it had been made or given by the Agency pursuant to the authority vested in the Agency under this Act.
 
 ### Misconduct or neglect of duty by employee before transfer
 
-29\. The Agency may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Agency under section 23 for any misconduct or neglect of duty committed prior to the appointed day which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government or the Singapore Armed Forces, as the case may be, and if this Act had not been enacted.
+29\. The Agency may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Agency under section 23 for any misconduct or neglect of duty committed prior to 15th March 2000 which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government or the Singapore Armed Forces, as the case may be, and if this Act had not been enacted.
 
 ## PART VII
 
@@ -496,7 +470,7 @@ MISCELLANEOUS PROVISIONS
 
 ### Symbol or representation of Agency
 
-31\.—(1) The Agency shall have the exclusive right to the use of such symbol or representation as it may select or devise and thereafter display or exhibit in connection with its activities or affairs.
+31\.—(1) The Agency shall have the exclusive right to the use of such symbol or representation as it may select or devise and thereafter display or exhibit such symbol or representation in connection with its activities or affairs.
 
 (2) Any person who uses a symbol or representation identical with that of the Agency or which so resembles the Agency’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -519,10 +493,6 @@ MISCELLANEOUS PROVISIONS
 (b) the manner of appointment, conduct and discipline and the terms and conditions of service of the officers and employees of the Agency;
 
 (c) the payment of gratuities and other benefits to officers and employees of the Agency.
-
-### Consequential amendments
-
-34\. The provisions of the Acts specified in the first column of the Third Schedule are amended in the manner set out in the second column thereof.
 
 FIRST SCHEDULE
 
@@ -614,7 +584,7 @@ Financial Provisions
 
 Financial year
 
-1\. The financial year of the Agency shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Agency shall begin on the appointed day and shall end on 31st March 2001.
+1\. The financial year of the Agency shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
 Accounts of Agency
 
@@ -668,62 +638,22 @@ Presentation of audited financial statements and auditor’s report
 
 10.—(1) As soon as the accounts of the Agency and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman and certified by the auditor, together with a copy of any report made by the auditor, shall be submitted to the Minister.
 
-(2) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to the committee appointed by the Prime Minister under section 30.
+(2) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to the committee appointed by the Prime Minister under section 30(2).
 
-THIRD SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 34
+Defence Science and Technology Agency Act
 
-Consequential Amendments
+(CHAPTER 75A)
 
-First column
+This Legislative History is provided for the convenience of users of the Defence Science and Technology Agency Act. It is not part of this Act.
 
-Second column
-
-(1) Central Provident Fund Act
-
-
-
-
-(Chapter 36)
-
-Paragraph 6 of the First Schedule
-
-Insert, immediately after item (6), the following item:
-
-“(6A) Defence Science and Technology Agency.”.
-
-(2) Evidence Act (Chapter 97)
-
-The Schedule
-
-Insert, immediately after item 5, the following item:
-
-"5A.
-
-Defence Science and Technology Agency
-
-Defence Science and Technology Agency Act 2000.".
-
-(3) Income Tax Act (Chapter 134)
-
-Paragraph A of the First Schedule
-
-Insert, immediately after item 9, the following item:
-
-"9A.
-
-Defence Science and Technology Agency.".
-
-(4) Statutory Bodies and Government Companies (Protection of Secrecy) Act (Chapter 319)
-
-The Schedule
-
-Insert, immediately after item 5, the following item:
-
-"5A.
-
-Defence Science and Technology Agency
-
-Defence Science and Technology Agency Act 2000.".
-
+||||
+|:-|:-|:-|
+|1.|**Act 9 of 2000—Defence Science and Technology Agency Act 2000**|
+||Date of First Reading|17 January 2000|
+|||(Bill No. 11/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|21 February 2000|
+||Date of commencement|15 March 2000|
+|2.|**2001 Revised Edition—Defence Science and Technology Agency Act**|
+||Date of operation|31 December 2001|
