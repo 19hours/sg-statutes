@@ -384,11 +384,17 @@ Provided that nothing in this section shall affect the publication, sale, offer 
 
 ### Prohibition on reproduction of declared foreign newspapers for sale or distribution
 
-17\. Any person who reproduces for sale or distribution any copy of a declared foreign newspaper shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+17\.—(1) No person shall reproduce for sale or distribution in Singapore any copy of a declared foreign newspaper without the prior approval of the Minister.
 
-[18B
+(2) The Minister may grant his approval under subsection (1) subject to such conditions as he may impose or may refuse to grant or revoke such approval without assigning any reason.
 
-[22/86]
+(3) Any person who has been granted approval by the Minister under subsection (2) to reproduce copies of a declared foreign newspaper shall not make any profit as a result of the sale or distribution of copies of the declared foreign newspaper so reproduced but shall be permitted to recover the cost of production and services connected with the sale and distribution of such copies.
+
+(4) Any person who contravenes subsection (1) or (3), or fails to comply with any of the conditions imposed under subsection (2), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(5) Copies of a declared foreign newspaper reproduced with the approval of the Minister pursuant to subsection (2) shall not constitute an infringement of copyright.
+
+[Act 4 of 1988 wef 12/02/1988]
 
 ### Examination of persons entering Singapore
 
@@ -611,3 +617,8 @@ This Legislative History is provided for the convenience of users of the Newspap
 ||Date of commencement|1 September 1986|
 |5.|**1985 Revised Edition—Newspaper and Printing Presses Act**|
 ||Date of operation|30 March 1987|
+|6.|**Act 4 of 1988—Newspaper and Printing Presses (Amendment) Act 1988**|
+||Date of First Reading|11 January 1988|
+|||(Bill No. 31/1987 published on 13 January 1988)|
+||Date of Second and Third Readings|27 January 1988|
+||Date of commencement|12 February 1988|
