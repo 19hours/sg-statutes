@@ -428,23 +428,23 @@ but does not include a commodity futures trading adviser’s representative;
 
 3\.—(1) This Act shall not apply to —
 
-(a) a futures market established and maintained by the Singapore International Monetary Exchange Ltd or the clearing house of that futures market;
+(a) a futures market established and operated by the Singapore Exchange Derivatives Trading Ltd;
 
-(b) a futures market of a Futures Exchange approved by the Monetary Authority of Singapore under section 4 of the Futures Trading Act [Cap. 116];
+(b) the Singapore Exchange Derivatives Clearing Ltd;
 
-(c) a body corporate approved as a clearing house by the Monetary Authority of Singapore under section 8 of the Futures Trading Act;
+(c) a futures market of a futures exchange approved by the Monetary Authority of Singapore under section 9 of the Securities and Futures Act 2001;
 
-(d) the holder of a licence issued under the Futures Trading Act and acting lawfully under that Act; and
+(d) a corporation approved as a clearing house by the Monetary Authority of Singapore under section 51 of the Securities and Futures Act 2001;
 
-(e) any trading of futures contracts lawfully carried out under the Futures Trading Act (Cap. 116),
+(e) the holder of a capital markets services licence under the Securities and Futures Act 2001 in respect of trading in futures contracts or leveraged foreign exchange trading, and acting lawfully under that Act; and
 
-[22/2001 wef 27/06/2001]
+(f) any trading of futures contracts lawfully carried out under the Securities and Futures Act 2001,
 
-only to the extent that the activities carried out by or in such futures market or Futures Exchange, or by any body corporate or holder of a licence or the trading of futures contracts are regulated, under the Futures Trading Act.
+but only to the extent that the activities carried out by or in such futures market, corporation and holder of a capital markets services licence, and the trading of futures contracts, are regulated under the Securities and Futures Act 2001.
 
-[22/2001 wef 27/06/2001]
+[42/2001 wef 01/10/2002]
 
-(2) The Futures Trading Act shall not apply to —
+(2) The Securities and Futures Act 2001 shall not apply to —
 
 (a) a futures market of a Commodity Futures Exchange approved by the Board under section 5;
 
@@ -463,6 +463,8 @@ only to the extent that the activities carried out by or in such futures market 
 only to the extent that the activities carried out by or in such futures market or by any body corporate or holder of a licence or the trading of commodity futures contracts are regulated, under this Act.
 
 [22/2001 wef 27/06/2001]
+
+[42/2001 wef 01/10/2002]
 
 ## PART II
 
@@ -660,8 +662,6 @@ LICENCES
 
 unless he is the holder of a licence granted under this Part that authorises him to act as such.
 
-[22/2001 wef 27/06/2001]
-
 (2) The holder of a commodity futures broker’s licence shall not be required to hold a commodity futures trading adviser’s licence.
 
 (2A) A holder of a commodity futures broker’s licence shall not be required to hold a commodity broker’s licence for the purposes of carrying out any activity under this Act as authorised under a commodity broker’s licence.
@@ -802,6 +802,8 @@ unless such person is the holder of a licence granted under this Part that autho
 
 (d) it appears to the Board that, by reason of any other circumstances whatsoever which either are likely to lead to the improper conduct of business by, or reflect discredit on the method of conducting the business of, the applicant or any of its directors or employees, the applicant is not a fit and proper person to be licensed;
 
+[22/2001 wef 27/06/2001]
+
 (e) the financial standing of the applicant or its substantial shareholder or the manner in which its business is conducted is, in the view of the Board, unsatisfactory;
 
 [22/2001 wef 27/06/2001]
@@ -818,7 +820,9 @@ unless such person is the holder of a licence granted under this Part that autho
 
 [22/2001 wef 27/06/2001]
 
-(3) Notwithstanding anything in this Part, the Board may refuse to grant or renew a licence under this Part where the applicant fails to meet such minimum financial requirements as are prescribed by the Board or provided in such business rules of a commodity market or Commodity Futures Exchangeas have been approved by the Board.
+(3) Notwithstanding anything in this Part, the Board may refuse to grant or renew a licence under this Part where the applicant fails to meet such minimum financial requirements as are prescribed by the Board or provided in such business rules of a commodity market or Commodity Futures Exchange as have been approved by the Board.
+
+[22/2001 wef 27/06/2001]
 
 (4) For the purposes of subsection (2), “substantial shareholder”, in relation to an applicant which is a body corporate, has the same meaning as in the Companies Act (Cap. 50).
 
@@ -1034,8 +1038,6 @@ the Board may, without prejudice to its powers under section 28, if it is satisf
 
 (a) destroys, conceals or alters any book, account or record relating to the business of a commodity broker or commodity futures broker; or
 
-[22/2001 wef 27/06/2001]
-
 (b) sends, or conspires with any other person to send, out of Singapore any such book, account or record, or any property of any description belonging to or in the possession or under the control of a commodity broker or commodity futures broker,
 
 [22/2001 wef 27/06/2001]
@@ -1092,8 +1094,6 @@ he shall be presumed until the contrary is proved, that in so doing he did not a
 
 (b) impose all or any of the following duties on an auditor of a commodity marketor a Commodity Futures Exchange, a clearing house, a commodity broker, a commodity futures broker, a commodity trading adviser, a commodity futures trading adviser, a commodity pool operator or a commodity futures pool operator, as the case may be:
 
-[22/2001 wef 27/06/2001]
-
 (i) a duty to submit such additional information in relation to his audit as the Board considers necessary;
 
 (ii) a duty to enlarge or extend the scope of his audit of the business and affairs of a commodity market, a Commodity Futures Exchange, a clearing house, a commodity futures broker, a commodity trading adviser, a commodity futures trading adviser, a commodity pool operator or a commodity futures pool operator;
@@ -1103,6 +1103,8 @@ he shall be presumed until the contrary is proved, that in so doing he did not a
 (iii) a duty to carry out any other examination or establish any procedure in any particular case; and
 
 (iv) a duty to submit a report on any of the matters referred to in sub-paragraphs (ii) and (iii),
+
+[22/2001 wef 27/06/2001]
 
 and a commodity market, a Commodity Futures Exchange, a clearing house, a commodity futures broker, a commodity trading adviser, a commodity futures trading adviser, a commodity pool operator or a commodity futures pool operator, as the case may be, shall remunerate the auditor in respect of the discharge of all or any of the additional duties.
 
@@ -1327,8 +1329,6 @@ and the market, Exchange or clearing house shall comply with that direction.
 [22/2001 wef 27/06/2001]
 
 as the Board may require.
-
-[22/2001 wef 27/06/2001]
 
 (2) The Board may, on production of any books, accounts or records under subsection (1), take copies of or extracts from them.
 
@@ -1658,11 +1658,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) prescribing the conditions for the conduct of business on a commodity market or Commodity Futures Exchange;
 
-[22/2001 wef 27/06/2001]
-
 (c) providing for the content and distribution of written, printed or visual material and advertisements that may be distributed or used by a person in respect of a commodity contractor commodity futures contract;
-
-[22/2001 wef 27/06/2001]
 
 (d) prescribing the form and content of a confirmation statement of commodity contracts or commodity futures contracts entered into on behalf of customers by a commodity broker or commodity futures broker;
 
@@ -1790,3 +1786,8 @@ The Commodity Futures Act was renamed as the Commodity Trading Act vide Commodit
 |||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|1 July 2002 (item 3(a) of Fourth Schedule)|
+|7.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 October 2002 (item 3(b) of Fourth Schedule)|
