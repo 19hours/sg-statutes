@@ -54,6 +54,8 @@
 
 - [17 Estimates and transfer](#Estimates-and-transfer)
 
+- [17A Transfer of functions between heads of expenditure](#Transfer-of-functions-between-heads-of-expenditure)
+
 - [18 Yearly statement of accounts](#Yearly-statement-of-accounts)
 
 - [19 Write-off](#Write-off)
@@ -210,7 +212,7 @@ as the case may be.
 
 (3) Without prejudice to subsection (2), the Minister may from time to time, on behalf of the Government, subscribe for or otherwise acquire shares or other securities in the statutory corporation in which moneys are invested by way of capital injection under this section.
 
-(4) Nothing in this section shall prevent the investment of moneys by the Government in any statutory corporation in accordance with the Developmental Investment Fund Act (Cap. 79).
+(4) Nothing in this section shall prevent the investment of moneys by the Government in any statutory corporation in accordance with the Development Fund Act (Cap. 80) or the Developmental Investment Fund Act (Cap. 79).
 
 (5) In this section —
 
@@ -345,6 +347,14 @@ Notwithstanding any general or specific authority which may have been given by h
 [20/76]
 
 [25/91]
+
+### Transfer of functions between heads of expenditure
+
+17A\.—(1) Where, after the passing of a Supply law for a financial year, the responsibility for a service or purpose for which an appropriation is made in that law is transferred from the head of expenditure for which the appropriation was made to another head of expenditure, the Minister may in writing direct that the appropriation shall not lapse but may be issued to, or applied by, that other head, in accordance with the direction, for that service or purpose.
+
+(2) Where the Minister gives a direction under subsection (1), he shall cause a copy of the direction to be laid before Parliament within 30 days after it is given.
+
+[22/2003 wef 19/12/2003]
 
 ### Yearly statement of accounts
 
@@ -502,3 +512,8 @@ This Legislative History is provided for the convenience of users of the Financi
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002 (except item (18) of the Schedule)|
 |||29 July 2002 (item (18) of the Schedule)|
+|14.|**Act 22 of 2003—Statutes (Miscellaneous Amendments) (No. 2) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 29/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Dates of commencement|19 December 2003 (section 3(b) and (c) – Amendment of the Financial Procedure Act)|
