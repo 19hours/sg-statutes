@@ -50,6 +50,8 @@
 
 - [13 Review](#Review)
 
+- [13A Presidential concurrence](#Presidential-concurrence)
+
 - [14 Power to summon witnesses](#Power-to-summon-witnesses)
 
 - [15 Member of advisory board deemed to be a public servant](#Member-of-advisory-board-deemed-to-be-a-public-servant)
@@ -545,6 +547,12 @@ as the Minister sees fit; and the Minister may revoke any such direction if he i
 (c) in the case of a person who has been released from a place of detention in pursuance of a direction under section 10, not more than 12 months from the date of his release.
 
 (2) The advisory board shall on completing every review under subsection (1) forthwith submit to the Minister a written report of every such review, and may make therein such recommendations as it thinks fit.
+
+### Presidential concurrence
+
+13A\. Where any advisory board recommends the release of any person under section 12 or 13, the person shall not be detained or further detained without the President’s concurrence under Article 151(4) of the Constitution.
+
+[Act 11/91 wef 30/11/1991]
 
 ### Power to summon witnesses
 
@@ -1566,3 +1574,8 @@ This Legislative History is provided for the convenience of users of the Interna
 |||(Bill No. 10/1989 published on 30 January 1989)|
 ||Date of Second and Third Readings|25 January 1989|
 ||Date of commencement|30 January 1989|
+|15.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/1991 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
