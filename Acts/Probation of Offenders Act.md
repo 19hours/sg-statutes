@@ -338,3 +338,8 @@ This Legislative History is provided for the convenience of users of the Probati
 ||Date of commencement|1 March 1976|
 |7.|**1985 Revised Edition—Probation of Offenders Act**|
 ||Date of operation|30 March 1987|
+|8.|**Act 7 of 1989—Probation of Offenders (Amendment) Act 1989**|
+||Date of First Reading|16 January 1989|
+|||(Bill No. 3/1989 published on 16 January 1989)|
+||Date of Second and Third Readings|26 January 1989|
+||Date of commencement|1 April 1989|
