@@ -752,12 +752,6 @@ Z
 
 is the amount of balancing charge.
 
-[Act 31/98, Wef 14/08/1998]
-
-[32/95]
-
-[2/92]
-
 (5) Any gains or profits directly or indirectly derived by any person by the exercise, assignment or release of a right or benefit whether granted in his name or in the name of his nominee or agent to acquire shares in a company shall, where the right or benefit is obtained by that person by reason of any office or employment held by him, be deemed to be income and for the purposes of this subsection —
 
 (a) such gains or profits shall be the price of the shares in the open market at the time of the exercise, assignment or release of the right or benefit, less the amount paid for such shares;
@@ -3778,7 +3772,7 @@ and where any such risk is in transit in Singapore, it shall be deemed to be out
 
 27\.—(1) Where a non-resident person carries on the business of shipowner or charterer, the income on which tax is payable shall be ascertained as provided in this section.
 
-(2) Where, for any period, the non-resident person produces a certificate complying with subsection (3) —
+(2) Where, for any period, the non-resident person produces a certificate complying with subsection (3)—
 
 (a) the profits accruing in Singapore from the business for that period shall be deemed to be a sum bearing the same ratio to the sums receivable in respect of the carriage of passengers, mails, livestock and goods shipped in Singapore as the total profits for that period bear to the total sum receivable by him in respect of the carriage of passengers, mails, livestock and goods, as shown by the certificate; and
 
@@ -8324,3 +8318,8 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 17/96)|
 ||Date of Second and Third Readings|12 July 1996|
 ||Date of commencement|2 August 1996|
+|120.|**Act 28 of 1996—Income Tax (Amendment No. 2) Act 1996**|
+||Date of First Reading|12 July 1996|
+|||(Bill No. 23/96 published on 13 July 1996)|
+||Date of Second and Third Readings|27 August 1996|
+||Date of commencement|6 September 1996|
