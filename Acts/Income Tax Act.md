@@ -7208,6 +7208,8 @@ Cap. 297.
 
 Cap. 298.
 
+49A. Singapore Land Authority
+
 50. Singapore Nursing Board
 
 Cap. 209.
@@ -7281,6 +7283,8 @@ Cap. 375.
 [9/2000 wef 15/03/2000]
 
 [3/2001 wef 01/04/2001]
+
+[17/2001 wef 01/06/2001]
 
 SECOND SCHEDULE
 
@@ -8364,6 +8368,17 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 1/2001 published on 13 January 2001)|
 ||Date of Second and Third Readings|22 February 2001|
 ||Date of commencement|1 April 2001|
+|145.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 7 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
+|146.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 39/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|1 June 2001 (Sections 32(c), 40(d), 44, 62(c))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
