@@ -2416,6 +2416,10 @@ Lysergic acid also known as 9,10-Didehydro-6-methylergoline-8β−carboxylic aci
 
 3,4-methylenedioxyphenyl-2-propanone
 
+Norephedrine
+
+Norpseudoephedrine
+
 1-Phenyl-2-propanone also known as Phenylacetone
 
 Piperonal also known as 3,4-(Methylenedioxy)benzaldehyde or Piperonylaldehyde
@@ -2465,6 +2469,8 @@ Sections 2 and 33A
 Specified Drugs
 
 (1) Diamorphine
+
+[S 404/2000 wef 11/09/2000]
 
 (2) Morphine
 
@@ -2563,3 +2569,5 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|17 April 2000|
 |28.|**G. N. No. S 232/2000—Misuse of Drugs Act (Amendment of First Schedule) Order 2000**|
 ||Date of commencement|15 May 2000|
+|29.|**G. N. No. S 404/2000—Misuse of Drugs Act (Amendment of Third Schedule) Order 2000**|
+||Date of commencement|11 September 2000|
