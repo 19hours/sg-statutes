@@ -214,53 +214,9 @@ Urban Redevelopment Authority Act (Chapter 340)
 
 Part II
 
-Government Companies
+government companies
 
-1\. Chartered Industries of Singapore (Pte.) Ltd. and its subsidiary corporations
-
-2\. DSO National Laboratories
-
-3\. Government of Singapore Investment Corporation Private Limited
-
-4\. National Computer Systems Pte. Ltd.
-
-5\. Power Supply Ltd.
-
-6\. PowerGas Ltd.
-
-7\. PowerGrid Ltd.
-
-8\. PowerGen (Senoko) Ltd.
-
-9\. PowerGen (Seraya) Ltd.
-
-10\. PSA Corporation Limited and its subsidiary corporations
-
-11\. Singapore Post Private Limited
-
-12\. Singapore Power Ltd.
-
-13\. Singapore Technologies Aerospace Ltd. and its subsidiary corporations
-
-14\. Singapore Technologies Automotive Ltd. and its subsidiary corporations
-
-15\. Singapore Technologies Electronics Ltd. and its subsidiary corporations
-
-16\. Singapore Technologies Engineering Ltd. and its subsidiary corporations
-
-17\. Singapore Technologies Holdings Pte. Ltd. and its subsidiary corporations
-
-18\. Singapore Technologies Industrial Corporation Pte. Ltd. and its subsidiary corporations
-
-19\. Singapore Technologies Marine Ltd and its subsidiary corporations
-
-20\. Singapore Technologies Private Limited and its subsidiary corporations
-
-21\. Singapore Telecommunications Limited
-
-22\. SNP Corporation Ltd. and its subsidiary corporations
-
-23\. Tuas Power Pte. Ltd.
+PSA Corporation Limited and its subsidiary corporations.
 
 ## LEGISLATIVE HISTORY
 
@@ -371,3 +327,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 October 2002|
 |30.|**G. N. No. S 495/2003—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 2003**|
 ||Date of commencement|27 October 2003|
+|31.|**G. N. No. S 276/2004—Statutory Bodies and Government Companies (Protection of Secrecy) (Amendment of Schedule) Notification 2004**|
+||Date of commencement|1 June 2004|
