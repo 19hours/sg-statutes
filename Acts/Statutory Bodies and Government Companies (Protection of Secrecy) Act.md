@@ -184,9 +184,7 @@ Government Companies
 
 3\. National Computer Systems Pte. Ltd.
 
-4\. Singapore Technologies Aerospace Ltd and its subsidiary corporations.
-
-4.
+4. Singapore Technologies Aerospace Ltd and its subsidiary corporations.
 
 [S 430/98 wef 08/09/1997]
 
@@ -196,9 +194,7 @@ Government Companies
 
 6\. Singapore Post Private Limited.
 
-7\. Singapore Technologies Marine Ltd and its subsidiary corporations.
-
-7.
+7. Singapore Technologies Marine Ltd and its subsidiary corporations.
 
 [S 430/98 wef 08/09/1997]
 
@@ -235,6 +231,8 @@ Government Companies
 17. Tuas Power Pte. Ltd.
 
 [S 565/95 wef 22/12/1995]
+
+18\. DSO National Laboratories.
 
 19. Singapore Technologies Private Limited and its subsidiary corporations.
 
@@ -317,3 +315,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|4 October 1996|
 |20.|**G. N. No. S 430/1998—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) (No. 2) Notification 1998**|
 ||Date of commencement|8 September 1997|
+|21.|**G. N. No. S 455/1997—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 1997**|
+||Date of commencement|3 October 1997|
