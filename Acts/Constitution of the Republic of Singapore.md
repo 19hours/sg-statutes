@@ -1772,7 +1772,7 @@ THE LEGISLATURE
 
 (b) such other Members, not exceeding 6 in number, who shall be known as non-constituency Members, as the Legislature may provide in any law relating to Parliamentary elections to ensure the representation in Parliament of a minimum number of Members from a political party or parties not forming the Government; and
 
-(c) such other Members not exceeding 6 in number, who shall be known as nominated Members, as may be appointed by the President in accordance with the provisions of the Fourth Schedule.
+(c) such other Members not exceeding 9 in number, who shall be known as nominated Members, as may be appointed by the President in accordance with the provisions of the Fourth Schedule.
 
 (2) A non-constituency Member or a nominated Member shall not vote in Parliament on any motion pertaining to —
 
@@ -4204,7 +4204,7 @@ Appointment of Nominated Members of Parliament
 
 (3) Before making any nomination for the appointment of nominated Members of Parliament, the Special Select Committee shall, whenever possible, consult other Members of Parliament in such manner as it thinks fit.
 
-3.—(1) The Special Select Committee shall, from the names of persons submitted to the Committee under section 2, nominate not more than 6 persons for appointment by the President as nominated Members of Parliament.
+3.—(1) The Special Select Committee shall, from the names of persons submitted to the Committee under section 2, nominate not more than 9 persons for appointment by the President as nominated Members of Parliament.
 
 (2) The persons to be nominated shall be persons who have rendered distinguished public service, or who have brought honour to the Republic, or who have distinguished themselves in the field of arts and letters, culture, the sciences, business, industry, the professions, social or community service or the labour movement; and in making any nomination, the Special Select Committee shall have regard to the need for nominated Members to reflect as wide a range of independent and non-partisan views as possible.
 
@@ -4214,7 +4214,7 @@ Appointment of Nominated Members of Parliament
 
 5\. As soon as practicable after 10th September 1990, the President shall on the nomination of the Special Select Committee appoint not more than 6 persons as nominated Members of Parliament.
 
-6\. Where under section 3 or 5the Special Select Committee has nominated less than 6 persons for appointment by the President as nominated Members, the Committee may, if it thinks fit, from time to time nominate one or more persons for the President to appoint as nominated Members but the number of persons so nominated together with the number of persons already nominated under section 3a Commission shall not exceed 6.
+6\. Where under section 3 the Special Select Committee has nominated less than 9 persons for appointment by the President as nominated Members, the Committee may, if it thinks fit, from time to time nominate one or more persons for the President to appoint as nominated Members but the number of persons so nominated together with the number of persons already nominated under section 3a Commission shall not exceed 9.
 
 7. Sections 2 and 3(2) shall apply to any nomination made by the Special Select Committee under section 4, 5 or 6; and for the purpose of section 4(1) the Committee may invite the general public to submit names of persons who may be considered for nomination by the Committee before the seat of the nominated Member has become vacant.
 
@@ -4431,3 +4431,8 @@ This Legislative History is provided for the convenience of users of the Constit
 |||(Bill No. 30/96 published on 1 October 1996)|
 ||Date of Second and Third Readings|28 October 1996|
 ||Date of commencement|12 November 1996 (sections 1, 5 to 15 and 17)|
+|33.|**Act 1 of 1997—Constitution of the Republic of Singapore (Amendment) Act 1997**|
+||Date of First Reading|21 July 1997|
+|||(Bill No. 7/97 published on 22 July 1997)|
+||Date of Second and Third Readings|31 July 1997|
+||Date of commencement|1 September 1997|
