@@ -122,11 +122,19 @@ together with any other jurisdiction connected with ships or aircraft which may 
 
 (3) In any case in which there is a maritime lien or other charge on any ship, aircraft or other property for the amount claimed, the admiralty jurisdiction of the High Court may be invoked by an action in rem against that ship, aircraft or property.
 
-(4) In the case of any such claim as is mentioned in section 3(1)(d) to (q), being a claim arising in connection with a ship, where the person who would be liable on the claim in an action in personam was, when the cause of the action arose, the owner or charterer of, or in possession or in control of, the ship, the admiralty jurisdiction of the High Court may (whether the claim gives rise to a maritime lien on the ship or not) be invoked by an action in rem against —
+(4) In the case of any such claim as is mentioned in section 3(1)(d) to (q), where —
 
-(a) that ship, if at the time when the action is brought it is beneficially owned as respects all the shares therein by that person; or
+(a) the claim arises in connection with a ship; and
 
-(b) any other ship which, at the time when the action is brought, is beneficially owned as aforesaid.
+(b) the person who would be liable on the claim in an action in personam (referred to in this subsection as the relevant person) was, when the cause of action arose, the owner or charterer of, or in possession or in control of, the ship,
+
+an action in rem may (whether or not the claim gives rise to a maritime lien on that ship) be brought in the High Court against —
+
+(i) that ship, if at the time when the action is brought the relevant person is either the beneficial owner of that ship as respects all the shares in it or the charterer of that ship under a charter by demise; or
+
+(ii) any other ship of which, at the time when the action is brought, the relevant person is the beneficial owner as respects all the shares in it.
+
+[2/2004 wef 01/04/2004]
 
 (5) In the case of a claim in the nature of towage or pilotage in respect of an aircraft, the admiralty jurisdiction of the High Court may be invoked by an action in rem against that aircraft if at the time when the action is brought it is beneficially owned by the person who would be liable on the claim in an action in personam.
 
@@ -196,7 +204,7 @@ High Court (Admiralty Jurisdiction) Act
 
 (CHAPTER 123)
 
-This Legislative History is provided for the convenience of users of the High Court (Admiralty Jurisdiction) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the High Court (Admiralty Jurisdiction) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -230,6 +238,11 @@ This Legislative History is provided for the convenience of users of the High Co
 ||Date of commencement|1 October 1997 (except section 3)|
 |7.|**2001 Revised Edition—High Court (Admiralty Jurisdiction) Act**|
 ||Date of operation|31 July 2001|
+|8.|**Act 2 of 2004—High Court (Admiralty Jurisdiction) (Amendment) Act 2004**|
+||Date of First Reading|10 November 2003|
+|||(Bill No. 32/2003 published on 11 November 2003)|
+||Date of Second and Third Readings|5 January 2004|
+||Date of commencement|1 April 2004|
 ## COMPARATIVE TABLE
 
 High Court (Admiralty Jurisdiction) Act
