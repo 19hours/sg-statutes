@@ -174,11 +174,7 @@ PRELIMINARY
 
 “money market operations” means any transaction undertaken by the Authority as the central bank to manage liquidity in the banking system;
 
-[24/2003 wef 01/01/2004]
-
 “officer”, in relation to the Authority, includes any person employed by the Authority in an executive capacity.
-
-[24/2003 wef 01/01/2004]
 
 ## PART II
 
@@ -208,13 +204,21 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 [25/2002 wef 01/10/2002]
 
-(ca) to issue currency notes and coins in Singapore in accordance with the Currency Act (Cap. 69) and to provide such other services as it considers necessary under that Act; and
+(ca) to issue currency notes and coins in Singapore in accordance with the Currency Act (Cap. 69) and to provide such other services as it considers necessary under that Act;
 
-(d) to exercise the powers and to perform the duties and functions that are transferred to the Authority under section 21.
+[25/2002 wef 01/10/2002]
+
+[30/2004 wef 12/10/2004]
+
+(d) to exercise the powers and to perform the duties and functions that are transferred to the Authority under section 21 ; and
 
 [30/2004 wef 12/10/2004]
 
 [28/98]
+
+(e) to exercise the powers and to perform the duties and functions conferred on the Authority under the Business Trusts Act 2004 and by any other written law.
+
+[30/2004 wef 12/10/2004]
 
 ### Authorised capital
 
@@ -292,23 +296,17 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 (3) The managing director shall be entrusted with the day-to-day administration of the Authority, and may, subject to this Act, make decisions and exercise all powers and do all acts which may be exercised or done by the Authority under this Act or any other written law.
 
-[24/2003 wef 01/01/2004]
-
 (4) The managing director shall be answerable to the board for his acts and decisions.
 
 (5) In the event of the absence or inability to act of the managing director, the Minister may appoint a director to discharge his duties during the period of his absence or inability.
 
 (6) The managing director may, subject to such terms and conditions as he thinks fit, appoint any officer or employee of the Authority, or form any committee comprising officers or employees of the Authority or both, to exercise any of his powers or perform any of his functions or duties conferred or imposed upon him by virtue of subsection (3), and that officer, employee or committee shall exercise those powers or perform those functions or duties under the direction and control of the managing director.
 
-[24/2003 wef 01/01/2004]
-
 (7) For the avoidance of doubt, the managing director —
 
 (a) shall remain responsible for any exercise of his powers or any performance of his functions or duties by any officer or employee appointed or by any committee formed under subsection (6); and
 
 (b) may continue to exercise his powers or perform his functions or duties conferred or imposed upon him by virtue of subsection (3), notwithstanding the delegation of the power, function or duty under subsection (6).
-
-[24/2003 wef 01/01/2004]
 
 ### Disqualification of directors
 
@@ -372,9 +370,15 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 13A\.—(1) The Authority may appoint from among its directors or other persons who are not directors such number of committees as it thinks fit for purposes which, in the opinion of the Authority, would be better regulated and managed by means of such committees.
 
+[24/2003 wef 01/01/2004]
+
 (2) The Authority may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or any director any of the powers, functions or duties of the Authority under this Act or any other written law, except the power of delegation conferred by this subsection and the power to make subsidiary legislation unless expressly provided under any written law.
 
+[24/2003 wef 01/01/2004]
+
 (3) Any power, function or duty delegated under subsection (2) may be exercised or performed by such committee or director, as the case may be, in the name and on behalf of the Authority.
+
+[24/2003 wef 01/01/2004]
 
 (4) The Authority may continue to exercise a power conferred upon it, or perform a function or duty under this Act or any other written law, notwithstanding the delegation of the power, function or duty under this section.
 
@@ -520,8 +524,6 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 (g) grant loans, advances or other credit facilities for the purposes of money market operations, on such terms and conditions as the Authority thinks fit, to such financial institutions or class of financial institutions as the Authority may from time to time determine;
 
-[24/2003 wef 01/01/2004]
-
 (h) invest in securities of the Government or of any public authority for any amount, and to mature at any time on behalf of staff and pension funds and other internal funds of the Authority;
 
 (i) acquire, hold and sell shares of any corporation set up with the approval of, or under the authority of, the Government for the purpose of promoting the development of a money market or securities market in Singapore or for the financing of economic development in Singapore;
@@ -589,8 +591,6 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 (b) public confidence in the financial system,
 
 make any loan or advance to any bank carrying on business under the Banking Act (Cap. 19) or to such financial institutions or class of financial institutions or such other persons as the Authority may from time to time determine, on such terms and conditions as the Authority thinks fit.
-
-[24/2003 wef 01/01/2004]
 
 ### Power to issue directions to financial institutions
 
@@ -1091,6 +1091,11 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||(Bill No. 21/2003 published on 12 December 2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|1 January 2004|
+|19.|**Act 30 of 2004—Business Trusts Act 2004**|
+||Date of First Reading|20 July 2004|
+|||(Bill No. 28/2004 published on 24 September 2004)|
+||Date of Second and Third Readings|1 September 2004|
+||Date of commencement|12 October 2004|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
