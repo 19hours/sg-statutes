@@ -408,7 +408,7 @@ IMPOSITION AND EXTENT OF TAX
 
 (3) Tax on any supply of goods or services is a liability of the person making the supply and (subject to provisions on accounting and payment) becomes due at the time of supply.
 
-(4) Tax on the importation of goods shall be charged, levied and payable as if it were customs duty and as if all goods imported into Singapore are dutiable and liable to customs duty .
+(4) Tax on the importation of goods shall be charged, levied and payable as if it were customs duty or excise duty and as if all goods imported into Singapore are dutiable and liable to customs duty or excise duty.
 
 ### Registration
 
@@ -2941,3 +2941,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 |||(Bill No. 32/2000 published on 22 December 2000)|
 ||Date of Second and Third Readings|22 November 2000|
 ||Date of commencement|18 December 2000|
+|11.|**Act 33 of 2000—Customs (Amendment) Act 2000**|
+||Date of First Reading|13 November 2000|
+|||(Bill No. 33/2000 published on 22 December 2000)|
+||Date of Second and Third Readings|22 November 2000|
+||Date of commencement|1 January 2001|
