@@ -14,13 +14,13 @@
 
 - [2 Administration of land by Collector of Land Revenue](#Administration-of-land-by-Collector-of-Land-Revenue)
 
-- [3 Payment to the family of Sultan Hussain](#Payment-to-the-family-of-Sultan-Hussain)
+- [3 New scheme for payment of annuity or commuted gratuity to family of late Sultan Hussain](#New-scheme-for-payment-of-annuity-or-commuted-gratuity-to-family-of-late-Sultan-Hussain)
 
-- [4 Additional payments from increments](#Additional-payments-from-increments)
-
-- [5 Payments under this Ordinance not to be assignable](#Payments-under-this-Ordinance-not-to-be-assignable)
+- [4 Payments under Ordinance not to be assignable](#Payments-under-Ordinance-not-to-be-assignable)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Sultan Hussain Ordinance
 
@@ -28,19 +28,19 @@
 
 (Original Enactment: Ordinance 13 of 1904)
 
-REVISED EDITION 1985
+REVISED EDITION 2000
 
-(30th March 1987)
+(30th December 2000)
 
-An Ordinance to make proper provision for the Family of the late Sultan Hussain. This private Ordinance is reproduced in the form it appears in the 1955 Revised Edition.1
+An Ordinance to make proper provision for the family of the late Sultan Hussain.
 
-1Note:
+[14th October 1904]
 
-Whereas in or about the year 1819 certain land situate in Kampong Glam in Singapore, and estimated to contain an area of about 23 hectares, was set apart by the Honourable East India Company for the accommodation and benefit of Sultan Hussain Mahomed Shah, hereinafter called Sultan Hussain, and His Heirs and Successors:
+Whereas in or about the year 1819 certain land situate in Kampong Glam in Singapore, and estimated to contain an area of about 23 hectares, was set apart by the Honourable East India Company for the accommodation and benefit of Sultan Hussain Mahomed Shah (hereinafter called Sultan Hussain) and His Heirs and Successors:
 
 And Whereas the said Sultan Hussain occupied the said land until shortly before his death, which took place at Malacca in the year 1835:
 
-And Whereas the said Sultan Hussain left him surviving his eldest son Sultan Ali Iskander Shah, hereinafter called Sultan Ali, and two younger sons:
+And Whereas the said Sultan Hussain left him surviving his eldest son Sultan Ali Iskander Shah (hereinafter called Sultan Ali) and 2 younger sons:
 
 And Whereas the said Sultan Ali occupied the said land and granted leases of portions thereof to divers persons:
 
@@ -52,13 +52,11 @@ And Whereas the said Tunku Allum died in the year 1891, leaving him surviving hi
 
 And Whereas disputes and litigation about the said land have taken place between the said Tunku Ali and the other descendants of the said Sultan Hussain, deceased:
 
-And Whereas by a judgment of the Court of Appeal of the Colony, delivered on the twenty-third day of December, 1897, it was decided that the said land must be considered as Crown land, no longer subject to the treaties which previously affected it, but as having been occupied by the said Tunku Allum without legal right or title:
+And Whereas by a judgment of the Court of Appeal of the Colony, delivered on 23rd December 1897, it was decided that the said land must be considered as Crown land, no longer subject to the treaties which previously affected it, but as having been occupied by the said Tunku Allum without legal right or title:
 
 And Whereas it is expedient to make proper provision for the family of the said Sultan Hussain:
 
 It is hereby enacted by the Governor of the Straits Settlements, with the advice and consent of the Legislative Council thereof, as follows:
-
-[14th October 1904]
 
 ### Short title
 
@@ -66,27 +64,37 @@ It is hereby enacted by the Governor of the Straits Settlements, with the advice
 
 ### Administration of land by Collector of Land Revenue
 
-2\. The said land situate in Kampong Glam, having reverted to the Crown, shall from and after the first day of January, 1905, be administered by the Collector of Land Revenue in the same manner as other Crown lands.
+2\. The said land situate in Kampong Glam, having reverted to the State, shall be administered by the Collector of Land Revenue in the same manner as other State lands.
 
-### Payment to the family of Sultan Hussain
+### New scheme for payment of annuity or commuted gratuity to family of late Sultan Hussain
 
-3\. 2From and after the first day of January, 1905, there shall be paid annually to the family of the late Sultan Hussain, in such manner and in such proportions as the Yang di-Pertuan Negara determines, a sum not exceeding seven hundred and fifty dollars.
+3\.—(1) The Minister may by regulations provide for the establishment of a scheme for the payment of an annuity to the family of the late Sultan Hussain a sum of $350,000 for a period of 30 years from 1st March 2000.
 
-2Presidentseesection 2(2)(h) of the Interpretation Act (Cap. 1).
+[23/99]
 
-[S(NS) 178/59]
+(2) The annuity under the scheme established under subsection (1) shall be paid only to members of the family of the late Sultan Hussain who before 4th May 1999 were receiving an annuity under the Ordinance.
 
-### Additional payments from increments
+[23/99]
 
-4\. 3If the said lands in Kampong Glam which are hereby declared to have reverted to the Crown, as decided by the Court of Appeal of the Colony, should at any time yield a net annual revenue exceeding seven hundred and fifty dollars the Yang di-Pertuan Negara may order that a further sum, not exceeding nine-tenths of the excess of such net annual revenue over the sum of seven hundred and fifty dollars, shall be paid to the family of the late Sultan Hussain, as in section 3 mentioned, in addition to the said sum of seven hundred and fifty dollars.
+(3) Regulations made under this section may provide for —
 
-3Presidentseesection 2(2)(h) of the Interpretation Act (Cap. 1).
+(a) the determination of the proportions of the annuity under the scheme to be paid to persons to whom the annuity is payable;
 
-[S(NS) 178/59]
+(b) the exercise of an option by a person to whom an annuity is payable under the scheme to be paid a commuted gratuity in lieu of the annuity;
 
-### Payments under this Ordinance not to be assignable
+(c) the payment of a commuted gratuity to the estate of a person to whom annuity is payable under the scheme upon his death; and
 
-5\. The sums payable to the family of the late Sultan Hussain under this Ordinance shall not be assignable or transferable or liable to be attached, sequestrated or levied upon for or in respect of any debt or claim whatever.
+(d) generally giving effect to or for carrying out the purposes of this section.
+
+[4A
+
+[23/99]
+
+### Payments under Ordinance not to be assignable
+
+4\. The sums payable to the family of the late Sultan Hussain under this Ordinance shall not be assignable or transferable or liable to be attached, sequestrated or levied upon for or in respect of any debt or claim.
+
+[5
 
 ## LEGISLATIVE HISTORY
 
@@ -117,3 +125,35 @@ This Legislative History is provided for the convenience of users of the Sultan 
 |||(Bill No. 15/1999 published on 5 May 1999)|
 ||Date of Second and Third Readings|6 July 1999|
 ||Date of commencement|21 July 1999|
+|7.|**2000 Revised Edition—Sultan Hussain Ordinance**|
+||Date of operation|30 December 2000|
+## COMPARATIVE TABLE
+
+Sultan Hussain Ordinance
+
+(CHAPTER 382)
+
+The following provisions in the 1985 Revised Edition of the Sultan Hussain Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Sultan Hussain Act.
+
+2000 Ed\. 
+
+1985 Ed\. 
+
+Deleted
+
+3 
+
+Deleted
+
+4 
+
+3 
+
+4A 
+
+4 
+
+5 
+
