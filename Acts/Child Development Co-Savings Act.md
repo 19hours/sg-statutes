@@ -1,22 +1,20 @@
-**Children Development Co-Savings Act 2001**
+**Children Development Co-Savings Act**
 
-**(No. 13 of 2001)**
+**(CHAPTER 38A)**
 
 **Table of Contents**
 
 [**Long Title**](#Child-Development-Co-Savings-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
 [**Part II CHILDREN DEVELOPMENT CO-SAVINGS SCHEME**](#Part-II)
 
-- [3 Establishment of Scheme to assist families](#Establishment-of-Scheme-to-assist-families)
+- [3 Establishment of Children Development Co-Savings Scheme to assist families](#Establishment-of-Children-Development-Co-Savings-Scheme-to-assist-families)
 
 - [4 Compulsory substitution of trustee](#Compulsory-substitution-of-trustee)
 
@@ -28,7 +26,7 @@
 
 - [8 Recovery of payment by Government](#Recovery-of-payment-by-Government)
 
-[**Part III THIRD CHILD MATERNITY LEAVE, PROTECTION AND BENEFITS**](#Part-III)
+[**Part III THIRD CHILD MATERNITY LEAVE PROTECTION and BENFITS**](#Part-III)
 
 - [9 Length of benefit period, etc.](#Length-of-benefit-period-etc)
 
@@ -58,49 +56,35 @@
 
 - [21 Exemption](#Exemption)
 
-- [22 Consequential amendment to Education Endowment Scheme Act](#Consequential-amendment-to-Education-Endowment-Scheme-Act)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Children Development Co-Savings Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 38A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 13 of 2001)
 
-Published by Authority
+REVISED EDITION 2002
 
-NO. 10]
+(31st July 2002)
 
-Friday, March 30
+An Act to encourage married women in Singapore to have more children .
 
-[2001
+[28/2008 wef 31/10/2008]
 
-The following Act was passed by Parliament on 16th March 2001 and assented to by the President on 26th March 2001:—
+[2/2011 wef 09/03/2011]
 
-Children Development Co-Savings Act 2001
-
-(No. 13 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-26th March 2001.
-
-Date of Commencement: 1st April 2001
-
-An Act to encourage married women in Singapore to have more children and to make a consequential amendment to the Education Endowment Scheme Act (Chapter 87A of the 1993 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2001]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Children Development Co-Savings Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Children Development Co-Savings Act.
+
+[13/2011 wef 01/05/2011]
 
 ### Interpretation
 
@@ -116,7 +100,7 @@ PRELIMINARY
 
 “eligible child” means a child who is eligible for membership of the Scheme under the regulations made under section 3;
 
-“employee” means any person who has entered into or works under a contract of service with an employer in Singapore, and includes a workman and any officer or employee of the Government included in a category, class or description of such officers or employees declared by the Minister to be employees for the purposes of this Act;
+“employee” means any person who has entered into or works under a contract of service with an employer in Singapore, and includes a workman and any officer or employee of the Governmentincluded in a category, class or description of such officers or employees declared by the Minister to be employees for the purposes of this Act;
 
 “employer” means any person who employs another person under a contract of service and includes —
 
@@ -146,7 +130,7 @@ PRELIMINARY
 
 “personal representative” means the executor, original or by representation, or administrator for the time being of a deceased person;
 
-“Scheme” means the Scheme established by the regulations made under section 3;
+“Scheme” means the Children Development Co-Savings Scheme established by the regulations made under section 3;
 
 “self-employed woman” means any woman resident in Singapore who engages in or carries on any trade, business, profession or vocation other than employment under a contract of service and derives income from such trade, business, profession or vocation or such other woman declared by the Minister to be a self-employed woman for the purposes of this Act.
 
@@ -154,13 +138,15 @@ PRELIMINARY
 
 CHILDREN DEVELOPMENT CO-SAVINGS SCHEME
 
-### Establishment of Scheme to assist families
+### Establishment of Children Development Co-Savings Scheme to assist families
 
 3\.—(1) The Minister may by regulations establish a Scheme to —
 
 (a) assist families so as to encourage married women to have 2 or more children; and
 
 (b) provide financial assistance for the development of the children of these families through a co-savings scheme whereby the Government will make contributions to an eligible child’s bank account equal to the contributions made by any parent of the eligible child.
+
+[2/2011 wef 09/03/2011]
 
 (2) Without prejudice to the generality of subsection (1), such regulations may provide for —
 
@@ -186,15 +172,17 @@ CHILDREN DEVELOPMENT CO-SAVINGS SCHEME
 
 (k) different provisions in respect of eligible children whose parents have not attained the age of majority.
 
+[13/2011 wef 01/05/2011]
+
 ### Compulsory substitution of trustee
 
 4\.—(1) Unless otherwise provided in an order of court or directed by the Minister, the trustee of the moneys standing to the credit of a member’s bank account shall —
 
-(a) where the custody, care and control of the member is granted under an order of court or by agreement between the parents of the member to the parent of the member who is not the trustee, be substituted with the parent to whom custody, care and control has been granted;
+(a) where the custody, care and control of the member is granted (under an order of court or by agreement between the parents of the member) to the parent of the member who is not the trustee, be substituted with the parent to whom custody, care and control has been granted;
 
-(b) where the care and control of the member is granted under an order of court or by agreement between the parents of the member to the parent of the member who is not the trustee, be substituted with the parent to whom care and control has been granted, notwithstanding that custody of the member remains with the parent who is the trustee;
+(b) where the care and control of the member is granted (under an order of court or by agreement between the parents of the member) to the parent of the member who is not the trustee, be substituted with the parent to whom care and control has been granted, notwithstanding that custody of the member remains with the parent who is the trustee;
 
-(c) where the custody, care and control, or care and control, of the member is granted under an order of court or by agreement between the parents of the member to a person other than the parents of the member, be substituted with the person granted custody, care and control, or care and control, of the member;
+(c) where the custody, care and control, or care and control, of the member is granted (under an order of court or by agreement between the parents of the member) to a person other than the parents of the member, be substituted with the person granted custody, care and control, or care and control, of the member;
 
 (d) where the member is legally adopted by any person, be substituted with the adopter of the member;
 
@@ -218,6 +206,8 @@ CHILDREN DEVELOPMENT CO-SAVINGS SCHEME
 
 (c) the moneys in the bank account of the member shall not be assignable or liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
 
+[52/2007 wef 01/01/2008]
+
 ### Moneys payable on death of member
 
 6\.—(1) On the death of a member, the moneys standing to his credit in his bank account shall be paid to the Public Trustee for disposal in accordance with any written law for the time being in force.
@@ -231,6 +221,7 @@ CHILDREN DEVELOPMENT CO-SAVINGS SCHEME
 7\.—(1) The Minister may make regulations to approve a person as an approved person for the purposes of the Scheme and for purposes connected therewith.
 
 (2) Without prejudice to the generality of subsection (1), such regulations may —
+
 
 (a) prescribe the manner in which applications for approval as an approved person may be made;
 
@@ -256,9 +247,10 @@ the Government may recover such payment from any moneys standing to the credit o
 
 (2) Where the Government is entitled to recover any payment from a member’s bank account under subsection (1), the bank at which the account is opened and maintained shall not authorise any further withdrawal from the account until the payment due to the Government has been deducted from the moneys standing to the credit of the account and paid to the Government.
 
+
 ## PART III
 
-THIRD CHILD MATERNITY LEAVE, PROTECTION AND BENEFITS
+THIRD CHILD MATERNITY LEAVE PROTECTION and BENFITS
 
 ### Length of benefit period, etc.
 
@@ -322,7 +314,7 @@ shall be entitled to claim from the Government, in accordance with the regulatio
 
 (ii) the income she would have otherwise derived from her trade, business, profession or vocation.
 
-(8) Nothing in this section shall be construed as derograting from any other benefits that the female employee is entitled to during the benefit period under the terms of her contract of service or under any other written law.
+(8) Nothing in this section shall be construed as derogating from any other benefits that the female employee is entitled to during the benefit period under the terms of her contract of service or under any other written law.
 
 ### Reimbursement from Government
 
@@ -330,7 +322,7 @@ shall be entitled to claim from the Government, in accordance with the regulatio
 
 (a) the amount of such payment; and
 
-(b) any contribution which the employer is liable to make in respect of such payment under the Central Provident Fund Act (Cap. 36) which is not recoverable from the employee’s wages.
+(b) any contribution which the employer is liable to make in respect of such payment under the Central Provident Fund Act which is not recoverable from the employee’s wages.
 
 (2) No employer shall be entitled to claim reimbursement from the Government of an amount exceeding $20,000 in respect of each female employee who is entitled to payment at her gross rate of pay under section 9.
 
@@ -340,9 +332,19 @@ shall be entitled to claim from the Government, in accordance with the regulatio
 
 (a) the employer may, if he has not been reimbursed by the Government for the payment to the female employee under section 9, recover the payment directly from the female employee; and
 
+[42/2004 wef 01/10/2004]
+
 (b) the Government may, where it has reimbursed an employer for the payment to the female employee under section 9, recover such payment from the female employee or where the payment is made to a self-employed woman, from that woman, as a civil debt.
 
+[42/2004 wef 01/10/2004]
+
+[42/2004 wef 01/10/2004]
+
+[28/2008 wef 31/10/2008]
+
 (2) The Government shall, if it is satisfied that an employer referred to in subsection (1)(a) has, despite all reasonable efforts to recover a payment from the female employee, been unable to recover such payment successfully, reimburse the employer under section 10 for the payment made to the female employee by the employer.
+
+[42/2004 wef 01/10/2004]
 
 ### Application of certain provisions of Employment Act
 
@@ -362,9 +364,11 @@ shall be entitled to claim from the Government, in accordance with the regulatio
 
 13\. This Part or any provision of this Part shall not apply to —
 
-(a) such class or classes of female employees;
+(a) such class or classes of femaleemployees;
 
-(b) such class or classes of self-employed women; and
+(b) such class or classes of self-employed women ; and
+
+[28/2008 wef 31/10/2008]
 
 (c) such class or classes of employers,
 
@@ -386,7 +390,11 @@ MISCELLANEOUS
 
 (d) the entitlement of a female employee or self-employed woman to any payment under section 9;
 
-(e) the entitlement of an employer to reimbursement from the Government under section 10 or 11; or
+(e) the entitlement of an employer to reimbursement from the Government under section 10 or 11; or6
+
+[42/2004 wef 01/10/2004]
+
+[28/2008 wef 31/10/2008]
 
 (f) such other matter under Part II or III as the Minister may determine,
 
@@ -400,6 +408,7 @@ shall be referred to the Minister for decision within one month from the date on
 
 (2) Every parent who makes a report of the change of his place of residence under section 8 of the National Registration Act (Cap. 201) shall be deemed to have complied with subsection (1).
 
+
 ### False or misleading statement
 
 16\.—(1) Any person who for any purpose connected with this Act —
@@ -411,6 +420,7 @@ shall be referred to the Minister for decision within one month from the date on
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (2) Where a person has been convicted by the court of having made any false or misleading statement or having produced or furnished any document which is false or misleading in any material particular under subsection (1), the court may order that person to make restitution of any moneys paid out to that person by the Government in reliance of the false or misleading statement or document.
+
 
 ### Failure of employer to pay female employee
 
@@ -460,21 +470,20 @@ he, as well as the body corporate, shall be guilty of the offence under subsecti
 
 21\. The Minister may, subject to such terms and conditions as he may specify, exempt any person from complying with any requirement of this Act.
 
-### Consequential amendment to Education Endowment Scheme Act
+## LEGISLATIVE HISTORY
 
-22\. Section 7 of the Education Endowment Scheme Act (Cap. 87A) is amended by deleting subsection (1) and substituting the following subsection:
+Children Development Co-Savings Act
 
-“
+(CHAPTER 38A)
 
-(1) For the purposes of this Act, there shall be established a fund to be called the Edusave Pupils Fund into which shall be paid —
+This Legislative History is provided for the convenience of users of the Children Development Co-Savings Act. It is not part of this Act.
 
-(a) all contributions under section 9;
-
-(b) all income of that Fund; and
-
-(c) all moneys to be transferred to a member’s Edusave account under the Children Development Co-Savings Act 2001,
-
-and out of which shall be met all payments authorised to be paid under this Act.
-
-”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 13 of 2001—Children Development Co-Savings Act 2001**|
+||Date of First Reading|22 February 2001|
+|||(Bill No. 13/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|16 March 2001|
+||Date of commencement|1 April 2001|
+|2.|**2002 Revised Edition—Children Development Co-Savings Act**|
+||Date of operation|31 July 2002|
