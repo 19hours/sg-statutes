@@ -84,6 +84,8 @@
 
 - [35 Power to make awards](#Power-to-make-awards)
 
+- [35A Award relating to trade dispute over transfer of employment](#Award-relating-to-trade-dispute-over-transfer-of-employment)
+
 [**Part V AWARDS**](#Part-V)
 
 - [36 Form of award](#Form-of-award)
@@ -246,7 +248,13 @@ PRELIMINARY
 
 (d) a person who owns, or is carrying on, or for the time being responsible for the management or control of a profession, business, trade or work in which an employee is engaged;
 
-“industrial matters” means matters pertaining to the relations of employers and employees which are connected with the employment or non-employment or the terms of employment or the conditions of work of any person;
+(e) for the purposes of Parts IV, V and VI, the transferor of an undertaking whose employment of employees is transferred by virtue of section 18A of the Employment Act [Cap. 91];
+
+[Act 36/95 wef 01/03/1996 vide S 557/95]
+
+“industrial matters” means matters pertaining to the relations of employers and employees which are connected with the employment or non-employment or the terms of employment, the transfer of employment or the conditions of work of any person;
+
+[Act 36/95 wef 01/03/1996]
 
 “industrial relations officer” means an industrial relations officer appointed under section 28;
 
@@ -262,7 +270,19 @@ PRELIMINARY
 
 “trade dispute” means a dispute (including a threatened, impending or probable dispute) as to industrial matters;
 
-“trade union” means a trade union of employees or employers registered under any written law for the time being in force relating to the registration of trade unions.
+“trade union” means a trade union of employees or employers registered under any written law for the time being in force relating to the registration of trade unions;
+
+“transfer of employment” means the transfer of an employee’s employment from the transferor of an undertaking to the transferee pursuant to section 18A of the Employment Act;
+
+[Cap. 91. Act 36/95 wef 01/03/1996]
+
+“transferee” means the person to whom an undertaking is transferred and who becomes the employer of the transferor’s employees by virtue of section 18A of the Employment Act;
+
+[Act 36/95 wef 01/03/1996]
+
+“undertaking” includes any trade or business.
+
+[Act 36/95 wef 01/03/1996]
 
 ## PART II
 
@@ -416,6 +436,10 @@ COLLECTIVE BARGAINING
 
 (5) The powers of a Court under subsection (4) shall be exercisable by the Court constituted by the President alone.
 
+(6) Subsection (1) shall not apply to the extent that a trade union of employees is deemed to be recognised by a transferee under section 18A(8) of the Employment Act [Cap. 91].
+
+[Act 36/95 wef 01/03/1996]
+
 ### Invitation to negotiate
 
 17\.—(1) A trade union of employees which has been accorded recognition by an employer may serve on that employer or an employer may serve on a trade union of employees a notice in the prescribed form setting out proposals for a collective agreement in relation to any industrial matters and inviting the employer or trade union of employees, as the case may be, to negotiate with it in relation to those matters with a view to arriving at a collective agreement.
@@ -474,7 +498,7 @@ he shall notify the Minister and, unless the Minister otherwise directs, the Reg
 
 ### Procedure as to notification
 
-23\.—(1) A notification by the Commissioner under this Part that a trade dispute exists shall contain a statement of the parties to the trade dispute and the matters in dispute so far as they are known to the Commisssioner and where the trade dispute is notified in accordance with section 19 the reasons for the refusal to negotiate so far as they are known to the Commissioner.
+23\.—(1) A notification by the Commissioner under this Part that a trade dispute exists shall contain a statement of the parties to the trade dispute and the matters in dispute so far as they are known to the Commissioner and where the trade dispute is notified in accordance with section 19 the reasons for the refusal to negotiate so far as they are known to the Commissioner.
 
 (2) The Registrar shall, upon receiving a notification under this Part, forthwith bring it to the notice of the President.
 
@@ -540,7 +564,9 @@ Provided that the Minister may from time to time by notification in theGazetteex
 
 (a) the parties to the agreement;
 
-(b) any successor to, or any assignee or transmittee of, the business of an employer bound by an agreement, including any corporation which has acquired or taken over the business of such an employer;
+(b) any successor to, or any transferee, assignee or transmittee of, the undertaking of an employer bound by an agreement, including any corporation which has acquired or taken over the undertaking of such an employer;
+
+[Act 36/95 wef 01/03/1996]
 
 (c) any successor to a trade union of employees which was a party to the agreement; and
 
@@ -578,7 +604,13 @@ ARBITRATION
 
 (a) all the trade unions and employers who are parties to a trade dispute jointly make a request in writing to the Registrar that the trade dispute be submitted to arbitration;
 
-(b) a trade union or an employer who is a party to a trade dispute makes a request in writing to the Registrar that pursuant to section 48(6) or 49(3) of the Employment Act [Cap. 91] the trade dispute be submitted to arbitration;
+(b) a trade union or an employer who is a party to a trade dispute makes a request in writing to the Registrar that pursuant to section 50(1) of the Employment Act [Cap. 91] the trade dispute be submitted to arbitration;
+
+[Act 36/95 wef 01/03/1996]
+
+(ba) a trade union which or an employer who is a party to a trade dispute as to any matter arising from or connected with a transfer of employment makes a request in writing, whether before or after the transfer of employment, to the Registrar that the trade dispute be submitted to arbitration;
+
+[Act 36/95 wef 01/03/1996 vide S 557/95]
 
 (c) the Minister by notice in theGazettedirects that the trade dispute be submitted to arbitration; or
 
@@ -600,7 +632,11 @@ ARBITRATION
 
 (a) not only to the interests of the persons immediately concerned but to the interests of the community as a whole and in particular the condition of the economy of Singapore; and
 
-(b) to the recommendations made from time to time by the Minister under section 50 of the Employment Act [Cap. 91] relating to the matters specified in that section.
+(b) to the recommendations made from time to time by the Minister under section 49 of the Employment Act relating to the matters specified in that section.
+
+[29/72. Cap. 91. S 22/89 wef 30/03/1987. Act 36/95]
+
+[]
 
 (2) In any case where a Court has regard to the recommendations referred to in subsection (1)(b), the Court may vary or set aside any of the terms of a collective agreement or award notwithstanding section 44.
 
@@ -631,6 +667,16 @@ and the employer shall comply with the Minister’s direction.
 (8) An employer who fails to comply with the direction of the Minister under subsection (5) shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (9) Where an amount to be paid under subsection (5) is not paid in accordance with the Minister’s direction and the employer has been convicted of an offence under subsection (8), the amount, or so much thereof as remains unpaid, shall be recoverable by the court as if it were a fine and the amount so recovered shall be paid to the employee entitled under the direction.
+
+### Award relating to trade dispute over transfer of employment
+
+35A\. Where the Court has cognizance of a trade dispute between a trade union and an employer arising from or connected with a transfer of employment, the Court’s power to make an award relating to the dispute under section 35 shall include the powers —
+
+(a) to delay or prohibit the transfer of employment of an employee who is a member of the trade union; and
+
+(b) to order that the transfer of employment of the employee who is a member of the trade union be subject to such terms as the Court considers just.
+
+[Act 36/95 wef 01/03/1996]
 
 ## PART V
 
@@ -678,7 +724,9 @@ AWARDS
 
 (c) all trade unions and persons who, having been notified either personally or as prescribed by regulations made under this Act, of the trade dispute and of the fact that they were alleged to be parties to the trade dispute, did not, before the conclusion of the hearing of the trade dispute, satisfy the Court that they were not parties to the trade dispute;
 
-(d) any successor to, or any transferee, assignee or transmittee of, the business of an employer who was a party to the trade dispute or of an employer bound by the award, including any corporation which has acquired or taken over the business of such an employer;
+(d) any successor to, or any transferee, assignee or transmittee of, the undertaking of an employer who was a party to the trade dispute or of an employer bound by the award, including any corporation which has acquired or taken over the undertaking of such an employer;
+
+[Act 36/95 wef 01/03/1996]
 
 (e) any successor to a trade union which was a party to a trade dispute;
 
@@ -686,7 +734,9 @@ AWARDS
 
 (g) all members of a trade union bound by the award.
 
-(2) Where an employer bound by an award has ceased to carry on a business on any premises and another person commences to carry on a business of the same kind on the same premises that person shall, for the purpose of this section, be deemed to be a successor to the business of the employer bound by the award.
+(2) Where an employer bound by an award has ceased to carry on an undertaking on any premises and another person commences to carry on an undertaking of the same kind on the same premises that person shall, for the purpose of this section, be deemed to be a successor to the undertaking of the employer bound by the award.
+
+[Act 36/95 wef 01/03/1996]
 
 ### Minister may extend operation of award
 
@@ -760,13 +810,13 @@ Provided that the Court in making an award in respect of employers and employees
 
 ### Court may vary agreement or award
 
-46\.\*—(1) Where a collective agreement or an award has been made at any time prior to 1st July 1972, either party bound thereby may, notwithstanding the provisions of this Act, at any time on or after 1st May 1974, apply to a Court to vary or amend all or any of the terms of the collective agreement or award.
+46\.1—(1) Where a collective agreement or an award has been made at any time prior to 1st July 1972, either party bound thereby may, notwithstanding the provisions of this Act, at any time on or after 1st May 1974, apply to a Court to vary or amend all or any of the terms of the collective agreement or award.
 
 [29/72]
 
 (2) A Court may, notwithstanding the provisions of this Act, vary the collective agreement or award in such manner as the Court thinks fit.
 
-\*This section was formerly section 7 of the Industrial Relations (Amendment) Act 1972 (No. 29 of 1972)
+1This section was formerly section 7 of the Industrial Relations (Amendment) Act 1972 (No. 29 of 1972)
 
 ### Award to be final
 
@@ -902,7 +952,9 @@ Provided that no sale of immovable property shall for the purposes of such enfor
 
 (3) A Court shall have power to punish an act or omission as a contempt of the Court although a penalty is provided in respect of that act or omission under some other provision of this Act or under any other written law.
 
-(4) For the purposes of enforcing the payment of any fine imposed or giving effect to any order of imprisonment the President shall have the powers of a Judge of the Supreme Court.
+(4) For the purposes of enforcing the payment of any fine imposed or giving effect to any order of imprisonment the President shall have the powers of a Judge of the High Court.
+
+[Act 16/93 wef 01/07/1993]
 
 (5) Where a Court punishes as contempt a failure by a person to comply with an order of the Court, that person shall, during a period of two years from the date on which the punishment is imposed, or such lesser period as the Court may determine, be ineligible to be nominated for election as an officer of a trade union or a branch of a trade union or a federation of trade unions or to act as such an officer.
 
@@ -966,7 +1018,9 @@ PROCEDURE AND POWERS OF COURTS
 
 (g) order the reinstatement of a dismissed employee or grant such other relief as it may consider desirable;
 
-(h) dismiss the trade dispute or matter or part thereof if it appears that it is trivial or that further proceedings are not necessary or desirable in the public interest or that, having regard to the provisions of any relevant award made by a Court or made under the Industrial Courts Ordinance [1955 Ed. Cap. 151], repealed by this Act, or of any relevant collective agreement registered under this Act or made before the commencement of this Act and not so registered, the trade dispute or matter or part thereof ought to be dismissed; and
+(h) dismiss the trade dispute or matter or part thereof if it appears that it is trivial or that further proceedings are not necessary or desirable in the public interest or that, having regard to the provisions of any relevant award made by a Court or made under the Industrial Courts Ordinance, repealed by this Act, or of any relevant collective agreement registered under this Act or made before the commencement of this Act and not so registered, the trade dispute or matter or part thereof ought to be dismissed; and
+
+[1955 Ed. Cap. 151.]
 
 (i) generally give all such directions and do all such things as are necessary or expedient for the expeditious and just hearing and determination of the trade dispute or matter.
 
@@ -1354,3 +1408,9 @@ This Legislative History is provided for the convenience of users of the Industr
 |8.|**1985 Revised Edition—Industrial Relations Act (Chapter 136)**|
 ||(G.N. No. S 22/1989 — Rectification Order)||
 ||Date of operation|30 March 1987|
+|9.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+||(Consequential amendments made by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 12/93 published on 27 February 1993)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|1 July 1993|
