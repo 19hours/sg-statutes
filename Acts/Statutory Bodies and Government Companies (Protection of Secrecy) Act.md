@@ -128,10 +128,6 @@ Monetary Authority of Singapore Act (Chapter 186).
 
 National Computer Board Act (Chapter 195).
 
-13. Port of Singapore Authority
-
-Port of Singapore Authority Act (Chapter 236).
-
 14. Public Transport Council
 
 Public Transport Council Act (Chapter 259B).
@@ -183,6 +179,10 @@ Government Companies
 2\. Chartered Industries of Singapore (Pte.) Ltd. and its subsidiary corporations.
 
 3\. National Computer Systems Pte. Ltd.
+
+3A. PSA Corporation Limited and its subsidiary corporations.
+
+[S 92/98 wef 27/02/1998]
 
 4. Singapore Technologies Aerospace Ltd and its subsidiary corporations.
 
@@ -317,3 +317,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|8 September 1997|
 |21.|**G. N. No. S 455/1997—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 1997**|
 ||Date of commencement|3 October 1997|
+|22.|**G. N. No. S 92/1998—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 1998**|
+||Date of commencement|27 February 1998|
