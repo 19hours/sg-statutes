@@ -466,9 +466,9 @@ may appeal against the refusal or order to the Minister at any time within a per
 
 20\.—(1) Upon the dissolution of a trade union under section 19 —
 
-(a) the property of the trade union shall forthwith vest in the Official Assignee in Bankruptcy; and
+(a) the property of the trade union shall forthwith vest in the Official Receiver; and
 
-(b) the Official Assignee in Bankruptcy shall proceed to wind up the affairs of the trade union and after satisfying and providing for all debts and liabilities of the trade union and the costs of winding up shall pay the surplus assets, if any, of the trade union —
+(b) the Official Receiver shall proceed to wind up the affairs of the trade union and after satisfying and providing for all debts and liabilities of the trade union and the costs of winding up shall pay the surplus assets, if any, of the trade union —
 
 (i) where the Minister so directs, into the Workers’ Fund established under the Workmen’s Compensation Act; or
 
@@ -479,6 +479,10 @@ may appeal against the refusal or order to the Minister at any time within a per
 (2) Where no direction is given by the Minister under subsection (1) and the surplus assets or part thereof cannot be distributed in accordance with the rules of the trade union either because the members cannot be found, or no meeting of the members is possible or for any other good and sufficient reason, the surplus assets shall be paid into the Workers’ Fund.
 
 [28/82]
+
+(3) For the purpose of winding up the affairs of the trade union, the Official Receiver shall have all the powers vested in the Official Receiver under the Companies Act (Cap. 50) for the purpose of discovery of the property of a debtor, the realisation thereof and the winding up of a company, and the provisions of that Act shall apply, with the necessary modifications, to the winding up of the affairs of a trade union under this Act.
+
+[9/2003 wef 16/05/2003]
 
 ## PART IV
 
@@ -1271,3 +1275,8 @@ This Legislative History is provided for the convenience of users of the Trade U
 |||(Bill No. 25/2002 published on 9 July 2002)|
 ||Date of Second and Third Readings|23 July 2002|
 ||Date of commencement|1 September 2002|
+|23.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
