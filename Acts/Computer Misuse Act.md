@@ -36,6 +36,8 @@
 
 - [12 Jurisdiction of Courts](#Jurisdiction-of-Courts)
 
+- [12A Composition of offences](#Composition-of-offences)
+
 - [13 Order for payment of compensation](#Order-for-payment-of-compensation)
 
 - [14 Saving for investigations by police and law enforcement officers](#Saving-for-investigations-by-police-and-law-enforcement-officers)
@@ -344,6 +346,14 @@ MISCELLANEOUS AND GENERAL
 
 [9
 
+### Composition of offences
+
+12A\.—(1) The Commissioner of Police or any person authorised by him may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $3,000.
+
+(2) The Minister may make regulations to prescribe the offences which may be compounded.
+
+[25/2003 wef 01/09/2004]
+
 ### Order for payment of compensation
 
 13\.—(1) The court before which a person is convicted of any offence under this Act may make an order against him for the payment by him of a sum to be fixed by the court by way of compensation to any person for any damage caused to his computer, program or data by the offence for which the sentence is passed.
@@ -473,3 +483,8 @@ This Legislative History is provided for the convenience of users of the Compute
 |||(Bill No. 22/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|14 June 2004 (except section 2)|
+|7.|**Act 25 of 2003—Computer Misuse (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 22/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|10 November 2003|
+||Date of commencement|1 September 2004 (section 2)|
