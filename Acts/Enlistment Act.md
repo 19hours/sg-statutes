@@ -94,9 +94,9 @@
 
 (Original Enactment: Act 25 of 1970)
 
-REVISED EDITION 1992
+REVISED EDITION 1995
 
-(9th March 1992)
+(15th March 1995)
 
 An Act to provide for enlistment of persons in the armed forces of Singapore.
 
@@ -158,11 +158,7 @@ not more than 50 years of age;
 
 “Special Constabulary” means the Special Constabulary constituted under Part VIII of the Police Force Act [Cap. 235].
 
-[7/72]
-
-[21/74]
-
-[19/94]
+[7/72; 21/74; 19/94]
 
 ## PART II
 
@@ -252,11 +248,11 @@ not more than 50 years of age;
 
 such person shall be liable to serve for a period not exceeding 2 years and 6 months.
 
+[18/78]
+
 (2) A reduction or reversion in rank, or the loss of a position or status, referred to in subsection (1), shall not affect the liability of a person incurred under that subsection.
 
 (3) Nothing in this section shall affect the liability to render full-time service of a person enlisted prior to 1st January 1971.
-
-[18/78]
 
 ### Duty to render operationally ready national service
 
@@ -276,11 +272,9 @@ such person shall be liable to serve for a period not exceeding 2 years and 6 mo
 
 (ii) for periods not exceeding in the aggregate 40 days annually.
 
+[25/89; 19/94]
+
 (2) Nothing in subsection (1) shall preclude any person who is liable for operationally ready national service from serving for a period or periods longer than the period or periods specified in subsection (1)(b)(i) or (ii) if authorised by the proper authority.
-
-[19/94]
-
-[25/89]
 
 [19/94]
 
@@ -294,13 +288,11 @@ such person shall be liable to serve for a period not exceeding 2 years and 6 mo
 
 (c) a period of operationally ready national service between 4 and 24 hours shall be deemed to be one day of service:
 
-Provided that where a period of operationally ready national service between 18 and 24 hours falls within two calendar days it shall be deemed to be two days of service; and
+Provided that where a period of operationally ready national service between 18 and 24 hours falls within 2 calendar days it shall be deemed to be 2 days of service; and
 
 (d) where a person serves for a period exceeding 24 hours, every calendar day on which he serves, including the first and the last day, shall be deemed to be one day of service though the latter periods might be of less than 24 hours duration.
 
-[25/89]
-
-[19/94]
+[25/89; 19/94]
 
 ### Proclamation by President
 
@@ -326,13 +318,13 @@ Provided that where a period of operationally ready national service between 18 
 
 ### Regular service
 
-19\.—(1) Any person may apply to the proper authority to be enlisted for regular service in the Singapore Armed Forces established under the Singapore Armed Forces Act.
+19\.—(1) Any person may apply to the proper authority to be enlisted for regular service in the Singapore Armed Forces established under the Singapore Armed Forces Act [Cap. 295].
+
+[7/72]
 
 (2) Where a person applies to be enlisted for such regular service, the proper authority may require him to report for registration and fitness examination.
 
 (3) Where the proper authority approves and accepts the application of any person for regular service, the proper authority shall notify the person of that acceptance and may require him to report for enlistment and service.
-
-[7/72]
 
 ### Terms and conditions of regular service
 
@@ -354,7 +346,7 @@ Provided that where a period of operationally ready national service between 18 
 
 shall reinstate that person in his employment at the termination of such service except where that person has been required to perform further operationally ready national service pursuant to section 118(16) of the Singapore Armed Forces Act [Cap. 295] in which event an employer may, in his discretion, reinstate that person.
 
-[19/94]
+[21/74; 19/94]
 
 (2) Subsection (1) shall not apply to an employer if the person subject to this Act whom he has had in his employment was called up for full-time service and would have remained in that employment only for an agreed definite or certain period of time had that person not been ordered to perform full-time service.
 
@@ -366,10 +358,6 @@ shall reinstate that person in his employment at the termination of such service
 
 Provided that in any proceedings under this section it shall be a defence for the employer to prove that the person formerly employed by him did not, before the expiration of 3 months after termination of the service for which that person was called up, apply to the employer for reinstatement.
 
-[21/74]
-
-[19/94]
-
 ### Prohibition against dismissal
 
 22\.—(1) No employer shall dismiss a person subject to this Act solely or mainly by reason of any duties or liabilities which that person is, or may become, liable to perform or discharge by reason of his being, or being liable to be, called up for —
@@ -378,19 +366,15 @@ Provided that in any proceedings under this section it shall be a defence for th
 
 (b) mobilised service pursuant to section 65 of the Police Force Act [Cap. 235]; or
 
-(c) voluntary service in the division of the Singapore Armed Forces known as the People’s Defence Force pursuant to the Singapore Armed Forces Act [Cap. 295] and any regulations made thereunder or in the Special Constabulary pursuant to the Police Force Act [Cap. 235] and any regulations made thereunder,
+(c) voluntary service in the division of the Singapore Armed Forces known as the People’s Defence Force pursuant to the Singapore Armed Forces Act and any regulations made thereunder or in the Special Constabulary pursuant to the Police Force Act [Cap. 235] and any regulations made thereunder,
 
-unless that person has assumed duties or liabilities in connection with additional operationally ready national service under a punishment imposed by a court pursuant to section 118(16) of the Singapore Armed Forces Act or unless such person is called up for full-time service and is employed only for an agreed definite or certain period of time, in which event an employer may, in his discretion, dismiss that person.
+unless that person has assumed duties or liabilities in connection with additional operationally ready national service under a punishment imposed by a court pursuant to section 118(16) of the Singapore Armed Forces Act [Cap. 295] or unless such person is called up for full-time service and is employed only for an agreed definite or certain period of time, in which event an employer may, in his discretion, dismiss that person.
 
-(2) For the purpose of this section, where the duties or liabilities of service under this Act caused or contributed to the dismissal of a person subject to this Act, he shall be deemed to have been dismissed by reason of those duties or liabilities, unless the employer proves that the dismissal was for a reason unconnected therewith.
+[21/74; 18/78; 19/94]
+
+(2) For the purpose of this section where the duties or liabilities of service under this Act caused or contributed to the dismissal of a person subject to this Act, he shall be deemed to have been dismissed by reason of those duties or liabilities, unless the employer proves that the dismissal was for a reason unconnected therewith.
 
 (3) Any employer who dismisses a person subject to this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both, and the court by which he is convicted may order the employer to pay to the dismissed person as compensation a sum not exceeding an amount equal to 3 months remuneration at the rate at which his remuneration was last payable to him by the employer.
-
-[21/74]
-
-[18/78]
-
-[19/94]
 
 ### Leave of absence
 
@@ -404,9 +388,9 @@ unless that person has assumed duties or liabilities in connection with addition
 
 shall grant that person leave of absence during his period of service.
 
-(2) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
-
 [21/74]
+
+(2) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 ### Loss of salaries and wages
 
@@ -429,6 +413,8 @@ and who, immediately prior to the performance of such service, was or is —
 (iii) gainfully employed by one or more employers,
 
 shall be entitled to claim reimbursement of an amount by which his civilian remuneration is reduced as a result of being required to perform such service, less any service remuneration to which he is entitled in respect of that service, and the designated authority may pay the claims from moneys to be provided by Parliament.
+
+[18/78; 25/89; 19/94]
 
 (2) If a dispute arises between the designated authority and a person subject to this Act as to the amount that such person may claim by way of reimbursement under subsection (1), the matter shall be referred to the Minister whose decision shall be final.
 
@@ -468,23 +454,13 @@ but shall not include bonuses or ex gratia payments;
 
 “service” includes any voluntary service with the Singapore Armed Forces or the Special Constabulary;
 
-“service remuneration” means any remuneration payable by the Government for any service before any deductions are made under or in accordance with any written law or with any orders or instructions of the Government or of the armed forces.
-
-[18/78]
-
-[25/89]
-
-[19/94]
+“service remuneration” means any remuneration payable by the Government for any service before any deductions are made under or in accordance with any written law or with any orders or instructions of the Government or the armed forces.
 
 ## PART VI
 
 ### Application of military law
 
-25\. Any person required under this Act to report for enlistment or service in the Singapore Army established under the repealed Singapore Army Act 1965 or the People’s Defence Force as constituted under the repealed People’s Defence Force Act, shall, from such date and time as may be specified, be subject to military law and the repealed Singapore Army Act 1965 or any other Act relating to the armed forces, shall apply to him notwithstanding that he has not complied with the order.
-
-[13/65]
-
-[]
+25\. Any person required under this Act to report for enlistment or service in the Singapore Army established under the repealed Singapore Army Act 1965 [13/65] or the People’s Defence Force as constituted under the repealed People’s Defence Force Act [Cap. 234, 1970 Ed.], shall, from such date and time as may be specified, be subject to military law and the repealed Singapore Army Act 1965 [13/65] or any other Act relating to the armed forces, shall apply to him notwithstanding that he has not complied with the order.
 
 ### Release and unaccountable periods
 
@@ -511,6 +487,8 @@ Provided that in computing the period of service, no account shall be taken of �
 ### Orders, notices, permits and appointments
 
 29\.—(1) Orders, notices, permits and appointments issued or made under this Act may be of a general nature or may refer to a class of persons or to one person or to any number of persons.
+
+[25/89]
 
 (2) An order or notice issued under this Act may be served on any person —
 
@@ -654,9 +632,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Transitional provisions
 
-34\.—(1) The provisions of this Act shall not derogate from the liability of any person incurred under the provisions of the National Service Ordinance 19521and the repealed Singapore Army Act 1965.
+34\.—(1) The provisions of this Act shall not derogate from the liability of any person incurred under the provisions of the National Service Ordinance 1952 [M 37/52]\*and the repealed Singapore Army Act 1965 [13/65].
 
-1This Malaysian Ordinance ceased to apply to Singapore on the coming into operation of this Act on 1st August 1970.
+\*This Malaysian Ordinance ceased to apply to Singapore on the coming into operation of this Act on 1st August 1970.
+
+[25/89]
 
 (2) Without prejudice to subsection (1), every person who, before 1st August 1970, —
 
@@ -664,9 +644,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (i) to report for registration, examinations or for enlistment for service;
 
-(ii) to render full-time service under section 16K of the National Service Ordinance 19522or to render regular service under the repealed Singapore Army Act 1965; or
-
-2This Malaysian Ordinance ceased to apply to Singapore on the coming into operation of this Act on 1st August 1970.
+(ii) to render full-time service under section 16K of the National Service Ordinance 1952* or to render regular service under the repealed Singapore Army Act 1965; or
 
 (iii) to reinstate any person in his employment,
 
@@ -674,33 +652,19 @@ shall be so liable under this Act; or
 
 (b) was liable to report for or to render —
 
-(i) reserve service under Part VIIA of the National Service Ordinance 19523shall be liable to report for or render operationally ready national service under section 14(1)(b)(ii);
-
-3This Malaysian Ordinance ceased to apply to Singapore on the coming into operation of this Act on 1st August 1970.
+(i) reserve service under Part VIIA of the National Service Ordinance 1952* shall be liable to report for or render operationally ready national service under section 14(1)(b)(ii);
 
 (ii) part-time service, shall be liable to report for or render service under section 14(1)(b)(ii);
 
-(iii) full-time service under section 16C of the National Service Ordinance 19524or mobilised service under any other written law, shall be liable to report for or render mobilised service under this Act;
-
-4This Malaysian Ordinance ceased to apply to Singapore on the coming into operation of this Act on 1st August 1970.
+(iii) full-time service under section 16C of the National Service Ordinance 1952* or mobilised service under any other written law, shall be liable to report for or render mobilised service under this Act;
 
 (c) was registered or examined for service, shall be deemed to be registered or examined under this Act; and
 
-(d) was found fit for service by a medical practitioner on examination under the National Service Ordinance 19525, shall be deemed to be medically fit for service under this Act.
-
-5This Malaysian Ordinance ceased to apply to Singapore on the coming into operation of this Act on 1st August 1970.
+(d) was found fit for service by a medical practitioner on examination under the National Service Ordinance 1952*, shall be deemed to be medically fit for service under this Act.
 
 [19/94]
 
-(3) Any exemption, postponement, exit permit or certificate granted pursuant to the National Service Ordinance 19526shall be deemed to have been granted under this Act.
-
-6This Malaysian Ordinance ceased to apply to Singapore on the coming into operation of this Act on 1st August 1970.
-
-[25/89]
-
-[M 37/52]
-
-[13/65]
+(3) Any exemption, postponement, exit permit or certificate granted pursuant to the National Service Ordinance 1952* shall be deemed to have been granted under this Act.
 
 ## LEGISLATIVE HISTORY
 
@@ -769,3 +733,5 @@ This Legislative History is provided for the convenience of users of the Enlistm
 |||(Bill No. 21/1994 published on 29 July 1994)|
 ||Date of Second and Third Readings|31 October 1994|
 ||Date of commencement|1 December 1994|
+|14.|**1995 Revised Edition—Enlistment Act**|
+||Date of operation|15 March 1995|
