@@ -1,16 +1,14 @@
-**National Arts Council Act 1991**
+**National Arts Council Act**
 
-**(No. 26 of 1991)**
+**(CHAPTER 193A)**
 
 **Table of Contents**
 
 [**Long Title**](#National-Arts-Council-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -44,7 +42,7 @@
 
 - [14 Financial provisions](#Financial-provisions)
 
-[**Part V TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES**](#Part-V)
+[**Part V TRANSFER OF ASSSETS, LIABILITIES AND EMPLOYEES**](#Part-V)
 
 - [15 Transfer of assets and liabilities](#Transfer-of-assets-and-liabilities)
 
@@ -56,7 +54,7 @@
 
 - [19 Conditions of service](#Conditions-of-service)
 
-- [20 Pension schemes, provident fund, etc](#Pension-schemes-provident-fund-etc)
+- [20 Pension schemes, provident fund, etc.](#Pension-schemes-provident-fund-etc)
 
 - [21 No benefits in respect of abolition or reorganisation of office](#No-benefits-in-respect-of-abolition-or-reorganisation-of-office)
 
@@ -64,71 +62,39 @@
 
 - [23 Misconduct or neglect of duty by employee before transfer](#Misconduct-or-neglect-of-duty-by-employee-before-transfer)
 
-- [24 Date of transfer](#Date-of-transfer)
-
 [**Part VI MISCELLANEOUS PROVISIONS**](#Part-VI)
 
-- [25 Protection from personal liability](#Protection-from-personal-liability)
+- [24 Protection from personal liability](#Protection-from-personal-liability)
 
-- [26 Repeal](#Repeal)
+[**FIRST SCHEDULE Constitution and proceedings of Council**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Council)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Council**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Council)
+[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
-[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
+[**THIRD SCHEDULE Pension schemes**](#THIRD-SCHEDULE-Pension-schemes)
 
-[**THIRD SCHEDULE Pension Schemes**](#THIRD-SCHEDULE-Pension-Schemes)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# National Arts Council Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 193A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 26 of 1991)
 
-Published by Authority
+REVISED EDITION 1992
 
-NO. 28]
-
-Thursday, August 8
-
-[1991
-
-The following Act was passed by Parliament on 28th June 1991 and assented to by the President on 24th July 1991:—
-
-National Arts Council Act 1991
-
-(No. 26 of 1991)
-
-I assent.
-
-YONG PUNG HOW
-
-Person appointed
-
-
-
-
-to exercise
-
-
-
-
-the functions of the President.
-
-24th July 1991.
-
-Date of Commencement: 17th August 1991
+(9th March 1992)
 
 An Act to establish the National Arts Council and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[17th August 1991]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the National Arts Council Act 1991 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the National Arts Council Act.
 
 ### Interpretation
 
@@ -144,7 +110,7 @@ PRELIMINARY
 
 “member” means a member of the Council and includes the Chairman and the Deputy Chairman;
 
-“National Theatre Trust” means the National Theatre Trust constituted under section 3 of the National Theatre Trust Act (Cap. 203);
+“National Theatre Trust” means the National Theatre Trust constituted under section 3 of the National Theatre Trust Act [Cap. 203];
 
 “National Theatre Trust Fund” means the National Theatre Trust Fund established under the National Theatre Trust Act and includes all subscriptions, donations, bequests, interest and dividends and all other property real and personal received or acquired for the purposes of that Act by the National Theatre Trust Board;
 
@@ -154,7 +120,12 @@ PRELIMINARY
 
 ## PART II
 
-ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF COUNCIL
+ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND
+
+
+
+
+POWERS OF COUNCIL
 
 ### Establishment of National Arts Council
 
@@ -304,9 +275,7 @@ FUNDS AND PROPERTY OF COUNCIL
 
 (2) Any interest, dividends and other income derived from the Fund shall be credited to the general funds of the Council.
 
-(3) For the purposes of this section,
-
-“general funds of the Council” means the funds of the Council other than the Fund.
+(3) For the purposes of this section, “general funds of the Council” means the funds of the Council other than the Fund.
 
 (4) The Fund shall not, except with the prior written approval of the Minister, be applied, disposed of or alienated otherwise than as specified in section 12(2) and (3).
 
@@ -316,29 +285,34 @@ FUNDS AND PROPERTY OF COUNCIL
 
 ## PART V
 
-TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
+TRANSFER OF ASSSETS, LIABILITIES
+
+
+
+
+AND EMPLOYEES
 
 ### Transfer of assets and liabilities
 
-15\. As from the appointed day —
+15\. As from 15th October 1991 —
 
-(a) the National Theatre Trust Fund and all property, movable and immovable, vested in the National Theatre Trust immediately before that day, and all assets, rights and interests vested in, and all outstanding debts, liabilities and obligations incurred by, the National Theatre Trust in connection therewith; and
+(a) the National Theatre Trust Fund and all property, movable and immovable, vested in the National Theatre Trust immediately before that date, and all assets, rights and interests vested in, and all outstanding debts, liabilities and obligations incurred by, the National Theatre Trust in connection therewith; and
 
-(b) such movable property vested in the Government immediately before that day used to carry out any functions and services of the Arts Division in the Ministry of Information and the Arts which are similar to any functions vested in the Council by this Act, as the Minister for Finance may, by warrant, direct,
+(b) such movable property vested in the Government immediately before that date used to carry out any functions and services of the Arts Division in the Ministry of Information and the Arts which are similar to any functions vested in the Council by this Act, as the Minister for Finance may, by warrant, direct,
 
 shall be transferred to and shall vest in the Council without further assurance.
 
 ### Existing agreements, etc.
 
-16\. All deeds, bonds, agreements, instruments and working arrangements, subsisting immediately before the appointed day, affecting any of the property, rights, interests, liabilities and obligations transferred to or vested in the Council under section 15(a) shall continue in force on and after that day and shall be enforceable by or against the Council as if, instead of the National Theatre Trust or a person acting on behalf of the National Theatre Trust, the Council had been named therein or had been a party thereto.
+16\. All deeds, bonds, agreements, instruments and working arrangements, subsisting immediately before 15th October 1991, affecting any of the property, rights, interests, liabilities and obligations transferred to or vested in the Council under section 15(a) shall continue in force on and after that date and shall be enforceable by or against the Council as if, instead of the National Theatre Trust or a person acting on behalf of the National Theatre Trust, the Council had been named therein or had been a party thereto.
 
 ### Pending legal proceedings
 
-17\. Any proceedings or cause of action pending or existing immediately before the appointed day by or against the National Theatre Trust or any person acting on behalf of the National Theatre Trust may be continued and shall be enforced by or against the Council.
+17\. Any proceedings or cause of action pending or existing immediately before 15th October 1991 by or against the National Theatre Trust or any person acting on behalf of the National Theatre Trust may be continued and shall be enforced by or against the Council.
 
 ### Transfer of employees
 
-18\.—(1) As from the appointed day, such persons who immediately before that day —
+18\.—(1) As from 15th October 1991, such persons who immediately before that date —
 
 (a) are employed by the National Theatre Trust; or
 
@@ -346,7 +320,7 @@ shall be transferred to and shall vest in the Council without further assurance.
 
 shall be transferred to the service of the Council on terms not less favourable than those he would have enjoyed had he remained in the service of the National Theatre Trust or the Government, as the case may be.
 
-(2) Notwithstanding subsection (1), such persons transferred to the service of the Council from the service of the Government, as the Minister may determine, shall before the appointed day be given the option of remaining in the service of the Government.
+(2) Notwithstanding subsection (1), such persons transferred to the service of the Council from the service of the Government, as the Minister may determine, shall before 15th October 1991 be given the option of remaining in the service of the Government.
 
 ### Conditions of service
 
@@ -358,39 +332,33 @@ shall be transferred to the service of the Council on terms not less favourable 
 
 (2) The terms and conditions of service of persons transferred to the service of the Council under section 18 shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by such persons while in the employment of the Government or the National Theatre Trust, as the case may be, and any such term or condition relating to the length of service with the Council shall provide for the recognition of service under the Government or the National Theatre Trust by persons so transferred to be service by them under the Council.
 
-(3) Nothing in the terms and conditions of service to be drawn up by the Council shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Council as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
+(3) Nothing in the terms and conditions of service to be drawn up by the Council shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Council as regards any pension, gratuity or allowance payable under the Pensions Act [Cap. 225].
 
 (4) The terms and conditions of service, in the case of persons transferred to the service of the Council pursuant to section 18(1)(b), shall be agreed upon by the Government, the Council and the officer concerned.
 
-### Pension schemes, provident fund, etc
+### Pension schemes, provident fund, etc.
 
-20\.—(1) Persons transferred under section 18 from the service of the Government who are eligible for any pension, gratuity or allowance payable under the Pensions Act shall, before the appointed day, be given the option of continuing on any pension scheme established pursuant to this section.
+20\.—(1) Persons transferred under section 18 from the service of the Government who are eligible for any pension, gratuity or allowance payable under the Pensions Act shall, before 15th October 1991, be given the option of continuing on any pension scheme established pursuant to this section.
 
 (2) If any person exercises his option given under subsection (1) to continue on a pension scheme, the Council shall, with the approval of the Minister, make rules for the establishment of a scheme or schemes for the payment of pensions, gratuities, provident fund or other superannuation benefits to such employees or classes of employees of the Council as it may determine, or to their legal personal representatives or dependants, on the death or retirement of such employees from the service of the Council or on their otherwise leaving the service of the Council and the Third Schedule shall apply to any scheme or schemes so established.
 
 (3) In every case where a person employed by the Government has been transferred to the service of the Council under section 18, the Government shall be liable to pay the Council such portion of any gratuity, pension or allowance payable to such person on his retirement or otherwise leaving the service of the Council as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Council.
 
-(4) Where any person who is transferred to the service of the Council under section 18 is a contributor under the Widows’ and Orphans’ Pension Act (Cap. 350), he shall, for the purposes of that Act, continue to make contributions under that Act as if he had not been transferred to the service of the Council and, for the purposes of that Act, his service with the Council shall be deemed to be service with the Government.
+(4) Where any person who is transferred to the service of the Council under section 18 is a contributor under the Widows’ and Orphans’ Pension Act, he shall, for the purposes of that Act, continue to make contributions under that Act as if he had not been transferred to the service of the Council and, for the purposes of that Act, his service with the Council shall be deemed to be service with the Government.
 
 ### No benefits in respect of abolition or reorganisation of office
 
-21\. Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Council under section 18 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Council.
+21\. Notwithstanding the provisions of the Pensions Act [Cap. 225], no person who is transferred to the service of the Council under section 18 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Council.
 
 ### Continuation and completion of disciplinary proceedings
 
-22\.—(1) Where on the appointed day, any disciplinary proceedings are pending against any employee of the Government transferred to the service of the Council under section 18, any committee acting under due authority to hear or investigate the matter shall continue to exist, notwithstanding this Act, for the purpose of completing the hearing or investigation and the making of an order or rendering a decision, as the case may be, and the Government or committee shall complete the hearing or investigation in accordance with the authority vested in the Government or committee immediately before that day and make such order, rule or direction as the Government or committee could have made under the authority vested in it immediately before that day.
+22\.—(1) Where on 15th October 1991, any disciplinary proceedings are pending against any employee of the Government transferred to the service of the Council under section 18, any committee acting under due authority to hear or investigate the matter shall continue to exist, notwithstanding this Act, for the purpose of completing the hearing or investigation and the making of an order or rendering a decision, as the case may be, and the Government or committee shall complete the hearing or investigation in accordance with the authority vested in the Government or committee immediately before that date and make such order, rule or direction as the Government or committee could have made under the authority vested in it immediately before that date.
 
 (2) Any order, rule or direction made or given by the Government or committee pursuant to this section shall be treated as an order, rule or direction of the Council and have the same force or effect as if it had been made or given by the Council pursuant to the authority vested in the Council under this Act.
 
 ### Misconduct or neglect of duty by employee before transfer
 
-23\. The Council may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Council under section 18 for any misconduct or neglect of duty committed prior to the appointed day which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner by the Government or the National Theatre Trust, as the case may be, as if this Act had not been enacted.
-
-### Date of transfer
-
-24\. For the purposes of this Part and section 26,
-
-“appointed day” means such date as the Minister may, by notification in theGazette, determine that the transfers under this Part shall take place.
+23\. The Council may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person transferred to the service of the Council under section 18 for any misconduct or neglect of duty committed prior to 15th October 1991 which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner by the Government or the National Theatre Trust, as the case may be, as if this Act had not been enacted.
 
 ## PART VI
 
@@ -398,19 +366,15 @@ MISCELLANEOUS PROVISIONS
 
 ### Protection from personal liability
 
-25\.—(1) No suit or other legal proceedings shall lie against any member or employee of the Council or other person acting under the directions of the Council for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+24\.—(1) No suit or other legal proceedings shall lie against any member or employee of the Council or other person acting under the directions of the Council for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
 
 (2) Any expenses incurred by the Council or any member, employee or person acting under the direction of the Council shall be borne by and repaid out of the funds of the Council.
 
-### Repeal
-
-26\. Upon the appointed day, the National Theatre Trust Act (Cap. 203) is repealed.
-
 FIRST SCHEDULE
 
-Section 4(2).
+Section 4(2)
 
-Constitution and Proceedings of Council
+Constitution and proceedings of Council
 
 Appointment of Chairman, Deputy Chairman and other members
 
@@ -500,13 +464,13 @@ Validity of acts of members
 
 SECOND SCHEDULE
 
-Section 14.
+Section 14
 
-Financial Provisions
+Financial provisions
 
 Financial year
 
-1\. The financial year of the Council shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Council shall begin on the date of commencement of this Act and shall end on 31st March 1992.
+1\. The financial year of the Council shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Council shall begin on 17th August 1991 and shall end on 31st March 1992.
 
 Accounts to be kept
 
@@ -520,7 +484,7 @@ Appointment of auditor
 
 4.—(1) The accounts of the Council shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
 
 Remuneration of auditor
 
@@ -568,9 +532,9 @@ Annual report
 
 THIRD SCHEDULE
 
-Section 20(2).
+Section 20(2)
 
-Pension Schemes
+Pension schemes
 
 1\. No assurance on the life of any contributor under any pension scheme established under section 20, and no moneys or other benefits payable under any such assurance, and no payment made under any such scheme to any person who has been employed by the Council, shall be assignable or transferable, or liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim other than a debt due to the Council or to the Government.
 
@@ -578,13 +542,30 @@ Pension Schemes
 
 3\. No such donation, contribution or interest paid under a pension scheme established under section 20 shall be subject to the debts of the contributor, nor shall such donation, contribution or interest pass to the Official Assignee on the bankruptcy of the contributor, but, if the contributor is adjudicated a bankrupt or is declared insolvent by a court, such donation, contribution or interest shall, subject to the provisions of this Act, be deemed to be subject to a trust in favour of the persons entitled thereto on the death of the contributor.
 
-4\. The bankruptcy of a contributor shall not affect the making of deductions from the salary of the contributor in accordance with any pension scheme established under section 20, but the deductions shall continue to be made notwithstanding the provisions of any written laws and the portion of salary so deducted shall not be deemed to form part of his after-acquired property.
+4\. The bankruptcy of a contributor shall not affect the making of deductions from the salary of the contributor in accordance with any pension scheme established under section 20, but the deductions shall continue to be made notwithstanding the provisions of any written law, and the portion of salary so deducted shall not be deemed to form part of his after-acquired property.
 
-5\. Subject to the provisions of any pension scheme established under section 20, all moneys paid or payable under any such scheme on the death of a contributor shall be deemed to be subject to a trust in favour of the persons entitled thereto under the will or intestacy of the deceased contributor, or under a nomination in such form as may be prescribed in such scheme, and shall not be deemed to form part of his estate or be subject to the payment of his debts but shall be deemed to be property passing on his death for the purposes of the Estate Duty Act (Cap. 96).
+5\. Subject to the provisions of any pension scheme established under section 20, all moneys paid or payable under any such scheme on the death of a contributor shall be deemed to be subject to a trust in favour of the persons entitled thereto under the will or intestacy of the deceased contributor, or under a nomination in such form as may be prescribed in such scheme, and shall not be deemed to form part of his estate or be subject to the payment of his debts but shall be deemed to be property passing on his death for the purposes of the Estate Duty Act [Cap. 96].
 
 6\. Any contributor may, by a memorandum under his hand, appoint a trustee or trustees of the moneys payable on his death out of any pension scheme established under section 20 and may make provision for the appointment of a new trustee or new trustees of the moneys and for the investment thereof; the memorandum shall be in the form prescribed in such scheme and shall be deposited with the Council.
 
-7\. If at the time of the death of any contributor or at any time afterwards, there is no trustee of the moneys or it is expedient to appoint a new trustee or new trustees, then and in any such case a trustee or trustees or a new trustee or new trustees may be appointed by the Supreme Court.
+7\. If, at the time of the death of any contributor or at any time afterwards, there is no trustee of the moneys or it is expedient to appoint a new trustee or new trustees, then and in any such case a trustee or trustees or a new trustee or new trustees may be appointed by the Supreme Court.
 
 8\. The receipt of a trustee or trustees duly appointed, or in default of any such appointment and of written notice thereof to the Council, the receipt of the legal personal representative of a deceased contributor shall be a discharge to the Council for any moneys payable on his death out of any such scheme.
 
+## LEGISLATIVE HISTORY
+
+National Arts Council Act
+
+(CHAPTER 193A)
+
+This Legislative History is provided for the convenience of users of the National Arts Council Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 26 of 1991—National Arts Council Act 1991**|
+||Date of First Reading|7 May 1991|
+|||(Bill No. 17/1991 published on 8 August 1991)|
+||Date of Second and Third Readings|28 June 1991|
+||Dates of commencement|17 August 1991|
+|2.|**1992 Revised Edition—National Arts Council Act**|
+||Date of operation|9 March 1992|
