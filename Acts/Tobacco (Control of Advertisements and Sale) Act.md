@@ -1,16 +1,14 @@
-**Smoking (Control of Advertisements and Sale of Tobacco) Act 1993**
+**Smoking (Control of Advertisements and Sale of Tobacco) Act**
 
-**(No. 10 of 1993)**
+**(CHAPTER 309)**
 
 **Table of Contents**
 
 [**Long Title**](#Tobacco-Control-of-Advertisements-and-Sale-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -76,57 +74,37 @@
 
 - [30 Forms](#Forms)
 
-- [31 Jurisdiction of Magistrate’s Court and District Court](#Jurisdiction-of-Magistrate’s-Court-and-District-Court)
+- [31 Jurisdiction of courts](#Jurisdiction-of-courts)
 
 - [32 Composition of offences](#Composition-of-offences)
 
 - [33 Regulations](#Regulations)
 
-- [34 Repeal and transitional](#Repeal-and-transitional)
+- [34 Transitional](#Transitional)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Smoking (Control of Advertisements and Sale of Tobacco) Act
 
-ACTS SUPPLEMENT
+(CHAPTER 309)
 
-Published by Authority
+(Original Enactment: Act 10 of 1993)
 
-NO. 8]
+REVISED EDITION 1994
 
-Thursday, April 8
+(15th March 1994)
 
-[1993
+An Act to prohibit advertisements relating to smoking, to control the use of tobacco products by young persons, to control the sale, packaging and trade description of tobacco products and for matters connected therewith.
 
-The following Act was passed by Parliament on 26th February 1993 and assented to by the President on 31st March 1993:—
-
-Smoking (Control Of Advertisements And Sale Of Tobacco) Act 1993
-
-(No. 10 of 1993)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-31st March 1993.
-
-Date of Commencement: 31st May 1993
-
-An Act to prohibit advertisements relating to smoking, to control the use of tobacco products by young persons, to control the sale, packaging and trade description of tobacco products and for matters connected therewith and to repeal the Smoking (Prohibition on Advertisements) Act (Chapter 309 of the 1990 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[31st May 1993]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Smoking (Control of Advertisements and Sale of Tobacco) Act 1993 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
-
-(2) The Minister may appoint different dates for the coming into operation of the different provisions of this Act.
+1\. This Act may be cited as the Smoking (Control of Advertisements and Sale of Tobacco) Act.
 
 ### Interpretation
 
@@ -146,7 +124,7 @@ PRELIMINARY
 
 “advertisement relating to smoking” means any advertisement referred to in section 3(1) which has not been approved under section 3(2);
 
-“authorised officer” means any officer or person appointed under section 18;
+“authorised officer” means any officer or person, appointed under section 18;
 
 “Director” means the Director of Medical Services and includes a Deputy or an Assistant Director of Medical Services;
 
@@ -154,11 +132,11 @@ PRELIMINARY
 
 “newspaper” includes any magazine, journal, periodical or any other publication containing news, intelligence, information or reports of occurrences, or any remarks, observations or comments in relation either to such news, intelligence, information or occurrences or to any other matter of interest to the public or any section of the public, issued in any language at regular or irregular intervals;
 
-“publish”, with its grammatical variations, in relation to an advertisement, includes issuing, showing, displaying, exhibiting or making known an advertisement in any manner whatsoever;
+“publish” with its grammatical variations, in relation to an advertisement, includes issuing, showing, displaying, exhibiting or making known an advertisement in any manner whatsoever;
 
-“smoking”, with its grammatical variations, means inhaling and expelling the smoke of any tobacco product and includes the holding of any tobacco product which is alight or emitting smoke;
+“smoking” with its grammatical variations, means inhaling and expelling the smoke of any tobacco product and includes the holding of any tobacco product which is alight or emitting smoke;
 
-“tobacco product” means any cigarette, cigar or any other form of tobacco including any mixture containing tobacco but excludes any medicinal product registered under the Medicines Act (Cap. 176);
+“tobacco product” means any cigarette, cigar or any other form of tobacco including any mixture containing tobacco but excludes any medicinal product registered under the Medicines Act [Cap. 176];
 
 “writing” includes painting, inscription, printing, lithography, typewriting, photography and other modes of representing or reproducing words or figures in visible form.
 
@@ -242,7 +220,7 @@ CONTROL OF SALE OF TOBACCO PRODUCTS
 
 (3) No person shall offer or give any tobacco product as a prize in any lottery, raffle, draw, game or competition.
 
-(4) Any person who contravenes or fails to comply with subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the ease of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding one year or to both.
+(4) Any person who contravenes or fails to comply with subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding one year or to both.
 
 ### Prohibition on supply to persons below age of 18 years
 
@@ -276,9 +254,9 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 (3) For the purposes of this section —
 
-“public place” means the premises of a school within the meaning of the Education Act (Cap. 87) or any place, premises or building or part thereof to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise;
+“public place” means the premises of a school within the meaning of the Education Act [Cap. 87] or any place, premises or building or part thereof to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise;
 
-“road” has the same meaning as in the Road Traffic Act (Cap. 276).
+“road” has the same meaning as in the Road Traffic Act [Cap. 276].
 
 ### Notice of prohibition
 
@@ -312,7 +290,7 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 (b) a yield of more than 15.0 mg (or such other minimum amount as the Minister may by order prescribe) of tar (nicotine free smoke condensate) per cigarette.
 
-(3) Subsections (1) and (2) shall not apply to the importation of any tobacco product which is intended for re-export.
+(3) Subsections (1) and (2)shall not apply to the importation of any tobacco product which is intended for re-export.
 
 (4) For the purposes of subsection (2), “cigarette” means any product which consists in whole or in part of cut, shredded or manufactured tobacco, or any tobacco derivative or substitute, rolled up in paper, tobacco leaf or other material and which is in such form as to be capable of immediate use for smoking.
 
@@ -344,7 +322,7 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 (d) requiring such information or security as he considers necessary in relation to the application for the grant or renewal of a licence;
 
-(e) prescribing the books, records or accounts to be kept by licensees;
+(e) prescribing the books, records or accounts to be kept by licensees; and
 
 (f) to provide for the exemption of any person or class of persons from the provisions of any regulations made under this section.
 
@@ -368,7 +346,7 @@ ENFORCEMENT AND MISCELLANEOUS
 
 ### Immunity from suit
 
-20\. No action, suit or other proceedings shall be brought or instituted in any court against any party to a contract for failing, neglecting or refusing to publish any advertisement relating to smoking, the subject-matter of such contract, where such failure, neglect or refusal is solely attributable to, or occasioned by, the commencement of this Act or any Act amending this Act, but nothing in this section shall affect the operation of the Frustrated Contracts Act (Cap. 115).
+20\. No action, suit or other proceedings shall be brought or instituted in any court against any party to a contract for failing, neglecting or refusing to publish any advertisement relating to smoking, the subject-matter of such contract, where such failure, neglect or refusal is solely attributable to, or occasioned by, the commencement of this Act or any Act amending this Act, but nothing in this section shall affect the operation of the Frustrated Contracts Act [Cap. 115].
 
 ### Exemption
 
@@ -416,7 +394,7 @@ ENFORCEMENT AND MISCELLANEOUS
 
 (2) The Director or an authorised officer may, if he has reasonable cause to believe that an offence under section 3(1) has been committed in respect of an advertisement relating to smoking, require the person reasonably suspected of committing the offence to remove the advertisement from the view of members of the public and if the person fails to do so, the Director or authorised officer may cause the advertisement to be so removed and the person shall be liable to pay to the Director the reasonable costs of removal and disposal of the advertisement which may be recovered as a debt due to the Government.
 
-(3) The Director or an authorised officer shall, on seizing any advertisement, tobacco or imitation tobacco product, machine or document in the exercise of his powers under this section, inform the person from whom they are seized and, in the case of tobacco products seized from a vending machine, the person whose name and address are stated on the machine as being the proprietor or, if no name and address are so stated, the occupier of the premises on which the machine stands or to which it is affixed.
+(3) The Director or an authorised officer shall, on seizing any advertisement, tobacco or imitation tobacco product, machine or document in the exercise of his powers under this section, inform the person from whom it was seized of such seizure and, in the case of tobacco products seized from a vending machine, the person whose name and address are stated on the machine as being the proprietor or, if no name and address are so stated, the occupier of the premises on which the machine stands or to which it is affixed.
 
 (4) The Director or an authorised officer entering any premises by virtue of this section may take with him such other persons and such equipment as may appear to him necessary.
 
@@ -470,9 +448,9 @@ and shall, where as a result of the test proceedings for an offence under this A
 
 30\. The Director may design and utilise such forms as he may think fit for any of the purposes of this Act or any regulations made thereunder, and may require any person to complete any of the forms for any such purpose.
 
-### Jurisdiction of Magistrate’s Court and District Court
+### Jurisdiction of courts
 
-31\. Any offence under this Act may be tried by a Magistrate’s Court or a District Court and that Court shall, notwithstanding any other written law, have jurisdiction to impose the maximum penalty provided for by this Act.
+31\. Any offence under this Act may be tried by a District Court or a Magistrate’s Court and that Court shall, notwithstanding any other written law, have jurisdiction to impose the maximum penalty provided for by this Act.
 
 ### Composition of offences
 
@@ -486,11 +464,26 @@ and shall, where as a result of the test proceedings for an offence under this A
 
 (2) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Repeal and transitional
+### Transitional
 
-34\.—(1) The Smoking (Prohibition on Advertisements) Act is repealed (referred to in this section as the repealed Act) (Cap. 309).
+34\.—(1) Any authorisation or exemption relating to any matter dealt with under this Act which was made, granted or approved under the repealed Smoking (Prohibition on Advertisements) Act shall, except where otherwise expressly provided in this Act, continue and be deemed to have been made, granted or approved under this Act.
 
-(2) Any authorisation or exemption relating to any matter dealt with under this Act which was made, granted or approved under the repealed Act shall, except where otherwise expressly provided in this Act, continue and be deemed to have been made, granted or approved under this Act.
+(2) Any form used for the purposes of the repealed Smoking (Prohibition on Advertisements) Act which was in force or in effect immediately before 31st May 1993 shall continue in force and have effect as though designed under this Act until new forms are so designed or determined.
 
-(3) Any form used for the purposes of the repealed Act which was in force or in effect immediately before the commencement of this Act shall continue in force and have effect as though designed under this Act until new forms are so designed or determined.
+## LEGISLATIVE HISTORY
 
+Smoking (Control of Advertisements and Sale of Tobacco) Act
+
+(CHAPTER 309)
+
+This Legislative History is provided for the convenience of users of the Smoking (Control of Advertisements and Sale of Tobacco) Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 10 of 1993—Smoking (Control of Advertisements and Sale of Tobacco) Act 1993**|
+||Date of First Reading|18 January 1993|
+|||(Bill No. 3/93 published on 19 January 1993)|
+||Date of Second and Third Readings|26 February 1993|
+||Date of commencement|31 May 1993|
+|2.|**1994 Revised Edition—Smoking (Control of Advertisements and Sale of Tobacco) Act**|
+||Date of operation|15 March 1994|
