@@ -12,7 +12,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Meaning of infringing goods, material or articles](#Meaning-of-infringing-goods-material-or-articles)
+- [3 Meaning of infringing goods, material or articles and counterfeit goods or trade mark](#Meaning-of-infringing-goods-material-or-articles-and-counterfeit-goods-or-trade-mark)
 
 [**Part II REGISTRATION OF TRADE MARKS**](#Part-II)
 
@@ -144,7 +144,9 @@
 
 - [52 Representation on trade marks of Arms or Flags prohibited, etc.](#Representation-on-trade-marks-of-Arms-or-Flags-prohibited-etc)
 
-- [53 Forfeiture of articles, etc., on conviction](#Forfeiture-of-articles-etc-on-conviction)
+- [53 Forfeiture and destruction of goods, etc., on conviction](#Forfeiture-and-destruction-of-goods-etc-on-conviction)
+
+- [53A Enforcement measures](#Enforcement-measures)
 
 [**Part VII INTERNATIONAL MATTERS**](#Part-VII)
 
@@ -152,9 +154,11 @@
 
 - [54 Power to make provision giving effect to Madrid Protocol, etc.](#Power-to-make-provision-giving-effect-to-Madrid-Protocol-etc)
 
-[**The Paris Convention and the TRIPS Agreement: supplementary provisions**](#The-Paris-Convention-and-the-TRIPS-Agreement:-supplementary-provisions)
+[**The Paris Convention, the TRIPS Agreement and well known trade marks: supplementary provisions**](#The-Paris-Convention-the-TRIPS-Agreement-and-well-known-trade-marks:-supplementary-provisions)
 
-- [55 Protection of well-known trade marks: Article 6bis of Paris Convention, etc.](#Protection-of-well-known-trade-marks:-Article-6bis-of-Paris-Convention-etc)
+- [55 Protection of well known trade marks](#Protection-of-well-known-trade-marks)
+
+- [55A Permitted use of well known trade marks](#Permitted-use-of-well-known-trade-marks)
 
 - [56 National emblems, etc., of Convention countries: Article 6ter of Paris Convention, etc.](#National-emblems-etc-of-Convention-countries:-Article-6ter-of-Paris-Convention-etc)
 
@@ -208,7 +212,7 @@
 
 [**Forms, fees, hours of business and publication**](#Forms-fees-hours-of-business-and-publication)
 
-- [76 Forms](#Forms)
+- [76 Forms and directions of Registrar](#Forms-and-directions-of-Registrar)
 
 - [77 Fees](#Fees)
 
@@ -220,7 +224,7 @@
 
 - [80 Recognition of agents](#Recognition-of-agents)
 
-[**Part X IMPORTATION OF INFRINGING GOODS**](#Part-X)
+[**Part X ASSISTANCE BY BORDER AUTHORITIES**](#Part-X)
 
 [**Border enforcement measures**](#Border-enforcement-measures)
 
@@ -250,6 +254,8 @@
 
 - [93 Insufficient security](#Insufficient-security)
 
+- [93A Detention and examination of counterfeit goods](#Detention-and-examination-of-counterfeit-goods)
+
 [**Powers of search**](#Powers-of-search)
 
 - [94 Powers of search in relation to vessels, aircraft and vehicles](#Powers-of-search-in-relation-to-vessels-aircraft-and-vehicles)
@@ -268,7 +274,7 @@
 
 [**Part XI MISCELLANEOUS AND GENERAL PROVISIONS**](#Part-XI)
 
-- [101 Registration to be prima facie evidence of validity](#Registration-to-be-prima-facie-evidence-of-validity)
+- [101 Registration to be prima facie evidence](#Registration-to-be-prima-facie-evidence)
 
 - [102 Certificate of validity of contested registration](#Certificate-of-validity-of-contested-registration)
 
@@ -328,6 +334,10 @@ PRELIMINARY
 
 “business” includes a trade or profession;
 
+“business identifier” means any sign capable of being represented graphically which is used to identify any business;
+
+[20/2004 wef 01/07/2004]
+
 “certification mark” has the meaning assigned to it in section 61;
 
 “collective mark” has the meaning assigned to it in section 60;
@@ -336,11 +346,19 @@ PRELIMINARY
 
 “Court” means the High Court;
 
+“dilution”, in relation to a trade mark, means the lessening of the capacity of the trade mark to identify and distinguish goods or services, regardless of whether there is —
+
+(a) any competition between the proprietor of the trade mark and any other party; or
+
+(b) any likelihood of confusion on the part of the public;
+
+[20/2004 wef 01/07/2004]
+
 “earlier trade mark” means —
 
 (a) a registered trade mark or an international trade mark (Singapore), the application for registration of which was made earlier than the trade mark in question, taking account (where appropriate) of the priorities claimed in respect of the trade marks; or
 
-(b) a trade mark which, at the date of application for registration of the trade mark in question or (where appropriate) of the priority claimed in respect of the application, was entitled to protection under the Paris Convention or the TRIPS Agreement as a well known trade mark,
+(b) a trade mark which, at the date of application for registration of the trade mark in question or (where appropriate) of the priority claimed in respect of the application, was a well known trade mark,
 
 and includes a trade mark in respect of which an application for registration has been made and which, if registered, would be an earlier trade mark by virtue of paragraph (a) subject to its being so registered;
 
@@ -354,7 +372,13 @@ and includes a trade mark in respect of which an application for registration ha
 
 “Paris Convention” means the Convention for the Protection of Industrial Property signed at Paris on 20th March 1883, as revised or amended from time to time;
 
-“proprietor”, in relation to a registered trade mark, means the person in whose name the trade mark is registered;
+“proprietor” means —
+
+(a) in relation to a registered trade mark, the person in whose name the trade mark is registered; or
+
+(b) in relation to an unregistered trade mark that is a well known trade mark, the person to whom the trade mark belongs;
+
+[20/2004 wef 01/07/2004]
 
 “register” means the register of trade marks maintained by the Registrar under section 66;
 
@@ -368,9 +392,23 @@ and includes a trade mark in respect of which an application for registration ha
 
 “trade” includes any business or profession;
 
-“trade mark” means any visually perceptible sign capable of being represented graphically and which is capable of distinguishing goods or services dealt with or provided in the course of trade by a person from goods or services so dealt with or provided by any other person;
+“trade mark” means any sign capable of being represented graphically and which is capable of distinguishing goods or services dealt with or provided in the course of trade by a person from goods or services so dealt with or provided by any other person;
 
 “TRIPS Agreement” means the Agreement on Trade-Related Aspects of Intellectual Property Rights, set out in Annex 1C to the WTO Agreement, as revised or amended from time to time;
+
+“well known trade mark” means —
+
+(a) any registered trade mark that is well known in Singapore; or
+
+(b) any unregistered trade mark that is well known in Singapore and that belongs to a person who —
+
+(i) is a national of a Convention country; or
+
+(ii) is domiciled in, or has a real and effective industrial or commercial establishment in, a Convention country,
+
+whether or not that person carries on business, or has any goodwill, in Singapore;
+
+[20/2004 wef 01/07/2004]
 
 “WTO Agreement” means the World Trade Organisation Agreement signed in Marrakesh in 1994 as revised or amended from time to time.
 
@@ -384,11 +422,47 @@ and includes a trade mark in respect of which an application for registration ha
 
 (6) In this Act, a sign is taken to be applied to goods, material or any other thing if it is woven in, impressed on, worked into, or affixed or annexed to, the goods, material or thing.
 
-(7) In deciding, for the purposes of this Act, whether a trade mark is well known in Singapore, one shall take into account the extent to which the trade mark is known within the relevant sector of the public, whether as a result of the promotion of the trade mark or any other reason.
+(7) Subject to subsection (8), in deciding, for the purposes of this Act, whether a trade mark is well known in Singapore, it shall be relevant to take into account any matter from which it may be inferred that the trade mark is well known, including such of the following matters as may be relevant:
 
-### Meaning of infringing goods, material or articles
+(a) the degree to which the trade mark is known to or recognised by any relevant sector of the public in Singapore;
 
-3\.—(1) For the purposes of this Act, “infringing goods”, “infringing material” and “infringing articles” shall be construed in accordance with subsections (2), (3) and (4), respectively.
+(b) the duration, extent and geographical area of —
+
+(i) any use of the trade mark; or
+
+(ii) any promotion of the trade mark, including any advertising of, any publicity given to, or any presentation at any fair or exhibition of, the goods or services to which the trade mark is applied;
+
+(c) any registration or application for the registration of the trade mark in any country or territory in which the trade mark is used or recognised, and the duration of such registration or application;
+
+(d) any successful enforcement of any right in the trade mark in any country or territory, and the extent to which the trade mark was recognised as well known by the competent authorities of that country or territory;
+
+(e) any value associated with the trade mark.
+
+[20/2004 wef 01/07/2004]
+
+(8) Where it is determined that a trade mark is well known to any relevant sector of the public in Singapore, the trade mark shall be deemed to be well known in Singapore.
+
+[20/2004 wef 01/07/2004]
+
+(9) In subsections (7) and (8), “relevant sector of the public in Singapore” includes any of the following:
+
+(a) all actual consumers and potential consumers in Singapore of the goods or services to which the trade mark is applied;
+
+(b) all persons in Singapore involved in the distribution of the goods or services to which the trade mark is applied;
+
+(c) all businesses and companies in Singapore dealing in the goods or services to which the trade mark is applied.
+
+[20/2004 wef 01/07/2004]
+
+### Meaning of infringing goods, material or articles and counterfeit goods or trade mark
+
+3\.—(1) For the purposes of this Act —
+
+(a) “infringing goods”, “infringing material” and “infringing articles” shall be construed in accordance with subsections (2), (3) and (4), respectively; and
+
+(b) “counterfeit goods” and “counterfeit trade mark” shall be construed in accordance with subsections (5) and (6), respectively.
+
+[20/2004 wef 01/07/2004]
 
 (2) Goods are “infringing goods”, in relation to a registered trade mark, if they or their packaging bear a sign identical with or similar to that mark and —
 
@@ -406,9 +480,29 @@ and includes a trade mark in respect of which an application for registration ha
 
 (4) “Infringing articles”, in relation to a registered trade mark, means articles —
 
-(a) which are predominantly used for making copies of a sign identical with or similar to that mark; and
+(a) which are used for making copies of a sign identical with or similar to that mark; and
 
 (b) which a person has in his possession, custody or control, knowing or having reason to believe that they have been or are to be used to produce infringing goods or material.
+
+(5) Goods are “counterfeit goods”, in relation to a registered trade mark, if —
+
+(a) they are infringing goods in relation to that mark; and
+
+(b) the sign borne by them or their packaging is a counterfeit trade mark.
+
+[20/2004 wef 01/07/2004]
+
+(6) A sign is a “counterfeit trade mark”, in relation to a registered trade mark, if the sign —
+
+(a) is identical with or so nearly resembling the registered trade mark as to be calculated to deceive; and
+
+(b) is applied to goods or services —
+
+(i) without the express or implied consent (conditional or otherwise) of the proprietor of the registered trade mark; and
+
+(ii) to falsely represent the goods or services to be the genuine goods or actual services of the proprietor or a licensee of the registered trade mark.
+
+[20/2004 wef 01/07/2004]
 
 ## PART II
 
@@ -428,9 +522,37 @@ Application for registration of trade mark
 
 5\.—(1) An application for registration of a trade mark shall be made in the prescribed manner to the Registrar.
 
-(2) The application shall state that the trade mark is being used in the course of trade, by the applicant or with his consent, in relation to those goods or services, or that he has a bona fide intention that it should be so used.
+(2) The application shall —
+
+(a) contain a request for the registration of a trade mark;
+
+(b) state the name and address of the applicant;
+
+(c) contain a clear representation of the trade mark;
+
+(d) list the goods or services in relation to which the applicant seeks to register the trade mark; and
+
+(e) state —
+
+(i) that the trade mark is being used in the course of trade, by the applicant or with his consent, in relation to those goods or services; or
+
+(ii) that the applicant has a bona fide intention that the trade mark should be so used.
+
+[20/2004 wef 01/07/2004]
 
 (3) The application shall be subject to the payment of the application fee and such other fees as may be appropriate.
+
+(4) The date of the application for registration of the trade mark shall be the earliest date on which —
+
+(a) all the requirements under subsection (2) have been satisfied; and
+
+(b) all the fees payable under subsection (3) —
+
+(i) have been paid; or
+
+(ii) are treated by the Registrar as paid.
+
+[20/2004 wef 01/07/2004]
 
 ### Classification of goods and services
 
@@ -508,13 +630,13 @@ in its country of origin.
 
 there exists a likelihood of confusion on the part of the public.
 
-(3) A trade mark which —
+(3) Where an application for registration of a trade mark is made before 1st July 2004, if the trade mark —
 
 (a) is identical with or similar to an earlier trade mark; and
 
 (b) is to be registered for goods or services which are not similar to those for which the earlier trade mark is protected,
 
-shall not be registered if —
+the later trade mark shall not be registered if —
 
 (i) the earlier trade mark is well known in Singapore;
 
@@ -523,6 +645,30 @@ shall not be registered if —
 (iii) there exists a likelihood of confusion on the part of the public because of such use; and
 
 (iv) the interests of the proprietor of the earlier trade mark are likely to be damaged by such use.
+
+[20/2004 wef 01/07/2004]
+
+(3A) Subject to subsection (3B), where an application for registration of a trade mark is made on or after 1st July 2004, if the whole or an essential part of the trade mark is identical with or similar to an earlier trade mark, the later trade mark shall not be registered if —
+
+(a) the earlier trade mark is well known in Singapore; and
+
+(b) use of the later trade mark in relation to the goods or services for which the later trade mark is sought to be registered —
+
+(i) would indicate a connection between those goods or services and the proprietor of the earlier trade mark, and is likely to damage the interests of the proprietor of the earlier trade mark; or
+
+(ii) if the earlier trade mark is well known to the public at large in Singapore —
+
+(A) would cause dilution in an unfair manner of the distinctive character of the earlier trade mark; or
+
+(B) would take unfair advantage of the distinctive character of the earlier trade mark.
+
+(3B) A trade mark shall not be refused registration by virtue of subsection (3A) if the application for the registration of the trade mark was filed before the earlier trade mark became well known in Singapore, unless it is shown that the application was made in bad faith.
+
+[20/2004 wef 01/07/2004]
+
+(3C) In deciding whether any such application was made in bad faith, it shall be relevant to consider whether the applicant had, at the time the application was made, knowledge of, or reason to know of, the earlier trade mark.
+
+[20/2004 wef 01/07/2004]
 
 (4) A trade mark shall not be registered if, or to the extent that, its use in Singapore is liable to be prevented —
 
@@ -533,6 +679,10 @@ shall not be registered if —
 (5) A person entitled under subsection (4) to prevent the use of a trade mark is referred to in this Act as the proprietor of an earlier right in relation to the trade mark.
 
 (6) The Registrar may, in his discretion, register a trade mark where the proprietor of the earlier trade mark or other earlier right consents to the registration.
+
+(6A) The Registrar may, in his discretion, register any trade mark referred to in subsection (3), (3A) or (4) where the proprietor of the earlier trade mark or other earlier right fails to give notice to the Registrar of opposition to the registration in accordance with section 13.
+
+[20/2004 wef 01/07/2004]
 
 (7) A trade mark which is an earlier trade mark by virtue of paragraph (a) of the definition of "earlier trade mark" in section 2(1) and whose registration expires shall continue to be taken into account in determining the registrability of a later mark for a period of one year after the expiry unless the Registrar is satisfied that there was no bona fide use of the mark during the 2 years immediately preceding the expiry.
 
@@ -556,29 +706,49 @@ Priority
 
 ### Claim to priority of Convention application
 
-10\.—(1) If —
+10\.—(1) Subject to subsection (6), where —
 
-(a) a person has filed an application for the registration of a trade mark in a Convention country (referred to in this section as a Convention application); and
+(a) a person has filed an application for the registration of a trade mark in a Convention country in respect of certain goods or services;
 
-(b) within 6 months after the date on which the Convention application is made, he or his successor in title applies under this Act for the registration of the trade mark in respect of some or all of the goods or services in respect of which registration was sought in that Convention country,
+(b) that application is the first application for the registration of the trade mark to be filed in any Convention country in respect of those goods or services (referred to in this section as the first Convention application); and
 
-he or his successor in title may, when filing the application under this Act, claim a right of priority for the registration of the trade mark in respect of all or any of those goods or services.
+(c) within 6 months after the date on which the first Convention application is filed, that person or his successor in title applies under this Act for the registration of the trade mark in respect of all or any of those goods or services,
 
-(2) The priority claimed is for the registration of the trade mark in respect of the goods or services from (and including) the date on which the application was filed in that Convention country.
+that person or his successor in title may, when filing the application under this Act, claim a right of priority for the registration of the trade mark in respect of all or any of the goods or services for which registration was sought in the first Convention application.
 
-(3) The registrability of a trade mark shall not be affected by any use of the trade mark in Singapore in the period between the date of filing of the Convention application and the date of application under this Act.
+[20/2004 wef 01/07/2004]
+
+(2) Where any person claims the right of priority referred to in subsection (1), the person shall have priority from (and including) the date on which the first Convention application was filed.
+
+[20/2004 wef 01/07/2004]
+
+(3) Where the right of priority referred to in subsection (1) is claimed in respect of a trade mark, the registrability of the trade mark shall not be affected by any use of the trade mark in Singapore in the period between —
+
+(a) the date the first Convention application was filed; and
+
+(b) the date the application under this Act was filed.
+
+[20/2004 wef 01/07/2004]
 
 (4) Any filing which in a Convention country is equivalent to a regular national filing, under its domestic legislation or an international agreement, shall be treated as giving rise to the right of priority.
 
 (5) For the purposes of subsection (4), “regular national filing” means a filing which is adequate to establish the date on which the application was filed in the Convention country, whatever may be the subsequent fate of the application.
 
-(6) Where a subsequent application concerning the same subject as an earlier Convention application was filed in the same Convention country, and —
+(6) Where a subsequent application concerning the same subject as an earlier application is filed, whether in the same or a different Convention country, and these are the first 2 applications concerning that subject to be filed in any Convention country, the subsequent application shall be considered the first Convention application if, at the date the subsequent application is filed —
 
 (a) the earlier application has been withdrawn, abandoned or refused, without having been laid open to public inspection and without leaving any rights outstanding; and
 
-(b) the earlier application has not yet served as a basis for claiming a right of priority,
+(b) the earlier application has not yet served as a basis for claiming a right of priority.
 
-the date the subsequent application was filed, rather than that of the earlier application, shall be considered the starting date of the period of priority under subsection (2), and the earlier application may not thereafter serve as a basis for claiming priority.
+[20/2004 wef 01/07/2004]
+
+(6A) For the avoidance of doubt, where subsection (6) applies —
+
+(a) the date on which the subsequent application was filed, rather than that of the earlier application, shall be considered the starting date of the period of priority under subsection (2); and
+
+(b) the earlier application may not thereafter serve as a basis for claiming a right of priority.
+
+[20/2004 wef 01/07/2004]
 
 (7) The Minister may make rules as to the manner of claiming priority under this section.
 
@@ -642,27 +812,7 @@ and then only where the correction does not substantially affect the identity of
 
 the Registrar shall register the trade mark.
 
-(2) Subject to subsections (3) and (4), atrade mark when registered shall be registered as of the date of the application for registration, and that date shall be deemed for the purposes of this Act to be the date of registration.
-
-(3) If —
-
-(a) the application was in respect of a trade mark whose registration had also been sought in a Convention country;
-
-(b) the applicant has a right to priority by virtue of section 10 for the registration of the trade mark in respect of particular goods or services; and
-
-(c) the trade mark is registered under this Act,
-
-the registration of the trade mark in respect of those goods or services is taken to have had effect from (and including) the date on which the application was filed in that country.
-
-(4) If —
-
-(a) the application was in respect of a trade mark whose registration had also been sought in a country or territory in relation to which an order under section 11 was made;
-
-(b) the applicant has a right to priority by virtue of that order for the registration of the trade mark in respect of particular goods or services; and
-
-(c) the trade mark is registered under this Act,
-
-the registration of the trade mark in respect of those goods or services is taken to have had effect from (and including) the date on which the application was filed in that country or territory.
+(2) A trade mark when registered shall be registered as of the date of the application for registration, and that date shall be deemed for the purposes of this Act to be the date of registration.
 
 (5) On the registration of a trade mark, the Registrar shall issue to the applicant a certificate of registration.
 
@@ -702,11 +852,21 @@ Duration, renewal and alteration of registered trade mark
 
 ### Renewal of registration
 
-19\.—(1) The registration of a trade mark may be renewed at the request of the proprietor, subject to payment of the prescribed renewal fee.
+19\.—(1) The registration of a trade mark may be renewed at the request of the proprietor, subject to payment of the fee referred to in subsection (3A) or the fees referred to in subsection (3B), as the case may be.
 
 (2) The Minister may make rules for the Registrar to inform the proprietor of a registered trade mark, before the expiry of the registration, of the date of expiry and the manner in which the registration may be renewed.
 
-(3) A request for renewal shall be made, and the renewal fee paid, on or before the date of expiry of the registration.
+(3) A request for renewal shall be made not later than 6 months after the date of expiry of the registration.
+
+[20/2004 wef 01/07/2004]
+
+(3A) Where the request for renewal is made on or before the date of expiry of the registration, the fee payable shall be the prescribed renewal fee.
+
+[20/2004 wef 01/07/2004]
+
+(3B) Where the request for renewal is made within the period of 6 months after the date of expiry of the registration, the fees payable shall be the prescribed renewal fee and the prescribed late renewal fee.
+
+[20/2004 wef 01/07/2004]
 
 (4) Renewal shall take effect from the expiry of the previous registration.
 
@@ -776,7 +936,15 @@ Cancellation, revocation and invalidity
 
 (3) The registration of a trade mark may be declared invalid on the ground —
 
-(a) that there is an earlier trade mark in relation to which the conditions set out in section 8(1), (2) or (3) apply; or
+(a) that there is an earlier trade mark in relation to which —
+
+(i) the conditions set out in section 8(1) or (2) apply;
+
+(ii) where the trade mark has been registered pursuant to an application for registration of the trade mark made before 1st July 2004, the conditions set out in section 8(3) apply; or
+
+(iii) where the trade mark has been registered pursuant to an application for registration of the trade mark made on or after 1st July 2004, the conditions set out in section 8(3A) apply; or
+
+[20/2004 wef 01/07/2004]
 
 (b) that there is an earlier right in relation to which the condition set out in section 8(4) is satisfied,
 
@@ -790,13 +958,31 @@ unless the proprietor of that earlier trade mark or other earlier right has cons
 
 (b) if in any other case the application is made to the Registrar, he may at any stage of the proceedings refer the application to the Court.
 
-(6) An application for a declaration of invalidity of the registration of a trade mark on the basis that it was in breach of section 7(7) shall not be made after the expiry of 5 years from —
+(6) An application for a declaration of invalidity of the registration of a trade mark on the ground that it was in breach of section 7(7) shall not be made after the expiry of 5 years from —
 
-(a) the date of registration of the trade mark; or
+(a) the date of completion of the registration procedure; or
 
 (b) the date on which use of the trade mark by the person who applied for its registration or his predecessor in title has become generally known in Singapore,
 
-whichever is the earlier, unless the applicant shows to the satisfaction of the Registrar that the registration of the trade mark was applied for in bad faith.
+whichever is the earlier, unless the applicant shows that the registration of the trade mark was applied for in bad faith.
+
+[20/2004 wef 01/07/2004]
+
+(6A) An application for a declaration of invalidity of the registration of a trade mark on the ground that there is an earlier trade mark in relation to which the conditions set out in section 8(3) or (3A) apply —
+
+(a) shall not be made after the expiry of 5 years from 1st July 2004 or the date of completion of the registration procedure, whichever is the later, unless the applicant for the declaration shows that —
+
+(i) the registration of the later trade mark was applied for in bad faith; or
+
+(ii) the later trade mark was never used; and
+
+(b) shall not be granted if the registration of the later trade mark was applied for before the earlier trade mark became well known in Singapore, unless the applicant for the declaration shows that the registration of the later trade mark was applied for in bad faith.
+
+[20/2004 wef 01/07/2004]
+
+(6B) In deciding whether the registration of the later trade mark was applied for in bad faith, it shall be relevant to consider whether the applicant for the registration of the later trade mark had, at the time his application was made, knowledge of, or reason to know of, the earlier trade mark.
+
+[20/2004 wef 01/07/2004]
 
 (7) Where the ground of invalidity exists in respect of only some of the goods or services for which the trade mark is registered, the trade mark shall be declared invalid as regards those goods or services only.
 
@@ -813,6 +999,10 @@ whichever is the earlier, unless the applicant shows to the satisfaction of the 
 unless the registration of the later trade mark was applied for in bad faith.
 
 (2) Where subsection (1) applies, the proprietor of the later trade mark is not entitled to oppose the use of the earlier trade mark or, as the case may be, the exploitation of the earlier right, notwithstanding that the earlier trade mark or right may no longer be invoked against his later trade mark.
+
+(3) For the purposes of subsection (1), in deciding whether the registration of the later trade mark was applied for in bad faith, it shall be relevant to consider whether the applicant for the registration of the later trade mark had, at the time his application was made, knowledge of, or reason to know of, the earlier trade mark or other right.
+
+[20/2004 wef 01/07/2004]
 
 Miscellaneous
 
@@ -874,7 +1064,7 @@ there exists a likelihood of confusion on the part of the public.
 
 (d) the interests of the proprietor are likely to be damaged by such use.
 
-(4) For the purposes of this section, sections 28 and 29 , a person uses a sign if, in particular, he —
+(4) For the purposes of this section and sections 28, 29 and 31, a person uses a sign if, in particular, he —
 
 (a) applies it to goods or the packaging thereof;
 
@@ -882,7 +1072,7 @@ there exists a likelihood of confusion on the part of the public.
 
 (c) imports or exports goods under the sign;
 
-(d) uses the sign on an invoice, wine list, catalogue, business letter, business paper, price list or other commercial document; or
+(d) uses the sign on an invoice, wine list, catalogue, business letter, business paper, price list or other commercial document, including any such document in any medium; or
 
 (e) uses the sign in advertising.
 
@@ -893,8 +1083,6 @@ there exists a likelihood of confusion on the part of the public.
 (b) uses it on any document described in subsection (4)(d) or in advertising,
 
 is deemed not to use the sign if, at the time of such application or use, he does not know nor has reason to believe that the proprietor or a licensee of the registered trade mark did not consent to such application or use of the sign.
-
-(6) Nothing in subsections (1) to (5) shall be construed as preventing the use of a registered trade mark by any person for the purpose of identifying goods or services as those of the proprietor or a licensee, but any such use otherwise than in accordance with honest practices in industrial or commercial matters shall be treated as infringing the registered trade mark if the use without due cause takes unfair advantage of, or is detrimental to, the distinctive character or repute of the trade mark.
 
 ### Acts not amounting to infringement
 
@@ -926,11 +1114,27 @@ whichever is the earlier.
 
 (3) Notwithstanding section 27, a registered trade mark is not infringed by the use of another registered trade mark in relation to goods or services for which the latter is registered.
 
+(4) Notwithstanding section 27, a person who uses a registered trade mark does not infringe the trade mark if such use —
+
+(a) constitutes fair use in comparative commercial advertising or promotion;
+
+(b) is for a non-commercial purpose; or
+
+(c) is for the purpose of news reporting or news commentary.
+
+[20/2004 wef 01/07/2004]
+
 ### Exhaustion of rights conferred by registered trade mark
 
 29\.—(1) Notwithstanding section 27, a registered trade mark is not infringed by the use of the trade mark in relation to goods which have been put on the market, whether in Singapore or outside Singapore, under that trade mark by the proprietor of the registered trade mark or with his express or implied consent (conditional or otherwise).
 
-(2) Subsection (1) does not apply where the condition of the goods has been changed or impaired after they have been put on the market, and the use of the registered trade mark in relation to those goods is detrimental to the distinctive character or repute of the registered trade mark.
+(2) Subsection (1) shall not apply where —
+
+(a) the condition of the goods has been changed or impaired after they have been put on the market; and
+
+(b) the use of the registered trade mark in relation to those goods has caused dilution in an unfair manner of the distinctive character of the registered trade mark.
+
+[20/2004 wef 01/07/2004]
 
 ### Registration subject to disclaimer or limitation
 
@@ -950,21 +1154,71 @@ Infringement proceedings
 
 31\.—(1) An infringement of a registered trade mark is actionable by the proprietor of the trade mark.
 
-(2) Subject to the provisions of this Act, the relief the Court may grant in an action for an infringement includes —
+(2) Subject to the provisions of this Act, in an action for an infringement, the types of relief that the Court may grant include the following:
 
-(a) an injunction (subject to such terms, if any, as the Court thinks fit); and
+(a) an injunction (subject to such terms, if any, as the Court thinks fit);
 
-(b) either damages or an account of profits.
+(b) damages;
+
+(c) an account of profits;
+
+(d) in any case to which subsection (5) applies, statutory damages under subsection (5)(c).
+
+[20/2004 wef 01/07/2004]
+
+(3) When the Court awards any damages under subsection (2)(b), the Court may also make an order under subsection (2)(c) for an account of any profits attributable to the infringement that have not been taken into account in computing the damages.
+
+[20/2004 wef 01/07/2004]
+
+(4) Except as provided for in subsection (3), the types of relief referred to in paragraphs (b), (c) and (d) of subsection (2) are mutually exclusive.
+
+[20/2004 wef 01/07/2004]
+
+(5) In any action for infringement of a registered trade mark where the infringement involves the use of a counterfeit trade mark in relation to goods or services, the plaintiff shall be entitled, at his election, to —
+
+(a) damages and an account of any profits attributable to the infringement that have not been taken into account in computing the damages;
+
+(b) an account of profits; or
+
+(c) statutory damages —
+
+(i) not exceeding $100,000 for each type of goods or service in relation to which the counterfeit trade mark has been used; and
+
+(ii) not exceeding in the aggregate $1 million, unless the plaintiff proves that his actual loss from such infringement exceeds $1 million.
+
+[20/2004 wef 01/07/2004]
+
+(6) In awarding statutory damages under subsection (5)(c), the Court shall have regard to —
+
+(a) the flagrancy of the infringement of the registered trade mark;
+
+(b) any loss that the plaintiff has suffered or is likely to suffer by reason of the infringement;
+
+(c) any benefit shown to have accrued to the defendant by reason of the infringement;
+
+(d) the need to deter other similar instances of infringement; and
+
+(e) all other relevant matters.
+
+[20/2004 wef 01/07/2004]
 
 ### Order for erasure, etc., of offending sign
 
-32\.—(1) Wherea person is found to have infringed a registered trade mark, the Court may make an order requiring him —
+32\.—(1) Subject to subsection (3), where a person is found to have infringed a registered trade mark, the Court may make an order requiring him —
 
 (a) to cause the offending sign to be erased, removed or obliterated from any infringing goods, material or articles in his possession, custody or control; or
 
 (b) if it is not reasonably practicable for the offending sign to be erased, removed or obliterated, to secure the destruction of the infringing goods, material or articles in question.
 
 (2) If an order under subsection (1) is not complied with, or it appears to the Court likely that such an order would not be complied with, the Court may order that the infringing goods, material or articles be delivered to such person as the Court may direct for erasure, removal or obliteration of the sign, or for destruction, as the case may be.
+
+(3) Where a person who is found to have infringed a registered trade mark has in his possession, custody or control any counterfeit goods, the Court shall order that the counterfeit goods be delivered up to such person as the Court may direct for destruction if —
+
+(a) the plaintiff applies to the Court for such an order; and
+
+(b) the Court is of the view that there are no exceptional circumstances which justify the refusal of such an order.
+
+[20/2004 wef 01/07/2004]
 
 ### Order for delivery up of infringing goods, material or articles
 
@@ -988,6 +1242,14 @@ Infringement proceedings
 
 (b) the need to ensure that no infringing goods, material or articles are disposed of in a manner that would adversely affect the plaintiff.
 
+(2A) Notwithstanding subsection (2), where the infringing goods are counterfeit goods, the Court shall order that the goods be destroyed if —
+
+(a) the plaintiff applies to the Court for such an order; and
+
+(b) the Court is of the view that there are no exceptional circumstances which justify the refusal of such an order.
+
+[20/2004 wef 01/07/2004]
+
 (3) The Court shall issue directions as to the service of notice on persons having an interest in the goods, material or articles.
 
 (4) Any person having an interest in the goods, material or articles is entitled —
@@ -998,7 +1260,7 @@ Infringement proceedings
 
 (5) An order made under this section shall not take effect until the end of the period within which notice of an appeal may be given or, if before the end of that period notice of appeal is duly given, until the final determination or abandonment of the proceedings on the appeal.
 
-(6) Wherethere is more than one person interested in the goods, material or articles, the Court may direct that the goods, material or articles be sold, or otherwise dealt with, and the proceeds divided, and shall make any other order as it thinks just.
+(6) Subject to subsection (2A), where there is more than one person interested in the goods, material or articles, the Court may direct that the goods, material or articles be sold, or otherwise dealt with, and the proceeds divided, and shall make any other order as it thinks just.
 
 (7) If the Court decides that no order should be made under this section, the person in whose possession, custody or control the goods, material or articles were before being delivered up is entitled to their return.
 
@@ -1100,13 +1362,21 @@ the prescribed particulars of the transaction shall be entered in the register.
 
 (e) an order of the Court or other competent authority transferring a registered trade mark or any right in or under it.
 
-(3) Until an application has been made for registration of the prescribed particulars of a registrable transaction —
+(3) Until an application has been made for the registration of the prescribed particulars of a registrable transaction referred to in subsection (2)(a), (c), (d) or (e), the transaction is ineffective as against a person acquiring a conflicting interest in or under the registered trade mark in ignorance of the transaction.
 
-(a) the transaction is ineffective as against a person acquiring a conflicting interest in or under the registered trade mark in ignorance of it; and
+[20/2004 wef 01/07/2004]
 
-(b) a person claiming to be a licensee by virtue of the transaction does not have the protection of section 44 or 45.
+(4) A person who becomes the proprietor of a registered trade mark by virtue of any registrable transaction referred to in subsection (2)(a), (c), (d) or (e) is not entitled to damages, an account of profits or statutory damages under section 31(5)(c) in respect of any infringement of the registered trade mark occurring after the date of the transaction and before the date of the application for the registration of the prescribed particulars of the transaction.
 
-(4) A person who becomes the proprietor or a licensee of a registered trade mark by virtue of a registrable transaction is not entitled to damages or account of profits in respect of any infringement of the registered trade mark occurring after the date of the transaction and before the date of application for registration of the prescribed particulars of the transaction.
+[20/2004 wef 01/07/2004]
+
+(4A) For the avoidance of doubt, subsections (3) and (4) shall not apply to any registrable transaction relating to —
+
+(a) a licence under a registered trade mark; or
+
+(b) any right in or under the licence.
+
+[20/2004 wef 01/07/2004]
 
 (5) Provision may be made by rules as to —
 
@@ -1160,7 +1430,23 @@ LICENSING
 
 (4) Subsection (3) may be satisfied in a case where the grantor is a body corporate by the affixing of its seal.
 
-(5) Unless the licence provides otherwise, it is binding on a successor in title to the grantor’s interest, and references in this Act to doing anything with, or without, the consent of the proprietor of a registered trade mark shall be construed accordingly.
+(5) Subject to subsection (5B), a licence to use a registered trade mark is binding on every successor in title to the grantor’s interest —
+
+(a) except any person who, in good faith and without any notice (actual or constructive) of the licence, has given valuable consideration for the interest in the registered trade mark; or
+
+(b) unless the licence provides otherwise,
+
+and any reference in this Act to doing anything with, or without, the consent of the proprietor of a registered trade mark shall be construed accordingly.
+
+[20/2004 wef 01/07/2004]
+
+(5A) Every person shall be deemed to have notice of a licence if the prescribed particulars of the grant of the licence are entered in the register under section 39(1).
+
+[20/2004 wef 01/07/2004]
+
+(5B) Where an application under section 39(1) is made before 1st July 2004 to register the prescribed particulars of the grant of a licence, then, unless the licence provides otherwise, the licence shall be binding on every successor in title to the grantor’s interest.
+
+[20/2004 wef 01/07/2004]
 
 (6) Where the licence so provides, a sub-licence may be granted by the licensee; and references in this Act to a licence or licensee include a sub-licence or sub-licensee.
 
@@ -1168,7 +1454,9 @@ LICENSING
 
 43\.—(1) In this Act, an “exclusive licence” means a licence (whether general or limited) authorising the licensee to the exclusion of all other persons, including the person granting the licence, to use a registered trade mark in the manner authorised by the licence, and the expression “exclusive licensee” shall be construed accordingly.
 
-(2) Unless the exclusive licence provides otherwise, it is binding on a successor in title to the grantor’s interest.
+(2) Section 42 shall apply, with the necessary modifications, to an exclusive licence.
+
+[20/2004 wef 01/07/2004]
 
 ### General provisions as to rights of licensees in case of infringement
 
@@ -1208,23 +1496,33 @@ the licensee may bring the proceedings in his own name as if he were the proprie
 
 (4) In an action brought by an exclusive licensee by virtue of this section, a defendant may avail himself of any defence which would have been available to him if the action had been brought by the proprietor of the registered trade mark.
 
-(5) Where proceedings for infringement of a registered trade mark brought by the proprietor or an exclusive licensee relate wholly or partly to an infringement in respect of which they have concurrent rights of action, the proprietor or, as the case may be, the exclusive licensee may not, without the leave of the Court, proceed with the action unless the other is either joined as a plaintiff or added as a defendant.
+(5) Where the proprietor or an exclusive licensee of a registered trade mark brings proceedings for any infringement of the trade mark in respect of which the proprietor and the exclusive licensee have concurrent rights of action, the proprietor or the exclusive licensee, as the case may be, need not —
 
-(6) Subsection (5) does not affect the granting of interlocutory relief on an application by a proprietor or exclusive licensee alone.
+(a) join the other as a plaintiff; or
+
+(b) add the other as a defendant,
+
+unless the Court otherwise orders.
+
+[20/2004 wef 01/07/2004]
 
 (7) A person who is added as a defendant as mentioned in subsection (5) shall not be made liable for any costs in the action unless he takes part in the proceedings.
 
 (8) Where an action for infringement of a registered trade mark is brought which relates wholly or partly to an infringement in respect of which the proprietor and an exclusive licensee have or had concurrent rights of action —
 
-(a) the Court shall in assessing damages take into account —
+(a) the Court shall, when assessing damages, ordering an account of profits or awarding statutory damages under section 31(5)(c), take into account —
 
 (i) the terms of the licence; and
 
-(ii) any pecuniary remedy already awarded or available to either of them in respect of the infringement;
+(ii) any pecuniary remedy already awarded or available to either of them in respect of the infringement; and
 
-(b) no account of profits shall be directed if an award of damages has been made, or an account of profits has been directed, in favour of the other of them in respect of the infringement; and
+(b) subject to any agreement between them, the Court may —
 
-(c) the Court shall if an account of profits is directed apportion the profits between them as the Court considers just, subject to any agreement between them.
+(i) assess the damages or award the statutory damages due to each of them according to the losses suffered or likely to be suffered by him as a result of the infringement; or
+
+(ii) apportion between them the profits due to each of them according to what is attributable to the infringement of his rights.
+
+[20/2004 wef 01/07/2004]
 
 (9) Subsection (8) shall apply whether or not the proprietor and the exclusive licensee are both parties to the action, and if they are not both parties the Court may give such directions as it thinks fit as to the extent to which the party to the proceedings is to hold the proceeds of any pecuniary remedy on behalf of the other.
 
@@ -1254,29 +1552,43 @@ without the consent of the proprietor of the registered trade mark shall be deem
 
 47\.—(1) Any person who falsely applies a registered trade mark to goods or services shall, unless he proves that he acted innocently, be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
 
-(2) For the purposes of this section and section 49, a sign shall be deemed to be applied to goods or services if —
-
-(a) it is applied to the goods themselves;
-
-(b) it is applied to a covering, label, reel or thing in or with which the goods are sold or exposed or had in possession for a purpose of trade or manufacture; or
-
-(c) it is used in a manner likely to lead persons to believe that it refers to, describes or designates the goods or services.
-
-(3) For the purposes of this section and section 49, a trade mark shall be deemed to be applied to goods or services if it is used in —
-
-(a) a sign or an advertisement including a televised advertisement; or
-
-(b) an invoice, wine list, catalogue, business letter, business paper, price list or other commercial document,
-
-and the goods are delivered, or services provided, as the case may be, to a person in pursuance of a request or order made by reference to the trade mark as so used.
-
-(4) For the purposes of subsection (2), “covering” includes a stopper, glass, bottle, vessel, box, capsule, case, frame or wrapper, and “label” includes a band or ticket.
-
-(5) For the purposes of this section and section 49, a person falsely applies a registered trade mark to goods or services if —
+(2) For the purposes of this section and sections 49, 53 and 53A, a person falsely applies a registered trade mark to goods or services if —
 
 (a) without the consent of the proprietor of the registered trade mark, the person applies the trade mark or a sign likely to be mistaken for that trade mark to the goods or services; and
 
 (b) in the case of an application to goods, the goods are not the genuine goods of the proprietor or licensee of the registered trade mark.
+
+[20/2004 wef 01/07/2004]
+
+(3) For the purposes of subsection (2), a trade mark shall be deemed to be applied to goods or services if it is used in —
+
+(a) any sign or advertisement; or
+
+(b) any invoice, wine list, catalogue, business letter, business paper, price list or other commercial document, including any such document in any medium,
+
+and the goods are delivered, or services provided, as the case may be, to a person in pursuance of a request or order made by reference to the trade mark as so used.
+
+[20/2004 wef 01/07/2004]
+
+(4) For the purposes of subsection (2) —
+
+(a) a sign shall be deemed to be applied to goods if —
+
+(i) it is applied to the goods themselves; or
+
+(ii) it is applied to any covering, label, reel or thing in or with which the goods are sold, offered or exposed for sale or had in possession for a purpose of trade or manufacture; and
+
+(b) a sign shall be deemed to be applied to goods or services if it is used in a manner that is likely to lead persons to believe that it refers to, describes or designates the goods or services.
+
+[20/2004 wef 01/07/2004]
+
+(5) In subsection (4) —
+
+“covering” includes any stopper, glass, bottle, vessel, box, capsule, case, frame or wrapper;
+
+“label” includes any band or ticket.
+
+[20/2004 wef 01/07/2004]
 
 (6) In a prosecution under this section or section 49, the burden of proving the consent of the proprietor lies on the accused.
 
@@ -1296,7 +1608,7 @@ knowing or having reason to believe that it has been, or is to be, used for, or 
 
 (a) imports into Singapore for the purpose of trade or manufacture;
 
-(b) sells or exposes for sale; or
+(b) sells or offers or exposes for sale; or
 
 (c) has in his possession for the purpose of trade or manufacture,
 
@@ -1346,7 +1658,7 @@ shall be deemed to be a representation as to registration under this Act unless 
 
 (a) imports into Singapore for the purpose of trade or manufacture;
 
-(b) sells or exposes for sale; or
+(b) sells or offers or exposes for sale; or
 
 (c) has in his possession for the purpose of trade or manufacture,
 
@@ -1354,11 +1666,101 @@ any goods or things to which a trade mark bearing any representation prohibited 
 
 (3) Any person guilty of an offence under subsection (1) or (2) shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both, and shall forfeit to the Government any goods or things to which the trade mark bearing the prohibited representation is applied.
 
-### Forfeiture of articles, etc., on conviction
+### Forfeiture and destruction of goods, etc., on conviction
 
-53\.—(1) A court may, where it considers appropriate, order a person convicted of an offence under any provision of this Part to forfeit to the Government all articles or goods by means of which, or in relation to which, the offence was committed.
+53\.—(1) Subject to subsection (2), where any person has been convicted of an offence under any provision of this Part, the court may, where it considers appropriate, order the person to forfeit to the Government all or any —
 
-(2) Such forfeiture is in addition to any punishment referred to in that provision.
+(a) goods in relation to which; or
+
+(b) articles by means of which,
+
+the offence was committed.
+
+(2) Where any person has been convicted of an offence under section 47 or 49 in relation to a registered trade mark, the court shall, unless it is of the view that there are exceptional circumstances for deciding otherwise, order to be forfeited to the Government and destroyed any goods which satisfy all of the following conditions:
+
+(a) the goods are goods in relation to which —
+
+(i) the offence was committed; and
+
+(ii) the trade mark has been falsely applied;
+
+(b) the goods or their packaging bear the trade mark or sign giving rise to the false application of the trade mark.
+
+(3) Any —
+
+(a) forfeiture of goods or articles under subsection (1); or
+
+(b) forfeiture and destruction of goods under subsection (2),
+
+shall be in addition to any penalty or punishment that the court may impose for the offence committed.
+
+[20/2004 wef 01/07/2004]
+
+### Enforcement measures
+
+53A\.—(1) Any police officer may arrest without warrant any person who, in any street or public place —
+
+(a) sells or offers or exposes for sale; or
+
+(b) has, or is reasonably suspected of having, in his possession for the purpose of trade or manufacture,
+
+any goods to which a registered trade mark is falsely applied.
+
+(2) Any authorised officer may, without a warrant issued under subsection (3) —
+
+(a) stop, search and board, whether forcibly or otherwise, any conveyance in which he reasonably suspects there are goods to which a registered trade mark has been falsely applied; and
+
+(b) seize, remove or detain any such goods and anything which appears to him —
+
+(i) to be or to contain; or
+
+(ii) to be likely to be or to contain,
+
+evidence of any offence under section 46, 47, 48, 49 or 52.
+
+(3) If information is given upon oath to a court that there is reasonable cause for suspecting that there is in any premises or conveyance —
+
+(a) any goods which are the subject of an offence under section 46, 47, 48, 49 or 52;
+
+(b) any material or article which has been used in the commission of an offence under section 46, 47, 48, 49 or 52; or
+
+(c) any document which is evidence that an offence under section 46, 47, 48, 49 or 52 has been committed,
+
+the court may issue, either unconditionally or subject to such conditions as the court thinks fit, a warrant authorising a police officer to enter and search the premises or conveyance for any goods, material, article or document referred to in the warrant, whether specifically or in any general category, and to seize any such goods, material, article or document found at the premises or conveyance.
+
+(4) If any goods, material, article or document has been seized under subsection (3) and —
+
+(a) in proceedings brought under section 46, 47, 48, 49 or 52, no order is made —
+
+(i) as to the disposal of the goods, material, article or document; or
+
+(ii) in the case of any goods or article referred to in section 53, under section 53(1) or (2); or
+
+(b) no such proceedings are instituted within 6 months of the seizure,
+
+the goods, material, article or document shall be returned to the person in whose possession it was when it was seized or, if it is not reasonably practicable to return it to that person, shall be disposed of in accordance with the law regulating the disposal of lost or unclaimed property in the hands of police authorities.
+
+(5) No action or other legal proceeding shall lie against the Government or any officer or employee thereof for anything which is in good faith done or omitted to be done in the exercise of any power, duty or function under this section.
+
+(6) In this section —
+
+“authorised officer” means —
+
+(a) a police officer;
+
+(b) an officer of customs as defined in the Customs Act (Cap. 70);
+
+(c) an immigration officer as defined in the Immigration Act (Cap. 133); or
+
+(d) any officer or class or description of officers appointed by the Minister by notification in theGazetteto exercise the powers and perform the duties conferred and imposed on an authorised officer by this section;
+
+“conveyance” includes any vehicle, vessel, train or aircraft in which persons or goods can be carried;
+
+“document” means anything in which information of any description is recorded;
+
+“premises” includes any land, building or structure.
+
+[20/2004 wef 01/07/2004]
 
 ## PART VII
 
@@ -1396,25 +1798,87 @@ The Madrid Protocol, etc.
 
 “Madrid Protocol” means the Protocol relating to the Madrid Agreement concerning the International Registration of Marks, adopted at Madrid on 27th June 1989, as revised or amended from time to time.
 
-The Paris Convention and the TRIPS Agreement: supplementary provisions
+The Paris Convention, the TRIPS Agreement and well known trade marks: supplementary provisions
 
-### Protection of well-known trade marks: Article 6bis of Paris Convention, etc.
+### Protection of well known trade marks
 
-55\.—(1) References in this section to a trade mark which is entitled to protection under the Paris Convention or the TRIPS Agreement as a well-known trade mark are to a mark which is well-known in Singapore as being the mark of a person who —
+55\.—(1) A well known trade mark shall be entitled to protection under this section —
 
-(a) is a national of a Convention country; or
+(a) whether or not the trade mark has been registered in Singapore, or an application for the registration of the trade mark has been made to the Registrar; and
 
-(b) is domiciled in, or has a real and effective industrial or commercial establishment in, a Convention country,
+(b) whether or not the proprietor of the trade mark carries on business, or has any goodwill, in Singapore.
 
-whether or not that person carries on business, or has any goodwill, in Singapore, and references to the proprietor of such a mark shall be construed accordingly.
+(2) Subject to subsections (6) and (7), the proprietor of a well known trade mark shall be entitled to restrain by injunction the use in Singapore, in the course of trade and without the proprietor’s consent, of any trade mark which, or an essential part of which, is identical with or similar to the proprietor’s trade mark, in relation to identical or similar goods or services, where the use is likely to cause confusion.
 
-(2) The proprietor of a trade mark which is entitled to protection under the Paris Convention or the TRIPS Agreement as a well-known trade mark is entitled to restrain by injunction the use in Singapore in the course of trade and without the proprietor’s consent of a trade mark which, or the essential part of which, is identical with or similar to the proprietor’s mark, in relation to identical or similar goods or services, where the use is likely to cause confusion.
+(3) Subject to subsections (6) and (7), the proprietor of a well known trade mark shall be entitled to restrain by injunction the use in Singapore, in the course of trade and without the proprietor’s consent, of any trade mark which, or an essential part of which, is identical with or similar to the proprietor’s trade mark, in relation to any goods or services, where the use of the trade mark —
 
-(3) The right referred to in subsection (2) is subject to section 24.
+(a) would indicate a connection between those goods or services and the proprietor, and is likely to damage the interests of the proprietor; or
 
-(4) Nothing in subsection (2) shall affect the continuation of any bona fide use of a trade mark begun before 15th January 1999.
+(b) if the proprietor’s trade mark is well known to the public at large in Singapore —
 
-(5) For the purposes of this section and sections 56, 57 and 59, “use”, in relation to a trade mark, means use within the meaning of section 27(4).
+(i) would cause dilution in an unfair manner of the distinctive character of the proprietor’s trade mark; or
+
+(ii) would take unfair advantage of the distinctive character of the proprietor’s trade mark.
+
+(4) Subject to subsections (6) and (7), the proprietor of a well known trade mark shall be entitled to restrain by injunction the use in Singapore without the proprietor’s consent of any business identifier which, or an essential part of which, is identical with or similar to the proprietor’s trade mark, where the use of the business identifier —
+
+(a) would indicate a connection between the business in respect of which it is used and the proprietor, and is likely to damage the interests of the proprietor; or
+
+(b) if the proprietor’s trade mark is well known to the public at large in Singapore —
+
+(i) would cause dilution in an unfair manner of the distinctive character of the proprietor’s trade mark; or
+
+(ii) would take unfair advantage of the distinctive character of the proprietor’s trade mark.
+
+(5) If the Court grants an injunction under subsection (4) restraining the use by any business of any business identifier, the Court may make such other order as the Court deems fit in respect of any entry in any record maintained by any person, body or authority which associates that business with that business identifier.
+
+(6) The proprietor shall not be entitled to the right referred to in subsection (2), (3) or (4) if the use of the trade mark or business identifier, as the case may be, began before the proprietor’s trade mark became well known in Singapore, unless the trade mark or business identifier has been used in bad faith.
+
+(7) The proprietor shall cease to be entitled to the right referred to in subsection (2), (3) or (4) if the proprietor has acquiesced for a continuous period of 5 years in the use of the trade mark or business identifier, as the case may be, in Singapore, being aware of that use, unless the trade mark or business identifier has been used in bad faith.
+
+(8) In deciding whether the trade mark or business identifier, as the case may be, has been used in bad faith, it shall be relevant to consider whether the person who used the trade mark or business identifier had, at the time he began to use the trade mark or business identifier, knowledge of, or reason to know of, the proprietor’s trade mark.
+
+(9) Nothing in subsection (2) shall affect the continuation of any use referred to therein in good faith of a trade mark that was begun before 15th January 1999.
+
+(10) Nothing in subsection (3) or (4) shall affect the continuation of any use referred to therein in good faith of a trade mark or business identifier, as the case may be, that was begun before 1st July 2004.
+
+(11) For the purposes of this section and sections 55A, 56, 57 and 59, “use”, in relation to a trade mark, means use within the meaning of section 27(4).
+
+[20/2004 wef 01/07/2004]
+
+### Permitted use of well known trade marks
+
+55A\.—(1) Notwithstanding section 55, the proprietor of a well known trade mark shall not be entitled to restrain by injunction the use in Singapore, in accordance with honest practices in industrial or commercial matters, by any person of —
+
+(a) the name of —
+
+(i) the person himself;
+
+(ii) the person’s place of business;
+
+(iii) the person’s predecessor in business; or
+
+(iv) the place of business of the person’s predecessor in business;
+
+(b) any sign to indicate —
+
+(i) the kind, quality, quantity, intended purpose, value, geographical origin or other characteristic of goods or services; or
+
+(ii) the time of production of goods or of the rendering of services; or
+
+(c) the trade mark to indicate the intended purpose of goods (in particular as accessories or spare parts) or services.
+
+(2) Notwithstanding section 55, the proprietor of a well known trade mark shall not be entitled to restrain by injunction the use in Singapore of any registered trade mark in relation to goods or services for which the latter is registered.
+
+(3) Notwithstanding section 55, the proprietor of a well known trade mark shall not be entitled to restrain by injunction the use in Singapore of the trade mark if such use —
+
+(a) constitutes fair use in comparative commercial advertising or promotion;
+
+(b) is for a non-commercial purpose; or
+
+(c) is for the purpose of news reporting or news commentary.
+
+[20/2004 wef 01/07/2004]
 
 ### National emblems, etc., of Convention countries: Article 6ter of Paris Convention, etc.
 
@@ -1672,9 +2136,15 @@ the Registrar may require the person to give security for the costs for the proc
 
 Forms, fees, hours of business and publication
 
-### Forms
+### Forms and directions of Registrar
 
-76\. The Minister may prescribe the forms to be used for any purpose relating to the registration of a trade mark or any other proceedings before the Registrar under this Act.
+76\. The Minister may make rules for the publication by the Registrar of —
+
+(a) the forms to be used for any purpose relating to the registration of a trade mark or any other proceedings before the Registrar under this Act; and
+
+(b) the practice directions issued by the Registrar.
+
+[20/2004 wef 01/07/2004]
 
 ### Fees
 
@@ -1692,11 +2162,33 @@ Forms, fees, hours of business and publication
 
 ### Hours of business and excluded days
 
-78\.—(1) The Minister may make rules to specify the hour at which the Registry shall be taken to be closed on any day for purposes of the transaction by the public of business under this Act or of any class of such business, and may specify days as excluded days for any such purposes.
+78\.—(1) The Registrar may issue practice directions to specify —
 
-(2) Any business done under this Act on any day after the hour so specified in relation to business of that class, or on a day which is an excluded day in relation to business of that class, shall be taken to have been done on the next following day not being an excluded day.
+(a) the hours of business of the Registry; and
 
-(3) Where the time for doing anything under this Act expires on an excluded day, that time shall be extended to the next following day not being an excluded day.
+(b) the days which are to be treated as excluded days.
+
+(2) The Minister may prescribe the effect of doing any business under this Act —
+
+(a) on any day after the hours of business of the Registry; or
+
+(b) on any day which is an excluded day.
+
+(3) For the purposes of subsections (1) and (2) —
+
+(a) different hours of business may be specified for different classes of business;
+
+(b) different excluded days may be specified for different classes of business; and
+
+(c) different effects of doing business —
+
+(i) outside the hours of business of the Registry; or
+
+(ii) on an excluded day,
+
+may be prescribed for different classes of business.
+
+[20/2004 wef 01/07/2004]
 
 ### Publication of trade mark applications, etc.
 
@@ -1710,7 +2202,7 @@ Trade mark agents
 
 ## PART X
 
-IMPORTATION OF INFRINGING GOODS
+ASSISTANCE BY BORDER AUTHORITIES
 
 Border enforcement measures
 
@@ -1764,13 +2256,27 @@ Border enforcement measures
 
 ### Restriction of importation of infringing goods
 
-82\.—(1) A person may give the Director-General a written notice stating —
+82\.—(1) A person who is the proprietor or a licensee of a registered trade mark may give the Director-General a written notice —
 
-(a) that he is the proprietor of a registered trade mark or a licensee thereof having the power to give such a notice;
+(a) stating that he is —
 
-(b) that, at a time and place specified in the notice, goods which, in relation to the registered trade mark, are infringing goods are expected to be imported for the purpose of trade; and
+(i) the proprietor of the registered trade mark; or
 
-(c) that he objects to such importation.
+(ii) a licensee thereof having the power to give such a notice;
+
+(b) stating that goods which, in relation to the registered trade mark, are infringing goods are expected to be imported;
+
+(c) providing sufficient information —
+
+(i) to identify the goods;
+
+(ii) to enable the Director-General to ascertain the time when and place where the goods are expected to be imported; and
+
+(iii) to satisfy the Director-General that the goods are infringing goods; and
+
+(d) stating that he objects to such importation.
+
+[20/2004 wef 01/07/2004]
 
 (2) A notice given under subsection (1) shall be supported by such documents and information, and accompanied by such fee, as may be prescribed by rules made under this Act.
 
@@ -1942,11 +2448,85 @@ the Court may order the objector to pay compensation in such amount as the Court
 
 (2) The debt created by subsection (1) is due by the objector, or, if there are 2 or more objectors, by the objectors jointly and severally.
 
+### Detention and examination of counterfeit goods
+
+93A\.—(1) Notwithstanding section 82(4), any authorised officer may —
+
+(a) detain any goods —
+
+(i) that are imported into, or that are to be exported from, Singapore; and
+
+(ii) that are not goods in transit, unless the goods are consigned to any person with a commercial or physical presence in Singapore; or
+
+(b) examine any goods, including goods in transit,
+
+which he reasonably suspects are counterfeit goods in relation to a registered trade mark.
+
+(2) As soon as practicable after goods are detained under subsection (1)(a), the Director-General shall give —
+
+(a) to the importer, exporter or consignee, as the case may be, of the detained goods; and
+
+(b) to the proprietor of the registered trade mark,
+
+a written notice identifying the goods, stating that they have been detained and setting out the matters referred to in subsection (3).
+
+(3) The detained goods shall be released to the importer, exporter or consignee, as the case may be, of the goods, unless, within the prescribed period, the proprietor of the registered trade mark —
+
+(a) in the case of goods that are imported into Singapore and that are not goods in transit —
+
+(i) gives the Director-General a written notice referred to in section 82(1);
+
+(ii) submits the documents and information, and pays the fee, referred to in section 82(2) to the Director-General; and
+
+(iii) deposits with the Director-General the sum of money referred to in section 83(a) or gives the security referred to in section 83(b); or
+
+(b) in the case of goods that are to be exported from Singapore or goods in transit that are consigned to a person with a commercial or physical presence in Singapore —
+
+(i) institutes an action for the infringement of his trade mark;
+
+(ii) serves on the Director-General an order of the Court authorising the further detention of the goods; and
+
+(iii) deposits with the Director-General a sum of money that, in the opinion of the Director-General, is sufficient to —
+
+(A) reimburse the Government for any liability or expense it has incurred and is likely to further incur as a result of the detention of the goods; and
+
+(B) pay such compensation to any person who suffers loss or damage as a result of the detention of the goods as may be ordered by the Court; or
+
+gives security, to the satisfaction of the Director-General, for the reimbursement of the Government for any such liability or expense and the payment of such compensation.
+
+(4) Every order of the Court authorising the further detention of goods under subsection (3)(b)(ii) shall be subject to the condition that the proprietor of the registered trade mark complies with subsection (3)(b)(iii) within the period prescribed under subsection (3).
+
+(5) Where the Court has made an order authorising the further detention of goods under subsection (3)(b) —
+
+(a) the detained goods shall be taken to such secure place as the Director-General directs; and
+
+(b) sections 86, 87 and 89 to 93 shall apply, with the necessary modifications, to the further detention of the goods, and for the purposes of such application —
+
+(i) any reference to the objector shall be read as a reference to the proprietor of the registered trade mark;
+
+(ii) any reference to the importer shall be read as a reference to the exporter or consignee, as the case may be, of the detained goods;
+
+(iii) any reference to the seized goods shall be read as a reference to the detained goods;
+
+(iv) any reference to the seizure of goods shall be read as a reference to the detention or further detention of the goods;
+
+(v) any reference to the import or importation of goods shall be read —
+
+(A) in the case of goods that are to be exported from Singapore, as a reference to the export of the goods; or
+
+(B) in the case of goods in transit that are consigned to a person with a commercial or physical presence in Singapore, as a reference to the import, importation or export, of the goods by the consignee;
+
+(vi) any reference to infringement action shall be read as a reference to an action for the infringement of the registered trade mark under subsection (3)(b)(i); and
+
+(vii) any reference to the retention period shall be read as a reference to the prescribed period under subsection (3).
+
+[20/2004 wef 01/07/2004]
+
 Powers of search
 
 ### Powers of search in relation to vessels, aircraft and vehicles
 
-94\.—(1) A senior authorised officer or an authorised officer acting in accordance with the general or special directions of a senior authorised officer may board any conveyance in Singapore and may rummage and search all parts of the conveyance for goods liable to be seized under section 82.
+94\.—(1) A senior authorised officer or an authorised officer acting in accordance with the general or special directions of a senior authorised officer may board any conveyance in Singapore and may rummage and search all parts of the conveyance for goods liable to be seized under section 82 or detained under section 93A.
 
 (2) For the more effective exercise of the powers conferred by this section, a senior authorised officer may do all or any of the following:
 
@@ -1984,7 +2564,7 @@ Powers of search
 
 ### Examination of packages, etc.
 
-95\.—(1) Any goods, package, box, chest or other article which is being or has recently been imported and in regard to which a reasonable suspicion exists that it is or that it contains goods liable to be seized under section 82may be —
+95\.—(1) Any goods, package, box, chest or other article which is being or has recently been imported and in regard to which a reasonable suspicion exists that it is or that it contains goods liable to be seized under section 82 or detained under section 93A may be —
 
 (a) examined and searched by an authorised officer or detained until any person in charge thereof has opened it for examination and search;
 
@@ -2008,9 +2588,9 @@ Powers of search
 
 97\.—(1) Any person landing or being about to land or having recently landed from any vessel or aircraft, or leaving any vessel or aircraft in Singapore whether for the purpose of landing or otherwise, or entering or having recently entered Singapore by land, sea or air, shall —
 
-(a) on demand by an authorised officer, either permit his person and goods and baggage to be searched by the officer for any goods liable to be seized under section 82or, together with the goods and baggage, accompany the officer to a police station or an examination station, and there permit his person and goods and baggage to be searched in the presence and under the supervision of a senior authorised officer for any goods liable to be seized under section 82; or
+(a) on demand by an authorised officer, either permit his person and goods and baggage to be searched by the officer for any goods liable to be seized under section 82 or detained under section 93A or, together with the goods and baggage, accompany the officer to a police station or an examination station, and there permit his person and goods and baggage to be searched in the presence and under the supervision of a senior authorised officer for any goods liable to be seized under section 82 or detained under section 93A ; or
 
-(b) on demand by a senior authorised officer, permit his person and goods and baggage to be searched by the officer, or in the presence and under the supervision of the officer, for any goods liable to be seized under section 82 .
+(b) on demand by a senior authorised officer, permit his person and goods and baggage to be searched by the officer, or in the presence and under the supervision of the officer, for any goods liable to be seized under section 82 or detained under section 93A.
 
 (2) Whenever it is necessary to cause a woman to be searched, the search shall be made by another woman and with strict regard to decency.
 
@@ -2042,9 +2622,21 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 MISCELLANEOUS AND GENERAL PROVISIONS
 
-### Registration to be prima facie evidence of validity
+### Registration to be prima facie evidence
 
-101\. In all legal proceedings relating to a registered trade mark (including proceedings for rectification of the register), the registration of a person as proprietor of a registered trade mark shall be prima facie evidence of the validity of the original registration and of any subsequent assignment or other transmission of it.
+101\. In all legal proceedings relating to a registered trade mark or any right thereunder (including proceedings for rectification of the register) —
+
+(a) the register shall be prima facie evidence of anything contained therein;
+
+(b) the registration of the prescribed particulars of any registrable transaction under section 39 shall be prima facie evidence of the transaction; and
+
+(c) the registration of a person as proprietor of a registered trade mark shall be prima facie evidence of —
+
+(i) the validity of the original registration; and
+
+(ii) any subsequent assignment or other transmission of the registration.
+
+[20/2004 wef 01/07/2004]
 
 ### Certificate of validity of contested registration
 
@@ -2502,7 +3094,7 @@ Conversion of pending application
 
 11.—(1) In the case of a pending application for registration which has not been advertised under section 18 of the repealed Act before 15th January 1999, the applicant may give notice to the Registrar claiming to have the registrability of the mark determined in accordance with the provisions of this Act.
 
-(2) The notice must be in the prescribed form, be accompanied by the appropriate fee and be given no later than 6 months after 15th January 1999.
+(2) The notice must be in the relevant form published by the Registrar under section 76 of this Act, be accompanied by the appropriate fee and be given no later than 6 months after 15th January 1999.
 
 (3) Notice duly given is irrevocable and has the effect that the application shall be treated as if made immediately after 15th January 1999.
 
@@ -2611,3 +3203,8 @@ This Legislative History is provided for the convenience of users of the Trade M
 |||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|10.|**Act 20 of 2004—Trade Marks (Amendment) Act 2004**|
+||Date of First Reading|19 May 2005|
+|||(Bill No. 18/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|1 July 2004|
