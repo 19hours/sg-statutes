@@ -34,11 +34,13 @@
 
 [**FIRST SCHEDULE The Warsaw Convention with the amendments made to it by the Hague Protocol**](#FIRST-SCHEDULE-The-Warsaw-Convention-with-the-amendments-made-to-it-by-the-Hague-Protocol)
 
-[**SECOND SCHEDULE The unamended Warsaw Convention**](#SECOND-SCHEDULE-The-unamended-Warsaw-Convention)
+[**SECOND SCHEDULE The Unamended Warsaw Convention**](#SECOND-SCHEDULE-The-Unamended-Warsaw-Convention)
 
-[**THIRD SCHEDULE The Warsaw Convention With the Amendments Made to It by the Hague Protocol and the Montreal Protocol No. 4**](#THIRD-SCHEDULE-The-Warsaw-Convention-With-the-Amendments-Made-to-It-by-the-Hague-Protocol-and-the-Montreal-Protocol-No-4)
+[**THIRD SCHEDULE The Warsaw Convention with the amendments made to it by the Hague Protocol and the Montreal Protocol No. 4**](#THIRD-SCHEDULE-The-Warsaw-Convention-with-the-amendments-made-to-it-by-the-Hague-Protocol-and-the-Montreal-Protocol-No-4)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Carriage by Air Act
 
@@ -46,13 +48,13 @@
 
 (Original Enactment: Act 20 of 1988)
 
-REVISED EDITION 1989
+REVISED EDITION 2001
 
-(15th March 1989)
+(31st December 2001)
 
 An Act to give effect to the provisions of the Warsaw Convention concerning international carriage by air and the Convention as amended by the Hague Protocol and the Montreal Protocol No. 4 and for purposes connected therewith.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
 [16th September 1988]
 
@@ -64,53 +66,39 @@ An Act to give effect to the provisions of the Warsaw Convention concerning inte
 
 2\. In this Act, unless the context otherwise requires —
 
-[Deleted by 7/99 wef 12/09/1998]
-
-[Deleted by 7/99 wef 12/09/1998]
-
-“court” includes (in an arbitration allowed by the Warsaw Convention, the Warsaw (Hague) Convention or the Warsaw (Hague) (Montreal) Convention) an arbitrator;
-
-[7/99 wef 12/09/1998]
+“court”, in an arbitration allowed by the Warsaw Convention, the Warsaw (Hague) Convention or the Warsaw (Hague) (Montreal) Convention includes an arbitrator;
 
 “Hague Protocol” means the Protocol to amend the Warsaw Convention opened for signature at the Hague on 28th September 1955;
 
 “Montreal Protocol No. 4” means Protocol No. 4 to amend the Warsaw (Hague) Convention opened for signature at Montreal on 25th September 1975;
 
-[7/99 wef 12/09/1998]
-
 “Warsaw Convention” means the original Convention for the unification of certain rules relating to international carriage by air opened for signature at Warsaw on 12th October 1929, the text of which is set out in the Second Schedule;
-
-[7/99 wef 12/09/1998]
 
 “Warsaw (Hague) Convention” means the Warsaw Convention as amended by the Hague Protocol, the text of which is set out in the First Schedule;
 
-[7/99 wef 12/09/1998]
-
 “Warsaw (Hague) (Montreal) Convention” means the Warsaw (Hague) Convention as amended by the Montreal Protocol No. 4, the text of which is set out in the Third Schedule.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
 ### Conventions to have force of law
 
 3\.—(1) Subject to this Act, the provisions of the Warsaw Convention, the Warsaw (Hague) Convention and the Warsaw (Hague) (Montreal) Convention shall, so far as they relate to the rights and liabilites of carriers, carriers’ employees and agents, passengers, consignors, consignees and other persons, have the force of law in Singapore in relation to any carriage by air to which the Warsaw Convention, the Warsaw (Hague) Convention or the Warsaw (Hague) (Montreal) Convention, as the case may require, applies irrespective of the nationality of the aircraft performing that carriage.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
 (2) If there is any inconsistency between any of the texts set out in the First, Second and Third Schedules and the authentic text in the French language of the Warsaw Convention, or the Hague Protocol or the Montreal Protocol No. 4, as the case may be, the authentic French text shall prevail.
 
-[7/99 wef 12/09/1998]
-
-(3) Subsection (1) shall not apply so as to affect rights or liabilities arising out of an occurrence before 16th September 1988.
+[7/99]
 
 ### Certification of High Contracting Parties
 
-4\.—(1) The Minister may, by order published in theGazette, from time to time certify who are the High Contracting Parties to the Warsaw Convention, the High Contracting Parties to the Warsaw (Hague) Convention and the High Contracting Parties to the Warsaw (Hague) (Montreal) Convention, in respect of what territories they are respectively parties and to what extent they have availed themselves of the provisions of the Additional Protocol at the end of the Warsaw Convention, the Warsaw (Hague) Convention and the Warsaw (Hague) (Montreal) Convention.
+4\.—(1) The Minister may, by order published in the Gazette, from time to time certify who are the High Contracting Parties to the Warsaw Convention, the High Contracting Parties to the Warsaw (Hague) Convention and the High Contracting Parties to the Warsaw (Hague) (Montreal) Convention, in respect of what territories they are respectively parties and to what extent they have availed themselves of the provisions of the Additional Protocol at the end of the Warsaw Convention, the Warsaw (Hague) Convention and the Warsaw (Hague) (Montreal) Convention.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
 (2) Article 40A(2) in the First and Third Schedules shall not be read as extending references in those Schedules to the territory of a High Contracting Party (except such as are references to the territory of any State, whether a High Contracting Party or not) to include any territory in respect of which that High Contracting Party is not a party.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
 (3) An order in force under this section shall be conclusive evidence of the matters so certified.
 
@@ -118,85 +106,91 @@ An Act to give effect to the provisions of the Warsaw Convention concerning inte
 
 ### Fatal accidents
 
-5\. References in section 12 of the Civil Law Act [Cap. 43, 1988 Ed.] to a wrongful act, neglect or default shall include references to any occurrence which gives rise to liability under Article 17 in the First, Second and Third Schedules.
+5\. References in section 20 of the Civil Law Act (Cap. 43) to a wrongful act, neglect or default shall include references to any occurrence which gives rise to liability under Article 17 in the First, Second and Third Schedules.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
 ### Limitations of liability
 
-6\.—(1) It is declared that the limitations on liability in Article 22 in the First, Second and Third Schedules shall apply whatever the nature of the proceedings by which liability may be enforced and that, in particular —
+6\.—(1) It is declared that the limitations on liability in Article 22 in the First, Second and Third Schedules shall apply whatever the nature of the proceedings by which liability may be enforced and that, in particular the limitation for each passenger in Article 22(1) in the First, Second and Third Schedules shall apply to the aggregate liability of the carrier in all proceedings which may be brought against him under the law of Singapore, together with any proceedings brought against him outside Singapore.
 
-(a) [Deleted by 45/98 wef 01/01/1999]
-
-(b) the limitation for each passenger in Article 22(1) in the First, Second and Third Schedules shall apply to the aggregate liability of the carrier in all proceedings which may be brought against him under the law of Singapore, together with any proceedings brought against him outside Singapore.
-
-[7/99 wef 12/09/1998]
+[45/98; 7/99]
 
 (2) A court before which proceedings are brought to enforce a liability which is limited by Article 22 in the First, Second or Third Schedule may at any stage of the proceedings make any such order as appears to the court to be just and equitable in view of the provisions of that Article, and of any other proceedings which have been, or are likely to be, commenced in Singapore or elsewhere to enforce the liability in whole or in part.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
-(3) Without prejudice to subsection (2), a court before which proceedings are brought to enforce a liability which is limited by Article 22 in the First, Second or Third Schedule shall, where the liability is, or may be, partly enforceable in other proceedings in Singapore or elsewhere, have jurisdiction to award an amount less than the court would have awarded if the limitation applied solely to the proceedings before the court, or to make any part of its award conditional on the result of any other proceedings.
+(3) Without prejudice to subsection (2), a court before which proceedings are brought to enforce a liability which is limited by Article 22 in the First, Second or Third Schedule shall, where the liability is, or may be, partly enforceable in other proceedings in Singapore or elsewhere, have jurisdiction —
 
-[7/99 wef 12/09/1998]
+(a) to award an amount less than the court would have awarded if the limitation applied solely to the proceedings before the court; or
+
+(b) to make any part of its award conditional on the result of any other proceedings.
+
+[7/99]
 
 (4) The Minister may, by order published in theGazette, from time to time specify the respective amounts which, for the purposes of Article 22 in the First, Second and Third Schedules, are to be taken as equivalent to the sums expressed in francs or Special Drawing Rights, as the case may be, which are mentioned in that Article.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
-(5) References in this section to Article 22 in the First and Third Schedules include, subject to any necessary modifications, references to that Article as applied by Article 25A in the First and Third Schedules.
+(5) References in this section to Article 22 in the First and Third Schedules shall, subject to any necessary modifications, include references to that Article as applied by Article 25A in the First and Third Schedules respectively.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
 ### Notice of partial loss
 
 7\. In Article 26(2) in the First, Second and Third Schedules, the references to damage shall be construed as including loss of part of the baggage or cargo in question and the references to the receipt of baggage or cargo shall, in relation to loss of part of it, be construed as receipt of the remainder of it.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
 ### Time for bringing proceedings
 
-8\.—(1) No action against a carrier’s employee or agent which arises out of damage to which the Warsaw Convention, the Warsaw (Hague) Convention or the Warsaw (Hague) (Montreal) Convention relates shall, if he was acting within the scope of his employment, be brought after more than two years, reckoned from the date of arrival at the destination or from the date on which the aircraft ought to have arrived, or from the date on which the carriage stopped.
+8\.—(1) No action against a carrier’s employee or agent which arises out of damage to which the Warsaw Convention, the Warsaw (Hague) Convention or the Warsaw (Hague) (Montreal) Convention relates shall, if he was acting within the scope of his employment, be brought after more than 2 years, reckoned from the date of arrival at the destination or from the date on which the aircraft ought to have arrived, or from the date on which the carriage stopped.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
 (2) Article 29 in the First, Second and Third Schedules shall not be read as applying to any proceedings for contribution between persons liable for any damage to which the Warsaw Convention, the Warsaw (Hague) Convention or the Warsaw (Hague) (Montreal) Convention relates.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
-(3) Subject to sections 4 and 29 of the Limitation Act [Cap. 163], no action shall be brought by a person, liable for any damage to which the Warsaw Convention, the Warsaw (Hague) Convention or the Warsaw (Hague) (Montreal) Convention relates, to recover contribution from any other person in respect of the damage after the expiration of two years from the time when a court gives judgment or makes an award against the person seeking to recover the contribution.
+(3) Subject to sections 4 and 29 of the Limitation Act (Cap. 163), no action shall be brought by a person, liable for any damage to which the Warsaw Convention, the Warsaw (Hague) Convention or the Warsaw (Hague) (Montreal) Convention relates, to recover contribution from any other person in respect of the damage after the expiration of 2 years from the time when a court gives judgment or makes an award against the person seeking to recover the contribution.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
-(4) Subsections (1), (2) and (3) and Article 29 in the First, Second and Third Schedules shall have effect as if references in those provisions to an action included references to an arbitration; and section 30(3) and (4) of the Limitation Act (which determine the time at which an arbitration is deemed to be commenced), shall apply for the purposes of this subsection.
+(4) Subsections (1), (2) and (3) and Article 29 in the First, Second and Third Schedules shall have effect as if references in those provisions to an action included references to an arbitration.
 
-[7/99 wef 12/09/1998]
+[7/99]
+
+(5) Section 30(3) and (4) of the Limitation Act (which determine the time at which an arbitration is deemed to be commenced) shall apply for the purposes of subsection (4).
+
+[7/99]
 
 ### Contributory negligence
 
-9\. It is declared that, for the purposes of Article 21 in the First, Second and Third Schedules, the provisions of the Contributory Negligence and Personal Injuries Act [Cap. 54, 1989 Ed.] are provisions of the law of Singapore under which a court may exonerate the carrier wholly or partly from his liability.
+9\. It is declared that, for the purposes of Article 21 in the First, Second and Third Schedules, the provisions of the Contributory Negligence and Personal Injuries Act (Cap. 54) are provisions of the law of Singapore under which a court may exonerate the carrier wholly or partly from his liability.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
 ### Power to exclude aircraft in use for military purposes
 
-10\.—(1) The Minister may by order published in theGazettedirect that this section shall apply, or shall cease to apply, to Singapore or any other State specified in the order.
+10\.—(1) The Minister may, by order published in theGazette, direct that this section shall apply, or shall cease to apply, to Singapore or any other State specified in the order.
 
 (2) The Warsaw (Hague) Convention and the Warsaw (Hague) (Montreal) Convention shall not apply to the carriage of persons, cargo and baggage for the military authorities of a State to which this section applies in aircraft registered in that State if the whole capacity of the aircraft has been reserved by or on behalf of those authorities.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
 ### Actions against High Contracting Parties
 
-11\. Every High Contracting Party to the Warsaw Convention, the Warsaw (Hague) Convention or the Warsaw (Hague) (Montreal) Convention who has not availed himself of the provisions of the Additional Protocol at the end of the First, Second or Third Schedule shall, for the purposes of any action brought in a court in Singapore in accordance with Article 28 in the First, Second or Third Schedule to enforce a claim in respect of carriage undertaken by him, be deemed to have submitted to the jurisdiction of that court, and accordingly Rules of Court may provide for the manner in which any action is to be commenced and carried on; but nothing in this section shall authorise the issue of execution against the property of any High Contracting Party.
+11\.—(1) Every High Contracting Party to the Warsaw Convention, the Warsaw (Hague) Convention or the Warsaw (Hague) (Montreal) Convention who has not availed himself of the provisions of the Additional Protocol at the end of the First, Second or Third Schedule shall, for the purposes of any action brought in a court in Singapore in accordance with Article 28 in the First, Second or Third Schedule to enforce a claim in respect of carriage undertaken by him, be deemed to have submitted to the jurisdiction of that court, and accordingly the Rules of Court (Cap. 322, R 5) may provide for the manner in which any action is to be commenced and carried on.
 
-[7/99 wef 12/09/1998]
+(2) Nothing in this section shall authorise the issue of execution against the property of any High Contracting Party.
+
+[7/99]
 
 ### Application to carriage by air not governed by Warsaw (Hague) Convention and Warsaw (Hague) (Montreal) Convention
 
-12\. The Minister may make regulations applying the provisions of the First and Third Schedules and any provision of this Act to such carriage by air, not being international carriage as defined in the First and Third Schedules, as may be specified in the regulations, subject to such exceptions, adaptations and modifications, if any, as may be so specified.
+12\. The Minister may make regulations applying the provisions of the First and Third Schedules and any provision of this Act to such carriage by air, not being international carriage as defined in the First and Third Schedules, as may be specified in the regulations, subject to such exceptions, adaptations and modifications, if any, as may be specified.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
 ### Application to Government
 
@@ -206,26 +200,25 @@ FIRST SCHEDULE
 
 Section 2
 
-The Warsaw Convention with the amendments made to it by the Hague Protocol
-
-(Words in square brackets inthe textare words substituted for or added to the original Warsaw Convention by Chapter I of the Hague Protocol.)
-
-Convention
+The Warsaw Convention with the amendments
 
 
 
 
-for the Unification of Certain Rules Relating
+made to it by the Hague Protocol
+
+(Words in square brackets in the text are words substituted for or added to the original Warsaw Convention by Chapter I of the Hague Protocol.)
+
+[7/99]
+
+convention for the unification of certain rules
 
 
 
 
-to International Carriage by Air
+relating to international carriage by air
 
 Chapter 1
-
-
-
 
 Scope — Definitions
 
@@ -243,14 +236,11 @@ Article 2
 
 [(2) This Convention shall not apply to carriage of mail and postal packages\.]
 
-Chapter Ii
-
-
-
+Chapter II
 
 Documents of Carriage
 
-Section 1 — Passenger Carriage
+Section 1 — Passenger Ticket
 
 Article 3
 
@@ -364,10 +354,7 @@ Article 16
 
 (2) The carrier is under no obligation to enquire into the correctness or sufficiency of such information or documents\.
 
-Chapter Iii
-
-
-
+Chapter III
 
 Liability of the Carrier
 
@@ -407,7 +394,11 @@ Article 22
 
 (4) The limits prescribed in this Article shall not prevent the court from awarding, in accordance with its own law, in addition, the whole or part of the court costs and of the other expenses of the litigation incurred by the plaintiff. The foregoing provision shall not apply if the amount of the damages awarded, excluding court costs and other expenses of the litigation, does not exceed the sum which the carrier has offered in writing to the plaintiff within a period of 6 months from the date of the occurrence causing the damage, or before the commencement of the action, if that is later.
 
-(5) The sums mentioned in francs in this Article shall be deemed to refer to a currency unit consisting of 65 ½ milligrammes of gold of millesimal fineness 900. These sums may be converted into national currencies in round figures. Conversion of the sums into national currencies other than gold shall, in case of judicial proceedings, be made according to the gold value of such currencies at the date of the judgment.]
+(5) The sums mentioned in francs in this Article shall be deemed to refer to a currency unit consisting of 651/
+
+2
+
+milligrammes of gold of millesimal fineness 900. These sums may be converted into national currencies in round figures. Conversion of the sums into national currencies other than gold shall, in case of judicial proceedings, be made according to the gold value of such currencies at the date of the judgment.]
 
 Article 23
 
@@ -425,13 +416,13 @@ Article 25
 
 [The limits of liability specified in Article 22 shall not apply if it is proved that the damage resulted from an act or omission of the carrier, his servants or agents, done with intent to cause damage or recklessly and with knowledge that damage would probably result; provided that, in the case of such act or omission of a servant or agent, it is also proved that he was acting within the scope of his employment.]
 
-[Article 25A
+Article 25A
 
-(1) If an action is brought against a servant or agent of the carrier arising out of damage to which this Convention relates, such servant or agent, if he proves that he acted within the scope of his employment, shall be entitled to avail himself of the limits of liability which that carrier himself is entitled to invoke under Article 22\.
+[(1) If an action is brought against a servant or agent of the carrier arising out of damage to which this Convention relates, such servant or agent, if he proves that he acted within the scope of his employment, shall be entitled to avail himself of the limits of liability which that carrier himself is entitled to invoke under Article 22.
 
-(2) The aggregate of the amounts recoverable from the carrier, his servants and agents, in that case, shall not exceed the said limits\.
+(2) The aggregate of the amounts recoverable from the carrier, his servants and agents, in that case, shall not exceed the said limits.
 
-(3) The provisions of paragraphs (1) and (2) of this Article shall not apply if it is proved that the damage resulted from an act or omission of the servant or agent done with intent to cause damage or recklessly and with knowledge that damage would probably result\.]
+(3) The provisions of paragraphs (1) and (2) of this Article shall not apply if it is proved that the damage resulted from an act or omission of the servant or agent done with intent to cause damage or recklessly and with knowledge that damage would probably result.]
 
 Article 26
 
@@ -467,10 +458,7 @@ Article 30
 
 (3) As regards baggage or cargo, the passenger or consignor will have a right of action against the first carrier, and the passenger or consignee who is entitled to delivery will have a right of action against the last carrier, and further, each may take action against the carrier who performed the carriage during which the destruction, loss, damage or delay took place\. These carriers will be jointly and severally liable to the passenger or to the consignor or consignee.
 
-Chapter Iv
-
-
-
+Chapter IV
 
 Provisions Relating to Combined Carriage
 
@@ -481,9 +469,6 @@ Article 31
 (2) Nothing in this Convention shall prevent the parties in the case of combined carriage from inserting in the document of air carriage conditions relating to other modes of carriage, provided that the provisions of this Convention are observed as regards the carriage by air\.
 
 Chapter V
-
-
-
 
 General and Final Provisions
 
@@ -537,11 +522,11 @@ Article 40
 
 (3) Any High Contracting Party may denounce this Convention, in accordance with its provisions, separately or for all or any of his colonies, protectorates, territories under mandate or any other territory subject to his sovereignty or to his authority, or any other territory under his suzerainty\.
 
-[Article 40A
+Article 40A
 
-(1) In Article 37, paragraph 2, and Article 40, paragraph 1, the expressionHigh Contracting Partyshall meanState\. In all other cases, the expressionHigh Contracting Partyshall mean a State whose ratification of or adherence to the Convention has become effective and whose denunciation thereof has not become effective.
+[(1) In Article 37, paragraph (2), and Article 40, paragraph (1), the expression High Contracting Party shall meanState. In all other cases, the expression HighContracting Partyshall mean a State whose ratification of or adherence to the Convention has become effective and whose denunciation thereof has not become effective.
 
-(2) For the purposes of the Convention the wordterritorymeans not only the metropolitan territory of a State but also all other territories for the foreign relations of which that State is responsible\.]
+(2) For the purposes of the Convention the wordterritorymeans not only the metropolitan territory of a State but also all other territories for the foreign relations of which that State is responsible.]
 
 Article 41
 
@@ -555,30 +540,20 @@ Additional Protocol
 
 The High Contracting Parties reserve to themselves the right to declare at the time of ratification or of accession that paragraph (1) of Article 2 of this Convention shall not apply to international carriage by air performed directly by the State, its colonies, protectorates or mandated territories or by any other territory under its sovereignty, suzerainty or authority.
 
-[7/99 wef 12/09/1998]
-
 SECOND SCHEDULE
 
 Section 2
 
-The unamended Warsaw Convention
+The Unamended Warsaw Convention
 
-Convention
-
-
-
-
-for the Unification of Certain Rules Relating
+Convention for the Unification of Certain Rules
 
 
 
 
-to International Carriage by Air
+Relating to International Carriage by Air
 
-Chapter 1
-
-
-
+Chapter I
 
 Scope — Definitions
 
@@ -796,7 +771,7 @@ Article 22
 
 (3) As regards objects of which the passenger takes charge himself the liability of the carrier is limited to 5,000 francs per passenger\.
 
-(4) The sums mentioned above shall be deemed to refer to the French franc consisting of 65 ½ milligrams gold of millesimal fineness 900\. These sums may be converted into any national currency in round figures.
+(4) The sums mentioned above shall be deemed to refer to the French franc consisting of 65 1/2 milligrams gold of millesimal fineness 900\. These sums may be converted into any national currency in round figures.
 
 Article 23
 
@@ -920,37 +895,44 @@ This Convention done at Warsaw on the 12th October 1929, shall remain open for s
 
 Additional Protocol
 
-(with reference to Article 2)
+(With reference to Article 2)
 
 The High Contracting Parties reserve to themselves the right to declare at the time of ratification or of accession that the first paragraph of Article 2 of this Convention shall not apply to international carriage by air performed directly by the State, its colonies, protectorates or mandated territories or by any other territory under its sovereignty, suzerainty or authority.
 
 THIRD SCHEDULE
 
-The Warsaw Convention
+Section 2
+
+The Warsaw Convention with the amendments
 
 
 
 
-With the Amendments Made to It by
+made to it by the Hague Protocol and
 
 
 
 
-the Hague Protocol and the Montreal Protocol No. 4
+the Montreal Protocol No. 4
 
 (Words in square brackets in the text are words substituted for or added to the Warsaw Convention, as amended by the Hague Protocol, by Chapter I of the Montreal Protocol No. 4)
 
-Convention
+CONVENTION
 
 
 
 
-for the Unification of Certain Rules Relating to
+for the Unification of Certain Rules
 
 
 
 
-International Carriage by Air
+Relating to International Carriage by Air
+
+Chapter I
+
+
+
 
 Scope — Definitions
 
@@ -986,7 +968,7 @@ Article 3
 
 (c) a notice to the effect that, if the passenger’s journey involves an ultimate destination or stop in a country other than the country of departure, the Warsaw Convention may be applicable and that the Convention governs and in most cases limits the liability of carriers for death or personal injury and in respect of loss of or damage to baggage.
 
-(2) The passenger ticket shall constituteprima facieevidence of the conclusion and conditions of the contract of carriage\. The absence, irregularity or loss of the passenger ticket does not affect the existence or the validity of the contract of carriage which shall, nonetheless, be subject to the rules of this Convention. Nevertheless, if, with the consent of the carrier, the passenger embarks without a passenger ticket having been delivered, or if the ticket does not include the notice required by paragraph (1) (c) of this Article, the carrier shall not be entitled to avail himself of the provisions of Article 22.
+(2) The passenger ticket shall constituteprima facieevidence of the conclusion and conditions of the contract of carriage\. The absence, irregularity or loss of the passenger ticket does not affect the existence or the validity of the contract of carriage which shall, nonetheless, be subject to the rules of this Convention. Nevertheless, if, with the consent of the carrier, the passenger embarks without a passenger ticket having been delivered, or if the ticket does not include the notice required by paragraph (1)(c) of this Article, the carrier shall not be entitled to avail himself of the provisions of Article 22.
 
 Section 2 — Baggage Check
 
@@ -1000,7 +982,7 @@ Article 4
 
 (c) a notice to the effect that, if the carriage involves an ultimate destination or stop in a country other than the country of departure, the Warsaw Convention may be applicable and that the Convention governs and in most cases limits the liability of carriers in respect of loss of or damage to baggage.
 
-(2) The baggage check shall constituteprima facieevidence of the registration of the baggage and of the conditions of the contract of carriage\. The absence, irregularity or loss of the baggage check does not affect the existence or the validity of the contract of carriage which shall, nonetheless, be subject to the rules of this Convention. Nevertheless, if the carrier takes charge of the baggage without a baggage check having been delivered or if the baggage check (unless combined with or incorporated in the passenger ticket which complies with the provisions of Article 3, paragraph (1) (c)) does not include the notice required by paragraph (1) (c) of this Article, he shall not be entitled to avail himself of the provisions of Article 22, paragraph (2).
+(2) The baggage check shall constituteprima facieevidence of the registration of the baggage and of the conditions of the contract of carriage\. The absence, irregularity or loss of the baggage check does not affect the existence or the validity of the contract of carriage which shall, nonetheless, be subject to the rules of this Convention. Nevertheless, if the carrier takes charge of the baggage without a baggage check having been delivered or if the baggage check (unless combined with or incorporated in the passenger ticket which complies with the provisions of Article 3, paragraph (1)(c)) does not include the notice required by paragraph (1)(c) of this Article, he shall not be entitled to avail himself of the provisions of Article 22, paragraph (2).
 
 [section 3 — Documentation Relating to Cargo
 
@@ -1032,7 +1014,7 @@ When there is more than one package:
 
 Article 8
 
-The air way bill and the receipt for the cargo shall contain:
+The air waybill and the receipt for the cargo shall contain:
 
 (a) an indication of the places of departure and destination;
 
@@ -1140,17 +1122,21 @@ Article 22
 
 (2) (a) In the carriage of registered baggage, the liability of the carrier is limited to a sum of 250 francs per kilogramme, unless the passenger or consignor has made, at the time when the package was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless he proves that that sum is greater than the passenger’s or consignor’s actual interest in delivery at destination.
 
-[(b) In the carriage of cargo, the liability of the carrier is limited to a sum of 17 Special Drawing Rights per kilogramme, unless the consignor has made, at the time when the package was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless he proves that the sum is greater than the consignor’s actual interest in delivery at destination.]
+[(b) In the carriage of cargo, the liability of the carrier is limited to a sum of 17 Special Drawing Rights per kilogramme, unless the consignor has made, at the time when the package was handed over to the carrier, a special declaration of interest in delivery at destination and has paid a supplementary sum if the case so requires\. In that case the carrier will be liable to pay a sum not exceeding the declared sum, unless he proves that the sum is greater than the consignor’s actual interest in delivery at destination.]
 
-[(c)] In the case of loss, damage or delay of part of registered baggage or cargo, or of any object contained therein, the weight to be taken into consideration in determining the amount to which the carrier’s liability is limited shall be only the total weight of the package or packages concerned. Nevertheless, when the loss, damage or delay of a part of the registered baggage or cargo or of an object contained therein, affects the value of other packages covered by the same baggage check or the same air waybill, the total weight of such package or packages shall also be taken into consideration in determining the limit of liability.
+[(c) In the case of loss, damage or delay of part of registered baggage or cargo, or of any object contained therein, the weight to be taken into consideration in determining the amount to which the carrier’s liability is limited shall be only the total weight of the package or packages concerned. Nevertheless, when the loss, damage or delay of a part of the registered baggage or cargo or of an object contained therein, affects the value of other packages covered by the same baggage check or the same air waybill, the total weight of such package or packages shall also be taken into consideration in determining the limit of liability.]
 
-(3) As regards objects of which the passenger takes charge himself the liability of the carrier is limited to 5,000 francs per passenger\.
+(3) As regards objects of which the passenger takes charge himself the liability of the carrier is limited to 5,000 francs per passenger.
 
-(4) The limits prescribed in this Article shall not prevent the court from awarding, in accordance with its own law, in addition, the whole or part of the court costs and of the other expenses of the litigation incurred by the plaintiff\. The foregoing provision shall not apply if the amount of the damages awarded, excluding court costs and other expenses of the litigation, does not exceed the sum which the carrier has offered in writing to the plaintiff within a period of 6 months from the date of the occurrence causing the damage, or before the commencement of the action, if that is later.
+(4) The limits prescribed in this Article shall not prevent the court from awarding, in accordance with its own law, in addition, the whole or part of the court costs and of the other expenses of the litigation incurred by the plaintiff. The foregoing provision shall not apply if the amount of the damages awarded, excluding court costs and other expenses of the litigation, does not exceed the sum which the carrier has offered in writing to the plaintiff within a period of 6 months from the date of the occurrence causing the damage, or before the commencement of the action, if that is later.
 
-(5) The sums mentioned in francs in this Article shall be deemed to refer to a currency unit consisting of 65 1/2 milligrammes of gold of millesimal fineness 900. These sums may be converted into national currencies in round figures. Conversion of the sums into national currencies other than gold shall, in case of judicial proceedings, be made according to the gold value of such currencies at the date of the judgment.
+(5) The sums mentioned in francs in this Article shall be deemed to refer to a currency unit consisting of 651/
 
-[(6) The sums mentioned in the terms of the Special Drawing Right in this Article shall be deemed to refer to the Special Drawing Right as defined by the International Monetary Fund. Conversion of the sums into national currencies shall, in case of judicial proceedings, be made according to the value of such currencies in terms of the Special Drawing Right at the date of the judgment. The value of a national currency, in terms of the Special Drawing Right, of a High Contracting Party which is a Member of the International Monetary Fund, shall be calculated in accordance with the method of valuation applied by the International Monetary Fund, in effect at the date of the judgment, for its operations and transactions. The value of a national currency, in terms of the Special Drawing Right, of a High Contracting Party which is not a Member of the International Monetary Fund, shall be calculated in a manner determined by that High Contracting Party. Nevertheless, those States which are not Members of the International Monetary Fund and whose law does not permit the application of the provisions of paragraph (2) (b) of Article 22 may, at the time of ratification or accession or at any time thereafter, declare that the limit of liability of the carrier in judicial proceedings in their territories is fixed at a sum of two hundred and fifty monetary units per kilogramme. This monetary unit corresponds to sixty-five and a half milligrammes of gold of millesimal fineness 900. This sum may be converted into the national currency concerned in round figures. The conversion of this sum into the national currency shall be made according to the law of the State concerned.]
+2
+
+milligrammes of gold of millesimal fineness 900. These sums may be converted into national currencies in round figures. Conversion of the sums into national currencies other than gold shall, in case of judicial proceedings, be made according to the gold value of such currencies at the date of the judgment.
+
+[(6) The sums mentioned in the terms of the Special Drawing Right in this Article shall be deemed to refer to the Special Drawing Right as defined by the International Monetary Fund\. Conversion of the sums into national currencies shall, in case of judicial proceedings, be made according to the value of such currencies in terms of the Special Drawing Right at the date of the judgment. The value of a national currency, in terms of the Special Drawing Right, of a High Contracting Party which is a Member of the International Monetary Fund, shall be calculated in accordance with the method of valuation applied by the International Monetary Fund, in effect at the date of the judgment, for its operations and transactions. The value of a national currency, in terms of the Special Drawing Right, of a High Contracting Party which is not a Member of the International Monetary Fund, shall be calculated in a manner determined by that High Contracting Party. Nevertheless, those States which are not Members of the International Monetary Fund and whose law does not permit the application of the provisions of paragraph (2) (b) of Article 22 may, at the time of ratification or accession or at any time thereafter, declare that the limit of liability of the carrier in judicial proceedings in their territories is fixed at a sum of two hundred and fifty monetary units per kilogramme. This monetary unit corresponds to sixty-five and a half milligrammes of gold of millesimal fineness 900. This sum may be converted into the national currency concerned in round figures. The conversion of this sum into the national currency shall be made according to the law of the State concerned.]
 
 Article 23
 
@@ -1174,11 +1160,11 @@ Article 25A
 
 (2) The aggregate of the amounts recoverable from the carrier, his servants and agents, in that case, shall not exceed the said limits.
 
-[(3) In the carriage of passengers and baggage, the provisions of paragraphs (1) and (2) of this Article shall not apply if it is proved that the damage resulted from an act or omission of the servant or agent done with intent to cause damage or recklessly and with knowledge that damage would probably result.]
+[(3) In the carriage of passengers and baggage, the provisions of paragraphs (1) and (2) of this Article shall not apply if it is proved that the damage resulted from an act or omission of the servant or agent done with intent to cause damage or recklessly and with knowledge that damage would probably result\.]
 
 Article 26
 
-(1) Receipt by the person entitled to delivery of baggage or cargo without complaint is prima facie evidence that the same has been delivered in good condition and in accordance with the document of carriage\.
+(1) Receipt by the person entitled to delivery of baggage or cargo without complaint isprima facieevidence that the same has been delivered in good condition and in accordance with the document of carriage\.
 
 (2) In the case of damage, the person entitled to delivery must complain to the carrier forthwith after the discovery of the damage, and, at the latest, within 7 days from the date of receipt in the case of baggage and 14 days from the date of receipt in the case of cargo\. In the case of delay the complaint must be made at the latest within 21 days from the date on which the baggage or cargo has been placed at his disposal.
 
@@ -1214,7 +1200,7 @@ Article 30
 
 Nothing in this Convention shall prejudice the question whether a person liable for damage in accordance with its provisions has a right of recourse against any other person.]
 
-Chapter Iv
+Chapter IV
 
 Provisions Relating to Combined Carriage
 
@@ -1280,9 +1266,9 @@ Article 40
 
 Article 40A
 
-(1) In Article 37, paragraph (2), and Article 40, paragraph (1), the expressionHigh Contracting Partyshall meanState\. In all other cases, the expressionHigh Contracting Partyshall mean a State whose ratification of or adherence to the Convention has become effective and whose denunciation thereof has not become effective.
+(1) In Article 37, paragraph (2), and Article 40, paragraph (1), the expressionHigh Contracting Partyshall meanState\. In all other cases, the expression HighContracting Partyshall mean a State whose ratification of or adherence to the Convention has become effective and whose denunciation thereof has not become effective.
 
-(2) For the purposes of the Convention the wordterritorymeans not only the metropolitan territory of a State but also all other territories for the foreign relations of which that State is responsible\.
+(2) For the purposes of the Convention the word territory means not only the metropolitan territory of a State but also all other territories for the foreign relations of which that State is responsible\.
 
 Article 41
 
@@ -1296,7 +1282,7 @@ Additional Protocol
 
 The High Contracting Parties reserve to themselves the right to declare at the time of ratification or of accession that paragraph (1) of Article 2 of this Convention shall not apply to international carriage by air performed directly by the State, its colonies, protectorates or mandated territories or by any other territory under its sovereignty, suzerainty or authority.
 
-[7/99 wef 12/09/1998]
+[7/99]
 
 ## LEGISLATIVE HISTORY
 
@@ -1326,3 +1312,27 @@ This Legislative History is provided for the convenience of users of the Carriag
 |||(Bill No. 41/1998 published on 13 October 1998)|
 ||Date of Second and Third Readings|26 November 1998|
 ||Date of commencement|1 January 1999|
+|5.|**2001 Revised Edition—Carriage by Air Act**|
+||Date of operation|31 December 2001|
+## COMPARATIVE TABLE
+
+Carriage by Air Act
+
+(CHAPTER 32A)
+
+The following provisions in the 1989 Revised Edition of the Carriage of Air Act have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Carriage of Air Act.
+
+2001 Ed .
+
+1989 Ed .
+
+Omitted
+
+3 —(3)
+
+11 —(1) and (2)
+
+11 
+
