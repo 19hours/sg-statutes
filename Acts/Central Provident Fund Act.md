@@ -58,13 +58,13 @@
 
 - [17 Withdrawal from special account for loan, etc.](#Withdrawal-from-special-account-for-loan-etc)
 
-- [18 Transfer of member’s moneys in Fund to parent’s or spouse’s retirement account, etc.](#Transfer-of-member’s-moneys-in-Fund-to-parent’s-or-spouse’s-retirement-account-etc)
+- [18 Provisions relating to maintenance of minimum sum and transfer or payment of moneys into retirement account](#Provisions-relating-to-maintenance-of-minimum-sum-and-transfer-or-payment-of-moneys-into-retirement-account)
 
 - [18A Transfer of member’s moneys in ordinary account to retirement account](#Transfer-of-member’s-moneys-in-ordinary-account-to-retirement-account)
 
 - [18B Transfer of member’s moneys in ordinary account to special account](#Transfer-of-member’s-moneys-in-ordinary-account-to-special-account)
 
-- [19 Moneys transferred to parent’s or spouse’s retirement account to be credited to member’s account on death of parent or spouse](#Moneys-transferred-to-parent’s-or-spouse’s-retirement-account-to-be-credited-to-member’s-account-on-death-of-parent-or-spouse)
+- [19 Provisions relating to moneys transferred or paid to parent’s, grandparent’s or spouse’s retirement account on death](#Provisions-relating-to-moneys-transferred-or-paid-to-parent’s-grandparent’s-or-spouse’s-retirement-account-on-death)
 
 - [20 Withdrawals](#Withdrawals)
 
@@ -768,15 +768,27 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [5/87]
 
-(9) Where a member or his spouse or both of them jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
+(9) Where a member or his spouse own any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
 
 (a) to withdraw the minimum sum from his account with an approved bank or his retirement account; or
 
 (b) to surrender his approved annuity,
 
-if the member or his spouse (or both of them), as the case may be, agrees to the creation of a charge on the immovable property owned by him or his spouse, or by them jointly, to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6).
+if the member or his spouse, as the case may be, agrees to the creation of a charge on the immovable property owned by him or his spouse, to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6).
+
+[39/2000 wef 28/12/2000]
 
 [5/87]
+
+(9A) Where a member and one or more related persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may permit the member —
+
+(a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity,
+
+if the member and the related person or persons, as the case may be, agree to the creation of a charge on the immovable property owned by them to secure the payment to the Board of the minimum sum for any of the purposes mentioned in subsection (6).
+
+[39/2000 wef 28/12/2000]
 
 (10) Where a member or his spouse or both of them jointly own any immovable property sold by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
 
@@ -787,6 +799,16 @@ if the member or his spouse (or both of them), as the case may be, agrees to the
 if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which he is required to set aside for the purposes of subsection (6) in the event the property is sold or otherwise disposed of.
 
 [5/87]
+
+(10A) Where a member and one or more persons jointly own any immovable property sold by a Housing Authority or by a lessee of a Housing Authority, the Board may permit the member —
+
+(a) to withdraw the minimum sum or part thereof from his account with an approved bank or his retirement account; or
+
+(b) to surrender his approved annuity,
+
+if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the minimum sum or part thereof which the member is required to set aside for any of the purposes mentioned in subsection (6) in the event the property is sold or otherwise disposed of.
+
+[39/2000 wef 28/12/2000]
 
 (11) Where a member has withdrawn any money from the Fund for the purchase of an immovable property from a Housing Authority or from a lessee of a Housing Authority pursuant to any regulations made under section 77 and the sum standing to the credit of the member in the Fund at the time he attains the age of 55 years is less than the minimum sum, the member shall, in the event the property is sold or otherwise disposed of, refund to the Board from the proceeds of sale or other disposition, an amount sufficient to cover the deficiency in the minimum sum.
 
@@ -810,7 +832,7 @@ if the member or his spouse (or both of them), as the case may be, gives an unde
 
 (ii) the power to sell, assign and dispose of all rights, benefits and interests under the agreement for the sale and purchase of the immovable property;
 
-(c) the charge shall extend to all the rights, benefits and interests of the member or his spouse or both, as the case may be, under his or their agreement for sale and purchase of the immovable property;
+(c) the charge shall extend to all the rights, benefits and interests of the member or his spouse, or the member and the related person or persons, as the case may be, under his or their agreement for sale and purchase of the immovable property;
 
 [39/2000 wef 28/12/2000]
 
@@ -830,9 +852,29 @@ if the member or his spouse (or both of them), as the case may be, gives an unde
 
 [5/87]
 
-(16) In this section, “Housing Authority” has the same meaning as in section 28.
+(16) In this section —
 
-[5/87]
+“approved”, in relation to a bank or an annuity from an insurer, means approved by the Board for the purposes of this section;
+
+“Housing Authority” has the same meaning as in section 28;
+
+“related person”, in relation to a member, means —
+
+(a) his spouse;
+
+(b) a child of the member, including an adopted child and a step-child;
+
+(c) a father or mother of the member;
+
+(d) a brother or sister of the member;
+
+(e) a grandchild of the member;
+
+(f) a grandparent of the member; or
+
+(g) any other person who in the opinion of the Board should be regarded as a related person for the purposes of this section.
+
+[39/2000 wef 28/12/2000]
 
 ### Restrictions on withdrawals to ensure repayment of approved loan
 
@@ -864,17 +906,23 @@ if the member or his spouse (or both of them), as the case may be, gives an unde
 
 [12/99]
 
-### Transfer of member’s moneys in Fund to parent’s or spouse’s retirement account, etc.
+### Provisions relating to maintenance of minimum sum and transfer or payment of moneys into retirement account
 
 18\. The Board may, for any of the purposes mentioned in section 15(6C) and subject to such terms and conditions as it may impose, permit —
 
-(a) a member to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the retirement account of his parent or spouse to be applied by the parent or spouse; or
+(a) a member to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the retirement account of his parent or spouse to be applied by the parent or spouse;
 
-(b) any person to voluntarily maintain a minimum sum with the Boardor to pay money into his parent’s or spouse’s retirement account.
+[39/2000 wef 28/12/2000]
+
+(b) any person to voluntarily maintain a minimum sum with the Board; or
 
 [39/2000 wef 28/12/2000]
 
 [10/94]
+
+(c) any person to pay money into his parent’s, grandparent’s or spouse’s retirement account.
+
+[39/2000 wef 28/12/2000]
 
 ### Transfer of member’s moneys in ordinary account to retirement account
 
@@ -902,13 +950,13 @@ if the member or his spouse (or both of them), as the case may be, gives an unde
 
 [30/98]
 
-### Moneys transferred to parent’s or spouse’s retirement account to be credited to member’s account on death of parent or spouse
+### Provisions relating to moneys transferred or paid to parent’s, grandparent’s or spouse’s retirement account on death
 
-19\.—(1) Any moneys transferred by a member to his parent’s or spouse’s retirement account or paid by any person into his parent’s or spouse’s retirement account under section 18 shall be deemed to be contributions for the purposes of this Act and shall not form part of the moneys payable out of the Fund on the death of the parent or the spouse, as the case may be.
+19\.—(1) Any moneys transferred by a member to his parent’s or spouse’s retirement account or paid by any person into his parent’s, grandparent’s or spouse’s retirement account under section 18 shall be deemed to be contributions for the purposes of this Act and shall not form part of the moneys payable out of the Fund on the death of the parent, grandparent or the spouse, as the case may be.
 
 [39/2000 wef 28/12/2000]
 
-(2) On the death of the parent or the spouse, any moneys so transferred or paid or the balance thereof shall be credited to the account from which it was transferred or to the account of the person or spouse who made the payment.
+(2) On the death of the parent, grandparent or the spouse, any moneys so transferred or paid or the balance thereof shall be credited to the account from which it was transferred or to the account of the person who made the payment, as the case may be.
 
 [39/2000 wef 28/12/2000]
 
@@ -2572,10 +2620,6 @@ Specified Acts Relating to Self-employed Persons
 
 3\. Appraisers and House Agents Act (Cap. 16).
 
-3.
-
-[22/2000 wef 01/08/2000]
-
 4\. Business Registration Act (Cap. 32).
 
 5\. Child Care Centres Act (Cap. 37A).
@@ -3041,6 +3085,11 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 17/2000 published on 23 May 2000)|
 ||Date of Second and Third Readings|3 July 2000|
 ||Date of commencement|1 August 2000|
+|112.|**Act 39 of 2000—Central Provident Fund (Amendment) Act 2000**|
+||Date of First Reading|13 November 2000|
+|||(Bill No. 34/2000 published on 13 November 2000)|
+||Date of Second and Third Readings|22 November 2000|
+||Date of commencement|28 December 2000 (except sections 2, 3, 4, 6, 8, 10, 11, 12, 13, 14, 15, 16, 17, 18 and 19)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
