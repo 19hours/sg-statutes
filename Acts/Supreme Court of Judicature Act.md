@@ -1441,3 +1441,11 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 12/93)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
+|8.|**1993 Reprint—Supreme Court of Judicature Act (Chapter 322)**|
+||Date of operation|10 August 1993|
+|9.|**Act 2 of 1994—Judicial Committee (Repeal) Act 1994**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 January 1994|
+|||(Bill No. 2/94)|
+||Date of Second and Third Readings|23 February 1994|
+||Date of commencement|8 April 1994 (item (4) of the Schedule — amendment of Supreme Court of Judicature Act)|
