@@ -44,8 +44,6 @@
 
 - [16 Remission of customs duty on goods lost, damaged or destroyed before removal from customs control](#Remission-of-customs-duty-on-goods-lost-damaged-or-destroyed-before-removal-from-customs-control)
 
-- [16A Rebate for motor cars](#Rebate-for-motor-cars)
-
 - [17 Tax on motor vehicles using heavy fuel oil, etc.](#Tax-on-motor-vehicles-using-heavy-fuel-oil-etc)
 
 - [18 Recovery of special tax in arrears](#Recovery-of-special-tax-in-arrears)
@@ -608,29 +606,35 @@ and in granting an exemption or directing a refund the Minister may impose such 
 
 unless notice in writing of the claim has been given at or before the time of the removal.
 
-### Rebate for motor cars
-
-16A\. The Minister may, by order, grant, subject to such conditions as he may consider fit to impose, a rebate on any customs duties paid in respect of a motor car and may, by order, direct that the rebate shall not be refunded but shall only be used to set off any specified tax, levy or fee payable in respect of that motor car under the Road Traffic Act (Cap. 276).
-
-[Act 15 of 1991 wef 01/04/1991]
-
 ### Tax on motor vehicles using heavy fuel oil, etc.
 
 17\.—(1) Notwithstanding and in addition to any tax, duty, fee or other charge leviable on any mechanically-propelled vehicle under any other Act or any rule, regulation or scale of fees made thereunder, a special tax shall be imposed on motor vehicles which are equipped with engines using heavy oil, diesel oil, liquefied petroleum gas or any other gas as fuel or fitted with producer gas or other gas attachments.
 
-(2) Such special tax shall be levied in accordance with such scales as may from time to time be prescribed by the Minister by order published in theGazette.
+(2) The special tax chargeable under subsection (1) in respect of a motor vehicle shall be —
 
-(3) Such special tax shall be payable in advance to the Registrar in one or two equal instalments. An instalment shall be paid in the month succeeding the expiry of the period in respect of which the previous instalment was paid:
+(a) of such an amount as the Minister may prescribe and the Minister may prescribe different rates for motor vehicles of different classes, categories or descriptions or motor vehicles used for different purposes;
 
-Provided that, when any motor vehicle is first licensed in Singapore otherwise than at the commencement of a half-year, the instalment of the special tax for the current half-year shall be payable immediately but with a reduction of one-twelfth of the annual tax for each complete month during the half-year which has expired before the vehicle is first licensed in Singapore.
+(b) chargeable by reference to such annual or half-yearly rate as the Minister may prescribe; and
 
-(4) The Registrar may allow a refund of one-twelfth of the amount of the tax payable annually on any such vehicle for each complete month in respect of which it is proved to his satisfaction that the vehicle has not been or will not be used in Singapore:
+(c) payable in advance at such time and in such manner as the Minister may prescribe.
 
-Provided that no person shall be entitled to claim a refund —
+[Act 10 of 1992 wef 01/05/1992]
 
-(a) after 6 months from the expiration of the period in respect of which the claim is made; and
+(3) The Minister may prescribe the manner and circumstances for the refund of or exemption from the special tax.
 
-(b) unless the claim, or notice of intention to make a claim, has been given in writing to the Registrar not later than 5 days after the commencement of the period to which the claim relates.
+[Act 10 of 1992 wef 01/05/1992]
+
+(4) For the purposes of the special tax, a motor vehicle shall be deemed —
+
+(a) to be chargeable with the like special tax as on the occasion of the issue of the vehicle licence or last vehicle licence issued for the motor vehicle under the Road Traffic Act (Cap. 276), and to be so chargeable by reference to the prescribed rate as applicable to the motor vehicle on that occasion; or
+
+(b) if no vehicle licence has been issued for the motor vehicle under that Act, to be chargeable by reference to the prescribed rate applicable to the motor vehicle.
+
+[Act 10 of 1992 wef 01/05/1992]
+
+(4A) A person who for any period keeps a motor vehicle in respect of which the special tax has at any time become chargeable shall, whether or not it is still a mechanically propelled vehicle, be liable to pay the special tax in respect of the motor vehicle for that period, except that he shall not be so liable for any period in respect of which he has given notice to the Registrar under the Road Traffic Act or the rules made thereunder that the motor vehicle will not be used or kept on a road during such period.
+
+[Act 10 of 1992 wef 01/05/1992]
 
 (5) No motor vehicle to which this section applies shall be used after the latest date appointed for payment of the special tax until the tax has been paid and no such vehicle shall be used during any period in respect of which a refund of any such tax has been made.
 
@@ -642,23 +646,29 @@ Provided that no person shall be entitled to claim a refund —
 
 18\.—(1) Any sum payable in respect of the special tax levied under section 17 which remains due and unpaid on the day when it should have been paid in advance shall be deemed to be in arrears for the purposes of this section and may be recovered in the manner hereinafter provided.
 
-(2) For the recovery of arrears of the special tax, the Registrar may seize and sell any vehicle in respect of which the special tax is in arrears and shall apply the proceeds of the sale in satisfaction of the arrears and all licence fees and other taxes due and owing in respect of the vehicle under any other written law and shall refund the balance thereof (if any) to the owner of the seized vehicle.
+(2) For the recovery of arrears of the special tax, the Registrar may seize and sell or otherwise dispose of any vehicle in respect of which the special tax is in arrears and shall apply the proceeds of the sale in satisfaction of the arrears and all licence fees and other taxes due and owing in respect of the vehicle under any other written law and shall refund the balance thereof (if any) to the owner of the seized vehicle.
 
-(3) Where the seized vehicle is a public service vehicle, the Registrar may, pending the sale of the vehicle, use or permit any other person to use the vehicle for the purpose of maintaining or providing an essential public transport service upon such terms and conditions as the Registrar may determine until such time as the vehicle can be sold.
+[Act 10 of 1992 wef 01/05/1992]
 
-(4) A vehicle seized under this section shall be returned to the owner thereof if the special tax and all licence fees and other taxes due and owing in respect of the vehicle have been paid at any time prior to the sale of the vehicle.
+(3) [Deleted by Act 10 of 1992 wef 01/05/1992]
+
+(4) A vehicle seized under this section shall be returned to the owner thereof if the special tax and all licence fees and other taxes due and owing in respect of the vehicle have been paid at any time prior to the sale or disposal of the vehicle.
+
+[Act 10 of 1992 wef 01/05/1992]
 
 (5) Whenever any vehicle is seized under this section, the Registrar shall forthwith give notice in writing of the seizure and the ground thereof to the owner of the vehicle, either by delivering the notice to him personally or by post at his place of abode.
 
 (6) The purchaser of a vehicle sold by the Registrar under this section shall be deemed to have acquired a good title to the vehicle free from all encumbrances created over.
 
-(7) No proceedings shall be brought by any person for the return of the seized vehicle or for any damages or for any other relief arising out of the seizure and use of the vehicle:
+(7) No proceedings shall be brought by any person for the return of the seized vehicle or for any damages or for any other relief arising out of the seizure and use of the vehicle.
 
-Provided that nothing in this subsection shall preclude any person from bringing any proceedings in respect of any damage to property or any injury to or loss of life to any person arising out of the use of the seized vehicle for providing an essential public transport service.
+[Act 10 of 1992 wef 01/05/1992]
 
 (8) For the purposes of exercising the power of seizure under this section, the Registrar may authorise any officer of customs or police officer to seize any vehicle on his behalf.
 
-(9) The power of seizure and sale conferred by this section shall be in addition to any other remedy conferred by this Act.
+(9) The power of seizure and sale or disposal conferred by this section shall be in addition to any other remedy conferred by this Act.
+
+[Act 10 of 1992 wef 01/05/1992]
 
 ### Return of duties, taxes, fees or other charges overpaid or erroneously paid
 
@@ -2289,8 +2299,8 @@ This Legislative History is provided for the convenience of users of the Customs
 |||(Bill No. 5/91 published on 5 January 1991)|
 ||Date of Second and Third Readings|15 January 1991|
 ||Date of commencement|4 February 1991|
-|20.|**Act 15 of 1991—Customs (Amendment No. 2) Act 1991**|
-||Date of First Reading|26 February 1991|
-|||(Bill No. 6/91 published on 28 February 1991)|
-||Date of Second and Third Readings|22 March 1991|
-||Date of commencement|1 April 1991|
+|20.|**Act 10 of 1992—Customs (Amendment) Act 1992**|
+||Date of First Reading|27 February 1992|
+|||(Bill No. 10/92 published on 28 February 1992)|
+||Date of Second and Third Readings|19 March 1992|
+||Date of commencement|1 May 1992|
