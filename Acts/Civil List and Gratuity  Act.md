@@ -162,9 +162,11 @@ Class I
 
 $1,568,000
 
+$1,757,700
+
 (b) Entertainment allowance
 
-$ 100,800
+$104,300
 
 (c) Acting President’s allowance
 
@@ -174,19 +176,19 @@ Class II
 
 Salaries of personal staff
 
-$2,137,900
+$2,177,200
 
 Class III
 
 Expenses of household
 
-$ 952,500
+$1,000,130
 
 Class IV
 
 Special services
 
-$ 241,200
+$ 56,400
 
 ## LEGISLATIVE HISTORY
 
@@ -277,3 +279,5 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of commencement|27 February 1998|
 |32.|**G. N. No. S 188/99—Parliamentary Resolution**|
 ||Date of commencement|26 February 1999|
+|33.|**G. N. No. S 143/2000—Parliamentary Resolution**|
+||Date of commencement|25 February 2000|
