@@ -66,7 +66,7 @@
 
 - [24 Application of funds](#Application-of-funds)
 
-- [25 Investment](#Investment)
+- [25 Power of investment](#Power-of-investment)
 
 - [26 Accounts](#Accounts)
 
@@ -412,13 +412,11 @@ FINANCIAL PROVISIONS
 
 24\. The funds of the Board shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Board and in making any payment that the Board is authorised or required to make.
 
-### Investment
+### Power of investment
 
-25\. The Board may, with the approval of the Minister —
+25\. The Board may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-(a) invest its funds in such manner as it thinks fit; and
-
-(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
+[45/2004 wef 15/12/2004]
 
 ### Accounts
 
@@ -609,6 +607,12 @@ This Legislative History is provided for the convenience of users of the Health 
 ||Date of commencement|15 July 2002|
 |3.|**2002 Revised Edition—Health Promotion Board Act**|
 ||Date of operation|31 July 2002|
+|4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 Health Promotion Board Act
