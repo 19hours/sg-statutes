@@ -20,6 +20,8 @@
 
 - [7 Consent of Public Prosecutor to prosecution](#Consent-of-Public-Prosecutor-to-prosecution)
 
+- [8 Application to personnel boards](#Application-to-personnel-boards)
+
 [**Legislative History**](#Legislative-History)
 
 # Public Service Commission Act
@@ -68,6 +70,12 @@ An Act to provide for the punishment of offences in connection with the exercise
 
 7\. A prosecution under this Act shall not be instituted except by or with the consent of the Public Prosecutor or his deputy.
 
+### Application to personnel boards
+
+8\. The provisions of this Act shall apply to every personnel board established under Article 110D of the Constitution and every member thereof as the provisions apply to the Public Service Commission and its members; and any reference in this Act to any written law relating to the Commission in respect of any of the functions of the Commission shall be read as a reference to any written law relating to the personnel board established to exercise that function of the Commission.
+
+[Act 18/94 wef 01/10/1994 vide S 390/94]
+
 ## LEGISLATIVE HISTORY
 
 Public Service Commission Act
@@ -86,5 +94,10 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|3 June 1959|
 |3.|**1970 Revised Edition—Public Service Commission Act (Chapter 57)**|
 ||Date of operation|1 April 1971|
-|4.|**1985 Revised Edition—Public Service Commission Act**|
+|4.|**1985 Revised Edition—Public Service Commission Act (Chapter 259)**|
 ||Date of operation|30 March 1987|
+|5.|**Act 18 of 1994—Statutes (Miscellaneous Amendment) Act 1994**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 25/1994)|
+||Date of Second and Third Readings|25 August 1994|
+||Date of commencement|1 October 1994 (item (7) of the Schedule — amendment of Public Service Commission Act)|
