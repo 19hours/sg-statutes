@@ -30,21 +30,21 @@
 
 - [10 Display of licence](#Display-of-licence)
 
-- [11 Revocation of licence](#Revocation-of-licence)
+- [11 Revocation and suspension of licence](#Revocation-and-suspension-of-licence)
 
-- [12 Effect of revocation of licence](#Effect-of-revocation-of-licence)
+- [12 Effect of revocation and suspension of licence](#Effect-of-revocation-and-suspension-of-licence)
 
 [**Part III COMPENSATION FUND**](#Part-III)
 
-- [13 Compensation Fund](#Compensation-Fund)
+- [13 (Repealed)](#Repealed)
 
-- [14 Contributions to the Compensation Fund](#Contributions-to-the-Compensation-Fund)
+- [14 (Repealed)](#Repealed)
 
-- [15 Payments out of the Compensation Fund](#Payments-out-of-the-Compensation-Fund)
+- [15 (Repealed)](#Repealed)
 
-- [16 Investment of moneys in the Fund](#Investment-of-moneys-in-the-Fund)
+- [16 (Repealed)](#Repealed)
 
-- [17 Delegation of powers](#Delegation-of-powers)
+- [17 (Repealed)](#Repealed)
 
 [**Part IV GENERAL**](#Part-IV)
 
@@ -75,6 +75,8 @@
 - [30 Sanction for prosecution](#Sanction-for-prosecution)
 
 - [31 Conduct of proceedings](#Conduct-of-proceedings)
+
+- [31A Compounding of offences](#Compounding-of-offences)
 
 - [32 Regulations](#Regulations)
 
@@ -108,9 +110,9 @@ PRELIMINARY
 
 “Board” means the Singapore Tourist Promotion Board established under section 3 of the Tourist Promotion Board Act [Cap. 205];
 
-“Committee” means the Compensation Fund Committee established under section 13;
+[Deleted by Act 24/1993 wef 03/12/1993]
 
-“Compensation Fund” means the Compensation Fund established under section 13;
+[Deleted by Act 24/1993 wef 03/12/1993]
 
 “licence” means a licence issued under this Act;
 
@@ -208,9 +210,9 @@ LICENSING OF TRAVEL AGENTS
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding ten thousand dollars or to imprisonment for a term not exceeding two years or to both such fine and imprisonment.
 
-### Revocation of licence
+### Revocation and suspension of licence
 
-11\.—(1) The Board may by order revoke a licence —
+11\.—(1) The Board may by order revoke or suspend a licence —
 
 (a) if the Board is satisfied that the licensee —
 
@@ -224,89 +226,57 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (v) is carrying on or has carried on the business of a travel agent in such a manner as renders him unfit to continue to hold a licence; or
 
-(vi) is contravening or has contravened any of the provisions of this Act; or
+(vi) is contravening or has contravened any of the provisions of this Act or any regulations made thereunder; or
+
+[24/1993 wef 03/12/1993]
 
 (vii) has been convicted of any offence under this Act or the regulations made thereunder or, if the licensee is a company, any of its officers holding a managerial or an executive position has been convicted of any offence under this Act or the regulations made thereunder; or
 
 (b) if the Board considers it in the public interest to do so.
 
-(2) The Board shall, before revoking any licence under the provisions of subsection (1), give the licensee concerned notice in writing of his intention to do so, specifying a date, not less than twenty-one days after the date of the notice, upon which such revocation shall take effect and calling upon the licensee concerned to show cause to the Board why his licence should not be revoked.
+[24/1993 wef 03/12/1993]
 
-(3) When the Board has revoked a licence under the provisions of subsection (1) it shall forthwith inform the licensee concerned by notice in writing of such revocation.
+(2) The Board shall, before revoking or suspending any licence under the provisions of subsection (1), give the licensee concerned notice in writing of his intention to do so, specifying a date, not less than twenty-one days after the date of the notice, upon which such revocation or suspension shall take effect and calling upon the licensee concerned to show cause to the Board why his licence should not be revoked or suspended.
 
-(4) The person whose licence has been revoked may, within fourteen days after the receipt of the notice referred to in subsection (3), or such extended period of time as the Minister may allow, appeal in writing against such revocation to the Minister whose decision thereon shall be final.
+[24/1993 wef 03/12/1993]
 
-(5) An order of revocation shall not take effect until the expiration of a period of fourteen days after the Board has informed the licensee concerned of the order.
+(3) When the Board has revoked or suspended a licence under the provisions of subsection (1) it shall forthwith inform the licensee concerned by notice in writing of such revocation or suspension.
+
+[24/1993 wef 03/12/1993]
+
+(4) The person whose licence has been revoked or suspended may, within fourteen days after the receipt of the notice referred to in subsection (3), or such extended period of time as the Minister may allow, appeal in writing against such revocation or suspension to the Minister whose decision thereon shall be final.
+
+[24/1993 wef 03/12/1993]
+
+(5) An order of revocation or suspension shall not take effect until the expiration of a period of fourteen days after the Board has informed the licensee concerned of the order.
+
+[24/1993 wef 03/12/1993]
 
 (6) If within that period the licensee concerned gives due notice of appeal to the Minister the order shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister or is withdrawn.
 
-### Effect of revocation of licence
+### Effect of revocation and suspension of licence
 
-12\.—(1) Where an order of revocation becomes effective under section 11, the licensee concerned shall forthwith cease to carry on the business of a travel agent.
+12\.—(1) Where an order of revocation or suspension becomes effective under section 11, the licensee concerned shall forthwith cease to carry on the business of a travel agent.
 
-(2) The provisions of subsection (1) shall not prejudice the enforcement by any person of any right or claim against the licensee concerned or by the licensee concerned of any right or claim against any person arising out of or concerning any matter or thing done prior to the revocation of the licence.
+[24/1993 wef 03/12/1993]
+
+(2) The provisions of subsection (1) shall not prejudice the enforcement by any person of any right or claim against the licensee concerned or by the licensee concerned of any right or claim against any person arising out of or concerning any matter or thing done prior to the revocation or suspension of the licence.
+
+[24/1993 wef 03/12/1993]
 
 ## PART III
 
 COMPENSATION FUND
 
-### Compensation Fund
+13\. [Repealed by Act 24/1993 wef 03/12/1993]
 
-13\.—(1) The Board shall establish and keep a Compensation Fund which shall be administered by a Compensation Fund Committee on behalf of the Board.
+14\. [Repealed by Act 24/1993 wef 03/12/1993]
 
-(2) The Committee shall consist of such number of members as the Minister sees fit to appoint.
+15\. [Repealed by Act 24/1993 wef 03/12/1993]
 
-(3) The assets of the Compensation Fund shall be the property of the Board but shall be kept separate from all other property and shall be held in trust for the purposes set out in this section.
+16\. [Repealed by Act 24/1993 wef 03/12/1993]
 
-(4) The Compensation Fund shall consist of —
-
-(a) all moneys paid to the Board by persons carrying on the business of a travel agent in accordance with the provisions of this Part;
-
-(b) the interest and profits from time to time accruing from the investment of the Compensation Fund;
-
-(c) all moneys paid to the Compensation Fund by the Board; and
-
-(d) all other moneys lawfully paid into the Compensation Fund.
-
-(5) All the moneys from time to time forming part of the Compensation Fund and all investments of the Compensation Fund may be applied for —
-
-(a) the payment of any costs, charges and expenses of establishing, maintaining and administering the Compensation Fund;
-
-(b) the payment of any costs, charges and expenses of the Committee and the Board for administering this Act; and
-
-(c) the payment of any grants which the Committee may make under this Part.
-
-### Contributions to the Compensation Fund
-
-14\.—(1) The Board may require any person who is licensed or applies for a licence to carry on the business of a travel agent to pay to the Compensation Fund such amounts as the Committee may from time to time determine and to furnish such security as the Board may require for the payment of any further amounts as the Board may require in the future.
-
-(2) Any security required shall be given in the manner and form approved by the Board and may, subject to that approval, be by bond, guarantee or any other method.
-
-### Payments out of the Compensation Fund
-
-15\.—(1) Where it is proved to the satisfaction of the Committee that any person has sustained loss in consequence of —
-
-(a) any dishonesty on the part of a person who carries on the business of a travel agent or on the part of that person’s employees or agents; or
-
-(b) the inability of a person carrying on the business of a travel agent to meet his obligations in the course of his business,
-
-the Committee may, if it thinks fit, make a grant to the first-mentioned person out of the Compensation Fund for the purpose of relieving or mitigating that loss or for the purpose of helping the first-mentioned person out of any difficulties which the first-mentioned person may be put to as a result of any act of such person carrying on the business of a travel agent.
-
-(2) Any grant made by the Committee under this section may be made directly to the person who has suffered loss or to any other person who would be arranging for assistance for the person who has suffered the loss.
-
-(3) In making any payments under this section, the Committee may in its discretion restrict payments out of the Compensation Fund to such person or classes of persons as the Committee thinks fit.
-
-### Investment of moneys in the Fund
-
-16\. Any moneys in the Compensation Fund that are not immediately required for its purposes may be invested by the Board after consultation with the Committee in any manner in which trustees are for the time being authorised by law to invest trust funds.
-
-### Delegation of powers
-
-17\.—(1) The Committee may appoint such other sub-committees as it deems fit for the purpose of carrying out its work under the provisions of this Part and may delegate to the sub-committee or the members thereof any power, authority or discretion conferred on the members of the Committee.
-
-(2) Any such delegation may at any time in like manner be rescinded or varied.
-
-(3) The Committee may at any time remove any member of the sub-committee appointed by it under this section and may fill any vacancy in the sub-committee howsoever arisen.
+17\. [Repealed by Act 24/1993 wef 03/12/1993]
 
 ## PART IV
 
@@ -438,6 +408,14 @@ and shall be deemed to have been served upon its being so delivered or, in the c
 
 31\. Proceedings in respect of any offence under this Act or of any regulations made thereunder may be conducted by any officer authorised in writing in that behalf by the Chairman or Director of the Board.
 
+### Compounding of offences
+
+31A\.—(1) The Board may, in its discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+
+(2) The Board may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
+
+[24/1993 wef 03/12/1993]
+
 ### Regulations
 
 32\.—(1) The Board may, with the approval of the Minister, make regulations generally for the carrying out of the provisions of this Act and, without prejudice to such general power, may make regulations for all or any of the following purposes: —
@@ -452,7 +430,7 @@ and shall be deemed to have been served upon its being so delivered or, in the c
 
 (e) prescribing the fees payable in respect of licences issued under this Act;
 
-(f) prescribing the initial contributions and different annual contributions payable to the Compensation Fund in respect of different classes of travel agents;
+(f) [Deleted by Act 24/1993 wef 03/12/1993]
 
 (g) prescribing the conditions for a licence issued under this Act;
 
@@ -478,3 +456,8 @@ This Legislative History is provided for the convenience of users of the Travel 
 ||Date of commencement|1 December 1976|
 |2.|**1985 Revised Edition—Travel Agents Act**|
 ||Date of operation|30 March 1987|
+|3.|**Act 24 of 1993—Travel Agents (Amendment) Act 1993**|
+||Date of First Reading|28 May 1993|
+|||(Bill No. 18/93 published on 29 May 1993)|
+||Date of Second and Third Readings|30 July 1993|
+||Date of commencement|3 December 1993|
