@@ -128,7 +128,11 @@ An Act relating to societies.
 
 (e) any mutual benefit organisation registered as such under any written law relating to mutual benefit organisations for the time being in force in Singapore;
 
-(f) any company, association or partnership, consisting of not more than 20 persons, formed for the sole purpose of carrying on any lawful business that has for its object the acquisition of gain by the company, association or partnership, or the individual members thereof; or
+(f) any company, association or partnership, consisting of not more than 20 persons, formed for the sole purpose of carrying on any lawful business that has for its object the acquisition of gain by the company, association or partnership, or the individual members thereof;
+
+(fa) any class, society or association of foreign insurers carrying on insurance business in Singapore under any foreign insurer scheme established under Part IIA of the Insurance Act (Cap. 142); or
+
+[41/2001 wef 08/01/2002]
 
 (g) any school or management committee of a school constituted under any law regulating schools for the time being in force in Singapore.
 
@@ -302,7 +306,7 @@ Provided that no society shall be deemed to be unlawful under this section if an
 
 19\.—(1) Where on complaint made by a member of a registered society or by the Registrar it is shown to the satisfaction of a District Court or a Magistrate’s Court that any officer or member of that society has in his possession or control any property of the society otherwise than in accordance with the rules of the society, or has unlawfully withheld any money of the society or wilfully applied such money to purposes other than those expressed or directed in the rules of the society and authorised by this Act, the Court shall, if it considers the justice of the case so requires, order the officer or member to deliver all such property to the trustees of the society or such other persons as the Court may appoint and to pay to them the money so unlawfully withheld or improperly applied.
 
-(2) A complaint made under subsection (1) other than a complaint made by the Registrar shall not be entertained unless the Court is satisfied that the complainant is, on the date of the complaint, a member of the registered society in respect of whose property the complaint is so made.
+(2) A complaint made under subsection (1) other than a complaint made by Registrar shall not be entertained unless the Court is satisfied that the complainant is, on the date of the complaint, a member of the registered society in respect of whose property the complaint is so made.
 
 (3) Any person bound by an order made under subsection (1) who fails to comply with the terms thereof and the directions given therein within a time to be specified in the order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
@@ -434,7 +438,7 @@ the Minister may order that the society shall be dissolved.
 
 ### Service of summons, etc.
 
-33\. Every summons, notice or other document issued under this Act, or under any regulations made thereunder, shall be deemed to have been validly and effectually served, if served in the manner prescribed by the Criminal Procedure Code [Cap. 68] for the service of summonses under that Code.
+33\. Every summons, notice or other document issued under this Act, or under any regulations made thereunder, shall be deemed to have been validly and effectually served, if served in the manner prescribed by the Criminal Procedure Code (Cap. 68) for the service of summonses under that Code.
 
 ### Regulations
 
@@ -508,7 +512,7 @@ shall be jointly and severally liable for any part of the costs awarded against 
 
 ### Transitional provision
 
-38\. Any society which immediately before the commencement of this Act was registered under the provisions of the Societies Ordinance [Cap. 288, 1955 Ed.] shall be deemed to be registered under this Act.
+38\. Any society which immediately before the commencement of this Act was registered under the provisions of the Societies Ordinance (Cap. 288, 1955 Ed.) shall be deemed to be registered under this Act.
 
 [37
 
@@ -540,3 +544,9 @@ The Societies Act 1966 repealed and re-enacted with amendments the Societies Act
 ||Date of commencement|10 September 1982|
 |4.|**1985 Revised Edition—Societies Act (Chapter 311)**|
 ||Date of operation|30 March 1987|
+|5.|**Act 41 of 2001—Insurance (Amendment) Act 2001**|
+||(Related amendment made to Act by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 35/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|8 January 2002|
