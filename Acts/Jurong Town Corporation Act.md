@@ -220,9 +220,11 @@ ESTABLISHMENT, INCORPORATION AND POWERS OF CORPORATION
 
 ### Chairman of Corporation
 
-4\. The Minister shall appoint a Chairman of the Corporation who shall, subject to the provisions of this Act, hold office for such period and on such terms as the Minister may determine.
+4\. The Minister with the President’s concurrence under Article 22A(1)(b) of the Constitution shall appoint a Chairman of the Corporation who shall, subject to the provisions of this Act, hold office for such period and on such terms as the Minister may determine.
 
 [11/78]
+
+[11/1991 wef 30/11/1991]
 
 ### Constitution of Corporation
 
@@ -230,9 +232,9 @@ ESTABLISHMENT, INCORPORATION AND POWERS OF CORPORATION
 
 (a) a Chairman;
 
-(b) a Deputy Chairman to be appointed by the Minister; and
+(b) a Deputy Chairman and 7 other members to be appointed by the Minister with the President’s concurrence under Article 22A(1)(b) of the Constitution.
 
-(c) 7 other members to be appointed by the Minister.
+[11/1991 wef 30/11/1991]
 
 (2) The quorum at all meetings of the Corporation shall be 4.
 
@@ -254,7 +256,9 @@ ESTABLISHMENT, INCORPORATION AND POWERS OF CORPORATION
 
 (8) The members of the Corporation shall be paid out of the funds of the Corporation such salaries, fees or allowances as the President may determine.
 
-(9) The Minister may at any time revoke the appointment of the Chairman, the Deputy Chairman or of any other member of the Corporation.
+(9) The Minister with the President’s concurrence under Article 22A(1)(b) of the Constitution may at any time revoke the appointment of the Chairman, the Deputy Chairman or of any other member of the Corporation.
+
+[11/1991 wef 30/11/1991]
 
 ### Direction by Minister
 
@@ -264,7 +268,9 @@ ESTABLISHMENT, INCORPORATION AND POWERS OF CORPORATION
 
 ### Appointment of chief executive officer and other employees
 
-7\.—(1) The Corporation shall, after consultation with the Public Service Commission and with the approval of the Minister, appoint a chief executive officer on such terms and conditions as the Corporation may determine.
+7\.—(1) After consultation with the Public Service Commission, the Corporation with the President’s concurrence under Article 22A(1)(b) of the Constitution may appoint a chief executive officer on such terms and conditions as it may determine.
+
+[11/1991 wef 30/11/1991]
 
 (2) The chief executive officer shall —
 
@@ -272,7 +278,9 @@ ESTABLISHMENT, INCORPORATION AND POWERS OF CORPORATION
 
 (b) be responsible to the Corporation for the proper administration and management of the functions and affairs of the Corporation in accordance with the policy laid down by the Corporation; and
 
-(c) not be removed from office without the consent of the Minister.
+(c) not be removed from office without the consent of the Minister and the President’s concurrence under Article 22A(1)(b) of the Constitution.
+
+[11/1991 wef 30/11/1991]
 
 (3) If the chief executive officer is temporarily absent from Singapore, or is temporarily unable to perform his duties by reason of illness or otherwise, another person may be appointed by the Corporation to act in the place of the chief executive officer during any such period of absence from duty.
 
@@ -426,7 +434,11 @@ and may, with the like approval, fix such rates of interest and such terms, cond
 
 17\.—(1) The Minister may approve or disallow any item or portion of any item shown in the budget, and shall return the budget as amended by him to the Chairman.
 
-(2) The budget as approved by the Minister shall be published in theGazetteand the Corporation shall be bound thereby.
+(2) The Corporation shall present the budget which has been approved by the Minister to the President for his approval under Article 22B of the Constitution.
+
+(3) The budget when approved by the President shall be published in theGazette.
+
+[11/1991 wef 30/11/1991]
 
 [18
 
@@ -484,9 +496,11 @@ and may, with the like approval, fix such rates of interest and such terms, cond
 
 [11/78]
 
-(2) The auditor shall, not later than 30th September next following the end of the year respect of which he is appointed, send to the Corporation and to the Minister a report of his audit and may also submit such periodical and special reports as may appear necessary to him.
+(2) The auditor shall, not later than 30th September next following the end of the year respect of which he is appointed, send to the Corporation and to the Minister and the President a report of his audit and may also submit such periodical and special reports as may appear necessary to him.
 
 [11/78]
+
+[11/1991 wef 30/11/1991]
 
 (3) The Corporation’s auditor shall report —
 
@@ -498,17 +512,21 @@ and may, with the like approval, fix such rates of interest and such terms, cond
 
 (a) proper accounting and other records have been kept; and
 
-(b) the receipt, expenditure and investment of moneys and the acquisition and disposal of assets by the Corporation during the year have been in accordance with the provisions of this Act.
+(b) the receipt, expenditure and investment of moneys and the acquisition and disposal of assets by the Corporation during the year have been in accordance with the provisions of this Act and the Constitution.
+
+[11/1991 wef 30/11/1991]
 
 [22
 
 ### Presentation of financial statements
 
-22\.—(1) A copy of the audited financial statements signed by the Chairman and the chief financial officer, and certified by the Corporation’s auditor, together with a copy of any report made by the auditor, shall be submitted to the Minister not later than 31st October in each year.
+22\.—(1) A copy of the audited financial statements signed by the Chairman and the chief financial officer, and certified by the Corporation’s auditor, together with a copy of any report made by the auditor, shall be submitted to the Minister and the President not later than 31st October in each year.
 
 [29/74]
 
 [11/78]
+
+[11/1991 wef 30/11/1991]
 
 (2) Where the Auditor-General has not been appointed to be the auditor of the Corporation a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time as they are submitted to the Minister.
 
@@ -556,9 +574,11 @@ and may, with the like approval, fix such rates of interest and such terms, cond
 
 ### Transfer of sums from one item to another
 
-25\. Notwithstanding any of the provisions of this Act, the Corporation may transfer all or any part of moneys assigned to one item of expenditure to another item under the same head of expenditure in a budget approved by the Minister.
+25\. Notwithstanding any of the provisions of this Act, the Corporation may transfer all or any part of moneys assigned to one item of expenditure to another item under the same head of expenditure in a budget approved by the Minister and the President.
 
 [26
+
+[11/1991 wef 30/11/1991]
 
 ### Investment
 
@@ -1330,3 +1350,7 @@ This Legislative History is provided for the convenience of users of the Jurong 
 ||Date of commencement|19 September 1986|
 |11.|**1985 Revised Edition—Jurong Town Corporation Act**|
 ||Date of operation|30 March 1987|
+|12.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991 (Bill No. 4/91 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
