@@ -84,6 +84,8 @@
 
 - [30 Supply of false or misleading information to Registrar, etc.](#Supply-of-false-or-misleading-information-to-Registrar-etc)
 
+- [30A Jurisdiction of District Court](#Jurisdiction-of-District-Court)
+
 [**Part VI MISCELLANEOUS**](#Part-VI)
 
 - [31 Register of donations](#Register-of-donations)
@@ -802,6 +804,12 @@ any document or other record relating to the financial affairs or transactions o
 
 (3) Any person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+### Jurisdiction of District Court
+
+30A\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[9/2003 wef 16/05/2003]
+
 ## PART VI
 
 MISCELLANEOUS
@@ -910,7 +918,7 @@ This Legislative History is provided for the convenience of users of the Politic
 ||Date of First Reading|9.5.2000|
 |||(Bill No. 15/2000 published on 10.5.2000)|
 ||Date of Second and Third Readings|22.5.2000|
-||Date of commencement|15.5.2001|
+||Date of commencement|15.2.2001|
 |2.|**Act 19 of 2001—Parliamentary Elections (Amendment) Act 2001**|
 ||Date of First Reading|16.3.2001|
 |||(Bill No. 20/2001 published on 17.3.2001)|
@@ -918,6 +926,11 @@ This Legislative History is provided for the convenience of users of the Politic
 ||Date of commencement|15.5.2001|
 |3.|**2001 Revised Edition—Political Donations Act**|
 ||Date of operation|31 December 2001|
+|4.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 16 May 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
 ## COMPARATIVE TABLE
 
 Political Donations Act
