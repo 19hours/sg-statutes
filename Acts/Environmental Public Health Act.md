@@ -16,7 +16,7 @@
 
 - [3 Appointment of Director-General and authorised officers](#Appointment-of-Director-General-and-authorised-officers)
 
-- [4 (Repealed)](#Repealed)
+- [4 Delegation of power by Director-General](#Delegation-of-power-by-Director-General)
 
 [**Part III PUBLIC CLEANSING**](#Part-III)
 
@@ -68,7 +68,7 @@
 
 - [21D Variation and revocation of corrective work order](#Variation-and-revocation-of-corrective-work-order)
 
-- [21E Interpretation](#Interpretation)
+- [21E Interpretation of sections 21 to 21D](#Interpretation-of-sections-21-to-21D)
 
 [**Disposal Facilities**](#Disposal-Facilities)
 
@@ -158,7 +158,7 @@
 
 - [58 Drains, etc., to be kept in order at cost of owners](#Drains-etc-to-be-kept-in-order-at-cost-of-owners)
 
-- [59 Restriction on construction of wells](#Restriction-on-construction-of-wells)
+- [59 Restriction on construction of wells, etc.](#Restriction-on-construction-of-wells-etc)
 
 [**General Health Requirements for Buildings**](#General-Health-Requirements-for-Buildings)
 
@@ -210,77 +210,75 @@
 
 - [80 Regulations on standard of quality, etc., of water supplied](#Regulations-on-standard-of-quality-etc-of-water-supplied)
 
-[**Part X MISCELLANEOUS**](#Part-X)
+[**Part X ENFORCEMENT**](#Part-X)
 
 - [81 Power to enter upon lands for purposes of Act](#Power-to-enter-upon-lands-for-purposes-of-Act)
 
-- [82 Protection from personal liability](#Protection-from-personal-liability)
+- [82 Penalty for obstruction](#Penalty-for-obstruction)
 
-- [83 Penalty for obstruction](#Penalty-for-obstruction)
+- [83 Director-General may act in cases of emergency](#Director-General-may-act-in-cases-of-emergency)
 
-- [84 Director-General may act in cases of emergency](#Director-General-may-act-in-cases-of-emergency)
+- [84 Appeal to Minister against notice, order or decision](#Appeal-to-Minister-against-notice-order-or-decision)
 
-- [85 Damage to property of Agency to be made good in addition to penalty](#Damage-to-property-of-Agency-to-be-made-good-in-addition-to-penalty)
+- [85 Default in compliance with notice](#Default-in-compliance-with-notice)
 
-- [86 Service of summons, notice, etc.](#Service-of-summons-notice-etc)
+- [86 Authorised officers may demand names and addresses in certain cases](#Authorised-officers-may-demand-names-and-addresses-in-certain-cases)
 
-- [87 Appeal to Minister against notice, order or decision](#Appeal-to-Minister-against-notice-order-or-decision)
+- [87 Power of investigating offences under sections 20 and 23](#Power-of-investigating-offences-under-sections-20-and-23)
 
-- [88 Default in compliance with notice](#Default-in-compliance-with-notice)
+- [88 Powers of arrest](#Powers-of-arrest)
 
-- [89 Compensation, damages and costs to be determined by Magistrate’s Court or District Court](#Compensation-damages-and-costs-to-be-determined-by-Magistrate’s-Court-or-District-Court)
+[**Part XI COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES**](#Part-XI)
 
-- [89A Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
+- [89 Compensation, damages, fees, costs and expenses to be determined by Magistrate’s Court or District Court](#Compensation-damages-fees-costs-and-expenses-to-be-determined-by-Magistrate’s-Court-or-District-Court)
 
-- [90 Exemption of agent who has no funds in hand](#Exemption-of-agent-who-has-no-funds-in-hand)
+- [90 Damage to property of Agency to be made good in addition to penalty](#Damage-to-property-of-Agency-to-be-made-good-in-addition-to-penalty)
 
-- [91 Recovery of costs and expenses payable by owners](#Recovery-of-costs-and-expenses-payable-by-owners)
+- [91 Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
 
-- [92 Recovery of costs and expenses by instalments](#Recovery-of-costs-and-expenses-by-instalments)
+- [92 Recovery of costs and expenses payable by owners](#Recovery-of-costs-and-expenses-payable-by-owners)
 
-- [93 Liability of transferor of property in respect of costs and expenses incurred by Director-General](#Liability-of-transferor-of-property-in-respect-of-costs-and-expenses-incurred-by-Director-General)
+- [93 Recovery of costs and expenses by instalments](#Recovery-of-costs-and-expenses-by-instalments)
 
-- [94 Licences](#Licences)
+- [94 Liability of transferor of property in respect of costs and expenses incurred by Director-General](#Liability-of-transferor-of-property-in-respect-of-costs-and-expenses-incurred-by-Director-General)
 
-- [95 Receipts and notices may be given by officer authorised thereunto](#Receipts-and-notices-may-be-given-by-officer-authorised-thereunto)
+- [95 Limitation of liability to fines and penalties](#Limitation-of-liability-to-fines-and-penalties)
 
-- [96 Authorised officers may demand names and addresses in certain cases](#Authorised-officers-may-demand-names-and-addresses-in-certain-cases)
+[**Part XII MISCELLANEOUS PROVISIONS**](#Part-XII)
 
-- [97 Power of investigating offences under sections 20 and 23](#Power-of-investigating-offences-under-sections-20-and-23)
+- [96 Protection from personal liability](#Protection-from-personal-liability)
 
-- [98 Furnishing of information required by Director-General](#Furnishing-of-information-required-by-Director-General)
+- [97 Exemption of agent who has no funds in hand](#Exemption-of-agent-who-has-no-funds-in-hand)
 
-- [99 Powers of arrest](#Powers-of-arrest)
+- [98 Service of summons, notice, etc.](#Service-of-summons-notice-etc)
 
-- [100 (Repealed)](#Repealed)
+- [99 Licences](#Licences)
 
-- [101 Saving of prosecutions under other laws](#Saving-of-prosecutions-under-other-laws)
+- [100 Receipts, notices, etc. may be given by authorised officer](#Receipts-notices-etc-may-be-given-by-authorised-officer)
 
-- [102 Limitation of liability to fines and penalties](#Limitation-of-liability-to-fines-and-penalties)
+- [101 Furnishing of information required by Director-General](#Furnishing-of-information-required-by-Director-General)
+
+- [102 Saving of prosecutions under other laws](#Saving-of-prosecutions-under-other-laws)
 
 - [103 General penalties](#General-penalties)
 
 - [104 Composition of offences](#Composition-of-offences)
 
-- [105 (Repealed)](#Repealed)
+- [105 Inaccuracies in documents](#Inaccuracies-in-documents)
 
-- [106 (Repealed)](#Repealed)
+- [106 Jurisdiction of court](#Jurisdiction-of-court)
 
-- [107 Inaccuracies in documents](#Inaccuracies-in-documents)
+- [107 Evidence](#Evidence)
 
-- [108 Jurisdiction of District and Magistrate’s Courts](#Jurisdiction-of-District-and-Magistrate’s-Courts)
+- [108 Forms](#Forms)
 
-- [109 Evidence](#Evidence)
+- [109 Amendment of Schedules](#Amendment-of-Schedules)
 
-- [110 Forms](#Forms)
+- [110 Exemption](#Exemption)
 
-- [111 Amendment of Schedules](#Amendment-of-Schedules)
+- [111 Regulations](#Regulations)
 
-- [112 Exemption](#Exemption)
-
-- [113 Regulations](#Regulations)
-
-- [114 Transitional provision](#Transitional-provision)
+- [112 Transitional provision](#Transitional-provision)
 
 [**FIRST SCHEDULE Description of Purposes for Use of Food Establishments to Which Section 32 Applies**](#FIRST-SCHEDULE-Description-of-Purposes-for-Use-of-Food-Establishments-to-Which-Section-32-Applies)
 
@@ -300,11 +298,11 @@
 
 (Original Enactment: Act 14 of 1987)
 
-REVISED EDITION 1999
+REVISED EDITION 2002
 
-(1st August 1999)
+(31st December 2002)
 
-An Act to consolidate the law relating to environmental public health and to provide for matters connected therewith.
+An Act to suppress common betting-houses, betting in public places and bookmaking.
 
 [1st July 1987]
 
@@ -314,177 +312,83 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the Environmental Public Health Act.
+1\. This Act may be cited as the Betting Act.
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires —
+2\.—(1) In this Act, unless there is something repugnant in the subject or context —
 
-“Agency” means the National Environment Agency established under the National Environment Agency Act 2002;
+“access” includes access through the telephone, by post or by telegram;
 
-[4/2002 wef 01/07/2002]
+“betting information centre” means any place kept or used for receiving or transmitting by telephone or other means any information relating to any horse-race or other sporting event for the purpose of betting or wagering in contravention of this Act;
 
-“authorised officer” means any person appointed by the Director-General under section 3(2) and (4) to be an authorised officer;
+“bookmaker” means any person who, whether on his own account or as penciller, runner, employee or agent for any other person, receives or negotiates bets or wagers whether on a cash or on a credit basis and whether for money or money’s worth, or who in any manner holds himself out or permits himself to be held out in any manner as a person who receives or negotiates those bets or wagers; but does not include a club, its officers or employees or any other person or organisation operating or conducting a totalisator or parimutuel or any other system or method of cash or credit betting authorised under section 22;
 
-[4/2002 wef 01/07/2002]
+[13/2004 wef 01/05/2004]
 
-“building” includes any house, hut, shed or roofed enclosure, whether used for the purpose of human habitation or otherwise, and any structure, support or foundation connected to the foregoing;
+“common betting-house” means —
 
-“construction site” means any premises on which works of the following description are being or are going to be carried out:
+(a) any place kept or used for betting or wagering on any event or contingency of or relating to any horse-race or other sporting event to which the public or any class of the public has or may have access;
 
-(a) the erection, construction, alteration, repair or maintenance of buildings, structures or roads;
+(b) any place kept or used for habitual betting or wagering on any such event or contingency as aforesaid, whether the public has, or may have, access thereto or not; and
 
-(b) the breaking up or opening of, or boring under, any road or adjacent land in connection with the construction, inspection, maintenance or removal of works;
+(c) any place used by a bookmaker for the purpose of receiving or negotiating bets or wagers on any such event or contingency as aforesaid whether the bets or wagers reach the bookmaker by the hand of the person placing the bet or his agent or the bookmaker’s agent or through the telephone or by post or by telegram or by any other means;
 
-(c) demolition or dredging works; or
+“equipment” has the same meaning as in the Telecommunications Act 1999;
 
-(d) any other work of engineering construction;
+[43/1999 wef 01/12/1999]
 
-“dangerous substance” means —
+“penciller” means a person who helps a bookmaker to keep his accounts or record of bets in connection with horse-races;
 
-(a) aquafortis, vitriol, naphtha benzine, gunpowder, lucifer matches, nitroglycerine and petroleum;
+“place” means any house, office, room or building, and any place or spot, whether open or enclosed, and includes a ship, boat, or other vessel whether afloat or not, and any vehicle;
 
-(b) any explosive within the meaning of the Arms and Explosives Act (Cap. 13);
+“runner” means a person employed by a bookmaker to collect and settle bets either on salary or on commission basis;
 
-(c) any radioactive material within the meaning of the Radiation Protection Act (Cap. 262);
+“sporting event” includes any race, fight, game, sport or exercise;
 
-(d) any substance which owing to its nature, composition or quantity constitutes a danger to property or human life or health; and
+“telecommunication system” has the same meaning as in the Telecommunications Act 1999.
 
-(e) such other substance which the Agency may, with the approval of the Minister, by notification in theGazette, declare to be dangerous substance for the purpose of this Act;
+[8/86]
 
-“Director-General” means the Director-General of Public Health appointed under section 3(1);
+[43/1999 wef 01/12/1999]
 
-[4/2002 wef 01/07/2002]
+(2) A place shall be deemed to be used for a purpose if it is used for that purpose on only one occasion.
 
-“disposal facility” includes a recycling facility, a refuse disposal ground, any place used for the deposit of refuse or waste, an incinerator or any plant, machinery or apparatus used for the processing or treatment of refuse or waste;
+(3) A place shall be deemed to be used for habitual betting or wagering if betting or wagering is frequently carried on therein, notwithstanding that betting or wagering is not the primary purpose for which that place is normally used.
 
-“dwelling-house” includes any building or tenement or any part thereof which is used, constructed or adapted for use for human habitation;
+(4) Every person who demises or lets for hire a place shall be deemed to be the owner thereof.
 
-“flat” means a horizontal stratum of any building or part thereof, whether such stratum is on one or more levels or is partially or wholly below the surface of the ground, which is used or intended to be used as a complete and separate unit for the purpose of habitation or business or for any other purpose, and which may be comprised in a “lot”, or in part of any “subdivided building” not shown in a registered “strata title plan” (the last 3 expressions within quotation marks having the same meaning as in the Land Titles (Strata) Act (Cap. 158));
-
-“food” includes drink, chewing gum and other products of a like nature and use, and articles and substances used as ingredients in the preparation of food or drink or of such products, but does not include —
-
-(a) live animals or birds;
-
-(b) fodder or feeding stuffs for animals, birds or fish; or
-
-(c) articles or substances used only as drugs;
-
-“food establishment” means any place or any premises or part thereof used for the sale, or for the preparation or manufacture for sale, or for the storage or packing for sale, of food, whether cooked or not, intended for human consumption;
-
-“footway” includes footways and verandah-ways at the sides of streets;
-
-“funeral parlour” means any premises where corpses are received for the purpose of preparation for burial or cremation or for the carrying out of funeral rites or ceremonies prior to burial or cremation, and includes any premises used for such purpose by whatever name called;
-
-“garden refuse” means the refuse from garden and agricultural operations;
-
-“house” includes dwelling-house, warehouse, office, shop, school and any other building in which persons are employed;
-
-“industrial waste” means any waste whether solid, liquid or gaseous produced in the course of or is the waste product of any trade, business, manufacture or building construction, and includes toxic industrial waste and any dangerous substance;
-
-“infectious diseases” means —
-
-(a) any disease set out in the First or Second Schedule to the Infectious Diseases Act (Cap. 137); and
-
-(b) any skin disease which is likely to be contagious;
-
-“itinerant hawker” means any person who, with or without a vehicle, goes from place to place or from house to house carrying for sale or exposing for sale any food or goods of any kind;
-
-“latrine” includes bucket latrines, bore-hole latrines, water-seal latrines and pit-latrines;
-
-“market” means any place used for the sale of any meat, fish, fruit, vegetable, poultry, egg or other article of food, whether cooked or uncooked, for human consumption, and includes any premises therein used for the sale of goods or in any way used in conjunction or connection therewith or appurtenant thereto;
-
-“nuisance” means any act, omission or thing occasioning or likely to occasion injury, annoyance, offence, harm, danger or damage to the sense of sight, smell or hearing, or which is or is likely to be injurious or dangerous to health or property;
-
-“occupier” means the person in occupation of any premises or having the charge, management or control thereof either on his own account or as agent of another person, but does not include a lodger; and, in relation to any part of any premises, different parts of which are occupied by different persons, means the person in occupation or having the charge, management or control of that part;
-
-“operator”, in relation to a public service vehicle, means the owner, ticket conductor, driver, ticket inspector or person who is in charge or in control of the public service vehicle;
-
-“owner”, in relation to —
-
-(a) any premises, means the person for the time being receiving the rent of the premises, whether on his own account or as agent or trustee or as receiver, or who would receive the rent if the premises were let to a tenant, and includes the person whose name is entered in the Valuation List authenticated under section 15 of the Property Tax Act (Cap. 254);
-
-(b) any premises where building works are carried out, includes the developer; and
-
-(c) the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the management corporation having control of the building, and a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Land Titles (Strata) Act (Cap. 158) and a liquidator appointed pursuant to that Act for that management corporation;
-
-“place of public resort” means a building or a defined or enclosed place used or constructed or adapted to be used either ordinarily or occasionally as a church, mosque, temple or other place where public worship is or religious ceremonies are performed, not being merely a dwelling-house so used, or as a cinema, theatre, public hall, or as a public place of assembly for persons admitted thereto by ticket or otherwise, or used or constructed or adapted to be used either ordinarily or occasionally for any other public purpose;
-
-“premises” means messuages, buildings, lands, easements and hereditaments of any tenure, whether open or enclosed, whether built on or not, whether public or private, and whether maintained or not under statutory authority, and includes any place or structure, or any part thereof used or intended to be used for human habitation or for any other purpose whatsoever;
-
-“private market” means a market other than a public market;
-
-“private street” means any street not being a public street;
-
-“public market” means a market owned, leased or maintained by the Government;
-
-“public place” includes any place whether privately owned or not to which the public has access;
-
-“public service vehicle” has the same meaning as in the Road Traffic Act (Cap. 276);
-
-“public street” means any street over which the public has a right of way and any street vested in the Government;
-
-“public waste collector licensee” means a person designated by the Director-General under section 31(3);
-
-“recycling facility” means any premises used for the sorting, segregation, processing or treatment of refuse, waste or any other material or thing for the primary purpose of recycling or reuse;
-
-“sale” includes barter, exchange, import and export and also includes offering or attempting to sell, or causing or allowing to be sold, or exposing for sale, or receiving or sending or delivering for sale, or supplying any food, drink or goods where consideration is to be received by the supplier for such supply either specifically or as part of a service contracted for, or having in possession for sale or having in possession any food, drink or goods knowing that the same is likely to be sold or offered or exposed for sale and “sell” shall be construed accordingly;
-
-“sanitary conveniences” includes latrines, toilets, urinals and water-closets;
-
-“showboard” includes showcase and any description of container used for the display of any article or thing;
-
-“stable refuse” means the dung or urine of birds, poultry or animals and the sweepings or refuse or drainage from any stables or cattle-sheds or places for keeping animals, birds or poultry;
-
-“stall” means any table, shed, showboard, vehicle or receptacle or any other means used or intended to be used for the purpose of selling food or goods of any kind and includes any structure affixed thereto by way of roof, support or flooring;
-
-“street” includes any road, flyover, square, footway, back-lane or passage, whether a thoroughfare or not, over which the public has a right of way, and also the way over any public bridge, and also includes any road, car park, field, grass verge, footway or passage, open court or open alley used or intended to be used as a means of access to 2 or more holdings, whether the public has a right of way thereover or not; and all channels, drains, ditches and reserves at the side of any street shall be deemed to be part of the street;
-
-“swimming pool” means any swimming pool —
-
-(a) to which the public has access, whether or not admission is gained by payment; and
-
-(b) managed, operated or run by any hotel, club, association or other organisation;
-
-“toilet” means a facility for urinating and defecating which is water flushed, and which connects, directly or otherwise, with a private sewage disposal system or with the public sewage disposal system;
-
-“toxic industrial waste” means any industrial waste which owing to its nature, composition or quantity constitutes a danger to human health or the environment or which contains or may produce pathogens of transmissible diseases;
-
-“vehicle” means any vehicle whether mechanically propelled or otherwise and includes a barrow and a cart;
-
-“waste” includes —
-
-(a) any substance which constitutes a scrap material or an effluent or other unwanted surplus substance arising from the application of any process; and
-
-(b) any substance or article which requires to be disposed of as being broken, worn out, contaminated or otherwise spoiled,
-
-and anything which is discarded or otherwise dealt with as if it were waste shall be presumed to be waste unless the contrary is proved;
-
-“waste collector licensee” means any person who is licensed under section 31 to collect and remove refuse and waste;
-
-“waste disposal licensee” means any person who is licensed under section 23 to construct, establish, maintain or operate any disposal facility;
-
-“work place” means any premises or place used for any industrial, trade, commercial or manufacturing purposes and includes all construction sites, work sites and farms.
-
-[2/96; 22/99]
+(5) A common betting-house shall be deemed to be a common nuisance and contrary to law.
 
 ## PART II
 
 ADMINISTRATION
 
-### Appointment of Director-General and authorised officers
+### Offences relating to common betting-houses and betting information centres
 
-3\.—(1) The Minister may, by notification in theGazette, appoint any person to be the Director-General of Public Health who shall be responsible for the administration of this Act and any other written law, subject to the general or special directions of the Minister.
+3\.—(1) Any person who —
 
-(2) The Director-General may in writing appoint any public officer or any officer of the Agency or of any statutory authority to be an authorised officer for the purposes of this Act and any regulations made thereunder.
+(a) being the owner or occupier, or having the use temporarily or otherwise thereof, keeps or uses a place as a common betting-house or betting information centre;
 
-(3) The Director-General may, with the approval of the Minister, delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act or any regulations made thereunder to any authorised officer, subject to such conditions or limitations as the Director-General may specify.
+(b) permits a place of which he is the owner or occupier or of which he has the use temporarily or otherwise, to be kept or used as a common betting-house or betting information centre;
 
-(4) The Director-General may, with the approval of the Minister, appoint any person set out in the first column of the Fourth Schedule as authorised officer for the purposes of exercising all or any of the powers under this Act and any regulations made thereunder that are set out in the second column of that Schedule, subject to such conditions or limitations as the Director-General may specify.
+(c) has the care or management of or in any manner assists in the management or in the business of, a place kept or used as a common betting-house or betting information centre;
 
-[4/2002 wef 01/07/2002]
+(d) receives directly or indirectly any money or valuable thing, for or in respect of any bet or wager on any such event or contingency, as is mentioned in this Act, in a common betting-house or betting information centre; or
 
-4\. [Repealed by Act 4/2002 wef 01/07/2002]
+(e) announces, exhibits or publishes, or causes to be announced, exhibited or published, either orally or by means of any letter, circular, telegram, placard, handbill, card, print, writing, design, sign, advertisement or otherwise that a place is opened, kept or used as a common betting-house or betting information centre within or without Singapore, or in any other manner invites or solicits any person to commit a breach of any of the provisions of this Act,
+
+shall be guilty of an offence and shall be liable on conviction to a fine of not less than $20,000 and not more than $200,000 and shall also be punished with imprisonment for a term not exceeding 5 years.
+
+[8/86]
+
+(2) Any person who occupies or has the use temporarily of a place which is kept or used by another person as a common betting-house or betting information centre shall be presumed until the contrary is proved to have permitted that place to be so kept or used.
+
+### Advancing money for conducting business of common betting-house
+
+4\. Any person who advances or furnishes money for the purpose of establishing or conducting the business of a common betting-house shall be guilty of an offence and shall be liable on conviction to a fine of not less than $10,000 and not more than $100,000 and shall also be punished with imprisonment for a term not exceeding 5 years.
+
+[8/86]
 
 ## PART III
 
@@ -492,267 +396,155 @@ PUBLIC CLEANSING
 
 Cleaning of Streets
 
-### Director-General to cause public streets to be cleansed
+### Betting in a common betting-house
 
-5\. The Director-General shall cause public streets, including the footways thereof, to be properly swept and cleansed and watered so far as is reasonably practicable, and refuse and filth of every sort found thereon to be collected and removed.
+5\.—(1) Except as permitted by an exemption under section 22, any person who bets or wagers in a common betting-house, or with a bookmaker in any place or by any means, or who for the purpose of betting or wagering loiters in any place to which the public has or may have access shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-### Duty of owner and occupier to keep clean private streets, etc., abutting on their premises
+[8/86]
 
-6\.—(1) The owner and the occupier of any premises abutting upon any private street to which they have access or the right of access from such premises shall cause such portion of the street as fronts, adjoins or abuts on their premises and up to the centre thereof including the footways to be properly swept and cleansed and watered so far as is reasonably practicable, and refuse and filth of every sort found thereon to be collected and removed.
+(2) A person found in a common betting-house, or found escaping therefrom on the occasion of its being entered under this Act shall be presumed, until the contrary is proved, to be or to have been betting or wagering therein.
 
-(2) The owner and the occupier of any premises shall cause the immediate vicinity of such premises, including the footways and backyards abutting thereon, and the airwells, courtyards and quadrangles thereof to be kept clean and free of refuse, filth or other matter or any accumulation of water.
+(3) Any person who —
 
-(3) The Director-General may, by notice in writing, require any person upon whom any duty is cast under subsection (1) or (2) to sweep and cleanse and water such street and to collect and remove the refuse, filth and other matter found thereon at such time or times as are stated in the notice.
+(a) acts as a bookmaker in any place;
 
-### Dustbins in streets
+(b) for the purpose of bookmaking or settling bets loiters in any common betting-house or in any place to which the public has or may have access; or
 
-7\.—(1) The Director-General may cause any number of dustbins or other convenient receptacles wherein refuse may be temporarily deposited to be provided and placed in proper and convenient locations in public streets and private streets and in such other places as he may think fit, and may cause vehicles to go round to collect the refuse.
+(c) assists, by giving warning or otherwise, any person committing an offence under this Act to evade arrest or detection,
 
-(2) No person shall deposit, or cause or permit to be deposited any dung, nightsoil, human excreta, industrial waste, stable refuse or garden refuse in any such dustbin or receptacle, except that such garden refuse comprising grass, small twigs and the like as may be reasonably accommodated in those dustbins or receptacles may be placed therein.
+shall be guilty of an offence and shall be liable on conviction to a fine of not less than $20,000 and not more than $200,000 and shall also be punished with imprisonment for a term not exceeding 5 years.
+
+(4) When any person is convicted of an offence under this section all books, accounts, documents, telegrams, writings, circulars, cards or other articles used as a subject or means of betting or wagering, or in connection therewith, and all moneys or securities for money found in his possession which a Magistrate’s Court or District Court is of opinion were used or intended to be used for betting or wagering shall be declared by that Court to be forfeited to the State and shall be dealt with accordingly.
+
+(5) An offence under subsection (3) shall be a non-bailable seizable offence and any person making an arrest for such an offence may seize and detain any articles liable to be forfeited.
+
+(6) Notwithstanding anything to the contrary in section 352 of the Criminal Procedure Code [Cap. 68] a police officer shall have power to release on bail a person accused of an offence under subsection (3).
+
+[21/73]
+
+### Penalty for unlawful announcement of information on horse-race, etc.
+
+6\. Any person who for the purpose of betting or wagering in contravention of this Act announces or publishes or causes to be announced or published in any manner information relating to any horse-race or other sporting event shall be guilty of an offence and shall be liable on conviction to a fine of not less than $5,000 and not more than $50,000 and shall also be punished with imprisonment for a term not exceeding 2 years.
+
+[8/86]
+
+### Money paid recoverable
+
+7\.—(1) Any money or valuable thing received by any person convicted under section 5(3) as a deposit on or in settlement of any bet or wager shall be deemed to have been received to or for the use of the person from whom it was received.
+
+(2) Such money or valuable thing, or the value thereof, may be recovered accordingly with full costs of suit in any court of competent jurisdiction.
 
 Removal of Refuse
 
-### Director-General may apply systems for collection and removal of refuse, etc.
+### Presumption against person accepting or receiving stakes, etc.
 
-8\.—(1) The Director-General may at any time apply to all premises within such area as he may determine any system which he thinks fit for the collection and removal of refuse and waste of every description from those premises.
+8\.—(1) Any person accepting or receiving bets, stakes or wagers or found in possession of any books, accounts, documents, telegrams, writings, circulars, cards or other articles which are used or appear to have been used or intended to be used in connection with or which relate or appear to relate to the business of a bookmaker shall be presumed until the contrary is proved to be acting as a bookmaker.
 
-[2/96]
+(2) Any person who settles or pays money or money’s worth in respect of bets or wagers relating to a horse-race or any other kind of race shall also be presumed until the contrary is proved to be acting as a bookmaker.
 
-(2) In any area to which a system for the collection and removal of refuse and waste is applied under subsection (1) —
+### Presumptions
 
-(a) no person other than a waste collector licensee whose specified area in its licence includes premises in the area shall collect or remove any refuse or waste; and
+9\.—(1) Where in any proceedings under this Act it is proved that any place entered under this Act was provided with 3 or more telephones or telephone lines and —
 
-(b) every occupier of such premises as the Director-General may designate in the area shall use the service of collecting and removing refuse or waste provided by a public waste collector licensee whose specified area in its licence includes those designated premises.
+(a) was installed with any telecommunication system or equipment which was arranged in such a manner as to suggest that it is or was being used for the receiving or transmitting of any information relating to any horse-race or other sporting event notwithstanding that such telecommunication system or equipment has been disconnected or tampered with;
 
-[2/96]
+(b) any person found in a place so entered was erasing, tampering with or destroying any writing, sign, mark or symbol relating to the results or dividends payable on any horse-race or other sporting event; or
 
-### Removal of industrial waste, stable refuse, etc.
+(c) two or more telephone calls were received at any such place enquiring about the results, commentary or dividends payable on any horse-race or other sporting event,
 
-9\.—(1) The Director-General may, by notice in writing, require any person carrying on a trade, manufacture or business or occupying any stable, cattle-shed or place for keeping sheep, goats, swine or poultry, to remove periodically industrial waste or stable refuse to a disposal facility for disposal.
+it shall be presumed, until the contrary is proved, that the place is a betting information centre and that it is so kept, used or permitted to be used by the owner or occupier thereof, and that any other person found in such place is assisting in the business of the betting information centre.
 
-(2) Any person upon whom a notice has been served under subsection (1) shall, if so required by the Director-General, furnish evidence that he has complied with the notice.
+[8/86]
 
-### Director-General may require owner and occupier to provide dustbins and refuse bins, etc.
+(2) Where in any proceedings under this Act it is proved that —
 
-10\.—(1) The Director-General may, by notice in writing, require the owner or occupier of any premises to provide, construct or reconstruct at the expense of the owner or occupier and within such period as may be specified in the notice —
+(a) any document or thing designed, adapted, or intended for use or used for the purpose of betting or wagering was found in any place entered under this Act or upon any person found in such place;
 
-(a) dustbins or other convenient receptacles, which shall conform to such specifications as the Director-General may require, to be placed in appropriate locations within the premises of the owner or occupier as the Director-General thinks fit for the deposit of refuse and rubbish from those premises; and
+(b) any person found in a place entered under this Act was erasing, tampering with or destroying any writing, sign, mark or symbol relating to bets or wagers on any horse-race or other sporting event; or
 
-(b) refuse bin centres or refuse bin compartments, which shall conform to such specifications as the Director-General may require, to be sited in appropriate situations within the premises as the Director-General thinks fit, and wherein or whereon shall be placed the dustbins and other receptacles referred to in paragraph (a).
+(c) two or more telephone calls were received at any place entered under this Act and the calls relate to the receiving or negotiating of bets or wagers or to any results, commentary or dividends payable on any horse-race or other sporting event,
 
-(2) Where any dustbins or receptacles have been provided under subsection (1), the Director-General may, by notice in writing, require the owner or occupier of any premises concerned to convey as often as may be necessary refuse from such premises to a disposal facility.
+it shall be presumed, until the contrary is proved, that the place is a common betting-house and that it is so kept, used or permitted to be used by the owner or occupier thereof, and that any other person found in such place in possession of any such document or thing as is referred to in paragraph (a) is assisting in the management of such common betting-house.
 
-### Maintenance of refuse lifts and chutes and chute chambers in buildings
+### Court to make order for demolition of structural contrivances for facilitating betting
 
-11\.—(1) The owner of a building or part thereof served by a refuse lift which is wholly or partly used for the conveyance of refuse or by a refuse chute or chute chamber shall be responsible for the maintenance, repair or replacement of the refuse lift, refuse chute or chute chamber.
+10\. Whenever it appears to the court upon the trial of any offence under this Act that the place in or in respect of which the offence is alleged to have been committed is a common betting-house and that the place is fitted or provided with any of the means or contrivances mentioned in section 9, the court shall order the demolition and destruction of such of them as consist of staircases, doors, partitions, ladders, planks, platforms, posts, palings, bars, bolts and other things which appear to the court to have been specially erected or constructed for the purpose of facilitating the carrying on of betting on the premises.
 
-(2) The Director-General may, by notice in writing, require the owner of a building or part thereof served by a refuse lift, refuse chute and chute chamber to maintain, repair or replace the refuse lift, refuse chute or chute chamber or both, or to change the dimensions of such refuse lift, refuse chute or chute chamber as the Director-General may consider necessary.
+### Search warrant against premises used as common betting-house
 
-### Occupier of house to remove refuse
+11\.—(1) A Magistrate or a police officer not below the rank of assistant superintendent on being satisfied, upon written information, and after any further inquiry which he thinks necessary, that there is good reason to believe that any place is kept or used as a common betting-house may by warrant under his hand or by writing under his hand, as the case may be, authorise any person therein named, or any police officer, with such assistance, and by such force, as is necessary, by night or by day, to enter or go to that place and to search the place and all persons found therein, and to seize all books, documents, telegrams, writings, circulars, cards or other articles reasonably supposed to have been used or intended to be used as a subject or means of betting or wagering, or in connection therewith, and all moneys and securities for money which are found in that place or on any such persons, and also to detain all such persons until they and that place have been searched.
 
-12\.—(1) The occupier of any dwelling-house or premises who —
+(2) If any of the things or circumstances which are by this Act made presumptive evidence of guilt are found in such place, or on any person therein, every person therein shall be arrested and taken before a Magistrate’s Court or District Court to be dealt with according to law.
 
-(a) keeps or allows to be kept otherwise than in some proper receptacle, refuse or any noxious or offensive matter in any part of such house or premises;
+(3) All books, documents, telegrams, writings, circulars, cards or other articles used as a subject or means of betting or wagering, or in connection therewith, and all moneys or securities for money, found in a common betting-house, or on any persons found therein, or escaping therefrom, which a Magistrate’s Court or District Court is of opinion were used or intended to be used for betting or wagering, shall be declared by that Court to be forfeited to the State, and shall be dealt with accordingly.
 
-(b) allows such receptacle to be in a filthy or noxious state; or
+### Search warrant against persons in possession of betting instruments
 
-(c) neglects or fails to remove the refuse or noxious or offensive matter from such receptacle and to cleanse the same,
+12\. A Magistrate or a police officer not below the rank of assistant superintendent on being satisfied upon reasonable information and after any inquiry which he may think necessary, that there is good reason to believe that any books, documents, telegrams, writings, circulars, cards or other articles used as a subject or means of betting or wagering, or in connection therewith, are likely to be found on any person may by warrant under his hand or by writing under his hand, as the case may be, order any police officer to arrest and search that person and if any such article is found upon his person he shall be taken before a Magistrate’s Court or District Court to be dealt with according to law.
 
-shall be guilty of an offence.
+### Arrest and search upon suspicion
 
-(2) The receptacle referred to in subsection (1) shall be placed at such times and places as may be directed by the Director-General.
+13\. Any police officer having reasonable suspicion that such articles as are mentioned in section 12 may be found on any person and having reasonable ground for believing that by delay in reporting the offender may escape, may arrest and search that person himself and if any such article is found upon the person searched the offender shall be taken before a police officer not below the rank of sergeant to be dealt with according to law.
 
-### Prohibition on use of nightsoil or human excreta as manure
+[21/73]
 
-13\.—(1) No land shall be manured with nightsoil or human excreta.
+### Magistrate or police officer may himself enter and search
 
-(2) If any nightsoil or human excreta is found in any place collected in pits or receptacles of any kind such as would in the ordinary course be used for preparing such nightsoil or human excreta for purposes of manuring, this shall be deemed conclusive evidence that the land on which such pits or receptacles are situated or land in the same occupation adjoining or contiguous thereto has been manured with nightsoil or human excreta.
+14\. A Magistrate or a police officer not below the rank of assistant superintendent may himself do what he may under sections 11 and 12 authorise a police officer to do whenever the Magistrate or police officer not below the rank of assistant superintendent is competent to issue a warrant or written authority under those sections respectively and also in any of the following cases:
 
-(3) The owner and the occupier of any land which is manured with nightsoil or human excreta shall both be guilty of an offence.
+(a) if any person has, within the preceding 6 months, been convicted of having kept or used as a common betting-house the place proposed to be entered;
 
-(4) The Director-General may, by notice in writing, require the owner or occupier of such land to remove the nightsoil or receptacles or to fill up such pits, as the case may be.
+(b) if the place proposed to be entered is occupied by a club or society which has not been exempted under section 22 and he has reason to believe that betting or wagering on horse-races, fights, games or sports is frequently carried on there;
 
-[14
+(c) if he has personal knowledge of such facts and circumstances as satisfy him that there are sufficient grounds for a search under section 11; or
 
-### Prohibition on use of nightsoil or human excreta for manuring earth in pots, etc.
+(d) if he receives the required information orally under such circumstances that the object of the search would in his opinion be defeated by the delay necessary for reducing the information to writing to enable a search warrant or written authority to be issued under section 11(1).
 
-14\. No person shall use any nightsoil or human excreta for the purpose of manuring any earth, soil or other substance contained in any pot, box, container or other receptacle.
+### Evidence by police officer to be presumptive evidence
 
-[15
+15\. In all proceedings under this Act any evidence given by a police officer that any book, account, document, telegram, writing, circular, card or other article produced before the court had been used or was intended to be used for betting or wagering, shall, until the contrary is proved, be deemed to be sufficient evidence of the fact.
 
-### Prohibition of cultivation or use of manure or irrigation which is a nuisance
+[21/73]
 
-15\. If at any time it appears to the Director-General that the method of cultivation of any description of crop or the use or storing or method of preparing or dealing with any kind of manure (including prawn dust, prawn shell, chicken droppings and stable refuse) or the irrigation of land in any specific manner in any premises or area is a nuisance, the Director-General may prohibit the method of cultivation or the use or storing or method of preparing or dealing with the manure or the manner of irrigation within such premises or area or may regulate any of the aforesaid by imposing such conditions thereon as the Director-General may think necessary for the prevention of the nuisance.
+### Protection of informers from discovery
 
-[16
+16\.—(1) Subject to this section, no information laid under this Act shall be admitted in evidence in any civil or criminal proceedings whatsoever, and no witness shall be obliged or permitted to disclose the name or address of any informer under this Act or state any matter which might lead to his discovery.
 
-### All refuse, etc., collected to be property of Agency
+(2) If any books, documents or papers which are in evidence or liable to inspection in any civil or criminal proceedings whatsoever contain any entry in which any informer is named or described or which might lead to his discovery, the court shall cause all such entries to be concealed from view or to be obliterated so far as is necessary to protect the informer from discovery but no further.
 
-16\.—(1) All refuse, waste and filth of every sort and any matter or thing collected by the employees, contractors or agents of the Agency from streets, buildings or any premises or place or brought by any person to any public disposal facility shall be the property of the Agency which may sell or dispose of the refuse, waste and filth as it thinks fit.
-
-(2) No person shall without the written permission of the Director-General remove any refuse, waste or filth or any other matter or thing brought into any disposal facility for disposal or treatment.
-
-[17
-
-[2/96]
+(3) If on the trial of any offence under this Act the court, after full inquiry into the case, believes that the informer wilfully made in his information a material statement which he knew or believed to be false or did not believe to be true, the court may require the production of the original information and permit inquiry and require full disclosure concerning the informer.
 
 Offences in respect of Uncleanliness in Public Places
 
-### Prohibition against throwing refuse, etc., in any public place
+### Obstruction of police officers
 
-17\.—(1) No person shall —
+17\. Any person who obstructs any police officer in the exercise of any powers under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
 
-(a) deposit, drop, place or throw any dust, dirt, paper, ash, carcase, refuse, box, barrel, bale or any other article or thing in any public place;
+[8/86]
 
-(b) keep or leave any article or thing whatsoever in any place where it or particles therefrom have passed or are likely to pass into any public place;
+### Examination of offenders
 
-(c) dry any article of food or any other article or thing in any public place;
+18\.—(1) Whenever two or more persons are charged with any offence under this Act, the Magistrate’s Court or District Court may require one or more of them to give evidence as a witness or witnesses for the prosecution.
 
-(d) place, scatter, spill or throw any blood, brine, noxious liquid, swill or any other offensive or filthy matter of any kind in such manner as to run or fall into any public place;
+(2) Any such person who refuses to be sworn or affirmed or to answer any lawful question, shall be dealt with in the same way as witnesses so refusing may by law be dealt with by a Magistrate’s Court or District Court.
 
-(e) beat, clean, shake, sieve or otherwise agitate any ash, hair, feathers, lime, sand, waste paper or other substance in such manner that it is carried or likely to be carried by the wind to any public place;
+(3) Every person so required to give evidence who, in the opinion of the court, makes true and full discovery of all things as to which he is lawfully examined, shall be entitled to receive a certificate of indemnity under the hand of the Magistrate or Judge, as the case may be, stating that he has made a true and full discovery of all things as to which he was examined, and such certificate shall be a bar to all legal proceedings against him in respect of such things as aforesaid.
 
-(f) throw or leave behind any bottle, can, food container, food wrapper, glass, particles of food or any other article or thing in any public place;
+### Binding over on second conviction
 
-(g) spit any substance or expel mucus from the nose upon or onto any street or any public place; or
+19\.—(1) If a person, who has been convicted of an offence under this Act, is again convicted of the same or any other offence under this Act, the Magistrate’s Court or District Court may, in addition to the punishment provided for such offence, make an order requiring him to give security, by bond with one or more sureties, that he will not offend against this Act for such period not exceeding one year, as the court thinks fit to fix.
 
-(h) discard or abandon in any public place any motor vehicle whose registration has been cancelled under section 27 of the Road Traffic Act (Cap. 276), any furniture or any other bulky article.
+(2) Every such order shall be made as nearly as may be in the same manner, and shall have the like effect and consequences as if the order were made under section 74 of the Criminal Procedure Code [Cap. 68].
 
-[2/96; 22/99]
+### Jurisdiction of courts
 
-(2) No person shall drop, deposit or throw any refuse or any other matter or thing in any channel, drain, lake, reservoir, river, stream or watercourse or upon the bank of any of the same or in any part of the sea abutting on the foreshore.
+20\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings under this Act and, notwithstanding anything to the contrary contained in the Criminal Procedure Code, shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
-(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
+[8/86]
 
-[18
+### Stakes
 
-### Building works constituting danger to life, health, etc.
-
-18\. Any person who, during the erection, alteration, construction or demolition of any building or at any time whatsoever, fails to take reasonable precautions to prevent danger to the life, health or well-being of persons using any public place from flying dust or falling fragments or from any other material, thing or substance shall be guilty of an offence.
-
-[19
-
-### Prohibition against dropping, scattering, etc., certain substances in public place
-
-19\.—(1) Any person who —
-
-(a) drops, scatters, spills or throws any noxious liquid, dirt, sand, earth, gravel, clay, loam, manure, refuse, sawdust, shavings, stone, straw or any other similar matter or thing; or
-
-(b) causes or permits any noxious liquid, dirt, sand, earth, gravel, clay, loam, manure, refuse, sawdust, shavings, stone, straw or any other similar matter or thing to be dropped, scattered, spilled or thrown,
-
-in any public place (whether from a moving or stationary vehicle or in any other manner) shall be guilty of an offence.
-
-[22/99]
-
-(2) The Director-General may, by notice in writing, require any person carrying out any construction or earth works to provide or construct any device or facility as the Director-General may think fit for the removal of dirt, earth, sand or other particles from any vehicle used in connection with the construction or earth works.
-
-[22/99]
-
-(3) For the purposes of subsection (1) —
-
-(a) where the matter or thing is dropped, scattered, spilled or thrown from a vehicle, the driver or person having charge or control of the vehicle shall be deemed to have committed the offence, unless the offence is committed by a person other than the driver or person having charge or control of the vehicle and the identity of the person who committed the offence can be established; and
-
-(b) where the driver of a motor vehicle is alleged or is suspected to be guilty of the offence under this section —
-
-(i) the owner of the motor vehicle shall give such information as he may be required to give by a police officer or an authorised officer as to the identity and address of the person who was driving the motor vehicle at or about the time of the alleged offence and such other information as the police officer or authorised officer may require; and
-
-(ii) any other person who was or should have been in charge or in control of the motor vehicle shall, if so required, give any information which it is in his power to give, and which may lead to the identification of the driver.
-
-[22/99]
-
-(4) Any person who fails to comply with subsection (3) (b) (i) or (ii) within 14 days of the date on which the information was required from him shall be guilty of an offence unless he proves to the satisfaction of the court that he did not know and could not with reasonable diligence have ascertained the information required.
-
-[20
-
-[22/99]
-
-### Prohibition against dumping and disposing
-
-20\.—(1) Any person who —
-
-(a) dumps or disposes of any refuse, waste or any other article from a vehicle in a public place; or
-
-(b) uses a vehicle for the purpose of dumping or disposing of any refuse, waste or any other article in a public place,
-
-shall be guilty of an offence.
-
-[22/99]
-
-(2) Any vehicle used in dumping or disposing of refuse, waste or any other article in any public place (other than a disposal facility established with a licence granted by the Director-General under section 23(1) or a public disposal facility) may be seized by any police officer, or any authorised officer, and removed to and detained in any police station or Government depot or other place as may be approved by the Director-General at the risk of the owner for the purposes of proceedings under this Act.
-
-[22/99]
-
-(3) Where, upon an application by the Public Prosecutor, it is proved to the satisfaction of a court that a vehicle seized under subsection (2) has been used in the commission of an offence of dumping or disposing of refuse, waste or any other article in any public place under subsection (1), the court shall make an order for the forfeiture of the vehicle, notwithstanding that no person may have been convicted of that offence.
-
-[22/99]
-
-(4) An order for the forfeiture of a vehicle under subsection (3) may be made by the court before which the prosecution with regard to an offence under subsection (1) has been or will be held.
-
-[22/99]
-
-(5) If there is no prosecution with regard to an offence under subsection (1) —
-
-(a) the vehicle seized under subsection (2) shall be forfeited at the expiry of 3 months from the date of the seizure unless a claim thereto is made before that date; and
-
-(b) any person asserting that he is the owner of such vehicle may personally, or by his agent authorised in writing, give written notice to the Director-General that he claims the vehicle.
-
-[22/99]
-
-(6) Upon receipt of a notice under subsection (5), the Director-General may direct that the vehicle be released or may refer the matter by information to a Magistrate.
-
-[22/99]
-
-(7) The Magistrate shall, on receipt of an information under subsection (6), hold an inquiry and proceed to determine the matter and shall —
-
-(a) on proof that the vehicle was used in the commission of an offence of dumping or disposing of refuse, waste or any other article in any public place under subsection (1), order the vehicle to be forfeited; or
-
-(b) in the absence of such proof, order the vehicle to be released.
-
-[22/99]
-
-(8) No person shall, in any proceedings in any court in respect of the seizure of any vehicle seized in exercise or the purported exercise of any power conferred under subsection (2), be entitled to the costs of such proceedings or to any damages or other relief, other than an order for the return of the vehicle, unless the seizure was made without reasonable or probable cause.
-
-[20A
-
-[22/99]
-
-### Notice to attend Court
-
-21\.—(1) Any person who commits an offence under section 17, 18, 19 or 20 may be arrested without warrant by any police officer or authorised officer, and taken before a Magistrate’s Court or a District Court, as the case may be, and shall be liable on conviction —
-
-(a) in the case of an offence under section 20(1), to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $100,000 and to imprisonment for a term of not less than one month and not more than 12 months;
-
-(b) in the case of an offence under section 17(1) (h), to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both; and
-
-(c) in the case of any other offence, to a fine not exceeding —
-
-(i) in the case of a first conviction, $1,000;
-
-(ii) in the case of a second conviction, $2,000; and
-
-(iii) in the case of a third or subsequent conviction, $5,000.
-
-[22/99]
-
-(2) Notwithstanding subsection (1) or any other written law, any police officer or authorised officer who, having effected an arrest in accordance with this section, is satisfied as to the identity, name and place of residence of the person arrested, may, instead of taking that person before a Court or to a police station, serve upon that person a notice in such form as may be prescribed under section 110 requiring the person to attend at the Court described at the hour and on the date specified in the notice.
-
-(3) For the purpose of satisfying himself as to the identity of the person arrested, the police officer or authorised officer may require the person to furnish such evidence of identity as he may consider necessary.
-
-(4) A duplicate of the notice referred to in subsection (2) shall be prepared by the police officer or authorised officer, as the case may be, and produced by him to the Court, if so required by the Court.
-
-(5) On an accused person appearing before a Court in pursuance of such a notice, the Court shall take cognizance of the offence alleged and shall proceed as though he were produced before it in pursuance of subsection (1).
-
-(6) If a person upon whom a notice under subsection (2) has been served fails to appear before a Court in accordance therewith, the Court shall thereupon issue a warrant for the arrest of that person.
-
-(7) Upon a person arrested in pursuance of a warrant of arrest issued under subsection (6) being produced before a Court, the Court shall —
-
-(a) proceed as though he were produced before it under subsection (1); and
-
-(b) at the conclusion of the proceedings call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him, and if cause is not shown may order him to pay such penalty not exceeding $2,000 as the Court thinks fit or may commit him to prison for a term not exceeding 2 months.
-
-(8) Upon the conviction of any person under subsection (1), the Director-General may, in the manner provided in section 89, recover from the person the costs and expenses incurred by the Director-General in cleaning the public place except that where an offence was committed by any person in the course of his employment, the Director-General may recover the costs and expenses in the manner provided in section 89 from the employer of such person.
-
-(9) This section shall apply, with the necessary modifications, to any person who contravenes any regulations made under this Act in respect of public cleansing.
+21\. Nothing in this Act shall extend to any person receiving or holding any money or valuable thing by way of stakes or deposit to be paid to the winner of any race or lawful sport, game or exercise or to the owner of any horse engaged in a race.
 
 ### Corrective work order
 
@@ -780,7 +572,7 @@ shall be guilty of an offence.
 
 (c) that the Court has under section 21D the power to review the order on the application of the offender or the Director-General.
 
-[32/92]
+[32/92; 4/2002]
 
 (6) The Minister may, by order published in theGazette, amend subsection (2) by varying the maximum number of hours for the time being specified in that subsection.
 
@@ -806,13 +598,17 @@ shall be guilty of an offence.
 
 (4) The Agency may, with the approval of the Minister, make regulations, not inconsistent with the provisions of this section, to make further provisions for the manner in which a corrective work order may be carried out including the imposition of additional requirements and the service of any instructions or notice on a person in respect of whom such an order has been made.
 
-[32/92]
+[32/92; 4/2002]
 
 ### Breach of corrective work order
 
-21C\.—(1) If, at any time while a corrective work order is in force in respect of an offender, it appears to the Court on the application of the Director-General that the offender has failed to comply with any of the requirements of section 21B or any regulations made thereunder (including any failure to perform satisfactorily the work which he has been instructed to do), the Court may issue a summons requiring the offender to appear before the Court at the place and time specified therein, or may issue a warrant for the arrest of the offender.
+21C\.—(1) If, at any time while a corrective work order is in force in respect of an offender, it appears to the Court on the application of the Director-General that the offender has failed to comply with any of the requirements of section 21B or any regulations made thereunder (including any failure to perform satisfactorily the work which he has been instructed to do), the Court may —
 
-[32/92]
+(a) issue a summons requiring the offender to appear before the Court at the place and time specified therein; or
+
+(b) issue a warrant for the arrest of the offender.
+
+[32/92; 4/2002]
 
 (2) If it is proved to the satisfaction of the Court that the offender has failed without reasonable excuse to comply with any of the requirements of section 21B or any regulations made thereunder, the Court may, without prejudice to the continuance of the corrective work order, order him to pay a fine not exceeding $5,000 or may commit him to imprisonment for a term not exceeding 2 months.
 
@@ -830,77 +626,47 @@ shall be guilty of an offence.
 
 (b) extend the period of 12 months referred to in section 21B(2).
 
-[32/92]
+[32/92; 4/2002]
 
 (2) Where such an order is in force and on any such application it appears to the Court that, having regard to such circumstances, it would be in the interests of justice that the order should be revoked or that the offender should be dealt with in some other manner for the offence in respect of which the order was made, the Court may revoke the order or revoke it and deal with the offender as if he had just been convicted of that offence in any manner in which he could have been dealt with for that offence by the Court which made the order had the order not been made.
 
 [32/92]
 
-### Interpretation
+### Interpretation of sections 21 to 21D
 
-21E\. For the purposes of sections 21A, 21B, 21C and 21D —
+21E\. In sections 21, 21A, 21B, 21C and 21D —
 
 “corrective work order” means a corrective work order made by a Court under section 21A;
+
+“Court” means a Magistrate’s Court or a District Court;
 
 “offender” means a person who is 16 years of age or above who is convicted of an offence under section 17 or 19;
 
 “supervision officer” means an authorised officer or any other person as the Agency may, with the approval of the Minister, by notification in theGazette, specify to be a supervision officer for the purpose of supervising the performance of work by an offender under a corrective work order.
 
-[32/92]
+[32/92; 4/2002]
 
 Disposal Facilities
 
-### Provision of public disposal facilities
+### Exemption
 
-22\.—(1) The Director-General may provide, acquire, construct and maintain disposal facilities (referred to in this Act as public disposal facilities) for the deposit, disposal and treatment of refuse or waste as he may consider necessary and may make available the facilities to any person upon payment of any fees or charges as may be prescribed.
+22\.—(1) The Minister may, by notification in theGazette, either generally or in any particular case and subject to such conditions as he may impose, exempt from all or any of the provisions of this Act —
 
-(2) The Director-General may refuse to accept any refuse or waste brought to any public disposal facility without assigning any reason or may accept refuse or waste of such description or kind upon such terms and conditions as he may consider necessary.
+(a) the members and officers of any racing club or association in respect of any totalisator or pari-mutuel betting or any other system or method of cash or credit betting held, promoted, organised, administered or operated by the racing club or association where the betting takes place under the control or supervision of one or more officers of that racing club or association; or
 
-### No disposal facility to be constructed, etc., without licence
+(b) any other person or organisation in respect of any system or method of cash or credit betting held, promoted, organised, administered or operated by the person or organisation where the betting takes place under the control or supervision of that person or organisation.
 
-23\.—(1) No person shall construct, establish, maintain or operate any disposal facility without a waste disposal licence granted by the Director-General under this section.
+[13/2004 wef 01/05/2004]
 
-[2/96]
+(2) Every racing club or association exempted under subsection (1) shall place on the totalisator or pari-mutuel under its control or supervision all bets made under any system of cash or credit betting held, promoted, organised, administered or operated by it.
 
-(2) The Director-General may grant a licence authorising any person to construct, establish, maintain or operate any disposal facility.
+(3) It shall be lawful at any time for any racing club or association exempted under subsection (1) to admit members of the public to its premises when racing takes place on payment of an admission fee or to places under the control or supervision of any one or more of its officers either without payment or on payment of an admission fee.
 
-[2/96]
+(4) Where an admission fee is charged, the admission fee shall be subject to the payment of duty under the Entertainments Duty Act [Cap. 94].
 
-(3) A licence may be granted under this section following a public tender or in such other manner as the Director-General thinks fit.
+### Reward to informer
 
-[2/96]
-
-(4) Except as otherwise prescribed under section 94(5), the Director-General may require any waste disposal licensee to render a payment on the grant of a licence under this section or such periodic payments during the currency of the licence or both of such amount or amounts as the Director-General may determine by or under the licence.
-
-[2/96]
-
-(5) Without prejudice to the generality of section 94(1), conditions attached to a licence granted under this section may include —
-
-(a) a condition requiring the licensee to comply with such standard of service and level of performance as the Director-General may specify;
-
-(b) the right of the Director-General in the public interest to make modifications to any condition of the licence or add new conditions during the period to which the licence relates;
-
-(c) a condition regulating the charge to be levied by the licensee for the provision of the waste disposal facility; and
-
-(d) a condition requiring the licensee not to accept any waste which in the opinion of the Director-General is not suitable for disposal.
-
-[2/96]
-
-(6) The Director-General may by notice in writing require any owner or occupier of any work place to construct, establish, maintain or operate any disposal facility.
-
-[2/96]
-
-(7) Any person using, working or operating a disposal facility shall use, work or operate such facility in such manner as the Director-General may require.
-
-[2/96]
-
-(8) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[2/96; 22/99]
-
-(9) If in any proceedings for a contravention of subsection (1) it is shown that any premises are being used as a disposal facility, it shall be presumed, until the contrary is proved, that the occupier of the premises has constructed, established, maintained or operated the disposal facility.
-
-[2/96]
+23\. The court may direct any fine or any portion of any fine imposed and levied under this Act to be paid to the informer.
 
 Disposal and Treatment of Industrial Waste
 
@@ -908,7 +674,7 @@ Disposal and Treatment of Industrial Waste
 
 24\.—(1) No person shall dispose of or cause or permit to be disposed of industrial waste in or at any place except in or at a public disposal facility or a disposal facility established pursuant to a licence granted by the Director-General under section 23(1).
 
-[2/96]
+[2/96; 4/2002]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 and to imprisonment for a term of not less than one month and not more than 12 months.
 
@@ -924,31 +690,37 @@ Disposal and Treatment of Industrial Waste
 
 26\.—(1) The Director-General may, by notice in writing, require the occupier of any work place to remove periodically industrial waste from such premises to a disposal facility.
 
+[4/2002]
+
 (2) The Director-General may, by notice in writing, require any occupier upon whom a notice has been served under subsection (1) to furnish evidence that the industrial waste from the premises has been disposed of at a disposal facility in accordance with the notice.
+
+[4/2002]
 
 ### Furnishing of information on industrial waste
 
 27\. The Director-General may, by notice in writing from time to time, require the owner or occupier of any work place to furnish him with any information on the amount, type and nature of any industrial waste produced in such place and such other particulars as may be specified in the notice.
 
+[4/2002]
+
 ### Industrial waste brought to disposal facility to be recycled or treated
 
 28\. The Director-General may, by notice in writing, require the occupier of any work place to recycle or treat any industrial waste found or produced in those premises at his own expense before it is brought to any disposal facility for disposal.
 
-[2/96]
+[2/96; 4/2002]
 
 ### Dangerous substance or toxic industrial waste not to be brought to disposal facility without permission
 
 29\.—(1) No person who owns or is in possession of any dangerous substance or toxic industrial waste or the residue from the treatment thereof shall bring or cause to be brought such substance or waste to any disposal facility for disposal without the written permission of the Director-General.
 
-[2/96]
+[2/96; 4/2002]
 
 (2) An application for the written permission referred to in subsection (1) shall be made to the Director-General giving details of the nature and composition of the dangerous substance or toxic industrial waste and the residue thereof.
 
-[2/96]
+[2/96; 4/2002]
 
 (3) In granting the permission under subsection (1), the Director-General may, by notice in writing, require the owner or the person in possession of the dangerous substance or toxic industrial waste to treat such substance or waste at his own expense before it is brought to any disposal facility for disposal.
 
-[2/96]
+[2/96; 4/2002]
 
 (4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -970,29 +742,31 @@ Disposal and Treatment of Industrial Waste
 
 (d) take such other steps as may be necessary to reduce the quantity or toxicity of such waste.
 
+[4/2002]
+
 ### Licensing of persons carrying on business of collecting, removing, etc., of refuse or waste
 
 31\.—(1) No person shall carry on the business of collecting, removing, transporting, storing or importing refuse or waste of any description without a waste collector licence granted by the Director-General under this section.
 
-[2/96]
+[2/96; 4/2002]
 
 (2) The Director-General may grant a licence authorising any person to carry on the business of collecting, removing, transporting, storing or importing refuse or waste of any description.
 
-[2/96]
+[2/96; 4/2002]
 
 (3) The Director-General may designate any person who has been granted a licence under this section as a public waste collector licensee.
 
-[2/96]
+[2/96; 4/2002]
 
 (4) A licence may be granted under this section following a public tender or in such other manner as the Director-General thinks fit.
 
-[2/96]
+[2/96; 4/2002]
 
-(5) Except as otherwise prescribed under section 94(5), the Director-General may require any licensee to render a payment on the grant of a licence under this section or such periodic payments during the currency of the licence or both of such amount or amounts as the Director-General may determine by or under the licence.
+(5) Except as otherwise prescribed under section 99(9), the Director-General may require any licensee to render a payment on the grant of a licence under this section or such periodic payments during the currency of the licence or both of such amount or amounts as the Director-General may determine by or under the licence.
 
-[2/96]
+[2/96; 4/2002]
 
-(6) Without prejudice to the generality of section 94(1), conditions attached to a licence granted under this section may include —
+(6) Without prejudice to the generality of section 99(1), conditions attached to a licence granted under this section may include —
 
 (a) a condition requiring the licensee to comply with such standard of service and level of performance as the Director-General may specify;
 
@@ -1002,7 +776,7 @@ Disposal and Treatment of Industrial Waste
 
 (d) a condition regulating the charge to be levied by the licensee for the provision of the service of collecting and removing refuse or waste.
 
-[2/96]
+[2/96; 4/2002]
 
 (7) Any person who collects or transports refuse or waste of any description shall ensure that the refuse or waste or liquid from such refuse or waste is not dropped, scattered or spilled onto any public place.
 
@@ -1020,41 +794,79 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 32\.—(1) No person shall operate or use or knowingly permit a food establishment to be used for any of the purposes specified in the First Schedule without first obtaining a licence from the Director-General.
 
+[4/2002]
+
 (2) Upon any conviction under subsection (1), the Director-General may, by order in writing addressed to the convicted person, require that the place or premises or any part thereof where the offence took place shall no longer be operated or used as a food establishment as from such date as the Director-General shall specify in the order.
 
-(3) Where the convicted person fails to comply with any order under subsection (2), the Director-General may take steps or measures as are necessary to ensure that the order is complied with and shall be entitled to recover from that person the costs and expenses incurred by the Director-General in doing so.
+[4/2002]
+
+(3) Where the convicted person fails to comply with any order under subsection (2), the Director-General —
+
+(a) may take steps or measures as are necessary to ensure that the order is complied with; and
+
+(b) shall be entitled to recover from that person the costs and expenses incurred by the Director-General in doing so.
+
+[4/2002]
 
 ### Licensing of hawkers operating from stalls, etc.
 
-33\. No person shall hawk, sell or expose for sale any food or goods of any kind or set up or use any stall, table, showboard, vehicle or receptacle for the purpose of hawking, selling or exposing for sale any food or goods of any kind in any street or part thereof or in any premises or public place without first obtaining a licence from the Director-General.
+33\. No person shall —
+
+(a) hawk, sell or expose for sale any food or goods of any kind; or
+
+(b) set up or use any stall, table, showboard, vehicle or receptacle for the purpose of hawking, selling or exposing for sale any food or goods of any kind,
+
+in any street or part thereof or in any premises or public place without first obtaining a licence from the Director-General.
+
+[4/2002]
 
 ### Licensing of itinerant hawkers
 
 34\.—(1) No person shall act as an itinerant hawker without first obtaining a licence from the Director-General.
 
+[4/2002]
+
 (2) The Director-General may, subject to such conditions as he may think fit, permit licensed itinerant hawkers to occupy stationary positions for such period as he may think fit on such site or sites as may from time to time be approved by him for this purpose.
 
+[4/2002]
+
 (3) The Director-General may prohibit itinerant hawkers from hawking in such place or places as he may think fit.
+
+[4/2002]
 
 ### Director-General may issue temporary permits
 
 35\. No person shall promote, organise or stage any temporary fair, stage show or other such function or activity without first obtaining a permit from the Director-General.
 
+[4/2002]
+
 ### Licences for private markets
 
 36\. No person shall use any building, situation or place as a private market without first obtaining a licence from the Director-General.
+
+[4/2002]
 
 ### Persons with infectious diseases not to carry on business
 
 37\.—(1) The Director-General may require any person to whom a licence has been issued under this Part (referred to in this Act as a licensee) or any assistant or employee of the licensee or any applicant for a licence under this Part to submit to medical examination.
 
+[4/2002]
+
 (2) If such licensee, assistant, employee or applicant is suffering from or is suspected to be suffering from an infectious disease or is suspected to be a carrier thereof, the Director-General may require him to undergo treatment.
+
+[4/2002]
 
 (3) The Director-General may require that treatment to be obtained at any hospital as he may think fit.
 
+[4/2002]
+
 (4) The Director-General may require any licensee or any assistant or employee of the licensee to submit to immunisation against any infectious disease.
 
+[4/2002]
+
 (5) Every licensee shall ensure that his assistant or any person employed by him is immunised against any infectious disease as required by the Director-General.
+
+[4/2002]
 
 (6) The Director-General may, at any time, revoke or suspend any licence issued under this Part if —
 
@@ -1066,11 +878,17 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 (d) the licensee does not comply with subsection (5).
 
+[4/2002]
+
 ### Unauthorised structures
 
 38\.—(1) No licensee, stall-holder or other person shall erect any extension or effect any extension to any stall, shed or other place in or out of any food establishment without the permission of the Director-General or cause any obstruction in any of the passageways or other places therein.
 
+[4/2002]
+
 (2) The Director-General may, by notice in writing, require any person who contravenes subsection (1) to remove any erection, structure or obstruction within a period specified in the notice.
+
+[4/2002]
 
 ### Cleanliness of markets and stalls
 
@@ -1080,9 +898,13 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 (3) Where, in the opinion of the Director-General, a licensee of a private market or a stall-holder has failed to comply with subsection (1) or (2), as the case may be, the Director-General may, by notice in writing, require such licensee, within such period as may be specified therein to take such steps as the Director-General may think fit for the purpose of complying with those subsections.
 
+[4/2002]
+
 ### Articles of food unfit for human consumption
 
 40\.—(1) No person shall, without lawful excuse, have in his possession for sale by retail any article of food intended for human consumption which is unsound or unfit for human consumption.
+
+[4/2002]
 
 (2) The Director-General or an authorised officer may at all reasonable times —
 
@@ -1094,11 +916,19 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 (b) search any cart or vehicle or any basket, sack, bag, parcel or receptacle which he has reasonable grounds for believing to contain for sale by retail articles of food intended for human consumption and may examine any such articles which are therein.
 
+[4/2002]
+
 (3) If it appears to the Director-General or an authorised officer that any such article of food is unsound or unfit for human consumption, the article may be seized by the Director-General or authorised officer.
+
+[4/2002]
 
 (4) Any article of food seized may be kept or stored in the place or premises where it was seized or may at the direction of the Director-General or an authorised officer be removed to any other place or, where the article is likely to decay or is deleterious to health, be destroyed.
 
+[4/2002]
+
 (5) A certificate signed by the Director-General shall be accepted by a Magistrate’s Court as sufficient evidence that any article of food seized was unsound or unfit for human consumption at the time of seizure.
+
+[4/2002]
 
 (6) A person claiming any article of food seized under this section may within 48 hours after the seizure complain thereof to a Magistrate’s Court.
 
@@ -1106,7 +936,11 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 (8) If within 48 hours after such seizure no complaint has been made, or if such seizure is confirmed, every article of food seized shall become the property of the Agency and shall be destroyed or otherwise disposed of so as to prevent the article from being used for human consumption.
 
+[4/2002]
+
 (9) No person shall obstruct the Director-General or an authorised officer in the exercise of his powers under this section or tamper with any article of food kept or stored in any place or premises under subsection (4).
+
+[4/2002]
 
 ### Cleanliness of vehicles, equipment, etc.
 
@@ -1114,33 +948,45 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 (2) The Director-General may, by notice in writing, require any person who uses a vehicle to transport food to use or install in or on the vehicle any device or equipment as he thinks fit to ensure that the food carried in or on the vehicle will not be contaminated.
 
+[4/2002]
+
 ### Notice to attend Court
 
 42\.—(1) Any person who contravenes any of the provisions of this Part shall be guilty of an offence and may be arrested without warrant by any police officer or authorised officer and taken before a Magistrate’s Court and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 3 months or to both.
 
-(2) Notwithstanding subsection (1) or any other written law for the time being in force, any police officer or authorised officer, who, having effected an arrest in accordance with subsection (1), is satisfied as to the identity, name and place of residence of the person arrested, may, instead of taking him before a Court or to a police station serve upon that person a notice in such form as may be prescribed under section 110 requiring him to attend at the Court described at the hour and on the date specified in the notice.
+[4/2002]
+
+(2) Notwithstanding subsection (1) or any other written law for the time being in force, any police officer or authorised officer, who, having effected an arrest in accordance with subsection (1), is satisfied as to the identity, name and place of residence of the person arrested, may, instead of taking him before a Magistrate’s Court or to a police station serve upon that person a notice in such form as may be prescribed under section 108 requiring him to attend at the Court described at the hour and on the date specified in the notice.
+
+[4/2002]
 
 (3) For the purpose of satisfying himself as to the identity of the person arrested, the police officer or authorised officer may require the person arrested to furnish such evidence of identity as he may consider necessary.
 
-(4) A duplicate of the notice served under subsection (2) shall be prepared by the police officer or authorised officer, as the case may be, and produced by him to a Court if so required by the Court.
+[4/2002]
 
-(5) On an accused person appearing before a Court in pursuance of such a notice, the Court shall take cognizance of the offence alleged and shall proceed as though he were produced before it in pursuance of subsection (1).
+(4) A duplicate of the notice served under subsection (2) shall be prepared by the police officer or authorised officer, as the case may be, and produced by him to a Magistrate’s Court if so required by the Court.
 
-(6) If a person upon whom a notice under subsection (2) has been served fails to appear before a Court in accordance with the notice, the Court shall thereupon issue a warrant for the arrest of that person.
+[4/2002]
 
-(7) Upon a person arrested in pursuance of a warrant issued under subsection (6) being produced before it, a Court shall —
+(5) On an accused person appearing before a Magistrate’s Court in pursuance of such a notice, the Court shall take cognizance of the offence alleged and shall proceed as though he were produced before it under subsection (1).
 
-(a) proceed as though he were produced before it in pursuance of subsection (1); and
+(6) If a person upon whom a notice under subsection (2) has been served fails to appear before a Magistrate’s Court in accordance with the notice, the Court shall thereupon issue a warrant for the arrest of that person.
+
+(7) Upon a person arrested in pursuance of a warrant issued under subsection (6) being produced before it, a Magistrate’s Court shall —
+
+(a) proceed as though he were produced before it under subsection (1); and
 
 (b) at the conclusion of the proceedings call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and if cause is not shown may order him to pay such penalty not exceeding $2,000 as the Court may think fit or may commit him to prison for a term not exceeding 2 months.
 
 (8) Any stall, together with any appliances and utensils relating thereto and the food or goods intended or exposed for sale, whether or not they appear to be abandoned, belonging or appearing to belong to or in the possession of a person appearing to be committing or to have committed an offence under this Part may be seized by any police officer or authorised officer and removed to and detained in any police station or such other place as may be approved by the Director-General at the risk of the owner, to abide the directions of a Magistrate’s Court.
 
+[4/2002]
+
 (9) If any money is found, together with any food, articles, appliances or utensils seized under subsection (8), the money shall be deemed to be lawfully seized.
 
 (10) Any money seized under subsection (9) if it is claimed within 48 hours after such seizure by the owner thereof shall be returned to the owner whether or not he is licensed under this Part.
 
-(11) Any cooked or uncooked food or perishable articles or goods, seized and removed under subsection (8) and likely to decay may be disposed of forthwith.
+(11) Any cooked or uncooked food or perishable articles or goods, seized and removed under subsection (8) and likely to decay may be disposed of immediately.
 
 (12) If any abandoned articles or goods so seized and detained, other than cooked or uncooked food or perishable articles or goods already disposed of, are claimed within 48 hours after the seizure by the owner thereof, being a person licensed or otherwise lawfully entitled to set up or sell the articles or goods at the place at which the articles or goods were seized, such abandoned articles or goods shall be returned to him.
 
@@ -1152,9 +998,13 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 (16) If the Magistrate’s Court directs the sale of any article, the proceeds or such part thereof as the Court may think fit shall be paid to the Agency and the balance, if any, paid to the owner.
 
+[4/2002]
+
 (17) The Magistrate’s Court may, on convicting any person for an offence under subsection (1), order any money seized under subsection (9) to be returned to him if he satisfies the Court that he is the owner thereof.
 
 (18) The Magistrate’s Court shall, on convicting any person for an offence under subsection (1) and such person does not satisfy the Court that he is the owner of any money seized under subsection (9) or, on receiving a report in respect of any abandoned money, order such money to be forfeited and paid to the Agency.
+
+[4/2002]
 
 (19) This section shall apply, with the necessary modifications, to any person who contravenes any regulations made under this Act for the control of matters under this Part.
 
@@ -1165,6 +1015,8 @@ PUBLIC NUISANCES
 ### Public nuisances to be abated
 
 43\. The Director-General may take such steps as he may consider necessary to remove or abate all nuisances of a public nature and may, if he considers that the circumstances so warrant, proceed at law against any person committing any such nuisance.
+
+[4/2002]
 
 ### Nuisances liable to be dealt with summarily
 
@@ -1202,6 +1054,8 @@ PUBLIC NUISANCES
 
 45\.—(1) On receipt of any information respecting the existence of a nuisance liable to be dealt with summarily under this Act, the Director-General may, if satisfied of the existence of a nuisance, serve a nuisance order on the person by whose act, default or sufferance the nuisance arises or continues, or if the person cannot be found, on the owner or occupier of the premises on which the nuisance arises.
 
+[4/2002]
+
 (2) A nuisance order may —
 
 (a) require works to be executed or things to be done that are necessary to abate the nuisance;
@@ -1214,9 +1068,15 @@ PUBLIC NUISANCES
 
 (3) A nuisance order shall, if the Director-General thinks it desirable, specify the works to be executed by any person under subsection (2).
 
+[4/2002]
+
 (4) Where the person causing the nuisance cannot be found and it is clear that the nuisance does not arise or continue by the act, default or sufferance of the occupier or the owner of the premises, the Director-General may cause the nuisance to be abated and may do what is necessary to prevent the recurrence of the nuisance.
 
+[4/2002]
+
 (5) Where a nuisance order prohibits a dwelling-house from being used for human habitation, the Director-General may, when satisfied that it has been rendered fit for human habitation, cancel the nuisance order.
+
+[4/2002]
 
 (6) Where a nuisance order prohibiting a dwelling-house from being used for human habitation has not been cancelled, the Director-General, if he is of the opinion that —
 
@@ -1228,13 +1088,19 @@ PUBLIC NUISANCES
 
 may make a complaint to a Magistrate’s Court.
 
+[4/2002]
+
 (7) A Magistrate’s Court after hearing the complaint may make on the owner a summary order for the demolition of such dwelling-house within the time and date specified in such order.
 
 (8) The order may also contain a direction that the materials of the dwelling-house or any part of such materials shall be destroyed.
 
-(9) Where a nuisance order prohibits a dwelling-house from being used for human habitation, the Director-General shall serve notice of the order on every occupier of the dwelling-house and, within such period as is specified in the order not being less than 7 days (except in case of immediate danger) after the service of the order, the order shall be obeyed by him and he and his family shall cease to inhabit the dwelling-house, and in default he shall be guilty of an offence and the Court shall, upon application by the Director-General, make a summary order for his ejectment and the order may be carried into effect by any police officer.
+(9) Where a nuisance order prohibits a dwelling-house from being used for human habitation, the Director-General shall serve notice of the order on every occupier of the dwelling-house.
 
-(10) Any person who fails to comply with a nuisance order served on him under subsection (1) shall be guilty of an offence and shall be liable —
+(10) Within such period as is specified in the order not being less than 7 days (except in case of immediate danger) after the service of the order under subsection (9), the order shall be obeyed by the occupier and he and his family shall cease to inhabit the dwelling-house, and in default he shall be guilty of an offence and the Magistrate’s Court shall, upon application by the Director-General, make a summary order for his ejectment and the order may be carried into effect by any police officer.
+
+[4/2002]
+
+(11) Any person who fails to comply with a nuisance order served on him under subsection (1) shall be guilty of an offence and shall be liable —
 
 (a) in the case of a first conviction, to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction; and
 
@@ -1248,7 +1114,9 @@ may make a complaint to a Magistrate’s Court.
 
 (2) If the owner fails to comply with subsection (1), the Director-General or any authorised officer shall proceed to take down and remove the building and, if necessary, destroy the materials, and may recover the costs of such work from the owner.
 
-(3) Section 92 shall apply to any sum recoverable from any owner under this section.
+[4/2002]
+
+(3) Section 93 shall apply to any sum recoverable from any owner under this section.
 
 ## PART VI
 
@@ -1264,7 +1132,7 @@ Insanitary Premises
 
 (b) cleanse the premises or part thereof internally or externally, or both internally and externally, and if necessary disinfect it.
 
-[50
+[4/2002]
 
 ### Destruction of rats, wasps, bees, etc.
 
@@ -1276,11 +1144,15 @@ Insanitary Premises
 
 the Director-General may, by notice in writing, require the owner or occupier of the premises at his own expense to take such measures as the Director-General may consider necessary, within such time and date as may be specified in the notice, for the destruction of the rats, mice, wasps, bees, hornets or other insects or vermins, for the removal of their breeding places and for preventing their reappearance.
 
+[4/2002]
+
 (2) Where wasps, bees, hornets or other insects capable of stinging exist in any vacant premises and the owner cannot by the exercise of reasonable diligence be found, and the Director-General is of the opinion that persons in the vicinity of the premises are in imminent danger of being stung by them, or if any such persons have been stung by them, he may enter upon the premises and take such measures as he considers necessary for their destruction, for the removal of their breeding places and for preventing their reappearance.
+
+[4/2002]
 
 (3) The costs and expenses incurred under subsection (2) shall be borne by the Agency.
 
-[51
+[4/2002]
 
 ### Closing and demolition, etc., of insanitary dwellings
 
@@ -1290,23 +1162,29 @@ the Director-General may, by notice in writing, require the owner or occupier of
 
 (b) the execution of such operations or structural alterations as are necessary to render the premises fit for human habitation and to guard against danger of disease.
 
+[4/2002]
+
 (2) The notice shall give not less than 24 hours in advance for the commencement of the operation enjoined and shall specify the period within which the operation shall be completed.
 
 (3) No person shall, without the express permission in writing of the Director-General, replace any partition, erection or obstruction removed under subsection (1) and the Director-General or any authorised officer may enter upon such premises and remove such partition, erection or obstruction.
 
+[4/2002]
+
 (4) The Director-General may also, by notice to be posted in a conspicuous position upon the building, require the owner or occupier, as the case may be, to cease to inhabit the building and to remove all goods, furniture and effects from the building within 48 hours from the posting of the notice.
+
+[4/2002]
 
 (5) The owner and every occupying tenant shall thereupon comply with the requirements of the notice.
 
 (6) At the expiration of 48 hours from the posting of the notice mentioned in subsection (4), the Director-General or any authorised officer may remove all goods, furniture and effects from the building.
 
-[52
+[4/2002]
 
 ### Overcrowding of houses
 
 50\. No person shall permit a house to be so overcrowded as in the opinion of the Director-General to be injurious or dangerous to the health of the residents thereof.
 
-[53
+[4/2002]
 
 Sanitary Conveniences, Drains, Sewers and Wells
 
@@ -1314,7 +1192,7 @@ Sanitary Conveniences, Drains, Sewers and Wells
 
 51\. The Director-General may provide and maintain in proper and convenient situations toilets for public use and may charge a fee for the use of any such toilets or may license such toilets for such periods and on payment of such fees as he may think fit.
 
-[54
+[4/2002]
 
 ### Insufficient and defective sanitary conveniences
 
@@ -1326,23 +1204,35 @@ Sanitary Conveniences, Drains, Sewers and Wells
 
 the Director-General shall, by notice in writing to the owner of the building, require him to provide the building or any part thereof with such sanitary conveniences as may be necessary for the use of persons using the building.
 
+[4/2002]
+
 (2) The Director-General may, in his discretion, by notice in writing to the owner of any building or part thereof, require him to re-site any toilet attached thereto.
 
-[55
+[4/2002]
 
 ### Repairs
 
 53\. If it appears to the Director-General that any sanitary conveniences provided for or in connection with a building or part thereof are in such a state as to be defective or prejudicial to health or a nuisance, but that they can without reconstruction be put into a satisfactory condition, the Director-General shall, by notice in writing, require the owner or occupier of the building to execute such works or to take such steps by cleansing the sanitary conveniences or otherwise as may be necessary for that purpose.
 
-[56
+[4/2002]
 
 ### Sanitary conveniences in work premises or work place
 
-54\.—(1) Any premises which are used as work premises or work place shall be provided with adequate sanitary conveniences sited at such locations as the Director-General may think fit, having regard to the number of persons employed in, or in attendance at, the work premises or work place, and where persons of both sexes are employed or in attendance, with adequate separate sanitary conveniences for persons of each sex, unless the Director-General is satisfied that in the circumstances of any particular case the provision of such separate sanitary conveniences is unnecessary.
+54\.—(1) Any premises which are used as work premises or work place shall be provided —
 
-(2) If it appears to the Director-General that subsection (1) has not been complied with in the case of any work premises or work place, he shall, by notice in writing, require the owner or the occupier of the work premises or work place, as the case may be, to make such alterations in the existing sanitary conveniences and to provide such additional sanitary conveniences as may be necessary.
+(a) with adequate sanitary conveniences sited at such locations as the Director-General may think fit, having regard to the number of persons employed in, or in attendance at, the work premises or work place; and
 
-[57
+(b) where persons of both sexes are employed or in attendance, with adequate separate sanitary conveniences for persons of each sex, unless the Director-General is satisfied that in the circumstances of any particular case the provision of such separate sanitary conveniences is unnecessary.
+
+[4/2002]
+
+(2) If it appears to the Director-General that subsection (1) has not been complied with in the case of any work premises or work place, he shall, by notice in writing, require the owner or the occupier of the work premises or work place, as the case may be, to —
+
+(a) make such alterations in the existing sanitary conveniences; and
+
+(b) provide such additional sanitary conveniences as may be necessary.
+
+[4/2002]
 
 ### Care of sanitary conveniences
 
@@ -1350,13 +1240,11 @@ the Director-General shall, by notice in writing to the owner of the building, r
 
 (2) Where sanitary conveniences are used in common by the members of 2 or more families or by members of the public or by employees, the owner, occupier, chief or principal tenant or the person in charge of the building concerned, as the case may be, shall maintain such sanitary conveniences in a clean and hygienic manner without causing any nuisance to sight or smell.
 
-[58
-
 ### Inadequate bathroom facilities
 
 56\. If it appears to the Director-General that any building or part thereof is without any bathroom or without adequate facilities for bathing, he may, by notice in writing to the owner of the building, require him to provide the building with one or more bathrooms or with such facilities for bathing as the Director-General may consider adequate.
 
-[59
+[4/2002]
 
 ### Construction and maintenance of private drains
 
@@ -1366,11 +1254,13 @@ the Director-General shall, by notice in writing to the owner of the building, r
 
 (b) maintain and keep in a clean and sanitary condition any drain or drains so constructed or any other existing drain or drains in such land.
 
+[4/2002]
+
 (2) For the purpose of ensuring a free flow of water, the Director-General may cause one or more drains to be constructed through, across or under any land after giving notice in writing in that behalf to the owner thereof, doing as little damage as may be and making full compensation for any damage done.
 
-(3) If any dispute arises concerning the amount or apportionment of compensation, it shall be settled in the manner provided in section 89.
+[4/2002]
 
-[60
+(3) If any dispute arises concerning the amount or apportionment of compensation, it shall be settled in the manner provided in section 89.
 
 ### Drains, etc., to be kept in order at cost of owners
 
@@ -1378,25 +1268,37 @@ the Director-General shall, by notice in writing to the owner of the building, r
 
 (2) The Director-General may, by notice in writing, require the owner of any land or building to alter, repair or put any drain or any appurtenance thereof in good order in the manner required by him.
 
-(3) In any case where an authorised officer is satisfied that an emergency exists and that it is necessary immediately to alter, repair or put in good order and condition any drain or any appurtenance thereto, the authorised officer may enter with such assistants and workmen as are necessary upon any land or building and may do or cause to be done such alterations, repairs, works, acts or things as are necessary for any of the purposes under this subsection.
+[4/2002]
 
-(4) The expenses reasonably and necessarily incurred in so doing may be recovered from the person who is the owner of the land or building when the work is completed, and in default of agreement the amount of such expenses may be determined under section 89, and section 91 shall apply to the amount for which judgment is given.
+(3) In any case where an authorised officer is satisfied that an emergency exists and that it is necessary immediately to alter, repair or put in good order and condition any drain or any appurtenance thereto, the authorised officer may —
+
+(a) enter with such assistants and workmen as are necessary upon any land or building; and
+
+(b) do or cause to be done such alterations, repairs, works, acts or things as are necessary for any of the purposes under this subsection.
+
+[4/2002]
+
+(4) The expenses reasonably and necessarily incurred in so doing may be recovered from the person who is the owner of the land or building when the work is completed, and in default of agreement the amount of such expenses may be determined under section 89, and section 92 shall apply to the amount for which judgment is given.
 
 (5) Any person who constructs, rebuilds or unstops any drain or any appurtenance thereto, which has been ordered by the Director-General to be demolished or stopped up or not to be made shall be guilty of an offence.
 
-[61
+[4/2002]
 
-### Restriction on construction of wells
+### Restriction on construction of wells, etc.
 
 59\.—(1) No person other than the owner or occupier of an agricultural or horticultural holding shall, without the previous permission of the Director-General, open, dig or otherwise construct or permit or allow to be opened, dug or otherwise constructed any well, tank or reservoir, the water in which is likely to be used for drinking, domestic or other purposes.
+
+[4/2002]
 
 (2) For the purposes of subsection (1), any well within the curtilage of any dwelling-house shall be deemed to be likely to be used for drinking or domestic purposes.
 
 (3) If the owner or occupier of any agricultural or horticultural holding opens, digs or otherwise constructs or permits or allows to be opened, dug or otherwise constructed any well, tank or reservoir, he shall report the opening, digging or construction of the well, tank or reservoir, as the case may be, within one month thereof to the Director-General.
 
+[4/2002]
+
 (4) The Director-General may give to the owner or occupier of any premises notice to close any well, tank or reservoir, the water in which is likely to be used for drinking or domestic purposes and may by the notice specify any works to be executed for such purpose within a time and date to be specified in the notice, and the owner or occupier shall comply with the terms of such notice.
 
-[62
+[4/2002]
 
 General Health Requirements for Buildings
 
@@ -1410,6 +1312,8 @@ General Health Requirements for Buildings
 
 (2) Where, in the opinion of the Director-General, the owner, occupier or lessee of any such building or part thereof fails to comply with subsection (1)(a) or (b), the Director-General may, by notice in writing, require the owner, occupier or lessee within such period as may be specified therein to take such steps as the Director-General may think fit.
 
+[4/2002]
+
 (3) In the case of an air-conditioned building or part thereof, the Director-General may, by notice in writing —
 
 (a) prescribe temperature and humidity controls for such air-conditioned building or part thereof; and
@@ -1420,33 +1324,31 @@ General Health Requirements for Buildings
 
 (ii) to keep such records and charts of the temperature and humidity level in such building or part thereof as the Director-General may direct for the inspection of the Director-General.
 
-[63
+[4/2002]
 
 ### Director-General may require employers to provide mess rooms, etc.
 
 61\. The Director-General may, in his discretion, by notice in writing, require any employer to provide for his employees, if in the opinion of the Director-General the conditions or circumstances under which such employees work so warrant, suitable and sufficient facilities by way of mess rooms, rest rooms, canteens, changing rooms or pantries or to improve upon the same if the Director-General considers the existing facilities inadequate.
 
-[64
+[4/2002]
 
 ### Appointment of Environmental Control Officer in construction site
 
-62\.—(1) This section shall apply to such class or description of construction sites as the Agency may, with the approval of the Minister, by order published in theGazette, specify.
+62\.—(1) This section shall apply to such class or description of construction sites as the Agency may, with the approval of the Minister by order published in theGazette, specify.
 
-[22/99]
+[22/99; 4/2002]
 
 (2) The occupier of any construction site to which this section applies shall employ a competent person to act as an Environmental Control Officer in the construction site.
 
 [22/99]
 
-(3) The Environmental Control Officer employed under this section shall be employed on a full-time or part-time basis, as may be specified in the order under subsection (1), for the purpose of exercising general supervision within the construction sites of the observance of the provisions of this Act, the Control of Vectors and Pesticides Act 1998 (Act 24 of 1998), the Environmental Pollution Control Act 1999 (Act 9 of 1999) and the Sewerage and Drainage Act 1999 (Act 10 of 1999), and any regulations made thereunder.
+(3) The Environmental Control Officer employed under this section shall be employed on a full-time or part-time basis, as may be specified in the order under subsection (1), for the purpose of exercising general supervision within the construction sites of the observance of the provisions of this Act, the Control of Vectors and Pesticides Act (Cap. 59), the Environmental Pollution Control Act (Cap. 94A) and the Sewerage and Drainage Act (Cap. 294) and any regulations made thereunder.
 
 [22/99]
 
 (4) The Environmental Control Officer shall possess such qualifications or have received such training as the Agency may, with the approval of the Minister, from time to time, by notification in theGazette, prescribe.
 
-[65
-
-[22/99]
+[22/99; 4/2002]
 
 ## PART VII
 
@@ -1456,7 +1358,7 @@ SWIMMING POOLS
 
 63\. No person shall establish, manage, operate or run a swimming pool without first obtaining a licence from the Director-General.
 
-[69
+[4/2002]
 
 ### Closure of swimming pools
 
@@ -1466,23 +1368,23 @@ SWIMMING POOLS
 
 (b) there is an outbreak of an infectious disease which may endanger the health of any person using the swimming pool.
 
+[4/2002]
+
 (2) Upon the receipt from the Director-General of any such notice, the owner or person in charge shall close the swimming pool within such time as is specified in the notice.
+
+[4/2002]
 
 (3) Upon compliance by the owner or person in charge with the provisions that he has contravened as specified in such notice or upon the cessation of the infectious disease, as the case may be, the Director-General shall, by notice in writing, grant permission to the owner or person in charge for the reopening of the swimming pool.
 
-[70
+[4/2002]
 
 ### Penalty for offence under this Part
 
-65\. Any person who contravenes or fails to comply with any of the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
-
-[71
+65\. Any person who contravenes any of the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 ### Application to Government swimming pools
 
 66\. Section 64 shall also apply to swimming pools owned by the Government.
-
-[72
 
 ## PART VIII
 
@@ -1492,13 +1394,13 @@ FUNERAL PARLOURS, CEMETERIES AND CREMATORIA
 
 67\. No person shall establish, use, manage, operate or run any premises as a funeral parlour, cemetery or crematoria without first obtaining a licence from the Director-General.
 
-[73
+[4/2002]
 
 ### Corpse of person dying of infectious diseases
 
 68\. No licensee of any funeral parlour shall receive the corpse of any person who has died of any of the infectious diseases set out in the Second Schedule without the permission in writing of the Director-General who may grant permission for such corpse to be so received subject to such terms and conditions as he may think fit.
 
-[74
+[4/2002]
 
 ### Corpse not to be retained beyond 48 hours unless encoffined
 
@@ -1506,27 +1408,25 @@ FUNERAL PARLOURS, CEMETERIES AND CREMATORIA
 
 (2) So long as such corpse is encoffined in a hermetically sealed coffin or is embalmed, it may be retained in any premises, including a funeral parlour, for a period not exceeding 7 days after death, but where it is intended to retain a corpse for a period exceeding 7 days, the permission in writing of the Director-General shall be obtained.
 
-[75
+[4/2002]
 
 ### Decomposed corpse
 
 70\. No corpse in an advanced stage of decomposition shall be received into any funeral parlour unless encoffined in a hermetically sealed coffin.
 
-[76
-
 ### Agency may provide cemeteries and crematoria
 
 71\. The Agency may provide suitable places to be used as public cemeteries and crematoria and shall make proper provisions for maintaining them.
 
-[77
+[4/2002]
 
 ### Places which may be used for burials, etc.
 
 72\.—(1) No place shall be used or prepared for the burial or cremation of any corpse except cemeteries or crematoria provided by the Agency or licensed by the Director-General under section 67.
 
-(2) Notwithstanding subsection (1), the Minister may permit the burial at any suitable place of the corpse of any person who in the opinion of the Minister has rendered outstanding or meritorious service to Singapore.
+[4/2002]
 
-[78
+(2) Notwithstanding subsection (1), the Minister may permit the burial at any suitable place of the corpse of any person who in the opinion of the Minister has rendered outstanding or meritorious service to Singapore.
 
 ### Unlawful burials
 
@@ -1538,13 +1438,17 @@ FUNERAL PARLOURS, CEMETERIES AND CREMATORIA
 
 (b) any structure which has been erected at such place.
 
+[4/2002]
+
 (3) If, within 14 days, the person convicted produces to the Director-General a licence granted under section 67, the notice may be cancelled.
+
+[4/2002]
 
 (4) Any person who refuses or neglects to comply with any such notice shall be guilty of an offence.
 
 (5) The Director-General may proceed to authorise any person to carry the notice into execution at the expense of the person so refusing or so neglecting to comply with the notice and to hire or employ proper persons for that purpose and may recover such expense in the manner provided by law for the levy of fines imposed by a court.
 
-[79
+[4/2002]
 
 ### Power to close cemeteries, etc.
 
@@ -1558,9 +1462,9 @@ FUNERAL PARLOURS, CEMETERIES AND CREMATORIA
 
 the Director-General may order the cemetery or crematorium or any part thereof to be closed and may revoke the licence thereof and thereafter it shall not be lawful to use the cemetery or crematorium or part thereof, as the case may be, as a place for the burial or cremation of corpses.
 
-(2) No such closing or revocation shall have effect until it has been confirmed by the Minister.
+[4/2002]
 
-[80
+(2) No such closing or revocation shall have effect until it has been confirmed by the Minister.
 
 ### Unauthorised structure
 
@@ -1568,7 +1472,7 @@ the Director-General may order the cemetery or crematorium or any part thereof t
 
 (2) The Director-General shall, by notice in writing, require any person who constructs or erects an unauthorised structure in any cemetery or crematorium to demolish or remove the structure within such period as he may specify, and if the person fails to do so within the period specified, the Director-General may cause the structure to be removed or demolished.
 
-[81
+[4/2002]
 
 ### Exhumation
 
@@ -1582,17 +1486,13 @@ the Director-General may order the cemetery or crematorium or any part thereof t
 
 (d) by the Director-General for the purpose of using the place where the corpse is buried for the burial of another corpse.
 
-[22/99]
+[22/99; 4/2002]
 
 (2) Any person who exhumes or causes to be exhumed or, being the owner, trustee or person in charge of any burial ground, permits to be exhumed any corpse in contravention of this section shall be guilty of an offence.
 
-[82
-
 ### Penalty for offence under this Part
 
-77\. Any person who contravenes or fails to comply with any of the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
-
-[83
+77\. Any person who contravenes any of the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 ## PART IX
 
@@ -1602,67 +1502,249 @@ CONTROL OF PURITY OF WATER SUPPLIES
 
 78\. No person shall sell or offer for sale water intended for human consumption which is polluted or unwholesome.
 
-[84
-
 ### Polluted or unwholesome water
 
 79\. The Director-General may, by notice in writing, require any person or authority who or which sells or offers for sale water which is polluted or unwholesome to cease to sell or offer for sale that water to any area or premises if he is of the opinion that the quality of the water sold or offered for sale by any person or authority does not comply with any standards prescribed in any regulations made under this Act.
 
-[85
+[4/2002]
 
 ### Regulations on standard of quality, etc., of water supplied
 
 80\. The Agency may, with the approval of the Minister, make regulations to prescribe the standards relating to the wholesomeness, purity or quality of water supplied in any area or premises.
 
-[86
+[4/2002]
 
 ## PART X
 
-MISCELLANEOUS
+ENFORCEMENT
 
 ### Power to enter upon lands for purposes of Act
 
-81\.—(1) The Director-General or any authorised officer may, for the purposes of this Act or any regulations made thereunder, enter between the hours of 6 a.m. and 6 p.m. into and upon any premises in order to make any survey, inspection or search or to execute any work authorised by this Act or any regulations made thereunder without being liable to any legal proceedings or molestation on account of such entry or of anything done in any part of those premises.
+81\.—(1) The Director-General or any authorised officer may, for the purposes of this Act, enter between the hours of 6 a.m. and 6 p.m. into and upon any premises in order to make any survey, inspection or search or to execute any work authorised by this Act without being liable to any legal proceedings or molestation on account of such entry or of anything done in any part of those premises.
 
-(2) No person shall, except with the consent of the occupier thereof, enter any house by virtue of the powers conferred by subsection (1) without at least 3 hours’ previous notice being given to the occupier thereof, if any.
+[4/2002]
 
-(3) Notwithstanding subsection (1), where it is necessary and expedient to make any survey, inspection or search or to execute any work authorised by this Act or any regulations made thereunder outside the hours specified in subsection (1), the Director-General or any authorised officer may enter any premises by giving at least 6 hours’ previous notice to the owner or occupier of the premises thereof.
+(2) No person shall, except with the consent of the occupier thereof, enter any house by virtue of the powers conferred by subsection (1) without at least 3 hours previous notice being given to the occupier thereof, if any.
 
-[87
+(3) Notwithstanding subsection (1), where it is necessary and expedient to make any survey, inspection or search or to execute any work authorised by this Act outside the hours specified in subsection (1), the Director-General or any authorised officer may enter any premises by giving at least 6 hours previous notice to the owner or occupier of the premises thereof.
 
-### Protection from personal liability
-
-82\.—(1) No matter or thing done and no contract of any kind entered into by the Agency or the Director-General and no matter or thing done by any authorised officer or any other person employed in the administration of this Act or acting under the direction of the Agency, the Director-General or authorised officer shall, if the matter or thing was done or the contract was entered into bona fide for the purpose of executing the provisions of this Act or any regulations made thereunder, subject them or any of them personally to any action, liability, claim or demand.
-
-(2) Any expense incurred by such persons acting in accordance with subsection (1) shall be borne by the Agency.
-
-[88
+[4/2002]
 
 ### Penalty for obstruction
 
-83\. No person shall at any time hinder, obstruct or molest the Director-General, any authorised officer or other person in the performance and execution of his duty or of anything which he is respectively empowered, employed or required to do by virtue or in consequence of or under this Act, or remove any mark, line, sign or other direction drawn or set up for the purpose of this Act.
+82\. No person shall at any time —
 
-[89
+(a) hinder, obstruct or molest the Director-General, any authorised officer or other person in the performance and execution of his duty or of anything which he is respectively empowered, employed or required to do by virtue or in consequence of or under this Act; or
+
+(b) remove any mark, line, sign or other direction drawn or set up for the purpose of this Act.
+
+[83
+
+[4/2002]
 
 ### Director-General may act in cases of emergency
 
-84\. In cases of emergency, the Director-General may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act which is in the opinion of the Director-General necessary for public health or for the safety of the public.
+83\. In cases of emergency, the Director-General may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act which is in the opinion of the Director-General necessary for public health or for the safety of the public.
 
-[90
+[84
+
+[4/2002]
+
+### Appeal to Minister against notice, order or decision
+
+84\.—(1) Any person who is aggrieved by any notice, order or decision of the Director-General may within 7 days of the notice, order or decision appeal in writing to the Minister whereupon the execution of the notice, order or decision shall be stayed.
+
+[4/2002]
+
+(2) The Minister may confirm, vary or rescind the notice or order or direct that the thing shall be proceeded with, varied or abandoned, as the case may be, or make any order which the Director-General is competent to make and the decision of the Minister shall be final.
+
+[87
+
+[4/2002]
+
+### Default in compliance with notice
+
+85\.—(1) When any notice or order under this Act requires any act to be done or work to be executed by the owner or occupier or the person in charge of any premises and default is made in complying with the requirements of the notice or order, the person in default shall, where no fine is specially provided for such default, be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[22/99]
+
+(2) When any such notice or order requires any act to be done or work to be executed for which no time is fixed by this Act, it shall fix a reasonable time for complying with the requirements.
+
+(3) Where any person who has been served with any notice or order fails to comply therewith, the Director-General may, without prejudice to any proceedings under subsection (1), at the expiration of the period specified in the notice or order execute the works as are specified in the notice or order and may recover from that person the expenses reasonably incurred in so doing in the manner provided in section 89.
+
+[4/2002]
+
+(4) Nothing in this section shall be deemed to prohibit the Director-General from carrying out any works specified in any such notice or order at the request of a person who has been served with the notice or order upon an undertaking by that person to pay the costs and expenses in executing the works.
+
+[88
+
+[4/2002]
+
+### Authorised officers may demand names and addresses in certain cases
+
+86\.—(1) Any person who is charged by any police officer or authorised officer with any offence under this Act shall on demand give his name and address and other proof of identity to the police officer or authorised officer, if so required.
+
+[4/2002]
+
+(2) The occupier of any premises shall, if required by any police officer or authorised officer, give his name and other proof of identity and the name and address of the owner of the premises, if known.
+
+[4/2002]
+
+(3) Any person who contravenes this section or wilfully mis-states his name and address or the name and address of the owner of any premises shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300.
+
+[96
+
+### Power of investigating offences under sections 20 and 23
+
+87\.—(1) For the purpose of investigating any offence under section 20 or 23, the Director-General or any authorised officer may —
+
+(a) examine orally any person supposed to be acquainted with the facts and circumstances of the case, and to reduce to writing any statement made by the person so examined; and
+
+(b) require by order in writing the attendance before himself of any person who, from information given or otherwise, appears to be acquainted with the facts and circumstances concerning the case and that person shall attend as so required.
+
+[22/99; 4/2002]
+
+(2) The person mentioned in subsection (1)(a) shall be bound to state truly the facts and circumstances with which he is acquainted concerning the case except only that he may decline to make with regard to any fact or circumstance a statement which would have a tendency to expose him to a criminal charge or to penalty or forfeiture.
+
+[22/99]
+
+(3) A statement made under this section by any person shall be read over to him and shall, after correction, if necessary, be signed by him.
+
+[22/99]
+
+(4) If any person fails to attend as required by an order under subsection (1)(b), the Director-General or any authorised officer may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
+
+[97
+
+[22/99; 4/2002]
+
+### Powers of arrest
+
+88\.—(1) Any police officer or authorised officer may arrest any person committing in his view or who he has reason to believe has committed any offence punishable under this Act if —
+
+(a) the name and address of the person are unknown to him;
+
+(b) the person declines to give his name and address; or
+
+(c) there is reason to doubt the accuracy of the name and address, if given.
+
+[4/2002]
+
+(2) A person arrested under this section may be detained until his name and address are correctly ascertained.
+
+(3) No person arrested under this section shall be detained longer than is necessary for bringing him before a court unless the order of a court for his detention is obtained.
+
+[99
+
+## PART XI
+
+COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
+
+### Compensation, damages, fees, costs and expenses to be determined by Magistrate’s Court or District Court
+
+89\.—(1) Subject to the provisions of this Act, in all cases when compensation, damages, fees, costs and expenses are by this Act directed to be paid, the amount and, if necessary, the apportionment of the same and any question of liability shall, in case of dispute or failure to pay, be summarily ascertained and determined by a Magistrate’s Court or, if the amount exceeds $10,000, by a District Court.
+
+(2) If the amount of compensation, damages, fees, costs or expenses is not paid by the party liable to pay the same within 14 days after demand, that amount may be reported to a Magistrate’s Court and recovered in the same manner as if it were a fine imposed by a Magistrate’s Court.
+
+(3) An appeal shall lie to the High Court from any decision of a Magistrate’s Court or District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, to all such appeals.
 
 ### Damage to property of Agency to be made good in addition to penalty
 
-85\.—(1) If through any act, neglect or default on account whereof any person has incurred any penalty under this Act any damage to Agency property is committed by that person, he shall be liable to make good the damage as well as to pay the penalty.
+90\.—(1) If through any act, neglect or default on account whereof any person has incurred any penalty under this Act any damage to Agency property is committed by that person, he shall be liable to make good the damage as well as to pay the penalty.
+
+[4/2002]
 
 (2) The amount of such damage shall, in case of dispute, be determined by the court by which the person incurring the penalty was convicted.
 
 (3) The amount of the damage shall be recovered as if it were a fine imposed by the court.
 
+[85
+
+### Fees, etc., payable to Agency
+
+91\. All fees, charges, composition fines and moneys collected under this Act shall be paid to the Agency.
+
+[89A
+
+[4/2002]
+
+### Recovery of costs and expenses payable by owners
+
+92\.—(1) If any sum payable by or recoverable from the owner or occupier in respect of costs and expenses incurred by the Agency in the execution of any work which is, under this Act, recoverable from the owner or occupier of any premises is not paid by the owner or occupier within 14 days after demand that sum may be reported to a Magistrate’s Court or District Court and recovered in the same manner as if it were a fine imposed by a Magistrate’s Court or District Court, as the case may be.
+
+[4/2002]
+
+(2) The person liable to pay any sum under subsection (1) shall be the owner at the time when the work was completed.
+
+(3) Any occupier who, when requested by or on behalf of the Director-General to state the name of the owner of the premises, refuses or wilfully omits to disclose or wilfully mis-states the name of the owner shall, unless he shows cause to the satisfaction of the Magistrate’s Court or the District Court for his refusal or mis-statement, be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+
 [91
+
+[4/2002]
+
+### Recovery of costs and expenses by instalments
+
+93\.—(1) When the Director-General has incurred costs and expenses in or about the execution of any work, which are, under this Act, payable by or recoverable from the owner or occupier, the Director-General may —
+
+(a) recover the costs and expenses in the manner provided in this Act; or
+
+(b) if he thinks fit, obtain an undertaking from the owner or occupier for the payment by such instalments as will be sufficient to defray the whole amount of the costs and expenses.
+
+[4/2002]
+
+(2) Upon default in payment of any instalment upon the date appointed for payment thereof by any such undertaking, the whole of the balance then outstanding of the amount shall immediately become due and payable and, notwithstanding any change in the ownership or occupation of the premises since the date of the undertaking, may be recovered by the same means and in the like manner as provided in section 92.
+
+[92
+
+### Liability of transferor of property in respect of costs and expenses incurred by Director-General
+
+94\.—(1) Where a person sells or transfers any property in respect of which costs and expenses have been incurred by the Director-General in or about the execution of any work required to be done under this Act and the costs and expenses are recoverable under this Act from the owner thereof, that person shall continue to be liable for the payment of all the costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act upon the owner of the property which became payable or were required to be performed prior to the transfer.
+
+[4/2002]
+
+(2) Nothing in this section shall affect the liability of the purchaser or transferee to pay the costs and expenses in respect of the property or the right of the Director-General to recover the costs and expenses or to perform any obligations under this Act.
+
+[93
+
+[4/2002]
+
+### Limitation of liability to fines and penalties
+
+95\. Except in any case where by reason of the act or omission complained of, an injury or danger to health subsists at the date of the complaint, no person shall be liable to any fine or penalty under this Act for any offence under this Act unless the complaint respecting the offence is made within one year after the date of the commission of such offence.
+
+[102
+
+## PART XII
+
+MISCELLANEOUS PROVISIONS
+
+### Protection from personal liability
+
+96\.—(1) No matter or thing done and no contract of any kind entered into by the Agency or the Director-General and no matter or thing done by any authorised officer or any other person employed in the administration of this Act or acting under the direction of the Agency, the Director-General or authorised officer shall, if the matter or thing was done or the contract was entered into bona fide for the purpose of executing the provisions of this Act, subject them or any of them personally to any action, liability, claim or demand.
+
+[4/2002]
+
+(2) Any expense incurred by such persons acting in accordance with subsection (1) shall be borne by the Agency.
+
+[82
+
+[4/2002]
+
+### Exemption of agent who has no funds in hand
+
+97\.—(1) No person receiving the rent of premises as receiver or agent for another person shall be liable to do anything by this Act required to be done by the owner of such premises if, after he or the actual owner has been required to do any work, that person gives notice to the Director-General within 7 days after such requisition has been made, that he has not sufficient funds of the person on whose behalf he is receiving the rents to pay for such work.
+
+[4/2002]
+
+(2) In such case, the Director-General may himself execute the work and the expenses incurred thereby shall be charged and recoverable as provided in section 92.
+
+[90
+
+[4/2002]
 
 ### Service of summons, notice, etc.
 
-86\.—(1) Every summons, notice, order or document required or authorised by this Act or any regulations made thereunder to be served on any person may be served by —
+98\.—(1) Every summons, notice, order or document required or authorised by this Act to be served on any person may be served by —
 
 (a) delivering it to the person or by delivering it at his last known place of residence to some adult member or employee of his family;
 
@@ -1676,131 +1758,69 @@ MISCELLANEOUS
 
 (b) sending it by registered post addressed to the company or body at its registered or principal office.
 
-(3) A summons, notice, order or document required or authorised by this Act or any regulations made thereunder to be served on the owner or occupier of any premises may be served by delivering it or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the summons, notice, order or document to some conspicuous part of the premises.
+(3) A summons, notice, order or document required or authorised by this Act to be served on the owner or occupier of any premises may be served by delivering it or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the summons, notice, order or document to some conspicuous part of the premises.
 
-(4) Any summons, notice, order or document required or authorised by this Act or any regulations made thereunder to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the owner or occupier of the premises without further name or description.
+(4) Any summons, notice, order or document required or authorised by this Act to be served on the owner or occupier of any premises shall be deemed to be properly addressed if addressed by the description of the owner or occupier of the premises without further name or description.
 
-[92
+[86
 
 [2/96]
 
-### Appeal to Minister against notice, order or decision
-
-87\.—(1) Any person who is aggrieved by any notice, order or decision of the Director-General may within 7 days of the notice, order or decision appeal in writing to the Minister whereupon the execution of the notice, order or decision shall be stayed.
-
-(2) The Minister may confirm, vary or rescind the notice or order or direct that the thing shall be proceeded with, varied or abandoned, as the case may be, or make any order which the Director-General is competent to make and the decision of the Minister shall be final.
-
-[93
-
-### Default in compliance with notice
-
-88\.—(1) When any notice or order under this Act or any regulations made thereunder requires any act to be done or work to be executed by the owner or occupier or the person in charge of any premises and default is made in complying with the requirements of the notice or order, the person in default shall, where no fine is specially provided for such default be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
-
-[22/99]
-
-(2) When any such notice or order requires any act to be done or work to be executed for which no time is fixed by this Act or any regulations made thereunder, it shall fix a reasonable time for complying with the requirements.
-
-(3) Where any person who has been served with any notice or order fails to comply therewith, the Director-General may, without prejudice to any proceedings under subsection (1), at the expiration of the period specified in the notice or order execute the works as are specified in the notice or order and may recover from that person the expenses reasonably incurred in so doing in the manner provided in section 89.
-
-(4) Nothing in this section shall be deemed to prohibit the Director-General from carrying out any works specified in any such notice or order at the request of a person who has been served with the notice or order upon an undertaking by that person to pay the costs and expenses in executing the works.
-
-[94
-
-### Compensation, damages and costs to be determined by Magistrate’s Court or District Court
-
-89\.—(1) Subject to the provisions of this Act, in all cases when compensation, damages, fees, costs and expenses are by this Act directed to be paid, the amount and, if necessary, the apportionment of the same and any question of liability shall, in case of dispute or failure to pay, be summarily ascertained and determined by a Magistrate’s Court or, if the amount exceeds $10,000, by a District Court.
-
-(2) If the amount of compensation, damages, fees, costs or expenses is not paid by the party liable to pay the same within 14 days after demand, that amount may be reported to a Magistrate’s Court and recovered in the same manner as if it were a fine imposed by a Magistrate’s Court.
-
-(3) An appeal shall lie to the High Court from any decision of a Magistrate’s Court or District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, to all such appeals.
-
-[95
-
-### Fees, etc., payable to Agency
-
-89A\. All fees, charges, composition fines and moneys collected under this Act or any regulations made thereunder shall be paid to the Agency.
-
-[4/2002 wef 01/07/2002]
-
-### Exemption of agent who has no funds in hand
-
-90\.—(1) No person receiving the rent of premises as receiver or agent for another person shall be liable to do anything by this Act required to be done by the owner of such premises if, after he or the actual owner has been required to do any work, that person gives notice to the Director-General within 7 days after such requisition has been made, that he has not sufficient funds of the person on whose behalf he is receiving the rents to pay for such work.
-
-(2) In such case, the Director-General may himself execute the work and the expenses incurred thereby shall be charged and recoverable as provided in section 91.
-
-[96
-
-### Recovery of costs and expenses payable by owners
-
-91\.—(1) If any sum payable by or recoverable from the owner or occupier in respect of costs and expenses incurred by the Agency in the execution of any work which is, under this Act, recoverable from the owner or occupier of any premises is not paid by the owner or occupier within 14 days after demand that sum may be reported to a Magistrate’s Court or District Court and recovered in the same manner as if it were a fine imposed by a Magistrate’s Court or District Court, as the case may be.
-
-(2) The person liable to pay any sum under subsection (1) shall be the owner at the time when the work was completed.
-
-(3) Any occupier who, when requested by or on behalf of the Director-General to state the name of the owner of the premises, refuses or wilfully omits to disclose or wilfully mis-states the name of the owner shall, unless he shows cause to the satisfaction of the Court for his refusal or mis-statement, be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
-
-[97
-
-### Recovery of costs and expenses by instalments
-
-92\.—(1) When the Director-General has incurred costs and expenses in or about the execution of any work, which are, under this Act, payable by or recoverable from the owner or occupier, the Director-General may either recover the costs and expenses in the manner provided in this Act or, if he thinks fit, may obtain an undertaking from the owner or occupier for the payment by such instalments as will be sufficient to defray the whole amount of the costs and expenses.
-
-(2) Upon default in payment of any instalment upon the date appointed for payment thereof by any such undertaking, the whole of the balance then outstanding of the amount shall immediately become due and payable and, notwithstanding any change in the ownership or occupation of the premises since the date of the undertaking, may be recovered by the same means and in the like manner as provided in section 91.
-
-[98
-
-### Liability of transferor of property in respect of costs and expenses incurred by Director-General
-
-93\.—(1) Where a person sells or transfers any property in respect of which costs and expenses have been incurred by the Director-General in or about the execution of any work required to be done under this Act and the costs and expenses are recoverable under this Act from the owner thereof, that person shall continue to be liable for the payment of all the costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act upon the owner of the property which became payable or were required to be performed prior to the transfer.
-
-(2) Nothing in this section shall affect the liability of the purchaser or transferee to pay the costs and expenses in respect of the property or the right of the Director-General to recover the costs and expenses or to perform any obligations under this Act.
-
-[99
-
 ### Licences
 
-94\.—(1) The grant or renewal of any licence —
+99\.—(1) Any licence under this Act may be —
 
-(a) shall be in the discretion of the Director-General;
+(a) granted or renewed at the discretion of the Director-General;
 
-(b) may be granted, renewed or refused without any reason for the grant, renewal or refusal being assigned therefor; and
+(b) granted, renewed or refused without any reason for the grant, renewal or refusal being assigned therefor; and
 
-(c) may be granted or renewed subject to such restrictions and conditions as the Director-General may think fit.
+(c) granted or renewed subject to such restrictions and conditions as the Director-General may think fit.
 
-[4/2002 wef 01/07/2002]
+[4/2002]
 
-(2) The Director-General may require any applicant for a licence to furnish such information and evidence as he may reasonably require for a full and proper consideration of the application and in the event of a refusal to furnish the information shall refuse to grant or renew the licence.
+(2) The Director-General may require any applicant for a licence to furnish such information and evidence as he may reasonably require for a full and proper consideration of the application.
 
-(2A) The Director-General may, before granting or renewing any licence, require the applicant to give security, either in the form of a cash deposit or by entering into a bond, that the provisions of this Act and of the conditions of the licence will be duly observed.
+(3) If the applicant refuses to furnish the information under subsection (2) the Director-General shall refuse to grant or renew the licence.
 
-[22/99]
+[4/2002]
 
-(2B) Where an applicant is required to enter into a bond, the Director-General may require not more than 2 sureties to enter into the bond with the applicant.
+(4) The Director-General may, before granting or renewing any licence, require the applicant to give security, either in the form of a cash deposit or by entering into a bond, that the provisions of this Act and of the conditions of the licence will be duly observed.
 
-[22/99]
+[22/99; 4/2002]
 
-(2C) Any sum deposited or bond entered into under this section shall be liable to forfeiture in whole or in part at the discretion of the Director-General on cancellation of the licence.
+(5) Where an applicant is required to enter into a bond, the Director-General may require not more than 2 sureties to enter into the bond with the applicant.
 
-[22/99]
+[22/99; 4/2002]
 
-(3) Any person who wilfully furnishes any false information in any application for a licence shall be guilty of an offence and any licence granted shall be void and of no effect.
+(6) Any sum deposited or bond entered into under this section shall be liable to forfeiture in whole or in part at the discretion of the Director-General on cancellation of the licence.
 
-(4) Subject to the provisions of this Act, any licence may be for such period as the Director-General thinks fit.
+[22/99; 4/2002]
 
-(5) There shall be charged for the grant or renewal of any licence such fee, if any, as may be prescribed by the Agency with the approval of the Minister.
+(7) Any person who wilfully furnishes any false information in any application for a licence shall be guilty of an offence and any licence granted shall be void and of no effect.
 
-(6) Where a licence is granted for a period of less than 12 months, the Director-General may charge a proportionate fee therefor; and in charging such proportionate fee, any part of a month shall be reckoned as one month.
+(8) Subject to the provisions of this Act, any licence may be for such period as the Director-General thinks fit.
 
-(7) No licensee shall be entitled to any refund of any fee paid by him in respect of any licence.
+[4/2002]
 
-(8) No person shall in any manner transfer any licence or permit any licence to be used by any other person without the approval in writing of the Director-General.
+(9) There shall be charged for the grant or renewal of any licence such fee, if any, as may be prescribed by the Agency with the approval of the Minister.
 
-[4/2002 wef 01/07/2002]
+[4/2002]
 
-(9) Where a licensee —
+(10) Where a licence is granted for a period of less than 12 months, the Director-General may charge a proportionate fee therefor; and in charging such proportionate fee, any part of a month shall be reckoned as one month.
+
+[4/2002]
+
+(11) No licensee shall be entitled to any refund of any fee paid by him in respect of any licence.
+
+(12) No person shall in any manner transfer any licence or permit any licence to be used by any other person without the approval in writing of the Director-General.
+
+[4/2002]
+
+(13) Where a licensee —
 
 (a) is in breach of any restriction or condition subject to which the licence was granted; or
 
-(b) has contravened any provision of this Act or any regulations made thereunder,
+(b) has contravened any provision of this Act,
 
 the Director-General may —
 
@@ -1808,11 +1828,11 @@ the Director-General may —
 
 (ii) in the case of paragraph (a), in lieu of or in addition to sub-paragraph (i), impose a financial penalty of such amount, not exceeding $5,000, as the Director-General thinks fit.
 
-[4/2002 wef 01/07/2002]
+[4/2002]
 
-(9A) Subject to the provisions of this Act, any person who is aggrieved by —
+(14) Subject to the provisions of this Act, any person who is aggrieved by —
 
-(a) the refusal by the Director-General to grant or renew a licence;
+(a) the refusal by the Director-General to grant or renew any licence;
 
 (b) the suspension or cancellation by the Director-General of any licence;
 
@@ -1822,173 +1842,135 @@ the Director-General may —
 
 may, within 14 days of such refusal, suspension, cancellation, imposition of financial penalty or forfeiture, appeal to the Minister whose decision shall be final.
 
-[4/2002 wef 01/07/2002]
+[4/2002]
 
-(10) For the purposes of this section, “licence” includes any approval, permit, permission, authority, authorisation or licence which may be granted or renewed by the Director-General in pursuance of this Act or any regulations made thereunder.
+(15) In this section, “licence” includes any approval, permit, permission, authority, authorisation or licence which may be granted or renewed by the Director-General under this Act.
 
-[100
+[94
 
-### Receipts and notices may be given by officer authorised thereunto
+[4/2002]
 
-95\.—(1) All notices, orders, receipts, warrants and other documents which the Director-General is empowered to give by this Act or any regulations made thereunder may be given by any authorised officer.
+### Receipts, notices, etc. may be given by authorised officer
+
+100\.—(1) All notices, orders, receipts, warrants and other documents which the Director-General is empowered to give by this Act may be given by any authorised officer.
+
+[4/2002]
 
 (2) Where any such notice, order, receipt, warrant or document requires authentication, the signature or a facsimile thereof of the Director-General or any authorised officer affixed thereto shall be sufficient authentication.
 
-[101
+[95
 
-### Authorised officers may demand names and addresses in certain cases
-
-96\.—(1) Any person who is charged by any police officer or authorised officer with any offence under this Act or any regulations made thereunder shall on demand give his name and address and other proof of identity to the police officer or authorised officer, if so required.
-
-(2) The occupier of any premises shall, if required by any police officer or authorised officer, give his name and other proof of identity and the name and address of the owner of the premises, if known.
-
-(3) Any person who contravenes this section or wilfully mis-states his name and address or the name and address of the owner of any premises shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300.
-
-[102
-
-### Power of investigating offences under sections 20 and 23
-
-97\.—(1) For the purpose of investigating any offence under section 20 or 23, the Director-General or any authorised officer may —
-
-(a) examine orally any person supposed to be acquainted with the facts and circumstances of the case, and to reduce to writing any statement made by the person so examined; and
-
-(b) require by order in writing the attendance before himself of any person who, from information given or otherwise, appears to be acquainted with the facts and circumstances concerning the case and that person shall attend as so required.
-
-[22/99]
-
-(2) The person mentioned in subsection (1) (a) shall be bound to state truly the facts and circumstances with which he is acquainted concerning the case except only that he may decline to make with regard to any fact or circumstance a statement which would have a tendency to expose him to a criminal charge or to penalty or forfeiture.
-
-[22/99]
-
-(3) A statement made under this section by any person shall be read over to him and shall, after correction, if necessary, be signed by him.
-
-[22/99]
-
-(4) If any person fails to attend as required by an order under subsection (1) (b), the Director-General or any authorised officer may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
-
-[102A
-
-[22/99]
+[4/2002]
 
 ### Furnishing of information required by Director-General
 
-98\. The Director-General may, by notice in writing, require the owner or occupier of any work place or work premises to furnish him within 14 days or such longer period as may be specified in the notice any information required by him for the purposes of this Act or any regulations made thereunder.
+101\. The Director-General may, by notice in writing, require the owner or occupier of any work place or work premises to furnish him within 14 days or such longer period as may be specified in the notice any information required by him for the purposes of this Act.
 
-[103
+[98
 
-### Powers of arrest
-
-99\.—(1) Any police officer or authorised officer may arrest any person committing in his view or who he has reason to believe has committed any offence punishable under this Act or any regulations made thereunder if —
-
-(a) the name and address of the person are unknown to him;
-
-(b) the person declines to give his name and address; or
-
-(c) there is reason to doubt the accuracy of the name and address, if given.
-
-(2) A person arrested under this section may be detained until his name and address are correctly ascertained.
-
-(3) No person arrested under this section shall be detained longer than is necessary for bringing him before a court unless the order of a court for his detention is obtained.
-
-[104
-
-100\. [Repealed by Act 4/2002 wef 01/07/2002]
+[4/2002]
 
 ### Saving of prosecutions under other laws
 
-101\. Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or any regulations made thereunder or from being liable under that other written law to any other or higher punishment or penalty than that provided by this Act or any regulations made thereunder except that no person shall be punished twice for the same offence.
+102\. Nothing in this Act shall prevent any person from being prosecuted under any other written law for any act or omission which constitutes an offence under this Act or from being liable under that other written law to any other or higher punishment or penalty than that provided by this Act except that no person shall be punished twice for the same offence.
 
-[106
-
-### Limitation of liability to fines and penalties
-
-102\. Except in any case where by reason of the act or omission complained of, an injury or danger to health subsists at the date of the complaint, no person shall be liable to any fine or penalty under this Act or any regulations made thereunder for any offence under this Act or any regulations made thereunder unless the complaint respecting the offence is made within one year after the date of the commission of such offence.
-
-[107
+[101
 
 ### General penalties
 
-103\. Any person who contravenes or fails to comply with any of the provisions of this Act shall be guilty of an offence and, where no penalty is expressly provided, shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.
-
-[108
+103\. Any person who contravenes any of the provisions of this Act shall be guilty of an offence and, where no penalty is expressly provided, shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 [22/99]
 
 ### Composition of offences
 
-104\.—(1) The Director-General may, in his discretion, compound any offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $500 in the case of an offence punishable on conviction with a fine not exceeding $5,000 (whether with or without imprisonment); or a sum of money not exceeding $5,000 in the case of an offence punishable on conviction with a fine exceeding $5,000 (whether with or without imprisonment).
+104\.—(1) The Director-General may, in his discretion, compound any offence under this Act as may be prescribed as being an offence which may be compounded by collecting from a person reasonably suspected of having committed the offence —
 
-[22/99]
+(a) a sum of money not exceeding $500 in the case of an offence punishable on conviction with a fine not exceeding $5,000 (whether with or without imprisonment); or
+
+(b) a sum of money not exceeding $5,000 in the case of an offence punishable on conviction with a fine exceeding $5,000 (whether with or without imprisonment).
+
+[22/99; 4/2002]
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
 (3) The Agency may, with the approval of the Minister, make rules to prescribe the offences which may be compounded and the method and procedure by which those offences may be compounded under this section.
 
-[109
-
-105\. [Repealed by Act 4/2002 wef 01/07/2002]
-
-106\. [Repealed by Act 4/2002 wef 01/07/2002]
+[4/2002]
 
 ### Inaccuracies in documents
 
-107\.—(1) No misnomer or inaccurate description of any person, premises, building, street or place named or described in any document prepared, issued or served under or for the purposes of this Act or any regulations made thereunder shall in any way affect the operation of this Act or any such regulations as respects that person or place if that person or place is so designated in the document as to be identifiable.
+105\.—(1) No misnomer or inaccurate description of any person, premises, building, street or place named or described in any document prepared, issued or served under or for the purposes of this Act shall in any way affect the operation of this Act as respects that person or place if that person or place is so designated in the document as to be identifiable.
 
-(2) No proceedings taken under this Act or any such regulations shall be invalid for want of form.
+(2) No proceedings taken under this Act shall be invalid for want of form.
 
-[111
+[107
 
-### Jurisdiction of District and Magistrate’s Courts
+### Jurisdiction of court
 
-108\. Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court or Magistrate’s Court shall have jurisdiction to try any offence under this Act or any regulations made thereunder and to impose the full penalty or punishment in respect of any such offence.
+106\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
-[112
+[108
 
 ### Evidence
 
-109\.—(1) The contents of any document prepared, issued or served under or for the purposes of this Act shall, until the contrary is proved, be presumed to be correct and the production of any book purporting to contain any apportionment made under this Act shall, without any other evidence, be received as prima facie proof of the making and validity of the apportionment mentioned therein.
+107\.—(1) The contents of any document prepared, issued or served under or for the purposes of this Act shall, until the contrary is proved, be presumed to be correct and the production of any book purporting to contain any apportionment made under this Act shall, without any other evidence, be received as prima facie proof of the making and validity of the apportionment mentioned therein.
 
-(2) All records, registers and other documents kept by the Director-General or by any public officer for the purposes of this Act or any regulations made thereunder shall be deemed to be public documents, and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, and subscribed by such officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts therefrom.
+(2) All records, registers and other documents kept by the Director-General or by any public officer for the purposes of this Act shall be deemed to be public documents, and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, and subscribed by such officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts therefrom.
 
-[113
+[109
+
+[4/2002]
 
 ### Forms
 
-110\. The Director-General may design and utilise such forms as he may think fit for any of the purposes of this Act and any regulations made thereunder, and may require any person to complete any of the forms for any such purpose.
+108\. The Director-General may design and utilise such forms as he may think fit for any of the purposes of this Act, and may require any person to complete any of the forms for any such purpose.
 
-[115
+[110
+
+[4/2002]
 
 ### Amendment of Schedules
 
-111\. The Minister may, from time to time, by notification in theGazette, add to, alter or amend any of the Schedules.
+109\. The Minister may, from time to time, by notification in theGazette, add to, alter or amend any of the Schedules.
 
-[116
+[111
 
 ### Exemption
 
-112\. The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, exempt any person or premises or any class of persons or premises from any of the provisions of this Act.
+110\. The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, exempt any person or premises or any class of persons or premises from any of the provisions of this Act.
 
-[117
+[112
+
+[4/2002]
 
 ### Regulations
 
-113\.—(1) The Agency may, with the approval of the Minister, make regulations for or in respect of every purpose which he considers necessary for carrying out the provisions of this Act, and in particular, without prejudice to the generality of the foregoing, for or in respect of all or any of the matters specified in the Third Schedule.
+111\.—(1) The Agency may, with the approval of the Minister, make regulations for or in respect of every purpose which he considers necessary for carrying out the provisions of this Act, and in particular, without prejudice to the generality of the foregoing, for or in respect of all or any of the matters specified in the Third Schedule.
+
+[4/2002]
 
 (2) The Agency may, with the approval of the Minister, in making any regulations, prescribe the circumstances in which it shall be presumed that an offence under the provisions of any such regulations was committed.
 
+[4/2002]
+
 (3) The Agency may, with the approval of the Minister, in making any regulations, provide that any contravention of, or failure or neglect to comply with any regulations shall be an offence and may prescribe the fine with which the offence shall be punishable, but so that no such fine shall exceed for any one offence the sum of $10,000 and, in the case of a continuing offence, the sum of $500 for every day or part thereof during which the offence continues after conviction.
 
-[22/99]
+[22/99; 4/2002]
 
 (4) All regulations made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
-[114
+[113
 
 ### Transitional provision
 
-114\. Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before the date of commencement of the National Environment Agency Act 2002 shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
+112\. Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Commissioner of Public Health under any provision of this Act immediately before 1st July 20021shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
 
-[4/2002 wef 01/07/2002]
+1Date of commencment of the National Environment Agency Act 2002 (Act 4 of 2002).
+
+[114
+
+[4/2002]
 
 FIRST SCHEDULE
 
@@ -2018,7 +2000,7 @@ except a retail food establishment that is part of a food processing establishme
 
 except a catering establishment that is part of a food processing establishment as described in the Second Schedule to the Sale of Food Act.
 
-[7/2002 wef 01/07/2002]
+[7/2002]
 
 SECOND SCHEDULE
 
@@ -2040,7 +2022,7 @@ Infectious Diseases
 
 THIRD SCHEDULE
 
-Section 113(1)
+Section 111(1)
 
 Subject Matters of Regulations
 
@@ -2076,7 +2058,7 @@ Subject Matters of Regulations
 
 13\. The prescribing of a code of practice relating to the control and regulation of noise levels in work places and construction sites.
 
-14\. The prescribing of fees for licences and the prescribing of fees and charges for any of the purposes of this Act or any regulations made thereunder and the prescribing of any other matter which by this Act is required to be or may be prescribed.
+14\. The prescribing of fees for licences and the prescribing of fees and charges for any of the purposes of this Act and the prescribing of any other matter which by this Act is required to be or may be prescribed.
 
 15. The prohibition and control of the burning of joss sticks and candles.
 
@@ -2084,7 +2066,7 @@ Subject Matters of Regulations
 
 FOURTH SCHEDULE
 
-Section 106
+Section 4(2)
 
 Private Persons Who Can be Authorised to Exercise Powers under the Act or Regulations and Powers in Respect of Which Persons May Act
 
@@ -2163,7 +2145,7 @@ Powers of an authorised officer under —
 
 (a) section 21 of the Act; and
 
-(b) sections 96 and 99 of the Act in relation to any offence under section 17 of the Act and regulation 15(1) of the Environmental Public Health (Public Cleansing) Regulations (Rg 3)
+(b) sections 86 and 88 of the Act in relation to any offence under section 17 of the Act and regulation 15(1) of the Environmental Public Health (Public Cleansing) Regulations (Rg 3)
 
 (3) Any employee of an agent of a Town Council
 
@@ -2180,7 +2162,7 @@ Powers of an authorised officer under —
 
 (a) section 21 of the Act; and
 
-(b) sections 96 and 99 of the Act in relation to any offence under section 17 of the Act.
+(b) sections 86 and 88 of the Act in relation to any offence under section 17 of the Act.
 
 (5) Any employee of PSA Corporation Limited
 
@@ -2188,9 +2170,9 @@ Powers of an authorised officer under —
 
 (a) sections 21 and 42 of the Act;
 
-(b) section 96 of the Act in relation to any offence under section 17, 18 or 19 of the Act, Part IV of the Act or to any offence under regulations 4, 8(2), 9, 14, 15(1) or (3), 25 and 26(1) (a) and (b) of the Environmental Public Health (Public Cleansing) Regulations; and
+(b) section 86 of the Act in relation to any offence under section 17, 18 or 19 of the Act, Part IV of the Act or to any offence under regulations 4, 8(2), 9, 14, 15(1) or (3), 25 and 26(1)(a) and (b) of the Environmental Public Health (Public Cleansing) Regulations (Rg 3); and
 
-(c) section 99 of the Act in relation to any offence under regulations 4, 8(2), 9, 14, 15(1) or (3), 25 and 26(1) (a) and (b) of the Environmental Public Health (Public Cleansing) Regulations.
+(c) section 88 of the Act in relation to any offence under regulations 4, 8(2), 9, 14, 15(1) or (3), 25 and 26(1)(a) and (b) of the Environmental Public Health (Public Cleansing) Regulations.
 
 ## LEGISLATIVE HISTORY
 
@@ -2198,490 +2180,238 @@ Environmental Public Health Act
 
 (CHAPTER 95)
 
-This Legislative History is provided for the convenience of users of the Environmental Public Health Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Betting Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
-|1.|**Act 14 of 1987—Environmental Public Health Act 1987**|
-||Date of First Reading|26 January 1987|
-|||(Bill No. 2/87 published on 2 February 1987)|
-||Date of Second and Third Readings|20 May 1987|
-||Date of commencement|1 July 1987|
-|2.|**1988 Revised Edition—Environmental Public Health Act**|
-||Date of operation|30 April 1988|
-|3.|**Act 37 of 1989—Environmental Public Health (Amendment) Act 1989**|
-||Date of First Reading|6 October 1989|
-|||(Bill No. 38/89 published on 7 October 1989)|
-||Date of Second and Third Readings|30 November 1989|
-||Date of commencement|15 January 1990|
-|4.|**Act 32 of 1992—Environmental Public Health (Amendment) Act 1992**|
-||Date of First Reading|31 July 1992|
-|||(Bill No. 31/92 published on 1 August 1992)|
-||Date of Second and Third Readings|14 September 1992|
-||Date of commencement|1 November 1992|
-|5.|**Act 2 of 1996—Environmental Public Health (Amendment) Act 1996**|
-||Date of First Reading|1 November 1995|
-|||(Bill No. 41/95 published on 2 November 1995)|
-||Date of Second and Third Readings|5 December 1995|
-||Date of commencement|2 February 1996|
-|6.|**G. N. No. S 77/1998—Environmental Public Health Act (Amendment of Fourth Schedule) Notification 1998**|
-||Date of commencement|1 March 1998|
-|7.|**Act 9 of 1999—Environmental Pollution Control Act 1999**|
-||(Consequential amendments made by)||
-||Date of First Reading|20 January 1999|
-|||(Bill No. 2/99 published on 21 January 1999)|
-||Date of Second and Third Readings|11 February 1999|
-||Date of commencement|1 April 1999|
-|8.|**Act 22 of 1999—Environmental Public Health (Amendment) Act 1999**|
-||Date of First Reading|8 March 1999|
-|||(Bill No. 11/99 published on 9 March 1999)|
-||Date of Second and Third Readings|4 May 1999|
-||Date of commencement|1 June 1999|
-|9.|**1999 Revised Edition—Environmental Public Health Act**|
-||Date of operation|1 August 1999|
-|10.|**Act 4 of 2002—National Environment Agency Act 2002**|
-||(Consequential amendments made by)||
-||Date of First Reading|3 May 2002|
-|||(Bill No. 13/2002 published on 4 May 2002)|
-||Date of Second and Third Readings|24 May 2002|
-||Date of commencement|1 July 2002|
-|11.|**Act 7 of 2002—Sale of Food (Amendment) Act 2002**|
-||(Consequential amendments made by)||
-||Date of First Reading|3 April 2002|
-|||(Bill No. 10/2002 published on 4 May 2002)|
-||Date of Second and Third Readings|24 May 2002|
-||Date of commencement|1 July 2002|
+|1.|**Ordinance 30 of 1960—Betting Ordinance 1960**|
+||Date of First Reading|6 April 1960|
+|||(Bill No. 74/60)|
+||Date of Second and Third Readings|12 May 1960|
+||Date of commencement|20 May 1960|
+|2.|**1970 Revised Edition —Betting Act (Chapter 95)**|
+||Date of operation|1 January 1970|
+|3.|**Act 21 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1973**|
+||Date of First Reading|7 March 1973|
+|||(Bill No. 16/73 published on 9 March 1973)|
+||Date of Second and Third Readings|20 March 1973|
+||Date of commencement|6 April 1973|
+|4.|**Act 8 of 1986—Betting (Amendment) Act 1986**|
+||Date of First Reading|31 October 1985|
+|||(Bill No. 15/85 published on 8 November 1985)|
+||Date of Second and Third Readings|10 January 1986|
+||Date of commencement|25 February 1986|
+|5.|**1985 Revised Edition—Betting Act (Chapter 21)**|
+||Date of operation|30 March 1987|
+|6.|**Act 43 of 1999—Telecommunications Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 33/99 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
+|7.|**Act 13 of 2004—Singapore Totalisator Board (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 2004|
+|||(Bill No. 8/2004 published on 28 February 2004)|
+||Date of Second and Third Readings|20 April 2004|
+||Date of commencement|1 May 2004|
+|8.|**Act 12 of 2008—Singapore Totalisator Board (Amendment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 May 2008|
+|||(Bill No. 7/2008 published on 26 May 2008)|
+||Date of Second and Third Readings|21 July 2008|
+||Date of commencement|27 December 2010|
+|9.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 April 2010|
+|||(Bill No. 11/2010 published on 26 April 2010)|
+||Date of Second and Third Readings|19 May 2010|
+||Date of commencement|2 January 2011|
+|10.|**2011 Revised Edition—Betting Act (Chapter 21)**|
+||Date of operation|31 December 2011|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
 
 (CHAPTER 95)
 
-The following provisions in the 1988 Revised Edition of the Environmental Public Health Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+The following provisions in the 1999 Revised Edition of the Environmental Public Health Act have been renumbered by the Law Revision Commissioners in this 2002 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Environmental Public Health Act.
 
-1999 Ed.
+2002 Ed\. 
 
-1988 Ed.
+1999 Ed\. 
+
+4 —(1)
+
+3 —(3)
+
+(2)
+
+(4)
 
 —
 
-13 (Repealed by Act 2/96)
+4 (Repealed by Act 4/2002)
 
-13
+45 —(9) and (10)
 
-14
+45 —(9)
 
-14
-
-15
-
-15
-
-16
-
-16
-
-17
-
-17
-
-18
-
-18
-
-19
-
-19
-
-20
-
-20
-
-20A
-
-24—(1)
-
-24— (1A)
-
-(3)
-
-(2)
-
-Omitted — Spent
-
-31—(9)
-
-37—(1), (2) and (3)
-
-37— (1)
-
-(4)
-
-(2)
-
-(5)
-
-(3)
-
-(6)
-
-(4)
-
-40—(6) and (7)
-
-40—(6)
-
-(8)
-
-(7)
-
-(9)
-
-(8)
-
-45—(6) and (7)
-
-45—(6)
-
-(8)
-
-(7)
-
-(9)
-
-(8)
+(11)
 
 (10)
 
-(9)
+PART X — ENFORCEMENT
+
+PART X — MISCELLANEOUS
+
+82 
+
+83 
+
+83 
+
+84 
+
+84 
+
+87 
+
+85 
+
+88 
+
+86 
+
+96 
+
+87 
+
+97 
+
+88 
+
+99 
+
+PART XI — COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 —
 
-Part VI (Repealed by Act 9/99)
+90 
 
-Part VI
+85 
 
-Part VII
+91 
 
-47
+89A 
 
-50
+92 
 
-48
+91 
 
-51
+93 
 
-49
+92 
 
-52
+94 
 
-50
+93 
 
-53
+95 
 
-51
+102 
 
-54
+PART XII — MISCELLANEOUS PROVISIONS
 
-52
+—
 
-55
+96 
 
-53
+82 
 
-56
+97 
 
-54
+90 
 
-57
+98 
 
-55
+86 
 
-58
+99— (1)
 
-56
+94 —(1)
 
-59
-
-57—(2) and (3)
-
-60—(2)
-
-58—(3) and (4)
-
-61—(3)
-
-(5)
-
-(4)
-
-59—(1) and (2)
-
-62—(1)
-
-(3)
+(2) and (3)
 
 (2)
 
-(4)
+(4) to (6)
 
-(3)
+(2A) to (2C)
 
-60
+(7) to (13)
 
-63
+(3) to (9)
 
-61
+(14)
 
-64
+(9A)
 
-62
+(15)
 
-65
+(10)
 
 —
 
-Part VIII (Repealed by Act 2/96)
+100 (Repealed by Act 4/200)
 
-Part VII
+100 
 
-Part IX
+95 
 
-63
+101 
 
-69
+98 
 
-64
+102 
 
-70
-
-65
-
-71
-
-66
-
-72
-
-Part VIII
-
-Part X
-
-67
-
-73
-
-68
-
-74
-
-69
-
-75
-
-70
-
-76
-
-71
-
-77
-
-72
-
-78
-
-73
-
-79
-
-74
-
-80
-
-75
-
-81
-
-76
-
-82
-
-77
-
-83
-
-Part IX
-
-Part XI
-
-78
-
-84
-
-79
-
-85
-
-80
-
-86
-
-Part X
-
-Part XII
-
-81
-
-87
-
-82
-
-88
-
-83
-
-89
-
-84
-
-90
-
-85
-
-91
-
-86
-
-92
-
-87
-
-93
-
-88
-
-94
-
-89
-
-95
-
-90
-
-96
-
-91
-
-97
-
-92
-
-98
-
-93
-
-99
-
-94
-
-100
-
-95
-
-101
-
-96
-
-102
-
-97
-
-102A
-
-98
-
-103
-
-99
-
-104
-
-100
-
-105
-
-101
-
-106
-
-102
-
-107
-
-103
-
-108
-
-104
-
-109
-
-105
-
-110
-
-106
-
-110A
-
-107—(1) and (2)
-
-111
-
-108
-
-112
-
-109
-
-113
-
-110
-
-115
-
-111
-
-116
-
-112
-
-117
-
-113
-
-114
-
-Omitted —Spent
-
-118
+101 
 
 —
 
-Second Schedule (Deleted by Act 2/96)
+105 and 106 (Repealed by Act 4/2002)
 
-Second Schedule
+105 
 
-Third Schedule
+107 
 
-Third Schedule
+106 
 
-Fourth Schedule
+108 
 
-Fourth Schedule
+107 
 
-Fifth Schedule
+109 
+
+108 
+
+110 
+
+109 
+
+111 
+
+110 
+
+112 
+
+111 
+
+113 
+
+112 
+
+114 
 
