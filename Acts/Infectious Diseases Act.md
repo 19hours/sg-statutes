@@ -80,7 +80,7 @@
 
 - [32 Disinfection and treatment of vessel and vehicle](#Disinfection-and-treatment-of-vessel-and-vehicle)
 
-- [33 Prohibition of entry](#Prohibition-of-entry)
+- [33 (Repealed)](#Repealed)
 
 - [34 Arrival of infected ships](#Arrival-of-infected-ships)
 
@@ -96,13 +96,15 @@
 
 - [40 Powers of Director-General or Port Health Officer regarding food and water](#Powers-of-Director-General-or-Port-Health-Officer-regarding-food-and-water)
 
-- [41 Importation of agents and vectors of diseases](#Importation-of-agents-and-vectors-of-diseases)
+- [41 Importation of vectors of diseases](#Importation-of-vectors-of-diseases)
+
+- [41A Importation of agents of diseases](#Importation-of-agents-of-diseases)
 
 - [42 Power to inspect merchandise, etc., on board vessel](#Power-to-inspect-merchandise-etc-on-board-vessel)
 
 - [43 Corpses](#Corpses)
 
-- [44 Master, etc., of vessel to assist Director-General and Port Health Officer](#Master-etc-of-vessel-to-assist-Director-General-and-Port-Health-Officer)
+- [44 Master, etc., of vessel to assist Director-General, Director, etc.](#Master-etc-of-vessel-to-assist-Director-General-Director-etc)
 
 - [45 Liability of master, owner or agent for expenses](#Liability-of-master-owner-or-agent-for-expenses)
 
@@ -110,7 +112,7 @@
 
 - [46 Responsibility of parent or guardian](#Responsibility-of-parent-or-guardian)
 
-- [47 Vaccination of groups of people](#Vaccination-of-groups-of-people)
+- [47 Power to order mandatory vaccination of persons in certain cases](#Power-to-order-mandatory-vaccination-of-persons-in-certain-cases)
 
 - [48 Vaccination and intradermal tests](#Vaccination-and-intradermal-tests)
 
@@ -128,11 +130,11 @@
 
 [**Part VI MISCELLANEOUS**](#Part-VI)
 
-- [55 Rights of entry and requisition](#Rights-of-entry-and-requisition)
+- [55 Powers of Director and Health Officers in dealing with outbreaks and suspected outbreaks of infectious diseases](#Powers-of-Director-and-Health-Officers-in-dealing-with-outbreaks-and-suspected-outbreaks-of-infectious-diseases)
 
 - [56 Powers of arrest](#Powers-of-arrest)
 
-- [57 Police officer or public officer may demand names and addresses in certain cases](#Police-officer-or-public-officer-may-demand-names-and-addresses-in-certain-cases)
+- [57 Police officer or Health Officer may demand names and addresses in certain cases](#Police-officer-or-Health-Officer-may-demand-names-and-addresses-in-certain-cases)
 
 - [58 Extraordinary powers in relation to emergency measures](#Extraordinary-powers-in-relation-to-emergency-measures)
 
@@ -152,11 +154,11 @@
 
 - [66 Offences triable by Magistrate’s Court unless otherwise provided](#Offences-triable-by-Magistrate’s-Court-unless-otherwise-provided)
 
-- [67 Protection for certain persons](#Protection-for-certain-persons)
+- [67 Immunity of Government, Agency, etc.](#Immunity-of-Government-Agency-etc)
 
 - [68 Composition of offences](#Composition-of-offences)
 
-- [68A Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
+- [68A Fees, etc., collected by Director and Director-General](#Fees-etc-collected-by-Director-and-Director-General)
 
 - [69 Amendment of Schedules](#Amendment-of-Schedules)
 
@@ -206,6 +208,10 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
+“Agency” means the National Environment Agency established under the National Environment Agency Act 2002 (Act 4 of 2002);
+
+[5/2003 wef 01/04/2003]
+
 “AIDS” means Acquired Immune Deficiency Syndrome;
 
 “baggage” means the personal effects of a traveller or of a crew member of a vessel;
@@ -232,7 +238,7 @@ PRELIMINARY
 
 “food establishment” means any place or any premises or part thereof used for the sale or for the preparation or manufacture for sale, or for the storage or packing for sale, of food, whether cooked or not, intended for human consumption;
 
-“Health Officer” means any medical practitioner who is appointed by the Director-General or the Director to carry out the duties of a Health Officer under this Act or the regulations made thereunder;
+“Health Officer” means any person who is appointed by the Director-General or the Director to carry out the duties of a Health Officer under this Act or the regulations made thereunder;
 
 [26/2001 wef 01/09/2001]
 
@@ -244,7 +250,19 @@ PRELIMINARY
 
 “infected” means infected with the germs of an infectious disease;
 
-“infectious disease” means any of the diseases set out in the First Schedule;
+“infectious disease” means —
+
+(a) any of the diseases specified in the First Schedule; and
+
+(b) for the purposes of sections 7, 8, 9, 10, 13, 14, 15, 16, 19, 47, 55 and 72(1)(g), includes any other disease —
+
+(i) that is caused or is suspected to be caused by a micro-organism or any agent of disease;
+
+(ii) that is capable or is suspected to be capable of transmission by any means to human beings; and
+
+(iii) that, the Director has reason to believe, if left uninvestigated or unchecked, is likely to result in an epidemic of the disease;
+
+[5/2003 wef 01/04/2003]
 
 “isolation”, in relation to a person or group of persons, means the separation of that person or group of persons from any other persons, except the health staff on duty, in such a manner as to prevent the spread of infection, and “isolated” has a corresponding meaning;
 
@@ -254,9 +272,11 @@ PRELIMINARY
 
 “Minister” means —
 
-(a) in relation to Parts III and V, the Minister charged with the responsibility for health; and
+(a) in relation to sections 3(1), 7(1),19 (2), 21(3), 25(1)(k), 26, 47, 52, 54 and 58(1), the Minister charged with the responsibility for health; and
 
-(b) in relation to Part IV, the Minister charged with the responsibility for the environment;
+(b) in relation to section 3(2), the Minister charged with the responsibility for the environment
+
+[5/2003 wef 01/04/2003]
 
 “nurse” means a registered nurse or enrolled nurse within the meaning of the Nurses and Midwives Act 1999;
 
@@ -273,6 +293,10 @@ PRELIMINARY
 “pratique”, in relation to a vessel, means the written permission granted by a Port Health Officer to the vessel to disembark and commence operation;
 
 “premises” means messuages, buildings, lands, easements and hereditaments of any tenure whether open or enclosed, whether public or private and whether maintained or not under statutory authority, and includes any place or structure or any part thereof used or intended to be used for human habitation or for employment or any other purpose;
+
+“public place” means any place or premises to which the public or any section of the public has access, on payment or otherwise, as of right or by virtue of express or implied permission, and includes any place or premises used by the public or a section of the public for educational or recreational purposes or for assemblage;
+
+[5/2003 wef 01/04/2003]
 
 “quarantine” means the compulsory detention in isolation for the purpose and under the provisions of this Act or any regulations made thereunder of any ships, persons, goods, things, animals or plants;
 
@@ -292,9 +316,13 @@ ADMINISTRATION
 
 ### Administration of this Act
 
-3\.—(1) The Director shall, subject to any general or special directions of the Minister, be responsible for the administration of Parts III and V.
+3\.—(1) Except as otherwise provided by this Act, the Director shall, subject to any general or special directions of the Minister, be responsible for the administration of Parts III and V.
 
-(2) The Director-General shall, subject to any general or special directions of the Minister, be responsible for the administration of Part IV.
+[5/2003 wef 01/04/2003]
+
+(2) Except as otherwise provided by this Act, the Director-General shall, subject to any general or special directions of the Minister, be responsible for the administration of Part IV.
+
+[5/2003 wef 01/04/2003]
 
 (3) The appropriate Minister may, by notification in theGazette, direct that the powers conferred on the Director under Part III be exercised by the Director-General in relation to such matters as may be specified in the notifications.
 
@@ -308,7 +336,7 @@ ADMINISTRATION
 
 ### Advisory committees
 
-5\. The Minister may establish one or more advisory committees consisting of such members as he may appoint for the purpose of giving advice to the Director-General or the Director, as the case may be, with regard to such matters arising out of the administration of this Act as are referred to them by the Minister.
+5\. The appropriate Minister may establish one or more advisory committees consisting of such members as he may appoint for the purpose of giving advice to the Director-General or the Director, as the case may be, with regard to such matters arising out of the administration of this Act as are referred to them by the Minister.
 
 ## PART III
 
@@ -316,11 +344,11 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 ### Notification of infectious diseases
 
-6\.—(1) Every medical practitioner who has reason to believe or suspect that any person attended or treated by him is suffering from an infectious disease or is a carrier of that disease shall forthwith give notice in the prescribed form to the Director.
+6\.—(1) Every medical practitioner who has reason to believe or suspect that any person attended or treated by him is suffering from an infectious disease or is a carrier of that disease shall notify the Director within the prescribed time and in such form or manner as the Director may require.
 
-(2) Every person in charge of a laboratory used for the diagnosis of disease who becomes aware of the existence of an infectious disease in the course of his work shall forthwith give notice in the prescribed form to the Director.
+(2) Every person in charge of a laboratory used for the diagnosis of disease who becomes aware of the existence of an infectious disease in the course of his work shall notify the Director within the prescribed time and in such form or manner as the Director may require.
 
-(3) Any person who is aware or who suspects that any other person is suffering or has died from or is a carrier of an infectious disease shall forthwith give notice in the prescribed form to the Director.
+(3) Any person who is aware or who suspects that any other person is suffering or has died from or is a carrier of an infectious disease shall notify the Director within the prescribed time and in such form or manner as the Director may require.
 
 (4) Any person who is required to notify the Director under this section shall give any other particulars required by the Director so far as they can be reasonably ascertained by him or are within his knowledge.
 
@@ -350,7 +378,13 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 (2) The Director may require any person who is suffering from an infectious disease or is a carrier of that disease to undergo appropriate treatment in a hospital or any place specified by the Director.
 
-(3) The Director may order the removal of any person who fails to comply with the requirements of the Director under this section to a hospital or place where such person may be detained until he is free from infection.
+(3) If any person fails to comply with the requirements of the Director under this section —
+
+(a) that person shall be guilty of an offence; and
+
+(b) the Director may order the removal of that person to a hospital or place where the person may be detained until he is free from infection.
+
+[5/2003 wef 01/04/2003]
 
 ### Post-mortem examination
 
@@ -382,7 +416,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Treatment of premises or vessel
 
-12\.—(1) The Director may, by notice in writing, require the owner or occupier of any premises or vessel to cleanse or disinfect it or destroy any insect, rat or other vermin found therein in the manner and within the time specified in the notice.
+12\.—(1) The Director may, by notice in writing, require the owner or occupier of any premises or vessel to cleanse or disinfect it in the manner and within the time specified in the notice.
 
 (2) Any owner or occupier who fails to comply with the requirements of the notice served under subsection (1) shall be guilty of an offence.
 
@@ -424,7 +458,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Powers of arrest
 
-17\.—(1) Any person who, being under isolation or subjected to surveillanceunder the provisions of this Act or any regulations made thereunder, escapes or fails to present himself for examination or treatment as required by the Director may be arrested without warrant by any officer authorised by the Director and detained in any hospital or place for such period as may be determined by the Director.
+17\.—(1) Any person who, being under isolation or subjected to surveillance or required to undergo any examination or treatment under the provisions of this Act or any regulations made thereunder, escapes or fails to present himself for examination or treatment as required by the Director may be arrested without warrant by any officer authorised by the Director and detained in any hospital or place for such period as may be determined by the Director.
 
 (2) Any person who, being under isolation on the order of the Director under any of the provisions of this Act, escapes or attempts to escape from the hospital or place in which he is detained shall be guilty of an offence.
 
@@ -662,11 +696,21 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 26\. Whenever the Minister has reason to believe that a dangerous infectious disease may be introduced into Singapore from or through any area in Singapore or elsewhere he may, by notification in theGazette, declare that area to be an infected area.
 
+(1) Whenever the Minister has reason to believe that a dangerous infectious disease may be introduced into Singapore from or through any area in Singapore or elsewhere he may, by notification in theGazette, declare that area to be an infected area.
+
+[5/2003 wef 01/04/2003]
+
+[21
+
+(2) The Minister may, in his discretion, issue an order prohibiting the entry into Singapore of any person or class of persons from an infected area declared under subsection (1) except under such conditions as he may specify.
+
+[5/2003 wef 01/04/2003]
+
 [21
 
 ### Vessels, persons and articles from infected area
 
-27\.—(1) For the purposes of this Part, all vessels, persons and articles coming from an infected area shall be deemed to be infected unless otherwise declared by the Director-General.
+27\.—(1) For the purposes of this Part, all vessels, persons and articles coming from an infected area shall be deemed to be infected unless otherwise declared by the Director.
 
 (2) A vessel and any person and article on board shall also be deemed to be infected if an infectious disease is found on board or if such infection was present amongst the crew, passengers, rodents or vectors on board the vessel.
 
@@ -674,7 +718,7 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 ### Information required on arrival of vessels
 
-28\.—(1) The master and the surgeon, if there is one on board, or the agent of any vessel arriving in Singapore shall provide such particulars as may be required by the Director-General or Port Health Officer in such form as may be prescribed.
+28\.—(1) The master and the surgeon, if there is one on board, or the agent of any vessel arriving in Singapore shall provide such particulars as may be required by the Director-General or Port Health Officer in such form or manner as the Director-General may require.
 
 (2) Any master, surgeon or agent who fails to comply with subsection (1) or who provides any information which is false or misleading shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -686,7 +730,7 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 (a) inspect any vessel or vehicle or any person or goods on board the vessel or in the vehicle when in Singapore;
 
-(b) subject persons on board a vessel or in a vehicle, upon arrival, to medical examination and, if necessary, to isolation, surveillance or treatment;
+(b) subject persons on board a vessel or in a vehicle, upon arrival, to medical examination ;
 
 (c) direct health and sanitary measures to be taken in respect of a vessel or vehicle;
 
@@ -728,17 +772,13 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 ### Disinfection and treatment of vessel and vehicle
 
-32\.—(1) The Director-General or a Port Health Officer may, in his discretion, order the disinfection and treatment of the clothes and personal effects of any infected person arriving in Singapore.
+32\.—(1) The Director or a Health Officer authorised by the Director may, in his discretion, order the disinfection and treatment of the clothes and personal effects of any infected person arriving in Singapore.
 
-(2) Any vessel or vehicle which has conveyed an infected person shall be cleansed, disinfected or treated in such manner as may be directed by the Director-General or a Port Health Officer.
+(2) Any vessel or vehicle which has conveyed an infected person shall be cleansed, disinfected or treated in such manner as may be directed by the Director or a Health Officer authorised by the Director.
 
 [27
 
-### Prohibition of entry
-
-33\. The Minister may, in his discretion, issue an order prohibiting the entry into Singapore of any person or class of persons from an infected area declared under section 26 except under such conditions as may be prescribed by him.
-
-[28
+33\. [Deleted by Act 5/2003 wef 01/04/2003]
 
 ### Arrival of infected ships
 
@@ -828,19 +868,27 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 [35
 
-### Importation of agents and vectors of diseases
+### Importation of vectors of diseases
 
-41\.—(1) No person shall import or bring or cause to be imported or brought into Singapore any disease-causing organism or any vectors capable of transmitting a disease without first obtaining the written permission of the Director-General.
+41\.—(1) No person shall import or bring or cause to be imported or brought into Singapore any vectors capable of transmitting a disease without first obtaining the written permission of the Director-General.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [36
 
+### Importation of agents of diseases
+
+41A\.—(1) No person shall, without the prior written permission of the Director, import or bring or cause to be imported or brought into Singapore any disease-causing organism or any agent of disease capable of transmitting a disease.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[5/2003 wef 01/04/2003]
+
 ### Power to inspect merchandise, etc., on board vessel
 
-42\.—(1) The Director-General or a Port Health Officer may inspect and examine any articles, merchandise, baggage or cargo, on board any vessel, which are in his opinion infected or likely to be infected.
+42\.—(1) The Director-General or a Port Health Officer may inspect and examine any articles, merchandise, baggage or cargo, on board any vessel, which are in his opinion contaminated or likely to be contaminated.
 
-(2) The Director-General or the Port Health Officer may order any infected articles, merchandise, baggage or cargo found on board the vessel to be —
+(2) The Director-General or the Port Health Officer may order any contaminated articles, merchandise, baggage or cargo found on board the vessel to be —
 
 (a) seized and treated or disposed of in such manner as he thinks fit; and
 
@@ -864,11 +912,11 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 [38
 
-### Master, etc., of vessel to assist Director-General and Port Health Officer
+### Master, etc., of vessel to assist Director-General, Director, etc.
 
-44\.—(1) The master, owner or agent of a vessel shall provide such facilities and assistance as the Director-General or a Port Health Officer may require in exercising his powers for the purpose of carrying out the provisions of this Act.
+44\.—(1) The master, owner or agent of a vessel shall provide such facilities and assistance as the Director-General, the Director, a Port Health Officer or a Health Officer may require in exercising his powers for the purpose of carrying out the provisions of this Act.
 
-(2) The master, owner or agent of a vessel shall take all reasonable measures and exercise due and proper care to ensure the safety of the Director-General or a Port Health Officer and their staff in the course of their work on board the vessel.
+(2) The master, owner or agent of a vessel shall take all reasonable measures and exercise due and proper care to ensure the safety of the Director-General , the Director, a Port Health Officer or a Health Officer and any person acting under his direction in the course of their work on board the vessel.
 
 (3) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -876,15 +924,15 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 ### Liability of master, owner or agent for expenses
 
-45\.—(1) The master, owner and agent of any vessel which has been ordered into quarantine or of any vessel from which any person is removed for quarantine shall be responsible for the removal, care and maintenance, conveyance and medical surveillance of all persons on board the vessel and the provision of such services as the Director-General or a Port Health Officerconsiders necessary to ensure the satisfactory performance of the quarantine of the vessel and the persons on board.
+45\.—(1) The master, owner and agent of any vessel which has been ordered into quarantine or of any vessel from which any person is removed for quarantine shall be responsible for the removal, care and maintenance, conveyance and medical surveillance of all persons on board the vessel and the provision of such services as the Director-General, the Director, a Port Health Officer or a Health Officer considers necessary to ensure the satisfactory performance of the quarantine of the vessel and the persons on board.
 
 (2) The master, owner or agent of any vessel which has been ordered into quarantine or to be cleansed, fumigated, disinfected or otherwise treated, shall pay the costs and expenses of removal of any cargo and goods from the vessel incurred in the cleansing, fumigation, disinfection or treatment of the vessel.
 
-(3) The master, owner or agent of the vessel may make arrangement with the Director-General or a Port Health Officerfor the carrying out of any of the responsibilities under this section and for the payment of the costs and expenses thereof.
+(3) The master, owner or agent of the vessel may make arrangement with the Director-General , the Director, a Port Health Officer or a Health Officer for the carrying out of any of the responsibilities under this section and for the payment of the costs and expenses thereof.
 
-(4) The Director-General or a Port Health Officermay take any action he considers necessary to ensure that the vessel or any person or articles on board performs the quarantine satisfactorily and any expenses incurred thereby shall be recoverable from the owner or agent of the vessel as a debt due to the Agency .
+(4) The Director-General , the Director, a Port Health Officer or a Health Officer may take any action he considers necessary to ensure that the vessel or any person or articles on board performs the quarantine satisfactorily and any expenses incurred thereby shall be recoverable from the owner or agent of the vessel as a debt due to the Agency or the Government, as the case may be.
 
-(5) The Director-General or a Port Health Officermay require the master, owner or agent of the vessel to give such security as he thinks necessary to ensure that the master, owner or agent of the vessel will carry out his responsibilities under this section satisfactorily.
+(5) The Director-General , the Director, a Port Health Officer or a Health Officer may require the master, owner or agent of the vessel to give such security as he thinks necessary to ensure that the master, owner or agent of the vessel will carry out his responsibilities under this section satisfactorily.
 
 [40
 
@@ -900,11 +948,23 @@ VACCINATION
 
 [41
 
-### Vaccination of groups of people
+### Power to order mandatory vaccination of persons in certain cases
 
-47\. In an outbreak of any infectious disease in any area in Singapore, the Minister may by order direct any person or class of persons not protected or vaccinated against the disease to be forthwith vaccinated.
+47\.—(1) In an outbreak of any infectious disease in any area in Singapore, the Minister may by order direct any person or class of persons not protected or vaccinated against the disease to be vaccinated within such period as may be specified in the order.
 
-[42
+(2) In addition to the power conferred by subsection (1), whenever it appears to the Minister that —
+
+(a) an outbreak of an infectious disease in any area in Singapore is imminent; and
+
+(b) it is necessary or expedient to do so for the securing of public safety,
+
+the Minister may by order direct any person or class of persons not protected or vaccinated against that infectious disease to be vaccinated within such period as may be specified in the order.
+
+(3) Any order made under subsection (1) or (2) may specify the person by whom and the manner in which the vaccination is to be carried out.
+
+(4) Where any order is made under subsection (1) or (2), the Minister shall cause notice of the effect of the order to be given in such a manner as he thinks necessary for bringing it to the notice of all persons who in his opinion ought to have notice thereof.
+
+[5/2003 wef 01/04/2003]
 
 ### Vaccination and intradermal tests
 
@@ -914,15 +974,13 @@ VACCINATION
 
 (a) keep in the prescribed manner a record of all vaccination and intradermal tests carried out by him or under his supervision; and
 
-(b) within 7 days of a vaccination make a notification thereof in the prescribed form to —
+(b) within the prescribed period after carrying out any vaccination or intradermal test, notify in the prescribed manner —
 
-(i) the Director; or
+(i) the Director or any officer of the Board who is designated by the Director for the purpose; and
 
-(ii) any officer of the Board who is designated by the Director for the purpose,
+(ii) the person on whom the vaccination or intradermal test was carried out or, if such person is a child, to the parent or guardian of such child.
 
-and deliver the duplicate copy of the notification to the person on whom the vaccination or intradermal test was carried out or, if such person is a child, to the parent or guardian of such child.
-
-[5/2001 wef 01/04/2001]
+[5/2003 wef 01/04/2003]
 
 [43
 
@@ -934,19 +992,21 @@ and deliver the duplicate copy of the notification to the person on whom the vac
 
 ### Certificates of unfitness
 
-50\.—(1) If any medical practitioner is of the opinion that any person is not fit to be vaccinated, he shall forthwith deliver to that person or in the case of a child to the parent or guardian of the child an exemption certificate in the prescribed form.
+50\.—(1) If any medical practitioner is of the opinion that any person is not fit to be vaccinated, he shall forthwith deliver to that person or in the case of a child to the parent or guardian of the child an exemption certificate in such form as the Director may require.
 
-(2) Such exemption certificate shall remain in force for such period as may be prescribed.
+(2) Such exemption certificate shall remain in force for such period as may be specified therein.
 
-(3) Before the expiry of the prescribed period the person shall go, or the parent or guardian of the child shall take or cause the child to be taken, to a medical practitioner who shall then examine and vaccinate the person or child or give a further exemption certificate in respect of that person or child in such form as may be prescribed.
+(3) Before the expiry of the exemption certificate the person shall go, or the parent or guardian of the child shall take or cause the child to be taken, to a medical practitioner who shall then examine and vaccinate the person or child or give a further exemption certificate in respect of that person or child in such form as the Director may require.
 
-(4) Any medical practitioner who issues an exemption certificate under this section shall immediately send a copy thereof to the Director or to an officer of the Board who is designated by the Director for the purpose.
+(4) Any medical practitioner who issues an exemption certificate under this section shall, within the prescribed time and in such form or manner as the Director may require, notify the Director or an officer of the Board who is designated by the Director for the purpose.
 
-[5/2001 wef 01/04/2001]
+[5/2003 wef 01/04/2003]
+
+[45
 
 ### Offence
 
-51\. Any person who contravenes or fails to comply with any provision of this Part shall be guilty of an offence.
+51\. Any person who contravenes or fails to comply with any provision of this Part, or fails to comply with any notice given under section 46 or order made under section 47, shall be guilty of an offence.
 
 [46
 
@@ -980,21 +1040,83 @@ and deliver the duplicate copy of the notification to the person on whom the vac
 
 MISCELLANEOUS
 
-### Rights of entry and requisition
+### Powers of Director and Health Officers in dealing with outbreaks and suspected outbreaks of infectious diseases
 
-55\.—(1) Any person duly authorised by the Director-General or the Director may at any time and, if need be, by force enter into any premises or vessel in which a person who is or is reasonably suspected to be a case or carrier or contact of any infectious disease is or has recently been present for the purpose of preventing the spread of the infectious disease.
+55\.—(1) For the purpose of investigating into any outbreak or suspected outbreak of an infectious disease or for the purpose of preventing the spread of any such infectious disease, the Director or any Health Officer authorised by the Director may —
 
-(2) For the purpose of carrying out any provision of this Act or any regulations made thereunder, the Director-General may requisition for such period as he thinks necessary any vehicle or vessel and the owner of the vehicle or vessel shall be entitled to a reasonable compensation for the use and detention of the vehicle or vessel.
+(a) at any time without warrant and with such force as may be necessary —
 
-(3) Any place, which in the opinion of the Director, is suitable for the isolation and treatment of persons who are or are reasonably suspected to be cases or carriers or contacts of an infectious disease may be requisitioned by the Director and used for such purpose if unoccupied, without notice, and if occupied, after a written notice has been served on the owner or occupier or posted in a conspicuous position at the place.
+(i) enter, inspect and search any premises; or
 
-(4) The owner or occupier of the place shall be entitled to a reasonable compensation for the occupation of the place during the period of requisition.
+(ii) stop, board, inspect and search any conveyance,
 
-[50
+in which the outbreak or suspected outbreak has taken place;
+
+(b) take samples of any substance or matter, wherever found, if the Director or Health Officer has reason to believe that that substance or matter is the cause of, is contributory to or is otherwise connected with, the occurrence of the outbreak or suspected outbreak, and send such samples for such test, examination or analysis as the Director or Health Officer may consider necessary or expedient;
+
+(c) seize any substance or matter, wherever found, if the Director or Health Officer has reason to believe that that substance or matter is the cause of, is contributory to or is otherwise connected with, the occurrence of the outbreak or suspected outbreak;
+
+(d) require any person to destroy any food in his possession which the Director or Health Officer has reason to believe is the cause of, is contributory to or is otherwise connected with, the occurrence of the outbreak or suspected outbreak;
+
+(e) require any person —
+
+(i) to furnish any information within his knowledge; or
+
+(ii) to produce for inspection any book or document within his custody or possession ,
+
+that the Director or Health Officer has reason to believe will be useful for the purposes of the investigation into the outbreak or suspected outbreak;
+
+(f) require, by notice in writing, any person who is suspected of being infected with an infectious disease to submit to medical examination and have his blood or other body sample taken for examination within the time specified in such notice, and to undergo such treatment as may be necessary;
+
+(g) subject to subsection (4), order the closure or cordoning off of any public place in which the outbreak or suspected outbreak has taken place;
+
+(h) subject to subsections (5) and (6), requisition, for such period as the Director or Health Officer thinks necessary —
+
+(i) any premises which, in his opinion, is suitable for the isolation and treatment of persons who are or are reasonably suspected to be cases or carriers or contacts of the infectious disease; and
+
+(ii) any conveyance which, in his opinion, is suitable and necessary for use in connection with the prevention of the spread of the infectious disease; and
+
+(i) by order prohibit or restrict the movement of persons, animals and conveyances into, within or out of any public place referred to in paragraph (g) or any premises referred to in paragraph (h)(i).
+
+(2) Where the Director or Health Officer seizes any substance or matter under subsection (1)(c) —
+
+(a) the Director or Health Officer shall forthwith give notice in writing of the seizure to the owner of, or to the person from whom, the substance or matter was seized and may —
+
+(i) direct that the substance or matter under seizure be kept or stored in the premises or conveyance where it was seized or be removed to any other place to be kept or stored thereat; or
+
+(ii) dispose of the substance or matter immediately if the Director or Health Officer is of the view that the substance or matter is decayed, putrefied or deleterious to health; and
+
+(b) any person aggrieved by the seizure may, within 48 hours after the seizure, complain thereof to a Magistrate’s Court and the Magistrate’s Court may —
+
+(i) confirm the seizure wholly or in part;
+
+(ii) disallow the seizure wholly or in part;
+
+(iii) order that any substance or matter that has been seized be returned to its owner, subject to any condition which the Court may think fit to impose to ensure that the substance or matter is preserved for any purpose for which it may subsequently be required; or
+
+(iv) order payment to be made to the owner of or person entitled to the substance or matter seized of such amount as the Court considers reasonable compensation to him for any loss or depreciation resulting from the seizure.
+
+(3) Where —
+
+(a) no complaint is received by the Magistrate’s Court within 48 hours of the seizure under subsection (2)(b); or
+
+(b) the Magistrate’s Court confirms the seizure under subsection (2)(b)(i),
+
+the substance or matter seized in its entirety or to the extent to which its seizure was confirmed by the Magistrate’s Court, as the case may be, shall become the property of the Government and shall be disposed of in such manner as the Director thinks fit.
+
+(4) The power referred to in subsection (1)(g) shall not apply in respect of any public place where the power to order the closure or cordoning off of such public place in the same circumstances has been conferred by any other written law on some other public officer or statutory body.
+
+(5) Any premises that are unoccupied may be requisitioned under subsection (1)(h) without notice being given to the owner thereof, but no premises that are occupied shall be so requisitioned unless a written notice has been served on the owner or occupier or posted in a conspicuous position at those premises.
+
+(6) Where any premises or conveyance is requisitioned under subsection (1)(h), the owner or occupier of the premises or the owner or person having control and possession of the conveyance shall be entitled to a reasonable compensation for the occupation of the premises during the period of requisition, or for the use and detention of the conveyance, as the case may be.
+
+(7) Any person who fails to comply with any requirement or order made by the Director or a Health Officer under subsection (1)(d), (e), (f), (g) or (i) shall be guilty of an offence.
+
+[5/2003 wef 01/04/2003]
 
 ### Powers of arrest
 
-56\.—(1) Any police officer or any public officer authorised in writing in that behalf by the Director-General or the Director may arrest any person committing or who he has reason to believe has committed any offence punishable under this Act or any regulations made thereunder if —
+56\.—(1) Any police officer or any Health Officer authorised in writing in that behalf by the Director-General or the Director may arrest any person committing or who he has reason to believe has committed any offence punishable under this Act or any regulations made thereunder if —
 
 (a) the name and address of the person are unknown to him;
 
@@ -1008,13 +1130,13 @@ MISCELLANEOUS
 
 [51
 
-### Police officer or public officer may demand names and addresses in certain cases
+### Police officer or Health Officer may demand names and addresses in certain cases
 
-57\.—(1) Any person who is required by any police officer or by any public officer authorised in that behalf by the Director-General or the Director shall on demand give his name and address and other proof of identity to the police officer or public officer, as the case may be.
+57\.—(1) Any person who is required by any police officer or by any Health Officer authorised in that behalf by the Director-General or the Director shall on demand give his name and address and other proof of identity to the police officer or Health Officer, as the case may be.
 
-(2) The occupier of any premises shall, if required by any police officer or by a public officer authorised in that behalf by the Director-General or the Director, give his name and address and other proof of identity and the name and address of the owner of the premises, if known.
+(2) The occupier of any premises shall, if required by any police officer or by a Health Officer authorised in that behalf by the Director-General or the Director, give his name and address and other proof of identity and the name and address of the owner of the premises, if known.
 
-(3) Any person who fails to comply with any requirement properly made to him by a police officer or public officer under subsection (1) or (2), or wilfully misstates his name and address or the name and address of the owner of any premises, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+(3) Any person who fails to comply with any requirement properly made to him by a police officer or Health Officer under subsection (1) or (2), or wilfully misstates his name and address or the name and address of the owner of any premises, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
 [52
 
@@ -1068,7 +1190,7 @@ MISCELLANEOUS
 
 ### Evidence
 
-63\.—(1) All records, registers and other documents kept by the Director-General or the Director or by any public officeror officer of the Board for the purposes of this Act or any regulations made thereunder shall be deemed to be public documents, and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by such officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts therefrom.
+63\.—(1) All records, registers and other documents kept by the Director-General or the Director or by any Health Officer or officer of the Board for the purposes of this Act or any regulations made thereunder shall be deemed to be public documents, and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by such officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts therefrom.
 
 (2) In any proceedings for the recovery of costs and expenses incurred by the Director-General or the Director, a certificate purporting to be under the hand of the Director-General or the Director and specifying the costs and expenses claimed as due and payable and the person named in the certificate as liable for the payment thereof shall be prima facie evidence of the facts certified therein and of the signature of the Director-General or the Director thereto, as the case may be.
 
@@ -1094,11 +1216,11 @@ MISCELLANEOUS
 
 [61
 
-### Protection for certain persons
+### Immunity of Government, Agency, etc.
 
-67\. No person shall be personally liable in respect of any act done by him in the execution or purported execution of this Act and within the scope of his employment if he did it in the honest belief that his duty under this Act required or entitled him to do it.
+67\. No suit or other legal proceedings shall lie against the Government, the Agency or any other person for anything which is in good faith done or omitted to be done in the exercise of any power or the performance of any duty or function under this Act.
 
-[62
+[5/2003 wef 01/04/2003]
 
 ### Composition of offences
 
@@ -1106,11 +1228,13 @@ MISCELLANEOUS
 
 [63
 
-### Fees, etc., payable to Agency
+### Fees, etc., collected by Director and Director-General
 
-68A\. All fees, charges, composition fines and moneys collected under this Act or any regulations made thereunder shall be paid to the Agency.
+68A\.—(1) All fees, charges, composition sums and moneys collected by the Director in connection with the administration of this Act shall be paid into the Consolidated Fund.
 
-[4/2002 wef 01/07/2002]
+(2) All fees, charges, composition sums and moneys collected by the Director-General in connection with the administration of this Act shall be paid to the Agency.
+
+[5/2003 wef 01/04/2003]
 
 ### Amendment of Schedules
 
@@ -1357,6 +1481,11 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|1 July 2002|
 |21.|**G. N. No. S 127/2003—Infectious Diseases Act (Amendment of First and Second Schedules) Notification 2003**|
 ||Date of commencement|17 March 2003|
+|22.|**Act 5 of 2003—Infectious Diseases (Amendment) Act 2003**|
+||Date of First Reading|28 February 2003|
+|||(Bill No. 4/2003 published on 1 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
