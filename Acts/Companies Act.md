@@ -15136,3 +15136,5 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 30/94 published on 1 November 1994)|
 ||Date of Second and Third Readings|5 December 1994|
 ||Date of commencement|1 March 1995|
+|39.|**G. N. No. S 119/1995—Companies Act (Amendment of Second Schedule) Notification 1995**|
+||Date of commencement|1 April 1995|
