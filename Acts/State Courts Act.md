@@ -1025,3 +1025,14 @@ This Legislative History is provided for the convenience of users of the Subordi
 ||Date of commencement|20 February 1987|
 |8.|**1985 Revised Edition—Subordinate Courts Act**|
 ||Date of operation|30 March 1987|
+|9.|**Act 15 of 1993—Subordinate Courts (Amendment) Act 1993**|
+||Date of First Reading|26 February 1993|
+|||(Bill No. 13/93 published on 27 February 1993)|
+||Date of Second and Third Readings|13 April 1993|
+||Date of commencement|1 July 1993|
+|10.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 12/93 published on 27 February 1993)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|1 July 1993|
