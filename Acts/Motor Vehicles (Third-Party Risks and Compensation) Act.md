@@ -42,6 +42,8 @@
 
 - [18 Prohibition of solicitation in respect of claims](#Prohibition-of-solicitation-in-respect-of-claims)
 
+- [18A Public Trustee may appear in court](#Public-Trustee-may-appear-in-court)
+
 - [19 Rules](#Rules)
 
 - [19A Power to amend sums specified in certain provisions](#Power-to-amend-sums-specified-in-certain-provisions)
@@ -87,6 +89,10 @@ An Act to provide against third-party risks arising out of the use of motor vehi
 “Public Trustee” means the Public Trustee appointed under the provisions of the Public Trustee Act [Cap. 260] and includes an Assistant Public Trustee appointed under the provisions of that Act;
 
 “Registrar” means the Registrar of Vehicles or a Deputy or Assistant Registrar appointed under the provisions of the Road Traffic Act [Cap. 276];
+
+“relevant amount” means $5,000 or, where an amount has been prescribed by the Minister for the purposes of sections 6(1), 9(2), 9(8) and 18(3A), the prescribed amount;
+
+[28/2000 wef 01/11/2000]
 
 “road” means any public road and any other road to which the public has access, and includes bridges over which a road passes;
 
@@ -228,7 +234,7 @@ and the fact that a person so carried has willingly accepted as his the risk of 
 
 ### Payment of compensation
 
-6\.—(1) Where any payment exceeding $5,000, other than a liquidated sum specified in a policy of insurance, is made by way of compensation by an approved insurer or the owner of a motor vehicle in respect of the death or bodily injury to any person arising out of the use of a motor vehicle on a road in Singapore or in any territory specified in the Schedule, that payment shall be made to the Public Trustee as trustee for the persons entitled to the benefit thereof.
+6\.—(1) Where any payment exceeding the relevant amount, other than a liquidated sum specified in a policy of insurance, is made by way of compensation by an approved insurer or the owner of a motor vehicle in respect of the death or bodily injury to any person arising out of the use of a motor vehicle on a road in Singapore or in any territory specified in the Schedule, that payment, together with any sum payable in respect of costs, shall be made to the Public Trustee as trustee for the persons entitled to the benefit thereof.
 
 [Act 26/94 wef 01/02/1995 vide S32/95]
 
@@ -280,7 +286,7 @@ Provided that nothing in this section shall require an insurer to pay any sum in
 
 (2) Notwithstanding subsection (1) providing for the payment to the Public Trustee —
 
-(a) where the judgment is for a sum not exceeding $5,000 , the insurer may pay the sum to the person or persons entitled to the benefit of the judgment; and
+(a) where the judgment is for a sum not exceeding the relevant amount, the insurer may pay the sum to the person or persons entitled to the benefit of the judgment; and
 
 (b) the right of action thereby created shall vest in the person or persons entitled to the benefit of the judgment payable thereunder.
 
@@ -314,7 +320,7 @@ Provided that an insurer who has obtained such a declaration in an action shall 
 
 (7) In this Act references to a certificate of insurance in any provision relating to the surrender or the loss or destruction of a certificate of insurance shall in relation to policies under which more than one certificate is issued be construed as references to all the certificates and shall where any copy has been issued of any certificate be construed as including a reference to that copy.
 
-(8) Every judgment for a sum exceeding $5,000 in respect of any such liability as is required to be covered by a policy under section 4(1)(b) shall provide that the sums payable under the judgment shall be paid to the Public Trustee as trustee for the persons entitled to the benefit of the judgment.
+(8) Every judgment for a sum exceeding the relevant amount in respect of any such liability as is required to be covered by a policy under section 4(1)(b) shall provide that the sums payable under the judgment shall be paid to the Public Trustee as trustee for the persons entitled to the benefit of the judgment.
 
 [Act 26/94 wef 01/02/1995]
 
@@ -432,17 +438,43 @@ Provided that a person shall not be convicted of an offence under this subsectio
 
 (2) No person, other than a public officer or an advocate and solicitor properly acting in the course of his profession, shall directly or indirectly for personal gain make or commence or cause to be made or commenced on behalf of any other person any claim or action for damages for the death of or bodily injury to any person arising out of the use of a motor vehicle or negotiate, settle or compromise that claim or action when made or commenced.
 
-(3) Notwithstanding the provisions of any other written law, any costs payable to a public officer or an advocate and solicitor acting in respect of the matters referred to in subsection (2), except in respect of a judgment or settlement for a sum not exceeding $5,000, shall be taxed and the public officer or advocate and solicitor shall not receive or accept any payment of money for so acting other than the taxed costs.
+(3) Notwithstanding the provisions of any other written law, a public officer or an advocate and solicitor, acting in respect of the matters referred to in subsection (2), shall not receive or accept any payment of money for so acting other than —
 
-[Act 26/94 wef 01/02/1995]
+(a) such costs as are agreed between him and the Public Trustee;
+
+(b) taxed costs, in default of such agreement with the Public Trustee; or
+
+(c) such costs as the Public Trustee may determine to be the costs of the public officer or advocate and solicitor, if the public officer or advocate and solicitor fails to begin proceedings for taxation of costs within 3 months after the relevant date unless before that time the public officer or the advocate and solicitor has agreed with the Public Trustee on costs.
+
+[28/2000 wef 01/11/2000]
+
+(3A) Subsection (3) shall not apply to a public officer or an advocate and solicitor claiming costs in respect of a judgment or settlement for a sum not exceeding the relevant amount.
+
+[28/2000 wef 01/11/2000]
+
+(3B) For the purposes of subsection (3)(c), “relevant date” means —
+
+(a) the date the Public Trustee accepts or the court approves the payment referred to in section 6, as the case may be; or
+
+(b) the date the judgment of the court referred to in section 9(1) is given,
+
+as the case may be.
+
+[28/2000 wef 01/11/2000]
 
 (4) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
 
-(5) Any agreement to pay any money other than the taxed costs to any person for work done or to be done or services rendered or to be rendered in respect of the matters referred to in subsection (1) or (2) shall be void and any money so paid whether before or after the commencement of this Act shall be recoverable by action brought in a court by the person who has paid it.
+(5) Any agreement to pay any money other than the costs referred to in subsection 3(a), (b) or (c) to any person for work done or to be done or services rendered or to be rendered in respect of the matters referred to in subsection (1) or (2) shall be void and any money so paid whether before or after the commencement of this Act shall be recoverable by action brought in a court by the person who has paid it.
 
-(6) Where it is shown that any money other than taxed costs has been paid to any clerk employed by an advocate and solicitor for work done or to be done or services rendered or to be rendered in respect of the matters referred to in subsection (1) or (2), it shall be presumed in, and for the purposes of, any action against the advocate and solicitor that the money was received by the clerk on behalf of the advocate and solicitor and the money shall be recoverable from the advocate and solicitor.
+(6) Where it is shown that any money other than costs referred to in subsection 3(a), (b) or (c) has been paid to any clerk employed by an advocate and solicitor for work done or to be done or services rendered or to be rendered in respect of the matters referred to in subsection (1) or (2), it shall be presumed in, and for the purposes of, any action against the advocate and solicitor that the money was received by the clerk on behalf of the advocate and solicitor and the money shall be recoverable from the advocate and solicitor.
 
 [17
+
+### Public Trustee may appear in court
+
+18A\. The Public Trustee shall have the right to appear and be heard in a court in any proceedings under this Act or in relation to any claim or action for damages for the death or bodily injury of any person arising out of the use of a motor vehicle.
+
+[28/2000 wef 01/11/2000]
 
 ### Rules
 
@@ -558,3 +590,8 @@ This Legislative History is provided for the convenience of users of the Motor V
 |||(Bill No. 27/98 published on 2 June 1998)|
 ||Date of Second and Third Readings|29 June 1998|
 ||Date of commencement|21 October 1998|
+|11.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
+||Date of First Reading|25 August 2000|
+|||(Bill No. 22/2000 published on 26 August 2000)|
+||Date of Second and Third Readings|9 October 2000|
+||Date of commencement|1 November 2000|
