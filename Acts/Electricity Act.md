@@ -1,12 +1,10 @@
-**Electricity Act 2001**
+**Electricity Act**
 
-**(No. 10 of 2001)**
+**(CHAPTER 89A)**
 
 **Table of Contents**
 
 [**Long Title**](#Electricity-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 [**Part I PRELIMINARY**](#Part-I)
 
@@ -102,7 +100,7 @@
 
 [**Part VI WHOLESALE ELECTRICITY MARKET**](#Part-VI)
 
-- [42 Definitions](#Definitions)
+- [42 Interpretation of this Part](#Interpretation-of-this-Part)
 
 - [43 Functions and powers of Market Company](#Functions-and-powers-of-Market-Company)
 
@@ -240,43 +238,27 @@
 
 - [105 Consequential amendments to other written law](#Consequential-amendments-to-other-written-law)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+[**Comparative Table**](#Comparative-Table)
 
-ACTS SUPPLEMENT
+# Electricity Act
 
-Published by Authority
+(CHAPTER 89A)
 
-NO. 14]
+(Original Enactment: Act 10 of 2001)
 
-Friday, March 30
+REVISED EDITION 2002
 
-[2001
+(31st July 2002)
 
-The following Act was passed by Parliament on 16th March 2001 and assented to by the President on 26th March 2001:—
+An Act to create a competitive market framework for the electricity industry, to make provision for the safety, technical and economic regulation of the generation, transmission, supply and use of electricity, and for other matters connected therewith, to repeal the Electrical Workers and Contractors Licensing Act (Chapter 89 of the 1985 Revised Edition), and to make consequential amendments to certain written laws.
 
-Electricity Act 2001
+[1st April 2001: Except Parts III to X, sections 94 to 104 and section 105(1) and (2) ;
 
-(No. 10 of 2001)
+1st December 2002: Sections 82, 89 to 93, 103 and 104 ;
 
-I assent.
-
-S R NATHAN
-
-President.
-
-26th March 2001.
-
-Date of Commencement: 1st April 2001
-
-Date of Commencement: 31st July 2002
-
-Date of Commencement: 1st December 2002
-
-An Act to create a competitive market framework for the electricity industry, to make provision for the safety, technical and economic regulation of the generation, transmission, supply and use of electricity, and for other matters connected therewith, to repeal the Electrical Workers and Contractors Licensing Act (Chapter 89 of the 1985 Edition), and to make consequential amendments to certain written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+1st January 2003: Parts III (with the exception of section 21(2) and (3)); Parts IV to VIII; Sections 67 to 81; Sections 83 to 88; Sections 94 to 102; and Sections 105(1) and (2) ]
 
 ## PART I
 
@@ -284,7 +266,9 @@ PRELIMINARY
 
 ### Short title and commencement
 
-1\. This Act may be cited as the Electricity Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\.—(1) This Act may be cited as the Electricity Act.
+
+(2) Parts III to X, sections 94 to 104 and section 105(1) and (2) shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
 
 ### Interpretation
 
@@ -296,15 +280,11 @@ PRELIMINARY
 
 “Appeal Panel” means a panel established by the Minister under section 64;
 
-“appointed day” means —
-
-(a) in relation to this Act, the date of commencement of this Act; and
-
-(b) in relation to a particular provision of this Act, the date of commencement of that provision;
+“appointed day” means, in relation to a particular provision or Part of this Act, the date of commencement of that provision or Part;
 
 “authorised officer” means any person authorised by the Authority under section 3(2);
 
-“Authority” means the Energy Market Authority of Singapore established under the Energy Market Authority of Singapore Act 2001;
+“Authority” means the Energy Market Authority of Singapore established under the Energy Market Authority of Singapore Act (Cap. 92B);
 
 “cable detection work” means any work of detecting or locating any electricity cable;
 
@@ -370,7 +350,7 @@ PRELIMINARY
 
 “electrical plant” means any plant, equipment, apparatus or appliance used for, or for purposes connected with, the supply of electricity;
 
-“electrical or supply installation licence” means a licence granted under section 67;
+“electrical or supply installation licence” means a licence granted by the Authority under section 67;
 
 “electrical system” means an electrical system in which all the conductors and apparatuses are electrically or magnetically connected;
 
@@ -380,9 +360,9 @@ PRELIMINARY
 
 (b) the oiling, greasing, cleaning or painting of any electrical installation;
 
-“electrical worker” means any person whose trade or occupation requires or includes the personal performance by him of electrical work or a person who is otherwise competent or qualified personally to perform electrical work;
+“electrical worker” means any person whose trade or occupation requires or includes the personal performance by him of electrical work or a person who is otherwise competent or qualified to perform personally electrical work;
 
-“electrical worker licence” means a licence granted under section 82;
+“electrical worker licence” means a licence granted by the Authority under section 82;
 
 “electricity” means electrical power when generated, transmitted, supplied or used for any purpose except the transmission of any communication or signal;
 
@@ -390,7 +370,7 @@ PRELIMINARY
 
 “electricity licence” means a licence granted or extended by the Authority under section 9;
 
-“electricity licensee” means any person who is granted an electricity licence;
+“electricity licensee” means any person who is granted an electricity licence by the Authority;
 
 “electricity system” means a system comprising the transmission system and generating stations connected directly or indirectly to the transmission system;
 
@@ -430,7 +410,7 @@ PRELIMINARY
 
 (b) registered in accordance with the market rules,
 
-to trade in any wholesale electricity market and includes a transmission licensee and any department of the Government which generates electricity before the appointed day;
+to trade in any wholesale electricity market and includes a transmission licensee and any department of the Government which generates electricity before 1st April 2001;
 
 “market rules” means the rules made or modified under section 46;
 
@@ -480,9 +460,9 @@ to trade in any wholesale electricity market and includes a transmission license
 
 “trade” means —
 
-(a) to sell electricity, ancillary services or any other electricity related product or service to a person other than a consumer who is being supplied and sold electricity by a retail electricity licensee or a market support services licensee; or
+(a) to sell electricity, ancillary services or any other electricity-related product or service to a person other than a consumer who is being supplied and sold electricity by a retail electricity licensee or market support services licensee; or
 
-(b) to purchase electricity, ancillary services or any other electricity related product or service, where such purchase is made by a person other than a consumer who is being supplied and sold electricity by a retail electricity licensee or a market support services licensee;
+(b) to purchase electricity, ancillary services or any other electricity-related product or service, where such purchase is made by a person other than a consumer who is being supplied and sold electricity by a retail electricity licensee or market support services licensee;
 
 “transmission licensee” means a person authorised by an electricity licence to transmit electricity;
 
@@ -494,9 +474,9 @@ to trade in any wholesale electricity market and includes a transmission license
 
 (b) from one electrical plant to another or from one substation to another; or
 
-(c) from a substation or electrical plant to the electrical installation serving the premises of a consumer or, where such premises are not served by an electrical installation, from a substation or electrical plant directly to such premises;
+(c) from a substation or an electrical plant to the electrical installation serving the premises of a consumer or, where such premises are not served by an electrical installation, from a substation or an electrical plant directly to such premises;
 
-“wholesale electricity market” means an electricity market established by the market rules for the trading of electricity, ancillary services or any other electricity related products or services.
+“wholesale electricity market” means an electricity market established by the market rules for the trading of electricity, ancillary services or any other electricity-related product or service.
 
 ## PART II
 
@@ -524,7 +504,7 @@ ADMINISTRATION
 
 (ii) economic efficiency and the maintenance of such efficiency in the electricity industry;
 
-(c) to perform the functions of economic and technical regulator for the electricity industry, including the exercise of licensing and regulatory functions in respect of the generation, transmission, import, export, trading and retailing of electricity, the provision of market support services, the operation of any wholesale electricity market and the establishment of standards of performance and codes of practice relating to any matter in connection therewith;
+(c) to perform the functions of economic and technical regulator for the electricity industry, including the exercise of licensing and regulatory functions in respect of the generation, transmission, import, export, trading and retail of electricity, the provision of market support services, the operation of any wholesale electricity market and the establishment of standards of performance and codes of practice relating to any matter in connection therewith;
 
 (d) to secure that electricity licensees whose prices are controlled by the Authority are able to provide an efficient service and maintain financial viability;
 
@@ -600,7 +580,7 @@ stating that the Authority wishes to disclose the information or contents of the
 
 (c) no appeal is made to the Minister under subsection (3) within 7 days of the date of the giving of the notice.
 
-(3) If a person wishes to appeal to the Minister in respect of a notice given by the Authority under subsection (2)(b), such appeal shall be lodged with the Minister within 7 days of the date of the giving of the notice and the Minister’s decision shall be final.
+(3) If a person wishes to appeal to the Minister in respect of a notice given by the Authority under subsection (2)(b), such appeal shall be lodged with the Minister within 7 days of the date of the giving of the notice and the decision of the Minister shall be final.
 
 (4) Subsection (2) shall not prevent the Authority —
 
@@ -628,7 +608,7 @@ LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (b) engage in the transmission of electricity;
 
-(c) engage in the retailing of electricity;
+(c) engage in the retail of electricity;
 
 (d) import or export electricity;
 
@@ -640,7 +620,7 @@ LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 unless he is authorised to do so by an electricity licence granted under section 9 or is exempted under section 8.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500,000.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500,000 .
 
 ### Application for licence, extension or exemption
 
@@ -654,9 +634,9 @@ unless he is authorised to do so by an electricity licence granted under section
 
 (a) the ability of that person to finance the carrying on of the particular activity;
 
-(b) the experience of that person in carrying on the activity, and its ability to perform the duties which would be imposed on that person under this Act and the electricity licence, if granted;
+(b) the experience of that person in carrying on the activity, and his ability to perform the duties which would be imposed on that person under this Act and the electricity licence, if granted;
 
-(c) whether the person is related to any gas transporter under the Gas Act 2001;
+(c) whether the person is related to any gas transporter under the Gas Act (Cap. 116A);
 
 (d) whether or not that person is related to any electricity licensee or any person granted an exemption under section 8; and
 
@@ -708,7 +688,7 @@ unless he is authorised to do so by an electricity licence granted under section
 
 (2) No transmission licensee or market support services licensee shall be granted an electricity licence to carry out any activity other than the transmission of electricity or the provision of market support services, respectively.
 
-(3) A gas transporter under the Gas Act 2001 shall not be granted an electricity licence under subsection (1)(a), (c), (d) or (f).
+(3) A gas transporter under the Gas Act (Cap. 116A) shall not be granted an electricity licence under subsection (1)(a), (c), (d) or (f).
 
 (4) No electricity licensee who is authorised by his licence to operate any wholesale electricity market shall be granted an electricity licence to carry out any activity other than the operation of that market.
 
@@ -734,7 +714,7 @@ unless he is authorised to do so by an electricity licence granted under section
 
 (vii) to do or not to do such things as are specified in the electricity licence or are of a description so specified;
 
-(b) controlling or fixing prices to be charged for the services provided by a transmission licensee, market support services licensee or an electricity licensee authorised to operate any wholesale electricity market including —
+(b) controlling or fixing prices to be charged for the services provided by a transmission licensee, a market support services licensee or an electricity licensee authorised to operate any wholesale electricity market including —
 
 (i) the fixing of prices or the rate of increase or decrease in prices;
 
@@ -748,7 +728,7 @@ unless he is authorised to do so by an electricity licence granted under section
 
 (vi) the setting of prices with reference to the quantity, location, period or other specified factors relevant to the activities authorised by the licence;
 
-(c) in the case of a transmission licensee, market support services licensee or an electricity licensee authorised to operate any wholesale electricity market —
+(c) in the case of a transmission licensee, a market support services licensee or an electricity licensee authorised to operate any wholesale electricity market —
 
 (i) imposing controls and restrictions, directly or indirectly, on the creation, holding or disposal of shares in the licensee or its shareholders or of interests in the undertaking of the licensee or any part thereof; and
 
@@ -758,7 +738,7 @@ unless he is authorised to do so by an electricity licence granted under section
 
 (8) The Authority shall in writing notify an applicant for the grant or extension of an electricity licence of its decision to grant or refuse to grant or extend the licence and, in the case of a decision to refuse to grant or extend the licence, the reasons for its decision.
 
-(9) Any person who is aggrieved by a refusal of the Authority to grant or extend an electricity licence may, within 14 days of the refusal, appeal to the Minister, whose decision shall be final.
+(9) Any person who is aggrieved by a refusal of the Authority to grant or extend an electricity licence may, within 14 days of the refusal, appeal to the Minister whose decision shall be final.
 
 ### Special condition in market support services licence
 
@@ -900,7 +880,7 @@ and, in either event, it shall thereupon issue a direction in writing to the ele
 
 (a) to develop and maintain a reliable, efficient, coordinated and economical system for the provision of market support services in accordance with such applicable codes of practice and other standards of performance as may be issued or approved by the Authority under section 16;
 
-(b) to facilitate competition in the retailing of electricity by providing market support services to consumers and retail electricity licensees on terms which neither prevent nor restrict such competition; and
+(b) to facilitate competition in the retail of electricity by providing market support services to consumers and retail electricity licensees on terms which neither prevent nor restrict such competition; and
 
 (c) to provide non-discriminatory access to its market support services in order to facilitate retail competition in accordance with this Act, its market support services licence and the market rules.
 
@@ -910,9 +890,13 @@ and, in either event, it shall thereupon issue a direction in writing to the ele
 
 21\.—(1) A market support services licensee shall provide market support services to a non-contestable consumer in accordance with this Act and its licence, and on terms and conditions approved by the Authority.
 
-(2) Any existing agreement under which any person supplies and sells electricity to a non-contestable consumer shall cease to have effect from the appointed day.
+1(2) Any existing agreement under which any person supplies and sells electricity to a non-contestable consumer shall cease to have effect from the appointed day.
 
-(3) Nothing in subsection (2) shall have the effect of extinguishing any right or liability of any party under the existing agreement referred to in that subsection where such right or liability had accrued on the appointed day.
+1No date has yet been appointed for the coming into operation of section 21(2) as at 30th June 2002.
+
+2(3) Nothing in subsection (2) shall have the effect of extinguishing any right or liability of any party under the existing agreement referred to in that subsection where such right or liability had accrued on the appointed day.
+
+2No date has yet been appointed for the coming into operation of section 21(3) as at 30th June 2002.
 
 (4) A market support services licensee shall not discontinue the provision of market support services to any non-contestable consumer except in accordance with its licence.
 
@@ -970,7 +954,7 @@ as the case may be.
 
 (a) in accordance with its licence and the market rules, disconnect that consumer from the transmission system;
 
-(b) discontinue the supply of electricity to the premises, or any other premises occupied by the consumer by such other means as it thinks fit; and
+(b) discontinue the supply of electricity to the premises, or any other premises occupied by the consumer by such other means as the licensee thinks fit; and
 
 (c) recover any expenses incurred in so doing from the consumer.
 
@@ -1004,7 +988,7 @@ as the case may be.
 
 (b) on such a reference, shall be determined by the Authority, whose decision shall be final and conclusive between the parties.
 
-(2) Notwithstanding that a dispute between a consumer and a market support services licensee has been referred to the Authority, the licensee shall, subject to section 21(5) and 41(13), supply electricity to the consumer until the dispute is determined by the Authority.
+(2) Notwithstanding that a dispute between a consumer and a market support services licensee has been referred to the Authority, the licensee shall, subject to sections 21(5) and 41(13), supply electricity to the consumer until the dispute is determined by the Authority.
 
 ### Fuel stocks
 
@@ -1026,7 +1010,7 @@ and the amount of any stocks may be specified by reference to the period for whi
 
 (b) requiring that electricity licensee to operate, or not to operate, that generating station for specified periods, at specified levels of capacity or use specified fuels.
 
-(3) For the purposes of this section, “specified” means specified by or under the Authority’s direction and such direction may —
+(3) In this section, “specified” means specified by or under the direction of the Authority and such direction may —
 
 (a) specify the cases and circumstances in which any stocks are to be treated as held at or near any generating station;
 
@@ -1100,9 +1084,9 @@ CONTROL OF ELECTRICITY LICENSEES
 
 (b) no judicial management order under Part VIIIA of the Companies Act shall be made in relation to an electricity licensee;
 
-(c) no step shall be taken by any person to enforce any security over an electricity licensee’s property, except where that person has served on the Authority 14 days’ notice of his intention to take that step; and
+(c) no step shall be taken by any person to enforce any security over an electricity licensee’s property, except where that person has served on the Authority 14 days notice of his intention to take that step; and
 
-(d) no step shall be taken by any person to execute or enforce a judgment or order of court obtained against an electricity licensee, except where that person has served on the Authority 14 days’ notice of his intention to take that step.
+(d) no step shall be taken by any person to execute or enforce a judgment or order of court obtained against an electricity licensee, except where that person has served on the Authority 14 days notice of his intention to take that step.
 
 (8) The Authority shall be a party to any proceedings under the Companies Act relating to the winding up of the affairs of an electricity licensee.
 
@@ -1118,7 +1102,7 @@ MATTERS RELATING TO ELECTRICITY LICENSEES
 
 ### Works by electricity licensee
 
-31\.—(1) Subject to the provisions of this Act, a generation licensee, market support services licensee or transmission licensee may, for any purpose connected with the carrying on of the activities authorised by its electricity licence —
+31\.—(1) Subject to the provisions of this Act, a generation licensee, market support services licensee or transmission licensee may, for any purpose connected with the carrying on of the activities authorised byits electricity licence —
 
 (a) install under, over, in, on, along or across any premises, street or bridge and from time to time inspect, maintain, adjust, repair, alter, replace or remove —
 
@@ -1146,15 +1130,15 @@ MATTERS RELATING TO ELECTRICITY LICENSEES
 
 (4) The generation licensee, market support services licensee or transmission licensee shall not acquire any right other than that of user only in respect of any land or property under, over, in, on, along or across which the licensee installs any electric line or electrical plant or executes any work under this section.
 
-(5) Except in cases of emergency arising from any fault in any electric line or electrical plant, no work falling within subsection (1) shall be executed without the giving of 14 days’ notice stating as fully and accurately as possible the nature and extent of the acts intended to be done.
+(5) Except in cases of emergency arising from any fault in any electric line or electrical plant, no work falling within subsection (1) shall be executed without the giving of 14 days notice stating as fully and accurately as possible the nature and extent of the works intended to be done.
 
 (6) The owner or occupier of the land may, within 14 days of the receipt of the notice referred to in subsection (5), lodge a written objection with the Authority and the Authority shall specify the date by which an inquiry into such objection shall be made.
 
-(7) If no objection is lodged within the period specified in subsection (6), the licensee may on expiry of the period specified in the notice, enter on the land and do all or any of the acts specified in the notice.
+(7) If no objection is lodged within the period specified in subsection (6), the licensee may on expiry of the period specified in the notice, enter on the land and do all or any of the works specified in the notice.
 
 (8) Where an objection lodged under subsection (6) is not withdrawn before the date fixed for an inquiry into the matter under that subsection, the Authority shall hold an inquiry, giving each party an opportunity to be heard.
 
-(9) Subject to subsection (10), upon the conclusion of the inquiry, the Authority may authorise, either unconditionally or subject to such terms, conditions and stipulations as it thinks fit, the carrying out of any of the acts specified in the notice given under subsection (5).
+(9) Subject to subsection (10), upon the conclusion of the inquiry, the Authority may authorise, either unconditionally or subject to such terms, conditions and stipulations as it thinks fit, the carrying out of any of the works specified in the notice given under subsection (5).
 
 (10) Any person aggrieved by any decision of the Authority under subsection (9) may, within 14 days of the conclusion of the inquiry, appeal to the Minister whose decision shall be final.
 
@@ -1170,7 +1154,7 @@ MATTERS RELATING TO ELECTRICITY LICENSEES
 
 (14) A generation licensee, market support services licensee or transmission licensee shall not, when exercising the powers conferred by subsection (1), be liable for or required to pay any person any fee, charge or expense for the right to enter or use any land or premises.
 
-(15) A generation licensee, market support services licensee or transmission licensee shall not, without the approval in writing of a Government authority or a statutory authority, enter or use any land or premises belonging to the Government authority or statutory authority for the purpose of exercising the powers conferred by subsection (1).
+(15) A generation licensee, market support services licensee or transmission licensee shall not, without the approval in writing of a Government authority or of statutory authority, enter or use any land or premises belonging to the Government authority or statutory authority for the purpose of exercising the powers conferred by subsection (1).
 
 ### Power to fell trees, etc.
 
@@ -1184,7 +1168,7 @@ MATTERS RELATING TO ELECTRICITY LICENSEES
 
 (5) No compensation shall be payable by an electricity licensee under subsection (3) in respect of any tree or vegetation within 20 metres of the centre line of any road constructed or maintained by the Government or by any public authority unless it is proved that the tree or vegetation was in existence prior to the construction of the road.
 
-(6) Where the owner or occupier of any land fells, lops or clears any tree or vegetation adjacent to an electricity licensee’s installation or plant, the owner or occupier shall give the licensee 14 days’ notice in writing of his intention to do so and shall take such reasonable precautions as the licensee may require for the protection of such installation or plant.
+(6) Where the owner or occupier of any land fells, lops or clears any tree or vegetation adjacent to an electricity licensee’s installation or plant, the owner or occupier shall give the licensee 14 days notice in writing of his intention to do so and shall take such reasonable precautions as the licensee may require for the protection of such installation or plant.
 
 (7) If any such owner or occupier fails to give notice under subsection (6) or having given notice fails to take any such reasonable precautions as the electricity licensee may have required, he shall be liable to pay the licensee any cost and expense incurred by the licensee for any damage caused to any such installation or plant, subject to the Authority’s approval in the case of any dispute.
 
@@ -1192,11 +1176,11 @@ MATTERS RELATING TO ELECTRICITY LICENSEES
 
 ### Entry upon premises by electricity licensee for purposes of exploration
 
-33\.—(1) Subject to this section and without prejudice to any other right of entry, a person authorised in writing by a transmission licensee or a market support services licensee may, at any reasonable time, enter upon and survey any premises for the purpose of ascertaining whether the premises would be suitable for use for any purpose connected with the carrying on of the activities which the licensee is authorised by its electricity licence to carry on.
+33\.—(1) Subject to this section and without prejudice to any other right of entry, a person authorised in writing by a transmission licensee or market support services licensee may, at any reasonable time, enter upon and survey any premises for the purpose of ascertaining whether the premises would be suitable for use for any purpose connected with the carrying on of the activities which the licensee is authorised by its electricity licence to carry on.
 
 (2) A person authorised to enter upon any premises under this section shall not demand to do so as of right unless —
 
-(a) 7 days’ notice of the intended entry has been given to the occupier; and
+(a) 7 days notice of the intended entry has been given to the occupier; and
 
 (b) if required to do so, he has produced evidence of his authority.
 
@@ -1234,11 +1218,11 @@ MATTERS RELATING TO ELECTRICITY LICENSEES
 
 any person authorised in writing by the transmission licensee or market support services licensee may at all reasonable hours, on production of some duly authenticated document showing his authority, enter the premises for the purposes of disconnecting the supply or removing any electrical plant, electric line or electricity meter, as the case may be.
 
-(2) Subject to section 39, the person so authorised by a transmission licensee or market support services licensee shall not enter any dwelling-house in actual occupation, unless with the consent of the occupier thereof, without 6 hours’ previous notice to the occupier.
+(2) Subject to section 39, the person so authorised by a transmission licensee or market support services licensee shall not enter any dwelling-house in actual occupation, without 6 hours previous notice to the occupier, unless the occupier has given his consent to the entry.
 
 ### Entry for replacing, repairing or altering electric line or electrical plant
 
-36\.—(1) Any person authorised by an electricity licensee in writing may, after 7 days’ notice to the occupier of any premises or to the owner of any premises which are unoccupied, at all reasonable times, on production of some duly authenticated document showing his authority, enter the premises for the purpose of —
+36\.—(1) Any person authorised by an electricity licensee in writing may, after 7 days notice to the occupier of any premises or to the owner of any premises which are unoccupied, at all reasonable times, on production of some duly authenticated document showing his authority, enter the premises for the purpose of —
 
 (a) placing a new electric line or electrical plant in the place of or in addition to any existing line or plant which has already been lawfully placed and which belongs to that licensee; or
 
@@ -1336,9 +1320,9 @@ a market support services licensee shall provide the contestable consumer access
 
 WHOLESALE ELECTRICITY MARKET
 
-### Definitions
+### Interpretation of this Part
 
-42\.—(1) For the purposes of this Part —
+42\.—(1) In this Part —
 
 “constituent documents” means the memorandum and articles of association of the Market Company;
 
@@ -1482,9 +1466,9 @@ COMPETITION
 
 (c) applying dissimilar conditions to equivalent transactions with other trading parties, thereby placing them at a competitive disadvantage; or
 
-(d) making the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of the contracts.
+(d) making the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of such contracts.
 
-(3) For the purposes of this section, “dominant position” means a dominant position within Singapore.
+(3) In this section, “dominant position” means a dominant position within Singapore.
 
 ### Exemption
 
@@ -1552,7 +1536,7 @@ COMPETITION
 
 (b) if the document is not produced, to require such person to state, to the best of his knowledge and belief, where it is.
 
-(5) For the purposes of subsection (1), “specified” means —
+(5) In subsection (1), “specified” means —
 
 (a) specified, or described, in the notice; or
 
@@ -1574,7 +1558,7 @@ COMPETITION
 
 (a) to enter the premises specified in the warrant, using such force as is reasonably necessary for the purpose;
 
-(b) to search the premises and take copies of, or extracts from, any document appearing to be of a kind in respect of which the application under subsection (1) was granted (“the relevant kind”);
+(b) to search the premises and take copies of, or extracts from, any document appearing to be of a kind in respect of which the application under subsection (1) was granted (the relevant kind);
 
 (c) to take possession of any document appearing to be of the relevant kind if —
 
@@ -1592,23 +1576,23 @@ COMPETITION
 
 (ii) in which it is visible and legible.
 
-(3) If, in the case of a warrant under subsection (1)(b), the District Court is satisfied that it is reasonable to suspect that there are also on the premises other documents relating to the investigation concerned, the warrant shall also authorise the action mentioned in subsection (2) to be taken in relation to any such document.
+(3) If, in the case of a warrant under subsection (1)(b), the District Court is satisfied that it is reasonable to suspect that there are also on the premises other documents relating to the investigation concerned, the warrant shall also authorise the actions mentioned in subsection (2) to be taken in relation to any such document.
 
-(4) If there is no one at the premises when the named officer proposes to execute such a warrant he must, before executing it —
+(4) If there is no one at the premises when the named officer proposes to execute such a warrant, he must, before executing it —
 
 (a) take such steps as are reasonable in all the circumstances to inform the occupier of the intended entry; and
 
 (b) if the occupier is informed, afford him or his legal or other representative a reasonable opportunity to be present when the warrant is executed.
 
-(5) If the named officer is unable to inform the occupier of the intended entry he must, when executing the warrant, leave a copy of it in a prominent place on the premises.
+(5) If the named officer is unable to inform the occupier of the intended entry, he must, when executing the warrant, leave a copy of it in a prominent place on the premises.
 
 (6) On leaving any premises which he has entered by virtue of a warrant under this section, the named officer must, if the premises are unoccupied or the occupier is temporarily absent, leave them as effectively secured as he found them.
 
-(7) A warrant under this section continues in force until the end of the period of one month beginning from the day on which it is issued.
+(7) A warrant under this section shall continue in force until the end of the period of one month beginning from the day on which it is issued.
 
 (8) Any document of which possession is taken under subsection (2)(c) may be retained for a period of 3 months.
 
-(9) For the purposes of this section —
+(9) In this section —
 
 “named officer” means the officer named in the warrant;
 
@@ -1662,7 +1646,7 @@ which in proceedings in a court would be protected from disclosure on grounds of
 
 (5) Any person who is aggrieved by any decision or direction of the Authority under this Part may, within 14 days after receipt of the notice referred to in section 60, appeal to the Appeal Panel under Part VIII.
 
-(6) For the purposes of this section —
+(6) In this section —
 
 “associated person” has the same meaning as in section 76D(14) of the Companies Act (Cap. 50);
 
@@ -1768,9 +1752,9 @@ notify the Minister that he wishes to make an appeal, providing adequate details
 
 (7) All appeals under this section shall be determined, having regard to the nature and complexity of the appeal, as soon as reasonably practicable.
 
-(8) In the case of a modification of any condition of a licence, the Appeal Panel may either confirm the modification or direct the Authority not to make the modification, and the Appeal Panel’s decision shall be final.
+(8) In the case of a modification of any condition of a licence, the Appeal Panel may either confirm the modification or direct the Authority not to make the modification, and the decision of the Appeal Panel shall be final.
 
-(9) In the case of a direction or decision of the Authority under Part VII, the Appeal Panel may either confirm, vary or reverse the direction or decision of the Authority or direct the Authority to reconsider the direction or decision, and the Appeal Panel’s decision shall be final.
+(9) In the case of a direction or decision of the Authority under Part VII, the Appeal Panel may either confirm, vary or reverse the direction or decision of the Authority or direct the Authority to reconsider the direction or decision, and the decision of the Appeal Panel shall be final.
 
 (10) The Appeal Panel shall notify the appellant of its decision in respect of his appeal and the reasons for its decision.
 
@@ -1786,15 +1770,15 @@ ELECTRICAL AND SUPPLY INSTALLATIONS, CABLE DETECTION WORK AND ELECTRICAL WORKERS
 
 (b) supply to or for the use of any other person electricity from any electrical or supply installation,
 
-except under and in accordance with the terms of an electrical or supply installation licence granted by the Authority under this section authorising such use, work, operation or supply.
+except under and in accordance with the terms of an electrical or a supply installation licence granted by the Authority under this section authorising such use, work, operation or supply.
 
-(2) An electrical or supply installation licence may be granted under this section on the payment of such fee, if any, as may be prescribed.
+(2) An electrical or a supply installation licence may be granted under this section on the payment of such fee, if any, as may be prescribed.
 
-(3) An electrical or supply installation licence shall not be transferred without the approval of the Authority.
+(3) An electrical or a supply installation licence shall not be transferred without the approval of the Authority.
 
-(4) An electrical or supply installation licence shall be subject to such conditions as may be prescribed and to such further conditions, if any, as may be imposed and endorsed on the licence by the Authority.
+(4) An electrical or a supply installation licence shall be subject to such conditions as may be prescribed and to such further conditions, if any, as may be imposed and endorsed on the licence by the Authority.
 
-(5) An electrical or supply installation licence may be for such period as the Authority may approve.
+(5) An electrical or a supply installation licence may be for such period as the Authority may approve.
 
 (6) In every electrical or supply installation licence, there shall be specified as may be appropriate —
 
@@ -1806,15 +1790,15 @@ except under and in accordance with the terms of an electrical or supply install
 
 (7) The Authority may, in its discretion, require that, before the grant of any electrical or supply installation licence, such security as it may specify shall be furnished to ensure the due observance of the terms and conditions of the licence and of the provisions of this Act.
 
-(8) An electrical or supply installation licence may be surrendered by the licensee to the Authority for cancellation if the electrical or supply installation is no longer required to be used.
+(8) An electrical or a supply installation licence may be surrendered by the licensee to the Authority for cancellation if the electrical or supply installation is no longer required to be used.
 
 (9) Where the licensee wishes to operate the electrical or supply installation after the surrender of the licence, the installation shall be treated in all respects as if it were a new electrical or supply installation.
 
-(10) Any electrical or supply installation licence issued under the Public Utilities Act (Cap. 261) in force immediately before the appointed day shall continue in force until suspended or revoked and shall be deemed to have been issued under this Act.
+(10) Any electrical or supply installation licence issued under the Public Utilities Act (Cap. 261, 1996 Ed.) in force immediately before the appointed day shall continue in force until suspended or revoked and shall be deemed to have been issued under this Act.
 
 ### Notice to electricity licensee to cut off supply
 
-68\.—(1) Where any person operates an electrical or supply installation without an electrical or supply installation licence —
+68\.—(1) Where any person operates an electrical or a supply installation without an electrical or a supply installation licence —
 
 (a) the Authority may by written notice direct any electricity licensee to forthwith discontinue the supply of electricity to that electrical or supply installation; and
 
@@ -1824,7 +1808,7 @@ except under and in accordance with the terms of an electrical or supply install
 
 ### Supply lines and other apparatus on State land
 
-69\.—(1) Subject to the approval of the Commissioner of Lands and to such conditions as he may impose, an electrical or supply installation licence may authorise the licensee to lay, place or carry on, under or over any State land to the extent and in the manner specified in the licence, such supply lines, and to erect and maintain in or on the State land such posts and other apparatuses as may, in the opinion of the Authority, be necessary or proper for the purposes of the electrical or supply installation.
+69\.—(1) Subject to the approval of the Commissioner of Lands and to such conditions as he may impose, an electrical or a supply installation licence may authorise the licensee to lay, place or carry on, under or over any State land to the extent and in the manner specified in the licence, such supply lines, and to erect and maintain in or on the State land such posts and other apparatuses as may, in the opinion of the Authority, be necessary or proper for the purposes of the electrical or supply installation.
 
 (2) Any authorisation under subsection (1) may be given or added to at any time during the currency of the licence by endorsement thereon.
 
@@ -1846,13 +1830,13 @@ except under and in accordance with the terms of an electrical or supply install
 
 ### Control by electrical worker
 
-72\.—(1) A person granted an electrical or supply installation licence shall employ or appoint such class or classes of electrical workers as the Authority may direct to operate or to be in charge of or to control any electrical or supply installation and no other person shall operate or be in charge of or control the electrical or supply installation.
+72\.—(1) A person granted an electrical or a supply installation licence shall employ or appoint such class or classes of electrical workers as the Authority may direct to operate or to be in charge of or to control any electrical or supply installation and no other person shall operate or be in charge of or control the electrical or supply installation.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
 ### Inspection of electrical or supply installation
 
-73\.—(1) A person granted an electrical or supply installation licence shall cause all electrical or supply installations owned or operated by him to be inspected at such intervals as the Authority may consider necessary.
+73\.—(1) A person granted an electrical or a supply installation licence shall cause all electrical or supply installations owned or operated by him to be inspected at such intervals as the Authority may consider necessary.
 
 (2) An inspection referred to in subsection (1) shall be carried out by such class or classes of electrical workers as the Authority may direct.
 
@@ -1860,19 +1844,19 @@ except under and in accordance with the terms of an electrical or supply install
 
 ### Restriction of use to specified purpose
 
-74\.—(1) A person granted an electrical or supply installation licence who is, by the conditions of his licence, restricted to using or supplying electricity for specified purposes only, shall not use or supply electricity for any purpose other than those specified.
+74\.—(1) A person granted an electrical or a supply installation licence who is, by the conditions of his licence, restricted to using or supplying electricity for specified purposes only, shall not use or supply electricity for any purpose other than those specified.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
 ### Procedure in case of defect in electrical or supply installation
 
-75\.—(1) Every electrical worker appointed to operate or to be in charge of or to control any electrical or supply installation and every person granted an electrical or supply installation licence who becomes aware of a defect in any electrical or supply installation shall forthwith make good or remove the defect or make a report thereon to the Authority.
+75\.—(1) Every electrical worker appointed to operate or to be in charge of or to control any electrical or supply installation and every person granted an electrical or a supply installation licence who becomes aware of a defect in any electrical or supply installation shall forthwith make good or remove the defect or make a report thereon to the Authority.
 
 (2) Where a report is made to the Authority under subsection (1), the Authority may by notice —
 
 (a) posted on the premises where the electrical or supply installation is installed or working; or
 
-(b) served on the person granted an electrical or supply installation licence or the electrical worker who is appointed to operate or to be in charge of or to control the electrical or supply installation, as the case may be,
+(b) served on the person granted an electrical or a supply installation licence or the electrical worker who is appointed to operate or to be in charge of or to control the electrical or supply installation, as the case may be,
 
 require the defect to be made good or removed within such period as may be specified in the notice, and the electrical or supply installation shall not be operated or used after the expiration of that period unless the defect has been made good or removed to the satisfaction of the Authority.
 
@@ -1882,13 +1866,13 @@ require the defect to be made good or removed within such period as may be speci
 
 (a) by the suspension of the operation and use of any electrical or supply installation under this section; or
 
-(b) by the suspension or revocation of an electrical or supply installation licence under section 76.
+(b) by the suspension or revocation of an electrical or a supply installation licence under section 76.
 
 (5) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence.
 
 ### Suspension and revocation of electrical or supply installation licence
 
-76\. An electrical or supply installation licence may at any time be suspended or revoked by the Authority —
+76\. An electrical or a supply installation licence may at any time be suspended or revoked by the Authority —
 
 (a) on breach of any of the conditions of the licence or for non-compliance with any of the provisions of this Act;
 
@@ -1906,7 +1890,7 @@ require the defect to be made good or removed within such period as may be speci
 
 ### Authority not liable for operation of electrical or supply installation
 
-78\. Notwithstanding the grant of an electrical or supply installation licence, the Authority shall not be responsible for the operation or maintenance of any electrical or supply installation or for any injury to any person or damage to anything by reason of operating or omitting to operate or maintaining or omitting to maintain any electrical or supply installation.
+78\. Notwithstanding the grant of an electrical or a supply installation licence, the Authority shall not be responsible for the operation or maintenance of any electrical or supply installation or for any injury to any person or damage to anything by reason of operating or omitting to operate or maintaining or omitting to maintain any electrical or supply installation.
 
 ### Cable detection work to be carried out before earthworks
 
@@ -1922,7 +1906,7 @@ require the defect to be made good or removed within such period as may be speci
 
 80\.—(1) Subject to this section, no person other than an electricity licensee shall commence or carry out, or cause or permit the commencement or carrying out of, any earthworks within the vicinity of any high voltage electricity cable which belongs to or which is under the management or control of an electricity licensee unless the person —
 
-(a) has given to the electricity licensee not less than 7 days’ notice in writing of the date on which it is proposed to commence the earthworks;
+(a) has given to the electricity licensee not less than 7 days notice in writing of the date on which it is proposed to commence the earthworks;
 
 (b) has obtained from the electricity licensee the necessary information on the location of such high voltage electricity cable and has consulted the electricity licensee on the steps to be taken to prevent the high voltage electricity cable from damage while the earthworks are being carried out; and
 
@@ -1982,11 +1966,11 @@ require the defect to be made good or removed within such period as may be speci
 
 (2) No person other than a licensed cable detection worker shall be entitled to recover in any court any charge, fee or remuneration for any cable detection work carried out by the person.
 
-(3) Any cable detection work licence issued under the Public Utilities Act (Cap. 261) in force immediately before the appointed day shall, so far as it is not inconsistent with this Act, continue in force until suspended or revoked and shall be deemed to have been issued under this Act.
+(3) Any cable detection work licence issued under the Public Utilities Act (Cap. 261, 1996 Ed.) in force immediately before the appointed day shall, so far as it is not inconsistent with this Act, continue in force until suspended or revoked and shall be deemed to have been issued under this Act.
 
 ### Licensing of electrical worker
 
-82\.—(1) Subject to subsection (2), no person shall —
+382\.—(1) Subject to subsection (2), no person shall —
 
 (a) carry out or caused to be carried out any electrical work, unless he holds a valid electrical worker licence;
 
@@ -2022,13 +2006,15 @@ require the defect to be made good or removed within such period as may be speci
 
 (f) a trained person to carry out any work in accordance with the written instructions of the licensed electrical worker in charge of the relevant electrical installation.
 
-(5) For the purpose of subsection (4)(f), a “trained person” means any employee who is —
+(5) In subsection (4)(f), a “trained person” means any employee who is —
 
 (a) recognised by his employer and the licensed electrical worker in charge of the relevant electrical installation to have the necessary knowledge and experience to avoid danger; and
 
 (b) capable of carrying out the work specified in the written instructions of the licensed electrical worker.
 
-(6) Any electrical worker licence issued under the Electrical Workers and Contractors Licensing Act (Cap. 89), in force immediately before the appointed day shall, so far as it is not inconsistent with this Act, continue in force until suspended or revoked and shall be deemed to have been issued under this Act.
+(6) Any electrical worker licence issued under the Electrical Workers and Contractors Licensing Act (Cap. 89, 1985 Ed.), in force immediately before the appointed day shall, so far as it is not inconsistent with this Act, continue in force until suspended or revoked and shall be deemed to have been issued under this Act.
+
+3Section 82 shall come into operation on 1st December 2002.
 
 ## PART X
 
@@ -2036,7 +2022,7 @@ OFFENCES
 
 ### Offences relating to electrical or supply installations
 
-83\.—(1) Any person who supplies electricity to any premises without an electrical or supply installation licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+83\.—(1) Any person who supplies electricity to any premises without an electrical or a supply installation licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 (2) Any person who wilfully tampers with or adjusts any electrical or supply installation or any part thereof so as to cause or to be likely to cause danger to human life or damage to any property shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years.
 
@@ -2044,9 +2030,11 @@ OFFENCES
 
 (4) Any person who contravenes section 67(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
-(5) Any licensee of a supply installation who without express authority from the Authority supplies electricity or lays down any supply line or constructs any electrical works outside the installation area specified in his licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both, and any such unauthorised line or works may be removed by order of the Authority, and the reasonable cost of such removal may be recovered from the licensee.
+(5) Any licensee of a supply installation who without express authority from the Authority supplies electricity or lays down any supply line or constructs any electrical works outside the installation area specified in his licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(6) Any licensee of an electrical or supply installation who, without lawful excuse, fails to comply with any condition in his licence shall be guilty of an offence.
+(6) Any such unauthorised line or works may be removed by order of the Authority, and the reasonable cost of such removal may be recovered from the licensee.
+
+(7) Any licensee of an electrical or a supply installation who, without lawful excuse, fails to comply with any condition in his licence shall be guilty of an offence.
 
 ### Restoration of supply without consent
 
@@ -2098,7 +2086,7 @@ when the meter is in the custody or under the control of the person, shall be pr
 
 ### Making of false statements
 
-89\.—(1) Any person who, when giving information to the Authority or making any application under or for the purposes of any provision of this Act, makes any statement which he knows to be false in a material particular, or who recklessly makes any statement which is false in a material particular, shall be guilty of an offence.
+489\.—(1) Any person who, when giving information to the Authority or making any application under or for the purposes of any provision of this Act, makes any statement which he knows to be false in a material particular, or who recklessly makes any statement which is false in a material particular, shall be guilty of an offence.
 
 (2) Any person who —
 
@@ -2108,29 +2096,39 @@ when the meter is in the custody or under the control of the person, shall be pr
 
 shall be guilty of an offence.
 
+4Section 89 shall come into operation on 1st December 2002.
+
 ### Jurisdiction of court
 
-90\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and to impose the full penalty or punishment in respect of any such offence.
+590\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court and a Magistrate’s Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of any offence under this Act.
+
+5Section 90 shall come into operation on 1st December 2002.
 
 ### Offences by body corporate
 
-91\. Where an offence under this Act has been committed by a company, firm, society or other body of persons, any person who, at the time of the commission of the offence, was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in any such capacity, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
+691\. Where an offence under this Act has been committed by a company, firm, society or other body of persons, any person who, at the time of the commission of the offence, was a director, manager, secretary or other similar officer or a partner of the company, firm, society or other body of persons or was purporting to act in any such capacity, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that —
 
 (a) the offence was committed without his consent or connivance; and
 
 (b) he had exercised all such due diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances.
 
+6Section 91 shall come into operation on 1st December 2002.
+
 ### General penalties
 
-92\. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+792\. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+
+7Section 92 shall come into operation on 1st December 2002.
 
 ### Composition of offences
 
-93\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $3,000.
+893\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $3,000.
 
 (2) The Authority may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
 
 (3) All sums collected under this section shall be paid to the Authority.
+
+8Section 93 shall come into operation on 1st December 2002.
 
 ## PART XI
 
@@ -2256,7 +2254,7 @@ the Authority shall hold an inquiry into the nature and cause of the accident wi
 
 ### Regulations
 
-103\.—(1) The Authority may, with the approval of the Minister, make regulations for or in respect of every purpose which is considered by the Authority necessary or convenient to be prescribed for carrying out the provisions of this Act.
+9103\.—(1) The Authority may, with the approval of the Minister, make regulations for or in respect of every purpose which is considered by the Authority necessary or convenient to be prescribed for carrying out the provisions of this Act.
 
 (2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, make regulations for or in respect of all or any of the following matters:
 
@@ -2326,13 +2324,17 @@ the Authority shall hold an inquiry into the nature and cause of the accident wi
 
 (4) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
+9Section 103 shall come into operation on 1st December 2002.
+
 ### Repeal
 
-104\.—(1) The Electrical Workers and Contractors Licensing Act (Cap. 89) is repealed.
+10104\.—(1) The Electrical Workers and Contractors Licensing Act (Cap. 89) is repealed.
 
 (2) All acts done by the Public Utilities Board under the repealed Act before the appointed day shall continue to remain valid and applicable as though done by the Authority under this Act, until such time as invalidated, revoked, cancelled or otherwise determined by the Authority.
 
 (3) Any subsidiary legislation made under the repealed Act and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
+
+10Section 104 shall come into operation on 1st December 2002.
 
 ### Consequential amendments to other written law
 
@@ -2340,11 +2342,54 @@ the Authority shall hold an inquiry into the nature and cause of the accident wi
 
 “
 
-7. Electricity service and undertakings, including meter reading and billing, provided by any electricity licensee licensed under the Electricity Act 2001.
+7. Electricity service and undertakings, including meter reading and billing, provided by any electricity licensee licensed under the Electricity Act (Cap. 89A).
 
 ”.
 
 (2) In any written law, a reference to “public electricity licensee” shall be construed as a reference to an “electricity licensee” under this Act.
 
-(3) The Electrical Workers and Contractors Licensing Act (Cap. 89) and any subsidiary legislation made thereunder shall be administered by the Energy Market Authority of Singapore, and any references to the Board in that Act and its subsidiary legislation shall be read as references to that Authority.
+(3) The Electrical Workers and Contractors Licensing Act (Cap. 89, 1985 Ed.) and any subsidiary legislation made thereunder shall be administered by the Energy Market Authority of Singapore, and any references to the Board in that Act and its subsidiary legislation shall be read as references to that Authority.
+
+## LEGISLATIVE HISTORY
+
+Electricity Act
+
+(CHAPTER 89A)
+
+This Legislative History is provided for the convenience of users of the Electricity Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 10 of 2001—Electricity Act 2001**|
+||Date of First Reading|22 February 2001|
+|||(Bill No. 9/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|16 March 2001|
+||Date of commencement|1 April 2001 (except Parts III to X, sections 94 to 104 and section 105(1) and (2))|
+|2.|**2002 Revised Edition—Electricity Act**|
+||Date of operation|31 July 2002|
+## COMPARATIVE TABLE
+
+Electricity Act
+
+(CHAPTER 89A)
+
+The following provisions in the Electricity Act 2001 (Act 10 of 2001) have been renumbered by the Law Revision Commissioners in this 2002 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Electricity Act.
+
+2002 Ed\. 
+
+Act 10 of 2001 
+
+83 —(1) to (4)
+
+83 —(1) to (4)
+
+(5) and (6)
+
+(5)
+
+(7)
+
+(6)
 
