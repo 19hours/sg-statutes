@@ -102,7 +102,7 @@
 
 - [42 Overseas documents may be admitted in evidence if duly authenticated](#Overseas-documents-may-be-admitted-in-evidence-if-duly-authenticated)
 
-- [43 Taking of evidence in respect of criminal matters pending in courts of foreign or Commonwealth countries.](#Taking-of-evidence-in-respect-of-criminal-matters-pending-in-courts-of-foreign-or-Commonwealth-countries)
+- [43 (Repealed)](#Repealed)
 
 - [44 Power to make rules](#Power-to-make-rules)
 
@@ -772,27 +772,7 @@ and the document purports to be authenticated by the oath of a witness or to be 
 
 (3) Nothing in this section shall prevent the proof of any matter, or the admission in evidence of any document, in accordance with any other law of Singapore.
 
-### Taking of evidence in respect of criminal matters pending in courts of foreign or Commonwealth countries.
-
-43\.—(1) The Minister may, by notice in writing, authorise a Magistrate to take evidence for the purposes of a criminal matter pending in a court or tribunal of a foreign or Commonwealth country other than a matter relating to an offence that is, by its nature or by reason of the circumstances in which it is alleged to have been committed, an offence of a political character.
-
-[Act 35/93]
-
-(2) Upon receipt of the notice, the Magistrate shall —
-
-(a) take the evidence of each witness appearing before him to give evidence in relation to the matter in the like manner as if the witness were giving evidence on a charge against a person for an offence against the law in force in Singapore;
-
-(b) cause the evidence to be reduced to writing and certify at the end of that writing that the evidence was taken by him; and
-
-(c) cause the writing so certified to be sent to the Minister.
-
-(3) The evidence of such a witness may be taken in the presence or absence of the person charged with the offence against the law of, or of the part of, the foreign or Commonwealth country and the certificate by the Magistrate that the evidence was taken by him shall state whether the person so charged was present or absent when the evidence was taken.
-
-[Act 35/93]
-
-(4) The laws for the time being in force with respect to the compelling of persons to attend before a Magistrate, and to give evidence, answer questions and produce documents, upon the hearing of a charge against a person for an offence against the law of Singapore shall apply, so far as they are capable of application, with respect to the compelling of persons to attend before a Magistrate, and to give evidence, answer questions and produce documents, for the purposes of this section.
-
-[Act 35/93]
+43\. [Repealed by Act 12/2000 wef 01/04/2000]
 
 ### Power to make rules
 
@@ -957,3 +937,8 @@ This Legislative History is provided for the convenience of users of the Extradi
 |||(Bill No. 16/1999 published on 5 May 1999)|
 ||Date of Second and Third Readings|6 July 1999|
 ||Date of commencement|13 September 1999|
+|10.|**Act 12 of 2000—Mutual Assistance in Criminal Matters Act 2000**|
+||Date of First Reading|17 January 2000|
+|||(Bill No. 3/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|22 February 2000|
+||Date of commencement|1 April 2000|
