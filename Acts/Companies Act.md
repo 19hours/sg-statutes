@@ -13142,21 +13142,23 @@ $100
 
 $100
 
-50. For providing information extracted from the Registry on a bulk basis:
+50. For providing information extracted from the Registry on a bulk or packaged basis:
 
 (a) Cost of Manpower
 
-$90 per man-hour
+$120 per man-hour
 
 (b) Computer CPU Processing Charges
 
-$5.10 per CPU-hour
+$5.40 per CPU-second
 
 Subject to an aggregate minimum charge of $30.
 
-The number of man-hours and CPU-hours taken shall be certified by the Registrar.
+The number of man-hours and CPU-seconds taken shall be certified by the Registrar.
 
-If the Registrar decides to supply the information by means other than the written or printed form, an additional fee of $3 per company is payable.
+If the Registrar decides to supply the information by means other than written or printed form, an additional fee of $3 per company shall be payable.
+
+[S 61/97 wef 15/02/1997]
 
 []
 
@@ -15152,3 +15154,5 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 17/95 published on 26 May 1995)|
 ||Date of Second and Third Readings|7 July 1995|
 ||Date of commencement|4 August 1995|
+|42.|**G. N. No. S 61/1997—Companies Act (Amendment of Second Schedule) Notification 1997**|
+||Date of commencement|15 February 1997|
