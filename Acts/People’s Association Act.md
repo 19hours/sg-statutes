@@ -487,6 +487,10 @@ Singapore Professional Centre
 
 Singapore Red Cross Society
 
+66A. 
+
+Singapore Rugby Union
+
 67. 
 
 Singapore Scout Association
@@ -569,6 +573,8 @@ Young Women Muslim Association
 
 [S 135/1987 wef 22/04/1987]
 
+[S 20/1988 wef 29/01/1988]
+
 SECOND SCHEDULE
 
 Section 15(1).
@@ -626,3 +632,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of operation|30 March 1987|
 |16.|**G.N. No. S 135/87—People’s Association Act (Amendment of First Schedule) Notification 1987**|
 ||Date of commencement|22 April 1987|
+|17.|**G.N. No. S 20/88—People’s Association Act (Amendment of First Schedule) Notification 1988**|
+||Date of commencement|29 January 1988|
