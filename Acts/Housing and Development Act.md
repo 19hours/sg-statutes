@@ -586,7 +586,7 @@ as may be directed by the Minister, and shall also provide that such employees o
 
 24\.—(1) The Board may, with the approval of the Minister, purchase or lease any land required for any of the purposes of this Act.
 
-(2) The Board may, with the approval of the Minister (except for monthly leases), sell, surrender, lease or exchange any land or building belonging to the Board, either in block or in parcels as may be found most convenient or advantageous.
+(2) The Board may, with the approval of the prescribed approving authority (except for monthly leases), sell, surrender, lease or exchange any land or building belonging to the Board, either in block or in parcels as may be found most convenient or advantageous.
 
 (3) Subject to section 31, the Board may lease from month to month any land or building belonging to the Board at such rent and upon such terms and conditions as the Board may think fit.
 
@@ -638,7 +638,7 @@ as may be directed by the Minister, and shall also provide that such employees o
 
 (2A) Any rules made under subsection (2)(ba) may prescribe —
 
-(a) the procedure and fees relating to the application and grant of a licence to carry out any renovation in any such flat, house or other building;
+(a) the procedure and fees relating to the application by and grant of a licence to a lessee or contractor to carry out any renovation in any such flat, house or other building;
 
 (b) the conditions of any such licence;
 
@@ -730,7 +730,7 @@ as may be directed by the Minister, and shall also provide that such employees o
 
 [13/75]
 
-(2) The Board may, subject to such conditions or restrictions as it may impose, delegate to any such committee or the Chairman or the Chief Executive Officer one or more of the functions, duties and powers by this Act vested in the Board, except the power to borrow money.
+(2) The Board may, subject to such conditions or restrictions as it may impose, delegate to any such committee or the Chairman or the Chief Executive Officer one or more of the functions, duties and powers by this Act vested in the Board, except the power to borrow money, the power to make any subsidiary legislation and the power of delegation conferred by this section.
 
 [13/75]
 
@@ -738,7 +738,7 @@ as may be directed by the Minister, and shall also provide that such employees o
 
 [13/75]
 
-(3) The Board may, subject to such conditions or restrictions as it may impose, delegate to an employee thereof one or more of the Board’s functions, duties and powers by this Act vested in the Board, except the power to borrow money or to raise or grant loans or advances to or subscribe to stocks, shares, bonds or debentures of a company or corporation,and a function, duty or power so delegated may be exercised or performed by such employee in the name and on behalf of the Board.
+(3) The Board may, subject to such conditions or restrictions as it may impose, delegate to an employee thereof one or more of the Board’s functions, duties and powers by this Act vested in the Board, except the power to borrow money or to raise or grant loans or advances to or subscribe to stocks, shares, bonds or debentures of a company or corporation, the power to make subsidiary legislation or the power to delegate under this section, and a function, duty or power so delegated may be exercised or performed by such employee in the name and on behalf of the Board.
 
 [13/75]
 
@@ -1068,7 +1068,7 @@ SALE OF FLATS, HOUSES OR OTHER BUILDINGS
 
 ### Board and lessees to be discharged from certain restrictive covenant
 
-48A\.—(1) Notwithstanding the provisions of any written law, every lessee of any flat comprised in any designated building and the Board shall be discharged, respectively, from the following covenant:
+48A\.—(1) Notwithstanding the provisions of any written law but subject to subsection (3), the Board and every lessee of any flat comprised in any building comprising flats sold by the Board shall be discharged, respectively, from the following covenant:
 
 (a) in the case of a lessee, from any covenant in the lease —
 
@@ -1080,9 +1080,9 @@ SALE OF FLATS, HOUSES OR OTHER BUILDINGS
 
 (b) in the case of the Board, from any covenant in the lease requiring the Board —
 
-(i) to grant any lease of any other flat comprised in that designated building subject to any covenant referred to in paragraph (a)(i), (ii) or (iii); or
+(i) to grant any lease of any other flat comprised in that same building subject to any covenant referred to in paragraph (a)(i), (ii) or (iii); or
 
-(ii) to enforce any covenant referred to in paragraph (a)(i), (ii) or (iii) on behalf of any lessee of any flat comprised in that designated building.
+(ii) to enforce any covenant referred to in paragraph (a)(i), (ii) or (iii) on behalf of any lessee of any flat comprised in that same building.
 
 [21/2000 wef 01/07/2000]
 
@@ -1090,9 +1090,9 @@ SALE OF FLATS, HOUSES OR OTHER BUILDINGS
 
 [19/92]
 
-(3) For the purposes of subsection (1), “designated building” means a building comprising any flat sold by the Board before 15th January 1992 and declared by the Minister, by notification in theGazette, to be a designated building.
+(3) Notwithstanding subsection (1), a lessee shall not use or allow to be used his flat or any part thereof for any purpose that is not permitted by the lease unless he has the prior written approval of the Board.
 
-[19/92]
+[31/2002 wef 01/01/2003]
 
 ### Execution of sale and other instruments by Board on behalf of certain purchasers of flats
 
@@ -1194,7 +1194,15 @@ and a solicitor is not employed by such person to act for him in the transaction
 
 (2) No such flat, house or other building shall vest in the Official Assignee on the bankruptcy of the owner thereof.
 
-(3) No such flat, house or other building shall be attached in execution of a decree of any court.
+(3) No such flat, house or other building shall be attached in execution of an order of any court unless the order of the court is obtained by —
+
+(a) a mortgagee in exercise of his rights under a mortgage created with the prior written consent of the Board; or
+
+(b) a chargee in exercise of his rights under a charge under any written law,
+
+over that flat, house or other building.
+
+[31/2002 wef 01/01/2003]
 
 (3A) Subsections (2) and (3) shall not apply if the owner of any such flat, house or other building is or, where there is more than one owner, all the owners are not citizens of Singapore.
 
@@ -1354,7 +1362,9 @@ the Board shall apply to the High Court ex parte by originating summons, support
 
 (e) if the owner has, in the opinion of the Board, committed a breach of any of the rules made under section 65(1) (f); or
 
-(f) if the owner has, in the opinion of the Board, used the flat, house or other building otherwise than for the purpose allowed in the lease.
+(f) if the owner has, without the prior written approval of the Board, used or allowed the use of the flat, house or other building otherwise than for the purpose permitted by the lease.
+
+[31/2002 wef 01/01/2003]
 
 (2) Any determination of a lease under subsection (1) shall be without prejudice to any right of action or remedy of the Board in respect of any such breach or any other breach of the conditions contained in the lease.
 
@@ -1366,7 +1376,9 @@ the Board shall apply to the High Court ex parte by originating summons, support
 
 (b) if the owner thereof, his spouse or any authorised occupier has at any time, whether before or after 2nd June 1975, acquired whether by operation of law or otherwise any title to or an estate or interest in any other flat, house or building or land;
 
-(c) if the flat, house or other living accommodation has, in the opinion of the Board, been used otherwise than for the purpose permitted by the lease;
+(c) if the flat, house or other living accommodation has, without the prior written approval of the Board, been used otherwise than for the purpose permitted by the lease;
+
+[31/2002 wef 01/01/2003]
 
 (d) if the owner thereof has permitted any person other than an authorised occupier to reside or stay in the flat, house or other living accommodation;
 
@@ -1522,6 +1534,10 @@ the Board shall apply to the High Court ex parte by originating summons, support
 
 (a) the terms and conditions for the sale of any flat, house or other building under the provisions of this Part;
 
+(aa) the terms and conditions which the Board may impose in granting its consent under section 50 to any sale, lease, mortgage or disposal of a flat, house or other building; and those rules may provide that in specified circumstances, the Board shall be deemed for the purposes of that section to have granted its prior written consent subject to such terms and conditions;
+
+[31/2002 wef 01/01/2003]
+
 (b) the person to whom the flat, house or other building may be sold and the persons who are allowed to stay in it, including the qualifications as to income, the minimum number in the family, citizenship of and ownership of any other properties by all or any such persons;
 
 (c) a scheme of savings, by a prospective purchaser of a flat, house or other building, with the Board for the first minimum payment on a flat, house or other building;
@@ -1564,13 +1580,17 @@ UPGRADING WORKS IN PRECINCTS
 
 (a) any items of work necessary or ancillary to installing any lift or additional lift in a building or part thereof within a precinct; or
 
-(b) such other items of upgrading works prescribed by the Minister, being works to be carried out in a building comprising 2 or more storeys or part thereof (other than any part comprised in a flat) within a precinct for the erection, construction or installation of functional facilities for the convenience of residents of that building in general or a section thereof;
+(b) such other items of upgrading works prescribed by the Minister, being works to be carried out in any building or part thereof (other than any part comprised in a flat) within a precinct for the erection, construction or installation of functional facilities for the convenience of residents of that building in general or a section thereof;
 
 [21/2000 wef 01/07/2000]
 
 “specified upgrading works” means such items of upgrading works as specified by the Board to be carried out in a building or part thereof within a precinct but excludes any special upgrading works;
 
 “Town Council” means a Town Council established under the Town Councils Act (Cap. 329A);
+
+“transfer” means a conveyance, sale, purchase, assignment, legal or equitable mortgage, charge, surrender or disposal in any manner of any estate or interest in a flat and includes a discharge of a mortgage, a reconveyance or the devolution of the rights of a deceased owner of a flat to another person;
+
+[31/2002 wef 01/01/2003]
 
 “upgrading works” includes any building operations, repair, demolition or installation works carried out for the purposes of improving or upgrading any flat, building or land and any addition to, or alteration in, landlord’s fixtures and fittings;
 
@@ -1596,7 +1616,7 @@ UPGRADING WORKS IN PRECINCTS
 
 65C\.—(1) Where a precinct has been declared under section 65B, the Board shall as soon as practicable —
 
-(a) make arrangements to conduct in the manner prescribed a poll of such owners of the flats within the precinct as may be prescribed with a view to establishing their opinions about the proposals to carry out general upgrading works and (if any) specified upgrading works and special upgrading works; and
+(a) make arrangements to conduct in the manner prescribed a poll of such owners of the flats within the precinct as may be prescribed with a view to establishing their opinions about the proposals to carry out general upgrading works and (if any) specified upgrading works or special upgrading works; and
 
 (b) do such other things as the Minister may direct.
 
@@ -1632,9 +1652,13 @@ the Board may, with the further approval of the Minister, carry out those specif
 
 [16/95]
 
-(5A) Where it appears from a poll conducted under subsection (1A) that 75% or more of the total value in votes of such owners of flats within a building in a precinct as are referred to in that subsection have been cast in favour of any proposal to carry out special upgrading works in the building, the Board may, with the approval of the Minister, carry out those special upgrading works in that building within that precinct.
+(5A) The Board may, with the approval of the Minister, carry out special upgrading works in any building within a precinct if and only if —
 
-[21/2000 wef 01/07/2000]
+(a) it appears from a poll of such owners referred to in subsection (1A) that 75% or more of the total value in votes of such owners within the building in the precinct have been cast in favour of the proposal to carry out special upgrading works in the building; and
+
+(b) where the proposal is for the special upgrading works to be carried out in the building in the precinct together with any general upgrading works within the precinct, it also appears from a poll of prescribed owners referred to in subsection (2) that 75% or more of the total value in votes of all such owners of all flats within the precinct have been cast in favour of the proposal to carry out the general upgrading works in the precinct.
+
+[31/2002 wef 01/01/2003]
 
 (6) No poll shall be invalid by reason of any failure to comply with any provision of this Part or any rules made thereunder relating to the conduct of a poll if it appears that the poll was conducted in accordance with the principles laid down in that provision, and that the failure did not affect the result of the poll.
 
@@ -1694,7 +1718,7 @@ the Board may, with the further approval of the Minister, carry out those specif
 
 ### Payment of improvement contribution
 
-65F\.—(1) Any owner of a flat and any Town Council liable to pay any improvement contribution under section 65D shall, upon a written demand by the Board, pay to the Board the improvement contribution not later than one month of notice of the written demand.
+65F\.—(1) Any owner of a flat and any Town Council liable to pay any improvement contribution under section 65D shall, upon a written demand by the Board, pay to the Board the improvement contribution not later than one month from the date of the written demand.
 
 [19/92]
 
@@ -1706,17 +1730,13 @@ the Board may, with the further approval of the Minister, carry out those specif
 
 [19/92]
 
-(4) For the purposes of this section, “transfer” means a conveyance, sale, purchase, assignment, legal or equitable mortgage, charge, surrender or disposal in any manner of any estate or interest in a flat and includes a discharge of a mortgage, a reconveyance or the devolution of the rights of a deceased owner of a flat to another person.
-
-[19/92]
-
 ### Transfer of additional floor area
 
 65G\.—(1) Where the floor area of a flat is increased as a result of any upgrading works carried out by the Board under this Part, the title to such additional floor area shall vest in the owner of the flat in the following manner:
 
 (a) where such additional floor area of the flat is constructed over land registered under the Registration of Deeds Act (Cap. 269), the title to the additional floor area shall vest for the same estate and interest as that subsisting over the flat in the owner for the time being of the flat upon the acceptance by the Registrar of Deeds of the notice of vesting of the additional floor area presented by the Board for notification in the Registry of Deeds; and
 
-(b) where such additional floor area of the flat is constructed over land registered under the Land Titles Act (Cap. 157), the title to the additional floor area shall vest in the registered proprietorfor the time being of the subsidiary strata lot comprising the flat for the same estate and interest subsisting in respect of that subsidiary strata lot upon the acceptance by the Registrar of Titles of an instrument to vest the additional floor area presented by the Board for notification in the Registry of Titles.
+(b) where such additional floor area of the flat is constructed over land registered under the Land Titles Act (Cap. 157), the title to the additional floor area shall vest in the registered proprietor or owner for the time being of the subsidiary strata lot comprising the flat for the same estate and interest subsisting in respect of that subsidiary strata lot upon the acceptance by the Registrar of Titles of an instrument to vest the additional floor area presented by the Board for notification in the Registry of Titles.
 
 [19/92]
 
@@ -1724,11 +1744,11 @@ the Board may, with the further approval of the Minister, carry out those specif
 
 [19/92]
 
-(3) Where there is a subsisting mortgage on a flat, the additional floor area of the flat shall form part of the security of the mortgage subject to the same terms and conditions stipulated therein upon the acceptance by the Registrar of Deeds or the Registrar of Titles, as the case may be, of the notice of vesting of the additional floor area or the instrument to vest the additional floor area presented by the Board for notification in the Registry of Deeds or Registry of Titles.
+(3) Where there is a subsisting mortgage, charge or other encumbrance on a flat, the additional floor area of the flat shall form part of the security of the mortgage subject to the same terms and conditions stipulated therein upon the acceptance by the Registrar of Deeds or the Registrar of Titles, as the case may be, of the notice of vesting of the additional floor area or the instrument to vest the additional floor area presented by the Board for notification in the Registry of Deeds or Registry of Titles.
 
 [19/92]
 
-(4) Any transferof a flat on or after the acceptance by the Registrar of Deeds or the Registrar of Titles, as the case may be, of the notice of vesting of the additional floor area of the flat or the instrument to vest the additional floor area of the flat presented by the Board for notification in the Registry of Deeds or Registry of Titles shall be deemed to include the additional floor area.
+(4) Any transfer or dealing in respect of a flat on or after the acceptance by the Registrar of Deeds or the Registrar of Titles, as the case may be, of the notice of vesting of the additional floor area of the flat or the instrument to vest the additional floor area of the flat presented by the Board for notification in the Registry of Deeds or Registry of Titles shall be deemed to include the additional floor area.
 
 [19/92]
 
@@ -1820,7 +1840,7 @@ the Board may, with the further approval of the Minister, carry out those specif
 
 (b) that the premises are unoccupied or the occupier is temporarily absent,
 
-the Magistrate’s Court may by warrant authorise the Board by any authorised officer or person to enter the premises.
+the Magistrate’s Court may by warrant authorise the Board by any authorised officer or person to enter the premises forcibly, if necessary.
 
 [19/92]
 
@@ -1835,6 +1855,16 @@ the Magistrate’s Court may by warrant authorise the Board by any authorised of
 (4) Any officer or person authorised by the Board entering any premises by virtue of this section, or of a warrant issued under this section, may take with him such other persons as may be necessary; and on leaving any unoccupied premises which he has entered by virtue of such a warrant shall leave them as effectually secured against trespassers as he found them.
 
 [19/92]
+
+(4A) Any officer or person authorised by the Board entering any premises by virtue of a warrant issued under this section may do all or any of the following:
+
+(a) break open any outer or inner door or window leading to the premises;
+
+(b) forcibly enter such premises and every part thereof;
+
+(c) remove by force any obstruction to such entry.
+
+[31/2002 wef 01/01/2003]
 
 (5) A warrant issued under this section continues in force until the purpose for which the entry is necessary has been satisfied.
 
@@ -2148,7 +2178,7 @@ to whom the Board has delegated any of its powers under section 29(4) who reason
 
 [28/89]
 
-(3) Any person who refuses to furnish any information required of him by any police officer, employee of the Board or person referred to in subsection (2), or wilfully mis-states such information, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
+(3) Any person who refuses to furnish any information required of him by any police officer, employee of the Board or person referred to in subsection (2), or wilfully mis-states such information, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 [79A
 
@@ -4865,3 +4895,8 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002 (except item (18) of Schedule)|
+|30.|**Act 31 of 2002—Housing and Development (Amendment) Act 2002**|
+||Date of First Reading|1 October 2002|
+|||(Bill No. 35/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|1 January 2003|
