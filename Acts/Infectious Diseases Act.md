@@ -104,7 +104,7 @@
 
 - [44 Exemption from vaccination](#Exemption-from-vaccination)
 
-- [45 Certificate of unfitness](#Certificate-of-unfitness)
+- [45 Certificates of unfitness](#Certificates-of-unfitness)
 
 - [46 Offence](#Offence)
 
@@ -244,7 +244,7 @@ PRELIMINARY
 
 “quarantine” means the compulsory detention in isolation for the purpose and under the provisions of this Act or any regulations made thereunder of any ships, persons, goods, things, animals or plants;
 
-“quarantine anchorage” means any area of the port which has been appointed for the time being for the quarantine of vessels and declared to be a quarantine anchorage by the Port of Singapore Authority;
+“quarantine anchorage” means any area of the port which has been appointed for the time being for the quarantine of vessels and declared to be a quarantine anchorage by the Port of Singapore Authority.
 
 “quarantine station” means any island, building or place where quarantine is carried out;
 
@@ -262,7 +262,7 @@ ADMINISTRATION
 
 (2) The Commissioner shall, subject to any general or special directions of the Minister, be responsible for the administration of Part IV.
 
-(3) The appropriate Minister may, by notification in theGazette, direct that the powers conferred on the Director under Part III be exercised by the Commissioner in relation to such matters as may be specified in the notification; and for the purposes of exercising the powers under Part III in relation to such matters any reference to the Director in that Part shall be construed as a reference to the Commissioner.
+(3) The appropriate Minister may, by notification in theGazette, direct that the powers conferred on the Director under Part III be exercised by the Commissioner in relation to such matters as may be specified in the notifications; and for the purposes of exercising the powers under Part III in relation to such matters any reference to the Director in that Part shall be construed as a reference to the Commissioner.
 
 ### Delegation
 
@@ -276,12 +276,7 @@ ADMINISTRATION
 
 ## PART III
 
-CONTROL OF INFECTIOUS DISEASES
-
-
-
-
-WITHIN SINGAPORE
+CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 ### Notification of infectious diseases
 
@@ -521,7 +516,7 @@ PREVENTION OF THE INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 ### Powers of Commissioner or Port Health Officer regarding food and water
 
-35\.—(1) The Commissioner or a Port Health Offficer may —
+35\.—(1) The Commissioner or a Port Health Officer may —
 
 (a) take samples of any food and water intended for human consumption or for sale to a vessel;
 
@@ -607,7 +602,7 @@ VACCINATION
 
 44\. The Director may grant the postponement of or exemption from any vaccination required under this Part as he thinks fit.
 
-### Certificate of unfitness
+### Certificates of unfitness
 
 45\.—(1) If any medical practitioner is of the opinion that any person is not fit to be vaccinated, he shall forthwith deliver to that person or in the case of a child to the parent or guardian of the child a certificate in the prescribed form.
 
@@ -701,7 +696,7 @@ Provided that no person so arrested shall be detained longer than is necessary f
 
 ### Default in compliance with notice
 
-56\. Where any notice served in accordance with section 55 requires any act to be done or work to be executed by the owner or the occupier or the person in charge of any premises or vessel and there is default in complying with the requirement of the notice, the person in default shall, where no fine is specially provided for the default, be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+56\. Where any notice served in accordance with section 55 requires any act to be done or work to be executed by the owner or the occupier or the person in charge of any premises or vessel and there is default in complying with the requirement of the notice, the person in default shall, where no fine is specially provided for the default, be guilty of an offence and shall be liable on conviction to fine not exceeding $2,000.
 
 ### Inaccuracies in documents
 
@@ -723,7 +718,7 @@ Provided that no person so arrested shall be detained longer than is necessary f
 
 ### Offences triable by Magistrate’s Court unless otherwise provided
 
-61\. Every offence under this Act may be tried by a Magistrate’s Court, and that Court may, notwithstanding anything in the Criminal Procedure Code [Cap. 68], award the full punishment with which the offence is punishable.
+61\. Every offence under this Act may be tried by a Magistrate’s Court, and that Court may, notwithstanding anything in the Criminal Procedure Code, award the full punishment with which the offence is punishable.
 
 ### Protection for officers
 
@@ -765,9 +760,13 @@ Provided that no person so arrested shall be detained longer than is necessary f
 
 ### Transitional
 
-67\. Without limiting the provisions of the Interpretation Act [Cap. 1, 1970 Ed] the repeal by this Act of the Diphtheria Immunisation Act\*, the Leprosy Act\*and the Quarantine and Prevention of Disease Act\*shall not affect any document made or any thing done under any of those Acts or under any subsidiary legislation in force at the commencement of this Act; and every such document or thing shall continue and have effect as if it had been made or done under the corresponding provision of this Act and such subsidiary legislation shall continue in force until subsequently revoked.
+67\. Without limiting the provisions of the Interpretation Act [Cap. 1. 1970 Ed] the repeal by this Act of the Diphtheria Immunisation Act1., the Leprosy Act2.and the Quarantine and Prevention of Disease Act3.shall not affect any document made or any thing done under any of those Acts or under any subsidiary legislation in force at the commencement of this Act; and every such document or thing shall continue and have effect as if it had been made or done under the corresponding provision of this Act and such subsidiary legislation shall continue in force until subsequently revoked.
 
-\*Repealed by former section 67(1), which is omitted from this Edition.
+1.Repealed by former section 67(1), which is omitted from this Edition.
+
+2.Repealed by former section 67(1), which is omitted from this Edition.
+
+3.Repealed by former section 67(1), which is omitted from this Edition.
 
 ### Other written law not affected
 
@@ -801,7 +800,7 @@ Infectious Diseases
 
 (k) Poliomyelitis.
 
-(l) Smallpox.
+(l) Deleted by S 119/90
 
 (m) Typhoid.
 
@@ -825,15 +824,21 @@ Syphilis.
 
 (s) Measles.
 
+(t) Rubella.
+
+(u) Mumps.
+
+[S 119/90 wef 01/04/1990]
+
 SECOND SCHEDULE
 
 Sections 2 and 65.
 
 Dangerous Infectious Diseases
 
-(a) Smallpox.
+(a) Deleted by S 119/90
 
-(b) Cholera.
+(b) Deleted by S 119/90
 
 (c) Plague.
 
@@ -845,7 +850,7 @@ Sections 26, and 65.
 
 Vaccination of Persons Arriving in or Leaving Singapore
 
-(a) Smallpox — Vaccination against smallpox is required from any person who arrives from a smallpox infected country or who has within the preceding 14 days passed through any country which is wholly or partly infected with smallpox.
+(a) Deleted by S 119/90\.
 
 (b) Yellow Fever — Vaccination against yellow fever is required from any person who is going to or coming from or has passed through any country which is wholly or partly endemic for yellow fever.
 
@@ -893,3 +898,5 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|1 August 1985|
 |8.|**1985 Revised Edition—Infectious Diseases Act**|
 ||Date of operation|30 March 1987|
+|9.|**G. N. No. S 119/1990—Infectious Diseases Act (Amendment of Schedules) Notification 1990**|
+||Date of commencement|1 April 1990|
