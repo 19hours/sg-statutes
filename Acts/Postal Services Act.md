@@ -384,11 +384,13 @@ POSTAL SERVICES AND SYSTEMS
 
 ### Examination of postal articles
 
-13\. All postal articles received from outside Singapore may be examined while in the custody of a public postal licensee by the Director-General of Customs and Excise or any senior officer of customs, and may be opened by an employee of the licensee in the presence of the Director-General of Customs and Excise or the senior officer of customs for the purpose of the examination.
+13\. All postal articles received from outside Singapore may be examined while in the custody of a public postal licensee by the Director-General of Customs or any senior officer of customs, and may be opened by an employee of the licensee in the presence of the Director-General of Customs or the senior officer of customs for the purpose of the examination.
 
 ### Forfeiture of postal articles
 
-14\. Any postal article found upon any examination under section 13 to contain any dutiable goods, that postal article not having affixed thereto a true declaration of those goods, shall be liable to forfeiture by order of the Director-General of Customs and Excise.
+14\. Any postal article found upon any examination under section 13 to contain any dutiable goods, that postal article not having affixed thereto a true declaration of those goods, shall be liable to forfeiture by order of the Director-General of Customs.
+
+[4/2003 wef 01/04/2003]
 
 ### Presumption as to importer
 
@@ -977,6 +979,11 @@ This Legislative History is provided for the convenience of users of the Postal 
 ||Date of commencement|1.12.99|
 |2.|**2000 Revised Edition—Postal Services Act**|
 ||Date of operation|30 December 2000|
+|3.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 4 April 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
 ## COMPARATIVE TABLE
 
 Postal Services Act
