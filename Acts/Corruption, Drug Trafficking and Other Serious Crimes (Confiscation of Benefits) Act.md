@@ -1,12 +1,10 @@
-**Drug Trafficking (Confiscation of Benefits) Act 1992**
+**Drug Trafficking (Confiscation of Benefits) Act**
 
-**(No. 29 of 1992)**
+**(CHAPTER 84A)**
 
 **Table of Contents**
 
 [**Long Title**](#Corruption-Drug-Trafficking-and-Other-Serious-Crimes-Confiscation-of-Benefits-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 [**Part I PRELIMINARY**](#Part-I)
 
@@ -38,7 +36,7 @@
 
 - [12 Restraint orders](#Restraint-orders)
 
-- [13 Charging orders in respect of land, securities, etc](#Charging-orders-in-respect-of-land-securities-etc)
+- [13 Charging orders in respect of land, securities, etc.](#Charging-orders-in-respect-of-land-securities-etc)
 
 - [14 Charging orders: supplementary provisions](#Charging-orders:-supplementary-provisions)
 
@@ -50,7 +48,7 @@
 
 - [18 Variation of confiscation orders](#Variation-of-confiscation-orders)
 
-- [19 Bankruptcy of defendant, etc](#Bankruptcy-of-defendant-etc)
+- [19 Bankruptcy of defendant, etc.](#Bankruptcy-of-defendant-etc)
 
 - [20 Winding up of company holding realisable property](#Winding-up-of-company-holding-realisable-property)
 
@@ -96,7 +94,7 @@
 
 - [36 Retention of records by financial institutions](#Retention-of-records-by-financial-institutions)
 
-- [37 Register of original documents](#Register-of-original-documents)
+- [37 Register of originals documents](#Register-of-originals-documents)
 
 - [38 Communication of information by financial institutions to law enforcement agencies](#Communication-of-information-by-financial-institutions-to-law-enforcement-agencies)
 
@@ -130,7 +128,7 @@
 
 - [50 Evidence of corresponding law](#Evidence-of-corresponding-law)
 
-- [51 Power of arrest and investigations](#Power-of-arrest-and-investigations)
+- [51 Powers of arrest and investigations](#Powers-of-arrest-and-investigations)
 
 - [52 Amendment of Schedule](#Amendment-of-Schedule)
 
@@ -150,39 +148,21 @@
 
 [**THE SCHEDULE Drug Trafficking Offences**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Drug Trafficking (Confiscation of Benefits) Act
 
-ACTS SUPPLEMENT
+(CHAPTER 84A)
 
-Published by Authority
+(Original Enactment: Act 29 of 1992)
 
-NO. 33]
+REVISED EDITION 1993
 
-Friday, December 4
-
-[1992
-
-The following Act was passed by Parliament on 14th September 1992 and assented to by the President on 17th October 1992:—
-
-Drug Trafficking (Confiscation Of Benefits) Act 1992
-
-(No. 29 of 1992)
-
-I assent.
-
-WEE KIM WEE
-
-President,
-
-17th October 1992.
-
-Date of Commencement: 4th December 1992
+(15th March 1993)
 
 An Act to provide for the confiscation of benefits derived from drug trafficking and for purposes connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[4th December 1992]
 
 ## PART I
 
@@ -190,7 +170,7 @@ PRELIMINARY
 
 ### Short title and commencement
 
-1\.—(1) This Act may be cited as the Drug Trafficking (Confiscation of Benefits) Act 1992 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\.—(1) This Act may be cited as the Drug Trafficking (Confiscation of Benefits) Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
 
 (2) The Minister may appoint different dates for the coming into operation of the different provisions of this Act.
 
@@ -200,21 +180,21 @@ PRELIMINARY
 
 “authorised officer” means —
 
-(a) any officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act including the Director (Cap. 185);
+(a) any officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act [Cap. 185] including the Director;
 
 (b) any police officer; and
 
-(c) any other person authorised in writing by the Minister for the purposes of this Act (Cap. 19);
+(c) any other person authorised in writing by the Minister for the purposes of this Act;
 
-“bank” means a bank licensed under the Banking Act;
+“bank” means a bank licensed under the Banking Act [Cap. 19];
 
 “charging order” means an order made under section 13(1);
 
-“confiscation order” means an order made under section 4;
+“confiscation order” means an order made under section 4 ;
 
 “corresponding law” has the same meaning as in the Misuse of Drugs Act;
 
-“customs officer” has the same meaning as in the Customs Act (Cap. 70);
+“customs officer” has the same meaning as in the Customs Act [Cap. 70];
 
 “dealing with property” is to be construed in accordance with section 12(7);
 
@@ -230,7 +210,7 @@ and includes entering into or being otherwise concerned in, whether in Singapore
 
 (i) the retention or control by or on behalf of another person of that other person’s benefits of drug trafficking is facilitated; or
 
-(ii) the benefits of drug trafficking by another person are used to secure that funds are placed at that other person’s disposal or are used for that other person’s benefit to acquire property by way of investment;
+(ii) the benefits of drug trafficking by another person are used to secure funds that are placed at that other person’s disposal or are used for that other person’s benefit to acquire property by way of investment;
 
 “drug trafficking offence” means —
 
@@ -246,23 +226,23 @@ and includes entering into or being otherwise concerned in, whether in Singapore
 
 “financial institution” includes —
 
-(a) a bank licensed under the Banking Act (Cap. 19);
+(a) a bank licensed under the Banking Act [Cap. 19];
 
-(b) a merchant bank that is approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
+(b) a merchant bank that is approved as a financial institution under section 28 of the Monetary Authority of Singapore Act [Cap. 186];
 
-(c) a finance company licensed under the Finance Companies Act (Cap. 108);
+(c) a finance company licensed under the Finance Companies Act [Cap. 108];
 
-(d) a dealer or an investment adviser licensed under the Securities Industry Act (Cap. 289);
+(d) a dealer or an investment adviser licensed under the Securities Industry Act;
 
-(e) a futures broker, a futures trading adviser or a futures pool operator licensed under the Futures Trading Act (Cap. 116);
+(e) a futures broker, a futures trading adviser or a futures pool operator licensed under the Futures Trading Act [Cap. 116];
 
-(f) a company or society registered under the Insurance Act (Cap. 142); and
+(f) a company or society registered under the Insurance Act [Cap. 142]; and
 
 (g) such other company or class of companies which the Minister may by order prescribe;
 
 “foreign offence” means an offence punishable under a corresponding law;
 
-“gift caught by this Act” is to be construed in accordance with section 8(8);
+“gift caught by this Act” is to be construed in accordance with section 8(8) ;
 
 “interest”, in relation to property, includes right;
 
@@ -270,9 +250,9 @@ and includes entering into or being otherwise concerned in, whether in Singapore
 
 “material” includes any book, document or other record in any form whatsoever, and any container or article relating thereto;
 
-“Monetary Authority of Singapore” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186);
+“Monetary Authority of Singapore” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act [Cap. 186];
 
-“officer of the Bureau” means the Director or any officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185);
+“officer of the Bureau” means the Director or any officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act [Cap. 185];
 
 “property” means money and all other property, movable or immovable, including things in action and other intangible or incorporeal property;
 
@@ -388,7 +368,7 @@ the court may, for the purposes of that determination, treat the acceptance by t
 
 ### Amount to be recovered under confiscation order
 
-7\.—(1) Subject to subsection (3), the amount to be recovered from the defendant under the confiscation order shall be the amount the court assesses to be the value of the benefits derived by the defendant from drug trafficking.
+7\.—(1) Subject to subsection (3), the amount to be recovered from the defendant under the confiscation order shall be the amount the court assesses to be the value of the benefits derived by the defendant from drug trafficking .
 
 (2) If the court is satisfied as to any matter relevant for determining the amount that might be realised at the time the confiscation order is made (whether by an acceptance under section 6 or otherwise), the court may issue a certificate giving its opinion as to the matters concerned and shall do so if satisfied as mentioned in subsection (3).
 
@@ -406,9 +386,7 @@ the court may, for the purposes of that determination, treat the acceptance by t
 
 ### Definition of principal terms used
 
-8\.—(1) In this Act,
-
-“realisable property” means —
+8\.—(1) In this Act, “realisable property” means —
 
 (a) any property held by the defendant; and
 
@@ -444,9 +422,9 @@ whichever is the greater.
 
 (a) the property which he received (not being cash); or
 
-(b) property which, in whole or in part, directly or indirectly, represents in his hands the property which he received,
+(b) property which, in whole or in part, directly or indirectly represents in his hands the property which he received,
 
-the value referred to in subsection (4)(b) shall be the value to him at the material time of the property mentioned in paragraph (a) or, as the case may be, of the property mentioned in paragraph (b) so far as it so represents the property which he received, but disregarding in either case any charging order.
+the value referred to in subsection (4)(b) shall be the value to him at the material time of the property mentioned in paragraph (a) or as the case may be, of the property mentioned in paragraph (b) so far as it so represents the property which he received, but disregarding in either case any charging order.
 
 (6) For the purposes of subsection (2), an obligation has priority at any time if it is an obligation of the defendant to —
 
@@ -456,9 +434,9 @@ the value referred to in subsection (4)(b) shall be the value to him at the mate
 
 (7) For the purposes of subsection (6)(b), “preferential debts” —
 
-(a) in relation to bankruptcy, means the debts to be paid in priority under section 43 of the Bankruptcy Act (Cap. 20) (assuming the date of the confiscation order to be the date of the receiving order); and
+(a) in relation to bankruptcy, means the debts to be paid in priority under section 43 of the Bankruptcy Act (assuming the date of the confiscation order to be the date of the receiving order); and
 
-(b) in relation to winding up, means the debts to be paid in priority in accordance with section 328 of the Companies Act (Cap. 50) (assuming the date of the confiscation order to be the commencement date of the winding up).
+(b) in relation to winding up, means the debts to be paid in priority in accordance with section 328 of the Companies Act [Cap. 50] (assuming the date of the confiscation order to be the commencement date of the winding up).
 
 (8) A gift (including a gift made before the commencement of this Act) is caught by this Act if —
 
@@ -474,7 +452,7 @@ the value referred to in subsection (4)(b) shall be the value to him at the mate
 
 ### Protection of rights of third party
 
-9\.—(1) Where an application is made for a confiscation order under section 4, a person who asserts an interest in the property may apply to the court, before the confiscation order is made, for an order under subsection (2).
+9\.—(1) Where an application is made for a confiscation order under section 4 , a person who asserts an interest in the property may apply to the court, before the confiscation order is made, for an order under subsection (2).
 
 (2) If a person applies to the court for an order under this subsection in respect of his interest in property and the court is satisfied —
 
@@ -506,7 +484,7 @@ ENFORCEMENT, ETC., OF CONFISCATION ORDERS
 
 ### Application of procedure for enforcing fines
 
-10\.—(1) Subject to subsection (4), where a court orders the defendant to pay any amount under section 4, section 224 of the Criminal Procedure Code (Cap. 68) shall have effect as if —
+10\.—(1) Subject to subsection (4), where a court orders the defendant to pay any amount under section 4 , section 224 of the Criminal Procedure Code shall have effect as if —
 
 (a) that amount were a fine imposed on him by the court; and
 
@@ -528,35 +506,35 @@ ENFORCEMENT, ETC., OF CONFISCATION ORDERS
 
 the term of imprisonment to be served in default of payment of the amount shall not begin to run until after the term mentioned in paragraph (b).
 
-(3) A District Court may, notwithstanding the provisions of any other written law, impose the maximum term of imprisonment on the defendant in default of the payment of any amount ordered to be paid under section 4.
+(3) A District Court may, notwithstanding the provisions of any other written law, impose the maximum term of imprisonment on the defendant in default of the payment of any amount ordered to be paid under section 4 .
 
 (4) Where a defendant is convicted of a drug trafficking offence and sentenced to death, any amount which the court orders the defendant to pay under section 4 may, on an application by the Public Prosecutor to the High Court, be realised by the High Court exercising the powers conferred by section 15(3) to (7).
 
-(5) Where a defendant is convicted of a drug trafficking offence, any amount which the court orders the defendant to pay under section 4 and which, in the case of realisable property comprising wholly or partly cash, may be realised by the High Court making a garnishee order subject to rules of court.
+(5) Where a defendant is convicted of a drug trafficking offence , any amount which the court orders the defendant to pay under section 4 and which, in the case of realisable property comprising wholly or partly cash, may be realised by the High Court making a garnishee order subject to Rules of Court.
 
 ### Cases in which restraint orders and charging orders may be made
 
 11\.—(1) The powers conferred on the High Court by section 12(1) to make a restraint order and by section 13(1) to make a charging order are exercisable where —
 
-(a) proceedings have been instituted against the defendant for a drug trafficking offence;
+(a) proceedings have been instituted against the defendant for a drug trafficking offence ;
 
 (b) the proceedings have not been concluded; and
 
-(c) the Court is satisfied that there is reasonable cause to believe that benefits have been derived by the defendant from drug trafficking.
+(c) the Court is satisfied that there is reasonable cause to believe that benefits have been derived by the defendant from drug trafficking .
 
 (2) Those powers are also exercisable where the High Court is satisfied —
 
-(a) that a person has been officially informed pursuant to section 122(6) of the Criminal Procedure Code (Cap. 68) that he may be prosecuted for a drug trafficking offence; or
+(a) that a person has been officially informed pursuant to section 122(6) of the Criminal Procedure Code [Cap. 68] that he may be prosecuted for a drug trafficking offence ; or
 
 (b) that investigation for a drug trafficking offence having been commenced against a person, he dies or cannot be found or is outside the jurisdiction,
 
-and that there is reasonable cause to believe that benefits have been derived by that person from drug trafficking.
+and that there is reasonable cause to believe that benefits have been derived by that person from drug trafficking .
 
 (3) For the purposes of sections 12 and 13, at any time when those powers are exercisable before proceedings have been instituted —
 
 (a) references in this Act to the defendant shall be construed as references to the person referred to in subsection (2); and
 
-(b) references in this Act to realisable property shall be construed as if, immediately before that time, proceedings had been instituted against the person referred to in subsection (2) for a drug trafficking offence.
+(b) references in this Act to realisable property shall be construed as if, immediately before that time, proceedings had been instituted against the person referred to in subsection (2) for a drug trafficking offence .
 
 (4) Where the High Court has made an order under section 12(1) or 13(1) by virtue of subsection (2), the Court shall discharge the order if the proposed proceedings are not instituted within such time as the Court considers reasonable and which shall not in any event exceed a period of 3 months.
 
@@ -604,7 +582,7 @@ subject to such exceptions and conditions as may be specified by the Court; and 
 
 (9) Property seized under subsection (8) shall be dealt with in accordance with the directions of the High Court.
 
-### Charging orders in respect of land, securities, etc
+### Charging orders in respect of land, securities, etc.
 
 13\.—(1) The High Court may make a charging order on realisable property for securing the payment to the Government —
 
@@ -654,9 +632,9 @@ subject to such exceptions and conditions as may be specified by the Court; and 
 
 14\.—(1) A charging order may be made either absolutely or subject to conditions as to notifying any person holding any interest in the property to which the order relates or as to the time when the charge is to become enforceable, or as to other matters.
 
-(2) A caveat may be lodged under the Land Titles Act (Cap. 157) or an entry may be made under the Registration of Deeds Act (Cap. 269), as the case may be, in respect of a charging order made under section 13 .
+(2) A caveat may be lodged under the Land Titles Act [Cap. 157] or an entry may be made under the Registration of Deeds Act [Cap. 269], as the case may be, in respect of a charging order made under section 13.
 
-(3) Subject to any provision made under section 15 or by rules of court, a charge imposed by a charging order shall have the like effect and shall be enforceable in the same manner as an equitable charge created by the person holding the beneficial interest or, as the case may be, the trustees by writing under their hand.
+(3) Subject to any provision made under section 15 or by Rules of Court, a charge imposed by a charging order shall have the like effect and shall be enforceable in the same manner as an equitable charge created by the person holding the beneficial interest or, as the case may be, the trustees by writing under their hand.
 
 (4) Where a charging order has been protected by a caveat lodged under the Land Titles Act or by an entry registered under the Registration of Deeds Act, an order under section 13(8) discharging the charging order may direct that the caveat be removed or the entry be cancelled.
 
@@ -664,7 +642,7 @@ subject to such exceptions and conditions as may be specified by the Court; and 
 
 15\.—(1) Where —
 
-(a) in proceedings instituted for a drug trafficking offence, a confiscation order is made;
+(a) in proceedings instituted for a drug trafficking offence , a confiscation order is made;
 
 (b) the order is not subject to appeal; and
 
@@ -674,7 +652,7 @@ the High Court may, on an application of the Public Prosecutor, exercise the pow
 
 (2) The High Court may, on the application of the Public Prosecutor, also exercise the powers conferred by subsections (3) to (7) where —
 
-(a) a confiscation order is made against a person who is, by reason of section 22, taken to be convicted of a drug trafficking offence;
+(a) a confiscation order is made against a person who is, by reason of section 22, taken to be convicted of a drug trafficking offence ;
 
 (b) the order is not subject to appeal; and
 
@@ -748,9 +726,9 @@ as the High Court may direct after giving a reasonable opportunity for such pers
 
 (a) substitute for the amount to be recovered under the order such lesser amount as the Court thinks just in all the circumstances of the case; and
 
-(b) substitute for the term of imprisonment fixed under section 224 of the Criminal Procedure Code (Cap. 68) in respect of the amount to be recovered under the order a shorter term determined in accordance with that section (as it has effect by virtue of section 10) in respect of the lesser amount.
+(b) substitute for the term of imprisonment fixed under section 224 of the Criminal Procedure Code [Cap. 68] in respect of the amount to be recovered under the order a shorter term determined in accordance with that section (as it has effect by virtue of section 10) in respect of the lesser amount.
 
-### Bankruptcy of defendant, etc
+### Bankruptcy of defendant, etc.
 
 19\.—(1) Where a person who holds realisable property is adjudged bankrupt —
 
@@ -758,7 +736,7 @@ as the High Court may direct after giving a reasonable opportunity for such pers
 
 (b) any proceeds of property realised by virtue of section 12(6) or 15(6) or (7) for the time being in the hands of the Public Trustee or a receiver pursuant to section 12 or 15,
 
-shall be excluded from the bankrupt’s estate for the purposes of the Bankruptcy Act (Cap. 20).
+shall be excluded from the bankrupt’s estate for the purposes of the Bankruptcy Act [Cap. 20].
 
 (2) Where a person has been adjudged bankrupt, the powers conferred on the High Court by sections 12 to 16 or on the Public Trustee or a receiver shall not be exercised in relation to —
 
@@ -776,7 +754,7 @@ shall be excluded from the bankrupt’s estate for the purposes of the Bankruptc
 
 (b) on property which was subject to a restraint order when the order adjudging him bankrupt was made.
 
-(5) Where, in the case of a debtor, an interim receiver stands appointed under section 11 of the Bankruptcy Act (Cap. 20) and any property of the debtor is subject to a restraint order —
+(5) Where, in the case of a debtor, an interim receiver stands appointed under section 11 of the Bankruptcy Act [Cap. 20] and any property of the debtor is subject to a restraint order —
 
 (a) the powers conferred on the receiver by virtue of that Act shall not apply to property for the time being subject to the restraint order; and
 
@@ -800,7 +778,7 @@ but there shall be payable out of such property any expenses (including the remu
 
 (b) so as to prevent the payment out of any property of expenses (including the remuneration of the liquidator or any provisional liquidator) properly incurred in the winding up in respect of the property.
 
-(3) Nothing in the Companies Act (Cap. 50) shall be taken as restricting, or enabling the restriction of, the exercise of those powers referred to in subsection (2).
+(3) Nothing in the Companies Act [Cap. 50] shall be taken as restricting, or enabling the restriction of, the exercise of those powers referred to in subsection (2).
 
 (4) Subsection (2) shall not affect the enforcement of a charging order made before the relevant time or on property which was subject to a restraint order at the relevant time.
 
@@ -840,7 +818,7 @@ APPLICATION TO ABSCONDED PERSONS
 
 ### Confiscation order where person has absconded
 
-23\. Where a person is, by reason of section 22, to be taken to have been convicted of a drug trafficking offence, a court shall not make a confiscation order in reliance on the person’s conviction of the offence unless the court is satisfied —
+23\. Where a person is, by reason of section 22, to be taken to have been convicted of a drug trafficking offence , a court shall not make a confiscation order in reliance on the person’s conviction of the offence unless the court is satisfied —
 
 (a) on the evidence adduced before it that, on the balance of probabilities, the person has absconded; and
 
@@ -850,7 +828,9 @@ APPLICATION TO ABSCONDED PERSONS
 
 24\.—(1) Proceedings under this Act shall be instituted or continued against the personal representatives of a deceased defendant or, if there are no personal representatives, such beneficiary or beneficiaries of the estate of the deceased defendant as may be specified by the court upon the application of the Public Prosecutor.
 
-(2) Where the power conferred by this Act to make a confiscation order is to be exercised in relation to a deceased defendant, the order shall be made against the estate of the deceased defendant except that nothing in this Act shall subject any personal representative of the estate of the deceased defendant, or any beneficiary thereof, to any imprisonment under section 9 if the property of the estate is inadequate for the payment of any amount to be recovered under the confiscation order.
+(2) Where the power conferred by this Act to make a confiscation order is to be exercised in relation to a deceased defendant, the order shall be made against the estate of the deceased defendant except that nothing in this Act shall subject any personal representative of the estate of the deceased defendant, or any beneficiary thereof, to any imprisonment under section 10 if the property of the estate is inadequate for the payment of any amount to be recovered under the confiscation order.
+
+[S 92/97]
 
 (3) Sections 4(4) and 5 shall not apply to any deceased defendant.
 
@@ -886,7 +866,7 @@ Production orders
 
 ### Production orders
 
-26\.—(1) An authorised officer may, for the purpose of an investigation into drug trafficking, apply to a court for an order under subsection (2) in relation to particular material or material of a particular description.
+26\.—(1) An authorised officer may, for the purpose of an investigation into drug trafficking , apply to a court for an order under subsection (2) in relation to particular material or material of a particular description.
 
 (2) Subject to section 40(10), the court may, if on such an application it is satisfied that the conditions to subsection (4) are fulfilled, make an order that the person who appears to the court to be in possession of the material to which the application relates shall —
 
@@ -900,7 +880,7 @@ within such period as the order may specify.
 
 (4) The conditions referred to in subsection (2) are —
 
-(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking;
+(a) that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking ;
 
 (b) that there are reasonable grounds for believing that the material to which the application relates —
 
@@ -918,7 +898,7 @@ that the material should be produced or that access to it should be given.
 
 (5) Where a court makes an order under subsection (2)(b) in relation to material on any premises, it may, on the same or a subsequent application of an authorised officer, order any person who appears to him to be entitled to grant entry to the premises to allow an authorised officer to enter the premises to obtain access to the material.
 
-(6) Rules of court may provide for —
+(6) Rules of Court may provide for —
 
 (a) the discharge and variation of orders under this section; and
 
@@ -930,7 +910,9 @@ that the material should be produced or that access to it should be given.
 
 (b) an order under subsection (2)(b) shall have effect as an order to give access to the material in a form in which it is visible and legible.
 
-(8) In subsection (7), “data equipment” means any equipment which —
+(8) In subsection (7),
+
+“data equipment” means any equipment which —
 
 (a) automatically processes information;
 
@@ -988,11 +970,11 @@ that the material should be produced or that access to it should be given.
 
 (2) In this section —
 
-“money-changer” means a person who is licensed to conduct money-changing business under the Money-changing and Remittance Businesses Act (Cap. 187);
+“money-changer” means a person who is licensed to conduct money-changing business under the Money-changing and Remittance Businesses Act [Cap. 187];
 
 “remitter” means a person who is licensed to conduct remittance business under the Money-changing and Remittance Businesses Act;
 
-“written law” means the Banking Act (Cap. 19), the Monetary Authority of Singapore Act (Cap. 186), the Finance Companies Act (Cap. 108), the Securities Industry Act (Cap. 289), the Futures Trading Act (Cap. 116) and the Insurance Act (Cap. 142).
+“written law” means the Banking Act [Cap. 19], the Monetary Authority of Singapore Act [Cap. 186], the Finance Companies Act [Cap. 108], the Securities Industry Act, the Futures Trading Act [Cap. 116] and the Insurance Act [Cap. 142].
 
 Division 2 —
 
@@ -1000,7 +982,7 @@ Search powers
 
 ### Authority for search
 
-31\.—(1) An authorised officer may, for the purpose of an investigation into drug trafficking, apply to a court for a warrant under this section in relation to specified premises.
+31\.—(1) An authorised officer may, for the purpose of an investigation into drug trafficking , apply to a court for a warrant under this section in relation to specified premises.
 
 (2) On such application, the court may issue a warrant authorising an authorised officer to enter and search the premises if the court is satisfied —
 
@@ -1058,7 +1040,7 @@ Search powers
 
 and the authorised officer believes, on reasonable grounds, that it is necessary to seize that material or thing in order to prevent its concealment, loss or destruction, the warrant shall be deemed to authorise the authorised officer to seize the material or thing.
 
-(3) Where an authorised officer takes possession of any material under a warrant issued in respect of a foreign offence, the authorised officer may retain the material for a period not exceeding one month pending a written direction from the Attorney-General as to the manner in which the material is to be dealt with (which may include a direction that the material is to be sent to an authority of the foreign country that requested the issue of the warrant).
+(3) Where an authorised officer takes possession of any material under a warrant issued in respect of a foreign offence , the authorised officer may retain the material for a period not exceeding one month pending a written direction from the Attorney-General as to the manner in which the material is to be dealt with (which may include a direction that the material is to be sent to an authority of the foreign country that requested the issue of the warrant).
 
 ### Supplementary provisions to sections 26, 27, 29, 31 and 32
 
@@ -1068,7 +1050,7 @@ and the authorised officer believes, on reasonable grounds, that it is necessary
 
 (b) seized under section 31.
 
-(2) In sections 26, 27, 29, 31 and 32 —
+(2) In sections 26, 27, 29, 31 and 32—
 
 “court” means the High Court and the District Court;
 
@@ -1112,7 +1094,7 @@ are fulfilled.
 
 (b) that the foreign authority has agreed to provide reciprocal assistance in drug-related matters to Singapore;
 
-(c) that the foreign offence which is the subject of the investigation constitutes an offence against the laws of, or of a part of, the state of the foreign authority and the act or omission constituting the offence or the equivalent act or omission would, if it had occurred in Singapore, have constituted an offence under this Act or the Misuse of Drugs Act (Cap. 185);
+(c) that the foreign offence which is the subject of the investigation constitutes an offence against the laws of, or of a part of, the state of the foreign authority and the act or omission constituting the offence or the equivalent act or omission would, if it had occurred in Singapore, have constituted an offence under this Act or the Misuse of Drugs Act [Cap. 185];
 
 (d) that the seriousness of the foreign offence under investigation is of sufficient gravity and the material which is the subject of the application is of sufficient importance to the investigation and whether the material could not reasonably be obtained by other means;
 
@@ -1126,7 +1108,7 @@ are fulfilled.
 
 (4) The conditions referred to in subsection (2)(b) are —
 
-(a) that there is a prima-facie case that a specified person has carried on or has benefited from drug trafficking;
+(a) that there is a prima facie case that a specified person has carried on or has benefited from drug trafficking;
 
 (b) that there are reasonable grounds for believing that the material to which the application relates —
 
@@ -1142,7 +1124,7 @@ are fulfilled.
 
 (5) The conditions referred to in subsection (2)(c) are —
 
-(a) that there is a prima-facie case that a specified person has carried on or has benefited from drug trafficking;
+(a) that there is a prima facie case that a specified person has carried on or has benefited from drug trafficking;
 
 (b) that there are reasonable grounds for suspecting that there is on the premises material relating to the specified person or to drug trafficking which is likely to be of substantial value (whether by itself or together with other material) to the investigation in respect of which the application is made, but that the material cannot at the time of the application be particularised; and
 
@@ -1158,15 +1140,15 @@ are fulfilled.
 
 “drug-related matters” include the subject of mutual assistance in the investigation of drug trafficking offences;
 
-“foreign authority” means a foreign government or an appropriate authority designated by a foreign government exercising any function corresponding to a function of the Minister in charge of this Act or the Misuse of Drugs Act (Cap. 185);
+“foreign authority” means a foreign government or an appropriate authority designated by a foreign government exercising any function corresponding to a function of the Minister in charge of this Act or the Misuse of Drugs Act [Cap. 185];
 
 “foreign country” means any country or territory outside Singapore;
 
 “foreign government” means the government of a foreign country;
 
-“money-changer” means a person who is licensed to conduct money-changing business under the Money-changing and Remittance Businesses Act (Cap. 187);
+“money-changer” means a person who is licensed to conduct money-changing business under the Money-changing and Remittance Businesses Act [Cap. 187];
 
-“remitter” means a person who is licensed to conduct remittance business under the Money-changing and Remittance Businesses Act; and
+“remitter” means a person who is licensed to conduct remittance business under the Money-changing and Remittance Businesses Act;
 
 “Singapore authority” means the Attorney-General of Singapore.
 
@@ -1216,7 +1198,7 @@ but does not include a cheque or payment order;
 
 ### Retention of records by financial institutions
 
-36\.—(1) A financial institution shall, subject to subsection (4) and section 37, retain or retain a copy of, each essential customer generated financial transaction document for the minimum retention period applicable to the document.
+36\.—(1) A financial institution shall, subject to subsection (4) and section 37, retain or retain a copy of each essential customer generated financial transaction document for the minimum retention period applicable to the document.
 
 (2) Subject to subsection (4), a financial institution shall retain, or retain a copy of, each customer generated financial transaction document that is not an essential customer generated financial transaction document for the minimum retention period applicable to the document.
 
@@ -1236,7 +1218,7 @@ for the minimum retention period applicable to the document.
 
 (7) This section does not limit any other obligation of a financial institution to retain documents.
 
-### Register of original documents
+### Register of originals documents
 
 37\.—(1) Where a financial institution is required by law to release an original of an essential customer generated financial transaction document before the end of the minimum retention period applicable to the document, the institution shall retain a complete copy of the document until the period has ended or the original is returned, whichever occurs first.
 
@@ -1302,7 +1284,7 @@ and an order under that subsection may require the production of all such materi
 
 (a) a reasonable opportunity has been given for an officer of the public body to make representations to the Court; and
 
-(b) it appears to the Court that the material is likely to be of substantial value in exercising functions relating to drug trafficking.
+(b) it appears to the Court that the material is likely to be of substantial value in exercising functions relating to drug trafficking .
 
 (8) Material disclosed in pursuance of an order under subsection (7) may, subject to any conditions contained in the order, be further disclosed for the purposes of functions relating to drug trafficking.
 
@@ -1324,15 +1306,15 @@ OFFENCES
 
 ### Assisting another to retain benefits of drug trafficking
 
-41\.—(1) Subject to subsection (3), a person who enters into an arrangement knowing that by the arrangement —
+41\.—(1) Subject to subsection (3), a person who enters intoan arrangement knowing that by the arrangement —
 
 (a) the retention or control by or on behalf of another (referred to in this section as that other person) of that other person’s benefits of drug trafficking is facilitated (whether by concealment, removal from jurisdiction, transfer to nominees or otherwise); or
 
 (b) that other person’s benefits of drug trafficking —
 
-(i) are used to secure that funds are placed at that other person’s disposal; or
+(i) are used to secure funds that are placed at that other person’s disposal; or
 
-(ii) are used for that other person’s benefit to acquire property by way of investment,
+(ii) are used for that other person’s benefit to acquire property by way of investment ,
 
 and knowing that that other person is a person who carries on or has carried on drug trafficking or has benefited from drug trafficking, shall be guilty of an offence.
 
@@ -1372,7 +1354,7 @@ and knowing that that other person is a person who carries on or has carried on 
 
 42\.—(1) Subject to subsection (2), no witness in any civil or criminal proceedings shall be obliged —
 
-(a) to reveal that a disclosure was made under section 41(3);
+(a) to reveal that a disclosure was made under section 41(3) ;
 
 (b) to reveal the identity of any person as the person making the disclosure; or
 
@@ -1386,19 +1368,21 @@ and knowing that that other person is a person who carries on or has carried on 
 
 (3) Subject to subsections (4), (5) and (6), no person shall publish or broadcast any information so as to reveal or suggest —
 
-(a) that a disclosure was made under section 41(3); or
+(a) that a disclosure was made under section 41(3) ; or
 
 (b) the identity of any person as the person making the disclosure.
 
-(4) In subsection (3), “information” —
+(4) In subsection (3),
+
+“information” —
 
 (a) includes a report of any civil or criminal proceedings; and
 
-(b) does not include information published for statistical purposes by, or under the authority of, the Government.
+(b) does not include information published for statistical purposes by, or under the authority of, the Government .
 
 (5) Subsection (3) shall not apply in respect of proceedings —
 
-(a) against the person making the disclosure for an offence under section 41; or
+(a) against the person making the disclosure for an offence under section 41 ; or
 
 (b) for an offence under this section.
 
@@ -1468,9 +1452,9 @@ MISCELLANEOUS
 
 (a) no proceedings are instituted against that person;
 
-(b) proceedings are instituted against that person but do not result in his conviction for any drug trafficking offence; or
+(b) proceedings are instituted against that person but do not result in his conviction for any drug trafficking offence ; or
 
-(c) proceedings are instituted against that person and he is convicted of one or more drug trafficking offences, but —
+(c) proceedings are instituted against that person and he is convicted of one or more drug trafficking offences , but —
 
 (i) the conviction or convictions concerned are quashed; or
 
@@ -1506,7 +1490,7 @@ the Court may, on application by a person who held the property, order compensat
 
 ### Standard of proof
 
-46\.—(1) Any question of fact to be decided by a court in proceedings under this Act shall be decided on the balance of probabilities.
+46\.—(1) Any question of fact to be decided by a court in proceedings under this Act shall be decided on the balance of probabilities
 
 (2) Subsection (1) shall not apply in relation to any question of fact that is for the prosecution to prove in any proceedings for an offence under this Act or any regulations made thereunder.
 
@@ -1542,7 +1526,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
 (b) make —
 
-(i) such provision in connection with the taking of action in the designated country with a view to satisfying a confiscation order; and
+(i) such provision in connection with the taking of action in the designated country with a view to satisfying a confiscation order;
 
 (ii) such provision as to evidence or proof of any matter for the purposes of this section and section 49; and
 
@@ -1570,7 +1554,9 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
 (c) it is of the opinion that enforcing the order in Singapore would not be contrary to the interests of justice.
 
-(2) In subsection (1), “appeal” includes —
+(2) In subsection (1),
+
+“appeal” includes —
 
 (a) any proceedings by way of discharging or setting aside a judgment; and
 
@@ -1580,17 +1566,17 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
 ### Evidence of corresponding law
 
-50\. Section 15 of the Misuse of Drugs Act shall apply with the necessary modifications in relation to proceedings under this Act as it applies in relation to proceedings for an offence under that Act (Cap. 185).
+50\. Section 15 of the Misuse of Drugs Act [Cap. 185] shall apply with the necessary modifications in relation to proceedings under this Act as it applies in relation to proceedings for an offence under that Act.
 
-### Power of arrest and investigations
+### Powers of arrest and investigations
 
 51\.—(1) An authorised officer or a customs officer may arrest without warrant any person whom he reasonably believes has committed an offence under this Act or the regulations made thereunder.
 
-(2) An authorised officer who is not a police officer may exercise all or any of the powers in relation to investigations into a seizable offence conferred on a police officer by the Criminal Procedure Code (Cap. 68) in any case relating to the commission of an offence under this Act or the regulations made thereunder or in any case where a seizable offence is disclosed under any written law in the course of an investigation under this Act.
+(2) An authorised officer who is not a police officer may exercise all or any of the powers in relation to investigations into a seizable offence conferred on a police officer by the Criminal Procedure Code [Cap. 68] in any case relating to the commission of an offence under this Act or the regulations made thereunder or in any case where a seizable offence is disclosed under any written law in the course of an investigation under this Act.
 
-(3) An authorised officer who is not a police officer may be authorised by the Public Prosecutor in writing to exercise all or any of the powers in relation to investigations conferred on a police officer by the Criminal Procedure Code (Cap. 68) in any case where a non-seizable offence is disclosed under any written law in the course of investigations under this Act.
+(3) An authorised officer who is not a police officer may be authorised by the Public Prosecutor in writing to exercise all or any of the powers in relation to investigations conferred on a police officer by the Criminal Procedure Code in any case where a non-seizable offence is disclosed under any written law in the course of investigations under this Act.
 
-(4) In this section, “seizable offence” and “non-seizable offence” have the same meanings as in section 2 of the Criminal Procedure Code.
+(4) In this section,“seizable offence” and “non-seizable offence” have the same meanings as in section 2 of the Criminal Procedure Code.
 
 ### Amendment of Schedule
 
@@ -1622,7 +1608,7 @@ shall be deemed, for the purposes of this Act, to have been engaged in by the fi
 
 ### Jurisdiction of Magistrate’s Court and District Court
 
-58\.—(1) A Magistrate’s Court or a District Court shall have jurisdiction to hear and determine any offence under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of an offence under this Act.
+58\.—(1) A Magistrate’s Court or a District Court shall have jurisdiction to hear and determine any offence under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code, shall have power to impose the full penalty or punishment in respect of an offence under this Act.
 
 (2) Nothing in subsection (1) shall be construed to confer any jurisdiction or power on a Magistrate’s Court or a District Court where it is expressly provided in this Act that the High Court shall have such jurisdiction or power.
 
@@ -1638,27 +1624,56 @@ Drug Trafficking Offences
 
 Offence
 
-Description*
+Description1
+
+1Note: The short description of offences in this Schedule is for ease of reference only.
+
+1.
 
 Section 5 of the Misuse of Drugs Act (Chapter 185)
 
 Trafficking in a controlled drug.
 
+2.
+
 Section 6 of the Misuse of Drugs Act
 
 Manufacture of a controlled drug.
+
+3.
 
 Section 7 of the Misuse of Drugs Act
 
 Importation and exportation of a controlled drug.
 
+4.
+
 Section 10 of the Misuse of Drugs Act
 
 Cultivation of cannabis, opium and coca plants.
 
+5.
+
 Sections 41 and 43 of this Act
 
-Money laundering
+Money laundering.
 
-*Note: The short description of offences in this Schedule is for ease of reference only.
+## LEGISLATIVE HISTORY
 
+Drug Trafficking (Confiscation of Benefits) Act
+
+(CHAPTER 84A)
+
+This Legislative History is provided for the convenience of users of the Drug Trafficking (Confiscation of Benefits) Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 29 of 1992—Drug Trafficking (Confiscation of Benefits) Act 1992**|
+||Date of First Reading|27 February 1992|
+|||(Bill No. 17/92 published on 28 February 1992)|
+||Date of Second Reading|20 March 1992|
+||Referred to Select Committee|Parl 6 of 1992 presented to Parliament on 1 September 1992|
+||Date of Third Reading|14 September 1992|
+||Date of commencement|4 December 1992 (Publication date)|
+|2.|**1993 Revised Edition—Drug Trafficking (Confiscation of Benefits) Act (Chapter 84A)**|
+||Date of operation|15 March 1993|
