@@ -274,9 +274,9 @@ for anything which is in good faith done or intended to be done in the execution
 
 [27/2002 wef 01/10/2002]
 
-(4) The Board may, from time to time, invest any of the funds of the Association not immediately required for carrying out the objects of the Association in such securities which trustees may by any written law for the time being in force be authorised to invest trust moneys in.
+(4) The Board may invest the funds of the Association in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[12
+[45/2004 wef 15/12/2004]
 
 ### Issue of shares, etc.
 
@@ -699,6 +699,12 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|1 October 2002|
 |50.|**G.N. No. S 680/2002—People’s Association Act (Amendment of First Schedule) Notification 2002**|
 ||Date of commencement|30 December 2002|
+|51.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
 ## COMPARATIVE TABLE
 
 People’s Association Act
