@@ -132,7 +132,9 @@ PRELIMINARY
 
 (2) In this Act, except in so far as the context otherwise requires or it is otherwise expressly provided —
 
-“civil proceedings” means proceedings of whatever kind of a civil nature before a court and includes proceedings for the recovery of fines and penalties and an application at any stage of a proceeding, but does not include such proceedings as would in England be brought on the Crown side of the Queen’s Bench Division;
+“civil proceedings” means proceedings of whatever kind of a civil nature before a court and includes proceedings for judicial review and recovery of fines and penalties and an application at any stage of a proceeding;
+
+[7/97 wef 01/10/1997]
 
 “law officer” means the Attorney-General and the Solicitor-General;
 
@@ -270,7 +272,7 @@ shall be enforceable by proceedings against the Government for that purpose in a
 
 (B) on any journey necessary to enable him to report for duty as such or to return home after such duty; and
 
-[45/1996 wef 28/12/1996]
+[Subst. by Act 45/96 wef 28/12/1996 vide S 545/96]
 
 (b) the Minister responsible for finance certifies that his suffering that thing has been or will be treated as attributable to service for the purposes of entitlement to an award under any written law relating to the disablement or death of members of the force of which he is a member:
 
@@ -290,7 +292,7 @@ nor shall any act or omission of an officer of the Government subject him to lia
 
 (aa) that a person was or was not on any particular occasion either on any journey necessary to enable him to report for duty as such or to return home after such duty; or
 
-[45/1996 wef 28/12/1996]
+[Act 45/96 wef 28/12/1996]
 
 (b) that at any particular time any land, premises, ship, aircraft, vehicle, equipment or supplies was or was not, or were or were not, used for the purposes of the forces,
 
@@ -589,3 +591,8 @@ This Legislative History is provided for the convenience of users of the Governm
 |||(Bill No. 35/1996 published on 3 December 1996)|
 ||Date of Second and Third Readings|11 December 1996|
 ||Date of commencement|28 December 1996|
+|6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997|
