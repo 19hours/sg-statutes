@@ -106,6 +106,25 @@ Inland Revenue Authority of Singapore Act
 
 (Chapter 138A)
 
+5A. Intellectual Property
+
+
+
+
+Office of Singapore
+
+Intellectual Property
+
+
+
+
+Office of Singapore Act 2001
+
+
+
+
+(Act 3 of 2001)
+
 6. Jurong Town Corporation
 
 Jurong Town Corporation Act
@@ -196,6 +215,15 @@ Urban Redevelopment Authority Act
 
 (Chapter 340)
 
+16. Central Provident Fund Board
+
+Central Provident Fund Act
+
+
+
+
+(Chapter 36)
+
 17. Defence Science and Technology Agency
 
 Defence Science and Technology Agency Act 2000
@@ -222,6 +250,8 @@ Singapore Totalisator Board Act
 
 
 (Chapter 305A)
+
+[S 220/2001 wef 01/04/2001]
 
 [7/96; 41/99; S 414/93; S344/95; S405/96; S 470/97; S 518/97; S366/98]
 
@@ -277,6 +307,8 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of operation|1 July 2000|
 |14.|**G. N. No. S 588/2000—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2000**|
 ||Date of commencement|1 January 2001|
+|15.|**G. N. No. S 220/2001—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2001**|
+||Date of commencement|1 April 2001|
 ## COMPARATIVE TABLE
 
 Statutory Corporations (Contributions to Consolidated Fund) Act
