@@ -160,6 +160,14 @@ APPLICATION OF PENSION FUND
 
 9\. The Minister may by warrant under his hand authorise the transfer to the Consolidated Fund any moneys in the Pension Fund which, in the opinion of the Minister, are not required to meet the liabilities of the Pension Fund.
 
+(1) The Minister may by warrant under his hand authorise the transfer to the Consolidated Fund any moneys in the Pension Fund which, in the opinion of the Minister, are not required to meet the liabilities of the Pension Fund.
+
+[Act 12/98]
+
+(2) The Minister may by warrant under his hand authorise the transfer to the SAVER Fundestablished under section 205B of the SingaporeArmed Forces Act (Cap. 295) such moneys in the Pension Fund as the Minister may determine as the value of that part of the Pension Fund relating to all those servicemen in the Singapore Armed Forces who opted in favour of joining the SAVER Plan established under section 205A of the Singapore Armed Forces Act.
+
+[Act 12/98]
+
 ### Withdrawals
 
 10\.—(1) No moneys shall be withdrawn from the Pension Fund unless they are charged on the Fund or authorised to be withdrawn under this Act.
@@ -277,3 +285,9 @@ This Legislative History is provided for the convenience of users of the Pension
 ||Date of commencement|1 April 1995|
 |2.|**1996 Revised Edition—Pension Fund Act**|
 ||Date of operation|30 April 1996|
+|3.|**Act 12 of 1998—Singapore Armed Forces (Amendment) Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 February 1998|
+|||(Bill No. 10/1998 published on 19 February 1998)|
+||Date of Second and Third Readings|20 March 1998|
+||Date of commencement|1 April 1998|
