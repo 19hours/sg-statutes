@@ -94,6 +94,8 @@
 
 - [37 Goods subject to a warehousing regime](#Goods-subject-to-a-warehousing-regime)
 
+- [37A Treatment or processing of goods for and to a person belonging in a country other than Singapore](#Treatment-or-processing-of-goods-for-and-to-a-person-belonging-in-a-country-other-than-Singapore)
+
 - [38 Customers to account for tax on certain supplies](#Customers-to-account-for-tax-on-certain-supplies)
 
 - [39 Supplies spanning change of rate, etc.](#Supplies-spanning-change-of-rate-etc)
@@ -494,7 +496,7 @@ the resulting times or dates being in every case earlier than would otherwise ap
 
 (c) there is a supply of services by virtue of paragraph 5(3) of the Second Schedule; or
 
-(d) there is a supply to which section 38 applies.
+(d) there is a supply to which sections 37A and 38 apply.
 
 (9) For any case referred to in subsection (8), the regulations may provide for goods or services to be treated as separately and successively supplied at prescribed times or intervals.
 
@@ -660,7 +662,7 @@ being (in either case) goods or services used or to be used for the purpose of a
 
 (c) such other supplies outside Singapore as the Minister may by regulations specify for the purposes of this subsection;
 
-(d) supplies which section 37 providesare to be disregarded for the purposes of this Act and which would otherwise be taxable supplies.
+(d) supplies which section 37 or regulations made under section 37A provide are to be disregarded for the purposes of this Act and which would otherwise be taxable supplies.
 
 (3) Regulations may provide for treating some or all supplies of goods or services by any person as taxable supplies —
 
@@ -1127,6 +1129,14 @@ and may contain such incidental and supplementary provisions as appear to the Mi
 (b) goods and services tax on the importation of the goods into Singapore.
 
 (7) A reference in this section to goods being subject to a warehousing regime shall be a reference to goods being kept in a warehouse or within the free trade zone or being transported between warehouses without the payment of any duty or tax; and a reference to the removal of goods from a warehousing regime shall be construed accordingly.
+
+### Treatment or processing of goods for and to a person belonging in a country other than Singapore
+
+37A\.—(1) The Minister may by regulations make provisions for a supply, made by a taxable person approved by the Comptroller, which comprises the treatment or processing of goods for and to a person who belongs in a country other than Singapore to be disregarded for the purposes of this Act subject to such conditions or restrictions as may be prescribed or as the Comptroller may impose for the protection of the revenue.
+
+(2) Regulations made under subsection (1) may require that another taxable person, who receives such treated or processed goods from the taxable person referred to in subsection (1), shall account for and pay the tax as if the recipient had himself supplied the goods in Singapore in the course or furtherance of his business, and as if that supply were a taxable supply.
+
+[26/99 wef 20/08/1999]
 
 ### Customers to account for tax on certain supplies
 
@@ -2864,3 +2874,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|16.8.96|
 |6.|**1997 Revised Edition—Goods and Services Tax Act**|
 ||Date of operation|30 May 1997|
+|7.|**Act 26 of 1999—Goods and Services Tax (Amendment) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 23/1999 published on 20 August 1999)|
+||Date of Second and Third Readings|4 August 1999|
+||Date of commencement|20 August 1999|
