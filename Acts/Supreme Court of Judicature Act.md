@@ -1460,3 +1460,8 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 38/95)|
 ||Date of Second and Third Readings|5 December 1995|
 ||Date of commencement|26 January 1996|
+|12.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (item (11) of the First Schedule — amendment of Supreme Court of Judicature Act)|
