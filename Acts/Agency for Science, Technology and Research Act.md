@@ -1,6 +1,6 @@
 **Agency for Science, Technology and Research Act**
 
-**(CHAPTER 201A)**
+**(CHAPTER 5A)**
 
 **Table of Contents**
 
@@ -10,63 +10,65 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Establishment of the Agency for Science, Technology and Research](#Establishment-of-the-Agency-for-Science-Technology-and-Research)
+- [3 Establishment of Agency for Science, Technology and Research](#Establishment-of-Agency-for-Science-Technology-and-Research)
 
-- [3A Common seal](#Common-seal)
+- [4 Common seal](#Common-seal)
 
-- [4 Constitution of Agency](#Constitution-of-Agency)
+- [5 Constitution of Agency](#Constitution-of-Agency)
 
-- [5 Functions of Agency](#Functions-of-Agency)
+- [6 Functions of Agency](#Functions-of-Agency)
 
-- [6 Powers of Agency](#Powers-of-Agency)
+- [7 Powers of Agency](#Powers-of-Agency)
 
-- [7 Grants](#Grants)
+- [8 Grants-in-aid](#Grants-in-aid)
 
-- [8 Power to borrow](#Power-to-borrow)
+- [9 Power to borrow](#Power-to-borrow)
 
-- [8A Issue of shares, etc.](#Issue-of-shares-etc)
+- [10 Issue of shares, etc.](#Issue-of-shares-etc)
 
-- [9 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
+- [11 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
 
-- [10 Powers of investment](#Powers-of-investment)
+- [12 Powers of investment](#Powers-of-investment)
 
-- [11 Annual report](#Annual-report)
+- [13 Annual report](#Annual-report)
 
-- [12 Accounts](#Accounts)
+- [14 Accounts](#Accounts)
 
-- [13 Directions by Minister](#Directions-by-Minister)
+- [15 Directions by Minister](#Directions-by-Minister)
 
-- [14 Appointment of chief executive officer and other employees](#Appointment-of-chief-executive-officer-and-other-employees)
+- [16 Appointment of chief executive officer and other employees](#Appointment-of-chief-executive-officer-and-other-employees)
 
-- [15 Protection from personal liability](#Protection-from-personal-liability)
+- [17 Protection from personal liability](#Protection-from-personal-liability)
 
-- [16 Public servants](#Public-servants)
+- [18 Public servants](#Public-servants)
 
-- [17 Preservation of secrecy](#Preservation-of-secrecy)
+- [19 Preservation of secrecy](#Preservation-of-secrecy)
 
-- [18 (Repealed)](#Repealed)
+- [20 Symbol or representation of Agency](#Symbol-or-representation-of-Agency)
 
-- [19 Symbol of Agency](#Symbol-of-Agency)
+- [21 Saving and transitional provisions](#Saving-and-transitional-provisions)
 
-[**FIRST SCHEDULE Constitution and proceedings of the aAgency**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-the-aAgency)
+[**FIRST SCHEDULE Constitution and proceedings of Agency**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Agency)
 
 [**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
-[**THIRD SCHEDULE**](#THIRD-SCHEDULE)
-
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Agency for Science, Technology and Research Act
 
-(CHAPTER 201A)
+(CHAPTER 5A)
 
 (Original Enactment: Act 24 of 1990)
 
-REVISED EDITION 1991
+REVISED EDITION 2002
 
-(1st March 1991)
+(31st December 2002)
 
 An Act to establish the Agency for Science, Technology and Research and for matters connected therewith.
+
+[26/2002]
 
 [11th January 1991]
 
@@ -74,31 +76,27 @@ An Act to establish the Agency for Science, Technology and Research and for matt
 
 1\. This Act may be cited as the Agency for Science, Technology and Research Act.
 
+[26/2002]
+
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
 “Agency” means the Agency for Science, Technology and Research established under section 3;
 
-[26/2002 wef 01/01/2002]
+“chief executive officer” means the chief executive officer appointed under section 16 and includes any temporary chief executive of the Agency;
 
 “commercial application”, in relation to any knowledge or technology, means the application, utilization or exploitation of such knowledge or technology in the manufacture, production, sale, distribution or provision of goods or services in the course of any trade, business, enterprise or profession, and includes any business or commercial activity that is necessary for or related to the promotion, development or growth of any such trade, business, enterprise or profession;
 
-[18/2000 wef 01/06/2000]
-
 “financial assistance” includes assistance by way of grant, loan, loan guarantee, the purchase or guarantee of bonds, debentures, notes or other debt obligations or the purchase or acquisition of any stock, shares or other equity securities;
 
-[18/2000 wef 01/06/2000]
+“member” means a member of the Agency and includes the Chairman.
 
-“member” means a member of the Agency and includes the Chairman;
+[18/2000; 26/2002]
 
-“chief executive officer” means the chief executive officer appointed under section 14 and includes any temporary chief executive of the Agency.
+### Establishment of Agency for Science, Technology and Research
 
-### Establishment of the Agency for Science, Technology and Research
-
-3\. There shall be established a body to be known as the National Science and Technology BoardAgency for Science, Technology and Research which shall be a body corporate with perpetual succession and a common seal and shall, by that name, be capable of —
-
-(1) There shall be established a body to be known as the Agency for Science, Technology and Research which shall be a body corporate with perpetual succession and a common seal and shall, by that name, be capable of —
+3\.—(1) There is hereby established a body to be known as the Agency for Science, Technology and Research which shall be a body corporate with perpetual succession and a common seal and shall, by that name, be capable of —
 
 (a) suing and being sued;
 
@@ -106,15 +104,17 @@ An Act to establish the Agency for Science, Technology and Research and for matt
 
 (c) doing and suffering such other acts or things as bodies corporate may lawfully do and suffer.
 
-[26/2002 wef 01/01/2002]
+[26/2002]
 
 (2) The Agency may perform any of its functions or carry out any of its duties under the business name of A*STAR, or such other business name as the Minister may, from time to time by notification in theGazette, specify.
 
-[26/2002 wef 01/01/2002]
+[26/2002]
 
 ### Common seal
 
-3A\.—(1) The Agency shall have a common seal and such seal may from time to time be broken, altered or made anew as the Agency thinks fit.
+4\.—(1) The Agency shall have a common seal and such seal may from time to time be broken, altered or made anew as the Agency thinks fit.
+
+[26/2002]
 
 (2) All deeds and other documents requiring the seal of the Agency shall be sealed with the common seal of the Agency in the presence of —
 
@@ -124,87 +124,101 @@ An Act to establish the Agency for Science, Technology and Research and for matt
 
 and shall be signed by these persons.
 
+[26/2002]
+
 (3) Such signing shall be sufficient evidence that the common seal of the Agency has been duly and properly affixed and that the seal is the lawful common seal of the Agency.
+
+[26/2002]
 
 (4) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Agency affixed to any document and shall presume that it was duly affixed.
 
+[26/2002]
+
 (5) The Agency may, by resolution or otherwise in writing, appoint an employee of the Agency or any other agent, either generally or specially, to execute or sign on behalf of the Agency any agreement or other instrument not under seal in relation to any matter coming within the powers of the Agency.
+
+[26/2002]
 
 (6) Section 12 of the Registration of Deeds Act (Cap. 269) shall not apply to any instrument purporting to have been executed under subsection (2).
 
-[26/2002 wef 01/10/2002]
+[3A
+
+[26/2002]
 
 ### Constitution of Agency
 
-4\.—(1) The Agency shall consist of —
+5\.—(1) The Agency shall consist of —
 
 (a) a Chairman; and
 
 (b) not less than 8 and not more than 20 other members.
 
-[18/2000 wef 01/06/2000]
+[18/2000; 26/2002]
 
 (2) The First Schedule shall apply to the Agency, its members and proceedings.
 
+[4
+
+[26/2002]
+
 ### Functions of Agency
 
-5\.—(1) The functions of the Agency are —
+6\.—(1) The functions of the Agency are —
 
 (a) to initiate, promote, stimulate, encourage, facilitate and assist in the development of an environment that is conducive —
 
-(i) to the creation and development of world class research and development capabilities in science (including biomedicine), engineering and technology in Singapore;
+(i) to the creation and development of world class research and development capabilities in science (including biomedicine ), engineering and technology in Singapore;
 
 (ii) to the development and nurture of scientific talent and technical capability in scientific and technological knowledge, research and development that is desirable to support the private sector and public sector and to the creation of intellectual capital in Singapore; and
 
 (iii) to the commercial application of scientific knowledge or technology in Singapore;
 
-(b) to support, direct, stimulate and undertake research and development in the areas of science (including biomedicine), engineering and technology;
+(b) to support, direct, stimulate and undertake research and development in the areas of science (including biomedicine ), engineering and technology;
 
 (c) to stimulate, encourage, facilitate, co-ordinate and direct scientific and technological research and development by the Government, educational institutions and research communities within and outside Singapore, and to facilitate co-operation, communication, collaboration and exchange of ideas and knowledge between them;
 
-(d) to provide financial assistance for research and development in the areas of science (including biomedicine), engineering and technology;
+(d) to provide financial assistance for research and development in the areas of science (including biomedicine ), engineering and technology;
 
-(e) to promote manpower training and development in the areas of science (including biomedicine), engineering and technology;
+(e) to promote manpower training and development in the areas of science (including biomedicine ), engineering and technology;
 
-(f) to provide advice and guidance to the Government in the formulation of its policies and laws on all aspects of science (including biomedicine), engineering and technology, and on any matter relating to or affecting the commercial application of scientific knowledge or technology;
+(f) to provide advice and guidance to the Government in the formulation of its policies and laws on all aspects of science (including biomedicine ), engineering and technology, and on any matter relating to or affecting the commercial application of scientific knowledge or technology;
 
-(g) to establish, develop and manage public institutes and research institutes in the areas of science (including biomedicine), engineering and technology;
+(g) to establish, develop and manage public institutes and research institutes in the areas of science (including biomedicine ), engineering and technology;
 
-(h) to undertake the promotion of science (including biomedicine), engineering and technology among youths and to create, foster and encourage public awareness and understanding of the importance of science and technology in Singapore;
+(h) to undertake the promotion of science (including biomedicine ), engineering and technology among youths and to create, foster and encourage public awareness and understanding of the importance of science and technology in Singapore;
 
 (i) to create, develop, apply for, acquire and hold intellectual property and rights and enter into arrangements for the commercial application of any such intellectual property and rights on such terms as to royalties or otherwise as the Agency thinks fit; and
 
-(j) to represent Singapore internationally in respect of matters relating to science (including biomedicine), engineering and technology.
+(j) to represent Singapore internationally in respect of matters relating to science (including biomedicine ), engineering and technology.
 
-[26/2002 wef 01/01/2002]
+[26/2002]
 
 (2) In carrying out its functions, the Agency shall —
 
 (a) have regard to the needs of Singapore and its resources; and
 
-(b) promote developments, commercial applications and innovation in areas of science (including biomedicine), engineering and technology that increase the economic growth, productivity and employment opportunities in Singapore, that enjoy good export market prospects and that will enhance Singapore’s international competitiveness.
+(b) promote developments, commercial applications and innovation in areas of science (including biomedicine ), engineering and technology that increase the economic growth, productivity and employment opportunities in Singapore, that enjoy good export market prospects and that will enhance Singapore’s international competitiveness.
+
+[18/2000; 26/2002]
 
 (3) In addition to the functions specified in subsection (1), the Agency may undertake such other functions as the Minister may assign to the Agency and in so doing, the Agency shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Agency in respect of such additional functions.
 
+[18/2000; 26/2002]
+
 (4) Nothing in this section shall be construed as imposing on the Agency, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
 
-[18/2000 wef 01/06/2000]
+[5
+
+[18/2000; 26/2002]
 
 ### Powers of Agency
 
-6\.—(1) The Agency shall have power to do all things that are necessary or convenient to be done for or in connection with the performance of its functions and, in particular, may —
+7\.—(1) The Agency shall have power to do all things that are necessary or convenient to be done for or in connection with the performance of its functions and, in particular, may —
 
 (a) appoint committees or councils consisting of persons who may or may not be members of the Agency and delegate to any such committee or council such of its powers and functions which, in the opinion of the Agency, would be better regulated and managed by means of such committees or councils, except the power of delegation conferred by this paragraph;
 
-[26/2002 wef 01/01/2002]
-
 (b) form or participate in the formation of any company or enter into any joint venture or partnership for the purposes of this Act;
 
-[26/2002 wef 01/01/2002]
-
-(c) establish institutes for the conduct of research and development in the areas of science (including biomedicine), engineering and technology;
-
-[26/2002 wef 01/01/2002]
+(c) establish institutes for the conduct of research and development in the areas of science (including biomedicine ), engineering and technology;
 
 (d) provide financial assistance (including scholarships) —
 
@@ -212,91 +226,119 @@ and shall be signed by these persons.
 
 (ii) to any person in the public or private sector for scientific and technological research and development, or for any commercial application of scientific knowledge or technology, in areas defined by the Agency;
 
-[26/2002 wef 01/01/2002]
-
 (e) provide or develop incubator facilities for new enterprises, and business support facilities to growing enterprises, which are based on or involved in the commercial application of scientific knowledge or technology developed by any public institute, research institute, educational institution, hospital or other speciality centre, whether or not funded by the Agency;
-
-[26/2002 wef 01/01/2002]
 
 (f) receive, acquire, develop or hold, or sell, mortgage or otherwise dispose of any property, movable or immovable, or any interest therein;
 
-[18/2000 wef 01/06/2000]
-
 (g) establish and maintain offices within and outside Singapore;
-
-[18/2000 wef 01/06/2000]
 
 (h) promote or undertake publicity in any form;
 
-[18/2000 wef 01/06/2000]
-
 (i) publish, produce or sponsor the publication or production of periodicals, booklets, films and other materials in written, electronic or other media;
-
-[18/2000 wef 01/06/2000]
 
 (j) receive donations and contributions from any source and raise funds by all lawful means;
 
-[18/2000 wef 01/06/2000]
+(k) with the approval of the Minister, establish any scheme for the payment of gratuities, pensions, provident fund or other superannuation benefits to such employees or classes of employees of the Agency as it may determine on their death in or retirement from the service of the Agency or on their otherwise leaving the service of the Agency; and
 
-(ja) with the approval of the Minister, establish any scheme for the payment of gratuities, pensions, provident fund or other superannuation benefits to such employees or classes of employees of the Agency as it may determine on their death in or retirement from the service of the Agency or on their otherwise leaving the service of the Agency; and
+(l) generally do anything incidental to or consequential upon the exercise of any of its powers or the discharge of its functions under this Act.
 
-[26/2002 wef 01/10/2002]
-
-(k) generally do anything incidental to or consequential upon the exercise of any of its powers or the discharge of its functions under this Act.
-
-[18/2000 wef 01/06/2000]
+[18/2000; 26/2002]
 
 (2) The Agency may, with the approval of the Minister, make rules to regulate the proceedings of the Agency and generally to carry out the purposes of this Act.
 
+[26/2002]
+
 (3) The Agency may, in addition to the powers vested in it by subsection (1), exercise such other powers as the Minister may authorise the Agency in writing to exercise.
 
-### Grants
+[6
 
-7\. For the purpose of enabling the Agency to carry out its functions under this Act, the Minister may from time to time make grants-in-aid to the Agency of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
+[26/2002]
+
+### Grants-in-aid
+
+8\. For the purpose of enabling the Agency to carry out its functions under this Act, the Minister may from time to time make grants-in-aid to the Agency of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
+
+[7
+
+[26/2002]
 
 ### Power to borrow
 
-8\. The Agency may from time to time for the purposes of this Act raise loans from the Government or, with the consent of the Minister, from any other source.
+9\. The Agency may from time to time for the purposes of this Act raise loans from the Government or, with the consent of the Minister, from any other source.
+
+[8
+
+[26/2002]
 
 ### Issue of shares, etc.
 
-8A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Agency under this Act, or of any capital injection or other investment by the Government in the Agency in accordance with any written law, the Agency shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+10\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Agency under this Act, or of any capital injection or other investment by the Government in the Agency in accordance with any written law, the Agency shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[8A
+
+[5/2002 wef 29/07/2002]
 
 ### Bank accounts and application of revenue
 
-9\.—(1) The Agency shall open and maintain an account or accounts with such bank or banks as the Agency thinks fit; and every such account shall be operated upon as far as practicable by cheque signed by such person or persons as may from time to time be authorised in that behalf by the Agency.
+11\.—(1) The Agency shall open and maintain an account or accounts with such bank or banks as the Agency thinks fit.
 
-(2) The moneys of the Agency shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Agency and in making any payments that the Agency is authorised or required to make.
+[26/2002]
+
+(2) Every such account shall be operated upon as far as practicable by cheque signed by such person or persons as may from time to time be authorised in that behalf by the Agency.
+
+[26/2002]
+
+(3) The moneys of the Agency shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Agency and in making any payments that the Agency is authorised or required to make.
+
+[9
+
+[26/2002]
 
 ### Powers of investment
 
-10\. The Agency may
+12\. The Agency may
 
 (a) invest its moneys in such securities and other investments as it thinks fit, including the deposit of moneys with financial institutions and other business or professional bodies; and
 
 (b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
 
-[26/2002 wef 01/10/2002]
+[10
+
+[26/2002]
 
 ### Annual report
 
-11\. The Agency shall, as soon as practicable after the end of each financial year, submit to the Minister an annual report on the activities of the Agency during that financial year and the Minister shall cause a copy of every such report to be presented to Parliament.
+13\.—(1) The Agency shall, as soon as practicable after the end of each financial year, submit to the Minister an annual report on the activities of the Agency during that financial year.
+
+[26/2002]
+
+(2) The Minister shall cause a copy of every such report to be presented to Parliament.
+
+[11
 
 ### Accounts
 
-12\. The financial provisions set out in the Second Schedule shall apply to the Agency.
+14\. The financial provisions set out in the Second Schedule shall apply to the Agency.
+
+[12
+
+[26/2002]
 
 ### Directions by Minister
 
-13\.—(1) The Minister may give to the Agency such directions, not inconsistent with the provisions of this Act, as to the exercise and performance by the Agency of its functions under this Act, and the Agency shall give effect to such directions.
+15\.—(1) The Minister may give to the Agency such directions, not inconsistent with the provisions of this Act, as to the exercise and performance by the Agency of its functions under this Act, and the Agency shall give effect to such directions.
+
+[26/2002]
 
 (2) The annual report for any year shall set out any directions given by the Minister under subsection (1) and shall contain a report of any action taken by the Agency during that year pursuant to the directions.
 
+[13
+
+[26/2002]
+
 ### Appointment of chief executive officer and other employees
 
-14\.—(1) The Agency shall, with the approval of the Minister, appoint a chief executive officer on such terms and conditions as it may determine.
+16\.—(1) The Agency shall, with the approval of the Minister, appoint a chief executive officer on such terms and conditions as it may determine.
 
 (2) The chief executive officer shall —
 
@@ -306,37 +348,83 @@ and shall be signed by these persons.
 
 (c) not be removed from office without the consent of the Minister.
 
+[26/2002]
+
 (3) If the chief executive officer is temporarily absent from Singapore, or is temporarily unable to perform his duties by reason of illness or otherwise, another person may be appointed by the Agency to act in the place of the chief executive officer during any such period of absence from duty.
+
+[26/2002]
 
 (4) The Agency may from time to time appoint such other officers, employees and agents as it thinks fit for the effective performance of its functions on such terms and conditions as it may determine.
 
+[14
+
+[26/2002]
+
 ### Protection from personal liability
 
-15\. No suit or other legal proceedings shall lie personally against any member, officer or employee of the Agency or other person acting under the direction of the Agency for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+17\. No suit or other legal proceedings shall lie personally against any member, officer or employee of the Agency or other person acting under the direction of the Agency for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+
+[15
+
+[26/2002]
 
 ### Public servants
 
-16\. All members, officers and employees of the Agency shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
+18\. All members, officers and employees of the Agency shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224)
+
+[16
+
+[26/2002]
 
 ### Preservation of secrecy
 
-17\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no member, officer, employee or agent of the Agency shall disclose any information relating to the affairs of any person which has been obtained by the member, officer, employee or agent in the performance of his duties or the exercise of his functions.
+19\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no member, officer, employee or agent of the Agency shall disclose any information relating to the affairs of any person which has been obtained by the member, officer, employee or agent in the performance of his duties or the exercise of his functions.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
+[26/2002]
 
-18\. [Deleted by Act 26/2002 wef 01/10/2002]
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-### Symbol of Agency
+[17
 
-19\.—(1) The Agency shall have the exclusive right to the use of such symbol or representation as it may select or devise and thereafter display or exhibit in connection with its activities or affairs.
+### Symbol or representation of Agency
+
+20\.—(1) The Agency shall have the exclusive right to the use of such symbol or representation as it may select or devise and thereafter display or exhibit such symbol or representation in connection with its activities or affairs.
+
+[26/2002]
 
 (2) Any person who uses a symbol or representation identical with that of the Agency, or which so resembles the Agency’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+[19
+
+[26/2002]
+
+### Saving and transitional provisions
+
+21\.—(1) The change of the name of the National Science and Technology Board to the Agency for Science, Technology and Research under the National Science and Technology Board (Amendment) Act 2002 (Act 26 of 2002) shall not —
+
+(a) operate to create a new legal entity;
+
+(b) prejudice or affect the identity of the body corporate constituted by the Board or its continuity as a body corporate;
+
+(c) affect the exercise of any right, or the enforcement of any obligation by or against the Board, or any other person; or
+
+(d) render defective any legal proceedings by or against the Board,
+
+and any legal proceedings that might have been continued or started by or against it by its former name may be continued or started by or against it by its new name “Agency for Science, Technology and Research”.
+
+[26/2002]
+
+(2) Any reference in any written law or document to the National Science and Technology Board and to the National Science and Technology Board Act shall be read as a reference to the Agency for Science, Technology and Research and the Agency for Science, Technology and Research Act, respectively.
+
+[26/2002]
+
+(3) Any contract, arrangement or other transaction purporting to be entered into by the Agency for Science, Technology and Research, or by any person on behalf of the Agency, on or after 1st January 2002 but prior to the commencement of the National Science and Technology Board (Amendment) Act 2002 (Act 26 of 2002) shall bind the Agency as if the Agency had been a party to the contract, arrangement or transaction, as the case may be.
+
 FIRST SCHEDULE
 
-Section 4.
+Section 5.
 
-Constitution and proceedings of the aAgency
+Constitution and proceedings of Agency
 
 Appointment of Chairman and other members
 
@@ -346,11 +434,11 @@ Appointment of Chairman and other members
 
 Tenure of office of members
 
-2\. A member shall hold office on such conditions and for such term, as the Minister may determine, and shall be eligible for reappointment.
+2\. A member shall hold office on such conditions and for such term, as the Minister may determine.
 
 Deputy Chairmen
 
-2A.—(1) The Minister may appoint not more than 2 members to be Deputy Chairmen of the Agency.
+3.—(1) The Minister may appoint not more than 2 members to be Deputy Chairmen of the Agency.
 
 (2) At any time when the Chairman is absent or otherwise incapable of acting and no temporary Chairman has been appointed —
 
@@ -360,43 +448,41 @@ Deputy Chairmen
 
 may exercise any of the functions of the Chairman.
 
-[18/2000 wef 01/06/2000]
-
 Temporary Chairman
 
-3\. The Minister may appoint any member to be a temporary Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman.
+4\. The Minister may appoint any member to be a temporary Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman.
 
 Temporary members
 
-4\. The Minister may appoint any person to be a temporary member during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of any member.
+5\. The Minister may appoint any person to be a temporary member during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of any member.
 
 Revocation of appointment
 
-5\. The Minister may, at any time, revoke the appointment of the Chairman or a Deputy Chairman or any member without assigning any reason.
+6\. The Minister may, at any time, revoke the appointment of the Chairman or a Deputy Chairman or any member without assigning any reason.
 
 Resignation
 
-6\. Any member may resign from his appointment at any time by giving notice in writing to the Minister.
+7\. Any member may resign from his appointment at any time by giving notice in writing to the Minister.
 
 Chairman may delegate functions
 
-7\. The Chairman may, by instrument in writing, authorise any member to exercise any power or perform any function conferred on the Chairman by or under this Act.
+8\. The Chairman may, by instrument in writing, authorise any member to exercise any power or perform any function conferred on the Chairman by or under this Act.
 
 Vacation of office
 
-8. The office of a member shall be vacated if the member —
+9. The office of a member shall be vacated if the member —
 
 (a) has been absent, without leave of the Agency, from 3 consecutive meetings of the Agency; or
 
-(b) becomes in any manner disqualified for membership of the Agency.
+(b) becomes in any manner disqualified from membership of the Agency.
 
 Filling of vacancies
 
-9\. If a member resigns, dies or has his appointment revoked or otherwise vacates his office before the expiry of the term for which he has been appointed, the Minister may appoint another person for the unexpired period of the term of office of the member in whose place he is appointed.
+10\. If a member resigns, dies or has his appointment revoked or otherwise vacates his office before the expiry of the term for which he has been appointed, the Minister may appoint another person for the unexpired period of the term of office of the member in whose place he is appointed.
 
 Disqualification from membership
 
-10. No person shall be appointed or shall continue to hold office as a member if he —
+11. No person shall be appointed or shall continue to hold office as a member if he —
 
 (a) is of unsound mind;
 
@@ -406,17 +492,19 @@ Disqualification from membership
 
 Disclosure of interest by members
 
-11.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Agency shall disclose the nature of his interest at the first meeting of the Agency at which he is present after the relevant facts have come to his knowledge; and the disclosure shall be recorded in the minutes of the Agency and the member shall not take part in any deliberation of the Agency with respect to that transaction or project.
+12.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Agency shall disclose the nature of his interest at the first meeting of the Agency at which he is present after the relevant facts have come to his knowledge;
 
-(2) For the purpose of determining whether there is a quorum, a member shall be treated as being present at a meeting notwithstanding that under sub-paragraph (1) he cannot vote or has withdrawn from the meeting.
+(2) A disclosure under sub-paragraph (1) shall be recorded in the minutes of the meeting of the Agency and, after the disclosure, that member shall not take part in any deliberation of the Agency with respect to that transaction or project.
 
-Salaries, etc., payable to members
+(3) For the purpose of determining whether there is a quorum, a member shall be treated as being present at a meeting notwithstanding that under sub-paragraph (2) he cannot vote or has withdrawn from the meeting.
 
-12\. There shall be paid to the Chairman and other members, out of the funds of the Agency, such salaries, fees and allowances as the Minister may from time to time determine.
+Salaries, fees and allowances payable to members
 
-Meetings of Agency
+13\. There shall be paid to the Chairman and other members, out of the funds of the Agency, such salaries, fees and allowances as the Minister may from time to time determine.
 
-13.—(1) The Chairman shall summon meetings as often as may be required.
+Meetings and proceedings of Agency
+
+14.—(1) The Chairman shall summon meetings as often as may be required.
 
 (2) At every meeting of the Agency, a quorum shall consist of 3 members.
 
@@ -434,37 +522,43 @@ Meetings of Agency
 
 Validity of acts
 
-14\. The acts of a member shall be valid notwithstanding any defect in his appointment or qualifications.
+15. The acts of a member shall be valid notwithstanding any defect in his appointment or qualifications.
+
+[18/2000; 26/2002]
 
 SECOND SCHEDULE
 
-Section 12.
+Section 14.
 
 Financial provisions
 
-Agency financial year
+Financial year
 
-1\. The financial year of the Agency shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Board shall begin on 11th January 1991 and shall end on 31st March 1992.
+1\. The financial year of the Agency shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
-Accounts to be kept
+Accounts of Agency
 
 2\. The Agency shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Agency and over the expenditure incurred by the Agency.
 
-Appointment and remuneration of auditor
+Auditor
 
-3.—(1) The accounts of the Agency shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
+3\. The accounts of the Agency shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
+Appointment of auditor
 
-(3) The remuneration of the auditor shall be paid out of the funds of the Agency.
+4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is an approved company auditor under the Companies Act (Cap. 50).
 
-Financial statements
+Remuneration of auditor
 
-4\. The Agency shall, as soon as practicable after the close of each financial year, prepare and submit financial statements in respect of the preceding year to the auditor who shall audit and report on them.
+5\. The remuneration of the auditor shall be paid out of the funds of the Agency.
+
+Annual financial statements
+
+6\. The Agency shall, as soon as practicable after the close of each financial year, prepare and submit financial statements in respect of the preceding year to the auditor who shall audit and report on them.
 
 Duties of auditor
 
-5.—(1) The auditor shall in his report state —
+7. The auditor shall in his report state —
 
 (a) whether the financial statements show fairly the financial transactions and the state of affairs of the Agency;
 
@@ -474,37 +568,49 @@ Duties of auditor
 
 (d) such other matters arising from the audit as he considers should be reported.
 
-(2) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Agency.
+Auditor’s report
 
-(3) The auditor may at any other time report to the Minister through the Agency upon any matter arising out of the performance of his audit.
+8.—(1) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Agency.
+
+(2) The auditor may at any other time report to the Minister through the Agency upon any matter arising out of the performance of his audit.
 
 Powers of the auditor
 
-6.—(1) The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Agency.
+9.—(1) The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Agency.
 
 (2) The auditor or any person authorised by him may make copies of, or extracts from, any such accounting and other records.
 
 (3) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
 
-(4) Any person who fails without reasonable excuse to comply with any requirement of the auditor under sub-paragraph (3) or who otherwise hinders, obstructs or delays the auditor in the performance of his functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
+Penalty for obstructing auditor
 
-Audited financial statements and report of auditor
+10. Any person who —
 
-7.—(1) The Agency shall, as soon as practicable after the financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements signed by the Chairman, together with a copy of the auditor’s report.
+(a) fails without reasonable excuse to comply with any requirement of the auditor under paragraph 9; or
 
-(2) Where the Auditor-General is not the auditor of the Agency, a copy of the audited financial statements and the auditor’s report shall be forwarded to the Auditor-General at the same time they are submitted to the Agency.
+(b) otherwise hinders, obstructs or delays the auditor or authorised person in the performance of his functions under this Act,
 
-(3) The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
 
-THIRD SCHEDULE
+Presentation of audited financial statements and report of auditor
 
-Deleted by Act 26/2002 wef 01/10/2002.
+11\. The Agency shall, as soon as practicable after the financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements signed by the Chairman, together with a copy of the auditor’s report.
+
+Copy of auditor’s report for Auditor-General
+
+12\. Where the Auditor-General is not the auditor of the Agency, a copy of the audited financial statements and the auditor’s report shall be forwarded to the Auditor-General at the same time they are submitted to the Agency.
+
+Presentation to Parliament
+
+13. The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+
+[26/2002]
 
 ## LEGISLATIVE HISTORY
 
 Agency for Science, Technology and Research Act
 
-(CHAPTER 201A)
+(CHAPTER 5A)
 
 This Legislative History is provided for the convenience of users of the Agency for Science, Technology and Research Act. It is not part of this Act.
 
@@ -522,16 +628,112 @@ This Legislative History is provided for the convenience of users of the Agency 
 |||(Bill No. 10/2000 published on 22 February 2000)|
 ||Date of Second and Third Readings|25 April 2000|
 ||Date of commencement|1 June 2000|
-|4.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+|4.|**Act 26 of 2002—National Science and Technology Board (Amendment) Act 2002**|
+||Date of First Reading|27 July 2002|
+|||(Bill No. 26/2002 published on 28 July 2002)|
+||Date of Second and Third Readings|27 August 2002|
+||Date of commencement|1 January 2002|
+|||1 October 2002|
+|5.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|3 May 2002|
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002|
 |||(item (18) in the Schedule)|
-|5.|**Act 26 of 2002—National Science and Technology Board (Amendment) Act 2002**|
-||Date of First Reading|27 July 2002|
-|||(Bill No. 26/2002 published on 28 July 2002)|
-||Date of Second and Third Readings|27 August 2002|
-||Date of commencement|1 January 2002|
-|||1 October 2002|
+|6.|**2002 Revised Edition—Agency for Science, Technology and Research Act**|
+||Date of operation|31 December 2002|
+## COMPARATIVE TABLE
+
+Agency for Science, Technology and Research Act
+
+(CHAPTER 5A)
+
+The following provisions in the 1991 Revised Edition of the National Science and Technology Board Act (Cap. 201A) (now known as the Agency for Science, Technology and Research Act) have been renumbered by the Law Revision Commissioners in this 2002 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Agency for Science, Technology and Research Act.
+
+2002 Ed\. 
+
+1991 Ed\. 
+
+4 
+
+3A 
+
+5 
+
+4 
+
+6 
+
+5 
+
+7 
+
+6 
+
+8 
+
+7 
+
+9 
+
+8 
+
+10 
+
+8A 
+
+11 —(1) and (2)
+
+9 —(1)
+
+(3)
+
+(2)
+
+12 
+
+10 
+
+13 —(1) and (2)
+
+11 
+
+14 
+
+12 
+
+15 
+
+13 
+
+16 
+
+14 
+
+17 
+
+15 
+
+18 
+
+16 
+
+19 
+
+17 
+
+—
+
+18 (Repealed by Act 26/2002)
+
+20 
+
+19 
+
+21 
+
+20 
+
