@@ -579,3 +579,5 @@ This Legislative History is provided for the convenience of users of the Departm
 ||Date of commencement|14 April 1989|
 |14.|**G. N. No. S 315/1994—Departmental Titles (Alteration) Act (Resolution)**|
 ||Date of commencement|12 August 1994|
+|15.|**G. N. No. S 548/1995—Departmental Titles (Alteration) Act (Resolution)**|
+||Date of commencement|15 December 1995|
