@@ -388,7 +388,7 @@ LICENCES AND CERTIFICATES RELATING TO MEDICINAL PRODUCTS
 
 (a) except as provided in paragraph (b), the Director of Medical Services; and
 
-(b) the Director of Primary Production in respect of any function to be performed under this Act exclusively in relation to veterinary medicinal products and animals.
+(b) the Director-General, Agri-food and Veterinary Services appointed under section 3(1) of the Animals and Birds Act (Cap. 7) in respect of any function to be performed under this Act exclusively in relation to veterinary medicinal products and animals.
 
 (2) Any function conferred on the licensing authority by this Act may be performed by such officers as the licensing authority may designate, subject to his general direction and control.
 
@@ -1559,3 +1559,9 @@ This Legislative History is provided for the convenience of users of the Medicin
 |||(Bill No. 5/1998 published on 15 January 1998)|
 ||Date of Second and Third Readings|19 February 1998|
 ||Date of commencement|16 April 1998|
+|5.|**Act 16 of 2000—Agri-food and Veterinary Authority Act 2000**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 February 2000|
+|||(Bill No. 11/2000 published on 22 February 2000)|
+||Date of Second and Third Readings|17 March 2000|
+||Date of commencement|1 April 2000|
