@@ -38,7 +38,7 @@
 
 - [13 Power to make inquiries](#Power-to-make-inquiries)
 
-- [14 Cancellation of, and declarations regarding permits and certificates](#Cancellation-of-and-declarations-regarding-permits-and-certificates)
+- [14 Cancellation and declarations regarding permits and certificates](#Cancellation-and-declarations-regarding-permits-and-certificates)
 
 - [15 Unlawful entry or presence in Singapore](#Unlawful-entry-or-presence-in-Singapore)
 
@@ -110,7 +110,7 @@
 
 - [41 Restriction on discharge of member of crew](#Restriction-on-discharge-of-member-of-crew)
 
-- [42 Signing on or bringing as one of the crew any person with intent to land contrary to this Act](#Signing-on-or-bringing-as-one-of-the-crew-any-person-with-intent-to-land-contrary-to-this-Act)
+- [42 Signing on or bringing as member of the crew any person with intent to land contrary to this Act](#Signing-on-or-bringing-as-member-of-the-crew-any-person-with-intent-to-land-contrary-to-this-Act)
 
 - [43 Security to prevent unlawful landing](#Security-to-prevent-unlawful-landing)
 
@@ -162,9 +162,9 @@
 
 (Original Enactment: M. Ordinance 12 of 1959)
 
-REVISED EDITION 1985
+REVISED EDITION 1995
 
-(30th March 1987)
+(15th March 1995)
 
 An Act relating to immigration into, and departure from, Singapore.
 
@@ -182,9 +182,7 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“authorised airport”, “authorised landing place”, “authorised train checkpoint”, “authorised point of entry”, “authorised departing place” or “authorised point of departure” mean, respectively, an airport, a landing place, a train checkpoint, a point of entry, a departing place or a point of departure declared as such under section 5;
-
-[Act 38 of 1993 wef 22/04/1994]
+“authorised airport”, “authorised landing place”, “authorised train checkpoint”, “authorised point of entry”, “authorised departing place” and “authorised point of departure” mean, respectively, an airport, a landing place, a train checkpoint, a point of entry, a departing place or a point of departure declared as such under section 5;
 
 “certificate” means a certificate of status issued under the provisions of any regulations made under section 55;
 
@@ -192,9 +190,7 @@ PRELIMINARY
 
 “crew” includes every seaman on a vessel, and every person employed in the operation of an aircraft or a train or in any service rendered to the crew or passengers of an aircraft in flight or a train in motion;
 
-[Act 38 of 1993 wef 22/04/1994]
-
-“Director of Marine” means the Director of Marine appointed under section 6(1) of the Merchant Shipping Act [Cap. 179] and includes the Deputy Director of Marine appointed under that subsection and such other officers appointed under section 6(2) as the Director of Marine may authorise to carry out any of his duties under this Act;
+“Director of Marine” means the Director of Marine appointed under section 6(1) of the Merchant Shipping Act [Cap. 179] and includes the Deputy Director of Marine appointed under that subsection and such other officers appointed under section 6(2) of that Act as the Director of Marine may authorise to carry out any of his duties under this Act;
 
 “employ” means to engage or use the service of any person and to pay such person for services rendered or work done or to remunerate such person on a piece rate or on a commission basis;
 
@@ -204,13 +200,11 @@ PRELIMINARY
 
 (b) in the case of a person arriving by air at an authorised airport, leaving the precincts of such airport;
 
-(c) in the case of a person entering by land and proceeding to an immigration control under section 26 or an authorised train checkpoint under section 25A, leaving the precincts of such post or authorised train checkpoint for any purpose other than that of departing from Singapore by an approved route; and
+(c) in the case of a person entering by land and proceeding to an immigration control post under section 26 or an authorised train checkpoint under section 25A, leaving the precincts of such post or checkpoint for any purpose other than that of departing from Singapore by an approved route; and
 
-[Act 38 of 1993 wef 22/04/1994]
+(d) in any other case, any entry into Singapore by land, sea or air,
 
-(d) in any other case, any entry into Singapore by land, sea or air:
-
-Provided that it shall not include in any case an entry made for the purpose of complying with this Act or an entry expressly or impliedly sanctioned by an immigration officer for the purpose of any enquiry or detention under the provisions of this Act;
+but shall not include in any case an entry made for the purpose of complying with this Act or an entry expressly or impliedly sanctioned by an immigration officer for the purpose of any enquiry or detention under the provisions of this Act;
 
 “entry permit” means a permit to enter or remain in Singapore issued under section 10;
 
@@ -240,21 +234,15 @@ Provided that it shall not include in any case an entry made for the purpose of 
 
 (c) in relation to a train, means the driver of the train or any person having for the time being control or charge thereof;
 
-[Act 38 of 1993 wef 22/04/1994]
-
 “occupier”, in relation to any premises or place, includes —
 
 (a) the person having the charge, management or control of either the whole or part of the premises or place, either on his own account or as an agent; and
 
 (b) a contractor who is carrying out building operations or construction works at the premises or place on behalf of some other person;
 
-[Act 6 of 1989 wef 31/03/1989]
-
 “pass” means a pass issued under the regulations entitling the holder thereof to enter and remain temporarily in Singapore;
 
 “passenger” means any person carried in a vessel, aircraft or train, other than the members of the crew;
-
-[Act 38 of 1993 wef 22/04/1994]
 
 “permit” includes an entry permit and a re-entry permit;
 
@@ -268,11 +256,7 @@ Provided that it shall not include in any case an entry made for the purpose of 
 
 “stowaway” means a person who is secreted in a vessel, aircraft or train without the consent of the master or other person in charge of the vessel, aircraft or train and includes such a person who is arriving in or departing from Singapore on board any vessel, aircraft or train without the consent of the master or other person in charge of the vessel, aircraft or train;
 
-[Act 38 of 1993 wef 22/04/1994]
-
 “through passenger” means any passenger who arrives in Singapore by a vessel, aircraft or train and who is continuing his journey in the same vessel, aircraft or train to a place outside Singapore;
-
-[Act 38 of 1993 wef 22/04/1994]
 
 “transportation company” means any government, municipality, body corporate, or organisation, firm or person carrying or providing for the transit of passengers, whether by vessel, aircraft, railway, highway or otherwise, and includes any two or more such transporting companies co-operating in the business of carrying passengers;
 
@@ -280,15 +264,23 @@ Provided that it shall not include in any case an entry made for the purpose of 
 
 “vessel” includes any ship or boat or other description of floating craft used in navigation, and includes any tackle, equipment, book, document, goods, cargo or things carried therein or thereon.
 
-[21/73; 60/73; 13/77]
+[21/73]
+
+[60/73]
+
+[13/77]
+
+[6/89]
+
+[38/93]
 
 ### Appointment and powers of Controller and immigration officers
 
 3\.—(1) The Minister may appoint a Controller of Immigration and such number of immigration officers as he may consider necessary for the proper carrying out of the provisions of this Act.
 
-[13/77]
-
 (2) The powers and discretions vested in the Controller under this Act, and the duties required to be discharged by him may, subject to section 4 and to such limitations as the Controller may impose, be exercised and discharged by immigration officers duly authorised by the Controller to act on his behalf.
+
+[13/77]
 
 ### Power of Minister to issue directions
 
@@ -302,23 +294,23 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 
 5\.—(1) The Minister may, by notification in theGazette, prescribe approved routes and declare such immigration control posts, landing places, airports, train checkpoints or points of entry, as he may consider to be necessary for the purposes of this Act, to be immigration control posts, authorised landing places, authorised airports, authorised train checkpoints or authorised points of entry, as the case may be, and no person shall, unless compelled by accident or other reasonable cause, enter Singapore except at an authorised landing place, airport, train checkpoint or point of entry.
 
-[13/77]
-
-[Act 38 of 1993 wef 22/04/1994]
-
 (2) The Minister may, by notification in theGazette, prescribe approved routes and declare such immigration control posts, places of embarkation, authorised airports, authorised points of departure, authorised train checkpoints or authorised departing places, as the case may be, and no person shall, unless compelled by accident or other reasonable cause, leave Singapore except at an authorised place of embarkation, airport, point of departure, train checkpoint or departing place.
 
 [13/77]
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
 
 [13/77]
 
+[13/77]
+
+[38/93]
+
 ### Control of entry into and departure from Singapore
 
-6\.—(1) No person other than a citizen of Singapore shall enter Singapore unless —
+6\.—(1) No person, other than a citizen of Singapore, shall enter Singapore unless —
 
 (a) he is in possession of a valid entry permit or re-entry permit lawfully issued to him under section 10 or 11;
 
@@ -328,21 +320,21 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 
 (d) he is exempted from this section by an order made under section 56.
 
-[13/77]
-
 (2) Any person who has entered or remained in Singapore in accordance with a pass lawfully issued under this Act shall complete an embarkation form and submit it together with his passport or other travel document for examination by an immigration officer at the time he leaves Singapore.
 
 [13/77]
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and —
 
-(a) in the case of an offence under subsection (1) shall on conviction be punished with imprisonment for a term of not less than 3 months and not more than 2 years and shall also, subject to section 231 of the Criminal Procedure Code (Cap. 68), be punished with caning with not less than 3 strokes;
+(a) in the case of an offence under subsection (1), shall on conviction be punished with imprisonment for a term of not less than 3 months and not more than 2 years and shall also, subject to section 231 of the Criminal Procedure Code, be punished with caning with not less than 3 strokes;
 
-[Act 6 of 1989 wef 31/03/1989]
-
-(b) in the case of an offence under subsection (2) shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding one year or to both.
+(b) in the case of an offence under subsection (2), shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding one year or to both.
 
 [35/84]
+
+[6/89]
+
+[13/77]
 
 ### Right of entry
 
@@ -390,8 +382,6 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 
 (k) any person who, in consequence of information received from any source or from any government through official or diplomatic channels, is considered by the Minister to be an undesirable immigrant;
 
-[Act 38 of 1993 wef 22/04/1994]
-
 (l) any person who has been removed from any country or state by the government of that country or state on repatriation for any reason whatever and who, by reason of the circumstances connected therewith, is considered by the Controller to be an undesirable immigrant;
 
 (m) any person who, being required by any written law for the time being in force to be in possession of valid travel documents, is not in possession of those documents or is in possession of forged or altered travel documents or travel documents which do not fully comply with that written law;
@@ -400,13 +390,15 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 
 (o) any person prohibited by order made under section 9 from entering Singapore.
 
-(4) The burden of proof that any person seeking to enter Singapore is not a prohibited immigrant shall lie upon that person. In any case where the Controller refuses to allow any person to enter Singapore on the ground that that person is a prohibited immigrant he shall if so requested by that person inform him of the class of prohibited immigrant of which, in the opinion of the Controller, he is a member.
+[38/93]
 
-(5) Subject to any exemption granted under section 56, if any prohibited immigrant enters Singapore otherwise than in accordance with a valid pass lawfully issued to him he shall be guilty of an offence.
+(4) The burden of proof that any person seeking to enter Singapore is not a prohibited immigrant shall lie upon that person. In any case where the Controller refuses to allow any person to enter Singapore on the ground that that person is a prohibited immigrant, the Controller shall, if so requested by that person, inform him of the class of prohibited immigrant of which, in the opinion of the Controller, he is a member.
 
-(6) Any person in possession of a permit issued to him under the provisions of this Act who, upon his arrival in Singapore, is refused permission to enter upon the ground that he is a prohibited immigrant, may appeal against the refusal within such time and in such manner as may be prescribed, to the Minister, whose decision shall be final:
+(5) Subject to any exemption granted under section 56, if any prohibited immigrant enters Singapore otherwise than in accordance with a valid pass lawfully issued to him, he shall be guilty of an offence.
 
-Provided that, notwithstanding sections 24, 25 and 26, any person who appeals against such refusal shall be permitted to disembark and shall be detained in an immigration depot pending the determination of his appeal, unless released on a pass issued at the discretion of the Controller on such conditions as to furnishing security or otherwise as the Controller may think fit.
+(6) Any person in possession of a permit issued to him under the provisions of this Act who, upon his arrival in Singapore, is refused permission to enter upon the ground that he is a prohibited immigrant, may appeal against the refusal, within such time and in such manner as may be prescribed, to the Minister whose decision shall be final.
+
+(7) Notwithstanding sections 24, 25 and 26, any person who appeals against such refusal shall be permitted to disembark and shall be detained in an immigration depot pending the determination of his appeal, unless released on a pass issued at the discretion of the Controller on such conditions as to furnishing security or otherwise as the Controller may think fit.
 
 ### Power to prohibit or limit entry into Singapore
 
@@ -420,23 +412,27 @@ Provided that, notwithstanding sections 24, 25 and 26, any person who appeals ag
 
 (iii) limit the period during which any person or class of persons entering or re-entering Singapore may remain therein:
 
-Provided that no order made under this paragraph, except an order made in the interests of public security, shall apply to any person outside Singapore at the time when the order is made and who is in possession of a valid re-entry permit lawfully issued to him;
+ Provided that no order made under this paragraph, except an order made in the interests of public security, shall apply to any person outside Singapore at the time when the order is made and who is in possession of a valid re-entry permit lawfully issued to him;
 
 (b) prohibit the entry into Singapore of passengers brought to Singapore by any transportation company which refuses or neglects to comply with the provisions of this Act.
 
 (2) An order made under subsection (1) shall not apply to any citizen of Singapore or to any person seeking to enter Singapore under and in accordance with any pass lawfully issued to that person.
 
-(3) (a) Every order made under subsection (1)(a) which relates to a class of persons, except an order made in the interests of public security, shall be presented to Parliament as soon as possible after publication and if a resolution is passed within the next subsequent 3 months after the order is so presented disapproving the order or any part thereof, the order or such part thereof, as the case may be, shall thenceforth cease to have effect but without prejudice to the validity of anything previously done thereunder.
+(3) Every order made under subsection (1)(a) which relates to a class of persons, except an order made in the interests of public security, shall be presented to Parliament as soon as possible after publication in theGazetteand if a resolution is passed within the next subsequent 3 months after the order is so presented disapproving the order or any part thereof, the order or such part thereof, as the case may be, shall thenceforth cease to have effect but without prejudice to the validity of anything previously done thereunder.
 
-(b) Every order made under subsection (1) shall, unless otherwise expressed therein, come into force on the date of the making thereof, and shall be published in theGazette.
+(4) Every order made under subsection (1) shall, unless otherwise expressed therein, come into force on the date of the making thereof, and shall be published in theGazette.
 
-(4) Any person who enters or re-enters or remains in Singapore in contravention of any order made under subsection (1) shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than 2 years and not more than 4 years and shall also be liable to a fine not exceeding $6,000.
+(5) Any person who enters or re-enters or remains in Singapore in contravention of any order made under subsection (1) shall be guilty of an offence and shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 4 years and shall also be liable to a fine not exceeding $6,000.
+
+[35/84]
+
+[S 22/89]
+
+(6) Where a person, who has been previously convicted of any offence which is punishable with imprisonment for a term of not less than 3 years, commits an offence under subsection (5) by the use of a passport or other travel document which bears a name different from that stated in the order made against him under subsection (1), he shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 5 years and shall also be liable to a fine not exceeding $10,000 and to caning.
 
 [35/84]
 
-(5) Where a person, who has been previously convicted of any offence which is punishable with imprisonment for a term of not less than 3 years, commits an offence under subsection (4) by the use of a passport or other travel document which bears a name different from that stated in the order made against him under subsection (1), he shall be liable on conviction to imprisonment for a term of not less than 2 years and not more than 5 years and shall also be liable to a fine not exceeding $10,000 and to caning.
-
-[35/84]
+[S 22/89]
 
 ## PART III
 
@@ -446,19 +442,19 @@ ENTRY AND RE-ENTRY PERMITS
 
 10\.—(1) Any person seeking to enter Singapore who is not entitled so to enter as a citizen of Singapore or by virtue of a valid pass to enter Singapore issued to him or seeking to remain in Singapore after the expiry of such a pass may make application in that behalf in the manner prescribed to the Controller or to such other person whether within or outside Singapore as the Controller may, from time to time, appoint for the purpose.
 
-(2) Upon application made under subsection (1) and upon payment of the prescribed fees the Controller may issue to the applicant an entry permit in the prescribed form and shall, if the applicant is required by the provisions of any written law relating to passports for the time being in force in Singapore to have a visa to enter Singapore, issue a visa to the applicant on the production by him of his passport or other travel document and on payment of the fee prescribed by that written law and the visa shall remain valid until the expiry or cancellation of the entry permit issued to him.
+(2) Upon application made under subsection (1) and upon payment of the prescribed fees, the Controller may issue to the applicant an entry permit in the prescribed form and shall, if the applicant is required by the provisions of any written law relating to passports for the time being in force in Singapore to have a visa to enter Singapore, issue a visa to the applicant on the production by him of his passport or other travel document and on payment of the fee prescribed by that written law and the visa shall remain valid until the expiry or cancellation of the entry permit issued to him.
 
 (3) The Controller may, in issuing an entry permit under subsection (2), impose any condition as he thinks fit and may at any time vary any condition subject to which the entry permit is issued or impose any additional condition thereto.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 (4) Before varying any condition or imposing any additional condition on an entry permit, the Controller shall notify the holder of the entry permit of his intention to do so and shall give the holder an opportunity to be heard as to why the condition of his entry permit should not be varied or the additional condition should not be imposed.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 (5) Any person who is aggrieved by the decision of the Controller under this section may, within 30 days of being notified of the decision of the Controller, appeal by petition in writing to the Minister whose decision shall be final.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Re-entry permits
 
@@ -470,25 +466,25 @@ ENTRY AND RE-ENTRY PERMITS
 
 who seeks to leave Singapore temporarily, or within one month of so leaving Singapore, may make application to the Controller in the prescribed manner for the issue to him of a re-entry permit authorising him to re-enter Singapore.
 
-(2) Upon application being made under subsection (1) and upon payment of the prescribed fee, the Controller may issue to the applicant a re-entry permit in the prescribed form and shall in the case of a re-entry permit issued after the commencement of this Act if the applicant is required by the provisions of any written law relating to passports for the time being in force in Singapore to have a visa to enter Singapore issue a visa to the applicant on the production by him of his passport or other travel document and on payment of the fee prescribed by that written law and the visa shall remain valid until the expiry or cancellation of the re-entry permit issued to him.
+(2) Upon application being made under subsection (1) and upon payment of the prescribed fee, the Controller may issue to the applicant a re-entry permit in the prescribed form and shall, if the applicant is required by the provisions of any written law relating to passports for the time being in force in Singapore to have a visa to enter Singapore, issue a visa to the applicant on the production by him of his passport or other travel document and on payment of the fee prescribed by that written law and the visa shall remain valid until the expiry or cancellation of the re-entry permit issued to him.
 
-(3) Any person aggrieved by the refusal of the Controller to issue to him a re-entry permit under this section may within 30 days of the notification of the refusal to him appeal by petition in writing to the Minister whose decision shall be final.
+(3) Any person aggrieved by the refusal of the Controller to issue to him a re-entry permit under this section may, within 30 days of the notification of the refusal to him, appeal by petition in writing to the Minister whose decision shall be final.
 
 ### Endorsement of name of wife and children on permits, passes and certificates
 
-12\. Subject to such conditions as may be prescribed it shall be lawful for the Controller, on application made in that behalf in the prescribed form by the holder of, or by an applicant for, a permit, pass or certificate, to endorse upon the permit, pass or certificate issued to that person the name or names of the wife or child of that person.
+12\. Subject to such conditions as may be prescribed, it shall be lawful for the Controller, on application made in that behalf in the prescribed form by the holder of, or by an applicant for, a permit, pass or certificate, to endorse upon the permit, pass or certificate issued to that person the name or names of the wife or child of that person.
 
 ### Power to make inquiries
 
-13\. The Controller may before the issue of a permit, pass or certificate under this Act or before making any endorsement thereon under section 12 make such inquiries or require the production of such evidence as he may think fit in order to satisfy himself as to the truth of any statement made in the application for the permit, pass or certificate.
+13\. The Controller may, before the issue of a permit, pass or certificate under this Act or before making any endorsement thereon under section 12, make such inquiries or require the production of such evidence as he may think fit in order to satisfy himself as to the truth of any statement made in the application for the permit, pass or certificate.
 
-### Cancellation of, and declarations regarding permits and certificates
+### Cancellation and declarations regarding permits and certificates
 
 14\.—(1) Where the holder of any permit seeks to enter Singapore accompanied by any child whose name is not endorsed upon that permit under section 12 and who is not otherwise entitled to enter Singapore under the provisions of this Act, the Controller may cancel the permit issued to that person.
 
 (2) Where, upon the arrival in Singapore of any person to whom a permit or certificate has been issued, the Controller is satisfied, as a result of inquiries made under section 24, 25, 25A or 26, or from other information, that that permit or certificate was issued as a result of any false representation or concealment of a material fact the Controller may cancel the permit or certificate.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 (3) Where at any time, during the period of validity of any permit or certificate, the Controller is satisfied that the holder of the permit or certificate is a prohibited immigrant, the Controller shall cancel the permit or certificate.
 
@@ -502,46 +498,39 @@ who seeks to leave Singapore temporarily, or within one month of so leaving Sing
 
 the Controller may declare at any time after the date of the entry, that the presence of that person in Singapore is unlawful.
 
-(5) On making any cancellation under subsection (2) or (3) or on making any declaration under subsection (4) the Controller shall, by notification, which, if the address of the person is known, shall be sent to him at that address and otherwise shall be published in such manner as the Controller thinks fit, inform the person affected thereby of the grounds on which the cancellation or declaration has been made and that person may appeal against the cancellation or declaration, as the case may be, within such time and in such manner as may be prescribed, to the Minister, whose decision shall be final.
+(5) On making any cancellation under subsection (2) or (3) or on making any declaration under subsection (4), the Controller shall, by notification which, if the address of the person is known, shall be sent to him at that address and otherwise shall be published in such manner as the Controller thinks fit, inform the person affected thereby of the grounds on which the cancellation or declaration has been made and that person may appeal against the cancellation or declaration, as the case may be, within such time and in such manner as may be prescribed, to the Minister whose decision shall be final.
 
 ### Unlawful entry or presence in Singapore
 
-15\.—(1) A person shall not remain in Singapore after the cancellation of any permit or certificate, or after the making of a declaration under section 14(4) or after the expiration or notification to him, in such manner as may be prescribed, of the cancellation of any pass relating to or issued to him unless he is otherwise entitled or authorised to remain in Singapore under the provisions of this Act or of the regulations.
+15\.—(1) A person shall not remain in Singapore after the cancellation of any permit or certificate, or after the making of a declaration under section 14(4) or after the expiration or notification to him, in such manner as may be prescribed, of the cancellation of any pass relating to or issued to him unless he is otherwise entitled or authorised to remain in Singapore under the provisions of this Act or the regulations.
 
 (2) A person shall not remain in Singapore in contravention of section 62.
 
-(3) Any person who without reasonable cause contravenes this section shall be guilty of an offence and —
+(3) Any person who, without reasonable cause, contravenes this section shall be guilty of an offence and —
 
-(a) in the case where he remains unlawfully for a period not exceeding 90 days shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 6 months or to both;
+(a) in the case where he remains unlawfully for a period not exceeding 90 days, shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 6 months or to both;
 
-(b) in the case where he remains unlawfully for a period exceeding 90 days shall on conviction be punished with imprisonment for a term of not less than 3 months and not more than 2 years and shall also, subject to section 231 of the Criminal Procedure Code (Cap. 68), be punished with caning with not less than 3 strokes.
+(b) in the case where he remains unlawfully for a period exceeding 90 days, shall on conviction be punished with imprisonment for a term of not less than 3 months and not more than 2 years and shall also, subject to section 231 of the Criminal Procedure Code [Cap. 68], be punished with caning with not less than 3 strokes.
 
 [35/84]
 
-[Act 6 of 1989 wef 31/03/1989]
+[6/89]
 
 ## PART IV
 
-PROCEDURE ON ARRIVAL IN AND
-
-
-
-
-DEPARTURE FROM SINGAPORE
+PROCEDURE ON ARRIVAL IN AND DEPARTURE FROM SINGAPORE
 
 ### Immigration signal
 
 16\.—(1) The master of every vessel which arrives in or is about to leave Singapore shall hoist the prescribed immigration signal and shall exhibit that signal until authorised by an immigration officer to haul it down.
 
-[13/77]
-
 (2) A master of a vessel who contravenes or fails to comply with subsection (1) shall be guilty of an offence.
+
+[13/77]
 
 ### Vessel to proceed to immigration or departure anchorage or other place ordered by immigration officer
 
 17\.—(1) The Controller may, by notification in theGazette, declare any place within the limits of any port to be an immigration anchorage, either for vessels generally or for vessels of a class specified in the notification, and the master of any vessel which arrives at or is about to leave a port where an immigration anchorage, either for vessels generally or for vessels of a class to which that vessel belongs, has been declared shall, subject to any directions given under subsection (3), forthwith navigate his vessel to that anchorage and shall remain there until an immigration officer gives him permission to leave.
-
-[13/77]
 
 (2) The master of every vessel which arrives in or is about to leave Singapore shall, if so ordered by an immigration officer, anchor or tie up his vessel at such place as may be ordered, and shall remain there until an immigration officer gives him permission to leave.
 
@@ -549,13 +538,15 @@ DEPARTURE FROM SINGAPORE
 
 (3) A master of a vessel who, without reasonable cause, contravenes or fails to comply with this section or any order made or directions given thereunder shall be guilty of an offence.
 
+[13/77]
+
 ### Aircraft arriving in or departing from Singapore
 
 18\.—(1) The captain of every aircraft which arrives in or leaves Singapore shall land his aircraft at, or fly his aircraft away from, an authorised airport.
 
-[13/77]
-
 (2) A captain of an aircraft who, without reasonable cause, contravenes or fails to comply with subsection (1) shall be guilty of an offence.
+
+[13/77]
 
 ### Train arriving in or leaving Singapore
 
@@ -563,7 +554,7 @@ DEPARTURE FROM SINGAPORE
 
 (2) The master of any train who, without reasonable cause, contravenes or fails to comply with subsection (1) shall be guilty of an offence.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Persons not to board or leave vessel until examination completed
 
@@ -573,15 +564,17 @@ DEPARTURE FROM SINGAPORE
 
 (b) any Government officer boarding the vessel on duty;
 
-(c) the owner, charterer or agent of the vessel;
+(c) the owner, charterer or agent of the vessel; or
 
 (d) a consular officer or accredited representative of the country to which the vessel belongs,
 
 shall leave or board a vessel arriving in Singapore nor may any person (other than the crew of a vessel carrying any such person) approach within 200 metres of the vessel, until the vessel has been examined by an immigration officer and the immigration signal has been hauled down, or board a vessel departing from Singapore after it has been examined by an immigration officer just before its departure.
 
-[13/77; S 353/75]
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and every such person leaving a vessel in contravention of subsection (1) shall, if so required by an immigration officer, return forthwith to the vessel and remain thereon and the master of the vessel shall be bound to re-embark that person.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and every such person leaving a vessel in contravention of subsection (1) shall if so required by an immigration officer return forthwith to the vessel and remain thereon and the master of the vessel shall be bound to re-embark that person.
+[13/77]
+
+[s 353/75]
 
 ### Prohibition on disembarking from or boarding ships without permission of immigration officer
 
@@ -609,8 +602,6 @@ shall leave or board a vessel arriving in Singapore nor may any person (other th
 
 (a) furnish to an immigration officer a complete list of the members of the crew in such form and containing such particulars as may be prescribed;
 
-[Act 38 of 1993 wef 22/04/1994]
-
 (b) produce to that officer for inspection and interrogation all the members of the crew;
 
 (c) furnish to that officer in triplicate identification cards of each member of the crew in such form as may be prescribed;
@@ -621,9 +612,7 @@ shall leave or board a vessel arriving in Singapore nor may any person (other th
 
 (f) report the presence on board of any stowaway or any unauthorised person or any person proceeding to any state or country on his removal from any other state or country by the competent authorities of that state or country.
 
-[Act 38 of 1993 wef 22/04/1994]
-
-(2) In the case of vessels carrying passengers the master, owner, agent or charterer shall, in addition —
+(2) In the case of vessels carrying passengers, the master, owner, agent or charterer shall, in addition —
 
 (a) furnish a complete list of all passengers in such form and containing such particulars as may be prescribed;
 
@@ -633,53 +622,49 @@ shall leave or board a vessel arriving in Singapore nor may any person (other th
 
 [13/77]
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 (3) A master, owner, agent or charterer of a vessel who contravenes or fails to comply with subsection (1) or (2), and any person who hinders or obstructs any search of a vessel under subsection (1)(d), shall each be guilty of an offence.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
-(4) If any person whose presence has not been reported under subsection (1)(f) is found on board a vessel, the master, owner, agent and charterer of the vessel shall each be guilty of an offence and shall each be liable on conviction to a fine of not less than $5,000 and not exceeding $10,000 in respect of each such person.
+(4) If any person whose presence has not been reported under subsection (1)(f) is found on board a vessel, the master, owner, agent and charterer of the vessel shall each be guilty of an offence and shall each be liable on conviction to a fine of not less than $5,000 and not more than $10,000 in respect of each such person.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
-(5) In any proceedings under this section the certificate in writing of an immigration officer who boarded or examined any particular vessel to the effect that the vessel carried on arrival in Singapore a total number of seamen corresponding in description to the particulars on the identification cards furnished under subsection (1)(c) shall be conclusive proof that the vessel did on arrival carry that number of seamen.
+(5) In any proceedings under this section, the certificate in writing of an immigration officer who boarded or examined any particular vessel to the effect that the vessel carried on arrival in Singapore a total number of seamen corresponding in description to the particulars on the identification cards furnished under subsection (1)(c) shall be conclusive proof that the vessel did on arrival carry that number of seamen.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Production of lists and persons by captain, etc., of aircraft
 
 23\.—(1) The captain, owner, agent or charterer of every aircraft arriving in or leaving Singapore shall —
 
-(a) furnish to an immigration officer a passenger list as prescribed under section 22(2)(a) or in accordance with Annex 9 to the Convention on International Civil Aviation;
-
-[Act 38 of 1993 wef 22/04/1994]
+(a) furnish to an immigration officer a complete list of all passengers of his aircraft as prescribed under section 22(2)(a) or in accordance with Annex 9 to the Convention on International Civil Aviation;
 
 (b) furnish to that officer in relation to every passenger landing in or departing from Singapore such particulars in such form as may be prescribed;
 
 (c) furnish to that officer a complete list of the members of the crew of his aircraft as prescribed under section 22(1)(a) or in accordance with Annex 9 to the Convention on International Civil Aviation;
 
-(d) produce the members of the crew and passengers of that aircraft for inspection and interrogation as directed either generally or specifically by an immigration officer;
+(d) produce the members of the crew and passengers of that aircraft for inspection and interrogation as directed, either generally or specifically, by an immigration officer;
 
-(e) submit to such search of his aircraft as may be necessary to establish the presence or absence of other persons on board;
+(d) submit to such search of his aircraft as may be necessary to establish the presence or absence of other persons on board; and
 
-(f) report the presence on board of any stowaway or any unauthorised person or any person proceeding to any state or country on his removal from any other state or country by the competent authorities of that state or country.
-
-[13/77]
-
-[Act 38 of 1993 wef 22/04/1994]
+(e) report the presence on board of any stowaway or any unauthorised person or any person proceeding to any state or country on his removal from any other state or country by the competent authorities of that state or country.
 
 (2) A captain, owner, agent or charterer of an aircraft who contravenes or fails to comply with subsection (1), and any person who hinders or obstructs any search of an aircraft under subsection (1)(e), shall each be guilty of an offence.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
-(3) If any person whose presence has not been reported under subsection (1)(f) is found on board an aircraft, the captain, owner, agent and charterer of the aircraft shall each be guilty of an offence and shall each be liable on conviction to a fine of not less than $5,000 and not exceeding $10,000 in respect of each such person.
+(3) If any person whose presence has not been reported under subsection (1)(f) is found on board an aircraft, the captain, owner, agent and charterer of the aircraft shall each be guilty of an offence and shall each be liable on conviction to a fine of not less than $5,000 and not more than $10,000 in respect of each such person.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
-(4) In any proceedings under this section the certificate in writing of an immigration officer who boarded or examined any particular aircraft to the effect that the aircraft carried on arrival in Singapore a total number of crew corresponding in description to the particulars on the list furnished under subsection (1)(c) shall be conclusive proof that the aircraft did on arrival carry that number of crew.
+(4) In any proceedings under this section, the certificate in writing of an immigration officer who boarded or examined any particular aircraft to the effect that the aircraft carried on arrival in Singapore a total number of crew corresponding in description to the particulars on the list furnished under subsection (1)(c) shall be conclusive proof that the aircraft did on arrival carry that number of crew.
 
-[Act 38 of 1993 wef 22/04/1994]
+[13/77]
+
+[38/93]
 
 ### Production of lists and persons by master, etc., of train
 
@@ -703,17 +688,15 @@ shall leave or board a vessel arriving in Singapore nor may any person (other th
 
 (3) The master, owner, agent or charterer of any train who contravenes or fails to comply with subsection (1) or (2), and any person who hinders or obstructs any search of a train under subsection (1)(c), shall each be guilty of an offence.
 
-(4) If any person whose presence has not been reported under subsection (1)(d) is found on board the train, the master, owner, agent and charterer of the train shall each be guilty of an offence and shall each be liable on conviction to a fine of not less than $5,000 and not exceeding $10,000 in respect of each such person.
+(4) If any person whose presence has not been reported under subsection (1)(d) is found on board the train, the master, owner, agent and charterer of the train shall each be guilty of an offence and shall each be liable on conviction to a fine of not less than $5,000 and not more than $10,000 in respect of each such person.
 
 (5) In any proceedings under this section, the certificate in writing of an immigration officer who boarded or examined any particular train to the effect that the train on arrival in Singapore carried a total number of crew corresponding in description to the particulars on the list furnished under subsection (1)(a) shall be conclusive proof that the train did on arrival carry that number of crew.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Examination of persons arriving by sea
 
 24\.—(1) Every person arriving by sea in Singapore shall appear before an immigration officer at such time and place as that officer may direct; and that officer, after such examination as he may consider necessary, shall inform any person whom he considers to be prohibited from entering Singapore under the provisions of this Act or any regulations or orders made thereunder of his finding, and the person, if still aboard the vessel, shall not disembark in Singapore or, if he has disembarked for the purposes of the examination, shall return forthwith to the vessel and remain thereon. The master, owner, agent or charterer of the vessel shall likewise forthwith be informed in writing by the immigration officer of his finding and the master, owner, agent or charterer shall not permit the person to disembark in Singapore, or, if the person has disembarked, whether for the purpose of examination or otherwise, shall be bound to re-embark him.
-
-[Act 38 of 1993 wef 22/04/1994]
 
 (2) Any person who —
 
@@ -725,21 +708,19 @@ shall leave or board a vessel arriving in Singapore nor may any person (other th
 
 shall each be guilty of an offence.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 (3) Where any person either disembarks in Singapore or refuses or neglects to return to his vessel, in contravention of this section, an immigration officer may require that person to return to his vessel and may take such steps, including the use of force, as may be reasonably necessary to compel that person to return, and the master, owner, agent or charterer of the vessel shall be bound to re-embark that person and to remove him from Singapore.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 (4) The master, owner, agent or charterer of a vessel may use such force as may be reasonably necessary to enable him to comply with subsections (1) and (3).
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Examination of persons arriving at authorised airport
 
 25\.—(1) Every person arriving by air at any authorised airport in Singapore shall appear before an immigration officer at such time and place as that officer may direct; and that officer, after such examination as he may consider necessary, shall inform any person whom he considers to be prohibited from entering Singapore under the provisions of this Act or any regulations or orders made thereunder of his finding, and the person shall not leave the precincts of the airport except for a place approved by that officer, and shall leave and depart from Singapore by the first available means in accordance with the instructions of that officer. The captain, owner, agent or charterer of the aircraft in which the person arrived shall, if so required by that officer, remove the person from Singapore by the same aircraft.
-
-[Act 38 of 1993 wef 22/04/1994]
 
 (2) Any person who —
 
@@ -749,13 +730,15 @@ shall each be guilty of an offence.
 
 (c) refuses or fails to leave Singapore in accordance with the instructions of an immigration officer given under subsection (1); or
 
-(d) being the captain, owner, agent or charterer of the aircraft in which any person arrived in Singapore, refuses or neglects to remove the person from Singapore after being informed by an immigration officer that the person is prohibited from entering Singapore or that the person has refused or neglected to appear before an immigration officer as required by subsection (1) or that he has left the place of examination without or otherwise than in accordance with the authorisation of that officer,
+(d) being the captain, owner, agent or charterer of the aircraft in which any person arrived in Singapore, refuses or neglects to remove the person from Singapore after being informed by an immigration officer that the person is prohibited from entering Singapore or that the person has refused or neglected to appear before an immigration officer as required by subsection (1) or that he has left the place of examination without, or otherwise than in accordance with, the authorisation of that officer,
 
 shall each be guilty of an offence.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 (3) Where any person leaves the precincts of an airport in contravention of this section or refuses to leave and depart from Singapore in accordance with the instructions of an immigration officer given under subsection (1), the immigration officer may take such steps, including the use of force, as may be reasonably necessary to compel that person to return to the precincts of the airport or to comply with those instructions, as the case may be.
+
+[38/93]
 
 ### Examination of persons arriving by train
 
@@ -765,7 +748,7 @@ shall each be guilty of an offence.
 
 (a) refuses or neglects to appear before an immigration officer as required by subsection (1) or who leaves the place of examination without, or otherwise than in accordance with, the authorisation of that officer;
 
-(b) after being informed by an immigration officer that he is prohibited from entering Singapore, leaves the precincts of the checkpoint without the permission of that officer, or refuses or neglects to proceed to or remain at a place approved by that officer;
+(b) after being informed by an immigration officer that he is prohibited from entering Singapore, leaves the precincts of an authorised train checkpoint without the permission of that officer, or refuses or neglects to proceed to or remain at a place approved by that officer;
 
 (c) refuses or fails to leave Singapore in accordance with the instruction of an immigration officer given under subsection (1); or
 
@@ -775,41 +758,37 @@ shall each be guilty of an offence.
 
 (3) Where any person leaves the precincts of an authorised train checkpoint in contravention of this section or refuses to leave and depart from Singapore in accordance with the instructions of an immigration officer given under subsection (1), the immigration officer may take such steps, including the use of force, as may be reasonably necessary to compel that person to return to the precincts of the checkpoint or to comply with those instructions, as the case may be.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Examination of persons entering Singapore by land or at a place other than an authorised landing place or airport
 
 26\.—(1) Every person who enters Singapore by land shall proceed to the nearest immigration control post and shall appear before the immigration officer in charge of the post and shall, if so required by the immigration officer, furnish particulars about himself in such form as may be prescribed.
 
-[13/77]
+(2) Every person arriving by sea or air in Singapore at any place, other than at an authorised landing place or airport, shall forthwith proceed to and appear before the nearest immigration officer.
 
-(2) Every person who arrives by sea or air in Singapore at any place other than an authorised landing place or airport shall forthwith proceed to and appear before the nearest immigration officer.
-
-(3) The immigration officer before whom any person appears in accordance with this section shall if he considers that that person is prohibited from entering Singapore under the provisions of this Act or any regulations or orders made thereunder inform him of his finding and that person shall in accordance with the instructions of the immigration officer forthwith leave and depart from Singapore.
+(3) The immigration officer before whom any person appears in accordance with this section shall, if he considers that that person is prohibited from entering Singapore under the provisions of this Act or any regulations or orders made thereunder, inform him of his finding and that person shall in accordance with the instructions of the immigration officer forthwith leave and depart from Singapore.
 
 (4) Any person who contravenes or fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding one year or to both.
 
+[13/77]
+
 ### Power to send person to depot for further examination
 
-27\.—(1) Where an immigration officer is in doubt as to the right of any person to enter Singapore, it shall be lawful for that officer to direct the person to an immigration depot and, in that case, that person shall proceed forthwith to that depot and shall remain there until permitted to leave by that officer:
+27\.—(1) Where an immigration officer is in doubt as to the right of any person to enter Singapore, it shall be lawful for that officer to direct the person to an immigration depot and, in that case, that person shall proceed forthwith to that depot and shall remain there until permitted to leave by that officer.
 
-Provided that the person shall not, except on the written order of the Minister, be so detained for any period exceeding 7 days:
+(2) No person shall, except on the written order of the Minister, be so detained for any period exceeding 7 days except that the Controller may, in his discretion, and pending the completion of inquiries regarding that person, release him from the immigration depot on such terms and conditions as the Controller may think fit, and for that purpose the Controller may issue to that person a pass in the prescribed form.
 
-And provided that the Controller may, in his discretion, and pending the completion of inquiries regarding that person, release him from the immigration depot on such terms and conditions as the Controller may think fit, and for that purpose the Controller may issue to that person a pass in the prescribed form.
-
-(2) Any person who refuses or neglects to comply with any directions given by an immigration officer under subsection (1), or who leaves an immigration depot in contravention of that subsection, shall be guilty of an offence.
+(3) Any person who refuses or neglects to comply with any directions given by an immigration officer under subsection (1), or who leaves an immigration depot in contravention of that subsection, shall be guilty of an offence.
 
 ### Interrogation of travellers
 
-28\.—(1) Any person who arrives in Singapore or who is about to leave Singapore shall fully and truthfully answer all questions and enquiries put to him by an immigration officer or a police officer, tending directly or indirectly to establish his identity, nationality or occupation or bearing on any of the restrictions contained in this Act or the regulations or any absolute or conditional liability on his part to any military, naval or air force service under any state or country whatsoever, and shall disclose and produce to any such officer on demand all documents in his possession relating to those matters.
+28\.—(1) Any person who arrives in Singapore or who is about to leave Singapore shall fully and truthfully answer all questions and enquiries put to him by an immigration officer or a police officer tending, directly or indirectly, to establish his identity, nationality or occupation or bearing on any of the restrictions contained in this Act or the regulations or any absolute or conditional liability on his part to any military, naval or air force service under any state or country whatsoever, and shall disclose and produce to any such officer on demand all documents in his possession relating to those matters.
 
-[21/73]
+(2) All such answers and documents shall be admissible in evidence in any proceedings under this Act against the person making, disclosing or producing the same.
 
-(2) All such answers and documents shall be admissible in evidence in any proceedings under this Act against the person making, disclosing or producing the same:
+(3) Nothing in this section shall be construed as rendering any such answer inadmissible in any other proceedings in which they would otherwise be admissible.
 
-Provided that nothing in this section shall be construed as rendering any such answer inadmissible in any other proceedings in which they would otherwise be admissible.
-
-(3) Any person who —
+(4) Any person who —
 
 (a) refuses to answer any question or enquiry put to him under subsection (1);
 
@@ -821,6 +800,8 @@ Provided that nothing in this section shall be construed as rendering any such a
 
 shall be guilty of an offence.
 
+[21/73]
+
 ### Medical examination
 
 29\. For the purpose of exercising his powers and carrying out his functions and duties under this Act or the regulations, an immigration officer may require any person who desires to enter Singapore to submit to examination by a Government medical officer.
@@ -829,7 +810,7 @@ shall be guilty of an offence.
 
 30\.—(1) An immigration officer may give such instructions as may be reasonably necessary to ensure that no passenger or member of a crew evades examination either of his person or effects.
 
-(2) Any person who without reasonable excuse refuses or fails to comply with any instructions given under subsection (1) shall be guilty of an offence.
+(2) Any person who, without reasonable excuse, refuses or fails to comply with any instructions given under subsection (1) shall be guilty of an offence.
 
 ## PART V
 
@@ -837,13 +818,11 @@ REMOVAL FROM SINGAPORE
 
 ### Removal of prohibited immigrants from Singapore
 
-31\.—(1) If during the examination of any person arriving in Singapore or after such inquiry as may be necessary that person is found to be a prohibited immigrant, the Controller shall, subject to the provisions of the regulations, prohibit him from disembarking or may in his discretion detain him at an immigration depot or other place designated by the Controller and that person shall be liable to be removed from Singapore to his place of embarkation or to the country of his birth or citizenship or to any other port or place designated by the Controller.
-
-[Act 38 of 1993 wef 22/04/1994]
+31\.—(1) If during the examination of any person arriving in Singapore or after such inquiry as may be necessary that person is found to be a prohibited immigrant, the Controller shall, subject to the provisions of the regulations, prohibit him from disembarking or may, in his discretion, detain him at an immigration depot or other place designated by the Controller and that person shall be liable to be removed from Singapore to his place of embarkation or to the country of his birth or citizenship or to any other port or place designated by the Controller.
 
 (2) For the purposes of this Part, any reference to a person who has arrived in Singapore includes a reference to a person who has arrived but has not yet entered Singapore.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Power of Controller to remove prohibited immigrants
 
@@ -859,45 +838,45 @@ REMOVAL FROM SINGAPORE
 
 (4) Without prejudice to the generality of subsection (3), the Controller may, by order in writing, direct the person against whom an order under this section is made, not to move his vessel, aircraft or train unless the prohibited immigrant named in that order is on board the vessel, aircraft or train.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Removal of illegal immigrants
 
-32\. Any person who is convicted of an offence under section 5, 6, 8 or 9 shall be liable to be removed from Singapore by order of the Controller:
+32\.—(1) Any person who is convicted of an offence under section 5, 6, 8 or 9 shall be liable to be removed from Singapore by order of the Controller.
 
-Provided that no citizen of Singapore convicted of an offence under section 5 shall be ordered to be removed from Singapore under this section.
+(2) No citizen of Singapore convicted of an offence under section 5 shall be ordered to be removed from Singapore under this section.
 
 ### Removal of persons unlawfully remaining in Singapore
 
-33\.—(1) Where the presence of any person in Singapore is unlawful by reason of section 15 or 62 that person shall, whether or not any proceedings are taken against him in respect of any offence under that section, be liable to be removed from Singapore by order of the Controller.
+33\.—(1) Where the presence of any person in Singapore is unlawful by reason of section 15 or 62, that person shall, whether or not any proceedings are taken against him in respect of any offence under that section, be liable to be removed from Singapore by order of the Controller.
 
-(2) Any person in respect of whom an order of removal has been made under subsection (1) may appeal to the Minister in such manner and within such time as may be prescribed:
+(2) Any person in respect of whom an order of removal has been made under subsection (1) may appeal to the Minister in such manner and within such time as may be prescribed.
 
-Provided that there shall be no appeal under this subsection against an order of removal under subsection (1) made in respect of any person whose presence in Singapore is unlawful under section 15 or 62 by reason of the expiry of any pass relating to or issued to him.
+(3) There shall be no appeal under subsection (2) against an order of removal under subsection (1) made in respect of any person whose presence in Singapore is unlawful under section 15 or 62 by reason of the expiry of any pass relating to or issued to him.
 
-(3) An appeal under subsection (2) shall not operate as a stay of execution of any order of removal under subsection (1).
+(4) An appeal under subsection (2) shall not operate as a stay of execution of any order of removal under subsection (1).
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
-(4) Where an order of removal under subsection (1) has been made in respect of any person, any permit, certificate or pass to enter or remain in Singapore issued to him under this Act or the regulations shall cease to be valid.
+(5) Where an order of removal under subsection (1) has been made in respect of any person, any permit, certificate or pass to enter or remain in Singapore issued to him under this Act or the regulations shall cease to be valid.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
-(5) Nothing in this Part or the regulations shall require the Minister, the Controller or any other public servant to disclose any fact, produce any document or assign any reason for the making of any removal order under this Part which he considers it to be against the public interest to do so.
+(6) Nothing in this Part or the regulations shall require the Minister, the Controller or any other public servant to disclose any fact, produce any document or assign any reason for the making of any removal order under this Part which he considers it to be against the public interest to do so.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Detention of persons ordered to be removed
 
-34\.—(1) Where any person is ordered to be removed from Singapore under the provisions of this Act, it shall be lawful for the Controller to order that person to be detained in custody for such period as may be necessary for the purpose of making arrangements for his removal:
+34\.—(1) Where any person is ordered to be removed from Singapore under the provisions of this Act, it shall be lawful for the Controller to order that person to be detained in custody for such period as may be necessary for the purpose of making arrangements for his removal.
 
-Provided that any person detained under this subsection who appeals under section 33(2) against the order of removal may, in the discretion of the Controller, be released, pending the determination of his appeal, on such conditions as to furnishing security or otherwise as the Controller may think fit.
+(2) Any person detained under subsection (1) who appeals under section 33(2) against the order of removal may, in the discretion of the Controller, be released, pending the determination of his appeal, on such conditions as to furnishing security or otherwise as the Controller may think fit.
 
-(2) Subject to the determination of any appeal under section 33, any person who is ordered to be removed from Singapore may be placed on board a suitable vessel, aircraft or train by any police officer or immigration officer, and may be lawfully detained on board that vessel, aircraft or train, so long as the vessel, aircraft or train is within the limits of Singapore.
+(3) Subject to the determination of any appeal under section 33, any person who is ordered to be removed from Singapore may be placed on board a suitable vessel, aircraft or train by any police officer or immigration officer, and may be lawfully detained on board that vessel, aircraft or train, so long as the vessel, aircraft or train is within the limits of Singapore.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
-(3) Any person who is detained in custody in pursuance of an order made by the Controller under subsection (1) may be so detained in any prison, police station or immigration depot, or in any other place appointed for the purpose by the Controller.
+(4) Any person who is detained in custody in pursuance of an order made by the Controller under subsection (1) may be so detained in any prison, police station or immigration depot, or in any other place appointed for the purpose by the Controller.
 
 ### Power to arrest person liable to removal
 
@@ -907,9 +886,11 @@ Provided that any person detained under this subsection who appeals under sectio
 
 ### Unlawful return after removal
 
-36\. Any person who, having been removed or otherwise lawfully sent out of Singapore, enters or resides in Singapore without the permission in writing of the Controller shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not less than one year and not more than 3 years and shall also be liable to a fine not exceeding $6,000, and shall in addition be liable to be removed from Singapore.
+36\. Any person who, having been removed or otherwise lawfully sent out of Singapore, enters or resides in Singapore without the permission in writing of the Controller shall be guilty of an offence and shall on conviction be punished with imprisonment for a term of not less than one year and not more than 3 years and shall also be liable to a fine not exceeding $6,000, and shall in addition be liable to be removed from Singapore.
 
 [35/84]
+
+[S 22/89]
 
 ## PART VI
 
@@ -925,7 +906,7 @@ MISCELLANEOUS
 
 38\.—(1) Every immigration officer appointed under this Act shall have the authority and powers of a police officer to enforce any of the provisions of this Act relating to arrest, detention or removal.
 
-(2) Every immigration officer shall have authority to appear in court and conduct any prosecution in respect of any offence under this Act or the regulations.
+(2) Every immigration officer shall have the authority to appear in court and conduct any prosecution in respect of any offence under this Act or the regulations.
 
 ### Power to summon witnesses, etc.
 
@@ -945,9 +926,9 @@ MISCELLANEOUS
 
 (c) any writ of habeas corpus; or
 
-(d) any other suit or action relating to or arising out of any decision made or act done in pursuance of any power conferred upon the Minister or Controller by any provision of this Act.
+(d) any other suit or action relating to or arising out of any decision made or act done in pursuance of any power conferred upon the Minister or the Controller by any provision of this Act.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Duty of police officers to execute orders
 
@@ -965,37 +946,37 @@ MISCELLANEOUS
 
 (3) Where there has been any contravention of subsection (2), the master, owner, charterer, agent or consignee of the vessel, aircraft or train in which the person concerned was employed shall be liable for the maintenance of that person and for the cost of his repatriation to his place of birth or citizenship or, if the master, owner, charterer, agent or consignee so elects, to such other place as may be approved by the Controller.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
-### Signing on or bringing as one of the crew any person with intent to land contrary to this Act
+### Signing on or bringing as member of the crew any person with intent to land contrary to this Act
 
-42\. Any transportation company and any person, including the master and the owner of a vessel, aircraft or train arriving in Singapore, who has knowingly signed on the ship’s articles or brought to Singapore as a member of the crew of the vessel, aircraft or train any person with intent to permit that person to enter Singapore contrary to the provisions of this Act or the regulations, or who represents to an immigration officer that that person is a bona fide member of the crew of the vessel, aircraft or train, shall be guilty of an offence and shall be liable on conviction to a fine, in respect of each such person, not exceeding $4,000 and not less than $200.
+42\. Any transportation company and any person, including the master and the owner of a vessel, aircraft or train arriving in Singapore, who has knowingly signed on the ship’s articles or brought to Singapore as a member of the crew of the vessel, aircraft or train any person with intent to permit that person to enter Singapore contrary to the provisions of this Act or the regulations, or who represents to an immigration officer that that person is a bona fide member of the crew of the vessel, aircraft or train, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 and not less than $200 in respect of each such person.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Security to prevent unlawful landing
 
 43\.—(1) An immigration officer may demand security from the master, owner, charterer or agent or consignee of any vessel, aircraft or train from which he has reasonable grounds to believe that any person is about to disembark in or enter Singapore in contravention of the provisions of this Act or the regulations, and may refuse to release the vessel, aircraft or train from examination until the security is furnished.
 
-[Act 38 of 1993 wef 22/04/1994]
+(2) The Controller may, if satisfied that any person has disembarked in or entered Singapore from any vessel, aircraft or train, in respect of which security has been furnished under subsection (1), in contravention of any provisions of this Act or the regulations, direct the forfeiture of the security or any part thereof.
 
-(2) The Controller may, if satisfied that any person has disembarked in or entered Singapore from any vessel, aircraft or train, in respect of which security has been furnished under subsection (1), in contravention of any provisions of this Act or the regulations, direct the forfeiture of the security or any part thereof:
+[38/93]
 
-Provided that the Controller shall not direct the forfeiture of any security under this subsection if he is satisfied that the master, owner, charterer, agent or consignee took every reasonable precaution to prevent any person from so disembarking in or entering Singapore.
+(3) The Controller shall not direct the forfeiture of any security under subsection (2) if he is satisfied that the master, owner, charterer, agent or consignee took every reasonable precaution to prevent any person from so disembarking in or entering Singapore.
 
-[Act 38 of 1993 wef 22/04/1994]
+(4) Where an immigration officer in lieu of requiring a deposit under subsection (1) requires security by a bond with or without sureties, then the bond shall be in the prescribed form.
 
-(3) Where an immigration officer in lieu of requiring a deposit under subsection (1) requires security by a bond with or without sureties then the bond shall be in the prescribed form.
+[38/93]
 
 ### Reports as to persons failing to continue their journey
 
 44\.—(1) Where any through passenger on or member of the crew of any vessel, aircraft or train fails to continue his journey in the vessel, aircraft or train in circumstances from which it may reasonably be inferred that the passenger or member of the crew has remained in Singapore, the master of the vessel, aircraft or train, as the case may be, shall notify an immigration officer or a police officer of the failure of the passenger or member of the crew to continue his journey.
 
+(2) Any master who fails to comply with subsection (1) shall be guilty of an offence.
+
 [21/73]
 
-[Act 38 of 1993 wef 22/04/1994]
-
-(2) Any master who fails to comply with subsection (1) shall be guilty of an offence.
+[38/93]
 
 ### Repatriation
 
@@ -1023,55 +1004,49 @@ may apply to the Controller for the repatriation of himself and his family (if a
 
 (a) enters Singapore from any vessel, aircraft or train contrary to the provisions of this Act or the regulations; or
 
-[Act 38 of 1993 wef 22/04/1994]
-
 (b) disembarks from any vessel, aircraft or train on which he has been re-embarked or to which he has been returned under section 19, 20, 24, 25 or 25A,
 
 the master, owner, charterer and agent thereof shall be jointly and severally liable for all expenses incurred by the Government in respect of the detention and maintenance of the person and his removal from Singapore and the expenses shall be recoverable as a debt due to the Government from the master, owner, charterer and agent of the vessel, aircraft or train jointly and severally.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Obligation to afford free passage
 
-47\.—(1) When an order of removal is made under the provisions of this Act in respect of any person who has entered Singapore contrary to the provisions of this Act or the regulations, and the person was brought to Singapore in a vessel, aircraft or train, the master of the vessel, aircraft or train, and also the master of any vessel, aircraft or train belonging to the same owners or chartered by the same charterers, shall, if required in writing by the Controller, receive the person on board his vessel, aircraft or train and afford him free of charge a passage to the port or place at which the person embarked for Singapore or to any other port or place designated by the Controller and proper accommodation and maintenance during the voyage, flight or journey:
+47\.—(1) When an order of removal is made under the provisions of this Act in respect of any person who has entered Singapore contrary to the provisions of this Act or the regulations, and the person was brought to Singapore in a vessel, aircraft or train, the master of the vessel, aircraft or train, and also the master of any vessel, aircraft or train belonging to the same owners or chartered by the same charterers, shall, if required in writing by the Controller, receive the person on board his vessel, aircraft or train and afford him free of charge a passage to the port or place at which the person embarked for Singapore or to any other port or place designated by the Controller and proper accommodation and maintenance during the voyage, flight or journey.
 
-Provided that no such master shall be liable as aforesaid unless the order of removal has been made by the Controller within 12 months from the date on which the person entered Singapore.
+(2) No master shall be liable under subsection (1) unless the order of removal has been made by the Controller within 12 months from the date on which the person entered Singapore.
 
-[Act 38 of 1993 wef 22/04/1994]
+(3) A master of a vessel, aircraft or train who fails to comply with this section shall be guilty of an offence.
 
-(2) A master of a vessel or aircraft who fails to comply with this section shall be guilty of an offence.
+[38/93]
 
 ### Power to detain vessel
 
 48\.—(1) The Controller may by writing under his hand authorise the Director of Marine to detain any vessel in connection with which an offence under this Act is reasonably believed to have been or to be about to be committed, and the vessel may then be detained either at the place where it is found or at any place to which the Controller may order it to be brought. The Controller shall give notice to the master, owner, charterer or agent of the vessel of the detention of the vessel.
 
-(2) For the purposes of the detention and other lawful dealing with the vessel the Director of Marine shall have power to muster the crew and may, if he considers it necessary to do so, place a police guard on board.
+(2) For the purposes of the detention and other lawful dealing with the vessel, the Director of Marine shall have power to muster the crew and may, if he considers it necessary to do so, place a police guard on board.
 
 (3) The detention shall be for safe custody only, and shall cease if a bond with two sufficient sureties to the satisfaction of the Controller is given by the master, owner, charterer or agent of the vessel for the payment of any fine, costs, expenses or charges incurred under this Act in respect of any offence or default thereunder.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
-(4) If default is made in the payment of any such fine, costs or charges the Director of Marine may seize the vessel and the vessel shall be declared forfeited to the Government by order of a court of competent jurisdiction upon the application of the Attorney-General. Any vessel so forfeited shall be sold free of all encumbrances.
+(4) If default is made in the payment of any such fine, costs, expenses or charges, the Director of Marine may seize the vessel and the vessel shall be declared forfeited to the Government by order of a court of competent jurisdiction upon the application of the Attorney-General. Any vessel so forfeited shall be sold free of all encumbrances.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 (5) The proceeds of sale of a vessel under this section shall, notwithstanding any rule of law relating to priority of claims, be applied first in payment of any fine, costs, expenses or charges incurred under this Act and of any costs incurred in and about the sale and the proceedings leading thereto, and the balance shall be paid to the owner of the vessel or other person lawfully entitled to the proceeds thereof.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
-(6) Section 3(1)(r) of the High Court (Cap. 123) (Admiralty Jurisdiction) Act shall be construed as extending to any claim in respect of a liability incurred by the owner of a ship under this Act.
+(6) Section 3(1)(r) of the High Court (Admiralty Jurisdiction) Act [Cap. 123] shall be construed as extending to any claim in respect of a liability incurred by the owner of a ship under this Act.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Power to seize, detain and forfeit vehicles or vessels below 76 tonnes
 
 49\.—(1) Any vehicle or vessel below 76 tonnes which is used or in respect of which there is reasonable cause to suspect that it has been or that it is about to be used in the commission of any offence under this Act or the regulations may be seized and detained by the Controller or any immigration officer, authorised in that behalf by the Controller in writing under his hand, at any place either on land or in the territorial waters of Singapore.
 
-[60/73; 13/77; S 353/75]
-
-(2) The seizing officer shall forthwith give notice in writing of the seizure and the grounds thereof to the owner, charterer or agent of the vehicle or vessel so seized or detained, either by delivering the notice to him in person or by post at his place of office or abode, if known:
-
-Provided that the notice shall not be required to be given where the seizure or detention is made in the presence of or with the knowledge of the offender or the owner or his agent, as the case may be.
+(2) The seizing officer shall forthwith give notice in writing of the seizure and the grounds thereof to the owner, charterer or agent of the vehicle or vessel so seized or detained, either by delivering the notice to him in person or by post at his place of office or abode, if known except that the notice shall not be required to be given where the seizure or detention is made in the presence of or with the knowledge of the offender or the owner or his agent, as the case may be.
 
 (3) Any vehicle or vessel liable to seizure or detention under subsection (1) shall be liable to forfeiture.
 
@@ -1081,13 +1056,19 @@ Provided that the notice shall not be required to be given where the seizure or 
 
 (6) The Controller may sell any vehicle or vessel forfeited under this section. The proceeds of the sale shall, after payment of the expenses of the sale, be applied in payment of any fine, costs or charges incurred under this Act and any balance remaining shall be paid into the Consolidated Fund.
 
+[60/73]
+
+[13/77]
+
+[S 353/75]
+
 ### Power of interrogation
 
-50\.—(1) Any person reasonably believed to be a person liable to removal from Singapore under any of the provisions of this Act may be questioned by an immigration officer, and the person shall fully and truthfully answer all questions and enquiries put to him by the immigration officer tending directly or indirectly to establish his identity, nationality or occupation or bearing on any of the restrictions contained in this Act or the regulations, and shall disclose and produce to the officer on demand all documents in his possession relating to those matters.
+50\.—(1) Any person reasonably believed to be a person liable to removal from Singapore under any of the provisions of this Act may be questioned by an immigration officer, and the person shall fully and truthfully answer all questions and enquiries put to him by the immigration officer tending, directly or indirectly, to establish his identity, nationality or occupation or bearing on any of the restrictions contained in this Act or the regulations, and shall disclose and produce to the officer on demand all documents in his possession relating to those matters.
 
-(2) All such answers and documents shall be admissible in evidence in any proceedings under this Act against the person making or producing the same:
+(2) All such answers and documents shall be admissible in evidence in any proceedings under this Act against the person making or producing the same.
 
-Provided that nothing in this section shall be construed as rendering any such answer inadmissible in any other proceedings in which they would otherwise be admissible.
+(3) Nothing in this section shall be construed as rendering any such answer inadmissible in any other proceedings in which they would otherwise be admissible.
 
 ### Power of search and arrest
 
@@ -1099,39 +1080,35 @@ Provided that nothing in this section shall be construed as rendering any such a
 
 if he has reason to believe that any evidence of the commission of an offence under this Act or the regulations is likely to be found on the premises or person or in the vehicle, vessel, aircraft or train, and may seize any evidence so found.
 
-[21/73; 13/77]
-
-[Act 38 of 1993 wef 22/04/1994]
-
 (2) No woman shall be searched under this section except by a woman.
 
 (3) Any police officer, immigration officer or customs officer may arrest without warrant any person who he reasonably believes has committed an offence under this Act or the regulations.
 
-(4) Where any person is arrested by an immigration officer or by an officer of the Customs and Excise Department under subsection (3) the immigration officer or officer of that Department shall comply with sections 35 and 36 of the Criminal Procedure Code [Cap. 68] as if he were a police officer.
+(4) Where any person is arrested by an immigration officer or customs officer under subsection (3), the immigration officer or customs officer shall comply with sections 35 and 36 of the Criminal Procedure Code as if he were a police officer.
+
+[21/73]
+
+[13/77]
+
+[38/93]
 
 ### Person registered under Enlistment Act
 
 52\.—(1) An immigration officer may prevent any person from leaving Singapore and require him to surrender his passport to him if he has reason to believe that that person is a person subject to the Enlistment Act [Cap. 93] who has been registered under section 3 of that Act or is deemed to be registered or is liable to be registered under that Act and is attempting to leave Singapore without an exit permit issued by the proper authority.
 
+(2) For the purposes of this section, “person subject to the Enlistment Act” and “proper authority” shall have the meanings assigned to them by the Enlistment Act.
+
 [13/77]
-
-(2) For the purposes of this section “person subject to the Enlistment Act” and “proper authority” shall have the meanings assigned to them by the Enlistment Act.
-
-[51A
 
 ### Registration of particulars for purposes of identification
 
-53\. The provisions of the Registration of Criminals Act [Cap. 268] relating to persons ordered to be expelled from Singapore shall apply to persons ordered to be removed from Singapore under the provisions of this Act or persons who have been found guilty of an offence under section 57(a) to (e), and for the purpose of so applying that Act an immigration officer shall be deemed to be a police officer.
-
-[52
+53\. The provisions of the Registration of Criminals Act [Cap. 268] relating to persons ordered to be expelled from Singapore shall apply to persons ordered to be removed from Singapore under the provisions of this Act or persons who have been found guilty of an offence under section 57(1)(a), (b), (c), (d) or (e), and for the purpose of so applying that Act an immigration officer shall be deemed to be a police officer.
 
 [13/77]
 
 ### Counterfoils, etc., to be prima facie evidence
 
-54\. In any proceedings under this Act or at the hearing of any charge for an offence under this Act any counterfoil or counterpart of any permit, pass, certificate or other document issued under this Act or the regulations and purporting to be signed by the Controller or by an immigration officer generally or specially authorised in that behalf by the Controller may be produced in evidence without further proof and shall be prima facie evidence of the facts therein stated and shall unless the contrary be proved be presumed to be a true statement of the relevant contents of the permit, pass, certificate or other document to which it relates.
-
-[53
+54\. In any proceedings under this Act or at the hearing of any charge for an offence under this Act, any counterfoil or counterpart of any permit, pass, certificate or other document issued under this Act or the regulations and purporting to be signed by the Controller or by an immigration officer generally or specially authorised in that behalf by the Controller may be produced in evidence without further proof and shall be prima facie evidence of the facts therein stated and shall, unless the contrary be proved, be presumed to be a true statement of the relevant contents of the permit, pass, certificate or other document to which it relates.
 
 [13/77]
 
@@ -1167,21 +1144,17 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 (j) prescribing the fees to be charged upon the issue of any entry permit, re-entry permit, certificate or pass;
 
-(k) prescribing the penalties not exceeding imprisonment for 6 months or a fine of $1,000 or both for the breach of the regulations;
+(k) prescribing the penalties not exceeding imprisonment for 6 months or a fine of $1,000 or both for the breach of the regulations; and
 
 (l) generally for the better carrying into effect of the purposes and provisions of this Act.
 
-(2) All regulations made under this section shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication and if a resolution is passed within the next subsequent 3 months after the regulations are so presented disapproving the regulations or any part thereof, the regulations or such part thereof, as the case may be, shall thenceforth cease to have effect but without prejudice to the validity of anything previously done thereunder.
-
-[54
+(2) All regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazetteand if a resolution is passed within the next subsequent 3 months after the regulations are so presented disapproving the regulations or any part thereof, the regulations or such part thereof, as the case may be, shall thenceforth cease to have effect but without prejudice to the validity of anything previously done thereunder.
 
 ### Power to exempt from provisions of this Act
 
-56\.—(1) Nothwithstanding anything in this Act, the Minister may by order exempt any person or class of persons, either absolutely or conditionally, from all or any of the provisions of this Act and may in that order provide for any presumptions necessary in order to give effect thereto.
+56\.—(1) Notwithstanding anything in this Act, the Minister may by order exempt any person or class of persons, either absolutely or conditionally, from all or any of the provisions of this Act and may in that order provide for any presumptions necessary in order to give effect thereto.
 
 (2) Every order made under this section which relates to a class of persons shall be published in theGazette.
-
-[55
 
 ### Offences
 
@@ -1189,17 +1162,15 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 (a) attempts unlawfully to enter Singapore;
 
+[S 227/1995 wef 15/03/1995]
+
 (b) abets any person to enter or leave Singapore in contravention of the provisions of this Act or of the regulations;
 
 (c) engages in the business or trade of conveying to Singapore in or on any vehicle, vessel, aircraft or train any person whom he knows or has reasonable grounds for believing is a prohibited immigrant;
 
-[Act 38 of 1993 wef 22/04/1994]
-
 (d) harbours any person who has acted in contravention of the provisions of this Act or the regulations;
 
 (e) employs any person who has acted in contravention of section 6(1), 15 or 36 or the regulations;
-
-[Act 34 of 1989 wef 13/10/1989]
 
 (f) makes or causes to be made any false report, false statement or false representation in connection with any obligation imposed by the provisions of this Act or the regulations;
 
@@ -1215,35 +1186,37 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 (l) uses or without lawful authority has in his possession any forged, unlawfully altered or irregular entry or re-entry permit, pass or certificate or other document issued under this Act or the regulations, or any permit, pass or certificate or other document so issued on which any endorsement has been forged or unlawfully altered; or
 
-[Act 38 of 1993 wef 22/04/1994]
-
 (m) fails to comply with any order made under section 31A(1) or (4),
 
 shall be guilty of an offence and —
 
-(i) in the case of an offence under paragraph (a) shall be liable on conviction to imprisonment for a term of not less than 3 months and not more than 2 years and shall also be liable to a fine not exceeding $4,000;
+(i) in the case of an offence under paragraph (a), shall be punished with imprisonment for a term of not less than 3 months and not more than 2 years and shall also be liable to a fine not exceeding $4,000;
 
-(ii) subject to subsection (1A), in the case of an offence under paragraph (b), (d) or (e) shall be liable on conviction to imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000;
+(ii) subject to subsection (1A), in the case of an offence under paragraph (b), (d) or (e), shall be punished with imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000;
 
-[Act 34 of 1989 wef 13/10/1989]
+(iii) in the case of an offence under paragraph (c), shall be punished with imprisonment for a term of not less than 2 years and not more than 5 years and shall also be punished, subject to section 231 of the Criminal Procedure Code, with caning with not less than 3 strokes;
 
-(iii) in the case of an offence under paragraph (c) shall be punished with imprisonment for a term of not less than 2 years and not more than 5 years and shall also be punished, subject to section 231 of the Criminal Procedure Code (Cap. 68), with caning with not less than 3 strokes;
+(iv) in the case of an offence under paragraph (f), (g), (h), (i), (j), (k) or (l), shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both; and
 
-[Act 34 of 1989 wef 13/10/1989]
+[Act 41/95]
 
-(iv) in the case of an offence under paragraph (f), (g), (h), (i), (j), (k) or (l) shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both; and
+(v) in the case of an offence under paragraph (m), shall be liable on conviction to a fine of not less than $5,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[Act 38 of 1993 wef 22/04/1994]
+[12/70]
 
-(v) in the case of an offence under paragraph (m) shall be liable on conviction to a fine of not less than $5,000 and not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+[60/73]
 
-[12/70; 60/73; 13/77; 35/84]
+[13/77]
 
-[Act 38 of 1993 wef 22/04/1994]
+[35/84]
 
-(1A) Where in the case of any offence under subsection (1)(e), it is proved to the satisfaction of the court that the defendant has at the same time employed more than 5 persons with the actual knowledge that those persons have acted in contravention of section 6(1), 15 or 36, the defendant shall be punished, subject to section 231 of the Criminal Procedure Code (Cap. 68), with caning in addition to the punishment prescribed for that offence.
+[34/89]
 
-[Act 34 of 1989 wef 13/10/1989]
+[38/93]
+
+[S 22/89]
+
+(1A) Where, in the case of any offence under subsection (1)(e), it is proved to the satisfaction of the court that the defendant has at the same time employed more than 5 persons with the actual knowledge that those persons have acted in contravention of section 6(1), 15 or 36, the defendant shall be punished, subject to section 231 of the Criminal Procedure Code, with caning in addition to the punishment prescribed for that offence.
 
 (2) Where a body corporate is guilty of an offence under subsection (1)(e) and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
@@ -1253,9 +1226,9 @@ shall be guilty of an offence and —
 
 (4) Where the master of any vessel is charged with an offence under this Act, the clearance of the vessel may be refused until the charge has been heard and the fine (if any) imposed has been paid.
 
-(5) Where in any proceedings under this Act or the regulations it is proved that the defendant has failed to produce on demand by an immigration officer or a police officer —
+(5) Where, in any proceedings under this Act or the regulations, it is proved that the defendant has failed to produce on demand by an immigration officer or a police officer —
 
-(a) any valid permit, pass or certificate issued on him under this Act or the regulations;
+(a) any valid permit, pass or certificate issued to him under this Act or the regulations;
 
 (b) any other document accepted by the Controller as evidence that the defendant has entered or remained in Singapore lawfully; or
 
@@ -1263,33 +1236,29 @@ shall be guilty of an offence and —
 
 it shall be presumed, until the contrary is proved, that he has, as the case may be, entered or re-entered or remained in Singapore unlawfully.
 
-(6) Where in any proceedings for an offence under subsection (1)(c), it is proved that the defendant has conveyed any prohibited immigrant in any vehicle, vessel, aircraft or train, it shall be presumed, until the contrary is proved, that he is engaged in the business or trade of conveying to Singapore in or on that vehicle, vessel or aircraft that prohibited immigrant knowing him to be, or having reasonable grounds for believing him to be, a prohibited immigrant.
+(6) Where, in any proceedings for an offence under subsection (1)(c), it is proved that the defendant has conveyed any prohibited immigrant in any vehicle, vessel, aircraft or train, it shall be presumed, until the contrary is proved, that he is engaged in the business or trade of conveying to Singapore in or on that vehicle, vessel, aircraft or train that prohibited immigrant knowing him to be, or having reasonable grounds for believing him to be, a prohibited immigrant.
 
 [60/73]
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
-(7) Where in any proceedings for an offence under subsection (1)(d) it is proved that the defendant has given shelter to any person who has remained in Singapore unlawfully for a period exceeding 90 days after the expiration of any pass issued to him or who has entered Singapore in contravention of section 5(1) or 6(1), it shall be presumed, until the contrary is proved, that the defendant has harboured him knowing him to be a person who has acted in contravention of the provisions of this Act or the regulations.
+(7) Where, in any proceedings for an offence under subsection (1)(d), it is proved that the defendant has given shelter to any person who has remained in Singapore unlawfully for a period exceeding 90 days after the expiration of any pass issued to him or who has entered Singapore in contravention of section 5(1) or 6(1), it shall be presumed, until the contrary is proved, that the defendant has harboured him knowing him to be a person who has acted in contravention of the provisions of this Act or the regulations.
+
+[35/84]
 
 (8) Where a person who has acted in contravention of section 6, 15 or 36 or the regulations is found at any premises or place, other than premises used solely for residential purposes, and is in possession of any tools or implements or engaged in any activity which may give rise to the inference that he is doing any work, the occupier of the premises or place shall be presumed, until the contrary is proved, to have employed him knowing that he is a person who has acted in contravention of section 6, 15 or 36 or the regulations.
 
 (9) In any proceedings for an offence under subsection (1)(d) or (e), it shall not be a defence for the defendant to prove that the person harboured or employed by him was in possession of a pass or permit issued to the person under this Act or the regulations unless the defendant further proves that he had exercised due diligence to ascertain that the pass or permit was at the material time valid under this Act or the regulations.
 
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 (10) For the purposes of subsection (9), a defendant shall not be deemed to have exercised due diligence unless he had personally checked the passport or other travel document of the person whom he had harboured or employed and had reasonable ground to believe that —
 
 (a) the person harboured or employed by him had, at the material time, in force a pass or permit issued under this Act or the regulations; and
 
-(b) where such person is the holder of a visit pass, that person had, at the material time, in force a work permit issued under the Employment of Foreign Workers Act (Cap. 91A) or had obtained the written consent of the Controller to work in Singapore.
+(b) where such person is the holder of a visit pass, that person had, at the material time, in force a work permit issued under the Employment of Foreign Workers Act or had obtained the written consent of the Controller to work in Singapore.
 
-[56
-
-[35/84]
-
-[Act 6 of 1989 wef 31/03/1989]
-
-[Act 38 of 1993 wef 22/04/1994]
+[38/93]
 
 ### Offences by owners and tenants, etc.
 
@@ -1297,43 +1266,33 @@ it shall be presumed, until the contrary is proved, that he has, as the case may
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall on conviction be punished with imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000.
 
-[Act 6 of 1989 wef 31/03/1989]
-
 ### General penalty
 
 58\. Any person guilty of an offence under this Act for which no special penalty is provided shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[57
 
 ### Compounding of offences
 
 59\. The Controller or any immigration officer authorised by name or by office in that behalf by the Minister by notification in theGazettemay compound such offence under this Act or the regulations as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum of money not exceeding $500.
 
-[57A
+[35/84]
 
-[13/77; 35/84]
+[13/77]
 
 ### Trial of offences
 
 60\.—(1) All offences under this Act or the regulations shall be cognizable by a District Court or a Magistrate’s Court.
 
-(2) Any District Court or Magistrate’s Court may notwithstanding anything in the Criminal Procedure Code [Cap. 68] impose the full punishment prescribed for any offence except that a Magistrate’s Court shall not impose a sentence of imprisonment for a term exceeding 12 months.
-
-[58
+(2) Any District Court or Magistrate’s Court may, notwithstanding anything in the Criminal Procedure Code, impose the full punishment prescribed for any offence except that a Magistrate’s Court shall not impose a sentence of imprisonment for a term exceeding 12 months.
 
 ### Disposal of fees, fines and forfeitures
 
 61\. All fees levied, all fines imposed and recovered, all moneys forfeited and all costs and charges recovered under this Act shall be paid into the Consolidated Fund.
 
-[59
-
 ### Saving
 
 62\.—(1) Any person in Singapore whose presence is unlawful under the provisions of any previous written law for the time being in force in Singapore or any regulations or orders made thereunder shall be deemed to be unlawfully in Singapore for the purposes of this Act.
 
-(2) Any authority to enter Singapore granted under the provisions of any law in force immediately before the date of commencement of this Act and valid on that date shall be deemed to be a valid permit issued under the provisions of this Act but subject to any limitations imposed by that law.
-
-[60
+(2) Any authority to enter Singapore granted under the provisions of any law in force immediately before 16th April 1963 and valid on that date shall be deemed to be a valid permit issued under the provisions of this Act but subject to any limitations imposed by that law.
 
 ## LEGISLATIVE HISTORY
 
@@ -1412,3 +1371,6 @@ This Legislative History is provided for the convenience of users of the Immigra
 |||(Bill No. 32/93 published on 13 October 1993)|
 ||Date of Second and Third Readings|10 November 1993|
 ||Date of commencement|22 April 1994|
+|19.|**1995 Revised Edition—Immigration Act (Chapter 133)**|
+||(G.N. No. S 227/1995 — Rectification Order)||
+||Date of operation|15 March 1995|
