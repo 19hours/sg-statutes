@@ -1,16 +1,14 @@
-**Layout-Designs of Integrated Circuits Act 1999**
+**Layout-Designs of Integrated Circuits Act**
 
-**(No. 3 of 1999)**
+**(CHAPTER 159A)**
 
 **Table of Contents**
 
 [**Long Title**](#Layout-Designs-of-Integrated-Circuits-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -82,49 +80,31 @@
 
 - [31 Designation of qualifying countries](#Designation-of-qualifying-countries)
 
-- [32 Consequential amendment](#Consequential-amendment)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+[**Comparative Table**](#Comparative-Table)
 
-GOVERNMENT GAZETTE
+# Layout-Designs of Integrated Circuits Act
 
-ACTS SUPPLEMENT
+(CHAPTER 159A)
 
-Published by Authority
+(Original Enactment: Act 3 of 1999)
 
-NO. 2]
+REVISED EDITION 2000
 
-Friday, February 5
+(30th December 2000)
 
-[1999
+An Act to provide for the protection of layout-designs of integrated circuits.
 
-The following Act was passed by Parliament on 20th January 1999 and assented to by the President on 26th January 1999:—
-
-Layout-Designs of Integrated Circuits Act 1999
-
-(No. 3 of 1999)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President.
-
-26th January 1999.
-
-Date of Commencement: 15th February 1999
-
-An Act to provide for the protection of layout-designs of integrated circuits and to make a consequential amendment to the Copyright Act (Chapter 63 of the 1988 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[15th February 1999]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Layout-Designs of Integrated Circuits Act 1999 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Layout-Designs of Integrated Circuits Act.
 
 ### Interpretation
 
@@ -208,9 +188,9 @@ PROTECTION OF LAYOUT-DESIGNS
 
 (b) in the case of a layout-design that consists of a combination of elements and interconnections that are commonplace, the combination, taken as a whole, is original in the sense that it is the result of its creator’s own intellectual effort and is not commonplace among creators of layout-designs and manufacturers of integrated circuits at the time of its creation.
 
-(2) Act protects all independently created layout-designs referred to in subsection (1), even if they are identical and, subject to section 7, regardless of when they are, on or after the commencement of this Act, created.
+(2) This Act protects all independently created layout-designs referred to in subsection (1), even if they are identical and, subject to section 7, regardless of when they are, on or after 15th February 1999, created.
 
-(3) This Act does not protect a layout-design that is created before the commencement of this Act.
+(3) This Act does not protect a layout-design that is created before 15th February 1999.
 
 (4) A layout-design shall be deemed not to have been created until it has been recorded in documentary form or incorporated into an integrated circuit, whichever is earlier.
 
@@ -274,7 +254,7 @@ LAYOUT-DESIGN RIGHTS AND INFRINGEMENT ACTION
 
 to do any of the acts referred to in section 8 in respect of that other layout-design; or
 
-(g) to commercially exploit a copy of the protected layout-design, an integrated circuit in which the layout-design is incorporated or an article that contains an integrated circuit in which the layout-design is incorporated after the copy, integrated circuit or article has been commercially exploited, whether in Singapore or elsewhere, by or with the consent of, the qualified owner.
+(g) to commercially exploit a copy of the protected layout-design, an integrated circuit in which the layout-design is incorporated or an article that contains an integrated circuit in which the layout-design is incorporated after the copy, integrated circuit or article has been commercially exploited, whether in Singapore or elsewhere, by, or with the consent of, the qualified owner.
 
 ### Innocent infringement
 
@@ -290,11 +270,11 @@ if, at the time when the person acquired the copy, integrated circuit or article
 
 (2) Where a person referred to in subsection (1) becomes aware or could reasonably be expected to become aware that the copy was unauthorised, the integrated circuit was unauthorised or that the article contains an unauthorised integrated circuit, as the case may be, that subsection continues to apply to any subsequent commercial exploitation of the copy, integrated circuit or article if and only if he pays to the qualified owner such remuneration —
 
-(i) as is agreed;
+(a) as is agreed;
 
-(ii) as is determined by a method agreed between the person and the qualified owner; or
+(b) as is determined by a method agreed between the person and the qualified owner; or
 
-(iii) in default of agreement, as is determined by the Court on an application made by either of them.
+(c) in default of agreement, as is determined by the Court on an application made by either of them.
 
 (3) In this section —
 
@@ -418,13 +398,15 @@ DEALINGS WITH A LAYOUT-DESIGN RIGHT
 
 21\.—(1) Where any proceedings for infringement of a qualified owner’s right in a layout-design is brought by a qualified owner or an exclusive licensee and the proceedings relate wholly or partly to an infringement in respect of which they have concurrent rights of action, neither of them, without leave of the Court, may continue with the proceedings unless the other is joined as a plaintiff or added as a defendant.
 
-(2) A qualified owner shall, by post or otherwise, notify any exclusive licensee who has concurrent rights of action in respect of an infringement of a layout-design before applying for an order for delivery up under section 13, and the Court may, on the application of the exclusive licensee, make a delivery up order that it considers just having regard to the terms of the licence.
+(2) A qualified owner shall, by post or otherwise, notify any exclusive licensee who has concurrent rights of action in respect of an infringement of a layout-design before applying for an order for delivery up under section 13.
 
-(3) Subsection (1) shall not apply to an application by a qualified owner or exclusive licensee for interlocutory relief.
+(3) The Court may, on the application of the exclusive licensee, make a delivery up order that the Court considers just having regard to the terms of the licence.
 
-(4) A qualified owner or exclusive licensee who is added as a defendant pursuant to subsection (1) is not liable for costs in the proceedings unless he takes part in the proceedings.
+(4) Subsection (1) shall not apply to an application by a qualified owner or exclusive licensee for interlocutory relief.
 
-(5) Where any proceedings for infringement of a qualified owner’s right in a layout-design is brought and the proceedings relate wholly or partly to an infringement in respect of which a qualified owner and an exclusive licensee have concurrent rights of action —
+(5) A qualified owner or exclusive licensee who is added as a defendant under subsection (1) is not liable for costs in the proceedings unless he takes part in the proceedings.
+
+(6) Where any proceedings for infringement of a qualified owner’s right in a layout-design is brought and the proceedings relate wholly or partly to an infringement in respect of which a qualified owner and an exclusive licensee have concurrent rights of action —
 
 (a) the Court shall, in assessing damages, take into account the terms of the licence and any pecuniary remedy previously awarded or available to either of them in respect of the infringement;
 
@@ -432,7 +414,7 @@ DEALINGS WITH A LAYOUT-DESIGN RIGHT
 
 (c) the Court shall not, if an award of damages has been made or an account of profits has been directed in favour of either of them, direct that an account of profits be made in favour of the other in respect of the infringement.
 
-(6) Subsection (5) shall apply whether or not the qualified owner and the exclusive licensee are both parties to the proceedings.
+(7) Subsection (6) shall apply whether or not the qualified owner and the exclusive licensee are both parties to the proceedings.
 
 ## PART V
 
@@ -448,7 +430,7 @@ COMPULSORY LICENSING
 
 (2) An authorisation referred to in subsection (1) may be given before or after the acts in respect of which it is given have been done.
 
-(3) prejudice to the generality of the expression “public non-commercial purpose”, an act is done for a public non-commercial purpose if it is done —
+(3) Without prejudice to the generality of the expression “public non-commercial purpose”, an act is done for a public non-commercial purpose if it is done —
 
 (a) for the defence or national security of Singapore; or
 
@@ -456,7 +438,7 @@ COMPULSORY LICENSING
 
 ### Scope and nature of right under section 23
 
-24\.—(1) The right to do an act in relation to a protected layout-design pursuant to section 23 —
+24\.—(1) The right to do an act in relation to a protected layout-design under section 23 —
 
 (a) is both non-exclusive and non-assignable;
 
@@ -526,17 +508,44 @@ MISCELLANEOUS
 
 31\.—(1) The Minister may, by notification in theGazette, designate a country or territory as a qualifying country if he considers that provisions have been or will be made under the laws of that country or territory that will give to a qualified owner adequate protection in that country or territory in respect of a protected layout-design in which he has rights.
 
-(2) subsection (1), “qualified owner” means a person who is a qualified owner by virtue of a relationship to Singapore under the definition of “qualified person” in section 2.
+(2) In subsection (1), “qualified owner” means a person who is a qualified owner by virtue of a relationship to Singapore under the definition of “qualified person” in section 2.
 
-### Consequential amendment
+## LEGISLATIVE HISTORY
 
-32\. Section 7(1) of the Copyright Act (Cap. 63) is amended by deleting paragraph (c) of the definition of “artistic work” and substituting the following paragraph:
+Layout-Designs of Integrated Circuits Act
 
-“
+(CHAPTER 159A)
 
-(c) a work of artistic craftsmanship to which neither paragraph (a) nor (b) applies,
+This Legislative History is provided for the convenience of users of the Layout-Designs of Integrated Circuits Act. It is not part of this Act.
 
-but does not include a layout-design or an integrated circuit within the meaning of section 2 of the Layout-Designs of Integrated Circuits Act 1998.
+||||
+|:-|:-|:-|
+|1.|**Act 3 of 1999—Layout-Designs of Integrated Circuits Act 1999**|
+||Date of First Reading|23.11.98|
+|||(Bill No. 49/98 published on 24.11.98)|
+||Date of Second and Third Readings|20.1.99|
+||Date of commencement|15.2.99|
+|2.|**2000 Revised Edition—Layout-Designs of Integrated Circuits Act**|
+||Date of operation|30 December 2000|
+## COMPARATIVE TABLE
 
-”.
+Layout-Designs of Integrated Circuits Act
+
+(CHAPTER 159A)
+
+The following provisions in the Layout-Designs of Integrated Circuits Act 1999 (Act 3 of 1999) have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Layout-Designs of Integrated Circuits Act.
+
+2000 Ed\. 
+
+Act 3 of 1999 
+
+21 — (2) and (3)
+
+21 — (2)
+
+(4) to (7)
+
+(3) to (6)
 
