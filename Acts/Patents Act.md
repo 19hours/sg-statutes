@@ -220,7 +220,7 @@
 
 - [88 Evidence of Patent Co-operation Treaty and its instruments](#Evidence-of-Patent-Co-operation-Treaty-and-its-instruments)
 
-- [89 Convention countries](#Convention-countries)
+- [89 (Repealed)](#Repealed)
 
 [**Part XVII LEGAL PROCEEDINGS**](#Part-XVII)
 
@@ -320,6 +320,14 @@ PRELIMINARY
 
 “Convention on International Exhibitions” means the Convention relating to International Exhibitions signed in Paris on 22nd November 1928, as amended or supplemented by any protocol to that convention which is for the time being in force;
 
+“country” includes —
+
+(a) a colony, protectorate or territory subject to the authority or under the suzerainty of another country; or
+
+(b) a territory administered by another country under the trusteeship of the United Nations;
+
+[30/2001 wef 17/10/2001]
+
 “court” means the High Court;
 
 “date of filing”, in relation to —
@@ -358,6 +366,10 @@ PRELIMINARY
 
 “journal” has the same meaning as in section 115(4);
 
+“legal officer” means a person appointed as a legal officer in the Singapore Legal Service;
+
+[30/2001 wef 17/10/2001]
+
 “mortgage”, when used as a noun, includes a charge for securing money or money’s worth and, when used as a verb, shall be construed accordingly;
 
 “Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act 2001;
@@ -380,7 +392,7 @@ PRELIMINARY
 
 “published” means made available to the public (whether in Singapore or elsewhere) and a document shall be taken to be published under any provision of this Act if it can be inspected as of right at any place in Singapore by members of the public, whether on payment of a fee or not; and “republished” shall be construed accordingly;
 
-“register”, when used as a noun, means the register of patents kept under section 42 and, when used as a verb, means, in relation to any thing, to register or register particulars, or enter notice, of that thing in the register and, when used in relation to a person, means to enter his name in the register;
+“register”, when used as a noun, means the register of patents maintained under section 42 and, when used as a verb, means, in relation to any thing, to register or register particulars, or enter notice, of that thing in the register and, when used in relation to a person, means to enter his name in the register;
 
 “registered patent agent” means a person whose name is entered in the register of patent agents kept in accordance with the rules made under section 104;
 
@@ -584,7 +596,15 @@ PATENTABILITY
 
 (a) an application for a patent under this Act; or
 
-(b) an application in or for a convention country specified under section 89 for protection in respect of an invention or an application which, in accordance with the law of a convention country or a treaty or international convention to which a convention country is a party, is equivalent to such an application.
+(b) an application in or for a convention country for protection in respect of an invention or an application which, in accordance with the law of a convention country or a treaty or international convention to which a convention country is a party, is equivalent to such an application.
+
+(6) In subsection (5), “convention country” means —
+
+(a) a country other than Singapore that is a party to the Paris Convention or a member of the World Trade Organisation; or
+
+(b) any other country with which Singapore has entered into a treaty, convention, arrangement or engagement and which is declared by the Minister, by order published in theGazette, as a convention country.
+
+[30/2001 wef 17/10/2001]
 
 ### Disclosure of matter, etc., between earlier and later applications
 
@@ -742,7 +762,7 @@ but this subsection shall not prevent an application being initiated by document
 
 (b) those documents identify the applicant or applicants for the patent; and
 
-(c) those documents contain a description of the invention and one or more claims whether or not the description or the claim or claims complies with the other provisions of this Act and with any relevant rules.
+(c) those documents contain a description of the invention whether or not the description complies with the other provisions of this Act and with any relevant rules.
 
 (2) Every application for a patent shall be examined on filing to determine whether —
 
@@ -764,6 +784,10 @@ but this subsection shall not prevent an application being initiated by document
 
 (7) Nothing in subsection (5) shall be construed as affecting the power of the Registrar under section 107(1) to correct errors or mistakes with respect to the filing of drawings.
 
+(8) An application for a patent shall be treated as having been abandoned at the end of the prescribed period unless before that period ends the applicant files one or more claims for the purposes of the application.
+
+[30/2001 wef 17/10/2001]
+
 ### Publication of application
 
 27\.—(1) Subject to section 33, where an application has a date of filing, then, as soon as possible after the end of the prescribed period, the Registrar shall, unless the application is withdrawn, treated as having been abandoned or refused before preparations for its publication have been completed by the Registry, publish it as filed (including not only the original claims but also any amendments of those claims and new claims subsisting immediately before the completion of those preparations) and he may, if so requested by the applicant, publish it as aforesaid during that period, and in either event shall publish the fact and date of its publication in the journal.
@@ -780,7 +804,17 @@ PROCEDURE FOR GRANT OF PATENT
 
 ### Examination as to form
 
-28\.—(1) Where an application for a patent has a date of filing and is not withdrawn or treated as having been abandoned, the Registrar shall, as soon as practicable after the end of the prescribed period, examine the application so as to determine whether the application complies with those requirements of this Act and the rules which are designated by the rules as formal requirements for the purposes of this Act.
+28\.—(1) Where —
+
+(a) an application for a patent has a date of filing;
+
+(b) the application is not withdrawn or treated as having been abandoned; and
+
+(c) one or more claims for the purposes of the application have been filed in accordance with section 26(8),
+
+the Registrar shall, as soon as practicable after the end of the prescribed period, examine the application so as to determine whether the application complies with those requirements of this Act and the rules which are designated by the rules as formal requirements for the purposes of this Act.
+
+[30/2001 wef 17/10/2001]
 
 (2) Where, after an examination under subsection (1), it is determined that not all the formal requirements are complied with, the Registrar shall give the applicant an opportunity to make observations and to amend the application within such period as the Registrar may specify so as to comply with those requirements (subject, however, to section 84), and, if the applicant fails to do so, the Registrar may refuse the application.
 
@@ -946,15 +980,19 @@ PROVISIONS AS TO PATENTS AFTER GRANT
 
 ### Publication and certificate of grant
 
-35\.—(1) As soon as practicable after a patent has been granted under this Act, the Registrar shall publish in the journal a notice that it has been granted.
+35\.—(1) As soon as practicable after a patent has been granted under this Act, the Registrar shall —
 
-(2) The Registrar shall, as soon as practicable after he publishes a notice under subsection (1), send the proprietor of the patent a certificate in the prescribed form that the patent has been granted to the proprietor.
+(a) send to the proprietor of the patent a certificate in the prescribed form that the patent has been granted to the proprietor; and
 
-(3) The Registrar shall, at the same time as he publishes a notice under subsection (1) in relation to a patent, publish the specification of the patent, the names of the proprietor and (if different) the inventor and any other matters (including the prescribed information under sections 29 and 30) constituting or relating to the patent which in the Registrar’s opinion it is desirable to publish.
+(b) publish in the journal a notice that the patent has been granted.
+
+[30/2001 wef 17/10/2001]
+
+(3) The Registrar shall, at the same time as he publishes a notice under subsection (1) (b) in relation to a patent, publish the specification of the patent, the names of the proprietor and (if different) the inventor and any other matters (including the prescribed information under sections 29 and 30) constituting or relating to the patent which in the Registrar’s opinion it is desirable to publish.
 
 ### Term of patent
 
-36\.—(1) A patent granted under this Act shall be treated for the purposes of this Act as having been granted, and shall take effect on the date on which notice of its grant is published in the journal and, subject to subsection (2), shall continue in force until the end of the period of 20 years beginning with the date of filing the application for the patent or with such other date as may be prescribed.
+36\.—(1) A patent granted under this Act shall be treated for the purposes of this Act as having been granted, and shall take effect on the date of issue of the certificate of grant and, subject to subsection (2), shall continue in force until the end of the period of 20 years beginning with the date of filing the application for the patent or with such other date as may be prescribed.
 
 (2) A patent shall cease to have effect at the end of the prescribed period for the payment of any renewal fee if it is not paid within that period.
 
@@ -966,13 +1004,9 @@ PROVISIONS AS TO PATENTS AFTER GRANT
 
 (c) an act which would constitute the use of the patented invention for the services of the Government if the patent had not expired shall constitute that use.
 
-(4) Rules shall include provision requiring the Registrar to notify the registered proprietor of a patent that a renewal fee has not been received from him in the Registry before the end of the prescribed period and before the framing of the notification and requiring the proprietor of a patent in force by virtue of section 116(3) to furnish to the Registrar —
+(4) Rules shall include provision requiring the Registrar to notify the registered proprietor of a patent that a renewal fee has not been received from him in the Registry before the end of the prescribed period and before the framing of the notification.
 
-(a) where the patent is renewed for the first time under this section, a statutory declaration stating that the patent remains in force in the United Kingdom; and
-
-(b) for every subsequent renewal under this section, a statutory declaration stating that the patent has not been revoked in the United Kingdom,
-
-at the time of the payment of any renewal fee.
+[30/2001 wef 17/10/2001]
 
 ### Patent not to be impugned for lack of unity
 
@@ -1072,7 +1106,9 @@ shall be void unless it is in writing and is signed by or on behalf of the parti
 
 ### Register of patents
 
-42\.—(1) There shall be kept at the Registry a register of patents which shall comply with the rules made by virtue of this section and shall be kept in accordance with such rules.
+42\.—(1) The Registrar shall maintain a register of patents in accordance with the rules made by virtue of this section.
+
+[30/2001 wef 17/10/2001]
 
 (2) Without prejudice to any other provisions of this Act or the rules, the rules may make provision with respect to the following matters, including provision imposing requirements as to any of those matters:
 
@@ -1568,7 +1604,7 @@ INFRINGEMENT OF PATENTS
 
 (g) it consists of the import, use, disposal or offer to dispose of, of any patented product, or of any product obtained by means of a patented process or to which a patented process has been applied, which is produced by or with the consent (conditional or otherwise) of the proprietor of the patent or any person licensed by him, and for this purpose “patent” includes a patent granted in any country outside Singapore in respect of the same or substantially the same invention as that for which a patent is granted under this Act and “patented product”, “patented process” and “licensed” shall be construed accordingly.
 
-(3) In this section, “relevant ship” and “relevant aircraft, hovercraft or vehicle” mean respectively a ship and an aircraft, hovercraft or vehicle registered in, or belonging to, any country other than Singapore which is a party to the Paris Convention; and “exempted aircraft” means an aircraft to which section 5 of the Air Navigation Act [Cap. 6] applies.
+(3) In this section, “relevant ship” and “relevant aircraft, hovercraft or vehicle” mean respectively a ship and an aircraft, hovercraft or vehicle registered in, or belonging to, any country, other than Singapore, which is a party to the Paris Convention or a member of the World Trade Organisation; and “exempted aircraft” means an aircraft to which section 5 of the Air Navigation Act [Cap. 6] applies.
 
 ### Proceedings for infringement of patent
 
@@ -1728,7 +1764,7 @@ REVOCATION OF PATENTS AND VALIDITY PROCEEDINGS
 
 79\.—(1) The Registrar may, on the application of any interested person and on the payment of the prescribed fee, request the proprietor of a patent to furnish to the Registrar, within such period as the Registrar may specify, the prescribed information on all corresponding international applications or corresponding applications for a patent made by him or his predecessor in title at any prescribed patent office with respect to which details had been furnished to the Registrar under section 29(1)(c).
 
-(2) Where the proprietor of a patent has furnished the prescribed information under subsection (1) or where such information is available at the Registry, the Registrar shall as soon as practicable send to the interested person the prescribed information so furnished or available.
+(2) Where the proprietor of a patent has furnished the prescribed information under subsection (1) or where such information is in the Registrar’s possession or control, the Registrar shall as soon as practicable send to the interested person the prescribed information so furnished or available.
 
 (3) Where the proprietor of a patent fails without good cause to comply with the request of the Registrar under subsection (1), the Registrar may by order revoke the patent with effect from the date of the grant of the patent.
 
@@ -1950,11 +1986,7 @@ and any document purporting to be such a copy as is mentioned in paragraph (b) o
 
 (4) In this section, “legal proceedings” includes proceedings before the Registrar.
 
-### Convention countries
-
-89\.—(1) The Minister may, with a view to the fulfilment of any treaty, convention, arrangement or engagement, by order published in theGazettedeclare that any country specified in the order is a convention country for the purposes of section 17.
-
-(2) For the purposes of this section, every colony, protectorate and territory subject to the authority or under the suzerainty of another country, and every territory administered by another country under the trusteeship system of the United Nations shall be taken to be a country in the case of which a declaration may be made under this section.
+89\. [Deleted by Act 30/2001 wef 17/10/2001]
 
 ## PART XVII
 
@@ -2000,9 +2032,13 @@ but an appeal shall only lie to the Court of Appeal under this section if leave 
 
 ### Right of audience in patent proceedings
 
-94\.—(1) Any party to any proceedings before the Registrar under this Act or any treaty to which Singapore is a party may appear before the Registrar in person or be represented by an advocate and solicitor or a registered patent agent or, subject to section 105, by any other person whom he desires to represent him.
+94\.—(1) Any party to any proceedings before the Registrar under this Act or any treaty to which Singapore is a party may appear before the Registrar in person or be represented by an advocate and solicitor or a registered patent agent.
 
-(2) Without prejudice to the right of counsel to appear before the court, an advocate and solicitor who is not in actual practice and a registered patent agent shall each, notwithstanding anything in the Legal Profession Act [Cap. 161], have the right to appear and be heard on behalf of any party to an appeal under this Act from the Registrar to the court.
+(1A) The Government may be represented by a legal officer in any proceedings before the Registrar under this Act or any treaty to which Singapore is a party.
+
+[30/2001 wef 17/10/2001]
+
+(2) Without prejudice to the right of counsel to appear before the court, an advocate and solicitor who is not in actual practice shall, notwithstanding anything in the Legal Profession Act [Cap. 161], have the right to appear and be heard on behalf of any party to an appeal under this Act from the Registrar to the court.
 
 ### Extension of privilege for communications with solicitors relating to patent proceedings
 
@@ -2266,9 +2302,13 @@ MISCELLANEOUS AND GENERAL
 
 (k) excluding or varying the operation of the provisions of this Act in relation to international applications and applications for patents made under section 116;
 
-(l) requiring and regulating the translation of documents in connection with any application for a patent and the filing and authentication of any such translations; and
+(l) requiring and regulating the translation of documents in connection with any application for a patent and the filing and authentication of any such translations;
 
-(m) prescribing the scale of costs for proceedings before the Registrar.
+(m) prescribing the scale of costs for proceedings before the Registrar; and
+
+(n) prescribing anything that is required or permitted to be prescribed under this Act.
+
+[30/2001 wef 17/10/2001]
 
 (3) Rules may make different provisions for different cases.
 
@@ -2292,7 +2332,7 @@ MISCELLANEOUS AND GENERAL
 
 (3) Any certificate of registration issued under section 5 of the Registration of United Kingdom Patents Act and is in force immediately before 23rd February 1995, or issued after that date by virtue of subsection (1) or (2) shall continue in force and the patent to which the certificate relates shall be treated for the purposes of this Act as if it were a patent under this Act granted in pursuance of an application made under this Act and the proprietor of the patent shall accordingly have the same rights, remedies, privileges and obligations and subject to the same conditions (including the payment of any fee prescribed under section 36), as the proprietor of a patent under this Act subject to the following modifications:
 
-(a) the term of the patent shall date from the date of the patent in the United Kingdom and the patent shall subject to this Act remain in force for 20 years from that date and only so long as the patent has not been revoked in the United Kingdom;
+(a) the term of the patent shall date from the date of the patent in the United Kingdom and the patent shall subject to this Act remain in force for 20 years from that date and only so long as the patent has not been revoked in the United Kingdom before the date of commencement of the Patents (Amendment) Act 2001;
 
 (b) such other modifications as may be prescribed.
 
@@ -2340,3 +2380,8 @@ This Legislative History is provided for the convenience of users of the Patents
 |||(Bill No. 1/2001 published on 13 January 2001)|
 ||Date of Second and Third Readings|22 February 2001|
 ||Date of commencement|1 April 2001|
+|5.|**Act 30 of 2001—Patents (Amendment) Act 2001**|
+||Date of First Reading|25 July 2001|
+|||(Bill No. 28/2001 published on 26 July 2001)|
+||Date of Second and Third Readings|13 August 2001|
+||Date of commencement|17 October 2001 (except sections 6 and 14)|
