@@ -8,7 +8,7 @@
 
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short Title](#Short-Title)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -20,59 +20,59 @@
 
 - [5 Powers of Council](#Powers-of-Council)
 
-- [5A Protection from personal liability](#Protection-from-personal-liability)
+- [6 Protection from personal liability](#Protection-from-personal-liability)
 
-- [5B Public servants](#Public-servants)
+- [7 Public servants](#Public-servants)
 
 [**Part III FINANCIAL PROVISIONS**](#Part-III)
 
-- [6 Expenses](#Expenses)
+- [8 Expenses](#Expenses)
 
-- [6A Grants to Council](#Grants-to-Council)
+- [9 Grants to Council](#Grants-to-Council)
 
-- [7 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
+- [10 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
 
-- [8 Financial provisions](#Financial-provisions)
+- [11 Financial provisions](#Financial-provisions)
 
 [**Part IV LICENSING OF BUS SERVICES**](#Part-IV)
 
-- [9 Interpretation of this Part](#Interpretation-of-this-Part)
+- [12 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [10 Bus service licences](#Bus-service-licences)
+- [13 Bus service licences](#Bus-service-licences)
 
-- [11 Matters to be considered by Council](#Matters-to-be-considered-by-Council)
+- [14 Matters to be considered by Council](#Matters-to-be-considered-by-Council)
 
-- [12 Conditions of licence](#Conditions-of-licence)
+- [15 Conditions of licence](#Conditions-of-licence)
 
-- [13 Licensee to submit accounts](#Licensee-to-submit-accounts)
+- [16 Licensee to submit accounts](#Licensee-to-submit-accounts)
 
-- [14 Investigation into affairs of a licensee](#Investigation-into-affairs-of-a-licensee)
+- [17 Investigation into affairs of licensee](#Investigation-into-affairs-of-licensee)
 
-- [15 Procedure and powers of inspectors](#Procedure-and-powers-of-inspectors)
+- [18 Procedure and powers of inspectors](#Procedure-and-powers-of-inspectors)
 
-- [16 Report of inspector to be admissible in evidence](#Report-of-inspector-to-be-admissible-in-evidence)
+- [19 Report of inspector to be admissible in evidence](#Report-of-inspector-to-be-admissible-in-evidence)
 
-- [17 Costs of investigations](#Costs-of-investigations)
+- [20 Costs of investigations](#Costs-of-investigations)
 
-- [18 Offences](#Offences)
+- [21 Offences](#Offences)
 
-- [19 Suspension and cancellation of licence](#Suspension-and-cancellation-of-licence)
+- [22 Suspension and cancellation of licence](#Suspension-and-cancellation-of-licence)
 
 [**Part V BUS, TAXI AND RAPID TRANSIT SYSTEM FARES**](#Part-V)
 
-- [20 Bus, taxi and rapid transit systems fares.](#Bus-taxi-and-rapid-transit-systems-fares)
+- [23 Bus, taxi and rapid transit system fares](#Bus-taxi-and-rapid-transit-system-fares)
 
-- [21 Application for approval of fares](#Application-for-approval-of-fares)
+- [24 Application for approval of fares](#Application-for-approval-of-fares)
 
 [**Part VI MISCELLANEOUS PROVISIONS**](#Part-VI)
 
-- [22 Annual report](#Annual-report)
+- [25 Annual report](#Annual-report)
 
-- [23 Composition of offences](#Composition-of-offences)
+- [26 Composition of offences](#Composition-of-offences)
 
-- [24 Exemption](#Exemption)
+- [27 Exemption](#Exemption)
 
-- [25 Regulations](#Regulations)
+- [28 Regulations](#Regulations)
 
 [**FIRST SCHEDULE Constitution and Proceedings of Council**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Council)
 
@@ -80,17 +80,19 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Public Transport Council Act
 
 (CHAPTER 259B)
 
 (Original Enactment: Act 18 of 1987)
 
-REVISED EDITION 1988
+REVISED EDITION 2000
 
-(30th April 1988)
+(1st July 2000)
 
-An Act to provide for the establishment of the Public Transport Council to license bus services and approve bus, taxi and rapid transit system fares and for matters connected therewith.
+An Act to provide for the establishment of the Public Transport Council to provide for the licensing of bus services, bus service operators and ticket payment services, to regulate bus, taxi and rapid transit system fares and for matters connected therewith.
 
 [29/99 wef 28/08/1999]
 
@@ -100,7 +102,7 @@ An Act to provide for the establishment of the Public Transport Council to licen
 
 PRELIMINARY
 
-### Short Title
+### Short title
 
 1\. This Act may be cited as the Public Transport Council Act.
 
@@ -116,15 +118,13 @@ PRELIMINARY
 
 “fare”, in relation to a taxi, means the rate payable for hiring the taxi, and includes any surcharge approved by the Council as being payable for such hire;
 
-[29/99 wef 28/08/1999]
-
-“rapid transit system” has the same meaning as in the Rapid Transit Systems Act 1995;
-
-[Act 29/95 wef 01/09/1995 vide S 383/95]
+“rapid transit system” has the same meaning as in the Rapid Transit Systems Act (Cap. 263A);
 
 “public service vehicle” means a vehicle used or kept for use for the carriage of passengers for hire or reward, other than a vehicle constructed for use on fixed rails or specially prepared ways;
 
-“taxi” means a public service vehicle having a seating capacity of not more than 6 persons (including the driver), which plies for hire on any road and is hired under a contract, express or implied, for the use of each such vehicle as a whole or for the use of two or more persons who pay separate fares.
+“taxi” means a public service vehicle having a seating capacity of not more than 6 persons (including the driver), which plies for hire on any road and is hired under a contract, express or implied, for the use of each such vehicle as a whole or for the use of 2 or more persons who pay separate fares.
+
+[29/95; 29/99]
 
 ## PART II
 
@@ -144,15 +144,13 @@ PUBLIC TRANSPORT COUNCIL
 
 (a) to receive and consider applications for the issue of bus service licences;
 
-(b) to receive and consider applications for approval of bus, taxi and rapid transit systems fares;
+(b) to receive and consider applications for approval of bus, taxi and rapid transit system fares;
 
-[Act 29/95 wef 01/09/1995]
-
-(c) to regulate bus routes and bus, taxi and rapid transit systems fares; and
-
-[Act 29/95 wef 01/09/1995]
+(c) to regulate bus routes and bus, taxi and rapid transit system fares; and
 
 (d) to engage in such other activities and to perform such functions as the Minister may permit or assign to it by order published in theGazette.
+
+[29/95]
 
 ### Powers of Council
 
@@ -162,19 +160,23 @@ PUBLIC TRANSPORT COUNCIL
 
 (b) appoint and employ from time to time and on such terms and conditions as the Council may determine such officers, employees and agents as the Council thinks fit for the effective performance of its functions.
 
-[29/99 wef 28/08/1999]
+[29/99]
 
 ### Protection from personal liability
 
-5A\. No suit or legal proceedings shall lie personally against any member, officer or employee of the Council or other person acting under the direction of the Council for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+6\. No suit or legal proceedings shall lie personally against any member, officer or employee of the Council or other person acting under the direction of the Council for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
 
-[29/99 wef 28/08/1999]
+[5A
+
+[29/99]
 
 ### Public servants
 
-5B\. Every member, officer and employee of the Council shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+7\. Every member, officer and employee of the Council shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
 
-[29/99 wef 28/08/1999]
+[5B
+
+[29/99]
 
 ## PART III
 
@@ -182,23 +184,33 @@ FINANCIAL PROVISIONS
 
 ### Expenses
 
-6\. Except as otherwise provided, all expenses incurred in carrying out the purposes of this Act shall be met from the funds of the Council.
+8\. Except as otherwise provided, all expenses incurred in carrying out the purposes of this Act shall be met from the funds of the Council.
+
+[6
 
 ### Grants to Council
 
-6A\. For the purpose of enabling the Council to carry out its functions under this Act or any other written law, the Minister may from time to time make grants to the Council of such sums as he may determine out of moneys to be provided by Parliament.
+9\. For the purpose of enabling the Council to carry out its functions under this Act or any other written law, the Minister may from time to time make grants to the Council of such sums as he may determine out of moneys to be provided by Parliament.
 
-[29/99 wef 28/08/1999]
+[6A
+
+[29/99]
 
 ### Bank accounts and application of revenue
 
-7\.—(1) The Council shall open and maintain an account or accounts with such bank or banks as the Council thinks fit; and every such account shall be operated upon as far as practicable by cheque signed by such person or persons as may from time to time be authorised in that behalf by the Council.
+10\.—(1) The Council shall open and maintain an account or accounts with such bank or banks as the Council thinks fit.
 
-(2) The moneys of the Council shall be applied only in payment or discharge of expenses, obligations and liabilities of the Council and in making any payments that the Council is authorised or required to make.
+(2) Every such account shall be operated upon as far as practicable by cheque signed by such person or persons as may from time to time be authorised in that behalf by the Council.
+
+(3) The moneys of the Council shall be applied only in payment or discharge of expenses, obligations and liabilities of the Council and in making any payments that the Council is authorised or required to make.
+
+[7
 
 ### Financial provisions
 
-8\. The financial provisions set out in the Second Schedule shall have effect with respect to the Council.
+11\. The financial provisions set out in the Second Schedule shall have effect with respect to the Council.
+
+[8
 
 ## PART IV
 
@@ -206,7 +218,7 @@ LICENSING OF BUS SERVICES
 
 ### Interpretation of this Part
 
-9\. In this Part, unless the context otherwise requires —
+12\. In this Part, unless the context otherwise requires —
 
 “affairs”, in relation to a licensee, includes —
 
@@ -218,11 +230,11 @@ LICENSING OF BUS SERVICES
 
 (d) the circumstances under which a person acquired or disposed of or became entitled to acquire or dispose of shares in, debentures of or interests made available by the licensee;
 
-“licensee” means a person to whom a bus service licence has been granted under this Part and includes any company which an inspector appointed under this Part thinks necessary to investigate the affairs of the company pursuant to section 15(1);
+“licensee” means a person to whom a bus service licence has been granted under this Part and includes any company whose affairs an inspector appointed under this Part thinks necessary to investigate under section 18(1);
 
 “officer or agent”, in relation to a licensee, includes —
 
-(a) a director, banker, solicitor or auditor of the licensee;
+(a) a director, banker, solicitor or an auditor of the licensee;
 
 (b) a person who at any time —
 
@@ -240,19 +252,23 @@ LICENSING OF BUS SERVICES
 
 (d) where there are reasonable grounds for suspecting or believing that a person is a person referred to in paragraph (c), that person.
 
+[9
+
 ### Bus service licences
 
-10\.—(1) Subject to his Part, the Council may, in its discretion, grant to any person applying therefor a licence (referred to in this Part as a bus service licence) to provide a bus service upon the route or routes therein specified, irrespective of whether or not any such route or any part thereof is specified in any other bus service licence.
+13\.—(1) Subject to this Part, the Council may, in its discretion, grant to any person applying therefor a licence (referred to in this Part as a bus service licence) to provide a bus service upon the route or routes therein specified, irrespective of whether or not any such route or any part thereof is specified in any other bus service licence.
 
 (2) A bus service licence shall be for a period not exceeding 3 years and the fee to be paid therefor by the person to whom any such licence is granted shall be in accordance with a scale of fees to be prescribed by the Council.
 
 (3) All fees received by the Council under subsection (2) shall be paid into the Consolidated Fund.
 
-(4) From and after the grant of a bus service licence under this section, no bus, other than the buses of the licensee, shall ply for hire any route specified in the licence.
+(4) From and after the grant of a bus service licence under this section, no bus, other than the buses of the licensee, shall ply for hire along any route specified in the licence.
+
+[10
 
 ### Matters to be considered by Council
 
-11\. In exercising its discretion to grant or refuse a bus service licence in respect of any route or routes and its discretion to attach conditions to any such licence, the Council shall generally have regard to —
+14\. In exercising its discretion to grant or refuse a bus service licence in respect of any route or routes and its discretion to attach conditions to any such licence, the Council shall generally have regard to —
 
 (a) the financial standing of the applicant and his ability to maintain an adequate, satisfactory, safe and efficient service and, if the applicant is a company, the fact that its articles of association contain provisions to ensure that its board of directors shall at all times consist only of persons approved by the Council;
 
@@ -264,9 +280,11 @@ LICENSING OF BUS SERVICES
 
 (e) the needs of the area as a whole in relation to traffic (including the provision of adequate, safe, suitable and efficient services, the elimination of unnecessary or unsatisfactory services and the provision of unremunerative services) and the co-ordination of all forms of passenger transport.
 
+[11
+
 ### Conditions of licence
 
-12\.—(1) In granting a bus service licence, the Council may impose such conditions as it thinks fit, and may, in particular, impose conditions relating to —
+15\.—(1) In granting a bus service licence, the Council may impose such conditions as it thinks fit, and may, in particular , impose conditions relating to —
 
 (a) the timetable of the bus service and the number of buses to be provided;
 
@@ -278,37 +296,57 @@ LICENSING OF BUS SERVICES
 
 (e) the deposit of such security as may be determined by the Council for the due performance by the licensee of any obligations imposed upon him by the bus service licence or by this Act or any other written law.
 
-(2) All security under subsection (1)(e) shall be deposited by the licensee or by his bank pursuant to a bank guarantee with the Council.
+(2) Any security under subsection (1)(e) shall be deposited by the licensee or by his bank pursuant to a bank guarantee with the Council.
+
+[12
+
+[29/99]
 
 ### Licensee to submit accounts
 
-13\.—(1) Every licensee shall, within 3 months after the close of each financial year of the licensee’s undertaking or within such extended period as the Council may approve, submit a copy, certified by the licensee or if the licensee is a company by a director or by the manager or the secretary of the company, as the case may be, to be a true copy of the balance-sheet and of the profit and loss account for the financial year which have been respectively audited by the licensee’s auditors (including every document required by law to be annexed or attached thereto) together with a copy of the report of the auditors thereon (certified as aforesaid) and if the balance-sheet or account is in a language other than English there must also be annexed to it a translation in English certified to be a correct translation. If the balance-sheet or account did not comply with the requirements of the law as in force at the date of the audit, there shall be made such additions to and corrections in the copy in order to make it comply with the requirements, and the fact that the copy has been so amended shall be stated thereon.
+16\.—(1) Every licensee shall, within 3 months after the close of each financial year of the licensee’s undertaking or within such extended period as the Council may approve, submit a copy, certified by the licensee or, if the licensee is a company, by a director or by the manager or the secretary of the company, as the case may be, to be a true copy of the balance-sheet and of the profit and loss account for the financial year which have been respectively audited by the licensee’s auditors (including every document required by law to be annexed or attached thereto) together with a copy of the report of the auditors thereon (certified as aforesaid).
 
-(2) The licensee shall cause to be attached to the profit and loss account a statement or statements of the total revenue and expenditure of the licensee for the financial year containing such particulars and in such form as the Council may direct and such statement or statements shall be signed by the licensee or, if the licensee is a company, by not less than two of the directors of the company.
+(2) If the balance-sheet or account is in a language other than English, there must also be annexed to it a translation in English certified to be a correct translation.
 
-(3) The statement or statements referred to in subsection (2) shall be duly audited.
+(3) If the balance-sheet or account did not comply with the requirements of the law as in force at the date of the audit, there shall be made such additions to and corrections in the copy in order to make it comply with the requirements, and the fact that the copy has been so amended shall be stated thereon.
 
-(4) If any licensee fails to comply with this section, the licensee and, if the licensee is a company, every director and manager thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and the court may on the application made by the Council order the licensee and, if the licensee is a company, a director or manager thereof to lodge the balance-sheet and the profit and loss account and the statements referred to in subsections (1) and (2) within such time as the court may determine.
+(4) The licensee shall cause to be attached to the profit and loss account a statement or statements of the total revenue and expenditure of the licensee for the financial year containing such particulars and in such form as the Council may direct.
 
-(5) Nothing in this section shall prevent the Council from taking an action to suspend or cancel the bus service licence granted to the licensee or to forfeit the whole or any part of any security deposited with the Council by the licensee or by his bank pursuant to a bank guarantee in accordance with section 19 for a contravention of subsection (1), (2) or (3).
+(5) The statement or statements referred to in subsection (4) shall be signed by the licensee or, if the licensee is a company, by not less than 2 of the directors of the company and shall be duly audited.
 
-### Investigation into affairs of a licensee
+(6) If any licensee fails to comply with this section, the licensee and, if the licensee is a company, every director and manager thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and the court may on the application made by the Council order the licensee and, if the licensee is a company, a director or manager thereof to lodge the balance-sheet and the profit and loss account and the statements referred to in this section within such time as the court may determine.
 
-14\.—(1) The Council may appoint one or more inspectors to investigate the affairs of a licensee or such aspects of the affairs of a licensee as are specified in the instrument of appointment.
+(7) Nothing in this section shall prevent the Council from taking any action to suspend or cancel the bus service licence granted to the licensee or to forfeit the whole or any part of any security deposited with the Council by the licensee or by his bank pursuant to a bank guarantee in accordance with section 22 for a contravention of subsection (1), (2), (3), (4) or (5).
 
-(2) An inspector appointed by the Council may, and if so directed by the Council shall, make interim reports to the Council and on the conclusion of the investigation the inspector shall report his opinion on or in relation to the affairs that he has been appointed to investigate together with the facts upon which his opinion is based to the Council, and a copy of the report shall be forwarded by the Council to the registered office of the licensee.
+[13
 
-(3) The Council may, if it is of the opinion that it is necessary in the public interest to do, cause the report to be printed and published.
+[29/99]
+
+### Investigation into affairs of licensee
+
+17\.—(1) The Council may appoint one or more inspectors to investigate the affairs of a licensee or such aspects of the affairs of a licensee as are specified in the instrument of appointment.
+
+(2) An inspector appointed by the Council may, and if so directed by the Council shall, make interim reports to the Council and on the conclusion of the investigation the inspector shall report his opinion on or in relation to the affairs that he has been appointed to investigate together with the facts upon which his opinion is based to the Council.
+
+(3) A copy of the report shall be forwarded by the Council to the registered office of the licensee.
+
+(4) The Council may, if it is of the opinion that it is necessary in the public interest to do so, cause the report to be printed and published.
+
+[14
 
 ### Procedure and powers of inspectors
 
-15\.—(1) If an inspector appointed to investigate the affairs of a licensee which is a company thinks it necessary for the purposes of the investigation to investigate also the affairs of any other company which is or has at any relevant time been deemed to be or have been related to the licensee by virtue of section 6 of the Companies Act [Cap. 50], he shall have power to do so, and he shall report on the affairs of the other company so far as he thinks the results of the investigation thereof are relevant to the investigation of the affairs of the licensee.
+18\.—(1) If an inspector appointed to investigate the affairs of a licensee which is a company thinks it necessary for the purposes of the investigation to investigate also the affairs of any other company which is or has at any relevant time been deemed to be or have been related to the licensee by virtue of section 6 of the Companies Act (Cap. 50), he shall have power to do so.
 
-(2) The licensee and every officer and agent of the licensee shall, if required by an inspector appointed under this Part, produce to the inspector all books and documents in his custody or power and shall give to the inspector all assistance in connection with the investigation which he is reasonably able to give.
+(2) The inspector shall report on the affairs of the other company so far as he thinks the results of the investigation thereof are relevant to the investigation of the affairs of the licensee.
 
-(3) An inspector may, by notice in writing, require the licensee and any officer or agent of the licensee to appear for examination on oath or affirmation (which he is hereby authorised to administer) in relation to the business of the licensee and the notice may require the production of all books and documents in the custody or under the control of that licensee or officer or agent of that licensee.
+(3) The licensee and every officer and agent of the licensee shall, if required by an inspector appointed under this Part, produce to the inspector all books and documents in his custody or power and shall give to the inspector all assistance in connection with the investigation which he is reasonably able to give.
 
-(4) An inspector who pursuant to this section requires the production of all books and documents in the custody or power or under the control of an officer or agent of any licensee —
+(4) An inspector may, by notice in writing, require the licensee and any officer or agent of the licensee to appear for examination on oath or affirmation (which he is hereby authorised to administer) in relation to the business of the licensee.
+
+(5) The notice may require the production of all books and documents in the custody or under the control of that licensee or officer or agent of that licensee.
+
+(6) An inspector who pursuant to this section requires the production of all books and documents in the custody or power or under the control of an officer or agent of any licensee —
 
 (a) may take possession of all such books and documents;
 
@@ -316,25 +354,37 @@ LICENSING OF BUS SERVICES
 
 (c) shall permit the licensee to have access at all reasonable times to all such books and documents so long as they are in his possession.
 
-(5) If any licensee or any officer or agent of the licensee fails to comply with the requirements of any notice issued under subsection (3) or fails or refuses to answer any question which is put to him by an inspector with respect to the affairs of the licensee, the inspector may certify the failure or refusal under his hand to the court, which may thereupon inquire into the case and, after hearing any witnesses against or on behalf of the alleged offender, deal with him in like as if he had been guilty of contempt of the court.
+(7) If any licensee or any officer or agent of the licensee fails to comply with the requirements of any notice issued under subsection (4) or fails or refuses to answer any question which is put to him by an inspector with respect to the affairs of the licensee, the inspector may certify the failure or refusal under his hand to the court.
 
-(6) No person who is or has formerly been an officer or agent of a licensee shall be entitled to refuse to answer any question which is relevant or material to the investigation on the ground that his answer might tend to incriminate him but if he claims that the answer to any question might incriminate him and but for this subsection he would have been entitled to refuse to answer the question the answer to the question shall not be used in any subsequent criminal proceedings except in the case of a charge against him for making a false statement in answer to that question.
+(8) The court may thereupon inquire into the case and, after hearing any witnesses against or on behalf of the alleged offender, deal with him in like manner as if he had been guilty of contempt of the court.
 
-(7) Subject to subsection (6), a person shall be entitled to refuse to answer a question on the ground that the answer might tend to incriminate him.
+(9) No person who is or has formerly been an officer or agent of a licensee shall be entitled to refuse to answer any question which is relevant or material to the investigation on the ground that his answer might tend to incriminate him.
 
-(8) An inspector may cause notes of any examination under this Part to be recorded and reduced to writing and to be read to or by and signed by the person examined and any such signed notes may, except in the case of any answer which that person would not have been required to give but for subsection (6), thereafter be used in evidence in any legal proceedings against that person.
+(10) If a person referred to in subsection (9) claims that the answer to any question might incriminate him and but for that subsection he would have been entitled to refuse to answer the question, the answer to the question shall not be used in any subsequent criminal proceedings except in the case of a charge against him for making a false statement in answer to that question.
+
+(11) Subject to subsection (9), a person shall be entitled to refuse to answer a question on the ground that the answer might tend to incriminate him.
+
+(12) An inspector may cause notes of any examination under this Part to be recorded and reduced to writing and to be read to or by and signed by the person examined.
+
+(13) Any such signed notes may, except in the case of any answer which that person would not have been required to give but for subsection (9), thereafter be used in evidence in any legal proceedings against that person.
+
+[15
 
 ### Report of inspector to be admissible in evidence
 
-16\. A copy of the report of any inspector appointed under this Part certified as correct by the Council shall be admissible in any legal proceedings as evidence of the opinion of the inspector and of the facts upon which his opinion is based in relation to any matter contained in the report.
+19\. A copy of the report of any inspector appointed under this Part certified as correct by the Council shall be admissible in any legal proceedings as evidence of the opinion of the inspector and of the facts upon which his opinion is based in relation to any matter contained in the report.
+
+[16
 
 ### Costs of investigations
 
-17\. The expenses of and incidental to an investigation by an inspector appointed under this Part shall be paid out of the funds of the Council.
+20\. The expenses of and incidental to an investigation by an inspector appointed under this Part shall be paid out of the funds of the Council.
+
+[17
 
 ### Offences
 
-18\.—(1) Any person who with intent to defeat the purposes of this Part or to delay or obstruct the carrying out of an investigation under this Part —
+21\.—(1) Any person who with intent to defeat the purposes of this Part or to delay or obstruct the carrying out of an investigation under this Part —
 
 (a) destroys, conceals or alters any book, document or record of or relating to a licensee; or
 
@@ -352,9 +402,11 @@ the onus of proving that in so doing he had not acted with intent to defeat the 
 
 (3) If any person uses a bus or causes or permits a bus to be used in contravention of this Part, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $250 for every day during which the offence continues after conviction.
 
+[18
+
 ### Suspension and cancellation of licence
 
-19\. If any licensee —
+22\. If any licensee —
 
 (a) fails to comply with or fails to secure the compliance of his employees, agents or contractors with any of the conditions of his bus service licence or with this Part or any other written law relating to public service vehicles; or
 
@@ -366,33 +418,47 @@ the Council may, by notice in writing and without any compensation, do either or
 
 (ii) forfeit the whole or any part of any security deposited with the Council by the licensee or by his bank pursuant to a bank guarantee.
 
+[19
+
+[29/99]
+
 ## PART V
 
 BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
-### Bus, taxi and rapid transit systems fares.
+### Bus, taxi and rapid transit system fares
 
-20\.—(1) No person shall be entitled to demand and take any bus, taxi or rapid transit systems fare in excess of that approved by the Council.
+23\.—(1) No person shall be entitled to demand and take any bus, taxi or rapid transit system fare in excess of that approved by the Council.
 
-[Act 29/95 wef 01/09/1995]
+[29/95; 29/99]
 
-(2) Subsection (1) shall not prevent any person from demanding or taking a lower fare than that approved by the Council.
+(2) Subsection (1) shall not prevent any person from demanding or taking a lower fare than that approved by the Council .
+
+[29/99]
 
 (3) If any dispute arises as to the fare calculated according to distance, the dispute may be referred to the Council or to the officer-in-charge of any police station whose decision shall be final, and any certificate issued by the Council or the police officer with regard thereto shall be admissible in evidence.
 
+[29/99]
+
 (4) Any person who demands or takes or attempts to take any money in excess of such approved fare shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[29/99]
 
 (5) Any person who refuses to pay the approved fare when lawfully demanded shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[Act 29/95 wef 01/09/1995]
+[20
+
+[29/99]
 
 ### Application for approval of fares
 
-21\.—(1) An application for the Council’s approval of any bus, taxi or rapid transit system fare shall —
+24\.—(1) An application for the Council’s approval of any bus, taxi or rapid transit system fare shall —
 
 (a) be made in such form and manner as the Council may determine; and
 
 (b) be supported by such documents (including certified copies of any balance-sheet and profit and loss account, and any auditor’s report, relating to the applicant’s undertaking) as the Council may require.
+
+[29/99]
 
 (2) In considering any application for approval of any bus, taxi or rapid transit system fare, the Council shall take into account —
 
@@ -400,7 +466,9 @@ BUS, TAXI AND RAPID TRANSIT SYSTEM FARES
 
 (b) the need for public interest to be safeguarded.
 
-[29/99 wef 28/08/1999]
+[21
+
+[29/99]
 
 ## PART VI
 
@@ -408,33 +476,45 @@ MISCELLANEOUS PROVISIONS
 
 ### Annual report
 
-22\.—(1) The Council shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Council during the preceding financial year and containing such information relating to the proceedings and policy of the Council as the Minister may, from time to time, direct.
+25\.—(1) The Council shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Council during the preceding financial year and containing such information relating to the proceedings and policy of the Council as the Minister may, from time to time, direct.
+
+[29/99]
 
 (2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
 
-[29/99 wef 28/08/1999]
+[22
+
+[29/99]
 
 ### Composition of offences
 
-23\.—(1) The Council or any officer authorised by the Council may, in its or his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $200.
+26\.—(1) The Council or any officer authorised by the Council may, in its or his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $200 .
+
+[29/99]
 
 (2) All sums collected under this section shall be paid to the Council.
 
-[29/99 wef 28/08/1999]
+[23
+
+[29/99]
 
 ### Exemption
 
-24\. The Council may, in its discretion, by order published in theGazetteand subject to such conditions as it may impose, exempt any person or class of persons from all or any of the provisions of this Act or any regulations made thereunder.
+27\. The Council may, in its discretion, by order published in theGazetteand subject to such conditions as it may impose, exempt any person or class of persons from all or any of the provisions of this Act or any regulations made thereunder.
 
-[29/99 wef 28/08/1999]
+[24
+
+[29/99]
 
 ### Regulations
 
-25\.—(1) The Council may, with the approval of the Minister, make regulations for, or in respect of, every purpose which is considered by the Council necessary or expedient for carrying out the provisions of this Act.
+28\.—(1) The Council may, with the approval of the Minister, make regulations for, or in respect of, every purpose which is considered by the Council necessary or expedient for carrying out the provisions of this Act.
+
+[29/99]
 
 (2) Without prejudice to the generality of subsection (1), the Council may make regulations for all or any of the following purposes:
 
-(a) to prescribe the manner and form in which applications for bus service licences are to be made, the documents to be submitted in support of such applications and the form of such licences;
+(a) to prescribe the manner and form in which applications for bus service licencesare to be made, the documents to be submitted in support of such applications and the form of such licences;
 
 (b) to prescribe a scale of fees for bus service licences;
 
@@ -446,15 +526,19 @@ MISCELLANEOUS PROVISIONS
 
 (f) to control and regulate the conduct of the officers and employees of the Council;
 
-(g) to prescribe the offences under this Act or any regulations made thereunder which may be compounded under section 23.
+(g) to prescribe the offences under this Act or any regulations made thereunder which may be compounded under section 26.
+
+[29/99]
 
 (3) The Council may, in making any regulations, provide that any contravention of, or failure or neglect to comply with, any regulation shall be an offence and may prescribe a fine with which such offence shall be punishable but so that no such fine shall exceed for any one offence the sum of $1,000.
 
-[29/99 wef 28/08/1999]
+[25
+
+[29/99]
 
 FIRST SCHEDULE
 
-Section 3(2).
+Section 3
 
 Constitution and Proceedings of Council
 
@@ -467,8 +551,6 @@ Constitution of Council
 (b) not more than 11 other members,
 
 to be appointed by the Minister.
-
-[S 59/98 wef 06/02/1998]
 
 Appointment of Chairman and Deputy Chairman
 
@@ -486,13 +568,13 @@ Revocation of appointment
 
 Tenure of office of appointed member
 
-5\. The Chairman, the Deputy Chairman or an appointed member, unless his appointment is revoked by the Minister or unless he resigns during his term of office, shall hold office for a period of two years and shall be eligible for reappointment.
+5\. The Chairman, the Deputy Chairman or an appointed member, unless his appointment is revoked by the Minister or unless he resigns during his term of office, shall hold office for a period of 2 years and shall be eligible for reappointment.
 
 Filling of vacancies
 
 6\. If an appointed member resigns, dies or has his appointment revoked before the expiry of the term for which he has been appointed, the Minister may appoint a person to fill the vacancy for the residue of the term for which his predecessor was appointed.
 
-Salaries, etc., payable to members.
+Salaries, etc., payable to members
 
 7\. There shall be paid to the Chairman, the Deputy Chairman and other members, out of the funds of the Council, such salaries, fees and allowances as the Minister may from time to time determine.
 
@@ -508,25 +590,25 @@ Meetings of Council
 
 (5) Where both the Chairman and the Deputy Chairman are absent at a meeting, such member as the members present may elect shall preside at that meeting.
 
-(6) If for any reason any chief executive officer referred to in paragraph 1(a), (b), (c) or (d) is unable to attend the meeting of the Council, he may nominate a representative to attend the meeting and his representative shall at the meeting be deemed for all purposes to be a member of the Council.
+(6) If for any reason any member referred to in paragraph 1(a) is unable to attend any meeting of the Council, he may nominate a representative to attend the meeting and his representative shall at the meeting be deemed for all purposes to be a member of the Council.
 
 (7) Subject to the provisions of this Act, the Council may make rules to regulate its own procedures generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
 
 Council may act notwithstanding vacancy
 
-9\. The Council may act notwithstanding any vacancy in its membership.
+9. The Council may act notwithstanding any vacancy in its membership.
+
+[S 59/98]
 
 SECOND SCHEDULE
 
-Section 8.
+Section 11
 
 Financial Provisions
 
 Financial year of Council
 
-1. The financial year of the Council shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Council shall begin on 14th 1987 and shall end on 31st March 1988.
-
-[S 220/87]
+1\. The financial year of the Council shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
 Accounts to be kept
 
@@ -540,13 +622,9 @@ Audit of accounts
 
 (3) The remuneration of the auditor shall be paid out of the funds of the Council.
 
-[29/99 wef 28/08/1999]
-
 Financial statements
 
-4. The Council shall, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
-
-[29/99 wef 28/08/1999]
+4\. The Council shall, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
 
 Duties of auditor
 
@@ -562,8 +640,6 @@ Duties of auditor
 
 (2) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Council, and shall also submit such periodical and special reports to the Minister and to the Council as may appear to him to be necessary or as the Minister or the Council may require.
 
-[29/99 wef 28/08/1999]
-
 Powers of auditor
 
 6.—(1) The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Council and may make copies of, or extracts from, any such accounting and other records.
@@ -572,8 +648,6 @@ Powers of auditor
 
 (3) Any person who fails, without reasonable excuse, to comply with any requirement of the auditor under sub-paragraph (2) or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-[29/99 wef 28/08/1999]
-
 Presentation of financial statements and audit reports
 
 7.—(1) As soon as the accounts of the Council and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
@@ -581,6 +655,8 @@ Presentation of financial statements and audit reports
 (2) Where the Auditor-General is not the auditor of the Council, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Council.
 
 (3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+
+[29/99]
 
 ## LEGISLATIVE HISTORY
 
@@ -614,3 +690,163 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 25/99 published on 7 July 1999)|
 ||Date of Second and Third Readings|4 August 1999|
 ||Date of commencement|28 August 1999|
+|7.|**2000 Revised Edition—Public Transport Council Act (Chapter 259B)**|
+||Date of operation|1 July 2000|
+## COMPARATIVE TABLE
+
+Public Transport Council Act
+
+(CHAPTER 259B)
+
+The following provisions in the 1988 Revised Edition of the Public Transport Council Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Public Transport Council Act.
+
+2000 Ed\. 
+
+1988 Ed\. 
+
+6 
+
+5A 
+
+7 
+
+5B 
+
+8 
+
+6 
+
+9 
+
+6A 
+
+10 —(1) and (2)
+
+7 —(1)
+
+(3)
+
+(2)
+
+11 
+
+8 
+
+12 
+
+9 
+
+13 
+
+10 
+
+14 
+
+11 
+
+15 
+
+12 
+
+16 —(1), (2) and (3)
+
+13 —(1)
+
+(4) and (5)
+
+(2) and (3)
+
+(6)
+
+(4)
+
+(7)
+
+(5)
+
+17 —(1)
+
+14 —(1)
+
+(2) and (3)
+
+(2)
+
+(4)
+
+(3)
+
+18 —(1) and (2)
+
+15 —(1)
+
+(3)
+
+(2)
+
+(4) and (5)
+
+(3)
+
+(6)
+
+(4)
+
+(7) and (8)
+
+(5)
+
+(9) and (10)
+
+(6)
+
+(11)
+
+(7)
+
+(12) and (13)
+
+(8)
+
+19 
+
+16 
+
+20 
+
+17 
+
+21 
+
+18 
+
+22 
+
+19 
+
+23 
+
+20 
+
+24 
+
+21 
+
+25 
+
+22 
+
+26 
+
+23 
+
+27 
+
+24 
+
+28 
+
+25 
+
