@@ -66,7 +66,7 @@
 
 - [24 Bank accounts and application of revenue](#Bank-accounts-and-application-of-revenue)
 
-- [25 Investment](#Investment)
+- [25 Power of investment](#Power-of-investment)
 
 - [26 Other financial provisions](#Other-financial-provisions)
 
@@ -684,9 +684,11 @@ FINANCIAL PROVISIONS
 
 24\. The Authority shall open and maintain an account or accounts with such bank or banks as the Authority thinks fit; and every such account shall be operated upon as far as practicable by cheque signed by such person or persons as may, from time to time, be authorised in that behalf by the Authority.
 
-### Investment
+### Power of investment
 
-25\. Moneys belonging to the Authority may be invested in such shares, funds, securities or investments as may be authorised by the Minister.
+25\. The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 ### Other financial provisions
 
@@ -2012,8 +2014,12 @@ This Legislative History is provided for the convenience of users of the Maritim
 |2.|**1997 Revised Edition—Maritime and Port Authority of Singapore Act**|
 ||Date of operation|30 May 1997|
 |3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
-||(Consequential amendments made by)||
 ||Date of First Reading|3 May 2002|
-|||(Bill No. 7/2002 published on 5 May 2002)|
+|||(Bill No. 7/2002 published on 5 July 2002)|
 ||Date of Second and Third Readings|24 May 2002|
-||Date of commencement|15 July 2002|
+||Dates of commencement|15 July 2002|
+|4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 12 November 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
