@@ -194,7 +194,9 @@
 
 - [80 Subordinate military courts](#Subordinate-military-courts)
 
-- [81 Constitution of a general court martial](#Constitution-of-a-general-court-martial)
+- [80A General courts martial panel](#General-courts-martial-panel)
+
+- [81 Constitution and jurisdiction of general court martial](#Constitution-and-jurisdiction-of-general-court-martial)
 
 - [82 Judge Advocate-General, judge advocates and legal personnel](#Judge-Advocate-General-judge-advocates-and-legal-personnel)
 
@@ -210,7 +212,7 @@
 
 - [88 Challenges by accused](#Challenges-by-accused)
 
-- [89 Effect of death or sickness on subordinate military court](#Effect-of-death-or-sickness-on-subordinate-military-court)
+- [89 Effect of death or sickness on and adjournment of subordinate military court](#Effect-of-death-or-sickness-on-and-adjournment-of-subordinate-military-court)
 
 - [90 Power to convict for offence other than that charged](#Power-to-convict-for-offence-other-than-that-charged)
 
@@ -572,7 +574,17 @@ PRELIMINARY
 
 “commander”, in relation to any person subject to military law, means an officer of or above the rank of captain for the time being commanding a unit or units or part of a unit of the Singapore Armed Forces;
 
-“convening authority” means, in the case of a general court martial, an officer of or above the rank of major appointed by the Armed Forces Council for the purpose and, in the case of a field general court martial, a commander referred to in section 83;
+“convening authority” means —
+
+(a) in the case of a general court martial, the officer of or above the rank of major appointed by the Armed Forces Council for the purpose of being the convening authority for general courts martial; or
+
+(b) in the case of a field general court martial, a convening officer;
+
+[17/2004 wef 31/12/2004]
+
+“convening officer” means a commander referred to in section 83(1);
+
+[17/2004 wef 31/12/2004]
 
 “detention barracks” means any building or part of a building which is set apart by the Armed Forces Council for the purpose of persons serving sentences of detention;
 
@@ -583,6 +595,10 @@ PRELIMINARY
 “disciplinary officer” means a junior disciplinary officer, a senior disciplinary officer and a superior commander each being qualified to be such or being designated as such pursuant to the provisions of Part IV and includes a Service Chief and the Chief of Defence Force;
 
 “enemy” includes persons engaged in violent operations against the Singapore Armed Forces, armed mutineers, armed rebels, armed rioters or pirates;
+
+“general courts martial panel” means the panel appointed by the convening authority under section 80A;
+
+[17/2004 wef 31/12/2004]
 
 “general orders” includes orders of the Armed Forces Council, General Orders of the Ministry of Defence, standing orders, routine orders and other general orders published in writing in accordance with military usage;
 
@@ -611,6 +627,10 @@ PRELIMINARY
 “publication” and “words” have the same meanings as in the Sedition Act (Cap. 290);
 
 “qualified person” has the same meaning as in the Legal Profession Act (Cap. 161);
+
+“registrar for subordinate military courts” means the person appointed by the Armed Forces Council as registrar for subordinate military courts under section 82(5)(c);
+
+[17/2004 wef 31/12/2004]
 
 “regular serviceman” has the same meaning as in the Enlistment Act;
 
@@ -1518,7 +1538,9 @@ SUMMARY TRIAL BY DISCIPLINARY OFFICERS
 
 67\. Where a superior commander, a Service Chief or the Chief of Defence Force has referred a charge to the Director, Legal Services of the Singapore Armed Forces, that person may —
 
-(a) direct that a charge-sheet be submitted to the convening authority;
+(a) direct that the charge be tried by a subordinate military court;
+
+[17/2004 wef 31/12/2004]
 
 (b) with the approval of the Armed Forces Council, direct that the charge be tried by —
 
@@ -1686,9 +1708,9 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 (8) Where the Senior Disciplinary Committee has proceeded to deal with a case summarily under this section and is satisfied on the evidence as to the guilt of the accused, the Committee shall, before proceeding to conviction and punishment other than a reprimand, afford the accused an opportunity of electing to be tried by a subordinate military court.
 
-(9) If the accused so elects, the Committee shall refer the charge to the Director, Legal Services of the Singapore Armed Forces who shall direct that a charge be submitted to the convening authority.
+(9) If the accused so elects, the Committee shall refer the charge to the Director, Legal Services of the Singapore Armed Forces who shall direct that the charge be tried by a subordinate military court.
 
-[1/94]
+[17/2004 wef 31/12/2004]
 
 (10) Every decision of the Senior Disciplinary Committee shall be in accordance with the opinion of the majority of the members dealing with the case.
 
@@ -1758,7 +1780,9 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 (2) If the accused so elects, the disciplinary officer shall forward the charge-sheet, record of the evidence and such other particulars as may be prescribed to the Director, Legal Services of the Singapore Armed Forces who may —
 
-(a) direct that a charge be submitted to the convening authority; or
+(a) direct that the charge be tried by a subordinate military court; or
+
+[17/2004 wef 31/12/2004]
 
 (b) with the approval of the Armed Forces Council, direct that no action be taken against the accused either by way of summary trial or by a subordinate military court.
 
@@ -1800,41 +1824,93 @@ TRIAL BY SUBORDINATE MILITARY COURTS
 
 and in this Act when these courts are collectively referred to they are called subordinate military courts.
 
-### Constitution of a general court martial
+### General courts martial panel
 
-81\.—(1) Every general court martial shall have jurisdiction to try any person subject to military law for any offence under this Act and to award for any such offence any punishment authorised by this Act.
+80A\.—(1) For the purpose of enabling general courts martial to be constituted in accordance with this Part, the convening authority shall appoint a panel (referred to in this Act as the general courts martial panel) consisting of such number of officers and non-uniformed servicemen in officer grades as the convening authority shall determine.
 
-(2) Subject to subsection (3), every general court martial shall consist of not less than 3 officers, or any other uneven number of officers of whom not less than 2 shall be of a rank not below that of captain; and the minimum number mentioned in this subsection shall be the legal minimum for a general court martial.
+(2) A member of the general courts martial panel shall be appointed for such term as the convening authority may determine.
 
-[20/94]
+(3) The convening authority may at any time revoke the appointment of any member of the general courts martial panel.
 
-(3) A general court martial constituted for the trial of a non-uniformed serviceman may include, in place of the corresponding number of officers, not more than 2 non-uniformed servicemen in officer grades.
+[17/2004 wef 31/12/2004]
 
-[20/94]
+### Constitution and jurisdiction of general court martial
 
-(4) The president of a general court martial shall be an officer of or above the rank of major and shall be appointed by the convening authority.
+81\.—(1) The general courts martial shall consist of the following courts:
 
-(5) Where the accused is of or above the rank of lieutenant-colonel, the president of a general court martial shall be an officer of or above the rank of the accused and at least 2 of the members of the court martial shall be of or above the rank of lieutenant-colonel.
+(a) judge courts martial; and
 
-(6) Notwithstanding anything to the contrary in this section, where the accused is charged with —
+(b) panel courts martial.
+
+(2) Every general court martial shall be constituted —
+
+(a) by the convening authority; and
+
+(b) subject to subsection (7), from the members of the general courts martial panel.
+
+(3) A judge court martial shall consist of a president, who shall be a qualified person and, subject to subsection (6)(a), an officer of or above the rank of major .
+
+(4) A panel court martial shall consist of the following members:
+
+(a) a president who, subject to subsections (6)(b) and (7), shall be an officer of or above the rank of major ; and
+
+(b) subject to subsections (5) and (6)(c), 2 or any greater even number of other members who shall be officers and at least one of whom shall be of or above the rank of captain.
+
+(5) Where a panel court martial is constituted for the trial of a non-uniformed serviceman, the members referred to in subsection (4)(b) may include, in place of the corresponding number of officers , not more than 2 non-uniformed servicemen in officer grades.
+
+(6) Where the accused is of or above the rank of lieutenant-colonel —
+
+(a) the president of any judge court martial constituted for the trial of the accused shall be an officerof or above the rank of the accused;
+
+(b) subject to subsection (7), the president of any panel court martial constituted for the trial of the accused shall be an officerof or above the rank of the accused; and
+
+(c) if a panel court martial is constituted for the trial of the accused, at least 2 of the members under subsection (4)(b) shall be of or above the rank of lieutenant-colonel .
+
+(7) Where the accused is charged with —
 
 (a) murder or culpable homicide not amounting to murder;
 
 (b) an offence under section 121 or 121A of the Penal Code (Cap. 224); or
 
-(c) any other offence for which the punishment of death is authorised under any written law, if the accused were to be tried by a civil court for that other offence,
+(c) any other offence for which the punishment of death is authorised under any written law,
 
-the president of a general court martial shall be a Judge of the Supreme Court appointed by the Chief Justice.
+and the charge is to be tried by a general court martial, the accused shall be tried before a panel court martial and the president of the panel court martial shall be a Judge of the Supreme Court appointed by the Chief Justice.
 
-[20/75; 17/78]
+(8) Where none of the members of a panel court martial is a qualified person, a judge advocate designated by the convening authority shall officiate in any trial before that court in accordance with regulations of procedure made under section 93.
 
-(7) The determination of the question of the guilt of an accused before a general court martial shall be according to the opinion of the majority of the members of the court hearing the case.
+(9) Subject to subsection (7), every general court martial shall have jurisdiction to try any person subject to military law for any offence under this Act and to award for any such offence any punishment authorised by this Act.
 
-(8) Where an accused is found guilty of a charge in respect of which punishment of death is authorised under this Act or any other written law, if the accused had been tried by a civil court, the decision of the court shall be unanimous.
+(10) Unless the Director, Legal Services of the Singapore Armed Forces directs otherwise, where a charge is to be tried by a general court martial, the charge shall be tried by a panel court martial.
 
-[17/78]
+(11) Subject to subsection (7), where, before the commencement of any trial before a general court martial —
 
-(9) In the event of the general court martial failing to reach a unanimous decision, an accused shall not be convicted of that offence in respect of which punishment of death is authorised by this Act but may, if the members of the court by majority decision agree, be convicted of any lesser offence authorised by this Act.
+(a) the president or any member of the court dies; or
+
+(b) the convening authority ascertains that the president or any member of the court —
+
+(i) is unable to attend; or
+
+(ii) is not eligible to serve in that court,
+
+the convening authority may designate another person from the general courts martial panel to fill the vacancy.
+
+(12) Subject to subsection (13), any question as to —
+
+(a) the guilt of the accused; or
+
+(b) the sentence to be imposed on the accused,
+
+shall be decided by a panel court martial in accordance with the opinion of the majority of the members of that court.
+
+(13) Where the accused is charged with any offence for which the punishment of death is authorised under any written law —
+
+(a) the accused shall not be convicted of that offence unless the members of the panel court martial reach a unanimous decision that the accused is guilty of that offence; and
+
+(b) if the members of that court fail to reach a unanimous decision, the accused may, if the members of that court by majority decision agree, be convicted of any lesser offence authorised by this Act.
+
+(14) Where the convening authority has authorised the registrar for subordinate military courts or any other person to exercise the powers conferred and perform the duties imposed on the convening authority under subsection (2), (8) or (11), the registrar or person shall be entitled to exercise those powers and perform those duties.
+
+[17/2004 wef 31/12/2004]
 
 ### Judge Advocate-General, judge advocates and legal personnel
 
@@ -1860,7 +1936,7 @@ the president of a general court martial shall be a Judge of the Supreme Court a
 
 ### Field general courts martial
 
-83\.—(1) Where an offence punishable under this Act has been committed by any person subject to military law who belongs to a unit or part of a unit of the Singapore Armed Forces which is, at the time of the commission of the offence, engaged on active service it shall be lawful for a commander (referred to in this Act as the convening officer), if it is not practicable for a general court martial to be convened, to convene a field general court martial.
+83\.—(1) Where an offence punishable under this Act has been committed by any person subject to military law who belongs to a unit or part of a unit of the Singapore Armed Forces which is, at the time of the commission of the offence, engaged on active service it shall be lawful for a commander (referred to in this Act as the convening officer), if it is not practicable for a general court martial to try the accused, to convene a field general court martial.
 
 (2) Every field general court martial may try any person subject to military law for any offence under this Act and may award for such offence any punishment that a general court martial is competent to award for such offence.
 
@@ -1880,7 +1956,7 @@ the president of a general court martial shall be a Judge of the Supreme Court a
 
 ### Ineligibility
 
-84\. The following persons are not eligible to serve as members of a subordinate military court:
+84\. The following persons are not eligible to serve on a subordinate military court:
 
 (a) a relative of the accused;
 
@@ -1894,9 +1970,15 @@ the president of a general court martial shall be a Judge of the Supreme Court a
 
 (f) a military prosecutor.
 
+[17/2004 wef 31/12/2004]
+
 ### Members of subordinate military courts may belong to same or different units
 
-85\. The officers sitting on a subordinate military court may belong to the same or different units, or may be unattached to any unit, and may try persons belonging to or attached to any unit.
+85\.—(1) The members of a panel court martial or field general court martial may belong to the same or different units, or may be unattached to any unit, and may try persons belonging to or attached to any unit.
+
+(2) The president of a judge court martial may be unattached to any unit, and may try persons belonging to or attached to any unit.
+
+[17/2004 wef 31/12/2004]
 
 ### Record of proceedings
 
@@ -1906,9 +1988,13 @@ the president of a general court martial shall be a Judge of the Supreme Court a
 
 (3) The charge-sheet and the documents admitted by the court, and any other documents which the president of the subordinate military court may direct, shall be attached to the record of the proceedings and shall form part thereof.
 
-(4) The president of a subordinate military court and every member of the court who is so required by the president shall record the grounds for his decision in writing and such written judgment or grounds of decision shall form part of the record of the proceedings.
+(4) The president of a subordinate military court and, in the case of a panel court martial or a field general court martial, every member of the court who is so required by the president shall record the grounds for his decision in writing and such written judgment or grounds of decision shall form part of the record of the proceedings.
 
-(5) The president of a subordinate military court orany member when he has recorded his judgment shall not alter or revise the same.
+[17/2004 wef 31/12/2004]
+
+(5) The president of a subordinate military court or, in the case of a panel court martial or a field general court martial, any member of the court when he has recorded his judgment shall not alter or revise the same.
+
+[17/2004 wef 31/12/2004]
 
 (6) A clerical error may be rectified at any time and any other mistake may be rectified before the court rises for the day.
 
@@ -1920,11 +2006,27 @@ the president of a general court martial shall be a Judge of the Supreme Court a
 
 ### Oath and affirmation
 
-87\.—(1) An oath or an affirmation in the prescribed form shall be administered by the president of a subordinate military court to every member of every subordinate military court and to the judge advocate and in the case of a president of a subordinate military court an oath or affirmation shall be administered to the president by any member already sworn before the commencement of the trial.
+87\.—(1) Subject to subsection (2), an oath or affirmation in the prescribed form shall be administered by the convening authority, or by any person appointed by the convening authority for this purpose, to each member of the general courts martial panel before the member assumes his office in a general court martial.
 
-[20/75]
+[17/2004 wef 31/12/2004]
 
-(2) A Judge of the Supreme Court acting as president of a subordinate military court shall take in the presence of the Chief Justice the oath or affirmation of allegiance in the prescribed form before he enters upon the execution of his office.
+(2) A Judge of the Supreme Court acting as president of a panel court martial shall take, in the presence of the Chief Justice, the oath or affirmation of allegiance in the prescribed form before he assumes his office in the panel court martial.
+
+[17/2004 wef 31/12/2004]
+
+(2A) In the case of a field general court martial, an oath or affirmation shall be administered —
+
+(a) by the president to every other member; and
+
+(b) to the president by any member already sworn,
+
+in the presence of the accused, after the court has assembled but before the accused is arraigned.
+
+[17/2004 wef 31/12/2004]
+
+(2B) An oath or affirmation in the prescribed form shall be administered by the president of a subordinate military court to any judge advocate officiating in a trial before the court in the presence of the accused, after the court has assembled but before the accused is arraigned.
+
+[17/2004 wef 31/12/2004]
 
 (3) An oath or an affirmation in the prescribed form shall be administered by the president of a subordinate military court to every shorthand writer or interpreter (if any) in attendance at the trial.
 
@@ -1932,33 +2034,85 @@ the president of a general court martial shall be a Judge of the Supreme Court a
 
 ### Challenges by accused
 
-88\.—(1) The accused or where there is more than one accused, each of the accused, about to be tried by a subordinate military court may object, for any reasonable cause, to any member of the court including the president thereof except a president who is a Judge of the Supreme Court, whether appointed to serve thereon originally or to fill a vacancy caused by the retirement of a member objected to, so that the court may be constituted of members to whom the accused makes no reasonable objection.
+88\.—(1) The accused or, where there is more than one accused, each of the accused about to be tried by a subordinate military court may object, for any reasonable cause, to —
 
-[20/75]
+(a) the president of the court, except a president who is a Judge of the Supreme Court; and
 
-(2) Every objection made by an accused to any member shall be submitted to the other members appointed to form the subordinate military court and if allowed by a majority of the votes of members entitled to vote the objection shall be allowed and the member objected to shall retire and his vacancy may be filled by another member subject to the same right of the accused to object.
+(b) in the case of a panel court martial or a field general court martial, any other member of the court,
 
-(3) If the objection is to the president of a subordinate military court, such objection, if allowed by a majority of the other members appointed to form the court, shall be allowed, and the court shall adjourn for the purpose of the appointment of another president by the convening authority.
+whether appointed to serve on the court originally or to fill a vacancy, so that the court may be constituted by a president or of members to whom the accused makes no reasonable objection.
 
-(4) If the objection is to a member other than the president of a subordinate military court and is allowed by a majority of the votes of the members entitled to vote, the objection shall be allowed, and the member objected to shall retire, and his vacancy may be filled by another member.
+(2) In the case of a panel court martial or a field general court martial, every objection made by an accused to any member, including the president, shall be submitted to the other members appointed to form the court and —
 
-(5) In order to enable an accused to avail himself of his privilege of objecting to any member, the names of the members appointed to form the subordinate military court shall be read over in the hearing of the accused on their first assembling, and before they are sworn, and the accused shall be asked whether he objects to any of such members, and a like question shall be repeated in respect of any member appointed to serve in lieu of a retiring member.
+(a) if the majority of the members entitled to vote decide that there is reasonable cause for the objection, the court shall allow the objection and the member objected to shall retire; or
 
-### Effect of death or sickness on subordinate military court
+(b) if the majority of the members entitled to vote decide that there is no reasonable cause for the objection, the court shall dismiss the objection and record the reasons for its decision in the record of proceedings, and shall also furnish such reasons to the convening authority if required to do so.
 
-89\.—(1) If a subordinate military court after the commencement of the trial is, by reason of death or otherwise, reduced below the legal minimum, the court shall be dissolved.
+(3) Any vacancy resulting from the retirement of a member under subsection (2)(a) may be filled by another member who shall be —
 
-(2) If, after the commencement of the trial, the president of a subordinate military court dies, or is otherwise unable to attend, the court shall be dissolved.
+(a) in the case of a panel court martial, a member of the general courts martial panel who is eligible for the appointment, and who is designated by the convening authority to fill the vacancy; or
 
-(3) If, on account of the illness of the accused before the finding, it is impossible to continue the trial, a subordinate military court shall be dissolved.
+(b) in the case of a field general court martial, an officer who is eligible for the appointment, and who is appointed by the convening officer to fill the vacancy,
 
-(4) Where a subordinate military court is dissolved under subsection (1), (2) or (3), the accused may be tried again by another subordinate military court.
+subject to the same right of the accused to object.
 
-(5) The president of any subordinate military court may, on any deliberation amongst the members, cause the court to be cleared of all other persons.
+(4) In the case of a judge court martial, if an accused objects to the president, the president shall determine whether there is any reasonable cause for the objection, and —
 
-(6) The subordinate military court may adjourn from time to time.
+(a) if the president decides that there is reasonable cause for the objection —
 
-(7) The subordinate military court may also, where necessary, view any place.
+(i) the president shall allow the objection and the court shall be dissolved; and
+
+(ii) the convening authority shall designate another member of the general courts martial panel who is eligible for the appointment to be the president of another judge court martial convened to try the accused, subject to the same right of the accused to object; or
+
+(b) if the president decides that there is no reasonable cause for the objection, the president shall —
+
+(i) dismiss the objection and record the reasons for his decision in the record of proceedings; and
+
+(ii) furnish such reasons to the convening authority if required to do so.
+
+(5) In order to enable an accused to avail himself of his privilege of objecting to the president of a judge court martial or the members of a panel court martial or field general court martial —
+
+(a) the name of each person constituting the court shall be read over in the hearing of the accused when the court first assembles and, in the case of a field general court martial, before the members of the court take their oaths or affirmations;
+
+(b) the accused shall be asked whether he objects to that person; and
+
+(c) a like question shall be repeated in respect of any person who —
+
+(i) is designated or appointed to fill a vacancy under subsection (3) or section 89(1)(b) or (c), (2) or (3); or
+
+(ii) is designated to be the president of a judge court martial under subsection (4)(a)(ii) or section 89(1)(a).
+
+(6) Where a judge court martial is dissolved under subsection (4)(a)(i), the accused may be tried again by another judge court martial.
+
+(7) Where the convening authority has authorised the registrar for subordinate military courts or any other person to exercise the powers conferred and perform the duties imposed on the convening authority under subsection (3)(a) or (4)(a)(ii), the registrar or person shall be entitled to exercise those powers and perform those duties.
+
+[17/2004 wef 31/12/2004]
+
+### Effect of death or sickness on and adjournment of subordinate military court
+
+89\.—(1) If, after the commencement of the trial, the president of a subordinate military court dies or is otherwise unable to attend, then —
+
+(a) in the case of a judge court martial, the court shall be dissolved, and the convening authority shall designate another member of the general courts martial panel who is eligible for the appointment to be the president of another judge court martial convened to try the accused;
+
+(b) in the case of a panel court martial, the court shall adjourn, and the convening authority shall designate another member of the general courts martial panel who is eligible for the appointment to fill the vacancy; or
+
+(c) in the case of a field general court martial, the court shall adjourn, and the convening officer shall appoint another officer who is eligible for the appointment to fill the vacancy.
+
+(2) If, after the commencement of a trial, any member of a panel court martial, other than the president, dies or is otherwise unable to attend, the court shall adjourn, and the convening authority shall designate another member of the general courts martial panel who is eligible for the appointment to fill the vacancy.
+
+(3) If, after the commencement of a trial, any member of a field general court martial, other than the president, dies or is otherwise unable to attend, the court shall adjourn, and the convening officer shall appoint another officer who is eligible for the appointment to fill the vacancy.
+
+(4) If, on account of the illness of the accused before the finding, it is impossible to continue the trial, a subordinate military court shall be dissolved.
+
+(5) Where a subordinate military court is dissolved under subsection (l) (a) or (4), the accused may be tried again by another subordinate military court.
+
+(6) A subordinate military court may adjourn from time to time.
+
+(7) A subordinate military court may, where necessary, view any place.
+
+(8) Where the convening authority has authorised the registrar for subordinate military courts or any other person to exercise the powers conferred and perform the duties imposed on the convening authority under subsection (1)(a) or (b) or (2), the registrar or person shall be entitled to exercise those powers and perform those duties.
+
+[17/2004 wef 31/12/2004]
 
 ### Power to convict for offence other than that charged
 
@@ -2148,7 +2302,13 @@ order that all or any part of the proceedings before the court shall be dealt wi
 
 (3) A subordinate military court may exclude a person from any part of the proceedings where such person is obstructing the proceedings of the court.
 
-(4) No person shall be present during any deliberation among the members of a subordinate military court, whether on the finding or sentence on any charge or otherwise, without permission from the president of the court.
+(4) No person shall be present during any deliberation by a panel court martial or a field general court martial without permission from the president of the court.
+
+[17/2004 wef 31/12/2004]
+
+(5) The president of any panel court martial or field general court martial may, on any deliberation amongst the members of the court, cause the courtroom to be cleared of all other persons.
+
+[17/2004 wef 31/12/2004]
 
 ### Publications and photographs
 
@@ -2164,9 +2324,13 @@ order that all or any part of the proceedings before the court shall be dealt wi
 
 ### Independence of subordinate military courts
 
-107\.—(1) In matters of adjudication, members of subordinate military courts shall not be subject to the authority of their commanders, or to any other authority, except the law.
+107\.—(1) In matters of adjudication, presidents and other members of subordinate military courts shall not be subject to the authority of their commanders, or to any other authority, except the law.
 
-(2) No person shall attempt to coerce or by any unauthorised means influence the action or proceedings of a subordinate military court or any member thereof.
+[17/2004 wef 31/12/2004]
+
+(2) No person shall attempt to coerce or by any unauthorised means influence the action or proceedings of a subordinate military court or any president or, where applicable, other member thereof.
+
+[17/2004 wef 31/12/2004]
 
 (3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction by a subordinate military court to imprisonment for a term not exceeding 2 years or any less punishment authorised by this Act.
 
@@ -3108,7 +3272,7 @@ Investigations
 
 (a) if he is an officeror a warrant officer appointed under section 177(a) shall forward the investigation material obtained pursuant to the exercise of his powers under subsection (1) to the senior disciplinary officer or superior commander who appointed him to investigate the offence who shall thereupon cause the matter to be dealt with in accordance with the provisions of Part IV;
 
-(b) if he is a military policeman shall forward the investigation material obtained pursuant to the exercise of his powers under subsection (1) to the Director, Legal Services of the Singapore Armed Forces who shall, if he is of the opinion that the investigation material discloses sufficient evidence to connect a person subject to military law with the commission of an offence, direct a military prosecutor to frame a charge and submit the charge to a disciplinary officer for summary trial under Part IV or to the convening authority for trial by a subordinate military court.
+(b) if he is a military policeman shall forward the investigation material obtained pursuant to the exercise of his powers under subsection (1) to the Director, Legal Services of the Singapore Armed Forces who shall, if he is of the opinion that the investigation material discloses sufficient evidence to connect a person subject to military law with the commission of an offence, direct a military prosecutor to frame a charge and submit the charge to a disciplinary officer for summary trial under Part IV or to a subordinate military court for trial.
 
 [1/94]
 
@@ -3700,9 +3864,29 @@ MISCELLANEOUS
 
 [12/98; 10/2000]
 
-(5) The accounts and annual financial statements of the SAVER-Premium Fund shall be audited by the Auditor-General who shall report to the Minister on any matter arising out of the performance of his audit.
+(5) The accounts and annual financial statements of the SAVER-Premium Fund shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-[12/98; 10/2000]
+[17/2004 wef 31/12/2004]
+
+(5A) A person shall not be qualified for appointment as an auditor under subsection (5) unless he is a public accountant as defined in the Companies Act (Cap. 50).
+
+[17/2004 wef 31/12/2004]
+
+(5B) The remuneration of the auditor shall be paid out of the SAVER-Premium Fund.
+
+[17/2004 wef 31/12/2004]
+
+(5C) The auditor shall submit such periodic and special reports to the Minister as may appear to the auditor to be necessary or as the Minister may require.
+
+[17/2004 wef 31/12/2004]
+
+(5D) As soon as the accounts of the SAVER-Premium Fund and the financial statements have been audited in accordance with this Act, a copy of the audited financial statements, together with a copy of any report made by the auditor, shall be submitted to the Minister.
+
+[17/2004 wef 31/12/2004]
+
+(5E) Where the Auditor-General is not the auditor of the SAVER-Premium Fund, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Minister.
+
+[17/2004 wef 31/12/2004]
 
 (6) The Minister shall cause a copy of the audited financial statements of the SAVER-Premium Fund and the auditor’s report to be presented to Parliament.
 
@@ -4037,6 +4221,11 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 45/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|1 December 2004|
+|16.|**Act 17 of 2004—Singapore Armed Forces (Amendment) Act 2004**|
+||Date of First Reading|19 April 2004|
+|||(Bill No. 16/2004 published on 20 April 2004)|
+||Date of Second and Third Readings|19 May 2004|
+||Date of commencement|31 December 2004|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
