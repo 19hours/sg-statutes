@@ -525,7 +525,7 @@ FUNDS AND PROPERTY OF BOARD
 
 31\.—(1) The funds and property of the Board shall include —
 
-(a) all moneys and property transferred to the Board pursuant to section 37;
+(a) all moneys and property transferred to the Board pursuant to section 37(1);
 
 (b) all gifts, donations and contributions to the Board;
 
@@ -537,7 +537,9 @@ FUNDS AND PROPERTY OF BOARD
 
 (2) The Board may open and maintain an account or accounts with any bank or banks as the Board thinks fit.
 
-(3) The Board may from time to time invest any of its funds in such manner or securities as trustees may by any written law be authorised to invest or, with the approval of the Minister, in any other securities or investments.
+(3) The Board may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[45/2004 wef 15/12/2004]
 
 (4) Subject to the terms of any trust or endowment, the funds and property of the Board shall be applied solely for the purposes of or in connection with the performance of the functions, powers and duties of the Board under this Act.
 
@@ -892,3 +894,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002|
+|4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
