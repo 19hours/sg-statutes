@@ -26,13 +26,13 @@
 
 - [8 Definition of licence](#Definition-of-licence)
 
-- [9 Appointment of Registrar, Deputy Registrar and assistant registrars](#Appointment-of-Registrar-Deputy-Registrar-and-assistant-registrars)
+- [9 Appointment of Registrar, Deputy Registrar and assistantregistrars](#Appointment-of-Registrar-Deputy-Registrar-and-assistantregistrars)
 
 - [10 Registration of vehicles](#Registration-of-vehicles)
 
 - [10A Vehicles not to be registered without permits issued byRegistrar](#Vehicles-not-to-be-registered-without-permits-issued-byRegistrar)
 
-- [10B Heavy vehicle not to be registered without valid vehicle parking certificate](#Heavy-vehicle-not-to-be-registered-without-valid-vehicle-parking-certificate)
+- [10B Heavy vehicle not to be registered without valid vehicle parkingcertificate](#Heavy-vehicle-not-to-be-registered-without-valid-vehicle-parkingcertificate)
 
 - [11 Charge of tax on vehicles](#Charge-of-tax-on-vehicles)
 
@@ -72,11 +72,11 @@
 
 - [28 General licences](#General-licences)
 
-- [29 Offences in connection with registration and licensing of vehicles](#Offences-in-connection-with-registration-and-licensing-of-vehicles)
+- [29 Offences in connection with registration and licensing ofvehicles](#Offences-in-connection-with-registration-and-licensing-ofvehicles)
 
 - [30 Power to seize and sell vehicles](#Power-to-seize-and-sell-vehicles)
 
-- [31 Limitation on bringing of proceedings for recovery of over-payment of tax](#Limitation-on-bringing-of-proceedings-for-recovery-of-over-payment-of-tax)
+- [31 Limitation on bringing of proceedings for recovery of over-payment oftax](#Limitation-on-bringing-of-proceedings-for-recovery-of-over-payment-oftax)
 
 - [32 Power to compound](#Power-to-compound)
 
@@ -88,7 +88,7 @@
 
 - [35 Licensing of drivers, etc.](#Licensing-of-drivers-etc)
 
-- [35A Power of Deputy Commissioner of Police to revoke driving licence](#Power-of-Deputy-Commissioner-of-Police-to-revoke-driving-licence)
+- [35A Power of Deputy Commissioner of Police to revoke drivinglicence](#Power-of-Deputy-Commissioner-of-Police-to-revoke-drivinglicence)
 
 - [35B Licensee may show cause why driving licence should not berevoked](#Licensee-may-show-cause-why-driving-licence-should-not-berevoked)
 
@@ -96,7 +96,7 @@
 
 - [36 Tests of competence to drive of new applicants for drivinglicences](#Tests-of-competence-to-drive-of-new-applicants-for-drivinglicences)
 
-- [37 Provisions as to physical fitness of applicants for driving licences](#Provisions-as-to-physical-fitness-of-applicants-for-driving-licences)
+- [37 Provisions as to physical fitness of applicants for drivinglicences](#Provisions-as-to-physical-fitness-of-applicants-for-drivinglicences)
 
 - [38 Recognition of Malaysian driving licences](#Recognition-of-Malaysian-driving-licences)
 
@@ -110,23 +110,23 @@
 
 - [43 Provisions as to disqualifications and suspensions](#Provisions-as-to-disqualifications-and-suspensions)
 
-- [44 Recording of particulars of convictions or disqualifications by Deputy Commissioner of Police](#Recording-of-particulars-of-convictions-or-disqualifications-by-Deputy-Commissioner-of-Police)
+- [44 Recording of particulars of convictions or disqualifications by DeputyCommissioner of Police](#Recording-of-particulars-of-convictions-or-disqualifications-by-DeputyCommissioner-of-Police)
 
-- [45 Power of Deputy Commissioner of Police to suspend driving licence](#Power-of-Deputy-Commissioner-of-Police-to-suspend-driving-licence)
+- [45 Power of Deputy Commissioner of Police to suspend drivinglicence](#Power-of-Deputy-Commissioner-of-Police-to-suspend-drivinglicence)
 
-- [46 Licensee may show cause why driving licence should not be suspended](#Licensee-may-show-cause-why-driving-licence-should-not-be-suspended)
+- [46 Licensee may show cause why driving licence should not besuspended](#Licensee-may-show-cause-why-driving-licence-should-not-besuspended)
 
 - [47 Surrender and return of driving licence](#Surrender-and-return-of-driving-licence)
 
-- [47A Effect of suspension of licence by Deputy Commissioner of Police](#Effect-of-suspension-of-licence-by-Deputy-Commissioner-of-Police)
+- [47A Effect of suspension of licence by Deputy Commissioner ofPolice](#Effect-of-suspension-of-licence-by-Deputy-Commissioner-ofPolice)
 
-- [47B Disqualification or suspension to continue in certain circumstances](#Disqualification-or-suspension-to-continue-in-certain-circumstances)
+- [47B Disqualification or suspension to continue in certaincircumstances](#Disqualification-or-suspension-to-continue-in-certaincircumstances)
 
-- [47C Immediate suspension of driving licence in certain circumstances](#Immediate-suspension-of-driving-licence-in-certain-circumstances)
+- [47C Immediate suspension of driving licence in certaincircumstances](#Immediate-suspension-of-driving-licence-in-certaincircumstances)
 
 - [47D Definition of serious injury](#Definition-of-serious-injury)
 
-- [47E Penalties for offences under sections 47(5) and 47C(5)](#Penalties-for-offences-under-sections-475-and-47C5)
+- [47E Penalties for offences under sections 47 (5) and 47C (5)](#Penalties-for-offences-under-sections-47-5-and-47C-5)
 
 - [48 Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
@@ -164,7 +164,7 @@
 
 - [62 Restriction on driving by young persons](#Restriction-on-driving-by-young-persons)
 
-- [62A Restriction on driving certain categories of heavy motor vehicles](#Restriction-on-driving-certain-categories-of-heavy-motor-vehicles)
+- [62A Restriction on driving certain categories of heavy motorvehicles](#Restriction-on-driving-certain-categories-of-heavy-motorvehicles)
 
 - [63 Rate of speed](#Rate-of-speed)
 
@@ -172,7 +172,7 @@
 
 - [65 Driving without due care or reasonable consideration](#Driving-without-due-care-or-reasonable-consideration)
 
-- [65A Collision of heavy motor vehicles and public service vehicles with buildings or structures](#Collision-of-heavy-motor-vehicles-and-public-service-vehicles-with-buildings-or-structures)
+- [65A Collision of heavy motor vehicles and public service vehicles withbuildings or structures](#Collision-of-heavy-motor-vehicles-and-public-service-vehicles-withbuildings-or-structures)
 
 - [66 Causing death by reckless or dangerous driving](#Causing-death-by-reckless-or-dangerous-driving)
 
@@ -180,7 +180,7 @@
 
 - [67A Enhanced penalties for repeat offenders with previous convictions undercertain sections](#Enhanced-penalties-for-repeat-offenders-with-previous-convictions-undercertain-sections)
 
-- [68 Being in charge of motor vehicle when under influence of drink or drugs](#Being-in-charge-of-motor-vehicle-when-under-influence-of-drink-or-drugs)
+- [68 Being in charge of motor vehicle when under influence of drink ordrugs](#Being-in-charge-of-motor-vehicle-when-under-influence-of-drink-ordrugs)
 
 - [69 Breath tests](#Breath-tests)
 
@@ -190,7 +190,7 @@
 
 - [71A Evidence in proceedings for offences under sections 67 and 68](#Evidence-in-proceedings-for-offences-under-sections-67-and-68)
 
-- [71B Deputy Commissioner of Police may require medical practitioner to send blood specimen for laboratory test](#Deputy-Commissioner-of-Police-may-require-medical-practitioner-to-send-blood-specimen-for-laboratory-test)
+- [71B Deputy Commissioner of Police may require medical practitioner to sendblood specimen for laboratory test](#Deputy-Commissioner-of-Police-may-require-medical-practitioner-to-sendblood-specimen-for-laboratory-test)
 
 - [71C Interpretation of sections 67 to 71B](#Interpretation-of-sections-67-to-71B)
 
@@ -198,7 +198,7 @@
 
 - [73 Pillion riding](#Pillion-riding)
 
-- [74 Drivers and pillion riders of motor cycles to wear protective helmets](#Drivers-and-pillion-riders-of-motor-cycles-to-wear-protective-helmets)
+- [74 Drivers and pillion riders of motor cycles to wear protectivehelmets](#Drivers-and-pillion-riders-of-motor-cycles-to-wear-protectivehelmets)
 
 - [75 Wearing of seat belts](#Wearing-of-seat-belts)
 
@@ -208,9 +208,9 @@
 
 - [78 Restriction on number of trailers drawn](#Restriction-on-number-of-trailers-drawn)
 
-- [79 Penalties for driving heavy motor vehicle without permit or in breach of conditions of permit](#Penalties-for-driving-heavy-motor-vehicle-without-permit-or-in-breach-of-conditions-of-permit)
+- [79 Penalties for driving heavy motor vehicle without permit or in breachof conditions of permit](#Penalties-for-driving-heavy-motor-vehicle-without-permit-or-in-breachof-conditions-of-permit)
 
-- [80 Furnishing false information in relation to overall height of heavy motor vehicle, etc.](#Furnishing-false-information-in-relation-to-overall-height-of-heavy-motor-vehicle-etc)
+- [80 Furnishing false information in relation to overall height of heavymotor vehicle, etc.](#Furnishing-false-information-in-relation-to-overall-height-of-heavymotor-vehicle-etc)
 
 - [81 Duty to give information](#Duty-to-give-information)
 
@@ -282,13 +282,13 @@
 
 [**Part VI PROVISIONS AS TO USE OF HIGHWAYS**](#Part-VI)
 
-- [112 Issue by Minister of highway code for guidance of users of roads](#Issue-by-Minister-of-highway-code-for-guidance-of-users-of-roads)
+- [112 Issue by Minister of highway code for guidance of users ofroads](#Issue-by-Minister-of-highway-code-for-guidance-of-users-ofroads)
 
 - [113 Power to restrict use of vehicles on specified roads](#Power-to-restrict-use-of-vehicles-on-specified-roads)
 
 - [114 Traffic regulation on special roads](#Traffic-regulation-on-special-roads)
 
-- [115 Power of Minister temporarily to prohibit or restrict traffic on roads](#Power-of-Minister-temporarily-to-prohibit-or-restrict-traffic-on-roads)
+- [115 Power of Minister temporarily to prohibit or restrict traffic onroads](#Power-of-Minister-temporarily-to-prohibit-or-restrict-traffic-onroads)
 
 - [116 Restriction of competitions and speed trials](#Restriction-of-competitions-and-speed-trials)
 
@@ -302,13 +302,13 @@
 
 - [121 Pedestrian crossings](#Pedestrian-crossings)
 
-- [122 Leaving vehicles in positions likely to cause danger, obstruction or undue inconvenience](#Leaving-vehicles-in-positions-likely-to-cause-danger-obstruction-or-undue-inconvenience)
+- [122 Leaving vehicles in positions likely to cause danger, obstruction orundue inconvenience](#Leaving-vehicles-in-positions-likely-to-cause-danger-obstruction-orundue-inconvenience)
 
 - [123 Removal, detention or immobilisation of vehicles abandoned,etc.](#Removal-detention-or-immobilisation-of-vehicles-abandonedetc)
 
-- [124 Provisions with respect to stretching of ropes, etc., across roads](#Provisions-with-respect-to-stretching-of-ropes-etc-across-roads)
+- [124 Provisions with respect to stretching of ropes, etc., acrossroads](#Provisions-with-respect-to-stretching-of-ropes-etc-acrossroads)
 
-- [125 Application to vehicles and drivers in the service of Government](#Application-to-vehicles-and-drivers-in-the-service-of-Government)
+- [125 Application to vehicles and drivers in the service ofGovernment](#Application-to-vehicles-and-drivers-in-the-service-ofGovernment)
 
 - [126 Goods vehicles not to be used for passengers](#Goods-vehicles-not-to-be-used-for-passengers)
 
@@ -336,7 +336,7 @@
 
 - [137 Moneys received under this Act](#Moneys-received-under-this-Act)
 
-- [138 Registrar and Deputy Commissioner of Police to be informed of convictions](#Registrar-and-Deputy-Commissioner-of-Police-to-be-informed-of-convictions)
+- [138 Registrar and Deputy Commissioner of Police to be informed ofconvictions](#Registrar-and-Deputy-Commissioner-of-Police-to-be-informed-ofconvictions)
 
 - [139 Provisions as to evidence](#Provisions-as-to-evidence)
 
@@ -364,7 +364,7 @@
 
 REVISED EDITION 1994
 
-(15th July 1994)
+(15th March 1994)
 
 An Act for the regulation of road traffic and the use of vehicles and the user of roads and for other purposes connected therewith.
 
@@ -2530,7 +2530,7 @@ Provided that any omission to so publish the prohibition and notificationshall n
 
 ### Power to place traffic signs
 
-119\.—(1) The Authority, with the approval of the Minister, may cause or permit traffic signs to be drawn, placed or erected and maintained on or near any road, and any signs so drawn, placed or erected shall be subject to and be in conformity with such general or special directions as the Authority may give.
+119\.—(1) The Authority may cause or permit traffic signs to be drawn, placed or erected and maintained on or near any road, and any signs so drawn, placed or erected shall be subject to and be in conformity with such general or special directions as the Minister may give.
 
 [Act 28/95 wef 01/09/1995]
 
@@ -3176,3 +3176,7 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 3/96 published on 19 January 1996)|
 ||Date of Second and Third Readings|27 February 1996|
 ||Date of commencement|10 May 1996|
+|38.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
