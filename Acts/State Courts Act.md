@@ -22,6 +22,8 @@
 
 - [6 Process of courts](#Process-of-courts)
 
+- [6A Sittings of subordinate courts](#Sittings-of-subordinate-courts)
+
 - [7 Sittings in camera, etc.](#Sittings-in-camera-etc)
 
 - [8 Contempt](#Contempt)
@@ -150,7 +152,7 @@
 
 [**Part V ADMINISTRATION**](#Part-V)
 
-- [57 Sittings of subordinate courts](#Sittings-of-subordinate-courts)
+- [57 Registry of the subordinate courts](#Registry-of-the-subordinate-courts)
 
 - [58 Nature of business at any sitting](#Nature-of-business-at-any-sitting)
 
@@ -271,6 +273,20 @@ CONSTITUTION
 6\. Subject to Rules of Court, all writs, summonses, warrants, orders, notices and other mandatory processes issued by the subordinate courts shall be signed by a judicial officer and shall bear the seal of the court issuing the same.
 
 [3/87]
+
+### Sittings of subordinate courts
+
+6A\.—(1) Subject to subsection (2), every subordinate court shall sit on every day of the year except on Sundays and public holidays.
+
+(2) Notwithstanding subsection (1), a judicial officer may lawfully sit on a Sunday or public holiday or during a vacation authorised under section 61 if —
+
+(a) the Senior District Judge, with the concurrence of the Chief Justice, has directed the judicial officer to sit on that day or during that vacation; or
+
+(b) in the opinion of the judicial officer, the business to be despatched is extremely urgent.
+
+(3) Every subordinate court shall sit at such times as the Chief Justice may from time to time appoint.
+
+[8/98 wef 10/04/1998]
 
 ### Sittings in camera, etc.
 
@@ -806,9 +822,19 @@ Reference of Constitutional Question
 
 ADMINISTRATION
 
-### Sittings of subordinate courts
+### Registry of the subordinate courts
 
-57\. Every subordinate court shall be open on every day of the year except Sundays and public holidays, and shall sit at such times as the Chief Justice shall from time to time appoint.
+57\.—(1) The Registry of the subordinate courts shall be open on every day of the year except on Sundays and public holidays.
+
+(2) Notwithstanding subsection (1), the registrar may lawfully sit or carry out the business of the Registry on a Sunday or public holiday if —
+
+(a) the Senior District Judge, with the concurrence of the Chief Justice, has directed the registrar to do so on that day; or
+
+(b) in the opinion of the registrar, the business to be despatched is extremely urgent.
+
+(3) The office hours of the Registry shall be such times as the Senior District Judge, with the concurrence of the Chief Justice, may from time to time direct.
+
+[8/98 wef 10/04/1998]
 
 ### Nature of business at any sitting
 
@@ -990,54 +1016,50 @@ This Legislative History is provided for the convenience of users of the Subordi
 
 ||||
 |:-|:-|:-|
-|1.|**Act 19 of 1970—Subordinate Courts Act 1970**|
+|1.|**1970 Revised Edition (Cap. 14)—Subordinate Courts Act 1970**|
+||Date of operation|1 January 1970|
+|2.|**Act 19 of 1970—Subordinate Courts Act 1970**|
 ||Date of First Reading|26 March 1970|
-|||(Bill No. 10/70 published on 2 April 1970)|
-||Date of Second and Third Readings|7 May 1970|
+|||(Bill No. 10/1970)|
+||Date of Second and Third Readings|Dates not available.|
 ||Date of commencement|1 January 1971|
-|2.|**1970 Revised Edition—Subordinate Courts Act (Cap. 14)**|
-||Date of operation|1 March 1971|
-|3.|**Act 34 of 1973—Statutes of the Republic of Singapore (Miscellaneous Amendments) (No. 3) Act 1973**|
-||Date of First Reading|11 July 1973|
-|||(Bill No. 27/73 published on 14 July 1973)|
-||Date of Second and Third Readings|25 July 1973|
-||Date of commencement|24 August 1973|
-|4.|**Act 6 of 1976—Subordinate Courts (Amendment) Act 1976**|
-||Date of First Reading|1 March 1976|
-|||(Bill No. 2/76 published on 5 March 1976)|
-||Date of Second and Third Readings|25 March 1976|
-||Date of commencement|3 April 1976|
+|3.|**Act 6 of 1976—Short title unknown**|
+||Date of First, Second and Third Readings|Date not available.|
+||Date of commencement|Date not available|
+|4.|**1985 Revised Edition—Subordinate Courts Act**|
+||Date of operation|1 January 1985|
 |5.|**Act 27 of 1984—Small Claims Tribunals Act 1984**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|29 June 1984|
-|||(Bill No. 10/84 published on 9 July 1984)|
-||Date of Second and Third Readings|24 August 1984|
+|||(Bill No. 10/1984)|
+||Date of Second and Third Readings|Dates not available.|
 ||Date of commencement|15 January 1985|
 |6.|**Act 3 of 1986—Subordinate Courts (Amendment) Act 1986**|
 ||Date of First Reading|31 October 1985|
-|||(Bill No. 19/85 published on 8 November 1985)|
+|||(Bill No. 19/1985 published on 31 January 1986)|
 ||Date of Second and Third Readings|10 January 1986|
 ||Date of commencement|1 March 1986|
 |7.|**Act 3 of 1987—Statute Law Revision Act 1987**|
 ||Date of First Reading|9 December 1986|
-|||(Bill No. 28/86 published on 10 December 1986)|
 ||Date of Second and Third Readings|26 January 1987|
 ||Date of commencement|20 February 1987|
 |8.|**1985 Revised Edition—Subordinate Courts Act**|
 ||Date of operation|30 March 1987|
 |9.|**Act 15 of 1993—Subordinate Courts (Amendment) Act 1993**|
 ||Date of First Reading|26 February 1993|
-|||(Bill No. 13/93 published on 27 February 1993)|
+|||(Bill No. 13/1993 published on 11 June 1993)|
 ||Date of Second and Third Readings|13 April 1993|
 ||Date of commencement|1 July 1993|
 |10.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 February 1993|
-|||(Bill No. 12/93 published on 27 February 1993)|
+|||(Bill No. 12/1993 published on 11 June 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
 |11.|**Act 4 of 1996—Subordinate Courts (Amendment) Act 1995**|
 ||Date of First Reading|1 November 1995|
-|||(Bill No. 37/95 published on 2 November 1995)|
+|||(Bill No. 37/1995 published on 19 January 1996)|
 ||Date of Second and Third Readings|5 December 1995|
 ||Date of commencement|26 January 1996|
+|12.|**Act 8 of 1998—Holidays Act 1998**|
+||Date of First Reading|14 January 1998|
+||Date of Second and Third Readings|19 February 1998|
+||Date of commencement|10 April 1998|
