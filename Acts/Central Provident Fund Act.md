@@ -326,13 +326,13 @@ PRELIMINARY
 
 (2) The Board shall be a body corporate with perpetual succession and shall have a common seal and may sue and be sued in its corporate name.
 
-(3) All deeds, documents and other instruments requiring the seal of the Board shall be —
+(3) All deeds, documents and other instruments requiring the common seal of the Board shall be sealed with the common seal of the Board.
 
-(a) sealed with the common seal of the Board by the authority of the Board in the presence of the General Manager, a Deputy General Manager or a member of the Board and of some other person duly authorised by the Board to act in that behalf; and
+[36/2002 wef 01/03/2003]
 
-(b) signed by the General Manager, a Deputy General Manager or the member of the Board, as the case may be, and by that duly authorised person, and such signing shall be sufficient evidence that the common seal of the Board has been duly and properly affixed and that the seal is the lawful seal of the Board.
+(3A) All instruments to which the common seal is affixed shall be signed by any 2 officers of the Board generally or specially authorised by the Board for the purpose.
 
-[12/99]
+[36/2002 wef 01/03/2003]
 
 (4) The Board may by resolution or otherwise appoint an officer of the Board or any other agent either generally or in a particular case to execute or sign on behalf of the Board any agreement or other instrument not under seal in relation to any matter coming within the powers of the Board.
 
@@ -396,9 +396,17 @@ PRELIMINARY
 
 ### Appointment of officers and employees
 
-4A\.—(1) The Board, with the President’s concurrence under Article 22A(1)(b) of the Constitution, shall appoint a General Manager on such terms and conditions as it may determine.
+4A\.—(1) The Board shall, with the President’s concurrence under Article 22A(1)(b) of the Constitution, appoint a chief executive officer on such terms and conditions as the Board may determine.
 
-[11/91]
+[36/2002 wef 01/03/2003]
+
+(1A) The chief executive officer shall be —
+
+(a) known by such designation as the Board may determine; and
+
+(b) responsible to the Board for the proper administration and management of its functions and affairs in accordance with all policies laid down by the Board.
+
+[36/2002 wef 01/03/2003]
 
 (2) The Board shall have power to engage a staff consisting of such officers and employees as are in the opinion of the Board necessary for the purpose of carrying out the provisions of this Act.
 
@@ -678,21 +686,13 @@ CONTRIBUTIONS TO FUND
 
 (a) a person who is a citizen or permanent resident of Singapore in respect of whom no contribution is required to be paid under this Act may contribute voluntarily to the Fund in such manner and at such rate as the Minister may direct; and
 
-[36/2002 wef 01/01/2003]
-
 (b) the Board shall credit every contribution received under paragraph (a) into an ordinary account, a medisave account or a special account, for the purposes specified in section 13(1), in such manner as the Minister may direct, and the Minister may give different directions in respect of different classes of members.
 
 [30/98]
 
-[36/2002 wef 01/01/2003]
-
 (2) The amount which a person may contribute voluntarily under subsection (1) or section 7(4) shall not exceed the sum of $28,800 in any year or such other sum as the Minister may, from time to time, prescribe by notification in theGazette.
 
-[36/2002 wef 01/01/2003]
-
 (3) For the purpose of computing the sum referred to in subsection (2) in any year, the amount contributed by the person which is obligatory under this Act and any voluntary contribution paid by his employer under section 7(4)(c) in that year shall be included, and any contribution made in that year under sections 73 and 79 shall not be included.
-
-[36/2002 wef 01/01/2003]
 
 ### Payment of cash grant by Government into Fund
 
@@ -921,8 +921,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 [5/87]
 
 (12) No moneys deposited in an account with an approved bank or in a retirement account under subsection (6C) and no withdrawals made by a member from that account with an approved bank or from a retirement account and no payments received by a member from an approved annuity purchased with the minimum sum shall be liable to be attached, sequestered or levied upon for or in respect of any debt or claim, or be subject to any right of set-off by the approved bank for any debt owing by the member to the approved bank.
-
-[36/2002 wef 01/01/2003]
 
 (13) Such moneys, withdrawals and payments mentioned in subsection (12) shall not pass to the Official Assignee on the bankruptcy of the member.
 
@@ -1471,8 +1469,6 @@ for the repayment to the Board to the account of that member in the Fund from wh
 24\.—(1) Except as may be provided for in any regulations made under section 77, no withdrawals made by the authority of the Board from the Fund under section 15 nor the rights of any member of the Fund acquired thereunder shall be assignable or transferable or liable to be attached, sequestered or levied upon for or in respect of any debt or claim.
 
 (2) Precious metals and securities purchased by a member and the proceeds from the sale of such precious metals and securities and any moneys in any fixed deposit account maintained by a member with a bank, under any scheme in accordance with any regulations made under section 77 which allow the member to withdraw his moneys in the Fund, for the purposes of investment and which the member is obliged to repay into the Fund shall not be attached, sequestered, levied upon for or in respect of any debt or claim or be subject to any right of set-off by the bank for any debt owing by the member to the bank.
-
-[36/2002 wef 01/01/2003]
 
 (3) Such precious metals, securities, proceeds or moneys shall not pass to the Official Assignee on the bankruptcy of such member, and if such member is adjudicated a bankrupt or is declared insolvent by a court, such precious metals, securities, proceeds or moneys shall be deemed not to form part of the property of the member.
 
@@ -2310,10 +2306,6 @@ he shall be guilty of an offence.
 
 66\. In any legal proceedings, a copy of an entry in the accounts of the Fund, the Home Protection Fund, the Dependants’ Protection Insurance Fund or the MediShield Fund, as the case may be, duly certified under the hand of such officer of the Board as it may authorise shall be prima facie evidence of the entry having been made and of the truth of the contents thereof.
 
-[36/2002 wef 01/01/2003]
-
-[24/2005 wef 17/09/2005]
-
 ### Certificate of Board on non-payment of contributions
 
 66A\. In any proceedings relating to the recovery or non-payment of contributions under section 7, a certificate purporting to be issued by the Board certifying the amount of the contributions and interest due thereon and payable by an employer or other person shall be prima facie evidence that the amount of contributions and interest so stated is due and payable by the employer or other person so named in the certificate as at the date of the certificate.
@@ -2532,8 +2524,6 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (a) to provide for the manner of payment, collection and refund of contributions and any matters incidental thereto, including by electronic or other means;
 
-[36/2002 wef 01/01/2003]
-
 (b) to provide for the disposal of amounts which are unclaimed, unpaid or otherwise remain in the Fund;
 
 (c) to provide for the classification of any employment, not being employment under a contract of service or apprenticeship, as an employment in respect of which contributions are payable under the provisions of this Act;
@@ -2579,8 +2569,6 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 (q) to provide for rates of contributions, other than those specified in the First Schedule, in respect of such categories, classes or descriptions of employees as the Minister may specify;
 
 (qa) to prescribe the fees and charges that may be levied by the Board for the purposes of this Act;
-
-[36/2002 wef 01/01/2003]
 
 (r) to provide for members of the Fund to apply or withdraw all or part of the contributions and interest standing to their credit in the Fund for the payment of improvement contributions due to the Housing and Development Board constituted under the Housing and Development Act (Cap. 129) in respect of upgrading works carried out under Part IVA of that Act including the payment of costs, fees or other incidental expenses arising from such works; and
 
@@ -4833,6 +4821,11 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 34/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Dates of commencement|1 January 2003 (except sections 2 and 3)|
+|129.|**Act 36 of 2002—Central Provident Fund (Amendment) Act 2002**|
+||Date of First Reading|1 October 2002|
+|||(Bill No. 34/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Dates of commencement|1 March 2003 (sections 2 and 3)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
