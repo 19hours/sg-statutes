@@ -2054,6 +2054,22 @@ he shall be guilty of an offence.
 
 (5) No refund shall be made of any fee paid under subsection (3).
 
+(6) The Board may, on the request by an insurer administering or operating an insurance scheme referred to in section 77(1)(ja), give to the insurer information, in the Board’s possession, on any member that the insurer requires for the purpose of administering or operating the insurance scheme, including information relating to the amount standing to his credit in his medisave account.
+
+[34/2001 wef 01/01/2002]
+
+(7) The insurer may not use the information given under subsection (6) for any other purpose except —
+
+(a) for the purpose of determining whether a member is entitled to join the insurance scheme referred to in section 77(1)(ja); or
+
+(b) for any other purpose connected with the administration or operation of the insurance scheme.
+
+[34/2001 wef 01/01/2002]
+
+(8) An insurer who knowingly contravenes subsection (7) shall be guilty of an offence.
+
+[34/2001 wef 01/01/2002]
+
 ### Offences by corporations
 
 60\. Where an offence under this Act has been committed by a body corporate and is found to have been committed with the consent or connivance of or to be attributable to any act or default on the part of any director, manager, secretary or other officer of the body corporate, that director, manager, secretary or other officer as well as the body corporate shall be guilty of an offence.
@@ -2420,7 +2436,7 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 [22/2010 wef 01/10/2010]
 
-(k) with respect to the withdrawal of money from the medisave account of a member for payment of premium payable by the member or his dependant who is insured under a medical insurance schemeapproved by the Minister charged with the responsibility for health;
+(k) with respect to the withdrawal of money from the medisave account of a member for payment of premium payable by the member or his dependant who is insured under a medical insurance scheme or other insurance scheme approved by the Minister charged with the responsibility for health;
 
 [34/2001 wef 01/01/2002]
 
@@ -4793,6 +4809,11 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 October 2001|
 |121.|**2001 Revised Edition—Central Provident Fund Act (Chapter 36)**|
 ||Date of operation|31 December 2001|
+|122.|**Act 34 of 2001—Central Provident Fund (Amendment) Act 2001**|
+||Date of First Reading|13 August 2001|
+|||(Bill No. 32/2001 published on 14 August 2001)|
+||Date of Second and Third Readings|25 September 2001|
+||Date of commencement|1 January 2002|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
