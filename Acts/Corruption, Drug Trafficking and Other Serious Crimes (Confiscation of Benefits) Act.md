@@ -290,9 +290,13 @@ PRELIMINARY
 
 (c) a finance company licensed under the Finance Companies Act (Cap. 108);
 
-(d) a dealer or an investment adviser licensed under the Securities Industry Act (Cap. 289);
+(d) the holder of a capital markets services licence under the Securities and Futures Act 2001;
 
-(e) a futures broker, a futures trading adviser or a futures pool operator licensed under the Futures Trading Act (Cap. 116);
+[42/2001 wef 01/10/2002]
+
+(e) a licensed financial adviser under the Financial Advisers Act 2001;
+
+[42/2001 wef 01/10/2002]
 
 (f) a company or society registered under the Insurance Act (Cap. 142) as a direct insurer carrying on life business;
 
@@ -3133,6 +3137,12 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 12/2001 published on 23 February 2001)|
 ||Date of Second and Third Readings|20 April 2001|
 ||Date of commencement|1 October 2001|
+|10.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Dates of commencement|1 October 2002 (item (5) of the Fourth Schedule)|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
