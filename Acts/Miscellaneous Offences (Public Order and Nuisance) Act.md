@@ -36,7 +36,21 @@
 
 - [13 Other offences](#Other-offences)
 
+- [13A Intentional harassment, alarm or distress](#Intentional-harassment-alarm-or-distress)
+
+- [13B Harassment, alarm or distress](#Harassment-alarm-or-distress)
+
+- [13C Fear or provocation of violence](#Fear-or-provocation-of-violence)
+
+- [13D Threatening, abusing or insulting public servant](#Threatening-abusing-or-insulting-public-servant)
+
 - [14 Excessive noise](#Excessive-noise)
+
+- [14A Making of harassing or obscene telephone calls to emergency telephone numbers](#Making-of-harassing-or-obscene-telephone-calls-to-emergency-telephone-numbers)
+
+- [14B Liability of subscriber](#Liability-of-subscriber)
+
+- [14C Furnishing of information](#Furnishing-of-information)
 
 - [15 Relief for occupier of premises from nuisance](#Relief-for-occupier-of-premises-from-nuisance)
 
@@ -67,6 +81,8 @@
 - [26 Disorderly or indecent behaviour by prostitutes](#Disorderly-or-indecent-behaviour-by-prostitutes)
 
 - [27 Rogues and vagabonds. Persons previously convicted under section 26](#Rogues-and-vagabonds-Persons-previously-convicted-under-section-26)
+
+- [27A Appearing nude in public or private place](#Appearing-nude-in-public-or-private-place)
 
 - [28 Any person may arrest offender](#Any-person-may-arrest-offender)
 
@@ -146,7 +162,9 @@ PRELIMINARY
 
 ### Offences how punishable
 
-4\. All offences under this Act shall be tried by a Magistrate’s Court or a District Court; and notwithstanding the provisions of any other written law, a Magistrate’s Court shall have the power to impose the maximum penalty prescribed for any such offence.
+4\. All offences under this Act shall be tried by a Magistrate’s Court or a District Court; and notwithstanding the provisions of any other written law, a Magistrate’s Court or a District Court shall have the power to impose the maximum penalty prescribed for any such offence.
+
+[Act 12 of 1996 wef 15/05/1996]
 
 ## PART II
 
@@ -192,11 +210,15 @@ Provided that it shall be no offence under this section for any person to discha
 
 ### Ferocious dog at large
 
-9\. Any person who negligently suffers to be at large any ferocious dog without a muzzle shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000, and if the dog has bitten, or attempted to bite any person, the dog may be killed by order of a Magistrate’s Court.
+9\. Any person who negligently suffers to be at large any ferocious dog without a muzzle shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000, and if the dog has bitten, or attempted to bite any person, the dog may be killed by order of a Magistrate’s Court.
+
+[Act 12 of 1996 wef 15/05/1996]
 
 ### Liability of dog owner
 
-10\.—(1) Any owner of a dog which causes injury to any person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+10\.—(1) Any owner of a dog which causes injury to any person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 12 of 1996 wef 15/05/1996]
 
 (2) In addition to any fine imposed under subsection (1), compensation not exceeding $2,000 shall be payable to the person injured in respect of any such injury. Such compensation shall be assessed by the Magistrate’s Court and shall be recoverable from the owner of the dog in the manner provided by law for the recovery of fines before Magistrates’ Courts.
 
@@ -260,7 +282,7 @@ Allowing horses, cattle, etc., to stray
 
 ### Other offences
 
-13\. Any person who commits any of the following offences shall be liable on conviction to a fine not exceeding $1,000:
+13\. Any person who commits any of the following offences shall be liable on conviction to a fine not exceeding $5,000:
 
 Placing article on public road
 
@@ -282,9 +304,7 @@ Flying kite near public road
 
 (e) flies any kite, or plays at any game, or does any act which obstructs or interferes with the traffic in any public road, or the use of the wires of any telephone;
 
-Abusive language
-
-(f) uses any indecent, threatening, abusive or insulting words, or behaves in a threatening or insulting manner, or posts up, or affixes, or exhibits any indecent, threatening, abusive or insulting written paper or drawing with intent to provoke a breach of the peace, or whereby a breach of the peace is likely to be occasioned;
+(f) [Deleted by Act 12 of 1996 wef 15/05/1996]
 
 (g) places any blind, shade, covering, awning or other projection over or along any public road if any part thereof is less than 21/
 
@@ -292,13 +312,125 @@ Abusive language
 
 metres above the surface of that public road.
 
+[Act 12 of 1996 wef 15/05/1996]
+
+### Intentional harassment, alarm or distress
+
+13A\.—(1) Any person who in a public place or in a private place, with intent to cause harassment, alarm or distress to another person —
+
+(a) uses threatening, abusive or insulting words or behaviour; or
+
+(b) displays any writing, sign or other visible representation which is threatening, abusive or insulting,
+
+thereby causing that person or any other person harassment, alarm or distress, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(2) It is a defence for the accused to prove —
+
+(a) that he was inside a dwelling-house and had no reason to believe that the words or behaviour used, or the writing, sign or other visible representation displayed, by him would be heard or seen by a person outside that dwelling-house or any other dwelling-house; or
+
+(b) that his conduct was reasonable.
+
+[Act 12 of 1996 wef 15/05/1996]
+
+### Harassment, alarm or distress
+
+13B\.—(1) Any person who in a public place or in a private place —
+
+(a) uses threatening, abusive or insulting words or behaviour; or
+
+(b) displays any writing, sign or other visible representation which is threatening, abusive or insulting,
+
+within the hearing or sight of any person likely to be caused harassment, alarm or distress thereby shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+(2) It is a defence for the accused to prove —
+
+(a) that he had no reason to believe that there was any person within hearing or sight who was likely to be caused harassment, alarm or distress;
+
+(b) that he was inside a dwelling-house and had no reason to believe that the words or behaviour used, or the writing, sign or other visible representation displayed, would be heard or seen by a person outside that dwelling-house or any other dwelling-house; or
+
+(c) that his conduct was reasonable.
+
+[Act 12 of 1996 wef 15/05/1996]
+
+### Fear or provocation of violence
+
+13C\. Any person who in a public place or in a private place —
+
+(a) uses towards another person threatening, abusive or insulting words or behaviour; or
+
+(b) distributes or displays to another person any writing, sign or other visible representation which is threatening, abusive or insulting,
+
+with intent to cause that person to believe that immediate unlawful violence will be used against him or another person by any person, or to provoke the immediate use of unlawful violence by that person or another person, or whereby that person is likely to believe that such violence will be used or it is likely that such violence will be provoked shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[Act 12 of 1996 wef 15/05/1996]
+
+### Threatening, abusing or insulting public servant
+
+13D\.—(1) Any person who in a public place or in a private place —
+
+(a) uses any indecent, threatening, abusive or insulting words or behaviour towards a public servant in the execution of his duty as such public servant; or
+
+(b) distributes or displays to a public servant in the execution of his duty as such public servant any writing, sign or other visible representation which is indecent, threatening, abusive or insulting,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
+
+(2) For the purpose of this section, “public servant” has the same meaning as in the Penal Code [Cap. 224] and includes any other officer who, by virtue of any other written law, is deemed to be a public servant within the meaning of the Penal Code.
+
+[Act 12 of 1996 wef 15/05/1996]
+
 ### Excessive noise
 
 14\.—(1) Any person who makes any noise by any instrument or other means in such a manner as to cause or be likely to cause annoyance or inconvenience to the occupier of any premises in the vicinity or to any person lawfully using any public road or in any public place shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-(2) Any police officer, on any complaint that any person in any premises is making such noise as to cause annoyance or inconvenience to the complainant, may enter upon the premises and, after warning the person reasonably suspected of making the noise, stop the making of such noise whether by the removal of any instrument or object or in some other appropriate manner.
+(2) Any police officer, on any complaint that any person in any premises or in any public place is making such noise as to cause annoyance or inconvenience to the complainant, may enter upon the premises or proceed to the public place and, after warning the person reasonably suspected of making the noise, stop the making of such noise whether by the removal of any instrument or object or in some other appropriate manner.
+
+[Act 12 of 1996 wef 15/05/1996]
 
 [13A
+
+### Making of harassing or obscene telephone calls to emergency telephone numbers
+
+14A\.—(1) Any person who makes a telephone call to an emergency telephone number with intent to annoy, abuse, threaten or harass any person who answers the telephone call shall be guilty of an offence and, subject to subsection (3), shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+
+(2) Any person who makes a telephone call to an emergency telephone number and, upon the call being answered, makes or solicits any comment, request, suggestion, proposal or other communication or sound which is obscene, lewd, lascivious, filthy or indecent, shall be guilty of an offence and, subject to subsection (3), shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(3) Any person who uses a public telephone to commit an offence —
+
+(a) under subsection (1) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both; and
+
+(b) under subsection (2) shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+(4) For the purposes of this section —
+
+(a) “emergency telephone number” means any telephone number which the Minister may, by order published in theGazette, declare to be an emergency telephone number; and
+
+(b) a person who makes a telephone call to an emergency telephone number and, upon the telephone call being answered, refuses to speak or immediately hangs up shall be presumed until the contrary is proved to have intent to annoy any person answering the telephone call.
+
+(5) For the purposes of this section and section 14B, “public telephone” means a telephone which is available for use by any member of the public with or without payment.
+
+[Act 12 of 1996 wef 15/05/1996]
+
+### Liability of subscriber
+
+14B\.—(1) Any person being the subscriber to a telephone service which has been used to commit an offence under section 14A shall, unless he proves to the satisfaction of the court that he had exercised due diligence to prevent the commission of the offence, be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(2) Subsection (1) shall not apply to the subscriber of a public telephone service.
+
+[Act 12 of 1996 wef 15/05/1996]
+
+### Furnishing of information
+
+14C\.—(1) A police officer may, for the purpose of investigating into an offence under section 14A or 14B, by notice in writing require any person to furnish, within such period as may be specified in the notice, any document or information as may be —
+
+(a) required by the police officer for the purpose of the investigation; and
+
+(b) within the knowledge, or in the custody or under the control, of such person.
+
+(2) No action, suit or proceeding shall lie against any person who has furnished any document or information to a police officer pursuant to subsection (1).
+
+(3) Any person who, on being required by a notice under subsection (1) to furnish any document or information, fails to comply with the notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 12 of 1996 wef 15/05/1996]
 
 ### Relief for occupier of premises from nuisance
 
@@ -386,13 +518,27 @@ OTHER OFFENCES
 
 22\.—(1) Any person who is found —
 
-(a) armed with any dangerous or offensive instrument with intent to commit any offence;
+(a) armed with any dangerous or offensive instrument without lawful authority or a lawful purpose;
+
+[Act 12 of 1996 wef 15/05/1996]
 
 (b) having his face covered or otherwise found disguised with intent to commit any offence; or
 
 (c) armed with any article or instrument for use in the course of or in connection with any housebreaking,
 
 shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years; and any instrument or article found in the possession of that person shall be forfeited.
+
+(1A) In any prosecution for an offence under subsection (1)(a), it shall be sufficient for the prosecution to allege and prove that the accused was found to be armed with any dangerous or offensive instrument and the onus shall then be upon the accused to show that he had lawful authority or a lawful purpose to be so armed.
+
+[Act 12 of 1996 wef 15/05/1996]
+
+(1B) An instrument shall be presumed to be carried with lawful authority if it is carried —
+
+(a) by any member of the Singapore Armed Forces, the Singapore Police Force, the Singapore Civil Defence Force, the Commercial and Industrial Security Corporation or of any visiting force lawfully present in Singapore under the provisions of any law relating to visiting forces; or
+
+(b) by any person as part of his official or ceremonial dress on any official or ceremonial occasion.
+
+[Act 12 of 1996 wef 15/05/1996]
 
 (2) Any person who —
 
@@ -450,7 +596,9 @@ VAGRANCY
 
 Fortune tellers
 
-(b) every person pretending or professing to tell fortunes, or using any subtle craft, means or device, by palmistry or otherwise, to deceive and impose upon any person;
+(b) every person pretending or professing to tell fortunes in any manner which causes or is likely to cause a public nuisance, or using any subtle craft, means or device, by palmistry or otherwise, to deceive and impose upon any person;
+
+[Act 12 of 1996 wef 15/05/1996]
 
 Exposure of obscene or indecent prints, etc.
 
@@ -483,6 +631,24 @@ Idle and disorderly person resisting arrest
 shall be deemed to be a rogue and vagabond within the meaning of this Part and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 [31
+
+### Appearing nude in public or private place
+
+27A\.—(1) Any person who appears nude —
+
+(a) in a public place; or
+
+(b) in a private place and is exposed to public view,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+(2) For the purpose of this section, the reference to a person appearing nude includes a person who is clad in such a manner as to offend against public decency or order.
+
+(3) Where an offence under this section is committed in a private place, it shall be lawful for a police officer to enter the private place without the authority of the owner or occupier of the private place to effect the arrest of the offender.
+
+(4) In effecting entry under subsection (3), it shall be lawful for a police officer to use such force as may be necessary to enter the private place.
+
+[Act 12 of 1996 wef 15/05/1996]
 
 ### Any person may arrest offender
 
@@ -817,3 +983,8 @@ This Legislative History is provided for the convenience of users of the Minor O
 ||Date of commencement|9 June 1989|
 |41.|**1990 Revised Edition—Miscellaneous Offences (Public Order and Nuisance) Act (Chapter 184)**|
 ||Date of operation|15 March 1990|
+|42.|**Act 12 of 1996—Miscellaneous Offences (Public Order and Nuisance) (Amendment) Act 1996**|
+||Date of First Reading|18 January 1996|
+|||(Bill No. 2/96 published on 19 January 1996)|
+||Date of Second and Third Readings|27 February 1996|
+||Date of commencement|15 May 1996|
