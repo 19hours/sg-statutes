@@ -304,6 +304,8 @@ ADMINISTRATION
 
 4\.—(1) The Director-General or the Director may, subject to such conditions or restrictions as he thinks fit, delegate to any Health Officer all or any of the powers conferred on him by this Act.
 
+(2) [Deleted by Act 4/2002 wef 01/07/2002]
+
 ### Advisory committees
 
 5\. The Minister may establish one or more advisory committees consisting of such members as he may appoint for the purpose of giving advice to the Director-General or the Director, as the case may be, with regard to such matters arising out of the administration of this Act as are referred to them by the Minister.
@@ -1208,6 +1210,10 @@ Infectious Diseases
 
 (16) Rubella\.
 
+(16A) Severe Acute Respiratory Syndrome (SARS).
+
+[S 127/2003 wef 17/03/2003]
+
 (17) Typhoid\.
 
 (18) Tuberculosis\.
@@ -1241,6 +1247,10 @@ Section 2
 Dangerous Infectious Diseases
 
 (1) Plague\.
+
+(1A) Severe Acute Respiratory Syndrome (SARS).
+
+[S 127/2003 wef 17/03/2003]
 
 (2) Yellow Fever.
 
@@ -1345,6 +1355,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 |||(Bill No. 13/2001 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|1 July 2002|
+|21.|**G. N. No. S 127/2003—Infectious Diseases Act (Amendment of First and Second Schedules) Notification 2003**|
+||Date of commencement|17 March 2003|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
