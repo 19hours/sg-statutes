@@ -40,7 +40,9 @@ An Act to provide for the payment into the Consolidated Fund of moneys from the 
 
 2\. In this Act, unless the context otherwise requires —
 
-“Consolidated Fund” means the Consolidated Fund established under Article 143 of the Constitution;
+“Consolidated Fund” means the Consolidated Fund established under Article 145 of the Constitution;
+
+[11/1991 wef 30/11/1991]
 
 “expenditure” means all expenses properly incurred by a specified statutory corporation in performing its functions and duties;
 
@@ -161,3 +163,8 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|21 April 1989|
 |2.|**1990 Revised Edition—Statutory Corporations (Contributions to Consolidated Fund) Act**|
 ||Date of operation|15 March 1990|
+|3.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/1991 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
