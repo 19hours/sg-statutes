@@ -867,3 +867,5 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of commencement|15 May 1992|
 |32.|**G. N. No. S 421/1992—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) (No. 2) Notification 1992**|
 ||Date of commencement|2 October 1992|
+|33.|**G. N. No. S 278/1994—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) Notification 1994**|
+||Date of commencement|1 July 1994|
