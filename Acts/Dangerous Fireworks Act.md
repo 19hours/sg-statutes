@@ -12,6 +12,8 @@
 
 - [3 Prohibition on possession and discharge of fireworks](#Prohibition-on-possession-and-discharge-of-fireworks)
 
+- [3A Prohibition on sale, transport, delivery, distribution or import of fireworks](#Prohibition-on-sale-transport-delivery-distribution-or-import-of-fireworks)
+
 - [4 Dangerous fireworks in transit](#Dangerous-fireworks-in-transit)
 
 - [5 Penalty](#Penalty)
@@ -74,13 +76,37 @@ any dangerous fireworks.
 
 (b) while being loaded onto or discharged from any vessel, aircraft or vehicle by any person or his employees or his agents.
 
+### Prohibition on sale, transport, delivery, distribution or import of fireworks
+
+3A\.—(1) No person shall sell, transport, send, deliver, distribute or import any dangerous fireworks.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than 6 months and not more than 2 years and shall also, subject to section 231 of the Criminal Procedure Code, be punished with caning with not more than 6 strokes.
+
+(3) When any offence under subsection (1) committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate or any person purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against accordingly.
+
+(4) Where any dangerous fireworks is found in any business premises or in any vehicle used for the purposes of such business, it shall be presumed, until the contrary is proved, that the dangerous fireworks is for sale, transport, delivery or distribution by the owner of the business.
+
+(5) For the purposes of subsection (4), “business premises” means a shop or a building, or part thereof, where retail or wholesale trading is carried on.
+
+(6) Section 3(2) shall apply to subsection (1) of this section as it applies to subsection (1) of that section.
+
+[Act 8/88 wef 01/05/1988 vide S 106/88]
+
 ### Dangerous fireworks in transit
 
 4\. Where any dangerous fireworks brought into Singapore in transit is landed or transhipped in Singapore it shall be stored and dealt with as the Minister may direct.
 
 ### Penalty
 
-5\. Every omission or neglect to comply with, and every act done or attempted to be done contrary to, the provisions of this Act shall be an offence and the offender shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+5\.—(1) Every omission or neglect to comply with and every act done or attempted to be done contrary to the provisions of section 3(1)(a) or 4 shall be an offence and the offender shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(2) Any person who contravenes section 3(1)(b) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in respect of a first offence, to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 2 years or to both; and
+
+(b) in respect of a second or subsequent offence, to imprisonment for a term not exceeding 2 years and shall also, subject to section 231 of the Criminal Procedure Code, be punished with caning with not more than 6 strokes.
+
+[Act 8/88 wef 01/05/1988 vide S 106/88]
 
 ### Arrest
 
@@ -121,3 +147,8 @@ This Legislative History is provided for the convenience of users of the Dangero
 ||Date of commencement|1 August 1972|
 |2.|**1985 Revised Edition—Dangerous Fireworks Act (Chapter 72)**|
 ||Date of operation|30 March 1987|
+|3.|**Act 8 of 1988—Dangerous Fireworks (Amendment) Act 1988**|
+||Date of First Reading|25 February 1988|
+|||(Bill No. 2/88 published on 26 February 1988)|
+||Date of Second and Third Readings|30 March 1988|
+||Date of commencement|1 May 1988|
