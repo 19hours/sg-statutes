@@ -222,7 +222,7 @@ Provided that the Registrar-General may impose and order to be paid to him forth
 
 14\. In the case of every still birth it shall, unless there has been an inquest, be the duty of the person who would, if the child had been born alive, have been required by section 9 to give information concerning the birth, to give information within 14 days after the still birth has taken place to any deputy registrar of the local registration area in which the still birth occurred of the particulars required to be registered concerning the still birth and every such person on giving information shall either —
 
-(a) deliver to the deputy registrar a written certificate in the prescribed form that the child was not born alive, signed by a medical practitioner or a midwife registered under the Nurses and Midwives Act [Cap. 209] who was in attendance at the birth, or by a medical practitioner who has examined the body of the child; or
+(a) deliver to the deputy registrar a written certificate in the prescribed form that the child was not born alive, signed by a medical practitioner or a registered midwife within the meaning of the Nurses and Midwives Act 1999 who was in attendance at the birth, or by a medical practitioner who has examined the body of the child; or
 
 (b) make a declaration in the prescribed form to the effect that no medical practitioner or registered midwife was present at the birth, or that no medical practitioner has examined the body, or that a certificate as required in paragraph (a) cannot be obtained and that the child was not born alive.
 
@@ -441,3 +441,9 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Dates of commencement|1 October 1997|
+|17.|**Act 46 of 1999—Nurses and Midwives Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 38/1999 published on 12 October 1999)|
+||Date of Second and Third Readings|24 November 1999|
+||Date of commencement|1 May 2000|
