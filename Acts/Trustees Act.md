@@ -1314,13 +1314,23 @@ Part II
 
 Part III
 
-In any fixed income securities of a government outside Singapore having a Triple A credit rating or equivalent given by any of the following credit rating agencies:
+In any fixed income securities of —
 
 (a)
 
-Moody’s Investors Service, Inc, USA;
+a government outside Singapore; or
 
 (b)
+
+an entity owned or controlled by 2 or more governments (which may include the Government), irrespective of whether such ownership or control is shared with any other non-governmental entity,
+
+having a Triple A credit rating or equivalent given by one of the following credit rating agencies:
+
+(i)
+
+Moody’s Investors Service, Inc., USA;
+
+(ii)
 
 Standard and Poor’s Corporation, USA,
 
@@ -1364,7 +1374,7 @@ or for either of those purposes and for other purposes, shall be deemed —
 
 Part V
 
-1. In relation to the investments specified in paragraphs 1, 2 and 3 of Part II and paragraph 1 of Part III, proper advice for the purposes of section 5(2) means the advice of an investment adviser licensed under the Securities Industry Act or a bank licensed under the Banking Act or a merchant bank approved under the Monetary Authority of Singapore Act [Cap. 186] as to the matters referred to in section 5(1).
+1. In relation to the investments specified in paragraphs 1, 2 and 3 of Part II and in Part III, proper advice for the purposes of section 5(2) means the advice of an investment adviser licensed under the Securities Industry Act or a bank licensed under the Banking Act or a merchant bank approved under the Monetary Authority of Singapore Act [Cap. 186] as to the matters referred to in section 5(1).
 
 [S 322/99 wef 16/07/1999]
 
@@ -1510,3 +1520,5 @@ This Legislative History is provided for the convenience of users of the Trustee
 |||(Bill No. 34/1998 published on 1 August 1998)|
 ||Date of Second and Third Readings|12 October 1998|
 ||Date of commencement|16 November 1998 (Transfer date)|
+|17.|**G. N. No. S 322/1999—Trustees Act (Amendment of First Schedule) Order 1999**|
+||Date of commencement|16 July 1999|
