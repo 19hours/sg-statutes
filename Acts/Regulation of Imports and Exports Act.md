@@ -68,6 +68,8 @@
 
 - [28 Penalty for false declarations, etc.](#Penalty-for-false-declarations-etc)
 
+- [28A Penalty for incorrect trade descriptions](#Penalty-for-incorrect-trade-descriptions)
+
 - [29 Penalty for unauthorised modification of computer program or data](#Penalty-for-unauthorised-modification-of-computer-program-or-data)
 
 - [30 General powers to call for information as to goods](#General-powers-to-call-for-information-as-to-goods)
@@ -78,7 +80,7 @@
 
 - [33 Jurisdiction of Courts](#Jurisdiction-of-Courts)
 
-- [34 Power of Board to remit penalties and restore goods seized or forfeited](#Power-of-Board-to-remit-penalties-and-restore-goods-seized-or-forfeited)
+- [34 Power of Minister to remit penalties and restore goods seized or forfeited](#Power-of-Minister-to-remit-penalties-and-restore-goods-seized-or-forfeited)
 
 - [35 Conduct of prosecution](#Conduct-of-prosecution)
 
@@ -226,12 +228,7 @@ PRELIMINARY
 
 ## PART II
 
-REGULATION AND CONTROL OF IMPORTATION
-
-
-
-
-AND EXPORTATION, ETC.
+REGULATION AND CONTROL OF IMPORTATION AND EXPORTATION, ETC.
 
 ### Administration of Act and delegation of powers
 
@@ -245,6 +242,8 @@ AND EXPORTATION, ETC.
 
 3\.—(1) The Minister may make regulations for the registration, regulation and control of all or any class of goods imported into, exported from, transhipped in or in transit through Singapore.
 
+[6/2003 wef 01/04/2003]
+
 (2) Without prejudice to the generality of subsection (1), the Minister may make regulations —
 
 (a) for prohibiting, absolutely or conditionally, or for regulating, in all cases or in any specified case or class of cases and subject to such exceptions as may be made by the regulations, the import or export or the carriage coastwise or the shipment as ships’ stores or the transhipment or transit of all goods or of goods of any specified class or description;
@@ -253,13 +252,23 @@ AND EXPORTATION, ETC.
 
 (i) to the Director-General; or
 
+[6/2003 wef 01/04/2003]
+
 (ii) to the owner, agent, master or person in charge of a conveyance, or to a railway station-master or to such other person as may be prescribed,
 
 such particulars, information or documents relating to goods imported into, exported from, transhipped in or in transit through Singapore as may be prescribed;
 
 (c) for permitting the Director-General to authorise, in such manner as may be prescribed, the importation, exportation, transhipment or transit of goods in regard to which the required particulars, information or documents have been furnished;
 
+[6/2003 wef 01/04/2003]
+
 (d) for prohibiting the importation, exportation, transhipment or transit of goods, or the delivery of goods or of documents relating to such goods, except in compliance with the regulations or with the approval of the Director-General;
+
+[6/2003 wef 01/04/2003]
+
+(da) for prohibiting the exportation of all goods or goods of any specified class or description except in compliance with such conditions as may be prescribed for the purpose of complying with any preferential tariff arrangement or agreement between Singapore and a country or territory outside Singapore, including any condition that the goods exported are to be from a prescribed source or that the manufacture of such goods is to be carried out or procured by any person registered under regulations made under this Act;
+
+[28/2003 wef 01/01/2004]
 
 (e) for requiring the owner or agent of any conveyance to furnish particulars of coal, oil or other fuel or stores placed on board that conveyance in Singapore;
 
@@ -268,6 +277,8 @@ such particulars, information or documents relating to goods imported into, expo
 (g) for prescribing the time within which the required particulars, information and documents shall be furnished;
 
 (h) for requiring the master of any vessel to attend at an examination station or the office of the Port Master, and to furnish such particulars, information and documents, as may be prescribed;
+
+[6/2003 wef 01/04/2003]
 
 (i) for prohibiting the issue of a port clearance to the master of any vessel pending compliance with any provision of the regulations;
 
@@ -281,17 +292,31 @@ such particulars, information or documents relating to goods imported into, expo
 
 (n) for prescribing the levy, or the method or manner for determining the amount of the levy, payable for the import or export of different classes of goods or for a certificate of entitlement issued under any regulations made under paragraph (l) and for prescribing the manner or method in which such levy shall be paid;
 
+(na) for requiring security to be provided to secure compliance with this Act, any regulations made thereunder or any condition imposed under this Act or such regulations, and to make provision for the form, manner, amount, period and forfeiture of such security;
+
+[28/2003 wef 01/01/2004]
+
 (o) for prescribing the fees and charges, or the method or manner for determining the amount of the fees or charges, payable by virtue of any regulations made under this section, and for prescribing the manner or method in which such fees or charges shall be paid;
 
 (p) for prescribing the fees to be charged for services and facilities provided by the Director-General; and
 
+[28/2003 wef 01/01/2004]
+
+(pa) for the bringing of appeals to the Minister in respect of any matter referred to in this Act or any regulations made thereunder, and the procedure for such appeals; and
+
+[28/2003 wef 01/01/2004]
+
 (q) for prescribing anything which is required to be prescribed under this Act or which is necessary or expedient to be prescribed for carrying out or giving effect to the provisions of this Act.
+
+[6/2003 wef 01/04/2003]
 
 (3) The Minister may, in making any regulations under subsection (2), provide that any person who contravenes or fails to comply with any provision thereof shall be guilty of an offence and shall be liable on conviction —
 
 (a) in respect of a first offence, to a fine not exceeding $100,000 or 3 times the value of the goods in respect of which the offence was committed, whichever is the greater, or to imprisonment for a term not exceeding 2 years or to both; and
 
 (b) in respect of a second or subsequent offence, to a fine not exceeding $200,000 or 4 times the value of the goods in respect of which the offence was committed, whichever is the greater, or to imprisonment for a term not exceeding 3 years or to both.
+
+[6/2003 wef 01/04/2003]
 
 (4) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -593,9 +618,9 @@ shall be sufficient evidence that the electronic notice or the copy thereof has 
 
 ### Power to have access to, inspect and check operation of computer and other apparatus
 
-24\. In connection with the exercise of the powers in section 19, 20, 22 or 23, any authorised officer or senior authorised officer, as the case may be —
+24\. In connection with the exercise of the powers in section 19, 20, 22, 23 or 28A, any authorised officer or senior authorised officer, as the case may be —
 
-(a) shall be entitled at any time to have access to, and inspect and check the operation of, any computer and any associated device, apparatus or material which is or has been in use in connection with any data or document to which section 19, 20, 22 or 23 applies; and
+(a) shall be entitled at any time to have access to, and inspect and check the operation of, any computer and any associated device, apparatus or material which is or has been in use in connection with any data or document to which section 19, 20, 22, 23 or 28A, applies; and
 
 (b) may require —
 
@@ -638,6 +663,56 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 shall be guilty of an offence, unless he proves that he had taken all reasonable steps to ascertain, and satisfy himself of, the truth and genuineness thereof, and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (2) A declaration, statement, representation, certificate, undertaking or document referred to in subsection (1) purporting to be furnished on behalf of any person shall, for the purposes of this Act or any regulations made thereunder, be presumed, until the contrary is proved, to have been furnished by that person or by his authority, as the case may be, and any person signing such declaration, statement, representation, certificate, undertaking or document shall be deemed to be cognizant of all matters therein.
+
+### Penalty for incorrect trade descriptions
+
+28A\.—(1) Any person who imports, exports or tranships any goods and —
+
+(a) applies or causes to be applied to such goods an incorrect trade description; or
+
+(b) has in his possession for sale or for any purpose of trade any such goods to which an incorrect trade description has been applied,
+
+shall be guilty of an offence and shall be liable on conviction —
+
+(i) in respect of a first offence, to a fine not exceeding $100,000 or 3 times the value of the goods in respect of which the offence was committed, whichever is the greater, or to imprisonment for a term not exceeding 2 years or to both; and
+
+(ii) in respect of a second or subsequent offence, to a fine not exceeding $200,000 or 4 times the value of the goods in respect of which the offence was committed, whichever is the greater, or to imprisonment for a term not exceeding 3 years or to both.
+
+(2) For the purpose of subsection (1), a person shall be treated as applying a trade description to goods if he —
+
+(a) affixes or annexes the trade description to, or in any manner marks the trade description on or incorporates it with —
+
+(i) the goods themselves; or
+
+(ii) anything in, on or with which the goods are supplied;
+
+(b) places the goods in or with anything that the trade description has been affixed or annexed to, marked on or incorporated with or places any such thing with the goods; or
+
+(c) uses the trade description in any manner likely to be taken as referring to the goods.
+
+(3) For the purpose of subsection (1), where the goods are for export or transhipment and the ultimate destination of the goods is a foreign country which has entered into a prescribed agreement with Singapore, a trade description applied to such goods shall be treated as being incorrect if it is not in accordance with any rules of origin specified in that agreement.
+
+(4) For the purpose of subsection (1), a person referred to in that subsection shall be treated as being in possession of goods if he is in any way entitled to the custody or control of those goods.
+
+(5) Without prejudice to the provisions of this Act, for the purpose of determining whether an offence under subsection (1) is being or has been committed, an authorised officer may —
+
+(a) at any reasonable time enter upon the premises of any person referred to in subsection (1) and carry out an inspection of those premises; and
+
+(b) require any person —
+
+(i) to furnish any information within his knowledge; or
+
+(ii) to produce for inspection any book or document within his custody or possession, and to provide copies of or extracts from such book or document.
+
+(6) In this section —
+
+“foreign country” means any country or territory outside Singapore;
+
+“prescribed agreement” means an agreement between Singapore and a foreign country which is prescribed as an agreement for the purpose of subsection (3);
+
+“trade description” means any description, statement or indication which, directly or indirectly and by whatever means given, relates to the place of origin, manufacture or production of the goods.
+
+[28/2003 wef 01/01/2004]
 
 ### Penalty for unauthorised modification of computer program or data
 
@@ -689,9 +764,17 @@ except where it is necessary for the purposes of —
 
 (ii) enabling an authorised officer or a public officer to enforce a provision of this Act or any regulations made thereunder;
 
-(iii) enabling an authorised officer or a public officer to investigate a suspected offence under this Act or any regulations made thereunder; or
+(iii) enabling an authorised officer or a public officer to investigate a suspected offence under this Act or any regulations made thereunder;
 
-(iv) enabling a foreign government authority to investigate a suspected offence committed in a foreign country and where the conditions specified in subsection (4) are satisfied.
+[28/2003 wef 01/01/2004]
+
+(iv) enabling a foreign government authority to investigate a suspected offence committed in a foreign country and where the conditions specified in subsection (4) are satisfied; or
+
+[28/2003 wef 01/01/2004]
+
+(v) complying with any provision of any prescribed agreement and where the conditions specified in subsection (5) are satisfied.
+
+[28/2003 wef 01/01/2004]
 
 (2) Any authorised officer or any person employed or engaged in the administration of this Act or any regulations made thereunder who makes use of, publishes or permits any other person to see or communicates or discloses to any other person the contents of any such particulars, information or document to any other person, otherwise than with such consent or for such purpose as is referred to in subsection (1), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -717,9 +800,23 @@ except where it is necessary for the purposes of —
 
 (i) the Minister has given his consent in writing to the publication, communication or disclosure.
 
-(5) In this section, “foreign country” means any country or territory outside Singapore.
+(5) The conditions referred to in subsection (1)(v) are as follows:
 
-[2/99 wef 25/02/1999]
+(a) the particulars, information or documents requested by the foreign country are available to the Director-General;
+
+(b) unless the Government otherwise allows, the foreign country undertakes to keep the information given confidential at all times; and
+
+(c) the disclosure of the information is not likely to prejudice the essential security interests of Singapore.
+
+[28/2003 wef 01/01/2004]
+
+(6) In this section —
+
+“foreign country” means any country or territory outside Singapore;
+
+“prescribed agreement” means an agreement between Singapore and a foreign country which is prescribed as an agreement for the purpose of subsection (1)(v).
+
+[28/2003 wef 01/01/2004]
 
 ### Abetment and attempts
 
@@ -729,9 +826,11 @@ except where it is necessary for the purposes of —
 
 33\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all prosecutions for offences under this Act or any regulations made thereunder; and a District Court shall, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), have jurisdiction to impose the full penalty or punishment under this Act or any regulations made thereunder.
 
-### Power of Board to remit penalties and restore goods seized or forfeited
+### Power of Minister to remit penalties and restore goods seized or forfeited
 
 34\. The Minister may direct the remission or refund of the whole or any part of any penalty incurred or imposed under this Act or any regulations made thereunder and the restoration of the whole or any portion of any goods or articles seized or ordered to be forfeited under this Act or any regulations made thereunder to any person from whom they have been taken.
+
+[6/2003 wef 01/04/2003]
 
 ### Conduct of prosecution
 
@@ -874,3 +973,8 @@ This Legislative History is provided for the convenience of users of the Regulat
 |||(Bill No. 5/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003 (Item (1) of the Schedule – Amendment of Regulation of Imports and Exports Act)|
+|8.|**Act 28 of 2003—Regulation of Imports and Exports (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 25/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|1 January 2004|
