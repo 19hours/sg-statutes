@@ -276,9 +276,9 @@ Singapore Totalisator Board Act
 
 (Chapter 305A)
 
-20. Public Accountants Board
+20. Accounting and Corporate Regulatory Authority
 
-Accountants Act (Chapter 2)
+Accounting and Corporate Regulatory Authority Act 2004
 
 21. Agency for Science, Technology and Research
 
@@ -405,6 +405,10 @@ Singapore Workforce Development Agency Act 2003 (Act 14 of 2003).
 
 [S 143/2003 wef 01/04/2003]
 
+[3/2004 wef 01/04/2004]
+
+[S 143/2003 wef 01/04/2003]
+
 [S 480/2003 wef 01/09/2003]
 
 [7/96; 41/99; S 414/93; S344/95; S405/96; S 470/97; S 518/97; S366/98]
@@ -475,6 +479,12 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 April 2003|
 |19.|**G. N. No. S 480/2003—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule No. 2) Order 2003**|
 ||Date of commencement|1 September 2003|
+|20.|**Act 3 of 2004—Accounting and Corporate Regulatory Authority Act 2004**|
+||(Consequential amendments made by)||
+||Date of First Reading|5 January 2004|
+|||(Bill No. 1/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|1 April 2004|
 ## COMPARATIVE TABLE
 
 Statutory Corporations (Contributions to Consolidated Fund) Act
