@@ -42,7 +42,7 @@
 
 - [15 Annual estimates](#Annual-estimates)
 
-- [16 Investments](#Investments)
+- [16 Power of investment](#Power-of-investment)
 
 - [17 Financial provisions](#Financial-provisions)
 
@@ -418,7 +418,17 @@ shall be guilty of an offence.
 
 ### Power to borrow
 
-13\. The Board may, with the approval of the Minister, raise capital from banks and other financial institutions whether in Singapore or elsewhere by way of mortgage, overdraft or otherwise, with or without security, as it may require for the discharge of its functions under this Act.
+13\.—(1) For the discharge of its functions or duties under this Act or any other written law, the Board may, from time to time, raise loans from the Government or, with the approval of the Minister, raise loans within or outside Singapore from such source as the Minister may direct by —
+
+(a) mortgage, overdraft or other means, with or without security;
+
+(b) charge, whether legal or equitable, on any property vested in the Board or on any other revenue receivable by the Board under this Act or any other written law; or
+
+(c) the creation and issue of bonds or any other instrument as the Minister may approve.
+
+(2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods, materials or things.
+
+[39/2004 wef 08/10/2004]
 
 ### Issue of shares, etc.
 
@@ -440,13 +450,11 @@ shall be guilty of an offence.
 
 (4) A summary of the annual estimates and supplementary estimates adopted by the Board shall be published in theGazette.
 
-### Investments
+### Power of investment
 
-16\. The Board may, with the approval of the Minister —
+16\. The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-(a) invest its moneys in such manner as it thinks fit; and
-
-(b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
+[45/2004 wef 15/12/2004]
 
 ### Financial provisions
 
@@ -1306,7 +1314,13 @@ Financial Provisions
 
 Financial year
 
-1\. The financial year of the Board shall begin on 1st January and end on 31st December of each year.
+1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the financial year of the Board for the year 2006 shall begin on 1st January 2006 and end on 31st March 2007.
+
+Financial year
+
+1.
+
+[2/2007 wef 01/03/2007]
 
 Accounts of Board
 
@@ -1400,6 +1414,11 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|15 July 2002|
 |5.|**2002 Revised Edition—Public Utilities Act**|
 ||Date of operation|31 July 2002|
+|6.|**Act 39 of 2004—Public Utilities (Amendment) Act 2004**|
+||Date of First Reading|1 September 2004|
+|||(Bill No. 38/2004 published on 2 September 2004)|
+||Date of Second and Third Readings|21 September 2004|
+||Date of commencement|8 October 2004|
 ## COMPARATIVE TABLE
 
 Public Utilities Act
