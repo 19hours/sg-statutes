@@ -1758,7 +1758,7 @@ Substances containing not more than 80%, weight in weight, of acetic acid;
 
 Preparations and solutions for photographic use.
 
-Acrolein
+Acrolein —Deleted by S 78/2005, wef 16/02/2005.
 
 Alkali metal bifluorides;
 
@@ -1882,9 +1882,7 @@ Barium nitrate
 
 Preparations and solutions containing less than 10%, weight in weight, of barium nitrate.
 
-Benzene
-
-Substances containing less than 1%, weight in weight, of benzene.
+Benzene —Deleted by S 78/2005, wef 16/02/2005.
 
 Boric acid; Sodium borate
 
@@ -1918,7 +1916,7 @@ Preparations containing not more than 1%, weight in weight, of propoxur and not 
 
 Preparations containing not more than 1%, weight in weight, of methomyl and not containing any other carbamate.
 
-Carbon disulphide
+Carbon disulphide —Deleted by S 78/2005, wef 16/02/2005.
 
 Carbon tetrafluoride
 
@@ -2034,7 +2032,13 @@ Chlorophenoxyacids; their salts, esters, amines
 
 Chloropicrin
 
-Chlorosilanes
+Chlorosilanes, the following:
+
+Hexachlorodisilane
+
+Phenyltrichlorosilane
+
+Tetrachlorosilane
 
 Chlorosulphonic acid
 
@@ -2048,7 +2052,21 @@ Cyanides
 
 Ferrocyanides;
 
-Ferricyanides.
+Ferricyanides
+
+Acetonitrile;
+
+Acrylonitrile;
+
+Butyronitrile;
+
+2-Dimethylaminoacetonitrile;
+
+Isobutyronitrile;
+
+Methacrylonitrile;
+
+Propionitrile.
 
 Diborane
 
@@ -2064,7 +2082,7 @@ Dinoseb; its compounds with a metal or a base
 
 Diquat; its salts
 
-Disilane
+Disilane —Deleted by S 78/2005, wef 16/02/2005.
 
 Drazoxolon; its salts
 
@@ -2597,11 +2615,11 @@ Potassium perchlorate
 
 Prochloraz
 
-Propylene imine
+Propylene imine —Deleted by S 78/2005, wef 16/02/2005.
 
-Propylene oxide
+Propylene oxide —Deleted by S 78/2005, wef 16/02/2005.
 
-Silane
+Silane —Deleted by S 78/2005, wef 16/02/2005.
 
 Sodium chlorate
 
@@ -2621,7 +2639,7 @@ Aqueous solutions containing less than 5%, weight in weight, of sodium nitrite.
 
 Sodium perchlorate
 
-Styrene monomer
+Styrene monomer —Deleted by S 78/2005, wef 16/02/2005.
 
 Sulphur in diesel intended for use in Singapore as fuel for motor vehicles or industrial plants
 
@@ -2649,9 +2667,13 @@ Titanium tetrachloride
 
 Tris (2, 3-dibromo-l-propyl) phosphate
 
-Vinyl bromide
+Vinyl bromide —Deleted by S 78/2005, wef 16/02/2005.
 
-Vinyl chloride monomer
+Vinyl chloride monomer —Deleted by S 78/2005, wef 16/02/2005.
+
+[S 492/2004 wef 15/09/2004]
+
+[S 78/2005 wef 16/02/2005]
 
 [S 492/2004 wef 15/09/2004]
 
@@ -2870,6 +2892,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of operation|31 December 2002|
 |6.|**G. N. No. S 492/2004—Environmental Pollution Control Act (Amendment Of Second Schedule) Order 2004**|
 ||Date of commencement|15 September 2004|
+|7.|**G. N. No. S 78/2005—Environmental Pollution Control Act (Amendment Of Second Schedule) Order 2005**|
+||Date of commencement|16 February 2005|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
