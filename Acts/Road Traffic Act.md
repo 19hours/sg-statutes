@@ -264,6 +264,8 @@
 
 - [95 Power to seize vehicles](#Power-to-seize-vehicles)
 
+- [95A Power to immobilise or seize and detain vehicle belonging to person against whom warrant of arrest is in force](#Power-to-immobilise-or-seize-and-detain-vehicle-belonging-to-person-against-whom-warrant-of-arrest-is-in-force)
+
 - [96 Taking of motor vehicle without owner’s consent](#Taking-of-motor-vehicle-without-owner’s-consent)
 
 - [97 Restriction on persons taking hold of motor vehicle in motion](#Restriction-on-persons-taking-hold-of-motor-vehicle-in-motion)
@@ -452,6 +454,10 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “police officer” includes all persons whomsoever employed for police duties in the Singapore Police Force constituted under the Police Force Act (Cap. 235);
 
+“public place” means any place or premises, whether privately owned or not, to which the general public or any section of the general public is permitted to have access, whether on payment or otherwise;
+
+[45/99 wef 21/12/1999]
+
 “public service vehicle” means a vehicle used or kept for use for the carriage of passengers for hire or reward, other than a vehicle constructed for use on fixed rails or specially prepared ways;
 
 “Registrar” means the Registrar of Vehicles or the Deputy Registrar or an assistant registrar appointed under section 9;
@@ -554,6 +560,10 @@ REGISTRATION AND LICENSING OF VEHICLES
 
 (5) If a vehicle or trailer is used or is sold, supplied, offered or altered in contravention of this section, any person who so uses the vehicle or trailer or causes or permits the vehicle or trailer to be so used or so sells, supplies, offers or alters it or causes or permits it to be so sold, supplied, offered or altered shall be guilty of an offence.
 
+(5A) Any person who is guilty of the offence under subsection (5) of altering a vehicle or trailer in contravention of this section shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
+
+[45/99 wef 21/12/1999]
+
 (6) A person shall not be convicted for an offence under this section in respect of the sale, supply, offer or alteration of a vehicle or trailer if he proves that it was sold, supplied, offered or altered, as the case may be, for export from Singapore, or that he had reasonable cause to believe that the vehicle or trailer would not be used in Singapore or would not be so used until it had been put into a condition in which it might lawfully be so used.
 
 ### Rules as to use and construction of vehicles
@@ -655,6 +665,10 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 [7/90]
 
 (2) The Registrar may charge such fees as may be prescribed for the registration of a vehicle under this Act.
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
+
+[45/99 wef 21/12/1999]
 
 ### Vehicles not to be registered without permits issued by Registrar
 
@@ -794,6 +808,10 @@ the tax chargeable under section 11(1)(a) shall be paid in respect of the vehicl
 
 [7/90]
 
+(4) Any person who fails to comply with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
+
+[45/99 wef 21/12/1999]
+
 ### Commencement and duration of licences
 
 13\.—(1) A vehicle licence may be taken out —
@@ -890,6 +908,12 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 [7/90; 33/93; 8/94]
 
+(3A) Without prejudice to subsection (3), the Registrar may refuse to issue a vehicle licence if he is satisfied that the vehicle in respect of which the licence is to be issued is registered in the name of a person who, pursuant to a warrant of court, has been arrested in connection with an offence under this Act or the rules or any written law specified in Part I of the Scheduleand the offence has not been tried and determined by the court.
+
+[45/99 wef 21/12/1999]
+
+[28/2001 wef 10/09/2001]
+
 (4) Subject to the rules, and without prejudice to section 25, any person who uses or keeps on a road any vehicle on which tax under this Act is chargeable without there being fixed to and exhibited on that vehicle in the prescribed manner a licence for, or in respect of the use of, that vehicle issued under this Act and for the time being in force shall be guilty of an offence.
 
 (5) Rules made under this Act may provide for the issue of a new licence in the place of a licence which may be lost or destroyed, and for the fee to be paid on the issue of a new licence.
@@ -938,11 +962,47 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 25\.—(1) Rules made under this Part may modify the provisions of this Part in the case of motor vehicles brought temporarily by persons resident outside Singapore and intending to make only a temporary stay in Singapore.
 
-(2) Such rules may provide for the issue of a permit in respect of a vehicle brought into Singapore from any place outside Singapore authorising the use in Singapore of the vehicle for any specified period.
+(2) The rules may —
 
-(3) Such rules may prescribe for the levy of a fee for the issue of a permit and for the levy of a tax for the use of the vehicle in Singapore in accordance with such rates as the Minister may prescribe.
+(a) provide for the issue of a permit, in respect of a vehicle not registered under this Act that is brought into Singapore from any place outside Singapore (referred to in this section as a foreign vehicle), authorising the keeping and use in Singapore of the vehicle for such period as the Registrar may determine;
 
-(4) Any rates prescribed by the Minister under this section may be so made to apply only to vehicles of a specified class, category or description and the Minister may prescribe different rates for vehicles of different classes, categories or descriptions or for vehicles used for different purposes.
+(b) prescribe the manner of application for such permit;
+
+(c) provide for the levy of a fee for the issue of such permit in accordance with such rates as may be prescribed by the Minister;
+
+(d) prescribe the conditions for the issue of such permit;
+
+(e) provide for the extension of the period of validity of such permit;
+
+(f) provide for the cancellation of such permit;
+
+(g) provide for such permit to be stored in an electronic form on such stored value card, device or appurtenance as may be issued by the Authority or its agent;
+
+(h) regulate the issue and use of such stored value card, device or appurtenance;
+
+(i) provide for the levy of a fee for the issue of such stored value card, device or appurtenance;
+
+(j) provide for the levy of a tax for the keeping or use of a foreign vehicle in Singapore in accordance with such rates as may be prescribed by the Minister;
+
+(k) prescribe the manner in which any fee or tax payable under the rules is to be levied and collected, including the use of electronic or computerised or other facilities, and the use by the foreign vehicle concerned of specified points of exit from Singapore, for that purpose;
+
+(l) prescribe the records to be kept by the Registrar in connection with the rules; and
+
+(m) empower the Registrar and any officer authorised by him to prohibit the entry into or exit from Singapore of any foreign vehicle if any fee or tax payable under the rules in respect of that vehicle is in arrears.
+
+[45/99 wef 21/12/1999]
+
+(3) Any rates prescribed by the rules may be made to apply only to vehicles of a specified class, category or description, and the Minister may prescribe different rates for vehicles of different classes, categories or descriptions or for vehicles used for different purposes.
+
+[45/99 wef 21/12/1999]
+
+(4) Where a person is convicted of an offence under any of the rules, the court before which such person is convicted may, in addition to the punishment prescribed for the offence, order him to pay the amount of such fees or taxes as may be certified by an officer appointed by the Authority to be due and payable by him at the date of his conviction, and such amount may be recovered according to the law for the time being in force for the recovery of fines.
+
+[45/99 wef 21/12/1999]
+
+(5) Section 77A of the Banking Act (Cap. 19) and section 14 of the Currency Act (Cap. 69) shall not apply to any stored value card, device or appurtenance issued by the Authority or its agent in accordance with the rules.
+
+[45/99 wef 21/12/1999]
 
 ### Registration and identification marks
 
@@ -981,6 +1041,10 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 (b) the registered owner or the person in possession of the vehicle shall produce proof to the satisfaction of the Registrar that the vehicle has been exported or scrapped within one month of the date of the cancellation.
 
 [33/93]
+
+(3) Any person who fails to comply with subsection (2)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
+
+[45/99 wef 21/12/1999]
 
 ### General licences
 
@@ -1181,6 +1245,8 @@ LICENSING OF DRIVERS
 ### Licensing of drivers, etc.
 
 35\.—(1) Except as otherwise provided in this Act, no person shall drive a motor vehicle of any class or description on a road unless he is the holder of a driving licence authorising him to drive a motor vehicle of that class or description, and no person shall employ or permit another person to drive a motor vehicle on a road unless the person so employed or permitted to drive is the holder of such a driving licence, and any person who acts in contravention of this subsection shall be guilty of an offence.
+
+(1A) [Deleted by Act 1/99 wef 01/03/1999]
 
 (2) An application for a driving licence shall be made in the prescribed form to the Deputy Commissioner of Police.
 
@@ -1802,6 +1868,8 @@ Provisions as to driving and offences in connection therewith
 
 62\.—(1) A person below the age of 18 years shall not drive a motor vehicle on a road.
 
+(2) [Deleted by Act 1/99 wef 01/03/1999]
+
 (3) A person who has attained the age of 18 years but who is below the age of 21 years shall not drive a heavy locomotive, light locomotive, motor tractor or heavy motor car on a road.
 
 [11/96]
@@ -1922,13 +1990,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 ### Enhanced penalties for offenders with previous convictions under certain sections
 
-67A\.—(1) Where a person having been convicted on at least 2 previous occasions of any one or more of the offences under sections 43 (4), 47(5), 47C(5), 63(4), 64(1), 66(1), 67(1) and 70(4) is again convicted of an offence under section 43 (4), 47(5), 47C(5), 63(4), 64(1), 66(1), 67(1) or 70(4), the court shall have the power to impose a punishment in excess of that prescribed for such conviction as follows:
+67A\.—(1) Where a person having been convicted on at least 2 previous occasions of any one or more of the offences under sections 43(4), 47(5), 47C(5), 63(4), 64(1), 66(1), 67(1) and 70(4) is again convicted of an offence under section 43(4), 47(5), 47C(5), 63(4), 64(1), 66(1), 67(1) or 70(4), the court shall have the power to impose a punishment in excess of that prescribed for such conviction as follows:
 
 (a) where the court is satisfied, by reason of his previous convictions or his antecedents, that it is expedient for the protection of the public or with the view to the prevention of further commission of any such offence that a punishment in excess of that prescribed for such a conviction should be awarded, then the court may punish such offender with punishment not exceeding 3 times the amount of punishment to which he would otherwise have been liable for such a conviction except that where imprisonment is imposed it shall not exceed 10 years; and
 
 (b) notwithstanding section 11 of the Criminal Procedure Code (Cap. 68), if —
 
-(i) such offender, while committing the offence under section 43 (4), 47(5), 47C(5), 63(4), 64(1), 66(1) or 67(1) causes any serious injury or death to another person; or
+(i) such offender, while committing the offence under section 43(4), 47(5), 47C(5), 63(4), 64(1), 66(1) or 67(1) causes any serious injury or death to another person; or
 
 (ii) in the case of an offender under section 70(4), such offender had, in driving or attempting to drive a motor vehicle at the time of any accident leading to his arrest under section 69(5), caused any serious injury or death to another person,
 
@@ -2540,6 +2608,104 @@ Miscellaneous
 
 (7) The proceeds, if any, from the sale or disposal of any such vehicle or trailer shall be applied in payment of any licence fees which may be due in respect of the vehicle and of any charges incurred in carrying out the provisions of this section and thereafter shall be applied in payment of any damage caused to property of the Government by the unlawful use of the vehicle or trailer and the surplus, if any, shall be paid to the owner of the vehicle or trailer, or if not claimed by the owner of the vehicle or trailer within 12 months after the date of the sale or disposal shall be forfeited to the Government.
 
+### Power to immobilise or seize and detain vehicle belonging to person against whom warrant of arrest is in force
+
+95A\.—(1) Where a vehicle which is being used or parked on a road or in a parking place is registered in the name of a person against whom a warrant of arrest is in force, a police officer or an employee of the Authority may —
+
+(a) immobilise the vehicle or cause the vehicle to be immobilised, if it is stationary; or
+
+(b) seize the vehicle and detain it at a place of safety or cause the vehicle to be seized and detained at a place of safety,
+
+and the vehicle shall remain so immobilised or detained at the risk of the owner thereof until it is released by order of a Magistrate, the Deputy Commissioner of Police or the Registrar.
+
+(2) The powers conferred by subsection (1) on a police officer may also be exercised by him in respect of any vehicle which is registered in the name of a person against whom a warrant of arrest is in force and which is being used or parked in a public place.
+
+(3) Without prejudice to subsections (1) and (2) but subject to subsection (4), where a police officer, in attempting to execute a warrant of arrest at any private premises, finds at such private premises any vehicle which is registered in the name of the person against whom the warrant of arrest has been issued, the police officer may —
+
+(a) immobilise the vehicle or cause the vehicle to be immobilised, if it is stationary; or
+
+(b) seize the vehicle and detain it at a place of safety or cause the vehicle to be seized and detained at a place of safety,
+
+and the vehicle shall remain so immobilised or detained at the risk of the owner thereof until it is released by order of a Magistrate, the Deputy Commissioner of Police or the Registrar.
+
+(4) Nothing in subsection (3) shall authorise a police officer to immobilise or seize and detain any vehicle which he finds at any private premises unless, despite all reasonable effort, he is unable at such private premises to effect the arrest of the person against whom the warrant of arrest has been issued.
+
+(5) For the purposes of subsections (1), (2) and (3) —
+
+(a) a police officer or an employee of the Authority may require any person who is driving or who is in charge of the vehicle —
+
+(i) to stop the vehicle;
+
+(ii) to take the vehicle to such place of safety as may be specified by the police officer or employee of the Authority; or
+
+(iii) to render such other co-operation as the police officer or employee of the Authority may reasonably require; and
+
+(b) a Magistrate, the Deputy Commissioner of Police or the Registrar may —
+
+(i) refuse to order the release of any vehicle that has been immobilised or seized and detained under either of those subsections until the person in whose name the vehicle is registered has been arrested in connection with the warrant of arrest in force against him or has surrendered himself to a police officer or the warrant of arrest in force against him has been cancelled by a court; and
+
+(ii) require the person to whom the vehicle is released to pay such charges as may be prescribed for the release of the vehicle.
+
+(6) Where a police officer or an employee of the Authority has immobilised or seized and detained a vehicle under this section, he shall with all reasonable despatch give notice in writing to the person in whose name the vehicle is registered of the immobilisation or seizure and shall in such notice inform that person —
+
+(a) of the procedure by which he may secure the release of the vehicle; and
+
+(b) that unless within 3 months of the date specified in the notice he surrenders himself to a police officer in connection with the warrant of arrest in force against him, the Deputy Commissioner of Police or the Authority shall proceed to sell or dispose of the vehicle.
+
+(7) A notice under subsection (6) may be served in the following manner:
+
+(a) where the vehicle has been immobilised, by affixing the notice onto the windscreen or any other conspicuous part of the vehicle; or
+
+(b) where the vehicle has been seized and detained, by posting the notice to the person in whose name the vehicle is registered at his usual or last known place of residence or business in Singapore.
+
+(8) Any person who —
+
+(a) without the authority of a police officer or an employee of the Authority removes or tampers with any notice affixed onto a vehicle under subsection (7)(a); or
+
+(b) without the authority of a Magistrate, the Deputy Commissioner of Police or the Registrar —
+
+(i) removes or tampers with any device or appliance which has been fixed to a vehicle by a police officer or an employee of the Authority for the purpose of immobilising it in pursuance of this section; or
+
+(ii) removes any vehicle from the place at which it has been immobilised or from the place of safety where it is being detained or causes such vehicle to be so removed,
+
+shall be guilty of an offence.
+
+(9) If upon the expiry of 3 months from the date specified in the notice given under subsection (6) the person in whose name the vehicle is registered has not surrendered himself to a police officer or has not been arrested in connection with the warrant of arrest in force against him, the Deputy Commissioner of Police or the Authority, after giving one month’s notice in theGazetteof his or its intention to do so, may sell the vehicle by public auction or otherwise dispose of the vehicle in such manner as he or it thinks fit.
+
+(10) The proceeds, if any, from the sale or disposal of any such vehicle shall be applied in payment of —
+
+(a) any taxes, fees or charges under this Act or the rules which may be due from the person in whose name the vehicle is registered; and
+
+(b) any charges incurred in carrying out the provisions of this section,
+
+and the surplus, if any, shall be paid to the person in whose name the vehicle is registered, or if not claimed by such person within 12 months after the date of the sale or disposal shall be forfeited to the Government.
+
+(11) Any person who obstructs or hinders the Authority or any employee thereof, the Deputy Commissioner of Police or any police officer acting in the discharge of his duty under this section shall be guilty of an offence.
+
+(12) The Authority or any employee thereof, the Deputy Commissioner of Police and any police officer shall not be liable for any damage to or loss of any vehicle or the contents thereof which is not wilfully or negligently caused by them in the exercise of their powers under this section.
+
+(13) In this section —
+
+“immobilise”, in relation to a vehicle, means to prevent the removal of the vehicle by fixing to the vehicle a device or appliance which is —
+
+(a) designed or adapted for the purpose of preventing the removal of the vehicle; and
+
+(b) approved by the Authority or the Deputy Commissioner of Police for use for the purpose of this section;
+
+“police officer” includes an auxiliary police officer who is —
+
+(a) appointed in accordance with any written law for the time being in force; and
+
+(b) authorised in writing by the Commissioner of Police to exercise the powers conferred on a police officer by this section;
+
+“warrant of arrest” means a warrant of arrest issued by a court against a person in connection with any offence committed by him under —
+
+(a) this Act or the rules; or
+
+(b) the Parking Places Act (Cap. 214) or any rules made thereunder.
+
+[45/99 wef 21/12/1999]
+
 ### Taking of motor vehicle without owner’s consent
 
 96\.—(1) Every person who takes and drives away any motor vehicle without having either the consent of the owner thereof or other lawful authority shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months.
@@ -3096,7 +3262,7 @@ MISCELLANEOUS PROVISIONS
 
 (c) makes any entry in a record, register or other document required to be kept under this Act and the rules which to his knowledge is false or in any material respect misleading,
 
-he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (2) If any person —
 
@@ -3112,7 +3278,7 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (f) uses any forged, altered, defaced or mutilated driving licence or any driving licence to which any addition not authorised by this Act has been made,
 
-he shall, unless he establishes to the satisfaction of the court that he acted without intent to deceive, be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+he shall, unless he establishes to the satisfaction of the court that he acted without intent to deceive, be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (3) Subsection (2) shall, with the necessary modifications, apply in relation to a document evidencing the appointment of an officer for the purposes of this Act as it applies in relation to a licence.
 
@@ -3592,3 +3758,8 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 50/98 published on 24 November 1998)|
 ||Date of Second and Third Readings|20 January 1999|
 ||Date of commencement|1 March 1999|
+|42.|**Act 45 of 1999—Road Traffic (Amendment) Act 1999**|
+||Date of First Reading|11 October 1999|
+|||(Bill No. 35/99 published on 12 October 1999)|
+||Date of Second and Third Readings|24 November 1999|
+||Date of commencement|21 December 1999|
