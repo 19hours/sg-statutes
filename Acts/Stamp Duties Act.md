@@ -1918,15 +1918,13 @@ The same duty as in paragraph (a) or (c), as the case may be
 
 $10 or the same duty as in paragraph (a) or (c), as the case may be, whichever is the lesser
 
-(h) of any property or any interest thereof which is distributed in specie to a shareholder of a company by the liquidator of the company after the liabilities of the company have been satisfied —
+(h) of any property or any interest thereof which is distributed in specie to a shareholder of a company in connection with a liquidation of the company
 
-(i) where the shareholder became a shareholder of the company only after the winding up proceedings had commenced
+The same duty as in paragraph (a) or (c), as the case may be.
 
-The same duty as in paragraph (a) or (c), as the case may be
+(i)Deleted by S 525/2004, wef 31/08/2004.
 
-(ii) in any other case
-
-$10
+(ii)Deleted by S 525/2004, wef 31/08/2004.
 
 ( i) of any property or any interest thereof not otherwise specially charged with duty
 
@@ -2068,11 +2066,11 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 
 $10
 
-[38/2002 wef 01/01/2003]
-
 [S 192/2003 wef 08/04/2003 [For instruments executed on or after 1st March 2003.]:2003-sl-312-n-192]
 
 [38/2002 wef 01/01/2003]
+
+[S 525/2004 wef 31/08/2004]
 
 [S 192/2003 wef 08/04/2003 [For instruments executed on or after 1st March 2003.]:2003-sl-312-n-192]
 
@@ -2165,8 +2163,6 @@ The mortgagor or obligor
 PARTITION — Article No. 10
 
 The parties thereto, in proportion to their respective shares in the whole property partitioned, unless the partition is made in execution of an order made by a civil court or arbitrator, when it shall be paid in such proportion as the court or arbitrator directs.
-
-[38/2002 wef 01/01/2003]
 
 [S 192/2003 wef 08/04/2003 [For instruments executed on or after 1st March 2003.]:2003-sl-312-n-192]
 
@@ -2447,6 +2443,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|1 January 2003|
 |59.|**G. N. No. S 192/2003—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2003**|
 ||Date of commencement|8 April 2003|
+|60.|**G. N. No. S 525/2004—Stamp Duties Act (Amendment of First Schedule) Notification 2004**|
+||Date of commencement|31 August 2004|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
