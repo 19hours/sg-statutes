@@ -1,22 +1,20 @@
-**Energy Market Authority of Singapore Act 2001**
+**Energy Market Authority of Singapore Act**
 
-**(No. 9 of 2001)**
+**(CHAPTER 92B)**
 
 **Table of Contents**
 
 [**Long Title**](#Energy-Market-Authority-of-Singapore-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
 [**Part II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY**](#Part-II)
 
-- [3 Establishment and incorporation of Authority](#Establishment-and-incorporation-of-Authority)
+- [3 Establishment and incorporation of Energy Market Authority of Singapore](#Establishment-and-incorporation-of-Energy-Market-Authority-of-Singapore)
 
 - [4 Common seal](#Common-seal)
 
@@ -56,7 +54,7 @@
 
 - [20 Symbol or representation of Authority](#Symbol-or-representation-of-Authority)
 
-[**Part IV TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES**](#Part-IV)
+[**Part IV TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES**](#Part-IV)
 
 - [21 Transfer to Authority of property, assets and liabilities](#Transfer-to-Authority-of-property-assets-and-liabilities)
 
@@ -88,57 +86,37 @@
 
 [**THIRD SCHEDULE Financial Provisions**](#THIRD-SCHEDULE-Financial-Provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Energy Market Authority of Singapore Act
 
-ACTS SUPPLEMENT
+(CHAPTER 92B)
 
-Published by Authority
+(Original Enactment: Act 9 of 2001)
 
-NO. 13]
+REVISED EDITION 2002
 
-Friday, March 30
-
-[2001
-
-The following Act was passed by Parliament on 16th March 2001 and assented to by the President on 26th March 2001:—
-
-Energy Market Authority of Singapore Act 2001
-
-(No. 9 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-26th March 2001.
-
-Date of Commencement: 1st April 2001
+(31st July 2002)
 
 An Act to establish and incorporate the Energy Market Authority of Singapore, to provide for its functions and powers, and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2001]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Energy Market Authority of Singapore Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Energy Market Authority of Singapore Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“appointed day” means the date of commencement of this Act;
-
 “Authority” means the Energy Market Authority of Singapore established under section 3;
 
-“Board” means the Public Utilities Board continued under section 3 of the Public Utilities Act 2001;
+“Board” means the Public Utilities Board continued under section 3 of the Public Utilities Act (Cap. 261, 2002 Ed.);
 
 “Chairman” means the Chairman of the Authority and includes any temporary Chairman of the Authority;
 
@@ -146,7 +124,7 @@ PRELIMINARY
 
 “Deputy Chairman” means the Deputy Chairman of the Authority and includes any temporary Deputy Chairman of the Authority;
 
-“district cooling service” has the same meaning as in the District Cooling Act 2001;
+“district cooling service” has the same meaning as in the District Cooling Act (Cap. 84A);
 
 “electricity” means electrical power when generated, transmitted, supplied or used for any purpose but excludes the transmission of any communication or signal;
 
@@ -182,7 +160,7 @@ PRELIMINARY
 
 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
-### Establishment and incorporation of Authority
+### Establishment and incorporation of Energy Market Authority of Singapore
 
 3\. There is hereby established a body to be known as the Energy Market Authority of Singapore which shall be a body corporate with perpetual succession and shall, by that name, be capable of —
 
@@ -312,9 +290,11 @@ the Minister may, after consultation with the Authority, give such directions to
 
 ### Issue of shares, etc.
 
-12A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+\*12A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002 wef 29/07/2002 wef 15/07/2002]
+
+\*This section was not in operation as at 30th June 2002.
 
 ### Duty of Authority in financial matters
 
@@ -358,37 +338,37 @@ the Minister may, after consultation with the Authority, give such directions to
 
 ### Symbol or representation of Authority
 
-20\.—(1) The Authority shall have the exclusive right to the use of such symbol or representation as the Authority may select or devise and thereafter display or exhibit in connection with its activities or affairs.
+20\.—(1) The Authority shall have the exclusive right to the use of such symbol or representation as the Authority may select or devise and thereafter display or exhibit such symbol or representation in connection with its activities or affairs.
 
 (2) Any person who uses a symbol or representation identical with that of the Authority, or which so resembles the Authority’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
 ## PART IV
 
-TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
+TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer to Authority of property, assets and liabilities
 
-21\.—(1) As from the appointed day, such movable and immovable property vested in the Board and used or managed by the Regulation Department and all assets, interests, rights, privileges, liabilities and obligations of the Board relating to that Department shall be transferred to and shall vest in the Authority without further assurance, act or deed.
+21\.—(1) As from 1st April 2001, such movable and immovable property vested in the Board and used or managed by the Regulation Department and all assets, interests, rights, privileges, liabilities and obligations of the Board relating to that Department shall be transferred to and shall vest in the Authority without further assurance, act or deed.
 
 (2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
-(3) Every proceeding by or against the Board relating to the Regulation Department which are pending on the appointed day may be continued, completed and enforced by or against the Authority.
+(3) Every proceeding by or against the Board relating to the Regulation Department which are pending on 1st April 2001 may be continued, completed and enforced by or against the Authority.
 
-(4) Every agreement relating to any of the transferred properties to which the Board was a party immediately before the appointed day, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that day as if —
+(4) Every agreement relating to any of the transferred properties to which the Board was a party immediately before 1st April 2001, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that date as if —
 
 (a) the Authority had been a party to such an agreement; and
 
-(b) for any reference to the Board there were substituted in respect of anything to be done on or after the appointed day a reference to the Authority.
+(b) for any reference to the Board there were substituted in respect of anything to be done on or after 1st April 2001 a reference to the Authority.
 
 ### Transfer of employees
 
-22\.—(1) As from the appointed day —
+22\.—(1) As from 1st April 2001 —
 
 (a) all persons in the Regulation Department; and
 
 (b) such other persons as the Board may determine,
 
-employed immediately before that day by the Board shall be transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+employed immediately before that date by the Board shall be transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) Until such time as terms and conditions of service are drawn up by the Authority, the scheme and terms and conditions of service in the Board shall continue to apply to every person transferred to the service of the Authority under subsection (1) as if he were still in the service of the Board.
 
@@ -400,15 +380,15 @@ employed immediately before that day by the Board shall be transferred to the se
 
 ### Existing contracts
 
-24\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Board is a party and relating to the Regulation Department or to any employee of the Board transferred to the service of the Authority under section 22 shall continue in force on and after that day and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Board.
+24\. All deeds, bonds, agreements, instruments and arrangements subsisting immediately before 1st April 2001 to which the Board is a party and relating to the Regulation Department or to any employee of the Board transferred to the service of the Authority under section 22 shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Board.
 
 ### Continuation and completion of disciplinary proceedings
 
-25\.—(1) Where on the appointed day any disciplinary proceedings were pending against any employee of the Board transferred to the service of the Authority under section 22, the proceedings shall be carried on and completed by the Authority.
+25\.—(1) Where on 1st April 2001 any disciplinary proceedings were pending against any employee of the Board transferred to the service of the Authority under section 22, the proceedings shall be carried on and completed by the Authority.
 
-(2) Where on the appointed day any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that day.
+(2) Where on 1st April 2001 any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or decision had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
-(3) Any order, ruling or direction made or given by a committee under this section shall be treated as an order, a ruling or a direction of the Authority and have the same force or effect as if it had been made or given by the Authority pursuant to the authority vested in the Authority under this Act.
+(3) Any order, ruling or direction made by a committee under this section shall be treated as an order, a ruling or a direction of the Authority and have the same force or effect as if it had been made by the Authority pursuant to the authority vested in the Authority under this Act.
 
 ### Misconduct or neglect of duty by employee before transfer
 
@@ -496,7 +476,7 @@ Vacation of office
 
 (a) on his death;
 
-(b) if he, without sufficient cause (the sufficiency thereof to be decided by the Authority) fails to attend 3 consecutive meetings of the Authority;
+(b) if he fails to attend 3 consecutive meetings of the Authority without sufficient cause (the sufficiency thereof to be decided by the Authority);
 
 (c) if he becomes in any manner disqualified for membership of the Authority;
 
@@ -508,7 +488,7 @@ Vacation of office
 
 Filling of vacancies
 
-7\. If a vacancy occurs in the membership of the Authority, the Minister may, subject to paragraphs 1 and 8, appoint any person to fill the vacancy and the person so appointed shall hold office for the remainder of the term for which the vacating member was appointed.
+7\. If a vacancy occurs in the membership of the Authority, the Minister may, subject to paragraphs 1 and 8, appoint any person to fill the vacancy, and the person so appointed shall hold office for the remainder of the term for which the vacating member was appointed.
 
 Disqualification from membership
 
@@ -606,9 +586,9 @@ Financial Provisions
 
 Financial year
 
-1\. The financial year of the Authority shall begin on 1st April and end on 31st March of each year except that the first financial year shall begin on the appointed day and end on 31st March of the succeeding year.
+1\. The financial year of the Authority shall begin on 1st April and end on 31st March of each year.
 
-Accounts of Board
+Accounts of Authority
 
 2.—(1) The Authority shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Authority and over the expenditure incurred by the Authority.
 
@@ -670,3 +650,26 @@ Presentation to Parliament
 
 13\. The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
+## LEGISLATIVE HISTORY
+
+Energy Market Authority of Singapore Act
+
+(CHAPTER 92B)
+
+This Legislative History is provided for the convenience of users of the Energy Market Authority of Singapore Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 9 of 2001—Energy Market Authority of Singapore Act 2001**|
+||Date of First Reading|22 February 2001|
+|||(Bill No. 8/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|16 March 2001|
+||Date of commencement|1 April 2001|
+|2.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
+|3.|**2002 Revised Edition—Energy Market Authority of Singapore Act**|
+||Date of operation|31 July 2002|
