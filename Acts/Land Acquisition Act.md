@@ -588,11 +588,13 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 
 (i) 
 
-(A) as at 30th November 1973 in respect of land acquired before 30th November 1987;
+(A) as at 1st January 1986 in respect of land acquired on or after 30th November 1987 but before 18th January 1993;
 
-(B) as at 1st January 1986 in respect of land acquired on or after 30th November 1987 but before 18th January 1993; and
+(B) as at 1st January 1992 in respect of land acquired on or after 18th January 1993 but before 27th September 1995; and
 
-(C) as at 1st January 1992 in respect of land acquired on or after 18th January 1993;
+(C) as at 1st January 1995 in respect of land acquired on or after 27th September 1995;
+
+[Subst. by Act 38/95 wef 01/12/1995]
 
 (b) any increase in the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put;
 
@@ -865,3 +867,8 @@ This Legislative History is provided for the convenience of users of the Land Ac
 |||(Bill No. 2/1993 published on 19 January 1993)|
 ||Date of Second and Third Readings|26 February 1993|
 ||Date of commencement|16 April 1993|
+|9.|**Act 38 of 1995—Land Acquisition (Amendment) Act 1995**|
+||Date of First Reading|27 September 1995|
+|||(Bill No. 30/1995 published on 28 September 1995)|
+||Date of Second and Third Readings|1 November 1995|
+||Date of commencement|1 December 1995|
