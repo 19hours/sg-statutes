@@ -272,9 +272,9 @@
 
 (Original Enactment: Ordinance 26 of 1954)
 
-REVISED EDITION 1989
+REVISED EDITION 1995
 
-(15th March 1989)
+(15th March 1995)
 
 An Act to make provision for Parliamentary Elections.
 
@@ -2814,3 +2814,5 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 25/1994 published on 29 July 1994)|
 ||Date of Second and Third Readings|25 August 1994|
 ||Date of commencement|1 October 1994|
+|42.|**1995 Revised Edition—Parliamentary Elections Act**|
+||Date of operation|15 March 1995|
