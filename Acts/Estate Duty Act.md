@@ -34,7 +34,9 @@
 
 - [12 Bequests to Government or institutions of public character](#Bequests-to-Government-or-institutions-of-public-character)
 
-- [13 Gifts to National Museum](#Gifts-to-National-Museum)
+- [12A Gifts to Government or institutions of public character](#Gifts-to-Government-or-institutions-of-public-character)
+
+- [13 Gifts to approved museum](#Gifts-to-approved-museum)
 
 - [14 Dwelling-houses and all other property](#Dwelling-houses-and-all-other-property)
 
@@ -360,7 +362,7 @@ where the purchase was made, or the lease or annuity granted, for full considera
 
 ### Duty not payable for person not domiciled or resident in respect of certain property
 
-11\.—(1) Estate duty shall not be payable in respect of the following property in Singapore passing on the death of any person dying on or after 1st April 1982who at the time of his death was neither domiciled nor resident in Singapore:
+11\.—(1) Estate duty shall not be payable in respect of the following property in Singapore passing on the death of any person dying on or after 1st April 1982 and before 1st January 2002 who at the time of his death was neither domiciled nor resident in Singapore:
 
 (a) deposits and balances with Asian Currency Units of approved banks;
 
@@ -379,6 +381,10 @@ where the purchase was made, or the lease or annuity granted, for full considera
 (h) deposits and balances with futures members of the Singapore Exchange where such deposits and balances are in respect of transactions which qualify for the concessionary rate of tax under section 43D of the Income Tax Act (Cap. 134).
 
 [19/76; 2/83; 14/84]
+
+(1A) Estate duty shall not be payable in respect of any movable property passing on the death of any person dying on or after 1st January 2002 who at the time of his death was not domiciled in Singapore.
+
+[32/2002 wef 18/11/2002]
 
 (2) For the purposes of this section —
 
@@ -402,13 +408,35 @@ where the purchase was made, or the lease or annuity granted, for full considera
 
 [13
 
-### Gifts to National Museum
+### Gifts to Government or institutions of public character
 
-13\. No estate duty shall be payable in respect of any gift inter vivos made on or after 1st April 1987 to the National Museum and which, if other than a gift of money, has been approved by the Minister.
+12A\.—(1) No estate duty shall be payable in respect of any gift of any property passing on the death of a person to the Government or any institution of a public character within the meaning of section 37(9) of the Income Tax Act (Cap. 134) where the gift —
 
-[13A
+(a) is made on or after 1st January 2002 but before the issue of a notice of assessment by the Commissioner under section 37;
 
-[27/87]
+(b) is not any property which is deemed as property passing on the death of the person under section 7(1)(c); and
+
+(c) has been accepted by the Government or the institution of a public character, as the case may be,
+
+and the value of the property passing on the death of the person shall be deemed not to include the value of the gift for the purpose of assessing the rate of estate duty.
+
+(2) For the purpose of subsection (1), the value of any gift of any property passing on the death of a person shall be the market value of the gift at the time of the death of the person.
+
+[32/2002 wef 18/11/2002]
+
+### Gifts to approved museum
+
+13\.—(1) No estate duty shall be payable in respect of any gift inter vivos of —
+
+(a) money; or
+
+(b) any other approved gift,
+
+made on or after 1st April 1987 to any approved museum.
+
+(2) In this section, “approved” means approved by the Minister or such person as he may appoint.
+
+[32/2002 wef 18/11/2002]
 
 ### Dwelling-houses and all other property
 
@@ -486,7 +514,7 @@ shall not qualify for the relief under subsection (1)(a), (2)(a), (3)(a) or (4)(
 
 (7) In the case of a person dying on or after 25th February 2000, subsection (6)(a) shall not apply to any dwelling-house which at the time of his death was used by any person partly for the purposes of any trade, business, profession or vocation —
 
-(a) approved under the Technopreneur Home Office Scheme by the National Science and Technology Board; or
+(a) approved under the Technopreneur Home Office Scheme by the Economic Development Board; or
 
 (b) allowed under the small business guidelines of the Urban Redevelopment Authority or the Housing and Development Board.
 
@@ -1696,6 +1724,11 @@ This Legislative History is provided for the convenience of users of the Estate 
 |||1 January 2001|
 |33.|**2001 Revised Edition—Estate Duty Act**|
 ||Date of operation|31 July 2001|
+|34.|**Act 32 of 2002—Estate Duty (Amendment) Act 2002**|
+||Date of First Reading|1 October 2002|
+|||(Bill No. 30/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|18 November 2002|
 ## COMPARATIVE TABLE
 
 Estate Duty Act
