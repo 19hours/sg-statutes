@@ -8,23 +8,27 @@
 
 - [1 Short title](#Short-title)
 
-- [2 Duty on bets and sweepstakes](#Duty-on-bets-and-sweepstakes)
+- [2 Interpretation](#Interpretation)
 
-- [2A Sports betting duty](#Sports-betting-duty)
+- [3 Duty on bets and sweepstakes](#Duty-on-bets-and-sweepstakes)
 
-- [3 Exemption](#Exemption)
+- [4 Sports betting duty](#Sports-betting-duty)
 
-- [4 Keeping of accounts and delivery of statement by promoter](#Keeping-of-accounts-and-delivery-of-statement-by-promoter)
+- [5 Exemption](#Exemption)
 
-- [5 Production of documents](#Production-of-documents)
+- [6 Keeping of accounts and delivery of statement by promoter](#Keeping-of-accounts-and-delivery-of-statement-by-promoter)
 
-- [6 Duty payable to be a debt due to Government](#Duty-payable-to-be-a-debt-due-to-Government)
+- [7 Production of documents](#Production-of-documents)
 
-- [7 Sweepstake open to public](#Sweepstake-open-to-public)
+- [8 Duty payable to be a debt due to Government](#Duty-payable-to-be-a-debt-due-to-Government)
 
-- [8 Penalty](#Penalty)
+- [9 Sweepstake open to public](#Sweepstake-open-to-public)
+
+- [10 Penalty](#Penalty)
 
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 # Betting and Sweepstake Duties Act
 
@@ -32,9 +36,9 @@
 
 (Original Enactment: Ordinance 40 of 1950)
 
-REVISED EDITION 1985
+REVISED EDITION 1999
 
-(30th March 1987)
+(1st August 1999)
 
 An Act relating to duties on betting and sweepstakes.
 
@@ -44,11 +48,35 @@ An Act relating to duties on betting and sweepstakes.
 
 1\. This Act may be cited as the Betting and Sweepstake Duties Act.
 
+### Interpretation
+
+2\. For the purposes of this Act, unless the context otherwise requires —
+
+“exempt organisation” means any person or organisation that is exempt from all of the provisions of the Betting Act (Cap. 21) under a notification made under section 22(1) of that Act, or from all of the provisions of the Common Gaming Houses Act (Cap. 49) under a notification made under section 24(1) of that Act;
+
+“football game” means the game also known as soccer, whether taking place inside or outside Singapore;
+
+“promote” includes controlling or supervising the receipt or negotiation of bets or the conduct of games of chance, and “promoter” and “promoting” shall be construed accordingly;
+
+“promoter”, in relation to any racing club or association, means the secretary of the racing club or association which has promoted any totalisator, pari-mutuel or any other system or method of cash or credit betting or sweepstake;
+
+“sporting event” means any type of game, sport or exercise prescribed by the Minister, whether taking place inside or outside Singapore;
+
+“starting prices”, in relation to any event, means the odds ruling at the scene of the event immediately before the start;
+
+“totalisator odds” means the odds paid on bets made by means of a totalisator at the scene of the event;
+
+“winnings” includes winnings of any kind in money.
+
+[14/99]
+
 ### Duty on bets and sweepstakes
 
-2\.—(1) On every bet made on any totalisator or parimutuel or in any other system or method of cash or credit betting held, promoted, organised, administered or operated by any racing club or association exempted under section 22 of the Betting Act [Cap. 21] from the provisions of that Act there shall be charged a duty of 20% of the amount of the bet.
+3\.—(1) On every bet made on any totalisator, pari-mutuel or in any other system or method of cash or credit betting held, promoted, organised, administered or operated by any racing club or association exempted under section 22 of the Betting Act (Cap. 21) from the provisions of that Act, there shall be charged a duty of 25%1of the amount of the bet.
 
-[S 71/84]
+1SeeBetting and Sweepstake Duties Order (Cap. 22, O 1)
+
+[10/81]
 
 (2) On every sweepstake promoted by any racing club or association on the result of a horse race or other race whether the race takes place in or out of Singapore, there shall be charged a duty of 30% of the amount contributed towards the sweepstake.
 
@@ -58,27 +86,37 @@ An Act relating to duties on betting and sweepstakes.
 
 (4) The amount of the bet referred to in subsection (1) and the amount contributed towards the sweepstake referred to in subsection (2) shall exclude the amount of goods and services tax charged on the supply of the betting or sweepstake transactions, as the case may be.
 
-[Act 31/93 wef 26/11/1993 vide S 466/93]
+[2
 
-[10/81]
+[31/93]
 
 ### Sports betting duty
 
-2A\. --(1) Subject to the provisions of this Act, there shall be charged a sports betting duty in respect of any betting at fixed odds on any football game or sporting event where the betting is promoted in Singapore by or on behalf of any exempt organisation.
+4\.—(1) Subject to the provisions of this Act, there shall be charged a sports betting duty in respect of any betting at fixed odds on any football game or sporting event where the betting is promoted in Singapore by or on behalf of any exempt organisation.
 
-(2) Sports betting duty shall be an amount equal to 20%, or such other rate as the Minister may prescribe by order in the Gazette, of the gross betting profit of the exempt organisation in respect of any betting at fixed odds it promotes in connection with any particular football game or sporting event.
+[14/99]
+
+(2) Sports betting duty shall be an amount equal to 20%, or such other rate as the Minister may prescribe by order in theGazette, of the gross betting profit of the exempt organisation in respect of any betting at fixed odds it promotes in connection with any particular football game or sporting event.
+
+[14/99]
 
 (3) Sports betting duty shall be paid by the exempt organisation promoting the betting at fixed odds on any particular football game or sporting event within 15 days (or such further period as the Commissioner of Stamp Duties may allow in any particular case) after the date on which the football game or sporting event, as the case may be, takes place.
 
-(4) For the purposes of subsection (2), the gross betting profit of an exempt organisation in relation to any particular football game or sporting event shall be the amount (if any) by which the value specified in paragraph (a) exceeds the value specified in paragraph (b) --
+[14/99]
+
+(4) For the purposes of subsection (2), the gross betting profit of an exempt organisation in relation to any particular football game or sporting event shall be the amount, if any, by which the value specified in paragraph (a) exceeds the value specified in paragraph (b) —
 
 (a) the aggregate value in money of the stakes on all bets at fixed odds received or negotiated in Singapore by or on behalf of the exempt organisation in connection with that football game or sporting event; and
 
 (b) the value in money of the winnings paid by or on behalf of the exempt organisation on the results of that football game or sporting event.
 
+[14/99]
+
 (5) In calculating the amount of the stake on a bet under subsection (4) (a), the amount of goods and services tax charged on the supply of the betting transaction shall be excluded.
 
-(6) For the purposes of this section, a bet is a bet at fixed odds only if the person making it knows or can know, at the time he makes it, the amount he will win, except in so far as the amount is to depend --
+[14/99]
+
+(6) For the purposes of this section, a bet is a bet at fixed odds only if the person making it knows or can know, at the time he makes it, the amount he will win, except in so far as the amount is to depend —
 
 (a) on the result of the event or events betted on;
 
@@ -92,31 +130,21 @@ An Act relating to duties on betting and sweepstakes.
 
 (f) on the time when his bet is received by any person with or through whom the bet is made.
 
-(7) In this section and sections 3, 4, 5 and 8, unless the context otherwise requires --
+[2A
 
-“exempt organisation” means any person or organisation that is exempt from all of the provisions of the Betting Act (Cap. 21) under a notification made under section 22(1) of that Act, or from all of the provisions of the Common Gaming Houses Act (Cap. 49) under a notification made under section 24(1) of that Act;
-
-“football game” means the game also known as soccer, whether taking place inside or outside Singapore;
-
-“promote” includes controlling or supervising the receipt or negotiation of bets or the conduct of games of chance, and “promoter” and “promoting” shall be construed accordingly;
-
-“sporting event” means any type of game, sport or exercise prescribed by the Minister, whether taking place inside or outside Singapore;
-
-“starting prices”, in relation to any event, means the odds ruling at the scene of the event immediately before the start;
-
-“totalisator odds” means the odds paid on bets made by means of a totalisator at the scene of the event;
-
-“winnings” includes winnings of any kind in money.
-
-[14/99 wef 31/03/1999]
+[14/99]
 
 ### Exemption
 
-3\. The Minister may, in his discretion and subject to such conditions as he may think fit, exempt any sweepstake or betting promoted, organised, administered or operated by any racing club or association or exempt organisation from all or any of the provisions of this Act.
+5\. The Minister may, in his discretion and subject to such conditions as he may think fit, exempt any sweepstake or betting held, promoted, organised, administered or operated by any racing club or association or exempt organisation from all or any of the provisions of this Act.
+
+[3
+
+[14/99]
 
 ### Keeping of accounts and delivery of statement by promoter
 
-4\.—(1) The promoter of any betting or sweepstake referred to in section 2 or 2A shall --
+6\.—(1) The promoter of any betting or sweepstake referred to in section 3 or 4 shall —
 
 (a) keep such books of accounts in respect of such betting or sweepstake as may be prescribed and shall enter in these books true and regular accounts of all moneys received by the promoter in respect of the betting or sweepstake and all costs, charges and expenses incurred by the promoter in promoting the betting or sweepstake;
 
@@ -132,37 +160,51 @@ An Act relating to duties on betting and sweepstakes.
 
 (c) pay to the Commissioner of Stamp Duties the amount of duty so chargeable in respect of the betting or sweepstake in Singapore dollar.
 
-(2) The statement referred to in subsection (1) (b) shall be delivered and the duty so chargeable shall be paid to the Commissioner of Stamp Duties --
+[14/99]
 
-(a) in the case of bets made on any totalisator or pari-mutuel, or in any other system or method of cash or credit betting held, promoted, organised, administered or operated by any racing club or association referred to in section 2(1), within 15 days, or such further period as the Commissioner may allow under subsection (3), after the last day of the race meeting at which the bets were made;
+(2) The statement referred to in subsection (1)(b) shall be delivered and the duty so chargeable shall be paid to the Commissioner of Stamp Duties —
 
-(b) in the case of any sweepstake referred to in section 2(2), within 15 days, or such further period as the Commissioner may allow under subsection (3), after the date on which the winners in that sweepstake are ascertained; or
+(a) in the case of bets made on any totalisator, pari-mutuel or in any other system or method of cash or credit betting held, promoted, organised, administered or operated by any racing club or association referred to in section 3(1), within 15 days, or such further period as the Commissioner may allow under subsection (3), after the last day of the race meeting at which the bets were made;
 
-(c) in the case of any betting referred to in section 2A, within 15 days, or such further period as the Commissioner may allow under subsection (3), after the date the football game or sporting event in respect of which the bet is made takes place.
+(b) in the case of any sweepstake promoted by any racing club or association referred to in section 3(2), within 15 days, or such further period as the Commissioner may allow under subsection (3), after the date on which the winners in that sweepstake are ascertained; or
 
-(3) The Commissioner of Stamp Duties may in any case or class of cases, as he thinks fit, extend the time within which the statement under subsection (1) (b) and the duty chargeable shall be delivered and paid to the Commissioner.
+(c) in the case of any betting referred to in section 4, within 15 days, or such further period as the Commissioner may allow under subsection (3), after the date the football game or sporting event in respect of which the bet is made takes place.
 
-(4) For the purposes of this Act, “promoter”, in relation to any racing club or association, means the secretary of the racing club or association which has promoted any totalisator, pari-mutuel or any other system or method of cash or credit betting or sweepstake.
+[14/99]
 
-[14/99 wef 31/03/1999]
+(3) The Commissioner of Stamp Duties may in any case or class of cases, as he thinks fit, extend the time within which the statement under subsection (1)(b) and the duty chargeable shall be delivered and paid to the Commissioner.
+
+[4
+
+[14/99]
 
 ### Production of documents
 
-5\. The Commissioner of Stamp Duties may at all reasonable times require the production of any books, accounts, vouchers or other documents relating to any totalisator, pari-mutuel or sweepstake or betting promoted by any racing club or association or exempt organisation.
+7\. The Commissioner of Stamp Duties may, at all reasonable times, require the production of any books, accounts, vouchers or other documents relating to any totalisator, pari-mutuel or sweepstake or betting promoted by any racing club or association or exempt organisation.
+
+[5
+
+[14/99]
 
 ### Duty payable to be a debt due to Government
 
-6\. The duty required to be paid under this Act shall be a debt due to the Government and may be recovered as such.
+8\. The duty required to be paid under this Act shall be a debt due to the Government and may be recovered as such.
+
+[6
 
 ### Sweepstake open to public
 
-7\. Any person may buy a ticket or chance or take part in a sweepstake held, promoted, organised, administered or operated by any racing club or association exempted under section 22 of the Betting Act [Cap. 21] from the provisions of that Act notwithstanding that he is not a member of that racing club or association.
+9\. Any person may buy a ticket or chance or take part in a sweepstake held, promoted, organised, administered or operated by any racing club or association exempted under section 22 of the Betting Act (Cap. 21) from the provisions of that Act notwithstanding that he is not a member of that racing club or association.
+
+[7
 
 ### Penalty
 
-8\.—(1) If the promoter fails to deliver the statement within the time prescribed by section 4(2) to the Commissioner of Stamp Duties as provided in section 4 he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+10\.—(1) If the promoter fails to deliver the statement within the time prescribed by section 6(2) to the Commissioner of Stamp Duties as provided in section 6, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
-(2) If the promoter, with intent to evade the duty chargeable under this Act, fails to deliver the statement to the Commissioner of Stamp Duties as provided in section 4 or delivers such statement which is false in any material particular he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or 4 times the amount of the duty payable, whichever is higher.
+(2) If the promoter, with intent to evade the duty chargeable under this Act, fails to deliver the statement to the Commissioner of Stamp Duties as provided in section 6 or delivers such statement which is false in any material particular, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or 4 times the amount of the duty payable, whichever is higher.
+
+[8
 
 ## LEGISLATIVE HISTORY
 
@@ -233,3 +275,55 @@ This Legislative History is provided for the convenience of users of the Betting
 |||(Bill No. 10/99 published on 27 February 1999)|
 ||Date of Second and Third Readings|18 March 1999|
 ||Date of commencement|31 March 1999|
+|16.|**1999 Revised Edition—Betting and Sweepstake Duties Act (Chapter 22)**|
+||Date of operation|1 August 1999|
+## COMPARATIVE TABLE
+
+Betting and Sweepstake Duties Act
+
+(CHAPTER 22)
+
+The following provisions in the 1985 Revised Edition of the Betting and Sweepstake Duties Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Betting and Sweepstake Duties Act.
+
+1999 Ed\. 
+
+1985 Ed\. 
+
+2 
+
+2A — (7) and 4(4)
+
+3 
+
+2 
+
+4 
+
+2A 
+
+5 
+
+3 
+
+6 
+
+4 
+
+7 
+
+5 
+
+8 
+
+6 
+
+9 
+
+7 
+
+10 
+
+8 
+
