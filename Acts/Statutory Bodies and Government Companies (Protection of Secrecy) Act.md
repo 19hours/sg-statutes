@@ -130,9 +130,9 @@ Jurong Town Corporation Act (Chapter 150).
 
 10.
 
-Mass Rapid Transit Corporation
+Land Transport Authority of Singapore
 
-Mass Rapid Transit Corporation Act (Chapter 172).
+Land Transport Authority of Singapore Act 1995
 
 11.
 
@@ -200,6 +200,8 @@ Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340).
 
+[29/1995 wef 01/09/1995]
+
 Part II
 
 Government Companies
@@ -265,3 +267,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 January 1995|
 |14.|**1995 Revised Edition—Statutory Bodies and Government Companies (Protection of Secrecy) Act**|
 ||Date of operation|15 March 1995|
+|15.|**Act 29 of 1995—Rapid Transit Systems Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|7 July 1995|
+|||(Bill No. 25/1995 published on 8 July 1995)|
+||Date of Second and Third Readings|7 August 1995|
+||Date of commencement|1 September 1995|
