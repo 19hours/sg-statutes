@@ -680,15 +680,87 @@
 
 - [282 Transactions under exempted offers or invitations subject to Division 2 of Part XII of the Companies Act and Part XII of this Act](#Transactions-under-exempted-offers-or-invitations-subject-to-Division-2-of-Part-XII-of-the-Companies-Act-and-Part-XII-of-this-Act)
 
+[**Division 1A  Business Trusts**](#Division-1A--Business-Trusts)
+
+[**Subdivision 1 Interpretation**](#Subdivision-1-Interpretation)
+
+- [282A Preliminary provisions](#Preliminary-provisions)
+
+- [282B Division not to apply to certain business trusts which are collective investment schemes](#Division-not-to-apply-to-certain-business-trusts-which-are-collective-investment-schemes)
+
+[**Subdivision 2 Prospectus Requirements**](#Subdivision-2-Prospectus-Requirements)
+
+- [282C Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
+
+- [282D Lodging supplementary document or replacement document](#Lodging-supplementary-document-or-replacement-document)
+
+- [282E Stop order for prospectus and profile statement](#Stop-order-for-prospectus-and-profile-statement)
+
+- [282F Contents of prospectus](#Contents-of-prospectus)
+
+- [282G Contents of profile statement](#Contents-of-profile-statement)
+
+- [282H Exemption from requirements as to form or content of prospectus or profile statement](#Exemption-from-requirements-as-to-form-or-content-of-prospectus-or-profile-statement)
+
+- [282I Expert’s consent to issue of prospectus containing statement by him](#Expert’s-consent-to-issue-of-prospectus-containing-statement-by-him)
+
+- [282J Duration of validity of prospectus](#Duration-of-validity-of-prospectus)
+
+- [282K Restrictions on advertisements, etc.](#Restrictions-on-advertisements-etc)
+
+- [282L Persons liable on prospectus or profile statement to inform person making offer or invitation about certain deficiencies](#Persons-liable-on-prospectus-or-profile-statement-to-inform-person-making-offer-or-invitation-about-certain-deficiencies)
+
+- [282M Criminal liability for false or misleading statements](#Criminal-liability-for-false-or-misleading-statements)
+
+- [282N Civil liability for false or misleading statements](#Civil-liability-for-false-or-misleading-statements)
+
+- [282O Defences](#Defences)
+
+- [282P Offer information statement for renounceable rights issues](#Offer-information-statement-for-renounceable-rights-issues)
+
+- [282Q Document containing offer of units for sale deemed prospectus](#Document-containing-offer-of-units-for-sale-deemed-prospectus)
+
+- [282R Application and moneys to be held by trustee-manager of business trust in trust in separate bank account until allotment](#Application-and-moneys-to-be-held-by-trustee-manager-of-business-trust-in-trust-in-separate-bank-account-until-allotment)
+
+- [282S Allotment of units or derivatives of units where prospectus indicates application to list on securities exchange](#Allotment-of-units-or-derivatives-of-units-where-prospectus-indicates-application-to-list-on-securities-exchange)
+
+- [282T Prohibition of allotment unless minimum subscription received](#Prohibition-of-allotment-unless-minimum-subscription-received)
+
+[**Subdivision 3 Exemptions**](#Subdivision-3-Exemptions)
+
+- [282U Interpretation of this Subdivision](#Interpretation-of-this-Subdivision)
+
+- [282V Offer or invitation made under certain circumstances](#Offer-or-invitation-made-under-certain-circumstances)
+
+- [282W Offer or invitation made to certain institutions or persons](#Offer-or-invitation-made-to-certain-institutions-or-persons)
+
+- [282X Offer or invitation made to sophisticated investors](#Offer-or-invitation-made-to-sophisticated-investors)
+
+- [282Y Circumstances in which prospectus is not required on first sale of units acquired under exemptions in section 282W or 282X](#Circumstances-in-which-prospectus-is-not-required-on-first-sale-of-units-acquired-under-exemptions-in-section-282W-or-282X)
+
+- [282Z Securities exchange offer or invitation](#Securities-exchange-offer-or-invitation)
+
+- [282ZA Revocation of exemption](#Revocation-of-exemption)
+
+- [282ZB Transactions under exempted offers or invitations subject to Division 2 of Part XII of Companies Act and Part XII of this Act](#Transactions-under-exempted-offers-or-invitations-subject-to-Division-2-of-Part-XII-of-Companies-Act-and-Part-XII-of-this-Act)
+
+[**Subdivision 4 Debentures**](#Subdivision-4-Debentures)
+
+- [282ZC Applicability of provisions relating to prospectus requirements](#Applicability-of-provisions-relating-to-prospectus-requirements)
+
 [**Division 2  Collective Investment Schemes**](#Division-2--Collective-Investment-Schemes)
 
 [**Subdivision 1 Interpretation**](#Subdivision-1-Interpretation)
 
 - [283 Interpretation of this Division](#Interpretation-of-this-Division)
 
+- [283A Use of term "real estate investment trust"](#Use-of-term-"real-estate-investment-trust")
+
 - [284 Code on Collective Investment Schemes](#Code-on-Collective-Investment-Schemes)
 
 - [284A Authority may disapply this Division to certain offers and invitations](#Authority-may-disapply-this-Division-to-certain-offers-and-invitations)
+
+- [284B Division not to apply to certain collective investment schemes which are business trusts](#Division-not-to-apply-to-certain-collective-investment-schemes-which-are-business-trusts)
 
 [**Subdivision 2 Authorisation and Recognition**](#Subdivision-2-Authorisation-and-Recognition)
 
@@ -878,9 +950,9 @@ PRELIMINARY
 
 “advocate and solicitor” means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 130A of the Legal Profession Act (Cap. 161);
 
-“auditor” means a public accountant within the meaning of the Companies Act (Cap. 50);
+“auditor”, except for the purposes of Division 1 of Part XIII, means a public accountant who is registered or deemed to be registered under the Accountants Act 2004 (Act 4 of 2004);
 
-[5/2004 wef 11/04/2005]
+[31/2004 wef 12/10/2004]
 
 “Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
 
@@ -893,6 +965,10 @@ PRELIMINARY
 (b) other persons in relation to it,
 
 whether or not those rules, regulations, by-laws or similar body of statements are made by the exchange holding company, securities exchange, futures exchange, recognised trading system provider or clearing house or are contained in its constituent documents, but does not include the listing rules of a securities exchange or recognised trading system provider (which is an overseas securities exchange);
+
+“business trust” has the same meaning as in section 2 of the Business Trusts Act 2004;
+
+[31/2004 wef 12/10/2004]
 
 “capital markets products” means any securities, futures contracts, contracts or arrangements for the purposes of foreign exchange trading, contracts or arrangements for the purposes of leveraged foreign exchange trading, and such other products as the Authority may prescribe as a capital markets products;
 
@@ -912,7 +988,15 @@ whether or not those rules, regulations, by-laws or similar body of statements a
 
 “clearing house” means any corporation which has been approved by the Authority under section 51 as a clearing house;
 
-“closed-end fund” means an arrangement referred to in paragraphs (a) and (b) of the definition of “collective investment scheme” under which units that are exclusively or primarily non-redeemable units are issued;
+“closed-end fund” means an arrangement referred to in paragraph (a) or (b) of the definition of “collective investment scheme” under which units that are exclusively or primarily non-redeemable are issued, but does not include an arrangement referred to in paragraph (a) of that definition that —
+
+(a) is a trust;
+
+(b) invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
+
+(c) is listed on a securities exchange;
+
+[31/2004 wef 12/10/2004]
 
 “Code on Collective Investment Schemes” means the Code on Collective Investment Schemes referred to in section 284 which is issued by the Authority under section 321(1);
 
@@ -962,9 +1046,11 @@ but does not include —
 
 (ix) an arrangement arising out of a life policy within the meaning of the Insurance Act (Cap. 142);
 
-(x) a closed-end fund constituted in Singapore;
+(x) a closed-end fund constituted either as a corporation or a trust; or
 
-(xi) a closed-end fund constituted outside Singapore and listed on a securities exchange; or
+[31/2004 wef 12/10/2004]
+
+(xi) [Deleted by Act 31 of 2004 wef 12/10/2004]
 
 (xii) an arrangement which is an arrangement, or is of a class or description of arrangements, specified by the Authority as not constituting a collective investment scheme by notice published in theGazette;
 
@@ -1016,6 +1102,10 @@ but does not include such person or class of persons as may be prescribed;
 
 “defalcation” means misapplication, including misappropriation, of any property;
 
+“derivative”, in relation to a unit in a business trust, has the same meaning as in section 2 of the Business Trusts Act 2004;
+
+[31/2004 wef 12/10/2004]
+
 “director” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
 “entity” includes, without limitation, the government of any state;
@@ -1040,7 +1130,9 @@ but does not include such person or class of persons as may be prescribed;
 
 “franchise” means a written agreement or arrangement between 2 or more persons by which —
 
-(a) a party (referred to in this definition as the franchisor) to the agreement or arrangement (not being a collective investment scheme) authorises or permits another party (referred to in this definition as the franchisee), or a person associated with the franchisee, to exercise the right to engage in the business of offering, selling or distributing goods or services in Singapore under a plan or system controlled by the franchisor or a person associated with the franchisor;
+(a) a party (referred to in this definition as the franchisor) to the agreement or arrangement authorises or permits another party (referred to in this definition as the franchisee), or a person associated with the franchisee, to exercise the right to engage in the business of offering, selling or distributing goods or services in Singapore under a plan or system controlled by the franchisor or a person associated with the franchisor;
+
+[31/2004 wef 12/10/2004]
 
 (b) the business carried on by the franchisee or the person associated with the franchisee, as the case may be, is capable of being identified by the public as being substantially associated with a trade or service mark, logo, symbol or name identifying, commonly connected with or controlled by the franchisor or a person associated with the franchisor;
 
@@ -1152,9 +1244,13 @@ whether those rules are made —
 
 (ii) the value or price of any group of any such debentures, stocks or shares; or
 
-(iii) an index of any such debentures, stocks or shares; or
+(iii) an index of any such debentures, stocks or shares;
 
-(e) any unit in a collective investment scheme,
+(e) any unit in a collective investment scheme;
+
+(f) any unit in a business trust; or
+
+(g) any derivative of a unit in a business trust,
 
 but does not include —
 
@@ -1165,6 +1261,8 @@ but does not include —
 (iii) promissory notes; or
 
 (iv) certificates of deposit issued by a bank or finance company whether situated in Singapore or elsewhere;
+
+[31/2004 wef 12/10/2004]
 
 “securities exchange” means a corporation that is approved by the Authority under section 9 as a securities exchange;
 
@@ -1190,15 +1288,35 @@ but does not include —
 
 (a) an offer for the acquisition by or on behalf of a person of —
 
-(i) some or all of the shares in a public company or some or all of the shares of a particular class in a public company, made to all members of the company, or where the person already holds shares in the company, made to all other members of the company; or
+(i) in the case of a public company —
 
-(ii) all of the remaining shares in a public company made to all other members of the company as a result of the person acquiring or consolidating effective control of that company within the meaning of the Take-over Code; or
+(A) some or all of the shares in the company or some or all of the shares of a particular class in the company, made to all members of the company, or where the person already holds shares in the company, made to all other members of the company; or
+
+(B) all of the remaining shares in the company made to all other members of the company as a result of the person acquiring or consolidating effective control of that company within the meaning of the Take-over Code; or
+
+(ii) in the case of a business trust —
+
+(A) some or all of the units in the business trust or some or all of the units of a particular class in the business trust, made to all unitholders of the business trust, or where the person already holds units in the business trust, made to all other unitholders of the business trust; or
+
+(B) all of the remaining units in the business trust made to all other unitholders of the business trust as a result of the person acquiring or consolidating effective control of that business trust within the meaning of the Take-over Code; or
 
 (b) a proposed compromise or arrangement referred to in section 210 of the Companies Act (Cap. 50) that if executed would result in a change in effective control of the public company concerned within the meaning of the Take-over Code;
 
+[31/2004 wef 12/10/2004]
+
 “trading in futures contracts” has the meaning given to it in the Second Schedule;
 
-“unit”, in relation to a collective investment scheme, means a right or interest (however described) of a participant in a collective investment scheme (whether or not constituted as a corporation);
+“unit” —
+
+(a) in relation to a collective investment scheme, means a right or interest (however described) of a participant in a collective investment scheme (whether or not constituted as a corporation); and
+
+(b) in relation to a business trust, has the same meaning as in section 2 of the Business Trusts Act 2004;
+
+[31/2004 wef 12/10/2004]
+
+“unitholder”, in relation to a business trust, has the same meaning as in section 2 of the Business Trusts Act 2004;
+
+[31/2004 wef 12/10/2004]
 
 “voting share” has the same meaning as in section 4(1) of the Companies Act.
 
@@ -6240,6 +6358,22 @@ Interpretation
 
 239\.—(1) In this Division —
 
+“auditor” —
+
+(a) means a public accountant who is registered or deemed to be registered under the Accountants Act 2004 (Act 4 of 2004); and
+
+(b) in relation to a corporation or other entity, not being a company, includes —
+
+(i) a person who is duly registered, licensed, approved or otherwise authorised to practise as an auditor (including the issuance of an opinion, a report or other document on the audit of any financial statements) under the laws of the place of his practice, provided that any one of the following conditions is satisfied:
+
+(A) the place of his practice is also the place where that corporation is incorporated or where that entity is formed or constituted, as the case may be;
+
+(B) the auditing standards that are or will be applied in respect of the financial statements of that corporation or entity are either auditing standards that are commonly applied in the place of his practice, or international auditing standards (by whatever name called); or
+
+(ii) such other person as may be approved by the Authority in any particular case to be an auditor for such corporation or entity for the purposes of this Division;
+
+[31/2004 wef 12/10/2004]
+
 “borrowing corporation” means a corporation or any other entity that is or will be under a liability (whether or not such liability is present or future) to repay any money received or to be received by it in response to an invitation to the public to subscribe for or purchase debentures of the corporation or entity;
 
 “debenture” includes debenture stock, bonds, notes and any other debt securities issued by a corporation or any other entity, whether or not constituting a charge on the assets of the issuer but does not include —
@@ -7790,6 +7924,1264 @@ Subdivisions (2) and (3) of this Division shall not apply to the offer or invita
 
 282\. For the avoidance of doubt, it is hereby declared that in relation to any transaction carried out under an exempted offer or invitation under this Part, nothing in this Part shall limit or diminish any liability which any person may incur in respect of any relevant offence under Division 2 of Part XII of the Companies Act (Cap. 50) or Part XII of this Act or any penalty, award of compensation or punishment in respect of any such offence.
 
+Division 1A —
+
+Business Trusts
+
+Subdivision (1) —
+
+Interpretation
+
+### Preliminary provisions
+
+282A\.—(1) In this Division —
+
+“expert” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+“minimum subscription”, in relation to any units or derivatives of units in a business trust offered to the public for subscription or purchase, means the amount stated in the prospectus relating to the offer as the minimum amount which in the opinion of the directors of the trustee-manager of the business trust must be raised by the issue of the units or derivatives of units in the business trust so offered;
+
+“preliminary document” means a document which has been lodged with the Authority and is issued for the purpose of determining the appropriate issue or sale price of, and the number of, units or derivatives of units in a business trust or proposed business trust to be issued or sold and which contains the information required to be included in a prospectus under section 282F, except for such information as may be prescribed by the Authority;
+
+“profile statement” means a profile statement referred to in section 282C(4);
+
+“promoter”, in relation to a prospectus issued in connection with a business trust, means a promoter of the business trust who was a party to the preparation of the prospectus or of any relevant portion thereof, but does not include any person by reason only of his acting in a professional capacity;
+
+“prospectus” means any prospectus, notice, circular, material, advertisement, publication or other document inviting applications or offers from the public to subscribe for or purchase, or offering to the public for subscription or purchase, any units or derivatives of units in a business trust or proposed business trust and includes any document deemed to be a prospectus under section 282Q, but does not include —
+
+(a) a profile statement; or
+
+(b) any material, advertisement or publication which is authorised by section 282K (other than subsection (5) thereof);
+
+“registered business trust” has the same meaning as in section 2 of the Business Trusts Act 2004;
+
+“replacement document” means a replacement prospectus or a replacement profile statement referred to in section 282D(1), as the case may be;
+
+“supplementary document” means a supplementary prospectus or a supplementary profile statement referred to in section 282D(1), as the case may be;
+
+“trust deed” has the same meaning as “deed” in section 2 of the Business Trusts Act 2004;
+
+“trust property” has the same meaning as in section 2 of the Business Trusts Act 2004;
+
+“trustee-manager” —
+
+(a) in relation to a registered business trust, has the same meaning as in section 2 of the Business Trusts Act 2004; and
+
+(b) in relation to a business trust for which an application for registration has been made under section 4(1) of the Business Trusts Act 2004, means the person proposed to be named as the trustee-manager in the application.
+
+(2) For the purposes of this Division, a statement shall be deemed to be included in a prospectus or profile statement if it is contained in any report or memorandum appearing on the face thereof or by reference incorporated therein or issued therewith.
+
+(3) Unless the contrary intention appears, any reference in this Division to making an offer to the public of units or derivatives of units in a business trust for subscription or purchase, or making an invitation to the public to subscribe for or purchase units or derivatives of units in a business trust —
+
+(a) shall include a reference to —
+
+(i) making an offer of units or derivatives of units in a business trust to any section of the public for subscription or purchase, or to making an invitation to any section of the public to subscribe for or purchase units or derivatives of units in a business trust, as the case may be, whether by selection as customers of the person making the offer or the invitation or in any other manner;
+
+(ii) inviting applications from any section of the public to subscribe for or purchase units or derivatives of units in a business trust; and
+
+(iii) the provision of any facility, made available to the public or any section of the public, that enables a person to subscribe for or purchase units or derivatives of units in a business trust;
+
+(b) but shall not include the following:
+
+(i) an offer or invitation to enter into an underwriting agreement relating to units or derivatives of units in a business trust; and
+
+(ii) an offer or invitation made to existing unitholders of a business trust (whether or not it is renounceable in favour of persons other than existing unitholders) which —
+
+(A) relates to units in that business trust, or to derivatives of such units; and
+
+(B) is not an offer or invitation to which section 282P applies.
+
+[31/2004 wef 12/10/2004]
+
+### Division not to apply to certain business trusts which are collective investment schemes
+
+282B\. This Division shall not apply to an offer to the public of units or derivatives of units in a business trust for subscription or purchase, or an invitation to the public to subscribe for or purchase units or derivatives of units in a business trust, where —
+
+(a) the business trust is also a collective investment scheme that has been authorised under section 286 or recognised under section 287; or
+
+(b) the business trust is also a collective investment scheme and the offer or invitation is made in reliance on an exemption under Subdivision (4) of Division 2.
+
+[31/2004 wef 12/10/2004]
+
+Subdivision (2) —
+
+Prospectus Requirements
+
+### Requirement for prospectus and profile statement, where relevant
+
+282C\.—(1) No person shall make an offer to the public of units or derivatives of units in a business trust for subscription or purchase, or an invitation to the public to subscribe for or purchase units or derivatives of units in a business trust unless —
+
+(a) such business trust is a registered business trust; and
+
+(b) such offer or invitation —
+
+(i) is made in or accompanied by a prospectus in respect of the offer or invitation —
+
+(A) that is prepared in accordance with section 282F;
+
+(B) a copy of which, being one that has been signed by every director, and by every person who is named therein as a proposed director, of the trustee-manager of the business trust or by a person authorised by him, is lodged with the Authority together with a written application for the registration of the prospectus; and
+
+(C) that is registered by the Authority; and
+
+(ii) complies with such requirements as may be prescribed by the Authority.
+
+(2) A person who lodges a preliminary document with the Authority shall be deemed to have lodged a prospectus with the Authority.
+
+(3) A preliminary document referred to in subsection (2) shall contain all information to be included in a prospectus other than such information as may be prescribed by the Authority.
+
+(4) Notwithstanding subsection (1), an offer to the public of units or derivatives of units in a business trust for subscription or purchase, or an invitation to the public to subscribe for or purchase units or derivatives of units in a business trust, may be made in or accompanied by an extract from, or an abridged version of, a prospectus (referred to in this section as a profile statement), instead of a prospectus, if —
+
+(a) a prospectus in respect of such offer or invitation is prepared in accordance with section 282F and the profile statement is prepared in accordance with section 282G;
+
+(b) a copy of the prospectus and a copy of the profile statement, each of which has been signed by every director, and by every person who is named therein as a proposed director, of the trustee-manager of the business trust or by a person authorised by him, are lodged with the Authority together with a written application for the registration of the prospectus and a written application for the registration of the profile statement respectively, and the prospectus is lodged no later than the profile statement;
+
+(c) the prospectus and profile statement are registered by the Authority;
+
+(d) sufficient copies of the prospectus are made available for collection at the times and places specified in the profile statement; and
+
+(e) the offer or invitation complies with such requirements as may be prescribed by the Authority.
+
+(5) No person shall make any offer to the public of units or derivatives of units in a business trust for subscription or purchase, or an invitation to the public to subscribe for or purchase units or derivatives of units in a business trust, if that business trust has not been formed or does not exist.
+
+(6) Subsection (1) shall not apply to an offer or invitation in respect of units or derivatives of units in a business trust that is exempted under Subdivision (3).
+
+(7) Any person who contravenes subsection (1) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(8) The Authority may register a prospectus or a profile statement on any day between the 14th and 21st day (both days inclusive) from the date of lodgment thereof with the Authority, unless —
+
+(a) the Authority gives to the person who lodged the prospectus or profile statement a notice of an opportunity to be heard under subsection (16);
+
+(b) the Authority gives notice of an extension, in which case the Authority may, not later than 28 days from the date of lodgment of the prospectus or profile statement —
+
+(i) register the prospectus or profile statement; or
+
+(ii) give to the person who lodged the prospectus or profile statement a notice of an opportunity to be heard under subsection (16); or
+
+(c) the person who lodged the prospectus or profile statement applies in writing for the prospectus or profile statement to be registered at a later date, in which case the Authority may register the prospectus or profile statement at such later date as the Authority thinks fit.
+
+(9) Where a prospectus lodged with the Authority is a preliminary document, the Authority shall not register the prospectus unless a copy of the prospectus containing the information required to be stipulated in the prospectus under section 282F, including such information which could be omitted from the preliminary document by virtue of subsection (3), has been furnished to the Authority.
+
+(10) Subject to subsection (11) —
+
+(a) where any amendment to a prospectus is lodged prior to the registration of such prospectus, the prospectus and any profile statement which is lodged shall be deemed for the purposes of subsection (8) to have been lodged when such amendment was lodged; and
+
+(b) where any amendment to a profile statement is lodged prior to the registration of such profile statement, the profile statement shall be deemed for the purposes of subsection (8) to have been lodged when such amendment was lodged.
+
+(11) Where an amendment to a prospectus or profile statement is lodged prior to the registration of the prospectus or profile statement —
+
+(a) with the consent of the Authority; or
+
+(b) pursuant to an order by the Authority,
+
+the prospectus or profile statement as amended shall be deemed for the purposes of subsection (8) to have been lodged when the original prospectus or profile statement was lodged with the Authority.
+
+(12) An amendment to a prospectus or profile statement that is lodged shall be treated as part of the original prospectus or profile statement.
+
+(13) The Authority may, for public information, publish —
+
+(a) a prospectus or profile statement lodged with the Authority under this section; and
+
+(b) where applicable, the translation thereof in the English language lodged with the Authority under section 318A(1),
+
+and, for the purposes of this subsection, the person who lodges the prospectus or profile statement and, where applicable, the translation, shall provide the Authority with a copy of the prospectus or profile statement and, where applicable, the translation, in such form or medium for publication as the Authority may require.
+
+(14) The Authority shall refuse to register a copy of any prospectus if —
+
+(a) the Authority is of the opinion that the prospectus contains a false or misleading statement or matter;
+
+(b) there is an omission from the prospectus of any information that is required to be included in it under section 282F;
+
+(c) a copy of the prospectus signed by every director, and by every person who is named therein as a proposed director, of the trustee-manager of the business trust or by a person authorised by the director or proposed director in writing, is not lodged with the Authority;
+
+(d) the Authority is of the opinion that the prospectus does not comply with the requirements of this Act;
+
+(e) copies verified as prescribed of any consent required by section 282I to the issue of the prospectus are not lodged with the Authority; or
+
+(f) the Authority is of the opinion that it is not in the public interest to do so.
+
+(15) The Authority shall refuse to register a copy of any profile statement if —
+
+(a) the Authority is of the opinion that the profile statement contains a false or misleading statement or matter;
+
+(b) there is an omission from the profile statement of information required by section 282G to be included in it or an inclusion in the profile statement of information prohibited by that section from being included in it;
+
+(c) a copy of the profile statement signed by every director, and by every person who is named therein as a proposed director, of the trustee-manager of the business trust or by a person authorised by the director or proposed director in writing, is not lodged with the Authority;
+
+(d) the Authority is of the opinion that the profile statement does not comply with the requirements of this Act;
+
+(e) the prospectus has not been registered by the Authority; or
+
+(f) the Authority is of the opinion that it is not in the public interest to do so.
+
+(16) The Authority shall not refuse to register a copy of a prospectus under subsection (14) or profile statement under subsection (15) without giving the person who lodged the prospectus or profile statement an opportunity to be heard, except that an opportunity to be heard need not be given if the refusal is on the ground that it is not in the public interest to register the prospectus or profile statement on the basis of any of the following circumstances:
+
+(a) the trustee-manager of the business trust or the business trust itself is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the trustee-manager of the business trust or the trust property of the business trust.
+
+(17) Any person who is aggrieved by the refusal of the Authority to register a copy of a prospectus or profile statement under subsection (14) or (15) may, within 30 days after he is notified of the decision, appeal to the Minister whose decision shall be final.
+
+(18) If —
+
+(a) a prospectus or profile statement is issued, circulated or distributed without a copy thereof having been registered by the Authority; or
+
+(b) an application to subscribe for or purchase units or derivatives of units in a business trust is accepted, or units or derivatives of units in a business trust are allotted, issued or sold, without a copy of a prospectus and profile statement, where applicable, in respect of the units or derivatives of units having been registered by the Authority,
+
+the trustee-manager of the business trust and every person who is knowingly a party to —
+
+(i) the issue, circulation or distribution of the prospectus or profile statement;
+
+(ii) the acceptance of the application to subscribe for or purchase the units or derivatives of units; or
+
+(iii) the allotment, issue or sale of the units or derivatives of units,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(19) Every trustee-manager of a business trust shall cause a true copy of every document referred to in subsection (14)(e) to be deposited within 7 days after registration of the prospectus at the registered office of the trustee-manager in Singapore.
+
+(20) Every trustee-manager of a business trust shall keep a true copy of every document referred to in subsection (14)(e), for a period of at least 6 months after the registration of the prospectus, to be made available for the inspection of the unitholders of the business trust without fee.
+
+(21) Regulations made under this section may provide that a contravention of specified provisions thereof shall be an offence and may provide for penalties not exceeding a fine of $50,000.
+
+[31/2004 wef 12/10/2004]
+
+### Lodging supplementary document or replacement document
+
+282D\.—(1) If, after a prospectus or profile statement is registered but before the close of the offer or invitation, the person making the offer or invitation to the public to subscribe for or purchase units or derivatives of units in a business trust becomes aware of —
+
+(a) a false or misleading statement or matter in the prospectus or profile statement;
+
+(b) an omission from the prospectus of any information that should have been included in it under section 282F, or an omission from the profile statement of any information that should have been included in it under section 282G, as the case may be; or
+
+(c) a new circumstance that —
+
+(i) has arisen since the prospectus or profile statement was lodged with the Authority; and
+
+(ii) would have been required by —
+
+(A) section 282F to be included in the prospectus; or
+
+(B) section 282G to be included in the profile statement,
+
+if it had arisen before the prospectus or the profile statement, as the case may be, was lodged,
+
+and that is materially adverse from the point of view of an investor, the person may lodge a supplementary or replacement prospectus, or a supplementary or replacement profile statement (referred to in this section as a supplementary or replacement document, as the case may be), with the Authority.
+
+(2) At the beginning of a supplementary document, there shall be —
+
+(a) a statement that it is a supplementary prospectus or a supplementary profile statement, as the case may be;
+
+(b) an identification of the prospectus or profile statement it supplements;
+
+(c) an identification of any previous supplementary document lodged with the Authority in relation to the offer or invitation; and
+
+(d) a statement that it is to be read together with the prospectus or profile statement it supplements and any previous supplementary document.
+
+(3) At the beginning of a replacement document, there shall be —
+
+(a) a statement that it is a replacement prospectus or a replacement profile statement, as the case may be; and
+
+(b) an identification of the prospectus or profile statement it replaces.
+
+(4) The supplementary document and the replacement document must be dated with the date on which they are lodged with the Authority.
+
+(5) The person who lodges a supplementary document or the trustee-manager of the business trust concerned shall take reasonable steps to inform potential investors of such lodgment and make available the supplementary document to them.
+
+(6) For the purposes of the application of this Division to events that occur after the lodgment of the supplementary document —
+
+(a) where the supplementary document is a supplementary prospectus, the prospectus shall be taken to be the original prospectus together with the supplementary prospectus and any previous supplementary prospectus; and
+
+(b) where the supplementary document is a supplementary profile statement, the profile statement shall be taken to be the original profile statement together with the supplementary profile statement and any previous supplementary profile statement.
+
+(7) The person who lodges a replacement document or the trustee-manager of the business trust concerned shall take reasonable steps to inform potential investors of such lodgment and make available the replacement document to them.
+
+(8) For the purposes of the application of this Division to events that occur after the lodgment of the replacement document —
+
+(a) where the replacement document is a replacement prospectus, the prospectus shall be taken to be the replacement prospectus; and
+
+(b) where the replacement document is a replacement profile statement, the profile statement shall be taken to be the replacement profile statement.
+
+(9) If a supplementary document or replacement document is lodged with the Authority, the offer or invitation shall be kept open for at least 14 days after the lodgment of the supplementary document or replacement document.
+
+(10) Where, prior to the lodgment of the supplementary document or replacement document, applications have been made under the original prospectus or profile statement to subscribe for units or derivatives of units in a business trust and —
+
+(a) where the units or derivatives of units in the business trust have not been issued to the applicants, the trustee-manager of the business trust shall either —
+
+(i) within 7 days from the date of lodgment of the supplementary document or replacement document, give the applicants the supplementary document or replacement document, as the case may be, and provide the applicants with an option to withdraw their applications; or
+
+(ii) treat the applications as withdrawn and cancelled, in which case the applications shall be deemed to have been withdrawn and cancelled, and the trustee-manager of the business trust shall, within 7 days from the date of lodgment of the supplementary document or replacement document, pay to the applicants all moneys the applicants have paid on account of their applications for the units or derivatives of units in the business trust; or
+
+(b) where the units or derivatives of units in the business trust have been issued to the applicants, the trustee-manager of the business trust shall either —
+
+(i) within 7 days from the date of lodgment of the supplementary document or replacement document, give the applicants the supplementary document or replacement document, as the case may be, and provide the applicants with an option to return units or derivatives of units in the business trust which they do not wish to retain; or
+
+(ii) treat the issue of the units or derivatives of units in the business trust as void, in which case the issue shall be deemed void and the trustee-manager of the business trust shall, within 7 days from the date of lodgment of the supplementary document or replacement document, pay to the applicants all moneys paid by them for the units or derivatives of units in the business trust.
+
+(11) An applicant who wishes to exercise his option under subsection (10)(a)(i) to withdraw his application shall, within 14 days from the date of lodgment of the supplementary document or replacement document, notify the trustee-manager of the business trust of this, whereupon the trustee-manager shall, within 7 days from the receipt of such notification, pay to him all moneys paid by him on account of his application for the units or derivatives of units in the business trust.
+
+(12) An applicant who wishes to exercise his option under subsection (10)(b)(i) to return units or derivatives of units in the business trust issued to him shall, within 14 days from the date of lodgment of the supplementary document or replacement document, notify the trustee-manager of the business trust of this and return all documents, if any, purporting to be evidence of title to those units or derivatives of units to the trustee-manager, whereupon the trustee-manager shall, within 7 days from the receipt of such notification and documents, if any, pay to him all moneys paid by him for the units or derivatives of units in the business trust and the issue of those units or derivatives of units shall be deemed to be void.
+
+(13) Where, prior to the lodgment of the supplementary document or replacement document, applications have been made under the original prospectus or profile statement to purchase units or derivatives of units in a business trust and —
+
+(a) where the units or derivatives of units in the business trust have not been sold to the applicants, the trustee-manager of the business trust shall either —
+
+(i) on behalf of the vendor, within 7 days from the date of lodgment of the supplementary document or replacement document, give the applicants the supplementary document or replacement document, as the case may be, and provide the applicants with an option to withdraw their applications; or
+
+(ii) treat the applications as withdrawn and cancelled, in which case the applications shall be deemed to have been withdrawn and cancelled and the trustee-manager shall, on behalf of the vendor, within 7 days from the date of lodgment of the supplementary document or replacement document, pay to the applicants all moneys the applicants have paid on account of their applications for the units or derivatives of units in the business trust; or
+
+(b) where the units or derivatives of units in the business trust have been sold to the applicants, the trustee-manager of the business trust shall either —
+
+(i) on behalf of the vendor, within 7 days from the date of lodgment of the supplementary document or replacement document, give the applicants the supplementary document or replacement document, as the case may be, and provide the applicants with an option to return units or derivatives of units in the business trust which they do not wish to retain; or
+
+(ii) treat the sale of the units or derivatives of units in the business trust as void, in which case the sale shall be deemed void and the trustee-manager of the business trust shall, on behalf of the vendor —
+
+(A) if documents purporting to evidence title had been issued to the applicants, within 7 days from the date of the lodgment of the supplementary document or replacement document, inform the applicants to return such documents to the trustee-manager within 14 days from that date; and
+
+(B) within 7 days from the date of the receipt of those documents (if applicable) or the date of the lodgment of the supplementary document or replacement document, whichever is later, pay to the applicants all moneys paid by them for the units or derivatives of units.
+
+(14) An applicant who wishes to exercise his option under subsection (13)(a)(i) to withdraw his application shall, within 14 days from the date of lodgment of the supplementary document or replacement document, notify the trustee-manager of the business trust of this whereupon the trustee-manager shall, on behalf of the vendor, within 7 days of the receipt of such notification, pay to him all moneys paid by him on account of his application for the units or derivatives of units in the business trust.
+
+(15) An applicant who wishes to exercise his option under subsection (13)(b)(i) to return units or derivatives of units in the business trust sold to him shall, within 14 days from the date of lodgment of the supplementary document or replacement document, notify the trustee-manager of the business trust of this and return all documents, if any, purporting to evidence title to those units or derivatives of units to the trustee-manager, whereupon the trustee-manager shall, on behalf of the vendor, within 7 days from the receipt of such notification and documents, if any, pay to him all moneys paid by him for the units or derivatives of units and the sale of those units or derivatives of units shall be deemed to be void.
+
+(16) The trustee-manager of a business trust which contravenes subsection (10) or (13) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+(17) Any person who contravenes any other provision of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[31/2004 wef 12/10/2004]
+
+### Stop order for prospectus and profile statement
+
+282E\.—(1) If a prospectus has been registered and —
+
+(a) the Authority is of the opinion that the prospectus contains a false or misleading statement or matter;
+
+(b) there is an omission from the prospectus of any information that is required to be included in it under section 282F;
+
+(c) the Authority is of the opinion that the prospectus does not comply with the requirements of this Act; or
+
+(d) the Authority is of the opinion that it is in the public interest to do so,
+
+the Authority may, by an order in writing (referred to in this section as a stop order) served on the person who lodged the prospectus, direct that no or no further units or derivatives of units in a business trust to which the prospectus relates be allotted, issued or sold.
+
+(2) If a profile statement has been registered and —
+
+(a) the Authority is of the opinion that the profile statement contains a false or misleading statement or matter;
+
+(b) there is an omission from the profile statement of any information that is required to be included in it under section 282G;
+
+(c) the Authority is of the opinion that the profile statement does not comply with the requirements of this Act; or
+
+(d) the Authority is of the opinion that it is in the public interest to do so,
+
+the Authority may, by an order in writing (referred to in this section as a stop order) served on the person who lodged the profile statement, direct that no or no further units or derivatives of units in a business trust to which the profile statement relates be allotted, issued or sold.
+
+(3) Notwithstanding subsections (1) and (2), the Authority shall not serve a stop order if any of the units or derivatives of units in a business trust to which the prospectus or profile statement relates have been issued or sold, and listed on a securities exchange and trading in them has commenced.
+
+(4) The Authority shall not serve a stop order under subsection (1) or (2) without giving the person who lodged the prospectus or profile statement an opportunity to be heard, except that an opportunity to be heard need not be given if the stop order is served on the ground that it is in the public interest to do so on the basis of any of the following circumstances:
+
+(a) the trustee-manager of the business trust or the business trust itself is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the trustee-manager or the trust property of the business trust.
+
+(5) Where applications to subscribe for units or derivatives of units in a business trust to which the prospectus or profile statement relates have been made prior to the stop order, and —
+
+(a) where the units or derivatives of units have not been issued to the applicants, the applications shall be deemed to have been withdrawn and cancelled and the trustee-manager of the business trust shall, within 14 days from the date of the stop order, pay to the applicants all moneys the applicants have paid on account of their applications for the units or derivatives of units; or
+
+(b) where the units or derivatives of units have been issued to the applicants, the issue of the units or derivatives of units shall be deemed to be void and the trustee-manager of the business trust shall, within 14 days from the date of the stop order, pay to the applicants all moneys paid by them for the units or derivatives of units.
+
+(6) Where applications to purchase units or derivatives of units in a business trust to which the prospectus or profile statement relates have been made prior to the stop order, and —
+
+(a) where the units or derivatives of units have not been sold to the applicants, the applications shall be deemed to have been withdrawn and cancelled and the trustee-manager of the business trust shall, on behalf of the vendor, within 14 days from the date of the stop order, pay to the applicants all moneys the applicants have paid on account of their applications for the units or derivatives of units; or
+
+(b) where the units or derivatives of units have been sold to the applicants, the sale shall be deemed to be void and the trustee-manager of the business trust shall, on behalf of the vendor —
+
+(i) if documents purporting to evidence title had been issued to the applicants, within 7 days from the date of the stop order, inform all applicants to return such documents to the trustee-manager within 14 days from that date; and
+
+(ii) within 7 days from the date of the receipt of those documents (if applicable) or the date of the stop order, whichever is later, pay to the applicants all moneys paid by them for the units or derivatives of units.
+
+(7) If the Authority is of the opinion that any delay in serving a stop order pending the holding of a hearing required under subsection (4) is not in the interests of the public, the Authority may, without giving an opportunity to be heard, serve an interim stop order on the person who lodged the prospectus or profile statement directing that no or no further units or derivatives of units in a business trust to which the prospectus or profile statement relates be allotted, issued or sold.
+
+(8) An interim stop order shall, unless revoked by the Authority, be in force —
+
+(a) in a case where —
+
+(i) it is served during a hearing under subsection (4); or
+
+(ii) a hearing under subsection (4) is commenced while it is in force,
+
+until the Authority makes an order under subsection (1) or (2); and
+
+(b) in any other case, for a period of 14 days from the day on which the interim stop order is served.
+
+(9) Subsections (5) and (6) shall not apply where only an interim stop order has been served.
+
+(10) Any person who fails to comply with a stop order served under subsection (1) or (2) or an interim stop order served under subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(11) Any person who contravenes subsection (5) or (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[31/2004 wef 12/10/2004]
+
+### Contents of prospectus
+
+282F\.—(1) A prospectus for an offer to the public of units or derivatives of units in a business trust for subscription or purchase, or for an invitation to the public to subscribe for or purchase units or derivatives of units in a business trust, shall contain —
+
+(a) all the information that investors and their professional advisers would reasonably require to make an informed assessment of the matters specified in subsection (3); and
+
+(b) the matters prescribed by the Authority.
+
+(2) The prospectus shall, with respect to subsection (1)(a), contain such information —
+
+(a) only to the extent to which it is reasonable for investors and their professional advisers to expect to find in the prospectus; and
+
+(b) only to the extent that a person whose knowledge is relevant —
+
+(i) actually knows the information; or
+
+(ii) in the circumstances ought reasonably to have obtained the information by making enquiries.
+
+(3) The matters referred to in subsection (1)(a) shall relate to —
+
+(a) the rights and liabilities attaching to the units or derivatives of units in the business trust;
+
+(b) where the person making the offer or invitation of units or derivatives of units in the business trust is the trustee-manager of the business trust or a person who controls the trustee-manager of the business trust —
+
+(i) the assets and liabilities, profits and losses, financial position and performance, and prospects of the business trust; and
+
+(ii) the assets and liabilities, profits and losses, financial position and performance of the trustee-manager of the business trust;
+
+(c) where derivatives of units in the business trust are issued by a corporation and the person making the offer or invitation is that corporation or a person who controls that corporation, the assets and liabilities, profits and losses, financial position and performance, and prospects of that corporation; and
+
+(d) in the case of options over units in the business trust, the capacity of the person making the offer or invitation to issue or deliver the relevant units in that business trust.
+
+(4) In deciding what information shall be included under subsection (1)(a), regard shall be had to —
+
+(a) the nature of the units or derivatives of units in the business trust and the nature and scope of business of the business trust;
+
+(b) the matters that likely investors may reasonably be expected to know; and
+
+(c) the fact that certain matters may reasonably be expected to be known to the professional advisers of such investors.
+
+(5) For the purposes of subsection (2), a person’s knowledge is relevant only if he is one of the following persons:
+
+(a) the person making the offer or invitation;
+
+(b) if the person making the offer or invitation is a corporation, a director of the corporation;
+
+(c) the trustee-manager of the business trust;
+
+(d) a director or proposed director of the trustee-manager;
+
+(e) a person named in the prospectus as an underwriter of the issue or sale;
+
+(f) a person named in the prospectus as a stockbroker to the issue or sale if he participates in any way in the preparation of the prospectus;
+
+(g) a person named in the prospectus with his consent as having made a statement —
+
+(i) that is included in the prospectus; or
+
+(ii) on which a statement made in the prospectus is based;
+
+(h) a person named in the prospectus with his consent as having performed a particular professional or advisory function.
+
+(6) A condition requiring or binding an applicant for units or derivatives of units in a business trust to waive compliance with any requirement of this section, or purporting to affect him with notice of any contract, document or matter not specifically referred to in the prospectus, shall be void.
+
+(7) This section does not affect any liability that a person has under any other law.
+
+(8) In subsection (3)(b), “assets and liabilities, profits and losses, financial position and performance, and prospects”, in relation to a business trust, means —
+
+(a) the assets and liabilities, profits and losses, financial position and performance of that business trust derived from the accounting records and other records kept by the trustee-manager of that business trust; and
+
+(b) the business and financial prospects reasonably anticipated with respect to the operations of the trustee-manager of the business trust in its capacity as trustee-manager of the business trust.
+
+[31/2004 wef 12/10/2004]
+
+### Contents of profile statement
+
+282G\.—(1) A profile statement for an offer to the public of units or derivatives of units in a business trust for subscription or purchase, or an invitation to the public to subscribe for or purchase units or derivatives of units in a business trust, shall contain —
+
+(a) the following particulars:
+
+(i) an identification of the business trust and the trustee-manager of the business trust, and the nature of the units or derivatives of units in respect of which the offer or invitation is made to the public;
+
+(ii) the nature of the risks involved in investing in the units or derivatives of units; and
+
+(iii) details of all amounts payable in respect of the units or derivatives of units, including any amount by way of fee, commission or charge;
+
+(b) a statement that copies of the prospectus are available for collection at the times and places specified in the profile statement; and
+
+(c) a statement that the directors of the trustee-manager of the business trust are satisfied that the profile statement contains a fair summary of the key information set out in the prospectus.
+
+(2) A profile statement shall not contain —
+
+(a) any statement or matter that is false or misleading in the form and context in which it is included;
+
+(b) any material information that is not contained in the prospectus; and
+
+(c) any material information that differs in any material particular from that set out in the prospectus.
+
+[31/2004 wef 12/10/2004]
+
+### Exemption from requirements as to form or content of prospectus or profile statement
+
+282H\.—(1) The Authority may exempt any person or any prospectus or profile statement from any requirement of this Act relating to the form or content of a prospectus or profile statement, subject to such conditions or restrictions as may be determined by the Authority.
+
+(2) The Authority shall not grant an exemption under subsection (1) unless it is of the opinion that —
+
+(a) the cost of complying with the requirement in respect of which exemption has been applied for outweighs the resulting protection to investors; or
+
+(b) it would not be prejudicial to the public interest if the requirement in respect of which the exemption has been applied for were dispensed with.
+
+(3) The Authority may exempt any class of persons or any class or description of prospectuses or profile statements, from any requirement of this Act relating to the form or content of a prospectus or profile statement, subject to such conditions or restrictions as may be determined by the Authority.
+
+(4) Any person who contravenes any of the conditions or restrictions imposed under subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[31/2004 wef 12/10/2004]
+
+### Expert’s consent to issue of prospectus containing statement by him
+
+282I\.—(1) A prospectus making an offer of, or inviting subscription for or purchase of, units or derivatives of units in a business trust and including a statement purporting to be made by an expert or to be based on a statement made by an expert shall not be issued unless —
+
+(a) the expert has given, and has not before delivery of a copy of the prospectus for registration withdrawn, his written consent to the issue thereof with the statement included in the form and context in which it is included; and
+
+(b) there appears in the prospectus a statement that the expert has given, and has not withdrawn, his consent.
+
+(2) If any prospectus is issued in contravention of subsection (1), the trustee-manager of the business trust and every person who is knowingly a party to the issue thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(3) The Authority may exempt any person or class of persons, or any prospectus or class or description of prospectuses, from this section, subject to such conditions or restrictions as may be determined by the Authority.
+
+(4) Any person who contravenes any of the conditions or restrictions imposed under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[31/2004 wef 12/10/2004]
+
+### Duration of validity of prospectus
+
+282J\.—(1) No person shall —
+
+(a) make an offer to the public of units or derivatives of units in a business trust for subscription or purchase;
+
+(b) make an invitation to the public to subscribe for or purchase units or derivatives of units in a business trust; or
+
+(c) allot, issue or sell to the public units or derivatives of units in a business trust,
+
+on the basis of a prospectus or profile statement after the expiration of 6 months from the date of registration by the Authority of the prospectus in relation to such offer, invitation, allotment, issue or sale.
+
+(2) No officer of the trustee-manager of a business trust, or promoter of the business trust, shall authorise or permit the making of —
+
+(a) an offer to the public of units or derivatives of units in the business trust for subscription or purchase;
+
+(b) an invitation to the public to subscribe for or purchase units or derivatives of units in the business trust; or
+
+(c) an allotment, issue or sale to the public of units or derivatives of units in the business trust,
+
+on the basis of a prospectus or profile statement after the expiration of 6 months from the date of registration by the Authority of the prospectus in relation to such offer, invitation, allotment, issue or sale.
+
+(3) If default is made in complying with subsection (1) or (2), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(4) Where an allotment, issue or sale of units or derivatives of units in a business trust is made on the basis of a prospectus or profile statement after the expiration of 6 months from the date of registration by the Authority of the prospectus in relation to such allotment, issue or sale, such allotment, issue or sale shall not, by reason only of that fact, be voidable or void.
+
+[31/2004 wef 12/10/2004]
+
+### Restrictions on advertisements, etc.
+
+282K\.—(1) If a prospectus is required for an offer or invitation, or intended offer or invitation, of units or derivatives of units in a business trust to the public for subscription or purchase, a person shall not —
+
+(a) advertise the offer or invitation or intended offer or invitation; or
+
+(b) publish a statement that —
+
+(i) directly or indirectly refers to the offer or invitation or intended offer or invitation; or
+
+(ii) is reasonably likely to induce persons to subscribe for or purchase the units or derivatives of units,
+
+unless the advertisement or publication is authorised by this section.
+
+(2) In determining whether a statement —
+
+(a) indirectly refers to an offer or invitation, or intended offer or invitation, of units or derivatives of units in a business trust; or
+
+(b) is reasonably likely to induce persons to subscribe for or purchase units or derivatives of units in a business trust,
+
+regard shall be had to whether the statement —
+
+(i) forms part of —
+
+(A) the normal advertising by a trustee-manager of a business trust on behalf of the business trust in respect of the products or services offered by the trustee-manager on behalf of the business trust, and is genuinely directed at maintaining existing customers, or attracting new customers, for those products or services; or
+
+(B) the normal advertising of a corporation’s products or services, and is genuinely directed at maintaining its existing customers, or attracting new customers, for those products or services;
+
+(ii) communicates information that materially deals with the affairs of the business trust; and
+
+(iii) is likely to encourage investment decisions being made on the basis of the statement rather than on the basis of information contained in a prospectus or profile statement.
+
+(3) Notwithstanding subsection (6), a person may, before a prospectus or profile statement is registered by the Authority, disseminate a preliminary document which has been lodged with the Authority to persons specified in sections 282W and 282X without contravening subsection (1) if —
+
+(a) the front page of the preliminary document contains —
+
+(i) the following statement:
+
+“
+
+This is a preliminary document and is subject to further amendments and completion in the prospectus to be registered by the Authority.
+
+”;
+
+(ii) a statement that a person to whom a copy of the preliminary document has been issued shall not circulate it to any other person; and
+
+(iii) a statement in bold lettering that no offer or invitation shall be made or received, and no agreement shall be made, on the basis of the preliminary document, to purchase or subscribe for any units or derivatives of units in the business trust to which the preliminary document relates;
+
+(b) the preliminary document does not contain or have attached to it any form of application that will facilitate the making by any person of an offer to the public of units or derivatives of units in the business trust, to which the preliminary document relates, for subscription or purchase, or an invitation to the public to subscribe for or purchase those units or derivatives of units, to which the preliminary document relates, or the acceptance of such an offer or invitation by any person; and
+
+(c) when the prospectus is registered by the Authority, the person takes reasonable steps to notify the persons to whom the preliminary document was issued that the registered prospectus is available for collection.
+
+(4) Notwithstanding subsection (6), a person does not contravene subsection (1) by presenting oral or written material, on matters contained in a preliminary document which has been lodged with the Authority, to persons specified in sections 282W and 282X before a prospectus or profile statement is registered by the Authority.
+
+(5) For the avoidance of doubt, a person may disseminate a prospectus or profile statement that has been registered by the Authority without contravening subsection (1).
+
+(6) Before a prospectus or profile statement is registered, an advertisement or publication does not contravene subsection (1) if it contains only the following:
+
+(a) a statement that identifies the person making the offer or invitation or intended offer or invitation, and the units or derivatives of units in the business trust;
+
+(b) a statement that a prospectus or profile statement for the offer or invitation will be made available when the offer or invitation is made;
+
+(c) a statement that anyone wishing to acquire the units or derivatives of units in the business trust will need to make an application in the manner set out in the prospectus or profile statement; and
+
+(d) a statement of how to arrange to receive a copy of the prospectus or profile statement.
+
+(7) To satisfy subsection (6), the advertisement or publication shall include all of the statements referred to in paragraphs (a), (b) and (c) of that subsection, and may include the statement referred to in paragraph (d).
+
+(8) After a prospectus or profile statement is registered with the Authority, an advertisement or publication does not contravene subsection (1) if it includes —
+
+(a) a statement that a prospectus or profile statement in respect of the offer or invitation is available for collection at the times and places specified in the statement; and
+
+(b) a statement that anyone wishing to acquire the units or derivatives of units in the business trust will need to make an application in the manner set out in the prospectus or profile statement.
+
+(9) An advertisement or publication does not contravene subsection (1) if it —
+
+(a) consists solely of a notice or report to a securities exchange or futures exchange by the trustee-manager of a business trust or one of its officers, about the affairs of that business trust;
+
+(b) consists solely of a notice or report of a general meeting of the unitholders of a business trust;
+
+(c) consists solely of a report about a business trust and —
+
+(i) does not contain information that materially affects the affairs of the business trust other than information previously made available in a prospectus that has been registered by the Authority, an annual report or a report referred to in paragraph (a) or (b); and
+
+(ii) does not refer (directly or indirectly) to the offer or invitation;
+
+(d) is a news report or a genuine comment, in a newspaper, periodical or magazine or on radio or television, or any other means of broadcasting or communication, relating to —
+
+(i) a prospectus or profile statement that has been lodged with the Authority or information contained in such a prospectus or profile statement; or
+
+(ii) a notice or report referred to in paragraph (a), (b) or (c); or
+
+(e) is a report about the units or derivatives of units in a business trust published by someone who is not —
+
+(i) the trustee-manager of the business trust;
+
+(ii) a director of the trustee-manager of the business trust;
+
+(iii) a person who has an interest in the success of the issue or sale of the units or derivatives of units in the business trust; or
+
+(iv) acting at the instigation of, or by arrangement with, any person referred to in sub-paragraph (i), (ii) or (iii).
+
+(10) A person does not contravene subsection (1) if —
+
+(a) he publishes any advertisement or publication in the ordinary course of a business of —
+
+(i) publishing a newspaper, periodical or magazine; or
+
+(ii) broadcasting by radio, television, or any other means of broadcasting or communication; and
+
+(b) he did not know and had no reason to suspect that its publication would constitute a contravention of subsection (1).
+
+(11) Subsection (9)(d) and (e) shall not apply to an advertisement or statement if any person gives consideration or any other benefit for the publication of the advertisement or statement.
+
+(12) Any person who contravenes subsection (1) and, in the case of a corporation, every officer or other person, who knowingly authorised or permitted the publication or dissemination, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(13) This section does not affect any liability that a person has under any other law.
+
+(14) The Authority may exempt any person or class of persons from this section, subject to such conditions or restrictions as may be determined by the Authority.
+
+(15) Any person who contravenes any of the conditions or restrictions imposed under subsection (14) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[31/2004 wef 12/10/2004]
+
+### Persons liable on prospectus or profile statement to inform person making offer or invitation about certain deficiencies
+
+282L\.—(1) A person referred to in section 282N(3) (other than paragraph (a)) shall notify in writing the person making the offer of units or derivatives of units in a business trust, for subscription or purchase, or the invitation to subscribe for or purchase units or derivatives of units in a business trust, as soon as practicable, if he becomes aware at any time after the prospectus or profile statement is registered by the Authority but before the close of the offer or invitation that —
+
+(a) a statement or matter in the prospectus or the profile statement is false or misleading;
+
+(b) there is an omission to state any information required to be included in the prospectus under section 282F or there is an omission to state any information required to be included in the profile statement under section 282G, as the case may be; or
+
+(c) a new circumstance —
+
+(i) has arisen since the prospectus or the profile statement was lodged with the Authority; and
+
+(ii) would have been required to be included in the prospectus under section 282F, or required to be included in the profile statement under section 282G, as the case may be, if it had arisen before the prospectus or the profile statement was lodged with the Authority,
+
+and the failure to so notify would have been materially adverse from the point of view of an investor.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[31/2004 wef 12/10/2004]
+
+### Criminal liability for false or misleading statements
+
+282M\.—(1) Where an offer to the public of units or derivatives of units in a business trust for subscription or purchase, or an invitation to the public to subscribe for or purchase units or derivatives of units in a business trust is made in or is accompanied by a prospectus or profile statement and —
+
+(a) a false or misleading statement or matter is contained in —
+
+(i) the prospectus or the profile statement; or
+
+(ii) any application form for the units or derivatives of units;
+
+(b) there is an omission to state any information required to be included in the prospectus under section 282F or there is an omission to state any information required to be included in the profile statement under section 282G, as the case may be; or
+
+(c) there is an omission to state a new circumstance that —
+
+(i) has arisen since the prospectus or the profile statement was lodged with the Authority; and
+
+(ii) would have been required to be included in the prospectus under section 282F, or required to be included in the profile statement under section 282G, as the case may be, if it had arisen before the prospectus or the profile statement was lodged with the Authority,
+
+the persons referred to in subsection (4) shall be guilty of an offence even if such persons, unless otherwise specified, were not involved in the making of the false or misleading statement or the omission, and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(2) For the purposes of subsection (1), a false or misleading statement about a future matter (including the doing of, or the refusal to do, an act) is taken to have been made if a person made the statement without having reasonable grounds for making the statement.
+
+(3) A person shall not be taken to have contravened subsection (1) if the false or misleading statement, or the omission to state any information or new circumstance, is not materially adverse from the point of view of the investor.
+
+(4) The persons guilty of the offence are —
+
+(a) the person making the offer or invitation;
+
+(b) if the offer or invitation is made by a corporation, each director of the corporation;
+
+(c) if the offer or invitation is made by a corporation, a person named in the prospectus or the profile statement, with his consent, as a proposed director of the corporation;
+
+(d) an underwriter (but not a sub-underwriter) to the issue or sale of the units or derivatives of units in the business trust, named in the prospectus or the profile statement with his consent;
+
+(e) a person named in the prospectus or the profile statement with his consent as having made a statement —
+
+(i) that is included in the prospectus or the profile statement; or
+
+(ii) on which a statement made in the prospectus or the profile statement is based,
+
+but only in respect of the inclusion of the statement; and
+
+(f) any other person who made the false or misleading statement, or omitted to state the information or circumstance, as the case may be, but only in respect of the inclusion of the statement or the omission to state the information or circumstance, as the case may be.
+
+(5) Where a prospectus relating to any units or derivatives of units in a business trust is issued and the prospectus omits to state any matter required to be stated as prescribed by the Authority, each director of the trustee-manager of the business trust and any other person responsible for the prospectus shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+[31/2004 wef 12/10/2004]
+
+### Civil liability for false or misleading statements
+
+282N\.—(1) Where an offer to the public of units or derivatives of units in a business trust for subscription or purchase, or an invitation to the public to subscribe for or purchase units or derivatives of units in a business trust is made in or accompanied by a prospectus or profile statement and —
+
+(a) a false or misleading statement or matter is contained in —
+
+(i) the prospectus or the profile statement; or
+
+(ii) any application form for the units or derivatives of units;
+
+(b) there is an omission to state any information required to be included in the prospectus under section 282F or there is an omission to state any information required to be included in the profile statement under section 282G, as the case may be; or
+
+(c) there is an omission to state a new circumstance that —
+
+(i) has arisen since the prospectus or the profile statement was lodged with the Authority; and
+
+(ii) would have been required by section 282F to be included in the prospectus, or required by section 282G to be included in the profile statement, as the case may be, if it had arisen before the prospectus or the profile statement was lodged with the Authority,
+
+the persons referred to in subsection (3) shall be liable to compensate any person who suffers loss or damage as a result of the false or misleading statement in or omission from the prospectus or the profile statement, even if such persons, unless otherwise specified, were not involved in the making of the false or misleading statement or the omission.
+
+(2) For the purposes of subsection (1), a false or misleading statement about a future matter (including the doing of, or the refusal to do, an act) is taken to have been made if a person makes the statement without having reasonable grounds for making the statement.
+
+(3) The persons liable are —
+
+(a) the person making the offer or invitation;
+
+(b) if the offer or invitation is made by a corporation, each director of the corporation;
+
+(c) if the offer or invitation is made by a corporation, a person named in the prospectus or the profile statement with his consent as a proposed director of the corporation;
+
+(d) an underwriter (but not a sub-underwriter) to the issue or sale of the units or derivatives of units in the business trust, named in the prospectus or the profile statement with his consent;
+
+(e) a person named in the prospectus or the profile statement with his consent as having made a statement —
+
+(i) that is included in the prospectus or the profile statement; or
+
+(ii) on which a statement made in the prospectus or the profile statement is based,
+
+but only in respect of the inclusion of that statement; and
+
+(f) any other person who made the false or misleading statement or omitted to state the information or circumstance, as the case may be, but only in respect of the inclusion of the statement or the omission to state the information or circumstance.
+
+(4) A person who acquires units or derivatives of units in a business trust as a result of an offer or invitation that was made in or accompanied by a profile statement is taken to have acquired the units or derivatives of units in a business trust in reliance on both the profile statement and the prospectus for the offer or invitation.
+
+(5) No action under subsection (1) shall be commenced after the expiration of 6 years from the date on which the cause of action arose.
+
+(6) This section shall not affect any liability that a person has under any other law.
+
+[31/2004 wef 12/10/2004]
+
+### Defences
+
+282O\.—(1) A person is not liable under section 282M(1) or 282N(1) only because of a false or misleading statement or matter in a prospectus or a profile statement if the person proves that he —
+
+(a) made all inquiries (if any) that were reasonable in the circumstances; and
+
+(b) after doing so, believed on reasonable grounds that the statement was not false or misleading.
+
+(2) A person is not liable under section 282M(1) or 282N(1) only because of an omission from a prospectus or a profile statement in relation to a particular matter if the person proves that he —
+
+(a) made all inquiries (if any) that were reasonable in the circumstances; and
+
+(b) after doing so, believed on reasonable grounds that there was no omission from the prospectus or profile statement in relation to that matter.
+
+(3) A person is not liable under section 282M(1) or 282N(1) only because of a false or misleading statement in, or an omission from, a prospectus or a profile statement if the person proves that he placed reasonable reliance on information given to him by —
+
+(a) if the person is a corporation, someone other than a director, employee or agent of the corporation; or
+
+(b) if the person is an individual, someone other than an employee or agent of the individual.
+
+(4) For the purposes of subsection (3), a person is not the agent of a corporation or individual merely because he performs a particular professional or advisory function for the corporation or individual.
+
+(5) A person who is named in a prospectus or a profile statement as —
+
+(a) a proposed director or underwriter;
+
+(b) having made a statement included in the prospectus or the profile statement; or
+
+(c) having made a statement on the basis of which a statement is included in the prospectus or the profile statement,
+
+is not liable under section 282M(1) or 282N(1) only because of a false or misleading statement in, or an omission from, the prospectus or the profile statement if the person proves that he publicly withdrew his consent to being named in the prospectus or the profile statement in that way.
+
+(6) A person is not liable under section 282M(1) or 282N(1) only because of a new circumstance that has arisen since the prospectus or the profile statement was lodged with the Authority if the person proves that he was not aware of the matter.
+
+[31/2004 wef 12/10/2004]
+
+### Offer information statement for renounceable rights issues
+
+282P\.—(1) An offer of units or derivatives of units in a business trust for subscription or purchase, or an invitation to subscribe for or purchase units or derivatives of units in a business trust, shall be deemed to be an offer to the public if —
+
+(a) it is an offer or invitation by means of a rights issue which is renounceable in favour of persons other than existing unitholders of that business trust; and
+
+(b) an application has been or will be made for permission for the units or derivatives of units in the business trust to be listed for quotation on any securities exchange.
+
+(2) Where subsection (1) applies to any offer or invitation, an offer information statement which complies with such form and content as may be prescribed by the Authority shall be lodged with the Authority.
+
+(3) Notwithstanding anything in section 282C, that section (other than subsection (1)(a)) need not be complied with in relation to an offer or invitation to which subsection (1) applies if subsection (2) has been complied with.
+
+(4) The Authority may, on the application of the trustee-manager of a business trust affected by this section, modify the prescribed form and content of the offer information statement in such manner as is appropriate, subject to such conditions or restrictions as may be determined by the Authority.
+
+(5) Sections 282I, 282J, 282M, 282N and 282O shall, with the necessary modifications, apply in relation to an offer information statement referred to in subsection (2) as they apply in relation to a prospectus.
+
+(6) For the purposes of subsection (5) —
+
+(a) a reference in section 282I to the delivery of a copy of the prospectus for registration shall be read as a reference to the delivery of a copy of the offer information statement for lodgment;
+
+(b) a reference in section 282J to the date of registration of a prospectus shall be read as a reference to the date of lodgment of the offer information statement; and
+
+(c) a reference in section 282M or 282N to any information or new circumstance required to be included in a prospectus under section 282F shall be read as a reference to any information prescribed under subsection (2).
+
+(7) Where the written consent of an expert to the issue of an offer information statement is required to be given under section 282I (as applied in relation to that statement under subsection (5)), that written consent shall be lodged with the Authority at the same time as the lodgment of the statement.
+
+[31/2004 wef 12/10/2004]
+
+### Document containing offer of units for sale deemed prospectus
+
+282Q\.—(1) Subsection (2) applies where units or derivatives of units in a business trust are allotted, or where there is an agreement to allot units or derivatives of units in the business trust, with a view to all or any of them being offered for sale to the public.
+
+(2) Any document by which the offer for sale to the public is made shall for all purposes be deemed to be a prospectus issued by the trustee-manager of a business trust in connection with the business trust and all written laws and rules of law as to the contents of prospectuses and to liability in respect of statements and non-disclosure in prospectuses, or otherwise relating to prospectuses, shall apply and have effect accordingly as if —
+
+(a) the units or derivatives of units in the business trust had been offered to the public; and
+
+(b) persons accepting the offer in respect of any units or derivatives of units in the business trust were subscribers therefor,
+
+but without prejudice to the liability, if any, of the persons by whom the offer is made, in respect of statements or non-disclosures in the document or otherwise.
+
+(3) For the purposes of this Act, it shall, unless the contrary is proved, be sufficient evidence that an allotment of, or an agreement to allot, units or derivatives of units in a business trust was made with a view to the units or derivatives of units being offered for sale to the public if it is shown —
+
+(a) that an offer of the units or derivatives of units or of any of them for sale to the public was made within 6 months after the allotment or agreement to allot; or
+
+(b) that at the date when the offer was made the whole consideration to be received by the trustee-manager of the business trust in respect of the units or derivatives of units had not been so received.
+
+(4) The requirements of this Division as to prospectuses shall have effect as though the persons making an offer to which this section relates were persons named in a prospectus as directors of the trustee-manager of the business trust.
+
+(5) In addition to complying with the other requirements of this Division, the document making the offer shall state —
+
+(a) the net amount of the consideration received or to be received in respect of the units or derivatives of units in the business trust to which the offer relates; and
+
+(b) the place and time at which a copy of the contract under which the units or derivatives of units in the business trust have been or are to be allotted may be inspected.
+
+(6) Where an offer to which this section relates is made by a corporation or a firm, it shall be sufficient if the document referred to in subsection (2) is signed on behalf of the corporation or firm by 2 directors of the corporation or not less than half of the members of the firm, as the case may be, and any such director or member may sign by his agent authorised in writing.
+
+[31/2004 wef 12/10/2004]
+
+### Application and moneys to be held by trustee-manager of business trust in trust in separate bank account until allotment
+
+282R\.—(1) All application and other moneys paid prior to allotment by any applicant on account of units or derivatives of units in a business trust offered to the public shall, until the allotment of the units or derivatives of units in the business trust, be held by the trustee-manager of the business trust upon trust for the applicant in a separate bank account, being a bank account that is established and kept by the trustee-manager solely for the purpose of depositing the application and other moneys that are paid by applicants for those units or derivatives of units.
+
+(2) There shall be no obligation or duty on any bank with whom any moneys have been deposited under subsection (1) to enquire into or see to the proper application of those moneys so long as the bank acts in good faith.
+
+(3) If default is made in complying with this section, every officer of the trustee-manager of the business trust in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[31/2004 wef 12/10/2004]
+
+### Allotment of units or derivatives of units where prospectus indicates application to list on securities exchange
+
+282S\.—(1) Where a prospectus states or implies that application has been or will be made for permission for the units or derivatives of units in a business trust offered thereby to be listed for quotation on the official list of any securities exchange, and —
+
+(a) the permission is not applied for in the form required by the securities exchange within 3 days from the date of the issue of the prospectus; or
+
+(b) the permission is not granted before the expiration of 6 weeks from the date of the issue of the prospectus or such longer period not exceeding 12 weeks from the date of the issue as is, within those 6 weeks, notified to the applicant by or on behalf of the securities exchange,
+
+then —
+
+(i) any allotment whenever made of units or derivatives of units made on an application in pursuance of the prospectus shall, subject to subsection (3), be void; and
+
+(ii) any person who continues to allot such units or derivatives of units after the period specified in paragraph (a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(2) Where the permission has not been applied for, or has not been granted as mentioned under subsection (1), the trustee-manager of the business trust shall, subject to subsection (3), immediately repay without interest all moneys received from applicants in pursuance of the prospectus, and if any such moneys are not repaid within 14 days after the trustee-manager so becomes liable to repay them, then, in addition to the liability of the trustee-manager, the directors of the trustee-manager shall be jointly and severally liable to repay those moneys with interest at the rate of 10% per annum from the expiration of such 14 days.
+
+(3) Where in relation to any units or derivatives of units in a business trust —
+
+(a) permission is not applied for as specified in subsection (1)(a); or
+
+(b) permission is not granted as specified in subsection (1)(b),
+
+the Authority may, on the application of the trustee-manager of the business trust made before any unit or derivative of a unit is purported to be allotted, exempt the allotment of the units or derivatives of units from the provisions of this section and the Authority shall give notice of such exemption in theGazette.
+
+(4) A director of the trustee-manager of a business trust shall not be liable under subsection (2) if he proves that the default in the repayment of the moneys was not due to any misconduct or negligence on his part.
+
+(5) Any condition requiring or binding any applicant for units or derivatives of units in a business trust to waive compliance with any requirement of this section, or purporting to do so, shall be void.
+
+(6) Without limiting the application of any of its provisions, this section shall have effect —
+
+(a) in relation to any units or derivatives of units in a business trust agreed to be taken by a person underwriting an offer thereof contained in a prospectus as if he had applied therefor in pursuance of the prospectus; and
+
+(b) in relation to a prospectus offering units or derivatives of units in a business trust for sale as if —
+
+(i) a reference to sale were substituted for a reference to allotment;
+
+(ii) the persons by whom the offer is made, and not the trustee-manager of the business trust, were liable under subsection (2) to repay the moneys received from applicants, and references to the liability of the trustee-manager of the business trust under that subsection were construed accordingly; and
+
+(iii) for the reference in subsection (8) to the trustee-manager of a business trust and every officer of the trustee-manager who is in default there were substituted a reference to any person by or through whom the offer is made and who knowingly and wilfully authorises or permits the default.
+
+(7) All moneys received from applicants in pursuance of the prospectus shall be kept in a separate bank account so long as the trustee-manager of a business trust may become liable to repay them under subsection (2).
+
+(8) If default is made in complying with subsection (7), the trustee-manager of the business trust and every officer of the trustee-manager who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) Where the securities exchange has within the time specified in subsection (1)(b) granted permission subject to compliance with any requirements specified by the securities exchange, permission shall be deemed to have been granted by the securities exchange if the directors of the trustee-manager of the business trust have given to the securities exchange an undertaking in writing to comply with the requirements of the securities exchange.
+
+(10) If any such undertaking referred to in subsection (9) is not complied with, each director who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(11) A person shall not issue a prospectus inviting persons to subscribe for units or derivatives of units in a business trust if it includes —
+
+(a) a false or misleading statement that permission has been granted for those units or derivatives of units to be listed for quotation on the official list of, dealt in or quoted on, any securities exchange; or
+
+(b) any statement in any way referring to any such permission or to any application or intended application for any such permission, or to listing for quotation on the official list of, dealing in or quoting the units or derivatives of units on, any securities exchange, or to any requirement of a securities exchange, unless that statement is or is to the effect that permission has been granted or that application has been or will be made to the securities exchange within 3 days from the date of the issue of the prospectus or the statement has been approved by the Authority for inclusion in the prospectus.
+
+(12) Any person who contravenes subsection (11) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(13) Where a prospectus contains a statement to the effect that the trust deed of a business trust complies or has been drawn so as to comply with the requirements of any securities exchange, the prospectus shall, unless the contrary intention appears from the prospectus, be deemed for the purposes of this section to imply that application has been, or will be, made for permission for the units or derivatives of units in the business trust, to which the prospectus relates to be listed for quotation on the official list of the securities exchange.
+
+[31/2004 wef 12/10/2004]
+
+### Prohibition of allotment unless minimum subscription received
+
+282T\.—(1) No allotment shall be made of any units or derivatives of units in a business trust offered to the public unless —
+
+(a) the minimum subscription has been subscribed; and
+
+(b) the sum payable on application for the units or derivatives of units so subscribed has been received by the trustee-manager of the business trust,
+
+but if a cheque for the sum payable has been received by the trustee-manager, the sum shall be deemed not to have been received by the trustee-manager until the cheque is paid by the bank on which it is drawn.
+
+(2) The minimum subscription shall —
+
+(a) be calculated based on the price of each unit or derivative of a unit to be offered, as stated in the prospectus for the offer; and
+
+(b) be reckoned exclusively of any amount payable otherwise than in cash.
+
+(3) If the conditions referred to in subsection (1)(a) and (b) have not been satisfied on the expiration of 4 months after the first issue of the prospectus, all moneys received from applicants for the units or derivatives of units shall be immediately repaid to them without interest.
+
+(4) If any money referred to in subsection (3) is not repaid within 5 months after the issue of the prospectus, the directors of the trustee-manager of the business trust shall be jointly and severally liable to repay that money with interest at the rate of 10% per annum from the expiration of the period of 5 months; but a director shall not be so liable if he proves that the default in the repayment of the money was not due to any misconduct or negligence on his part.
+
+(5) An allotment made of any units or derivatives of units in a business trust to an applicant in contravention of this section shall be voidable at the option of the applicant, whose option may be exercised by written notice served on the trustee-manager of the business trust within one month after the date of the allotment and not later, and the allotment shall be so voidable notwithstanding that the business trust is in the course of being wound up.
+
+(6) The trustee-manager of a business trust which contravenes any of the provisions of this section, and every director of a trustee-manager who knowingly contravenes or permits or authorises the contravention of any of the provisions of this section, shall be guilty of an offence and shall be liable in addition to the penalty or punishment for the offence to pay into the trust property of the business trust and compensate the allottee respectively for any loss, damages or costs which the business trust (represented by any diminishment in value to the trust property) or the allottee has sustained or incurred thereby.
+
+(7) No proceedings for the recovery of any compensation under subsection (6) shall be commenced after the expiration of 2 years from the date of the allotment.
+
+(8) Any condition requiring or binding any applicant for units or derivatives of units in a business trust to waive compliance with any requirement of this section shall be void.
+
+[31/2004 wef 12/10/2004]
+
+Subdivision (3) —
+
+Exemptions
+
+### Interpretation of this Subdivision
+
+282U\. In this Subdivision —
+
+(a) a reference to a recognised securities exchange is a reference to a corporation declared by the Authority, by order in theGazette, as a recognised securities exchange;
+
+(b) a reference to an offer in respect of units or derivatives of units in a business trust is a reference to an offer to the public in Singapore of units or derivatives of units in a business trust for subscription or purchase; and
+
+(c) a reference to an invitation in respect of units or derivatives of units in a business trust is a reference to an invitation to the public in Singapore to subscribe for or purchase units or derivatives of units in a business trust.
+
+[31/2004 wef 12/10/2004]
+
+### Offer or invitation made under certain circumstances
+
+282V\.—(1) Subdivision (2) of this Division (other than subsection (1)(a) of section 282C) shall not apply to an offer or invitation in respect of units or derivatives of units in a business trust if —
+
+(a) it is made in connection with a take-over offer which is in compliance with the Take-over Code;
+
+(b) it is made in connection with an offer for the acquisition by or on behalf of a person of some or all of the shares in a corporation or some or all of the shares of a particular class in a corporation —
+
+(i) to all members of the corporation or all members of the corporation holding shares of that class; or
+
+(ii) where the person already holds shares in the corporation, to all other members of the corporation or all other members of the corporation holding shares of that class,
+
+where such offer complies with the Take-over Code as though the Take-over Code were applicable to it;
+
+(c) it is made in connection with a proposed compromise or arrangement between —
+
+(i) a corporation and its creditors or a class of them; or
+
+(ii) a corporation and its members or a class of them,
+
+where such proposed compromise or arrangement and the execution thereof complies with the Take-over Code as though the Take-over Code were applicable to it;
+
+(d) it is an offer or invitation in respect of units in a business trust that have been previously issued and are listed for quotation or quoted on a securities exchange; or
+
+(e) it is an offer or invitation in respect of derivatives of units in a business trust where —
+
+(i) the derivatives of units have been previously issued and are listed for quotation or quoted on a securities exchange; or
+
+(ii) an application has been or will be made for permission for the derivatives of units to be listed for quotation or quoted on a securities exchange and the units have been previously issued and are listed for quotation on a securities exchange or a recognised securities exchange.
+
+(2) Subdivision (2) of this Division shall not apply to an offer or invitation in respect of units or derivatives of units in a business trust if —
+
+(a) it is made in connection with an offer for the acquisition by or on behalf of a person of some or all of the shares in a corporation or some or all of the shares of a particular class in a corporation —
+
+(i) to all members of the corporation or all members of the corporation holding shares of that class; or
+
+(ii) where the person already holds shares in the corporation, to all other members of the corporation or all other members of the corporation holding shares of that class,
+
+where such offer is in compliance with the laws, codes and other requirements (whether or not having the force of law) relating to take-overs of the country in which the corporation was incorporated;
+
+(b) it is made in connection with a proposed compromise or arrangement between —
+
+(i) a corporation and its creditors or a class of them; or
+
+(ii) a corporation and its members or a class of them,
+
+and such proposed compromise or arrangement and the execution thereof is in compliance with the laws, codes and other requirements (whether or not having the force of law) relating to take-overs, compromises and arrangements of the country in which the corporation was incorporated; or
+
+(c) it is an offer or invitation in respect of units or derivatives of units in a business trust made (whether or not in relation to units or derivatives of units that have been previously issued) to a qualifying person, where the units or derivatives of units are to be held by or for the benefit of the qualifying person in accordance with an investment scheme for the time being in force.
+
+(3) Subsection (2)(c) shall only apply if no selling or promotional expenses are paid or incurred in connection with the investment scheme, other than those incurred for administrative or professional services or incurred by way of commission or fee for services rendered by the holder of a capital markets services licence to deal in securities or an exempt person in respect of dealing in securities.
+
+(4) For the avoidance of doubt, nothing in subsection (2)(c) shall be construed as making an offer or invitation to a qualifying person in respect of any units or derivatives of units in a business trust an offer or invitation to the public by reason only that such offer or invitation is made to the qualifying person.
+
+(5) For the purposes of subsections (2)(c) and (4), a person is a qualifying person if he is a bona fide director, former director, consultant, adviser, employee or former employee, where applicable, of the trustee-manager of the business trust or a related corporation of that trustee-manager, or if he is the spouse, widow, widower or a child, adopted child or step-child below the age of 18, of such director, former director, employee or former employee.
+
+(6) Where, on the application of any person interested, the Authority declares that circumstances exist whereby —
+
+(a) the cost of providing a prospectus for an offer or invitation in respect of units or derivatives of units in a business trust outweighs the resulting protection to investors; or
+
+(b) it would not be prejudicial to the public interest if a prospectus were dispensed with for an offer or invitation in respect of units or derivatives of units in a business trust,
+
+Subdivision (2) of this Division shall not apply to a person making such an offer or invitation to the public for a period of 6 months from the date of the declaration.
+
+(7) The Authority may, on making a declaration under subsection (6), impose such conditions or restrictions on the offer or invitation as it may determine.
+
+(8) A declaration made under subsection (6) shall be final.
+
+(9) Any person who contravenes any of the conditions or restrictions specified in the declaration made under subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(10) In this section, “corporation” —
+
+(a) in subsection (1)(b) and (c), does not include a company; and
+
+(b) in subsection (2)(a) and (b), does not include —
+
+(i) a company; or
+
+(ii) a corporation whose shares or debentures, or units of shares or debentures, are listed for quotation on a securities exchange.
+
+[31/2004 wef 12/10/2004]
+
+### Offer or invitation made to certain institutions or persons
+
+282W\. Subdivision (2) of this Division shall not apply to an offer or invitation in respect of units or derivatives of units in a business trust, whether or not they have been previously issued, made to —
+
+(a) a bank that is licensed under the Banking Act (Cap. 19);
+
+(b) a merchant bank that is approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
+
+(c) a finance company licensed under the Finance Companies Act (Cap. 108);
+
+(d) a company or society registered under the Insurance Act (Cap. 142) as an insurer;
+
+(e) a company registered under the Trust Companies Act (Cap. 336);
+
+(f) the Government or a statutory body;
+
+(g) a pension fund or collective investment scheme;
+
+(h) the holder of a capital markets services licence for —
+
+(i) dealing in securities;
+
+(ii) fund management;
+
+(iii) providing custodial services for securities;
+
+(iv) securities financing; or
+
+(v) trading in futures contracts;
+
+(i) a person who carries on the business of dealing in bonds with —
+
+(i) accredited investors; or
+
+(ii) persons whose business involves the acquisition and the disposal or holding of securities (whether as principal or agent); or
+
+(j) any other person who has been declared by the Authority as an exempt purchaser or is within a class of persons declared by the Authority as exempt purchasers.
+
+[31/2004 wef 12/10/2004]
+
+### Offer or invitation made to sophisticated investors
+
+282X\.—(1) Subdivision (2) of this Division shall not apply to an offer or invitation in respect of units or derivatives of units in a business trust, whether or not they have been previously issued, where the offer or invitation is made to a sophisticated investor, if —
+
+(a) the offer or invitation is not accompanied by an advertisement making an offer or invitation or calling attention to the offer or invitation, or intended offer or invitation; and
+
+(b) no selling or promotional expenses are paid or incurred in connection with the offer or invitation other than those incurred for administrative or professional services or incurred by way of commission or fee for services rendered by the holder of a capital markets services licence to deal in securities or an exempt person in respect of dealing in securities.
+
+(2) In this section —
+
+“advertisement” means —
+
+(a) a written or printed communication;
+
+(b) a communication by radio, television or other medium of communication; or
+
+(c) a communication by means of a recorded telephone message,
+
+that is published in connection with an offer or invitation in respect of units or derivatives of units in a business trust, but does not include —
+
+(i) an information memorandum; or
+
+(ii) an announcement made by the trustee or trustee-manager of a business trust (whether or not the business trust is a registered business trust), the units or derivatives of units of which are listed on a securities exchange or a recognised securities exchange pursuant to any requirement of that securities exchange;
+
+“information memorandum” means a document —
+
+(a) purporting to describe the business and affairs of either or both —
+
+(i) a business trust, the units or derivatives of units of which are the subject of the offer or invitation; and
+
+(ii) the person making the offer or invitation; and
+
+(b) purporting to have been prepared for delivery to and review by sophisticated investors so as to assist them in making an investment decision in respect of the units or derivatives of units in the business trust which are the subject of the offer or invitation;
+
+“sophisticated investor” means —
+
+(a) a person who acquires units or derivatives of units in a business trust pursuant to the offer or invitation in question, as principal if the aggregate consideration for the acquisition is not less than $200,000 (or its equivalent in a foreign currency) for each transaction whether such amount is paid for in cash, by exchange of shares or other assets;
+
+(b) a person who acquires units or derivatives of units in a business trust pursuant to the offer or invitation in question as principal and —
+
+(i) whose total net personal assets exceed $2 million (or its equivalent in a foreign currency) or whose income in the preceding 12 months is not less than $300,000 (or its equivalent in a foreign currency) at the time of the acquisition; or
+
+(ii) in the case of a corporation, whose total net assets exceed $10 million in value (or its equivalent in a foreign currency) as determined by the last audited balance-sheet of the corporation, or (if the corporation is not required to prepare audited accounts) a balance-sheet of the corporation certified by the corporation as giving a true and fair view of the state of affairs of the corporation as of the date of the balance-sheet, which is a date that is no earlier than 12 months before the date on which the offer or invitation is made to the corporation; or
+
+(c) an officer of the person making the offer or invitation or a spouse, parent, brother, sister, son or daughter of that officer or of the person making the offer or invitation, if he is an individual.
+
+(3) Notwithstanding any requirement in section 99 or any regulations made thereunder that a person has to deal in securities for his own account with or through a person prescribed by the Authority so that he can qualify as an exempt person, a person who acquires units or derivatives of units in a business trust under section 282W or this section for his own account shall be considered an exempt person even though he does not comply with that requirement.
+
+(4) The Authority may, by order published in theGazette, specify an amount in substitution of any amount specified in paragraph (a) or (b) in the definition of “sophisticated investor” in subsection (2).
+
+[31/2004 wef 12/10/2004]
+
+### Circumstances in which prospectus is not required on first sale of units acquired under exemptions in section 282W or 282X
+
+282Y\.—(1) Where units or derivatives of units in a business trust initially acquired under an exemption in section 282W or 282X are first sold to any of the persons specified in either of those sections —
+
+(a) the offer for sale of, or invitation to purchase, those units or derivatives of units made to any of those persons shall not be regarded as an offer or invitation to the public in respect of units or derivatives of units in a business trust; and
+
+(b) any subsequent offer for sale of, or invitation to purchase, those units or derivatives of units made to any of those persons shall not be regarded as an offer or invitation to the public in respect of units or derivatives of units in a business trust.
+
+(2) Where units or derivatives of units in a business trust initially acquired pursuant to an exemption in section 282W or 282X are first sold to any person other than those specified in either of those sections, the offer for sale of, or invitation to purchase, those units or derivatives of units made to that person shall be regarded as an offer or invitation to the public in respect of units or derivatives of units in a business trust, except in a case referred to in subsection (3).
+
+(3) Subsection (2) shall not apply if —
+
+(a) the units or derivatives of units to which the offer or invitation relates are units or derivatives of units in a registered business trust; and
+
+(b) at least 6 months have elapsed from the date the units or derivatives of units in the registered business trust to which the offer or invitation relates were initially acquired pursuant to the exemption under section 282W or 282X.
+
+(4) In a case referred to in subsection (3), any subsequent offer to sell to any person, or invitation to any person to purchase, the units or derivatives of units in the registered business trust after the expiration of the 6-month period shall not require a prospectus, provided that the units or derivatives of units in the registered business trust are listed for quotation or quoted on a securities exchange or recognised securities exchange.
+
+(5) For the avoidance of doubt, subsections (2) and (3) shall continue to apply to any offer or invitation referred to in subsection (4) if the units or derivatives of units in the registered business trust are not listed for quotation or quoted on a securities exchange or recognised securities exchange.
+
+[31/2004 wef 12/10/2004]
+
+### Securities exchange offer or invitation
+
+282Z\.—(1) Where —
+
+(a) an offer or invitation to the public is in respect of units or derivatives of units in a business trust which have not been previously issued and are, or are to be, uniform in all respects with units or derivatives of units in the business trust previously issued and listed for quotation on a securities exchange; and
+
+(b) an offer information statement which complies with such form and content as may be prescribed by the Authority is lodged with the Authority and the securities exchange,
+
+Subdivision (2) of this Division (other than subsection (1)(a) of section 282C) shall not apply to the offer or invitation for a period of 6 months from the date of lodgment of the offer information statement.
+
+(2) The Authority may, on the application of any person interested, modify the prescribed form and content of the offer information statement in such manner as is appropriate, subject to such conditions or restrictions as may be determined by the Authority.
+
+(3) For the purposes of this section —
+
+(a) units shall be deemed to be uniform in all respects with units previously issued notwithstanding that they do not carry the same rights to distributions of profits, income or other payments or returns from the trust property of the business trust as the latter during the 12 months immediately following the issue; and
+
+(b) sections 282I, 282M, 282N and 282O shall, with the necessary modifications, apply in relation to an offer information statement referred to in subsection (1) as they apply in relation to a prospectus.
+
+(4) For the purposes of subsection (3)(b) —
+
+(a) a reference in section 282I to the delivery of a copy of the prospectus for registration shall be read as a reference to the delivery of a copy of the offer information statement for lodgment; and
+
+(b) a reference in section 282M or 282N to any information or new circumstance required to be included in a prospectus under section 282F shall be read as a reference to any information prescribed under subsection (1)(b).
+
+(5) Where the written consent of an expert to the issue of an offer information statement is required to be given under section 282I (as applied in relation to that statement under subsection (3)(b)), that written consent shall be lodged with the Authority at the same time as the lodgment of the statement.
+
+[31/2004 wef 12/10/2004]
+
+### Revocation of exemption
+
+282ZA\.—(1) Where the Authority considers that a person is contravening, or is likely to contravene, or has contravened any condition or restriction imposed under section 282V (7), or that it is necessary in the public interest or for the protection of investors, it may revoke any exemption under this Subdivision, subject to such conditions as it thinks fit.
+
+(2) The Authority may revoke an exemption under subsection (1) without giving the person affected by the revocation an opportunity to be heard, but the person may, within 14 days of the revocation, apply to the Authority for the revocation to be reviewed by the Authority, and the revocation shall remain in effect unless it is withdrawn by the Authority.
+
+(3) A revocation made under this section shall be final and conclusive and there shall be no appeal therefrom.
+
+[31/2004 wef 12/10/2004]
+
+### Transactions under exempted offers or invitations subject to Division 2 of Part XII of Companies Act and Part XII of this Act
+
+282ZB\. For the avoidance of doubt, it is hereby declared that in relation to any transaction carried out under an exempted offer or invitation under this Part, nothing in this Part shall limit or diminish any liability which any person may incur in respect of any relevant offence under Division 2 of Part XII of the Companies Act (Cap. 50) or Part XII of this Act or any penalty, award of compensation or punishment in respect of any such offence.
+
+[31/2004 wef 12/10/2004]
+
+Subdivision (4) —
+
+Debentures
+
+### Applicability of provisions relating to prospectus requirements
+
+282ZC\. Division 1 of this Part shall apply, subject to such modifications and adaptations as may be prescribed, to an offer or invitation to the public to subscribe for or purchase debentures or units of debentures issued by a trustee or trustee-manager of a business trust (whether or not the business trust is a registered business trust) on behalf of the business trust and have effect accordingly.
+
+[31/2004 wef 12/10/2004]
+
 Division 2 —
 
 Collective Investment Schemes
@@ -7838,6 +9230,26 @@ Interpretation
 
 (b) inviting applications from any section of the public to subscribe for or purchase units in a collective investment scheme.
 
+### Use of term “real estate investment trust”
+
+283A\.—(1) No person shall, when describing or referring to any arrangement the rights or interests of which are, will be or have been the subject of an offer, or intended offer, or invitation, or intended invitation, use the term “real estate investment trust” or any of its derivatives in any language in the name or description or any representation of that arrangement, unless —
+
+(a) the arrangement is authorised under section 286 or is one for which an application for authorisation has been made and has not been refused by the Authority under that section;
+
+(b) the arrangement is recognised under section 287 or is one for which an application for recognition has been made and has not been refused by the Authority under that section; or
+
+(c) the Authority has given its consent in writing to that person to use that term or derivative, or that person belongs to a class of persons declared by the Authority by order published in theGazetteas persons who may use such term or derivative.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(3) For the avoidance of doubt, in subsection (1) —
+
+(a) “offer”, “intended offer”, “invitation” or “intended invitation”, in relation to any rights or interests in an arrangement, includes an offer, intended offer, invitation or intended invitation in relation to any such rights or interests that have previously been issued; and
+
+(b) “representation”, in relation to an arrangement, includes a representation of the arrangement in any bill head, letter paper, notice, advertisement, publication or writing, whether in electronic, print or other form.
+
+[31/2004 wef 12/10/2004]
+
 ### Code on Collective Investment Schemes
 
 284\.—(1) For the more effective administration, supervision and control of collective investment schemes, the Authority shall, under section 321, issue a code, to be known as the Code on Collective Investment Schemes.
@@ -7857,6 +9269,18 @@ Interpretation
 then this Division does not apply to that offer or invitation.
 
 [16/2003 wef 22/12/2003]
+
+### Division not to apply to certain collective investment schemes which are business trusts
+
+284B\. This Division shall not apply to an offer to the public of units in a collective investment scheme for subscription or purchase, or an invitation to the public to subscribe for or purchase units in a collective investment scheme, where —
+
+(a) the collective investment scheme is also a registered business trust within the meaning of Division 1A;
+
+(b) the collective investment scheme is also a business trust and the offer or invitation is one referred to in subsection (1) of section 282P which complies with subsection (2) of that section; or
+
+(c) the collective investment scheme is also a business trust and the offer or invitation is made in reliance on an exemption under Subdivision (3) of Division 1A.
+
+[31/2004 wef 12/10/2004]
 
 Subdivision (2) —
 
@@ -9350,11 +10774,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) dealing in securities, trading in futures contracts, foreign exchange trading or leveraged foreign exchange trading;
 
-(b) the enforcement of the business rules of a securities exchange, futures exchange or a clearing house or the listing rules of a securities exchange; or
+(b) the enforcement of the business rules of a securities exchange, futures exchange or a clearing house or the listing rules of a securities exchange;
 
-(c) the affairs of a corporation,
+(c) the affairs of a corporation;
+
+(d) the affairs of the trustee-manager of a registered business trust; or
+
+(e) a registered business trust which is managed and operated by the trustee-manager of the registered business trust,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[31/2004 wef 12/10/2004]
 
 (2) Any person who, with intent to deceive, makes or furnishes or knowingly and wilfully authorises or permits the making or furnishing of, any false or misleading statement or report to the Securities Industry Council or any of its officers, relating to any matter or thing required by the Securities Industry Council in the exercise of its functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -9890,6 +11320,20 @@ Specified Provisions
 
 11\. Section 277(2)
 
+11A\. Section 282H(1)
+
+11B\. Section 282I(3)
+
+11C\. Section 282K(14)
+
+11D\. Section 282P(4)
+
+11E\. Section 282S(3)
+
+11F\. Section 282W(j)
+
+11G\. Section 282Z(2)
+
 12\. Section 300(9)
 
 13\. Section 302 (when applying section 247(1) or 249(3))
@@ -9903,6 +11347,8 @@ Specified Provisions
 17. Section 337(3).
 
 [16/2003 wef 22/12/2003]
+
+[31/2004 wef 12/10/2004]
 
 ## LEGISLATIVE HISTORY
 
@@ -9948,6 +11394,11 @@ This Legislative History is provided for the convenience of users of the Securit
 |||(Bill No. 3/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 April 2004|
+|8.|**Act 31 of 2004—Securities and Futures (Amendment) Act 2004**|
+||Date of First Reading|20 July 2004|
+|||(Bill No. 29/2004 published on 21 July 2004)|
+||Date of Second and Third Readings|1 September 2004|
+||Date of commencement|12 October 2004|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
