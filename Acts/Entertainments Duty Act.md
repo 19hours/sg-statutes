@@ -116,7 +116,9 @@ An Act to impose a duty in respect of admission to entertainments.
 
 ### Duties
 
-4\.—(1) There shall be charged, levied and paid to the Comptroller upon every payment for admission to any entertainment a duty (referred to in this Act as entertainments duty) at such rate or rates as may be prescribed by the Minister by order published in theGazette.
+4\.—(1) There shall be charged, levied and paid to the Comptroller upon every payment for admission to any entertainment (excluding goods and services tax charged thereon) a duty (referred to in this Act as entertainments duty) at such rate or rates as may be prescribed by the Minister by order published in theGazette.
+
+[Act 31/93 wef 26/11/1993 vide S 466/93]
 
 (2) The Minister may impose different rates in respect of different classes of entertainments.
 
@@ -182,7 +184,7 @@ the entertainments duty shall be paid on the amount of the lump sum.
 
 (a) the whole of the takings of the entertainment are to be devoted to philanthropic or charitable purposes whether in Singapore or elsewhere without any charge on the takings or upon any funds belonging to or controlled by or on behalf of any charitable or philanthropic organisation or body for any expenses incurred in connection with the entertainment;
 
-(b) the Director of Education certifies in writing that the entertainment is to be held for educational purposes;
+(b) the Director-General of Education certifies in writing that the entertainment is to be held for educational purposes;
 
 (c) the entertainment is provided by a society which is not established or conducted for profit, and consists solely of an exhibition —
 
@@ -205,6 +207,8 @@ Provided that —
 (i) notice of claim to exemption from entertainments duty as above has been given to the Comptroller not less than 14 days before the commencement of the entertainment; and
 
 (ii) the Comptroller after making such enquiries as he sees fit has granted to the proprietor a certificate of exemption from payment of entertainments duty.
+
+[8/1997 wef 02/09/1997]
 
 (2) The Comptroller may in his discretion accept a notice of claim to exemption from entertainments duty given under subsection (1) less than 14 days but not less than 24 hours before the commencement of such entertainment.
 
@@ -416,3 +420,8 @@ This Legislative History is provided for the convenience of users of the Enterta
 ||Date of commencement|6 April 1973|
 |13.|**1985 Revised Edition—Entertainments Duty Act (Chapter 94)**|
 ||Date of operation|30 March 1987|
+|14.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
+||Date of First Reading|26 February 1993|
+|||(Bill No. 14/1993)|
+||Date of Second and Third Readings|12 October 1993|
+||Date of commencement|26 November 1993|
