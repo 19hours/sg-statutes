@@ -100,7 +100,7 @@
 
 - [35 Winding up](#Winding-up)
 
-- [36 Saving of Crown and other rights](#Saving-of-Crown-and-other-rights)
+- [36 Saving of Government and other rights](#Saving-of-Government-and-other-rights)
 
 [**FIRST SCHEDULE A Particulars of Securities to Hold on Trusts for the Purposes Hereinafter Mentioned**](#FIRST-SCHEDULE)
 
@@ -118,9 +118,9 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Ordinance to incorporate Saint Andrew’s Mission Hospital.: This private Ordinance is reproduced in the form in appears in the 1955 Revised Edition.
+An Ordinance to incorporate Saint Andrew’s Mission Hospital. This private Ordinance is reproduced in the form it appears in the 1955 Revised Edition.
 
-Note
+Note:
 
 [28th December 1934]
 
@@ -196,17 +196,17 @@ MEMBERSHIP OF THE CORPORATION
 
 ### Membership
 
-### Permanent members
-
 7\. The persons who are for the time being members of the Board of Management hereinafter constituted shall be members of the Corporation and in addition the Board of Management may appoint, with their consent, three classes of members of the Corporation namely, (1) Permanent members, (2) Ordinary members, and (3) Honorary members.
+
+Permanent members 
 
 (1) The persons named in the Register of subscribers above-mentioned, and every person who shall have subscribed in the aggregate the sum of $500, including subscriptions made to the Building Committee or the Committee of Management shall be entitled to be members for life or in the case of a firm or corporation till the dissolution of such firm or corporation and shall be called permanent members.
 
-### Ordinary members
+Ordinary members 
 
 (2) Every person who in any calendar year shall have subscribed the sum of $12 (twelve dollars) shall be entitled to be a member for the residue of that year, and the next following year and shall be called an ordinary member.
 
-### Honorary members
+Honorary members 
 
 (3) A person may be elected an Honorary member by the Board of Management hereinafter constituted in recognition of signal services to the Hospital and shall be a member for life or until he retires.
 
@@ -366,9 +366,11 @@ GENERAL
 
 35\. It shall be lawful for the Board with the sanction of a Special General Meeting of the members of the Corporation called for the purpose to wind up the affairs of the Corporation in such manner as shall be directed by such Special General Meeting, or, in default of such direction, as the Board shall think expedient, having due regard to the liabilities of the Corporation for the time being; and on the winding up of the Corporation the investments specified in ScheduleAand any property whatsoever which may remain, after satisfaction of all its debts and liabilities, shall not be paid or distributed amongst the members of the Corporation or any of them, but shall be given and transferred to some missionary association, society or institution of the Church of England within the Diocese of Singapore having objects similar or in part similar to the objects of the Corporation, such association, society or institution to be determined by a majority of three-fourths of the Board of Management, with the approval of the Society for the Propagation of the Gospel, and in default thereof by a Judge of the High Court.
 
-### Saving of Crown and other rights
+### Saving of Government and other rights
 
-36\. Nothing in this Ordinance contained shall affect the rights of Her Majesty the Queen Her Heirs and Successors, all bodies politic and corporate and all others except such as are mentioned in this Ordinance and those claiming by, from or under them.
+36\. Nothing in this Ordinance contained shall affect the rights of the Government, all bodies politic and corporate and all others except such as are mentioned in this Ordinance and those claiming by, from or under them.
+
+[7/97 wef 01/10/1997]
 
 SCHEDULE A
 
@@ -378,7 +380,8 @@ Particulars of Securities to Hold on Trusts for the Purposes Hereinafter Mention
 
 Amount of donation, bequest or subscription.
 
-Origin of the endowment and name of bed or cot endowed.
+Origin of the endowment and
+name of bed or cot endowed.
 
 $6,000
 
@@ -420,7 +423,7 @@ SCHEDULE B
 
 Rules
 
-General Meetings of the Members of the Corporation
+General Meetings of the Members of the Corporation.
 
 Quorum
 
@@ -484,7 +487,7 @@ Constitution of Executive Committee
 
 Members to be appointed by the Board
 
-15\. The Board may from time to time determine which of their members (other than theex officiomembers shall be members of the Executive Committee but so that at least two nominated members of the Board and at least two elective members of the Board, and one professional member shall be members of the Executive Committee and subject as aforesaid may from time to time modify, dissolve or reconstitute the Executive Committee and may make such regulations in regard thereto as the Board may think expedient.
+15\. The Board may from time to time determine which of their members (other than theex officiomembers) shall be members of the Executive Committee but so that at least two nominated members of the Board and at least two elective members of the Board, and one professional member shall be members of the Executive Committee and subject as aforesaid may from time to time modify, dissolve or reconstitute the Executive Committee and may make such regulations in regard thereto as the Board may think expedient.
 
 Powers of Executive Committee
 
@@ -536,7 +539,7 @@ Appointment of nominated members of the Board
 
 25\. The appointment or the revocation of the appointment of a nominated member of the Board shall be in writing under the hand of the Appointor or some person duly authorised to sign for the Appointor. Notice in writing of such appointment or revocation shall be given to the Secretary of the Corporation and no appointment or revocation shall take effect until such notice is given.
 
-the Common Seal
+The Common Seal
 
 Use of Common Seal
 
@@ -562,3 +565,9 @@ This Legislative History is provided for the convenience of users of the Saint A
 ||Date of commencement|23 August 1985|
 |5.|**1985 Revised Edition—Saint Andrew’s Mission Hospital Ordinance**|
 ||Date of operation|30 March 1987|
+|6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997|
+|||(item (30) in the First Schedule)|
