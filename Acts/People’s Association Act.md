@@ -414,6 +414,8 @@ Consultant Organisations
 
 58. Singapore Middle School Chinese Teachers’ Association.
 
+58A. Singapore National Co-operative Federation Ltd.
+
 59. Singapore National Wushu Federation.
 
 60. Singapore Numismatic Association.
@@ -600,3 +602,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|18 March 1999|
 |41.|**G.N. No. S 274/99—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1999**|
 ||Date of commencement|14 June 1999|
+|42.|**G.N. No. S 477/99—People’s Association Act (Amendment of First Schedule) (No. 3) Notification 1999**|
+||Date of commencement|1 November 1999|
