@@ -1,20 +1,18 @@
-**Goods and Services Tax Act 1993**
+**Goods and Services Tax Act**
 
-**(No. 31 of 1993)**
+**(CHAPTER 117A)**
 
 **Table of Contents**
 
 [**Long Title**](#Goods-and-Services-Tax-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Meaning of "business", etc](#Meaning-of-"business"-etc)
+- [3 Meaning of "business", etc.](#Meaning-of-"business"-etc)
 
 [**Part II ADMINISTRATION**](#Part-II)
 
@@ -82,7 +80,7 @@
 
 - [31 Partnerships](#Partnerships)
 
-- [32 Business carried on in divisions or by unincorporated bodies, personal representatives, etc](#Business-carried-on-in-divisions-or-by-unincorporated-bodies-personal-representatives-etc)
+- [32 Business carried on in divisions or by unincorporated bodies, personal representatives, etc.](#Business-carried-on-in-divisions-or-by-unincorporated-bodies-personal-representatives-etc)
 
 - [33 Agents](#Agents)
 
@@ -96,7 +94,7 @@
 
 - [38 Customers to account for tax on certain supplies](#Customers-to-account-for-tax-on-certain-supplies)
 
-- [39 Supplies spanning change of rate, etc](#Supplies-spanning-change-of-rate-etc)
+- [39 Supplies spanning change of rate, etc.](#Supplies-spanning-change-of-rate-etc)
 
 - [40 Adjustment of contracts on changes in tax](#Adjustment-of-contracts-on-changes-in-tax)
 
@@ -120,7 +118,7 @@
 
 [**Part VIII BOARD OF REVIEW**](#Part-VIII)
 
-- [49 Application for review](#Application-for-review)
+- [49 Application for review and revision](#Application-for-review-and-revision)
 
 - [50 Constitution of Board of Review](#Constitution-of-Board-of-Review)
 
@@ -170,7 +168,7 @@
 
 - [71 Proceedings as to evidence in legal proceedings](#Proceedings-as-to-evidence-in-legal-proceedings)
 
-- [72 Evidence by certificate, etc](#Evidence-by-certificate-etc)
+- [72 Evidence by certificate, etc.](#Evidence-by-certificate-etc)
 
 - [73 Service of summons](#Service-of-summons)
 
@@ -178,7 +176,7 @@
 
 - [75 Power to compound offences](#Power-to-compound-offences)
 
-- [76 Jurisdiction of District and Magistrate’s Courts](#Jurisdiction-of-District-and-Magistrate’s-Courts)
+- [76 Jurisdiction of Courts](#Jurisdiction-of-Courts)
 
 - [77 Proceedings for offences and penalties under Customs Act](#Proceedings-for-offences-and-penalties-under-Customs-Act)
 
@@ -214,63 +212,37 @@
 
 - [91 Transitional provisions](#Transitional-provisions)
 
-- [92 Consequential amendments](#Consequential-amendments)
-
 [**FIRST SCHEDULE Registration**](#FIRST-SCHEDULE-Registration)
 
-[**SECOND SCHEDULE Matters to be Treated As Supply of Goods or Services**](#SECOND-SCHEDULE-Matters-to-be-Treated-As-Supply-of-Goods-or-Services)
+[**SECOND SCHEDULE Matters to be treated as Supply of Goods or Services**](#SECOND-SCHEDULE-Matters-to-be-treated-as-Supply-of-Goods-or-Services)
 
 [**THIRD SCHEDULE Valuation — Special Cases**](#THIRD-SCHEDULE-Valuation-—-Special-Cases)
 
 [**FOURTH SCHEDULE Exemptions**](#FOURTH-SCHEDULE-Exemptions)
 
-[**FIFTH SCHEDULE Consequential and Related Amendments to Other Acts**](#FIFTH-SCHEDULE-Consequential-and-Related-Amendments-to-Other-Acts)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Goods and Services Tax Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 117A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 31 of 1993)
 
-Published by Authority
+REVISED EDITION 1994
 
-NO. 28]
+(15th March 1994)
 
-Friday, October 29
+An Act to provide for the imposition and collection of goods and services tax and for matters connected therewith.
 
-[1993
-
-The following Act was passed by Parliament on 12th October 1993 and assented to by the President on 20th October 1993:—
-
-Goods And Services Tax Act 1993
-
-(No. 31 of 1993)
-
-I assent.
-
-ONG TENG CHEONG
-
-President.
-
-20th October 1993.
-
-Date of Commencement: 1st April 1994
-
-Date of Commencement: 26th November 1993
-
-An Act to provide for the imposition and collection of goods and services tax and for matters connected therewith and to make consequential amendments to the Bankruptcy Act (Chapter 20 of the 1985 Revised Edition), the Betting and Sweepstake Duties Act (Chapter 22 of the 1985 Revised Edition), the Cinematograph Film Hire Duty Act (Chapter 40 of the 1985 Revised Edition), the Companies Act (Chapter 50 of the 1990 Revised Edition), the Customs Act (Chapter 70 of the 1985 Revised Edition), the Entertainments Duty Act (Chapter 94 of the 1985 Revised Edition), the Income Tax Act (Chapter 134 of the 1992 Revised Edition), the Private Lotteries Act (Chapter 250 of the 1985 Revised Edition), the Stamp Duties Act (Chapter 312 of the 1985 Revised Edition) and the Tourist Promotion (Cess Collection) Act (Chapter 329 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[26th November 1993]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Goods and Services Tax Act 1993 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
-
-(2) The Minister may appoint different dates for the coming into operation of the different provisions of this Act.
+1\. This Act may be cited as the Goods and Services Tax Act.
 
 ### Interpretation
 
@@ -282,15 +254,15 @@ PRELIMINARY
 
 “Comptroller” means the Comptroller of Goods and Services Tax appointed under section 4 and includes for all purposes of this Act, except the exercise of the powers conferred upon the Comptroller by section 5(2), a Deputy Comptroller or an Assistant Comptroller;
 
-“computer” has the same meaning as in the Computer Misuse Act 1993 (Act 19 of 1993);
+“computer” has the same meaning as in the Computer Misuse Act [Cap. 50A];
 
-“customs duty” means customs duty imposed on goods imported into Singapore under the Customs Act (Cap. 70);
+“customs duty” means customs duty imposed on goods imported into Singapore under the Customs Act [Cap. 70];
 
-“document” has the same meaning as in the Evidence Act (Cap. 97);
+“document” has the same meaning as in the Evidence Act [Cap. 97];
 
 “excise duty” has the same meaning as in the Customs Act;
 
-“free trade zone” has the same meaning as in the Free Trade Zones Act (Cap. 144);
+“free trade zone” has the same meaning as in the Free Trade Zones Act [Cap. 114];
 
 “goods” excludes money;
 
@@ -300,9 +272,9 @@ PRELIMINARY
 
 “input tax” has the meaning given to it by section 19;
 
-“land” has the same meaning as in the Land Titles Act (Cap. 157);
+“land” has the same meaning as in the Land Titles Act [Cap. 157];
 
-“money” or “currency” include currencies other than Singapore currency but does not include a collector’s piece, investment article or item of numismatic interest;
+“money” and “currency” include currencies other than Singapore currency but does not include a collector’s piece, investment article or item of numismatic interest;
 
 “open market value”, in relation to a supply of goods or services, has the meaning given to it by section 17(5) and in relation to imported goods has the meaning given to it by section 18(3);
 
@@ -326,7 +298,7 @@ PRELIMINARY
 
 (2) The question whether, in relation to any supply of services, the supplier or the recipient of the supply belongs in one country or another shall be determined in accordance with section 15.
 
-### Meaning of “business”, etc
+### Meaning of “business”, etc.
 
 3\.—(1) In this Act, “business” includes any trade, profession or vocation.
 
@@ -344,7 +316,7 @@ PRELIMINARY
 
 (6) Subject to any order made under section 10(3), the disposition of a business as a going concern, or of its assets or liabilities (whether or not in connection with its re-organisation or winding up), is a supply made in the course or furtherance of the business.
 
-(7) For the purposes of subsection (2), “management corporation” and “subsidiary proprietors” have the same meanings as in the Land Titles (Strata) Act (Cap. 158).
+(7) For the purposes of subsection (2), “management corporation” and “subsidiary proprietors” have the same meanings as in the Land Titles (Strata) Act [Cap. 158].
 
 ## PART II
 
@@ -364,7 +336,7 @@ ADMINISTRATION
 
 6\.—(1) Every person having any official duty or being employed in the administration of this Act shall regard and deal with all documents, information, returns and assessments relating to the business, the value of the supply of any goods and services, or the income of any taxable person as secret and confidential, and may be required by the Minister to make and subscribe a declaration to that effect in the form determined by the Minister before the Comptroller or a Magistrate.
 
-(2) Subject to subsections (4) and (5), every person having possession or control over any documents, information, returns or assessment in relation to the business, the supply of any goods and services or the income of any taxable person, who at any time otherwise than for the purpose of this Act or with the express authority of the President —
+(2) Subject to subsections (4) and (5), every person having possession or control over any document, information, return or assessment in relation to the business, the supply of any goods and services or the income of any taxable person, who at any time otherwise than for the purpose of this Act or with the express authority of the President —
 
 (a) communicates or attempts to communicate such information or anything contained in such documents, returns or copies to any person; or
 
@@ -374,9 +346,9 @@ shall be guilty of an offence.
 
 (3) No person appointed under, or who is employed in carrying out, the provisions of this Act or who is referred to in subsection (4) or (5) shall be required to produce in any court any return, document or assessment, or to divulge or communicate to any court any matter or thing coming under his notice in the performance of his duties under this Act except as may be necessary for the purpose of carrying into effect the provisions of this Act, or in order to institute a prosecution, or in the course of a prosecution, for any offence committed in relation to goods and services tax, income tax and customs and excise duties.
 
-(4) The Comptroller shall permit the Minister, the Auditor-General or any officer duly authorised in that behalf by the Auditor-General to have such access to any records or documents as may be necessary for the performance of his official duties.
+(4) The Comptroller shall permit the Minister, the Auditor-General or any officer duly authorised in that behalf by the Auditor-General to have such access to any record or document as may be necessary for the performance of his official duties.
 
-(5) The Comptroller may transmit or communicate any document, information, returns or assessment referred to in subsection (2) to the following persons which may be required by them in the performance of their official duties:
+(5) The Comptroller may transmit or communicate any document, information, return or assessment referred to in subsection (2) to the following persons which may be required by them in the performance of their official duties:
 
 (a) the Comptroller of Income Tax;
 
@@ -614,7 +586,7 @@ CREDIT FOR INPUT TAX AGAINST OUTPUT TAX
 
 (2) Subject to this section, a taxable person is entitled at the end of each such period to credit for so much of his input tax as is allowable under section 20, and then to deduct that amount from any output tax that is due from him.
 
-(3) Subject to subsection (4), “input tax”, in relation to a taxable person, means the following tax, that is to say:
+(3) Subject to subsection (4), “input tax”, in relation to a taxable person, means the following tax, that is to say —
 
 (a) tax on the supply to him of any goods or services; and
 
@@ -730,7 +702,7 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (i) services of any of the following descriptions which are performed wholly outside Singapore:
 
-(i) cultural, artistic, sporting, educational or entertainment services; or
+(i) cultural, artistic, sporting, educational or entertainment services;
 
 (ii) exhibition or convention services; or
 
@@ -760,7 +732,11 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (4) For the purposes of subsection (3) —
 
-(a) “aircraft” means an aircraft which is not used or intended for use for recreation or pleasure;“designated area”, in relation to a port, terminal or airport, means such area in or land or waters adjacent to a port, terminal or airport as the Minister may by order designate for the purposes of this section;“ship” means a ship (including an oil rig) which is not designed or adapted for use for recreation or pleasure and excludes any vessel licensed under the Port of Singapore Authority Act (Cap. 236) as a passenger harbour craft or pleasure craft;
+(a) “aircraft” means an aircraft which is not used or intended for use for recreation or pleasure;
+
+“designated area”, in relation to a port, terminal or airport, means such area in or land or waters adjacent to a port, terminal or airport as the Minister may by order designate for the purposes of this section;
+
+“ship” means a ship (including an oil rig) which is not designed or adapted for use for recreation or pleasure and excludes any vessel licensed under the Port of Singapore Authority Act [Cap. 236] as a passenger harbour craft or pleasure craft;
 
 (b) the services in subsection (3)(e) include —
 
@@ -780,7 +756,7 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (v) education,
 
-being services performed substantially Singapore.
+being services performed substantially in Singapore.
 
 (5) Where a description referred to in subsection (3) is a transaction which would not otherwise be a supply of services, the transaction shall for the purposes of this Act be treated as a supply of services in Singapore.
 
@@ -812,13 +788,11 @@ and the presence of the goods in Singapore after that date or the failure to com
 
 23\.—(1) The Minister may by regulations make provision for securing a reduction of the tax chargeable on the supply of goods of such descriptions as may be specified in the regulations in cases where no tax was chargeable on a previous supply of the goods and such other conditions are satisfied as may be specified in the regulations or as may be imposed by the Comptroller.
 
-(2) Tax chargeable on the supply of goods referred to in subsection (1) shall (unless otherwise provided in regulations made under subsection (3)) be reduced to the tax charged as if the supply of such goods was for a consideration equal to the
+(2) Tax chargeable on the supply of goods referred to in subsection (1) shall (unless otherwise provided in regulations made under this section) be reduced to the tax charged as if the supply of such goods was for a consideration equal to the
 
 excess of A − B,
 
-where
-
-A
+where A
 
 is the consideration for which the goods are supplied; and
 
@@ -888,23 +862,21 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 (d) provide for the apportionment of tax attributable to the supply of goods and services for the purposes of carrying on the business or of exempt supplies or of any other purpose;
 
-(e) require the repayment or recovery of a refund or remission under this section where any requirement of the regulations is not complied with or in such other circumstances as may be prescribed; and
+(e) require the repayment or recovery of a refund or remission under this section where any requirement of the regulations is not complied with or in such other circumstances as may be prescribed;
 
 (f) make different provisions for different circumstances.
 
 ### Application of Customs legislation
 
-26\.—(1) Except where the contrary intention appears, any written law relating to customs or excise duties on imported goods, shall with such exceptions, modifications and adaptations as the Minister may by order prescribe, apply (so far as relevant) in relation to any tax chargeable on the importation of goods as they apply in relation to any customs or excise duties.
+26\.—(1) Except where the contrary intention appears, any written law relating to customs or excise duties on imported goods shall, with such exceptions, modifications and adaptations as the Minister may by order prescribe, apply (so far as relevant) in relation to any tax chargeable on the importation of goods as it applies in relation to any customs or excise duties.
 
-(2) Without prejudice to the generality of subsection (1), the Director-General of Customs and Excise may by virtue of that subsection exercise any power conferred on him by any written law relating to customs or excise duties (including the power to issue permits and impose conditions on the import, export, transhipment and removal of goods) as if the reference to customs duty or excise duty in that written law included a reference to tax chargeable on the importation of goods.
+(2) Without prejudice to the generality of subsection (1), the Director-General of Customs and Excise may, by virtue of that subsection, exercise any power conferred on him by any written law relating to customs or excise duties (including the power to issue permits and impose conditions on the import, export, transhipment and removal of goods) as if the reference to customs duty or excise duty in that written law included a reference to tax chargeable on the importation of goods.
 
-(3) For the purposes of this section,
+(3) For the purposes of this section, “any written law relating to customs or excise duties” means —
 
-“any written law relating to customs or excise duties” means —
+(a) the provisions of the Customs Act [Cap. 70] and any order, regulations or notification made thereunder;
 
-(a) the provisions of the Customs Act (Cap. 70) and any order, regulations or notification made thereunder;
-
-(b) the provisions of the Telecommunication Authority of Singapore Act (Cap. 323) relating to customs or excise duties on postal articles; and
+(b) the provisions of the Telecommunication Authority of Singapore Act [Cap. 323] relating to customs or excise duties on postal articles; and
 
 (c) any other provision of any written law relating generally to customs or excise duties on imported goods.
 
@@ -958,7 +930,7 @@ SPECIAL CASES
 
 (e) for the Comptroller, if he thinks it necessary for the protection of the revenue, to reduce or disallow credit for any amount of input tax where that amount of input tax would otherwise have been attributable to exempt supplies if the application under subsection (3) had not been approved;
 
-(f) for the circumstances in which the Comptroller may terminate the registration of a group;
+(f) for the circumstances in which the Comptroller may terminate the registration of a group; and
 
 (g) for the application of the provisions of this section, with such exceptions, modifications and adaptations as may be prescribed, where a business, or part of a business, carried on by a taxable person is transferred to another taxable person who is treated as a member of a group under this section.
 
@@ -968,11 +940,13 @@ SPECIAL CASES
 
 (a) of persons carrying on a business in partnership shall be in the name of the firm; and
 
-(b) of the same persons carrying on separate businesses in partnership, may if the Comptroller thinks fit be in the separate names of the respective firms,
+(b) of the same persons carrying on separate businesses in partnership may, if the Comptroller thinks fit, be in the separate names of the respective firms,
 
 and no account shall be taken, in determining for any purpose of this Act whether goods or services are supplied to or by such persons, of any change in the partnership.
 
-(2) Without prejudice to section 36 of the Partnership Act 1890 (1890 c. 39) (rights of persons dealing with firm against apparent members of firm), until the date on which a change in the partnership is notified to the Comptroller in writing, a person who has ceased to be a member of a partnership shall be regarded as continuing to be a partner for the purposes of this Act and, in particular, for the purpose of any liability for tax on the supply of goods or services by the partnership.
+(2) Without prejudice to section 36 of the Partnership Act 1890 (rights of persons dealing with firm against apparent members of firm), until the date on which a change in the partnership is notified to the Comptroller in writing, a person who has ceased to be a member of a partnership shall be regarded as continuing to be a partner for the purposes of this Act and, in particular, for the purpose of any liability for tax on the supply of goods or services by the partnership.
+
+[1890 c. 39.]
 
 (3) Where a person ceases to be a member of a partnership during a prescribed accounting period (or is treated as so doing by virtue of subsection (2)) any notice, whether of assessment or otherwise, which is served on the partnership and relates to, or to any matter arising in, that period or any earlier period during the whole or part of which he was a member of the partnership shall be treated as served also on him.
 
@@ -980,9 +954,11 @@ and no account shall be taken, in determining for any purpose of this Act whethe
 
 (5) Subsections (1) and (3) shall not affect the extent to which, under section 9 of the Partnership Act 1890, a partner is liable for tax owed by the firm; but where a person is a partner in a firm during part only of a prescribed accounting period his liability for tax on the supply by the firm of goods or services during that accounting period shall be such proportion of the firm’s liability as may be just.
 
+[1890 c. 39.]
+
 (6) Where any notice is required to be given under this Act or any regulations made thereunder by a partnership, it shall be the joint and several liability of all partners to give such notice, except that if a notice is given by one partner this shall be a sufficient compliance with any such requirement.
 
-### Business carried on in divisions or by unincorporated bodies, personal representatives, etc
+### Business carried on in divisions or by unincorporated bodies, personal representatives, etc.
 
 32\.—(1) The Minister may by regulations provide for the registration under this Act of a taxable person carrying on more than one business or a business in several divisions, if the taxable person so requests and the Comptroller sees fit, to be in the names of those businesses or divisions.
 
@@ -998,7 +974,7 @@ and no account shall be taken, in determining for any purpose of this Act whethe
 
 ### Agents
 
-33\.—(1) Where a person who is accountable for any tax, or on whom any duties are imposed by or under this Act, is not resident in Singapore, the Comptroller may by notice in writing served on any agent, manager or factor who is resident in Singapore and has acted on behalf of that person in matters by reference to which that person is accountable or the duties are imposed, direct that he shall be substituted for that person as the person accountable for the tax or that he shall be under an obligation to discharge those duties or any of them.
+33\.—(1) Where a person who is accountable for any tax, or on whom any duties are imposed by or under this Act, is not resident in Singapore, the Comptroller may, by notice in writing served on any agent, manager or factor who is resident in Singapore and has acted on behalf of that person in matters by reference to which that person is accountable or the duties are imposed, direct that he shall be substituted for that person as the person accountable for the tax or that he shall be under an obligation to discharge those duties or any of them.
 
 (2) For the purposes of this Act, goods imported by a taxable person and supplied by him as agent for a person who is not a taxable person may be treated as imported and supplied by the taxable person as principal.
 
@@ -1020,7 +996,7 @@ and no account shall be taken, in determining for any purpose of this Act whethe
 
 (2) Any regulations made under this section may make different provisions with respect to different transactions or different circumstances.
 
-(3) For the purposes of this section, “lotteries” and “fruit machines” shall have the same meanings as in the Private Lotteries Act (Cap. 250).
+(3) For the purposes of this section, “lotteries” and “fruit machines” have the same meanings as in the Private Lotteries Act [Cap. 250].
 
 ### Commodity, futures or securities markets and exchanges
 
@@ -1070,7 +1046,7 @@ except that, if the goods are permitted to be removed from a warehousing regime 
 
 (b) in accordance with such conditions as the Comptroller may impose.
 
-(5) In the application of the Customs Act (Cap. 70), by virtue of section 26, to any goods which are not subject to either customs or excise duty, such goods shall be construed as being under “customs control” within the meaning of section 3(2) of the Customs Act if they are subject to a warehousing regime under this section; and shall be construed as removed from customs control if they are removed from a warehousing regime.
+(5) In the application of the Customs Act [Cap. 70], by virtue of section 26, to any goods which are not subject to either customs or excise duty, such goods shall be construed as being under “customs control” within the meaning of section 3(2) of the Customs Act if they are subject to a warehousing regime under this section; and shall be construed as removed from customs control if they are removed from a warehousing regime.
 
 (6) In this section —
 
@@ -1080,13 +1056,13 @@ except that, if the goods are permitted to be removed from a warehousing regime 
 
 (b) in the case of goods which are not subject to either customs or excise duty, the time when the goods are removed from the warehousing regime;
 
-“warehouse” means any warehouse or factory warehouse licensed under the Customs Act (Cap. 70) or any warehouse or other designated premises licensed by the Comptroller pursuant to regulations made under subsection (3)(c) where goods may be stored without payment of any one or more of the following, that is to say —
+“warehouse” means any warehouse or factory warehouse licensed under the Customs Act or any warehouse or other designated premises licensed by the Comptroller pursuant to regulations made under subsection (3)(c) where goods may be stored without payment of any one or more of the following, that is to say —
 
 (a) customs or excise duty;
 
 (b) goods and services tax on the importation of the goods into Singapore.
 
-(7) A reference in this section to goods being subject to a warehousing regime shall be a reference to goods being kept in a warehouse or within the free trade zone or being transported between warehouses without the payment of any duty or tax; and a reference to the removal of goods from a warehousing regime shall be construed accordingly.
+(7) A reference in this section to goods being subject to a warehousing regime shall be a reference to goods being kept in a warehouse or within the free trade zone or being transported between warehouses without the payment of any duty or tax; and a reference to the removal of goods from a warehousing regime shall be contrued accordingly.
 
 ### Customers to account for tax on certain supplies
 
@@ -1116,11 +1092,11 @@ it shall be for the person supplied, on the supplier’s behalf, to account for 
 
 (b) services relating to, or to anything containing, any precious or semi-precious metal or stones;
 
-(c) goods or services comprising in or related to land or any interest in or right over land,
+(c) goods or services comprising in or relating to land or any interest in or right over land,
 
 as may be specified or described in regulations made by the Minister.
 
-### Supplies spanning change of rate, etc
+### Supplies spanning change of rate, etc.
 
 39\.—(1) This section shall apply where there is a change in the rate of tax in force under section 16 or in the descriptions of exempt or zero-rated supplies.
 
@@ -1202,15 +1178,15 @@ ACCOUNTING AND ASSESSMENTS
 
 (4) Where an electronic notice is served by electronic transmission to the computer account of the Comptroller using the identifying code or password of a registered user —
 
-(a) without the authority of the registered user; and
+(a) with or without the authority of the registered user; and
 
-(b) before notification to the Comptroller by the registered user in the prescribed manner of cancellation of the code or password,
+(b) before notification to the Comptroller by the registered user in the prescribed manner of cancellation of the authentication code,
 
 that notice shall, for the purposes of this Act or any regulations made thereunder, be presumed to be made by the registered user unless he is able to adduce evidence to the contrary, and where he alleges that he had made no such transmission, the burden is also on him to adduce evidence of that fact.
 
 (5) For the avoidance of doubt, an electronic notice or copy thereof shall not be inadmissible merely on the basis that it was transmitted without the delivery of any equivalent document or counterpart in paper form.
 
-(6) Notwithstanding any other written law, in any proceedings under this Act or any regulations made thereunder, an electronic notice or its copy thereof (including a print-out of that notice or copy) —
+(6) Notwithstanding any other written law, in any proceedings under this Act or any regulations made thereunder, an electronic notice or a copy thereof (including a print-out of that notice or copy) —
 
 (a) certified by the Comptroller to contain all or any information transmitted by electronic means in accordance with this section; and
 
@@ -1224,7 +1200,7 @@ shall be admissible as evidence of the facts stated or contained therein.
 
 (b) purporting to be signed by the Comptroller or by a person occupying a responsible position in relation to the operation of the computer service at the relevant time,
 
-shall be sufficient evidence that the electronic notice or its copy has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
+shall be sufficient evidence that the electronic notice or a copy thereof has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
 
 (8) Where an electronic notice or a copy thereof is admissible under subsection (6), it shall be presumed that the facts stated or contained therein are correct, unless the contrary is proved.
 
@@ -1242,7 +1218,7 @@ shall be sufficient evidence that the electronic notice or its copy has been dul
 
 (e) for the appointment of a data service provider to be charged with the duty to maintain a record of all the transactions made through it between the Comptroller and the registered users, such a duty to include keeping of all entries, alterations or deletions pertaining to an electronic notice or a copy thereof, and any other information related thereto;
 
-(f) for the data service provider to produce a copy of the relevant record pertaining to any electronic notice or a copy thereof to either the Comptroller or the registered user, whose electronic notice is in issue, when requested by either party to do so; and
+(f) for the data service provider to produce a copy of the relevant record pertaining to any electronic notice or a copy thereof to either the Comptroller or the registered user, whose electronic notice is in issue, when requested by either party to do so; and;
 
 (g) generally for the better provision of the computer service.
 
@@ -1282,7 +1258,7 @@ the Comptroller may assess that amount as being tax due from him for the prescri
 
 (4) Where the person failing to make a return, or making a return which appears to the Comptroller to be incomplete or incorrect, was required to make the return as a personal representative, trustee in bankruptcy, receiver, liquidator or person otherwise acting in a representative capacity in relation to another person, subsection (1) shall apply as if the reference to tax due from him included a reference to a tax due from that other person.
 
-(5) An assessment under subsection (1) or (2) of an amount of tax due for any prescribed accounting period shall not be made after 7 years after the end of the prescribed accounting period; except where, in the opinion of the Comptroller, any form of fraud or wilful default has been committed by or on behalf of any person in connection with or in relation to tax, the Comptroller may for the purpose of making good any loss of tax or payment or refund of tax attributable to fraud or wilful default, make an assessment at any time.
+(5) An assessment under subsection (1) or (2) of an amount of tax due for any prescribed accounting period shall not be made more than 7 years after the end of the prescribed accounting period; except where, in the opinion of the Comptroller, any form of fraud or wilful default has been committed by or on behalf of any person in connection with or in relation to tax, the Comptroller may for the purpose of making good any loss of tax or payment or refund of tax attributable to fraud or wilful default, make an assessment at any time.
 
 (6) Where a taxable person has acquired or imported any goods in the course or furtherance of any business carried on by him, the Comptroller may require him from time to time to account for the goods; and if he fails to prove that the goods have been or are available to be supplied by him or have been exported from Singapore otherwise than by way of supply or have been lost or destroyed, the Comptroller may assess to the best of his judgment and notify the taxable person of the amount of tax that would have been chargeable in respect of the supply of the goods if they had been supplied by him.
 
@@ -1334,7 +1310,7 @@ make a supplementary assessment of the amount of the excess and shall notify the
 
 (4) The Comptroller may, as a condition of approving under subsection (3) any means of preserving information contained in any records, impose such reasonable requirements as appear to him necessary for securing that the information will be as readily available to him as if the records themselves had been preserved.
 
-(5) A statement contained in a document produced by a computer shall not by virtue of subsection (3) be admissible in evidence in civil or criminal proceedings except in accordance with sections 35 and 36 of the Evidence Act (Cap. 97).
+(5) A statement contained in a document produced by a computer shall not by virtue of subsection (3) be admissible in evidence in civil or criminal proceedings except in accordance with sections 35 and 36 of the Evidence Act [Cap. 97].
 
 (6) Any person who without reasonable excuse fails to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -1410,7 +1386,7 @@ the Comptroller may to the best of his judgment assess by way of penalty for tha
 
 BOARD OF REVIEW
 
-### Application for review
+### Application for review and revision
 
 49\.—(1) Any person may apply to the Comptroller, by notice of objection in writing, for review and revision of any decision made by the Comptroller with respect to any of the following matters:
 
@@ -1458,7 +1434,7 @@ or the amount of such an assessment;
 
 (3) A member may resign his office by notice in writing to the Minister.
 
-(4) The Minister shall appoint to be Chairman of the Board a person who is either qualified to be a District Judge or is a public accountant within the meaning of the Accountants Act (Cap. 2A); and the Chairman shall, when present, preside at every meeting of the Board or a committee of the Board, and in his absence such member of the Board as may be elected by the members present shall preside at that meeting.
+(4) The Minister shall appoint to be Chairman of the Board a person who is either qualified to be a District Judge or is a public accountant within the meaning of the Accountants Act [Cap. 2A]; and the Chairman shall, when present, preside at every meeting of the Board or a committee of the Board, and in his absence such member of the Board as may be elected by the members present shall preside at that meeting.
 
 (5) The Minister may appoint one or more secretaries to the Board and such other officers of the Board as may be necessary.
 
@@ -1534,7 +1510,7 @@ so much of that amount as is found not to be due or not to have been paid shall 
 
 (c) all the powers of a District Court with regard to the enforcement of attendance of witnesses, hearing evidence on oath and punishment for contempt; and
 
-(d) subject to the provisions of section 51(6), to admit or reject any evidence adduced, whether oral or documentary and whether admissible or inadmissible under the provisions of any written law relating to the admissibility of evidence.
+(d) subject to section 51(6), to admit or reject any evidence adduced, whether oral or documentary and whether admissible or inadmissible under the provisions of any written law relating to the admissibility of evidence.
 
 (5) Every person examined as a witness by or before the Board, whether on oath or otherwise, shall be legally bound to state the truth and to produce such records, documents or sample of any goods as the Board may require.
 
@@ -1546,7 +1522,7 @@ so much of that amount as is found not to be due or not to have been paid shall 
 
 (9) Where the Board after hearing an appeal does not vary or annul the decision of the Comptroller, the Board may, if in its opinion the appeal was vexatious or frivolous, order the appellant to pay, as costs of the Board and in addition to any costs awarded to the Comptroller, a sum not exceeding $1,000 which sum shall be added to the tax charged (if any) and be recoverable therewith.
 
-(10) Every member of the Board, when and so long as he is acting as such, shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224) and shall enjoy the same judicial immunity as is enjoyed by a District Judge; and all proceedings in appeals to the Board under this Act shall be deemed to be judicial proceedings within the meaning of the Penal Code.
+(10) Every member of the Board, when and so long as he is acting as such, shall be deemed to be a public servant within the meaning of the Penal Code [Cap. 224] and shall enjoy the same judicial immunity as is enjoyed by a District Judge; and all proceedings in appeals to the Board under this Act shall be deemed to be judicial proceedings within the meaning of the Penal Code.
 
 (11) Where, on appeal against a decision with respect to any of the matters mentioned in section 49(1)(j) —
 
@@ -1584,7 +1560,7 @@ the assessment shall have effect as an assessment of the amount specified in the
 
 55\.—(1) The Board may at any time and in regard to any appeal, with or without proceeding to the determination of the appeal, state a case on a question of law for the opinion of the High Court.
 
-(2) A case stated shall set forth the facts and any finding of fact by the Board, the decision, if any, of the Board, and the question for the opinion of the High Court, and shall be signed by the chairman or member presiding or in their absence, by any other member attending the sitting at which the appeal was heard.
+(2) A case stated shall set forth the facts and any finding of fact by the Board, the decision, if any, of the Board, and the question for the opinion of the High Court, and shall be signed by the Chairman of the Board or member presiding or in their absence, by any other member attending the sitting at which the appeal was heard.
 
 (3) The secretary shall transmit the case, when stated and signed in accordance with subsection (2), to the High Court, and shall send a copy thereof to the appellant and to the Comptroller.
 
@@ -1600,7 +1576,7 @@ the assessment shall have effect as an assessment of the amount specified in the
 
 (2) Where the Comptroller or the appellant at the hearing before the Board (referred to in this section as the appellant) applies to the Board, the High Court or the Court of Appeal, as the case may be, that the proceedings be heard by way of a hearing open to the public, the Board or the Court may direct that the proceedings be so heard, notwithstanding any objection from the other party to the proceedings.
 
-(3) Where in the opinion of the Board, the High Court or the Court of Appeal any proceedings heard in camera ought to be reported, the Board or the Court may publish or authorise the publication of the facts of the case, the arguments and the decision relating to these proceedings without disclosing the identity of the appellant concerned.
+(3) Where in the opinion of the Board, the High Court or the Court of Appeal any proceedings heard in camera ought to be reported, the Board, the High Court or the Court of Appeal may publish or authorise the publication of the facts of the case, the arguments and the decision relating to these proceedings without disclosing the identity of the appellant concerned.
 
 ### Decision to be final and conclusive
 
@@ -1612,7 +1588,9 @@ the assessment shall have effect as an assessment of the amount specified in the
 
 (c) where an agreement (whether in writing or otherwise) has been reached on the decision made between the Comptroller and the person who lodged the notice and the Comptroller has in consequence varied the decision in writing; or
 
-(d) where the decision has been determined on appeal, the decision as made, varied in consequence of the agreement or determined on appeal shall be final and conclusive for the purposes of this Act.
+(d) where the decision has been determined on appeal,
+
+the decision as made, varied in consequence of the agreement or determined on appeal shall be final and conclusive for the purposes of this Act.
 
 ## PART IX
 
@@ -1630,15 +1608,15 @@ OFFENCES AND PENALTIES
 
 (b) gives any incorrect information in relation to any matter affecting his own liability to tax or the liability of any other person or of a partnership,
 
-shall be guilty of an offence, and on conviction he shall pay a penalty equal to the amount of tax which has been undercharged in consequence of such incorrect return or information, or which would have been so undercharged if the return or information had been accepted as correct.
+shall be guilty of an offence and shall on conviction pay a penalty equal to the amount of tax which has been undercharged in consequence of such incorrect return or information, or which would have been so undercharged if the return or information had been accepted as correct.
 
 (2) Any person who without reasonable excuse or through negligence —
 
-(a) makes an incorrect return by omitting or understating any output tax or by overstating any input tax of which he is required by this Act or any regulations made thereunder to make a return; or
+(a) makes an incorrect return by omitting or under-stating any output tax or by overstating any input tax of which he is required by this Act or any regulations made thereunder to make a return; or
 
 (b) gives any incorrect information in relation to any matter affecting his own liability to tax or the liability of any other person or of a partnership,
 
-shall be guilty of an offence for which, on conviction, he shall pay a penalty equal to double the amount of tax which has been undercharged in consequence of such incorrect return or information, or which would have been so undercharged if the return or information had been accepted as correct, and shall also be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence and shall on conviction pay a penalty equal to double the amount of tax which has been undercharged in consequence of such incorrect return or information, or which would have been so undercharged if the return or information had been accepted as correct, and shall also be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 ### Penalty for failure to pay or make returns within prescribed period
 
@@ -1674,7 +1652,7 @@ shall be guilty of an offence and shall on conviction pay a penalty equal to 10%
 
 (e) makes use of any fraud, art or contrivance whatsoever or authorises the use of any such fraud, art or contrivance,
 
-shall be guilty of an offence, and shall on conviction pay a penalty assessed under section 48 of 3 times the amount of tax which has or would have been undercharged in consequence of the offence or which would have been undercharged if the offence had not been detected, and shall also be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 7 years or to both.
+shall be guilty of an offence and shall on conviction pay a penalty assessed under section 48 of 3 times the amount of tax which has or would have been undercharged in consequence of the offence or which would have been undercharged if the offence had not been detected, and shall also be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 7 years or to both.
 
 (2) Whenever in any proceedings under this section it is proved that any false statement or entry is made in any return, claim or application furnished under this Act or any regulations made thereunder by or on behalf of any person or in any books of account or other records maintained by or on behalf of any person, that person shall be presumed, until the contrary is proved, to have made that false statement or entry with intent to evade tax.
 
@@ -1716,7 +1694,7 @@ in circumstances where the person concerned is not entitled to that payment, cre
 
 (d) makes default in the performance of any duty imposed upon him by this Act or any regulations made thereunder with intent to cause,
 
-the refund to that person by the Comptroller of any amount in excess of the amount properly so refundable to him, shall be guilty of an offence and shall be liable on conviction to pay a penalty of 3 times the amount refunded in excess of the amount properly so refundable and shall also be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+the refund to that person by the Comptroller of any amount in excess of the amount properly so refundable to him, shall be guilty of an offence and shall be liable on conviction to pay a penalty of 3 times the amount refunded in excess of the amount properly so refundable, and shall also be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 ### Offences in relation to goods and invoices
 
@@ -1730,11 +1708,11 @@ the refund to that person by the Comptroller of any amount in excess of the amou
 
 (c) a person treated as a taxable person under this Act or any regulations made thereunder;
 
-(d) a person authorised to do so under regulations made under this Act; or
+(d) a person authorised to do so under any regulations made under this Act; or
 
 (e) a person acting on behalf of the Government,
 
-issues an invoice or receipt showing an amount as being tax or as being attributable to tax, he shall be guilty of an offence and shall on conviction pay a penalty of 3 times the amount of tax so shown and shall also be liable to a fine not exceeding $10,000.
+issues an invoice or receipt showing an amount as being tax or as being attributable to tax, he shall be guilty of an offence and shall on conviction pay a penalty of 3 times the amount of tax so shown, and shall also be liable to a fine not exceeding $10,000.
 
 ### Penalties for offences by authorised and unauthorised persons
 
@@ -1792,7 +1770,7 @@ PROCEEDINGS
 
 (b) for the recovery of any sum due from him whether by way of tax or penalty.
 
-### Evidence by certificate, etc
+### Evidence by certificate, etc.
 
 72\.—(1) A certificate purporting to be under the hand of the Comptroller —
 
@@ -1812,7 +1790,7 @@ shall be sufficient evidence of that fact until the contrary is proved.
 
 ### Service of summons
 
-73\.—(1) Every summons issued by a court against any person in connection with any offence under this Act or any order or regulations made thereunder may be served on the person —
+73\.—(1) Every summons issued by a court against any person in connection with any offence under this Act or any regulations made thereunder may be served on the person —
 
 (a) by delivering the summons to the person or to some adult member of his family at his last known place of residence;
 
@@ -1844,13 +1822,13 @@ shall be sufficient evidence of that fact until the contrary is proved.
 
 (4) All sums received for the composition of offences under this section shall be paid into the Consolidated Fund.
 
-### Jurisdiction of District and Magistrate’s Courts
+### Jurisdiction of Courts
 
-76\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act and notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of any offence under this Act.
+76\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all offences under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code [Cap. 68], shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
 ### Proceedings for offences and penalties under Customs Act
 
-77\. Parts XIV and XV of the Customs Act (Provisions as to Trials and Proceedings; and Offences and Penalties) and such other related provisions of that Act (Cap. 70) as the Minister may by order specify shall apply, with such exceptions, adaptations and modifications as may be prescribed in that order, in relation to offences under this Act or any regulations made thereunder (which include any act or omission in respect of which a penalty is imposed) and penalties imposed under this Act as they apply in relation to offences and penalties under the Customs Act as defined in that Act; and accordingly in those provisions as it applies by virtue of this section the reference to customs duty or excise duty shall be construed as a reference to the tax.
+77\. Parts XIV and XV of the Customs Act [Cap. 70] (Provisions as to Trials and Proceedings; and Offences and Penalties) and such other related provisions of that Act as the Minister may by order specify shall apply, with such exceptions, adaptations and modifications as may be prescribed in that order, in relation to offences under this Act or any regulations made thereunder (which include any act or omission in respect of which a penalty is imposed) and penalties imposed under this Act as they apply in relation to offences and penalties under the Customs Act as defined in that Act; and accordingly in those provisions as it applies by virtue of this section the reference to customs duty or excise duty shall be construed as a reference to the tax.
 
 ## PART XI
 
@@ -1876,7 +1854,7 @@ and any sum recoverable from a person under subsection (2) shall, if it is in an
 
 (5) The Minister may by regulations make provision for authorising distress to be levied on the goods and chattels of any person refusing or neglecting to pay any tax due from him or any amount recoverable as if it were tax due from him and for the disposal of any goods or chattels on which distress is levied in pursuance of the regulations and for the imposition and recovery of costs, charges, expenses and fees in connection with anything done under the regulations.
 
-(6) Any penalty imposed under this Act or any regulations or order made thereunder shall for the purposes of this Act and the Limitation Act (Cap. 163) be recoverable as if it were tax due and payable under this Act and accordingly section 6(6) of the Limitation Act shall not apply to such penalty.
+(6) Any penalty imposed under this Act or any regulations made thereunder shall, for the purposes of this Act and the Limitation Act [Cap. 163], be recoverable as if it were tax due and payable under this Act and accordingly section 6(6) of the Limitation Act shall not apply to such penalty.
 
 ### Power to appoint agent for recovery of tax
 
@@ -1908,7 +1886,7 @@ and any sum recoverable from a person under subsection (2) shall, if it is in an
 
 (5) Any person who, knowing that a direction has been issued under subsection (1) for the prevention of his departure from Singapore, voluntarily leaves or attempts to leave Singapore without paying all tax assessed on or due from him under this Act or furnishing security to the satisfaction of the Comptroller for payment thereof shall be guilty of an offence and may be arrested, without warrant, by any immigration officer.
 
-(6) No civil or criminal proceedings shall be instituted or maintained against the Government, the Controller of Immigration or any customs or immigration officer, in respect of anything lawfully done under this section.
+(6) No civil or criminal proceedings shall be instituted or maintained against the Government, the Controller of Immigration or any customs or immigration officer in respect of anything lawfully done under this section.
 
 ### Power to take samples
 
@@ -1938,7 +1916,7 @@ and any sum recoverable from a person under subsection (2) shall, if it is in an
 
 (i) the person by whom or on whose behalf the computer is or has been so used; or
 
-(ii) any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material,
+(ii) any person having charge of, or otherwise concerned with the operation of, the computer, device, apparatus or material,
 
 to provide him with such reasonable assistance as he may require for the purposes of paragraph (a).
 
@@ -1966,11 +1944,11 @@ GENERAL PROVISIONS
 
 87\.—(1) Except where it is provided by this Act that service shall be effected either personally or by registered post, every notice, direction, order or document required or authorised by this Act or any regulations made thereunder to be served on any person may be served —
 
-(a) by delivering it to the person or to some adult member or employee of his family at his last known residence;
+(a) by delivering it to the person or to some adult member or employee of his family at his last known place of residence;
 
-(b) by leaving it at his usual or last known residence or place of business in a cover addressed to him;
+(b) by leaving it at his usual or last known place of residence or business in an envelope addressed to him;
 
-(c) by sending it by ordinary post addressed to the person at his usual or last known residence or place of business; or
+(c) by sending it by ordinary post addressed to the person at his usual or last known place of residence or business; or
 
 (d) by electronic transmission in accordance with section 42.
 
@@ -1978,11 +1956,11 @@ GENERAL PROVISIONS
 
 (a) in the case of a company incorporated in Singapore, to the registered office of the company;
 
-(b) in the case of a company incorporated outside Singapore, either to the individual authorised to accept service of process under the Companies Act (Cap. 50) at the address filed with the Registrar of Companies, or to the registered office of the company wherever it may be situated;
+(b) in the case of a company incorporated outside Singapore, either to the individual authorised to accept service of process under the Companies Act [Cap. 50] at the address filed with the Registrar of Companies, or to the registered office of the company wherever it may be situated;
 
 (c) in the case of an individual, partnership or a body of persons, to the last known business or private address of such individual, partnership or body of persons.
 
-(3) Where any notice is served by registered post in accordance with subsection (2), in proving service of the notice, it shall be sufficient to prove that the envelope containing the summons was properly addressed, stamped and posted by registered post.
+(3) Where any notice is served by registered post in accordance with subsection (2), in proving service of the notice, it shall be sufficient to prove that the envelope containing the notice was properly addressed, stamped and posted by registered post.
 
 (4) Except for a notice served by electronic transmission in accordance with section 42, every notice to be given by the Comptroller under this Act shall be signed by the Comptroller or by some person or persons from time to time authorised by him in that behalf and every such notice shall be valid if the signature or an official facsimile thereof of the Comptroller or of such person or persons is duly printed or written thereon except that any notice under this Act requiring the attendance of any person or witness before the Comptroller shall be signed by the Comptroller or by a person duly authorised by him as aforesaid.
 
@@ -2008,29 +1986,21 @@ GENERAL PROVISIONS
 
 ### Transitional provisions
 
-91\.—(1) Tax shall not be charged on any supply or importation taking place before the appointed day.
+91\.—(1) Tax shall not be charged on any supply or importation taking place before 1st April 1994.
 
-(2) Notwithstanding anything in section 11 of this Act or in section 28 of the Customs Act (Cap. 70) as applied by section 26 of this Act —
+(2) Notwithstanding anything in section 11 of this Act or in section 28 of the Customs Act [Cap. 70] as applied by section 26 of this Act —
 
-(a) a payment made or invoice issued before the appointed day may be disregarded in determining for the purposes of this section whether a supply takes place before that date if, or to the extent that, it appears to the Comptroller that it would not have been so made or issued but for the tax;
+(a) a payment made or invoice issued before 1st April 1994 may be disregarded in determining for the purposes of this section whether a supply takes place before that date if, or to the extent that, it appears to the Comptroller that it would not have been so made or issued but for the tax;
 
-(b) goods which on the appointed day have not been released from customs control and in respect of which the rate of the customs duty and the valuation thereof are determined under section 21 of the Customs Act shall be treated for the purposes of this section as imported on the date on which such rate and valuation are determined under that section; and
+(b) goods which on 1st April 1994 have not been released from customs control and in respect of which the rate of the customs duty and the valuation thereof are determined under section 21 of the Customs Act [Cap. 70] shall be treated for the purposes of this section as imported on the date on which such rate and valuation are determined under that section; and
 
 (c) goods, other than goods referred to in paragraph (b), which have been deemed to be imported under section 28 of the Customs Act shall be treated for the purposes of this section as imported on the date on which they are deemed to be imported under that section.
 
-(3) A person who, on the appointed day, will be liable to be registered shall notify the Comptroller of that fact within 10 days of the earliest date after the date of commencement of this Act on which he knows or could with reasonable diligence have known that he will be so liable or within such longer time as the Comptroller may allow, and the Comptroller shall register any such person with effect from the appointed day.
+(3) A person who, on 1st April 1994, will be liable to be registered shall notify the Comptroller of that fact within 10 days of the earliest date after 26th November 1993 on which he knows or could with reasonable diligence have known that he will be so liable or within such longer time as the Comptroller may allow, and the Comptroller shall register any such person with effect from 1st April 1994.
 
-(4) The Minister may by regulations make such further transitional provisions as he may consider necessary and expedient including but not limited to modifying the provisions of this Act in its application to the time and value of any supply of goods or services, for zero-rating or exempting supplies of goods or services the contracts in respect of which were made before the appointed day and for the adjustment of the consideration under such contracts.
+(4) The Minister may by regulations make such further transitional provisions as he may consider necessary and expedient including but not limited to modifying the provisions of this Act in its application to the time and value of any supply of goods or services, for zero-rating or exempting supplies of goods or services the contracts in respect of which were made before 1st April 1994 and for the adjustment of the consideration under such contracts.
 
-(5) For the purposes of this section —
-
-“appointed day” means 1st April 1994;
-
-“customs control” has the same meaning as in section 3(2) of the Customs Act (Cap. 70).
-
-### Consequential amendments
-
-92\. The provisions of the Acts specified in the Fifth Schedule to this Act are amended in the manner set out therein.
+(5) For the purposes of this section, “customs control” has the same meaning as in section 3(2) of the Customs Act.
 
 FIRST SCHEDULE
 
@@ -2070,7 +2040,7 @@ Liability to be registered
 
 (b) that the activities in the course of which he makes or made those taxable supplies form only part of certain activities which should properly be regarded as those of the business described in the direction, the other activities being carried on concurrently or previously (or both) by one or more other persons;
 
-(c) that, if all the taxable supplies of that business were taken into account, a person carrying on that business would at the time of the direction be liable to be registered by virtue of paragraph 1; and
+(c) that, if all the taxable supplies of that business were taken into account, a person carrying on that business would, at the time of the direction, be liable to be registered by virtue of paragraph 1; and
 
 (d) that the main reason or one of the main reasons for the person concerned carrying on the activities first referred to in sub-paragraph (b) in the way he does is the avoidance of a liability to be registered (whether that liability would be his, another person’s or that of two or more persons jointly).
 
@@ -2198,13 +2168,13 @@ Cancellation of registration
 
 13.—(1) Where the Comptroller is satisfied that a registered person has ceased to be registrable, the Comptroller may cancel his registration with effect from the day on which he so ceased or from such later date as may be agreed between the Comptroller and him.
 
-(2) In this paragraph and paragraph 14 “registrable” means liable or eligible to be registered under paragraph 8(1).
+(2) In this paragraph and paragraph 14, “registrable” means liable or eligible to be registered under paragraph 8(1).
 
 14\. Where the Comptroller is satisfied that on the day on which a registered person was registered he was not registrable, the Comptroller may cancel his registration with effect from that day.
 
 Exemption from registration
 
-15.—(1) Notwithstanding the preceding provisions of this Schedule, where a person who makes or intends to make taxable supplies satisfies the Comptroller that any such supply is zero-rated or would be zero-rated if he were a taxable person, the Comptroller may if he thinks fit and on that person’s request, exempt him from registration until it appears to the Comptroller that the request should no longer be acted upon or is withdrawn.
+15.—(1) Notwithstanding the preceding provisions of this Schedule, where a person who makes or intends to make taxable supplies satisfies the Comptroller that any such supply is zero-rated or would be zero-rated if he were a taxable person, the Comptroller may, if he thinks fit and on that person’s request, exempt him from registration until it appears to the Comptroller that the request should no longer be acted upon or is withdrawn.
 
 (2) Where there is a material change in the nature of the supplies made by a person exempted from registration under this paragraph, he shall notify the Comptroller of the change —
 
@@ -2224,7 +2194,7 @@ Supplementary
 
 (3) Where the notification or request referred to in sub-paragraph (2) is made by a partnership, it shall include, on such form as the Comptroller may determine, the name, address and signature of each partner.
 
-(4) Every registered person except one to whom paragraph 10, 11, 12, 13 or 14 applies shall within 30 days after any change has been made in the name, constitution or ownership of his business, or after any other event has occurred which may necessitate the variation of the register or cancellation of his registration, notify the Comptroller in writing of such change or event and furnish him with the full particulars thereof.
+(4) Every registered person, except one to whom paragraph 10, 11, 12, 13 or 14 applies shall, within 30 days after any change has been made in the name, constitution or ownership of his business, or after any other event has occurred which may necessitate the variation of the register or cancellation of his registration, notify the Comptroller in writing of such change or event and furnish him with the full particulars thereof.
 
 18\. References in this Schedule to registration are references to registration in a register kept with the Comptroller in such form as he may determine for the purposes of this Act and references in this Schedule to supplies are references to supplies made in the course or furtherance of a business.
 
@@ -2234,7 +2204,7 @@ SECOND SCHEDULE
 
 Section 10
 
-Matters to be Treated As Supply of Goods or Services
+Matters to be treated as Supply of Goods or Services
 
 Transfer
 
@@ -2306,11 +2276,11 @@ Transfer or disposal of business assets
 
 (2) In the application of those paragraphs by virtue of sub-paragraph (1), references to transfer, disposition or sale shall have effect as references to the grant or assignment of any interest in, right over or licence to occupy the land concerned.
 
-(3) Except in relation to a grant or assignment otherwise than for a consideration, in the application of paragraph 5(1) by virtue of sub-paragraph (1) the reference to a supply of goods shall have effect as a reference to a supply of services.
+(3) Except in relation to a grant or assignment otherwise than for a consideration, in the application of paragraph 5(1) by virtue of sub-paragraph (1), the reference to a supply of goods shall have effect as a reference to a supply of services.
 
 THIRD SCHEDULE
 
-Sections 17(6) and 18(1)
+Section 17(6) and 18(1)
 
 Valuation — Special Cases
 
@@ -2322,7 +2292,7 @@ Open market value
 
 (b) the person making the supply is connected with the person to whom it is made; and
 
-(c) if the supply is a taxable supply the person to whom the supply is made is not entitled under sections 19 and 20 of this Act to credit for all the tax on the supply,
+(c) if the supply is a taxable supply the person to whom the supply is made is not entitled under sections 19 and 20 to credit for all the tax on the supply,
 
 the Comptroller may direct that the value of the supply shall be taken to be its open market value.
 
@@ -2342,7 +2312,7 @@ Imported goods
 
 2. Where —
 
-(a) goods are imported at a price in money which (together with all such taxes, duties, charges and costs as are specified in section 18(2)(a) and (b) of this Act and not included in the price) is less than their value as determined in accordance with section 18(3);
+(a) goods are imported at a price in money which (together with all such taxes, duties, charges and costs as are specified in section 18(2)(a) and (b) and not included in the price) is less than their value as determined in accordance with section 18(3);
 
 (b) the person importing the goods and the person entitled to the price are connected; and
 
@@ -2390,7 +2360,7 @@ Meaning of control
 
 (2) Where two or more persons together satisfy any of the conditions of sub-paragraph (1), they shall be taken to have control of the company.
 
-(3) For the purposes of sub-paragraph (1), a person shall be treated as entitled to acquire anything which he is entitled to acquire at a future date, or will at a future date be entitled to acquire.
+(3) For the purposes of sub-paragraphs (1), a person shall be treated as entitled to acquire anything which he is entitled to acquire at a future date, or will at a future date be entitled to acquire.
 
 (4) For the purposes of sub-paragraphs (1) and (2), there shall be attributed to any person any rights or powers of a nominee for him, that is to say, any rights or powers which another person possesses on his behalf or may be required to exercise on his direction or behalf.
 
@@ -2404,7 +2374,7 @@ Meaning of control
 
 Token, stamp or voucher
 
-7\. Where a right to receive goods or services for a monetary value stated on any token, stamp (not being a postage stamp denoting a value below 35 cents within the meaning of the Telecommunication Authority of Singapore Act (Cap. 323)) or voucher is granted for a consideration, the consideration shall be disregarded for the purposes of this Act except to the extent (if any) that it exceeds that monetary value.
+7\. Where a right to receive goods or services for a monetary value stated on any token, stamp (not being a postage stamp denoting a value below 35 cents within the meaning of the Telecommunication Authority of Singapore Act [Cap. 323]) or voucher is granted for a consideration, the consideration shall be disregarded for the purposes of this Act except to the extent (if any) that it exceeds that monetary value.
 
 Business assets
 
@@ -2436,7 +2406,7 @@ Employees’ benefits
 
 Foreign exchange
 
-11.—(1) Subject to the following provisions of this paragraph, where any sum relevant for determining value is expressed in a currency other than Singapore currency, it is to be converted into Singapore currency at the selling rate of exchange prevailing in Singapore at the time when the supply takes place or in the case of the import of goods at the rate of exchange determined by the Director-General of Customs and Excise at the time applicable under the Customs Act (Cap. 70) for the calculation of customs or excise duties and valuation.
+11.—(1) Subject to the following provisions of this paragraph, where any sum relevant for determining value is expressed in a currency other than Singapore currency, it is to be converted into Singapore currency at the selling rate of exchange prevailing in Singapore at the time when the supply takes place or in the case of the import of goods at the rate of exchange determined by the Director-General of Customs and Excise at the time applicable under the Customs Act [Cap. 70] for the calculation of customs or excise duties and valuation.
 
 (2) Where the Comptroller has issued a notice in writing which, for the purposes of this paragraph, specifies —
 
@@ -2458,19 +2428,19 @@ a rate specified in or determined in accordance with the notice, as for the time
 
 Taxes or duties imposed by reason of supply
 
-12\. Where any taxes or duties other than goods and services tax, including entertainments duty, excise duty, betting and sweepstake duties, cess, film hire duty, lotteries duty and tax imposed under the Statutory Boards (Taxable Services) Act (Cap. 318) but excluding stamp duty are imposed or levied by reason of the supply of goods or services, the value of the supply shall include the amount of such taxes or duties.
+12\. Where any taxes or duties other than goods and services tax, including entertainments duty, excise duty, betting and sweepstake duties, cess, film hire duty, lotteries duty and tax imposed under the Statutory Boards (Taxable Services) Act [Cap. 318] but excluding stamp duty are imposed or levied by reason of the supply of goods or services, the value of the supply shall include the amount of such taxes or duties.
 
 Residential Premises
 
-13\. Where a supply consists of a lease of any building, flat or tenement approved exclusively for residential purposes under the Planning Act (Cap. 232) and a lease or hire of any furniture, furnishings, fittings, appliances or effects the value of the monthly rent for the lease of the building, flat or tenement shall be taken as one-twelfth of the annual value ascribed to such building, flat or tenement in the Valuation List, currently in force, as prepared by the Chief Assessor under section 10 of the Property Tax Act (Cap. 254) or where no annual value has been ascribed to such building, flat or tenement in the Valuation List shall be such amount as the Comptroller may determine.
+13\. Where a supply consists of a lease of any building, flat or tenement approved exclusively for residential purposes under the Planning Act [Cap. 232] and a lease or hire of any furniture, furnishings, fittings, appliances or effects the value of the monthly rent for the lease of the building, flat or tenement shall be taken as one-twelfth of the annual value ascribed to such building, flat or tenement in the Valuation List, currently in force, as prepared by the Chief Assessor under section 10 of the Property Tax Act [Cap. 254] or where no annual value has been ascribed to such building, flat or tenement in the Valuation List shall be such amount as the Comptroller may determine.
 
 Motor Vehicles
 
-14\. Where a taxable person makes a supply (other than a supply to which section 23 applies) of any used motor vehicle which was registered under the Road Traffic Act (Cap. 276) pursuant to a previous supply of that motor vehicle, the value of the supply shall be reduced by 50%.
+14\. Where a taxable person makes a supply (other than a supply to which section 23 applies) of any used motor vehicle which was registered under the Road Traffic Act [Cap. 276] pursuant to a previous supply of that motor vehicle, the value of the supply shall be reduced by 50%.
 
 FOURTH SCHEDULE
 
-Section 22.
+Section 22
 
 Exemptions
 
@@ -2512,7 +2482,7 @@ Land
 
 2. The grant, assignment or surrender of any interest in or right over land of any of the following descriptions or of any licence to occupy such land:
 
-(a) any vacant land zoned “Residential” or “Rural Centre and Settlement” in the Master Plan under the Planning Act (Cap. 232) and used or to be used for residential purposes or for the purposes of condominium development;
+(a) any vacant land zoned “Residential” or “Rural Centre and Settlement” in the Master Plan under the Planning Act [Cap. 232] and used or to be used for residential purposes or for the purposes of condominium development;
 
 (b) any vacant land approved exclusively for residential or condominium development where the supply is made by such public or statutory authority as may be approved by the Minister or such other person as he may appoint; or
 
@@ -2534,11 +2504,11 @@ but excludes the supply of a credit card, charge card or similar payment card ma
 
 “debt security” means any interest in or right to be paid money that is, or is to be, owing by any person or any option to acquire any such interest or right;
 
-“equity security” means any interest in or right to a share in the capital of a body corporate or any option to acquire any such interest or right.
+“equity security” means any interest in or right to a share in the capital of a body corporate or any option to acquire any such interest or right;
 
-“life insurance contract” means a contract for the provision of a life policy within the meaning of the Insurance Act (Cap. 142);
+“life insurance contract” means a contract for the provision of a life policy within the meaning of the Insurance Act [Cap. 142];
 
-“unit” means a right or interest (whether described as a unit, a sub-unit or otherwise) which may be acquired under a unit trust;
+“unit” means a right or interest (whether described as a unit, a sub-unit or otherwise) which may be acquired under a unit trust.
 
 Application
 
@@ -2552,85 +2522,24 @@ Application
 
 (b) services consisting of the maintenance, repair and upkeep of the building, flat or tenement or any common property connected therewith; and
 
-(c) any building, flat or tenement which is not approved exclusively for residential purposes under the Planning Act (Cap. 232).
+(c) any building, flat or tenement which is not approved exclusively for residential purposes under the Planning Act [Cap. 232].
 
-FIFTH SCHEDULE
+## LEGISLATIVE HISTORY
 
-Consequential and Related Amendments to Other Acts
+Goods and Services Tax Act
 
-(1)Bankruptcy Act (Chapter 20):
+(CHAPTER 117A)
 
-Section 43 (1) is amended by inserting, immediately after paragraph (b), the following paragraph:
+This Legislative History is provided for the convenience of users of the Goods and Services Tax Act. It is not part of this Act.
 
-“
-
-(ba) all goods and services tax due from the bankrupt at the date of the receiving order and having become due within 12 months next before that time;
-
-”.
-
-(2)Betting and Sweepstake Duties Act (Chapter 22):
-
-Section 2 is amended by inserting, immediately after subsection (3), the following subsection:
-
-“
-
-(4) The amount of the bet referred to in subsection (1) and the amount contributed towards the sweepstake referred to in subsection (2) shall exclude the amount of goods and services tax charged on the supply of the betting or sweepstake transactions, as the case may be.
-
-”.
-
-(3)Cinematograph Film Hire Duty Act (Chapter 40):
-
-(a) Section 4(1) is amended by inserting, immediately after the words “renting of films” in the last line, the words “but excluding goods and services tax charged thereon”;
-
-(b) Section 9(2) is amended by deleting the words “at the rate of one-quarter of 60% of the gross receipts or at such other rate as the Minister may, by notification in theGazette, specify” and substituting the words “at such rate as the Minister may, by order, prescribe”; and
-
-(c) Section 10 is amended by inserting, immediately after subsection (3), the following subsection:
-
-“
-
-(4) For the purposes of subsection (1), in calculating the “gross receipts”, “receipts” and “house expenses”, as the case may be, there shall be excluded therefrom the amount of any goods and services tax.
-
-”.
-
-(4)Companies Act (Chapter 50):
-
-Section 328 (1) is amended by inserting, immediately after the words “all tax assessed” in the first line of paragraph (f), the words “and all goods and services tax due”.
-
-(5)Customs Act (Chapter 70):
-
-Sections 23, 24, 25 and 42 (2) (a) are amended by inserting, immediately after the words “price inclusive of customs duty”, the words “but excluding goods and services tax charged thereon”.
-
-(6)Entertainments Duty Act (Chapter 94):
-
-Section 4 (1) is amended by inserting, immediately after the words “payment for admission to any entertainment”, the words “(excluding goods and services tax charged thereon)”.
-
-(7)Income Tax Act (Chapter 134):
-
-(a) Section 6(8) is amended by inserting, immediately after the words “Property Tax” in the second line, the words “or Goods and Services Tax”; and
-
-(b) Section 6(8) is amended by deleting the words “that Comptroller” in the fifth line and substituting the words “the Comptroller of Property Tax or Goods and Services Tax”.
-
-(8)Private Lotteries Act (Chapter 250):
-
-Section 7 is amended by inserting, immediately after subsection (1), the following subsection:
-
-“
-
-(1A) For the purposes of subsection (1), the “total amount” shall exclude the amount of goods and services tax charged on the supply of any private lottery or the operation of any fruit machine, as the case may be.
-
-”.
-
-(9)Stamp Duties Act (Chapter 312):
-
-Section 14 is amended by inserting, immediately after the word “interest” in the first and in the fourth lines, the words “or goods and services tax”.
-
-(10)Tourist Promotion (Cess Collection) Act (Chapter 329):
-
-Section 5 is amended by inserting, immediately after subection (1), the following subsection:
-
-“
-
-(1A) For the purposes of subsection (1) and the First Schedule, any sales or charges on which cess is levied shall exclude the amount of any goods and services tax charged on the supply to which the sales or charges relate.
-
-”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
+||Date of First Reading|26 February 1993|
+|||(Bill No. 14/93 published on 27 February 1993)|
+||Date of Second Reading|19 March 1993|
+||Referred to Select Committee|Parl 4 of 1993 presented to Parliament on 7 September 1993|
+||Date of Third Reading|12 October 1993|
+||Date of commencement|26 November 1993 (except para (3) of Fifth Schedule)|
+|2.|**1994 Revised Edition—Goods and Services Tax Act**|
+||Date of operation|15 March 1994|
