@@ -798,37 +798,31 @@ IMPOSITION OF INCOME TAX
 
 (a) a Singapore ship which is owned by a shipping enterprise within the meaning of section 13A at the time the balancing charge falls to be made in respect of the Singapore ship, but only up to the amount ascertained in accordance with the formula
 
-where A
+where
 
-is the amount of allowances under section 19 made to the enterprise in respect of the Singapore ship against any income exempt from tax under section 13A;
+A is the amount of allowances under section 19 made to the enterprise in respect of the Singapore ship against any income exempt from tax under section 13A;
 
-B
+B is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
 
-is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
-
-C
-
-is the amount of balancing charge;
+C is the amount of balancing charge;
 
 (b) a foreign ship the income derived from the operation of which would be income of a shipping enterprise within the meaning of section 13A or income of an approved international shipping enterprise within the meaning of section 13F, as the case may be, but only up to the amount ascertained in accordance with the formula
 
-where X
+where
 
-is the amount of allowances under section 19 or 19A made to the enterprise in respect of the foreign ship against any income exempt from tax under section 13A or 13F, as the case may be;
+X is the amount of allowances under section 19 or 19A made to the enterprise in respect of the foreign ship against any income exempt from tax under section 13A or 13F, as the case may be;
 
-Y
+Y is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
 
-is the total amount of allowances under section 19 or 19A which have been made in respect of the ship during the period it is owned by the enterprise; and
-
-Z
-
-is the amount of balancing charge.
+Z is the amount of balancing charge.
 
 [2/92; 32/95; 31/98]
 
-(5) Subsection (4)(b) shall apply, with the necessary modifications, to a floating production storage offloading ship, floating storage offloading ship, dredger, seismic ship or semi-submersible rig the income derived from the operation of which is exempt from tax under section 13F.
+(5) Subsection (4)(b) shall apply, with the necessary modifications, to any dredger, seismic ship, or any vessel used for offshore oil or gas activity the income derived from the operation of which is exempt from tax under section 13F .
 
-[37/2002]
+[49/2004 wef 30/11/2004]
+
+[Act 7/2007, wef 01/03/006]
 
 (6) Any gains or profits, directly or indirectly, derived by any person from a right or benefit granted on or after 1st January 2003, whether granted in his name or in the name of his nominee or agent, to acquire shares in any company shall, where the right or benefit is obtained by that person by reason of any office or employment held by him, be deemed to be income chargeable to tax under subsection (1)(b), accruing at such time and of such amount as determined under the following provisions:
 
@@ -1007,6 +1001,62 @@ which involves novelty or originality;
 which do not form part of the statutory income of the designated unit trust or approved CPF unit trust by virtue of section 35(12) shall, subject to subsection (21), be deemed to be income of the unit holder if he is not a foreign investor.
 
 [32/95; 31/98; 24/2000]
+
+(20A) Any distribution made by a designated unit trust or approved CPF unit trust to any unit holder out of —
+
+(a) gains or profits derived on or after 27th February 2004 from —
+
+(i) foreign exchange transactions;
+
+(ii) transactions in futures contracts;
+
+(iii) transactions in interest rate or currency forwards, swaps or option contracts; and
+
+(iv) transactions in forwards, swaps or option contracts relating to any securities or financial index;
+
+(b) distributions from foreign unit trusts derived from outside Singapore and received in Singapore on or after 27th February 2004;
+
+(c) fees and compensatory payments (other than fees and compensatory payments for which tax has been deducted under section 45A) derived on or after 27th February 2004 from securities lending or repurchase arrangements with —
+
+(i) a person who is neither a resident of nor a permanent establishment in Singapore;
+
+(ii) the Monetary Authority of Singapore;
+
+(iii) a bank licensed under the Banking Act (Cap.19);
+
+(iv) a merchant bank approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
+
+(v) a finance company licensed under the Finance Companies Act (Cap. 108);
+
+(vi) a holder of a capital markets services licence licensed to carry on business in the following regulated activities under the Securities and Futures Act (Cap. 289) or a company exempted under that Act from holding such a licence:
+
+(A) dealing in securities (other than any person licensed under the Financial Advisers Act (Cap. 110));
+
+(B) fund management;
+
+(C) securities financing; or
+
+(D) providing custodial services for securities;
+
+(vii) a collective investment scheme or closed-end fund as defined in the Securities and Futures Act that is constituted as a corporation;
+
+(viii) the Central Depository (Pte) Limited;
+
+(ix) an insurer registered or regulated under the Insurance Act (Cap. 142) or exempted under that Act from being registered or regulated; or
+
+(x) a trust company registered under the Trust Companies Act (Cap. 336);
+
+(d) rents and any other income derived from any immovable property situated outside Singapore and received in Singapore on or after 27th February 2004;
+
+(e) discount derived from outside Singapore and received in Singapore on or after 27th February 2004;
+
+(f) discount from qualifying debt securities which mature within one year from the date of issue of those securities and issued during the period from 27th February 2004 to 31st December 2008; and
+
+(g) gains or profits derived on or after 27th February 2004 from the disposal of debentures, stocks, shares, bonds or notes issued by supranational bodies,
+
+which do not form part of the statutory income of the designated unit trust or approved CPF unit trust by virtue of section 35(12A) shall be deemed to be income of the unit holder if he is not a foreign investor.
+
+[49/2004 wef 30/11/2004]
 
 (21) Where any distribution made out of gains or profits referred to in subsection (20)(a) is made to a unit holder who is an individual resident in Singapore, the distribution, if made on or after 28th February 1998, shall not be deemed to be income of that unit holder.
 
@@ -1422,13 +1472,11 @@ whichever is the less;
 
 (b) the cost of any remaining share in the company held by the shareholder immediately after the sale shall be ascertained by the formula
 
-where A
+where
 
-is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
+A is the aggregate cost of all shares in the company held by the shareholder immediately preceding the buyback of his shares; and
 
-N
-
-is the number of remaining shares in the company held by the shareholder after the buyback of his shares
+N is the number of remaining shares in the company held by the shareholder after the buyback of his shares
 
 [32/99]
 
@@ -2011,38 +2059,6 @@ except for any payment attributable to the carriage of passengers, mails, livest
 
 (b) the gains or profits of public entertainers, as defined in section 40A, whose visits are not substantially supported from public funds of the government of another country.
 
-(7A) Where the conditions specified in subsection (7B) are satisfied, there shall be exempt from tax the following income received in Singapore on or after 1st June 2003 from any territory outside Singapore by any person resident in Singapore:
-
-(a) any dividend derived from any territory outside Singapore;
-
-(b) any profit derived from any trade or business carried on by a branch in any territory outside Singapore of a company resident in Singapore; and
-
-(c) any income derived from any professional, consultancy and other services rendered in any territory outside Singapore only if the Comptroller is satisfied that the income is derived, for the purposes of this Act, from outside Singapore.
-
-[21/2003 wef 01/06/2003]
-
-(7B) The conditions referred to in subsection (7A) are —
-
-(a) the income is subject to tax of a similar character to income tax (by whatever name called) under the law of the territory from which the income is received;
-
-(b) at the time the income is received in Singapore by the person resident in Singapore, the highest rate of tax of a similar character to income tax (by whatever name called) levied under the law of the territory from which the income is received on any gains or profits from any trade or business carried on by any company in that territory at that time is not less than 15%; and
-
-(c) the Comptroller is satisfied that the tax exemption would be beneficial to the person resident in Singapore.
-
-[21/2003 wef 01/06/2003]
-
-(7C) Where the income referred to in subsection (7A) consists of dividends paid by a company, the tax referred to in subsection (7B)(a) shall be —
-
-(a) where the company is resident in the territory from which the dividends are received, the tax paid in that territory by the company in respect of its income out of which the dividends are paid; and
-
-(b) the tax paid on the dividends in the territory from which the dividends are received.
-
-[21/2003 wef 01/06/2003]
-
-(7D) The Minister may make regulations generally to give full effect to or for carrying out the purposes of subsection (7A).
-
-[21/2003 wef 01/06/2003]
-
 (8) The Minister may by order —
 
 (a) exempt from tax wholly or in part; or
@@ -2057,7 +2073,7 @@ the income received by a person resident in Singapore from such source in any co
 
 [9/80]
 
-(10) Where any income is exempt from taxunder subsection (7A), or is exempt from tax or is taxed at a concessionary rate of tax by virtue of an order made under subsection (8) and the income is received by a company which is resident in Singapore (other than income derived from Malaysia and received in Singapore on or after 1st June 2003 by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order (O 19)) —
+(10) Where any income is exempt from tax or is taxed at a concessionary rate of tax by virtue of an order made under subsection (8) and the income is received by a company which is resident in Singapore —
 
 (a) an amount equal to the income exempt from tax or an amount equal to the net income after deduction of tax levied at the concessionary rate of tax, as the case may be, shall be credited to an account to be kept by the company for the purpose of this subsection; and
 
@@ -2309,17 +2325,13 @@ ought not to have been so taxed or exempted, as the case may be, the Comptroller
 
 (2) As soon as a tax credit has been allowed, an amount of the income computed in accordance with the formula
 
-where A
+where
 
-is the tax credit allowed;
+A is the tax credit allowed;
 
-B
+B is the tax rate applicable to a company under section 43(1); and
 
-is the tax rate applicable to a company under section 43(1); and
-
-C
-
-is the foreign tax paid,
+C is the foreign tax paid,
 
 shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
 
@@ -2381,7 +2393,7 @@ as the case may be.
 
 (a) only apply to income received on or after 1st January 1991;
 
-(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43Ror 43S or section 19B or 19J of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86); and
+(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43Ror 43S or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act; and
 
 (c) not apply to income derived from Malaysia and received in Singapore by a company resident in Singapore where the company in paying any dividend out of such income declares itself to be a resident of Malaysia under paragraph 3 of Article VII of the Income Tax (Singapore — Malaysia) (Avoidance of Double Taxation Agreement) Order.
 
@@ -2749,25 +2761,15 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 
 “50% requirement”, in relation to a company employee equity-based remuneration scheme, means in the aggregate at least 50% of the employees of the qualifying company are offered during any calendar year any rights or benefits to acquire shares in the qualifying company or in its holding company under any share acquisition scheme, as ascertained in accordance with the following formula:
 
-where A
+where
 
-is the aggregate number of employees of the qualifying company who are offered during a calendar year any right or benefit to acquire shares in the qualifying company or in its holding company under any share acquisition scheme in respect of which the qualifying company has opted under section 13J(6) for tax exemption under this section and not section 13J to apply, and who are employees of that qualifying company at the time of such offer;
+A is the aggregate number of employees of the qualifying company who are offered during a calendar year any right or benefit to acquire shares in the qualifying company or in its holding company under any share acquisition scheme in respect of which the qualifying company has opted under section 13J(6) for tax exemption under this section and not section 13J to apply, and who are employees of that qualifying company at the time of such offer;
 
-B
+B is the number of employees of the qualifying company on the last day of that calendar year;
 
-is the number of employees of the qualifying company on the last day of that calendar year;
+C is the number of part-time employees (other than non-executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year;
 
-C
-
-is the number of part-time employees (other than non-executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year;
-
-D
-
-is the number of full-time employees with less than one-year’s service (other than non-executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year; and
-
-E
-
-is the number of employees engaged on contracts not exceeding 2 years (other than non-executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year;
+D is the number of full-time employees with less than one-year’s service (other than non-executive directors) on the last day of that calendar year where any right or benefit to acquire shares in that qualifying company or in its holding company is not offered to any such employee for the whole of that calendar year, or nil where any right or benefit to acquire shares in that qualifying company or in its holding company is offered to any such employee during that calendar year; and
 
 “holding company” has the same meaning as in section 5 of the Companies Act (Cap. 50);
 
@@ -2839,13 +2841,9 @@ is the number of employees engaged on contracts not exceeding 2 years (other tha
 
 (i) where the original shares upon which the bonus shares or split shares are derived were acquired on or after 1st April 2003, on the date of acquisition of the original shares; and for this purpose, the cost in respect of each share after the bonus issue or the share split shall be determined in accordance with the formula
 
-where X
+where
 
 X is the cost of the shares at the date of acquisition; and
-
-Y
-
-Y is the total number of the original shares, bonus shares and split shares; and
 
 (ii) where the original shares upon which the bonus shares or split shares are derived were donated on or after 1st April 2003, on the date of donation of the original shares.
 
@@ -3323,17 +3321,13 @@ there shall be allowed to that person or research and development organisation a
 
 14F\.—(1) Subject to this section, for the purpose of ascertaining the income for the basis period for any year of assessment of an approved investment company, there shall be allowed as a deduction any expenses for the management of its investments paid to any person who is a resident of or has a permanent establishment in Singapore and the amount of the deduction shall be ascertained by the formula
 
-where A
+where
 
-is the total expenses for the management of its investments paid for that basis period;
+A is the total expenses for the management of its investments paid for that basis period;
 
-B
+B is the total interest and dividends chargeable to tax in that basis period; and
 
-is the total interest and dividends chargeable to tax in that basis period; and
-
-C
-
-is the total investment income (whether chargeable to tax or not) for that basis period.
+C is the total investment income (whether chargeable to tax or not) for that basis period.
 
 (2) The deduction allowed under this section for any year of assessment shall not exceed the total interest and dividends chargeable to tax of the approved investment company in the basis period for that year of assessment.
 
@@ -3591,13 +3585,11 @@ has been incurred by an approved firm or company resident in Singapore and carry
 
 (5) The amount of deduction under subsection (4) for any year of assessment shall be ascertained by the formula
 
-where A
+where
 
-is the percentage referred to in subsection (3)(c); and
+A is the percentage referred to in subsection (3)(c); and
 
-B
-
-is the amount of qualifying expenditure incurred.
+B is the amount of qualifying expenditure incurred.
 
 (6) No deduction shall be allowed under this section in respect of —
 
@@ -3695,17 +3687,17 @@ and any remaining balance in the further deduction account shall be carried forw
 
 (b) the amount of the capital expenditure on the provision of the machinery or plant still unallowed as at the time of the occurrence of the event shall be ascertained by the formula
 
-where C
+where
 
-is the amount of capital expenditure incurred on the provision of the machinery or plant; and
+C is the amount of capital expenditure incurred on the provision of the machinery or plant; and
 
-D
-
-is the number of years of assessment for which any deduction has been allowed under this section in respect of that capital expenditure; and
+D is the number of years of assessment for which any deduction has been allowed under this section in respect of that capital expenditure; and
 
 (c) notwithstanding anything in section 20(3), in no case shall the amount on which a balancing charge is made on a person exceed an amount computed in accordance with the formula
 
-where C and D have the same meanings as in paragraph (b).
+where
+
+C and D have the same meanings as in paragraph (b).
 
 [32/99]
 
@@ -3727,19 +3719,17 @@ ought not to have been so allowed or exempted, as the case may be, the Comptroll
 
 14N\.—(1) Where the Comptroller is satisfied that an upfront land premium has been paid by a lessee to a relevant body in respect of a designated lease for the construction or use of a building or structure for the purposes of carrying on any qualifying activity in that building or structure, there shall, subject to this section, be allowed to the lessee, for each year of assessment in the basis period for which the qualifying activity is carried on, a deduction of an amount of such expenditure ascertained by the formula
 
-where A
+where
 
-is the amount of upfront land premium paid; and
+A is the amount of upfront land premium paid; and
 
-B
-
-is the number of years of the term of the designated lease for which the upfront land premium was paid.
+B is the number of years of the term of the designated lease for which the upfront land premium was paid.
 
 (2) Where an assignee has incurred any expenditure in acquiring the remaining term of a designated lease for the construction or use of a building or structure for the purposes of carrying on any qualifying activity, there shall, subject to this section, be allowed to the assignee, for each year of assessment in the basis period for which the qualifying activity is carried on, a deduction of an amount of such expenditure ascertained by the formula
 
-where C
+where
 
-is —
+C is —
 
 (a)
 
@@ -3751,9 +3741,7 @@ the upfront land premium at the time of the assignment as determined by the rele
 
 whichever is the lower; and
 
-D
-
-is the remaining number of years (excluding any part of a year) of the term of the designated lease for which the upfront land premium was paid.
+D is the remaining number of years (excluding any part of a year) of the term of the designated lease for which the upfront land premium was paid.
 
 (3) Subsection (2) shall apply, with the necessary modifications, to any subsequent assignment of the remaining term of the designated lease.
 
@@ -4101,13 +4089,11 @@ and increased by any balancing charges made.
 
 (d) where an election under paragraph (c) has been made by a person with respect to any asset, the annual allowance in respect of the same asset to be made to that person for any year of assessment after his tax relief period shall be computed in accordance with the formula
 
-where C
+where
 
-is the amount of the capital expenditure still unallowed under this section in respect of that asset after the end of his tax relief period; and
+C is the amount of the capital expenditure still unallowed under this section in respect of that asset after the end of his tax relief period; and
 
-D
-
-is the number of years of working life of the asset as specified in the Sixth Schedule reduced by the number of whole years the asset has been put into use as at the end of the basis period in which his tax relief ends and if the result is less than 1, D shall be deemed to be 1;
+D is the number of years of working life of the asset as specified in the Sixth Schedule reduced by the number of whole years the asset has been put into use as at the end of the basis period in which his tax relief ends and if the result is less than 1, D shall be deemed to be 1;
 
 (e) the annual allowance in respect of any asset for any year of assessment shall not exceed the amount of the capital expenditure of the asset still unallowed under this section as at the beginning of the basis period for that year of assessment;
 
@@ -4417,13 +4403,11 @@ no writing-down allowance in respect of the intellectual property rights shall b
 
 (6) For the purposes of subsection (5), where there is more than one sale, transfer or assignment of any part of any intellectual property rights, the amount of the capital expenditure incurred in acquiring the intellectual property rights for the year of assessment relating to the basis period in which the sale, transfer or assignment of that part of the rights occurs shall be ascertained in accordance with the formula
 
-where A
+where
 
-is the capital expenditure incurred in acquiring the intellectual property rights; and
+A is the capital expenditure incurred in acquiring the intellectual property rights; and
 
-B
-
-is the total amount of any charges made under this section in any previous years of assessment in respect of that expenditure.
+B is the total amount of any charges made under this section in any previous years of assessment in respect of that expenditure.
 
 (7) For the purpose of this section, any sale, transfer or assignment of any intellectual property rights which occurs after the date on which the trade or business of a company permanently ceases shall be deemed to have occurred immediately before the cessation.
 
@@ -4507,13 +4491,11 @@ the amount or value of any consideration therefor shall, so far as it is not cha
 
 (3) For the purposes of this section, the writing-down allowances in respect of an IRU shall be determined by the formula
 
-where A
+where
 
-is the amount of capital expenditure incurred for the acquisition of the IRU; and
+A is the amount of capital expenditure incurred for the acquisition of the IRU; and
 
-B
-
-is the writing-down period for the IRU.
+B is the writing-down period for the IRU.
 
 (4) Notwithstanding anything in this section, no writing-down allowance shall be granted to any person under subsection (1) in any year of assessment if the international telecommunications submarine cable system is not in use at the end of the basis period for that year of assessment by that person in the trade, business or profession carried on by him.
 
@@ -4571,17 +4553,13 @@ and the balancing charge shall be deemed as income for the year of assessment re
 
 (10) Where writing-down allowances in respect of any IRU have been made to any person under this section and the person sells, transfers or assigns any part of the IRU, and the consideration for the sale, transfer or assignment of the IRU is less than the amount of capital expenditure remaining unallowed for the IRU, the amount of any writing-down allowances made in respect of the IRU for the year of assessment relating to the basis period in which the sale, transfer or assignment of the IRU occurs or any subsequent year of assessment shall be the amount determined by the formula
 
-where C
+where
 
-is the amount of capital expenditure remaining unallowed at the time of the sale, transfer or assignment of the IRU;
+C is the amount of capital expenditure remaining unallowed at the time of the sale, transfer or assignment of the IRU;
 
-D
+D is the consideration for the sale, transfer or assignment of that part of the IRU; and
 
-is the consideration for the sale, transfer or assignment of that part of the IRU; and
-
-E
-
-is the number of complete years of the writing-down period remaining at the beginning of the year of assessment relating to the basis period in which the sale, transfer or assignment of the IRU occurs,
+E is the number of complete years of the writing-down period remaining at the beginning of the year of assessment relating to the basis period in which the sale, transfer or assignment of the IRU occurs,
 
 and so on for any subsequent sale, transfer or assignment of the IRU.
 
@@ -4647,13 +4625,11 @@ an allowance or charge, to be known as a balancing allowance or a balancing char
 
 (5) Notwithstanding anything in this section, where a balancing allowance or balancing charge falls to be made under subsection (1) in respect of a motor car to which section 19(3) applies, the sum to be taken in lieu of the open-market price or sale, insurance, salvage or compensation moneys for the purpose of calculating such balancing allowance or charge shall be ascertained in accordance with the formula
 
-where A
+where
 
-is the open-market price or sale, insurance, salvage or compensation moneys in respect of the motor car; and
+A is the open-market price or sale, insurance, salvage or compensation moneys in respect of the motor car; and
 
-B
-
-is the capital expenditure incurred in respect of the motor car.
+B is the capital expenditure incurred in respect of the motor car.
 
 (6) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(4)(a) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276).
 
@@ -5437,13 +5413,11 @@ and so on, except that any balance of the donation not deducted against his stat
 
 “adjustment factor”, in relation to any year of assessment, means the factor ascertained in accordance with the formula
 
-where A
+where
 
-is the higher rate of tax for that year of assessment; and
+A is the higher rate of tax for that year of assessment; and
 
-B
-
-is the lower rate of tax for that year of assessment;
+B is the lower rate of tax for that year of assessment;
 
 “allowances” means allowances under section 16, 17, 19, 19A, 19B, 19C, 19D, 20, 21, 22 or 23 including unabsorbed allowances which arose in any year of assessment before the year of assessment 1994;
 
@@ -5613,7 +5587,7 @@ within such time and in such manner as the Comptroller may determine.
 
 (a) any company to which section 10E applies, in respect of qualifying deductions under subsection (14)(a) and (b);
 
-(b) any company to which section 97D, 97G or 97V of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) applies, in respect of qualifying deductions under subsection (14)(a) where the loss is deemed to be a loss incurred from a trade or business for the purposes of any of those sections; and (5)
+(b) any company to which section 97D or 97G of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 or section 97V of the Economic Expansion Incentives (Relief from Income Tax) Act applies, in respect of qualifying deductions under subsection (14)(a) where the loss is deemed to be a loss incurred from a trade or business for the purposes of any of those sections; and (5)
 
 (c) any company, in respect of qualifying deductions under subsection (14) relating to any income that is fully exempt from tax under the provisions of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act.
 
@@ -5645,15 +5619,17 @@ within such time and in such manner as the Comptroller may determine.
 
 “claimant company” or “transferor company” means a Singapore company that claims or transfers, respectively, any qualifying deduction under subsection (1) but shall not include a company approved as —
 
-(a) a technology company under section 94(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+(a) a technology company under section 94(2) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004;
 
-(b) a venture company under section 97B(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+(b) a venture company under section 97B(2) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004;
 
-(c) a technology investment company under section 97C(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+(c) a technology investment company under section 97C(2) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004;
 
-(d) an overseas investment company under section 97C(4) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86); or
+(d) an overseas investment company under section 97C(4) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004; or
 
-(e) a technopreneur start-up company under section 97T(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+(e) a technopreneurstart-up company under section 97T(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+
+[11/2004 wef 28/04/2004]
 
 “commercial loan” means any borrowing which entitles the creditor to any return which is of only —
 
@@ -6233,11 +6209,9 @@ RATES OF TAX
 
 (5) For the purposes of subsection (4), the effective rate of tax for companies shall be determined in accordance with the formula
 
-where A
+where
 
 A is the tax chargeable on the chargeable income of the person for the year of assessment calculated in accordance with section 43(6) as if the person is a company; and
-
-B
 
 B is the chargeable income of the person for the year of assessment.
 
@@ -6961,7 +6935,7 @@ as the case may be, a sum equal to such excess shall be paid by the company to t
 
 (i) tax assessed at the rate of 10% or such other rate as may be prescribed under section 43(9); and
 
-(ii) tax assessed at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43N, 43O or 43P, or section 19B or 19J of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
+(ii) tax assessed at the rate of 10% or such other concessionary rate as may be prescribed under section 13H, 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L, 43N, 43O or 43P, or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004 or section 19J of the Economic Expansion Incentives (Relief from Income Tax) Act;
 
 (f) any balance or tax assessed which has been taken into account for the purpose of determining the charge or balance under subsection (4), (5), (6) or (7) upon the payment of any dividend shall be regarded as having been utilised for that purpose notwithstanding that no set-off has been allowed in respect of that dividend under section 46(3); and
 
@@ -7359,17 +7333,13 @@ RELIEF AGAINST DOUBLE TAXATION
 
 (2A) In subsection (2)(b), “effective rate of tax” means the rate of tax as ascertained in accordance with the formula
 
-where A
+where
 
-is the tax payable before allowance of credit under any arrangements having effect under this section on B + C computed in accordance with the provisions of this Act;
+A is the tax payable before allowance of credit under any arrangements having effect under this section on B + C computed in accordance with the provisions of this Act;
 
-B
+B is the exempt income; and
 
-is the exempt income; and
-
-C
-
-is the other income.
+C is the other income.
 
 (3) While any such arrangements are in force with any country within the Commonwealth, section 48 shall cease to have effect as respects that country except in so far as the arrangements otherwise provide.
 
@@ -8699,7 +8669,7 @@ MISCELLANEOUS
 
 (a) the Central Fund Administrator or the institution of a public character, as the case may be, shall be liable to pay to the Comptroller a financial penalty of the higher of $100 or the amount ascertained by the formula
 
-0.4 × the total value of the donations (as determined under section 37(3)) which ought not to be allowed a deduction under section 37(3) by reason of the contravention;
+0.4 x the total value of the donations (as determined under section 37(3)) which ought not to be allowed a deduction under section 37(3) by reason of the contravention;
 
 (b) the Minister may revoke the appointment of the Central Fund Administrator; and
 
@@ -10087,6 +10057,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 2/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 April 2004|
+|181.|**Act 11 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 2004|
+|||(Bill No. 7/2004 published on 28 February 2004)|
+||Date of Second and Third Readings|20 April 2004|
+||Date of commencement|28 April 2004 (section 30 — amendment of Income Tax Act)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
