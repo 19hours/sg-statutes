@@ -188,7 +188,7 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“accountable person” means an executor or any other person upon whom there is imposed under the provisions of this Act any duty or liability to deliver to the Commissioner an estate duty affidavit or an estate duty account or to pay any estate duty or to make any other payment leviable in consequence of the death of any person, or from whom any payment under this Act is leviable;
+“accountable person” means an executor or any other person upon whom there is imposed under the provisions of this Act any duty or liability to deliver to the Commissioner an estate duty return or an estate duty account or to pay any estate duty or to make any other payment leviable in consequence of the death of any person, or from whom any payment under this Act is leviable;
 
 “Commissioner” means the Commissioner of Estate Duties appointed under section 4(1) and includes a Deputy Commissioner of Estate Duties;
 
@@ -200,7 +200,9 @@ PRELIMINARY
 
 “estate duty” means estate duty leviable under this Act;
 
-“estate duty affidavit” means the affidavit, together with the accounts annexed thereto, determined under section 35;
+“estate duty return” means the return, together with the accounts annexed thereto, determined under section 35;
+
+[30/2000 wef 01/01/2001]
 
 “executor” means the executor or administrator of a deceased person, and includes, as regards any obligation under this Act, any person who takes possession of or intermeddles with the property of a deceased person and any person who has applied or is entitled to apply to any court for the grant or resealing of probate or letters of administration in respect of the estate of a deceased person;
 
@@ -778,15 +780,15 @@ LIABILITY FOR ESTATE DUTY
 
 ### Liability of executor, etc.
 
-30\.—(1) The executor of the deceased shall pay the estate duty in respect of all property of which the deceased was competent to dispose at his death, on delivering an estate duty affidavit to the Commissioner, and may pay in like manner the estate duty in respect of any other property passing on such death, which by virtue of any testamentary disposition of the deceased is under the control of the executor, or, in the case of property not under his control, if the persons accountable for the duty in respect thereof request him to make such payment.
+30\.—(1) The executor of the deceased shall pay the estate duty in respect of all property of which the deceased was competent to dispose at his death, on delivering an estate duty return to the Commissioner, and may pay in like manner the estate duty in respect of any other property passing on such death, which by virtue of any testamentary disposition of the deceased is under the control of the executor, or, in the case of property not under his control, if the persons accountable for the duty in respect thereof request him to make such payment.
 
 (2) An executor shall not be liable for any duty in excess of the assets which he has received as executor or might but for his own neglect or default have received.
 
-(3) Where the executor does not know the amount or value of any property which has passed on the death, he may state in the estate duty affidavit that —
+(3) Where the executor does not know the amount or value of any property which has passed on the death, he may state in the estate duty return that —
 
 (a) such property exists, but that he does not know the amount or value thereof; and
 
-(b) he undertakes as soon as the amount and value are ascertained, to bring in an account thereof, and to pay both the duty for which he is or may be liable, and any further duty payable by reason thereof for which he is or may be liable in respect of the other property mentioned in the affidavit.
+(b) he undertakes as soon as the amount and value are ascertained, to bring in an account thereof, and to pay both the duty for which he is or may be liable, and any further duty payable by reason thereof for which he is or may be liable in respect of the other property mentioned in the return.
 
 (4) Where property passes on the death of the deceased, and his executor is not accountable for the estate duty in respect of that property, every person to whom any property so passes for any beneficial interest in possession, and also, to the extent of the property actually received or disposed of by him, every trustee, guardian, committee or other person in whom any interest in the property so passing or the management thereof is at any time vested, and every person in whom that interest is vested in possession by alienation or other derivative title shall be accountable for the estate duty on the property.
 
@@ -824,17 +826,17 @@ COLLECTION OF ESTATE DUTY
 
 ### Filing of accounts of property
 
-35\.—(1) The executor of every deceased person shall, within 6 months after the date of the death of the deceased, specify to the best of his knowledge and belief, in appropriate accounts annexed to an estate duty affidavit to be delivered to the Commissioner, a full and true statement of particulars relating to all the property of the deceased, including the value thereof, in respect of which estate duty is payable upon the death of the deceased; and together with such estate duty affidavit he shall deliver to the Commissioner a certified copy of the will, if any, of the deceased.
+35\.—(1) The executor of every deceased person shall, within 6 months after the date of the death of the deceased, specify to the best of his knowledge and belief, in appropriate accounts annexed to an estate duty return to be delivered to the Commissioner, a full and true statement of particulars relating to all the property of the deceased, including the value thereof, in respect of which estate duty is payable upon the death of the deceased; and together with such estate duty return he shall deliver to the Commissioner a certified copy of the will, if any, of the deceased.
 
-(2) The estate duty affidavit shall extend to the verification of the accounts annexed thereto and shall be in a form to be determined by the Commissioner.
+(2) The estate duty return shall extend to the verification of the accounts annexed thereto and shall be in a form to be determined by the Commissioner.
 
-(3) The accounts annexed to the estate duty affidavit shall include all income accrued upon the property included therein down to and outstanding at the date of the death of the deceased.
+(3) The accounts annexed to the estate duty return shall include all income accrued upon the property included therein down to and outstanding at the date of the death of the deceased.
 
 (4) Where the executor is not accountable for estate duty in respect of any property passing on the death of the deceased, the person accountable shall, within 6 months after the date of the death of the deceased, deliver to the Commissioner an account in a form to be determined by the Commissioner containing a full and true statement of the particulars relating to that property, including the value thereof, verified to the best of his knowledge and belief.
 
-(5) The Commissioner may require any estate duty affidavit or any such account to be delivered to him in duplicate.
+(5) The Commissioner may require any estate duty return or any such account to be delivered to him in duplicate.
 
-(6) The Commissioner may, in his discretion, extend the period prescribed in subsections (1) and (4) for delivering any estate duty affidavit or account relating to any property passing on the death of a deceased person.
+(6) The Commissioner may, in his discretion, extend the period prescribed in subsections (1) and (4) for delivering any estate duty return or account relating to any property passing on the death of a deceased person.
 
 (7) The executor shall pay the estate duty in respect of all property of which the deceased was competent to dispose at his death and may pay the estate duty in respect of any other property passing on such death which is under the control of the executor, or in the case of property not under his control if the person liable to pay the duty in respect thereof requests him to make the payment.
 
@@ -850,7 +852,7 @@ COLLECTION OF ESTATE DUTY
 
 (2) Where double duty is leviable under section 45(1) or (2), interest shall be payable upon the single duty only for the period prior to the date when the liability to double duty attached, and thereafter upon the double duty.
 
-(3) If any person, prior to the delivery to the Commissioner of the estate duty affidavit or of such account as is referred to in section 35(4), deposits a sum of money in the hands of the Commissioner as security for the payment of the estate duty payable in respect of the property of a deceased person or for the payment of such portion thereof as is payable upon an account as aforesaid, interest under subsection (1) shall cease to run as from the date of such deposit, except upon the amount, if any, whereby the estate duty or such portion thereof, as the case may be, and the interest accrued thereon prior to the deposit, exceeds the sum deposited.
+(3) If any person, prior to the delivery to the Commissioner of the estate duty return or of such account as is referred to in section 35(4), deposits a sum of money in the hands of the Commissioner as security for the payment of the estate duty payable in respect of the property of a deceased person or for the payment of such portion thereof as is payable upon an account as aforesaid, interest under subsection (1) shall cease to run as from the date of such deposit, except upon the amount, if any, whereby the estate duty or such portion thereof, as the case may be, and the interest accrued thereon prior to the deposit, exceeds the sum deposited.
 
 (4) In cases where estate duty is payable when an interest in expectancy falls into possession, interest on the estate duty shall be payable from the date when such interest falls into possession to the date of payment at the appropriate rates specified in the Sixth Schedule.
 
@@ -858,7 +860,7 @@ COLLECTION OF ESTATE DUTY
 
 ### Commissioner may make assessment
 
-37\. The Commissioner may at any time, whether an estate duty affidavit required to be delivered under section 35 has been delivered or not, assess the estate duty payable in respect of the estate of a deceased person and shall issue to the person or persons whom he considers liable to pay such estate duty a notice of the assessment in a form to be determined by the Commissioner.
+37\. The Commissioner may at any time, whether an estate duty return required to be delivered under section 35 has been delivered or not, assess the estate duty payable in respect of the estate of a deceased person and shall issue to the person or persons whom he considers liable to pay such estate duty a notice of the assessment in a form to be determined by the Commissioner.
 
 ### Recovery of estate duty
 
@@ -883,6 +885,8 @@ COLLECTION OF ESTATE DUTY
 (3) Any such person who fails without any lawful impediment or excuse, to be allowed by the Commissioner, to appear before the Commissioner at the time appointed, or refuses to answer any question lawfully put to him by the Commissioner or fails to produce any such document or other evidence as aforesaid, shall forfeit to the Government the sum of $1,000.
 
 (4) The Commissioner may apply to the High Court in a summary manner in the matter to which his inquiry relates for an order enforcing compliance with his reasonable requirements.
+
+(5) [Deleted by Act 30/2000 wef 18/12/2000]
 
 (6) Subject to the provisions of this Act, the value of any property for the purpose of estate duty shall be ascertained by the Commissioner in such manner and by such means as he thinks fit, and if he authorises a person to inspect any property and report to him the value thereof for the purposes of this Act, the person having the custody or control of that property shall permit the person so authorised to inspect it at such reasonable times as the Commissioner considers necessary.
 
@@ -910,7 +914,7 @@ COLLECTION OF ESTATE DUTY
 
 ### Probate not to issue until estate duty paid or postponement granted
 
-42\.—(1) No grant of representation shall be issued by any court until the Commissioner has certified in a certificate to be filed in court that the estate duty affidavit has been delivered and the estate duty payable in respect of the estate has been paid or that he has allowed payment thereof to be postponed under section 43, and stating the value as assessed by the Commissioner of the property on which estate duty is payable.
+42\.—(1) No grant of representation shall be issued by any court until the Commissioner has certified in a certificate to be filed in court that the estate duty return has been delivered and the estate duty payable in respect of the estate has been paid or that he has allowed payment thereof to be postponed under section 43, and stating the value as assessed by the Commissioner of the property on which estate duty is payable.
 
 (2) A schedule of the property of a deceased person in respect of which estate duty has been paid in such form as may be prescribed or a certificate that payment of estate duty has been postponed or will be made by instalments authenticated by the signature of the Commissioner shall be annexed to the grant of representation.
 
@@ -922,7 +926,7 @@ COLLECTION OF ESTATE DUTY
 
 43\.—(1) The Commissioner may allow payment of the whole or any part of the estate duty to be postponed until after the issue of probate or letters of administration —
 
-(a) where the estate duty affidavit contains the statement and undertaking specified in section 30(3);
+(a) where the estate duty return contains the statement and undertaking specified in section 30(3);
 
 (b) where the estate duty due in respect of any property cannot be raised at once without excessive sacrifice;
 
@@ -970,15 +974,15 @@ COLLECTION OF ESTATE DUTY
 
 47\.—(1) If at any time it is brought to the notice of any executor or other person accountable for estate duty that the property subject to estate duty on the death of the deceased was of greater value than that on which estate duty was actually computed, such executor or person, as the case may be, shall —
 
-(a) within one month after such notice, or within such further time as the Commissioner may allow, deliver a further estate duty affidavit or further account;
+(a) within one month after such notice, or within such further time as the Commissioner may allow, deliver a further estate duty return or further account;
 
 (b) pay the difference between the duty leviable according to the true value of the estate and the duty already paid; and
 
 (c) at the same time pay to the Commissioner interest upon such difference at the appropriate rates specified in the Sixth Schedule from the date of the death, or from such subsequent date as the Commissioner may in the circumstances think proper, to the date of payment.
 
-(2) If any person, who ought to deliver a further affidavit or account as mentioned in subsection (1), neglects to do so within the prescribed period, he shall forfeit to the Government the sum of $1,000 and shall also be liable to pay to the Government double the amount of additional duty leviable.
+(2) If any person, who ought to deliver a further return or account as mentioned in subsection (1), neglects to do so within the prescribed period, he shall forfeit to the Government the sum of $1,000 and shall also be liable to pay to the Government double the amount of additional duty leviable.
 
-(3) If an application has been made under section 48(1) in respect of a notice of assessment, no claim shall be made for the return of excess duty or for the payment of additional duty except on the ground that the particulars of the property passing on the death of the deceased, or the general expenses, debts or encumbrances for which allowance was made, were not correctly stated in the affidavit or account.
+(3) If an application has been made under section 48(1) in respect of a notice of assessment, no claim shall be made for the return of excess duty or for the payment of additional duty except on the ground that the particulars of the property passing on the death of the deceased, or the general expenses, debts or encumbrances for which allowance was made, were not correctly stated in the return or account.
 
 ### Application to court
 
@@ -1376,7 +1380,7 @@ Rate of Interest
 
 1. From the date of death to the date of payment of the estate duty or the expiration of 6 months from the date of death, whichever first occurs
 
-3% per year on the amount of the unpaid estate duty except that the Commissioner shall reduce the rate to zero if he is satisfied that the estate duty affidavit received within 6 months after the date of death is complete and without omission of assets.
+3% per year on the amount of the unpaid estate duty except that the Commissioner shall reduce the rate to zero if he is satisfied that the estate duty return received within 6 months after the date of death is complete and without omission of assets.
 
 2. If any part of the estate duty is not paid within 6 months from the date of death, from the expiration of those 6 months to the date of payment of that part of the estate duty or the expiration of 18 months from the date of death, whichever first occurs
 
@@ -1641,3 +1645,4 @@ This Legislative History is provided for the convenience of users of the Estate 
 |||(Bill No. 26/2000 published on 10 October 2000)|
 ||Date of Second and Third Readings|13 November 2000|
 ||Date of commencement|18 December 2000|
+|||1 January 2001|
