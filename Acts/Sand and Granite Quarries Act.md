@@ -90,7 +90,9 @@ An Act for the licensing and control of sand and granite quarries and for matter
 
 ### Appointment of Licensing Officer
 
-3\. The Minister may, by notification in theGazette, appoint a public officer to be the Licensing Officer for the purposes of this Act.
+3\. The Minister may, by notification in theGazette, appoint a officer to be the Licensing Officer for the purposes of this Act.
+
+[4/99 wef 01/04/1999]
 
 ### Prohibition on quarrying without a licence
 
@@ -180,7 +182,7 @@ An Act for the licensing and control of sand and granite quarries and for matter
 
 13\.—(1) The licensee of any sand or granite quarry shall —
 
-(a) in the case of a sand quarry in which any open pit exists, erect and thereafter maintain such fencing and take such other precautions as may be necessary in the opinion of the Licensing Officer to prevent the occurrence of any danger or damage to life or property; and
+(a) in the case of a sand quarry in which any open pit exits, erect and thereafter maintain such fencing and take such other precautions as may be necessary in the opinion of the Licensing Officer to prevent the occurrence of any danger or damage to life or property; and
 
 (b) in the case of a granite quarry —
 
@@ -238,7 +240,7 @@ Provided that no person shall be punished twice for the same offence.
 
 (2) If the amount of costs or expenses is not paid by the person liable to pay it within 7 days after demand, the amount may be reported to a Magistrate’s Court and recovered in the same way as if it were a fine imposed by a Magistrate’s Court.
 
-(3) An appeal shall lie to the High Court from any decision of a Magistrate’s Court under this section, and the provisions of the Criminal Procedure Code [Cap. 68] shall, mutatis mutandis, apply to all such appeals.
+(3) An appeal shall lie to the High Court from any decision of a Magistrate’s Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall, mutatis mutandis, apply to all such appeals.
 
 ### Exemption
 
@@ -267,3 +269,9 @@ This Legislative History is provided for the convenience of users of the Sand an
 ||Date of commencement|15 December 1971|
 |2.|**1985 Revised Edition—Sand and Granite Quarries Act (Chapter 284)**|
 ||Date of operation|30 March 1987|
+|3.|**Act 4 of 1999—Building and Construction Authority Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 November 1998|
+|||(Bill No. 51/98 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|1 April 1999|
