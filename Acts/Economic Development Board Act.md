@@ -66,7 +66,7 @@
 
 - [29 Winding up](#Winding-up)
 
-[**THE SCHEDULE Financial provisions**](#THE-SCHEDULE)
+[**THE SCHEDULE Financial Provisions**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -222,7 +222,7 @@ may exercise any of the functions of the Chairman.
 
 ### Ineligibility for employment as officers of Board
 
-9\.—(1) No person shall be eligible for employment as an officer or employee of the Board who has, directly or indirectly, by himself or his partner, any share or interest in any contract with, for or on behalf of the Board.
+9\.—(1) No person shall be eligible for employment as an officer or employee or the Board who has, directly or indirectly, by himself or his partner, any share or interest in any contract with, for or on behalf of the Board.
 
 (2) Any officer or employee of the Board who has or acquires any such share or interest shall be liable in the discretion of the Board to summary dismissal without notice.
 
@@ -246,7 +246,7 @@ may exercise any of the functions of the Chairman.
 
 (d) the bankruptcy of a contributor shall not affect the making of deductions from the salary of the contributor in accordance with any such scheme, but such deductions shall continue to be made notwithstanding the provisions of any written law, and the portion of salary so deducted shall not be deemed to form part of his after-acquired property;
 
-(e) subject to the provisions of any such scheme, all moneys paid or payable under any such scheme on the death of a contributor shall be deemed to be subject to a trust in favour of the persons entitled thereto under the will or intestacy of the deceased contributor, or under a nomination in such form as may be prescribed in such scheme, and shall not be deemed to form part of his estate or be subject to the payment of his debts but shall be deemed to be property passing on his death for the purposes of the Estate Duty Act [Cap. 96];
+(e) subject to the provisions of any such scheme, all money paid or payable under any such scheme on the death of a contributor shall be deemed to be subject to a trust in favour of the persons entitled thereto under the will or intestacy of the deceased contributor, or under a nomination in such form as may be prescribed in such scheme, and shall not be deemed to form part of his estate or be subject to the payment of his debts but shall be deemed to be property passing on his death for the purposes of the Estate Duty Act [Cap. 96];
 
 (f) any contributor may, by a memorandum under his hand, appoint a trustee or trustees of the moneys payable on his death out of any such scheme and may make provision for the appointment of a new trustee or new trustees of such moneys and for the investment thereof; the memorandum shall be in the form prescribed in such scheme and shall be deposited with the Board;
 
@@ -256,7 +256,7 @@ may exercise any of the functions of the Chairman.
 
 ### Appointment of committees and delegation of powers
 
-11\.—(1) The Board may, in its discretion, appoint from among its own members or other persons who are not members of the Board such number of committees consisting of members or other persons or members and other persons for purposes which, in the opinion of the Board, would be better regulated and managed by means of those committees.
+11\.—(1) The Board may, in its discretion, appoint from among its own members or other persons who are not members of the Board such number of committees consisting of members of other persons or members and other persons for purposes which, in the opinion of the Board, would be better regulated and managed by means of those committees.
 
 (2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman or the chief executive officer of the Board all or any of the powers, functions and duties by this Act vested in the Board, except the power to borrow money or to raise loans by the issue of bonds and debentures; and any power, function or duty so delegated may be exercised or performed by such committee or the Chairman or the chief executive officer, as the case may be, in the name and on behalf of the Board.
 
@@ -302,7 +302,13 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 (b) for the purpose of defraying, pending the receipt of money due in respect of any loan authorised to be raised under subsection (1), expenses intended to be defrayed by any such loan.
 
-(4) Bonds and debentures of the Board shall be guaranteed by the Government as to the repayment of principal and the payment of interest at such rate as may be approved by the Minister under subsection (2).
+(4) Bonds and debentures of the Board issued before the commencement of subsection (4A) shall be guaranteed by the Government as to the repayment of principal and the payment of interest at such rate as may be approved by the Minister under subsection (2).
+
+[Act 18/1994 wef 01/10/1994]
+
+(4A) Bonds and debentures of the Board issued on or after the commencement of this subsection shall be guaranteed by the Government as to the repayment of principal and the payment of interest at such rate as may be approved by the Minister under subsection (2) if the President, acting in his discretion, concurs with the giving of such guarantee.
+
+[Act 18/1994 wef 01/10/1994]
 
 (5) For the purposes of subsection (1), the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods, materials or things.
 
@@ -540,7 +546,7 @@ Section 25
 
 [11/89]
 
-Financial provisions
+Financial Provisions
 
 Accounts to be kept
 
@@ -600,7 +606,9 @@ Copy of financial statements and auditor’s report to be forwarded to Auditor-G
 
 Financial statements and auditor’s report to be presented to Parliament
 
-13\. The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+13. The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+
+[11/89]
 
 ## LEGISLATIVE HISTORY
 
@@ -661,3 +669,8 @@ This Legislative History is provided for the convenience of users of the Economi
 ||Date of commencement|7 April 1989|
 |12.|**1992 Revised Edition—Economic Development Board Act (Chapter 85)**|
 ||Date of operation|9 March 1992|
+|13.|**Act 18 of 1994—Statutes (Miscellaneous Amendments) Act 1994**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 25/94 published on 29 July 1994)|
+||Date of Second and Third Readings|25 August 1994|
+||Date of commencement|1 October 1994 (Item (2) of the Schedule – Amendment of Economic Development Board Act)|
