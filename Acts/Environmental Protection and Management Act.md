@@ -14,9 +14,9 @@
 
 [**Part II ADMINISTRATION**](#Part-II)
 
-- [3 Appointment of Director and Deputy and Assistant Directors](#Appointment-of-Director-and-Deputy-and-Assistant-Directors)
+- [3 Appointment of Director-General and authorised officers](#Appointment-of-Director-General-and-authorised-officers)
 
-- [4 Delegation of Director’s functions, duties and powers](#Delegation-of-Director’s-functions-duties-and-powers)
+- [4 Public servants](#Public-servants)
 
 - [5 Protection from personal liability](#Protection-from-personal-liability)
 
@@ -24,7 +24,7 @@
 
 - [6 Licence for use of scheduled premises](#Licence-for-use-of-scheduled-premises)
 
-- [7 Power of Director to attach conditions to licence](#Power-of-Director-to-attach-conditions-to-licence)
+- [7 Power of Director-General to attach conditions to licence](#Power-of-Director-General-to-attach-conditions-to-licence)
 
 - [8 Permit for certain works on scheduled premises](#Permit-for-certain-works-on-scheduled-premises)
 
@@ -38,7 +38,7 @@
 
 - [12 Control of air impurities](#Control-of-air-impurities)
 
-- [13 Power of Director to require work on any premises](#Power-of-Director-to-require-work-on-any-premises)
+- [13 Power of Director-General to require work on any premises](#Power-of-Director-General-to-require-work-on-any-premises)
 
 - [14 Power to prohibit use of combustible materials, fuel burning equipment or industrial plants in designated areas](#Power-to-prohibit-use-of-combustible-materials-fuel-burning-equipment-or-industrial-plants-in-designated-areas)
 
@@ -50,9 +50,9 @@
 
 - [17 Penalties for discharging toxic substances into inland waters](#Penalties-for-discharging-toxic-substances-into-inland-waters)
 
-- [18 Power of Director to require the removal and cleaning up of toxic substance or trade effluent, oil, chemical, sewage, hazardous substance or other polluting matters](#Power-of-Director-to-require-the-removal-and-cleaning-up-of-toxic-substance-or-trade-effluent-oil-chemical-sewage-hazardous-substance-or-other-polluting-matters)
+- [18 Power of Director-General to require the removal and cleaning up of toxic substance or trade effluent, oil, chemical, sewage, hazardous substance or other polluting matters](#Power-of-Director-General-to-require-the-removal-and-cleaning-up-of-toxic-substance-or-trade-effluent-oil-chemical-sewage-hazardous-substance-or-other-polluting-matters)
 
-- [19 Power of Director to require measures to be taken to prevent water pollution due to storage or transportation of toxic substances or any other polluting matters](#Power-of-Director-to-require-measures-to-be-taken-to-prevent-water-pollution-due-to-storage-or-transportation-of-toxic-substances-or-any-other-polluting-matters)
+- [19 Power of Director-General to require measures to be taken to prevent water pollution due to storage or transportation of toxic substances or any other polluting matters](#Power-of-Director-General-to-require-measures-to-be-taken-to-prevent-water-pollution-due-to-storage-or-transportation-of-toxic-substances-or-any-other-polluting-matters)
 
 [**Part VI LAND POLLUTION CONTROL**](#Part-VI)
 
@@ -68,7 +68,7 @@
 
 - [24 Storage, use and dealing of hazardous substances](#Storage-use-and-dealing-of-hazardous-substances)
 
-- [25 Power of Director to require removal of hazardous substances from premises](#Power-of-Director-to-require-removal-of-hazardous-substances-from-premises)
+- [25 Power of Director-General to require removal of hazardous substances from premises](#Power-of-Director-General-to-require-removal-of-hazardous-substances-from-premises)
 
 - [26 Power to require owner or occupier of hazardous installations to carry out impact analysis studies](#Power-to-require-owner-or-occupier-of-hazardous-installations-to-carry-out-impact-analysis-studies)
 
@@ -80,7 +80,7 @@
 
 - [29 Control of noise from work place](#Control-of-noise-from-work-place)
 
-- [30 Director to have regard to certain provisions](#Director-to-have-regard-to-certain-provisions)
+- [30 Director-General to have regard to certain provisions](#Director-General-to-have-regard-to-certain-provisions)
 
 [**Part IX LICENCES AND INDUSTRIAL PLANT WORKS**](#Part-IX)
 
@@ -114,23 +114,25 @@
 
 - [43 Power to demand names and addresses](#Power-to-demand-names-and-addresses)
 
-- [44 Powers of Director to examine and secure attendance](#Powers-of-Director-to-examine-and-secure-attendance)
+- [44 Powers of Director-General to examine and secure attendance](#Powers-of-Director-General-to-examine-and-secure-attendance)
 
 - [45 Powers of arrest](#Powers-of-arrest)
 
-- [46 Director may act in cases of emergency](#Director-may-act-in-cases-of-emergency)
+- [46 Director-General may act in cases of emergency](#Director-General-may-act-in-cases-of-emergency)
 
 - [47 Power of entry](#Power-of-entry)
 
 - [48 Power to enter on land adjacent to works](#Power-to-enter-on-land-adjacent-to-works)
 
-- [49 Penalty for obstructing Director in his duty](#Penalty-for-obstructing-Director-in-his-duty)
+- [49 Penalty for obstructing Director-General in his duty](#Penalty-for-obstructing-Director-General-in-his-duty)
 
 - [50 Powers of search and seizure](#Powers-of-search-and-seizure)
 
 [**Part XII COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES**](#Part-XII)
 
 - [51 Compensation, damages, fees, costs and expenses to be determined by Magistrate’s Court or District Court](#Compensation-damages-fees-costs-and-expenses-to-be-determined-by-Magistrate’s-Court-or-District-Court)
+
+- [51A Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
 
 - [52 Occupier may execute work where owner defaults in execution of work](#Occupier-may-execute-work-where-owner-defaults-in-execution-of-work)
 
@@ -144,7 +146,7 @@
 
 - [57 Application of proceeds of sale](#Application-of-proceeds-of-sale)
 
-- [58 Title acquired by purchaser at sale by Director](#Title-acquired-by-purchaser-at-sale-by-Director)
+- [58 Title acquired by purchaser at sale by Director-General](#Title-acquired-by-purchaser-at-sale-by-Director-General)
 
 - [59 Costs of proceedings for recovery of arrears](#Costs-of-proceedings-for-recovery-of-arrears)
 
@@ -169,6 +171,8 @@
 - [68 Furnishing of deposits](#Furnishing-of-deposits)
 
 - [69 Inaccuracies in document](#Inaccuracies-in-document)
+
+- [69A Evidence](#Evidence)
 
 - [70 Evidence of analyst](#Evidence-of-analyst)
 
@@ -226,6 +230,10 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
+“Agency” means the National Environment Agency established under the National Environment Agency Act 2002;
+
+[4/2002 wef 01/07/2002]
+
 “air impurities” includes smoke, cinders, solid particles of any kind, gases, fumes, mists, odours and radioactive substances;
 
 “air pollution” means the emission into the air of any air impurity;
@@ -242,9 +250,11 @@ PRELIMINARY
 
 “analysis” includes the taking of a sample or any test, measurement, calculation or examination made for the purpose of determining the characteristics of any matter or substance or the effects of any discharge, emission or deposit of trade effluent, air impurity or hazardous substance;
 
-“analyst” means an analyst appointed or approved by the Director ;
+“analyst” means an analyst appointed or approved by the Director-General;
 
-“authorised officer” means a public officer authorised under section 3(3) or a person in the employment of a Town Council or statutory corporation authorised under section 4(1);
+“authorised officer” means any person appointed to be an authorised officer under section 3(2);
+
+[4/2002 wef 01/07/2002]
 
 “building” includes any house, hut, shed or roofed enclosure, whether used for the purpose of human habitation or otherwise;
 
@@ -270,7 +280,9 @@ but does not include the carrying tank of a road tanker, a tank container or a f
 
 “day” means a period of 24 hours from midnight;
 
-“Director” means the Director of Environmental Pollution Control appointed under section 3(1);
+“Director-General” means the Director-General of Environmental Protection appointed under section 3(1);
+
+[4/2002 wef 01/07/2002]
 
 “export”, with its grammatical variations and cognate expression, means to take or cause to be taken out of Singapore by land, water or air and includes the placing of any substances, plant, equipment, machinery or any products in a vessel, conveyance or aircraft for the purposes of the substances, plant, equipment, machinery or any products being taken out of Singapore by water or air but does not include the taking out of Singapore by water or air of any substances, plant, equipment, machinery or any products on the same vessel or aircraft on which they were brought into Singapore unless after being brought into Singapore the substances, plant, equipment, machinery or any products have been landed or transhipped within Singapore;
 
@@ -368,43 +380,31 @@ but does not include the carrying tank of a road tanker, a tank container or a f
 
 ADMINISTRATION
 
-### Appointment of Director and Deputy and Assistant Directors
+### Appointment of Director-General and authorised officers
 
-3\.—(1) The Minister may appoint a Director of Environmental Pollution Control and such number of Deputy and Assistant Directors of Environmental Pollution Control and public officers as he may consider necessary for the proper carrying out of the provisions of this Act.
+3\.—(1) The Minister may, by notification in theGazette, appoint any person to be the Director-General of Environmental Protection who shall be responsible for the administration of this Act and any other written law, subject to the general or special directions of the Minister.
 
-(2) The Director shall have the superintendence of all matters relating to this Act and the regulations subject to the general or special directions of the Minister.
+(2) The Director-General may in writing appoint any public officer or any officer of the Agency or of any statutory authority or any member or employee of any Town Council to be an authorised officer for the purposes of this Act and the regulations.
 
-(3) The functions, duties and powers which are imposed or conferred upon the Director under this Act and the regulations may be performed or exercised by any Deputy or Assistant Director of Environmental Pollution Control and by any public officer who is duly authorised in writing by the Director to act on his behalf subject to the direction and control of the Director.
+(3) The Director-General may, with the approval of the Minister, delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act or the regulations to any authorised officer, subject to such conditions or limitations as the Director-General may specify.
 
-### Delegation of Director’s functions, duties and powers
+[4/2002 wef 01/07/2002]
 
-4\.—(1) The Director may, with the approval of the Minister, authorise —
+### Public servants
 
-(a) any employee or agent of a statutory corporation;
+4\. Any authorised officer who is generally or specially authorised under section 3(2) to perform or exercise all or any of the functions, duties or powers which are imposed or conferred by this Act or the regulations upon the Director-General shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
 
-(b) any member of a Town Council;
-
-(c) any member of any committee of a Town Council; or
-
-(d) any employee or agent of a Town Council,
-
-generally or specially authorised by name or office to perform or exercise all or any of the functions, duties or powers which are imposed or conferred by this Act or the regulations upon the Director subject to the direction and control of the Director.
-
-(2) Any person who is generally or specially authorised under subsection (1) to perform or exercise all or any of the functions, duties or powers which are imposed or conferred by this Act or the regulations upon the Director shall be deemed to be —
-
-(a) a public officer for the purposes of this Act; and
-
-(b) a public servant within the meaning of the Penal Code (Cap. 224).
+[4/2002 wef 01/07/2002]
 
 ### Protection from personal liability
 
-5\.—(1) No liability shall lie against the Government or any authorised officer by reason of the fact that any works are carried out in accordance with the provisions of this Act or the regulations or that such works or plans of the works are subject to inspection, approval or certification by the Director or an authorised officer.
+5\.—(1) No liability shall lie against the Agency or any authorised officer by reason of the fact that any works are carried out in accordance with the provisions of this Act or the regulations or that such works or plans of the works are subject to inspection, approval or certification by the Director-General or an authorised officer.
 
-(2) Nothing in this Act or the regulations shall make it obligatory for the Director or any authorised officer to inspect any building or works or the site of any proposed works to ascertain whether the provisions of this Act or the regulations are complied with or whether any plans, certificates, reports, notices or other documents submitted to him are accurate.
+(2) Nothing in this Act or the regulations shall make it obligatory for the Director-General or any authorised officer to inspect any building or works or the site of any proposed works to ascertain whether the provisions of this Act or the regulations are complied with or whether any plans, certificates, reports, notices or other documents submitted to him are accurate.
 
-(3) No matter or thing done by the Director or by any authorised officer shall, if it were done in good faith for the purpose of carrying out the provisions of this Act or the regulations, subject him or such person personally to any action, liability, claim or demand whatsoever.
+(3) No matter or thing done by the Director-General or by any authorised officer shall, if it were done in good faith for the purpose of carrying out the provisions of this Act or the regulations, subject him or such person personally to any action, liability, claim or demand whatsoever.
 
-(4) Where the Director or any authorised officer provides any information to any person in respect of any building or works by electronic or other means, neither the Government, the Director nor any authorised officer shall be liable for any loss or damage suffered by any person by reason of any error or omission of whatever nature or howsoever caused, including any defect or breakdown in the equipment used for providing the information, if such error or omission is made in good faith and in the ordinary course of duties of the Director or authorised officer.
+(4) Where the Director-General or any authorised officer provides any information to any person in respect of any building or works by electronic or other means, neither the Agency, the Director-General nor any authorised officer shall be liable for any loss or damage suffered by any person by reason of any error or omission of whatever nature or howsoever caused, including any defect or breakdown in the equipment used for providing the information, if such error or omission is made in good faith and in the ordinary course of duties of the Director-General or authorised officer.
 
 ## PART III
 
@@ -412,11 +412,11 @@ USE OF SCHEDULED PREMISES
 
 ### Licence for use of scheduled premises
 
-6\.—(1) No person shall occupy or use any scheduled premises specified in the First Schedule without a licence granted by the Director .
+6\.—(1) No person shall occupy or use any scheduled premises specified in the First Schedule without a licence granted by the Director-General.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-(3) Any application for a licence under this section shall be made to the Director giving details of —
+(3) Any application for a licence under this section shall be made to the Director-General giving details of —
 
 (a) the trade, industry or process proposed to be carried in or on the premises;
 
@@ -424,9 +424,9 @@ USE OF SCHEDULED PREMISES
 
 (c) the measures the applicant undertakes to adopt to manage hazardous substances and to treat and dispose of toxic substances originating from or stored within the premises.
 
-### Power of Director to attach conditions to licence
+### Power of Director-General to attach conditions to licence
 
-7\. Without prejudice to the generality of section 32, the Director may, in granting a licence under section 6, impose conditions to ensure that pollution of the environment, as well as hazardous substances are adequately managed and controlled which may include but not be limited to the following:
+7\. Without prejudice to the generality of section 32, the Director-General may, in granting a licence under section 6, impose conditions to ensure that pollution of the environment, as well as hazardous substances are adequately managed and controlled which may include but not be limited to the following:
 
 (a) requiring the owner or occupier —
 
@@ -444,13 +444,13 @@ USE OF SCHEDULED PREMISES
 
 (vii) to carry out any of the requirements imposed on him under this paragraph within such period as may be specified;
 
-(b) prohibiting the owner or occupier from altering or replacing any control equipment or treatment plant installed in or on the scheduled premises except with the approval of the Director; or
+(b) prohibiting the owner or occupier from altering or replacing any control equipment or treatment plant installed in or on the scheduled premises except with the approval of the Director-General; or
 
-(c) prohibiting the owner or occupier from operating any fuel burning equipment or industrial plant installed or altered after the licence has been granted unless approval to do so has been given by the Director.
+(c) prohibiting the owner or occupier from operating any fuel burning equipment or industrial plant installed or altered after the licence has been granted unless approval to do so has been given by the Director-General.
 
 ### Permit for certain works on scheduled premises
 
-8\.—(1) The owner or occupier of any scheduled premises shall not without the written permission of the Director —
+8\.—(1) The owner or occupier of any scheduled premises shall not without the written permission of the Director-General —
 
 (a) alter the method of operation of any trade or industrial process, fuel burning equipment, control equipment, treatment plant or industrial plant in or on the scheduled premises;
 
@@ -458,13 +458,13 @@ USE OF SCHEDULED PREMISES
 
 (c) erect or alter the height or dimension of any chimney through which air impurities may be emitted from the scheduled premises; or
 
-(d) use any fuel other than the type of fuel specified in writing by the Director.
+(d) use any fuel other than the type of fuel specified in writing by the Director-General.
 
 (2) An application for a permit under subsection (1) shall contain details of the proposed installation, alteration, replacement or erection.
 
 ### Change of owner or occupier
 
-9\. Where there has been any change in the ownership or occupancy of any scheduled premises, the person who becomes the owner or occupier thereof shall notify the Director in writing of such change within 14 days from the date he becomes the owner or occupier of those premises.
+9\. Where there has been any change in the ownership or occupancy of any scheduled premises, the person who becomes the owner or occupier thereof shall notify the Director-General in writing of such change within 14 days from the date he becomes the owner or occupier of those premises.
 
 ## PART IV
 
@@ -490,15 +490,15 @@ AIR POLLUTION CONTROL
 
 (2) Where any such standard has not been so prescribed, it shall be the duty of the owner or occupier of any industrial or trade premises to conduct any trade or industrial process or operate any fuel burning equipment or industrial plant in or on the premises by the best practicable means available as may be necessary to prevent or minimise air pollution.
 
-(3) If any dispute arises as to the best practicable means available for the purposes of subsection (2), it shall be determined by the Director.
+(3) If any dispute arises as to the best practicable means available for the purposes of subsection (2), it shall be determined by the Director-General.
 
-(4) The Director may, in respect of a specified period of time, by notice in writing require the owner or occupier of any industrial or trade premises to ensure that any air impurity exceeding a specified amount shall not be emitted during that period.
+(4) The Director-General may, in respect of a specified period of time, by notice in writing require the owner or occupier of any industrial or trade premises to ensure that any air impurity exceeding a specified amount shall not be emitted during that period.
 
-(5) The Minister mayby regulations provide for the control or prohibition of the emission of air impurities from any other source.
+(5) The Agency may, with the approval of the Minister, by regulations provide for the control or prohibition of the emission of air impurities from any other source.
 
-### Power of Director to require work on any premises
+### Power of Director-General to require work on any premises
 
-13\.—(1) Where, in the opinion of the Director, any air impurities are being or are likely to be emitted from any industrial or trade premises, the Director may by notice in writing require the owner or occupier of the premises —
+13\.—(1) Where, in the opinion of the Director-General, any air impurities are being or are likely to be emitted from any industrial or trade premises, the Director-General may by notice in writing require the owner or occupier of the premises —
 
 (a) to install and operate any industrial plant, air pollution control equipment or additional air pollution control equipment, in or on the premises;
 
@@ -520,7 +520,7 @@ within such time and in such manner as may be specified in the notice.
 
 ### Power to prohibit use of combustible materials, fuel burning equipment or industrial plants in designated areas
 
-14\.—(1) The Minister may,by order published in theGazette—
+14\.—(1) The Agency may, with the approval of the Minister, by order published in theGazette—
 
 (a) prohibit or restrict the use of any or any class of combustible material, fuel burning equipment or industrial plant as may be specified in the order; or
 
@@ -544,13 +544,13 @@ WATER POLLUTION CONTROL
 
 ### Licence for the discharge of trade effluent, oil, chemical, sewage or other polluting matters
 
-15\.—(1) Any person who discharges or causes or permits to be discharged any trade effluent, oil, chemical, sewage or other polluting matters into any drain or land, without a licence from the Director , shall be guilty of an offence.
+15\.—(1) Any person who discharges or causes or permits to be discharged any trade effluent, oil, chemical, sewage or other polluting matters into any drain or land, without a licence from the Director-General, shall be guilty of an offence.
 
 (2) Where any trade effluent, oil, chemical, sewage or other polluting matters has been discharged from any premises into any drain or land, it shall be presumed, until the contrary is proved, that the occupier of the premises, other than a principal contractor to which section 35 applies, had discharged or caused or permitted to be discharged the trade effluent, oil, chemical, sewage or other polluting matters in contravention of subsection (1).
 
-(3) Subject to subsection (4), any person who causes or suffers any trade effluent, oil, chemical, sewage or other polluting matters to enter or pass into any drain or land without a licence from the Director (whether wilfully or by accident) shall immediately inform the Director of such occurrence.
+(3) Subject to subsection (4), any person who causes or suffers any trade effluent, oil, chemical, sewage or other polluting matters to enter or pass into any drain or land without a licence from the Director-General (whether wilfully or by accident) shall immediately inform the Director-General of such occurrence.
 
-(4) The requirements in subsection (3) may be waived by the Director in any case where the amount of trade effluent, oil, chemical, sewage or other polluting matters is, in the opinion of the Director, not of a substantial nature.
+(4) The requirements in subsection (3) may be waived by the Director-General in any case where the amount of trade effluent, oil, chemical, sewage or other polluting matters is, in the opinion of the Director-General, not of a substantial nature.
 
 (5) Any person who fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
@@ -560,7 +560,7 @@ WATER POLLUTION CONTROL
 
 16\.—(1) The occupier of any premises shall treat any trade effluent discharged therefrom in such manner as may be prescribed before such trade effluent is discharged into any drain or land in pursuance of a licence granted under section 15.
 
-(2) A person using, working or operating any plant for the purpose of treating any trade effluent shall use, work or operate and maintain such plant in such manner as the Director may require.
+(2) A person using, working or operating any plant for the purpose of treating any trade effluent shall use, work or operate and maintain such plant in such manner as the Director-General may require.
 
 (3) Any person who fails to comply with subsection (1) or (2) shall be guilty of an offence and shall be liable —
 
@@ -576,11 +576,11 @@ WATER POLLUTION CONTROL
 
 (b) be punished on a second or subsequent conviction with both imprisonment for a term of not less than one month and not more than 12 months and a fine not exceeding $100,000.
 
-(2) Where a person carrying on any trade or business has been convicted of a second or subsequent offence under subsection (1)(b) for the discharge of, or for causing or permitting the discharge of, any toxic substance or hazardous substance which is produced by any process or work in connection with that trade or business, the Minister may, by order in writing, direct that person to immediately cease carrying on that process or work either indefinitely or for such period as may be specified in the order.
+(2) Where a person carrying on any trade or business has been convicted of a second or subsequent offence under subsection (1)(b) for the discharge of, or for causing or permitting the discharge of, any toxic substance or hazardous substance which is produced by any process or work in connection with that trade or business, the Agency may, by order in writing, direct that person to immediately cease carrying on that process or work either indefinitely or for such period as may be specified in the order.
 
 (3) Any person who fails to comply with an order made under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
 
-(4) If any person fails to comply with an order made under subsection (2), the Director may take such step or measure as is necessary to ensure that the order is complied with and the reasonable costs and expenses incurred by the Director in taking such step or measure shall be recoverable from the person in default as a debt due to the Government.
+(4) If any person fails to comply with an order made under subsection (2), the Director-General may take such step or measure as is necessary to ensure that the order is complied with and the reasonable costs and expenses incurred by the Director-General in taking such step or measure shall be recoverable from the person in default as a debt due to the Agency.
 
 (5) For the purposes of this section —
 
@@ -594,15 +594,15 @@ WATER POLLUTION CONTROL
 
 (6) No prosecution shall be instituted under this section without the written consent of the Public Prosecutor.
 
-### Power of Director to require the removal and cleaning up of toxic substance or trade effluent, oil, chemical, sewage, hazardous substance or other polluting matters
+### Power of Director-General to require the removal and cleaning up of toxic substance or trade effluent, oil, chemical, sewage, hazardous substance or other polluting matters
 
-18\.—(1) The Director may, by notice in writing, require any person who has discharged or caused or permitted to be discharged or spilled any toxic substance, trade effluent, oil, chemical, sewage, hazardous substance or polluting matters onto any land or into any drain or the sea, to remove and clean up such toxic substance, trade effluent, oil, chemical, sewage, hazardous substance or polluting matters within a specified time to be fixed by the Director as he considers fit.
+18\.—(1) The Director-General may, by notice in writing, require any person who has discharged or caused or permitted to be discharged or spilled any toxic substance, trade effluent, oil, chemical, sewage, hazardous substance or polluting matters onto any land or into any drain or the sea, to remove and clean up such toxic substance, trade effluent, oil, chemical, sewage, hazardous substance or polluting matters within a specified time to be fixed by the Director-General as he considers fit.
 
 (2) Any person who fails to comply with a notice issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
-### Power of Director to require measures to be taken to prevent water pollution due to storage or transportation of toxic substances or any other polluting matters
+### Power of Director-General to require measures to be taken to prevent water pollution due to storage or transportation of toxic substances or any other polluting matters
 
-19\.—(1) The Director may, by notice in writing, require any person who effects, permits or carries out any activity related to the storage or transportation of toxic substance or any other polluting matters —
+19\.—(1) The Director-General may, by notice in writing, require any person who effects, permits or carries out any activity related to the storage or transportation of toxic substance or any other polluting matters —
 
 (a) to use a method of storage, operation or process to prevent water pollution;
 
@@ -618,7 +618,7 @@ WATER POLLUTION CONTROL
 
 (g) to prepare and submit contingency plan for events of accidental discharge or spillage of oil, chemicals, trade effluent or other polluting matters; and
 
-(h) to carry out any works as required by the Director that are necessary to prevent water pollution.
+(h) to carry out any works as required by the Director-General that are necessary to prevent water pollution.
 
 (2) Any person who fails to comply with any requirement in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
@@ -628,7 +628,7 @@ LAND POLLUTION CONTROL
 
 ### Pollution of land
 
-20\. The Minister maymake regulations to control the pollution of land whereby the condition of the land is so changed as to make or be likely to make the land or the produce of the land obnoxious, noxious or poisonous.
+20\. The Agency may, with the approval of the Minister, make regulations to control the pollution of land whereby the condition of the land is so changed as to make or be likely to make the land or the produce of the land obnoxious, noxious or poisonous.
 
 ## PART VII
 
@@ -644,7 +644,7 @@ HAZARDOUS SUBSTANCES CONTROL
 
 ### General prohibition with respect to importation and sale of hazardous substances
 
-22\.—(1) No person shall import, possess for sale, sell or offer for sale any hazardous substance unless he holds a licence granted by the Director for such purpose.
+22\.—(1) No person shall import, possess for sale, sell or offer for sale any hazardous substance unless he holds a licence granted by the Director-General for such purpose.
 
 (2) Every licence granted to any person under this section shall not be transferable to any other person and no licence shall authorise the import, possession for sale, sale or offer for sale of any hazardous substance by any individual other than the individual named therein.
 
@@ -658,9 +658,9 @@ HAZARDOUS SUBSTANCES CONTROL
 
 (b) the sale is effected by or under the personal supervision of the person named in the licence; and
 
-(c) proper records of the sale as required by the Director are kept.
+(c) proper records of the sale as required by the Director-General are kept.
 
-(2) No person shall possess for sale, sell or offer for sale any hazardous substance unless the container of the hazardous substance is labelled in the manner prescribed in regulations made by the Minister.
+(2) No person shall possess for sale, sell or offer for sale any hazardous substance unless the container of the hazardous substance is labelled in the manner prescribed in regulations made by the Agency, with the approval of the Minister.
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
 
@@ -672,17 +672,17 @@ HAZARDOUS SUBSTANCES CONTROL
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-### Power of Director to require removal of hazardous substances from premises
+### Power of Director-General to require removal of hazardous substances from premises
 
-25\.—(1) If, in the opinion of the Director, the hazardous substance stored or kept in any premises is likely to threaten the health or safety of any person or to cause pollution of the environment, he may, by notice in writing, require the owner or occupier of any premises to remove the hazardous substance to a disposal facility.
+25\.—(1) If, in the opinion of the Director-General, the hazardous substance stored or kept in any premises is likely to threaten the health or safety of any person or to cause pollution of the environment, he may, by notice in writing, require the owner or occupier of any premises to remove the hazardous substance to a disposal facility.
 
-(2) The Director may, by notice in writing, require the owner or occupier upon whom a notice has been served under subsection (1) to furnish evidence that the hazardous substance stored or kept in the premises has been disposed of at a disposal facility in accordance with the notice.
+(2) The Director-General may, by notice in writing, require the owner or occupier upon whom a notice has been served under subsection (1) to furnish evidence that the hazardous substance stored or kept in the premises has been disposed of at a disposal facility in accordance with the notice.
 
 (3) Any person who fails to comply with a notice made under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
 ### Power to require owner or occupier of hazardous installations to carry out impact analysis studies
 
-26\.—(1) The Director may, by notice in writing served on the owner or occupier of any installation, whether fixed or mobile, which is used or intended to be used to carry out activities involving the storage, handling and use of hazardous substances, require the owner or occupier to carry out —
+26\.—(1) The Director-General may, by notice in writing served on the owner or occupier of any installation, whether fixed or mobile, which is used or intended to be used to carry out activities involving the storage, handling and use of hazardous substances, require the owner or occupier to carry out —
 
 (a) identification of all possible potential hazards that may threaten the health or safety of any person, or cause pollution of the environment;
 
@@ -694,17 +694,17 @@ HAZARDOUS SUBSTANCES CONTROL
 
 (e) identification of all necessary preventive measures to avoid and control the hazards identified in paragraph (a) and formulation of a programme to implement the measures.
 
-(2) The Director may, by notice in writing, require the owner or occupier —
+(2) The Director-General may, by notice in writing, require the owner or occupier —
 
 (a) to conduct a review and evaluation of any existing measures for the prevention, reduction or control of any potential hazard that may endanger public health or cause pollution of the environment for the purpose of ascertaining whether such measures are sufficient or effective;
 
-(b) to submit for the Director’s approval, within such time as may be specified by the Director , a proposal for the implementation of such new or additional measures for the prevention, reduction or control of any potential hazard that may endanger public health or cause pollution of the environment; and
+(b) to submit for the Director-General’s approval, within such time as may be specified by the Director-General, a proposal for the implementation of such new or additional measures for the prevention, reduction or control of any potential hazard that may endanger public health or cause pollution of the environment; and
 
-(c) to implement such new or additional measures for the prevention, reduction or control of any potential hazard that may endanger public health or cause pollution of the environment as the Director may approve or specify.
+(c) to implement such new or additional measures for the prevention, reduction or control of any potential hazard that may endanger public health or cause pollution of the environment as the Director-General may approve or specify.
 
-(3) The review and evaluation referred to in subsection (2)(a) shall be conducted in such manner as the Director may, by notice in writing, require and the Director may issue guidelines for this purpose.
+(3) The review and evaluation referred to in subsection (2)(a) shall be conducted in such manner as the Director-General may, by notice in writing, require and the Director-General may issue guidelines for this purpose.
 
-(4) The Director may, by notice in writing, if he considers it necessary —
+(4) The Director-General may, by notice in writing, if he considers it necessary —
 
 (a) require any modification or addition to be made to the measures proposed by the owner or occupier under subsection (2)(b); or
 
@@ -722,7 +722,7 @@ NOISE CONTROL
 
 ### Control of noise from construction of building and other works
 
-28\.—(1) Where it appears to the Director that works of the following description, that is to say —
+28\.—(1) Where it appears to the Director-General that works of the following description, that is to say —
 
 (a) the erection, construction, alteration, repair or maintenance of buildings, structures or roads;
 
@@ -732,7 +732,7 @@ NOISE CONTROL
 
 (d) any other work of engineering construction,
 
-are being, or are going to be carried out on any premises, he may, by notice in writing, impose requirements as to the way in which the works are to be carried out on the person who appears to be carrying out, or going to carry out the works or on such other person appearing to the Director to be responsible for or to have control over the carrying out of such works.
+are being, or are going to be carried out on any premises, he may, by notice in writing, impose requirements as to the way in which the works are to be carried out on the person who appears to be carrying out, or going to carry out the works or on such other person appearing to the Director-General to be responsible for or to have control over the carrying out of such works.
 
 (2) The notice may, in particular, specify —
 
@@ -748,13 +748,13 @@ are being, or are going to be carried out on any premises, he may, by notice in 
 
 (b) contravenes any regulations in relation to noise emitted from the premises referred to in subsection (1),
 
-the Director may, by notice in writing, order him to stop any work carried out in the premises referred to in subsection (1) until such time as the notice is revoked or until such time as the requirements imposed by the Director have been complied with.
+the Director-General may, by notice in writing, order him to stop any work carried out in the premises referred to in subsection (1) until such time as the notice is revoked or until such time as the requirements imposed by the Director-General have been complied with.
 
 (4) Any person who fails to comply with a notice issued under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 for every day during which the notice is not complied with or to imprisonment for a term not exceeding 3 months or to both.
 
 ### Control of noise from work place
 
-29\.—(1) The Director may, by notice in writing served on the owner or occupier of any work place, prohibit him from causing, permitting or allowing —
+29\.—(1) The Director-General may, by notice in writing served on the owner or occupier of any work place, prohibit him from causing, permitting or allowing —
 
 (a) any specified activity to be carried out in or on those premises; or
 
@@ -762,7 +762,7 @@ the Director may, by notice in writing, order him to stop any work carried out i
 
 in such a manner as to cause the emission from those premises of noise that, when measured at any specified point (whether within or outside those premises), is in excess of the specified level.
 
-(2) Where the Director is satisfied that any noise is being or is likely to be emitted from any work place, the Director may, by a noise control notice in writing served on the owner or occupier, require the owner or occupier —
+(2) Where the Director-General is satisfied that any noise is being or is likely to be emitted from any work place, the Director-General may, by a noise control notice in writing served on the owner or occupier, require the owner or occupier —
 
 (a) to install, alter, maintain or operate any noise control equipment specified in the notice in or on those premises;
 
@@ -770,13 +770,13 @@ in such a manner as to cause the emission from those premises of noise that, whe
 
 (c) to erect a noise barrier in or on those premises;
 
-(d) to install plant of a specified type, where the Director is satisfied that the use of that plant will result in the prevention or reduction of the emission of noise from those premises; or
+(d) to install plant of a specified type, where the Director-General is satisfied that the use of that plant will result in the prevention or reduction of the emission of noise from those premises; or
 
-(e) to carry out repairs or adjustments to specified plant, equipment, apparatus, device, machine or mechanism, where the Director is satisfied that the carrying out of those repairs or adjustments will result in the prevention or reduction of the emission of noise from those premises,
+(e) to carry out repairs or adjustments to specified plant, equipment, apparatus, device, machine or mechanism, where the Director-General is satisfied that the carrying out of those repairs or adjustments will result in the prevention or reduction of the emission of noise from those premises,
 
 within the time and in the manner specified in the notice.
 
-(3) The Director may, by notice in writing served on the owner or occupier of any work place, require the owner or occupier to operate, in accordance with any directions contained in the notice, any noise control equipment in or on those premises.
+(3) The Director-General may, by notice in writing served on the owner or occupier of any work place, require the owner or occupier to operate, in accordance with any directions contained in the notice, any noise control equipment in or on those premises.
 
 (4) Where a person who has been served with a notice under subsection (1), (2) or (3) —
 
@@ -784,15 +784,15 @@ within the time and in the manner specified in the notice.
 
 (b) contravenes any regulations in relation to noise emitted from any work place,
 
-the Director may, by notice in writing, order that person to stop any work or activity carried out in the work place until the notice is revoked or until such time as the requirements imposed by the Director have been complied with.
+the Director-General may, by notice in writing, order that person to stop any work or activity carried out in the work place until the notice is revoked or until such time as the requirements imposed by the Director-General have been complied with.
 
 (5) Any person who fails to comply with a notice issued under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 for every day during which the notice is not complied with or to imprisonment for a term not exceeding 3 months or to both.
 
 (6) In this section, “plant” means any plant, equipment, apparatus, device, machine or mechanism.
 
-### Director to have regard to certain provisions
+### Director-General to have regard to certain provisions
 
-30\. In acting under section 28 or 29, the Director shall have regard —
+30\. In acting under section 28 or 29, the Director-General shall have regard —
 
 (a) to the relevant provisions of any code of practice published or referred to in the regulations;
 
@@ -806,9 +806,9 @@ LICENCES AND INDUSTRIAL PLANT WORKS
 
 ### Single licence
 
-31\.—(1) Where a person is required by virtue of the provisions of this Act or the regulations to obtain more than one licence, he may apply to the Director for a single licence to carry out the activities specified in his application and the Director may, if he thinks fit, grant or refuse to grant the single licence.
+31\.—(1) Where a person is required by virtue of the provisions of this Act or the regulations to obtain more than one licence, he may apply to the Director-General for a single licence to carry out the activities specified in his application and the Director-General may, if he thinks fit, grant or refuse to grant the single licence.
 
-(2) If the holder of the licence is in breach of any restriction or condition subject to which it was granted or is in contravention of such of the provisions of this Act or the regulations as may affect the licence, the Director may instead of suspending, cancelling or revoking the single licence under section 32(1A) —
+(2) If the holder of the licence is in breach of any restriction or condition subject to which it was granted or is in contravention of such of the provisions of this Act or the regulations as may affect the licence, the Director-General may instead of suspending, cancelling or revoking the single licence under section 32(1A) —
 
 (a) prohibit the licensee from carrying out one or more activities specified in the single licence; or
 
@@ -816,59 +816,59 @@ LICENCES AND INDUSTRIAL PLANT WORKS
 
 ### General provisions on licences
 
-32\.—(1) The grant or renewal of any licence shall be at the discretion of the Director.
+32\.—(1) The grant or renewal of any licence shall be at the discretion of the Director-General.
 
 (1A) Any licence —
 
 (a) may be granted, renewed or refused without giving any reason;
 
-(b) may be granted or renewed subject to such restrictions and conditions as the Director may think fit; and
+(b) may be granted or renewed subject to such restrictions and conditions as the Director-General may think fit; and
 
-(c) shall be subject to suspension, cancellation or revocation at any time without compensation and without notice by the Director upon breach of any restriction or condition subject to which it was granted or to any contravention of such of the provisions of this Act or the regulations as may affect the licence.
+(c) shall be subject to suspension, cancellation or revocation at any time without compensation and without notice by the Director-General upon breach of any restriction or condition subject to which it was granted or to any contravention of such of the provisions of this Act or the regulations as may affect the licence.
 
-(2) The Director may amend or delete any of the conditions imposed on any licence or impose additional conditions without giving any reasons and at any time during the validity period of the licence.
+(2) The Director-General may amend or delete any of the conditions imposed on any licence or impose additional conditions without giving any reasons and at any time during the validity period of the licence.
 
-(3) An application for a licence shall be made in such form and contain such particulars and information as the Director may determine.
+(3) An application for a licence shall be made in such form and contain such particulars and information as the Director-General may determine.
 
-(4) The Director may require any applicant for a licence to furnish such information and evidence as he may reasonably require for a full and proper consideration of the application and, in the event of a refusal to furnish the information, shall refuse to grant or renew the licence.
+(4) The Director-General may require any applicant for a licence to furnish such information and evidence as he may reasonably require for a full and proper consideration of the application and, in the event of a refusal to furnish the information, shall refuse to grant or renew the licence.
 
 (5) Any person who wilfully furnishes any false information in any application for a licence shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and any licence granted shall be void and of no effect.
 
-(6) Subject to the provisions of this Act, any licence may be for such period as the Director thinks fit.
+(6) Subject to the provisions of this Act, any licence may be for such period as the Director-General thinks fit.
 
-(7) There shall be charged in respect of any application for the grant, amendment or renewal of any licence, such fee, if any, as may be prescribed by the Minister.
+(7) There shall be charged in respect of any application for the grant, amendment or renewal of any licence, such fee, if any, as may be prescribed by the Agency, with the approval of the Minister.
 
-(8) Where a licence is granted or renewed for a period of less than 12 months, the Director may charge a proportionate fee therefor; and in so charging any part of a month shall be reckoned as one month.
+(8) Where a licence is granted or renewed for a period of less than 12 months, the Director-General may charge a proportionate fee therefor; and in so charging any part of a month shall be reckoned as one month.
 
 (9) No licensee shall be entitled to any refund of any fee paid by him in respect of any licence.
 
-(10) No person shall in any manner transfer any licence or permit any licence to be used by any other person without the approval in writing of the Director.
+(10) No person shall in any manner transfer any licence or permit any licence to be used by any other person without the approval in writing of the Director-General.
 
-(11) Subject to the provisions of this Act, any person aggrieved by the refusal by the Director to grant, amend or renew a licence or by the suspension or revocation by the Director of any licence may, within 14 days of such refusal, suspension or revocation, appeal to the Minister whose decision shall be final.
+(11) Subject to the provisions of this Act, any person aggrieved by the refusal by the Director-General to grant, amend or renew a licence or by the suspension or revocation by the Director-General of any licence may, within 14 days of such refusal, suspension or revocation, appeal to the Minister whose decision shall be final.
 
-(12) For the purpose of this section, “licence” includes any approval, permit, permission, authority or authorisation which may be granted or renewed by the Director in pursuance of this Act or the regulations.
+(12) For the purpose of this section, “licence” includes any approval, permit, permission, authority or authorisation which may be granted or renewed by the Director-General in pursuance of this Act or the regulations.
 
 ### Certificates required for industrial plant works
 
-33\.—(1) No person shall commence or carry out, or cause or permit the carrying out of any industrial plant works without the Director certifying that the plans of the industrial plant works comply with such requirements as he may specify for the purposes of this Act (referred to in this section as a clearance certificate).
+33\.—(1) No person shall commence or carry out, or cause or permit the carrying out of any industrial plant works without the Director-General certifying that the plans of the industrial plant works comply with such requirements as he may specify for the purposes of this Act (referred to in this section as a clearance certificate).
 
-(2) Every application under this section shall be made by a qualified person or any approved person in such form and manner as the Director may require.
+(2) Every application under this section shall be made by a qualified person or any approved person in such form and manner as the Director-General may require.
 
-(3) There shall be charged, for the processing of every application under this section, such fees as may be prescribed by the Minister.
+(3) There shall be charged, for the processing of every application under this section, such fees as may be prescribed by the Agency, with the approval of the Minister.
 
-(4) Every applicant under this section shall submit to such filing authority as the Director may designate, in such form and manner as the Director may determine, plans of the industrial plant works to which the application relates showing such details or specifications as the Director may require.
+(4) Every applicant under this section shall submit to such filing authority as the Director-General may designate, in such form and manner as the Director-General may determine, plans of the industrial plant works to which the application relates showing such details or specifications as the Director-General may require.
 
-(5) The Director may, before issuing a clearance certificate under subsection (1), give a direction in writing to the applicant to comply, within such period as may be specified in the direction, with such requirements as he may specify for the purposes of this Act.
+(5) The Director-General may, before issuing a clearance certificate under subsection (1), give a direction in writing to the applicant to comply, within such period as may be specified in the direction, with such requirements as he may specify for the purposes of this Act.
 
-(6) In issuing any clearance certificate under subsection (1), the Director may impose such conditions as he thinks fit.
+(6) In issuing any clearance certificate under subsection (1), the Director-General may impose such conditions as he thinks fit.
 
-(7) Any person for whom any industrial plant works, in respect of which a clearance certificate has been issued under subsection (1), had been carried out and completed shall apply to the Director for a further certificate that the industrial plant works have been completed in accordance with the plans submitted under subsection (4) and the conditions imposed by the Director under subsection (6) (referred to in this section as a compliance certificate).
+(7) Any person for whom any industrial plant works, in respect of which a clearance certificate has been issued under subsection (1), had been carried out and completed shall apply to the Director-General for a further certificate that the industrial plant works have been completed in accordance with the plans submitted under subsection (4) and the conditions imposed by the Director-General under subsection (6) (referred to in this section as a compliance certificate).
 
-(8) The Director may, on an application under subsection (7), require the appointed qualified person or a registered inspector appointed by such person to inspect the completed industrial plant works and submit a report stating whether the industrial plant works have been completed in accordance with the plans and the conditions imposed by the Director .
+(8) The Director-General may, on an application under subsection (7), require the appointed qualified person or a registered inspector appointed by such person to inspect the completed industrial plant works and submit a report stating whether the industrial plant works have been completed in accordance with the plans and the conditions imposed by the Director-General.
 
-(9) The Director may, after considering the report submitted under subsection (8) —
+(9) The Director-General may, after considering the report submitted under subsection (8) —
 
-(a) issue, subject to such conditions as he thinks fit, a compliance certificate that the industrial plant works have been completed in accordance with the plans submitted under subsection (4) and the conditions imposed by the Director under subsection (6); or
+(a) issue, subject to such conditions as he thinks fit, a compliance certificate that the industrial plant works have been completed in accordance with the plans submitted under subsection (4) and the conditions imposed by the Director-General under subsection (6); or
 
 (b) give a direction in writing to the applicant to comply within such period as may be specified in the direction, with such requirements as he may specify for the purposes of this Act.
 
@@ -876,9 +876,9 @@ LICENCES AND INDUSTRIAL PLANT WORKS
 
 ### Registration, appointment and duties of registered inspectors
 
-34\.—(1) The Director shall keep and maintain a register in which shall be entered the names and prescribed particulars of all persons registered under this section as registered inspectors.
+34\.—(1) The Director-General shall keep and maintain a register in which shall be entered the names and prescribed particulars of all persons registered under this section as registered inspectors.
 
-(2) The Minister mayby regulations provide for —
+(2) The Agency may, with the approval of the Minister, by regulations provide for —
 
 (a) the manner and form in which the register is to be kept and open for inspection;
 
@@ -910,7 +910,7 @@ ENVIRONMENTAL POLLUTION CONTROL MEASURES
 
 (4) For the purposes of subsection (3), a defendant shall not be presumed to have exercised due diligence unless he had taken all reasonable measures to prevent the offence from being committed at the construction site, including all the measures prescribed under subsection (5) in respect of the construction site.
 
-(5) For the purposes of subsection (4), the Minister may,by notification in theGazette, prescribe the measures that are required to be taken by the principal contractor of the construction site.
+(5) For the purposes of subsection (4), the Agency may, with the approval of the Minister, by notification in theGazette, prescribe the measures that are required to be taken by the principal contractor of the construction site.
 
 (6) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to the same punishment for an offence under section 14, 15 or 17, as the case may be.
 
@@ -918,17 +918,17 @@ ENVIRONMENTAL POLLUTION CONTROL MEASURES
 
 ### Study on pollution control
 
-36\.—(1) The Director may, by notice in writing, require any person intending to carry out any activity that, in the opinion of the Director , is likely to cause substantial pollution of the environment or increase the level of such pollution —
+36\.—(1) The Director-General may, by notice in writing, require any person intending to carry out any activity that, in the opinion of the Director-General, is likely to cause substantial pollution of the environment or increase the level of such pollution —
 
 (a) to carry out a study on environmental pollution control and related matters;
 
-(b) to submit for the Director’s approval, within such time as may be specified by the Director , a proposal for the implementation of such measures for the prevention, reduction or control of pollution of the environment; and
+(b) to submit for the Director-General’s approval, within such time as may be specified by the Director-General, a proposal for the implementation of such measures for the prevention, reduction or control of pollution of the environment; and
 
-(c) to implement such measures for the prevention, reduction or control of pollution of the environment as the Director may approve or specify.
+(c) to implement such measures for the prevention, reduction or control of pollution of the environment as the Director-General may approve or specify.
 
-(2) The study referred to in subsection (1) shall be conducted in such manner as the Director may, by notice in writing, require, and for this purpose, the Director may issue guidelines for the conduct of such study.
+(2) The study referred to in subsection (1) shall be conducted in such manner as the Director-General may, by notice in writing, require, and for this purpose, the Director may issue guidelines for the conduct of such study.
 
-(3) The Director may, by notice in writing, if he considers it necessary —
+(3) The Director-General may, by notice in writing, if he considers it necessary —
 
 (a) require any modification or addition to be made to the measures proposed by the person under subsection (1)(b); or
 
@@ -938,7 +938,7 @@ ENVIRONMENTAL POLLUTION CONTROL MEASURES
 
 ### Self-monitoring and submission of results
 
-37\.—(1) The Director may, by notice in writing, require the owner or occupier of any premises from which any air impurity, trade effluent or hazardous substance is generated and emitted into the atmosphere, discharged into the public sewerage system or any land, drain or inland waters to install suitable monitoring equipment or system at any point along the line of discharge, to monitor the quality or quantity of such emission or discharge or both.
+37\.—(1) The Director-General may, by notice in writing, require the owner or occupier of any premises from which any air impurity, trade effluent or hazardous substance is generated and emitted into the atmosphere, discharged into the public sewerage system or any land, drain or inland waters to install suitable monitoring equipment or system at any point along the line of discharge, to monitor the quality or quantity of such emission or discharge or both.
 
 (2) The owner or occupier of such premises with monitoring equipment or system installed shall —
 
@@ -946,17 +946,17 @@ ENVIRONMENTAL POLLUTION CONTROL MEASURES
 
 (b) keep a proper record of all monitoring results; and
 
-(c) submit the records to the Director as may be required by the Director.
+(c) submit the records to the Director-General as may be required by the Director-General.
 
 (3) Any monitoring result which shows that any standard prescribed in the regulations has not been complied with shall, until the contrary is proved, be admissible as evidence in any proceedings against the owner or occupier of such premises for failure to comply with any provision of this Act or the regulations.
 
-(4) Without prejudice to the generality of subsection (3), the Director may, by notice in writing, require the owner or occupier of such premises to install further suitable devices or systems to prevent the emission of air impurities, discharge of trade effluent or emission or discharge of any hazardous substance, if the level of emission or discharge fails to comply with the prescribed standards or requirements.
+(4) Without prejudice to the generality of subsection (3), the Director-General may, by notice in writing, require the owner or occupier of such premises to install further suitable devices or systems to prevent the emission of air impurities, discharge of trade effluent or emission or discharge of any hazardous substance, if the level of emission or discharge fails to comply with the prescribed standards or requirements.
 
-(5) Any person who, without the written consent of the Director , alters or causes to be altered any monitoring equipment or system referred to in subsection (1) shall be guilty of an offence.
+(5) Any person who, without the written consent of the Director-General, alters or causes to be altered any monitoring equipment or system referred to in subsection (1) shall be guilty of an offence.
 
 ### Regulations for mandatory insurance
 
-38\.—(1) The Minister maymake regulations to require an owner or occupier of industrial or trade premises or a person who handles, stores, transports or uses hazardous substances to take out and maintain policies of insurance in such circumstances and against liabilities for such risks, costs or damages as may be prescribed in the regulations.
+38\.—(1) The Agency may, with the approval of the Minister, make regulations to require an owner or occupier of industrial or trade premises or a person who handles, stores, transports or uses hazardous substances to take out and maintain policies of insurance in such circumstances and against liabilities for such risks, costs or damages as may be prescribed in the regulations.
 
 (2) Without prejudice to the generality of subsection (1), the regulations may provide for —
 
@@ -968,7 +968,7 @@ ENVIRONMENTAL POLLUTION CONTROL MEASURES
 
 ### Power to prohibit work and processes in certain circumstances
 
-39\.—(1) Where the Minister has reason to believe that the emission of air impurities, the discharge of trade effluent or the emission or discharge of any hazardous substance or toxic substance from any premises is likely to cause pollution of the environment or be injurious to public health or safety, the Minister may by order direct the owner or occupier of the premises —
+39\.—(1) Where the Agency has reason to believe that the emission of air impurities, the discharge of trade effluent or the emission or discharge of any hazardous substance or toxic substance from any premises is likely to cause pollution of the environment or be injurious to public health or safety, the Agency may by order direct the owner or occupier of the premises —
 
 (a) to cease forthwith the conduct of any trade or industrial process, or operation of any fuel burning equipment or industrial plant, in or on the premises which produces the air impurities, trade effluent, hazardous substance or toxic substance in or for such period as may be specified in the order;
 
@@ -978,17 +978,17 @@ ENVIRONMENTAL POLLUTION CONTROL MEASURES
 
 (2) The owner or occupier of any premises who fails to comply with an order made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
 
-(3) Where the owner or occupier of any premises has failed to comply with an order made under subsection (1), the Director may, at all reasonable times, enter upon the premises and take such measures and execute such work as may be necessary to comply with the order.
+(3) Where the owner or occupier of any premises has failed to comply with an order made under subsection (1), the Director-General may, at all reasonable times, enter upon the premises and take such measures and execute such work as may be necessary to comply with the order.
 
 (4) Any person who is aggrieved by an order made under subsection (1) may, within 30 days from the date of the order, appeal to the High Court which may rescind or vary the order.
 
-(5) Notwithstanding that an appeal has been made under subsection (4), an aggrieved person shall comply with the order pending the outcome of the appeal to the High Court and the Director may exercise the powers conferred under subsection (3).
+(5) Notwithstanding that an appeal has been made under subsection (4), an aggrieved person shall comply with the order pending the outcome of the appeal to the High Court and the Director-General may exercise the powers conferred under subsection (3).
 
 ### Advisory and technical committees
 
-40\.—(1) The Minister may, from time to time, appoint such advisory or technical committees as he thinks necessary for any of the purposes of this Act or the regulations.
+40\.—(1) The Agency may, from time to time, appoint such advisory or technical committees as the Agency thinks necessary for any of the purposes of this Act or the regulations.
 
-(2) The composition of such committees and the terms of appointment of the members shall be determined by the Minister .
+(2) The composition of such committees and the terms of appointment of the members shall be determined by the Agency.
 
 ## PART XI
 
@@ -1000,11 +1000,11 @@ ENFORCEMENT
 
 (a) he shall, unless he satisfies the court that he has used all due diligence to comply with the notice or order, be guilty of an offence and shall, where no penalty is provided for such default, be liable on conviction to a fine not exceeding $20,000; and
 
-(b) the Director or any authorised officer may enter the premises under section 47 and execute the works specified in the notice or order.
+(b) the Director-General or any authorised officer may enter the premises under section 47 and execute the works specified in the notice or order.
 
-(2) Any expenses reasonably incurred by the Director under subsection (1)(b) may be recovered from the person in default and section 51 and, if that person is the owner of the premises, section 53 shall apply in respect of those expenses.
+(2) Any expenses reasonably incurred by the Director-General under subsection (1)(b) may be recovered from the person in default and section 51 and, if that person is the owner of the premises, section 53 shall apply in respect of those expenses.
 
-(3) Nothing in this section shall be construed as prohibiting the Director from carrying out any works specified in any such notice or order at the request of a person who has been served with the notice or order upon an undertaking by that person to pay the costs and expenses in executing the works.
+(3) Nothing in this section shall be construed as prohibiting the Director-General from carrying out any works specified in any such notice or order at the request of a person who has been served with the notice or order upon an undertaking by that person to pay the costs and expenses in executing the works.
 
 ### Appeal against notice or order
 
@@ -1022,25 +1022,25 @@ ENFORCEMENT
 
 (b) the immediate execution of the notice or order will not cause any injury to the person against whom the notice or order was made which cannot be compensated by damages,
 
-the Minister may authorise the Director immediately to execute the work.
+the Minister may authorise the Director-General immediately to execute the work.
 
-(4) The Director shall, if he carries out the work and the appeal is successful, pay the costs and expenses of the work and any damages sustained by the appellant by reason of the work.
+(4) The Director-General shall, if he carries out the work and the appeal is successful, pay the costs and expenses of the work and any damages sustained by the appellant by reason of the work.
 
-(5) The Director may, if he carries out the work and the appeal is dismissed or abandoned, recover the costs and expenses of the work from the appellant and section 51 and, if the appellant is the owner of the premises in respect of which the notice or order was made, section 53 shall apply to any sum recoverable from him hereunder.
+(5) The Director-General may, if he carries out the work and the appeal is dismissed or abandoned, recover the costs and expenses of the work from the appellant and section 51 and, if the appellant is the owner of the premises in respect of which the notice or order was made, section 53 shall apply to any sum recoverable from him hereunder.
 
 ### Power to demand names and addresses
 
-43\.—(1) The Director or any authorised officer may require any owner or occupier of any premises or any principal contractor referred to in section 35 to give his name and address and such other proof of identity, and to furnish such other particulars, as the Director or authorised officer may require for the purposes of this Act.
+43\.—(1) The Director-General or any authorised officer may require any owner or occupier of any premises or any principal contractor referred to in section 35 to give his name and address and such other proof of identity, and to furnish such other particulars, as the Director-General or authorised officer may require for the purposes of this Act.
 
-(2) Any person who, upon being required by the Director or any authorised officer to give his name and address or other proof of identity or to furnish any particulars under subsection (1), refuses to do so or wilfully mis-states his name and address or proof of identity or furnishes false particulars shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(2) Any person who, upon being required by the Director-General or any authorised officer to give his name and address or other proof of identity or to furnish any particulars under subsection (1), refuses to do so or wilfully mis-states his name and address or proof of identity or furnishes false particulars shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-(3) The Director may, by notice in writing, require any person to furnish such other information as may be necessary for the purposes of this Act or the regulations.
+(3) The Director-General may, by notice in writing, require any person to furnish such other information as may be necessary for the purposes of this Act or the regulations.
 
 (4) Any person who fails without reasonable excuse to comply with any requirement of subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-### Powers of Director to examine and secure attendance
+### Powers of Director-General to examine and secure attendance
 
-44\.—(1) The Director or any authorised officer may —
+44\.—(1) The Director-General or any authorised officer may —
 
 (a) examine orally any person supposed to be acquainted with the facts and circumstances of matters under this Act or the regulations, and to reduce to writing any statement made by the person so examined; and
 
@@ -1050,11 +1050,11 @@ the Minister may authorise the Director immediately to execute the work.
 
 (3) A statement made under this section by any person shall be read over to him and shall, after correction, if necessary, be signed by him.
 
-(4) If any person fails to attend as required by an order under subsection (1)(b), the Director may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
+(4) If any person fails to attend as required by an order under subsection (1)(b), the Director-General may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
 
 ### Powers of arrest
 
-45\.—(1) The Director, an authorised officer or a police officer may arrest any person, whom the Director or officer has reason to believe has committed an offence under this Act or the regulations, if the name and address of the person are unknown to him and —
+45\.—(1) The Director-General, an authorised officer or a police officer may arrest any person, whom the Director-General or officer has reason to believe has committed an offence under this Act or the regulations, if the name and address of the person are unknown to him and —
 
 (a) the person declines to give his name and address; or
 
@@ -1064,21 +1064,21 @@ the Minister may authorise the Director immediately to execute the work.
 
 (3) No person so arrested shall be detained longer than is necessary for bringing him before a court.
 
-### Director may act in cases of emergency
+### Director-General may act in cases of emergency
 
-46\. Where the Director considers it necessary in the case of an emergency, he may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act or the regulations which is in his opinion necessary to prevent injury or danger to public health or serious pollution of the environment.
+46\. Where the Director-General considers it necessary in the case of an emergency, he may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act or the regulations which is in his opinion necessary to prevent injury or danger to public health or serious pollution of the environment.
 
 ### Power of entry
 
-47\.—(1) The Director or any authorised officer may, for the purposes of this Act or the regulations, enter at all reasonable hours in the day time any premises with such assistants and workmen as are necessary for the purpose of making any survey, inspection or investigation and executing any work authorised by this Act or the regulations.
+47\.—(1) The Director-General or any authorised officer may, for the purposes of this Act or the regulations, enter at all reasonable hours in the day time any premises with such assistants and workmen as are necessary for the purpose of making any survey, inspection or investigation and executing any work authorised by this Act or the regulations.
 
 (2) Unless the consent of the occupier has been obtained therefor, no person shall enter into any dwelling-house in actual occupation under this section without 6 hours’ previous notice to the occupier.
 
-(3) For the purposes of this section, the Minister may declare that any class of premises is liable to night inspection, and thereupon the Director or any authorised officer, with such assistants and workmen as are necessary, may, at any time of the day or night and without notice, enter using such force as may be necessary and search or inspect any premises of the class specified in the declaration.
+(3) For the purposes of this section, the Agency may, with the approval of the Minister, declare that any class of premises is liable to night inspection, and thereupon the Director-General or any authorised officer, with such assistants and workmen as are necessary, may, at any time of the day or night and without notice, enter using such force as may be necessary and search or inspect any premises of the class specified in the declaration.
 
 ### Power to enter on land adjacent to works
 
-48\.—(1) The Director or any authorised officer, with such assistants and workmen as are necessary, may enter upon any land, adjoining or being within 100 metres of any works by this Act or the regulations authorised to be executed —
+48\.—(1) The Director-General or any authorised officer, with such assistants and workmen as are necessary, may enter upon any land, adjoining or being within 100 metres of any works by this Act or the regulations authorised to be executed —
 
 (a) for the purpose of depositing upon that land any soil, gravel, sand, lime, brick, stone or other materials; or
 
@@ -1086,29 +1086,29 @@ the Minister may authorise the Director immediately to execute the work.
 
 without making any previous payment, tender or deposit and doing as little damage as may be in the exercise of the powers under this subsection.
 
-(2) The Director shall make compensation —
+(2) The Director-General shall make compensation —
 
 (a) to the owner and the occupier for such temporary occupation or temporary damage of the land from time to time and as often as any such temporary occupation is taken or any such temporary damage done; and
 
 (b) to the owner for the permanent injury, if any, to the land.
 
-(3) Before the Director makes any use of any land under subsection (1), he shall give 7 days’ notice of his intention to the owner and the occupier of the land.
+(3) Before the Director-General makes any use of any land under subsection (1), he shall give 7 days’ notice of his intention to the owner and the occupier of the land.
 
-### Penalty for obstructing Director in his duty
+### Penalty for obstructing Director-General in his duty
 
 49\. Any person who at any time —
 
-(a) hinders or obstructs the Director or any authorised officer in the performance or execution of his duty or of any thing which he is empowered or required to do under this Act or the regulations;
+(a) hinders or obstructs the Director-General or any authorised officer in the performance or execution of his duty or of any thing which he is empowered or required to do under this Act or the regulations;
 
 (b) interferes with any work authorised to be executed under this Act or the regulations; or
 
-(c) fails to facilitate by all reasonable means the entry and inspection of any premises by the Director or any authorised officer or the examination of any equipment, industrial plant, container or the making of any tests which the Director or any authorised officer is empowered under this Act or the regulations to make,
+(c) fails to facilitate by all reasonable means the entry and inspection of any premises by the Director-General or any authorised officer or the examination of any equipment, industrial plant, container or the making of any tests which the Director-General or any authorised officer is empowered under this Act or the regulations to make,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 ### Powers of search and seizure
 
-50\. If the Director has reason to believe that any hazardous or toxic substance is being kept, stored, processed, treated, discharged or deposited, or air impurities are being emitted, or any hazardous or toxic substance or trade effluent is being discharged without his consent, the Director or any authorised officer may —
+50\. If the Director-General has reason to believe that any hazardous or toxic substance is being kept, stored, processed, treated, discharged or deposited, or air impurities are being emitted, or any hazardous or toxic substance or trade effluent is being discharged without his consent, the Director-General or any authorised officer may —
 
 (a) search the premises and take possession of any substance found therein and reasonably believed to be or contain hazardous substances;
 
@@ -1118,7 +1118,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) seal the samples and require the owner of the materials to send the samples to an analyst for analysis and bear any costs and expenses arising therefrom;
 
-(e) require the owner or analyst to submit the results of the analysis to the Director;
+(e) require the owner or analyst to submit the results of the analysis to the Director-General;
 
 (f) take such photographs as he thinks necessary for the purposes of this Act or the regulations; and
 
@@ -1138,7 +1138,7 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 (b) make such order concerning the expenses or their apportionment as appears to the Court to be just; and
 
-(c) where those expenses were incurred under section 41(1)(b) by the Director in carrying out any works specified in a notice, inquire whether any requirement specified in the notice was reasonable.
+(c) where those expenses were incurred under section 41(1)(b) by the Director-General in carrying out any works specified in a notice, inquire whether any requirement specified in the notice was reasonable.
 
 (3) The Magistrate’s Court or the District Court shall not order the expenses or any part thereof to be borne by any person other than the defendant in the proceedings unless the Court is satisfied that the other person has had due notice of the proceedings and an opportunity of being heard.
 
@@ -1146,33 +1146,39 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 (5) An appeal shall lie to the High Court from any decision of a Magistrate’s Court or a District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, to all such appeals.
 
+### Fees, etc., payable to Agency
+
+51A\. All fees, charges, composition fines and moneys collected under this Act or the regulations shall be paid to the Agency.
+
+[4/2002 wef 01/07/2002]
+
 ### Occupier may execute work where owner defaults in execution of work
 
-52\.—(1) Whenever default is made by an owner of any premises in the execution of any work required under this Act or the regulations to be executed by him, an occupier of the premises may, with the approval of the Director, cause the work to be executed.
+52\.—(1) Whenever default is made by an owner of any premises in the execution of any work required under this Act or the regulations to be executed by him, an occupier of the premises may, with the approval of the Director-General, cause the work to be executed.
 
 (2) The expense of the work executed under subsection (1) shall be paid to the occupier by the owner of the premises or the amount may be deducted out of the rent from time to time becoming due from him to the owner, and the occupier may, in the absence of any special agreement to the contrary, retain possession until that expense has been fully reimbursed to him.
 
 ### Recovery of costs and expenses payable by owners
 
-53\.—(1) All sums payable by or recoverable from an owner of any premises in respect of costs and expenses incurred by the Government in connection with the execution of any work which are under this Act or the regulations recoverable from an owner of any premises shall, subject and without prejudice to any other rights of the Government, be a first charge on the premises in respect of which the costs and expenses were incurred.
+53\.—(1) All sums payable by or recoverable from an owner of any premises in respect of costs and expenses incurred by the Agency in connection with the execution of any work which are under this Act or the regulations recoverable from an owner of any premises shall, subject and without prejudice to any other rights of the Agency, be a first charge on the premises in respect of which the costs and expenses were incurred.
 
 (2) In addition to any other remedies conferred by this Act, any such sum may be recovered in the manner provided in this section, and the person or persons liable to pay it shall be the owner or owners at the time when the work was completed.
 
 (3) If any such sum remains unpaid at the expiration of the prescribed time, a notice shall be served upon the person or any one of the persons, if more than one, liable to pay it, calling on him to pay that sum together with a fee of such amount as may be prescribed for the cost of the notice, within 15 days of the date of service of such notice.
 
-(4) Without prejudice to section 66, if no person liable to pay the sum can be found, such notice shall be deemed to have been duly served by the posting thereof at the office of the Director and by fixing a copy thereof on some conspicuous part of the premises in respect of which the costs and expenses were incurred.
+(4) Without prejudice to section 66, if no person liable to pay the sum can be found, such notice shall be deemed to have been duly served by the posting thereof at the office of the Director-General and by fixing a copy thereof on some conspicuous part of the premises in respect of which the costs and expenses were incurred.
 
-(5) At the expiration of the period of 15 days or such further period as may be allowed by the Director, if any such sum or part thereof remains due and unpaid, it shall be deemed to be arrears and may be recovered as provided in section 55.
+(5) At the expiration of the period of 15 days or such further period as may be allowed by the Director-General, if any such sum or part thereof remains due and unpaid, it shall be deemed to be arrears and may be recovered as provided in section 55.
 
 (6) The charge mentioned in subsection (1) shall attach, and the powers and remedies conferred by subsections (2) to (5) shall become exercisable, as from the date of completion of the work.
 
 (7) Notwithstanding any change in the ownership or occupation of the premises after the completion of the work, the charge and the powers and remedies referred to in subsection (6) may be exercised against the premises or against any movable property or crops for the time being found thereon.
 
-(8) An occupier who, when requested by or on behalf of the Director to state the name of the owner of the premises, refuses or wilfully omits to disclose or wilfully mis-states the name shall, unless he shows cause to the satisfaction of the court for his refusal or mis-statement, be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(8) An occupier who, when requested by or on behalf of the Director-General to state the name of the owner of the premises, refuses or wilfully omits to disclose or wilfully mis-states the name shall, unless he shows cause to the satisfaction of the court for his refusal or mis-statement, be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 ### Recovery of costs and expenses by instalments
 
-54\.—(1) When the Director has incurred costs and expenses in or about the execution of any work, which are, under this Act or the regulations, payable by or recoverable from an owner, the Director may —
+54\.—(1) When the Director-General has incurred costs and expenses in or about the execution of any work, which are, under this Act or the regulations, payable by or recoverable from an owner, the Director-General may —
 
 (a) recover those costs and expenses in the manner provided in section 53; or
 
@@ -1182,35 +1188,35 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 ### Proceedings for recovery of arrears
 
-55\.—(1) For the recovery of arrears, the Director shall have and may exercise, either successively or concurrently, in addition to any other remedies conferred by this Act the following powers:
+55\.—(1) For the recovery of arrears, the Director-General shall have and may exercise, either successively or concurrently, in addition to any other remedies conferred by this Act the following powers:
 
-(a) the Director may issue a warrant of attachment and may seize by virtue thereof any movable property and crops of any person liable to pay the arrears and may also seize any movable property or crops to whomever it belongs which are found on the premises in respect of which the arrears are due and may, after service of the prescribed notice, sell the same by public auction in the prescribed manner;
+(a) the Director-General may issue a warrant of attachment and may seize by virtue thereof any movable property and crops of any person liable to pay the arrears and may also seize any movable property or crops to whomever it belongs which are found on the premises in respect of which the arrears are due and may, after service of the prescribed notice, sell the same by public auction in the prescribed manner;
 
-(b) the Director may, by notice of sale to be served or published in the prescribed manner, declare his intention to sell, at the expiration of 3 months from the date of the notice of sale, the premises in respect of which the arrears are due and, if, at the expiration of that period, the arrears have not been paid or satisfied, the Director may sell by public auction, in lots or otherwise, the whole of the premises or such portion thereof or such interest therein as he considers sufficient for the recovery of the arrears and costs.
+(b) the Director-General may, by notice of sale to be served or published in the prescribed manner, declare his intention to sell, at the expiration of 3 months from the date of the notice of sale, the premises in respect of which the arrears are due and, if, at the expiration of that period, the arrears have not been paid or satisfied, the Director-General may sell by public auction, in lots or otherwise, the whole of the premises or such portion thereof or such interest therein as he considers sufficient for the recovery of the arrears and costs.
 
-(2) The Director shall not proceed under subsection (1)(b) to sell the premises in respect of which the arrears are due, or any portion thereof or interest therein, where there is or are upon the premises and liable to be seized and sold under subsection (1)(a) any movable property or crops belonging to the owner of a value estimated by the Director to be sufficient to realise the sum required to satisfy the arrears and costs.
+(2) The Director-General shall not proceed under subsection (1)(b) to sell the premises in respect of which the arrears are due, or any portion thereof or interest therein, where there is or are upon the premises and liable to be seized and sold under subsection (1)(a) any movable property or crops belonging to the owner of a value estimated by the Director-General to be sufficient to realise the sum required to satisfy the arrears and costs.
 
 (3) Any tenant, sub-tenant or occupier who, in order to avoid the seizure or sale of his property for arrears payable by the owner of the premises, pays the arrears and costs may thereafter, in the absence of any written agreement to the contrary, deduct the amount so paid by him from the rent due or to become due by him to his immediate landlord on account of the premises or such part thereof as is held or occupied by him, and may retain possession until that amount has been fully reimbursed to him whether by deduction from the rent or otherwise.
 
 (4) Any tenant or sub-tenant who has reimbursed, whether by allowing a deduction from his rent or otherwise, any sub-tenant or occupier holding or occupying under him the amount so paid by that sub-tenant or occupier shall have a similar right to deduct the amount from the rent due or to become due to his immediate landlord and to retain possession until similarly reimbursed.
 
-(5) The receipt of any public officer duly authorised in writing by the Director in that behalf for any amount so paid by any such tenant, sub-tenant or occupier shall be deemed an acquittance in full for the like amount of rent.
+(5) The receipt of any authorised officer for any amount so paid by any such tenant, sub-tenant or occupier shall be deemed an acquittance in full for the like amount of rent.
 
-(6) If any premises in respect of which arrears are due, or any such movable property or crops as are mentioned in subsection (1) or the proceeds of sale thereof are already in the custody of the law under any process of execution whereby the Director is unable to exercise the remedies conferred under subsections (1) to (5), the Director —
+(6) If any premises in respect of which arrears are due, or any such movable property or crops as are mentioned in subsection (1) or the proceeds of sale thereof are already in the custody of the law under any process of execution whereby the Director-General is unable to exercise the remedies conferred under subsections (1) to (5), the Director-General —
 
 (a) may notify the Sheriff or the bailiff of the court concerned of the amount of the arrears; and
 
 (b) shall be entitled without obtaining a judgment to be paid that amount out of the proceeds of sale of the premises or property in priority to the judgment debtor and to the judgment creditor and to any other creditor except the Government.
 
-(7) A certificate from the Director shall, unless it is disputed by the judgment debtor, be conclusive evidence of the amount of such arrears, and, in case of dispute, the amount shall be summarily determined by a Magistrate’s Court.
+(7) A certificate from the Director-General shall, unless it is disputed by the judgment debtor, be conclusive evidence of the amount of such arrears, and, in case of dispute, the amount shall be summarily determined by a Magistrate’s Court.
 
-(8) Where any premises which is not registered land is sold under subsection (1)(b), the Director shall have the power to execute the conveyance and the purchaser of the premises shall not be concerned to inquire whether the provisions of this Act relating to the sale and the conveyance have been complied with nor otherwise to inquire into the regularity or validity of the sale and conveyance.
+(8) Where any premises which is not registered land is sold under subsection (1)(b), the Director-General shall have the power to execute the conveyance and the purchaser of the premises shall not be concerned to inquire whether the provisions of this Act relating to the sale and the conveyance have been complied with nor otherwise to inquire into the regularity or validity of the sale and conveyance.
 
 (9) Section 144 of the Land Titles Act (Cap. 157) shall apply, with the necessary modifications, to any premises sold under subsection (1)(b) which is registered land.
 
 ### Attachment
 
-56\.—(1) The attachment mentioned in section 55(1)(a) may be made by a person appointed for the purpose by the Director who shall give public notice of the attachment in the prescribed manner and shall take an inventory of the property attached.
+56\.—(1) The attachment mentioned in section 55(1)(a) may be made by a person appointed for the purpose by the Director-General who shall give public notice of the attachment in the prescribed manner and shall take an inventory of the property attached.
 
 (2) A person appointed under subsection (1) shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
 
@@ -1220,7 +1226,7 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 57\.—(1) The proceeds of a sale under section 55(1) and (2) shall be applied in the first place in satisfaction of the arrears together with interest thereon at the prescribed rate and costs.
 
-(2) Where there is any surplus remaining, the Director shall —
+(2) Where there is any surplus remaining, the Director-General shall —
 
 (a) if satisfied as to the right of any person claiming the surplus, pay the amount thereof to that person; or
 
@@ -1228,11 +1234,11 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 (3) If no title is established to the surplus within a period of 5 years from the date of the sale, it shall be paid into the Consolidated Fund.
 
-### Title acquired by purchaser at sale by Director
+### Title acquired by purchaser at sale by Director-General
 
-58\.—(1) The purchaser at a sale held under section 55(1)(b) shall be deemed to have acquired the right offered for sale free from all encumbrances created over it and from all subordinate interests derived from it except such as are expressly reserved by the Director at the time of sale.
+58\.—(1) The purchaser at a sale held under section 55(1)(b) shall be deemed to have acquired the right offered for sale free from all encumbrances created over it and from all subordinate interests derived from it except such as are expressly reserved by the Director-General at the time of sale.
 
-(2) The Director shall notify, by an advertisement published in theGazette, the result of the sale and the conveyance to the purchaser of the property or right offered for sale.
+(2) The Director-General shall notify, by an advertisement published in theGazette, the result of the sale and the conveyance to the purchaser of the property or right offered for sale.
 
 ### Costs of proceedings for recovery of arrears
 
@@ -1240,13 +1246,13 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 ### Power to stop sale
 
-60\. If any person having any interest in any property liable to be sold at any time previous to such sale tenders to the Director the arrears with interest and costs, the Director shall thereupon desist from all further proceedings in respect of the sale.
+60\. If any person having any interest in any property liable to be sold at any time previous to such sale tenders to the Director-General the arrears with interest and costs, the Director-General shall thereupon desist from all further proceedings in respect of the sale.
 
 ### Application to Court
 
 61\.—(1) If any person whose movable property, crop or land has been attached or offered for sale disputes the attachment or sale, he may apply to the High Court or, where the arrears do not exceed the District Court’s limit, to a District Court for an order to stay the proceedings.
 
-(2) The High Court or District Court, after hearing the Director and making such further inquiry as is necessary, shall make such order as is just.
+(2) The High Court or District Court, after hearing the Director-General and making such further inquiry as is necessary, shall make such order as is just.
 
 ### Security for payment of arrears
 
@@ -1254,9 +1260,9 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 ### Liability of transferor who has not given notice
 
-63\.—(1) Every person who sells or transfers any property in respect of which costs and expenses have been incurred by the Government in connection with the execution of any work which are, under this Act or the regulations, recoverable from the owner or owners thereof shall continue to be liable for the payment of all the costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act or the regulations upon the owner of the property which become payable or are to be performed at any time before such notice of transfer as is required by section 19 of the Property Tax Act (Cap. 254) has been given.
+63\.—(1) Every person who sells or transfers any property in respect of which costs and expenses have been incurred by the Agency in connection with the execution of any work which are, under this Act or the regulations, recoverable from the owner or owners thereof shall continue to be liable for the payment of all the costs and expenses payable in respect of the property and for the performance of all other obligations imposed by this Act or the regulations upon the owner of the property which become payable or are to be performed at any time before such notice of transfer as is required by section 19 of the Property Tax Act (Cap. 254) has been given.
 
-(2) Nothing in subsection (1) shall affect the liability of the purchaser or transferee to pay such costs and expenses in respect of the property or affect the right of the Director to recover such costs and expenses or to enforce any obligation under this Act or the regulations.
+(2) Nothing in subsection (1) shall affect the liability of the purchaser or transferee to pay such costs and expenses in respect of the property or affect the right of the Director-General to recover such costs and expenses or to enforce any obligation under this Act or the regulations.
 
 ### Proceedings where occupier opposes execution of work
 
@@ -1276,9 +1282,9 @@ MISCELLANEOUS PROVISIONS
 
 ### Notices, orders and other documents may be given by authorised officer
 
-65\.—(1) All notices, orders, receipts, warrants and other documents of any nature which the Director is empowered to give by this Act or the regulations may, subject to the direction of the Director, be given by any authorised officer on behalf of the Director.
+65\.—(1) All notices, orders, receipts, warrants and other documents of any nature which the Director-General is empowered to give by this Act or the regulations may, subject to the direction of the Director-General, be given by any authorised officer on behalf of the Director-General.
 
-(2) Where any such notice, order, receipt, warrant or document requires authentication, the signature or an official facsimile thereof of the Director or any public officer authorised by the Director affixed thereto shall be sufficient authentication.
+(2) Where any such notice, order, receipt, warrant or document requires authentication, the signature or an official facsimile thereof of the Director-General or any public officer authorised by the Director-General affixed thereto shall be sufficient authentication.
 
 ### Service of notices, etc.
 
@@ -1308,15 +1314,15 @@ MISCELLANEOUS PROVISIONS
 
 (b) on a second or subsequent conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
 
-(2) The court before which such conviction is heard may, in addition to such fine, order the person to pay to the Director the amount of any expense in connection with the execution of any work, together with any interest due thereon or any interest certified by the Director to be due from such person at the date of his conviction.
+(2) The court before which such conviction is heard may, in addition to such fine, order the person to pay to the Director-General the amount of any expense in connection with the execution of any work, together with any interest due thereon or any interest certified by the Director-General to be due from such person at the date of his conviction.
 
 (3) Such amount may be recovered according to any written law for the time being in force for the recovery of fines.
 
 ### Furnishing of deposits
 
-68\.—(1) Where any permit, consent or approval is given by the Director under this Act or the regulations for the execution of any work, the Director may require a deposit or other security in lieu thereof to be furnished by the person applying for the permit, consent or approval to secure the execution of the work.
+68\.—(1) Where any permit, consent or approval is given by the Director-General under this Act or the regulations for the execution of any work, the Director-General may require a deposit or other security in lieu thereof to be furnished by the person applying for the permit, consent or approval to secure the execution of the work.
 
-(2) Where any such work is not executed to the satisfaction of the Director, he may utilise the deposit or security or any part thereof to make good the defects.
+(2) Where any such work is not executed to the satisfaction of the Director-General, he may utilise the deposit or security or any part thereof to make good the defects.
 
 ### Inaccuracies in document
 
@@ -1324,9 +1330,17 @@ MISCELLANEOUS PROVISIONS
 
 (2) No proceedings taken under or by virtue of this Act or the regulations shall be invalid for want of form.
 
+### Evidence
+
+69A\.—(1) The contents of any document prepared, issued or served under or for the purposes of this Act shall, until the contrary is proved, be presumed to be correct and the production of any book purporting to contain any apportionment made under this Act shall, without any other evidence, be received as prima facie proof of the making and validity of the apportionment mentioned therein.
+
+(2) All records, registers and other documents kept by the Agency or by any authorised officer for the purposes of this Act or the regulations shall be deemed to be public documents, and copies thereof or extracts therefrom certified by the officer or employee of the Agency responsible for the custody thereof to be true copies or extracts, as the case may be, and subscribed by such officer or employee with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts therefrom.
+
+[4/2002 wef 01/07/2002]
+
 ### Evidence of analyst
 
-70\.—(1) The Director may, by instrument in writing under his hand, appoint persons who in his opinion are qualified to be analysts for the purposes of this Act.
+70\.—(1) The Director-General may, by instrument in writing under his hand, appoint persons who in his opinion are qualified to be analysts for the purposes of this Act.
 
 (2) Subject to subsection (3), a certificate of an analyst appointed under subsection (1) stating that he has analysed or examined a substance and stating the result of his analysis or examination is admissible in evidence in any proceedings for an offence under this Act or the regulations as prima facie evidence of the facts stated in the certificate and of the correctness of the result of the analysis or examination.
 
@@ -1342,11 +1356,11 @@ MISCELLANEOUS PROVISIONS
 
 ### Composition of offences
 
-72\.—(1) The Director may, in his discretion, compound any offence under this Act or the regulations which is prescribed to be a compoundable offence by accepting from the person reasonably suspected of having committed the offence a sum not exceeding $5,000.
+72\.—(1) The Director-General may, in his discretion, compound any offence under this Act or the regulations which is prescribed to be a compoundable offence by accepting from the person reasonably suspected of having committed the offence a sum not exceeding $5,000.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence except that any compensation, damages, fees, costs or expenses which are provided to be paid under this Act or the regulations shall remain payable.
 
-(3) Nothing in this section shall prevent the Director from issuing any further notice in respect of the same matter to the person who has paid such sum of money.
+(3) Nothing in this section shall prevent the Director-General from issuing any further notice in respect of the same matter to the person who has paid such sum of money.
 
 ### Jurisdiction of Courts
 
@@ -1358,7 +1372,7 @@ MISCELLANEOUS PROVISIONS
 
 ### Exemption
 
-75\. The Minister may by notification in theGazette, exempt, either generally or for such time as he may specify, any person, thing, premises or works or any class of person, thing, premises or works from any provision of this Act or the regulations.
+75\. The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, exempt any person, thing, premises or works or any class of person, thing, premises or works from any provision of this Act or the regulations.
 
 ### Amendment of Schedules
 
@@ -1370,7 +1384,7 @@ MISCELLANEOUS PROVISIONS
 
 ### Regulations
 
-77\.—(1) The Minister maymake regulations —
+77\.—(1) The Agency may, with the approval of the Minister, make regulations —
 
 (a) for or in respect of every purpose which is necessary for carrying out the provisions of this Act;
 
@@ -1378,7 +1392,7 @@ MISCELLANEOUS PROVISIONS
 
 (c) without prejudice to the generality of paragraphs (a) and (b) for or in respect of the matters specified in the Third Schedule.
 
-(2) The Minister may,in making any regulations, provide that any contravention of or failure to comply with the regulations shall be an offence punishable with a fine not exceeding $50,000 or with imprisonment for a term not exceeding 2 years or with both and, in the case of a continuing offence, with a fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
+(2) The Agency may, with the approval of the Minister, in making any regulations, provide that any contravention of or failure to comply with the regulations shall be an offence punishable with a fine not exceeding $50,000 or with imprisonment for a term not exceeding 2 years or with both and, in the case of a continuing offence, with a fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
 
 (3) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -1393,6 +1407,10 @@ MISCELLANEOUS PROVISIONS
 (3) The enactments mentioned in the Fourth Schedule shall have effect subject to the amendments to the extent therein specified (being amendments consequential on the preceding provisions of this Act).
 
 (4) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
+
+(5) Any licence, permit, document, application, approval, permission, order, direction, ruling or notice issued, made, given or approved by the Director of Environmental Pollution Control under any provision of this Act immediately before the date of commencement of the National Environment Agency Act 2002 shall be deemed to have been issued, made, given or approved under the same provision by the Director-General.
+
+[4/2002 wef 01/07/2002]
 
 FIRST SCHEDULE
 
@@ -1522,7 +1540,7 @@ Anionic surface active agents
 
 Preparations containing less than 5% by weight of anionic surface active agents;
 
-Preparations containing anionic surface active agents which are not less than 90% biodegradable under a test carried out in accordance with that part of the OECD method which is referred to as “Confirmatory Test Procedure” in European Communities Council Directive No. 73/405/EEC (C) or other equivalent test methods acceptable to the Director.
+Preparations containing anionic surface active agents which are not less than 90% biodegradable under a test carried out in accordance with that part of the OECD method which is referred to as “Confirmatory Test Procedure” in European Communities Council Directive No. 73/405/EEC (C) or other equivalent test methods acceptable to the Director-General.
 
 Antimony pentachloride
 
@@ -2463,7 +2481,7 @@ Subject Matters of Regulations
 
 2\. The prescribing of types of air pollution control equipment that may be used in or on any industrial or trade premises and the manner in which such equipment shall be operated and maintained.
 
-3\. The prescribing of assistance and facilities (including access to, and the means of making examinations, inspections and tests) to be provided by the occupiers of industrial or trade premises to enable the Director and authorised officers to exercise their powers under this Act.
+3\. The prescribing of assistance and facilities (including access to, and the means of making examinations, inspections and tests) to be provided by the occupiers of industrial or trade premises to enable the Director-General and authorised officers to exercise their powers under this Act.
 
 4\. The prescribing of standards of concentration or rates of emission of air impurities from any source of air pollution, including motor vehicles and industrial plant, and the method of making tests for the purposes of ascertaining whether any of the provisions of this Act or any conditions attached to a licence or to an exemption are being or have been complied with.
 
@@ -2473,7 +2491,7 @@ Subject Matters of Regulations
 
 7\. The prescribing of types and composition of fuel to be used.
 
-8\. The prescribing of returns of any information, statistics and data relating to air, water or noise pollution to be furnished to the Director and the contents thereof, and the persons or classes of persons who are required to furnish such returns.
+8\. The prescribing of returns of any information, statistics and data relating to air, water or noise pollution to be furnished to the Director-General and the contents thereof, and the persons or classes of persons who are required to furnish such returns.
 
 9\. The prevention of misuse or contamination of water.
 
@@ -2521,7 +2539,7 @@ References to the repealed Clean Air Act
 
 References to Director of Air Pollution Control
 
-2\. In any written law, any reference to the Director of Air Pollution Control shall be read as a reference to the Director of Environmental Pollution Control.
+2\. In any written law, any reference to the Director of Air Pollution Control shall be read as a reference to the Director-General.
 
 ## LEGISLATIVE HISTORY
 
@@ -2542,6 +2560,11 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of operation|30 December 2000|
 |3.|**G. N. No. S 605/2000—Environmental Pollution Control (Amendment Of Second Schedule) Order 2000**|
 ||Date of commencement|1 January 2001|
+|4.|**Act 4 of 2002—National Environment Agency Act 2002**|
+||Date of First Reading|3 May 2002|
+|||(Bill No. 13/2002 published on 21 June 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|1 July 2002|
 ## COMPARATIVE TABLE
 
 Environmental Pollution Control Act
