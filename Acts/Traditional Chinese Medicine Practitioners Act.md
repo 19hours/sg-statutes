@@ -110,7 +110,9 @@ REVISED EDITION 2001
 
 An Act to provide for the registration of traditional Chinese medicine practitioners and for purposes connected therewith.
 
-[7th February 2001: except sections 24 and 25 ]
+[7th February 2001: except sections 24 and 25 ;
+
+1st January 2002: sections 24 and 25 ]
 
 ## PART I
 
@@ -692,7 +694,7 @@ Traditional Chinese Medicine Practitioners Act
 
 (CHAPTER 333A)
 
-This Legislative History is provided for the convenience of users of the Traditional Chinese Medicine Practitioners Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Traditional Chinese Medicine Practitioners Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -706,6 +708,14 @@ This Legislative History is provided for the convenience of users of the Traditi
 (except sections 24 and 25)|
 |2.|**2001 Revised Edition—Traditional Chinese Medicine Practitioners Act**|
 ||Date of operation|31 December 2001|
+|3.|**Act 34 of 2000—Traditional Chinese Medicine Practitioners Act 2000**|
+||Date of First Reading|9 October 2000|
+|||(Bill No. 30/2000 published on 10 October 2000)|
+||Date of Second and Third Readings|14 November 2000|
+||Date of commencement|1 January 2002|
+
+|
+(sections 24 and 25)|
 ## COMPARATIVE TABLE
 
 Traditional Chinese Medicine Practitioners Act
