@@ -1,14 +1,12 @@
-**Temasek Polytechnic Act 1990**
+**Temasek Polytechnic Act**
 
-**(No. 5 of 1990)**
+**(CHAPTER 323A)**
 
 **Table of Contents**
 
 [**Long Title**](#Temasek-Polytechnic-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -44,49 +42,31 @@
 
 - [18 Presentation of financial statements and auditor’s report to Parliament](#Presentation-of-financial-statements-and-auditor’s-report-to-Parliament)
 
-- [19 Annual report](#Annual-report)
+- [19 Annual Report](#Annual-Report)
 
 - [20 Application of Societies Act to Students’ Union](#Application-of-Societies-Act-to-Students’-Union)
 
-[**THE SCHEDULE Constitution of Temasek Polytechnic**](#THE-SCHEDULE)
+[**THE SCHEDULE**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Temasek Polytechnic Act
 
-ACTS SUPPLEMENT
+(CHAPTER 323A)
 
-Published by Authority
+(Original Enactment: Act 5 of 1990)
 
-NO. 10]
+REVISED EDITION 1991
 
-Friday, April 6
-
-[1990
-
-The following Act was passed by Parliament on 28th March 1990 and assented to by the President on 31st March 1990:—
-
-Temasek Polytechnic Act 1990
-
-(No. 5 of 1990)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-31st March 1990.
-
-Date of Commencement: 6th April 1990
+(1st March 1991)
 
 An Act for the establishment and incorporation of a polytechnic to be known as Temasek Polytechnic and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[6th April 1990]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Temasek Polytechnic Act 1990 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Temasek Polytechnic Act.
 
 ### Interpretation
 
@@ -152,7 +132,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 5\.—(1) The respective constitutions, functions, powers and duties of the Board and the Senate shall be prescribed by this Act and the Polytechnic Constitution.
 
-(2) The Board shall, subject to the provisions of this Act and the Polytechnic Constitution, be the supreme governing body of the Polytechnic and, subject to the provisions of this Act and the Polytechnic Constitution, it shall administer the property and manage the affairs of the Polytechnic.
+(2) The Board shall, subject to the provisions of this Act and the Polytechnic Constitution, be the supreme governing body of the Polytechnic and subject to the provisions of this Act and the Polytechnic Constitution, it shall administer the property and manage the affairs of the Polytechnic.
 
 (3) Subject to the provisions of this Act and the Polytechnic Constitution and to the financial control of the Board, the Senate shall have the regulation of all matters relating to education in the Polytechnic.
 
@@ -192,7 +172,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (3) Every such addition, amendment and re-enactment of the Polytechnic Constitution made in accordance with subsection (2) shall be published in theGazetteand may be published in such other manner as the Board may direct.
 
-(4) The Interpretation Act (Cap. 1) shall apply for the purposes of the interpretation of the Polytechnic Constitution as it applies for the purposes of the interpretation of an Act, and all expressions defined in this Act shall bear the same meaning when used in the Polytechnic Constitution, unless other provision is made in the Polytechnic Constitution, or a contrary intention otherwise appears.
+(4) The Interpretation Act [Cap. 1] shall apply for the purposes of the interpretation of the Polytechnic Constitution as it applies for the purposes of the interpretation of an Act, and all expressions defined in this Act shall bear the same meaning when used in the Polytechnic Constitution, unless other provision is made in the Polytechnic Constitution, or a contrary intention otherwise appears.
 
 (5) Regulations made under the Polytechnic Constitution need not be published in theGazetteand shall not be deemed as subsidiary legislation.
 
@@ -246,11 +226,11 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 16\.—(1) The accounts of the Polytechnic shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act (Cap. 50, 1988 Ed).
+(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
 
-(3) The auditor shall be paid out of the funds of the Polytechnic.
+(3) The remuneration of the auditor shall be paid out of the funds of the Polytechnic.
 
-(4) The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating directly or indirectly, to the financial transactions of the Polytechnic and may make copies of, or extracts from, any such accounting and other records.
+(4) The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Polytechnic and may make copies of, or extracts from, any such accounting and other records.
 
 (5) The auditor shall in his report state —
 
@@ -274,11 +254,11 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 18\.—(1) The Board shall, as soon as the financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of the auditor’s report.
 
-(2) Where the Auditor-General is not the auditor of the Polytechnic, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Board.
+(2) Where the Auditor-General is not the auditor of the Polytechnic, a copy of the audited financial statements and any reports made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Board.
 
 (3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
-### Annual report
+### Annual Report
 
 19\.—(1) The Board shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Polytechnic during the preceding financial year and containing such information relating to the proceedings and policy of the Polytechnic as the Minister may, from time to time, direct.
 
@@ -286,13 +266,13 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Application of Societies Act to Students’ Union
 
-20\.—(1) Notwithstanding anything to the contrary in the Societies Act (Cap. 311), the provisions of that Act shall apply to the Temasek Polytechnic Students’ Union and its constituent bodies constituted by the regulations.
+20\.—(1) Notwithstanding anything to the contrary in the Societies Act [Cap. 311], the provisions of that Act shall apply to the Temasek Polytechnic Students’ Union and its constituent bodies constituted by the regulations.
 
 (2) The Minister charged with the responsibility for the registration of societies may, by order published in theGazette, exempt the Temasek Polytechnic Students’ Union and any of its constituent bodies from all or any of the provisions of the Societies Act subject to such conditions as may be specified in the order.
 
 ## THE SCHEDULE
 
-Section 9
+Section 9.
 
 Constitution of Temasek Polytechnic
 
@@ -304,7 +284,7 @@ Interpretation
 
 1.—(1) In this Constitution, unless the context otherwise requires —
 
-“Act” means the Temasek Polytechnic Act 1990;
+“Act” means the Temasek Polytechnic Act;
 
 “Board” means the Board of Governors of the Polytechnic;
 
@@ -362,7 +342,7 @@ Appointment, powers and duties of Principal and Deputy Principals
 
 Registrar
 
-3.—(1) The Registrar shall be appointed by the Board upon such terms and conditions as it may determine.
+3.—(1) The Registrar shall be appointed by the Board on such terms and conditions as the Board may determine.
 
 (2) The Registrar shall —
 
@@ -388,7 +368,7 @@ Board of Governors and Senate
 
 Board of Governors
 
-5.—(1) The Board of Governors shall consist of the following members:
+5.—(1) The Board of Governors shall consist of the following members :
 
 (a) a Chairman;
 
@@ -396,7 +376,7 @@ Board of Governors
 
 (c) the Principal; and
 
-(d) such other persons, not being less than 9 or more than 15, who are appointed by the Minister.
+(d) such other persons, not being less than 9 or more than 15.
 
 (2) Every member of the Board, except the Principal, shall be appointed by the Minister and shall, unless the Minister otherwise directs, hold office for a period of 3 years from the date of his appointment and shall be eligible for reappointment.
 
@@ -404,13 +384,13 @@ Powers of Board
 
 6.—(1) The Board shall administer the affairs of the Polytechnic other than those vested by the Act or this Constitution in some other authority of the Polytechnic or in an officer.
 
-(2) Without prejudice to the generality of subsection (1), the Board shall, subject to the provisions of the Act and the Constitution, have power —
+(2) Without prejudice to the generality of subsection (1), the Board shall, subject to the provisions of the Act and this Constitution, have power —
 
-(a) to administer and manage the finances, accounts, investments, property, business, and all affairs whatsoever of the Polytechnic, and for that purpose to appoint bankers, counsel, solicitors, and such officers or agents as it may be expedient to appoint;
+(a) to administer and manage the finances, accounts, investments, property, business and all affairs whatsoever of the Polytechnic, and for that purpose to appoint bankers, counsel, solicitors and such officers or agents as it may be expedient to appoint;
 
 (b) to invest the moneys of the Polytechnic, including any unapplied income in investments authorised by the general law for the investment of trust moneys, and to invest such moneys in the purchase of freehold or leasehold property, and to vary any investments by sale and reinvestment or otherwise;
 
-(c) to purchase, grant, sell, convey, assign, surrender, and yield up, exchange, partition, mortgage, demise, reassign, transfer, and accept leases of real and personal property on behalf of the Polytechnic;
+(c) to purchase, grant, sell, convey, assign, surrender and yield up, exchange, partition, mortgage, demise, reassign, transfer and accept leases of real and personal property on behalf of the Polytechnic;
 
 (d) to provide the buildings, premises, furniture, apparatus and other means needed for the Polytechnic;
 
@@ -484,7 +464,7 @@ Meetings of Board
 
 (8) Subject to the provisions of this Constitution, the Board may make standing orders to regulate its own procedure.
 
-The Senate
+Senate
 
 10.—(1) The Senate shall consist of —
 
@@ -504,7 +484,7 @@ The Senate
 
 (5) The Registrar shall be the secretary to the Senate and shall not, unless he is appointed as a member of the Senate, be entitled to vote on any question before the Senate.
 
-Powers of the Senate
+Powers of Senate
 
 11.—(1) Subject to the provisions of the Act and this Constitution and to the availability of the funds provided by the Board, the Senate shall have power —
 
@@ -514,7 +494,7 @@ Powers of the Senate
 
 (c) to advise the Board on the provision of facilities for educational and other academic matters;
 
-(d) to decide in accordance with the Constitution and regulations which persons have qualified for the award of diplomas, certificates and other marks of distinction;
+(d) to decide in accordance with this Constitution and regulations which persons have qualified for the award of diplomas, certificates and other marks of distinction;
 
 (e) to organise the Schools;
 
@@ -526,7 +506,7 @@ Powers of the Senate
 
 (i) to advise the Board on any matter which may be referred to the Senate by the Board;
 
-(j) to delegate any of its powers to any member of the Senate or any Committee thereof or to any officer or teacher of the Polytechnic; and
+(j) to delegate any of its powers to any member of the Senate or any committee thereof or to any officer or teacher of the Polytechnic; and
 
 (k) to do all such other acts and things as may be requisite to give effect to the powers conferred on the Senate by the Act and this Constitution.
 
@@ -570,7 +550,7 @@ Financial Provisions
 
 Financial year
 
-14. The financial year of the Polytechnic shall begin on 1st April each year and end on 31st March the succeeding year:
+14. The financial year of the Polytechnic shall begin on 1st April each year and end on 31st March of the succeeding year:
 
 Provided that during the year in which the Polytechnic is established, its financial year shall commence from its date of incorporation and end on 31st March of the succeeding year.
 
@@ -590,7 +570,7 @@ Estimates
 
 Power of Board to accept gifts
 
-18.—(1) The Board may on behalf of the Polytechnic accept by way of grant, gift, testamentary disposition or otherwise, property and moneys in aid of the finances of the Polytechnic on such conditions as it may determine.
+18.—(1) The Board may on behalf of the Polytechnic accept by way of grant, gift, testamentary disposition or otherwise, property and moneys in aid of finances of the Polytechnic on such conditions as it may determine.
 
 (2) Records shall be kept of all donations to the Polytechnic including the names of donors and any special conditions on which any donation may have been given.
 
@@ -610,3 +590,20 @@ Temasek Polytechnic Students’ Union
 
 (3) The Polytechnic may impose and collect from the students or any class thereof such fees as it may determine for the benefit of the Temasek Polytechnic Students’ Union and its constituent bodies; and such fees may be applied in such manner as the Polytechnic thinks fit for the purposes of the Union and its constituent bodies.
 
+## LEGISLATIVE HISTORY
+
+Temasek Polytechnic Act
+
+(CHAPTER 323A)
+
+This Legislative History is provided for the convenience of users of the Temasek Polytechnic Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 5 of 1990—Temasek Polytechnic Act 1990**|
+||Date of First Reading|22 February 1990|
+|||(Bill No. 3/1990 published on 23 February 1990)|
+||Date of Second and Third Readings|28 March 1990|
+||Date of commencement|6 April 1990|
+|2.|**1991 Revised Edition—Temasek Polytechnic Act**|
+||Date of operation|1 March 1991|
