@@ -1104,26 +1104,6 @@ Folio
 
 Together with the buildings erected thereon
 
-235
-
-3
-
-4
-
-3980
-
-)
-
-238
-
-115
-
-4
-
-4003
-
-)
-
 180
 
 141 to 145 (both inclusive)
@@ -1550,6 +1530,8 @@ Together with the buildings erected thereon
 
 [S 52/86]
 
+[S 200/1990 wef 18/05/1990]
+
 SECOND SCHEDULE
 
 Section 7(1).
@@ -1900,3 +1882,5 @@ This Legislative History is provided for the convenience of users of the HUDC Ho
 ||Date of commencement|31 January 1986|
 |4.|**1985 Revised Edition—HUDC Housing Estates Act**|
 ||Date of operation|30 March 1987|
+|5.|**G. N. No. S 200/1990—HUDC Housing Estates Act (Amendment of First Schedule) Notification 1990**|
+||Date of commencement|18 May 1990|
