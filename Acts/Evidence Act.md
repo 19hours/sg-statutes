@@ -3410,3 +3410,9 @@ This Legislative History is provided for the convenience of users of the Evidenc
 |||(Bill No. 25/95 published on 8 July 1995)|
 ||Date of Second and Third Readings|7 August 1995|
 ||Date of commencement|1 September 1995|
+|21.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+||(Consequential amendments made by)||
+||Date of First Reading|5 December 1995|
+|||(Bill No. 46/95 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|2 February 1996|
