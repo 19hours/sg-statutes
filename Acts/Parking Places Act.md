@@ -10,15 +10,17 @@
 
 - [2 Interpretation](#Interpretation)
 
+- [2A Administration of the Act](#Administration-of-the-Act)
+
 - [3 Minister may provide parking places](#Minister-may-provide-parking-places)
 
 - [4 Use of property as a private parking place](#Use-of-property-as-a-private-parking-place)
 
 - [5 Adaptation of land for use as a parking place](#Adaptation-of-land-for-use-as-a-parking-place)
 
-- [6 Appointment of Superintendents](#Appointment-of-Superintendents)
+- [6 (Repealed)](#Repealed)
 
-- [7 Government or Authority not liable for loss or damage](#Government-or-Authority-not-liable-for-loss-or-damage)
+- [7 Government or Director-General not liable for loss or damage](#Government-or-Director-General-not-liable-for-loss-or-damage)
 
 - [8 Rules](#Rules)
 
@@ -38,9 +40,13 @@
 
 - [16 Penalty](#Penalty)
 
+- [16A Offences by corporations](#Offences-by-corporations)
+
 - [17 Service of summons, etc.](#Service-of-summons-etc)
 
-- [18 Payment of charges and fines](#Payment-of-charges-and-fines)
+- [17A Obstruction of Director-General, Superintendent, etc](#Obstruction-of-Director-General-Superintendent-etc)
+
+- [18 Payment of charges](#Payment-of-charges)
 
 - [19 Power to exempt any parking place](#Power-to-exempt-any-parking-place)
 
@@ -68,7 +74,11 @@ An Act relating to parking places.
 
 2\. In this Act, unless the context otherwise requires —
 
-“Authority” means the Urban Redevelopment Authority constituted under the Urban Redevelopment Authority Act [Cap. 340];
+[Deleted by Act 6 of 1991 wef 01/04/1991]
+
+“Director-General” means the Director-General of Public Works;
+
+[Act 6 of 1991 wef 01/04/1991]
 
 “driver” includes the person for the time being in charge or control of a vehicle, and “drive” shall be construed accordingly;
 
@@ -76,17 +86,35 @@ An Act relating to parking places.
 
 “licensee” means the holder of a valid licence;
 
+“officer” means a public officer or an employee of a statutory body;
+
+[Act 6 of 1991 wef 01/04/1991]
+
 “park” with its grammatical variations means, in respect of a vehicle, to bring the vehicle to a stationary position and cause it to wait for any purpose;
 
 “parking place” means any part of a road or any other place on or in which the parking of vehicles is authorised under section 3;
 
-“private parking place” means any land or premises or part thereof owned or occupied by any person other than the Government or the Authority and used for the parking of 5 or more motor vehicles;
+“private parking place” means any land or premises or part thereof owned or occupied by any person other than the Government and used for the parking of 5 or more motor vehicles, and includes any land or premises or part thereof used for the parking of 5 or more motor vehicles which is not authorised under section 3;
 
-“Superintendent” means the Superintendent of Car Parks or a Deputy or Assistant Superintendent of Car Parks appointed under section 6;
+[Act 6 of 1991 wef 01/04/1991]
+
+“Superintendent” means the Superintendent of Car Parks or a Deputy or Assistant Superintendent of Car Parks appointed undersection 2A;
+
+[Act 6 of 1991 wef 01/04/1991]
 
 “vehicle” means any vehicle whether mechanically propelled or otherwise.
 
 [10/82]
+
+### Administration of the Act
+
+2A\.—(1) The Director-General shall be charged with the general administration of this Act and shall exercise the powers conferred and perform the duties imposed upon him by this Act.
+
+(2) The Director-General shall appoint a public officer as the Superintendent of Car Parks who shall carry out such duties as may be assigned to him by the Director-General under this Act and any rules made thereunder.
+
+(3) The Director-General may appoint public officers and officers employed by a statutory body as Deputy Superintendents and Assistant Superintendents of Car Parks for the purposes of this Act.
+
+[Act 6 of 1991 wef 01/04/1991]
 
 ### Minister may provide parking places
 
@@ -122,15 +150,13 @@ Provided that no such order shall authorise the use of any part of a road so as 
 
 5\. The Minister may take all such steps as may be necessary to adapt for use as a parking place any land not being part of a road which he may utilise for that purpose under this Act.
 
-### Appointment of Superintendents
+6\. [Repealed by Act 6 of 1991 wef 01/04/1991]
 
-6\.—(1) The Authority shall appoint a Superintendent of Car Parks who shall be responsible for the performance of the duties and functions assigned to the Superintendent under this Act.
+### Government or Director-General not liable for loss or damage
 
-(2) The Authority may appoint such number of Deputy Superintendents and Assistant Superintendents of Car Parks as may from time to time be required for the purposes of this Act.
+7\. The exercise by the Minister of his powers under this Act with respect to the use as a parking place or otherwise of any part of a road or any other place shall not render the Government or the Director-General subject to any liability in respect of loss of or damage to any vehicle or the fittings or contents of any vehicle parked in such parking place or otherwise or to any liability in respect of any injury or death suffered by any person in such parking place or otherwise.
 
-### Government or Authority not liable for loss or damage
-
-7\. The exercise by the Minister of his powers under this Act with respect to the use as a parking place or otherwise of any part of a road or any other place shall not render the Government or the Authority subject to any liability in respect of loss of or damage to any vehicle or the fittings or contents of any vehicle parked in such parking place or otherwise.
+[Act 6 of 1991 wef 01/04/1991]
 
 ### Rules
 
@@ -164,7 +190,9 @@ Provided that no such order shall authorise the use of any part of a road so as 
 
 ### Power to compound offence
 
-12\. The Superintendent may accept from any person who is reasonably suspected of having committed an offence under this Act or any rules made thereunder a sum of money not exceeding $200 by way of composition for the offence which may have been committed.
+12\. The Superintendent may accept from any person who is reasonably suspected of having committed an offence under this Act or any rules made thereunder a sum of money not exceeding $400 by way of composition for the offence which may have been committed.
+
+[Act 6 of 1991 wef 01/04/1991]
 
 ### Duty to give information
 
@@ -174,7 +202,9 @@ Provided that no such order shall authorise the use of any part of a road so as 
 
 (b) any other person who was or should have been in charge of the motor vehicle shall, if so required as aforesaid, give any information which it is in his power to give, and which may lead to the identification of the driver, and if, within 7 days of the date on which the information was required from him, such person fails to do so, he shall be guilty of an offence unless he proves, to the satisfaction of the court, that he did not know and could not with reasonable diligence have ascertained the information required.
 
-(2) Any person who wilfully furnishes any false or misleading information under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both.
+(2) Any person who wilfully furnishes any false or misleading information under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[Act 6 of 1991 wef 01/04/1991]
 
 (3) The Superintendent or any officer authorised by the Superintendent to act in that behalf may require any information to be furnished under subsection (1) to be in writing signed by the person required to furnish the information.
 
@@ -222,21 +252,31 @@ Provided that no such order shall authorise the use of any part of a road so as 
 
 ### Power to seize abandoned vehicles
 
-15\.—(1) Where a vehicle has broken down or been permitted to remain at rest in a parking place in such a position or in such condition or in such circumstances as to appear to the Superintendent to have been abandoned without lawful authority, the Superintendent may remove the vehicle found in the parking place to a place of safety and the owner thereof shall pay all expenses incurred by the Superintendent in that behalf and all fines and charges imposed under this Act and the rules made thereunder in respect of such offence.
+15\.—(1) Where a vehicle —
 
-[10/82]
+(a) has broken down or been permitted to remain at rest in a parking place in such a position or in such condition or in such circumstances as to appear to the Superintendent to have been abandoned without lawful authority; or
 
-(2) When any vehicle is detained under this section, the Superintendent shall with all reasonable despatch give notice in writing to the owner (if the name and address of such owner are known to him) of the seizure and if the vehicle is not claimed by its owner within 3 months of the date of its detention, the Superintendent after giving one month’s notice in theGazetteof his intention to do so may sell by public auction or otherwise dispose of the vehicle. The proceeds of the sale or disposal of the vehicle shall be applied in payment of any expenses incurred in carrying out the provisions of this section and thereafter shall be applied in payment of all charges and fines payable under this Act and the rules made thereunder and the surplus, if any, shall be paid to the owner of the vehicle, or if not claimed by the owner of the vehicle within 12 months of the date of the sale or disposal shall be forfeited to the Authority.
+(b) is parked in a parking place in contravention of any provision of this Act or any rules made thereunder,
 
-(3) The Authority or the Superintendent shall not be liable for any damage to or loss of the vehicle or the contents thereof not caused wilfully or negligently by the Authority or the Superintendent or its or his employee or agent under subsections (1) and (2).
+the Superintendent may remove and detain the vehicle found in the parking place and the owner thereof shall pay all expenses incurred by the Superintendent in that behalf and all fines and charges imposed under this Act and any rules made thereunder in respect of such offence and the vehicle shall remain at the risk of the owner and the person offending until all the fines, charges and expenses have been paid.
 
-[13B
+(2) When any vehicle is detained under this section, the Superintendent shall with all reasonable despatch give notice in writing to the owner (if the name and address of the owner are known to him) of the detention and if the vehicle is not claimed by its owner within one month of the date of its detention, the Superintendent after giving one month’s notice in theGazetteof his intention to do so may sell by public auction or otherwise dispose of the vehicle. The proceeds of the sale or disposal of the vehicle shall be applied in payment of any expenses incurred in carrying out the provisions of this section and thereafter shall be applied in payment of all charges and fines payable under this Act and any rules made thereunder and the surplus, if any, shall be paid to the owner of the vehicle, or if not claimed by the owner of the vehicle within 12 months of the date of the sale or disposal shall be forfeited to the Director-General.
+
+(3) The Director-General or the Superintendent shall not be liable for any damage to or loss of the vehicle or the contents thereof not caused wilfully or negligently by the Director-General or the Superintendent or any of his employees or agents under subsections (1) and (2).
+
+[Act 6 of 1991 wef 01/04/1991]
 
 ### Penalty
 
 16\. Any person who contravenes or fails to comply with any of the provisions of this Act or any rules or orders made thereunder shall be guilty of an offence and shall be liable on conviction, where no special penalty is provided, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both and in the case of a continuing offence to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
 [14
+
+### Offences by corporations
+
+16A\. Where an offence under this Act has been committed by a body corporate and is found to have been committed with the consent or connivance of or to be attributable to any act or default on the part of any director, manager, secretary or other officer of the body corporate that director, manager, secretary or other officer as well as the body corporate shall be guilty of an offence.
+
+[Act 6 of 1991 wef 01/04/1991]
 
 ### Service of summons, etc.
 
@@ -250,15 +290,27 @@ Provided that no such order shall authorise the use of any part of a road so as 
 
 (2) Where any summons, notice, order or document is served on any person by registered post it shall be deemed to have been served within such time as it would take to arrive in the ordinary course of transmission and in proving service of the same it shall be sufficient to prove that the envelope containing the summons, notice, order or document was properly addressed, stamped and posted by registered post.
 
+(3) All notices, orders, receipts and other documents which the Superintendent is empowered to give by this Act or any rules made thereunder may be given by any officer duly authorised by the Superintendent.
+
+[Act 6 of 1991 wef 01/04/1991]
+
+(4) Where any such notice, order or document requires authentication, the signature or a facsimile thereof of the Superintendent or any officer duly authorised by the Superintendent affixed thereto shall be sufficient authentication.
+
 [15
 
-### Payment of charges and fines
+[Act 6 of 1991 wef 01/04/1991]
 
-18\. Subject to any agreement made between the Minister and any statutory body under section 3 and to any direction by the Minister, all charges collected in any parking place under the provisions of this Act and all fines imposed for an offence under this Act or any rules made thereunder shall be paid into the funds of the Authority.
+### Obstruction of Director-General, Superintendent, etc
 
-[16
+17A\. Any person who obstructs or hinders the Director-General, the Superintendent or any person acting in the discharge of his duty under this Act or any rules made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or both.
 
-[10/82]
+[Act 6 of 1991 wef 01/04/1991]
+
+### Payment of charges
+
+18\. Subject to any agreement made between the Minister and any statutory body or to any direction by the Minister, all charges collected in any parking place maintained or operated by any statutory body under the provisions of this Act and all fines imposed for an offence under this Act or any rules made thereunder shall be paid to that body.
+
+[Act 6 of 1991 wef 01/04/1991]
 
 ### Power to exempt any parking place
 
@@ -290,3 +342,8 @@ This Legislative History is provided for the convenience of users of the Parking
 ||Date of commencement|1 August 1982|
 |3.|**1985 Revised Edition—Parking Places Act (Chapter 214)**|
 ||Date of operation|30 March 1987|
+|4.|**Act 6 of 1991—Parking Places (Amendment) Act 1991**|
+||Date of First Reading|20 December 1990|
+|||(Bill No. 35/90 published on 21 December 1990)|
+||Date of Second and Third Readings|3 January 1991|
+||Date of commencement|1 April 1991|
