@@ -15398,3 +15398,9 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 36/98 published on 5 September 1998)|
 ||Date of Second and Third Readings|12 October 1998|
 ||Date of commencement|18 November 1998|
+|46.|**Act 37 of 1999—Bankruptcy (Amendment) Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 August 1999|
+|||(Bill No. 26/99 published on 4 August 1999)|
+||Date of Second and Third Readings|18 August 1999|
+||Date of commencement|15 September 1999|
