@@ -102,7 +102,7 @@
 
 - [42 Overseas documents may be admitted in evidence if duly authenticated](#Overseas-documents-may-be-admitted-in-evidence-if-duly-authenticated)
 
-- [43 Taking of evidence in respect of criminal matters pending in courts of foreign States](#Taking-of-evidence-in-respect-of-criminal-matters-pending-in-courts-of-foreign-States)
+- [43 Taking of evidence in respect of criminal matters pending in courts of foreign or Commonwealth countries.](#Taking-of-evidence-in-respect-of-criminal-matters-pending-in-courts-of-foreign-or-Commonwealth-countries)
 
 - [44 Power to make rules](#Power-to-make-rules)
 
@@ -176,7 +176,7 @@ PRELIMINARY
 
 (4) For the purposes of this Act, an offence against the law of a foreign State or declared Commonwealth country may be regarded as being an offence of a political character notwithstanding that there are not competing political parties in that State or country.
 
-(5) For the purposes of this Act—
+(5) For the purposes of this Act —
 
 (a) a colony, territory or protectorate of a foreign State or of a country other than Singapore;
 
@@ -188,7 +188,7 @@ shall, unless the contrary intention appears, each be deemed to be within the ju
 
 (6) For the purposes of this Act, a person convicted of an offence in his absence shall be treated as a person accused of that offence.
 
-(7) Without prejudice to any powers or jurisdiction conferred upon a District Judge by the Criminal Procedure Code [Cap. 68], a District Judge shall in the exercise of his jurisdiction have all the powers that are conferred upon and exercised by a Magistrate under this Act; and accordingly every reference to a Magistrate in this Act shall be read as including a reference to a District Judge.
+(7) Without prejudice to any powers or jurisdiction conferred upon a District Judge by the Criminal Procedure Code, a District Judge shall in the exercise of his jurisdiction have all the powers that are conferred upon and exercised by a Magistrate under this Act; and accordingly every reference to a Magistrate in this Act shall be read as including a reference to a District Judge.
 
 ## PART II
 
@@ -314,7 +314,7 @@ he may, if he thinks fit, by order in writing, direct that the warrant be cancel
 
 (4) If the person was apprehended under a warrant issued otherwise than in pursuance of an authority by the Minister in a notice under section 9(1)(a), the Magistrate shall remand the person in accordance with subsection (2) until the Magistrate receives a notice under section 9(1)(b) from the Minister informing the Magistrate that a requisition for the surrender of the person has been made to the Minister by a foreign State.
 
-(5) Where the Magistrate does not receive such a notice within such time as is reasonable having regard to all the circumstances, the Magistrate shall—
+(5) Where the Magistrate does not receive such a notice within such time as is reasonable having regard to all the circumstances, the Magistrate shall —
 
 (a) if the person apprehended is held in custody — order that he be released; or
 
@@ -562,7 +562,7 @@ and having regard to the circumstances under which the offence is alleged to hav
 
 (b) if, within that period, an application for a writ of habeas corpus is made by the prisoner and the court to which the application is made or, where an appeal is brought from the decision of that court to another court, the other court does not order that the prisoner be released — the expiration of the period of 15 days from the date of the decision of the first-mentioned court or the appellate court, as the case may be,
 
-whichever is the later, the Minister shall, if he is satisfied that the prisoner is liable to be surrendered to the declared Commonwealth country, by warrant in accordance with Form 6 in the Second Schedule or, where the prisoner is held in custody otherwise than at a prison, in accordance with that Form with such variations as are necessary to meet the circumstances of the case, order that the prisoner be delivered into the custody of a person specified in the warrant and be conveyed by that person to a place in that country or within the jurisidiction of, or of a part of, that country and there surrendered to some person appointed by that country to receive him.
+whichever is the later, the Minister shall, if he is satisfied that the prisoner is liable to be surrendered to the declared Commonwealth country, by warrant in accordance with Form 6 in the Second Schedule or, where the prisoner is held in custody otherwise than at a prison, in accordance with that Form with such variations as are necessary to meet the circumstances of the case, order that the prisoner be delivered into the custody of a person specified in the warrant and be conveyed by that person to a place in that country or within the jurisdiction of, or of a part of, that country and there surrendered to some person appointed by that country to receive him.
 
 (3) A warrant issued in pursuance of subsection (2) may be executed according to its tenor.
 
@@ -762,9 +762,11 @@ and the document purports to be authenticated by the oath of a witness or to be 
 
 (3) Nothing in this section shall prevent the proof of any matter, or the admission in evidence of any document, in accordance with any other law of Singapore.
 
-### Taking of evidence in respect of criminal matters pending in courts of foreign States
+### Taking of evidence in respect of criminal matters pending in courts of foreign or Commonwealth countries.
 
-43\.—(1) The Minister may, by notice in writing, authorise a Magistrate to take evidence for the purposes of a criminal matter pending in a court or tribunal of a foreign State other than a matter relating to an offence that is, by its nature or by reason of the circumstances in which it is alleged to have been committed, an offence of a political character.
+43\.—(1) The Minister may, by notice in writing, authorise a Magistrate to take evidence for the purposes of a criminal matter pending in a court or tribunal of a foreign or Commonwealth country other than a matter relating to an offence that is, by its nature or by reason of the circumstances in which it is alleged to have been committed, an offence of a political character.
+
+[Act 35/93]
 
 (2) Upon receipt of the notice, the Magistrate shall —
 
@@ -774,9 +776,13 @@ and the document purports to be authenticated by the oath of a witness or to be 
 
 (c) cause the writing so certified to be sent to the Minister.
 
-(3) The evidence of such a witness may be taken in the presence or absence of the person charged with the offence against the law of, or of the part of, the foreign State and the certificate by the Magistrate that the evidence was taken by him shall state whether the person so charged was present or absent when the evidence was taken.
+(3) The evidence of such a witness may be taken in the presence or absence of the person charged with the offence against the law of, or of the part of, the foreign or Commonwealth country and the certificate by the Magistrate that the evidence was taken by him shall state whether the person so charged was present or absent when the evidence was taken.
+
+[Act 35/93]
 
 (4) The laws for the time being in force with respect to the compelling of persons to attend before a Magistrate, and to give evidence, answer questions and produce documents, upon the hearing of a charge against a person for an offence against the law of Singapore shall apply, so far as they are capable of application, with respect to the compelling of persons to attend before a Magistrate, and to give evidence, answer questions and produce documents, for the purposes of this section.
+
+[Act 35/93]
 
 ### Power to make rules
 
@@ -804,127 +810,67 @@ Sections 2(1), 14 and 28.
 
 Description of returnable offences
 
-A. 1.
+A\.—1. Murder of any degree.
 
-Murder of any degree.
+2\. Manslaughter or culpable homicide.
 
-2.
+3\. An offence against the law relating to abortion.
 
-Manslaughter or culpable homicide.
+4\. Maliciously or wilfully wounding or inflicting grievous bodily harm.
 
-3.
+5\. Assault occasioning actual bodily harm.
 
-An offence against the law relating to abortion.
+6\. Rape.
 
-4.
+7\. Unlawful sexual intercourse with a female.
 
-Maliciously or wilfully wounding or inflicting grievous bodily harm.
+8\. Indecent assault.
 
-5.
+9\. Procuring, or trafficking in, women or young persons for immoral purposes.
 
-Assault occasioning actual bodily harm.
+10\. Bigamy.
 
-6.
+11\. Kidnapping, abduction or false imprisonment, or dealing in slaves.
 
-Rape.
+12\. Stealing, abandoning, exposing or unlawfully detaining a child.
 
-7.
+13\. Bribery.
 
-Unlawful sexual intercourse with a female.
+14\. Perjury or subornation of perjury or conspiring to defeat the course of justice.
 
-8.
+15\. Arson.
 
-Indecent assault.
+16\. An offence concerning counterfeit currency.
 
-9.
+17\. An offence against the law relating to forgery.
 
-Procuring, or trafficking in, women or young persons for immoral purposes.
+18\. Stealing, embezzlement, fraudulent conversion, fraudulent false accounting, obtaining property or credit by false pretences, receiving stolen property or any other offence in respect of property involving fraud.
 
-10.
+19\. Burglary, house-breaking or any similar offence.
 
-Bigamy.
+20\. Robbery.
 
-11.
+21\. Blackmail or extortion by means of threats or by abuse of authority.
 
-Kidnapping, abduction or false imprisonment, or dealing in slaves.
+22\. An offence against bankruptcy law or company law.
 
-12.
+23\. Malicious or wilful damage to property.
 
-Stealing, abandoning, exposing or unlawfully detaining a child.
+24\. Acts done with the intention of endangering vehicles, vessels or aircraft.
 
-13.
+25\. An offence against the law relating to dangerous drugs or narcotics.
 
-Bribery.
+26\. Piracy.
 
-14.
+27\. Revolt against the authority of the master of a ship or the commander of an aircraft.
 
-Perjury or subornation of perjury or conspiring to defeat the course of justice.
+28\. Contravention of import or export prohibitions relating to precious stones, gold and other precious metals.
 
-15.
+29. Hijacking and other acts endangering safety of aircraft and acts endangering safety of an international airport.
 
-Arson.
+[Act 32/96 wef 01/11/1996]
 
-16.
-
-An offence concerning counterfeit currency.
-
-17.
-
-An offence against the law relating to forgery.
-
-18.
-
-Stealing, embezzlement, fraudulent conversion, fraudulent false accounting, obtaining property or credit by false pretences, receiving stolen property or any other offence in respect of property involving fraud.
-
-19.
-
-Burglary, house-breaking or any similar offence.
-
-20.
-
-Robbery.
-
-21.
-
-Blackmail or extortion by means of threats or by abuse of authority.
-
-22.
-
-An offence against bankruptcy law or company law.
-
-23.
-
-Malicious or wilful damage to property.
-
-24.
-
-Acts done with the intention of endangering vehicles, vessels or aircraft.
-
-25.
-
-An offence against the law relating to dangerous drugs or narcotics.
-
-26.
-
-Piracy.
-
-27.
-
-Revolt against the authority of the master of a ship or the commander of an aircraft.
-
-28.
-
-Contravention of import or export prohibitions relating to precious stones, gold and other precious metals.
-
-29.
-
-Hijacking and other acts endangering safety of aircraft.\*
-
-\*Section 10(1) of the Hijacking and Protection of Aircraft Act (Cap. 124).
-
-B.
-
-Aiding and abetting, or counselling or procuring the commission of, or being an accessory before or after the fact to, or attempting or conspiring to commit, any of the offences listed in paragraph A.
+B\. Aiding and abetting, or counselling or procuring the commission of, or being an accessory before or after the fact to, or attempting or conspiring to commit, any of the offences listed in paragraph A.
 
 SECOND SCHEDULE
 
@@ -953,3 +899,8 @@ This Legislative History is provided for the convenience of users of the Extradi
 ||Date of operation|1 April 1971|
 |4.|**1985 Revised Edition—Extradition Act**|
 ||Date of operation|30 March 1987|
+|5.|**Act 35 of 1993—Application of English Law Act 1993**|
+||Date of First Reading|30 August 1993|
+|||(Bill No. 26/1993 published on 31 August 1993)|
+||Date of Second and Third Readings|12 October 1993|
+||Date of commencement|12 November 1993|
