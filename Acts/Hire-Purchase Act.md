@@ -22,7 +22,7 @@
 
 [**Part III PROTECTION OF HIRERS AND GUARANTORS**](#Part-III)
 
-[**WARRANTIES AND CONDITIONS**](#WARRANTIES-AND-CONDITIONS)
+[**Warranties and conditions**](#Warranties-and-conditions)
 
 - [6 Conditions and warranties to be implied in every hire-purchase agreement](#Conditions-and-warranties-to-be-implied-in-every-hire-purchase-agreement)
 
@@ -38,7 +38,9 @@
 
 - [10 Power of court to allow goods to be removed](#Power-of-court-to-allow-goods-to-be-removed)
 
-- [11 Assignments of right, title and interest under hire-purchase agreement](#Assignments-of-right-title-and-interest-under-hire-purchase-agreement)
+- [11 Assignments of right, title and interest of hirer under hire-purchase agreement](#Assignments-of-right-title-and-interest-of-hirer-under-hire-purchase-agreement)
+
+- [11A Assignments of right, title and interest of owner under hire-purchase agreement](#Assignments-of-right-title-and-interest-of-owner-under-hire-purchase-agreement)
 
 - [12 Passing of right, title and interest by operation of law](#Passing-of-right-title-and-interest-by-operation-of-law)
 
@@ -50,7 +52,7 @@
 
 - [15 Notices to be given to hirer when goods repossessed](#Notices-to-be-given-to-hirer-when-goods-repossessed)
 
-- [16 Owner to retain possession of goods repossessed for 14 days](#Owner-to-retain-possession-of-goods-repossessed-for-14-days)
+- [16 Owner to retain possession of goods repossessed for 7 business days](#Owner-to-retain-possession-of-goods-repossessed-for-7-business-days)
 
 - [17 Hirer’s rights and immunities when goods repossessed](#Hirer’s-rights-and-immunities-when-goods-repossessed)
 
@@ -84,9 +86,9 @@
 
 - [29 Limitation on terms charges](#Limitation-on-terms-charges)
 
-- [30 Minimum deposits](#Minimum-deposits)
+- [30 (Repealed)](#Repealed)
 
-- [31 Certain payments, etc., not to be treated as deposits for purposes of this Part](#Certain-payments-etc-not-to-be-treated-as-deposits-for-purposes-of-this-Part)
+- [31 (Repealed)](#Repealed)
 
 - [32 Power of court to reopen certain hire-purchase transactions](#Power-of-court-to-reopen-certain-hire-purchase-transactions)
 
@@ -126,15 +128,15 @@
 
 [**FIRST SCHEDULE List of goods**](#FIRST-SCHEDULE-List-of-goods)
 
-[**SECOND SCHEDULE Summary of financial obligations under proposed hire-purchase agreement**](#SECOND-SCHEDULE-Summary-of-financial-obligations-under-proposed-hire-purchase-agreement)
+[**SECOND SCHEDULE Information for prospective hirers proposed hire-purchase agreement**](#SECOND-SCHEDULE-Information-for-prospective-hirers-proposed-hire-purchase-agreement)
 
 [**THIRD SCHEDULE Notice to hirers**](#THIRD-SCHEDULE-Notice-to-hirers)
 
 [**FOURTH SCHEDULE Notice of intention to repossess**](#FOURTH-SCHEDULE-Notice-of-intention-to-repossess)
 
-[**FIFTH SCHEDULE Notice to hirers**](#FIFTH-SCHEDULE-Notice-to-hirers)
+[**FIFTH SCHEDULE Notice to hirers after repossession of goods**](#FIFTH-SCHEDULE-Notice-to-hirers-after-repossession-of-goods)
 
-[**SIXTH SCHEDULE Terms charges**](#SIXTH-SCHEDULE-Terms-charges)
+[**SIXTH SCHEDULE**](#SIXTH-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -164,7 +166,11 @@ PRELIMINARY
 
 (2) This Act shall apply in respect only of hire-purchase agreements relating to the goods specified in the First Schedule.
 
-(3) The Minister may by order amend, vary, delete or add to the First Schedule.
+(3) The Minister may by order amend, vary, delete or add to any of the Schedules.
+
+(4) The Minister may, in any order made under subsection (3), make such transitional and savings provisions as he may consider necessary or expedient.
+
+[38/2004 wef 01/11/2004]
 
 ### Interpretation
 
@@ -172,9 +178,19 @@ PRELIMINARY
 
 “action” includes counterclaim and set-off;
 
+“business day” means any day other than a Saturday, Sunday or public holiday;
+
+[38/2004 wef 01/11/2004]
+
 “cash” includes a cheque drawn on a banker;
 
-“court” means a District Court;
+“certificate of entitlement” means a permit issued by the Registrar of Vehicles under section 10A of the Road Traffic Act (Cap. 276);
+
+[38/2004 wef 01/11/2004]
+
+“court” means a Magistrate’s Court or a District Court;
+
+[38/2004 wef 01/11/2004]
 
 “dealer” means a person, not being the hirer or the owner or a servant of the owner, by whom or on whose behalf negotiations leading to the making of a hire-purchase agreement with the owner were carried out or by whom or on whose behalf the transaction leading to a hire-purchase agreement with the owner was arranged;
 
@@ -192,25 +208,15 @@ PRELIMINARY
 
 “hirer” means the person who takes or has taken goods from an owner under a hire-purchase agreement and includes a person to whom the hirer’s rights or liabilities under the agreement have passed by assignment or by operation of law;
 
+“motor vehicle” means a motor vehicle within the meaning of the Road Traffic Act (Cap. 276);
+
+[38/2004 wef 01/11/2004]
+
 “owner” means a person who lets or has let goods to a hirer under a hire-purchase agreement and includes a person to whom the owner’s rights or liabilities under the agreement have passed by assignment or by operation of law;
-
-“statutory rebate” —
-
-(a) in relation to terms charges —
-
-(i) means the amount derived by multiplying the terms charges by the sum of all the whole numbers from one to the number which is the number of complete months in the period of the agreement still to go (both inclusive) and by dividing the product so obtained by the sum of all the whole numbers from one to the number which is the total number of complete months in the period of the agreement (both inclusive); or
-
-(ii) where it is agreed in a hire-purchase agreement that the terms charges have been calculated on a simple interest basis at a rate specified in the agreement on the amount outstanding from month to month, means the amount of interest attributable to the period of complete months still to go under the agreement; and
-
-(b) in relation to insurance, means the sum of the amount of premium paid in respect of —
-
-(i) any annual period not yet commenced; and
-
-(ii) the current annual period less the amount of premium which would have been paid at the insurers’ short period rates for the period which the policy has been in force provided no claim has arisen during this period;
 
 “third-party insurance” means any insurance in relation to liability in respect of death or bodily injury caused by or arising out of the use of a motor vehicle being insurance required by law;
 
-“vehicle registration fees” means any amount to be provided under a hire-purchase agreement by the owner for payment by or on behalf of the hirer under the provisions of this Act in connection with the registration and use of a motor vehicle, including any amount payable for third-party insurance .
+“vehicle registration fees” means any amount to be provided under a hire-purchase agreement by the owner for payment by or on behalf of the hirer under the provisions of this Act in connection with the registration and use of a motor vehicle, including any amount payable for third-party insurance and for the issue of a certificate of entitlement.
 
 (2) Where an owner has agreed that any part of the hire-purchase price may be discharged otherwise than by the payment of money, any such discharge shall, for the purposes of this Act, be deemed to be a payment of that part of the hire-purchase price.
 
@@ -224,7 +230,7 @@ FORM AND CONTENTS OF HIRE-PURCHASE AGREEMENTS
 
 ### Requirements relating to hire-purchase agreements
 
-3\.—(1) Before a hire-purchase agreement is entered into in respect of any goods, the owner shall give or cause to be given to the prospective hirer a written statement duly completed in accordance with the form set out in the Second Schedule.
+3\.—(1) Before a hire-purchase agreement is entered into in respect of any goods, the owner shall give or cause to be given to the prospective hirer a written statement which shall contain the items set out in the Second Schedule.
 
 (2) Where a hire-purchase agreement is entered into by way of acceptance by the owner of a written offer signed by or on behalf of the hirer, subsection (1) shall be deemed not to have been complied with unless the written statement was given to the prospective hirer before the written offer was signed.
 
@@ -252,7 +258,7 @@ FORM AND CONTENTS OF HIRE-PURCHASE AGREEMENTS
 
 (i) the price at which at the time of signing the agreement the hirer might have purchased the goods for cash (referred to in this Act and to be described in the agreement as cash price);
 
-(ii) the amount paid or provided by way of deposit (referred to in this Act and to be described in the agreement as deposit) showing separately the amount paid in cash and the amount provided by any consideration other than cash;
+(ii) the amount paid or provided by way of deposit (referred to in this Act and to be described in the agreement as deposit), if any, showing separately the amount paid in cash and the amount provided by any consideration other than cash;
 
 (iii) any amount (included in the total amount) payable to cover the expenses of delivering the goods or any of them or to the order of the hirer (referred to in this Act and to be described in the agreement as freight);
 
@@ -260,19 +266,21 @@ FORM AND CONTENTS OF HIRE-PURCHASE AGREEMENTS
 
 (v) any amount (included in the total amount) payable for insurance in respect of the goods or any of them;
 
-(vi) the total of the amounts referred to in sub-paragraphs (i), (iii), (iv) and (v) less the deposit;
+(vi) the total of the amounts referred to in sub-paragraphs (i), (iii), (iv) and (v) less the deposit, if any;
 
 (vii) the amount of any other charges included in the total amount payable (referred to in this Act and to be described in the agreement as terms charges);
 
-(viii) the total of the amounts referred to in sub-paragraphs (vi) and (vii) (referred to in this Act as the balance originally payable under the agreement); and
+(viii) the total of the amounts referred to in sub-paragraphs (vi) and (vii) (referred to in this Act as the balance originally payable under the agreement);
 
-(ix) the total amount payable.
+(ix) the total amount payable; and
 
-(4) An owner who enters into a hire-purchase agreement that does not comply with subsection (3) shall be guilty of an offence.
+(x) any other item set out in the Second Schedule.
+
+[38/2004 wef 01/11/2004]
 
 ### Copy of documents to be served on hirer
 
-4\.—(1) The owner shall serve or cause to be served on the hirer within 14 days after the making of a hire-purchase agreement —
+4\.—(1) The owner shall serve or cause to be served on the hirer within 7 business days after the making of a hire-purchase agreement —
 
 (a) a copy of the agreement; and
 
@@ -298,7 +306,7 @@ the court may, subject to any conditions that it thinks fit to impose, dispense 
 
 PROTECTION OF HIRERS AND GUARANTORS
 
-WARRANTIES AND CONDITIONS
+Warranties and conditions
 
 ### Conditions and warranties to be implied in every hire-purchase agreement
 
@@ -356,7 +364,7 @@ Statutory rights of hirers
 
 ### Duty of owners to supply documents and information
 
-8\.—(1) An owner shall, within 14 days of the receipt thereof, comply with a written request made to him by a hirer, at any time before final payment has been made, whereby the hirer requires either a copy of the hire-purchase agreement between the parties or a statement signed by the owner or his agent showing —
+8\.—(1) An owner shall, within 7 business days of the receipt thereof, comply with a written request made to him by a hirer, at any time before final payment has been made, whereby the hirer requires either a copy of the hire-purchase agreement between the parties or a statement signed by the owner or his agent showing —
 
 (a) the amount paid to the owner by or on behalf of the hirer;
 
@@ -370,7 +378,7 @@ or both such copy of the agreement and the statement.
 
 (a) if he has sent the hirer the document requested within a period of 3 months immediately preceding the request; or
 
-(b) unless the request is accompanied by a payment of $2 if the hirer makes a second or subsequent request for a copy of the hire-purchase agreement between the parties after the owner has previously complied with such a request.
+(b) unless the request is accompanied by a reasonable fee, which shall not exceed such amount as may be prescribed, if the hirer makes a second or subsequent request for a copy of the hire-purchase agreement between the parties after the owner has previously complied with such a request.
 
 (3) In the event of a failure without reasonable cause to comply with subsection (1) then, while the default continues —
 
@@ -384,8 +392,6 @@ or both such copy of the agreement and the statement.
 
 (b) any security given by the hirer in respect of money payable under the agreement or given by a guarantor in respect of money payable under a contract of guarantee relating to the agreement shall not be enforceable against the hirer or the guarantor by any holder thereof.
 
-(4) If the default continues for a period of one month, the owner shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
-
 ### Appropriation of payments made in hire-purchase agreements
 
 9\.—(1) A hirer who is liable to make payments in respect of 2 or more hire-purchase agreements to the same owner shall, notwithstanding any agreement to the contrary, be entitled, on making any payment in respect of the agreements which is not sufficient to discharge the total amount then due under all the agreements, to require the owner to appropriate the sum so paid by him in or towards the satisfaction of the sum due under any one of the agreements, or in or towards the satisfaction of the sums due under any 2 or more of the agreements in such proportions as he thinks fit.
@@ -398,7 +404,7 @@ or both such copy of the agreement and the statement.
 
 (2) No order shall be made under subsection (1) if the owner satisfies the court that he had good reason for failing or refusing to give his consent.
 
-### Assignments of right, title and interest under hire-purchase agreement
+### Assignments of right, title and interest of hirer under hire-purchase agreement
 
 11\.—(1) The right, title and interest of a hirer under a hire-purchase agreement may be assigned with the consent of the owner, or if his consent is unreasonably withheld, without his consent.
 
@@ -414,6 +420,26 @@ or both such copy of the agreement and the statement.
 
 (b) to pay to the owner any reasonable costs incurred by the owner (including legal expenses) in preparing, drawing, stamping or registering the assignment, agreement or counterparts.
 
+### Assignments of right, title and interest of owner under hire-purchase agreement
+
+11A\.—(1) The hirer under a hire-purchase agreement may, by notice in writing to the owner, require the owner to assign his right, title and interest under the agreement to another person.
+
+(2) As a condition of the assignment of the right, title and interest of the owner under a hire-purchase agreement, the owner may —
+
+(a) stipulate that all defaults under the agreement shall be made good; and
+
+(b) require the hirer and assignee —
+
+(i) to deliver to the owner a form of assignment whereby the assignee agrees to pay to the owner the net balance due under the agreement; and
+
+(ii) to pay to the owner any reasonable costs incurred by the owner (including legal expenses) in relation to the assignment.
+
+(3) Except as otherwise provided in this section, no payment or other consideration shall be required by an owner for an assignment referred to in subsection (1).
+
+(4) Where an owner fails or refuses to assign his right, title and interest under the hire-purchase agreement as required by the hirer in accordance with this section, the hirer may apply to a court for an order requiring the owner to do so.
+
+[38/2004 wef 01/11/2004]
+
 ### Passing of right, title and interest by operation of law
 
 12\.—(1) The right, title and interest of a hirer under a hire-purchase agreement shall be capable of passing by operation of law to the personal representative of the hirer and if the hirer is a company the liquidator may exercise the same right under the agreement as the company.
@@ -424,19 +450,13 @@ or both such copy of the agreement and the statement.
 
 13\.—(1) The hirer under a hire-purchase agreement may, if he has given notice in writing to the owner of his intention to do so, on or before the day specified for that purpose in the notice, complete the purchase of the goods by paying or tendering to the owner the net balance due under the agreement.
 
-(2) For the purposes of subsection (1), the net balance due is the balance originally payable under the agreement less —
-
-(a) any amount (other than the deposit) paid or provided by or on behalf of the hirer under the agreement;
-
-(b) the statutory rebate for terms charges; and
-
-(c) the statutory rebate for insurance where the hirer requires any policy of insurance to be cancelled if such policy has been taken out for his benefit and the premiums in respect thereof have been paid for by the owner.
+(2) [Deleted by Act 38/2004 wef 01/11/2004]
 
 (3) The rights conferred on the hirer by this section may be exercised by him —
 
 (a) at any time during the continuance of the agreement; or
 
-(b) where the owner has taken possession of the goods, upon payment to the owner (within 14 days after the owner has served a notice in the form set out in the Fifth Schedule) in addition to the net balance due together with the reasonable costs including costs (if any) of storage, repair or maintenance of the goods incurred by the owner incidental to his taking possession of the goods.
+(b) where the owner has taken possession of the goods, upon payment to the owner (within 7 business days after the owner has served a notice in the form set out in the Fifth Schedule) in addition to the net balance due together with the reasonable costs including costs (if any) of storage, repair or maintenance of the goods incurred by the owner incidental to his taking possession of the goods.
 
 ### Power of hirer to terminate hiring
 
@@ -466,11 +486,13 @@ Repossession
 
 ### Notices to be given to hirer when goods repossessed
 
-15\.—(1) Subject to this section, an owner shall not exercise any power of taking possession of goods comprised in a hire-purchase agreement arising out of any breach of the agreement relating to the payment of instalments until he has served on the hirer a notice, in writing, in the form set out in the Fourth Schedule and the period fixed by the notice has expired, which shall not be less than 14 days after the service of the notice.
+15\.—(1) Subject to this section, an owner shall not exercise any power of taking possession of goods comprised in a hire-purchase agreement arising out of any breach of the agreement relating to the payment of instalments until he has served on the hirer a notice, in writing, in the form set out in the Fourth Schedule and the period fixed by the notice has expired, which shall not be less than 7 business days after the service of the notice.
 
 (2) An owner need not comply with subsection (1) if there are reasonable grounds for believing that the goods comprised in the hire-purchase agreement will be removed or concealed by the hirer contrary to the provisions of the agreement, but the onus of proving the existence of those grounds shall lie upon the owner.
 
-(3) Within 14 days after the owner has taken possession of goods that were comprised in a hire-purchase agreement, he shall serve on the hirer and every guarantor of the hirer a notice, in writing, in the form set out in the Fifth Schedule.
+(3) Within 7 business days after the owner has taken possession of goods that were comprised in a hire-purchase agreement, he shall serve on the hirer and every guarantor of the hirer a notice, in writing, in the form set out in the Fifth Schedule.
+
+[38/2004 wef 01/11/2004]
 
 (4) Where the owner takes possession of goods that were comprised in a hire-purchase agreement, he shall —
 
@@ -484,11 +506,13 @@ Repossession
 
 (7) If the hirer exercises his rights under this Act to recover the goods so taken possession of, the agreement shall have the same force and effect in relation to the rights and liabilities of the owner and the hirer as it would have had if the notice under subsection (3) had been duly given.
 
-### Owner to retain possession of goods repossessed for 14 days
+### Owner to retain possession of goods repossessed for 7 business days
 
 16\. Where an owner has taken possession of any goods, he shall not, without the written consent of the hirer, sell or dispose of the goods or part with possession thereof —
 
-(a) until after the expiration of 14 days after the date of the service on the hirer of the notice referred to in section 15(3); or
+(a) until after the expiration of 7 business days after the date of the service on the hirer of the notice referred to in section 15(3); or
+
+[38/2004 wef 01/11/2004]
 
 (b) if notice under section 17(1)(a) has been given, until the time for payment or tender pursuant to that notice has expired,
 
@@ -498,17 +522,19 @@ whichever is the later.
 
 17\.—(1) Where the owner takes possession of any goods comprised in a hire-purchase agreement —
 
-(a) the hirer may, within 14 days after the service on him of the notice referred to in section 15(3), by giving to the owner a notice in writing signed by the hirer or his agent —
+(a) the hirer may, within 7 business days after the service on him of the notice referred to in section 15(3), by giving to the owner a notice in writing signed by the hirer or his agent —
 
 (i) require the owner to redeliver to or to the order of the hirer (subject to compliance by the hirer with section 18) the goods that have been repossessed; or
 
 (ii) require the owner to sell the goods to any person introduced by the hirer who is prepared to buy the goods for cash at a price not less than the estimated value of the goods set out in the first-mentioned notice; or
 
+[38/2004 wef 01/11/2004]
+
 (b) the hirer may recover from the owner —
 
-(i) if the value of the goods at the time of the owner so taking possession thereof is less than the net amount payable but the total of that value and the amount paid or provided, whether by cash or other consideration, by or on behalf of the hirer under the agreement exceeds the net amount payable — the difference between that total and the net amount payable; or
+(i) if the value of the goods at the time of the owner so taking possession thereof is less than the net amount payable under the agreement but the total of that value and the amount paid or provided, whether by cash or other consideration, by or on behalf of the hirer under the agreement exceeds the net amount payable — the difference between that total and the net amount payable; or
 
-(ii) if the value of the goods at the time of the owner so taking possession thereof is equal to or greater than the net amount payable — the total of that value and the amount paid or provided, whether by cash or other consideration, by or on behalf of the hirer under the agreement, less the net amount payable.
+(ii) if the value of the goods at the time of the owner so taking possession thereof is equal to or greater than the net amount payable under the agreement — the total of that value and the amount paid or provided, whether by cash or other consideration, by or on behalf of the hirer under the agreement, less the net amount payable.
 
 (2) Where the owner takes possession of any goods comprised in a hire-purchase agreement, the owner is not entitled to recover any sum (whether under a judgment or order or otherwise) which if added together with —
 
@@ -516,11 +542,11 @@ whichever is the later.
 
 (b) the amount paid or provided, whether by cash or other consideration, by or on behalf of the hirer under the agreement,
 
-exceeds the net amount payable in respect of the goods.
+exceeds the net amount payable under the agreement in respect of the goods.
 
 (3) For the purposes of this section —
 
-(a) the net amount payable is the total amount payable less the statutory rebates for terms charges and insurance as at the time of the owner taking possession of the goods; and
+(a) [Deleted by Act 38/2004 wef 01/11/2004]
 
 (b) the value of any goods at the time of the owner taking possession thereof is —
 
@@ -540,7 +566,7 @@ less —
 
 (5) No amount is recoverable by the hirer under this section except where the owner has failed to serve on the hirer a notice as required by section 15(3) unless —
 
-(a) the hirer, within 14 days after the owner has served a notice as required by section 15(3), gives to the owner notice in writing —
+(a) the hirer, within 7 business days after the owner has served a notice as required by section 15(3), gives to the owner notice in writing —
 
 (i) setting out the amount claimed under this section and the amount that is claimed by the hirer to be the value of the goods at the time of the owner taking possession thereof; and
 
@@ -554,7 +580,7 @@ less —
 
 ### Power of hirer to regain possession of goods in certain circumstances
 
-18\.—(1) If, within 14 days after giving notice to the owner under section 17(1)(a), the hirer —
+18\.—(1) If, within 7 business days after giving notice to the owner under section 17(1)(a), the hirer —
 
 (a) pays or tenders to the owner any amount due by the hirer under the hire-purchase agreement in respect of the period of hiring up to the date of the payment or tender (and for the purposes of this paragraph the hiring shall be deemed to have continued up to that date);
 
@@ -570,7 +596,7 @@ the owner shall forthwith return the goods to the hirer.
 
 (a) by notice in writing given to the hirer at the time of the return of the goods he specifies the breach and requires it to be remedied; and
 
-(b) the hirer fails within 14 days or within the time specified in the notice (whichever is the longer) after receiving the notice to remedy the breach.
+(b) the hirer fails within 7 business days or within the time specified in the notice (whichever is the longer) after receiving the notice to remedy the breach.
 
 ### Power of court to vary existing judgments or orders when goods are repossessed
 
@@ -664,9 +690,9 @@ INSURANCE
 
 (3) An owner shall not require a hirer to obtain insurance against risks or subject to terms, conditions and exceptions that the owner would not require if he arranged the insurance.
 
-(4) Where any goods comprised in a hire-purchase agreement are insured in the joint names of the owner and the hirer against any risk with a particular registered insurer, any hirer who during the period of the hire-purchase agreement insures those goods against any risk with another registered insurer without first informing the owner thereof shall be guilty of an offence.
+(4) Where any goods comprised in a hire-purchase agreement are insured in the joint names of the owner and the hirer against any risk with a particular registered insurer, there shall be an implied condition in the agreement that the hirer shall not, during the period of the agreement, insure those goods against any risk with another registered insurer without first informing the owner thereof.
 
-[12/75]
+[38/2004 wef 01/11/2004]
 
 ### Benefit of rebate to pass to hirer
 
@@ -690,7 +716,9 @@ GENERAL
 
 ### Limitation on terms charges
 
-29\.—(1) The terms charges in relation to a hire-purchase agreement shall not, when calculated as a rate per cent per annum in accordance with the formula set out in the Sixth Schedule, exceed a rate per annum as may be prescribed by any regulations made under this Act in respect of any goods or class of goods.
+29\.—(1) The terms charges in relation to a hire-purchase agreement shall not exceed such amount as may be prescribed in respect of any goods or class of goods.
+
+[38/2004 wef 01/11/2004]
 
 (2) Where a hire-purchase agreement is entered into in contravention of this section, the hirer may, by notice in writing to the owner signed by the hirer or the hirer’s agent, elect either to treat the agreement as void or to have his liability reduced by the amount included in the agreement for terms charges.
 
@@ -698,37 +726,9 @@ GENERAL
 
 (4) Where the hirer elects to have his liability reduced by the amount included in the agreement for terms charges, his liability shall be reduced by that amount and that amount may be set-off by the hirer against the amount that would otherwise be due under the agreement and, to the extent to which it is not so set-off, may be recovered by action by the hirer as a debt due to him by the owner.
 
-### Minimum deposits
+30\. [Repealed by Act 38/2004 wef 01/11/2004]
 
-30\.—(1) Where the minimum amount of the deposit in respect of any goods or class of goods is not prescribed, an owner who enters into a hire-purchase agreement without having first obtained from the proposed hirer thereunder a deposit in cash or in goods, or partly in cash and partly in goods, to a value not less than 10% of the cash price of the goods comprised in the agreement, the agreement shall be void.
-
-(2) In this section and in section 31, “hire-purchase agreement” does not include any agreement or arrangement that is entered into solely for the purpose of giving effect to an assignment or transfer of the rights and liabilities under an existing hire-purchase agreement from the hirer to another person.
-
-### Certain payments, etc., not to be treated as deposits for purposes of this Part
-
-31\.—(1) No deposit —
-
-(a) to the extent that it is in cash and that it is made out of moneys borrowed directly or indirectly —
-
-(i) from or through the owner (if the owner is not a banker);
-
-(ii) from or through an agent or servant of the owner;
-
-(iii) from or through a dealer; or
-
-(iv) from or through any person whose business or part of whose business it is, by agreement with the owner or any person acting on behalf of the owner, to advance money to enable deposits to be paid in respect of hire-purchase agreements with the owner;
-
-(b) to the extent that, where the deposit is in goods or partly in goods and the amount allowed in respect of the goods is substantially greater than the value of the goods, that amount exceeds that value;
-
-(c) to the extent that it is made out of an amount allowed or credited in respect of, or by reference to, amounts paid by the hirer as rent or hire under a bailment of the goods before the making of a hire-purchase agreement in respect of the goods; or
-
-(d) to the extent that it is provided by goods that were, to the knowledge of the owner or dealer, acquired by the hirer for the purpose of being used by the hirer to provide the deposit under the agreement,
-
-shall be taken into account for the purpose of determining whether section 30 has been complied with.
-
-(2) The provisions of this Part shall be deemed to have been complied with by the owner if a deposit in accordance with those provisions has been obtained by the dealer or an agent or servant of the owner.
-
-(3) Any person who knowingly enters into, or procures, arranges, or otherwise assists or participates in, a transaction contravening this section shall be guilty of an offence.
+31\. [Repealed by Act 38/2004 wef 01/11/2004]
 
 ### Power of court to reopen certain hire-purchase transactions
 
@@ -772,7 +772,7 @@ shall be taken into account for the purpose of determining whether section 30 ha
 
 (b) the hirer is subject to any greater liability on the determination, in any manner, of the hire-purchase agreement or of the bailment thereunder, than the liability to which he would be subject if the hire-purchase agreement were determined in accordance with this Act;
 
-(c) the hirer is required to pay interest on any overdue instalment at a rate per annum exceeding that prescribed by the Minister by notification in theGazette;
+(c) the hirer is required to pay interest on any overdue instalment at a rate per annum exceeding that as may be prescribed by the Minister by notification in theGazette;
 
 (d) the owner is relieved from liability for the acts or defaults of any person acting in connection with or in the course of the negotiations leading to the entering into the hire-purchase agreement;
 
@@ -804,7 +804,7 @@ the owner shall be liable to indemnify the hirer or guarantor, as the case may b
 
 (b) the agreement or offer contains to the knowledge of the dealer or a person on behalf of the dealer, agent or person acting on behalf of the owner, as the case may be, a false statement or representation that is false in any material particular,
 
-the dealer or a person on behalf of the dealer, agent or person acting on behalf of the owner shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 12 months or to both.
+the dealer or a person on behalf of the dealer, agent or person acting on behalf of the owner shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [12/75]
 
@@ -818,11 +818,11 @@ the dealer or a person on behalf of the dealer, agent or person acting on behalf
 
 (2) Any hirer who —
 
-(a) does not, within 14 days after the receipt of such a notice, give to the owner such a statement; or
+(a) does not, within 7 business days after the receipt of such a notice, give to the owner such a statement; or
 
 (b) gives a statement containing any information that is to the knowledge of the hirer false,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 12 months or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [12/75]
 
@@ -836,7 +836,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) by any other means,
 
-defrauds or attempts to defraud the owner shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both.
+defrauds or attempts to defraud the owner shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [12/75]
 
@@ -944,7 +944,7 @@ shall, for the purposes of this Act, be deemed not to be in writing.
 
 ### Penalty
 
-48\. Any person who is guilty of an offence under this Act or any regulations made thereunder for which no other penalty is expressly provided by this Act or any regulations made thereunder shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+48\. Any person who is guilty of an offence under this Act or any regulations made thereunder for which no other penalty is expressly provided by this Act or any regulations made thereunder shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [12/75]
 
@@ -966,7 +966,9 @@ Section 1(2)
 
 List of goods
 
-1\. Except as provided in paragraph 2, any consumer goods the value of which does not exceed $5,000 (including any Goods and Services Tax).
+1. Any consumer goods the value of which does not exceed $20,000 (inclusive of any Goods and Services Tax).
+
+[38/2004 wef 01/11/2004]
 
 2.—(1) On or after 1st April 1989 but before 15th July 1994, any motor vehicle the value of which does not exceed $55,000, which amount shall include —
 
@@ -986,96 +988,147 @@ but shall exclude the cost of a certificate of entitlement for the vehicle.
 
 3. For the purposes of this Schedule —
 
-“certificate of entitlement” means a permit issued by the Registrar of Vehicles under section 10A(1) of the Road Traffic Act (Cap. 276);
+“consumer goods” means goods purchased for personal, family or household purposes and not for the purposes of any trade or business.
 
-“consumer goods” means goods purchased for personal, family or household purposes and not for the purposes of any trade or business;
+[S 76/89; S 429/94]
 
-“motor vehicle” means a motor vehicle within the meaning of the Road Traffic Act but does not include any motor vehicle owned by the NTUC Comfort Pte. Ltd.
+[38/2004 wef 01/11/2004]
 
 SECOND SCHEDULE
 
-Section 3(1)
+Section 3(1) and (3)
 
-Summary of financial obligations
+Information for prospective hirers proposed hire-purchase agreement
 
+RELATING TO\*..............
 
+\*Insert description of goods.
 
+Item
 
-under proposed hire-purchase agreement
+Description
 
-Relating to *................................................................
+1.
 
-The cash price of the goods is
+Cash price of the goods
 
-...
+For motor vehicles, the cash price should be reflected as —
 
-...
+(a)
 
-...
+price of motor vehicle; and
 
-...
+(b)
 
-$.................
+price of the certificate of entitlement
 
-(a) Other charges are —
+2.
 
-(i) For insurance for ................. years
+Applied interest rate
 
-$.................
+3.
 
-(ii) For freight, vehicle registration, etc.
+Effective interest rate
 
-$.................
+4.
 
-$.................
+Your instalments under the hire-purchase agreement will be paid every _______ day(s)/week(s)/month(s)
 
-(b) The terms charges are† and represent a rate per cent per
+5.
 
+Amount of each instalment
 
+6.
 
+Number of instalments
 
-annum not exceeding .................%
+7.
 
-$.................
+Total interest
 
-The total amount you will have to pay (including deposit of
+8.
 
-$.................) is
+Processing fees (if any)
 
-...
+9.
 
-...
+Other fees/charges, e.g. insurance charges, freight charges, etc. (please specify, if any)
 
-...
+10.
 
-...
+Total fees/charges (item 8 + item 9)
 
-...
+11.
 
-...
+Total interest plus total fees/charges (item 7 + item 10)
 
-$.................
+12.
 
-The difference between the cash price of the goods and the total
+Total amount payable (item 1 + item 11)
 
+13.
 
+Date of commencement of instalment payments
 
+ADDITIONAL CHARGES the owner will impose charges for early settlement of hire-purchase agreement:
 
-amount you will have to pay is therefore
+14.
 
-$.................
+1The method for calculating the balance payable upon early settlement:
 
-Your instalments under the proposed agreement will be ‡............
+1Owner should explain the method for calculating the balance payable upon early settlement and give an example of the balance payable after a specified number of years.
 
-Note:—The sequence of any item or items in the group of items marked “(a)” may be altered in relation to any other item or items in that group, but the sequence of that group shall not be altered in relation to the items not marked “(a)”.
+__________________________________
 
-*Insert short description of goods.
+E.g. after _____ years, the balance payable is:
 
-†Insert, where the proposed agreement is an agreement to which section 29(1) of the Act applies, a rate per cent per annum obtained by calculating the terms charges in accordance with the formulae set out in the Sixth Schedule to the Act.
+__________________________________
 
-‡Insert number, amount and intervals of instalments.
+15.
 
-[S 76/89; S 429/94]
+Early settlement fees (if any)
+
+16.
+
+Processing fees (if any)
+
+17.
+
+Notice period required (if any)
+
+ADDITIONAL CHARGES the owner will impose for assignment of right, title and interest under the hire-purchase agreement to new owner:
+
+18.
+
+2The method for calculating the balance payable upon assignment:
+
+2Owner should explain the method for calculating the balance payable upon assignment and give an example of the balance payable after a specified number of years.
+
+__________________________________
+
+E.g. after _____ years, the balance payable is:
+
+__________________________________
+
+19.
+
+Processing fees (if any)
+
+20.
+
+Notice period required (if any)
+
+INTEREST RATE the owner will impose for overdue instalments:
+
+21.
+
+The interest charged will be _______ (on the overdue amount)
+
+22.
+
+Processing fees (if any)
+
+[38/2004 wef 01/11/2004]
 
 THIRD SCHEDULE
 
@@ -1085,13 +1138,17 @@ Notice to hirers
 
 Under the provisions of the Hire-Purchase Act (Cap. 125) —
 
-(a) you are entitled to a copy of the agreement and a statement of account if you make a written request for either or both. You may not request such a copy or a statement more than once in 3 months. Statements will be supplied without charge. A copy of the agreement will be sent in response to your first request without charge. With any second or subsequent request you must send $2;
+(a) you are entitled to a copy of the agreement and a statement of account if you make a written request for either or both. You may not request such a copy or a statement more than once in 3 months. Statements will be supplied without charge. A copy of the agreement will be sent in response to your first request without charge. With any second or subsequent request, you must send the appropriate fee (which cannot exceed such amount as may be prescribed);
 
-(b) with the written consent of the owner you can assign your rights under the hire-purchase agreement and he may not unreasonably refuse his consent;
+(b) with the written consent of the owner, you can assign your rights under the hire-purchase agreement and he may not unreasonably refuse his consent;
 
-(c) you have the right to complete the agreement at any time and if you do you will be entitled to a rebate of some of the charges payable under the agreement. For details see section 13 of the Hire-Purchase Act; and
+(c) you may, by notice in writing to the owner, require the owner to assign his right, title and interest under the agreement to another person;
 
-(d) if you are unable to pay your instalments you are entitled to return the goods to the owner at your own expense, but if you do you will be liable to pay an amount sufficient to cover the loss suffered by the owner.
+(d) you have the right to complete the agreement at any time; and
+
+(e) if you are unable to pay your instalments, you are entitled to return the goods to the owner at your expense, but if you do you will be liable to pay an amount sufficient to cover the loss suffered by the owner.
+
+[38/2004 wef 01/11/2004]
 
 FOURTH SCHEDULE
 
@@ -1099,196 +1156,163 @@ Section 15(1)
 
 Notice of intention to repossess
 
-Take notice that ...............................................................................................................................,
+\*GOODS: ____________________________________________________
 
+\*Insert description of goods.
 
+Take notice that .........................................................................., owner of the above goods hired by you under an agreement dated the .......... day of .................. 20 ......., intends to retake possession of the goods after the expiration of 7 business days from the service of this notice unless you pay to the owner at ............................ on or before ....................... 20 ...... —
 
+(a)
 
-the owner of *................................................................................................................. hired by you
+the arrears of instalments at the date of this notice
 
+$ ..........
 
+(b)
 
+the interest due on overdue instalments at the date of this notice
 
-under an agreement dated the ............ day of ........................ 20......, intends to retake possession of the goods after the expiration of ................. days from the service of this notice unless —
+$ ..........
 
-(a) the arrears of instalments at the date of this notice which now amount to
+(c)
 
+any other amount owing under the agreement
 
+$ ..........; and
 
+(d)
 
-$................. are paid;
+such other instalments as have fallen due since the date of this notice, together with the interest due on such overdue instalments.
 
-(b) the interest due on overdue instalments at the date of this notice which amount to $................. are paid; and
-
-(c) such other instalments as have fallen due since the date of this notice, together with the interest due on such overdue instalments, are paid
-
-to at ............ on or before ........................ 20......
+$ ..........
 
 Total amount payable
 
-...
+$ ..........
 
-...
+Amount paid or provided by hirer to ......../........../20.....
 
-...
+$ ..........
 
-...
+Arrears under the agreement to ........./........./20......
 
-...
+$ ..........
 
-$.................
-
-Amount paid or provided by hirer to ............/............/20......
-
-$.................
-
-Arrears under agreement to ............/............/20......
-
-$.................
-
-*Insert description of goods.
-
-[12/75]
+[38/2004 wef 01/11/2004]
 
 FIFTH SCHEDULE
 
 Sections 13(3) and 15(3)
 
-Notice to hirers
+Notice to hirers after repossession of goods
 
-1. Now that the goods you hired have been repossessed you will be entitled to get them back —
+\*GOODS: ____________________________________________________
 
-(a) if within 14 days, you require the owner, by notice in writing signed by you or your agent, to redeliver the goods to you and if, within 14 days after giving the notice, you reinstate the agreement by paying the arrears of instalments and interest due on overdue instalments and remedy the following breaches of the agreement (or pay the owner’s expenses in remedying them).
+\*Insert description of goods.
+
+1. Now that the goods you hired have been repossessed, you will entitled to get them back —
+
+(a)
+
+if, within 7 business days, you require the owner, by notice in writing signed by you or your agent, to redeliver the goods to you and if, within 7 business days after giving the notice, you reinstate the agreement by paying the arrears of instalments and interest due on overdue instalments and remedy the following breaches of the agreement (or pay the owner’s expenses in remedying them).
 
 The owner’s estimate of the amount you must pay to reinstate the agreement is —
 
 Arrears of instalments
 
-$.................
+$ .................
 
 Interest due on overdue instalments
 
-$.................
+$ .................
 
 Cost of storage, repair or maintenance
 
-$.................
+$ .................
 
 Cost of repossession
 
-$.................
+$ .................
 
-Cost of redelivery
+Cost or redelivery
 
-$.................
-
-_________
+$ .................
 
 Total
 
 $
 
-________.
-
 or
 
-(b) if, within 14 days, you give notice of intention to finalise the agreement and pay the balance due under the agreement and cost of the repossession.
+(b)
+
+if, within 7 business days, you give notice to your intention to finalise the agreement and pay the balance due under the agreement and cost of the repossession.
 
 The owner’s estimate of the amount required to finalise the agreement is —
 
 Total amount payable under the agreement
 
-$.................
+$ .................
 
-Less deposit and instalments paid
+Less: deposit and instalments paid (if any)
 
-$.................
+$ .................
 
 Balance due under agreement
 
-$.................
+$ .................
 
-Less statutory rebates
+Add: cost of repossession
 
-$.................
+$ .................
 
-Add costs of repossession
+Add: cost of storage, repair or maintenance
 
-$.................
-
-Storage, repair or maintenance
-
-$.................
+$ .................
 
 Total
 
 $
 
-________.
-
-2. If you do not reinstate or finalise the agreement you will be liable for the owner’s loss unless the value of the goods repossessed is sufficient to cover your liability. If the value of the goods is more than sufficient to cover your liability you will be entitled to a refund.
+2. If you do not reinstate or finalise the agreement, you will be liable for the owner’s loss unless the value of the goods repossessed is sufficient to cover your liability. If the value of the goods is more than sufficient to cover your liability, you will be entitled to a refund.
 
 The owner’s estimate of the value of the goods repossessed is
 
-$..................
+$ ..................
 
-*On the basis of that estimate you are entitled to a refund of
+#On the basis of that estimate you are entitled to a refund of
 
-$..................
+#Delete whichever is inapplicable.
+
+$ ..................
 
 You are liable to pay the owner
 
-$..................
+$ ..................
 
-*Delete whichever is inapplicable.
+Note. —
 
-Note.—You may give a written notice to the owner requiring the owner to sell the goods to any cash buyer you can introduce who is willing to pay the owner’s estimate of the value, i.e.,†
-
-Do Not Delay
-
-3. Action to enforce your rights should be taken at once. You will lose your rights 14 days after the service or posting of this notice if you do not take action.
-
-Note.—Where this notice is sent to a guarantor it shall be endorsed as follows:
-
-4\. This notice is sent to you as guarantor of
-
-5. As guarantor you have certain rights under the Hire-Purchase Act and you are advised to seek advice at once.
+†You may give a written notice to the owner requiring the owner to sell the goods to any cash buyer you can introduce who is willing to pay the owner’s estimate of the value, i.e.,
 
 †Insert owner’s estimate of value.
 
+Do Not Delay
+
+3. Action to enforce your rights should be taken at once. You will lose your rights 7 business days after the service or posting of this notice if you do not take action.
+
+Note. —
+
+Where this notice is sent to a guarantor, it shall be endorsed as follows:
+
+4. This notice is sent to you as guarantor of _____________ .
+
+5. As guarantor you have certain rights under the Hire-Purchase Act (Cap. 125) and you are advised to seek advice at once.
+
+[38/2004 wef 01/11/2004]
+
 SIXTH SCHEDULE
 
-Section 29(1)
-
-Terms charges
-
-The terms charges shall be calculated in accordance with the following formula:
-
-where —
-
- R represents the terms charges calculated as a rate per cent per annum;
-
- C represents the amount of terms charges expressed in dollars and fractions of dollars;
-
- T represents the time that elapses between the time fixed by or under the agreement for the making of the first instalment and the time so fixed for the making of the last instalment, together with —
-
-(i) one week where the instalments are payable under the agreement at regular weekly intervals;
-
-(ii) 2 weeks where the instalments are payable under the agreement at regular fortnightly intervals; or
-
-(iii) one month where the instalments are payable under the agreement at regular monthly intervals,
-
-expressed in years and fractions of years; and
-
- P represents the difference between the cash price of the goods comprised in the agreement and the amount of the deposit, together with —
-
-(i) freight, if any;
-
-(ii) vehicle registration fees, if any; and
-
-(iii) insurance, if any,
-
-expressed in dollars and cents.
+[Deleted by Act 38/2004, wef 01/11/2004.]
 
 ## LEGISLATIVE HISTORY
 
@@ -1347,6 +1371,11 @@ This Legislative History is provided for the convenience of users of the Hire-Pu
 ||Date of commencement|15 July 1995|
 |12.|**1999 Revised Edition—Hire-Purchase Act (Chapter 125)**|
 ||Date of operation|30 December 1999|
+|13.|**Act 38 of 2004—Hire-Purchase (Amendment) Act 2004**|
+||Date of First Reading|1 September 2004|
+|||(Bill No. 37/2004 published on 2 September 2004)|
+||Date of Second and Third Readings|21 September 2004|
+||Date of commencement|1 November 2004|
 ## COMPARATIVE TABLE
 
 Hire-Purchase Act
@@ -1365,7 +1394,11 @@ Omitted
 
 1 —(4)
 
-Omitted1
+Omitted
+
+3
+
+3This subsection makes reference to section 5 of the Civil Law Act (1994 Ed.) which was repealed by the Application of English Law Act 1993 (Act 35 of 1993).
 
 (5)
 
