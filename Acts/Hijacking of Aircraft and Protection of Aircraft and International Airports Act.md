@@ -1,4 +1,4 @@
-**Hijacking and Protection of Aircraft Act**
+**Hijacking of Aircraft and Protection of Aircraft and International Airports Act**
 
 **(CHAPTER 124)**
 
@@ -18,6 +18,8 @@
 
 - [6 Other acts endangering or likely to endanger safety of aircraft](#Other-acts-endangering-or-likely-to-endanger-safety-of-aircraft)
 
+- [6A Endangering safety at aerodromes](#Endangering-safety-at-aerodromes)
+
 - [7 Abetting the commission of acts outside Singapore](#Abetting-the-commission-of-acts-outside-Singapore)
 
 - [8 Penalty](#Penalty)
@@ -28,7 +30,7 @@
 
 [**Legislative History**](#Legislative-History)
 
-# Hijacking and Protection of Aircraft Act
+# Hijacking of Aircraft and Protection of Aircraft and International Airports Act
 
 (CHAPTER 124)
 
@@ -38,13 +40,17 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Act to give effect to the Convention for the Suppression of Unlawful Seizure of Aircraft signed at The Hague on 16th December 1970, and to the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation signed at Montreal on 23rd September 1971, and for purposes connected therewith.
+An Act to give effect to the Convention for the Suppression of Unlawful Seizure of Aircraft signed at The Hague on 16th December 1970, and to the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation signed at Montreal on 23rd September 1971, and to the Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation signed at Montreal on 24th February 1988, and for purposes connected therewith.
+
+[32/96 wef 01/11/1996]
 
 [8th April 1978]
 
 ### Short title
 
-1\. This Act may be cited as the Hijacking and Protection of Aircraft Act.
+1\. This Act may be cited as the Hijacking of Aircraft and Protection of Aircraft and International Airports Act .
+
+[32/96 wef 01/11/1996]
 
 ### Interpretation
 
@@ -63,6 +69,10 @@ An Act to give effect to the Convention for the Suppression of Unlawful Seizure 
 (iv) section 3 of the Kidnapping Act [Cap. 151]; and
 
 (b) any act done outside Singapore which, if done in Singapore, would constitute such an offence as is mentioned in paragraph (a);
+
+“aerodrome” has the same meaning as in the Air Navigation Act [Cap. 6];
+
+[32/96 wef 01/11/1996]
 
 “landing” includes alighting on water;
 
@@ -150,15 +160,51 @@ shall be guilty of an offence.
 
 (7) In this section, “civil aircraft” means any aircraft other than an aircraft used in military, customs or police service.
 
+### Endangering safety at aerodromes
+
+6A\.—(1) Any person who by means of any device, substance or weapon intentionally commits at an aerodrome serving international civil aviation any act of violence which —
+
+(a) causes or is likely to cause death or serious personal injury; and
+
+(b) endangers or is likely to endanger the safe operation of the aerodrome or the safety of persons at the aerodrome,
+
+shall be guilty of an offence.
+
+(2) Subject to subsection (4), any person who by means of any device, substance or weapon unlawfully and intentionally —
+
+(a) destroys or seriously damages —
+
+(i) property used for the provision of any facilities at an aerodrome serving international civil aviation (including any apparatus or equipment so used); or
+
+(ii) any aircraft which is at such an aerodrome but is not in service; or
+
+(b) disrupts the services of such an aerodrome,
+
+in such a way as to endanger or be likely to endanger the safe operation of the aerodrome or the safety of persons at the aerodrome, shall be guilty of an offence.
+
+(3) Except as provided in subsection (4), subsections (1) and (2) shall apply whether any such act as is referred to in those subsections is committed in Singapore or elsewhere and whatever the nationality of the person committing the act.
+
+(4) Subsection (2)(a)(ii) shall not apply to any act committed in relation to an aircraft used in military, customs or police service unless —
+
+(a) the act is committed in Singapore; or
+
+(b) where the act is committed outside Singapore, the person committing it is a citizen of Singapore.
+
+[32/96 wef 01/11/1996]
+
 ### Abetting the commission of acts outside Singapore
 
 7\. Any person in Singapore who abets the commission elsewhere of any act which —
 
 (a) would, but for subsection (2) of section 3, be the offence of hijacking;
 
-(b) would, but for subsection (4) of section 5, be an offence under that section; or
+(b) would, but for subsection (4) of section 5, be an offence under that section;
 
-(c) would, but for subsection (5) or (6) of section 6, be an offence under that section,
+(c) would, but for subsection (5) or (6) of section 6, be an offence under that section; or
+
+(d) would, but for subsection (4) of section 6A, be an offence under that section,
+
+[32/96 wef 01/11/1996]
 
 shall be guilty of an offence.
 
@@ -196,11 +242,13 @@ but no further steps in the proceedings in relation to the offence shall be take
 
 shall be deemed to be an offence within the jurisdiction of that state.
 
-(4) In this section, “the Convention” means the Convention for the Suppression of Unlawful Seizure of Aircraft signed at The Hague on 16th December 1970, or the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation signed at Montreal on 23rd September 1971.
+(4) In this section, “the Convention” means the Convention for the Suppression of Unlawful Seizure of Aircraft signed at The Hague on 16th December 1970, or the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation signed at Montreal on 23rd September 1971 or the Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation signed at Montreal on 24th February 1988.
+
+[32/96 wef 01/11/1996]
 
 ## LEGISLATIVE HISTORY
 
-Hijacking and Protection of Aircraft Act
+Hijacking of Aircraft and Protection of Aircraft and International Airports Act
 
 (CHAPTER 124)
 
@@ -215,3 +263,8 @@ This Legislative History is provided for the convenience of users of the Hijacki
 ||Date of commencement|8 April 1978|
 |2.|**1985 Revised Edition—Hijacking and Protection of Aircraft Act**|
 ||Date of operation|30 March 1987|
+|3.|**Act 32 of 1996—Hijacking and Protection of Aircraft (Amendment) Act 1996**|
+||Date of First Reading|12 July 1996|
+|||(Bill No. 20/96 published on 13 July 1996)|
+||Date of Second and Third Readings|27 August 1996|
+||Date of commencement|1 November 1996|
