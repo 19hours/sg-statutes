@@ -136,6 +136,8 @@
 
 - [57 No action in absence of bad faith](#No-action-in-absence-of-bad-faith)
 
+- [57A Jurisdiction of Courts](#Jurisdiction-of-Courts)
+
 - [58 Regulations](#Regulations)
 
 - [59 Amendment of Schedule](#Amendment-of-Schedule)
@@ -1086,6 +1088,12 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 57\. No action or proceedings shall lie against the Medical Council, a Complaints Committee, a Disciplinary Committee, the Health Committee or any other committee appointed by the Medical Council or any member or employee thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
 
+### Jurisdiction of Courts
+
+57A\. A Magistrate’s Court or a District Court shall have jurisdiction to hear and determine all offences under this Act and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of any offence under this Act.
+
+[28/2000 wef 01/11/2000]
+
 ### Regulations
 
 58\.—(1) Subject to the provisions of this Act, the Medical Council may, with the approval of the Minister, make such regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration thereof.
@@ -1336,3 +1344,8 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|3 April 1998|
 |2.|**1998 Revised Edition—Medical Registration Act**|
 ||Date of operation|30 May 1998|
+|3.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
+||Date of First Reading|25 August 2000|
+|||(Bill No. 22/2000 published on 26 August 2000)|
+||Date of Second and Third Readings|9 October 2000|
+||Date of commencement|1 November 2000|
