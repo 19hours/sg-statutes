@@ -108,11 +108,11 @@
 
 - [46 Power to enter and search](#Power-to-enter-and-search)
 
-- [46A Officers of Central Narcotics Bureau to exercise powers conferred on police officers under sections 44, 45 and 46](#Officers-of-Central-Narcotics-Bureau-to-exercise-powers-conferred-on-police-officers-under-sections-44-45-and-46)
+- [47 Officers of Central Narcotics Bureau to exercise powers conferred on police officers under sections 44, 45 and 46](#Officers-of-Central-Narcotics-Bureau-to-exercise-powers-conferred-on-police-officers-under-sections-44-45-and-46)
 
-- [47 Powers of Public Prosecutor](#Powers-of-Public-Prosecutor)
+- [48 Powers of Public Prosecutor](#Powers-of-Public-Prosecutor)
 
-- [48 Rules](#Rules)
+- [49 Rules](#Rules)
 
 [**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
@@ -122,15 +122,17 @@
 
 [**Legislative History**](#Legislative-History)
 
+[**Comparative Table**](#Comparative-Table)
+
 # Criminal Law (Temporary Provisions) Act
 
 (CHAPTER 67)
 
-(Original Enactment: Ordinance 26 of 1955)
+(Original Enactment: ORDINANCE 26 of 1955)
 
-REVISED EDITION 1998
+REVISED EDITION 2000
 
-(30th May 1998)
+(1st July 2000)
 
 An Act to make temporary provisions for the maintenance of public order, the control of supplies by sea to Singapore, and the prevention of strikes and lock-outs in essential services.
 
@@ -145,8 +147,6 @@ PRELIMINARY
 1\.—(1) This Act may be cited as the Criminal Law (Temporary Provisions) Act.
 
 (2) This Act shall continue in force for a period of 5 years from 21st October 1999.
-
-[17/99 wef 21/10/1999]
 
 (3) The expiry of this Act shall not affect the operation thereof as respects things previously done or omitted to be done.
 
@@ -188,11 +188,11 @@ MISCELLANEOUS OFFENCES RELATING TO PUBLIC SAFETY
 
 ### Supplies
 
-3\.—(1) Any person who demands, collects or receives any supplies from any other person in circumstances which raise a reasonable presumption that he intends or is about to act or has recently acted in a manner prejudicial to public safety in Singapore or the maintenance of public order therein or that the supplies so demanded, collected or received are intended for the use of any person who that first-mentioned person knows or has reason to believe intends or is about so to act or has recently so acted, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 10 years.
+3\.—(1) Any person who demands, collects or receives any supplies from any other person in circumstances which raise a reasonable presumption that he intends or is about to act or has recently acted in a manner prejudicial to public safety in Singapore or the maintenance of public order therein or that the supplies so demanded, collected or received are intended for the use of any person who that first-mentioned person knows or has reason to believe intends, or is about, so to act, or has recently so acted, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 10 years.
 
 (2) Any person who is found in possession of any supplies for which he cannot satisfactorily account in circumstances which raise a reasonable presumption that the supplies are intended for the use of any person who that first-mentioned person knows or has reason to believe intends, or is about, to act, or has recently acted, in a manner prejudicial to public safety in Singapore or the maintenance of public order therein, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 7 years.
 
-(3) Any person who provides, directly or indirectly, any supplies to any other person in circumstances which raise a reasonable presumption that the first-mentioned person knows or has reason to believe that other person intends, or is about, to act, or has recently acted, in a manner prejudicial to public safety in Singapore or the maintenance of public order therein, or that the supplies so provided are intended for the use of any person who intends or is about, so to act, or has recently so acted, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 7 years.
+(3) Any person who provides, directly or indirectly, any supplies to any other person in circumstances which raise a reasonable presumption that the first-mentioned person knows or has reason to believe that other person intends, or is about, to act, or has recently acted, in a manner prejudicial to public safety in Singapore or the maintenance of public order therein, or that the supplies so provided are intended for the use of any person who intends, or is about, so to act, or has recently so acted, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 7 years.
 
 (4) No person shall be convicted of any offence under subsection (3) if he proves that prior to being charged with or accused of that offence by a police officer or a person in authority he voluntarily gave full information of the offence to a police officer.
 
@@ -244,7 +244,7 @@ ILLEGAL STRIKES AND LOCK-OUTS IN ESSENTIAL SERVICES
 
 (b) gas services; and
 
-(c) electricity services.
+(c) electricity services
 
 (2) No workman employed in any essential service, not being an essential service specified in subsection (1), shall go on strike —
 
@@ -286,9 +286,9 @@ ILLEGAL STRIKES AND LOCK-OUTS IN ESSENTIAL SERVICES
 
 (9) Every notice which is given under subsection (2) or (4) shall expire at the end of 30 days from the date of the notice.
 
-(10) In this section, "proceedings" means —
+(10) In this section, “proceedings” means —
 
-(a) conciliation proceedings directed by the Commissioner under section 20(2) of the Industrial Relations Act (Cap.136) or by the Minister under section 22(1) of that Act;
+(a) conciliation proceedings directed by the Commissioner under section 20(2) of the Industrial Relations Act (Cap. 136) or by the Minister under section 22(1) of that Act;
 
 (b) proceedings before an Industrial Arbitration Court in respect of a trade dispute of which that Court has cognizance by virtue of section 31 of the Industrial Relations Act; or
 
@@ -332,13 +332,15 @@ GENERAL
 
 ### Dispersal of assemblies
 
-13\.—(1) Whenever the Minister declares that an immediate threat to public peace exists within Singapore or any part thereof, any police officer not below the rank of sergeant may command any assembly of 10 or more persons within Singapore to disperse and it shall thereupon be the duty of those persons to disperse accordingly and any person joining or continuing in any such assembly shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+13\.—(1) Whenever the Minister declares that an immediate threat to public peace exists within Singapore or any part thereof, any police officer not below the rank of sergeant may command any assembly of 10 or more persons within Singapore to disperse and it shall thereupon be the duty of those persons to disperse accordingly.
 
 [21/73]
 
-(2) Any such declaration shall, but without prejudice to the making of a further declaration, remain in force for a period not exceeding 48 hours.
+(2) Any person joining or continuing in any assembly referred to in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(3) In any prosecution under this section, a certificate signed by the Minister as to the date and time of the making of a declaration shall be admissible in evidence and shall not be called in question in any court.
+(3) Any declaration under subsection (1) shall, but without prejudice to the making of a further declaration, remain in force for a period not exceeding 48 hours.
+
+(4) In any prosecution under this section, a certificate signed by the Minister as to the date and time of the making of a declaration shall be admissible in evidence and shall not be called in question in any court.
 
 ### Powers of search and boarding vessels
 
@@ -346,7 +348,11 @@ GENERAL
 
 [12/76]
 
-(2) Without prejudice to the provisions of any other written law, any police officer may, when on duty and on the authority of a police officer not below the rank of sergeant, stop, board and search any vessel not being or having the status of a ship of war and may remain on board so long as the vessel remains within the waters of Singapore.
+(2) Without prejudice to the provisions of any other written law, any police officer may, when on duty and on the authority of a police officer not below the rank of sergeant —
+
+(a) stop, board and search any vessel not being or having the status of a ship of war; and
+
+(b) remain on board so long as the vessel remains within the waters of Singapore.
 
 [21/73]
 
@@ -364,17 +370,17 @@ GENERAL
 
 (2) Where any person is charged with an offence under subsection (1), the burden of proving that there was no opportunity of making a report to a police officer, or that such a report was, in fact, made by him at the earliest possible opportunity, shall lie on the accused.
 
-(3) Subsection (1) shall not apply to communications made by a client to an advocate and solicitor which are protected from disclosure under section 128 of the Evidence Act (Cap.97).
+(3) Subsection (1) shall not apply to communications made by a client to an advocate and solicitor which are protected from disclosure under section 128 of the Evidence Act (Cap. 97).
 
 ### Attempt to commit offences and assisting offenders
 
-17\.—(1) Without prejudice to the operation of Chapter V and Chapter XXIII of the Penal Code (Cap.224), any person who attempts to commit, or does any act preparatory to the commission of an offence under this Act, shall be deemed to be guilty of that offence.
+17\.—(1) Without prejudice to the operation of Chapter V and Chapter XXIII of the Penal Code (Cap. 224), any person who attempts to commit, or does any act preparatory to the commission of an offence under this Act, shall be deemed to be guilty of that offence.
 
 (2) No person, knowing or having reasonable cause to believe that another person has committed an offence under this Act, shall give that other person any assistance with intent thereby to prevent, hinder or interfere with the apprehension, trial or punishment of that person for that offence.
 
 ### Offences seizable and non-bailable
 
-18\. Every offence under this Act, other than an offence under section 9, shall be seizable and non-bailable for the purposes of the Criminal Procedure Code (Cap.68).
+18\. Every offence under this Act, other than an offence under section 9, shall be seizable and non-bailable for the purposes of the Criminal Procedure Code (Cap. 68).
 
 ### Offences by companies, etc.
 
@@ -410,9 +416,9 @@ GENERAL
 
 ### Disposal of articles in possession of authorities
 
-25\.—(1) The provisions of the Criminal Procedure Code (Cap.68) relating to the disposal of property the subject of offences shall apply to any article coming into the possession of an authority which the authority has reasonable ground for believing to be evidence of the commission of an offence under this Act, as they apply to property coming into the possession of the police, and in relation to any such article, shall have effect as if any reference therein to a police officer included a reference to an authority.
+25\.—(1) The provisions of the Criminal Procedure Code (Cap. 68) relating to the disposal of property the subject of offences shall apply to any article coming into the possession of an authority which the authority has reasonable ground for believing to be evidence of the commission of an offence under this Act, as they apply to property coming into the possession of the police, and in relation to any such article, shall have effect as if any reference therein to a police officer included a reference to an authority.
 
-(2) For the purposes of this section, "authority" includes any public officer and any other person whomsoever having functions in connection with the operation of this Act.
+(2) For the purposes of this section, “authority” includes any public officer and any other person whomsoever having functions in connection with the operation of this Act.
 
 (3) Nothing in this section shall be taken to prejudice any right to retain or dispose of property which may exist in the law apart from this section.
 
@@ -424,7 +430,7 @@ GENERAL
 
 ### Registration of persons arrested or convicted
 
-27\.—(1) The provisions of the Registration of Criminals Act (Cap.268) relating to the taking of finger impressions and photographs of persons under arrest and accused of any crime shall apply to persons arrested under this Act as if they were persons accused of any crime within the meaning of that Act.
+27\.—(1) The provisions of the Registration of Criminals Act (Cap. 268) relating to the taking of finger impressions and photographs of persons under arrest and accused of any crime shall apply to persons arrested under this Act as if they were persons accused of any crime within the meaning of that Act.
 
 (2) The Registration of Criminals Act shall apply to persons convicted of an offence under this Act as if the offence were a crime included in the First Schedule to that Act.
 
@@ -466,7 +472,7 @@ DETENTION
 
 33\.—(1) Any person directed to be subject to the supervision of the police under section 30 or 32 (referred to in this Act as a person subject to supervision under this Act) shall be subject to —
 
-(a) the obligations imposed upon persons subject to police supervision under section 14 of the Criminal Procedure Code (Cap.68); and
+(a) the obligations imposed upon persons subject to police supervision under section 14 of the Criminal Procedure Code (Cap. 68); and
 
 (b) all or any of the following restrictions as the Minister may by order direct:
 
@@ -476,23 +482,23 @@ DETENTION
 
 (iii) except in so far as may be otherwise provided by the order, he shall not leave Singapore without the written authority of a police officer not below the rank of inspector;
 
-(iv) he shall at all times keep the officer in charge of the police division in which he resides notified of the house or place in which he resides;
+(iv) he shall at all times keep the commander of the police division in which he resides notified of the house or place in which he resides;
 
 (v) he shall be liable, at such time or times as may be specified in the order, to present himself at the nearest police station;
 
-(vi) he shall remain within doors or within such area as may be defined in the order, between such hours as may be specified in the order, unless he obtains special permission to the contrary from the officer in charge of the police division in which he resides;
+(vi) he shall remain within doors or within such area as may be defined in the order, between such hours as may be specified in the order, unless he obtains special permission to the contrary from the commander of the police division in which he resides;
 
 (vii) except in so far as may be otherwise provided by the order, he shall not be permitted to enter any area specified in the order.
 
 [21/73]
 
-(2) Minister may, from time to time, by order in writing served on the person subject to supervision under this Act, vary, cancel or add to any restrictions imposed under this section.
+(2) The Minister may, from time to time, by order in writing served on the person subject to supervision under this Act, vary, cancel or add to any restrictions imposed under this section.
 
 (3) A person subject to supervision under this Act who contravenes or fails to comply with any order or restriction imposed on him under this section shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than one year and not more than 3 years.
 
 ### Person subject to supervision not to consort with other persons subject to supervision
 
-34\.—(1) No person subject to supervision under this Act shall consort or habitually associate with any other person subject to supervision under this Act without the permission of the officer in charge of the police district in which he resides, unless he proves that he did not know and had no reason to suspect that that other person was a person subject to supervision under this Act.
+34\.—(1) No person subject to supervision under this Act shall consort or habitually associate with any other person subject to supervision under this Act without the permission of the commander of the police division in which he resides, unless he proves that he did not know and had no reason to suspect that that other person was a person subject to supervision under this Act.
 
 (2) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than one year and not more than 3 years.
 
@@ -534,13 +540,13 @@ and who is unable satisfactorily to account for his presence at that place or ti
 
 40\.—(1) Every advisory committee shall for the purposes of this Act have all the powers of a court for the summoning and examination of witnesses, the administration of oaths or affirmations and for compelling the production of documents.
 
-(2) Every member of an advisory committee shall be deemed to be a public servant within the meaning of the Penal Code (Cap.224) and shall have in case of any action or suit brought against him for any act done or omitted to be done in the execution of his duty under the provisions of this Act the like protection and privileges as are by law given to a Judge in the execution of his office.
+(2) Every member of an advisory committee shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224) and shall have in case of any action or suit brought against him for any act done or omitted to be done in the execution of his duty under the provisions of this Act the like protection and privileges as are by law given to a Judge in the execution of his office.
 
-(3) Every advisory committee shall have regard to the requirements of public safety, the protection of individuals and the safeguarding of sources of information and subject to the provisions of this Act and any rules made under section 48 may regulate its own procedure.
+(3) Every advisory committee shall have regard to the requirements of public safety, the protection of individuals and the safeguarding of sources of information and subject to the provisions of this Act and any rules made under section 49 may regulate its own procedure.
 
 ### Disclosure of information
 
-41\. Nothing in this Act or in any rules made under section 48 shall require the Minister or any other public servant to disclose facts which he considers it to be against the public interest to disclose.
+41\. Nothing in this Act or in any rules made under section 49 shall require the Minister or any other public servant to disclose facts which he considers it to be against the public interest to disclose.
 
 ### Manner of detention and powers to order removal
 
@@ -572,11 +578,11 @@ and who is unable satisfactorily to account for his presence at that place or ti
 
 (8) Every person released under this section shall continue to be in the legal custody of the superintendent of the place of detention from which he is released during every period for which he is so released.
 
-(9) For the purposes of this section, "detainee" means any person who is detained in pursuance of an order made under section 30.
+(9) For the purposes of this section, “detainee” means any person who is detained in pursuance of an order made under section 30.
 
 ### Power to detain suspected persons
 
-44\.—(1) Any police officer may without warrant arrest and detain pending enquiries any person in respect of whom he has reason to believe there are grounds which would justify the detention of the person under section 30.
+44\.—(1) Any police officer may, without warrant, arrest and detain pending enquiries any person in respect of whom he has reason to believe there are grounds which would justify the detention of the person under section 30.
 
 (2) No person shall be detained under this section for a period exceeding 24 hours except with the authority of a police officer of or above the rank of assistant superintendent or for a period of 48 hours in all.
 
@@ -596,39 +602,55 @@ and who is unable satisfactorily to account for his presence at that place or ti
 
 ### Officers of Central Narcotics Bureau to exercise powers conferred on police officers under sections 44, 45 and 46
 
-46A\.—(1) Subject to this section, the powers conferred upon a police officer under sections 44, 45 and 46 may be exercised by an officer of the Central Narcotics Bureau.
+47\.—(1) Subject to this section, the powers conferred upon a police officer under sections 44, 45 and 46 may be exercised by an officer of the Central Narcotics Bureau.
+
+[17/99]
 
 (2) The powers conferred upon a police officer of or above the rank of assistant superintendent under sections 44(2) and 46 may be exercised by the Director, the Deputy Director or an Assistant Director of the Central Narcotics Bureau.
 
+[17/99]
+
 (3) The power conferred upon an officer of or above the rank of superintendent of police under section 44(3) may be exercised by the Director or the Deputy Director of the Central Narcotics Bureau.
+
+[17/99]
 
 (4) Subject to subsection (5), where the power conferred upon an officer of or above the rank of superintendent of police under section 44(3), or the power conferred upon a police officer under section 45(1), is exercised by an officer of the Central Narcotics Bureau in accordance with this section, the duty to report to the Commissioner of Police under those sections shall be read as a duty to report in a similar manner to the Director of the Central Narcotics Bureau.
 
+[17/99]
+
 (5) The duty to report to the Director of the Central Narcotics Bureau referred to in subsection (4) shall not apply where the power under section 44(3) or 45(1) was exercised by the Director of the Central Narcotics Bureau himself.
+
+[17/99]
 
 (6) For the purposes of this section —
 
-“Director of the Central Narcotics Bureau”, “Deputy Director of the Central Narcotics Bureau” and “Assistant Director of the Central Narcotics Bureau” mean, respectively, the Director, the Deputy Director and an Assistant Director of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap.185);
+“Director of the Central Narcotics Bureau”, “Deputy Director of the Central Narcotics Bureau” and “Assistant Director of the Central Narcotics Bureau” mean, respectively, the Director, the Deputy Director and an Assistant Director of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185);
 
-“officer of the Central Narcotics Bureau” means the Director, the Deputy Director, the Assistant Directors and any other officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act.
+“officer of the Central Narcotics Bureau” means the Director, the Deputy Director, the Assistant Directors and any other officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185).
 
-[17/99 wef 21/10/1999]
+[46A
+
+[17/99]
 
 ### Powers of Public Prosecutor
 
-47\. Nothing in this Act derogates from the powers of the Public Prosecutor with regard to the control and direction of criminal prosecutions.
+48\. Nothing in this Act derogates from the powers of the Public Prosecutor with regard to the control and direction of criminal prosecutions.
+
+[47
 
 ### Rules
 
-48\.—(1) The Minister may make rules for the purpose of carrying into effect all or any of the provisions of this Part.
+49\.—(1) The Minister may make rules for the purpose of carrying into effect all or any of the provisions of this Part.
 
 (2) Without prejudice to the generality of the powers conferred by subsection (1), such rules may provide for —
 
-(a) the issue by the Commissioner of National Registration appointed under the National Registration Act (Cap.201) of special identity cards to all or any class of persons subject to supervision under this Act;
+(a) the issue by the Commissioner of National Registration appointed under the National Registration Act (Cap. 201) of special identity cards to all or any class of persons subject to supervision under this Act;
 
 (b) the form, custody, production, inspection, cancellation, alteration, endorsement on and replacement of those cards and the substitution thereof for identity cards issued to those persons under any written law; and
 
 (c) all other matters necessary or desirable in connection with those cards or the carrying thereof or the enforcement of those rules, including the prescription of penalties not exceeding in respect of any offence a fine of $5,000 or imprisonment for a term of 3 years or both.
+
+[48
 
 FIRST SCHEDULE
 
@@ -638,113 +660,59 @@ Part I
 
 Essential Services
 
-1. Banking services, including services relating to transactions in securities and futures contracts.
+1\. Banking services, including services relating to transactions in securities and futures contracts.
 
-[S 31/2000 wef 24/01/2000]
+2\. Broadcasting services.
 
-2. Broadcasting services.
+3\. Bulk distribution of fuel and lubricants.
 
-[S 31/2000 wef 24/01/2000]
+4\. Civil defence services.
 
-3. Bulk distribution of fuel and lubricants.
+5\. Clearing and settlement services relating to transactions in securities and futures contracts.
 
-[S 31/2000 wef 24/01/2000]
+6\. Drug enforcement services provided by the Central Narcotics Bureau.
 
-4. Civil defence services.
+7\. Electricity services and undertakings, including meter reading and billing, provided by any public electricity licensee licensed under the Public Utilities Act (Cap. 261).
 
-[S 31/2000 wef 24/01/2000]
+8\. Fire services, including rescue and fire-fighting services provided by the Civil Aviation Authority of Singapore.
 
-5. Clearing and settlement services relating to transactions in securities and futures contracts.
+9\. Gas services provided by any public gas licensee licensed under the Public Utilities Act.
 
-[S 31/2000 wef 24/01/2000]
+10\. Immigration and registration services.
 
-6. Drug enforcement services provided by the Central Narcotics Bureau.
+11\. Information services and undertakings provided by the Ministry of Information and the Arts and its agencies.
 
-[S 31/2000 wef 24/01/2000]
+12\. Juvenile rehabilitation services provided by the Ministry of Community Development and Sports.
 
-7. Electricity services and undertakings, including meter reading and billing, provided by any public electricity licensee licensed under the Public Utilities Act (Cap. 261).
+13\. Newspaper services.
 
-[S 31/2000 wef 24/01/2000]
+14\. Pollution control and environmental monitoring and assessment services provided by the Ministry of the Environment.
 
-8. Fire services, including rescue and fire-fighting services provided by the Civil Aviation Authority of Singapore.
+15\. Port, dock and harbour services and undertakings.
 
-[S 31/2000 wef 24/01/2000]
+16\. Postal and telecommunication services and undertakings.
 
-9. Gas services provided by any public gas licensee licensed under the Public Utilities Act (Cap. 261).
+17\. Prison services.
 
-[S 31/2000 wef 24/01/2000]
+18\. Public health services including services relating to the collection of blood for the use of hospitals and the pharmaceutical services under the Ministry of Health.
 
-10. Immigration and registration services.
+19\. Public transport and air transport services.
 
-[S 31/2000 wef 24/01/2000]
+20\. Refuse or waste collection services provided by any public waste collector licensee licensed under the Environmental Public Health Act (Cap. 95).
 
-11. Information services and undertakings provided by the Ministry of Information and the Arts and its agencies.
+21\. Services provided by the Air Traffic Controllers and the Operations and Licensing Assistants of the Civil Aviation Authority of Singapore.
 
-[S 31/2000 wef 24/01/2000]
+22\. Services relating to transactions in securities and future contracts provided by dealers licensed under the Securities Industry Act (Cap. 289) and by futures brokers licensed under the Futures Trading Act (Cap. 116), respectively.
 
-12. Juvenile rehabilitation services provided by the Ministry of Community Development.
+23\. Sewerage and waste water treatment services.
 
-[S 31/2000 wef 24/01/2000]
+24\. Veterinary public health services provided by the Agri-food and Veterinary Authority, including the inspection of primary food (meat and meat product, fish and fish product, egg, raw milk, fruit and vegetable) at the point of import and before distribution to retail.
 
-13. Newspaper services.
+25\. Water services.
 
-[S 31/2000 wef 24/01/2000]
+26\. Water reclamation services.
 
-14. Pollution control and environmental monitoring and assessment services provided by the Ministry of the Environment.
-
-[S 31/2000 wef 24/01/2000]
-
-15. Port, dock and harbour services and undertakings.
-
-[S 31/2000 wef 24/01/2000]
-
-16. Postal and telecommunication services and undertakings.
-
-[S 31/2000 wef 24/01/2000]
-
-17. Prison services.
-
-[S 31/2000 wef 24/01/2000]
-
-18. Public health services including services relating to the collection of blood for the use of hospitals and the pharmaceutical services under the Ministry of Health.
-
-[S 31/2000 wef 24/01/2000]
-
-19. Public transport and air transport services.
-
-[S 31/2000 wef 24/01/2000]
-
-20. Refuse or waste collection services provided by any public waste collector licensee licensed under the Environmental Public Health Act (Cap. 95).
-
-[S 31/2000 wef 24/01/2000]
-
-21. Services provided by the Air Traffic Controllers and the Operations and Licensing Assistants of the Civil Aviation Authority of Singapore.
-
-[S 31/2000 wef 24/01/2000]
-
-22. Services relating to transactions in securities and future contracts provided by dealers licensed under the Securities Industry Act (Cap. 289) and by futures brokers licensed under the Futures Trading Act (Cap. 116) respectively.
-
-[S 31/2000 wef 24/01/2000]
-
-23. Sewerage and waste water treatment services.
-
-[S 31/2000 wef 24/01/2000]
-
-24. Veterinary public health services provided by the Primary Production Department, including the inspection of primary food (meat and meat product, fish and fish product, egg, raw milk, fruit and vegetable) at the point of import and before distribution to retail.
-
-[S 31/2000 wef 24/01/2000]
-
-25. Water services.
-
-[S 31/2000 wef 24/01/2000]
-
-26. Water reclamation services.
-
-[S 31/2000 wef 24/01/2000]
-
-27. Weather information provided by the Meteorological Service Department of the Ministry of Communications and Information Technology.
-
-[S 31/2000 wef 24/01/2000]
+27\. Weather information provided by the Meteorological Service Department of the Ministry of Communications and Information Technology.
 
 28. The following undertakings performed for the Singapore Armed Forces:
 
@@ -762,11 +730,9 @@ Essential Services
 
 (g) the surveillance, testing and disposal of ammunition.
 
-[S 31/2000 wef 24/01/2000]
-
 29. All undertakings of whatever nature of —
 
-(a) the Board of Commissioners of Currency, Singapore;
+(a) the Board of Commissioners of Currency, Singapore ;
 
 (b) the CISCO Brambles Records Management Pte. Ltd.;
 
@@ -788,33 +754,31 @@ Essential Services
 
 (k) the Thomas De La Rue (Singapore) Pte. Ltd.
 
-[S 31/2000 wef 24/01/2000]
+[S 31/2000]
 
 Part II
 
 FORM 1
 
-CRIMINAL LAW (TEMPORARY PROVISIONS) ACT
+Section 6(5)
 
 FORM 2
 
-CRIMINAL LAW (TEMPORARY PROVISIONS) ACT
+Section 6(6)
 
 SECOND SCHEDULE
 
-Section 16
+Section 16(1)
 
 Reportable Offences
 
-1. The Arms Offences Act (Cap.14)
+1. The Arms Offences Act (Cap. 14)
 
 Sections 3, 6 and 7.
 
-2. The Explosive Substances Act (Cap.100)
+2. The Explosive Substances Act (Cap. 100)
 
 Sections 3 and 4.
-
-[S 228/75]
 
 THIRD SCHEDULE
 
@@ -822,19 +786,21 @@ Section 35
 
 Specified Laws
 
-1\. Sections 3, 4, 6 and 7 of the Arms Offences Act (Cap.14).
+1. Sections 3, 4, 6 and 7 of the Arms Offences Act (Cap. 14).
 
-2\. The Corrosive and Explosive Substances and Offensive Weapons Act (Cap.65).
+[S 228/75]
 
-3\. Sections 58 and 59 of the Internal Security Act (Cap.143).
+2\. The Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65).
 
-4\. Sections 3, 4 and 5 of the Kidnapping Act (Cap.151).
+3\. Sections 58 and 59 of the Internal Security Act (Cap. 143).
 
-5\. Section 5 of the Misuse of Drugs Act (Cap.185).
+4\. Sections 3, 4 and 5 of the Kidnapping Act (Cap. 151).
 
-6\. Sections 143, 144, 145, 147, 148, 307, 323, 324, 325, 326, 327, 332, 333, 346, 347, 352, 353, 356, 357, 363, 364, 365, 368, 384, 385, 386, 387, 392, 393, 394, 395, 396, 397, 399, 400, 401, 402, 447, 448, 450, 451, 452, 453, 454, 455, 457, 458, 506, 511 and Chapter V of the Penal Code (Cap.224).
+5\. Section 5 of the Misuse of Drugs Act (Cap. 185).
 
-7\. Sections 14 and 15 of the Societies Act (Cap.311).
+6\. Sections 143, 144, 145, 147, 148, 307, 323, 324, 325, 326, 327, 332, 333, 346, 347, 352, 353, 356, 357, 363, 364, 365, 368, 384, 385, 386, 387, 392, 393, 394, 395, 396, 397, 399, 400, 401, 402, 447, 448, 450, 451, 452, 453, 454, 455, 457, 458, 506, 511 and Chapter V of the Penal Code (Cap. 224).
+
+7\. Sections 14 and 15 of the Societies Act (Cap. 311).
 
 ## LEGISLATIVE HISTORY
 
@@ -987,3 +953,43 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of commencement|21 October 1999|
 |39.|**G. N. No. S 31/2000—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) Notification 2000**|
 ||Date of commencement|24 January 2000|
+|40.|**2000 Revised Edition—Criminal Law (Temporary Provisions) Act**|
+||Date of operation|1 July 2000|
+## COMPARATIVE TABLE
+
+Criminal Law (Temporary Provisions) Act
+
+(CHAPTER 67)
+
+The following provisions in the 1998 Revised Edition of the Criminal Law (Temporary Provisions) Act have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Criminal Law (Temporary Provisions) Act.
+
+2000 Ed\. 
+
+1998 Ed\. 
+
+13 —(1) and (2)
+
+13 —(1)
+
+(3)
+
+(2)
+
+(4)
+
+(3)
+
+47 
+
+46A 
+
+48 
+
+47 
+
+49 
+
+48 
+
