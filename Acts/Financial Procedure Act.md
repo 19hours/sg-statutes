@@ -72,6 +72,8 @@
 
 - [24 Regulations](#Regulations)
 
+[**THE SCHEDULE Moneys in Deposit Account to be Invested on Deposit in Bank**](#THE-SCHEDULE)
+
 [**Legislative History**](#Legislative-History)
 
 # Financial Procedure Act
@@ -134,7 +136,7 @@ ACCOUNTANT-GENERAL
 
 2B\.—(1) The Accountant-General shall be responsible for the supervision and administration of the Government accounting system, including financial and accounting records and procedures for the receipt, custody, investment, safekeeping and payment of public moneys and the purchase, custody and disposal of public property.
 
-(2) The Accountant-General shall perform such other duties and exercise such other powers in relation to the accounts of the Government as may be prescribed by or under any written law.
+(2) The Accountant-General shall perform such other duties and exercise such other powersin relation to the accounts of the Government as may be prescribed by or under any written law.
 
 [25/91]
 
@@ -204,15 +206,41 @@ as the case may be.
 
 [25/91]
 
+(5) All costs, expenses and charges incurred in relation to making any investment under subsection (3) shall be charged on and paid out of the Consolidated Fund without further authority other than this section.
+
+[22/2003 wef 01/04/2004]
+
+(6) Notwithstanding subsection (3), moneys specified in the Schedule and paid to the credit of any deposit account constituted under section 8 shall be invested by the Minister on deposit in any bank.
+
+[22/2003 wef 01/04/2004]
+
+(7) Interest received from the investment of any moneys in accordance with subsection (6) shall be paid, in such manner and at such rate as the Minister may direct, to the credit of the deposit account to which it relates and any balance of interest not so paid to the credit of any deposit account shall be paid into the Consolidated Revenue Account.
+
+[22/2003 wef 01/04/2004]
+
+(8) The Minister may at any time, by order published in theGazette, add to or vary the Schedule.
+
+[22/2003 wef 01/04/2004]
+
 ### Capital injections to statutory corporations
 
 7A\.—(1) Notwithstanding section 7, the Minister may invest by way of capital injection in any statutory corporation out of a capital contribution appropriated by Parliament from the Consolidated Fund by written law.
 
+[5/2002 wef 15/07/2002]
+
 (2) Except as otherwise expressly provided in any written law, the Minister, after consultation with the Minister charged with the responsibility for the statutory corporation concerned, shall determine the terms and conditions under which the capital injection under this section shall be made, and may from time to time vary such terms and conditions.
+
+[5/2002 wef 15/07/2002]
 
 (3) Without prejudice to subsection (2), the Minister may from time to time, on behalf of the Government, subscribe for or otherwise acquire shares or other securities in the statutory corporation in which moneys are invested by way of capital injection under this section.
 
+[5/2002 wef 15/07/2002]
+
 (4) Nothing in this section shall prevent the investment of moneys by the Government in any statutory corporation in accordance with the Development Fund Act (Cap. 80) or the Developmental Investment Fund Act (Cap. 79).
+
+[5/2002 wef 15/07/2002]
+
+[22/2003 wef 19/12/2003]
 
 (5) In this section —
 
@@ -290,23 +318,23 @@ Provided that this subsection shall not apply to sums issued from the Consolidat
 
 (3)(a) The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to meet expenditure —
 
-(i) appropriated by a Supply or Supplementary Supply law or any other law or approved by resolution of Parliament in accordance with Article 148A(2) of the Constitution; or
+(i)
 
-(ii) approved by resolution of Parliament in accordance with Article 148B(1) of the Constitution with which the President concurs:
+appropriated by a Supply or Supplementary Supply law or any other law or approved by resolution of Parliament in accordance with Article 148A(2) of the Constitution; or
+
+(ii)
+
+approved by resolution of Parliament in accordance with Article 148B(1) of the Constitution with which the President concurs:
 
 Provided that the aggregate of such sums under each head of expenditure shall not exceed the total sum so approved.
 
-(b)
-
-The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to meet —
+(b) The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to meet —
 
 (i) expenditure approved by resolution of Parliament in accordance with Article 148B(2) of the Constitution with which the President concurs; or
 
 (ii) expenditure approved by the Cabinet in accordance with Article 148B(4) of the Constitution.
 
-(c)
-
-Notwithstanding any general or specific authority which may have been given by him, it shall be within the discretion of the Minister to limit or suspend any expenditure so authorised.
+(c) Notwithstanding any general or specific authority which may have been given by him, it shall be within the discretion of the Minister to limit or suspend any expenditure so authorised.
 
 (4) The Minister may by warrant under his hand authorise the issue from the Consolidated Fund of sums to be applied for the purposes for which funds shall have been appropriated by or in accordance with the provisions of any written law authorising the raising of a loan and such sums shall be accounted in the Consolidated Loan Account.
 
@@ -352,13 +380,15 @@ Notwithstanding any general or specific authority which may have been given by h
 
 17A\.—(1) Where, after the passing of a Supply law for a financial year, the responsibility for a service or purpose for which an appropriation is made in that law is transferred from the head of expenditure for which the appropriation was made to another head of expenditure, the Minister may in writing direct that the appropriation shall not lapse but may be issued to, or applied by, that other head, in accordance with the direction, for that service or purpose.
 
+[22/2003 wef 19/12/2003]
+
 (2) Where the Minister gives a direction under subsection (1), he shall cause a copy of the direction to be laid before Parliament within 30 days after it is given.
 
 [22/2003 wef 19/12/2003]
 
 ### Yearly statement of accounts
 
-18\. The Minister shall for the purpose of section 9 of the Audit Act, as soon as practicable after the end of every financial year, prepare in respect of that year —
+18\. The Minister shall for the purpose of section 9 of the Audit Act (Cap. 17), as soon as practicable after the end of every financial year, prepare in respect of that year —
 
 (a) a full and particular account of the Consolidated Revenue Account stating under the heads and subheads of the estimates or supplementary estimates laid before Parliament in accordance with Article 146, 147, 148, 148B or 148C of the Constitution in respect of that year the amounts estimated to be received and spent in that year and the amounts actually received and spent in that year;
 
@@ -380,8 +410,6 @@ Notwithstanding any general or specific authority which may have been given by h
 
 and, after the accounts and statements referred to in this section have been audited, present to the President those audited accounts and statements together with another statement stating whether the audited accounts and statements referred to in this section show any drawing on or likelihood of drawing on the reserves of the Government which were not accumulated by the Government during its current term of office as defined in the Constitution.
 
-[Cap. 17. 25/91]
-
 ### Write-off
 
 19\. Subject to the provisions of the Constitution, the Minister shall in respect of public moneys and public stores have power —
@@ -390,7 +418,7 @@ and, after the accounts and statements referred to in this section have been aud
 
 (b) to abandon any claim to irrecoverable amounts of revenue, debts and overpayments.
 
-[Act 18/94 wef 01/10/1994 vide S 390/94]
+[18/94 wef 01/10/1994]
 
 ### Surcharge
 
@@ -424,7 +452,7 @@ REGULATIONS
 
 ### Regulations
 
-24\.—(1) The Minister may make regulations, to be called Financial Regulations, not inconsistent with the provisions of this Act, for carrying out the provisions of this Act, and, in particular, such regulations may provide for —
+24\.—(1) The Minister may make regulations, to be called Financial Regulations, not inconsistent with the provisions of this Act, for carrying out the provisions of this Act and, in particular, such regulations may provide for —
 
 (a) the collection, receipt, custody, issue, expenditure, due accounting for, care and management of all public moneys and the guidance of all persons concerned therein;
 
@@ -444,13 +472,26 @@ REGULATIONS
 
 [25/91]
 
+## THE SCHEDULE
+
+Section 7(6)
+
+Moneys in Deposit Account to be
+
+
+
+
+Invested on Deposit in Bank
+
+[22/2003 wef 01/04/2004]
+
 ## LEGISLATIVE HISTORY
 
 Financial Procedure Act
 
 (CHAPTER 109)
 
-This Legislative History is provided for the convenience of users of the Financial Procedure Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Financial Procedure Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -517,3 +558,4 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 29/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
 ||Dates of commencement|19 December 2003 (section 3(b) and (c) – Amendment of the Financial Procedure Act)|
+|||1 April 2004 (section 3(a) and (d) – Amendment of the Financial Procedure Act)|
