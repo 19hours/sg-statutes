@@ -1,14 +1,12 @@
-**International Development Association Act 2002**
+**International Development Association Act**
 
-**(No. 11 of 2002)**
+**(CHAPTER 144A)**
 
 **Table of Contents**
 
 [**Long Title**](#International-Development-Association-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -30,43 +28,25 @@
 
 [**THE SCHEDULE Provisions Having Force of Law**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# International Development Association Act
 
-ACTS SUPPLEMENT
+(CHAPTER 144A)
 
-Published by Authority
+(Original Enactment: Act 11 of 2002)
 
-NO. 14]
+REVISED EDITION 2003
 
-Friday, August 2
-
-[2002
-
-The following Act was passed by Parliament on 8th July 2002 and assented to by the President on 17th July 2002:—
-
-International Development Association Act 2002
-
-(No. 11 of 2002)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-17th July 2002.
-
-Date of Commencement: 1st August 2002
+(31st July 2003)
 
 An Act to enable Singapore to become a member of the International Development Association by acceptance of the Articles of Agreement of the establishment and operation of the International Development Association.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st August 2002]
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the International Development Association Act 2002 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the International Development Association Act.
 
 ### Interpretation
 
@@ -84,11 +64,15 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (a) to sign the Agreement and such other instruments required for admission to membership of the Association; and
 
-(b) to deposit with the International Bank for Reconstruction and Development an instrument of acceptance stating that the Government has accepted without reservation in accordance with the laws of Singapore the Agreement and the terms and conditions of the membership resolution, and has taken all steps necessary to enable the Government to carry out all its obligations under the Agreement and the membership resolution.
+(b) to deposit with the International Bank for Reconstruction and Development an instrument of acceptance stating that the Government has —
+
+(i) accepted without reservation in accordance with the laws of Singapore the Agreement and the terms and conditions of the membership resolution; and
+
+(ii) taken all steps necessary to enable the Government to carry out all its obligations under the Agreement and the membership resolution.
 
 ### Financial provision for membership subscription
 
-4\.—(1) Subject to subsection (2), there shall be charged and paid out of the Consolidated Fund all sums necessary for the purpose of making all payments of subscriptions on behalf of the Government required to be made to the Association under the Agreement and the membership resolution.
+4\.—(1) Subject to subsection (2), there shall be charged and paid out of the Consolidated Fund all sums necessary for the purpose of making all payments of subscriptionson behalf of the Government required to be made to the Association under the Agreement and the membership resolution.
 
 (2) The total subscription to the Association shall not exceed the sum of one million United States dollars unless increased with the approval of Parliament signified by resolution.
 
@@ -100,7 +84,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 ### Power to raise loans
 
-6\.—(1) For the purpose of providing any sums required for making payments to the Association under section 4, the Minister, with the concurrence of the President under Article 144(1)(b) of the Constitution, may raise loans, on behalf of the Government, by the creation and issue of securities bearing such rates of interest and subject to such conditions as to repayment, redemption or otherwise as the Minister may think fit.
+6\.—(1) For the purpose of providing any sums required for making payments to the Association under section 4, the Minister may, with the concurrence of the President under Article 144(1)(b) of the Constitution, raise loans, on behalf of the Government, by the creation and issue of securities bearing such rates of interest and subject to such conditions as to repayment, redemption or otherwise as the Minister thinks fit.
 
 (2) The principal and interest of the securities issued under subsection (1) and any expenses incurred in connection with their creation and issue shall be charged on and paid out of the Consolidated Fund.
 
@@ -128,7 +112,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 10\.—(1) The Minister may make regulations for carrying out or giving effect to the provisions of this Act.
 
-(2) Such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
+(2) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
 ## THE SCHEDULE
 
@@ -138,15 +122,15 @@ Provisions Having Force of Law
 
 Article VIII
 
-Status, Immunities and Privileges
+Status, Immunities And Privileges
 
-Purposes of Article
+SECTION 1 Purposes of Article
 
-1\. To enable the Association to fulfill the functions with which it is entrusted, the status, immunities and privileges provided in this Article shall be accorded to the Association in the territories of each member.
+To enable the Association to fulfill the functions with which it is entrusted, the status, immunities and privileges provided in this Article shall be accorded to the Association in the territories of each member\.
 
-Status of the Association
+SECTION 2 Status of the Association
 
-2. The Association shall possess full juridical personality and, in particular, the capacity —
+The Association shall possess full juridical personality and, in particular, the capacity —
 
 (i) to contract;
 
@@ -154,29 +138,29 @@ Status of the Association
 
 (iii) to institute legal proceedings.
 
-Position of the Association with Regard to Judicial Process
+SECTION 3 Position of The Association with Regard to Judicial Process
 
-3\. Actions may be brought against the Association only in a court of competent jurisdiction in the territories of a member in which the Association has an office, has appointed an agent for the purpose of accepting service or notice of process, or has issued or guaranteed securities. No actions shall, however, be brought by members or persons acting for or deriving claims from members. The property and assets of the Association shall, wheresoever located and by whomsoever held, be immune from all forms of seizure, attachment or execution before the delivery of final judgment against the Association.
+Actions may be brought against the Association only in a court of competent jurisdiction in the territories of a member in which the Association has an office, has appointed an agent for the purpose of accepting service or notice of process, or has issued or guaranteed securities\. No actions shall, however, be brought by members or persons acting for or deriving claims from members. The property and assets of the Association shall, wheresoever located and by whomsoever held, be immune from all forms of seizure, attachment or execution before the delivery of final judgment against the Association.
 
-Immunity of Assets from Seizure
+SECTION 4 Immunity of Assets from Seizure
 
-4\. Property and assets of the Association, wherever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of seizure by executive or legislative action.
+Property and assets of the Association, wherever located and by whomsoever held, shall be immune from search, requisition, confiscation, expropriation or any other form of seizure by executive or legislative action\.
 
-Immunity of Archives
+SECTION 5 Immunity of Archives
 
-5\. The archives of the Association shall be inviolable.
+The archives of the Association shall be inviolable\.
 
-Freedom of Assets from Restrictions
+SECTION 6 Freedom of Assets from Restrictions
 
-6\. To the extent necessary to carry out the operations provided for in this Agreement and subject to the provisions of this Agreement, all property and assets of the Association shall be free from restrictions, regulations, controls and moratoria of any nature.
+To the extent necessary to carry out the operations provided for in this Agreement and subject to the provisions of this Agreement, all property and assets of the Association shall be free from restrictions, regulations, controls and moratoria of any nature\.
 
-Privilege for Communications
+SECTION 7 Privilege for Communications
 
-7\. The official communications of the Association shall be accorded by each member the same treatment that it accords to the official communications of other members.
+The official communications of the Association shall be accorded by each member the same treatment that it accords to the official communications of other members\.
 
-Immunities and Privileges of Officers and Employees
+SECTION 8 Immunities and Privileges of Officers and Employees
 
-8. All Governors, Executive Directors, Alternates, officers and employees of the Association —
+All Governors, Executive Directors, Alternates, officers and employees of the Association —
 
 (i) shall be immune from legal process with respect to acts performed by them in their official capacity except when the Association waives this immunity;
 
@@ -184,31 +168,42 @@ Immunities and Privileges of Officers and Employees
 
 (iii) shall be granted the same treatment in respect of travelling facilities as is accorded by members to representatives, officials and employees of comparable rank of other members.
 
-Immunities from Taxation
+SECTION 9 Immunities from Taxation
 
-9.—(a) The Association, its assets, property, income and its operations and transactions authorised by this Agreement, shall be immune from all taxation and from all customs duties. The Association shall also be immune from liability for the collection or payment of any tax or duty.
+(a) The Association, its assets, property, income and its operations and transactions authorised by this Agreement, shall be immune from all taxation and from all customs duties. The Association shall also be immune from liability for the collection or payment of any tax or duty.
 
-(b)
+(b) No tax shall be levied on or in respect of salaries and emoluments paid by the Association to Executive Directors, Alternates, officials or employees of the Association who are not local citizens, local subjects, or other local nationals.
 
-No tax shall be levied on or in respect of salaries and emoluments paid by the Association to Executive Directors, Alternates, officials or employees of the Association who are not local citizens, local subjects, or other local nationals.
-
-(c)
-
-No taxation of any kind shall be levied on any obligation or security issued by the Association (including any dividend or interest thereon) by whomsoever held —
+(c) No taxation of any kind shall be levied on any obligation or security issued by the Association (including any dividend or interest thereon) by whomsoever held —
 
 (i) which discriminates against such obligation or security solely because it is issued by the Association; or
 
 (ii) if the sole jurisdictional basis for such taxation is the place or currency in which it is issued, made payable or paid, or the location of any office or place of business maintained by the Association.
 
-(d)
-
-No taxation of any kind shall be levied on any obligation or security guaranteed by the Association (including any dividend or interest thereon) by whomsoever held —
+(d) No taxation of any kind shall be levied on any obligation or security guaranteed by the Association (including any dividend or interest thereon) by whomsoever held —
 
 (i) which discriminates against such obligation or security solely because it is guaranteed by the Association; or
 
 (ii) if the sole jurisdictional basis for such taxation is the location of any office or place of business maintained by the Association.
 
-Application of Article
+SECTION 10 Application of Article
 
-10\. Each member shall take such action as is necessary in its own territories for the purpose of making effective in terms of its own law the principles set forth in this Article and shall inform the Association of the detailed action which it has taken.
+Each member shall take such action as is necessary in its own territories for the purpose of making effective in terms of its own law the principles set forth in this Article and shall inform the Association of the detailed action which it has taken\.
 
+## LEGISLATIVE HISTORY
+
+International Development Association Act
+
+(CHAPTER 144A)
+
+This Legislative History is provided for the convenience of users of the International Development Association Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 11 of 2002—International Development Association Act 2002**|
+||Date of First Reading|5.4.2002|
+|||(Bill No. 4/2002 published on 6.4.2002)|
+||Date of Second and Third Readings|8.7.2002|
+||Date of commencement|1.8.2002|
+|2.|**2003 Revised Edition—International Development Association Act**|
+||Date of operation|31 July 2003|
