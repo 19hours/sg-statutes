@@ -26,9 +26,13 @@
 
 - [8 Power to order stoppage of activity causing damage to public street](#Power-to-order-stoppage-of-activity-causing-damage-to-public-street)
 
+- [8A Carrying out of engineering works within road structure safety zone](#Carrying-out-of-engineering-works-within-road-structure-safety-zone)
+
 - [9 Power to enter private land to construct new streets](#Power-to-enter-private-land-to-construct-new-streets)
 
 - [10 Creation of rights in, under or over land](#Creation-of-rights-in-under-or-over-land)
+
+- [10A Power to tap utilities for operation and maintenance of road related facility](#Power-to-tap-utilities-for-operation-and-maintenance-of-road-related-facility)
 
 - [11 Owner may request President to direct acquisition of land](#Owner-may-request-President-to-direct-acquisition-of-land)
 
@@ -52,13 +56,13 @@
 
 - [19 Expiry of approval of plans](#Expiry-of-approval-of-plans)
 
-- [20 Determination of amount to be deposited and date for completion](#Determination-of-amount-to-be-deposited-and-date-for-completion)
+- [20 Determination of amount to be deposited or secured and date for completion](#Determination-of-amount-to-be-deposited-or-secured-and-date-for-completion)
 
 - [21 Authority may execute street works or cause street works to be properly carried out](#Authority-may-execute-street-works-or-cause-street-works-to-be-properly-carried-out)
 
-- [22 Refund of deposit when street works have been completed](#Refund-of-deposit-when-street-works-have-been-completed)
+- [22 Refund of deposit or return of security when street works have been completed](#Refund-of-deposit-or-return-of-security-when-street-works-have-been-completed)
 
-- [23 Refund of deposit when building operations are not commenced](#Refund-of-deposit-when-building-operations-are-not-commenced)
+- [23 Refund of deposit or return of security when building operations are not commenced](#Refund-of-deposit-or-return-of-security-when-building-operations-are-not-commenced)
 
 [**Division II  Maintenance of private streets**](#Division-II--Maintenance-of-private-streets)
 
@@ -82,6 +86,8 @@
 
 [**Part VII BACK-LANES**](#Part-VII)
 
+- [29A Authority to manage, maintain and repair back-lanes vested in Government](#Authority-to-manage-maintain-and-repair-back-lanes-vested-in-Government)
+
 - [30 General provisions as to back-lanes](#General-provisions-as-to-back-lanes)
 
 - [31 Back-lanes to be levelled, paved, etc., by Authority](#Back-lanes-to-be-levelled-paved-etc-by-Authority)
@@ -89,6 +95,8 @@
 [**Part VIII SUPPLEMENTARY**](#Part-VIII)
 
 - [32 Power to erect lighting apparatuses, street name signs and other road related facilities](#Power-to-erect-lighting-apparatuses-street-name-signs-and-other-road-related-facilities)
+
+- [32A Obstruction of public streets, five-footways and private footways](#Obstruction-of-public-streets-five-footways-and-private-footways)
 
 - [33 Wilful damage to Government’s property and hindrance of Authority’s use of such property](#Wilful-damage-to-Government’s-property-and-hindrance-of-Authority’s-use-of-such-property)
 
@@ -124,6 +132,8 @@
 
 - [49 General penalties](#General-penalties)
 
+- [49A Jurisdiction of District Court](#Jurisdiction-of-District-Court)
+
 - [50 Inaccuracies in documents](#Inaccuracies-in-documents)
 
 - [51 Evidence](#Evidence)
@@ -134,9 +144,9 @@
 
 - [54 Transitional provisions and savings](#Transitional-provisions-and-savings)
 
-[**FIRST SCHEDULE Subject matters of Regulations**](#FIRST-SCHEDULE-Subject-matters-of-Regulations)
+[**FIRST SCHEDULE Subject Matters of Regulations**](#FIRST-SCHEDULE-Subject-Matters-of-Regulations)
 
-[**SECOND SCHEDULE Municipal Provident Fund**](#SECOND-SCHEDULE-Municipal-Provident-Fund)
+[**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -150,7 +160,7 @@ REVISED EDITION 1996
 
 (30th April 1996)
 
-An Act relating to street works and matters connected therewith.
+An Act relating to the construction, improvement, repair, maintenance and management of streets and back-lanes and other matters connected therewith, and the prevention of obstruction of five-footways and private footways.
 
 [1st September 1995]
 
@@ -198,8 +208,6 @@ PRELIMINARY
 
 “competent authority” means any competent authority appointed under section 5 of the Planning Act 1998;
 
-[Act 3 of 1998 wef 01/04/1998]
-
 “dwelling-house” includes a building or tenement wholly or principally used, constructed or adapted for use for human habitation;
 
 “footway” includes any footpath, verandah-way, open or covered walkway, pedestrian mall, plaza, square, and other related structures and facilities;
@@ -212,21 +220,45 @@ PRELIMINARY
 
 “occupier”, in relation to any premises, means the person in occupation of the premises or having the charge, management or control thereof either on his own account or as agent of another person, but does not include a lodger;
 
-“owner”, in relation to any premises, means the person for the time being receiving the rent of the premises whether on his own account or as agent or trustee for any other person or as receiver or who would receive the rent if the premises were let to a tenant, and includes the person whose name is entered in the Valuation List authenticated under section 15 of the Property Tax Act [Cap. 254];
+“owner”, in relation to any premises, means the person for the time being receiving the rent of the premises whether on his own account or as agent or trustee for any other person or as receiver or who would receive the rent if the premises were let to a tenant, and includes the person whose name is entered in the Valuation List prepared under section 10 of the Property Tax Act [Cap. 254];
 
 “premises” includes buildings, lands, easements and hereditaments of any tenure;
+
+“private footway” means any footway that is not vested in the Government and that —
+
+(a) is intended pursuant to a planning or conservation permission granted by the competent authority under the Planning Act (Cap. 232) to be used mainly for the movement or passage of people on foot, and is used or intended to be used —
+
+(i) as a link either underground or at the second or upper storey level between 2 developments across their common boundary;
+
+(ii) as a link either underground or at the second or upper storey level between a development and a station of the rapid transit system, a bus terminal or a bus interchange; or
+
+(iii) as a link over or underneath a public street between 2 developments or parts of the same development;
+
+(b) is connected to a station of the rapid transit system, a bus terminal or a bus interchange and is used or intended to be used as a means of access between such station, bus terminal or bus interchange and a public street;
+
+(c) is on a bridge or underpass directly connected to and is over or underneath a public street; or
+
+(d) is located in a single holding and fronting, adjoining or abutting a public street;
+
+[11/2003 wef 01/08/2003]
 
 “private street” means any street not being a public street;
 
 “public bridge” means a bridge which carries a public street;
 
-“public street” means any street over which the public has a right of way or which has become vested in the Government under this Act or the repealed Act, or in any other manner;
+“public street” means any street over which the public has a right of way and which has become vested in the Government under this Act or the repealed Act, or in any other manner;
 
-“repealed Act” means the repealed Local Government Integration Act [Cap. 166, 1985 Ed.];
+[11/2003 wef 01/08/2003]
 
-“road related facility” includes any traffic sign, directional sign, street name sign, traffic light, bus shelter, railing and any other road related structure and facility maintained by the Authority;
+“repealed Act” means the repealed Local Government Integration Act [Cap. 166, 1985 Ed];
 
-“road structure” includes any bridge, underpass and tunnel;
+“road related facility” includes any traffic sign, directional sign, street name sign, traffic light, bus shelter, railing, lighting apparatus and any optical, electronic, communication, monitoring or computerised equipment necessary for the control and management of traffic, and any other road related structure and facility maintained by the Authority;
+
+[11/2003 wef 01/08/2003]
+
+“road structure” includes any bridge, underpass, tunnel, earth retaining wall and ancillary buildings;
+
+[11/2003 wef 01/08/2003]
 
 “street” includes —
 
@@ -314,9 +346,51 @@ PUBLIC STREETS
 
 (5) For the purpose of this section, “activity” includes any excavation or construction works.
 
+### Carrying out of engineering works within road structure safety zone
+
+8A\.—(1) No person shall carry out any engineering works within the road structure safety zone unless he has obtained the prior approval of the Authority.
+
+[11/2003 wef 01/08/2003]
+
+(2) An application to the Authority for its approval under subsection (1) —
+
+(a) shall be made in writing and shall be accompanied by an engineering plan, showing the location affected by the engineering works to be carried out; and
+
+(b) may be granted by the Authority subject to such conditions as the Authority thinks fit.
+
+[11/2003 wef 01/08/2003]
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+
+[11/2003 wef 01/08/2003]
+
+(4) In this section —
+
+“engineering plan”, in relation to engineering works, includes detailed plans of the engineering works, monitoring equipment and instrumentation and other relevant information proposed for use to monitor the structural integrity of the road structure;
+
+“engineering works” means any kind of construction work that is likely to affect the structural integrity of any road structure and the safety of its operations, and includes —
+
+(a) excavations for basements and other building structures under land;
+
+(b) installations of foundation piles, sheet piles, bore holes, wells, ground anchors and tie backs; and
+
+(c) the operation of any crane, hoist or heavy equipment;
+
+“road structure safety zone” means that part of the land or area which is 20 metres from the outermost edge of any part of a road structure.
+
+[11/2003 wef 01/08/2003]
+
 ### Power to enter private land to construct new streets
 
-9\.—(1) The Authority or any person authorised by the Authority shall have the right to enter upon and take possession of any land or part thereof not being State land to construct road structures and road related facilities in, under or over the land and do all things as are reasonably necessary for the construction.
+9\.—(1) The Authority or any person authorised by the Authority shall have the right to enter upon and take possession of any land or part thereof not being State land —
+
+(a) to construct or improve any street; and
+
+(b) to construct, install, improve or remove any road structure or road related facility,
+
+in, under or over the land, and to do all things as are reasonably necessary in connection therewith.
+
+[11/2003 wef 01/08/2003]
 
 (2) The Authority or any person authorised by the Authority shall not exercise the right conferred by subsection (1) unless the Authority has given not less than 2 months’ notice of its intention to exercise the right conferred by that subsection to the occupier of the land and to every person having any estate, right, share or interest in the land.
 
@@ -330,7 +404,7 @@ PUBLIC STREETS
 
 (c) describe the area or extent of land needed for the carrying out of the works referred to in paragraph (a); and
 
-(d) state that any person entitled to compensation in connection with the exercise by the Authority of its right under this section may serve a written claim on the Authority in accordance with the provisions of the Land Transport Authority of Singapore Act [Cap. 158A].
+(d) state that any person entitled to compensation in connection with the exercise by the Authority of its right under this section may serve a written claim on the Authority in accordance with the provisions of the Land Transport Authority of Singapore Act (Cap. 158A).
 
 (5) The ownership of anything shall not be altered by reason only that it is placed in, under or over any land in exercise of a right conferred upon the Authority by this section.
 
@@ -338,7 +412,9 @@ PUBLIC STREETS
 
 ### Creation of rights in, under or over land
 
-10\.—(1) From the date of publication in theGazetteof a notice of creation of a right under this section, the Authority or any person authorised by the Authority may, at any reasonable time and for the purposes of and incidental to the maintenance of any road structure or road related facility, enter upon such land within the area as described in the notice, not being State land, and exercise such permanent rights in, under or over such land or such rights of temporary occupation of the land as may be specified in the notice.
+10\.—(1) From the date of publication in theGazetteof a notice of creation of a right under this section, the Authority or any person authorised by the Authority may, at any reasonable time and for the purposes of and incidental to the maintenance of any street or the operation or maintenance of any road structure or road related facility, enter upon such land within the area as described in the notice, not being State land, and exercise such permanent rights in, under or over such land or such rights of temporary occupation of the land as may be specified in the notice.
+
+[11/2003 wef 01/08/2003]
 
 (2) A notice of creation of a right under this section shall —
 
@@ -348,11 +424,53 @@ PUBLIC STREETS
 
 (c) state particulars of the places and times at which a copy of a plan of the area of the land subject to such right may be inspected.
 
-(3) Any right referred to in a notice of creation of a right under this section shall be limited to a right conferring such rights and powers as are necessary or convenient for the maintenance of the road structure or road related facility and for all purposes connected with or incidental to such maintenance.
+(3) Any right referred to in a notice of creation of a right under this section shall be limited to a right conferring such rights and powers as are necessary or convenient for the maintenance of the street or the operation or maintenance of the road structure or road related facility (as the case may be) and for all purposes connected with or incidental to such operation or maintenance.
+
+[11/2003 wef 01/08/2003]
+
+### Power to tap utilities for operation and maintenance of road related facility
+
+10A\.—(1) Where the Authority or any person authorised by the Authority (referred to in this section as the authorised person) has constructed, installed or improved any road related facility in, under or over any State land under section 7, the Authority or authorised person, after giving 21 days’ notice to the occupier of, or to every person having any estate, right, share or interest in, any land adjoining such State land, may install such meter boards, electrical meters and other accessories as may be necessary on the land and tap utilities for the purpose of and incidental to the operation and maintenance of the road related facility.
+
+[11/2003 wef 01/08/2003]
+
+(2) Where the Authority or an authorised person has constructed, installed or improved any road related facility in, under or over any land or part thereof not being State land under section 9, the Authority or authorised person, after giving 21 days’ notice to the occupier of, or to every person having any estate, right, share or interest in, such land, may install such meter boards, electrical meters and other accessories as may be necessary on the land and tap utilities for the purpose of and incidental to the operation and maintenance of the road related facility.
+
+[11/2003 wef 01/08/2003]
+
+(3) Every meter board, electrical meter and other accessory installed under this section shall comply with such standards as are determined by the Energy Market Authority of Singapore established under section 3 of the Energy Market Authority of Singapore Act (Cap. 92B).
+
+[11/2003 wef 01/08/2003]
+
+(4) The Authority shall pay the electricity supplier such amount as may be indicated on the electrical meters installed under this section.
+
+[11/2003 wef 01/08/2003]
+
+(5) Notwithstanding subsections (1), (2) and (4), if no meter board, electrical meter or other accessory is installed on any land or part thereof that is not State land, the Authority shall, on a monthly basis, pay the electricity supplier such amount as is determined in accordance with the formula
+
+[11/2003 wef 01/08/2003]
+
+P x R x 24 hours x 30 days
+
+where
+
+P is the power rating of equipment; and
+
+R is the rate from the electricity supplier.
+
+(6) Any person who is dissatisfied with the decision of the Authority under subsection (1) or (2) may, within 14 days of the notice, appeal to the Minister whose decision shall be final.
+
+[11/2003 wef 01/08/2003]
+
+(7) In this section, “electricity supplier” means a person who is licensed to supply electricity under any written law for the time being relating to the supply of electricity.
+
+[11/2003 wef 01/08/2003]
 
 ### Owner may request President to direct acquisition of land
 
-11\.—(1) The owner of any land who has been served with a notice under section 9 may, within 2 years from the date of the notice, make a request through the Authority to the President to direct the acquisition of the land affected by the proposed construction of road structures and road related facilities on, under or over the land.
+11\.—(1) The owner of any land who has been served with a notice under section 9 may, within 2 years from the date of the notice, make a request through the Authority to the President to direct the acquisition of the land affected by the proposed construction or improvement of streets or the proposed construction, installation, improvement or removal of road structures or road related facilities (as the case may be) on, under or over the land.
+
+[11/2003 wef 01/08/2003]
 
 (2) Where a notice has been served under subsection (1), the land may be acquired in accordance with the provisions of any written law relating to the acquisition of land for a public purpose and any declaration required under any such law that the land is so needed may be made and the declaration shall have effect as if it were a declaration that the land is needed for a public purpose made in accordance with that written law.
 
@@ -360,9 +478,17 @@ PUBLIC STREETS
 
 12\.—(1) The Authority or any person authorised by the Authority may enter any land or building situate wholly or partly within the street reserve or wholly or partly within 100 metres thereof in order to carry out —
 
-(a) any inspection or survey which is reasonably necessary to ascertain the condition of the land or building prior to or during the construction of any road structure or road related facility and to carry out all reasonably necessary work of a preventive or remedial nature; and
+(a) any inspection or survey which is reasonably necessary to ascertain the condition of the land or building prior to or during the construction or improvement of any street or the construction, installation, improvement or removal of any road structure or road related facility (as the case may be) and to carry out all reasonably necessary work of a preventive or remedial nature; and
 
-(b) any inspection or maintenance of any road structure or road related facility which has been constructed by the Authority on, under or over the land or building and to carry out any work and do all things necessary for the purpose of maintaining the road structure or road related facility.
+(b) any inspection or maintenance of —
+
+(i) any street which has been constructed or improved; or
+
+(ii) any road structure or road related facility which has been constructed, installed or improved,
+
+by the Authority on, under or over the land or building and to carry out any work and do all things necessary for the purpose of maintaining the street or maintaining or operating the road structure or road related facility, as the case may be.
+
+[11/2003 wef 01/08/2003]
 
 (2) No person shall, for the purposes of subsection (1), enter any land or building which is occupied without giving the owner and the occupier at least 7 days’ notice of his intention to do so unless —
 
@@ -376,7 +502,9 @@ PUBLIC STREETS
 
 (b) be deemed to be given to and received by an owner or occupier if the notice is affixed to a conspicuous part of the land or building to be entered.
 
-(4) In subsection (1), “work of a preventive or remedial nature” means the underpinning or strengthening of any land or building and other work thereon intended to render it reasonably safe or to repair or detect damage caused in the course of the construction of any road structure or road related facility.
+(4) In subsection (1), “work of a preventive or remedial nature” means the underpinning or strengthening of any land or building and any other work thereon that is intended to render it reasonably safe or to repair or detect damage caused in the course of the construction or improvement of any street or the construction, installation, improvement or removal of any road structure or road related facility, as the case may be.
+
+[11/2003 wef 01/08/2003]
 
 (5) The decision of the Authority that any work is of a preventive or remedial nature or that such work or any inspection or survey is reasonably necessary shall be final.
 
@@ -398,7 +526,7 @@ PUBLIC STREETS
 
 (c) be given to the owner of the land or building not later than 28 days before the commencement of that period; and
 
-(d) state that any person entitled to compensation in connection with the removal of the object or structure may serve a written claim upon the Authority in accordance with the provisions of the Land Transport Authority of Singapore Act [Cap. 158A].
+(d) state that any person entitled to compensation in connection with the removal of the object or structure may serve a written claim upon the Authority in accordance with the provisions of the Land Transport Authority of Singapore Act (Cap. 158A).
 
 (4) If the owner of the land or building does not comply with a notice given to him under subsection (1), any person authorised in that behalf by the Authority may enter the land or building, together with such other persons as he thinks necessary, and remove the object or structure described in the notice or cause it to be removed by those other persons.
 
@@ -406,7 +534,7 @@ PUBLIC STREETS
 
 14\.—(1) Where the Authority intends to construct any new street or to widen, open, enlarge or otherwise improve any existing street, the Authority may prepare a plan incorporating all premises set aside as street reserves pursuant to any development proposal approved by the competent authority, and by an instrument in the form approved by the Registrar of Titles or the Registrar of Deeds, as the case may be, declare that the street reserves shall vest in the Government.
 
-(2) Any plan prepared by the Authority under this section shall comply with the requirements of the Land Titles Act [Cap. 157] in respect of registered land and of the Registration of Deeds Act [Cap. 269] in respect of other lands and shall show thereon the premises which will vest in the Government.
+(2) Any plan prepared by the Authority under this section shall comply with the requirements of the Land Titles Act (Cap. 157) in respect of registered land and of the Registration of Deeds Act (Cap. 269) in respect of other lands and shall show thereon the premises which will vest in the Government.
 
 (3) The declaration referred to in subsection (1) shall be published in theGazette.
 
@@ -414,7 +542,7 @@ PUBLIC STREETS
 
 (5) Where any street reserve that has become vested in the Government under this section comprises premises included in an existing lot or existing lots, the premises forming the street shall be excised from the existing lot or lots and the declaration shall be registered in respect of the excised portions under the provisions of the Land Titles Act in respect of registered land and under the provisions of the Registration of Deeds Act in respect of other lands.
 
-(6) Upon such registration, the premises forming the street reserve shall vest in the Government free from all encumbrances and where the premises are held under a statutory land grant, such vesting shall not be deemed to create a subdivision within the meaning of the State Lands Act [Cap. 314].
+(6) Upon such registration, the premises forming the street reserve shall vest in the Government free from all encumbrances and where the premises are held under a statutory land grant, such vesting shall not be deemed to create a subdivision within the meaning of the State Lands Act (Cap. 314).
 
 (7) No compensation shall be payable for any premises vested in the Government pursuant to this section.
 
@@ -580,11 +708,11 @@ demanding that the private street or part thereof be declared a public street, t
 
 (16) The declaration referred to in subsection (15) shall be published in theGazette.
 
-(17) Where a private street or part thereof that is declared to be a public street and to be vested in the Government comprises separate lots already set aside as part of a street, the declaration shall be registered against those lots under the provisions of the Land Titles Act [Cap. 157] in respect of registered land and under the provisions of the Registration of Deeds Act [Cap. 269] in respect of other land.
+(17) Where a private street or part thereof that is declared to be a public street and to be vested in the Government comprises separate lots already set aside as part of a street, the declaration shall be registered against those lots under the provisions of the Land Titles Act [Cap. 157] in respect of registered land and under the provisions of the Registration of Deeds Act (Cap. 269) in respect of other land.
 
-(18) Where a private street or part thereof that is declared to be a public street and to be vested in the Government comprises premises included in an existing lot or existing lots, the premises forming the street or part thereof shall be excised from the existing lot or lots and the declaration shall be registered against the excised portions under the provisions of the Land Titles Act [Cap. 157] in respect of registered land and under the provisions of the Registration of Deeds Act [Cap. 269] in respect of other land.
+(18) Where a private street or part thereof that is declared to be a public street and to be vested in the Government comprises premises included in an existing lot or existing lots, the premises forming the street or part thereof shall be excised from the existing lot or lots and the declaration shall be registered against the excised portions under the provisions of the Land Titles Act (Cap. 157) in respect of registered land and under the provisions of the Registration of Deeds Act (Cap. 269) in respect of other land.
 
-(19) Upon such registration, the premises forming the street shall vest in the Government free from all encumbrances and where the premises are held under a statutory land grant such vesting shall not be deemed to create a subdivision within the meaning of the State Lands Act [Cap. 314].
+(19) Upon such registration, the premises forming the street shall vest in the Government free from all encumbrances and where the premises are held under a statutory land grant such vesting shall not be deemed to create a subdivision within the meaning of the State Lands Act (Cap. 314).
 
 ### Powers to control works on public streets
 
@@ -662,7 +790,7 @@ Private streets
 
 18\.—(1) Every person who intends to construct any new street shall give notice in writing thereof to the Authority, accompanied by —
 
-(a) a plan submitted by a civil engineer who is registered as a professional engineer with a valid practising certificate under the provisions of the Professional Engineers Act [Cap. 253] showing the intended level and construction of the street and the level of the houses to be built on land abutting upon it and the proposed manner of draining it;
+(a) a plan submitted by a civil engineer who is registered as a professional engineer with a valid practising certificate under the provisions of the Professional Engineers Act (Cap. 253) showing the intended level and construction of the street and the level of the houses to be built on land abutting upon it and the proposed manner of draining it;
 
 (b) a statement whether the street is intended to be a carriage road or intended for foot traffic only;
 
@@ -672,7 +800,13 @@ Private streets
 
 in order that the plan may be approved by the Authority subject to compliance with such directions as may be given under subsection (3).
 
-(2) The Authority shall not approve the detailed plans of any new street unless the competent authority has first given written permission for the use of the land for this purpose under the provisions of the Planning Act [Cap. 232].
+(2) The Authority shall not approve the detailed plans of any new street unless —
+
+(a) the competent authority has first given written permission for the use of the land for this purpose under the provisions of the Planning Act (Cap. 232); or
+
+(b) the use of the land for this purpose has been authorised under section 21(6) of the Planning Act.
+
+[11/2003 wef 01/08/2003]
 
 (3) The Authority may give written directions to the person submitting a plan for a new street with regard to any of the following particulars:
 
@@ -690,6 +824,8 @@ in order that the plan may be approved by the Authority subject to compliance wi
 
 (g) the width of any intersecting street or back-lane, which shall be of such width as the Authority may require;
 
+(ga) the connection between the new street and other streets;
+
 (h) the gradients, levels and mode of drainage of the new street and of any intersecting streets or back-lanes;
 
 (i) the rounding of the corners of the new street;
@@ -699,6 +835,8 @@ in order that the plan may be approved by the Authority subject to compliance wi
 (k) the provision of street lighting; and
 
 (l) the planting of trees.
+
+[11/2003 wef 01/08/2003]
 
 (4) The person to whom any such written directions are so given shall amend the plan accordingly.
 
@@ -754,41 +892,69 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (18) Where the plans of any street works or proposed street works have been approved by the Authority and the person for whom the plans are submitted intends to depart or deviate from the plans approved, he shall apply to the Authority for approval of the plans showing the proposed departure or deviation and such application shall be accompanied by the latter plans and a certificate by an accredited checker in respect of such of the latter plans relating to the structural elements of the street works or proposed street works stating that, to the best of the knowledge and belief of the accredited checker, those plans do not show any inadequacy in the key structural elements of the street works to be carried out or affected by street works carried out in accordance with those plans.
 
+(19) The Authority may, with the approval of the Minister, by notification in theGazetteauthorise, either generally or in relation to any specified type of development, the construction of new streets subject to such conditions as may be specified in the notification.
+
+[11/2003 wef 01/08/2003]
+
+(20) Any person, who being required by or by virtue of this Act or any regulations made thereunder to make or produce to the Authority any plan, declaration, certificate, report, record, notice or other document, or who, for the purpose of obtaining any licence, permit, waiver or approval from the Authority under this Act or any regulations made thereunder or for the purpose of establishing any fact relevant to the administration of this Act or any regulations made thereunder —
+
+(a) makes or produces any plan, declaration, certificate, report, record, notice or other document which is false in a material particular; or
+
+(b) produces any plan, declaration, certificate, report, record, notice or other document which is false in a material particular, or which has not been made by the person by whom it purports to have been made, or which has been in any way altered or tampered with,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[11/2003 wef 01/08/2003]
+
 ### Expiry of approval of plans
 
 19\. All plans for a new street which were approved under section 19 of the repealed Act or under section 18 of this Act shall expire at the end of such period as may be specified by the Authority and the Authority may, in its discretion, renew the approval for such period as it may consider necessary.
 
-### Determination of amount to be deposited and date for completion
+### Determination of amount to be deposited or secured and date for completion
 
-20\.—(1) Every person shall, before commencing any work for the erection of any new building, submit an application in writing for the determination of the amount to be deposited, if any, for the execution of street works as required under section 16 or 18.
+20\.—(1) Every person shall, before commencing any work for the erection of any new building, submit an application in writing for the determination of the amount, if any, to be deposited or secured to the satisfaction of the Authority for the execution of street works as required under section 16 or 18.
+
+[11/2003 wef 01/08/2003]
 
 (2) The Authority shall —
 
 (a) on an application being made under subsection (1); or
 
-(b) where no such application has been made, after serving a notice on the person who is to be required to make the deposit ,
+(b) where no such application has been made, after serving a notice on the person who is to be required to make the deposit or furnish the security,
 
 by order in writing determine —
 
-(i) the amount, if any, that is required to be deposited for the execution of street works; and
+(i) the amount, if any, that is required to be deposited or secured to the satisfaction of the Authority for the execution of street works; and
 
-(ii) if a deposit is required, the date on or before which the street works shall be completed.
+(ii) if a deposit or security is required, the date on or before which the street works shall be completed.
+
+[11/2003 wef 01/08/2003]
 
 (3) The Minister may by order in writing exempt a particular building or class of buildings from subsection (1).
 
-(4) Where no deposit is required, the Authority shall issue a certificate to the person who made the application under subsection (1) stating that no deposit is required to be made for the execution of street works before the commencement of building operations.
+(4) Where no deposit or security is required, the Authority shall issue a certificate to the person who made the application under subsection (1) stating that no deposit or security is required to be made or furnished for the execution of street works before the commencement of building operations.
+
+[11/2003 wef 01/08/2003]
 
 (5) The Authority shall, in making an order under subsection (2), have regard to the amount that could be recovered by the Authority if it had executed the street works under the provisions of this Act.
 
-(6) The Authority shall serve a copy of the order on the person who is required to deposit the amount determined for the execution of street works, which amount —
+(6) The Authority shall serve a copy of the order on the person who is required to deposit or secure the amount determined for the execution of street works, which amount —
 
-(a) shall be deposited with the Authority at such time as the Authority may by notice in writing specify; and
+(a) shall be deposited with the Authority at such time as the Authority may by notice in writing specify;
 
-(b) shall not be refunded, except in accordance with section 22.
+(b) shall be secured to the satisfaction of the Authority by such time and in such manner as the Authority may by notice in writing specify; and
 
-(7) Any person who fails to deposit the amount determined for the execution of street works within the time specified by the Authority shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine of $100 for every day during which the offence continues after conviction.
+(c) shall not be refunded, except in accordance with section 22.
 
-(8) The Authority may by order in writing vary the amount determined under subsection (2) for the execution of street works and serve a copy of the order on the person who is required to deposit the amount determined for the execution of street works.
+[11/2003 wef 01/08/2003]
+
+(7) Any person who fails to deposit or secure the amount determined for the execution of street works within the time specified by the Authority shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine of $100 for every day during which the offence continues after conviction.
+
+[11/2003 wef 01/08/2003]
+
+(8) The Authority may by order in writing vary the amount determined under subsection (2) for the execution of street works and serve a copy of the order on the person who is required to deposit or secure the amount determined for the execution of street works.
+
+[11/2003 wef 01/08/2003]
 
 (9) An order made under subsection (8) shall be deemed to be an order made under subsection (2).
 
@@ -796,15 +962,21 @@ by order in writing determine —
 
 ### Authority may execute street works or cause street works to be properly carried out
 
-21\.—(1) If street works are not commenced or executed to the satisfaction of the Authority in any case where a deposit has been made under section 20(6), the Authority may, at any time after the service of a notice in writing, execute the street works or cause the street works to be properly carried out.
+21\.—(1) If street works are not commenced or executed to the satisfaction of the Authority in any case where a deposit has been made or security has been furnished under section 20(6), the Authority may, at any time after the service of a notice in writing, execute the street works or cause the street works to be properly carried out.
 
-(2) The costs and expenses incurred by the Authority in the execution of the street works or in causing the street works to be properly carried out shall be recovered from the deposit made under section 20(6).
+[11/2003 wef 01/08/2003]
 
-### Refund of deposit when street works have been completed
+(2) The costs and expenses incurred by the Authority in the execution of the street works or in causing the street works to be properly carried out shall be recovered from the deposit made or the security furnished under section 20(6).
 
-22\.—(1) Where a deposit has been made under section 20(6) and street works have been carried out to the satisfaction of the Authority, the Authority may, upon an application in writing, refund to the person who made the deposit the whole or part of the deposit.
+[11/2003 wef 01/08/2003]
 
-(2) The Authority may retain the deposit or any part thereof if it is of the opinion that —
+### Refund of deposit or return of security when street works have been completed
+
+22\.—(1) Where a deposit has been made or security has been furnished under section 20(6) and street works have been carried out to the satisfaction of the Authority, the Authority may, upon an application in writing, refund the deposit or return the security, in whole or in part, to the person who made the application under section 20(1).
+
+[11/2003 wef 01/08/2003]
+
+(2) The Authority may retain the deposit or the security or any part thereof if it is of the opinion that —
 
 (a) the street works have not been executed properly;
 
@@ -812,13 +984,19 @@ by order in writing determine —
 
 (c) it is required for a period of maintenance, which period shall not exceed 12 months.
 
+[11/2003 wef 01/08/2003]
+
 (3) In this section and in section 23, “building operations” means such works as are carried out for the erection of any new building, including works which are preparatory to the erection of a new building.
 
-### Refund of deposit when building operations are not commenced
+### Refund of deposit or return of security when building operations are not commenced
 
-23\.—(1) Any person who has made a deposit under section 20(6), and who subsequently decides not to proceed with the erection of any building, without having commenced any building operations, may give notice in writing to the Authority of his intention not to proceed with the erection of the building.
+23\.—(1) Any person who has made a deposit or furnished any security under section 20(6), and who subsequently decides not to proceed with the erection of any building, without having commenced any building operations, may give notice in writing to the Authority of his intention not to proceed with the erection of the building.
 
-(2) The Authority shall, on an application in writing by a person who has given such a notice, refund the deposit or part thereof as it may determine, after the cancellation of the approved plan by the Building Authority.
+[11/2003 wef 01/08/2003]
+
+(2) The Authority shall, on an application in writing by a person who has given such a notice, refund the deposit or return the security, in whole or in part as it may determine, after the cancellation of the approved plan by the Commissioner of Building Control.
+
+[4/99 wef 01/04/1999; 11/2003 wef 01/08/2003]
 
 Division II —
 
@@ -874,7 +1052,7 @@ DECLARATION
 
 26\.—(1) If any street, not being a public street, is levelled, channelled, drained, paved, metalled, flagged and provided with lighting or otherwise made up to the satisfaction of the Authority, the Authority may, whether at the request of the owners of the premises fronting, adjoining or abutting on the street or otherwise, if it thinks fit, by writing signed by the Chief Executive or such other officer as may be authorised by the Authority in that behalf, declare that at the expiration of one month from the date thereof the street shall become a public street.
 
-[G.N. No. S 92/97]
+[S 92/97]
 
 (2) A copy of such declaration shall be forthwith posted up in some part of the street.
 
@@ -882,11 +1060,11 @@ DECLARATION
 
 (4) The declaration referred to in subsection (1) shall be published in theGazette.
 
-(5) Where a street that has been declared to be a public street and has become vested in the Government under this section comprises premises included in separate lots already set aside as part of a street, the declaration shall be registered against those lots under the provisions of the Land Titles Act [Cap. 157] in respect of registered land and under the provisions of the Registration of Deeds Act [Cap. 269] in respect of other land.
+(5) Where a street that has been declared to be a public street and has become vested in the Government under this section comprises premises included in separate lots already set aside as part of a street, the declaration shall be registered against those lots under the provisions of the Land Titles Act (Cap. 157) in respect of registered land and under the provisions of the Registration of Deeds Act (Cap. 269) in respect of other land.
 
 (6) Where a street that has been declared to be a public street and has become vested in the Government under this section comprises premises included in an existing lot or existing lots, the premises forming the street shall be excised from the existing lot or lots and the declaration shall be registered in respect of the excised portions under the provisions of the Land Titles Act in respect of registered land and under the provisions of the Registration of Deeds Act in respect of other land.
 
-(7) Upon such registration, the premises forming the street shall vest in the Government free from all encumbrances and where the premises are held under a statutory land grant, such vesting shall not be deemed to create a subdivision within the meaning of the State Lands Act [Cap. 314].
+(7) Upon such registration, the premises forming the street shall vest in the Government free from all encumbrances and where the premises are held under a statutory land grant, such vesting shall not be deemed to create a subdivision within the meaning of the State Lands Act (Cap. 314).
 
 ## PART V
 
@@ -894,9 +1072,17 @@ WALKWAYS
 
 ### Provisions of footways, etc.
 
-27\.—(1) The Authority may, where it considers necessary, require the owner of any premises to allow a footway to be constructed for the use of the public within his premises.
+27\.—(1) The Authority may, where it considers necessary, require the owner of any premises —
 
-(2) Such a footway shall be up to a maximum of 3.6 metres wide and the construction of such footway shall not affect any house within the premises; and if necessary for this purpose, the Authority may set back any wall, fence, hedge or other similar erection.
+(a) to allow a footway to be constructed within his premises for the use of the public; or
+
+(b) to allow an existing footway within his premises to be improved for the use of the public.
+
+[11/2003 wef 01/08/2003]
+
+(2) The construction or improvement of a footway under subsection (1) shall not affect any house within the premises, except that if necessary for this purpose, the Authority may set back any wall, fence, hedge or other similar erection.
+
+[11/2003 wef 01/08/2003]
 
 (3) Where there is a vacant frontage adjacent to the public street to which the public has access, the Authority may, in conjunction with any street improvement scheme, carry out works to the frontage as it considers fit.
 
@@ -904,15 +1090,19 @@ WALKWAYS
 
 (5) The Authority shall not exercise the rights conferred by subsection (1) or (3) unless it has given not less than one month’s notice in writing to the owner of the frontage stating its intention to carry out the work, which notice shall include a plan showing the affected area of the frontage.
 
-(6) The Authority shall prepare an estimate of the costs and expenses to be apportioned among the owners of the premises fronting, adjoining or abutting on the new footway or public street and shall serve a notice of its decision in writing to proceed with the works and to recover costs and expenses of the works upon each of such owners, and such costs and expenses shall be paid within such period as may be specified in the notice and in such proportions as are settled by the Authority.
+(6) The Authority shall prepare an estimate of the costs and expenses to be apportioned among the owners of the premises fronting, adjoining or abutting on the new or existing footway or public street and shall serve a notice of its decision in writing to proceed with the works and to recover costs and expenses of the works upon each of such owners, and such costs and expenses shall be paid within such period as may be specified in the notice and in such proportions as are settled by the Authority.
+
+[11/2003 wef 01/08/2003]
 
 (7) If the owner of any such premises is dissatisfied with the Authority’s apportionment of costs and expenses, he may, within 14 days from the date of service of the notice, appeal to the Minister whose decision shall be final.
 
 (8) The Authority may, if it thinks fit, decide that in settling the apportionment of costs and expenses regard shall be had to the following considerations:
 
-(a) the degree of benefit accruing to any premises by the construction of the new footway or street; and
+(a) the degree of benefit accruing to any premises by the construction or improvement of the new footway or street; and
 
 (b) the amount and value of any street works already executed by the owners or occupiers of any such premises.
+
+[11/2003 wef 01/08/2003]
 
 (9) The Authority may, if it thinks fit, pay the whole or any part of the costs and expenses of the works, and the payment of part of the costs and expenses may be made in such a manner as wholly to relieve the owner of any particular premises to the exclusion of other owners or to relieve him to a greater extent than other owners.
 
@@ -932,11 +1122,13 @@ WALKWAYS
 
 ### Maintenance of footways
 
-28\.—(1) Where a footway has been constructed under section 27 —
+28\.—(1) Where a footway has been constructed or improved under section 27 —
 
 (a) the Authority may issue written instructions to the owner of any premises fronting, adjoining or abutting on the footway to carry out maintenance work up to the standard required by the Authority; and
 
 (b) the Authority may, if it thinks fit, take over the footway for maintenance, in which case the Authority shall issue a notice to the owner stating that the footway has been taken over by the Authority for maintenance.
+
+[11/2003 wef 01/08/2003]
 
 (2) The owner shall not modify any footway within his land to which the public has access without the written permission of the Authority.
 
@@ -956,11 +1148,17 @@ UTILITY WORKS
 
 (c) be served upon the owner or supplier at least one month before the commencement of that period; and
 
-(d) state that any person entitled to compensation in connection with the work required by the Authority may serve a written claim upon the Authority in accordance with the provisions of the Land Transport Authority of Singapore Act [Cap. 158A].
+(d) state that any person entitled to compensation in connection with the work required by the Authority may serve a written claim upon the Authority in accordance with the provisions of the Land Transport Authority of Singapore Act (Cap. 158A).
 
 ## PART VII
 
 BACK-LANES
+
+### Authority to manage, maintain and repair back-lanes vested in Government
+
+29A\. The Authority shall be responsible for the management, maintenance and repair of back-lanes vested in the Government.
+
+[11/2003 wef 01/08/2003]
 
 ### General provisions as to back-lanes
 
@@ -972,9 +1170,9 @@ BACK-LANES
 
 (4) At the expiration of the period referred to in subsection (2), unless the owners of the premises fronting, adjoining or abutting on the back-lane or the owners of such premises having the greater part in annual value have, by notification to the Authority in writing under their hands, objected thereto, the back-lane shall be vested in the Government.
 
-(5) Where a back-lane has been declared to be vested in the Government under this section, the declaration shall be registered together with the plan under the Land Titles Act [Cap. 157] in respect of registered land and under the Registration of Deeds Act [Cap. 269] in respect of other land.
+(5) Where a back-lane has been declared to be vested in the Government under this section, the declaration shall be registered together with the plan under the Land Titles Act (Cap. 157) in respect of registered land and under the Registration of Deeds Act (Cap. 269) in respect of other land.
 
-(6) Upon such registration, the land comprised in the plan shall be deemed to be vested in the Government freed from all encumbrances, and where the land is held under a statutory land grant, such vesting shall not be deemed to be a subdivision within the meaning of the State Lands Act [Cap. 314].
+(6) Upon such registration, the land comprised in the plan shall be deemed to be vested in the Government freed from all encumbrances, and where the land is held under a statutory land grant, such vesting shall not be deemed to be a subdivision within the meaning of the State Lands Act (Cap. 314).
 
 ### Back-lanes to be levelled, paved, etc., by Authority
 
@@ -1005,6 +1203,60 @@ SUPPLEMENTARY
 ### Power to erect lighting apparatuses, street name signs and other road related facilities
 
 32\. The Authority may cause such lighting apparatuses, street name signs, traffic signs, directional signs and other road related facilities to be put up or fixed upon or against the walls of any building or enclosure or to be put up or erected in such other manner within any street, road or place as it thinks proper.
+
+### Obstruction of public streets, five-footways and private footways
+
+32A\.—(1) No person shall —
+
+(a) deposit or cause or allow any article or thing to be deposited on any public street, five-footway or private footway; or
+
+(b) cause or allow any article or thing to remain on any public street, five-footway or private footway,
+
+so as to create any obstruction or inconvenience to the passage of the public on such public street, five-footway or private footway.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence.
+
+(3) Where an employee of the Authority finds on any public street, five-footway or private footway any article or thing which has been deposited or left to remain there in contravention of subsection (1), he may, by notice in writing, direct —
+
+(a) the owner of the article or thing;
+
+(b) the person who caused the article or thing to be deposited or to remain on the public street, five-footway or private footway; or
+
+(c) the owner or occupier of any land or building fronting, adjoining or abutting on the public street, five-footway or private footway,
+
+to remove the article or thing within such time as may be specified in the notice.
+
+(4) Where any person on whom a notice under subsection (3) has been served fails, without reasonable excuse, to comply with it —
+
+(a) he shall be guilty of an offence; and
+
+(b) an employee of the Authority may remove or cause the article or thing to be removed and detain the article or thing, at the risk of its owner, at such place as the Chief Executive may direct.
+
+(5) Where any article or thing has been removed from a public street, five-footway or private footway under subsection (4)(b), the Authority may recover any costs reasonably incurred by it in connection with such removal from the owner of the article or thing or from the person who caused the article or thing to be deposited or to remain on the public street, five-footway or private footway.
+
+(6) Where an employee of the Authority has removed any article or thing under subsection (4)(b), he shall cause a notice in writing to be sent to the owner of the article or thing to inform such owner of —
+
+(a) the removal of the article or thing;
+
+(b) the manner by which and the time within which such owner may procure the release of the article or thing; and
+
+(c) the consequences that may follow under subsections (7) and (8) if the article or thing is not claimed within the time specified in the notice.
+
+(7) If the article or thing is not claimed by its owner within the time specified in the notice referred to in subsection (6), the Authority may dispose of the article or thing in such manner as it thinks fit (including selling the article or thing).
+
+(8) Where any article or thing has been sold under subsection (7), the proceeds of the sale shall be applied in payment of any expenses incurred in carrying out the provisions of this section and thereafter shall be applied in payment of all charges and fines payable under this Act and any regulations made thereunder and the surplus, if any, shall be paid to the owner of the article or thing, or if not claimed by such owner within 12 months of the date of the sale, shall be forfeited to the Authority.
+
+(9) In addition to the methods of service under section 47 —
+
+(a) a notice referred to in subsection (3) may be served by affixing it to the article or thing in respect of which it applies; and
+
+(b) a notice referred to in subsection (6) may be served by posting it conspicuously at or near the part of the public street, five-footway or private footway from which the article or thing was removed, if the name and address of the owner of the article or thing are unknown or cannot be ascertained despite reasonable diligence.
+
+(10) Any person who, without the authority of an employee of the Authority, removes or tampers with any notice that has been affixed to any article or thing under subsection (9)(a) or that has been posted at any part of a public street, five-footway or private footway under subsection (9)(b) shall be guilty of an offence.
+
+(11) Any person who is guilty of an offence under subsection (2) or (4)(a) shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+
+[11/2003 wef 01/08/2003]
 
 ### Wilful damage to Government’s property and hindrance of Authority’s use of such property
 
@@ -1068,7 +1320,7 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (2) If the amount of compensation, damages, fees, costs or expenses is not paid by the person liable to pay the same within 14 days after demand, that amount may be reported to the District Court and recovered in the same manner as if it were a fine imposed by the District Court.
 
-(3) An appeal shall lie to the High Court from any decision of the District Court under this section, and the provisions of the Criminal Procedure Code [Cap. 68] shall apply, with the necessary modifications, to all such appeals.
+(3) An appeal shall lie to the High Court from any decision of the District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, to all such appeals.
 
 ### Occupier may execute work upon default of owner
 
@@ -1082,7 +1334,7 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (b) the performance of all other obligations imposed by this Act upon the owner of the property which are to be performed,
 
-at any time before such notice of transfer as is required by section 19 of the Property Tax Act [Cap. 254] has been given.
+at any time before such notice of transfer as is required by section 19 of the Property Tax Act (Cap. 254) has been given.
 
 (2) Nothing in this section shall affect the liability of the purchaser or transferee to pay the costs and expenses in respect of the property or the right of the Authority to recover the costs and expenses or to perform any obligation under this Act.
 
@@ -1160,6 +1412,12 @@ at any time before such notice of transfer as is required by section 19 of the P
 
 49\. Any person guilty of an offence under this Act or any regulations made thereunder for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $2,000.
 
+### Jurisdiction of District Court
+
+49A\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty in respect of the offence.
+
+[11/2003 wef 01/08/2003]
+
 ### Inaccuracies in documents
 
 50\. No misnomer or inaccurate description of any person, premises, building, holding, street or place named or described in any document prepared, issued or served under, by virtue of or for the purposes of this Act or any regulations made thereunder shall in any way affect the operation of this Act or any such regulations as respects that person or place if that person or place is so designated in the document as to be identifiable, and no proceedings taken under or by virtue of this Act or any such regulations shall be invalid for want of form.
@@ -1200,8 +1458,6 @@ at any time before such notice of transfer as is required by section 19 of the P
 
 under the repealed Act shall, except where otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, approved or granted, as the case may be, under this Act.
 
-(2) The savings set out in the Second Schedule shall have effect.
-
 (3) Where in any written law, reference is made to —
 
 (a) “the Director-General”;
@@ -1216,13 +1472,17 @@ FIRST SCHEDULE
 
 Section 53
 
-Subject matters of Regulations
+Subject Matters of Regulations
 
 1\. The laying or carrying of any line or rails, or utilities along, through, across, over or under public streets, public bridges or any street which is to be declared public.
 
 2\. The granting of permits for the carrying and maintenance of utilities along, through, across, over or under public streets, public bridges or any street which is to be declared public, and the fixing and levying of annual or other fees therefor.
 
 3\. The level, width and construction of streets and the repairing, cleaning, watering and lighting of streets, roads, canals and bridges and the planting of trees.
+
+3A. The management, maintenance and repair of back-lanes vested in the Government.
+
+[11/2003 wef 01/08/2003]
 
 4\. The supervision and control of back-lanes vested in the Government, of public streets and of streets laid out or constructed by the Authority and the licensing of persons to use such streets and back-lanes for any purpose or in any particular manner other than in the exercise of any right of way thereover.
 
@@ -1234,90 +1494,19 @@ Subject matters of Regulations
 
 8\. The prescribing of forms for licences and for other purposes for use in connection with this Act.
 
+8A. The seizure, removal and disposal of articles and things by the Authority under this Act.
+
+[11/2003 wef 01/08/2003]
+
+8B. The submission of plans for and other documents relating to the carrying out of engineering works within the road structure safety zone.
+
+[11/2003 wef 01/08/2003]
+
 9\. The prescribing of fees and charges for the purposes of this Act.
 
 SECOND SCHEDULE
 
-Section 54(2)
-
-Municipal Provident Fund
-
-1. For the purpose of the provisions contained in this Schedule —
-
-“Minister” means the Minister for Finance;
-
-“Municipal Provident Fund” means the Municipal Provident Fund —
-
-(a) established by the City Council under the provisions of the Municipal Ordinance [Cap. 133, 1936 Ed.]; and
-
-(b) continued and deemed to have been established under —
-
-(i) the Local Government Ordinance 1957 [Ord. 24 of 1957]; and
-
-(ii) the repealed Act.
-
-Continuance of Municipal Provident Fund
-
-2\. The Municipal Provident Fund shall continue and be deemed to have been established under this Act and shall be held, managed and administered as a Government fund separate from other Government funds.
-
-3\. Until rules are made under paragraph 7, the Municipal (Provident Fund) Rules [Cap. 166, R 1] shall continue to have effect as though references therein to the powers and duties of the City Council in relation to the management and administration of the Municipal Provident Fund were references to the powers and duties of the Minister.
-
-Safeguarding of Municipal Provident Fund benefits
-
-4\. Until rules are made under paragraph 7, the Municipal (Provident Fund) Rules, as from time to time amended, shall continue to apply to every person transferred to the service of the Government under section 9 of the repealed Act who, immediately before 1st September 1963, was a member of the Municipal Provident Fund, or would have been eligible for membership of that Fund if he had attained the age of 20 years and had passed a medical examination of the standard prescribed, in the like manner as those Rules applied to such persons immediately before that date, and every reference to service or employment with the City Council in those Rules shall be construed as a reference to service or employment with the Government in respect of such persons.
-
-5\. Until rules are made under paragraph 7, the provisions of the Municipal (Provident Fund) Rules, as from time to time amended, requiring the City Council to make payments into the Municipal Provident Fund shall apply to the Government and be construed as provisions requiring the Government to make payments into that Fund in respect of every person referred to in paragraph 4 who is or who becomes a member of the Fund.
-
-6\. Persons who have been transferred to the service of the Government under section 9 of the repealed Act may count their previous service in the City Council, and their previous membership of the Municipal Provident Fund and their contributions to that Fund, for the purpose of determining the benefits to which they become entitled under paragraphs 4 and 5.
-
-Municipal Provident Fund Rules
-
-7. The Minister may make such rules for the maintenance of the Municipal Provident Fund as he may consider desirable and, in particular, for —
-
-(a) the provision of payments or other allowances on death, resignation, retirement or discharge to persons who are members of the Fund or who become members thereof;
-
-(b) the payment of moneys into the Fund by the respective employers of the members of the Fund;
-
-(c) the payment of contributions towards the management expenses of the Fund by the employers; and
-
-(d) the contribution of moneys into the Fund by the members thereof and for their ceasing to be members of the Fund,
-
-and such rules shall not, in respect of every person whose provident fund benefits are safeguarded under paragraphs 4, 5 and 6, provide for less favourable benefits than those conferred by the Municipal (Provident Fund) Rules [Cap. 166, R 1].
-
-Assignment, transfer, attachment, etc.,
-
-
-
-
-of Municipal Provident Fund benefits
-
-8\. Subject to paragraphs 9 and 10, no payments or other allowances on death, superannuation, resignation, retirement or discharge made or granted to persons out of the Municipal Provident Fund nor the rights of any contributor acquired thereunder shall be assignable or transferable or liable to be attached, sequestrated or levied upon for or in respect of any debt or claim whatsoever, and no such payments or other allowances shall pass to the Official Assignee on the bankruptcy of that person; but if any such person is adjudicated a bankrupt or is declared insolvent by judgment of the court, such payments or other allowances shall be deemed to be impressed with a trust in favour of the objects entitled thereto on the death of that person.
-
-9\. The bankruptcy of a member shall not affect the making of deductions from the salary of the member under the rules of the Municipal Provident Fund, but notwithstanding the provisions of any written law such deductions shall continue to be made notwithstanding the bankruptcy and the portion of salary so deducted shall be deemed not to form part of the member’s after-acquired property.
-
-10. Notwithstanding paragraphs 8, 9 and 11, the Minister shall be entitled —
-
-(a) to deduct from the benefits (less such portion of them as shall with interest thereon have been contributed by the member) which would otherwise be payable to a member (or to the trustees or estate of a deceased member) from the Municipal Provident Fund any debt legally due from the member to the Government or his employer; and
-
-(b) at his discretion to deduct the whole or part of the benefits (less such portion of them as shall with interest thereon have been contributed by the member) which would otherwise be payable from the Municipal Provident Fund to a member (or to the trustees or estate of a deceased member) who is dismissed from the service of the Government or his employer after conviction for an offence involving dishonesty which results in pecuniary loss to the Government or his employer, or who would have been so dismissed had he not died, or who retires from or resigns his employment with intent to escape being so dismissed,
-
-except that the amount so forfeited shall not exceed the amount of the pecuniary loss to the Government or his employer, and any sum so deducted from the benefits which would otherwise be payable to a member (or to the trustees or estate of a deceased member) shall be paid into the Consolidated Fund or to his employer, as the case may be.
-
-11\. Subject to paragraph 10, all moneys paid out of the Municipal Provident Fund on the death of any member shall be deemed to be impressed with a trust in favour of the objects entitled thereto under the will or intestacy of such deceased person, and shall not be deemed to form part of his or her estate or be subject to his or her debts but shall be deemed to be property passing on his or her death for the purposes of the Estate Duty Act [Cap. 96].
-
-Trustees
-
-12\. Any member may, by a memorandum under his hand, appoint a trustee or trustees of the moneys payable on his death out of the Municipal Provident Fund and may make provision for the appointment of a new trustee or new trustees of such moneys and for the investment thereof. Such memorandum shall be in such form as may be approved by the Minister and shall be deposited with the Government.
-
-13. If at the time of the death of any member or at any time afterwards —
-
-(a) there is no trustee of the moneys payable on the member’s death out of the Municipal Provident Fund; or
-
-(b) it is expedient to appoint a new trustee or new trustees,
-
-then and in any such case a trustee or trustees or a new trustee or new trustees may be appointed by the High Court or a Judge thereof.
-
-14\. The receipt of a trustee or trustees duly appointed or in default of any such appointment and of written notice thereof to the Government the receipt of the legal personal representative of a deceased member shall be a discharge to the Government for any moneys payable on his death out of the Municipal Provident Fund.
+Deleted by Act 11/2003, wef 01/08/2003.
 
 ## LEGISLATIVE HISTORY
 
@@ -1343,3 +1532,9 @@ This Legislative History is provided for the convenience of users of the Street 
 |||(Bill No. 18/1997 published on 20 November 1997)|
 ||Date of Second and Third Readings|14 January 1998|
 ||Date of commencement|1 April 1998|
+|4.|**Act 11 of 2003—Street Works (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|24 April 2003|
+|||(Bill No. 9/2003 published on 25 April 2003)|
+||Date of Second and Third Readings|30 June 2003|
+||Date of commencement|1 August 2003|
