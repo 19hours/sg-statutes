@@ -18,7 +18,7 @@
 
 - [4 Common seal](#Common-seal)
 
-- [5 Board of Governors](#Board-of-Governors)
+- [5 Board of Directors](#Board-of-Directors)
 
 - [6 Chairman may delegate functions](#Chairman-may-delegate-functions)
 
@@ -136,7 +136,9 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Board” means the Board of Governors of the College established under section 5;
+“Board” means the Board of Directors of the College established under section 5;
+
+[9/2003 wef 16/05/2003]
 
 “Chairman” means the Chairman of the Board appointed under section 5(2) and includes a temporary Chairman appointed under section 8;
 
@@ -180,9 +182,11 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CIVIL SERVICE COLLEGE
 
 (5) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the College affixed to any document and shall presume that it was duly affixed.
 
-### Board of Governors
+### Board of Directors
 
-5\.—(1) There shall be a Board of Governors of the College which shall be the executive body of the College and may exercise all the powers conferred on the College under this Act.
+5\.—(1) There shall be a Board of Directors of the College which shall be the executive body of the College and may exercise all the powers conferred on the College under this Act.
+
+[9/2003 wef 16/05/2003]
 
 (2) The Board shall consist of —
 
@@ -605,3 +609,8 @@ This Legislative History is provided for the convenience of users of the Civil S
 ||Date of commencement|15 July 2002 (except item (18) of Schedule)|
 |3.|**2002 Revised Edition—Civil Service College Act**|
 ||Date of operation|31 July 2002|
+|4.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
