@@ -10,35 +10,33 @@
 
 - [2 Establishment and incorporation of People’s Association](#Establishment-and-incorporation-of-People’s-Association)
 
-- [3 Vesting of Centre’s assets and property in Association](#Vesting-of-Centre’s-assets-and-property-in-Association)
+- [3 Powers of Association to be vested in a Board of Management](#Powers-of-Association-to-be-vested-in-a-Board-of-Management)
 
-- [4 Powers of Association to be vested in a Board of Management](#Powers-of-Association-to-be-vested-in-a-Board-of-Management)
+- [4 Constitution of Association](#Constitution-of-Association)
 
-- [5 Constitution of Association](#Constitution-of-Association)
+- [5 Constitution of Board](#Constitution-of-Board)
 
-- [6 Constitution of Board](#Constitution-of-Board)
+- [6 Letters of appointment](#Letters-of-appointment)
 
-- [7 Letters of appointment](#Letters-of-appointment)
+- [7 Meetings](#Meetings)
 
-- [8 Meetings](#Meetings)
+- [8 Disclosure of interest](#Disclosure-of-interest)
 
-- [9 Disclosure of interest](#Disclosure-of-interest)
+- [9 Objects of Association and powers of Board](#Objects-of-Association-and-powers-of-Board)
 
-- [10 Objects of Association and powers of Board](#Objects-of-Association-and-powers-of-Board)
+- [10 Execution of documents](#Execution-of-documents)
 
-- [11 Execution of documents](#Execution-of-documents)
+- [11 Annual report](#Annual-report)
 
-- [12 Annual report](#Annual-report)
+- [12 Bank accounts and application of funds](#Bank-accounts-and-application-of-funds)
 
-- [13 Bank accounts and application of funds](#Bank-accounts-and-application-of-funds)
+- [13 Accounts and audit](#Accounts-and-audit)
 
-- [14 Accounts and audit](#Accounts-and-audit)
+- [14 Association’s symbol](#Association’s-symbol)
 
-- [15 Association’s symbol](#Association’s-symbol)
+[**FIRST SCHEDULE Consultant Organisations**](#FIRST-SCHEDULE-Consultant-Organisations)
 
-[**FIRST SCHEDULE Consultant organisations**](#FIRST-SCHEDULE-Consultant-organisations)
-
-[**SECOND SCHEDULE THE ASSOCIATION’S SYMBOL**](#SECOND-SCHEDULE-THE-ASSOCIATION’S-SYMBOL)
+[**SECOND SCHEDULE the Association’s Symbol**](#SECOND-SCHEDULE-the-Association’s-Symbol)
 
 [**Legislative History**](#Legislative-History)
 
@@ -48,9 +46,9 @@
 
 (Original Enactment: Ordinance 35 of 1960)
 
-REVISED EDITION 1985
+REVISED EDITION 1994
 
-(30th March 1987)
+(15th March 1994)
 
 An Act to incorporate the People’s Association for promoting community recreation in Singapore and for matters incidental thereto.
 
@@ -66,35 +64,21 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 (2) The Association shall have perpetual succession and a common seal, and may sue and be sued in its corporate name and perform such other acts as bodies corporate may by law perform.
 
-### Vesting of Centre’s assets and property in Association
-
-3\.—(1) Upon the commencement of this Act —
-
-(a) the Singapore Youth Sports Centre (referred to in this Act as the Centre) shall cease to exist as a corporation;
-
-(b) the Association shall take over all the functions of the Centre;
-
-(c) all the assets and movable and immovable property of every description and all the powers, rights and privileges in connection therewith or appertaining thereto which immediately before the commencement of this Act were vested in the Centre shall be vested in the Association freed and discharged from any trust whatsoever, but subject nevertheless to the provisions of this Act; and
-
-(d) all the liabilities and obligations of the Centre which may have existed immediately before the commencement of this Act shall be transferred to and vest in the Association.
-
-(2) Any existing trustees of the Centre at the date of commencement of this Act shall be released and discharged from any duties or responsibilities under any trust which may have existed immediately before that date.
-
 ### Powers of Association to be vested in a Board of Management
 
-4\. The powers of the Association and the management and control of the Association and of its property and affairs shall be vested in a Board of Management (referred to in this Act as the Board).
+3\. The powers of the Association and the management and control of the Association and of its property and affairs shall be vested in a Board of Management (referred to in this Act as the Board).
 
 ### Constitution of Association
 
-5\.—(1) The Association shall consist of —
+4\.—(1) The Association shall consist of —
 
 (a) the Prime Minister as Chairman;
 
 (b) a Minister to be appointed by the Chairman, as Deputy Chairman;
 
-(c) eight members to be appointed by the Chairman; and
+(c) 8 members to be appointed by the Chairman; and
 
-(d) one member to be appointed by the Chairman in consultation with each of the organisations mentioned in the Schedule.
+(d) one member to be appointed by the Chairman in consultation with each of the organisations mentioned in the First Schedule.
 
 (2) There shall be a Secretary-Treasurer, who shall be a person appointed by the Chairman from among the members appointed under subsection (1)(c).
 
@@ -106,65 +90,65 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 ### Constitution of Board
 
-6\.—(1) The Board shall consist of—
+5\.—(1) The Board shall consist of —
 
-(a) the persons mentioned in section 5(1)(a) to (c); and
+(a) the persons mentioned in section 4(1)(a) to (c); and
 
-(b) four members to be elected from among themselves by the persons mentioned in section 5(1)(d) at a general meeting of the Association.
+(b) 4 members to be elected from among themselves by the persons mentioned in section 4(1)(d) at a general meeting of the Association.
 
-[Act 5 of 1993 wef 12/03/1993]
+[5/93]
 
 (2) The Secretary-Treasurer of the Association shall be the Secretary-Treasurer of the Board.
 
 (3) Members of the Board elected under subsection (1)(b) shall hold office for a period of 3 years from the date of their election and shall be eligible for re-election:
 
-Provided that the term of office of such a member of the Board shall cease upon the revocation of his appointment as a member of the Association under section 7(1), or if his appointment as a member of the Association has expired and has not been renewed under section 7(2).
+Provided that the term of office of such a member of the Board shall cease upon the revocation of his appointment as a member of the Association under section 6(1), or if his appointment as a member of the Association has expired and has not been renewed under section 6(2).
 
-[Act 5 of 1993 wef 12/03/1993]
+[5/93]
 
 ### Letters of appointment
 
-7\.—(1) All letters of appointment to the persons mentioned in section 5(1)(b), (c) and (d) shall issue from the Chairman, who may revoke any appointment at any time without assigning any reason therefor.
+6\.—(1) All letters of appointment to the persons mentioned in section 4(1)(b), (c) and (d) shall issue from the Chairman, who may revoke any appointment at any time without assigning any reason.
 
-(2) Members of the Association appointed by the Chairman in accordance with section 5(1)(b), (c) and (d) shall hold office for a period of 3 years from the dates of their respective appointments and shall be eligible for reappointment on completion of that period.
+(2) Members of the Association appointed by the Chairman in accordance with section 4(1)(b), (c) and (d) shall hold office for a period of 3 years from the dates of their respective appointments and shall be eligible for reappointment on completion of that period.
 
 ### Meetings
 
-8\.—(1) The Board may meet as often as it considers necessary, but it shall in any case meet at least once in 3 months to discuss the management and affairs of the Association.
+7\.—(1) The Board may meet as often as it considers necessary, but it shall in any case meet at least once in 3 months to discuss the management and affairs of the Association.
 
 (2) General meetings of the Association may be held as often as the Board considers necessary, but the Board shall in any case convene a general meeting once in every 3 years.
 
-[Act 5 of 1993 wef 12/03/1993]
+[5/93]
 
 (3) The Board shall, before the holding of a general meeting of the Association, cause a notice to be sent to all members of the Association giving them at least 7 days’ notice of the holding of the general meeting, and specifying the date, time and place of the meeting and the business to be transacted thereat, and such notice shall be deemed to have been received by a member if sent by ordinary post or despatched by messenger to the address of the member as stated in the records of the Association.
 
-[Act 5 of 1993 wef 12/03/1993]
+[5/93]
 
 (4) The Chairman shall preside at all meetings of the Association and of the Board and shall have the right to vote on any question coming before or arising at any meeting of the Association or of the Board.
 
-(5) The Deputy Chairman shall in the absence of the Chairman preside at all meetings of the Association and of the Board and when so doing shall have and may exercise all the powers and functions of the Chairman. In the absence of both the Chairman and the Deputy Chairman at any meeting of the Association or of the Board, such member as the members present may select, shall act as Chairman.
+(5) The Deputy Chairman shall, in the absence of the Chairman, preside at all meetings of the Association and of the Board and when so doing shall have and may exercise all the powers and functions of the Chairman. In the absence of both the Chairman and the Deputy Chairman at any meeting of the Association or of the Board, such member, as the members present may select, shall act as Chairman.
 
 (6) The quorum at all meetings of the Association shall be one-third of the total number of members of the Association, and no business shall be transacted unless a quorum is present.
 
 (7) All questions coming before or arising at any meeting of the Association or of the Board shall be decided by a majority of the members present and voting thereon at that meeting of the Association or of the Board, and in the case of an equality of votes, the person presiding at the meeting shall have a second or casting vote.
 
-(8) If a vacancy occurs in the membership of the Association under section 5(1)(b), (c) or (d), by reason of death, resignation, revocation of an appointment under section 7(1) or for any other cause, the Chairman shall—
+(8) If a vacancy occurs in the membership of the Association under section 4(1)(b), (c) or (d), by reason of death, resignation, revocation of an appointment under section 6(1) or for any other cause, the Chairman shall —
 
-(a) in the case of a vacancy under section 5(1)(b) or (c), appoint a person to fill the vacancy; and
+(a) in the case of a vacancy under section 4(1)(b) or (c), appoint a person to fill the vacancy; and
 
-(b) in the case of a vacancy under section 5(1)(d), in consultation with the organisation concerned, appoint a person to fill the vacancy,
+(b) in the case of a vacancy under section 4(1)(d), in consultation with the organisation concerned, appoint a person to fill the vacancy,
 
 and any person appointed under paragraph (a) or (b) shall hold office for so long as the member in whose place he is appointed would have held office.
 
 ### Disclosure of interest
 
-9\.—(1) If a member of the Association or of the Board is directly or indirectly interested in any contract, proposed contract, or other matter and is present at a meeting of the Association or of the Board at which the contract or other matter is the subject of consideration, he shall, at the meeting and as soon as practicable after it commences, disclose the fact, and shall not thereafter be present during the consideration or discussion of, and shall not vote on any question with respect to, that contract or other matter.
+8\.—(1) If a member of the Association or of the Board is, directly or indirectly, interested in any contract, proposed contract or other matter and is present at a meeting of the Association or of the Board at which the contract, proposed contract or other matter is the subject of consideration, he shall, at the meeting and as soon as practicable after it commences, disclose the fact, and shall not thereafter be present during the consideration or discussion of, and shall not vote on any question with respect to, that contract or other matter.
 
-(2) Subsection (1) shall also apply to any member of a committee appointed in accordance with section 10(2)(b) when the member is present at a meeting of any committee.
+(2) Subsection (1) shall also apply to any member of a committee appointed in accordance with section 9(2)(b) when the member is present at a meeting of any committee.
 
 ### Objects of Association and powers of Board
 
-10\.—(1) The objects of the Association are —
+9\.—(1) The objects of the Association are —
 
 (a) the organisation and the promotion of group participation in social, cultural, educational and athletic activities for the people of Singapore in order that they may realise that they belong to a multiracial community, the interests of which transcend sectional loyalties;
 
@@ -172,7 +156,7 @@ and any person appointed under paragraph (a) or (b) shall hold office for so lon
 
 (c) the carrying out of any other activities that are incidental or ancillary to the objects set out in paragraphs (a) and (b).
 
-(2) In order to achieve the objects set out in subsection (1) the Board may —
+(2) In order to achieve the objects set out in subsection (1), the Board may —
 
 (a) make rules to regulate the proceedings of the Association and of the Board and generally to carry out the purposes of this Act;
 
@@ -186,8 +170,6 @@ and any person appointed under paragraph (a) or (b) shall hold office for so lon
 
 (f) manage or run community centres, clubs, institutes and such other bodies as the Board thinks fit;
 
-[Act 5 of 1993 wef 12/03/1993]
-
 (g) assist other bodies by contributions or otherwise to promote recreational activities for children, young persons and adults;
 
 (h) acquire, purchase, lease, take, hold and enjoy movable and immovable property of every description, and sell, convey, assign, surrender and yield up, mortgage, demise, reassign, transfer or otherwise dispose of any movable and immovable property vested in the Association upon such terms as the Board considers fit;
@@ -200,21 +182,23 @@ and any person appointed under paragraph (a) or (b) shall hold office for so lon
 
 ### Execution of documents
 
-11\. All deeds, documents or other instruments requiring the seal of the Association shall be sealed with the common seal of the Association in the presence of the Chairman or the Deputy Chairman and one other member of the Board, who shall sign every such deed, document, or other instrument to which the common seal is affixed and their signing is sufficient evidence that the seal was duly and properly affixed and that it is the lawful seal of the Association.
+10\. All deeds, documents or other instruments requiring the seal of the Association shall be sealed with the common seal of the Association in the presence of the Chairman or the Deputy Chairman and one other member of the Board, who shall sign every such deed, document or other instrument to which the common seal is affixed and their signing is sufficient evidence that the seal was duly and properly affixed and that it is the lawful seal of the Association.
 
 ### Annual report
 
-12\. The Secretary-Treasurer of the Board shall, as soon as practicable after the end of each financial year, submit to the Board a report of the activities of the Association during that financial year.
+11\. The Secretary-Treasurer of the Board shall, as soon as practicable after the end of each financial year, submit to the Board a report of the activities of the Association during that financial year.
 
-[Act 5 of 1993 wef 12/03/1993]
+[5/93]
 
 ### Bank accounts and application of funds
 
-13\.—(1) The Board may deposit all moneys belonging to the Association in such account or accounts which it may open with —
+12\.—(1) The Board may deposit all moneys belonging to the Association in such account or accounts which it may open with —
 
-(a) any bank or banks licensed under the Banking Act (Cap. 19); or
+(a) any bank or banks licensed under the Banking Act [Cap. 19]; or
 
-(b) any finance company or companies licensed under the Finance Companies Act (Cap. 108).
+(b) any finance company or companies licensed under the Finance Companies Act [Cap. 108].
+
+[5/93]
 
 (2) The account or accounts in which the moneys belonging to the Association are to be deposited may be opened in the name of —
 
@@ -230,11 +214,9 @@ and any person appointed under paragraph (a) or (b) shall hold office for so lon
 
 (4) The Board may, from time to time, invest any of the funds of the Association not immediately required for carrying out the objects of the Association in such securities which trustees may by any written law for the time being in force be authorised to invest trust moneys in.
 
-[Act 5 of 1993 wef 12/03/1993]
-
 ### Accounts and audit
 
-14\.—(1) The financial year of the Association shall begin on 1st April of each year and end on 31st March of the succeeding year.
+13\.—(1) The financial year of the Association shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
 (2) The Board shall cause proper accounts and records of the transactions and affairs of the Association to be kept and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Association, and over the expenditure incurred by the Association.
 
@@ -242,7 +224,7 @@ and any person appointed under paragraph (a) or (b) shall hold office for so lon
 
 (4) The accounts of the Association shall be audited by the Auditor-General or by an auditor appointed annually by the Board in consultation with the Auditor-General.
 
-(5) A person shall not be qualified for appointment as an auditor under subsection (4) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(5) A person shall not be qualified for appointment as an auditor under subsection (4) unless he is an approved company auditor under the Companies Act [Cap. 50].
 
 (6) The remuneration of the auditor of the Association shall be paid out of the funds of the Association.
 
@@ -268,423 +250,383 @@ and any person appointed under paragraph (a) or (b) shall hold office for so lon
 
 (13) Where the Auditor-General is not the auditor of the Association, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Deputy Chairman.
 
-[Act 5 of 1993 wef 12/03/1993]
-
 ### Association’s symbol
 
-15\.—(1) The Association shall have the exclusive right to the use of the symbol (referred to in this section as the Association’s symbol) a representation of which is set out in the Second Schedule.
+14\.—(1) The Association shall have the exclusive right to the use of the symbol (referred to in this section as the Association’s symbol) a representation of which is set out in the Second Schedule.
 
 (2) Any person who uses a symbol identical with the Association’s symbol or so nearly resembling that symbol as to be likely to deceive or cause confusion in relation to the identity of the Association shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
 FIRST SCHEDULE
 
-Section 5.
+Section 4.
 
-Consultant organisations
+Consultant Organisations
 
 1. 
 
-Alumni International Singapore
+Alumni International Singapore.
 
 2. 
 
-Association of Nanyang University Graduates
+Association of Nanyang University Graduates.
 
 3. 
 
-Basketball Association of Singapore
+Basketball Association of Singapore.
 
 4. 
 
-Boys’ Brigade in Singapore
+Boys’ Brigade in Singapore.
 
 5. 
 
-Central Council of Malay Cultural Organisations
-(Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu)
-
-5A. 
-
-Chinese Dance Artistes’ Association
+Central Council of Malay Cultural Organisations (Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu).
 
 6. 
 
-Chinese Theatre Circle
+Chinese Calligraphy Society of Singapore.
 
 7. 
 
-Er Woo Amateur Musical and Dramatic Association
+Chinese Dance Artistes’ Association.
 
 8. 
 
-Football Association of Singapore
+Chinese Theatre Circle.
 
 9. 
 
-Girls’ Brigade, Singapore
+Er Woo Amateur Musical and Dramatic Association.
 
 10. 
 
-Jogging Association of Singapore
+Football Association of Singapore.
 
 11. 
 
-Youth Flying Club
+Girls’ Brigade, Singapore.
 
 12. 
 
-Malay Youths’ Literary Association
-(Persatuan Persuratan Pemuda Pemudi Melayu)
+Institute of Technical Education, Singapore.
 
 13. 
 
-Metro Philharmonic Society
+Jogging Association of Singapore.
 
 14. 
 
-Metropolitan Young Men’s Christian Association of Singapore
+Malay Youths’ Literary Association (Persatuan Persuratan Pemuda Pemudi Melayu).
 
 15. 
 
-Nanyang Academy of Fine Arts
+Metro Philharmonic Society.
 
 16. 
 
-Nanyang Technological Institute Students’ Union
+Metropolitan Young Men’s Christian Association of Singapore.
 
-17. [Deleted by S 20/1992 wef 30/12/1991]
+17. 
+
+Nanyang Academy of Fine Arts.
 
 18. 
 
-National Trades Union Congress
+Nanyang Technological Institute Students’ Union.
 
 19. 
 
-National University of Singapore Students’ Union
+National Council of Social Service.
 
 20. 
 
-National University of Singapore Society
+National Trades Union Congress.
 
 21. 
 
-Ngee Ann Polytechnic Graduates’ Guild
+National University of Singapore Society.
 
 22. 
 
-Ngee Ann Polytechnic Students’ Union
+National University of Singapore Students’ Union.
 
-23. [Deleted by S 211/1991 wef 24/04/1991]
+23. 
+
+Ngee Ann Polytechnic Graduates’ Guild.
 
 24. 
 
-Perkumpulan Seni (Arts Group)
+Ngee Ann Polytechnic Students’ Union.
 
 25. 
 
-Photographic Society of Singapore
+Perinatal Society of Singapore.
 
 26. 
 
-Radio Modellers Singapore
+Perkumpulan Seni (Arts Group).
 
 27. 
 
-St. John Ambulance
+Photographic Society of Singapore.
 
 28. 
 
-Singapore Action Group of Elders
+Radio Modellers Singapore.
 
 29. 
 
-Singapore Amateur Athletic Association
+St. John Ambulance.
 
 30. 
 
-Singapore Bodybuilders Federation
+Singapore Action Group of Elders.
 
 31. 
 
-Singapore Amateur Boxing Association
+Singapore Amateur Athletic Association.
 
 32. 
 
-Singapore Amateur Cycling Association
+Singapore Amateur Boxing Association.
 
 33. 
 
-Singapore Amateur Gymnastic Association
+Singapore Amateur Cycling Association.
 
 34. 
 
-Singapore Amateur Sepak Takraw Association
+Singapore Amateur Gymnastic Association.
 
 35. 
 
-Singapore Amateur Swimming Association
+Singapore Amateur Sepak Takraw Association.
 
 36. 
 
-Singapore Amateur Weightlifting Federation
+Singapore Amateur Swimming Association.
 
 37. 
 
-Singapore Art Society
+Singapore Amateur Weightlifting Federation.
 
 38. 
 
-Singapore Arts Federation
+Singapore Arts Federation.
 
 39. 
 
-Singapore Badminton Association
+Singapore Art Society.
 
 40. 
 
-Singapore Ballet Academy
+Singapore Badminton Association.
 
 41. 
 
-Singapore Canoe Federation
+Singapore Ballet Academy.
 
 42. 
 
-Singapore Chess Federation
+Singapore Bodybuilders Federation.
 
 43. 
 
-Singapore Xiangqi General Association
+Singapore Canoe Federation.
 
 44. 
 
-Singapore Middle School Chinese Teachers’ Association
+Singapore Chess Federation.
 
 45. 
 
-Singapore Chinese Teachers’ Union
+Singapore Chinese Teachers’ Union.
 
 46. 
 
-Singapore Council of Social Service
+Singapore Civil Defence Force Sports and Recreation Association.
 
 47. 
 
-Singapore Council of Women’s Organisations
+Singapore Classical Guitar Society.
 
 48. 
 
-Singapore Gardening Society
+Singapore Council of Women’s Organisations.
 
 49. 
 
-Singapore Casing Federation
-(Federasi Casing Singapura)
+Singapore Gardening Society.
 
 50. 
 
-Singapore Girl Guides’ Association
+Singapore Gasing Federation (Federasi Gasing Singapura).
 
 51. 
 
-Singapore Classical Guitar Society
+Singapore Girl Guides Association.
 
 52. 
 
-Singapore Indian Fine Arts Society
+Singapore Indian Fine Arts Society.
 
 53. 
 
-Singapore Judo Federation
+Singapore Judo Federation.
 
 54. 
 
-Singapore Karate-Do Federation
+Singapore Karate-Do Federation.
 
 55. 
 
-Singapore Lawn Tennis Association
+Singapore Lawn Tennis Association .
 
 56. 
 
-Singapore Malay Teachers’ Union
-(Kesatuan Guru Melayu, Singapura)
+Singapore Malay Teachers’ Union (Kesatuan Guru Guru Melayu, Singapura).
 
 57. 
 
-Singapore Malay Youth Library Association
-(Taman Bacaan Pemuda Pemudi Melayu Singapura)
+Singapore Malay Youth Library Association (Taman Bacaan Pemuda Pemudi Melayu Singapura).
 
 58. 
 
-Singapore National Wushu Federation
+Singapore Middle School Chinese Teachers’ Association.
 
 59. 
 
-Singapore Numismatic Association
+Singapore National Wushu Federation.
 
 60. 
 
-Singapore Paediatric Society
+Singapore Numismatic Association.
 
 61. 
 
-Singapore Philatelic Society
+Singapore Paediatric Society.
 
 62. 
 
-Singapore Phoenix Dance Troupe
+Singapore Petanque Federation.
 
 63. 
 
-Singapore Polytechnic Graduates’ Guild
+Singapore Philatelic Society.
 
 64. 
 
-Singapore Polytechnic Students’ Union
+Singapore Phoenix Dance Troupe.
 
 65. 
 
-Singapore Professional Centre
+Singapore Polytechnic Graduates’ Guild.
 
 66. 
 
-Singapore Red Cross Society
-
-66A. 
-
-Singapore Rugby Union
-
-66B. 
-
-Chinese Calligraphy Society of Singapore
-
-66C. 
-
-Singapore Weiqi Association
-
-66D. 
-
-Perinatal Society of Singapore
-
-66E. 
-
-Singapore Pentaque Federation
+Singapore Polytechnic Students’ Union.
 
 67. 
 
-Singapore Scout Association
+Singapore Professional Centre.
 
 68. 
 
-Singapore Silat Federation
-(Persekutuan Silat Singapura)
+Singapore Red Cross Society.
 
 69. 
 
-Singapore Squash Rackets Association
+Singapore Rugby Union.
 
 70. 
 
-Singapore Stamp Club
+Singapore Scout Association.
 
 71. 
 
-Singapore Table Tennis Association
+Singapore Silat Federation (Persekutuan Silat Singapura).
 
 72. 
 
-Singapore Tae Kwon-Do Federation
+Singapore Squash Rackets Association.
 
 73. 
 
-Singapore Tamil Teachers’ Union
+Singapore Stamp Club.
 
 74. 
 
-Singapore Teachers’ Union
+Singapore Table Tennis Association.
 
 75. 
 
-Singapore Yachting Association
+Singapore Tae Kwon-Do Federation.
 
 76. 
 
-Society of Chinese Artists
+Singapore Tamil Teachers’ Union.
 
 77. 
 
-Sriwana
+Singapore Teachers’ Union.
 
 78. 
 
-Tamils Representative Council
-
-78A. 
-
-The Eurasian Association, Singapore
+Singapore Weiqi Association.
 
 79. 
 
-Singapore Civil Defence Force Sports and Recreation Association
+Singapore Xiangqi General Association.
 
 80. 
 
-Vocational and Industrial Training Board
+Singapore Yachting Association.
 
 81. 
 
-Volleyball Association of Singapore
+Society of Chinese Artists.
 
 82. 
 
-Young Mens’ Christian Association of Singapore
+Sriwana.
 
 83. 
 
-Young Musicians’ Society
+Tamils Representative Council.
 
 84. 
 
-Young Womens’ Christian Association of Singapore
+The Eurasian Association, Singapore.
 
 85. 
 
-Young Women Muslim Association (Persatuan Pemudi Islam Singapura)
+Volleyball Association of Singapore.
 
-[S 202/83; S 163/86]
+86. 
 
-[S 135/1987 wef 22/04/1987]
+Young Men’s Christian Association of Singapore.
 
-[S 20/1988 wef 29/01/1988]
+87. 
 
-[S 140/1988 wef 10/06/1988]
+Young Musicians’ Society.
 
-[S 360/1988 wef 11/11/1988]
+88. 
 
-[S 78/1990 wef 23/02/1990]
+Young Women’s Christian Association of Singapore.
 
-[S 211/1991 wef 24/04/1991]
+89. 
 
-[S 365/1991 wef 16/08/1991]
+Young Women Muslim Association (Persatuan Pemudi Islam Singapura).
 
-[S 550/1991 wef 13/12/1991]
+90. 
 
-[S 20/1992 wef 30/12/1991]
-
-[S 138/1992 wef 16/03/1992]
-
-[S 290/1992 wef 17/06/1992]
-
-[S 312/1992 wef 24/06/1992]
-
-[S 496/1992 wef 13/10/1992]
+Youth Flying Club.
 
 SECOND SCHEDULE
 
-Section 15(1).
+Section 14(1)
 
-THE ASSOCIATION’S SYMBOL
+the Association’s Symbol
 
 ## LEGISLATIVE HISTORY
 
@@ -766,3 +708,5 @@ This Legislative History is provided for the convenience of users of the People�
 |||(Bill No. 41/92 published on 17 November 1992)|
 ||Date of Second and Third Readings|18 January 1993|
 ||Date of commencement|12 March 1993|
+|30.|**1994 Revised Edition—People’s Association Act (Chapter 227)**|
+||Date of operation|15 March 1994|
