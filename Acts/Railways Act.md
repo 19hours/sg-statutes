@@ -362,7 +362,9 @@ CONSTRUCTION AND WORKS
 
 (2) When such work, railway or bridge has been constructed the railway administration shall not alter or extend the same without obtaining, before making any such alteration or extension, the like consent and approval.
 
-(3) If any such work, railway or bridge is commenced or completed contrary to this section, the Director‑General of Public Works, with the approval of the Minister, may abate and remove the same and may restore the site thereof to its former condition at the costs and charges of the railway administration.
+(3) If any such work, railway or bridge is commenced or completed contrary to this section, the Land Transport Authority, with the approval of the Minister, may abate and remove the same and may restore the site thereof to its former condition at the costs and charges of the railway administration.
+
+[4/99 wef 01/04/1999]
 
 ### Alteration of pipes, wires and drains
 
@@ -418,7 +420,9 @@ Provided that —
 
 ### Power for owner, occupier or local authority to cause additional accommodation works to be made
 
-14\. If an owner or occupier of any land affected by any railway considers the works made under section 13 to be insufficient for the commodious use of the land, or if the Director‑General of Public Works desires to construct a public road or other work across, under or over the railway, he may at any time require the railway administration to make at his expense such further accommodation works as he thinks necessary and are agreed to by the railway administration or as, in case of difference of opinion, are authorised by the Minister.
+14\. If an owner or occupier of any land affected by any railway considers the works made under section 13 to be insufficient for the commodious use of the land, or if the Land Transport Authority desires to construct a public road or other work across, under or over the railway, he may at any time require the railway administration to make at his expense such further accommodation works as he thinks necessary and are agreed to by the railway administration or as, in case of difference of opinion, are authorised by the Minister.
+
+[4/99 wef 01/04/1999]
 
 ### Fences, screens, gates and bars
 
@@ -440,7 +444,9 @@ Provided that —
 
 16\.—(1) Where the railway administration has constructed the railway across a public road on the level, the Minister may at any time, if it appears to him necessary for the public safety, require the railway administration within such time as he thinks fit to carry the road either under or over the railway by means of a bridge or arch with convenient ascents and descents and other convenient approaches instead of crossing the road on the level, or to execute such other works as in the circumstances of the case appear to the Minister to be best adapted for removing or diminishing the danger arising from the level crossing.
 
-(2) The Minister may require as a condition of making a requisition under subsection (1) that the Director‑General of Public Works shall undertake to pay the whole of the cost to the railway administration of complying with the requisition or such portion of the cost as the Minister thinks just.
+(2) The Minister may require as a condition of making a requisition under subsection (1) that the Land Transport Authority shall undertake to pay the whole of the cost to the railway administration of complying with the requisition or such portion of the cost as the Minister thinks just.
+
+[4/99 wef 01/04/1999]
 
 ### Level crossings over public carriageways
 
@@ -468,7 +474,9 @@ Provided that —
 
 18\.—(1) If a railway crosses any highway other than a public carriageway on the level, the railway administration shall make where necessary, and at all times maintain, convenient ascents and descents and other convenient approaches with handrails or other fences, and, if the highway is a footway, good and sufficient gates or stiles on each side of the railway where the highway communicates therewith.
 
-(2) The manager shall be judge of the necessity in the case of a railway administered by the Government, and the Director‑General of Public Works or a Deputy Director‑General of Public Works in the case of a railway administered by a company.
+(2) The manager shall be judge of the necessity in the case of a railway administered by the Government, and the Land Transport Authority in the case of a railway administered by a company.
+
+[4/99 wef 01/04/1999]
 
 ### Penalty
 
@@ -650,6 +658,7 @@ $
 
 in the case of a traction engine or motor car of a kind not herein otherwise specifically referred to ... ... ... ...
 
+
 200
 
 in the case of a coach, carriage, ghari or omnibus ... … ….
@@ -730,7 +739,7 @@ unless the value of such article has been declared and a percentage on the amoun
 
 43\.—(1) Subject to any agreement in writing to the contrary, in any suit against a railway administration for compensation for loss, destruction or deterioration of animals or goods or passengers’ luggage delivered to the railway administration for carriage by railway, it shall not be necessary for the plaintiff to prove how the loss, destruction or deterioration was caused.
 
-(2) In every such proceeding the burden of proving the value of the animals or goods or passengers’ luggage, and, where the same have been injured, the extent of the injury, shall lie upon the person claiming the compensation.
+(2) In every such proceedings the burden of proving the value of the animals or goods or passengers’ luggage, and, where the same have been injured, the extent of the injury, shall lie upon the person claiming the compensation.
 
 ### Notification of claims to refund of overcharges and compensation for losses
 
@@ -862,7 +871,7 @@ MANAGEMENT
 
 ### Disposal of differences between railways regarding conduct of joint traffic
 
-57\. Where two or more railway administrations whose railways have a common terminus or a portion of the same line of railway communication are not able to agree upon arrangements for conducting at such common terminus or at the point of junction between them their joint traffic with safety to the public, the Minister, upon the application of either or of any of such administrations, may decide the matters in dispute between them, so far as those matters relate to the safety of the public, and may determine whether the whole or what proportion of the expenses attending on such arrangements shall be borne by either or any of the administrations respectively.
+57\. Where two or more railway administrations whose railways have a common terminus or a portion of the same line of railway communication are not able to agree upon arrangements for conducting at such common terminus or at the point of junction between them their joint traffic with safety to the public, the Minister, upon the application of either or any of such administrations, may decide the matters in dispute between them, so far as those matters relate to the safety of the public, and may determine whether the whole or what proportion of the expenses attending on such arrangements shall be borne by either or any of the administrations respectively.
 
 ### Maximum load for wagons
 
@@ -870,7 +879,9 @@ MANAGEMENT
 
 (2) Every person owning a wagon or truck which passes over the railway shall similarly determine and exhibit the maximum load for the wagon or truck.
 
-(3) The gross weight of any such wagon or truck bearing upon the axles when the wagon or truck is loaded to such maximum load shall not exceed such limit as is approved by the Director‑General of Public Works for the class of axle under the wagon or truck.
+(3) The gross weight of any such wagon or truck bearing upon the axles when the wagon or truck is loaded to such maximum load shall not exceed such limit as is approved by the Land Transport Authority for the class of axle under the wagon or truck.
+
+[4/99 wef 01/04/1999]
 
 ### Penalty
 
@@ -918,7 +929,7 @@ MANAGEMENT
 
 (3) Any person travelling without a ticket or not producing or delivering up his ticket as aforesaid shall be liable to pay —
 
-(a) the fare for the distance travelled or, where there is any doubt as to the station or place from which he started, the fare from the station or place from which the train, steamer or vessel originally started; and in addition
+(a) the fare for the distance travelled or, where there is any doubt as to the station or place from which he started, the fare from the station or place which the train, steamer or vessel originally started; and in addition
 
 (b) a special charge of 50 cents, 25 cents or 10 cents according as he travelled in a carriage or enjoyed accommodation of the 1st, 2nd or 3rd class.
 
@@ -1340,3 +1351,9 @@ This Legislative History is provided for the convenience of users of the Railway
 ||Date of commencement|15 November 1985|
 |28.|**1985 Revised Edition—Railways Act**|
 ||Date of operation|30 March 1987|
+|29.|**Act 4 of 1999—Building and Construction Authority Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|23 November 1998|
+|||(Bill No. 51/1998 published on 24 November 1998)|
+||Date of Second and Third Readings|20 January 1999|
+||Date of commencement|1 April 1999|
