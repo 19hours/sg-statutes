@@ -1,16 +1,14 @@
-**Institute of Technical Education Act 1992**
+**Institute of Technical Education Act**
 
-**(No. 8 of 1992)**
+**(CHAPTER 141A)**
 
 **Table of Contents**
 
 [**Long Title**](#Institute-of-Technical-Education-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -110,55 +108,35 @@
 
 - [44 Regulations](#Regulations)
 
-- [45 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [45 Transitional provisions](#Transitional-provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Institute of Technical Education Act
 
-ACTS SUPPLEMENT
+(CHAPTER 141A)
 
-Published by Authority
+(Original Enactment: Act 8 of 1992)
 
-NO. 5]
+REVISED EDITION 1993
 
-Friday, March 27
+(15th March 1993)
 
-[1992
+An Act to establish the Institute of Technical Education, Singapore, and for matters connected therewith.
 
-The following Act was passed by Parliament on 27th February 1992 and assented to by the President on 18th March 1992:—
-
-Institute Of Technical Education Act 1992
-
-(No. 8 of 1992)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-18th March 1992.
-
-Date of Commencement: 27th March 1992
-
-An Act to establish the Institute of Technical Education, Singapore and for matters connected therewith and to repeal the Vocational and Industrial Training Board Act (Chapter 345 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 1992]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Institute of Technical Education Act 1992 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Institute of Technical Education Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “Board” means the Board of Governors established under section 7(1);
 
@@ -176,7 +154,7 @@ PRELIMINARY
 
 “technical skills” means the skills acquired through technical education and training or other means for employment in commerce or industry;
 
-“Vocational and Industrial Training Board” means the Vocational and Industrial Training Board established under the repealed Vocational and Industrial Training Board Act (Cap. 345).
+“Vocational and Industrial Training Board” means the Vocational and Industrial Training Board established under the repealed Vocational and Industrial Training Board Act [Cap. 345].
 
 ## PART II
 
@@ -198,7 +176,7 @@ ESTABLISHMENT OF INSTITUTE
 
 (2) All deeds, documents and other instruments requiring the seal of the Institute shall be sealed with the common seal of the Institute and every instrument to which the common seal is affixed shall be signed by a member and shall be countersigned by the Chief Executive Officer or by some other person duly authorised by the Board for that purpose, and such signing shall be sufficient evidence that the seal was duly and properly affixed and that the seal is the lawful seal of the Institute.
 
-(3) Section 12 of the Registration of Deeds Act (Cap. 269) shall not apply to any instrument purporting to have been executed under subsection (2).
+(3) Section 12 of the Registration of Deeds Act [Cap. 269] shall not apply to any instrument purporting to have been executed under subsection (2).
 
 ### Functions
 
@@ -206,7 +184,7 @@ ESTABLISHMENT OF INSTITUTE
 
 (a) the provision, promotion and regulation of technical training and education courses for training persons employed in or intending to be employed in commerce or industry;
 
-(b) the upgrading of the technical skills of the workforce through continuing education and training;
+(b) the upgrading of the technical skills of the work-force through continuing education and training;
 
 (c) the regulation and promotion of industry-based training and education in technical skills;
 
@@ -270,7 +248,7 @@ CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS
 
 (3) The Chairman and other members of the Board shall be appointed by the Minister and shall, unless the Minister otherwise directs, hold office for a period of 3 years from the date of their respective appointments and shall be eligible for reappointment.
 
-(4) The Minister may in his discretion appoint any member of the Board to be the Deputy Chairman of the Board.
+(4) The Minister may, in his discretion, appoint any member of the Board to be the Deputy Chairman of the Board.
 
 (5) The Deputy Chairman so appointed may, subject to such direction as may be given by the Chairman, exercise all or any of the powers exercisable by the Chairman under this Act.
 
@@ -322,7 +300,7 @@ CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS
 
 12\.—(1) A member who is, directly or indirectly, interested in a contract made, or proposed to be made, by the Board or any other matter which is before any meeting of the Board, shall disclose the nature of his interest at the first meeting of the Board at which he is present after the relevant facts have come to his knowledge.
 
-(2) A disclosure under subsection (1) shall be recorded in the minutes of the Board and, after the disclosure, that member —
+(2) A disclosure under subsection (I) shall be recorded in the minutes of the Board and, after the disclosure, that member —
 
 (a) shall not take part in any deliberation or discussion of, and shall not vote on any question with respect to, that contract or other matter; and
 
@@ -346,9 +324,9 @@ CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS
 
 (2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman or the Chief Executive Officer, all or any of the powers, functions and duties by this Act vested in the Institute, and a power, function or duty so delegated may be exercised or performed by such committee or the Chairman or the Chief Executive Officer, as the case may be, in the name and on behalf of the Institute.
 
-(3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any employee of the Institute all or any of the powers, functions and duties by this Act vested in the Institute; and any power, function or duty so delegated may be exercised or performed by the employee in the name and on behalf of the Institute.
+(3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any employee of the Institute all or any of the powers, functions and duties by this Act vested in the Institute, and a power, function or duty so delegated may be exercised or performed by the employee in the name and on behalf of the Institute.
 
-(4) The Institute may continue to exercise a power conferred upon it, or perform a function or duty under this Act, notwithstanding the delegation of the power, function or duty under this section.
+(4) The Institute may continue to exercise a power conferred upon it, or perform a function or duty under this Act,notwithstanding the delegation of the power, function or duty under this section.
 
 ## PART IV
 
@@ -356,33 +334,33 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer to Institute of assets and liabilities
 
-16\.—(1) As from the appointed day, all lands, buildings and other properties, movable or immovable, rights, interests, privileges, obligations and liabilities vested in, belonging to or incurred by the Vocational and Industrial Training Board shall be transferred to and vested in the Institute without further assurance.
+16\.—(1) As from 1st April 1992, all lands, buildings and other properties, movable or immovable, rights, interests, privileges, obligations and liabilities vested in, belonging to or incurred by the Vocational and Industrial Training Board shall be transferred to and vest in the Institute without further assurance.
 
 (2) If any question arises as to which property, movable or immovable, has been transferred to and vested in the Institute under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence of the vesting of that property in the Institute.
 
 ### Existing contracts
 
-17\. All deeds, bonds, agreements, instruments and working arrangements subsisting immediately before the appointed day affecting the lands, buildings and other properties, movable or immovable, transferred under section 16 or any employee of the Vocational and Industrial Training Board transferred to the service of the Institute under section 19 shall be of full force and effect against or in favour of the Institute and enforceable as fully and effectually as if, instead of the Vocational and Industrial Training Board, the Institute had been named therein or had been a party thereto.
+17\. All deeds, bonds, agreements, instruments and working arrangements subsisting immediately before 1st April 1992 affecting the lands, buildings and other properties, movable or immovable, transferred under section 16 or any employee of the Vocational and Industrial Training Board transferred to the service of the Institute under section 19 shall be of full force and effect against or in favour of the Institute and enforceable as fully and effectually as if, instead of the Vocational and Industrial Training Board, the Institute had been named therein or had been a party thereto.
 
 ### Pending proceedings
 
-18\. Any proceedings or cause of action pending or existing immediately before the appointed day by or against the Vocational and Industrial Training Board in respect of the lands, buildings and other properties, movable or immovable, transferred under section 16 and the rights, interests, obligations and liabilities in connection therewith or appertaining thereto may be continued and enforced by or against the Institute as it might have been by or against the Vocational and Industrial Training Board as if this Act had not been enacted.
+18\. Any proceedings or cause of action pending or existing immediately before 1st April 1992 by or against the Vocational and Industrial Training Board in respect of the lands, buildings and other properties, movable or immovable, transferred under section 16 and the rights, interests, obligations and liabilities in connection therewith or appertaining thereto may be continued and enforced by or against the Institute as it might have been by or against the Vocational and Industrial Training Board as if this Act had not been enacted.
 
 ### Transfer of employees
 
-19\.—(1) As from the appointed day, such persons employed by the Vocational and Industrial Training Board immediately before that day as specified by the Minister shall be transferred to the service of the Institute on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+19\.—(1) As from 1st April 1992, such persons employed by the Vocational and Industrial Training Board immediately before that date as specified by the Minister shall be transferred to the service of the Institute on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) Until such time as schemes and terms and conditions of service are drawn up by the Institute, the schemes and terms and conditions of service in the Vocational and Industrial Training Board shall continue to apply to every person transferred to the service of the Institute under subsection (1) as if he were still in the service of that Board.
 
-(3) Where any person who is transferred to the service of the Institute under subsection (1) is a contributor under the Widows’ and Orphans’ Pension Act (Cap. 350), he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Institute; and for the purposes of that Act his service with the Institute shall be deemed to be service with the Government and the Institute shall have the right to make deductions from the salary of that person to be paid as contributions under that Act.
+(3) Where any person who is transferred to the service of the Institute under subsection (1) is a contributor under the Widows’ and Orphans’ Pension Act, he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the Institute; and for the purposes of that Act his service with the Institute shall be deemed to be service with the Government and the Institute shall have the right to make deductions from the salary of that person to be paid as contributions under that Act.
 
 (4) Where any person who is transferred to the service of the Institute under subsection (1) was an employee of the Government transferred to the service of the Vocational and Industrial Training Board with his pension benefits in respect of that employment preserved, the Government shall be liable to pay to the Institute such portion of any such pension benefits payable on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under the Government, the former Industrial Training Board, the Vocational and Industrial Training Board and the Institute.
 
 ### Continuation and completion of disciplinary proceedings
 
-20\.—(1) Where on the appointed day any disciplinary proceedings against any person transferred to the service of the Institute under section 19 were pending before the Vocational and Industrial Training Board, the proceedings against the person shall be taken up and continued under and in conformity with the provisions of this Act so far as consistently may be; but where on that day any matter was in the course of being heard or investigated by the Vocational and Industrial Training Board or had been heard or investigated by that Board, but no order or decision had been made thereon, that Board shall continue to exist, notwithstanding this Act, for the purpose of completing the hearing or investigation and the making of an order or decision, as the case may be.
+20\.—(1) Where on 1st April 1992 any disciplinary proceedings against any person transferred to the service of the Institute under section 19 were pending before the Vocational and Industrial Training Board, the proceedings against the person shall be taken up and continued under and in conformity with the provisions of this Act so far as consistently may be; but where on that date any matter was in the course of being heard or investigated by the Vocational and Industrial Training Board or had been heard or investigated by that Board, but no order or decision had been made thereon, that Board shall continue to exist, notwithstanding this Act, for the purpose of completing the hearing or investigation and the making of an order or decision, as the case may be.
 
-(2) For the purposes of completing a hearing or investigation before it, or making an order or rendering a decision on a matter heard or investigated before the appointed day, the Vocational and Industrial Training Board shall complete the hearing or investigation in accordance with the authority vested in that Board immediately before that day and make such order, ruling or direction as the Board could have made under the authority vested in it immediately before that day.
+(2) For the purposes of completing a hearing or investigation before it, or making an order or rendering a decision on a matter heard or investigated before 1st April 1992, the Vocational and Industrial Training Board shall complete the hearing or investigation in accordance with the authority vested in that Board immediately before that date and make such order, ruling or direction as the Board could have made under the authority vested in it immediately before that date.
 
 (3) Any order, ruling or direction made or given by the Vocational and Industrial Training Board pursuant to this section shall be entered as an order, ruling or direction of the Institute and shall have the same force or effect as if it had been made or given by the Institute pursuant to the authority vested in the Institute under this Act.
 
@@ -410,7 +388,7 @@ PROVISIONS RELATING TO STAFF
 
 ### Employment of staff
 
-23\. The Institute may, from time to time and subject to such directions may be given by the Minister, appoint such number of employees on such terms and conditions as the Institute may determine.
+23\. The Institute may, from time to time and subject to such directions as may be given by the Minister, appoint such number of employees on such terms and conditions as the Institute may determine.
 
 ### Protection from personal liability
 
@@ -418,7 +396,7 @@ PROVISIONS RELATING TO STAFF
 
 ### Public servants
 
-25\. All members and employees of the Institute shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+25\. All members and employees of the Institute shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
 
 ## PART VI
 
@@ -434,7 +412,7 @@ FINANCIAL PROVISIONS
 
 ### Loans
 
-28\. The Institute may, from time to time, for the purposes of this Act, raise loans from the Government or, with the consent of the Minister, from any source.
+28\. The Institute may, from time to time, for the purposes of this Act, raise loans from the Government or with the consent of the Minister, from any source.
 
 ### Investment of funds
 
@@ -448,7 +426,7 @@ FINANCIAL PROVISIONS
 
 31\.—(1) The accounts of the Institute shall be audited by the Auditor-General or by an auditor appointed annually by the Minister in consultation with the Auditor-General.
 
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
 
 (3) The remuneration of the auditor shall be paid out of the funds of the Institute.
 
@@ -512,7 +490,7 @@ MISCELLANEOUS
 
 38\.—(1) In relation to accidents happening to workmen (within the meaning of the Workmen’s Compensation Act) who attend courses or avail themselves of the facilities provided or approved by the Institute, that Act shall have effect subject to subsection (2).
 
-(2) For the purposes of the Workmen’s Compensation Act (Cap. 354), any act done by a workman for the purposes of and in connection with his training referred to in subsection (1) shall, if it is not done for the purposes of and in connection with his employer’s trade or business, be deemed to be so done.
+(2) For the purposes of the Workmen’s Compensation Act, any act done by a workman for the purposes of and in connection with his training referred to in subsection (1) shall, if it is not done for the purposes of and in connection with his employer’s trade or business, be deemed to be so done.
 
 ### Power to obtain information from employers
 
@@ -572,11 +550,26 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (e) the appointment, promotion, conduct, disciplinary control, dismissal and termination of service of employees of the Institute.
 
-### Repeal and transitional provisions
+### Transitional provisions
 
-45\.—(1) The Vocational and Industrial Training Board Act (Cap. 345) is repealed.
+45\.—(1) Any document or thing done under any provision of the repealed Vocational and Industrial Training Board Act [Cap. 345], and every such document or thing so far as it is subsisting or in force on 1st April 1992 shall continue and have effect as if it had been made or done under the corresponding provisions of this Act.
 
-(2) Any document or thing done under any provision of the repealed Vocational and Industrial Training Board Act, and every such document or thing so far as it is subsisting or in force on the appointed day shall continue and have effect as if it had been made or done under the corresponding provisions of this Act.
+(2) As from 1st April 1992, all references in any written law to the Vocational and Industrial Training Board shall be read as references to the Institute of Technical Education, Singapore.
 
-(3) As from the appointed day all references in any written law to the Vocational and Industrial Training Board shall be read as references to the Institute of Technical Education, Singapore.
+## LEGISLATIVE HISTORY
 
+Institute of Technical Education Act
+
+(CHAPTER 141A)
+
+This Legislative History is provided for the convenience of users of the Institute of Technical Education Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 8 of 1992—Institute of Technical Education Act 1992**|
+||Date of First Reading|13 January 1992|
+|||(Bill No. 3/1992 published on 14 January 1992)|
+||Date of Second and Third Readings|27 February 1992|
+||Date of commencement|27 March 1992|
+|2.|**1993 Revised Edition—Institute of Technical Education Act**|
+||Date of operation|15 March 1993|
