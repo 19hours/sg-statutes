@@ -14,13 +14,13 @@
 
 - [4 Administration of insolvent estates, and winding up of companies. Bankruptcy rules to prevail](#Administration-of-insolvent-estates-and-winding-up-of-companies-Bankruptcy-rules-to-prevail)
 
-- [5 Law of England to be observed in all commercial matters](#Law-of-England-to-be-observed-in-all-commercial-matters)
+- [5 (Repealed)](#Repealed)
 
 - [6 Agreement by way of gaming or wagering to be null and void](#Agreement-by-way-of-gaming-or-wagering-to-be-null-and-void)
 
-- [6A Contracts which must be evidenced in writing. Cf. 29 Charles II c.3 (Statute of Frauds 1677, s. 4) Law of Property Act 1925, s. 40](#Contracts-which-must-be-evidenced-in-writing-Cf-29-Charles-II-c3-Statute-of-Frauds-1677-s-4-Law-of-Property-Act-1925-s-40)
+- [6A Contracts which must be evidenced in writing](#Contracts-which-must-be-evidenced-in-writing)
 
-- [6B Trusts respecting immovable property and disposition of equitable interest. Cf. 29 Charles II c.3 (Statute of Frauds 1677, ss. 7, 8 and 9) Law of Property Act 1925, s. 53](#Trusts-respecting-immovable-property-and-disposition-of-equitable-interest-Cf-29-Charles-II-c3-Statute-of-Frauds-1677-ss-7-8-and-9-Law-of-Property-Act-1925-s-53)
+- [6B Trusts respecting immovable property and disposition of equitable interest](#Trusts-respecting-immovable-property-and-disposition-of-equitable-interest)
 
 - [7 Effect of death on certain causes of action](#Effect-of-death-on-certain-causes-of-action)
 
@@ -44,7 +44,7 @@
 
 - [16 Executor deemed to be trustee for person entitled to residue on intestacy](#Executor-deemed-to-be-trustee-for-person-entitled-to-residue-on-intestacy)
 
-- [16A Executor of executor represents original testator. Cf. 25 Edward III St. 5. c.5 (1351–2)](#Executor-of-executor-represents-original-testator-Cf-25-Edward-III-St-5-c5-1351–2)
+- [16A Executor of executor represents original testator](#Executor-of-executor-represents-original-testator)
 
 - [17 Devisee of land not to claim payment of mortgage debt out of movable property](#Devisee-of-land-not-to-claim-payment-of-mortgage-debt-out-of-movable-property)
 
@@ -66,9 +66,9 @@
 
 (Original Enactment: Ordinance 8 of 1909)
 
-REVISED EDITION 1988
+REVISED EDITION 1994
 
-(31st December 1987)
+(15th March 1994)
 
 An Act to consolidate certain provisions of the civil law.
 
@@ -80,7 +80,7 @@ An Act to consolidate certain provisions of the civil law.
 
 ### Interpretation
 
-2\. In this Act, unless there is something repugnant in the subject or context —
+2\. In this Act, unless the context otherwise requires —
 
 “court” means the High Court and includes any judge thereof whether sitting in court or in chambers;
 
@@ -132,13 +132,17 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 (2) All persons who, in any such case, would be entitled to prove for and receive dividends out of the estate of any such deceased person, or out of the assets of any such company, may come in under the decree or order for the administration of such estate, or under the winding up of such company, and make such claims against the same as they may respectively be entitled to by virtue of this Act.
 
-### Voluntary waste. Cf. 52 Henry III (Statute of Malborough) c.23. (1267)
+### Voluntary waste
 
 (2A) A tenant for life or lives or a leasehold tenant shall not commit voluntary waste; but this subsection shall not apply to any estate or tenancy without impeachment of waste, or affect any licence or other right to commit waste.
 
+[35/93]
+
+[Cf. 52 Henry III (Statute of Malborough) c. 23. (1267)]
+
 (2B) A tenant who infringes subsection (2A) shall be liable in damages to his remainderman or reversioner; and in subsection (2A), “leasehold tenant” includes a tenant for a term, a tenant under a periodical tenancy and a tenant at will.
 
-[Act 35 of 1993 wef 12/11/1993]
+[35/93]
 
 ### Estate for life when not to confer right of equitable waste
 
@@ -154,9 +158,7 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 ### Assignment of debts and choses in action. Effectual to pass right and remedy
 
-(6) Any absolute assignment by writing under the hand of the assignor, not purporting to be by way of charge only, of any debt or other legal chose in action of which express notice in writing has been given to the debtor, trustee or other person from whom the assignor would have been entitled to receive or claim such debt or chose in action, shall be and be deemed to have been effectual in law, subject to all equities which would have been entitled to priority over the right of the assignee under the law as it existed before 23rd July 1909 to pass and transfer the legal right to such debt or chose in action, from the date of such notice, and all legal and other remedies for the same, and the power to give a good discharge for the same, without the concurrence of the assignor.
-
-### Stipulations not of essence of contracts to be construed as in equity
+(6) Any absolute assignment by writing under the hand of the assignor, not purporting to be by way of charge only, of any debt or other legal chose in action of which express notice in writing has been given to the debtor, trustee or other person from whom the assignor would have been entitled to receive or claim such debt or chose in action, shall be and be deemed to have been effectual in law, subject to all equities which would have been entitled to priority over the right of the assignee under the law as it existed before 23rd July 1909 to pass and transfer the legal right to such debt or chose in action, from the date of such notice, and all legal and other remedies for the same, and the power to give a good discharge for the same, without the concurrence of the assignor. Stipulations not of essence of contracts to be construed in equity.
 
 (7) Stipulations in contracts, as to time or otherwise, which would not, before 23rd July 1909 have been deemed to be or to have become of the essence of such contracts in a court of equity, shall receive in all cases the same construction and effect as they would have received in equity before that date.
 
@@ -176,31 +178,7 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 (11) Generally in all matters not hereinbefore particularly mentioned, in which there is any conflict or variance between the rules of equity and the rules of the common law with reference to the same matter, the rules of equity shall prevail.
 
-### Law of England to be observed in all commercial matters
-
-5\.—(1) Subject to this section, in all questions or issues which arise or which have to be decided in Singapore with respect to the law of partnerships, corporations, banks and banking, principals and agents, carriers by air, land and sea, marine insurance, average, life and fire insurance, and with respect to mercantile law generally, the law with respect to those matters to be administered shall be the same as would be administered in England in the like case, at the corresponding period, if such question or issue had arisen or had to be decided in England, unless in any case other provision is or shall be made by any law having force in Singapore.
-
-[24/79]
-
-(2) Nothing in this section shall be taken to introduce into Singapore —
-
-(a) any part of the law of England relating to the tenure or conveyance or assurance of, or succession to, any immovable property, or any estate, right or interest therein;
-
-(b) any law enacted or made in the United Kingdom, whether before or after 5th October 1979 —
-
-(i) giving effect to a treaty or international agreement to which Singapore is not a party; or
-
-(ii) regulating the exercise of any business or activity by providing for registration, licensing or any other method of control or by the imposition of penalties; and
-
-(c) any provision in any Act of Parliament of the United Kingdom where there is a written law in force in Singapore corresponding to that Act.
-
-[24/79]
-
-(3) For the purposes of this section —
-
-(a) the law of England which is to be administered by virtue of subsection (1) shall be subject to such modifications and adaptations as the circumstances of Singapore may require; and
-
-(b) a written law in force in Singapore shall be regarded as corresponding to an Act of Parliament of the United Kingdom under subsection (2)(c) if (notwithstanding that it differs, whether to a small extent or substantially, from that Act) the purpose or purposes of the written law are the same as or similar to those of that Act.
+5\. [Repealed by Act 35/93]
 
 ### Agreement by way of gaming or wagering to be null and void
 
@@ -220,7 +198,7 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 (5) Any promise, express or implied, to pay any person any sum of money paid by him under or in respect of any contract or agreement rendered null and void by subsections (1) and (2), or to pay any sum of money by way of commission, fee, reward or otherwise in respect of any such contract or of any services in relation thereto or in connection therewith, shall be null and void, and no action shall be brought or maintained to recover any such sum of money.
 
-### Contracts which must be evidenced in writing. Cf. 29 Charles II c.3 (Statute of Frauds 1677, s. 4) Law of Property Act 1925, s. 40
+### Contracts which must be evidenced in writing
 
 6A\. No action shall be brought against —
 
@@ -236,9 +214,13 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 unless the promise or agreement upon which such action is brought, or some memorandum or note thereof, is in writing and signed by the party to be charged therewith or some other person lawfully authorised by him.
 
-[Act 35 of 1993 wef 12/11/1993]
+[Cf. 29 Charles II c. 3 (Statute ofFrauds 1677, s. 4)]
 
-### Trusts respecting immovable property and disposition of equitable interest. Cf. 29 Charles II c.3 (Statute of Frauds 1677, ss. 7, 8 and 9) Law of Property Act 1925, s. 53
+[Law of Property Act 1925, s. 40]
+
+[35/93]
+
+### Trusts respecting immovable property and disposition of equitable interest
 
 6B\.—(1) A declaration of trust respecting any immovable property or any interest in such property must be manifested and proved by some writing signed by some person who is able to declare such trust or by his will.
 
@@ -246,7 +228,11 @@ unless the promise or agreement upon which such action is brought, or some memor
 
 (3) This section does not affect the creation or operation of resulting, implied or constructive trusts.
 
-[Act 35 of 1993 wef 12/11/1993]
+[Cf. 29 Charles II c. 3 (Statute ofFrauds 1677, ss. 7, 8 and 9)]
+
+[Law of Property Act 1925, s. 53.]
+
+[35/93]
 
 ### Effect of death on certain causes of action
 
@@ -284,8 +270,6 @@ Provided that this subsection shall not apply to causes of action for defamation
 
 (2) In subsection (1), any reference to damages in respect of loss of expectation of life does not include damages in respect of loss of income.
 
-[7A
-
 ### Power of courts of record to award interest on debts and damages
 
 9\. In any proceedings tried in any court of record for the recovery of any debt or damages, the court may, if it thinks fit, order that there shall be included in the sum for which judgment is given interest at such rate as it thinks fit on the whole or any part of the debt or damages for the whole or any part of the period between the date when the cause of action arose and the date of the judgment:
@@ -298,13 +282,11 @@ Provided that nothing in this section —
 
 (c) shall affect the damages recoverable for the dishonour of a bill of exchange.
 
-[8
-
 ### Charges and mortgages over choses in action
 
 9A\. For the avoidance of doubt, it is hereby declared that a person (“the first person”) is able to create, and always has been able to create, in favour of another person (“the second person”) a legal or equitable charge or mortgage over all or any of the first person’s interest in a chose in action enforceable by the first person against the second person, and any charge or mortgage so created shall operate neither to merge the interest thereby created with, nor to extinguish or release, that chose in action.
 
-[Act 8 of 1993 wef 16/04/1993]
+[8/93]
 
 ### Abolition of husband’s liability for wife’s torts and antenuptial contracts, debts and obligations
 
@@ -314,7 +296,7 @@ Provided that nothing in this section —
 
 (b) to be sued or made a party to any legal proceedings brought in respect of any such tort, contract, debt or obligation.
 
-(2) For the avoidance of doubt it is hereby declared that nothing in this section —
+(2) For the avoidance of doubt, it is hereby declared that nothing in this section —
 
 (a) renders the husband of a married woman liable in respect of any contract entered into, or debt or obligation incurred, by her after the marriage in respect of which he would not have been liable if this section had not been enacted;
 
@@ -323,8 +305,6 @@ Provided that nothing in this section —
 (c) prevents a husband and wife from acquiring, holding and disposing of, any property jointly or as tenants in common, or from rendering themselves or being rendered jointly liable in respect of any tort, contract, debt or obligation, and of suing and being sued either in tort or in contract or otherwise, in the like manner as if they were not married;
 
 (d) prevents the exercise of any joint power given to a husband and wife.
-
-[9
 
 ### Proceedings against, and contribution between, joint and several tortfeasors
 
@@ -354,8 +334,6 @@ Provided that nothing in this section —
 
 (5) Subsections (1) to (4) are for the removal of doubt and nothing therein shall be taken to repeal by implication or in any way to derogate from section 5.
 
-[10
-
 ### Right of action for wrongful act causing death
 
 12\.—(1) If death is caused by any wrongful act, neglect or default which is such as would (if death has not ensued) have entitled the person injured to maintain an action and recover damages in respect thereof, the person who would have been liable if death had not ensued shall be liable to an action for damages, notwithstanding the death of the person injured.
@@ -364,7 +342,11 @@ Provided that nothing in this section —
 
 (2) Subject to section 13(2), every such action shall be for the benefit of the dependants of the person (referred to in this section and in sections 13 and 14 as the deceased) whose death has been so caused.
 
+[11/87]
+
 (3) Every action brought under this section shall be brought by and in the name of the executor or administrator of the deceased.
+
+[11/87]
 
 (4) If —
 
@@ -374,11 +356,19 @@ Provided that nothing in this section —
 
 the action may be brought by and in the name of all or any of the persons for whose benefit an executor or administrator could have brought it.
 
+[11/87]
+
 (5) Not more than one action shall lie for or in respect of the same subject-matter of complaint and every such action shall be brought within 3 years after the death of such deceased person.
+
+[11/87]
 
 (6) The plaintiff in every such action brought under this section shall be required to deliver to the defendant or his solicitor full particulars of the persons for whom and on whose behalf the action is brought and of the nature of the claim in respect of which damages are sought to be recovered.
 
+[11/87]
+
 (7) In any action brought under this section, the executor of the deceased may insert a claim for and recover any pecuniary loss to the estate of the deceased occasioned by such wrongful act, neglect or default, which sum when recovered shall be deemed part of the assets of the estate of the deceased.
+
+[11/87]
 
 (8) In this section, “dependant” means —
 
@@ -392,17 +382,23 @@ the action may be brought by and in the name of all or any of the persons for wh
 
 (e) any person who is, or is the issue of, a brother, sister, uncle or aunt of the deceased.
 
+[11/87]
+
 (9) In deducing any relationship for the purposes of subsection (8) —
 
 (a) an adopted person shall be treated as the child of the person or persons by whom he was adopted and not as the child of any other person; and
 
 (b) subject to paragraph (a), any relationship by affinity shall be treated as a relationship by consanguinity, any relationship of the half blood as a relationship of the whole blood, and the stepchild of any person as his child and an illegitimate person shall be treated as the legitimate child of his mother and reputed father.
 
+[11/87]
+
 (10) In subsection (9)(a), “adopted” means adopted in pursuance of an adoption order made under the Adoption of Children Act [Cap. 4] or of any adoption recognised as valid by the law of Singapore.
+
+[11/87]
 
 (11) Any reference in this section to injury includes any disease and any impairment of a person’s physical or mental condition.
 
-[11
+[11/87]
 
 ### Bereavement
 
@@ -422,15 +418,23 @@ the action may be brought by and in the name of all or any of the persons for wh
 
 (e) where there is no other person by or for whom a claim can be made under this subsection, any brother or sister of the deceased.
 
+[11/87]
+
 (3) The right of a person to claim under this section for damages for bereavement shall not survive for the benefit of his estate.
+
+[11/87]
 
 (4) Subject to subsection (6), the sum to be awarded as damages under this section shall be $10,000.
 
+[11/87]
+
 (5) Where there is a claim for damages under this section for the benefit of two or more persons, the sum awarded shall be divided equally between them (subject to any deduction falling to be made in respect of costs not recovered from the defendant).
+
+[11/87]
 
 (6) The President may by order published in theGazettevary the sum specified in subsection (4).
 
-[11A
+[11/87]
 
 ### Assessment of damages
 
@@ -446,13 +450,17 @@ the action may be brought by and in the name of all or any of the persons for wh
 
 (2) Where damages are awarded under subsection (1), any costs not recovered from the defendant shall be deducted from those damages and thereafter those damages shall be divided among the dependants in such proportions as has been decided under that subsection.
 
+[11/87]
+
 (3) In an action brought under section 12 where there fall to be assessed damages payable to a widow in respect of the death of her husband, there shall not be taken into account the remarriage of the widow or her prospect of remarriage.
+
+[11/87]
 
 (4) If the dependants have incurred funeral expenses in respect of the deceased, damages may be awarded in respect of those expenses.
 
-(5) Money paid into court in satisfaction of a cause of action under this Act may be in one sum without specifying any person’s share.
+[11/87]
 
-[11B
+(5) Money paid into court in satisfaction of a cause of action under this Act may be in one sum without specifying any person’s share.
 
 ### Appointments to be valid notwithstanding one or more objects excluded, or only take an unsubstantial share
 
@@ -468,15 +476,11 @@ the action may be brought by and in the name of all or any of the persons for wh
 
 (4) Nothing in this section shall be construed, deemed or taken to give any other validity, force or effect to any appointment than such appointment would have had if a substantial share of the property affected by the power had been thereby appointed, or left unappointed.
 
-[12
-
 ### Executor deemed to be trustee for person entitled to residue on intestacy
 
 16\. When any person dies or has died, having by his will appointed any person to be his executor, such executor shall be deemed to be a trustee for the person, if any, who would be entitled to the estate in case the person died intestate in respect of any residue not expressly disposed of, unless it appears by the will that the person so appointed executor was intended to take such residue beneficially.
 
-[13
-
-### Executor of executor represents original testator. Cf. 25 Edward III St. 5. c.5 (1351–2)
+### Executor of executor represents original testator
 
 16A\.—(1) An executor of a sole or last surviving executor of a testator is the executor of that testator; but this provision shall not apply to an executor who does not prove the will of his testator and, in the case of an executor who on his death leaves surviving him some other executor of his testator who afterwards proves the will of that testator, it shall cease to apply on such probate being granted.
 
@@ -498,7 +502,9 @@ but is not broken by a temporary grant of administration if probate is subsequen
 
 (b) is, to the extent to which the estate of that testator has come to his hands, answerable as if he were an original executor.
 
-[Act 35 of 1993 wef 12/11/1993]
+[35/93]
+
+[Cf. 25 Edward III St. 5. c. 5 (1351-2)]
 
 ### Devisee of land not to claim payment of mortgage debt out of movable property
 
@@ -506,13 +512,11 @@ but is not broken by a temporary grant of administration if probate is subsequen
 
 (2) The immovable property so charged shall as between the different persons claiming through or under the deceased person be primarily liable to the payment of all mortgage debts with which the same is charged, every part thereof according to its value bearing a proportionate part of the mortgage debts charged on the whole thereof.
 
-(3) In the construction of the will of any person a general direction that the debts of the testator shall be paid out of his personal estate shall not be deemed to be a declaration of an intention contrary to or other than the rule contained in this section unless such contrary or other intention is further declared by words expressly or by necessary implication referring to all or some of the testator’s debts or debt charged by way of mortgage on any part of his immovable estate.
+(3) In the construction of the will of any person, a general direction that the debts of the testator shall be paid out of his personal estate shall not be deemed to be a declaration of an intention contrary to or other than the rule contained in this section unless such contrary or other intention is further declared by words expressly or by necessary implication referring to all or some of the testator’s debts or debt charged by way of mortgage on any part of his immovable estate.
 
 (4) In this section, “mortgage” shall be deemed to extend to any lien for unpaid purchase-money upon any immovable property purchased by a testator.
 
 (5) Nothing in this section shall affect or diminish any right of the mortgagee of such immovable property to obtain full payment or satisfaction of his mortgage debt, either out of the estate of the person so dying as aforesaid or otherwise.
-
-[14
 
 ### Bona vacantia
 
@@ -521,8 +525,6 @@ but is not broken by a temporary grant of administration if probate is subsequen
 Provided that it shall be lawful for the President, by warrant, to order the transfer of the whole or any part of such personal estate, or the proceeds thereof, to any person or persons who shall establish to the satisfaction of the President any equitable or moral claim thereto.
 
 (2) Nothing in this section shall affect the disposal of any property according to Muslim law.
-
-[15
 
 ### No person chargeable with rent bona fide paid to holder under defective title
 
@@ -544,29 +546,21 @@ Provided that it shall be lawful for the President, by warrant, to order the tra
 
 (5) When any writ of summons issued by a landlord against a tenant for the recovery of immovable property is served on or comes to the knowledge of any sub-tenant of the plaintiff’s immediate tenant, the sub-tenant being an occupier of the whole or any part of the premises sought to be recovered, he shall forthwith give notice thereof to his immediate landlord, under penalty of forfeiting 3 years’ rack rent of the premises held by the sub-tenant to the person of whom he holds, to be recovered by such person by action in any court having jurisdiction.
 
-[16
-
 ### Rules to apply to subordinate courts
 
 20\. The rules of law hereinbefore enacted and declared shall mutatis mutandis be, and shall, so far as they were already in force in Singapore, be deemed to have been, in force in the subordinate courts so far as the matters to which such rules relate are respectively cognizable by such courts.
-
-[17
 
 ### Presumption of survivorship in regard to claim to property
 
 21\. In all cases where two or more persons die in circumstances rendering it uncertain which of them survived the other or others, such deaths shall (subject to any order of the court) for all purposes affecting the title to property be presumed to have occurred in order of seniority and accordingly the younger shall be deemed to have survived the elder.
 
-[18
-
 ### Transitional provisions
 
-22\. \*Nothing in sections 7(2)(a), 8, 12, 13 and 14 shall apply to any cause of action which accrued before 1st May 1987.
-
-[S 128/87]
+22\. Nothing in sections 7(2)(a), 8, 12, 13 and 14 shall apply to any cause of action which accrued before 1st May 1987.
 
 [11/87]
 
-\*Former section 6 of the Civil Law (Amendment) Act 1987.
+[S 128/87]
 
 ## LEGISLATIVE HISTORY
 
@@ -574,7 +568,7 @@ Civil Law Act
 
 (CHAPTER 43)
 
-This Legislative History is provided for the convenience of users of the Civil Law Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Civil Law Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -687,3 +681,5 @@ This Legislative History is provided for the convenience of users of the Civil L
 |||(Bill No. 26/93 published on 31 August 1993)|
 ||Date of Second and Third Readings|12 October 1993|
 ||Date of commencement|12 November 1993|
+|29.|**1994 Revised Edition—Civil Law Act**|
+||Date of operation|15 March 1994|
