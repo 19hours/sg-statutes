@@ -82,13 +82,13 @@ An Act relating to distress for rent.
 
 “tenant” means any person from whom a landlord claims rent to be due under any such lease or agreement;
 
-“judge” means a Judge of the Supreme Court in all cases where proceedings are taken in the High Court, and means a District Judge in all cases where proceedings are taken in a District Court;
+“judge” means a Judge of the High Court in all cases where proceedings are taken in the High Court, and means a District Judge in all cases where proceedings are taken in a District Court;
 
-“registrar” means a Registrar or Deputy Registrar of the Supreme Court in all cases where proceedings are taken in the High Court and means a Registrar or Deputy Registrar of a District Court in all cases where proceedings are taken in a District Court;
+“registrar” means a Registrar or Deputy Registrar of the High Court in all cases where proceedings are taken in the High Court and means a Registrar or Deputy Registrar of a District Court in all cases where proceedings are taken in a District Court;
 
 “sheriff” includes a bailiff of a District Court in all cases where proceedings are taken in a District Court;
 
-“prescribed form” means the form prescribed by the Rules of the Supreme Court†made under section 80 of the Supreme Court of Judicature Act [Cap. 322] in all cases where proceedings are taken in the High Court and means the form prescribed by the Subordinate Courts Rules\*made under section 69 of the Subordinate Courts Act [Cap. 321] in all cases where proceedings are taken in a District Court.
+“prescribed form” means the form prescribed by the Rules of the High Court†made under section 80 of the High Court of Judicature Act [Cap. 322] in all cases where proceedings are taken in the High Court and means the form prescribed by the Subordinate Courts Rules\*made under section 69 of the Subordinate Courts Act [Cap. 321] in all cases where proceedings are taken in a District Court.
 
 †SeeG.N. No. S 274/70.
 
@@ -306,3 +306,9 @@ This Legislative History is provided for the convenience of users of the Distres
 ||Date of operation|1 March 1973|
 |9.|**1985 Revised Edition—Distress Act (Chapter 84)**|
 ||Date of operation|30 March 1987|
+|10.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 12/93 published on 27 February 1993)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|1 July 1993|
