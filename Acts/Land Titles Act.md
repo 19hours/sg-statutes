@@ -26,7 +26,7 @@
 
 [**Part III INITIAL REGISTRATION OF TITLES**](#Part-III)
 
-[**Division 1  Indefeasible Titles Bringing land under the Act on alienation**](#Division-1--Indefeasible-Titles-Bringing-land-under-the-Act-on-alienation)
+[**Division 1  Bringing land under the Act on alienation**](#Division-1--Bringing-land-under-the-Act-on-alienation)
 
 - [8 Alienation by State](#Alienation-by-State)
 
@@ -55,6 +55,16 @@
 - [19 Bringing lands under this Act](#Bringing-lands-under-this-Act)
 
 - [20 Primary applications](#Primary-applications)
+
+- [21 Unregistered land may be brought under this Act at instance of Registrar or on registration of conveyance](#Unregistered-land-may-be-brought-under-this-Act-at-instance-of-Registrar-or-on-registration-of-conveyance)
+
+- [22 Land may be brought under this Act upon subdivision](#Land-may-be-brought-under-this-Act-upon-subdivision)
+
+- [23 In whose name title to issue](#In-whose-name-title-to-issue)
+
+- [24 Mortgages and leases](#Mortgages-and-leases)
+
+- [24A Leases of flats erected on unregistered land](#Leases-of-flats-erected-on-unregistered-land)
 
 [**Division 3  Qualified titles and caveats**](#Division-3--Qualified-titles-and-caveats)
 
@@ -121,6 +131,8 @@
 [**Part VI INSTRUMENTS**](#Part-VI)
 
 - [51 Approved forms](#Approved-forms)
+
+- [51A Lodgment of instrument in electronic form](#Lodgment-of-instrument-in-electronic-form)
 
 - [52 Registration of mortgage, charge or lease](#Registration-of-mortgage-charge-or-lease)
 
@@ -640,7 +652,7 @@ sections
 
 4\.—(1) In the interpretation of this Act and any rules made thereunder, unless the context otherwise requires —
 
-“approved form” means any form approved by the Registrar for the purposes of any of the provisions of this Act;
+“approved form” means any form approved by the Registrar for the purposes of any of the provisions of this Act and includes an electronic form produced by making an electronic copy, image or reproduction of a written instrument;
 
 “assurance”, in relation to unregistered land, has the same meaning as in the Registration of Deeds Act;
 
@@ -667,6 +679,10 @@ sections
 “computer folio” means a folio that is not a manual folio;
 
 “dealing” means any instrument other than a certificate of title or caveat which is registrable or capable of being made registrable under the provisions of this Act or in respect of which any entry or notification in the land-register is by this Act required or permitted to be made;
+
+“electronic instrument” means an instrument in an electronic form;
+
+[10/2003 wef 09/06/2003]
 
 “executor” means the executor to whom probate has been granted, and includes an executor by right of representation;
 
@@ -764,14 +780,6 @@ INITIAL REGISTRATION OF TITLES
 
 Division 1 —
 
-Indefeasible Titles
-
-
-
-
-
-
-
 Bringing land under the Act on alienation
 
 ### Alienation by State
@@ -785,6 +793,8 @@ Bringing land under the Act on alienation
 (c) a leasehold estate,
 
 in any land, the Collector shall furnish to the Registrar such particulars of the alienation in such manner as may be required by the Registrar to enable the Registrar to bring the land under the provisions of this Act by creating one or more folios for that land.
+
+(2) [Deleted by Act 25/2001 wef 20/08/2001]
 
 (3) Any land brought under the provisions of this Act pursuant to subsection (1) shall be held subject to such exceptions, reservations, covenants and conditions expressed or implied by law in the relevant State title.
 
@@ -954,6 +964,126 @@ Applications and schemes to bring land under this Act
 
 [25/2001 wef 20/08/2001]
 
+### Unregistered land may be brought under this Act at instance of Registrar or on registration of conveyance
+
+21\.—(1) The Registrar may, if he thinks fit, bring under the provisions of this Act any unregistered land comprised in any conveyance registered under the Registration of Deeds Act (Cap. 269).
+
+(2) If the Registrar intends to bring any unregistered land under the provisions of this Act in accordance with subsection (1), the Registrar shall —
+
+(a) give notice of his intention to do so to the owner of the land (as shown from the records in the Registry of Deeds); and
+
+(b) require the owner to produce for cancellation, within the time specified in the notice, his documents of title or any other evidence substantiating his ownership of the land.
+
+(3) Where the owner of the land fails, neglects or refuses to comply with the notice under subsection (2), the Registrar shall insert a notice in one or more local daily newspapers circulating in Singapore stating the Registrar’s intention to bring the unregistered land under the provisions of this Act, including particulars of the owner of the land as shown from the records in the Registry of Deeds or such other particulars as the Registrar may in his discretion deem appropriate.
+
+(4) After the Registrar has given notice under subsection (2) or (3), as the case may be, he shall bring the land specified in the notice under the provisions of this Act by creating one or more folios for that land.
+
+(5) Where a person entitled to the unregistered land does not or is unable to produce the documents of title or any other evidence substantiating his claim, the Registrar may, in his discretion, issue a certificate of title to that person if a statutory declaration (in a form acceptable to the Registrar) has been executed by that person or his successor-in-title or his mortgagee and produced to the Registrar for his inspection and, if the Registrar so requires, retention.
+
+(6) On registering a conveyance in accordance with section 7(2) of the Registration of Deeds Act (Cap. 269), the Registrar of Deeds shall forward the conveyance to the Registrar who may, if he thinks fit, bring the land comprised in the conveyance under the provisions of this Act.
+
+(7) The Registrar shall cancel the last deed pertaining to any land brought under the provisions of this Act in accordance with this section.
+
+[25/2001 wef 20/08/2001]
+
+### Land may be brought under this Act upon subdivision
+
+22\.—(1) Where permission has been granted to develop or subdivide any unregistered land, the owner shall not be entitled to deal with the land or any part thereof.
+
+(2) The Registrar of Deeds may refuse to register any assurance of the land or part thereof under the Registration of Deeds Act (Cap. 269) unless —
+
+(a) the entire parcel of land is brought under the provisions of this Act in accordance with Division 1 or 2; or
+
+(b) the Registrar issues to the owner a certificate exempting the land from this section.
+
+(3) Subject to subsection (4), subsection (2) shall not apply to unregistered land where permission for the subdivision of any building erected thereon was previously granted and an assurance of part of that subdivided building was registered under the Registration of Deeds Act before 15th May 1968.
+
+(4) Where the whole of the estate in an unregistered land referred to in subsection (3) comprising the subdivided building has wholly become vested or subsequently vests in the same proprietor at any time on or after 15th May 1968, subsection (2) shall apply to that unregistered land.
+
+[25/2001 wef 20/08/2001]
+
+### In whose name title to issue
+
+23\.—(1) A folio created under this Division shall be in the name of —
+
+(a) the person who in accordance with the documents lodged is entitled to be registered as the proprietor of the fee simple, estate in perpetuity or leasehold estate of the land; or
+
+(b) the person who in accordance with the documents lodged is entitled to be registered as the proprietor of the equity of redemption if conversion is based on the delivery of a document which is a conveyance of the land by way of mortgage.
+
+(2) If before a folio is created, the person who is entitled to be recorded as the registered proprietor on the folio dies, the folio may be created recording the deceased person as the registered proprietor as if the folio was created before the person died.
+
+[25/2001 wef 20/08/2001]
+
+### Mortgages and leases
+
+24\.—(1) Where land has been brought under the provisions of this Act by the creation of a folio (whether qualified or unqualified as to title), any subsisting mortgage registered under the Registration of Deeds Act (Cap. 269) in respect of land comprised in the folio shall, when notified on the folio, be deemed to be a mortgage registered under the provisions of this Act and the provisions of this Act applicable to registered mortgages shall apply to that mortgage.
+
+(2) Any second or subsequent conveyance by mortgage of the land in any such folio shall be deemed to be a second or subsequent mortgage registered under the provisions of this Act.
+
+(3) Where a folio has been created under this Division for any land —
+
+(a) subject to paragraph (b), the Registration of Deeds Act shall cease to apply to the land;
+
+(b) the Registration of Deeds Act shall continue to apply to any document relating to any trust, probate and letters of administration and any settlement created under any instrument for that land which was subsisting immediately before the date on which the folio was created, not being a document purporting to convey, mortgage or discharge any estate or interest in the land comprised in the folio.
+
+(4) Every folio created for any leasehold estate in land shall be subject to the rights and powers of the lessor or other proprietor of the reversion immediately expectant on the term.
+
+(5) Where the Registrar is unable to determine when the term of any leasehold estate in any unregistered land commences, he shall, for the purposes of bringing the land under the provisions of this Act, be entitled to assume that the term of the lease commences on the date of the lease.
+
+[25/2001 wef 20/08/2001]
+
+### Leases of flats erected on unregistered land
+
+24A\.—(1) Where there is a subsisting lease for a flat in a building erected on unregistered land and the lease for such a flat has been registered under the Registration of Deeds Act, the Registrar may issue a subsidiary certificate of title to the owner (as it appears from the records kept by the Registry of Deeds) of the flat without requiring the owner to produce the lease or any other documents of title in his possession for cancellation.
+
+(2) If the Registrar intends to issue a subsidiary certificate of title in accordance with subsection (1), the Registrar shall —
+
+(a) insert a notice in one or more local daily newspapers circulating in Singapore stating the Registrar’s intention to issue the subsidiary certificate of title to the owner of the flat after the expiry of 21 days from the date of publication of the notice; and
+
+(b) send by registered post, a notice to the owner informing him of the Registrar’s decision to issue a subsidiary certificate of title for the flat.
+
+(3) A subsidiary certificate of title issued under this section shall, where applicable, be endorsed with a notice —
+
+(a) stating that the area and plan reference of the flat are not stated as no survey has been carried out and approved by the Chief Surveyor; and
+
+(b) stating the owner’s share in the land on which the flat stands or the owner’s share in the land appurtenant to the flat which forms part of the development.
+
+(4) Where the Registrar determines from the records in the Registry of Deeds that it was intended that the owner of the flat should —
+
+(a) own a share in the land on which the flat stands; or
+
+(b) own a share in the land appurtenant to the flat which forms part of the development,
+
+the Registrar may, notwithstanding any earlier failure or omission to transfer the relevant share in land to the owner of the flat, endorse on the subsidiary certificate of title —
+
+(i) the share in land owned by the owner; or
+
+(ii) a share in land appurtenant to the flat,
+
+as the case may be.
+
+(5) A share in the land appurtenant to a flat comprised in a subsidiary certificate of title shall not be disposed of except as appurtenant to the flat and any transfer of that flat operates to transfer the share in the land.
+
+(6) Where the owner of the land has granted leases for some but not all of the flats in the building, he shall be deemed to be a proprietor of the flats which are still owned by him.
+
+(7) Where the owners of the flats are also the owners of the land on which the flats stand or which form part of the development, the Registrar shall not, except upon request, produce the certificate of title.
+
+(8) For the purposes of this section —
+
+(a) it shall be deemed that the planning approval for subdivision of the building had been granted by the relevant authority;
+
+(b) in the event of a conflict between this section and the provisions of the Land Titles (Strata) Act (Cap. 158), this section shall prevail; and
+
+(c) “flats” shall have the meaning ascribed to it in section 3 of the Land Titles (Strata) Act.
+
+(9) This section shall also apply with the necessary modifications where —
+
+(a) subsisting leases for flats are registered under the Registration of Deeds Act (Cap. 269) and the flats are in a building erected on registered land; and
+
+(b) the land is vested in the owners of the flats as tenants in common in their respective shares reflected in the land-register.
+
+[25/2001 wef 20/08/2001]
+
 Division 3 —
 
 Qualified titles and caveats
@@ -984,9 +1114,11 @@ whichever is the later.
 
 (6) Any person deprived of land by the operation of this section shall not by reason of that deprivation have any claim against the assurance fund.
 
+(7) [Deleted by Act 25/2001 wef 20/08/2001]
+
 ### Cancellation of cautions
 
-26\.—(1) Where the Registrar has entered a caution on a qualified folio pursuant to section 25, the proprietor of the land comprised in that folio may apply to the Registrar in the approved form for the cancellation of the caution if he is able to deduce a title for a continuous period of not less than 12 years at the date of his application and is able to satisfy the Registrar that there are no outstanding interests which are not notified on that folio.
+26\.—(1) Where the Registrar has entered a caution on a qualified folio pursuant to section 25, the proprietor of the land comprised in that folio may apply to the Registrar in the approved form together with any deed, conveyance or instrument affecting the land for the cancellation of the caution if he is able to deduce a title for a continuous period of not less than 12 years at the date of his application and is able to satisfy the Registrar that there are no outstanding interests which are not notified on that folio.
 
 (2) Upon proof to the satisfaction of the Registrar that subsection (1) has been complied with, the Registrar shall enter on the qualified folio a notification cancelling the caution.
 
@@ -1390,9 +1522,27 @@ INSTRUMENTS
 
 (2) The Registrar may register any instrument containing departures from an approved form and the instrument shall be deemed to be in a form approved by the Registrar.
 
+### Lodgment of instrument in electronic form
+
+51A\.—(1) Subject to this section, an instrument may be lodged in such electronic form as may be approved by the Registrar.
+
+(2) No person shall lodge an instrument in electronic form unless he is authorised by the Registrar to do so.
+
+(3) Every instrument lodged in electronic form under this section shall be completed in such manner as may be required by the Registrar.
+
+(4) Where an instrument is lodged in electronic form under this section —
+
+(a) it shall be the duty of the person who certifies the correctness of the instrument under section 59 to ensure that all particulars entered therein are complete and accurate; and
+
+(b) the Registrar shall not be concerned to enquire into the completeness or accuracy of the particulars as entered in the instrument and shall, on acceptance of the instrument so lodged, register the instrument in accordance with those particulars.
+
+[10/2003 wef 09/06/2003]
+
 ### Registration of mortgage, charge or lease
 
-52\.—(1) Every mortgage, charge or lease presented for registration need not be lodged in duplicate except for a lease issued by the Housing and Development Board under Part IV of the Housing and Development Act [Cap. 129].
+52\.—(1) Every mortgage, charge or lease presented for registration need not be lodged in duplicate except for a lease to be comprised in a manual folio.
+
+[10/2003 wef 09/06/2003]
 
 (2) Upon registration of any mortgage, charge or lease, the Registrar shall enter a statement on the mortgage, charge or lease to the effect that it has been registered and, where such instrument is accompanied by a certificate of title, or lease the Registrar shall —
 
@@ -1480,7 +1630,7 @@ INSTRUMENTS
 
 ### Attestation and proof of execution
 
-57\.—(1) The Registrar shall accept as proof of due execution of an instrument intended for registration under this Act if the instrument is presented in the following manner:
+57\.—(1) Subject to subsection (3), the Registrar shall accept as proof of due execution of an instrument intended for registration under this Act if the instrument is presented in the following manner:
 
 (a) where a person, other than a party to the instrument, attests the instrument; or
 
@@ -1492,17 +1642,37 @@ INSTRUMENTS
 
 (2) The Registrar may, in any case in which he has reason to suspect impropriety or where the instrument is executed by a marksman or by a person who appears to be illiterate, require any of the parties to the instrument or his respective witness to appear before him or before any person nominated by him for the purpose of proving the due execution of the instrument.
 
+(3) The Registrar may dispense with proof of due execution of an instrument intended for registration under this Act for any of the following purposes:
+
+(a) for the entry, extension or withdrawal of a caveat;
+
+(b) for the registration of —
+
+(i) a writ of execution or an order of court; or
+
+(ii) the withdrawal of a writ of execution or an order of court;
+
+(c) for the cancellation of a writ of execution; or
+
+(d) for such other purpose as may be prescribed.
+
+[10/2003 wef 09/06/2003]
+
 ### Execution of instruments by corporations
 
-58\.—(1) In favour of purchasers, an instrument dealing with registered land shall be deemed to have been duly executed by a corporation aggregate if the seal of the corporation is affixed thereto in the presence of and attested by its secretary or other permanent officer, and by a member of the board of directors, council or other governing body of the corporation.
+58\.—(1) Subject to subsection (4), in favour of purchasers, an instrument dealing with registered land shall be deemed to have been duly executed by a corporation aggregate if the seal of the corporation is affixed thereto in the presence of and attested by its secretary or other permanent officer, and by a member of the board of directors, council or other governing body of the corporation.
 
 (2) Where a seal purporting to be the seal of a corporation appears to have been affixed to an instrument in accordance with subsection (1), the instrument shall be deemed to have been executed in accordance with the requirements of this section.
 
 (3) Any mode of execution or attestation authorised by law or by practice or by the written law, charter, memorandum or articles, deed of settlement or other instrument constituting the corporation or regulating the affairs thereof shall, in addition to the modes authorised by this section, be effectual as if this section had not been enacted.
 
+(4) Where an instrument dealing with land (whether registered or unregistered) is an electronic instrument, it shall be deemed to have been duly executed by a corporation aggregate if it is executed in such manner and form as may be approved by the Registrar.
+
+[10/2003 wef 09/06/2003]
+
 ### Certificate of correctness
 
-59\.—(1) The Registrar may reject any application to bring land under the provisions of this Act, or any other instrument purporting to deal with or to affect registered land, unless there is endorsed thereon a certificate by the parties to the instrument that it is correct for the purposes of this Act.
+59\.—(1) The Registrar may reject any application to bring land under the provisions of this Act, or any other instrument purporting to deal with or to affect land (whether registered or unregistered), unless there is endorsed thereon a certificate by the parties to the instrument that it is correct for the purposes of this Act.
 
 (2) The certificate by any party to the instrument shall imply representations that, to the best of the signatory’s knowledge and belief and in so far as he has any reasonable means of ascertaining —
 
@@ -1532,7 +1702,9 @@ INSTRUMENTS
 
 (a) the name and capacity of the signatory; and
 
-(b) where it is signed by a solicitor employed by the party to the instrument, the date of issue of the solicitor’s practising certificate.
+(b) where it is signed by a solicitor employed by the party to the instrument, the solicitor holds a practising certificate which is in force as at the date of the instrument.
+
+[10/2003 wef 09/06/2003]
 
 [25/2001 wef 20/08/2001]
 
@@ -1553,6 +1725,8 @@ INSTRUMENTS
 60\.—(1) Every instrument by which a person becomes a proprietor of registered land and every caveat relating to dealings with land (whether registered or unregistered) shall contain an address within Singapore to which may be sent any notice concerning the land authorised or required by this Act.
 
 (2) The proprietor or caveator may from time to time notify the Registrar in writing of any change of his address in such prescribed manner, and the Registrar shall make an appropriate record of the change.
+
+(3) [Deleted by Act 25/2001 wef 20/08/2001]
 
 (4) Section 72 of the Conveyancing and Law of Property Act [Cap. 61] shall not apply to the service on a proprietor or on a caveator of any notice authorised or required by this Act.
 
@@ -2390,7 +2564,7 @@ and notify the caveatee that the caveat has been lodged and accepted by the Regi
 
 127\.—(1) At any time after the lodgment of a caveat, the caveatee may summon the caveator to attend before the court to show cause why the caveat should not be withdrawn or otherwise removed, and the court may make such order, either ex parte or otherwise, as seems just.
 
-(2) A caveatee who contends that a caveat has been lodged, or is being allowed to remain, vexatiously or frivolously or not in good faith may lodge with the Registrar a statutory declaration to that effect, whereupon the Registrar shall give notice to the caveator that he intends to cancel the notification of the caveat, and he shall cancel it unless within 30 days from the date of the notice —
+(2) A caveatee who contends that a caveat has been lodged, or is being allowed to remain, vexatiously or frivolously or not in good faith may lodge with the Registrar a statutory declaration to that effect, whereupon the Registrar shall give notice to the caveator that he intends to cancel the notification of the caveat, and he shall cancel it unless within 30 days from the date of the service of the notice —
 
 (a) an order by the court to the contrary is served on the Registrar; or
 
@@ -2496,7 +2670,7 @@ WRITS AND ORDERS OF COURT
 
 132\.—(1) A writ of execution, or an order of court directing, appointing or empowering some person other than the proprietor to sell or otherwise to deal with or dispose of registered land, shall not bind or affect such land until particulars of the writ or order have been entered in the land-register. Such entry shall constitute a memorial of registration within the meaning of section 37.
 
-(2) The person seeking registration shall lodge with the Registrar the writ or order, or an office copy thereof, together with an application indicating the titles in respect of which registration is required.
+(2) The person seeking registration shall lodge with the Registrar a copy of the writ or order together with an application indicating the titles in respect of which registration is required.
 
 (3) The registration of a writ or order shall enable the Sheriff or other person named therein to execute instruments registrable in accordance with this Act.
 
@@ -2682,7 +2856,7 @@ under the provisions of any written law or regulations made thereunder, and whic
 
 (3) The Registrar shall not be concerned to inquire into the regularity or validity of the acquisition, but upon registration thereof the estate or interest acquired shall vest in the public authority according to the tenor of the instrument of acquisition.
 
-(4) On registration of an instrument of acquisition, the Registrar shall cancel the registration of all encumbrances including any mortgage, charge or lease thereby overreached and shall, if so requested, cancel the folio (and the certificate of title thereof if produced for that purpose) and shall create a new folio for the estate or interest thereby acquired.
+(4) On registration of an instrument of acquisition, the Registrar shall cancel the registration of all encumbrances including any mortgage, charge or lease thereby overreached and shall, if so requested, cancel the folio (and the certificate of title thereof if produced for that purpose) and shall create a new folio for the estate or interest not affected by the acquisition.
 
 (5) Whenever a public authority that has become the proprietor of registered land so requests, the Registrar shall endorse on the relevant folio a notification to the effect that the land has become vested in the Government as State land, and has ceased to be subject to the provisions of this Act.
 
@@ -2694,7 +2868,9 @@ under the provisions of any written law or regulations made thereunder, and whic
 
 (b) section 39 of the Property Tax Act [Cap. 254],
 
-the Collector, the Comptroller of Property Tax or the Director-General of Public Works, as the case may be, may execute a transfer in the approved form, and neither the purchaser of the land nor the Registrar shall be concerned to inquire whether the provisions of the relevant Act relating to the sale or transfer have been complied with, nor otherwise to inquire into the regularity or validity of the sale or transfer.
+(c) [Deleted by Act 25/2001 wef 20/08/2001]
+
+the Collector or the Comptroller of Property Tax, as the case may be, may execute a transfer in the approved form, and neither the purchaser of the land nor the Registrar shall be concerned to inquire whether the provisions of the relevant Act relating to the sale or transfer have been complied with, nor otherwise to inquire into the regularity or validity of the sale or transfer.
 
 (2) Upon registration of that transfer, the land shall vest in the transferee for the estate therein set forth, freed and discharged from all trusts, obligations, estates, interests, charges and rates that have not been entered in the memorandum of prior encumbrances in the transfer, but subject to any exceptions and reservations in the State grant.
 
@@ -2932,7 +3108,11 @@ SEARCHES AND CERTIFIED COPIES
 
 (2) Subject to subsection (3), a search made shall not extend to original instruments except those evidencing the current proprietorship and subsisting encumbrances.
 
-(3) Where instruments and related documents have been microfilmed by the Registrar, any person making a search shall not be permitted to inspect at the Registry the original instruments forming part of the land-register or filed with the Registrar but shall apply for a microprint or a print-out of such instruments.
+(3) Where instruments and related documents have been microfilmed or imaged by the Registrar, any person making a search shall not be permitted to inspect at the Registry the original instruments forming part of the land-register or filed with the Registrar but shall apply for a microprint or a print-out of such instruments.
+
+(4) A search shall extend only to such electronic instruments as the Registrar may determine.
+
+[10/2003 wef 09/06/2003]
 
 ### Official searches
 
@@ -2958,11 +3138,15 @@ SEARCHES AND CERTIFIED COPIES
 
 ### Certified copies: Value as evidence
 
-164\.—(1) The Registrar, upon payment of the prescribed fee, shall furnish to any person applying for it a certified copy of any instrument registered under the provisions of this Act, or which is in his custody and is the subject of a notification on the land-register.
+164\.—(1) Subject to subsection (4), the Registrar, upon payment of the prescribed fee, shall furnish to any person applying for it a certified copy of any instrument registered under the provisions of this Act, or which is in his custody and is the subject of a notification on the land-register.
 
 (2) Every such certified copy signed by the Registrar and sealed with his seal shall be received in evidence in any court, or before any person having by law or by consent of parties authority to receive evidence, as prima facie proof of all the matters contained in or entered on the original instrument.
 
 (3) Notwithstanding section 35 of the Evidence Act [Cap. 97], a print-out of any information (other than computer folios) stored in a computer in the Land Titles Registry issued by the Registrar and bearing a facsimile of the Registrar’s seal shall be received in evidence in any court, or before any person having authority by law or by consent of parties to receive evidence, as prima facie proof of all the matters contained in or entered on any instrument filed in the Land Titles Registry.
+
+(4) Subsection (1) shall apply only to such electronic instruments as the Registrar may determine.
+
+[10/2003 wef 09/06/2003]
 
 ## PART XIX
 
@@ -2985,6 +3169,8 @@ MISCELLANEOUS
 (a) an easement;
 
 (b) a mortgage or charge; or
+
+(c) [Deleted by Act 25/2001 wef 20/08/2001]
 
 (d) any other instrument or class of instruments which may from time to time be prescribed.
 
@@ -3167,3 +3353,8 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 23/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|20 August 2001|
+|7.|**Act 10 of 2003—Land Titles (Amendment) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 8/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|9 June 2003|
