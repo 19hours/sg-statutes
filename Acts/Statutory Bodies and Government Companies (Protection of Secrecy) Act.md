@@ -102,6 +102,10 @@ Economic Development Board Act (Chapter 85)
 
 Housing and Development Act (Chapter 129)
 
+7A. Info-communications Development Authority of Singapore
+
+Info-communications Development Authority of Singapore Act 1999.
+
 8. Inland Revenue Authority of Singapore
 
 Inland Revenue Authority of Singapore Act (Chapter 138A)
@@ -122,9 +126,7 @@ Maritime and Port Authority of Singapore Act (Chapter 170A)
 
 Monetary Authority of Singapore Act (Chapter 186)
 
-13. National Computer Board
-
-National Computer Board Act (Chapter 195)
+13.Deleted by Act 41/99, wef 01/12/1999.
 
 14. Public Transport Council
 
@@ -146,9 +148,7 @@ Singapore Productivity and Standards Board Act (Chapter 303A)
 
 Singapore Tourism Board Act (Chapter 305B)
 
-19. Telecommunication Authority of Singapore
-
-Telecommunication Authority of Singapore Act (Chapter 323)
+19.Deleted by Act 41/99, wef 01/12/1999.
 
 20. Trade Development Board
 
@@ -157,6 +157,8 @@ Trade Development Board Act (Chapter 330)
 21. Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340)
+
+[41/99 wef 01/12/1999]
 
 Part II
 
@@ -279,3 +281,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|27 February 1998|
 |23.|**1998 Revised Edition—Statutory Bodies and Government Companies (Protection of Secrecy) Act**|
 ||Date of operation|15 December 1998|
+|24.|**Act 41 of 1999—Info-communications Development Authority of Singapore Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|11 October 1999|
+|||(Bill No. 36/1999 published on 12 October 1999)|
+||Date of Second and Third Readings|23 November 1999|
+||Date of commencement|1 December 1999|
