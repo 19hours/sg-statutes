@@ -4376,3 +4376,8 @@ This Legislative History is provided for the convenience of users of the Constit
 |||(Bill No. 9/98 published on 20 February 1998)|
 ||Date of Second and Third Readings|20 March 1998|
 ||Date of commencement|1 April 1998 (sections 3, 4, 5, 6, 8 and 9)|
+|36.|**Act 11 of 1998—Constitution of the Republic of Singapore (Amendment) Act 1998**|
+||Date of First Reading|19 February 1998|
+|||(Bill No. 9/98 published on 20 February 1998)|
+||Date of Second and Third Readings|20 March 1998|
+||Date of commencement|5 June 1998 (section 2)|
