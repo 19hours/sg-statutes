@@ -60,7 +60,7 @@
 
 [**FIRST SCHEDULE Constitution and Proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Board)
 
-[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
+[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
 
 [**Legislative History**](#Legislative-History)
 
@@ -166,7 +166,9 @@ SINGAPORE TOTALISATOR BOARD
 
 ### Investments
 
-9\. Moneys belonging to the Board may, with the approval of the Minister, be invested in such securities as trustees may by any written law be authorised to invest.
+9\. Moneys belonging to the Board may be invested in such stocks, funds, securities or investments as may be authorised by the Minister.
+
+[Act 4/91 wef 01/04/1990]
 
 ### Financial provisions
 
@@ -408,7 +410,7 @@ SECOND SCHEDULE
 
 Section 10.
 
-Financial provisions
+Financial Provisions
 
 1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
@@ -432,7 +434,9 @@ Financial provisions
 
 (d) such other matters arising from the audit as he considers should be reported.
 
-7\. The auditor may at any other time report to the Minister through the Board upon any matter arising out of the performance of his audit.
+7. The auditor may at any other time report to the Minister and to the Board upon any matter arising out of the performance of his audit.
+
+[Act 4/91 wef 01/04/1990]
 
 8\. The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating directly or indirectly to the financial transactions of the Board.
 
@@ -447,6 +451,14 @@ Financial provisions
 13\. Where the Auditor-General is not the auditor of the Board, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Board.
 
 14\. The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+
+15. The Board shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Board during the preceding financial year and containing such information relating to the proceedings and policy of the Board as the Minister may, from time to time, direct.
+
+[Act 4/91 wef 01/04/1990]
+
+16. The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
+
+[Act 4/91 wef 01/04/1990]
 
 ## LEGISLATIVE HISTORY
 
@@ -465,3 +477,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|1 January 1988|
 |2.|**1988 Revised Edition—Singapore Totalisator Board Act (Chapter 305A)**|
 ||Date of operation|30 April 1988|
+|3.|**Act 4 of 1991—Singapore Totalisator Board (Amendment) Act 1991**|
+||Date of First Reading|9 November 1990|
+|||(Bill No. 33/1990 published on 12 November 1990)|
+||Date of Second and Third Readings|20 December 1990|
+||Date of commencement|1 April 1990|
