@@ -68,17 +68,19 @@
 
 - [27 Power to make rules](#Power-to-make-rules)
 
+- [27A Fees to be paid to Authority](#Fees-to-be-paid-to-Authority)
+
 - [28 Powers in court not affected](#Powers-in-court-not-affected)
 
-[**FIRST SCHEDULE A**](#FIRST-SCHEDULE-A)
+[**FIRST SCHEDULE A Notice demanding payment of land revenue**](#FIRST-SCHEDULE-A-Notice-demanding-payment-of-land-revenue)
 
-[**SECOND SCHEDULE B**](#SECOND-SCHEDULE-B)
+[**SECOND SCHEDULE B Notice of sale of land**](#SECOND-SCHEDULE-B-Notice-of-sale-of-land)
 
-[**THIRD SCHEDULE C**](#THIRD-SCHEDULE-C)
+[**THIRD SCHEDULE C Public notice of sale of land for recovery of arrears**](#THIRD-SCHEDULE-C-Public-notice-of-sale-of-land-for-recovery-of-arrears)
 
-[**FOURTH SCHEDULE D**](#FOURTH-SCHEDULE-D)
+[**FOURTH SCHEDULE D Conveyance**](#FOURTH-SCHEDULE-D-Conveyance)
 
-[**FIFTH SCHEDULE E**](#FIFTH-SCHEDULE-E)
+[**FIFTH SCHEDULE E Result of sale**](#FIFTH-SCHEDULE-E-Result-of-sale)
 
 [**Legislative History**](#Legislative-History)
 
@@ -106,13 +108,31 @@ PRELIMINARY
 
 ### Interpretation
 
-2\. In this Act —
+2\.—(1) In this Act —
 
-“Collector” means a Collector of Land Revenue;
+“Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
+
+[17/2001 wef 01/06/2001]
+
+“Collector” means —
+
+(a) any officer of the Authority; or
+
+(b) any public officer or officer of any other public authority constituted under any written law for a public purpose,
+
+appointed by the Minister to be a Collector of Land Revenue, and includes any Deputy Collector of Land Revenue appointed before the date of commencement of the Singapore Land Authority Act 2001;
+
+[17/2001 wef 01/06/2001]
 
 “land revenue” means every sum now due or which hereafter becomes due to the State on account of premium, rent, royalty, charges and fees of any kind chargeable in respect of land;
 
 “proprietor” includes a lessee of State land.
+
+[17/2001 wef 01/06/2001]
+
+(2) Any person who, immediately before the date of commencement of the Singapore Land Authority Act 2001, holds office as a Collector of Land Revenue or Deputy Collector of Land Revenue shall continue to hold such office as if he had been appointed under this Act until his appointment is revoked.
+
+[17/2001 wef 01/06/2001]
 
 ## PART II
 
@@ -164,7 +184,9 @@ SALE BY AUCTION
 
 ### Sales, where to be made
 
-9\. Sales shall ordinarily be held by the Collector in the Land Office: Provided that it shall be competent for the Collector to direct that a sale shall be held at some other place.
+9\. Sales shall ordinarily be held by the Collector at the office of the Authority: Provided that it shall be competent for the Collector to direct that a sale shall be held at some other place.
+
+[17/2001 wef 01/06/2001]
 
 ### Deposit on account of purchase
 
@@ -308,9 +330,9 @@ GENERAL
 
 ### Power to make rules
 
-27\.—(1) The Minister may make rules for fully and effectually carrying out and giving effect to the various purposes, provisions and powers in this Act, and in particular but without prejudice to the generality of the foregoing provision may make rules —
+27\.—(1) The Authority may make rules for fully and effectually carrying out and giving effect to the various purposes, provisions and powers in this Act, and in particular but without prejudice to the generality of the foregoing provision may make rules —
 
-(a) fixing the costs and fees payable under this Act;
+(a) [Deleted by Act 17/2001 wef 01/06/2001]
 
 (b) allowing rebate, or deferment, or remission, whether in whole or in part, of costs and fees payable under this Act, and prescribing the officers to whom such powers may be delegated;
 
@@ -322,7 +344,17 @@ GENERAL
 
 (2) Rules made under this Act shall be published in theGazetteand shall come into force on the date of such publication or on such other date as may be specified therein and, subject to this Act, shall have effect as if enacted in this Act.
 
+[17/2001 wef 01/06/2011]
+
 (3) All such rules shall be presented to Parliament as soon as possible after such publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of 3 months from the date when the rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
+
+### Fees to be paid to Authority
+
+27A\.—(1) Subject to subsection (2), all costs and fees collected in connection with any proceedings instituted or any other matter under this Act or in connection with any service provided by the Collector under this Act shall be prescribed in rules made by the Authority with the approval of the Minister, and shall be paid into the funds of the Authority.
+
+(2) Subsection (1) shall not apply to any land revenue recovered under this Act, which shall be paid into the Consolidated Fund.
+
+[17/2001 wef 01/06/2001]
 
 ### Powers in court not affected
 
@@ -339,15 +371,15 @@ The Land Revenue Collection Act
 
 (Chapter 155)
 
-NOTICE DEMANDING PAYMENT OF LAND REVENUE
+Notice demanding payment of land revenue
 
 No.
 
-To …………………………………………………..
+To…………………………………………………..
 
 of…………………………………………………...
 
-TAKE NOTICE that you are hereby required to pay at the Office of the Collector of Land Revenue at ……………………………… within 15 days from the date of service hereof the sum due by you as shown hereunder in respect of the land held under ………………….. being Lot Number …………. in the
+TAKE NOTICE that you are hereby required to pay at the Office of the Collector of Land Revenue at ……………………………… within 15 days from the date of service hereof the sum due by you as shown hereunder in respect of the land held under ………………….., being Lot Number …………. in the
 
 $c.
 
@@ -425,9 +457,7 @@ Notice fee
 
 ……………………
 
-Total
-
-…
+Total …
 
 AND FURTHER TAKE NOTICE that, if this land revenue is not paid within that time, action will be taken to sell the land by public auction for the recovery thereof in accordance with the procedure prescribed in the Land Revenue Collection Act.
 
@@ -447,7 +477,7 @@ The Land Revenue Collection Act
 
 (Chapter 155)
 
-NOTICE OF SALE OF LAND
+Notice of sale of land
 
 To…………………………………………………………………………………
 
@@ -457,7 +487,7 @@ Notice is hereby given that the Collector will proceed to sell by public auction
 
 The time, date and place of sale may be ascertained by reference to the public notice of sale published or to be published under section 6 of the Land Revenue Collection Act.
 
-DESCRIPTION OF LAND
+Description of Land
 
 Arrears due
 
@@ -475,9 +505,7 @@ Costs due
 
 ……………………$
 
-Total
-
-… $
+Total … $
 
 Dated this ………………………. day of …………………. 19……..
 
@@ -495,7 +523,50 @@ The Land Revenue Collection Act
 
 (Chapter 155)
 
-PUBLIC NOTICE OF SALE OF LAND FOR RECOVERY OF ARREARS
+Public notice of sale of land for recovery of arrears
+
+Whereas the sums hereunder specified being arrears, fees and costs recoverable under the Land Revenue Collection Act on the lands noted below have not been paid:
+
+Notice is hereby given that those lands will be sold for the recovery of those arrears, fees and costs, and that the sale thereof will commence at the office of the Singapore Land Authority at ……………………….. at ………. A.M. on the …………. day of …………… 19
+
+District
+
+Town
+
+
+
+
+Sub-
+
+
+
+
+division
+
+Mukim
+
+Title No.
+
+Lot No.
+
+Area
+
+Name of grantee or lessee
+
+Term
+
+Annual Rent
+
+Amount due
+
+$ c.
+
+$ c.
+
+Given under my hand and seal at ………………………. this …………… day of …………………. 19……..
+
+……..………………………
+Collector of Land Revenue
 
 SCHEDULE D
 
@@ -508,7 +579,7 @@ The Land Revenue Collection Act
 
 (Chapter 155)
 
-CONVEYANCE
+Conveyance
 
 THIS INDENTURE made the ………….. day of …………. 19 …….. Between ……………………………, Collector of Land Revenue, of the one part and ……………… of the other part:
 
@@ -516,9 +587,11 @@ WHEREAS by ……………….. numbered ……………… dated the ………�
 
 unto the said …………………………, [his executors, administrators and assigns] from the …………….. day of …………………, for ……………….. at the yearly rent of dollars ……………………………………………………………………………………………………………………………. and subject to the convenants by the …………………………….. and conditions contained in …………………………………………………..:
 
-AND WHEREAS on the …………… day of ……………. 19 ……. a sum of dollars ………………………… on account of arrears, fees and costs became due and payable to the Government:
+AND WHEREAS on the …………… day of ……………. 19 ……., a sum of dollars ………………………… on account of arrears, fees and costs became due and payable to the Government:
 
-AND WHEREAS on the ………………… day of ……….. 19 ………. the said sum of dollars …………………….. not having been paid or satisfied, the Collector did under section 7 of that Act offer for sale by public auction the land described in the said …………………………….., at which auction the said ……………… became the purchaser for the sum of dollars ………………….. free from all encumbrances created over that land and from all subordinate interests derived from it except ……………………………………………………………………………………………………………………………………………………………………………………………………………..
+AND WHEREAS on the …………… day of ……………. 19 ……., a public notice of sale was published in the manner provided by section 6 of the Land Revenue Collection Act:
+
+AND WHEREAS on the ………………… day of ……….. 19 ………., the said sum of dollars …………………….. not having been paid or satisfied, the Collector did under section 7 of that Act offer for sale by public auction the land described in the said …………………………….., at which auction the said ……………… became the purchaser for the sum of dollars ………………….. free from all encumbrances created over that land and from all subordinate interests derived from it except ……………………………………………………………………………………………………………………………………………………………………………………………………………..
 
 NOW THIS INDENTURE WITNESSETH that for effectuating the said sale and in consideration of the sum of dollars ………………………….. paid by the said ……………………… to the Collector (the receipt of which is hereby acknowledged) the Collector, by virtue of all and every power conferred on him by that Act:
 
@@ -547,13 +620,13 @@ The Land Revenue Collection Act
 
 
 
-(Chapter 153)
+(Chapter 155)
 
-RESULT OF SALE
+Result of sale
 
 1\. The result of the public sale of certain lands/land held on the ………….. day of …………… 19 ……. under the provisions of the Land Revenue Collection Act is published for general information.
 
-2. It is hereby notified that the titles and rights of the persons/person claiming under the titles enumerated in the first column of the following Schedule have been conveyed to the persons/person named in the sixth column free from all encumbrances and subordinate interests, except\*......................................................................................................... (or have been cancelled and have reverted to and vest in the State as indicated in the sixth column).
+2. It is hereby notified that the titles and rights of the persons/person claiming under the titles enumerated in the first column of the following Schedule have been conveyed to the persons/person named in the sixth column free from all encumbrances and subordinate interests, except\*.…………………………………………………………………………………………………………………………………………………………………………………………………………………….. (or have been cancelled and have reverted to and vest in the State as indicated in the sixth column).
 
 \*Delete if not required.
 
@@ -601,8 +674,8 @@ $ c.
 
 $ c.
 
-……..………………………
-Collector
+……..………….……………
+Collector of Land Revenue
 
 Date …………………
 
@@ -612,7 +685,7 @@ Land Revenue Collection Act
 
 (CHAPTER 155)
 
-This Legislative History is provided for the convenience of users of the Land Revenue Collection Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Land Revenue Collection Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -628,3 +701,9 @@ This Legislative History is provided for the convenience of users of the Land Re
 ||Date of operation|31 August 1971|
 |5.|**1985 Revised Edition—Land Revenue Collection Act**|
 ||Date of operation|30 March 1987|
+|6.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 6 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
