@@ -134,11 +134,11 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“appointed day” means the date of commencement of this Act;
+“Authority” means the Land Transport Authority of Singapore established under the Land Transport Authority of Singapore Act [Cap. 158A];
 
-“Authority” means the Land Transport Authority of Singapore established under the Land Transport Authority of Singapore Act 1995;
+“competent authority” means the competent authority appointed under section 5 of the Planning Act 1998 in respect of the development of land;
 
-“competent authority” means any competent authority appointed under section 3 of the Planning Act (Cap. 232);
+[3/98 wef 01/04/1998]
 
 “construction”, with its grammatical variations and cognate expressions, in relation to a railway, includes —
 
@@ -162,7 +162,7 @@ and any associated investigative and engineering studies, but does not include t
 
 “licensee” means a company which is licensed under this Act to operate any rapid transit system;
 
-“mortgage” means a mortgage or charge registered under the Land Titles Act (Cap. 157) or the Registration of Deeds Act (Cap. 269);
+“mortgage” means a mortgage or charge registered under the Land Titles Act [Cap. 157] or the Registration of Deeds Act [Cap. 269];
 
 “railway” means a network or system of fixed horizontal rails, tracks, grooves or other guide-ways on, under or above the ground along which a train moves or runs, and includes all tunnels, viaducts, bridges, crossings, stabling yards, depots, stations and other infrastructures constructed or intended to be constructed for any railway and any extensions thereto;
 
@@ -176,18 +176,13 @@ and any associated investigative and engineering studies, but does not include t
 
 “Registrar of Titles” means the Registrar of Titles appointed under the Land Titles Act;
 
-“repealed Act” means the Mass Rapid Transit Corporation Act (Cap. 172) repealed by this Act;
+“repealed Act” means the repealed Mass Rapid Transit Corporation Act;
 
 “train” includes a carriage, tram, car or other vehicle for the carriage of passengers on a railway.
 
 ## PART II
 
-PLANNING AND CONSTRUCTION OF
-
-
-
-
-RAPID TRANSIT SYSTEMS
+PLANNING AND CONSTRUCTION OF RAPID TRANSIT SYSTEMS
 
 ### Preparation and promulgation of plans and maps
 
@@ -670,3 +665,9 @@ This Legislative History is provided for the convenience of users of the Rapid T
 ||Date of commencement|1 September 1995|
 |2.|**1996 Revised Edition—Rapid Transit Systems Act**|
 ||Date of operation|30 April 1996|
+|3.|**Act 3 of 1998—Planning Act 1998**|
+||(Consequential amendments made by)||
+||Date of First Reading|19 November 1997|
+|||(Bill No. 18/97 published on 20 November 1997)|
+||Date of Second and Third Readings|14 January 1998|
+||Date of commencement|1 April 1998|
