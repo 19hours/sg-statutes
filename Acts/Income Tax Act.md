@@ -1450,8 +1450,6 @@ is the number of remaining shares in the company held by the shareholder after t
 
 (C) differences in the offers introduced solely to ensure that each shareholder is left with a whole number of shares.
 
-[32/99 wef 18/11/1998]
-
 ### Ascertainment of income of clubs, trade associations, etc.
 
 11\.—(1) Where a body of persons, whether corporate or unincorporate, carries on a club or similar institution and receives from its members not less than half of its gross receipts on revenue account (including entrance fees and subscriptions), it shall not be deemed to carry on a business; but where less than half of such gross receipts are received from members, the whole of the income from transactions both with members and others (including entrance fees and subscriptions) shall be deemed to be receipts from a business, and the body of persons shall be chargeable in respect of the profits therefrom.
@@ -1981,8 +1979,6 @@ ought not to have been so taxed or exempted, as the case may be, the Comptroller
 ### Exemption of dividends from foreign income
 
 13E\.—(1) Where a company resident in Singapore receives income in Singapore from outside Singapore (referred to in this section as the income) for which tax credit has been allowed against the tax payable in respect of such income and pays dividends out of such income, the provisions of this section shall have effect.
-
-(2) As soon as a tax credit has been allowed, an amount of the income computed in accordance with the formula
 
 where A
 
@@ -7206,9 +7202,7 @@ Cap. 230.
 
 38.Deleted by S 485/99, wef 30/09/1997
 
-39. Post Office Savings Bank of Singapore
-
-Cap. 237.
+39.Deleted by S 267/99, wef 21/05/1999
 
 40. Preservation of Monuments Board
 
@@ -8722,3 +8716,5 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 20/2000 published on 1 July 2000)|
 ||Date of Second and Third Readings|25 August 2000|
 ||Date of commencement|28 February 1999 (Section 8)|
+|131.|**G.N. No. S 267/99—Income Tax Act (Amendment of First Schedule) Order 1999**|
+||Date of commencement|21 May 1999|
