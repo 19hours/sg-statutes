@@ -1416,7 +1416,7 @@ PROHIBITED BUSINESS
 
 (ii) to a firm in which the bank or any of its directors has an interest as a partner, manager or agent, or to any individual or firm of whom or of which any of its directors is a guarantor;
 
-(iii) to a company in which any of its directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of its directors controls the composition of the board of directors, but excluding public companies the securities of which are listed on any stock exchange in Singapore approved under the Securities Industry Act (Cap. 289) or any other stock exchange which the Authority may approve, and the subsidiaries of such public companies; or
+(iii) to a company in which any of its directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of its directors controls the composition of the board of directors, but excluding public companies the securities of which are listed on any securities exchange approved under the Securities and Futures Act 2001 or any other securities exchange or any other stock exchange which the Authority may approve, and the subsidiaries of such public companies; or
 
 (iv) to any corporation, other than a bank, that is a related corporation of the bank;
 
@@ -3072,6 +3072,13 @@ This Legislative History is provided for the convenience of users of the Banking
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|1 July 2002|
 |||(Item (1)(a) of Fourth Schedule)|
+|16.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 October 2002|
+|||(Item (1)(b) of Fourth Schedule)|
 ## COMPARATIVE TABLE
 
 Banking Act
