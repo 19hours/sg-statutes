@@ -420,7 +420,7 @@ Consultant Organisations
 
 61. Singapore Paediatric Society.
 
-62. Singapore Petanque Federation.
+62. Singapore Petanque And Sports Boules Federation.
 
 63. Singapore Philatelic Society.
 
@@ -598,3 +598,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|19 September 1998|
 |40.|**G.N. No. S 110/99—People’s Association Act (Amendment of First Schedule) Notification 1999**|
 ||Date of commencement|18 March 1999|
+|41.|**G.N. No. S 274/99—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1999**|
+||Date of commencement|14 June 1999|
