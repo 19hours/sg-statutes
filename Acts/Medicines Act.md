@@ -168,6 +168,8 @@
 
 - [72 Composition of offences](#Composition-of-offences)
 
+- [72A Fees, charges, etc., collected by licensing authority to be paid to appropriate Authority](#Fees-charges-etc-collected-by-licensing-authority-to-be-paid-to-appropriate-Authority)
+
 - [73 Advisory committees](#Advisory-committees)
 
 - [74 Regulations](#Regulations)
@@ -226,11 +228,21 @@ PRELIMINARY
 
 “analysis” includes micro-biological assay and “analyse” has a corresponding meaning;
 
-“analyst” means an analyst approved by the Minister;
+“analyst” means an analyst appointed by the licensing authority;
+
+[4/2001 wef 01/04/2001]
 
 “animal” includes any bird, fish or reptile;
 
 “assemble”, in relation to a medicinal product, means enclosing the product (with or without other medicinal products of the same description) in a container which is labelled before the product is sold or supplied, or, where the product (with or without other medicinal products of the same description) is already enclosed in the container in which it is to be sold or supplied, labelling the container before the product is sold or supplied in it, and “assembly” has a corresponding meaning;
+
+“Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001;
+
+[4/2001 wef 01/04/2001]
+
+“Chief Executive of the Authority” means the person appointed under section 15 of the Health Sciences Authority Act 2001 to be the Chief Executive of the Authority;
+
+[4/2001 wef 01/04/2001]
 
 “clinical trial” means an investigation or series of investigations consisting of the administration of one or more medicinal products of a particular description by, or under the direction of —
 
@@ -263,6 +275,10 @@ where (in any such case) there is evidence that medicinal products of that descr
 “labelling”, in relation to a container or package of medicinal products, means affixing to or otherwise displaying on it a notice describing or otherwise relating to the contents, and “label” has a corresponding meaning;
 
 “leaflet” includes any written information;
+
+“licensing authority” means the appropriate licensing authority as defined in section 4(1);
+
+[4/2001 wef 01/04/2001]
 
 “manufacture”, in relation to a medicinal product, includes any process carried out in the course of making the product, but does not include dissolving or dispersing the product in, or diluting or mixing it with, some other substance used as a vehicle for the purpose of administering it;
 
@@ -390,7 +406,7 @@ LICENCES AND CERTIFICATES RELATING TO MEDICINAL PRODUCTS
 
 4\.—(1) For the purposes of this Part, the authority responsible for the grant, renewal, variation, suspension and revocation of licences and certificates shall be —
 
-(a) except as provided in paragraph (b), the Director of Medical Services; and
+(a) except as provided in paragraph (b), the Chief Executive of the Authority; and
 
 (b) the Director-General, Agri-food and Veterinary Services appointed under section 3(1) of the Animals and Birds Act (Cap. 7) in respect of any function to be performed under this Act exclusively in relation to veterinary medicinal products and animals.
 
@@ -1302,9 +1318,11 @@ Provided that the notice shall not be required to be given where the seizure is 
 
 ### Disposal of goods forfeited
 
-61\.—(1) All goods which are forfeited to the Government under this Act shall be disposed of in such manner as the Minister thinks fit.
+61\.—(1) All goods which are forfeited under this Act shall be disposed of in such manner as the licensing authority thinks fit.
 
-(2) The Minister may, in his discretion and after any proceedings under this Act are concluded, entertain and give effect to any claim to or in respect of goods which have been forfeited to the Government.
+(2) The licensing authority may, in his discretion and after any proceedings under this Act are concluded, entertain and give effect to any claim to or in respect of goods which have been forfeited under this Act.
+
+[4/2001 wef 01/04/2001]
 
 ### Restrictions on disclosure of information
 
@@ -1413,6 +1431,16 @@ where it is proved that the medicinal product in question was found on a vehicle
 ### Composition of offences
 
 72\. The licensing authority may compound any offence under this Act or any regulations made thereunder by accepting from the person reasonably suspected of having committed such an offence a sum not exceeding $2,000.
+
+### Fees, charges, etc., collected by licensing authority to be paid to appropriate Authority
+
+72A\. All fees, charges and other moneys recovered or collected by the licensing authority under this Act or any regulations made thereunder (including sums collected for the composition of offences under section 72) shall be paid —
+
+(a) in the case where the licensing authority is the Chief Executive of the Authority, to the Authority; and
+
+(b) in the case where the licensing authority is the Director-General, Agri-food and Veterinary Services, to the Agri-food and Veterinary Authority established under the Agri-food and Veterinary Authority Act 2000 (Act 16 of 2000).
+
+[4/2001 wef 01/04/2001]
 
 ### Advisory committees
 
@@ -1575,3 +1603,9 @@ This Legislative History is provided for the convenience of users of the Medicin
 |||(Bill No. 38/1999 published on 12 October 1999)|
 ||Date of Second and Third Readings|24 November 1999|
 ||Date of commencement|1 May 2000|
+|7.|**Act 4 of 2001—Health Sciences Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 3/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
