@@ -2784,3 +2784,8 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|16 August 1988|
 |35.|**1989 Revised Edition—Parliamentary Elections Act**|
 ||Date of operation|15 March 1989|
+|36.|**Act 9 of 1991—Parliamentary Elections (Amendment) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 1/1991 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|5 February 1991|
