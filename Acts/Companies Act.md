@@ -13066,31 +13066,45 @@ $2 for each page or part thereof
 
 (a) by electronic means
 
-$3 for each company and 20 cents per block of one minute or part thereof
-
-S 429/90.
+$3 for each company.
 
 (b) other than by electronic means
 
-$5 for each company
+$5 for each company.
 
-(2) For supplying general information by electronic means:
+(2) For supplying general information on a person’s involvement in companies —
+
+(a) by electronic means
+
+$30 per person.
+
+(b) other than by electronic means
+
+$30 per person.
+
+(3) For supplying information in the form of a directory of companies —
+
+(a) by electronic means
+
+Free of charge.
+
+(b) other than by electronic means
+
+Free of charge.
+
+(4) For supplying general information by electronic means —
 
 (a) indexical information
 
-$1 per block of one minute or part thereof
+$1 per block of one minute or part thereof.
 
-(b) statistical information
+(b) Statistical information
 
-$10 per block of one minute of part thereof
+$10 per block of one minute or part thereof.
 
-S 429/90.
+(5) Transmission charge for electronic filing
 
-(3) Transmission charge for electronic filing
-
-5 cents per block of 15 seconds or part thereof; or $0.01 per 1,000 characters or part thereof, whichever is applicable
-
-S 339/91
+5 cents per block of 15 seconds or part thereof; or one cent per 1,000 characters or part thereof, whichever is applicable.
 
 39. For any information concerning a company supplied by the Registrar in reply to a written application
 
@@ -13157,6 +13171,8 @@ Subject to an aggregate minimum charge of $30.
 The number of man-hours and CPU-seconds taken shall be certified by the Registrar.
 
 If the Registrar decides to supply the information by means other than written or printed form, an additional fee of $3 per company shall be payable.
+
+[20030113]
 
 [S 61/97 wef 15/02/1997]
 
@@ -13914,9 +13930,13 @@ Note: PARAGRAPHS 1 TO 6 MUST BE INCORPORATED IN THE FRONT PAGE OF THE ABRIDGED P
 
 6.—(a) The last day and time for splitting;
 
-(b) The last day and time for acceptance and payment;
+(b)
 
-(c) The last day and time for renunciation and payment.
+The last day and time for acceptance and payment;
+
+(c)
+
+The last day and time for renunciation and payment.
 
 7\. The registered office of the corporation.
 
@@ -15156,3 +15176,5 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|4 August 1995|
 |42.|**G. N. No. S 61/1997—Companies Act (Amendment of Second Schedule) Notification 1997**|
 ||Date of commencement|15 February 1997|
+|43.|**G. N. No. S 344/1997—Companies Act (Amendment of Second Schedule) (No. 2) Notification 1997**|
+||Date of commencement|1 August 1997|
