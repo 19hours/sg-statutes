@@ -250,8 +250,6 @@ but shall not include in any case an entry made for the purpose of complying wit
 
 “prohibited immigrant” means any person who is a prohibited immigrant as defined in section 8;
 
-[34/98 wef 05/10/1998]
-
 “re-entry permit” means a permit to re-enter Singapore issued under section 11;
 
 “regulations” means regulations made under this Act;
@@ -296,8 +294,6 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 
 (2) No person shall, unless compelled by accident or other reasonable cause, enter or attempt to enter Singapore except at an authorised landing place, airport, train checkpoint or point of entry.
 
-[34/98 wef 05/10/1998]
-
 [13/77; 38/93]
 
 (3) The Minister may, by notification in theGazette, prescribe approved routes and declare such immigration control posts, places of embarkation, authorised airports, authorised points of departure, authorised train checkpoints or authorised departing places, as the case may be.
@@ -307,8 +303,6 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 []
 
 (4) No person shall, unless compelled by accident or other reasonable cause, leave or attempt to leave Singapore except at an authorised place of embarkation, airport, point of departure, train checkpoint or departing place.
-
-[34/98 wef 05/10/1998]
 
 [13/77; 38/93]
 
@@ -354,11 +348,7 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 
 (c) he had taken precautions to conceal his identity or presence from any police officer or immigration officer.
 
-[34/98 wef 05/10/1998]
-
 (5) For the purposes of this section, "port" means any place declared to be a port under section 3 of the Maritime and Port Authority of Singapore Act (Cap. 170A).
-
-[34/98 wef 05/10/1998]
 
 ### Right of entry
 
@@ -369,8 +359,6 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 ### Prohibited immigrants
 
 8\.—(1) Any person, not being a citizen of Singapore, who is a member of any of the prohibited classes as defined in subsection (3) or who, in the opinion of the Controller, is a member of any of the prohibited classes, is a prohibited immigrant.
-
-[34/98 wef 05/10/1998]
 
 (2) Subject to any exemption granted under section 56 —
 
@@ -386,11 +374,7 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 
 (ba) any person suffering from Acquired Immune Deficiency Syndrome or infected with the Human Immunodeficiency Virus;
 
-[34/98 wef 05/10/1998]
-
 (c) any person desiring to enter Singapore who refuses to submit to an examination after being required to do so under section 29(1);
-
-[34/98 wef 05/10/1998]
 
 (d) any person who —
 
@@ -525,8 +509,6 @@ ENTRY AND RE-ENTRY PERMITS
 (b) the person is a prohibited immigrant; or
 
 (c) the holder of the permit or certificate has contravened any condition stated in the permit or certificate,
-
-[34/98 wef 05/10/1998]
 
 the Controller may cancel the permit or certificate issued to that person, and may declare at any time after the date of the entry or date of the issue of the permit or certificate that the presence of that person in Singapore is unlawful.
 
@@ -906,31 +888,17 @@ shall be guilty of an offence.
 
 (2) The Government medical officer shall, upon completion of an examination of a person under subsection (1), submit a copy of the results of the examination to the Controller.
 
-[34/98 wef 05/10/1998]
-
 (3) Notwithstanding the provisions of any other written law or rule of law, a Government medical officer shall, if required by the Controller for the purposes of exercising his powers and carrying out his functions and duties under this Act or the regulations, furnish the Controller with a copy of any medical record relating to a person who has been examined pursuant to subsection (1) as the Controller may require.
-
-[34/98 wef 05/10/1998]
 
 (4) Any person to whom a permit, pass or certificate has been issued who, without reasonable excuse, refuses to submit to an examination when required by an immigration officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[34/98 wef 05/10/1998]
-
 (5) The Controller may cancel the permit, pass or certificate of any person who refuses to submit to any examination when required to do so by an immigration officer under subsection (1).
-
-[34/98 wef 05/10/1998]
 
 (6) On making any cancellation under subsection (5), the Controller shall, by notification which, if the address of the person is known, shall be sent to him at that address and otherwise shall be published in such manner as the Controller thinks fit, inform the person affected of the grounds on which the cancellation has been made.
 
-[34/98 wef 05/10/1998]
-
 (7) A person whose permit, pass or certificate is cancelled under subsection (5) may, within such time and in such manner as may be prescribed, appeal against the cancellation to the Minister whose decision shall be final.
 
-[34/98 wef 05/10/1998]
-
 (8) For the purpose of this section “Government medical officer” includes a medical practitioner registered under the Medical Registration Act (Cap. 174) who is employed in any hospital or medical institution and who is desginated by name or office by the Controller in writing for the purposes of this section.
-
-[34/98 wef 05/10/1998]
 
 ### Immigration officer may give instructions to prevent evasion of examination
 
@@ -1045,8 +1013,6 @@ MISCELLANEOUS
 (2) Every immigration officer shall have the authority to appear in court and conduct any prosecution in respect of any offence under this Act or the regulations.
 
 (3) In any case relating to the commission of an offence under this Act or the regulations, an immigration officer shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation into a seizable offence.
-
-[34/98 wef 05/10/1998]
 
 ### Power to summon witnesses, etc.
 
@@ -1232,8 +1198,6 @@ the master, owner, charterer and agent thereof shall be jointly and severally li
 
 (6) An order for the forfeiture of a vehicle or vessel shall be made if it is proved to the satisfaction of the court that an offence under this Act or the regulations has been committed and that the vehicle or vessel was used in the commission of the offence, notwithstanding that no person may have been charged with or convicted of the offence.
 
-[34/98 wef 05/10/1998]
-
 [60/73]
 
 (7) The Controller may sell any vehicle or vessel forfeited under this section.
@@ -1254,7 +1218,7 @@ the master, owner, charterer and agent thereof shall be jointly and severally li
 
 ### Power of search and arrest
 
-51\.—(1) Any immigration officer or any other officer generally or specially authorised in writing in that behalf by the Controller, and any officer of the Customs and Excise Department acting under the instructions of such immigration officer, and any police officer may without a warrant and with or without assistance —
+51\.—(1) Any immigration officer or any other officer generally or specially authorised in writing in that behalf by the Controller, and any officer of the Singapore Customs acting under the instructions of such immigration officer, and any police officer may without a warrant and with or without assistance —
 
 (a) enter and search any premises; and
 
@@ -1330,8 +1294,6 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 and of the dissemination of such record to the police.
 
-[34/98 wef 05/10/1998]
-
 (h) governing the procedure to be followed and the fees and costs to be paid on any appeal;
 
 (i) prescribing the deposit or security to be made or given by or in respect of any person granted an entry permit, re-entry permit or pass and the conditions subject to which the deposit or security may be forfeited;
@@ -1358,11 +1320,7 @@ and of the dissemination of such record to the police.
 
 (a) attempts unlawfully to enter Singapore in contravention of any provision of this Act, other than section 6(1), or the regulations;
 
-[34/98 wef 05/10/1998]
-
 (aa) abets any person to enter Singapore in contravention of the provisions of this Act or the regulations;
-
-[34/98 wef 05/10/1998]
 
 (b) abets any person to leave Singapore in contravention of the provisions of this Act or the regulations;
 
@@ -1408,8 +1366,6 @@ shall be guilty of an offence and —
 
 (i) in the case of an offence under paragraph (a), shall be punished with imprisonment for a term not exceeding 2 years and shall also be liable to a fine not exceeding $4,000;
 
-[34/98 wef 05/10/1998]
-
 (ia) in the case of an offence under paragraph (aa), shall be punished with imprisonment for a term of not less than 6 months and not more than 2 years, and —
 
 (A) where the offence is abetted within the meaning of section 107(b) or (c) of the Penal Code (Cap. 224) and the offence abetted is punishable with caning, shall also, subject to section 231 of the Criminal Procedure Code (Cap.68), be punished with canning with not less than 3 strokes; or
@@ -1435,8 +1391,6 @@ shall be guilty of an offence and —
 [41/95]
 
 (1B) Where, by virtue of section 231 of the Criminal Procedure Code (Cap.68), the defendant referred to in subsection (1A) is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $10,000.
-
-[34/98 wef 05/10/1998]
 
 (2) Where a body corporate is guilty of an offence under subsection (1)(e) and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, secretary or other similar officer of the body corporate or any person who was purporting to act in any such capacity, he, as well as the body corporate, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
@@ -1495,8 +1449,6 @@ it shall be presumed, until the contrary is proved, that he has, as the case may
 (ii) checks the pass or permit to ascertain that the particulars on the passport of the person employed by him materially correspond with the particulars set out in the pass or permit; and
 
 (iii) where the person employed by him is a holder of a visit pass, has reasonable grounds for believing that the person had, at the material time, in force a work permit issued under the Employment of Foreign Workers Act (Cap.91A) or had obtained the written consent of the Controller to work in Singapore.
-
-[34/98 wef 05/10/1998]
 
 (11) No person, being the owner, tenant or occupier of any premises or place referred to in subsection (8), shall knowingly permit or suffer such premises or place or any part thereof to be kept or used as a place or premises in which any person is employed in contravention of subsection (1)(e).
 
@@ -1676,3 +1628,9 @@ This Legislative History is provided for the convenience of users of the Immigra
 |||(Bill No. 35/98 published on 1 August 1998)|
 ||Date of Second and Third Readings|4 September 1998|
 ||Date of commencement|5 October 1998|
+|21.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
