@@ -214,6 +214,16 @@
 
 - [87 Saving](#Saving)
 
+[**Special provisions relating to cheque truncation**](#Special-provisions-relating-to-cheque-truncation)
+
+- [87A Alternative means of presentment](#Alternative-means-of-presentment)
+
+- [87B Image return document](#Image-return-document)
+
+[**Regulations relating to cheque truncation**](#Regulations-relating-to-cheque-truncation)
+
+- [87C Regulations](#Regulations)
+
 [**Part IV PROMISSORY NOTES**](#Part-IV)
 
 - [88 Promissory note defined](#Promissory-note-defined)
@@ -256,7 +266,7 @@
 
 (CHAPTER 23)
 
-(Original Enactment: M Ordinance 75 of 1949)
+(Original Enactment: M ORDINANCE 75 of 1949)
 
 REVISED EDITION 1999
 
@@ -279,6 +289,10 @@ PRELIMINARY
 2\. In this Act, unless the context otherwise requires —
 
 “acceptance” means an acceptance completed by delivery or notification;
+
+“Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
+
+[22/2002 wef 20/09/2002]
 
 “bank holiday” and “public holiday” respectively include any day declared to be such under any written law for the time being in force and includes any day (other than a Sunday) observed as a weekly holiday;
 
@@ -864,6 +878,10 @@ General duties of holder
 
 (f) the return of a dishonoured bill to the drawer or an indorser is, in point of form, deemed a sufficient notice of dishonour;
 
+(fa) where a cheque has been presented in accordance with section 87A, the presentment of an image return document, as defined under section 87B(6), to the drawer or an indorser is, in point of form, deemed a sufficient notice of dishonour;
+
+[22/2002 wef 20/09/2002]
+
 (g) a written notice need not be signed, and an insufficient written notice may be supplemented and validated by verbal communication; a misdescription of the bill shall not vitiate the notice unless the party to whom the notice is given is in fact misled thereby;
 
 (h) where notice of dishonour is required to be given to any person, it may be given either to the party himself, or to his agent in that behalf;
@@ -1318,9 +1336,79 @@ and the customer has no title, or a defective title, to the instrument, the bank
 
 86\. The provisions of this Act relating to crossed cheques shall, so far as applicable, have effect in relation to instruments (other than cheques) to which section 85 applies as they have effect in relation to cheques.
 
+(1) The provisions of this Act relating to crossed cheques shall, so far as applicable, have effect in relation to instruments (other than cheques) to which section 85 applies as they have effect in relation to cheques.
+
+[22/2002 wef 20/09/2002]
+
+(2) Sections 87A, 87B (except subsection (5)) and 87C shall, so far as applicable, have effect in relation to an instrument referred to in section 85(2)(b) as they have effect in relation to a cheque.
+
+[22/2002 wef 20/09/2002]
+
+(3) Sections 87A and 87C shall, so far as applicable, have effect in relation to an instrument referred to in section 85(2)(c) as they have effect in relation to a cheque.
+
+[22/2002 wef 20/09/2002]
+
 ### Saving
 
 87\. Sections 82 to 86 do not make negotiable any instrument which apart from those sections is not negotiable.
+
+Special provisions relating to cheque truncation
+
+[22/2002 wef 20/09/2002]
+
+### Alternative means of presentment
+
+87A\.—(1) A banker may present a cheque for payment to the banker on whom it is drawn by transmitting, by electronic means, an image and the electronic payment information of the cheque, instead of presenting the cheque itself.
+
+(2) Notwithstanding subsection (1), if at any time before payment is made, the banker on whom a cheque is drawn requests the banker who presented the cheque to present the cheque itself —
+
+(a) the presentment under subsection (1) shall be disregarded; and
+
+(b) section 87B shall not apply.
+
+(3) A request under subsection (2) for the presentment of a cheque shall not constitute dishonour of the cheque by non-payment.
+
+(4) Section 52(4) shall not apply —
+
+(a) in relation to presenting a bill for payment, to presenting a cheque for payment under subsection (1); and
+
+(b) in relation to a bill which is paid, to a cheque which is paid following presentment under subsection (1).
+
+(5) For the avoidance of doubt, any payment made upon presentment in accordance with this section shall not be taken to have been made outside of the ordinary course of business, in bad faith or negligently only because it is made upon transmission of an image and the electronic payment information of the cheque rather than presentment of the cheque itself.
+
+(6) Where presentment of a cheque is made under this section, the banker who presented the cheque and the banker on whom it is drawn shall be subject to the same duties in relation to the collection and payment of the cheque as if the cheque itself had been presented for payment.
+
+(7) For the purposes of this section —
+
+(a) the image of a cheque shall comprise the front view and the back view of the cheque; and
+
+(b) the electronic payment information of a cheque shall comprise such matters as may be prescribed by the Authority under section 87C.
+
+### Image return document
+
+87B\.—(1) Where a cheque presented for payment in accordance with section 87A(1) is dishonoured by non-payment, the banker to whom the cheque was first presented by the holder (referred to in this section as the presenting banker) shall, unless the presenting banker returns the cheque itself or the holder requests the return of the cheque itself, issue to the holder an image return document.
+
+(2) Subject to subsection (4), an image return document may be presented for payment to the presenting banker by the holder to whom the image return document was issued as if that document were the cheque to which it relates.
+
+(3) An image return document shall be deemed to be the cheque to which it relates for the purpose of presentment under subsection (2).
+
+(4) An image return document may be presented under subsection (2) for payment by the holder only if —
+
+(a) the presenting banker states in that document that it is valid for presentment; and
+
+(b) the presentment is made within the period for the presentment stated in that document.
+
+(5) Where an image return document has been lost before the expiry of the period for its presentment stated therein, the person who was the holder of the document may apply to the drawer of the cheque to which the document relates, and the drawer may be compelled, to give him another cheque of the same tenor, subject to him giving security to indemnify the drawer (if required) against all claims arising in case the document alleged to have been lost is found again.
+
+(6) In this section, “image return document” means a document issued by a presenting banker containing such particulars as may be prescribed by the Authority under section 87C.
+
+Regulations relating to cheque truncation
+
+[22/2002 wef 20/09/2002]
+
+### Regulations
+
+87C\. The Authority may, with the approval of the Minister, make such regulations as may be necessary or expedient for giving effect to the provisions of this Act in respect of any matter or thing relating to cheque truncation.
 
 ## PART IV
 
@@ -1527,6 +1615,11 @@ This Legislative History is provided for the convenience of users of the Bills o
 |8.|**1999 Revised Edition—Bills of Exchange Act**|
 ||(G.N. No. S 30/2010 — Rectification Order)||
 ||Date of operation|1 August 1999|
+|9.|**Act 22 of 2002—Bills of Exchange (Amendment) Act 2002**|
+||Date of First Reading|8 July 2002|
+|||(Bill No. 21/2002 published on 9 July 2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|20 September 2002|
 ## COMPARATIVE TABLE
 
 Bills of Exchange Act
