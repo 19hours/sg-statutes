@@ -26,11 +26,11 @@
 
 - [10 Issue of licences](#Issue-of-licences)
 
-- [11 Different kinds of licences](#Different-kinds-of-licences)
+- [11 Terms of licences](#Terms-of-licences)
 
 - [12 Licences to be numbered and registered](#Licences-to-be-numbered-and-registered)
 
-- [13 Annual list to be published](#Annual-list-to-be-published)
+- [13 (Repealed)](#Repealed)
 
 - [14 Forms of licences](#Forms-of-licences)
 
@@ -100,9 +100,11 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 
 ### Licensing officers
 
-4\. The Director of Medical Services or any officer of the Medical Department authorised by him in writing may issue licences for the purposes of this Act.
+4\. The Director of Medical Services or any public officer authorised by him in writing may issue licences for the purposes of this Act.
 
 [14/80]
+
+[Act 21 of 1987 wef 11/09/1987]
 
 ### General prohibition with respect to importation and sale of poisons
 
@@ -222,13 +224,17 @@ Provided that this subsection shall, in the case of a medicine supplied on a pre
 
 ### Issue of licences
 
-10\.—(1) A licensing officer may issue to any person, subject to such special conditions and limitations as the licensing officer may think fit, any of the licences referred to in section 11:
+10\.—(1) A licensing officer may issue to any person, subject to such terms and conditions as the licensing officer may think fit, any licence authorising the person to import, possess for sale, sell or offer for sale any poison or for any purpose for which a licence may be prescribed:
 
-Provided that no licences shall be issued to a medical practitioner other than licences to import, possess and sell poisons by retail in his own personal practice or business, or in a practice or business partnership of which every member is a medical practitioner.
+Provided that no licence shall be issued to a medical practitioner other than a licence authorising him to import, possess and sell poisons by retail in connection with his own practice or with a practice or partnership in which every member is a medical practitioner.
+
+[Act 21 of 1987 wef 11/09/1987]
 
 (2) A licensing officer, if it appears expedient to him to do so, may cancel any licence issued under subsection (1).
 
-(3) Every licence shall, unless previously cancelled, remain in force until 31st December in the year in respect of which the licence is issued.
+(3) Every licence shall, unless previously cancelled, remain in force for such period as may be prescribed.
+
+[Act 21 of 1987 wef 11/09/1987]
 
 (4) Such fees as may be prescribed shall be charged on the issue of each licence.
 
@@ -236,47 +242,31 @@ Provided that no licences shall be issued to a medical practitioner other than l
 
 (5) Any person to whom a licensing officer refuses to issue a licence or whose licence is cancelled under subsection (2) may appeal to the Minister whose decision shall be final and conclusive.
 
-### Different kinds of licences
+### Terms of licences
 
-11\.—(1) Licences may be —
+11\.—(1) There shall be implied in every licence issued under this Act the condition that the licensee is bound to comply with all the provisions of this Act and any rules made thereunder.
 
-(a) licences to import and store poisons;
+(2) Every licence issued under this Act shall be personal to the licensee named therein and shall not in any case be transferable to another person and no licence shall authorise the sale of any poison by any person other than the person named therein.
 
-(b) wholesale and retail licences to deal generally in poisons;
+(3) A licensing officer may, if he sees fit, amend the description in a licence of the premises at which the person licensed carries on the business or profession in connection with which he is licensed.
 
-(c) wholesale licences to keep and sell by wholesale the poisons specified in such licences; or
-
-(d) wholesale and retail licences to deal generally in poisons included in Part II of the Poisons List.
-
-For the purposes of this section the expression “to keep” shall include the custody of poisons by a licensee in the course of his employment.
-
-(2) There shall be implied in every licence issued under this Act the condition that the licensee is bound to comply —
-
-(a) with all the terms and conditions set out in the licence;
-
-(b) with all the provisions of this Act; and
-
-(c) with all the provisions of any rules that may from time to time be made under this Act.
-
-(3) Every licence issued under this Act shall be personal to the licensee named therein and shall not in any case be transferable to another person and no licence shall authorise the sale of any poison by any person other than the person named therein:
-
-Provided that it shall be lawful for a licensing officer, if he sees fit, to amend the description on a licence of the premises at which the person licensed carries on the business or profession in connection with which he is licensed.
+[Act 21 of 1987 wef 11/09/1987]
 
 ### Licences to be numbered and registered
 
 12\.—(1) All licences issued shall be numbered consecutively in the year in respect of which they are issued, commencing each year with the number one.
 
-(2) The licensing officer shall keep a register of licences issued by him showing all the particulars of each licence issued by him and the entries in the register shall be numbered to correspond with the serial numbers of the licences and there shall be noted in the register in the event of the cancellation of any licence the date of such cancellation.
+(2) The Director of Medical Services shall keep a register of licences showing all the particulars of each licence issued under this Act and the entries in the register shall be numbered to correspond with the serial numbers of the licences and there shall be noted in the register in the event of cancellation of any licence the date of such cancellation.
+
+[Act 21 of 1987 wef 11/09/1987]
 
 (3) Any extract from or copy of an entry in a register kept under this section shall be prima facie evidence of the facts stated therein if the extract or copy is certified under the hand of a licensing officer to be a true extract or copy.
 
-### Annual list to be published
+(4) The register of licences kept under this section shall be kept at the office of the Director of Medical Services and shall be available for inspection by any person without charge at all reasonable hours.
 
-13\.—(1) The Director of Medical Services shall in or about the month of February in each year cause to be printed and published in theGazettelists of all persons licensed under this Act with the nature of the licence or licences issued to each such person, and specifying the profession or business and the premises in respect of which the licences have been issued and shall from time to time cause to be so printed and published such supplementary lists as may be required.
+[Act 21 of 1987 wef 11/09/1987]
 
-(2) In such lists the names shall be in alphabetical order, according to the surname when such name or its equivalent is used by the licensed person, and otherwise according to the personal name of the licensed person followed by his father’s name.
-
-(3) Every list so published shall be evidence that the persons therein named are licensed under this Act as therein stated and the absence of any name from the list shall be evidence until the contrary has been proved that the person is not licensed under this Act.
+13\. [Repealed by Act 21 of 1987 wef 11/09/1987]
 
 ### Forms of licences
 
@@ -306,9 +296,11 @@ but every such exemption shall be subject to such instructions and conditions as
 
 ### Penalties
 
-17\.—(1) Any person who acts in contravention of any of the provisions of this Act or any rules made thereunder shall, except in so far as his act comes within one of the exemptions made by sections 7 and 8, be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+17\.—(1) Any person who acts in contravention of any of the provisions of this Act shall, except in so far as his act comes within one of the exemptions made by sections 7 and 8, be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [14/80]
+
+[Act 21 of 1987 wef 11/09/1987]
 
 (2) Any poison in respect of which an offence has been committed in contravention of any provision of this Act or of any rule made thereunder by any unlicensed person shall, upon that person being convicted of that offence, be forfeited and shall be handed over to the Director of Medical Services for disposal.
 
@@ -330,7 +322,9 @@ but every such exemption shall be subject to such instructions and conditions as
 
 ### Prohibition of sale to persons under 18 years
 
-20\.—(1) No poison shall be sold to any person under 18 years of age. Any person contravening this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+20\.—(1) No poison shall be sold to any person under 18 years of age. Any person contravening this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 21 of 1987 wef 11/09/1987]
 
 (2) It shall be a sufficient defence to any charge under subsection (1) that the person charged had reasonable cause to believe that the person to whom the sale was made was above the age of 18 years.
 
@@ -368,7 +362,11 @@ but every such exemption shall be subject to such instructions and conditions as
 
 (l) prescribing the form of licences, registers and returns;
 
-(m) fixing fees and exempting any person or body of persons from the payment of such fees.
+(m) fixing fees and exempting any person or body of persons from the payment of such fees;
+
+(n) prescribing that any act or omission in contravention of any rule shall be an offence punishable by a fine not exceeding $5,000 or imprisonment for a term not exceeding 2 years or both.
+
+[Act 21 of 1987 wef 11/09/1987]
 
 (2) All rules made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication and if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of 3 months from the date when the rules are so presented annulling the rules or any part thereof as from a specified date, the rules or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new rules.
 
@@ -3231,3 +3229,8 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 October 1986|
 |45.|**1985 Revised Edition—Poisons Act**|
 ||Date of operation|30 March 1987|
+|46.|**Act 21 of 1987—Poisons (Amendment) Act 1987**|
+||Date of First Reading|20 May 1987|
+|||(Bill No. 12/1987 published on 22 May 1987)|
+||Date of Second and Third Readings|28 July 1987|
+||Date of commencement|11 September 1987|
