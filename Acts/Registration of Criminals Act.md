@@ -763,13 +763,15 @@ Immigration Act [Cap. 133]
 
 Sections 5, 6, 8(5), 9(4), 19, 26, 36 and 57.
 
-Trade Marks Act [Cap. 332]
+Trade Marks Act 1998
 
-...
+…
 
-Sections 70, 72 and 74.
+Sections 46, 48 and 52.
 
 [17/80]
+
+[46/1998 wef 15/01/1999]
 
 ## LEGISLATIVE HISTORY
 
@@ -851,3 +853,9 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 17/1998 published on 21 April 1998)|
 ||Date of Second and Third Readings|1 June 1998|
 ||Date of commencement|20 July 1998|
+|23.|**Act 46 of 1998—Trade Marks Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 October 1998|
+|||(Bill No. 42/1998 published on 13 October 1998)|
+||Date of Second and Third Readings|26 November 1998|
+||Date of commencement|15 January 1999|
