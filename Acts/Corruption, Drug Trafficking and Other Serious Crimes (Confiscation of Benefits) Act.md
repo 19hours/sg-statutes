@@ -1686,3 +1686,11 @@ This Legislative History is provided for the convenience of users of the Drug Tr
 ||Referred to Select Committee|Parl 6 of 1992 presented to Parliament on 1 September 1992|
 ||Date of Third Reading|14 September 1992|
 ||Date of commencement|30 November 1993|
+|4.|**Act 15 of 1995—Bankruptcy Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|25 July 1994|
+|||(Bill No. 16/94 published on 29 July 1994)|
+||Date of Second Reading|25 August 1994|
+||Referred to Select Committee|Parl 1 of 1995 presented to Parliament on 7 March 1995|
+||Date of Third Reading|23 March 1995|
+||Date of commencement|15 July 1995|
