@@ -3767,3 +3767,8 @@ This Legislative History is provided for the convenience of users of the Land Ti
 ||Date of Presentation of Select Committee Report|17 June 1991 (Parl. 3 of 1991)|
 ||Date of Third Reading|28 June 1991|
 ||Date of commencement|30 August 1991|
+|11.|**Act 27 of 1995—Land Titles (Strata) (Amendment) Act 1995**|
+||Date of First Reading|25 May 1995|
+|||(Bill No. 22/95 published on 26 May 1995)|
+||Date of Second and Third Readings|7 July 1995|
+||Date of commencement|4 August 1995|
