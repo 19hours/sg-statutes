@@ -106,9 +106,9 @@ words referring to burial of bodies shall be held to include burning of bodies.
 
 ### Appointment of officers
 
-3\.—(1) The President may appoint, by name or office, a Registrar-General of Births and Deaths who shall be responsible for carrying out the provisions of this Act and shall have general charge and supervision of all registers kept and of all matters done or performed under this Act.
+3\.—(1) The Minister may appoint, by name or office, a Registrar-General of Births and Deaths who shall be responsible for carrying out the provisions of this Act and shall have general charge and supervision of all registers kept and of all matters done or performed under this Act.
 
-(2) The President may appoint, by name or office, a registrar for each local registration area with such supervising deputy registrars, deputy registrars, clerks and subordinate officers as he may think necessary for the purpose of performing the several duties prescribed by this Act.
+(2) The Minister may appoint, by name or office, a registrar for each local registration area with such supervising deputy registrars, deputy registrars, clerks and subordinate officers as he may think necessary for the purpose of performing the several duties prescribed by this Act.
 
 (3) The limits of each local registration area shall be such as may be from time to time declared by notification in theGazetteand shall, unless otherwise provided, be deemed to include the territorial waters of Singapore adjacent thereto.
 
@@ -364,7 +364,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 29\.—(1) The Minister may make rules in respect of all or any of the following matters:
 
-(a) the form of the registers and the manner in which the registers are to be kept;
+(a) the form of the registers and the manner in which the registers are to be kept.
 
 (b) the forms of any certificates, notices, or other documents required for the purpose of carrying out this Act;
 
@@ -436,3 +436,8 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of commencement|5 October 1979|
 |15.|**1985 Revised Edition—Registration of Births and Deaths Act (Chapter 267)**|
 ||Date of operation|30 March 1987|
+|16.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997|
