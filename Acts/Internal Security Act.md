@@ -470,7 +470,7 @@ and any order made under paragraph (b) shall be for such period, not exceeding t
 
 No appeals to Privy Council
 
-8C\. [Notwithstanding the provisions of any other written law, no appeal shall lie to the Judicial Committee of Her Britannic Majesty’s Privy Council in any proceedings instituted by way of judicial review in respect of any decision made or act done under this Act or in respect of any question of interpretation of the provisions of Part XII of the Constitution or any law made thereunder.][Act 2/89 wef 30/01/1989]
+8C\. [Deleted by Act 2/94 wef 08/04/1994]
 
 ### Commencement provision
 
@@ -1579,3 +1579,9 @@ This Legislative History is provided for the convenience of users of the Interna
 |||(Bill No. 4/1991 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991|
+|16.|**Act 2 of 1994—Judicial Committee (Repeal) Act 1994**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 January 1994|
+|||(Bill No. 2/1994 published on 18 January 1994)|
+||Date of Second and Third Readings|23 February 1994|
+||Date of commencement|8 April 1994|
