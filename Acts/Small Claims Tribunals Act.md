@@ -16,7 +16,7 @@
 
 - [3 Establishment of tribunals](#Establishment-of-tribunals)
 
-- [4 Appointments and qualification of Referees](#Appointments-and-qualification-of-Referees)
+- [4 Appointment and qualification of Referees](#Appointment-and-qualification-of-Referees)
 
 - [5 Jurisdiction of tribunal](#Jurisdiction-of-tribunal)
 
@@ -44,69 +44,69 @@
 
 - [17 Powers of Registrar](#Powers-of-Registrar)
 
-- [17A Consultation before Registrar by electronic means](#Consultation-before-Registrar-by-electronic-means)
+- [18 Consultation before Registrar by electronic means](#Consultation-before-Registrar-by-electronic-means)
 
-- [18 Service of claim and notice of hearing](#Service-of-claim-and-notice-of-hearing)
+- [19 Service of claim and notice of hearing](#Service-of-claim-and-notice-of-hearing)
 
-- [18A Claim may be admitted by telephone or in writing](#Claim-may-be-admitted-by-telephone-or-in-writing)
+- [20 Claim may be admitted by telephone or in writing](#Claim-may-be-admitted-by-telephone-or-in-writing)
 
-- [19 Parties](#Parties)
+- [21 Parties](#Parties)
 
-- [20 Hearing to be informal](#Hearing-to-be-informal)
+- [22 Hearing to be informal](#Hearing-to-be-informal)
 
-- [21 Right of audience](#Right-of-audience)
+- [23 Right of audience](#Right-of-audience)
 
-- [22 Proceedings to be in private](#Proceedings-to-be-in-private)
+- [24 Proceedings to be in private](#Proceedings-to-be-in-private)
 
-- [22A Proceedings before tribunal conducted by electronic means, etc.](#Proceedings-before-tribunal-conducted-by-electronic-means-etc)
+- [25 Proceedings before tribunal conducted by electronic means, etc.](#Proceedings-before-tribunal-conducted-by-electronic-means-etc)
 
-- [23 Claims may be heard together](#Claims-may-be-heard-together)
+- [26 Claims may be heard together](#Claims-may-be-heard-together)
 
-- [24 Representative claims](#Representative-claims)
+- [27 Representative claims](#Representative-claims)
 
-- [25 Evidence](#Evidence)
+- [28 Evidence](#Evidence)
 
-- [26 Judgment in default of appearance](#Judgment-in-default-of-appearance)
+- [29 Judgment in default of appearance](#Judgment-in-default-of-appearance)
 
-- [27 Control of procedure](#Control-of-procedure)
+- [30 Control of procedure](#Control-of-procedure)
 
-- [28 No costs allowed in proceedings](#No-costs-allowed-in-proceedings)
+- [31 No costs allowed in proceedings](#No-costs-allowed-in-proceedings)
 
-- [29 Frivolous or vexatious claims](#Frivolous-or-vexatious-claims)
+- [32 Frivolous or vexatious claims](#Frivolous-or-vexatious-claims)
 
-- [30 Adjournments](#Adjournments)
+- [33 Adjournments](#Adjournments)
 
-- [31 Withdrawal of claim](#Withdrawal-of-claim)
+- [34 Withdrawal of claim](#Withdrawal-of-claim)
 
-- [32 Orders of tribunal](#Orders-of-tribunal)
+- [35 Orders of tribunal](#Orders-of-tribunal)
 
-- [33 Enforcement of orders to pay money](#Enforcement-of-orders-to-pay-money)
+- [36 Enforcement of orders to pay money](#Enforcement-of-orders-to-pay-money)
 
-- [34 Enforcement of work orders](#Enforcement-of-work-orders)
+- [37 Enforcement of work orders](#Enforcement-of-work-orders)
 
 [**Part III APPEAL**](#Part-III)
 
-- [35 Appeal on point of law](#Appeal-on-point-of-law)
+- [38 Appeal on point of law](#Appeal-on-point-of-law)
 
-- [36 Powers of High Court on appeal](#Powers-of-High-Court-on-appeal)
+- [39 Powers of High Court on appeal](#Powers-of-High-Court-on-appeal)
 
 [**Part IV MISCELLANEOUS PROVISIONS**](#Part-IV)
 
-- [37 Order of tribunal to be final](#Order-of-tribunal-to-be-final)
+- [40 Order of tribunal to be final](#Order-of-tribunal-to-be-final)
 
-- [38 Setting aside of order](#Setting-aside-of-order)
+- [41 Setting aside of order](#Setting-aside-of-order)
 
-- [39 Stay of execution on appeal](#Stay-of-execution-on-appeal)
+- [42 Stay of execution on appeal](#Stay-of-execution-on-appeal)
 
-- [40 Contempt of tribunal](#Contempt-of-tribunal)
+- [43 Contempt of tribunal](#Contempt-of-tribunal)
 
-- [41 Protection of Referees, etc.](#Protection-of-Referees-etc)
+- [44 Protection of Referees, etc.](#Protection-of-Referees-etc)
 
-- [42 Publication of orders](#Publication-of-orders)
+- [45 Publication of orders](#Publication-of-orders)
 
-- [43 Person not precluded from filing claim in court](#Person-not-precluded-from-filing-claim-in-court)
+- [46 Person not precluded from filing claim in court](#Person-not-precluded-from-filing-claim-in-court)
 
-- [44 Rules](#Rules)
+- [47 Rules](#Rules)
 
 [**Legislative History**](#Legislative-History)
 
@@ -116,11 +116,11 @@
 
 (Original Enactment: Act 27 of 1984)
 
-REVISED EDITION 1996
+REVISED EDITION 1998
 
-(27th December 1996)
+(15th December 1998)
 
-An Act to make provision for the establishment, jurisdiction and powers of Small Claims Tribunals and the appointments, powers and duties of Referees in such tribunals and the administration of justice therein.
+An Act to make provision for the establishment, jurisdiction and powers of Small Claims Tribunals and the appointment, powers and duties of Referees in such tribunals and the administration of justice therein.
 
 [15th January 1985]
 
@@ -144,7 +144,9 @@ PRELIMINARY
 
 “party” means a claimant or respondent and any person joined as a third party;
 
-“prescribed limit” means $5,000 or such other sum as the Minister may, after consultation with the Chief Justice, by order published in theGazette, substitute therefor;
+“prescribed limit” means $10,000 or such other sum as the Minister may, after consultation with the Chief Justice, by order published in theGazette, substitute therefor;
+
+[S 321/97]
 
 “Referee” means a Referee appointed under section 4(1);
 
@@ -154,15 +156,13 @@ PRELIMINARY
 
 “respondent” means any person against whom a claim is made and any person who becomes a party to the proceedings on any claim in the capacity of a respondent;
 
-“rules” means rules made under section 44;
+“rules” means rules made under section 47;
 
-“tribunal” means a Small Claims Tribunal constituted under section 4 of the Subordinate Courts Act [Cap. 321];
+“tribunal” means a Small Claims Tribunal constituted under section 4 of the Subordinate Courts Act (Cap. 321);
 
 “work order” means an order to rectify a defect in goods or to make good any deficiency in the performance of services, by doing such work or attending to such matters (including the replacement of goods or parts thereof) as may be specified in the order.
 
-[17/95]
-
-[4/96]
+[17/95; 4/96]
 
 ## PART II
 
@@ -170,13 +170,13 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 ### Establishment of tribunals
 
-3\. The President may, under section 4 of the Subordinate Courts Act [Cap. 321], constitute one or more Small Claims Tribunals as he thinks fit to exercise the jurisdiction in respect of claims created by this Act.
+3\. The President may, under section 4 of the Subordinate Courts Act, constitute one or more Small Claims Tribunals as he thinks fit to exercise the jurisdiction in respect of claims created by this Act.
 
-### Appointments and qualification of Referees
+### Appointment and qualification of Referees
 
 4\.—(1) A tribunal shall be presided over by a Referee appointed by the President on the recommendation of the Chief Justice.
 
-(2) No person shall be appointed to be a Referee unless he is a qualified person within the meaning of the Legal Profession Act [Cap. 161].
+(2) No person shall be appointed to be a Referee unless he is a qualified person within the meaning of the Legal Profession Act (Cap. 161).
 
 (3) Every person appointed to be a Referee shall hold office for such term as may be specified in the instrument of his appointment, and may from time to time be reappointed.
 
@@ -189,6 +189,8 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 (a) any claim relating to a dispute arising from any contract for the sale of goods or the provision of services; and
 
 (b) any claim in tort in respect of damage caused to any property.
+
+[17/95]
 
 (2) The jurisdiction of a tribunal shall not extend to a claim —
 
@@ -206,9 +208,9 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 [17/95]
 
-(4) A tribunal shall, subject to subsections (1) and (2), have jurisdiction to hear and determine any claim the value of which exceeds the prescribed limit but does not exceed $10,000 or such other sum as the Minister may, after consultation with the Chief Justice, by order published in theGazette, substitute therefor, if the parties to the claim so agree by a memorandum signed by them.
+(4) A tribunal shall, subject to subsections (1) and (2), have jurisdiction to hear and determine any claim the value of which exceeds the prescribed limit but does not exceed $20,000 or such other sum as the Minister may, after consultation with the Chief Justice, by order published in theGazette, substitute therefor, if the parties to the claim so agree by a memorandum signed by them.
 
-[17/95]
+[17/95; S321/97]
 
 (5) Where a tribunal is of the opinion that a claim lodged with it pursuant to section 15(1) is beyond its jurisdiction, the tribunal shall discontinue the proceedings and advise the claimant and respondent accordingly.
 
@@ -237,6 +239,8 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 ### Abandonment of part of claim to give tribunal jurisdiction
 
 9\.—(1) Where the value of a claim exceeds the prescribed limit and no agreement is reached between the parties thereto as to an extension of the jurisdiction of the tribunal under section 5(4), the claimant may abandon the excess, and thereupon the tribunal shall have jurisdiction to hear and determine the claim.
+
+[17/95]
 
 (2) Where the tribunal has jurisdiction to hear and determine a claim by virtue of subsection (1), an order of the tribunal under this Act in relation to that claim shall be in full discharge of all demands in respect thereof.
 
@@ -268,7 +272,7 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 12\.—(1) The primary function of a tribunal is to attempt to bring the parties to a dispute to an agreed settlement.
 
-(2) Where an agreed settlement is reached, a tribunal may make one or more of the orders which it is empowered to make under section 32.
+(2) Where an agreed settlement is reached, a tribunal may make one or more of the orders which it is empowered to make under section 35.
 
 (3) If it appears to a tribunal that it is impossible to reach a settlement under subsection (1) within a reasonable time, the tribunal shall proceed to determine the dispute.
 
@@ -334,7 +338,9 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 17\.—(1) The Registrar shall, when a claim has been filed, invite all the parties to the dispute for consultation with a view to effecting a settlement acceptable to all the parties.
 
-(2) Where such a settlement is made, the Registrar shall, at the request of the claimant, make an order under section 32 that gives effect to the terms of the settlement and the order shall have effect as if it were an order of a tribunal made under that section.
+[31/92]
+
+(2) Where such a settlement is made, the Registrar shall, at the request of the claimant, make an order under section 35 that gives effect to the terms of the settlement and the order shall have effect as if it were an order of a tribunal made under that section.
 
 (3) Where at the consultation the Registrar is of the opinion that a claim or counterclaim lodged is outside the jurisdiction of a tribunal, he shall discontinue the proceedings and advise the claimant and respondent accordingly.
 
@@ -344,11 +350,11 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 [31/92]
 
-(5) If a claimant fails to appear at the consultation, by himself or by a representative pursuant to section 21(2), the Registrar may make an order dismissing the claim or, where there is a counterclaim by the respondent, make any order which a tribunal may make under section 32.
+(5) If a claimant fails to appear at the consultation, by himself or by a representative pursuant to section 23(2), the Registrar may make an order dismissing the claim or, where there is a counterclaim by the respondent, make any order which a tribunal may make under section 35.
 
 [31/92]
 
-(6) If a respondent fails to appear at the consultation, by himself or by a representative pursuant to section 21(2), the claimant may apply to the Registrar for any order which a tribunal may make under section 32 to be made against the respondent.
+(6) If a respondent fails to appear at the consultation, by himself or by a representative pursuant to section 23(2), the claimant may apply to the Registrar for any order which a tribunal may make under section 35 to be made against the respondent.
 
 [31/92]
 
@@ -356,35 +362,41 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 [31/92]
 
-(8) Any order made by the Registrar under subsection (5) or (7) shall have effect as if it were an order of a tribunal made under section 32.
+(8) Any order made by the Registrar under subsection (5) or (7) shall have effect as if it were an order of a tribunal made under section 35.
 
 [31/92]
 
 (9) Any person aggrieved by an order of the Registrar made under subsection (5), (6) or (7) may apply to the Registrar for the order to be set aside.
 
-[2/98 wef 16/03/1998]
+[2/98]
 
 (10) An application made under subsection (9) shall be made within one month after the consultation or such further period as the Registrar may allow.
 
-[2/98 wef 16/03/1998]
-
-[31/92]
+[2/98]
 
 ### Consultation before Registrar by electronic means
 
-17A\.—(1) The Registrar may, on such conditions as he may impose, permit the consultation to be conducted by telephone, videophone or any other electronic means (referred to in this section as electronic means).
+18\.—(1) The Registrar may, on such conditions as he may impose, permit the consultation to be conducted by telephone, videophone or any other electronic means (referred to in this section as electronic means).
+
+[2/98]
 
 (2) The Registrar may at any time direct any consultation by electronic means to cease and order the parties to appear in person at a designated place for the consultation.
 
+[2/98]
+
 (3) Any order made by the Registrar at the consultation by electronic means may be set aside on the application of any person aggrieved by that order if the Registrar is satisfied that either party has been impersonated or that any person who participated in the consultation did not have authority to represent the party concerned.
+
+[2/98]
 
 (4) An application made under subsection (3) shall be made within one month after the order was made or such further period as the Registrar may allow.
 
-[2/98 wef 16/03/1998]
+[17A
+
+[2/98]
 
 ### Service of claim and notice of hearing
 
-18\.—(1) Where the Registrar is unable to achieve a settlement acceptable to all the parties to the dispute, he shall —
+19\.—(1) Where the Registrar is unable to achieve a settlement acceptable to all the parties to the dispute, he shall —
 
 (a) fix a place and date for hearing the claim and give notice thereof in the prescribed form to the claimant; and
 
@@ -398,61 +410,77 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 (3) Service of a copy of the written claim and the notice of hearing and of a summons or any document that is to be served on any person in any proceedings before a tribunal may be effected by such person as may be appointed by the Registrar for the purpose.
 
+[18
+
 ### Claim may be admitted by telephone or in writing
 
-18A\.—(1) The Registrar may, on such conditions as he may impose, permit a respondent, at any time before an order on the claim has been made by the Registrar or the tribunal, to admit the claim against him orally by telephone.
+20\.—(1) The Registrar may, on such conditions as he may impose, permit a respondent, at any time before an order on the claim has been made by the Registrar or the tribunal, to admit the claim against him orally by telephone.
+
+[2/98]
 
 (2) The Registrar may accept any admission to the claim in writing by the respondent if such admission is received before any order on the claim had been made by the Registrar or the tribunal.
 
+[2/98]
+
 (3) The Registrar may, in his discretion, reject an admission purportedly made under subsection (1) or (2) and direct the respondent to appear in person at the consultation or before a tribunal.
 
-(4) If the Registrar is satisfied that an admission under subsection (1) or (2) is in order, the Registrar may make an order under section 32 against the respondent and the order shall have effect as if it were an order of a tribunal under that section.
+[2/98]
+
+(4) If the Registrar is satisfied that an admission under subsection (1) or (2) is in order, the Registrar may make an order under section 35 against the respondent and the order shall have effect as if it were an order of a tribunal under that section.
+
+[2/98]
 
 (5) Any order made by the Registrar under subsection (4) may be set aside on the application of the respondent if the Registrar is satisfied that the admission was not made by the respondent or with the respondent’s authority.
 
+[2/98]
+
 (6) An application under subsection (5) shall be made within one month after the date of the order or such further period as the Registrar may allow.
 
-[2/98 wef 16/03/1998]
+[18A
+
+[2/98]
 
 ### Parties
 
-19\.—(1) Subject to subsection (2), the claimant and the respondent and every person to whom notice of a claim has been given under section 18(1)(b) shall be parties to the proceedings on that claim.
+21\.—(1) Subject to subsection (2), the claimant and the respondent and every person to whom notice of a claim has been given under section 19(1)(b) shall be parties to the proceedings on that claim.
 
 (2) A tribunal may, at any time, order that the name of a person who appears to it to have been improperly joined as a party be struck out from the proceedings.
 
+[19
+
 ### Hearing to be informal
 
-20\.—(1) Proceedings before a tribunal shall be conducted in an informal manner.
+22\.—(1) Proceedings before a tribunal shall be conducted in an informal manner.
 
 (2) A tribunal may, of its own motion or at the request of any party, summon any witness and require the production of any document, record, book of account or other thing, which is relevant in any proceedings.
 
 (3) A tribunal shall inquire into any matter which it may consider relevant to a claim, whether or not it has been raised by a party.
 
+[20
+
 ### Right of audience
 
-21\.—(1) Subject to this section, a party to proceedings before a tribunal shall present his own case.
+23\.—(1) Subject to this section, a party to proceedings before a tribunal shall present his own case.
 
 (2) Subject to subsection (3), where a party to proceedings before a tribunal is —
 
 (a) the Government, a public officer may present the case on its behalf;
 
-(b) a Town Council established under the Town Councils Act [Cap. 329A], one of the full-time employees of the Town Council or of its management agent may present the case on its behalf;
+(b) a Town Council established under the Town Councils Act (Cap. 329A), one of the full-time employees of the Town Council or of its management agent may present the case on its behalf;
 
 (c) a body corporate, one of its full-time employees may present the case on its behalf;
 
 (d) a partnership, one of its partners or full-time employees may present the case on its behalf;
 
-(e) a management corporation under the Land Titles (Strata) Act [Cap. 158], a member of its council or a full-time employee of its managing agent may present the case on its behalf;
+(e) a management corporation under the Land Titles (Strata) Act (Cap. 158), a member of its council or a full-time employee of its managing agent may present the case on its behalf;
 
-(f) a minor and is, in the opinion of the Registrar or tribunal, unable to present his own case, his parent or guardian or any other person as may be approved by the Registrar or tribunal may present the case on his behalf;
+(fg) a minor and is, in the opinion of the Registrar or tribunal, unable to present his own case, his parent or guardian or any other person as may be approved by the Registrar or tribunal may present the case on his behalf;
 
-(g) a person who is not resident in Singapore and who is unable to remain in Singapore until the hearing of the case, any other person who is duly authorised by him in writing may, with the approval of the Registrar or tribunal, present the case on his behalf; and
+(gh) a person who is not resident in Singapore and who is unable to remain in Singapore until the hearing of the case, any other person who is duly authorised by him in writing may, with the approval of the Registrar or tribunal, present the case on his behalf; and
 
-(h) a person who is, in the opinion of the Registrar or tribunal, unable to present his own case by reason of old age, illiteracy or infirmity of mind or body, any other person who is duly authorised by him in writing or who is approved by the Registrar or tribunal may present the case on his behalf.
+(hi) a person who is, in the opinion of the Registrar or tribunal, unable to present his own case by reason of old age, illiteracy or infirmity of mind or body, any other person who is duly authorised by him in writing or who is approved by the Registrar or tribunal may present the case on his behalf.
 
-[31/92]
-
-[17/95]
+[31/92; 17/95]
 
 (3) No party to any proceedings before a tribunal shall be represented by an advocate and solicitor or, except as provided by subsection (2), an agent, whether paid or otherwise.
 
@@ -460,25 +488,37 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 (4) A tribunal shall, before permitting a person to act as a representative under subsection (2), satisfy itself that the person has sufficient knowledge of the case and sufficient authority to bind the party whom he represents.
 
+[21
+
 ### Proceedings to be in private
 
-22\. All proceedings before a tribunal shall be held in private.
+24\. All proceedings before a tribunal shall be held in private.
+
+[22
 
 ### Proceedings before tribunal conducted by electronic means, etc.
 
-22A\.—(1) A tribunal may, on such conditions as it may impose, permit proceedings before the tribunal to be conducted by telephone, videophone or any other electronic means (referred to in this section as electronic means).
+25\.—(1) A tribunal may, on such conditions as it may impose, permit proceedings before the tribunal to be conducted by telephone, videophone or any other electronic means (referred to in this section as electronic means).
+
+[2/98]
 
 (2) The tribunal may at any time direct any proceedings before it conducted by electronic means to cease and order the parties to appear in person at a designated place for the hearing.
 
+[2/98]
+
 (3) Any order made by the tribunal at the proceedings before it by electronic means may be set aside on the application of a person aggrieved by that order if the tribunal is satisfied that either party has been impersonated or that any person who participated in the hearing did not have authority to represent the party concerned.
+
+[2/98]
 
 (4) An application made under subsection (3) shall be made within one month after the order was made or such further period as the tribunal may allow.
 
-[2/98 wef 16/03/1998]
+[22A
+
+[2/98]
 
 ### Claims may be heard together
 
-23\.—(1) Where 2 or more claims are filed and it appears to a tribunal that —
+26\.—(1) Where 2 or more claims are file and it appears to a tribunal that —
 
 (a) a common question of fact or law arises in both or all of them;
 
@@ -488,11 +528,13 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 the tribunal may order that such claims be heard at the same time.
 
-(2) The power conferred by this section may be exercised by a tribunal notwithstanding that the hearing of one or more of the claims has begun.
+(2) The power conferred by this secton may be exercised by a tribunal notwithstanding that the hearing of one or more the claims has begun.
+
+[23
 
 ### Representative claims
 
-24\.—(1) Subject to subsection (2), if 2 or more persons have claims against the same respondent, such claims may be brought in the name of one of such persons as the representative of some or all of them.
+27\.—(1) Subject to subsection (2), if 2 or more persons have claims against the same respondent, such claims may be brought in the name of one of such persons as the representative of some or all of them.
 
 (2) A tribunal may, if at any stage of the proceedings it considers that a representative claim may prejudice the respondent, order that the claims of all or any of the persons represented be heard separately.
 
@@ -514,9 +556,11 @@ the tribunal may order that such claims be heard at the same time.
 
 (5) A tribunal may, at any time before determining any claim, grant leave to any person to join in the claim as a person represented on such terms as it may think fit.
 
+[24
+
 ### Evidence
 
-25\.—(1) A tribunal shall not be bound by the rules of evidence but may inform itself on any matter in such manner as it thinks fit.
+28\.—(1) A tribunal shall not be bound by the rules of evidence but may inform itself on any matter in such manner as it thinks fit.
 
 (2) Evidence tendered to a tribunal by or on behalf of a party to any proceedings need not be given on oath but the tribunal may, at any stage of the proceedings, require that such evidence or any part thereof be given on oath whether orally or in writing.
 
@@ -534,39 +578,53 @@ the tribunal may order that such claims be heard at the same time.
 
 (b) notes of the proceedings.
 
+[25
+
 ### Judgment in default of appearance
 
-26\.—(1) If a respondent fails to appear at the hearing, by himself or by a representative pursuant to section 21(2), the claimant may apply to the tribunal for an order to be made against the respondent.
+29\.—(1) If a respondent fails to appear at the hearing, by himself or by a representative pursuant to section 23(2), the claimant may apply to the tribunal for an order to be made against the respondent.
 
 (2) Upon application made by the claimant under subsection (1), the tribunal shall grant him the order if it is satisfied that he is entitled thereto.
 
-(3) An order shall not be made against a respondent under this section unless the tribunal is satisfied that a copy of the written claim and the notice of hearing have been served on the respondent under section 18.
+(3) An order shall not be made against a respondent under this section unless the tribunal is satisfied that a copy of the written claim and the notice of hearing have been served on the respondent under section 19.
+
+[26
 
 ### Control of procedure
 
-27\. Subject to this Act and to the rules, a tribunal shall have control of its own procedure in the hearing of claims and, in the exercise of that control, shall have regard to the principles of natural justice.
+30\. Subject to this Act and to the rules, a tribunal shall have control of its own procedure in the hearing of claims and, in the exercise of that control, shall have regard to the principles of natural justice.
+
+[27
 
 ### No costs allowed in proceedings
 
-28\. Except as provided in section 29, costs, other than disbursements, shall not be granted to or awarded against any party to any proceedings before a tribunal or the Registrar.
+31\. Except as provided in section 32, costs, other than disbursements, shall not be granted to or awarded against any party to any proceedings before a tribunal or the Registrar.
+
+[28
 
 [31/92]
 
 ### Frivolous or vexatious claims
 
-29\. A tribunal may at any time dismiss a claim which it considers to be frivolous or vexatious on such terms as to costs as it thinks fit.
+32\. A tribunal may at any time dismiss a claim which it considers to be frivolous or vexatious on such terms as to costs as it thinks fit.
+
+[29
 
 ### Adjournments
 
-30\. A tribunal may at any time, either of its own motion or on the application of any party, adjourn the hearing of proceedings on a claim on such terms as it thinks fit.
+33\. A tribunal may at any time, either of its own motion or on the application of any party, adjourn the hearing of proceedings on a claim on such terms as it thinks fit.
+
+[30
 
 ### Withdrawal of claim
 
-31\. A claimant may at any time withdraw his claim whether or not a tribunal has heard the claim.
+34\. A claimant may at any time withdraw his claim whether or not a tribunal has heard the claim.
+
+[31
 
 ### Orders of tribunal
 
-32\.—(1) A tribunal may, as regards any claim within its jurisdiction, make one or more of the following orders and may include therein such stipulations and conditions (whether as to the time for, or mode of, compliance or otherwise) as it thinks fit:
+35\.—(1) A tribunal may, as regards any claim within its jurisdiction, make one or more of the following orders and may include therein such stipulations and conditions (whether as to the time for, or mode of, compliance or otherwise) as it thinks fit:
 
 (a) the tribunal may order a party to the proceedings to pay money to another party;
 
@@ -598,11 +656,15 @@ the tribunal may order that such claims be heard at the same time.
 
 (3) The Registrar shall arrange for a copy of an order made under subsection (1) to be served on the person against whom it is made as soon as practicable.
 
+[32
+
 ### Enforcement of orders to pay money
 
-33\.—(1) Every order made by a tribunal or the Registrar requiring a party to pay money shall be deemed to be an order of a Magistrate’s Court and, subject to this section, may be enforced accordingly.
+36\.—(1) Every order made by a tribunal or the Registrar requiring a party to pay money shall be deemed to be an order of a Magistrate’s Court and, subject to this section, may be enforced accordingly.
 
-(2) Where application is made to a Magistrate’s Court for the issue of any process to enforce an order provided for by section 32(1)(c) (requiring a party to pay money to another as an alternative to compliance with a work order), the Registrar shall give notice of the application to the party against whom enforcement is sought.
+[31/92]
+
+(2) Where application is made to a Magistrate’s Court for the issue of any process to enforce an order provided for by section 35(1)(c) (requiring a party to pay money to another as an alternative to compliance with a work order), the Registrar shall give notice of the application to the party against whom enforcement is sought.
 
 (3) If that party does not file in the tribunal within the period prescribed for so doing a notice of objection in the prescribed form, the order may, after the expiry of that period, be enforced pursuant to subsection (1).
 
@@ -610,33 +672,35 @@ the tribunal may order that such claims be heard at the same time.
 
 [31/92]
 
-(5) If the party against whom enforcement is sought files the notice referred to in subsection (3) within the prescribed period, the Registrar shall refer the matter to the tribunal to be heard and determined under section 34(3).
+(5) If the party against whom enforcement is sought files the notice referred to in subsection (3) within the prescribed period, the Registrar shall refer the matter to the tribunal to be heard and determined under section 37(3).
 
 (6) No filing fee shall be payable by a person who seeks to enforce an order pursuant to subsection (1) but any fee which would otherwise be payable therefor shall be included in and be deemed as part of the award of the tribunal and shall be recoverable from the opposite party for the credit of the Consolidated Fund.
 
-[31/92]
+[33
 
 ### Enforcement of work orders
 
-34\.—(1) Where —
+37\.—(1) Where —
 
 (a) a party in whose favour a work order has been made considers that the work order has not been complied with by the other party; and
 
-(b) that other party has not complied with the alternative money order provided for by section 32(1)(c),
+(b) that other party has not complied with the alternative money order provided for by section 35(1)(c),
 
-the party in whose favour the work order was made may, instead of applying to a Magistrate’s Court for the issue of a process for enforcement pursuant to section 33(1), lodge with the tribunal a request in the prescribed form that the work order be enforced.
+the party in whose favour the work order was made may, instead of applying to a Magistrate’s Court for the issue of a process for enforcement pursuant to section 36(1), lodge with the tribunal a request in the prescribed form that the work order be enforced.
 
-(2) Subsequent proceedings shall be taken on a request for enforcement under subsection (1) and on notice under section 33(5) as if such request or notice were a claim lodged under section 15.
+(2) Subsequent proceedings shall be taken on a request for enforcement under subsection (1) and on notice under section 36(5) as if such request or notice were a claim lodged under section 15.
 
 (3) Upon the hearing of the matter, the tribunal may —
 
-(a) vary the work order, or make a further work order or any other order which is authorised by section 32;
+(a) vary the work order, or make a further work order or any other order which is authorised by section 35;
 
-(b) grant leave to the party in whose favour the work order was made to enforce the alternative money order provided for by section 32 or so much thereof as the tribunal may allow, and either subject to or without compliance with section 33(2); or
+(b) grant leave to the party in whose favour the work order was made to enforce the alternative money order provided for by section 35 or so much thereof as the tribunal may allow, and either subject to or without compliance with section 36(2); or
 
 (c) discharge any order previously made by the tribunal.
 
 (4) After the expiration of 12 months from the date of a work order, it shall not be enforced without the leave of the tribunal.
+
+[34
 
 ## PART III
 
@@ -644,17 +708,19 @@ APPEAL
 
 ### Appeal on point of law
 
-35\.—(1) Any party to proceedings before a tribunal may appeal to the High Court against an order made by the tribunal under section 32(1) or 34(3) —
+38\.—(1) Any party to proceedings before a tribunal may appeal to the High Court against an order made by the tribunal under section 35(1) or 37(3) —
 
 (a) on any ground involving a question of law; or
 
 (b) on the ground that the claim was outside the jurisdiction of the tribunal.
 
-(2) Rules may be made under section 44 to regulate and prescribe the procedure to be followed on appeals from a tribunal to the High Court.
+(2) Rules may be made under section 47 to regulate and prescribe the procedure to be followed on appeals from a tribunal to the High Court.
+
+[35
 
 ### Powers of High Court on appeal
 
-36\.—(1) On an appeal under section 35, the High Court may —
+39\.—(1) On an appeal under section 38, the High Court may —
 
 (a) allow the appeal;
 
@@ -662,7 +728,7 @@ APPEAL
 
 (c) remit the matter to the tribunal with such directions as the Court thinks fit, which may include a direction to the tribunal for a new hearing.
 
-(2) On an appeal under section 35, the High Court may make such order as to costs and expenses as the Court thinks fit, but may not —
+(2) On an appeal under section 38, the High Court may make such order as to costs and expenses as the Court thinks fit, but may not —
 
 (a) reverse or vary any determination made by a tribunal on questions of fact; or
 
@@ -670,39 +736,47 @@ APPEAL
 
 (3) A decision of the High Court under subsection (1) shall be final and shall not be subject to any appeal.
 
+[36
+
 ## PART IV
 
 MISCELLANEOUS PROVISIONS
 
 ### Order of tribunal to be final
 
-37\. An order of a tribunal shall be final and binding on all parties to the proceedings in which the order is made and, except as provided in section 35, no appeal shall lie in respect thereof.
+40\. An order of a tribunal shall be final and binding on all parties to the proceedings in which the order is made and, except as provided in section 38, no appeal shall lie in respect thereof.
+
+[37
 
 ### Setting aside of order
 
-38\.—(1) Any order of —
+41\.—(1) Any order of —
 
-(a) the tribunal under section 22A(3) or 26(1);
+(a) the tribunal made under section 25(3) or 29(1);
 
-(b) the Registrar under section 17(9), 17A(3) or 18A(5),
+(b) the Registrar made under section 17(9), 18(3) or 20(5),
 
 may, on the application of a person aggrieved by that order, be set aside by the tribunal and the tribunal may make such further order as it thinks just.
 
-[2/98 wef 16/03/1998]
+[2/98]
 
 (2) An application under subsection (1) shall be made within one month after the date on which the order was made or such further period as the tribunal may allow.
 
-[2/98 wef 16/03/1998]
+[38
 
-[31/92]
+[2/98]
 
 ### Stay of execution on appeal
 
-39\. The filing of a notice of appeal shall not operate as a stay of execution of an order unless the tribunal or the High Court, as the case may be, otherwise orders and any stay of execution may be subject to such conditions as to costs, payment into a tribunal, the giving of security or otherwise as the tribunal or the Court thinks fit.
+42\.—(1) The filing of a notice of appeal shall not operate as a stay of execution of an order unless the tribunal or the High Court, as the case may be, otherwise orders.
+
+(2) Any stay of execution may be subject to such conditions as to costs, payment into a tribunal, the giving of security or otherwise as the tribunal or the Court thinks fit.
+
+[39
 
 ### Contempt of tribunal
 
-40\.—(1) Any person who —
+43\.—(1) Any person who —
 
 (a) assaults, wilfully insults or obstructs a Referee or any witness or officer of a tribunal during a sitting of a tribunal or while a Referee, witness or officer is on his way to or from such a sitting;
 
@@ -710,41 +784,53 @@ may, on the application of a person aggrieved by that order, be set aside by the
 
 (c) wilfully interrupts or otherwise misbehaves at a sitting of a tribunal; or
 
-(d) without lawful excuse, disobeys any order or direction of a tribunal (not being an order referred to in section 32) during a sitting of the tribunal,
+(d) without lawful excuse, disobeys any order or direction of a tribunal (not being an order referred to in section 35) during a sitting of the tribunal,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months.
 
-(2) A tribunal may by oral order exclude from a sitting of the tribunal any person whose behaviour in the opinion of the Referee constitutes an offence under subsection (1) whether or not such person is charged with the offence, and the Registrar or officer under his control or any police officer may take such steps as are reasonably necessary to enforce such exclusion.
+(2) A tribunal may by oral order exclude from a sitting of the tribunal any person whose behaviour in the opinion of the Referee constitutes an offence under subsection (1) whether or not such person is charged with the offence.
+
+(3) The Registrar or officer under his control or any police officer may take such steps as are reasonably necessary to enforce such exclusion.
+
+[40
 
 ### Protection of Referees, etc.
 
-41\.—(1) A Referee shall have and enjoy the same protection as a Magistrate has and enjoys under the Subordinate Courts Act.
+44\.—(1) A Referee shall have and enjoy the same protection as a Magistrate has and enjoys under the Subordinate Courts Act (Cap. 321).
 
 (2) For the avoidance of doubt as to the privileges and immunities of Referees, parties, representatives and witnesses in the proceedings of a tribunal, it is declared that such proceedings are judicial proceedings.
 
-(3) The privileges and immunities referred to in subsection (2) shall extend and apply to —
+(3) The privileges and immunities referred to in subsection (2) shall extend and apply to --
 
-(a) a tribunal acting under section 25(3) and (4); and
+(a) a tribunal acting under section 28(3) and (4); and
 
 (b) a person who gives information or makes any statement to the Registrar or tribunal on any such occasion.
 
+[41
+
 ### Publication of orders
 
-42\. The Registrar shall cause to be published, in such manner as the Minister from time to time directs, such particulars relating to proceedings in tribunals as the Minister specifies in the direction.
+45\. The Registrar shall cause to be published, in such manner as the Minister from time to time directs, such particulars relating to proceedings in tribunals as the Minister specifies in the direction.
+
+[42
 
 ### Person not precluded from filing claim in court
 
-43\. Nothing in this Act shall be construed as precluding a person from lodging a claim that is within the jurisdiction of a tribunal in any other court if that person elects to institute proceedings in that other court to hear and determine that claim.
+46\. Nothing in this Act shall be construed as precluding a person from lodging a claim that is within the jurisdiction of a tribunal in any other court if that person elects to institute proceedings in that other court to hear and determine that claim.
+
+[43
 
 ### Rules
 
-44\.—(1) The Rules Committee appointed under section 80(3) of the Supreme Court of Judicature Act may make rules to —
+47\.—(1) The Rules Committee appointed under section 80(3) of the Supreme Court of Judicature Act (Cap. 322) may make rules to —
 
 (a) regulate the practice and procedure of tribunals and the enforcement of orders of the tribunals;
 
 (b) prescribe such things, including fees or costs, as are required by this Act to be prescribed; and
 
 (c) prescribe such matters as are necessary for carrying out the provisions of this Act.
+
+[4/96]
 
 (2) Without limiting the generality of subsection (1), the rules may provide for the following:
 
@@ -772,7 +858,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (i) regulating and prescribing the procedure to be followed on appeals from a tribunal to the High Court.
 
-[4/96]
+[44
 
 ## LEGISLATIVE HISTORY
 
@@ -790,18 +876,18 @@ This Legislative History is provided for the convenience of users of the Small C
 ||Date of Second and Third Readings|24 August 1984|
 ||Date of commencement|15 January 1985|
 |2.|**1985 Revised Edition—Small Claims Tribunals Act (Cap. 308)**|
-||Date of operation|30 March 1987|
+||Date of operation|31 March 1985|
 |3.|**Act 31 of 1992—Small Claims Tribunals (Amendment) Act 1992**|
 ||Date of First Reading|31 July 1992|
 |||(Bill No. 30/1992 published on 1 August 1992)|
 ||Date of Second and Third Readings|14 September 1992|
 ||Date of commencement|13 November 1992|
 |4.|**Act 17 of 1995—Small Claims Tribunals (Amendment) Act 1995**|
-||Date of First Reading|1 March 1995|
+||Date of First Reading|March95|
 |||(Bill No. 9/1995 published on 2 March 1995)|
 ||Date of Second and Third Readings|25 May 1995|
 ||Date of commencement|15 August 1995|
-|5.|**Act 4 of 1996—Subordinate Courts (Amendment) Act 1996**|
+|5.|**Act 4 of 1996—Subordinate Courts (Amendment) Act 1995**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|1 November 1995|
 |||(Bill No. 37/1995 published on 2 November 1995)|
@@ -816,3 +902,5 @@ This Legislative History is provided for the convenience of users of the Small C
 |||(Bill No. 15/1997 published on 20 November 1997)|
 ||Date of Second and Third Readings|14 January 1998|
 ||Date of commencement|16 March 1998|
+|9.|**1998 Revised Edition—Small Claims Tribunals Act**|
+||Date of operation|15 December 1998|
