@@ -448,7 +448,7 @@
 
 REVISED EDITION 1985
 
-(30th March 1985)
+(30th March 1987)
 
 An Act to provide for monogamous marriages and for the solemnization and registration of such marriages; to amend and consolidate the law relating to divorce, the rights and duties of married persons, the maintenance of wives and children and the punishment of offences against women and girls; and to provide for matters incidental thereto.
 
@@ -2296,7 +2296,7 @@ Service of petition
 
 (2) There shall be no appeal on the subject of costs only.
 
-(3) [Deleted by Act 2/94 wef 08/04/1994 wef 08/04/1994 vide S173/94]
+(3) [Deleted by Act 2/94 wef 08/04/1994 wef 08/04/1994 wef 08/04/1994 wef 08/04/1994 vide S173/94]
 
 ### Power to allow intervention on terms
 
@@ -3170,3 +3170,9 @@ This Legislative History is provided for the convenience of users of the Womenâ€
 |||(Bill No. 12/93 published on 27 February 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
+|12.|**Act 2 of 1994â€”Judicial Committee (Repeal) Act 1994**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 January 1994|
+|||(Bill No. 2/94 published on 18 January 1994)|
+||Date of Second and Third Readings|23 February 1994|
+||Date of commencement|8 April 1994|
