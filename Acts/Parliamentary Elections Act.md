@@ -2773,3 +2773,5 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of Presentation of Select Committee Report|5 May 1988 (Parl. 3 of 1988)|
 ||Date of Third Reading|18 May 1988|
 ||Date of commencement|1 June 1988|
+|32.|**G. N. No. S 146/1988—Parliamentary Elections (Substitution of First Schedule) Regulations 1988**|
+||Date of commencement|16 June 1988|
