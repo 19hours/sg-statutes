@@ -1480,3 +1480,8 @@ This Legislative History is provided for the convenience of users of the Trustee
 ||Date Committed to Select Committee|Parl. 3 of 1991 presented to Parliament on 17 June 1991|
 ||Date of Third Reading|28 June 1991|
 ||Date of commencement|30 August 1991|
+|12.|**Act 23 of 1992—Trustees (Amendment) Act 1992**|
+||Date of First Reading|27 February 1992|
+|||(Bill No. 18/92 published on 28 February 1992)|
+||Date of Second and Third Readings|29 May 1992|
+||Date of commencement|26 June 1992|
