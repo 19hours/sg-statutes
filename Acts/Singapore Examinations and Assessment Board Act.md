@@ -1,16 +1,14 @@
-**Singapore Examinations and Assessment Board Act 2003**
+**Singapore Examinations and Assessment Board Act**
 
-**(No. 32 of 2003)**
+**(CHAPTER 299A)**
 
 **Table of Contents**
 
 [**Long Title**](#Singapore-Examinations-and-Assessment-Board-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -56,7 +54,7 @@
 
 - [19 Financial year](#Financial-year)
 
-- [20 Annual Estimates](#Annual-Estimates)
+- [20 Annual estimates](#Annual-estimates)
 
 - [21 Funds of Board](#Funds-of-Board)
 
@@ -80,7 +78,7 @@
 
 - [31 Presentation of financial statements and auditor’s report to Parliament](#Presentation-of-financial-statements-and-auditor’s-report-to-Parliament)
 
-[**Part VI TRANSFER OF PROPERTY, assets, LIABILITIES AND EMPLOYEES**](#Part-VI)
+[**Part VI TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES**](#Part-VI)
 
 - [32 Transfer to Board of property, assets and liabilities](#Transfer-to-Board-of-property-assets-and-liabilities)
 
@@ -116,53 +114,33 @@
 
 [**THE SCHEDULE National Examinations**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Singapore Examinations and Assessment Board Act
 
-ACTS SUPPLEMENT
+(CHAPTER 299A)
 
-Published by Authority
+(Original Enactment: Act 32 of 2003)
 
-NO. 1]
+REVISED EDITION 2004
 
-Friday, February 13
-
-[2004
-
-The following Act was passed by Parliament on 11th November 2003 and assented to by the President on 28th November 2003:—
-
-Singapore Examinations and Assessment Board Act 2003
-
-(No. 32 of 2003)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-28th November 2003.
-
-Date of Commencement: 1st April 2004
+(31st December 2004)
 
 An Act to establish and incorporate the Singapore Examinations and Assessment Board, to provide for its functions, duties and powers, and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2004]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Singapore Examinations and Assessment Board Act 2003 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Singapore Examinations and Assessment Board Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “assessment” means any test, examination or other method of assessing the level of proficiency, aptitude, skill, knowledge or understanding of a person in any subject matter, other than any of the national examinations;
 
@@ -306,9 +284,9 @@ and in so doing, the Board shall be deemed to be fulfilling the purposes of this
 
 (e) become a member or affiliate of any international body the functions, objects or duties of which are similar to those of the Board;
 
-(f) enter into such contracts as may be necessary or expedient for the purpose of discharging its functions and duties;
+(f) enter into such contracts as may be necessary or expedient for the purpose of discharging its functions or duties;
 
-(g) acquire or dispose of, in accordance with the provisions of this Act, any property, whether movable or immovable, which the Authority thinks necessary or expedient for the purpose of carrying out its functions and duties;
+(g) acquire or dispose of, in accordance with the provisions of this Act, any property, whether movable or immovable, which the Board thinks necessary or expedient for the purpose of carrying out its functions or duties;
 
 (h) receive grants, donations, gifts, subsidies or contributions from any source, or raise funds by all lawful means and apply such funds for any of its functions or duties;
 
@@ -326,7 +304,7 @@ and in so doing, the Board shall be deemed to be fulfilling the purposes of this
 
 13\.—(1) The Minister may give such directions, not inconsistent with the provisions of this Act, as to the performance of the functions and duties and the exercise of its powers by the Board.
 
-(2) The Board shall give effect to any direction given under paragraph (1).
+(2) The Board shall give effect to any direction given under subsection (1).
 
 ### Committees
 
@@ -382,19 +360,19 @@ FINANCIAL PROVISIONS
 
 ### Financial year
 
-19\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year except that the first financial year of the Board shall begin on the appointed day and end on 31st March of the succeeding year.
+19\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year except that the first financial year of the Board shall begin on 1st April 2004 and end on 31st March of the succeeding year.
 
-### Annual Estimates
+### Annual estimates
 
-20\.—(1) The Board shall in every financial year prepare or cause to be prepared and shall adopt annual estimates of income and expenditure of the Board for the ensuing financial year.
+20\.—(1) The Board shall, in every financial year, prepare or cause to be prepared and shall adopt annual estimates of income and expenditure of the Board for the ensuing financial year.
 
-(2) Supplementary estimates may be adopted by the Board at any of its meeting.
+(2) Supplementary estimates may be adopted by the Board at any of its meetings.
 
 (3) A copy of all annual and supplementary estimates shall, upon their adoption by the Board, be sent immediately to the Minister.
 
 ### Funds of Board
 
-21\. The Funds of the Board shall consist of —
+21\. The funds of the Board shall consist of —
 
 (a) all moneys transferred to the Board under section 32;
 
@@ -442,13 +420,13 @@ FINANCIAL PROVISIONS
 
 27\. The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[45/2004 wef 15/12/2004]
+[45/2004]
 
 ### Accounts
 
 28\. The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that —
 
-(a) all payments out of its funds are correctly made and properly authorised; and
+(a) all payments out of its funds are properly authorised and correctly made; and
 
 (b) adequate control is maintained over the assets of, or in the custody of, the Board and over the expenditure incurred by the Board.
 
@@ -456,7 +434,7 @@ FINANCIAL PROVISIONS
 
 29\.—(1) The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General (referred to in this Act as the auditor).
 
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Act 2004 (Act 4 of 2004).
 
 (3) The Board shall, as soon as practicable after the close of each financial year, prepare and submit financial statements in respect of that financial year to the auditor who shall audit and report on them.
 
@@ -488,7 +466,7 @@ FINANCIAL PROVISIONS
 
 (b) otherwise hinders, obstructs or delays the auditor or an authorised person in the performance of his duties or the exercise of his powers under this Act,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a fine not exceeding $100 for every day or part thereof for which the offence continues after conviction.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
 ### Presentation of financial statements and auditor’s report to Parliament
 
@@ -500,11 +478,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VI
 
-TRANSFER OF PROPERTY, assets, LIABILITIES AND EMPLOYEES
+TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer to Board of property, assets and liabilities
 
-32\.—(1) As from the appointed day —
+32\.—(1) As from 1st April 2004 —
 
 (a) such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Examinations Division;
 
@@ -518,19 +496,19 @@ shall be transferred to and shall vest in the Board without further assurance, a
 
 (3) Any immovable property to be transferred to and vested in the Board under subsection (1) shall be held by the Board upon such tenure and subject to such terms and conditions as the President may determine.
 
-(4) Every proceedings in respect of the transferred properties by or against the Government which are pending on the appointed day may be continued, completed and enforced by or against the Board.
+(4) Every proceedings in respect of the transferred properties by or against the Government which are pending on 1st April 2004 may be continued, completed and enforced by or against the Board.
 
-(5) Every agreement relating to any of the transferred properties to which the Government was a party immediately before the appointed day, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that day as if —
+(5) Every agreement relating to any of the transferred properties to which the Government was a party immediately before 1st April 2004, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that date as if —
 
 (a) the Board had been a party to such an agreement; and
 
-(b) for any reference to the Government there were substituted in respect of anything to be done on or after the appointed day a reference to the Board.
+(b) for any reference to the Government there were substituted in respect of anything to be done on or after 1st April 2004 a reference to the Board.
 
 (6) In this section, “Examinations Fund” means the Fund established under regulation 90(1) of the Education (Schools) Regulations (Cap. 87, Rg 1).
 
 ### Transfer of employees
 
-33\.—(1) As from the appointed day, such persons or categories of persons as the Minister may determine who, immediately before that day, were employed by the Government in the Examinations Division shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+33\.—(1) As from 1st April 2004, such persons or categories of persons as the Minister may determine who, immediately before that date, were employed by the Government in the Examinations Division shall be transferred to the service of the Board on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) If any question arises as to whether any person or category of persons has been transferred to the service of the Board under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the person or category of persons was or was not so transferred.
 
@@ -550,21 +528,21 @@ shall be transferred to and shall vest in the Board without further assurance, a
 
 ### No benefits in respect of abolition or reorganisation of office
 
-35\. Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Board under section 33 shall be entitled to claim any benefit under that Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Board.
+35\. Notwithstanding the provisions of the Pensions Act, no person who is transferred to the service of the Board under section 33 shall be entitled to claim any benefit under that Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Board.
 
 ### Existing contracts
 
-36\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Government is a party and relating to the Examinations Division or to any person transferred to the service of the Board under section 33 shall continue in force on and after that day and shall be enforceable by or against the Board as if the Board had been named therein or had been a party thereto instead of the Government.
+36\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st April 2004 to which the Government is a party and relating to the Examinations Division or to any person transferred to the service of the Board under section 33 shall continue in force on and after that date and shall be enforceable by or against the Board as if the Board had been named therein or had been a party thereto instead of the Government.
 
 ### Continuation and completion of disciplinary proceedings and other legal proceedings
 
-37\.—(1) Where, on the appointed day, any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Board, the proceedings shall be carried on and completed by the Board.
+37\.—(1) Where, on 1st April 2004, any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Board, the proceedings shall be carried on and completed by the Board.
 
-(2) Where, on the appointed day, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that day.
+(2) Where, on 1st April 2004, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
 (3) Any order, ruling or direction made by a committee under this section shall be treated as an order, a ruling or a direction of the Board and have the same force or effect as if it had been made by the Board pursuant to the authority vested in the Board under this Act.
 
-(4) All proceedings or causes of action pending or existing immediately before the appointed day by or against the Government in respect of the Examinations Division may be continued, completed and enforced by or against the Board.
+(4) All proceedings or causes of action pending or existing immediately before 1st April 2004 by or against the Government in respect of the Examinations Division may be continued, completed and enforced by or against the Board.
 
 ### Misconduct or neglect of duty by employee before transfer
 
@@ -612,7 +590,7 @@ shall disclose any information relating to the affairs of the Board or of any ot
 
 “officer” —
 
-(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body or a person purporting to act in any such capacity; or
+(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate or a person purporting to act in any such capacity; or
 
 (b) in relation to an unincorporated association (other than a partnership), means the president, the secretary and members of the committee of the association and includes persons holding positions analogous to that of president, secretary or member of a committee;
 
@@ -654,11 +632,34 @@ Sections 2 and 44
 
 National Examinations
 
-(1) Primary School Leaving Examination (PSLE)
+1\. Primary School Leaving Examination (PSLE)
 
-(2) Singapore — Cambridge GCE “O” — Level Examination
+2\. Singapore — Cambridge GCE ‘O’ — Level Examination
 
-(3) Singapore — Cambridge GCE “N” — Level Examination
+3\. Singapore — Cambridge GCE ‘N’ — Level Examination
 
-(4) Singapore — Cambridge GCE “A” — Level Examination\.
+4\. Singapore — Cambridge GCE ‘A’ — Level Examination.
 
+## LEGISLATIVE HISTORY
+
+Singapore Examinations and Assessment Board Act
+
+(CHAPTER 299A)
+
+This Legislative History is provided for the convenience of users of the Singapore Examinations and Assessment Board Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 32 of 2003—Singapore Examinations and Assessment Board Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 31/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|1 April 2004|
+|2.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
+|3.|**2004 Revised Edition—Singapore Examinations and Assessment Board Act**|
+||Date of operation|31 December 2004|
