@@ -38,6 +38,8 @@
 
 - [10A Assessors to assist High Court](#Assessors-to-assist-High-Court)
 
+- [10B When High Court is open](#When-High-Court-is-open)
+
 - [11 Sittings of High Court and distribution of business](#Sittings-of-High-Court-and-distribution-of-business)
 
 - [12 Vacations](#Vacations)
@@ -390,6 +392,18 @@ General
 
 (4) Where any person is proposed to be summoned as an assessor, objection to him either personally or in respect of his qualification, may be taken by any party in the prescribed manner.
 
+### When High Court is open
+
+10B\.—(1) Subject to subsection (2), the High Court shall sit on every day of the year except on Sundays and public holidays.
+
+(2) Notwithstanding subsection (1), a Judge may lawfully sit on a Sunday or public holiday or during a vacation prescribed under section 12 if —
+
+(a) the Chief Justice has directed the Judge to sit on that day or during that vacation; or
+
+(b) in the opinion of the Judge, the business to be despatched is extremely urgent.
+
+[8/98 wef 10/04/1998]
+
 ### Sittings of High Court and distribution of business
 
 11\.—(1) The High Court shall sit at such times and at such places as the Chief Justice shall from time to time appoint.
@@ -642,7 +656,7 @@ the Court of Appeal shall have all the authority and jurisdiction of the court o
 
 ### Sittings of Court of Appeal
 
-32\.—(1) The Court of Appeal shall sit on such dates and at such places as the Chief Justice may from time to time appoint.
+32\.—(1) The Court of Appeal shall sit on such dates (whether or not a Sunday or public holiday or during a vacation prescribed under section 12) and at such places as the Chief Justice may from time to time appoint.
 
 (2) The Chief Justice may cancel or postpone any sitting of the Court of Appeal which has been appointed under subsection (1).
 
@@ -754,7 +768,9 @@ CRIMINAL JURISDICTION OF COURT OF APPEAL
 
 43\. [Repealed by Act 16/93]
 
-44\.—(1) [Deleted by Act 16/93]
+44\. 
+
+—(1) [Deleted by Act 16/93]
 
 (2) An appeal by a person convicted shall be either against the conviction or against the sentence or against both:
 
@@ -1094,9 +1110,17 @@ Offices
 
 ### Registry to be open throughout the year
 
-72\.—(1) Subject to Rules of Court, the Registry of the Supreme Court shall be open on every day of the year except Sundays and public holidays.
+72\.—(1) The Registry of the Supreme Court shall be open on every day of the year except on Sundays and public holidays.
 
-(2) The office hours shall be from 10 a.m. to 4 p.m. except on Saturdays, when the Registry shall close at 1 p.m.
+(2) Notwithstanding subsection (1), the Registrar may lawfully sit or carry out the business of the Registry on a Sunday or public holiday if —
+
+(a) the Chief Justice has directed the Registrar to do so on that day; or
+
+(b) in the opinion of the Registrar, the business to be despatched is extremely urgent.
+
+(3) The office hours of the Registry shall be such times as the Chief Justice may from time to time direct.
+
+[8/98 wef 10/04/1998]
 
 ## PART VII
 
@@ -1465,3 +1489,9 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 6/97)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997 (item (11) of the First Schedule — amendment of Supreme Court of Judicature Act)|
+|13.|**Act 8 of 1998—Holidays Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|14 January 1998|
+|||(Bill No. 1/98)|
+||Date of Second and Third Readings|19 February 1998|
+||Date of commencement|10 April 1998 (section 11(6) — amendment of Supreme Court of Judicature Act)|
