@@ -1996,177 +1996,7 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1. Subject to paragraphs 2 to 7, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
-
-55 Years of Age and below
-
-Above 55 but not more than 60 Years of Age
-
-Above 60 but not more than 65 Years of Age
-
-Above 65 Years of Age
-
-Total amount of the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-Contributions payable by the employer for the calendar month.
-
-Amount recoverable from the employee’s wages for the calendar month.
-
-(1)
-
-(2)
-
-(3)
-
-(4)
-
-(5)
-
-(6)
-
-(7)
-
-(8)
-
-(9)
-
-Not exceeding $50
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-NIL
-
-Exceeding $50 but not exceeding $200
-
-An amount equal to 20% of the total amount of the employee’s wages for the month.
-
-NIL
-
-An amount equal to 7.5% of the total amount of the employee’s wages for the month.
-
-NIL
-
-An amount equal to 7.5% of the total amount of the employee’s wages for the month.
-
-NIL
-
-An amount equal to 5% of the total amount of the employee’s wages for the month.
-
-NIL
-
-Exceeding $200 but not exceeding $363
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of of the difference between the total amount of the employee’s wages for the month and $200.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of ⅙ of the difference between the total amount of the employee’s wages for the month and $200.
-
-An amount equal to the sum of —
-
-An amount equal to the sum of 1/9 of the difference between the total amount of the employee’s wages for the month and $200.
-
-(a) 25% of the total amount of the employee’s wages for the month; and
-
-(a) 5% of the total amount of the employee’s wages for the month; and
-
-(a) 7.5% of the total amount of the employee’s wages for the month; and
-
-(a) 7.5% of the total amount of the employee’s wages for the month; and
-
-(a) 5% of the total amount of the employee’s wages for the month; and
-
-(b) ⅓ of the difference between the total amount of the employee’s wages for the month and $200.
-
-(b) ⅓ of the difference between the total amount of the employee’s wages for the month and $200.
-
-(b) of the difference between the total amount of the employee’s wages for the month and $200.
-
-(b) ⅙ of the difference between the total amount of the employee’s wages for the month and $200.
-
-(b) 1/9; of the difference between the total amount of the employee’s wages for the month and $200.
-
-Exceeding $363
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-An amount equal to the sum of —
-
-(a) 40% of the employee’s ordinary wages for the month subject to a maximum of $2,400; and
-
-(a) 20% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
-
-(a) 20% of the employee’s ordinary wages for the month subject to a maximum of $1,200; and
-
-(a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $750; and
-
-(a) 15% of the employee’s ordinary wages for the month subject to a maximum of $900; and
-
-(a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $450; and
-
-(a) 10% of the employee’s ordinary wages for the month subject to a maximum of $600; and
-
-(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
-
-(b) 40% of the amount of the additional wages payable to the employee in the month.
-
-(b) 20% of the amount of the additional wages payable to the employee in the month.
-
-(b) 20% of the amount of the additional wages payable to the employee in the month.
-
-(b) 12.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 15% of the amount of the additional wages payable to the employee in the month.
-
-(b) 7.5% of the amount of the additional wages payable to the employee in the month.
-
-(b) 10% of the amount of the additional wages payable to the employee in the month.
-
-(b) 5% of the amount of the additional wages payable to the employee in the month.
-
-[27/92; S 161/88; S 261/89; S 256/90; S 104/91; S 293/91; S 266/92; S 273/93]
+1.—
 
 2. In respect of an employee whose total wages from an employer for the preceding year exceed $100,000, no contributions shall be payable by that employer on the additional wages which are in excess of the following:
 
@@ -2256,8 +2086,6 @@ An amount equal to the sum of —
 
 (27) People’s Association.
 
-(28) Post Office Savings Bank of Singapore.
-
 (29) Preservation of Monuments Board.
 
 (30) Public Utilities Board.
@@ -2292,9 +2120,15 @@ An amount equal to the sum of —
 
 7. Contributions shall be payable for and recoverable from the wages of such employees who are —
 
-(a) pensionable employees at the rates prescribed for pensionable employees of the Government; and
+(a) pensionable employees at the rates prescribed for pensionable employees of the Government;
 
-(b) non-pensionable employees at the rates prescribed for non-pensionable employees of the Government.
+(b) non-pensionable employees at the rates prescribed for non-pensionable employees of the Government;
+
+(c) pensionable employees who were foreign employees and have become permanent residents at the rates prescribed in paragraphs 3A and 3B of the First Schedule to the Central Provident Fund (Government Employees) Regulations (Rg 23); and
+
+(d) non-pensionable employees who were foreign employees and have become permanent residents at the rates prescribed in paragraphs 3A and 3B of the Second Schedule to the Central Provident Fund (Government Employees) Regulations.
+
+[S 645/98 wef 01/01/1999]
 
 SECOND SCHEDULE
 
@@ -2768,3 +2602,5 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 August 1998|
 |100.|**G.N. No. S 258/2000—Central Provident Fund Act (Amendment of Third Schedule) Notification 2000**|
 ||Dates of commencement|1 September 1998 (paragraph 2(b))|
+|101.|**G. N. No. S 645/1998—Central Provident Fund Act (Amendment of Schedule) Notification 1998**|
+||Date of commencement|1 January 1999|
