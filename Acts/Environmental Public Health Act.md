@@ -302,7 +302,7 @@ REVISED EDITION 2002
 
 (31st December 2002)
 
-An Act to suppress common betting-houses, betting in public places and bookmaking.
+An Act to consolidate the law relating to environmental public health and to provide for matters connected therewith.
 
 [1st July 1987]
 
@@ -312,83 +312,183 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the Betting Act.
+1\. This Act may be cited as the Environmental Public Health Act.
 
 ### Interpretation
 
-2\.—(1) In this Act, unless there is something repugnant in the subject or context —
+2\. In this Act, unless the context otherwise requires —
 
-“access” includes access through the telephone, by post or by telegram;
+“Agency” means the National Environment Agency established under the National Environment Agency Act 2002 (Act 4 of 2002);
 
-“betting information centre” means any place kept or used for receiving or transmitting by telephone or other means any information relating to any horse-race or other sporting event for the purpose of betting or wagering in contravention of this Act;
+“authorised officer” means any person appointed by the Director-General under sections 3(2) and 4(2) to be an authorised officer;
 
-“bookmaker” means any person who, whether on his own account or as penciller, runner, employee or agent for any other person, receives or negotiates bets or wagers whether on a cash or on a credit basis and whether for money or money’s worth, or who in any manner holds himself out or permits himself to be held out in any manner as a person who receives or negotiates those bets or wagers; but does not include a club, its officers or employees or any other person or organisation operating or conducting a totalisator or parimutuel or any other system or method of cash or credit betting authorised under section 22;
+“building” includes any house, hut, shed or roofed enclosure, whether used for the purpose of human habitation or otherwise, and any structure, support or foundation connected to the foregoing;
 
-[13/2004 wef 01/05/2004]
+“construction site” means any premises on which works of the following description are being or are going to be carried out:
 
-“common betting-house” means —
+(a) the erection, construction, alteration, repair or maintenance of buildings, structures or roads;
 
-(a) any place kept or used for betting or wagering on any event or contingency of or relating to any horse-race or other sporting event to which the public or any class of the public has or may have access;
+(b) the breaking up or opening of, or boring under, any road or adjacent land in connection with the construction, inspection, maintenance or removal of works;
 
-(b) any place kept or used for habitual betting or wagering on any such event or contingency as aforesaid, whether the public has, or may have, access thereto or not; and
+(c) demolition or dredging works; or
 
-(c) any place used by a bookmaker for the purpose of receiving or negotiating bets or wagers on any such event or contingency as aforesaid whether the bets or wagers reach the bookmaker by the hand of the person placing the bet or his agent or the bookmaker’s agent or through the telephone or by post or by telegram or by any other means;
+(d) any other work of engineering construction;
 
-“equipment” has the same meaning as in the Telecommunications Act 1999;
+“dangerous substance” means —
 
-[43/1999 wef 01/12/1999]
+(a) aquafortis, vitriol, naphtha benzine, gunpowder, lucifer matches, nitroglycerine and petroleum;
 
-“penciller” means a person who helps a bookmaker to keep his accounts or record of bets in connection with horse-races;
+(b) any explosive within the meaning of the Arms and Explosives Act (Cap. 13);
 
-“place” means any house, office, room or building, and any place or spot, whether open or enclosed, and includes a ship, boat, or other vessel whether afloat or not, and any vehicle;
+(c) any radioactive material within the meaning of the Radiation Protection Act (Cap. 262);
 
-“runner” means a person employed by a bookmaker to collect and settle bets either on salary or on commission basis;
+(d) any substance which owing to its nature, composition or quantity constitutes a danger to property or human life or health; and
 
-“sporting event” includes any race, fight, game, sport or exercise;
+(e) such other substance which the Agency may, with the approval of the Minister, by notification in theGazette, declare to be dangerous substance for the purpose of this Act;
 
-“telecommunication system” has the same meaning as in the Telecommunications Act 1999.
+“Director-General” means the Director-General of Public Health appointed under section 3(1);
 
-[8/86]
+“disposal facility” includes a recycling facility, a refuse disposal ground, any place used for the deposit of refuse or waste, an incinerator or any plant, machinery or apparatus used for the processing or treatment of refuse or waste;
 
-[43/1999 wef 01/12/1999]
+“dwelling-house” includes any building or tenement or any part thereof which is used, constructed or adapted for use for human habitation;
 
-(2) A place shall be deemed to be used for a purpose if it is used for that purpose on only one occasion.
+“flat” means a horizontal stratum of any building or part thereof, whether such stratum is on one or more levels or is partially or wholly below the surface of the ground, which is used or intended to be used as a complete and separate unit for the purpose of habitation or business or for any other purpose, and which may be comprised in a “lot”, or in part of any “subdivided building” not shown in a registered “strata title plan” (the last 3 expressions within quotation marks having the same meaning as in the Land Titles (Strata) Act (Cap. 158));
 
-(3) A place shall be deemed to be used for habitual betting or wagering if betting or wagering is frequently carried on therein, notwithstanding that betting or wagering is not the primary purpose for which that place is normally used.
+“food” includes drink, chewing gum and other products of a like nature and use, and articles and substances used as ingredients in the preparation of food or drink or of such products, but does not include —
 
-(4) Every person who demises or lets for hire a place shall be deemed to be the owner thereof.
+(a) live animals or birds;
 
-(5) A common betting-house shall be deemed to be a common nuisance and contrary to law.
+(b) fodder or feeding stuffs for animals, birds or fish; or
+
+(c) articles or substances used only as drugs;
+
+“food establishment” means any place or any premises or part thereof used for the sale, or for the preparation or manufacture for sale, or for the storage or packing for sale, of food, whether cooked or not, intended for human consumption;
+
+“footway” includes footways and verandah-ways at the sides of streets;
+
+“funeral parlour” means any premises where corpses are received for the purpose of preparation for burial or cremation or for the carrying out of funeral rites or ceremonies prior to burial or cremation, and includes any premises used for such purpose by whatever name called;
+
+“garden refuse” means the refuse from garden and agricultural operations;
+
+“house” includes dwelling-house, warehouse, office, shop, school and any other building in which persons are employed;
+
+“industrial waste” means any waste whether solid, liquid or gaseous produced in the course of or is the waste product of any trade, business, manufacture or building construction, and includes toxic industrial waste and any dangerous substance;
+
+“infectious diseases” means —
+
+(a) any disease set out in the First or Second Schedule to the Infectious Diseases Act (Cap. 137); and
+
+(b) any skin disease which is likely to be contagious;
+
+“itinerant hawker” means any person who, with or without a vehicle, goes from place to place or from house to house carrying for sale or exposing for sale any food or goods of any kind;
+
+“latrine” includes bucket latrines, bore-hole latrines, water-seal latrines and pit-latrines;
+
+“market” means any place used for the sale of any meat, fish, fruit, vegetable, poultry, egg or other article of food, whether cooked or uncooked, for human consumption, and includes any premises therein used for the sale of goods or in any way used in conjunction or connection therewith or appurtenant thereto;
+
+“nuisance” means any act, omission or thing occasioning or likely to occasion injury, annoyance, offence, harm, danger or damage to the sense of sight, smell or hearing, or which is or is likely to be injurious or dangerous to health or property;
+
+“occupier” means the person in occupation of any premises or having the charge, management or control thereof either on his own account or as agent of another person, but does not include a lodger; and, in relation to any part of any premises, different parts of which are occupied by different persons, means the person in occupation or having the charge, management or control of that part;
+
+“operator”, in relation to a public service vehicle, means the owner, ticket conductor, driver, ticket inspector or person who is in charge or in control of the public service vehicle;
+
+“owner”, in relation to —
+
+(a) any premises, means the person for the time being receiving the rent of the premises, whether on his own account or as agent or trustee or as receiver, or who would receive the rent if the premises were let to a tenant, and includes the person whose name is entered in the Valuation List prepared under section 10 of the Property Tax Act (Cap. 254);
+
+(b) any premises where building works are carried out, includes the developer;
+
+(c) the common property of any subdivided building, includes the management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the building, or the person receiving any rent or charge for the maintenance of that common property or any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131); and
+
+[Act 47 of 2004 wef 01/04/2005]
+
+(d) the limited common property of any subdivided building, includes the subsidiary management corporation established under the Building Maintenance and Strata Management Act 2004 having control of the limited common property, or the person receiving any rent or charge for the maintenance of that limited common property;
+
+[Act 47 of 2004 wef 01/04/2005]
+
+“place of public resort” means a building or a defined or an enclosed place used or constructed or adapted to be used either ordinarily or occasionally as a church, mosque, temple or other place where public worship is or religious ceremonies are performed, not being merely a dwelling-house so used, or as a cinema, theatre, public hall, or as a public place of assembly for persons admitted thereto by ticket or otherwise, or used or constructed or adapted to be used either ordinarily or occasionally for any other public purpose;
+
+“premises” means messuages, buildings, lands, easements and hereditaments of any tenure, whether open or enclosed, whether built on or not, whether public or private, and whether maintained or not under statutory authority, and includes any place or structure, or any part thereof used or intended to be used for human habitation or for any other purpose whatsoever;
+
+“private market” means a market other than a public market;
+
+“private street” means any street not being a public street;
+
+“public market” means a market owned, leased or maintained by the Government;
+
+“public place” includes any place whether privately owned or not to which the public has access;
+
+“public service vehicle” has the same meaning as in the Road Traffic Act (Cap. 276);
+
+“public street” means any street over which the public has a right of way and any street vested in the Government;
+
+“public waste collector licensee” means a person designated by the Director-General under section 31(3);
+
+“recycling facility” means any premises used for the sorting, segregation, processing or treatment of refuse, waste or any other material or thing for the primary purpose of recycling or reuse;
+
+“sale” includes barter, exchange, import and export and also includes offering or attempting to sell, or causing or allowing to be sold, or exposing for sale, or receiving or sending or delivering for sale, or supplying any food, drink or goods where consideration is to be received by the supplier for such supply either specifically or as part of a service contracted for, or having in possession for sale or having in possession any food, drink or goods knowing that the same is likely to be sold or offered or exposed for sale and “sell” shall be construed accordingly;
+
+“sanitary conveniences” includes latrines, toilets, urinals and water-closets;
+
+“showboard” includes showcase and any description of container used for the display of any article or thing;
+
+“stable refuse” means the dung or urine of birds, poultry or animals and the sweepings or refuse or drainage from any stables or cattle-sheds or places for keeping animals, birds or poultry;
+
+“stall” means any table, shed, showboard, vehicle or receptacle or any other means used or intended to be used for the purpose of selling food or goods of any kind and includes any structure affixed thereto by way of roof, support or flooring;
+
+“street” includes any road, flyover, square, footway, back-lane or passage, whether a thoroughfare or not, over which the public has a right of way, and also the way over any public bridge, and also includes any road, car park, field, grass verge, footway or passage, open court or open alley used or intended to be used as a means of access to 2 or more holdings, whether the public has a right of way thereover or not; and all channels, drains, ditches and reserves at the side of any street shall be deemed to be part of the street;
+
+“swimming pool” means any swimming pool —
+
+(a) to which the public has access, whether or not admission is gained by payment; and
+
+(b) managed, operated or run by any hotel, club, association or other organisation;
+
+“toilet” means a facility for urinating and defecating which is water flushed, and which connects, directly or otherwise, with a private sewage disposal system or with the public sewage disposal system;
+
+“toxic industrial waste” means any industrial waste which owing to its nature, composition or quantity constitutes a danger to human health or the environment or which contains or may produce pathogens of transmissible diseases;
+
+“vehicle” means any vehicle whether mechanically propelled or otherwise and includes a barrow and a cart;
+
+“waste” includes —
+
+(a) any substance which constitutes a scrap material or an effluent or other unwanted surplus substance arising from the application of any process; and
+
+(b) any substance or article which requires to be disposed of as being broken, worn out, contaminated or otherwise spoiled,
+
+and anything which is discarded or otherwise dealt with as if it were waste shall be presumed to be waste unless the contrary is proved;
+
+“waste collector licensee” means any person who is licensed under section 31 to collect and remove refuse and waste;
+
+“waste disposal licensee” means any person who is licensed under section 23 to construct, establish, maintain or operate any disposal facility;
+
+“work place” means any premises or place used for any industrial, trade, commercial or manufacturing purposes and includes all construction sites, work sites and farms.
+
+[2/96; 22/99; 4/2002]
 
 ## PART II
 
 ADMINISTRATION
 
-### Offences relating to common betting-houses and betting information centres
+### Appointment of Director-General and authorised officers
 
-3\.—(1) Any person who —
+3\.—(1) The Minister may, by notification in theGazette, appoint any person to be the Director-General of Public Health who shall be responsible for the administration of this Act and any other written law, subject to the general or special directions of the Minister.
 
-(a) being the owner or occupier, or having the use temporarily or otherwise thereof, keeps or uses a place as a common betting-house or betting information centre;
+[4/2002]
 
-(b) permits a place of which he is the owner or occupier or of which he has the use temporarily or otherwise, to be kept or used as a common betting-house or betting information centre;
+(2) The Director-General may in writing appoint any public officer or any officer of the Agency or of any statutory authority to be an authorised officer for the purposes of this Act.
 
-(c) has the care or management of or in any manner assists in the management or in the business of, a place kept or used as a common betting-house or betting information centre;
+[4/2002]
 
-(d) receives directly or indirectly any money or valuable thing, for or in respect of any bet or wager on any such event or contingency, as is mentioned in this Act, in a common betting-house or betting information centre; or
+### Delegation of power by Director-General
 
-(e) announces, exhibits or publishes, or causes to be announced, exhibited or published, either orally or by means of any letter, circular, telegram, placard, handbill, card, print, writing, design, sign, advertisement or otherwise that a place is opened, kept or used as a common betting-house or betting information centre within or without Singapore, or in any other manner invites or solicits any person to commit a breach of any of the provisions of this Act,
+4\.—(1) The Director-General may, with the approval of the Minister, delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer, subject to such conditions or limitations as the Director-General may specify.
 
-shall be guilty of an offence and shall be liable on conviction to a fine of not less than $20,000 and not more than $200,000 and shall also be punished with imprisonment for a term not exceeding 5 years.
+[4/2002]
 
-[8/86]
+(2) The Director-General may, with the approval of the Minister, appoint any person set out in the first column of the Fourth Schedule as authorised officer for the purposes of exercising all or any of the powers under this Act that are set out in the second column of that Schedule, subject to such conditions or limitations as the Director-General may specify.
 
-(2) Any person who occupies or has the use temporarily of a place which is kept or used by another person as a common betting-house or betting information centre shall be presumed until the contrary is proved to have permitted that place to be so kept or used.
-
-### Advancing money for conducting business of common betting-house
-
-4\. Any person who advances or furnishes money for the purpose of establishing or conducting the business of a common betting-house shall be guilty of an offence and shall be liable on conviction to a fine of not less than $10,000 and not more than $100,000 and shall also be punished with imprisonment for a term not exceeding 5 years.
-
-[8/86]
+[4/2002]
 
 ## PART III
 
@@ -396,155 +496,295 @@ PUBLIC CLEANSING
 
 Cleaning of Streets
 
-### Betting in a common betting-house
+### Director-General to cause public streets to be cleansed
 
-5\.—(1) Except as permitted by an exemption under section 22, any person who bets or wagers in a common betting-house, or with a bookmaker in any place or by any means, or who for the purpose of betting or wagering loiters in any place to which the public has or may have access shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+5\. The Director-General shall cause public streets, including the footways thereof, to be properly swept and cleansed and watered so far as is reasonably practicable, and refuse and filth of every sort found thereon to be collected and removed.
 
-[8/86]
+[4/2002]
 
-(2) A person found in a common betting-house, or found escaping therefrom on the occasion of its being entered under this Act shall be presumed, until the contrary is proved, to be or to have been betting or wagering therein.
+### Duty of owner and occupier to keep clean private streets, etc., abutting on their premises
 
-(3) Any person who —
+6\.—(1) The owner and the occupier of any premises abutting upon any private street to which they have access or the right of access from such premises shall cause such portion of the street as fronts, adjoins or abuts on their premises and up to the centre thereof including the footways to be properly swept and cleansed and watered so far as is reasonably practicable, and refuse and filth of every sort found thereon to be collected and removed.
 
-(a) acts as a bookmaker in any place;
+(2) The owner and the occupier of any premises shall cause the immediate vicinity of such premises, including the footways and backyards abutting thereon, and the airwells, courtyards and quadrangles thereof to be kept clean and free of refuse, filth or other matter or any accumulation of water.
 
-(b) for the purpose of bookmaking or settling bets loiters in any common betting-house or in any place to which the public has or may have access; or
+(3) The Director-General may, by notice in writing, require any person upon whom any duty is cast under subsection (1) or (2) to sweep and cleanse and water such street and to collect and remove the refuse, filth and other matter found thereon at such time or times as are stated in the notice.
 
-(c) assists, by giving warning or otherwise, any person committing an offence under this Act to evade arrest or detection,
+[4/2002]
 
-shall be guilty of an offence and shall be liable on conviction to a fine of not less than $20,000 and not more than $200,000 and shall also be punished with imprisonment for a term not exceeding 5 years.
+### Dustbins in streets
 
-(4) When any person is convicted of an offence under this section all books, accounts, documents, telegrams, writings, circulars, cards or other articles used as a subject or means of betting or wagering, or in connection therewith, and all moneys or securities for money found in his possession which a Magistrate’s Court or District Court is of opinion were used or intended to be used for betting or wagering shall be declared by that Court to be forfeited to the State and shall be dealt with accordingly.
+7\.—(1) The Director-General may —
 
-(5) An offence under subsection (3) shall be a non-bailable seizable offence and any person making an arrest for such an offence may seize and detain any articles liable to be forfeited.
+(a) cause any number of dustbins or other convenient receptacles wherein refuse may be temporarily deposited to be provided and placed in proper and convenient locations in public streets and private streets and in such other places as he may think fit; and
 
-(6) Notwithstanding anything to the contrary in section 352 of the Criminal Procedure Code [Cap. 68] a police officer shall have power to release on bail a person accused of an offence under subsection (3).
+(b) cause vehicles to go round to collect the refuse.
 
-[21/73]
+[4/2002]
 
-### Penalty for unlawful announcement of information on horse-race, etc.
-
-6\. Any person who for the purpose of betting or wagering in contravention of this Act announces or publishes or causes to be announced or published in any manner information relating to any horse-race or other sporting event shall be guilty of an offence and shall be liable on conviction to a fine of not less than $5,000 and not more than $50,000 and shall also be punished with imprisonment for a term not exceeding 2 years.
-
-[8/86]
-
-### Money paid recoverable
-
-7\.—(1) Any money or valuable thing received by any person convicted under section 5(3) as a deposit on or in settlement of any bet or wager shall be deemed to have been received to or for the use of the person from whom it was received.
-
-(2) Such money or valuable thing, or the value thereof, may be recovered accordingly with full costs of suit in any court of competent jurisdiction.
+(2) No person shall deposit, or cause or permit to be deposited any dung, nightsoil, human excreta, industrial waste, stable refuse or garden refuse in any such dustbin or receptacle, except that such garden refuse comprising grass, small twigs and the like as may be reasonably accommodated in those dustbins or receptacles may be placed therein.
 
 Removal of Refuse
 
-### Presumption against person accepting or receiving stakes, etc.
+### Director-General may apply systems for collection and removal of refuse, etc.
 
-8\.—(1) Any person accepting or receiving bets, stakes or wagers or found in possession of any books, accounts, documents, telegrams, writings, circulars, cards or other articles which are used or appear to have been used or intended to be used in connection with or which relate or appear to relate to the business of a bookmaker shall be presumed until the contrary is proved to be acting as a bookmaker.
+8\.—(1) The Director-General may at any time apply to all premises within such area as he may determine any system which he thinks fit for the collection and removal of refuse and waste of every description from those premises.
 
-(2) Any person who settles or pays money or money’s worth in respect of bets or wagers relating to a horse-race or any other kind of race shall also be presumed until the contrary is proved to be acting as a bookmaker.
+[2/96; 4/2002]
 
-### Presumptions
+(2) In any area to which a system for the collection and removal of refuse and waste is applied under subsection (1) —
 
-9\.—(1) Where in any proceedings under this Act it is proved that any place entered under this Act was provided with 3 or more telephones or telephone lines and —
+(a) no person other than a waste collector licensee whose specified area in its licence includes premises in the area shall collect or remove any refuse or waste; and
 
-(a) was installed with any telecommunication system or equipment which was arranged in such a manner as to suggest that it is or was being used for the receiving or transmitting of any information relating to any horse-race or other sporting event notwithstanding that such telecommunication system or equipment has been disconnected or tampered with;
+(b) every occupier of such premises as the Director-General may designate in the area shall use the service of collecting and removing refuse or waste provided by a public waste collector licensee whose specified area in its licence includes those designated premises.
 
-(b) any person found in a place so entered was erasing, tampering with or destroying any writing, sign, mark or symbol relating to the results or dividends payable on any horse-race or other sporting event; or
+[2/96; 4/2002]
 
-(c) two or more telephone calls were received at any such place enquiring about the results, commentary or dividends payable on any horse-race or other sporting event,
+### Removal of industrial waste, stable refuse, etc.
 
-it shall be presumed, until the contrary is proved, that the place is a betting information centre and that it is so kept, used or permitted to be used by the owner or occupier thereof, and that any other person found in such place is assisting in the business of the betting information centre.
+9\.—(1) The Director-General may, by notice in writing, require any person carrying on a trade, manufacture or business or occupying any stable, cattle-shed or place for keeping sheep, goats, swine or poultry, to remove periodically industrial waste or stable refuse to a disposal facility for disposal.
 
-[8/86]
+[4/2002]
 
-(2) Where in any proceedings under this Act it is proved that —
+(2) Any person upon whom a notice has been served under subsection (1) shall, if so required by the Director-General, furnish evidence that he has complied with the notice.
 
-(a) any document or thing designed, adapted, or intended for use or used for the purpose of betting or wagering was found in any place entered under this Act or upon any person found in such place;
+[4/2002]
 
-(b) any person found in a place entered under this Act was erasing, tampering with or destroying any writing, sign, mark or symbol relating to bets or wagers on any horse-race or other sporting event; or
+### Director-General may require owner and occupier to provide dustbins and refuse bins, etc.
 
-(c) two or more telephone calls were received at any place entered under this Act and the calls relate to the receiving or negotiating of bets or wagers or to any results, commentary or dividends payable on any horse-race or other sporting event,
+10\.—(1) The Director-General may, by notice in writing, require the owner or occupier of any premises to provide, construct or reconstruct at the expense of the owner or occupier and within such period as may be specified in the notice —
 
-it shall be presumed, until the contrary is proved, that the place is a common betting-house and that it is so kept, used or permitted to be used by the owner or occupier thereof, and that any other person found in such place in possession of any such document or thing as is referred to in paragraph (a) is assisting in the management of such common betting-house.
+(a) dustbins or other convenient receptacles, which shall conform to such specifications as the Director-General may require, to be placed in appropriate locations within the premises of the owner or occupier as the Director-General thinks fit for the deposit of refuse and rubbish from those premises; and
 
-### Court to make order for demolition of structural contrivances for facilitating betting
+(b) refuse bin centres or refuse bin compartments, which shall conform to such specifications as the Director-General may require, to be sited in appropriate situations within the premises as the Director-General thinks fit, and wherein or whereon shall be placed the dustbins and other receptacles referred to in paragraph (a).
 
-10\. Whenever it appears to the court upon the trial of any offence under this Act that the place in or in respect of which the offence is alleged to have been committed is a common betting-house and that the place is fitted or provided with any of the means or contrivances mentioned in section 9, the court shall order the demolition and destruction of such of them as consist of staircases, doors, partitions, ladders, planks, platforms, posts, palings, bars, bolts and other things which appear to the court to have been specially erected or constructed for the purpose of facilitating the carrying on of betting on the premises.
+[4/2002]
 
-### Search warrant against premises used as common betting-house
+(2) Where any dustbins or receptacles have been provided under subsection (1), the Director-General may, by notice in writing, require the owner or occupier of any premises concerned to convey as often as may be necessary refuse from such premises to a disposal facility.
 
-11\.—(1) A Magistrate or a police officer not below the rank of assistant superintendent on being satisfied, upon written information, and after any further inquiry which he thinks necessary, that there is good reason to believe that any place is kept or used as a common betting-house may by warrant under his hand or by writing under his hand, as the case may be, authorise any person therein named, or any police officer, with such assistance, and by such force, as is necessary, by night or by day, to enter or go to that place and to search the place and all persons found therein, and to seize all books, documents, telegrams, writings, circulars, cards or other articles reasonably supposed to have been used or intended to be used as a subject or means of betting or wagering, or in connection therewith, and all moneys and securities for money which are found in that place or on any such persons, and also to detain all such persons until they and that place have been searched.
+[4/2002]
 
-(2) If any of the things or circumstances which are by this Act made presumptive evidence of guilt are found in such place, or on any person therein, every person therein shall be arrested and taken before a Magistrate’s Court or District Court to be dealt with according to law.
+### Maintenance of refuse lifts and chutes and chute chambers in buildings
 
-(3) All books, documents, telegrams, writings, circulars, cards or other articles used as a subject or means of betting or wagering, or in connection therewith, and all moneys or securities for money, found in a common betting-house, or on any persons found therein, or escaping therefrom, which a Magistrate’s Court or District Court is of opinion were used or intended to be used for betting or wagering, shall be declared by that Court to be forfeited to the State, and shall be dealt with accordingly.
+11\.—(1) The owner of a building or part thereof served by a refuse lift which is wholly or partly used for the conveyance of refuse or by a refuse chute or chute chamber shall be responsible for the maintenance, repair or replacement of the refuse lift, refuse chute or chute chamber.
 
-### Search warrant against persons in possession of betting instruments
+(2) The Director-General may, by notice in writing, require the owner of a building or part thereof served by a refuse lift, refuse chute and chute chamber to —
 
-12\. A Magistrate or a police officer not below the rank of assistant superintendent on being satisfied upon reasonable information and after any inquiry which he may think necessary, that there is good reason to believe that any books, documents, telegrams, writings, circulars, cards or other articles used as a subject or means of betting or wagering, or in connection therewith, are likely to be found on any person may by warrant under his hand or by writing under his hand, as the case may be, order any police officer to arrest and search that person and if any such article is found upon his person he shall be taken before a Magistrate’s Court or District Court to be dealt with according to law.
+(a) maintain, repair or replace the refuse lift, refuse chute or chute chamber or both; or
 
-### Arrest and search upon suspicion
+(b) change the dimensions of such refuse lift, refuse chute or chute chamber as the Director-General may consider necessary.
 
-13\. Any police officer having reasonable suspicion that such articles as are mentioned in section 12 may be found on any person and having reasonable ground for believing that by delay in reporting the offender may escape, may arrest and search that person himself and if any such article is found upon the person searched the offender shall be taken before a police officer not below the rank of sergeant to be dealt with according to law.
+[4/2002]
 
-[21/73]
+### Occupier of house to remove refuse
 
-### Magistrate or police officer may himself enter and search
+12\.—(1) The occupier of any dwelling-house or premises who —
 
-14\. A Magistrate or a police officer not below the rank of assistant superintendent may himself do what he may under sections 11 and 12 authorise a police officer to do whenever the Magistrate or police officer not below the rank of assistant superintendent is competent to issue a warrant or written authority under those sections respectively and also in any of the following cases:
+(a) keeps or allows to be kept otherwise than in some proper receptacle, refuse or any noxious or offensive matter in any part of such house or premises;
 
-(a) if any person has, within the preceding 6 months, been convicted of having kept or used as a common betting-house the place proposed to be entered;
+(b) allows such receptacle to be in a filthy or noxious state; or
 
-(b) if the place proposed to be entered is occupied by a club or society which has not been exempted under section 22 and he has reason to believe that betting or wagering on horse-races, fights, games or sports is frequently carried on there;
+(c) neglects or fails to remove the refuse or noxious or offensive matter from such receptacle and to cleanse the same,
 
-(c) if he has personal knowledge of such facts and circumstances as satisfy him that there are sufficient grounds for a search under section 11; or
+shall be guilty of an offence.
 
-(d) if he receives the required information orally under such circumstances that the object of the search would in his opinion be defeated by the delay necessary for reducing the information to writing to enable a search warrant or written authority to be issued under section 11(1).
+(2) The receptacle referred to in subsection (1) shall be placed at such times and places as may be directed by the Director-General.
 
-### Evidence by police officer to be presumptive evidence
+[4/2002]
 
-15\. In all proceedings under this Act any evidence given by a police officer that any book, account, document, telegram, writing, circular, card or other article produced before the court had been used or was intended to be used for betting or wagering, shall, until the contrary is proved, be deemed to be sufficient evidence of the fact.
+### Prohibition on use of nightsoil or human excreta as manure
 
-[21/73]
+13\.—(1) No land shall be manured with nightsoil or human excreta.
 
-### Protection of informers from discovery
+(2) If any nightsoil or human excreta is found in any place collected in pits or receptacles of any kind such as would in the ordinary course be used for preparing such nightsoil or human excreta for purposes of manuring, this shall be deemed conclusive evidence that the land on which such pits or receptacles are situated or land in the same occupation adjoining or contiguous thereto has been manured with nightsoil or human excreta.
 
-16\.—(1) Subject to this section, no information laid under this Act shall be admitted in evidence in any civil or criminal proceedings whatsoever, and no witness shall be obliged or permitted to disclose the name or address of any informer under this Act or state any matter which might lead to his discovery.
+(3) The owner and the occupier of any land which is manured with nightsoil or human excreta shall both be guilty of an offence.
 
-(2) If any books, documents or papers which are in evidence or liable to inspection in any civil or criminal proceedings whatsoever contain any entry in which any informer is named or described or which might lead to his discovery, the court shall cause all such entries to be concealed from view or to be obliterated so far as is necessary to protect the informer from discovery but no further.
+(4) The Director-General may, by notice in writing, require the owner or occupier of such land to remove the nightsoil or receptacles or to fill up such pits, as the case may be.
 
-(3) If on the trial of any offence under this Act the court, after full inquiry into the case, believes that the informer wilfully made in his information a material statement which he knew or believed to be false or did not believe to be true, the court may require the production of the original information and permit inquiry and require full disclosure concerning the informer.
+[4/2002]
+
+### Prohibition on use of nightsoil or human excreta for manuring earth in pots, etc.
+
+14\. No person shall use any nightsoil or human excreta for the purpose of manuring any earth, soil or other substance contained in any pot, box, container or other receptacle.
+
+### Prohibition of cultivation or use of manure or irrigation which is a nuisance
+
+15\. If at any time it appears to the Director-General that the method of cultivation of any description of crop or the use or storing or method of preparing or dealing with any kind of manure (including prawn dust, prawn shell, chicken droppings and stable refuse) or the irrigation of land in any specific manner in any premises or area is a nuisance, the Director-General may —
+
+(a) prohibit the method of cultivation or the use or storing or method of preparing or dealing with the manure or the manner of irrigation within such premises or area; or
+
+(b) regulate any of the matters referred to in paragraph (a) by imposing such conditions thereon as the Director-General may think necessary for the prevention of the nuisance.
+
+[4/2002]
+
+### All refuse, etc., collected to be property of Agency
+
+16\.—(1) All refuse, waste and filth of every sort and any matter or thing collected by the employees, contractors or agents of the Agency from streets, buildings or any premises or place or brought by any person to any public disposal facility shall be the property of the Agency which may sell or dispose of the refuse, waste and filth as it thinks fit.
+
+[4/2002]
+
+(2) No person shall, without the written permission of the Director-General, remove any refuse, waste or filth or any other matter or thing brought into any disposal facility for disposal or treatment.
+
+[2/96; 4/2002]
 
 Offences in respect of Uncleanliness in Public Places
 
-### Obstruction of police officers
+### Prohibition against throwing refuse, etc., in any public place
 
-17\. Any person who obstructs any police officer in the exercise of any powers under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+17\.—(1) No person shall —
 
-[8/86]
+(a) deposit, drop, place or throw any dust, dirt, paper, ash, carcase, refuse, box, barrel, bale or any other article or thing in any public place;
 
-### Examination of offenders
+(b) keep or leave any article or thing in any place where it or particles therefrom have passed or are likely to pass into any public place;
 
-18\.—(1) Whenever two or more persons are charged with any offence under this Act, the Magistrate’s Court or District Court may require one or more of them to give evidence as a witness or witnesses for the prosecution.
+(c) dry any article of food or any other article or thing in any public place;
 
-(2) Any such person who refuses to be sworn or affirmed or to answer any lawful question, shall be dealt with in the same way as witnesses so refusing may by law be dealt with by a Magistrate’s Court or District Court.
+(d) place, scatter, spill or throw any blood, brine, noxious liquid, swill or any other offensive or filthy matter of any kind in such manner as to run or fall into any public place;
 
-(3) Every person so required to give evidence who, in the opinion of the court, makes true and full discovery of all things as to which he is lawfully examined, shall be entitled to receive a certificate of indemnity under the hand of the Magistrate or Judge, as the case may be, stating that he has made a true and full discovery of all things as to which he was examined, and such certificate shall be a bar to all legal proceedings against him in respect of such things as aforesaid.
+(e) beat, clean, shake, sieve or otherwise agitate any ash, hair, feathers, lime, sand, waste paper or other substance in such manner that it is carried or likely to be carried by the wind to any public place;
 
-### Binding over on second conviction
+(f) throw or leave behind any bottle, can, food container, food wrapper, glass, particles of food or any other article or thing in any public place;
 
-19\.—(1) If a person, who has been convicted of an offence under this Act, is again convicted of the same or any other offence under this Act, the Magistrate’s Court or District Court may, in addition to the punishment provided for such offence, make an order requiring him to give security, by bond with one or more sureties, that he will not offend against this Act for such period not exceeding one year, as the court thinks fit to fix.
+(g) spit any substance or expel mucus from the nose upon or onto any street or any public place; or
 
-(2) Every such order shall be made as nearly as may be in the same manner, and shall have the like effect and consequences as if the order were made under section 74 of the Criminal Procedure Code [Cap. 68].
+(h) discard or abandon in any public place any motor vehicle whose registration has been cancelled under section 27 of the Road Traffic Act (Cap. 276), any furniture or any other bulky article.
 
-### Jurisdiction of courts
+[2/96; 22/99]
 
-20\. A District Court or a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings under this Act and, notwithstanding anything to the contrary contained in the Criminal Procedure Code, shall have power to impose the full penalty or punishment in respect of any offence under this Act.
+(2) No person shall drop, deposit or throw any refuse or any other matter or thing in any channel, drain, lake, reservoir, river, stream or watercourse or upon the bank of any of the same or in any part of the sea abutting on the foreshore.
 
-[8/86]
+(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
 
-### Stakes
+### Building works constituting danger to life, health, etc.
 
-21\. Nothing in this Act shall extend to any person receiving or holding any money or valuable thing by way of stakes or deposit to be paid to the winner of any race or lawful sport, game or exercise or to the owner of any horse engaged in a race.
+18\. Any person who, during the erection, alteration, construction or demolition of any building or at any time, fails to take reasonable precautions to prevent danger to the life, health or well-being of persons using any public place from flying dust or falling fragments or from any other material, thing or substance shall be guilty of an offence.
+
+### Prohibition against dropping, scattering, etc., certain substances in public place
+
+19\.—(1) Any person who —
+
+(a) drops, scatters, spills or throws any noxious liquid, dirt, sand, earth, gravel, clay, loam, manure, refuse, sawdust, shavings, stone, straw or any other similar matter or thing; or
+
+(b) causes or permits any noxious liquid, dirt, sand, earth, gravel, clay, loam, manure, refuse, sawdust, shavings, stone, straw or any other similar matter or thing to be dropped, scattered, spilled or thrown,
+
+in any public place (whether from a moving or stationary vehicle or in any other manner) shall be guilty of an offence.
+
+[22/99]
+
+(2) The Director-General may, by notice in writing, require any person carrying out any construction or earth works to provide or construct any device or facility as the Director-General may think fit for the removal of dirt, earth, sand or other particles from any vehicle used in connection with the construction or earth works.
+
+[22/99; 4/2002]
+
+(3) For the purposes of subsection (1) —
+
+(a) where the matter or thing is dropped, scattered, spilled or thrown from a vehicle, the driver or person having charge or control of the vehicle shall be deemed to have committed the offence, unless the offence is committed by a person other than the driver or person having charge or control of the vehicle and the identity of the person who committed the offence can be established; and
+
+(b) where the driver of a motor vehicle is alleged or is suspected to be guilty of the offence under this section —
+
+(i) the owner of the motor vehicle shall give such information as he may be required to give by a police officer or an authorised officer as to the identity and address of the person who was driving the motor vehicle at or about the time of the alleged offence and such other information as the police officer or authorised officer may require; and
+
+(ii) any other person who was or should have been in charge or in control of the motor vehicle shall, if so required, give any information which it is in his power to give, and which may lead to the identification of the driver.
+
+[22/99; 4/2002]
+
+(4) Any person who fails to comply with subsection (3)(b)(i) or (ii) within 14 days of the date on which the information was required from him shall be guilty of an offence unless he proves to the satisfaction of the court that he did not know and could not with reasonable diligence have ascertained the information required.
+
+[22/99]
+
+### Prohibition against dumping and disposing
+
+20\.—(1) Any person who —
+
+(a) dumps or disposes of any refuse, waste or any other article from a vehicle in a public place; or
+
+(b) uses a vehicle for the purpose of dumping or disposing of any refuse, waste or any other article in a public place,
+
+shall be guilty of an offence.
+
+[22/99]
+
+(2) Any vehicle used in dumping or disposing of refuse, waste or any other article in any public place (other than a disposal facility established with a licence granted by the Director-General under section 23(1) or a public disposal facility) may be seized by any police officer, or any authorised officer, and removed to and detained in any police station or Government depot or other place as may be approved by the Director-General at the risk of the owner for the purposes of proceedings under this Act.
+
+[22/99; 4/2002]
+
+(3) Where, upon an application by the Public Prosecutor, it is proved to the satisfaction of a court that a vehicle seized under subsection (2) has been used in the commission of an offence of dumping or disposing of refuse, waste or any other article in any public place under subsection (1), the court shall make an order for the forfeiture of the vehicle, notwithstanding that no person may have been convicted of that offence.
+
+[22/99]
+
+(4) An order for the forfeiture of a vehicle under subsection (3) may be made by the court before which the prosecution with regard to an offence under subsection (1) has been or will be held.
+
+[22/99]
+
+(5) If there is no prosecution with regard to an offence under subsection (1) —
+
+(a) the vehicle seized under subsection (2) shall be forfeited at the expiry of 3 months from the date of the seizure unless a claim thereto is made before that date; and
+
+(b) any person asserting that he is the owner of such vehicle may personally, or by his agent authorised in writing, give written notice to the Director-General that he claims the vehicle.
+
+[22/99; 4/2002]
+
+(6) Upon receipt of a notice under subsection (5), the Director-General may direct that the vehicle be released or may refer the matter by information to a Magistrate.
+
+[22/99; 4/2002]
+
+(7) The Magistrate shall, on receipt of any information under subsection (6), hold an inquiry and proceed to determine the matter and shall —
+
+(a) on proof that the vehicle was used in the commission of an offence of dumping or disposing of refuse, waste or any other article in any public place under subsection (1), order the vehicle to be forfeited; or
+
+(b) in the absence of such proof, order the vehicle to be released.
+
+[22/99]
+
+(8) No person shall, in any proceedings in any court in respect of the seizure of any vehicle seized in exercise or the purported exercise of any power conferred under subsection (2), be entitled to the costs of such proceedings or to any damages or other relief, other than an order for the return of the vehicle, unless the seizure was made without reasonable or probable cause.
+
+[22/99]
+
+### Notice to attend Court
+
+21\.—(1) Any person who commits an offence under section 17, 18, 19 or 20 may be arrested without warrant by any police officer or authorised officer, and taken before a Magistrate’s Court or a District Court, as the case may be, and shall be liable on conviction —
+
+(a) in the case of an offence under section 20(1), to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $100,000 and to imprisonment for a term of not less than one month and not more than 12 months;
+
+(b) in the case of an offence under section 17(1)(h), to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both; and
+
+(c) in the case of any other offence, to a fine not exceeding —
+
+(i) in the case of a first conviction, $1,000;
+
+(ii) in the case of a second conviction, $2,000; and
+
+(iii) in the case of a third or subsequent conviction, $5,000.
+
+[22/99; 4/2002]
+
+(2) Notwithstanding subsection (1) or any other written law, any police officer or authorised officer who, having effected an arrest in accordance with this section, is satisfied as to the identity, name and place of residence of the person arrested, may, instead of taking that person before a Court or to a police station, serve upon that person a notice in such form as may be prescribed under section 108 requiring the person to attend at the Court described at the hour and on the date specified in the notice.
+
+[4/2002]
+
+(3) For the purpose of satisfying himself as to the identity of the person arrested, the police officer or authorised officer may require the person to furnish such evidence of identity as he may consider necessary.
+
+[4/2002]
+
+(4) A duplicate of the notice referred to in subsection (2) shall be prepared by the police officer or authorised officer, as the case may be, and produced by him to a Court, if so required by the Court.
+
+[4/2002]
+
+(5) On an accused person appearing before a Court in pursuance of such a notice, the Court shall take cognizance of the offence alleged and shall proceed as though he were produced before it under subsection (1).
+
+(6) If a person upon whom a notice under subsection (2) has been served fails to appear before a Court in accordance therewith, the Court shall thereupon issue a warrant for the arrest of that person.
+
+(7) Upon a person arrested in pursuance of a warrant of arrest issued under subsection (6) being produced before a Court, the Court shall —
+
+(a) proceed as though he were produced before it under subsection (1); and
+
+(b) at the conclusion of the proceedings call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him, and if cause is not shown may order him to pay such penalty not exceeding $2,000 as the Court thinks fit or may commit him to prison for a term not exceeding 2 months.
+
+(8) Upon the conviction of any person under subsection (1), the Director-General may, in the manner provided in section 89, recover from the person the costs and expenses incurred by the Director-General in cleaning the public place except that where an offence was committed by any person in the course of his employment, the Director-General may recover the costs and expenses in the manner provided in section 89 from the employer of such person.
+
+[4/2002]
+
+(9) This section shall apply, with the necessary modifications, to any person who contravenes any regulations made under this Act in respect of public cleansing.
 
 ### Corrective work order
 
@@ -648,25 +888,69 @@ Offences in respect of Uncleanliness in Public Places
 
 Disposal Facilities
 
-### Exemption
+### Provision of public disposal facilities
 
-22\.—(1) The Minister may, by notification in theGazette, either generally or in any particular case and subject to such conditions as he may impose, exempt from all or any of the provisions of this Act —
+22\.—(1) The Director-General may —
 
-(a) the members and officers of any racing club or association in respect of any totalisator or pari-mutuel betting or any other system or method of cash or credit betting held, promoted, organised, administered or operated by the racing club or association where the betting takes place under the control or supervision of one or more officers of that racing club or association; or
+(a) provide, acquire, construct and maintain disposal facilities (referred to in this Act as public disposal facilities) for the deposit, disposal and treatment of refuse or waste as he may consider necessary; and
 
-(b) any other person or organisation in respect of any system or method of cash or credit betting held, promoted, organised, administered or operated by the person or organisation where the betting takes place under the control or supervision of that person or organisation.
+(b) make available the facilities to any person upon payment of any fees or charges as may be prescribed.
 
-[13/2004 wef 01/05/2004]
+[4/2002]
 
-(2) Every racing club or association exempted under subsection (1) shall place on the totalisator or pari-mutuel under its control or supervision all bets made under any system of cash or credit betting held, promoted, organised, administered or operated by it.
+(2) The Director-General may —
 
-(3) It shall be lawful at any time for any racing club or association exempted under subsection (1) to admit members of the public to its premises when racing takes place on payment of an admission fee or to places under the control or supervision of any one or more of its officers either without payment or on payment of an admission fee.
+(a) refuse to accept any refuse or waste brought to any public disposal facility without assigning any reason; or
 
-(4) Where an admission fee is charged, the admission fee shall be subject to the payment of duty under the Entertainments Duty Act [Cap. 94].
+(b) accept refuse or waste of such description or kind upon such terms and conditions as he may consider necessary.
 
-### Reward to informer
+[4/2002]
 
-23\. The court may direct any fine or any portion of any fine imposed and levied under this Act to be paid to the informer.
+### No disposal facility to be constructed, etc., without licence
+
+23\.—(1) No person shall construct, establish, maintain or operate any disposal facility without a waste disposal licence granted by the Director-General under this section.
+
+[2/96; 4/2002]
+
+(2) The Director-General may grant a licence authorising any person to construct, establish, maintain or operate any disposal facility.
+
+[2/96; 4/2002]
+
+(3) A licence may be granted under this section following a public tender or in such other manner as the Director-General thinks fit.
+
+[2/96; 4/2002]
+
+(4) Except as otherwise prescribed under section 99(9), the Director-General may require any waste disposal licensee to render a payment on the grant of a licence under this section or such periodic payments during the currency of the licence or both of such amount or amounts as the Director-General may determine by or under the licence.
+
+[2/96; 4/2002]
+
+(5) Without prejudice to the generality of section 99(1), conditions attached to a licence granted under this section may include —
+
+(a) a condition requiring the licensee to comply with such standard of service and level of performance as the Director-General may specify;
+
+(b) the right of the Director-General in the public interest to make modifications to any condition of the licence or add new conditions during the period to which the licence relates;
+
+(c) a condition regulating the charge to be levied by the licensee for the provision of the waste disposal facility; and
+
+(d) a condition requiring the licensee not to accept any waste which in the opinion of the Director-General is not suitable for disposal.
+
+[2/96; 4/2002]
+
+(6) The Director-General may by notice in writing require any owner or occupier of any work place to construct, establish, maintain or operate any disposal facility.
+
+[2/96; 4/2002]
+
+(7) Any person using, working or operating a disposal facility shall use, work or operate such facility in such manner as the Director-General may require.
+
+[2/96; 4/2002]
+
+(8) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[2/96; 22/99]
+
+(9) If in any proceedings for a contravention of subsection (1) it is shown that any premises are being used as a disposal facility, it shall be presumed, until the contrary is proved, that the occupier of the premises has constructed, established, maintained or operated the disposal facility.
+
+[2/96]
 
 Disposal and Treatment of Industrial Waste
 
@@ -2215,20 +2499,6 @@ This Legislative History is provided for the convenience of users of the Betting
 |||(Bill No. 8/2004 published on 28 February 2004)|
 ||Date of Second and Third Readings|20 April 2004|
 ||Date of commencement|1 May 2004|
-|8.|**Act 12 of 2008—Singapore Totalisator Board (Amendment) Act 2008**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|26 May 2008|
-|||(Bill No. 7/2008 published on 26 May 2008)|
-||Date of Second and Third Readings|21 July 2008|
-||Date of commencement|27 December 2010|
-|9.|**Act 15 of 2010—Criminal Procedure Code 2010**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|26 April 2010|
-|||(Bill No. 11/2010 published on 26 April 2010)|
-||Date of Second and Third Readings|19 May 2010|
-||Date of commencement|2 January 2011|
-|10.|**2011 Revised Edition—Betting Act (Chapter 21)**|
-||Date of operation|31 December 2011|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
