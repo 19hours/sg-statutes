@@ -122,7 +122,7 @@
 
 (CHAPTER 253)
 
-(Original Enactment: Act 23 of 1991)
+(Original Enactment: 23 of 1991)
 
 REVISED EDITION 1992
 
@@ -648,7 +648,7 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 (a) comply with the prohibitions in section 162 (relating to loans to its directors) and section 163 (relating to loans to persons connected with the directors of the lending company) of the Companies Act as if it were not an exempt private company; and
 
-(b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act, such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with Part II of the Eighth Schedule to that Act as if it were not an exempt private company.
+(b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act, such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with the prescribed form referred to in section 197(2) of that Act as if it were not an exempt private company.
 
 (2) In this section, “exempt private company” has the same meaning as in the Companies Act.
 
@@ -948,7 +948,9 @@ SAVINGS AND TRANSITIONAL PROVISIONS
 
 ### References in other written laws
 
-45\.—(1) On the expiration of two months from and including 30th August 1991, all references in any other written law to registered professional engineers, or to persons registered under the provisions of the repealed Act, shall be read as references to registered professional engineers who have in force practising certificates within the meaning of this Act.
+45\. 
+
+(1) On the expiration of two months from and including 30th August 1991, all references in any other written law to registered professional engineers, or to persons registered under the provisions of the repealed Act, shall be read as references to registered professional engineers who have in force practising certificates within the meaning of this Act.
 
 ## THE SCHEDULE
 
@@ -992,3 +994,10 @@ This Legislative History is provided for the convenience of users of the Profess
 ||Date of Second Reading|25 August 1994|
 ||Date of Third reading|23 March 1995|
 ||Date of commencement|15 July 1995|
+|5.|**Act 12 of 2002—Companies (Amendment) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|23 May 2002|
+|||(Bill No. 16/2002 published on 24 May 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|13 January 2003|
+|||(section 63 — Consequential amendments to other Acts)|
