@@ -34,6 +34,8 @@
 
 - [14 Grants-in-aid](#Grants-in-aid)
 
+- [14A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [15 Accounts and financial statements](#Accounts-and-financial-statements)
 
 - [16 Audit of accounts](#Audit-of-accounts)
@@ -215,6 +217,12 @@ An Act for the establishment and incorporation of a polytechnic to be known as T
 14\.—(1) The Minister shall pay to the Polytechnic such moneys as may be provided by Parliament from time to time as grants-in-aid to the Polytechnic.
 
 (2) All moneys paid to the Polytechnic under subsection (1) may be applied or expended by the Polytechnic for the attainment of all or any of the objects of the Polytechnic.
+
+### Issue of shares, etc.
+
+14A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Polytechnic under this Act, or of any capital injection or other investment by the Government in the Polytechnic in accordance with any written law, the Polytechnic shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Accounts and financial statements
 
@@ -607,3 +615,8 @@ This Legislative History is provided for the convenience of users of the Temasek
 ||Date of commencement|6 April 1990|
 |2.|**1991 Revised Edition—Temasek Polytechnic Act**|
 ||Date of operation|1 March 1991|
+|3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002|
