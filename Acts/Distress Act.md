@@ -132,9 +132,7 @@ An Act relating to distress for rent.
 
 (e) goods belonging to guests at an inn;
 
-(f) goods in the custody of the law;
-
-(g) property mentioned in section 73 of the Public Utilities Act [Cap. 261].
+(f) goods in the custody of the law.
 
 ### Inventory and estimate of property seized, and notice to tenant of the seizure
 
@@ -312,3 +310,9 @@ This Legislative History is provided for the convenience of users of the Distres
 |||(Bill No. 12/93 published on 27 February 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
+|11.|**Act 26 of 1995—Public Utilities Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 May 1995|
+|||(Bill No. 20/95 published on 26 May 1995)|
+||Date of Second and Third Readings|7 July 1995|
+||Date of commencement|1 October 1995|
