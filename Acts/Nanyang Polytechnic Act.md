@@ -366,7 +366,9 @@ Powers of Board
 
 (a) to administer and manage the finances, accounts, investments, property, business, and all affairs whatsoever of the Polytechnic, and for that purpose to appoint bankers, counsel, solicitors and such officers or agents as it may be expedient to appoint;
 
-(b) to invest the moneys of the Polytechnic, including any unapplied income, in investments authorised by the general law for the investment of trust moneys, and to invest such moneys in the purchase of freehold or leasehold property, and to vary any investments by sale and reinvestment or otherwise;
+(b) to invest the moneys of the Polytechnic in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1);
+
+[45/2004 wef 15/12/2004]
 
 (c) to purchase, grant, sell, convey, assign, surrender, and yield up, exchange, partition, mortgage, demise, reassign, transfer, and accept leases of real and personal property on behalf of the Polytechnic;
 
@@ -456,7 +458,7 @@ Senate
 
 (2) The Senate shall meet at least twice in each semester of every academic year and such other times as may be necessary.
 
-(3) The quorum at every meeting of the Senate shall be one quarter of the total number of members of the Senate.
+(3) The quorum at every meeting of the Senate shall be one-quarter of the total number of members of the Senate.
 
 (4) The chairman of the Senate shall be empowered to require any officer, lecturer or other employee of the Polytechnic to attend a meeting of the Senate.
 
@@ -574,7 +576,7 @@ Nanyang Polytechnic Act
 
 (CHAPTER 191A)
 
-This Legislative History is provided for the convenience of users of the Nanyang Polytechnic Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Nanyang Polytechnic Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -590,3 +592,9 @@ This Legislative History is provided for the convenience of users of the Nanyang
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002|
+|4.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
