@@ -1172,6 +1172,11 @@ This Legislative History is provided for the convenience of users of the Newspap
 ||Date of commencement|2 September 2002|
 |11.|**2002 Revised Edition—Newspaper and Printing Presses Act**|
 ||Date of operation|31 December 2002|
+|12.|**Act 34 of 2002—Media Development Authority of Singapore Act 2002**|
+||Date of First Reading|1 October 2002|
+|||(Bill No. 37/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|1 January 2003|
 ## COMPARATIVE TABLE
 
 Newspaper and Printing Presses Act
