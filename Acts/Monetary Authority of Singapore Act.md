@@ -192,7 +192,15 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 (b) to promote, within the context of the general economic policy of the Government, monetary stability and credit and exchange conditions conducive to the growth of the economy;
 
-(c) to foster a sound and progressive financial services sector; and
+(c) to foster a sound and progressive financial services sector;
+
+[25/2002 wef 01/10/2002]
+
+(ca) to issue currency notes and coins in Singapore in accordance with the Currency Act (Cap. 69) and to provide such other services as it considers necessary under that Act; and
+
+[25/2002 wef 01/10/2002]
+
+[30/2004 wef 12/10/2004]
 
 (d) to exercise the powers and to perform the duties and functions that are transferred to the Authority under section 21.
 
@@ -332,7 +340,7 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 ### Preservation of secrecy
 
-14\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a director, officeror employee of the Authority shall disclose to any person any information relating to the affairs of the Authority or of any person which he has acquired in the performance of his duties or the exercise of his functions.
+14\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a director, officer, employee, consultant or agent of the Authority shall disclose to any person any information relating to the affairs of the Authority or of any person which he has acquired in the performance of his duties or the exercise of his functions.
 
 [25/2002 wef 01/10/2002]
 
@@ -854,7 +862,9 @@ MISCELLANEOUS
 
 39A\. Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) or a State Counsel may —
 
-(a) appear in any civil proceedings on behalf of the Authority under the Futures Trading Act (Cap. 116) or the Securities Industry Act (Cap. 289), including proceedings referred to in section 104A of the Securities Industry Act; and
+(a) appear in any civil proceedings on behalf of the Authority under the Securities and Futures Act 2001, including proceedings referred to in section 232 of that Act; and
+
+[42/2001 wef 01/10/2002]
 
 (b) make and do all acts and applications in respect of such proceedings on behalf of the Authority.
 
@@ -966,6 +976,16 @@ This Legislative History is provided for the convenience of users of the Monetar
 ||Date of Second and Third Readings|8 July 2002|
 ||Dates of commencement|Section 39 shall come into operation on 30th September 2002.|
 |||Section 2 to 38 shall come into operation on 29th January 2003.|
+|16.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||Date of First Reading|8 July 2002|
+|||(Bill No. 23/2002 published on 13 September 2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|1 October 2002|
+|17.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1st October 2002 (Parts II to VII, XI and XII, sections 314 and 342(1) and (3), Third Schedule and items (1)(b), (2), (3)(b), (4)(a)(ii), (d), (e), (j), (k), (n), (p), (r), (s) and (v), (5), (6) and (7)(a) and (d) and (8) to (11) of the Fourth Schedule)|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
