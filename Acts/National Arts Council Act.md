@@ -38,6 +38,8 @@
 
 - [12 Funds and property of Council](#Funds-and-property-of-Council)
 
+- [12A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [13 Establishment of Singapore Arts Endowment Fund](#Establishment-of-Singapore-Arts-Endowment-Fund)
 
 - [14 Financial provisions](#Financial-provisions)
@@ -260,6 +262,12 @@ FUNDS AND PROPERTY OF COUNCIL
 (4) Subject to the terms of any trust or endowment, the funds and property of the Council shall be applied solely for the purposes of or in connection with the performance of the functions, powers and duties of the Council under this Act, and no portion thereof shall be paid or transferred, directly or indirectly, by way of dividend, bonus or otherwise by way of profit to its members.
 
 (5) Nothing in this section shall prevent the payment in good faith of remuneration to any employees of the Council.
+
+### Issue of shares, etc.
+
+12A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Council under this Act, or of any capital injection or other investment by the Government in the Council in accordance with any written law, the Council shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Establishment of Singapore Arts Endowment Fund
 
@@ -569,3 +577,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Dates of commencement|17 August 1991|
 |2.|**1992 Revised Edition—National Arts Council Act**|
 ||Date of operation|9 March 1992|
+|3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002 (Except item 18 in the Schedule)|
