@@ -148,7 +148,7 @@ PRELIMINARY
 
 (2) This Act shall continue in force for a period of one year from the date of the coming into force thereof provided that the Minister may, from time to time, by notification in theGazette, extend that period of one year for such further period or periods as he may think fit.1
 
-1The period has been extended to 31st December 1988 by G.N. No. S 306/83 .
+1The period has been extended to 31st December 2003 by G.N. No. S 598/98.
 
 ### Interpretation
 
@@ -1413,3 +1413,5 @@ This Legislative History is provided for the convenience of users of the Exchang
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997 (except section 3)|
+|21.|**G. N. No. S 598/1998—Exchange Control (Continuance of Act) Notification 1998**|
+||Date of commencement|1 January 1999|
