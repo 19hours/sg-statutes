@@ -1192,3 +1192,8 @@ This Legislative History is provided for the convenience of users of the Town Co
 ||Date of commencement|5 August 1988|
 |2.|**1989 Revised Edition—Town Councils Act**|
 ||Date of operation|15 March 1989|
+|3.|**Act 25 of 1990—Town Councils (Amendment) Act 1990**|
+||Date of First Reading|4 October 1990|
+|||(Bill No. 24/90 published on 5 October 1990)|
+||Date of Second and Third Readings|9 November 1990|
+||Date of commencement|7 December 1990|
