@@ -1,4 +1,4 @@
-**Tourist Promotion Board Act**
+**Singapore Tourism Board Act**
 
 **(CHAPTER 328)**
 
@@ -10,7 +10,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Establishment of Tourist Promotion Board](#Establishment-of-Tourist-Promotion-Board)
+- [3 Establishment of Singapore Tourism Board](#Establishment-of-Singapore-Tourism-Board)
 
 - [4 Chairman of Board](#Chairman-of-Board)
 
@@ -20,17 +20,21 @@
 
 - [7 Directions by Minister](#Directions-by-Minister)
 
-- [8 Director of Board](#Director-of-Board)
+- [8 Chief Executive](#Chief-Executive)
 
 - [9 Appointment of officers and employees](#Appointment-of-officers-and-employees)
 
 - [10 Ineligibility for employment as officers of Board](#Ineligibility-for-employment-as-officers-of-Board)
 
+- [10A Appointment of committees and delegation of powers](#Appointment-of-committees-and-delegation-of-powers)
+
 - [11 Payments to Board](#Payments-to-Board)
 
-- [12 Establishment and administration of Tourist Promotion Fund](#Establishment-and-administration-of-Tourist-Promotion-Fund)
+- [12 Establishment and administration of Tourism Fund](#Establishment-and-administration-of-Tourism-Fund)
 
 - [13 Purpose of Fund](#Purpose-of-Fund)
+
+- [13A Functions of Board](#Functions-of-Board)
 
 - [14 Powers of Board](#Powers-of-Board)
 
@@ -44,23 +48,21 @@
 
 - [19 Annual report](#Annual-report)
 
-- [20 Annual estimates](#Annual-estimates)
-
-- [21 Protection of members of Board](#Protection-of-members-of-Board)
+- [21 Protection from personal liability](#Protection-from-personal-liability)
 
 - [22 Conduct of legal proceedings](#Conduct-of-legal-proceedings)
 
-- [23 Sanction](#Sanction)
+- [23 Use of Merlion symbol](#Use-of-Merlion-symbol)
 
-- [24 Symbol of Board](#Symbol-of-Board)
+- [24 Board’s symbol](#Board’s-symbol)
 
 - [25 Regulations](#Regulations)
 
 - [26 Winding up](#Winding-up)
 
-[**FIRST SCHEDULE Board’s symbol**](#FIRST-SCHEDULE-Board’s-symbol)
+[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
-[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
+[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
 
 [**Legislative History**](#Legislative-History)
 
@@ -74,13 +76,13 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Act for the establishment of the Singapore Tourist Promotion Board and of the Tourist Promotion Fund and for matters connected therewith.
+An Act for the establishment of the Singapore Tourism Board and of the Tourism Fund and for matters connected therewith.
 
 [1st January 1964]
 
 ### Short title
 
-1\. This Act may be cited as the Tourist Promotion Board Act.
+1\. This Act may be cited as the Singapore Tourism Board Act.
 
 ### Interpretation
 
@@ -88,25 +90,41 @@ An Act for the establishment of the Singapore Tourist Promotion Board and of the
 
 “associate member” means an associate member of the Board appointed under section 6;
 
-“Board” means the Singapore Tourist Promotion Board established under section 3;
+“Board” means the Singapore Tourism Board established under section 3;
+
+“Chief Executive” means the Chief Executive of the Board appointed under section 8 and includes any acting Chief Executive appointed under section 8(3);
 
 “financial year” means a period of 12 months beginning on 1st April;
 
 “member” means a member of the Board appointed under section 5;
 
-“tourist enterprise” means —
+“tourism enterprise” means all or any of the following:
 
 (a) any business which provides national or international carriage for passengers;
 
-(b) any business which, either wholly or in part, provides or arranges services for visitors to Singapore or other places outside Singapore, by way of transport, accommodation, tours or guides, whether or not such services are provided within or outside Singapore;
+(b) any business which, either wholly or in part, provides or arranges services for visitors to Singapore by way of transport, accommodation, tours or guides, whether or not such services are provided within or outside Singapore;
 
-(c) any business which, either wholly or in part, retails goods for sale to visitors to Singapore; or
+(c) any business which, either wholly or in part, distributes for the purpose of trade or retails tourism-related products;
 
-(d) any association of such businesses,
+(d) any other undertaking, including any convention, exhibition, show, fair, publicity campaign or theme park, intended wholly or in part for the benefit of, or for the purpose of attracting, visitors to Singapore;
 
-### Establishment of Tourist Promotion Board
+“tourism-related product” means any product, primarily intended for sale to visitors to Singapore, that —
 
-3\.—(1) There shall be established in accordance with the provisions of this Act a body to be called the Singapore Tourist Promotion Board.
+(a) depicts any scenery or tourist attraction of Singapore;
+
+(b) bears the Merlion symbol, a representation of which is set out in the First Schedule; or
+
+(c) has any other characteristic that the Minister may, by notification in theGazette, declare.
+
+and includes any exhibition, show, fair, publicity campaign or other undertaking intended wholly or in part for the benefit of, or for the purpose of attracting, visitors to Singapore.
+
+[4/72]
+
+[33/75]
+
+### Establishment of Singapore Tourism Board
+
+3\.—(1) There shall be established in accordance with the provisions of this Act a body to be called the Singapore Tourism Board.
 
 [33/75]
 
@@ -122,15 +140,11 @@ An Act for the establishment of the Singapore Tourist Promotion Board and of the
 
 (a) the Chairman;
 
-(b) the Director of the Board appointed under section 8;
+(b) the Chief Executive; and
 
-(c) two members to be appointed by the Minister from amongst the associate members; and
+(c) 10 other members to be appointed by the Minister.
 
-(d) 8 other members to be appointed by the Minister.
-
-[4/72]
-
-(2) The members of the Board appointed by the Minister under subsection (1)(d) shall, unless their appointment is revoked by the Minister under subsection (6), or unless they resign during their period of office, hold office for a term of 3 years or for such shorter period as the Minister may in any case determine.
+(2) The members of the Board appointed by the Minister under subsection (1)(c) shall, unless their appointment is revoked by the Minister under subsection (6), or unless they resign during their period of office, hold office for a term of 3 years or for such shorter period as the Minister may in any case determine.
 
 (3) The Minister may appoint a member of the Board to be Deputy Chairman of the Board. The Deputy Chairman may preside at meetings of the Board in the absence of the Chairman.
 
@@ -174,15 +188,19 @@ An Act for the establishment of the Singapore Tourist Promotion Board and of the
 
 [6
 
-### Director of Board
+### Chief Executive
 
-8\.—(1) The Board shall, with the approval of the Minister, appoint a Director of the Board who shall perform such duties as the Board may entrust or delegate to him:
+8\.—(1) The Board shall, with the approval of the Minister, appoint a Chief Executive for the purposes of this Act.
 
-Provided that the first Director of the Board shall be appointed by the Minister.
+(2) The Chief Executive shall —
 
-(2) If the Director of the Board is temporarily absent from Singapore or temporarily incapacitated through illness or for any other sufficient reason from the performance of his duties, another person may be appointed in the manner provided by subsection (1) to be the Director of the Board during such temporary absence or other incapacity.
+(a) be known by such designation as the Board may determine;
 
-[7
+(b) be responsible to the Board for the proper administration and management of the functions and affairs of the Board in accordance with the policy laid down by the Board; and
+
+(c) not be removed from office without the consent of the Minister.
+
+(3) If the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason temporarily unable to perform his duties, a person may be appointed by the Board to act in the place of the Chief Executive during such period of absence from duty.
 
 ### Appointment of officers and employees
 
@@ -200,15 +218,25 @@ Provided that the first Director of the Board shall be appointed by the Minister
 
 [9
 
+### Appointment of committees and delegation of powers
+
+10A\.—(1) The Board may, in its discretion, appoint from among its members or other persons who are not members such number of committees consisting of members or other persons or members and other persons for purposes which, in the opinion of the Board, would be better regulated and managed by means of such committees.
+
+(2) The Board may, subject to such conditions or restrictions as it may impose, delegate to the Chairman , Chief Executive or a committee appointed under subsection (1) all or any of the functions, duties and powers vested in the Board by or under this Act or any other written law, and any power, function or duty so delegated may be exercised or performed by the Chairman, Chief Executive or such committee, as the case may be, in the name and on behalf of the Board.
+
+(3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any member or employee of the Board all or any of its functions, duties and powers vested in the Board by or under this Act or any other written law, and any power, function or duty so delegated may be exercised or performed by such member or employee in the name and on behalf of the Board.
+
+(4) The Board may continue to exercise a power conferred upon it, or perform a function or duty under this Act or any other written law, notwithstanding the delegation of such power, function or duty under this section.
+
 ### Payments to Board
 
 11\. For the purpose of enabling the Board to carry out its functions under this Act, the Minister may, from time to time, authorise the payment to the Board of such sums as he may determine.
 
 [10
 
-### Establishment and administration of Tourist Promotion Fund
+### Establishment and administration of Tourism Fund
 
-12\.—(1) There shall be established a fund to be called the Tourist Promotion Fund (referred to in this Act as the Fund) which shall be controlled and administered by the Board, subject to the directions of the Minister.
+12\.—(1) There shall be established a fund to be called the Tourism Fund (referred to in this Act as the Fund) which shall be controlled and administered by the Board, subject to the directions of the Minister.
 
 (2) All moneys collected under section 14(f) and all moneys received by the Board from any source whatsoever shall be paid into the Fund.
 
@@ -226,45 +254,71 @@ Provided that the first Director of the Board shall be appointed by the Minister
 
 [14
 
+### Functions of Board
+
+13A\.—(1) The functions of the Board shall be —
+
+(a) to develop and promote Singapore as a travel and tourist destination;
+
+(b) to advise the Government on matters relating to travel and tourism;
+
+(c) to enhance the travel and tourism sector’s contribution to the Singapore economy; and
+
+(d) to exercise licensing and regulatory functions in respect of such tourism enterprises as the Board may determine.
+
+(2) In addition to the functions of the Board under subsection (1), the Board may undertake such other functions as the Minister may assign to the Board and in so doing the Board shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Board in respect of such functions.
+
+(3) Nothing in this section shall be construed as imposing on the Board, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
+
 ### Powers of Board
 
-14\. The Board shall have power —
+14\. Subject to this Act, the Board may carry on such activities as appear to the Board to be advantageous, necessary or convenient for it to carry on for or in connection with the discharge of its functions and duties under this Act and, in particular, the Board may exercise the following powers:
 
-(a) to act as agent for the Government or, with the approval of the Government, for any person, body or organisation for the transaction of any business connected with any tourist enterprise;
+(a) to act as an agent for the Government or, with the approval of the Minister, for any person, body or organisation for the transaction of any business connected with any tourism enterprise;
 
-(b) to engage in, assist or promote the improvement of facilities for visitors to Singapore and the development of Singapore as a holiday resort;
+(b) to engage in, assist in or promote the improvement of facilities for visitors to Singapore and the development of Singapore as a tourist destination;
 
-(c) to secure overseas publicity for the tourist attractions of Singapore;
+(c) to secure overseas publicity for the tourist attractions in Singapore and tourism projects outside Singapore in which Singapore has an interest;
 
 (d) to co-ordinate the activities of persons providing services for visitors to Singapore;
 
-(e) to regulate, with the approval of the Minister, standards to be maintained by tourist enterprises;
+(e) to regulate standards to be maintained by such tourism enterprises as the Board may determine;
 
-(f) with the approval of the Minister, to license any class or classes of tourist enterprises, to prescribe the conditions under which such licences may be granted and the fees which may be levied therefor, and to collect such fees;
+(f) to license such class or classes of tourism enterprises as the Board may determine and to prescribe the conditions under which the licences may be granted and the fees which may be levied for the licences;
 
-(g) to acquire, purchase, take on lease, hire, hold and enjoy movable and immovable property of every description and to convey, assign, surrender, and yield up, charge, mortgage, demise, reassign, transfer or otherwise dispose of, or deal with, any movable or immovable property belonging to the Board upon such terms as to the Board seem fit;
+(g) to acquire, take on lease, hire, hold and enjoy movable and immovable property and to convey, assign, surrender, charge, mortgage, demise, transfer or otherwise dispose of, or deal with, any movable or immovable property belonging to the Board upon such terms as the Board considers fit;
 
-(h) to enter into any contract;
+(h) to grant loans or advances to any person carrying on a tourism enterprise;
 
-(i) to receive, in consideration of the services rendered by it, such commission or payment as may be agreed upon;
+(i) to enter into any contract or agreement for carrying out the purposes of this Act;
 
-(j) to make recommendations to the Government in relation to any measures which may be taken with a view to increasing the number of visitors to Singapore;
+(j) to receive, in consideration of the services rendered by the Board, such commission or payment as may be agreed upon;
 
-(k) to exercise all functions and powers and perform all duties which, under any other written law, are or may be or become vested or delegated to it;
+(k) to exercise all powers and perform all duties which, under any other written law, are or may be or become vested in or delegated to the Board;
 
-(l) subject to the approval of the Minister, to make rules for the establishment of a scheme or schemes for the payment of pensions, gratuities, provident fund or other superannuation benefits to such employees or classes of employees of the Board as it may determine, on their death or retirement from the service of the Board or on their otherwise leaving the service of the Board;
+(l) with the approval of the Minister, to make rules for the establishment of a scheme or schemes for the payment of pensions, gratuities, provident fund or other superannuation benefits to such employees or classes of employees or former employees of the Board as the Board may determine, on their death or retirement from the service of the Board or on their otherwise leaving the service of the Board;
 
-(m) with the approval of the Minister, to carry on the business of providing transport facilities for persons visiting a tourist resort;
+(m) to carry on the business of providing transport facilities for persons visiting tourist attractions in Singapore;
 
-(n) with the approval of the Minister, to take, or otherwise acquire, and hold shares, debentures or other security in any company carrying on the business of a tourist enterprise, food establishment or public house;
+(n) to invest any money of the Board in securities authorised for the investment of trust funds by any written law and, with the approval of the Minister, in other securities, within or outside Singapore;
 
-(o) with the approval of the Minister, to invest any money of the Board in any business which will promote or be conducive to the tourist trade in Singapore; and
+(o) with the approval of the Minister, to subscribe for or acquire any stock, share, bond, debenture or other financial instrument in any company carrying on a tourism enterprise;
 
-(p) generally to do all such matters and things as may be incidental to or consequential upon the exercise of its powers or the discharge of its duties under this Act.
+(p) with the approval of the Minister, to invest any money of the Board in any business within or outside Singapore which will promote or be conducive to the tourism trade in Singapore;
 
-[15
+(q) with the approval of the Minister —
 
-[4/72]
+(i) to enter into any joint venture with any person; or
+
+(ii) to form or participate in the formation of any company,
+
+whether in Singapore or elsewhere, for the purpose of carrying out all or any of the functions of the Board;
+
+(r) with the approval of the Minister, to manage, control or supervise tourism enterprises within or outside Singapore by nominating directors or advisers, or by collaborating with persons carrying on tourism enterprises or entering into partnerships or any other arrangements with them;
+
+(s) with the approval of the Minister, to borrow money whether by way of bank overdraft or otherwise for such of the purposes of the Board as the Board may from time to time consider desirable; and
+
+(t) generally to do all such matters and things as may be incidental to or consequential upon the exercise of the Board’s powers or the discharge of its duties under this Act.
 
 ### Protection of superannuation scheme
 
@@ -336,51 +390,31 @@ Provided that the first Director of the Board shall be appointed by the Minister
 
 ### Annual report
 
-19\. So soon as may be after 1st April in every year but not later than 31st July in every year, unless otherwise expressly authorised in writing by the Minister, the Board shall prepare a report of its activities in the preceding year and shall send a copy of the report to the Minister who shall present a copy of every such report to Parliament.
+19\.—(1) The Board shall, as soon as practicable after the close of each financial year but not later than 30th September of each year, submit to the Minister an annual report on the activities of the Board during the preceding financial year.
 
-[17
+(2) The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
 
-### Annual estimates
+### Protection from personal liability
 
-20\. The Board shall obtain in advance the approval of the Minister for its annual estimates of expenditure and for any supplementary estimates of such expenditure.
-
-[18
-
-### Protection of members of Board
-
-21\.—(1) No action, suit, prosecution or other proceedings shall be brought or instituted personally against any member of the Board in respect of any act done bona fide in pursuance or execution or intended execution of this Act.
-
-(2) Where any member of the Board is exempt from liability by reason only of this section, the Board shall be liable to the extent that it would be if that member were an employee or agent of the Board.
-
-[19
+21\. No suit or other proceedings shall lie personally against any member or employee of the Board, or any other person acting under the direction of the Board, in respect of anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
 
 ### Conduct of legal proceedings
 
-22\. Proceedings in respect of any offence under the provisions of this Act, or of any of the regulations made thereunder, may be conducted by any officer of the Board authorised in writing in that behalf by the Director.
+22\. Proceedings in respect of any offence under the provisions of this Act, or of any of the regulations made thereunder, may be conducted by any officer of the Board, or any other person, authorised in writing in that behalf by the Chief Executive.
 
 [19A
 
 [4/72]
 
-### Sanction
+### Use of Merlion symbol
 
-23\. No court shall take cognizance of any offence under this Act or any regulations made thereunder except with the sanction of the Public Prosecutor.
+23\. Any person who, without the permission of the Board, uses the Merlion symbol, a representation of which is set out in Part I of the First Schedule, or a symbol or representation so nearly resembling the Merlion symbol as to cause confusion in relation to it, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[19B
+### Board’s symbol
 
-[4/72]
+24\.—(1) The Board shall have the exclusive right to the use of the Board’s symbol a representation of which is set out in Part II of the First Schedule.
 
-### Symbol of Board
-
-24\.—(1) The Board shall have the exclusive right to the use of the symbol a representation of which is set out in the First Schedule.
-
-[4/72. 33/75]
-
-(2) Any person who without the permission of the Board uses the Board’s symbol shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-(3) Any person who uses a symbol so nearly resembling the Board’s symbol so as to cause confusion in relation to the Board’s symbol shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-[19C
+(2) Any person who, without the permission of the Board, uses the Board’s symbol, or a symbol or representation so nearly resembling the Board’s symbol as to cause confusion in relation to it, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 ### Regulations
 
@@ -416,9 +450,15 @@ Provided that the first Director of the Board shall be appointed by the Minister
 
 FIRST SCHEDULE
 
-Section 24
+Section 24.
 
-Board’s symbol
+Part I
+
+Merlion Symbol
+
+Part II
+
+Board’s Symbol
 
 [4/72]
 
@@ -426,7 +466,7 @@ SECOND SCHEDULE
 
 Section 18
 
-Financial provisions
+Financial Provisions
 
 1\. The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Board and over the expenditure incurred by the Board.
 
@@ -468,11 +508,11 @@ Financial provisions
 
 ## LEGISLATIVE HISTORY
 
-Tourist Promotion Board Act
+Singapore Tourism Board Act
 
 (CHAPTER 328)
 
-This Legislative History is provided for the convenience of users of the Tourist Promotion Board Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Singapore Tourism Board Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -511,3 +551,8 @@ This Legislative History is provided for the convenience of users of the Tourist
 ||Date of commencement|19 September 1975|
 |8.|**1985 Revised Edition—Tourist Promotion Board Act (Chapter 328)**|
 ||Date of operation|30 March 1987|
+|9.|**Act 9 of 1997—Tourist Promotion Board (Amendment) Act 1997**|
+||Date of First Reading|25 August 1997|
+|||(Bill No. 11/97 published on 26 August 1997)|
+||Date of Second and Third Readings|7 October 1997|
+||Date of commencement|20 November 1997|
