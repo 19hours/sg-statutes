@@ -546,13 +546,9 @@ Constitution and Proceedings of Council
 
 Constitution of Council
 
-1. The Council shall consist of —
+1. The Council shall consist of not more than 16 members to be appointed by the Minister.
 
-(a) such number of representatives from public transport companies; and
-
-(b) not more than 11 other members,
-
-to be appointed by the Minister.
+[S 48/2003 wef 01/02/2003]
 
 Appointment of Chairman and Deputy Chairman
 
@@ -700,6 +696,8 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 27/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|10 September 2001|
+|9.|**G.N. No. S 48/2003—Public Transport Council Act (Amendment of First Schedule) Order 2003**|
+||Date of commencement|1 February 2003|
 ## COMPARATIVE TABLE
 
 Public Transport Council Act
