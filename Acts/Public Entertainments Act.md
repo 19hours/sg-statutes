@@ -52,7 +52,7 @@
 
 - [23 Rules](#Rules)
 
-[**THE SCHEDULE Meaning of public entertainment**](#THE-SCHEDULE)
+[**THE SCHEDULE Meaning of Public Entertainment**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -394,7 +394,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 Section 2(1)
 
-Meaning of public entertainment
+Meaning of Public Entertainment
 
 1. In this Schedule —
 
@@ -544,6 +544,10 @@ in any place to which the public or any class of the public has access whether g
 
 [S 412/2001 wef 01/09/2001]
 
+(xxxxii) Civil Service College.
+
+[S 562/2001 wef 16/11/2001]
+
 [35/2000]
 
 ## LEGISLATIVE HISTORY
@@ -552,7 +556,7 @@ Public Entertainments and Meetings Act
 
 (CHAPTER 257)
 
-This Legislative History is provided for the convenience of users of the Public Entertainments and Meetings Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Public Entertainments and Meetings Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -584,6 +588,8 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of operation|31 July 2001|
 |8.|**G. N. No. S 412/2001—Public Entertainments and Meetings Act (Amendment of Schedule) Order 2001**|
 ||Date of commencement|1 September 2001|
+|9.|**G. N. No. S 562/2001—Public Entertainments and Meetings Act (Amendment of Schedule) (No. 2) Order 2001**|
+||Date of commencement|16 November 2001|
 ## COMPARATIVE TABLE
 
 Public Entertainments and Meetings Act
