@@ -554,7 +554,7 @@ PRELIMINARY
 
 ### Application
 
-2\. Except insofar as Part XI otherwise expressly provides, this Act shall apply in relation to things existing on 10th April 1987 in like manner as it applies in relation to things coming into existence after that date.
+2\. Except insofar as Part XI otherwise expressly provides , this Act shall apply in relation to things existing on 10th April 1987 in like manner as it applies in relation to things coming into existence after that date.
 
 [S 107/87]
 
@@ -3993,3 +3993,9 @@ This Legislative History is provided for the convenience of users of the Copyrig
 |||(Bill No. 20/94 published on 29 July 1994)|
 ||Date of Second and Third Readings|26 August 1994|
 ||Date of commencement|1 October 1994|
+|5.|**Act 24 of 1995—Regulation of Imports and Exports Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 May 1995|
+|||(Bill No. 19/95 published on 26 May 1995)|
+||Date of Second and Third Readings|7 July 1995|
+||Date of commencement|1 December 1995|
