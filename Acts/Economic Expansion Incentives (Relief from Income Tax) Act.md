@@ -474,7 +474,7 @@ PIONEER INDUSTRIES
 
 ### Tax relief period of pioneer enterprise
 
-6\. The tax relief period of a pioneer enterprise shall commence on its production day and shall continue for a period of 5 years or such longer period, not exceeding 10 years, as the Minister may determine.
+6\. The tax relief period of a pioneer enterprise shall commence on its production day and shall continue for such period, not exceeding 10 years, as the Minister may determine.
 
 ### Provisions governing old and new trade or business
 
@@ -490,15 +490,15 @@ PIONEER INDUSTRIES
 
 ### Restrictions on trading before end of tax relief period
 
-8\.—(1) During its tax relief period, a pioneer enterprise shall not carry on any trade or business other than the trade or business relating to the relevant pioneer product, unless the Minister has given his permission in writing therefor.
+8\.—(1) Where, during its tax relief period, a pioneer enterprise carries on any trade or business other than the trade or business relating to the relevant pioneer product (referred to in this section as separate trade), separate accounts shall be maintained in respect of that separate trade or business and in respect of the same accounting period.
 
-(2) Where the carrying on of a separate trade or business has been permitted under subsection (1), separate accounts shall be maintained in respect of that trade or business and in respect of the same accounting period.
+[11/2004 wef 27/11/2002]
 
 (3) Where the carrying on of such separate trade results in a loss in any accounting period, the loss shall be brought into the computation of the income of the pioneer enterprise for that period unless the Comptroller, having regard to all the circumstances of the case, is satisfied that the loss was not incurred for the purpose of obtaining a tax advantage.
 
 [22/87]
 
-(4) Where the carrying on of such separate trade results in a profit in any accounting period, and the profit, computed in accordance with the provisions of the Income Tax Act (Cap. 134) as modified by this section, amounts to less than 5% of the full sum receivable from the sale of goods or the provision of services, the statutory income from that source shall be deemed to be 5% (or such lower rate as the Ministermay specify in any particular case) of the full sum so receivable and the income of the pioneer enterprise shall be abated accordingly.
+(4) Where the carrying on of such separate trade results in a profit in any accounting period, and the profit, computed in accordance with the provisions of the Income Tax Act (Cap. 134) as modified by this section, amounts to less than 5% of the full sum receivable from the sale of goods or the provision of services, the statutory income from that source shall be deemed to be 5% (or such lower rate as the Comptroller may specify in any particular case) of the full sum so receivable and the income of the pioneer enterprise shall be abated accordingly.
 
 [22/87]
 
@@ -540,7 +540,7 @@ the capital expenditure so incurred by the pioneer enterprise within its tax rel
 
 [29/91]
 
-(3A) Where the carrying on of a separate trade or business by a pioneer enterprise referred to in subsection (3) has been permitted under section 8(1), and an industrial building, plant or machinery is used both for the purposes of that trade or business and the trade or business relating to the relevant pioneer product, subsection (3) shall apply to that building, plant or machinery.
+(3A) Where a pioneer enterprise referred to in subsection (3) carries on a separate trade or business, and an industrial building, plant or machinery is used both for the purposes of that trade or business and the trade or business relating to the relevant pioneer product, subsection (3) shall apply to that building, plant or machinery.
 
 [29/91]
 
@@ -3070,6 +3070,11 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 46/2002 published on 26 November 2002)|
 ||Date of Second and Third Readings|5 December 2002|
 ||Date of commencement|3 May 2002|
+|22.|**Act 11 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004**|
+||Date of First Reading|27 February 2004|
+|||(Bill No. 7/2004 published on 28 February 2004)|
+||Date of Second and Third Readings|20 April 2004|
+||Date of commencement|27 November 2002|
 ## COMPARATIVE TABLE
 
 Economic Expansion Incentives (Relief from Income Tax) Act
