@@ -108,9 +108,13 @@ An Act to impose a duty in respect of admission to entertainments.
 
 ### Appointment of Comptroller of Entertainments Duty
 
-3\.—(1) The Director-General of Customs and Excise shall be the Comptroller of Entertainments Duty (referred to in this Act as the Comptroller) and shall be responsible for collecting the duties prescribed by section 4 and generally for carrying out the provisions of this Act and of any rules made thereunder.
+3\.—(1) The Director-General of Customs shall be the Comptroller of Entertainments Duty (referred to in this Act as the Comptroller) and shall be responsible for collecting the duties prescribed by section 4 and generally for carrying out the provisions of this Act and of any rules made thereunder.
 
-(2) The Deputy Director-General and every Senior Director and Director of Customs and Excise shall be an Assistant Comptroller of Entertainments Duty and shall have all the powers conferred upon the Comptroller by this Act or any rules made thereunder.
+[4/2003 wef 01/04/2003]
+
+(2) Every Deputy Director-General of Customs and Assistant Director-General of Customs shall be an Assistant Comptroller of Entertainments Duty and shall have all the powers conferred upon the Comptroller by this Act or any rules made thereunder.
+
+[4/2003 wef 01/04/2003]
 
 (3) The Minister may appoint a deputy or deputies to the Comptroller either generally for the purposes of this Act or of any rules made thereunder or for the purposes of particular provisions of this Act or for the purposes of particular rules made under this Act.
 
@@ -425,3 +429,8 @@ This Legislative History is provided for the convenience of users of the Enterta
 |||(Bill No. 14/1993)|
 ||Date of Second and Third Readings|12 October 1993|
 ||Date of commencement|26 November 1993|
+|15.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
