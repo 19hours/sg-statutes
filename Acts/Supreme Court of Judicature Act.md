@@ -458,7 +458,7 @@ Original Jurisdiction
 
 (d) by any person on the high seas where the offence is piracy by the law of nations;
 
-(e) by any person within or outside Singapore where the offence is punishable under and by virtue of the provisions of the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124) or the Maritime Offences Act 2003; and
+(e) by any person within or outside Singapore where the offence is punishable under and by virtue of the provisions of the Hijacking of Aircraft and Protection of Aircraft and International Airports Act (Cap. 124) ; and
 
 [26/2003 wef 03/05/2004]
 
@@ -656,15 +656,9 @@ Allocation of Proceedings
 
 (i) any proceedings specified in the order which, but for the order, the District Court would not have jurisdiction to hear and determine by reason only of the fact that the amount involved exceeds the monetary limit of its jurisdiction; or
 
-(ii) any proceedings relating to any of the matters referred to in section 17(a) to (e);
+(ii) any proceedings relating to any of the matters referred to in section 17(a) to (e); and
 
-[36/2004 wef 01/11/2004]
-
-(b) may make such provision governing appeals relating to proceedings transferred to the District Court (including provisions restricting the right of appeal) as the Chief Justice thinks fit; and
-
-[36/2004 wef 01/11/2004]
-
- may make such incidental provision for the transfer of the proceedings to the District Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
+(b) may make such incidental provision for the transfer of the proceedings to the District Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
 
 [16/93]
 
@@ -810,23 +804,13 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 (b) where the only issue in the appeal relates to costs or fees for hearing dates;
 
-(c) where a Judge in chambers makes a decision in a summary way on an interpleader summons where the facts are not in dispute;
+(c) where a Judge in chambers makes a decision in a summary way on an interpleader summons where the facts are not in dispute; or
 
-[36/2004 wef 01/11/2004]
-
-(d) an order refusing to strike out an action or a pleading or a part of a pleading; or
+(d) an order refusing to strike out an action or a pleading or a part of a pleading.
 
 [36/2004 wef 01/11/2004]
 
 [16/93; 43/98]
-
-(e) where the High Court makes an order in the exercise of its appellate jurisdiction with respect to any proceedings under the Adoption of Children Act (Cap. 4) or under Part VII, VIII or IX of the Women’s Charter (Cap. 353).
-
-[36/2004 wef 01/11/2004]
-
-(2A) Subsection (2)(a) shall not apply to any case heard and determined by the High Court in the exercise of its original jurisdiction under section 17A of this Act or under section 59 or Part X of the Women’s Charter.
-
-[36/2004 wef 01/11/2004]
 
 (3) The President may, after consulting the Chief Justice, by order published in theGazettevary the amount mentioned in subsection (2)(a).
 
@@ -1482,19 +1466,9 @@ Section 18(2)
 
 Additional Powers of the High Court
 
-Prerogative orders
+Prerogative writs
 
-1. Power to issue to any person or authority any direction, order or writ for the enforcement of any right conferred by any written law or for any other purpose, including the following prerogative orders:
-
-(a) a Mandatory Order (formerly known asmandamus);
-
-(b) a Prohibiting Order (formerly known as a prohibition);
-
-(c) a Quashing Order (formerly known ascertiorari); and
-
-(d) an Order for Review of Detention (formerly known as a writ ofhabeas corpus).
-
-[42/2005 wef 01/01/2006]
+1\. Power to issue to any person or authority directions, orders or writs, including writs of the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, or any others, for the enforcement of any of the rights conferred by any written law or for any purpose.
 
 Partition and sale in lieu of partition
 
@@ -1677,6 +1651,12 @@ This Legislative History is provided for the convenience of users of the Supreme
 ||Date of commencement|1 August 1999 (item (2) of the Schedule — amendment of Supreme Court of Judicature Act)|
 |16.|**1999 Revised Edition—Supreme Court of Judicature Act (Chapter 322)**|
 ||Date of operation|1 August 1999|
+|17.|**Act 26 of 2003—Maritime Offences Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 October 2003|
+|||(Bill No. 23/2003)|
+||Date of Second and Third Readings|10 November 2003|
+||Date of commencement|3 May 2004 (section 13 — amendment of Supreme Court of Judicature Act|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
