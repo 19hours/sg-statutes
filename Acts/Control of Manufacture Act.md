@@ -204,7 +204,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 FIRST SCHEDULE
 
-Sections 2, 5(2), 8(1), 13.
+Sections 2, 5(2), 8(1), 13
 
 Specified goods
 
@@ -224,13 +224,21 @@ Specified goods
 
 8\. Rolled steel products.
 
-9\. Steel ingots, billets, blooms and slabs.
-
-10. Chewing gum, bubble gum, dental chewing gum or any like substance.
+9. Steel ingots, billets, blooms and slabs.
 
 [S 382/73; S 65/74; S 153/74; S 208/75; S 270/80; S 318/80; S 175/82; S 257/84]
 
-[S 4/1992 wef 03/01/1992]
+10. Chewing gum, bubble gum, dental chewing gum or any like substance.
+
+[S 4/92 wef 03/01/1992]
+
+11. CD (compact disc), CD-ROM (compact disc-read only memory), VCD (video compact disc).
+
+[S 247/98 wef 17/04/1998]
+
+12. DVD (digital video disc) DVD-ROM (digital video disc-read only memory).
+
+[S 247/98 wef 17/04/1998]
 
 SECOND SCHEDULE
 
@@ -263,3 +271,5 @@ This Legislative History is provided for the convenience of users of the Control
 ||Date of operation|30 March 1987|
 |3.|**G. N. No. S 4/1992—Control of Manufacture Act (Amendment of First Schedule) Order 1992**|
 ||Date of commencement|3 January 1992|
+|4.|**G. N. No. S 247/1998—Control Of Manufacture Act (Amendment Of First Schedule) Order 1998**|
+||Date of commencement|17 April 1998|
