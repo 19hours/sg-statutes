@@ -14,6 +14,8 @@
 
 - [4 Minimum retirement age](#Minimum-retirement-age)
 
+- [4A Raising of minimum retirement age and wage reductions](#Raising-of-minimum-retirement-age-and-wage-reductions)
+
 - [5 Invalidity of term of contract of service](#Invalidity-of-term-of-contract-of-service)
 
 - [6 Restriction on contracting out](#Restriction-on-contracting-out)
@@ -91,6 +93,32 @@ An Act to provide for a minimum retirement age for employees and for matters con
 (2) No employer shall dismiss on the ground of age any employee who is below 60 years of age or the prescribed retirement age.
 
 (3) Any employer who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+### Raising of minimum retirement age and wage reductions
+
+4A\.—(1) This section shall only apply to employees who attain 60 years of age on or after 1st January 1999, and any reference in this section to an older employee shall be a reference to any such employee.
+
+(2) Where a retirement age higher than 60 years is prescribed under section 4(1), an employer may, from time to time and in accordance with this section, reduce the wages of any of his older employees on or at any time after the employee attains 60 years of age.
+
+(3) An employer who intends to reduce the wages of any of his older employees under this section shall, before the older employee concerned attains 60 years of age or other higher age, as the case may be, give reasonable prior notice in writing to the older employee of his intention to reduce his wages, stating the amount of such reduction and the effective date of such reduction, and giving him a reasonable opportunity of being heard.
+
+(4) If an older employee does not agree with any proposed reduction in his wages, he may either retire or be retired by his employer on or after attaining 60 years of age notwithstanding any of the provisions of this Act.
+
+(5) An employer may reduce under this section the wages of different older employees differently except that —
+
+(a) the reduction shall be based on reasonable factors other than age (including but not limited to the employee’s productivity, performance, duties and responsibilities, and the wage system such as the seniority system applicable to the employee) unless age is a bona fide occupational qualification reasonably necessary to the ordinary performance of the older employee’s job; and
+
+(b) no employer may reduce the wages of any of his older employees by an aggregate amount which exceeds 10% of the wages paid or payable to the employee when that employee attains or attained 60 years of age.
+
+(6) Notwithstanding any law to the contrary, the service of a written notice under subsection (3) by an employer on any of his older employees shall not be regarded as a termination or repudiation of the contract of employment between the employer and the older employee, or as requiring or causing the older employee to retire or resign on the ground of age.
+
+(7) For the purpose of this section —
+
+(a) “wages” includes salaries; and
+
+(b) a person shall be regarded as attaining the age of 60 or more years on the sixtieth or other anniversary, as the case may be, of the date of his birth.
+
+[49/98 wef 01/01/1999]
 
 ### Invalidity of term of contract of service
 
@@ -203,3 +231,8 @@ This Legislative History is provided for the convenience of users of the Retirem
 ||Date of commencement|1 July 1993|
 |2.|**1994 Revised Edition—Retirement Age Act (Chapter 274A)**|
 ||Date of operation|15 March 1994|
+|3.|**Act 49 of 1998—Retirement Age (Amendment) Act 1998**|
+||Date of First Reading|12 October 1998|
+|||(Bill No. 47/98 published on 13 October 1998)|
+||Date of Second and Third Readings|26 November 1998|
+||Date of commencement|1 January 1999|
