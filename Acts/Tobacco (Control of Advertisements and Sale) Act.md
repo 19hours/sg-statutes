@@ -264,7 +264,7 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 ### Control of smoking etc., by young persons
 
-11\.—(1) Any person who, being below the age of 18 years, smokes or chews any tobacco product in a public place or on a road, or buys or has in his possession, whether for his own use or not, any tobacco product, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50 and, in the case of a second or subsequent conviction, to a fine not exceeding $100.
+11\.—(1) Any person who, being below the age of 18 years, smokes or chews any tobacco product in a public place or on a road, or buys or has in his possession, whether for his own use or not, any tobacco product, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300.
 
 (2) Where a police officer or an authorised officer finds in any public place or on a road a person, whom the officer reasonably suspects as being below the age of 18 years, smoking or chewing or about to smoke or chew any tobacco product, the officer may seize any tobacco product in the possession of such person.
 
@@ -317,6 +317,8 @@ any substance in excess of such amount as the Minister may by order prescribe fo
 [35/2002 wef 01/04/2003]
 
 (3) Subsections (1), (2) and (2A) shall not apply to the importation of any tobacco product which is intended for re-export.
+
+(4) [Deleted by Act 35/2003 wef 01/04/2003]
 
 (5) Any person who contravenes subsection (1), (2) and (2A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding one year or to both.
 
@@ -498,9 +500,13 @@ and shall, where as a result of the test proceedings for an offence under this A
 
 ### Composition of offences
 
-32\.—(1) The Chief Executive or any person authorised by the Chief Executive in writing may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
+32\.—(1) The Chief Executive or any person authorised by the Chief Executive in writing may, in his discretion and subject to such conditions as he considers fit to impose, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
 
 (2) The Minister may make regulations to prescribe the offences which may be compounded.
+
+(3) Where the person reasonably suspected of having committed an offence under this Act or any regulations made thereunder was below the age of 18 years at the time of the alleged offence, a condition that may be imposed under subsection (1) in compounding the offence includes requiring the person and his parents or guardian to attend at such place as the Chief Executive may specify for the purpose of counselling.
+
+[35/2002 wef 01/05/2003]
 
 ### Fees, charges, etc., collected by the Chief Executive or authorised officer to be paid to Authority
 
@@ -572,3 +578,8 @@ This Legislative History is provided for the convenience of users of the Smoking
 |||(Bill No. 37/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Date of commencement|1 April 2003 (except sections 3, 4, 6 and 8)|
+|5.|**Act 35 of 2002—Smoking (Control of Advertisements and Sale of Tobacco) (Amendment) Act 2002**|
+||Date of First Reading|1 October 2002|
+|||(Bill No. 37/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|1 May 2003 (sections 3 and 8)|
