@@ -1414,3 +1414,9 @@ This Legislative History is provided for the convenience of users of the Industr
 |||(Bill No. 12/93 published on 27 February 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
+|10.|**Act 36 of 1995—Employment (Amendment) Act 1995**|
+||(Consequential amendments made by)||
+||Date of First Reading|27 September 1995|
+|||(Bill No. 35/95 published on 28 September 1995)|
+||Date of Second and Third Readings|1 November 1995|
+||Date of commencement|1 March 1996|
