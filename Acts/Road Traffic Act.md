@@ -62,6 +62,8 @@
 
 - [23 Vehicle destroyed, exported, etc.](#Vehicle-destroyed-exported-etc)
 
+- [23A Duty of manufacturers and dealers to notify Registrar and owners of safety-related defects in vehicles](#Duty-of-manufacturers-and-dealers-to-notify-Registrar-and-owners-of-safety-related-defects-in-vehicles)
+
 - [24 Alteration of vehicle or of its use](#Alteration-of-vehicle-or-of-its-use)
 
 - [25 Visitors’ vehicles](#Visitors’-vehicles)
@@ -304,6 +306,28 @@
 
 - [111 Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
+[**Part VA LICENSING OF TAXI SERVICE OPERATORS**](#Part-VA)
+
+- [111A Taxi service operator](#Taxi-service-operator)
+
+- [111B Licence required for operating taxi service](#Licence-required-for-operating-taxi-service)
+
+- [111C Application for, grant and duration of, licence](#Application-for-grant-and-duration-of-licence)
+
+- [111D Certain conditions subject to which licence may be granted](#Certain-conditions-subject-to-which-licence-may-be-granted)
+
+- [111E Constitution of firm or company to be licensed](#Constitution-of-firm-or-company-to-be-licensed)
+
+- [111F Modification of licence conditions](#Modification-of-licence-conditions)
+
+- [111G Power of Authority to give directions to licensees](#Power-of-Authority-to-give-directions-to-licensees)
+
+- [111H Power of Authority to deal with errant licensees](#Power-of-Authority-to-deal-with-errant-licensees)
+
+- [111I Recovery of sums payable under this Part](#Recovery-of-sums-payable-under-this-Part)
+
+- [111J Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
+
 [**Part VI PROVISIONS AS TO USE OF HIGHWAYS**](#Part-VI)
 
 - [112 Issue by Minister of highway code for guidance of users of roads](#Issue-by-Minister-of-highway-code-for-guidance-of-users-of-roads)
@@ -339,6 +363,8 @@
 - [126 Goods vehicles not to be used for passengers](#Goods-vehicles-not-to-be-used-for-passengers)
 
 - [127 Power of arrest, stopping and detention](#Power-of-arrest-stopping-and-detention)
+
+- [127A Power to require evidence of identity in certain cases](#Power-to-require-evidence-of-identity-in-certain-cases)
 
 - [128 Police officer not in uniform to produce identification card](#Police-officer-not-in-uniform-to-produce-identification-card)
 
@@ -442,11 +468,11 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “Minister” means —
 
-(a) except as provided in paragraphs (b) and (c), the Minister for Communications;
+(a) except as provided in paragraphs (b) and (c), the Minister for Transport;
 
 (b) for the purposes of the whole of Parts II and III and sections 63(2) and (3), 74, 75, 76, 112 to 116, 121 and 123, the Minister for Home Affairs; and
 
-(c) for the purposes of sections 132, 133(7), 134, 135(2), 140(1) and (2) and 142, the Minister for Communications or the Minister for Home Affairs, as appropriate;
+(c) for the purposes of sections 132, 133(7), 134, 135(2), 140(1) and (2) and 142, the Minister for Transport or the Minister for Home Affairs, as appropriate;
 
 [5/98 wef 01/04/1998]
 
@@ -487,8 +513,6 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 “trailer” means a vehicle drawn by a motor vehicle;
 
 “tricycle” means a three-wheeled pedal cycle constructed or adapted for the carriage of goods;
-
-“trishaw” means a three-wheeled pedal cycle constructed or adapted for the carriage of passengers;
 
 “use” means use on a road;
 
@@ -784,15 +808,21 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 (3) Any person who drives a motor vehicle, issued with a licence subject to the restriction referred to in subsection (1), in contravention of such a restriction or any owner of such a motor vehicle who causes or permits his vehicle to be so driven shall be guilty of an offence and shall on conviction be punished with —
 
-(a) a fine of not less than half the amount of the road tax payable for 12 months in respect of that motor vehicle if it were not subject to the restriction referred to in that subsection; and
+(a) a fine not exceeding $5,000; and
 
-(b) in the case of a second or subsequent conviction, a fine of not less than the amount of the road tax payable for 12 months in respect of that motor vehicle if it were not subject to the restriction referred to in that subsection.
+[1/2003 wef 17/03/2003]
+
+(b) in the case of a second or subsequent conviction, a fine not exceeding $10,000.
+
+[1/2003 wef 17/03/2003]
+
+(4) Any person who falsifies an identification mark or plate prescribed in the case of a motor vehicle issued with a licence subject to the restriction referred to in subsection (1) or who displays, or causes or permits to be displayed, a falsified identification mark or plate on such a motor vehicle shall be guilty of an offence and shall on conviction be punished with a fine not exceeding $20,000 or with imprisonment for a term not exceeding 12 months or with both.
 
 [16/91]
 
-(4) Any person who falsifies an identification mark or plate prescribed in the case of a motor vehicle issued with a licence subject to the restriction referred to in subsection (1) or who displays, or causes or permits to be displayed, a falsified identification mark or plate on such a motor vehicle shall be guilty of an offence and shall on conviction be punished with a fine of not less than twice the amount of the fee payable for a licence for 12 months in respect of that motor vehicle as if it were not subject to the restriction referred to in that subsection.
+(5) Notwithstanding the provisions of any written law to the contrary, a District Court or Magistrate’s Court shall have the jurisdiction to try any offence under this section and to impose the maximum penalty prescribed therefor.
 
-[16/91]
+[1/2003 wef 17/03/2003]
 
 ### Vehicles licensed outside Singapore
 
@@ -924,8 +954,6 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 [28/2001 wef 10/09/2001]
 
-(4) Subject to the rules, and without prejudice to section 25, any person who uses or keeps on a road any vehicle on which tax under this Act is chargeable without there being fixed to and exhibited on that vehicle in the prescribed manner a licence for, or in respect of the use of, that vehicle issued under this Act and for the time being in force shall be guilty of an offence.
-
 (5) Rules made under this Act may provide for the issue of a new licence in the place of a licence which may be lost or destroyed, and for the fee to be paid on the issue of a new licence.
 
 (6) Any vehicle licence may be transferred in the prescribed manner.
@@ -959,6 +987,66 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 23\. The holder of a licence may at any time notify the Registrar that his vehicle has been destroyed or exported or will cease to be kept or used on any road and the Registrar, on being satisfied in such manner as he requires that the vehicle has been destroyed or exported or will cease to be kept or used on any road, shall refund to the holder of the licence a sum equal to the amount which has been charged for the number of calendar months or part thereof for which the licence would have continued to be in force.
 
 [33/93]
+
+### Duty of manufacturers and dealers to notify Registrar and owners of safety-related defects in vehicles
+
+23A\.—(1) Any person being a manufacturer or dealer of vehicles shall, on becoming aware of any safety-related defect in any vehicle manufactured or sold by him, cause a notice of the defect to be given to —
+
+(a) the Registrar;
+
+(b) each person who has obtained such a vehicle from the manufacturer or dealer; and
+
+(c) each current owner of such a vehicle as determined from —
+
+(i) any warranty issued by the manufacturer or dealer with respect to the functioning of the vehicle that has, to the knowledge of the manufacturer or dealer, been given, sold or transferred to the current owner; or
+
+(ii) the vehicle registration records as kept by the Registrar.
+
+(2) Where the Registrar is satisfied that the name of the current owner of a vehicle cannot reasonably be determined by a manufacturer or dealer in accordance with subsection (1)(c), the Registrar may —
+
+(a) order the manufacturer or dealer to give notice of the defect by publication in all daily newspapers in Singapore or by dissemination in such alternative medium for such period as the Registrar may determine; or
+
+(b) order that the current owner need not be notified.
+
+(3) A notice required to be given under subsection (1) or (2) shall be in such form as the Registrar may require and shall —
+
+(a) contain a description of the defect, an evaluation of the safety risk arising from it and the directions for rectifying it; and
+
+(b) state the time and place at which the person to whom the notice is given may present his vehicle in order that the defect may be rectified by the manufacturer or dealer or his agent.
+
+(4) Any manufacturer or dealer of vehicles who causes any notice to be given under subsection (1) or (2) in connection with any safety-related defect in any vehicle manufactured or sold by him shall —
+
+(a) within a period of one month from the date on which such notice is given; and
+
+(b) thereafter, within such subsequent period as the Registrar may require,
+
+submit to the Registrar in such form as the Registrar may require a report containing such information relating to the safety-related defect and its rectification as the Registrar may require.
+
+(5) Any person who, being a manufacturer or dealer of vehicles —
+
+(a) fails to comply with the requirements of subsection (1), (3) or (4) or any order given by the Registrar under subsection (2)(a); or
+
+(b) fails to rectify or secure the rectification by his agent of any safety-related defect in any vehicle that is presented for rectification pursuant to a notice given by the manufacturer or dealer under this section,
+
+shall be guilty of an offence and shall be liable on conviction —
+
+(i) to a fine not exceeding $2,000 for each vehicle in respect of which the offence is committed, subject to a maximum fine of $50,000; and
+
+(ii) in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
+
+(6) Notwithstanding the provisions of any written law to the contrary, a District Court or Magistrate’s Court shall have the jurisdiction to try any offence under subsection (5) and to impose the maximum penalty prescribed therefor under that subsection.
+
+(7) Any person who, being the owner of a vehicle in respect of which a notice has been given by a manufacturer or dealer under this section, fails to produce the vehicle for rectification within such period as may be specified in the notice or such other period as the Registrar may allow shall be guilty of an offence.
+
+(8) The Authority, with the approval of the Minister, may make rules for the purposes of carrying this section into effect.
+
+(9) In this section —
+
+“dealer” means a person who is engaged in the business of importing or selling vehicles;
+
+“safety-related defect”, in relation to a vehicle, means a feature of the design or construction of the vehicle that is liable to cause significant risk of personal injury or death to any person using the vehicle or any other road user, and includes any defect relating to a component of the vehicle that is bought by the manufacturer of the vehicle from a supplier and sold by the manufacturer of the vehicle together with the vehicle as original equipment.
+
+[1/2003 wef 17/03/2003]
 
 ### Alteration of vehicle or of its use
 
@@ -1222,7 +1310,9 @@ issue a general licence to the applicant either unconditionally or subject to su
 
 (q) to prescribe a levy for the re-registration of a used vehicle in the name of the purchaser of the vehicle; and
 
-(r) to regulate the registration and licensing of heavy vehicles.
+(r) to regulate the registration, licensing, keeping and use of heavy vehicles.
+
+[1/2003 wef 17/03/2003]
 
 [7/90; 16/91; 33/93]
 
@@ -1236,7 +1326,9 @@ ROAD-USER CHARGES
 
 34A\. In this Part —
 
-“authorised officer” means any officer authorised by the Registrar;
+“authorised officer” means any employee of the Authority, or any other person, who is duly authorised by the Registrar in writing to carry out any particular function or to exercise any particular power under this Part;
+
+[1/2003 wef 17/03/2003]
 
 “prescribed hours” means such hours as the Minister may prescribe for the levying of a road-user charge in respect of any specified road;
 
@@ -1340,7 +1432,7 @@ LICENSING OF DRIVERS
 
 [21/2002 wef 16/12/2002]
 
-(8) The Deputy Commissioner of Police may refuse to renew any driving licence, or may renew it for a period shorter than that provided for in subsection (7) (a) or (b), if he is satisfied —
+(8) The Deputy Commissioner of Police may refuse to renew any driving licence, or may renew it for a period shorter than that provided for in subsection (7)(a) or (b), if he is satisfied —
 
 (a) that the holder of the driving licence has not complied with any process of court issued against him in respect of any offence committed by him under this Act or the rules or any written law specified in Part II of the First Schedule; or
 
@@ -2614,7 +2706,9 @@ Miscellaneous
 
 ### Power to order production of vehicle and licence
 
-87\.—(1) The Deputy Commissioner of Police or the Registrar may by notice in writing require the owner of any licenced vehicle to produce at some convenient place and time for his inspection the vehicle or the licence relating thereto or both and the owner shall, as soon as practicable after the service upon him of the notice, produce the vehicle or licence or both, as the case may be.
+87\.—(1) The Deputy Commissioner of Police or the Registrar may by notice in writing require the owner of any licensed vehicle to produce either or both the vehicle or the licence relating thereto for an inspection at such time and place and by such person as may be specified in the notice.
+
+[1/2003 wef 17/03/2003]
 
 (2) Such notice may be served upon the owner personally or may be sent to him by registered post to the address contained in the register of vehicles kept under this Act or the rules.
 
@@ -2692,7 +2786,15 @@ Miscellaneous
 
 ### Power to examine vehicles
 
-93\. Any police officer in uniform may at any time examine any vehicle or trailer which is being used and the licence thereof to see if the vehicle or trailer complies with the provisions of this Act or the rules and if any person obstructs any such officer in the exercise of his powers and duty under this section, that person shall be guilty of an offence.
+93\.—(1) Any police officer in uniform may, for the purpose of ensuring that any vehicle or trailer that is being used on a road complies with this Act or the rules, at any time —
+
+(a) examine the vehicle or trailer or the licence relating thereto; or
+
+(b) order the owner or driver of the vehicle or trailer to deliver the same for an inspection by such person and at such time and place as the police officer may specify.
+
+(2) Any person who obstructs a police officer in the exercise of his powers under subsection (1)(a) or fails to comply with any order given by the police officer under subsection (1)(b) shall be guilty of an offence.
+
+[1/2003 wef 17/03/2003]
 
 ### Weighing of vehicles
 
@@ -2702,7 +2804,9 @@ Miscellaneous
 
 (3) Subject to the provisions of this Act and the rules, it shall be lawful for any police officer so authorised to require the person in charge of the motor vehicle to unload the motor vehicle or trailer for the purpose of being weighed unladen.
 
-(4) Where a motor vehicle or trailer is weighed under this section, a certificate of weight shall be given to the person in charge of the motor vehicle by the officer who has required the vehicle to be weighed.
+(4) Where a motor vehicle or trailer is weighed under this section, a certificate of weight shall be given to the person in charge of the motor vehicle by the person who carried out the weighing of the vehicle.
+
+[1/2003 wef 17/03/2003]
 
 ### Power to seize vehicles
 
@@ -3017,6 +3121,228 @@ PUBLIC SERVICE VEHICLES
 111\. The Authority may make such rules as it may consider expedient for the purposes of this Part.
 
 [28/95]
+
+## PART VA
+
+LICENSING OF TAXI SERVICE OPERATORS
+
+[1/2003 wef 17/03/2003]
+
+### Taxi service operator
+
+111A\. For the purpose of this Part, a person operates a taxi service if, in the course of business, he owns more than one taxi and leases all or any of such taxis to individual drivers for the purpose of providing a service whereby —
+
+(a) the taxis ply for hire or are available for hire from designated taxi stands; or
+
+(b) bookings for the use of such taxis are accepted and taxis are assigned to persons making such bookings.
+
+### Licence required for operating taxi service
+
+111B\.—(1) No person shall operate a taxi service unless he has been licensed to do so by the Authority.
+
+(2) Any person who operates a taxi service without a licence granted by the Authority shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
+
+### Application for, grant and duration of, licence
+
+111C\.—(1) An application for a licence required under section 111B shall be made to the Authority in such form or manner as the Authority may require and shall be accompanied by —
+
+(a) such particulars, information and documents as may be specified by the Authority; and
+
+(b) if required by the Authority, a statutory declaration by the applicant verifying any information contained in or relating to the application.
+
+(2) The grant of licences under this section shall be at the discretion of the Authority and the Authority may, on receiving an application under subsection (1), grant a licence to the applicant on such terms and subject to such conditions as it thinks fit.
+
+(3) In determining whether to grant a licence under this section and what terms and conditions to impose thereon, the Authority shall consider —
+
+(a) the character and fitness of the applicant to be granted with a licence or, where the applicant is a body corporate, the character and fitness of the members of the board of directors or committee or board of trustees or other governing body of the body corporate;
+
+(b) the financial resources of the applicant;
+
+(c) whether the applicant is likely to provide a satisfactory taxi service to members of the public in respect of safety, continuity, regularity of operation, frequency, punctuality, reasonableness of charges and general efficiency;
+
+(d) the existence of other taxi services and the demand for taxi services;
+
+(e) the type of taxis proposed to be used by the applicant in providing the taxi service; and
+
+(f) any other matter which the Authority thinks relevant.
+
+(4) Any person aggrieved by a refusal of the Authority to grant a licence may, within 14 days of the refusal, appeal to the Minister whose decision shall be final.
+
+### Certain conditions subject to which licence may be granted
+
+111D\.—(1) Without prejudice to the generality of section 111C(2), the Authority may, in granting a licence thereunder, impose conditions —
+
+(a) controlling or restricting, directly or indirectly, the creation, holding or disposal of shares in the licensee or its shareholders, or of interests in the undertaking of the licensee or any part thereof;
+
+(b) requiring the payment to the Authority of a fee on the grant of the licence or the payment to it of periodic fees during the currency of the licence or both, of such amount as may be determined by the Authority;
+
+(c) requiring the licensee to do, or not to do, such things as are specified or described in the licence;
+
+(d) relating to the extent, hours and general level of the services to be provided by the licensee to members of the public;
+
+(e) relating to the condition and use of the taxis employed by the licensee in operating the taxi service;
+
+(f) relating to the conduct of the employees, agents and contractors of the licensee (including the persons to whom the licensee leases taxis in connection with the operation of the taxi service);
+
+(g) specifying codes of practice and standards of performance in connection with —
+
+(i) the operation and provision of taxi services;
+
+(ii) the conduct of licensees and their employees, agents and contractors in the provision of taxi services (including the persons to whom the licensees lease taxis in connection with the operation of the taxi service); and
+
+(iii) the preservation and promotion of fair competition amongst persons who have been licensed under this Part to operate taxi services;
+
+(h) requiring the licensee to undergo and pass such audit as the Authority may determine for compliance with —
+
+(i) the relevant provisions of this Act and the rules;
+
+(ii) the terms and conditions of the licence being held by the licensee;
+
+(iii) the codes of practice and standards of performance issued by the Authority under paragraph (g); and
+
+(iv) any direction given by the Authority under section 111G; and
+
+(i) requiring the licensee to obtain membership in or to make contributions to such body or organisation as may be specified by the Authority, being a body or an organisation that provides training programmes and other activities which the Authority thinks beneficial to the taxi industry.
+
+(2) For the purpose of subsection (1)(h) —
+
+(a) the audit shall be conducted by —
+
+(i) such officers of the Authority who have been duly designated by the Authority for the purpose; or
+
+(ii) a qualified independent audit team approved by the officers referred to in sub-paragraph (i) for the purpose;
+
+(b) the Authority may require the licensee —
+
+(i) to submit to the Authority or to the persons conducting the audit such information as the Authority may specify which pertains to the operation of the taxi service by the licensee; and
+
+(ii) to allow the persons conducting the audit to carry out on-site collection or verification of any information which pertains to the operation of the taxi service by the licensee;
+
+(c) any sample size used by the persons conducting the audit shall be deemed to be reasonable; and
+
+(d) the costs of and incidental to the conduct of the audit shall be borne by the licensee.
+
+### Constitution of firm or company to be licensed
+
+111E\.—(1) If the applicant for a licence is a partnership, all the members of the partnership must be approved by the Authority.
+
+(2) If the applicant for a licence is a company, all the directors of the company must be approved by the Authority.
+
+(3) No person shall be appointed to be a new partner or director of a licensee unless such person is approved by the Authority.
+
+(4) Every licensee shall inform the Authority of —
+
+(a) the withdrawal by, or the expulsion of, any partner from the partnership;
+
+(b) the resignation or removal of any director of the company; and
+
+(c) the death of any partner or director.
+
+### Modification of licence conditions
+
+111F\.—(1) Subject to this section, the Authority may modify the conditions of a licence imposed under section 111D.
+
+(2) Before modifying the conditions of a licence under subsection (1), the Authority shall give notice to the licensee —
+
+(a) stating that it proposes to make the modification in the manner as specified in the notice; and
+
+(b) specifying the time (not being less than 28 days from the date of service of the notice on such licensee) within which written representations with respect to the proposed modification may be made.
+
+(3) Upon receipt of any written representation referred to in subsection (2), the Authority shall consider such representation and may —
+
+(a) reject the representation; or
+
+(b) amend the proposed modification in accordance with the representation or otherwise,
+
+and, in either event, the Authority shall thereupon issue a direction in writing to the licensee requiring that effect be given within a reasonable time to the proposed modification specified in the notice or to such modification as subsequently amended by the Authority.
+
+(4) Any licensee aggrieved by the decision of the Authority under subsection (3) may, within 28 days of the receipt by him of the direction, appeal to the Minister whose decision shall be final.
+
+(5) The Authority shall not enforce its direction —
+
+(a) during the period referred to in subsection (4); and
+
+(b) whilst the appeal of the licensee is under consideration by the Minister.
+
+(6) If no written representation is received by the Authority within the time specified in subsection (2)(b) or if any written representation made is subsequently withdrawn, the Authority may forthwith carry out the modification as specified in the notice under subsection (2)(a).
+
+### Power of Authority to give directions to licensees
+
+111G\.—(1) The Authority may give directions to be observed by licensees for the purpose of —
+
+(a) ensuring that such licensees provide satisfactory taxi services to members of the public in respect of safety, continuity, regularity of operation, frequency, punctuality, reasonableness of charges or general efficiency; and
+
+(b) preserving and promoting fair competition amongst such licensees.
+
+(2) A direction under subsection (1) —
+
+(a) shall require the licensee concerned (according to the circumstances of the case) to do, or not to do, such things as are specified or described in the direction;
+
+(b) shall take effect at such time, being the earliest practicable time, as is determined by or under that direction; and
+
+(c) may be revoked or modified at any time by the Authority.
+
+(3) Before giving a direction to any licensee under subsection (1), the Authority shall, unless the Authority in respect of any particular direction considers that it is not practicable or desirable, give notice —
+
+(a) stating that the Authority proposes to make the direction and setting out its effect; and
+
+(b) specifying the time within which representations or objections to the proposed direction may be made,
+
+and shall consider any representation or objection which is duly made.
+
+(4) Every licensee shall, at his own expense, comply with every direction of the Authority given to the licensee under this section.
+
+(5) Any licensee who is aggrieved by any direction of the Authority under subsection (1) may, within 14 days after the licensee is served with the direction, appeal to the Minister whose decision shall be final.
+
+(6) The Authority shall not enforce its direction —
+
+(a) during the period referred to in subsection (5); and
+
+(b) whilst the appeal of the licensee is under consideration by the Minister.
+
+### Power of Authority to deal with errant licensees
+
+111H\.—(1) If the Authority is satisfied that any licensee —
+
+(a) has contravened any relevant provision of this Act or the rules, any term or condition of his licence or any code of practice, standard of performance or direction issued by the Authority under this Part;
+
+(b) has failed to secure the compliance by any of his employees, agents or contractors (including the persons to whom the licensee has leased taxis in connection with the operation of the taxi service) with any provision, term, condition, code of practice, standard of performance or direction referred to in paragraph (a); or
+
+(c) has otherwise failed to provide a satisfactory taxi service in respect of safety, continuity, regularity of operation, frequency, punctuality, reasonableness of charges or general efficiency,
+
+the Authority may, subject to the provisions of this section —
+
+(i) issue such written order to the licensee as it considers requisite for the purpose of securing the compliance by the licensee or any of his employees, agents or contractors (including the persons to whom the licensee has leased taxis in connection with the operation of the taxi service) with the provision, term, condition, code of practice or standard of performance or direction referred to in paragraph (a);
+
+(ii) require the licensee to pay to the Authority, within a specified period, a financial penalty of such amount not exceeding $100,000 as the Authority thinks fit; or
+
+(iii) suspend or cancel the licence being held by the licensee in whole or in part.
+
+(2) The Authority shall, before requiring the payment of any financial penalty under subsection (1)(ii) or suspending or cancelling a licence under subsection (1)(iii), give to the licensee notice in writing of its intention to do so and shall in such notice call upon the licensee to show cause within such time as may be specified in the notice as to why he should not be required to pay a financial penalty or why his licence should not be suspended or cancelled, as the case may be.
+
+(3) If the licensee —
+
+(a) fails to show cause within the period of time given to him to do so or such extended period of time as the Authority may allow; or
+
+(b) fails to show sufficient cause,
+
+the Authority shall give notice in writing to the licensee of the date by which the financial penalty shall be paid or from which the suspension or cancellation of his licence is to take effect, as the case may be.
+
+(4) Subject to subsection (5), any licensee who is aggrieved by any decision of the Authority under subsection (1) may appeal to the Minister whose decision shall be final.
+
+(5) An appeal under subsection (4) shall be brought within the following time:
+
+(a) in the case of an appeal from a written order issued under subsection (1)(i), within 14 days from the date on which the written order is served on him; and
+
+(b) in the case of an appeal from the imposition of a financial penalty under subsection (1)(ii) or the suspension or cancellation of a licence under subsection (1)(iii), within 14 days from the date on which the notice in writing is given to him under subsection (3).
+
+### Recovery of sums payable under this Part
+
+111I\. Where any fee, contribution, financial penalty or other sum payable under this Part remains due and unpaid by a licensee, the Authority may require the licensee to pay interest thereon at the prescribed rate, and any such fee, contribution, financial penalty or other sum, and any interest thereon, may be recovered by the Authority in any court of competent jurisdiction as if they were simple contract debts.
+
+### Rules for purposes of this Part
+
+111J\. The Authority may, with the approval of the Minister, make rules for any purpose for which rules may be made under this Part and for prescribing anything which may be prescribed under this Part, and otherwise for the purpose of carrying this Part into effect.
 
 ## PART VI
 
@@ -3388,6 +3714,32 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (10) When any person is taken before a Magistrate’s Court under subsection (9), the Court shall require him to execute a bond with or without a surety for his appearance before a Magistrate’s Court, if so required.
 
+### Power to require evidence of identity in certain cases
+
+127A\.—(1) If any person commits a prescribed offence in the view of the Registrar or an authorised officer, the Registrar or authorised officer may require such person to furnish evidence of his identity and such person shall thereupon furnish such evidence of his identity as may be required by the Registrar or authorised officer.
+
+(2) Any person who —
+
+(a) refuses to furnish any evidence of identity required of him by the Registrar or an authorised officer under subsection (1); or
+
+(b) wilfully furnishes to the Registrar or authorised officer any information that is false,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+
+(3) If any person refuses to furnish any evidence of his identity when required to do so under this section or if the Registrar or an authorised officer has reason to believe that any information furnished by such person is false, the Registrar or authorised officer may without warrant arrest such person.
+
+(4) No person arrested under subsection (3) shall be detained longer than is necessary for bringing him before a court unless the order of a court for his detention is obtained.
+
+(5) In this section —
+
+“authorised officer” means any employee of the Authority or any other person who is duly authorised by the Registrar in writing to exercise the powers conferred on an authorised officer under this section;
+
+“prescribed offence” means any offence under this Act or the rules which is prescribed by the Minister as an offence to which this section applies.
+
+(6) For the purpose of this section, the Registrar may, with the written approval of the Minister, authorise any employee of any omnibus operator to exercise the powers of an authorised officer under this section in respect of any prescribed offence that is committed within a bus interchange or on an omnibus.
+
+[1/2003 wef 17/03/2003]
+
 ### Police officer not in uniform to produce identification card
 
 128\.—(1) Every police officer when acting against any person under this Act shall, if not in uniform, on demand declare his office and produce to the person against whom he is acting such identification card as the Commissioner of Police may direct to be carried by police officers.
@@ -3402,13 +3754,15 @@ MISCELLANEOUS PROVISIONS
 
 129\.—(1) If any person —
 
-(a) in relation to an application made under this Act or the rules for the registration of a vehicle, the grant of any permit or licence to himself or any other person, or for the purpose of preventing the grant or variation of any licence or of procuring the imposition of any condition or limitation in relation to a licence, makes any statement or declaration which is false or in any material respect misleading;
+(a) in relation to an application made under this Act or the rules for registration or the cancellation of the registration of a vehicle, the grant of any approval, permit or licence to himself or any other person, or for the purpose of preventing the grant or variation of any approval, permit or licence or of procuring the imposition of any condition or limitation in relation to any approval, permit or licence, makes any statement or declaration which is false or in any material respect misleading;
+
+[1/2003 wef 17/03/2003]
 
 (b) furnishes any particulars in connection with a change of the registration of any vehicle which to his knowledge are false or in any material respect misleading; or
 
 (c) makes any entry in a record, register or other document required to be kept under this Act and the rules which to his knowledge is false or in any material respect misleading,
 
-he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+he shall be guilty of an offence $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (2) If any person —
 
@@ -3424,7 +3778,23 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (f) uses any forged, altered, defaced or mutilated driving licence or any driving licence to which any addition not authorised by this Act has been made,
 
-he shall, unless he establishes to the satisfaction of the court that he acted without intent to deceive, be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+he shall, unless he establishes to the satisfaction of the court that he acted without intent to deceive, be guilty of an offence and shall be liable on conviction to be punished as follows:
+
+(i) in the case of a person who is convicted for the first time of an offence under subsection (2)(a) or (d) in connection with the alteration of a supplementary licence issued under section 11A, with a fine not exceeding $10,000;
+
+[1/2003 wef 17/03/2003]
+
+(ii) in the case of a person who is convicted of a second or subsequent offence under subsection (2)(a) or (d) in connection with the alteration of a supplementary licence issued under section 11A, with a fine not exceeding $20,000 or with imprisonment for a term not exceeding 12 months or with both; and
+
+[1/2003 wef 17/03/2003]
+
+(iii) in any other case, with a fine not exceeding $5,000 or with imprisonment for a term not exceeding 12 months or with both.
+
+[1/2003 wef 17/03/2003]
+
+(2A) Notwithstanding the provisions of any written law to the contrary, a District Court or Magistrate’s Court shall have the jurisdiction to try any offence under this section and to impose the maximum penalty prescribed therefor.
+
+[1/2003 wef 17/03/2003]
 
 (3) Subsection (2) shall, with the necessary modifications, apply in relation to a document evidencing the appointment of an officer for the purposes of this Act as it applies in relation to a licence.
 
@@ -3552,7 +3922,7 @@ shall be guilty of an offence.
 
 ### Composition of offences
 
-135\.—(1) The Deputy Commissioner of Police, any police officer not below the rank of sergeant specially authorised by name in that behalf by the Deputy Commissioner of Police by notification in theGazetteor any employee of the Authority specially authorised by name in that behalf by the Minister for Communicationsby notification in theGazettemay, in his discretion and subject to such conditions as may be prescribed, compound any such offence under this Act or the rules as may be prescribed as an offence which may be compounded by the Deputy Commissioner of Police or such police officer or employee of the Authority by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
+135\.—(1) The Deputy Commissioner of Police, any police officer not below the rank of sergeant specially authorised by name in that behalf by the Deputy Commissioner of Police by notification in theGazetteor any employee of the Authority specially authorised by name in that behalf by the Minister for Transport by notification in theGazettemay, in his discretion and subject to such conditions as may be prescribed, compound any such offence under this Act or the rules as may be prescribed as an offence which may be compounded by the Deputy Commissioner of Police or such police officer or employee of the Authority by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
 
 [28/95; 11/96]
 
@@ -3994,3 +4364,8 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of Second and Third Readings|23 July 2002|
 ||Date of commencement|16 December 2002|
 |||(sections 2, 3 and 9)|
+|46.|**Act 1 of 2003—Road Traffic (Amendment) Act 2003**|
+||Date of First Reading|25 November 2002|
+|||(Bill No. 45/2002 published on 26 November 2002)|
+||Date of Second and Third Readings|25 January 2003|
+||Date of commencement|17 March 2003|
