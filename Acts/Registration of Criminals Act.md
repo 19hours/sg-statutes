@@ -318,7 +318,7 @@ Part II
 
 Offences under Other Laws
 
-Arms Offences Act [Cap. 14]
+Armed Offences Act [Cap. 14]
 
 ...
 
@@ -462,9 +462,9 @@ Merchant Shipping Act [Cap. 179]
 
 Sections 30, 48, 55, 97, 118, 124, 141(3), 157, 167, 213, 232 and 259.
 
-Minor Offences Act [Cap. 184]
+Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184)
 
-Sections 22, 25, 30, 31, 37(1), 37(5) and 43
+Sections 22, 25, 30, 31, 36, 36A, 37(1) and 37(5).
 
 Misuse of Drugs Act [Cap. 185]
 
@@ -605,6 +605,8 @@ Women’s Charter [Cap. 353]
 Sections 35 to 40 and the whole of Part X.
 
 [17/80]
+
+[10/1989 wef 09/06/1989]
 
 SECOND SCHEDULE
 
@@ -818,3 +820,9 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of operation|30 March 1987|
 |18.|**G. N. No. S 337/1987—Revised Edition of the Laws (Rectification) Order 1987**|
 ||Date of commencement|30 March 1987|
+|19.|**Act 10 of 1989—Minor Offences (Amendment) Act 1989**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 January 1989|
+|||(Bill No. 16/1989 published on 19 January 1989)|
+||Date of Second and Third Readings|16 February 1989|
+||Date of commencement|9 June 1989|
