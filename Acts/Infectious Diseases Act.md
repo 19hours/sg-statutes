@@ -206,6 +206,10 @@ PRELIMINARY
 
 “baggage” means the personal effects of a traveller or of a crew member of a vessel;
 
+“Board” means the Health Promotion Board established under the Health Promotion Board Act 2001;
+
+[5/2001 wef 01/04/2001]
+
 “building” means any house, hut, shed or roofed enclosure, whether intended for the purpose of human habitation or otherwise, and any wall, gate, post, pillar, paling, frame, hoarding, slip, dock, wharf, pier, jetty, landing-stage or bridge;
 
 “carrier”, in relation to any infectious disease, means any person who is harbouring or is likely to or is suspected to harbour the agents of that disease;
@@ -894,19 +898,27 @@ VACCINATION
 
 ### Vaccination and intradermal tests
 
-48\.—(1) No vaccination or intradermal test shall be carried out except by a medical practitioner, or by a nurse employed by the Governmentor working under the supervision of a medical practitioner.
+48\.—(1) No vaccination or intradermal test shall be carried out except by a medical practitioner, or by a nurse employed by the Board or working under the supervision of a medical practitioner.
 
 (2) Every medical practitioner shall —
 
 (a) keep in the prescribed manner a record of all vaccination and intradermal tests carried out by him or under his supervision; and
 
-(b) within 7 days of a vaccination inform the Director in the prescribed form and deliver the duplicate thereof to the person or to the parent or guardian of the child.
+(b) within 7 days of a vaccination make a notification thereof in the prescribed form to —
+
+(i) the Director; or
+
+(ii) any officer of the Board who is designated by the Director for the purpose,
+
+and deliver the duplicate copy of the notification to the person on whom the vaccination or intradermal test was carried out or, if such person is a child, to the parent or guardian of such child.
+
+[5/2001 wef 01/04/2001]
 
 [43
 
 ### Exemption from vaccination
 
-49\. The Director may grant the postponement of or exemption from any vaccination required under this Part as he thinks fit.
+49\. The Director or any officer of the Board who is designated by the Director for the purpose may grant the postponement of or exemption from any vaccination required under this Part as he thinks fit.
 
 [44
 
@@ -918,7 +930,9 @@ VACCINATION
 
 (3) Before the expiry of the prescribed period the person shall go, or the parent or guardian of the child shall take or cause the child to be taken, to a medical practitioner who shall then examine and vaccinate the person or child or give a further exemption certificate in respect of that person or child in such form as may be prescribed.
 
-(4) Any medical practitioner who issues an exemption certificate under this section shall immediately send a copy thereof to the Director.
+(4) Any medical practitioner who issues an exemption certificate under this section shall immediately send a copy thereof to the Director or to an officer of the Board who is designated by the Director for the purpose.
+
+[5/2001 wef 01/04/2001]
 
 ### Offence
 
@@ -1044,7 +1058,7 @@ MISCELLANEOUS
 
 ### Evidence
 
-63\.—(1) All records, registers and other documents kept by the Commissioner or the Director or by any public officerfor the purposes of this Act or any regulations made thereunder shall be deemed to be public documents, and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by such officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts therefrom.
+63\.—(1) All records, registers and other documents kept by the Commissioner or the Director or by any public officeror officer of the Board for the purposes of this Act or any regulations made thereunder shall be deemed to be public documents, and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by such officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts therefrom.
 
 (2) In any proceedings for the recovery of costs and expenses incurred by the Commissioner or the Director, a certificate purporting to be under the hand of the Commissioner or the Director and specifying the costs and expenses claimed as due and payable and the person named in the certificate as liable for the payment thereof shall be prima facie evidence of the facts certified therein and of the signature of the Commissioner or the Director thereto, as the case may be.
 
@@ -1286,6 +1300,12 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|1 May 2000|
 |16.|**G. N. No. S 397/2000—Infectious Diseases Act (Amendment of First Schedule) Notification 2000**|
 ||Date of commencement|1 October 2000|
+|17.|**Act 5 of 2001—Health Promotion Board Act 2001**|
+||(Consequential amendments made by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 2/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
