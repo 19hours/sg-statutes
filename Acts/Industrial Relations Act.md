@@ -42,51 +42,49 @@
 
 [**Part III COLLECTIVE BARGAINING**](#Part-III)
 
-- [16 Recognition of trade union of employees](#Recognition-of-trade-union-of-employees)
+- [16 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [17 Invitation to negotiate](#Invitation-to-negotiate)
+- [17 Recognition of trade union of employees](#Recognition-of-trade-union-of-employees)
 
-- [18 Acceptance of invitation to negotiate](#Acceptance-of-invitation-to-negotiate)
+- [18 Invitation to negotiate](#Invitation-to-negotiate)
 
-- [19 Non-acceptance of invitation to negotiate](#Non-acceptance-of-invitation-to-negotiate)
+- [19 Acceptance of invitation to negotiate](#Acceptance-of-invitation-to-negotiate)
 
-- [20 Conciliation](#Conciliation)
+- [20 Non-acceptance of invitation to negotiate](#Non-acceptance-of-invitation-to-negotiate)
 
-- [21 Notification of trade disputes](#Notification-of-trade-disputes)
+- [21 Conciliation](#Conciliation)
 
-- [22 Compulsory conferences](#Compulsory-conferences)
+- [22 Notification of trade disputes](#Notification-of-trade-disputes)
 
-- [23 Procedure as to notification](#Procedure-as-to-notification)
+- [23 Compulsory conferences](#Compulsory-conferences)
 
-- [24 Collective agreements](#Collective-agreements)
+- [24 Procedure as to notification](#Procedure-as-to-notification)
 
-- [25 (Repealed)](#Repealed)
+- [25 Collective agreements](#Collective-agreements)
 
-- [26 Collective agreement deemed to be an award](#Collective-agreement-deemed-to-be-an-award)
+- [26 Collective agreement deemed to be award](#Collective-agreement-deemed-to-be-award)
 
 - [27 Representation in negotiations](#Representation-in-negotiations)
 
 - [28 Conciliation and industrial relations officers](#Conciliation-and-industrial-relations-officers)
 
-- [29 Negotiations otherwise than under this Part or Part IIIA](#Negotiations-otherwise-than-under-this-Part-or-Part-IIIA)
+- [29 Negotiations otherwise than under this Part or Part IV](#Negotiations-otherwise-than-under-this-Part-or-Part-IV)
+
+[**Part IV LIMITED REPRESENTATION OF EMPLOYEES IN MANAGERIAL AND EXECUTIVE POSITIONS**](#Part-IV)
 
 - [30 Interpretation of this Part](#Interpretation-of-this-Part)
 
-[**Part IIIA LIMITED REPRESENTATION OF EMPLOYEES IN MANAGERIAL AND EXECUTIVE POSITIONS**](#Part-IIIA)
+- [30A Limited representation of executive employees](#Limited-representation-of-executive-employees)
 
-- [30A Interpretation of this Part](#Interpretation-of-this-Part)
+- [30B Invitation to negotiate](#Invitation-to-negotiate)
 
-- [30B Limited representation of executive employees](#Limited-representation-of-executive-employees)
+- [30C Acceptance of invitation to negotiate](#Acceptance-of-invitation-to-negotiate)
 
-- [30C Invitation to negotiate](#Invitation-to-negotiate)
+- [30D Non-acceptance of invitation to negotiate](#Non-acceptance-of-invitation-to-negotiate)
 
-- [30D Acceptance of invitation to negotiate](#Acceptance-of-invitation-to-negotiate)
+- [30E Conciliation](#Conciliation)
 
-- [30E Non-acceptance of invitation to negotiate](#Non-acceptance-of-invitation-to-negotiate)
-
-- [30F Conciliation](#Conciliation)
-
-[**Part IV ARBITRATION**](#Part-IV)
+[**Part V ARBITRATION**](#Part-V)
 
 - [31 Court to have cognizance of trade disputes](#Court-to-have-cognizance-of-trade-disputes)
 
@@ -100,7 +98,7 @@
 
 - [36 Award relating to trade dispute over transfer of employment](#Award-relating-to-trade-dispute-over-transfer-of-employment)
 
-[**Part V AWARDS**](#Part-V)
+[**Part VI AWARDS**](#Part-VI)
 
 - [37 Form of award](#Form-of-award)
 
@@ -120,7 +118,7 @@
 
 - [45 Setting aside and variation of award](#Setting-aside-and-variation-of-award)
 
-- [46 Variation of agreement to conform with award](#Variation-of-agreement-to-conform-with-award)
+- [46 Variation of collective agreement to conform with award](#Variation-of-collective-agreement-to-conform-with-award)
 
 - [47 Award to be final](#Award-to-be-final)
 
@@ -148,7 +146,7 @@
 
 - [59 Exercise of jurisdiction under certain sections](#Exercise-of-jurisdiction-under-certain-sections)
 
-[**Part VI PROCEDURE AND POWERS OF COURTS**](#Part-VI)
+[**Part VII PROCEDURE AND POWERS OF COURTS**](#Part-VII)
 
 - [60 Procedure of Courts](#Procedure-of-Courts)
 
@@ -178,7 +176,7 @@
 
 - [73 Inspection of books, etc.](#Inspection-of-books-etc)
 
-[**Part VII BOARDS OF INQUIRY**](#Part-VII)
+[**Part VIII BOARDS OF INQUIRY**](#Part-VIII)
 
 - [74 Appointment of board of inquiry](#Appointment-of-board-of-inquiry)
 
@@ -188,7 +186,7 @@
 
 - [77 Reports](#Reports)
 
-[**Part VIII MISCELLANEOUS**](#Part-VIII)
+[**Part IX MISCELLANEOUS**](#Part-IX)
 
 - [78 Penalties imposed upon persons observing award](#Penalties-imposed-upon-persons-observing-award)
 
@@ -220,9 +218,9 @@
 
 (Original Enactment: Ordinance 20 of 1960)
 
-REVISED EDITION 1999
+REVISED EDITION 2004
 
-(1st August 1999)
+(1st January 2004)
 
 An Act to provide for the regulation of the relations of employers and employees and the prevention and settlement of trade disputes by collective bargaining and conciliation and arbitration.
 
@@ -250,7 +248,7 @@ PRELIMINARY
 
 “Court” means an Industrial Arbitration Court established under section 3;
 
-“employee” means a person who has entered into or works under a contract of service with an employer and includes an officer or servant of the Government included in a category, class or description of such officers or servants declared by notification in theGazetteby the President of Singapore to be employees for the purposes of this Act, but does not include any person or class of persons whom the Minister may from time to time by notification in theGazettedeclare not to be employees for the purposes of this Act;
+“employee” means a person who has entered into or works under a contract of service with an employer and includes an officer or servant of the Government included in a category, class or description of such officers or servants declared by notification in theGazetteby the President of Singapore to be employees for the purposes of this Act, but does not include any person or class of persons whom the Minister may from time to time by notification in the Gazette declare not to be employees for the purposes of this Act;
 
 “employer” means any person who employs another person under a contract of service and includes —
 
@@ -262,15 +260,15 @@ PRELIMINARY
 
 (d) a person who owns, or is carrying on, or for the time being responsible for the management or control of a profession, business, trade or work in which an employee is engaged;
 
-(e) for the purposes of Parts IV, V and VI, the transferor of an undertaking whose employment of employees is transferred by virtue of section 18A of the Employment Act (Cap. 91);
+(e) for the purposes of Parts V, VI and VII, the transferor of an undertaking whose employment of employees is transferred by virtue of section 18A of the Employment Act;
 
 “industrial matters” means matters pertaining to the relations of employers and employees which are connected with the employment or non-employment or the terms of employment, the transfer of employment or the conditions of work of any person;
 
 “industrial relations officer” means an industrial relations officer appointed under section 28;
 
-“inspecting officer” means a person who is an inspecting officer for the purposes of the Employment Act;
+“inspecting officer” means a person who is an inspecting officer for the purposes of the Employment Act (Cap. 91);
 
-“officer”, when used with reference to a trade union or a branch of a trade union, includes any member of the body, by whatever name called, to which the management of the affairs of the trade union or branch is entrusted;
+“officer”, in relation to a trade union or a branch of a trade union, includes any member of the body, by whatever name called, to which the management of the affairs of the trade union or branch is entrusted;
 
 “President” means the President or the Deputy President of the Courts and includes an acting President or acting Deputy President;
 
@@ -280,7 +278,7 @@ PRELIMINARY
 
 “trade union” means a trade union of employees or employers registered under any written law for the time being in force relating to the registration of trade unions;
 
-“transfer of employment” means the transfer of an employee’s employment from the transferor of an undertaking to the transferee under section 18A of the Employment Act (Cap. 91);
+“transfer of employment” means the transfer of an employee’s employment from the transferor of an undertaking to the transferee under section 18A of the Employment Act;
 
 “transferee” means the person to whom an undertaking is transferred and who becomes the employer of the transferor’s employees by virtue of section 18A of the Employment Act;
 
@@ -296,7 +294,11 @@ INDUSTRIAL ARBITRATION COURTS
 
 3\.—(1) There shall be one or more Industrial Arbitration Courts to be presided over by a President or Deputy President to be appointed by the President of Singapore in accordance with the advice of the Prime Minister.
 
-(2) Except where otherwise provided by this Act, a Court shall, in relation to a trade dispute of which the Court has cognizance or any other matter with respect to which the Court has jurisdiction under this Act, be constituted by the President or the Deputy President and 2 members selected for the purposes of the trade dispute or matter in the manner set out in this Act from the 2 panels constituted in accordance with this Part.
+(2) Except where otherwise provided by this Act, a Court shall, in relation to a trade dispute of which the Court has cognizance or any other matter with respect to which the Court has jurisdiction under this Act, be constituted by —
+
+(a) the President or the Deputy President; and
+
+(b) 2 members selected for the purposes of the trade dispute or matter in the manner set out in this Act from the 2 panels constituted in accordance with this Part.
 
 ### President and Deputy President
 
@@ -308,7 +310,7 @@ INDUSTRIAL ARBITRATION COURTS
 
 ### Acting President
 
-5\.—(1) When the President is or is expected to be absent from duty the President of Singapore may, on the advice of the Minister, appoint a person to be acting President during the absence of the President.
+5\.—(1) When the President is or is expected to be absent from duty, the President of Singapore may, on the advice of the Minister, appoint a person to be acting President during the absence of the President.
 
 (2) A person so appointed shall, notwithstanding that the President may no longer be absent, continue to be acting President for the purposes of completing the hearing of and of determining a trade dispute or matter the hearing of which was commenced during the absence of the President.
 
@@ -354,7 +356,7 @@ INDUSTRIAL ARBITRATION COURTS
 
 (d) is ineligible by reason of section 57 to be nominated for election as an officer of a trade union; or
 
-(e) has within the previous 3 years been convicted of an offence under the Trade Disputes Act (Cap. 331) or this Act,
+(e) has within the previous 3 years been convicted of an offence under this Act or the Trade Disputes Act (Cap. 331),
 
 shall not be eligible for appointment to a panel.
 
@@ -384,17 +386,17 @@ shall not be eligible for appointment to a panel.
 
 ### Vacancies in panels
 
-10\. Where a person ceases to be a member of a panel the Minister shall, as soon as is reasonably practicable, take steps to fill the vacancy but the existence of any vacancy in either panel shall not invalidate the constitution of a Court.
+10\. Where a person ceases to be a member of a panel, the Minister shall, as soon as is reasonably practicable, take steps to fill the vacancy but the existence of any vacancy in either panel shall not invalidate the constitution of a Court.
 
 ### Constitution of Court
 
-11\.—(1) For the purpose of constituting a Court in relation to a trade dispute or matter, the President shall determine in the manner prescribed by any regulations made under this Act who are the parties to the trade dispute or matter and shall invite —
+11\.—(1) For the purpose of constituting a Court in relation to a trade dispute or matter, the President shall determine in the prescribed manner who the parties to the trade dispute or matter are and shall invite —
 
-(a) the trade unions of employees which are parties to the trade dispute or matter to select one member of the employee panel; and
+(a) the trade unions of employees who are parties to the trade dispute or matter to select one member of the employee panel; and
 
 (b) the employers who are parties to the trade dispute or matter to select one member of the employer panel.
 
-(2) If all the trade unions of employees who are parties to the trade dispute or matter or all the employers who are parties to the trade dispute or matter unanimously select a member of the employee or employer panel, as the case may be, the President shall declare that that person shall be a member of the Court for the purposes of the trade dispute or matter.
+(2) If all the trade unions of employees who are parties to the trade dispute or matter or all the employers who are parties to the trade dispute or matter unanimously select a member of the employee panel or employer panel, as the case may be, the President shall declare that that person shall be a member of the Court for the purposes of the trade dispute or matter.
 
 (3) If a member of a panel is not selected in accordance with subsection (2), the President shall —
 
@@ -402,7 +404,7 @@ shall not be eligible for appointment to a panel.
 
 (b) in any other case, notify the Minister and the Minister shall select a person from the panel and the President shall declare that that person shall be a member of the Court for the purposes of the trade dispute or matter.
 
-(4) When the President has declared that a person shall be a member of the Court for the purposes of a trade dispute or matter that person shall, subject to section 12, be a member of the Court for the purposes of that trade dispute or matter notwithstanding that in the proceedings relating to the trade dispute or matter parties may be joined or struck out.
+(4) When the President has declared that a person shall be a member of the Court for the purposes of a trade dispute or matter, that person shall, subject to section 12, be a member of the Court for the purposes of that trade dispute or matter notwithstanding that in the proceedings relating to the trade dispute or matter parties may be joined or struck out.
 
 (5) Such declaration shall not be challenged or called in question on the ground that the selection may not have been in accordance with this section.
 
@@ -422,13 +424,13 @@ shall not be eligible for appointment to a panel.
 
 ### Allowances
 
-14\. A member of a panel who is a member of a Court for the purposes of a trade dispute or matter may, in respect of each day on which the Court is engaged in the hearing and determining of the trade dispute or matter, be paid such allowances as may be prescribed by regulations made under this Act.
+14\. A member of a panel who is a member of a Court for the purposes of a trade dispute or matter may, in respect of each day on which the Court is engaged in the hearing and determining of the trade dispute or matter, be paid such allowances as may be prescribed.
 
 ### Registrar and officers of Courts
 
 15\.—(1) There shall be appointed a Registrar of the Courts and such Deputy Registrars and Assistant Registrars and other officers of the Courts as the President of Singapore considers necessary.
 
-(2) The duties of the Registrar and other officers of the Courts shall, subject to this Act and any regulations made thereunder, be as the President directs.
+(2) The duties of the Registrar and other officers of the Courts shall, subject to this Act, be as the President directs.
 
 (3) The Registrar and other officers of the Courts shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
@@ -436,13 +438,23 @@ shall not be eligible for appointment to a panel.
 
 COLLECTIVE BARGAINING
 
+### Interpretation of this Part
+
+16\. For the purposes of this Part —
+
+(a) the Minister for Finance shall be deemed to be the employer of employees of the Government; and
+
+(b) the Minister shall be deemed to have been notified that a trade dispute exists if a person designated by him for that purpose has been so notified.
+
+[30
+
 ### Recognition of trade union of employees
 
-16\.—(1) No trade union of employees which has not been given recognition by an employer in the prescribed manner may serve on that employer a notice under section 17.
+17\.—(1) No trade union of employees which has not been given recognition by an employer in the prescribed manner may serve on that employer a notice under section 18.
 
-(2) No trade union of employees whose constitution and rules do not permit it to admit as members any class of employees may seek recognition in respect of that class of employees or serve a notice under section 17 in respect of those employees.
+(2) No trade union of employees whose constitution and rules do not permit it to admit as members any class of employees may seek recognition in respect of that class of employees or serve a notice under section 18 in respect of those employees.
 
-(3) No trade union of employees the majority of whose membership consists of employees in non-managerial or non-executive positions may seek recognition in respect of employees in managerial or executive positions or serve a notice under section 17 in respect of those employees.
+(3) No trade union of employees the majority of whose membership consists of employees in non-managerial or non-executive positions may seek recognition in respect of employees in managerial or executive positions or serve a notice under section 18 in respect of those employees.
 
 (4) Where an employer raises the objection that a trade union should not represent certain employees or a class of employees, the employer and the trade union shall make a joint application to a Court for the determination of the question.
 
@@ -452,9 +464,15 @@ COLLECTIVE BARGAINING
 
 (7) Subsection (1) shall not apply to the extent that a trade union of employees is deemed to be recognised by a transferee under section 18A(8) of the Employment Act (Cap. 91).
 
+[16
+
 ### Invitation to negotiate
 
-17\.—(1) A trade union of employees which has been accorded recognition by an employer may serve on that employer or an employer may serve on a trade union of employees a notice in the prescribed form setting out proposals for a collective agreement in relation to any industrial matters and inviting the employer or trade union of employees, as the case may be, to negotiate with it in relation to those matters with a view to arriving at a collective agreement.
+18\.—(1) A trade union of employees which has been accorded recognition by an employer may serve on that employer or an employer may serve on a trade union of employees a notice in the prescribed form —
+
+(a) setting out proposals for a collective agreement in relation to any industrial matters; and
+
+(b) inviting the employer or trade union of employees, as the case may be, to negotiate with it in relation to those matters with a view to arriving at a collective agreement.
 
 (2) Notwithstanding subsection (1), no trade union of employees may include in a notice setting out proposals for a collective agreement a proposal in relation to any of the following matters:
 
@@ -466,73 +484,97 @@ COLLECTIVE BARGAINING
 
 (d) the termination by an employer of the services of an employee by reason of redundancy or by reason of the reorganisation of an employer’s profession, business, trade or work or the criteria for such termination;
 
-(e) the dismissal and reinstatement of an employee by an employer in circumstances in which section 35(2) applies; or
+(e) the dismissal and reinstatement of an employee by an employer in circumstances in which section 35(3) applies; or
 
 (f) the assignment or allocation by an employer of duties or specific tasks to an employee that are consistent or compatible with the terms of his employment.
 
+[17
+
 ### Acceptance of invitation to negotiate
 
-18\. An employer or a trade union upon whom a notice under section 17 has been served may serve on the trade union or employer by whom the notice was served an acceptance of the invitation to negotiate.
+19\. An employer or a trade union upon whom a notice under section 18 has been served may serve on the trade union or employer by whom the notice was served an acceptance of the invitation to negotiate.
+
+[18
 
 ### Non-acceptance of invitation to negotiate
 
-19\.—(1) Where, within 7 days after service of a notice under section 17, a trade union or employer upon whom it was served has not served an acceptance under section 18 the employer or trade union by whom the notice was served may notify the Commissioner.
+20\.—(1) Where, within 7 days after service of a notice under section 18, a trade union or employer upon whom it was served has not served an acceptance under section 19, the employer or trade union by whom the notice was served may notify the Commissioner.
 
-(2) Upon receipt of a notification under subsection (1) the Commissioner shall consult, or direct a conciliation officer to consult, with the employer or trade union which has not served an acceptance with a view to persuading that employer or trade union to accept the invitation.
+(2) Upon receipt of a notification under subsection (1), the Commissioner shall consult, or direct a conciliation officer to consult, with the employer or trade union which has not served an acceptance with a view to persuading that employer or trade union to accept the invitation.
 
-(3) Where, after consultation with an employer or trade union on whom an invitation to negotiate has been served, the Commissioner is satisfied that the employer or trade union refuses to negotiate he shall notify the Minister and, unless the Minister otherwise directs, the Registrar that a trade dispute exists.
+(3) Where, after consultation with an employer or trade union on whom an invitation to negotiate has been served, the Commissioner is satisfied that the employer or trade union refuses to negotiate, he shall notify the Minister and, unless the Minister otherwise directs, the Registrar that a trade dispute exists.
+
+[19
 
 ### Conciliation
 
-20\.—(1) If after the expiration of 14 days from the date of service of a notice under section 17 or, where the notice has been served on more than one employer or trade union on different dates, from the latest of those dates, a collective agreement has not been reached between all the trade unions and employers by whom and upon whom the notice was served as to all the industrial matters set out in the invitation and a memorandum of its terms delivered to the Registrar, any party to the negotiations may notify the Commissioner.
+21\.—(1) If after the expiration of 14 days from the date of service of a notice under section 18 or, where the notice has been served on more than one employer or trade union on different dates, from the latest of those dates, a collective agreement has not been reached between all the trade unions and employers by whom and upon whom the notice was served as to all the industrial matters set out in the invitation and a memorandum of its terms delivered to the Registrar, any party to the negotiations may notify the Commissioner.
 
-(2) Upon receiving a notification under subsection (1) the Commissioner may consult, or direct a conciliation officer to consult, with the employers and trade unions concerned in an endeavour to assist them to reach agreement by conciliation.
+(2) Upon receiving a notification under subsection (1), the Commissioner may consult, or direct a conciliation officer to consult, with the employers and trade unions concerned in an endeavour to assist them to reach agreement by conciliation.
+
+[20
 
 ### Notification of trade disputes
 
-21\. Where the Commissioner is of the opinion —
+22\. Where the Commissioner is of the opinion —
 
-(a) at any time after the expiration of 7 days after consultation has begun under section 20 that the negotiations are unlikely to lead to a collective agreement registered under this Act as to all the industrial matters which are the subject of the negotiations; or
+(a) at any time after the expiration of 7 days after consultation has begun under section 21 that the negotiations are unlikely to lead to a collective agreement registered under this Act as to all the industrial matters which are the subject of the negotiations; or
 
-(b) upon receiving a notification under section 20 that it is unlikely that conciliation will assist the parties to the negotiations to reach agreement,
+(b) upon receiving a notification under section 21 that it is unlikely that conciliation will assist the parties to the negotiations to reach agreement,
 
 he shall notify the Minister and, unless the Minister otherwise directs, the Registrar that a trade dispute exists.
 
+[21
+
 ### Compulsory conferences
 
-22\.—(1) The Minister may, where he considers it possible that any trade dispute may be settled by conciliation or further conciliation, direct a person, whether engaged in or connected with the trade dispute or not, to attend at a time and place specified in the direction at a conference presided over by the Minister or such person as the Minister directs.
+23\.—(1) The Minister may, where he considers it possible that any trade dispute may be settled by conciliation or further conciliation, direct a person, whether engaged in or connected with the trade dispute or not, to attend at a time and place specified in the direction a conference presided over by the Minister or such person as the Minister directs.
 
 (2) A direction under this section may be given orally or in writing signed by the Minister.
 
-(3) Except as otherwise directed by the Minister or presiding person a conference shall be held in private.
+(3) Except as otherwise directed by the Minister or presiding person, a conference shall be held in private.
 
-(4) A person who, on being directed under subsection (1), fails without lawful excuse to attend a conference or who, on being directed to continue his attendance at a conference by the Minister or presiding person, fails without lawful excuse to do so shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+(4) A person who —
+
+(a) on being directed under subsection (1), fails without lawful excuse to attend a conference; or
+
+(b) on being directed to continue his attendance at a conference by the Minister or presiding person, fails without lawful excuse to do so,
+
+shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[22
+
+[36/2010 wef 01/02/2011]
 
 ### Procedure as to notification
 
-23\.—(1) A notification by the Commissioner under this Part that a trade dispute exists shall contain —
+24\.—(1) A notification by the Commissioner under this Part that a trade dispute exists shall contain —
 
 (a) a statement of the parties to the trade dispute;
 
 (b) the matters in dispute so far as they are known to the Commissioner; and
 
-(c) where the trade dispute is notified in accordance with section 19, the reasons for the refusal to negotiate so far as they are known to the Commissioner.
+(c) where the trade dispute is notified to the Commissioner in accordance with section 20, the reasons for the refusal to negotiate so far as they are known to the Commissioner.
 
-(2) The Registrar shall, upon receiving a notification under this Part, forthwith bring it to the notice of the President.
+(2) The Registrar shall, upon receiving a notification under this Part, immediately bring it to the notice of the President.
+
+[23
 
 ### Collective agreements
 
-24\.—(1) If a collective agreement is arrived at, a memorandum of its terms shall be —
+25\.—(1) If a collective agreement is arrived at, a memorandum of its terms shall be —
 
-(a) made in writing and signed by or on behalf of the parties to the agreement; and
+(a) made in writing and signed by or on behalf of the parties to the collective agreement; and
 
-(b) delivered within one week thereof to the Registrar who, upon receiving it, shall forthwith bring it to the notice of a Court for certification.
+(b) delivered within one week thereof to the Registrar who, upon receiving it, shall immediately bring it to the notice of a Court for certification.
 
 (2) The Court may in its discretion —
 
-(a) refuse to certify a memorandum delivered under subsection (1) if it is of the opinion that it is not in the public interest that the collective agreement should be certified or if it is of the opinion that the memorandum does not set out satisfactorily or adequately the terms of the collective agreement between the parties and shall refuse to do so if the agreement does not comply with subsection (5); and
+(a) refuse to certify a memorandum delivered under subsection (1) if it is of the opinion that it is not in the public interest that the collective agreement should be certified or if it is of the opinion that the memorandum does not set out satisfactorily or adequately the terms of the collective agreement between the parties and shall refuse to do so if the collective agreement does not comply with subsection (5); and
 
-(b) before certifying a memorandum delivered under subsection (1), require that such part or parts thereof shall be amended satisfactorily or adequately in any manner which the Court considers expedient to comply with the provisions of this Act or any regulations made thereunder or any other written law or with any direction of the Court.
+(b) before certifying a memorandum delivered under subsection (1), require that such part or parts thereof shall be amended satisfactorily or adequately in any manner which the Court considers expedient to comply with the other provisions of this Act or any other written law or with any direction of the Court.
+
+[23/2002]
 
 (3) If any party to the collective agreement refuses to carry out such request the Court may, notwithstanding any other power exercisable under this Act, amend the memorandum in the manner required under subsection (2)(b) before proceeding to certify the memorandum.
 
@@ -542,37 +584,37 @@ he shall notify the Minister and, unless the Minister otherwise directs, the Reg
 
 (a) specify the period during which it shall continue in force which period shall be not less than 2 years or more than 3 years from the date on which it is expressed to commence; and
 
-(b) unless the Court considers such provision would be inappropriate, make provision for the settlement of disputes between the parties to the agreement while the agreement is in force arising out of the operation of the agreement including provision for the reference of such disputes to a referee.
+(b) unless the Court considers such provision inappropriate, make provision for the settlement of disputes between the parties to the collective agreement while the collective agreement is in force arising out of the operation of the collective agreement including provision for the reference of such disputes to a referee.
 
 [29/72]
 
-(6) The referee mentioned in subsection (5)(b) shall be a person to be chosen in a manner provided by the agreement from among the persons referred to in section 43(3) and whose decision shall have effect as if it were a term of the agreement.
+(6) The referee mentioned in subsection (5)(b) shall be a person to be chosen in a manner provided by the collective agreement from among the persons referred to in section 43(3) and whose decision shall have effect as if it were a term of the collective agreement.
 
 (7) The memorandum when certified by the Court shall be deposited with and registered by the Registrar.
 
 (8) Any person who or any trade union which —
 
-(a) enters into a collective agreement, which is specified to continue in force for less than 2 years or more than 3 years from the date on which it is expressed to commence;
+(a) enters into a collective agreement which is specified to continue in force for less than 2 years or more than 3 years from the date on which it is expressed to commence;
 
-(b) delivers to the Registrar a memorandum which does not contain all the terms of the agreement entered into by him or it; or
+(b) delivers to the Registrar a memorandum which does not contain all the terms of the collective agreement entered into by him or it; or
 
-(c) fails or neglects to bring a collective agreement or any of the terms of such agreement entered into by him or it to the notice of a Court in accordance with the provisions of this Act,
+(c) fails or neglects to bring a collective agreement or any of the terms of such collective agreement entered into by him or it to the notice of a Court in accordance with the provisions of this Act,
 
 shall be guilty of an offence.
 
+[24
+
 [29/72]
 
-25\. [Deleted by Act 23/2002 wef 01/09/2002]
-
-### Collective agreement deemed to be an award
+### Collective agreement deemed to be award
 
 26\. A collective agreement, a memorandum of which has been certified by a Court, shall be deemed to be an award for the purposes of this Act and shall be binding on —
 
-(a) the parties to the agreement;
+(a) the parties to the collective agreement;
 
 (b) any successor to, or any transferee, assignee or transmittee of, the undertaking of an employer bound by an agreement, including any corporation which has acquired or taken over the undertaking of such an employer;
 
-(c) any successor to a trade union of employees which was a party to the agreement; and
+(c) any successor to a trade union of employees which was a party to the collective agreement; and
 
 (d) any person or trade union upon whom it is declared to be binding by order made by the Minister under section 41.
 
@@ -592,51 +634,47 @@ unless he is a person qualified in accordance with section 64 to represent an em
 
 (2) The Minister may make such arrangements as he considers appropriate for the training of persons to be conciliation officers or industrial relations officers and of conciliation officers and industrial relations officers.
 
-### Negotiations otherwise than under this Part or Part IIIA
+### Negotiations otherwise than under this Part or Part IV
 
-29\. Any person who or any trade union which enters into negotiations in relation to industrial matters otherwise than in accordance with the provisions of this Part or Part IIIA shall be guilty of an offence.
+29\. Any person who or any trade union which enters into negotiations in relation to industrial matters otherwise than in accordance with the provisions of this Part or Part IV shall be guilty of an offence.
 
-[30
+[23/2002]
 
-### Interpretation of this Part
-
-30\. For the purposes of this Part —
-
-(a) the Minister for Finance shall be deemed to be the employer of employees of the Government; and
-
-(b) the Minister shall be deemed to have been notified that a trade dispute exists if a person designated by him for that purpose has been so notified.
-
-[29
-
-## PART IIIA
+## PART IV
 
 LIMITED REPRESENTATION OF EMPLOYEES IN MANAGERIAL AND EXECUTIVE POSITIONS
 
-[23/2002 wef 01/09/2002]
-
 ### Interpretation of this Part
 
-30A\.—(1) In this Part, unless the context otherwise requires —
+30\.—(1) In this Part, unless the context otherwise requires —
 
 “executive employee”, in relation to an employer, means an employee who is employed in a managerial or an executive position by the employer;
 
-“recognised trade union” means a trade union the majority of whose membership consists of employees in non-managerial or non-executive positions and which has been accorded recognition by an employer only in respect of such employees under section 16.
+“recognised trade union” means a trade union the majority of whose membership consists of employees in non-managerial or non-executive positions and which has been accorded recognition by an employer only in respect of such employees under section 17.
+
+[23/2002]
 
 (2) For the purposes of this Part, the Minister for Finance shall be deemed to be the employer of employees of the Government.
 
+[30A
+
+[23/2002]
+
 ### Limited representation of executive employees
 
-30B\.—(1) Notwithstanding section 16, a recognised trade union may represent any executive employee individually, and not as a class, for all or any of the following purposes only:
+30A\.—(1) Notwithstanding section 17, a recognised trade union may represent any executive employee individually, and not as a class, for all or any of the following purposes only:
 
-(a) to make representations to the Minister under section 35(2);
+(a) to make representations to the Minister under section 35(3);
 
 (b) upon the retrenchment of the executive employee, to negotiate with the employer with a view to resolving any dispute relating to the retrenchment benefit payable to the executive employee;
 
 (c) to negotiate with the employer with a view to resolving any dispute relating to a breach of contract of employment by the executive employee or the employer;
 
-(d) to represent the executive employee in proceedings before a Court in respect of the dismissal or reinstatement of the employee in circumstances arising out of a contravention of section 82 or any matter referred to in paragraph (b) or (c).
+(d) to represent the executive employee in proceedings before a Court in respect of the dismissal or reinstatement of the executive employee in circumstances arising out of a contravention of section 82 or any matter referred to in paragraph (b) or (c).
 
-(2) Where a recognised trade union seeks to represent an executive employee under subsection (1), the employer may object to such representation only on the ground that the employee —
+[23/2002]
+
+(2) Where a recognised trade union seeks to represent an executive employee under subsection (1), the employer may object to such representation only on the ground that the executive employee —
 
 (a) is employed in a senior management position or performs or exercises any function, duty or power of a person employed in a senior management position, including the control and supervision of major business operations, accountability for operational performance, formulation of business policies, plans and strategies and provision of leadership to other employees;
 
@@ -648,37 +686,67 @@ LIMITED REPRESENTATION OF EMPLOYEES IN MANAGERIAL AND EXECUTIVE POSITIONS
 
 (e) performs or exercises any other function, duty or power which may give rise to a real or potential conflict of interest if he is represented by the trade union.
 
+[23/2002]
+
 (3) Where an employer raises any objection under subsection (2), the employer and the trade union shall make a joint application to a Court for the determination of the question.
+
+[23/2002]
 
 (4) Until the Court gives its decision, the recognised trade union may continue to represent other executive employees whose representation by the trade union under subsection (1) is not objected to by the employer under subsection (2).
 
+[23/2002]
+
 (5) The powers of a Court under subsection (3) shall be exercisable by the Court constituted by the President alone.
+
+[30B
+
+[23/2002]
 
 ### Invitation to negotiate
 
-30C\. A recognised trade union representing an executive employee under section 30B may serve on an employer or an employer may serve on a recognised trade union, as the case may be, a notice in the prescribed form (referred to in this Part as an invitation to negotiate) —
+30B\. A recognised trade union representing an executive employee under section 30A may serve on an employer or an employer may serve on a recognised trade union, as the case may be, a notice in the prescribed form (referred to in this Part as an invitation to negotiate) —
 
 (a) setting out proposals for resolving any dispute relating to the issue of retrenchment benefit payable to the executive employee upon the retrenchment of the executive employee or a breach of contract of employment by the executive employee or his employer; and
 
 (b) inviting the employer or trade union, as the case may be, to negotiate with it in relation to those matters with a view to arriving at a settlement.
 
+[30C
+
+[23/2002]
+
 ### Acceptance of invitation to negotiate
 
-30D\. An employer or a recognised trade union upon whom an invitation to negotiate has been served under section 30C may, within 7 days after service of that invitation, serve on the recognised trade union or employer which served the notice an acceptance of the invitation to negotiate (referred to in this Part as an acceptance to negotiate).
+30C\. An employer or a recognised trade union upon whom an invitation to negotiate has been served under section 30B may, within 7 days after service of that invitation, serve on the recognised trade union or employer which served the notice an acceptance of the invitation to negotiate (referred to in this Part as an acceptance to negotiate).
+
+[30D
+
+[23/2002]
 
 ### Non-acceptance of invitation to negotiate
 
-30E\.—(1) Where a recognised trade union or an employer upon whom an invitation to negotiate was served under section 30C has not served an acceptance to negotiate within the time specified in section 30D, the employer or trade union which served the invitation to negotiate, as the case may be, may notify the Commissioner.
+30D\.—(1) Where an employer or a recognised trade union upon whom an invitation to negotiate was served under section 30B has not served an acceptance to negotiate within the time specified in section 30C, the employer or trade union which served the invitation to negotiate, as the case may be, may notify the Commissioner.
+
+[23/2002]
 
 (2) Upon receipt of a notification under subsection (1), the Commissioner shall consult, or direct a conciliation officer to consult, with the employer or trade union which has not served an acceptance to negotiate with a view to persuading that employer or trade union to accept the invitation.
 
+[30E
+
+[23/2002]
+
 ### Conciliation
 
-30F\.—(1) If, after the expiration of 14 days from the date of service of an invitation to negotiate, an agreement has not been reached between the recognised trade union and employer by whom and upon whom the invitation was served as to all the matters set out in the invitation, either party to the negotiations may notify the Commissioner.
+30E\.—(1) If, after the expiration of 14 days from the date of service of an invitation to negotiate, an agreement has not been reached between the recognised trade union and the employer by whom and upon whom the invitation was served as to all the matters set out in the invitation, either party to the negotiations may notify the Commissioner.
 
-(2) Upon receipt of a notification under subsection (1), the Commissioner may consult, or direct a conciliation officer to consult, with the employer and trade union concerned in an endeavour to assist them to reach a settlement by conciliation.
+[23/2002]
 
-## PART IV
+(2) Upon receipt of a notification under subsection (1), the Commissioner may consult, or direct a conciliation officer to consult, with the employer and the trade union concerned in an endeavour to assist them to reach a settlement by conciliation.
+
+[30F
+
+[23/2002]
+
+## PART V
 
 ARBITRATION
 
@@ -692,25 +760,23 @@ ARBITRATION
 
 (c) a trade union which or an employer who is a party to a trade dispute as to any matter arising from or connected with a transfer of employment makes a request in writing, whether before or after the transfer of employment, to the Registrar that the trade dispute be submitted to arbitration;
 
-(ca) the trade dispute relates to —
+(d) the trade dispute relates to —
 
-(i) the retrenchment benefit payable to an executive employee who is represented by a recognised trade union under section 30B; or
+(i) the retrenchment benefit payable to an executive employee who is represented by a recognised trade union under section 30A; or
 
-(ii) a breach of contract of employment by an executive employee who is represented by a recognised trade union under section 30B or his employer,
+(ii) a breach of contract of employment by an executive employee who is represented by a recognised trade union under section 30A or his employer,
 
 and the employer or the recognised trade union representing the executive employee makes a request in writing to the Registrar that the trade dispute be submitted to arbitration;
 
-[23/2002 wef 01/09/2002]
+(e) the Minister by notice in theGazettedirects that the trade dispute be submitted to arbitration; or
 
-(d) the Minister by notice in theGazettedirects that the trade dispute be submitted to arbitration; or
+(f) the President of Singapore by proclamation declares that by reason of special circumstances it is essential in the public interest that a trade dispute be submitted to arbitration.
 
-(e) the President of Singapore by proclamation declares that by reason of special circumstances it is essential in the public interest that a trade dispute be submitted to arbitration.
-
-[29/72; 36/95]
+[29/72; 36/95; 23/2002]
 
 ### Court to arbitrate
 
-32\. Subject to section 33, a Court shall carefully and expeditiously hear, inquire into and investigate every trade dispute of which it has cognizance and all matters affecting the trade dispute and the just settlement of the dispute and shall determine the dispute by arbitration.
+32\. Subject to section 33, a Court shall carefully and expeditiously hear, inquire into and investigate every trade dispute of which it has cognizance and all matters affecting the trade dispute and the just settlement of the trade dispute and shall determine the trade dispute by arbitration.
 
 ### Dispute as to employment in Government service
 
@@ -720,7 +786,7 @@ and the employer or the recognised trade union representing the executive employ
 
 ### Court to have regard to certain matters
 
-34\.—(1) In determining a trade dispute a Court may have regard —
+34\.—(1) In determining a trade dispute, a Court may have regard —
 
 (a) not only to the interests of the persons immediately concerned but to the interests of the community as a whole and in particular the condition of the economy of Singapore; and
 
@@ -734,29 +800,31 @@ and the employer or the recognised trade union representing the executive employ
 
 35\.—(1) A Court shall have power in relation to a trade dispute of which it has cognizance to make an award (including an interim award) relating to all or any of the industrial matters in dispute.
 
-(1A) A Court shall not consider a dispute relating to the dismissal of an employee or make an award relating to the reinstatement of an employee except in circumstances arising out of a contravention of section 82.
+(2) A Court shall not consider a dispute relating to the dismissal of an employee or make an award relating to the reinstatement of an employee except in circumstances arising out of a contravention of section 82.
 
-(2) Notwithstanding subsection (1A), where an employee considers that he has been dismissed without just cause or excuse by his employer, in circumstances other than those arising out of a contravention of section 82, he may, within one month of such dismissal, make, through his trade union, representations in writing to the Minister to be reinstated in his former employment.
+(3) Notwithstanding subsection (2), where an employee considers that he has been dismissed without just cause or excuse by his employer, in circumstances other than those arising out of a contravention of section 82, he may, within one month of such dismissal, make, through his trade union, representations in writing to the Minister to be reinstated in his former employment.
 
-(3) The Minister may, before making a decision on any such representations, by writing under his hand request the Commissioner to inquire into the dismissal and report whether in his opinion the dismissal is without just cause or excuse.
+(4) The Minister may, before making a decision on any such representations, by writing under his hand request the Commissioner to inquire into the dismissal and report whether in his opinion the dismissal is without just cause or excuse.
 
-(4) The Minister, if he decides to deal with the representations himself, shall before making a decision thereon give an opportunity to the employer to make representations in writing as to the reasons why he considered the dismissal of the employee to be justified.
+(5) If the Minister decides to deal with the representations himself, he shall before making a decision thereon give an opportunity to the employer to make representations in writing as to why he considered the dismissal of the employee to be justified.
 
-(5) If, after considering the representations of the trade union and of the employer (if any) and any report made by the Commissioner under subsection (3), the Minister is satisfied that the employee has been dismissed without just cause or excuse he may, notwithstanding any rule of law or agreement to the contrary —
+(6) If, after considering the representations of the trade union and of the employer (if any) and any report made by the Commissioner under subsection (4), the Minister is satisfied that the employee has been dismissed without just cause or excuse, he may, notwithstanding any rule of law or agreement to the contrary, direct the employer —
 
-(a) direct the employer to reinstate the employee in his former employment and to pay the employee an amount that is equivalent to the wages that the employee would have earned had he not been dismissed by the employer; or
+(a) to reinstate the employee in his former employment and to pay the employee an amount that is equivalent to the wages that the employee would have earned had he not been dismissed by the employer; or
 
-(b) direct the employer to pay such amount of wages as compensation as may be determined by the Minister.
+(b) to pay such amount of wages as compensation as may be determined by the Minister.
 
-(5A) The employer shall comply with the direction of the Minister under subsection (5).
+(7) The employer shall comply with the direction of the Minister under subsection (6).
 
-(6) The decision of the Minister on any representations made under this section shall be final and conclusive and shall not be challenged in any court or in a Court established under this Act.
+(8) The decision of the Minister on any representations made under this section shall be final and conclusive and shall not be challenged in any court or in a Court established under this Act.
 
-(7) Any direction by the Minister under subsection (5) shall operate as a bar to any action for damages by the employee in any court in respect of the wrongful dismissal.
+(9) Any direction by the Minister under subsection (6) shall operate as a bar to any action for damages by the employee in any court in respect of the wrongful dismissal.
 
-(8) An employer who fails to comply with the direction of the Minister under subsection (5) shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+(10) An employer who fails to comply with the direction of the Minister under subsection (6) shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(9) Where an amount to be paid under subsection (5) is not paid in accordance with the direction of the Minister and the employer has been convicted of an offence under subsection (8), the amount, or so much thereof as remains unpaid, shall be recoverable by a District Court as if it were a fine and the amount so recovered shall be paid to the employee entitled under the direction.
+[36/2010 wef 01/02/2011]
+
+(11) Where an amount to be paid under subsection (6) is not paid in accordance with the direction of the Minister and the employer has been convicted of an offence under subsection (10), the amount, or so much thereof as remains unpaid, shall be recoverable by a District Court as if it were a fine and the amount so recovered shall be paid to the employee entitled under the direction.
 
 ### Award relating to trade dispute over transfer of employment
 
@@ -766,11 +834,9 @@ and the employer or the recognised trade union representing the executive employ
 
 (b) to order that the transfer of employment of the employee who is a member of the trade union be subject to such terms as the Court considers just.
 
-[35A
-
 [36/95]
 
-## PART V
+## PART VI
 
 AWARDS
 
@@ -778,13 +844,9 @@ AWARDS
 
 37\. An award shall be framed in such a manner as best to express the decision of the Court and to avoid unnecessary technicalities.
 
-[36
-
 ### Operation of award
 
 38\. An award shall not derogate from any right or privilege which an employee has under the provisions of any written law and any term of an award shall, to the extent to which it would so derogate, be null and void.
-
-[37
 
 ### Commencement and continuance of award
 
@@ -794,7 +856,7 @@ AWARDS
 
 [29/72]
 
-(3) Where some or all of the persons and trade unions bound by an award, by an agreement registered under section 24, agree that the award or the award as varied by the agreement shall continue in force for a period not being less than 2 years or more than 3 years after the date on which it would otherwise cease to be in force, the award or the award as varied shall as between the parties to the agreement continue in force for such period.
+(3) Where some or all of the persons and trade unions bound by an award, by an agreement registered under section 25, agree that the award or the award as varied by the agreement shall continue in force for a period not being less than 2 years or more than 3 years after the date on which it would otherwise cease to be in force, the award or the award as varied shall as between the parties to the agreement continue in force for such period.
 
 [29/72]
 
@@ -802,13 +864,13 @@ AWARDS
 
 [29/72]
 
-(5) Where an application has been made under subsection (4) and a notice under section 17 has been served either before or after such application —
+(5) Where an application has been made under subsection (4) and a notice under section 18 has been served either before or after such application —
 
-(a) the proceedings under subsection (4) shall be suspended until the parties concerned have had the opportunity of negotiating and reaching agreement on the proposals made under section 17;
+(a) the proceedings under subsection (4) shall be suspended until the parties concerned have had the opportunity of negotiating and reaching agreement on the proposals made under section 18; and
 
-(b) in the event of failure to reach agreement within 2 months of the date of service of the invitation to negotiate served under section 17, both parties shall notify the Registrar that no agreement has been reached and on such notification the application under subsection (4) shall be deemed to be withdrawn and the Court shall proceed to determine the dispute as if a joint application under section 31 (a) had been made.
+(b) in the event of failure to reach agreement within 2 months of the date of service of the invitation to negotiate served under section 18, both parties shall notify the Registrar that no agreement has been reached.
 
-[38
+(6) On notification under subsection (5)(b), the application under subsection (4) shall be deemed to be withdrawn and the Court shall proceed to determine the dispute as if a joint application under section 31(a) had been made.
 
 [29/72]
 
@@ -818,9 +880,9 @@ AWARDS
 
 (a) all parties to the trade dispute who appeared or were represented before the Court;
 
-(b) all parties to the trade dispute who were summoned or notified, either personally or as prescribed by regulations made under this Act, to appear as being parties to the trade dispute;
+(b) all parties to the trade dispute who were summoned or notified, either personally or as prescribed, to appear as being parties to the trade dispute;
 
-(c) all trade unions and persons who, having been notified either personally or as prescribed by regulations made under this Act, of the trade dispute and of the fact that they were alleged to be parties to the trade dispute, did not, before the conclusion of the hearing of the trade dispute, satisfy the Court that they were not parties to the trade dispute;
+(c) all trade unions and persons who, having been notified either personally or as prescribed, of the trade dispute and of the fact that they were alleged to be parties to the trade dispute, did not, before the conclusion of the hearing of the trade dispute, satisfy the Court that they were not parties to the trade dispute;
 
 (d) any successor to, or any transferee, assignee or transmittee of, the undertaking of an employer who was a party to the trade dispute or of an employer bound by the award, including any corporation which has acquired or taken over the undertaking of such an employer;
 
@@ -832,9 +894,7 @@ AWARDS
 
 [36/95]
 
-(2) Where an employer bound by an award has ceased to carry on an undertaking on any premises and another person commences to carry on an undertaking of the same kind on the same premises that person shall, for the purpose of this section, be deemed to be a successor to the undertaking of the employer bound by the award.
-
-[39
+(2) Where an employer bound by an award has ceased to carry on an undertaking on any premises and another person commences to carry on an undertaking of the same kind on the same premises, that person shall, for the purpose of this section, be deemed to be a successor to the undertaking of the employer bound by the award.
 
 [36/95]
 
@@ -846,7 +906,7 @@ AWARDS
 
 (b) if so, upon what person or trade union or classes or descriptions of persons or of trade unions and, where applicable, with what modifications.
 
-(2) Where a request is made to a Court under subsection (1) the Court shall inquire into and report to the Minister upon the questions set out in the request.
+(2) Where a request is made to a Court under subsection (1), the Court shall inquire into and report to the Minister upon the questions set out in the request.
 
 (3) The Court shall not report that it is desirable that the operation of an award be extended so as to be binding on any person or trade union or any class or description of persons or of trade unions unless it has —
 
@@ -854,7 +914,7 @@ AWARDS
 
 (b) heard all interested trade unions and persons appearing or represented before it.
 
-(4) Where the Court reports that in its opinion it is desirable that the operation of an award should be extended there shall be included in the report a statement of the terms of a proposed order appropriate to give effect to the opinion of the Court.
+(4) Where the Court reports that in its opinion it is desirable that the operation of an award should be extended, there shall be included in the report a statement of the terms of a proposed order appropriate to give effect to the opinion of the Court.
 
 (5) The Minister may, if he considers it desirable to do so, make an order in the terms proposed by the Court.
 
@@ -862,23 +922,21 @@ AWARDS
 
 (7) The Minister may at any time by notification in theGazetterevoke an order made under this section.
 
-[40
-
 ### Contents of award
 
 42\. In making an award in relation to a trade dispute, a Court —
 
 (a) shall not be restricted to the specific relief claimed by the parties or to the demands made by the parties in the course of the trade dispute but may include in the award any matter or thing which it thinks expedient for the purpose of settling the trade dispute or of preventing further trade disputes and may in fixing wages, salaries, allowances or other remuneration give effect to its decision by prescribing time rates, piecework rates, salary scales, bonus payments, severance pay, or retirement allowances or by such other prescription as it considers appropriate; and
 
-(c) may include provisions requiring an employer bound by the award to keep records relating to employees entitled to the benefit of the award and prescribing the form of such records and the information to be recorded.
+(b) may include provisions requiring an employer bound by the award to keep records relating to employees entitled to the benefit of the award and prescribing the form of such records and the information to be recorded.
 
-[41
+[23/2002]
 
 ### Award to provide for referee
 
 43\.—(1) A Court shall, unless it is of the opinion that it would be inappropriate to do so, include in every award a provision for the settlement of disputes between persons and trade unions bound by the award while the award is in force arising out of the operation of the award including provision for the reference of those disputes to a referee.
 
-(2) The referee mentioned in subsection (1) shall be a person to be chosen in a manner provided by the award from among the persons referred to in subsection (3) and whose decision shall have effect as if it were a term of the award.
+(2) The referee mentioned in subsection (1) shall be a person to be chosen in a manner provided by the award from among the persons referred to in subsection (3) and the decision of the referee shall have effect as if it were a term of the award.
 
 (3) The Minister shall appoint persons whom he considers suitable as referees and the names of such persons shall be published from time to time in theGazetteand those referees shall be eligible for reappointment.
 
@@ -890,35 +948,27 @@ AWARDS
 
 (7) An appeal under subsection (6) shall be made in the prescribed manner within 14 days from the date of the decision of the referee.
 
-[42
-
 ### Interpretation of award
 
 44\.—(1) A Court may, upon application made by a trade union or person bound by an award, give an interpretation of the award.
 
 (2) An interpretation given by a Court shall be final and conclusive and shall be binding on all trade unions and persons bound by the award who have been given an opportunity of being heard by the Court.
 
-[43
-
 ### Setting aside and variation of award
 
 45\.—(1) Subject to subsections (2) and (3), a Court may, upon application by any person or trade union bound by an award, by order vary or set aside any of the terms of an award and shall vary any of the terms of an award if it considers it desirable to do so for the purpose of removing ambiguity or uncertainty.
 
-(2) During the period for which an award is in force a Court shall not, except for the purpose of removing ambiguity or uncertainty, vary or set aside any of the terms of an award except where the President certifies that by reason of exceptional circumstances it is desirable to do so.
+(2) During the period for which an award is in force, a Court shall not, except for the purpose of removing ambiguity or uncertainty, vary or set aside any of the terms of an award except where the President certifies that by reason of exceptional circumstances it is desirable to do so.
 
 [29/72]
 
 (3) No award of a Court determining a trade dispute shall be varied or set aside except for the purpose of removing ambiguity or uncertainty.
 
-(4) Where an application for an order to vary or set aside any of the terms of an award has been made, under subsection (1), by any person or trade union bound by an award with the prior agreement of the other party affected by the application the powers of the Court under this section shall be exercisable by the Court constituted by the President alone.
+(4) Where an application for an order to vary or set aside any of the terms of an award has been made, under subsection (1), by any person or trade union bound by an award with the prior agreement of the other party affected by the application, the powers of the Court under this section shall be exercisable by the Court constituted by the President alone.
 
-[44
+### Variation of collective agreement to conform with award
 
-### Variation of agreement to conform with award
-
-46\. Upon application made to a Court by a party to a collective agreement the Court may order that such agreement be varied so that it may be in conformity with the terms of any award made after the commencement of the agreement.
-
-[45
+46\. Upon application made to a Court by a party to a collective agreement, the Court may order that the collective agreement be varied so that it may be in conformity with the terms of any award made after the commencement of the collective agreement.
 
 ### Award to be final
 
@@ -948,21 +998,27 @@ AWARDS
 
 in such a position as to be conspicuous to and easily read by them.
 
-(2) An employer who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+(2) An employer who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[36/2010 wef 01/02/2011]
 
 ### Contracts contrary to award
 
-51\. An employer or a person acting as an agent for an employer who makes a contract or agreement for the employment of an employee on terms and conditions less favourable to the employee than the terms and conditions of an award binding on the employer and employee shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+51\. An employer or a person acting as an agent for an employer who makes a contract or agreement for the employment of an employee on terms and conditions less favourable to the employee than the terms and conditions of an award binding on the employer and employee shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[36/2010 wef 01/02/2011]
 
 ### Penalties for breach of award
 
 52\.—(1) Any trade union or person bound by an award who has committed any breach or non-observance of any term of an award shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a fine not exceeding —
 
-(a) in the case of a trade union or an employer, $1,000;
+(a) in the case of a trade union or an employer, $5,000;
 
-(b) in the case of an officer of a trade union, $500; and
+(b) in the case of an officer of a trade union, $1,000; and
 
-(c) in any other case, $100.
+(c) in any other case, $1,000.
+
+[36/2010 wef 01/02/2011]
 
 (2) Where in any proceedings against an employer under this section it appears to the Magistrate’s Court that an employee employed by that employer has not been paid an amount which he is entitled to be paid by way of wages or otherwise in accordance with an award, the Court may —
 
@@ -970,7 +1026,7 @@ in such a position as to be conspicuous to and easily read by them.
 
 (b) fix the date or dates on which the lump sum or instalments shall be paid.
 
-(3) Where an amount or instalment ordered to be paid under subsection (2) is not paid on the date fixed by the order the amount or so much thereof as then remains unpaid shall forthwith be recoverable as if it were a fine and the amount so recovered shall be paid to the employee entitled under the order.
+(3) Where an amount or instalment ordered to be paid under subsection (2) is not paid on the date fixed by the order, the amount or so much thereof as then remains unpaid shall immediately be recoverable as if it were a fine and the amount so recovered shall be paid to the employee entitled under the order.
 
 ### Recovery of wages under award
 
@@ -998,13 +1054,21 @@ in such a position as to be conspicuous to and easily read by them.
 
 (b) no court fees or deposits shall be chargeable in the first instance in respect of the enforcement of the order but the same shall be paid by the person against whom the order is enforced.
 
-(7) Whenever any person complains to the Minister, the Parliamentary Secretary to the Minister or to the Commissioner that a trade union or person bound by an award has committed a breach or non-observance of any term of an award, or where the Minister, the Parliamentary Secretary or the Commissioner has reason to believe that such a breach or non-observance has occurred, or where the Minister, the Parliamentary Secretary or the Commissioner wishes to inquire into any matter for which provision is made by an award or any dispute as to such matter, the Minister, the Parliamentary Secretary or the Commissioner may summon any other person who he has reason to believe can give information respecting the matter.
+(7) Where —
 
-(8) The person so summoned shall be legally bound to attend at the time and place specified in the summons and to answer truthfully all questions which the Minister, the Parliamentary Secretary or the Commissioner may put to him.
+(a) any person complains to the Minister, the Parliamentary Secretary to the Minister or to the Commissioner that a trade union or person bound by an award has committed a breach or non-observance of any term of an award;
+
+(b) the Minister, the Parliamentary Secretary to the Minister or the Commissioner has reason to believe that such a breach or non-observance has occurred; or
+
+(c) the Minister, the Parliamentary Secretary to the Minister or the Commissioner wishes to inquire into any matter for which provision is made by an award or any dispute as to such matter,
+
+the Minister, the Parliamentary Secretary to the Minister or the Commissioner may summon any other person who he has reason to believe can give information respecting the matter.
+
+(8) The person summoned under subsection (7) shall be legally bound to attend at the time and place specified in the summons and to answer truthfully all questions which the Minister, the Parliamentary Secretary to the Minister or the Commissioner may put to him.
 
 (9) Any person who in any way wilfully obstructs the service of or obedience to such summons, and any person summoned who neglects to attend as required by such summons, and any person who commits in respect of any such inquiry or complaint any offence described in Chapter X of the Penal Code (Cap. 224) shall be punished as provided in that Chapter.
 
-(10) If, upon inquiry under subsection (7), the Commissioner is informed by the Minister or by the Parliamentary Secretary to the Minister or is of the opinion that a breach or non-observance of any term of an award has been committed he shall have the same powers to institute proceedings as he has under Part XV of the Employment Act (Cap. 91) upon inquiry under that Part and the provisions of that Act relating to proceedings instituted by him under that Act shall apply to and in relation to proceedings instituted by him under this subsection.
+(10) If, upon inquiry under subsection (7), the Commissioner is informed by the Minister or by the Parliamentary Secretary to the Minister or is of the opinion that a breach or non-observance of any term of an award has been committed, he shall have the same powers to institute proceedings as he has under Part XV of the Employment Act (Cap. 91) upon inquiry under that Part and the provisions of that Act relating to proceedings instituted by him under that Act shall apply to and in relation to proceedings instituted by him under this subsection.
 
 ### Inspection
 
@@ -1024,7 +1088,7 @@ in such a position as to be conspicuous to and easily read by them.
 
 (a) put questions concerning an employee whom he believes to be entitled to the benefit of an award to the employee or his employer or any other person whom he considers it desirable to question and require such person to answer such questions; and
 
-(b) require the employer to produce before him any books, documents or other records which he is required by an award to keep or which relate to an employee entitled to the benefit of an award.
+(b) require the employer to produce before him any book, document or other record which he is required by an award to keep or which relate to an employee entitled to the benefit of an award.
 
 (4) An inspecting officer who otherwise than in the performance of his duties reveals any manufacturing or commercial secret which may at any time come to his knowledge in the course of his duties shall be guilty of an offence.
 
@@ -1038,7 +1102,9 @@ in such a position as to be conspicuous to and easily read by them.
 
 (d) fails to produce any book, document or record which he is required by an inspecting officer to produce,
 
-shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[36/2010 wef 01/02/2011]
 
 ### Powers of Court
 
@@ -1058,33 +1124,39 @@ shall be guilty of an offence and shall be liable on conviction by a Magistrate�
 
 (b) where the contempt was committed by an employer or an officer of a trade union, a fine of $2,000 or imprisonment for one year or both; or
 
-(c) in any other case, a fine of $500 and in default of payment of the fine imprisonment for 6 months.
+(c) in any other case, a fine of $500 and, in default of payment of the fine, imprisonment for 6 months.
 
 (3) A Court shall have power to punish an act or omission as a contempt of the Court although a penalty is provided in respect of that act or omission under some other provision of this Act or under any other written law.
 
-(4) For the purposes of enforcing the payment of any fine imposed or giving effect to any order of imprisonment the President shall have the powers of a Judge of the High Court.
+(4) For the purposes of enforcing the payment of any fine imposed or giving effect to any order of imprisonment, the President shall have the powers of a Judge of the High Court.
 
 [16/93]
 
 (5) Where a Court punishes as contempt a failure by a person to comply with an order of the Court, that person shall, during a period of 2 years from the date on which the punishment is imposed, or such lesser period as the Court may determine, be ineligible to be nominated for election as an officer of a trade union or a branch of a trade union or a federation of trade unions or to act as such an officer.
 
-(6) A person who acts as an officer of a trade union, or a branch of a trade union or a federation of trade unions while he is ineligible by reason of subsection (5) shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both, and for a second or subsequent offence shall be liable to imprisonment for a term not less than 6 months and not exceeding 3 years.
+(6) A person who acts as an officer of a trade union, or a branch of a trade union or a federation of trade unions while he is ineligible by reason of subsection (5) shall be guilty of an offence and shall be liable on conviction by a District Court —
+
+(a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) for a second or subsequent offence to imprisonment for a term not less than 6 months and not exceeding 3 years.
 
 ### Suspension or cancellation of award
 
-58\.—(1) If it appears to a Court that a number of members of a trade union sufficiently large to form a substantial part of its membership refuse to accept employment in accordance with an award the Court may, subject to such conditions as it thinks fit, by order cancel or suspend for such period as it thinks fit all or any of the terms of the award so far as the award applies to or is in favour of the trade union or its members.
+58\.—(1) If it appears to a Court that a number of members of a trade union sufficiently large to form a substantial part of its membership refuse to accept employment in accordance with an award, the Court may, subject to such conditions as it thinks fit, by order cancel or suspend for such period as it thinks fit all or any of the terms of the award so far as the award applies to or is in favour of the trade union or its members.
 
 (2) The suspension or cancellation of the award may be limited to specified persons or classes of persons or to a specified branch of the trade union or to specified localities.
 
-(3) During the period of suspension of an award a person affected as a present or past member of the trade union by the suspension shall not be entitled to the benefit of any other award.
+(3) During the period of suspension of an award, a person affected as a present or past member of the trade union by the suspension shall not be entitled to the benefit of any other award.
 
 ### Exercise of jurisdiction under certain sections
 
-59\.—(1) The powers of a Court under sections 24, 35, 39(4), 41, 43, 44, 56, 57, 58 and 82 shall be exercisable by the Court constituted by the President alone.
+59\.—(1) The powers of a Court under sections 25, 35, 39(4), 41, 43, 44, 56, 57, 58 and 82 shall be exercisable by the Court constituted by the President alone.
+
+[23/2002]
 
 (2) An application to a Court for an order under section 56, 57 or 58 may be made by any trade union or person interested or by the Commissioner, the Registrar or the Attorney-General.
 
-## PART VI
+## PART VII
 
 PROCEDURE AND POWERS OF COURTS
 
@@ -1092,7 +1164,7 @@ PROCEDURE AND POWERS OF COURTS
 
 60\.—(1) In the hearing and determination of a trade dispute or in any other proceedings before a Court —
 
-(a) the procedure of the Court shall, subject to the provisions of this Act and any regulations made thereunder, be within the discretion of the Court;
+(a) the procedure of the Court shall, subject to the provisions of this Act, be within the discretion of the Court;
 
 (b) the Court shall not be bound to act in a formal manner and shall not be bound by the Evidence Act (Cap. 97) but may inform itself on any matter in such manner as it thinks just; and
 
@@ -1126,21 +1198,27 @@ PROCEDURE AND POWERS OF COURTS
 
 ### Exclusion of evidence as to certain matters
 
-62\.—(1) Where a trade dispute relates to matters as to which negotiations have taken place in accordance with this Act the parties to the dispute may agree upon and present to the Court a written statement relating to the negotiations but except for such statement no evidence shall be given in proceedings in the Court as to the negotiations.
+62\.—(1) Where a trade dispute relates to matters as to which negotiations have taken place in accordance with this Act, the parties to the dispute may agree upon and present to the Court a written statement relating to the negotiations but except for such statement no evidence shall be given in proceedings in the Court as to the negotiations.
 
-(2) In proceedings before the Court evidence shall not be given with regard to any offer relating to industrial matters made without prejudice by any person or trade union without the consent of that person or trade union.
+(2) In proceedings before the Court, evidence shall not be given with regard to any offer relating to industrial matters made without prejudice by any person or trade union without the consent of that person or trade union.
 
 ### Intervention by Attorney-General
 
-63\.—(1) The Attorney-General may, where he is of the opinion that a dispute of which a Court has cognizance relates to a matter of public importance and has caused a notification to be published in theGazettestating that he is of that opinion and that he intends to intervene in proceedings before the Court in relation to the dispute, intervene in those proceedings by causing a copy of the notification to be served on the Registrar.
+63\.—(1) Where the Attorney-General —
+
+(a) is of the opinion that a dispute of which a Court has cognizance relates to a matter of public importance; and
+
+(b) has caused a notification to be published in theGazettestating that he is of that opinion and that he intends to intervene in proceedings before the Court in relation to the dispute,
+
+the Attorney-General may intervene in those proceedings by causing a copy of the notification to be served on the Registrar.
 
 (2) Where the Attorney-General has intervened in proceedings before the Court, the Court may grant leave to any trade union or person to intervene in those proceedings.
 
 ### Representation before Courts
 
-64\.—(1) In proceedings before a Court a party or intervener —
+64\.—(1) In proceedings before a Court, a party or intervener —
 
-(a) being a trade union may be represented by an officer of the trade union or, in the case of a trade union of employees, by an officer of the trade union or by an industrial relations officer selected by the trade union; and
+(a) being a trade union, may be represented by an officer of the trade union or, in the case of a trade union of employees, by an officer of the trade union or by an industrial relations officer selected by the trade union; or
 
 (b) not being a trade union, may be represented —
 
@@ -1152,21 +1230,19 @@ but shall not be represented by an advocate and solicitor or paid agent except i
 
 (2) A person who is disqualified under subsection (1) from representing a party or intervener in proceedings before the Court shall not in those proceedings communicate, in the face or hearing of the Court, with a party or intervener or a person representing a party or intervener.
 
-(3) For the purposes of this section —
+(3) In this section, “officer”, in relation to a trade union, includes for the purposes of any proceedings before the Court a person appointed by the body, by whatever name called, to which the management of the affairs of the trade union is entrusted, to represent the trade union in those proceedings.
 
-(a) “officer”, in relation to a trade union, includes for the purposes of any proceedings before the Court a person appointed by the body, by whatever name called, to which the management of the affairs of the union is entrusted, to represent the trade union in those proceedings; and
-
-(b) a person who within 6 months before the commencement of any proceedings before the Court has been practising as an advocate and solicitor shall be deemed not to be an officer of a trade union for the purposes of those proceedings or an employee of a party or intervener.
+(4) For the purposes of this section, a person who, within 6 months before the commencement of any proceedings before the Court, has been practising as an advocate and solicitor shall be deemed not to be an officer of a trade union for the purposes of those proceedings or an employee of a party or intervener.
 
 ### Questions of law
 
 65\.—(1) A Court may refer a question of law arising in relation to any trade dispute or matter to the Attorney-General for his opinion.
 
-(2) Before referring a question of law to the Attorney-General in accordance with subsection (1) the Court shall inform the parties to the trade dispute or matter in relation to which the question arises of the question which it proposes to refer and allow the parties a reasonable opportunity to make written submissions relating to the question.
+(2) Before referring a question of law to the Attorney-General in accordance with subsection (1), the Court shall inform the parties to the trade dispute or matter, in relation to which the question arises, of the question which it proposes to refer and allow the parties a reasonable opportunity to make written submissions relating to the question.
 
 (3) Submissions made in accordance with subsection (2) shall be referred to the Attorney-General and the Attorney-General shall, after considering those submissions, furnish his opinion to the Court.
 
-(4) Notwithstanding a reference of a question of law to the Attorney-General (not being a question whether the Court may exercise powers under this Act in relation to a trade dispute or matter), the Court may make an award or order in relation to the trade dispute or matter in which the question arose.
+(4) Notwithstanding a reference of a question of law to the Attorney-General (not being a question as to whether the Court may exercise powers under this Act in relation to a trade dispute or matter), the Court may make an award or order in relation to the trade dispute or matter in which the question arose.
 
 (5) Upon receiving the opinion of the Attorney-General, the Court —
 
@@ -1180,21 +1256,29 @@ but shall not be represented by an advocate and solicitor or paid agent except i
 
 ### Powers of inspection
 
-67\.—(1) Where a Court has cognizance of a trade dispute the President, a member who constitutes the Court in relation to the dispute or a person authorised by the President, may at any time during working hours —
+67\.—(1) Where a Court has cognizance of a trade dispute, the President, a member who constitutes the Court in relation to the trade dispute or a person authorised by the President, may at any time during working hours —
 
-(a) enter any building, ship, vessel, place or premises in which work is being or has been done or commenced, or a matter or thing is taking or has taken place, to which the dispute relates; and
+(a) enter any building, ship, vessel, place or premises in which work is being or has been done or commenced, or a matter or thing is taking or has taken place, to which the trade dispute relates; and
 
 (b) to the extent and for the purposes named in the authority, inspect or view any work, material, machinery, appliance, article or thing therein and interview any employee engaged therein.
 
-(2) A person who hinders or obstructs a person in the exercise of the power conferred by subsection (1) or makes to a person exercising a power conferred by that subsection a statement either orally or in writing which is false or misleading in any particular shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
+(2) A person who —
+
+(a) hinders or obstructs a person in the exercise of the power conferred by subsection (1); or
+
+(b) makes to a person exercising a power conferred by that subsection a statement either orally or in writing which is false or misleading in any particular,
+
+shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[36/2010 wef 01/02/2011]
 
 ### Decisions of Court
 
 68\.—(1) Where a Court constituted otherwise than by the President alone is divided in opinion on a question, the question shall be decided according to the decision of the majority of those constituting the Court or, if there is no such majority decision, according to the decision of the President.
 
-(2) A decision of a Court shall be signed by the President and shall be delivered by him or by the Registrar by direction of the President.
+(2) A decision of a Court shall be signed by the President and shall be delivered by him or by the Registrar at the direction of the President.
 
-(3) The decision of a Court upon a trade dispute or matter shall be given within 2 weeks after the completion of the hearing of the dispute or matter or within such extended time as in special circumstances the Court considers to be required for the proper consideration of the dispute or matter.
+(3) The decision of a Court upon a trade dispute or matter shall be given within 2 weeks after the completion of the hearing of the trade dispute or matter or within such extended time as in special circumstances the Court considers to be required for the proper consideration of the trade dispute or matter.
 
 ### Offences in relation to Court
 
@@ -1238,17 +1322,17 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 ### Trade secrets, etc., tendered in evidence
 
-72\.—(1) In any proceedings before a Court objection may be taken that any information or any book, paper or document tendered as evidence relates to a trade secret or to the profits or financial position of a witness or party by that witness or party or the person entitled to the trade secret.
+72\.—(1) In any proceedings before a Court, objection may be taken that any information or any book, paper or document tendered as evidence relates to a trade secret or to the profits or financial position of a witness or party by that witness or party or the person entitled to the trade secret.
 
-(2) Where after considering any such objection the Court directs that information so relating shall be given in evidence —
+(2) Where after considering any objection under subsection (1) the Court directs that information so relating shall be given in evidence —
 
 (a) that information shall not except with the permission of the President be disclosed or published in any newspaper or otherwise; and
 
 (b) that evidence shall, if the witness or party or the person entitled to the trade secret so requests, be taken in private and no person who is not expressly authorised by the Court to be present shall be present during the taking of that evidence.
 
-(3) Where evidence is taken in private a person representing a party to the proceedings shall have the right to be present unless the Court otherwise orders.
+(3) Where evidence is taken in private, a person representing a party to the proceedings shall have the right to be present unless the Court otherwise orders.
 
-(4) Where after considering any such objection the Court directs that any book, paper or document relating to any trade secret or the profits or financial position of a witness or party or person shall be produced before it —
+(4) Where after considering any objection under subsection (1) the Court directs that any book, paper or document relating to any trade secret or the profits or financial position of a witness or party or person entitled to the trade secret shall be produced before it —
 
 (a) the President shall have the custody of such book, paper or document and may retain it for such reasonable period as he thinks fit;
 
@@ -1260,19 +1344,21 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 (5) A Court may direct that any evidence given in proceedings before it or the contents of any book, paper or document produced before it shall not be published.
 
-(6) Any person who discloses or publishes any information in contravention of this section or of any direction or order given or made thereunder shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+(6) Any person who discloses or publishes any information in contravention of this section or of any direction or order given or made thereunder shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[36/2010 wef 01/02/2011]
 
 ### Inspection of books, etc.
 
 73\. Subject to section 72, all books, papers, documents and things produced in evidence before a Court may be inspected by the Court or by such parties as the Court allows.
 
-## PART VII
+## PART VIII
 
 BOARDS OF INQUIRY
 
 ### Appointment of board of inquiry
 
-74\.—(1) The Minister may, by notification in theGazette, appoint a board of inquiry and direct the board to inquire into and report to him upon a matter defined in the notification being a matter included within the definition of industrial matters in section 2.
+74\.—(1) The Minister may, by notification in theGazette, appoint a board of inquiry and direct the board to inquire into and report to him upon a matter defined in the notification being a matter included within the definition of “industrial matters” in section 2.
 
 (2) The Minister shall not exercise the power conferred by subsection (1) in relation to a matter unless he is of the opinion that there are special circumstances by reason of which the matter would not otherwise be satisfactorily regulated by collective agreements or awards made under this Act.
 
@@ -1284,7 +1370,7 @@ BOARDS OF INQUIRY
 
 ### Procedure and powers of board
 
-76\.—(1) The Minister may make regulations as to the procedure of any board of inquiry including regulations as to summoning and payment of expenses of witnesses, quorum and the appointment of committees and enabling the board to call for such documents as the board may determine to be relevant to the subject matter of the inquiry.
+76\.—(1) The Minister may make regulations as to the procedure of any board of inquiry including regulations as to summoning and payment of expenses of witnesses, quorum and the appointment of committees and enabling the board to call for such documents as the board may determine to be relevant to the subject-matter of the inquiry.
 
 (2) Provision shall be made by the regulations with respect to the cases in which a person may appear by an advocate and solicitor in proceedings before a board of inquiry and except as provided by those regulations no person shall be entitled to appear in any proceedings by an advocate and solicitor.
 
@@ -1304,7 +1390,7 @@ BOARDS OF INQUIRY
 
 (6) Any individual member of the board of inquiry or any person concerned in the inquiry who, without such consent, discloses any such information shall be guilty of an offence.
 
-## PART VIII
+## PART IX
 
 MISCELLANEOUS
 
@@ -1318,19 +1404,35 @@ MISCELLANEOUS
 
 by reason of the fact that he has worked or is working or intends to work in accordance with the terms of an award.
 
-(2) If a trade union or the body by whatever name called to which the management of the affairs of the trade union is entrusted declares that it expels or intends to expel any member, or that it imposes or intends to impose any fine, penalty, deprivation, disability or disadvantage upon a member where the expulsion, fine, penalty, deprivation, disability or disadvantage would be contrary to subsection (1), the trade union shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000.
+(2) If a trade union or the body by whatever name called to which the management of the affairs of the trade union is entrusted declares that it —
+
+(a) expels or intends to expel any member; or
+
+(b) imposes or intends to impose any fine, penalty, deprivation, disability or disadvantage upon a member,
+
+where the expulsion, fine, penalty, deprivation, disability or disadvantage would be contrary to subsection (1), the trade union shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $5,000.
+
+[36/2010 wef 01/02/2011]
 
 ### Inducing persons not to join trade unions
 
-79\.—(1) A person who, by conferring or procuring or offering to confer or procure any advantage on or for any person, induces or attempts to induce a person not to become a member or officer of a trade union or an association that has applied to be registered as a trade union, or to cease to be a member or officer of a trade union or of any such association, shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+79\.—(1) A person who, by conferring or procuring or offering to confer or procure any advantage on or for any person, induces or attempts to induce a person —
+
+(a) not to become a member or officer of a trade union or an association that has applied to be registered as a trade union; or
+
+(b) to cease to be a member or officer of a trade union or of any such association,
+
+shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[36/2010 wef 01/02/2011]
 
 (2) It shall not be an offence for an employer to require as a condition of the appointment or promotion of a person to a managerial or an executive position that the person shall not be or continue to be an officer or a member of a particular trade union unless —
 
 (a) that trade union is a trade union whose constitution and rules restrict its membership to persons in managerial or executive positions; or
 
-(b) that trade union is a trade union which may represent persons in managerial or executive positions only under section 30B.
+(b) that trade union is a trade union which may represent persons in managerial or executive positions only under section 30A.
 
-[23/2002 wef 01/09/2002]
+[23/2002]
 
 ### Employers not to discriminate against members of trade unions
 
@@ -1342,7 +1444,9 @@ by reason of the fact that he has worked or is working or intends to work in acc
 
 (c) has appeared as a witness, or has given any evidence, in any proceeding under this Act,
 
-shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[36/2010 wef 01/02/2011]
 
 ### Leave on trade union business
 
@@ -1360,23 +1464,27 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 (b) is entitled to the benefit of a collective agreement or an award;
 
-(c) has appeared or proposes to appear as a witness, or has given or proposes to give any evidence, in any proceeding under this Act;
+(c) has appeared or proposes to appear as a witness, or has given or proposes to give any evidence, in any proceedings under this Act;
 
 (d) being a member of a trade union which is seeking to improve working conditions, is dissatisfied with such working conditions;
 
-(e) is a member of a trade union which has served a notice under section 17 or which is a party to negotiations under this Act or to a trade dispute which has been notified to the Registrar in accordance with Part III;
+(e) is a member of a trade union which has served a notice under section 18 or which is a party to negotiations under this Act or to a trade dispute which has been notified to the Registrar in accordance with Part III;
 
 (f) has absented himself from work without leave for the purpose of carrying out his duties or exercising his rights as an officer of a trade union where he applied for leave in accordance with section 81 before he absented himself and leave was unreasonably deferred or withheld; or
 
-(g) being a member of a panel appointed under section 6 has absented himself from work for the purpose of performing his functions and duties as a member of a Court and has notified the employer before he absented himself.
+(g) being a member of a panel appointed under section 6, has absented himself from work for the purpose of performing his functions and duties as a member of a Court and has notified the employer before he absented himself.
 
-(2) An employer who contravenes any of the provisions of subsection (1) shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+(2) An employer who contravenes any provision of subsection (1) shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(3) Where an employer has been convicted of an offence punishable under subsection (2) the Court by which the employer is convicted may order that the employer pay to the employee the amount of any wages lost by him and also direct the employer to reinstate the employee in his former position or a similar position.
+[36/2010 wef 01/02/2011]
 
-(4) Where an amount ordered to be paid under subsection (3) is not paid in accordance with the order the amount or so much thereof as remains unpaid shall be recoverable as if it were a fine and the amount so recovered shall be paid to the employee entitled under the order.
+(3) Where an employer has been convicted of an offence punishable under subsection (2), the Court by which the employer is convicted may order that the employer pay to the employee the amount of any wages lost by him and also direct the employer to reinstate the employee in his former position or a similar position.
 
-(5) An employer who fails to comply with a direction given under subsection (3) shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+(4) Where an amount ordered to be paid under subsection (3) is not paid in accordance with the order, the amount or so much thereof as remains unpaid shall be recoverable as if it were a fine and the amount so recovered shall be paid to the employee entitled under the order.
+
+(5) An employer who fails to comply with a direction given under subsection (3) shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[36/2010 wef 01/02/2011]
 
 (6) Nothing in this section shall be construed as prohibiting a Court from inquiring into the dismissal or the reinstatement of an employee who has been allegedly dismissed in contravention of this section before any proceedings have commenced in a District Court.
 
@@ -1390,7 +1498,7 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 (c) has appeared as a witness, or has given any evidence, in a proceeding under this Act,
 
-shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a penalty not exceeding $100.
+shall be guilty of an offence and shall be liable on conviction by a Magistrate’s Court to a penalty not exceeding $1,000.
 
 ### Onus of proof and prosecution
 
@@ -1402,35 +1510,35 @@ shall be guilty of an offence and shall be liable on conviction by a Magistrate�
 
 (4) A public officer making an investigation under this section may, by order in writing, require the attendance before himself of any person being within the limits of Singapore who from the information given or otherwise appears to be acquainted with the circumstances of the case and such person shall attend as so required.
 
-(5) If any such person fails to attend as so required such public officer may report the failure to a Magistrate who may thereupon in his discretion issue a warrant to secure the attendance of that person as required by such order.
+(5) If any such person fails to attend as required under subsection (4), such public officer may report the failure to a Magistrate who may thereupon in his discretion issue a warrant to secure the attendance of that person as required by such order.
 
 (6) A public officer making an investigation under this section may examine orally any person supposed to be acquainted with the facts and circumstances of the case and shall reduce into writing any statement made by the person so examined.
 
-(7) Such person shall be bound to state truly the facts and circumstances with which he is acquainted concerning the case except only that he may decline to make with regard to any fact or circumstance a statement which would have a tendency to expose him to a criminal charge or to a penalty or forfeiture.
+(7) A person examined under subsection (6) shall be bound to state truly the facts and circumstances with which he is acquainted concerning the case except only that he may decline to make with regard to any fact or circumstance a statement which would have a tendency to expose him to a criminal charge or to a penalty or forfeiture.
 
 (8) A statement made by any person under this section shall be read over to him and shall, after correction if necessary, be signed by him.
 
 ### Penalties for offences for which no express penalty provided
 
-85\. Any person guilty of an offence under this Act for which no express penalty is provided shall be liable on conviction by a Magistrate’s Court to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+85\. Any person guilty of an offence under this Act for which no express penalty is provided shall be liable on conviction by a Magistrate’s Court to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[36/2010 wef 01/02/2011]
 
 ### Annual reports
 
-86\. The President shall, once in each year, furnish to the Minister for presentation to Parliament a report on the working of the provisions of this Act relating to the Courts, to arbitration and to the registration of collective agreements and of any other provisions of this Act in relation to which he considers it appropriate to report, and in particular the extent to which the objects of this Act have been achieved and any considerations or circumstances which have prevented or hindered the achievement of those objects.
-
-[87
+86\. The President shall, once in each year, furnish to the Minister for presentation to Parliament a report on the working of the provisions of this Act relating to the Courts, to arbitration and to the registration of collective agreements and of any other provision of this Act in relation to which he considers it appropriate to report, and in particular the extent to which the objects of this Act have been achieved and any considerations or circumstances which have prevented or hindered the achievement of those objects.
 
 ### Regulations
 
-87\.—(1) The Minister may make regulations generally for carrying out the provisions of this Act and in particular providing for all matters stated or required by this Act to be prescribed and for prescribing penalties for any contravention or failure to comply with any of the provisions of any regulation made under this section, but so that no such penalty shall exceed $500.
+87\.—(1) The Minister may make regulations generally for carrying out the provisions of this Act and in particular providing for all matters stated or required by this Act to be prescribed and for prescribing penalties for any contravention of any provision of any regulations made under this section, but so that no such penalty shall exceed $5,000.
+
+[36/2010 wef 01/02/2011]
 
 (2) Without prejudice to the generality of subsection (1), the Minister may make regulations to provide for the manner in which a trade union of employees may obtain recognition from an employer and for matters incidental thereto.
 
-(3) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
+(3) All regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
 (4) If a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of one month from the date when the regulations are so presented annulling the regulations or any part thereof as from a specified date, the regulations or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new regulations.
-
-[86
 
 ## LEGISLATIVE HISTORY
 
@@ -1505,164 +1613,102 @@ This Legislative History is provided for the convenience of users of the Industr
 |||(Bill No. 25/2002 published on 9 July 2002)|
 ||Date of Second and Third Readings|23 July 2002|
 ||Date of commencement|1 September 2002|
+|14.|**2004 Revised Edition—Industrial Relations Act**|
+||Date of operation|1 January 2004|
 ## COMPARATIVE TABLE
 
 Industrial Relations Act
 
 (CHAPTER 136)
 
-The following provisions in the 1985 Revised Edition of the Industrial Relations Act have been renumbered by the Law Revision Commissioners in this 1999 Revised Edition.
+The following provisions in the 1985 Revised Edition of the Industrial Relations Act have been renumbered by the Law Revision Commissioners in this 2004 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Industrial Relations Act.
 
-1999 Ed .
+2004 Ed\. 
 
-1985 Ed .
+1985 Ed\. 
 
-4 —(1) and (2)
+17 
 
-4 —(1)
+16 
 
-(3)
+18 
 
-(2)
+17 
 
-5 —(1) and (2)
+19 
 
-5 —(1)
+18 
 
-(3)
+20 
 
-(2)
+19 
 
-8 —(1) and (2)
+21 
 
-8 
+20 
 
-11 —(4) and (5)
+22 
 
-11 —(4)
+21 
 
-12 —(1) and (2)
+23 
 
-12 —(1)
+22 
 
-(3)
+24 
 
-(2)
+23 
 
-16 —(4) and (5)
+25 
 
-16 —(4)
+24 
 
-(6)
+Deleted
 
-(5)
+25 
 
-(7)
-
-(6)
-
-24 —(2) (b), (3) and (4)
-
-24 —(2) (b)
-
-(5) and (6)
-
-(3)
-
-(7)
-
-(4)
-
-(8)
-
-(5)
-
-25 —(2)
-
-Proviso to25 (1)
-
-(3)
-
-(2)
-
-(5)
-
-Proviso to (4)
-
-(6)
-
-(5)
-
-(7)
-
-(3)
-
-29 
+16 
 
 30 
 
+PART IV — LIMITED REPRESENTATION OF EMPLOYEES IN MANAGERIAL AND EXECUTIVE POSITIONS
+
+PART IIIA — LIMITED REPRESENTATION OF EMPLOYEES IN MANAGERIAL AND EXECUTIVE POSITIONS
+
 30 
 
-29 
+30A 
 
-31 —(c)
+30A 
 
-31 —(ba)
+30B 
 
-(d)
+30B 
 
-(c)
+30C 
 
-(e)
+30C 
 
-(d)
+30D 
 
-33 —(1) and (2)
+30D 
 
-33 
+30E 
+
+30E 
+
+30F 
+
+PART V — ARBITRATION
+
+PART IV — ARBITRATION
+
+35 —(2)
 
 35 —(1A)
 
-Proviso to35 —(1)
-
-(5) and (5A)
-
-(5)
-
-36 
-
-35A 
-
-37 
-
-36 
-
-38 
-
-37 
-
-39 
-
-38 
-
-40 
-
-39 
-
-41 
-
-40 
-
-42 
-
-41 
-
-43 —(1) and (2)
-
-42 —(1)
-
 (3)
 
 (2)
@@ -1681,101 +1727,45 @@ Proviso to35 —(1)
 
 (7)
 
-(6)
+(5A)
 
-44 
-
-43 
-
-45 
-
-44 
-
-46 
-
-45 
-
-Omitted
-
-46 
-
-47 —(1) and (2)
-
-47 
-
-54 —(3) and (4)
-
-54 —(3)
-
-(5)
-
-Proviso to (3)
+(8)
 
 (6)
-
-(4)
-
-(7) and (8)
-
-(5)
 
 (9)
 
-(6)
+(7)
 
 (10)
 
-(7)
+(8)
 
-64 —(2)
+(11)
+
+(9)
+
+PART VI — AWARDS
+
+PART V — AWARDS
+
+39 —(5) and (6)
+
+39 —(5)
+
+PART VII — PROCEDURE AND POWERS OF COURTS
+
+PART VI — PROCEDURE AND POWERS OF COURTS
+
+64 —(3) and (4)
 
 64 —(3)
 
-(3)
+PART VIII — BOARDS OF INQUIRY
 
-(2)
+PART VII — BOARDS OF INQUIRY
 
-72 —(3)
+PART IX — MISCELLANEOUS
 
-Proviso to72 —(2) (b)
-
-(4)
-
-(3)
-
-(5)
-
-(4)
-
-(6)
-
-(5)
-
-77 —(5) and (6)
-
-Proviso to77 —(4)
-
-79 —(1) and (2)
-
-79 
-
-81 —(1) and (2)
-
-81 —(1)
-
-(3)
-
-(2)
-
-86 
-
-87 
-
-87 —(1) and (2)
-
-86 —(1) and (2)
-
-(3) and (4)
-
-(3)
+PART VIII — MISCELLANEOUS
 
