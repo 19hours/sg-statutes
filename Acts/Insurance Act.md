@@ -58,7 +58,7 @@
 
 - [17 Establishment of insurance funds and allocation of surplus](#Establishment-of-insurance-funds-and-allocation-of-surplus)
 
-- [18 Margins of solvency](#Margins-of-solvency)
+- [18 Fund solvency requirements and capital adequacy requirements](#Fund-solvency-requirements-and-capital-adequacy-requirements)
 
 - [19 Form, investment and situation of assets](#Form-investment-and-situation-of-assets)
 
@@ -982,35 +982,53 @@ and this Act shall thereafter apply in relation to the policy as if it were not 
 
 [11/86]
 
-(5) In the case of an insurance fund which comprises wholly or partly of participating life policies, no part of the fund shall be allocated by way of bonus to those policies except with the approval of an actuary and only out of a surplus of assets over liabilities as shown on the last statutory valuation of the fund; and on the making of any such allocation that surplus shall be treated for the purposes of this section as reduced by the amount allocated.
+(5) For the purposes of subsection (4), the Authority may prescribe or specify in directions what constitutes receipts, income, liabilities or expenses of the insurer which are properly attributable to the business to which an insurance fund relates and the manner in which each item is to be determined or valued.
 
-[32/93]
+[23/2003 wef 23/08/2003]
 
-(6) Subject to subsection (7), if, on the last statutory valuation in the case of an insurance fund which comprises wholly or partly of participating life policies, there was shown a surplus (as reduced under subsection (5)) of assets over liabilities of the fund, there may, subject to the approval of an actuary and to any provision to the contrary in any instrument or contract binding the insurer, be allocated to the shareholders or withdrawn from the fund an amount not exceeding the surplus, and, on the making of any such allocation, that surplus shall be treated for the purposes of this section as reduced by the amount allocated.
+(6) In the case of an insurance fund maintained by a direct insurer registered to carry on life business which comprises wholly or partly of participating policies —
 
-[32/93]
+(a) there shall be a surplus account, established and maintained in such manner as may be prescribed, as part of the insurance fund;
 
-(7) No part of the surplus shall be allocated under subsection (6) in any year in excess of 10% of the sum of —
+(b) no part of the fund shall be allocated by way of bonus to the participating policies except —
 
-(a) the amount allocated in accordance with subsection (6); and
+(i) with the approval of the directors of the insurer, upon considering a written recommendation from the actuary appointed under section 31; and
 
-(b) the amount allocated thereout by way of bonus to participating life policies in accordance with subsection (5) within that year.
+(ii) where the making of such allocation does not contravene any condition or restriction that may be prescribed or specified in directions for the purposes of this section;
 
-[32/93]
+(c) no part of the fund shall be allocated to the surplus account except —
 
-(8) If, on the last statutory valuation in the case of an insurance fund established wholly in respect of non-participating life policies, there was shown a surplus of assets over liabilities of the fund, there may, subject to any provision to the contrary in any instrument or contract binding the insurer, be withdrawn from the fund an amount not exceeding the surplus, and, on the making of any such withdrawal, that surplus shall, for the purposes of this section, be treated as reduced by the amount withdrawn.
+(i) with the approval of the directors of the insurer, upon considering a written recommendation from the actuary appointed under section 31;
 
-[32/93]
+(ii) where the making of such allocation does not contravene the fund solvency requirement under section 18;
 
-(9) If, in the last statutory balance-sheet in the case of an insurance fund established in respect of general business, there was shown a surplus of assets over liabilities of the fund, there may, subject to any provision to the contrary in any instrument or contract binding the insurer, be withdrawn from the fund an amount not exceeding the excess of the surplus over any fund margin of solvency prescribed for that fund under section 18, and, on the making of any such withdrawal, that surplus shall, for the purposes of this section, be treated as reduced by the amount withdrawn.
+(iii) where the making of such allocation does not contravene any condition or restriction that may be prescribed or specified in directions for the purposes of this section; and
 
-[11/86]
+(iv) where the amount does not exceed 1/9th of the amount allocated pursuant to paragraph (b) for a particular accounting period.
 
-(10) In respect of any policy belonging to the insurer’s life business which is, under section 16(4), removed from the insurer’s register of Singapore policies, there may be withdrawn from an insurance fund to which the policy relates an amount not exceeding the prescribed amount.
+[23/2003 wef 23/08/2003]
 
-[11/86]
+(7) Notwithstanding subsection (6)(c), an insurer may make additional allocations to the surplus account of an insurance fund which comprises wholly or partly of participating policies of an amount and in a manner as prescribed or specified in directions by the Authority.
 
-(11) Any amount withdrawn from an insurance fund under subsection (6), (8), (9) or (10)and, in a winding up, any part of an insurance fund remaining after meeting the liabilities and expenses to which the fund is applicable may be dealt with as if it had not formed part of the fund except that, in the case of a winding up where any other insurance fund of the insurer under this Act is in deficit, the surplus remaining after the winding up shall first be applied to make good the deficit in that fund.
+[23/2003 wef 23/08/2003]
+
+(8) Where the amount allocated to the surplus account in a particular accounting period pursuant to subsection (6)(c) is less than 1/9th of the amount allocated pursuant to subsection (6)(b) for that accounting period, the insurer shall not allocate the difference between the amount actually allocated and the 1/9th amount allowed to the surplus account in any subsequent accounting period.
+
+[23/2003 wef 23/08/2003]
+
+(9) An insurer may, where there is a surplus of assets over liabilities of an insurance fund, at any time withdraw from the fund an amount not exceeding the surplus over any fund solvency requirement prescribed for that fund under section 18 if and only if —
+
+(a) there is no provision in any instrument or contract binding the insurer disallowing such a withdrawal; and
+
+(b) the insurer ascertains from the latest statement of accounts lodged with the Authority in accordance with section 36 or such other subsequent audited statement of accounts provided to the Authority that there is in fact such a surplus at the time of the withdrawal.
+
+[23/2003 wef 23/08/2003]
+
+(10) On the making of any withdrawal in accordance with subsection (9), the surplus of the fund shall, for the purposes of this section, be treated as reduced by the amount withdrawn.
+
+[23/2003 wef 23/08/2003]
+
+(11) Any amount withdrawn from an insurance fund under subsection (9) and, in a winding up, any part of an insurance fund remaining after meeting the liabilities and expenses to which the fund is applicable may be dealt with as if it had not formed part of the fund except that, in the case of a winding up where any other insurance fund of the insurer under this Act is in deficit, the surplus remaining after the winding up shall first be applied to make good the deficit in that fund.
 
 [11/86; 32/93]
 
@@ -1044,21 +1062,21 @@ and this Act shall thereafter apply in relation to the policy as if it were not 
 
 [11/86]
 
-### Margins of solvency
+### Fund solvency requirements and capital adequacy requirements
 
-18\.—(1) Every registered insurer shall maintain —
+18\.—(1) Every registered insurer shall satisfy —
 
-(a) a fund margin of solvency in respect of each of the insurance funds established by the insurer under this Act; and
+(a) such fund solvency requirements in respect of each insurance fund established by the insurer under this Act; and
 
-(b) a margin of solvency,
+(b) such capital adequacy requirements,
 
-of such amounts as may be prescribed for the purposes of this section.
+as may be prescribed or specified in directions for the purposes of this section.
 
-[11/86]
+[23/2003 wef 23/08/2003]
 
 (2) The Authority may prescribe —
 
-(a) different margins of solvency under subsection (1) for different classes of insurance business and for different types of insurers; and
+(a) different fund solvency requirements or capital adequacy requirements under subsection (1) for different classes of insurance business and for different types of insurers; and
 
 (b) in respect of any type of insurers, any exception from the requirements of subsection (1).
 
@@ -1074,15 +1092,13 @@ of such amounts as may be prescribed for the purposes of this section.
 
 [11/86]
 
-(4) For the purposes of this section —
+(4) The Authority may by notice in writing, if it considers it appropriate in the particular circumstances of a registered insurer having regard to the risks arising from the activities of the insurer and such other factors as the Authority considers relevant, direct that the insurer satisfy fund solvency requirements or capital adequacy requirements other than those that the insurer is required to maintain under this section.
 
-(a) the fund margin of solvency in respect of any insurance fund is the excess of the value of the assets over the liabilities of that fund; and
+[23/2003 wef 23/08/2003]
 
-(b) the margin of solvency of a registered insurer is the excess of the value of its assets over the amount of its liabilities,
+(5) Without prejudice to the generality of section 41, the failure of a registered insurer to comply with subsection (1) or (4) shall be sufficient cause for the Authority to be satisfied that the affairs of the insurer are being conducted in a manner likely to be detrimental to the public interest or the interests of the policy owners and to issue such directions under section 41(1) as the Authority may consider necessary.
 
-that value and amount being determined in accordance with any applicable valuation regulations.
-
-[11/86]
+[23/2003 wef 23/08/2003]
 
 ### Form, investment and situation of assets
 
@@ -1134,9 +1150,13 @@ that value and amount being determined in accordance with any applicable valuati
 
 [11/86]
 
-(5) In this section, any reference to a domestic liability is a reference to a liability of the insurance business carried on by the registered insurer in Singapore, including the margins of solvency prescribed under section 18.
+(5) In this section —
 
-[11/86; 32/93]
+(a) any reference to a domestic liability of a registered insurer is a reference to a liability of the insurance business carried on by the insurer in Singapore, including the liability to satisfy the fund solvency requirements and capital adequacy requirements prescribed under section 18; and
+
+(b) any reference to a domestic liability of an authorised insurer is a reference to any liability incurred by the authorised reinsurer as a result of carrying on the business of providing reinsurance of liabilities under insurance policies to persons in Singapore.
+
+[23/2003 wef 23/08/2003]
 
 (6) Subject to subsection (7), in computing the amount of any liabilities for the purposes of this section, all contingent and prospective liabilities shall be taken into account but not liabilities in respect of share capital.
 
@@ -2670,6 +2690,8 @@ the Authority shall give notice in writing to the insurer of the date on which t
 
 [41/2001]
 
+(7) [Deleted by Act 23/2003 wef 01/01/2004]
+
 (8) In the case of a company incorporated or established outside Singapore, the investigation required by subsection (1) need not extend beyond the business for which an insurance fund is maintained under this Act.
 
 (9) If the company referred to in subsection (8) is required by the law relating to insurance in the country in which it is incorporated or established to furnish the authority having the administration of that law with returns as to actuarial investigations of its insurance business, the documents to be lodged with the Authority under this section shall be accompanied by certified copies of any such returns made since the company was first registered under this Act in respect of insurance business, other than returns of which copies have previously been furnished under this subsection.
@@ -3494,6 +3516,8 @@ shall use due care to secure that the document or information is not false in an
 
 [41/2001]
 
+(7) [Deleted by Act 23/2003 wef 01/01/2004]
+
 ### Penalties for corporations
 
 55A\.—(1) Subject to subsection (2), where a corporation is convicted of an offence under this Act, the penalty that the court may impose is a fine not exceeding 2 times the maximum amount that the court could, but for this subsection, impose as a fine for that offence.
@@ -3720,7 +3744,7 @@ Supplementary
 
 [41/2001]
 
-## THE SCHEDULE
+FIRST SCHEDULE
 
 Section 2(9)
 
@@ -3743,6 +3767,8 @@ General
 (2) “Offshore policy”, in relation to any insurer, means any policy, other than a Singapore policy, issued in the course of the insurer’s business in Singapore.
 
 (3) For the purposes of this paragraph —
+
+(a) [Deleted by Act 23/2003 wef 01/01/2004]
 
 (b) “policy owner’s address” means the address for the time being known to the insurer as the address (or normal address) for communicating with the policy owner about the policy;
 
@@ -3966,6 +3992,11 @@ This Legislative History is provided for the convenience of users of the Insuran
 |||(Bill No. 21/2003 published on 12 December 2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|1 January 2004|
+|20.|**Act 23 of 2003—Insurance (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 20/2003 published on 12 December 2003)|
+||Date of Second and Third Readings|10 November 2003|
+||Date of commencement|23 August 2004 (Sections 18(d) and (e), 19 and 20(c))|
 ## COMPARATIVE TABLE
 
 Insurance Act
