@@ -1,44 +1,42 @@
-**Civil Defence Act 1986**
+**Civil Defence Act**
 
-**(No. 29 of 1986)**
+**(CHAPTER 42)**
 
 **Table of Contents**
 
 [**Long Title**](#Civil-Defence-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II CONSTITUTION, ORGANISATION AND ADMINISTRATION OF THE FORCE**](#Part-II)
+[**Part II CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE**](#Part-II)
 
 - [3 Raising and maintenance of Singapore Civil Defence Force](#Raising-and-maintenance-of-Singapore-Civil-Defence-Force)
 
-- [4 Functions of the Force](#Functions-of-the-Force)
+- [4 Functions of Force](#Functions-of-Force)
 
 - [5 Organisation](#Organisation)
 
-- [6 Administration of the Force by Commissioner](#Administration-of-the-Force-by-Commissioner)
+- [6 Administration of Force by Commissioner](#Administration-of-Force-by-Commissioner)
 
-[**Part III ENLISTMENT AND DISCHARGE OF MEMBERS OF THE FORCE**](#Part-III)
+[**Part III ENLISTMENT AND DISCHARGE OF MEMBERS OF FORCE**](#Part-III)
 
-- [7 Appointment of officers and enlistment of servicemen in the Force](#Appointment-of-officers-and-enlistment-of-servicemen-in-the-Force)
+- [7 Appointment of officers and enlistment of servicemen in Force](#Appointment-of-officers-and-enlistment-of-servicemen-in-Force)
 
-- [8 Public officers serving as members of the Force](#Public-officers-serving-as-members-of-the-Force)
+- [8 Public officers serving as members of Force](#Public-officers-serving-as-members-of-Force)
 
-- [9 Enlistment of national servicemen in the Force](#Enlistment-of-national-servicemen-in-the-Force)
+- [9 Enlistment of national servicemen in Force](#Enlistment-of-national-servicemen-in-Force)
 
-- [10 Discharge of national servicemen from the Force](#Discharge-of-national-servicemen-from-the-Force)
+- [10 Discharge of national servicemen from Force](#Discharge-of-national-servicemen-from-Force)
 
 - [11 Discharge of auxiliary members](#Discharge-of-auxiliary-members)
 
 - [12 Identity card](#Identity-card)
 
-- [13 Delivery of Government property on leaving the Force](#Delivery-of-Government-property-on-leaving-the-Force)
+- [13 Delivery of Government property on leaving Force](#Delivery-of-Government-property-on-leaving-Force)
 
 [**Part IV JURISDICTION AND LIABILITY**](#Part-IV)
 
@@ -58,11 +56,11 @@
 
 - [19 Limitation of time for trial of offences under this Act](#Limitation-of-time-for-trial-of-offences-under-this-Act)
 
-- [20 Jurisdiction of the courts](#Jurisdiction-of-the-courts)
+- [20 Jurisdiction of courts](#Jurisdiction-of-courts)
 
 - [21 Persons not to be tried under this Act for offences already disposed of](#Persons-not-to-be-tried-under-this-Act-for-offences-already-disposed-of)
 
-- [22 Application of the principles of Penal Code](#Application-of-the-principles-of-Penal-Code)
+- [22 Application of principles of Penal Code](#Application-of-principles-of-Penal-Code)
 
 [**Part V SERVICE OFFENCES**](#Part-V)
 
@@ -120,9 +118,9 @@
 
 - [49 Malingering](#Malingering)
 
-- [50 Drunkeness on duty, etc](#Drunkeness-on-duty-etc)
+- [50 Drunkeness on duty, etc.](#Drunkeness-on-duty-etc)
 
-- [51 Assaults, insulting words, etc](#Assaults-insulting-words-etc)
+- [51 Assaults, insulting words, etc.](#Assaults-insulting-words-etc)
 
 - [52 Negligent performance of duty](#Negligent-performance-of-duty)
 
@@ -158,7 +156,7 @@
 
 - [67 Search of person in custody](#Search-of-person-in-custody)
 
-- [68 Search by person of same sex, etc](#Search-by-person-of-same-sex-etc)
+- [68 Search by person of same sex, etc.](#Search-by-person-of-same-sex-etc)
 
 - [69 Disposal of property taken on search](#Disposal-of-property-taken-on-search)
 
@@ -266,53 +264,33 @@
 
 - [113 Mobilisation of auxiliary members](#Mobilisation-of-auxiliary-members)
 
-- [114 Section 14 of the Government Proceedings Act shall apply to the Force](#Section-14-of-the-Government-Proceedings-Act-shall-apply-to-the-Force)
+- [114 Section 14 of Government Proceedings Act shall apply to Force](#Section-14-of-Government-Proceedings-Act-shall-apply-to-Force)
 
 - [115 Regulations](#Regulations)
 
-- [116 Repeal](#Repeal)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Civil Defence Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 42)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 29 of 1986)
 
-Published by Authority
+REVISED EDITION 1985
 
-NO. 29]
+(30th March 1987)
 
-Friday, October 17
+An Act to provide for the raising, maintenance and discipline of a civil defence force and for the exercise of the functions and powers of the Force during national emergencies and for purposes connected therewith.
 
-[1986
-
-The following Act was passed by Parliament on 22nd September 1986 and assented to by the President on 7th October 1986:—
-
-Civil Defence Act 1986
-
-(No. 29 of 1986)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-7th October 1986.
-
-Date of Commencement: 14th November 1986
-
-An Act to provide for the raising, maintenance and discipline of a civil defence force and for the exercise of the functions and powers of the Force during national emergencies and for purposes connected therewith; and to repeal the Civil Defence Act (Chapter 228 of the Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[14th November 1986]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Civil Defence Act 1986 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Civil Defence Act.
 
 ### Interpretation
 
@@ -338,7 +316,7 @@ PRELIMINARY
 
 “Force” means the Singapore Civil Defence Force raised and maintained in accordance with the provisions of this Act;
 
-“full-time service” has the same meaning as in the Enlistment Act (Cap. 229);
+“full-time service” has the same meaning as in the Enlistment Act [Cap. 93];
 
 “Fund” means the Civil Defence Force Fund established under section 101;
 
@@ -346,7 +324,7 @@ PRELIMINARY
 
 “member” means an officer or a serviceman of the Force;
 
-“national service” and “national serviceman”have the same meanings as in the Enlistment Act (Cap. 229);
+“national service” and “national serviceman” have the same meanings as in the Enlistment Act;
 
 “non-commissioned officer” means a member holding a rank not higher than the rank of warrant officer and not lower than the rank of lance-corporal;
 
@@ -370,7 +348,7 @@ PRELIMINARY
 
 “public authority” includes a body corporate constituted under any written law to perform certain functions or vested with certain powers;
 
-“reserve service” has the same meaning as in the Enlistment Act;
+“reserve service” has the same meaning as in the Enlistment Act [Cap. 93];
 
 “reservist” means a person liable to render reserve service under the Enlistment Act;
 
@@ -392,7 +370,7 @@ PRELIMINARY
 
 (b) a mess, club, common room, canteen or other institution of the Force,
 
-and “service ship”, “service aircraft” and “service vehicle” shall have corresponding meanings;
+and “service ship”, “service aircraft”, and “service vehicle” shall have corresponding meanings;
 
 “state of civil defence emergency” means a state of civil defence emergency declared under section 102;
 
@@ -400,13 +378,18 @@ and “service ship”, “service aircraft” and “service vehicle” shall h
 
 ## PART II
 
-CONSTITUTION, ORGANISATION AND ADMINISTRATION OF THE FORCE
+CONSTITUTION, ORGANISATION AND
+
+
+
+
+ADMINISTRATION OF FORCE
 
 ### Raising and maintenance of Singapore Civil Defence Force
 
-3\. There shall be raised and maintained in accordance with the provisions of this Act and of the regulations a civil defence force to be known as the “Singapore Civil Defence Force”, which shall consist of such number of officers and servicemen as are from time to time approved by the Minister.
+3\. There shall be raised and maintained in accordance with the provisions of this Act and of the regulations a civil defence force to be known as the Singapore Civil Defence Force, which shall consist of such number of officers and servicemen as are from time to time approved by the Minister.
 
-### Functions of the Force
+### Functions of Force
 
 4\.—(1) The functions of the Force are —
 
@@ -454,7 +437,7 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF THE FORCE
 
 (c) persons who are recruited to serve as auxiliary members.
 
-### Administration of the Force by Commissioner
+### Administration of Force by Commissioner
 
 6\.—(1) The Minister may appoint a Commissioner of Civil Defence who shall —
 
@@ -468,9 +451,9 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF THE FORCE
 
 ## PART III
 
-ENLISTMENT AND DISCHARGE OF MEMBERS OF THE FORCE
+ENLISTMENT AND DISCHARGE OF MEMBERS OF FORCE
 
-### Appointment of officers and enlistment of servicemen in the Force
+### Appointment of officers and enlistment of servicemen in Force
 
 7\.—(1) The Minister may appoint and enlist such number of officers and servicemen for the Force as he thinks fit.
 
@@ -482,15 +465,15 @@ ENLISTMENT AND DISCHARGE OF MEMBERS OF THE FORCE
 
 (5) The Commissioner may at any time dismiss an auxiliary member from the Force without assigning any reason.
 
-### Public officers serving as members of the Force
+### Public officers serving as members of Force
 
 8\.—(1) The Public Service Commission shall continue to have control over the confirmation, emplacement on the permanent or pensionable establishment, promotion, transfer, dismissal and exercise of disciplinary control over public officers who are posted to serve in the Force.
 
 (2) A public officer who is posted to the Force as an officer or a serviceman may resign from the Force by giving the notice of termination of service prescribed by the terms and conditions of his appointment as a public officer.
 
-### Enlistment of national servicemen in the Force
+### Enlistment of national servicemen in Force
 
-9\.—(1) A person on whom a notice under section 10 of the Enlistment Act (Cap. 229) has been served requiring him to report for enlistment in the Force shall, as from the time when he reports for enlistment for national service, be deemed to have been enlisted in the Force.
+9\.—(1) A person on whom a notice under section 10 of the Enlistment Act [Cap. 93] has been served requiring him to report for enlistment in the Force shall, as from the time when he reports for enlistment for national service, be deemed to have been enlisted in the Force.
 
 (2) A person enlisted for national service pursuant to the provisions of the Enlistment Act shall, from such time as the proper authority transfers him to the service of the Force, be deemed to have been enlisted in the Force.
 
@@ -498,9 +481,9 @@ ENLISTMENT AND DISCHARGE OF MEMBERS OF THE FORCE
 
 (a) full-time service for the period prescribed by the Enlistment Act; and
 
-(b) where they have completed full-time service for the prescribed period, reserve service for the period prescribed by the Enlistment Act.
+(b) where they have completed full-time service for the prescribed period, reserve service for the period prescribed by the Enlistment Act [Cap. 93].
 
-### Discharge of national servicemen from the Force
+### Discharge of national servicemen from Force
 
 10\. A member who is enlisted in the Force pursuant to the Enlistment Act shall be discharged —
 
@@ -512,7 +495,7 @@ ENLISTMENT AND DISCHARGE OF MEMBERS OF THE FORCE
 
 (ii) the proper authority notifies him that he is released from the Force; or
 
-(iii) he ceases to be a person subject to the Enlistment Act (Cap. 229).
+(iii) he ceases to be a person subject to the Enlistment Act.
 
 ### Discharge of auxiliary members
 
@@ -522,7 +505,7 @@ ENLISTMENT AND DISCHARGE OF MEMBERS OF THE FORCE
 
 12\. An identity card shall be issued to every member and shall be evidence of his appointment under this Act.
 
-### Delivery of Government property on leaving the Force
+### Delivery of Government property on leaving Force
 
 13\.—(1) Every member who, by resignation, dismissal, discharge or otherwise, leaves the Force shall before leaving deliver up in good order (fair wear and tear excepted) any accoutrement, uniform or other article supplied to him and any other property belonging to the Government which may be in his possession.
 
@@ -550,7 +533,7 @@ Persons subject to this Act
 
 (4) For the purposes of subsection (2), a member shall be deemed to be on duty —
 
-(a) from the time appointed by the Commissioner for him to report to or to attend at a place specified by the Commissioner for rendering any reserve service which he is required to render under the Enlistment Act (Cap. 229) until he is duly released or discharged from that service; or
+(a) from the time appointed by the Commissioner for him to report to or to attend at a place specified by the Commissioner for rendering any reserve service which he is required to render under the Enlistment Act [Cap. 93] until he is duly released or discharged from that service; or
 
 (b) while acting or purporting to act in or with intended reference to his capacity as a member of the Force.
 
@@ -572,7 +555,17 @@ Persons subject to this Act
 
 Division 2 —
 
-Liability of persons subject to this Act to be tried and punished for service offences
+Liability of persons subject to
+
+
+
+
+this Act to be tried and punished
+
+
+
+
+for service offences
 
 ### Trial and punishment of person committing service offence
 
@@ -612,7 +605,7 @@ Liability of persons subject to this Act to be tried and punished for service of
 
 (5) Nothing in this section shall affect the jurisdiction of a court to try any person for any service offence committed by him.
 
-### Jurisdiction of the courts
+### Jurisdiction of courts
 
 20\.—(1) Nothing in this Act shall affect the jurisdiction of any court to try a person for any offence under any other written law triable by the court where the act or omission of that person also constitutes a service offence.
 
@@ -626,9 +619,9 @@ Liability of persons subject to this Act to be tried and punished for service of
 
 21\. Where a person subject to this Act has been tried for a service offence by a court or has had a service offence committed by him taken into consideration by the court in sentencing him, he shall not be liable in respect of that offence to be dealt with and punished by a disciplinary officer in pursuance of this Act.
 
-### Application of the principles of Penal Code
+### Application of principles of Penal Code
 
-22\. The principles of the Penal Code with respect to criminal liability shall apply in relation to service offences under this Act (Cap. 103).
+22\. The principles of the Penal Code [Cap. 224] with respect to criminal liability shall apply in relation to service offences under this Act.
 
 ## PART V
 
@@ -756,9 +749,7 @@ whether the person in command is a member or not shall be guilty of an offence a
 
 35\.—(1) A person who does not comply with a lawful order that is applicable to him shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
 
-(2) In this section,
-
-“order” means —
+(2) In this section, “order” means —
 
 (a) an order, instruction or directive issued by, or under the authority of, the Commissioner; or
 
@@ -906,7 +897,7 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (2) A person who, with intent to avoid service or duty, falsely represents himself to be suffering from a sickness or disability shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding one year or any other punishment authorised by this Act.
 
-### Drunkeness on duty, etc
+### Drunkeness on duty, etc.
 
 50\.—(1) A person who —
 
@@ -922,7 +913,7 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (b) he is unfit for the discharge of his duties.
 
-### Assaults, insulting words, etc
+### Assaults, insulting words, etc.
 
 51\. A person who, on service land, in a service ship, aircraft or vehicle or in a public place —
 
@@ -1060,7 +1051,7 @@ ARREST, CUSTODY AND SEARCH
 
 63\.—(1) When a member exercises his power of arrest or receives a person into service custody, he shall as soon as practicable having regard to the circumstances of the arrest cause the person arrested to be transferred to the custody of a commanding officer.
 
-(2) Where a person arrested has come into the custody of a commanding officer, that commanding officer shall release the person arrested as soon as his continued custody, for one of the reasons specified in paragraph (b) of section 57(1), is no longer necessary and may impose such restrictions as are permitted by section 64.
+(2) Where a person arrested has come into the custody of a commanding officer, that commanding officer shall release the person arrested as soon as his continued custody, for one of the reasons specified in section 57(1)(b), is no longer necessary and may impose such restrictions as are permitted by section 64.
 
 (3) When a person arrested is not released in accordance with subsection (2), the commanding officer into whose custody the person arrested has been transferred in accordance with subsection (1) shall, within 24 hours of receiving the person into custody, cause him to be given a copy of the charge on which he is being held.
 
@@ -1086,7 +1077,7 @@ ARREST, CUSTODY AND SEARCH
 
 (b) if he is arrested under section 57 or 58 in relation to another offence; or
 
-(c) if it is necessary for any of the reasons specified in paragraph (b) of section 57(1).
+(c) if it is necessary for any of the reasons specified in section 57(1)(b).
 
 (3) A restriction imposed upon a person under subsection (1) may, at any time, be revoked by the officer who imposed it, or by an officer acting in the place of that officer and, if not so revoked ceases to have effect when —
 
@@ -1126,7 +1117,7 @@ that officer may authorise a duly qualified medical practitioner to make a physi
 
 may search the first-mentioned person and may take from him anything found upon his person.
 
-### Search by person of same sex, etc
+### Search by person of same sex, etc.
 
 68\. Notwithstanding section 67 —
 
@@ -1232,7 +1223,7 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 81\.—(1) The Commissioner shall appoint an officer or officers (hereinafter referred to as the reviewing authority) to act for the purposes of this section in any particular case or any class of cases.
 
-(2) No person shall be appointed to be or act as the reviewing authority unless he is a qualified person within the meaning of the Legal Profession Act (Cap. 217).
+(2) No person shall be appointed to be or act as the reviewing authority unless he is a qualified person within the meaning of the Legal Profession Act [Cap. 161].
 
 (3) Where a charge has been dealt with by a disciplinary officer otherwise than by the dismissal thereof, the reviewing authority shall as soon as practicable review the finding or award.
 
@@ -1250,9 +1241,9 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 82\. In this Part —
 
-(a) “junior disciplinary officer”, in relation to a person charged with an offence, means an officer commanding a company or equivalent sub-unit or any other officer designated as a junior disciplinary officer by the Commissioner to deal with charges made against a member for the commission of a service offence; and
+“junior disciplinary officer”, in relation to a person charged with an offence, means an officer commanding a company or equivalent sub-unit or any other officer designated as a junior disciplinary officer by the Commissioner to deal with charges made against a member for the commission of a service offence; and
 
-(b) “senior disciplinary officer”, in relation to a person charged with an offence, means an officer commanding a division or any other officer designated as a senior disciplinary officer by the Commissioner to deal with charges made against a member for the commission of a service offence.
+“senior disciplinary officer”, in relation to a person charged with an offence, means an officer commanding a division or any other officer designated as a senior disciplinary officer by the Commissioner to deal with charges made against a member for the commission of a service offence.
 
 ### Inapplicability of law of evidence
 
@@ -1290,7 +1281,7 @@ and such detention shall take effect from such date as the disciplinary officer 
 
 (f) empowering a disciplinary officer to amend a charge which is being tried by him;
 
-(g) the forms of orders and other documents to be made or used for the purposes of any provision of this Act or the Rules of Procedure relating to the investigation or trial of, or award of punishment for, service offences;
+(g) the forms of orders and other documents to be made or used for the purposes of any provision of this Act or the Rules of Procedure relating to the investigation or trial of, or award of punishment for, service offences; and
 
 (h) any matter which by this Part is required or authorised to be prescribed.
 
@@ -1306,7 +1297,7 @@ POWERS OF INVESTIGATION
 
 ### Powers of investigation of a provost officer
 
-87\. In an investigation relating to the commission of a service offence, a provost officer shall have all the powers of a police officer under the Criminal Procedure Code (Cap. 113) in relation to an investigation of a seizable offence.
+87\. In an investigation relating to the commission of a service offence, a provost officer shall have all the powers of a police officer under the Criminal Procedure Code [Cap. 68] in relation to an investigation of a seizable offence.
 
 ## PART IX
 
@@ -1358,7 +1349,7 @@ DEDUCTIONS FROM PAY OF A MEMBER
 
 ### Write-off of public property
 
-91\. Without prejudice to section 19 of the Financial Procedure Act (Cap. 68) —
+91\. Without prejudice to section 19 of the Financial Procedure Act [Cap. 109] —
 
 (a) where, during or at the conclusion of a trial by a disciplinary officer, the disciplinary officer —
 
@@ -1376,7 +1367,7 @@ BOARDS OF INQUIRY
 
 ### Board of inquiry
 
-92\.—(1) Where it is expedient that the Minister, or such other person as the Minister may appoint to exercise the powers conferred upon the Minister by this Part, should be informed on any matter connected with the government, discipline, administration or functions of the Force or affecting any person subject to this Act, the Minister or the person appointed by the Minister as aforesaid may convene a board of inquiry.
+92\.—(1) Where it is expedient that the Minister, or such other person as the Minister may appoint to exercise the powers conferred upon the Minister by this Part, should be informed on any matter connected with the Government, discipline, administration or functions of the Force or affecting any person subject to this Act, the Minister or the person appointed by the Minister as aforesaid may convene a board of inquiry.
 
 (2) A board of inquiry shall inquire into and report on the facts relating to any matter referred to it and, if directed by the Minister to do so, express its opinion on any question arising out of any such matter.
 
@@ -1460,7 +1451,7 @@ CIVIL DEFENCE FORCE FUND
 
 ### Civil Defence Force Fund
 
-101\.—(1) There shall be established a fund to be known as the “Civil Defence Force Fund”.
+101\.—(1) There shall be established a fund to be known as the Civil Defence Force Fund.
 
 (2) The Fund shall consist of —
 
@@ -1502,9 +1493,9 @@ CIVIL DEFENCE EMERGENCY
 
 (e) restrict the movement of persons and close to traffic any road, street, motorway, private street, private way, service lane, right of way or access way or other way or close any public place.
 
-(2) Any person who renders any assistance pursuant to paragraph (a) of subsection (1) shall be entitled to fair and reasonable remuneration from the Commissioner, such claim to be made in accordance with the regulations and paid out of moneys appropriated by Parliament for the purpose.
+(2) Any person who renders any assistance pursuant to subsection (1)(a) shall be entitled to fair and reasonable remuneration from the Commissioner, such claim to be made in accordance with the regulations and paid out of moneys appropriated by Parliament for the purpose.
 
-(3) Any person who suffers loss of or damage to his property by reason of the exercise of the powers conferred by paragraphs (c) and (d) of subsection (1) shall be entitled to fair and reasonable compensation for such loss or damage, such claim to be made in accordance with the regulations and paid out of moneys appropriated by Parliament for the purpose.
+(3) Any person who suffers loss of or damage to his property by reason of the exercise of the powers conferred by subsection (1)(c) and (d) shall be entitled to fair and reasonable compensation for such loss or damage, such claim to be made in accordance with the regulations and paid out of moneys appropriated by Parliament for the purpose.
 
 (4) Any person who contravenes or fails to comply with a direction lawfully given under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
@@ -1518,7 +1509,7 @@ TRAINING OF CIVILIAN POPULATION IN CIVIL DEFENCE
 
 ### Protection of civil defence volunteers
 
-105\.—(1) For the purposes of the Government Proceedings Act (Cap. 21), any civil defence volunteer acting or purporting in good faith to be acting under any order or instruction given to him by a member of the Force whilst participating in any civil defence measures or whilst receiving instruction in civil defence shall be deemed to be the agent of and acting under the instructions of the Government and no act or default done or made by the civil defence volunteer in good faith whilst participating in any civil defence measure or whilst receiving instruction in civil defence shall subject him to any personal liability.
+105\.—(1) For the purposes of the Government Proceedings Act [Cap. 121], any civil defence volunteer acting or purporting in good faith to be acting under any order or instruction given to him by a member of the Force whilst participating in any civil defence measures or whilst receiving instruction in civil defence shall be deemed to be the agent of and acting under the instructions of the Government and no act or default done or made by the civil defence volunteer in good faith whilst participating in any civil defence measure or whilst receiving instruction in civil defence shall subject him to any personal liability.
 
 (2) For the purposes of subsection (1), “civil defence volunteer” means any person who has agreed to take part in civil defence measures or receives instruction in civil defence organised under the authority of the Commissioner.
 
@@ -1546,11 +1537,11 @@ shall be deemed also to have committed the offence jointly with the body corpora
 
 ### Members deemed to be public servants
 
-109\. Members of the Force shall be deemed to be public servants for the purposes of the Penal Code (Cap. 103).
+109\. Members of the Force shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
 
 ### Civil Defence General Orders and Standing Orders
 
-110\.—(1) The Commissioner may from time to time make such orders not inconsistent with the provisions of this Act or the regulations to be called “Civil Defence General Orders” as he may consider necessary or expedient to provide for —
+110\.—(1) The Commissioner may from time to time make such orders not inconsistent with the provisions of this Act or the regulations to be called Civil Defence General Orders as he may consider necessary or expedient to provide for —
 
 (a) conduct and discipline and the regulation and carrying out of punishment;
 
@@ -1568,7 +1559,7 @@ shall be deemed also to have committed the offence jointly with the body corpora
 
 (h) such other matters as may be necessary and expedient for rendering the Force efficient in the discharge of its duties and for carrying out the purposes of this Act.
 
-(2) A commanding officer may issue orders of a routine nature to be called “Standing Orders” and any directives not inconsistent with the provisions of this Act or the Civil Defence General Orders for the control, direction and information of the members of the Force in his command.
+(2) A commanding officer may issue orders of a routine nature to be called Standing Orders and any directives not inconsistent with the provisions of this Act or the Civil Defence General Orders for the control, direction and information of the members of the Force in his command.
 
 (3) It shall not be necessary to publish any Civil Defence General Orders, Standing Orders or directives in theGazette.
 
@@ -1584,7 +1575,7 @@ at the rates prescribed by the regulations and paid out of the Consolidated Fund
 
 ### Protection from liability
 
-112\. No action or proceeding shall lie or be brought against the Government, any officer or servant of the Government, a member of the Force or any other person acting under any direction given or purported to be given under this Act in respect of anything done or omitted to be done in good faith under and for the purposes of this Act during a state of civil defence emergency or a state of emergency.
+112\. No action or proceeding shall lie or be brought against the Government, any officer or employee of the Government, a member of the Force or any other person acting under any direction given or purported to be given under this Act in respect of anything done or omitted to be done in good faith under and for the purposes of this Act during a state of civil defence emergency or a state of emergency.
 
 ### Mobilisation of auxiliary members
 
@@ -1596,9 +1587,9 @@ at the rates prescribed by the regulations and paid out of the Consolidated Fund
 
 (4) Auxiliary members mobilised for continuous full-time service shall be paid such salaries and allowances as are prescribed or provided for by regulations.
 
-### Section 14 of the Government Proceedings Act shall apply to the Force
+### Section 14 of Government Proceedings Act shall apply to Force
 
-114\. Section 14 of the Government Proceedings Act (Cap. 21) shall apply to members of the Force including any person serving as an auxiliary member of the Force.
+114\. Section 14 of the Government Proceedings Act [Cap. 121] shall apply to members of the Force including any person serving as an auxiliary member of the Force.
 
 ### Regulations
 
@@ -1640,7 +1631,20 @@ at the rates prescribed by the regulations and paid out of the Consolidated Fund
 
 (q) the imposition of controls or prohibitions on lighting in any area or place for the purposes of civil defence.
 
-### Repeal
+## LEGISLATIVE HISTORY
 
-116\. The Civil Defence Act (Cap. 228) is repealed.
+Civil Defence Act
 
+(CHAPTER 42)
+
+This Legislative History is provided for the convenience of users of the Civil Defence Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 29 of 1986—Civil Defence Act 1986**|
+||Date of First Reading|25 August 1986|
+|||(Bill No. 23/86 published on 29 August 1986)|
+||Date of Second and Third Readings|22 September 1986|
+||Date of commencement|14 November 1986|
+|2.|**1985 Revised Edition—Civil Defence Act**|
+||Date of operation|30 March 1987|
