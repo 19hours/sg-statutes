@@ -16,7 +16,7 @@
 
 - [4 Schools to which this Act does not apply](#Schools-to-which-this-Act-does-not-apply)
 
-- [5 Delegation of Director’s functions](#Delegation-of-Director’s-functions)
+- [5 Delegation of Director-General’s functions](#Delegation-of-Director-General’s-functions)
 
 [**Part II EDUCATION FINANCE BOARD**](#Part-II)
 
@@ -72,7 +72,7 @@
 
 - [26 Committees of management](#Committees-of-management)
 
-- [27 Director may appoint managers or additional managers](#Director-may-appoint-managers-or-additional-managers)
+- [27 Director-General may appoint managers or additional managers](#Director-General-may-appoint-managers-or-additional-managers)
 
 - [28 Registration and withdrawal of registration of supervisor](#Registration-and-withdrawal-of-registration-of-supervisor)
 
@@ -110,7 +110,7 @@
 
 - [43 Grounds for cancellation of authority to teach](#Grounds-for-cancellation-of-authority-to-teach)
 
-- [44 Director may issue permit to teach](#Director-may-issue-permit-to-teach)
+- [44 Director-General may issue permit to teach](#Director-General-may-issue-permit-to-teach)
 
 [**Part X GENERAL PROCEDURE ON REGISTRATION AND CANCELLATION OF REGISTRATION OF SCHOOLS, MANAGERS AND TEACHERS**](#Part-X)
 
@@ -122,7 +122,7 @@
 
 - [48 Procedure upon refusal to register, cancellation of registration, etc.](#Procedure-upon-refusal-to-register-cancellation-of-registration-etc)
 
-- [49 Cancellation of registration to involve immediate suspension unless Director otherwise permits](#Cancellation-of-registration-to-involve-immediate-suspension-unless-Director-otherwise-permits)
+- [49 Cancellation of registration to involve immediate suspension unless Director-General otherwise permits](#Cancellation-of-registration-to-involve-immediate-suspension-unless-Director-General-otherwise-permits)
 
 - [50 Unlawful to assemble in school whose registration is cancelled, and powers of police to enter](#Unlawful-to-assemble-in-school-whose-registration-is-cancelled-and-powers-of-police-to-enter)
 
@@ -132,17 +132,17 @@
 
 - [52 Schools to be inspected at least once a year](#Schools-to-be-inspected-at-least-once-a-year)
 
-- [53 Powers of Director and inspectors on inspecting schools](#Powers-of-Director-and-inspectors-on-inspecting-schools)
+- [53 Powers of Director-General and inspectors on inspecting schools](#Powers-of-Director-General-and-inspectors-on-inspecting-schools)
 
 - [54 Power to direct remedial measures](#Power-to-direct-remedial-measures)
 
-- [55 Powers of Director and inspector in searching for unregistered schools](#Powers-of-Director-and-inspector-in-searching-for-unregistered-schools)
+- [55 Powers of Director-General and inspector in searching for unregistered schools](#Powers-of-Director-General-and-inspector-in-searching-for-unregistered-schools)
 
 [**Part XII APPEALS**](#Part-XII)
 
 - [56 Procedure on appeals](#Procedure-on-appeals)
 
-- [57 Appellant and Director or their representatives may be present at appeal](#Appellant-and-Director-or-their-representatives-may-be-present-at-appeal)
+- [57 Appellant and Director-General or their representatives may be present at appeal](#Appellant-and-Director-General-or-their-representatives-may-be-present-at-appeal)
 
 - [58 Onus of proof on appellant](#Onus-of-proof-on-appellant)
 
@@ -158,7 +158,7 @@
 
 - [63 Service of notices](#Service-of-notices)
 
-- [64 No person to be charged except on complaint of Director](#No-person-to-be-charged-except-on-complaint-of-Director)
+- [64 No person to be charged except on complaint of Director-General](#No-person-to-be-charged-except-on-complaint-of-Director-General)
 
 - [65 Power to amend forms in Schedule](#Power-to-amend-forms-in-Schedule)
 
@@ -198,7 +198,9 @@ GENERAL
 
 “committee of management” means the committee of management of a school referred to in section 26;
 
-“Director” means the Director of Education;
+“Director-General” means the Director-General of Education;
+
+[8/97 wef 02/09/1997]
 
 “document” includes any book, textbook, exercise book, accounts, counterfoils, pamphlet, publication, newspaper, poster, drawing, sketch, film, film-strip, slide, gramophone record, and other printed, written or recorded matter, whether relating to instruction, recreation, school management or otherwise;
 
@@ -216,13 +218,15 @@ GENERAL
 
 “medical officer” means a registered medical practitioner in the service of the Government;
 
-“principal” means the headmaster or headmistress of a school;
+“principal” means the headmaster or head mistress of a school;
 
 “public health inspector” means a health inspector of the Ministry of the Environment;
 
 “pupil” means a person of any age receiving instruction in a school;
 
-“register of managers and supervisors”, “register of schools” and “register of teachers” mean the respective registers maintained by the Director under section 19, and “registered” means entered upon one of those registers;
+“register of managers and supervisors”, “register of schools” and “register of teachers” mean the respective registers maintained by the Director-General under section 19, and “registered” means entered upon one of those registers;
+
+[8/97 wef 02/09/1997]
 
 “school” means according to the context —
 
@@ -252,9 +256,11 @@ GENERAL
 
 [3A
 
-### Delegation of Director’s functions
+### Delegation of Director-General’s functions
 
-5\. The functions of the Director under the provisions of this Act may be exercised and discharged by such officers of the Ministry of Education as may from time to time be authorised for that purpose by the Minister by notification in theGazette.
+5\. The functions of the Director-General under the provisions of this Act may be exercised and discharged by such officers of the Ministry of Education as may from time to time be authorised for that purpose by the Minister by notification in theGazette.
+
+[8/97 wef 02/09/1997]
 
 [4
 
@@ -268,7 +274,9 @@ EDUCATION FINANCE BOARD
 
 (2) The Finance Board shall consist of —
 
-(a) the Director as Chairman;
+(a) the Director-General as Chairman;
+
+[8/97 wef 02/09/1997]
 
 (b) the Permanent Secretary of the Ministry of Finance or his representative; and
 
@@ -298,7 +306,9 @@ Provided that the Minister may at any time revoke any such appointment.
 
 (a) to advise the Minister on the administration of all property or moneys contributed or paid by the Government or otherwise in respect of education;
 
-(b) to consider the annual estimates for educational purposes prepared by the Director and to make recommendations thereon to the Minister.
+(b) to consider the annual estimates for educational purposes prepared by the Director-General and to make recommendations thereon to the Minister.
+
+[8/97 wef 02/09/1997]
 
 [6
 
@@ -318,7 +328,9 @@ EDUCATIONAL ADVISORY COUNCIL
 
 (2) The Council shall consist of —
 
-(a) the Director as Chairman;
+(a) the Director-General as Chairman;
+
+[8/97 wef 02/09/1997]
 
 (b) all other members of the Finance Board;
 
@@ -378,7 +390,9 @@ Provided that the institution, organisation or association nominating such a mem
 
 (3) The Council may delegate to the Standing General Purposes Sub-committee or to any sub-committee appointed under subsection (2) such of its functions as the Council thinks fit for the purposes for which the sub-committee was appointed.
 
-(4) The Director or such other person as he may from time to time appoint shall be a member of every sub-committee appointed under subsection (2).
+(4) The Director-General or such other person as he may from time to time appoint shall be a member of every sub-committee appointed under subsection (2).
+
+[8/97 wef 02/09/1997]
 
 [11
 
@@ -436,9 +450,11 @@ Provided that no appeal which concerns the registration of a manager or teacher 
 
 ### Duties
 
-15\. It shall be the duty of the Appeals Board to hear and decide all appeals from the decisions of the Director under this Act other than those expressly excepted under section 48(2)(a):
+15\. It shall be the duty of the Appeals Board to hear and decide all appeals from the decisions of the Director-General under this Act other than those expressly excepted under section 48(2)(a):
 
 Provided that the Appeals Board shall not hear an appeal from any Government teacher other than an appeal against the cancellation of his registration as a teacher.
+
+[8/97 wef 02/09/1997]
 
 [14
 
@@ -478,7 +494,7 @@ REGISTERS OF SCHOOLS, MANAGERS AND TEACHERS
 
 ### Registers of schools, etc.
 
-19\.—(1) The Director shall keep separate registers in which shall be entered —
+19\.—(1) The Director-General shall keep separate registers in which shall be entered —
 
 (a) the name of every school other than schools exempted from registration under section 3;
 
@@ -488,7 +504,11 @@ REGISTERS OF SCHOOLS, MANAGERS AND TEACHERS
 
 (d) the name of every teacher to whom an authorisation to teach as an unregistered teacher has been issued under Part IX.
 
-(2) The Director shall enter in the registers such other particulars as may from time to time appear to him to be necessary.
+[8/97 wef 02/09/1997]
+
+(2) The Director-General shall enter in the registers such other particulars as may from time to time appear to him to be necessary.
+
+[8/97 wef 02/09/1997]
 
 [18
 
@@ -518,9 +538,13 @@ REGISTRATION OF SCHOOLS
 
 ### Application
 
-22\.—(1) The Director shall cause every Government school to be registered.
+22\.—(1) The Director-General shall cause every Government school to be registered.
 
-(2) An application for the registration of a school other than a Government school shall be made to the Director by a person intending to become a manager of the school and the Director may grant the application with or without conditions, or may refuse the application giving reasons for his refusal.
+[8/97 wef 02/09/1997]
+
+(2) An application for the registration of a school other than a Government school shall be made to the Director-General by a person intending to become a manager of the school and the Director-General may grant the application with or without conditions, or may refuse the application giving reasons for his refusal.
+
+[8/97 wef 02/09/1997]
 
 (3) Every such application shall be substantially in the Form 1 set out in the Schedule and shall be accompanied by applications for registration as managers of and teachers in the school, as the case may be, completed in accordance with sections 31 and 36 respectively by every person named in the application as managers of, or as teachers in, the school.
 
@@ -528,7 +552,7 @@ REGISTRATION OF SCHOOLS
 
 ### Registration of a school
 
-23\.—(1) Upon an application for the registration of a school the Director after such inquiry as may be necessary shall —
+23\.—(1) Upon an application for the registration of a school the Director-General after such inquiry as may be necessary shall —
 
 (a) register the school;
 
@@ -536,9 +560,13 @@ REGISTRATION OF SCHOOLS
 
 (c) if the application is refused, specify the provision of this Act under which the application is refused.
 
-(2) The conditions referred to in subsection (1) may include the acceptance by the persons proposed as managers of the school of a constitution, written scheme or deed of trust providing for the management of the school and the administration of the property and revenues as proposed by the Director in each case and the execution of the constitution, written scheme or deed of trust by the proper parties thereto.
+[8/97 wef 02/09/1997]
 
-(3) When a school is registered, the Director shall issue to the supervisor thereof a certificate of registration in the Form 2 set out in the Schedule in which shall be specified the premises in which the school may be conducted and the supervisor shall cause a copy of the certificate together with a list drawn up in such languages as may be determined by the Director of the names of the —
+(2) The conditions referred to in subsection (1) may include the acceptance by the persons proposed as managers of the school of a constitution, written scheme or deed of trust providing for the management of the school and the administration of the property and revenues as proposed by the Director-General in each case and the execution of the constitution, written scheme or deed of trust by the proper parties thereto.
+
+[8/97 wef 02/09/1997]
+
+(3) When a school is registered, the Director-General shall issue to the supervisor thereof a certificate of registration in the Form 2 set out in the Schedule in which shall be specified the premises in which the school may be conducted and the supervisor shall cause a copy of the certificate together with a list drawn up in such languages as may be determined by the Director-General of the names of the —
 
 (a) supervisor;
 
@@ -550,13 +578,17 @@ REGISTRATION OF SCHOOLS
 
 to be exhibited in a conspicuous place in every building in which the school is to be conducted.
 
-(4) No school shall be opened for instructional purposes until the certificate of registration has been issued by the Director and exhibited with the list referred to in subsection (3).
+[8/97 wef 02/09/1997]
+
+(4) No school shall be opened for instructional purposes until the certificate of registration has been issued by the Director-General and exhibited with the list referred to in subsection (3).
+
+[8/97 wef 02/09/1997]
 
 [22
 
 ### Grounds for refusal to register a school
 
-24\. The Director may refuse to register a school if —
+24\. The Director-General may refuse to register a school if —
 
 (a) adequate educational facilities already exist in the area in which it is proposed to open the school;
 
@@ -594,11 +626,13 @@ to be exhibited in a conspicuous place in every building in which the school is 
 
 (r) in the application for registration a statement has been made or information has been furnished which is false in a material particular or by reason of the omission of a material particular.
 
+[8/97 wef 02/09/1997]
+
 [23
 
 ### Grounds for cancellation of registration of a school
 
-25\.—(1) The Director may cancel the registration of any school —
+25\.—(1) The Director-General may cancel the registration of any school —
 
 (a) on any of the grounds on which he would have been entitled to refuse registration under section 24, other than that set out in paragraph (a) thereof;
 
@@ -610,7 +644,11 @@ to be exhibited in a conspicuous place in every building in which the school is 
 
 (e) if satisfied that discipline in the school has not been or cannot be adequately maintained.
 
-(2) If the registration of all the managers of a school has been cancelled, the Director shall cancel the registration of the school.
+[8/97 wef 02/09/1997]
+
+(2) If the registration of all the managers of a school has been cancelled, the Director-General shall cancel the registration of the school.
+
+[8/97 wef 02/09/1997]
 
 [24
 
@@ -624,17 +662,23 @@ MANAGEMENT OF SCHOOLS — SUPERVISORS AND MANAGERS
 
 Provided that if any school has only one manager the duties to be discharged by the committee of management shall be discharged by that manager.
 
-(2) Except with the approval in writing of the Director, no committee of management shall exceed 9 persons in number.
+(2) Except with the approval in writing of the Director-General, no committee of management shall exceed 9 persons in number.
+
+[8/97 wef 02/09/1997]
 
 (3) The committee of management shall be responsible for ensuring that the provisions of this Act, of the regulations made thereunder and of the terms of any constitution, written scheme or deed of trust approved for the school under section 23 are complied with.
 
 [25
 
-### Director may appoint managers or additional managers
+### Director-General may appoint managers or additional managers
 
-27\.—(1) If, at any time the Director is satisfied that a school is not being satisfactorily managed, he may appoint additional managers for such time as he may consider necessary, and the additional managers shall be deemed to be registered managers of the school and shall have power to enter the school premises at any time.
+27\.—(1) If, at any time the Director-General is satisfied that a school is not being satisfactorily managed, he may appoint additional managers for such time as he may consider necessary, and the additional managers shall be deemed to be registered managers of the school and shall have power to enter the school premises at any time.
 
-(2) If at any time in the opinion of the Director, by reason of resignation, death or any other cause, a school is left without an effective committee of management, the Director may require a new committee of management to be formed and may appoint such managers as he considers necessary to secure the continuance of the school until the names of the managers to constitute the new committee of management have been submitted and accepted for registration.
+[8/97 wef 02/09/1997]
+
+(2) If at any time in the opinion of the Director-General, by reason of resignation, death or any other cause, a school is left without an effective committee of management, the Director-General may require a new committee of management to be formed and may appoint such managers as he considers necessary to secure the continuance of the school until the names of the managers to constitute the new committee of management have been submitted and accepted for registration.
+
+[8/97 wef 02/09/1997]
 
 [26
 
@@ -642,9 +686,13 @@ Provided that if any school has only one manager the duties to be discharged by 
 
 28\.—(1) The committee of management of a school shall recommend for registration one of their members to be the supervisor of the school.
 
-(2) The Director may withhold registration if he is not satisfied that the person recommended is a fit and proper person to act as supervisor for the purposes of this Act.
+(2) The Director-General may withhold registration if he is not satisfied that the person recommended is a fit and proper person to act as supervisor for the purposes of this Act.
 
-(3) If at any time it appears to the Director that the supervisor is no longer a fit and proper person to act as supervisor, he may withdraw registration and that person shall forthwith cease to be the supervisor of the school.
+[8/97 wef 02/09/1997]
+
+(3) If at any time it appears to the Director-General that the supervisor is no longer a fit and proper person to act as supervisor, he may withdraw registration and that person shall forthwith cease to be the supervisor of the school.
+
+[8/97 wef 02/09/1997]
 
 [27
 
@@ -652,17 +700,25 @@ Provided that if any school has only one manager the duties to be discharged by 
 
 29\. The duties of the supervisor of a school shall be —
 
-(a) to conduct all correspondence with the Director concerning the administration of the school;
+(a) to conduct all correspondence with the Director-General concerning the administration of the school;
 
-(b) to report to the Director forthwith by notice in writing the resignation of any manager of the school;
+[8/97 wef 02/09/1997]
 
-(c) to report to the Director forthwith by notice in writing —
+(b) to report to the Director-General forthwith by notice in writing the resignation of any manager of the school;
+
+[8/97 wef 02/09/1997]
+
+(c) to report to the Director-General forthwith by notice in writing —
 
 (i) the appointment of any registered teacher as a principal of, or as a teacher in, the school; and
 
 (ii) the termination of the appointment of the principal of, or of a teacher in, the school;
 
-(d) to report to the Director by notice in writing any change in the salary paid to the principal of, or to any teacher in, the school; and
+[8/97 wef 02/09/1997]
+
+(d) to report to the Director-General by notice in writing any change in the salary paid to the principal of, or to any teacher in, the school; and
+
+[8/97 wef 02/09/1997]
 
 (e) to perform such other duties as may be laid down in the constitution, written scheme or deed of trust approved for the school or in regulations made under this Act.
 
@@ -670,7 +726,9 @@ Provided that if any school has only one manager the duties to be discharged by 
 
 ### Absence from duty, etc., of supervisor
 
-30\.—(1) If the Director withholds or withdraws registration of the supervisor recommended by the committee of management of a school or if the registered supervisor ceases to act as such because of his resignation, illness, absence, cancellation of his registration as manager or other cause, or if the registered supervisor is no longer acceptable as such to the majority of the committee of management, the committee of management shall forthwith recommend for registration another of their members as supervisor of the school.
+30\.—(1) If the Director-General withholds or withdraws registration of the supervisor recommended by the committee of management of a school or if the registered supervisor ceases to act as such because of his resignation, illness, absence, cancellation of his registration as manager or other cause, or if the registered supervisor is no longer acceptable as such to the majority of the committee of management, the committee of management shall forthwith recommend for registration another of their members as supervisor of the school.
+
+[8/97 wef 02/09/1997]
 
 (2) If at any time for any cause there is no supervisor of a school or the supervisor has ceased for any cause to act as such, then pending registration of a supervisor or of another person as supervisor, all the duties and responsibilities of the supervisor under this Act and the regulations made thereunder shall be discharged by and be vested in the committee of management and if there is only one manager and he for any cause is unable to perform the duties, then they shall be discharged by and be vested in the principal of the school.
 
@@ -678,21 +736,27 @@ Provided that if any school has only one manager the duties to be discharged by 
 
 ### Managers of a school to be registered
 
-31\.—(1) Every manager of a school other than a manager appointed by the Director under section 27 shall be registered.
+31\.—(1) Every manager of a school other than a manager appointed by the Director-General under section 27 shall be registered.
 
-(2) Every application for registration as a manager of a school shall be made to the Director in the Form 3 set out in the Schedule and shall be countersigned by the supervisor of the school concerned if one has been appointed.
+[8/97 wef 02/09/1997]
+
+(2) Every application for registration as a manager of a school shall be made to the Director-General in the Form 3 set out in the Schedule and shall be countersigned by the supervisor of the school concerned if one has been appointed.
+
+[8/97 wef 02/09/1997]
 
 [30
 
 ### Registration of managers
 
-32\. When application has been made under section 31 for registration as a manager of a school the Director shall, subject to section 33 and after such inquiry as may be necessary, register the applicant as a manager of the school of which he seeks to be a manager and shall inform the applicant in writing that he has been so registered.
+32\. When application has been made under section 31 for registration as a manager of a school the Director-General shall, subject to section 33 and after such inquiry as may be necessary, register the applicant as a manager of the school of which he seeks to be a manager and shall inform the applicant in writing that he has been so registered.
+
+[8/97 wef 02/09/1997]
 
 [31
 
 ### Grounds for refusal to register a manager
 
-33\. The Director may in his discretion refuse to register any person as a manager of a school if —
+33\. The Director-General may in his discretion refuse to register any person as a manager of a school if —
 
 (a) the person has been convicted before any court of competent jurisdiction in Singapore or in Malaysia or in any part of the Commonwealth, of an offence punishable with imprisonment or of an offence under this Act or under any previous written law relating to education or the registration of schools or under any similar law in force at any time in Malaysia;
 
@@ -706,11 +770,13 @@ Provided that if any school has only one manager the duties to be discharged by 
 
 (f) it will be prejudicial to the interests of Singapore or of the public or of the pupils of the school that the person should be so registered.
 
+[8/97 wef 02/09/1997]
+
 [32
 
 ### Grounds for the cancellation of registration as a manager
 
-34\. The Director may cancel the registration of any manager of a school —
+34\. The Director-General may cancel the registration of any manager of a school —
 
 (a) on any of the grounds on which he would have been entitled to refuse registration under section 33(a), (b) and (e);
 
@@ -726,6 +792,8 @@ Provided that if any school has only one manager the duties to be discharged by 
 
 (g) if he is a person who ought not in the interests of Singapore or of the public or of the pupils of the school to remain a manager.
 
+[8/97 wef 02/09/1997]
+
 [33
 
 ## PART VIII
@@ -740,19 +808,23 @@ REGISTRATION OF TEACHERS
 
 ### Application for registration
 
-36\. Application for registration as a teacher shall be made to the Director in the Form 4 set out in the Schedule and shall be accompanied by the documents therein specified.
+36\. Application for registration as a teacher shall be made to the Director-General in the Form 4 set out in the Schedule and shall be accompanied by the documents therein specified.
+
+[8/97 wef 02/09/1997]
 
 [35
 
 ### Registration of a teacher
 
-37\. Subject to section 38 on receiving an application duly made for registration as a teacher, and after such inquiry as may be necessary the Director shall if satisfied register the applicant and issue to him a certificate of registration in the Form 5 set out in the Schedule or authority to teach as an unregistered teacher in accordance with section 41 or a permit to teach in accordance with section 44.
+37\. Subject to section 38 on receiving an application duly made for registration as a teacher, and after such inquiry as may be necessary the Director-General shall if satisfied register the applicant and issue to him a certificate of registration in the Form 5 set out in the Schedule or authority to teach as an unregistered teacher in accordance with section 41 or a permit to teach in accordance with section 44.
+
+[8/97 wef 02/09/1997]
 
 [36
 
 ### Grounds for refusal to register a teacher
 
-38\. The Director may refuse to register a person as a teacher if the applicant —
+38\. The Director-General may refuse to register a person as a teacher if the applicant —
 
 (a) is not of good character;
 
@@ -770,11 +842,13 @@ REGISTRATION OF TEACHERS
 
 (h) does not possess the minimum qualifications prescribed in the regulations made under this Act.
 
+[8/97 wef 02/09/1997]
+
 [37
 
 ### Grounds for cancellation of registration of a teacher
 
-39\. The Director may cancel the registration of a teacher —
+39\. The Director-General may cancel the registration of a teacher —
 
 (a) on any of the grounds on which he would have been entitled to refuse registration under section 38;
 
@@ -783,6 +857,8 @@ REGISTRATION OF TEACHERS
 (c) if he is satisfied that the teacher is not competent to perform the duties of a teacher; or
 
 (d) if the teacher has contravened any of the provisions of this Act or any regulations made thereunder.
+
+[8/97 wef 02/09/1997]
 
 [38
 
@@ -800,41 +876,57 @@ EMPLOYMENT OF UNREGISTERED TEACHERS
 
 ### Method of application and limitations to be applied
 
-41\.—(1) If the supervisor of a school or person who applies for registration of a school is of opinion that there is not available a suitable registered teacher for employment in the school whereof he is supervisor or in the proposed school, he may make application to the Director in the Form 6 set out in the Schedule for authority to employ a person to teach who is not registered as a teacher and for authority for that person to teach as an unregistered teacher.
+41\.—(1) If the supervisor of a school or person who applies for registration of a school is of opinion that there is not available a suitable registered teacher for employment in the school whereof he is supervisor or in the proposed school, he may make application to the Director-General in the Form 6 set out in the Schedule for authority to employ a person to teach who is not registered as a teacher and for authority for that person to teach as an unregistered teacher.
 
-(2) Subject to section 42 and after such inquiry as may be necessary, the Director may issue to the applicant an authority in writing in the Form 7 set out in the Schedule and shall issue to the unregistered teacher a copy thereof and that copy shall be deemed to be the unregistered teacher’s authority to teach.
+[8/97 wef 02/09/1997]
 
-(3) Such authority shall state the school in which and the period for which the unregistered teacher may teach and may at the discretion of the Director impose limitations as to the subjects and classes which he may teach.
+(2) Subject to section 42 and after such inquiry as may be necessary, the Director-General may issue to the applicant an authority in writing in the Form 7 set out in the Schedule and shall issue to the unregistered teacher a copy thereof and that copy shall be deemed to be the unregistered teacher’s authority to teach.
+
+[8/97 wef 02/09/1997]
+
+(3) Such authority shall state the school in which and the period for which the unregistered teacher may teach and may at the discretion of the Director-General impose limitations as to the subjects and classes which he may teach.
+
+[8/97 wef 02/09/1997]
 
 [40
 
 ### Grounds for refusal to authorise unregistered teacher
 
-42\. The Director may refuse to authorise the employment of an unregistered teacher —
+42\. The Director-General may refuse to authorise the employment of an unregistered teacher —
 
 (a) on any of the grounds on which he would have been entitled to refuse to register a person as a teacher under section 38(a) to (g); or
 
 (b) if there is available for employment in the school concerned a suitable registered teacher.
 
+[8/97 wef 02/09/1997]
+
 [41
 
 ### Grounds for cancellation of authority to teach
 
-43\.—(1) The Director may cancel the authority to employ any unregistered teacher —
+43\.—(1) The Director-General may cancel the authority to employ any unregistered teacher —
 
 (a) on any of the grounds on which he would be entitled to cancel the registration of a teacher under section 39; or
 
 (b) if a registered teacher with the required qualifications becomes available.
 
-(2) The Director shall cancel the authority to employ any unregistered teacher when the employment which is authorised is terminated.
+[8/97 wef 02/09/1997]
+
+(2) The Director-General shall cancel the authority to employ any unregistered teacher when the employment which is authorised is terminated.
+
+[8/97 wef 02/09/1997]
 
 [42
 
-### Director may issue permit to teach
+### Director-General may issue permit to teach
 
-44\.—(1) Notwithstanding anything in this Act, the Director may in his discretion and for special reasons issue a permit to any person to teach as an unregistered teacher.
+44\.—(1) Notwithstanding anything in this Act, the Director-General may in his discretion and for special reasons issue a permit to any person to teach as an unregistered teacher.
 
-(2) The permit issued under subsection (1) may be cancelled at any time by notice in writing under the hand of the Director served on the holder thereof.
+[8/97 wef 02/09/1997]
+
+(2) The permit issued under subsection (1) may be cancelled at any time by notice in writing under the hand of the Director-General served on the holder thereof.
+
+[8/97 wef 02/09/1997]
 
 [43
 
@@ -844,27 +936,35 @@ GENERAL PROCEDURE ON REGISTRATION AND CANCELLATION OF REGISTRATION OF SCHOOLS, M
 
 ### Medical examination of teacher
 
-45\. Before registering a person as a teacher or granting authority or a permit for him to teach as an unregistered teacher, the Director may require him to submit to a medical examination.
+45\. Before registering a person as a teacher or granting authority or a permit for him to teach as an unregistered teacher, the Director-General may require him to submit to a medical examination.
+
+[8/97 wef 02/09/1997]
 
 [44
 
 ### General power on any application for registration
 
-46\. Whenever any application is made for registration of a school or of a manager or of a teacher or for authority to employ an unregistered teacher the Director may require the applicant to make such further declaration or supply such further particulars as may seem to him necessary and any statement so made or information so furnished shall be deemed to be embodied in the application under consideration.
+46\. Whenever any application is made for registration of a school or of a manager or of a teacher or for authority to employ an unregistered teacher the Director-General may require the applicant to make such further declaration or supply such further particulars as may seem to him necessary and any statement so made or information so furnished shall be deemed to be embodied in the application under consideration.
+
+[8/97 wef 02/09/1997]
 
 [45
 
 ### Procedure relating to conditions of registration
 
-47\. An applicant for registration of a school who receives notice from the Director under section 23 of the conditions under which the school may be registered may within 14 days of the receipt of the notice and in accordance with section 56 appeal through the Director to the Appeals Board against the imposition of all or any of such conditions.
+47\. An applicant for registration of a school who receives notice from the Director-General under section 23 of the conditions under which the school may be registered may within 14 days of the receipt of the notice and in accordance with section 56 appeal through the Director-General to the Appeals Board against the imposition of all or any of such conditions.
+
+[8/97 wef 02/09/1997]
 
 [46
 
 ### Procedure upon refusal to register, cancellation of registration, etc.
 
-48\.—(1) Whenever the Director has come to a decision in the exercise of his discretion under section 24, 25, 28, 33, 34, 38, 39, 42, 43 or 54, he shall serve notice in writing thereof upon each person who as applicant, supervisor, manager, teacher or unregistered teacher, as the case may be, appears to him to be directly and adversely affected by his decision stating the grounds for the decision, due regard being had to the requirements of public security, and shall supply to each such person a copy of this section and of sections 49, 56, 57, 58, 59 and 60.
+48\.—(1) Whenever the Director-General has come to a decision in the exercise of his discretion under section 24, 25, 28, 33, 34, 38, 39, 42, 43 or 54, he shall serve notice in writing thereof upon each person who as applicant, supervisor, manager, teacher or unregistered teacher, as the case may be, appears to him to be directly and adversely affected by his decision stating the grounds for the decision, due regard being had to the requirements of public security, and shall supply to each such person a copy of this section and of sections 49, 56, 57, 58, 59 and 60.
 
-(2) Any person who as applicant, supervisor, manager, teacher or unregistered teacher is adversely affected by such decision may within 14 days of the service of the notice appeal by notice in writing through the Director in accordance with section 56 —
+[8/97 wef 02/09/1997]
+
+(2) Any person who as applicant, supervisor, manager, teacher or unregistered teacher is adversely affected by such decision may within 14 days of the service of the notice appeal by notice in writing through the Director-General in accordance with section 56 —
 
 (a) in cases where the decision has been made under section 24(n), (o) or (p), 25(1)(a) or (e), 33(f), 34(f) or (g), 38(g) or 39(a) to the Minister;
 
@@ -872,29 +972,41 @@ GENERAL PROCEDURE ON REGISTRATION AND CANCELLATION OF REGISTRATION OF SCHOOLS, M
 
 Provided that the Minister may direct that any appeal made to him shall be heard by the Appeals Board.
 
+[8/97 wef 02/09/1997]
+
 [47
 
-### Cancellation of registration to involve immediate suspension unless Director otherwise permits
+### Cancellation of registration to involve immediate suspension unless Director-General otherwise permits
 
 49\.—(1) A school in respect of which registration is cancelled under section 25 shall cease to be carried on with effect from the date of service of notice under section 48:
 
-Provided that the Director in his discretion and subject to such conditions as he may think fit may by notice in writing to the supervisor permit the school to be carried on until the determination of any appeal from the cancellation.
+Provided that the Director-General in his discretion and subject to such conditions as he may think fit may by notice in writing to the supervisor permit the school to be carried on until the determination of any appeal from the cancellation.
 
-(2) A supervisor, manager or teacher who receives notice under section 48(1) of an adverse decision of the Director under section 28, 34 or 39 respectively, and an unregistered teacher who receives such notice under section 43, shall be suspended from duty with effect from the date of service of the notice:
+[8/97 wef 02/09/1997]
 
-Provided that the Director may in his discretion and subject to such conditions as he may think fit by notice in writing withhold the suspension until the determination of any appeal.
+(2) A supervisor, manager or teacher who receives notice under section 48(1) of an adverse decision of the Director-General under section 28, 34 or 39 respectively, and an unregistered teacher who receives such notice under section 43, shall be suspended from duty with effect from the date of service of the notice:
 
-(3) A supervisor, manager or teacher who receives notice under section 48(1) of an adverse decision of the Director under section 25, 28, 34, 39 or 43 shall deliver to the Director any certificate of registration or any authority to teach or copy thereof issued to him under the provisions of this Act, whether or not notice of appeal under section 48(2) has been given and before any such notice is given.
+Provided that the Director-General may in his discretion and subject to such conditions as he may think fit by notice in writing withhold the suspension until the determination of any appeal.
+
+[8/97 wef 02/09/1997]
+
+(3) A supervisor, manager or teacher who receives notice under section 48(1) of an adverse decision of the Director-General under section 25, 28, 34, 39 or 43 shall deliver to the Director-General any certificate of registration or any authority to teach or copy thereof issued to him under the provisions of this Act, whether or not notice of appeal under section 48(2) has been given and before any such notice is given.
+
+[8/97 wef 02/09/1997]
 
 ### Adverse decision not to be carried out until determination of appeal
 
-(4) An adverse decision of the Director shall not be carried out other than as provided in subsections (1), (2) and (3) until any appeal relating thereto has been determined or the prescribed time for notice thereof has elapsed.
+(4) An adverse decision of the Director-General shall not be carried out other than as provided in subsections (1), (2) and (3) until any appeal relating thereto has been determined or the prescribed time for notice thereof has elapsed.
+
+[8/97 wef 02/09/1997]
 
 [48
 
 ### Unlawful to assemble in school whose registration is cancelled, and powers of police to enter
 
-50\. Where the Director has cancelled the registration of a school and has not under the proviso to section 49(1) permitted the school to be carried on it shall be an offence for any pupil of the school or for any other person without the written authority of the Director to be or to assemble on the premises thereof, and in every case to which this section applies it shall be lawful for any police officer to enter upon those premises and for such purpose to use such force as appears to him to be necessary.
+50\. Where the Director-General has cancelled the registration of a school and has not under the proviso to section 49(1) permitted the school to be carried on it shall be an offence for any pupil of the school or for any other person without the written authority of the Director-General to be or to assemble on the premises thereof, and in every case to which this section applies it shall be lawful for any police officer to enter upon those premises and for such purpose to use such force as appears to him to be necessary.
+
+[8/97 wef 02/09/1997]
 
 [49
 
@@ -918,37 +1030,55 @@ each of whom for the purpose of this Act shall be deemed to be an inspector of s
 
 ### Schools to be inspected at least once a year
 
-52\. It shall be the duty of the Director to cause to be inspected by an inspector of schools periodically every registered school for the purpose of ascertaining whether the provisions of this Act and any regulations made thereunder are being complied with and whether the school is being properly and efficiently conducted.
+52\. It shall be the duty of the Director-General to cause to be inspected by an inspector of schools periodically every registered school for the purpose of ascertaining whether the provisions of this Act and any regulations made thereunder are being complied with and whether the school is being properly and efficiently conducted.
+
+[8/97 wef 02/09/1997]
 
 [51
 
-### Powers of Director and inspectors on inspecting schools
+### Powers of Director-General and inspectors on inspecting schools
 
-53\.—(1) For the purpose of carrying out the provisions of this Act and any regulations made thereunder it shall be lawful for the Director or any officer empowered under section 5 or any inspector of schools to enter any school premises and to examine all documents found on those premises and to remove them for further examination.
+53\.—(1) For the purpose of carrying out the provisions of this Act and any regulations made thereunder it shall be lawful for the Director-General or any officer empowered under section 5 or any inspector of schools to enter any school premises and to examine all documents found on those premises and to remove them for further examination.
 
-(2) If the school premises or any building therein is closed and if none of the registered managers nor any of the registered teachers or unregistered teachers of the school can be found to open those premises or building then the Director or any officer empowered under section 5 or any inspector of schools may enter therein using force if necessary.
+[8/97 wef 02/09/1997]
 
-(3) In the case of instruction given by means of correspondence delivered by hand or through the postal services the Director may require to be submitted to him a copy of all documents used, or intended to be used, for the purpose of instruction.
+(2) If the school premises or any building therein is closed and if none of the registered managers nor any of the registered teachers or unregistered teachers of the school can be found to open those premises or building then the Director-General or any officer empowered under section 5 or any inspector of schools may enter therein using force if necessary.
 
-(4) The Director at any time and any officer empowered under section 5 while lawfully carrying out an inspection of a registered school may require any registered manager of, or registered teacher or unregistered teacher authorised or permitted to teach in, any registered school or any pupil of the school or any person found within the school to produce for his inspection any document in his possession or under his control which relates to the management or teaching or pupil activities of the school and to furnish the Director or that officer with such information relating to the management or teaching or pupil activities of the school as the Director or that officer may demand and which it is within the power of the person to furnish and in the case of a teacher to produce for inspection his certificate of registration or his authority or permit to teach under this Act.
+[8/97 wef 02/09/1997]
+
+(3) In the case of instruction given by means of correspondence delivered by hand or through the postal services the Director-General may require to be submitted to him a copy of all documents used, or intended to be used, for the purpose of instruction.
+
+[8/97 wef 02/09/1997]
+
+(4) The Director-General at any time and any officer empowered under section 5 while lawfully carrying out an inspection of a registered school may require any registered manager of, or registered teacher or unregistered teacher authorised or permitted to teach in, any registered school or any pupil of the school or any person found within the school to produce for his inspection any document in his possession or under his control which relates to the management or teaching or pupil activities of the school and to furnish the Director-General or that officer with such information relating to the management or teaching or pupil activities of the school as the Director-General or that officer may demand and which it is within the power of the person to furnish and in the case of a teacher to produce for inspection his certificate of registration or his authority or permit to teach under this Act.
+
+[8/97 wef 02/09/1997]
 
 [52
 
 ### Power to direct remedial measures
 
-54\.—(1) If it appears to the Director that any provisions of this Act or any regulations made thereunder have not been complied with in any school or that any school is not being properly or efficiently conducted, he may, without prejudice to any other powers vested in him, by notice in writing addressed to the supervisor direct him to take within a time to be stated in the notice such measures as are in the notice specified, in order that the provisions may be complied with or that the school may be properly or efficiently conducted.
+54\.—(1) If it appears to the Director-General that any provisions of this Act or any regulations made thereunder have not been complied with in any school or that any school is not being properly or efficiently conducted, he may, without prejudice to any other powers vested in him, by notice in writing addressed to the supervisor direct him to take within a time to be stated in the notice such measures as are in the notice specified, in order that the provisions may be complied with or that the school may be properly or efficiently conducted.
 
-(2) The Director may in his discretion in any particular case cause a copy of any such notice to be sent to each of the other managers of the school.
+[8/97 wef 02/09/1997]
+
+(2) The Director-General may in his discretion in any particular case cause a copy of any such notice to be sent to each of the other managers of the school.
+
+[8/97 wef 02/09/1997]
 
 (3) The supervisor of any school receiving the notice may, within the time specified in the notice as the time within which the measures specified are to be taken, appeal to the Appeals Board as provided in section 56.
 
 [53
 
-### Powers of Director and inspector in searching for unregistered schools
+### Powers of Director-General and inspector in searching for unregistered schools
 
-55\.—(1) The Director or any officer empowered under section 5 or any inspector of schools or any other person specially authorised in that behalf by the Director may enter, accompanied by such persons as he may consider expedient and using force for that purpose if necessary, any house, building or other place which he has reasonable cause to believe is occupied by an unregistered school and may search for and seize and remove any document or other article which may appear to him to be the property of or to have been used in connection with the unregistered school.
+55\.—(1) The Director-General or any officer empowered under section 5 or any inspector of schools or any other person specially authorised in that behalf by the Director-General may enter, accompanied by such persons as he may consider expedient and using force for that purpose if necessary, any house, building or other place which he has reasonable cause to believe is occupied by an unregistered school and may search for and seize and remove any document or other article which may appear to him to be the property of or to have been used in connection with the unregistered school.
 
-(2) For the purpose of any entry or search under this section the Director or any officer empowered under section 5 or any inspector of schools or other authorised person under subsection (1) may break open any outer or inner door of the house, building or other place or any locked receptacle therein which he has reasonable cause to believe contains any document or other article which is the property of or has been used in connection with the unregistered school.
+[8/97 wef 02/09/1997]
+
+(2) For the purpose of any entry or search under this section the Director-General or any officer empowered under section 5 or any inspector of schools or other authorised person under subsection (1) may break open any outer or inner door of the house, building or other place or any locked receptacle therein which he has reasonable cause to believe contains any document or other article which is the property of or has been used in connection with the unregistered school.
+
+[8/97 wef 02/09/1997]
 
 [54
 
@@ -958,29 +1088,41 @@ APPEALS
 
 ### Procedure on appeals
 
-56\.—(1) Any person wishing to appeal against any decision of the Director shall within the period prescribed deliver to the Director two copies of a written statement addressed either to the Minister or to the Appeals Board, as the case may require, stating concisely the grounds for his appeal.
+56\.—(1) Any person wishing to appeal against any decision of the Director-General shall within the period prescribed deliver to the Director-General two copies of a written statement addressed either to the Minister or to the Appeals Board, as the case may require, stating concisely the grounds for his appeal.
 
-(2) On receiving such statement the Director shall forthwith forward it to the Minister or the secretary of the Appeals Board, as the case may require.
+[8/97 wef 02/09/1997]
 
-(3) As soon as may be after receiving such statement the Minister or the secretary of the Appeals Board, as the case may require, shall give to the appellant and the Director at least 14 days notice of the date of hearing the appeal.
+(2) On receiving such statement the Director-General shall forthwith forward it to the Minister or the secretary of the Appeals Board, as the case may require.
+
+[8/97 wef 02/09/1997]
+
+(3) As soon as may be after receiving such statement the Minister or the secretary of the Appeals Board, as the case may require, shall give to the appellant and the Director-General at least 14 days notice of the date of hearing the appeal.
+
+[8/97 wef 02/09/1997]
 
 [55
 
-### Appellant and Director or their representatives may be present at appeal
+### Appellant and Director-General or their representatives may be present at appeal
 
-57\. At the hearing of the appeal whether by the Minister or by the Appeals Board the appellant or his duly authorised representative as also the Director or an officer duly appointed by him for that purpose shall be entitled to be present and to be heard.
+57\. At the hearing of the appeal whether by the Minister or by the Appeals Board the appellant or his duly authorised representative as also the Director-General or an officer duly appointed by him for that purpose shall be entitled to be present and to be heard.
+
+[8/97 wef 02/09/1997]
 
 [56
 
 ### Onus of proof on appellant
 
-58\. The onus of proving that the grounds stated by the Director under section 48 for his decision are not correct or do not justify such decision shall be upon the appellant.
+58\. The onus of proving that the grounds stated by the Director-General under section 48 for his decision are not correct or do not justify such decision shall be upon the appellant.
+
+[8/97 wef 02/09/1997]
 
 [57
 
 ### Appeal to be argued on grounds stated
 
-59\. Except with the consent of the Minister or of the Appeals Board, as the case may be, neither the Director nor the appellant may at the hearing rely upon any grounds other than those stated by the Director in accordance with section 48 or by the appellant in accordance with section 56.
+59\. Except with the consent of the Minister or of the Appeals Board, as the case may be, neither the Director-General nor the appellant may at the hearing rely upon any grounds other than those stated by the Director-General in accordance with section 48 or by the appellant in accordance with section 56.
+
+[8/97 wef 02/09/1997]
 
 [58
 
@@ -988,7 +1130,9 @@ APPEALS
 
 60\.—(1) The Minister or the Appeals Board, as the case may be, may confirm, set aside or modify the decision against which the appeal is made.
 
-(2) The decision of the Minister or the Appeals Board, as the case may be, shall be communicated to the Director, who shall forthwith inform the appellant in writing of that decision.
+(2) The decision of the Minister or the Appeals Board, as the case may be, shall be communicated to the Director-General, who shall forthwith inform the appellant in writing of that decision.
+
+[8/97 wef 02/09/1997]
 
 (3) The decision of the Minister or the Appeals Board made under this section shall be final and conclusive and shall not be questioned in any court.
 
@@ -1040,13 +1184,17 @@ REGULATIONS, OFFENCES, NOTICES, INDEMNITY, ETC.
 
 (b) in making an application under this Act for the registration of a school or for registration as manager or teacher or for authority to employ an unregistered teacher, makes any false statement which he knows to be false or does not believe to be true or which he makes recklessly or, by the intentional suppression of any material fact, furnishes information which is misleading;
 
-(c) obstructs or impedes the Director or any officer lawfully carrying out an inspection of a registered school in the lawful exercise of any of his powers under this Act;
+(c) obstructs or impedes the Director-General or any officer lawfully carrying out an inspection of a registered school in the lawful exercise of any of his powers under this Act;
+
+[8/97 wef 02/09/1997]
 
 (d) in contravention of section 53 refuses to produce any document or refuses to furnish any information or furnishes any information which is false in a material particular and which he knows to be false or does not believe to be true;
 
 (e) acts as a manager of a school without having been registered as a manager, or as a teacher without having been registered as a teacher or given authority or permission to teach as an unregistered teacher; or
 
-(f) except as provided for in section 49 continues to act as the supervisor or manager of a school or as a teacher in a school which is carried on after the Director has issued a notice under section 48 cancelling its registration,
+(f) except as provided for in section 49 continues to act as the supervisor or manager of a school or as a teacher in a school which is carried on after the Director-General has issued a notice under section 48 cancelling its registration,
+
+[8/97 wef 02/09/1997]
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
 
@@ -1060,9 +1208,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [62
 
-### No person to be charged except on complaint of Director
+### No person to be charged except on complaint of Director-General
 
-64\. No person shall be charged with any offence under this Act or any regulations made thereunder except on the complaint of the Director.
+64\. No person shall be charged with any offence under this Act or any regulations made thereunder except on the complaint of the Director-General.
+
+[8/97 wef 02/09/1997]
 
 [63
 
@@ -1083,6 +1233,595 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 [65
 
 ## THE SCHEDULE
+
+FORM 1
+
+Section 22(3).
+
+The Education Act
+
+
+
+
+(
+
+Chapter 87
+
+)
+
+Application for Registration of a School
+
+Address ……………………….
+
+Date ……………………………
+
+The Director-General of Education,
+
+Ministry of Education,
+
+Singapore
+
+I wish to open a school particulars of which are set out below and request that it be registered and a certificate of registration be issued.
+
+2. Particulars:
+
+(a) Proposed name of school —
+
+(i) in Roman characters ……………………………………………..
+
+(ii) in Chinese characters ……………..………………..……………
+(where applicable)
+
+(b) Proposed address of school …………………………………………….
+
+(c) Whether the school owns its premises or not ………………………….
+
+(d) If the school does not own its premises the conditions under which it occupies them (i.e. period of lease, amount of rent, etc.) ……………..
+
+(e) Whether a —
+
+(i) day school
+
+(ii) night school
+
+(iii) correspondence school.
+
+(f) Approximate enrolment —
+
+(i) boys ………………………………………………………………
+
+(ii) girls ………………………………………………………………
+
+(g) Whether or not —
+
+(i) a full time primary school ……………………………………….
+
+(ii) a full time secondary school …………………………………….
+
+(h) If neither a full time primary or full time secondary school, the nature of the school ……………………………………………………………
+
+(i) Whether it is intended to apply for Government aid …………………..
+
+(j) Proposed monthly fee:
+
+… Year to … Year
+
+… Year to … Year
+
+… Year to … Year
+
+$
+
+$
+
+$
+
+(k) Proposed terminal fee:
+
+Particular purpose
+
+Amount
+
+… Year to … Year
+
+… Year to … Year
+
+$
+
+$
+
+(l) Proposed hours of classroom instruction:
+
+… Year to … Year
+
+… Year to … Year
+
+… Year to … Year
+
+3\. I attach plan (with dimensions) of proposed building.
+
+4.—(a) I attach applications for registration as manager of the school from the following persons:
+
+(i) ……………………………………………………………….................
+
+(ii) ……………………………………………………………….................
+
+(iii) ……………………………………………………………….................
+
+(iv) ……………………………………………………………….................
+
+(v) ……………………………………………………………….................
+
+(b) ……………………………………. is recommended as Supervisor.
+
+5. I attach applications for employment for the following registered teachers:
+
+Name
+
+Identity Card No.
+
+Name
+
+Identity Card No.
+
+(i)
+
+(xi)
+
+(ii)
+
+(xii)
+
+(iii)
+
+(xiii)
+
+(iv)
+
+(xiv)
+
+(v)
+
+(xv)
+
+(vi)
+
+(xvi)
+
+(vii)
+
+(xvii)
+
+(viii)
+
+(xviii)
+
+(ix)
+
+(xix)
+
+(x)
+
+(xx)
+
+6. I attach applications for employment from the following persons together with their applications for registration as teachers:
+
+Name
+
+Identity Card No.
+
+Name
+
+Identity Card No.
+
+(i)
+
+(iv)
+
+(ii)
+
+(v)
+
+(iii)
+
+(vi)
+
+7. I attach application for authority to teach as unregistered teachers from the following persons:
+
+Name
+
+Identity Card No.
+
+Name
+
+Identity Card No.
+
+(i)
+
+(iv)
+
+(ii)
+
+(v)
+
+(iii)
+
+(vi)
+
+8\. I attach proposed syllabus for each class.
+
+9. I attach a statement of the amount of time in hours and minutes to be devoted weekly to the different subjects.
+
+(Signed) ……………………….
+
+FORM 2
+
+Section 23(3)
+
+The Education Act
+
+
+
+
+(
+
+Chapter 87
+
+)
+
+Certificate of Registration of School
+
+This is to certify that the undermentioned school has been registered under the Education Act.
+
+Registered name of school ……………………………………..……………….
+(in Roman characters)
+
+Registered name of school ………………..…………………………………….
+(in Chinese characters where applicable)
+
+Address …………………………………………………………………………
+
+………..……………………….
+Director-General of Education
+
+Singapore, ……………… 19….
+
+FORM 3
+
+The Education Act
+
+
+
+
+(
+
+Chapter 87
+
+)
+
+Application for Registration as a Manager of a School
+
+Address ……………………….
+
+Date ……………………………
+
+The Director-General of Education,
+
+Ministry of Education,
+
+Singapore.
+
+School ………………………..
+
+Address ………………………
+
+1\. I submit particulars of myself and request you to register me as a manager of the above School.
+
+2. Particulars:
+
+(a) Name …………………………………………………………………...
+
+(b) Address …………………………………………………………………
+
+(c) Date of birth ……………………………………………………………
+
+(d) Occupation ……………………………………………………………..
+
+(e) Educational qualifications ……………………………………………...
+
+(f) Experience in or knowledge of educational matters …………………...
+
+(g) Interest in the above school ……………………………………………
+
+(h) Any other schools of which a registered manager …………………….
+
+3. I declare that —
+
+(a) I am normally resident in Singapore for at least 9 months in each year;
+
+(b) I am a person of good character and have never been convicted of an offence punishable with imprisonment;
+
+(c) I have never previously been refused registration as a manager of any school or having been so registered had my registration cancelled except as follows:
+
+(d) I am able to carry out the duties as a manager of the ………………….. School and I am familiar with the provisions of the Education Act and the regulations made thereunder.
+
+4. The contents of this application are true to the best of my knowledge, information and belief.
+
+(Signed) ……………………….
+
+FORM 4
+
+Section 36
+
+The Education Act
+
+
+
+
+(
+
+Chapter 87
+
+)
+
+Application for Registration as a Teacher
+
+Address ……………………….
+
+Date ……………………………
+
+The Director-General of Education,
+
+Ministry of Education,
+
+Singapore.
+
+1\. I submit particulars of myself and request you to register me as a teacher and to issue me with a certificate of registration.
+
+2. Particulars:
+
+(a) Name (i) in Roman characters ………………………………………...
+(ii) in Chinese characters ……………………………………..
+(where applicable)
+
+(b) Aliases (i) in Roman characters ……………………………………...
+(ii) in Chinese characters ……………………………………..
+(where applicable)
+
+(c) Sex ……………………………………………………………………...
+
+(d) Whether married or single ……………………………………………..
+
+(e) Date of birth ……………………………………………………………
+
+(f) Place of birth …………………………………………………………...
+
+(g) Where educated with dates:
+
+School or University
+
+From
+
+To
+
+(h) Educational qualifications ……………………………………………...
+
+(i) Previous teaching experience:
+
+School
+
+Class taught
+
+Subjects taught
+
+3. I attach:
+
+(a) two signed photographs of myself;
+
+(b) medical certificate;
+
+(c) educational certificates.
+
+4. I declare that:
+
+(a) I am a person of good character and have never been convicted of an offence punishable with imprisonment;
+
+(b) I have never previously been refused registration as a manager of any school or as a teacher or having been so registered had my registration cancelled except as follows: … … … … … … … … …
+
+5. The contents of this application are true to the best of my knowledge, information and belief.
+
+(Signed) ……………………….
+
+FORM 5
+
+Section 37
+
+The Education Act
+
+
+
+
+(
+
+Chapter 87
+
+)
+
+Certificate of Registration of Teacher
+
+This is to certify that …………………………………… whose photograph is affixed hereto has been registered as a teacher under the Education Act.
+
+………..……………………….
+Director-General of Education
+
+Singapore, ……………… 19….
+
+FORM 6
+
+Section 41(1)
+
+The Education Act
+
+
+
+
+(
+
+Chapter 87
+
+)
+
+Application for Authority to Employ an Unregistered Teacher
+
+Part I
+
+(To be completed by the supervisor of the school in which it is desired to employ a person as an unregistered teacher or if the application is made at the same time as application for registration of the school by the person applying for registration of the school).
+
+Address ……………………….
+
+Date ……………………………
+
+The Director-General of Education,
+
+Ministry of Education,
+
+Singapore.
+
+1. I hereby apply for authority to employ —
+
+Name in Roman characters …………………………………………
+
+Name in Chinese characters …………..…………………………….……
+(where applicable)
+
+as an unregistered teacher at the ………………………………. School.
+
+2\. In my opinion there is no suitable registered teacher available for employment.
+
+3. Part II of this Form sets out full particulars as supplied by ……………… which I have checked to the best of my ability.
+
+(Signed) .…….……………………………….
+(Supervisor or applicant for
+registration of a School)
+
+Part II
+
+(To be completed by the person it is desired to employ as an unregistered teacher).
+
+1. 
+
+Name (a) in Roman characters …………………………………………...
+(b) in Chinese characters ……...………….………………………..
+(where applicable)
+
+2. 
+
+Aliases (a) in Roman characters ………..…………………...…………...
+(b) in Chinese characters …….………………………….………..
+(where applicable)
+
+3. 
+
+Sex …………………………………………………………………………..
+
+4. 
+
+Whether married or single ………………………………………………….
+
+5. 
+
+Date of birth ………………………………………………………………...
+
+6. 
+
+Place of birth ………………………………………………………………..
+
+7. 
+
+Where educated with dates:
+
+School or University
+
+From
+
+To
+
+8. 
+
+Educational qualifications…………………………………………………...
+
+9. 
+
+Previous teaching experience:
+
+School
+
+Class taught
+
+Subjects taught
+
+10. 
+
+I attach —
+
+(a) two signed photographs of myself;
+
+(b) medical certificate;
+
+(c) educational certificates.
+
+11. 
+
+I declare that —
+
+(a) I am a person of good character and have never been convicted of an offence punishable with imprisonment;
+
+(b) I have never previously been refused registration as a manager of any school or as a teacher or having been so registered had my resignation cancelled except as follows: … … … … … … … … …
+
+12. 
+
+I am aware that this is an application to teach at the ………………… School only.
+
+13. 
+
+The contents of Part II of this Form are true to the best of my knowledge, information and belief.
+
+Signature.…….…………………….
+(Unregistered teacher)
+
+Date …………………………
+
+FORM 7
+
+Section 41(2)
+
+The Education Act
+
+
+
+
+(
+
+Chapter 87
+
+)
+
+Authority to Employ an Unregistered Teacher
+
+The Supervisor,
+
+………………………….. School.
+
+(Copy to …………………., the teacher.)
+
+Authority is hereby given you to employ ………………………………….. whose photograph is affixed hereto as an unregistered teacher at ……………… School.
+
+Limitations (if any) as to Subjects and Classes
+
+………..……………………….
+Director-General of Education
+
+Singapore, ……………… 19….
 
 ## LEGISLATIVE HISTORY
 
@@ -1123,3 +1862,8 @@ This Legislative History is provided for the convenience of users of the Educati
 ||Date of commencement|1 April 1979|
 |10.|**1985 Revised Edition—Education Act**|
 ||Date of operation|30 March 1987|
+|11.|**Act 8 of 1997—Education (Amendment) Act 1997**|
+||Date of First Reading|22 July 1997|
+|||(Bill No. 8/1997 published on 23 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|2 September 1997|
