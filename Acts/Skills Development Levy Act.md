@@ -26,9 +26,9 @@
 
 - [7 Objects of Fund and expenditure of moneys of Fund](#Objects-of-Fund-and-expenditure-of-moneys-of-Fund)
 
-- [8 Transfer to Board of moneys in Fund and administration of Fund](#Transfer-to-Board-of-moneys-in-Fund-and-administration-of-Fund)
+- [8 Transfer to Agency of moneys in Fund and administration of Fund](#Transfer-to-Agency-of-moneys-in-Fund-and-administration-of-Fund)
 
-- [9 Delegation of functions of Board and reimbursement](#Delegation-of-functions-of-Board-and-reimbursement)
+- [9 Delegation of functions of Agency and reimbursement](#Delegation-of-functions-of-Agency-and-reimbursement)
 
 - [10 Investment](#Investment)
 
@@ -44,7 +44,7 @@
 
 - [15 Power to obtain information and call for returns](#Power-to-obtain-information-and-call-for-returns)
 
-- [16 Penalty for obstructing Board in carrying out its duties](#Penalty-for-obstructing-Board-in-carrying-out-its-duties)
+- [16 Penalty for obstructing Agency in carrying out its duties](#Penalty-for-obstructing-Agency-in-carrying-out-its-duties)
 
 - [17 Composition of offences](#Composition-of-offences)
 
@@ -66,7 +66,7 @@
 
 [**FIRST SCHEDULE Financial Provisions**](#FIRST-SCHEDULE-Financial-Provisions)
 
-[**SECOND SCHEDULE Matters in Respect of Which Board May Make Regulations**](#SECOND-SCHEDULE-Matters-in-Respect-of-Which-Board-May-Make-Regulations)
+[**SECOND SCHEDULE Matters in Respect of Which Agency May Make Regulations**](#SECOND-SCHEDULE-Matters-in-Respect-of-Which-Agency-May-Make-Regulations)
 
 [**Legislative History**](#Legislative-History)
 
@@ -96,9 +96,9 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Board” means the Standards, Productivity and Innovation Board established under section 3 of the Standards, Productivity and Innovation Board Act (Cap. 303A);
+“Agency” means the Singapore Workforce Development Agency established under the Singapore Workforce Development Agency Act 2003;
 
-[18/2002 wef 01/04/2002]
+[14/2003 wef 01/09/2003]
 
 “employee”, in relation to a month, means an employee rendering in that month services wholly or partly in Singapore and an employee who is on leave during that month where such leave is attributable to services rendered wholly or partly in Singapore in any previous month, but does not include any domestic servant, gardener or chauffeur, wholly and exclusively employed by an individual otherwise than in connection with his trade, business, profession or vocation;
 
@@ -126,7 +126,7 @@ SKILLS DEVELOPMENT LEVY
 
 (3) The Minister may from time to time by order reduce or increase the rate of the levy specified in subsection (1).
 
-(4) Without prejudice to any other remedy, the levy may be recovered as a debt due to the Board from the person accountable therefor.
+(4) Without prejudice to any other remedy, the levy may be recovered as a debt due to the Agency from the person accountable therefor.
 
 [19/91; 35/96]
 
@@ -162,9 +162,9 @@ SKILLS DEVELOPMENT FUND
 
 (d) all moneys contributed by the Government to the Fund under section 6 and such other contributions to the Fund as the Minister may specify from moneys provided by Parliament;
 
-(e) all donations and gifts accepted by the Board for the Fund;
+(e) all donations and gifts accepted by the Agency for the Fund;
 
-(f) all honorariums and other payments accepted by the Board for any services rendered by the Board in connection with the performance of its functions under this Act; and
+(f) all honorariums and other payments accepted by the Agency for any services rendered by the Agency in connection with the performance of its functions under this Act; and
 
 (g) any interest, dividends and other income derived from the investment of moneys in the Fund.
 
@@ -190,13 +190,13 @@ SKILLS DEVELOPMENT FUND
 
 [35/96]
 
-(2) In carrying out the objects of the Fund, the Board may from time to time authorise moneys of the Fund to be paid out and expended for all or any of the following purposes:
+(2) In carrying out the objects of the Fund, the Agency may from time to time authorise moneys of the Fund to be paid out and expended for all or any of the following purposes:
 
 (a) for establishing or expanding facilities or assisting in the maintenance of facilities for full-time or part-time training courses and training programmes designed to promote the skills or expertise of persons preparing to join the workforce, persons in the workforce and persons rejoining the workforce;
 
 (b) for the provision of grants or loans to any employer for equipment required for more sophisticated or skilled operations in the conduct of his business;
 
-(c) for defraying or subsidising the costs incurred by the Board or by any employer or training institution in the training or retraining of persons preparing to join the workforce, persons in the workforce and persons rejoining the workforce to acquire better skills or expertise; and
+(c) for defraying or subsidising the costs incurred by the Agency or by any employer or training institution in the training or retraining of persons preparing to join the workforce, persons in the workforce and persons rejoining the workforce to acquire better skills or expertise; and
 
 (d) for such other purposes, not in consistent with the objects of the Fund, as the Minister may approve.
 
@@ -204,43 +204,43 @@ SKILLS DEVELOPMENT FUND
 
 [19/91; 35/96]
 
-### Transfer to Board of moneys in Fund and administration of Fund
+### Transfer to Agency of moneys in Fund and administration of Fund
 
-8\.—(1) On 1st November 1996, all moneys in and belonging to the Fund and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the Fund shall be transferred to and shall vest in the Board without further assurance.
+8\.—(1) On the date of commencement of the Singapore Workforce Development Agency Act 2003, all moneys in and belonging to the Fund and all assets, interests, rights, privileges, liabilities and obligations relating to the Fund shall be transferred to and shall vest in the Agency without further assurance.
+
+[14/2003 wef 01/09/2003]
+
+(2) The Agency shall administer the Fund in accordance with the provisions of this Act and shall collect the skills development levy and disburse grants and loans from the Fund for the purposes of this Act.
 
 [35/96]
 
-(2) The Board shall administer the Fund in accordance with the provisions of this Act and shall collect the skills development levy and disburse grants and loans from the Fund for the purposes of this Act.
-
-[35/96]
-
-(3) The Board shall have power to do all things necessary or convenient to be done for or in connection with the performance of its functions under this Act.
+(3) The Agency shall have power to do all things necessary or convenient to be done for or in connection with the performance of its functions under this Act.
 
 [9
 
 [35/96]
 
-### Delegation of functions of Board and reimbursement
+### Delegation of functions of Agency and reimbursement
 
-9\.—(1) The Board may appoint such agents (including the Government) as may be necessary for the purposes of this Act.
-
-[19/91; 35/96]
-
-(2) The Board may delegate all or any of its powers and functions under this Act to any employee or agent (including the Government) as it may appoint under subsection (1).
+9\.—(1) The Agency may appoint such agents (including the Government) as may be necessary for the purposes of this Act.
 
 [19/91; 35/96]
 
-(3) The Board may pay to any person appointed under subsection (1) a fee for any services rendered in exercise of any powers and functions delegated to that person under this Act.
+(2) The Agency may delegate all or any of its powers and functions under this Act to any employee or agent (including the Government) as it may appoint under subsection (1).
 
 [19/91; 35/96]
 
-(4) The Board may use moneys from the Fund for all expenses incurred by the Board for the purposes of this Act.
+(3) The Agency may pay to any person appointed under subsection (1) a fee for any services rendered in exercise of any powers and functions delegated to that person under this Act.
+
+[19/91; 35/96]
+
+(4) The Agency may use moneys from the Fund for all expenses incurred by the Agency for the purposes of this Act.
 
 [10
 
 ### Investment
 
-10\. The Board may invest the moneys belonging to the Fund and available for investment in accordance with the provisions of the Trustees Act (Cap. 337) as to the investment of trust funds or, with the approval of the Minister, in any other manner.
+10\. The Agency may invest the moneys belonging to the Fund and available for investment in accordance with the provisions of the Trustees Act (Cap. 337) as to the investment of trust funds or, with the approval of the Minister, in any other manner.
 
 [11
 
@@ -290,7 +290,7 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 ### Penalty for obtaining grants or loans by false or misleading statements
 
-12\. Any person who obtains payment of any grant or loan from the Fund by means of any false or misleading statement or any document that is false or misleading in any particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+12\. Any person who obtains payment of any grant or loan from the Fund by means of any false or misleading statement or any document that is false or misleading in any particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Repayment
 
@@ -314,21 +314,21 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 ### Power to obtain information and call for returns
 
-15\.—(1) The Board or any officer, employee or agent of the Board authorised by the Board in that behalf may by notice in writing require —
+15\.—(1) The Agency or any officer, employee or agent of the Agency authorised by the Agency in that behalf may by notice in writing require —
 
-(a) any person to furnish, within the time specified in the notice, any information that may be required by the Board or the officer, employee or agent of the Board, as the case may be, for the purpose of inquiring into or ascertaining —
+(a) any person to furnish, within the time specified in the notice, any information that may be required by the Agency or the officer, employee or agent of the Agency, as the case may be, for the purpose of inquiring into or ascertaining —
 
 (i) the liability of such person or any other person to pay the levy, or whether the levy has been duly paid;
 
-(ii) the truth or correctness of any statement which has been made, or of any information which has been given, by a person who has applied to the Board for a grant or loan from the Fund; or
+(ii) the truth or correctness of any statement which has been made, or of any information which has been given, by a person who has applied to the Agency for a grant or loan from the Fund; or
 
 (iii) whether any grant or loan from the Fund has been properly applied by the person to whom the grant or loan has been made; and
 
-(b) any employer, within the time specified in the notice, to complete and deliver to the Board or the officer, employee or agent of the Board , as the case may be, any return specified therein.
+(b) any employer, within the time specified in the notice, to complete and deliver to the Agency or the officer, employee or agent of the Agency, as the case may be, any return specified therein.
 
 [35/96]
 
-(2) The Board or any officer, employee or agent of the Board authorised by the Board in that behalf shall at all times have full and free access to all lands, buildings, places, books, documents and other papers for any of the purposes of this Act or any regulations made thereunder and may for any such purpose inspect, make copies of or extracts from such books, documents or papers or take possession of any such books, documents or papers if, in its or his opinion —
+(2) The Agency or any officer, employee or agent of the Agency authorised by the Agency in that behalf shall at all times have full and free access to all lands, buildings, places, books, documents and other papers for any of the purposes of this Act or any regulations made thereunder and may for any such purpose inspect, make copies of or extracts from such books, documents or papers or take possession of any such books, documents or papers if, in its or his opinion —
 
 (a) the inspection or copying of or extraction from such books, documents or papers cannot reasonably be performed without taking possession thereof;
 
@@ -340,9 +340,9 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 [35/96]
 
-### Penalty for obstructing Board in carrying out its duties
+### Penalty for obstructing Agency in carrying out its duties
 
-16\. Any person who at any time hinders or obstructs the Board or any officer, employee or agent of the Board acting in the discharge of its or his duties under this Act or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+16\. Any person who at any time hinders or obstructs the Agency or any officer, employee or agent of the Agency acting in the discharge of its or his duties under this Act or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [13B
 
@@ -350,7 +350,7 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 ### Composition of offences
 
-17\.—(1) The Board may abate any penalty or compound any offence under this Act or any regulations made thereunder by accepting from the person who is reasonably suspected of having committed the offence a sum not exceeding $1,000.
+17\.—(1) The Agency may abate any penalty or compound any offence under this Act or any regulations made thereunder by accepting from the person who is reasonably suspected of having committed the offence a sum not exceeding $1,000.
 
 [19/91; 35/96]
 
@@ -370,13 +370,13 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 ### Directions by Minister
 
-19\. The Minister may give to the Board such directions, not inconsistent with this Act, as he thinks fit as to the administration of the Fund and the Board shall give effect to such directions.
+19\. The Minister may give to the Agency such directions, not inconsistent with this Act, as he thinks fit as to the administration of the Fund and the Agency shall give effect to such directions.
 
 [19/91]
 
 ### Financial provisions
 
-20\. The financial provisions set out in the First Schedule shall apply to the Board in relation to its administration of the Fund.
+20\. The financial provisions set out in the First Schedule shall apply to the Agency in relation to its administration of the Fund.
 
 [17
 
@@ -384,11 +384,11 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 ### Annual report
 
-21\.—(1) The Board shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister an annual report dealing generally with its administration of the Fund during the preceding financial year and containing such information relating to the proceedings and policy of the Board in relation to its administration of the Fund as the Minister may, from time to time, direct.
+21\.—(1) The Agency shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister an annual report dealing generally with its administration of the Fund during the preceding financial year and containing such information relating to the proceedings and policy of the Agency in relation to its administration of the Fund as the Minister may, from time to time, direct.
 
 [35/96]
 
-(2) The annual report for any financial year shall set out any directions given by the Minister under section 19 and shall contain a report of any action taken by the Board during that financial year consequent on the directions.
+(2) The annual report for any financial year shall set out any directions given by the Minister under section 19 and shall contain a report of any action taken by the Agency during that financial year consequent on the directions.
 
 [19/91]
 
@@ -396,13 +396,13 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 [35/96]
 
-(4) Notwithstanding subsection (1), the Minister may at any time requests the Board to furnish him with any information concerning any matter relating to the administration of the Fund by the Board , and the Board shall furnish him with the information required, and afford him or his representative all necessary facilities for the verification of the information required.
+(4) Notwithstanding subsection (1), the Minister may at any time requests the Agency to furnish him with any information concerning any matter relating to the administration of the Fund by the Agency, and the Agency shall furnish him with the information required, and afford him or his representative all necessary facilities for the verification of the information required.
 
 [35/96]
 
 ### Preservation of secrecy
 
-22\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a member, employee or agent of the Board shall disclose to any person any information relating to the affairs of the Board or of any person which he has acquired in the performance of his duties or the exercise of his functions.
+22\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a member, employee or agent of the Agency shall disclose to any person any information relating to the affairs of the Agency or of any person which he has acquired in the performance of his duties or the exercise of his functions.
 
 [19/91]
 
@@ -414,7 +414,7 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 ### Public servants
 
-23\. The members, employees and agents of the Board shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+23\. The members, employees and agents of the Agency shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
 
 [21
 
@@ -434,7 +434,7 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 ### Regulations
 
-25\. The Board may, with the approval of the Minister, make such regulations as are necessary or expedient for carrying out the provisions of this Act and, in particular, such regulations may provide for all or any of the matters specified in the Second Schedule.
+25\. The Agency may, with the approval of the Minister, make such regulations as are necessary or expedient for carrying out the provisions of this Act and, in particular, such regulations may provide for all or any of the matters specified in the Second Schedule.
 
 [23
 
@@ -452,11 +452,11 @@ Financial year
 
 Accounts to be kept
 
-2\. The Board shall keep proper accounts and records of its transactions involving the Fund and shall do all things necessary to ensure that all payments out of the Fund are correctly made and properly authorised and that adequate control is maintained over the moneys of the Fund and over the expenditure out of the Fund.
+2\. The Agency shall keep proper accounts and records of its transactions involving the Fund and shall do all things necessary to ensure that all payments out of the Fund are correctly made and properly authorised and that adequate control is maintained over the moneys of the Fund and over the expenditure out of the Fund.
 
 Financial statements
 
-3\. The Board shall, as soon as practicable after the close of each financial year, prepare and submit to the auditor the financial statements relating to the Fund in respect of that year.
+3\. The Agency shall, as soon as practicable after the close of each financial year, prepare and submit to the auditor the financial statements relating to the Fund in respect of that year.
 
 Appointment of auditor
 
@@ -476,11 +476,11 @@ Duties of auditor
 
 (b) whether proper accounting and other records have been kept in respect of all transactions involving the Fund;
 
-(c) whether receipts, expenditure and investment of moneys of the Fund and the acquisition of assets by the Board from the moneys of the Fund and the disposal of such assets during the financial year have been in accordance with the provisions of this Act; and
+(c) whether receipts, expenditure and investment of moneys of the Fund and the acquisition of assets by the Agency from the moneys of the Fund and the disposal of such assets during the financial year have been in accordance with the provisions of this Act; and
 
 (d) such other matters arising from the audit as he considers necessary.
 
-(2) The auditor shall, as soon as practicable after the accounts relating to the Fund have been submitted for audit, send a report of his audit to the Board and shall also submit such periodical and special reports to the Minister and to the Board as may appear to him to be necessary or as the Minister or the Board may require.
+(2) The auditor shall, as soon as practicable after the accounts relating to the Fund have been submitted for audit, send a report of his audit to the Agency and shall also submit such periodical and special reports to the Minister and to the Agency as may appear to him to be necessary or as the Minister or the Agency may require.
 
 Powers of auditor
 
@@ -494,9 +494,9 @@ Failure to furnish information to auditor
 
 Presentation of financial statements and auditor’s report to Parliament
 
-9.—(1) The Board shall, as soon as the financial statements relating to the Fund have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the chief executive of the Board, together with a copy of the auditor’s report.
+9.—(1) The Agency shall, as soon as the financial statements relating to the Fund have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the chief executive of the Agency, together with a copy of the auditor’s report.
 
-(2) Where the Auditor-General is not the auditor of the Fund, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Board.
+(2) Where the Auditor-General is not the auditor of the Fund, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Agency.
 
 (3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
@@ -506,12 +506,7 @@ SECOND SCHEDULE
 
 Section 25
 
-Matters in Respect of Which Board
-
-
-
-
-May Make Regulations
+Matters in Respect of Which Agency May Make Regulations
 
 1\. Requiring employers to give notice of their liability to pay the levy and the manner in which the notice shall be given.
 
@@ -529,7 +524,7 @@ May Make Regulations
 
 8\. Making any act or omission in contravention of any regulations made under this Act an offence and prescribing penalties for such offences which may consist of a fine not exceeding $5,000 or imprisonment for a term not exceeding 12 months or both.
 
-9\. The imposition of penalties (such penalties, if unpaid, to be recoverable as a debt due to the Board) to be paid by an employer for late payment of the levy.
+9\. The imposition of penalties (such penalties, if unpaid, to be recoverable as a debt due to the Agency) to be paid by an employer for late payment of the levy.
 
 10. The manner of the service of notices for the purposes of this Act.
 
@@ -584,3 +579,9 @@ This Legislative History is provided for the convenience of users of the Skills 
 |||(Bill No. 15/2002 published on 15 May 2002)|
 ||Date of Second and Third Readings|8 July 2002|
 ||Date of commencement|1 April 2002|
+|12.|**Act 14 of 2003—Singapore Workforce Development Agency Act 2003**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|30 June 2003|
+|||(Bill No. 13/2003 published on 1 July 2003)|
+||Date of Second and Third Readings|15 August 2003|
+||Date of commencement|1 September 2003|
