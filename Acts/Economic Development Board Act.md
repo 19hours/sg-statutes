@@ -16,9 +16,11 @@
 
 - [5 Constitution of Board](#Constitution-of-Board)
 
+- [5A Functions of Board](#Functions-of-Board)
+
 - [6 Directions by Minister](#Directions-by-Minister)
 
-- [7 Director of Board](#Director-of-Board)
+- [7 Appointment of chief executive officer](#Appointment-of-chief-executive-officer)
 
 - [8 Appointment of officers and employees](#Appointment-of-officers-and-employees)
 
@@ -50,11 +52,11 @@
 
 - [22 Compulsory acquisition of property before 15th April 1983 not to be called in question](#Compulsory-acquisition-of-property-before-15th-April-1983-not-to-be-called-in-question)
 
-- [23 Accounts of Board](#Accounts-of-Board)
+- [23 (Repealed)](#Repealed)
 
 - [24 Annual report](#Annual-report)
 
-- [25 Annual estimates](#Annual-estimates)
+- [25 Financial provisions](#Financial-provisions)
 
 - [26 Special provisions as to sale or purchase by Board of land, etc.](#Special-provisions-as-to-sale-or-purchase-by-Board-of-land-etc)
 
@@ -63,6 +65,8 @@
 - [28 Regulations](#Regulations)
 
 - [29 Winding up](#Winding-up)
+
+[**THE SCHEDULE Financial provisions**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -92,7 +96,7 @@ An Act to establish the Economic Development Board.
 
 “goods, materials or things” includes capital or consumer goods of every description, including aircraft, ships, machinery, food and drugs;
 
-“industrial enterprise” means any sole proprietorship, partnership, company or co-operative society wherever registered or incorporated under any law for the time being in force relating to companies, co-operative societies or businesses and engaged in or proposing to engage in any one or more of the following purposes or functions:
+“business enterprise” means any sole proprietorship, partnership, company or co-operative society wherever registered or incorporated under any law for the time being in force relating to companies, co-operative societies or businesses and engaged in or proposing to engage in any one or more of the following purposes or functions:
 
 (a) manufacture and sale of goods, materials or things or the subjection of goods, materials or things to any process, including that of repairs, breaking-up, reconditioning or maintenance;
 
@@ -112,7 +116,11 @@ An Act to establish the Economic Development Board.
 
 (g) the business of a tourist enterprise as defined in the Tourist Promotion Board Act [Cap. 328];
 
-“underwrite” means to contract, with or without conditions, to subscribe for stocks, shares, bonds or debentures of an industrial enterprise with a view to the resale of the whole or part of it.
+[Act 11 of 1989 wef 07/04/1989]
+
+“underwrite” means to contract, with or without conditions, to subscribe for stocks, shares, bonds or debentures of a business enterprise with a view to the resale of the whole or part of it.
+
+[Act 11 of 1989 wef 07/04/1989]
 
 ### Establishment of Economic Development Board
 
@@ -130,19 +138,21 @@ An Act to establish the Economic Development Board.
 
 5\.—(1) The Board shall consist of —
 
-(a) the Chairman of the Board appointed under section 4;
+(a) the Chairman; and
 
-(b) the Director of the Board appointed under section 7; and
+(b) not less than 4 and not more than 11 other members who shall be appointed by the Minister.
 
-(c) not less than 4 and not more than 10 other members who shall be appointed by the Minister.
-
-[17/75]
+[Act 11 of 1989 wef 07/04/1989]
 
 (2) The quorum of the Board shall be 4.
 
-(3) The Board shall meet together once at least in every month.
+(3) The Board shall meet at such times and places as the Board may determine.
 
-(4) The members of the Board appointed by the Minister under subsection (1)(c) shall, unless their appointment is revoked by the Minister under subsection (11), or unless they resign during their period of office, hold office for a term of 3 years or for such shorter period as the Minister may in any case determine.
+[Act 11 of 1989 wef 07/04/1989]
+
+(4) The members of the Board appointed by the Minister under subsection (1)(b) shall, unless their appointment is revoked by the Minister under subsection (11), or unless they resign during their period of office, hold office for a term of 3 years or for such shorter period as the Minister may in any case determine.
+
+[Act 11 of 1989 wef 07/04/1989]
 
 (5) The Minister may appoint not more than two members of the Board to be Deputy Chairmen of the Board.
 
@@ -170,17 +180,45 @@ may exercise any of the functions of the Chairman.
 
 (11) The Minister may at any time revoke the appointment of the Chairman or of any other member of the Board.
 
+### Functions of Board
+
+5A\.—(1) The functions of the Board are —
+
+(a) to stimulate the growth, expansion and development of Singapore’s economy by promoting Singapore as an international total business centre;
+
+(b) to formulate investment promotion policies and plans, promotional incentives and marketing strategies to attract foreign and local investments in advanced technology industries and skill-intensive services which enjoy good export market prospects;
+
+(c) to promote, facilitate and assist in the development of support industries and services which provide important parts, components and related services to the manufacturing sector;
+
+(d) to encourage foreign and local industries to upgrade their skill and technological levels through investment in new technology, automation, training, research and product development activities;
+
+(e) to support the development of local entrepreneurs and small and medium business enterprises and assist local companies to expand and upgrade their operations;
+
+(f) to provide training in new skills required by the manufacturing, business and technical services sector; and
+
+(g) to identify and encourage key companies to establish their international operational headquarters and undertake a wide range of regional service and business activities in Singapore.
+
+(2) For the purpose of subsection (1)(a),
+
+“international total business centre” means a centre which facilitates and encourages the development of all forms of business activities in areas of design, production, marketing and distribution and all types of corporate services.
+
+[Act 11 of 1989 wef 07/04/1989]
+
 ### Directions by Minister
 
 6\.—(1) The Minister may, after consultation with the Board or otherwise, give to the Board such directions, not inconsistent with the provisions of this Act, as he considers fit, as to the exercise and performance by the Board of its powers, duties and functions under this Act, and the Board shall give effect to all such directions.
 
 (2) The Board shall furnish the Minister with such information with respect to its property and activities as he may from time to time require.
 
-### Director of Board
+### Appointment of chief executive officer
 
-7\.—(1) The Board shall, with the approval of the Minister, appoint a Director of the Economic Development Board who shall perform such duties as the Board may entrust or delegate to him.
+7\.—(1) The Board shall, with the approval of the Minister, appoint a chief executive officer on such terms and conditions as the Board may determine.
 
-(2) If the Director of the Board is temporarily absent from Singapore or temporarily incapacitated through illness or for any other sufficient reason from the performance of his duties, another person may be appointed in the manner provided by subsection (1) to be the Director of the Board during such temporary absence or other incapacity.
+(2) The chief executive officer shall be known by such designation as the Board may determine and shall be responsible to the Board for the proper administration and management of its functions and affairs in accordance with the policy laid down by the Board.
+
+(3) The Board may, with the approval of the Minister, appoint another person to be a temporary chief executive officer during the absence, or incapacity owing to illness or otherwise, of the chief executive officer.
+
+[Act 11 of 1989 wef 07/04/1989]
 
 ### Appointment of officers and employees
 
@@ -226,9 +264,13 @@ may exercise any of the functions of the Chairman.
 
 11\.—(1) The Board may, in its discretion, appoint from among its own members or other persons who are not members of the Board such number of committees consisting of members or other persons or members and other persons for purposes which, in the opinion of the Board, would be better regulated and managed by means of those committees.
 
-(2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman or the Director of the Board all or any of the powers, functions and duties by this Act vested in the Board, except the power to borrow money or to raise loans by the issue of bonds and debentures; and any power, function or duty so delegated may be exercised or performed by such committee or the Chairman or the Director, as the case may be, in the name and on behalf of the Board.
+(2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman or the chief executive officer of the Board all or any of the powers, functions and duties by this Act vested in the Board, except the power to borrow money or to raise loans by the issue of bonds and debentures; and any power, function or duty so delegated may be exercised or performed by such committee or the Chairman or the chief executive officer, as the case may be, in the name and on behalf of the Board.
 
-(3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any employee thereof all or any of the Board’s functions and duties by this Act vested in the Board, except the power to borrow money or to raise loans or grant loans or advances to or subscribe to or underwrite the issue of stocks, shares, bonds or debentures of industrial enterprises; and any power, function or duty so delegated may be exercised or performed by such employee in the name and on behalf of the Board.
+[Act 11 of 1989 wef 07/04/1989]
+
+(3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any employee thereof all or any of the Board’s functions and duties by this Act vested in the Board, except the power to borrow money or to raise loans or grant loans or advances to or subscribe to or underwrite the issue of stocks, shares, bonds or debentures of business enterprises; and any power, function or duty so delegated may be exercised or performed by such employee in the name and on behalf of the Board.
+
+[Act 11 of 1989 wef 07/04/1989]
 
 (4) The Board may continue to exercise any power conferred upon it, or perform any function or duty under this Act, notwithstanding the delegation of such power, function or duty under this section.
 
@@ -288,27 +330,41 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 17\.—(1) The Board shall have power —
 
-(a) with the written approval of the Minister, to underwrite the issue of stocks, shares, bonds or debentures by industrial enterprises;
+(a) with the written approval of the Minister, to underwrite the issue of stocks, shares, bonds or debentures by business enterprises;
 
-(b) with the written approval of the Minister, to guarantee, on such terms and conditions as may be agreed upon, loans raised by industrial enterprises which —
+[Act 11 of 1989 wef 07/04/1989]
+
+(b) with the written approval of the Minister, to guarantee, on such terms and conditions as may be agreed upon, loans raised by business enterprises which —
 
 (i) are repayable within a period not exceeding 25 years; or
 
 (ii) are floated in the public market;
 
-(c) to grant loans or advances to, or subscribe to stocks, shares, bonds or debentures of industrial enterprises;
+[Act 11 of 1989 wef 07/04/1989]
 
-(d) to manage, control or supervise industrial enterprises by nominating directors or advisers or otherwise collaborating with them or entering into partnerships or any other arrangement for jointly working with them;
+(c) to grant loans or advances to, or subscribe to stocks, shares, bonds or debentures of business enterprises;
 
-(e) with the written approval of the Minister, to establish, sell shares of, invest in and manage industrial enterprises;
+[Act 11 of 1989 wef 07/04/1989]
 
-(f) to act as agent for the Government or, with its approval, for any other person in the transaction of any business with an industrial enterprise in respect of loans or advances granted or debentures subscribed by the Government or such other person;
+(d) to manage, control or supervise business enterprises by nominating directors or advisers or otherwise collaborating with them or entering into partnerships or any other arrangement for jointly working with them;
+
+[Act 11 of 1989 wef 07/04/1989]
+
+(e) with the written approval of the Minister, to establish, sell shares of, invest in and manage business enterprises;
+
+[Act 11 of 1989 wef 07/04/1989]
+
+(f) to act as agent for the Government or, with its approval, for any other person in the transaction of any business with a business enterprise in respect of loans or advances granted or debentures subscribed by the Government or such other person;
+
+[Act 11 of 1989 wef 07/04/1989]
 
 (g) to acquire, sell or lease land for the purposes of industrial sites, for the housing of employees or for general economic development;
 
 (h) to lay out industrial estates for sale or lease;
 
-(i) to provide technical advice and assistance to industrial enterprises and to build up a corps of engineering and managerial staff to provide such assistance;
+(i) to provide technical advice and assistance to business enterprises and to build up a corps of engineering and managerial staff to provide such assistance;
+
+[Act 11 of 1989 wef 07/04/1989]
 
 (j) to exercise all functions and powers and perform all duties which, under or by virtue of any other written law, are or may be or become vested or delegated to it;
 
@@ -318,13 +374,21 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 (m) with the written approval of the Minister, to award compensation to any person sustaining any damage by reason of the exercise of any of the powers under this Act by the Board or by any employee thereof;
 
-(n) to act as agents for any industrial enterprise;
+(n) to act as agents for any business enterprise;
+
+[Act 11 of 1989 wef 07/04/1989]
 
 (o) to carry out experimental work and to conduct, promote and encourage the study of, and research in, matters connected with any of the Board’s purposes and functions;
 
 (p) from time to time to invest any of the funds of the Board in securities authorised for the investment of trust funds by any written law for the time being in force, and, with the approval of the Minister, in other securities, within or otherwise than within Singapore;
 
-(q) with the concurrence of the Housing and Development Board, to finance or carry out or assist in carrying out any scheme in connection with urban redevelopment; and
+(q) with the concurrence of the Housing and Development Board, to finance or carry out or assist in carrying out any scheme in connection with urban redevelopment;
+
+[Act 11 of 1989 wef 07/04/1989]
+
+(qa) to foster the growth of the services industry by developing the appropriate infrastructure and formulating and implementing investment promotion plans, promotional incentives and marketing strategies to support local and international firms and businesses in the services sector in Singapore; and
+
+[Act 11 of 1989 wef 07/04/1989]
 
 (r) generally to do all such matters and things as may be incidental to or consequential upon the exercise of its powers or the discharge of its duties under this Act.
 
@@ -334,59 +398,119 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 (3) The Board shall, when it is exercising powers authorised by the Minister under subsection (2), be deemed to be exercising powers vested in it by subsection (1).
 
+(4) For the purposes of subsection (1)(qa),
+
+“services” means all or any of the following services:
+
+(a) business services;
+
+(b) technical services;
+
+(c) commercial services;
+
+(d) accountancy and management and professional services;
+
+(e) transport and communication services;
+
+(f) warehousing and distribution services;
+
+(g) medical services;
+
+(h) education services;
+
+(i) publishing services;
+
+(j) information technology services;
+
+(k) agrotechnology services;
+
+(l) entertainment, leisure and recreation services;
+
+(m) exhibition services.
+
+[Act 11 of 1989 wef 07/04/1989]
+
 [16
 
 ### Rights of Board in case of default
 
-18\.—(1) Where any industrial enterprise which is under a liability to the Board under an agreement makes any default in repayment or otherwise fails to comply with the terms of its agreement with the Board, the Board shall, without prejudice to any other rights or remedies which it may possess under the law, have the right to take over the management of the industrial enterprise, as well as the right to sell and realise the property pledged, mortgaged, hypothecated or assigned to the Board.
+18\.—(1) Where any business enterprise which is under a liability to the Board under an agreement makes any default in repayment or otherwise fails to comply with the terms of its agreement with the Board, the Board shall, without prejudice to any other rights or remedies which it may possess under the law, have the right to take over the management of the business enterprise, as well as the right to sell and realise the property pledged, mortgaged, hypothecated or assigned to the Board.
+
+[Act 11 of 1989 wef 07/04/1989]
 
 (2) Any transfer of property made by the Board in exercise of its powers of sale and realisation under subsection (1) shall vest in the transferee all rights in or to the property transferred as if the sale had been made by the owner of the property.
 
 (3) The Board shall have the same rights and powers with respect to goods manufactured or produced wholly or partly from goods forming part of security held by it, as it had with respect to the original goods.
 
-(4) Where the Board takes over the management of an industrial enterprise under subsection (1), it shall be deemed to be the owner of the industrial enterprise for purposes of suits by or against such industrial enterprise and shall sue and be sued in the name of the owner of the industrial enterprise.
+(4) Where the Board takes over the management of a business enterprise under subsection (1), it shall be deemed to be the owner of the business enterprise for purposes of suits by or against such business enterprise and shall sue and be sued in the name of the owner of the business enterprise.
+
+[Act 11 of 1989 wef 07/04/1989]
 
 [17
 
 ### Power to call for repayment before agreed period
 
-19\. Notwithstanding any agreement to the contrary, and without prejudice to any other rights or remedies which it may possess under the law, the Board may by notice require any industrial enterprise, to which it has granted any loan or advance, forthwith to discharge in full its liabilities to the Board —
+19\. Notwithstanding any agreement to the contrary, and without prejudice to any other rights or remedies which it may possess under the law, the Board may by notice require any business enterprise, to which it has granted any loan or advance, forthwith to discharge in full its liabilities to the Board —
 
 (a) if it appears to the Board that false or misleading information in any material particular was given in the application for the loan or advance;
 
-(b) if the industrial enterprise has failed to comply with the terms of its contract with the Board in the matter of the loan or advance;
+(b) if the business enterprise has failed to comply with the terms of its contract with the Board in the matter of the loan or advance;
 
-(c) if there is a reasonable apprehension that the industrial enterprise is unable to pay its debts or that proceedings for liquidation may be commenced in respect thereof;
+[Act 11 of 1989 wef 07/04/1989]
 
-(d) if the property pledged, mortgaged, hypothecated or assigned to the Board as security for the loan or advance is not insured and kept insured by the industrial enterprise to the satisfaction of the Board, or depreciates in value, in the opinion of the Board, by more than 20% and further security to the satisfaction of the Board is not given;
+(c) if there is a reasonable apprehension that the business enterprise is unable to pay its debts or that proceedings for liquidation may be commenced in respect thereof;
 
-(e) if, without the permission of the Board, machinery and other equipment, whether forming part of the security or otherwise, is removed from the premises of the industrial enterprise without being replaced; or
+[Act 11 of 1989 wef 07/04/1989]
+
+(d) if the property pledged, mortgaged, hypothecated or assigned to the Board as security for the loan or advance is not insured and kept insured by the business enterprise to the satisfaction of the Board, or depreciates in value, in the opinion of the Board, by more than 20% and further security to the satisfaction of the Board is not given;
+
+[Act 11 of 1989 wef 07/04/1989]
+
+(e) if, without the permission of the Board, machinery and other equipment, whether forming part of the security or otherwise, is removed from the premises of the business enterprise without being replaced; or
+
+[Act 11 of 1989 wef 07/04/1989]
 
 (f) if for any reason it is necessary in the opinion of the Board to protect the interests of the Board.
+
+[Act 11 of 1989 wef 07/04/1989]
 
 [18
 
 ### Special provisions for enforcement of claims by Board
 
-20\.—(1) Where by reason of the breach of any condition of an agreement between the Board and an industrial enterprise, the Board becomes entitled to call for the immediate payment of any loan or advance granted by it before the due date or where the due date has expired, and the industrial enterprise fails to repay the loan or advance, any officer of the Board generally or specially authorised by the Board in that behalf may apply to the High Court for one or more of the following reliefs:
+20\.—(1) Where by reason of the breach of any condition of an agreement between the Board and a business enterprise, the Board becomes entitled to call for the immediate payment of any loan or advance granted by it before the due date or where the due date has expired, and the business enterprise fails to repay the loan or advance, any officer of the Board generally or specially authorised by the Board in that behalf may apply to the High Court for one or more of the following reliefs:
 
 (a) for an order for the sale of the property pledged, mortgaged, hypothecated or assigned to the Board as security for the loan or advance;
 
-(b) for transferring the management of the industrial enterprise to the Board; or
+(b) for transferring the management of the business enterprise to the Board; or
 
-(c) for an interim injunction where there is apprehension of the machinery or the equipment being removed from the premises of the industrial enterprise without the permission of the Board.
+[Act 11 of 1989 wef 07/04/1989]
 
-(2) An application under subsection (1) shall state the nature and extent of the liability of the industrial enterprise to the Board, the ground on which it is made and such other particulars as may be prescribed.
+(c) for an interim injunction where there is apprehension of the machinery or the equipment being removed from the premises of the business enterprise without the permission of the Board.
 
-(3) Where the application is for the reliefs mentioned in subsection (1)(a) and (c), the judge shall make an interim order attaching the security or so much of the property of the industrial enterprise as would on being sold realise in his estimation an amount equivalent in value to the outstanding liability of the industrial enterprise to the Board, together with the costs of the proceedings taken under this section with or without an interim injunction restraining the industrial enterprise from transferring or removing its machinery or equipment.
+[Act 11 of 1989 wef 07/04/1989]
 
-(4) Where the application is for the relief mentioned in subsection (1)(b), the judge shall grant an interim injunction restraining the industrial enterprise from transferring or removing its machinery or equipment and issue a notice calling upon the industrial enterprise to show cause on a date to be specified in the notice as to why the management of the industrial enterprise should not be transferred to the Board.
+(2) An application under subsection (1) shall state the nature and extent of the liability of the business enterprise to the Board, the ground on which it is made and such other particulars as may be prescribed.
+
+[Act 11 of 1989 wef 07/04/1989]
+
+(3) Where the application is for the reliefs mentioned in subsection (1)(a) and (c), the judge shall make an interim order attaching the security or so much of the property of the business enterprise as would on being sold realise in his estimation an amount equivalent in value to the outstanding liability of the business enterprise to the Board, together with the costs of the proceedings taken under this section with or without an interim injunction restraining the business enterprise from transferring or removing its machinery or equipment.
+
+[Act 11 of 1989 wef 07/04/1989]
+
+(4) Where the application is for the relief mentioned in subsection (1)(b), the judge shall grant an interim injunction restraining the business enterprise from transferring or removing its machinery or equipment and issue a notice calling upon the business enterprise to show cause on a date to be specified in the notice as to why the management of the business enterprise should not be transferred to the Board.
+
+[Act 11 of 1989 wef 07/04/1989]
 
 (5) Before making any order under subsection (3) or (4), the judge may, if he thinks fit, examine the officer making the application.
 
-(6) At the same time as he makes an order under subsection (3), the judge shall issue to the industrial enterprise a notice accompanied by copies of the order, the application and the evidence, if any, recorded by him, calling upon the industrial enterprise to show cause on a date to be specified in the notice as to why the interim order of attachment should not be made absolute or the injunction confirmed.
+(6) At the same time as he makes an order under subsection (3), the judge shall issue to the business enterprise a notice accompanied by copies of the order, the application and the evidence, if any, recorded by him, calling upon the business enterprise to show cause on a date to be specified in the notice as to why the interim order of attachment should not be made absolute or the injunction confirmed.
 
-(7) If no cause is shown on or before the date specified in the notice under subsections (4) and (6), the judge shall forthwith make the interim order absolute and direct the sale of the attached property or transfer the management of the industrial enterprise to the Board or confirm the injunction.
+[Act 11 of 1989 wef 07/04/1989]
+
+(7) If no cause is shown on or before the date specified in the notice under subsections (4) and (6), the judge shall forthwith make the interim order absolute and direct the sale of the attached property or transfer the management of the business enterprise to the Board or confirm the injunction.
+
+[Act 11 of 1989 wef 07/04/1989]
 
 (8) If cause is shown, the judge shall proceed to investigate the claim of the Board and the provisions of the Rules of the Supreme Court shall as far as practicable apply to such proceedings.
 
@@ -400,9 +524,11 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 (d) confirming or dissolving the injunction; or
 
-(e) transferring the management of the industrial enterprise to the Board or rejecting the claim made in this behalf:
+(e) transferring the management of the business enterprise to the Board or rejecting the claim made in this behalf:
 
 Provided that when making any order under paragraph (c), the judge may make such further orders as he thinks necessary to protect the interests of the Board, and may apportion the costs of the proceedings in such manner as he thinks fit.
+
+[Act 11 of 1989 wef 07/04/1989]
 
 (10) Unless the Board intimates to the judge that it will not appeal against any order releasing any property from attachment, the order shall not be given effect to until the expiry of the period fixed under subsection (12) within which an appeal may be lodged, or if an appeal is lodged, unless the Court of Appeal otherwise directs, until the appeal is disposed of.
 
@@ -428,35 +554,21 @@ Provided that when making any order under paragraph (c), the judge may make such
 
 \*Section 3 of the Statutes (Miscellaneous Amendments) Act 1983 (No. 7/83).
 
-### Accounts of Board
-
-23\.—(1) The Board shall prepare in respect of each financial year ending on 31st March a statement of account in a form approved by the Minister.
-
-[3/72]
-
-(2) For the purposes of this Act, “financial year” means a period of 12 months ending on 31st March in any year.
-
-(3) The statement of account referred to in subsection (1) shall be audited by a qualified auditor to be appointed in respect of each financial year by the Minister, and the auditor shall make a report on the accounts examined by him.
-
-(4) The remuneration of the auditor appointed by the Minister under subsection (3) shall be fixed by the Minister and shall be paid out of the funds of the Board.
-
-(5) So soon as the accounts have been audited, the Board shall send to the Minister a copy of the statement of account and the report thereon by the auditor referred to in subsection (3), and the Minister shall present a copy of every such statement and report to Parliament.
-
-[21
+23\. [Repealed by Act 11 of 1989 wef 07/04/1989]
 
 ### Annual report
 
-24\. So soon as may be after 1st April in each year but not later than 30th September in each year unless expressly authorised in writing by the Minister, the Board shall prepare a report of its operations in the preceding financial year and shall send a copy of the report to the Minister who shall present a copy of every such report to Parliament.
+24\.—(1) The Board shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Board during the preceding financial year and containing such information relating to the proceedings and policy of the Board as the Minister may, from time to time, direct.
 
-[22
+(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
 
-[3/72; 17/75]
+[Act 11 of 1989 wef 07/04/1989]
 
-### Annual estimates
+### Financial provisions
 
-25\. The Board shall obtain in advance the approval of the Minister for its annual estimates of expenditure in respect of office administration and for any supplementary estimates of such expenditure.
+25\. The financial provisions set out in the Schedule shall have effect with respect to the Board.
 
-[23
+[Act 11 of 1989 wef 07/04/1989]
 
 ### Special provisions as to sale or purchase by Board of land, etc.
 
@@ -507,6 +619,74 @@ Provided that when making any order under paragraph (c), the judge may make such
 29\. The Board shall not be wound up except under the authority of an Act.
 
 [26
+
+## THE SCHEDULE
+
+Section 25.
+
+Financial provisions
+
+Accounts to be kept
+
+1\. The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Board and over the expenditure incurred by the Board.
+
+Financial statements
+
+2\. The Board shall, as soon as practicable after the close of each financial year, prepare and submit financial statements in respect of that year to the auditor of the Board.
+
+Appointment of auditor
+
+3\. The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
+
+Qualification of auditor
+
+4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is an approved company auditor under the Companies Act (Cap. 50).
+
+Remuneration of auditor
+
+5\. The auditor shall be paid out of the funds of the Board.
+
+Powers of auditor
+
+6\. The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Board and may make copies of, or extracts from, any such accounting and other records.
+
+Duties of auditor
+
+7. The auditor shall in his report state —
+
+(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Board;
+
+(b) whether proper accounting and other records have been kept, including records of all assets of the Board whether purchased, donated or otherwise;
+
+(c) whether receipts, expenditure, and investment of moneys and the acquisition and disposal of assets by the Board during the financial year were in accordance with the provisions of this Act; and
+
+(d) such other matters arising from the audit as he considers necessary.
+
+Reports
+
+8\. The auditor shall, as soon as practical after the accounts have been submitted for audit, send a report of his audit to the Board. He shall also submit such periodical and special reports to the Minister and to the Board as may appear to him to be necessary or as the Minister or the Board may require.
+
+Failure to furnish information to auditor
+
+9\. The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
+
+Offence
+
+10\. Any person who fails without reasonable excuse to comply with any requirement of the auditor under paragraph 9 or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+Financial statements and auditor’s report
+
+11\. The Board shall, as soon as the financial statements have been audited in accordance with the provisions of the Act, send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of the auditor’s report.
+
+Copy of financial statements and auditor’s report to be forwarded to Auditor-General
+
+12\. Where the Auditor-General is not the auditor of the Board, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Board.
+
+Financial statements and auditor’s report to be presented to Parliament
+
+13. The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+
+[Act 11 of 1989 wef 07/04/1989]
 
 ## LEGISLATIVE HISTORY
 
@@ -560,3 +740,8 @@ This Legislative History is provided for the convenience of users of the Economi
 ||Date of commencement|15 April 1983|
 |10.|**1985 Revised Edition—Economic Development Board Act (Chapter 85)**|
 ||Date of operation|30 March 1987|
+|11.|**Act 11 of 1989—Economic Development Board (Amendment) Act 1989**|
+||Date of First Reading|18 January 1989|
+|||(Bill No. 12/89 published on 18 January 1989)|
+||Date of Second and Third Readings|16 February 1989|
+||Date of commencement|7 April 1989|
