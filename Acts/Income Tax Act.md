@@ -38,7 +38,7 @@
 
 - [10C Excess provident fund contributions, etc., deemed to be income](#Excess-provident-fund-contributions-etc-deemed-to-be-income)
 
-- [10D Income from finance lease](#Income-from-finance-lease)
+- [10D Income from finance or operating lease](#Income-from-finance-or-operating-lease)
 
 - [10E Ascertainment of income of investment holding company](#Ascertainment-of-income-of-investment-holding-company)
 
@@ -48,7 +48,7 @@
 
 - [11 Ascertainment of income of clubs, trade associations, etc.](#Ascertainment-of-income-of-clubs-trade-associations-etc)
 
-- [12 Source of income.](#Source-of-income)
+- [12 Source of income. Trading operations carried on partly in Singapore](#Source-of-income-Trading-operations-carried-on-partly-in-Singapore)
 
 [**Part IV EXEMPTION FROM INCOME TAX**](#Part-IV)
 
@@ -209,6 +209,8 @@
 - [43K Concessionary rate of tax for members of commodity futures exchange](#Concessionary-rate-of-tax-for-members-of-commodity-futures-exchange)
 
 - [43L Concessionary rate of tax for art and antique dealers](#Concessionary-rate-of-tax-for-art-and-antique-dealers)
+
+- [43M Concessionary rate of tax for credit rating agency](#Concessionary-rate-of-tax-for-credit-rating-agency)
 
 [**Part XII RIGHTS OF DEDUCTION OF TAX**](#Part-XII)
 
@@ -468,6 +470,10 @@ and “employer” and other cognate expressions shall be construed accordingly;
 
 [32/95]
 
+“employment pass” means an employment pass issued by the Controller of Immigration under the Immigration Regulations (Cap.133, Rg 1);
+
+[1/98 wef 23/01/1998]
+
 “executor” means any executor, administrator or other person administering the estate of a deceased person;
 
 “goods” includes currency and specie;
@@ -522,6 +528,10 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 
 [31/86]
 
+“professional visit pass” means a professional visit pass issued by the Controller of Immigration under the Immigration Regulations (Cap. 133, Rg 1);
+
+[1/98 wef 23/01/1998]
+
 “replanting” means the replacement of the crop of any product on any area of land by the planting on the same area —
 
 (a) of a crop of the same product; or
@@ -563,6 +573,10 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 [11/94]
 
 “tax” means the income tax imposed by this Act;
+
+“work permit” means a work permit issued by the Controller of Work Permits under the Employment of Foreign Workers Act (Cap. 91A);
+
+[1/98 wef 23/01/1998]
 
 “year of assessment” means the period of 12 months commencing on such date as the Minister may, by notification in theGazette, appoint, and each subsequent period of 12 months.1
 
@@ -763,6 +777,18 @@ is the amount of balancing charge.
 (a) such gains or profits shall be the price of the shares in the open market at the time of the exercise, assignment or release of the right or benefit, less the amount paid for such shares;
 
 (b) if it is not possible to determine the gains or profits under paragraph (a), the Comptroller may use the net asset value of the shares, less the amount paid for the shares, as the basis for determining the gains or profits;
+
+(c) notwithstanding paragraphs (a) and (b), any gains or profits derived by him by any exercise of a right or benefit to acquire shares in a company listed on the Stock Exchange of Singapore shall be the last done price on the listing date of the shares so acquired less the amount paid for such shares;
+
+[Act 1/98, Wef 23/01/1998]
+
+(d) “the last done price on the listing date”, in relation to any shares referred to in paragraph (c), means the price of such shares in the open market at the last transaction on the date on which such shares are first listed on the Stock Exchange of Singapore after the acquisition of such shares by him; and
+
+[Act 1/98, Wef 23/01/1998]
+
+(e) “shares” includes stocks.
+
+[Act 1/98, Wef 23/01/1998]
 
 [26/73]
 
@@ -988,7 +1014,11 @@ shall be deemed to be income accruing to the employee for the year in which the 
 
 [11/94]
 
-(1B) Notwithstanding subsection (1)(a), where on or after 1st January 1995, contributions are made by any employer in any month to the medisave account of an employee maintained under the Central Provident Fund Act [Cap. 36] in lieu of hospitalisation benefits which the employer is obliged to provide by reason of a contract of employment, such contributions up to 1% of his ordinary wages for that month or $60, whichever is the less, shall subject to not be deemed to be income accruing to the employee.
+(1AA) Subsection (1A) shall not apply to contributions made by an employer in any year from 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass, an employment pass or a work permit in that year.
+
+[Act 1/98, Wef 23/01/1998]
+
+(1B) Notwithstanding subsection (1)(a), where on or after 1st January 1995, contributions are made by any employer in any month to the medisave account of an employee maintained under the Central Provident Fund Act [Cap. 36] in lieu of hospitalisation benefits which the employer is obliged to provide by reason of a contract of employment, such contributions up to 1% of his ordinary wages for that month or $60, whichever is the less, shall subject to subsections (1C) and (1D) not be deemed to be income accruing to the employee.
 
 [Act 1/98, Wef 23/01/1998]
 
@@ -997,6 +1027,10 @@ shall be deemed to be income accruing to the employee for the year in which the 
 (1C) Where contributions referred to in subsection (1B) are made in respect of an employee by two or more employers in any month, the amount of such contributions not deemed to be income accruing to the employee shall not exceed 1% of his total ordinary wages from his employers for that month or $60, whichever is the less.
 
 [32/95]
+
+(1D) Subsection (1B) shall not apply to contributions made by an employer in any year from 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass, an employment pass or a work permit in that year.
+
+[Act 1/98, Wef 23/01/1998]
 
 (2) Notwithstanding subsection (1)(b), where in any year from 1st January 1989 all the ordinary wages of an employee paid in that year do not exceed $72,000, and his total wages paid in the same year —
 
@@ -1056,9 +1090,49 @@ whichever is the less;
 
 [23/90]
 
-### Income from finance lease
+### Income from finance or operating lease
 
 10D\.—(1) Notwithstanding any other provisions of this Act, the Minister may by regulations provide for the circumstances in which the Comptroller may direct that allowances under section 19, 19A, 20, 21, 22 or 23 in respect of any machinery or plant which is leased under a finance lease entered into on or after 1st April 1990 shall not be made to the lessor but to the lessee as though the machinery or plant had been sold by the lessor to the lessee.
+
+(2) In determining the income of a lessor from the leasing of any machinery or plant, other than those which have been treated as though they had been sold pursuant to regulations made under subsection (1), the following provisions shall apply:
+
+(a) the Comptroller shall determine the manner and extent to which —
+
+(i) allowances under section 19, 19A, 20, 21, 22 or 23 and any expenses and donations allowable under this Act are to be deducted;
+
+(ii) any loss may be deducted under section 37;
+
+(b) where the lessor derives income from onshore leasing but does not derive income from offshore leasing, the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of onshore finance leasing shall, subject to paragraph (c), only be available as a deduction against the income from such onshore finance leasing and any balance of the allowances shall not be available as a deduction against any other income;
+
+(c) where the lessor referred to in paragraph (b) ceases to derive income from onshore finance leasing in the basis period for any year of assessment, any balance of the allowances after the deduction in paragraph (b) shall be available as a deduction against any other income for that year of assessment or for any subsequent year of assessment in accordance with section 23;
+
+(d) where the lessor derives income from both onshore leasing and offshore leasing and such income is subject to tax under section 42(1) or 43(1), the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of the leasing under any finance lease shall, subject to paragraph (e), only be available as a deduction against the income from such finance lease and any balance of the allowances shall not be available as a deduction against any other income;
+
+(e) where the lessor referred to in paragraph (d) ceases to derive income from the leasing of any machinery or plant under any finance lease in the basis period for any year of assessment, any balance of the allowances after the deduction in paragraph (d) shall be available as a deduction against any other income for that year of assessment and for any subsequent year of assessment in accordance with section 23;
+
+(f) where the lessor is a leasing company which derives income from onshore leasing and also derives income from offshore leasing subject to the concessionary rate of tax under section 43I —
+
+(i) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of onshore finance leasing shall firstly be available as a deduction against the income from such leasing and any balance of the allowances shall be available as a deduction against any other income in accordance with such regulations as may be prescribed;
+
+(ii) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of onshore operating leasing shall firstly be available as a deduction against the income from such leasing and any balance of the allowances shall be available as a deduction against any other income in accordance with such regulations as may be prescribed;
+
+(iii) any losses incurred in respect of onshore finance leasing or onshore operating leasing shall be available as a deduction against any other income in accordance with such regulations as may be prescribed.
+
+[Act 1/98, Wef 23/01/1998]
+
+(3) In this section —
+
+“finance lease” means a lease of any machinery or plant (including any arrangement or agreement in connection with the lease) which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of such machinery or plant to the lessee;
+
+“leasing company” and “offshore leasing” have the same meanings as in section 43I(8);
+
+“onshore finance leasing” means the onshore leasing of any machinery or plant under any finance lease;
+
+“onshore leasing” means the leasing, other than offshore leasing, of any machinery or plant;
+
+“onshore operating leasing” means the onshore leasing of any machinery or plant, other than onshore finance leasing.
+
+[Act 1/98, Wef 23/01/1998]
 
 ### Ascertainment of income of investment holding company
 
@@ -1346,9 +1420,7 @@ more than 2 years but not more than 3 years prior to the disposal of the shares;
 
 (3) In this section, “members”, in relation to a body of persons, means those persons who are entitled to vote at a general meeting of the body at which effective control is exercised over its affairs.
 
-### Source of income.
-
-### Trading operations carried on partly in Singapore
+### Source of income. Trading operations carried on partly in Singapore
 
 12\.—(1) Where a non-resident person carries on a trade or business of which only part of the operations is carried on in Singapore, the gains or profits of the trade or business shall be deemed to be derived from Singapore to the extent to which such gains or profits are not directly attributable to that part of the operations carried on outside Singapore.
 
@@ -1496,7 +1568,7 @@ EXEMPTION FROM INCOME TAX
 
 [2/92]
 
-(p) for a period of from the commencement of its business, such income of the Singapore Commodity Exchange Limited as may be prescribed;
+(p) for a period of 10 years from the commencement of its business, such income of the Singapore Commodity Exchange Limited as may be prescribed;
 
 [Act 1/98, Wef 23/01/1998]
 
@@ -1518,7 +1590,7 @@ EXEMPTION FROM INCOME TAX
 
 [15/83]
 
-(v) the interest received from such Asian Dollar Bonds as may be approved in writing by the Minister if the interest is received by —
+(v) the interest received from such Asian Dollar Bonds as may be approved in writing by the Minister or such person as he may appoint if the interest is received by —
 
 (i) a non-resident individual; and
 
@@ -1756,7 +1828,7 @@ ought not to have been so exempt, the Comptroller may at any time within 6 years
 
 ### Exemption of certain dividends
 
-13B\.—(1) Where a company derives income which is subject to tax or exempt from tax in accordance with regulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, the following provisions of this section shall have effect.
+13B\.—(1) Where a company derives income which is subject to tax or exempt from tax in accordance with regulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L or 43M, the following provisions of this section shall have effect.
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -1774,7 +1846,7 @@ ought not to have been so exempt, the Comptroller may at any time within 6 years
 
 [26/93]
 
-(2) As soon as any amount of income of the company has been subject to tax at the rate of 10% (or other concessionary rate) or exempt from tax in accordance with regulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, the net amount of the income after deduction of the tax or the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
+(2) As soon as any amount of income of the company has been subject to tax at the rate of 10% (or other concessionary rate) or exempt from tax in accordance with regulations prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L or 43M, the net amount of the income after deduction of the tax or the amount of the income exempted shall be credited to a special account (referred to in this section as the account) to be kept by the company for the purposes of this section.
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -1812,7 +1884,7 @@ ought not to have been so exempt, the Comptroller may at any time within 6 years
 
 (8) Notwithstanding subsections (1) to (7), where it appears to the Comptroller that —
 
-(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K or
+(a) any income of a company which has been subject to tax at the rate of 10% (or such other concessionary rate) or exempt from tax as prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L or 43M or
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -1976,7 +2048,7 @@ as the case may be.
 
 (a) only apply to income received on or after 1st January 1991;
 
-(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86]; and
+(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L or 43M or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86]; and
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -2208,6 +2280,10 @@ of the remuneration paid by the employer to the employee for that period, and �
 
 (ii) where any such fund or society is first established and a special contribution is made thereto by the employer whereby persons in his employment whose employment commenced prior to the establishment of the fund or society may qualify for the benefits thereunder in respect of such prior employment, the Comptroller may, when approving the fund or society, authorise such deductions in respect of that special contribution as he thinks fit;
 
+(iii) no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass, an employment pass or a work permit or who would be required to obtain such a pass or permit if he were to work in Singapore;
+
+[Act 1/98, Wef 23/01/1998]
+
 [26/93]
 
 [7/79]
@@ -2226,9 +2302,9 @@ of the remuneration paid by the employer to the employee for that period, and �
 
 [26/93]
 
-(ea) any sum contributed by an employer in any month to the medisave account maintained under the Central Provident Fund Act [Cap. 36] in respect of any of his employees engaged in activities relating to the production of the income of the employer and which is not deemed to be the income of the employee under section 10C(1B), subject to a maximum deduction of 1% of the ordinary wages of the employee for that month or $60, whichever is the less, for each employee
+(ea) any sum contributed by an employer in any month to the medisave account maintained under the Central Provident Fund Act in respect of any of his employees engaged in activities relating to the production of the income of the employer and which is not deemed to be the income of the employee under section 10C(1B), subject to a maximum deduction of 1% of the ordinary wages of the employee for that month or $60, whichever is the less, for each employee:
 
-[32/95]
+Provided that no deduction shall be allowed in respect of any sum contributed by an employer for the period on or after 1st January 1999 to the medisave account maintained under the Central Provident Fund Act (Cap. 36) in respect of an employee who holds a professional visit pass, an employment pass or a work permit or who would be required to obtain such a pass or permit if he were to work in Singapore;
 
 (f) zakat, fitrah or any religious dues, payment of which is made under any written law;
 
@@ -2616,13 +2692,13 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 [32/95]
 
-(c) of the prescribed value of the loans and investments in securities in the basis period for that year of assessment, less the total amount of all deductions previously allowed under this section which have not been deemed to be trading receipts under subsections (2) and (2A).
+(c) 2% in the case of a qualifying finance company or 3% in the case of a bank, of the prescribed value of the loans and investments in securities in the basis period for that year of assessment, less the total amount of all deductions previously allowed under this section which have not been deemed to be trading receipts under subsections (2) and (2A).
 
 (5) No deduction shall be allowed for any year of assessment —
 
 (a) where there are no qualifying profits in the basis period for that year of assessment; or
 
-(b) where the total amount of all deductions previously allowed under this section, which have not been deemed to be trading receipts under subsections (2) and (2A), is in excess of the prescribed value of the loans and investments in securities for the relevant basis period for that year of assessment.
+(b) where the total amount of all deductions previously allowed under this section, which have not been deemed to be trading receipts under subsections (2) and (2A), is in excess of the appropriate percentage referred to in subsection (4)(c) of the prescribed value of the loans and investments in securities for the relevant basis period for that year of assessment.
 
 (6) In this section —
 
@@ -3524,7 +3600,7 @@ is the aggregate of the initial and annual allowances made in respect of the mot
 
 [9/80]
 
-(5A) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(2C) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act [Cap. 276] and the rules made thereunder.
+(5A) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(2C) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act [Cap. 276] and the rules made thereunder except where the motor car is registered outside Singapore and used exclusively outside Singapore.
 
 [Act 1/98, Wef 23/01/1998]
 
@@ -3944,11 +4020,15 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 [28/92]
 
-(e) derived during the period from 1st January 1992 to 31st December 1992 shall be treated as his statutory income for the year of assessment 1993 and be charged to tax at the rate applicable to him for that year of assessment
+(e) derived during the period from 1st January 1992 to 31st December 1992 shall be treated as his statutory income for the year of assessment 1993 and be charged to tax at the rate applicable to him for that year of assessment;
 
 [Act 1/98, Wef 23/01/1998]
 
 [26/93]
+
+(f) derived during the period from 1st January 1995 to 31st December 1995 shall be treated as his statutory income for the year of assessment 1996 and be charged to tax at the rate applicable to him for that year of assessment.
+
+[Act 1/98, Wef 23/01/1998]
 
 [1/90]
 
@@ -4180,7 +4260,7 @@ is the concessionary rate of tax for that year of assessment at which the conces
 
 “chargeable normal income” means normal income after deducting expenses, donations, allowances or losses allowable under this Act against the normal income;
 
-“concessionary income” means income subject to tax at the concessionary rate of tax in accordance with the regulations made under section 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K , as the case may be;
+“concessionary income” means income subject to tax at the concessionary rate of tax in accordance with the regulations made under section 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43J, 43K, 43L or 43M, as the case may be;
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -4230,7 +4310,7 @@ whichever is the less.
 
 Deduction for wife
 
-(a) had a wife living with or maintained by him, there shall be allowed a deduction equal to the amount by which the sum of exceeds the amount of income chargeable in the wife’s own name;
+(a) had a wife living with or maintained by him, there shall be allowed a deduction equal to the amount by which the sum of $2,000 exceeds the amount of income chargeable in the wife’s own name;
 
 [Act 1/98, Wef 23/01/1998]
 
@@ -4240,7 +4320,7 @@ Deduction for wife
 
 Deduction for alimony
 
-(b) paid alimony to a previous wife whose marriage with him has been dissolved by any court of competent jurisdiction, there shall be allowed a deduction of the amount of such alimony or whichever is the less;
+(b) paid alimony to a previous wife whose marriage with him has been dissolved by any court of competent jurisdiction, there shall be allowed a deduction of the amount of such alimony or $2,000 whichever is the less;
 
 [Act 1/98, Wef 23/01/1998]
 
@@ -4248,9 +4328,9 @@ Deduction for alimony
 
 Deductions for payments under order or deed
 
-(c) made payments in accordance with an order of court or deed of separation to a wife from whom he was separated by such order or deed, there shall be allowed a deduction of the amount of such payments or whichever is the less:
+(c) made payments in accordance with an order of court or deed of separation to a wife from whom he was separated by such order or deed, there shall be allowed a deduction of the amount of such payments or $2,000 whichever is the less:
 
-Provided that the total deductions allowed to any individual under this paragraph and paragraphs (a) and (b) shall not exceed;
+Provided that the total deductions allowed to any individual under this paragraph and paragraphs (a) and (b) shall not exceed $2,000;
 
 [Act 1/98, Wef 23/01/1998]
 
@@ -4262,7 +4342,7 @@ Deduction for handicapped spouse
 
 (i) who was incapacitated by reason of physical or mental infirmity;
 
-(ii) whose income (other than payment of maintenance or alimony received from that individual under an order of court or deed of separation) was not more than in that year; and
+(ii) whose income (other than payment of maintenance or alimony received from that individual under an order of court or deed of separation) was not more than $2,000 in that year; and
 
 [Act 1/98, Wef 23/01/1998]
 
@@ -4298,7 +4378,7 @@ Deduction for children
 
 there shall be allowed in respect of each such child according to his age among those eligible, a deduction in accordance with the Fifth Schedule:
 
-Provided that in the case of any unmarried child incapacitated from maintaining himself by reason of physical or mental infirmity whose income was not more than in that year and in respect of whom —
+Provided that in the case of any unmarried child incapacitated from maintaining himself by reason of physical or mental infirmity whose income was not more than $2,000 in that year and in respect of whom —
 
 (A) a deduction is allowable under paragraph 1 or 3 of the Fifth Schedule, the deduction shall be increased to $3,500;
 
@@ -4343,6 +4423,10 @@ Provided that —
 [5/83]
 
 [23/90]
+
+(vii) notwithstanding sub-paragraph (iii), no deduction shall be allowed in respect of any sum contributed to the Central Provident Fund for the period on or after 1st January 1999 by an employee who holds a professional visit pass, an employment pass or a work permit;
+
+[Act 1/98, Wef 23/01/1998]
 
 [37/75]
 
@@ -4416,13 +4500,13 @@ Deduction for aged parents
 
 (ii) who was not less than 55 years of age or who was otherwise incapacitated from maintaining himself by reason of physical or mental infirmity;
 
-(iii) whose income was not more than
+(iii) whose income was not more than $2,000 in that year; and
 
 [Act 1/98, Wef 23/01/1998]
 
 [5/83]
 
-(iv) in respect of whom no deduction has been claimed by another person under paragraph (a), (b), (c) or (ca)
+(iv) in respect of whom no deduction has been claimed by another person under paragraph (a), (b), (c) or (ca) ,
 
 [Act 1/98, Wef 23/01/1998]
 
@@ -4436,15 +4520,17 @@ Deduction for aged parents
 
 [26/93]
 
+there shall be allowed in respect of each such dependant —
+
+(A) a deduction of $4,500, where the dependant was living with him in the same household; or
+
+[Act 1/98, Wef 23/01/1998]
+
+(B) a deduction of $3,500, where the dependant was not living with him in the same household but in respect of whom a sum of not less than $2,000, or such lower sum as the Comptroller may determine, was incurred in that year by the individual in maintaining the dependant:
+
+[Act 1/98, Wef 23/01/1998]
+
 Provided that a deduction under this paragraph in respect of any one dependant shall be allowed to one person only and no person may obtain a deduction under this paragraph for more than two dependants, and where more than one individual claims a deduction in respect of the same dependant, the deduction shall be allowed to such claimant as the individuals may agree or, failing such agreement, to such claimant as determined by the Comptroller whose decision shall be final;
-
-[4/75]
-
-[5/77]
-
-[2/92]
-
-[26/93]
 
 Deduction for maintenance for handicapped siblings
 
@@ -4454,7 +4540,7 @@ Deduction for maintenance for handicapped siblings
 
 (ii) who was incapacitated from maintaining himself by reason of physical or mental infirmity;
 
-(iii) whose income was not more than in that year;
+(iii) whose income was not more than $2,000 in that year;
 
 [Act 1/98, Wef 23/01/1998]
 
@@ -4464,7 +4550,7 @@ Deduction for maintenance for handicapped siblings
 
 [26/93]
 
-(v) who was living with him in the same household or in respect of whom a sum of not less than $1,500 , or such lower sum as the Comptroller may determine, was incurred in that year by the individual in maintaining the dependant,
+(v) who was living with him in the same household or in respect of whom a sum of not less than $2,000, or such lower sum as the Comptroller may determine, was incurred in that year by the individual in maintaining the dependant,
 
 [26/93]
 
@@ -4510,6 +4596,14 @@ Deduction for national servicemen
 
 (iv) where such national serviceman has more than one widow, only the widow who was nominated under sub-paragraph (iii) shall be allowed a deduction under this paragraph;
 
+(v) no deduction under this paragraph shall be allowed to a wife of such national serviceman who is not entitled to a deduction under paragraph (i) for that year of assessment; and
+
+[Act 1/98, Wef 23/01/1998]
+
+(vi) where such national serviceman dies during the basis period for any year of assessment for which he is not entitled to a deduction under paragraph (i), no deduction under this paragraph shall be allowed to his widow for that year of assessment;
+
+[Act 1/98, Wef 23/01/1998]
+
 [Act 28/96 wef Y/A 1997 & subsq. Ys/A]
 
 (k) was a parent of an operationally ready national serviceman and was a citizen of Singapore who had not made a claim under paragraph (i) or (j), there shall be allowed a deduction of $500 subject to the following provisions:
@@ -4518,7 +4612,15 @@ Deduction for national servicemen
 
 (ii) where more than 2 parents claim the deduction under this paragraph in respect of such national serviceman, the deduction in respect of such national serviceman shall be allowed to any 2 parents as such national serviceman may nominate;
 
-(iv) where a parent has more than one child who is an operationally ready national serviceman, the deduction under this paragraph shall be allowed to the parent in respect of only one such national serviceman
+(iii) where such national serviceman has died, his parents shall continue to be allowed a deduction under this paragraph, except that where he dies during the basis period for any year of assessment for which he is not entitled to a deduction under paragraph (i), his parents shall not be allowed a deduction under this paragraph for that year of assessment;
+
+[Act 1/98, Wef 23/01/1998]
+
+(iv) where a parent has more than one child who is an operationally ready national serviceman, the deduction under this paragraph shall be allowed to the parent in respect of only one such national serviceman; and
+
+(v) no deduction under this paragraph shall be allowed to a parent of an operationally ready national serviceman who is not entitled to a deduction under paragraph (i) for that year of assessment.
+
+[Act 1/98, Wef 23/01/1998]
 
 [Act 28/96 wef Y/A 1997 & subsq. Ys/A]
 
@@ -4962,7 +5064,7 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [26/93]
 
-(2) In this section and sections 43E, 43F, 43G, 43H, 43J, “approved” means approved by the Minister or such person as he may appoint.
+(2) In this section and sections 43E, 43F, 43G, 43H, 43J, 43L and 43M, “approved” means approved by the Minister or such person as he may appoint.
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -5028,6 +5130,60 @@ Provided that a company shall be deemed to be an associated company in relation 
 
 (a) the allowances under section 19, 19A, 20, 21, 22 or 23 shall be taken into account notwithstanding that no claim for such allowances has been made;
 
+(b) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of offshore finance leasing shall, subject to paragraph (c), only be deducted against the income from such leasing and any balance of the allowances shall not be available as a deduction against any other income;
+
+[Act 1/98, Wef 23/01/1998]
+
+(c) where the leasing company ceases to derive income from offshore finance leasing in the basis period for any year of assessment, any balance of the allowances after the deduction in paragraph (b) shall be available as a deduction against any other income in accordance with regulations made under subsection (3);
+
+[Act 1/98, Wef 23/01/1998]
+
+(d) the allowances under section 19, 19A, 20, 21, 22 or 23 in respect of offshore operating leasing shall firstly be deducted against the income from such leasing and any balance of the allowances shall, subject to paragraph (e), be deducted against the income from offshore finance leasing but not against any other income;
+
+[Act 1/98, Wef 23/01/1998]
+
+(e) where the leasing company ceases to derive income from offshore operating leasing in the basis period for any year of assessment, any balance of the allowances after the deduction against the income from such leasing shall be available as a deduction against any other income in accordance with regulations made under subsection (3);
+
+[Act 1/98, Wef 23/01/1998]
+
+(f) the Comptroller shall determine the manner and extent to which allowances under section 19, 19A, 20, 21, 22 or 23 and any expenses and donations allowable under this Act are to be deducted;
+
+[Act 1/98, Wef 23/01/1998]
+
+(g) any losses incurred in respect of offshore finance leasing for any year of assessment shall, subject to paragraph (h), only be deducted against the income from offshore operating leasing but not against any other income for that year of assessment and any balance of the losses shall be available for deduction for any subsequent year of assessment in accordance with section 37 firstly against the income from offshore finance leasing and thereafter against the income from offshore operating leasing;
+
+[Act 1/98, Wef 23/01/1998]
+
+(h) where the leasing company ceases to derive income from offshore finance leasing in the basis period for any year of assessment, any losses under section 37 in respect of such leasing shall firstly be deducted against the income from such leasing and any balance of the losses shall be available as a deduction against any other income in accordance with regulations made under subsection (3);
+
+[Act 1/98, Wef 23/01/1998]
+
+(i) any losses incurred in respect of offshore operating leasing for any year of assessment shall, subject to paragraph (j), only be deducted against the income from offshore finance leasing but not against any other income for that year of assessment and any balance of the losses shall be available for deduction for any subsequent year of assessment in accordance with section 37 firstly against the income from offshore operating leasing and thereafter against the income from offshore finance leasing;
+
+[Act 1/98, Wef 23/01/1998]
+
+(j) where the leasing company ceases to derive income from offshore operating leasing in the basis period for any year of assessment, any losses under section 37 in respect of such leasing shall firstly be deducted against the income from such leasing and any balance of the losses shall be available as a deduction against any other income in accordance with regulations made under subsection (3);
+
+[Act 1/98, Wef 23/01/1998]
+
+(3) The Minister may make regulations —
+
+(a) prescribing the manner and extent to which the allowances referred to in subsection (2)(c) or (e) or the losses referred to in subsection (2)(h) or (j) are to be deducted;
+
+(b) prescribing the manner and extent to which the allowance or loss referred to in subsection (7)(b) are to be deducted; and
+
+(c) generally for the determination of the income of a leasing company.
+
+[Act 1/98, Wef 23/01/1998]
+
+(4) Section 37B shall apply, with the necessary modifications, in relation to the deduction of allowances under section 19, 19A, 20, 21, 22 or 23 or losses under section 37 in respect of such part of the income of the leasing company as is subject to tax at the rate of tax under section 43(1)(a) and of such part of the income of the leasing company as is subject to tax at the concessionary rate of tax under this section; and for the purpose of such application any reference in section 37B to —
+
+(a) concessionary income shall be read as a reference to such part of the income of the leasing company as is subject to tax at the concessionary rate of tax under this section; and
+
+(b) normal income shall be read as a reference to such part of the income of the leasing company as is subject to tax at the rate of tax under section 43(1)(a).
+
+[Act 1/98, Wef 23/01/1998]
+
 (5) Notwithstanding subsection (1), a leasing company may, at any time, elect that the whole of its income accruing in or derived from Singapore in respect of offshore leasing of any machinery or plant shall be taxed at the rate prescribed by section 43(1)(a).
 
 [11/94]
@@ -5040,7 +5196,7 @@ Provided that a company shall be deemed to be an associated company in relation 
 
 (a) subsections (1) to (4) shall not apply to the income of the leasing company for the year of assessment immediately following the year in which the election is made and for subsequent years of assessment; and
 
-(b) any allowance or loss or the balance thereof which were not deducted against the income of the leasing company for any year of assessment during which the concessionary rate prescribed by subsection (1) applies shall be available as a deduction against its income for the first year of assessment to which paragraph (a) applies or for any subsequent year of assessment in such manner and extent as .
+(b) any allowance or loss or the balance thereof which were not deducted against the income of the leasing company for any year of assessment during which the concessionary rate prescribed by subsection (1) applies shall be available as a deduction against its income for the first year of assessment to which paragraph (a) applies or for any subsequent year of assessment in such manner and extent as prescribed by regulations made under subsection (3).
 
 [Act 1/98, Wef 23/01/1998]
 
@@ -5054,7 +5210,19 @@ Provided that a company shall be deemed to be an associated company in relation 
 
 (a) are in currencies other than Singapore dollars; and
 
-(b) are not deductible against any income accruing in or derived from Singapore
+(b) are not deductible against any income accruing in or derived from Singapore ;
+
+“finance lease” has the same meaning as in section 10D(3);
+
+[Act 1/98, Wef 23/01/1998]
+
+“offshore finance leasing” means the offshore leasing of any machinery or plant under any finance lease;
+
+[Act 1/98, Wef 23/01/1998]
+
+“offshore operating leasing” means the offshore leasing of any machinery or plant, other than offshore finance leasing.
+
+[Act 1/98, Wef 23/01/1998]
 
 [20/91]
 
@@ -5099,6 +5267,16 @@ and those regulations may provide for the deduction of losses otherwise than in 
 [32/95]
 
 [26/93]
+
+### Concessionary rate of tax for credit rating agency
+
+43M\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved credit rating agency derived by it from the provision of such services as may be prescribed.
+
+(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(2).
+
+(3) In this section, “credit rating agency” means a company carrying on the business in Singapore of providing credit rating services.
+
+[Act 1/98, Wef 23/01/1998]
 
 ## PART XII
 
@@ -5230,7 +5408,7 @@ a charge equal to the amount of such excess shall be paid to the Comptroller wit
 
 (i) tax assessed at the rate of 10% or such other rate as may be prescribed under section 43(3);
 
-(ii) tax assessed at the rate of 10% or such other concessionary rate as may be prescribed under section 43A , 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86]; and
+(ii) tax assessed at the rate of 10% or such other concessionary rate as may be prescribed under section 43A , 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L or 43M, or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86]; and
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -7484,11 +7662,15 @@ Child Relief
 
 (a) for the first, second and third child
 
+$2,000
+
 (b) for the fourth and fifth child if born before 1st August 1973
 
 $300
 
 (c) for the fourth child if born on or after 1st January 1988
+
+$2,000
 
 [Act 1/98, Wef 23/01/1998]
 
@@ -8342,3 +8524,8 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 January 1997 (Section 13(a), (e), (f)|
 |123.|**G.N. No. S 485/99—Income Tax Act (Amendment of First Schedule) (No. 2) Order 1999**|
 ||Date of commencement|30 September 1997|
+|124.|**Act 1 of 1998—Income Tax (Amendment) Act 1998**|
+||Date of First Reading|19 November 1997|
+|||(Bill No. 16/97 published on 20 November 1997)|
+||Date of Second and Third Readings|14 January 1998|
+||Date of commencement|23 January 1998|
