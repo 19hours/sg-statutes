@@ -272,9 +272,11 @@ then, whether or not the owner of the ship in question incurs a liability under 
 
 (2) In subsection (1)(b), “the relevant amount” means —
 
-(a) in relation to a ship not exceeding 5,000 tons, 3 millionspecial drawing rights; and
+(a) in relation to a ship not exceeding 5,000 tons, 4.51 million special drawing rights; and
 
-(b) in relation to a ship exceeding 5,000 tons, 3 million special drawing rights together with an additional 420 special drawing rights for each ton of its tonnage in excess of 5,000 tons up to a maximum amount of 59.7 million special drawing rights.
+(b) in relation to a ship exceeding 5,000 tons, 4.51 million special drawing rights together with an additional 631 special drawing rights for each ton of its tonnage in excess of 5,000 tons up to a maximum amount of 89.77 million special drawing rights.
+
+[S 486/2003 wef 01/11/2003]
 
 (3) The Authority may, with the approval of the Minister, by order published in theGazettemake such amendments to subsection (2)(a) and (b) as may be appropriate for the purpose of giving effect to the entry into force of any amendment of the limits of liability laid down in paragraph 1 of Article V of the Liability Convention.
 
@@ -666,11 +668,11 @@ the Fund may, subject to subsection (9), be exonerated wholly or partly from its
 
 28\.—(1) The Fund’s liability under section 27 shall be subject to the following:
 
-(a) subject to paragraphs (b) and (c), the aggregate amount of compensation payable by the Fund shall, in respect of any one incident, be limited, such that the total sum of that amount and the amount of compensation actually paid under section 3 for pollution damage shall not exceed 135 millionspecial drawing rights;
+(a) subject to paragraphs (b) and (c), the aggregate amount of compensation payable by the Fund shall, in respect of any one incident, be limited, such that the total sum of that amount and the amount of compensation actually paid under section 3 for pollution damage shall not exceed 203 million special drawing rights;
 
 (b) subject to paragraph (c), the aggregate amount of compensation payable by the Fund for pollution damage resulting from an exceptional, inevitable and irresistible natural phenomenon shall not exceed 135 million special drawing rights;
 
-(c) the maximum amount of compensation referred to in paragraphs (a) and (b) shall be 200 million special drawing rights with respect to any incident occurring during any period when there are 3 Fund Convention countries in respect of which the combined quantity of oil imported or received by persons in the territories of such countries, during the preceding calendar year, is not less than 600 million tons; and
+(c) the maximum amount of compensation referred to in paragraphs (a) and (b) shall be 300.74 million special drawing rights with respect to any incident occurring during any period when there are 3 Fund Convention countries in respect of which the combined quantity of oil imported or received by persons in the territories of such countries, during the preceding calendar year, is not less than 600 million tons; and
 
 (d) interest accrued on any payment made to the Court or to the Authority under section 7, if any, shall not be taken into account for the computation of the maximum compensation payable by the Fund under this section.
 
@@ -822,3 +824,5 @@ This Legislative History is provided for the convenience of users of the Merchan
 |||31 December 1998|
 |2.|**1999 Revised Edition—Merchant Shipping (Civil Liability and Compensation for Oil Pollution) Act**|
 ||Date of operation|30 December 1999|
+|3.|**G. N. No. S 486/2003—Merchant Shipping (Civil Liability And Compensation For Oil Pollution) Act (Amendment Of Limits Of Liability Under Sections 6 And 28) Order 2003**|
+||Date of commencement|1 November 2003|
