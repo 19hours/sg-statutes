@@ -742,15 +742,11 @@ CUSTODY AND REMOVAL OF PRISONERS
 
 ### Illness of prisoner
 
-45\.—(1) In case of serious illness of a prisoner (other than a prisoner referred to in subsection (2)) confined in a prison in which there is no suitable accommodation for the prisoner, any Superintendent may, on the certificate of a medical officer, make an order for his removal to a Government hospital.
+45\.—(1) In case of serious illness of a prisoner (other than a prisoner referred to in subsection (2)) confined in a prison in which there is no suitable accommodation for the prisoner, any Superintendent may, on the certificate of a medical officer, make an order for his removal to a hospital.
 
 (2) Where a prisoner confined in a prison appears to the Minister on the certificate of a registered medical practitioner to be suffering from leprosy, the Minister may, by order in writing, direct his removal to any hospital or place specified by the Director of Medical Services under section 8(2) of the Infectious Diseases Act (Cap. 137), there to be kept and treated until cured of his leprosy.
 
 (3) So long as any prisoner who has been removed to any hospital or place under subsection (2) shall remain therein, the medical officer thereof shall, at the end of every month, transmit to the Superintendent of the prison a certificate signed by him that it is in his opinion necessary that the prisoner should remain in the hospital or place.
-
-(4) In this section, “Government hospital” includes any hospital which the Minister may, by notification in theGazette, declare to be a hospital for the purposes of this section.
-
-[33
 
 ### Return to prison
 
@@ -1594,6 +1590,12 @@ This Legislative History is provided for the convenience of users of the Prisons
 ||Date of commencement|17 April 2000|
 |17.|**2000 Revised Edition—Prisons Act**|
 ||Date of operation|30 December 2000|
+|18.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 September 2001|
+|||(section 14 — Amendment of Prisons Act)|
 ## COMPARATIVE TABLE
 
 Prisons Act
