@@ -38,7 +38,7 @@
 
 - [11 Application for registration](#Application-for-registration)
 
-- [12 Claim to priority](#Claim-to-priority)
+- [12 Claim to priority of Convention application](#Claim-to-priority-of-Convention-application)
 
 - [13 Claim to priority of other overseas applications](#Claim-to-priority-of-other-overseas-applications)
 
@@ -171,6 +171,10 @@
 [**Division 4  Hours of Business of Registry**](#Division-4--Hours-of-Business-of-Registry)
 
 - [64 Hours of business and excluded days](#Hours-of-business-and-excluded-days)
+
+[**Part VA THE GENEVA ACT OF THE HAGUE AGREEMENT, ETC**](#Part-VA)
+
+- [64A Power to make provision giving effect to the Geneva Act of the Hague Agreement, etc.](#Power-to-make-provision-giving-effect-to-the-Geneva-Act-of-the-Hague-Agreement-etc)
 
 [**Part VI OFFENCES**](#Part-VI)
 
@@ -420,35 +424,53 @@ Proceedings for Registration
 
 11\. An application for registration of a design shall be filed in the prescribed manner with the Registrar, and is subject to the payment of the prescribed application fee.
 
-### Claim to priority
+### Claim to priority of Convention application
 
-12\.—(1) If —
+12\.—(1) Subject to subsection (7), where —
 
-(a) a person has filed an application for registration of a design in a Convention country (referred to in this section as the basic application); and
+(a) a person has filed an application for the registration of a design in a Convention country in respect of certain articles;
 
-(b) within 6 months after the date on which the basic application was filed, he or his successor in title files an application for registration of the design under this Act in respect of all or any of the same articles in respect of which registration was sought in the Convention country,
+(b) that application is the first application for the registration of the design to be filed in any Convention country in respect of those articles (referred to in this section as the first Convention application); and
 
-he or his successor in title may, when filing the application under this Act, claim a right of priority for the registration of the design in respect of all or any of those articles.
+(c) within 6 months after the date on which the first Convention application is filed, that person or his successor in title applies under this Act for the registration of the design in respect of all or any of those articles,
 
-(2) Where a right of priority is claimed in respect of an application for registration of a design in accordance with subsection (1), the application shall be treated, for the purpose of determining whether that or any other design is new, as filed on the date the basic application was filed.
+that person or his successor in title may, when filing the application under this Act, claim a right of priority for the registration of the design in respect of all or any of the articles for which registration was sought in the first Convention application.
 
-(3) Subsection (2) shall not be construed as excluding the power to give directions under section 5(3) in relation to the application for registration.
+(2) Where any person claims a right of priority in accordance with subsection (1) in respect of an application for the registration of a design —
 
-(4) Notwithstanding any of the provisions of this Act, where a right of priority is claimed in respect of an application for registration of a design, the application shall not be refused, and the registration of the design under this Act shall not be revoked, by reason only of the fact that the basic application has been published at any time after the filing date of the basic application.
+(a) the person shall have priority from (and including) the date on which the first Convention application was filed; and
 
-(5) Any filing of an application for protection of a design in a Convention country which is equivalent to a regular national filing under its domestic legislation or any international agreement shall be treated as giving rise to the right of priority.
+(b) the application shall be treated, for the purposes of determining whether that or any other design is new, as filed on the date on which the first Convention application was filed.
 
-(6) In subsection (5), “regular national filing” means any filing which is adequate to establish the date on which the application was filed in the Convention country, whatever the subsequent fate of the application may be.
+(3) Subsection (2) shall not be construed as excluding the power to give directions under section 5(3) in relation to the application for the registration of a design.
 
-(7) Where a subsequent application for registration of a design that was the subject of an earlier basic application was filed in the same Convention country, and —
+(4) Notwithstanding any of the provisions of this Act, where a right of priority is claimed in respect of an application for the registration of a design, the application shall not be refused, and the registration of the design under this Act shall not be revoked, by reason only of the fact that the first Convention application has been published during the period between —
 
-(a) the earlier basic application has been withdrawn, abandoned or refused, without having been laid open to public inspection and without leaving any rights outstanding; and
+(a) the date the first Convention application was filed; and
 
-(b) the earlier basic application has not yet served as a basis for claiming a right of priority,
+(b) the date the application under this Act was filed.
 
-the period of 6 months referred to in subsection (1)(b) shall be reckoned from the date on which the subsequent application was filed, and the earlier basic application may not thereafter serve as a basis for claiming the right of priority.
+(5) Any filing of an application for the registration of a design which in a Convention country is equivalent to a regular national filing, under its domestic legislation or an international agreement, shall be treated as giving rise to the right of priority.
 
-(8) The Minister may make rules as to the manner of claiming a right of priority under this section.
+(6) In subsection (5), “regular national filing” means a filing which is adequate to establish the date on which the application was filed in the Convention country, whatever may be the outcome of the application.
+
+(7) Where a subsequent application for registration of a design concerning the same subject as an earlier application is filed, whether in the same or a different Convention country, and these are the first 2 applications concerning that subject to be filed in any Convention country, the subsequent application shall be considered the first Convention application if, at the date the subsequent application is filed —
+
+(a) the earlier application has been withdrawn, abandoned or refused, without having been laid open to public inspection and without leaving any rights outstanding; and
+
+(b) the earlier application has not yet served as a basis for claiming a right of priority.
+
+(8) For the avoidance of doubt, where subsection (7) applies —
+
+(a) the date on which the subsequent application was filed, rather than that of the earlier application, shall be considered the starting date of the period of priority under subsection (2); and
+
+(b) the earlier application may not thereafter serve as a basis for claiming a right of priority.
+
+(9) The Minister may make rules as to the manner of claiming priority under this section.
+
+(10) A right to priority arising under this section may be assigned or otherwise transmitted, either with the application or independently, and the reference in subsection (1) to the applicant’s “successor in title” shall be construed accordingly.
+
+[44/2004 wef 01/01/2004]
 
 ### Claim to priority of other overseas applications
 
@@ -532,27 +554,9 @@ the Registrar determines that the application does not satisfy the formal requir
 
 ### Date of registration
 
-20\.—(1) Subject to this section, a design when registered shall be registered as of the date on which the application for registration is filed, and that date shall be deemed for the purposes of this Act to be the date of its registration.
+20\. 
 
-(2) If —
-
-(a) the application was in respect of a design whose registration had also been sought in a Convention country;
-
-(b) the applicant has a right of priority by virtue of section 12 for the registration of the design in respect of an article; and
-
-(c) the design is registered under this Act,
-
-the registration of the design in respect of that article is taken to have had effect from (and including) the date on which the application was filed in that country.
-
-(3) If —
-
-(a) the application was in respect of a design whose registration had also been sought in a country or territory in relation to which an order under section 13 was made;
-
-(b) the applicant has a right of priority by virtue of that order for the registration of the design in respect of an article; and
-
-(c) the design is registered under this Act,
-
-the registration of the design in respect of that article is taken to have had effect from (and including) the date on which the application was filed in that country or territory.
+(1) A design when registered shall be registered as of the date on which the application for registration is filed, and that date shall be deemed for the purposes of this Act to be the date of its registration.
 
 Division 4 —
 
@@ -1308,11 +1312,71 @@ Hours of Business of Registry
 
 ### Hours of business and excluded days
 
-64\.—(1) The Minister may make rules to specify the hours at which the Registry shall be taken to be closed on any day for the purposes of the transaction by the public of a business under this Act or of any class of such business, and may specify days as excluded days for any such purposes.
+64\.—(1) The Registrar may issue practice directions to specify —
 
-(2) Any business done under this Act on any day after the hour so specified in relation to business of that class, or on a day which is an excluded day in relation to business of that class, shall be taken to have been done on the next following day not being an excluded day.
+(a) the hours of business of the Registry; and
 
-(3) Where the time for doing anything under this Act expires on an excluded day, that time shall be extended to the next following day not being an excluded day.
+(b) the days which are to be treated as excluded days.
+
+(2) The Minister may prescribe the effect of doing any business under this Act —
+
+(a) on any day after the hours of business of the Registry; or
+
+(b) on any day which is an excluded day.
+
+(3) For the purposes of subsections (1) and (2) —
+
+(a) different hours of business may be specified for different classes of business;
+
+(b) different excluded days may be specified for different classes of business; and
+
+(c) different effects of doing business —
+
+(i) outside the hours of business of the Registry; or
+
+(ii) on an excluded day,
+
+may be prescribed for different classes of business.
+
+[44/2004 wef 01/01/2005]
+
+## PART VA
+
+THE GENEVA ACT OF THE HAGUE AGREEMENT, ETC
+
+[44/2004 wef 01/01/2005]
+
+### Power to make provision giving effect to the Geneva Act of the Hague Agreement, etc.
+
+64A\.—(1) The Minister may make rules to give effect in Singapore to the provisions of the Geneva Act of the Hague Agreement or of any other treaty, convention, arrangement or engagement relating to designs to which Singapore is a party.
+
+(2) Without prejudice to the generality of subsection (1), rules may, in particular, be made to provide for —
+
+(a) the procedures to be followed for the filing of applications for international registrations through the Registry;
+
+(b) the procedures to be followed where an application for international registration or the international registration fails or ceases to be in force;
+
+(c) the effects of a successful application for international registration designating Singapore as a country in which the design is to be registered;
+
+(d) the communication of information to the International Bureau; and
+
+(e) the payment of fees (including transmittal fees) and amounts prescribed in respect of applications for international registrations, corrections and renewals.
+
+(3) Provision may also be made in the rules to apply, in relation to an international design (Singapore), the provisions of section 44 and Parts IV and VI.
+
+(4) In this section —
+
+“Geneva Act of the Hague Agreement” means the Act, signed at Geneva on 2nd July 1999, of the Hague Agreement Concerning the International Registration of Industrial Designs;
+
+“International Bureau” means the International Bureau of the World Intellectual Property Organisation;
+
+“international design (Singapore)” means —
+
+(a) a design which is entitled to protection in Singapore under the Geneva Act of the Hague Agreement; or
+
+(b) a design prescribed by the Minister as an international design (Singapore);
+
+“international registration” means the international registration of an industrial design effected according to the Geneva Act of the Hague Agreement.
 
 ## PART VI
 
@@ -1440,7 +1504,15 @@ MISCELLANEOUS AND GENERAL PROVISIONS
 
 (j) prescribing time limits for doing anything required to be done in connection with any proceedings or matters under this Act;
 
-(k) providing for the extension of any time limit so prescribed or specified by the Registrar, whether or not it has already expired; and
+(k) providing for the extension of any time limit so prescribed or specified by the Registrar, whether or not it has already expired;
+
+(ka) providing for the publication of the practice directions issued by the Registrar;
+
+[44/2004 wef 01/01/2005]
+
+(kb) providing for the publication of the forms to be used for any purpose relating to the registration of a design or any other proceedings or matters before the Registrar; and
+
+[44/2004 wef 01/01/2005]
 
 (l) providing for the publication and sale of documents by the Registry and of information about such documents.
 
@@ -1635,3 +1707,8 @@ This Legislative History is provided for the convenience of users of the Registe
 |||(Bill No. 20/2004 published on 20 May 2004)|
 ||Date of Second and Third Readings|15 June 2004|
 ||Date of commencement|1 July 2004|
+|6.|**Act 44 of 2004—Registered Designs (Amendment) Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 42/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 January 2005|
