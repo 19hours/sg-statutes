@@ -78,7 +78,9 @@ REVISED EDITION 1998
 
 (30th May 1998)
 
-An Act to give effect to the Agreement on Government Procurementand for purposes connected therewith.
+An Act to give effect to the Agreement on Government Procurement and other international obligations of Singapore relating to procurements by the Government and public authorities, and for purposes connected therewith.
+
+[28/2004 wef 01/09/2004]
 
 [13th May 2002]
 
@@ -120,11 +122,15 @@ PRELIMINARY
 
 “relevant State” means a country or territory declared, by order made under section 3, as a relevant State for the purposes of this Act;
 
-“relevant supplier” means a supplier —
+“relevant supplier”, in relation to a procurement subject to the Act, means —
 
-(a) who is a national of Singapore or a relevant State; or
+(a) a supplier who is a national of Singapore or of a relevant State that is specified as one to which that procurement relates in the order made under section 4(2) declaring that procurement as one subject to the Act;
 
-(b) which is a company or association or body of persons, corporate or unincorporate, which is formed under the laws of Singapore or a relevant State and has its principal place of business in Singapore or a relevant State;
+(b) a supplier which is a company or an association or a body of persons, corporate or unincorporate, which is formed under the laws of Singapore or such relevant State and has its principal place of business in Singapore or such relevant State; or
+
+(c) a supplier, or supplier within a class of suppliers, specified under that order as a relevant supplier or class of relevant suppliers in relation to that procurement;
+
+[28/2004 wef 01/09/2004]
 
 “supplier” means a person who sought, or who seeks, or who would have wished, to be the person to whom a contract of procurement, being a procurement subject to the Act, is awarded;
 
@@ -160,6 +166,14 @@ PRELIMINARY
 
 (d) the effect of an exclusion referred to in paragraph (c).
 
+(5) An order made under subsection (2) —
+
+(a) shall specify that the procurement is a procurement subject to the Act in relation to all relevant States or a specified relevant State; and
+
+(b) may specify any supplier or class of suppliers as a relevant supplier or class of relevant suppliers in relation to that procurement for the purposes of paragraph (c) of the definition of “relevant supplier” in section 2.
+
+[28/2004 wef 01/09/2004]
+
 ### Certification by Minister
 
 5\.—(1) The Minister may issue a certificate certifying that a particular procurement is not a procurement subject to the Act by virtue of section 4(4)(b).
@@ -174,7 +188,9 @@ REGULATIONS GOVERNING PROCUREMENT
 
 ### Power to make regulations
 
-6\.—(1) The Minister may, for the purposes of implementing the Agreement on Government Procurement, make regulations to govern procurements subject to the Act.
+6\.—(1) The Minister may, for the purposes of implementing the Agreement on Government Procurement and other international obligations of Singapore relating to procurements by the Government and public authorities, make regulations to govern procurements subject to the Act.
+
+[28/2004 wef 01/09/2004]
 
 (2) Without prejudice to the generality of subsection (1), the regulations may prescribe —
 
@@ -182,9 +198,13 @@ REGULATIONS GOVERNING PROCUREMENT
 
 (b) the procedure for qualification of suppliers for a procurement;
 
-(c) the procedure for the award of a procurement contract and the procedure following such award; and
+(c) the procedure for the award of a procurement contract and the procedure following such award;
 
-(d) the provision of any information pertaining to a procurement.
+(d) the provision of any information pertaining to a procurement; and
+
+(e) different provisions for different procurements.
+
+[28/2004 wef 01/09/2004]
 
 ### Duty of contracting authority
 
@@ -192,9 +212,11 @@ REGULATIONS GOVERNING PROCUREMENT
 
 (2) The duty of a contracting authority referred to in subsection (1) is a duty owed to —
 
-(a) relevant suppliers; and
+(a) relevant suppliers in relation to that procurement; and
 
 (b) such other supplier or class of suppliers as the Minister may, by order published in theGazette, declare.
+
+[28/2004 wef 01/09/2004]
 
 (3) A breach of a duty referred to in subsection (1) shall not be the subject of any proceedings in any court but may be the subject of a challenge brought before the Tribunal by a supplier to whom the duty is owed and who has suffered, or reasonably risks suffering, loss or damage as a result of the breach.
 
@@ -305,6 +327,10 @@ shall complete the hearing and dispose of the proceeding.
 (2) For the purposes of subsection (1), the Tribunal shall declare a challenge invalid if —
 
 (a) the procurement which is the subject of the challenge is not a procurement subject to the Act;
+
+(aa) the regulation made under section 6 which the contracting authority concerned is alleged to have breached is inapplicable to the procurement which is the subject of the challenge;
+
+[28/2004 wef 01/09/2004]
 
 (b) the regulation made under section 6 which the contracting authority concerned is alleged to have breached is inapplicable, by virtue of an order made under section 4, to the procurement or the act or measure in relation to a procurement, which is the subject of the challenge;
 
@@ -498,3 +524,9 @@ This Legislative History is provided for the convenience of users of the Governm
 |||(Bill No. 14/97 published on 8 October 1997)|
 ||Date of Second and Third Readings|19 November 1997|
 ||Date of commencement|13 May 2002|
+|4.|**Act 28 of 2004—Statutes (Miscellaneous Amendments) (No. 2) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 June 2004|
+|||(Bill No. 27/2004 published on 16 June 2004)|
+||Date of Second and Third Readings|20 July 2004|
+||Date of commencement|1st September 2004 (Section 4 –– of Government Procurement Act)|
