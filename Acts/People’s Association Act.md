@@ -30,7 +30,7 @@
 
 - [12 Annual report](#Annual-report)
 
-- [13 Bank account of Association](#Bank-account-of-Association)
+- [13 Bank accounts and application of funds](#Bank-accounts-and-application-of-funds)
 
 - [14 Accounts and audit](#Accounts-and-audit)
 
@@ -110,9 +110,17 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 (a) the persons mentioned in section 5(1)(a) to (c); and
 
-(b) four members to be elected from among themselves by the persons mentioned in section 5(1)(d) at every annual general meeting of the Association.
+(b) four members to be elected from among themselves by the persons mentioned in section 5(1)(d) at a general meeting of the Association.
+
+[Act 5 of 1993 wef 12/03/1993]
 
 (2) The Secretary-Treasurer of the Association shall be the Secretary-Treasurer of the Board.
+
+(3) Members of the Board elected under subsection (1)(b) shall hold office for a period of 3 years from the date of their election and shall be eligible for re-election:
+
+Provided that the term of office of such a member of the Board shall cease upon the revocation of his appointment as a member of the Association under section 7(1), or if his appointment as a member of the Association has expired and has not been renewed under section 7(2).
+
+[Act 5 of 1993 wef 12/03/1993]
 
 ### Letters of appointment
 
@@ -124,9 +132,13 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 8\.—(1) The Board may meet as often as it considers necessary, but it shall in any case meet at least once in 3 months to discuss the management and affairs of the Association.
 
-(2) General meetings of the Association may be held as often as the Board considers necessary, but the Board shall in any case convene an annual general meeting before the close of each year.
+(2) General meetings of the Association may be held as often as the Board considers necessary, but the Board shall in any case convene a general meeting once in every 3 years.
 
-(3) The Board shall cause a notice of every general meeting and of every annual general meeting of the Association to be sent to all members of the Association. The notice shall specify the date, time and place for the holding of the meeting and the business to be transacted thereat. At least 7 days’ notice of every general meeting and of every annual general meeting shall be given to the members, and shall be deemed to have been received if posted by ordinary mail or despatched by messenger to the address of the member as stated in the records of the Association.
+[Act 5 of 1993 wef 12/03/1993]
+
+(3) The Board shall, before the holding of a general meeting of the Association, cause a notice to be sent to all members of the Association giving them at least 7 days’ notice of the holding of the general meeting, and specifying the date, time and place of the meeting and the business to be transacted thereat, and such notice shall be deemed to have been received by a member if sent by ordinary post or despatched by messenger to the address of the member as stated in the records of the Association.
+
+[Act 5 of 1993 wef 12/03/1993]
 
 (4) The Chairman shall preside at all meetings of the Association and of the Board and shall have the right to vote on any question coming before or arising at any meeting of the Association or of the Board.
 
@@ -172,7 +184,9 @@ and any person appointed under paragraph (a) or (b) shall hold office for so lon
 
 (e) receive fees from persons participating in recreational activities organised by the Association, contributions from the Government and from other sources and raise funds by all lawful means to carry out the purposes of this Act, and moneys so received or raised shall be administered in accordance with the provisions of this Act;
 
-(f) manage or run community centres, youth clubs, boys’ clubs and girls’ clubs;
+(f) manage or run community centres, clubs, institutes and such other bodies as the Board thinks fit;
+
+[Act 5 of 1993 wef 12/03/1993]
 
 (g) assist other bodies by contributions or otherwise to promote recreational activities for children, young persons and adults;
 
@@ -190,21 +204,71 @@ and any person appointed under paragraph (a) or (b) shall hold office for so lon
 
 ### Annual report
 
-12\. The Board shall, as soon as possible after the close of each financial year, submit to the Association at a general meeting or at the annual general meeting an annual report on the activities of the Association during that year for the adoption of the report at the meeting.
+12\. The Secretary-Treasurer of the Board shall, as soon as practicable after the end of each financial year, submit to the Board a report of the activities of the Association during that financial year.
 
-### Bank account of Association
+[Act 5 of 1993 wef 12/03/1993]
 
-13\.—(1) All moneys belonging to the Association shall be deposited in a bank in the name of the Association.
+### Bank accounts and application of funds
 
-(2) All cheques drawn upon the bank account of the Association shall be signed by any two members of the Board who may be nominated by the Board for the purpose.
+13\.—(1) The Board may deposit all moneys belonging to the Association in such account or accounts which it may open with —
+
+(a) any bank or banks licensed under the Banking Act (Cap. 19); or
+
+(b) any finance company or companies licensed under the Finance Companies Act (Cap. 108).
+
+(2) The account or accounts in which the moneys belonging to the Association are to be deposited may be opened in the name of —
+
+(a) the Association; or
+
+(b) the management committee or any other approved constituent committee of any community centre, club, institute or other body managed or run by the Board.
+
+(3) Every bank account kept under this section shall be operated upon as far as practicable by cheque signed by —
+
+(a) in the case of a bank account opened in the name of the Association, two members of the Board who may from time to time be authorised in that behalf by the Board; or
+
+(b) in the case of a bank account opened in the name of the management committee or any other approved constituent committee of a community centre, club, institute or other body managed or run by the Board, two members of the management committee or approved constituent committee of the community centre, club, institute or other body who may from time to time be authorised in that behalf by the Board.
+
+(4) The Board may, from time to time, invest any of the funds of the Association not immediately required for carrying out the objects of the Association in such securities which trustees may by any written law for the time being in force be authorised to invest trust moneys in.
+
+[Act 5 of 1993 wef 12/03/1993]
 
 ### Accounts and audit
 
-14\.—(1) The Board shall keep proper accounts and other records of the Association and shall prepare in respect of each financial year a statement of accounts.
+14\.—(1) The financial year of the Association shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
-(2) The accounts of the Association shall be audited by such auditors as are appointed annually by the Board.
+(2) The Board shall cause proper accounts and records of the transactions and affairs of the Association to be kept and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Association, and over the expenditure incurred by the Association.
 
-(3) So soon as the accounts of the Association have been audited in accordance with subsection (2), the statement of accounts together with any report made by the auditors shall be submitted by the Board to the Association at a general meeting or at the annual general meeting for the adoption of the statement of accounts and report at the meeting.
+(3) The Board shall, as soon as practicable after the close of each financial year, prepare and submit to the auditor of the Association, financial statements in respect of that financial year.
+
+(4) The accounts of the Association shall be audited by the Auditor-General or by an auditor appointed annually by the Board in consultation with the Auditor-General.
+
+(5) A person shall not be qualified for appointment as an auditor under subsection (4) unless he is an approved company auditor under the Companies Act (Cap. 50).
+
+(6) The remuneration of the auditor of the Association shall be paid out of the funds of the Association.
+
+(7) The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Association.
+
+(8) The auditor shall in his report state —
+
+(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Association;
+
+(b) whether proper accounting and other records have been kept, including records of all assets of the Association whether purchased, donated or otherwise;
+
+(c) whether the receipts, expenditure and investment of moneys, and the acquisition and disposal of assets by the Association during the financial year were in accordance with the provisions of this Act; and
+
+(d) such other matters arising from the audit as he considers should be reported.
+
+(9) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Deputy Chairman, and shall also submit such periodical and special reports to the Deputy Chairman as may appear to him to be necessary or as the Deputy Chairman may require.
+
+(10) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
+
+(11) Any person who without reasonable excuse fails to comply with any requirement of the auditor under subsection (10) or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+(12) As soon as the accounts of the Association and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Secretary-Treasurer of the Board, together with a copy of the auditor’s report, shall be submitted to the Deputy Chairman.
+
+(13) Where the Auditor-General is not the auditor of the Association, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Deputy Chairman.
+
+[Act 5 of 1993 wef 12/03/1993]
 
 ### Association’s symbol
 
@@ -697,3 +761,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|24 June 1992|
 |28.|**G.N. No. S 496/92—People’s Association Act (Amendment of First Schedule) (No. 5) Notification 1992**|
 ||Date of commencement|13 October 1992|
+|29.|**Act 5 of 1993—People’s Association (Amendment) Act 1993**|
+||Date of First Reading|16 November 1992|
+|||(Bill No. 41/92 published on 17 November 1992)|
+||Date of Second and Third Readings|18 January 1993|
+||Date of commencement|12 March 1993|
