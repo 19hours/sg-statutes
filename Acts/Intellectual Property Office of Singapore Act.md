@@ -56,6 +56,8 @@
 
 - [19 Power to borrow](#Power-to-borrow)
 
+- [19A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [20 Other financial provisions](#Other-financial-provisions)
 
 [**Part VI TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES**](#Part-VI)
@@ -131,6 +133,9 @@ I assent.
 S R NATHAN,
 
 President.
+
+
+
 
 12th March 2001.
 
@@ -407,6 +412,12 @@ FINANCIAL PROVISIONS
 (b) a charge, whether legal or equitable, on any property vested in the Office or on any other revenue receivable by the Office under this Act or any other written law; or
 
 (c) the creation and issue of debentures or bonds.
+
+### Issue of shares, etc.
+
+19A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Office under this Act, or of any capital injection or other investment by the Government in the Office in accordance with any written law, the Office shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Other financial provisions
 
