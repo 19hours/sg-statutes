@@ -26,7 +26,7 @@
 
 - [8A Group representation constituencies](#Group-representation-constituencies)
 
-- [9 Polling districts and polling stations](#Polling-districts-and-polling-stations)
+- [9 Polling districts](#Polling-districts)
 
 [**Part II REGISTRATION OF ELECTORS AND REVISION OF REGISTERS**](#Part-II)
 
@@ -37,6 +37,8 @@
 - [12 Appeals to Revising Officer](#Appeals-to-Revising-Officer)
 
 - [13 Certification of registers](#Certification-of-registers)
+
+- [13A Registration as overseas elector](#Registration-as-overseas-elector)
 
 - [14 Revision of registers](#Revision-of-registers)
 
@@ -55,6 +57,8 @@
 - [20A Redistribution of polling districts, etc.](#Redistribution-of-polling-districts-etc)
 
 - [21 Penalty for false statements and wrongful claims](#Penalty-for-false-statements-and-wrongful-claims)
+
+- [21A Use of registers of electors](#Use-of-registers-of-electors)
 
 [**Part III ELECTIONS**](#Part-III)
 
@@ -100,11 +104,15 @@
 
 - [36 Presiding officers](#Presiding-officers)
 
+- [36A Polling places and polling stations](#Polling-places-and-polling-stations)
+
 - [37 Facilities to be provided at polling stations](#Facilities-to-be-provided-at-polling-stations)
 
 - [38 Registers of electors to be conclusive evidence of right to vote](#Registers-of-electors-to-be-conclusive-evidence-of-right-to-vote)
 
 - [39 Admittance to polling station](#Admittance-to-polling-station)
+
+- [39A Voting by overseas electors](#Voting-by-overseas-electors)
 
 - [40 Poll by ballot and ballot papers](#Poll-by-ballot-and-ballot-papers)
 
@@ -128,7 +136,19 @@
 
 - [49 Counting votes](#Counting-votes)
 
+- [49A Counting of votes by overseas electors](#Counting-of-votes-by-overseas-electors)
+
+- [49B Recounting of votes](#Recounting-of-votes)
+
 - [50 Votes to be rejected](#Votes-to-be-rejected)
+
+- [50A Approval of DRE voting systems](#Approval-of-DRE-voting-systems)
+
+- [50B Approval of DRE voting machines and equipment](#Approval-of-DRE-voting-machines-and-equipment)
+
+- [50C Pre-poll testing of DRE voting system, etc.](#Pre-poll-testing-of-DRE-voting-system-etc)
+
+- [50D DRE voting system procedures generally](#DRE-voting-system-procedures-generally)
 
 - [51 Publication of result and statement of poll inGazette](#Publication-of-result-and-statement-of-poll-inGazette)
 
@@ -294,9 +314,35 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
+“ballot box” includes a ballot container;
+
+[19/2001 wef 15/05/2001]
+
+“ballot display” means an electronic video display, image or representation of a ballot paper on a screen;
+
+[19/2001 wef 15/05/2001]
+
 “candidate” means a person who is nominated as a candidate for election to any seat in Parliament;
 
 “Commissioner of National Registration” means the Commissioner of National Registration appointed under the National Registration Act (Cap. 201);
+
+“direct recording electronic voting machine” or “DRE voting machine” means any mechanical, electronic or electro-optical machine that can —
+
+(a) be activated by a voter to mark or record his vote for any candidate or group of candidates on a ballot display on the machine;
+
+(b) process the vote by means of a computer program;
+
+(c) instantaneously record and store that vote within a memory device within the machine; and
+
+(d) sort and count votes marked or recorded on all ballot displays on that machine,
+
+and includes any computer program that is used in the operation of the machine;
+
+[19/2001 wef 15/05/2001]
+
+“direct recording electronic voting system” or “DRE voting system” means any voting system using DRE voting machines;
+
+[19/2001 wef 15/05/2001]
 
 “election” means an election for the purpose of electing a Member of Parliament;
 
@@ -312,11 +358,35 @@ PRELIMINARY
 
 “Member” means a Member of Parliament;
 
+“overseas elector” means an elector who is registered under section 13 or 13A in any register of electors as an overseas elector;
+
+[19/2001 wef 15/05/2001]
+
+“overseas polling station” means such premises within an embassy, High Commission, diplomatic mission or consulate of Singapore situated in any territory outside Singapore as the Returning Officer approves under section 36A(2) to be an overseas polling station;
+
+[19/2001 wef 15/05/2001]
+
+“overseas registration centre” means an overseas registration centre established under section 10(4);
+
+[19/2001 wef 15/05/2001]
+
 “Parliament” means the Parliament of Singapore established by the Constitution;
 
 “polling district” means a part of an electoral division subdivided under section 9;
 
+“polling station” means any polling station established by or under the authority of the Returning Officer under section 36A for voters to cast their votes at an election, and includes any overseas polling station;
+
+[19/2001 wef 15/05/2001]
+
+“presidential election” means an election under the Presidential Elections Act (Cap. 240A);
+
+[19/2001 wef 15/05/2001]
+
 “principal election agent” means an election agent of a candidate in a group who has been appointed under section 62(5) as the principal election agent for that group;
+
+“public authority” means any body corporate, board or authority established by or under any written law for the performance of any public function, but excludes any Town Council constituted under the Town Councils Act (Cap. 329A);
+
+[19/2001 wef 15/05/2001]
 
 “register” or “register of electors” means the register of electors for any particular electoral division comprising sections, each of which shall relate to a polling district of that electoral division;
 
@@ -360,19 +430,39 @@ shall be entitled to have his name entered or retained in a register of electors
 
 [42/96]
 
+(1A) For the purposes of subsection (1)(b), a person shall be deemed to be ordinarily resident in Singapore on the prescribed date in a year if, on that date —
+
+(a) the person is not resident in Singapore but has resided in Singapore for an aggregate of 2 years during the period of 5 years immediately preceding the prescribed date; or
+
+(b) the person is —
+
+(i) a member of the Singapore Armed Forces on full-time training or service outside Singapore;
+
+(ii) a public officer or an employee of any public authority employed in full-time service outside Singapore;
+
+(iii) a public officer or an employee of a public authority on full-time training outside Singapore;
+
+(iv) a citizen of Singapore of not less than 21 years of age on full-time training outside Singapore that is sponsored by the Government or any public authority;
+
+(v) employed outside Singapore by an international organisation of which Singapore is a member or by any other body or organisation designated by the President under Article 135(1)(c)(ii) of the Constitution of the Republic of Singapore; or
+
+(vi) the spouse or a parent, child or dependent of any person referred to in sub-paragraph (i), (ii), (iii), (iv) or (v) and is living with that person.
+
+[19/2001 wef 15/05/2001]
+
 (2) For the purposes of the preparation or revision of any register of electors after 12th November 1954, a person who is a citizen of Singapore and to whom an identity card has been issued or deemed to have been issued on or before the prescribed date in any year under the provisions of the National Registration Act (Cap. 201) and has not been withdrawn shall, until the contrary be shown, be presumed —
 
 (a) to be ordinarily resident in Singapore on the prescribed date in that year;
 
 (b) to be not less than 21 years of age on the prescribed date in that year, if from the particulars recorded in the register maintained by the Commissioner of National Registration he appears to be not less than that age on that date; and
 
-(c) to reside in the electoral division and polling district of the electoral division in which is situated the latest address shown in the register maintained by the Commissioner of National Registration.
+(c) to reside in the electoral division and polling district of the electoral division in which is situated the latest address shown on the prescribed date in the register maintained by the Commissioner of National Registration.
 
 [42/96]
 
-(3) Notwithstanding subsection (2), the Registration Officer may, in preparing or revising any register of electors, omit therefrom the name of any person where he has reason to believe that the latest address of the person shown in the register maintained by the Commissioner of National Registration has ceased to exist or to be used as a place of residence .
+(3) Notwithstanding subsection (2), the Registration Officer may, in preparing or revising any register of electors, omit therefrom the name of any person where he has reason to believe that the latest address of the person shown on the prescribed date in the register maintained by the Commissioner of National Registration has ceased to exist or to be used as a place of residence or is an address situated outside Singapore.
 
-(4) For the purposes of subsections (1)and (2), the prescribed date shall be 1st July or such other date as the Minister may, by order published in theGazette, specify.
+(4) For the purposes of subsections (1), (1A) and (2), the prescribed date shall be 1st July or such other date as the Minister may, by order published in theGazette, specify.
 
 [42/96]
 
@@ -380,13 +470,17 @@ shall be entitled to have his name entered or retained in a register of electors
 
 [42/96]
 
+(6) For the purposes of this section, the contact address of the holder of an identity card referred to in section 8(2) of the National Registration Act (Cap. 201) shall be regarded as his latest address in the register maintained by the Commissioner of National Registration.
+
+[19/2001 wef 15/05/2001]
+
 ### Disqualification of electors
 
 6\.—(1) No person shall be entitled to have his name entered or retained in any register of electors if he —
 
 (a) has taken any oath or made any declaration or acknowledgment of allegiance, obedience or adherence to any foreign power or state or does, concurs in or adopts any act done with the intention that he shall become a subject or citizen of any foreign power or state or is the holder of a passport issued by any foreign power or state;
 
-(b) is serving a sentence of imprisonment (by whatever name called) imposed by any court in Singapore or in Malaysia or any other part of the Commonwealth, for an offence punishable with imprisonment for a term exceeding 12 months, or is under sentence of death imposed by any such court or is serving a sentence of imprisonment awarded in lieu of execution of any such sentence;
+(b) is serving a sentence of imprisonment (by whatever name called) imposed by any court in or outside Singapore for an offence punishable with imprisonment for a term exceeding 12 months, or is under sentence of death imposed by any such court or is serving a sentence of imprisonment awarded in lieu of execution of any such sentence;
 
 (c) is under any written law found or declared to be of unsound mind;
 
@@ -396,19 +490,39 @@ shall be entitled to have his name entered or retained in a register of electors
 
 (f) is a person whose name is entered on a register of electors in any other country or territory;
 
-(g) is a person whose name has been expunged from the register under sections 13(3) and 43(5) and whose name has not been restored to the register under section 43(8); or
+(g) is a person whose name has been expunged from the register under sections 13(3) and 43(5) and whose name has not been restored to the register under section 43(8) or (8A), as the case may be; or
 
 (h) is a person whose name has been expunged from the register of electors under section 26(5) of the Presidential Elections Act and whose name has not been restored to the register under section 26(8) of that Act.
 
 [27/91; 18/94]
 
-(2) For the purposes of subsection (1)(b), where the conviction is by a court of law in Malaysia or any other part of the Commonwealth, the person shall not be so disqualified unless the offence is also one which, had it been committed in Singapore, would have been punishable by a court of law in Singapore.
+(1A) Without prejudice to subsection (1), no person who is deemed to be ordinarily resident in Singapore under section 5(1A) shall be entitled to have his name entered or retained in any register of electors if he is —
+
+(a) serving a sentence of imprisonment (by whatever name called) in any prison, jail or other place of detention outside Singapore;
+
+(b) accused of an offence against any written law punishable with imprisonment for a term exceeding 12 months and a warrant of arrest by a court in Singapore authorising his apprehension in relation to that offence remains in force; or
+
+(c) convicted by any court in Singapore of any offence punishable with imprisonment for a term exceeding 12 months and a warrant of arrest by a court in Singapore authorising his apprehension in relation to that offence remains in force.
+
+[19/2001 wef 15/05/2001]
+
+(2) For the purposes of subsection (1)(b), where the conviction is by a court of law outside Singapore, the person shall not be so disqualified unless the offence is also one which, had it been committed in Singapore, would have been punishable by a court of law in Singapore.
 
 ### Plural voting
 
 7\.—(1) Subject to the provisions of this Act, a person shall be entitled to have his name entered in the register of one electoral division only.
 
-(2) If any person at any election votes in any electoral division other than that in which he is registered, he shall be guilty of an illegal practice.
+(2) Any person who votes as an elector —
+
+(a) in or in respect of an electoral division other than the electoral division in which he is registered;
+
+(b) more than once at any election in or in respect of the same electoral division in which he is registered as an elector; or
+
+(c) in or in respect of more than one electoral division at any general election,
+
+shall be guilty of an illegal practice.
+
+[19/2001 wef 15/05/2001]
 
 (3) The court before which a person is convicted under subsection (2) may, in its discretion in the circumstances of any particular case, mitigate or remit any penalty or incapacity which may be imposed in respect thereof under section 79.
 
@@ -448,7 +562,7 @@ shall be entitled to have his name entered or retained in a register of electors
 
 [10/88]
 
-### Polling districts and polling stations
+### Polling districts
 
 9\.—(1) Whenever any electoral division of Singapore is altered or a new division is created, the Registration Officer shall —
 
@@ -466,8 +580,6 @@ shall be entitled to have his name entered or retained in a register of electors
 
 (2A) Any alteration under subsection (1) shall come into effect on the date of the publication of the notice under section 20(1) relating to the next certification of the register of electors for that electoral division, but the revision of the register before such certification shall be made on the basis of that alteration.
 
-(3) The Returning Officer shall provide as many polling stations for a polling district as are in his opinion sufficient for that polling district and may, in his discretion, provide as many polling places within each polling station as he considers necessary.
-
 ## PART II
 
 REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
@@ -480,7 +592,11 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (2) For the purpose of satisfying himself as to the qualification of any elector, the Registration Officer may make such enquiry as he may consider necessary.
 
-(3) On the completion of the register for any electoral division, the Registration Officer shall give notice in theGazettethat the register is completed and that the register or a copy thereof is open for inspection at all reasonable hours in the office of the Registration Officer and at such other place or places in the division as may be specified in the notice.
+(3) On the completion of the register for any electoral division, the Registration Officer shall give notice in theGazettethat the register is completed and that the register or a copy thereof is open for inspection at all reasonable hours in the office of the Registration Officer and at such other place or places in or near the electoral division and at such overseas registration centres as may be specified in the notice.
+
+(4) The Registration Officer may, for the purpose of registering persons as overseas electors, establish such number of overseas registration centres as he considers practicable in any embassy, High Commission, diplomatic mission or consulate of Singapore situated in any territory outside Singapore.
+
+[19/2001 wef 15/05/2001]
 
 ### Claims and objections
 
@@ -488,7 +604,11 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (2) Every claim under subsection (1) shall be in writing and shall be in the Form 3 in the First Schedule and shall reach the Registration Officer within 2 weeks from the date of publication in theGazetteof the notice of completion of the register.
 
-(2A) Within 21 days from the expiry of the period of 2 weeks referred to in subsection (2), the Registration Officer shall exhibit notices containing the names and addresses of the claimants (if any) at the place or places within the electoral division in which those claimants reside specified in the notice mentioned in section 10(3).
+(2A) Within 21 days from the expiry of the period of 2 weeks referred to in subsection (2), the Registration Officer shall exhibit notices containing the names and addresses of the claimants (if any) at the place or places in or near the electoral division in which those claimants reside and at the overseas registration centres specified in the notice mentioned in section 10(3).
+
+(2B) A claim under subsection (1) may be made at an overseas registration centre and be accompanied by the claimant’s application to be registered as an overseas elector made in accordance with section 13A.
+
+[19/2001 wef 15/05/2001]
 
 (3) Any person whose name appears in the register for any electoral division may object to the inclusion in the register of his own name or the name of any other person appearing therein or may object to the insertion in the register of the name of any claimant.
 
@@ -508,7 +628,7 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (9A) At any such public inquiry, any person appearing to the Registration Officer to be interested in or affected by the subject-matter of the inquiry may appear and be heard either by himself or by any other person duly authorised by him in writing in that behalf.
 
-(9B) Notwithstanding subsection (9), the Registration Officer may, without any public inquiry, allow any claim in respect of which no objection has been made if he is otherwise satisfied that the claim should be allowed and shall insert the claimant’s name in the register .
+(9B) Notwithstanding subsection (9), the Registration Officer may, without any public inquiry, allow any claim in respect of which no objection has been made if he is otherwise satisfied that the claim should be allowed and shall insert the claimant’s name in the register and, where applicable, register the person as an overseas elector.
 
 (10) Where an objection is made to the inclusion or insertion of any name in the register, the Registration Officer shall call upon the objector, or some person authorised in writing in that behalf by the objector, to give prima facie proof of the ground of the objection.
 
@@ -516,7 +636,7 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (a) if the person’s entitlement is not proved to the Registration Officer’s satisfaction, he shall expunge that person’s name from or, as the case may be, refuse to insert that person’s name in the register;
 
-(b) if the person’s entitlement is so proved, he shall retain that person’s name or, as the case may be, insert that person’s name in the register .
+(b) if the person’s entitlement is so proved, he shall retain that person’s name or, as the case may be, insert that person’s name in the register and, where applicable, register the person as an overseas elector.
 
 (12) If, on the date fixed for inquiry into any objection, the objector or a person authorised in writing in that behalf by the objector fails to appear, or appears but fails to give such prima facie proof, then —
 
@@ -526,7 +646,7 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (i) if the claimant’s entitlement is not proved to the Registration Officer’s satisfaction, he shall refuse to insert the claimant’s name in the register; or
 
-(ii) if the claimant’s entitlement is so proved, he shall insert the claimant’s name in the register .
+(ii) if the claimant’s entitlement is so proved, he shall insert the claimant’s name in the register and, where applicable, register the person as an overseas elector.
 
 (13) If an objection is made and is overruled by the Registration Officer and, in his opinion, the objection was made without reasonable cause, the Registration Officer may if he thinks fit order in writing the objector to pay to the person in regard to whom objection has been made such sum not exceeding $50 as the Registration Officer considers reasonable compensation for any loss of time incurred by the person in consequence of the objection.
 
@@ -586,6 +706,54 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (7) Where a writ of election has been issued under section 24 for an election in any electoral division, the Registration Officer shall not enter any name in the register of that division under subsection (6)(b) until after nomination day or, if a poll is to be taken, until after polling day.
 
+### Registration as overseas elector
+
+13A\.—(1) Any person who is entitled to have his name entered or retained in any register of electors for an electoral division and who —
+
+(a) is not resident in Singapore but has resided in Singapore for an aggregate of 2 years during the period of 5 years immediately preceding the prescribed date referred to in section 5; or
+
+(b) is —
+
+(i) a member of the Singapore Armed Forces on full-time training or service outside Singapore;
+
+(ii) a public officer or an employee of any public authority employed in full-time service outside Singapore;
+
+(iii) a public officer or an employee of a public authority on full-time training outside Singapore;
+
+(iv) a citizen of Singapore of not less than 21 years of age on full-time training outside Singapore that is sponsored by the Government or any public authority;
+
+(v) employed outside Singapore by an international organisation of which Singapore is a member or by any other body or organisation designated by the President under Article 135(1)(c)(ii) of the Constitution of the Republic of Singapore; or
+
+(vi) the spouse or a parent, child or dependent of any person referred to in sub-paragraph (i), (ii), (iii), (iv) or (v) and is living with that person,
+
+may, not later than 21 days after the date of publication in theGazetteof the notice under section 10(3) or 15(2), as the case may be, of the notice of completion of the register, apply to the Registration Officer to be registered as an overseas elector for an electoral division at —
+
+(A) any place in or near the electoral division specified in that notice; or
+
+(B) any overseas registration centre.
+
+(2) An application under subsection (1) by any person to be registered as an overseas elector shall be accompanied by —
+
+(a) satisfactory proof of his identity;
+
+(b) particulars of the date he left Singapore and his current mailing address outside Singapore;
+
+(c) a declaration that he is a citizen of Singapore and is not less than 21 years of age;
+
+(d) a statement specifying the overseas polling station he desires to vote at in an election; and
+
+(e) any other information as the Registration Officer considers necessary to determine the person’s entitlement to have his name entered in a register or the electoral division in or in respect of which he may vote.
+
+(3) Notwithstanding anything to the contrary in section 13, the Registration Officer may, on receipt of any application under subsection (1), before or at any time after certifying any register of electors for any electoral division —
+
+(a) register the applicant as an overseas elector in the register of electors; and
+
+(b) allot the applicant to vote at the overseas polling station specified in his statement under subsection (2)(d) or any other overseas polling station.
+
+(4) The registration of any person under this section as an overseas elector in any register of electors shall continue in operation until superseded by the coming into operation of the next certified register relating to any area within that electoral division following any preparation of registers under section 10 or any revision of registers under section 14.
+
+[19/2001 wef 15/05/2001]
+
 ### Revision of registers
 
 14\.—(1) The Minister may from time to time, but in any case not later than 3 years after the last general election, require the Registration Officer to revise the registers of electors and complete the revision before such date as the Minister may, by notification in theGazette, appoint.
@@ -616,7 +784,7 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 17\.—(1) Section 13(1) and (1A) shall apply to the certification of a revised register of electors as they apply to the certification of a register of electors.
 
-(2) Section 13(2) to (4)shall apply to a revised register of electors as they apply to a register of electors.
+(2) Section 13(2) to (7) shall apply to a revised register of electors as they apply to a register of electors.
 
 ### Notices and adjournments
 
@@ -692,6 +860,30 @@ and each electoral division shall be deemed to have been subdivided under sectio
 
 (3) Every person who in the course of that consideration or hearing knowingly swears anything material to the validity of the claim, objection or appeal which is false shall be guilty of the offence of giving false evidence and shall be liable on conviction to the punishment provided therefor in the Penal Code (Cap. 224).
 
+### Use of registers of electors
+
+21A\.—(1) Any candidate or his election agent who or any political party which, on payment of any fee, acquires from the Registration Officer any copy (whether in printed or electronic form) of any register of electors —
+
+(a) shall use any information recorded in the register only for communicating with electors;
+
+(b) shall not use any information recorded in the register for commercial purposes; and
+
+(c) may disclose any information recorded in the register to others only after obtaining their written acknowledgment that they are bound by the restrictions in this subsection.
+
+(2) Subject to subsection (3), no person who obtains any information recorded in any register of electors shall reproduce, store or transmit any part of the information by electronic or any other means for any purpose.
+
+(3) Subsection (2) shall not apply to —
+
+(a) a candidate or his election agent who or any political party which, on payment of any fee, acquires a copy of a register of electors from the Registration Officer; or
+
+(b) a person who obtains information in any register of electors from a candidate, an election agent or a political party after giving a written acknowledgment described in subsection (1)(c).
+
+(4) Any person who knowingly contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(5) In this section, “candidate” includes a candidate at any presidential election.
+
+[19/2001 wef 15/05/2001]
+
 ## PART III
 
 ELECTIONS
@@ -756,7 +948,7 @@ ELECTIONS
 
 [20/2000 wef 15/02/2001]
 
-(3A) If the statutory declaration under subsection (3) (a) or the political donation certificate which is required by subsection (3) (b) to be delivered is not so delivered, the nomination of the candidate shall be deemed to be void.
+(3A) If the statutory declaration under subsection (3)(a) or the political donation certificate which is required by subsection (3)(b) to be delivered is not so delivered, the nomination of the candidate shall be deemed to be void.
 
 (4) The Returning Officer may, at any time between the date of the notice of the writ referred to in section 25 and 12 noon of the day of nomination, supply a form of nomination paper and statutory declaration to any registered elector requiring them.
 
@@ -1048,6 +1240,14 @@ CONTESTED ELECTIONS
 
 (a) the electoral division in which the election is contested;
 
+(aa) whether a direct recording electronic voting system will be used at the poll and if so, a brief description of the system;
+
+[19/2001 wef 15/05/2001]
+
+(ab) the day and hours of the poll at every overseas polling station;
+
+[19/2001 wef 15/05/2001]
+
 (b) the date on which the poll will be taken, the date being not less than 9 days or more than 8 weeks after the date of publication of the notice in theGazette;
 
 (c) the names of the candidates in the order in which they will be printed on the ballot papers, the symbol allotted to each candidate and the names of their proposers and seconders; and
@@ -1094,6 +1294,14 @@ CONTESTED ELECTIONS
 
 (a) the group representation constituency in which the election is contested;
 
+(aa) whether a direct recording electronic voting system will be used at the poll and if so, a brief description of the system;
+
+[19/2001 wef 15/05/2001]
+
+(ab) the day and hours of the poll at every overseas polling station;
+
+[19/2001 wef 15/05/2001]
+
 (b) the date on which the poll will be taken, the date being not less than 9 days or more than 8 weeks after the date of publication of the notice in theGazette;
 
 (c) the names of the candidates in each group in the order in which they will be printed on the ballot papers, the symbol allotted to each group of candidates and the names of their proposers and seconders; and
@@ -1138,6 +1346,22 @@ CONTESTED ELECTIONS
 
 (3) The Returning Officer may, if he thinks fit, preside at any polling station, and the provisions of this Act relating to a presiding officer shall apply to the Returning Officer.
 
+### Polling places and polling stations
+
+36A\.—(1) The Returning Officer shall, for the purposes of the poll in any electoral division —
+
+(a) establish a sufficient number of polling stations within each polling district of the electoral division for the conduct of the poll;
+
+(b) provide as many polling places within each polling station as he considers necessary; and
+
+(c) allot the electors (including overseas electors) to the polling stations in the electoral division in such manner as he thinks convenient.
+
+(2) The Returning Officer may, for the purposes of the poll at any election, approve the use of such premises within any embassy, High Commission, diplomatic mission or consulate of Singapore situated in any territory outside Singapore as he thinks practicable or suitable as an overseas polling station for overseas electors to cast their votes thereat.
+
+(3) A polling station shall comprise such premises or such area within any premises as are demarcated by or under the authority of the Returning Officer to be a polling station.
+
+[19/2001 wef 15/05/2001]
+
 ### Facilities to be provided at polling stations
 
 37\.—(1) Outside each polling station, there shall be affixed in a conspicuous place by the presiding officer before the commencement of the poll a notice showing the name of each candidate in English, Malay, Chinese and Tamil, and the symbol allotted to the candidate under section 34.
@@ -1178,11 +1402,15 @@ CONTESTED ELECTIONS
 
 ### Admittance to polling station
 
-39\.—(1) Subject to subsection (1A), no person shall be admitted to vote at any polling station except the polling station allotted to him.
+39\.—(1) Subject to subsections (1A) and (2A), no person shall be admitted to vote at any polling station except the polling station allotted to him.
 
 (1A) Where an elector for any electoral division is employed as a presiding officer, police officer, or in any other official capacity at a polling station within that division, and it is inconvenient for him to vote at the polling station in the division which has been allotted to him, the Returning Officer may authorise the elector, by a certificate under his hand, to vote at any other polling station in the division, and that polling station shall, for the purposes of this section, be deemed to be the polling station allotted to that elector.
 
 (2) The certificate referred to in subsection (1A) shall be given under the hand of the Returning Officer and shall state the name of the elector and his number, description in the register of electors, and the fact that he is so employed as aforesaid.
+
+(2A) Subject to section 7, an overseas elector shall also be entitled to be admitted to vote at the overseas polling station allotted to him under section 13A(3).
+
+[19/2001 wef 15/05/2001]
 
 (3) Unless the Returning Officer, by notification in theGazette, appoints any other hour, the poll in any electoral division shall open at 8 a.m. on the day appointed under section 34 or 34A, as the case may be, and shall close at 8 p.m. on that day.
 
@@ -1216,9 +1444,27 @@ CONTESTED ELECTIONS
 
 (8) The powers conferred by this section shall not be exercised so as to prevent any elector who is otherwise entitled to vote at any polling station from having an opportunity of voting at that station.
 
+### Voting by overseas electors
+
+39A\.—(1) Subject to section 7, any overseas elector who intends to cast his vote at the poll for a contested election in an electoral division may vote at —
+
+(a) the overseas polling station allotted to him under section 13A(3) by the Registration Officer; or
+
+(b) the polling station in the electoral division allotted to him under section 36A(1),
+
+but not at both in respect of the same election.
+
+(2) The hours of any poll for any contested election at an overseas polling station shall be not less than 4 hours but not more than 12 hours and may be carried out in advance of the poll on polling day in Singapore, except that every such poll at an overseas polling station shall close not later than the close of the poll on polling day in Singapore.
+
+(3) Except as otherwise provided in this section and any regulations made thereunder, any poll (including an advance poll) at an overseas polling station shall be conducted in the same manner as that in which voting at a polling station within Singapore on polling day is conducted, and shall be regarded as such for the purposes of this Act.
+
+(4) The Minister may make regulations modifying the application of any provision of this Act to the conduct of polls in overseas polling stations, including in particular, the appointment of presiding officers for overseas polling stations, the procedures on closing of the poll and for the safe despatch of the sealed ballot boxes containing the votes cast to the Returning Officer in Singapore.
+
+[19/2001 wef 15/05/2001]
+
 ### Poll by ballot and ballot papers
 
-40\.—(1) In the case of a poll at an election , the votes shall be given by ballot, and the ballot of each voter shall consist of a paper (referred to in this Act as a ballot paper).
+40\.—(1) In the case of a poll at an election not using a DRE voting system, the votes shall be given by ballot, and the ballot of each voter shall consist of a paper (referred to in this Act as a ballot paper).
 
 (2) Every ballot paper shall contain —
 
@@ -1320,7 +1566,7 @@ CONTESTED ELECTIONS
 
 (5) Notwithstanding any other provisions of this Act, the Registration Officer shall on receipt of such list cause the names of all persons appearing in the list to be expunged from the register.
 
-(6) The Registration Officer shall give notice in theGazettethat such list has been received by him from the Returning Officer and that that list or copies thereof are open for inspection at all reasonable hours of the day at the office of the Registration Officer and at such other place or places in each electoral division as may be specified in the notice.
+(6) The Registration Officer shall give notice in theGazettethat such list has been received by him from the Returning Officer and that that list or copies thereof are open for inspection at all reasonable hours of the day at the office of the Registration Officer and at such other place or places in or near each electoral division and at such overseas registration centres as may be specified in the notice.
 
 (7) Every person whose name appears on the list of which notice has been given by the Registration Officer under subsection (6) may make a written application for the restoration of his name to the register of electors.
 
@@ -1388,13 +1634,17 @@ CONTESTED ELECTIONS
 
 48A\.—(1) The Returning Officer may —
 
-(a) direct that the votes cast at any polling station or stations for an electoral division be counted at such counting place for that electoral division (which may or may not be a polling station) and time as he may specify; and
+(a) direct that the votes cast at any polling station or stations in Singapore for an electoral division be counted at such counting place for that electoral division (which may or may not be a polling station) and time as he may specify; and
 
 (b) where more than one counting place is specified for an electoral division under paragraph (a), direct that the total number of votes given to each candidate or group of candidates at the poll be ascertained at a principal counting place for that electoral division (which may or may not be a counting place for that division) and time as he may specify.
 
 [42/96]
 
-(2) The Returning Officer shall give notice in writing of his direction under subsection (1) to each candidate or his election agent not less than 2 clear days before polling day.
+(1A) The votes cast at all overseas polling stations shall be counted at such place or places in Singapore as the Returning Officer directs.
+
+[19/2001 wef 15/05/2001]
+
+(2) The Returning Officer shall give notice in writing of his direction under subsection (1) or (1A) to each candidate or his election agent not less than 2 clear days before polling day.
 
 [42/96]
 
@@ -1414,15 +1664,15 @@ CONTESTED ELECTIONS
 
 (2A) The Returning Officer shall make arrangements for the counting of votes in the presence of such of the candidates and their counting agents as attend as soon as practicable —
 
-(a) where only one counting place is specified for an electoral division in a direction made under section 48A(1) — after he has received at that counting place all the ballot boxes used during the poll ; or
+(a) where only one counting place is specified for an electoral division in a direction made under section 48A(1) — after he has received at that counting place all the ballot boxes used during the poll conducted in Singapore; or
 
-(b) where more than one counting place is specified for an electoral division in a direction made under section 48A(1) —
+(b) where more than one counting place is specified for an electoral division in a direction made under section 48A(1), after —
 
-(i) after the procedure in section 48 has been complied with at the close of the poll if the polling station is a counting place; and
+(i) the procedure in section 48 has been complied with at the close of the poll if the counting place is also a polling station; and
 
-(ii) after the Returning Officer or an Assistant Returning Officer has received at each counting place all the ballot boxes containing the votes cast at such polling station or stations specified in the direction in relation to that counting place.
+(ii) the Assistant Returning Officer in charge of each counting place has received at his counting place all the ballot boxes containing the votes cast at the polling station or stations in Singapore which are specified in the direction to be counted at that counting place, subject to any directions from the Returning Officer to delay or postpone the counting.
 
-[42/96]
+[19/2001 wef 15/05/2001]
 
 (3) The Returning Officer, his assistants and clerks, and the candidates and their counting agents, but no other persons except with the sanction of the Returning Officer, may be present at the counting of the votes.
 
@@ -1436,25 +1686,25 @@ CONTESTED ELECTIONS
 
 [10/88]
 
-(7) Where only one counting place is specified for an electoral division in a direction made under section 48A(1), the Returning Officer shall, when the counting of votes has been completed, forthwith declare the candidate or group of candidates to whom the greatest number of votes is given to be elected; except that upon the application of any candidate or his counting agent, a recount shall be made before the Returning Officer makes the declaration.
+(7) Where only one counting place is specified for an electoral division under section 48A(1), the Returning Officer shall, when the counting of votes cast at all polling stations in Singapore is completed at that sole counting place or, if a recount thereof is allowed under section 49B, after that recount is completed, forthwith act as follows:
 
-[10/88; 42/96]
+(a) where the total number of overseas electors lawfully entitled to vote at the election in that electoral division is less than the difference between the number of votes given to the candidates or (as the case may be) groups of candidates with the 2 greatest number of votes, the Returning Officer shall declare the candidate or (as the case may be) group of candidates to whom the greatest number of votes is given to be elected; or
 
-(7A) Where more than one counting place is specified for an electoral division in a direction made under section 48A(1), an Assistant Returning Officer shall, immediately after the counting of votes or, where any candidate or his counting agent applies to the Assistant Returning Officer for a recount, after the recounting of votes, at each counting place for the electoral division —
+(b) where the total number of overseas electors lawfully entitled to vote at the election in that electoral division is equal to or more than the difference between the number of votes given to the candidates or (as the case may be) groups of candidates with the 2 greatest number of votes, the Returning Officer shall declare the number of votes cast in Singapore in favour of each candidate or (as the case may be) group of candidates at the election, and the date and premises at which the votes cast by the overseas electors will be counted.
+
+[19/2001 wef 15/05/2001]
+
+(7A) Where more than one counting place is specified for an electoral division in a direction made under section 48A(1), an Assistant Returning Officer shall, immediately after the counting of votes cast in Singapore is completed at the counting place under his charge and, if a recount thereof is allowed under section 49B, after the recount is completed, at each counting place for the electoral division —
 
 (a) announce to the candidates or their counting agents as attend the number of votes given to each candidate or group of candidates;
 
 (b) prepare a record (referred to in this Act as the record of counting) in a prescribed form containing the number of votes given to each candidate or group of candidates and other results of the counting of votes at his counting place, and certify that record;
 
-(c) transmit to the principal counting place for that electoral division, by any means available, the results of the counting of votes at his counting place;
+(c) transmit to the principal counting place for that electoral division, by any means available, the results of the counting of votes at his counting place; and
 
-(d) seal up in separate packets the ballot papers and all other documents at the counting place relating to the poll, and, except for the sealed packet containing the record of counting, place them in any ballot box which shall then be sealed with his seal and with the seals of such of the candidates or their counting agents as attend and desire to affix their seals, and all ballot papers and documents in the ballot box shall be deemed to be sealed in pursuance of subsection (9);
+(d) seal up in an envelope the record of counting and despatch or deliver the envelope in safe custody to the principal counting place for that electoral division.
 
-(e) despatch or deliver the sealed ballot box referred to in paragraph (d) in safe custody to the Returning Officer; and
-
-(f) despatch or deliver the sealed packet containing the record of counting in safe custody to the principal counting place for that electoral division.
-
-[42/96]
+[19/2001 wef 15/05/2001]
 
 (7B) Except with the sanction of the Returning Officer, no person other than the following persons may be present at a principal counting place during the addition of votes:
 
@@ -1472,17 +1722,31 @@ CONTESTED ELECTIONS
 
 [42/96]
 
-(7E) When the Returning Officer has ascertained the total number of votes given to each candidate or group of candidates under subsection (7D), he shall forthwith declare as having been elected the candidate or group of candidates to whom the greatest total number of votes is given.
+(7E) When the total number of votes cast at polling stations in Singapore for each candidate or (as the case may be) group of candidates at an election in an electoral division is ascertained under subsection (7D), or if a recount thereof is allowed under section 49B, after that recount is completed, the Returning Officer shall forthwith act as follows:
 
-[42/96]
+(a) where the total number of overseas electors lawfully entitled to vote at the election in that electoral division is less than the difference between the number of votes given to the candidates or (as the case may be) groups of candidates with the 2 greatest number of votes, the Returning Officer shall declare the candidate or (as the case may be) group of candidates to whom the greatest number of votes is given to be elected; or
 
-(8) When an equality of votes is found to exist between any candidates or groups of candidates, and the addition of a vote would entitle any of the candidates or groups of candidates to be declared elected, the determination of the candidate or group of candidates to whom the one additional vote shall be deemed to have been given shall be made by lot in the presence of the Returning Officer in such manner as he may determine.
+(b) where the total number of overseas electors lawfully entitled to vote at the election in that electoral division is equal to or more than the difference between the number of votes given to the candidates or (as the case may be) groups of candidates with the 2 greatest number of votes, the Returning Officer shall declare the number of votes cast in Singapore in favour of each candidate or (as the case may be) group of candidates at the election, and the date and premises at which the votes cast by the overseas electors will be counted.
+
+[19/2001 wef 15/05/2001]
+
+(8) When, after the counting of votes (including any recount allowed under section 49B) is completed, an equality of votes is found to exist between any candidates or groups of candidates, and the addition of a vote would entitle any of the candidates or groups of candidates to be declared elected, the determination of the candidate or group of candidates to whom the one additional vote shall be deemed to have been given shall be made by lot in the presence of the Returning Officer in such manner as he may determine.
 
 [10/88]
 
-(9) After the result has been declared by the Returning Officer under subsection (7) or (7E), he shall seal all documents relating to the election as required by this Act and shall, subject to subsection (10), retain the ballot papers and documents for a period of 6 months and thereafter shall cause them to be destroyed unless otherwise directed by order of the President.
+(9) After the Returning Officer has made any declaration under subsection (7) or (7E), he shall ensure that the following procedures are complied with at every counting place and principal counting place:
 
-[42/96]
+(a) all ballot papers and all other documents relating to the election at every counting place and principal counting place shall be sealed up in separate packets and placed in any ballot box or boxes;
+
+(b) the ballot box or boxes shall then be sealed with the seal of the Returning Officer and the seals of such of the candidates or their counting agents as attend and desire to affix their seals;
+
+(c) the sealed ballot box or boxes shall be despatched and delivered in safe custody to the Returning Officer;
+
+(d) subject to subsection (10), the ballot papers and other documents in the sealed ballot box or boxes shall be retained in safe custody for a period of 6 months; and
+
+(e) the ballot papers and other documents shall be destroyed at the end of the period of 6 months unless otherwise directed by order of the President.
+
+[19/2001 wef 15/05/2001]
 
 (10) A Judge of the High Court may make an order that any ballot paper or other document relating to an election which has been sealed as required by this Act be inspected, copied or produced at such time and place and subject to such conditions as the Judge may consider expedient.
 
@@ -1491,6 +1755,56 @@ CONTESTED ELECTIONS
 (12) Except as provided in this section, no person shall be allowed to inspect any such ballot paper or document after it has been sealed up in pursuance of subsection (9).
 
 [16/93]
+
+### Counting of votes by overseas electors
+
+49A\.—(1) All the sealed ballot boxes containing the votes cast at any overseas polling station must arrive at the office of the Returning Office in Singapore not later than 10 days after polling day at an election in order for those votes to be counted.
+
+(2) The Returning Officer shall make arrangements for the votes cast by overseas electors to be counted at such place or places in Singapore as he directs under section 48A(1A).
+
+(3) Subject to subsection (1), such arrangements shall provide for the counting of votes cast by overseas electors in the presence of the candidates and their counting agents as attend as soon as practicable after all the sealed ballot boxes used at overseas polling stations during the poll have been received by the Returning Officer in Singapore.
+
+(4) Sections 49, 49B and 50 shall apply to the counting (including recounting, if any) of the votes cast by overseas electors.
+
+(5) Where the Returning Officer has made a declaration under section 49(7)(b) or (7E)(b), the number of votes given by overseas electors to each candidate or group of candidates shall be added to the number declared by the Returning Officer as the number of votes cast in Singapore, respectively, for each candidate or (as the case may be) group of candidates, and the Returning Officer shall forthwith declare the candidate or (as the case may be) group of candidates to whom the greatest total number of votes cast to be elected.
+
+(6) After the Returning Officer has made any declaration under subsection (5), he shall ensure that the following procedures are complied with:
+
+(a) all ballot papers and all other documents relating to the election at every place where the votes of overseas electors are counted shall be sealed up in separate packets and placed in any ballot box or boxes;
+
+(b) the ballot box or boxes shall then be sealed with the seal of the Returning Officer and the seals of such of the candidates or their counting agents as attend and desire to affix their seals;
+
+(c) the sealed ballot box or boxes shall be despatched and delivered in safe custody to the Returning Officer;
+
+(d) subject to section 49(10), the ballot papers and other documents in the sealed ballot box or boxes shall be retained in safe custody for a period of 6 months; and
+
+(e) the ballot papers and other documents shall be destroyed at the end of the period of 6 months unless otherwise directed by order of the President.
+
+[19/2001 wef 15/05/2001]
+
+### Recounting of votes
+
+49B\.—(1) Subject to subsections (3) and (4), any candidate at an election in an electoral division or his counting agent may —
+
+(a) if he is present at the sole counting place specified for the electoral division and the counting of votes at that counting place is completed; or
+
+(b) if he is present at the principal counting place specified for the electoral division and the votes counted at all counting places for that electoral division have been added at that principal counting place,
+
+apply to the Returning Officer to have the votes given at the election recounted.
+
+(2) Subject to subsections (3) and (4), the Returning Officer shall allow and conduct a recounting of votes if an application for a recount is made under this section.
+
+(3) Not more than one application to recount the votes given at any election in an electoral division shall be made or allowed under this section.
+
+(4) Without prejudice to subsection (3), no application for a recount shall be made and no recount shall be allowed under this section where the difference between the number of votes given to the candidate or (as the case may be) group of candidates with the most votes and the number cast for any other candidate or (as the case may be) group of candidates is more than 2% of the total number of votes cast (excluding rejected votes and tendered votes) at the election.
+
+(5) No step shall be taken under section 49 to declare any candidate or group of candidates elected until the candidates or counting agents present at the sole counting place for an electoral division or the principal counting place for the electoral division, as the case may be, have been given a reasonable opportunity to exercise the right conferred by this section.
+
+(6) Where an application for a recounting of votes is allowed by the Returning Officer, the votes at the counting place or, if there are more than one, at every counting place shall be recounted and added following the same procedure set out in sections 49 and 50.
+
+(7) This section and section 50 shall apply to the recounting of votes cast by overseas electors with such modifications as are necessary.
+
+[19/2001 wef 15/05/2001]
 
 ### Votes to be rejected
 
@@ -1516,9 +1830,107 @@ CONTESTED ELECTIONS
 
 (4) The decision of the Returning Officer whether or not any ballot paper shall be rejected shall be final and shall not be questioned on an election petition.
 
+### Approval of DRE voting systems
+
+50A\.—(1) No DRE voting system shall be used at any poll in any electoral division unless the DRE voting system is approved before the date of the writ of the election under section 24 by —
+
+(a) the Auditor-General; or
+
+(b) any person appointed by the Minister in consultation with the Auditor-General.
+
+(2) The Auditor-General or person appointed under subsection (1) shall not approve any DRE voting system for use at any election in any electoral division unless, after conducting such tests as he considers necessary in the presence of the Returning Officer and such representatives of any political party as are present, he is satisfied that the DRE voting system —
+
+(a) permits voting in secrecy;
+
+(b) permits each voter to vote from all the candidates or groups of candidates as are nominated for the election;
+
+(c) operates safely and efficiently and accurately counts all votes cast for each candidate or group of candidates;
+
+(d) is set to detect voting errors and to reject all votes for any candidate or group of candidates when the number of votes recorded exceeds the number of votes that may lawfully be cast;
+
+(e) permits each voter to clearly see the ballot display;
+
+(f) is safe from fraudulent or unauthorised manipulation or operation;
+
+(g) ensures that all voting data stored in the DRE voting machines used shall be maintained regardless of electrical power surges or outages; and
+
+(h) is capable of providing records from which the operation of the DRE voting system may be audited and for verification of the accuracy of the recording and counting of votes, but that shall not allow for identification of any voter.
+
+(3) Subject to subsection (1), no DRE voting system shall be used at a poll in any electoral division unless the Returning Officer specifies, by notice under section 34(6) or (as the case may be) 34A (6), that a DRE voting system will be used at the poll in that electoral division.
+
+(4) Where a DRE voting system is to be used at any forthcoming poll in any electoral division in accordance with this section, the Returning Officer may, for the purpose of instructing electors, provide one or more demonstrations as to the use of the DRE voting system in one or more public places within that electoral division.
+
+[19/2001 wef 15/05/2001]
+
+### Approval of DRE voting machines and equipment
+
+50B\.—(1) It shall be the duty of the Returning Officer to provide at each polling station within every electoral division specified in his notice under section 34(6) or (as the case may be) 34A (6) —
+
+(a) a sufficient number of DRE voting machines and other direct recording electronic voting equipment approved under subsection (2) for electors allotted to the polling station to cast their votes;
+
+(b) booths or other reasonable facilities within which approved DRE voting machines are to be placed to enable electors allotted to the polling station to record their votes screened from observation and to vote in accordance with the provisions of this Act and any regulations made thereunder; and
+
+(c) a sufficient number of other approved DRE voting machines, direct recording electronic voting equipment and other voting equipment in the event of any malfunction of all or any approved DRE voting machines at that polling station.
+
+(2) Not earlier than 4 clear days before polling day, the Auditor-General or person appointed by the Minister under section 50A(1) shall inspect and conduct or cause to be inspected and conducted such tests on every DRE voting machine and direct recording electronic voting equipment to be used at a poll, and if he is satisfied that any such DRE voting machine and equipment are in the proper order for use at a poll, he shall not later than on the eve of polling day —
+
+(a) approve the DRE voting machine and equipment so tested for use at the poll;
+
+(b) number the approved DRE voting machine;
+
+(c) seal with his seal and secure the approved DRE voting machine and direct recording electronic voting equipment against use until polling day and despatch it in safe custody to the Returning Officer who shall store it in safe custody until polling day;
+
+(d) make a record containing the identification numbers of every such approved DRE voting machine and the respective polling stations to which each has been allocated; and
+
+(e) furnish a copy of the record to such candidate or his election agent who requests for such a copy before polling day.
+
+(3) Any inspection and test of DRE voting machines and direct recording electronic voting equipment under subsection (2) shall be carried out —
+
+(a) on such date and at such time and premises as the Returning Officer may specify by public notice not less than 5 clear days before polling day; and
+
+(b) in the presence of such candidate or his election agent or polling agent as may be present at those premises on that date and time.
+
+[19/2001 wef 15/05/2001]
+
+### Pre-poll testing of DRE voting system, etc.
+
+50C\.—(1) Immediately before the commencement of the poll in any electoral division specified in a notice under section 34(6) or (as the case may be) 34A (6), the presiding officer at every polling station within the electoral division shall, and in the sight of such person as may be present at the polling station —
+
+(a) ensure that every DRE voting machine and direct recording electronic voting equipment delivered to the polling station for use at the poll is approved under section 50B(2) and still sealed and secured against use;
+
+(b) install the approved DRE voting machine and direct recording electronic voting equipment for use at the poll at the polling station;
+
+(c) inspect and test each DRE voting machine and direct recording electronic voting equipment so installed in the prescribed manner to ensure that it is functioning properly and take such corrective action (including replacement or repair) as is necessary to ensure that it is functioning properly; and
+
+(d) unsecure the DRE voting machine for use at the poll.
+
+(2) The presiding officer at a polling station using DRE voting machines and direct recording electronic voting equipment at the poll shall periodically inspect or cause to be inspected the machines and equipment for tampering and damage or any malfunction while voting is in progress.
+
+(3) If at any time before or after the commencement of a poll using a DRE voting system, the presiding officer at a polling station determines that the approved DRE voting machines or direct recording electronic voting equipment delivered to the polling station cannot be replaced or repaired promptly and that voting cannot be continued using the remaining approved DRE voting machines and approved direct recording electronic voting equipment without interfering substantially with the orderly conduct of the poll, the presiding officer shall, with the approval of the Returning Officer —
+
+(a) immediately halt voting at that polling station if the poll has already commenced; and
+
+(b) make such necessary arrangements for voting at the polling station —
+
+(i) to commence or resume, as the case may be, on the same day and close at such other hours as the Returning Officer may appoint, using either the same DRE voting system or ballot papers in accordance with the provisions of this Act; or
+
+(ii) to be adjourned and conducted afresh on such other date as the Returning Officer may declare by notification in theGazette, being a date not more than one week later, using either the same DRE voting system or ballot papers in accordance with the provisions of this Act.
+
+[19/2001 wef 15/05/2001]
+
+### DRE voting system procedures generally
+
+50D\.—(1) Except as otherwise provided in sections 50B and 50C and any regulations made under this section, any poll using any DRE voting system shall be conducted in the same manner as that in which voting is conducted under sections 35 to 51, and shall be regarded as a poll for the purposes of this Act.
+
+(2) The ballot image displayed on any approved DRE voting machine at any poll shall be an identical representation in electronic form of the ballot paper used at the poll.
+
+(3) The Minister may make regulations modifying the application of any provision of this Act to the conduct of polls using a DRE voting system, including in particular, prescribing the training of presiding officers in operating DRE voting systems, the procedures on opening and closing of such a poll, the manner of voting, the counting of votes and for the safe despatch or transmission of records of voting using DRE voting machines for counting, including recounting, if any.
+
+[19/2001 wef 15/05/2001]
+
 ### Publication of result and statement of poll inGazette
 
-51\. The Returning Officer shall forthwith after the result has been declared by him compile a statement of the poll in the Form 17 in the First Schedule and shall cause the name or names of the members so elected and also the statement to be published in theGazette.
+51\. The Returning Officer shall forthwith after the result has been declared by him under section 49(7)(a) or (7E)(a) and all the votes cast by overseas electors have been counted or after the result has been declared by him under section 49A(5), as the case may be, compile a statement of the poll in the Form 17 in the First Schedule and shall cause the name or names of the members so elected and also the statement to be published in theGazette.
 
 ### Election of non-constituency Members in certain circumstances
 
@@ -1592,7 +2004,7 @@ CONTESTED ELECTIONS
 
 (g) without due authority takes out of the polling station any ballot paper or is found in possession of any ballot paper outside a polling station;
 
-(h) without due authority destroys, takes, opens, or otherwise interferes with any ballot box or packet of ballot papers in use or intended to be used for the purposes of an election;
+(h) without due authority destroys, takes, opens, or otherwise interferes with any ballot box , packet of ballot papers or any DRE voting machine or direct recording electronic voting equipment approved under section 50B(2) in use or intended to be used for the purposes of an election;
 
 (i) without due authority prints any ballot paper or what purports to be or is capable of being used as a ballot paper at an election; or
 
@@ -1606,7 +2018,7 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (3) Every offence under this section shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-(4) In a prosecution for an offence in relation to a nomination paper, ballot box, ballot paper or marking instrument at an election, the property in the nomination paper, ballot box, ballot paper or marking instrument, as well as the property in the counterfoil of any ballot paper, may be stated to be in the Returning Officer at that election.
+(4) In a prosecution for an offence in relation to a nomination paper, ballot box, ballot paper, DRE voting machine, direct recording electronic voting equipment or marking instrument at an election, the property in the nomination paper, ballot box, ballot paper, DRE voting machine, direct recording electronic voting equipment or marking instrument, as well as the property in the counterfoil of any ballot paper, may be stated to be in the Returning Officer at that election.
 
 (5) A prosecution for an offence under this section shall not be instituted without the sanction of the Public Prosecutor.
 
@@ -1636,7 +2048,7 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 [10/88]
 
-(6) No person, except a presiding officer acting for a purpose authorised by this Act or a person authorised by the presiding officer and acting for that purpose, shall communicate or attempt to communicate with any voter after the voter has received a ballot paper and before he has placed it in a ballot box.
+(6) No person, except a presiding officer acting for a purpose authorised by this Act or a person authorised by the presiding officer and acting for that purpose, shall communicate or attempt to communicate with any voter after the voter has received a ballot paper and before he has placed it in a ballot box, or after the voter has been authorised to use an approved DRE voting machine to mark or record his vote and before he marks or records his vote at the machine, as the case may be.
 
 (7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
 
@@ -1646,9 +2058,9 @@ CORRUPT PRACTICES
 
 57\.—(1) Every person who —
 
-(a) at an election applies for a ballot paper in the name of some other person, whether that name be that of a person living or dead, or of a fictitious person; or
+(a) at an election applies for a ballot paper or to record his vote at a DRE voting machine in the name of some other person, whether that name be that of a person living or dead, or of a fictitious person; or
 
-(b) having voted once at any such election, applies at the same election for a ballot paper in his own name,
+(b) having voted once at any such election, applies at the same election for a ballot paper or to record his vote at a DRE voting machine in his own name,
 
 shall be guilty of the offence of personation.
 
@@ -2880,6 +3292,11 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 15/2000 published on 10 May 2000)|
 ||Date of Second and Third Readings|22 May 2000|
 ||Date of commencement|15 February 2001|
+|49.|**Act 19 of 2001—Parliamentary Elections (Amendment) Act 2001**|
+||Date of First Reading|16 March 2001|
+|||(Bill No. 20/2001 published on 17 March 2001)|
+||Date of Second and Third Readings|20 April 2001|
+||Date of commencement|15 May 2001|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
