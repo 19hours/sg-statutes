@@ -250,7 +250,9 @@ Statements Privileged Without Explanation or Contradiction
 
 (c) in public of an international conference to which the Government sends a representative;
 
-(d) before any court exercising jurisdiction throughout any part of the Commonwealth outside Singapore or a court martial held outside Singapore under any written law in force in Singapore or under any Act of the United Kingdom Parliament; and
+(d) before any court exercising jurisdiction throughout any part of the Commonwealth outside Singapore or a court martial held outside Singapore under any written law in force in Singapore; and
+
+[7/97 wef 01/10/1997]
 
 (e) in public of a body or person appointed to hold a public inquiry by the Government or legislature of any part of the Commonwealth outside Singapore.
 
@@ -284,7 +286,7 @@ where —
 
 being a meeting or sitting to which admission is not denied to representatives of newspapers or other members of the public.
 
-4\. A fair and accurate report of the proceedings at a general meeting wherever held of any joint-stock company or corporation wherever registered whose business is in any way directly concerned with Singapore or of any company constituted, registered or incorporated under the provisions of any written law not being a private company within the meaning of the Companies Act [Cap. 50].
+4\. A fair and accurate report of the proceedings at a general meeting wherever held of any joint-stock company or corporation wherever registered whose business is in any way directly concerned with Singapore or of any company constituted, registered or incorporated under the provisions of any written law not being a private company within the meaning of the Companies Act (Cap. 50).
 
 5\. A copy or a fair and accurate report or summary of any notice or other matter issued for the information of the public by or on behalf of the Government or by any public officer or authority.
 
@@ -325,3 +327,8 @@ This Legislative History is provided for the convenience of users of the Defamat
 |||(Bill No. 4/91 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991 (item (8) of the Schedule — amendment of Defamation Act)|
+|9.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (item (3) of First Schedule — amendment of Defamation Act)|
