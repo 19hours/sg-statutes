@@ -130,7 +130,11 @@ An Act to provide for the more effectual prevention of corruption.
 
 ### Appointment of Director and officers
 
-3\.—(1) The President may appoint an officer to be the Director of the Corrupt Practices Investigation Bureau.
+3\.—(1) The President may appoint an officer to be the Director of the Corrupt Practices Investigation Bureau:
+
+Provided that the President acting in his discretion may refuse to appoint or revoke the appointment of the Director if he does not concur with the advice or recommendation of the Cabinet or a Minister acting under the general authority of the Cabinet.
+
+[Act 11 of 1991 wef 30/11/1991]
 
 (2) The President may appoint a Deputy Director of the Corrupt Practices Investigation Bureau and such number of assistant directors and special investigators of the Corrupt Practices Investigation Bureau as he may think fit.
 
@@ -519,3 +523,8 @@ This Legislative History is provided for the convenience of users of the Prevent
 |||(Bill No. 30/1989 published on 31 May 1989)|
 ||Date of Second and Third Readings|11 July 1989|
 ||Date of commencement|14 August 1989|
+|10.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/1991 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
