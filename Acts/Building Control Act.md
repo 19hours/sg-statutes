@@ -1330,11 +1330,23 @@ Building Works Which Do Not Require Approval of Plans of Building Works or Permi
 
 “compartment wall” and “compartment floor” mean a wall and a floor, respectively, which is provided for the purpose of dividing a building into compartments to limit the spread of fire or to contain a fire;
 
+“Construction Industry Development Board” means the Construction Industry Development Board established under the Construction Industry Development Board Act (Cap. 51);
+
+[S 96/98 wef 13/03/1998]
+
 “non-load bearing wall” means a wall which supports no load other than its own weight;
 
 “partition” means a temporary or easily removable vertical structure made of panel work, covered with metal, wood or plaster sheets or other material for the subdivision of spaces within a building;
 
-“protected shaft” means a stairway, exit passageway, duct or other shaft which enables persons, things or air to pass between different compartments.
+“protected shaft” means a stairway, exit passageway, duct or other shaft which enables persons, things or air to pass between different compartments ;
+
+“trained worker” means a person who holds a certificate issued by the Construction Industry Development Board for installing a structural supporting system to support a window air- conditioning unit or a condensing equipment of an air-conditioning unit which is installed —
+
+(a) on the exterior of a building; or
+
+(b) in such a manner that a part of such unit or equipment projects outwards from a building.
+
+[S 96/98 wef 13/03/1998]
 
 2. Any building works carried out for or in connection with —
 
@@ -1386,7 +1398,15 @@ Building Works Which Do Not Require Approval of Plans of Building Works or Permi
 
 11\. Alterations to any lightweight demountable partitions of units within any commercial complex provided they do not form the building envelope or part of any compartment wall or part thereof, or effect any means of escape or fire fighting or protection system.
 
-12\. Air-conditioning works where the cooling capacity of any individual equipment does not exceed 30kW and the works do not affect any compartment wall, compartment floor, protected shaft, any fire protection equipment and the structural integrity of the building.
+12. All air-conditioning works except that in the case of any window air-conditioning unit, or any condensing equipment of an air-conditioning unit, that is installed —
+
+(a) on the exterior of a building (other than a bungalow, semi-detached, terraced or linked house); or
+
+(b) in such a manner that a part of such unit or equipment projects outwards from a building (other than a bungalow, semi-detached, terraced or linked house),
+
+the unit or equipment, as the case may be, must be supported by a structural supporting system installed on the exterior of the building by a trained worker, and the unit or equipment must be affixed to the structural supporting system by a trained worker.
+
+[S 96/98 wef 13/03/1998]
 
 13\. One to one replacement of air-conditioning equipment or ductwork not affecting any compartment wall, compartment floor, protected shaft, fire protection equipment or the structural integrity of the building.
 
@@ -1452,3 +1472,5 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 39/95 published on 2.11.95)|
 ||Date of Second and Third Readings|5.12.95|
 ||Date of commencement|1 April 1996|
+|9.|**G. N. No. S 310/1997—Building Control Act (Amendment of Schedule) Order 1997**|
+||Date of commencement|7 July 1997|
