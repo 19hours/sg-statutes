@@ -40,7 +40,7 @@
 
 - [15 Review](#Review)
 
-- [16 Commutation of half-monthly payments](#Commutation-of-half-monthly-payments)
+- [16 Commutation of monthly payments.](#Commutation-of-monthly-payments)
 
 - [17 Liability in case of workmen employed by contractors](#Liability-in-case-of-workmen-employed-by-contractors)
 
@@ -86,11 +86,11 @@
 
 - [37 Transitional provision](#Transitional-provision)
 
-[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
+[**FIRST SCHEDULE Injured Deemed to Result in Permanent Incapacity**](#FIRST-SCHEDULE-Injured-Deemed-to-Result-in-Permanent-Incapacity)
 
-[**SECOND SCHEDULE**](#SECOND-SCHEDULE)
+[**SECOND SCHEDULE Occupational Diseases**](#SECOND-SCHEDULE-Occupational-Diseases)
 
-[**THIRD SCHEDULE Amount of compensation**](#THIRD-SCHEDULE-Amount-of-compensation)
+[**THIRD SCHEDULE Amount of Compensation**](#THIRD-SCHEDULE-Amount-of-Compensation)
 
 [**Legislative History**](#Legislative-History)
 
@@ -256,7 +256,7 @@ Provided that this subsection shall not apply to the death of a workman where hi
 
 (2) Where a dependant dies before a claim under this Act is determined by the Commissioner, the legal personal representative of the dependant shall have no right to payment of compensation, and the amount of compensation shall be calculated and apportioned as if that dependant had died before the workman.
 
-(3) Where a deceased workman has no dependants the compensation shall be paid into a fund to be known as the Workers’ Fund which shall be established, maintained and applied in accordance with regulations made under this Act and the person managing the Fund shall be entitled to claim the compensation.
+(3) Where a deceased workman has no dependants the compensation shall be paid into a fund to be known as the Worker’s Fund which shall be established, maintained and applied in accordance with regulations made under this Act and the person managing the Fund shall be entitled to claim the compensation.
 
 ### Amount of compensation
 
@@ -268,19 +268,13 @@ Provided that this subsection shall not apply to the death of a workman where hi
 
 (a) where the workman has been exclusively employed by the employer who is liable to pay compensation during a continuous period of 12 months or any shorter period immediately preceding the accident, his monthly earnings shall be deemed to be the average amount of his earnings during those 12 months or shorter period, as the case may be;
 
-(b) where the workman has been exclusively employed by the employer who is liable to pay compensation for any period which is less than a month, his monthly earnings shall be deemed to be the earnings he would have received for that month for the work in which he was employed if the accident had not happened;
+(b) where the workman has been exclusively employed by the employer for any period which is less than a month, his monthly earnings shall be deemed to be the earnings he would have received for the whole month;
 
-(c) where reliable evidence of the earnings of the relevant workman under paragraph (a) or (b) does not exist or cannot be adduced without undue delay or expense, regard may be had to evidence of the earnings of workmen employed on similar work in the same locality at or about the date of the accident;
+[Subst. by Act 16/90 wef 01/09/1990]
 
-(d) where the earnings of a workman cannot be determined according to paragraph (a), (b) or (c) or where the earnings of a workman so determined are less than —
+(c) where reliable evidence of the earnings of the relevant workman under paragraph (a) or (b) does not exist or cannot be adduced without undue delay or expense, regard may be had to evidence of the earnings of workmen employed on similar work in the same locality at or about the date of the accident.
 
-(i) $120 a month in the case of a workman who is 18 years of age and above;
-
-(ii) $105 a month in the case of a workman who is below 18 years of age but is 16 years of age and above; or
-
-(iii) $90 a month in the case of a workman below 16 years of age,
-
-then in any such case, the monthly earnings of a workman who is 18 years of age and above shall be deemed to be $120, the monthly earnings of a workman below 18 years of age but who is 16 years of age and above shall be deemed to be $105, and the monthly earnings of a workman below 16 years of age shall be deemed to be $90.
+[Deleted by Act 16/90 wef 01/09/1990]
 
 (2) Where a workman is employed in the same occupation under contracts of service with two or more employers under which he worked at one time for one such employer and at another time for another such employer, his monthly earnings shall be computed as if his earnings under all such contracts were earnings in the employment of the employer for whom he was working at the time of the accident.
 
@@ -302,9 +296,13 @@ Provided that the Commissioner may —
 
 (4) Compensation deposited in respect of an accident resulting in the death of a workman shall be apportioned among the dependants of the deceased workman in such proportion as the Commissioner thinks fit, or may, in the discretion of the Commissioner, be allotted to any one dependant.
 
-(5) (a) Where any lump sum deposited with the Commissioner is payable to a person who is under any legal disability or in any other case where the Commissioner considers it desirable to do so, the Commissioner may in his discretion order such sum to be invested, applied or otherwise dealt with for the benefit of that person in such manner and for such period as the Commissioner may determine.
+(5)(a) Where any lump sum deposited with the Commissioner is payable to a person who is under any legal disability or in any other case where the Commissioner considers it desirable to do so, the Commissioner may in his discretion order such sum to be invested, applied or otherwise dealt with for the benefit of that person in such manner and for such period as the Commissioner may determine.
 
-(b) Where a half-monthly payment is payable to any workman under a legal disability the Commissioner may, of his own motion or on application made to him in that behalf, order that the payment be made during the disability to any dependant of the workman or to any other person whom the Commissioner thinks best fitted to provide for the welfare of the workman.
+(b)
+
+Where a monthly payment is payable to any workman under a legal disability the Commissioner may, of his own motion or on application made to him in that behalf, order that the payment be made during the disability to any dependant of the workman or to any other person whom the Commissioner thinks best fitted to provide for the welfare of the workman.
+
+[Act 16/90 wef 01/09/1990]
 
 (6) If the Commissioner is satisfied after such inquiry as he may consider necessary that no dependant of a deceased workman exists or can be traced and the circumstances are such that there is no reasonable likelihood that any dependant can be traced he shall pay the balance of the money deposited with him under subsection (1) to the Workers’ Fund.
 
@@ -314,13 +312,13 @@ Provided that no such order prejudicial to any person shall be made unless that 
 
 ### Compensation not to be assigned, attached or charged
 
-10\. Subject to the provisions of this Act, no lump sum or half-monthly payment payable under this Act shall in any way be capable of being assigned or charged or be liable to attachment or pass to any person other than the workman by operation of law nor shall any claim be set off against the same.
+10\. Subject to the provisions of this Act, no lump sum or monthly payment payable under this Act shall in any way be capable of being assigned or charged or be liable to attachment or pass to any person other than the workman by operation of law nor shall any claim be set off against the same.
+
+[Act 16/90]
 
 ### Notice and claim
 
 11\.—(1) Except as provided in this section, proceedings for the recovery of compensation for an injury under this Act shall not be maintainable unless notice of the accident has been given to the employer by or on behalf of the workman as soon as practicable after the happening thereof and unless a claim for compensation with respect to that accident has been made within one year from the happening of the accident causing the injury, or, in the case of death, within one year from the date of the death.
-
-[34/80]
 
 (2) No notice to the employer shall be necessary where a fatal accident has occurred.
 
@@ -332,25 +330,33 @@ Provided that no such order prejudicial to any person shall be made unless that 
 
 (6) The notice if in writing may be given by delivering the notice at, or sending it by registered post addressed to, the residence or place of business of the person to whom it is to be given.
 
+[34/80]
+
 ### Notice to Commissioner and insurer by employer
 
-12\.—(1) Every employer shall give notice —
+12\.—(1) Every employer shall give notice to the Commissioner in the prescribed form and to his insurer in writing of the occurrence of any accident as follows:
 
-(a) to the Commissioner in the prescribed form; and
+(a) where the accident results in death, within 10 days of its occurrence;
 
-(b) to his insurer in writing,
+(b) where the accident results in any incapacity that renders the workman unfit for work for more than 14 days, within 18 days of its occurrence; and
 
-of the occurrence of any accident within 10 days thereof where the accident results in the death or immediate incapacity of any workman employed by him.
+(c) where the accident results in any incapacity that renders the workman unfit for work for 14 days or less, not later than the 15th day of the month following its occurrence.
 
-(2) Any employer who fails to give notice as required by this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+(2) Any employer who fails to give notice as required by this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[Act 16/90]
 
 (3) For the purposes of this section, “employer” shall include the person, if any, referred to in section 17 as the principal.
 
+[Subst. by Act 16/90 wef 01/09/1990]
+
 ### Medical examination and treatment
 
-13\.—(1) When notice of an accident has been given to an employer by a workman or on his behalf, the employer shall, before the expiry of 5 days from the time at which service of the notice has been given, offer to have the workman examined free of charge by a medical practitioner and shall pay the cost of any medical treatment and medicines for the workman as the medical practitioner considers necessary, and the workman shall submit himself for such examination; and any workman who is in receipt of a half-monthly payment under this Act shall, if required by the employer, submit himself for such examination from time to time:
+13\.—(1) When notice of an accident has been given to an employer by a workman or on his behalf, the employer shall, before the expiry of 5 days from the time at which service of the notice has been given, offer to have the workman examined free of charge by a medical practitioner and shall pay the cost of any medical treatment and medicines for the workman as the medical practitioner considers necessary, and the workman shall submit himself for such examination; and any workman who is in receipt of a monthly payment under this Act shall, if required by the employer, submit himself for such examination from time to time:
 
 Provided that a workman shall not be required to submit himself for examination otherwise than in accordance with regulations made under this Act.
+
+[Act 16/90]
 
 (2) When medical reports are required for the purpose of this Act, the fees for such reports shall be paid by the employer.
 
@@ -366,7 +372,9 @@ Provided that a workman shall not be required to submit himself for examination 
 
 (7) Where an injured workman has refused to be treated by a medical practitioner or has failed to carry out or deliberately disregarded the instructions for his treatment, then —
 
-(a) where the workman is in receipt of half-monthly payments under the provisions of this Act, the Commissioner may order the suspension of those half-monthly payments until the workman accepts such treatment or has carried out such instructions, and may further, where the Commissioner is satisfied that the duration of the workman’s incapacity has been prolonged by such refusal, failure or disregard, order those half-monthly payments to be restricted to such period, calculated from the date of injury, as the disability of the workman might reasonably have been expected to have lasted for, had he accepted treatment and followed instructions; or
+(a) where the workman is in receipt of monthly payments under the provisions of this Act, the Commissioner may order the suspension of those monthly payments until the workman accepts such treatment or has carried out such instructions, and may further, where the Commissioner is satisfied that the duration of the workman’s incapacity has been prolonged by such refusal, failure or disregard, order those monthly payments to be restricted to such period, calculated from the date of injury, as the disability of the workman might reasonably have been expected to have lasted for, had he accepted treatment and followed instructions; or
+
+[Act 16/90 wef 01/09/1990]
 
 (b) where the workman has suffered permanent incapacity and the Commissioner is satisfied that the incapacity has been aggravated by such refusal, failure or disregard, the Commissioner may order that compensation be paid to the workman appropriate to such incapacity as he might reasonably have been expected to have suffered if he had been regularly treated by a medical practitioner.
 
@@ -382,25 +390,29 @@ Provided that the Minister shall from time to time by notification in theGazette
 
 ### Review
 
-15\.—(1) Any half-monthly payment payable under this Act may be reviewed by the Commissioner on the application either of the employer or of the workman accompanied by a certificate of a medical practitioner that there has been a change in the condition of the workman.
+15\.—(1) Any monthly payment payable under this Act may be reviewed by the Commissioner on the application either of the employer or of the workman accompanied by a certificate of a medical practitioner that there has been a change in the condition of the workman.
 
-(2) Any half-monthly payment may, on review under this section, and subject to the provisions of this Act, be continued, increased, decreased or ended.
+(2) Any monthly payment may, on review under this section, and subject to the provisions of this Act, be continued, increased, decreased or ended.
 
-### Commutation of half-monthly payments
+[Act 16/90]
 
-16\. Any half-monthly payments may, where the payments have been continued for not less than 6 months, be commuted into a lump sum of such amount as may be agreed to by the parties and consented to by the Commissioner.
+### Commutation of monthly payments.
+
+16\. Any monthly payments may, where the payments have been continued for not less than 6 months, be commuted into a lump sum of such amount as may be agreed to by the parties and consented to by the Commissioner.
+
+[Act 16/90]
 
 ### Liability in case of workmen employed by contractors
 
 17\.—(1) Where any person (referred to in this section as the principal) in the course of or for the purpose of his trade or business contracts with any other person (referred to in this section as the contractor) for the execution by the contractor of the whole or any part of any work, or for the supply of labour to carry out any work, undertaken by the principal, the principal shall be liable to pay to any workman employed in the execution of the work any compensation which he would have been liable to pay if that workman had been immediately employed by him; and where a claim has been made against the principal for compensation this Act shall apply as if references to the principal were substituted for references to the employer, except that the amount of compensation shall be calculated with reference to the wages of the workman under the employer by whom he is immediately employed.
 
-[34/80]
-
 (2) Where the principal is liable to pay compensation under this section, he shall be entitled to be indemnified by the person who would have been liable to pay compensation to the workman independently of this section.
 
 (3) Nothing in this section shall be construed as preventing a workman from recovering compensation under this Act from the contractor instead of the principal, and a claim made against a principal or a contractor, as the case may be, shall not bar subsequent proceedings under this Act against the other to recover so much of the compensation as may remain unpaid.
 
-(4) This section shall not apply in any case where the accident occurred elsewhere than at or about the place where the principal has undertaken to execute, work or which is under his control or management.
+(4) This section shall not apply in any case where the accident occurred elsewhere than at or about the place where the principal has undertaken to execute work or which is under his control or management.
+
+[34/80]
 
 ### Remedies both against employer and stranger
 
@@ -436,7 +448,9 @@ the amount due in respect of any compensation or liability for compensation accr
 
 (iii) in the case mentioned in paragraph (c), the date of the appointment of the receiver or of possession being taken as mentioned in section 226 of the Companies Act.
 
-(5) Where the compensation is a half-monthly payment, the amount due in respect thereof shall, for the purposes of this section, be taken to be the amount of the lump sum into which the half-monthly payment could, if commutable, be commuted if application were made for the purpose under section 16 and a certificate of the Commissioner as to the amount of such sum shall be conclusive proof thereof.
+(5) Where the compensation is a monthly payment, the amount due in respect thereof shall, for the purposes of this section, be taken to be the amount of the lump sum into which the monthly payment could, if commutable, be commuted if application were made for the purpose under section 16 and a certificate of the Commissioner as to the amount of such sum shall be conclusive proof thereof.
+
+[Act 16/90 wef 01/09/1990]
 
 (6) Subsection (4) shall apply in the case of any amount for which an insurer is entitled to prove under subsection (3), but otherwise subsection (4) shall not apply where the bankrupt or the company being wound up has entered into such a contract with the insurer as is referred to in subsection (1).
 
@@ -452,9 +466,13 @@ the amount due in respect of any compensation or liability for compensation accr
 
 (c) where an injured master or seaman is discharged or left behind in any territory in the Commonwealth or in a foreign country, depositions respecting the circumstances and nature of the injury may be taken by any judge or magistrate in that territory or by a consular officer in the foreign country, and if so taken and transmitted by the person by whom they are taken to the Minister, they or certified copies thereof shall, in any proceedings for enforcing the claim, be admissible in evidence as provided by sections 339 and 345 of the Merchant Shipping Act [Cap. 179], and those sections shall apply accordingly;
 
-[S 22/89]
+[S 22/89 wef 30/03/1987]
 
-(d) no half-monthly payment shall be payable in respect of the period during which the owner of the ship is, under any law relating to shipping in force for the time being in Singapore or any part thereof, liable to defray the expenses of maintenance of the injured master or seaman.
+(d) no monthly payment shall be payable in respect of the period during which the owner of the ship is, under any law relating to shipping in force for the time being in Singapore or any part thereof, liable to defray the expenses of maintenance of the injured master or seaman.
+
+[Act 16/90]
+
+[1.9.90.]
 
 ### Contracting out
 
@@ -466,11 +484,13 @@ the amount due in respect of any compensation or liability for compensation accr
 
 ### Compulsory insurance against employer’s liability
 
-23\.—(1) Every employer shall insure and maintain insurance under one or more approved policies with an insurer within the meaning of the Insurance Act [Cap. 142] against any liability which he may incur under the provisions of this Act to any workman employed by him except as the Minister may, by notification in theGazette, otherwise provide.
+23\.—(1) Every employer shall insure and maintain insurance under one or more approved policies with an insurer within the meaning of the Insurance Act against any liability which he may incur under the provisions of this Act to any workman employed by him except as the Minister may, by notification in theGazette, otherwise provide.
 
 (2) Any employer who, for the purpose of defraying or partly defraying the cost of insurance in respect of his liability to pay compensation under this Act, makes any deduction from the earnings of a workman in his employment shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(3) Any employer who fails to insure himself in accordance with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding one year or to both.
+(3) Any employer who fails to insure himself in accordance with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
+
+[Act 16/90 wef 01/09/1990]
 
 (4) For the purposes of this section, “approved policy” means a policy of insurance not subject to any conditions or exceptions prohibited by regulations made under this Act.
 
@@ -488,11 +508,7 @@ MISCELLANEOUS
 
 (4) In any such case as is mentioned in subsection (3), the employer shall, within 21 days of the service of the notice under subsection (2), pay the Commissioner or the person claiming compensation as the Commissioner may direct the amount of compensation determined.
 
-(5) Where payment is not made in accordance with subsection (4), the employer shall be liable to pay to the Commissioner interest at the rate of 11/
-
-2
-
-% for each month or part thereof of the assessed amount from the date of the service of the notice under subsection (2) until the expiry of 6 months from that date and thereafter at the rate of 3% for each month or part thereof:
+(5) Where payment is not made in accordance with subsection (4), the employer shall be liable to pay to the Commissioner interest at the rate of 1 ½% for each month or part thereof of the assessed amount from the date of the service of the notice under subsection (2) until the expiry of 6 months from that date and thereafter at the rate of 3% for each month or part thereof:
 
 Provided that —
 
@@ -505,6 +521,12 @@ Provided that —
 (6) Any assessment of compensation made by the Commissioner under this section may, in any case involving silicosis or asbestosis, be reviewed at any time within 3 years from the date of the assessment if the Commissioner is satisfied that since that date there has been an aggravation of the result of the relevant disease and that the amount of compensation originally assessed is substantially inadequate; and the Commissioner shall where such a review has been made issue a notice of assessment of additional compensation payable by the employer.
 
 (7) This section and section 25 shall apply to a notice of assessment of additional compensation under subsection (6) as they apply to a notice of assessment of compensation.
+
+(8) For the purposes of this section, the Commissioner may by notice in writing require any person to attend at such time and place as may be specified in the notice and to produce any document concerning any injured workman and to answer any question relating to his employment and the accident.
+
+[Act 16/90 wef 01/09/1990]
+
+(9) Any person who fails to attend or to produce any document as required in the notice under sub-section (8) and any person who gives any answer which he knows to be untrue shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 ### Objection to notice of assessment
 
@@ -544,11 +566,7 @@ Provided that no appeal shall lie against any order unless a substantial questio
 
 (3) Notwithstanding any appeal under this section, the employer shall deposit with the Commissioner the amount of compensation determined by the Commissioner under section 25 within 21 days from the date of the Commissioner’s decision, and the deposit shall be held by the Commissioner pending the outcome of the appeal.
 
-(4) Where an employer fails to make a deposit with the Commissioner under subsection (3), he shall be liable to pay to the Commissioner interest at the rate of 11/
-
-2
-
-% for each month or part thereof of the assessed amount from the date of the Commissioner’s decision until the expiry of 6 months from that date and thereafter at the rate of 3% for each month or part thereof:
+(4) Where an employer fails to make a deposit with the Commissioner under subsection (3), he shall be liable to pay to the Commissioner interest at the rate of 1 ½% for each month or part thereof of the assessed amount from the date of the Commissioner’s decision until the expiry of 6 months from that date and thereafter at the rate of 3% for each month or part thereof:
 
 Provided that —
 
@@ -572,7 +590,7 @@ Provided that the evidence of any medical witness shall be taken down as nearly 
 
 (3) Any person who in any way wilfully obstructs the service of or obedience to any summons and any person summoned who neglects to attend and to produce documents as required in such summons and any person who commits in respect of any proceedings under this Act any offence described in Chapter X of the Penal Code [Cap. 224] shall be punishable on conviction as provided in that Chapter.
 
-(4) Every person who gives evidence before the Commissioner shall be bound to answer truthfully all questions put to him by the Commissioner and any person who willfully makes any false statement or who gives any evidence in any proceedings under this Act which he knows to be untrue, or who does any other act, which if done in any judicial proceedings would be punishable under Chapter XI of the Penal Code [Cap. 224], shall be punishable on conviction as provided in that Chapter.
+(4) Every person who gives evidence before the Commissioner shall be bound to answer truthfully all questions put to him by the Commissioner and any person who wilfully makes any false statement or who gives any evidence in any proceedings under this Act which he knows to be untrue, or who does any other act, which if done in any judicial proceedings would be punishable under Chapter XI of the Penal Code [Cap. 224], shall be punishable on conviction as provided in that Chapter.
 
 ### Costs
 
@@ -634,15 +652,441 @@ Provided that the evidence of any medical witness shall be taken down as nearly 
 
 ### Transitional provision
 
-37\. Nothing in this Act shall apply with respect to claims for compensation or other rights, obligations or liabilities in respect of accidents happening before the date of commencement of this Act; and, without limiting the provisions of the Interpretation Act [Cap. 1], the Workmen’s Compensation Act [1970 Ed. Cap. 130] repealed by this Act shall continue to apply to such claims, rights, obligations or liabilities as if it had not been repealed by this Act.
+37\. Nothing in this Act shall apply with respect to claims for compensation or other rights, obligations or liabilities in respect of accidents happening before the date of commencement of this Act; and, without limiting the provisions of the Interpretation Act [Cap. 1], the Workmen’s Compensation Act repealed by this Act shall continue to apply to such claims, rights, obligations or liabilities as if it had not been repealed by this Act.
+
+[1970 Ed.]
 
 FIRST SCHEDULE
 
 Section 2.
 
+Injured Deemed to Result in Permanent Incapacity
+
+Item
+
+Injury
+
+Percentage of loss of earning capacity
+
+1.
+
+Loss of two limbs
+
+100
+
+2.
+
+Loss of both limbs or of all fingers and both thumbs
+
+100
+
+3.
+
+Loss of both feet
+
+100
+
+4.
+
+Total loss of sight, including the loss of sight to such extent as to render the claimant unable to perform any work for which eyesight is essential
+
+100
+
+5.
+
+Total paralysis
+
+100
+
+6.
+
+Injuries resulting in being permanently bedridden
+
+100
+
+7.
+
+Any other injury causing permanent total incapacity
+
+100
+
+8.
+
+Loss of arm at shoulder
+
+75
+
+9.
+
+Loss of arm between elbow and shoulder
+
+75
+
+10.
+
+Loss of arm at elbow
+
+75
+
+11.
+
+Loss of arm between wrist and elbow
+
+70
+
+12.
+
+Loss of hand at wrist
+
+70
+
+13.
+
+Loss of 4 fingers and thumb of one hand
+
+70
+
+14.
+
+Loss of 4 fingers
+
+60
+
+15.
+
+Loss of thumb —
+
+(a) both phalanges
+
+30
+
+(b) one phalanx
+
+20
+
+16.
+
+Loss of index finger —
+
+(a) three phalanges
+
+14
+
+(b) two phalanges
+
+11
+
+(c) one phalanx
+
+9
+
+17.
+
+Loss of middle finger —
+
+(a) three phalanges
+
+12
+
+(b) two phalanges
+
+9
+
+(c) one phalanx
+
+7
+
+18.
+
+Loss of ring finger —
+
+(a) three phalanges
+
+7
+
+(b) two phalanges
+
+6
+
+(c) one phalanx
+
+5
+
+19.
+
+Loss of little finger —
+
+(a) three phalanges
+
+7
+
+(b) two phalanges
+
+6
+
+(c) one phalanx
+
+5
+
+20.
+
+Loss of metacarpals —
+
+(a) first or second (additional)
+
+8
+
+(b) third, fourth or fifth (additional)
+
+3
+
+21.
+
+Loss of leg —
+
+(a) at or above knee
+
+75
+
+(b) below knee
+
+65
+
+22.
+
+Loss of foot
+
+55
+
+23.
+
+Loss of toes —
+
+(a) all of one foot
+
+20
+
+(b) great, both phalanges
+
+14
+
+(c) great, one phalanx
+
+3
+
+(d) other than great, if more than one toe lost, each
+
+3
+
+24.
+
+Loss of sight of one eye
+
+50
+
+25.
+
+Loss of hearing, one ear
+
+30
+
+26.
+
+Total loss of hearing
+
+60
+
+[Subst. by Act 16/90 wef 01/09/1990]
+
+[Note:(1) Total permanent loss of the use of a member shall be treated as loss of that member.]
+
+[(2) Where there is loss of two or more parts of the hand, the percentage shall not be more than the loss of the whole hand.]
+
+[(3) Loss of remaining arm, leg or eye if one had already been lost, shall be the difference between the compensation for the total incapacity, and compensation already paid or that which would have been paid for the previous loss of limb or eye.]
+
 SECOND SCHEDULE
 
 Section 4.
+
+Occupational Diseases
+
+Description of Occupational Disease or Injury
+
+Nature of Occupation
+
+1. Anthrax
+
+Any occupation involving the handling of wool, hair, bristles, hides or skins or other animal products or residues, or contact with animals infected with anthrax.
+
+2. Asbestosis
+
+Any occupation involving exposure to asbestos duest.
+
+3. Barotrauma
+
+Any occupation involving subjection to compressed air.
+
+4. Byssinosis
+
+Any occupation involving exposure to raw cotton dust.
+
+5. Cataract produced by exposure to the glare of, or rays from, molten glass or molten or red-hot metal
+
+Any process involving frequent or prolonged exposure to the glare of, or rays from molten glass or molten or red-hot metal.
+
+6. Chrome Ulceration
+
+Any process involving the use or handling of chromic acid, chromates or bichromates or any preparation or solution containing any of these substances.
+
+7. Compressed Air Illness or its sequelae
+
+Any occupation involving subjection to compressed air.
+
+8. (a) Epitheliomatous cancer or ulceration of the skin
+
+Any occupation involving the use or handling of, or exposure to tar, pitch, bitumen, mineral oil (including paraffin), soot or any compound, product, or residue of any of these substances.
+
+(b) Localised new growth of the skin, papillomatous or keratotic
+
+Any occupation involving the use or handling of, or exposure to tar, pitch, bitumen, mineral oil (including paraffin), soot or any compound, product, or residue of any of these substances.
+
+(c) Ulceration of the corneal surface of the eye
+
+Any occupation involving the use or handling of, or exposure to tar, pitch, bitumen, mineral oil (including paraffin), soot or any compound, product, or residue of any of these substances.
+
+9. Glanders
+
+Any occupation involving contact with equine animals or their carcasses.
+
+10. Industrial Dermatitis
+
+Any occupation or process involving the exposure to or contact with cutaneous irritants or sensitisers such as alkalis and acids, solvents, mineral oils, synethetic and natural resins, certain woods, formaldehyde, nickel salts, chromates and bichromates, mercury compounds, chlorinated naphthalenes, rubber accelerators, fibre-glass and other chemicals.
+
+11. Repetitive strain disorder of the upper limb
+
+Any process or activity involving frequent or repeated movements of the upper limb.
+
+12. Inflammation, ulceration or malignant disease of the skin or subcutaneous tissues or of the bones, or leukaemia, or anaemia of the aplastic type
+
+Any process involving exposure to x-rays, ionising particles, radium, or other radio-active substances or other forms of radiant energy.
+
+13. Leptospirosis or its sequelae
+
+Any occupation involving contact with a source or sources of leptospiral infections e.g. abattoir, drainage and sewerage work, refuse collection, road sweeping and work with animals.
+
+14. Liver Angiosarcoma
+
+Any occupation involving the use or handling of, or exposure to, vinyl chloride mononer.
+
+15. Mesothelioma
+
+Any occupation involving the use or handling of, or exposure to, asbestos.
+
+16. Noise-Induced Deafness
+
+Any occupation involving prolonged exposure to a high level of noise.
+
+17. Occupational Asthma
+
+Any occupation involving the use of or handling of or exposure to a chemical or other agent which may irritate or sensitise the respiratory system, e.g. isocyanates, rosin, formaldehyde, proteolytic enzymes.
+
+18. Poisoning by:
+
+Any occupation or process involving:
+
+(a) Arsenic
+
+— the use or handling of, or exposure to the fumes, dust or vapour of, arsenic or a compound of arsenic, or a substance containing arsenic or exposure to any solution containing arsenic or compound of arsenic;
+
+(b) Benzene or a homologue
+
+— the use or handling of, or exposure to or the fumes of, or vapour containing benzene or any of its homologues;
+
+(c) Cadmium
+
+— the use or handling of, or exposure to the fumes, or dust of cadmium or its coumpounds;
+
+(ca) Carbamate
+
+— the production, use of handling of carbamate;
+
+(d) Carbon disulphide
+
+— the use or handling of, or exposure to the fumes or vapour of, carbon disulphide or a compound of carbon disulphide, or a substance containing carbon disulphide;
+
+(e) Carbon dioxide gas
+
+— the exposure to carbon dioxide, e.g. in the manufacture of mineral water, fermentation in breweries or other processes;
+
+(f) Carbon monoxide gas
+
+— the exposure to carbon monoxide, e.g. where blast furnaces and internal combustion engines are used;
+
+(g) Cyanide
+
+— the use or handling of, or exposure to the fumes, dust or vapour of, cyanide or compound of cyanide, or a substance containing cyanide;
+
+(h) Halogen derivatives of hydrocarbon compounds
+
+— the production, liberation or use of any halogen derivative of hydrocarbon compounds;
+
+(ha) Hydrogen sulphide
+
+— the exposure to hydrogen sulphide, e.g. in oil refining, sewerage work and manholes;
+
+(i) Lead
+
+— the use or handling of, or exposure to the fumes, dust or vapour of, lead or compound of lead, or a substance containing lead;
+
+(j) Manganese
+
+— the use or handling of manganese or substance containing manganese;
+
+(k) Mercury
+
+— the use or handling of, or exposure to the fumes, dust or vapour of, mercury or a compound of mercury, or a substance containing mercury;
+
+(l) Nitrous fumes
+
+— the use or handling of nitric acid or exposure to nitrous fumes;
+
+(m) Organophosphates
+
+— the production, use or handling of organophosphates;
+
+(n) Phosphorus
+
+— the use or handling of, or exposure to the fumes, dust or vapour of, phosphorus or a compound of phosphorus, or a substance containing phosphorus.
+
+19. Silcosis
+
+Any occupation involving exposure to silica dust, e.g., in granite quarries, foundries with sand moulds.
+
+20. Toxic hepatitis
+
+Any process involving the use or handling of, or exposure to, tetrachloroethane, nitro-derivatives or amino-derivatives of benzene, vinyl chloride monomer, or other poisonous substances.
+
+21. Tuberculosis
+
+Any occupation involving close and frequent contact with a source or sources of tuberculosis infection by reason of employment —
+
+(a) in the medical treatment or nursing of a person or persons suffering from tuberculosis, or in a service ancillary to such treatment or nursing;
+
+(b) in attendance upon a person or persons suffering from tuberculosis, where the need for such attendance arises by reason of physical or mental infirmity;
+
+(c) as a research worker engaged in research in connection with tuberculosis;
+
+(d) as a laboratory worker, pathologist or post-mortem worker, where the occupation involves working with material which is a source of tuberculosis infection, or in any occupation ancillary to such employment.
+
+[S 316/95 wef 01/08/1995]
+
+[S 316/95]
+
+[S 316/95 wef 01/08/1995]
+
+[Subst. by S 316/95 wef 01/08/1995]
+
+[Subst by S 316/95 wef 01/08/1995]
 
 [S 336/86]
 
@@ -650,43 +1094,283 @@ THIRD SCHEDULE
 
 Section 7.
 
-Amount of compensation
+Amount of Compensation
 
 1.—(1) Where death results from the injury the amount of compensation payable shall be a lump sum which shall be obtained by multiplying the monthly earnings of the deceased workman by the appropriate factor in the second column of the following Table according to the age on the next birthday of the deceased workman at the time of the accident as specified in the first column thereof:
 
-(2) The compensation payable under this paragraph shall in no case exceed $45,000 or be less than $15,000.
+TABLE
+
+First column
+
+Second column
+
+Age
+
+Multiplying factor
+
+40 and below
+
+108
+
+41
+
+107
+
+42
+
+106
+
+43
+
+105
+
+44
+
+104
+
+45
+
+103
+
+46
+
+102
+
+47
+
+101
+
+48
+
+100
+
+49
+
+98
+
+50
+
+96
+
+51
+
+94
+
+52
+
+92
+
+53
+
+90
+
+54
+
+88
+
+55
+
+86
+
+56
+
+84
+
+57
+
+82
+
+58
+
+80
+
+59
+
+78
+
+60
+
+75
+
+61
+
+72
+
+62
+
+68
+
+63
+
+63
+
+64
+
+58
+
+65
+
+53
+
+66 and above
+
+48.
+
+(2) The compensation payable under this paragraph shall in no case exceed $111,000 or be less than $37,000.
+
+[Act 16/90]
+
+[S 447/95]
 
 2.—(1) Where permanent total incapacity results from the injury the amount of compensation shall be a lump sum which shall be obtained by multiplying the monthly earnings of the workman by the appropriate factor in the second column of the following Table according to the age on the next birthday of the workman at the time of the accident as specified in the first column thereof:
 
-(2) The compensation payable under this paragraph shall in no case exceed $60,000 or be less than $20,000.
+TABLE
+
+First column
+
+Second column
+
+Age
+
+Second Column
+
+40 and below
+
+144
+
+41
+
+142
+
+42
+
+140
+
+43
+
+138
+
+44
+
+136
+
+45
+
+134
+
+46
+
+132
+
+47
+
+130
+
+48
+
+128
+
+49
+
+126
+
+50
+
+124
+
+51
+
+122
+
+52
+
+120
+
+53
+
+118
+
+54
+
+116
+
+55
+
+114
+
+56
+
+111
+
+57
+
+108
+
+58
+
+105
+
+59
+
+102
+
+60
+
+99
+
+61
+
+96
+
+62
+
+92
+
+63
+
+87
+
+64
+
+82
+
+65
+
+77
+
+66 and above
+
+72.
+
+(2) The compensation payable under this paragraph shall in no case exceed $147,000 or be less than $49,000.
+
+[Act 16/90 wef 01/09/1990]
+
+[S 447/95]
 
 (3) Where the injured workman is unable to perform the essential actions of life without the constant attention of another person, additional compensation shall be paid amounting to one quarter of the amount which is otherwise payable under this paragraph.
 
 3.—(1) Where permanent partial incapacity results from the injury, the amount of compensation shall be —
 
-(a) in the case of an injury specified in the First Schedule, such percentage of the compensation which would have been payable in the case of permanent total incapacity as is specified therein as being the percentage of the loss of earning capacity caused by that injury; and
+(a) the case of an injury specified in the First Schedule, which percentage of the compensation which would have been payable in the case of permanent total incapacity as is specified therein as being the percentage of the loss of earning capacity caused by that injury; and
 
 (b) in the case of an injury not specified in the First Schedule, such percentage of the compensation which would have been payable in the case of permanent total incapacity as is proportionate to the loss of earning capacity permanently caused by the injury in every employment which the workman was capable of undertaking at that time.
 
-(2) Where more injuries than one are caused by the same accident the amount of compensation payable in respect of all such injuries shall be aggregated but not so as to exceed in any case the amount which would have been payable in respect of permanent total incapacity.
+(2) Where more injuries than one are caused by the same accident the amount of compensation payable in respect of such injuries shall be aggregated but not so as to exceed in any case the amount which would have been payable in respect of permanent total incapacity.
 
-4.—(1) Where temporary incapacity whether total or partial results from the injury, the workman shall be entitled to full wages for a period of 60 days if he is hospitalised and 14 days if he is not hospitalised and thereafter half-monthly during the incapacity or during a period of 5 years, whichever period is shorter, to a payment of $195 or an amount equal to one-third of his monthly earnings, whichever is the less.
+4.—(1) Where temporary incapacity whether total or partial results from the injury, the workman shall be entitled to full earnings for a period of 60 days if he is hospitalised and 14 days if he is not hospitalised and thereafter to a payment every month of an amount equal to two-thirds of his monthly earnings during the incapacity or during a period of one year, whichever period is shorter.
 
-(2) Where permanent incapacity follows a period not exceeding 6 months of total or partial temporary incapacity there shall not be deducted from the lump sum payable in respect of such permanent incapacity any half-monthly payments or allowance to which the injured workman is entitled and which he has received from his employer by way of compensation.
+(2) No monthly payment under sub-paragraph (1) shall be deducted from the lump sum payable in respect of any permanent incapacity which follows any period of temporary incapacity.
 
-(3) Where permanent incapacity follows a period exceeding 6 months of total or partial incapacity there shall be deducted from the lump sum payable in respect of such permanent incapacity any half-monthly payment or allowance to which the injured workman is entitled and which he has received from his employer by way of compensation in respect of any period in excess of 6 months.
+(3) Where the temporary incapacity ceases in any month in which the workman is entitled to receive a monthly payment under sub-paragraph (1), he shall be paid in respect of that month an amount proportionate to the duration of the incapacity during that month.
 
-(4) No half-monthly payment shall in any case exceed the amount, if any, by which half the amount of the monthly earnings of the workman before the accident exceeds half the monthly amount which he is earning or is in the opinion of the Commissioner able to earn in some suitable employment or business after the accident.
+(4) For the purposes of this paragraph, where a workman is certified by a medical practitioner of an approved hospital to be ill enough to need to be hospitalised but the workman is not hospitalised for any reason whatsoever, he shall be deemed to be hospitalised.
 
-(5) Where the incapacity ceases before the date on which any half-monthly payment falls due, there shall be payable in respect of that half-month an amount proportionate to the duration of the incapacity during that half-month.
+[Act 16/90 wef 01/09/1990]
 
-(6) For the purpose of this paragraph, where a workman is certified by a medical practitioner of an approved hospital to be ill enough to need to be hospitalised but the workman is not hospitalised for any reason whatsoever, he shall be deemed to be hospitalised.
-
-5.\*Paragraphs 1, 2(1), 2(2) and 4(6) shall not apply with respect to claims for compensation in respect of accidents happening before 2nd January 1981 and all such claims shall be determined in accordance with the provisions of this Schedule in force immediately before that date.
+5. The Minister may by order vary the maximum or minimum amount of compensation payable under paragraphs 1(2) and 2(2).
 
 [34/80]
-
-\*This paragraph was formerly section 9 of Act 34 of 1980.
 
 ## LEGISLATIVE HISTORY
 
@@ -714,3 +1398,8 @@ This Legislative History is provided for the convenience of users of the Workmen
 |3.|**1985 Revised Edition—Workmen’s Compensation Act**|
 ||(G.N. No. S 22/1989 — Rectification Order)||
 ||Date of operation|30 March 1987|
+|4.|**Act 16 of 1990—Workmen’s Compensation (Amendment) Act 1990**|
+||Date of First Reading|13 June 1990|
+|||(Bill No. 16/90 published on 15 June 1990)|
+||Date of Second and Third Readings|18 July 1990|
+||Date of commencement|1 September 1990|
