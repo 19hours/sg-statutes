@@ -8,6 +8,8 @@
 
 [**Preamble**](#Preamble)
 
+[**Enacting Formula**](#Enacting-Formula)
+
 - [1 Short title](#Short-title)
 
 - [2 The Franciscan Missionaries of the Divine Motherhood to be a body corporate](#The-Franciscan-Missionaries-of-the-Divine-Motherhood-to-be-a-body-corporate)
@@ -16,7 +18,7 @@
 
 - [4 Notification of appointment of Reverend Mother Superior](#Notification-of-appointment-of-Reverend-Mother-Superior)
 
-- [5 Saving of Crown and other rights](#Saving-of-Crown-and-other-rights)
+- [5 Saving of Government and other rights](#Saving-of-Government-and-other-rights)
 
 [**Legislative History**](#Legislative-History)
 
@@ -34,7 +36,9 @@ An Ordinance to incorporate the Reverend Mother Superior of the Franciscan Missi
 
 1Note:This private Ordinance is reproduced in the form it appears in the 1955 Revised Edition.
 
-Whereas the Franciscan Missionaries of the Divine Motherhood were constituted at Guildford in the County of Surrey in England on the 26th day of November 1935:
+[28th October 1954]
+
+Whereas the Franciscan Missionaries of the Divine Motherhood were constituted at Guildford in the County of Surrey in England on the 26th day of November, 1935:
 
 And Whereas the said Franciscan Missionaries have established a nursing mission in the Colony of Singapore for the purpose of carrying on and maintaining hospitals and for the treatment and nursing of the sick and infirm and for the training of women in nursing and the treatment of the sick and infirm and for the purpose of the propagation of Christianity:
 
@@ -47,8 +51,6 @@ And Whereas the said Mission and any hospital church convent or other building n
 And Whereas for the better carrying on of the work of the said Mission it is expedient that the said Reverend Mother Mary Angela and her successors, being the Reverend Mother Superior of the said Franciscan Missionaries of the Divine Motherhood in Malaya, should be incorporated:
 
 It is hereby enacted by the Governor of the Colony of Singapore with the advice and consent of the Legislative Council thereof as follows:
-
-[28th October 1954]
 
 ### Short title
 
@@ -64,9 +66,7 @@ It is hereby enacted by the Governor of the Colony of Singapore with the advice 
 
 ### Use of corporate seal
 
-3\.—(1) All deeds, documents and other instruments requiring the seal of the Corporation shall be sealed with the seal of the Corporation in the presence of the Reverend Mother Superior for the time being or her attorney, duly authorised by power of attorney registered under section 48 of the Conveyancing and Law of Property Ordinance and shall also be signed by the said Reverend Mother Superior for the time being, or her attorney so authorised as aforesaid.
-
-[1955 Ed.]
+3\.—(1) All deeds, documents and other instruments requiring the seal of the Corporation shall be sealed with the seal of the Corporation in the presence of the Reverend Mother Superior for the time being or her attorney, duly authorised by power of attorney registered under section 48 of the Conveyancing and Law of Property Ordinance [1955 Ed., Cap. 243] and shall also be signed by the said Reverend Mother Superior for the time being, or her attorney so authorised as aforesaid.
 
 (2) Such signing shall be taken as sufficient evidence that the seal was duly and properly affixed and that the same is the lawful seal of the Corporation.
 
@@ -74,9 +74,11 @@ It is hereby enacted by the Governor of the Colony of Singapore with the advice 
 
 4\. A notification in theGazetteof the appointment of any person to exercise the office of Reverend Mother Superior of the Franciscan Missionaries of the Divine Motherhood in Malaya shall be conclusive evidence that such person was duly authorised to exercise the said office.
 
-### Saving of Crown and other rights
+### Saving of Government and other rights
 
-5\. Nothing in this Ordinance shall affect the right of Her Majesty the Queen, Her Heirs and Successors, all bodies politic and corporate, and all others except such as are mentioned in this Ordinance, and those claiming by, from or under them.
+5\. Nothing in this Ordinance shall affect the right of the Government, all bodies politic and corporate, and all others except such as are mentioned in this Ordinance, and those claiming by, from or under them.
+
+[7/97 wef 01/10/1997]
 
 ## LEGISLATIVE HISTORY
 
@@ -88,12 +90,14 @@ This Legislative History is provided for the convenience of users of the Francis
 
 ||||
 |:-|:-|:-|
-|1.|**Act 21 of 1954—Franciscan Missionaries of the Divine Motherhood Ordinance 1954**|
-||Date of First, Second and Third Readings|Date not available.|
+|1.|**Ordinance 21 of 1954—Franciscan Missionaries of the Divine Motherhood Ordinance 1954**|
 ||Date of commencement|28 October 1954|
-|2.|**1955 Revised Edition (Cap. 299)—Franciscan Missionaries of the Divine Motherhood Ordinance 1955**|
-||Date of operation|1 January 1955|
-|3.|**1985 Revised Edition—Franciscan Missionaries of the Divine Motherhood Ordinance 1985**|
-||Date of operation|1 January 1985|
-|4.|**1985 Revised Edition—Franciscan Missionaries of the Divine Motherhood Ordinance**|
+|2.|**1955 Revised Edition—Franciscan Missionaries of the Divine Motherhood Ordinance (Cap. 299)**|
+||Date of operation|1 May 1955|
+|3.|**1985 Revised Edition—Franciscan Missionaries of the Divine Motherhood Ordinance**|
 ||Date of operation|30 March 1987|
+|4.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (item (19) in the First Schedule)|
