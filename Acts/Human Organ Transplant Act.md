@@ -1,16 +1,14 @@
-**Human Organ Transplant Act 1987**
+**Human Organ Transplant Act**
 
-**(No. 15 of 1987)**
+**(CHAPTER 131A)**
 
 **Table of Contents**
 
 [**Long Title**](#Human-Organ-Transplant-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -42,7 +40,7 @@
 
 [**Part IV PROHIBITION OF TRADING IN ORGANS AND BLOOD**](#Part-IV)
 
-- [14 Certain contracts, etc., to be void](#Certain-contracts-etc-to-be-void)
+- [14 Certain contracts etc., to be void](#Certain-contracts-etc-to-be-void)
 
 - [15 Advertisements relating to buying or selling of organs or blood prohibited](#Advertisements-relating-to-buying-or-selling-of-organs-or-blood-prohibited)
 
@@ -56,47 +54,29 @@
 
 - [19 Regulations](#Regulations)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Human Organ Transplant Act
 
-ACTS SUPPLEMENT
+(CHAPTER 131A)
 
-Published by Authority
+(Original Enactment: Act 15 of 1987)
 
-NO. 16]
+REVISED EDITION 1988
 
-Friday, July 10
-
-[1987
-
-The following Act was passed by Parliament on 20th May 1987 and assented to by the President on 10th June 1987:—
-
-Human Organ Transplant Act 1987
-
-(No. 15 of 1987)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-10th June 1987.
-
-Date of Commencement: 16th July 1987
+(30th April 1988)
 
 An Act to make provision for the removal of organs from the bodies of persons who died as a result of accident for transplantation, for the definition of death and for the prohibition of trading in organs and blood and for purposes connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[16th July 1987]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Human Organ Transplant Act 1987 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Human Organ Transplant Act.
 
 ### Interpretation
 
@@ -112,7 +92,7 @@ PRELIMINARY
 
 (b) a private hospital which is declared by the Minister by notification in theGazetteto be a hospital for the purposes of this Act;
 
-“medical practitioner” means a person who is registered, or deemed to be registered, as a medical practitioner under the Medical Registration Act (Cap. 174);
+“medical practitioner” means a person who is registered, or deemed to be registered, as a medical practitioner under the Medical Registration Act [Cap. 174];
 
 “organ” means —
 
@@ -168,27 +148,23 @@ REMOVAL OF ORGAN AFTER DEATH
 
 (b) a person who holds an Entry Permit or Re-entry Permit issued by the Controller of Immigration,
 
-and who is not subject to any restriction as to his period of residence in Singapore imposed under any other written law relating to immigration.
+and who is not subject to any restriction as to his period of residence in Singapore imposed under the Immigration Act or any regulations made thereunder.
 
 ### Coroner’s consent
 
 6\.—(1) If the designated officer of the hospital has reason to believe that the circumstances applicable to the death of the person are such that the Coroner has jurisdiction to hold an inquest into the manner and cause of death of the person, the designated officer shall not authorise the removal of any organ from the body of the deceased person unless the Coroner has given his consent to the removal.
 
-(2) A consent by the Coroner under this section may be expressed to be subject to such conditions as are specified in the consent.
+(2) The consent by the Coroner under this section may be expressed to be subject to such conditions as are specified in the consent.
 
-(3) A consent may be given orally by the Coroner, and if so given shall be confirmed in writing.
+(3) The consent may be given orally by the Coroner, and if so given shall be confirmed in writing.
 
-(4) In this section,
-
-“Coroner” means a Coroner appointed under section 10 of the Subordinate Courts Act (Cap. 321).
+(4) In this section, “Coroner” means a Coroner appointed under section 10 of the Subordinate Courts Act [Cap. 321].
 
 ### Organ to be removed and transplanted by authorised medical practitioners
 
 7\.—(1) No person other than an authorised medical practitioner in a hospital shall remove any organ which is authorised to be removed pursuant to section 5 or transplant any such organ.
 
-(2) For the purposes of subsection (1),
-
-“authorised medical practitioner” means a medical practitioner who has been authorised by the Director to remove any organ pursuant to section 5 or to transplant any such organ.
+(2) For the purposes of subsection (1), “authorised medical practitioner” means a medical practitioner who has been authorised by the Director to remove any organ pursuant to section 5 or to transplant any such organ.
 
 (3) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
 
@@ -202,9 +178,9 @@ REGISTRATION OF OBJECTION
 
 ### Persons may register their objection
 
-9\.—(1) Any person who objects to the removal of any organ from his body after his death for the purpose mentioned in section 5(1) may register his objection with the Director in a prescribed form.
+9\.—(1) Any person who objects to the removal of any organ from his body after his death for the purpose mentioned in section 5(1) may register his objectionwith the Director in the prescribed form.
 
-(2) Upon receipt of the written objection of a person under subsection (1), the Director shall issue to that person an acknowledgment in a prescribed form.
+(2) Upon receipt of the written objection of a person under subsection (1), the Director shall issue to that person an acknowledgment in the prescribed form.
 
 ### Director to maintain register
 
@@ -216,9 +192,9 @@ REGISTRATION OF OBJECTION
 
 ### Persons may withdraw their objection
 
-11\.—(1) Any person who has registered his objection with the Director under section 9 may withdraw his objection in a prescribed form.
+11\.—(1) Any person who has registered his objection with the Director under section 9 may withdraw his objection in the prescribed form.
 
-(2) Upon receipt of the withdrawal under subsection (1), the Director shall issue to that person an acknowledgment in a prescribed form and shall remove the objection from the register referred to in section 10(1).
+(2) Upon receipt of the withdrawal under subsection (1), the Director shall issue to that person an acknowledgment in the prescribed form and shall remove the objection from the register referred to in section 10(1).
 
 ### Proposed recipients of organ
 
@@ -230,17 +206,17 @@ REGISTRATION OF OBJECTION
 
 (2) Notwithstanding subsection (1)(a) —
 
-(a) a person referred to in section 5(2)(g) shall have priority over a person who has registered such objection only if he has made a gift of his organ, to take effect upon his death, under section 3 of the Medical (Therapy, Education and Research) Act (Cap. 175) —
+(a) a person who is a Muslim shall have priority over a person who has registered such objection only if he has made a gift of his organ, to take effect upon his death, under section 3 of the Medical (Therapy, Education and Research) Act —
 
-(i) within 6 months from the commencement of this Act;
+(i) within 6 months from 16th July 1987;
 
-(ii) where such person is below 21 years of age, before or upon attaining the age of 21; or
+(ii) where that person is below 21 years of age, before or upon attaining the age of 21; or
 
-(iii) where such person is neither a citizen nor a permanent resident of Singapore within 6 months from the date he becomes a citizen or permanent resident of Singapore, whichever is earlier;
+(iii) where that person is neither a citizen nor a permanent resident of Singapore within 6 months from the date he becomes a citizen or permanent resident of Singapore, whichever is earlier;
 
-(b) a person referred to in section 5(2)(g) who has made a gift of his organ in accordance with paragraph (a)(i), (ii) or (iii) shall have the same priority as a person who has priority under subsection (1)(a) over a person whose objection is still registered with the Director, with effect from the date of such gift provided that such priority shall cease immediately upon the revocation of such gift; and
+(b) a person who is a Muslim and has made a gift of his organ in accordance with paragraph (a)(i), (ii) or (iii) shall have the same priority as a person who has priority under subsection (1)(a) over a person whose objection is still registered with the Director, with effect from the date of such gift provided that such priority shall cease immediately upon the revocation of such gift; and
 
-(c) a person referred to in section 5(2)(g) who has made a gift of his organ under the Medical (Therapy, Education and Research) Act (Cap. 175) after the period prescribed in paragraph (a)(i), (ii) or (iii) shall have the same priority as a person who has priority under subsection (1)(a) over a person whose objection is still registered with the Director, at the expiration of two years from the date of such gift provided he has not revoked his gift since that date.
+(c) a person who is a Muslim and has made a gift of his organ under the Medical (Therapy, Education and Research) Act [Cap. 175] after the period prescribed in paragraph (a)(i), (ii) or (iii) shall have the same priority as a person who has priority under subsection (1)(a) over a person whose objectionis still registered with the Director, at the expiration of two years from the date of such gift provided he has not revoked his gift since that date.
 
 ### Appointment of a committee
 
@@ -250,7 +226,7 @@ REGISTRATION OF OBJECTION
 
 PROHIBITION OF TRADING IN ORGANS AND BLOOD
 
-### Certain contracts, etc., to be void
+### Certain contracts etc., to be void
 
 14\.—(1) Subject to this section, a contract or arrangement under which a person agrees, for valuable consideration, whether given or to be given to himself or to another person, to the sale or supply of any organ or blood from his body or from the body of another person, whether before or after his death or the death of the other person, as the case may be, shall be void.
 
@@ -270,7 +246,7 @@ PROHIBITION OF TRADING IN ORGANS AND BLOOD
 
 ### Advertisements relating to buying or selling of organs or blood prohibited
 
-15\.—(1) No person shall issue or caused to be issued any advertisement relating to the buying or selling in Singapore of any organ or blood or of the right to take any organ or blood from the body of a person.
+15\.—(1) No person shall issue or cause to be issued any advertisement relating to the buying or selling in Singapore of any organ or blood or of the right to take any organ or blood from the body of a person.
 
 (2) In this section, “advertisement” includes every form of advertising, whether in a publication, or by the display of any notice or signboard, or by means of any catalogue, price list, letter (whether circular or addressed to a particular person) or other documents, or by words inscribed on any article, or by the exhibition of a photograph or a cinematograph film, or by way of sound recording, sound broadcasting or television, or in any other way, and any reference to the issue of an advertisement shall be construed accordingly.
 
@@ -326,3 +302,23 @@ may become publicly known.
 
 19\. The Minister may make regulations prescribing all matters that are required or permitted to be prescribed by this Act or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+## LEGISLATIVE HISTORY
+
+Human Organ Transplant Act
+
+(CHAPTER 131A)
+
+This Legislative History is provided for the convenience of users of the Human Organ Transplant Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 15 of 1987—Human Organ Transplant Act 1987**|
+||Date of First Reading|27 October 1986|
+|||(Bill No. 26/86 published on 31 October 1986)|
+||Date of Second Reading|9 December 1986|
+||Date Committed to Select Committee|9 December 1986|
+||Date of Presentation of Select Committee Report|19 January 1987 (Parl. 2 of 1987)|
+||Date of Third Reading|20 May 1987|
+||Date of commencement|16 July 1987|
+|2.|**1988 Revised Edition—Human Organ Transplant Act (Chapter 131A)**|
+||Date of operation|30 April 1988|
