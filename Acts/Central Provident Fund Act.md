@@ -2294,9 +2294,7 @@ Specified Acts Relating to Self-employed Persons
 
 34\. Telecommunication Authority of Singapore Act (Cap. 323).
 
-35\. Environmental Pollution Control Act 1999 (Act 9/99).
-
-35.
+35. Environmental Pollution Control Act 1999 (Act 9/99).
 
 [S 520/99 wef 29/11/1999]
 
@@ -2663,3 +2661,5 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 51/98 published on 24 November 1998)|
 ||Date of Second and Third Readings|20 January 1999|
 ||Date of commencement|1 April 1999|
+|104.|**G.N. No. S 520/99—Central Provident Fund Act (Amendment of Third Schedule) Notification 1999**|
+||Date of commencement|29 November 1999|
