@@ -518,7 +518,7 @@ Schedule A — Scale of pensions
 
 Schedule B — Gratuities and allowances
 
-________________
+_________________
 
 Pensions Regulations
 
@@ -674,9 +674,13 @@ Provided that —
 
 (b) any pension or gratuity to be granted to an officer in the public service under section 7(2)(c) of the Act in circumstances where that officer would be eligible for any benefit under regulation 18 or 20 shall be computed on the basis of the pensionable emoluments payable to him immediately preceding the date of his retirement.
 
-Pensions, etc., only granted for whole-time service
+Pensions granted for whole-time and part-time service
 
-14\. No pension, allowance or gratuity shall be granted under these Regulations to any officer whose whole-time is not given to the public service. Part-time service shall neither qualify nor count for pension.
+14.—(1) Subject to paragraph (2), no pension, allowance or gratuity shall be granted under these Regulations to any officer whose whole-time is not given to the public service.
+
+(2) Part-time service shall qualify as pensionable service but it shall be counted on the basis of the proportion the part-time service bears to whole-time service over the same period.
+
+[S 484/1989 wef 15/12/1989]
 
 Gratuity and reduced pension
 
@@ -1626,3 +1630,5 @@ This Legislative History is provided for the convenience of users of the Pension
 ||Date of commencement|12 September 1986|
 |30.|**1985 Revised Edition—Pensions Act**|
 ||Date of operation|30 March 1987|
+|31.|**G. N. No. S 484/1989—Pensions (Amendment) Regulations 1989**|
+||Date of commencement|15 December 1989|
