@@ -58,11 +58,11 @@
 
 - [18 Restrictions on and relief against forfeiture of leases](#Restrictions-on-and-relief-against-forfeiture-of-leases)
 
-- [18A Relief against forfeiture by action for non-payment of rent](#Relief-against-forfeiture-by-action-for-non-payment-of-rent)
+- [18A Relief against forfeiture by action for non-payment of rent. Cf. 4 George II c. 28 (Landlord and Tenant Act 1730) County Courts Act 1984, s. 138](#Relief-against-forfeiture-by-action-for-non-payment-of-rent-Cf-4-George-II-c-28-Landlord-and-Tenant-Act-1730-County-Courts-Act-1984-s-138)
 
 [**Part IV MORTGAGES**](#Part-IV)
 
-- [19 Obligation on mortgagee to transfer instead of reconveying](#Obligation-on-mortgagee-to-transfer-instead-of-reconveying)
+- [19 Obligation of mortgagee to transfer instead of reconveying](#Obligation-of-mortgagee-to-transfer-instead-of-reconveying)
 
 - [20 Power for mortgagor to inspect title deeds](#Power-for-mortgagor-to-inspect-title-deeds)
 
@@ -192,7 +192,7 @@
 
 [**Part XIIA ACCUMULATIONS**](#Part-XIIA)
 
-- [69A Restrictions on accumulation of income](#Restrictions-on-accumulation-of-income)
+- [69A Restrictions on accumulation of income. Cf. 39 and 40. George III, c. 98 (Accumulations Act 1800) Law of Property Act 1925, s. 164](#Restrictions-on-accumulation-of-income-Cf-39-and-40-George-III-c-98-Accumulations-Act-1800-Law-of-Property-Act-1925-s-164)
 
 [**Part XIII NOTICE**](#Part-XIII)
 
@@ -208,11 +208,11 @@
 
 - [73 Moneys payable under policy of assurance not to form part of the estate of the insured](#Moneys-payable-under-policy-of-assurance-not-to-form-part-of-the-estate-of-the-insured)
 
-- [73A Co-owner liable to account](#Co-owner-liable-to-account)
+- [73A Co-owner liable to account. Cf. 4 and 5 Ann, c. 3 (Administration of Justice Act 1705)](#Co-owner-liable-to-account-Cf-4-and-5-Ann-c-3-Administration-of-Justice-Act-1705)
 
-- [73B Voluntary conveyances to defraud creditors voidable](#Voluntary-conveyances-to-defraud-creditors-voidable)
+- [73B Voluntary conveyances to defraud creditors voidable. Cf. 13 Eliz. c.5 (1571) Law of Property Act 1925, s.172](#Voluntary-conveyances-to-defraud-creditors-voidable-Cf-13-Eliz-c5-1571-Law-of-Property-Act-1925-s172)
 
-- [73C Voluntary disposition of land how far voidable as against purchasers](#Voluntary-disposition-of-land-how-far-voidable-as-against-purchasers)
+- [73C Voluntary disposition of land how far voidable as against purchasers. Cf. 27 Eliz. c.4 (1584-5) Law of Property Act 1925, s. 173](#Voluntary-disposition-of-land-how-far-voidable-as-against-purchasers-Cf-27-Eliz-c4-1584-5-Law-of-Property-Act-1925-s-173)
 
 [**Part XVI PROCEDURE**](#Part-XVI)
 
@@ -220,7 +220,7 @@
 
 - [75 Orders of court not to be invalidated as against a purchaser](#Orders-of-court-not-to-be-invalidated-as-against-a-purchaser)
 
-[**THE SCHEDULE Forms relating to Statutory Mortgages**](#THE-SCHEDULE)
+[**THE SCHEDULE Forms Relating to Statutory Mortgages**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -260,15 +260,13 @@ PRELIMINARY
 
 “court” means the High Court;
 
-“fine” includes premium or foregift, and any payment, consideration or benefit in the nature of a fine, premium or foregift;
+“fine” includes premium or foregift, and any payment, consideration or benefit in the nature of a fine, premium of foregift;
 
 “incumbrance” includes a mortgage in fee or for a less estate, and a trust for securing money, and a lien and a charge of a portion, annuity or other capital or annual sum; and “incumbrancer” has a corresponding meaning, and includes every person entitled to the benefit of an incumbrance, or to require payment or discharge thereof;
 
 “instrument” includes deed and will;
 
-“land” includes land freehold and leasehold, or of whatever tenure, and tenements and hereditaments, corporeal or incorporeal, and houses and other buildings, and also an undivided share in land;
-
-In relation to land; “income” includes rents and profits; and “possession” includes receipt of income;
+“land” includes land freehold and leasehold, or of whatever tenure, and tenements and hereditaments, corporeal or incorporeal, and houses and other buildings, and also an undivided share in land; In relation to land; “income” includes rents and profits; and “possession” includes receipt of income;
 
 “lease” includes an agreement for a lease where the lessee has become entitled to have his lease granted;
 
@@ -328,7 +326,7 @@ Contracts for sale
 
 ### Limitation upon production of deeds, etc. Assumption as to recitals, etc.
 
-(5) A purchaser of any property shall not be entitled to require the production, or any abstract or copy, of any deed, will, or other document, dated or made before the time prescribed by law, or expressly stipulated, for commencement of the title, even though the same creates a power subsequently exercised by an instrument abstracted in the abstract furnished to the purchaser; nor shall he require any information, or make any requisition, objection or inquiry, with respect to any such deed, will or document, or the title prior to that time, notwithstanding that any such deed, will or other document, or that prior title, is recited, covenanted to be produced, or noticed; and he shall assume, unless the contrary appears, that the recitals contained in the abstracted instruments of any deed, will or other document, forming part of that prior title, are correct, and give all the material contents of the deed, will or other document so recited, and that every document so recited was duly executed by all necessary parties and perfected, if and as required, by acknowledgment, enrolment or otherwise.
+(5) A purchaser of any property shall not be entitled to require the production, or any abstract or copy, of any deed, will, or other document, dated or made before the time prescribed by law, or expressly stipulated, for commencement of the title, even though the same creates a power subsequently exercised by an instrument abstracted in the abstract furnished to the purchaser; nor shall he require any information, or make any requisition, objection or inquiry, with respect to any such deed, will or document, or the title prior to that time, notwithstanding that any such deed, will or other document, or that prior title, is recited, covenanted to be produced, or noticed; and he shall assume, unless the contrary appears, that the recitals contained in the abstracted instruments of any deed, will or other document, forming part of that prior title, are correct, and give all the material contents of the deed, will or other documents so recited, and that every document so recited was duly executed by all necessary parties and perfected, if and as required, by acknowledgment, enrolment or otherwise.
 
 ### Assumption as to land sold when held by lease; and upon production of receipt
 
@@ -378,6 +376,8 @@ Contracts for sale
 
 4\.—(1) A vendor or purchaser of land, or their representatives respectively, may at any time or times, and from time to time, apply in a summary way to the court by summons intituled in the matter of this Act, and in the matter of the contract of sale, in respect of any requisitions or objections, or any claim for compensation, or any other question arising out of or connected with the contract not being a question affecting the existence or validity of the contract.
 
+[42/2005 wef 01/01/2006]
+
 (2) The court shall make such order upon the application as seems just, and shall order how and by whom all or any of the costs of and incident to the application shall be borne and paid.
 
 ### Provision by court for incumbrance, and sale freed therefrom
@@ -418,9 +418,7 @@ Covenants for title
 
 On conveyance for value. Right to convey. Quiet enjoyment. Freedom from incumbrance. Further assurance
 
-(a)
-
-in a conveyance for valuable consideration, other than a mortgage, the following covenant by every person who conveys and is not expressed to convey in a fiduciary capacity:
+(a) in a conveyance for valuable consideration, other than a mortgage, the following covenant by every person who conveys and is not expressed to convey in a fiduciary capacity:
 
 that, notwithstanding anything by the person who so conveys, or anyone through whom he derives title, otherwise than by purchase for value, made, done, executed or omitted, or knowingly suffered, the person who so conveys, has, with the concurrence of every other person (if any) conveying by his direction, full power to convey the subject-matter expressed to be conveyed, subject as, if so expressed, and in the manner in which, it is expressed to be conveyed, and that, notwithstanding anything as aforesaid, that subject-matter shall remain to and be quietly entered upon, received and held, occupied, enjoyed and taken, by the person to whom the conveyance is expressed to be made, and any person deriving title under him, and the benefit thereof shall be received and taken accordingly, without any lawful interruption or disturbance by the person who so conveys or any person conveying by his direction, or rightfully claiming or to claim by, through, under or in trust for the person who so conveys, or any person conveying by his direction, or by, through or under anyone not being a person claiming in respect of an estate or interest subject to which the conveyance is expressly made, through whom the person who so conveys derives title, otherwise than by purchase for value; and that, freed and discharged from, or otherwise by the person who so conveys sufficiently indemnified against, all such estates, incumbrances, claims and demands other than those subject to which the conveyance is expressly made, as either before or after the date of the conveyance have been or shall be made, occasioned or suffered by that person or by any person conveying by his direction, or by any person rightfully claiming by, through, under or in trust for the person who so conveys, or by, through or under any person conveying by his direction, or by, through or under anyone through whom the person who so conveys derives title, otherwise than by purchase for value; and further, that the person who so conveys, and any person conveying by his direction, and every other person having or rightfully claiming any estate or interest in the subject-matter of conveyance, other than an estate or interest subject to which the conveyance is expressly made, by, through, under or in trust for the person who so conveys, or by, through or under any person conveying by his direction, or by, through or under anyone through whom the person who so conveys derives title, otherwise than by purchase for value, will, from time to time and at all times after the date of the conveyance, on the request and at the cost of any person to whom the conveyance is expressed to be made, or of any person deriving title under him, execute and do all such lawful assurances and things for further or more perfectly assuring the subject-matter of the conveyance to the person to whom the conveyance is made, and to those deriving title under him, subject as, if so expressed, and in the manner in which the conveyance is expressed to be made, as by him or them or any of them shall be reasonably required:
 
@@ -428,9 +426,7 @@ that, notwithstanding anything by the person who so conveys, or anyone through w
 
 On conveyance of leasehold for value. Validity of lease
 
-(b)
-
-in a conveyance of leasehold property for valuable consideration, other than a mortgage, the following further covenant by every person who conveys and is not expressed to convey in a fiduciary capacity:
+(b) in a conveyance of leasehold property for valuable consideration, other than a mortgage, the following further covenant by every person who conveys and is not expressed to convey in a fiduciary capacity:
 
 that, notwithstanding anything by the person who so conveys, or anyone through whom he derives title otherwise than by purchase for value, made, done, executed or omitted, or knowingly suffered, the lease or grant creating the term or estate for which the land is conveyed is, at the time of conveyance, a good, valid and effectual lease or grant of the property conveyed, and is in full force, unforfeited, unsurrendered and in no way has become void or voidable, and that, notwithstanding anything as aforesaid, all the rents reserved by, and all the covenants, conditions and agreements contained in, the lease or grant, and on the part of the lessee or grantee and the persons deriving title under him to be paid, observed and performed, have been paid, observed and performed up to the time of conveyance:
 
@@ -438,35 +434,27 @@ that, notwithstanding anything by the person who so conveys, or anyone through w
 
 On mortgages. Right to convey. Freedom from incumbrance. Further assurance
 
-(c)
-
-in a conveyance by way of mortgage, the following covenant by every person who conveys and is not expressed to convey in a fiduciary capacity:
+(c) in a conveyance by way of mortgage, the following covenant by every person who conveys and is not expressed to convey in a fiduciary capacity:
 
 that the person who so conveys, has with the concurrence of every other person (if any) conveying by his direction, full power to convey the subject-matter expressed to be conveyed by him, subject as, if so expressed, and in the manner in which it is expressed to be conveyed; and also that, if default is made in payment of the money intended to be secured by the conveyance, or any interest thereon, or any part of that money or interest, contrary to any provision in the conveyance, it shall be lawful for the person to whom the conveyance is expressed to be made, and the persons deriving title under him, to enter into and upon, or receive and thenceforth quietly hold, occupy and enjoy or take and have, the subject-matter expressed to be conveyed, or any part thereof, without any lawful interruption or disturbance by the person who so conveys, or any person conveying by his direction, or any person not being a person claiming in respect of an estate or interest subject to which the conveyance is expressly made; and that, freed and discharged from, or otherwise by the person who so conveys sufficiently indemnified against, all estates, incumbrances, claims and demands whatsoever, other than those subject to which the conveyance is expressly made; and further, that the person who so conveys and every person conveying by his direction, and every person deriving title under any of them, and every other person having or rightfully claiming any estate or interest in the subject-matter of conveyance, or any part thereof, other than an estate or interest subject whereto the conveyance is expressly made, will, from time to time and at all times, on the request of any person to whom the conveyance is expressed to be made, or of any person deriving title under him, but, as long as any right of redemption exists under the conveyance, at the cost of the person so conveying, or of those deriving title under him, and afterwards at the cost of the person making the request, execute and do all such lawful assurances and things for further or more perfectly assuring the subject-matter of conveyance and every part thereof to the person to whom the conveyance is made, and to those deriving title under him, subject as, if so expressed, and in the manner in which the conveyance is expressed to be made, as by him or them or any of them shall be reasonably required;
 
 On mortgages of leaseholds. Validity of lease. Payment of rent and performance of covenants
 
-(d)
-
-in a conveyance by way of mortgage of leasehold property, the following further covenant by a person who conveys and is not expressed to convey in a fiduciary capacity:
+(d) in a conveyance by way of mortgage of leasehold property, the following further covenant by a person who conveys and is not expressed to convey in a fiduciary capacity:
 
 that the lease or grant creating the term or estate for which the land is held is, at the time of conveyance, a good, valid and effectual lease or grant of the land conveyed and is in full force, unforfeited and unsurrendered and in no way has become void or voidable, and that all the rents reserved by, and all the covenants, conditions and agreements contained in, the lease or grant, and on the part of the lessee or grantee and the persons deriving title under him to be paid, observed and performed, have been paid, observed and performed up to the time of conveyance; and also that the person so conveying, or the persons deriving title under him, will at all times, as long as any money remains on the security of the conveyance, pay, observe and perform, or cause to be paid, observed and performed all the rents reserved by, and all the covenants, conditions and agreements contained in, the lease or grant, and on the part of the lessee or grantee and the persons deriving title under him to be paid, observed and performed, and will keep the person to whom the conveyance is made, and those deriving title under him, indemnified against all actions, proceedings, costs, charges, damages, claims and demands (if any) to be incurred or sustained by him or them by reason of the non-payment of the rent or the non-observance or non-performance of those covenants, conditions, agreements, or any of them;
 
 On a settlement. For further assurance limited
 
-(e)
-
-in a conveyance by way of settlement, the following covenant by a person who conveys and is not expressed to convey in a fiduciary capacity:
+(e) in a conveyance by way of settlement, the following covenant by a person who conveys and is not expressed to convey in a fiduciary capacity:
 
 that the person so conveying, and every person deriving title under him by deed or act or operation of law in his lifetime subsequent to that conveyance, or by testamentary disposition or devolution in law, on his death, will, from time to time and at all times, after the date of that conveyance, at the request and cost of any person deriving title thereunder, execute and do all such lawful assurances and things for further or more perfectly assuring the subject-matter of the conveyance to the persons to whom the conveyance is made and those deriving title under them, subject as, if so expressed, and in the manner in which the conveyance is expressed to be made, as by them or any of them shall be reasonably required;
 
 Conveyance by trustee. Against incumbrances
 
-(f)
+(f) in any conveyance, the following covenant by every person who conveys and is expressed to convey in a fiduciary capacity, which covenant shall be deemed to extend to every such person’s own acts only:
 
-in any conveyance, the following covenant by every person who conveys and is expressed to convey in a fiduciary capacity, which covenant shall be deemed to extend to every such person’s own acts only:
-
-that the person so conveying has not executed or done, or knowingly suffered, or been party or privy to, any deed or thing, whereby or by means whereof the subject-matter of the conveyance, or any part thereof, is or may be impeached, charged, affected or incumbered in title, estate or otherwise, or whereby or by means whereof the person who so conveys is in anywise hindered from conveying the subject-matter of the conveyance, or any part thereof, in the manner in which it is expressed to be conveyed.
+that the person so conveying has not executed or done, or knowingly suffered, or been party or privy to, any deed or thing, whereby or by means whereof the subject-matter of the conveyance, or any part thereof, is or may be impeached, charged, affected, or incumbered in title, estate or otherwise, or whereby or by means whereof the person who so conveys is in anywise hindered from conveying the subject-matter of the conveyance, or any part thereof, in the manner in which it is expressed to be conveyed.
 
 (2) Where in a conveyance it is expressed that by direction of one person another person conveys, then, within this section, the person giving the direction shall be deemed to convey the subject-matter so conveyed by his direction; and a covenant on his part shall be implied accordingly.
 
@@ -475,6 +463,8 @@ that the person so conveying has not executed or done, or knowingly suffered, or
 (4) A covenant implied as aforesaid may be varied or extended by deed, and, as so varied or extended, shall, as far as may be, operate in the like manner, and with all the like incidents, effects and consequences, as if the variations or extensions were directed in this section to be implied.
 
 (5) A person who is expressed to convey as trustee or mortgagee, or as personal representative of a deceased person, or as committee of a mentally disordered person, or under an order of the court, shall be deemed to be expressed to convey in a fiduciary capacity.
+
+[21/2008 wef 01/03/2010]
 
 (6) This section shall apply only to conveyances made on or after 1st August 1886.
 
@@ -648,15 +638,9 @@ Forfeiture
 
 (10) This section shall apply to leases made before, on or after 1st August 1886, and shall have effect notwithstanding any stipulation to the contrary.
 
-### Relief against forfeiture by action for non-payment of rent
+### Relief against forfeiture by action for non-payment of rent. Cf. 4 George II c. 28 (Landlord and Tenant Act 1730) County Courts Act 1984, s. 138
 
 18A\.—(1) This section has effect where a lessor is proceeding by action to enforce against a lessee a right of re-entry or forfeiture in respect of any immovable property for non-payment of rent.
-
-[Cf. 4 George II c. 28 (Landlord and Tenant Act 1730)]
-
-[County Courts Act 1984, s. 138]
-
-[35/93]
 
 (2) If, within the time prescribed by rules of court for acknowledging service of the writ by which the action was commenced, the lessee pays into court all the rent in arrear and the costs of the action, the action shall cease, and the lessee shall hold the land according to the lease without any new lease.
 
@@ -716,11 +700,13 @@ the court shall suspend the writ for the extended period, and if, before the exp
 
 (b) the power of the court to make any order which it would otherwise have power to make as respects a right of re-entry or forfeiture on any ground other than non-payment of rent.
 
+[35/93]
+
 ## PART IV
 
 MORTGAGES
 
-### Obligation on mortgagee to transfer instead of reconveying
+### Obligation of mortgagee to transfer instead of reconveying
 
 19\.—(1) Where a mortgagor is entitled to redeem, he shall have power to require the mortgagee, instead of reconveying, and on the terms on which he would be bound to reconvey, to assign the mortgage debt and convey the mortgaged property to any third person as the mortgagor directs, and the mortgagee shall assign and convey accordingly.
 
@@ -828,7 +814,7 @@ Sale, insurance, receiver
 
 (6) The mortgagee, his executors, administrators or assigns shall not be answerable for any involuntary loss happening in or about the exercise or execution of the power of sale conferred by this Act or of any trust connected therewith.
 
-(7) At any time after the power of sale conferred by this Act has become exercisable, the person entitled to exercise it may demand and recover from any person, other than a person having in the mortgaged property, an estate, interest or right in priority to the mortgage, all the deeds and documents relating to the property, or to the title thereto, which a purchaser under the power of sale would be entitled to demand and recover from him.
+(7) At any time after the power of sale conferred by this Act has become exercisable, the person entitled to exercise it may demand and recover from any person, other than a person having in the mortgaged property an estate, interest or right in priority to the mortgage, all the deeds and documents relating to the property, or to the title thereto, which a purchaser under the power of sale would be entitled to demand and recover from him.
 
 ### Mortgagee’s receipts, discharges, etc.
 
@@ -924,7 +910,7 @@ that if the mortgagor, on the stated day, pays to the mortgagee the stated mortg
 
 (3) If the deed of transfer is made in the Form B in Part II of the Schedule, there shall also be deemed to be included, and there shall be implied therein, a covenant with the transferee by the person expressed to join therein as covenantor —
 
-that the covenantor will, on the next of the days by the mortgage deed fixed for payment of interest, pay to the transferee the stated mortgage money, or so much thereof as then remains unpaid, with interest thereon, or on the unpaid part thereof, in the meantime, at the rate stated in the mortgage deed; and will thereafter, as long as the mortgage money, or any part thereof, remains unpaid, pay to the transferee interest on that sum, or the unpaid part thereof, at the same rate on the successive days by the mortgage deed fixed for payment of interest.
+ that the covenantor will, on the next of the days by the mortgage deed fixed for payment of interest, pay to the transferee the stated mortgage money, or so much thereof as then remains unpaid, with interest thereon, or on the unpaid part thereof, in the meantime, at the rate stated in the mortgage deed; and will thereafter, as long as the mortgage money, or any part thereof, remains unpaid, pay to the transferee interest on that sum, or the unpaid part thereof, at the same rate on the successive days by the mortgage deed fixed for payment of interest.
 
 (4) If the deed of transfer is made in the Form C in Part II of the Schedule, it shall operate not only as a statutory transfer of mortgage, but also as a statutory mortgage, and this section shall have effect in relation thereto accordingly; but it shall not be liable to any increased stamp duty by reason only of its being designated a mortgage.
 
@@ -966,7 +952,7 @@ MARRIED WOMEN, ALIENS, CORPORATIONS
 
 ### Power for corporations to hold property as joint tenants
 
-39\.—(1) Subject to the provisions of the Residential Property Act [Cap. 274], a body corporate shall be capable of acquiring and holding any real or personal property in joint tenancy in the same manner as if it were an individual; and where a body corporate and an individual, or two or more bodies corporate, become entitled to any such property under circumstances or by virtue of any instrument which would, if the body corporate had been an individual, have created a joint tenancy, they shall be entitled to the property as joint tenants:
+39\.—(1) Subject to the provisions of the Residential Property Act, a body corporate shall be capable of acquiring and holding any real or personal property in joint tenancy in the same manner as if it were an individual; and where a body corporate and an individual, or two or more bodies corporate, become entitled to any such property under circumstances or by virtue of any instrument which would, if the body corporate had been an individual, have created a joint tenancy, they shall be entitled to the property as joint tenants:
 
 Provided that the acquisition and holding of property by a body corporate in joint tenancy shall be subject to the like conditions and restrictions as attach to the acquisition and holding of property by a body corporate in severalty.
 
@@ -978,11 +964,15 @@ INFANTS
 
 ### Sales and leases on behalf of infant owner
 
-40\. Where a person in his own right seised of or entitled to any land is an infant, the land shall be deemed to be a settled estate within the Civil Law Act [Cap. 43] and the Settled Estates Act [Cap 293].
+40\. Where a person in his own right seised of or entitled to any land is an infant, the land shall be deemed to be a settled estate withinthe Civil Law Act and the Settled Estates Act.
+
+[7/2009 wef 01/03/2009]
 
 ### Management of land and receipt and application of income during minority
 
 41\.—(1) If and as long as any person who would but for this section be beneficially entitled to the possession of any land is an infant, the trustees appointed for this purpose by the settlement (if any) or if there are none so appointed, then the persons (if any) who are for the time being under the settlement trustees with power of sale of the settled land, or of part thereof, or with power of consent to or approval of the exercise of such a power of sale, of if there are none, then any persons appointed as trustees for this purpose by the court, on the application of a guardian or next friend of the infant, may enter into and continue in possession of the land; and in every such case subsections (2) to (8) shall apply.
+
+[7/2009 wef 01/03/2009]
 
 (2) The trustees shall manage or superintend the management of the land, with full power —
 
@@ -1004,6 +994,8 @@ INFANTS
 
 but so that, where the infant is impeachable for waste, the trustees shall not commit waste, and shall cut timber on the same terms only, and subject to the same restrictions, on and subject to which the infant could, if of full age, cut it.
 
+[7/2009 wef 01/03/2009]
+
 (3) The trustees may from time to time, out of the income of the land, including the produce of the sale of timber and underwood, pay the expenses incurred in the management, or in the exercise of any power conferred by this section, or otherwise in relation to the land, and all outgoings not payable by any tenant or other person, and shall keep down any annual sum, and the interest of any principal sum, charged on the land.
 
 (4) The trustees may, in their discretion, apply any income which, in the exercise of their discretion they consider proper, according to the infant’s age, for his or her maintenance, education or benefit, or pay thereout any money to the infant’s parent or guardian, to be applied for the same purposes.
@@ -1012,13 +1004,21 @@ but so that, where the infant is impeachable for waste, the trustees shall not c
 
 (a) if the infant attains the age of 21 years, then in trust for the infant;
 
+[7/2009 wef 01/03/2009]
+
 (b) if the infant is a woman and marries while an infant, then in trust for her separate use, independently of her husband, and so that her receipt after she marries, and though still an infant, shall be a good discharge; and
 
+[7/2009 wef 01/03/2009]
+
 (c) if the infant dies while an infant, and being a woman without having been married, then where the infant was under a settlement tenant for life, on the trusts (if any) declared of the accumulated fund by that settlement, but where no such trusts are declared or the infant is seised of or entitled to any land for an estate in fee simple absolute or conditional, or for any leasehold interest, then in trust for the infant’s personal representatives as part of the infant’s estate.
+
+[7/2009 wef 01/03/2009]
 
 (6) Where the infant’s estate or interest is in an undivided share of land, the powers of this section relative to the land may be exercised jointly with persons entitled to possession of, or having power to act in relation to, the other undivided share or shares.
 
 (7) This section shall apply only if and as far as a contrary intention is not expressed in the instrument under which the interest of the infant arises, and shall have effect subject to the terms of that instrument and to the provisions therein contained.
+
+[7/2009 wef 01/03/2009]
 
 (8) This section shall apply —
 
@@ -1030,9 +1030,13 @@ but so that, where the infant is impeachable for waste, the trustees shall not c
 
 42\.—(1) Where any property is held by trustees in trust for an infant, either for life, or for any greater interest, and whether absolutely or contingently on his attaining the age of 21 years, or on the occurrence of any event before his attaining that age, the trustees may, at their sole discretion, pay to the infant’s parent or guardian (if any) or otherwise apply for or towards the infant’s maintenance, education or benefit, the whole or any part of the income to which the infant may be or become entitled in respect of that property, whether there is any other fund applicable to the same purpose or any person bound by law to provide for the infant’s maintenance or education or not.
 
+[7/2009 wef 01/03/2009]
+
 (2) The trustees shall accumulate all the residue of that income in the way of compound interest, by investing the same and the resulting income thereof from time to time on securities on which they are by the settlement (if any) or by law authorised to invest trust money, and shall hold those accumulations for the benefit of the person who ultimately becomes entitled to the property from which the same arise; but so that the trustees may at any time, if they think fit, apply those accumulations, or any part of them, as if they were income arising in the then current year.
 
 (3) This section shall apply only if and as far as a contrary intention is not expressed in the instrument under which the interest of the infant arises, and shall have effect subject to the terms of that instrument and to the provisions therein contained.
+
+[7/2009 wef 01/03/2009]
 
 (4) This section shall apply only in relation to instruments coming into operation at any time before 1st September 1929.
 
@@ -1056,9 +1060,15 @@ POWERS OF ATTORNEY
 
 (a) the power shall not be revoked for and during that fixed time, either by anything done by the donor of the power without the concurrence of the donee of the power, or by the death, marriage, unsoundness of mind or bankruptcy of the donor of the power;
 
+[21/2008 wef 01/03/2010]
+
 (b) any act done within that fixed time by the donee of the power in pursuance of the power shall be as valid as if anything done by the donor of the power, without the concurrence of the donee of the power, or the death, marriage, unsoundness of mind or bankruptcy of the donor of the power had not been done or happened; and
 
+[21/2008 wef 01/03/2010]
+
 (c) neither the donee of the power nor the purchaser shall at any time be prejudicially affected by notice either during or after that fixed time of anything done by the donor of the power during that fixed time without the concurrence of the donee of the power or of the death, marriage, unsoundness of mind or bankruptcy of the donor of the power within that fixed time.
+
+[21/2008 wef 01/03/2010]
 
 ### Execution under power of attorney
 
@@ -1072,6 +1082,8 @@ POWERS OF ATTORNEY
 
 46\.—(1) Any person making or doing any payment or act, in good faith, in pursuance of a power of attorney, shall not be liable in respect of the payment or act by reason that before the payment or act the donor of the power had died or become of unsound mind, or bankrupt, or had revoked the power, if the fact of death, unsoundness of mind, bankruptcy or revocation was not at the time of the payment or act known to the person making or doing the same.
 
+[21/2008 wef 01/03/2010]
+
 (2) This section shall not affect any right against the payee of any person interested in the money so paid; and that person shall have the like remedy against the payee as he would have had against the payer if the payment had not been made by him.
 
 ### Statutory declaration by attorney
@@ -1084,11 +1096,15 @@ POWERS OF ATTORNEY
 
 ### Deposit of power of attorney
 
-48\.—(1) (a) An instrument creating a power of attorney, its execution being verified by affidavit, statutory declaration, notarial certificate or other sufficient evidence, or a true copy of the instrument duly compared therewith and marked by the Registrar, Deputy Registrar or Assistant Registrar of the Supreme Court with the words “true copy”, or, if the instrument is registered in Malaysia, an office copy thereof, may be deposited in the Registry of the Supreme Court.
+48\.—(1)(a) An instrument creating a power of attorney, its execution being verified by affidavit, statutory declaration, notarial certificate or other sufficient evidence, or a true copy of the instrument duly compared therewith and marked by the Registrar, Deputy Registrar or Assistant Registrar of the Supreme Court with the words “true copy”, or, if the instrument is registered in Malaysia, an office copy thereof, may be deposited in the Registry of the Supreme Court.
 
-(b) For the purposes of this section, a photographic reproduction of any such instrument made in such manner and of such dimensions as may be prescribed by general rule shall be deemed to be a true copy of the instrument.
+(b)
 
-(c) The affidavit or declaration, if any, verifying the execution of any instrument creating a power of attorney, or, where an office or true copy of such an instrument is deposited, an office or true copy of that affidavit or declaration, shall be deposited with the instrument or copy of the instrument, and paragraphs (a) and (b) shall apply, mutatis mutandis, to such office or true copy.
+For the purposes of this section, a photographic reproduction of any such instrument made in such manner and of such dimensions as may be prescribed by general rule shall be deemed to be a true copy of the instrument.
+
+(c)
+
+The affidavit or declaration, if any, verifying the execution of any instrument creating a power of attorney, or, where an office or true copy of such an instrument is deposited, an office or true copy of that affidavit or declaration, shall be deposited with the instrument or copy of the instrument, and paragraphs (a) and (b) shall apply, mutatis mutandis, to such office or true copy.
 
 (2) In the case of any instrument creating a power of attorney in a foreign language being so deposited, there shall be deposited therewith a translation thereof, certified by a sworn interpreter of the court, or if there is no interpreter attached to the court sworn to interpret in the language in which the instrument is written, the translation shall be verified by a statutory declaration of some person qualified to translate it.
 
@@ -1100,7 +1116,7 @@ POWERS OF ATTORNEY
 
 (6) If the instrument so deposited is in a foreign language, an office copy of the translation deposited with the instrument shall without further proof be admissible in evidence as a correct translation of the original document.
 
-(7) The fees to be taken in the Registry shall be fixed by the Chief Justice with the concurrence of the President.
+(7) The fees to be taken in the Registry shall be fixed by the Chief Justice.
 
 (8) If any such instrument so deposited at any time thereafter has been or is revoked, the Registrar of the Supreme Court, on being satisfied by affidavit or statutory declaration or otherwise that the instrument has been revoked, shall endorse thereon a certificate stating that it has been revoked and the date thereof, and thereupon the instrument shall be deemed to have been duly revoked as from the date of that certificate.
 
@@ -1110,12 +1126,7 @@ POWERS OF ATTORNEY
 
 ## PART XI
 
-CONSTRUCTION AND EFFECT OF DEEDS AND
-
-
-
-
-OTHER INSTRUMENTS
+CONSTRUCTION AND EFFECT OF DEEDS AND OTHER INSTRUMENTS
 
 ### Use of word “grant” unnecessary
 
@@ -1135,9 +1146,11 @@ OTHER INSTRUMENTS
 
 (2) This section shall apply only to instruments coming into operation on or after 1st August 1886.
 
+[27 Hen.VIII.c.10.]
+
 ### Estates may be conveyed by deed though not operating under Statute of Uses
 
-52\.—(1) Any estate or interest in land, whether in possession, remainder or reversion, may be conveyed by a simple deed, whether the deed operates under the Statute of Uses [27 Hen. VIII. c. 10]\*or not.
+52\.—(1) Any estate or interest in land, whether in possession, remainder or reversion, may be conveyed by a simple deed, whether the deed operates under the Statute of Uses\*or not.
 
 \*The Statute of Uses was repealed as to Singapore by Ordinance 6 of 1886.
 
@@ -1146,8 +1159,6 @@ OTHER INSTRUMENTS
 ### Conveyance to be by deed in English language
 
 53\.—(1) A conveyance of any estate or interest in land other than a lease for a period not exceeding 7 years at a rack rent shall be void at law unless it is by deed in the English language.
-
-[27/93]
 
 (2) This section shall only apply to conveyances executed on or after 1st March 1994.
 
@@ -1237,7 +1248,9 @@ the mortgage money, or other money or money’s worth, for the time being due to
 
 ### Consideration expressed in instrument authority for payment to solicitor
 
-65A\. Where a solicitor produces an instrument as defined in the Land Titles Act [Cap. 157] in which consideration is expressed and which has been executed by the person in whose favour the consideration is payable or has been paid or partly payable and partly paid, that instrument shall be sufficient authority to the person liable to pay or give the same for his paying or giving the same to the solicitor, without the solicitor producing any separate or other direction or authority in that behalf from the person who executed or signed the instrument.
+65A\. Where a solicitor produces an instrument as defined in the Land Titles Act in which consideration is expressed and which has been executed by the person in whose favour the consideration is payable or has been paid or partly payable and partly paid, that instrument shall be sufficient authority to the person liable to pay or give the same for his paying or giving the same to the solicitor, without the solicitor producing any separate or other direction or authority in that behalf from the person who executed or signed the instrument.
+
+[Cap 157.]
 
 [27/93]
 
@@ -1250,6 +1263,8 @@ the mortgage money, or other money or money’s worth, for the time being due to
 ### Severance of tenancy in common and joint tenancy
 
 66A\.—(1) Tenants in common who intend to hold their estate or interest in land as joint tenants may jointly declare by a deed of declaration that they hold the estate or interest in their respective shares in the land as joint tenants of the entire estate or interest thereof.
+
+[25/2001 wef 20/08/2001]
 
 [27/93]
 
@@ -1266,6 +1281,8 @@ the mortgage money, or other money or money’s worth, for the time being due to
 (3) Without prejudice to any rule or principle of law relating to severance of a joint tenancy, a joint tenant may sever a joint tenancy of an estate or interest in land by a deed of declaration and by serving a copy of the deed of declaration personally or by registered post on the other joint tenants.
 
 (4) Upon the making of the deed of declaration and the service of the deed of declaration pursuant to subsection (3), the respective estates and interests in the land shall be held by the declarant and the remaining joint tenants as tenants in common in their respective shares.
+
+[25/2001 wef 20/08/2001]
 
 (5) Where a joint tenant holds an estate or interest in land on trust, the severance of the joint tenancy shall not affect the rights of the beneficiary of the trust or the operation of the law relating to breaches of trust.
 
@@ -1301,7 +1318,7 @@ POWERS
 
 ACCUMULATIONS
 
-### Restrictions on accumulation of income
+### Restrictions on accumulation of income. Cf. 39 and 40. George III, c. 98 (Accumulations Act 1800) Law of Property Act 1925, s. 164
 
 69A\.—(1) No person may by any instrument or otherwise settle or dispose of any property in such manner that the income thereof shall, except as provided in subsection (2), be wholly or partially accumulated for any longer period than one of the following, namely:
 
@@ -1311,19 +1328,13 @@ ACCUMULATIONS
 
 (c) the duration of the minority or respective minorities of any person or persons living or en ventre sa mere at the death of the grantor, settlor or testator;
 
-(d) the duration of the minority or respective minorities only of any person or persons who under the limitations of the insturment directing the accumulations would, for the time being, if of full age, be entitled to the income directed to be accumulated;
+(d) the duration of the minority or respective minorities only of any person or persons who under the limitations of the instrument directing the accumulations would, for the time being, if of full age, be entitled to the income directed to be accumulated;
 
 (e) a term of 21 years from the date of the making of the disposition; or
 
 (f) the duration of the minority or respective minorities of any person or persons in being at the date of the making of the disposition.
 
 In every case where any accumulation is directed otherwise than as aforesaid, the direction shall, except as provided in subsection (2), be void; and the income of the property directed to be accumulated shall, so long as the same is directed to be accumulated contrary to this section, go to and be received by the person or persons who would have been entitled thereto if such accumulation had not been directed.
-
-[Cf. 39 and 40. George III, c. 98 (Accumulations Act 1800)]
-
-[Law of Property Act 1925, s. 164]
-
-[35/93]
 
 (2) This section does not extend to any provision —
 
@@ -1336,6 +1347,8 @@ In every case where any accumulation is directed otherwise than as aforesaid, th
 (ii) any child, children or remoter issue of a person taking any interest under any settlement or other disposition directing the accumulations or to whom any interest is thereby limited,
 
 and accordingly such provisions may be made as if no statutory restrictions on accumulation of income had been imposed.
+
+[35/93]
 
 ## PART XIII
 
@@ -1389,49 +1402,41 @@ MISCELLANEOUS
 
 73\.—(1) A policy of assurance effected by any man on his own life and expressed to be for the benefit of his wife or of his children or of his wife and children or any of them, or by any woman on her own life and expressed to be for the benefit of her husband or of her children or of her husband and children or any of them, shall create a trust in favour of the objects therein named, and the moneys payable under any such policy shall not, so long as any object of the trust remains unperformed, form part of the estate of the insured or be subject to his or her debts.
 
+[3/2009 wef 01/09/2009]
+
 (2) If it is proved that the policy was effected and the premiums paid with intent to defraud the creditors of the insured, they shall be entitled to receive out of the moneys payable under the policy a sum equal to the premiums so paid.
 
 (3) The insured may, by the policy or by any memorandum under his or her hand, appoint a trustee or trustees of the moneys payable under the policy, and from time to time appoint a new trustee or new trustees thereof, and may make provision for the appointment of a new trustee or new trustees thereof and for the investment of the moneys payable under any such policy.
 
-(4) In default of any such appointment of a trustee, the policy immediately on its being effected shall vest in the insured and his or her legal personal representatives in trust for the purposes aforesaid.
+(4) In default of any such appointment of a trustee, the policyimmediately on its being effected shall vest in the insured and his or her legal personal representatives in trust for the purposes aforesaid.
 
 (5) If at the time of the death of the insured or at any time afterwards there is no trustee, or it is expedient to appoint a new trustee or new trustees, a trustee or trustees or a new trustee or new trustees may be appointed by the High Court.
 
 (6) The receipt of a trustee or trustees duly appointed or, in default of any such appointment or in default of notice to the insurance office, the receipt of the legal personal representative of the insured, shall be a discharge to the office for the sum secured by the policy or for the value thereof in whole or in part.
 
-### Co-owner liable to account
+### Co-owner liable to account. Cf. 4 and 5 Ann, c. 3 (Administration of Justice Act 1705)
 
 73A\. A joint tenant or tenant in common shall be liable to account to his co-owner for receiving more than his share or proportion of any rents or profits arising from the property.
 
-[Cf. 4 and 5 Ann, c. 3 (Administration of Justice Act 1705)]
-
 [35/93]
 
-### Voluntary conveyances to defraud creditors voidable
+### Voluntary conveyances to defraud creditors voidable. Cf. 13 Eliz. c.5 (1571) Law of Property Act 1925, s.172
 
 73B\.—(1) Except as provided in this section, every conveyance of property, made whether before or after 12th November 1993, with intent to defraud creditors, shall be voidable, at the instance of any person thereby prejudiced.
-
-[Cf. 13 Eliz. c.5 (1571)]
-
-[Law of Property Act 1925, s.172]
-
-[35/93]
 
 (2) This section does not affect the law relating to bankruptcy for the time being in force.
 
 (3) This section does not extend to any estate or interest in property disposed of for valuable consideration and in good faith or upon good consideration and in good faith to any person not having, at the time of the disposition, notice of the intent to defraud creditors.
 
-### Voluntary disposition of land how far voidable as against purchasers
+[35/93]
+
+### Voluntary disposition of land how far voidable as against purchasers. Cf. 27 Eliz. c.4 (1584-5) Law of Property Act 1925, s. 173
 
 73C\.—(1) Every voluntary disposition of immovable property made with intent to defraud a subsequent purchaser is voidable at the instance of that purchaser.
 
-[Cf. 27 Eliz. c.4 (1584-5)]
-
-[Law of Property Act 1925, s.173]
+(2) For the purposes of this section, no voluntary disposition shall be deemed to have been made with intent to defraud by reason only that a subsequent disposition for valuable consideration was made.
 
 [35/93]
-
-(2) For the purposes of this section, no voluntary disposition shall be deemed to have been made with intent to defraud by reason only that a subsequent disposition for valuable consideration was made.
 
 ## PART XVI
 
@@ -1441,7 +1446,7 @@ PROCEDURE
 
 74\.—(1) Payment of money into court shall effectually exonerate therefrom the person making the payment.
 
-(2) Every application to the court shall, except where it is otherwise expressed, be by summons in chambers.
+(2) Every application to the court shall, except where it is otherwise expressed, be by summonsin chambers.
 
 (3) On an application by a purchaser, notice shall be served in the first instance on the vendor.
 
@@ -1463,11 +1468,11 @@ PROCEDURE
 
 Section 31(1).
 
-Forms relating to Statutory Mortgages
+Forms Relating to Statutory Mortgages
 
 Part I
 
-STATUTORY MORTGAGE
+Statutory Mortgage
 
 This Indenture of Statutory Mortgage made the of 19 , betweenAof (etc.) of the one part andMof (etc.) of the other part,
 
@@ -1477,13 +1482,11 @@ IN WITNESS, etc.
 
 * * Variations in this and subsequent Forms to be made if required for mortgages by demise or other matter.
 
-Part II
+Part IIA
+
+Statutory Transfer, Mortgagor Not Joining
 
 Section 32(1).
-
-A
-
-STATUTORY TRANSFER, MORTGAGOR NOT JOINING
 
 This Indenture of Statutory Transfer of Mortgage made the of 19 , betweenMof (etc.) of the one part andTof (etc.) of the other part, supplemental to an Indenture of Statutory Mortgage dated the of 19 , and made between (etc.).
 
@@ -1493,7 +1496,7 @@ IN WITNESS, etc.
 
 B
 
-STATUTORY TRANSFER, A COVENANTOR JOINING
+Statutory Transfer, A Covenantor Joining
 
 This Indenture of Statutory Transfer of Mortgage made the of 19 , betweenAof (etc.) of the first part,Bof (etc.) of the second part, andCof (etc.) of the third part, supplemental to an Indenture of Statutory Mortgage dated the of 19 , and made between (etc.).
 
@@ -1503,13 +1506,13 @@ IN WITNESS, etc.
 
 C
 
-STATUTORY TRANSFER AND STATUTORY MORTGAGE COMBINED
+Statutory Transfer and Statutory Mortgage Combined
 
 This Indenture of Statutory Transfer of Mortgage and of Statutory Mortgage made the of 19 , betweenAof (etc.) of the first part,Bof (etc.) of the second part, andCof (etc.) of the third part, supplemental to an Indenture of Statutory Mortgage dated the of 19 , and made between (etc.)
 
 WHEREAS the principal sum of $ only remains due in respect of the said mortgage and no interest is now due and payable thereon, AND WHEREASBis seised in fee simple of the land comprised in the said mortgage subject to that mortgage.
 
-NOW THIS INDENTURE WITNESSETH that in consideration of $ now paid toAbyC(whereofAacknowledges the receipt andBacknowledges the payment and receipt as aforesaid*)Aas mortgagee transfers toCthe benefit of the said mortgage, AND THIS INDENTURE ALSO WITNESSETH that for the same considerationAas mortgagee, by direction ofB, conveys andBconveys and confirms toCALL THAT (etc.) TO HOLD toCfor securing payment on the of 19 , of †$ with interest thereon at the rate of % per annum.
+NOW THIS INDENTURE WITNESSETH that in consideration of $ now paid toAbyC(whereofAacknowledges the receipt andBacknowledges the payment and receipt as aforesaid*)Aas mortgagee transfers toCthe benefit of the said mortgage, AND THIS INDENTURE ALSO WITNESSETH that for the same considerationAas mortgagee, by direction ofB, conveys andBconveys and confirms toCALL THAT (etc.) TO HOLD toCfor securing payment on the of 19 , of†$ with interest thereon at the rate of % per annum.
 
 IN WITNESS, etc.
 
@@ -1519,9 +1522,9 @@ IN WITNESS, etc.
 
 Part III
 
-Section 34.
+Statutory Reconveyance
 
-STATUTORY RECONVEYANCE
+Section 34.
 
 This Indenture of Statutory Reconveyance made the of 19 , betweenCof (etc.) of the one part andBof (etc.) of the other part, supplemental to an Indenture of Statutory Transfer of Mortgage dated the of 19 , and made between (etc.).
 
@@ -1612,3 +1615,8 @@ This Legislative History is provided for the convenience of users of the Conveya
 ||Date of commencement|1 March 1994|
 |24.|**1994 Revised Edition—Conveyancing and Law of Property Act**|
 ||Date of operation|15 March 1994|
+|25.|**Act 7 of 1997—Statutes (Miscellaneous Amendment) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
