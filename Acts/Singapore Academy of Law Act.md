@@ -12,13 +12,13 @@
 
 - [2 Interpretation](#Interpretation)
 
-[**ESTABLISHMENT, INCORPORATION, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW**](#ESTABLISHMENT-INCORPORATION-FUNCTIONS-AND-POWERS-OF-SINGAPORE-ACADEMY-OF-LAW)
+[**ESTABLISHMENT, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW**](#ESTABLISHMENT-FUNCTIONS-AND-POWERS-OF-SINGAPORE-ACADEMY-OF-LAW)
 
 - [3 Establishment of Singapore Academy of Law](#Establishment-of-Singapore-Academy-of-Law)
 
 - [4 Functions and powers of Academy](#Functions-and-powers-of-Academy)
 
-[**CONSTITUTION AND POWERS OF THE SENATE**](#CONSTITUTION-AND-POWERS-OF-THE-SENATE)
+[**CONSTITUTION AND POWERS OF SENATE**](#CONSTITUTION-AND-POWERS-OF-SENATE)
 
 - [5 Constitution of Senate](#Constitution-of-Senate)
 
@@ -56,7 +56,7 @@
 
 - [20 Financial statements](#Financial-statements)
 
-- [21 Copies for members](#Copies-for-members)
+- [21 Copies of financial statements for members](#Copies-of-financial-statements-for-members)
 
 - [22 Appointment and powers of Academy’s auditor](#Appointment-and-powers-of-Academy’s-auditor)
 
@@ -66,11 +66,11 @@
 
 - [24 Common seal](#Common-seal)
 
-- [24A Recovery of subscriptions, moneys due and full costs](#Recovery-of-subscriptions-moneys-due-and-full-costs)
+- [25 Recovery of subscriptions, moneys due and full costs](#Recovery-of-subscriptions-moneys-due-and-full-costs)
 
-- [25 No action can be maintained by members against Academy, etc.](#No-action-can-be-maintained-by-members-against-Academy-etc)
+- [26 No action can be maintained by members against Academy](#No-action-can-be-maintained-by-members-against-Academy)
 
-- [26 Power to make rules](#Power-to-make-rules)
+- [27 Power to make rules](#Power-to-make-rules)
 
 [**Legislative History**](#Legislative-History)
 
@@ -80,9 +80,9 @@
 
 (Original Enactment: Act 18 of 1988)
 
-REVISED EDITION 1989
+REVISED EDITION 1997
 
-(15th March 1989)
+(20th December 1997)
 
 An Act to establish the Singapore Academy of Law and for matters connected therewith.
 
@@ -100,7 +100,7 @@ PRELIMINARY
 
 “Academy” means the Singapore Academy of Law established under section 3;
 
-“advocate and solicitor” means an advocate and solicitor of the Supreme Court but shall not include any person admitted ad hoc under section 20 of the Legal Profession Act [Cap. 161];
+“advocate and solicitor” means an advocate and solicitor of the Supreme Court but shall not include any person admitted ad hoc under section 21 of the Legal Profession Act (Cap. 161);
 
 “Board” means the Board of Legal Education established under section 3 of the Legal Profession Act;
 
@@ -108,17 +108,15 @@ PRELIMINARY
 
 “Faculty” means the Faculty of Law of the National University of Singapore;
 
-“judge of the Supreme Court” includes —
+“Judge of the Supreme Court” includes —
 
-(a) a person designated to sit as a judge of the High Court or as a judge of Appeal under Article 94(3) of the Constitution; and
-
-[34/1995 wef 10/11/1995]
+(a) a person designated to sit as a Judge of the High Court or as a Judge of Appeal under Article 94(3) of the Constitution; and
 
 (b) a Judicial Commissioner appointed under Article 94(4) of the Constitution;
 
-“Law Society” means the Law Society of Singapore established under section 33 of the Legal Profession Act;
+“Law Society” means the Law Society of Singapore established under section 36 of the Legal Profession Act (Cap. 161);
 
-“legal officer” means an officer in the Singapore Legal Service;
+“legal officer” means a person appointed as a legal officer in the Singapore Legal Service;
 
 “member” includes a Fellow, honorary member, ordinary member and associate member of the Academy;
 
@@ -130,7 +128,9 @@ PRELIMINARY
 
 “Vice-President” means a Vice-President of the Academy.
 
-ESTABLISHMENT, INCORPORATION, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW
+[34/95]
+
+ESTABLISHMENT, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW
 
 ### Establishment of Singapore Academy of Law
 
@@ -142,97 +142,73 @@ ESTABLISHMENT, INCORPORATION, FUNCTIONS AND POWERS OF SINGAPORE ACADEMY OF LAW
 
 (a) to promote and maintain high standards of conduct and learning of the members of the legal profession in Singapore and the standing of the profession in the region and elsewhere;
 
-[34/1995 wef 10/11/1995]
-
 (b) to promote the advancement and dissemination of knowledge of the laws and the legal system;
 
-[34/1995 wef 10/11/1995]
+(c) to promote legal research and scholarship and the reform and development of the law;
 
-(ba) to promote legal research and scholarship and the reform and development of the law;
+(d) to provide continuing legal education for its members;
 
-[34/1995 wef 10/11/1995]
+(e) to provide for the training, education and examination, by the Academy or by any other body, of persons intending to practise the profession of law;
 
-(c) to provide continuing legal education for its members;
+(f) to consider proposals and suggestions regarding matters which are referred to the Academy by the Law Society or the Board ;
 
-(d) to provide for the training, education and examination by the Academy or by any other body, of persons intending to practise the profession of law;
+[8/2011 wef 03/05/2011]
 
-[34/1995 wef 10/11/1995]
+(g) to refer to the Law Society or the Board proposals and suggestions regarding matters which in the opinion of the Senate require consideration by the Law Society or the Board;
 
-(e) to consider proposals and suggestions regarding matters which are referred to the Academy by the Law Society or the Board;
+[8/2011 wef 03/05/2011]
 
-(f) to refer to the Law Society or the Board proposals and suggestions regarding matters which in the opinion of the Senate require consideration by the Law Society or the Board;
+(h) to promote good relations and social interaction amongst members and between members and law students and persons concerned in the administration of law and justice in Singapore;
 
-(g) to promote good relations and social interaction amongst members and between members and law students and persons concerned in the administration of law and justice in Singapore;
+(i) to appoint persons as notaries public or commissioners for oaths and to authenticate their signatures;
 
-(h) to appoint persons as notaries public or commissioners for oaths and to authenticate their signatures;
+(j) to undertake activities and projects relating to the study, development and operation of laws and legal systems and the facilities, information technology and infrastructure in support thereof;
 
-[34/1995 wef 10/11/1995]
+(k) to provide consultancy and other services relating to the study, development and operation of laws and legal systems and the facilities, information technology and infrastructure in support thereof; and
 
-(i) to undertake activities and projects relating to the study, development and operation of laws and legal systems and the facilities, information technology and infrastructure in support thereof;
+(l) to exercise the functions and duties conferred on the Academy under any written law.
 
-[34/1995 wef 10/11/1995]
-
-(j) to provide consultancy and other services relating to the study, development and operation of laws and legal systems and the facilities, information technology and infrastructure in support thereof; and
-
-[34/1995 wef 10/11/1995]
-
-(k) to exercise the functions and duties conferred on the Academy under any written law.
-
-[34/1995 wef 10/11/1995]
+[34/95]
 
 (2) The Academy may for the purpose of performing its functions —
 
-(a) provide training and educational facilities for persons practising and intending to practise the profession of law;
+(a) provide such training and educational facilities for persons practising and intending to practise the profession of law;
 
-(aa) provide training in subjects of study relating to law, the practice of law or the administration of justice;
+(b) provide training in subjects of study relating to law, the practice of law or the administration of justice;
 
-[34/1995 wef 10/11/1995]
+(c) appoint trustees of, and to receive, manage and administer, scholarship and other funds;
 
-(ab) appoint trustees of, and to receive, manage and administer, scholarship and other funds;
+(d) establish a library and common rooms for its members;
 
-[34/1995 wef 10/11/1995]
+(e) grant prizes and scholarships and establish and subsidise lectureships in educational institutions in subjects of study relating to law;
 
-(b) establish a library and common rooms for its members;
+(f) contribute a collegiate element in the training of students and young lawyers by organising moots, lectures, talks and practical exercises;
 
-(c) grant prizes and scholarships and establish and subsidize lectureships in educational institutions in subjects of study relating to law;
+(g) provide facilities for social interaction amongst its members and between its members and law students;
 
-(d) contribute a collegiate element in the training of students and young lawyers by organising moots, lectures, talks and practical exercises;
+(h) purchase or lease any land or building required for any of the purposes of the Academy;
 
-(e) provide facilities for social interaction amongst its members and between its members and law students;
+(i) sell, surrender, lease, exchange or mortgage any land or building as may be found most convenient or advantageous;
 
-(f) purchase or lease any land or building required for any of the purposes of the Academy;
+(j) receive grants from the Government or donations and gifts from the Law Society or any source;
 
-(g) sell, surrender, lease, exchange or mortgage any land or building as may be found most convenient or advantageous;
+(k) borrow money, whether by way of bank overdraft or otherwise, for such of the purposes of the Academy as the Senate may from time to time consider desirable;
 
-(h) receive grants from the Government or donations and gifts from the Law Society or any source;
+(l) invest the moneys and funds of the Academy in such shares, funds, securities or investments as may be authorised by the Senate;
 
-(i) borrow money whether by way of bank overdraft or otherwise for such of the purposes of the Academy as the Senate may from time to time consider desirable;
+(m) enter into such arrangements, agreements or joint ventures as are necessary for the attainment of its functions;
 
-(j) invest the moneys and funds of the Academy in such shares, funds, securities or investments as may be authorised by the Senate;
+(n) form or participate in the formation of any company for the purpose of carrying out all or any of the functions of the Academy;
 
-[34/1995 wef 10/11/1995]
+(o) levy and charge fees;
 
-(k) enter into such arrangements, agreements or joint ventures as are necessary for the attainment of its functions;
+(p) exercise such powers as may be conferred on the Academy or the Senate under any written law; and
 
-[34/1995 wef 10/11/1995]
+(q) do all such other things as are incidental or conducive to the attainment of the functions of the Academy.
 
-(l) form or participate in the formation of any company for the purpose of carrying out all or any of the functions of the Academy;
+[34/95]
 
-[34/1995 wef 10/11/1995]
-
-(m) levy and charge fees;
-
-[34/1995 wef 10/11/1995]
-
-(n) exercise such powers as may be conferred on the Academy or the Senate under any written law; and
-
-[34/1995 wef 10/11/1995]
-
-(o) do all such other things as are incidental or conducive to the attainment of the functions of the Academy.
-
-[34/1995 wef 10/11/1995]
-
-CONSTITUTION AND POWERS OF THE SENATE
+CONSTITUTION AND POWERS OF SENATE
 
 ### Constitution of Senate
 
@@ -240,7 +216,7 @@ CONSTITUTION AND POWERS OF THE SENATE
 
 (a) the Chief Justice;
 
-(b) the judges of the Supreme Court;
+(b) the Judges of the Supreme Court;
 
 (c) the Attorney-General;
 
@@ -254,19 +230,27 @@ CONSTITUTION AND POWERS OF THE SENATE
 
 (h) 9 other members who are appointed by the Chief Justice after consultation with the Attorney-General, the President of the Law Society and the Dean of the Faculty.
 
+[20/2007 wef 01/06/2007]
+
+[34/95]
+
 (2) No person shall be appointed as a member of the Senate pursuant to subsection (1)(h) unless he is a member of the Academy and a citizen of Singapore.
+
+[34/95]
 
 (3) Any person appointed as a member of the Senate pursuant to subsection (1)(h) shall hold office for a term of one year and shall be eligible for reappointment on the expiration of his term of office.
 
-(4) Any person holding office as a nominated member of the Senate immediately before the commencement of section 4 of the Singapore Academy of Law (Amendment) Act 1995 shall be deemed to have been appointed under subsection (3).
+[34/95]
 
-[34/1995 wef 10/11/1995]
+(4) Any person holding office as a nominated member of the Senate immediately before 10th November 1995 shall be deemed to have been appointed under subsection (3).
+
+[34/95]
 
 ### President and Vice-Presidents
 
 6\.—(1) The Chief Justice shall be the President of the Academy.
 
-(2) The Senate may appoint from amongst their members such number of Vice-Presidents of the Academy as they may think fit.
+(2) The Senate may appoint from amongst its members such number of Vice-Presidents of the Academy as it may think fit.
 
 (3) The President may delegate his duties to any of the Vice-Presidents.
 
@@ -274,55 +258,59 @@ CONSTITUTION AND POWERS OF THE SENATE
 
 (5) A Vice-President of the Academy who ceases to be a member of the Senate shall cease to be Vice-President.
 
-[34/1995 wef 10/11/1995]
+[34/95]
 
 ### Powers of Senate
 
 7\.—(1) The Senate may perform all such functions and exercise all such powers of the Academy as it thinks fit.
 
-[34/1995 wef 10/11/1995]
+[34/95]
 
-(2) The Senate may on behalf of the Academy accept by way of grant, gift, testamentary disposition or otherwise, property and moneys in aid of the finances of the Academy on such conditions as they may determine.
+(2) The Senate may on behalf of the Academy accept by way of grant, gift, testamentary disposition or otherwise, property and moneys in aid of the finances of the Academy on such conditions as the Senate may determine.
 
 ### Employment of officers
 
-8\. The Academy may employ such number of officers as the Senate consider necessary and the duties and salaries of the officers shall be determined by the Senate.
+8\. The Academy may employ such number of officers as the Senate considers necessary and the duties and salaries of the officers shall be determined by the Senate.
 
 ### Meetings of Senate
 
 9\.—(1) The Senate may meet at such times and places as the Senate or the President may determine.
 
-[34/1995 wef 10/11/1995]
+[34/95]
 
 (2) A majority of the members of the Senate shall constitute a quorum for any meeting of the Senate.
 
-[34/1995 wef 10/11/1995]
+[34/95]
 
 (3) All questions arising at any meeting of the Senate shall be decided by a majority of the votes of the members present.
 
 (4) At any meeting of the Senate, the President or in his absence the Vice-President presiding at the meeting shall have a deliberative vote and shall, in the event of an equality of votes, have a casting vote.
 
-(5) Subject to any rules made under this Act, the Senate may regulate their own procedure and in particular the holding of meetings, the notice to be given of meetings, the proceedings thereat and the keeping of minutes and the custody, production and inspection of those minutes.
+(5) Subject to any rules made under this Act, the Senate may regulate its own procedure and, in particular, the holding of meetings, the notice to be given of meetings, the proceedings thereat and the keeping of minutes and the custody, production and inspection of those minutes.
 
-(6) The validity of the proceedings of the Senate shall not be affected by any vacancy amongst their members or by any irregularity in the appointment of any member.
+(6) The validity of the proceedings of the Senate shall not be affected by any vacancy amongst its members or by any irregularity in the appointment of any member.
 
 ### Appointment of committees and boards
 
-10\.—(1) The Senate may appoint one or more committees and boards for any general or special purpose which in the opinion of the Senate may be better dealt with or managed by a committee or board and the Senate may delegate to any committee or board so appointed, with or without restrictions or conditions as they think fit, any functions or powers that may be performed or exercised by the Senate, other than the power to make rules under section 26.
+10\.—(1) The Senate may appoint one or more committees and boards for any general or special purpose which, in the opinion of the Senate, may be better dealt with or managed by a committee or board.
 
-[34/1995 wef 10/11/1995]
+(2) The Senate may delegate to any committee or board appointed under subsection (1), with or without restrictions or conditions as the Senate thinks fit, any function or power that may be performed or exercised by the Senate, other than the power to make rules under section 27.
 
-(2) The number and term of office of the members of a committee or board appointed under this section, and the number of those members necessary to form a quorum, shall be fixed by the Senate.
+[34/95]
 
-(3) A committee or board appointed under this section may include persons who are not members of the Academy.
+(3) The number and term of office of the members of a committee or board appointed under this section, and the number of those members necessary to form a quorum, shall be fixed by the Senate.
 
-[34/1995 wef 10/11/1995]
+(4) A committee or board appointed under this section may include persons who are not members of the Academy.
 
-(4) Every committee or board appointed under subsection (1) shall have amongst its members at least one person who is a practising advocate and solicitor and who has for an aggregate period of 7 years been a practising advocate and solicitor or a legal officer or both, nominated by the Council of the Law Society.
+[34/95]
 
-(5) Subsection (4) shall not apply if one of the members of the committee or board is a member of the Council of the Law Society.
+(5) Every committee or board appointed under subsection (1) shall have amongst its members at least one person who is a practising advocate and solicitor and who has, for an aggregate period of 7 years, been a practising advocate and solicitor or a legal officer or both, nominated by the Council of the Law Society.
 
-[34/1995 wef 10/11/1995]
+[20/2009 wef 09/10/2009]
+
+(6) Subsection (5) shall not apply if one of the members of the committee or board is a member of the Council of the Law Society.
+
+[34/95]
 
 MEMBERSHIP OF ACADEMY
 
@@ -342,7 +330,7 @@ MEMBERSHIP OF ACADEMY
 
 (3) The Senate may restrict the use of the facilities or any part of the premises of the Academy to any category of members.
 
-(4) No rights or privilege of any member of the Senate or member of the Academy shall be in any way transferable or transmissible, but all such rights and privileges shall cease upon the member of the Senate or the member of the Academy ceasing to be such whether by death, retirement or otherwise.
+(4) No rights or privileges of any member of the Senate or member of the Academy shall be in any way transferable or transmissible, but all such rights and privileges shall cease upon the member of the Senate or the member of the Academy ceasing to be such whether by death, retirement or otherwise.
 
 ### Fellows of Academy
 
@@ -352,13 +340,13 @@ MEMBERSHIP OF ACADEMY
 
 (b) all other members of the Senate except for those appointed under section 5(1)(h);
 
-(c) persons who have since 1st January 1980 held office as Chief Justice, judge of the Supreme Court, Attorney-General or Solicitor-General for not less than 2 years;
+(c) persons who have since 1st January 1980 held office as Chief Justice, Judge of the Supreme Court, Attorney-General or Solicitor-General for not less than 2 years;
 
 (d) honorary or associate members who are elected by the Senate as Fellows for life or for such period as the Senate may in any case consider appropriate; and
 
 (e) members who have been appointed as Senior Counsel under the Legal Profession Act (Cap. 161).
 
-[34/1995 wef 10/11/1995]
+[34/95]
 
 ### Honorary members
 
@@ -368,9 +356,13 @@ MEMBERSHIP OF ACADEMY
 
 14\. Every person who —
 
-(a) is admitted as an advocate and solicitor, whether or not he has in force a practising certificate issued under section 24 of the Legal Profession Act; or
+(a) is admitted as an advocate and solicitor, whether or not he has in force a practising certificate issued under section 25 of the Legal Profession Act; or
 
 (b) is a legal officer,
+
+[20/2009 wef 09/10/2009]
+
+[8/2011 wef 03/05/2011]
 
 shall become, by virtue of this section and without election, admission or appointment by the Senate, an ordinary member of the Academy unless he is disqualified from being a member under section 16 or his membership has been terminated under section 18.
 
@@ -386,7 +378,13 @@ shall become, by virtue of this section and without election, admission or appoi
 
 (b) being a legal officer, he has been dismissed from the Singapore Legal Service for misconduct in his professional capacity;
 
+[20/2009 wef 09/10/2009]
+
 (c) being a member of the Faculty, he has been dismissed from the Faculty for misconduct in the discharge of his duties;
+
+[20/2007 wef 01/06/2007]
+
+[20/2009 wef 09/10/2009]
 
 (d) he has been convicted of an offence involving fraud or dishonesty;
 
@@ -394,25 +392,33 @@ shall become, by virtue of this section and without election, admission or appoi
 
 (f) he is an undischarged bankrupt; or
 
-[15/1995 wef 15/07/1995]
-
 (g) he has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors.
+
+[15/95]
 
 (2) Any question whether a person has ceased to be a member shall be determined by the Senate whose decision shall be final.
 
-(3) Where a member of the Academy has been suspended from practising as an advocate and solicitor for any period his membership shall be deemed to be suspended for the duration of his suspension.
+(3) Where a member of the Academy has been suspended from practising as an advocate and solicitor for any period, his membership shall be deemed to be suspended for the duration of his suspension.
 
-(4) Where a member being an advocate and solicitor has been struck off the roll, he shall on being reinstated to the roll, become a member of the Academy but nothing in this subsection shall affect the right of the Senate to terminate the membership of any such member pursuant to section 18.
+(4) Where a member being an advocate and solicitor has been struck off the roll, he shall on being reinstated to the roll become a member of the Academy.
+
+(5) Nothing in subsection (4) shall affect the right of the Senate to terminate the membership of any such member pursuant to section 18.
 
 ### Annual subscriptions payable by members
 
-17\.—(1) Every member shall pay to the Academy an annual subscription of an amount determined by the Senate from time to time, which shall become due and payable on the day appointed by the Senate.
+17\.—(1) Every member shall pay to the Academy an annual subscription of an amount determined by the Senate from time to time which shall become due and payable on the day appointed by the Senate.
 
-(2) In fixing the amount of annual subscription, the Senate shall be at liberty to divide members of each category into classes, and to provide that different amounts shall be paid by different classes and extend over different periods, and generally to regulate, and to vary from time to time, the subscriptions payable by members or different classes of members, as the Senate may think fit.
+(2) In fixing the amount of annual subscription, the Senate shall be at liberty —
+
+(a) to divide members of each category into classes;
+
+(b) to provide that different amounts shall be paid by different classes and extend over different periods; and
+
+(c) generally to regulate, and to vary from time to time, the subscriptions payable by members or different classes of members as the Senate may think fit.
 
 (3) If any member fails to pay his annual subscription within 30 days of the subscription becoming due, he shall pay interest (if any) at the rate determined by the Senate.
 
-(4) The Senate may in its discretion waive the subscription payable by any member of the Academy.
+(4) The Senate may, in its discretion, waive the subscription payable by any member of the Academy.
 
 ### Termination of membership
 
@@ -434,7 +440,7 @@ ACCOUNTS
 
 20\. The Senate shall from time to time cause to be prepared financial statements that will give a true and fair view of the income and expenditure of the Academy and its assets and liabilities.
 
-### Copies for members
+### Copies of financial statements for members
 
 21\. Copies of the financial statements together with the auditor’s report thereon shall be circulated to all members.
 
@@ -442,7 +448,7 @@ ACCOUNTS
 
 22\.—(1) The accounts of the Academy shall be audited by an auditor appointed annually by the Senate.
 
-(2) No person shall be appointed as an auditor of the Academy unless he is an approved company auditor under the Companies Act [Cap. 50].
+(2) No person shall be appointed as an auditor of the Academy unless he is an approved company auditor under the Companies Act (Cap. 50).
 
 (3) The Academy’s auditor shall report —
 
@@ -468,9 +474,11 @@ ACCOUNTS
 
 23\. The Academy shall be deemed to be —
 
-(a) an institution specified in the First Schedule to, and under section 13(1)(e) of, the Income Tax Act [Cap. 134]; and
+(a) an institution specified in the First Schedule to, and under section 13(1)(e) of, the Income Tax Act (Cap. 134); and
 
-(b) an institution of a public character approved by the Minister for the purposes of section 37(2)(c) of the Income Tax Act.
+(b) an institution of a public character approved by the Minister for the purposes of section 37(2) (c) of the Income Tax Act.
+
+[10/2007 wef 01/03/2007]
 
 MISCELLANEOUS
 
@@ -478,27 +486,35 @@ MISCELLANEOUS
 
 24\.—(1) The common seal of the Academy may, from time to time, be broken, changed, altered and made anew as the Senate thinks fit.
 
-(2) All deeds, documents and other instruments requiring the seal of the Academy shall be sealed with the common seal of the Academy and every instrument to which the common seal is affixed shall be signed by a member and shall be countersigned by any two members of the Senate duly authorised by the Senate for that purpose, and such signing shall be sufficient evidence that the seal was duly and properly affixed and that the seal is the lawful seal of the Academy.
+(2) All deeds, documents and other instruments requiring the seal of the Academy shall be sealed with the common seal of the Academy.
 
-(3) The Senate may by resolution or otherwise appoint an officer of the Academy or any other agent, either generally or in a particular case, to execute or sign on behalf of the Academy any agreement or other instrument not under seal in relation to any matter coming within the powers of the Academy.
+(3) Every instrument to which the common seal is affixed shall be signed by a member and shall be countersigned by any 2 members of the Senate duly authorised by the Senate for that purpose, and such signing shall be sufficient evidence that the seal was duly and properly affixed and that the seal is the lawful seal of the Academy.
 
-(4) Section 12 of the Registration of Deeds Act [Cap. 269] shall not apply to any instrument purporting to have been executed under subsection (2).
+(4) The Senate may, by resolution or otherwise, appoint an officer of the Academy or any other agent, either generally or in a particular case, to execute or sign on behalf of the Academy any agreement or other instrument not under seal in relation to any matter coming within the powers of the Academy.
+
+(5) Section 11 of the Registration of Deeds Act (Cap. 269) shall not apply to any instrument purporting to have been executed under subsection (2).
 
 ### Recovery of subscriptions, moneys due and full costs
 
-24A\. The Senate may recover any subscription or other moneys due and payable to the Academy and any interest thereon as a debt due to the Academy and the Academy shall be entitled to the payment of its full costs as between solicitor and client.
+25\. The Senate may recover any subscription or other moneys due and payable to the Academy and any interest thereon as a debt due to the Academy and the Academy shall be entitled to the payment of its full costs as between solicitor and client.
 
-[34/1995 wef 10/11/1995]
+[24A
 
-### No action can be maintained by members against Academy, etc.
+[34/95]
 
-25\. No action shall be maintained against the Academy and the members of the Senate by an advocate and solicitor or by a member or qualified person in respect of any act done by the members of the Senate in their official capacity.
+### No action can be maintained by members against Academy
+
+26\. No action shall be maintained against the Academy and the members of the Senate by an advocate and solicitor or by a member or qualified person in respect of any act done by the members of the Senate in their official capacity.
+
+[25
 
 ### Power to make rules
 
-26\.—(1) The Senate may from time to time make such rules as it may consider necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration thereof.
+27\.—(1) The Senate may from time to time make such rules as it may consider necessary or expedient to give effect to the provisions and purposes of this Act and for the due administration thereof.
 
 (2) Rules made under this Act may make different provisions for different classes of persons and different circumstances.
+
+[26
 
 ## LEGISLATIVE HISTORY
 
@@ -530,3 +546,5 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 27/1995 published on 8 August 1995)|
 ||Date of Second and Third Readings|27 September 1995|
 ||Dates of commencement|10 November 1995 (except sections 11 and 12)|
+|5.|**1997 Revised Edition—Singapore Academy of Law Act**|
+||Date of operation|20 December 1997|
