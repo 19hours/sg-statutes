@@ -52,7 +52,7 @@
 
 - [22 Ngee Ann Polytechnic Students’ Union](#Ngee-Ann-Polytechnic-Students’-Union)
 
-- [23 Application of Societies Act to Student’s Union](#Application-of-Societies-Act-to-Student’s-Union)
+- [23 Application of Societies Act to Students’ Union](#Application-of-Societies-Act-to-Students’-Union)
 
 - [24 Rules](#Rules)
 
@@ -210,7 +210,9 @@ An Act for the incorporation of the Ngee Ann Polytechnic and for matters connect
 
 (d) borrow money at interest on the security of any corporate land or of any funds of the Polytechnic;
 
-(e) invest the funds of the Polytechnic; and
+(e) invest the funds of the Polytechnic in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1); and
+
+[45/2004 wef 15/12/2004]
 
 (f) do all other matters and things incidental or appertaining to a body corporate.
 
@@ -398,19 +400,17 @@ An Act for the incorporation of the Ngee Ann Polytechnic and for matters connect
 
 (3) The Council may impose and collect from the students or any class thereof such fees as it may determine for the benefit of the Ngee Ann Polytechnic Students’ Union and its constituent bodies; and such fees may be applied in such manner as the Council thinks fit for the purposes of the Union and its constituent bodies.
 
-(4) The Ngee Ann Technical College Students’ Union constituted before 1st April 1980\*shall on 7th November 1980+be dissolved, and all its property, assets, rights, liabilities and obligations of every description shall vest without further assurance in the Ngee Ann Polytechnic Students’ Union.
+(4) The Ngee Ann Technical College Students’ Union constituted before 1st April 1980\*shall on 7th November 1980†be dissolved, and all its property, assets, rights, liabilities and obligations of every description shall vest without further assurance in the Ngee Ann Polytechnic Students’ Union.
 
 \*Date of commencement of the Ngee Ann Technical College (Amendment) Act 1980 (No. 8/80).
 
-+Date of commencement of the Ngee Ann Polytechnic (Students’ Union) Rules 1980videG.N. S 299/80.
+†Date of commencement of the Ngee Ann Polytechnic (Students’ Union) Rules 1980videG.N. S299/80.
 
 [17B
 
-### Application of Societies Act to Student’s Union
+### Application of Societies Act to Students’ Union
 
 23\.—(1) Notwithstanding anything to the contrary in the Societies Act [Cap. 311], the provisions of that Act shall apply to the Ngee Ann Polytechnic Students’ Union constituted by rules made under section 24(1) and its constituent bodies.
-
-[8/80]
 
 (2) The Minister charged with responsibility for societies may, by order published in theGazette, exempt the Ngee Ann Polytechnic Students’ Union and any of its constituent bodies from all or any of the provisions of the Societies Act subject to such conditions as may be specified in the order.
 
@@ -555,3 +555,9 @@ This Legislative History is provided for the convenience of users of the Ngee An
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Date of commencement|15 July 2002 (Item (31) of the Schedule — Amendment of Ngee Ann Polytechnic Act)|
+|10.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004 (Item (36) of the Schedule — Amendment of Ngee Ann Polytechnic Act)|
