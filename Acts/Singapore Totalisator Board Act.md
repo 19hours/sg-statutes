@@ -124,19 +124,39 @@ SINGAPORE TOTALISATOR BOARD
 
 ### Functions of Board
 
-4\. The functions of the Board are —
+4\.—(1) The functions of the Board are
 
 (a) to operate totalisators in accordance with any approved scheme under section 11;
 
 (b) to conduct equine research and establish, maintain and improve turf clubs, training centres for apprentices, jockeys, blacksmiths and others employed in connection with racing, and other places used in connection with racing;
 
-(c) to conduct 4 digit numbers forecast draws in accordance with any scheme which the Minister may, subject to such conditions as he may impose, authorise; and
+(c) to conduct 4 digit numbers forecast draws in accordance with any scheme which the Minister may, subject to such conditions as he may impose, authorise;
 
-(d) to carry on all other activities which appear to the Board requisite, advantageous or convenient for or in connection with its functions and for the improvement of racing generally in Singapore.
+(d) with the approval of the Minister, to establish and maintain places and facilities for recreation on land owned or held by the Board and to carry out such activities as appear to the Board to be requisite, advantageous or convenient for or in connection with its functions; and
+
+[Act 4/1997 wef 15/09/1997]
+
+(e) to improve racing generally.
+
+[Act 4/1997 wef 15/09/1997]
+
+(2) The Minister may, after consultation with the Board, give to the Board such general directions, not inconsistent with the provisions of this Act, as to the policy to be followed by the Board in the exercise and performance of its powers and functions under this Act as appear to the Minister to be required in the public interest, and the Board shall as soon as possible give effect to any such directions.
+
+[Act 4/1997 wef 15/09/1997]
+
+(3) The Board shall furnish the Minister with information with respect to its property and activities in such manner and at such times as he may require.
+
+[Act 4/1997 wef 15/09/1997]
 
 ### Powers of Board
 
-5\.—(1) The Board shall have all such powers as may be reasonably necessary to enable it to carry out its functions.
+5\.—(1) The Board shall, subject to the provisions of this Act, have power to do all such things as are in its opinion necessary for or conducive to the proper discharge of its functions under this Act and, in particular, the Board shall have power —
+
+(a) to provide technical assistance and advice relating to racing and gaming in Singapore or elsewhere; and
+
+(b) to form or participate in the formation of any company or joint venture for the purpose of carrying out any function of the Board or for such other purposes as the Minister may approve.
+
+[Act 4/1997 wef 15/09/1997]
 
 (2) Subject to any regulations made under section 21, the Board may from time to time distribute any moneys forming part of the funds of the Board and not required by it in the exercise of its functions under section 4 for all or any of the following purposes:
 
@@ -210,13 +230,15 @@ TOTALISATORS AND TOTALISATOR AGENCIES
 
 (a) the amount of any duty charged under the Betting and Sweepstake Duties Act [Cap. 22]; and
 
-(b) by way of commission 10%, or such other amount (whether greater or lesser than 10%) as may be prescribed by any regulations made under section 21, of all such moneys:
+(b) by way of commission, such amount as may be prescribed by any regulations made under section 21, of all such moneys:
 
 Provided that —
 
 (i) it shall not be necessary to pay out fractions of a dollar;
 
 (ii) any investment on any horse which is scratched or otherwise withdrawn in accordance with the rules of racing applied by any approved scheme shall be refunded without deduction of such duty and commission.
+
+[Act 4/1997 wef 15/09/1997]
 
 ### Proportion of deduction from investment to belong to Board
 
@@ -482,3 +504,8 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 33/1990 published on 12 November 1990)|
 ||Date of Second and Third Readings|20 December 1990|
 ||Date of commencement|1 April 1990|
+|4.|**Act 4 of 1997—Singapore Totalisator Board (Amendment) Act 1997**|
+||Date of First Reading|2 June 1997|
+|||(Bill No. 1/1997 published on 3 June 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|15 September 1997|
