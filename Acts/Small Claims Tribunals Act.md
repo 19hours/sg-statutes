@@ -44,7 +44,11 @@
 
 - [17 Powers of Registrar](#Powers-of-Registrar)
 
+- [17A Consultation before Registrar by electronic means](#Consultation-before-Registrar-by-electronic-means)
+
 - [18 Service of claim and notice of hearing](#Service-of-claim-and-notice-of-hearing)
+
+- [18A Claim may be admitted by telephone or in writing](#Claim-may-be-admitted-by-telephone-or-in-writing)
 
 - [19 Parties](#Parties)
 
@@ -53,6 +57,8 @@
 - [21 Right of audience](#Right-of-audience)
 
 - [22 Proceedings to be in private](#Proceedings-to-be-in-private)
+
+- [22A Proceedings before tribunal conducted by electronic means, etc.](#Proceedings-before-tribunal-conducted-by-electronic-means-etc)
 
 - [23 Claims may be heard together](#Claims-may-be-heard-together)
 
@@ -200,11 +206,9 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 [17/95]
 
-(4) A tribunal shall, subject to subsections (1) and (2), have jurisdiction to hear and determine any claim the value of which exceeds the prescribed limit but does not exceed $20,000 or such other sum as the Minister may, after consultation with the Chief Justice, by order published in theGazette, substitute therefor, if the parties to the claim so agree by a memorandum signed by them.
+(4) A tribunal shall, subject to subsections (1) and (2), have jurisdiction to hear and determine any claim the value of which exceeds the prescribed limit but does not exceed $10,000 or such other sum as the Minister may, after consultation with the Chief Justice, by order published in theGazette, substitute therefor, if the parties to the claim so agree by a memorandum signed by them.
 
 [17/95]
-
-[S 321/1997 wef 15/07/1997]
 
 (5) Where a tribunal is of the opinion that a claim lodged with it pursuant to section 15(1) is beyond its jurisdiction, the tribunal shall discontinue the proceedings and advise the claimant and respondent accordingly.
 
@@ -356,6 +360,28 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 [31/92]
 
+(9) Any person aggrieved by an order of the Registrar made under subsection (5), (6) or (7) may apply to the Registrar for the order to be set aside.
+
+[2/98 wef 16/03/1998]
+
+(10) An application made under subsection (9) shall be made within one month after the consultation or such further period as the Registrar may allow.
+
+[2/98 wef 16/03/1998]
+
+[31/92]
+
+### Consultation before Registrar by electronic means
+
+17A\.—(1) The Registrar may, on such conditions as he may impose, permit the consultation to be conducted by telephone, videophone or any other electronic means (referred to in this section as electronic means).
+
+(2) The Registrar may at any time direct any consultation by electronic means to cease and order the parties to appear in person at a designated place for the consultation.
+
+(3) Any order made by the Registrar at the consultation by electronic means may be set aside on the application of any person aggrieved by that order if the Registrar is satisfied that either party has been impersonated or that any person who participated in the consultation did not have authority to represent the party concerned.
+
+(4) An application made under subsection (3) shall be made within one month after the order was made or such further period as the Registrar may allow.
+
+[2/98 wef 16/03/1998]
+
 ### Service of claim and notice of hearing
 
 18\.—(1) Where the Registrar is unable to achieve a settlement acceptable to all the parties to the dispute, he shall —
@@ -371,6 +397,22 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 (2) The Registrar may summon any person to appear before a tribunal if, in his opinion, the presence of the person is necessary to enable the tribunal to determine the questions in dispute in the claim.
 
 (3) Service of a copy of the written claim and the notice of hearing and of a summons or any document that is to be served on any person in any proceedings before a tribunal may be effected by such person as may be appointed by the Registrar for the purpose.
+
+### Claim may be admitted by telephone or in writing
+
+18A\.—(1) The Registrar may, on such conditions as he may impose, permit a respondent, at any time before an order on the claim has been made by the Registrar or the tribunal, to admit the claim against him orally by telephone.
+
+(2) The Registrar may accept any admission to the claim in writing by the respondent if such admission is received before any order on the claim had been made by the Registrar or the tribunal.
+
+(3) The Registrar may, in his discretion, reject an admission purportedly made under subsection (1) or (2) and direct the respondent to appear in person at the consultation or before a tribunal.
+
+(4) If the Registrar is satisfied that an admission under subsection (1) or (2) is in order, the Registrar may make an order under section 32 against the respondent and the order shall have effect as if it were an order of a tribunal under that section.
+
+(5) Any order made by the Registrar under subsection (4) may be set aside on the application of the respondent if the Registrar is satisfied that the admission was not made by the respondent or with the respondent’s authority.
+
+(6) An application under subsection (5) shall be made within one month after the date of the order or such further period as the Registrar may allow.
+
+[2/98 wef 16/03/1998]
 
 ### Parties
 
@@ -421,6 +463,18 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 ### Proceedings to be in private
 
 22\. All proceedings before a tribunal shall be held in private.
+
+### Proceedings before tribunal conducted by electronic means, etc.
+
+22A\.—(1) A tribunal may, on such conditions as it may impose, permit proceedings before the tribunal to be conducted by telephone, videophone or any other electronic means (referred to in this section as electronic means).
+
+(2) The tribunal may at any time direct any proceedings before it conducted by electronic means to cease and order the parties to appear in person at a designated place for the hearing.
+
+(3) Any order made by the tribunal at the proceedings before it by electronic means may be set aside on the application of a person aggrieved by that order if the tribunal is satisfied that either party has been impersonated or that any person who participated in the hearing did not have authority to represent the party concerned.
+
+(4) An application made under subsection (3) shall be made within one month after the order was made or such further period as the tribunal may allow.
+
+[2/98 wef 16/03/1998]
 
 ### Claims may be heard together
 
@@ -626,9 +680,19 @@ MISCELLANEOUS PROVISIONS
 
 ### Setting aside of order
 
-38\.—(1) Any award or order of the Registrar or a tribunal obtained where one party did not appear at the consultation or hearing, as the case may be, may be set aside by the tribunal on the application of that party on such terms as the tribunal thinks just.
+38\.—(1) Any order of —
 
-(2) An application under subsection (1) shall be made within one month after the hearing or such further period as the tribunal may allow.
+(a) the tribunal under section 22A(3) or 26(1);
+
+(b) the Registrar under section 17(9), 17A(3) or 18A(5),
+
+may, on the application of a person aggrieved by that order, be set aside by the tribunal and the tribunal may make such further order as it thinks just.
+
+[2/98 wef 16/03/1998]
+
+(2) An application under subsection (1) shall be made within one month after the date on which the order was made or such further period as the tribunal may allow.
+
+[2/98 wef 16/03/1998]
 
 [31/92]
 
@@ -747,3 +811,8 @@ This Legislative History is provided for the convenience of users of the Small C
 ||Date of operation|27 December 1996|
 |7.|**G. N. No. S 321/1997—Small Claims Tribunals (Jurisdiction) Order 1997**|
 ||Date of commencement|15 July 1997|
+|8.|**Act 2 of 1998—Small Claims Tribunals (Amendment) Act 1998**|
+||Date of First Reading|19 November 1997|
+|||(Bill No. 15/1997 published on 20 November 1997)|
+||Date of Second and Third Readings|14 January 1998|
+||Date of commencement|16 March 1998|
