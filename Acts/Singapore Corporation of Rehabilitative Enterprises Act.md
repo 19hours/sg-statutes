@@ -74,6 +74,8 @@
 
 - [28 Loans](#Loans)
 
+- [28A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [29 Investment](#Investment)
 
 - [30 Accounts to be kept](#Accounts-to-be-kept)
@@ -132,7 +134,7 @@ PRELIMINARY
 
 “inmate” means a person who is detained in any approved institution under the Misuse of Drugs Act [Cap. 185] or in such other institution or place as may be prescribed;
 
-[23/1987 wef 01/11/1987]
+[Act 23/87 wef 01/11/1987]
 
 “member” means a member of the Corporation and includes the Chairman and the Deputy Chairman;
 
@@ -160,7 +162,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CORPORATION
 
 (d) not less than 2 nor more than 12 other members.
 
-[23/1987 wef 01/11/1987]
+[Act 23/87 wef 01/11/1987]
 
 (2) All members shall, unless the Minister otherwise directs, hold office for a period of 3 years from the date of their respective appointments and shall be eligible for reappointment.
 
@@ -270,27 +272,17 @@ FUNCTIONS AND POWERS OF CORPORATION
 
 (a) to manage and maintain the vocational or industrial training institutions transferred to the Corporation by this Act and such other institutions as the Corporation may establish under this Act for the employment, or vocational or industrial training of prisoners and inmates;
 
-[23/1987 wef 01/11/1987]
-
 (b) to provide or secure the provision of such employment or facilities for such training and to organise programmes therefor;
 
 (c) to provide technical training in skilled trades for suitable prisoners and inmates;
 
-[23/1987 wef 01/11/1987]
-
-(d) to promote the vocational skills or prisoners and inmates;
-
-[23/1987 wef 01/11/1987]
+(d) to promote the vocational skills of prisoners and inmates;
 
 (e) to require any prisoner to work pursuant to section 50 of the Prisons Act [Cap. 247];
 
 (f) to advise the Government on all matters relating to the provision of vocational or industrial training and technical training in trades for prisoners and inmates; and
 
-[23/1987 wef 01/11/1987]
-
 (g) to provide or secure the provision of rehabilitative and aftercare services to prisoners and inmates before and after their discharge from custody and to assist the provision by others of such services.
-
-[23/1987 wef 01/11/1987]
 
 ### Powers
 
@@ -298,15 +290,15 @@ FUNCTIONS AND POWERS OF CORPORATION
 
 (a) provide, whether by itself or with the co-operation of other persons, such vocational or industrial training schemes for any prisoner and inmate as the Corporation thinks fit;
 
-[23/1987 wef 01/11/1987]
+[Act 23/87]
 
 (b) carry on any trade or business whether by arrangement with other persons or by itself for the purpose of providing facilities for the training of or employment for prisoners and inmates;
 
-[23/1987 wef 01/11/1987]
+[Act 23/87]
 
 (c) pay such salaries, wages, remuneration or allowances as the Corporation thinks fit to prisoners and inmates who work for the Corporation;
 
-[23/1987 wef 01/11/1987]
+[Act 23/87]
 
 (d) acquire, hire, procure, construct, erect, manufacture, provide, operate, maintain or repair anything whatsoever required by the Corporation for the purposes of this Act;
 
@@ -316,21 +308,21 @@ FUNCTIONS AND POWERS OF CORPORATION
 
 (g) make loans to persons, other than prisoners and inmates, who are employed by the Corporation (including loans to assist them to acquire housing accommodation) and guarantee loans made to persons so employed (including loans made by building societies and other bodies for housing purposes);
 
-[23/1987 wef 01/11/1987]
+[Act 23/87]
 
 (h) promote recreational activities for and activities conducive to the welfare of persons, other than prisoners and inmates, who are or have been engaged in the employment of the Corporation and assist the promotion by others of those activities;
 
-[23/1987 wef 01/11/1987]
+[Act 23/87]
 
 (i) enter into such contracts as the Corporation considers necessary for the discharge of its functions;
 
 (j) make grants or lend money to, or enter into guarantees on behalf of, any person or organisation in matters relating to the provision of industrial or vocational training for, or of rehabilitative and aftercare services to, prisoners and inmates before and after their discharge from custody;
 
-[23/1987 wef 01/11/1987]
+[Act 23/87]
 
 (ja) make grants or lend money to, or enter into guarantees on behalf of, prisoners and inmates after their discharge from custody for the purposes of any vocation, trade or business carrying on by them;
 
-[23/1987 wef 01/11/1987]
+[Act 23/87]
 
 (k) with the approval of the Minister, enter into joint ventures with any person or organisation, or cause to be formed under the provisions of the Companies Act [Cap. 50] an incorporated company or companies for the purpose of carrying out any of the functions of the Corporation; and
 
@@ -354,7 +346,7 @@ PROVISIONS RELATING TO STAFF
 
 18\.—(1) The Corporation shall, with the approval of the Minister, appoint a chief executive officer on such terms and conditions as the Corporation may determine.
 
-[23/1987 wef 01/11/1987]
+[Act 23/87 wef 01/11/1987]
 
 (2) The chief executive officer shall —
 
@@ -394,7 +386,7 @@ FINANCIAL PROVISIONS
 
 24\. The financial year of the Corporation shall begin on 1st January and end on 31st December of each year except that the financial year of the Corporation for 1987 shall begin on 1st April and shall end on 31st December 1987.
 
-[23/1987 wef 01/11/1987]
+[Act 23/87 wef 01/11/1987]
 
 ### Expenses
 
@@ -417,6 +409,12 @@ FINANCIAL PROVISIONS
 ### Loans
 
 28\. The Corporation may, from time to time, for the purposes of this Act, raise loans from the Government or, with the consent of the Minister, from any source.
+
+### Issue of shares, etc.
+
+28A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Corporation under this Act, or of any capital injection or other investment by the Government in the Corporation in accordance with any written law, the Corporation shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Investment
 
@@ -519,3 +517,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 16/1987 published on 30 July 1987)|
 ||Date of Second and Third Readings|31 August 1987|
 ||Date of commencement|1 November 1987|
+|4.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002|
