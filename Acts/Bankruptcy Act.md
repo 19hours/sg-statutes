@@ -816,7 +816,7 @@ and he has consented in writing to being appointed as a trustee.
 
 (2) Any reference in this Act or the rules to the Official Assignee shall, unless the context otherwise requires, include a reference to a trustee.
 
-(3) Sections 19, 24, 108, 113, 116, 125 and 165 shall not apply to a trustee and section 112(a), (c), (f), (h) and (i) shall not apply to a trustee except with the consent of the court, the creditors’ committee or, if there is no creditors’ committee, the Official Assignee.
+(3) Sections 19, 24, 95A, 108, 113, 116, 123A, 125 and 165 shall not apply to a trustee and section 112(a), (c), (f), (h) and (i) shall not apply to a trustee except with the consent of the court, the creditors’ committee or, if there is no creditors’ committee, the Official Assignee.
 
 ### Trustee to pay moneys received by him into prescribed bank account
 
@@ -2358,7 +2358,7 @@ ANNULMENT AND DISCHARGE
 
 (a) on any ground existing at the time the order was made, the order ought not to have been made;
 
-(b) to the extent required by the rules, the debts which have been paid and the expenses of the bankruptcy have all, since the making of the order, either been paid or secured for to the satisfaction of the court;
+(b) to the extent required by the rules, both the debts and the expenses of the bankruptcy have all, since the making of the order, either been paid or secured for to the satisfaction of the court;
 
 (c) proceedings are pending in Malaysia for the distribution of the bankrupt’s estate and effects amongst the creditors under the bankruptcy law of Malaysia and that the distribution ought to take place there; or
 
@@ -2824,7 +2824,7 @@ MISCELLANEOUS PROVISIONS
 
 (11) If on the administration of a deceased debtor’s estate any surplus remains in the hands of the Official Assignee after payment in full of all the debts due from the debtor, together with the costs of the administration and interest as provided by this Act in the case of a bankruptcy, the surplus shall, subject to section 122(2), be paid over to the legal representative of the deceased debtor’s estate or dealt with in such other manner as is prescribed.
 
-(12) Upon notice being given to the legal representative of a deceased debtor of the presentation by a creditor of the debts which have been paid under this section, and in the event of an administration order being made thereon, no payment or transfer of property made thereafter by the legal representative shall operate as a discharge to him as between himself and the Official Assignee.
+(12) Upon notice being given to the legal representative of a deceased debtor of the presentation by a creditor of under this section, and in the event of an administration order being made thereon, no payment or transfer of property made thereafter by the legal representative shall operate as a discharge to him as between himself and the Official Assignee.
 
 (13) Subject to this section, nothing in this section shall invalidate any payment made or act or thing done in good faith by the legal representative before the date of the administration order.
 
@@ -3182,6 +3182,12 @@ This Legislative History is provided for the convenience of users of the Bankrup
 |||(Bill No. 40/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|1 January 2003|
+|11.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
+|||(section 4 — Amendment of Bankruptcy Act)|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
