@@ -1,16 +1,14 @@
-**Community Mediation Centres Act 1997**
+**Community Mediation Centres Act**
 
-**(No. 10 of 1997)**
+**(CHAPTER 49A)**
 
 **Table of Contents**
 
 [**Long Title**](#Community-Mediation-Centres-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -42,7 +40,7 @@
 
 - [14 Representation by agent](#Representation-by-agent)
 
-- [15 Referral of cases by a Magistrate](#Referral-of-cases-by-a-Magistrate)
+- [15 Referral of cases by Magistrate](#Referral-of-cases-by-Magistrate)
 
 [**Part IV MISCELLANEOUS**](#Part-IV)
 
@@ -62,55 +60,35 @@
 
 - [23 Power to make regulations](#Power-to-make-regulations)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Community Mediation Centres Act
 
-ACTS SUPPLEMENT
+(CHAPTER 49A)
 
-Published by Authority
+(Original Enactment: Act 10 of 1997)
 
-NO. 2]
+REVISED EDITION 1998
 
-Friday, January 9
-
-[1998
-
-The following Act was passed by Parliament on 7th October 1997 and assented to by the President on 15th October 1997:—
-
-Community Mediation Centres Act 1997
-
-(No. 10 of 1997)
-
-I assent.
-
-ONG TENG CHEONG
-
-President
-
-15th October 1997.
-
-Date of Commencement: 9th January 1998
+(30th May 1998)
 
 An Act to provide for the establishment and operation of Community Mediation Centres to provide mediation services connected with certain disputes.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[9th January 1998]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Community Mediation Centres Act 1997 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Community Mediation Centres Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
 “Community Mediation Centre” means a Community Mediation Centre established under section 3;
-
-“Court” means the Subordinate Courts or the High Court, as the case may be;
 
 “Director” means a person holding office or duly acting as Director of a Community Mediation Centre;
 
@@ -220,7 +198,7 @@ MEDIATION
 
 (2) A party to a mediation session may withdraw from the mediation session at any time.
 
-(3) Attendance at, participation in or withdrawal from a mediation session conducted under this Act shall not affect any rights or remedies that a party to a dispute has apart from this Act.
+(3) Attendance at, participation in or withdrawal from, a mediation session conducted under this Act shall not affect any rights or remedies that a party to a dispute has apart from this Act.
 
 ### Settlement or agreement to be reduced to writing
 
@@ -254,7 +232,7 @@ from representing that company, corporation, body corporate or society, as the c
 
 (3) Where a Director approves of the representation of a party by an agent, the approval of the Director may be given subject to such conditions as the Director considers reasonable to ensure that any other party to the mediation session is not substantially disadvantaged by the agent appearing at the mediation session and, where the Director does so, the entitlement of the agent to represent the party shall be subject to compliance by the agent with those conditions.
 
-### Referral of cases by a Magistrate
+### Referral of cases by Magistrate
 
 15\.—(1) Notwithstanding any provision of this Act or any written law, a Magistrate who takes cognizance of an offence upon receiving a complaint made by a private person under section 128 of the Criminal Procedure Code (Cap. 68) may, if —
 
@@ -300,19 +278,21 @@ shall, if the matter or thing was done in good faith for the purpose of executin
 
 unless the registrar is satisfied that, having regard to all the circumstances of the case, such attendance or production is necessary for the fair disposal of the case or to save costs.
 
-(2) For the purposes of subsection (1) —
+(2) Where an order is made by the registrar under subsection (1)(b), it shall be sufficient compliance for the Centre to produce certified true copies of any of the records or documents and such copies shall, subject to section 19, be admissible as evidence of the facts stated or contained therein.
 
-“registrar” means the Registrar, the Deputy Registrar or an Assistant Registrar of the Supreme Court in all cases where proceedings are taken in the Supreme Court and means the registrar or a deputy registrar of the subordinate courts in all cases where proceedings are taken in a subordinate court;
+(3) For the purposes of this section —
 
 “court” includes an arbitral tribunal.
 
-(3) Where an order is made by the registrar under subsection (1)(b), it shall be sufficient compliance for the Centre to produce certified true copies of any of the records or documents and such copies shall, subject to section 19, be admissible as evidence of the facts stated or contained therein.
+“registrar” means —
+
+(a) the Registrar, the Deputy Registrar or an Assistant Registrar of the Supreme Court in all cases where proceedings are taken in the Supreme Court; and
+
+(b) the registrar or a deputy registrar of the subordinate courts in all cases where proceedings are taken in a subordinate court;
 
 ### Privilege
 
-19\.—(1) In this section, “mediation session” includes any step taken in the course of making arrangements for a mediation session or in the course of the follow-up of a mediation session.
-
-(2) Subject to subsection (3), the like privilege with respect to defamation exists with respect to —
+19\.—(1) Subject to subsection (2), the like privilege with respect to defamation exists with respect to —
 
 (a) a mediation session; or
 
@@ -320,29 +300,31 @@ unless the registrar is satisfied that, having regard to all the circumstances o
 
 as exists with respect to judicial proceedings and a document produced in judicial proceedings.
 
-(3) The privilege conferred by subsection (2) shall not extend to a publication made otherwise than —
+(2) The privilege conferred by subsection (1) shall not extend to a publication made otherwise than —
 
 (a) at a mediation session;
 
-(b) as provided by subsection (2) (b); or
+(b) as provided by subsection (1)(b); or
 
 (c) as provided by section 20.
 
-(4) Evidence of anything said or of any admission made in a mediation session is not admissible in any proceedings before any court, tribunal or body.
+(3) Evidence of anything said or of any admission made in a mediation session is not admissible in any proceedings before any court, tribunal or body.
 
-(5) A document prepared for the purposes of, or in the course of, or pursuant to, a mediation session, or any copy thereof is not admissible in evidence in any proceedings before any court, tribunal or body.
+(4) A document prepared for the purposes of, or in the course of, or pursuant to, a mediation session, or any copy thereof is not admissible in evidence in any proceedings before any court, tribunal or body.
 
-(6) Subsections (4) and (5) shall not apply with respect to any evidence or document —
+(5) Subsections (3) and (4) shall not apply with respect to any evidence or document —
 
 (a) where the persons in attendance at or named during the mediation session and, in the case of a document, all persons named in the document consent to admission of the evidence or document;
 
-(b) in proceedings instituted with respect to any act or omission in connection with which a disclosure has been made pursuant to section 20 (c); or
+(b) in proceedings instituted with respect to any act or omission in connection with which a disclosure has been made pursuant to section 20(c); or
 
-(c) if the Court is satisfied that, having regard to all the circumstances of the case, the admission of the evidence or document is necessary for the fair disposal of the case or to save costs.
+(c) if the court is satisfied that, having regard to all the circumstances of the case, the admission of the evidence or document is necessary for the fair disposal of the case or to save costs.
+
+(6) In this section, “mediation session” includes any step taken in the course of making arrangements for a mediation session or in the course of the follow-up of a mediation session.
 
 ### Secrecy
 
-20\. A person who is a mediator, a Director, a member of the staff of the Community Mediation Centre or a person making an evaluation under section 16 or carrying out research referred to in paragraph (e) of this section may disclose information obtained in connection with the administration or execution of this Act only as follows:
+20\. A person who is a mediator, a Director, a member of the staff of the Community Mediation Centre or a person making an evaluation under section 16 or carrying out research referred to in paragraph (e) may disclose information obtained in connection with the administration or execution of this Act only as follows:
 
 (a) with the consent of the person from whom the information was obtained;
 
@@ -378,3 +360,20 @@ as exists with respect to judicial proceedings and a document produced in judici
 
 (2) All regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
+## LEGISLATIVE HISTORY
+
+Community Mediation Centres Act
+
+(CHAPTER 49A)
+
+This Legislative History is provided for the convenience of users of the Community Mediation Centres Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 10 of 1997—Community Mediation Centres Act 1997**|
+||Date of First Reading|25 August 1997|
+|||(Bill No. 9/1997 published on 26 August 1997)|
+||Date of Second and Third Readings|7 October 1997|
+||Date of commencement|9 January 1998|
+|2.|**1998 Revised Edition—Community Mediation Centres Act**|
+||Date of operation|30 May 1998|
