@@ -1,14 +1,12 @@
-**Maintenance of Religious Harmony Act 1990**
+**Maintenance of Religious Harmony Act**
 
-**(No. 26 of 1990)**
+**(CHAPTER 167A)**
 
 **Table of Contents**
 
 [**Long Title**](#Maintenance-of-Religious-Harmony-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-[**Part I PRELIMINARY**](#Part-I)
+[**Part 1 PRELIMINARY**](#Part-1)
 
 - [1 Short title and commencement](#Short-title-and-commencement)
 
@@ -36,7 +34,7 @@
 
 - [11 Restraining orders to be referred to Council](#Restraining-orders-to-be-referred-to-Council)
 
-- [12 Restraining order to be confirmed by President](#Restraining-order-to-be-confirmed-by-President)
+- [12 Restraining orders to be confirmed by President](#Restraining-orders-to-be-confirmed-by-President)
 
 - [13 Extension of restraining order](#Extension-of-restraining-order)
 
@@ -52,47 +50,29 @@
 
 - [19 Regulations](#Regulations)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Maintenance of Religious Harmony Act
 
-ACTS SUPPLEMENT
+(CHAPTER 167A)
 
-Published by Authority
+(Original Enactment: Act 26 of 1990)
 
-NO. 13]
+REVISED EDITION 1991
 
-Friday, January 25
-
-[1991
-
-The following Act was passed by Parliament on 9th November 1990 and assented to by the President on 30th November 1990:—
-
-Maintenance Of Religious Harmony Act 1990
-
-(No. 26 of 1990)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-30th November 1990.
-
-Date of Commencement: 25th January 1990
+(1st March 1991)
 
 An Act to provide for the maintenance of religious harmony and for establishing a Presidential Council for Religious Harmony and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[31st March 1992]
 
-## PART I
+## PART 1
 
 PRELIMINARY
 
 ### Short title and commencement
 
-1\. This Act may be cited as the Maintenance of Religious Harmony Act 1990 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Maintenance of Religious Harmony Act and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
 
 ### Interpretation
 
@@ -108,9 +88,9 @@ PRELIMINARY
 
 “religious group” includes —
 
-(a) any company or other body corporate incorporated under the Companies Act (Cap. 50, 1990 Ed.) or any other written law for the purpose of promoting any religion, religious worship or dealing with religious affairs or practising, conducting, teaching or propagating any religious belief; and
+(a) any company or other body corporate incorporated under the Companies Act [Cap. 50] or any other written law for the purpose of promoting any religion, religious worship or dealing with religious affairs or practising, conducting, teaching or propagating any religious belief; and
 
-(b) any body of persons, whether or not registered as a society under the Societies Act (Cap. 311), whose object is the promotion of any religion, religious worship or the practice, conduct, teaching or propagating of any religious belief.
+(b) any body of persons, whether or not registered as a society under the Societies Act [Cap. 311], whose object is the promotion of any religion, religious worship or the practice, conduct, teaching or propagating of any religious belief.
 
 ## PART II
 
@@ -122,7 +102,7 @@ ESTABLISHMENT OF PRESIDENTIAL COUNCIL FOR RELIGIOUS HARMONY
 
 (2) Not less than two-thirds of the members of the Council shall be representatives of the major religions in Singapore and the other members shall be persons who, in the opinion of the Presidential Council for Minority Rights, have distinguished themselves in public service or community relations in Singapore.
 
-(3) The chairman and every member of the Council shall be appointed by the President, on the advice of the Presidential Council for Minority Rights, for a period of 3 years all of whom shall be eligible for reappointment:
+(3) The Chairman and every member of the Council shall be appointed by the President, on the advice of the Presidential Council for Minority Rights, for a period of 3 years all of whom shall be eligible for reappointment:
 
 Provided that a member, other than the chairman, may be appointed for any shorter period of not less than one year.
 
@@ -160,13 +140,13 @@ Provided that where the conviction is by a court in Malaysia, the person shall n
 
 ### Functions of Council
 
-4\.—(1) The functions of the Council shall be —
+4\.—(1) The Functions of the council shall be —
 
 (a) to consider and report to the Minister on matters affecting the maintenance of religious harmony in Singapore which are referred to the Council by the Minister or by Parliament; and
 
 (b) to consider and make recommendations on orders referred to the Council by the Minister under section 11.
 
-(2) The Council shall have the power to appoint a Secretary to the Council and such other officers as may be required to enable the Council to carry out its functions under this Act.
+(2) The Council shall have the power to appoint a Secretary to the Council and such other officers as may be required to enable the council to carry out its functions under this Act.
 
 (3) The Council may, subject to the provisions of this Act, regulate its own procedure.
 
@@ -182,7 +162,7 @@ Provided that where the conviction is by a court in Malaysia, the person shall n
 
 ### Members are public servants and protected from legal action
 
-6\.—(1) Every member or officer of the Council shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
+6\.—(1) Every member or officer of the Council shall be deemed to be a public servant within the meaning of the Penal Code.
 
 (2) Nothing done by any member or officer of the Council in good faith and in the discharge of the powers and functions of the Council shall render him liable to any suit or action.
 
@@ -212,7 +192,7 @@ he may make a restraining order against that person for the purposes specified i
 
 (a) restraining him from addressing orally or in writing any congregation, parish or group of worshippers or members of any religious group or institution on any subject, topic or theme as may be specified in the order without the prior permission of the Minister;
 
-(b) restraining him from printing, publishing, editing, distributing or in any way assisting or contributing to any publication produced by any religious group without the prior permission of the Minister;
+(b) restraining him from printing, publishing, editing, distributing or in any way assisting or contributing to any publication produced by that religious group without the prior permission of the Minister;
 
 (c) restraining him from holding office in an editorial board or a committee of a publication of any religious group without the prior permission of the Minister.
 
@@ -246,17 +226,17 @@ he may make a restraining order against him.
 
 ### Restraining orders to be referred to Council
 
-11\.—(1) All orders made by the Minister under sections 8 and 9 must, within 30 days of the date of the order, be referred to the Council.
+11\.—(1) Every order made by the Minister under section 8 or 9 must, within 30 days of the date of the order, be referred to the Council.
 
-(2) The Council must consider the order together with the grounds and all facts or documents tendered by the Minister in support of the making of the order, and the representations, if any, received by the Minister prior to the making of the order.
+(2) The Council must consider the order together with the grounds and all facts or documents tendered by the Minister in support of making of the order, and the representations, if any, received by the Minister prior to the making of the order.
 
 (3) Where the Council considers it necessary for its deliberations, the Council may invite a person against whom an order is made to be present for oral examination by the Council at a meeting convened for this purpose.
 
 (4) The Council must, within 30 days of the receipt of the order and the necessary documents, make its recommendations to the President.
 
-(5) The Council may recommend that the order be confirmed, cancelled or varied in any manner.
+(5) The council may recommend that the order be confirmed, cancelled or varied in any manner.
 
-### Restraining order to be confirmed by President
+### Restraining orders to be confirmed by President
 
 12\.—(1) Every order made under section 8 or 9 shall cease to have effect unless it is confirmed by the President within 30 days from the date the Council’s recommendations are received by the President.
 
@@ -272,7 +252,7 @@ he may make a restraining order against him.
 
 ### Review of restraining order
 
-14\.—(1) All orders made or extended under this Part shall, so long as they remain in force, be reviewed by the Minister at intervals of not more than 12 months and the first of such reviews shall take place not more than 12 months after the date the order was made or extended.
+14\.—(1) Every order made or extended under this Part shall, so long as it remains in force, be reviewed by the Minister at intervals of not more than 12 months and the first of such reviews shall take place not more than 12 months after the date the order was made or extended.
 
 (2) The Minister may at any time revoke an order made under section 8 or 9.
 
@@ -284,7 +264,7 @@ he may make a restraining order against him.
 
 16\.—(1) Any person who contravenes any provision of an order made under this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a second or subsequent offence, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(2) Notwithstanding the provisions of any written law to the contrary, a District Court shall have the jurisdiction to impose the maximum penalty prescribed for an offence under this Act.
+(2) Notwithstanding the provisions of any written law to the contrary, a District court shall have the jurisdiction to impose the maximum penalty prescribed for an offence under this Act.
 
 ### Sanction of Public Prosecutor
 
@@ -296,7 +276,7 @@ he may make a restraining order against him.
 
 ### Regulations
 
-19\. The Minister may make such regulations as appear to him necessary or expedient for the purposes of carrying out the provisions of this Act and may in particular provide for —
+19\. The Minister may make such regulations as appear to him necessary or expedient for the purposes of carrying out the provisions of this Act and may, in particular, provide for —
 
 (a) the procedures, conduct and meetings of the Council;
 
@@ -304,3 +284,21 @@ he may make a restraining order against him.
 
 (c) the procedures for and manner of making representations to the Minister or the Council.
 
+## LEGISLATIVE HISTORY
+
+Maintenance of Religious Harmony Act
+
+(CHAPTER 167A)
+
+This Legislative History is provided for the convenience of users of the Maintenance of Religious Harmony Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 26 of 1990—Maintenance of Religious Harmony Act 1990**|
+||Date of First Reading|12 June 1990|
+|||(Bill No. 14/1990 published on 15 June 1990)|
+||Date of Second Reading|18 July 1990|
+||Date Committed to Select Committee|Parl. 7 of 1990 presented to Parliament on 19 October 1990|
+||Date of commencement|25 January 1991 (publication date)|
+|2.|**1991 Revised Edition—Maintenance of Religious Harmony Act**|
+||Date of operation|1 March 1991|
