@@ -32,6 +32,8 @@
 
 - [13 Grants-in-aid](#Grants-in-aid)
 
+- [13A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [14 Accounts and financial statements](#Accounts-and-financial-statements)
 
 - [15 Audit of accounts](#Audit-of-accounts)
@@ -185,6 +187,12 @@ An Act to establish the Nanyang Polytechnic, and for matters connected therewith
 13\.—(1) The Minister shall pay to the Polytechnic such moneys as may be provided by Parliament from time to time as grants-in-aid to the Polytechnic.
 
 (2) All moneys paid to the Polytechnic under subsection (1) may be applied or expended by the Polytechnic for the attainment of all or any of the objects of the Polytechnic.
+
+### Issue of shares, etc.
+
+13A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Polytechnic under this Act, or of any capital injection or other investment by the Government in the Polytechnic in accordance with any written law, the Polytechnic shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Accounts and financial statements
 
@@ -448,7 +456,7 @@ Senate
 
 (2) The Senate shall meet at least twice in each semester of every academic year and such other times as may be necessary.
 
-(3) The quorum at every meeting of the Senate shall be one-quarter of the total number of members of the Senate.
+(3) The quorum at every meeting of the Senate shall be one quarter of the total number of members of the Senate.
 
 (4) The chairman of the Senate shall be empowered to require any officer, lecturer or other employee of the Polytechnic to attend a meeting of the Senate.
 
@@ -577,3 +585,8 @@ This Legislative History is provided for the convenience of users of the Nanyang
 ||Date of commencement|1 April 1992|
 |2.|**1993 Revised Edition—Nanyang Polytechnic Act**|
 ||Date of operation|15 March 1993|
+|3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002|
