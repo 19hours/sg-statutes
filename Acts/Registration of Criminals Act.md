@@ -318,7 +318,7 @@ Part II
 
 Offences under Other Laws
 
-Armed Offences Act [Cap. 14]
+Arms Offences Act [Cap. 14]
 
 ...
 
@@ -330,11 +330,11 @@ Banishment Act [Cap. 18]
 
 Section 14.
 
-Bankruptcy Act [Cap. 20]
+Bankruptcy Act 1994
 
-...
+…
 
-Sections 111, 112, 113, 114 and 117(3).
+The whole of Part X.
 
 Broadcasting and Television Act [Cap. 28]
 
@@ -463,6 +463,8 @@ Merchant Shipping Act [Cap. 179]
 Sections 30, 48, 55, 97, 118, 124, 141(3), 157, 167, 213, 232 and 259.
 
 Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184)
+
+…
 
 Sections 22, 25, 30, 31, 36, 36A, 37(1) and 37(5).
 
@@ -826,3 +828,11 @@ This Legislative History is provided for the convenience of users of the Registr
 |||(Bill No. 16/1989 published on 19 January 1989)|
 ||Date of Second and Third Readings|16 February 1989|
 ||Date of commencement|9 June 1989|
+|20.|**Act 15 of 1995—Bankruptcy Act 1995**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 July 1994|
+|||(Bill No. 16/94 published on 29 July 1994)|
+||Date of Second Reading|25 August 1994|
+||Referred to Select Committee|Parl 1 of 1995 presented to Parliament on 7 March 1995|
+||Date of Third Reading|23 March 1995|
+||Date of commencement|15 July 1995|
