@@ -3220,6 +3220,8 @@ Isocyanates
 
 Lead tetra-ethyl and similar lead containing compounds
 
+Lead compounds in any paint in which the lead content is 0.25% or more by weight of the paint
+
 Mecuric chloride; mercuric iodide; organic compounds of mecury; mecury and its compounds in batteries
 
 Metanil yellow (sodium salt of metanilylazo-diphenylamine)
@@ -3350,7 +3352,7 @@ Thallium, salts of
 
 Vinyl chloride monomer
 
-[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991]
+[S 361/1989; S 55/1990; S 51/1991; S475/1991; S 541/1991; S 9/1993]]
 
 ## LEGISLATIVE HISTORY
 
@@ -3498,3 +3500,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 November 1991|
 |55.|**G. N. No. S 541/1991—Poisons Act (Amendment of Schedule) (No. 3) Notification 1991**|
 ||Date of commencement|1 January 1992|
+|56.|**G. N. No. S 9/1993—Poisons Act (Amendment of Schedule) Notification 1993**|
+||Date of commencement|1 February 1993|
