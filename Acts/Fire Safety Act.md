@@ -124,7 +124,7 @@
 
 - [44 Authorised persons may make forcible entry](#Authorised-persons-may-make-forcible-entry)
 
-- [45 Scientific Officer’s certificate](#Scientific-Officer’s-certificate)
+- [45 Analyst’s certificate](#Analyst’s-certificate)
 
 - [46 Powers of arrest](#Powers-of-arrest)
 
@@ -1498,9 +1498,13 @@ MISCELLANEOUS
 
 (3) Any person who refuses any such entry or in any way prevents or obstructs any authorised person in effecting an entrance or search under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-### Scientific Officer’s certificate
+### Analyst’s certificate
 
-45\. A certificate purporting to be signed by a Scientific Officer and purporting to relate to petroleum shall be admitted in evidence in any proceedings for an offence under Part VI, on its production by the prosecution without proof of signature and, until the contrary is proved, such certificate shall be prima facie evidence of all matters contained therein.
+45\.—(1) A certificate purporting to be signed by an analyst employed by the Health Sciences Authority and purporting to relate to petroleum shall be admitted in evidence in any proceedings for an offence under Part VI, on its production by the prosecution without proof of signature and, until the contrary is proved, such certificate shall be prima facie evidence of all matters contained therein.
+
+(2) In this section, “Health Sciences Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001.
+
+[4/2001 wef 01/04/2001]
 
 ### Powers of arrest
 
@@ -1759,6 +1763,12 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 ||Date of commencement|15 October 2000|
 |5.|**2000 Revised Edition—Fire Safety Act**|
 ||Date of operation|30 December 2000|
+|6.|**Act 4 of 2001—Health Sciences Authority Act 2001**|
+||(Consequential amendments made by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 2/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
 ## COMPARATIVE TABLE
 
 Fire Safety Act
