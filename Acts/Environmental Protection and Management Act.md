@@ -1588,20 +1588,6 @@ Boron trifluoride
 
 Bromine; Bromine solutions
 
-Bromodichlorofluoromethane (Halon 1211, CFCl
-
-2
-
-Br) in fire extinguishers
-
-Bromotrifluoromethane (Halon 1301, CF
-
-3
-
-Br) in fire protection systems
-
-Halon 1301 in fire protection systems with building plans approved on or before 17th June 1991 and installed on or before 31st December 1991.
-
 Cadmium-containing silver brazing alloy
 
 Captafol
@@ -1720,68 +1706,6 @@ Pentachlorobenzene
 
 Hexachlorobenzene
 
-Chlorofluorocarbons, in non-pharmaceutical aerosol products, polystyrene sheets or products; in refrigeration or air-conditioning equipment that are installed on or after 1st January 1993, the following:
-
-Chlorofluorocarbons in air-conditioners in vehicles registered before 1st January 1995;
-
-Trichlorofluoromethane (CFC11, CFCl
-
-3
-
-)
-
-Chlorofluorocarbons in refrigerators that are used for domestic purpose;
-
-Dichlorodifluoromethane (CFC12, CF
-
-2
-
-Cl
-
-2
-
-)
-
-Chlorofluorocarbons in refrigerators having a compressor rating not exceeding one horsepower.
-
-Trichlorotrifluoroethane (CFC113, C
-
-2
-
-F
-
-3
-
-Cl
-
-3
-
-)
-
-Dichlorotetrafluoroethane (CFC114, C
-
-2
-
-F
-
-4
-
-Cl
-
-2
-
-)
-
-Chloropentafluoroethane (CFC115, C
-
-2
-
-F
-
-5
-
-Cl)
-
 Chlorophenols, the following:
 
 Substances containing not more than 1%, weight in weight, of chlorophenols.
@@ -1819,20 +1743,6 @@ Ferricyanides.
 Diborane
 
 Dibromochloropropane
-
-Dibromotetrafluoroethane (Halon 2402, C
-
-2
-
-F
-
-4
-
-Br
-
-2
-
-)
 
 Diethyl sulphate
 
@@ -1887,8 +1797,6 @@ Substances containing not more than 5%, weight in weight, of formic acid.
 Germane
 
 Hydrazine anhydrous; Hydrazine aqueous solutions
-
-Hydrobromofluorocarbons (HBFCs)
 
 Hydrochloric acid
 
@@ -1952,8 +1860,6 @@ Metanil yellow (sodium salt of metanilylazo-diphenylamine)
 
 Dye-indicators used in laboratories.
 
-Methyl bromide
-
 Methyl chloride
 
 Methyl mercaptan
@@ -2001,6 +1907,273 @@ Substances and preparations containing not more than 3%, weight in weight, of or
 Solutions of not more than 60%, weight in weight, of methyl ethyl ketone peroxides and total aggregate weight of less than 50 kilograms of such solutions.
 
 Organo-tin compounds, the following:
+
+Ozone depleting substances, namely:
+
+Products containing any ozone depleting substance other than the following products:
+
+(a) Chlorofluorocarbons, the following:
+
+(a) in the case of chlorofluorocarbons —
+
+Chloroheptafluoropropane
+
+
+
+
+Chloropentafluoroethane
+
+
+
+
+Chlorotrifluoromethane
+
+
+
+
+Dichlorodifluoromethane
+
+
+
+
+Dichlorohexafluoropropane
+
+
+
+
+Dichlorotetrafluoroethane
+
+
+
+
+Heptachlorofluoropropane
+
+
+
+
+Hexachlorodifluoropropane
+
+
+
+
+Pentachlorofluoroethane
+
+
+
+
+Pentachlorotrifluoropropane
+
+
+
+
+Tetrachlorodifluoroethane
+
+
+
+
+Tetrachlorotetrafluoropropane
+
+
+
+
+Trichlorofluoromethane
+
+
+
+
+Trichloropentafluoropropane
+
+
+
+
+Trichlorotrifluoroethane
+
+(i) air-conditioners in vehicles registered on or after 1st January 1995 or intended for such vehicles;
+
+(ii) equipment for domestic or commercial refrigeration or air-conditioning installed on or after 1st January 1993, or heat pump equipment, which contains any chlorofluorocarbon substance as a refrigerant or in any insulating material of such equipment;
+
+(iii) refrigerators that have a compressor rating which exceeds one horsepower;
+
+(iv) non-pharmaceutical aerosol products;
+
+(v) insulation boards, panels or pipe covers;
+
+(vi) polystyrene sheets or finished products;
+
+(b) Halons, the following:
+
+(b) in the case of Halons, portable fire extinguishers; and
+
+Bromochlorodifluoromethane
+
+
+
+
+Bromochloromethane
+
+
+
+
+Bromotrifluoromethane
+
+
+
+
+Dibromotetrafluoroethane
+
+(c) in the case of bromotrifluoromethane, fire protection systems with building plans approved after 17th June 1991 and installed after 31st December 1991.
+
+(c) Hydrochlorofluorocarbons, the following:
+
+1,1-dichloro-1-fluoro-ethane
+
+1,1-dichloro-2,2,3,3,3-pentafluoropropane
+
+1,3-dichloro-1,2,2,3,3-pentafluoropropane
+
+1-chloro-1,1-difluoro-ethane
+
+Chlorodifluoroethane
+
+Chlorodifluoromethane
+
+Chlorodifluoropropane
+
+Chlorofluoroethane
+
+Chlorofluoromethane
+
+Chlorofluoropropane
+
+Chlorohexafluoropropane
+
+Chloropentafluoropropane
+
+Chlorotetrafluoroethane
+
+Chlorotetrafluoropropane
+
+Chlorotrifluoroethane
+
+Chlorotrifluoropropane
+
+Dichlorodifluoroethane
+
+Dichlorodifluoropropane
+
+Dichlorofluoroethane
+
+Dichlorofluoromethane
+
+Dichlorofluoropropane
+
+Dichloropentafluoropropane
+
+Dichlorotetrafluoropropane
+
+Dichlorotrifluoroethane
+
+Hexachlorofluoropropane
+
+Pentachlorodifluoropropane
+
+Pentachlorofluoropropane
+
+Tetrachlorodifluoropropane
+
+Tetrachlorofluoroethane
+
+Tetrachlorofluoropropane
+
+Tetrachlorotrifluoropropane
+
+Trichlorodifluoroethane
+
+Trichlorodifluoropropane
+
+Trichlorofluoroethane
+
+Trichlorofluoropropane
+
+Trichlorotetrafluoropropane
+
+Trichlorotrifluoropropane
+
+(d) Hydrobromofluorocarbons, the following:
+
+Bromodifluoroethane
+
+Bromodifluoromethane
+
+Bromodifluoropropane
+
+Bromofluoroethane
+
+Bromofluoromethane
+
+Bromofluoropropane
+
+Bromohexafluoropropane
+
+Bromopentafluoropropane
+
+Bromotetrafluoroethane
+
+Bromotetrafluoropropane
+
+Bromotrifluoroethane
+
+Bromotrifluoropropane
+
+Dibromodifluoroethane
+
+Dibromodifluoropropane
+
+Dibromofluoroethane
+
+Dibromofluoromethane
+
+Dibromofluoropropane
+
+Dibromopentafluoropropane
+
+Dibromotetrafluoropropane
+
+Dibromotrifluoroethane
+
+Dibromotrifluoropropane
+
+Hexabromofluoropropane
+
+Pentabromodifluoropropane
+
+Pentabromofluoropropane
+
+Tetrabromodifluoropropane
+
+Tetrabromofluoroethane
+
+Tetrabromofluoropropane
+
+Tetrabromotrifluoropropane
+
+Tribromodifluoroethane
+
+Tribromodifluoropropane
+
+Tribromofluoroethane
+
+Tribromofluoropropane
+
+Tribromotetrafluoropropane
+
+Tribromotrifluoropropane
+
+(e) Carbon tetrachloride
+
+(f) 1,1,1-trichloroethane (methyl chloroform)
+
+(g) Methyl bromide
 
 Compounds of fentin
 
@@ -2148,6 +2321,8 @@ Vinyl bromide
 
 Vinyl chloride monomer
 
+[S 605/2000 wef 01/01/2001]
+
 Part II
 
 General Exemptions
@@ -2190,13 +2365,15 @@ Motor fuels and lubricants except diesel oil and petrol;
 
 Paints other than paints containing mercury compounds, paints containing lead compounds and paints containing asbestos as defined in Part I of this Schedule;
 
+Pharmaceutical aerosols;
+
 Photographic paper;
 
 Pigments;
 
 Plastics;
 
-Propellants ;
+Propellants other than those containing ozone depleting substances;
 
 Rubber;
 
@@ -2363,6 +2540,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1.4.99|
 |2.|**2000 Revised Edition—Environmental Pollution Control Act**|
 ||Date of operation|30 December 2000|
+|3.|**G. N. No. S 605/2000—Environmental Pollution Control (Amendment Of Second Schedule) Order 2000**|
+||Date of commencement|1 January 2001|
 ## COMPARATIVE TABLE
 
 Environmental Pollution Control Act
