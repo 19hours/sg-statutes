@@ -1312,15 +1312,15 @@ whichever is the less;
 
 [32/99; 37/2002]
 
-(4) Notwithstanding subsection (3), where a company undertakes a buyback described in subsection (1)(a) through a special trading counter established on the Singapore Exchange, any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is not made out of the contributed capital of the company, be deemed to be —
+(3A) Notwithstanding subsection (3), where a company undertakes a buyback described in subsection (1)(a) through a special trading counter established on the Singapore Exchange, any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is not made out of the contributed capital of the company, be deemed to be —
 
 (a) a dividend paid by the company on the date of the payment, and section 44 shall apply, with the necessary modifications, to such dividend; and
 
-(b) a dividend received by the shareholder if the conditions in subsection (5) are satisfied.
+(b) a dividend received by the shareholder if the conditions in subsection (3B) are satisfied.
 
 [24/2000]
 
-(5) The conditions referred to in subsection (4)(b) are —
+(3B) The conditions referred to in subsection (4)(b) are —
 
 (a) the shares sold through the special trading counter are not acquired by the shareholder through any securities lending or repurchase arrangement;
 
@@ -1332,23 +1332,23 @@ whichever is the less;
 
 [24/2000]
 
-(6) Where the dividend deemed to be paid by a company under subsection (3)(a) is a dividend to which section 44 applies, the amount of dividend so paid by the company and the amount of dividend deemed to be received by the shareholder under subsection (3)(b) shall be deemed to be of such a gross amount as after deduction of tax at the rate deductible at the date of payment would be equal to the amount of payment made by the company to the shareholder.
+(4) Where the dividend deemed to be paid by a company under subsection (3)(a) is a dividend to which section 44 applies, the amount of dividend so paid by the company and the amount of dividend deemed to be received by the shareholder under subsection (3)(b) shall be deemed to be of such a gross amount as after deduction of tax at the rate deductible at the date of payment would be equal to the amount of payment made by the company to the shareholder.
 
 [32/99]
 
-(7) The amount of any dividend deemed to be paid by a company under subsection (4)(a) shall be deemed to be of such a gross amount as after deduction of tax under section 44 at the rate deductible at the date of payment would be equal to the amount of payment made by the company.
+(4A) The amount of any dividend deemed to be paid by a company under subsection (3A)(a) shall be deemed to be of such a gross amount as after deduction of tax under section 44 at the rate deductible at the date of payment would be equal to the amount of payment made by the company.
 
 [24/2000]
 
-(8) The amount of any dividend deemed to be received by a shareholder under subsection (4)(b) shall be deemed to be of such a gross amount as after deduction of tax under section 44 at the rate deductible at the date of payment by the company would be equal to the amount of payment received by the shareholder.
+(4B) The amount of any dividend deemed to be received by a shareholder under subsection (3A)(b) shall be deemed to be of such a gross amount as after deduction of tax under section 44 at the rate deductible at the date of payment by the company would be equal to the amount of payment received by the shareholder.
 
 [24/2000]
 
-(9) Where any payment made by a company to any shareholder for a buyback is not deemed to be a dividend received by the shareholder under subsection (3)(b) or (4)(b), no set-off under section 46 shall be allowed to the shareholder in respect of the payment.
+(5) Where any payment made by a company to any shareholder for a buyback is not deemed to be a dividend received by the shareholder under subsection (3)(b) or (3A)(b), no set-off under section 46 shall be allowed to the shareholder in respect of the payment.
 
 [32/99; 24/2000]
 
-(10) Where a shareholder sells his shares to the company in an off-market purchase referred to in subsection (3)(b) —
+(6) Where a shareholder sells his shares to the company in an off-market purchase referred to in subsection (3)(b) —
 
 (a) no deduction shall be allowed to him in respect of the costs he incurred to acquire the shares he sold to the company; and
 
@@ -1364,7 +1364,7 @@ is the number of remaining shares in the company held by the shareholder after t
 
 [32/99]
 
-(11) Notwithstanding any other provisions of this Act, where a shareholder sells his shares through a special trading counter referred to in subsection (4) and any payment received by the shareholder for the buyback of such shares is deemed to be a dividend received by him under that subsection —
+(6A) Notwithstanding any other provisions of this Act, where a shareholder sells his shares through a special trading counter referred to in subsection (3A) and any payment received by the shareholder for the buyback of such shares is deemed to be a dividend received by him under that subsection —
 
 (a) no deduction shall be allowed to him in respect of the costs incurred to acquire the shares sold; and
 
@@ -1372,7 +1372,7 @@ is the number of remaining shares in the company held by the shareholder after t
 
 [24/2000]
 
-(12) For the purposes of this section —
+(7) For the purposes of this section —
 
 (a) the contributed capital of a company has the same meaning as in section 10I(5)(b);
 
@@ -1811,6 +1811,8 @@ except where such income is derived through a partnership in Singapore or is der
 [7/2007 wef 17/02/2006]
 
 (zj) any income from any structured product offered by a financial institution derived from Singapore —
+
+(i) by an individual, in the basis period relating to the year of assessment 2008 and any subsequent year of assessment, except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
 
 (ii) by a non-resident person (not being an individual) if ––
 
@@ -9296,6 +9298,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 39/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|3 May 2002|
+|153.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 39/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|2 July 2002|
 ## COMPARATIVE TABLE
 
 Income Tax Act
