@@ -366,7 +366,7 @@
 
 - [143 Office hours](#Office-hours)
 
-- [144 Publication of name](#Publication-of-name)
+- [144 Publication of name and registration number](#Publication-of-name-and-registration-number)
 
 [**Division 2  Directors and officers**](#Division-2--Directors-and-officers)
 
@@ -2457,6 +2457,10 @@ Incorporation
 
 (b) limits to not more than 50 the number of its members (counting joint holders of shares as one person and not counting any person in the employment of the company or of its subsidiary or any person who while previously in the employment of the company or of its subsidiary was and thereafter has continued to be a member of the company) .
 
+(c) [Deleted by Act 5/2004 wef 01/04/2004]
+
+(d) [Deleted by Act 5/2004 wef 01/04/2004]
+
 (2) Where, on 29th December 1967, neither the memorandum nor articles of a company that is a private company by virtue of paragraph (a) ofthe definition of “private company” in section 4(1) contain the restrictions, limitations and prohibitions required by subsection (1) to be included in the memorandum or articles of a company that may be incorporated as a private company, the articles of the company shall be deemed to include each such restriction, limitation or prohibition that is not so included and a restriction on the right to transfer its shares that is so deemed to be included in its articles shall be deemed to be a restriction that prohibits the transfer of shares except to a person approved by the directors of the company.
 
 [S 258/67]
@@ -2582,6 +2586,8 @@ as the case may be, and where applicable, that it is a private company.
 22\.—(1) The memorandum of every company shall be dated and shall state, in addition to other requirements —
 
 (a) the name of the company;
+
+(b) [Deleted by Act 5/2004 wef 01/04/2004]
 
 (c) unless the company is an unlimited company, the amount of share capital, if any, with which the company proposes to be registered and the division thereof into shares of a fixed amount;
 
@@ -3019,9 +3025,13 @@ and thereupon the restrictions and limitations referred to in section 18(1) as i
 
 ### Default in complying with requirements as to private companies
 
-32\.—(2) Where —
+32\.—(1) [Deleted by Act 5/2004]
+
+(2) Where —
 
 (a) default has been made in relation to a private company in complying with a limitation of a kind specified in section 18(1)(b) that is included, or is deemed to be included in the memorandum or articles of the company;
+
+(b) [Deleted by Act 5/2004 wef 01/04/2004]
 
 (c) the memorandum or articles of a private company have been so altered that they no longer include restrictions or limitations of the kinds specified in section 18(1); or
 
@@ -3050,6 +3060,8 @@ the Registrar may by notice served on the company determine that, on such date a
 (6) If default is made in complying with subsection (3)(c), the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and also to a default penalty.
 
 [15/84]
+
+(7) [Deleted by Act 5/2004 wef 01/04/2004]
 
 (8) Where default is made in relation to a private company in complying with any restriction or limitation of a kind specified in section 18(1) that is included, or deemed to be included, in the memorandum or articles of the company, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year.
 
@@ -5686,15 +5698,23 @@ Office and name
 
 [40/89]
 
-### Publication of name
+### Publication of name and registration number
 
-144\.—(1) The name of a company shall (whether or not it is carrying on business under a business name) appear in legible romanised letters on —
+144\.—(1) The name of a company shall appear in legible romanised letters on —
 
 (a) its seal; and
 
-(b) all business letters, statements of account, invoices, official notices, publications, bills of exchange, promissory notes, indorsements, cheques, orders, receipts and letters of credit of or purporting to be issued or signed by or on behalf of the company,
+(b) all business letters, statements of account, invoices, official notices, publications, bills of exchange, promissory notes, indorsements, cheques, orders, receipts and letters of credit of or purporting to be issued or signed by or on behalf of the company.
 
-and if default is made in complying with this subsection the company shall be guilty of an offence.
+[5/2004 wef 01/10/2004]
+
+(1A) The registration number of a company shall appear in a legible form on all business letters, statements of account, invoices, official notices and publications of or purporting to be issued or signed by or on behalf of the company.
+
+[5/2004 wef 01/10/2004]
+
+(1B) A company shall be guilty of an offence if default is made in complying with subsection (1) or (1A).
+
+[5/2004 wef 01/10/2004]
 
 (2) If an officer of a company or any person on its behalf —
 
@@ -5705,6 +5725,10 @@ and if default is made in complying with this subsection the company shall be gu
 (c) signs, issues or authorises to be signed or issued on behalf of the company any bill of exchange, promissory note, cheque or other negotiable instrument or any indorsement, order, receipt or letter of credit wherein its name is not so mentioned,
 
 he shall be guilty of an offence, and where he has signed, issued or authorised to be signed or issued on behalf of the company any bill of exchange, promissory note or other negotiable instrument or any indorsement thereon or order wherein that name is not so mentioned, he shall in addition be liable to the holder of the instrument or order for the amount due thereon unless it is paid by the company.
+
+Name to be displayed on all offices
+
+(3) [Deleted by Act 5/2004 wef 01/04/2004]
 
 Division 2 —
 
@@ -8433,6 +8457,8 @@ requiring particulars of all emoluments paid to or receivable by the auditor of 
 [Act 12/2002 wef 01/01/2003]
 
 (b) whether the accounting and other records required by this Act to be kept by the company and, if it is a holding company, by the subsidiaries other than those of which he has not acted as auditor have been, in his opinion, properly kept in accordance with this Act;
+
+(c) [Deleted by Act 5/2004 wef 01/04/2004]
 
 (d) any defect or irregularity in the accounts or consolidated accounts and any matter not set out in the accounts or consolidated accounts without regard to which a true and fair view of the matters dealt with by the accounts or consolidated accounts would not be obtained; and
 
@@ -14264,8 +14290,6 @@ $3 per record supplied.
 
 [S 262/2004 wef 01/04/2004]
 
-[5/2004 wef 01/04/2004]
-
 [S 19/2003 wef 13/01/2003]
 
 THIRD SCHEDULE
@@ -15318,3 +15342,8 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 27/2004 published on 16 June 2004)|
 ||Date of Second and Third Readings|20 July 2004|
 ||Date of commencement|1 April 2004 (section 3 only)|
+|76.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 3/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Dates of commencement|1st October 2004 (Section 28(a) and (c))|
