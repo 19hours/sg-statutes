@@ -76,7 +76,9 @@ An Act to repeal and re-enact with amendments the Destitute Persons Act (Chapter
 
 (b) any idle person found in a public place, whether or not he is begging, who has no visible means of subsistence or place of residence or is unable to give a satisfactory account of himself;
 
-“Director” means the Director of Social Welfare and includes an Assistant Director of Social Welfare;
+“Director” means the Director of Social Welfare appointed under section 2A(1) of the Children and Young Persons Act (Cap. 38) and includes any person who is authorised by him to perform any of the duties or exercise any of the powers of the Director under this Act or any rules made thereunder;
+
+[20/2001 wef 01/10/2001]
 
 “public place” includes any place to which the public is admitted without payment or on payment;
 
@@ -244,3 +246,9 @@ The Destitute Persons Act 1989 repealed and re-enacted with amendments the Desti
 
 |5.|**1990 Revised Edition—Destitute Persons Act (Chapter 78)**|
 ||Date of operation|15 March 1990|
+|6.|**Act 20 of 2001—Children and Young Persons (Amendment) Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 February 2001|
+|||(Bill No. 12/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|20 April 2001|
+||Date of commencement|1 October 2001|
