@@ -248,7 +248,7 @@ REGISTRATION
 
 7\.—(1) The Registrar shall keep and maintain in such form as may be prescribed, a register of trade unions in which shall be registered the prescribed particulars relating to any registered trade union and any alteration or change which may from time to time be effected in the name, rules, officers or executives thereof or in the situation of the registered office thereof, and all such other matters as may be required to be registered therein under this Act.
 
-(2) A certified copy of any entry in the register shall be conclusive proof of the facts specified therein as on the date of such certified copy.
+(25) A certified copy of any entry in the register shall be conclusive proof of the facts specified therein as on the date of such certified copy.
 
 ### Necessity for registration
 
@@ -360,7 +360,7 @@ Provided that if any one of the objects of such trade union is unlawful, the reg
 
 [28/82]
 
-(2) Except in a case falling within subsection (1)(a), not less than two months’ previous notice in writing specifying the ground on which it is proposed to withdraw or to cancel its certificate of registration shall be given by the Registrar to a trade union before the certificate is withdrawn or cancelled.
+(2) Except in a case falling within subsection (1)(a), not less than two month’s previous notice in writing specifying the ground on which it is proposed to withdraw or to cancel its certificate of registration shall be given by the Registrar to a trade union before the certificate is withdrawn or cancelled.
 
 (3) A trade union served with a notice under subsection (2) may, at any time within a period of two months reckoned from the date of the notice, show cause in writing against the proposal to withdraw or to cancel its certificate of registration, as the case may be; and, if such cause is shown, the Registrar may hold such inquiry as he may consider necessary in the circumstances.
 
@@ -530,9 +530,11 @@ CONSTITUTION
 
 ### Membership of minors and Government employees
 
-28\.—(1) A person above the age of 18 years may be a member of a registered trade union, unless provision is made in the rules thereof to the contrary, and may, subject to the rules of the trade union and subsection (2), enjoy all the rights of a member and execute all instruments and give all acquittances necessary to be executed or given under the rules.
+28\.—(1) A person above the age of 16 years may be a member of a registered trade union, unless provision is made in the rules thereof to the contrary, and may, subject to the rules of the trade union and subsection (2), enjoy all the rights of a member and execute all instruments and give all acquittances necessary to be executed or given under the rules.
 
 [3/77]
+
+[4/1992 wef 01/04/1992]
 
 (2) A member of a registered trade union who is under the age of 21 years, but above the age of 18 years, shall not be a member of the executive or a trustee of the trade union unless he has obtained the written approval of the Minister therefor.
 
@@ -762,7 +764,7 @@ FUNDS AND ACCOUNTS
 
 ### Prohibition of payment of fines or penalties
 
-48\. The funds of a registered trade union shall not be applied either directly or indirectly in payment of the whole or part of any fine or penalty imposed upon any person by sentence or order of a court of justice.
+48\. The funds of a registered trade union shall not be applied either directly or indirectly in payment of the whole or part of any fine or penalty imposed upon any person by sentence or order to a court of justice.
 
 [49
 
@@ -772,15 +774,33 @@ FUNDS AND ACCOUNTS
 
 (a) shall not be applied either directly or indirectly in payment of contributions to a political party or for a political purpose; and
 
-(b) shall, subject to the rules thereof and the provisions of this Act, be invested only in the investments authorised by law for the investment of trust money, in interest-earning deposits in banks or finance companies or in shares of co-operative societies established by any registered trade union.
+(b) shall, subject to the rules thereof and the provisions of this Act, be invested only in —
+
+(i) investments authorised by law for the investment of trust money;
+
+(ii) interest-earning deposits in banks or finance companies;
+
+(iii) shares of co-operative societies established by any registered trade union; or
+
+(iv) such undertaking, enterprise or scheme, the promoter or proprietor of which is the Singapore Labour Foundation or a company formed by or related to the Singapore Labour Foundation, as the Minister may approve for the purposes of this paragraph.
 
 [28/82]
 
-(2) Subsection (1)(b) shall not render unlawful the investment of the funds of a registered trade union which was lawfully made before 2nd April 1983.
+[4/1992 wef 01/04/1992]
+
+(2) Subsection (1)(b)(i) to (iii) shall not render unlawful the investment of the funds of a registered trade union which was lawfully made before 2nd April 1983.
 
 [28/82]
 
-[50
+[4/1992 wef 01/04/1992]
+
+(3) In this section —
+
+(a) “Singapore Labour Foundation” means the Singapore Labour Foundation established under section 3 of the Singapore Labour Foundation Act (Cap. 302); and
+
+(b) a company shall be deemed related to the Singapore Labour Foundation if it is related thereto within the meaning of section 6 of the Companies Act (Cap. 50).
+
+[4/1992 wef 01/04/1992]
 
 ### Injunction to restrain misuse of funds
 
@@ -858,7 +878,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Inspection of accounts and documents
 
-54\. The account books of a registered trade union and a list of the members thereof shall be open to inspection by any officer or member of the trade union at such times as may be provided for in the rules of the trade union, and by the Registrar at any reasonable time.
+54\. The account books of a registered trade union and a list of the members thereof shall be open to inspection by any officer or member of the trade union at such times as may be provided for in the rules of the union, and by the Registrar at any reasonable time.
 
 ## PART VIII
 
@@ -926,7 +946,7 @@ OFFENCES AND PENALTIES
 
 59\.—(1) Every person who, and every trade union which, contravenes any provision of this Act or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction by a District Court or Magistrate’s Court to a fine not exceeding $1,000 unless some other punishment is provided for that offence by this Act.
 
-(2) Upon conviction of an unregistered trade union under subsection (1), every person proved to have been a member of the executive of that trade union at any time after the commencement of this Act shall be deemed severally to be guilty of the offence for which the trade union was so convicted and the District Court or Magistrate’s Court shall, after necessary inquiry, declare in its finding and order the name of each person so deemed to be guilty and shall pass sentence upon him according to law.
+(2) Upon conviction of an unregistered trade union under subsection (1), every person proved to have been a member of the executive of that trade union at any time after the commencement of this Act shall be deemed severally to be guilty of the offence for which the trade union was so convicted and the District Court or Magistrate’s Court shall, after necessary inquiry, declare in its finding and order the name of each person to be deemed to be guilty and shall pass sentence upon him according to law.
 
 [60
 
@@ -1089,3 +1109,8 @@ This Legislative History is provided for the convenience of users of the Trade U
 |19.|**1985 Revised Edition—Trade Unions Act (Chapter 333)**|
 ||(G.N. No. S 143/1989 — Rectification Order)||
 ||Date of operation|30 March 1987|
+|20.|**Act 4 of 1992—Trade Unions (Amendment) Act 1992**|
+||Date of First Reading|13 January 1992|
+|||(Bill No. 5/92 published on 14 January 1992)|
+||Date of Second and Third Readings|27 February 1992|
+||Date of commencement|1 April 1992|
