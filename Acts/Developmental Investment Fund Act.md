@@ -1,16 +1,14 @@
-**Developmental Investment Fund Act 2000**
+**Developmental Investment Fund Act**
 
-**(No. 6 of 2000)**
+**(CHAPTER 79)**
 
 **Table of Contents**
 
 [**Long Title**](#Developmental-Investment-Fund-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -56,49 +54,31 @@
 
 - [20 Regulations](#Regulations)
 
-- [21 Consequential amendments to Development Fund Act and External Loans Act](#Consequential-amendments-to-Development-Fund-Act-and-External-Loans-Act)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+[**Comparative Table**](#Comparative-Table)
 
-GOVERNMENT GAZETTE
+# Developmental Investment Fund Act
 
-ACTS SUPPLEMENT
+(CHAPTER 79)
 
-Published by Authority
+(Original Enactment: Act 6 of 2000)
 
-NO. 5]
+REVISED EDITION 2001
 
-Friday, March 17
+(31st December 2001)
 
-[2000
+An Act to establish a Developmental Investment Fund and to define its purposes, to authorise the raising of loans for the Developmental Investment Fund and for matters connected therewith.
 
-The following Act was passed by Parliament on 22nd February 2000 and assented to by the President on 25th February 2000:—
-
-Developmental Investment Fund Act 2000
-
-(No. 6 of 2000)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-25th February 2000.
-
-Date of Commencement: 1st April 2000
-
-An Act to establish a Developmental Investment Fund and to define its purposes, to authorise the raising of loans for the Developmental Investment Fund and for matters connected therewith, and to make consequential amendments to the Development Fund Act (Chapter 80 of the 1995 Revised Edition) and the External Loans Act (Chapter 102 of the 1985 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2000]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Developmental Investment Fund Act 2000 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Developmental Investment Fund Act.
 
 ### Interpretation
 
@@ -240,11 +220,11 @@ AUTHORISATION TO RAISE LOANS
 
 ### Sinking fund
 
-15\.—(1) The Minister, may from time to time, appropriate out of the Fund moneys for the creation of a sinking fund for the repayment of the principal sums payable on any of the securities issued under this Act.
+15\.—(1) The Minister may, from time to time, appropriate out of the Fund moneys for the creation of a sinking fund for the repayment of the principal sums payable on any of the securities issued under this Act.
 
 (2) The total amount in any sinking fund shall not exceed the outstanding principal sums payable on such securities.
 
-(3) The Minister may at any time apply all or any part of the moneys in the sinking fund to the purchase of trustee stock or of any securities, fund or investment authorised for investment under section 7(3) of the Financial Procedure Act (Cap. 109).
+(3) The Minister may, at any time, apply all or any part of the moneys in the sinking fund to the purchase of trustee stock or of any securities, fund or investment authorised for investment under section 7(3) of the Financial Procedure Act (Cap. 109).
 
 (4) All income from investments of moneys in the sinking fund and all profits arising from the realisation of any such investments shall be paid into the sinking fund.
 
@@ -276,9 +256,9 @@ MISCELLANEOUS
 
 (4) Any officer of a public authority who is appointed under subsection (3) as an accounting officer shall be deemed to be —
 
-(a) public servants for the purposes of the Penal Code (Cap. 224); and
+(a) public officers for the purposes of the Financial Procedure Act (Cap. 109) and section 20 of that Act shall apply to the officer notwithstanding that he is not or was not in the employment of the Government; and
 
-(b) public officers for the purposes of the Financial Procedure Act (Cap. 109) and section 20 of that Act shall apply to the officer notwithstanding that he is not or was not in the employment of the Government.
+(b) public servants for the purposes of the Penal Code (Cap. 224).
 
 ### Financial statements and audit reports
 
@@ -304,19 +284,38 @@ and the Auditor-General shall then audit and report on them.
 
 (c) prescribing all other matters that are necessary or expedient for carrying out or giving effect to the provisions of this Act.
 
-### Consequential amendments to Development Fund Act and External Loans Act
+## LEGISLATIVE HISTORY
 
-21\.—(1) The Schedule to the Development Fund Act (Cap. 80) is amended by deleting the words “, or other investment in,” in paragraph 6.
+Developmental Investment Fund Act
 
-(2) Section 2(1) of the External Loans Act (Cap.102) is amended —
+(CHAPTER 79)
 
-(a) by deleting the word “or” at the end of paragraph (a); and
+This Legislative History is provided for the convenience of users of the Developmental Investment Fund Act. It is not part of the Act.
 
-(b) by inserting, immediately after paragraph (a), the following paragraph:
+||||
+|:-|:-|:-|
+|1.|**Act 6 of 2000—Developmental Investment Fund Act 2000**|
+||Date of First Reading|17 January 2000|
+|||(Bill No. 4/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|22 February 2000|
+||Date of commencement|1 April 2000|
+|2.|**2001 Revised Edition—Developmental Investment Fund Act**|
+||Date of operation|31 December 2001|
+## COMPARATIVE TABLE
 
-“
+Developmental Investment Fund Act
 
-(aa) for the purposes of the Developmental Investment Fund established by the Developmental Investment Fund Act 2000; or
+(CHAPTER 79)
 
-”.
+The following provisions in the Developmental Investment Fund Act 2000 (Act 6 of 2000) have been renumbered by the Law Revision Commissioners in this 2001 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Developmental Investment Fund Act.
+
+2001 Ed .
+
+Act 6 of 2000 
+
+Omitted
+
+21 
 
