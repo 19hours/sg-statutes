@@ -3814,7 +3814,7 @@ Storage of flammable liquids, etc.
 
 20.—(1) A subsidiary proprietor or occupier of a lot shall not use or store upon his lot or upon the common property any flammable chemical, liquid, gas or other flammable material, other than chemicals, liquids, gases or other material used or intended to be used for domestic purposes, or any such chemical, liquid, gas or other material in a fuel tank of a motor vehicle or internal combustion engine.
 
-(2) This by-law shall not apply to any lot where the subsidiary proprietor or occupier thereof has obtained a licence issued under Part V of the Fire Safety Act (Cap. 109A) authorising the use of a lot for a trade or other purpose specified in that Part.
+(2) This by-law shall not apply to any lot where the subsidiary proprietor or occupier thereof has obtained a licence issued under section 35 of the Fire Safety Act (Cap. 109A) authorising the use of a lot for a purpose referred to in that licence.
 
 Refuse disposal
 
@@ -4144,7 +4144,7 @@ Requirements under Section 84A, 84DOR 84E
 
 (e) the place at which the affected parties can inspect documents for the collective sale.
 
-4. An application to a Board shall be made by the subsidiary proprietors referred to in section 84A(1) or the proprietors referred to in section 84D(2) or 84E(3) within 14 days of the publication of the advertisement referred to in paragraph 1 (d), enclosing —
+4. An application to a Board shall be made by the subsidiary proprietors referred to in section 84A(1) or the proprietors referred to in section 84D(2) or 84E(3) within 14 days of the publication of the advertisement referred to in paragraph 1(d), enclosing —
 
 (a) the documents specified in paragraph 1(e);
 
@@ -4287,6 +4287,12 @@ This Legislative History is provided for the convenience of users of the Land Ti
 ||Date of commencement|10 December 2003|
 |18.|**G. N. No. S 243/2004—Land Titles (Strata) Act (Amendment of Fourth Schedule) Order 2004**|
 ||Date of commencement|1 May 2004|
+|19.|**Act 7 of 2004—Fire Safety (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|5 January 2004|
+|||(Bill No. 5/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|16 February 2005|
 ## COMPARATIVE TABLE
 
 Land Titles (Strata) Act
