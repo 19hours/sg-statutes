@@ -72,9 +72,9 @@
 
 (Original Enactment: Act 30 of 1979)
 
-REVISED EDITION 1985
+REVISED EDITION 1992
 
-(30th March 1987)
+(9th March 1992)
 
 An Act to impose a skills development levy on employers and for the establishment of a Skills Development Fund and for purposes connected therewith.
 
@@ -92,13 +92,7 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-[Deleted by Act 19 of 1991 wef 07/06/1991]
-
-[Deleted by Act 19 of 1991 wef 07/06/1991]
-
-“Board” means the National Productivity Board established under the National Productivity Board Act (Cap. 329);
-
-[Act 19 of 1991 wef 07/06/1991]
+“Board” means the National Productivity Board established under the National Productivity Board Act [Cap. 329];
 
 “employee”, in relation to a month, means an employee rendering in that month services wholly or partly in Singapore and an employee who is on leave during that month where such leave is attributable to services rendered wholly or partly in Singapore in any previous month, but does not include any domestic servant, gardener or chauffeur, wholly and exclusively employed by an individual otherwise than in connection with his trade, business, profession or vocation;
 
@@ -109,6 +103,8 @@ PRELIMINARY
 “remuneration” means any wages, salary, commission, bonuses, allowances (including a housing allowance or other like allowance) or other emoluments paid in cash by or on behalf of an employer to an employee, and includes any leave pay;
 
 “skills development levy” or “levy” means skills development levy imposed by this Act.
+
+[19/91]
 
 ## PART II
 
@@ -124,9 +120,13 @@ SKILLS DEVELOPMENT LEVY
 
 (4) Without prejudice to any other remedy, the levy may be recovered as a debt due to the Government from the person accountable therefor.
 
-[Act 19 of 1991 wef 07/06/1991]
+[19/91]
 
-[S 196/80; S 83/85; S 74/86]
+[S 196/80]
+
+[S 83/85]
+
+[S 74/86]
 
 ### Exemption from levy
 
@@ -140,7 +140,7 @@ SKILLS DEVELOPMENT LEVY
 
 (b) provide that the charge and collection of skills development levy shall not have effect for such period as may be specified in the order, if he considers it expedient in the public interest to do so.
 
-5\. [Repealed by Act 19 of 1991 wef 07/06/1991]
+5\. [Repealed by Act 19/91]
 
 ## PART III
 
@@ -150,13 +150,9 @@ SKILLS DEVELOPMENT FUND
 
 6\.—(1) On the commencement of this Act, there shall be established a Fund to be called the Skills Development Fund.
 
-[Act 19 of 1991 wef 07/06/1991]
-
 (2) The proceeds of the skills development levy collected under this Act, together with penalties, fines and costs recovered for proceedings under this Act, shall be credited to the Fund.
 
-[Act 19 of 1991 wef 07/06/1991]
-
-(3) [Deleted by Act 19 of 1991 wef 07/06/1991]
+[19/91]
 
 ### Government to contribute to Fund
 
@@ -182,21 +178,21 @@ SKILLS DEVELOPMENT FUND
 
 (d) for such other purposes as may be prescribed by the Minister.
 
-[Act 19 of 1991 wef 07/06/1991]
+[19/91]
 
 ### Administration of Fund
 
 9\.—(1) The Board shall administer the Skills Development Fund established under section 6, including the collection of the skills development levy and the disbursement of grants and loans from the Fund for the purposes of this Act.
 
-(2) The Board shall have power to do all things necessary or convenient to be done for or in connection with the performance of its functions under this Act.
+[19/91]
 
-[Act 19 of 1991 wef 07/06/1991]
+(2) The Board shall have power to do all things necessary or convenient to be done for or in connection with the performance of its functions under this Act.
 
 ### Delegation of functions of Board and reimbursement
 
 10\.—(1) The Board may, with the approval of the Minister, appoint such agents (including the Government) as may be necessary for the purposes of this Act.
 
-(2) The Board may, with the approval of the Minister, delegate all or any of its powers and functions under this Act to any employees or agents (including the Government) as they may appoint under subsection (1).
+(2) The Board may, with the approval of the Minister, delegate all or any of its powers and functions under this Act to any employees or agents (including the Government) as it may appoint under subsection (1).
 
 (3) The Board may pay to any person appointed under subsection (1) a fee, not exceeding such percentage of the total amount of contributions as the Minister may direct, for any services rendered in exercise of any powers and functions delegated to that person under this Act.
 
@@ -204,7 +200,7 @@ SKILLS DEVELOPMENT FUND
 
 (5) Any appointment and delegation made under this section shall be published in theGazette.
 
-[Act 19 of 1991 wef 07/06/1991]
+[19/96]
 
 ### Investment of Fund
 
@@ -216,7 +212,7 @@ MISCELLANEOUS
 
 ### Penalty for false return or information
 
-11A\.—(1) Any person who negligently or without reasonable excuse —
+11A\.—(1) Any person who neligently or without reasonable excuse —
 
 (a) makes a return which is false in any material particulars; or
 
@@ -228,7 +224,7 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 (a) omits from a form or return any remuneration which ought to be included;
 
-(b) gives any false answer, whether verbally or in writing, to any question or request for information asked or made under this Act or any regulations made thereunder;
+(b) gives any false answer, whether verbally or in writing, to any question or request for information asked or made under this Act or any regulations made thereunder; or
 
 (c) prepares or maintains or authorises the preparation or maintenance of any false books of account or other records or falsifies or authorises the falsification of any books of account or records,
 
@@ -240,7 +236,7 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 (5) The institution of proceedings for or the imposition of a penalty, fine or term of imprisonment under this section shall not relieve any employer from liability to pay any levy for which he is or may be liable.
 
-[Act 19 of 1991 wef 07/06/1991]
+[19/91]
 
 ### Penalty for obtaining grants or loans by false or misleading statements
 
@@ -248,13 +244,13 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 (2) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent and connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
-[Act 19 of 1991 wef 07/06/1991]
+[19/91]
 
 ### Repayment
 
-13\.—(1) Where a person is convicted of an offence under section 12 the court may, in addition to imposing a penalty under that section, order the person to make repayment of the amount of any money wrongfully obtained.
+13\.—(1) Where a person is convicted of an offence under section 12, the court may, in addition to imposing a penalty under that section, order the person to make repayment of the amount of any money wrongfully obtained.
 
-(2) Where an order has been made under subsection (1) a certified copy of the order may be filed in a court having civil jurisdiction to the extent of the amount ordered to be repaid and the order is thereupon enforceable in all respects as the final judgment of that court.
+(2) Where an order has been made under subsection (1), a certified copy of the order may be filed in a court having civil jurisdiction to the extent of the amount ordered to be repaid and the order is thereupon enforceable in all respects as the final judgment of that court.
 
 ### Power to compound
 
@@ -262,19 +258,17 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 (2) All sums received for the composition of any offence under this section shall be paid into the Fund.
 
-[Act 19 of 1991 wef 07/06/1991]
+[19/91]
 
 ### Sanction of Public Prosecutor
 
 15\. No court shall take cognizance of any offence under this Act or any regulations made thereunder except with the sanction of the Public Prosecutor.
 
-[Act 19 of 1991 wef 07/06/1991]
+[19/91]
 
 ### Application of Financial Procedure Act
 
-16\. The members, employees and agents of the Board shall, in relation to the administration of the Fund, be deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 109) and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
-
-[Act 19 of 1991 wef 07/06/1991]
+16\. The members, employees and agents of the Board shall, in relation to the administration of the Fund, by deemed to be public officers for the purposes of the Financial Procedure Act [Cap. 109] and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
 
 ### Financial statements
 
@@ -284,15 +278,11 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 (3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the report of the Auditor-General to be presented to Parliament.
 
-[Act 19 of 1991 wef 07/06/1991]
-
 ### Annual report
 
 18\.—(1) The Board shall, as soon as possible but not later than 30th September of each year, submit to the Minister an annual report in respect of the administration of the Fund by the Board during that year, and the Minister shall present a copy of every such report to Parliament.
 
 (2) Notwithstanding subsection (1), the Minister may at any time request the Board to furnish him with any information concerning any matter relating to the administration of the Fund by the Board, and the Board shall furnish him with the information required, and afford him or his representative all necessary facilities for the verification of the information required.
-
-[Act 19 of 1991 wef 07/06/1991]
 
 ### Directions by Minister
 
@@ -300,44 +290,37 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 (2) The annual report for any financial year shall set out any directions given by the Minister under subsection (1) and shall contain a report of any action taken by the Board during that financial year consequent on the directions.
 
-[Act 19 of 1991 wef 07/06/1991]
+[19/91]
 
 ### Preservation of secrecy
 
-20\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a member, employee or agent of the Board shall disclose to any person any information relating to the affairs of the Board or of any person which he has acquired in the performance of his duties or the exercise of his functions.
+20\.—(1) Except for the purpose of the peformance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a member, employee or agent of the Board shall disclose to any person any information relating to the affairs of the Board or of any person which he has acquired in the performance of his duties or the exercise of his functions.
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding one year or to both.
 
-[Act 19 of 1991 wef 07/06/1991]
+[19/91]
 
 ### Public servants
 
-21\. The members, employees and agents of the Board shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+21\. The members, employees and agents of the Board shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
 
-[Act 19 of 1991 wef 07/06/1991]
+[19/91]
 
 ### Priority of case in winding up
 
-22\. There shall be included among the taxes which, under section 328 of the Companies Act (Cap. 50), are to be paid in priority to all other unsecured debts in a winding up of a company, the amount of any levy due from the company and having become due within 12 months before the date of commencement of the winding up.
-
-[Act 19 of 1991 wef 07/06/1991]
+22\. There shall be included among the taxes which, under section 328 of the Companies Ac [Cap. 50], are to be paid in priority to all other unsecured debts in a winding up of a company, the amount of any levy due from the company and having become due within 12 months before the date of commencement of the winding up.
 
 ### Regulations
 
-23\. The Minister may make such regulations as are necessary or expedient for carrying out the provisions of this Act and, in particular, the minister may make regulations to provide for all or any of the matters specified in the Schedule.
+23\. The Minister may make such regulations as are necessary or expedient for carrying out the provisions of this Act and, in particular, the Minister may make regulations to provide for all or any of the matters specified in the Schedule.
 
-[Act 19 of 1991 wef 07/06/1991]
+[19/91]
 
 ## THE SCHEDULE
 
-Section 23.
+Section 23
 
-Matters in respect of which
-
-
-
-
-Minister may make regulations
+Matters in respect of which Minister may make regulations
 
 1\. Requiring employers to give notice of their liability to pay the levy and the manner in which the notice shall be given.
 
@@ -365,9 +348,7 @@ Minister may make regulations
 
 13\. The imposition of penalties (such penalties, if unpaid, to be recoverable as a debt due to the Board) to be paid by an employer for late payment of the levy.
 
-14. The manner of the service of notices for the purposes of this Act.
-
-[Act 19 of 1991 wef 07/06/1991]
+14\. The manner of the service of notices for the purposes of this Act.
 
 ## LEGISLATIVE HISTORY
 
@@ -397,3 +378,5 @@ This Legislative History is provided for the convenience of users of the Skills 
 |||(Bill No. 15/1991 published on 12 March 1991)|
 ||Date of Second and Third Readings|7 May 1991|
 ||Date of commencement|7 June 1991|
+|7.|**1992 Revised Edition—Skills Development Levy Act (Chapter 306)**|
+||Date of operation|9 March 1992|
