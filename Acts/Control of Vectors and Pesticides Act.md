@@ -200,7 +200,13 @@ PRELIMINARY
 
 (b) in relation to any premises where building works are being carried out, includes the developer;
 
-(c) in relation to the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the management corporation having control of the building, and a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Land Titles (Strata) Act (Cap. 158), and a liquidator appointed under that Act for that management corporation; and
+(c) in relation to the common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the management corporation having control of the building, a managing agent appointed by a management corporation or by the Commissioner of Buildings under the Building Maintenance and Strata Management Act 2004, and a liquidator appointed for that management corporation;
+
+[47/2004 wef 01/04/2005]
+
+(ca) in relation to the limited common property of any building erected on land comprised in a strata subdivision plan approved by the competent authority, includes the subsidiary management corporation having control of that limited common property, and a managing agent appointed by a subsidiary management corporation or by the Commissioner of Buildings under the Building Maintenance and Strata Management Act 2004, and a liquidator appointed for that subsidiary management corporation; and
+
+[47/2004 wef 01/04/2005]
 
 (d) in relation to the common property of any building sold under Part IV of the Housing and Development Act (Cap. 129), means the Town Council which is liable for the maintenance and management of such common property;
 
@@ -1327,6 +1333,11 @@ This Legislative History is provided for the convenience of users of the Control
 ||Date of commencement|1 July 2002|
 |4.|**2002 Revised Edition—Control of Vectors and Pesticides Act**|
 ||Date of operation|31 December 2002|
+|5.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|6 February 2004 (Bill No. 6/2004 published on 7 February 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 April 2005|
 ## COMPARATIVE TABLE
 
 Control of Vectors and Pesticides Act
