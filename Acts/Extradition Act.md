@@ -874,7 +874,11 @@ A\.—1. Murder of any degree.
 
 24\. Acts done with the intention of endangering vehicles, vessels or aircraft.
 
-25\. An offence against the law relating to dangerous drugs or narcotics.
+25\. An offence against the law relating to psychotropic substances, dangerous drugs or narcotics.
+
+25A. An offence against the law relating to benefits derived from drug trafficking.
+
+[20/98 wef 20/07/1998]
 
 26\. Piracy.
 
@@ -941,3 +945,9 @@ This Legislative History is provided for the convenience of users of the Extradi
 |||(Bill No. 11/1998 published on 20 February 1998)|
 ||Date of Second and Third Readings|20 April 1998|
 ||Date of commencement|11 June 1998|
+|8.|**Act 20 of 1998—Misuse of Drugs (Amendment) Act 1998**|
+||(Consequential amendments made by)||
+||Date of First Reading|20 April 1998|
+|||(Bill No. 17/1998 published on 21 April 1998)|
+||Date of Second and Third Readings|1 June 1998|
+||Date of commencement|20 July 1998|
