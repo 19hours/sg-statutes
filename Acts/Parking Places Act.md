@@ -12,7 +12,7 @@
 
 - [3 Administration of this Act](#Administration-of-this-Act)
 
-- [4 Minister may provide parking places](#Minister-may-provide-parking-places)
+- [4 Authority may provide parking places](#Authority-may-provide-parking-places)
 
 - [5 Use of property as private parking place](#Use-of-property-as-private-parking-place)
 
@@ -42,7 +42,7 @@
 
 - [18 Service of summons, etc.](#Service-of-summons-etc)
 
-- [19 Obstruction of Authority, Superindent, etc.](#Obstruction-of-Authority-Superindent-etc)
+- [19 Obstruction of Authority, Superintendent, etc.](#Obstruction-of-Authority-Superintendent-etc)
 
 - [20 Payment of charges](#Payment-of-charges)
 
@@ -128,21 +128,21 @@ but does not include any parking place provided under section 4;
 
 [28/95]
 
-### Minister may provide parking places
+### Authority may provide parking places
 
-4\.—(1) Where it appears to the Minister to be necessary to provide suitable parking places for vehicles, he may provide such parking places in accordance with the provisions of this Act, and for that purpose may —
+4\.—(1) Where it appears to the Authority to be necessary to provide suitable parking places for vehicles, the Authority may provide such parking places in accordance with the provisions of this Act and such general or specific directions as the Minister may give, and for that purpose may —
 
 (a) utilise any land or premises which may lawfully be acquired or appropriated;
 
 (b) utilise any land or premises owned or occupied by any statutory body upon such terms and conditions as may be agreed upon between the Minister and the statutory body; or
 
-(c) by order authorise the use as a parking place of any part of a road.
+(c) permit any part of a road to be used as a parking place.
 
-[10/82]
+(2) The Authority shall not permit any part of a road to be used as a parking place under subsection (1)(c) if the use of such part of the road as a parking place will unreasonably prevent access to any premises adjoining the road or to the use of the road by any person entitled to the use thereof, or will cause a nuisance to any person.
 
-(2) No order under subsection (1)(c) shall authorise the use of any part of a road so as unreasonably to prevent access to any premises adjoining the road, or the use of the road by any person entitled to the use thereof, or so as to be a nuisance.
+(3) The certificate of the Superintendent stating to the effect that any parking place named or described in the certificate is a parking place within the meaning of this Act shall be prima facie evidence for the purpose of any prosecution under this Act.
 
-[3
+[44/99 wef 21/12/1999]
 
 ### Use of property as private parking place
 
@@ -150,9 +150,9 @@ but does not include any parking place provided under section 4;
 
 [10/82]
 
-(2) The Minister may, by order published in theGazette—
+(2) The Authority may, by order published in theGazette—
 
-(a) authorise the use as a private parking place of any land or premises with respect to which an agreement has been made between the Superintendent and the owner or the occupier thereof for the use of the land or premises as a private parking place; and
+(a) permit the use as a private parking place of any land or premises with respect to which an agreement has been made between the Superintendent and the owner or the occupier thereof for the use of the land or premises as a private parking place; and
 
 (b) prescribe the manner in which a licensee shall maintain or operate a licensed private parking place.
 
@@ -164,13 +164,13 @@ but does not include any parking place provided under section 4;
 
 ### Adaptation of land for use as parking place
 
-6\. The Minister may take such steps as may be necessary to adapt for use as a parking place any land not being part of a road which he may utilise for that purpose under this Act.
+6\. The Authority may take such steps as may be necessary to adapt for use as a parking place any land not being part of a road which it may utilise for that purpose under this Act.
 
 [5
 
 ### Authority not liable for loss or damage
 
-7\. The exercise by the Authority of its powers under this Act with respect to the use as a parking place or otherwise of any part of a road or any other place shall not render the Government or the Authority subject to any liability in respect of —
+7\. The exercise by the Authority or the Superintendent of its or his powers under this Act with respect to the use as a parking place or otherwise of any part of a road or any other place shall not render the Government, the Authority or the Superintendent subject to any liability in respect of —
 
 (a) loss or damage to any vehicle or the fittings or contents of any vehicle parked in such parking place or otherwise; or
 
@@ -178,9 +178,11 @@ but does not include any parking place provided under section 4;
 
 [28/95]
 
+[44/99 wef 21/12/1999]
+
 ### Rules
 
-8\.—(1) The Minister may make rules —
+8\.—(1) The Authority, with the approval of the Minister, may make rules —
 
 (a) as to the use of parking places and private parking places and in particular as to the vehicles or class of vehicles which are entitled to use any such parking places and private parking places and as to the conditions upon and the times during which the parking places and private parking places may be used;
 
@@ -194,9 +196,15 @@ but does not include any parking place provided under section 4;
 
 (2) Rules made under subsection (1) may —
 
-(a) prescribe the fees to be paid for the grant or renewal of any licence and the issue, renewal or replacement of any vehicle parking certificate or other document in connection with the regulation and control of the parking of heavy vehicles; and
+(a) prescribe the fees to be paid for the grant or renewal of any licence and the issue, renewal or replacement of any vehicle parking certificate or other document in connection with the regulation and control of the parking of heavy vehicles;
 
-(b) prescribe the time within which charges prescribed by section 9 shall be paid and prescribe surcharges to be paid by any person who failed to pay the charges prescribed by that section within the prescribed time.
+(b) prescribe the time within which charges prescribed by section 9 shall be paid and prescribe surcharges to be paid by any person who failed to pay the charges prescribed by that section within the prescribed time; and
+
+(c) prescribe the manner and means by which charges prescribed under section 9(1) may be paid and collected, including the use of such electronic or computerised facilities, devices and appurtenances as may be installed by the Authority for the purpose.
+
+[44/99 wef 21/12/1999]
+
+[9/2005 wef 01/04/2005]
 
 [34/93]
 
@@ -214,9 +222,9 @@ but does not include any parking place provided under section 4;
 
 ### Parking places to be indicated by traffic signs
 
-11\.—(1) When the Minister authorises the use as a parking place of any part of a road, the Minister shall cause the parking place to be indicated by means of traffic signs.
+11\.—(1) When the Authority permits any part of a road to be used as a parking place, the Authority shall cause the parking place to be indicated by means of traffic signs.
 
-[28/95]
+[44/99 wef 21/12/1999]
 
 (2) In this section, “traffic signs” shall have the meaning assigned to it by section 119 of the Road Traffic Act.
 
@@ -286,9 +294,13 @@ but does not include any parking place provided under section 4;
 
 15\.—(1) Where a vehicle —
 
-(a) has been permitted to remain at rest in a parking place in such a position or in such condition or circumstances as to appear to the Superintendent to have been abandoned without lawful authority; or
+(a) has been permitted to remain at rest in a parking place in such a position or in such condition or circumstances as to appear to the Superintendent to have been abandoned without lawful authority;
 
-(b) is parked in a parking place in contravention of any provision of this Act or any rules made thereunder,
+(b) is parked in a parking place in contravention of any provision of this Act or any rules made thereunder; or
+
+(c) being owned by a person against whom a warrant of arrest is in force, is parked in a parking place,
+
+[44/99 wef 21/12/1999]
 
 the Superintendent may, in his discretion and by himself or any person authorised by him in that behalf —
 
@@ -317,6 +329,10 @@ the Superintendent may, in his discretion and by himself or any person authorise
 and the vehicle shall remain at the risk of the owner of the vehicle until all such expenses and charges have been paid.
 
 [34/93]
+
+(3A) Where, pursuant to subsection (1)(c), the Superintendent has removed a vehicle to a place of safety or any other place or fixed an immobilisation device to a vehicle, the Superintendent may refuse to release the vehicle unless he is satisfied that the owner of the vehicle has been arrested or has surrendered himself to a police officer or the warrant of arrest in force against him has been cancelled by a court.
+
+[44/99 wef 21/12/1999]
 
 (4) Any person who, without the authority of the Superintendent, removes or tampers with any notice affixed to a vehicle under subsection (2)(b) shall be guilty of an offence.
 
@@ -348,9 +364,19 @@ shall be guilty of an offence.
 
 [28/95]
 
-(9) In this section, “immobilisation device” means any device or appliance designed or adapted to be fixed to any part of a vehicle for the purpose of preventing the vehicle from being driven or otherwise put in motion, being a device or appliance of a type approved by the Superintendent for use for that purpose in accordance with this section.
+(9) In this section —
 
-[34/93]
+“immobilisation device” means any device or appliance designed or adapted to be fixed to any part of a vehicle for the purpose of preventing the vehicle from being driven or otherwise put in motion, being a device or appliance of a type approved by the Superintendent for use for that purpose in accordance with this section;
+
+“owner”, in relation to a vehicle, has the same meaning as in section 14, and “owned” shall be construed accordingly;
+
+“warrant of arrest” means a warrant of arrest issued by a court against a person in connection with any offence committed by him under —
+
+(a) this Act or any rules made thereunder; or
+
+(b) the Road Traffic Act (Cap. 276) or the rules.
+
+[44/99 wef 21/12/1999]
 
 ### Penalty
 
@@ -368,15 +394,17 @@ shall be guilty of an offence.
 
 ### Service of summons, etc.
 
-18\.—(1) Every summons, notice, order or document required or authorised by this Act or any rules made thereunder to be served on any person may be served by —
+18\.—(1) Every summons, notice, order or document required or authorised by this Act or any rules made thereunder to be served on any person may be served —
 
-(a) delivering the same to that person or by delivering the same at the last known place of residence of that person to some adult member or servant of his family;
+(a) by delivering it to the person or to some adult member or employee of his family at his usual or last known place of residence;
 
-(b) leaving the same at the usual or last known place of residence or business of that person in a cover addressed to that person; or
+(b) by leaving it at the usual or last known place of residence or business of the person in a cover addressed to him;
 
-(c) forwarding the same by registered post in a prepaid letter addressed to that person at his usual or last known place of residence or business or any address furnished by him.
+(c) by sending it by registered post in a prepaid letter addressed to the person at his usual or last known place of residence or business or any address furnished by him; or
 
-[6/91]
+(d) in the case of a notice to be served on a person whose usual or last known place of residence or business cannot, with reasonable diligence, be ascertained, by publication of such notice in theGazette.
+
+[44/99 wef 21/12/1999]
 
 (2) Where any summons, notice, order or document is served on any person by registered post, it shall be deemed to have been served within such time as it would take to arrive in the ordinary course of transmission and in proving service of the same it shall be sufficient to prove that the envelope containing the summons, notice, order or document was properly addressed, stamped and posted by registered post.
 
@@ -386,7 +414,7 @@ shall be guilty of an offence.
 
 [17
 
-### Obstruction of Authority, Superindent, etc.
+### Obstruction of Authority, Superintendent, etc.
 
 19\. Any person who obstructs or hinders the Authority, the Superintendent or any person acting in the discharge of his duty under this Act or any rules made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
@@ -457,3 +485,8 @@ This Legislative History is provided for the convenience of users of the Parking
 |||(Bill No. 6/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997 (item (2) of the Third Schedule –– Amendment of Parking Places Act)|
+|10.|**Act 44 of 1999—Parking Places (Amendment) Act 1999**|
+||Date of First Reading|11 October 1999|
+|||(Bill No. 37/99 published on 12 October 1999)|
+||Date of Second and Third Readings|24 November 1999|
+||Date of commencement|21 December 1999|
