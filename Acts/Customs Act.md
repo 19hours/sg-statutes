@@ -44,6 +44,8 @@
 
 - [16 Remission of customs duty on goods lost, damaged or destroyed before removal from customs control](#Remission-of-customs-duty-on-goods-lost-damaged-or-destroyed-before-removal-from-customs-control)
 
+- [16A Rebate for motor cars](#Rebate-for-motor-cars)
+
 - [17 Tax on motor vehicles using heavy fuel oil, etc.](#Tax-on-motor-vehicles-using-heavy-fuel-oil-etc)
 
 - [18 Recovery of special tax in arrears](#Recovery-of-special-tax-in-arrears)
@@ -605,6 +607,12 @@ and in granting an exemption or directing a refund the Minister may impose such 
 (b) that the weight, measure, volume or value as determined by the proper officer of customs for the purpose of ascertaining the customs duty on such goods, or any other factor affecting the goods, is incorrect,
 
 unless notice in writing of the claim has been given at or before the time of the removal.
+
+### Rebate for motor cars
+
+16A\. The Minister may, by order, grant, subject to such conditions as he may consider fit to impose, a rebate on any customs duties paid in respect of a motor car and may, by order, direct that the rebate shall not be refunded but shall only be used to set off any specified tax, levy or fee payable in respect of that motor car under the Road Traffic Act (Cap. 276).
+
+[Act 15 of 1991 wef 01/04/1991]
 
 ### Tax on motor vehicles using heavy fuel oil, etc.
 
@@ -2281,3 +2289,8 @@ This Legislative History is provided for the convenience of users of the Customs
 |||(Bill No. 5/91 published on 5 January 1991)|
 ||Date of Second and Third Readings|15 January 1991|
 ||Date of commencement|4 February 1991|
+|20.|**Act 15 of 1991—Customs (Amendment No. 2) Act 1991**|
+||Date of First Reading|26 February 1991|
+|||(Bill No. 6/91 published on 28 February 1991)|
+||Date of Second and Third Readings|22 March 1991|
+||Date of commencement|1 April 1991|
