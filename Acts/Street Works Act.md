@@ -144,7 +144,7 @@
 
 - [54 Transitional provisions and savings](#Transitional-provisions-and-savings)
 
-[**FIRST SCHEDULE Subject Matters of Regulations**](#FIRST-SCHEDULE-Subject-Matters-of-Regulations)
+[**FIRST SCHEDULE Subject matters of Regulations**](#FIRST-SCHEDULE-Subject-matters-of-Regulations)
 
 [**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
@@ -161,6 +161,8 @@ REVISED EDITION 1996
 (30th April 1996)
 
 An Act relating to the construction, improvement, repair, maintenance and management of streets and back-lanes and other matters connected therewith, and the prevention of obstruction of five-footways and private footways.
+
+[11/2003 wef 01/08/2003]
 
 [1st September 1995]
 
@@ -208,6 +210,8 @@ PRELIMINARY
 
 “competent authority” means any competent authority appointed under section 5 of the Planning Act 1998;
 
+[3/98 wef 01/04/1998]
+
 “dwelling-house” includes a building or tenement wholly or principally used, constructed or adapted for use for human habitation;
 
 “footway” includes any footpath, verandah-way, open or covered walkway, pedestrian mall, plaza, square, and other related structures and facilities;
@@ -222,11 +226,13 @@ PRELIMINARY
 
 “owner”, in relation to any premises, means the person for the time being receiving the rent of the premises whether on his own account or as agent or trustee for any other person or as receiver or who would receive the rent if the premises were let to a tenant, and includes the person whose name is entered in the Valuation List prepared under section 10 of the Property Tax Act [Cap. 254];
 
+[11/2003 wef 01/08/2003]
+
 “premises” includes buildings, lands, easements and hereditaments of any tenure;
 
 “private footway” means any footway that is not vested in the Government and that —
 
-(a) is intended pursuant to a planning or conservation permission granted by the competent authority under the Planning Act (Cap. 232) to be used mainly for the movement or passage of people on foot, and is used or intended to be used —
+(a) is intended pursuant to a planning or conservation permission granted by the competent authority under the Planning Act [Cap. 232] to be used mainly for the movement or passage of people on foot, and is used or intended to be used —
 
 (i) as a link either underground or at the second or upper storey level between 2 developments across their common boundary;
 
@@ -350,19 +356,13 @@ PUBLIC STREETS
 
 8A\.—(1) No person shall carry out any engineering works within the road structure safety zone unless he has obtained the prior approval of the Authority.
 
-[11/2003 wef 01/08/2003]
-
 (2) An application to the Authority for its approval under subsection (1) —
 
 (a) shall be made in writing and shall be accompanied by an engineering plan, showing the location affected by the engineering works to be carried out; and
 
 (b) may be granted by the Authority subject to such conditions as the Authority thinks fit.
 
-[11/2003 wef 01/08/2003]
-
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
-
-[11/2003 wef 01/08/2003]
 
 (4) In this section —
 
@@ -404,7 +404,7 @@ in, under or over the land, and to do all things as are reasonably necessary in 
 
 (c) describe the area or extent of land needed for the carrying out of the works referred to in paragraph (a); and
 
-(d) state that any person entitled to compensation in connection with the exercise by the Authority of its right under this section may serve a written claim on the Authority in accordance with the provisions of the Land Transport Authority of Singapore Act (Cap. 158A).
+(d) state that any person entitled to compensation in connection with the exercise by the Authority of its right under this section may serve a written claim on the Authority in accordance with the provisions of the Land Transport Authority of Singapore Act [Cap. 158A].
 
 (5) The ownership of anything shall not be altered by reason only that it is placed in, under or over any land in exercise of a right conferred upon the Authority by this section.
 
@@ -432,23 +432,13 @@ in, under or over the land, and to do all things as are reasonably necessary in 
 
 10A\.—(1) Where the Authority or any person authorised by the Authority (referred to in this section as the authorised person) has constructed, installed or improved any road related facility in, under or over any State land under section 7, the Authority or authorised person, after giving 21 days’ notice to the occupier of, or to every person having any estate, right, share or interest in, any land adjoining such State land, may install such meter boards, electrical meters and other accessories as may be necessary on the land and tap utilities for the purpose of and incidental to the operation and maintenance of the road related facility.
 
-[11/2003 wef 01/08/2003]
-
 (2) Where the Authority or an authorised person has constructed, installed or improved any road related facility in, under or over any land or part thereof not being State land under section 9, the Authority or authorised person, after giving 21 days’ notice to the occupier of, or to every person having any estate, right, share or interest in, such land, may install such meter boards, electrical meters and other accessories as may be necessary on the land and tap utilities for the purpose of and incidental to the operation and maintenance of the road related facility.
-
-[11/2003 wef 01/08/2003]
 
 (3) Every meter board, electrical meter and other accessory installed under this section shall comply with such standards as are determined by the Energy Market Authority of Singapore established under section 3 of the Energy Market Authority of Singapore Act (Cap. 92B).
 
-[11/2003 wef 01/08/2003]
-
 (4) The Authority shall pay the electricity supplier such amount as may be indicated on the electrical meters installed under this section.
 
-[11/2003 wef 01/08/2003]
-
 (5) Notwithstanding subsections (1), (2) and (4), if no meter board, electrical meter or other accessory is installed on any land or part thereof that is not State land, the Authority shall, on a monthly basis, pay the electricity supplier such amount as is determined in accordance with the formula
-
-[11/2003 wef 01/08/2003]
 
 P x R x 24 hours x 30 days
 
@@ -459,8 +449,6 @@ P is the power rating of equipment; and
 R is the rate from the electricity supplier.
 
 (6) Any person who is dissatisfied with the decision of the Authority under subsection (1) or (2) may, within 14 days of the notice, appeal to the Minister whose decision shall be final.
-
-[11/2003 wef 01/08/2003]
 
 (7) In this section, “electricity supplier” means a person who is licensed to supply electricity under any written law for the time being relating to the supply of electricity.
 
@@ -526,7 +514,7 @@ by the Authority on, under or over the land or building and to carry out any wor
 
 (c) be given to the owner of the land or building not later than 28 days before the commencement of that period; and
 
-(d) state that any person entitled to compensation in connection with the removal of the object or structure may serve a written claim upon the Authority in accordance with the provisions of the Land Transport Authority of Singapore Act (Cap. 158A).
+(d) state that any person entitled to compensation in connection with the removal of the object or structure may serve a written claim upon the Authority in accordance with the provisions of the Land Transport Authority of Singapore Act [Cap. 158A].
 
 (4) If the owner of the land or building does not comply with a notice given to him under subsection (1), any person authorised in that behalf by the Authority may enter the land or building, together with such other persons as he thinks necessary, and remove the object or structure described in the notice or cause it to be removed by those other persons.
 
@@ -534,7 +522,7 @@ by the Authority on, under or over the land or building and to carry out any wor
 
 14\.—(1) Where the Authority intends to construct any new street or to widen, open, enlarge or otherwise improve any existing street, the Authority may prepare a plan incorporating all premises set aside as street reserves pursuant to any development proposal approved by the competent authority, and by an instrument in the form approved by the Registrar of Titles or the Registrar of Deeds, as the case may be, declare that the street reserves shall vest in the Government.
 
-(2) Any plan prepared by the Authority under this section shall comply with the requirements of the Land Titles Act (Cap. 157) in respect of registered land and of the Registration of Deeds Act (Cap. 269) in respect of other lands and shall show thereon the premises which will vest in the Government.
+(2) Any plan prepared by the Authority under this section shall comply with the requirements of the Land Titles Act [Cap. 157] in respect of registered land and of the Registration of Deeds Act [Cap. 269] in respect of other lands and shall show thereon the premises which will vest in the Government.
 
 (3) The declaration referred to in subsection (1) shall be published in theGazette.
 
@@ -542,7 +530,7 @@ by the Authority on, under or over the land or building and to carry out any wor
 
 (5) Where any street reserve that has become vested in the Government under this section comprises premises included in an existing lot or existing lots, the premises forming the street shall be excised from the existing lot or lots and the declaration shall be registered in respect of the excised portions under the provisions of the Land Titles Act in respect of registered land and under the provisions of the Registration of Deeds Act in respect of other lands.
 
-(6) Upon such registration, the premises forming the street reserve shall vest in the Government free from all encumbrances and where the premises are held under a statutory land grant, such vesting shall not be deemed to create a subdivision within the meaning of the State Lands Act (Cap. 314).
+(6) Upon such registration, the premises forming the street reserve shall vest in the Government free from all encumbrances and where the premises are held under a statutory land grant, such vesting shall not be deemed to create a subdivision within the meaning of the State Lands Act [Cap. 314].
 
 (7) No compensation shall be payable for any premises vested in the Government pursuant to this section.
 
@@ -708,11 +696,11 @@ demanding that the private street or part thereof be declared a public street, t
 
 (16) The declaration referred to in subsection (15) shall be published in theGazette.
 
-(17) Where a private street or part thereof that is declared to be a public street and to be vested in the Government comprises separate lots already set aside as part of a street, the declaration shall be registered against those lots under the provisions of the Land Titles Act [Cap. 157] in respect of registered land and under the provisions of the Registration of Deeds Act (Cap. 269) in respect of other land.
+(17) Where a private street or part thereof that is declared to be a public street and to be vested in the Government comprises separate lots already set aside as part of a street, the declaration shall be registered against those lots under the provisions of the Land Titles Act [Cap. 157] in respect of registered land and under the provisions of the Registration of Deeds Act [Cap. 269] in respect of other land.
 
-(18) Where a private street or part thereof that is declared to be a public street and to be vested in the Government comprises premises included in an existing lot or existing lots, the premises forming the street or part thereof shall be excised from the existing lot or lots and the declaration shall be registered against the excised portions under the provisions of the Land Titles Act (Cap. 157) in respect of registered land and under the provisions of the Registration of Deeds Act (Cap. 269) in respect of other land.
+(18) Where a private street or part thereof that is declared to be a public street and to be vested in the Government comprises premises included in an existing lot or existing lots, the premises forming the street or part thereof shall be excised from the existing lot or lots and the declaration shall be registered against the excised portions under the provisions of the Land Titles Act [Cap. 157] in respect of registered land and under the provisions of the Registration of Deeds Act [Cap. 269] in respect of other land.
 
-(19) Upon such registration, the premises forming the street shall vest in the Government free from all encumbrances and where the premises are held under a statutory land grant such vesting shall not be deemed to create a subdivision within the meaning of the State Lands Act (Cap. 314).
+(19) Upon such registration, the premises forming the street shall vest in the Government free from all encumbrances and where the premises are held under a statutory land grant such vesting shall not be deemed to create a subdivision within the meaning of the State Lands Act [Cap. 314].
 
 ### Powers to control works on public streets
 
@@ -790,7 +778,7 @@ Private streets
 
 18\.—(1) Every person who intends to construct any new street shall give notice in writing thereof to the Authority, accompanied by —
 
-(a) a plan submitted by a civil engineer who is registered as a professional engineer with a valid practising certificate under the provisions of the Professional Engineers Act (Cap. 253) showing the intended level and construction of the street and the level of the houses to be built on land abutting upon it and the proposed manner of draining it;
+(a) a plan submitted by a civil engineer who is registered as a professional engineer with a valid practising certificate under the provisions of the Professional Engineers Act [Cap. 253] showing the intended level and construction of the street and the level of the houses to be built on land abutting upon it and the proposed manner of draining it;
 
 (b) a statement whether the street is intended to be a carriage road or intended for foot traffic only;
 
@@ -826,6 +814,8 @@ in order that the plan may be approved by the Authority subject to compliance wi
 
 (ga) the connection between the new street and other streets;
 
+[11/2003 wef 01/08/2003]
+
 (h) the gradients, levels and mode of drainage of the new street and of any intersecting streets or back-lanes;
 
 (i) the rounding of the corners of the new street;
@@ -835,8 +825,6 @@ in order that the plan may be approved by the Authority subject to compliance wi
 (k) the provision of street lighting; and
 
 (l) the planting of trees.
-
-[11/2003 wef 01/08/2003]
 
 (4) The person to whom any such written directions are so given shall amend the plan accordingly.
 
@@ -994,9 +982,9 @@ by order in writing determine —
 
 [11/2003 wef 01/08/2003]
 
-(2) The Authority shall, on an application in writing by a person who has given such a notice, refund the deposit or return the security, in whole or in part as it may determine, after the cancellation of the approved plan by the Commissioner of Building Control.
+(2) The Authority shall, on an application in writing by a person who has given such a notice, refund the deposit or return the security, in whole or in part as it may determine, after the cancellation of the approved plan by the Building Authority.
 
-[4/99 wef 01/04/1999; 11/2003 wef 01/08/2003]
+[11/2003 wef 01/08/2003]
 
 Division II —
 
@@ -1060,11 +1048,11 @@ DECLARATION
 
 (4) The declaration referred to in subsection (1) shall be published in theGazette.
 
-(5) Where a street that has been declared to be a public street and has become vested in the Government under this section comprises premises included in separate lots already set aside as part of a street, the declaration shall be registered against those lots under the provisions of the Land Titles Act (Cap. 157) in respect of registered land and under the provisions of the Registration of Deeds Act (Cap. 269) in respect of other land.
+(5) Where a street that has been declared to be a public street and has become vested in the Government under this section comprises premises included in separate lots already set aside as part of a street, the declaration shall be registered against those lots under the provisions of the Land Titles Act [Cap. 157] in respect of registered land and under the provisions of the Registration of Deeds Act [Cap. 269] in respect of other land.
 
 (6) Where a street that has been declared to be a public street and has become vested in the Government under this section comprises premises included in an existing lot or existing lots, the premises forming the street shall be excised from the existing lot or lots and the declaration shall be registered in respect of the excised portions under the provisions of the Land Titles Act in respect of registered land and under the provisions of the Registration of Deeds Act in respect of other land.
 
-(7) Upon such registration, the premises forming the street shall vest in the Government free from all encumbrances and where the premises are held under a statutory land grant, such vesting shall not be deemed to create a subdivision within the meaning of the State Lands Act (Cap. 314).
+(7) Upon such registration, the premises forming the street shall vest in the Government free from all encumbrances and where the premises are held under a statutory land grant, such vesting shall not be deemed to create a subdivision within the meaning of the State Lands Act [Cap. 314].
 
 ## PART V
 
@@ -1100,9 +1088,9 @@ WALKWAYS
 
 (a) the degree of benefit accruing to any premises by the construction or improvement of the new footway or street; and
 
-(b) the amount and value of any street works already executed by the owners or occupiers of any such premises.
-
 [11/2003 wef 01/08/2003]
+
+(b) the amount and value of any street works already executed by the owners or occupiers of any such premises.
 
 (9) The Authority may, if it thinks fit, pay the whole or any part of the costs and expenses of the works, and the payment of part of the costs and expenses may be made in such a manner as wholly to relieve the owner of any particular premises to the exclusion of other owners or to relieve him to a greater extent than other owners.
 
@@ -1148,7 +1136,7 @@ UTILITY WORKS
 
 (c) be served upon the owner or supplier at least one month before the commencement of that period; and
 
-(d) state that any person entitled to compensation in connection with the work required by the Authority may serve a written claim upon the Authority in accordance with the provisions of the Land Transport Authority of Singapore Act (Cap. 158A).
+(d) state that any person entitled to compensation in connection with the work required by the Authority may serve a written claim upon the Authority in accordance with the provisions of the Land Transport Authority of Singapore Act [Cap. 158A].
 
 ## PART VII
 
@@ -1170,9 +1158,9 @@ BACK-LANES
 
 (4) At the expiration of the period referred to in subsection (2), unless the owners of the premises fronting, adjoining or abutting on the back-lane or the owners of such premises having the greater part in annual value have, by notification to the Authority in writing under their hands, objected thereto, the back-lane shall be vested in the Government.
 
-(5) Where a back-lane has been declared to be vested in the Government under this section, the declaration shall be registered together with the plan under the Land Titles Act (Cap. 157) in respect of registered land and under the Registration of Deeds Act (Cap. 269) in respect of other land.
+(5) Where a back-lane has been declared to be vested in the Government under this section, the declaration shall be registered together with the plan under the Land Titles Act [Cap. 157] in respect of registered land and under the Registration of Deeds Act [Cap. 269] in respect of other land.
 
-(6) Upon such registration, the land comprised in the plan shall be deemed to be vested in the Government freed from all encumbrances, and where the land is held under a statutory land grant, such vesting shall not be deemed to be a subdivision within the meaning of the State Lands Act (Cap. 314).
+(6) Upon such registration, the land comprised in the plan shall be deemed to be vested in the Government freed from all encumbrances, and where the land is held under a statutory land grant, such vesting shall not be deemed to be a subdivision within the meaning of the State Lands Act [Cap. 314].
 
 ### Back-lanes to be levelled, paved, etc., by Authority
 
@@ -1214,9 +1202,13 @@ SUPPLEMENTARY
 
 so as to create any obstruction or inconvenience to the passage of the public on such public street, five-footway or private footway.
 
+[11/2003 wef 01/08/2003]
+
 (2) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-(3) Where an employee of the Authority finds on any public street, five-footway or private footway any article or thing which has been deposited or left to remain there in contravention of subsection (1), he may, by notice in writing, direct —
+[11/2003 wef 01/08/2003]
+
+(3) Where an authorised officer finds on any public street, five-footway or private footway any article or thing which has been deposited or left to remain there in contravention of subsection (1), he may, by notice in writing, direct —
 
 (a) the owner of the article or thing;
 
@@ -1226,15 +1218,25 @@ so as to create any obstruction or inconvenience to the passage of the public on
 
 to remove the article or thing within such time as may be specified in the notice.
 
+[11/2003 wef 01/08/2003]
+
+[6/2004 wef 08/03/2004]
+
 (4) Where any person on whom a notice under subsection (3) has been served fails, without reasonable excuse, to comply with it —
 
 (a) he shall be guilty of an offence; and
 
-(b) an employee of the Authority may remove or cause the article or thing to be removed and detain the article or thing, at the risk of its owner, at such place as the Chief Executive may direct.
+(b) an authorised officer may remove or cause the article or thing to be removed and detain the article or thing, at the risk of its owner, at such place as the authorised officer may determine.
+
+[11/2003 wef 01/08/2003]
+
+[6/2004 wef 08/03/2004]
 
 (5) Where any article or thing has been removed from a public street, five-footway or private footway under subsection (4)(b), the Authority may recover any costs reasonably incurred by it in connection with such removal from the owner of the article or thing or from the person who caused the article or thing to be deposited or to remain on the public street, five-footway or private footway.
 
-(6) Where an employee of the Authority has removed any article or thing under subsection (4)(b), he shall cause a notice in writing to be sent to the owner of the article or thing to inform such owner of —
+[11/2003 wef 01/08/2003]
+
+(6) Where an authorised officer has removed any article or thing under subsection (4)(b), he shall cause a notice in writing to be sent to the owner of the article or thing to inform such owner of —
 
 (a) the removal of the article or thing;
 
@@ -1242,9 +1244,17 @@ to remove the article or thing within such time as may be specified in the notic
 
 (c) the consequences that may follow under subsections (7) and (8) if the article or thing is not claimed within the time specified in the notice.
 
+[11/2003 wef 01/08/2003]
+
+[6/2004 wef 08/03/2004]
+
 (7) If the article or thing is not claimed by its owner within the time specified in the notice referred to in subsection (6), the Authority may dispose of the article or thing in such manner as it thinks fit (including selling the article or thing).
 
+[11/2003 wef 01/08/2003]
+
 (8) Where any article or thing has been sold under subsection (7), the proceeds of the sale shall be applied in payment of any expenses incurred in carrying out the provisions of this section and thereafter shall be applied in payment of all charges and fines payable under this Act and any regulations made thereunder and the surplus, if any, shall be paid to the owner of the article or thing, or if not claimed by such owner within 12 months of the date of the sale, shall be forfeited to the Authority.
+
+[11/2003 wef 01/08/2003]
 
 (9) In addition to the methods of service under section 47 —
 
@@ -1252,11 +1262,21 @@ to remove the article or thing within such time as may be specified in the notic
 
 (b) a notice referred to in subsection (6) may be served by posting it conspicuously at or near the part of the public street, five-footway or private footway from which the article or thing was removed, if the name and address of the owner of the article or thing are unknown or cannot be ascertained despite reasonable diligence.
 
-(10) Any person who, without the authority of an employee of the Authority, removes or tampers with any notice that has been affixed to any article or thing under subsection (9)(a) or that has been posted at any part of a public street, five-footway or private footway under subsection (9)(b) shall be guilty of an offence.
+[11/2003 wef 01/08/2003]
+
+(10) Any person who, without the authority of an authorised officer, removes or tampers with any notice that has been affixed to any article or thing under subsection (9)(a) or that has been posted at any part of a public street, five-footway or private footway under subsection (9)(b) shall be guilty of an offence.
+
+[11/2003 wef 01/08/2003]
+
+[6/2004 wef 08/03/2004]
 
 (11) Any person who is guilty of an offence under subsection (2) or (4)(a) shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
 [11/2003 wef 01/08/2003]
+
+(12) In this section, “authorised officer” means any employee of the Authority and any other person appointed by the Authority under section 4 to assist in the enforcement of this section.
+
+[6/2004 wef 08/03/2004]
 
 ### Wilful damage to Government’s property and hindrance of Authority’s use of such property
 
@@ -1320,7 +1340,7 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (2) If the amount of compensation, damages, fees, costs or expenses is not paid by the person liable to pay the same within 14 days after demand, that amount may be reported to the District Court and recovered in the same manner as if it were a fine imposed by the District Court.
 
-(3) An appeal shall lie to the High Court from any decision of the District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, to all such appeals.
+(3) An appeal shall lie to the High Court from any decision of the District Court under this section, and the provisions of the Criminal Procedure Code [Cap. 68] shall apply, with the necessary modifications, to all such appeals.
 
 ### Occupier may execute work upon default of owner
 
@@ -1334,7 +1354,7 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (b) the performance of all other obligations imposed by this Act upon the owner of the property which are to be performed,
 
-at any time before such notice of transfer as is required by section 19 of the Property Tax Act (Cap. 254) has been given.
+at any time before such notice of transfer as is required by section 19 of the Property Tax Act [Cap. 254] has been given.
 
 (2) Nothing in this section shall affect the liability of the purchaser or transferee to pay the costs and expenses in respect of the property or the right of the Authority to recover the costs and expenses or to perform any obligation under this Act.
 
@@ -1458,6 +1478,8 @@ at any time before such notice of transfer as is required by section 19 of the P
 
 under the repealed Act shall, except where otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, approved or granted, as the case may be, under this Act.
 
+(2) [Deleted by Act 11/2003 wef 01/08/2003]
+
 (3) Where in any written law, reference is made to —
 
 (a) “the Director-General”;
@@ -1472,7 +1494,7 @@ FIRST SCHEDULE
 
 Section 53
 
-Subject Matters of Regulations
+Subject matters of Regulations
 
 1\. The laying or carrying of any line or rails, or utilities along, through, across, over or under public streets, public bridges or any street which is to be declared public.
 
@@ -1506,15 +1528,13 @@ Subject Matters of Regulations
 
 SECOND SCHEDULE
 
-Deleted by Act 11/2003, wef 01/08/2003.
+[Deleted by Act 11/2003 wef 01/08/2003]
 
 ## LEGISLATIVE HISTORY
 
 Street Works Act
 
 (CHAPTER 320A)
-
-This Legislative History is provided for the convenience of users of the Street Works Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -1538,3 +1558,8 @@ This Legislative History is provided for the convenience of users of the Street 
 |||(Bill No. 9/2003 published on 25 April 2003)|
 ||Date of Second and Third Readings|30 June 2003|
 ||Date of commencement|1 August 2003|
+|5.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 4/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|8 March 2004|
