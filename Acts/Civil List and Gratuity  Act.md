@@ -160,7 +160,7 @@ Class I
 
 (a) The privy purse
 
-$1,779,000
+$1,568,000
 
 (b) Entertainment allowance
 
@@ -174,19 +174,19 @@ Class II
 
 Salaries of personal staff
 
-$2,404,700
+$2,137,900
 
 Class III
 
 Expenses of household
 
-$ 841,300
+$ 952,500
 
 Class IV
 
 Special services
 
-$ 17,000
+$ 241,200
 
 ## LEGISLATIVE HISTORY
 
@@ -275,3 +275,5 @@ This Legislative History is provided for the convenience of users of the Civil L
 ||Date of operation|20 December 1997|
 |31.|**G. N. No. S 246/98—Parliamentary Resolution**|
 ||Date of commencement|27 February 1998|
+|32.|**G. N. No. S 188/99—Parliamentary Resolution**|
+||Date of commencement|26 February 1999|
