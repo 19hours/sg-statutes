@@ -32,9 +32,9 @@
 
 - [12 Companies Act not to apply to Bank and to issue by Bank of shares, debentures, etc.](#Companies-Act-not-to-apply-to-Bank-and-to-issue-by-Bank-of-shares-debentures-etc)
 
-[**FIRST SCHEDULE Terms and conditions upon which Singapore is admitted to membership of the International Monetary Fund**](#FIRST-SCHEDULE-Terms-and-conditions-upon-which-Singapore-is-admitted-to-membership-of-the-International-Monetary-Fund)
+[**FIRST SCHEDULE Terms and Conditions Upon Which Singapore Is Admitted to Membership of the International Monetary Fund**](#FIRST-SCHEDULE-Terms-and-Conditions-Upon-Which-Singapore-Is-Admitted-to-Membership-of-the-International-Monetary-Fund)
 
-[**SECOND SCHEDULE Terms and conditions upon which Singapore is admitted to membership of the International Bank for Reconstruction and Development**](#SECOND-SCHEDULE-Terms-and-conditions-upon-which-Singapore-is-admitted-to-membership-of-the-International-Bank-for-Reconstruction-and-Development)
+[**SECOND SCHEDULE Terms and Conditions Upon Which Singapore Is Admitted to Membership of the International Bank for Reconstruction and Development**](#SECOND-SCHEDULE-Terms-and-Conditions-Upon-Which-Singapore-Is-Admitted-to-Membership-of-the-International-Bank-for-Reconstruction-and-Development)
 
 [**Legislative History**](#Legislative-History)
 
@@ -142,9 +142,11 @@ And Whereas, for the purpose of complying with the terms and conditions aforesai
 
 (c) Except with the approval signified by resolution of Parliament, the subscription of Singapore shall not be increased so that it (including any increases) exceeds the sum of forty million United States dollars.
 
-(2) The Minister for Finance is hereby authorised to create and issue to the International Bank for Reconstruction and Development such non-interest-bearing and non-negotiable notes or other obligations as the Bank may, under section 12 of Article V of the Bank Agreement, determine to accept in place of the currency of Singapore.
+(2) The Minister for Finance with the President’s concurrence under Article 144(1)(b) of the Constitution may create and issue to the International Bank for Reconstruction and Development such non-interest-bearing and non-negotiable notes or other obligations as the Bank may, under section 12 of Article V of the Bank Agreement, determine to accept in place of the currency of Singapore.
 
 [5
+
+[11/1991 wef 30/11/1991]
 
 ### Other payments to International Bank
 
@@ -158,9 +160,11 @@ And Whereas, for the purpose of complying with the terms and conditions aforesai
 
 ### Power to raise loans
 
-9\. For the purpose of providing any sums required for making any payments under the Fund Agreement, Bank Agreement, or the membership resolutions set out in the First and Second Schedules, the Minister may, on behalf of the Government, raise loans by the creation and issue of securities bearing such rates of interest and subject to such conditions as to repayment, redemption or otherwise as he may think fit and the principal and interest of such securities and the charges and expenses incurred in connection with their issue shall be charged on and paid out of the Consolidated Fund.
+9\. For the purpose of providing any sums required for making any payments under the Fund Agreement, Bank Agreement, or the membership resolutions set out in the First and Second Schedules, the Minister with the President’s concurrence under Article 144(1)(b) of the Constitution may, on behalf of the Government, raise loans by the creation and issue of securities bearing such rates of interest and subject to such conditions as to repayment, redemption or otherwise as he may think fit and the principal and interest of such securities and the charges and expenses incurred in connection with their issue shall be charged on and paid out of the Consolidated Fund.
 
 [8
+
+[11/1991 wef 30/11/1991]
 
 ### Moneys received by Government to be paid into Consolidated Fund
 
@@ -188,7 +192,7 @@ FIRST SCHEDULE
 
 Sections 4 and 9.
 
-Terms and conditions upon which Singapore is admitted to membership of the International Monetary Fund
+Terms and Conditions Upon Which Singapore Is Admitted to Membership of the International Monetary Fund
 
 Resolution adopted by the Board of Governors of the International Monetary Fund, on February 21 1966
 
@@ -230,17 +234,7 @@ SECOND SCHEDULE
 
 Sections 7 and 9.
 
-Terms and conditions upon which Singapore is admitted
-
-
-
-
-to membership of the International Bank for
-
-
-
-
-Reconstruction and Development
+Terms and Conditions Upon Which Singapore Is Admitted to Membership of the International Bank for Reconstruction and Development
 
 Resolution adopted by the Board of Governors of the International Bank for Reconstruction and Development on February 21 1966
 
@@ -307,3 +301,9 @@ This Legislative History is provided for the convenience of users of the Bretton
 ||Date of commencement|4 July 1966|
 |2.|**1985 Revised Edition—Bretton Woods Agreements Act**|
 ||Date of operation|30 March 1987|
+|3.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/1991 published on 4 January 1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
