@@ -190,7 +190,9 @@ PRELIMINARY
 
 “Registrar” means the Registrar of Titles appointed under the Land Titles Act;
 
-“special resolution” means a resolution passed at a duly convened general meeting of a body corporate of which at least 14 days’ notice specifying the proposed resolution has been given and against which not more than 10% of the owners of all the flats in the housing estate concerned have cast their votes.
+“special resolution” means a resolution passed at a duly convened general meeting of a body corporate of which at least 21 days’ notice specifying the proposed resolution has been given and against which not more than 25% of the owners of all the flats in the housing estate concerned have cast their votes.
+
+[29/1994 wef 13/01/1995]
 
 (2) This Act shall apply to the housing estates which are built on the lands which are more particularly described in the First Schedule.
 
@@ -1884,3 +1886,8 @@ This Legislative History is provided for the convenience of users of the HUDC Ho
 ||Date of operation|30 March 1987|
 |5.|**G. N. No. S 200/1990—HUDC Housing Estates Act (Amendment of First Schedule) Notification 1990**|
 ||Date of commencement|18 May 1990|
+|6.|**Act 29 of 1994—HUDC Housing Estates (Amendment) Act 1994**|
+||Date of First Reading|31 October 1994|
+|||(Bill No. 33/1994 published on 1 November 1994)|
+||Date of Second and Third Readings|5 December 1994|
+||Date of commencement|13 January 1995|
