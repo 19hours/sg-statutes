@@ -1,4 +1,4 @@
-**Singapore Broadcasting Authority Act**
+**Broadcasting Act**
 
 **(CHAPTER 297)**
 
@@ -12,39 +12,33 @@
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II ESTABLISHMENT AND CONSTITUTION OF SINGAPORE BROADCASTING AUTHORITY**](#Part-II)
+[**Part II**](#Part-II)
 
-- [3 Establishment of Singapore Broadcasting Authority](#Establishment-of-Singapore-Broadcasting-Authority)
+- [3 (Repealed)](#Repealed)
 
-- [4 Common seal](#Common-seal)
+[**Part III PROVISIONS RELATING TO AUTHORITY**](#Part-III)
 
-- [5 Constitution of Authority](#Constitution-of-Authority)
+- [6 (Repealed)](#Repealed)
 
-[**Part III FUNCTIONS, DUTIES AND POWERS OF AUTHORITY**](#Part-III)
-
-- [6 Functions and duties of Authority](#Functions-and-duties-of-Authority)
-
-- [7 Powers of Authority](#Powers-of-Authority)
+- [7 (Repealed)](#Repealed)
 
 - [8 Directions by Minister](#Directions-by-Minister)
 
-- [9 Chief Executive](#Chief-Executive)
+- [9 (Repealed)](#Repealed)
 
-- [10 Public servants](#Public-servants)
+- [10 (Repealed)](#Repealed)
 
-- [11 Protection from personal liability](#Protection-from-personal-liability)
+- [11 (Repealed)](#Repealed)
 
-- [12 Investment of funds](#Investment-of-funds)
-
-- [12A Issue of shares, etc.](#Issue-of-shares-etc)
+- [12 (Repealed)](#Repealed)
 
 - [12A (Repealed)](#Repealed)
 
-- [13 Financial provisions](#Financial-provisions)
+- [13 (Repealed)](#Repealed)
 
-- [14 Annual report](#Annual-report)
+- [14 (Repealed)](#Repealed)
 
-- [15 Symbol, design or representation of Authority](#Symbol-design-or-representation-of-Authority)
+- [15 (Repealed)](#Repealed)
 
 - [16 Exclusion of liability of Authority for act or default of licensees](#Exclusion-of-liability-of-Authority-for-act-or-default-of-licensees)
 
@@ -146,27 +140,9 @@
 
 - [48 Appeal under this Part](#Appeal-under-this-Part)
 
-[**Part XI TRANSFER OF UNDERTAKING**](#Part-XI)
+[**Part xI**](#Part-xI)
 
-- [49 Vesting of undertaking in broadcasting successor companies and Authority](#Vesting-of-undertaking-in-broadcasting-successor-companies-and-Authority)
-
-- [50 Initial Government holding in broadcasting successor companies](#Initial-Government-holding-in-broadcasting-successor-companies)
-
-- [51 Financial structure of broadcasting successor companies](#Financial-structure-of-broadcasting-successor-companies)
-
-- [52 Application of Securities and Futures Act 2001 in relation to offer of shares or debentures of broadcasting successor companies](#Application-of-Securities-and-Futures-Act-2001-in-relation-to-offer-of-shares-or-debentures-of-broadcasting-successor-companies)
-
-- [53 Application of Trustees Act in relation to investment in broadcasting successor companies](#Application-of-Trustees-Act-in-relation-to-investment-in-broadcasting-successor-companies)
-
-- [54 Transfer of employees to broadcasting successor companies and Authority](#Transfer-of-employees-to-broadcasting-successor-companies-and-Authority)
-
-- [55 Conditions of service](#Conditions-of-service)
-
-- [56 Continuation and completion of disciplinary proceedings](#Continuation-and-completion-of-disciplinary-proceedings)
-
-- [57 Misconduct or neglect of duty whilst in employment of Corporation](#Misconduct-or-neglect-of-duty-whilst-in-employment-of-Corporation)
-
-- [58 Existing agreements and pending proceedings](#Existing-agreements-and-pending-proceedings)
+- [49 (Repealed)](#Repealed)
 
 [**Part XII OFFENCES AND PENALTIES**](#Part-XII)
 
@@ -214,25 +190,25 @@
 
 - [79 Regulations](#Regulations)
 
-- [80 Transitional provisions](#Transitional-provisions)
+- [80 (Repealed)](#Repealed)
 
 [**FIRST SCHEDULE Broadcasting Apparatus**](#FIRST-SCHEDULE-Broadcasting-Apparatus)
 
 [**SECOND SCHEDULE Licensable Broadcasting Services**](#SECOND-SCHEDULE-Licensable-Broadcasting-Services)
 
-[**THIRD SCHEDULE Constitution and Proceedings of Authority**](#THIRD-SCHEDULE-Constitution-and-Proceedings-of-Authority)
+[**THIRD SCHEDULE**](#THIRD-SCHEDULE)
 
-[**FOURTH SCHEDULE Powers of Authority**](#FOURTH-SCHEDULE-Powers-of-Authority)
+[**FOURTH SCHEDULE**](#FOURTH-SCHEDULE)
 
-[**FIFTH SCHEDULE Financial Provisions**](#FIFTH-SCHEDULE-Financial-Provisions)
+[**FIFTH SCHEDULE**](#FIFTH-SCHEDULE)
 
-[**SIXTH SCHEDULE Consequential Amendments**](#SIXTH-SCHEDULE-Consequential-Amendments)
+[**SIXTH SCHEDULE**](#SIXTH-SCHEDULE)
 
 [**SEVENTH SCHEDULE Relevant Licensable Broadcasting Service**](#SEVENTH-SCHEDULE-Relevant-Licensable-Broadcasting-Service)
 
 [**Legislative History**](#Legislative-History)
 
-# Singapore Broadcasting Authority Act
+# Broadcasting Act
 
 (CHAPTER 297)
 
@@ -242,7 +218,7 @@ REVISED EDITION 1995
 
 (15th March 1995)
 
-An Act to establish the Singapore Broadcasting Authority, to regulate dealing in, the operation of and ownership in broadcasting services and broadcasting apparatus, to provide for the transfer of the property, rights and liabilities of the Singapore Broadcasting Corporation to successor companies and the Authority and for matters connected therewith.
+An Act to regulate dealing in, the operation of and ownership in broadcasting services and broadcasting apparatus, and for matters connected therewith.
 
 [1st October 1994]
 
@@ -252,13 +228,15 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the Singapore Broadcasting Authority Act.
+1\. This Act may be cited as the Broadcasting Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“Authority” means the Singapore Broadcasting Authority established under section 3;
+“Authority” means the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act 2002;
+
+[34/2002 wef 01/01/2003]
 
 “broadcasting apparatus” means any apparatus capable of or designed or constructed for the reception of any broadcasting service and specified in the First Schedule;
 
@@ -289,8 +267,6 @@ by persons having equipment appropriate for receiving, or receiving and displayi
 “Corporation” means the Singapore Broadcasting Corporation established under the Singapore Broadcasting Corporation Act in force immediately before 1st October 1994;
 
 “debenture” includes debenture stock;
-
-“Deputy Chairman” means the Deputy Chairman of the Authority and includes any temporary Deputy Chairman of the Authority;
 
 “dwelling-house” includes a hotel, inn, boarding house or other similar establishment;
 
@@ -344,53 +320,15 @@ but does not include any matter that is wholly related to or connected with any 
 
 ## PART II
 
-ESTABLISHMENT AND CONSTITUTION OF SINGAPORE BROADCASTING AUTHORITY
-
-### Establishment of Singapore Broadcasting Authority
-
-3\. There is hereby established a body to be called the Singapore Broadcasting Authority which shall be a body corporate with perpetual succession, capable of suing and being sued in its corporate name and performing such other acts as bodies corporate may by law perform, and shall exercise and perform such other powers and functions as are conferred by or under this Act.
-
-### Common seal
-
-4\. The Authority shall have a common seal and the seal may, from time to time, be broken, changed, altered and made anew as the Authority thinks fit.
-
-### Constitution of Authority
-
-5\.—(1) The Authority shall consist of a Chairman, a Deputy Chairman and such other members, not being less than 3 and not more than 10, as the Minister may from time to time determine.
-
-(2) The Third Schedule shall have effect with respect to the Authority.
+3\. [6. [Deleted by Act 34/2002 wef 01/01/2003 wef 01/01/2003 wef 01/01/2003]]
 
 ## PART III
 
-FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
+PROVISIONS RELATING TO AUTHORITY
 
-### Functions and duties of Authority
+6\. [Deleted by Act 34/2002 wef 01/01/2003]
 
-6\.—(1) The functions of the Authority shall be —
-
-(a) to exercise licensing and regulatory functions in respect of broadcasting services and broadcasting apparatus;
-
-(b) to act internationally as the national authority or representative of Singapore in respect of matters relating to broadcasting;
-
-(c) to encourage the development of broadcasting and related services;
-
-(d) to re-assign, from electromagnetic spectrum and satellite orbits assigned to the Authority by the Info-communications Development Authority of Singapore for the purpose of broadcasting, specific frequencies in such spectrum and satellite orbits to broadcasting licensees whose broadcasting services are to be transmitted on a frequency in such spectrum and satellite orbits; and
-
-(e) to regulate the broadcast by broadcasting licensees of public service broadcasting obligations.
-
-(2) The Authority shall have the following duties:
-
-(a) to regulate the broadcasting industry so as to achieve an adequate and comprehensive range of broadcasting services which serve the interests of the general public;
-
-(b) to ensure that the broadcasting services provided by licensees are maintained at a high general standard in all respects and, in particular, in respect of their content, with quality, proper balance and wide range in their subject-matter, having regard both to the broadcasting services as a whole and also to the days of the week on which, and the times of the day at which, such broadcasting services are broadcast; and
-
-(c) to ensure that nothing is included in the content of any broadcasting service which is against public interest or order, national harmony or which offends against good taste or decency.
-
-(3) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings in any court.
-
-### Powers of Authority
-
-7\. The Authority shall, subject to the provisions of this Act, have power to do all such things as are in its opinion necessary for or conducive to the proper discharge of its functions and duties under this Act, and, in particular, the Authority shall have the powers specified in the Fourth Schedule.
+7\. [Deleted by Act 34/2002 wef 01/01/2003]
 
 ### Directions by Minister
 
@@ -434,57 +372,21 @@ the Minister may, after consultation with a person to whom this section applies,
 
 (9) If any doubt arises as to the existence of a public emergency or as to whether any act done under this section was in the public interest or in the interests of public security, national defence or relations with the government of another country, a certificate signed by the Minister shall be conclusive evidence of the matters stated therein.
 
-### Chief Executive
+9\. [Deleted by Act 34/2002 wef 01/01/2003]
 
-9\.—(1) The Authority shall, with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the Authority may determine.
+10\. [Deleted by Act 34/2002 wef 01/01/2003]
 
-(2) The Chief Executive shall —
+11\. [Deleted by Act 34/2002 wef 01/01/2003]
 
-(a) be known by such designation as the Authority may determine;
-
-(b) be responsible to the Authority for the proper administration and management of the Authority in accordance with the policy laid down by its members; and
-
-(c) not be removed from office without the consent of the Minister.
-
-(3) If the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason temporarily unable to perform his duties, a person may be appointed by the Authority to act in the place of the Chief Executive during such period of absence from duty.
-
-(4) The Authority may from time to time appoint and employ on such terms and conditions as the Authority may determine such officers and employees as may be necessary for the effective performance of its functions.
-
-### Public servants
-
-10\. All members, officers and employees of the Authority shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
-
-### Protection from personal liability
-
-11\. No suit or other legal proceedings shall lie against any member, officer or employee of the Authority or other person acting under the direction of the Authority for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
-
-### Investment of funds
-
-12\. Money belonging to the Authority may be invested in such funds, securities or investments as may be authorised by the Minister.
-
-### Issue of shares, etc.
-
-12A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Authority under this Act, or of any capital injection or other investment by the Government in the Authority in accordance with any written law, the Authority shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
-
-[5/2002 wef 15/07/2002]
+12\. [Deleted by Act 34/2002 wef 01/01/2003]
 
 12A\. [Deleted by Act 34/2002 wef 01/01/2003]
 
-### Financial provisions
+13\. [Deleted by Act 34/2002 wef 01/01/2003]
 
-13\. The financial provisions set out in the Fifth Schedule shall have effect with respect to the Authority.
+14\. [Deleted by Act 34/2002 wef 01/01/2003]
 
-### Annual report
-
-14\.—(1) The Authority shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Authority during the preceding financial year and containing such information relating to the proceedings and policy of the Authority as the Minister may, from time to time, direct.
-
-(2) The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
-
-### Symbol, design or representation of Authority
-
-15\.—(1) The Authority shall have the exclusive right to the use of such symbol, design or representation as it may select or devise and thereafter display or exhibit in connection with its activities or affairs.
-
-(2) Any person who uses a symbol, design or representation identical with that of the Authority, or which so resembles the Authority’s symbol, design or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+15\. [Deleted by Act 34/2002 wef 01/01/2003]
 
 ### Exclusion of liability of Authority for act or default of licensees
 
@@ -619,6 +521,10 @@ the Authority may, by notice in writing and without any compensation, do either 
 (ii) require the payment of a fine of such amount as the Authority thinks fit.
 
 (2) Any person who is aggrieved by any decision of the Authority under this section may, within 14 days of the receipt by him of the notice referred to in subsection (1), appeal to the Minister whose decision shall be final.
+
+(3) In this section, “Code of Practice” includes a code of practice issued under the Media Development Authority of Singapore Act 2002.
+
+[34/2002 wef 01/01/2003]
 
 ### Compliance with Codes of Practice, etc.
 
@@ -1280,137 +1186,9 @@ any foreign source, whether acting alone or together with one or more other fore
 
 48\. Any person aggrieved by any refusal of the Authority to grant its approval or consent under any provision of this Part may appeal to the Minister whose decision shall be final.
 
-## PART XI
+## PART xI
 
-TRANSFER OF UNDERTAKING
-
-### Vesting of undertaking in broadcasting successor companies and Authority
-
-49\.—(1) On 1st October 1994, all the property, rights and liabilities comprised in the Corporation’s undertaking to which the Corporation was entitled or subject immediately before that date shall become, by virtue of this section and without further assurance, the property, rights and liabilities of the Authority and companies nominated for the purposes of this section by the Minister (referred to in this Act as the broadcasting successor companies) in such manner of distribution and allocation as determined by the Minister and agreed to by the Minister for Finance, including any division or sharing between the broadcasting successor companies and the Authority or any of them, of any one or more items of such property, rights or liabilities.
-
-(2) Any immovable property to be transferred to and vested in a broadcasting successor company or the Authority under subsection (1) shall be held by the company or the Authority, as the case may be, upon such tenure and subject to such terms and conditions as the President may determine.
-
-(3) The Authority shall grant, as from 1st October 1994, broadcasting licences and broadcasting apparatus licences to each broadcasting successor company according to the property, rights and liabilities so vested in the company.
-
-(4) If any question arises as to whether any particular property, right or liability has been transferred to or vested in any broadcasting successor company or the Authority under this Act, a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, right or liability was or was not so transferred or vested.
-
-(5) It is hereby declared for the avoidance of doubt that —
-
-(a) any reference in this Act to property comprised in the Corporation’s undertaking is a reference to such property of the Corporation whether situated in Singapore or elsewhere; and
-
-(b) any reference in this Act to rights and liabilities comprised in the Corporation’s undertaking is a reference to such rights to which the Corporation is entitled or, as the case may be, such liabilities to which the Corporation is subject, whether under the laws of Singapore or any country outside Singapore and includes rights and liabilities arising under loans raised in relation to the Corporation’s undertaking.
-
-(6) It shall be the duty of each broadcasting successor company and the Authority to take all such steps as may be requisite to secure that the vesting in each such company and the Authority by virtue of this section of any foreign property, right or liability is effective under the relevant foreign law and until such time it shall be the duty of the Authority, as the successor of the Corporation, to hold that property or right for the benefit of, or to discharge that liability on behalf of, each such company and the Authority, as the case may be.
-
-(7) As from 1st October 1994 for all purposes the Authority shall be deemed to be acting in place of the Corporation as its successor in title and there shall be deemed to be vested in the Authority all property, rights and liabilities of the Corporation previously not vested specifically in the broadcasting successor companies or the Authority under this Act.
-
-(8) Nothing in subsections (6) and (7) shall be construed as prejudicing the effect under the laws of Singapore of the vesting in any broadcasting successor company or the Authority by virtue of this section of any foreign property, right or liability.
-
-(9) Any expenses incurred by the Authority under subsection (6) or (7) shall be paid by the relevant broadcasting successor company or the Authority, as the case may be.
-
-(10) In this section, references to any foreign property, right or liability are references, respectively, to any property, right or liability comprised in the Corporation’s undertaking in respect of which any issue arising in any proceedings would have been determined (in accordance with the rules of conflict of laws) by reference to the law of a country or territory outside Singapore.
-
-### Initial Government holding in broadcasting successor companies
-
-50\.—(1) As a consequence of the vesting in the broadcasting successor companies by virtue of section 49 of property, rights and liabilities comprised in the Corporation’s undertaking, each broadcasting successor company shall issue such securities in the company as the Minister for Finance may from time to time direct to any company wholly owned by the Government.
-
-(2) The Minister for Finance shall not give a direction under subsection (1) to any broadcasting successor company at a time when that broadcasting successor company has ceased to be wholly owned by the Government.
-
-(3) Securities required to be issued in pursuance of this section shall be issued or allotted at such time and on such terms as to allotment as the Minister for Finance may direct.
-
-(4) Shares issued in pursuance of this section —
-
-(a) shall be of such nominal value as the Minister for Finance may direct; and
-
-(b) shall be issued as fully paid and treated for the purposes of the Companies Act [Cap. 50] as if they had been paid up by virtue of the payment to the issuing broadcasting successor company of their nominal value.
-
-(5) Section 69 of the Companies Act (which provides that where a company issues shares for which a premium is received by the company whether in cash or in the form of other valuable consideration a sum equal to the aggregate amount or value of the premiums on those shares shall be transferred to a share premium account) shall not apply in relation to the issue of shares by a broadcasting successor company in pursuance of this section, notwithstanding that such shares may be regarded as having been issued by the company at a premium.
-
-### Financial structure of broadcasting successor companies
-
-51\.—(1) If the Minister for Finance so directs at any time before a broadcasting successor company ceases to be wholly owned by the Government, such sum (not exceeding the accumulated realised profits of the Corporation in connection with its undertaking) as may be specified in the direction shall be carried by that broadcasting successor company to a reserve (referred to in this section as the statutory reserve).
-
-(2) The statutory reserve may only be applied by a broadcasting successor company in paying up unissued shares of the company to be allotted to members of the company as fully-paid bonus shares.
-
-(3) For the purposes of any statutory accounts of a broadcasting successor company —
-
-(a) the vesting effected by virtue of section 49 shall be taken to have been a vesting of the property, rights and liabilities comprised in the Corporation’s undertaking to which the Corporation was entitled or subject on 1st October 1994 and which was allocated to the company by determination of the Minister under section 49(1); and
-
-(b) the value of any asset and the amount of any liability of the Corporation taken to have been vested in a broadcasting successor company by virtue of paragraph (a) shall be taken to be the value or, as the case may be, the amount assigned to that asset or liability in the statement of accounts of the Corporation as at 1st October 1994.
-
-(4) For the purposes of any statutory accounts of a broadcasting successor company, the amount to be included in respect of any item shall be determined as if anything done by the Corporation (whether by way of acquiring, revaluing or disposing of any asset or incurring, revaluing or discharging any liability, or by carrying any amount to any provision or reserve, or otherwise) had been done by the company.
-
-(5) Without prejudice to the generality of subsection (4), the amount to be included in any reserves of a broadcasting successor company as representing its accumulated realised profits shall be determined as if any profits realised and retained by the Corporation in connection with that part of its undertaking vested in the company had been realised and retained by the company.
-
-(6) References in this section to the statutory accounts of a broadcasting successor company are references to any accounts prepared by the company for the purposes of any provision of the Companies Act [Cap. 50].
-
-### Application of Securities and Futures Act 2001 in relation to offer of shares or debentures of broadcasting successor companies
-
-52\.—(1) This section shall apply where the Minister for Finance or the company to which securities of any broadcasting successor company are issued at the direction of the Minister for Finance under section 50(1) offers for sale to the public shares or debentures of the broadcasting successor company; and in this section, “full prospectus” means a prospectus which complies, or is deemed to comply, with the requirements of a prospectus under the Securities and Futures Act 2001.
-
-(2) If the shares or debentures are offered by a full prospectus in respect of which the conditions mentioned in subsection (3) are fulfilled (referred to in this section as the offer prospectus), any form of application for the shares or debentures may (instead of being issued with a full prospectus) be issued with a notice given by the Minister for Finance which includes —
-
-(a) a brief description of the shares or debentures offered, the terms of offer, the broadcasting successor company’s business and its financial position;
-
-(b) an indication of the places in Singapore where copies of the offer prospectus are to be available to members of the public; and
-
-(c) a statement of the effect of subsection (4).
-
-(3) The conditions referred to in subsection (2) are —
-
-(a) that the prospectus has been lodged with the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap.186) under section 240 of the Securities and Futures Act 2001; and
-
-[42/2001 wef 01/07/2002]
-
-(b) that arrangements have been made with a view to securing that on or before the date of receipt of the form of application by a member of the public copies are generally available in Singapore to members of the public.
-
-(4) Where a form of application is issued without a full prospectus but with a notice given by the Minister for Finance under subsection (2), then, for the purposes of any written law or any rule of law —
-
-(a) the notice shall be taken to have incorporated the offer prospectus; and
-
-(b) any application for the shares or debentures which is made in pursuance of the notice shall be taken to have been made in pursuance of that prospectus.
-
-### Application of Trustees Act in relation to investment in broadcasting successor companies
-
-53\.—(1) For the purpose of applying paragraph 1(1)(b), (c) and (d) of Part IV of the First Schedule to the Trustees Act [Cap. 337] (which provide that securities of a company shall not count as authorised investments within the meaning of that Act unless the company has a shareholders equity of not less than $30 million and has paid dividends in each of the financial years and has reported a profit in the financial year immediately preceding that in which the investment is made) in relation to investment in securities of a broadcasting successor company during the financial year in which 1st October 1994 falls (the first investment year) or during any financial year following that year, the company shall be deemed —
-
-(a) to have paid a dividend as mentioned in the said paragraph 1(1)(b) in each financial year preceding the first investment year which is included in the relevant 3 years, and in the first investment year, if that year is included in the relevant 3 years and the company does not in fact pay such a dividend in that year;
-
-(b) to have had a shareholders equity of not less than $30 million as mentioned in the said paragraph 1(1)(c); and
-
-(c) to have reported a profit as mentioned in the said paragraph 1(1)(d) in the financial year preceding the first investment year, and in the first investment year, if the company does not in fact report such a profit in that year.
-
-(2) In subsection (1), “the relevant 3 years” means the 3 financial years immediately preceding the financial year in which the investment in question is made or proposed to be made.
-
-### Transfer of employees to broadcasting successor companies and Authority
-
-54\. As from 1st October 1994, every person employed by the Corporation in connection with the Corporation’s undertaking immediately before that date shall be transferred to the service of a broadcasting successor company or the Authority as the Corporation may determine on terms no less favourable than those enjoyed by him immediately prior to his transfer.
-
-### Conditions of service
-
-55\.—(1) Until such time as contracts of service are drawn up by the broadcasting successor company or the Authority, as the case may be, the schemes and terms and conditions of service in the Corporation shall continue to apply to every person transferred to the service of a broadcasting successor company or the Authority under section 54 as if he were still in the service of the Corporation.
-
-(2) Where any person who is transferred to the service of a broadcasting successor company or the Authority under section 54 is a contributor under the Widows’ and Orphans’ Pension Act, he shall for the purposes of that Act continue to make contributions under that Act as if he had not been transferred to the service of the company or the Authority and for the purposes of that Act, his service with the company or the Authority shall be deemed to be service with the Government.
-
-(3) Notwithstanding the provisions of the Pensions Act [Cap. 225], no person who is transferred to the service of a broadcasting successor company or the Authority under section 54 shall be entitled to claim any benefits under that Act on the ground that he has been retired from the service of the Government on account of abolition or reorganisation of office in consequence of the incorporation of the company or the establishment of the Authority.
-
-(4) The Authority shall be liable to pay to any former employee of the Government or the Corporation, as the case may be, who has retired before or after 1st October 1994 such pension benefits payable under the Pensions Act as he is entitled to and the Government shall be liable to pay to the Authority such portion of any such pension benefits payable to such former employee as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government, the Corporation and the Authority bears to the aggregate amount of his pensionable emoluments during his service under the Government, the Corporation and the Authority.
-
-### Continuation and completion of disciplinary proceedings
-
-56\.—(1) Where, on 1st October 1994, any disciplinary proceedings are pending or there is an interdiction or investigation against or in respect of any employee of the Corporation transferred to the service of a broadcasting successor company or the Authority, the proceedings, the commencement of proceedings, or the appropriate dealing with the employee shall be taken up and continued by the broadcasting successor company or the Authority, as the case may be.
-
-(2) Where, on 1st October 1994, any penalty (other than dismissal) has been imposed on any employee of the Corporation pursuant to disciplinary proceedings against him and the penalty has not been, or remains to be, served by such employee, he shall, on his transfer to a broadcasting successor company or the Authority under section 54, serve or continue to serve such penalty to its full term as if it had been imposed by the company or the Authority, as the case may be, and the penalty shall remain valid against the employee on his transfer and shall continue in full force and effect until he has served the penalty in full.
-
-### Misconduct or neglect of duty whilst in employment of Corporation
-
-57\. Where an employee of the Corporation has been transferred to the service of a broadcasting successor company or the Authority pursuant to section 54, the company or the Authority, as the case may be, may reprimand, reduce in rank, retire, dismiss or punish in some other manner that employee for any misconduct, omission or neglect of duty which took place or occurred whilst he was in the employment of the Corporation if the misconduct, omission or neglect of duty would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner by the Corporation as if this Act had not been enacted.
-
-### Existing agreements and pending proceedings
-
-58\.—(1) All deeds, bonds, agreements, instruments and working arrangements subsisting immediately before 1st October 1994 affecting the portion of the undertaking transferred to a broadcasting successor company or the Authority under section 49 or affecting any employee of the Corporation transferred to the service of the company or the Authority under section 54 shall continue in force on and after that date and shall be enforceable by or against the company or the Authority, as the case may be, as if instead of the Corporation or any person acting on behalf of the Corporation, the company or the Authority, as the case may be, had been named therein or had been a party thereto.
-
-(2) Any proceedings or cause of action relating to the Corporation’s undertaking or to any employee of the Corporation transferred to the service of a broadcasting successor company or the Authority pending or existing immediately before 1st October 1994 by or against the Corporation or any person acting on its behalf may be continued and shall be enforced by or against the company or the Authority, as the case may be.
+49\. [58. [Deleted by Act 34/2002 wef 01/01/2003 wef 01/01/2003 wef 01/01/2003]]
 
 ## PART XII
 
@@ -1612,15 +1390,7 @@ may appeal to the Minister.
 
 (b) necessary or convenient to be prescribed for carrying out or giving effect to the purposes of this Act.
 
-### Transitional provisions
-
-80\.—(1) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved under the repealed Singapore Broadcasting Corporation Act or the repealed Broadcasting and Television Act [Cap. 28] shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Authority under the corresponding provisions of this Act.
-
-(2) Any subsidiary legislation made under the repealed Singapore Broadcasting Corporation Act or the repealed Broadcasting and Television Act and in force immediately before 1st October 1994 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked by subsidiary legislation made under this Act.
-
-(3) The enactments mentioned in the Sixth Schedule shall have effect subject to the amendments to the extent therein specified (being minor amendments consequential on the preceding provisions of this Act).
-
-(4) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
+80\. [Deleted by Act 34/2002 wef 01/01/2003]
 
 FIRST SCHEDULE
 
@@ -1694,233 +1464,19 @@ For the purposes of this Schedule, a delivery system shall not, by reason only t
 
 THIRD SCHEDULE
 
-Section 5(2)
-
-Constitution and Proceedings of Authority
-
-Appointment of Chairman, Deputy Chairman and other members
-
-1.—(1) The Chairman, the Deputy Chairman and other members shall be appointed by the Minister.
-
-(2) The Deputy Chairman may, subject to such directions as may be given by the Chairman, exercise all or any of the powers exercisable by the Chairman under this Act.
-
-(3) The Minister may appoint the Chief Executive to be a member.
-
-Tenure of office of members
-
-2\. The Chairman, the Deputy Chairman and every other member shall, unless their appointment is revoked under paragraph 5 or they resign during their term of office under paragraph 6, hold office for such term as the Minister may determine.
-
-Temporary Chairman or Deputy Chairman
-
-3\. The Minister may appoint any member to be a temporary Chairman or temporary Deputy Chairman during the temporary incapacity from illness or otherwise, or during the temporary absence, from Singapore, of the Chairman or the Deputy Chairman, as the case may be.
-
-Temporary members
-
-4\. The Minister may appoint any person to be a temporary member during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of any member.
-
-Revocation of appointment
-
-5\. The Minister may, at any time, revoke the appointment of the Chairman or the Deputy Chairman or any member without assigning any reason.
-
-Resignation
-
-6\. Any member may resign from his appointment at any time by giving notice in writing to the Minister.
-
-Vacation of office of member
-
-7. The office of a member shall be vacated if the member —
-
-(a) becomes in any manner disqualified for membership of the Authority; or
-
-(b) has been absent, without leave of the Authority, from 3 consecutive meetings of the Authority.
-
-Filing of vacancy in office of member
-
-8\. If a member dies, resigns or has his appointment revoked or otherwise vacates his office before the expiry of the term for which he has been appointed, another person may be appointed by the Minister for the unexpired period of the term of office of the member in whose place he is appointed.
-
-Disqualification from membership
-
-9. No person shall be appointed or shall continue to hold office as a member if he —
-
-(a) is of unsound mind;
-
-(b) is an undischarged bankrupt or has made any arrangement or composition with his creditors; or
-
-(c) is convicted of an offence involving dishonesty, fraud or moral turpitude and has not received a free pardon.
-
-Member’s interest to be made known
-
-10.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Authority shall disclose the nature of his interest at the first meeting of the Authority at which he is present after the relevant facts have come to his knowledge.
-
-(2) A disclosure under sub-paragraph (1) shall be recorded in the minutes of the meeting of the Authority and, after the disclosure, that member —
-
-(a) shall not take part in any deliberation or decision of the Authority with respect to that transaction or project; and
-
-(b) shall be disregarded for the purpose of constituting a quorum of the Authority for such deliberation or decision.
-
-(3) No act or proceedings of the Authority shall be questioned on the ground that a member has contravened this paragraph.
-
-Salaries, fees and allowances payable to members
-
-11\. There shall be paid to the Chairman, the Deputy Chairman and other members out of the funds of the Authority such salaries, fees and allowances as the Minister may, from time to time, determine.
-
-Meetings of Authority
-
-12.—(1) The Authority shall meet for the despatch of business at such times and places as the Chairman may from time to time appoint.
-
-(2) At every meeting of the Authority, one-half of the total number of members shall form a quorum.
-
-(3) Decisions at meetings of the Authority shall be adopted by a simple majority of the votes of the members present and voting; and in the case of an equality of votes, the Chairman or in his absence the Deputy Chairman or the member presiding shall have a casting vote.
-
-(4) The Chairman or in his absence the Deputy Chairman shall preside at meetings of the Authority.
-
-(5) Where both the Chairman and the Deputy Chairman are absent at a meeting, such member as the members present may elect shall preside at the meeting.
-
-(6) The Authority may act notwithstanding any vacancy in its membership. (7) Subject to the provisions of this Act, the Authority may make standing orders to regulate its own procedure and, in particular, the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
-
-Validity of acts of members
-
-13\. The acts of a member shall be valid notwithstanding any defect that may afterwards be discovered in his appointment or qualifications.
-
-Appointment of committees and delegation of powers
-
-14.—(1) The Authority may, in its discretion, appoint from among its own members or other persons who are not members of the Authority such number of committees as the Authority thinks fit consisting of members or other persons or members and other persons for purposes which, in the opinion of the Authority, would be better regulated and managed by means of such committees.
-
-(2) The Authority may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman or the Chief Executive, all or any of the powers, functions and duties vested in the Authority by this Act or the regulations, and any power, function or duty so delegated may be exercised or performed by such committee or the Chairman or the Chief Executive, as the case may be, in the name and on behalf of the Authority.
-
-(3) The Authority may, subject to such conditions or restrictions as it thinks fit, delegate to any officer or employee thereof or any other person all or any of the powers, functions and duties vested in the Authority by this Act or the regulations, and any power, function or duty so delegated may be exercised or performed by the officer or employee or other person, as the case may be, in the name and on behalf of the Authority.
-
-(4) The Authority may continue to exercise a power conferred upon it, or perform a function or duty under this Act or the regulations, notwithstanding the delegation of the power, function or duty under this paragraph.
+Deleted by Act 34/2002, wef 01/01/2003.
 
 FOURTH SCHEDULE
 
-Section 7
-
-Powers of Authority
-
-1\. To design and administer systems for the granting of broadcasting service licences and broadcasting apparatus licences.
-
-2\. To determine the hours during which broadcasting services may be transmitted.
-
-3\. To conduct investigations relating to the granting of broadcasting service licences and broadcasting apparatus licences.
-
-4\. To levy and collect any fees payable in respect of licences.
-
-5\. To conduct or commission research into community attitudes on issues relating to programmes, the state of public opinion concerning programmes, and the effect of any programmes broadcast on the attitudes and behaviour of persons who watch them.
-
-6\. To conduct researches and investigations necessary for the improvement and development of broadcasting and the reception thereof.
-
-7\. To develop, with the assistance of broadcasting licensees, Codes of Practice that, as far as possible, are in accordance with community standards.
-
-8\. To monitor compliance with Codes of Practice.
-
-9\. To develop programme standards relating to broadcasting.
-
-10\. To monitor compliance with programme standards.
-
-11\. To carry on such businesses and do such things as may arise out of the activities of the Authority or as may be necessary or expedient for the purpose of turning to account any property or rights of the Authority.
-
-12\. To incorporate companies for the purpose of performing things ancillary to its functions.
-
-13\. With the approval of the Minister, to enter into joint ventures or partnerships with other broadcasting authorities or international agencies or private organisations for the purpose of promoting broadcasting services.
-
-14\. To acquire or dispose of, in accordance with the provisions of this Act, any property, whether movable or immovable, which the Authority thinks necessary or expedient for the purpose of carrying out its functions under this Act.
-
-15\. To purchase, construct, reconstruct, instal and maintain broadcasting apparatus, all buildings and works used in connection therewith for the purpose of carrying out its functions.
-
-16\. To use all the property of the Authority, movable or immovable, in such a manner as the Authority may think expedient, including the raising of loans by mortgaging property.
-
-17\. To sell, hire, let or otherwise supply broadcasting apparatus acquired by the Authority for the purpose of carrying out its functions and to instal, repair, maintain or remove such broadcasting apparatus.
-
-18\. To receive donations and contributions from any source and to raise funds by all lawful means.
-
-19\. To provide training schemes, whether by itself or with the co-operation of other persons or bodies as the Authority thinks fit, for the employees of the Authority and others concerned with broadcasting services and cognate or ancillary services.
-
-20\. To grant loans to employees of the Authority for any purpose specifically approved by the Authority.
-
-21\. To provide recreational facilities and promote recreational activities for, and activities conducive to, the welfare of employees of the Authority.
-
-22\. To do anything incidental to any of its functions.
+Deleted by Act 34/2002, wef 01/01/2003.
 
 FIFTH SCHEDULE
 
-Section 13
-
-Financial Provisions
-
-Financial year
-
-1\. The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Authority shall begin on 1st October 1994 and shall end on 31st March 1995.
-
-Accounts to be kept
-
-2\. The Authority shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Authority and over the expenditure incurred by the Authority.
-
-Financial statements
-
-3\. The Authority shall, as soon as practicable in each year, prepare and submit financial statements in respect of the preceding financial year to the auditor appointed under paragraph 4(1).
-
-Appointment of auditor
-
-4.—(1) The accounts of the Authority shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
-
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
-
-Remuneration of auditor
-
-5\. The remuneration of the auditor shall be paid out of the funds of the Authority.
-
-Powers of auditor
-
-6\. The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Authority and may make copies of, or extracts from, any such accounting and other records.
-
-Duties of auditor
-
-7.—(1) The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Authority;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Authority whether purchased, donated or otherwise;
-
-(c) whether receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Authority during the financial year have been in accordance with the provisions of this Act; and
-
-(d) such other matters, arising from the audit as he considers necessary.
-
-(2) The auditor shall send a report of his audit to the Minister through the Authority.
-
-(3) The auditor may at any other time report to the Minister through the Authority upon any matter arising out of the performance of his audit.
-
-Failure to furnish information to auditor
-
-8.—(1) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
-
-(2) Any person who fails without reasonable excuse to comply with any requirement of the auditor under sub-paragraph (1) or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
-
-Presentation of financial statements and auditor’s report to Parliament
-
-9.—(1) As soon as the financial statements have been audited in accordance with the provisions of this Act, the Authority shall send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of any report made by the auditor.
-
-(2) Where the Auditor-General is not the auditor of the Authority, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Authority.
-
-(3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the report of the auditor to be presented to Parliament.
+Deleted by Act 34/2002, wef 01/01/2003.
 
 SIXTH SCHEDULE
 
-Section 80(3)
-
-Consequential Amendments
-
-Interpretation
-
-1\. In the Copyright Act [Cap. 63] and in the Telecommunication Authority of Singapore Act [Cap. 323], “broadcasting licence”, “broadcasting licensee” and “broadcasting service” have the same meanings as in section 2 of this Act.
-
-References to repealed Singapore Broadcasting Corporation Act
-
-2\. In any written law, any reference to the repealed Singapore Broadcasting Corporation Act shall be read as a reference to this Act.
-
-References to Singapore Broadcasting Corporation
-
-3\. The references to the Singapore Broadcasting Corporation in any written law shall be read as references to the Singapore Broadcasting Authority.
+Deleted by Act 34/2002, wef 01/01/2003.
 
 SEVENTH SCHEDULE
 
@@ -1940,7 +1496,7 @@ Singapore CableVision Pte. Ltd.
 
 ## LEGISLATIVE HISTORY
 
-Singapore Broadcasting Authority Act
+Broadcasting Act
 
 (CHAPTER 297)
 
@@ -1988,3 +1544,9 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 19/2002 published on 24 May 2002)|
 ||Date of Second and Third Readings|8 July 2002|
 ||Date of commencement|2 September 2002|
+|9.|**Act 34 of 2002—Media Development Authority of Singapore Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|1 October 2002|
+|||(Bill No. 37/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|1 January 2003|
