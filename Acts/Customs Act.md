@@ -308,6 +308,8 @@
 
 - [136 Penalty for tapping palm trees for toddy](#Penalty-for-tapping-palm-trees-for-toddy)
 
+- [136A Motor vehicle leaving Singapore without more than half a tank of motor spirit](#Motor-vehicle-leaving-Singapore-without-more-than-half-a-tank-of-motor-spirit)
+
 - [137 Penalty for assaulting or obstructing officers of customs and rescuing goods](#Penalty-for-assaulting-or-obstructing-officers-of-customs-and-rescuing-goods)
 
 - [138 Penalty for offering or receiving bribes](#Penalty-for-offering-or-receiving-bribes)
@@ -2043,6 +2045,20 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [132
 
+### Motor vehicle leaving Singapore without more than half a tank of motor spirit
+
+136A\.—(1) Except with the written permission of the Director-General, any person, being in charge of a motor vehicle registered under the Road Traffic Act (Cap. 276), who leaves or attempts to leave Singapore in that motor vehicle without more than half of the total capacity of its fuel supply tank filled with motor spirit shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+
+(2) For the purposes of subsection (1) —
+
+(a) where a motor vehicle is driven past the Customs gantry before the departure bay of the Immigration Checkpoint at Woodlands, the person in charge of that motor vehicle shall be presumed, until the contrary is proved, to have attempted to leave Singapore in that motor vehicle;
+
+(b) where a motor vehicle is fitted with an instrument or gauge which indicates or measures the amount of motor spirit in its fuel supply tank, the indication or measurement on that instrument or gauge shall until the contrary is proved be evidence of the amount of motor spirit in the fuel supply tank of that motor vehicle;
+
+(c) the proper officer of customs may measure or otherwise ascertain the quantity of motor spirit carried in the fuel supply tank of any motor vehicle registered under the Road Traffic Act.
+
+[Act 19 of 1989 wef 17/04/1989]
+
 ### Penalty for assaulting or obstructing officers of customs and rescuing goods
 
 137\. Every person who —
@@ -2253,3 +2269,8 @@ This Legislative History is provided for the convenience of users of the Customs
 ||Date of commencement|1 October 1982|
 |17.|**1985 Revised Edition—Customs Act**|
 ||Date of operation|30 March 1987|
+|18.|**Act 19 of 1989—Customs (Amendment) Act 1989**|
+||Date of First Reading|13 March 1989|
+|||(Bill No. 20/89 published on 14 March 1989)|
+||Date of Second and Third Readings|7 April 1989|
+||Date of commencement|17 April 1989|
