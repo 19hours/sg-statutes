@@ -2556,6 +2556,8 @@ DUTIES, DISQUALIFICATION AND DISABILITIES OF BANKRUPT
 
 129\. A bankrupt shall, in addition to any other duty specified in this Act —
 
+(1) A bankrupt shall, in addition to any other duty specified in this Act —
+
 (a) make discovery of and deliver all his property that is under his possession or control to the Official Assignee;
 
 (b) deliver to the Official Assignee all books, records, documents, writings and papers including (without restricting the generality of the foregoing), any documents or deeds of title, insurance policies and tax records and returns and copies thereof in any way relating to his property or affairs;
@@ -2583,6 +2585,20 @@ DUTIES, DISQUALIFICATION AND DISABILITIES OF BANKRUPT
 (m) generally do all such acts and things in relation to his property and the distribution of the proceeds among his creditors as may be reasonably required by the Official Assignee or prescribed by the rules or directed by the court by any order on any application by the Official Assignee or by any of his creditors; and
 
 (n) until he has been discharged from bankruptcy, keep the Official Assignee advised at all times of his place of residence or address.
+
+[6/2004 wef 08/03/2004]
+
+(2) Where a bankrupt has changed his residential address and has made a report of the change under section 8 of the National Registration Act (Cap. 201) —
+
+(a) he shall be deemed to have informed the Official Assignee of the change of his residential address in compliance with subsection (1)(n); and
+
+(b) the new residential address as reported by him under section 8 of the National Registration Act shall, unless he informs the Official Assignee in writing to the contrary, be deemed to be his last known address for the purpose of subsection (3).
+
+[6/2004 wef 08/03/2004]
+
+(3) Any notice or process given or served upon the bankrupt at his last known address shall be deemed to have been duly given or served and shall be conclusive evidence of the fact of service.
+
+[6/2004 wef 08/03/2004]
 
 ### Disqualification of bankrupt
 
@@ -2960,11 +2976,17 @@ shall, if it appears to be sealed with the seal of the court or purports to be s
 
 ### List of undischarged bankrupts to be kept
 
-163\.—(1) A list of undischarged bankrupts shall be kept by the Official Assignee and shall be published in theGazetteat such times as the Minister may direct, but not less than once in each year.
+163\.—(1) The Official Assignee shall maintain, in such form or manner as he thinks fit —
 
-(2) The Registrar shall keep a list of all bankruptcy orders made; and on that list every such order shall be forthwith entered under the headings of the letters of the alphabet.
+(a) a list of undischarged bankrupts; and
 
-(3) Every order rescinding, annulling or discharging any bankruptcy order and every notice of discharge given under section 125(2) shall be noted in the list against the order rescinded, annulled or discharged.
+(b) a record of every bankruptcy order and every order rescinding, annulling or discharging any bankruptcy order,
+
+and may allow any person, on payment of the prescribed fee, to inspect or otherwise have access to any part of such list or record as the Official Assignee may determine.
+
+(2) Where the question arises as to whether a person is an undischarged bankrupt, a certificate from the Official Assignee stating whether or not that person is an undischarged bankrupt shall be prima facie evidence of the facts stated therein.
+
+[6/2004 wef 08/03/2004]
 
 ### Unclaimed and undistributed moneys
 
@@ -3188,6 +3210,12 @@ This Legislative History is provided for the convenience of users of the Bankrup
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003|
 |||(section 4 — Amendment of Bankruptcy Act)|
+|12.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 4/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|8 March 2004|
+|||(section 2 — Amendment of Bankruptcy Act)|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
