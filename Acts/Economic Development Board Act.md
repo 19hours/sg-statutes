@@ -76,9 +76,9 @@
 
 (Original Enactment: Reprint 19 of 1966)
 
-REVISED EDITION 1985
+REVISED EDITION 1992
 
-(30th March 1987)
+(9th March 1992)
 
 An Act to establish the Economic Development Board.
 
@@ -116,11 +116,9 @@ An Act to establish the Economic Development Board.
 
 (g) the business of a tourist enterprise as defined in the Tourist Promotion Board Act [Cap. 328];
 
-[Act 11 of 1989 wef 07/04/1989]
-
 “underwrite” means to contract, with or without conditions, to subscribe for stocks, shares, bonds or debentures of a business enterprise with a view to the resale of the whole or part of it.
 
-[Act 11 of 1989 wef 07/04/1989]
+[11/89]
 
 ### Establishment of Economic Development Board
 
@@ -142,17 +140,11 @@ An Act to establish the Economic Development Board.
 
 (b) not less than 4 and not more than 11 other members who shall be appointed by the Minister.
 
-[Act 11 of 1989 wef 07/04/1989]
-
 (2) The quorum of the Board shall be 4.
 
 (3) The Board shall meet at such times and places as the Board may determine.
 
-[Act 11 of 1989 wef 07/04/1989]
-
 (4) The members of the Board appointed by the Minister under subsection (1)(b) shall, unless their appointment is revoked by the Minister under subsection (11), or unless they resign during their period of office, hold office for a term of 3 years or for such shorter period as the Minister may in any case determine.
-
-[Act 11 of 1989 wef 07/04/1989]
 
 (5) The Minister may appoint not more than two members of the Board to be Deputy Chairmen of the Board.
 
@@ -180,6 +172,10 @@ may exercise any of the functions of the Chairman.
 
 (11) The Minister may at any time revoke the appointment of the Chairman or of any other member of the Board.
 
+[17/75]
+
+[11/89]
+
 ### Functions of Board
 
 5A\.—(1) The functions of the Board are —
@@ -198,11 +194,9 @@ may exercise any of the functions of the Chairman.
 
 (g) to identify and encourage key companies to establish their international operational headquarters and undertake a wide range of regional service and business activities in Singapore.
 
-(2) For the purpose of subsection (1)(a),
+(2) For the purpose of subsection (1)(a), “international total business centre” means a centre which facilitates and encourages the development of all forms of business activities in areas of design, production, marketing and distribution and all types of corporate services.
 
-“international total business centre” means a centre which facilitates and encourages the development of all forms of business activities in areas of design, production, marketing and distribution and all types of corporate services.
-
-[Act 11 of 1989 wef 07/04/1989]
+[11/89]
 
 ### Directions by Minister
 
@@ -218,7 +212,7 @@ may exercise any of the functions of the Chairman.
 
 (3) The Board may, with the approval of the Minister, appoint another person to be a temporary chief executive officer during the absence, or incapacity owing to illness or otherwise, of the chief executive officer.
 
-[Act 11 of 1989 wef 07/04/1989]
+[11/89]
 
 ### Appointment of officers and employees
 
@@ -266,19 +260,13 @@ may exercise any of the functions of the Chairman.
 
 (2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman or the chief executive officer of the Board all or any of the powers, functions and duties by this Act vested in the Board, except the power to borrow money or to raise loans by the issue of bonds and debentures; and any power, function or duty so delegated may be exercised or performed by such committee or the Chairman or the chief executive officer, as the case may be, in the name and on behalf of the Board.
 
-[Act 11 of 1989 wef 07/04/1989]
-
 (3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any employee thereof all or any of the Board’s functions and duties by this Act vested in the Board, except the power to borrow money or to raise loans or grant loans or advances to or subscribe to or underwrite the issue of stocks, shares, bonds or debentures of business enterprises; and any power, function or duty so delegated may be exercised or performed by such employee in the name and on behalf of the Board.
-
-[Act 11 of 1989 wef 07/04/1989]
 
 (4) The Board may continue to exercise any power conferred upon it, or perform any function or duty under this Act, notwithstanding the delegation of such power, function or duty under this section.
 
 ### Appointment of member to act on behalf of Chairman outside Singapore
 
 12\. The Chairman of the Board may, with the approval of the Minister, appoint a member of the Board to perform the functions of the Chairman outside Singapore in relation to such matters or class of matters as the Chairman may specify.
-
-[11A
 
 [17/75]
 
@@ -288,19 +276,13 @@ may exercise any of the functions of the Chairman.
 
 (2) Any expense incurred by the Board or any member, employee or other person so acting under the direction of the Board shall be borne by and repaid out of the funds of the Board.
 
-[12
-
 ### Members and employees of Board deemed to be public servants
 
 14\. The members of the Board and the employees thereof, of every description, shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
 
-[13
-
 ### Provision of working capital
 
 15\. For the purpose of enabling the Board to carry out its objects and to defray expenditure properly chargeable to capital account, including defraying initial expenses, and for the provision of working capital, the Minister may authorise payment to the Board of such sums as he may determine.
-
-[14
 
 ### Borrowing powers
 
@@ -324,15 +306,11 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 (5) For the purposes of subsection (1), the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Board for the purchase of goods, materials or things.
 
-[15
-
 ### Powers of Board
 
 17\.—(1) The Board shall have power —
 
 (a) with the written approval of the Minister, to underwrite the issue of stocks, shares, bonds or debentures by business enterprises;
-
-[Act 11 of 1989 wef 07/04/1989]
 
 (b) with the written approval of the Minister, to guarantee, on such terms and conditions as may be agreed upon, loans raised by business enterprises which —
 
@@ -340,31 +318,19 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 (ii) are floated in the public market;
 
-[Act 11 of 1989 wef 07/04/1989]
-
 (c) to grant loans or advances to, or subscribe to stocks, shares, bonds or debentures of business enterprises;
-
-[Act 11 of 1989 wef 07/04/1989]
 
 (d) to manage, control or supervise business enterprises by nominating directors or advisers or otherwise collaborating with them or entering into partnerships or any other arrangement for jointly working with them;
 
-[Act 11 of 1989 wef 07/04/1989]
-
 (e) with the written approval of the Minister, to establish, sell shares of, invest in and manage business enterprises;
 
-[Act 11 of 1989 wef 07/04/1989]
-
 (f) to act as agent for the Government or, with its approval, for any other person in the transaction of any business with a business enterprise in respect of loans or advances granted or debentures subscribed by the Government or such other person;
-
-[Act 11 of 1989 wef 07/04/1989]
 
 (g) to acquire, sell or lease land for the purposes of industrial sites, for the housing of employees or for general economic development;
 
 (h) to lay out industrial estates for sale or lease;
 
 (i) to provide technical advice and assistance to business enterprises and to build up a corps of engineering and managerial staff to provide such assistance;
-
-[Act 11 of 1989 wef 07/04/1989]
 
 (j) to exercise all functions and powers and perform all duties which, under or by virtue of any other written law, are or may be or become vested or delegated to it;
 
@@ -376,31 +342,21 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 (n) to act as agents for any business enterprise;
 
-[Act 11 of 1989 wef 07/04/1989]
-
 (o) to carry out experimental work and to conduct, promote and encourage the study of, and research in, matters connected with any of the Board’s purposes and functions;
 
 (p) from time to time to invest any of the funds of the Board in securities authorised for the investment of trust funds by any written law for the time being in force, and, with the approval of the Minister, in other securities, within or otherwise than within Singapore;
 
 (q) with the concurrence of the Housing and Development Board, to finance or carry out or assist in carrying out any scheme in connection with urban redevelopment;
 
-[Act 11 of 1989 wef 07/04/1989]
-
 (qa) to foster the growth of the services industry by developing the appropriate infrastructure and formulating and implementing investment promotion plans, promotional incentives and marketing strategies to support local and international firms and businesses in the services sector in Singapore; and
 
-[Act 11 of 1989 wef 07/04/1989]
-
 (r) generally to do all such matters and things as may be incidental to or consequential upon the exercise of its powers or the discharge of its duties under this Act.
-
-[38/73]
 
 (2) The Board may, in addition to the powers vested in it by subsection (1), exercise such other powers as the Minister may authorise the Board in writing to exercise.
 
 (3) The Board shall, when it is exercising powers authorised by the Minister under subsection (2), be deemed to be exercising powers vested in it by subsection (1).
 
-(4) For the purposes of subsection (1)(qa),
-
-“services” means all or any of the following services:
+(4) For the purposes of subsection (1)(qa), “services” means all or any of the following services:
 
 (a) business services;
 
@@ -428,15 +384,13 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 (m) exhibition services.
 
-[Act 11 of 1989 wef 07/04/1989]
+[38/73]
 
-[16
+[11/89]
 
 ### Rights of Board in case of default
 
 18\.—(1) Where any business enterprise which is under a liability to the Board under an agreement makes any default in repayment or otherwise fails to comply with the terms of its agreement with the Board, the Board shall, without prejudice to any other rights or remedies which it may possess under the law, have the right to take over the management of the business enterprise, as well as the right to sell and realise the property pledged, mortgaged, hypothecated or assigned to the Board.
-
-[Act 11 of 1989 wef 07/04/1989]
 
 (2) Any transfer of property made by the Board in exercise of its powers of sale and realisation under subsection (1) shall vest in the transferee all rights in or to the property transferred as if the sale had been made by the owner of the property.
 
@@ -444,9 +398,7 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 (4) Where the Board takes over the management of a business enterprise under subsection (1), it shall be deemed to be the owner of the business enterprise for purposes of suits by or against such business enterprise and shall sue and be sued in the name of the owner of the business enterprise.
 
-[Act 11 of 1989 wef 07/04/1989]
-
-[17
+[11/89]
 
 ### Power to call for repayment before agreed period
 
@@ -456,25 +408,13 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 (b) if the business enterprise has failed to comply with the terms of its contract with the Board in the matter of the loan or advance;
 
-[Act 11 of 1989 wef 07/04/1989]
-
 (c) if there is a reasonable apprehension that the business enterprise is unable to pay its debts or that proceedings for liquidation may be commenced in respect thereof;
-
-[Act 11 of 1989 wef 07/04/1989]
 
 (d) if the property pledged, mortgaged, hypothecated or assigned to the Board as security for the loan or advance is not insured and kept insured by the business enterprise to the satisfaction of the Board, or depreciates in value, in the opinion of the Board, by more than 20% and further security to the satisfaction of the Board is not given;
 
-[Act 11 of 1989 wef 07/04/1989]
-
 (e) if, without the permission of the Board, machinery and other equipment, whether forming part of the security or otherwise, is removed from the premises of the business enterprise without being replaced; or
 
-[Act 11 of 1989 wef 07/04/1989]
-
 (f) if for any reason it is necessary in the opinion of the Board to protect the interests of the Board.
-
-[Act 11 of 1989 wef 07/04/1989]
-
-[18
 
 ### Special provisions for enforcement of claims by Board
 
@@ -484,37 +424,23 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 (b) for transferring the management of the business enterprise to the Board; or
 
-[Act 11 of 1989 wef 07/04/1989]
-
 (c) for an interim injunction where there is apprehension of the machinery or the equipment being removed from the premises of the business enterprise without the permission of the Board.
-
-[Act 11 of 1989 wef 07/04/1989]
 
 (2) An application under subsection (1) shall state the nature and extent of the liability of the business enterprise to the Board, the ground on which it is made and such other particulars as may be prescribed.
 
-[Act 11 of 1989 wef 07/04/1989]
+(3) Where the application is for the reliefs mentioned in subsection (1)(a) and (c), the Judge shall make an interim order attaching the security or so much of the property of the business enterprise as would on being sold realise in his estimation an amount equivalent in value to the outstanding liability of the business enterprise to the Board, together with the costs of the proceedings taken under this section with or without an interim injunction restraining the business enterprise from transferring or removing its machinery or equipment.
 
-(3) Where the application is for the reliefs mentioned in subsection (1)(a) and (c), the judge shall make an interim order attaching the security or so much of the property of the business enterprise as would on being sold realise in his estimation an amount equivalent in value to the outstanding liability of the business enterprise to the Board, together with the costs of the proceedings taken under this section with or without an interim injunction restraining the business enterprise from transferring or removing its machinery or equipment.
+(4) Where the application is for the relief mentioned in subsection (1)(b), the Judge shall grant an interim injunction restraining the business enterprise from transferring or removing its machinery or equipment and issue a notice calling upon the business enterprise to show cause on a date to be specified in the notice as to why the management of the business enterprise should not be transferred to the Board.
 
-[Act 11 of 1989 wef 07/04/1989]
+(5) Before making any order under subsection (3) or (4), the Judge may, if he thinks fit, examine the officer making the application.
 
-(4) Where the application is for the relief mentioned in subsection (1)(b), the judge shall grant an interim injunction restraining the business enterprise from transferring or removing its machinery or equipment and issue a notice calling upon the business enterprise to show cause on a date to be specified in the notice as to why the management of the business enterprise should not be transferred to the Board.
+(6) At the same time as he makes an order under subsection (3), the Judge shall issue to the business enterprise a notice accompanied by copies of the order, the application and the evidence, if any, recorded by him, calling upon the business enterprise to show cause on a date to be specified in the notice as to why the interim order of attachment should not be made absolute or the injunction confirmed.
 
-[Act 11 of 1989 wef 07/04/1989]
+(7) If no cause is shown on or before the date specified in the notice under subsections (4) and (6), the Judge shall forthwith make the interim order absolute and direct the sale of the attached property or transfer the management of the business enterprise to the Board or confirm the injunction.
 
-(5) Before making any order under subsection (3) or (4), the judge may, if he thinks fit, examine the officer making the application.
+(8) If cause is shown, the Judge shall proceed to investigate the claim of the Board and the provisions of the Rules of the Supreme Court shall as far as practicable apply to such proceedings.
 
-(6) At the same time as he makes an order under subsection (3), the judge shall issue to the business enterprise a notice accompanied by copies of the order, the application and the evidence, if any, recorded by him, calling upon the business enterprise to show cause on a date to be specified in the notice as to why the interim order of attachment should not be made absolute or the injunction confirmed.
-
-[Act 11 of 1989 wef 07/04/1989]
-
-(7) If no cause is shown on or before the date specified in the notice under subsections (4) and (6), the judge shall forthwith make the interim order absolute and direct the sale of the attached property or transfer the management of the business enterprise to the Board or confirm the injunction.
-
-[Act 11 of 1989 wef 07/04/1989]
-
-(8) If cause is shown, the judge shall proceed to investigate the claim of the Board and the provisions of the Rules of the Supreme Court shall as far as practicable apply to such proceedings.
-
-(9) On an investigation made under subsection (8), the judge shall make an order —
+(9) On an investigation made under subsection (8), the Judge shall make an order —
 
 (a) confirming the order of attachment and directing the sale of the attached property;
 
@@ -526,35 +452,31 @@ Provided that the approval of the Minister shall not be required, under this sub
 
 (e) transferring the management of the business enterprise to the Board or rejecting the claim made in this behalf:
 
-Provided that when making any order under paragraph (c), the judge may make such further orders as he thinks necessary to protect the interests of the Board, and may apportion the costs of the proceedings in such manner as he thinks fit.
+Provided that when making any order under paragraph (c), the Judge may make such further orders as he thinks necessary to protect the interests of the Board, and may apportion the costs of the proceedings in such manner as he thinks fit.
 
-[Act 11 of 1989 wef 07/04/1989]
-
-(10) Unless the Board intimates to the judge that it will not appeal against any order releasing any property from attachment, the order shall not be given effect to until the expiry of the period fixed under subsection (12) within which an appeal may be lodged, or if an appeal is lodged, unless the Court of Appeal otherwise directs, until the appeal is disposed of.
+(10) Unless the Board intimates to the Judge that it will not appeal against any order releasing any property from attachment, the order shall not be given effect to until the expiry of the period fixed under subsection (12) within which an appeal may be lodged, or if an appeal is lodged, unless the Court of Appeal otherwise directs, until the appeal is disposed of.
 
 (11) An order of attachment or sale of property under this section shall be carried into effect as far as may be practicable in the manner provided in the Rules of the Supreme Court for the seizure and sale of property in execution of a judgment or order, as if the Board were the judgment creditor.
 
 (12) Any party aggrieved by an order made under subsection (7) or (9) may, within 30 days from the date of the order, appeal to the Court of Appeal, and, upon the appeal, that Court may after hearing the parties make such orders as it thinks proper.
 
-[19
+[11/89]
 
 ### Compulsory acquisition of land
 
 21\. Where any immovable property, not being State land, is needed for the purposes of the Board, the Board may request and the President may if he thinks fit direct the acquisition of that property; in such a case, the property may be acquired in accordance with the provisions of any written law relating to the acquisition of land for a public purpose and any declaration required under any such written law that the property is so needed may be made (notwithstanding that compensation is to be paid out of the funds of the Board) and the declaration shall have effect as if it were a declaration that the property is needed for a public purpose made in accordance with that written law.
 
-[20
-
 [7/83]
 
 ### Compulsory acquisition of property before 15th April 1983 not to be called in question
 
-22\.\*—(1) No compulsory acquisition of any immovable property before 15th April 1983 shall be called in question in any court on the ground that the acquisition was not in compliance with section 21 as in force before that date.
+22\.—(1) No compulsory acquisition of any immovable property before 15th April 1983 shall be called in question in any court on the ground that the acquisition was not in compliance with section 21 as in force before that date.
 
 (2) Any action or proceedings pending after 15th April 1983 in any court in respect of any matter to which subsection (1) applies shall be dismissed on application by any party, and the court may make such order as to costs as it thinks fit.
 
-\*Section 3 of the Statutes (Miscellaneous Amendments) Act 1983 (No. 7/83).
+[7/83]
 
-23\. [Repealed by Act 11 of 1989 wef 07/04/1989]
+23\. [Repealed byAct 11/89]
 
 ### Annual report
 
@@ -562,13 +484,13 @@ Provided that when making any order under paragraph (c), the judge may make such
 
 (2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
 
-[Act 11 of 1989 wef 07/04/1989]
+[11/89]
 
 ### Financial provisions
 
 25\. The financial provisions set out in the Schedule shall have effect with respect to the Board.
 
-[Act 11 of 1989 wef 07/04/1989]
+[11/89]
 
 ### Special provisions as to sale or purchase by Board of land, etc.
 
@@ -576,9 +498,7 @@ Provided that when making any order under paragraph (c), the judge may make such
 
 (a) in the case of land registered under the Registration of Deeds Act [Cap. 269], section 12 of that Act shall not apply; and
 
-(b) in the case of land registered under the Land Titles Act [Cap. 157], where a solicitor is not employed by the Board, a certificate of an officer of the Board shall be sufficient for the purposes of section 54(4) of the Land Titles Act.
-
-[24
+(b) in the case of land registered under the Land Titles Act [Cap. 157], where a solicitor is not employed by the Board, a certificate of an officer of the Board shall be sufficient for the purposes of section 54(4) of that Act.
 
 ### Affixing of common seal
 
@@ -588,11 +508,9 @@ Provided that when making any order under paragraph (c), the judge may make such
 
 (b) an officer of the Board authorised by the Board, either generally or specially, to act for that purpose.
 
-[17/75]
-
 (2) Any document purporting to be a document duly executed under the seal of the Board shall be admissible in evidence and shall, unless the contrary is proved, be deemed to be a document so executed.
 
-[24A
+[17/75]
 
 ### Regulations
 
@@ -610,19 +528,17 @@ Provided that when making any order under paragraph (c), the judge may make such
 
 (f) generally for the exercise of the Board’s powers under the provisions of this Act.
 
-(2) All regulations made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication and, if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of 3 months from the date when the regulations are so presented annulling the regulations or any part thereof as from a specified date, the regulations or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new regulations.
-
-[25
+(2) All regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazetteand, if a resolution is passed pursuant to a motion notice whereof has been given for a sitting day not later than the first available sitting day of Parliament next after the expiry of 3 months from the date when the regulations are so presented annulling the regulations or any part thereof as from a specified date, the regulations or such part thereof, as the case may be, shall thereupon become void as from that date but without prejudice to the validity of anything previously done thereunder or to the making of new regulations.
 
 ### Winding up
 
 29\. The Board shall not be wound up except under the authority of an Act.
 
-[26
-
 ## THE SCHEDULE
 
-Section 25.
+Section 25
+
+[11/89]
 
 Financial provisions
 
@@ -640,11 +556,11 @@ Appointment of auditor
 
 Qualification of auditor
 
-4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is an approved company auditor under the Companies Act (Cap. 50).
+4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is an approved company auditor under the Companies Act [Cap. 50].
 
 Remuneration of auditor
 
-5\. The auditor shall be paid out of the funds of the Board.
+5\. The remuneration of the auditor shall be paid out of the funds of the Board.
 
 Powers of auditor
 
@@ -684,9 +600,7 @@ Copy of financial statements and auditor’s report to be forwarded to Auditor-G
 
 Financial statements and auditor’s report to be presented to Parliament
 
-13. The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
-
-[Act 11 of 1989 wef 07/04/1989]
+13\. The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
 ## LEGISLATIVE HISTORY
 
@@ -745,3 +659,5 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 12/89 published on 18 January 1989)|
 ||Date of Second and Third Readings|16 February 1989|
 ||Date of commencement|7 April 1989|
+|12.|**1992 Revised Edition—Economic Development Board Act (Chapter 85)**|
+||Date of operation|9 March 1992|
