@@ -36,7 +36,7 @@
 
 - [14 Liability of owner of vehicles for parking offences](#Liability-of-owner-of-vehicles-for-parking-offences)
 
-- [15 Power to seize abandoned vehicles](#Power-to-seize-abandoned-vehicles)
+- [15 Removal and detention, etc., of abandoned or illegally parked vehicles](#Removal-and-detention-etc-of-abandoned-or-illegally-parked-vehicles)
 
 - [16 Penalty](#Penalty)
 
@@ -78,9 +78,25 @@ An Act relating to parking places.
 
 “driver” includes the person for the time being in charge or control of a vehicle, and “drive” shall be construed accordingly;
 
+“heavy vehicle” means —
+
+(a) any heavy goods vehicle or concrete mixer, the maximum laden weight of which exceeds 5,000 kilograms;
+
+(b) any bus with a seating capacity of more than 15 persons, not inclusive of the driver;
+
+(c) any trailer, container trailer, low loader or flat-bed trailer, the maximum laden weight of which exceeds 5,000 kilograms; and
+
+(d) any mobile crane or recovery vehicle the unladen weight of which exceeds 2,500 kilograms;
+
+[Act 34 of 1993 wef 01/04/1994]
+
 “licence” means a licence to maintain or operate any private parking place granted under this Act;
 
 “licensee” means the holder of a valid licence;
+
+“motor vehicle” means a mechanically propelled vehicle intended or adapted for use on roads;
+
+[Act 34 of 1993 wef 01/04/1994]
 
 “officer” means a public officer or an employee of a statutory body;
 
@@ -88,11 +104,23 @@ An Act relating to parking places.
 
 “parking place” means any part of a road or any other place on or in which the parking of vehicles is authorised under section 3;
 
-“private parking place” means any land or premises or part thereof owned or occupied by any person other than the Government and used for the parking of 5 or more motor vehicles, and includes any land or premises or part thereof used for the parking of 5 or more motor vehicles which is not authorised under section 3;
+“private parking place” means any land or premises or part thereof owned or occupied by any person other than the Government and used for the parking or housing of —
+
+(a) 5 or more motor vehicles other than heavy vehicles; or
+
+(b) one or more heavy vehicles, whether or not in addition to any motor vehicle which is not a heavy vehicle,
+
+but does not include any parking place provided under section 3;
+
+[Act 34 of 1993 wef 01/04/1994]
 
 “Superintendent” means the Superintendent of Car Parks or a Deputy or Assistant Superintendent of Car Parks appointed under section 2A;
 
-“vehicle” means any vehicle whether mechanically propelled or otherwise.
+“trailer” means a vehicle drawn by a motor vehicle.
+
+[Act 34 of 1993 wef 01/04/1994]
+
+[Deleted by Act 34 of 1993 wef 01/04/1993]
 
 [10/82; 6/91]
 
@@ -152,13 +180,23 @@ Provided that no such order shall authorise the use of any part of a road so as 
 
 8\.—(1) The Minister may make rules —
 
-(a) as to the use of parking places and in particular as to the vehicles or class of vehicles which are entitled to use any such parking places and as to the conditions upon and the times during which the parking places may be used; and
+(a) as to the use of parking places and private parking places and in particular as to the vehicles or class of vehicles which are entitled to use any such parking places and private parking places and as to the conditions upon and the times during which the parking places and private parking places may be used;
 
-(b) for the control, regulation or supervision by registration, licensing or otherwise of private parking places, garages and places kept or used for the housing or parking of vehicles except garages or places used in connection with private dwelling-houses for housing or parking vehicles kept for private use only.
+[Act 34 of 1993 wef 01/04/1994]
+
+(b) for the control, regulation or supervision by registration, licensing or otherwise of private parking places, garages and places kept or used for the housing or parking of vehicles except garages or places used in connection with private dwelling-houses for housing or parking vehicles kept for private use only; and
+
+[Act 34 of 1993 wef 01/04/1994]
+
+(c) for the control and regulation of the parking of heavy vehicles by the issue of vehicle parking certificates or such other documents as the Superintendent may determine and for the matters connected therewith.
+
+[Act 34 of 1993 wef 01/04/1994]
 
 (2) Such rules may —
 
-(a) prescribe fees to be paid for the grant or renewal of any licence; and
+(a) prescribe fees to be paid for the grant or renewal of any licence and the issue, renewal or replacement of any vehicle parking certificate or other document in connection with the regulation and control of the parking of heavy vehicles; and
+
+[Act 34 of 1993 wef 01/04/1994]
 
 (b) prescribe the time within which charges prescribed by section 9 shall be paid and prescribe surcharges to be paid by any person who failed to pay the charges prescribed by that section within the prescribed time.
 
@@ -238,21 +276,53 @@ Provided that no such order shall authorise the use of any part of a road so as 
 
 “parking offence” means an offence of parking a vehicle or causing or permitting a vehicle to stand, wait or be parked in contravention of any rules made under this Act.
 
-### Power to seize abandoned vehicles
+### Removal and detention, etc., of abandoned or illegally parked vehicles
 
 15\.—(1) Where a vehicle —
 
-(a) has broken down or been permitted to remain at rest in a parking place in such a position or in such condition or in such circumstances as to appear to the Superintendent to have been abandoned without lawful authority; or
+(a) has been permitted to remain at rest in a parking place in such a position or in such condition or circumstances as to appear to the Superintendent to have been abandoned without lawful authority; or
 
 (b) is parked in a parking place in contravention of any provision of this Act or any rules made thereunder,
 
-the Superintendent may remove and detain the vehicle found in the parking place and the owner thereof shall pay all expenses incurred by the Superintendent in that behalf and all fines and charges imposed under this Act and any rules made thereunder in respect of such offence and the vehicle shall remain at the risk of the owner and the person offending until all the fines, charges and expenses have been paid.
+the Superintendent may, in his discretion and by himself or any person authorised by him in that behalf —
 
-[6/91]
+(i) remove the vehicle to a place of safety or any other place and detain it thereat; or
 
-(2) When any vehicle is detained under this section, the Superintendent shall with all reasonable despatch give notice in writing to the owner (if the name and address of the owner are known to him) of the detention and if the vehicle is not claimed by its owner within one month of the date of its detention, the Superintendent after giving one month’s notice in theGazetteof his intention to do so may sell by public auction or otherwise dispose of the vehicle. The proceeds of the sale or disposal of the vehicle shall be applied in payment of any expenses incurred in carrying out the provisions of this section and thereafter shall be applied in payment of all charges and fines payable under this Act and any rules made thereunder and the surplus, if any, shall be paid to the owner of the vehicle, or if not claimed by the owner of the vehicle within 12 months of the date of the sale or disposal shall be forfeited to the Director-General.
+(ii) prevent the removal of the vehicle from the parking place without his consent by fixing an immobilisation device to the vehicle.
 
-(3) The Director-General or the Superintendent shall not be liable for any damage to or loss of the vehicle or the contents thereof not caused wilfully or negligently by the Director-General or the Superintendent or any of his employees or agents under subsections (1) and (2).
+(2) Where the Superintendent has removed any vehicle to a place of safety or any other place pursuant to subsection (1)(i) or fixed an immobilisation device to the vehicle pursuant to subsection (1)(ii), the Superintendent shall, with all reasonable despatch, give notice in writing to the owner of the vehicle as to the procedure by which he may secure the release of the vehicle, and such notice shall be served on the owner of the vehicle —
+
+(a) in the case where the Superintendent has removed the vehicle to a place of safety or any other place, in accordance with section 17; or
+
+(b) in the case where the Superintendent has fixed an immobilisation device to the vehicle, by affixing the notice onto the windscreen or any other conspicuous part of the vehicle.
+
+(3) No vehicle which has been removed and detained by the Superintendent or to which an immobilisation device has been fixed in accordance with this section shall be released to the owner of the vehicle except —
+
+(a) by or under the direction of the Superintendent or an officer authorised by him; and
+
+(b) upon the owner of the vehicle having paid all expenses incurred by the Superintendent or the authorised officer in that behalf, and such other charges as may be imposed under this Act or any rules made thereunder,
+
+and the vehicle shall remain at the risk of the owner of the vehicle until all such expenses and charges have been paid.
+
+(4) Any person who, without the authority of the Superintendent, removes or tampers with any notice affixed to a vehicle under subsection (2)(b) shall be guilty of an offence.
+
+(5) Any person who, without being authorised to do so in accordance with this section, removes or attempts to remove —
+
+(a) any vehicle from any place at which it is being detained under this section; or
+
+(b) an immobilisation device fixed to a vehicle in accordance with this section,
+
+shall be guilty of an offence.
+
+(6) Where any vehicle which has been removed and detained by the Superintendent or to which an immobilisation device has been fixed in accordance with this section is not claimed by its owner within one month of the date of its detention or immobilisation, the Superintendent may, after giving one month’s notice in theGazetteof his intention to do so, sell the vehicle by public auction or otherwise dispose of it in any manner as he thinks fit.
+
+(7) Where a vehicle has been sold or otherwise disposed of under subsection (6), the proceeds of the sale or disposal of the vehicle shall be applied in payment of any expenses incurred in carrying out the provisions of this section and thereafter shall be applied in payment of all charges and fines payable under this Act and any rules made thereunder and the surplus, if any, shall be paid to the owner of the vehicle, or if not claimed by the owner of the vehicle within 12 months of the date of the sale or disposal, shall be forfeited to the Director-General.
+
+(8) The Director-General or the Superintendent shall not be liable for any damage to or loss of the vehicle or the contents thereof not caused wilfully or negligently by the Director-General or the Superintendent or any of his employees or agents in the exercise of their powers under this section.
+
+(9) In this section, “immobilisation device” means any device or appliance designed or adapted to be fixed to any part of a vehicle for the purpose of preventing the vehicle from being driven or otherwise put in motion, being a device or appliance of a type approved by the Superintendent for use for that purpose in accordance with this section.
+
+[Act 34 of 1993 wef 01/04/1994]
 
 ### Penalty
 
@@ -331,3 +401,8 @@ This Legislative History is provided for the convenience of users of the Parking
 ||Date of commencement|1 April 1991|
 |5.|**1992 Revised Edition—Parking Places Act (Chapter 214)**|
 ||Date of operation|9 March 1992|
+|6.|**Act 34 of 1993—Parking Places (Amendment) Act 1993**|
+||Date of First Reading|30 August 1993|
+|||(Bill No. 28/93 published on 31 August 1993)|
+||Date of Second and Third Readings|12 October 1993|
+||Date of commencement|1 January 1994|
