@@ -22,7 +22,9 @@
 
 - [6 Approval of plans and appointment of qualified person](#Approval-of-plans-and-appointment-of-qualified-person)
 
-- [7 Permit to carry out building works](#Permit-to-carry-out-building-works)
+- [7 Permit to carry out structural works](#Permit-to-carry-out-structural-works)
+
+- [7A Power to order stoppage of building works](#Power-to-order-stoppage-of-building-works)
 
 - [8 Supervision of building works](#Supervision-of-building-works)
 
@@ -79,6 +81,8 @@
 - [22F Penalty](#Penalty)
 
 [**Part IV Dangerous Buildings**](#Part-IV)
+
+- [22G Interpretation of this Part](#Interpretation-of-this-Part)
 
 - [23 Dangerous buildings](#Dangerous-buildings)
 
@@ -178,7 +182,7 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“accredited checker” means a person who is registered as an accredited checker under section 16;
+“accredited checker” means a person who is registered as an accredited checker under section 16, whether acting on his own behalf or on behalf of an accredited checking organisation;
 
 “accredited checking organisation” means an accredited checking organisation registered as such under section 16A;
 
@@ -187,6 +191,12 @@ PRELIMINARY
 [47/2007 wef 15/02/2008]
 
 “air-conditioning unit” includes a window air-conditioning unit and any condensing equipment of an air-conditioning unit;
+
+“amendment plans” means the plans showing any deviation from, or any amendment or addition to, any plan of building works approved by the Commissioner of Building Control under section 6(2);
+
+[18/2003 wef 01/01/2004]
+
+[47/2007 wef 15/02/2008]
 
 “analyst” means an analyst approved by the Commissioner of Building Control;
 
@@ -248,6 +258,14 @@ and includes site formation works and any other kind of building operation conne
 
 (e) the common property of any building which is not subdivided, includes any person receiving any rent or charge for the maintenance and management of that common property;
 
+“plans”, in relation to any building works —
+
+(a) includes drawings, details, diagrams, structural details and calculations showing or relating to the building works; and
+
+(b) if prepared in electronic form, includes the medium in which the plans of building works have been stored;
+
+[18/2003 wef 01/01/2004]
+
 “premises” includes buildings, lands, easements and hereditaments of any tenure;
 
 “qualified person” means a person who is registered as —
@@ -261,6 +279,10 @@ and includes site formation works and any other kind of building operation conne
 “short-lived materials” means any building materials which are, in the absence of special care, liable to rapid deterioration or are otherwise unsuitable for use in the construction of permanent buildings;
 
 “site supervisor” means a site supervisor of building works appointed under section 10;
+
+“structural works” means works in relation to the structural elements of the building works;
+
+[18/2003 wef 01/01/2004]
 
 “temporary building” means any building or structure constructed of short-lived materials or permitted to be used by the competent authority or Commissioner of Building Control for a period not exceeding 36 months or such other period as may be prescribed;
 
@@ -328,21 +350,15 @@ Control of Building Works
 
 5\.—(1) Except as otherwise provided in this Act, no person shall commence or carry out, or permit or authorise the commencement or carrying out of, any building works unless —
 
-(a) the Commissioner of Building Control has approved all the plans of the building works under section 6; and
+(a) the plans of the building works have been approved by the Commissioner of Building Control under section 6; and
 
-(b) there is in force a permit granted by the Commissioner of Building Control under section 7 to carry out the building works shown in the approved plans of the building works.
+[18/2003 wef 01/01/2004]
 
-[4/99]
+(b) in the case of structural works, there is in force a permit granted by the Commissioner of Building Control under section 7 to carry out the structural works.
 
-(2) Notwithstanding subsection (1), a person may commence or carry out, or permit or authorise the commencement or carrying out of, building works if —
+[18/2003 wef 01/01/2004]
 
-(a) the Commissioner of Building Control has approved the plans relating to the structural elements of those building works under section 6; and
-
-(b) there is in force a permit to carry out those building works granted under section 7.
-
-[4/99]
-
-(3) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(3) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
 ### Approval of plans and appointment of qualified person
 
@@ -366,9 +382,21 @@ Control of Building Works
 
 [18/95; 4/99]
 
-(3) Subject to the provisions of this Act, every person for whom any building works are or are to be carried out shall, before making any application under subsection (1), appoint an appropriate qualified person in respect of those works.
+(3) Subject to the provisions of this Act, every person for whom any relevant building works are or are to be carried out, or the builder of such building works, shall, before an application is made under subsection (1), appoint —
 
-[18/95]
+(a) an appropriate qualified person to prepare the plans of the building works in accordance with the building regulations; and
+
+(b) the same or another appropriate qualified person to supervise the building works as required under section 8.
+
+[18/2003 wef 01/01/2004]
+
+(3A) No qualified person shall supervise any structural works in respect of which a certificate by an accredited checker is required under subsection (1)(c) if he, or any nominee of his, is a partner, an officer or an employee of —
+
+(a) the builder of the building works; or
+
+(b) any associate of the builder of the building works.
+
+[18/2003 wef 01/01/2004]
 
 (4) The qualified person shall, within such period as may be specified by the Commissioner of Building Control or such other period as may be extended by the Commissioner of Building Control, comply with any written direction given by the Commissioner of Building Control under subsection (2) and resubmit the plans of the building works, failing which the plans shall be deemed to have been disapproved by the Commissioner of Building Control.
 
@@ -386,7 +414,7 @@ Control of Building Works
 
 [4/99]
 
-(8) An application under subsection (7) shall be accompanied by the latter plans and, unless otherwise prescribed, by a certificate of an accredited checker in respect of such of the latter plans relating to the structural elements of the building works or proposed building works stating that, to the best of the knowledge and belief of the accredited checker, those plans do not show any inadequacy in the key structural elements of the building to be erected or affected by building works carried out in accordance with those plans.
+(8) An application under subsection (7) shall be accompanied by the amendment plans prepared by the appropriate qualified person appointed under subsection (3) (a) and, unless otherwise prescribed, by a certificate of an accredited checker in respect of such plans relating to the structural elements of the building works or proposed building works stating that, to the best of the knowledge and belief of the accredited checker, those plans do not show any inadequacy in the key structural elements of the building to be erected or affected by building works carried out in accordance with those plans.
 
 (9) Any approval granted in respect of building works under this section shall automatically lapse —
 
@@ -406,31 +434,55 @@ Control of Building Works
 
 [18/95; 4/99]
 
-### Permit to carry out building works
+(12) In subsection (3A), “associate”, in relation to a builder, means —
 
-7\.—(1) An application for a permit to carry out building works shall be made by the person for whom the building works are to be commenced or carried out, the qualified person and the builder appointed in respect of the building works, and shall be accompanied by —
+(a) any body corporate of which the builder is a director, secretary or other officer;
+
+(b) any company in which the builder is a substantial shareholder as defined in section 81 of the Companies Act (Cap. 50);
+
+(c) any beneficiary under a trust or an object of a discretionary trust of which the builder is a trustee;
+
+(d) any party to a partnership to which the builder is also a party; or
+
+(e) any employer or employee of the builder.
+
+[18/2003 wef 01/01/2004]
+
+(13) Any qualified person who contravenes subsection (3A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[18/2003 wef 01/01/2004]
+
+### Permit to carry out structural works
+
+7\.—(1) An application for a permit to carry out structural works shall be made by the person for whom the building works are to be commenced or carried out, the qualified person appointed under section 6(3)(b) to supervise the building works and the builder appointed in respect of the building works, and shall be accompanied by —
 
 (a) a notification, signed by the person for whom the building works are to be commenced or carried out, of the date upon which the building works are to be commenced;
 
-(b) a confirmation signed by the qualified person of his appointment in respect of the building works under section 6(3);
+(b) a confirmation signed by the qualified person of his appointment in respect of the building works under section 6(3)(b);
 
-(c) where appropriate, a notification signed by the qualified person of the appointment of a site supervisor in respect of the building works and a confirmation of the appointment signed by the site supervisor;
+(c) where appropriate —
 
-(d) an acceptance of his appointment in respect of the building works under section 11 and an undertaking of responsibility for strict compliance with the provisions of this Act and the building regulations, both of which shall be signed by the builder; and
+(i) a notification of the appointment of a site supervisor in respect of the structural works signed by the qualified person appointed under section 6(3)(b); and
+
+(ii) a confirmation of the appointment signed by the site supervisor;
+
+[18/2003 wef 01/01/2004]
+
+(d) an acceptance of his appointment in respect of the structural works under section 11 and an undertaking of responsibility for strict compliance with the provisions of this Act and the building regulations, both of which shall be signed by the builder; and
 
 (e) such other documents as the Commissioner of Building Control may require.
 
 [18/95; 4/99]
 
-(2) The Commissioner of Building Control may, on an application made under subsection (1), grant, subject to such terms and conditions as he may impose, a permit to carry out any building works.
+(2) The Commissioner of Building Control may, on an application made under subsection (1), grant, subject to such terms and conditions as he may impose, a permit to carry out any structural works.
 
 [4/99]
 
-(3) The Commissioner of Building Control may revoke a permit to carry out any building works if —
+(3) The Commissioner of Building Control may revoke a permit to carry out any structural works if —
 
-(a) the building works, if commenced, are suspended for a continuous period of more than 3 months; or
+(a) the structural works, if commenced, are suspended for a continuous period of more than 3 months; or
 
-(b) the building works have been or are being carried out in such a manner as, in the opinion of the Commissioner of Building Control —
+(b) the structural works have been or are being carried out in such a manner as, in the opinion of the Commissioner of Building Control —
 
 (i) will cause, or will be likely to cause, a risk of injury to any person or damage to any property;
 
@@ -440,13 +492,35 @@ Control of Building Works
 
 [4/99]
 
-(4) Any permit granted under this section to any person to carry out any building works shall automatically lapse if the person, for any reason, ceases to be —
+(4) Any permit granted under this section to any person to carry out any structural works shall automatically lapse if the person, for any reason, ceases to be —
 
 (a) the person for whom the building works are to be commenced or carried out;
 
-(b) the qualified person appointed in respect of the building works; or
+(b) the qualified person appointed under section 6(3)(b) to supervise the building works; or
+
+[18/2003 wef 01/01/2004]
 
 (c) the builder of those building works.
+
+### Power to order stoppage of building works
+
+7A\.—(1) If the Commissioner of Building Control is of the opinion that any building works, other than structural works, have been or are being carried out in such a manner as —
+
+(a) will cause, or will be likely to cause, a risk of injury to any person or damage to any property;
+
+(b) will cause, or will be likely to cause, a total or partial collapse of any adjoining or other building or street or natural, formed or man-made land; or
+
+(c) will render, or will be likely to render, any adjoining or other building or street or natural, formed or man-made land so dangerous that it will collapse or be likely to collapse either totally or partially,
+
+he may, by order, direct the person for whom those building works have been or are being carried out —
+
+(i) to immediately stop the building works; and
+
+(ii) to take such remedial or other measures as he may specify to prevent the situations referred to in paragraphs (a), (b) and (c) from happening.
+
+(2) Any person who fails to comply with any order made by the Commissioner of Building Control under subsection (1)(i) or (ii) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+
+[18/2003 wef 01/01/2004]
 
 ### Supervision of building works
 
@@ -458,7 +532,7 @@ Control of Building Works
 
 (c) concreting, piling, pre-stressing, tightening of high-friction grip bolts or other critical structural works of a prescribed class of building works except under the immediate supervision of an appropriate qualified person or a site supervisor appointed by the appropriate qualified person and working under his control and direction.
 
-(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
 ### Duties of qualified persons
 
@@ -466,65 +540,113 @@ Control of Building Works
 
 (a) the qualified person shall, within 14 days of his ceasing to carry out his duties, notify the Commissioner of Building Control and the builder of the building works of that fact; and
 
-(b) the builder shall cease or shall not commence the building works until the person for whom the building works are being or are to be carried out appoints another appropriate qualified person in respect of those building works.
+(b) the builder shall cease or shall not commence the building works until the person for whom the building works are being or are to be carried out, or the builder, appoints another appropriate qualified person in respect of those building works.
 
 [18/95; 4/99]
 
-(2) Where the person for whom any building works are or are to be carried out appoints a qualified person under subsection (1)(b), he shall, within 7 days, notify the Commissioner of Building Control of the appointment.
+(2) Where the person for whom any building works are or are to be carried out, or the builder, appoints a qualified person under subsection (1)(b), he shall, within 7 days, notify the Commissioner of Building Control of the appointment.
 
 [4/99]
 
-(3) Every qualified person appointed under section 6(3) shall —
+(3) Every qualified person appointed under section 6(3)(a) to prepare the plans of any building works shall —
 
-(a) take all reasonable steps and exercise due diligence in supervising and inspecting the building works to ensure that the building works are being carried out in accordance with the provisions of this Act and, subject to section 14, the building regulations, with the plans approved in respect thereof by the Commissioner of Building Control and with any terms and conditions imposed by the Commissioner of Building Control;
+(a) take all reasonable steps and exercise due diligence to ensure that the building works are designed in accordance with —
 
-(aa) take all reasonable steps and exercise due diligence in ensuring that the structure of the building is designed in accordance with the provisions of this Act and, subject to section 14, the requirements for structural design and loads prescribed in the building regulations;
+(i) the provisions of this Act; and
 
-[26/2000 wef 15/10/2000]
+(ii) subject to section 14, the requirements prescribed in the building regulations;
 
-(b) in the absence of a site supervisor, take all reasonable steps and exercise due diligence in giving immediate supervision to the carrying out of concreting, piling, pre-stressing, tightening of high-friction grip bolts or other critical structural works of any building works to which section 8(1)(c) applies to ensure that such critical structural works of the building works are being carried out in accordance with the provisions of this Act and, subject to section 14, the building regulations, with the plans approved in respect thereof by the Commissioner of Building Control and with any terms and conditions imposed by the Commissioner of Building Control;
+(b) notify the Commissioner of Building Control of any contravention of the provisions of this Act or the building regulations in connection with those building works; and
+
+(c) supply to the site supervisor, the builder of the building works and the qualified person appointed under section 6(3)(b) to supervise building works a copy of every plan of those building works approved by the Commissioner of Building Control.
+
+[18/2003 wef 01/01/2004]
+
+(3A) For the purpose of subsection (3)(a)
+
+(a) the plans of any building works that are prepared in accordance with the acceptable solutions as set out in the Approved Document issued by the Commissioner of Building Control in respect of such building works shall be deemed to comply with the objectives and performance requirements that are prescribed by the building regulations in respect of such building works; and
+
+(b) where the qualified person appointed under section 6(3)(a) to prepare the plans of any building works intends to utilise any alternative solution (that is to say, a solution that entails the use of any design, material or construction method that differs completely or partially from those in the acceptable solution), he shall —
+
+(i) take all reasonable steps and exercise due diligence to ensure that the alternative solution satisfies the objectives and performance requirements that are prescribed by the building regulations in respect of such building works; or
+
+(ii) obtain the certification of another qualified person, being a specialist in the application of such an alternative solution, that the alternative solution satisfies the objectives and performance requirements that are prescribed by the building regulations in respect of such building works.
+
+[18/2003 wef 01/01/2004]
+
+(3B) No qualified person shall issue any certification for the purposes of subsection (3A)(b)(ii) unless he has taken all reasonable steps and exercised due diligence to ensure that the alternative solution in respect of which his certification is being sought satisfies the objectives and performance requirements that are prescribed by the building regulations in respect of the building works for which the alternative solution is to be applied.
+
+[18/2003 wef 01/01/2004]
+
+(3C) Every qualified person appointed under section 6(3)(b) to supervise the building works shall —
+
+(a) take all reasonable steps and exercise due diligence in supervising and inspecting the building works to ensure that the building works are being carried out in accordance with —
+
+(i) the provisions of this Act;
+
+(ii) subject to section 14, the building regulations;
+
+(iii) the relevant plans approved by the Commissioner of Building Control; and
+
+(iv) any terms and conditions imposed by the Commissioner of Building Control;
+
+(b) in the absence of a site supervisor, take all reasonable steps and exercise due diligence in giving immediate supervision to the carrying out of concreting, piling, pre-stressing, tightening of high-friction grip bolts or other critical structural works of any building works to which section 8(1)(c) applies to ensure that such critical structural works of the building works are being carried out in accordance with —
+
+(i) the provisions of this Act;
+
+(ii) subject to section 14, the building regulations;
+
+(iii) the plans approved in respect thereof by the Commissioner of Building Control; and
+
+(iv) any terms and conditions imposed by the Commissioner of Building Control;
 
 (c) notify the Commissioner of Building Control of any contravention of the provisions of this Act or the building regulations in connection with those building works;
 
 (d) keep and maintain at the premises on which building works are carried out such documents, books and records as may be prescribed in the building regulations;
 
-(e) submit to the Commissioner of Building Control at the prescribed times such reports and certificates as may be prescribed in the building regulations;
+(e) submit to the Commissioner of Building Control at the prescribed times such reports and certificates as may be prescribed in the building regulations; and
 
-(f) notify the Commissioner of Building Control if the building works have been suspended for a period of more than 3 months; and
+(f) notify the Commissioner of Building Control if the building works have been suspended for a period of more than 3 months.
 
-(g) supply to the site supervisor and builder of building works a copy of every plan of those building works approved by the Commissioner of Building Control.
+[18/2003 wef 01/01/2004]
 
-[18/95; 4/99]
+(4) Any person who contravenes or fails to comply with subsection (3C) (a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
-(4) Any person who contravenes or fails to comply with subsection (1)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
+(5) Any qualified person who contravenes or fails to comply with subsection (3) (b) or (3C) (c), (d) or (e) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
-(5) Any qualified person who contravenes or fails to comply with subsection (3)(a), (b), (c), (d) or (e) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
+(5A) Any person who contravenes or fails to comply with subsection (1)(b), (3)(a), (3A)(b)(i) or (ii) or (3B) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
-(5A) Any qualified person who contravenes or fails to comply with subsection (3)(aa) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both.
+[18/2003 wef 01/01/2004]
 
-[26/2000 wef 15/10/2000]
+(6) It shall be a defence in any prosecution for a contravention or non-compliance with subsection (3) (b) or (3C) (c) for the person charged to prove to the satisfaction of the court that he did not know nor could reasonably have discovered the contravention or non-compliance referred to in the charge.
 
-(6) It shall be a defence in any prosecution for a contravention or non-compliance with subsection (3)(c) for the person charged to prove to the satisfaction of the court that he did not know nor could reasonably have discovered the contravention or non-compliance referred to in the charge.
-
-(7) Any qualified person or person for whom any building works are or are to be carried out , as the case may be, who, without reasonable excuse, contravenes or fails to comply with subsection (1)(a), (2)or (3) (f) or (g) shall be guilty of an offence.
+(7) Any qualified person or person for whom any building works are or are to be carried out or the builder, as the case may be, who, without reasonable excuse, contravenes or fails to comply with subsection (1)(a), (2), (3) (c) or (3C) (f) shall be guilty of an offence.
 
 ### Appointment and duties of site supervisors
 
-10\.—(1) Where the structural elements of any building works are required by section 8(1)(b) to be carried out under the full-time supervision of a site supervisor, the appropriate qualified person appointed under section 6(3) in respect of those building works shall appoint not less than one site supervisor in respect of the structural elements of those building works.
+10\.—(1) Where the structural elements of any building works are required by section 8(1)(b) to be carried out under the full-time supervision of a site supervisor, the appropriate qualified person appointed under section 6(3)(b) to supervise the building works shall appoint not less than one site supervisor in respect of the structural elements of those building works.
 
 [18/95]
 
-(2) Where the critical structural works of any building works are required by section 8(1)(c) to be carried out under the immediate supervision of an appropriate qualified person or a site supervisor, the appropriate qualified person appointed under section 6(3) in respect of those building works may appoint one or more site supervisors in respect of the critical structural works of those building works.
+(2) Where the critical structural works of any building works are required by section 8(1)(c) to be carried out under the immediate supervision of an appropriate qualified person or a site supervisor, the appropriate qualified person appointed under section 6(3)(b) to supervise the building works may appoint one or more site supervisors in respect of the critical structural works of those building works.
 
 [18/95]
 
 (3) No person shall be appointed as a site supervisor in respect of any building works for the purposes of this Act unless he possesses the prescribed practical experience and qualifications.
 
+(3A) No site supervisor shall supervise any structural works in respect of which a certificate by an accredited checker is required under section 6(1)(c) if he, or any nominee of his, is a partner, an officer or an employee of —
+
+(a) the builder of the building works; or
+
+(b) any associate of the builder of the building works as defined in section 6(12).
+
+[18/2003 wef 01/01/2004]
+
 (4) If a site supervisor appointed in respect of any building works becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under subsection (5) —
 
 (a) the site supervisor shall, within 7 days of his ceasing to carry out such duties, notify the Commissioner of Building Control of that fact; and
 
-(b) the qualified person appointed under section 6(3) in respect of those building works shall —
+(b) the qualified person appointed under section 6(3)(b) to supervise the building works shall —
 
 (i) appoint another site supervisor in his place; and
 
@@ -538,9 +660,13 @@ Control of Building Works
 
 (b) in relation to building works to which section 8(1)(c) applies — immediate supervision to the carrying out of the critical structural works of the building works,
 
-to ensure that the structural elements or critical structural works, as the case may be, of the building works are carried out in accordance with the plans of the building works supplied to him in accordance with section 9(3)(g) by a qualified person and with any terms and conditions imposed by the Commissioner of Building Control.
+to ensure that the structural elements or critical structural works, as the case may be, of the building works are carried out in accordance with the plans of the building works supplied to him in accordance with section 9(3)(c) by a qualified person and with any terms and conditions imposed by the Commissioner of Building Control.
 
 [4/99]
+
+(5A) Any site supervisor who contravenes subsection (3A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[18/2003 wef 01/01/2004]
 
 (6) Any site supervisor who contravenes or fails to comply with subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
@@ -562,17 +688,17 @@ to ensure that the structural elements or critical structural works, as the case
 
 (4) A builder undertaking any building works shall —
 
-(a) ensure that the building works are carried out in accordance with the plans of the building works supplied to him in accordance with section 9(3)(g) by a qualified person and with any term or condition imposed by the Commissioner of Building Control in accordance with the provisions of this Act and, subject to section 14, the building regulations;
+(a) ensure that the building works are carried out in accordance with the plans of the building works supplied to him in accordance with section 9(3)(c) by a qualified person and with any term or condition imposed by the Commissioner of Building Control in accordance with the provisions of this Act and, subject to section 14, the building regulations;
 
 (b) notify the Commissioner of Building Control of any contravention of the provisions of this Act or the building regulations in connection with those building works;
 
-(c) keep at the premises on which the building works are carried out all plans of those building works supplied to him in accordance with section 9(3)(g) by a qualified person; and
+(c) keep at the premises on which the building works are carried out all plans of those building works supplied to him in accordance with section 9(3)(c) by a qualified person; and
 
 (d) within 7 days of the completion of the building works, certify that the new building has been erected or the building works have been carried out in accordance with the provisions of this Act and, subject to section 14, the building regulations and shall within that period deliver such certificate to the Commissioner of Building Control.
 
 [4/99]
 
-(5) Any person who contravenes or fails to comply with subsection (4)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+(5) Any person who contravenes or fails to comply with subsection (4)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (6) Any person who contravenes or fails to comply with subsection (4)(b) or (c) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day during which the offence continues after conviction.
 
@@ -760,7 +886,7 @@ in which shall be entered the names and prescribed particulars of the persons an
 
 [26/2000 wef 01/09/2001]
 
-(8) For the purposes of this section, sections 16A and 17
+(8) For the purposes of this section, sections 16A and 17 —
 
 “prescribed limit” means —
 
@@ -777,6 +903,12 @@ in which shall be entered the names and prescribed particulars of the persons an
 “value of the building works” means the total cost to be expended in carrying out the building works (including the foundations, structural frame, finishes and the installation of building services) estimated at the time of, and contained in, the application for approval of the plans of the building works.
 
 [26/2000 wef 01/09/2001]
+
+(9) [Deleted by Act 26/2000 wef 01/09/2001]
+
+(10) [Deleted by Act 26/2000 wef 01/09/2001]
+
+(11) [Deleted by Act 26/2000 wef 01/09/2001]
 
 ### Accredited checking organisations
 
@@ -918,6 +1050,8 @@ shall not be regarded as constituting a professional or financial interest.
 
 [18/95]
 
+(6) [Deleted by Act 26/2000 wef 01/09/2001]
+
 ### Independence of accredited checking organisations
 
 18A\.—(1) In addition to the requirements imposed on an accredited checker under section 18, where the certificate under section 6(1)(c) or (8) is made by an accredited checker acting on behalf of an accredited checking organisation —
@@ -1040,7 +1174,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) section 6 for approval of plans of any building works;
 
-(b) section 7 for a permit to carry out any building works ;
+(b) section 7 for a permit to carry out any structural works;
 
 (c) section 12(3) for a waiver of the operation of section 12(1) in relation to any building works; or
 
@@ -1130,21 +1264,37 @@ except where the air-conditioning unit is to be installed or had been installed 
 
 Dangerous Buildings
 
+### Interpretation of this Part
+
+22G\. In this Part, “building” includes a building or any part thereof in respect of which building works are being carried out.
+
+[18/2003 wef 01/01/2004]
+
 ### Dangerous buildings
 
-23\.—(1) If it appears to the Commissioner of Building Control that a building is in such a condition, or is used to carry such loads, as to be or likely to be dangerous, the Commissioner of Building Control may —
+23\.—(1) If it appears to the Commissioner of Building Control that a building is in such a condition, or is used to carry such loads, as to be or likely to be dangerous, the Commissioner of Building Control may exercise any of the following powers:
 
-(a) where danger arises or is likely to arise from the condition of the building, make an order requiring the owner thereof to do all or any of the following within such time as may be specified:
+(a) where danger arises or is likely to arise from the condition of the building, the Commissioner of Building Control may make an order requiring the owner thereof to do all or any of the following within such time as may be specified:
 
 (i) to carry out or cause to be carried out such inspection of the building as he may specify;
 
 (ii) to execute such building works as may be necessary to obviate the danger;
 
-(iii) to demolish the building or any part thereof, and remove any rubbish resulting from the demolition; or
+(iii) to demolish the building or any part thereof, and remove any rubbish resulting from the demolition;
 
-(b) where danger arises or is likely to arise from overloading of the building, make an order requiring the owner thereof to restrict its use until the Commissioner of Building Control, being satisfied that any necessary building works have been executed, withdraws or modifies the restriction.
+(b) where danger arises or is likely to arise from overloading of the building, the Commissioner of Building Control may make an order requiring the owner thereof to restrict its use until the Commissioner of Building Control, being satisfied that any necessary building works have been executed, withdraws or modifies the restriction; and
 
-[4/99]
+(c) where the Commissioner of Building Control is of the opinion that the building works that have been or are being carried out in respect of the building may have caused or is likely to cause the collapse of the building or any part thereof or any structural distress that is likely to lead to the instability of the building or any part thereof, he may —
+
+(i) engage a qualified person or a specialist to carry out such investigations and tests as may be necessary and to advise him on all matters relating to the safety of the building, the reasons for its collapse (if applicable) and the measures that should be taken to obviate any possible danger that might arise from the condition of the building; and
+
+(ii) make an order requiring the person for whom the building works have been or are being carried out to take such measures as may be specified by the Commissioner of Building Control (including, if necessary, the demolition of the building) to obviate the danger arising therefrom.
+
+[18/2003 wef 01/01/2004]
+
+(1A) All expenses incurred by the Commissioner of Building Control under subsection (1)(c)(i) shall be borne by the person for whom the building works have been or are being carried out.
+
+[18/2003 wef 01/01/2004]
 
 (2) If the person on whom an order made under subsection (1) is served fails to comply with the order within the time specified, the Commissioner of Building Control may —
 
@@ -1424,7 +1574,7 @@ Miscellaneous
 
 (c) taking any action or carrying out any work, authorised or required by this Act or the building regulations; or
 
-(d) inspecting the documents, books or records kept and maintained by a qualified person or builder under section 9(3)(d) o r 11 (4) (c), respectively.
+(d) inspecting the documents, books or records kept and maintained by a qualified person or builder under section 9(3C)(d) or 11 (4) (c), respectively.
 
 (1A) For the purposes of subsection (1), the Commissioner of Building Controlmay take such steps as he may consider necessary, including the making of openings and the taking without payment of reasonable samples of building materials for analysis.
 
@@ -1664,6 +1814,10 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (c) the manner of making applications for and granting of approval of plans of building works and permits to carry out building works;
 
+(ca) the establishing of objectives and performance requirements for the design and construction of buildings;
+
+[18/2003 wef 01/01/2004]
+
 (d) the structural strength and stability of buildings or proposed buildings, including —
 
 (i) precautions against overloading;
@@ -1678,11 +1832,7 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (ii) projections;
 
-(iii) sanitation and drainage;
-
-(iv) standards of artificial lighting, ventilation systems and air-conditioning;
-
-(v) open space about buildings and the natural lighting and ventilation of buildings;
+(v) the natural lighting and ventilation of buildings;
 
 (vi) the headroom of rooms, cubicles and staircases and other spaces within buildings;
 
@@ -1706,7 +1856,9 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (n) the prescribing of documents, books or records to be kept and reports or certificates to be made under this Act;
 
-(o) the time and manner of making an application for temporary occupation permits and certificates of statutory completion;
+(o) the time and manner of making, and the information and documents to be furnished in respect of, an application for a temporary occupation permit and a certificate of statutory completion;
+
+[18/2003 wef 01/01/2004]
 
 (p) the manner in which the duties and responsibilities of accredited checkers are to be discharged;
 
@@ -1721,6 +1873,14 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 (u) the prescribing of fees and charges for the purposes of this Act.
 
 [18/95; 4/99; 36/99]
+
+(2A) Regulations made under this section may provide that —
+
+(a) any particular objective and performance requirement for the design and construction of any building shall be deemed to be complied with if the building is constructed with such specifications, materials, designs or methods of construction as may be specified by the Commissioner of Building Control; and
+
+(b) the Commissioner of Building Control may issue in such form as he thinks fit, and from time to time amend, one or more Approved Documents setting out the specifications, materials, designs or methods of construction which shall, without prejudice to any alternative means of achieving compliance, be deemed to comply with the relevant objective and performance requirement for the design and construction of buildings prescribed in those regulations.
+
+[18/2003 wef 01/01/2004]
 
 (3) The Minister may, in making any building regulations under this section, provide that any contravention of or failure to comply with any provision thereof shall be an offence and may prescribe punishment by a fine not exceeding $5,000 or imprisonment for a term not exceeding 6 months or with both.
 
@@ -1961,6 +2121,11 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of Second and Third Readings|25 August 2000|
 ||Dates of commencement|15 October 2000 (sections 3, 4 and 5)|
 |||1 September 2001 (except sections 3, 4 and 5)|
+|17.|**Act 18 of 2003—Building Control (Amendment) Act 2003**|
+||Date of First Reading|14 August 2003|
+|||(Bill No. 17/2003 published on 15 August 2003)|
+||Date of Second and Third Readings|2 September 2003|
+||Date of commencement|1 January 2004|
 ## COMPARATIVE TABLE
 
 Building Control Act
