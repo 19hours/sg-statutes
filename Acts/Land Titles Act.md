@@ -676,6 +676,10 @@ sections
 
 [17/2001 wef 01/06/2001]
 
+“competent authority”, in relation to any development or subdivision of land, means the competent authority appointed under section 5 of the Planning Act (Cap. 232) in respect of the development or subdivision of land, as the case may be;
+
+[30/2003 wef 10/12/2003]
+
 “computer folio” means a folio that is not a manual folio;
 
 “dealing” means any instrument other than a certificate of title or caveat which is registrable or capable of being made registrable under the provisions of this Act or in respect of which any entry or notification in the land-register is by this Act required or permitted to be made;
@@ -722,6 +726,10 @@ and where the context so permits, the proprietorship of land includes natural ri
 
 “Registrar of Deeds” means the Registrar of Deeds appointed under the Registration of Deeds Act [Cap. 269];
 
+“relevant authority” means any Government department or authority or statutory authority empowered to approve plans for development or subdivision of any land or plans relating to the construction of any building under the Planning Act (Cap. 232) or under any other written law and includes the competent authority;
+
+[30/2003 wef 10/12/2003]
+
 “subdivided building” has the same meaning as in the Land Titles (Strata) Act [Cap. 158];
 
 “unregistered land” means any land which has not yet been brought under the provisions of this Act.
@@ -731,6 +739,24 @@ and where the context so permits, the proprietorship of land includes natural ri
 (3) A reference to land alienated by the State shall include a reference to land alienated by the Crown at any time prior to 16th September 1963.
 
 (4) A reference in this Act to a facsimile of the Registrar’s seal shall be a reference to an official seal which is a facsimile of the seal of office referred to in section 6(1).
+
+(5) A reference in this Act to subdivision of land (whether registered or unregistered) permitted, approved or granted by the competent authority shall include, where applicable, a reference to subdivision of land that is authorised by the Minister under a notification made under section 21(6) of the Planning Act (Cap. 232).
+
+[30/2003 wef 10/12/2003]
+
+(6) Where by reason of any notification made by the Minister under section 21(6) of the Planning Act —
+
+(a) the strata subdivision of any building or class of buildings as specified in that notification is authorised; and
+
+(b) the approval by the competent authority of a strata subdivision plan for that building or class of buildings is not required under the Planning Act,
+
+then for the purposes of this Act and any rules made thereunder, any reference to a subdivision plan issued or approved by the competent authority shall, where applicable, be construed to mean a reference to building plans approved by the relevant authority —
+
+(i) which are endorsed with a certificate by a surveyor who is registered under the Land Surveyors Act (Cap. 156) and has in force a practising certificate issued under that Act certifying that the boundaries of all the strata lots which he has delineated on the approved building plans have been endorsed by the proprietor of the development to be correct and in accordance with what was sold or agreed to be sold by the proprietor; and
+
+(ii) which contain such other certifications and particulars as may be required by the Registrar or the Chief Surveyor.
+
+[30/2003 wef 10/12/2003]
 
 ## PART II
 
@@ -1590,7 +1616,7 @@ INSTRUMENTS
 
 ### Obtaining of lot or strata lot number
 
-54A\.—(1) Where a proprietor intends to sell part of a parcel of any land or part of a building, he shall, after he has obtained the approval of the competent authority and before he enters into a sale and purchase agreement for such part, either —
+54A\.—(1) Where a proprietor intends to sell part of a parcel of any land or part of a building, he shall, after he has obtained the approval of the relevant authority and before he enters into a sale and purchase agreement for such part, either —
 
 (a) obtain from the Chief Surveyor a lot or strata lot number for the proposed part; or
 
@@ -2194,7 +2220,7 @@ EASEMENTS
 
 “lot” means a parcel of land forming part of a development, to which the Chief Surveyor has allotted a Government survey lot number;
 
-“development” means any land subdivided into two or more lots pursuant to section 10(3) of the Planning Act [Cap. 232] where those lots are affected by common easements for the passage or provision of water, electricity, drainage, gas or sewerage that are capable of being created as cross easements by an instrument and enjoyed as such by those lots.
+“development” means any land subdivided into two or more lots pursuant to section 12(3) of the Planning Act [Cap. 232] where those lots are affected by common easements for the passage or provision of water, electricity, drainage, gas or sewerage that are capable of being created as cross easements by an instrument and enjoyed as such by those lots.
 
 ### Implied easements for right of way and other rights shown in an approved subdivision plan
 
@@ -2214,13 +2240,9 @@ EASEMENTS
 
 (8) In this section —
 
-“competent authority” means the competent authority appointed under section 5 of the Planning Act 1998 in respect of the development and subdivision of land;
-
-[3/98 wef 01/04/1998]
-
 “estate” means land which has been subdivided into lots under the Planning Act 1998 where those lots include land intended for use as easements to be made appurtenant to other lots within the same estate as shown in the subdivision plan approved by the competent authority, a copy of which is deposited with the Registrar; and may include undeveloped lots in the course of erection which are shown in the first subdivision plan approved by the competent authority and is capable of being subdivided as shown in one or more approved subsequent subdivision plans as and when issued by the competent authority and copies of the subdivision plans have been delivered to the Registrar;
 
-“lot” means a parcel of land forming part of an estate to which the Chief Surveyor has allotted a Government survey lot number and also described as a “plot” in a subdivision plan approved by the competent authorityunder thePlanning Act 1998.
+“lot” means a parcel of land forming part of an estate to which the Chief Surveyor has allotted a Government survey lot number and also described as a “plot” in a subdivision plan approved by the competent authority.
 
 ### Extinguishment by union of tenements
 
@@ -3358,3 +3380,9 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 8/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|9 June 2003|
+|8.|**Act 30 of 2003—Planning (Amendment) Act 2003**|
+||(Consequential amendments made by)||
+||Date of First Reading|16 October 2003|
+|||(Bill No. 27/2003 published on 17 October 2003)|
+||Date of Second and Third Readings|11 November 2003|
+||Date of commencement|10 December 2003 (section 6)|
