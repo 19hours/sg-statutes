@@ -14,9 +14,9 @@
 
 [**Part II ADMINISTRATION**](#Part-II)
 
-- [3 Appointment of Director of Primary Production and Director (Fisheries)](#Appointment-of-Director-of-Primary-Production-and-Director-Fisheries)
+- [3 Administration of Act and appointment of authorised officer, etc.](#Administration-of-Act-and-appointment-of-authorised-officer-etc)
 
-- [4 Appointment of fishery officers](#Appointment-of-fishery-officers)
+- [4 (Repealed)](#Repealed)
 
 - [5 Officers to be deemed to be public servants](#Officers-to-be-deemed-to-be-public-servants)
 
@@ -58,7 +58,7 @@
 
 - [21 Offence committed by an employee](#Offence-committed-by-an-employee)
 
-- [21A Offences by body corporate, etc](#Offences-by-body-corporate-etc)
+- [21A Offences by body corporate, etc.](#Offences-by-body-corporate-etc)
 
 - [21B Jurisdiction of Courts](#Jurisdiction-of-Courts)
 
@@ -73,6 +73,8 @@
 - [24 Service of documents](#Service-of-documents)
 
 - [25 Exemption](#Exemption)
+
+- [26 Fees, etc., payable to Authority](#Fees-etc-payable-to-Authority)
 
 [**Legislative History**](#Legislative-History)
 
@@ -102,9 +104,17 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Director” means the Director of Primary Production appointed under section 3 and includes the Director (Fisheries) appointed under that section;
+“authorised officer” means any person appointed by the Director-General to be an authorised officer under section 3(2);
 
-[12/1994 wef 15/10/1994]
+[16/2000 wef 01/04/2000]
+
+“Authority” means the Agri-food and Veterinary Authority established under section 3 of the Agri-food and Veterinary Authority Act 2000;
+
+[16/2000 wef 01/04/2000]
+
+“Director-General” means the Director-General, Agri-food and Veterinary Services appointed under section 3(1) of the Animals and Birds Act (Cap. 7);
+
+[16/2000 wef 01/04/2000]
 
 “estuarine waters” means waters extending from the mouth of a river to the uppermost point upstream penetrated by sea water at the highest tide of the year and reference to estuarine fishing and to estuarine fisheries shall be construed accordingly;
 
@@ -115,8 +125,6 @@ PRELIMINARY
 “fish dealer” includes any person engaged in buying (except for personal consumption), selling, exposing for sale, consigning or exhibiting fish, whether living, fresh or processed, in any manner, or any person engaged in processing fish;
 
 “fish pond” means any enclosed area of water whether fresh or otherwise, which is used or intended for use in the cultivation, storage or capture of fish, and includes estuarine prawn ponds;
-
-“fishery officer” means any officer appointed as such, in writing, by the Director under section 4;
 
 “fishing stakes” means any device used for the capture of fish which is made up of poles or other supports permanently fixed into the ground and enclosed by ramie, rattan, wire or other screening material, so designed as to lead fish into the enclosures, or any device using a net or other screening material that is anchored permanently or impermanently;
 
@@ -134,19 +142,17 @@ PRELIMINARY
 
 ADMINISTRATION
 
-### Appointment of Director of Primary Production and Director (Fisheries)
+### Administration of Act and appointment of authorised officer, etc.
 
-3\.—(1) The Minister may, by notification in theGazette, appoint an officer to be styled the Director of Primary Production (referred to in this Act as the Director) and an officer to be styled the Director (Fisheries), who, subject to such limitations as may be prescribed by the Director, may perform all duties imposed and exercise all powers conferred on the Director by this Act and every duty so performed and power exercised shall be deemed to have been duly performed and exercised for the purposes of this Act.
+3\.—(1) The Director-General shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
 
-[12/1994 wef 15/10/1994]
+(2) The Director-General may in writing appoint any public officer or any officer of the Authority or of any other statutory authority to be an authorised officer for the purposes of this Act and any rules made thereunder.
 
-(2) The Director may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any public officer or any officer of a statutory board.
+(3) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer.
 
-[12/1994 wef 15/10/1994]
+[16/2000 wef 01/04/2000]
 
-### Appointment of fishery officers
-
-4\. The Director may appoint fishery officers for the purpose of carrying into effect the provisions of this Act.
+4\. [Deleted by Act 16/2000 wef 01/04/2000]
 
 ### Officers to be deemed to be public servants
 
@@ -154,7 +160,7 @@ ADMINISTRATION
 
 ### Identification card to be produced
 
-6\.—(1) Every fishery officer when exercising any powers under this Act shall, if not in uniform, declare his office and shall, on demand, produce to any person affected by the exercise of those powers such card as the Director may direct to be carried by officers appointed under the provisions of this Act.
+6\.—(1) Every authorised officer when exercising any powers under this Act shall, if not in uniform, declare his office and shall, on demand, produce to any person affected by the exercise of those powers such card as the Director-General may direct to be carried by officers appointed under the provisions of this Act.
 
 (2) It shall not be an offence for any person to refuse to comply with any request, demand or order made or given by any officer appointed under this Act, or by any police officer not in uniform, who fails to declare his office and refuses to produce his identification card on demand being made by that person.
 
@@ -212,7 +218,7 @@ RULES
 
 (v) to regulate or prohibit the import, export or transhipment of fish, any species of fish or processed fish and to impose such conditions as may be necessary;
 
-[12/1994 wef 15/10/1994]
+[Act 12/94 wef 15/10/1994 vide S 392/94]
 
 (w) to regulate or prohibit the construction of any bunds, slides, dams or other barriers or obstruction in inland and estuarine waters;
 
@@ -230,7 +236,7 @@ RULES
 
 (zd) to prescribe fees for any licence to be issued or for any other service performed under this Act or any rules made thereunder;
 
-(ze) to prescribe the forms for any licence, registration or certificate or authorise the Director to prescribe such forms as he may think fit;
+(ze) to prescribe the forms for any licence, registration or certificate or authorise the Director-General to prescribe such forms as he may think fit;
 
 (zf) to regulate the conditions of employment of fishermen on board fishing vessels, the discharge or repatriation of fishermen, apprenticeship, training, discipline and conduct on board ship, and the like;
 
@@ -242,9 +248,9 @@ LICENCES
 
 ### Licences
 
-8\.—(1) The Director may, subject to the provisions of this Act and of any rules made thereunder, issue to any person a licence, on such terms and conditions as he may specify exempting him from any prohibition or obligation imposed by the provisions of this Act or any such rules.
+8\.—(1) The Director-General may, subject to the provisions of this Act and of any rules made thereunder, issue to any person a licence, on such terms and conditions as he may specify exempting him from any prohibition or obligation imposed by the provisions of this Act or any such rules.
 
-(2) The Director may refuse to issue a licence under this section, or may vary or impose additional conditions or revoke any licence already issued.
+(2) The Director-General may refuse to issue a licence under this section, or may vary or impose additional conditions or revoke any licence already issued.
 
 (3) Any person aggrieved by such a refusal, variation or revocation may appeal to the Minister whose decision shall be final and no action or proceeding whatsoever shall be maintainable in any court of law in respect of such a refusal, variation or revocation.
 
@@ -260,7 +266,7 @@ LICENCES
 
 10\.—(1) Two or more persons carrying on business in partnership shall not be required to obtain more than one licence under this Act in respect of that partnership.
 
-(2) In the case of a licence issued under this Act in respect of a partnership, the names of all the partners, and, from time to time, the names of new partners, shall be disclosed to the Director and, if approved by the Director, shall be entered in the licence, and a licence to two or more persons shall not expire on the death or retirement from business of any one or more of the partners.
+(2) In the case of a licence issued under this Act in respect of a partnership, the names of all the partners, and, from time to time, the names of new partners, shall be disclosed to the Director-General and, if approved by the Director-General, shall be entered in the licence, and a licence to two or more persons shall not expire on the death or retirement from business of any one or more of the partners.
 
 ## PART V
 
@@ -290,7 +296,7 @@ OFFENCES
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than 3 months and not exceeding 3 years.
 
-(3) Where it is proved to the satisfaction of a court that any vessel, net, instrument or appliance has been used in the commission of an offence under subsection (1) and that the vessel, net, instrument or appliance has been seized by a fishery officer or police officer, the court shall, on the written application of the Public Prosecutor, make an order for the forfeiture of the vessel, net, instrument or appliance, notwithstanding that no person may have been convicted of the offence.
+(3) Where it is proved to the satisfaction of a court that any vessel, net, instrument or appliance has been used in the commission of an offence under subsection (1) and that the vessel, net, instrument or appliance has been seized by an authorised officer or police officer, the court shall, on the written application of the Public Prosecutor, make an order for the forfeiture of the vessel, net, instrument or appliance, notwithstanding that no person may have been convicted of the offence.
 
 [13A
 
@@ -300,37 +306,37 @@ OFFENCES
 
 15\.—(1) Any person who commits an offence under this Act shall be liable, if no special penalty is provided, on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
 
-[12/1994 wef 15/10/1994]
+[Act 12/94 wef 15/10/1994 vide S 392/94]
 
 (2) Any person who does or attempts to do or causes or permits to be done or abets an act contrary to, or fails to comply with the provisions of this Act or any rules made thereunder or in breach of the restrictions or conditions subject to which any licence has been issued shall be guilty of an offence and shall be liable on conviction, if no special penalty is provided, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding one year or to both.
 
-[12/1994 wef 15/10/1994]
+[Act 12/94 wef 15/10/1994 vide S 392/94]
 
 (3) Where an offence is continued after conviction, there shall be payable by the offender for every day that the offence continues a fine not exceeding $50, and where the offence continues for a period exceeding 10 days after conviction the offender shall be liable to a term of imprisonment not exceeding 6 months.
 
 [14
 
-[30/73]
-
 (4) Notwithstanding subsection (2), the Minister may provide in any rules made under this Act which relate to the prohibition, regulation or control of the species of fish known as piranha or any other prescribed dangerous species of fish that a person who contravenes any provision thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding one year or to both.
 
-[12/1994 wef 15/10/1994]
+[Act 12/94 wef 15/10/1994 vide S 392/94]
 
 (5) No prosecution in respect of an offence referred to in subsection (4) shall be instituted except with the consent of the Public Prosecutor.
 
-[12/1994 wef 15/10/1994]
+[Act 12/94 wef 15/10/1994 vide S 392/94]
+
+[30/73]
 
 ### Forfeiture
 
-16\. Any vessel, vehicle, stake, net, instrument or appliance used in the commission of any offence under this Act or any rules made thereunder and any fish caught or found, or any processed fish found in contravention of the provisions of this Act or of any such rules may be forfeited to the Director and, if so forfeited, shall be disposed of in such manner as the Director may direct.
+16\. Any vessel, vehicle, stake, net, instrument or appliance used in the commission of any offence under this Act or any rules made thereunder and any fish caught or found, or any processed fish found in contravention of the provisions of this Act or of any such rules may be forfeited to the Director-General and, if so forfeited, shall be disposed of in such manner as the Director-General may direct.
 
 [15
 
-[12/1994 wef 15/10/1994]
+[Act 12/94 wef 15/10/1994 vide S 392/94]
 
 ### Sale of fish pending result of prosecution
 
-17\. Any fish seized by a fishery officer or police officer in accordance with the provisions of this Act may be sold forthwith, and the proceeds of sale thereof shall be held to abide the result of any prosecution or claim or, where there is no prosecution or claim, shall be paid to the person from whom the fish was seized and if that person cannot be ascertained, the proceeds shall be paid into the Consolidated Fund.
+17\. Any fish seized by an authorised officer or police officer in accordance with the provisions of this Act may be sold forthwith, and the proceeds of sale thereof shall be held to abide the result of any prosecution or claim or, where there is no prosecution or claim, shall be paid to the person from whom the fish was seized and if that person cannot be ascertained, the proceeds shall be paid to the Authority.
 
 [30/73]
 
@@ -352,11 +358,13 @@ OFFENCES
 
 ### Power to compound offences
 
-20\.—(1) The Director may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+20\.—(1) The Director-General may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+
+[Act 12/94 wef 15/10/1994 vide S 392/94]
 
 (2) The Minister may make rules to prescribe the offences which may be compounded.
 
-[12/1994 wef 15/10/1994]
+[Act 12/94 wef 15/10/1994 vide S 392/94]
 
 ### Offence committed by an employee
 
@@ -368,17 +376,19 @@ OFFENCES
 
 [20
 
-### Offences by body corporate, etc
+### Offences by body corporate, etc.
 
 21A\. Where an offence under this Act or any rules made thereunder has been committed by a body corporate, a partnership or an unincorporated association of persons, any person who, at the time of the commission of the offence, was a director, manager, partner, secretary or other similar officer thereof, or who was purporting to act in any such capacity, shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly unless he proves that the offence was committed without his knowledge, consent or connivance, and that he had exercised all such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions in that capacity and to all the circumstances.
 
-[12/1994 wef 15/10/1994]
+[Act 12/94 wef 15/10/1994 vide S 392/94]
 
 ### Jurisdiction of Courts
 
-21B\. Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), a District Court or a Magistrate’s Court shall have jurisdiction to try any offence under this Act or any rules made thereunder and to impose the full penalty or punishment in respect of any such offence.
+21B\. Notwithstanding anything to the contrary in the Criminal Procedure Code, a District Court or a Magistrate’s Court shall have jurisdiction to try any offence under this Act or any rules made thereunder and to impose the full penalty or punishment in respect of any such offence.
 
-[12/1994 wef 15/10/1994]
+[Cap.68.]
+
+[Act 12/94 wef 15/10/1994 vide S 392/94]
 
 ### Courts have jurisdiction to try offences committed outside territorial waters
 
@@ -392,27 +402,33 @@ SEARCH, SEIZURE AND ARREST
 
 ### Powers of officers
 
-23\.—(1) Any fishery officer or police officer may without warrant —
+23\.—(1) Any authorised officer or police officer may without warrant —
 
 (a) stop, search and detain any vessel or vehicle which he has reason to believe is being used for fishing or carrying fish or fishing materials contrary to the provisions of this Act or any rules made thereunder and may seize that vessel or vehicle and any engine, fish, processed fish, fishing nets, instruments, fishing materials or other appliances found therein;
 
-[12/1994 wef 15/10/1994]
+[Act 12/94 wef 15/10/1994 vide S 392/94]
 
 (b) search and examine any fishing stakes, nets, instruments, fishing materials or other appliances used in catching fish and effect the removal and destruction of any unlicensed fishing stakes;
 
 (c) search, examine and investigate into the operation of any fish ponds;
 
+[Act 12/94 wef 15/10/1994 vide S 392/94]
+
 (d) arrest any person found committing or attempting to commit or abetting the commission of an offence under this Act or any rules made thereunder; and
+
+[22
+
+[Act 12/94 wef 15/10/1994 vide S 392/94]
 
 (e) enter and search any place or premises in which he reasonably suspects that there is to be found any fish or fishing materials contrary to the provisions of this Act or any rules made thereunder and may seize, remove or detain at the risk of the owner any engine, fish, processed fish, fishing nets, instruments, fishing materials or other appliances found in such place or premises.
 
-[12/1994 wef 15/10/1994]
+[Act 12/94 wef 15/10/1994 vide S 392/94]
 
-(2) For the purpose of exercising his power under this Act or any rules made thereunder, any fishery officer or police officer may, with such assistance as he thinks necessary, break open any door, window, lock, fastener, compartment, box, container or other thing.
+(2) For the purpose of exercising his power under this Act or any rules made thereunder, any authorised officer or police officer may, with such assistance as he thinks necessary, break open any door, window, lock, fastener, compartment, box, container or other thing.
 
-[12/1994 wef 15/10/1994]
+[Act 12/94 wef 15/10/1994 vide S 392/94]
 
-[22
+[30/73]
 
 ## PART VII
 
@@ -436,11 +452,17 @@ MISCELLANEOUS
 
 ### Exemption
 
-25\.—(1) The Director may, with the approval of the Minister, exempt from the provisions of this Act and of any rules made thereunder, either absolutely or conditionally, any person attached to a scientific institution who fishes only for the purposes of scientific research or any person who fishes for personal consumption.
+25\.—(1) The Director-General may, with the approval of the Minister, exempt from the provisions of this Act and of any rules made thereunder, either absolutely or conditionally, any person attached to a scientific institution who fishes only for the purposes of scientific research or any person who fishes for personal consumption.
 
-(2) The Director may with the approval of the Minister exempt any person from payment of or reduce the fees for any licence issued or for any service performed under this Act or any rules made thereunder.
+(2) The Director-General may with the approval of the Minister exempt any person from payment of or reduce the fees for any licence issued or for any service performed under this Act or any rules made thereunder.
 
 [24
+
+### Fees, etc., payable to Authority
+
+26\. All fees, charges, composition fines and moneys collected under this Act or any rules made thereunder shall be paid to the Authority.
+
+[16/2000 wef 01/04/2000]
 
 ## LEGISLATIVE HISTORY
 
@@ -471,3 +493,9 @@ This Legislative History is provided for the convenience of users of the Fisheri
 |||(Bill No. 12/94 published on 24 May 1994)|
 ||Date of Second and Third Readings|26 August 1994|
 ||Date of commencement|15 October 1994|
+|6.|**Act 16 of 2000—Agri-food and Veterinary Authority Act 2000**|
+||(Consequential amendment made by)||
+||Date of First Reading|21 February 2000|
+|||(Bill No. 11/2000 published on 22 February 2000)|
+||Date of Second and Third Readings|17 March 2000|
+||Date of commencement|1 April 2000|
