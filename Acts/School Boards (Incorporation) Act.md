@@ -1,16 +1,14 @@
-**School Boards (Incorporation) Act 1990**
+**School Boards (Incorporation) Act**
 
-**(No. 4 of 1990)**
+**(CHAPTER 284A)**
 
 **Table of Contents**
 
 [**Long Title**](#School-Boards-Incorporation-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -44,53 +42,33 @@
 
 - [14 Registration of managers of schools](#Registration-of-managers-of-schools)
 
-- [15 Operation of this Act not to affect the Education Act](#Operation-of-this-Act-not-to-affect-the-Education-Act)
+- [15 Operation of this Act not to affect Education Act](#Operation-of-this-Act-not-to-affect-Education-Act)
 
 - [16 Transfer of property to governing boards](#Transfer-of-property-to-governing-boards)
 
-- [17 Transitional provisions](#Transitional-provisions)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# School Boards (Incorporation) Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 284A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 4 of 1990)
 
-Published by Authority
+REVISED EDITION 1991
 
-NO. 9]
-
-Friday, April 6
-
-[1990
-
-The following Act was passed by Parliament on 22nd February 1990 and assented to by the President on 31st March 1990:—
-
-School Boards (Incorporation) Act 1990
-
-(No. 4 of 1990)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-31st March 1990.
-
-Date of Commencement: 1st January 1990
+(1st March 1991)
 
 An Act to make provisions for the incorporation of governing boards for the purpose of conducting Government schools and aided schools and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st January 1990]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the School Boards (Incorporation) Act 1990 and shall be deemed to have come into operation on 1st January 1990.
+1\. This Act may be cited as the School Boards (Incorporation) Act.
 
 ### Interpretation
 
@@ -120,7 +98,7 @@ ESTABLISHMENT OF GOVERNING BOARDS FOR SCHOOLS
 
 (3) A governing board shall consist of such number of governors as may be prescribed in an order made under subsection (1).
 
-(4) Without prejudice to the generality of subsection (1), an order made under subsection (1) shall make provisions —
+(4) Without prejudice to the generality of subsection (1), an order made under that subsection shall make provisions —
 
 (a) to provide that the appointments of governors are to be made with the approval of the Minister;
 
@@ -140,7 +118,7 @@ ESTABLISHMENT OF GOVERNING BOARDS FOR SCHOOLS
 
 (i) the recruitment, promotion and dismissal of and the exercise of disciplinary control over teachers and other staff of the school;
 
-(ii) determining the policy or conditions for the admission of students to the school and the dismissal of students; and
+(ii) determining the policy or conditions for the admission of pupils to the school and the dismissal of pupils; and
 
 (iii) determining the fees payable by the pupils of the school;
 
@@ -156,7 +134,7 @@ ESTABLISHMENT OF GOVERNING BOARDS FOR SCHOOLS
 
 (6) The proceedings of a governing board shall not be invalidated by —
 
-(a) any vacancy among the governors;
+(a) any vacancy among the governors; or
 
 (b) any defect in the appointment of any governor.
 
@@ -236,7 +214,7 @@ DISCONTINUANCE OF SCHOOLS AND WINDING UP OF GOVERNING BOARDS
 
 (a) any proposals by a governing board of a school have been approved under section 9;
 
-(b) the registration of the school concerned under the Education Act (Cap. 87) is cancelled; or
+(b) the registration of the school concerned under the Education Act [Cap. 87] is cancelled; or
 
 (c) the administration of a school has been taken over by the Director under section 10 for a period exceeding 12 months,
 
@@ -272,13 +250,13 @@ MISCELLANEOUS
 
 ### Registration of schools
 
-13\. Every school which is conducted by a governing board established under this Act shall be deemed to be registered under the provisions of the Education Act (Cap. 87) from the date of incorporation of the governing board.
+13\. Every school which is conducted by a governing board established under this Act shall be deemed to be registered under the provisions of the Education Act [Cap. 87] from the date of incorporation of the governing board.
 
 ### Registration of managers of schools
 
 14\. For the purposes of the Education Act, every governor shall be deemed to be a registered manager of a school as from the date of his appointment as a governor.
 
-### Operation of this Act not to affect the Education Act
+### Operation of this Act not to affect Education Act
 
 15\. Except as otherwise expressly provided in this Act, nothing in this Act shall affect the operation of the Education Act or any regulations made thereunder.
 
@@ -286,13 +264,20 @@ MISCELLANEOUS
 
 16\. Where a school conducted by a governing board was conducted by the Government immediately before the incorporation of the governing board, the Director may transfer to the governing board any property which immediately before the date of incorporation was property used or held by the Director for the purposes of the school.
 
-### Transitional provisions
+## LEGISLATIVE HISTORY
 
-17\. For the purpose of enabling a governing board established under this Act to take over during the academic year 1990 the conduct of a school which immediately before its incorporation was conducted by the Government —
+School Boards (Incorporation) Act
 
-(a) the Director may require the students of such a school to pay, with effect from 1st January 1990, fees of such an amount as may be determined by the Director on behalf of the governing board and the Director shall pay to the governing board the fees collected by the Director prior to its incorporation;
+(CHAPTER 284A)
 
-(b) the Director may enter into any contract or other transaction on behalf of the governing board prior to its incorporation and such contract or other transaction may be ratified by the governing board after its incorporation and thereupon the governing board shall become bound by and entitled to the benefit thereof as if it had been in existence at the date of the contract or other transaction and had been a party thereto; and
+This Legislative History is provided for the convenience of users of the School Boards (Incorporation) Act. It is not part of this Act.
 
-(c) the governing board shall reimburse the Director for any expenditure incurred by him for the purposes of the governing board and the conduct of the school during the period commencing from 1st January 1990 and ending on the date of incorporation of the governing board.
-
+||||
+|:-|:-|:-|
+|1.|**Act 4 of 1990—School Boards (Incorporation) Act 1990**|
+||Date of First Reading|15 January 1990|
+|||(Bill No. 2/90 published on 16 January 1990)|
+||Date of Second and Third Readings|22 February 1990|
+||Date of commencement|1 January 1990|
+|2.|**1991 Revised Edition—School Boards (Incorporation) Act (Chapter 284A)**|
+||Date of operation|1 March 1991|
