@@ -1,16 +1,14 @@
-**Singapore Workforce Development Agency Act 2003**
+**Singapore Workforce Development Agency Act**
 
-**(No. 14 of 2003)**
+**(CHAPTER 305D)**
 
 **Table of Contents**
 
 [**Long Title**](#Workforce-Singapore-Agency-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -80,7 +78,7 @@
 
 - [31 Presentation of financial statements and auditor’s report to Parliament](#Presentation-of-financial-statements-and-auditor’s-report-to-Parliament)
 
-[**Part VI TRANSFER OF PROPERTY, assets, LIABILITIES AND EMPLOYEES**](#Part-VI)
+[**Part VI TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES**](#Part-VI)
 
 - [32 Transfer to Agency of property, assets and liabilities](#Transfer-to-Agency-of-property-assets-and-liabilities)
 
@@ -122,59 +120,37 @@
 
 - [50 Consequential and related amendments to other written laws](#Consequential-and-related-amendments-to-other-written-laws)
 
-[**FIRST SCHEDULE Transferring Bodies and Transferred Agencies**](#FIRST-SCHEDULE-Transferring-Bodies-and-Transferred-Agencies)
+[**THE SCHEDULE Transferring bodies and transferred agencies**](#THE-SCHEDULE)
 
-[**SECOND SCHEDULE Consequential and Related Amendments to Other Written Laws**](#SECOND-SCHEDULE-Consequential-and-Related-Amendments-to-Other-Written-Laws)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Singapore Workforce Development Agency Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 305D)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 14 of 2003)
 
-Published by Authority
+REVISED EDITION 2004
 
-NO. 14]
+(31st December 2004)
 
-Friday, August 29
+An Act to establish and incorporate the Singapore Workforce Development Agency, to provide for its functions and powers, and for matters connected therewith.
 
-[2003
-
-The following Act was passed by Parliament on 15th August 2003 and assented to by the President on 26th August 2003:—
-
-Singapore Workforce Development Agency Act 2003
-
-(No. 14 of 2003)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-26th August 2003.
-
-Date of Commencement: 1st September 2003
-
-An Act to establish and incorporate the Singapore Workforce Development Agency, to provide for its functions and powers, and for matters connected therewith, and to make consequential and related amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st September 2003]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Singapore Workforce Development Agency Act 2003 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Singapore Workforce Development Agency Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
 “Agency” means the Singapore Workforce Development Agency established under section 3;
-
-“appointed day” means the date of commencement of this Act;
 
 “Chairman” means the Chairman of the Agency and includes any temporary Chairman of the Agency;
 
@@ -184,9 +160,9 @@ PRELIMINARY
 
 “member” means any member of the Agency and includes any temporary member of the Agency;
 
-“transferred agency” means any transferred agency specified in the second column of the First Schedule;
+“transferred agency” means any transferred agency specified in the second column of the Schedule;
 
-“transferring body” means any transferring body specified in the first column of the First Schedule.
+“transferring body” means any transferring body specified in the first column of the Schedule.
 
 ## PART II
 
@@ -372,7 +348,7 @@ FUNCTIONS, DUTIES AND POWERS OF AGENCY
 
 ### Directions by Minister
 
-13\. The Minister may give to the Agency such directions, not inconsistent with the provisions of this Act, as he thinks fit as to the performance of its functions and the exercise of its powers by the Agency, and the Agency shall give effect to any such directions.
+13\. The Minister may give to the Agency such directions, not inconsistent with the provisions of this Act, as he thinks fit as to the performance of its functions and the exercise of its powers, and the Agency shall give effect to any such directions.
 
 ### Committees
 
@@ -382,7 +358,7 @@ FUNCTIONS, DUTIES AND POWERS OF AGENCY
 
 ### Delegation of powers
 
-15\.—(1) The Agency may, from time to time, in respect of a specified matter or class of matters, by writing, delegate to any member, officer or committee of the Agency or any of its agent (including the Government) any of its powers under this Act or under any other written law, except —
+15\.—(1) The Agency may, from time to time, in respect of a specified matter or class of matters, by writing, delegate to any member, officer or committee of the Agency or any of its agents (including the Government) any of its powers under this Act or under any other written law, except —
 
 (a) the power of delegation conferred by this section; and
 
@@ -478,13 +454,13 @@ FINANCIAL PROVISIONS
 
 27\. The Agency may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[45/2004 wef 15/12/2004]
+[45/2004]
 
 ### Accounts
 
 28\. The Agency shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that —
 
-(a) all payments out of its moneys are correctly made and properly authorised; and
+(a) all payments out of its moneys are properly authorised and correctly made; and
 
 (b) adequate control is maintained over the assets of, or in the custody of, the Agency and over the expenditure incurred by the Agency.
 
@@ -492,7 +468,7 @@ FINANCIAL PROVISIONS
 
 29\.—(1) The accounts of the Agency shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General (referred to in this Act as the auditor).
 
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Act 2004 (Act 4 of 2004).
 
 (3) The Agency shall, as soon as practicable after the close of the financial year, prepare and submit the financial statements in respect of that financial year to the auditor who shall audit and report on them.
 
@@ -536,15 +512,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VI
 
-TRANSFER OF PROPERTY, assets, LIABILITIES AND EMPLOYEES
+TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer to Agency of property, assets and liabilities
 
-32\.—(1) As from the appointed day —
+32\.—(1) As from 1st September 2003 —
 
-(a) such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the transferred agencies specified in the second column of item 1 in the First Schedule;
+(a) such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the transferred agencies specified in the second column of item 1 in the Schedule;
 
-(b) such movable and immovable property vested in the Standards, Productivity and Innovation Board established under section 3 of the Standards, Productivity and Innovation Board Act (Cap. 303A) and used or managed by the transferred agencies specified in the second column of item 2 in the First Schedule; and
+(b) such movable and immovable property vested in the Standards, Productivity and Innovation Board established under section 3 of the Standards, Productivity and Innovation Board Act (Cap. 303A) and used or managed by the transferred agencies specified in the second column of item 2 in the Schedule; and
 
 (c) all assets, interests, rights, privileges, liabilities and obligations of the transferring bodies relating to the transferred agencies,
 
@@ -554,17 +530,17 @@ shall be transferred to and shall vest in the Agency without further assurance, 
 
 (3) Any immovable property to be transferred to and vested in the Agency under subsection (1) shall be held by the Agency upon such tenure and subject to such terms and conditions as the President may determine.
 
-(4) All proceedings in respect of the transferred properties by or against a transferring body which are pending on the appointed day may be continued, completed and enforced by or against the Agency.
+(4) All proceedings in respect of the transferred properties by or against a transferring body which are pending on 1st September 2003 may be continued, completed and enforced by or against the Agency.
 
-(5) Every agreement relating to any of the transferred properties to which a transferring body was a party immediately before the appointed day, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that day as if —
+(5) Every agreement relating to any of the transferred properties to which a transferring body was a party immediately before 1st September 2003, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that date as if —
 
 (a) the Agency had been a party to such an agreement; and
 
-(b) for any reference to the transferring body there was substituted in respect of anything to be done on or after the appointed day a reference to the Agency.
+(b) for any reference to the transferring body there was substituted in respect of anything to be done on or after 1st September 2003 a reference to the Agency.
 
 ### Transfer of employees
 
-33\.—(1) As from the appointed day, such persons or categories of persons who, immediately before that day, were employed by the transferring bodies and posted to the transferred agencies shall be transferred to the service of the Agency on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+33\.—(1) As from 1st September 2003, such persons or categories of persons who, immediately before that date, were employed by the transferring bodies and posted to the transferred agencies shall be transferred to the service of the Agency on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) If any question arises as to whether any person or category of persons has been transferred to the service of the Agency under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the person or category of persons was or was not so transferred.
 
@@ -588,21 +564,21 @@ shall be transferred to and shall vest in the Agency without further assurance, 
 
 ### Existing contracts
 
-36\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which any transferring body is a party and relating to any transferred agency or to any person transferred to the service of the Agency under section 33 shall continue in force on and after that day and shall be enforceable by or against the Agency as if the Agency had been named therein or had been a party thereto instead of the transferring body.
+36\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st September 2003 to which any transferring body is a party and relating to any transferred agency or to any person transferred to the service of the Agency under section 33 shall continue in force on and after that date and shall be enforceable by or against the Agency as if the Agency had been named therein or had been a party thereto instead of the transferring body.
 
 ### Continuation and completion of disciplinary proceedings and other legal proceedings
 
-37\.—(1) Where, on the appointed day, any disciplinary proceedings were pending against any employee of the transferring body transferred to the service of the Agency, the proceedings shall be carried on and completed by the Agency.
+37\.—(1) Where, on 1st September 2003, any disciplinary proceedings were pending against any employee of the transferring body transferred to the service of the Agency, the proceedings shall be carried on and completed by the Agency.
 
-(2) Where, on the appointed day, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that day.
+(2) Where, on 1st September 2003, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
 (3) Any order, ruling or direction made by a committee under this section shall be treated as an order, a ruling or a direction of the Agency and have the same force or effect as if it had been made by the Agency pursuant to the authority vested in the Agency under this Act.
 
-(4) All proceedings or causes of action pending or existing immediately before the appointed day by or against a transferring body in respect of its transferred agency may be continued, completed and enforced by or against the Agency.
+(4) All proceedings or causes of action pending or existing immediately before 1st September 2003 by or against a transferring body in respect of its transferred agency may be continued, completed and enforced by or against the Agency.
 
 ### Misconduct or neglect of duty by employee before transfer
 
-38\. The Agency may reprimand, reduce in rank, retire, dismiss or punish in some other manner any person who had, whilst he was in the employment of the transferring body, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the transferring body, and if this Act had not been enacted.
+38\. The Agency may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, whilst he was in the employment of the transferring body, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the transferring body, and if this Act had not been enacted.
 
 ## PART VII
 
@@ -688,7 +664,7 @@ shall disclose any information relating to the affairs of the Agency or of any o
 
 ### Evidence
 
-47\.—(1) Subject to subsection (3), a document or certificate purporting to be a report under the hand of the chief executive or any officer authorised by him upon any matter or thing in connection with the administration or enforcement of this Act or with an investigation carried out under this Act shall be admissible as evidence in any proceedings under this Act and shall be prima facie evidence of the facts stated therein.
+47\.—(1) Subject to subsection (3), a document or certificate purporting to be a report under the hand of the chief executive or any officer authorised by him upon any matter or thing in connection with the administration or enforcement of this Act, or with an investigation carried out under this Act, shall be admissible as evidence in any proceedings under this Act and shall be prima facie evidence of the facts stated therein.
 
 (2) For the purposes of this section, a document purporting to be a certificate referred to in subsection (1) on its production by the prosecution shall, until the contrary is proved, be deemed to be such a certificate.
 
@@ -732,15 +708,13 @@ and the fees payable in respect thereof;
 
 ### Consequential and related amendments to other written laws
 
-50\.—(1) The provisions of the Acts specified in the first column of the Second Schedule are amended in the manner set out in the second column thereof.
+50\. The Minister may, by regulations, repeal or amend any other written law which appears to him to be unnecessary having regard to the provisions of this Act.
 
-(2) The Minister may, by regulations, repeal or amend any other written law which appears to him to be unnecessary having regard to the provisions of this Act.
-
-FIRST SCHEDULE
+## THE SCHEDULE
 
 Sections 2 and 32(1)
 
-Transferring Bodies and Transferred Agencies
+Transferring bodies and transferred agencies
 
 First column
 
@@ -778,71 +752,26 @@ Critical Enabling Skills Training (CREST) Secretariat
 
 National Skills Recognition System (NSRS) Centre.
 
-SECOND SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 50
+Singapore Workforce Development Agency Act
 
-Consequential and Related Amendments to Other Written Laws
+(CHAPTER 305D)
 
-First column
+This Legislative History is provided for the convenience of users of the Singapore Workforce Development Agency Act. It is not part of this Act.
 
-Second column
-
-(1)
-
-Standards, Productivity and Innovation Board Act
-
-
-
-
-(Chapter 303A, 2002 Ed.)
-
-Section 6 (1)
-
-Delete paragraph (c).
-
-(2)
-
-Skills Development Levy Act
-
-
-
-
-(Chapter 306, 1998 Ed.)
-
-(a)
-
-Section 2
-
-Delete the definition of “Board” and substitute the following definition:
-
-“
-
-“Agency” means the Singapore Workforce Development Agency established under the Singapore Workforce Development Agency Act 2003;
-
-”.
-
-(b)
-
-Sections 3 (4), 5 (2) (e) and (f), 7 (2), 8 (2) and (3) and section heading, 9 (1) to (4) and section heading, 10, 15 (1) and (2), 16 and section heading, 17 (1), 19, 20, 21 (1), (2) and (4), 22 (1), 23, 25, First Schedule (paragraphs 2, 3, 6 (1) (c) and (2) and 9 (1) and (2)) and Second Schedule (paragraph 9 and schedule heading).
-
-Delete the word “Board” wherever it appears and substitute in each case the word “Agency”.
-
-(c)
-
-Section 8
-
-Delete subsection (1) and substitute the following subsection:
-
-“
-
-(1) On the date of commencement of the Singapore Workforce Development Agency Act 2003, all moneys in and belonging to the Fund and all assets, interests, rights, privileges, liabilities and obligations relating to the Fund shall be transferred to and shall vest in the Agency without further assurance.
-
-”.
-
-(d)
-
-Section 12
-
-Delete “$5,000” and substitute “$10,000”.
-
+||||
+|:-|:-|:-|
+|1.|**Act 14 of 2003—Singapore Workforce Development Agency Act 2003**|
+||Date of First Reading|30 June 2003|
+|||(Bill No. 13/2003 published on 1 July 2003)|
+||Date of Second and Third Readings|15 August 2003|
+||Date of commencement|1 September 2003|
+|2.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
+|3.|**2004 Revised Edition—Singapore Workforce Development Agency Act**|
+||Date of operation|31 December 2004|
