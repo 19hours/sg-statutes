@@ -82,6 +82,8 @@
 
 - [32 Power to borrow](#Power-to-borrow)
 
+- [32A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [33 Grants](#Grants)
 
 - [34 Income of Board to be exempt from income tax, etc.](#Income-of-Board-to-be-exempt-from-income-tax-etc)
@@ -543,6 +545,12 @@ FUNDS AND PROPERTY OF BOARD
 
 32\. The Board may from time to time for the purposes of this Act raise loans from the Government or, with the consent of the Minister, from any other source.
 
+### Issue of shares, etc.
+
+32A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
+
 ### Grants
 
 33\. For the purpose of enabling the Board to carry out its functions under this Act, the Minister may from time to time make grants to the Board of such sums of money as the Minister may determine out of moneys to be provided by Parliament.
@@ -878,3 +886,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of commencement|1 August 1993|
 |2.|**1994 Revised Edition—National Heritage Board Act**|
 ||Date of operation|15 March 1994|
+|3.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
