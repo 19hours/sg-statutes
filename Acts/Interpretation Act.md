@@ -26,6 +26,8 @@
 
 - [7 Forms](#Forms)
 
+- [7A Examples and illustrations](#Examples-and-illustrations)
+
 - [8 Mode of citing Acts](#Mode-of-citing-Acts)
 
 - [9 Construction in an Act of references to sections, etc.](#Construction-in-an-Act-of-references-to-sections-etc)
@@ -68,6 +70,8 @@
 
 - [26 Acts done under subsidiary legislation to be deemed to be done under Act](#Acts-done-under-subsidiary-legislation-to-be-deemed-to-be-done-under-Act)
 
+- [26A Reference to Act to include subsidiary legislation](#Reference-to-Act-to-include-subsidiary-legislation)
+
 [**Part IV POWERS AND APPOINTMENTS**](#Part-IV)
 
 - [27 Construction of provisions as to exercise of powers and duties](#Construction-of-provisions-as-to-exercise-of-powers-and-duties)
@@ -81,6 +85,8 @@
 - [31 Official designation to include officer executing duties](#Official-designation-to-include-officer-executing-duties)
 
 - [32 Appointments having retrospective effect](#Appointments-having-retrospective-effect)
+
+- [32A Power of majority, quorum, etc., of board, etc.](#Power-of-majority-quorum-etc-of-board-etc)
 
 - [33 Powers of board, etc., not affected by vacancy, etc.](#Powers-of-board-etc-not-affected-by-vacancy-etc)
 
@@ -117,6 +123,8 @@
 - [47 Proceedings not to abate on death, etc., of official](#Proceedings-not-to-abate-on-death-etc-of-official)
 
 - [48Gazetteto be evidence of matters therein](#be-evidence-of-matters-therein)
+
+- [48A Service of documents](#Service-of-documents)
 
 - [49 Measurement of distance](#Measurement-of-distance)
 
@@ -174,6 +182,10 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “animal” includes bird, reptile, fish and every kind of vertebrate animal and the young thereof;
 
+“appoint” includes re-appoint;
+
+[28/2000 wef 01/11/2000]
+
 “Attorney-General” means the Attorney-General of Singapore;
 
 “Auditor-General” means the Auditor-General of Singapore;
@@ -199,6 +211,10 @@ GENERAL PROVISIONS OF INTERPRETATION
 “Constitution” means the Constitution of the Republic of Singapore;
 
 “consular officer” means consul-general, consul, vice-consul, consular agent and any person for the time being authorised to discharge the duties of consul-general, consul, vice-consul or consular agent;
+
+“contravene”, in relation to a provision of a written law, includes a failure to comply with a requirement or condition in that provision;
+
+[28/2000 wef 01/11/2000]
 
 “court” means any court of competent jurisdiction in Singapore;
 
@@ -328,6 +344,10 @@ words in the singular include the plural and words in the plural include the sin
 
 [14/69; 11/91; 16/93; 7/97,25/98]
 
+(1A) Where a word or expression is defined in a written law, then, unless the contrary intention appears, other parts of speech and grammatical forms of that word or expression, and cognate expressions, have corresponding meanings in that law.
+
+[28/2000 wef 01/11/2000]
+
 (2) In every written law enacted before 28th December 1965 —
 
 (a) references to the Colony of the Straits Settlements, the Settlement of Singapore, the Colony of Singapore, the Colony, the State of Singapore or the State, shall be construed as references to Singapore;
@@ -456,6 +476,16 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 7\. Except as is otherwise expressly provided, whenever forms are prescribed, slight deviations therefrom, not affecting the substance or calculated to mislead, shall not invalidate them.
 
+### Examples and illustrations
+
+7A\. Where an Act includes an example or illustration of the operation of a provision —
+
+(a) the example or illustration shall not be taken to be exhaustive; and
+
+(b) if the example or illustration is inconsistent with the provision, the provision prevails.
+
+[28/2000 wef 01/11/2000]
+
 ### Mode of citing Acts
 
 8\.—(1) Where any Act is referred to, it shall be sufficient for all purposes to cite the Act either by the short title, if any, by which it is made citable, or by the year in which it was made and its number among the Acts of that year or, in the case of a revised edition of the Acts issued under any written law providing for the issue of a revised edition, by its short title or its chapter number; and the reference may in all cases be made according to the copies of Acts printed by the Government Printer.
@@ -514,13 +544,19 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 ### Time of commencement of written law
 
-10\. A written law or a provision of a written law shall come into operation —
+10\.—(1) A written law or a provision of a written law shall come into operation —
 
 (a) where a particular day for its coming into operation is specified by the written law or by a notification made under the written law, on the expiration of the previous day; or
 
 (b) where the day of its coming into operation is the date of its publication in theGazette, on the expiration of the previous day.
 
 [11/93]
+
+[28/2000 wef 01/11/2000]
+
+(2) Where a written law is to come into operation on a day specified by a notification made under the written law, the notification may specify different days for different provisions of the written law to come into operation.
+
+[28/2000 wef 01/11/2000]
 
 ### Effect of repeal of Act on subsidiary legislation made thereunder
 
@@ -564,13 +600,23 @@ GENERAL PROVISIONS REGARDING WRITTEN LAW
 
 (e) affect any investigation, legal proceeding or remedy in respect of any such right, privilege, obligation, liability, penalty, forfeiture or punishment as aforesaid; and any such investigation, legal proceeding or remedy may be instituted, continued or enforced, and any such penalty, forfeiture or punishment may be imposed, as if the repealing law had not been passed.
 
-(2) This section shall also apply to —
+(2) A reference in this section to the repeal of a written law in whole or in part includes a reference to —
 
-(a) a repeal of a written law by implication; and
+(a) a repeal effected by implication;
 
-(b) the expiry of a temporary Act as if it were repealed by another Act.
+(b) the abrogation or limitation of the effect of the written law or part; and
 
-[11/93]
+(c) the exclusion of the application of the written law or part to any person, subject-matter or circumstance.
+
+[28/2000 wef 01/11/2000]
+
+(3) Where a written law expires, lapses or otherwise ceases to have effect, this section applies as if the written law had been repealed by another written law.
+
+[28/2000 wef 01/11/2000]
+
+(4) A reference in this section to a part of a written law includes a reference to any provision of, or words, figures, drawings or symbols in, the written law.
+
+[28/2000 wef 01/11/2000]
 
 ### Construction of amending Act
 
@@ -650,6 +696,12 @@ SUBSIDIARY LEGISLATION
 
 26\. An act shall be deemed to be done under any Act or by virtue of the powers conferred by any Act or in pursuance or execution of the powers of, or under the authority of any Act, if it is done under, or by virtue of, or in pursuance of, subsidiary legislation made under any power contained in the Act.
 
+### Reference to Act to include subsidiary legislation
+
+26A\. Unless the contrary intention appears, a reference in any written law to an Act is to be construed so as to include a reference to any subsidiary legislation made under that Act.
+
+[28/2000 wef 01/11/2000]
+
 ## PART IV
 
 POWERS AND APPOINTMENTS
@@ -693,6 +745,28 @@ POWERS AND APPOINTMENTS
 ### Appointments having retrospective effect
 
 32\. Any appointment may be declared to have effect as from the date upon which the appointee commenced to exercise the powers and discharge the duties of his appointment, not being a date earlier than the date of the commencement of the written law under which the appointment is made.
+
+### Power of majority, quorum, etc., of board, etc.
+
+32A\.—(1) Where a written law confers a power or function or imposes a duty upon a statutory body consisting of not fewer than 3 persons, the power may be exercised, or the function or duty may be performed, by a majority of those persons.
+
+(2) Where a statutory body consists of 3 or more persons —
+
+(a) a quorum is constituted at a meeting of the body by a number of members of the body equal to —
+
+(i) at least one-half of the number of members provided for in the written law establishing the body, if that number is a fixed number; and
+
+(ii) if the number of persons is not so fixed but is within a range having a maximum or minimum, at least one-half of the number of members in office;
+
+(b) an act or thing done by a majority of the members of the body present at the meeting, if those members constitute a quorum, is to be regarded as having been done by the body.
+
+(3) At a meeting of a statutory body, the chairman or other member presiding shall have a casting as well as a deliberative vote in all matters in which a decision is taken by vote.
+
+(4) This section is subject to any provision to the contrary in any written law.
+
+(5) In this section, “statutory body” means a board, commission, committee or similar body, whether corporate or unincorporate, established under a written law.
+
+[28/2000 wef 01/11/2000]
 
 ### Powers of board, etc., not affected by vacancy, etc.
 
@@ -797,6 +871,36 @@ MISCELLANEOUS
 (a) admitted in evidence by all courts and in all legal proceedings whatsoever without any proof being given that those copies were so published and printed; and
 
 (b) taken and accepted as prima facie evidence of subsidiary legislation, appointments, notifications and other publications therein printed and of the matters and things contained in such subsidiary legislation, appointments, notifications and publications, respectively.
+
+### Service of documents
+
+48A\.—(1) Where a written law authorises or requires a document to be served on a person, whether the expression “serve”, “give” or “send” or any other expression is used, then, unless the contrary intention appears, the document may be served —
+
+(a) in the case of an individual —
+
+(i) by delivering it to the individual personally; or
+
+(ii) by leaving it at, or by sending it by pre-paid post to, the usual or last known address of the place of residence or business of the individual;
+
+(b) in the case of a partnership —
+
+(i) by delivering it to the secretary or other like officer of the partnership; or
+
+(ii) by leaving it at, or by sending it by pre-paid post to, the principal or last known place of business of the partnership in Singapore;
+
+(c) in the case of a body corporate —
+
+(i) by delivering it to the secretary or other like officer of the body corporate; or
+
+(ii) by leaving it at, or by sending it by pre-paid post to, the registered office or a principal office of the body corporate in Singapore.
+
+(2) Nothing in subsection (1) —
+
+(a) affects the operation of any written law that authorises the service of a document otherwise than as provided in that subsection; or
+
+(b) affects the power of a court to authorise service of a document otherwise than as provided in that subsection.
+
+[28/2000 wef 01/11/2000]
 
 ### Measurement of distance
 
@@ -915,6 +1019,11 @@ This Legislative History is provided for the convenience of users of the Interpr
 ||Date of commencement|2 November 1998|
 |14.|**1999 Revised Edition—Interpretation Act**|
 ||Date of operation|1 August 1999|
+|15.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
+||Date of First Reading|25 August 2000|
+|||(Bill No. 22/2000 published on 25 August 2000)|
+||Date of Second and Third Readings|9 October 2000|
+||Date of commencement|1 November 2000|
 ## COMPARATIVE TABLE
 
 Interpretation Act
