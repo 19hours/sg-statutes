@@ -1390,7 +1390,7 @@ But nothing in this section shall be construed as requiring the bill or note of 
 
 (2) Any Magistrate acting under subsection (1) shall, as far as possible, be guided by any rules having the force of law for the time being in force which may have been promulgated for the guidance of notaries public.
 
-(3) The President may by notification in theGazetteprescribe the fees payable on issue of certificates under subsection (1), and may in the like manner prescribe the form of such certificates.
+(3) The Minister may by notification in theGazetteprescribe the fees payable on issue of certificates under subsection (1), and may in the like manner prescribe the form of such certificates.
 
 ### Dividend warrants and banker’s draft may be crossed
 
@@ -1399,8 +1399,6 @@ But nothing in this section shall be construed as requiring the bill or note of 
 ### Savings
 
 101\.—(1) The rules in bankruptcy relating to bills of exchange, promissory notes and cheques shall continue to apply thereto notwithstanding anything in this Act.
-
-(2) Subject to the provisions of any written law for the time being in force, the rules of the common law of England, including the law merchant, shall, save in so far as they are inconsistent with the express provisions of this Act, apply to bills of exchange, promissory notes and cheques.
 
 (3) Nothing in this Act shall affect —
 
@@ -1437,3 +1435,8 @@ This Legislative History is provided for the convenience of users of the Bills o
 |||(Bill No. 35/92 published on 15 September 1992)|
 ||Date of Second and Third Readings|16 November 1992|
 ||Date of commencement|18 December 1992|
+|6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/97 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997|
