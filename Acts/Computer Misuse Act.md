@@ -32,11 +32,11 @@
 
 - [10 Order for payment of compensation](#Order-for-payment-of-compensation)
 
-- [11 Evidence from computer records](#Evidence-from-computer-records)
+- [11 (Repealed)](#Repealed)
 
-- [12 Supplementary provisions on evidence](#Supplementary-provisions-on-evidence)
+- [12 (Repealed)](#Repealed)
 
-- [13 Proof by document or copy thereof](#Proof-by-document-or-copy-thereof)
+- [13 (Repealed)](#Repealed)
 
 - [14 Powers of police officer to investigate and require assistance](#Powers-of-police-officer-to-investigate-and-require-assistance)
 
@@ -144,7 +144,7 @@ OFFENCES
 
 ### Unauthorised access to computer material
 
-3\.—(1) Subject to subsection (2), any person who knowingly causes a computer to perform any function for the purpose of securing access without authority to any program or data held in any computer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 2 years or to both .
+3\.—(1) Subject to subsection (2), any person who knowingly causes a computer to perform any function for the purpose of securing access without authority to any program or data held in any computer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (2) If any damage caused by an offence under this section exceeds $10,000, a person convicted of the offence shall be liable to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.
 
@@ -236,57 +236,11 @@ MISCELLANEOUS AND GENERAL
 
 (3) An order of compensation under this section shall be recoverable as a civil debt.
 
-### Evidence from computer records
+11\. [Repealed by Act 8/1996 wef 08/03/1996]
 
-11\.—(1) Notwithstanding sections 35 and 36 of the Evidence Act [Cap. 97], in any proceedings under this Act, any relevant computer output shall be admissible as evidence of any fact stated therein if it is shown —
+12\. [Repealed by Act 8/1996 wef 08/03/1996]
 
-(a) that there is no reasonable ground for believing that the output is inaccurate because of improper use of the computer and that no reason exists to doubt or suspect the truth or reliability of the output; or
-
-(b) that at all material times the computer was operating properly, or if not, that any respect in which it was not operating properly or was out of operation was not such as to affect the production of the output or the accuracy of its contents.
-
-(2) For the purpose of deciding whether or not such output is so admissible, the court may draw any reasonable inference from the circumstances in which the output was made or otherwise came into being.
-
-(3) The Minister may make rules requiring that, in any proceedings where it is desired to give a statement in evidence by virtue of this section, such information concerning the statement as may be required by the rules shall be provided in such form and at such time as may be so required.
-
-### Supplementary provisions on evidence
-
-12\.—(1) In any proceedings where it is desired to admit computer output in evidence in accordance with section 11, a certificate —
-
-(a) identifying the computer output and describing the manner in which it was produced;
-
-(b) giving such particulars of any device involved in the production of that computer output as may be appropriate for the purpose of showing that the output was produced by a computer;
-
-(c) dealing with any of the matters mentioned in section 11(1); and
-
-(d) purporting to be signed by a person occupying a responsible position in relation to the operation of the computer at all relevant times,
-
-shall be admitted in those proceedings as evidence of anything stated in the certificate.
-
-(2) If the person referred to in subsection (1)(d) who occupies a responsible position in relation to the operation of the computer did not have control or access over any relevant records and facts in relation to the production by the computer of the computer output, a supplementary certificate signed by another person who had such control or access and made in accordance with subsection (1)(a) to (c) shall be evidence of anything stated in the certificate.
-
-(3) For the purposes of subsections (1) and (2), it shall be sufficient for a matter to be stated to the best of the knowledge and belief of the person stating it.
-
-(4) Notwithstanding subsection (1) or (2), a court may require oral evidence to be given of anything of which evidence could be given by a certificate under that subsection.
-
-(5) Any person who in a certificate tendered under subsection (1) or (2) in a court makes a statement which he knows to be false or does not believe to be true shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-(6) In estimating the weight, if any, of any admissible computer output, regard shall be had to all the circumstances from which any inference can reasonably be drawn as to the accuracy or otherwise of the output and, in particular —
-
-(a) to the question whether or not the information which the output reproduces or is derived from was supplied to the relevant computer, or recorded for the purpose of being supplied to it, contemporaneously with the occurrence or existence of the facts dealt with in that information; and
-
-(b) to the question whether or not any person concerned with the supply of information to that computer, or with the operation of that computer or any equipment by means of which the admissible computer output was produced by it, had any incentive to conceal or misrepresent the facts.
-
-(7) For the purposes of subsection (6), information shall be taken to be supplied to a computer whether it is supplied directly or (with or without human intervention) by means of any appropriate equipment.
-
-### Proof by document or copy thereof
-
-13\. Notwithstanding the provisions of the Evidence Act [Cap. 97], where in any proceedings any computer output is admissible in evidence in accordance with section 11, it may be proved —
-
-(a) by the production of that computer output; or
-
-(b) (whether or not that computer output is still in existence) by the production of a copy of that output, or of the material part of it,
-
-authenticated in such manner as the court may approve.
+13\. [Repealed by Act 8/1996 wef 08/03/1996]
 
 ### Powers of police officer to investigate and require assistance
 
@@ -324,3 +278,8 @@ This Legislative History is provided for the convenience of users of the Compute
 |2.|**1994 Revised Edition—Computer Misuse Act**|
 ||(G.N. No. S 92/1997 — Rectification Order)||
 ||Date of operation|15 March 1994|
+|3.|**Act 8 of 1996—Evidence (Amendment) Act 1996**|
+||Date of First Reading|5 December 1995|
+|||(Bill No. 45/95 published on 6 December 1995)|
+||Date of Second and Third Readings|18 January 1996|
+||Date of commencement|8 March 1996|
