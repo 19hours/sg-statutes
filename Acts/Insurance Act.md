@@ -82,9 +82,9 @@
 
 - [32 General obligation to furnish information](#General-obligation-to-furnish-information)
 
-- [32A Production orders against insurers to produce material relating to drug trafficking](#Production-orders-against-insurers-to-produce-material-relating-to-drug-trafficking)
+- [32A (Repealed)](#Repealed)
 
-- [32B Production orders to obtain information to assist foreign authority investigating drug trafficking](#Production-orders-to-obtain-information-to-assist-foreign-authority-investigating-drug-trafficking)
+- [32B (Repealed)](#Repealed)
 
 [**Subsidiary**](#Subsidiary)
 
@@ -840,83 +840,9 @@ unless the insurer satisfies the Authority that that person is a fit and proper 
 
 [31
 
-### Production orders against insurers to produce material relating to drug trafficking
+32A\. [Repealed by Act 25/99 wef 13/09/1999]
 
-32A\.—(1) The Attorney-General or any person duly authorised by him in writing may, for the purpose of an investigation into drug trafficking, apply to the High Court for an order under subsection (2) in relation to any particular material or material of a particular description.
-
-(2) The High Court may, if on such an application it is satisfied that the conditions referred to in subsection (3) are fulfilled, make an order that the insurer which appears to the Court to be in possession of the material to which the application relates shall —
-
-(a) produce the material to the Attorney-General or the person duly authorised by him for the Attorney-General or such person to take away; or
-
-(b) give the Attorney-General or the person duly authorised by him access to the material,
-
-within a reasonable period, but not less than 7 days, as the order may specify.
-
-(3) The conditions referred to in subsection (2) are —
-
-(a) 
-
-(i) where the application is in respect of a foreign offence, that there is prima facie case that a specified person has carried on or has benefited from drug trafficking; and
-
-(ii) in any other case, that there are reasonable grounds for suspecting that a specified person has carried on or has benefited from drug trafficking;
-
-(b) that there are reasonable grounds for believing that the material to which the application relates —
-
-(i) is likely to be of substantial value (whether by itself or together with other material) to the investigation for the purpose of which the application is made; and
-
-(ii) does not consist of or include items subject to legal privilege; and
-
-(c) that it is not contrary to the public interest to produce the material to which the application relates.
-
-(4) No action shall lie against an insurer which in good faith produces materials or gives access to materials relating to any policy by reason of that insurer having made the production or given access in compliance with an order made against it under subsection (2) or any act done or omitted to be done in relation to moneys, commissions or property relating to that policy in consequence of the production of or access to those materials.
-
-(5) The proceedings for an application of a production order under this section shall be heard in camera.
-
-(6) In this section —
-
-“drug trafficking” and “foreign offence” have the same meanings as in the Drug Trafficking (Confiscation of Benefits) Act;
-
-“items subject to legal privilege” has the same meaning as in section 33(2) of the Drug Trafficking (Confiscation of Benefits) Act.
-
-[Act 21/95wef 15.8.95 vide S 349/95]
-
-### Production orders to obtain information to assist foreign authority investigating drug trafficking
-
-32B\.—(1) The Attorney-General or any person duly authorised by him in writing may make an application under section 32A for the purpose of assisting a foreign authority in its investigation into a foreign offence if and only if the conditions in subsection (2) are fulfilled in addition to those in section 32A(3).
-
-(2) The conditions referred to in subsection (1) are —
-
-(a) there exists a mutual legal assistance treaty, memorandum of understanding or other agreement or arrangement in drug-related matters between Singapore and the foreign government and the conditions therein have been fulfilled in respect of any particular request for assistance from the Attorney-General, which conditions shall be in addition to and not in derogation of the conditions in this subsection;
-
-(b) the foreign authority has agreed to provide reciprocal assistance in drug-related matters to Singapore;
-
-(c) the foreign offence which is the subject of the investigation constitutes an offence against the law of or of a part of the State of the foreign authority and the act or omission constituting the offence or the equivalent act or omission would, if it had occurred in Singapore, have constituted an offence under the Drug Trafficking (Confiscation of Benefits) Act or the Misuse of Drugs Act [Cap. 185];
-
-(d) the seriousness of the foreign offence under investigation is of sufficient gravity and the material which is the subject of the application is of sufficient importance to the investigation and whether the material could not reasonably be obtained by other means;
-
-(e) the assistance is not likely to prejudice the sovereignty, security or other essential interests of Singapore;
-
-(f) it is appropriate in the public interest to give the assistance sought;
-
-(g) the foreign authority undertakes that the material sought if granted by the High Court pursuant to a production order shall not be used for any other purposes except for the investigation of the foreign offence or for the prosecution of the offender concerned and the material shall be returned to the Attorney-General upon completion of the investigation or the proceedings against the offender; and
-
-(h) such other conditions as the Minister may prescribe.
-
-(3) The proceedings for an application for a production order under subsection (1) shall be heard in camera.
-
-(4) In this section —
-
-“drug-related matters” includes the subject of mutual assistance in the investigation of drug trafficking offences within the meaning of the Drug Trafficking (Confiscation of Benefits) Act;
-
-“foreign authority” means a foreign government or an appropriate authority designated by a foreign government exercising any function corresponding to a function of the Minister in charge of the Drug Trafficking (Confiscation of Benefits) Act or the Misuse of Drugs Act [Cap. 185];
-
-“foreign country” means any country or territory outside Singapore;
-
-“foreign government” means the government of a foreign country;
-
-“foreign offence” has the same meaning as in the Drug Trafficking (Confiscation of Benefits) Act;
-
-[Act 21/95 wef 15/08/1995vide S 349/95]
+32B\. [Repealed by Act 25/99 wef 13/09/1999]
 
 Subsidiary
 
@@ -1849,3 +1775,9 @@ This Legislative History is provided for the convenience of users of the Insuran
 |||(Bill No. 16/95 published on 24 March 1995)|
 ||Date of Second and Third Readings|7 July 1995|
 ||Date of commencement|15 August 1995|
+|12.|**Act 25 of 1999—Drug Trafficking (Confiscation of Benefits) (Amendment) Act 1999**|
+||(Consequential amendments made by)||
+||Date of First Reading|4 May 1999|
+|||(Bill No. 16/99 published on 5 May 1999)|
+||Date of Second and Third Readings|6 July 1999|
+||Date of commencement|13 September 1999|
