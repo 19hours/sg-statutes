@@ -1,16 +1,14 @@
-**Payment and Settlement Systems (Finality and Netting) Act 2002**
+**Payment and Settlement Systems (Finality and Netting) Act**
 
-**(No. 39 of 2002)**
+**(CHAPTER 231)**
 
 **Table of Contents**
 
 [**Long Title**](#Payment-and-Settlement-Systems-Finality-and-Netting-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -46,71 +44,53 @@
 
 - [15 Preservation of rights, etc.](#Preservation-of-rights-etc)
 
-- [16 Obligation to notify designated system of insolvency](#Obligation-to-notify-designated-system-of-insolvency)
+- [16 Obligation to notify operator of designated system of insolvency](#Obligation-to-notify-operator-of-designated-system-of-insolvency)
 
-- [16A Composition of offences](#Composition-of-offences)
+- [17 Composition of offences](#Composition-of-offences)
 
-- [16B Jurisdiction of District Court](#Jurisdiction-of-District-Court)
+- [18 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
-- [17 Immunity of Authority and its employees, etc.](#Immunity-of-Authority-and-its-employees-etc)
+- [19 Immunity of Authority and its employees, etc.](#Immunity-of-Authority-and-its-employees-etc)
 
-- [18 Power to make regulations](#Power-to-make-regulations)
+- [20 Power to make regulations](#Power-to-make-regulations)
 
-- [19 Settlement system deemed to be designated system under this Act](#Settlement-system-deemed-to-be-designated-system-under-this-Act)
+- [21 Settlement system deemed to be designated system under this Act](#Settlement-system-deemed-to-be-designated-system-under-this-Act)
 
-- [20 Related and consequential amendments](#Related-and-consequential-amendments)
+- [22 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
 
-- [21 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+- [23 Transitional provisions](#Transitional-provisions)
 
-- [22 Transitional provisions](#Transitional-provisions)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+[**Comparative Table**](#Comparative-Table)
 
-GOVERNMENT GAZETTE
+# Payment and Settlement Systems (Finality and Netting) Act
 
-ACTS SUPPLEMENT
+(CHAPTER 231)
 
-Published by Authority
+(Original Enactment: Act 39 of 2002)
 
-NO. 34]
+REVISED EDITION 2003
 
-Friday, December 13
+(31st July 2003)
 
-[2002
+An Act to make provision for the protection of payment and settlement systems from disruptions that may lead to risks to the financial system and for purposes connected therewith.
 
-The following Act was passed by Parliament on 25th November 2002 and assented to by the President on 3rd December 2002:—
-
-Payment and Settlement Systems (Finality and Netting) Act 2002
-
-(No. 39 of 2002)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-3rd December 2002.
-
-Date of Commencement: 9th December 2002
-
-An Act to make provision for the protection of payment and settlement systems from disruptions that may lead to risks to the financial system and for purposes connected therewith, and to make related amendments to the Banking Act (Chapter 19 of the 1999 Revised Edition), the Monetary Authority of Singapore Act (Chapter 186 of the 1999 Revised Edition) and the Securities and Futures Act 2001 (Act 42 of 2001).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[9th December 2002]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Payment and Settlement Systems (Finality and Netting) Act 2002 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Payment and Settlement Systems (Finality and Netting) Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap.186);
+“Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
 
 “book-entry Government securities” means any securities issued by the Government under any written law transferable by a book-entry on a register or otherwise;
 
@@ -158,7 +138,7 @@ PRELIMINARY
 
 (a) the Bankruptcy Act (Cap.20);
 
-(b) Parts VIIIA, IX and X of the Companies Act (Cap.50); and
+(b) Parts VIIIA, IX and X of the Companies Act (Cap. 50); and
 
 (c) any other written law or rule of law whether of Singapore or a place outside Singapore which is concerned with or in any way related to the bankruptcy, winding up or insolvency of a person.
 
@@ -196,7 +176,7 @@ PRELIMINARY
 
 ### Application of this Act
 
-5\. This Act shall apply to such transactions or class of transactions cleared or settled in a designated system, subject to such restrictions, as the Authority may by order published in theGazetteprescribe.
+5\. This Act shall apply to all transactions cleared or settled in a designated system, subject to such restrictions as the Authority may by order published in theGazetteprescribe.
 
 ## PART II
 
@@ -242,7 +222,7 @@ is final and irrevocable.
 
 (d) the rules of a designated system as to the settlement of transfer orders not dealt with under its default arrangements.
 
-(2) The powers of a relevant office holder and the powers of a court under the law of insolvency, shall not be exercised in such a way as to prevent or interfere with —
+(2) The powers of a relevant office holder and the powers of a court under the law of insolvency shall not be exercised in such a way as to prevent or interfere with —
 
 (a) the settlement of a transfer order in accordance with the rules of a designated system not dealt with under its default arrangements; or
 
@@ -270,7 +250,7 @@ is final and irrevocable.
 
 (c) section 329 of the Companies Act read with section 98 or 99 of the Bankruptcy Act, or section 331 of the Companies Act; or
 
-(d) section 73B of the Conveyancing and Law of Property Act (Cap.61),
+(d) section 73B of the Conveyancing and Law of Property Act (Cap. 61),
 
 in relation to a transfer order or any disposition of property in pursuance of such an order.
 
@@ -278,7 +258,7 @@ in relation to a transfer order or any disposition of property in pursuance of s
 
 11\.—(1) This section shall apply with respect to any net sum owed by or to a defaulter on the completion of the action taken under default arrangements.
 
-(2) Notwithstanding section 87 or 88 of the Bankruptcy Act (Cap.20) and section 327 of the Companies Act (Cap. 50), where a court has made an order for bankruptcy or winding up of a participant or a resolution for the voluntary winding up of a participant has been passed, the net sum referred to in subsection (1) shall be —
+(2) Notwithstanding section 87 or 88 of the Bankruptcy Act and section 327 of the Companies Act, where a court has made an order for bankruptcy or winding up of a participant or a resolution for the voluntary winding up of a participant has been passed, the net sum referred to in subsection (1) shall be —
 
 (a) provable in the bankruptcy or winding up or, as the case may be, payable to the relevant office holder; and
 
@@ -344,7 +324,7 @@ in so far as the making of the order or doing of the act would be prohibited und
 
 (c) the reversal of a payment or settlement made under the rules of a designated system.
 
-### Obligation to notify designated system of insolvency
+### Obligation to notify operator of designated system of insolvency
 
 16\.—(1) A participant shall notify the operator of a designated system as soon as practicable after the occurrence of any of the following events:
 
@@ -362,25 +342,35 @@ in so far as the making of the order or doing of the act would be prohibited und
 
 ### Composition of offences
 
-16A\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from any person reasonably suspected of having committed the offence a sum not exceeding $10,000.
+17\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from any person reasonably suspected of having committed the offence a sum not exceeding $10,000.
+
+[9/2003]
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
+[9/2003]
+
 (3) The Authority may make regulations to prescribe the offences which may be compounded.
+
+[9/2003]
 
 (4) All sums collected under this section shall be paid to the Authority.
 
-[9/2003 wef 16/05/2003]
+[16A
+
+[9/2003]
 
 ### Jurisdiction of District Court
 
-16B\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+18\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
 
-[9/2003 wef 16/05/2003]
+[16B
+
+[9/2003]
 
 ### Immunity of Authority and its employees, etc.
 
-17\. No suit or other legal proceedings shall lie against the Authority or any officer or employee of the Authority or any person acting under the direction of the Authority —
+19\. No suit or other legal proceedings shall lie against the Authority or any officer or employee of the Authority or any person acting under the direction of the Authority —
 
 (a) for any act done in good faith —
 
@@ -392,9 +382,11 @@ in the capacity of the Authority as the designating authority under this Act; or
 
 (b) for any neglect or default in the performance or exercise in good faith of such function, duty or power.
 
+[17
+
 ### Power to make regulations
 
-18\.—(1) The Authority may make such regulations as may be necessary or expedient for carrying out the purposes and provisions of this Act and for prescribing anything that may be required or authorised to be prescribed by this Act.
+20\.—(1) The Authority may make such regulations as may be necessary or expedient for carrying out the purposes and provisions of this Act and for prescribing anything that may be required or authorised to be prescribed by this Act.
 
 (2) Without prejudice to the generality of subsection (1), the Authority may make regulations for the following purposes:
 
@@ -402,73 +394,92 @@ in the capacity of the Authority as the designating authority under this Act; or
 
 (b) disclosure and provision to the Authority of such information as may be prescribed by the Authority.
 
+[18
+
 ### Settlement system deemed to be designated system under this Act
 
-19\. A settlement system operated by the Authority under section 59A of the Banking Act (Cap. 19) immediately before the date of commencement of this Act shall be deemed to be a designated system under this Act.
+21\. A settlement system operated by the Authority under the repealed section 59A of the Banking Act (Cap. 19, 1999 Ed.) immediately before 9th December 2002 shall be deemed to be a designated system under this Act.
 
-### Related and consequential amendments
-
-20\.—(1) Section 59A of the Banking Act is repealed.
-
-(2) The Monetary Authority of Singapore Act (Cap. 186) is amended by inserting, immediately after section 29, the following section:
-
-“
-
-Real-time gross settlement system
-
-29A\.—(1) The Authority may establish and operate one or more real-time gross settlement systems for the transfer of funds, settlement of payment obligations and the transfer and settlement of book-entry securities and instruments between or among participants approved by the Authority.
-
-(2) A settlement system may be linked to another system in Singapore or elsewhere for the clearing or settlement of payment obligations, securities or instruments and whether or not such system is operated on a real-time gross settlement basis.
-
-(3) The Authority may enter into agreements with participants of a settlement system and issue to the participants in writing rules for the operation of the settlement system and such rules shall not be deemed to be subsidiary legislation.
-
-(4) Without prejudice to the generality of subsection (3), such rules may provide —
-
-(a) for the appointment of the Authority as a certification authority for the purpose of issuing certificates for participants;
-
-(b) for the conduct of participants;
-
-(c) for the authentication of transactions carried out electronically;
-
-(d) for the Authority, if it considers it necessary in the interests of the system, to stop or suspend the operation of the system or to stop or suspend the privileges or rights of any participant or class of participants;
-
-(e) for the appointment of auditors or inspectors for the auditing or inspection of the operating systems of participants in respect of the settlement system; and
-
-(f) for the payment of fees to the Authority.
-
-(5) The Authority, any officer or employee of the Authority, or any person acting under the direction of the Authority, shall not be liable for any loss or damage suffered by any person or participant arising from, directly or indirectly, the use of a settlement system by any participant unless such loss or damage results from a reckless act or omission or any intentional misconduct of any officer or employee of the Authority or any person acting under the direction of the Authority.
-
-(6) The Payment and Settlement Systems (Finality and Netting) Act 2002 shall have effect in relation to a settlement system established and operated by the Authority under this section if the settlement system is designated under section 3 of that Act.
-
-(7) A settlement system established and operated by the Authority under section 59A of the Banking Act (Cap. 19) before the date of commencement of the Payment and Settlement Systems (Finality and Netting) Act 2002 shall continue and be deemed to have been established and operated by the Authority under this section.
-
-(8) In this section —
-
-“book-entry securities and instruments” means any securities and instruments that are transferable by a book-entry on a register or otherwise, and are —
-
-(a) issued by the Government under any written law; or
-
-(b) approved by the Authority for clearing, settlement or transfer through or under a settlement system;
-
-“certificate” has the same meaning as in the Electronic Transactions Act (Cap. 88);
-
-“certification authority” has the same meaning as in the Electronic Transactions Act (Cap. 88);
-
-“participant” means a person approved by the Authority to be a participant of a settlement system and shall include the Authority where it participates in the settlement system;
-
-“real-time gross settlement system” means a system which can effect final settlement of funds, payment obligations and book-entry securities and instruments on a continuous basis during such operating hours of a processing day as the Authority may determine and on a transaction-by-transaction basis;
-
-“settlement system” means any real-time gross settlement system established under subsection (1).
-
-”.
-
-(3) Section 69(4) of the Securities and Futures Act 2001 (Act 42 of 2001) is amended by deleting the words “sections 59A, 61 and 62 of that Act” and substituting the words “sections 61 and 62 of that Act and the Payment and Settlement Systems (Finality and Netting) Act 2002”.
+[19
 
 ### Consequential amendments to other written laws
 
-21\. The Minister may, by order published in theGazette, repeal or amend any written law which appears to him unnecessary having regard to the provisions of this Act or to be inconsistent with any of the provisions of this Act.
+22\. The Minister may, by order published in theGazette, repeal or amend any written law which appears to him unnecessary having regard to the provisions of this Act or to be inconsistent with any of the provisions of this Act.
+
+[21
 
 ### Transitional provisions
 
-22\. The Authority may, by regulations, prescribe such transitional, savings and other consequential provisions as it may consider necessary or expedient.
+23\. The Authority may, by regulations, prescribe such transitional, savings and other consequential provisions as it may consider necessary or expedient.
+
+[22
+
+## LEGISLATIVE HISTORY
+
+Payment and Settlement Systems (Finality and Netting) Act
+
+(CHAPTER 231)
+
+This Legislative History is provided for the convenience of users of the Payment and Settlement Systems (Finality and Netting) Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 39 of 2002—Payment and Settlement Systems (Finality and Netting) Act 2002**|
+||Date of First Reading|31 October 2002|
+|||(Bill No. 41/2002 published on 1 November 2002)|
+||Date of Second and Third Readings|25 November 2002|
+||Date of commencement|9 December 2002|
+|2.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||(Consequential amendments made by)||
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
+|3.|**2003 Revised Edition—Payment and Settlement Systems (Finality and Netting) Act**|
+||Date of operation|31 July 2003|
+## COMPARATIVE TABLE
+
+Payment and Settlement Systems (Finality and Netting) Act
+
+(CHAPTER 231)
+
+The following provisions in the Payment and Settlement Systems (Finality and Netting) Act 2002 (Act 39 of 2002) have been renumbered by the Law Revision Commissioners in this 2003 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Payment and Settlement Systems (Finality and Netting) Act.
+
+2003 Ed\. 
+
+Act 39 of 2002 
+
+17 
+
+16A 
+
+18 
+
+16B 
+
+19 
+
+17 
+
+20 
+
+18 
+
+21 
+
+19 
+
+Omitted
+
+20 
+
+22 
+
+21 
+
+23 
+
+22 
 
