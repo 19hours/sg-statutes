@@ -172,7 +172,9 @@ Provided that in any case where two spouses are the adopters, such spouses shall
 
 (4) For the purposes of this section, “disposition” means an assurance of any interest in property by any instrument whether inter vivos or by will including codicil.
 
-(5) For the purposes of section 11 of the Civil Law Act [Cap. 43], a person shall be deemed to be the parent or child of the person deceased notwithstanding that he was only related to him in consequence of adoption; and accordingly in deducing any relationship which under the provisions of that section is included within the meaning of the expressions “parent” and “child” an adopted child shall be treated as being, or as having been, the legitimate offspring of his adopter.
+(5) For the purposes of section 11 or 11A of the Civil Law Act [Cap. 43], a person shall be deemed to be the parent or child of the person deceased notwithstanding that he was only related to him in consequence of adoption; and accordingly in deducing any relationship which under the provisions of that section is included within the meaning of the expressions “parent” and “child” an adopted child shall be treated as being, or as having been, the legitimate offspring of his adopter.
+
+[11/1987 wef 01/05/1987]
 
 (6) Notwithstanding anything in this section, trustees or personal representatives may convey or distribute any movable or immovable property to or among the persons entitled thereto without having ascertained that no adoption order has been made by virtue of which any person is or may be entitled to any interest therein, and shall not be liable to any such person of whose claim they have not had notice at the time of the conveyance or distribution; but nothing in this subsection shall prejudice the right of any such person to follow the property, or any property representing it, into the hands of any person, other than a purchaser, who may have received it.
 
@@ -206,7 +208,7 @@ Provided that in any case where two spouses are the adopters, such spouses shall
 
 [9/72]
 
-(2) Rules in regard to any matter to be prescribed under this Act and directing the manner in which applications to the court are to be made and dealing generally with all matters of procedure and incidental matters arising out of this Act and for carrying this Act into effect shall be made under section 80 of the Supreme Court of Judicature Act [Cap. 324] and section 69 of the Subordinate Courts Act [Cap. 323].
+(2) Rules in regard to any matter to be prescribed under this Act and directing the manner in which applications to the court are to be made and dealing generally with all matters of procedure and incidental matters arising out of this Act and for carrying this Act into effect shall be made under section 80 of the Supreme Court of Judicature Act [Cap. 322] and section 69 of the Subordinate Courts Act [Cap. 321].
 
 Such rules may provide that all applications made under this Act be heard and determined otherwise than in open court.
 
@@ -284,8 +286,6 @@ Such rules may provide that all applications made under this Act be heard and de
 
 Section 12(1)
 
-[9/72]
-
 ## LEGISLATIVE HISTORY
 
 Adoption of Children Act
@@ -329,3 +329,9 @@ This Legislative History is provided for the convenience of users of the Adoptio
 ||Date of commencement|10 May 1985|
 |9.|**1985 Revised Edition—Adoption of Children Act (Chapter 4)**|
 ||Date of operation|30 March 1987|
+|10.|**Act 11 of 1987—Civil Law (Amendment) Act 1987**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 January 1987|
+|||(Bill No. 1/87 published on 2 February 1987)|
+||Date of Second and Third Readings|4 March 1987|
+||Date of commencement|1 May 1987|
