@@ -14,7 +14,7 @@
 
 - [4 Power to seek information](#Power-to-seek-information)
 
-- [5 Power to compound offence](#Power-to-compound-offence)
+- [5 Power to compound offences](#Power-to-compound-offences)
 
 - [6 Surcharges to be paid into Consolidated Fund](#Surcharges-to-be-paid-into-Consolidated-Fund)
 
@@ -32,9 +32,9 @@
 
 (Original Enactment: Act 26 of 1975)
 
-REVISED EDITION 1985
+REVISED EDITION 1993
 
-(30th March 1987)
+(15th March 1993)
 
 An Act to provide for the imposition of a surcharge on parking places.
 
@@ -48,7 +48,7 @@ An Act to provide for the imposition of a surcharge on parking places.
 
 2\. In this Act, unless the context otherwise requires —
 
-“designated area” means any area or place which the Minister may, by order in theGazette, specify as being a designated area for the purposes of this Act;
+“designated area” means any area or place which the Minister may, by order published in theGazette, specified as being a designated area for the purposes of this Act;
 
 “motor vehicle” means a mechanically propelled vehicle intended or adapted for use on roads;
 
@@ -56,23 +56,23 @@ An Act to provide for the imposition of a surcharge on parking places.
 
 “parking place” means any land or premises or part thereof owned by any person, statutory board or institution and used for the parking of 5 or more motor vehicles;
 
-“Superintendent” means the Superintendent of Car Parks or a Deputy or Assistant Superintendent of Car Parks appointed under section 6 of the Parking Places Act [Cap. 214];
+“Superintendent” means the Superintendent of Car Parks or a Deputy or an Assistant Superintendent of Car Parks appointed under the Parking Places Act [Cap. 214];
 
 “surcharge” means a surcharge imposed in respect of any parking place.
 
 ### Levy of surcharge
 
-3\.—(1) There shall be levied a surcharge in respect of every parking place in any designated area at such rate or rates as the Minister may, from time to time, by order in theGazette, determine.
+3\.—(1) There shall be levied a surcharge in respect of every parking place in any designated area at such rate or rates as the Minister may, from time to time, by order published in theGazette, determine.
 
 (2) Such rate or rates shall be on the basis of the number of parking lots or otherwise as the Minister may determine.
 
-(3) The surcharge shall be payable at such time and in such manner as the Minister may, by order in theGazette, determine.
+(3) The surcharge shall be payable at such time and in such manner as the Minister may, by order published in theGazette, determine.
 
-(4) The surcharge shall be payable, without demand, at the offices of the Superintendent or other prescribed place or places.
+(4) The surcharge shall be payable, without demand, at the office of the Superintendent or other prescribed place.
 
 (5) All surcharges required to be paid under this Act or any order made thereunder shall be recoverable as a debt due to the Government.
 
-(6) Notwithstanding the provisions of any other written law, no refund of the surcharge shall be made by the Superintendent except in such special circumstances as may be approved by him.
+(6) Notwithstanding the provisions of any other written law, no refund of any surcharge shall be made by the Superintendent except in such special circumstances as may be approved by him.
 
 ### Power to seek information
 
@@ -82,7 +82,7 @@ An Act to provide for the imposition of a surcharge on parking places.
 
 (3) Any person who fails to submit any form or return as required under subsection (1) or who in any such form or return makes any statement which is false in any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
 
-### Power to compound offence
+### Power to compound offences
 
 5\. The Superintendent may accept from any person who is reasonably suspected of having committed an offence under this Act or any orders or rules made thereunder a sum of money not exceeding $500 by way of composition for the offence which may have been committed.
 
@@ -121,3 +121,5 @@ This Legislative History is provided for the convenience of users of the Parking
 ||Date of commencement|15 October 1975|
 |2.|**1985 Revised Edition—Parking Places (Surcharge) Act**|
 ||Date of operation|30 March 1987|
+|3.|**1993 Revised Edition—Parking Places (Surcharge) Act (Chapter 215)**|
+||Date of operation|15 March 1993|
