@@ -16,9 +16,9 @@
 
 [**Part II APPOINTMENT OF OFFICERS**](#Part-II)
 
-- [4 Appointment of Director-General, Deputy Directors-General and other senior officers](#Appointment-of-Director-General-Deputy-Directors-General-and-other-senior-officers)
+- [4 Appointment of Director-General and other officers](#Appointment-of-Director-General-and-other-officers)
 
-- [5 Appointment of other officers](#Appointment-of-other-officers)
+- [5 (Repealed)](#Repealed)
 
 - [6 Officers of customs to be public servants](#Officers-of-customs-to-be-public-servants)
 
@@ -32,7 +32,7 @@
 
 - [10 Levying of duties](#Levying-of-duties)
 
-- [11 Duty on locally-grown tobacco](#Duty-on-locally-grown-tobacco)
+- [11 Power of Director-General to waive duty, etc.](#Power-of-Director-General-to-waive-duty-etc)
 
 - [12 Measuring and testing by proper officers of customs](#Measuring-and-testing-by-proper-officers-of-customs)
 
@@ -40,7 +40,7 @@
 
 - [14 Reimposition of customs duty or excise duty](#Reimposition-of-customs-duty-or-excise-duty)
 
-- [15 Relief from duty on Singapore-made goods reimported](#Relief-from-duty-on-Singapore-made-goods-reimported)
+- [15 (Repealed)](#Repealed)
 
 - [16 Remission of customs duty or excise duty on goods lost, damaged or destroyed before removal from customs control](#Remission-of-customs-duty-or-excise-duty-on-goods-lost-damaged-or-destroyed-before-removal-from-customs-control)
 
@@ -88,7 +88,7 @@
 
 - [34 Permit to remove goods](#Permit-to-remove-goods)
 
-- [35 Permit not used to be returned within 24 hours](#Permit-not-used-to-be-returned-within-24-hours)
+- [35 (Repealed)](#Repealed)
 
 - [36 Goods removed in accordance with declaration not to be relanded](#Goods-removed-in-accordance-with-declaration-not-to-be-relanded)
 
@@ -150,7 +150,7 @@
 
 [**Part VII MANUFACTURE AND BOTTLING**](#Part-VII)
 
-- [63 Licence to distil, ferment or otherwise manufacture intoxicating liquor](#Licence-to-distil-ferment-or-otherwise-manufacture-intoxicating-liquor)
+- [63 Licence to manufacture dutiable goods](#Licence-to-manufacture-dutiable-goods)
 
 - [64 No person except licensee to keep a still, etc.](#No-person-except-licensee-to-keep-a-still-etc)
 
@@ -196,21 +196,11 @@
 
 - [82 Duty free shops for tourists](#Duty-free-shops-for-tourists)
 
-- [83 Drawback on goods sold to tourists](#Drawback-on-goods-sold-to-tourists)
+- [83 (Repealed)](#Repealed)
 
-[**Part XI TODDY**](#Part-XI)
+[**Part XI**](#Part-XI)
 
-- [84 Sale by retail vested in Director-General](#Sale-by-retail-vested-in-Director-General)
-
-- [85 Permit to tap for toddy for sale by wholesale](#Permit-to-tap-for-toddy-for-sale-by-wholesale)
-
-- [86 Toddy not to be adulterated](#Toddy-not-to-be-adulterated)
-
-- [87 Prohibition of possession by unauthorised persons](#Prohibition-of-possession-by-unauthorised-persons)
-
-- [88 Prohibition of tapping for toddy without permit](#Prohibition-of-tapping-for-toddy-without-permit)
-
-- [89 Supply of toddy for manufacture of other products or for bottling toddy for retail sale](#Supply-of-toddy-for-manufacture-of-other-products-or-for-bottling-toddy-for-retail-sale)
+[**(Repealed)**](#Repealed)
 
 [**Part XII MISCELLANEOUS PROVISIONS**](#Part-XII)
 
@@ -326,11 +316,11 @@
 
 - [133 Penalty for possession of a still, etc.](#Penalty-for-possession-of-a-still-etc)
 
-- [134 Penalty for possession of toddy, etc.](#Penalty-for-possession-of-toddy-etc)
+- [134 (Repealed)](#Repealed)
 
-- [135 Penalty for supplying toddy for manufacture of other products or for bottling for sale, etc.](#Penalty-for-supplying-toddy-for-manufacture-of-other-products-or-for-bottling-for-sale-etc)
+- [135 (Repealed)](#Repealed)
 
-- [136 Penalty for tapping palm trees for toddy](#Penalty-for-tapping-palm-trees-for-toddy)
+- [136 (Repealed)](#Repealed)
 
 - [136A Motor vehicle leaving Singapore without prescribed amount of motor spirit](#Motor-vehicle-leaving-Singapore-without-prescribed-amount-of-motor-spirit)
 
@@ -428,7 +418,9 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 “denatured” means rendered unfit for human consumption to the satisfaction of the Director-General;
 
-“Director-General” means the Director-General of Customs and Excise appointed under section 4(1);
+“Director-General” means the Director-General of Customs appointed under section 4(1);
+
+[4/2003 wef 01/04/2003]
 
 “dutiable goods” means any goods subject to the payment of customs duty or excise duty on entry into customs territory or manufactured in Singapore (including any free trade zone) and on which customs duty or excise duty has not been paid and includes goods manufactured in a free trade zone from materials of a class dutiable on entry into customs territory for consumption within the customs territory;
 
@@ -442,7 +434,7 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 “goods” includes animals, birds, fish, plants and all kinds of movable property;
 
-“Government warehouse” means a warehouse established by the Minister under section 49 for the deposit of dutiable goods;
+“Government warehouse” means a warehouse established by the Director-General under section 49 for the deposit of dutiable goods;
 
 “Green Channel” means any passage or area in a customs airport or customs station clearly indicated with a sign in the shape of a regular octagon and marked in green with the words “Customs” and “Nothing To Declare”;
 
@@ -458,7 +450,7 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 (a) a mixture of alcohol and some other substances containing more than 0.5 per cent alcohol by mass; or
 
-(b) a mixture of alcohol and water containing more than 0.5 per cent alcohol by volume, which is fit, or intended, or can by any means be converted, for use as a beverage, but does not include toddy, bottled toddy or denatured spirit;
+(b) a mixture of alcohol and water containing more than 0.5 per cent alcohol by volume, which is fit, or intended, or can by any means be converted, for use as a beverage, but does not include intoxicating liquor denatured spirit;
 
 “in transit” means taken out or sent from any country and brought into Singapore by land, sea or air (whether or not landed or transhipped in Singapore) for the sole purpose of being carried to another country either by the same or another conveyance;
 
@@ -474,7 +466,9 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 (b) in the case of tobacco, includes the process of converting any raw or leaf tobacco into tobacco fit for smoking, snuffing or chewing and the making of cigarettes by power-operated machinery; and
 
-(c) in the case of any other goods or substitutes thereof, includes any process of converting the raw materials or components of such goods or substitutes into a finished product;
+(c) in the case of any other goods or substitutes thereof, includes any process of production, assembly, purification, blending or conversion of materials, substances or components of such goods or substitutes into a finished product;
+
+[4/2003 wef 01/04/2003]
 
 “master” means any person (except a pilot or harbour master) having for the time being control or charge of a vessel;
 
@@ -486,13 +480,15 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 (a) the Director-General;
 
-(b) any Deputy Director-General, Senior Director or Director of Customs and Excise appointed under section 4(1);
+(b) any Deputy Director-General of Customs or Assistant Director-General of Customs appointed under section 4(2);
 
-(c) any Senior Superintendent, Higher Superintendent or Superintendent of Customs and Excise appointed under section 4(4);
+(c) any senior officer of customs appointed under section 4(4);
 
-(d) any Chief Customs Officer, Senior Customs Officer, Higher Customs Officer or Customs Officer appointed under section 5; and
+(d) any officer of customs appointed under section 4(6); and
 
 (e) any police officer;
+
+[4/2003 wef 01/04/2003]
 
 “owner” includes a hirer under a hire-purchase agreement;
 
@@ -518,13 +514,15 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 (a) the Director-General;
 
-(b) any Deputy Director-General, Senior Director or Director of Customs and Excise appointed under section 4(1);
+(b) any Deputy Director-General of Customs or Assistant Director-General of Customs appointed under section 4(2);
 
-(c) any Senior Superintendent, Higher Superintendent or Superintendent of Customs and Excise appointed under section 4(4);
+(c) any senior officer of customs appointed under section 4(4);
 
-(d) any officer of customs vested with the powers of a senior officer of customs under section 4(5); and
+(d) any officer of customs conferred with the powers of a senior officer of customs under section 4(7); and
 
-(e) any police officer having the powers of a senior officer of customs by virtue of section 7;
+(e) any police officer having the powers of a senior officer of customs by virtue of section 7(a);
+
+[4/2003 wef 01/04/2003]
 
 “tobacco” includes all tobacco other than growing tobacco, whether manufactured or not;
 
@@ -560,33 +558,25 @@ as certified by an analyst employed by the Health Sciences Authority;
 
 APPOINTMENT OF OFFICERS
 
-### Appointment of Director-General, Deputy Directors-General and other senior officers
+### Appointment of Director-General and other officers
 
-4\.—(1) The Minister may appoint an officer to be styled the Director-General of Customs and Excise and may appoint such number of Deputy Directors-General, Senior Directors and Directors of Customs and Excise as he may think fit.
+4\.—(1) The Minister may appoint an officer to be styled the Director-General of Customs who shall have the superintendence of all matters relating to this Act, subject to the direction and control of the Minister.
 
-[23/93]
+(2) The Minister may appoint such number of Deputy Directors-General of Customs and Assistant Directors-General of Customs as he may think fit.
 
-(2) The Director-General shall have the superintendence of all matters relating to this Act, subject to the direction and control of the Minister.
+(3) Subject to the general direction and supervision of the Director-General of Customs, the Deputy Directors-General of Customs and Assistant Directors-General of Customs shall have and may exercise all the powers conferred on the Director-General by this Act.
 
-[23/93]
+(4) The Minister may appoint such number of other senior officers of customs as he may think fit for the purpose of carrying out the provisions of this Act.
 
-(3) The Deputy Directors-General, Senior Directors and Directors shall be subject to the general direction and supervision of the Director-General and, subject thereto, shall have and exercise all the powers conferred on the Director-General by this Act.
+(5) The Director-General may, with the approval of the Minister, confer on any senior officer of customs appointed under subsection (4) all or any of the powers conferred on the Director-General by this Act, subject to such conditions or restrictions as the Director-General may think fit.
 
-[23/93]
+(6) The Director-General may appoint such number of other officers of customs as he may think fit for the purpose of carrying out the provisions of this Act.
 
-(4) The Minister may appoint so many Senior Superintendents, Higher Superintendents and Superintendents of Customs and Excise as he may think fit for the purpose of carrying out the provisions of this Act.
+(7) The Director-General may confer on any officer of customs appointed under subsection (6) all or any of the powers of a senior officer of customs.
 
-[23/93]
+[4/2003 wef 01/04/2003]
 
-(5) The Minister may invest any officer of customs, not being a senior officer of customs, with all or any of the powers of a senior officer of customs.
-
-(6) All appointments made under this section shall be published in theGazette.
-
-### Appointment of other officers
-
-5\. The Minister may appoint so many Chief Customs Officers, Senior Customs Officers, Higher Customs Officers and Customs Officers as he may think fit for the purpose of carrying out the provisions of this Act.
-
-[23/93]
+5\. [Deleted by Act 4/2003 wef 01/04/2003]
 
 ### Officers of customs to be public servants
 
@@ -626,15 +616,17 @@ LEVYING OF DUTY AND TAX
 
 [33/2000]
 
-(3) Without prejudice to any other remedy, any customs duty or excise duty or any tax, fee or other charge payable under this Act may be recovered by the Minister as a civil debt due to the Government.
+(3) Without prejudice to any other remedy, any customs duty or excise duty or any tax, fee or other charge payable under this Act may be recovered by the Director-General as a civil debt due to the Government.
 
 [23/93; 33/2000]
 
 (4) All amounts collected as duties, taxes, fees and other charges under this Act shall be paid into the Consolidated Fund.
 
-### Duty on locally-grown tobacco
+### Power of Director-General to waive duty, etc.
 
-11\. The Minister may, by order published in theGazette, prescribe the duty to be levied on tobacco grown in Singapore, and may in such order make provision for securing and collecting the duty.
+11\. The Director-General may waive the payment, or recovery of payment, of the whole or any part of any customs duties, excise duties, taxes, fees or other charges, except that the amount which may be waived shall not exceed $20 or such other amount as the Minister may by order prescribe.
+
+[4/2003 wef 01/04/2003]
 
 ### Measuring and testing by proper officers of customs
 
@@ -654,11 +646,11 @@ LEVYING OF DUTY AND TAX
 
 (a) exempt any person from the payment of the whole or any part of the customs duties, excise duties, taxes, fees or other charges which may be payable by that person; or
 
-(b) direct the refund to any person of the whole or any part of the customs duties, excise duties, taxes, fees or other charges which have been paid by that person.
+(b) direct the remission or refund of the whole or any part of the customs duties, excise duties, taxes, fees or other charges which may be payable or which may have been paid by any person.
 
-[33/2000]
+[4/2003 wef 01/04/2003]
 
-(3) In granting an exemption or directing a refund, the Minister may impose such conditions as he may consider fit.
+(3) In granting an exemption or directing a remission or refund, the Minister may impose such conditions as he may consider fit.
 
 (4) Any goods in respect of which an exemption from the payment of customs duties, excise duties, taxes, fees or other charges has been granted under subsection (1) or (2) shall be —
 
@@ -682,15 +674,7 @@ LEVYING OF DUTY AND TAX
 
 [33/2000]
 
-### Relief from duty on Singapore-made goods reimported
-
-15\. Goods manufactured, assembled or produced in Singapore which are not subject to excise duties and which have been exported may be imported or brought back into Singapore without payment of customs duty if it is shown to the satisfaction of the Director-General —
-
-(a) that the goods were manufactured, assembled or produced in Singapore; and
-
-(b) that the goods have not undergone any processing or manipulation outside Singapore since their exportation.
-
-[33/2000]
+15\. [Deleted by Act 4/2003 wef 01/04/2003]
 
 ### Remission of customs duty or excise duty on goods lost, damaged or destroyed before removal from customs control
 
@@ -818,59 +802,15 @@ unless notice in writing of the claim has been given at or before the time of th
 
 ### Value of imported or locally-manufactured goods, other than motor spirit, for excise duty
 
-22\.—(1) For the purposes of levying excise duty under this Act, the value of any imported or locally-manufactured goods other than motor spirit shall be taken to be the normal price, that is to say, the price which they would fetch at the time when the duty becomes payable on a sale in the open market between the buyer and the seller independent of each other.
+22\.—(1) For the purposes of levying excise duty under this Act, the value of any imported or locally-manufactured goods, other than motor spirit, shall be determined according to the regulations made by the Minister for the purposes of this section.
 
-[24/81; 11/97; 33/2000]
+(2) Regulations made under subsection (1) may require any importer, local manufacturer or other person concerned with the importation or local manufacture of goods —
 
-(2) The normal price of any imported goods shall be determined on the following assumptions:
+(a) to furnish to a proper officer of customs, in such form as he may require, such information as is in his opinion necessary for a proper valuation of the goods; and
 
-(a) that the goods are treated as having been delivered to the buyer at the place of importation; and
+(b) to produce any book of accounts or other document of whatever nature relating to the purchase, importation or sale of the goods by that person.
 
-(b) that the seller will bear the freight, insurance, commission and all other costs, charges and expenses incidental to the sale and the delivery of the goods at that place; but
-
-(c) that the buyer will bear any duty or tax chargeable in Singapore.
-
-(3) A sale in the open market between the buyer and the seller independent of each other presupposes —
-
-(a) that price is the sole consideration;
-
-(b) that the price made is not influenced by any commercial, financial or other relationship, whether by contract or otherwise, between the seller or any person associated in business with him and the buyer or any person associated in business with him other than the relationship created by the sale of the goods in question; and
-
-(c) that no part of the proceeds of the subsequent resale, use or disposal of the goods will accrue, directly or indirectly, to the seller or any person associated in business with him.
-
-(4) Where the goods to be valued —
-
-(a) are manufactured in accordance with any patented invention or are goods to which any registered design has been applied; or
-
-(b) are imported or locally-manufactured under a foreign trade mark or trade name, or are imported or locally-manufactured for sale (whether or not after further manufacture) under a foreign trade mark or trade name,
-
-the price shall be determined on the assumption that the price covers the right to use the patent, design, trade mark or trade name in respect of the goods.
-
-[33/2000]
-
-(5) For the purposes of subsection (4), “foreign trade mark” means a trade mark used for the purpose of indicating that goods in relation to which it is used are those of —
-
-(a) a person by whom the goods to be valued have been grown, produced, manufactured, selected, offered for sale or otherwise dealt with outside Singapore;
-
-(b) a person associated in business with any such person as is referred to in paragraph (a); or
-
-(c) a person to whom any such person as is mentioned in paragraph (a) or (b) has assigned the goodwill of the business in connection with which the trade mark is used.
-
-(6) Two persons shall be deemed to be associated in business with one another if, directly or indirectly, either of them has any interest in any business or property of the other, or both have a common interest in any business or property, or some third person has an interest in the business or property of both of them.
-
-(7) In the case of goods imported or locally-manufactured under a contract of sale and about to be removed from customs control for use in Singapore, excise duty shall be deemed to have been paid on their value, if, before the goods are delivered from a Government warehouse, licensed factory warehouse or licensed warehouse for home use, excise duty is tendered, accepted and paid on a declared value based on the contract price.
-
-[11/97; 33/2000]
-
-(8) For the purpose of subsection (7) —
-
-(a) the declared value of any goods shall be their value as declared by or on behalf of the importer or local manufacturer in making the goods available for home use;
-
-(b) that value shall be deemed to be based on the contract price if, but only if, it represents the price properly adjusted to take account of circumstances differentiating the contract from such a contract of sale as is contemplated by subsections (1) to (6); and
-
-(c) the rate of exchange to be used for determining the equivalent in Singapore currency of any foreign currency shall be the current selling rate in Singapore at the time when excise duty is paid.
-
-[11/97; 33/2000]
+[4/2003 wef 01/04/2003]
 
 ### Value of imported goods, other than motor spirit, for customs duty
 
@@ -1054,11 +994,23 @@ except under and in accordance with the conditions contained in a permit issued 
 
 (a) by an authority administering a free trade zone of any dutiable goods from a vessel directly into the free trade zone, if a full and correct inward manifest as required under section 39 has been furnished to the proper officer of customs;
 
-(b) of dutiable goods (other than intoxicating liquors or tobacco) the duty on which does not exceed $300 or such other amount as the Minister may by order prescribe and which is in the possession or in the baggage of any person arriving in Singapore;
+(b) of dutiable goods (other than intoxicating liquors or tobacco) the duty on which does not exceed such amount as the Minister may by order prescribe and which is in the possession or in the baggage of any person arriving in Singapore;
 
-(c) of an amount not exceeding 10 litres of intoxicating liquors and 2 kilogrammes of tobacco in the possession or in the baggage of any person arriving in Singapore;
+(c) of intoxicating liquors or tobacco of such type and quantity as the Minister may by order prescribe and which is in the possession or in the baggage of any person arriving in Singapore;
 
-(d) of petroleum carried in the fuel supply tank or in a spare container of not more than 10 litres capacity of a motor vehicle or in the fuel supply tanks of aircraft for use in the propulsion thereof; and
+[4/2003 wef 01/04/2003]
+
+(d) of petroleum for use in the propulsion of a motor vehicle or an aircraft which —
+
+(i) in relation to a motor vehicle —
+
+(A) is carried in the fuel supply tank of the motor vehicle; or
+
+(B) is of such amount as the Minister may by order prescribe and which is carried in a spare container of the motor vehicle; and
+
+(ii) in relation to an aircraft, is carried in the fuel supply tank of the aircraft; and
+
+[4/2003 wef 01/04/2003]
 
 (e) of dutiable goods imported by post unless so required by the proper officer of customs.
 
@@ -1072,15 +1024,7 @@ except under and in accordance with the conditions contained in a permit issued 
 
 [23/93]
 
-### Permit not used to be returned within 24 hours
-
-35\. Any person who has obtained a permit to remove any goods from customs control and has not availed himself thereof shall —
-
-(a) within 24 hours of the expiry of the permit; or
-
-(b) as soon as the office of the proper officer of customs is open for business,
-
-return the permit to the office of the proper officer of customs.
+35\. [Deleted by Act 4/2003 wef 01/04/2003]
 
 ### Goods removed in accordance with declaration not to be relanded
 
@@ -1156,21 +1100,17 @@ the master, owner or agent of the vessel or the pilot, owner or agent of the air
 
 ### Particulars of goods exported to be furnished
 
-41\.—(1) Within 48 hours of the departure of every vessel, aircraft or train or within such further period as the Director-General may in his discretion allow, the owner or agent of the vessel or aircraft or the station-master at the customs station along the railway shall furnish to the proper officer of customs a full and correct outward manifest of all goods exported thereon, or which have been taken aboard the vessel or aircraft as sea or air stores, and shall in like manner furnish a full and correct statement of all goods transhipped.
+41\.—(1) Within 48 hours of the departure of every vessel, aircraft or train or within such further period as the Director-General may in his discretion allow, the owner or agent of the vessel or aircraft or the station-master at the customs station along the railway shall furnish to the proper officer of customs at the customs office designated by the Director-General —
 
-[23/93; 29/98]
+(a) a full and correct outward manifest of all goods exported thereon, or which have been taken aboard the vessel or aircraft as sea or air stores;
 
-(2) The Director-General may, if he thinks fit and subject to such conditions as he may impose, permit the owner, agent or station-master referred to in subsection (1) to authorise any other person to furnish on behalf of the owner, agent or station-master the whole or any part of —
+(b) a full and correct statement of all goods transhipped; and
 
-(a) a full and correct outward manifest of all goods exported on the vessel, aircraft or train; and
+(c) a full and correct loadlist in the form approved by the Director-General and certified by such owner, agent or station-master to contain full particulars of all the dutiable goods which have been received for loading onto the vessel, aircraft or train.
 
-(b) a full and correct statement of all goods transhipped.
+(2) The Director-General may, if he thinks fit and subject to such conditions as he may impose, permit the owner, agent or station-master referred to in subsection (1) to authorise any other person to furnish on behalf of the owner, agent or station-master the whole or any part of any manifest, statement or loadlist referred to in that subsection.
 
-[23/93]
-
-(3) In addition to the furnishing of the outward manifest under subsection (1), the owner or agent of the vessel or aircraft or the station-master at the customs station along the railway shall, within 48 hours of the departure of the vessel, aircraft or train, furnish to the proper officer of customs a full and correct loadlist in the form approved by the Director-General and certified by such owner, agent or station-master to contain full particulars of all the dutiable goods which have been received for loading onto the vessel, aircraft or train.
-
-[23/93; 29/98]
+[4/2003 wef 01/04/2003]
 
 ### Liability in respect of duty for goods unaccounted for
 
@@ -1258,7 +1198,7 @@ WAREHOUSING
 
 ### Government warehouses
 
-49\.—(1) The Minister may establish and maintain Government warehouses in which dutiable goods may be deposited and kept without payment of duty.
+49\.—(1) The Director-General may establish and maintain Government warehouses in which dutiable goods may be deposited and kept without payment of duty.
 
 (2) The Director-General may, in his discretion, limit the quantity of dutiable goods which, and the period during which any such dutiable goods, may be deposited and kept in any Government warehouse, at any customs office or customs station.
 
@@ -1394,15 +1334,23 @@ WAREHOUSING
 
 MANUFACTURE AND BOTTLING
 
-### Licence to distil, ferment or otherwise manufacture intoxicating liquor
+### Licence to manufacture dutiable goods
 
-63\.—(1) No person shall distil, ferment or otherwise manufacture any intoxicating liquor or manufacture any tobacco or any other dutiable goods except under and in accordance with the provisions of a licence granted by the Director-General and at the distillery, brewery or other place of manufacture specified in the licence.
+63\.—(1) No person shall manufacture any dutiable goods except under and in accordance with the provisions of a licence granted by the Director-General and at the place of manufacture specified in the licence.
+
+[4/2003 wef 01/04/2003]
 
 (2) Such licence shall, with the approval of the Minister, be granted at the discretion of the Director-General, and upon payment of the prescribed fee and shall be for such period and subject to such conditions as may be prescribed by regulations made under this Act, and to such further conditions as the Minister may direct to be endorsed on the licence.
 
 (3) Such licence may be suspended or withdrawn at any time by the Minister.
 
-(4) A licence to distil, ferment or otherwise manufacture intoxicating liquor or to manufacture tobacco or any other dutiable goods shall be deemed to include a licence for warehousing such intoxicating liquor or tobacco or other dutiable goods, as the case may be, as provided for by sections 50(1) and 51(1) and also a licence for the bottling of intoxicating liquors as provided for in section 66(1).
+(4) A licence to manufacture any dutiable goods shall be deemed to include the following:
+
+(a) a licence for warehousing such dutiable goods as provided for in sections 50(1) and 51(1); and
+
+(b) where the dutiable goods consist of intoxicating liquors, a licence for the bottling of such intoxicating liquors as provided for in section 66(1).
+
+[4/2003 wef 01/04/2003]
 
 (5) Any regulations made under section 143(1) to regulate the control of licensed warehouses or bottling warehouses shall apply to warehouses deemed to be so licensed under subsection (4) to such an extent as the Director-General may direct.
 
@@ -1642,79 +1590,11 @@ DUTY FREE SHOPS FOR TOURISTS
 
 (9) Any person who contravenes subsection (8) shall be guilty of an offence.
 
-### Drawback on goods sold to tourists
-
-83\. The Director-General may allow a drawback to a licensee of the duty paid on goods which a senior officer of customs is satisfied have been sold to a tourist except that no such drawback shall be allowed unless a claim is made in the form approved by the Director-General within 6 months from the date of the sale.
+83\. [Deleted by Act 4/2003 wef 01/04/2003]
 
 ## PART XI
 
-TODDY
-
-### Sale by retail vested in Director-General
-
-84\.—(1) The exclusive right of selling toddy by retail is hereby vested in the Director-General who may establish and operate shops, to be known as Government Toddy Shops, for the sale of toddy by retail for consumption on the premises.
-
-(2) The price at which toddy shall be sold by retail shall be fixed by the Minister.
-
-(3) No person, other than a person appointed by the Director-General in that behalf, shall sell or offer for sale by retail any toddy.
-
-(4) Persons appointed for the sale of toddy by retail shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
-
-(5) No person shall remove any toddy from a Government Toddy Shop.
-
-(6) No woman or child below the age of 16 years shall enter a Government Toddy Shop.
-
-### Permit to tap for toddy for sale by wholesale
-
-85\. The Director-General may issue to any person, to whom a contract has been awarded for the supply to the Director-General of toddy by wholesale, a permit to tap for toddy a specified number of palm trees growing on specified lands and may subject the permit to any conditions he may consider fit.
-
-### Toddy not to be adulterated
-
-86\. No person to whom a permit to tap palm trees has been issued under section 85 and no person duly employed by the Government for the sale of toddy shall have in his possession any toddy with which there has been mixed any extraneous substance.
-
-### Prohibition of possession by unauthorised persons
-
-87\. No person other than —
-
-(a) a person employed by the Government for the sale of toddy by retail, while acting in that capacity;
-
-(b) a person being on the premises of a Government Toddy Shop and in possession of toddy purchased for consumption on the premises;
-
-(c) a person to whom a permit has been issued in accordance with section 85 while acting in accordance with the terms and conditions of the permit; or
-
-(d) a duly authorised agent or employee of the permit holder while acting in that capacity,
-
-shall be in possession of toddy.
-
-### Prohibition of tapping for toddy without permit
-
-88\.—(1) No person, other than a person to whom a permit has been issued in accordance with section 85 or a duly authorised agent or employee of that person while acting in that capacity, shall tap or prepare for tapping any palm tree for toddy.
-
-(2) Where any palm trees growing on land not specified in any such permit are found being tapped for toddy or being prepared for such tapping, the owner and the occupier of the land shall be deemed, until the contrary is proved, to have knowingly permitted the tapping or preparation for tapping, as the case may be.
-
-### Supply of toddy for manufacture of other products or for bottling toddy for retail sale
-
-89\.—(1) Notwithstanding sections 84 and 87, the Director-General may permit the supply of toddy solely for use in the manufacture of other products or for the purpose of bottling toddy in a modified form (referred to in this section as bottled toddy) for retail sale in premises so authorised by him or in Government Toddy Shops or in both such premises and shops, and for export.
-
-(2) Any permission granted by the Director-General under subsection (1) shall be subject to such conditions as he may consider fit to impose.
-
-(3) The supply of toddy for use in the manufacture of other products or for the purpose of bottling shall be by a person to whom a contract has been awarded, and the quantity of toddy supplied shall be determined by the Director-General.
-
-(4) The Director-General may issue to the person referred to in subsection (3) a permit to tap toddy subject to section 85.
-
-(5) It shall be lawful for the Minister to grant a franchise for the bottling of toddy for retail sale or for export to a person who shall receive his supply of toddy from the contractor who has been awarded a contract under subsection (3).
-
-(6) Any toddy received by the person granted the franchise shall be used only for bottling and for no other purpose.
-
-(7) Any senior officer of customs may —
-
-(a) inspect any factory permitted to use toddy for the manufacture of other products or for manufacturing bottled toddy; and
-
-(b) examine any documents or accounts relating to the manufacture and to the removal of the manufactured products from the premises of the factory and to subsequent sales thereof.
-
-(8) The Minister shall fix the price at which bottled toddy may be sold by retail.
-
-(9) The Director-General may subject any premises authorised to sell bottled toddy to such control as he considers necessary to ensure proper sales, and in so doing he may require the premises to be registered.
+[Deleted by Act 4/2003 wef 01/04/2003]
 
 ## PART XII
 
@@ -1956,9 +1836,33 @@ except where it is necessary for the purposes of —
 
 ### Baggage of passengers
 
-93\.—(1) Notwithstanding anything in this Act, every passenger or other person arriving in Singapore shall proceed to the Red Channel to declare all dutiable goods which exceed his duty free allowance, or any goods for which no duty free allowance is granted in his possession, either on his person or in any baggage or in any vehicle, to the proper officer of customs, and shall pay the customs duty or excise duty leviable thereon before he proceeds and if he fails to do so those goods shall be deemed to be uncustomed goods.
+93\.—(1) Notwithstanding anything in this Act but subject to subsection (1A), every passenger or other person arriving in Singapore shall —
 
-[24/96; 33/2000]
+(a) declare to the proper officer of customs at the customs station all dutiable goods in his possession, whether on his person or in any baggage or in any vehicle —
+
+(i) which exceed his duty free allowance; or
+
+(ii) for which no duty free allowance is granted; and
+
+(b) pay the customs duty or excise duty leviable thereon before he proceeds.
+
+[4/2003 wef 01/04/2003]
+
+(1A) Notwithstanding anything in this Act, every passenger or other person arriving in Singapore at a point of entry which has a Red Channel and a Green Channel shall —
+
+(a) proceed to the Red Channel to declare to the proper officer of customs all dutiable goods in his possession, whether on his person or in any baggage or in any vehicle —
+
+(i) which exceed his duty free allowance; or
+
+(ii) for which no duty free allowance is granted; and
+
+(b) pay the customs duty or excise duty leviable thereon before he proceeds.
+
+[4/2003 wef 01/04/2003]
+
+(1B) Where a passenger or person fails to pay any customs duty or excise duty on any dutiable goods in accordance with subsection (1) or (1A), those dutiable goods shall be deemed to be uncustomed goods.
+
+[4/2003 wef 01/04/2003]
 
 (2) Any passenger or other person arriving in Singapore who proceeds to the Green Channel with dutiable goods which exceed his duty free allowance, or any goods for which no duty free allowance is granted in his possession, either on his person or in any baggage or in any vehicle shall be presumed, until the contrary is proved, to be in possession of uncustomed goods.
 
@@ -2012,7 +1916,7 @@ except where it is necessary for the purposes of —
 
 ### Power of Director-General to charge fees
 
-98\. The Director-General may, with the approval of the Minister, charge such fees as he may consider reasonable in respect of any act or service done or rendered by the Customs and Excise Departmentfor which no fee is prescribed by any written law.
+98\. The Director-General may, with the approval of the Minister, charge such fees as he may consider reasonable in respect of any act or service done or rendered by the Singapore Customs for which no fee is prescribed by any written law.
 
 ### Securities for payment of duty and compliance with this Act
 
@@ -2036,7 +1940,7 @@ SEARCH, SEIZURE AND ARREST
 
 ### Issue of search warrant
 
-101\.—(1) Whenever it appears to any Magistrate, or any senior officer of customs not below the rank of Senior Superintendent of Customs and Excise, upon information and after any inquiry which he may think necessary, that there is reasonable cause to believe that in any dwelling-house, shop or other building or place, there are concealed or deposited any —
+101\.—(1) Whenever it appears to any Magistrate, or any senior officer of customs not below the rank of Assistant Director-General of Customs, upon information and after any inquiry which he may think necessary, that there is reasonable cause to believe that in any dwelling-house, shop or other building or place, there are concealed or deposited any —
 
 (a) dutiable or uncustomed goods;
 
@@ -2068,7 +1972,7 @@ the Magistrate or the senior officer of customs may issue a warrant authorising 
 
 ### Power of Magistrate, etc., to enter and search
 
-102\. A Magistrate or senior officer of customs not below the rank of Senior Superintendent of Customs and Excise may himself do what he may under section 101 empower an officer of customs to do whenever the Magistrate or senior officer of customs is competent to issue a warrant under that section.
+102\. A Magistrate or senior officer of customs not below the rank of Assistant Director-General of Customs may himself do what he may under section 101 empower an officer of customs to do whenever the Magistrate or senior officer of customs is competent to issue a warrant under that section.
 
 ### When search may be made without warrant
 
@@ -2478,7 +2382,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (f) is in any way concerned in any fraudulent evasion or attempt at fraudulent evasion of any customs duty or excise duty;
 
-(g) is in any way concerned in distilling, fermenting or otherwise manufacturing any dutiable or prohibited goods or manufacturing any tobacco in contravention of section 63;
+(g) is in any way concerned in the manufacture of any dutiable or prohibited goods in contravention of section 63;
+
+[4/2003 wef 01/04/2003]
 
 (h) is in any way concerned in bottling, blending, compounding or varying any intoxicating liquors in contravention of section 66;
 
@@ -2562,27 +2468,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 133\. Every person other than a person licensed under —
 
-(a) section 63(1) who knowingly keeps or has in his possession any still, utensil or other apparatus for distilling, fermenting or otherwise manufacturing intoxicating liquor or any power-operated machinery for the manufacture of tobacco; or
+(a) section 63(1) who knowingly keeps or has in his possession any still, utensil, apparatus, equipment or machinery for the manufacture of any dutiable goods; or
+
+[4/2003 wef 01/04/2003]
 
 (b) section 66(1) who knowingly keeps or has in his possession any utensil, apparatus, material or ingredient for bottling, blending, compounding or varying intoxicating liquor,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 18 months or to both.
 
-### Penalty for possession of toddy, etc.
+134\. [Deleted by Act 4/2003 wef 01/04/2003]
 
-134\. Every person found in possession of toddy contrary to section 86 or 87 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 and, in the case of a second or subsequent conviction, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+135\. [Deleted by Act 4/2003 wef 01/04/2003]
 
-### Penalty for supplying toddy for manufacture of other products or for bottling for sale, etc.
-
-135\. Every person who supplies toddy or who sells or arranges to sell bottled toddy by retail contrary to section 89 and every person who is supplied with toddy whether for manufacture of other products or for bottling and who disposes of or sells the toddy in contravention of that section shall be guilty of an offence and shall be liable —
-
-(a) on conviction to a fine not exceeding $500; and
-
-(b) in the case of a second or subsequent conviction, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-### Penalty for tapping palm trees for toddy
-
-136\. Every person found to be tapping or preparing for tapping or knowingly permitting the tapping of any palm tree for toddy contrary to section 88 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+136\. [Deleted by Act 4/2003 wef 01/04/2003]
 
 ### Motor vehicle leaving Singapore without prescribed amount of motor spirit
 
@@ -2592,7 +2490,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) For the purposes of subsection (1) —
 
-(a) where a motor vehicle is driven past the Customs gantry before the departure bay of the Immigration Checkpoint at Woodlands, Changi Ferry Terminal or any other prescribed place, the person in charge of that motor vehicle shall be presumed, until the contrary is proved, to have attempted to leave Singapore in that motor vehicle or with that motor vehicle in a vessel, as the case may be;
+(a) where a motor vehicle is driven past the Customs gantry before the departure bay of the Immigration Checkpoint at any prescribed place, the person in charge of that motor vehicle shall be presumed, until the contrary is proved, to have attempted to leave Singapore in that motor vehicle or with that motor vehicle in a vessel, as the case may be;
 
 (b) where a motor vehicle is fitted with an instrument or gauge which indicates or measures the amount of motor spirit in its fuel supply tank, the indication or measurement on that instrument or gauge shall, until the contrary is proved, be evidence of the amount of motor spirit in the fuel supply tank of that motor vehicle;
 
@@ -2622,7 +2520,7 @@ shall be guilty of an offence and shall be liable —
 
 ### Penalty for offering or receiving bribes
 
-138\.—(1) If any officer of customs or other person duly employed by the Customs and Excise Department —
+138\.—(1) If any officer of customs or other person duly employed by the Singapore Customs —
 
 (a) makes any collusive seizure or delivers up or makes any agreement to deliver up or not to seize any vessel or aircraft or other means of conveyance, or any goods liable to seizure;
 
@@ -2634,9 +2532,9 @@ the officer or person shall be guilty of an offence and shall be liable on convi
 
 (2) Any person who gives or offers or promises to give or procures to be given any bribe, gratuity, recompense or reward to, or makes any collusive agreement with, any such officer or person to induce him in any way to neglect his duty or to do, conceal or connive at any act whereby any of the provisions of any other law relating to imports or to exports may be evaded, shall be guilty as an abettor and so punishable under this Act.
 
-(3) Any officer of customs or other person duly employed by the Customs and Excise Department who is found when on duty to have in his possession any moneys in contravention of any departmental regulations issued in writing shall be presumed, until the contrary is proved, to have received the moneys in contravention of subsection (1)(b).
+(3) Any officer of customs or other person duly employed by the Singapore Customs who is found when on duty to have in his possession any moneys in contravention of any departmental regulations issued in writing shall be presumed, until the contrary is proved, to have received the moneys in contravention of subsection (1)(b).
 
-(4) If any officer of customs has reasonable suspicion that another officer of customs junior in rank to him or any other person duly employed by the Customs and Excise Department has possession of any money received in contravention of subsection (1)(b), he may search that officer or person.
+(4) If any officer of customs has reasonable suspicion that another officer of customs junior in rank to him or any other person duly employed by the Singapore Customs has possession of any money received in contravention of subsection (1)(b), he may search that officer or person.
 
 ### Penalty for offences not otherwise provided for
 
@@ -2678,7 +2576,7 @@ REGULATIONS
 
 ### Power to make regulations
 
-143\.—(1) The Minister may make regulations —
+143\.—(1) The Minister may make regulations for carrying out the purposes and provisions of this Act and, in particular, may make regulations —
 
 (a) to regulate the powers and duties to be exercised and performed by officers of customs;
 
@@ -2700,8 +2598,6 @@ REGULATIONS
 
 (j) to prescribe the manner and method of payment of any duty payable or chargeable under this Act;
 
-(k) to prescribe the flag to be flown by vessels employed for the prevention of smuggling of dutiable goods;
-
 (l) to prescribe the days and times during which any customs office, customs station, Government warehouse, licensed factory warehouse or licensed warehouse or bottling warehouse may be open for business;
 
 (m) to regulate the deposit, custody and withdrawal of goods in and from Government warehouses, licensed factory warehouses and licensed warehouses and bottling warehouses and the management and control of the same;
@@ -2713,8 +2609,6 @@ REGULATIONS
 (p) to regulate the erection, inspection, supervision, management and control of distilleries, breweries or tobacco or other factories and the fittings, implements, machinery and apparatus maintained therein;
 
 (q) to regulate the hours during which manufacture may or may not take place and during which goods may be removed from a distillery, brewery or tobacco or other factory;
-
-(r) to prescribe what accommodation the distiller, brewer or other manufacturer shall provide free of cost for such officers of customs as the Director-General may consider to be necessary for the control of the distillery, brewery or tobacco or other factory;
 
 (s) to regulate the blending, compounding, varying and bottling of intoxicating liquors in bottling warehouses and to fix the fees to be paid for bottling dutiable intoxicating liquor;
 
@@ -2734,11 +2628,7 @@ REGULATIONS
 
 (za) to prescribe penalties for any contravention or failure to comply with any of the provisions of the regulations made under this section except that no such penalty shall exceed the penalty prescribed under section 139;
 
-(zb) to prescribe anything which is to be or may be prescribed under the provisions of this Act; and
-
-(zc) generally to give effect to this Act.
-
-[23/93; 24/96]
+(zb) to prescribe anything which is to be or may be prescribed under the provisions of this Act.
 
 (2) All regulations and orders made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -2880,6 +2770,11 @@ This Legislative History is provided for the convenience of users of the Customs
 ||Date of commencement|1 April 2001|
 |27.|**2001 Revised Edition—Customs Act**|
 ||Date of operation|31 July 2001|
+|28.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
 ## COMPARATIVE TABLE
 
 Customs Act
