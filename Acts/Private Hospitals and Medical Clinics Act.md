@@ -102,7 +102,7 @@ An Act to provide for the control, licensing and inspection of private hospitals
 
 but does not include a private hospital, medical clinic or clinical laboratory or part thereof, or an establishment or conveyance maintained by the Government or the National University of Singapore;
 
-“licence” means a licence issued under this Act to use any premises as a private hospital, medical clinic, clinical laboratory or healthcare establishment, and “licensed” shall be construed accordingly;
+“licence” means a licence issued under this Act to use any premises or conveyance as a private hospital, medical clinic, clinical laboratory or healthcare establishment, and “licensed” shall be construed accordingly;
 
 “maternity home” means any premises used or intended to be used for the reception of pregnant women or of women immediately after childbirth;
 
@@ -122,9 +122,9 @@ but does not include any such premises —
 
 “nursing home” means any premises other than a maternity home used or intended to be used for the reception of, and the provision of nursing for, persons suffering or convalescing from any sickness, injury or infirmity;
 
-“private hospital” means any premises (other than a Government hospital or a hospital maintained by the National University of Singapore) used or intended to be used for the reception, lodging and treatment and care of persons who require medical treatment or suffer from any disease, and includes a maternity home and a nursing home.
+“private hospital” means any premises used or intended to be used for the reception, lodging and treatment and care of persons who require medical treatment or suffer from any disease, and includes a maternity home and a nursing home.
 
-[19/99]
+[26/2001 wef 01/09/2001]
 
 ### Administration of Act and appointment of officers, etc.
 
@@ -168,7 +168,7 @@ human blood or the right to take blood from the body of another person.
 
 ### Licences for private hospitals, medical clinics, clinical laboratories and healthcare establishments
 
-5\.—(1) No premises shall be used as a private hospital, medical clinic, clinical laboratory or healthcare establishment except under the authority and in accordance with the terms and conditions of a licence issued by the Director.
+5\.—(1) No premises or conveyance shall be used as a private hospital, medical clinic, clinical laboratory or healthcare establishment except under the authority and in accordance with the terms and conditions of a licence issued by the Director.
 
 [19/99]
 
@@ -216,19 +216,19 @@ human blood or the right to take blood from the body of another person.
 
 (b) the ability of the applicant to operate and maintain a private hospital, medical clinic, clinical laboratory or healthcare establishment, as the case may be, in accordance with the prescribed standards;
 
-(c) the suitability of the premises (including the facilities and equipment therein) to be licensed for use as a private hospital, medical clinic, clinical laboratory or healthcare establishment, as the case may be; and
+(c) the suitability of the premises or conveyance (including the facilities and equipment therein) to be licensed for use as a private hospital, medical clinic, clinical laboratory or healthcare establishment, as the case may be; and
 
-(d) the adequacy of the nursing and other staff that is to be employed at the premises to be licensed.
+(d) the adequacy of the nursing and other staff that is to be employed at the premises or conveyance to be licensed.
 
 [19/99]
 
 (4) For the purpose of subsection (3), the Director, before issuing the licence applied for, may —
 
-(a) inspect the premises to be licensed, or cause such premises to be inspected by an authorised officer; and
+(a) inspect the premises or conveyance to be licensed, or cause such premises or conveyance to be inspected by an authorised officer; and
 
 (b) require the applicant at his own expense —
 
-(i) to make such alteration or improvement to the premises to be licensed; or
+(i) to make such alteration or improvement to the premises or conveyance to be licensed; or
 
 (ii) to provide, fix or install such facilities and equipment therein,
 
@@ -638,6 +638,11 @@ This Legislative History is provided for the convenience of users of the Private
 ||Date of commencement|1 June 1999|
 |4.|**1999 Revised Edition—Private Hospitals and Medical Clinics Act**|
 ||Date of operation|30 December 1999|
+|5.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 September 2001|
 ## COMPARATIVE TABLE
 
 Private Hospitals and Medical Clinics Act
