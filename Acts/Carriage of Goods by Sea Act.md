@@ -14,9 +14,9 @@
 
 - [4 Absolute warranty seaworthiness not to be implied in contracts to which Rules apply](#Absolute-warranty-seaworthiness-not-to-be-implied-in-contracts-to-which-Rules-apply)
 
-- [5 Statement as to application of Rules to be included in bills of lading](#Statement-as-to-application-of-Rules-to-be-included-in-bills-of-lading)
+- [5 (Repealed)](#Repealed)
 
-- [6 Modification of Article VI of Rules in relation to local trade](#Modification-of-Article-VI-of-Rules-in-relation-to-local-trade)
+- [6 (Repealed)](#Repealed)
 
 - [7 Modification of paragraphs 4 and 5 of Article III of Rules in relation to bulk cargoes](#Modification-of-paragraphs-4-and-5-of-Article-III-of-Rules-in-relation-to-bulk-cargoes)
 
@@ -50,29 +50,43 @@ An Act to make further provision with respect to the carriage of goods by sea.
 
 ### Application of Rules
 
-3\.—(1) Subject to the provisions of this Act, the Rules have effect in relation to and in connection with the carriage of goods by sea in ships carrying goods from any port in Singapore to any other port whether in or outside Singapore.
+3\.—(1) The provisions of the Rules, as set out in the Schedule to this Act, shall have the force of law.
 
-(2) The Minister may, from time to time by order published in theGazette, specify the respective amounts which for the purposes of paragraph 5 of Article IV of the Rules and of Article IV bis of the Rules are to be taken as equivalent to the sums expressed in francs which are mentioned in paragraph 5 (a) of Article IV.
+(2) Without prejudice to subsection (1), the provisions of the Rules shall also have effect (and have the force of law) in relation to and in connection with the carriage of goods by sea in ships where the port of shipment is a port in Singapore, whether or not the carriage is between ports in two different States within the meaning of Article X of the Rules.
 
-[13/82]
+(3) Subject to subsection (4), nothing in this section shall be construed as applying anything in the Rules to any contract for the carriage of goods by sea, unless the contract expressly or by implication provides for the issue of a bill of lading or any similar document of title.
+
+(4) Without prejudice to paragraph (c) of Article X of the Rules, the Rules shall have the force of law in relation to —
+
+(a) any bill of lading if the contract contained in or evidenced by it expressly provides that the Rules shall govern the contract; and
+
+(b) any receipt which is a non-negotiable document marked as such if the contract contained in or evidenced by it is a contract for the carriage of goods by sea which expressly provides that the Rules are to govern the contract.
+
+(5) Where subsection (4)(b) applies, the Rules shall apply —
+
+(a) as if the receipt referred to therein were a bill of lading; and
+
+(b) subject to any necessary modifications and in particular with the omission of the second sentence of paragraph 4 and of paragraph 7 in Article III of the Rules.
+
+(6) If and so far as the contract contained in or evidenced by a bill of lading or receipt referred to in paragraph (a) or (b) of subsection (4) applies to deck cargo or live animals, the Rules as given the force of law by that subsection shall have effect as if Article I (c) did not exclude deck cargo and live animals.
+
+(7) In subsection (6), “deck cargo” means cargo which by the contract of carriage is stated as being carried on deck and is so carried.
+
+(8) The Minister may, from time to time by order published in theGazette, specify the respective amounts which, for the purposes of paragraph 5 of Article IV and of Article IV bis of the Rules, are to be taken as equivalent to the sums expressed in francs which are mentioned in paragraph 5(a) of Article IV.
+
+[Act 6/95 wef 31/03/1995 vide S 140/95]
 
 ### Absolute warranty seaworthiness not to be implied in contracts to which Rules apply
 
 4\. There shall not be implied in any contract for the carriage of goods by sea to which the Rules apply any absolute undertaking by the carrier of the goods to provide a seaworthy ship.
 
-### Statement as to application of Rules to be included in bills of lading
+Statement as to application of Rules to be included in bills of lading
 
-5\. Every bill of lading or similar document of title issued in Singapore which contains or is evidence of any contract to which the Rules apply shall contain an express statement that it is to have effect subject to the provisions of the Rules as applied by this Act.
+5\. [Repealed by Act 6/95 wef 31/03/1995 vide S 140/95]
 
-### Modification of Article VI of Rules in relation to local trade
+Modification of Article VI of Rules in relation to local trade
 
-6\. Article VI of the Rules has effect in relation to —
-
-(a) the carriage of goods by sea in sailing ships carrying goods from any port in Singapore to any other port whether in or outside Singapore; and
-
-(b) the carriage of goods by sea in ships carrying goods from any port in Singapore to any other port in Singapore or to any port in Malaysia,
-
-as though the Article referred to goods of any class instead of to particular goods and as though the proviso to the second paragraph of the Article were omitted.
+6\. [Repealed by Act 6/95 wef 31/03/1995 vide S 140/95]
 
 ### Modification of paragraphs 4 and 5 of Article III of Rules in relation to bulk cargoes
 
@@ -287,3 +301,8 @@ This Legislative History is provided for the convenience of users of the Carriag
 ||Date of commencement|11 June 1982|
 |7.|**1985 Revised Edition—Carriage of Goods by Sea Act (Chapter 33)**|
 ||Date of operation|30 March 1987|
+|8.|**Act 6 of 1995—Carriage of Goods by Sea (Amendment) Act 1995**|
+||Date of First Reading|23 January 1995|
+|||(Bill No. 4/1995)|
+||Date of Second and Third Readings|1 March 1995|
+||Date of commencement|31 March 1995|
