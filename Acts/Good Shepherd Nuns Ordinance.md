@@ -8,6 +8,8 @@
 
 [**Preamble**](#Preamble)
 
+[**Enacting Formula**](#Enacting-Formula)
+
 - [1 Short title](#Short-title)
 
 - [2 Reverend Mother Superior of the Good Shepherd Nuns to be a body corporate](#Reverend-Mother-Superior-of-the-Good-Shepherd-Nuns-to-be-a-body-corporate)
@@ -16,7 +18,7 @@
 
 - [4 Notification of appointment of Reverend Mother Superior](#Notification-of-appointment-of-Reverend-Mother-Superior)
 
-- [5 Saving of Crown and other rights](#Saving-of-Crown-and-other-rights)
+- [5 Saving of Government and other rights](#Saving-of-Government-and-other-rights)
 
 [**Legislative History**](#Legislative-History)
 
@@ -34,6 +36,8 @@ An Ordinance to incorporate the Reverend Mother Superior of the Good Shepherd Nu
 
 1Note:This private Ordinance is reproduced in the form it was enacted.
 
+[21st November 1958]
+
 Whereas the Congregation of the Religious of Our Lady of Charity of the Good Shepherd of Angers was constituted at Angers in France in 1829:
 
 And Whereas the Good Shepherd Nuns have established a Home in Singapore for the care of adolescent and young persons and for the purpose of the propagation of Christianity:
@@ -47,8 +51,6 @@ And Whereas the Good Shepherd Nuns and any Home, Church, convent or other buildi
 And Whereas for the better carrying on of the work of the said Good Shepherd Nuns it is expedient that the said Reverend Mother Mary of St. Liguori and her successors, being the Reverend Mother Superior of the Good Shepherd Nuns in Malaya, should be incorporated:
 
 It is hereby enacted by the Governor of the Colony of Singapore with the advice and consent of the Legislative Assembly thereof as follows:
-
-[21st November 1958]
 
 ### Short title
 
@@ -64,9 +66,7 @@ It is hereby enacted by the Governor of the Colony of Singapore with the advice 
 
 ### Use of corporate seal
 
-3\.—(1) All deeds, documents and other instruments requiring the seal of the Corporation shall be sealed with the seal of the Corporation in the presence of the Reverend Mother Superior for the time being or her attorney, duly authorised by power of attorney registered under section 48 of the Conveyancing and Law of Property Ordinance, and shall also be signed by the said Reverend Mother Superior for the time being, or her attorney so authorised as aforesaid.
-
-[1955 Ed.]
+3\.—(1) All deeds, documents and other instruments requiring the seal of the Corporation shall be sealed with the seal of the Corporation in the presence of the Reverend Mother Superior for the time being or her attorney, duly authorised by power of attorney registered under section 48 of the Conveyancing and Law of Property Ordinance [1955 Ed., Cap. 243], and shall also be signed by the said Reverend Mother Superior for the time being, or her attorney so authorised as aforesaid.
 
 (2) Such signing shall be and be taken as sufficient evidence that the said seal was duly and properly affixed and that the same is the lawful seal of the Corporation.
 
@@ -74,9 +74,11 @@ It is hereby enacted by the Governor of the Colony of Singapore with the advice 
 
 4\. A notification in theGazetteof the appointment of any person to exercise the office of Reverend Mother Superior of the Good Shepherd Nuns in Malaya shall be conclusive evidence that such person was duly authorised to exercise the said office.
 
-### Saving of Crown and other rights
+### Saving of Government and other rights
 
-5\. Nothing in this Ordinance shall affect the rights of Her Majesty the Queen, Her Heirs and Successors, all bodies politic and corporate, and all others, except such as are expressly mentioned in this Ordinance and those claiming by, from or under them.
+5\. Nothing in this Ordinance shall affect the rights of the Government, all bodies politic and corporate, and all others, except such as are expressly mentioned in this Ordinance and those claiming by, from or under them.
+
+[7/97 wef 01/10/1997]
 
 ## LEGISLATIVE HISTORY
 
@@ -88,10 +90,12 @@ This Legislative History is provided for the convenience of users of the Good Sh
 
 ||||
 |:-|:-|:-|
-|1.|**Act 45 of 1958—Good Shepherd Nuns Ordinance 1958**|
-||Date of First, Second and Third Readings|Date not available.|
+|1.|**Ordinance 45 of 1958—Good Shepherd Nuns Ordinance 1958**|
 ||Date of commencement|21 November 1958|
-|2.|**1985 Revised Edition—Good Shepherd Nuns Ordinance 1985**|
-||Date of operation|1 January 1985|
-|3.|**1985 Revised Edition—Good Shepherd Nuns Ordinance**|
+|2.|**1985 Revised Edition—Good Shepherd Nuns Ordinance**|
 ||Date of operation|30 March 1987|
+|3.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (item (20) in the First Schedule)|
