@@ -80,7 +80,9 @@ An Act to suppress common betting-houses, betting in public places and bookmakin
 
 “betting information centre” means any place kept or used for receiving or transmitting by telephone or other means any information relating to any horse-race or other sporting event for the purpose of betting or wagering in contravention of this Act;
 
-“bookmaker” means any person who, whether on his own account or as penciller, runner, employee or agent for any other person, receives or negotiates bets or wagers whether on a cash or on a credit basis and whether for money or money’s worth, or who in any manner holds himself out or permits himself to be held out in any manner as a person who receives or negotiates those bets or wagers; but does not include a club, its officers or employees operating or conducting a totalisator or parimutuel or any other system or method of cash or credit betting authorised under section 22;
+“bookmaker” means any person who, whether on his own account or as penciller, runner, employee or agent for any other person, receives or negotiates bets or wagers whether on a cash or on a credit basis and whether for money or money’s worth, or who in any manner holds himself out or permits himself to be held out in any manner as a person who receives or negotiates those bets or wagers; but does not include a club, its officers or employees or any other person or organisation operating or conducting a totalisator or parimutuel or any other system or method of cash or credit betting authorised under section 22;
+
+[13/2004 wef 01/05/2004]
 
 “common betting-house” means —
 
@@ -104,9 +106,9 @@ An Act to suppress common betting-houses, betting in public places and bookmakin
 
 “telecommunication system” has the same meaning as in the Telecommunications Act 1999.
 
-[43/1999 wef 01/12/1999]
-
 [8/86]
+
+[43/1999 wef 01/12/1999]
 
 (2) A place shall be deemed to be used for a purpose if it is used for that purpose on only one occasion.
 
@@ -290,9 +292,13 @@ it shall be presumed, until the contrary is proved, that the place is a common b
 
 ### Exemption
 
-22\.—(1) The Minister may, by notification in theGazette, either generally or in any particular case and subject to such conditions as he may impose, exempt from all or any of the provisions of this Act the members and officers of any racing club or association in respect of any totalisator or pari-mutuel betting or any other system or method of cash or credit betting held, promoted, organised, administered or operated by it where the betting takes place on places subject to the control or supervision of any one or more of the officers of that racing club or association.
+22\.—(1) The Minister may, by notification in theGazette, either generally or in any particular case and subject to such conditions as he may impose, exempt from all or any of the provisions of this Act —
 
-[8/86]
+(a) the members and officers of any racing club or association in respect of any totalisator or pari-mutuel betting or any other system or method of cash or credit betting held, promoted, organised, administered or operated by the racing club or association where the betting takes place under the control or supervision of one or more officers of that racing club or association; or
+
+(b) any other person or organisation in respect of any system or method of cash or credit betting held, promoted, organised, administered or operated by the person or organisation where the betting takes place under the control or supervision of that person or organisation.
+
+[13/2004 wef 01/05/2004]
 
 (2) Every racing club or association exempted under subsection (1) shall place on the totalisator or pari-mutuel under its control or supervision all bets made under any system of cash or credit betting held, promoted, organised, administered or operated by it.
 
@@ -339,3 +345,9 @@ This Legislative History is provided for the convenience of users of the Betting
 |||(Bill No. 33/99 published on 12 October 1999)|
 ||Date of Second and Third Readings|23 November 1999|
 ||Date of commencement|1 December 1999|
+|7.|**Act 13 of 2004—Singapore Totalisator Board (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 2004|
+|||(Bill No. 8/2004 published on 28 February 2004)|
+||Date of Second and Third Readings|20 April 2004|
+||Date of commencement|1 May 2004|
