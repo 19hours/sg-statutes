@@ -239,6 +239,10 @@ Boys’ Brigade in Singapore
 Central Council of Malay Cultural Organisations
 (Majlis Pusat Pertubuhan-Pertubuhan Budaya Melayu)
 
+5A. 
+
+Chinese Dance Artistes’ Association
+
 6. 
 
 Chinese Theatre Circle
@@ -600,6 +604,8 @@ Young Women Muslim Association (Persatuan Pemudi Islam Singapura)
 
 [S 20/1992 wef 30/12/1991]
 
+[S 138/1992 wef 16/03/1992]
+
 SECOND SCHEDULE
 
 Section 15(1).
@@ -673,3 +679,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|13 December 1991|
 |24.|**G.N. No. S 20/92—People’s Association Act (Amendment of First Schedule) Notification 1992**|
 ||Date of commencement|30 December 1991|
+|25.|**G.N. No. S 138/92—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1992**|
+||Date of commencement|16 March 1992|
