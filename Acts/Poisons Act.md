@@ -2698,6 +2698,8 @@ Tetracyclines; its salts; its ester; their salts; that is to say, the antimicrob
 
 Tetrahydrocannabinol
 
+Tetrahydropalmatine; its isomers; their saltes
+
 Tetrahydrozoline; its salts; when in eye preparations
 
 Tetrazepam
@@ -2899,6 +2901,8 @@ Xylazine; its salts
 Yohimba, alkaloids of; its quarternary compounds; their salts
 
 Zoxazolamine; its salts
+
+[S 190/1995]
 
 Part II
 
@@ -3784,7 +3788,7 @@ Vinyl bromide
 
 Vinyl chloride monomer
 
-[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991; S 9/1993; S 172/1993, S 12/1994, S 147/1994, S 399/1994, S 449/1994, S 465/1994, S 10/1995, S 132/1995]
+[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991; S 9/1993; S 172/1993; S 12/1994; S 147/1994; S 399/1994; S 449/1994; S 465/1994; S 10/1995; S 132/1995]
 
 ## LEGISLATIVE HISTORY
 
@@ -3950,3 +3954,6 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 February 1995|
 |64.|**G. N. No. S 132/1995—Poisons Act (Amendment of Schedule) (No. 2) Notification 1995**|
 ||Date of commencement|1 April 1995|
+|65.|**G. N. No. S 190/1995—The Poisons Act (Amendment of Schedule) (No. 3) Notification 1995**|
+||(G.N. No. S 266/1995 — Corrigenda)||
+||Date of commencement|28 April 1995|
