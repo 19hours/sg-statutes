@@ -20,7 +20,7 @@
 
 - [7 Recovery of cess from a customer](#Recovery-of-cess-from-a-customer)
 
-- [8 Power of Director to obtain information](#Power-of-Director-to-obtain-information)
+- [8 Power of Chief Executive to obtain information](#Power-of-Chief-Executive-to-obtain-information)
 
 - [9 Keeping of books of account and giving of receipts](#Keeping-of-books-of-account-and-giving-of-receipts)
 
@@ -60,9 +60,9 @@
 
 - [27 Transitional provision](#Transitional-provision)
 
-[**FIRST SCHEDULE Rate of cess leviable**](#FIRST-SCHEDULE-Rate-of-cess-leviable)
+[**FIRST SCHEDULE Rate of Cess Leviable**](#FIRST-SCHEDULE-Rate-of-Cess-Leviable)
 
-[**SECOND SCHEDULE Services and facilities provided by tourist public houses**](#SECOND-SCHEDULE-Services-and-facilities-provided-by-tourist-public-houses)
+[**SECOND SCHEDULE Services and Facilities Provided by Tourist Public Houses**](#SECOND-SCHEDULE-Services-and-Facilities-Provided-by-Tourist-Public-Houses)
 
 [**Legislative History**](#Legislative-History)
 
@@ -76,23 +76,23 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Act for the collection of Cess by the Singapore Tourist Promotion Board.
+An Act for the collection of Cess by the Singapore Tourism Board.
 
 [6th February 1973]
 
 ### Short title
 
-1\. This Act may be cited as the Tourist Promotion (Cess Collection) Act.
+1\. This Act may be cited as the Singapore Tourism (Cess Collection) Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“Board” means the Singapore Tourist Promotion Board established under section 3 of the Tourist Promotion Board Act [Cap. 328] and includes any agent duly appointed by the Board to act on its behalf;
+“Board” means the Singapore Tourism Board established under section 3 of the Singapore Tourism Board Act and includes any agent duly appointed by the Board to act on its behalf;
 
-“Director” means the Director of the Board appointed under section 8 of the Tourist Promotion Board Act;
+“Chief Executive” means the Chief Executive of the Board appointed under section 8 of the Singapore Tourism Board Act and includes any acting Chief Executive appointed under section 8(3) of the Singapore Tourism Board Act;
 
-“Fund” means the Tourist Promotion Fund established under section 12 of the Tourist Promotion Board Act;
+“Fund” means the Tourism Fund established under section 12 of the Singapore Tourism Board Act;
 
 “proprietor”, in relation to —
 
@@ -140,9 +140,9 @@ An Act for the collection of Cess by the Singapore Tourist Promotion Board.
 
 a cess at the rate set out in the First Schedule.
 
-(1A) For the purposes of subsection (1), the “total amount” shall exclude the amount of goods and services tax charged on the supply of any private lottery or the operation of any fruit machine, as the case may be.
+(1A) For the purposes of subsection (1) and the First Schedule, any sales or charges on which cess is levied shall exclude the amount of any goods and services tax charged on the supply to which the sales or charges relate.
 
-[31/1993 wef 26/11/1993]
+[Act 31/93 wef 26/11/1993 vide S 466/93]
 
 (2) Subsection (1)(b) shall not apply to —
 
@@ -174,11 +174,11 @@ a cess at the rate set out in the First Schedule.
 
 (4) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-### Power of Director to obtain information
+### Power of Chief Executive to obtain information
 
-8\.—(1) The Director or any officer or agent of the Board authorised by the Director in that behalf shall at all times have full and free access to all buildings, places, books, documents and other papers for the purpose of ascertaining the amount of cess to be paid by any person under the provisions of this Act, and may, without fee or reward, inspect, copy or make extracts from any such books, documents or papers.
+8\.—(1) The Chief Executive or any officer or agent of the Board authorised by the Chief Executive in that behalf shall at all times have full and free access to all buildings, places, books, documents and other papers for the purpose of ascertaining the amount of cess to be paid by any person under the provisions of this Act, and may, without fee or reward, inspect, copy or make extracts from any such books, documents or papers.
 
-(2) The Director or any officer or agent of the Board authorised by the Director in that behalf may take possession of any such books, documents or papers where in his opinion —
+(2) The Chief Executive or any officer or agent of the Board authorised by the Chief Executive in that behalf may take possession of any such books, documents or papers where in his opinion —
 
 (a) the inspection, copying or extraction thereof cannot reasonably be performed without taking possession;
 
@@ -190,31 +190,31 @@ a cess at the rate set out in the First Schedule.
 
 9\.—(1) Subject to subsection (2), every person liable to pay cess under the provisions of this Act —
 
-(a) shall keep and retain for a minimum period of two years in safe custody sufficient records to enable the amount of cess payable under this Act to be readily ascertained by the Director or any officer or agent of the Board authorised in that behalf by the Director;
+(a) shall keep and retain for a minimum period of two years in safe custody sufficient records to enable the amount of cess payable under this Act to be readily ascertained by the Chief Executive or any officer or agent of the Board authorised in that behalf by the Chief Executive;
 
 (b) shall issue a serially printed receipt for every sum of money in respect of all sales made and all charges collected or levied in a tourist food establishment and a tourist public house and shall retain a duplicate of every such receipt:
 
-Provided that where a machine is used for recording sales and charges collected a receipt may be dispensed with if the Director or any officer or agent of the Board authorised by the Director in that behalf is satisfied that —
+Provided that where a machine is used for recording sales and charges collected a receipt may be dispensed with if the Chief Executive or any officer or agent of the Board authorised by the Chief Executive in that behalf is satisfied that —
 
 (i) such machine substantially records all sales made and all charges collected; and
 
 (ii) the total of all sales made and all charges collected in each day is transferred at the end of such day to a record of sales and of charges collected.
 
-(2) The Director, or an officer or agent of the Board duly authorised by the Director in that behalf, may in respect of any class or description of persons who are liable to pay cess under this Act —
+(2) The Chief Executive, or an officer or agent of the Board duly authorised by the Chief Executive in that behalf, may in respect of any class or description of persons who are liable to pay cess under this Act —
 
-(a) direct them to keep and retain the records referred to in subsection (1)(a) in the form and manner approved by the Director, or any officer or agent of the Board, as the case may be;
+(a) direct them to keep and retain the records referred to in subsection (1)(a) in the form and manner approved by the Chief Executive, or any officer or agent of the Board, as the case may be;
 
-(b) direct them to issue and retain the receipts and their duplicates referred to in subsection (1)(b) in the form and manner approved by the Director, or an officer or agent of the Board, as the case may be.
+(b) direct them to issue and retain the receipts and their duplicates referred to in subsection (1)(b) in the form and manner approved by the Chief Executive, or an officer or agent of the Board, as the case may be.
 
-(3) The Director, an officer or agent of the Board duly authorised by the Director in that behalf, may waive all or any of the provisions of subsection (1) in respect of any person or records or any class of persons or records.
+(3) The Chief Executive, an officer or agent of the Board duly authorised by the Chief Executive in that behalf, may waive all or any of the provisions of subsection (1) in respect of any person or records or any class of persons or records.
 
 (4) For the purposes of this section, “records” includes —
 
 (a) books of account recording receipts or payments or income or expenditure; and
 
-(b) invoices, vouchers, receipts and such other documents as in the opinion of the Director or an officer or agent of the Board, as the case may be, are necessary to verify the entries in any book of account.
+(b) invoices, vouchers, receipts and such other documents as in the opinion of the Chief Executive or an officer or agent of the Board, as the case may be, are necessary to verify the entries in any book of account.
 
-(5) Any person who contravenes or fails to comply with this section or any direction of the Director or an officer or agent of Board issued pursuant to this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(5) Any person who contravenes or fails to comply with this section or any direction of the Chief Executive or an officer or agent of Board issued pursuant to this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 ### Duty to inform
 
@@ -248,7 +248,7 @@ Provided that where a machine is used for recording sales and charges collected 
 
 14\.—(1) Notwithstanding the provisions of any other written law, cess and any penalty imposed under this Act may be sued for by way of a specially endorsed writ of summons and the Board shall be entitled to all costs allowed by law against the person liable thereto.
 
-(2) In any suit under subsection (1) the production of a certificate signed by the Director giving the name and address of the defendant and the amount of cess and penalty due by him shall be sufficient evidence of the amount so due and sufficient authority for the Court to give judgment for that amount.
+(2) In any suit under subsection (1) the production of a certificate signed by the Chief Executive giving the name and address of the defendant and the amount of cess and penalty due by him shall be sufficient evidence of the amount so due and sufficient authority for the Court to give judgment for that amount.
 
 ### Return of cess or penalty overpaid or erroneously paid
 
@@ -302,7 +302,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Proceedings conducted by officer of Board
 
-22\. Proceedings in respect of any offence under this Act or any regulations made thereunder may be conducted by an officer of the Board or an officer of the Government authorised in writing in that behalf by the Director.
+22\. Proceedings in respect of any offence under this Act or any regulations made thereunder may be conducted by an officer of the Board or an officer of the Government authorised in writing in that behalf by the Chief Executive.
 
 ### Sanction of Public Prosecutor
 
@@ -310,7 +310,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Priority of case in bankruptcy
 
-24\.—(1) There shall be included among the debts which, under section 43 of the Bankruptcy Act [Cap. 20], are to be paid in priority to all other debts in the distribution of property of a bankrupt or a person dying insolvent, the amount of any cess due from the bankrupt at the date of the receiving order, or from the person so dying at the date of his death, and having become due within 12 months before that date.
+24\.—(1) There shall be included among the debts which, under section 43 of the Banckruptcy Act, are to be paid in priority to all other debts in the distribution of property of a bankrupt or a person dying insolvent, the amount of any cess due from the bankrupt at the date of the receiving order, or from the person so dying at the date of his death, and having become due within 12 months before that date.
 
 (2) There shall be included among the taxes which, under section 328 of the Companies Act [Cap. 50], are to be paid in priority to all other unsecured debts in a winding up of a company, the amount of any cess due from the company and having become due within 12 months before the date of commencement of the winding up.
 
@@ -324,63 +324,49 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Transitional provision
 
-27\. Any subsidiary legislation made under the provisions of the Tourist Promotion Board Act [Cap. 328]\*relating to the matters falling within the scope of this Act which is not inconsistent with the provisions of this Act shall remain in force and shall be deemed to be made under this Act until it has been revoked or replaced by subsidiary legislation issued or made under this Act.
+27\. Any subsidiary legislation made under the provisions of the Singapore Tourism Board Act1relating to the matters falling within the scope of this Act which is not inconsistent with the provisions of this Act shall remain in force and shall be deemed to be made under this Act until it has been revoked or replaced by subsidiary legislation issued or made under this Act.
 
-\*See G.N. No. S 69/70.
+1See G.N. No. S 69/70.
 
-[28†
+[282
 
-†The former section 27 is omitted.
+2The former section 27 is omitted.
 
 FIRST SCHEDULE
 
 Section 5.
 
-Rate of cess leviable
+Rate of Cess Leviable
 
 1. The rate of cess leviable under this Act shall be as follows:
 
-(a)
+(a) For every room or suite occupied each day in every tourist hotel
 
-For every room or suite occupied each day in every tourist hotel
-
-…
+...
 
 1% of the charge for the room or suite subject to a minimum of $1 per day.
 
-(b)
+(b) For every tourist food establishment
 
-For every tourist food establishment
-
-…
+...
 
 1% of the total of all sales and charges in respect of which cess is payable.
 
-(c)
+(c) For every tourist public house
 
-For every tourist public house
-
-…
+...
 
 1% of the total of all sales and charges in respect of which cess is payable.
 
 2. In computing the amount of cess payable under each receipt, any fraction of a cent shall be rounded off to the nearest cent.
 
-[S 51/78; S 153/78]
-
-[S 461/1989 wef 01/01/1990]
-
-[S 111/1991 wef 01/04/1991]
-
-[S 82/1992 wef 01/04/1992]
-
-[S 98/1994 wef 01/04/1994]
+[Subst. by S 98/94 wef 01/04/1994]
 
 SECOND SCHEDULE
 
 Section 5.
 
-Services and facilities provided by tourist public houses
+Services and Facilities Provided by Tourist Public Houses
 
 1. Telephone, cable and telex services.
 
@@ -439,3 +425,9 @@ This Legislative History is provided for the convenience of users of the Tourist
 ||Date of commencement|26 November 1993 (except para (3) of Fifth Schedule)|
 |9.|**G. N. No. S 98/1994—Tourist Promotion (Cess Collection) Act (Variation) Order 1994**|
 ||Date of commencement|1 April 1994|
+|10.|**Act 9 of 1997—Tourist Promotion Board (Amendment) Act 1997**|
+||(Consequential amendments made by)||
+||Date of First Reading|25 August 1997|
+|||(Bill No. 11/97 published on 26 August 1997)|
+||Date of Second and Third Readings|7 October 1997|
+||Date of commencement|20 November 1997|
