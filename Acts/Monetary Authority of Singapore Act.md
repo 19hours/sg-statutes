@@ -38,6 +38,8 @@
 
 - [13 Director’s interest in contract to be made known](#Director’s-interest-in-contract-to-be-made-known)
 
+- [13A Appointment of committees and delegation of powers](#Appointment-of-committees-and-delegation-of-powers)
+
 - [14 Preservation of secrecy](#Preservation-of-secrecy)
 
 - [15 Remuneration not to be related to profits](#Remuneration-not-to-be-related-to-profits)
@@ -56,7 +58,7 @@
 
 - [21 Transfer of functions, powers, duties, assets and liabilities, etc., to Authority](#Transfer-of-functions-powers-duties-assets-and-liabilities-etc-to-Authority)
 
-- [22 Protection from personal liability](#Protection-from-personal-liability)
+- [22 Immunity of Authority, directors and employees, etc.](#Immunity-of-Authority-directors-and-employees-etc)
 
 [**Part IV POWERS, DUTIES AND FUNCTIONS OF AUTHORITY**](#Part-IV)
 
@@ -66,7 +68,7 @@
 
 - [25 Authority as a banker to, and financial agent of, Government and manager of its external assets](#Authority-as-a-banker-to-and-financial-agent-of-Government-and-manager-of-its-external-assets)
 
-- [26 Special loans to banks and financial institutions](#Special-loans-to-banks-and-financial-institutions)
+- [26 Special loans to banks, financial institutions, etc.](#Special-loans-to-banks-financial-institutions-etc)
 
 - [27 Power to issue directions to financial institutions](#Power-to-issue-directions-to-financial-institutions)
 
@@ -100,7 +102,7 @@
 
 - [33 Audit](#Audit)
 
-- [34 Preparation and publication of annual accounts and annual report](#Preparation-and-publication-of-annual-accounts-and-annual-report)
+- [34 Preparation and publication of financial statements and annual report](#Preparation-and-publication-of-financial-statements-and-annual-report)
 
 - [35 Borrowing from Authority by employees](#Borrowing-from-Authority-by-employees)
 
@@ -114,7 +116,7 @@
 
 - [39A Legal officer of Authority may act for Authority in civil proceedings](#Legal-officer-of-Authority-may-act-for-Authority-in-civil-proceedings)
 
-- [40 Immunity of Authority from defamation suits](#Immunity-of-Authority-from-defamation-suits)
+- [40 (Repealed)](#Repealed)
 
 - [41 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
@@ -164,11 +166,19 @@ PRELIMINARY
 
 “director” means a director appointed under section 8(1) and the chairman and the deputy chairman of the board;
 
-“managing director” means a director appointed under section 9(1).
+“managing director” means a director appointed under section 9(1);
 
 [24/2003 wef 01/01/2004]
 
 [26/84]
+
+“money market operations” means any transaction undertaken by the Authority as the central bank to manage liquidity in the banking system;
+
+[24/2003 wef 01/01/2004]
+
+“officer”, in relation to the Authority, includes any person employed by the Authority in an executive capacity.
+
+[24/2003 wef 01/01/2004]
 
 ## PART II
 
@@ -222,11 +232,17 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 6\.—(1) There shall be a General Reserve Fund of the Authority.
 
-(2) At the end of each financial year, the net profit of the Authority for that year shall be determined after allowing for the expenses of operation and after provision has been made for bad and doubtful debts, depreciation in assets, contributions to staff and pension funds and such other contingencies as are usually provided for by banks.
+(2) At the end of each financial year, the net profit of the Authority for that year shall be determined after allowing for the expenses of operation and after provision has been made for bad and doubtful debts, depreciation in assets, contributions to staff and pension funds and such other contingencies or purposes as the Authority may determine.
 
 [24/2003 wef 01/01/2004]
 
-(3) Subject to subsection (4), such part of the net profit of the Authority, as the board determines, shall be placed to the credit of the General Reserve Fund and the remainder shall be paid to the Government.
+(3) Subject to subsection (4), such part of the net profit for each financial year as the Authority may determine shall be paid to the Government and the remainder of the net profit, if any, shall be credited to the General Reserve Fund.
+
+[24/2003 wef 01/01/2004]
+
+(3A) Notwithstanding subsection (3), the Authority may pay to the Government such amount from the General Reserve Fund over and above the net profit, if any, as the Authority may determine.
+
+[24/2003 wef 01/01/2004]
 
 (4) Where at the end of a year the General Reserve Fund is —
 
@@ -274,13 +290,25 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 (2) The managing director shall be an employee of the Authority on such terms and conditions of service as the President may decide.
 
-(3) The managing director shall be entrusted with the day-to-day administration of the Authority, and may, subject to this Act, make decisions and exercise all powers and do all acts which may be exercised or done by the Authority.
+(3) The managing director shall be entrusted with the day-to-day administration of the Authority, and may, subject to this Act, make decisions and exercise all powers and do all acts which may be exercised or done by the Authority under this Act or any other written law.
 
 [24/2003 wef 01/01/2004]
 
 (4) The managing director shall be answerable to the board for his acts and decisions.
 
 (5) In the event of the absence or inability to act of the managing director, the Minister may appoint a director to discharge his duties during the period of his absence or inability.
+
+(6) The managing director may, subject to such terms and conditions as he thinks fit, appoint any officer or employee of the Authority, or form any committee comprising officers or employees of the Authority or both, to exercise any of his powers or perform any of his functions or duties conferred or imposed upon him by virtue of subsection (3), and that officer, employee or committee shall exercise those powers or perform those functions or duties under the direction and control of the managing director.
+
+[24/2003 wef 01/01/2004]
+
+(7) For the avoidance of doubt, the managing director —
+
+(a) shall remain responsible for any exercise of his powers or any performance of his functions or duties by any officer or employee appointed or by any committee formed under subsection (6); and
+
+(b) may continue to exercise his powers or perform his functions or duties conferred or imposed upon him by virtue of subsection (3), notwithstanding the delegation of the power, function or duty under subsection (6).
+
+[24/2003 wef 01/01/2004]
 
 ### Disqualification of directors
 
@@ -324,6 +352,10 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 [28/98]
 
+(3) For the avoidance of doubt, a decision of the board may be made by way of a resolution passed by a simple majority of the directors by written or electronic means.
+
+[24/2003 wef 01/01/2004]
+
 ### Director’s interest in contract to be made known
 
 13\.—(1) A director who is, directly or indirectly, interested in a contract made, or proposed to be made, by the Authority shall disclose the nature of his interest at the first meeting of the board at which he is present after the relevant facts have come to his knowledge.
@@ -335,6 +367,18 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 (b) shall be disregarded for the purpose of constituting a quorum of the board for any such deliberation or decision.
 
 (3) No act or proceeding of the board shall be questioned on the ground that a director has contravened this section.
+
+### Appointment of committees and delegation of powers
+
+13A\.—(1) The Authority may appoint from among its directors or other persons who are not directors such number of committees as it thinks fit for purposes which, in the opinion of the Authority, would be better regulated and managed by means of such committees.
+
+(2) The Authority may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or any director any of the powers, functions or duties of the Authority under this Act or any other written law, except the power of delegation conferred by this subsection and the power to make subsidiary legislation unless expressly provided under any written law.
+
+(3) Any power, function or duty delegated under subsection (2) may be exercised or performed by such committee or director, as the case may be, in the name and on behalf of the Authority.
+
+(4) The Authority may continue to exercise a power conferred upon it, or perform a function or duty under this Act or any other written law, notwithstanding the delegation of the power, function or duty under this section.
+
+[24/2003 wef 01/01/2004]
 
 ### Preservation of secrecy
 
@@ -430,11 +474,29 @@ PROVISIONS RELATING TO STAFF,TRANSFER OF FUNCTIONS, EMPLOYEES AND ASSETS, ETC
 
 have been transferred to or vested in the Authority under subsections (1), (2) and (3), a certificate under the hand of the President shall be conclusive evidence of such transfer or vesting.
 
-### Protection from personal liability
+### Immunity of Authority, directors and employees, etc.
 
-22\. No suit or other legal proceedings shall lie against any member, officer or employee of the Authority or other person acting under the direction of the Authority for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+22\. No action, suit or other legal proceedings shall lie against —
 
-[26/84]
+(a) the Authority;
+
+(b) any director, officer or employee of the Authority;
+
+(c) any public officer;
+
+(d) any person who is on secondment or attachment to the Authority; or
+
+(e) any person appointed, approved or directed by the Minister or the Authority to exercise the Authority’s power, perform the Authority’s functions or duties or to assist the Authority in the exercise of its powers or performance of its functions or duties under this Act or any other written law,
+
+for anything done (including any statement made) or omitted to be done in good faith in the course of or in connection with —
+
+(i) the exercise or purported exercise of any power under this Act or any other written law;
+
+(ii) the performance or purported performance of any function or duty under this Act or any other written law; or
+
+(iii) the compliance or purported compliance with this Act or any other written law.
+
+[24/2003 wef 01/01/2004]
 
 ## PART IV
 
@@ -456,15 +518,9 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 (f) purchase, sell, discount and re-discount bills of exchange and promissory notes arising out of bona fide commercial transactions bearing 2 or more good signatures and maturing within 3 months (exclusive of days of grace) from the date of acquisition;
 
-(g) grant loans, advances or other credit facilities to such financial institutions or class of financial institutions as the Authority may, from time to time, approve for periods not exceeding 3 months (which may at the discretion of the Authority extend for a further period of 3 months) against —
+(g) grant loans, advances or other credit facilities for the purposes of money market operations, on such terms and conditions as the Authority thinks fit, to such financial institutions or class of financial institutions as the Authority may from time to time determine;
 
-(i) Treasury bills of the Government and securities of the Government;
-
-(ii) gold coin or bullion;
-
-(iii) such bills of exchange and promissory notes as are eligible for purchase, discount or re-discount by the Authority up to 75% of their nominal value;
-
-(iv) warehouse warrants or their equivalent (securing possession of goods), in respect of goods duly insured and with a letter of hypothecation from the owner, except that no such advance shall exceed 60% of the current market value of the goods in question;
+[24/2003 wef 01/01/2004]
 
 (h) invest in securities of the Government or of any public authority for any amount, and to mature at any time on behalf of staff and pension funds and other internal funds of the Authority;
 
@@ -524,11 +580,17 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 (4) The Authority shall, subject to the Financial Procedure Act (Cap. 109) and any other written law, manage the external assets of the Government.
 
-### Special loans to banks and financial institutions
+### Special loans to banks, financial institutions, etc.
 
-26\. The Authority may, if it thinks such action is necessary to safeguard monetary stability, make a loan or advance to a bank carrying on business under the Banking Act (Cap. 19) or to such financial institutions or class of financial institutions as the Authority may, from time to time, determine against such form of security as the Authority may consider sufficient.
+26\. The Authority may, if it thinks such action is necessary to safeguard —
 
-[31/72; 26/84]
+(a) the stability of the financial system; or
+
+(b) public confidence in the financial system,
+
+make any loan or advance to any bank carrying on business under the Banking Act (Cap. 19) or to such financial institutions or class of financial institutions or such other persons as the Authority may from time to time determine, on such terms and conditions as the Authority thinks fit.
+
+[24/2003 wef 01/01/2004]
 
 ### Power to issue directions to financial institutions
 
@@ -553,6 +615,12 @@ and in either event, the Authority shall thereupon issue a direction in writing 
 (4) Any financial institution that fails or refuses to comply with a direction given under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
 [31/72; 26/84]
+
+(5) For the avoidance of doubt, any direction issued under this section, section 27A or 28 shall be deemed not to be subsidiary legislation.
+
+[24/2003 wef 01/01/2004]
+
+[42/2007 wef 01/11/2007]
 
 ### Directions or regulations to discharge Government’s international obligations
 
@@ -736,8 +804,6 @@ and the financial institutions concerned shall comply with such directions.
 
 “settlement system” means any real-time gross settlement system established under subsection (1).
 
-[39/2002 wef 09/12/2002]
-
 ### Agents
 
 30\. In the exercise of its powers and the performance of its functions under this Act, the Authority may —
@@ -868,15 +934,21 @@ MISCELLANEOUS
 
 33\. The accounts of the Authority shall be audited by the Auditor-General.
 
-### Preparation and publication of annual accounts and annual report
+### Preparation and publication of financial statements and annual report
 
 34\.—(1) The Authority shall, within 6 months from the close of its financial year, transmit to the President —
 
-(a) a copy of the annual accounts certified by the Auditor-General, and those accounts shall then be published in theGazette; and
+(a) a copy of the financial statements certified by the Auditor-General and those statements shall then be published in theGazette; and
 
 (b) a report by the board on the working of the Authority throughout the financial year and that report shall be published by the Authority.
 
-(2) The Authority shall cause the annual accounts and the annual report to be presented as soon as possible to Parliament.
+[13/2007 wef 30/06/2007]
+
+(2) The Authority shall, within 6 months from the close of its financial year, cause the financial statements and the annual report to be presented to Parliament.
+
+(3) In preparing the financial statements for the purpose of this section, the Authority may comply with accounting standards to the extent that it is, in the opinion of the Authority, appropriate to do so, having regard to the objects and functions of the Authority.
+
+[24/2003 wef 01/01/2004]
 
 ### Borrowing from Authority by employees
 
@@ -912,23 +984,7 @@ MISCELLANEOUS
 
 (b) make and do all acts and applications in respect of such proceedings on behalf of the Authority.
 
-### Immunity of Authority from defamation suits
-
-40\.—(1) The Authority shall not, in the absence of malice on its part, be liable to any action for defamation at the suit of any person in respect of any statements made in the discharge of any of its functions under this Act whether the statements are made orally or in writing.
-
-[26/84]
-
-(2) Subsection (1) shall not restrict or affect any other right or privilege or immunity of the Authority as a defendant in an action for defamation.
-
-[26/84]
-
-(3) For the purposes of this section —
-
-“affairs” includes trading, dealings and business of financial institutions;
-
-“functions” includes the function of exercising supervisory powers over financial institutions whether this is by way of inquiry into the conduct of their affairs or otherwise.
-
-[26/84]
+40\. [Deleted by Act 24/2003 wef 01/01/2004]
 
 ### Jurisdiction of District Court
 
@@ -1030,6 +1086,11 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||(Bill No. 41/2002 published on 13 December 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|9 December 2002|
+|18.|**Act 24 of 2003—Monetary Authority of Singapore (Amendment) Act 2003**|
+||Date of First Reading|16 October 2003|
+|||(Bill No. 21/2003 published on 12 December 2003)|
+||Date of Second and Third Readings|10 November 2003|
+||Date of commencement|1 January 2004|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
