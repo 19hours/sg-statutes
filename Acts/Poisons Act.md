@@ -44,6 +44,10 @@
 
 - [19 Prohibition of sale to persons below 18 years](#Prohibition-of-sale-to-persons-below-18-years)
 
+- [19A Composition of offences](#Composition-of-offences)
+
+- [19B Fees, charges, etc., collected by licensing officer to be paid to Authority](#Fees-charges-etc-collected-by-licensing-officer-to-be-paid-to-Authority)
+
 - [20 Rules](#Rules)
 
 [**THE SCHEDULE Poisons List**](#THE-SCHEDULE)
@@ -74,6 +78,14 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 
 2\. In this Act and in any rules made thereunder unless there is something repugnant in the subject or context —
 
+“Authority” means the Health Sciences Authority established under the Health Sciences Authority Act 2001;
+
+[4/2001 wef 01/04/2001]
+
+“Chief Executive of the Authority” means the person appointed under section 15 of the Health Sciences Authority Act 2001 to be the Chief Executive of the Authority;
+
+[4/2001 wef 01/04/2001]
+
 “licensed pharmacist” means a pharmacist licensed under this Act;
 
 “licensing officer” means a person empowered by section 4 to issue licences for the purposes of this Act;
@@ -100,9 +112,9 @@ An Act to regulate the importation, possession, manufacture, compounding, storag
 
 ### Licensing officers
 
-4\. The Director of Medical Services or any public officer authorised by him in writing may issue licences for the purposes of this Act.
+4\. The Chief Executive of the Authority or any officer of the Authority authorised by him in writing may issue licences for the purposes of this Act.
 
-[14/80; 21/87]
+[4/2001 wef 01/04/2001]
 
 ### General prohibition with respect to importation and sale of poisons
 
@@ -190,7 +202,9 @@ if the requirements contained in subsections (2), (3) and (4) are satisfied in r
 
 (c) the sale of poisons to a medical practitioner, registered dentist or veterinary surgeon for the purposes of his profession;
 
-(d) the sale of poisons for use in or in connection with any hospital, dispensary or similar institution approved by an order, whether general or special, of the Director of Medical Services;
+(d) the sale of poisons for use in or in connection with any hospital, dispensary or similar institution approved by an order, whether general or special, of the Chief Executive of the Authority;
+
+[4/2001 wef 01/04/2001]
 
 (e) the sale of poisons for use by a Government department requiring the poison for the purposes of the public service or by any local authority requiring the poison in connection with the exercise by the authority of any statutory powers;
 
@@ -254,7 +268,9 @@ if the requirements contained in subsections (2), (3) and (4) are satisfied in r
 
 12\.—(1) All licences issued shall be numbered consecutively in the year in respect of which they are issued, commencing each year with the number one.
 
-(2) The Director of Medical Services shall keep a register of licences showing all the particulars of each licence issued under this Act.
+(2) The Chief Executive of the Authority shall keep a register of licences showing all the particulars of each licence issued under this Act.
+
+[4/2001 wef 01/04/2001]
 
 (3) The entries in the register shall be numbered to correspond with the serial numbers of the licences and there shall be noted in the register in the event of cancellation of any licence the date of such cancellation.
 
@@ -262,9 +278,9 @@ if the requirements contained in subsections (2), (3) and (4) are satisfied in r
 
 (4) Any extract from or copy of an entry in a register kept under this section shall be prima facie evidence of the facts stated therein if the extract or copy is certified under the hand of a licensing officer to be a true extract or copy.
 
-(5) The register of licences kept under this section shall be kept at the office of the Director of Medical Services and shall be available for inspection by any person without charge at all reasonable hours.
+(5) The register of licences kept under this section shall be kept at such office as may be designated by the Chief Executive of the Authority and shall be available for inspection by any person without charge at all reasonable hours.
 
-[21/87]
+[4/2001 wef 01/04/2001]
 
 ### Forms of licences
 
@@ -300,7 +316,9 @@ if the requirements contained in subsections (2), (3) and (4) are satisfied in r
 
 [14/80; 21/87]
 
-(2) Any poison in respect of which an offence has been committed in contravention of any provision of this Act or of any rules made thereunder by any unlicensed person shall, upon that person being convicted of that offence, be forfeited and shall be handed over to the Director of Medical Services for disposal.
+(2) Any poison in respect of which an offence has been committed in contravention of any provision of this Act or of any rules made thereunder by any unlicensed person shall, upon that person being convicted of that offence, be forfeited and shall be handed over to the Chief Executive of the Authority for disposal.
+
+[4/2001 wef 01/04/2001]
 
 (3) Every penalty or forfeiture imposed under this Act shall be in addition to and not in substitution for any other penalty to which the accused may be liable under any other written law and no conviction under this Act shall be pleaded in any civil proceedings in mitigation of damages claimed against the person convicted.
 
@@ -329,6 +347,20 @@ if the requirements contained in subsections (2), (3) and (4) are satisfied in r
 (3) It shall be a sufficient defence to any charge under subsection (2) that the person charged had reasonable cause to believe that the person to whom the sale was made was above the age of 18 years.
 
 [21/87]
+
+### Composition of offences
+
+19A\.—(1) The Chief Executive of the Authority or any employee of the Authority authorised by him in writing may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from the person reasonably suspected of committing an offence a sum not exceeding $2,000.
+
+(2) The Minister may make rules prescribing the offences which may be compounded under this section.
+
+[4/2001 wef 01/04/2001]
+
+### Fees, charges, etc., collected by licensing officer to be paid to Authority
+
+19B\. All fees, charges and other moneys recovered or collected by a licensing officer under this Act or any rules made thereunder shall be paid to the Authority.
+
+[4/2001 wef 01/04/2001]
 
 ### Rules
 
@@ -3999,6 +4031,12 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of operation|30 December 1999|
 |56.|**G. N. No. S 67/2000—Poisons Act (Amendment of Schedule) Notification 2000**|
 ||Date of commencement|1 March 2000|
+|57.|**Act 4 of 2001—Health Sciences Authority Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 3/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
 ## COMPARATIVE TABLE
 
 Poisons Act
