@@ -874,7 +874,9 @@ Provided that where the name of a solicitor is removed from or struck off the ro
 
 (b) unless he is or is about to be employed in his or their practice by a solicitor or firm of solicitors in practice in Singapore;
 
-(c) if he has, for a period of 3 years or more, held office as a judge of the Supreme Court or of the Federal Court of Malaysia or of any High Court in any part of Malaysia;
+(c) if he has, for a period of 3 years or more, held office as a judge of the Supreme Court or of the Supreme Court of Malaysia or of any High Court in any part of Malaysia;
+
+[Act 16 of 1993 wef 01/07/1993]
 
 (d) if he is an undischarged bankrupt or a receiving order in bankruptcy is in force against him;
 
@@ -2974,3 +2976,9 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 1/92 published on 14 January 1992)|
 ||Date of Second and Third Readings|27 February 1992|
 ||Date of commencement|27 March 1992|
+|19.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|26 February 1993|
+|||(Bill No. 12/93 published on 27 February 1993)|
+||Date of Second and Third Readings|12 April 1993|
+||Date of commencement|1 July 1993|
