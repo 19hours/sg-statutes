@@ -136,7 +136,13 @@ AUDITOR-GENERAL
 
 (2) In the event of any such statement not being received within a period of 7 months after the close of the financial year to which it relates, the Auditor-General shall submit a report to that effect to the President, who shall cause it to be presented to Parliament as soon as possible after its receipt by him.
 
-(3) Every report relating to the statement prepared in accordance with subsection (1) shall be submitted by the Auditor-General to the President who shall present the report and statement to Parliament within 30 days of their receipt by him, or if Parliament is not in session, within 14 days after the commencement of its next sitting.
+(3) Subject to subsection (3A), every report relating to the statement prepared in accordance with subsection (1) shall be submitted by the Auditor-General to the President who shall present the report and statement to Parliament within 30 days of their receipt by him, or if Parliament is not in session, within 14 days after the commencement of its next sitting.
+
+[Act 18 of 1994 wef 01/10/1994]
+
+(3A) Nothing in section 3 shall require the presentation to Parliament of any report or statement containing any matter which the Prime Minister and the Minister responsible for defence, on the recommendations of the Permanent Secretary to the Ministry of Defence and the Chief of Defence Force, certify to be necessary for the defence and security of Singapore, and any certificate under the hands of the Prime Minister and the Minister responsible for defence shall be conclusive evidence of the matters specified therein.
+
+[Act 18 of 1994 wef 01/10/1994]
 
 (4) If at any time it appears to the Auditor-General that any serious irregularities have occurred in the accounting or custody of public moneys or public stores, he shall immediately bring the matter to the notice of the Permanent Secretary to the Ministry of Finance.
 
@@ -185,3 +191,8 @@ This Legislative History is provided for the convenience of users of the Audit A
 |||(Bill No. 4/91 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|30 November 1991|
+|6.|**Act 18 of 1994—Statutes (Miscellaneous Amendments) Act 1994**|
+||Date of First Reading|25 July 1994|
+|||(Bill No. 25/94 published on 29 July 1994)|
+||Date of Second and Third Readings|25 August 1994|
+||Date of commencement|1 October 1994|
