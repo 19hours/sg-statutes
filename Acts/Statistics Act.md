@@ -154,7 +154,7 @@ An Act relating to statistics.
 
 [9/90]
 
-(5) Subsection (1) shall not apply to any particulars or information obtained under any written law relating to taxation or administered by the Monetary Authority of Singapore.
+(5) Subsection (1) shall not apply to any particulars or information obtained under any written law administered by the Monetary Authority of Singapore.
 
 [9/90]
 
@@ -270,13 +270,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Amendment of Schedules
 
-13\.—(1) Subject to subsection (2), the Minister may, by notification in theGazette, amend the First, Second or Third Schedule.
+13\.—(1) Subject to subsections (2) and (3), the Minister may, by notification in theGazette, amend the First, Second or Third Schedule.
 
 [9/90]
 
 (2) The Minister shall not insert or delete and substitute any particulars or information specified in the second column of the Third Schedule without the approval of the Minister responsible for the written law under which those particulars and information are obtained.
 
 [9/90]
+
+(3) Without prejudice to subsection (2), the Minister may insert or delete and substitute in the second column of the Third Schedule any particulars or information obtained under any written law relating to taxation only to the extent that the supply of such particulars or information is permitted by or under that written law.
+
+[16/2004 wef 01/07/2004]
 
 FIRST SCHEDULE
 
@@ -414,21 +418,39 @@ First column
 
 Second column
 
-1. Superintendent of Census
+1.
+
+Superintendent of Census
 
 Particulars and information obtained by the Superintendent of Census under the Census Act (Chapter 35).
 
-2. Central Provident Fund Board
+2.
+
+Central Provident Fund Board
 
 Particulars and information relating to the employment, employer and wages of Central Provident Fund members obtained by the Central Provident Fund Board under the Central Provident Fund Act (Chapter 36).
 
-3. Director-General of Customs
+3.
+
+Director-General of Customs
 
 Particulars and information obtained by the Director-General of Customs under section 3 of the Regulation of Imports and Exports Act (Cap. 272A) and any regulations made thereunder.
 
-[S 536/2002 wef 04/10/2002]
+4.
+
+Comptroller of Goods and Services Tax
+
+Such particulars and information in records obtained by the Comptroller of Goods and Services Tax under the Goods and Services Tax Act (Chapter 117A) and any regulations made thereunder as referred to in section 6(6) of that Act.
+
+5.
+
+Comptroller of Income Tax
+
+Such particulars and information in records obtained by the Comptroller of Income Tax under the Income Tax Act (Chapter 134) and any regulations made thereunder as referred to in section 6(10A) of that Act.
 
 [6/2003 wef 01/04/2003]
+
+[16/2004 wef 01/07/2004]
 
 [9/90; 24/95]
 
@@ -491,6 +513,11 @@ This Legislative History is provided for the convenience of users of the Statist
 |||(Bill No. 5/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|15.|**Act 16 of 2004—Statistics (Amendment) Act 2004**|
+||Date of First Reading|19 April 2004|
+|||(Bill No. 15/2004 published on 20 April 2004)|
+||Date of Second and Third Readings|19 May 2004|
+||Date of commencement|1 July 2004|
 ## COMPARATIVE TABLE
 
 Statistics Act
