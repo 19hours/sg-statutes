@@ -196,6 +196,33 @@ Urban Redevelopment Authority Act
 
 (Chapter 340)
 
+17. Defence Science and Technology Agency
+
+Defence Science and Technology Agency Act 2000
+
+
+
+
+(Act 9 of 2000)
+
+18. Economic Development Board
+
+Economic Development Board Act
+
+
+
+
+(Chapter 85)
+
+19. Singapore Totalisator Board
+
+Singapore Totalisator Board Act
+
+
+
+
+(Chapter 305A)
+
 [7/96; 41/99; S 414/93; S344/95; S405/96; S 470/97; S 518/97; S366/98]
 
 ## LEGISLATIVE HISTORY
@@ -248,6 +275,8 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 December 1999|
 |13.|**2000 Revised Edition—Statutory Corporations (Contributions to Consolidated Fund) Act**|
 ||Date of operation|1 July 2000|
+|14.|**G. N. No. S 588/2000—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2000**|
+||Date of commencement|1 January 2001|
 ## COMPARATIVE TABLE
 
 Statutory Corporations (Contributions to Consolidated Fund) Act
