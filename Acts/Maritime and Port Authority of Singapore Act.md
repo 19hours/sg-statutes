@@ -1,16 +1,14 @@
-**Maritime and Port Authority of Singapore Act 1996**
+**Maritime and Port Authority of Singapore Act**
 
-**(No. 7 of 1996)**
+**(CHAPTER 170A)**
 
 **Table of Contents**
 
 [**Long Title**](#Maritime-and-Port-Authority-of-Singapore-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -72,13 +70,13 @@
 
 - [27 Rates, charges, dues, etc., payable to Authority](#Rates-charges-dues-etc-payable-to-Authority)
 
-- [28 Power entry into vessels](#Power-entry-into-vessels)
+- [28 Power of entry into vessels](#Power-of-entry-into-vessels)
 
 - [29 Power to distrain for non-payment of dues, rates, etc.](#Power-to-distrain-for-non-payment-of-dues-rates-etc)
 
 [**Part VI TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES**](#Part-VI)
 
-- [30 Transfers to Authority of property, assets and liabilities](#Transfers-to-Authority-of-property-assets-and-liabilities)
+- [30 Transfer to Authority of property, assets and liabilities](#Transfer-to-Authority-of-property-assets-and-liabilities)
 
 - [31 Transfer of employees](#Transfer-of-employees)
 
@@ -104,19 +102,19 @@
 
 [**Part VIII REGULATION OF PORT**](#Part-VIII)
 
-- [41 Port regulation](#Port-regulation)
+- [41 Port regulations](#Port-regulations)
 
 - [42 Insurance policy](#Insurance-policy)
 
 - [43 Power of Port Master in relation to vessel](#Power-of-Port-Master-in-relation-to-vessel)
 
-- [44 Owners, agent or master of vessel to report arrival or departure](#Owners-agent-or-master-of-vessel-to-report-arrival-or-departure)
+- [44 Owner, agent or master of vessel to report arrival or departure](#Owner-agent-or-master-of-vessel-to-report-arrival-or-departure)
 
 - [45 Port Master may require vessel in transit in the port or approaches thereto to provide information](#Port-Master-may-require-vessel-in-transit-in-the-port-or-approaches-thereto-to-provide-information)
 
 - [46 No vessel to leave port without port clearance](#No-vessel-to-leave-port-without-port-clearance)
 
-- [47 Owner, agent or master of vessel not leaving within 48 hours after port clearance to return port clearance to Port master](#Owner-agent-or-master-of-vessel-not-leaving-within-48-hours-after-port-clearance-to-return-port-clearance-to-Port-master)
+- [47 Owner, agent or master of vessel not leaving within 48 hours after port clearance to return port clearance to Port Master](#Owner-agent-or-master-of-vessel-not-leaving-within-48-hours-after-port-clearance-to-return-port-clearance-to-Port-Master)
 
 - [48 Power to prohibit vessel from entering territorial waters](#Power-to-prohibit-vessel-from-entering-territorial-waters)
 
@@ -204,7 +202,7 @@
 
 - [86 General duties of public licensee](#General-duties-of-public-licensee)
 
-[**Part XIII CONTROL OF REVEVANT PUBLIC LICENSEES**](#Part-XIII)
+[**Part XIII CONTROL OF RELEVANT PUBLIC LICENSEES**](#Part-XIII)
 
 - [87 Meaning and effect of special administration order](#Meaning-and-effect-of-special-administration-order)
 
@@ -240,9 +238,9 @@
 
 - [101 Jurisdiction of Courts](#Jurisdiction-of-Courts)
 
-- [102 Power to compound](#Power-to-compound)
+- [102 Composition of offences](#Composition-of-offences)
 
-- [103 Fines to be paid to the Authority](#Fines-to-be-paid-to-the-Authority)
+- [103 Fines to be paid to Authority](#Fines-to-be-paid-to-Authority)
 
 - [104 Presumption of jurisdiction](#Presumption-of-jurisdiction)
 
@@ -278,9 +276,7 @@
 
 - [119 Regulations](#Regulations)
 
-- [120 Repeal](#Repeal)
-
-- [121 Transitional provisions](#Transitional-provisions)
+- [120 Transitional provisions](#Transitional-provisions)
 
 [**FIRST SCHEDULE Constitution and Proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Authority)
 
@@ -288,57 +284,33 @@
 
 [**THIRD SCHEDULE Financial Provisions**](#THIRD-SCHEDULE-Financial-Provisions)
 
-[**FOURTH SCHEDULE Consequential Amendments**](#FOURTH-SCHEDULE-Consequential-Amendments)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Maritime and Port Authority of Singapore Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 170A)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 7 of 1996)
 
-Published by Authority
+REVISED EDITION 1997
 
-NO. 6]
+(30th May 1997)
 
-Friday, February 2
+An Act to establish and incorporate the Maritime and Port Authority of Singapore, to provide for its functions and powers, and for matters connected therewith.
 
-[1996
-
-The following Act was passed by Parliament on 18th January 1996 and assented to by the President on 30th January 1996:—
-
-Maritime and Port Authority of Singapore Act 1996
-
-(No. 7 of 1996)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President.
-
-30th January 1996.
-
-Date of Commencement: 2nd February 1996
-
-An Act to establish and incorporate the Maritime and Port Authority of Singapore, to provide for its functions and powers, and for matters connected therewith; and to repeal the National Maritime Board Act (Chapter 198 of the 1985 Revised Edition) and to make consequential amendments to certain other Acts.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[2nd February 1996]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Maritime and Port Authority of Singapore Act 1996 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
-
-(2) The Minister may appoint different dates for the coming into operation of the different Parts or provisions of this Act.
+1\. This Act may be cited as the Maritime and Port Authority of Singapore Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day”, in any provision of this Act, means the date appointed under section 1 for the coming into operation of that provision;
 
 “authorised pilot” means any person employed or authorised by the Authority to pilot vessels under section 62;
 
@@ -360,13 +332,13 @@ PRELIMINARY
 
 “Deputy Chairman” means the Deputy Chairman of the Authority and includes any acting Deputy Chairman of the Authority;
 
-“Director of Marine” means the Director of Marine appointed under section 4 (Act 19 of 1995) of the Merchant Shipping Act 1995;
+“Director of Marine” means the Director of Marine appointed under section 4 of the Merchant Shipping Act (Cap. 179);
 
 “dock” means an artificial excavation or construction in which vessels can be placed for loading, unloading, fitting out or repairing and includes gridirons, slips, keel blocks, inclined planes and all machinery, works, fixtures and things whatsoever attached or pertaining thereto;
 
 “dues” includes port dues, goods dues and pilotage dues levied under this Act but does not include rates;
 
-“equipment” includes any appliance, apparatus, machinery, systems or accessory used or intended to be used for the purposes of providing marine or port services and facilities;
+“equipment” includes any appliance, apparatus, machinery, system or accessory used or intended to be used for the purposes of providing marine or port services and facilities;
 
 “goods” includes dangerous cargoes, animals, carcases, baggage, containers and any other movable property of any kind whatsoever and whether in a refrigerated form or otherwise;
 
@@ -380,11 +352,11 @@ PRELIMINARY
 
 “member” means a member of the Authority;
 
-“National Maritime Board” means the National Maritime Board established under the National Maritime Board Act (Cap. 198.) in force immediately before the appointed day;
+“National Maritime Board” means the National Maritime Board established under the repealed National Maritime Board Act (Cap. 198, 1985 Ed.) in force immediately before 2nd February 1996;
 
 “owner”, in relation to any vessel, includes any part-owner, charterer, operator, consignee or mortgagee in possession of the vessel or any duly authorised agent of any such person;
 
-“passenger” has the same meaning as in the Merchant Shipping Act 1995(Act 19 of 1995);
+“passenger” has the same meaning as in the Merchant Shipping Act (Cap. 179);
 
 “pilot” means any person not belonging to a vessel who has the conduct thereof;
 
@@ -398,7 +370,7 @@ PRELIMINARY
 
 “Port Master” means the Port Master appointed under section 15 and includes any Deputy Port Master appointed under that section;
 
-“Port of Singapore Authority” means the Port of Singapore Authority established under the Port of Singapore Authority Act;
+“Port of Singapore Authority” means the Port of Singapore Authority established under the Port of Singapore Authority Act (Cap. 236);
 
 “port services and facilities” means port terminal services and facilities for the handling, storage and transportation of goods on land adjoining the foreshore of Singapore and for the handling of passengers carried by vessels;
 
@@ -418,7 +390,7 @@ PRELIMINARY
 
 (c) any other person employed on board the vessel who is engaged in duties which are not normally the duties of seamen;
 
-“vehicle” has the same meaning as in the Road Traffic Act (Cap.276);
+“vehicle” has the same meaning as in the Road Traffic Act (Cap. 276);
 
 “vessel” includes any ship or boat or air-cushioned vehicle or floating rig or platform used in any form of operations at sea or any other description of vessel;
 
@@ -454,7 +426,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 6\.—(1) The Authority shall consist of —
 
-(a) a chairman; and
+(a) a Chairman; and
 
 (b) not less than 2 nor more than 11 other members as the Minister may from time to time determine.
 
@@ -472,7 +444,7 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (b) to regulate and control navigation within the limits of the port and the approaches to the port;
 
-(c) to provide and maintain adequate and efficient lighthouse, beacons, buoys and other aids to navigation in the territorial waters of Singapore and the approaches thereto, at Petra Branca (Horsburgh), at Pulau Pisang and at such other places as the Authority may think fit;
+(c) to provide and maintain adequate and efficient lighthouses, beacons, buoys and other aids to navigation in the territorial waters of Singapore and the approaches thereto, at Pedra Branca (Horsburgh), at Pulau Pisang and at such other places as the Authority may think fit;
 
 (d) to disseminate navigational information;
 
@@ -486,7 +458,7 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (i) to create an economic regulatory framework in respect of the provision of marine and port services and facilities which promotes and safeguards competition and fair and efficient market conduct or, in the absence of a competitive market, which prevents the misuse of monopoly or market power;
 
-(j) to promote, provide and administer training schemes for members of the mercantile marine and shipping and port industries;
+(j) to promote, provide and administer training schemes for members of the mercantile marine and the shipping and port industries;
 
 (k) to develop, promote and regulate employment among members of the mercantile marine;
 
@@ -508,7 +480,7 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (b) fostering the development and expansion of marine and port services and facilities in the world in collaboration with other countries and international organisations;
 
-(c) enabling persons providing marine and port services and facilities in Singapore to complete effectively in the provision of such services and facilities outside Singapore;
+(c) enabling persons providing marine and port services and facilities in Singapore to compete effectively in the provision of such services and facilities outside Singapore;
 
 (d) the promotion of measures for the safety of life in the port;
 
@@ -516,11 +488,11 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (f) collaboration with educational institutions for the promotion of technical education in the fields of marine and port services and facilities.
 
-(3) Nothing in this section shall be construed as imposing on the Authority, either directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
+(3) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
 
-(4) In additional to the functions and duties imposed by this section, the Authority may undertake such other functions as the Minister may assign to the Authority and the Authority shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Authority in respect of such functions.
+(4) In addition to the functions and duties imposed by this section, the Authority may undertake such other functions as the Minister may assign to the Authority and the Authority shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Authority in respect of such functions.
 
-(5) Notwithstanding the provisions of this Act, the Authority may, until such time as the licenses granted under Part XII come into effect, continue to provide any marine or port services and facilities that the Port of Singapore Authority was providing immediately before the appointed day.
+(5) Notwithstanding the provisions of this Act, the Authority may, until such time as the licences granted under Part XII come into effect, continue to provide any marine or port services and facilities that the Port of Singapore Authority was providing immediately before 2nd February 1996.
 
 (6) Without prejudice to the provisions of Part XII, the Authority may provide any marine or port services and facilities in any of the following circumstances notwithstanding that it has granted a public licence to any person:
 
@@ -598,7 +570,7 @@ shall be guilty of an offence.
 
 ### Appointment of committees and delegation of powers
 
-12\.—(1) The Authority may appoint from among its own members or other persons who are not members such number of committees as it thinks fit consisting of members or other persons or members and another persons for purposes which, in the opinion of the Authority would be better regulated and managed by means of such committees.
+12\.—(1) The Authority may appoint from among its own members or other persons who are not members such number of committees as it thinks fit consisting of members or other persons or members and other persons for purposes which, in the opinion of the Authority, would be better regulated and managed by means of such committees.
 
 (2) The Authority may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee all or any of the powers, functions and duties vested in the Authority by this Act or any other written law, except the powers to make regulations, prescribe or levy dues and rates and borrow money, and any power, function or duty so delegated may be exercised or performed by the committee in the name and on behalf of the Authority.
 
@@ -626,7 +598,7 @@ PROVISIONS RELATING TO STAFF
 
 (b) be responsible to the Authority for the proper administration and management of the functions and affairs of the Authority in accordance with the policy laid down by the Authority; and
 
-(c) not be removed from the office without the consent of the Minister.
+(c) not be removed from office without the consent of the Minister.
 
 (3) The Minister shall consult the Public Service Commission before granting his approval under subsection (1) or before giving his consent under subsection (2)(c).
 
@@ -650,9 +622,7 @@ PROVISIONS RELATING TO STAFF
 
 ### Public servants
 
-19\. All members, officers and employees of the Authority and all members of the Pilotage Committee shall be deemed to be public servants for the purposes of the Penal Code.
-
-[Cap.224.]
+19\. All members, officers and employees of the Authority and all members of the Pilotage Committee shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
 ## PART V
 
@@ -672,7 +642,7 @@ FINANCIAL PROVISIONS
 
 (a) the remuneration, fees and allowances of the members of the Authority;
 
-(b) the salaries, fees, remuneration, pensions, super-annuation allowances and gratuities of the officers, agents, employees, advisers and former employees of the Authority;
+(b) the salaries, fees, remuneration, pensions, superannuation allowances and gratuities of the officers, agents, employees, advisers and former employees of the Authority;
 
 (c) working and establishment expenses and expenditure on, or provision for, the maintenance of any of the property of the Authority, and the discharge of the functions of the Authority properly chargeable to revenue account;
 
@@ -704,7 +674,7 @@ FINANCIAL PROVISIONS
 
 ### Bank accounts and application of revenue
 
-24\. The Authority shall open and maintain an account or accounts with such bank or banks as the Authority thinks fit; and every such account shall be operated upon as far as practicable by cheque signed by such person or persons as may from time to time be authorised in that behalf by the Authority.
+24\. The Authority shall open and maintain an account or accounts with such bank or banks as the Authority thinks fit; and every such account shall be operated upon as far as practicable by cheque signed by such person or persons as may, from time to time, be authorised in that behalf by the Authority.
 
 ### Investment
 
@@ -716,21 +686,21 @@ FINANCIAL PROVISIONS
 
 ### Rates, charges, dues, etc., payable to Authority
 
-27\.—(1) Subject to the provisions of this Act, the Authority may levy such rates, charges and fees as the Authority may, with the approval of the Minister and by notification in theGazette, from time to time prescribe for the use of services and facilities provided by the Authority.
+27\.—(1) Subject to the provisions of this Act, the Authority may levy such rates, charges and fees as the Authority may, with the approval of the Minister and by notification in theGazette, from time to time, prescribe for the use of services and facilities provided by the Authority.
 
 (2) The Authority may make such charges as it thinks fit for services or facilities provided or goods supplied by it in pursuance of the power conferred by this Act or any other written law in respect of which no rates, charges or fees have been prescribed under subsection (1).
 
 (3) The Authority may require any person to furnish such security as the Authority may think fit for the payment of any rates, charges, dues and fees payable under this Act or for any other purpose of this Act.
 
-(4) The Authority may determine the fees to be paid in respect of the issue or renewal of any licence or permit issued under this Act or the regulations
+(4) The Authority may determine the fees to be paid in respect of the issue or renewal of any licence or permit issued under this Act or the regulations.
 
 (5) The Authority may, if it thinks fit, remit or waive the whole or any part of any rates, charges, dues and fees paid or payable under this Act.
 
-(6) The owner, agent or master of every vessel which calls at the port of Singapore shall pay to the Authority or any person authorised by the Authority such maritime welfare fee as the Authority may, with the approval of the Minister and by notification in theGazette,from time to time prescribe.
+(6) The owner, agent or master of every vessel which calls at the port of Singapore shall pay to the Authority or any person authorised by the Authority such maritime welfare fee as the Authority may, with the approval of the Minister and by notification in theGazette, from time to time prescribe.
 
 (7) The owner, agent or master of every vessel which enters, leaves, uses or plies within the port or calls at Singapore shall pay to the Authority such port dues and pilotage dues as the Authority may, with the approval of the Minister and by notification in theGazette, from time to time prescribe.
 
-(8) The Authority may, with the approval of the Minister and by notification in theGazette,levy such goods dues as are prescribed on goods brought into or taken out of such private wharf or premises (by any means of transportation) as may be specified in the notification.
+(8) The Authority may, with the approval of the Minister and by notification in theGazette, levy such goods dues as are prescribed on goods brought into or taken out of such private wharf or premises (by any means of transportation) as may be specified in the notification.
 
 (9) Goods dues shall be paid by —
 
@@ -752,17 +722,17 @@ FINANCIAL PROVISIONS
 
 (c) any vessel or class of vessels which has or have been exempted from the operation of this section by the Minister.
 
-(13) The rates, charges, dues and fees applied by the Marine Department, the National Maritime Board or the Port of Singapore Authority immediately before the appointed day shall continue to be valid as though determined by the Authority under this section until rescinded, varied or otherwise determined by the Authority.
+(13) The rates, charges, dues and fees applied by the Marine Department, the National Maritime Board or the Port of Singapore Authority immediately before 2nd February 1996 shall continue to be valid as though determined by the Authority under this section until rescinded, varied or otherwise determined by the Authority.
 
-### Power entry into vessels
+### Power of entry into vessels
 
-28\.—(1) Any duly authorised officer of the Authority may enter into any vessel within the limits of the port or the approaches to the port in order to ascertain the amount of the rates, changes, dues and fees payable in respect of the vessel or on or in respect of any goods carried therein and to obtain any other information required for, or in connection with, the assessment and collection of the rates, charges, dues and fees.
+28\.—(1) Any duly authorised officer of the Authority may enter into any vessel within the limits of the port or the approaches to the port in order to ascertain the amount of the rates, charges, dues and fees payable in respect of the vessel or on or in respect of any goods carried therein and to obtain any other information required for, or in connection with, the assessment and collection of the rates, charges, dues and fees.
 
 (2) A master of a vessel who fails to comply with a reasonable request made by an authorised officer who has entered the vessel pursuant to subsection (1) for information or for the production of a document shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the master continues to fail to comply with the request.
 
 ### Power to distrain for non-payment of dues, rates, etc.
 
-29\.—(1) If the master or owner of any vessel in respect of which any rates, charges, dues, fees, damages or penalties or other sums are payable under this Act or the regulations refuses or neglects to pay the same or any part thereof on demand, the Authority may, in addition to any to her remedy which it may be entitled to use, distrain or arrest of its own authority the vessel and the bunkers, tackle, apparel or furniture belonging thereto or any part thereof, and detain the same until the amount so due is paid.
+29\.—(1) If the master or owner of any vessel in respect of which any rates, charges, dues, fees, damages or penalties or other sums are payable under this Act or the regulations refuses or neglects to pay the same or any part thereof on demand, the Authority may, in addition to any other remedy which it may be entitled to use, distrain or arrest of its own authority the vessel and the bunkers, tackle, apparel or furniture belonging thereto or any part thereof, and detain the same until the amount so due is paid.
 
 (2) If any part of such rates, charges, dues, fees, damages or penalties or other sums, or of the costs of the distraint or arrest, or of the keeping of the vessel, bunkers, tackle, apparel or furniture belonging thereto remains unpaid for 14 days, the Authority may cause the vessel and the bunkers, tackle, apparel or furniture so distrained or arrested to be sold or disposed of in such manner as it thinks fit and may recover, as a debt in any court of competent jurisdiction from the master or owner of the vessel, the expenses of such distraint, arrest, sale or disposal or attempted sale or disposal of the vessel and the bunkers, tackle, apparel or furniture so distrained or arrested.
 
@@ -774,9 +744,9 @@ FINANCIAL PROVISIONS
 
 TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
-### Transfers to Authority of property, assets and liabilities
+### Transfer to Authority of property, assets and liabilities
 
-30\.—(1) As from the appointed day, such property, rights and liabilities vested in the National Maritime Board, the Port of Singapore Authority and the Government relating to the Marine Department as may be determined by the Minister for Finance shall become, by virtue of this section and without further assurance, the property, rights and liabilities of the Authority.
+30\.—(1) As from 2nd February 1996, such property, rights and liabilities vested in the National Maritime Board, the Port of Singapore Authority and the Government relating to the Marine Department as may be determined by the Minister for Finance shall become, by virtue of this section and without further assurance, the property, rights and liabilities of the Authority.
 
 (2) If any question arises as to whether any particular property, right or liability has been transferred to or vested in the Authority under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, right or liability was or was not so transferred or vested.
 
@@ -784,7 +754,7 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer of employees
 
-31\.—(1) As from the appointed day, such persons employed immediately before that day in the Marine Department, the National Maritime Board and the Port of Singapore Authority as the Minister may determine shall be transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+31\.—(1) As from 2nd February 1996, such persons employed immediately before that date in the Marine Department, the National Maritime Board and the Port of Singapore Authority as the Minister may determine shall be transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) Until such time as terms and conditions of service are drawn up by the Authority, the scheme and terms and conditions of service in the Government, the National Maritime Board or the Port of Singapore Authority, as the case may be, shall continue to apply to every person transferred to the service of the Authority under subsection (1) as if he were still in the service of the Government, the National Maritime Board or the Port of Singapore Authority, as the case may be.
 
@@ -792,9 +762,7 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 32\.—(1) The terms and conditions to be drawn up by the Authority shall take into account the salaries and terms and conditions of service, including any accrued rights to leave, enjoyed by the persons transferred to the service of the Authority under section 31 while in the employment of the Government, the National Maritime Board or the Port of Singapore Authority, as the case may be, and any such term or condition relating to the length of service with the Authority shall provide for the recognition of service under the Government, the National Maritime Board or the Port of Singapore Authority, as the case may be, by the persons so transferred to be service by them under the Authority.
 
-(2) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act or the Port of Singapore Authority Act, as the case may be.
-
-[Cap.225 Cap.236]
+(2) Nothing in the terms and conditions to be drawn up by the Authority shall adversely affect the conditions that would have been applicable to persons transferred to the service of the Authority as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225) or the Port of Singapore Authority Act (Cap. 236), as the case may be.
 
 (3) In every case where a person has been transferred to the service of the Authority under section 31, his employer immediately before the date of such transfer shall be liable to pay to the Authority such portion of any gratuity, pension or allowance payable to such person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with such employer bears to the aggregate amount of his pensionable emoluments during his service under both the Authority and such employer.
 
@@ -802,11 +770,11 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 ### No benefits in respect of abolition or reorganisation of office
 
-33\. Notwithstanding the provisions of the Pensions Act, no person who is transferred to the service of the Authority under section 31 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government, the National Maritime Board or the Port of Singapore Authority, as the case may be, on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
+33\. Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Authority under section 31 shall be entitled to claim any benefit under the Pensions Act on the ground that he has been retired from the service of the Government, the National Maritime Board or the Port of Singapore Authority, as the case may be, on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Authority.
 
 ### Continuation and completion of disciplinary proceedings
 
-34\.—(1) Where on the appointed day any disciplinary proceedings were pending against any employee of the Government, the National Maritime Board or the Port of Singapore Authority transferred to the service of the Authority under section 31, the proceedings shall be carried on and completed by the Authority; but where on that day any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before the appointed day.
+34\.—(1) Where on 2nd February 1996 any disciplinary proceedings were pending against any employee of the Government, the National Maritime Board or the Port of Singapore Authority transferred to the service of the Authority under section 31, the proceedings shall be carried on and completed by the Authority; but where on 2nd February 1996 any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
 (2) Any order, ruling or direction made or given by a committee pursuant to this section shall be treated as an order, a ruling or a direction of the Authority and have the same force or effect as if it had been made or given by the Authority pursuant to the authority vested in the Authority under this Act.
 
@@ -816,13 +784,13 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Penalty to be served by employee
 
-36\. Where an employee of the Government, the National Maritime Board or the Port of Singapore Authority has been transferred to the service of the Authority under section 31, and on the appointed day any penalty (other than dismissal) has been imposed on the employee pursuant to disciplinary proceedings against him and the penalty has not been, or remains to be, served by the employee, he shall on his transfer to the service of the Authority, serve or continue to serve such penalty to its full term as if it had been imposed by the Authority and the penalty shall remain valid against the employee on his transfer and shall continue in full force and effect until he has served the penalty in full.
+36\. Where an employee of the Government, the National Maritime Board or the Port of Singapore Authority has been transferred to the service of the Authority under section 31, and on 2nd February 1996 any penalty (other than dismissal) has been imposed on the employee pursuant to disciplinary proceedings against him and the penalty has not been, or remains to be, served by the employee, he shall on his transfer to the service of the Authority, serve or continue to serve such penalty to its full term as if it had been imposed by the Authority and the penalty shall remain valid against the employee on his transfer and shall continue in full force and effect until he has served the penalty in full.
 
 ### Existing agreements and pending proceedings
 
-37\.—(1) All deeds, bonds, agreements, instruments and working arrangements subsisting immediately before the appointed day affecting the portion of the property, rights and liabilities transferred to the Authority under section 30(1) or affecting any employee transferred to the service of the Authority under section 31 shall continue in full force and effect on and after that day and shall be enforceable by or against the Authority as if instead of the Government, the National Maritime Board or the Port of Singapore Authority, as the case may be, or any person acting on its behalf, the Authority has been named therein or had been a party thereto.
+37\.—(1) All deeds, bonds, agreements, instruments and working arrangements subsisting immediately before 2nd February 1996 affecting the portion of the property, rights and liabilities transferred to the Authority under section 30(1) or affecting any employee transferred to the service of the Authority under section 31 shall continue in full force and effect on and after that date and shall be enforceable by or against the Authority as if instead of the Government, the National Maritime Board or the Port of Singapore Authority, as the case may be, or any person acting on its behalf, the Authority had been named therein or had been a party thereto.
 
-(2) Any proceedings or cause of action relating to the portion of the property, rights and liabilities transferred to the Authority under section 30(1) or to any employee transferred to the service of the Authority under section 31 pending or existing immediately before the appointed day by or against the Government, the National Maritime Board or the Port of Singapore Authority, as the case may be, or any person acting on its behalf, may be continued and shall be enforced by or against the Authority.
+(2) Any proceedings or cause of action relating to the portion of the property, rights and liabilities transferred to the Authority under section 30(1) or to any employee transferred to the service of the Authority under section 31 pending or existing immediately before 2nd February 1996 by or against the Government, the National Maritime Board or the Port of Singapore Authority, as the case may be, or any person acting on its behalf, may be continued and shall be enforced by or against the Authority.
 
 ## PART VII
 
@@ -836,7 +804,7 @@ EMPLOYMENT OF SEAMEN
 
 (3) No employer shall enter into arrangements with any seaman to transport him outside Singapore for the purpose of engagement in contravention of regulations made under section 40.
 
-(4) For the purpose of this Part, “employer” includes the shipowner, charterer or operator and the master of the vessel.
+(4) For the purpose of this Part, “employer” includes the shipowner, charterer or operator, the agent of the shipowner, charterer or operator and the master of the vessel.
 
 ### Penalty for employment of seamen in contravention of section 38 or of regulations made under section 40
 
@@ -854,7 +822,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 40\. The Authority may, with the approval of the Minister, make regulations for the purposes of this Part and, in particular, may make regulations for the following purposes:
 
-(a) to prescribe the age and other qualifications of applicants for registration as a seamen;
+(a) to prescribe the age and other qualifications of applicants for registration as seamen;
 
 (b) to prescribe the manner in which seamen may apply or be required to register;
 
@@ -862,7 +830,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) to prescribe the procedures for dealing with the discipline of seamen;
 
-(e) to prescribe the fee to be paid upon the issue of registration cards, and the fee for replacement of such cards, and the fee for replacement of such cards when lost, destroyed or otherwise rendered unserviceable;
+(e) to prescribe the fee to be paid upon the issue of registration cards, and the fee for replacement of such cards when lost, destroyed or otherwise rendered unserviceable;
 
 (f) to prescribe the conditions under which the Authority may cancel, suspend or alter the registration of seamen; and
 
@@ -872,9 +840,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 REGULATION OF PORT
 
-### Port regulation
+### Port regulations
 
-41\.—(1) The Authority may, with the approval of the Minister, make regulations for the control and management of the port and the approaches thereto and for the maintenance of good order therein and generally for the purposes of this Act and any other written law and, in particular, may, make regulations for or in respect of all or any of the following matters.
+41\.—(1) The Authority may, with the approval of the Minister, make regulations for the control and management of the port and the approaches thereto and for the maintenance of good order therein and generally for the purposes of this Act and any other written law and, in particular, may make regulations for or in respect of all or any of the following matters:
 
 (a) regulating traffic and preventing and removing obstruction or impediment to navigation within the limits of the port and the approaches thereto;
 
@@ -916,7 +884,7 @@ REGULATION OF PORT
 
 (t) prohibiting the embarkation and disembarkation of persons except at such places as may be authorised by the Authority for such purpose;
 
-(u) prohibiting the loading and discharging of goods other than, in the case of dutiable goods, at wharves, docks and places authorised in the Customs Act (Cap. 70) or the regulations made thereunder and, in the case of non-dutiable goods, at wharves, docks and places named in the Regulation of Imports and Exports Act 1995 (Act 24 of 1995) or any regulations made thereunder and at such other wharves, docks and places approved by the Authority;
+(u) prohibiting the loading and discharging of goods other than, in the case of dutiable goods, at wharves, docks and places authorised in the Customs Act (Cap. 70) or the regulations made thereunder and, in the case of non-dutiable goods, at wharves, docks and places named in the Regulation of Imports and Exports Act (Cap. 272A) or any regulations made thereunder and at such other wharves, docks and places approved by the Authority;
 
 (v) prohibiting the loading, handling or discharging of dangerous cargoes at wharves or docks where such loading, handling or discharging appears specially dangerous to the public.
 
@@ -942,7 +910,7 @@ in the event of some specified thing being done or omitted to be done after the 
 
 (4) Nothing in this section shall be taken to render void any provision in a policy of insurance requiring the person insured to repay to the insurer any sum which the insurer may have become liable to pay under the policy and which have been applied to the satisfaction of any claim in respect of any risk against which the policy of insurance was required to be taken out or maintained.
 
-(5) The Authority may, by order published in theGazette,prescribe the conditions, including a minimum limit of indemnity, of any policy of insurance which is required to be taken out or maintained under this Act or the regulations and the form and particulars to be stated in any certificate of insurance and different conditions, forms and particulars may be prescribed in relation to different cases or circumstances.
+(5) The Authority may, by order published in theGazette, prescribe the conditions, including a minimum limit of indemnity, of any policy of insurance which is required to be taken out or maintained under this Act or the regulations and the form and particulars to be stated in any certificate of insurance and different conditions, forms and particulars may be prescribed in relation to different cases or circumstances.
 
 ### Power of Port Master in relation to vessel
 
@@ -956,13 +924,13 @@ in the event of some specified thing being done or omitted to be done after the 
 
 (d) by notification in theGazette, declare the berths, locations, anchorages and fairways which may be used by vessels and the areas which are prohibited or restricted areas.
 
-### Owners, agent or master of vessel to report arrival or departure
+### Owner, agent or master of vessel to report arrival or departure
 
-44\.—(1) The Port Master may direct the owner, agent or master of any vessel intending to enter or leave the port to furnish, before entering or leaving the port, such information as the Port Master may require relating to vessel, its cargo and the estimated time of entering or leaving the port.
+44\.—(1) The Port Master may direct the owner, agent or master of any vessel intending to enter or leave the port to furnish, before entering or leaving the port, such information as the Port Master may require relating to the vessel, its cargo and the estimated time of entering or leaving the port.
 
 (2) The owner, agent or master of any vessel arriving in the port shall —
 
-(a) on arrival, report or cause to be reported by such means as the Port Master may form time to time direct, the arrival of the vessel;
+(a) on arrival, report or cause to be reported by such means as the Port Master may from time to time direct, the arrival of the vessel;
 
 (b) provide within such time and by such means to the Port Master —
 
@@ -992,7 +960,7 @@ in the event of some specified thing being done or omitted to be done after the 
 
 46\.—(1) No vessel, other than a vessel referred to in subsection (3), shall leave the port without the owner, agent or master obtaining port clearance from the Port Master.
 
-(2) The owner, agent or master of the vessel applying for port clearance for port clearance under subsection (1) shall —
+(2) The owner, agent or master of the vessel applying for port clearance under subsection (1) shall —
 
 (a) provide to the Port Master within such time and by such means as the Port Master may determine —
 
@@ -1020,7 +988,7 @@ in the event of some specified thing being done or omitted to be done after the 
 
 (5) No port clearance shall be granted to any vessel —
 
-(a) whose owner, agent or master has not complied with he Regulation of Imports and Exports Act 1995 (Act 24 of 1995), or any other written law relating to the import or export of goods into or from Singapore; or
+(a) whose owner, agent or master has not complied with the Regulation of Imports and Exports Act (Cap. 272A), or any other written law relating to the import or export of goods into or from Singapore; or
 
 (b) until the owner, agent or master of such vessel has declared to the Port Master the name of the country to which he claims that the vessel belongs, and if so required by the Port Master, has produced the certificate of registry of the vessel; and the Port Master shall thereupon inscribe that name on the port clearance.
 
@@ -1028,15 +996,15 @@ in the event of some specified thing being done or omitted to be done after the 
 
 (7) The Port Master may refuse to grant port clearance to any vessel whose owner or master has not complied with, or has been charged with an offence under, any of the provisions of this Act or any other written law.
 
-(8) The Port Master may refuse to grant port clearance to any vessel which has anchored in the submarine cable corridor unless the owner, agent or master of the vessel has deposited such sum of money or furnished such security as may be required by the Telecommunication Authority of Singapore in order to meet the costs of making good the damage, whether actual or estimated by the Telecommunication Authority of Singapore, to the submarine cable and it associated plant (referred to in this section as the submersible plant).
+(8) The Port Master may refuse to grant port clearance to any vessel which has anchored in the submarine cable corridor unless the owner, agent or master of the vessel has deposited such sum of money or furnished such security as may be required by a public telecommunication licensee in order to meet the costs of making good the damage, whether actual or estimated by a public telecommunication licensee, to the submarine cable and its associated plant (referred to in this section as the submersible plant).
 
-(9) Where the Telecommunication Authority of Singapore has reason to believe that the submersible plant has been damaged by a vessel, the Telecommunication Authority of Singapore may require the owner, agent or master of that vessel to carry out an inspection or survey of the submersible plant in such manner as it considers necessary.
+(9) Where a public telecommunication licensee has reason to believe that the submersible plant has been damaged by a vessel, the public telecommunication licensee may require the owner, agent or master of that vessel to carry out an inspection or survey of the submersible plant in such manner as it considers necessary.
 
 (10) The expenses of any inspection or survey of the submersible plant carried out under subsection (9) shall be paid by the owner, agent or master of the vessel.
 
 (11) For the purposes of this section, “submarine cable corridor” means the area designated by the Port Master as the submarine cable corridor.
 
-### Owner, agent or master of vessel not leaving within 48 hours after port clearance to return port clearance to Port master
+### Owner, agent or master of vessel not leaving within 48 hours after port clearance to return port clearance to Port Master
 
 47\.—(1) The owner, agent or master of any vessel which fails to leave the port within 48 hours, or such shorter period as may be specified by the Port Master, after obtaining port clearance shall, within 6 hours after the expiry of the 48 hours or such shorter period, return to the Port Master the port clearance certificate and, if so required, obtain fresh port clearance.
 
@@ -1056,9 +1024,9 @@ in the event of some specified thing being done or omitted to be done after the 
 
 ### Penalty for disobedience of direction
 
-50\.—(1) Any person who, without lawful excuse, refuses, neglects or fails to obey any direction lawfully given under this Part or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 for every day or part thereof during which he wilfully continues to disobey such direction.
+50\.—(1) Any person who, without lawful excuse, refuses, neglects or fails to obey any direction lawfully given under this Part or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which he wilfully continues to disobey such direction.
 
-(2) In case of any refusal or neglect or failure to comply with this Part or any regulations made thereunder, the Authority may, where any proceedings have been instituted against any person for such offence or not, do or cause to be done all such acts as are in its opinion reasonable or necessary for the purpose of carrying out such direction or complying with such direction, and may hire and employ such person as it considers proper and necessary for such purpose.
+(2) In case of any refusal or neglect or failure to comply with this Part or any regulations made thereunder, the Authority may, whether any proceedings have been instituted against any person for such offence or not, do or cause to be done all such acts as are in its opinion reasonable or necessary for the purpose of carrying out such direction or complying with such direction, and may hire and employ such person as it considers proper and necessary for such purpose.
 
 (3) All expenses incurred in doing such acts shall be paid and borne by the person or persons so offending.
 
@@ -1068,9 +1036,7 @@ in the event of some specified thing being done or omitted to be done after the 
 
 (2) If any dispute arises concerning such compensation, the amount and, if necessary, any question of liability shall be summarily ascertained and determined by a court of competent jurisdiction.
 
-(3) An appeal shall lie to the High Court from any decision of a Magistrate’s court or a District Court under this section, and the provisions of the Criminal Procedure Code shall apply, mutatis mutandis, to all such appeals.
-
-[Cap.68.]
+(3) An appeal shall lie to the High Court from any decision of a Magistrate’s Court or a District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, to all such appeals.
 
 ### Fire on board vessel
 
@@ -1122,7 +1088,7 @@ REMOVAL OF VESSEL AND AIRCRAFT SUNK AND OTHER OBSTRUCTION
 
 (a) take possession of and raise, remove or destroy the whole or any part of such vessel, aircraft or object;
 
-(b) light, mark or buoy such vessel, aircraft or object until the raising, removal or destruction thereof, and
+(b) light, mark or buoy such vessel, aircraft or object until the raising, removal or destruction thereof; and
 
 (c) sell, in such manner as it thinks fit, any such vessel, aircraft or object.
 
@@ -1142,7 +1108,7 @@ PILOTAGE
 
 ### Declaration of pilotage districts
 
-59\.—(1) The Authority may, from time to time, by notification in theGazette. declare any area in the port to be a pilotage district.
+59\.—(1) The Authority may, from time to time, by notification in theGazette, declare any area in the port to be a pilotage district.
 
 (2) Every such declaration shall define the limits of the pilotage district.
 
@@ -1160,7 +1126,7 @@ PILOTAGE
 
 ### Authorised pilot and berthing master
 
-62\.—(1) Subject to the provisions of this Act, the Authority may employ may employ such number of pilots as it considers necessary or expedient for the purpose of providing an adequate and efficient pilotage service.
+62\.—(1) Subject to the provisions of this Act, the Authority may employ such number of pilots as it considers necessary or expedient for the purpose of providing an adequate and efficient pilotage service.
 
 (2) Notwithstanding subsection (1) —
 
@@ -1186,7 +1152,7 @@ PILOTAGE
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-(3) For purposes of this section, a person employed under section 62(1) or authorised under section 62(2)(a) or (b) acting beyond the limits for which he is licensed or authorised to act or acting in contravention of any of the conditions imposed under section 62(2)(a) or (b) or 70 shall be deemed not to be an authorised pilot.
+(3) For the purposes of this section, a person employed under section 62(1) or authorised under section 62(2)(a) or (b) acting beyond the limits for which he is licensed or authorised to act or acting in contravention of any of the conditions imposed under section 62(2)(a) or (b) or 70 shall be deemed not to be an authorised pilot.
 
 (4) Any person may, without subjecting himself or his employer to any penalty, act as the pilot of a vessel entering or leaving any pilotage district, when such vessel is in distress or under circumstances making it necessary for the master to avail himself of the best assistance that can be found at the time.
 
@@ -1206,7 +1172,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) investigating and advising on such matters as may be referred to the Committee by the Authority; and
 
-(e) carrying out such other functions as are conferred on the Committee by this Act
+(e) carrying out such other functions as are conferred on the Committee by this Act.
 
 ### Constitution of Pilotage Committee
 
@@ -1224,15 +1190,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (5) If the chairman is absent from a meeting or any part thereof, such member, as the members of the Pilotage Committee present shall elect, shall preside in his place.
 
-(6) The chairman or member presiding at any meeting of the Pilotage Committee shall have a vote and in the case of an equality of votes, a second or casting vote.
+(6) The chairman or member presiding at any meeting of the Pilotage Committee shall have a vote and, in the case of an equality of votes, a second or casting vote.
 
 (7) Members of the Pilotage Committee may be paid, out of the funds of the Authority, such fees and allowances as the Authority may, from time to time, determine.
 
-(8) Subject to the provisions of this Act, the Authority may, from to time, make rules for the purpose of regulating the meetings and proceedings of the Pilotage Committee.
+(8) Subject to the provisions of this Act, the Authority may, from time to time, make rules for the purpose of regulating the meetings and proceedings of the Pilotage Committee.
 
 ### Examination for licence
 
-68\.—(1) The Pilotage Committee shall examine candidates for employment as authorised pilots and on being satisfied as to a candidate’s general fitness and competency, including a physical fitness, to act as an authorised pilot may, on behalf of the Authority, issue to him a licence to act as such, and such licence may contain such conditions as the Committee may think fit.
+68\.—(1) The Pilotage Committee shall examine candidates for employment as authorised pilots and on being satisfied as to a candidate’s general fitness and competency, including physical fitness, to act as an authorised pilot may, on behalf of the Authority, issue to him a licence to act as such, and such licence may contain such conditions as the Committee may think fit.
 
 (2) Every authorised pilot shall, whenever the Pilotage Committee considers that owing to changed conditions or for any other sufficient reason the further testing of the knowledge, efficiency or physical fitness of any such pilot is necessary, present himself for further examination, and shall in every such case first deposit with the Committee his licence issued by the Committee on behalf of the Authority to be returned or cancelled by the Committee on behalf of the Authority as the result of such test or examination.
 
@@ -1240,9 +1206,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Inquiries by Pilotage Committee
 
-69\.—(1) The pilotage Committee may, and when directed by the Authority shall, hold an inquiry into the conduct of an authorised pilot where it appears that he has been guilty of misconduct affecting his capability as a pilot or has failed in or neglected his duty as a pilot or has become incompetent to act as a pilot.
+69\.—(1) The Pilotage Committee may, and when directed by the Authority shall, hold an inquiry into the conduct of an authorised pilot where it appears that he has been guilty of misconduct affecting his capability as a pilot or has failed in or neglected his duty as a pilot or has become incompetent to act as a pilot.
 
-(2) For the purposes of such inquiry, the Pilotage Committee may summon any person to attend any meeting of the Committee may summon any person to attend any meeting of the Committee to give evidence on oath or produce any document or other thing in his possession and to examine him as a witness or require him to produce any document or other thing in his possession relating to the matters which are the subject matter of such inquiry.
+(2) For the purposes of such inquiry, the Pilotage Committee may summon any person to attend any meeting of the Committee to give evidence on oath or produce any document or other thing in his possession and to examine him as a witness or require him to produce any document or other thing in his possession relating to the matters which are the subject matter of such inquiry.
 
 (3) Any person who —
 
@@ -1256,7 +1222,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Submission of Pilotage Committee’s finding and recommendation to Authority
 
-70\.—(1) Where the Pilotage Committee, after due inquiry in accordance with the provisions of this Part and after hearing any statement that may be offered in defence, finds that an authorised pilot has been guilty of misconduct or in discipline affecting his capability or duties as a pilot or has failed in or neglected his duty as a pilot or has become incompetent to act as a pilot, the Committee shall submit to the Authority a copy of the record of the inquiry and its findings and recommendations in respect of the inquiry.
+70\.—(1) Where the Pilotage Committee, after due inquiry in accordance with the provisions of this Part and after hearing any statement that may be offered in defence, finds that an authorised pilot has been guilty of misconduct or indiscipline affecting his capability or duties as a pilot or has failed in or neglected his duty as a pilot or has become incompetent to act as a pilot, the Committee shall submit to the Authority a copy of the record of the inquiry and its findings and recommendations in respect of the inquiry.
 
 (2) The Authority may, after considering the findings and recommendations of the Pilotage Committee, suspend or cancel the licence of such authorised pilot or impose such other punishment as the Authority may think fit.
 
@@ -1276,9 +1242,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) Any bond given by an authorised pilot in accordance with this section shall not be liable to stamp duty.
 
-(4) Where any proceedings are taken against an authorised pilot for any neglect, want of skill or incapacity in office in respect of which his liability is limited as provided by this section, and other claims are made in respect of the same neglect , want of skill or incapacity in office, the court in which the proceedings are taken may —
+(4) Where any proceedings are taken against an authorised pilot for any neglect, want of skill or incapacity in office in respect of which his liability is limited as provided by this section, and other claims are made in respect of the same neglect, want of skill or incapacity in office, the court in which the proceedings are taken may —
 
-(a) determine the amount of the pilot’s liability and upon payment by him of that amount into court distribute the amount rateably among the several claimants;
+(a) determine the amount of the pilot’s liability and, upon payment by him of that amount into court, distribute the amount rateably among the several claimants;
 
 (b) stay any proceedings pending in any other court in relation to the same matter; and
 
@@ -1292,7 +1258,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) lends his licence;
 
-(c) act as pilot while suspended;
+(c) acts as pilot while suspended;
 
 (d) acts as pilot when in a state of intoxication;
 
@@ -1300,9 +1266,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (f) quits the vessel under his pilotage without the consent of the master, before the service for which he was engaged has been performed,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-(2) Any person who procures aids, abets or connives at the commission of any offence under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+(2) Any person who procures, aids, abets or connives at the commission of any offence under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 ### Pilotage Committee and Authority not liable for loss or damage caused by pilot
 
@@ -1338,7 +1304,7 @@ REGULATION AND CONTROL OF SEAWARD ACTIVITIES
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(4) This section shall not apply to any hydrographic or hydrologic survey or other study carried out for on behalf of the Government.
+(4) This section shall not apply to any hydrographic or hydrologic survey or other study carried out for or on behalf of the Government.
 
 ### Restriction of certain works and operations
 
@@ -1362,7 +1328,7 @@ REGULATION AND CONTROL OF SEAWARD ACTIVITIES
 
 (7) Nothing in this section shall be deemed to confer upon the Authority any power or right in respect of the foreshore not vested in the Authority.
 
-(8) Any person who –
+(8) Any person who —
 
 (a) carries out any operation in contravention of subsection (1); or
 
@@ -1370,7 +1336,7 @@ REGULATION AND CONTROL OF SEAWARD ACTIVITIES
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(9) Without prejudice to any proceedings under subsection (8), where any person has constructed, altered or improved any work or deposited any object or material on a river, waterway or the seashore in contravention of subsection (1) or has failed to comply with any condition subject to which any consent of the Authority has been given under this section, the Authority may serve a notice on that person requiring him to remove, within such period (not being less than 30 days) as may be specified in the notice, the object or material, as the case may be, or, if it appears to the Authority to do so, the Authority may itself remove or alter the work or remove the object or material.
+(9) Without prejudice to any proceedings under subsection (8), where any person has constructed, altered or improved any work or deposited any object or material on a river, waterway or the seashore in contravention of subsection (1) or has failed to comply with any condition subject to which any consent of the Authority has been given under this section, the Authority may serve a notice on that person requiring him to remove, within such period (not being less than 30 days) as may be specified in the notice, the object or material, as the case may be, or, if it appears to the Authority necessary to do so, the Authority may itself remove or alter the work or remove the object or material.
 
 (10) If within the period specified in any notice under subsection (9) the person upon whom the notice is served fails to comply therewith, the Authority may remove or alter the work or remove the object or material as specified in the notice.
 
@@ -1414,9 +1380,9 @@ unless he is authorised to do so by a public licence or an exemption granted by 
 
 (2) Every public licence granted under this section shall be in such form and for such period and may contain such conditions as the Authority may determine.
 
-(3) The Authority may, with the consent of, or in accordance with the terms of a general authority given by the Minister, grant a public licence either unconditionally or subject to such conditions as the Authority may impose and specify in the licence and either irrevocably or subject to revocation as therein specified, authorising any person to provide any marine service or facility or port service or facility.
+(3) The Authority may, with the consent of, or in accordance with the terms of a general authority given by the Minister, grant a public licence either unconditionally or subject to such conditions as the Authority may impose and specify in the licence and either irrevocably or subject to revocation as therein specified, authorising any person to provide any marine service or facility or any port service or facility.
 
-(4) Without prejudice to the generality of subsection (3), a public licence may be granted either to any person, class of persons or a particular person, and may include conditions requiring the public licensee –
+(4) Without prejudice to the generality of subsection (3), a public licence may be granted either to any person, class of persons or a particular person, and may include conditions requiring the public licensee —
 
 (a) to enter into agreements or arrangements with any other person, class of persons or another public licensee for —
 
@@ -1506,7 +1472,7 @@ and, in either event, it shall thereupon issue a direction in writing to such pu
 
 the Authority may, by notice in writing and without any compensation, do either or both of the following:
 
-(i) cancel its public licence or suspend its licence for such period as the Authority thinks fit; or
+(i) cancel its public licence or suspend its licence for such period as the Authority thinks fit;
 
 (ii) require the payment of a fine in such amount as the Authority thinks fit.
 
@@ -1528,7 +1494,7 @@ the Authority may, by notice in writing and without any compensation, do either 
 
 ## PART XIII
 
-CONTROL OF REVEVANT PUBLIC LICENSEES
+CONTROL OF RELEVANT PUBLIC LICENSEES
 
 ### Meaning and effect of special administration order
 
@@ -1550,15 +1516,15 @@ CONTROL OF REVEVANT PUBLIC LICENSEES
 
 (3) The Minister may make regulations for giving effect to this Part, including making provision for applying, omitting or modifying provisions of Part VIIIA of the Companies Act (Cap. 50) where a special administration order is made.
 
-(4) For the purposes of this part, “relevant public licensee” means any public licensee authorised to provide any port service or facility relating to container terminal service or facility.
+(4) For the purposes of this Part, “relevant public licensee” means any public licensee authorised to provide any port service or facility relating to container terminal service or facility.
 
 ### Special administration order made on application by Authority
 
-88\.—(1) If, on application made to the Minister by the Authority, the Minister is satisfied in relation to any company which is a relevant public licensee that any one or more of the grounds specified in subsection (2) is satisfied in relation to that company, the Minister may make any one or more of the following orders:
+88\.—(1) If, on an application made to the Minister by the Authority, the Minister is satisfied in relation to any company which is a relevant public licensee that any one or more of the grounds specified in subsection (2) is satisfied in relation to that company, the Minister may make any one or more of the following orders:
 
 (a) a special administration order in relation to that company;
 
-(b) an order requiring the company forthwith to take any action or to do any act or thing in relation to its business as the Minister may consider necessary;
+(b) an order requiring the company forthwith to take any action or to do or not to do any act or thing in relation to its business as the Minister may consider necessary;
 
 (c) an order appointing a person to advise the company in the proper conduct of its business.
 
@@ -1572,7 +1538,7 @@ CONTROL OF REVEVANT PUBLIC LICENSEES
 
 (3) Notice of any application under subsection (1) shall be given forthwith by the Authority to such persons and in such manner as may be prescribed.
 
-(4) Where a company is a relevant public licensee –
+(4) Where a company is a relevant public licensee —
 
 (a) the company shall not be wound up voluntarily without the consent of the Authority;
 
@@ -1584,7 +1550,7 @@ CONTROL OF REVEVANT PUBLIC LICENSEES
 
 (6) Any decision of the Minister under subsection (1) shall be final.
 
-(7) For the purposes of this section, a company is unable to pay its debts if it is a company which is deemed to be so unable under section 254(2) of the Companies Act.
+(7) For the purposes of this section, a company is unable to pay its debts if it is a company which is deemed to be so unable under section 254(2) of the Companies Act (Cap. 50).
 
 ### Remuneration and expenses of Authority and others
 
@@ -1606,11 +1572,11 @@ LIABILITY OF AUTHORITY
 
 (2) For the purposes of this section —
 
-(a) the amount to be taken in the currency of Singapore as equivalent to 1,000 gold francs shall be as published in theGazetteunder section 136(3) of the Merchant Shipping Act 1995 (Act 19 of 1995); and
+(a) the amount to be taken in the currency of Singapore as equivalent to 1,000 gold francs shall be as published in theGazetteunder section 136(3) of the Merchant Shipping Act (Cap. 179); and
 
 (b) the tonnage of any vessel shall be ascertained as provided by section 136(2) of that Act, and the register of any vessel shall be sufficient evidence that the gross tonnage and the deduction therefrom and the registered tonnage are as therein stated.
 
-(3) This section shall be without prejudice to any limitation of liability for loss or damage which may be available to the Authority under section 136 of the Merchant Shipping Act 1995.
+(3) This section shall be without prejudice to any limitation of liability for loss or damage which may be available to the Authority under section 136 of the Merchant Shipping Act (Cap. 179).
 
 ## PART XV
 
@@ -1646,7 +1612,7 @@ OFFENCES
 
 (b) wilfully and without lawful excuse lifts, injures, makes a vessel fast to, loosens or sets adrift any moorings, buoys, beacons or sea or land marks;
 
-(c) without any lawful excuse discharges any gun in the port except for the purpose of marking a signal of distress or for such other purpose as is allowed under any written law;
+(c) without any lawful excuse discharges any gun in the port except for the purpose of making a signal of distress or for such other purpose as is allowed under any written law;
 
 (d) graves, breams or smokes any vessel in the port, or boils or heats any pitch, tar, resin, dammar, turpentine oil or other such combustible matter on board any vessel within the port, at any time or within any limits at or within which such act is prohibited by any order of the Minister, or contrary to the orders or directions of the Port Master or the master of such vessel;
 
@@ -1660,7 +1626,7 @@ OFFENCES
 
 (A) exceed the number of passengers allowed by the vessel’s safety certificate to be carried or received on the vessel; and
 
-(B) submerge the appropriate sub-division load line on each side of the vessel when the vessel has no list, that is to say, the subdivision load line appropriate to the space for the time being allotted to passengers on the vessel, is lower than the load line indicating the maximum depth to which the vessel is for the time being entitled under any written law to be loaded when the vessel has no list;
+(B) submerge the appropriate subdivision load line on each side of the vessel when the vessel has no list, that is to say, the subdivision load line appropriate to the space for the time being allotted to passengers on the vessel, is lower than the load line indicating the maximum depth to which the vessel is for the time being entitled under any written law to be loaded when the vessel has no list;
 
 (iii) in contravention of the regulations thereby endangering the life of any person,
 
@@ -1678,7 +1644,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### General penalties
 
-99\. Any person guilty of an offence under this act or the regulations for which no penalty is expressly provided shall, in addition to the forfeiture of any article seized, be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+99\. Any person guilty of an offence under this Act or the regulations for which no penalty is expressly provided shall, in addition to the forfeiture of any article seized, be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 ### Offences by bodies of persons
 
@@ -1686,15 +1652,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Jurisdiction of Courts
 
-101\. A Magistrate’s Court or a District Court shall have jurisdiction to hear and determine all offences under this Act or the regulations and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68.), shall have power to impose the full penalty or punishment in respect of any offence under this Act or the regulations.
+101\. A Magistrate’s Court or a District Court shall have jurisdiction to hear and determine all offences under this Act or the regulations and, notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68), shall have power to impose the full penalty or punishment in respect of any offence under this Act or the regulations.
 
-### Power to compound
+### Composition of offences
 
 102\.—(1) Any police officer not below the rank of sergeant specially authorised by name in that behalf by the Minister, or any employee of the Authority specially authorised by name in that behalf by the Chief Executive, may in his discretion compound any such offence under this Act or the regulations as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
 
 (2) The Authority may, with the approval of the Minister, make regulations prescribing the offences which may be compounded.
 
-### Fines to be paid to the Authority
+### Fines to be paid to Authority
 
 103\. All fines imposed for any offence under this Act or the regulations and all sums collected under section 102 shall be paid into the funds of the Authority.
 
@@ -1738,7 +1704,7 @@ MISCELLANEOUS PROVISIONS
 
 ### Exemption from distress and attachment of property of Authority
 
-108\. When any apparatus, fixture or fitting belonging to the Authority is placed in or upon any premises not being in the possession of the Authority for the purposes of carrying out the functions of the Authority, such apparatus, fixture or fitting shall not be subject to distress or be taken in execution under process of any court or any proceedings in bankruptcy against the person in whose possession it is.
+108\. When any apparatus, fixture or fitting belonging to the Authority is placed in or upon any premises not being in the possession of the Authority for the purposes of carrying out the functions of the Authority, such apparatus, fixture or fitting shall not be subject to distress nor be taken in execution under process of any court or any proceedings in bankruptcy against the person in whose possession it is.
 
 ### Authority to provide free landing places
 
@@ -1756,7 +1722,7 @@ shall be approved under that Act without previous reference to, and the concurre
 
 (2) The Authority may determine the fee to be paid for the perusal of the plans and specifications.
 
-(3) Where the Authority omits or refuses to give its concurrence to the plans and specifications referred to in subsection (1), the Building Authority appointed under section 3 of the Building control Act (Cap. 29) may refer the matter to the Minister whose decision shall be final.
+(3) Where the Authority omits or refuses to give its concurrence to the plans and specifications referred to in subsection (1), the Building Authority appointed under section 3 of the Building Control Act (Cap. 29) may refer the matter to the Minister whose decision shall be final.
 
 ### Notices, orders, receipts, etc., may be given by authorised officer
 
@@ -1794,7 +1760,7 @@ shall be approved under that Act without previous reference to, and the concurre
 
 (3) If any dispute arises touching the amount or apportionment of such compensation, the same shall be determined in the manner provided by section 116.
 
-(4) Before the Authority makes any such temporary use under subsection (1) of the land adjoining or lying near to the works, the Authority shall give 7 days’ notice in writing of its intention to the owners and occupiers of such land and shall set apart by sufficient fences so much of the land as is required to be so used from the other land adjoining thereto.
+(4) Before the Authority makes any such temporary use under subsection (1) of the land adjoining or lying near to the works, the Authority shall give 7 days’ notice in writing of its intention to the owners and the occupiers of such land and shall set apart by sufficient fences so much of the land as is required to be so used from the other land adjoining thereto.
 
 ### Employee of Authority may require evidence of identity in certain cases
 
@@ -1804,15 +1770,15 @@ shall be approved under that Act without previous reference to, and the concurre
 
 ### Compensation, damages and costs to be determined by District Court
 
-116\.—(1) Except as otherwise provided in this Act, in all cases where damages, expenses, the cost of making good or other costs are by this Act directed to be paid, the amount and, if necessary, the apportionment of the same and any question of liability shall, in the case of dispute, be summarily ascertained and determined by a District Court.
+116\.—(1) Except as otherwise provided in this Act, in all cases where damages, expenses, the cost of making good or other costs are by this Act directed to be paid, the amount and, if necessary, the apportionment of the same and any question of liability shall, in case of dispute, be summarily ascertained and determined by a District Court.
 
 (2) If the amount of damages, expenses, the cost of making good or other costs is not paid by the party liable to pay the same within 7 days after demand, that amount may be reported to the District Court and recovered in the same way as if it were a fine imposed by the District Court.
 
-(3) An appeal shall lie to the High Court from any decision of a District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, mutatis mutandis, to such appeal.
+(3) An appeal shall lie to the High Court from any decision of a District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, to such appeal.
 
 ### Disposal of matters and things removed by Authority
 
-117\.—(1) Any matter or thing removed by the Authority in executing any work which is entitled to execute under this Act or the regulations shall, except as otherwise provided, be the property of the Authority and may be sold by public auction or, if the Authority thinks the circumstances of the case require, may be sold otherwise or be disposed of without sale.
+117\.—(1) Any matter or thing removed by the Authority in executing any work which it is entitled to execute under this Act or the regulations shall, except as otherwise provided, be the property of the Authority and may be sold by public auction or, if the Authority thinks the circumstances of the case require, may be sold otherwise or be disposed of without sale.
 
 (2) The moneys arising from the sale may be retained by the Authority and applied in or towards the expenses incurred and the surplus, if any, shall be paid on demand to the owner of that matter or thing.
 
@@ -1830,21 +1796,15 @@ shall be approved under that Act without previous reference to, and the concurre
 
 119\. The Authority may, with the approval of the Minister, make regulations for carrying out the purposes and provisions of this Act.
 
-### Repeal
-
-120\. The National Maritime Board Act (Cap.198.) is repealed.
-
 ### Transitional provisions
 
-121\.—(1) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved under the repealed provisions of the Port of Singapore Authority Act or the repealed National Maritime Board Act shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Authority under the corresponding provisions of this Act.
+120\.—(1) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved under the repealed provisions of the Port of Singapore Authority Act (Cap. 236) or the repealed National Maritime Board Act (Cap. 198, 1985 Ed.) shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Authority under the corresponding provisions of this Act.
 
-(2) Any subsidiary legislation made under the repealed provisions of the Port of Singapore Authority Act (Cap. 236.) or the repealed National Maritime Board Act (Cap. 198.) and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
+(2) Any subsidiary legislation made under the repealed provisions of the Port of Singapore Authority Act or the repealed National Maritime Board Act and in force immediately before 2nd February 1996 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
 
-(3) Any seaman who immediately before the appointed day was registered under the provisions of the repealed National Maritime Board Act shall be deemed to be registered under this Act.
+(3) Any seaman who immediately before 2nd February 1996 was registered under the provisions of the repealed National Maritime Board Act shall be deemed to be registered under this Act.
 
-(4) The enactments mentioned in the Fourth Schedule shall have effect subject to the amendments to the extent therein specified (being minor amendments consequential on the preceding provisions of this Act).
-
-(5) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
+(4) The Minister may, by order published in theGazette, repeal or amend any written law which appears to him to be unnecessary having regard to the provisions of this Act or to be inconsistent with any provision of this Act.
 
 FIRST SCHEDULE
 
@@ -1884,11 +1844,11 @@ Vacation of office
 
 7. The office of a member shall become vacant —
 
-(a) on his death;
+(a) on the death of the member;
 
-(b) if he, without sufficient cause (the sufficiency thereof to be decided by the Authority) fails to attend 3 consecutive meetings of the Authority; or
+(b) if the member, without sufficient cause (the sufficiency thereof to be decided by the Authority) fails to attend 3 consecutive meetings of the Authority; or
 
-(c) if he becomes in any manner disqualified from membership of the Authority.
+(c) if the member becomes in any manner disqualified from membership of the Authority.
 
 Filling of vacancies
 
@@ -1922,7 +1882,7 @@ Meetings
 
 (4) The Chairman or in his absence the Deputy Chairman shall preside at meetings of the Authority.
 
-(5) Where both the Chairman and the Deputy Chairman are absent at a meeting, such members as the Chairman appoints as an acting Chairman shall preside at that meeting.
+(5) Where both the Chairman and the Deputy Chairman are absent at a meeting, such member as the Chairman appoints as an acting Chairman shall preside at that meeting.
 
 Vacancies
 
@@ -1930,7 +1890,7 @@ Vacancies
 
 Procedure at meetings
 
-14\. Subject to the provisions of this Act, the Authority may make rules to regulate its own procedure generally, and in particular, regarding the holding and proceedings of the meetings, the notice to be given of such matters, the keeping of minutes and the custody, production and inspection of such minutes.
+14\. Subject to the provisions of this Act, the Authority may make rules to regulate its own procedure generally and, in particular, regarding the holding and proceedings of meetings, the notice to be given of such meetings, the keeping of minutes and the custody, production and inspection of such minutes.
 
 Validity of proceedings
 
@@ -1960,7 +1920,7 @@ Powers of Authority
 
 9\. To provide accommodation and recreational facilities for persons employed by the Authority and members of the mercantile marine as the Authority may consider necessary.
 
-10\. To promote the welfare of the members of the mercantile marine.
+10\. To promote the welfare of members of the mercantile marine.
 
 11. To form or participate —
 
@@ -1972,7 +1932,7 @@ Powers of Authority
 
 12\. To grant or guarantee loans to officers or employees of the Authority for such purposes specifically approved by the Authority as are likely to increase the efficiency of officers or employees or otherwise for the purpose of the functions of the Authority.
 
-13\. To make provision for gratuities, pensions allowances or other benefits for employees or former employees of the Authority or its predecessors.
+13\. To make provision for gratuities, pensions, allowances or other benefits for employees or former employees of the Authority or its predecessors.
 
 14\. To offer bursaries and scholarships for study at any school or institution of higher learning to members of the public and officers or employees of the Authority and members of their families.
 
@@ -1988,7 +1948,7 @@ Section 26
 
 Financial Provisions
 
-1\. The financial year of the Authority shall begin on 1st January of each year and end on 31st December of the same year, except that the first financial year of the Authority shall begin on the appointed day and end on 31st December 1996.
+1\. The financial year of the Authority shall begin on 1st January of each year and end on 31st December of the same year.
 
 2\. The Authority shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its money are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Authority and over the expenditure incurred by the Authority.
 
@@ -1998,7 +1958,7 @@ Financial Provisions
 
 5\. The remuneration of the auditor shall be paid out of the funds of the Authority.
 
-6\. The Authority shall, as soon as practicable after the close of the financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report to them.
+6\. The Authority shall, as soon as practicable after the close of the financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
 
 7. The auditor shall in his report state —
 
@@ -2012,7 +1972,7 @@ Financial Provisions
 
 8\. The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Authority, and shall also submit such periodical and special reports to the Authority as may appear to him to be necessary or as the Minister or the Authority may require.
 
-9\. the auditor or any person authorised by him is entitled at any reasonable time to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Authority.
+9\. The auditor or any person authorised by him is entitled at any reasonable time to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Authority.
 
 10\. The auditor or a person authorised by him may make copies of or make extracts from any such accounting and other records.
 
@@ -2024,442 +1984,22 @@ Financial Provisions
 
 14\. Where the Auditor-General is not appointed as the auditor, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Authority.
 
-15\. The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to parliament.
+15\. The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
-FOURTH SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 121(4)
+Maritime and Port Authority of Singapore Act
 
-Consequential Amendments
+(CHAPTER 170A)
 
-First column
+This Legislative History is provided for the convenience of users of the Maritime and Port Authority of Singapore Act. It is not part of this Act.
 
-Second column
-
-(1) Animals and birds Act (Chapter 7)
-
-Section 2
-
-(i) Delete the words “Port of Singapore Authority” in the definition of “port” and substitute the words “Maritime and Port of Authority of Singapore Act 1996”.
-
-(ii) Delete the marginal reference “Cap. 236.”.
-
-(2) Arms and Explosives Act (Chapter 13)
-
-(a) Section 2(1)
-
-(i) Delete the words “Port of Singapore Authority Act” in the definition of “Port Master” and substitute the words “Maritime and Port Authority of Singapore Act 1996”.
-
-(ii) Delete the marginal reference “Cap. 236.”.
-
-(b) Section 35
-
-Delete the words “Port of Singapore Authority” and substitute the words “Maritime and Port Authority of Singapore”.
-
-(3) Central Provident Fund Act (Chapter 36)
-
-(a) First Schedule, Paragraph 6
-
-(i) Insert immediately after item (14), the following item:
-
-“
-
-(14A) Maritime and Port Authority of Singapore.
-
-”.
-
-(ii) Delete item (21).
-
-(b) Third Schedule
-
-Insert, immediately after item 15, the following item:
-
-“
-
-15A. Maritime and Port Authority of Singapore Act 1996
-
-”.
-
-(4) Evidence Act (Chapter 97)
-
-The Schedule
-
-Insert, immediately after item 9, the following item:
-
-"9A Maritime and Port Authority of Singapore
-
-Maritime and port Authority of Singapore Act 1996.".
-
-(5) Foreshores Act (Chapter 113)
-
-Section 2
-
-(i) Delete the words “Port of Singapore Authority Act” in the definition of “port” and substitute the words “Maritime and Port Authority of Singapore Act 1996”.
-
-(ii) Delete the marginal reference “Cap.236.”.
-
-(6) Goods and services Tax Act
-
-
-
-
-(Chapter 117A)
-
-Section 21(4)
-
-(i) Delete the words "Port of Singapore Authority Act" in the definition of "ship" in paragraph(a) and substitute the words "Maritime and Port Authority of Singapore Act 1996".
-
-(ii) Delete the marginal reference "Cap. 236.".
-
-(7) High Court (Admiralty Jurisdiction) Act
-
-
-
-
-(Chapter 123)
-
-Section 5(7)
-
-(i) Delete the words “section 66(1) of the Port of Singapore Authority Act” in the definition of “collision regulations” and substitute the words “section 41(1) of the Maritime and Port Authority of Singapore Act 1996”.
-
-(ii) Delete the marginal reference “Cap. 236.”.
-
-(iii) Delete the words “Port of Singapore Authority Act” in the definition of “port of Singapore” and substitute the words “Maritime and Port Authority of Singapore Act 1996”.
-
-(8) Hotels Act (Chapter 127)
-
-Section 12(b)
-
-(i) Delete the words “National Maritime Board Act” and substitute the words “Maritime and Port Authority of Singapore Act 1996”.
-
-(ii) Delete the marginal reference “Cap.198.”.
-
-(9) Income Tax Act (Chapter 134)
-
-First Schedule, Paragraph A
-
-(i) Insert, immediately after item 24, the following item:
-
-“
-
-24A. Maritime and Port Autority of Singapore
-
-”.
-
-(ii) Delete item 34.
-
-(10) Infectious Diseases Act (chapter 137)
-
-Section 2
-
-(i) Delete the words “Port of Singapore Authority Act” in the definition of “port” and substitute the words “Maritime and Port Authority of Singapore Act 1996”.
-
-(ii) Delete the words “Port of Singapore Authority” in the definition of “quarantine anchorage” and substitute the words “Maritime and Port Authority of Singapore”.
-
-(iii) Delete the marginal reference “Cap. 236.” in the definition of “port”.
-
-(11) Merchant Shipping Act 1995
-
-
-
-
-(Act 19 of 1995)
-
-(a) Section 2(1)
-
-(i) Delete the definition of “Authority” and substitute the following definition:
-
-“
-
-“Authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act 1996;
-
-”.
-
-(ii) Delete the words “Port of Singapore Authority Act” in the definition of “harbour craft” and substitute the words “Maritime and Port Authority of Singapore Act 1996”.
-
-(iii) Delete the marginal reference “Cap. 236.” In the definition of “harbour craft”.
-
-(iv) Delete the words “Port of Singapore Authority Act” in the definition of “Port Master” and substitute the words “Maritime and Port Authority of Singapore Act 1996”.
-
-(v) Delete the marginal reference “Cap. 236.” In the definition of “Port Master”.
-
-(b) —
-
-Delete the word “Government” wherever it appears in the following provisions and substitute in each case the word “Authority”:
-
-Sections 202(1), (2), (3) and (4) and 203(3).
-
-(c) —
-
-Delete the word “Minister” wherever it appears in the following provisions and substitute in each case the word “Authority”:
-
-Section 4(1) and (2), 43(1) and (2) (and the marginal note), 51(2), 214 and 216(2)(f).
-
-(d) —
-
-Delete the word “Minister” wherever it appears in the following provisions and substitute in each case the words “Authority, with the approval of the Minister”:
-
-Sections 8(1), 44(2) and (3), 45(1) and (2), 47(1), 54(1) and (2), 58, 70(1), 73(1), 80(1), 81(2), 85(3), 87(1), 89(2), 90, 91(1), 96(2), 97, 100(1), (2) and (3), 116(1) and (2), 121(1), 213(1) and 216(1) and (2).
-
-(e) Section 100
-
-Delete the word “Minister” in the marginal note and substitute the word “Authority”.
-
-(f) Section 213(5)
-
-(i) Delete subsection (5) and substitute the following subsection:
-
-“
-
-(5) All moneys recovered or received under this Act shall be paid to the Authority except that the annual tonnage tax paid under section 14(2) shall be paid into the Consolidated Fund.
-
-”.
-
-(ii) Delete the word “Minister” in the marginal note and substitute the word “Authority”.
-
-(12) Merchant Shipping (Oil Pollution) Act
-
-
-
-
-(Chapter 180)
-
-(a) Section 2(1)
-
-(i) Delete the definition of “Authority” and substitute the following definition:
-
-“
-
-“Authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act 1996;
-
-”.
-
-(ii) Delete the definition of “port” and substitute the following definition:
-
-“
-
-“port” has the same meaning as in the Maritime and Port Authority of Singapore Act 1996;
-
-”.
-
-(b) —
-
-Delete the words “Minister may” wherever they appear in sections 13(4) and 14(3) and substitute in each case the words “Authority may, with the approval of the Minister,”.
-
-(c) Section 13(5)
-
-Delete the words “of the Marine Department or” in the third and fourth lines.
-
-(d) Section 20(1)
-
-Delete the words “the Authority or” in the first and fifth lines.
-
-(e) Section 26
-
-Delete the words “the Marine Department or” in the second and third lines.
-
-(13) Port of Singapore Authority Act
-
-
-
-
-(Chapter 236)
-
-(a) Section 2
-
-(i) Delete the definitions of “beacon”, “buoy”, “dues”, “harbour craft”, “lighthouse”, “Pilotage Committee”, “pilotage district”, “port dues” and “Port Master”.
-
-(ii) Insert, immediately after the definition of “container”, the following definition:
-
-“
-
-“dangerous cargoes” has the same meaning as in the Maritime and Port Authority of Singapore Act 1996;
-
-”.
-
-(iii) Delete the definition of “port” and substitute the following definition:
-
-“
-
-“port” has the same meaning as in the Maritime and Port Authority of Singapore Act 1996;
-
-”.
-
-(b) Section 9
-
-Delete paragraphs (b), (d) and (e).
-
-(c) Section 58(1)
-
-Delete subsection (1) and substitute the following subsection:
-
-“
-
-(1) subject to the provisions of this Act, the Authority may levy such rates as the Authority may, with the approval of the Minister and by notification in theGazette, from time to time prescribe for the use of premises, works or appliances belonging to the Authority and for services or facilities provided by the Authority.
-
-”.
-
-(d) Section 61
-
-Delete the words “dues or”.
-
-(e) —
-
-Delete the word “dues,” wherever it appears in section 64 (and the marginal note) and 65.
-
-(f) Section 66
-
-(i) Delete paragraphs (a), (b), (f), (h), (i), (k), (l), (m), (q), (r), (s), (v), (w), (y) and (z) of subsection (1).
-
-(ii) Delete the words “and the waters of the port and the approaches to port” in paragraph (p) of subsection (1).
-
-(iii) Delete paragraph (a), (b), (c) and (i) of subsection (2).
-
-(iv) Delete subsection (3).
-
-(g) Section 77
-
-(i) Delete the words “The Port Master or his authorised representation or any officer” in subsection (1) and substitute the words “Any officer”.
-
-(ii) Delete the words “the Port Master or his authorised representative or” in subsection (2).
-
-(h) Section 86(2)
-
-Delete the words “section 91” and substitute the words “section 68 of the Maritime and Port Authority of Singapore Act 1996”.
-
-(i) Section 96
-
-(i) Delete subsection (1).
-
-(ii) Delete the words “Pilotage Committee and” in the marginal note.
-
-(j) Section 99
-
-Repeal the section and substitute the following section:
-
-“
-
-Limitation of Authority’s liability for loss or damage to or damage to or on board any vessel
-
-99.—(1) The Authority shall not, where without its actual fault or privity, any loss, damage or destruction is caused to any vessel or to any goods or other thing whatsoever on board any vessel, be liable to damages beyond an aggregate amount not exceeding in the currency of Singapore the equivalent of 1,000 gold francs for each tonne of the vessel’s tonnage.
-
-(2) For the purposes of this section —
-
-(a) the amount to be taken in the currency of Singapore as equivalent to 1,000 gold francs shall be as published in theGazetteunder section 136(3) of the Merchant Shipping Act 1995 (Act 19 of 1995); and
-
-(b) the tonnage of any vessel shall be ascertained as provided by section 136(2) of that Act, and the register of any vessel shall be sufficient evidence that the gross tonnage and the deduction therefrom and the registered tonnage are as therein stated.
-
-(3) This section shall be without prejudice to any limitation of liability for loss or damage which may be available to the Authority under section 136 of the Merchant Shipping Act 1995 (Act 19 of 1995.).
-
-”.
-
-(k) Section 120
-
-(i) Delete the words “dues or” wherever they appear therein.
-
-(ii) Delete the words “dues and” in the marginal note.
-
-(l) —
-
-Repeal sections 3, 30, 53, 54, 55, 56, 57, 67, 68, 69, 70, 71, 72, 73, 75, 76, 79, 81, 82, 83, 84, 85, 87, 88, 89, 90, 91, 92, 93, 94, 95, 97, 98, 100, 107, 112, 113, 114, 116, 117, 118, 119, 127 and 138.
-
-(14) Prevention of Pollution of the Sea Act
-
-
-
-
-(Chapter 243)
-
-(a) Section 2(1)
-
-(i) Delete the definition of “appointed authority” and substitute the following definitions:
-
-“
-
-“appointed authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act 1996 and any person appointed by the Minister for the purposes of this Act or any regulations made thereunder;
-
-“Authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act 1996;
-
-”.
-
-(ii) Delete the definition of “port” and substitute the following definition:
-
-“
-
-“port” has the same meaning as in the Maritime and Port Authority of Singapore Act 1996;
-
-”.
-
-(iii) Delete the definition of “Port Master” and substitute the following definition:
-
-“
-
-“Port Master” means the Port Master appointed under section 15 of the Maritime and Port Authority of Singapore Act 1996 and includes any Deputy Port Master appointed under that section;
-
-”.
-
-(iv) Delete the definition of “Port of Singapore Authority”.
-
-(b) Section 4(5)
-
-Delete the words “Port of Singapore Authority” and substitute the word “Authority”.
-
-(c) —
-
-Delete the words “Minister may” wherever they appear in the following provisions and substitute in each case the words “Authority may, with the approval of the Minister,”:
-
-Sections 6(5), 7(4), 10(4), 11(8), 12(1) and (2), 13(1) and (2) and 34(1) and (2).
-
-(d) —
-
-Delete the words “Port of Singapore Authority” in sections 11 and 23(3) and substitute in each case the word “Authority”.
-
-(e) Section 34
-
-(i) Delete the word “him” in subsection (1) and substitute the words “the Authority”.
-
-(ii) Delete the word “Minister” wherever it appears in subsections (2)(a), (b) and (c) and (3) (d) and substitute in each case the word “Authority”.
-
-(15) Regulation of Imports and Export Act 1995
-
-
-
-
-(Act 24 of 1995)
-
-Section (1)
-
-(i) Delete the words “Port of Singapore authority Act” in the definition of “master” and substitute the words “Maritime and Port Authority of Singapore Act 1996”.
-
-(ii) Delete the marginal reference “Cap.236.”.
-
-(16) Statutory bodies and Government Companies (Protection of secrecy) Act
-
-
-
-
-(Chapter 319)
-
-The Schedule, Part I
-
-Insert, immediately after item 9, the following item:
-
-"9A. Maritime and Port Authority of Singapore
-
-Maritime and Port Authority of Singapore Act 1996.".
-
-(17) Statutory Corporations (Contributions to Consolidated Fund) Act
-
-
-
-
-(Chapter 319A)
-
-The Schedule
-
-Delete item 4 and substitute the following item:
-
-"4. Maritime and Port Authority of Singapore
-
-Maritime and Port Authority of Singapore Act 1996.".
-
+||||
+|:-|:-|:-|
+|1.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+||Date of First Reading|5.12.95|
+|||(Bill No. 46/95 published on 6.12.95)|
+||Date of Second and Third Readings|18.1.96|
+||Date of commencement|2.2.96|
+|2.|**1997 Revised Edition—Maritime and Port Authority of Singapore Act**|
+||Date of operation|30 May 1997|
