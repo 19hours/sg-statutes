@@ -344,7 +344,7 @@ Provided that a person charged with such an offence may be arrested, or a warran
 
 ### Powers under Criminal Procedure Code not restricted
 
-19\. Nothing in this Act shall be deemed to limit or restrict any powers conferred by the Criminal Procedure Code [Cap. 68].
+19\. Nothing in this Act shall be deemed to limit or restrict any powers conferred by the Criminal Procedure Code (Cap. 68)
 
 ## THE SCHEDULE
 
@@ -376,23 +376,35 @@ Specified Organisations
 
 (11) Inland Revenue Authority of Singapore
 
+(11A) International Enterprise Singapore Board
+
+[S 420/2003 wef 01/09/2003]
+
 (12) Jurong Town Corporation
 
 (13) Land Transport Authority of Singapore
 
 (14) Maritime and Port Authority of Singapore
 
+(14A) Media Development Authority of Singapore
+
+[S 420/2003 wef 01/09/2003]
+
 (15) Monetary Authority of Singapore
+
+(15A) National Environment Agency
+
+[S 420/2003 wef 01/09/2003]
 
 (16) National Heritage Board
 
 (17) Public Utilities Board
 
-(18) Singapore Broadcasting Authority
-
 (19) Singapore Land Authority
 
-(20) Trade Development Board
+(20) Singapore Workforce Development Agency
+
+[S 420/2003 wef 01/09/2003]
 
 (21) Urban Redevelopment Authority.
 
@@ -482,3 +494,5 @@ This Legislative History is provided for the convenience of users of the Officia
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003 (item (4) of Schedule — Amendment of Official Secrets Act)|
+|20.|**G.N. No. S 420/2003—Official Secrets Act (Amendment of Schedule) Notification 2003**|
+||Date of commencement|1 September 2003|
