@@ -444,7 +444,7 @@ PRELIMINARY
 
 “company” means any company incorporated or registered under any law in force in Singapore or elsewhere;
 
-“Comptroller” means the Comptroller of Income Tax appointed under section 5 and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 45(7), , 95, 96 and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
+“Comptroller” means the Comptroller of Income Tax appointed under section 5 and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 45(7), 95, 96 and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
 
 [31/98 wef 14/08/1998]
 
@@ -608,7 +608,7 @@ ADMINISTRATION
 
 shall be guilty of an offence.
 
-(3) [DeletedbyAct29/65]
+(3) [Deleted by Act 29/65]
 
 (4) No person appointed under, or employed in carrying out, the provisions of this Act shall be required to produce in any court any return, document or assessment, or to divulge or communicate to any court any matter or thing coming under his notice in the performance of his duties under this Act except as may be necessary for the purpose of carrying into effect the provisions of this Act, or in order to institute a prosecution, or in the course of a prosecution, for any offence committed in relation to income tax.
 
@@ -786,11 +786,11 @@ is the amount of balancing charge.
 
 2For the Year of Assessment 1981 and subsequent Years of Assessment the sum specified is $75,000 — see G.N. No. S 303/81.
 
-[9/80]
-
 whichever is the less, shall not be deemed to be profits arising from property; and for the purposes of this paragraph any property owned by a married woman living with her husband shall be deemed to be owned by the husband.
 
 [7/70]
+
+[9/80]
 
 (7) Where a person derives interest from a negotiable certificate of deposit or derives gains or profits from the sale thereof, his income shall be treated as follows:
 
@@ -2318,7 +2318,7 @@ an amount equal to the excess medical expenses shall be deemed to be income of t
 
 (d) expenses incurred in or in connection with the provision of insurance against the cost of medical treatment; and
 
-(e) contributions which are deductible under subsection (1)(ea);
+(e) contributions which are deductible under subsection (1) (ea);
 
 [32/95]
 
@@ -3016,9 +3016,9 @@ an allowance or charge, to be known as a “balancing allowance” or a “balan
 
 (l) for prescribed purposes and where such building or structure has been approved by the Minister or such person as he may appoint,
 
-[3/89]
-
 and includes any building or structure provided by the person carrying on such a trade or undertaking for the welfare of workers employed in that trade or undertaking and in use for that purpose, but does not include a building or structure in respect of which a deduction is prescribed under section 14(1)(g).
+
+[3/89]
 
 (1A) A building or structure shall not be deemed, by reason only of its falling or having fallen into temporary disuse, to have thereby ceased altogether to be used for one of the purposes specified in this subsection if, immediately prior to falling into such temporary disuse, it was in use for such a purpose and if, during the period of such temporary disuse, it is constantly maintained in readiness to be brought back into use for such a purpose; but if, in such circumstances, the building or structure at any time during disuse ceases to be ready for use for any of the said purposes, or if at any time, for any reason, the disuse of the building or structure can no longer be reasonably regarded as temporary, then and in any such case, the building or structure shall be deemed to have ceased, on the commencement of the period of disuse, to be used for any of the purposes specified in subsection (1).
 
@@ -3524,7 +3524,7 @@ is the aggregate of the initial and annual allowances made in respect of the mot
 
 [9/80]
 
-(5A) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(2C) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act [Cap. 276] and the rules made thereunder.
+(5A) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(2C) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act [Cap. 276] and the rules made thereunder .
 
 [Act 1/98, Wef 23/01/1998]
 
@@ -4740,8 +4740,6 @@ RATES OF TAX
 
 [28/92]
 
-[(from Y/A 1993.]
-
 [26/93]
 
 [Act 28/96 wef Y/A 1997 & subsq. Ys/A]
@@ -5746,7 +5744,7 @@ Trustees, agents and curators
 
 (c) any owner of such moneys who objects to the share presumed under paragraph (b) shall give notice of his objection in writing to the person declared to be the agent under subsection (1) within 28 days of the receipt of the notice of the agent under paragraph (a)(i), or within such further period as the Comptroller in his discretion may allow, and furnish proof as to his share of the moneys;
 
-(d) where an objection under paragraph (c) has been received, the person declared to be the agent shall —
+(d) where an objection under paragraph (c)has been received, the person declared to be the agent shall —
 
 (i) retain the amount of such moneys referred to in paragraph (a)(ii) until such time as the Comptroller by notice under paragraph (e) informs him of his decision on the objection; and
 
@@ -8319,3 +8317,5 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 April 1996|
 |117.|**1996 Revised Edition—Income Tax Act (Chapter 134)**|
 ||Date of operation|30 April 1996|
+|118.|**G.N. No. S 302/96—Income Tax Act (Amendment of First Schedule) (No. 3) Order 1996**|
+||Date of commencement|1 July 1996|
