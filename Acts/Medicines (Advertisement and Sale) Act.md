@@ -30,7 +30,7 @@
 
 # Medicines (Advertisement and Sale) Act\*
 
-\*This Act is to be repealed on the coming into operation of 76(1) of the Medicines Act (Cap. 176)
+\*This Act is to be repealed on the coming into operation of section 76(1) of the Medicines Act (Cap. 176).
 
 (CHAPTER 177)
 
@@ -92,7 +92,9 @@ Provided that this subsection shall not apply to any advertisement published by 
 
 (e) registered nurses and midwives;
 
-(f) registered pharmacists and holders of licences to sell poisons in Part I of the Schedule to the Poisons Act [Cap. 234];
+(f) registered pharmacists and holders of licences to sell poisons set out in the Schedule to the Poisons Act [Cap. 234];
+
+[Act 9/1999 wef 01/04/1999]
 
 (g) persons undergoing training with a view to becoming registered medical practitioners, registered dentists, registered nurses or registered pharmacists.
 
@@ -138,7 +140,9 @@ then, unless the contrary is proved, it shall be presumed for the purpose of tho
 
 (iii) registered nurses and midwives;
 
-(iv) registered pharmacists and holders of licences to sell poisons in Part I of the Schedule to the Poisons Act [Cap. 234];
+(iv) registered pharmacists and holders of licences to sell poisons set out in the Schedule to the Poisons Act [Cap. 234];
+
+[Act 9/1999 wef 01/04/1999]
 
 (v) persons undergoing training with a view to becoming registered medical practitioners, registered dentists, registered nurses or registered pharmacists.
 
@@ -264,3 +268,9 @@ This Legislative History is provided for the convenience of users of the Medicin
 ||Date of operation|31 May 1971|
 |5.|**1985 Revised Edition—Medicines (Advertisement and Sale) Act**|
 ||Date of operation|30 March 1987|
+|6.|**Act 9 of 1999—Environmental Pollution Control Act 1999**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|20 January 1999|
+|||(Bill No. 2/1999 published on 21 January 1999)|
+||Date of Second and Third Readings|11 February 1999|
+||Date of commencement|1 April 1999|
