@@ -60,6 +60,8 @@
 
 - [25 Ownership of copyright for particular purposes](#Ownership-of-copyright-for-particular-purposes)
 
+- [25A Commercial rental arrangement](#Commercial-rental-arrangement)
+
 [**Part III COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS**](#Part-III)
 
 [**Division 1  Nature, Duration and Ownership of Copyright in Works**](#Division-1--Nature-Duration-and-Ownership-of-Copyright-in-Works)
@@ -124,17 +126,23 @@
 
 - [50 Application of Division to illustrations accompanying articles and other works](#Application-of-Division-to-illustrations-accompanying-articles-and-other-works)
 
-[**Division 6  Copying of Works in Educational Institutions**](#Division-6--Copying-of-Works-in-Educational-Institutions)
+[**Division 6  Copying of Works for Educational Purposes**](#Division-6--Copying-of-Works-for-Educational-Purposes)
+
+- [50A Copying by non-reprographic means for purpose of a course of education](#Copying-by-non-reprographic-means-for-purpose-of-a-course-of-education)
 
 - [51 Multiple copying of insubstantial portions of works](#Multiple-copying-of-insubstantial-portions-of-works)
 
 - [52 Multiple copying under statutory licence by educational institutions](#Multiple-copying-under-statutory-licence-by-educational-institutions)
+
+- [52A Things done for purposes of examination](#Things-done-for-purposes-of-examination)
 
 - [53 Application of Division to illustrations accompanying articles and other works](#Application-of-Division-to-illustrations-accompanying-articles-and-other-works)
 
 [**Division 7  Copying of Works in Institutions Assisting Handicapped Readers**](#Division-7--Copying-of-Works-in-Institutions-Assisting-Handicapped-Readers)
 
 - [54 Multiple copying under statutory licence by institutions assisting handicapped readers](#Multiple-copying-under-statutory-licence-by-institutions-assisting-handicapped-readers)
+
+- [54A Multiple copying under statutory licence by institutions assisting intellectually handicapped readers](#Multiple-copying-under-statutory-licence-by-institutions-assisting-intellectually-handicapped-readers)
 
 [**Division 8  Recording of Musical Works**](#Division-8--Recording-of-Musical-Works)
 
@@ -280,6 +288,10 @@
 
 - [115 Use of broadcasts for educational purposes](#Use-of-broadcasts-for-educational-purposes)
 
+- [115A Copying for course of instruction in making of film or soundtrack](#Copying-for-course-of-instruction-in-making-of-film-or-soundtrack)
+
+- [115B Things done for purposes of examination](#Things-done-for-purposes-of-examination)
+
 - [116 Reproductions of editions of work](#Reproductions-of-editions-of-work)
 
 - [116A Accessories to imported articles](#Accessories-to-imported-articles)
@@ -287,6 +299,110 @@
 [**Division 7  Miscellaneous**](#Division-7--Miscellaneous)
 
 - [117 Copyrights to subsist independently](#Copyrights-to-subsist-independently)
+
+[**Part V REMEDIES FOR INFRINGEMENTS OF COPYRIGHT**](#Part-V)
+
+[**Division 1  Preliminary**](#Division-1--Preliminary)
+
+- [118 Interpretation](#Interpretation)
+
+[**Division 2  Actions by Owner of Copyright**](#Division-2--Actions-by-Owner-of-Copyright)
+
+- [119 Actions for infringement](#Actions-for-infringement)
+
+- [120 Order for delivery up of infringing copies, etc.](#Order-for-delivery-up-of-infringing-copies-etc)
+
+- [120A Order for disposal of infringing copies, etc.](#Order-for-disposal-of-infringing-copies-etc)
+
+[**Division 3  Proceedings where Copyright is subject to Exclusive Licence**](#Division-3--Proceedings-where-Copyright-is-subject-to-Exclusive-Licence)
+
+- [121 Interpretation](#Interpretation)
+
+- [122 Application](#Application)
+
+- [123 Rights of exclusive licensee](#Rights-of-exclusive-licensee)
+
+- [124 Joinder of owner or exclusive licensee as a party](#Joinder-of-owner-or-exclusive-licensee-as-a-party)
+
+- [125 Defences available against exclusive licensee](#Defences-available-against-exclusive-licensee)
+
+- [126 Assessment of damages where exclusive licence granted](#Assessment-of-damages-where-exclusive-licence-granted)
+
+- [127 Apportionment of profits between owner and exclusive licensee](#Apportionment-of-profits-between-owner-and-exclusive-licensee)
+
+- [128 Separate actions in relation to the same infringement](#Separate-actions-in-relation-to-the-same-infringement)
+
+- [129 Liability for costs](#Liability-for-costs)
+
+[**Division 4  Proof of Facts in Copyright Proceedings**](#Division-4--Proof-of-Facts-in-Copyright-Proceedings)
+
+- [130 Presumptions as to subsistence and ownership of copyright](#Presumptions-as-to-subsistence-and-ownership-of-copyright)
+
+- [131 Presumptions in relation to authorship of work](#Presumptions-in-relation-to-authorship-of-work)
+
+- [132 Presumptions in relation to publisher of work](#Presumptions-in-relation-to-publisher-of-work)
+
+- [133 Presumptions where author has died](#Presumptions-where-author-has-died)
+
+- [134 Evidence in relation to proceedings](#Evidence-in-relation-to-proceedings)
+
+- [135 Presumptions in relation to maker of film](#Presumptions-in-relation-to-maker-of-film)
+
+[**Division 5  Offences**](#Division-5--Offences)
+
+- [136 Offences](#Offences)
+
+- [137 Affidavit evidence](#Affidavit-evidence)
+
+- [138 Powers of police officer](#Powers-of-police-officer)
+
+- [139 Advertisement for supply of infringing copies of computer programs](#Advertisement-for-supply-of-infringing-copies-of-computer-programs)
+
+- [140 Court for trial of offences](#Court-for-trial-of-offences)
+
+[**Division 6  Border Enforcement Measures**](#Division-6--Border-Enforcement-Measures)
+
+- [140A Interpretation](#Interpretation)
+
+- [140B Restriction of importation of copies of works, etc.](#Restriction-of-importation-of-copies-of-works-etc)
+
+- [140C Security for liability or expense of seizure](#Security-for-liability-or-expense-of-seizure)
+
+- [140D Secure storage of seized copies](#Secure-storage-of-seized-copies)
+
+- [140E Notice of seizure](#Notice-of-seizure)
+
+- [140F Inspection, release, etc., of seized copies](#Inspection-release-etc-of-seized-copies)
+
+- [140G Forfeiture of seized copies by consent](#Forfeiture-of-seized-copies-by-consent)
+
+- [140H Compulsory release of the seized copies to the importer](#Compulsory-release-of-the-seized-copies-to-the-importer)
+
+- [140I Provision relating to actions for infringement of copyright](#Provision-relating-to-actions-for-infringement-of-copyright)
+
+- [140J Retention of control of seized copies](#Retention-of-control-of-seized-copies)
+
+- [140K Disposal of seized copies ordered to be forfeited](#Disposal-of-seized-copies-ordered-to-be-forfeited)
+
+- [140L Insufficient security](#Insufficient-security)
+
+[**Division 7  Powers of Search**](#Division-7--Powers-of-Search)
+
+- [140M Powers of search in relation to vessels, aircraft and vehicles](#Powers-of-search-in-relation-to-vessels-aircraft-and-vehicles)
+
+- [140N Examination of packages](#Examination-of-packages)
+
+- [140O Power to remove packages and goods to police station or examination station](#Power-to-remove-packages-and-goods-to-police-station-or-examination-station)
+
+- [140P Search of persons and baggage](#Search-of-persons-and-baggage)
+
+- [140Q Powers of authorised officers to enter certain premises](#Powers-of-authorised-officers-to-enter-certain-premises)
+
+- [140R Obstruction](#Obstruction)
+
+[**Division 8  Miscellaneous**](#Division-8--Miscellaneous)
+
+- [141 Limitation of actions in respect of infringement of copyright](#Limitation-of-actions-in-respect-of-infringement-of-copyright)
 
 [**Part VI COMPULSORY LICENCES FOR TRANSLATION AND REPRODUCTION OF CERTAIN WORKS**](#Part-VI)
 
@@ -325,6 +441,10 @@
 - [156 Sittings of Tribunal](#Sittings-of-Tribunal)
 
 [**Division 3  Inquiries by, and Applications and References to, Tribunal**](#Division-3--Inquiries-by-and-Applications-and-References-to-Tribunal)
+
+- [156A Application to Tribunal for determination of remuneration payable for making recording or film of a work](#Application-to-Tribunal-for-determination-of-remuneration-payable-for-making-recording-or-film-of-a-work)
+
+- [156B Application to Tribunal for determination of remuneration payable for making copy of sound recording](#Application-to-Tribunal-for-determination-of-remuneration-payable-for-making-copy-of-sound-recording)
 
 - [157 Inquiries into royalty payable in respect of records of musical works](#Inquiries-into-royalty-payable-in-respect-of-records-of-musical-works)
 
@@ -424,7 +544,9 @@
 
 - [200 Groundless threats of legal proceedings](#Groundless-threats-of-legal-proceedings)
 
-- [201 Notation of copies and handicapped readers’ copies.](#Notation-of-copies-and-handicapped-readers’-copies)
+- [201 Notation of copies, etc.](#Notation-of-copies-etc)
+
+- [201A Immunity of Government, etc.](#Immunity-of-Government-etc)
 
 - [202 Regulations](#Regulations)
 
@@ -526,6 +648,32 @@
 
 - [245 Assignments and licences](#Assignments-and-licences)
 
+[**Part XII PERFORMERS’ PROTECTION**](#Part-XII)
+
+- [246 Interpretation](#Interpretation)
+
+- [247 Educational purposes](#Educational-purposes)
+
+- [248 Exempt recordings cease to be exempt recordings in certain circumstances](#Exempt-recordings-cease-to-be-exempt-recordings-in-certain-circumstances)
+
+- [249 Private and domestic use](#Private-and-domestic-use)
+
+- [250 References to inclusion of performance in a cable service](#References-to-inclusion-of-performance-in-a-cable-service)
+
+- [251 Application](#Application)
+
+- [252 What constitutes unauthorised use](#What-constitutes-unauthorised-use)
+
+- [253 Action for unauthorised use](#Action-for-unauthorised-use)
+
+- [254 Order for disposal of infringing copies or other object](#Order-for-disposal-of-infringing-copies-or-other-object)
+
+- [255 Rights to bring an action not assignable](#Rights-to-bring-an-action-not-assignable)
+
+- [256 Application to foreign countries](#Application-to-foreign-countries)
+
+- [257 Denial of protection to citizens of countries not giving adequate protection to Singapore performances](#Denial-of-protection-to-citizens-of-countries-not-giving-adequate-protection-to-Singapore-performances)
+
 [**THE SCHEDULE False Registration of Industrial Designs**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
@@ -622,7 +770,9 @@ but does not include —
 
 “archives” means —
 
-(a) archival material in the custody of the National Archives and Records Centre established by the National Archives and Records Centre Act [Cap. 193]; and
+(a) archival material in the custody of the National Archives of Singapore established under section 17 of the National Heritage Board Act (Cap. 196A);
+
+[6/98 wef 14/04/1998]
 
 (b) a collection of documents or other material to which this paragraph applies by virtue of subsection (4);
 
@@ -671,6 +821,10 @@ and includes the aggregate of the sounds embodied in a sound-track associated wi
 to cause a device having information processing capabilities to perform a particular function;
 
 “construction” includes erection and “reconstruction” shall have a corresponding meaning;
+
+“conveyance” has the same meaning as in the Regulation of Imports and Exports Act (Cap. 272A);
+
+[6/98 wef 14/04/1998]
 
 “copy”, in relation to a cinematograph film, means any article or thing in which the visual images or sounds comprising the film are embodied;
 
@@ -754,15 +908,15 @@ being an article the making of which constituted an infringement of the copyrigh
 
 “institution” includes an educational institution;
 
-“institution assisting handicapped readers” means —
+“institution assisting intellectually handicapped readers” means —
 
-(a) an educational institution; or
+(a) any educational institution; or
 
-(b) any other institution, not being an institution conducted for profit, direct or indirect, of an individual or individuals,
+(b) any non-profit organisation,
 
-that has as its principal function, or one of its principal functions, the provision of literary or dramatic works to handicapped readers and that is declared by regulations made under this Act to be, for the purposes of this Act, an institution assisting handicapped readers;
+that has as its principal function, or one of its principal functions, the provision of assistance to intellectually handicapped persons and that is declared by regulations made under this Act to be, for the purposes of this Act, an institution assisting intellectually handicapped readers;
 
-[S 22/89 wef 30/03/1987]
+[6/98 wef 14/04/1998]
 
 “international organisation to which this Act applies” means an organisation that is declared by the regulations made for the purposes of section 185 to be an international organisation to which this Act applies, and includes —
 
@@ -781,6 +935,10 @@ that has as its principal function, or one of its principal functions, the provi
 “manuscript”, in relation to a work, means an original document embodying the work, whether written by hand or not;
 
 “minimum royalty”, in relation to a record, means the amounts applicable in respect of the record under sections 57(3) and 58(b)(i) or, if those provisions are affected by regulations made for the purposes of section 59, under those provisions as so affected;
+
+“non-profit organisation” means an organisation or association or persons, whether corporate or unincorporate, that is not operated or conducted for profit;
+
+[6/98 wef 14/04/1998]
 
 “photograph” means a product of photography or of a process similar to photography, other than an article or thing in which visual images forming part of a cinematograph film have been embodied, and includes a product of xerography, and photography shall have a corresponding meaning;
 
@@ -852,6 +1010,14 @@ which is to be or has been conveyed by means of a telecommunication system;
 
 “writing” means a mode of representing or reproducing words, figures or symbols in a visible form, and “written” shall have a corresponding meaning.
 
+(1A) Without limiting the meaning of the expression "educational purposes" in this Act, a copy of the whole or a part of a work or other subject-matter shall be taken to have been made, used or retained, as the case may be, for the purposes of an educational institution if —
+
+(a) it is made or retained for use, or is used, in connection with a particular course of instruction provided by the institution; or
+
+(b) it is made or retained for inclusion, or is included, in the collection of a library of the institution.
+
+[6/98 wef 14/04/1998]
+
 (2) Without limiting the meaning of the expression “reasonable portion” in this Act, where a literary, dramatic or musical work is contained in a published edition of that work, being an edition of not less than 10 pages, a copy of part of that work, as it appears in that edition, shall be taken to contain only a reasonable portion of that work if the pages that are copied in the edition —
 
 (a) do not exceed, in the aggregate, 10% of the number of pages in that edition; or
@@ -860,7 +1026,7 @@ which is to be or has been conveyed by means of a telecommunication system;
 
 (3) In this Act, unless the contrary intention appears —
 
-(a) a reference to the body administering an educational institution or an institution assisting handicapped readers shall be read as —
+(a) a reference to the body administering an educational institution , an institution assisting handicapped readers or an institution assisting intellectually handicapped readers shall be read as —
 
 (i) in a case where the institution is a body corporate, a reference to the institution; or
 
@@ -870,15 +1036,17 @@ which is to be or has been conveyed by means of a telecommunication system;
 
 (c) a reference to a copy of a sound recording shall be read as a reference to a record embodying a sound recording or a substantial part of a sound recording being a record derived directly or indirectly from a record produced upon the making of a sound recording;
 
-(d) a reference to the copying records of an educational institution or an institution assisting handicapped readers shall be read as a reference to the collection of —
+(d) a reference to the copying records of an educational institution , an institution assisting handicapped readers or an institution assisting intellectually handicapped readers shall be read as a reference to the collection of —
 
-(i) the relevant records in respect of copies of articles and other works made by or on behalf of the body administering the institution in reliance on section 52; and
+(i) the relevant records in respect of copies of articles and other works made by or on behalf of the body administering the institution in reliance on section 52;
 
-(ii) the relevant records in respect of copies of articles and other works made by or on behalf of the body administering the institution in reliance on section 54,
+(ii) the relevant records in respect of copies of articles and other works made by or on behalf of the body administering the institution in reliance on section 54;
+
+(iii) the relevant records in respect of copies of articles and other works made by or on behalf of the body administering the institution in reliance on section 54A,
 
 other than any such records as have been duly destroyed by, or by authority of, the body administering that institution;
 
-(e) a reference to the custodian in charge of the copying records of an educational institutionor an institution assisting handicapped readers shall be read as a reference to the person having responsibility for the day-to-day administration of the institution;
+(e) a reference to the custodian in charge of the copying records of an educational institution, an institution assisting handicapped readers or an institution assisting intellectually handicapped readers shall be read as a reference to the person having responsibility for the day-to-day administration of the institution;
 
 (f) a reference to the making, by reprographic reproduction, of a copy of a document, or of the whole or a part of a work, shall be read as a reference to the making of a facsimile copy of the document or the whole or that part of the work, being a facsimile copy of any size or form;
 
@@ -887,6 +1055,10 @@ other than any such records as have been duly destroyed by, or by authority of, 
 (i) a record embodying a sound recording of the work, or of the part of the work, being a record that was made by, or on behalf of, the body administering an institution assisting handicapped readers for use by a handicapped reader for the purpose of research or study that he is undertaking or proposes to undertake or for the purpose of instructing himself on any matter; or
 
 (ii) a Braille version, large-print version or photographic version of the work, or of the part of the work, being a Braille version, large-print version or photographic version, as the case may be, made by, or on behalf of, the body administering the institution assisting handicapped readers for use by a handicapped reader for the purpose of research or study that he is undertaking or proposes to undertake or for the purpose of instructing himself on any matter;
+
+(ga) a reference to an intellectually handicapped reader’s copy of a work, or of a part of a work, shall be read as a reference to a copy of a work, or of a part of a work, as the case may be, made by, or on behalf of, the body administering an institution assisting intellectually handicapped persons, being a copy that is made for the sole purpose of use in the provision, whether by the institution or otherwise, of assistance to any intellectually handicapped person;
+
+[6/98 wef 14/04/1998]
 
 (h) a reference to a microform copy of the whole or a part of a work shall be read as a reference to a copy of the whole or part of the work produced by miniaturizing the graphic symbols of which the work is composed;
 
@@ -1142,6 +1314,28 @@ and the making of the article shall be deemed to have been carried out with the 
 
 [Act 14/94 wef 01/10/1994]
 
+### Commercial rental arrangement
+
+25A\.—(1) In this Act, “commercial rental arrangement”, in relation to a sound recording or a computer program, signifies an arrangement that has the following features:
+
+(a) regardless of the way in which the arrangement is expressed, it is in substance an arrangement under which a copy of the sound recording or computer program is made available by a person on terms that it will or may be returned to the person;
+
+(b) the arrangement is made in the course of the conduct of a business; and
+
+(c) the arrangement provides for the copy to be made available —
+
+(i) for payment in money or money’s worth; or
+
+(ii) as part of the provision of a service for which payment in money or money’s worth is to be made.
+
+(2) Notwithstanding anything in subsection (1), an arrangement shall not be regarded as a commercial rental arrangement if, regardless of the way in which the arrangement is expressed, it is an arrangement for the lending of a copy of a sound recording or computer program under which the amount payable is intended to be no more than —
+
+(a) the amount necessary to recover the costs, including overheads, of the arrangement; or
+
+(b) a deposit to secure the return of the copy.
+
+[6/98 wef 14/04/1998]
+
 ## PART III
 
 COPYRIGHT IN ORIGINAL LITERARY, DRAMATIC, MUSICAL AND ARTISTIC WORKS
@@ -1152,13 +1346,13 @@ Nature, Duration and Ownership of Copyright in Works
 
 ### Nature of copyright in original works
 
-26\. For the purposes of this Act, unless the contrary intention appears, copyright, in relation to a work, is the exclusive right —
+26\.—(1) For the purposes of this Act, unless the contrary intention appears, copyright, in relation to a work, is the exclusive right —
 
 (a) in the case of a literary, dramatic or musical work, to do all or any of the following acts:
 
 (i) to reproduce the work in a material form;
 
-(ii) to publish the work in Singapore or any country in relation to which this Act applies, if the work is unpublished;
+(ii) to publish the work if the work is unpublished;
 
 (iii) to perform the work in public;
 
@@ -1168,7 +1362,7 @@ Nature, Duration and Ownership of Copyright in Works
 
 (vi) to make an adaptation of the work;
 
-(vii) to do, in relation to a work that is an adaptation of the first-mentioned work, any of the acts specified in relation to the first-mentioned work in sub-paragraphs (i) to (vi); and
+(vii) to do, in relation to a work that is an adaptation of the first-mentioned work, any of the acts specified in relation to the first-mentioned work in sub-paragraphs (i) to (vi);
 
 (b) in the case of an artistic work, to do all or any of the following acts:
 
@@ -1178,7 +1372,31 @@ Nature, Duration and Ownership of Copyright in Works
 
 (iii) to include the work in a television broadcast;
 
-(iv) to include the work in a cable programme .
+(iv) to include the work in a cable programme; and
+
+(c) in the case of a computer program, to enter into a commercial rental arrangement in respect of the program unless the program is not the essential object of the rental.
+
+[6/98 wef 16/04/1998]
+
+[6/98 wef 14/04/1998]
+
+(2) Subsection (1)(c) shall not extend to entry into a commercial rental arrangement in respect of a machine or device in which a computer program is embodied if the program is not able to be copied in the course of the ordinary use of the machine or device.
+
+[6/98 wef 14/04/1998]
+
+(3) The reference in subsection (2) to a device shall not include a device of a kind ordinarily used to store computer programs, such as a floppy disc, a device of the kind commonly known as a CD ROM, or an integrated circuit.
+
+[6/98 wef 14/04/1998]
+
+(4) Subsection (1)(c) shall not extend to entry into a commercial rental arrangement in respect of a computer program if —
+
+(a) the copy of the computer program, not being an infringing copy, was purchased by a person (referred to in this subsection as the program owner) before the commencement of the Copyright (Amendment) Act 1998;
+
+(b) the commercial rental arrangement is entered into in the ordinary course of a business conducted by the program owner; and
+
+(c) the program owner was conducting the same business, or another business that consisted of, or included, the making of commercial rental arrangements in respect of computer programs, when the copy was purchased.
+
+[6/98 wef 14/04/1998]
 
 ### Original works in which copyright subsists
 
@@ -1350,8 +1568,6 @@ shall be taken to be a fair dealing with that work or adaptation for the purpose
 
 (4) Subsection (3) shall not apply to a dealing by way of the copying of the whole or a part of an article in a periodical publication if another article in that publication, being an article dealing with a different subject-matter, is also copied.
 
-(5) In this section, “research” shall not include industrial research or research carried out by bodies corporate (not being bodies corporate owned or controlled by the Government), companies, associations or bodies of persons carrying on any business.
-
 ### Fair dealing for purpose of criticism or review
 
 36\. A fair dealing with a literary, dramatic, musical or artistic work, or with an adaptation of a literary, dramatic or musical work, shall not constitute an infringement of the copyright in the work if it is for the purpose of criticism or review, whether of that work or of another work, and a sufficient acknowledgment of the work is made.
@@ -1382,19 +1598,19 @@ shall be taken to be a fair dealing with that work or adaptation for the purpose
 
 (b) the reproduction is made for the purpose only of being used, by or on behalf of the owner of the original copy, in lieu of the original copy in the event that the original copy is lost, destroyed or rendered unusable.
 
-(2) Subsection (1) shall not apply to the making of a reproduction of a computer program, or of an adaptation of a computer program —
+(2) Subsection (1) shall not apply to the making of a reproduction of a computer program, or of an adaptation of a computer program, from an infringing copy of the computer program.
 
-(a) from an infringing copy of the computer program; or
-
-(b) contrary to an express direction by or on behalf of the owner of the copyright in the computer program given to the owner of the original copy not later than the time when the owner of the original copy acquired the original copy.
+[6/98 wef 16/04/1998]
 
 (3) Notwithstanding section 31, it is not an infringement for the owner of a copy of a computer program to make or authorise the making of another copy or adaptation of that computer programprovided that such a new copy or adaptation is created as an essential step in the utilisation of the computer program or compilation in conjunction with a machine and that it is used in no other manner.
 
-(4) For the purposes of this section —
+(4) Where an act is permitted under this section, it is irrelevant whether or not there exists any term or condition in an agreement which purports to prohibit or restrict the act, and such a term or condition shall, in so far as it purports to prohibit or restrict the act, be void.
 
-(a) a reference to a copy of a computer program or of an adaptation of a computer program is a reference to any article in which the computer program or adaptation is reproduced in a material form; and
+[6/98 wef 16/04/1998]
 
-(b) a reference to express direction, in relation to a copy of a computer program or of an adaptation of a computer program, includes a reference to a clearly legible direction printed on the copy or on a package in which the copy is supplied.
+(5) For the purposes of this section, a reference to a copy of a computer program or of an adaptation of a computer program is a reference to any article in which the computer program or adaptation is reproduced in a material form.
+
+[6/98 wef 16/04/1998]
 
 ### Inclusion of works in collections for use by educational institutions
 
@@ -1440,17 +1656,31 @@ Acts not Constituting Infringements of Copyright in Literary, Dramatic and Music
 
 (b) the making of further records embodying the recording or further copies of the film for the purpose of the broadcasting of the work or adaptation in such circumstances.
 
+(3) Subsection (1) shall not apply in relation to a recording or film where a record embodying the recording or a copy of the film is used for the purpose of the broadcasting of the work or adaptation by a person who is not the maker of the recording or film unless the maker has paid to the owner of the copyright in the work such amount as they agree or, in default of agreement, has given an undertaking in writing to the owner to pay to him such amount as is determined by the Copyright Tribunal, on the application of either of them, to be equitable remuneration to the owner for the making of the recording or film.
+
+[6/98 wef 16/04/1998]
+
+(4) A person who has given an undertaking referred to in subsection (3) is liable, when the Copyright Tribunal has determined the amount to which the undertaking relates, to pay that amount to the owner of the copyright in the work and the owner may recover that amount in a court of competent jurisdiction from the person as a debt due to the owner.
+
+[6/98 wef 16/04/1998]
+
+(5) Subsection (1) shall not apply in relation to a recording or film unless all the records embodying the recording or all the copies of the film are destroyed or are delivered, with the consent of the director of National Archives, to the National Archives of Singapore —
+
+(a) before the expiration of the period of 6 months or, in the case of a recording or film made by a non-profit organisation solely for its own broadcast, 2 years, commencing on the day on which any of the records embodying the recording or any of the copies of the film is first used for broadcasting the work or adaptation in accordance with that subsection; or
+
+(b) before the expiration of such further period, if any, as is agreed between the maker of the recording or film and the owner of the copyright in the work.
+
+[6/98 wef 16/04/1998]
+
 Division 5 —
 
 Copying of Works in Libraries
 
 ### Interpretation
 
-44\. In this Division —
+44\. In this Division, a reference to an article contained in a periodical publication shall be read as a reference to anything (other than an artistic work) appearing in such a publication.
 
-(a) a reference to an article contained in a periodical publication shall be read as a reference to anything (other than an artistic work) appearing in such a publication; and
-
-(b) any reference to research shall not include industrial research or research carried out by bodies corporate (not being bodies corporate owned or controlled by the Government), companies, associations or bodies of persons carrying on any business.
+[6/98 wef 16/04/1998]
 
 ### Copying by libraries and archives for users
 
@@ -1470,7 +1700,13 @@ Copying of Works in Libraries
 
 (4) Subsection (2) shall not apply in relation to a request for a copy of, or parts of, two or more articles contained in the same periodical publication unless the articles relate to the same subject-matter.
 
-(5) Subsection (2) shall not apply to a request for a copy of the whole of a literary, dramatic or musical work (other than an article contained in a periodical publication), or to a copy of a part of such a work that contains more than a reasonable portion of the work unless the work forms part of the library or archives collection.
+(5) Subsection (2) shall not apply to a request for a copy of the whole of a literary, dramatic or musical work (other than an article contained in a periodical publication), or to a copy of a part of such a work that contains more than a reasonable portion of the work unless —
+
+(a) the work forms part of the library or archives collection; and
+
+(b) before the copy is made, an authorised officer of the library has, after reasonable investigation, made a declaration stating that he is satisfied that a copy (not being a secondhand copy) of the work cannot be obtained within a reasonable time at an ordinary commercial price.
+
+[6/98 wef 16/04/1998]
 
 (6) The copyright in an article contained in a periodical publication is not infringed by the making, in relation to a request under subsection (1), of a copy of the article, or of a part of the article, in accordance with subsection (2) unless the copy is supplied to a person other than the person who made the request.
 
@@ -1576,7 +1812,33 @@ then, for the purposes of this Act, the first publication of the new work, and a
 
 Division 6 —
 
-Copying of Works in Educational Institutions
+Copying of Works for Educational Purposes
+
+### Copying by non-reprographic means for purpose of a course of education
+
+50A\.—(1) Copyright in a work is not infringed by its being copied for the purposes of a course of education, provided the copying —
+
+(a) is done by a person conducting or undergoing the course of education; and
+
+(b) is not by means of a reprographic process.
+
+(2) For the purpose of this section —
+
+“electronic” means actuated by electric, magnetic, electro-magnetic, electro-chemical or electro-mechanical energy;
+
+“facsimile copy” includes a copy that is reduced or enlarged in scale;
+
+“in electronic form” means in a form usable only by electronic means;
+
+“reprographic process” means a process —
+
+(a) for making facsimile copies; or
+
+(b) involving the use of an appliance for making multiple copies,
+
+and includes, in relation to a work held in electronic form, any copying by electronic means, but does not include the making of a cinematographic film or sound recording.
+
+[6/98 wef 16/04/1998]
 
 ### Multiple copying of insubstantial portions of works
 
@@ -1596,23 +1858,17 @@ Copying of Works in Educational Institutions
 
 ### Multiple copying under statutory licence by educational institutions
 
-52\.—(1) Subject to this section, the copyright in an article contained in a periodical publication is not infringed by the making of copies of the whole or a part of that article, by or on behalf of the body administering an educational institution for the teaching purposes of that or another educational institution.
+52\.—(1) Subject to this section, the copyright in an article contained in a periodical publication is not infringed by the making of copies of the whole or a part of that article, by or on behalf of the body administering an educational institution for the educational purposes of that or another educational institution.
 
-(2) Subject to this section, the copyright in a work, other than an article in a periodical publication, is not infringed by the making of copies of the whole or a part of that work, by or on behalf of the body administering an educational institution for the teaching purposes of that or another educational institution.
-
-(3) Without limiting the generality of subsection (1) or (2), a copy of a work shall be taken to have been made for the teaching purposes of an institution if —
-
-(a) it is made in connection with a particular course of instruction provided by that institution; or
-
-(b) it is made for the purpose of inclusion in the collection of a library of that institution.
+(2) Subject to this section, the copyright in a work, other than an article in a periodical publication, is not infringed by the making of copies of the whole or a part of that work, by or on behalf of the body administering an educational institution for the educational purposes of that or another educational institution.
 
 (4) Subsection (1) shall not apply in relation to copies of, or of parts of, two or more articles contained in the same periodical publication unless the articles relate to the same subject-matter.
 
 (5) Subsection (2) shall not apply in relation to copies of, or of more than a reasonable portion of, a work that has been separately published unless the person who makes the copies, or causes the copies to be made, for or on behalf of the body administering the educational institution, is satisfied, after reasonable investigation, that copies (not being second-hand copies) of the work cannot be obtained within a reasonable time at an ordinary commercial price.
 
-(6) Subsection (1) shall not apply to copies of the whole or a part of an article contained in a periodical publication, being copies made, by or on behalf of the body administering an educational institution, for the teaching purposes of an educational institution, unless there is made, by or on behalf of that body, as soon as practicable after the making of those copies, a record of the copying setting out such particulars as may be prescribed by the regulations.
+(6) Subsection (1) shall not apply to copies of the whole or a part of an article contained in a periodical publication, being copies made, by or on behalf of the body administering an educational institution, for the educational purposes of an educational institution, unless there is made, by or on behalf of that body, as soon as practicable after the making of those copies, a record of the copying setting out such particulars as may be prescribed by the regulations.
 
-(7) Subsection (2) shall not apply to copies of the whole or a part of a work (not being an article contained in a periodical publication), being copies made, by or on behalf of the body administering an educational institution, for the teaching purposes of an educational institution, unless there is made, by or on behalf of that body, as soon as practicable after the making of those copies, a record of the copying setting out such particulars as may be prescribed by the regulations.
+(7) Subsection (2) shall not apply to copies of the whole or a part of a work (not being an article contained in a periodical publication), being copies made, by or on behalf of the body administering an educational institution, for the educational purposes of an educational institution, unless there is made, by or on behalf of that body, as soon as practicable after the making of those copies, a record of the copying setting out such particulars as may be prescribed by the regulations.
 
 (8) For the purposes of subsections (6) and (7), a record of the copying of a work or a part of a work —
 
@@ -1620,7 +1876,7 @@ Copying of Works in Educational Institutions
 
 (b) if it is kept in writing, shall be in accordance with the prescribed form.
 
-(9) Where copies of, or of part of, a work, other than an article in a periodical publication, made as provided in subsection (2) by or on behalf of an educational institution for the teaching purposes of an educational institution —
+(9) Where copies of, or of part of, a work, other than an article in a periodical publication, made as provided in subsection (2) by or on behalf of an educational institution for the educational purposes of an educational institution —
 
 (a) are made for distribution to persons undertaking a correspondence course, or an external study course, provided by the educational institution for the teaching purposes of which those copies are made, otherwise than as a part of the lecture notes prepared in connection with that course; and
 
@@ -1628,13 +1884,19 @@ Copying of Works in Educational Institutions
 
 the record made in relation to them in accordance with subsection (7) may state that they are copies to which this subsection applies.
 
-(10) Where copies of, or of part of, a work consisting of an article in a periodical publication made, as provided in subsection (1), by or on behalf of the body administering an educational institution for the teaching purposes of an educational institution are made for distribution to persons undertaking a correspondence course, or an external study course, provided by the educational institution for the teaching purposes of which those copies are made, otherwise than as a part of the lecture notes prepared in connection with that course, the record made in relation to them in accordance with subsection (6) may state that they are copies to which this subsection applies.
+(10) Where copies of, or of part of, a work consisting of an article in a periodical publication made, as provided in subsection (1), by or on behalf of the body administering an educational institution for the educational purposes of an educational institution are made for distribution to persons undertaking a correspondence course, or an external study course, provided by the educational institution for the educational purposes of which those copies are made, otherwise than as a part of the lecture notes prepared in connection with that course, the record made in relation to them in accordance with subsection (6) may state that they are copies to which this subsection applies.
 
 (11) Where copies of the whole or a part of a work, not being copies stated in the record to be copies to which subsection (9) or (10) applies, are made by or on behalf of the body administering an educational institution and, by virtue of this section, the making of those copies does not infringe copyright in the work, that body shall, if the owner of the copyright in the work makes a request, in writing, at any time during the prescribed period after the making of the copies, for payment for the making of the copies, pay to the owner such an amount by way of equitable remuneration for the making of those copies as is agreed upon between the owner and the body or, in default of agreement, as is determined by the Copyright Tribunal on the application of either the owner or the body.
 
 (12) Where the Copyright Tribunal has determined the amount of equitable remuneration payable to the owner of copyright in a work by the body administering an educational institution in relation to copies of the whole or a part of that work that have been made by or on behalf of that body in reliance on this section, the owner may recover that amount from the body in a court of competent jurisdiction as a debt due to him.
 
 (13) Nothing in this section shall affect the right of the owner of copyright in a work to grant a licence authorising the body administering an educational institution to make, or cause to be made, copies of the whole or a part of the work without infringement of that copyright.
+
+### Things done for purposes of examination
+
+52A\. The copyright in a work is not infringed by anything done for the purposes of an examination, whether by way of setting the questions, communicating the questions to the candidates or answering the questions.
+
+[6/98 wef 16/04/1998]
 
 ### Application of Division to illustrations accompanying articles and other works
 
@@ -1690,6 +1952,34 @@ Copying of Works in Institutions Assisting Handicapped Readers
 
 (15) In this section, a reference to a photographic version of a work or a part of a work shall be read as a reference to a copy or copies of the work or a part of a work produced as a film-strip or series of separate transparencies designed to meet the needs of handicapped readers.
 
+### Multiple copying under statutory licence by institutions assisting intellectually handicapped readers
+
+54A\.—(1) The copyright in a work that has been published is not infringed by the making, by or on behalf of the body administering an institution assisting intellectually handicapped readers, of a copy of the whole or a part of the work, for use in the provision, whether by the institution or otherwise, of assistance to intellectually handicapped persons.
+
+(2) Subsection (1) shall not apply to the making of any copy of a work, being a work that has been separately published in a form that would be suitable for use in the provision of the assistance referred to in that subsection, unless the person who makes that copy, or causes that copy to be made, for or on behalf of the body administering an institution assisting intellectually handicapped readers, is satisfied after reasonable investigation that no new copy of the work in a form suitable for use in the provision of that assistance can be obtained within a reasonable time at an ordinary commercial price.
+
+(3) For the purposes of subsection (2), a copy shall be taken to be new if it is not secondhand.
+
+(4) Subsection (1) shall not apply to the reproduction of the whole or a part of an article contained in a periodical publication by way of the making, by or on behalf of the body administering an institution assisting intellectually handicapped readers, of an intellectually handicapped reader’s copy of the article or of that part of the article unless there is made, by or on behalf of that body, as soon as practicable after the making of that copy, a record of the copying setting out such particulars as may be prescribed by regulations.
+
+(5) Subsection (1) shall not apply to the reproduction of the whole or a part of a work (not being an article contained in a periodical publication) by way of the making, by or on behalf of the body administering an institution assisting intellectually handicapped readers, of an intellectually handicapped reader’s copy of the work or of that part of the work unless there is made, by or on behalf of that body, as soon as practicable after the making of that copy, a record of the copying setting out such particulars as may be prescribed by regulations.
+
+(6) For the purposes of subsections (4) and (5), a record of the copying of a work or a part of a work —
+
+(a) shall be kept in writing or in any other manner prescribed by regulations; and
+
+(b) if it is kept in writing, shall be in accordance with the prescribed form.
+
+(7) Where an intellectually handicapped reader’s copy of the whole or a part of a work is made by or on behalf of the body administering an institution assisting intellectually handicapped readers and, by virtue of this section, the making of that copy does not infringe copyright in the work, that body shall, if the owner of the copyright in the work makes a request, in writing, at any time during the prescribed period after the making of the copy, for payment for the making of the copy, pay to the owner such an amount by way of equitable remuneration for the making of that copy as is agreed upon between the owner and the body, or, in default of agreement, such amount as is determined by the Copyright Tribunal on the application of either the owner or the body.
+
+(8) Where the Copyright Tribunal has determined the amount of equitable remuneration payable to the owner of the copyright in a work by the body administering an institution assisting handicapped readers in relation to an intellectually handicapped reader’s copy of the whole or a part of that work that has been made by or on behalf of that body in reliance on this section, the owner may recover that amount from the body in a court of competent jurisdiction as a debt due to him.
+
+(9) Notwithstanding any other provision of this Act, copyright shall not vest in the maker of the intellectually handicapped reader’s copy by reason of his making that copy.
+
+(10) Nothing in this section shall affect the right of the owner of the copyright in a work to grant a licence authorising the body administering an institution assisting intellectually handicapped readers to make, or cause to be made, copies of the whole or a part of the work without infringement of that copyright.
+
+[Act 6/98 wef 16/04/1998]
+
 Division 8 —
 
 Recording of Musical Works
@@ -1722,7 +2012,9 @@ Recording of Musical Works
 
 (c) the manufacturer intends to sell the record by retail, or to supply it for the purpose of its being sold by retail by another person, or intends to use it for making other records which are to be so sold or supplied; and
 
-(d) in the case of a record which is sold by retail, the manufacturer pays to the owner of the copyright, in the prescribed manner and at the prescribed time, a royalty of an amount ascertained in accordance with this section.
+(d) in the case of a record which is sold by retail or supplied for the purpose of its being sold by retail by another person, the manufacturer pays to the owner of the copyright, in the prescribed manner and at the prescribed time, a royalty of an amount ascertained in accordance with the provisions of this Division.
+
+[Act 6/98 wef 16/04/1998]
 
 (2) Subsection (1) shall not apply in relation to a record of an adaptation of a musical work if the adaptation debases the work.
 
@@ -1870,6 +2162,14 @@ Acts not Constituting Infringements of Copyright in Artistic Works
 
 (4) A person who has given an undertaking referred to in subsection (3) shall be liable, when the Copyright Tribunal has determined the amount to which the undertaking relates, to pay that amount to the owner of the copyright in the work and the owner may recover that amount in a court of competent jurisdiction from the person as a debt due to the owner.
 
+(5) Subsection (1) shall not apply in relation to a film unless all the copies of the film are destroyed or are delivered, with the consent of the director of the National Archives, to the National Archives of Singapore —
+
+(a) before the expiration of the period of 6 months or, in the case of a film made by a non-profit organisation solely for its own broadcast, 2 years, commencing on the day on which any of the copies of the film is first used for including the work in a television broadcast in accordance with that subsection; or
+
+(b) before the expiration of such further period, if any, as is agreed between the maker of the film and the owner of the copyright in the work.
+
+[Act 6/98 wef 16/04/1998]
+
 ### Reproduction of work in different dimensions
 
 69\. For the purposes of this Act —
@@ -1956,11 +2256,11 @@ subsections (3), (4) and (5) shall apply.
 
 (3) Subject to subsection (5) —
 
-(a) during the relevant period of15 years, it shall not be an infringement of the copyright in the work to do anything which, at the time when it is done, would have been within the scope of the copyright in the design if the design had, immediately before that time, been registered in respect of all relevant articles; and
+(a) during the relevant period of 25 years, it shall not be an infringement of the copyright in the work to do anything which, at the time when it is done, would have been within the scope of the copyright in the design if the design had, immediately before that time, been registered in respect of all relevant articles; and
 
-(b) after the end of the relevant period of15 years, it shall not be an infringement of the copyright in the work to do anything which, at the time when it is done, would, if the design had been registered immediately before that time, have been within the scope of the copyright in the design as extended to all associated designs and articles.
+(b) after the end of the relevant period of 25 years, it shall not be an infringement of the copyright in the work to do anything which, at the time when it is done, would, if the design had been registered immediately before that time, have been within the scope of the copyright in the design as extended to all associated designs and articles.
 
-(4) In subsection (3), “the relevant period of15 years 25 years” means the period of 15 years beginning with the date on which articles, such as are mentioned in subsection (2)(b), were first sold, let for hire or offered for sale or hire, whether in Singapore or elsewhere.
+(4) In subsection (3), “the relevant period of” means the period of 25 years beginning with the date on which articles, such as are mentioned in subsection (2)(b), were first sold, let for hire or offered for sale or hire, whether in Singapore or elsewhere.
 
 (5) For the purposes of subsections (2) and (3), no account shall be taken of any articles in respect of which, at the time when they were sold, let for hire, or offered for sale or hire, the design in question was excluded from registration under the provisions of the Registered Designs Act 1949 of the United Kingdom, or any Act amending or substituting for that Act, by rules made under that Act or such other Act (which relates to the exclusion of designs for articles which are primarily literary or artistic in character); and for the purposes of any proceedings under this Act a design shall be conclusively presumed to have been so excluded if —
 
@@ -2044,7 +2344,21 @@ Nature of Copyright in Subject-matter other than Works
 
 ### Nature of copyright in sound recordings
 
-82\. For the purposes of this Act, unless the contrary intention appears, copyright, in relation to a sound recording, is the exclusive right to make a copy of the sound recording.
+82\.—(1) For the purposes of this Act, unless the contrary intention appears, copyright, in relation to a sound recording, is the exclusive right to do all or any of the following acts:
+
+(a) to make a copy of the sound recording;
+
+(b) to enter into a commercial rental arrangement in respect of the recording.
+
+(2) Subsection (1)(b) shall not extend to entry into a commercial rental arrangement in respect of a sound recording if —
+
+(a) the copy of the sound recording, not being an infringing copy, was purchased by a person (referred to in this subsection as the record owner) before the commencement of the Copyright (Amendment) Act 1998;
+
+(b) the commercial rental arrangement is entered into in the ordinary course of a business conducted by the record owner; and
+
+(c) the record owner was conducting the same business, or another business that consisted of, or included, the making of commercial rental arrangements in respect of copies of sound recordings, when the copy was purchased.
+
+[6/98 wef 16/04/1998]
 
 ### Nature of copyright in cinematograph films
 
@@ -2244,11 +2558,9 @@ Infringement of Copyright in Subject-matter other than Works
 
 ### Interpretation
 
-102\. In this Division —
+102\. In this Division, “audio-visual item” means a sound recording, a cinematograph film, a sound broadcast, a television broadcast or a cable programme.
 
-“audio-visual item” means a sound recording, a cinematograph film, a sound broadcast, a television broadcast or a cable programme;
-
-“research” does not include industrial research or research carried out by bodies corporate (not being bodies corporate owned or controlled by the Government), companies, associations or bodies of persons carrying on any business.
+[6/98 wef 16/04/1998]
 
 ### Infringement by doing acts comprised in copyright
 
@@ -2306,9 +2618,25 @@ shall be taken to be the sale of those articles.
 
 ### Making of a copy of the sound recording for purposes of broadcasting
 
-107\. The making by a person holding a broadcasting licence of a copy of the sound recording solely for the purpose of broadcasting shall not constitute an infringement of the copyright in the recording.
+107\.—(1) The copyright in a sound recording is not infringed by the making of a copy of a sound recording solely for the purpose of the broadcasting of the recording.
 
-[Act 15/94 wef 01/10/1994]
+(2) Subsection (1) shall not apply in relation to a copy of a sound recording if the copy is used for a purpose other than —
+
+(a) the broadcasting of the recording; or
+
+(b) the making of further copies of the sound recording for the purpose of the broadcasting of the recording.
+
+(3) Subsection (1) shall not apply in relation to a copy of a sound recording where the copy is used for the purpose of the broadcasting by a person who is not the maker of the copy unless the maker has paid to the owner of the copyright in the recording such amount as they agree or, in default of agreement, has given an undertaking in writing to the owner to pay to him such amount as is determined by the Copyright Tribunal, on the application of either of them, to be equitable remuneration to the owner for the making of the copy.
+
+(4) A person who has given an undertaking referred to in subsection (3) shall be liable, when the Copyright Tribunal has determined the amount to which the undertaking relates, to pay that amount to the owner of the copyright in the recording and the owner may recover that amount in a court of competent jurisdiction from the person as a debt due to the owner.
+
+(5) Subsection (1) shall not apply in relation to a copy of a sound recording unless all the copies made in accordance with that subsection are destroyed or are delivered, with the consent of the director of the National Archives, to the National Archives of Singapore —
+
+(a) before the expiration of the period of 6 months or, in the case of a copy made by a non-profit organisation solely for its own broadcast, 2 years, commencing on the day on which any of the copies made in accordance with that subsection is first used for broadcasting the recording in accordance with that subsection; or
+
+(b) before the expiration of such further period, if any, as is agreed between the maker of the copy and the owner of the copyright in the recording.
+
+[6/98 wef 16/04/1998]
 
 ### Provisions relating to cinematograph films
 
@@ -2396,6 +2724,24 @@ the making of the copy does not infringe copyright in the cinematograph film or 
 
 (b) the record or cinematograph film is not used except in the course of instruction at that institution.
 
+### Copying for course of instruction in making of film or soundtrack
+
+115A\. Copyright in a sound recording, cinematograph film, television broadcast, sound broadcast or cable programme is not infringed by its being copied in the making of —
+
+(a) a cinematograph film; or
+
+(b) a sound-track associated with the visual images forming part of a cinematograph film,
+
+in the course of instruction, or preparation for instruction, in the making of a cinematograph film or sound-track associated with the visual images forming part of a cinematograph film, if the copying is done by a person giving or receiving such instruction.
+
+[6/98 wef 16/04/1998]
+
+### Things done for purposes of examination
+
+115B\. A copyright subsisting by virtue of this Part is not infringed by anything done for the purposes of an examination, whether by way of setting the questions, communicating the questions to the candidates or answering the questions.
+
+[6/98 wef 16/04/1998]
+
 ### Reproductions of editions of work
 
 116\. The copyright in a published edition of a work or works is not infringed by the making of a reproduction of the whole or a part of that edition if that reproduction is made in the course of —
@@ -2404,13 +2750,13 @@ the making of the copy does not infringe copyright in the cinematograph film or 
 
 (i) a dealing with that work, being a dealing that does not, by virtue of section 35, 36, 37, 38 or 40, infringe copyright in that work; or
 
-(ii) the making of a copy (including a handicapped reader’s copy ) of the whole or a part of that work, being a copy the making of which does not, by virtue of section 45, 46, 48, 51, 52or 54 infringe copyright in that work; or
+(ii) the making of a copy (including a handicapped reader’s copy or an intellectually handicapped reader’s copy ) of the whole or a part of that work, being a copy the making of which does not, by virtue of section 45, 46, 48, 51, 52, 54 or 54A, infringe copyright in that work; or
 
 (b) where the edition contains more than one work —
 
 (i) a dealing with one of those works or dealings with some or all of those works, being a dealing that does not, or dealings that do not, by virtue of section 35, 36, 37, 38 or 40, infringe copyright in that work or those works; or
 
-(ii) the making of a copy (including a handicapped reader’s copy) of the whole or a part of one of those works or the making of copies (including the handicapped reader’s copies) of the whole or parts of some or all of those works, being a copy the making of which does not, or copies the making of which do not, by virtue of section 45, 46, 48, 51, 52or 54 infringe copyright in that work or in those works.
+(ii) the making of a copy (including a handicapped reader’s copy) or an intellectually handicapped reader’s copy of the whole or a part of one of those works or the making of copies (including the handicapped reader’s copies) or the intellectually handicapped reader’s copiesof the whole or parts of some or all of those works, being a copy the making of which does not, or copies the making of which do not, by virtue of section 45, 46, 48, 51, 52, 54 or 54A, infringe copyright in that work or in those works.
 
 ### Accessories to imported articles
 
@@ -2454,6 +2800,692 @@ Miscellaneous
 
 (2) The subsistence of copyright under any provision of this Part shall not affect the operation of any other provision of this Part under which copyright can subsist.
 
+## PART V
+
+REMEDIES FOR INFRINGEMENTS OF COPYRIGHT
+
+Division 1 —
+
+Preliminary
+
+### Interpretation
+
+118\.—(1) In this Part, “action” means a proceeding of a civil nature between parties, and includes a counterclaim.
+
+(2) In the application of this Part in relation to a counterclaim, references to the plaintiff and to the defendant shall be read as references to the defendant and to the plaintiff, respectively.
+
+Division 2 —
+
+Actions by Owner of Copyright
+
+### Actions for infringement
+
+119\.—(1) Subject to the provisions of this Act, the owner of a copyright may bring an action for an infringement of the copyright.
+
+(2) Subject to the provisions of this Act, the relief that a court may grant in an action for an infringement of copyright includes an injunction (subject to such terms, if any, as the court thinks fit) and either damages or an account of profits.
+
+(3) Where, in an action for infringement of copyright, it is established that an infringement was committed but it is also established that, at the time of the infringement, the defendant was not aware, and had no reasonable grounds for suspecting, that the act constituting the infringement was an infringement of the copyright, the plaintiff shall not be entitled under this section to any damages against the defendant in respect of the infringement, but shall be entitled to an account of profits in respect of the infringement whether any other relief is granted under this section or not.
+
+(4) Where, in an action under this section —
+
+(a) an infringement of copyright is established; and
+
+(b) the court is satisfied that it is proper to do so, having regard to —
+
+(i) the flagrancy of the infringement;
+
+(ii) any benefit shown to have accrued to the defendant by reason of the infringement; and
+
+(iii) all other relevant matters,
+
+the court may, in assessing damages for the infringement, award such additional damages as it considers appropriate in the circumstances.
+
+### Order for delivery up of infringing copies, etc.
+
+120\.—(1) Subject to the provisions of this Act, the court may, in addition to any relief granted under section 119 in any action for an infringement of copyright brought under that section, order any infringing copy, or any article specifically designed or adapted for making copies of a work or other subject-matter which has been used, or is to be used, for making infringing copies of the work or subject-matter, in the possession of the defendant or before the court to be delivered up to the plaintiff.
+
+(2) No order shall be made under this section unless the court also makes, or it appears to the court that there are grounds for making, an order under section 120A.
+
+(3) A person to whom an infringing copy or other object is delivered up pursuant to an order made under this section shall, if an order under section 120A is not made, retain the copy or object pending the making of an order, or the decision not to make an order, under section 120A.
+
+[6/98 wef 16/04/1998]
+
+### Order for disposal of infringing copies, etc.
+
+120A\.—(1) An application may be made to the court for an order that an infringing copy or other object delivered up pursuant to an order made under section 120 be —
+
+(a) forfeited to the plaintiff; or
+
+(b) destroyed or otherwise dealt with as the court thinks fit.
+
+(2) In considering what order, if any, should be made under this section, the court shall have regard to —
+
+(a) whether other remedies available in an action for infringement of copyright would be adequate to compensate the plaintiff and to protect the interests of the plaintiff; and
+
+(b) the need to ensure that no infringing copy is disposed of in a manner that would adversely affect the plaintiff.
+
+(3) The court shall issue directions as to the service of notice on persons having an interest in the copy or other object.
+
+(4) Any person having an interest in the copy or other object is entitled —
+
+(a) to appear in proceedings for an order under this section, whether or not that person is served with notice; and
+
+(b) to appeal against any order made, whether or not that person appears in the proceedings.
+
+(5) An order made under this section shall not take effect until the end of the period within which notice of an appeal may be given or, if before the end of that period notice of appeal is duly given, until the final determination or abandonment of the proceedings on the appeal.
+
+(6) Where there is more than one person interested in a copy or other object, the court may direct that the object be sold, or otherwise dealt with, and the proceeds divided, and shall make any other order as it thinks just.
+
+(7) If the court decides that no order should be made under this section, the person in whose possession the copy or other object was before being delivered up shall be entitled to its return, and the court may order the defendant to pay to the plaintiff such damages as the court thinks just and equitable.
+
+[6/98 wef 16/04/1998]
+
+Division 3 —
+
+Proceedings where Copyright is subject to Exclusive Licence
+
+### Interpretation
+
+121\. In this Division —
+
+“if the licence had been an assignment” means if, instead of the licence, there had been granted (subject to conditions corresponding as nearly as practicable with those subject to which the licence was granted) an assignment of the copyright in respect of its application to the doing, at the places and times authorised by the licence, of the acts so authorised;
+
+“the other party” means —
+
+(a) in relation to the owner of the copyright — the exclusive licensee; and
+
+(b) in relation to the exclusive licensee — the owner of the copyright.
+
+### Application
+
+122\. This Division shall apply to proceedings in relation to a copyright in respect of which an exclusive licence has been granted and is in force at the time of the events to which the proceedings relate.
+
+### Rights of exclusive licensee
+
+123\. Subject to this Division, the exclusive licensee shall, except against the owner of the copyright, have the same rights of action as the owner of the copyright would have, and be entitled to the same remedies as he would be entitled to, by virtue of sections 119 and 120if the licence had been an assignment, and those rights and remedies are concurrent with the rights and remedies of the owner of the copyright under those sections.
+
+### Joinder of owner or exclusive licensee as a party
+
+124\.—(1) Where —
+
+(a) an action is brought by the owner of the copyright or by the exclusive licensee; and
+
+(b) the action, insofar as it is brought under section 119, relates, in whole or in part, to an infringement in respect of which the owner and the licensee have concurrent rights of action under that section,
+
+the owner or licensee, as the case may be, shall not be entitled, except with the leave of the court, to proceed with the action, insofar as it is brought under that section and relates to that infringement, unless the other party is joined as a plaintiff in the action or added as a defendant.
+
+(2) This section shall not affect the granting of an interlocutory injunction on the application of the owner of the copyright or the exclusive licensee.
+
+### Defences available against exclusive licensee
+
+125\. In an action brought by the exclusive licensee by virtue of this Division, a defence under this Act that would have been available to a defendant in the action if the action had been brought by the owner of the copyright shall be available to that defendant as against the exclusive licensee.
+
+### Assessment of damages where exclusive licence granted
+
+126\. Where an action to which section 124 applies is brought and the owner of the copyright and the exclusive licensee are not both plaintiffs in the action, the court, in assessing damages in respect of an infringement of a kind referred to in that section, shall —
+
+(a) if the plaintiff is the exclusive licensee — take into account any liabilities, in respect of royalties or otherwise, to which the licence is subject; and
+
+(b) whether the plaintiff is the owner of the copyright or the exclusive licensee — take into account any pecuniary remedy already awarded to the other party under section 119 in respect of that infringement, or any right of action exercisable by the other party under that section in respect of that infringement, as the case requires.
+
+### Apportionment of profits between owner and exclusive licensee
+
+127\. Where —
+
+(a) an action, insofar as it is brought under section 119, relates, in whole or in part, to an infringement in respect of which the owner of the copyright and the exclusive licensee have concurrent rights of action under that section; and
+
+(b) in that action, whether the owner of the copyright and the exclusive licensee are both parties or not, an account of profits is directed to be taken in respect of that infringement,
+
+then, subject to any agreement of which the court is aware by which the application of those profits is determined as between the owner of the copyright and the exclusive licensee, the court shall apportion the profits between them in such a manner as the court considers just and shall give such directions as the court considers appropriate for giving effect to that apportionment.
+
+### Separate actions in relation to the same infringement
+
+128\. In an action brought by the owner of the copyright or by the exclusive licensee —
+
+(a) a judgment or order for the payment of damages in respect of an infringement of copyright shall not be given or made under section 119 if a final judgment or order has been given or made in favour of the other party directing an account of profits under that section in respect of the same infringement; and
+
+(b) a judgment or order for an account of profits in respect of an infringement of copyright shall not be given or made under that section if a final judgment or order has been given or made in favour of the other party awarding damages or directing an account of profits under that section in respect of the same infringement.
+
+### Liability for costs
+
+129\. Where, in an action to which section 124 applies, whether brought by the owner of the copyright or by the exclusive licensee, the other party is not joined as a plaintiff (either at the commencement of the action or at a later time), but is added as a defendant, the other party is not liable for any costs in the action unless he enters an appearance and takes part in the proceedings.
+
+Division 4 —
+
+Proof of Facts in Copyright Proceedings
+
+### Presumptions as to subsistence and ownership of copyright
+
+130\.—(1) In an action brought by virtue of this Part —
+
+(a) copyright shall be presumed to subsist in the work or other subject-matter to which the action relates if the defendant does not put in issue the question whether copyright subsists in the work or other subject-matter; and
+
+(b) where the subsistence of the copyright is established — the plaintiff shall be presumed to be the owner of the copyright if he claims to be the owner of the copyright and the defendant does not put in issue the question of his ownership.
+
+(2) Where a defendant, without good faith, puts in issue the questions of whether copyright subsists in a work or other subject-matter to which the action relates, or the ownership of copyright in such work or subject-matter, thereby occasioning unnecessary costs or delay in the proceedings, the court may direct that any costs to the defendant in respect of the action shall not be allowed to him and that any costs occasioned by the defendant to other parties shall be paid by him to such other parties.
+
+### Presumptions in relation to authorship of work
+
+131\.—(1) Where a name purporting to be that of the author of a literary, dramatic, musical or artistic work appeared on copies of the work as published or a name purporting to be that of the author of an artistic work appeared on the work when it was made, the person whose name so appeared, if it was his true name or a name by which he was commonly known, shall, in an action brought by virtue of this Part, be presumed, unless the contrary is established, to be the author of the work and to have made the work in circumstances to which section 30(4), (5) and (6) does not apply.
+
+(2) Where a work is alleged to be a work of joint authorship, subsection (1) shall apply in relation to each person alleged to be one of the authors of the work as if references in that subsection to the author were references to one of the authors.
+
+(3) Where, in an action brought by virtue of this Part in relation to a photograph —
+
+(a) it is established that, at the time when the photograph was taken, a person was the owner of the material on which the photograph was taken or, if the ownership of that material as at that time is not established, that a person was the owner of the apparatus by which the photograph was taken; or
+
+(b) neither the ownership as at the time when the photograph was taken of the material on which it was taken nor the ownership as at that time of the apparatus by which it was taken is established but it is established that, at the time of the death of a person, the photograph was owned by the person or, if the ownership of the photograph as at that time is not established, was in the possession or custody of the person,
+
+the person shall be presumed, unless the contrary is established, to have been the person who took the photograph.
+
+### Presumptions in relation to publisher of work
+
+132\. Where, in an action brought by virtue of this Part in relation to a literary, dramatic, musical or artistic work, section 131 does not apply, but it is established —
+
+(a) that the work was first published in Singapore and was so published during the period of 50 years that ended immediately before the commencement of the calendar year in which the action was brought; and
+
+(b) that a name purporting to be that of the publisher appeared on copies of the work as first published,
+
+then, unless the contrary is established, copyright shall be presumed to subsist in the work and the person whose name so appeared shall be presumed to have been the owner of that copyright at the time of the publication.
+
+### Presumptions where author has died
+
+133\.—(1) Where, in an action brought by virtue of this Part in relation to a literary, dramatic, musical or artistic work, it is established that the author is dead —
+
+(a) the work shall be presumed to be an original work unless the contrary is established; and
+
+(b) if it is alleged by the plaintiff that a publication specified in the allegation was the first publication of the work, and that it took place in a country and on a date so specified, that publication shall be presumed, unless the contrary is established, to have been the first publication of the work, and to have taken place in that country and on that date.
+
+(2) Where —
+
+(a) a literary, dramatic, musical or artistic work has been published;
+
+(b) the publication was anonymous or is alleged by the plaintiff to have been pseudonymous; and
+
+(c) it is not established that the work has ever been published under the true name of the author, or under a name by which he was commonly known, or that the identity of the author is generally known or can be ascertained by reasonable inquiry,
+
+subsection (1)(a) and (b) shall apply, in an action brought by virtue of this Part in relation to the work, in like manner as that subsection shall apply where it is established that the author is dead.
+
+### Evidence in relation to proceedings
+
+134\. In an action brought by virtue of this Part in relation to copyright in a sound recording, if records embodying the recording as supplied to the public bear a label or other mark stating —
+
+(a) that a person specified on the label or mark was the owner of copyright in the recording;
+
+(b) that the recording was first published in a specified year; or
+
+(c) that the recording was first published in a specified country,
+
+the label or mark shall be sufficient evidence of the facts so stated except insofar as the contrary is established.
+
+[6/98 wef 16/04/1998]
+
+### Presumptions in relation to maker of film
+
+135\. Where the name of a person appeared on copies of a cinematograph film as made available to the public in such a way as to imply that the person was the maker of the film and, in the case of a person other than a body corporate, that name was his true name or a name by which he was commonly known, that person shall, in an action brought by virtue of this Part, be presumed, unless the contrary is established, to be the maker of the film and to have made the film in circumstances to which section 98(3) does not apply.
+
+Division 5 —
+
+Offences
+
+### Offences
+
+136\.—(1) A person who at a time when copyright subsists in a work —
+
+(a) makes for sale or hire;
+
+(b) sells or lets for hire, or by way of trade offers or exposes for sale or hire; or
+
+(c) by way of trade exhibits in public,
+
+any article which he knows, or ought reasonably to know, to be an infringing copy of the work shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 for the article or for each article in respect of which the offence was committed or $100,000, whichever is the lower, or to imprisonment for a term not exceeding 5 years or to both.
+
+(2) A person who at a time when copyright subsists in a work has in his possession or imports into Singapore any article which he knows, or ought reasonably to know, to be an infringing copy of the work for the purpose of —
+
+(a) selling, letting for hire, or by way of trade offering or exposing for sale or hire, the article;
+
+(b) distributing the article for the purpose of trade, or for any other purpose to an extent that will affect prejudicially the owner of the copyright in the work; or
+
+(c) by way of trade exhibiting the article in public,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 for the article or for each article in respect of which the offence was committed or $100,000, whichever is the lower, or to imprisonment for a term not exceeding 5 years or to both.
+
+(3) Any person who, at a time when copyright subsists in a work, distributes, either —
+
+(a) for purposes of trade; or
+
+(b) for other purposes, but to such an extent as to affect prejudicially the owner of the copyright,
+
+articles which he knows, or ought reasonably to know, to be infringing copies of the work, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(4) A person who, at a time when copyright subsists in a work, makes or has in his possession an article specifically designed or adapted for making copies of the work that the person knows, or ought reasonably to know, is to be used for making infringing copies of the work, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 for each such article in respect of which the offence is committed or to imprisonment for a term not exceeding 2 years or to both.
+
+[6/98 wef 16/04/1998]
+
+(5) Subsections (1) to (4) shall apply in relation to copyright subsisting in any subject-matter by virtue of Part IV in like manner as they apply in relation to copyright subsisting in a work by virtue of Part III.
+
+(6) Any person who for his private profit causes a literary, dramatic or musical work to be performed in public, or causes a cinematograph film to be seen or heard or seen and heard in public, other than by the reception of a television broadcast or cable programme, where he knows, or ought reasonably to know, that copyright subsists in the work or cinematograph film and that the performance constitutes an infringement of the copyright, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(7) For the purposes of this section, any person who has in his possession 5 or more infringing copies of any work or other subject-matter shall, unless the contrary is proved, be presumed —
+
+(a) to be in possession of such copies otherwise than for private and domestic use; or
+
+(b) to be in possession of such copies for the purpose of sale.
+
+(8) The court before which a person is charged with an offence by reason of a contravention of any of the provisions of this section may, whether he is convicted of the offence or not, order that any article that appears to the court to be an infringing copy or any article specifically designed or adapted for making copies of a work or other subject-matter which has been used or is to be used for making infringing copies of the work or subject-matterin the possession of the alleged offender or before the court, be destroyed or delivered up to the owner of the copyright concerned or otherwise dealt with in such manner as the court thinks fit.
+
+(9) If information is given upon oath to a Magistrate that there is reasonable cause for suspecting that there is in any premises any article or document which is evidence that an offence under subsection (1), (2), (3) or (4) has been committed, the Magistrate may issue, either unconditionally or subject to such conditions as hethinks fit, a warrant authorising a police officer to enter and search the premises for the articles and documents which are specified in the warrant, and to seize such articles and documents found at the premises.
+
+[6/98 wef 16/04/1998]
+
+[38/99 wef 15/12/1999]
+
+(10) If an article was seized under subsection (9) and —
+
+(a) in proceedings brought under this section, no order is made under subsection (8) as to the article; or
+
+(b) no such proceedings are instituted within 6 months of the seizure,
+
+the article shall be returned to the person in whose possession it was when it was seized or, if it is not reasonably practicable to return it to that person, shall be disposed of in accordance with the law regulating the disposal of lost or unclaimed property in the hands of police authorities.
+
+[6/98 wef 16/04/1998]
+
+(11) If a document was seized under subsection (9) and no proceedings under this section are instituted within 6 months of the seizure, the document and all copies of the document shall be returned to the person in whose possession the document was when it was seized or, if it is not reasonably practicable to return the document and copies to that person, shall be disposed of in accordance with the law regulating the disposal of lost or unclaimed property in the hands of police authorities.
+
+[6/98 wef 16/04/1998]
+
+(12) For the purposes of this section —
+
+“document” means anything in which information of any description is recorded;
+
+“premises” includes any land, building, structure and conveyance.
+
+[6/98 wef 16/04/1998]
+
+### Affidavit evidence
+
+137\.—(1) An affidavit made before a notary public by or on behalf of the owner of the copyright in any work or other subject-matter and stating —
+
+(a) that at the time specified therein, copyright subsisted in the work or other subject-matter;
+
+(b) that he or the person named therein is the owner of the copyright; and
+
+(c) that the copy of the work or other subject-matter annexed thereto is a true copy thereof,
+
+shall be admitted in evidence in any proceedings for an offence under this Part and shall be prima facie proof of the matters stated therein until the contrary is proved, and the court before which such affidavit is produced shall presume that the affidavit was made by or on behalf of the owner of the copyright.
+
+(2) If an accused to any proceedings for an offence under this Part desires in good faith that the person who made an affidavit referred to in subsection (1) be cross-examined with respect to the matters in the affidavit, the affidavit may not be used in the proceedings unless the person appears as a witness for such cross-examination or the court before which the proceedings are being conducted, in its discretion, permits the affidavit to be used without the person so appearing.
+
+### Powers of police officer
+
+138\.—(1) Any police officer may arrest without warrant any person who, in any street or public place —
+
+(a) sells or exposes or offers for sale; or
+
+(b) has, or is reasonably suspected of having, in his possession for the purpose of selling or letting for hire,
+
+any infringing copy of any work or other subject-matter.
+
+(2) Any police officer may stop and search and forcibly board any vehicle in which he reasonably suspects that there is any infringing copy of any work or other subject-matter and seize, remove or detain any such infringing copy and anything which appears to him to be or to contain, or likely to be or to contain, evidence of an offence under this Act.
+
+### Advertisement for supply of infringing copies of computer programs
+
+139\.—(1) Any person who, by any means, publishes, or causes to be published, in Singapore an advertisement for the supply in Singapore (whether from within or outside Singapore) of a copy of a computer program which is an infringing copy shall, unless he proves that he acted in good faith and had no reasonable grounds for supposing that copyright would or might thereby be infringed, be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(2) For the purposes of this section, a transmission of a computer program that, when received and recorded, will result in the creation of a copy of the computer program shall be deemed to constitute the supply of a copy of the computer program at the place where the copy will be created.
+
+### Court for trial of offences
+
+140\. Notwithstanding the provisions of any written law to the contrary, a District Court or Magistrate’s Court shall have jurisdiction to try any offence under this Act and award the full punishment for such offence.
+
+Division 6 —
+
+Border Enforcement Measures
+
+### Interpretation
+
+140A\. In this Division and Division 7, unless the context otherwise requires —
+
+“aircraft” has the same meaning as in the Regulation of Imports and Exports Act (Cap. 272A);
+
+“authorised officer” means —
+
+(a) an officer of customs as defined in section 3 of the Customs Act (Cap. 70); or
+
+(b) any officer or class or description of officers appointed by the Minister by notification in theGazetteto exercise the powers and perform the duties conferred and imposed on an authorised officer by this Division and Division 7;
+
+“copyright material” means —
+
+(a) a work;
+
+(b) a sound recording;
+
+(c) a cinematograph film;
+
+(d) a published edition of a work; or
+
+(e) a television or sound broadcast as recorded in a cinematograph film or a sound recording;
+
+“Director-General” means the Director-General of Customs and Excise appointed under section 4(1) of the Customs Act (Cap. 70);
+
+“goods in transit” means goods imported, whether or not landed or transhipped within Singapore, which are to be carried to another country either by the same or another conveyance;
+
+“master” has the same meaning as in the Regulation of Imports and Exports Act (Cap. 272A);
+
+“objector”, in relation to particular seized copies, means the person who gave the notice under section 140B(1) as a result of the giving of which the copies were seized;
+
+“owner”, in relation to the copyright in copyright material, includes an exclusive licensee of the copyright in the material;
+
+“pilot of an aircraft” has the same meaning as in the Regulation of Imports and Exports Act;
+
+“seized copies” means copies seized under section 140B(7);
+
+“senior authorised officer” means —
+
+(a) a senior officer of customs as defined in section 3 of the Customs Act; and
+
+(b) any officer or class or description of officers appointed by the Minister by notification in theGazetteto exercise the powers and perform the duties conferred and imposed on a senior authorised officer by Division 7;
+
+“vehicle” has the same meaning as in the Regulation of Imports and Exports Act;
+
+“vessel” has the same meaning as in the Regulation of Imports and Exports Act.
+
+### Restriction of importation of copies of works, etc.
+
+140B\.—(1) A person may give the Director-General a written notice stating —
+
+(a) that he is the owner of the copyright in copyright material;
+
+(b) that, at a time and place specified in the notice, copies of the copyright material to which this section applies are expected to be imported; and
+
+(c) that he objects to such importation.
+
+(2) A notice given under subsection (1) shall be supported by such documents and information as may be prescribed in regulations.
+
+(3) Subject to subsection (4), this section shall apply to copies of copyright material made wholly or partly outside Singapore the making of which was carried out without the consent of the owner of the copyright.
+
+(4) This section shall not apply to copies of copyright material which are goods in transit.
+
+(5) Unless it is revoked under subsection (6), a notice under subsection (1) shall remain in force until —
+
+(a) the end of the period of 60 days commencing on the day on which the notice was given; or
+
+(b) the end of the period for which the copyright in the copyright material to which the notice relates is to subsist,
+
+whichever is the earlier.
+
+(6) A notice under subsection (1) may be revoked by written notice given to the Director-General by the person who gave the first-mentioned notice or by a subsequent owner of the copyright in the copyright material to which the notice relates.
+
+(7) If —
+
+(a) a notice has been given under this section in respect of copyright material;
+
+(b) the notice has not lapsed or been revoked; and
+
+(c) a person imports copies of the copyright material to which this section applies for the purpose of —
+
+(i) selling, letting for hire, or by way of trade offering or exposing for sale or hire, the copies;
+
+(ii) distributing the copies for the purpose of trade;
+
+(iii) distributing the copies for any other purpose to an extent that will affect prejudicially the owner of the copyright in the copyright material; or
+
+(iv) by way of trade exhibiting the copies in public,
+
+an authorised officer may seize the copies.
+
+(8) The Minister may make regulations to provide for —
+
+(a) the forms of notices under this section;
+
+(b) the times at which, and the manner in which, notices are to be given; and
+
+(c) the giving of information and evidence to the Director-General.
+
+### Security for liability or expense of seizure
+
+140C\. An authorised officer may refuse to seize copies under section 140B(7) unless —
+
+(a) the objector has deposited with the Director-General a sum of money that, in the opinion of the Director-General, is sufficient to reimburse the Government for any liability or expense it is likely to incur as a result of the seizure of the copies; or
+
+(b) the objector has given security, to the satisfaction of the Director-General, for the reimbursement of the Government for any such liability or expense.
+
+### Secure storage of seized copies
+
+140D\. Seized copies shall be taken to such secure place as the Director-General directs.
+
+### Notice of seizure
+
+140E\.—(1) As soon as is practicable after copies are seized under section 140B(7), the Director-General shall give to the importer and the objector, either personally or by post, a written notice identifying the copies and stating that the identified copies have been seized.
+
+(2) A notice under subsection (1) shall state that the copies will be released to the importer unless —
+
+(a) an action for infringement of copyright in respect of the copies is instituted by the objector within a specified period from the day specified in the notice; and
+
+(b) the objector gives written notice to the Director-General within that period stating that the action for infringement of copyright has been instituted.
+
+(3) The period to be specified for the purposes of paragraph (a) of subsection (2) is the period prescribed for the purposes of that paragraph.
+
+(4) The day specified for the purposes of subsection (2)(a) shall not be earlier than the day on which the notice is given.
+
+(5) The objector may, by written notice given to the Director-General before the end of the period specified in a notice for the purposes of subsection (2)(a) (the retention period), request that the period be extended.
+
+(6) Subject to subsection (7), if —
+
+(a) a request is made in accordance with subsection (5); and
+
+(b) the Director-General is satisfied that it is reasonable that the request be granted,
+
+the Director-General may extend the retention period by such period as is prescribed.
+
+(7) A decision on a request made in accordance with subsection (5) shall be made within 2 working days after the request is made, but such a decision cannot be made after the end of the retention period to which the request relates.
+
+### Inspection, release, etc., of seized copies
+
+140F\.—(1) The Director-General may permit the objector or the importer to inspect the seized copies.
+
+(2) If the objector gives the requisite undertakings, the Director-General may permit the objector to remove one sample of the seized copies from the custody of the Director-General for inspection by the objector.
+
+(3) If the importer gives the Director-General the requisite undertakings, the Director-General may permit the importer to remove one sample of the seized copies from the custody of the Director-General for inspection by the importer.
+
+(4) The requisite undertakings are undertakings in writing that the person giving the undertaking will —
+
+(a) return the sample copy to the Director-General at a specified time that is satisfactory to the Director-General; and
+
+(b) take reasonable care to prevent damage to the sample copy.
+
+(5) If the Director-General permits inspection of the seized copies, or the removal of a sample copy, by the objector in accordance with this section, the Director-General is not liable to the importer for any loss or damage suffered by the importer arising out of —
+
+(a) damage to any of the seized copies incurred during that inspection; or
+
+(b) anything done by the objector or any other person to, or in relation to, a sample copy removed from the custody of the Director-General or any use made by the objector of such a sample copy.
+
+### Forfeiture of seized copies by consent
+
+140G\.—(1) Subject to subsection (2), the importer may, by written notice to the Director-General, consent to the seized copies being forfeited to the Government.
+
+(2) The notice shall be given before any action for infringement of copyright in relation to the copies is instituted.
+
+(3) If the importer gives such a notice, the copies are forfeited to the Government and shall be disposed of —
+
+(a) in the manner prescribed by the regulations; or
+
+(b) if no manner of disposal is so prescribed, as the Director-General directs.
+
+### Compulsory release of the seized copies to the importer
+
+140H\.—(1) The Director-General shall release seized copies (not being copies forfeited to the Government under section 140G) to the importer on the expiration of the retention period for the copies if the objector has not, before the expiration of that period —
+
+(a) instituted an action for infringement of the relevant copyright in respect of the copies; and
+
+(b) given written notice to the Director-General stating that the action has been instituted.
+
+(2) For the purpose of subsection (1), the retention period for seized copies is —
+
+(a) the period specified in a notice given under section 140E in respect of the copies; or
+
+(b) if that period has been extended under section 140E, that period as so extended.
+
+(3) If —
+
+(a) an action for infringement of copyright has been instituted in respect of seized copies; and
+
+(b) at the end of the period of 3 weeks commencing on the day on which the action was instituted, there is not in force an order of the court in which the action was instituted preventing the release of the copies,
+
+the Director-General shall release the copies to the importer.
+
+(4) If the objector gives written notice to the Director-General stating that he consents to the release of the seized copies, the Director-General shall release the copies to the importer.
+
+(5) This section shall have effect subject to section 140J.
+
+### Provision relating to actions for infringement of copyright
+
+140I\.—(1) In this section , “infringement action” means an action for an infringement of copyright constituted by the importation of seized copies.
+
+(2) The court in which an infringement action is pending may, on the application of a person having a sufficient interest in the subject-matter of the action, allow the person to be joined as a defendant to the action.
+
+(3) An authorised officer is entitled to be heard on the hearing of an infringement action.
+
+(4) In addition to any relief that may be granted apart from this section, the court may —
+
+(a) at any time, order that the seized copies be released to the importer subject to such conditions, if any, as the court thinks fit;
+
+(b) order that the seized copies not be released to the importer before the end of a specified period; or
+
+(c) order that the goods be forfeited to the Government.
+
+(5) A court may not make an order under subsection (4)(a) if it is satisfied that the Government or any statutory authority is required or permitted under any other law to retain control of the seized copies.
+
+(6) The Director-General shall comply with an order made under subsection (4).
+
+(7) If —
+
+(a) the court decides that the relevant copyright was not infringed by the importation of the seized copies; and
+
+(b) a defendant to the infringement action satisfies the court that he has suffered loss or damage as a result of the seizure of the copies,
+
+the court may order the objector to pay compensation in such amount as the court thinks fit to that defendant.
+
+### Retention of control of seized copies
+
+140J\. Notwithstanding section 140H, in a case in which no order has been made under section 140I(4) in relation to seized copies, the Director-General is not obliged to release or dispose of the copies if the Government is required or permitted, under any other law, to retain control of the copies.
+
+### Disposal of seized copies ordered to be forfeited
+
+140K\. If a court orders that seized copies are to be forfeited to the Government, the copies shall be disposed of —
+
+(a) in the manner prescribed by the regulations; or
+
+(b) if no manner of disposal is so prescribed, as the Director-General directs.
+
+### Insufficient security
+
+140L\.—(1) If the reasonable expenses incurred by the Director-General in relation to any action taken by the Director-General under this Division, or taken in accordance with an order of a court under this Division exceed the amount deposited, or the amount of the security given, under section 140C, the amount of the excess is a debt due to the Government.
+
+(2) The debt created by subsection (1) is due by the objector, or, if there are 2 or more objectors, by the objectors jointly and severally.
+
+Division 7 —
+
+Powers of Search
+
+### Powers of search in relation to vessels, aircraft and vehicles
+
+140M\.—(1) A senior authorised officer or an authorised officer acting in accordance with the general or special directions of a senior authorised officer may board any conveyance in Singapore and may rummage and search all parts of the conveyance for copies of copyright material liable to be seized under section 140B(7).
+
+(2) For the more effective exercise of the powers conferred by this section, a senior authorised officer may do all or any of the following:
+
+(a) require the master of any vessel in Singapore to heave to;
+
+(b) by direction to the master of any vessel or the pilot of any aircraft in Singapore, require the vessel or aircraft, as the case may be, not to proceed until so authorised;
+
+(c) require any documents which ought to be on board any vessel or aircraft, being documents relating to any goods therein, to be brought to him for inspection;
+
+(d) break open and forcibly enter any place or receptacle in any conveyance to which he cannot otherwise reasonably obtain access;
+
+(e) by direction to the master of any vessel in Singapore, require the vessel to proceed to any specified anchorage, wharf or place to which the vessel may lawfully go;
+
+(f) by direction to the master of any vessel in Singapore, require him to move or discharge any cargo or other goods therein;
+
+(g) require the person in charge of a vehicle —
+
+(i) to stop and not to proceed until so authorised; or
+
+(ii) to bring the vehicle to any police station or examination station;
+
+(h) direct that the removal of any goods from or placed in any vessel be prohibited until so authorised;
+
+(i) require the master of any vessel or the pilot of any aircraft to produce a complete manifest of the whole cargo of the vessel or aircraft and a complete list of stores carried by that vessel or aircraft.
+
+(3) An authorised officer may exercise, in respect of any vehicle or any vessel not exceeding 75 tons net tonnage, the powers which are conferred upon a senior authorised officer by subsection (2) other than the powers conferred by paragraph (d) of that subsection.
+
+(4) It shall be presumed in any proceedings arising out of any thing done under this section, unless the contrary is proved, that any authorised officer, not being a senior authorised officer, by whom the thing was done was acting in accordance with the general or special direction of a senior authorised officer.
+
+(5) If any vessel or aircraft fails to comply with any lawful requisition or direction given or made under this section, a senior authorised officer may take all such steps as appear to him necessary to secure such compliance.
+
+(6) Any person who contravenes this section or who fails to comply with any lawful requisition or direction given or made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(7) An authorised officer may exercise the powers conferred by this section in respect of a vessel under way if he reasonably suspects that it is not in transit through Singapore.
+
+### Examination of packages
+
+140N\.—(1) Any goods, package, box, chest or other article which is being or has recently been imported and in regard to which a reasonable suspicion exists that it is or that it contains a copy of copyright material liable to be seized under section 140B(7) may be —
+
+(a) examined and searched by an authorised officer or detained until any person in charge thereof has opened it for examination and search;
+
+(b) subjected to such tests or analysis as the authorised officer thinks fit;
+
+(c) forcibly opened by, or by order of, a senior authorised officer to facilitate the examination and search except that any person in charge of the package, box, chest or other article shall be afforded every reasonable facility for being present at the opening, examination and search; or
+
+(d) marked, locked, sealed or otherwise secured by an authorised officer pending examination and search.
+
+(2) Any person, other than an authorised officer, who removes, opens, breaks or tampers with any lock, seal or other means of securing any goods, package, box, chest or other article referred to in subsection (1)(d) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+### Power to remove packages and goods to police station or examination station
+
+140O\.—(1) For the more convenient exercise of the powers conferred by section 140N, an authorised officer may remove any package, box, chest or other article or any goods to a police station or examination station or may require it to be so removed by the owner thereof or his agent or any person having the custody, charge or control thereof.
+
+(2) Any person who fails to comply with any such requisition shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000.
+
+(3) Upon the failure by a person to comply with such a requisition, an authorised officer may remove the goods in the manner provided by subsection (1) and all the expenses of such removal (as certified by a senior authorised officer) shall be recoverable as a fine from that person or from the owner of the goods.
+
+### Search of persons and baggage
+
+140P\.—(1) Any person landing or being about to land or having recently landed from any vessel or aircraft, or leaving any vessel or aircraft in Singapore whether for the purpose of landing or otherwise, or entering or having recently entered Singapore by land, sea or air, shall —
+
+(a) on demand by an authorised officer, either permit his person and goods and baggage to be searched by the officer for any copy of copyright material liable to be seized under section 140B(7) or, together with the goods and baggage, accompany the officer to a police station or an examination station, and there permit his person and goods and baggage to be searched in the presence and under the supervision of a senior authorised officer for any copy of copyright material liable to be seized under section 140B(7); or
+
+(b) on demand by a senior authorised officer, permit his person and goods and baggage to be searched by the officer, or in the presence and under the supervision of the officer, for any copy of copyright material liable to be seized under section 140B(7).
+
+(2) Whenever it is necessary to cause a woman to be searched, the search shall be made by another woman and with strict regard to decency.
+
+(3) The goods and baggage of any person who requests to be present when they are searched shall not be searched except in his presence, unless he fails to be present after being given reasonable facility for being present.
+
+(4) Any person who refuses to comply with any lawful demand made under this section may be arrested without warrant by the authorised officer making the demand.
+
+### Powers of authorised officers to enter certain premises
+
+140Q\.—(1) For the purpose of exercising the powers conferred by sections 140M to 140P, an authorised officer may, without warrant, enter upon any islet, landing place, wharf, dock, railway or quay or the premises of a provider of port services or facilities licensed or exempted under the Maritime and Port Authority of Singapore Act (Cap. 170A), or of the Civil Aviation Authority of Singapore.
+
+(2) In this section, “railway” has the same meaning as in the Railways Act (Cap. 263).
+
+### Obstruction
+
+140R\. Any person who —
+
+(a) refuses any authorised officer or senior authorised officer access to any vessel, aircraft, vehicle or place which the officer is entitled under this Division; or
+
+(b) obstructs or hinders any authorised officer or senior authorised officer in the execution of any power conferred upon that officer by this Division,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+Division 8 —
+
+Miscellaneous
+
+### Limitation of actions in respect of infringement of copyright
+
+141\. An action shall not be brought for an infringement of copyright, after the expiration of 6 years from the time when the infringement took place.
+
 ## PART VI
 
 COMPULSORY LICENCES FOR TRANSLATION AND REPRODUCTION OF CERTAIN WORKS
@@ -2467,8 +3499,6 @@ COMPULSORY LICENCES FOR TRANSLATION AND REPRODUCTION OF CERTAIN WORKS
 (a) a citizen of Singapore, or an individual resident in Singapore; or
 
 (b) a body corporate incorporated under any written law in Singapore;
-
-“research” shall not include industrial research, or research carried out by bodies corporate (not being bodies corporate owned or controlled by the Government), companies, associations or bodies of persons carrying on any business;
 
 “purposes of teaching, research or scholarship” includes —
 
@@ -2630,7 +3660,13 @@ Preliminary
 
 149\.—(1) In this Part, unless the contrary intention appears —
 
-“licence” means a licence granted by or on behalf of the owner or prospective owner of the copyright in a literary, dramatic or musical work, being a licence to perform the work or an adaptation of the work in public, to broadcast the work or an adaptation of the work, to make a sound recording or cinematograph film of the work or of an adaptation of the work for the purpose of broadcasting the work or adaptation or including it in a cable programme service;
+“licence” —
+
+(a) in relation to a literary, dramatic or musical work, means a licence granted by or on behalf of the owner or prospective owner of the copyright in the work to perform the work or an adaptation of the work in public, to broadcast the work or an adaptation of the work, to make a sound recording or cinematograph film of the work or an adaptation of the work for the purpose of broadcasting the work or adaptation or including it in a cable programme service; or
+
+(b) in relation to a computer program or sound recording, means a licence granted by or on behalf of the owner or prospective owner of the copyright in the program or recording to enter a commercial rental agreement in respect of the program or recording;".
+
+[6/98 wef 16/04/1998]
 
 “licence scheme” means a scheme (including anything in the nature of a scheme, whether called a scheme or tariff or called by any other name) formulated by a licensor or licensors and setting out the classes of cases in which the licensor or each of the licensors is willing, or the persons on whose behalf the licensor or each of the licensors acts are willing, to grant licences and the charges (if any) subject to payment of which, and the conditions subject to which, licences would be granted in those classes of cases;
 
@@ -2714,6 +3750,34 @@ Division 3 —
 
 Inquiries by, and Applications and References to, Tribunal
 
+### Application to Tribunal for determination of remuneration payable for making recording or film of a work
+
+156A\.—(1) This section shall apply where an application is made to the Tribunal in pursuance of section 43(3) or 68(3) for the determination of an equitable remuneration to be paid to the owner of the copyright in a work for the making of a sound recording or cinematograph film of the work or of an adaptation of the work.
+
+(2) The parties to an application in relation to which this section applies are —
+
+(a) the owner of the copyright in the work; and
+
+(b) the maker of the recording or film.
+
+(3) Where an application in relation to which this section applies is made to the Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making of the recording or film.
+
+[6/98 wef 16/04/1998]
+
+### Application to Tribunal for determination of remuneration payable for making copy of sound recording
+
+156B\.—(1) This section shall apply where an application is made to the Tribunal in pursuance of section 107(3) for the determination of an equitable remuneration to be paid to the owner of the copyright in a sound recording for the making of a copy of the sound recording.
+
+(2) The parties to an application in relation to which this section applies are —
+
+(a) the owner of the copyright in the sound recording; and
+
+(b) the maker of the copy of the sound recording.
+
+(3) Where an application in relation to which this section applies is made to the Tribunal, the Tribunal shall consider the application and, after giving to the parties to the application an opportunity of presenting their cases, shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making of the copy of the sound recording.
+
+[6/98 wef 16/04/1998]
+
 ### Inquiries into royalty payable in respect of records of musical works
 
 157\.—(1) This section shall apply where the Minister charged with the responsibility for trade and industry requests the Tribunal in pursuance of section 59 to hold an inquiry in relation to the royalty, or the minimum royalty, payable in respect of records generally, or in respect of records included in a particular class of records.
@@ -2724,17 +3788,17 @@ Inquiries by, and Applications and References to, Tribunal
 
 ### Applications to Tribunal for determination of remuneration payable to owner of copyright for copies made under statutory licence
 
-158\.—(1) This section shall apply where application is made to the Tribunal in pursuance of section 52(11) or 54(10) for the determination of an equitable remuneration to be paid to the owner of the copyright in a work for the making of copiesor of a handicapped reader’s copy , as the case requires, of the whole or of a part of that work.
+158\.—(1) This section shall apply where application is made to the Tribunal in pursuance of section 52(11), 54(10) or 54A(7) for the determination of an equitable remuneration to be paid to the owner of the copyright in a work for the making of copies , of a handicapped reader’s copy or of an intellectually handicapped reader’s copy, as the case requires, of the whole or of a part of that work.
 
 (2) The parties to an application in relation to which this section applies are —
 
 (a) the owner of the copyright in a work; and
 
-(b) the body by which, or on behalf of which, the copiesor the handicapped reader’s copy referred to in subsection (1) were or was made.
+(b) the body by which, or on behalf of which, the copies, the handicapped reader’s copy or the intellectually handicapped reader’s copy referred to in subsection (1) were or was made.
 
 (3) Where an application in relation to which this section applies is made to the Tribunal, the Tribunal shall consider the application and, after giving the parties to the application opportunities of presenting their cases —
 
-(a) shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making of the copies or of the handicapped reader’s copy , as the case requires; and
+(a) shall make an order determining the amount that it considers to be equitable remuneration to the owner of the copyright for the making of the copies or , of the handicapped reader’s copy or of the intellectually handicapped reader’s copy, as the case requires; and
 
 (b) may, subject to the regulations, make such order as to costs as the Tribunal thinks fit.
 
@@ -3202,7 +4266,7 @@ the Minister may by regulations declare that organisation to be an international
 
 (b) in relation to a sound recording or a cinematograph film or a cable programme — Part IV;
 
-“work” means a literary, dramatic, musical or artistic work, a sound recording, a cinematograph film or a cable programme.
+“work” means a literary, dramatic, musical or artistic work, a sound recording, a cinematograph film, a television broadcast, a sound broadcast or a cable programme.
 
 ## PART IX
 
@@ -3396,9 +4460,9 @@ shall, for the purposes of subsection (1), be each deemed to be for the service 
 
 (4) The defendant in an action under this section may apply, by way of counterclaim, for relief to which he would be entitled in a separate action in respect of an infringement by the plaintiff of the copyright to which the threats relate and, in any such case, the provisions of this Act with respect to an action for infringement of a copyright are mutatis mutandis applicable in relation to the action.
 
-### Notation of copies and handicapped readers’ copies.
+### Notation of copies, etc.
 
-201\.—(1) In proceedings against a person or body for infringement of copyright in a work in connection with the making, by or on behalf of an institution, of a copy of the whole or a part of that work, the person or body is not entitled to rely on section 45, 46, 48, 52or 54as justification for the making of that copy unless, at or about the time the copy was made, there was made on the copy a notation —
+201\.—(1) In proceedings against a person or body for infringement of copyright in a work in connection with the making, by or on behalf of an institution, of a copy of the whole or a part of that work, the person or body is not entitled to rely on section 45, 46, 48, 52, 54 or 54A as justification for the making of that copy unless, at or about the time the copy was made, there was made on the copy a notation —
 
 (a) stating that the copy was made on behalf of that institution and the date on which it was made; and
 
@@ -3442,7 +4506,7 @@ being a notation of message that contains a statement that the person knows, or 
 
 (a) for infringement of copyright in a work;
 
-(b) before the Copyright Tribunal on application made under section 52(11) or 54(10); or
+(b) before the Copyright Tribunal on application made under section 52(11) , 54(10) or 54A(7); or
 
 (c) for a contravention of a provision of this Act,
 
@@ -3465,6 +4529,12 @@ of a copy of a sound recording or a cinematograph film bearing, or to which ther
 (11) For the purposes of subsection (10), where a copy of a sound recording or a cinematograph film bears, or where there is attached to such a copy, a notation of the kind referred to in subsection (2), the notation shall, unless the contrary is proved, be deemed to have been made on or attached to the copy at or about the time the copy was made.
 
 (12) In this section, “copy” , in relation to a work, or a part of a work, includes a microform copy, a Braille version, a large-print version, or a photographic version, of the work, or of the part of the work.
+
+### Immunity of Government, etc.
+
+201A\. No action or other legal proceedings shall lie against the Government or any officer or employee thereof for anything which is in good faith done or omitted to be done in the exercise of any power, duty or function under this Act or any regulations.
+
+[6/98 wef 16/04/1998]
 
 ### Regulations
 
@@ -3938,6 +5008,272 @@ subsections (2), (3) and (4) shall have effect.
 
 [S 107/87]
 
+## PART XII
+
+PERFORMERS’ PROTECTION
+
+[38/99 wef 15/12/1999]
+
+### Interpretation
+
+246\.—(1) In this Part —
+
+“action” means a proceeding of a civil nature between parties and includes a counterclaim;
+
+“authorised”, in relation to a recording of a performance, means made with the authority of the performer;
+
+“direct”, in relation to a recording of a performance, means made —
+
+(a) directly from the live performance; or
+
+(b) from a broadcast or re-broadcast of, or a cable programme that includes, the performance;
+
+“exempt recording” means —
+
+(a) a direct recording of a performance made solely for the purpose of the private and domestic use of the person who made it;
+
+(b) a direct recording of a performance made solely for the purpose of use in scientific research;
+
+(c) a direct recording of a performance made by, or on behalf of, the body administering an educational institution solely for the educational purposes of that institution or of another educational institution;
+
+(d) a direct recording of a performance made for the purposes of setting or answering the questions in an examination or communicating the questions to the candidates;
+
+(e) a direct recording of a performance made in the course of instruction, or preparation for instruction, in the making of a cinematograph film or a sound-track associated with the visual images forming part of a cinematograph film, if the recording is done by a person giving or receiving such instruction;
+
+(f) a direct recording of a performance made by, or on behalf of, the body administering an institution assisting handicapped readers solely for use by a handicapped reader for the purpose of research or private study that he is undertaking or proposes to undertake, or for the purpose of otherwise instructing himself on any matter;
+
+(g) a direct recording of a performance made by, or on behalf of, the body administering an institution assisting intellectually handicapped persons solely for the purpose of the provision, whether by the institution or otherwise, of assistance to intellectually handicapped persons;
+
+(h) a direct recording of a performance made —
+
+(i) for the purpose of, or associated with, the reporting of news or current affairs; or
+
+(ii) for the purpose of criticism or review;
+
+(i) a direct recording of a performance made —
+
+(i) for the purpose of judicial proceedings;
+
+(ii) for the purpose of seeking professional advice from an advocate and solicitor; or
+
+(iii) for the purpose of, or in the course of, the giving of professional advice by an advocate and solicitor;
+
+(j) a direct recording of a performance made by a broadcaster who has the authority of the performer to broadcast the performance, being a recording made solely for the purpose of making that broadcast;
+
+(k) a direct recording of a performance made by a person who reasonably believes, due to a fraudulent or innocent misrepresentation made to the person, that the performer has authorised the making of the recording by the person;
+
+(l) a copy of a recording referred to in paragraph (a), (b), (c), (d), (e), (f), (g), (h) or (i), being a copy made solely for a purpose referred to in any of those paragraphs;
+
+(m) a copy of a recording referred to in paragraph (j), being a copy made solely for the purpose referred to in that paragraph;
+
+(n) a copy of a recording referred to in paragraph (k), being a copy made —
+
+(i) by a person who believes, due to a fraudulent or innocent misrepresentation made to the person, that the performer has authorised the making of the copy; or
+
+(ii) solely for a purpose referred to in paragraph (a), (b), (c), (d), (e), (f), (g), (h) or (i); or
+
+(o) a copy of an authorised recording of a performance;
+
+“performance” means —
+
+(a) a performance (including an improvisation) of a dramatic work, or part of such a work, including such a performance given with the use of puppets;
+
+(b) a performance (including an improvisation) of a musical work or part of such a work;
+
+(c) the reading, recitation or delivery of a literary work, or part of such a work, or the recitation or delivery of an improvised literary work;
+
+(d) a performance of a dance; or
+
+(e) a performance of a circus act or a variety act or any similar presentation or show,
+
+being a live performance given in Singapore or by one or more qualified persons, whether in the presence of an audience or otherwise;
+
+“protection period”, in relation to a performance, means the period beginning on the day when the performance is given and ending at the end of the period of 50 calendar years after the calendar year in which the performance is given;
+
+“qualified person” means a citizen of Singapore or a person resident in Singapore;
+
+“recording” means a sound recording other than an exempt recording;
+
+“unauthorised”, in relation to a recording of a performance, means made without the authority of the performer;
+
+“unauthorised use” has the meaning given to it in section 252.
+
+(2) The following shall be taken not to be performances for the purposes of this Part:
+
+(a) a performance referred to in section 23(1);
+
+(b) a reading, recital or delivery of any item of news and information;
+
+(c) a performance of a sporting activity;
+
+(d) a participation in a performance as a member of an audience;
+
+(e) a performance in a National Day Parade in Singapore;
+
+(f) any other performance as may be prescribed by the Minister.
+
+(3) In this Part —
+
+(a) a reference to the doing of an act in relation to a performance shall be read as including a reference to the doing of that act in relation to a substantial part of the performance;
+
+(b) a reference to the doing of an act in relation to a recording of a performance shall be read as including a reference to the doing of that act in relation to a recording of a substantial part of the performance;
+
+(c) a reference to the doing of an act in relation to a performance, or a recording of a performance, with the authority of the performer is, in the case of 2 or more performers, a reference to the doing of the act where each of the performers has authorised the doing of the act;
+
+(d) a reference to the doing of an act in relation to a performance, or a recording of a performance, with the authority of the performer is, in the case of 2 or more performers, a reference to the doing of the act where each of the performers has authorised the doing of the act; and
+
+(e) a reference to the doing of an act in relation to a performance, or a recording of a performance, without the authority of the performer is, in the case of 2 or more performers, a reference to the doing of the act where at least one of the performers has not authorised the doing of the act.
+
+### Educational purposes
+
+247\. Without limiting the meaning of the expression "educational purposes" in paragraph (c) of the definition of "exempt recording" in section 246(1), a recording or a copy of such a recording, shall be taken to have been made for the educational purposes of an educational institution if it is made —
+
+(a) for use in connection with a particular course of instruction provided by the institution; or
+
+(b) for inclusion in the collection of a library of the institution.
+
+### Exempt recordings cease to be exempt recordings in certain circumstances
+
+248\.—(1) If any recording of a performance, being a recording that is an exempt recording under paragraph (j) ofthe definition of “exempt recording” in section 246(1), is not destroyed —
+
+(a) before the expiration of the period of 6 months or, in the case of a recording made by a non-profit organisation solely for its own broadcast, 2 years, commencing on the day on which the recording is first used for broadcasting the performance; or
+
+(b) before the expiration of such further period, if any, as is agreed between the maker of the recording and the performer of the performance,
+
+the recording shall, at the end of that period, cease to be an exempt recording.
+
+[38/99 wef 16/04/1999]
+
+(2) If any copy of a recording of a performance, being an exempt recording under paragraph (m) ofthe definition of “exempt recording” in section 246(1), is not destroyed —
+
+(a) before the expiration of the period of 6 months or, in the case of a copy made by a non-profit organisation solely for its own broadcast, 2 years, commencing on the day on which the copy is first used for broadcasting the performance; or
+
+(b) before the expiration of such further period, if any, as is agreed between the maker of the copy and the performer of the performance,
+
+the copy of the recording shall, at the end of that period, cease to be an exempt recording.
+
+[38/99 wef 16/04/1999]
+
+(3) A recording or a copy of such a recording that is an exempt recording because it was made for a purpose referred to in paragraph (a), (b), (c), (d), (e), (f), (g), (h) or (i) of the definition of "exempt recording" in section 246(1), ceases to be an exempt recording if it is used for any other purpose without the authority of the performer.
+
+### Private and domestic use
+
+249\. For the purposes of this Part, a recording or a copy of such a recording shall be taken not to have been made for the private and domestic use of the person who made it if it is made for the purpose of —
+
+(a) the sale or letting for hire of the recording;
+
+(b) broadcasting the recording or including it in a cable programme; or
+
+(c) causing the recording to be heard in public.
+
+### References to inclusion of performance in a cable service
+
+250\. A reference in this Part to the inclusion of a performance in a cable programme service is a reference to the inclusion of the performance in a programme of such a service by the person providing that service.
+
+### Application
+
+251\.—(1) ThisPart shall apply to an act done on or after the date of commencement of the Copyright (Amendment) Act 1998 in relation to a performance given before, on or after that date.
+
+(2) Nothing in this Part shall affect any copyright subsisting in a work that is performed or in any sound recording, cinematograph film or broadcast of a performance, or any other right or obligation arising otherwise than under this Part.
+
+### What constitutes unauthorised use
+
+252\.—(1) A person makes an unauthorised use of a performance if the person, at any time during the protection period of the performance and without the authority of the performer —
+
+(a) makes a direct recording of the performance;
+
+(b) broadcasts live the performance;
+
+(c) makes a copy of a recording of the performance that the person knows, or ought reasonably to know, is an unauthorised recording;
+
+(d) makes a copy of an exempt recording of the performance, being a copy that the person knows, or ought reasonably to know, is not itself an exempt recording; or
+
+(e) causes the performance to be seen and heard, or seen or heard, live in public.
+
+(2) This section shall apply only to acts done in Singapore.
+
+### Action for unauthorised use
+
+253\.—(1) A performer may bring an action for an unauthorised use of his performance.
+
+(2) The relief that a court may grant in an action for an unauthorised use of a performance includes an injunction (subject to such terms, if any, as the court thinks fit) and damages.
+
+(3) Where, in an action for an unauthorised use of a performance —
+
+(a) the unauthorised use is established; and
+
+(b) the court is satisfied that it is proper to do so, having regard to —
+
+(i) the flagrancy of the use;
+
+(ii) any benefit shown to have accrued to the defendant by reason of the use; and
+
+(iii) all other relevant matters,
+
+the court may, in assessing damages, award such additional damages as it considers appropriate in the circumstances.
+
+(4) The court may, in addition to any relief granted under subsections (2) and (3), order any unauthorised recording of the performance, or any article specifically designed or adaptedfor making unauthorised recordings of the performance, in the possession of the defendant or before the court to be delivered up to the performer.
+
+(5) No order shall be made under subsection (4) unless the court also makes, or it appears to the court that there are grounds for making, an order under section 254.
+
+(6) A performer to whom an unauthorised recording or other object is delivered up pursuant to an order made under subsection (4) shall, if an order under section 254 is not made, retain the recording or object pending the making of an order, or the decision not to make an order, under that section.
+
+### Order for disposal of infringing copies or other object
+
+254\.—(1) An application may be made to the court for an order that an unauthorised recording or other object delivered up pursuant to an order made under section 253 shall be —
+
+(a) forfeited to the performer; or
+
+(b) destroyed or otherwise dealt with as the court thinks fit.
+
+(2) In considering what order, if any, should be made under this section, the court shall have regard to —
+
+(a) whether other remedies available in an action for an unauthorised use of a performance would be adequate to compensate the performer and to protect the interests of that performer; and
+
+(b) the need to ensure that no unauthorised recording is disposed of in a manner that would adversely affect a performer.
+
+(3) The court shall issue directions as to the service of notice on persons having an interest in the recording or other object.
+
+(4) Any person having an interest in the recording or other object is entitled —
+
+(a) to appear in proceedings for an order under this section, whether or not he is served with notice; and
+
+(b) to appeal against any order made, whether or not he appears in the proceedings.
+
+(5) An order made under this section shall not take effect until the end of the period within which notice of an appeal may be given or, if before the end of that period notice of appeal is duly given, until the final determination or abandonment of the proceedings on the appeal.
+
+(6) Where there is more than one person interested in a recording or other object, the court may direct that the object be sold, or otherwise dealt with, and the proceeds divided, and shall make any other order as it thinks just.
+
+(7) If the court decides that no order should be made under this section, the person in whose possession the recording or other object was before being delivered up is entitled to its return and the court may order the defendant to pay to the performer such damages as the court thinks just or equitable.
+
+### Rights to bring an action not assignable
+
+255\. The right of a performer to bring an action under this Part is not assignable.
+
+### Application to foreign countries
+
+256\.—(1) The Minister may make regulations applying any of the provisions of this Part specified in the regulations, in relation to a country so specified, in any one or more of the following ways, so as to secure that those provisions —
+
+(a) apply in relation to performances given in that country as they apply in relation to performances given in Singapore;
+
+(b) apply in relation to persons who are citizens or nationals of that country as they apply in relation to persons who are citizens of Singapore;
+
+(c) apply in relation to persons who are resident in that country as they apply in relation to persons who are resident in Singapore.
+
+(2) Regulations made under subsection (1) may apply the provisions —
+
+(a) without exception or modification or subject to such exceptions or modifications as may be specified in the regulations; and
+
+(b) either generally or in relation to such classes of performances, or other classes of cases, as may be specified in the regulations.
+
+(3) The Minister shall not make regulations applying any of the provisions of this Part in the case of a country, other than a country which is a party to a Convention relating to the protection of performers to which Singapore is also a party, unless the Minister is satisfied that, in respect of the performances to which those provisions relate, provision has been or will be made under the law of that country whereby adequate protection is or will be given to performers whose performances are protected under this Part.
+
+### Denial of protection to citizens of countries not giving adequate protection to Singapore performances
+
+257\.—(1) If it appears to the Minister that the law of a country does not give adequate protection to performances given in that country by a citizen of Singapore or a person resident in Singapore (whether the lack of protection relates to the nature of the performance or the nationality, citizenship or country of residence of its performer, or all of those matters), the Minister may, having regard to the nature and extent of the lack of protection involved, make regulations in relation to that country in accordance with subsection (2).
+
+(2) Regulations made for the purposes of this section may provide, either generally or in such cases as are specified in the regulations, that this Part does not apply to performances given after a date specified in the regulations (which may be a date before the commencement of the regulations or of the Copyright (Amendment) Act 1998) if, at the time the performances were or are given, the performers were or are citizens or nationals of a country specified in the regulations, other than persons resident in Singapore.
+
 ## THE SCHEDULE
 
 Section 74.
@@ -3999,3 +5335,13 @@ This Legislative History is provided for the convenience of users of the Copyrig
 |||(Bill No. 19/95 published on 26 May 1995)|
 ||Date of Second and Third Readings|7 July 1995|
 ||Date of commencement|1 December 1995|
+|6.|**Act 6 of 1998—Copyright (Amendment) Act 1998**|
+||Date of First Reading|14 January 1998|
+|||(Bill No. 4/98 published on 15 January 1998)|
+||Date of Second and Third Readings|19 February 1998|
+||Date of commencement|16 April 1998|
+|7.|**Act 38 of 1999—Copyright (Amendment) Act 1999**|
+||Date of First Reading|3 August 1999|
+|||(Bill No. 27/99 published on 4 August 1999)|
+||Date of Second and Third Readings|17 August 1999|
+||Date of commencement|16 April 1998 (section 25)|
