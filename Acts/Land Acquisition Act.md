@@ -174,9 +174,9 @@ PRELIMINARY
 
 “land” includes benefits to arise out of land and things attached to the earth or permanently fastened to anything attached to the earth;
 
-“person interested” includes every person claiming an interest in compensation to be made on account of the acquisition of land under this Act, but does not include a tenant by the month or at will or a statutory tenant under the Control of Rent Act [Cap. 58].
+“person interested” includes every person claiming an interest in compensation to be made on account of the acquisition of land under this Act, but does not include a tenant by the month or at willor a statutory tenant under the Control of Rent Act.
 
-[66/73]
+[66/73. Cap. 58]
 
 (2) For the purposes of this Act, the following persons shall be deemed persons “entitled to act” as and to the extent hereinafter provided:
 
@@ -584,7 +584,15 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 
 33\.—(1) In determining the amount of compensation to be awarded for land acquired under this Act, the Board shall, subject to subsections (2), (3) and (4), take into consideration the following matters and no others:
 
-(a) the market value as at 30th November 1973, or the market value as at the date of the publication of the notification under section 3(1) if the notification is within 6 months from the date thereof followed by a notification under section 5 in respect of the same land or part thereof, or the market value as at the date of the publication of the notification made under section 5, whichever is the lowest;
+(a) the market value —
+
+(i) as at 30th November 1973 in respect of land acquired before 30th November 1987, and as at 1st January 1986 in respect of land acquired on or after that date;
+
+(ii) as at the date of the publication of the notification under section 3(1) if the notification is, within 6 months from the date of its publication, followed by a declaration under section 5 in respect of the same land or part thereof; or
+
+(iii) as at the date of the publication of the declaration made under section 5,
+
+whichever is the lowest;
 
 (b) any increase in the value of any other land of the person interested likely to accrue from the use to which the land acquired will be put;
 
@@ -604,7 +612,9 @@ the award as made or agreed under this Act or determined on appeal, as the case 
 
 (a) one-third of the value of such land had it been vacant land not subject to encumbrances, tenancies or occupation by squatters unless the Minister in his discretion, by notification in theGazette, specifies otherwise; or
 
-(b) the market value of the land as at 30th November 1973,
+(b) the market value of the land as at 30th November 1973 in respect of land acquired before 30th November 1987, and the market value of the land as at 1st January 1986 in respect of land acquired on or after that date,
+
+[Subst. by Act 38/95 wef 01/12/1995 vide S 524/95]
 
 whichever is the lower.
 
@@ -626,9 +636,13 @@ the amount of that increase shall not be taken into account;
 
 (d) if any land in respect of which a value has been stated by or with the knowledge or consent of the owner thereof in any affidavit, return or other document required to be made or delivered to any public officer under the provisions of any written law and accepted by him at that value for the purposes of assessing the tax or duty payable thereon where the statement was made within two years of the date of the notification under section 5(1) in respect of the land, the market value of the acquired land at the date of the statement shall be deemed not to exceed the value therein contained;
 
-(e) the market value of the acquired land shall be deemed not to exceed the price which a bona fide purchaser might reasonably be expected to pay for the land on the basis of its existing use or in anticipation of the continued use of the land for the purpose designated in the Master Plan, whichever is the lower, after taking into account the zoning and density requirements and any other restrictions imposed under the Planning Act [Cap. 232] and any restrictive covenants in the title of the acquired land, and no account shall be taken of any potential value of the land for any other more intensive use; and
+(e) the market value of the acquired land shall be deemed not to exceed the price which a bona fide purchaser might reasonablybe expected to pay for the land on the basis of its existing use or in anticipation of the continued use of the land for the purpose designated in the Master Plan, whichever is the lower, after taking into account the zoning and density requirements and any other restrictions imposed under the Planning Act [Cap. 232] and any restrictive covenants in the title of the acquired land, and no account shall be taken of any potential value of the land for any other more intensive use; and
 
 (f) where the acquired land is used as a burial ground, the market value of the land shall be computed on the basis that the land is a burial ground and any consideration, in cash or kind, already received by the owner of the acquired land for the allocation of grave plots shall be taken into account, and no account shall be taken of any potential value of the land for any other more intensive use.
+
+(6) For the purposes of this section, the date of acquisition of any land shall be the date of the publication of the notification under section 5(1) declaring that that land is needed for the purpose specified in the declaration.
+
+[Act 2/88 wef 12/02/1988]
 
 ### Matters to be disregarded in determining compensation
 
@@ -835,3 +849,8 @@ This Legislative History is provided for the convenience of users of the Land Ac
 ||Date of operation|1 December 1984|
 |6.|**1985 Revised Edition—Land Acquisition Act (Cap. 152)**|
 ||Date of operation|30 March 1987|
+|7.|**Act 2 of 1988—Land Acquisition (Amendment) Act 1988**|
+||Date of First Reading|30 November 1987|
+|||(Bill No. 25/1987 published on 2 December 1987)|
+||Date of Second and Third Readings|12 January 1988|
+||Date of commencement|12 February 1988|
