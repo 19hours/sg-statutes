@@ -336,7 +336,11 @@ for anything which is in good faith done or intended to be done in the execution
 
 15\.—(1) The Association shall have the exclusive right to the use of such symbols (referred to in this section as the Association’s symbols) as it may devise or adopt from time to time and thereafter display or exhibit in connection with its activities or affairs.
 
+[27/2002 wef 01/10/2002]
+
 (2) The Association shall publish the Association’s symbols in theGazette.
+
+[27/2002 wef 01/10/2002]
 
 (3) Any person who uses a symbol identical with, or which so resembles, any of the Association’s symbols as to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
@@ -346,7 +350,7 @@ FIRST SCHEDULE
 
 Section 4(1) and (5)
 
-CONSULTANT ORGANISATIONS
+MEMBER ORGANISATIONS
 
 1. Alumni International Singapore
 
@@ -525,6 +529,8 @@ CONSULTANT ORGANISATIONS
 
 71. Singapore Xiangqi General Association
 
+71A. Singapore Youth Flying Club
+
 72. Society of Chinese Artists
 
 73. Sriwana
@@ -550,9 +556,9 @@ CONSULTANT ORGANISATIONS
 
 (Persatuan Pemudi Islam Singapura)
 
-82. Youth Flying Club.
+82.Deleted by S 680/2002, wef 30/12/2002.
 
-[S 234/2001 wef 26/04/2001]
+[S 680/2002 wef 30/12/2002]
 
 SECOND SCHEDULE
 
@@ -691,6 +697,8 @@ This Legislative History is provided for the convenience of users of the People�
 |||(Bill No. 27/2002 published on 24 July 2002)|
 ||Date of Second and Third Readings|27 August 2002|
 ||Date of commencement|1 October 2002|
+|50.|**G.N. No. S 680/2002—People’s Association Act (Amendment of First Schedule) Notification 2002**|
+||Date of commencement|30 December 2002|
 ## COMPARATIVE TABLE
 
 People’s Association Act
