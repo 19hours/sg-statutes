@@ -12,7 +12,7 @@
 
 - [3 Application of moneys in the Development Fund](#Application-of-moneys-in-the-Development-Fund)
 
-- [4 Development budget](#Development-budget)
+- [4 Payment of moneys from Development Fund](#Payment-of-moneys-from-Development-Fund)
 
 - [5 Unspent proceeds of existing loans](#Unspent-proceeds-of-existing-loans)
 
@@ -60,21 +60,23 @@ An Act to define the purposes of and to regulate the Development Fund and to pro
 
 ### Application of moneys in the Development Fund
 
-3\. The moneys in the Development Fund shall be applied only to the purposes or any one or more thereof specified in the Schedule and in accordance with such resolutions as may from time to time be passed by Parliament, under section 4, appropriating and directing the expenditure of such moneys.
+3\. The moneys in the Development Fund shall be applied only to the purposes or any one or more thereof specified in the Schedule and in accordance with a Supply or Supplementary Supply law appropriating and directing the expenditure of such moneys.
 
-### Development budget
+[Act 11/91 wef 30/11/1991]
 
-4\.—(1) The Minister for Finance shall in respect of every financial year cause to be presented to Parliament estimates of the proposed expenditure out of the Development Fund for that year and of the sums necessary to meet each head and subhead of expenditure.
+### Payment of moneys from Development Fund
 
-(2) Parliament may by resolution approve all or any of the expenditure or any part thereof shown in such estimates and shall by that resolution appropriate the sums necessary to meet such approved expenditure for the purposes specified in the resolution.
+4\.—(1) The Minister for Finance may by warrant under his hand authorise the issue of any sum from the Development Fund to meet expenditure appropriated by a Supply or Supplementary Supply law.
 
-(3) If in respect of any financial year it is found that the amount appropriated under any head of expenditure is insufficient, the Minister for Finance shall cause to be presented to Parliament supplementary estimates showing the sums required to be spent, and Parliament may by resolution approve all or any of such expenditure or any part thereof and shall by such resolution appropriate the sums necessary to meet such approved expenditure for the purposes specified in the resolution.
+[Act 11/91 wef 30/11/1991]
 
-(4) The Minister for Finance may by warrant under his hand authorise the issue of any sum appropriated for expenditure in pursuance of subsection (2) or (3).
+(2) If it appears to the Minister for Finance to be necessary to alter the proportion assigned to any of the subheads of any head of expenditure appropriated by a Supply or Supplementary Supply law, or to create a new subhead, he may by warrant under his hand authorise the transfer of a further sum out of any surplus arising on any other subhead of the same head, in aid of any subhead which may be deficient or of any new subhead:
 
-(5) If it appears to the Minister for Finance to be necessary to alter the proportion assigned to any of the subheads of any head of expenditure appropriated in pursuance of subsection (2) or (3), or to create a new subhead, he may by warrant under his hand authorise the transfer of a further sum out of any surplus arising on any other subhead of the same head, in aid of any subhead which may be deficient or of any new subhead:
+Provided that the amount appropriated under any head of expenditure by a Supply or Supplementary Supply law shall not be thereby exceeded.
 
-Provided that the amount appropriated under any head of expenditure by a resolution passed in pursuance of subsection (2) or (3) shall not be thereby exceeded.
+[Act 11/91 wef 30/11/1991]
+
+(3) [Deleted by Act 11/91 wef 30/11/1991]
 
 ### Unspent proceeds of existing loans
 
@@ -84,9 +86,13 @@ Provided that the amount appropriated under any head of expenditure by a resolut
 
 6\.—(1) A Contingencies Fund is hereby created consisting of moneys from time to time appropriated thereto from the Development Fund.
 
-(2) The Minister for Finance may, if he is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists and for which funds cannot be provided under section 4(5), make advances from the Contingencies Fund to meet such need.
+(2) The Minister for Finance may, if he is satisfied that there has arisen an urgent and unforeseen need for expenditure for which no other provision exists and for which funds cannot be provided under section 4(1), and if the President, acting in his discretion, concurs with the making of an advance for such need make advances from the Contingencies Fund to meet such need.
 
-(3) Where any advance is made by virtue of the authority conferred under subsection (2), a supplementary estimate of the sum required to replace the amount so advanced shall, as soon as practicable, be presented to Parliament for approval in accordance with section 4(3).
+[Act 11/91 wef 30/11/1991]
+
+(3) Where any advance is made by virtue of the authority conferred under subsection (2), a supplementary estimate of the sum required to replace the amount so advanced shall, as soon as practicable, be presented to and voted on by Parliament and the sum shall be included in a Supplementary Supply or Final Supply law.
+
+[Act 11/91 wef 30/11/1991]
 
 ## THE SCHEDULE
 
@@ -130,3 +136,8 @@ This Legislative History is provided for the convenience of users of the Develop
 ||Date of operation|1 April 1971|
 |4.|**1985 Revised Edition—Development Fund Act**|
 ||Date of operation|30 March 1987|
+|5.|**Act 11 of 1991—Statutes (Miscellaneous Amendments) Act 1991**|
+||Date of First Reading|3 January 1991|
+|||(Bill No. 4/1991)|
+||Date of Second and Third Readings|14 January 1991|
+||Date of commencement|30 November 1991|
