@@ -140,6 +140,12 @@ An Act relating to the employment of foreign workers.
 
 3\.—(1) The Minister may appoint a Controller of Work Permits who shall have such functions and powers as are conferred on him by this Act .
 
+(1A) The Deputy Controllers of Work Permits and the Assistant Controllers of Work Permits shall have and may exercise and perform all the powers, duties and functions of the Controller conferred by this Act, subject to such limitations as the Controller may think fit to impose.
+
+[39/98 wef 15/02/1999]
+
+[30/2007 wef 01/07/2007]
+
 (2) The Minister may appoint such number of employment inspectors as he may think fit for carrying out the purposes of this Act.
 
 ### Exemption
@@ -348,7 +354,7 @@ An Act relating to the employment of foreign workers.
 
 ### Loss, etc., of work permit
 
-14\.—(1) When a work permit has been lost, destroyed or defaced, the foreign worker or the employer or the self-employed person, as the case may be, shall report to the Controller within 14 daysof such loss, destruction or defacement, and the Controller shall issue a duplicate work permit. on payment of the prescribed fee.
+14\.—(1) When a work permit has been lost, destroyed or defaced, the foreign worker or the employer or the self-employed person, as the case may be, shall report to the Controller within 7 days of such loss, destruction or defacement, and the Controller shall issue a duplicate work permit. on payment of the prescribed fee.
 
 (2) Where the foreign worker or the employer or the self-employed person recovers possession of the work permit after notifying the loss of the work permit, the foreign worker or the employer or the self-employed person, as the case may be —
 
@@ -572,9 +578,13 @@ the employment inspector shall proceed against the person whom he believes to be
 
 (2) Regulations made under subsection (1) may —
 
-(a) prescribe that any act or omission in contravention of the provisions of any regulation shall be an offence ;
+(a) prescribe that any act or omission in contravention of the provisions of any regulation shall be an offence and shall be punishable with a fine not exceeding $5,000 or with imprisonment for a term not exceeding 12 months or with both;
 
-(b) prescribe such fees or charges as may be necessary for the purposes of this Act .
+(b) prescribe such fees or charges as may be necessary for the purposes of this Act ;
+
+(c) provide for the taking and recording of finger impressions of any person who applies for or has been issued with a work permit and for the dissemination of such records to the police.
+
+[39/98 wef 15/02/1999]
 
 (3) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -612,3 +622,8 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of commencement|1 March 1996|
 |4.|**1997 Revised Edition—Employment of Foreign Workers Act (Chapter 91A)**|
 ||Date of operation|20 December 1997|
+|5.|**Act 39 of 1998—Employment of Foreign Workers (Amendment) Act 1998**|
+||Date of First Reading|4 September 1998|
+|||(Bill No. 38/98 published on 5 September 1998)|
+||Date of Second and Third Readings|12 October 1998|
+||Date of commencement|15 February 1999|
