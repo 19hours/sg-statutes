@@ -2318,7 +2318,7 @@ an amount equal to the excess medical expenses shall be deemed to be income of t
 
 (d) expenses incurred in or in connection with the provision of insurance against the cost of medical treatment; and
 
-(e) contributions which are deductible under subsection (1) (ea);
+(e) contributions which are deductible under subsection (1)(ea);
 
 [32/95]
 
@@ -3524,7 +3524,7 @@ is the aggregate of the initial and annual allowances made in respect of the mot
 
 [9/80]
 
-(5A) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(2C) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act [Cap. 276] and the rules made thereunder .
+(5A) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(2C) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act [Cap. 276] and the rules made thereunder.
 
 [Act 1/98, Wef 23/01/1998]
 
@@ -3778,7 +3778,7 @@ and where any such risk is in transit in Singapore, it shall be deemed to be out
 
 27\.—(1) Where a non-resident person carries on the business of shipowner or charterer, the income on which tax is payable shall be ascertained as provided in this section.
 
-(2) Where, for any period, the non-resident person produces a certificate complying with subsection (3)—
+(2) Where, for any period, the non-resident person produces a certificate complying with subsection (3) —
 
 (a) the profits accruing in Singapore from the business for that period shall be deemed to be a sum bearing the same ratio to the sums receivable in respect of the carriage of passengers, mails, livestock and goods shipped in Singapore as the total profits for that period bear to the total sum receivable by him in respect of the carriage of passengers, mails, livestock and goods, as shown by the certificate; and
 
@@ -8319,3 +8319,8 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of operation|30 April 1996|
 |118.|**G.N. No. S 302/96—Income Tax Act (Amendment of First Schedule) (No. 3) Order 1996**|
 ||Date of commencement|1 July 1996|
+|119.|**Act 23 of 1996—Income Tax (Amendment) Act 1996**|
+||Date of First Reading|21 May 1996|
+|||(Bill No. 17/96)|
+||Date of Second and Third Readings|12 July 1996|
+||Date of commencement|2 August 1996|
