@@ -280,7 +280,9 @@ and includes a commodity futures option transaction;
 
 “commodity futures option transaction” means a transaction in relation to a commodity futures contract which gives a person a right, acquired for a consideration, to buy or sell a specified amount of a commodity at a specified price within a specified period of time and includes any other option of which the subject is a commodity futures contract;
 
-“commodity futures pool operator” means any person who carries on a business in the nature of a unit trust or other interest to which Division 6 of Part IV of the Companies Act [Cap. 50] applies and who, in connection therewith, accepts or receives from other persons funds, security or property, either directly or through capital contributions, the sale of shares or other forms of security or otherwise for the purpose of trading in a commodity futures contract but does not include such persons as the Board may by regulations prescribe;
+“commodity futures pool operator” means any person who carries on a business in the nature of a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001 and who, in connection therewith, accepts or receives from other persons funds, security or property, either directly or through capital contributions, the sale of shares or other forms of security or otherwise for the purpose of trading in a commodity futures contract but does not include such persons as the Board may by regulations prescribe;
+
+[42/2001 wef 01/07/2002]
 
 “commodity futures pool operator’s representative” means a person in the direct employment of, or acting for, or by arrangement with, a commodity futures pool operator, who performs for that commodity futures pool operator any of the functions of a commodity futures pool operator;
 
@@ -314,13 +316,15 @@ but does not include a Commodity Futures Exchange or a commodity futures market;
 
 [22/2001 wef 27/06/2001]
 
-“commodity pool operator” means any person who carries on a business in the nature of a unit trust or other interest to which Division 6 of Part IV of the Companies Act (Cap. 50) applies and who, in connection therewith, accepts or receives from other persons funds, security or property, either directly or through capital contributions, the sale of shares or other forms of security or otherwise for the purpose of trading in commodity contracts but does not include —
+“commodity pool operator” means any person who carries on a business in the nature of a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001 and who, in connection therewith, accepts or receives from other persons funds, security or property, either directly or through capital contributions, the sale of shares or other forms of security or otherwise for the purpose of trading in commodity contracts but does not include —
 
 (a) a commodity futures pool operator; and
 
 (b) such persons as the Board may from time to time prescribe;
 
 [22/2001 wef 27/06/2001]
+
+[42/2001 wef 01/07/2002]
 
 “commodity pool operator’s representative” means a person in the direct employment of, or acting for, or by arrangement with, a commodity pool operator, who performs for that commodity pool operator any of the functions of a commodity pool operator, but does not include a commodity futures pool operator’s representative;
 
@@ -400,9 +404,11 @@ but does not include a commodity futures trading adviser’s representative;
 
 [22/2001 wef 27/06/2001]
 
-“spot commodity pool operator” means any person who carries on business in the nature of a unit trust or other interest to which Division 6 of Part IV of the Companies Act (Cap. 50) applies and who, in connection therewith, accepts or receives from other persons funds, security or property, either directly or through capital contributions, the sale of shares or other forms of security or otherwise for the purpose of spot commodity trading, but does not include a commodity pool operator or commodity futures pool operator;
+“spot commodity pool operator” means any person who carries on business in the nature of a collective investment scheme within the meaning of section 2 of the Securities and Futures Act 2001 and who, in connection therewith, accepts or receives from other persons funds, security or property, either directly or through capital contributions, the sale of shares or other forms of security or otherwise for the purpose of spot commodity trading, but does not include a commodity pool operator or commodity futures pool operator;
 
 [22/2001 wef 27/06/2001]
+
+[42/2001 wef 01/07/2002]
 
 “spot commodity pool operator’s representative” means a person in the direct employment of, or acting for, or by arrangement with, a spot commodity pool operator, who performs for that spot commodity pool operator any of the functions of a spot commodity pool operator, but does not include a commodity pool operator’s representative or commodity futures pool operator’s representative;
 
@@ -476,6 +482,8 @@ COMMODITY MARKET, COMMODITY FUTURES EXCHANGE AND CLEARING HOUSE
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both.
 
+[22/2001 wef 27/06/2001]
+
 ### Power of Board to approve commodity marketor a Commodity Futures Exchange
 
 5\.—(1) A body corporate may apply to the Board for approval as a commodity market or a Commodity Futures Exchange in such form and manner as may be prescribed and the body corporate shall, in connection with that application, provide such information as the Board may require.
@@ -546,7 +554,7 @@ COMMODITY MARKET, COMMODITY FUTURES EXCHANGE AND CLEARING HOUSE
 
 (d) any information provided to the Board under section 5(1) was false or misleading in a material particular.
 
-(2) For the purposes of subsection (1) (a), a body corporate shall be deemed to have ceased to operate as a commodity market or a Commodity Futures Exchange if it has ceased to operate for more than 30 days unless it has obtained the approval of the Board to do so, or unless it has ceased to operate by virtue of any direction issued by the Board under section 34(1)(a).
+(2) For the purposes of subsection (1)(a), a body corporate shall be deemed to have ceased to operate as a commodity market or a Commodity Futures Exchange if it has ceased to operate for more than 30 days unless it has obtained the approval of the Board to do so, or unless it has ceased to operate by virtue of any direction issued by the Board under section 34 (1)(a).
 
 [22/2001 wef 27/06/2001]
 
@@ -564,7 +572,7 @@ COMMODITY MARKET, COMMODITY FUTURES EXCHANGE AND CLEARING HOUSE
 
 (2) The Board may in writing approve a body corporate as a clearing house if it is satisfied that —
 
-(a) the business rules of the body corporate make satisfactory provision relating to the registration of, and guaranteeing to its members of the performance of, commodity contracts commodity futures contracts made in a commodity market or a commodity futures market; and
+(a) the business rules of the body corporate make satisfactory provision relating to the registration of, and guaranteeing to its members of the performance of, commodity contracts or commodity futures contracts made in a commodity market or a commodity futures market; and
 
 [22/2001 wef 27/06/2001]
 
@@ -596,7 +604,7 @@ LICENCES
 
 12\.—(1) No person, whether as principal or agent, shall —
 
-(a) carry on business as a commodity brokeror a commodity futures broker; or
+(a) carry on business as a commodity broker or a commodity futures broker; or
 
 [22/2001 wef 27/06/2001]
 
@@ -810,9 +818,7 @@ unless such person is the holder of a licence granted under this Part that autho
 
 [22/2001 wef 27/06/2001]
 
-(3) Notwithstanding anything in this Part, the Board may refuse to grant or renew a licence under this Part where the applicant fails to meet such minimum financial requirements as are prescribed by the Board or provided in such business rules of a commodity market or Commodity Futures Exchange as have been approved by the Board.
-
-[22/2001 wef 27/06/2001]
+(3) Notwithstanding anything in this Part, the Board may refuse to grant or renew a licence under this Part where the applicant fails to meet such minimum financial requirements as are prescribed by the Board or provided in such business rules of a commodity market or Commodity Futures Exchangeas have been approved by the Board.
 
 (4) For the purposes of subsection (2), “substantial shareholder”, in relation to an applicant which is a body corporate, has the same meaning as in the Companies Act (Cap. 50).
 
@@ -1342,13 +1348,11 @@ as the Board may require.
 
 ### Information to be provided by market participants
 
-38\.—(1) Upon a determination by the Board that information concerning accounts may be relevant to determine whether manipulation, corner, squeeze or other market disorders exists in any commodity market or commodity futures market, the Board may, by notice in writing, require such information as it thinks necessary from any person, including a member of a Commodity Futures Exchange or a clearing house or a commodity broker, commodity futures broker or any customer in the commodity market or commodity futures market, and the person concerned shall provide the required information within such time as may be specified by the Board.
+38\.—(1) Upon a determination by the Board that information concerning accounts may be relevant to determine whether manipulation, corner, squeeze or other market disorders exists in any commodity marketor commodity futures market, the Board may, by notice in writing, require such information as it thinks necessary from any person, including a member of a Commodity Futures Exchange or a clearing house or a commodity broker, commodity futures broker or any customer in the commodity market or commodity futures market, and the person concerned shall provide the required information within such time as may be specified by the Board.
 
 [22/2001 wef 27/06/2001]
 
 (2) If the Board has reason to believe that any person has failed to give the information required in the notice, it may without prejudice to any other penalty that may be imposed inform a commodity market, a Commodity Futures Exchange or a clearing house which shall, in the event, prohibit the execution of, or acceptance for orders of, trades on the market, Exchange or a clearing house and in the months or expiration dates specified in the notice unless such trades offset open contracts of that person.
-
-[22/2001 wef 27/06/2001]
 
 ### Review of Commodity Futures Exchanges’ disciplinary action
 
@@ -1781,3 +1785,8 @@ The Commodity Futures Act was renamed as the Commodity Trading Act vide Commodit
 |||(Bill No. 9/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|8 July 2002|
 ||Date of commencement|1 April 2002 (except sections 8 and 9)|
+|6.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 July 2002 (item 3(a) of Fourth Schedule)|
