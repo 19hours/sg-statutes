@@ -42,6 +42,8 @@
 
 - [12 Provision of working capital](#Provision-of-working-capital)
 
+- [12A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [13 Investment of money belonging to Corporation](#Investment-of-money-belonging-to-Corporation)
 
 - [14 Bank accounts](#Bank-accounts)
@@ -361,6 +363,12 @@ FINANCIAL PROVISIONS
 ### Provision of working capital
 
 12\. For the purpose of enabling the Corporation to carry out its functions and to defray expenditure properly chargeable to capital account, including defraying initial expenses, and for the provision of working capital, the Minister may authorise payment to the Corporation of such sums as he may determine.
+
+### Issue of shares, etc.
+
+12A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Corporation under this Act, or of any capital injection or other investment by the Government in the Corporation in accordance with any written law, the Corporation shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Investment of money belonging to Corporation
 
@@ -895,3 +903,8 @@ This Legislative History is provided for the convenience of users of the Sentosa
 ||Date of commencement|1 November 1996|
 |5.|**1998 Revised Edition—Sentosa Development Corporation Act**|
 ||Date of operation|30 May 1998|
+|6.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002|
