@@ -1,6 +1,6 @@
-**Exchanges (Demutualisation and Merger) Act 1999**
+**Exchanges (Demutualisation and Merger) Act**
 
-**(No. 27 of 1999)**
+**(CHAPTER 99B)**
 
 **Table of Contents**
 
@@ -8,9 +8,7 @@
 
 [**Preamble**](#Preamble)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -44,65 +42,37 @@
 
 - [17 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
-- [18 Amendment to Monetary Authority of Singapore Act](#Amendment-to-Monetary-Authority-of-Singapore-Act)
+[**Legislative History**](#Legislative-History)
 
-- [19 Amendments to Futures Trading Act](#Amendments-to-Futures-Trading-Act)
+[**Comparative Table**](#Comparative-Table)
 
-- [20 Amendments to Securities Industry Act](#Amendments-to-Securities-Industry-Act)
+# Exchanges (Demutualisation and Merger) Act
 
-REPUBLIC OF SINGAPORE
+(CHAPTER 99B)
 
-GOVERNMENT GAZETTE
+(Original Enactment: Act 27 of 1999)
 
-ACTS SUPPLEMENT
+REVISED EDITION 2000
 
-Published by Authority
+(30th December 2000)
 
-NO. 28]
-
-Friday, August 27
-
-[1999
-
-The following Act was passed by Parliament on 4th August 1999 and assented to by the President on 6th August 1999:—
-
-Exchanges (Demutualisation and Merger) Act 1999
-
-(No. 27 of 1999)
-
-I assent.
-
-ONG TENG CHEONG,
-
-President,
-
-6th August 1999.
-
-Date of Commencement: 1st December 1999
-
-Date of Commencement: 1st October 2000
-
-Date of Commencement: 8th October 1999
-
-An Act to provide for the demutualisation and merger of the Stock Exchange of Singapore Limited, the Singapore International Monetary Exchange Limited and the Securities Clearing and Computer Services (Pte) Limited by making these companies wholly-owned subsidiaries of a transferee holding company, to amend the Monetary Authority of Singapore Act (Chapter 186 of the 1985 Revised Edition) to provide for the establishment of a Financial Sector Development Fund and to make consequential amendments to certain other written laws.
+An Act to provide for the demutualisation and merger of the Stock Exchange of Singapore Limited, the Singapore International Monetary Exchange Limited and the Securities Clearing and Computer Services (Pte) Limited by making these companies wholly-owned subsidiaries of a transferee holding company.
 
 WHEREAS:
 
-(A) The Stock Exchange of Singapore Limited is a public company limited by shares incorporated in Singapore under the Companies Act (Chapter 50) and carries on,inter alia, the business of providing, regulating and maintaining facilities for conducting the business of a Stock Exchange in Singapore pursuant to the Securities Industry Act (Chapter 289).
+(A) The Stock Exchange of Singapore Limited is a public company limited by shares incorporated in Singapore under the Companies Act (Chapter 50) and carries on, inter alia, the business of providing, regulating and maintaining facilities for conducting the business of a Stock Exchange in Singapore pursuant to the Securities Industry Act (Chapter 289).
 
-(B) The Singapore International Monetary Exchange Limited is a public company limited by shares incorporated in Singapore under the Companies Act and carries on,inter alia, the business of establishing and conducting a commodities and financial futures market in Singapore pursuant to the Futures Trading Act (Chapter 116).
+(B) The Singapore International Monetary Exchange Limited is a public company limited by shares incorporated in Singapore under the Companies Act and carries on, inter alia, the business of establishing and conducting a commodities and financial futures market in Singapore pursuant to the Futures Trading Act (Chapter 116).
 
-(C) The Securities Clearing and Computer Services (Pte) Limited is a company limited by shares incorporated in Singapore under the Companies Act and carries on,inter alia, the business of providing facilities for the clearing of contracts and the delivery and receipt of stocks and securities and for providing accounting, management consultancy and computer services to members of the Stock Exchange of Singapore Limited.
+(C) The Securities Clearing and Computer Services (Pte) Limited is a company limited by shares incorporated in Singapore under the Companies Act and carries on, inter alia, the business of providing facilities for the clearing of contracts and the delivery and receipt of stocks and securities and for providing accounting, management consultancy and computer services to members of the Stock Exchange of Singapore Limited.
 
 (D) It is expedient to make provisions to facilitate the transfer of ownership of the Stock Exchange of Singapore Limited, the Singapore International Monetary Exchange Limited and the Securities Clearing and Computer Services (Pte) Limited to a transferee holding company designated by the Minister in order to demutualise and merge the respective Exchanges to form an integrated Exchange for the trading of securities and futures contracts and for leveraged foreign exchange trading in Singapore.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[8th October 1999]
 
-### Short title and commencement
+### Short title
 
-1\.—(1) This Act may be cited as the Exchanges (Demutualisation and Merger) Act 1999 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
-
-(2) The Minister may appoint different dates for the coming into operation of the different provisions of this Act.
+1\. This Act may be cited as the Exchanges (Demutualisation and Merger) Act.
 
 ### Interpretation
 
@@ -134,19 +104,25 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 “SIMEX shares” means shares issued by Singapore International Monetary Exchange Limited;
 
-“special purpose company” means a company incorporated in Singapore and designated by the Minister under section 3(2) (b);
+“special purpose company” means a company incorporated in Singapore and designated by the Minister under section 3(2)(b);
 
 “transfer date” means the transfer date referred to in section 3(1);
 
-“transferee holding company” means a public company incorporated in Singapore and designated by the Minister under section 3(2) (a);
+“transferee holding company” means a public company incorporated in Singapore and designated by the Minister under section 3(2)(a);
 
 “transferee holding company’s shares” means shares issued by the transferee holding company.
 
 ### Transfer date and designation of companies
 
-3\.—(1) The transfer date shall be such date as the Minister may, by notification in theGazette, appoint.
+3\.—(1) The transfer date shall be such date as the Minister may, by notification in theGazette (G.N. No. S 524/99) — Transfer Date., appoint\**.
 
-(2) The Minister may, by notification in theGazette, designate —
+\*1st December 1999
+
+(2) The Minister may, by notification in theGazette, designate††—
+
+†(a) transferee holding company — Singapore Exchange Limited.
+
+(b) special purpose company — SEL Holdings Pte Ltd (see G.N. No. S 525/99 — with effect from 1st December 1999).
 
 (a) a public company incorporated in Singapore to be the transferee holding company for the purposes of this Act; and
 
@@ -166,7 +142,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (b) cease to have effect as a document of title of the shares comprised in that certificate.
 
-(5) The reduction of the share capital of SES, SIMEX and SCCS under subsections (1), (2) and (3) respectively shall not be subject to the requirements of section 73 of the Companies Act (Cap. 50) (which provides for special resolution for reduction of share capital).
+(5) The reduction of the share capital of SES, SIMEX and SCCS under subsections (1), (2) and (3), respectively, shall not be subject to the requirements of section 73 of the Companies Act (Cap. 50) (which provides for special resolution for reduction of share capital).
 
 ### Capital creation and issue of shares of SES, SIMEX and SCCS
 
@@ -202,13 +178,15 @@ shall prohibit the capital reduction under section 4 and the capital creation un
 
 (5) The transferee holding company’s shares issued under this section shall —
 
-(a) be of such value as the Minister may, by notification in theGazette, determine; and
+(a) be of such value as the Minister may, by notification in theGazette, determine\*; and
+
+\*$5,000 per share (G.N. No. S 526/99 — with effect from 1st December 1999).
 
 (b) be issued as fully paid and deemed for the purposes of the Companies Act (Cap. 50) as if they had been paid-up.
 
 ### Transfer of reserves of SES, SIMEX and SCCS
 
-7\.—(1) The assets of SES, SIMEX and SCCS respectively certified under subsection (2) shall be transferred to the transferee holding company on such date or dates as the Minister may determine.
+7\.—(1) The assets of SES, SIMEX and SCCS, respectively, certified under subsection (2) shall be transferred to the transferee holding company on such date or dates as the Minister may determine.
 
 (2) For the purposes of subsection (1), the Minister shall on the transfer date and from time to time certify, by notification in theGazette, the description and value of the assets to be transferred to the transferee holding company on such date or dates as the Minister may determine.
 
@@ -220,13 +198,13 @@ shall prohibit the capital reduction under section 4 and the capital creation un
 
 (2) The special purpose company shall, from time to time, offer for sale such number of the transferee holding company’s shares, at such price and on such terms, as the Minister may, by notice in writing, direct.
 
-(3) Divisions 1 and 5 of Part IV of the Companies Act (Cap. 50) (which provides for prospectus requirements) shall not apply to an offer of shares made by the transferee holding company under subsection (1) or by the special purpose company under subsection (2).
+(3) Divisions 1 and 5 of Part IV of the Companies Act (which provides for prospectus requirements) shall not apply to an offer of shares made by the transferee holding company under subsection (1) or by the special purpose company under subsection (2).
 
 (4) Section 76 of the Companies Act (which prohibits a company from financing dealings in its own shares) shall not apply in relation to any guarantee, indemnity, warranty, representation or other undertaking given or obligation assumed by the transferee holding company or the special purpose company in relation to an offer of shares made under subsection (1) or (2).
 
 ### Exemption from section 59 of Companies Act
 
-9\. Section 59 of the Companies Act (which requires a statement in lieu of a prospectus on allotment of shares) shall not apply to the issue of the transferee holding company’s shares under section 6 or 8.
+9\. Section 59 of the Companies Act (Cap. 50) (which requires a statement in lieu of a prospectus on allotment of shares) shall not apply to the issue of the transferee holding company’s shares under section 6 or 8.
 
 ### Proceeds from sale of shares
 
@@ -236,7 +214,7 @@ shall prohibit the capital reduction under section 4 and the capital creation un
 
 ### Application of Companies Act to shares held by special purpose company
 
-11\.—(1) Notwithstanding section 213 of the Companies Act (Cap. 50) (which deals with take-over offers) and the Singapore Code on Take-Overs and Mergers referred to in section 213(18)(a) of the Companies Act (referred to in this section as the Code), the transferee holding company’s shares held by the special purpose company under section 8(1) shall not be taken into account in determining whether —
+11\.—(1) Notwithstanding section 213 of the Companies Act (which deals with take-over offers) and the Singapore Code on Take-Overs and Mergers referred to in section 213(18)(a) of the Companies Act (referred to in this section as the Code), the transferee holding company’s shares held by the special purpose company under section 8(1) shall not be taken into account in determining whether —
 
 (a) the special purpose company;
 
@@ -244,7 +222,7 @@ shall prohibit the capital reduction under section 4 and the capital creation un
 
 (c) a company acting in concert with the company referred to in paragraph (a) or (b), as defined in the Code,
 
-has acquired shares which carry the right to exercise or control the exercise of the votes attached to the transferee holding company’s shares for the purposes of section 213 of the Companies Act or the Code.
+has acquired shares which carry the right to exercise or control the exercise of the votes attached to the transferee holding company’s shares for the purposes of section 213 of the Companies Act (Cap. 50) or the Code.
 
 (2) Notwithstanding any of the provisions of the Companies Act or anything contained in the memorandum or articles of association of the transferee holding company or the special purpose company, the special purpose company shall —
 
@@ -316,17 +294,19 @@ issue directives either of a general or specific nature to the transferee holdin
 
 (4) If the transferee holding company or any of its officers or employees, without reasonable excuse, fails to comply with any directive issued under subsection (1), the company, officer or employee shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine of $10,000 for every day or part thereof during which the offence continues after conviction.
 
-(5) The Authority may, without instituting proceedings against any person for an offence under this section, demand and receive the amount of such fine or such reduced amount as it thinks fit from such person, whereupon —
+(5) The Authority may, without instituting proceedings against any person for an offence under this section, demand and receive the amount of such fine or such reduced amount as it thinks fit from that person.
 
-(a) if such person pays such amount to the Authority within 14 days after the demand, no proceedings shall be taken against him in relation to the offence; or
+(6) If the person referred to in subsection (5) —
 
-(b) if such person does not pay the amount so demanded, the Authority may cause proceedings to be instituted against him in relation to the offence.
+(a) pays such amount to the Authority within 14 days after the demand, no proceedings shall be taken against him in relation to the offence; or
 
-(6) Without prejudice to subsection (4), where the High Court is satisfied that the transferee holding company or any of its officers or employees has, without reasonable excuse, failed to comply with any directive issued under subsection (1), the High Court may, on the application of the Authority, grant an injunction directing the company or any of its officers or employees to do or refrain from doing a specific act.
+(b) does not pay the amount so demanded, the Authority may cause proceedings to be instituted against him in relation to the offence.
 
-(7) The High Court may revoke, vary or discharge an order made under subsection (6) or suspend the operation of such an order.
+(7) Without prejudice to subsection (4), where the High Court is satisfied that the transferee holding company or any of its officers or employees has, without reasonable excuse, failed to comply with any directive issued under subsection (1), the High Court may, on the application of the Authority, grant an injunction directing the company or any of its officers or employees to do or refrain from doing a specific act.
 
-(8) If the transferee holding company or any of its officers or employees is aggrieved by any direction of the Authority under subsection (1), the transferee holding company may appeal to the High Court within 30 days of the date of issue of the Authority’s directive.
+(8) The High Court may revoke, vary or discharge an order made under subsection (7) or suspend the operation of such an order.
+
+(9) If the transferee holding company or any of its officers or employees is aggrieved by any direction of the Authority under subsection (1), the transferee holding company may appeal to the High Court within 30 days of the date of issue of the Authority’s directive.
 
 ### Control of substantial shareholdings in transferee holding company
 
@@ -380,151 +360,65 @@ he shall immediately report the matter to the Authority.
 
 and the transferee holding company shall remunerate the auditor in respect of the discharge by him of all or any of these additional duties.
 
-(5) For the avoidance of doubt, sections 207 and 208 of the Companies Act shall, to the extent to which they may be applicable, apply to the discharge of an auditor’s additional duties under subsection (4).
+(5) For the avoidance of doubt, sections 207 and 208 of the Companies Act (Cap. 50) shall, to the extent to which they may be applicable, apply to the discharge of an auditor’s additional duties under subsection (4).
 
 ### Jurisdiction of District Court
 
 17\. Notwithstanding the provisions of the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to hear and determine all offences under this Act and shall have power to impose the full penalty or punishment in respect of any offence under this Act.
 
-### Amendment to Monetary Authority of Singapore Act
+## LEGISLATIVE HISTORY
 
-18\. The Monetary Authority of Singapore Act (Cap. 186) is amended by inserting, immediately after Part IV, the following Part:
+Exchanges (Demutualisation and Merger) Act
 
-“
+(CHAPTER 99B)
 
-## PART IVA
+This Legislative History is provided for the convenience of users of the Exchanges (Demutualisation and Merger) Act. It is not part of this Act.
 
-FINANCIAL SECTOR DEVELOPMENT FUND
+||||
+|:-|:-|:-|
+|1.|**Act 27 of 1999—Exchanges (Demutualisation and Merger) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 20/99 published on 7 July 1999)|
+||Date of Second and Third Readings|4 August 1999|
+||Date of commencement|8 October 1999|
+|||(except sections 19 (a), (b)and (c) and 20(d), (e), (f), (h) and (i))|
+|2.|**Act 27 of 1999—Exchanges (Demutualisation and Merger) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 20/99 published on 7 July 1999)|
+||Date of Second and Third Readings|4 August 1999|
+||Date of commencement|1 December 1999|
+|||(section 20(d), (e), (f), (h) and (i))|
+|3.|**Act 27 of 1999—Exchanges (Demutualisation and Merger) Act 1999**|
+||Date of First Reading|6 July 1999|
+|||(Bill No. 20/99 published on 7 July 1999)|
+||Date of Second and Third Readings|4 August 1999|
+||Date of commencement|1 October 2000|
+|||(section 19(a), (b)and (c))|
+|4.|**2000 Revised Edition—Exchanges (Demutualisation and Merger) Act**|
+||Date of operation|30 December 2000|
+## COMPARATIVE TABLE
 
-### Establishment of Financial Sector Development Fund
+Exchanges (Demutualisation and Merger) Act
 
-30A\.—(1) There shall be established a fund to be called the Financial Sector Development Fund (referred to in this Part as the Fund) which shall, subject to the directions of the Minister, be controlled and administered by the Authority.
+(CHAPTER 99B)
 
-(2) The Fund shall consist of —
+The following provisions in the Exchanges (Demutualisation and Merger) Act 1999 (Act 27 of 1999) have been renumbered by the Law Revision Commissioners in this 2000 Revised Edition.
 
-(a) such proceeds raised in connection with the sale of the transferee holding company’s shares as is referred to in section 10 of the Exchanges (Demutualisation and Merger) Act 1999;
+This Comparative Table is provided for the convenience of users. It is not part of the Exchanges (Demutualisation and Merger) Act.
 
-(b) all moneys contributed by the Government to the Fund;
+2000 Ed\. 
 
-(c) all donations and gifts accepted by the Authority for the Fund; and
+Act 27 of 1999 
 
-(d) any interest, dividend and other income derived from the investment of the moneys in the Fund.
+14 — (5) and (6)
 
-(3) The Fund shall be used for the objects and purposes set out in section 30B and shall be deemed not to be a fund of the Authority for the purposes of any written law.
+14 — (5)
 
-### Objects of Fund and expenditure of moneys of Fund
+(7) to (9)
 
-30B\.—(1) The objects for which moneys of the Fund may be applied are as follows:
+(6) to (8)
 
-(a) the promotion of Singapore as a financial centre;
+Omitted
 
-(b) the development and upgrading of skills and expertise required by the financial services sector;
-
-(c) the development and support of educational and research institutions, research and development programmes and projects relating to the financial services sector; and
-
-(d) the development of infrastructure to support the financial services sector in Singapore.
-
-(2) In carrying out the objects of the Fund, the Authority may, from time to time, authorise moneys of the Fund to be paid out and expended for all or any of the following purposes carried out in Singapore or elsewhere:
-
-(a) establishing or expanding facilities or assisting in the maintenance of facilities for training courses and training programmes designed to promote the skills or expertise for purposes consistent with the objects of the Fund;
-
-(b) the provision of scholarships, grants, subsidies, rebates, loans or other financial assistance or incentives for purposes consistent with the objects of the Fund; and
-
-(c) such other purposes not inconsistent with the objects of the Fund as the Minister may approve.
-
-(3) The Authority may also authorise moneys of the Fund to be used to pay the following:
-
-(a) all claims in satisfaction of any indemnity or warranty given by the Authority in relation to the sale of the transferee holding company’s shares as defined in the Exchanges (Demutualisation and Merger) Act 1999;
-
-(b) all expenses incurred by the Authority or its employees or agents in the administration of the Fund; and
-
-(c) the fees referred to in section 30C(3).
-
-(4) The Minister may, from time to time, approve the payment of such sums in the Fund to the Consolidated Fund as the Minister may determine.
-
-### Investment
-
-30C\.—(1) The Authority may invest the moneys of the Fund available for investment in such manner as trustees may by any written law be authorised to invest, or in such other manner as the Minister may determine.
-
-(2) The Authority may delegate all or any of its powers and functions under subsection (1) to any employee or agent as it may appoint.
-
-(3) The Authority may pay to any person appointed under subsection (2) a fee for any service rendered in exercise of any power and function delegated to that person under that subsection.
-
-### Financial provisions
-
-30D\. Sections 32, 33 and 34 shall apply, with the necessary modifications, to the Authority in relation to its administration of the Fund.
-
-”.
-
-### Amendments to Futures Trading Act
-
-19\. The Futures Trading Act (Cap. 116) is amended —
-
-(a) by deleting the definition of “business rules” in section 2 and substituting the following definition:
-
-“
-
-“business rules”, in relation to a body corporate that maintains or proposes to maintain a futures market or a clearing house, means the rules, regulations and by-laws, by whatever name called, governing the activities and conduct of —
-
-(a) the body corporate and its members; and
-
-(b) other persons in relation to the futures market or clearing house, as the case may be,
-
-whether those rules, regulations or by-laws are made by the body corporate or are contained in the memorandum and articles of association of the body corporate or altered or supplemented by the Authority under section 6(4);
-
-”;
-
-(b) by deleting the words “, or an association or organisation forming part of a Futures Exchange,” in the definition of “clearing house” in section 2;
-
-(c) by deleting sub-paragraph (iv) of section 4(2)(a) and substituting the following sub-paragraph:
-
-“
-
-(iv) with respect to the clearing and other arrangements made and the financial condition of the proposed Futures Exchange, the clearing house for futures contracts to be entered into on the Futures Exchange, and the members of the clearing house, such as to provide reasonable assurance that all obligations arising out of those contracts will be met;
-
-”; and
-
-(d) by deleting the words “No person” in the 1st line of section 65(1) and substituting the words “Except with the approval of the Authority, no person”.
-
-### Amendments to Securities Industry Act
-
-20\. The Securities Industry Act (Cap. 289) is amended —
-
-(a) by deleting the words “or bonds” in paragraph (a) ofthe definition of “securities” in section 2(1) and substituting the words “, bonds or notes”;
-
-(b) by deleting the words “or option” in paragraph (c) ofthe definition of “securities” in section 2(1) and substituting the words “, option or derivative”;
-
-(c) by deleting the word “or” at the end of paragraph (c) ofthe definition of “securities” in section 2(1) and, by inserting immediately thereafter the following paragraph:
-
-“
-
-(ca) any right under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
-
-(i) the value or price of any such debentures, stocks, shares, bonds or notes;
-
-(ii) the value or price of any group of any such debentures, stocks, shares, bonds or notes; or
-
-(iii) an index of any such debentures, stocks, shares, bonds or notes; or
-
-”;
-
-(d) by deleting subsection (3) of section 16;
-
-(e) by inserting, immediately after the words “exchange or” in the 3rd line of section 88(3), the words “against any member or employee”;
-
-(f) by inserting, immediately after the words “exchange or” in the 2nd line of section 95(3), the words “against any member or employee of”;
-
-(g) by deleting the words “A body” in the 1st line of section 106(2) and substituting the words “Except with the approval of the Authority, a body”;
-
-(h) by deleting the word “member” in the following provisions and substituting in each case the words “member company”:
-
-Sections 19(2) (3rd and 5th lines), (3) (4th line) and (4) (3rd, 4th and 5th lines), 21(5) (6th and 7th lines), 49(5)(a) (1st and 5th lines), 52(4) (2nd line) and 70(1) (14th line); and
-
-(i) by deleting the word “members” in the following provisions and substituting in each case the words “member companies”:
-
-“
-
-Sections 2(1) (definition of “rules”) (3rd line), 10(3) (4th line), 16(2) (a) and (b) (ii) (2nd line), (iv) and (v) and 17(2)(a)(A) and (B).
-
-”.
+18 ,19 and20 
 
