@@ -8717,3 +8717,8 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 24/99 published on 7 July 1999)|
 ||Date of Second and Third Readings|17 August 1999|
 ||Date of commencement|18 November 1998 (Section 4(b))|
+|130.|**Act 24 of 2000—Income Tax (Amendment) Act 2000**|
+||Date of First Reading|30 June 2000|
+|||(Bill No. 20/2000 published on 1 July 2000)|
+||Date of Second and Third Readings|25 August 2000|
+||Date of commencement|28 February 1999 (Section 8)|
