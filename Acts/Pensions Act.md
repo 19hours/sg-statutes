@@ -562,7 +562,11 @@ Pensionable service
 
 (d) any period during which he has been absent from duty on leave without salary, granted on grounds of public policy with the approval of the President, and during which he has not qualified for pension or gratuity in respect of other public service;
 
-(e) any period during which an officer shall have been seconded for other public service or for service under a public body with the approval of the President, or may have been seconded for service under any Malayan Government.
+(e) any period during which an officer shall have been seconded for other public service or for service under a public body with the approval of the President, or may have been seconded for service under any Malayan Government;
+
+(f) any period during which an officer has been granted leave without salary to serve under a private body with the approval of the President unless the officer has exercised an irrevocable option not to have the period taken into account as pensionable service.
+
+[S 31/1993 wef 19/02/1993]
 
 (2) The period of enemy occupation and any period subsequent thereto before an officer resumed duty may, unless in any particular case the President shall otherwise direct, be counted as service qualifying for a pension or gratuity or allowance as if the enemy occupation had not occurred and in particular no officer otherwise eligible for the grant of any pension, gratuity or allowance shall be disqualified from counting such service merely by reason of the fact that, during the period of enemy occupation or such subsequent period as aforesaid, he was absent from duty or that his service was broken or that he was not in receipt of full salary:
 
@@ -1632,3 +1636,5 @@ This Legislative History is provided for the convenience of users of the Pension
 ||Date of operation|30 March 1987|
 |31.|**G. N. No. S 484/1989—Pensions (Amendment) Regulations 1989**|
 ||Date of commencement|15 December 1989|
+|32.|**G. N. No. S 31/1993—Pensions (Amendment) Regulations 1993**|
+||Date of commencement|19 February 1993|
