@@ -1060,7 +1060,13 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (e) discount derived from outside Singapore and received in Singapore on or after 27th February 2004;
 
-(f) discount from qualifying debt securities which mature within one year from the date of issue of those securities and issued during the period from 27th February 2004 to 31st December 2008; and
+(f) discount from —
+
+(i) qualifying debt securities issued during the period from 27th February 2004 to 16th February 2006 which mature within one year from the date of issue of those securities; or
+
+(ii) qualifying debt securities issued during the period from 17th February 2006 to 31st December 2008; and
+
+[7/2007 wef 17/02/2006]
 
 (g) gains or profits derived on or after 27th February 2004 from the disposal of debentures, stocks, shares, bonds or notes issued by supranational bodies,
 
@@ -1137,6 +1143,28 @@ which do not form part of the statutory income of the designated unit trust or a
 (26) Any payment accrued to a self-employed woman under section 9(2) of the Children Development Co-Savings Act (Cap. 38A) shall be deemed to be income from her trade, business, profession or vocation chargeable to tax under subsection (1)(a).
 
 [24/2001]
+
+(27) Where any income is derived by a special purpose vehicle under any approved Islamic debt securities arrangement entered into on or after 17th February 2006, the income shall be deemed to have been derived at the end of the arrangement by the originator of the arrangement.
+
+[53/2007 wef 17/02/2006]
+
+(28) In subsection (27) —
+
+“approved” means approved by the Minister or such person as he may appoint, subject to such conditions as the Minister or person may impose;
+
+“Islamic debt securities” has the same meaning as in section 43N(4);
+
+“Islamic debt securities arrangement” means an arrangement under which —
+
+(a) immovable properties in Singapore are acquired by a special purpose vehicle from a person (referred to in this subsection and subsection (27) as the originator) where the acquisition is funded through the issuance of Islamic debt securities by the special purpose vehicle;
+
+(b) the immovable properties are leased by the special purpose vehicle to the originator; and
+
+(c) the immovable properties are reacquired by the originator upon the maturity of the Islamic debt securities;
+
+“special purpose vehicle” means a company whose only business is to acquire the originator’s immovable properties in Singapore, lease them back to the originator and transfer such properties to the originator upon the maturity of the Islamic debt securities.
+
+[53/2007 wef 17/02/2006]
 
 ### Profits of investment company
 
@@ -1985,25 +2013,13 @@ EXEMPTION FROM INCOME TAX
 
 (viii) cloves;
 
-(o) payments made under any agreement or arrangement approved by the Minister or such person as he may appoint to a person not resident in Singapore (excluding any permanent establishment in Singapore) by an international shipping enterprise approved under section 13F —
-
-(i) on or after 1st April 1991 for the charter of a foreign ship within the meaning of that section (other than that used for towing or salvage operations during the period 1st April 1991 to 2nd May 2002);
-
-(ii) on or after 27th February 1999 for the charter of a floating production storage offloading ship or floating storage offloading ship; and
-
-(iii) on or after 3rd May 2002 for the charter of a dredger, seismic ship or semi-submersible rig,
-
-except for any payment attributable to the carriage of passengers, mails, livestock or goods from Singapore;
-
-[37/2002 wef 10/12/2002]
+(o) payments made on or after 1st April 1991 under any agreement or arrangement approved by the Minister or such person as he may appoint to a person not resident in Singapore (excluding any permanent establishment in Singapore) by an international shipping enterprise approved under section 13F for the charter of a foreign ship within the meaning of that section, an approved floating production storage offloading ship or an approved floating storage offloading ship, except for any payment attributable to the carriage of passengers, mails, livestock or goods from Singapore;
 
 (p) for a period of 10 years from the commencement of its business, such income of the Singapore Commodity Exchange Limited as may be prescribed;
 
 (q) the investment income of any approved pension or provident fund or society;
 
-(r) the income derived on or after 3rd May 2002 by an individual not resident in Singapore from acting as an arbitrator, and for this purpose, “arbitrator” means an individual appointed for any arbitration which is governed by the Arbitration Act (Cap. 10) or the International Arbitration Act (Cap. 143A) or would have been governed by either of those Acts had the place of arbitration been Singapore;
-
-[37/2002 wef 10/12/2002]
+(r) [Deleted by Act 29/65);]
 
 (s) sums payable by way of annual bounty out of the public revenue to members of such local forces as the Minister may from time to time by order declare to be a force to which this paragraph shall apply;
 
@@ -2025,13 +2041,9 @@ except for any payment attributable to the carriage of passengers, mails, livest
 
 (x) the income derived by a person resident in Singapore from any pension granted under any written law relating to pensions in Singapore, or from any pension paid under such other pensions scheme as may be approved by the Minister by notification in the Gazette to the extent of such amount of the pension as the Comptroller may determine relating to the period of employment of that person with the employer before 1st January 1993;
 
-(y) such income as may be prescribed by regulations under section 43A, 43C, 43E or 43N;
+(y) such income as may be prescribed by regulations under section 43A, 43C, 43E or 43N; and
 
-(z) such income derived by the Singapore Exchange Derivatives Trading Limited before 1st January 2004 as may be prescribed ; and
-
-(za) any dividends accrued in or derived from Singapore on or after 1st January 2003 paid by any company from which tax is not deductible and not deducted under section 44.
-
-[Act 37/2002; Act 21/2003 wef 01/04/2003]
+(z) such income derived by the Singapore Exchange Derivatives Trading Limited before 1st January 2004 as may be prescribed.
 
 (2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 27th February 2003where 50% or more of the issue of those securities is beneficially held or funded, directly or indirectly, at any time during the life of the issue by related parties of the issuer of those securities and where such interest is derived by —
 
@@ -3828,6 +3840,10 @@ ought not to have been so allowed or exempted, as the case may be, the Comptroll
 where
 
 A is the amount of upfront land premium paid; and
+
+B is the number of years of the term of the designated lease for which the upfront land premium was paid.
+
+where A is the amount of upfront land premium paid; and
 
 B is the number of years of the term of the designated lease for which the upfront land premium was paid.
 
@@ -5789,7 +5805,7 @@ within such time and in such manner as the Comptroller may determine.
 
 (d) an overseas investment company under section 97C(4) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date of commencement of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004; or
 
-(e) a technopreneurstart-up company under section 97T(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+(e) a start-up company under section 97T(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
 
 [11/2004 wef 28/04/2004]
 
@@ -6375,7 +6391,7 @@ where
 
 A is the tax chargeable on the chargeable income of the person for the year of assessment calculated in accordance with section 43(6) as if the person is a company; and
 
-B is the chargeable income of the person for the year of assessment
+B is the chargeable income of the person for the year of assessment.
 
 (6) There shall be levied and paid for each year of assessment upon the following income derived by a body of persons at the rate of 10%:
 
@@ -10241,6 +10257,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 27/2005 published on 20 September 2005)|
 ||Date of Second and Third Readings|18 October 2005|
 ||Date of commencement|21 September 2004 (Sections 10(f), 21)|
+|185.|**Act 48 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 56/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|25 November 2004 (section 16 — amendment of Income Tax Act)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
