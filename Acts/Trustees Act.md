@@ -384,7 +384,7 @@ INVESTMENTS
 
 ### Statutory powers of investment
 
-6\.—(1) In the case of trustees constituted under any written law, other than the Companies Act (Cap. 50), the power to invest in any manner mentioned in Parts II and III of the First Schedule shall apply only in so far as the Minister may direct.
+6\.—(1) In the case of trustees constituted under any written law, other than the Securities and Futures Act 2001, the power to invest in any manner mentioned in Parts II and III of the First Schedule shall apply only in so far as the Minister may direct.
 
 [42/2001 wef 01/07/2002]
 
@@ -1864,6 +1864,12 @@ This Legislative History is provided for the convenience of users of the Trustee
 |||(Bill No. 17/2001 published on 6 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
+|22.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||(Consequential amendments made by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 July 2002 (item (13) of Fourth Schedule)|
 ## COMPARATIVE TABLE
 
 Trustees Act
