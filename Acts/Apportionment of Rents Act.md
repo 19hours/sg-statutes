@@ -50,7 +50,9 @@ An Act to apportion rents under State leases and grants.
 
 “Collector” means a Collector of Land Revenue;
 
-“competent authority” means an authority appointed under section 3 of the Planning Act [Cap. 232];
+“competent authority” means the competent authority appointed under section 5 of the Planning Act 1998 in respect of the grant of subdivision permission;
+
+[Act 3/98]
 
 “grant” means a grant in perpetuity;
 
@@ -62,13 +64,13 @@ An Act to apportion rents under State leases and grants.
 
 “notice” means a notice of apportionment of rent;
 
-“subdivided land” means any land in respect of which permission to subdivide has been granted by a competent authority under the Planning Act .
+“subdivided land” means any land in respect of which subdivision permission to subdivide has been granted by a competent authority under the Planning Act 1998.
 
 [9/75]
 
 ### Subdivision of land to be notified
 
-3\.—(1) Every lessee or grantee of land comprised in any State lease or grant shall, within one month from the date of obtaining any written permission from the competent authority to subdivide such land, inform the Collector in writing of the written permission together with a copy of the approved plan showing the subdivision and particulars of the persons entitled as beneficial owners to the parts of the subdivided land.
+3\.—(1) Every lessee or grantee of land comprised in any State lease or grant shall, within one month from the date of obtaining any subdivision permission from the competent authority to subdivide such land, inform the Collector in writing of the subdivision permission together with a copy of the approved plan showing the subdivision and particulars of the persons entitled as beneficial owners to the parts of the subdivided land.
 
 [9/75]
 
@@ -88,7 +90,7 @@ An Act to apportion rents under State leases and grants.
 
 ### Mode of service of notice where not personal
 
-5\. If the Collector is unable to find any person upon whom service ought to be effected, he may serve the notice upon that person by posting it on the land and at the Land Office, and such posting shall be deemed to be good service.
+5\. If the Collector is unable to find any person upon whom service ought to be effected, he may serve the notice upon that person by posting it on the land and the Land Office, and such posting shall be deemed to be good service.
 
 ### Objection to apportionment
 
@@ -132,9 +134,9 @@ An Act to apportion rents under State leases and grants.
 
 (2) All entries in the Record of Apportionment of Rents shall be prima facie evidence in any court of law of the truth of the facts therein stated.
 
-[12\*
+[12 and1
 
-\*Sections 9 and 10, together with Schedules A, B and C, in the 1970 Edition were repealed by Act 9/75.
+1Sections 910, together with Schedules A, B and C, in the 1970 Edition were repealed by Act 9/75.
 
 ## LEGISLATIVE HISTORY
 
@@ -182,3 +184,9 @@ This Legislative History is provided for the convenience of users of the Apporti
 ||Date of commencement|16 May 1975|
 |11.|**1985 Revised Edition—Apportionment of Rents Act**|
 ||Date of operation|30 March 1987|
+|12.|**Act 3 of 1998—Planning Act 1998**|
+||(Consequential amendments made by)||
+||Date of First Reading|19 November 1997|
+|||(Bill No. 18/97 published on 20 November 1997)|
+||Date of Second and Third Readings|14 January 1998|
+||Date of commencement|1 April 1998|
