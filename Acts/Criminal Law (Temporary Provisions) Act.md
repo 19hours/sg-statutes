@@ -734,7 +734,9 @@ Essential Services
 
 (a) the Board of Commissioners of Currency, Singapore ;
 
-(b) the CISCO Brambles Records Management Pte. Ltd.;
+(b) the CISCO Recall Total Information Management Pte. Ltd.
+
+[S 343/2001 wef 13/07/2001]
 
 (c) the CISCO Security Technology Pte. Ltd.;
 
@@ -955,6 +957,8 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of commencement|24 January 2000|
 |40.|**2000 Revised Edition—Criminal Law (Temporary Provisions) Act**|
 ||Date of operation|1 July 2000|
+|41.|**G. N. No. S 343/2001—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) Notification 2001**|
+||Date of commencement|13 July 2001|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
