@@ -4154,3 +4154,8 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 11/95 published on 2 March 1995)|
 ||Date of Second and Third Readings|23 March 1995|
 ||Date of commencement|28 April 1995|
+|23.|**Act 17 of 1996—Housing and Development (Amendment) Act 1996**|
+||Date of First Reading|27 February 1996|
+|||(Bill No. 6/96 published on 28 February 1996)|
+||Date of Second and Third Readings|2 May 1996|
+||Date of commencement|7 June 1996|
