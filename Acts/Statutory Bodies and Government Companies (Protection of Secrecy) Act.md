@@ -66,6 +66,8 @@ An Act to protect the secrecy of information of statutory bodies and Government 
 
 Sections 2 and 5
 
+the Schedule
+
 Part I
 
 Statutory Bodies
@@ -74,145 +76,105 @@ Statutory Body
 
 Act under which Established or Constituted
 
-1.
-
-Board of Commissioners of Currency, Singapore
+1. Board of Commissioners of Currency, Singapore
 
 Currency Act (Chapter 69).
 
-2.
-
-Central Provident Fund Board
+2. Central Provident Fund Board
 
 Central Provident Fund Act (Chapter 36).
 
-3.
-
-Civil Aviation Authority of Singapore
+3. Civil Aviation Authority of Singapore
 
 Civil Aviation Authority of Singapore Act (Chapter 41).
 
-4.
-
-Commercial and Industrial Security Corporation
+4. Commercial and Industrial Security Corporation
 
 Commercial and Industrial Security Corporation Act (Chapter 47).
 
-5.
-
-Construction Industry Development Board
+5. Construction Industry Development Board
 
 Construction Industry Development Board Act (Chapter 51).
 
-6.
-
-Economic Development Board
+6. Economic Development Board
 
 Economic Development Board Act (Chapter 85).
 
-7.
-
-Housing and Development Board
+7. Housing and Development Board
 
 Housing and Development Act (Chapter 129).
 
-8.
-
-Inland Revenue Authority of Singapore
+8. Inland Revenue Authority of Singapore
 
 Inland Revenue Authority of Singapore Act (Chapter 138A).
 
-9.
-
-Jurong Town Corporation
+9. Jurong Town Corporation
 
 Jurong Town Corporation Act (Chapter 150).
 
-9A.
+9A. Maritime and Port Authority of Singapore
 
-Maritime and Port Authority of Singapore
+Maritime and Port Authority of Singapore Act 1996.
 
-Maritime and Port Authority of Singapore Act 1996
+10. Land Transport Authority of Singapore
 
-10.
+Land Transport Authority of Singapore Act 1995.
 
-Land Transport Authority of Singapore
-
-Land Transport Authority of Singapore Act 1995
-
-11.
-
-Monetary Authority of Singapore
+11. Monetary Authority of Singapore
 
 Monetary Authority of Singapore Act (Chapter 186).
 
-12.
-
-National Computer Board
+12. National Computer Board
 
 National Computer Board Act (Chapter 195).
 
-13.
-
-Port of Singapore Authority
+13. Port of Singapore Authority
 
 Port of Singapore Authority Act (Chapter 236).
 
-14.
-
-Public Transport Council
+14. Public Transport Council
 
 Public Transport Council Act (Chapter 259B).
 
-15.
-
-Public Utilities Board
+15. Public Utilities Board
 
 Public Utilities Act (Chapter 261).
 
-16.
-
-Singapore Broadcasting Authority
+16. Singapore Broadcasting Authority
 
 Singapore Broadcasting Authority Act (Chapter 297).
 
-17.
+17. Singapore Productivity and Standards Board
 
-Singapore Productivity and Standards Board
+Singapore Productivity and Standards Board Act 1995.
 
-Singapore Productivity and Standards Board Act 1995
-
-18.
-
-Singapore Tourist Promotion Board
+18. Singapore Tourist Promotion Board
 
 Tourist Promotion Board Act (Chapter 328).
 
-19.
-
-Telecommunication Authority of Singapore
+19. Telecommunication Authority of Singapore
 
 Telecommunication Authority of Singapore Act (Chapter 323).
 
-20.
-
-Trade Development Board
+20. Trade Development Board
 
 Trade Development Board Act (Chapter 330).
 
-21.
-
-Urban Redevelopment Authority
+21. Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340).
 
-[29/1995 wef 01/09/1995]
+[Act 7/96 wef 02/02/1996 vide S 42/96]
 
-[7/1996 wef 02/01/1996]
+[Act 29/95 wef 01/09/1995 vide S 383/95]
 
-[1/1996 wef 01/04/1996]
+[Act 1/96 wef 01/04/1996 vide S 141/96]
 
-Part II
+Part II1
+
+1deleted by s 92[sol ]98 wef 27[sol ]02[sol ]1998
+
+1
 
 Government Companies
 
@@ -222,13 +184,23 @@ Government Companies
 
 3\. National Computer Systems Pte. Ltd.
 
-4\. Singapore Aerospace Ltd. and its subsidiary corporations.
+4\. Singapore Technologies Aerospace Ltd and its subsidiary corporations.
 
-5\. SNP Corporation Ltd.
+4.
+
+[S 430/98 wef 08/09/1997]
+
+5. SNP Corporation Ltd and its subsidiary corporations.
+
+[S 483/96 wef 01/01/1995]
 
 6\. Singapore Post Private Limited.
 
-7\. Singapore Shipbuilding & Engineering Limited and its subsidiary corporations.
+7\. Singapore Technologies Marine Ltd and its subsidiary corporations.
+
+7.
+
+[S 430/98 wef 08/09/1997]
 
 8\. Singapore Technologies Holdings Pte. Ltd. and its subsidiary corporations.
 
@@ -236,45 +208,49 @@ Government Companies
 
 10\. Singapore Telecommunications Limited.
 
-11\. Singapore Power Ltd.
+11. Singapore Power Ltd.
 
-11. 
+[S 446/96 wef 04/10/1996]
 
-[S 446/1996 wef 04/10/1996]
+12. Power Supply Ltd.
 
-12\. Power Supply Ltd.
+[S 446/96 wef 04/10/1996]
 
-12. 
+13. PowerGrid Ltd.
 
-[S 446/1996 wef 04/10/1996]
+[S 446/96 wef 04/10/1996]
 
-13\. PowerGrid Ltd.
+14. PowerGas Ltd.
 
-13. 
+[S 446/96 wef 04/10/1996]
 
-[S 446/1996 wef 04/10/1996]
+15. PowerGen (Seraya) Ltd.
 
-14\. PowerGas Ltd.
+[S 446/96 wef 04/10/1996]
 
-14. 
+16. PowerGen (Senoko) Ltd.
 
-[S 446/1996 wef 04/10/1996]
-
-15\. PowerGen (Seraya) Ltd.
-
-15. 
-
-[S 446/1996 wef 04/10/1996]
-
-16\. PowerGen (Senoko) Ltd.
-
-16. 
-
-[S 446/1996 wef 04/10/1996]
+[S 446/96 wef 04/10/1996]
 
 17. Tuas Power Pte. Ltd.
 
-[S 565/1995 wef 22/12/1995]
+[S 565/95 wef 22/12/1995]
+
+19. Singapore Technologies Private Limited and its subsidiary corporations.
+
+[S 430/98 wef 08/09/1997]
+
+20. Singapore Technologies Engineering Ltd and its subsidiary corporations.
+
+[S 430/98 wef 08/09/1997]
+
+21. Singapore Technologies Automotive Ltd and its subsidiary corporations.
+
+[S 430/98 wef 08/09/1997]
+
+22. Singapore Technologies Electronics Ltd and its subsidiary corporations.
+
+[S 430/98 wef 08/09/1997]
 
 ## LEGISLATIVE HISTORY
 
@@ -339,3 +315,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 April 1996|
 |19.|**G. N. No. S 446/1996—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 1996**|
 ||Date of commencement|4 October 1996|
+|20.|**G. N. No. S 430/1998—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) (No. 2) Notification 1998**|
+||Date of commencement|8 September 1997|
