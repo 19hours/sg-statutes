@@ -178,7 +178,9 @@ Provided that instead of destroying or causing any such publication to be destro
 
 ### Appointment of controllers and authorised officers
 
-13\.—(1) The Assistant General Manager of the Postal Services Division of the Telecommunication Authority of Singapore, the Director-General or Customs and Excise, the Controller of Immigration and such other officers as the Minister may by notification in theGazetteappoint shall be controllers for the purposes of sections 10, 11 and 12.
+13\.—(1) The Director-General or Customs and Excise, the Controller of Immigration and such other officers as the Minister may by notification in theGazetteappoint shall be controllers for the purposes of sections 10, 11 and 12.
+
+[12/1992 wef 01/04/1992]
 
 (2) The Minister may, by writing under his hand, appoint any public officer to be an authorised officer for the purposes of sections 10 and 11.
 
@@ -229,3 +231,9 @@ This Legislative History is provided for the convenience of users of the Undesir
 ||Date of commencement|6 April 1973|
 |5.|**1985 Revised Edition—Undesirable Publications Act**|
 ||Date of operation|30 March 1987|
+|6.|**Act 12 of 1992—Telecommunication Authority of Singapore Act 1992**|
+||(Consequential amendments made by)||
+||Date of First Reading|27 February 1992|
+|||(Bill No. 16/92 published on 28 February 1992)|
+||Date of Second and Third Readings|19 March 1992|
+||Date of commencement|1 April 1992|
