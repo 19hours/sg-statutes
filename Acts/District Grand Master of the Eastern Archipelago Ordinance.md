@@ -20,7 +20,7 @@
 
 - [7 Notification of appointment of District Grand Master](#Notification-of-appointment-of-District-Grand-Master)
 
-- [8 Rights of Her Majesty](#Rights-of-Her-Majesty)
+- [8 Rights of Government](#Rights-of-Government)
 
 [**Legislative History**](#Legislative-History)
 
@@ -54,9 +54,7 @@ An Ordinance to incorporate the titular District Grand Master of the Eastern Arc
 
 3\.—(1) The Corporation may acquire, purchase, take, hold, and enjoy movable and immovable property of every description and whether situate in the Colony or elsewhere soever and either by way of gift or for valuable consideration or partly in one way and partly in the other. And may sell, convey, assign, surrender, yield up, mortgage, demise, reassign, transfer or otherwise dispose of any movable or immovable property vested in the Corporation upon such terms as to the Corporation seems fit.
 
-(2) The Corporation may either alone or in conjunction with any other person or persons whether incorporated or not accept and administer and either in the capacity of an operative or as a custodian trustee any trust express or implied and notwithstanding anything to the contrary contained in section 15 of the Trustees Ordinance whenever any immovable property is vested in the Corporation as sole trustee upon trust for sale or with power of sale the Corporation shall have the right to give valid receipts for the proceeds of sale or other capital money arising from such property.
-
-[1955 Ed. Cap. 34.]
+(2) The Corporation may either alone or in conjunction with any other person or persons whether incorporated or not accept and administer and either in the capacity of an operative or as a custodian trustee any trust express or implied and notwithstanding anything to the contrary contained in section 15 of the Trustees Ordinance [1955 Ed., Cap. 34] whenever any immovable property is vested in the Corporation as sole trustee upon trust for sale or with power of sale the Corporation shall have the right to give valid receipts for the proceeds of sale or other capital money arising from such property.
 
 ### Property vested in the Corporation to be held upon trust
 
@@ -70,19 +68,19 @@ And all movable and immovable property that shall come into or at any time be in
 
 ### Use of corporate Seal
 
-6\. All deeds, documents and other instruments requiring the Seal of the Corporation shall be sealed with the Seal of the Corporation in the presence of the District Grand Master of the Eastern Archipelago for the time being or his attorney duly authorised by a power of attorney deposited under section 48 of the Conveyancing and Law of Property Ordinance and shall also be signed by the said District Grand Master for the time being or his attorney so authorised as aforesaid.
+6\. All deeds, documents and other instruments requiring the Seal of the Corporation shall be sealed with the Seal of the Corporation in the presence of the District Grand Master of the Eastern Archipelago for the time being or his attorney duly authorised by a power of attorney deposited under section 48 of the Conveyancing and Law of Property Ordinance [1955 Ed., Cap. 243] and shall also be signed by the said District Grand Master for the time being or his attorney so authorised as aforesaid.
 
 Such signing shall be and be taken as sufficient evidence that the said Seal was duly and properly affixed and that the same is the lawful Seal of the Corporation.
-
-[1955 Ed. Cap. 243.]
 
 ### Notification of appointment of District Grand Master
 
 7\. A Notification in theGazetteof the appointment of any person to exercise the office of District Grand Master of the Eastern Archipelago shall be conclusive evidence that such person was duly authorised to exercise the said office.
 
-### Rights of Her Majesty
+### Rights of Government
 
-8\. Nothing in this Ordinance shall affect the rights of Her Majesty.
+8\. Nothing in this Ordinance shall affect the rights of the Government.
+
+[7/97 wef 01/10/1997]
 
 ## LEGISLATIVE HISTORY
 
@@ -94,12 +92,14 @@ This Legislative History is provided for the convenience of users of the Distric
 
 ||||
 |:-|:-|:-|
-|1.|**Act 2 of 1939—District Grand Master of the Eastern Archipelago Ordinance 1939**|
-||Date of First, Second and Third Readings|Date not available.|
+|1.|**Ordinance 2 of 1939—District Grand Master of the Eastern Archipelago Ordinance 1939**|
 ||Date of commencement|17 March 1939|
-|2.|**1955 Revised Edition (Cap. 297)—District Grand Master of the Eastern Archipelago Ordinance 1955**|
-||Date of operation|1 January 1955|
-|3.|**1985 Revised Edition—District Grand Master of the Eastern Archipelago Ordinance 1985**|
-||Date of operation|1 January 1985|
-|4.|**1985 Revised Edition—District Grand Master of the Eastern Archipelago Ordinance**|
+|2.|**1955 Revised Edition—District Grand Master of the Eastern Archipelago Ordinance (Cap. 297)**|
+||Date of operation|1 May 1955|
+|3.|**1985 Revised Edition—District Grand Master of the Eastern Archipelago Ordinance**|
 ||Date of operation|30 March 1987|
+|4.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (item (18) in the First Schedule)|
