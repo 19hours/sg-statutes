@@ -16,29 +16,23 @@
 
 [**Part II INVESTMENTS**](#Part-II)
 
-- [4 Authorised investments](#Authorised-investments)
+- [4 Powers of investment of trustees](#Powers-of-investment-of-trustees)
 
-- [5 Purchase at premium of redeemable stocks; change of character of investments](#Purchase-at-premium-of-redeemable-stocks;-change-of-character-of-investments)
+- [5 Duty of trustees in choosing investments](#Duty-of-trustees-in-choosing-investments)
 
-- [6 Discretion of trustees](#Discretion-of-trustees)
+- [6 Statutory powers of investment](#Statutory-powers-of-investment)
 
-- [7 New powers of investment of trustees](#New-powers-of-investment-of-trustees)
+- [7 Power to retain investment which has ceased to be authorised](#Power-to-retain-investment-which-has-ceased-to-be-authorised)
 
-- [8 Duty of trustees in choosing investments](#Duty-of-trustees-in-choosing-investments)
+- [8 Investment in bearer securities](#Investment-in-bearer-securities)
 
-- [9 Statutory powers of investment](#Statutory-powers-of-investment)
+- [9 Loans and investments by trustees not chargeable as breaches of trust](#Loans-and-investments-by-trustees-not-chargeable-as-breaches-of-trust)
 
-- [10 Power to retain investment which has ceased to be authorised](#Power-to-retain-investment-which-has-ceased-to-be-authorised)
+- [10 Liability for loss by reason of improper investment](#Liability-for-loss-by-reason-of-improper-investment)
 
-- [11 Investment in bearer securities](#Investment-in-bearer-securities)
+- [11 Powers supplementary to powers of investment](#Powers-supplementary-to-powers-of-investment)
 
-- [12 Loans and investments by trustees not chargeable as breaches of trust](#Loans-and-investments-by-trustees-not-chargeable-as-breaches-of-trust)
-
-- [13 Liability for loss by reason of improper investment](#Liability-for-loss-by-reason-of-improper-investment)
-
-- [14 Powers supplementary to powers of investment](#Powers-supplementary-to-powers-of-investment)
-
-- [15 Power to deposit at bank and to pay calls](#Power-to-deposit-at-bank-and-to-pay-calls)
+- [12 Power to deposit at bank, to pay calls and to purchase dwelling house for beneficiary](#Power-to-deposit-at-bank-to-pay-calls-and-to-purchase-dwelling-house-for-beneficiary)
 
 [**Part III GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES**](#Part-III)
 
@@ -214,9 +208,11 @@
 
 - [89 Indemnity](#Indemnity)
 
-[**FIRST SCHEDULE Particulars to be inserted in application for incorporation**](#FIRST-SCHEDULE)
+[**FIRST SCHEDULE Manner of Investment**](#FIRST-SCHEDULE-Manner-of-Investment)
 
-[**SECOND SCHEDULE Matters for which trusts deeds pursuant to unit trust schemes must provide**](#SECOND-SCHEDULE-Matters-for-which-trusts-deeds-pursuant-to-unit-trust-schemes-must-provide)
+[**SECOND SCHEDULE Particulars to be Inserted in Application for Incorporation**](#SECOND-SCHEDULE)
+
+[**THIRD SCHEDULE Matters for Which Trusts Deeds Pursuant to Unit Trust Schemes Must Provide**](#THIRD-SCHEDULE-Matters-for-Which-Trusts-Deeds-Pursuant-to-Unit-Trust-Schemes-Must-Provide)
 
 [**Legislative History**](#Legislative-History)
 
@@ -258,11 +254,13 @@ PRELIMINARY
 
 (a) incorporated in Singapore and which has a place of business in Singapore;
 
-(b) having as its sole or primary object the promotion of home ownership by advancing for the purchase of lands and buildings sums of money, repayable by instalments of principal and interest over a fixed period of years, not exceeding at any time the valuation or such lands and buildings made by an approved valuer; and
+(b) having as its sole or primary object the promotion of home ownership by advancing for the purchase of lands and buildings sums of money, repayable by instalments of principal and interest over a fixed period of years, not exceeding at any time the valuation of such lands and buildings made by an approved valuer; and
 
 (c) approved by the Minister by notification in theGazettefor the purpose of receiving loans from trustees in accordance with section 4(1)(e);
 
-“approved valuer” means a licensed surveyor or appraiser and includes any other person approved by the Minister;
+“approved valuer” means an appraiser or a surveyor who is registered under the Land Surveyors Act 1991 and has in force a practising certificate issued under that Act, and includes any other person approved by the Minister;
+
+[Act 24/91 wef 30/08/1991 vide S 344/91]
 
 “authorised investments” means investments authorised by the instrument, if any, creating the trust for the investment of money subject to the trust, or by law;
 
@@ -278,7 +276,13 @@ PRELIMINARY
 
 “instrument” includes a written law;
 
-“land” includes land of any tenure, and mines and minerals, whether or not severed from the surface, buildings or parts of buildings, whether the division is horizontal, vertical or made in any other way, and other corporeal hereditaments; also a rent and other incorporeal hereditaments, and an easement, right, privilege or benefit in, over or derived from land, or an undivided share in land; and in this definition “mines and minerals” include any stratum or seam of minerals or substances in or under any land, and powers of working and getting the same, and an undivided share thereof;
+“land” means —
+
+(a) the surface of any defined parcel of the earth, all substances thereunder and so much of the column of airspace above the surface whether or not held apart from the surface as is reasonably necessary for the proprietor’s use and enjoyment, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto; or
+
+(b) any parcel of airspace or any subterranean space held apart from the surface of the earth and described with certainty by reference to a plan approved by the Chief Surveyor and filed in the Survey Department, and includes any estate or interest therein and all vegetation growing thereon and structures affixed thereto;
+
+[Act 23/92 wef 26/06/1992 vide S 301/92]
 
 “mentally disordered person” means any person found by due course of law to be of unsound mind and incapable of managing himself or his affairs;
 
@@ -290,7 +294,7 @@ PRELIMINARY
 
 “person of unsound mind” means any person, not a minor, who not having been found to be a mentally disordered person is incapable from infirmity of mind of managing his own affairs;
 
-“possession” includes receipt of rents and profits or the right to receive the same, if any; “income” includes rents and profits; and “possessed” applies to receipt of income of and to any vested estate less than a life interest in possession or in expectancy in any land;
+“possession” includes receipt of rents and profits or the right to receive the same, if any, “income” includes rents and profits; and “possessed” applies to receipt of income of and to any vested estate less than a life interest in possession or in expectancy in any land;
 
 “property” includes movable and immovable property, and any estate, share and interest in any property, movable or immovable, and any debt, and any thing in action, and any other right or interest, whether in possession or not;
 
@@ -300,9 +304,15 @@ PRELIMINARY
 
 “securities” includes debentures, stocks, funds and shares; and so far as relates to payments into court has the same meaning as in the written laws relating to funds in court; and “securities payable to bearer” includes securities transferable by delivery or by delivery and endorsement;
 
+“shareholders equity”, in relation to a company, means the total assets of the company less the total liabilities of the company as disclosed in the last audited accounts of the company laid before a general meeting of the company in accordance with section 201 of the Companies Act [Cap. 50] (or the equivalent provision of the law of any other country which applies to that company) or, if a prospectus has subsequently been registered by the company in accordance with the requirements of law, the accounts contained in that prospectus;
+
+[Act 23/92 wef 26/06/1992]
+
 “solicitor” means an advocate and solicitor of the Supreme Court;
 
-“stock” includes fully paid-up shares, and, so far as relates to vesting orders made by the court under this Act, includes any fund, annuity or security transferable in books kept by any corporation, company or society, or by instrument of transfer either alone or accompanied by other formalities, and any share or interest therein;
+“stock” includes fully paid-up shares, and, so far as relates to vesting orders made by the court under this Act, includes any fund, annuity or security transferable in books kept by any corporation, company or society, or by instrument of transfer either alone or accompanied by other formalities or otherwise, and any share or interest therein;
+
+[Act 9/87 wef 10/04/1987]
 
 “transfer”, in relation to stock or securities, includes the performance and execution of every deed, power of attorney, act, and thing on the part of the transferor to effect and complete the title in the transferee;
 
@@ -322,113 +332,61 @@ PRELIMINARY
 
 INVESTMENTS
 
-### Authorised investments
+### Powers of investment of trustees
 
-4\.—(1) A trustee may invest any trust funds in his hands, whether at the time in a state of investment or not, in the manner following:
+4\.—(1) Subject to the provisions of this Act, a trustee may invest any funds in his hands, whether at the time in a state of investment or not, in any manner specified in Part I, II or III of the First Schedule and may also from time to time vary such investments.
 
-(a) in any of the securities of the Government or the Government of Malaysia or of any State thereof;
+(2) Part IV of the First Schedule shall have effect for the interpretation and for restricting the operation of Parts I to III of that Schedule.
 
-(b) in any securities the interest on which is or shall be guaranteed by Parliament;
+(3) Every power conferred by this section shall be exercised according to the discretion of the trustee, but subject to any consent or direction, with respect to the investment of the trust funds, required by the instrument, if any, creating the trust or by any written law.
 
-(c) in or upon titles to immovable property in Singapore, such titles being freehold titles or grants in perpetuity or leases (other than mining leases) for a term whereof 60 years at least is unexpired at the time of such investment:
+(4) The Minister may, from time to time by order published in theGazette, amend the First Schedule.
 
-Provided that there be erected on the land to which such title relates houses or other buildings the gross rental whereof, together with the land appurtenant thereto, is at the time of such investment not less than 7% of the purchase price of such land, in the case of a purchase, or of the value of such land, as ascertained under section 12(1)(a), in the case of a mortgage;
-
-(d) in fixed interest securities issued in Singapore with the approval of the Minister for Finance by any public authority established under any written law;
-
-(e) in loans to an approved company,
-
-and may also from time to time vary any such investment as aforesaid.
-
-(2) No trust funds shall be invested under subsection (1)(e) unless —
-
-(a) the paid-up ordinary share capital of the approved company is not less than $5 million;
-
-(b) the approved company has paid a dividend at the rate of not less than 5% upon such ordinary share capital during each of the last 3 years prior to the time of investment:
-
-Provided that where an approved company is or has been reconstructed and amalgamates with a company or has taken over the whole of the business and the assets of a company, which has satisfied the conditions of this paragraph, the said conditions shall be deemed to have been complied with by the approved company, unless it fails to pay a dividend at the rate of not less than 5% in respect of its first full financial year of operations or in respect of any of its subsequent financial years; and
-
-[39/70]
-
-(c) the total amount of the borrowings of the approved company from all sources, whether trustee or not, accepted by the approved company on loan and deposit, and including interest due thereon and not repaid by the approved company, does not at any time exceed the amount, excluding prospective interest, for the time being secured to the approved company from its borrowers.
-
-[10/75; 21/82]
-
-### Purchase at premium of redeemable stocks; change of character of investments
-
-5\.—(1) A trustee may under the powers of this Act invest in any of the securities mentioned or referred to in section 4, notwithstanding that the same may be redeemable, and that the price exceeds the redemption value.
-
-(2) A trustee may retain until redemption any redeemable stock, fund or security which may have been purchased in accordance with the powers of this Act, or any previous written law relating to trustees.
-
-### Discretion of trustees
-
-6\. Every power conferred by sections 4 and 5 shall be exercised according to the discretion of the trustee, but subject to any consent or direction, with respect to the investment of the trust funds, required by the instrument, if any, creating the trust or by any written law.
-
-### New powers of investment of trustees
-
-7\.—(1) The investments specified in section 4 shall include any security to which this section applies and any units, or any shares of the investments subject to the trusts, of an authorised unit trust scheme.
-
-(2) Subject to the other provisions of this section, this section shall apply to any securities issued by a company (whether incorporated in Singapore or elsewhere) prices for which are quoted on the Stock Exchange of Singapore.
-
-(3) This section shall not apply to securities of any company unless —
-
-(a) the total issued and paid-up share capital of the company is, or if converted into dollars from a currency other than dollars is, $5 million or more; and
-
-(b) the company has, in each of the 5 years immediately preceding the calendar year in which the investment is made, paid a dividend on all the shares issued by the company, excluding any shares issued after the dividend was declared and any shares which by their terms of issue did not rank for the dividend for that year,
-
-and the rate of exchange in relation to the conversion of issued and paid-up share capital shall be that certified by a bank manager, as defined in section 8(3), to be appropriate on the day a trustee exercises his power to invest in such securities.
-
-(4) For the purposes of subsection (3)(b), a company formed —
-
-(a) to take over the business of another company or other companies; or
-
-(b) to acquire the securities of, or control of, another company or other companies,
-
-or for either of those purposes and for other purposes shall be deemed to have paid a dividend as mentioned in that paragraph in any year in which such a dividend has been so paid by the other company or all of the other companies, as the case may be.
-
-(5) This section shall not apply to shares or debenture stock not fully paid up, except shares or stock which by the terms of issue are required to be fully paid up within 9 months of the date of issue.
-
-(6) No provision relating to the powers of the trustee contained in any instrument made before the commencement of this Act shall limit the powers conferred by this section, but those powers shall be exercisable only in so far as a contrary intention is not expressed in any instrument so relating which is made after the commencement of this Act.
+[Subst.byAct 23/92 wef 26/06/1992]
 
 ### Duty of trustees in choosing investments
 
-8\.—(1) In the exercise of any of his powers of investment a trustee shall have regard —
+5\.—(1) In the exercise of any of his powers of investment, a trustee shall have regard —
 
 (a) to the need for diversification of the investments of the trust, in so far as is appropriate to the circumstances of the trust, and to the degree of risk attaching to the holding of any particular investment or of investments of any particular description; and
 
 (b) to the suitability to the trust of investment of the description of investment proposed and of the investment proposed as an investment of that description.
 
-(2) A trustee whose power of investment is restricted to the making of investments specified in section 4 shall, before exercising any power to invest in such securities, units or shares as are mentioned in section 7, obtain proper advice on the question whether the investment is satisfactory having regard to the matters mentioned in subsection (1)(a) and (b), and shall consider the advice obtained.
+(2) Before exercising any power conferred by section 4 to invest in a manner specified in Part II or III of the First Schedule, a trustee shall obtain and consider proper advice on the question whether the investment is satisfactory in accordance with Part V of that Schedule.
 
-This subsection shall not apply to the Public Trustee or to trust companies as defined in the Trust Companies Act [Cap. 336].
+(3) A trustee retaining any investment shall determine at what intervals the circumstances, and in particular the nature of the investment, make it desirable to obtain such advice as aforesaid, and shall obtain and consider such advice accordingly.
 
-(3) For the purposes of subsection (2), “proper advice” is either the advice of a stockbroker obtained through the trustee’s bank manager or the advice of an authorised accountant.
+(4) A trustee shall not be treated as having complied with subsection (2) or (3) unless the advice was given in writing or has been subsequently so confirmed.
 
-In this subsection, “bank manager” means the manager of a bank (including a branch of a bank) licensed under any written law for the time being in force relating to banking and “authorised accountant” means a person authorised in writing under any written law relating to companies, to be an auditor of companies generally.
+(5) Subsections (2) and (3) shall not apply —
 
-(4) A trustee retaining any such security, unit or share as is mentioned in section 7 shall determine at what intervals the circumstances, and in particular the nature of the investment, make it desirable to obtain such advice as aforesaid, and shall obtain and consider the advice accordingly.
+(a) to one of two or more trustees where he is the person giving the advice required by this section to his co-trustee or co-trustees;
 
-(5) A trustee shall not be treated as having complied with subsections (2) to (4) unless the advice was given, or has been subsequently confirmed, in writing.
+(b) to the Public Trustee; or
 
-(6) Subsections (2) to (4) shall not apply to one of two or more trustees where he is the person giving the advice required by this section to his co-trustee or co-trustees.
+(c) to trust companies as defined in the Trust Companies Act [Cap. 336].
+
+[Subst.byAct 23/92 wef 26/06/1992]
 
 ### Statutory powers of investment
 
-9\.—(1) In the case of trustees constituted under any written law, section 7 shall apply only in so far as the Minister may direct.
+6\.—(1) In the case of trustees constituted under any written law, other than the Companies Act [Cap. 50], the power to invest in any manner mentioned in Parts II and III of the First Schedule shall apply only in so far as the Minister may direct.
 
-(2) Where any body of persons, not being trustees, have under any written law power (however expressed) to make the like investments as trustees are for the time being authorised by law to make, section 7 shall not apply to the body except in so far as the Minister may direct.
+(2) Where any body of persons, not being trustees, have under any written law power (however expressed) to make the like investments as trustees are for the time being authorised by law to make, the power to invest in any manner mentioned in Parts II and III of the First Schedule shall not apply to the body except in so far and so such extent as the Minister may direct.
 
-(3) The Minister may direct that any specified body of persons, not being trustees constituted under any written law which apart from this subsection would not have the like power of investment as is conferred by section 7, shall have that power to such extent as may be specified in the direction.
+(3) Any direction under this section may be given generally or in a particular case, and unconditionally or subject to conditions.
 
-(4) Any direction under this section may be given generally or in a particular case, and unconditionally or subject to conditions.
+[Subst. by Act 23/92 wef 26/06/1992]
 
 ### Power to retain investment which has ceased to be authorised
 
-10\. A trustee shall not be liable for breach of trust by reason only of his continuing to hold an investment which has ceased to be an investment authorised by the trust instrument or by this Act.
+7\. A trustee shall not be liable for breach of trust by reason only of his continuing to hold an investment which has ceased to be an investment authorised by the trust instrument or by this Act.
+
+[Subst.byAct 23/92 wef 26/06/1992]
 
 ### Investment in bearer securities
 
-11\.—(1) A trustee may, unless expressly prohibited by the instrument creating the trust, retain or invest in securities payable to bearer which, if not so payable, would have been authorised investments.
+8\.—(1) A trustee may, unless expressly prohibited by the instrument creating the trust, retain or invest in securities payable to bearer which, if not so payable, would have been authorised investments.
 
 (2) Securities payable to bearer retained or taken as an investment by a trustee shall, until sold, be deposited by him for safe custody and collection of income with a banker or banking company.
 
@@ -436,41 +394,45 @@ In this subsection, “bank manager” means the manager of a bank (including a 
 
 (4) A trustee shall not be responsible for any loss incurred by reason of such deposit, and any sum payable in respect of such deposit and collection shall be paid out of the income of the trust property.
 
+[Subst.byAct 23/92 wef 26/06/1992]
+
 ### Loans and investments by trustees not chargeable as breaches of trust
 
-12\.—(1) A trustee lending money on the security of any property on which he can properly lend shall not be chargeable with breach of trust by reason only of the proportion borne by the amount of the loan to the value of the property at the time when the loan was made, if it appears to the court —
+9\.—(1) A trustee lending money on the security of any property on which he can properly lend shall not be chargeable with breach of trust by reason only of the proportion borne by the amount of the loan to the value of the property at the time when the loan was made, if it appears to the court —
 
-(a) that in making the loan the trustee was acting upon a report as to the value of the property made by a person whom he reasonably believed to be an able practical surveyor or valuer instructed and employed independently of any owner of the property, whether such surveyor or valuer carried on business in the locality where the property is situate or elsewhere;
+(a) that in making the loan the trustee was acting upon proper advice obtained in accordance with section 5(2); and
 
-(b) that the amount of the loan does not exceed two-third parts of the value of the property as stated in the report; and
-
-(c) that the loan was made under the advice of the surveyor or valuer expressed in the report.
+(b) that the amount of the loan does not exceed two-third parts of the value of the property as stated in the report made by the person giving proper advice in accordance with section 5(2).
 
 (2) A trustee lending money on the security of any leasehold property shall not be chargeable with breach of trust only upon the ground that in making such loan he dispensed either wholly or partly with the production or investigation of the lessor’s title.
 
 (3) A trustee shall not be chargeable with breach of trust only upon the ground that in effecting the purchase, or in lending money upon the security, of any property he has accepted a shorter title than the title which a purchaser is, in the absence of a special contract, entitled to require, if in the opinion of the court the title accepted be such as a person acting with prudence and caution would have accepted.
 
-(4) This section shall apply to transfers of existing securities as well as to new securities and to investments made before as well as on or after 1st September 1929.
+(4) This section shall apply to transfers of existing securities as well as to new securities and to investments made before, on or after the commencement of the Trustees (Amendment) Act 1992.
+
+[Subst.byAct 23/92 wef 26/06/1992]
 
 ### Liability for loss by reason of improper investment
 
-13\.—(1) Where a trustee improperly advances trust money on a mortgage security which would at the time of the investment be a proper investment in all respects for a smaller sum than is actually advanced thereon, the security shall be deemed to be an authorised investment for the smaller sum, and the trustee shall only be liable to make good the sum advanced in excess thereof with interest.
+10\.—(1) Where a trustee improperly advances trust money on a mortgage security which would at the time of the investment be a proper investment in all respects for a small sum than is actually advanced thereon, the security shall be deemed to be an authorised investment for the smaller sum, and the trustee shall only be liable to make good the sum advanced in excess thereof with interest.
 
-(2) This section shall apply to investments made before as well as after 1st September 1929.
+(2) This section shall apply to investments made before, on or after the commencement of the Trustees (Amendment) Act 1992.
+
+[Subst.byAct 23/92 wef 26/06/1992]
 
 ### Powers supplementary to powers of investment
 
-14\.—(1) Trustees lending money on the security of any property on which they can lawfully lend may contract that such money shall not be called in during any period not exceeding 5 years from the time when the loan was made, provided interest be paid within a specified time not exceeding 10 days after every monthly or other day on which it becomes due, and provided there be no breach of any covenant by the mortgagor contained in the instrument of mortgage or charge for the maintenance and protection of the property.
+11\.—(1) Trustees lending money on the security of any property on which they can lawfully lend may contract that such money shall not be called in during any period not exceeding 5 years from the time when the loan was made, provided interest be paid within a specified time not exceeding 10 days after every monthly or other day on which it becomes due, and provided there be no breach of any convenant by the mortgagor contained in the instrument of mortgage or charge for the maintenance and protection of the property.
 
-(2) On a sale by trustees of land for an estate in fee simple, or held under a grant issued under the State Lands Act [Cap. 314], or for a term having at least 60 years to run, the trustees may, where the proceeds are liable to be invested, contract that the payment of any part, not exceeding two-thirds, of the purchase money shall be secured by mortgage of the land sold, with or without the security of any other property, but such mortgage, if any buildings are comprised therein, shall contain a covenant by the mortgagor to keep such buildings insured against loss or damage by fire to the full value thereof.
+(2) On a sale by trustees of land for an estate in fee simple, or held under a grant issued under the State Lands Act [Cap. 314], or for a term having at least 30 years to run, the trustees may, where the proceeds are liable to be invested, contract that the payment of any part, not exceeding two-thirds, of the purchase money shall be secured by mortgage of the land sold, with or without the security of any other property, but such mortgage, if any buildings are comprised therein, shall contain a covenant by the mortgagor to keep such buildings insured against loss or damage by fire to the full value thereof.
 
-(3) The trustees shall not be bound to obtain any report as to the value of the land or other property to be comprised in such mortgage, or any advice as to the making of the loan, and shall not be liable for any loss which may be incurred by reason only of the security being insufficient at the date of the mortgage.
+(3) The trustees shall not be bound to obtain any report as to the value of the land or other property to be comprised in such mortgage, or any advice as to the making of the loan, and shall not be liable for any loss which may be incurred by reson only of the security being insufficient at the date of the mortgage.
 
 (4) Where any securities of a company are subject to a trust, the trustees may concur in any scheme or arrangement —
 
 (a) for the reconstruction of the company;
 
-(b) for the sale of all or any part of the property and undertaking of the company to another company;
+(b) for the sale of any or any part of the property and undertaking of the company to another company;
 
 (c) for the acquisition of the securities of the company, or of control thereof, by another company;
 
@@ -480,28 +442,31 @@ In this subsection, “bank manager” means the manager of a bank (including a 
 
 in the like manner as if they were entitled to such securities beneficially, with power to accept any securities of any denomination or description of the reconstructed or purchasing or new company in lieu of or in exchange for all or any of the first-mentioned securities; and the trustees shall not be responsible for any loss occasioned by any act or thing so done in good faith, and may retain any securities so accepted as aforesaid for any period for which they could have properly retained the original securities.
 
-(5) If any conditional or preferential right to subscribe for any securities in any company is offered to trustees in respect of any holding in the company, they may as to all or any of the securities, either exercise such right and apply capital money subject to the trust in payment of the consideration, or renounce such right, or assign for the best consideration that can be reasonably obtained the benefit of such right or the title thereto to any person, including any beneficiary under the trust, without being responsible for any loss occasioned by any act or thing so done by them in good faith:
+(5) If any conditional or preferential right to subscribe for any securities in any company is offered to trustees in respect of any holding in the company, they may, as to all or any of the securities, either exercise such right and apply capital money subject to the trust in payment of the consideration, or renounce such right, or assign for the best consideration that can be reasonably obtained the benefit of such right or the title thereto to any person, including any beneficiary under the trust, without being responsible for any loss occasioned by any act or thing so done by them in good faith.
 
-Provided that the consideration for any such assignment shall be held as capital money of the trust.
+(6) The consideration for any assignment referred to in subsection (5) shall be held as capital money of the trust.
 
-(6) The powers conferred by this section shall be exercisable subject to the consent of any person whose consent to a change of investment is required by law or by the instrument, if any, creating the trust.
+(7) The powers conferred by this section shall be exercisable subject to the consent of any person whose consent to a change of investment is required by law or by the instrument, if any, creating the trust.
 
-(7) Where the loan referred to in subsection (1), or the sale referred to in subsection (2), is made under the order of the court, the powers conferred by those subsections respectively shall apply only if and as far as the court may by order direct.
+(8) Where the loan referred to in subsection (1), or the sale referred to in subsection (2), is made under the order of the court, the powers conferred by those subsections respectively shall apply only if and as far as the court may by order direct.
 
-### Power to deposit at bank and to pay calls
+[Subst.byAct 23/92 wef 26/06/1992]
 
-15\.—(1) Trustees may, pending the negotiation and preparation of any mortgage or charge, or during any other time while an investment is being sought for, pay any trust money into a bank to a deposit or other account, and all interest, if any, payable in respect thereof shall be applied as income.
+### Power to deposit at bank, to pay calls and to purchase dwelling house for beneficiary
+
+12\.—(1) Trustees may, pending the negotiation and preparation of any mortgage or charge, or during any other time while an investment is being sought for, pay any trust money into a bank to deposit or other account, and all interest, if any, payable in respect thereof shall be applied as income.
 
 (2) Trustees may apply capital money subject to a trust in payment of the calls on any shares subject to the same trust.
 
+(3) Trustees may, where they are of the opinion that it is desirable to purchase a dwelling house for the use of any beneficiary under the trust, purchase a dwelling house with any trust funds, whether at the time in a state of investment or not, or retain any dwelling house that forms part of the trust notwithstanding any trust for conversion contained in the instrument creating the trust, and permit the beneficiary to reside in the dwelling house upon such terms and conditions consistent with the trust and the extent of the interest of the beneficiary as the trustee thinks fit.
+
+(4) For the purposes of subsection (3), “dwelling house” means a dwelling house situated in Singapore and includes a lot on a strata title plan under the Land Titles (Strata) Act [Cap. 158].
+
+[Subst.byAct 23/92 wef 26/06/1992]
+
 ## PART III
 
-GENERAL POWERS OF TRUSTEES AND
-
-
-
-
-PERSONAL REPRESENTATIVES
+GENERAL POWERS OF TRUSTEES AND PERSONAL REPRESENTATIVES
 
 General powers
 
@@ -631,9 +596,11 @@ Provided that nothing in this subsection shall relieve the trustees of the oblig
 
 (3) Trustees may, for the purpose of giving effect to the trust, or any of the provisions of the instrument, if any, creating the trust or of any statute, from time to time (by duly qualified agents) ascertain and fix the value of any trust property in such manner as they think proper and any valuation so made in good faith shall be binding upon all persons interested under the trust.
 
-(4)\*Trustees may, in their absolute discretion, from time to time, but not more than once in every year unless the nature of the trust or any special dealings with the trust property make a more frequent exercise of the right reasonable, cause the accounts of the trust property to be examined or audited by an independent accountant, and shall, for that purpose, produce such vouchers and give such information to him as he may require; and the costs of such examination or audit, including the fee of the auditor, shall be paid out of the capital or income of the trust property, or partly in one way and partly in the other as the trustees, in their absolute discretion, think fit, but, in default of any direction by the trustees to the contrary in any special case, costs attributable to capital shall be borne by capital and those attributable to income by income.
+(4)1
 
-\*Compare section 22 of the Public Trustee Act (Cap. 260).
+1Compare section 22 of the Public Trustee Act (Cap. 260).
+
+Trustees may, in their absolute discretion, from time to time, but not more than once in every year unless the nature of the trust or any special dealings with the trust property make a more frequent exercise of the right reasonable, cause the accounts of the trust property to be examined or audited by an independent accountant, and shall, for that purpose, produce such vouchers and give such information to him as he may require; and the costs of such examination or audit, including the fee of the auditor, shall be paid out of the capital or income of the trust property, or partly in one way and partly in the other as the trustees, in their absolute discretion, think fit, but, in default of any direction by the trustees to the contrary in any special case, costs attributable to capital shall be borne by capital and those attributable to income by income.
 
 ### Power to employ agents
 
@@ -739,7 +706,7 @@ Maintenance, advancement and protective trusts
 
 ### Power to apply income for maintenance and to accumulate surplus income during a minority
 
-36\.—(1) Where any property is held by trustees in trust for any person for any interest whatsoever, whether vested or contingent, then, subject to any prior interests or charges affecting that property —
+36\.—(1) Where any property is held by trustees in trust for any person for any interest whatsoever, whether vested or contingent, then, subject to any prior interests or charges affecting the property —
 
 (a) during the infancy of any such person, if his interest so long continues, the trustees may, at their sole discretion, pay to his parent or guardian, if any, or otherwise apply for or towards his maintenance, education or benefit, the whole or such part, if any, of the income of that property as may, in all the circumstances, be reasonable, whether or not there is —
 
@@ -751,7 +718,7 @@ Maintenance, advancement and protective trusts
 
 Provided that, in deciding whether the whole or any part of the income of the property is during a minority to be paid or applied for the purposes aforesaid, the trustees shall have regard to the age of the infant and his requirements and generally to the circumstances of the case, and in particular to what other income, if any, is applicable for the same purposes; and where trustees have notice that the income of more than one fund is applicable for those purposes, then, so far as practicable, unless the entire income of the funds is paid or applied as aforesaid or the court otherwise directs, a proportionate part only of the income of each fund shall be so paid or applied.
 
-(2) During the infancy of any such person, if his interest so long continues, the trustees shall accumulate all the residue of that income in the way of compound interest by investing the same and the resulting income thereof from time to time in authorised investments, and shall hold those accumulations as follows:
+(2) During the infancy of such person, if his interest so long continues, the trustees shall accumulate all the residue of that income in the way of compound interest by investing the same and the resulting income thereof from time to time in authorised investments, and shall hold those accumulations as follows:
 
 (a) if any such person —
 
@@ -797,7 +764,7 @@ Provided that —
 
 (ii) if there is no wife or husband or issue of the principal beneficiary in existence, the principal beneficiary and the persons who would, if he were actually dead, be entitled to the trust property or the income thereof or to the annuity fund, if any, or arrears of the annuity, as the case may be,
 
-as the trustees in their absolute discretion, without being liable to account for the exercise of such discretion, think fit.
+ as the trustees in their absolute discretion, without being liable to account for the exercise of such discretion, think fit.
 
 (2) This section shall not apply to trusts coming into operation before 1st September 1929 and has effect subject to any variation of the implied trusts aforesaid contained in the instrument creating the trust.
 
@@ -843,7 +810,7 @@ may, by writing, appoint one or more other persons (whether or not being the per
 
 may, by writing, appoint another person or other persons to be an additional trustee or additional trustees, but it shall not be obligatory to appoint any additional trustee, unless the instrument, if any, creating the trust, or any written law provides to the contrary, nor shall the number of trustees be increased beyond 4 by virtue of any such appointment.
 
-(7) Every new trustee appointed under this section, as well before as after all the trust property becomes by law, or by assurance, or otherwise, vested in him, shall have the same powers, authorities and discretions, and may in all respects act as if he had been originally appointed a trustee by the instrument, if any, creating the trust.
+(7) Every new trustee appointed under this section, as well before as after all the trust property becomes by law, or by assurance, or otherwise, vested in him, shall have the same powers, authorities and discretions, and may in all respects acts as if he had been originally appointed a trustee by the instrument, if any, creating the trust.
 
 (8) The provisions of this section relating to a trustee who is dead include the case of a person nominated a trustee in a will but dying before the testator, and those relative to a continuing trustee include a refusing or retiring trustee, if willing to act in the execution of the provisions of this section.
 
@@ -1013,7 +980,7 @@ and shall in every other case have the same effect as if the trustee, mortgagee 
 
 (iv) neglects or refuses to transfer stock or receive the dividends or income thereof, or to sue for or recover a thing in action, according to the direction of the person absolutely entitled thereto for 28 days next after a request in writing has been made to him by the person so entitled; or
 
-(v) neglects or refuses to transfer stock or receive the dividends or income thereof, or to sue for or recover a thing in action for 28 days next after an order of the court for that purpose has been served on him;
+(v) neglects or refuses to transfer stock or receive the dividends or income thereof, or to sue for or recover a thing in action for 28 days next after an order of the court for that purpose has been served on him,
 
 (c) where it is uncertain whether a trustee entitled alone or jointly with another person to stock or to a thing in action is alive or dead;
 
@@ -1025,7 +992,7 @@ the court may make an order vesting the right to transfer or call for a transfer
 
 Provided that —
 
-(i) where the order is consequential on the appointment of a trustee, the right shall be vested in the persons who, on the appointment, are the trustees; and
+(i) where the order is consequential on the appointment of a trustee, the right shall be vested in the persons who, on the appointment, are the trustees, and
 
 (ii) where the person whose right is dealt with by the order was entitled jointly with another person, the right shall be vested in that last-mentioned person either alone or jointly with any other person whom the court may appoint.
 
@@ -1035,7 +1002,7 @@ Provided that the person appointed to make or join in making a transfer of stock
 
 (3) The person in whom the right to transfer or call for the transfer of any stock is vested by an order of the court under this Act may transfer the stock to himself or any other person, according to the order, and all companies shall obey every order under this section according to its tenor.
 
-(4) After notice in writing of an order under this section it shall not be lawful for any company to transfer any stock to which the order relates or to pay any dividends thereon except in accordance with the order.
+(4) After notice in writing or an order under this section it shall not be lawful for any company to transfer any stock to which the order relates or to pay any dividends thereon except in accordance with the order.
 
 (5) The court may make declarations and give directions concerning the manner in which the right to transfer any stock or thing in action vested under the provisions of this Act is to be exercised.
 
@@ -1107,7 +1074,7 @@ Payment into court
 
 ### Payment into court by trustees
 
-65\.—(1) Trustees, or the majority of trustees, having in their hands or under their control money or securities belonging to a trust, may pay the same into court; and the same shall, subject to the Rules of the Supreme Court [S 274/70], be dealt with according to the orders of the court.
+65\.—(1) Trustees, or the majority of trustees, having in their hands or under their control money or securities belonging to a trust, may pay the same into court; and the same shall, subject to the Rules of the Supreme Court, be dealt with according to the orders of the court.
 
 (2) The receipt or certificate of the proper officer shall be a sufficient discharge to trustees for the money or securities so paid into court.
 
@@ -1116,6 +1083,8 @@ Payment into court
 (4) Where any such money or securities is or are deposited with any banker, broker, or other depositary, the court may order payment or delivery of the money or securities to the majority of the trustees for the purpose of payment into court.
 
 (5) Every transfer, payment and delivery made in pursuance of any such order shall be valid and take effect as if the same had been made on the authority or by the act of all the persons entitled to the money and securities so transferred, paid or delivered.
+
+[S 274/70]
 
 ## PART VI
 
@@ -1157,7 +1126,9 @@ Incorporation of trustees
 
 ### Particulars respecting application
 
-70\.—(1) Every application to the Minister for a certificate under this Part shall be in writing, signed by the person or persons making the same, and shall contain the several particulars specified in the First Schedule, or such of them as shall be applicable to the case.
+70\.—(1) Every application to the Minister for a certificate under this Part shall be in writing, signed by the person or persons making the same, and shall contain the several particulars specified in the Second Schedule, or such of them as shall be applicable to the case.
+
+[Act 23/92 wef 26/06/1992]
 
 (2) The Minister may require a statutory declaration or other evidence in verification of the statements and particulars in the application, and such other particulars, information and evidence (if any) as he may think necessary or proper.
 
@@ -1253,13 +1224,15 @@ UNIT TRUST SCHEMES
 
 (b) that the scheme is such that the effective control over the affairs of the corporation, which is the manager under the scheme, is and will be exercised independently of the corporation which is the trustee under the scheme;
 
-(c) that the scheme is such as to secure that any trust created in pursuance of the scheme is expressed in a deed providing, to the satisfaction of the Minister, for the matters specified in the Second Schedule; and
+(c) that the scheme is such as to secure that any trust created in pursuance of the scheme is expressed in a deed providing, to the satisfaction of the Minister, for the matters specified in the Third Schedule; and
+
+[Act 23/92 wef 26/06/1992]
 
 (d) as respects the corporation being the trustee, either —
 
 (i) that the corporation has a capital (in stock or shares) for the time being issued of not less than $5 million, of which an amount of not less than $2,500,000 has been paid up, and that the assets of the corporation are sufficient to meet its liabilities (including liabilities in respect of the repayment of its capital); or
 
-(ii) that more than four-fifths of the said capital of the corporation is held by another corporation being a corporation in relation to which the conditions as to capital and assets specified in sub-paragraph (i) are fulfilled:
+(ii) that more than four-fifths of the said capital of the corporation is held by another corporation being a corporation in relation to which the conditions as to capital and assets specified in subparagraph (i) are fulfilled:
 
 Provided that if with respect to any trust the Minister is satisfied that, by reason of the special circumstances of the trust, the fulfilment in relation thereto of the condition specified in paragraph (c) is impracticable, the Minister may dispense with the fulfilment of that condition in relation to that trust, so far as it appears to him that he can properly do so without prejudicing the interests of the beneficiaries.
 
@@ -1291,7 +1264,7 @@ GENERAL PROVISIONS
 
 ### Trust estates not affected by trustee becoming a convict
 
-88\. Property vested in any person on any trust or by way of mortgage shall not, in case of that person becoming a convict within the meaning of the Forfeiture Act 1870 [U.K. 1870 c. 23] vest in any such administrator as may be appointed under that Act, but shall remain in the trustee or mortgagee, or pass to his co-trustee in right of survivorship or devolve on his personal representative as if he had not become a convict:
+88\. Property vested in any person on any trust or by way of mortgage shall not, in case of that person becoming a convict within the meaning of the Forfeiture Act 1870 vest in any such administrator as may be appointed under that Act, but shall remain in the trustee or mortgagee, or pass to his co-trustee in right of survivorship or devolve on his personal representative as if he had not become a convict:
 
 Provided that this Act shall not affect the title to the property so far as relates to any beneficial interest therein of any such trustee or mortgagee.
 
@@ -1301,14 +1274,111 @@ Provided that this Act shall not affect the title to the property so far as rela
 
 FIRST SCHEDULE
 
+Section 4 and 6.
+
+Manner of Investment
+
+Part I
+
+1\. In any securities of the Government.
+
+2\. In any securities the repayment of the amount received and the interest on which is or shall be guaranteed by the Government.
+
+3\. In fixed income securities issued in Singapore by any public authority established under written law.
+
+4\. In any interest bearing deposits held in Singapore currency in the Post Office Savings Bank or a bank or finance company in Singapore.
+
+5\. In negotiable certificates of deposits denominated in Singapore currency and issued by any bank in Singapore.
+
+Part II
+
+1\. In any units, or any shares of the investments subject to the trusts, of an authorised unit trust scheme.
+
+2. In any securities issued by a company (whether incorporated in Singapore or elsewhere) —
+
+(a) which are listed on the Stock Exchange of Singapore; or
+
+(b) for which prices are quoted on the Central Limit Order Book (CLOB) International.
+
+3. In bank bills and trade bills denominated in Singapore currency which —
+
+(a) are endorsed by a bank in Singapore; and
+
+(b) will mature not later than 3 months after the date of the investment.
+
+4\. In or upon titles to land in Singapore, such titles being freehold titles or grants in perpetuity or leases (other than mining leases) of which their unexpired term at the time of such investment is not less than 30 years.
+
+Part III
+
+In any fixed income securities of a government outside Singapore having a Triple A credit rating or equivalent given by any of the following credit rating agencies:
+
+(a)
+
+Moody’s Investors Service, Inc, USA;
+
+(b)
+
+Standard and Poor’s Corporation, USA,
+
+and to hedge the foreign currency exposure from such investments back into Singapore currency.
+
+Part IV
+
+1.—(1) Paragraph 2 of Part II shall not apply to securities of any company unless —
+
+(a) the total issued and paid-up share capital of the company, if incorporated in Singapore, is not less than $15 million and, if incorporated elsewhere, is not less than $30 million;
+
+(b) the company has, in each of the 3 financial years immediately preceding the financial year in which the investment is made, paid a dividend on all shares issued by the company, excluding any shares issued after the dividend was declared and any shares which by their terms of issue did not rank for the dividend for that financial year;
+
+(c) the shareholders equity of the company is not less than $30 million; and
+
+(d) the company has reported a profit (excluding any extra-ordinary item) in the profit and loss account in the annual accounts of the company in the financial year immediately preceding the financial year in which the investment is made.
+
+(2) A company formed —
+
+(a) to take over the business of another company or other companies; or
+
+(b) to acquire the securities of, or control of, another company or other companies,
+
+or for either of those purposes and for other purposes, shall be deemed —
+
+(i) to have paid a dividend as mentioned in sub-paragraph (1)(b) in any financial year in which such a dividend has been so paid by the other company or each of the other companies, as the case may be;
+
+(ii) to have had a shareholders equity of not less than $30 million as mentioned in sub-paragraph (1)(c) if the other company or companies, as the case may be, had a shareholders equity of not less than $30 million; and
+
+(iii) to have reported a profit as mentioned in sub-paragraph (1)(d) in the financial year in which such a profit has been so reported by the other company or each of the other companies, as the case may be.
+
+(3) For the purposes of sub-paragraph (1)(a) and (c), the issued and paid-up share capital and the shareholders equity shall, if they are in a currency other than Singapore currency, be converted into Singapore currency at a rate of exchange certified by a bank licensed under the Banking Act [Cap. 19] to be appropriate on the day the trustee exercises his power to invest in such securities.
+
+(4) The securities referred to in paragraph 2 of Part II do not include shares or debenture stock not fully paid up, except shares or stock which by the terms of issue are required to be fully paid up within 9 months of the date of issue.
+
+(5) Where immediately before the date of commencement of the Trustees (Amendment) Act 1992 the securities of a company were investments in which trustees were authorised by this Act to invest and the total issued and paid-up capital of that company, if incorporated in Singapore, was less than $15 million and, if incorporated elsewhere, was less than $30 million, sub-paragraph (1)(a) shall have effect in relation to those securities only after the expiry of 3 years from that date.
+
+(6) Where immediately before the date of commencement of the Trustees (Amendment) Act 1992 the securities of a company were investments in which trustees were authorised by this Act to invest and the shareholders equity of that company was less than $30 million, sub-paragraph (1) (c) shall have effect in relation to those securities only after the expiry of 3 years from that date.
+
+2\. The land referred to in paragraph 4 of Part II shall not include land, the gross rental whereof is at the time of such investment less than 7% of the purchase price of such land, in the case of a purchase, or the value of such land ascertained in accordance with paragraph 2 of Part V, in the case of a mortgage.
+
+3\. Not more than 30% of the funds belonging to the trust shall at any time be invested in the investments in Part III taken together.
+
+Part V
+
+1. In relation to the investments specified in paragraphs 1, 2 and 3 of Part II and paragraph 1 of Part III, proper advice for the purposes of section 5(2) means the advice of an investment adviser licensed under the Securities Industry Act or a bank licensed under the Banking Act or a merchant bank approved under the Monetary Authority of Singapore Act [Cap. 186] as to the matters referred to in section 5(1).
+
+[S 322/99 wef 16/07/1999]
+
+[Cap.19.]
+
+2. In relation to the investments specified in paragraph 4 of Part II, proper advice for the purposes of section 5(2) means the advice on the value of the land at the time of the investment given by an appraiser who is licensed under the Auctioneers’ Licences Act to value or appraise land and is instructed and employed independently of any owner of the land.
+
+[Cap.16.]
+
+[Act 23/92 wef 26/06/1992]
+
+SECOND SCHEDULE
+
 Section 70(1).
 
-Particulars to be inserted in application
-
-
-
-
-for incorporation
+Particulars to be Inserted in Application for Incorporation
 
 The objects of the body or association of persons, and the rules and regulations of the same, together with the date of, and parties to every deed, will or other instrument (if any) creating, constituting or regulating the same.
 
@@ -1322,16 +1392,13 @@ The proposed device of the common seal.
 
 The regulations for the custody and use of the common seal.
 
-SECOND SCHEDULE
+[Act 23/92 wef 26/06/1992]
+
+THIRD SCHEDULE
 
 Section 86(1).
 
-Matters for which trusts deeds
-
-
-
-
-pursuant to unit trust schemes must provide
+Matters for Which Trusts Deeds Pursuant to Unit Trust Schemes Must Provide
 
 1\. For determining the manner in which the manager’s prices for units on a sale and a purchase respectively, and the yield from the units, are to be respectively calculated, and for entitling the holder of any units to require the manager to purchase them at a price calculated accordingly.
 
@@ -1343,7 +1410,9 @@ pursuant to unit trust schemes must provide
 
 5\. For requiring the manager (subject to any provisions as to appeal contained in the deed) to retire from the trust if the trustee certifies that it is in the interest of the beneficiaries under the trust that he should do so.
 
-6\. In this Schedule, “units” means securities (described whether as units or otherwise) which may be created in pursuance of the unit trust scheme, and “unit certificates” means certificates of the acquisition of such securities.
+6. In this Schedule, “units” means securities (described whether as units or otherwise) which may be created in pursuance of the unit trust scheme, and “unit certificates” means certificates of the acquisition of such securities.
+
+[Act 23/92 wef 26/06/1992]
 
 ## LEGISLATIVE HISTORY
 
@@ -1351,7 +1420,7 @@ Trustees Act
 
 (CHAPTER 337)
 
-This Legislative History is provided for the convenience of users of the Trustees Act. It is not part of the Act.
+This Legislative History is provided for the convenience of users of the Trustees Act. It is not part of this Act.
 
 ||||
 |:-|:-|:-|
@@ -1392,3 +1461,9 @@ This Legislative History is provided for the convenience of users of the Trustee
 ||Date of commencement|1 October 1982|
 |8.|**1985 Revised Edition—Trustees Act**|
 ||Date of operation|30 March 1987|
+|9.|**Act 9 of 1987—Development Loan Act 1987**|
+||(Consequential amendments made by)||
+||Date of First Reading|13 March 1987|
+|||(Bill No. 7/87 published on 16 March 1987)|
+||Date of Second and Third Readings|26 March 1987|
+||Date of commencement|10 April 1987|
