@@ -88,6 +88,8 @@
 
 - [34 Transfers of going concerns](#Transfers-of-going-concerns)
 
+- [34A Transfers of going concerns: input tax deemed deducted](#Transfers-of-going-concerns:-input-tax-deemed-deducted)
+
 - [35 Betting, sweepstakes, lotteries and gaming](#Betting-sweepstakes-lotteries-and-gaming)
 
 - [36 Commodity, futures or securities markets and exchanges](#Commodity-futures-or-securities-markets-and-exchanges)
@@ -754,7 +756,7 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (o) the supply (including the letting on hire) of any ship or aircraft;
 
-(p) the repair, maintenance, broking or management of any ship or aircraft, being services which are provided to the owner, operator or agent of the ship or aircraft; or
+(p) the repair, maintenance, broking or management of any ship or aircraft, being services which are provided to the owner, operator or agent of the ship or aircraft;
 
 (q) prescribed services comprising the provision of any means of telecommunication transmitted —
 
@@ -762,7 +764,11 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 (ii) from a place in Singapore to a place outside Singapore; or
 
-(iii) from a place outside Singapore to a place in Singapore.
+(iii) from a place outside Singapore to a place in Singapore ; or
+
+(r) services supplied by a trustee, where the services and the trustee supplying such services satisfy such conditions as may be prescribed.
+
+[31/2000 wef 18/12/2000]
 
 [25/96]
 
@@ -1018,13 +1024,31 @@ and no account shall be taken, in determining for any purpose of this Act whethe
 
 ### Agents
 
-33\.—(1) Where a person who is accountable for any tax, or on whom any duties are imposed by or under this Act, is not resident in Singapore, the Comptroller may, by notice in writing served on any agent, manager or factor who is resident in Singapore and has acted on behalf of that person in matters by reference to which that person is accountable or the duties are imposed, direct that he shall be substituted for that person as the person accountable for the tax or that he shall be under an obligation to discharge those duties or any of them.
+33\.—(1) Where a person who is accountable for any tax, or on whom any duties are imposed by or under this Act, does not have his usual place of residence in Singapore, the Comptroller may, by notice in writing served on any agent, manager or factor who has acted on behalf of that person in matters by reference to which that person is accountable or the duties are imposed, direct that he shall be substituted for that person as the person accountable for the tax or that he shall be under an obligation to discharge those duties or any of them.
 
 (2) For the purposes of this Act, goods imported by a taxable person and supplied by him as agent for a person who is not a taxable person may be treated as imported and supplied by the taxable person as principal.
 
-(3) For the purposes of subsection (2), a person who is not resident in Singapore and whose place or principal place of business is outside Singapore may be treated as not being a taxable person if as a result he will not be required to be registered under this Act.
+(3) For the purposes of subsection (2), a person who does not belong in Singapore may be treated as not being a taxable person if as a result he will not be required to be registered under this Act.
+
+(3A) For the purpose of subsection (3), a person shall be treated as belonging in Singapore if —
+
+(a) he has in Singapore a business establishment or some other fixed establishment and no such establishment elsewhere;
+
+(b) he has no such establishment in any country but his usual place of residence is in Singapore; or
+
+(c) he has such establishments both in Singapore and elsewhere and the establishment of his which is most directly concerned with the supply is in Singapore.
+
+[31/2000 wef 18/12/2000]
 
 (4) Where goods or services are supplied through an agent who acts in his own name, the Comptroller may, if he thinks fit, treat the supply both as a supply to the agent and as a supply by the agent.
+
+(5) For the purposes of this section —
+
+(a) a person carrying on a business through a branch or an agency in any country shall be treated as having a business establishment there; and
+
+(b) “usual place of residence”, in relation to a body corporate, means the place where it is incorporated or otherwise legally constituted.
+
+[31/2000 wef 18/12/2000]
 
 ### Repayment of tax to persons in business overseas
 
@@ -1055,6 +1079,28 @@ and no account shall be taken, in determining for any purpose of this Act whethe
 (a) for the purpose of determining whether the transferee is liable to be registered under this Act he shall be treated as having carried on the business before as well as after the transfer and supplies by the transferor shall be treated accordingly; and
 
 (b) any records relating to the business which under section 46 are required to be preserved for any period after the transfer shall be preserved by the transferee instead of by the transferor, unless the Comptroller, at the request of the transferor, otherwise directs.
+
+### Transfers of going concerns: input tax deemed deducted
+
+34A\.—(1) Where —
+
+(a) a business or part thereof carried on by a taxable person is transferred as a going concern to a transferee who is also a taxable person together with the assets of such business; and
+
+(b) by virtue of any order made under section 10(3)(c), the supply of such assets to the taxable person is treated as neither a supply of goods nor a supply of services,
+
+the transferee shall be deemed to have incurred input tax on the value of the supply of such assets, and to have deducted such input tax from any output tax due from him on the day of the supply.
+
+(2) For the purposes of this section, the value of the supply of any assets as referred to in subsection (1) shall be calculated in accordance with section 17 without the addition of tax.
+
+(3) The Minister may make regulations to provide for any provision of this Act or any regulations made thereunder which relates to a person who deducts input tax under section 19 to apply to a transferee referred to in subsection (1).
+
+(4) Regulations made under subsection (3) may provide —
+
+(a) for the modification of any such provision of this Act or any regulations made thereunder in order that it may properly apply to a transferee referred to in subsection (1); and
+
+(b) for such incidental and supplementary matters as appear to the Minister necessary or expedient.
+
+[31/2000 wef 18/12/2000]
 
 ### Betting, sweepstakes, lotteries and gaming
 
@@ -2890,3 +2936,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 December 1999|
 |9.|**G. N. No. S 204/2000—Goods And Services Tax Act (Amendment Of Fourth Schedule) Order 2000**|
 ||Date of commencement|15 April 2000|
+|10.|**Act 31 of 2000—Goods and Services Tax (Amendment) Act 2000**|
+||Date of First Reading|13 November 2000|
+|||(Bill No. 32/2000 published on 22 December 2000)|
+||Date of Second and Third Readings|22 November 2000|
+||Date of commencement|18 December 2000|
