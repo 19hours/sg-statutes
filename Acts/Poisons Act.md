@@ -3236,6 +3236,12 @@ Methyl chloride
 
 Methyl mercaptan
 
+Monomethyltetrachloro diphenyl methane
+
+Monomethyl-dichloro-diphenyl methane
+
+Monomethyl-dibromodiphenyl methane
+
 Niclofolan
 
 Nicotine sulphate
@@ -3360,7 +3366,7 @@ Vinyl bromide
 
 Vinyl chloride monomer
 
-[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991; S 9/1993; S 172/1993]
+[S 361/1989; S 55/1990; S 51/1991; S 475/1991; S 541/1991; S 9/1993; S 172/1993; S 12/1994]
 
 ## LEGISLATIVE HISTORY
 
@@ -3512,3 +3518,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 February 1993|
 |57.|**G. N. No. S 172/1993—Poisons Act (Amendment of Schedule) (No. 2) Notification 1993**|
 ||Date of commencement|1 July 1993|
+|58.|**G. N. No. S 12/1994—Poisons Act (Amendment of Schedule) Notification 1994**|
+||Date of commencement|1 February 1994|
