@@ -62,7 +62,11 @@ Provided that —
 
 (3) Section 10 of the Civil Law Act [Cap. 43] (which relates to proceedings against and contribution between joint and several tortfeasors) shall apply in any case where two or more persons are liable or would, if they had all been sued, be liable by virtue of subsection (1) in respect of the damage suffered by any person.
 
-(4) Where any person dies as the result partly of his own fault and partly of the fault of any other person or persons, and accordingly if an action were brought for the benefit of the estate under section 7 of the Civil Law Act, the damages recoverable would be reduced under subsection (1), any damages recoverable in an action brought for the benefit of the dependants of that person under section 11 of that Act shall be reduced to a proportionate extent.
+(4) Where any person dies as the result partly of his own fault and partly of the fault of any other person or persons, and accordingly if an action were brought for the benefit of the estate under section 7 of the Civil Law Act, the damages recoverable would be reduced under subsection (1), any damages recoverable in an action brought for the benefit of the dependants of that person under section 11 of that Act or any damages recoverable in an action brought for the benefit of any person under section 12A\*of that Act, shall be reduced to a proportionate extent.
+
+\*Section 12A was renumbered to section 13 in Civil Law Act (Cap. 43, 1988 Revised Edition).
+
+[11/87 wef 01/05/1987]
 
 (5) Where, in any case to which subsection (1) applies, one of the persons at fault avoids liability to any other such person or his personal representative by pleading the Limitation Act [Cap. 163] or any other written law limiting the time within which proceedings may be taken, he shall not be entitled to recover any damages or contributions from that other person or representative by virtue of that subsection.
 
@@ -107,3 +111,8 @@ This Legislative History is provided for the convenience of users of the Contrib
 ||Date of operation|1 March 1971|
 |4.|**1985 Revised Edition—Contributory Negligence and Personal Injuries Act**|
 ||Date of operation|30 March 1987|
+|5.|**Act 11 of 1987—Civil Law (Amendment) Act 1987**|
+||Date of First Reading|26 January 1987|
+|||(Bill No. 1/1987)|
+||Date of Second and Third Readings|4 March 1987|
+||Date of commencement|1 May 1987|
