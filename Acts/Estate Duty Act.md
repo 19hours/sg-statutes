@@ -90,7 +90,7 @@
 
 - [35 Filing of accounts of property](#Filing-of-accounts-of-property)
 
-- [36 Interest payable on estate duty](#Interest-payable-on-estate-duty)
+- [36 Interest payable on estate duty and penalty for late payment](#Interest-payable-on-estate-duty-and-penalty-for-late-payment)
 
 - [37 Commissioner may make assessment](#Commissioner-may-make-assessment)
 
@@ -514,7 +514,9 @@ shall not qualify for the relief under subsection (1)(a), (2)(a), (3)(a) or (4)(
 
 (7) In the case of a person dying on or after 25th February 2000, subsection (6)(a) shall not apply to any dwelling-house which at the time of his death was used by any person partly for the purposes of any trade, business, profession or vocation —
 
-(a) approved under the Technopreneur Home Office Scheme by the Economic Development Board; or
+(a) approved under the Home Office Scheme by the Urban Redevelopment Authority or the Housing and Development Board; or
+
+[51/2004 wef 09/12/2004]
 
 (b) allowed under the small business guidelines of the Urban Redevelopment Authority or the Housing and Development Board.
 
@@ -776,7 +778,7 @@ AGGREGATION AND VALUE OF PROPERTY
 
 ### Allowance for debts and funeral expenses
 
-27\.—(1) In determining the value of an estate for the purpose of estate duty, allowance shall be made for reasonable funeral expenses not exceeding $1,000 or 5% of the ascertained value of the estate, whichever is the smaller, and for debts and encumbrances, but an allowance shall not be made —
+27\.—(1) In determining the value of an estate for the purpose of estate duty, allowance shall be made for reasonable funeral expenses not exceeding the amount specified in subsection (5), and for debts and encumbrances, but an allowance shall not be made —
 
 (a) for debts incurred by the deceased or encumbrances created by a disposition made by the deceased, unless those debts or encumbrances were incurred or created bona fide for full consideration in money or money’s worth wholly for the deceased’s own use and benefit and take effect out of his interest;
 
@@ -789,6 +791,14 @@ AGGREGATION AND VALUE OF PROPERTY
 (3) An allowance shall not be made in the first instance for debts or funeral expenses due to persons resident out of Singapore (unless contracted to be paid in Singapore or charged on property situate within Singapore) except out of the value of any property of the deceased situate out of Singapore in respect of which estate duty is paid.
 
 (4) There shall be no repayment of estate duty in respect of any debts or funeral expenses mentioned in subsection (3) except to the extent to which it is shown to the satisfaction of the Commissioner that the property of the deceased situate in the country in which the person to whom the debts or funeral expenses are due resides is insufficient for their payment.
+
+(5) For the purpose of subsection (1), the amount specified —
+
+(a) in the case of a person dying before 1st January 2005, is $1,000 or 5% of the ascertained value of the estate, whichever is the smaller;
+
+(b) in the case of a person dying on or after 1st January 2005, is $6,000.
+
+[51/2004 wef 09/12/2004]
 
 ### Deduction of duty paid in other countries
 
@@ -838,7 +848,7 @@ LIABILITY FOR ESTATE DUTY
 
 ### Raising estate duty by sale, mortgage or terminable charge
 
-31\.—(1) A person authorised or required to pay the estate duty in respect of any property shall, for the purpose of paying the duty, or raising the amount of the duty when already paid, have power, whether the property is or is not vested in him, to raise the amount of that duty and any interest and expenses properly paid or incurred by him in respect thereof, by the sale or mortgage of or a terminable charge on that property or any part thereof.
+31\.—(1) A person authorised or required to pay the estate duty in respect of any property shall, for the purpose of paying the duty, or raising the amount of the duty when already paid, have power, whether the property is or is not vested in him, to raise the amount of that duty and any interest, penalty and expenses properly paid or incurred by him in respect thereof, by the sale or mortgage of or a terminable charge on that property or any part thereof.
 
 (2) A person having a limited interest in any property, who pays the estate duty in respect of that property, shall be entitled to the like charge, as if the estate duty in respect of that property had been raised by means of a mortgage to him.
 
@@ -902,9 +912,37 @@ COLLECTION OF ESTATE DUTY
 
 (11) Any certificate of exemption issued under subsection (10) may be revoked by the Commissioner at any time if he is of opinion that the certificate was obtained by fraud or misrepresentation, or on an incorrect statement of facts, or if the holder of the certificate has at any time after the issue thereof taken possession of, or intermeddled with, the property of the deceased.
 
-### Interest payable on estate duty
+### Interest payable on estate duty and penalty for late payment
 
-36\.—(1) Subject to the provisions of this Act, simple interest at the appropriate rates specified in the Sixth Schedule shall be payable upon all estate duty from the date of the death of the deceased to the date of payment and shall be recoverable in the same manner as if it were part of the duty.
+36\.—(1) Subject to the provisions of this Act, simple interest at the appropriate rates specified in the Sixth Schedule shall be payable upon all estate duty, and shall be recoverable in the same manner as if it were part of the duty —
+
+(a) in the case of a person dying before 1st January 2005, from the date of death of the deceased to the date of payment of the duty;
+
+(b) in the case of a person dying on or after 1st January 2005, from the date of death of the deceased to whichever of the following dates occurs first:
+
+(i) the date of receipt by the Commissioner of an estate duty return without omission of assets;
+
+(ii) the date of the notice of assessment; or
+
+(iii) the date of payment of the duty.
+
+[51/2004 wef 09/12/2004]
+
+(1A) In the case of a person dying on or after 1st January 2005, if any estate duty or interest thereon is not paid in full on or before the relevant date ––
+
+(a) a penalty equal to 6% per year of the unpaid estate duty shall be added thereto for the first complete month that the duty remains unpaid after the relevant date; and
+
+(b) an additional penalty of 1% per year of the unpaid estate duty shall be payable for each subsequent complete month that the duty remains unpaid, subject to a maximum of 12% per year of the amount of unpaid duty.
+
+[51/2004 wef 09/12/2004]
+
+(1B) In subsection (1A) —
+
+“relevant date” means the date 30 days after the date of the notice of assessment, or the date 6 months after the date of death of the deceased, whichever is the later;
+
+“unpaid estate duty” includes any interest payable under subsection (1)(b).
+
+[51/2004 wef 09/12/2004]
 
 (2) Where double duty is leviable under section 44(1) or (2), interest shall be payable upon the single duty only for the period prior to the date when the liability to double duty attached, and thereafter upon the double duty.
 
@@ -912,7 +950,29 @@ COLLECTION OF ESTATE DUTY
 
 [30/2000]
 
-(4) In cases where estate duty is payable when an interest in expectancy falls into possession, interest on the estate duty shall be payable from the date when such interest falls into possession to the date of payment at the appropriate rates specified in the Sixth Schedule.
+(4) In cases where estate duty is payable when an interest in expectancy falls into possession, interest on the estate duty shall be payable at the appropriate rates specified in the Sixth Schedule ––
+
+(a) in the case of a person dying before 1st January 2005, from the date when such interest falls into possession to the date of payment;
+
+(b) in the case of a person dying on or after 1st January 2005, from the date when such interest falls into possession to whichever of the following dates occurs first:
+
+(i) the date of receipt by the Commissioner of a further estate duty return or further account in relation to such interest which falls into possession;
+
+(ii) the date of a further notice of assessment in relation to such interest which falls into possession; or
+
+(iii) the date of payment of the duty,
+
+and if the duty or interest thereon, if any, is not paid in full within 30 days from the date of the further notice of assessment, a penalty shall be payable at the rates specified in subsection (1A).
+
+[51/2004 wef 09/12/2004]
+
+(4A) For the purposes of determining the penalty payable under subsection (4)(b), the references in subsection (1A) to ––
+
+(a) the relevant date shall be read as the date 30 days after the date of the further notice of assessment, or the date 6 months after the date of death of the deceased, whichever is the later; and
+
+(b) the unpaid estate duty shall be read as the unpaid estate duty payable on such interest in expectancy which falls into possession, and includes any interest payable under subsection (4)(b).
+
+[51/2004 wef 09/12/2004]
 
 (5) The payment of interest shall not relieve any person from any penalty which he may have incurred under this Act.
 
@@ -924,9 +984,9 @@ COLLECTION OF ESTATE DUTY
 
 ### Recovery of estate duty
 
-38\.—(1) Any sum of money owing by way of estate dutyor interest thereon to the Government, or being forfeited to the Government under the provisions of this Act shall be a debt due to the Government and may be recovered under the Government Proceedings Act (Cap. 121).
+38\.—(1) Any sum of money owing by way of estate duty, interest thereon or penalty to the Government, or being forfeited to the Government under the provisions of this Act shall be a debt due to the Government and may be recovered under the Government Proceedings Act (Cap. 121).
 
-(2) Where any proceeding is instituted for the recovery of estate dutyor interest thereon in respect of any property, the High Court may appoint a receiver of the property and the rents and profits and may order a sale of the property.
+(2) Where any proceeding is instituted for the recovery of estate duty, interest thereon or penalty in respect of any property, the High Court may appoint a receiver of the property and the rents and profits and may order a sale of the property.
 
 ### Powers of Commissioner
 
@@ -1040,7 +1100,7 @@ COLLECTION OF ESTATE DUTY
 
 ### Return of duty overpaid
 
-45\. If the value of any property in respect of which estate duty has been paid is, within 3 years after such payment (or within such further period as the Commissioner may, in special circumstances, allow), proved to the satisfaction of the Commissioner to exceed the value of the property subject to estate duty on the death of the deceased, the Commissioner shall return the amount of dutyand interest thereon, if any, which has been overpaid.
+45\. If the value of any property in respect of which estate duty has been paid is, within 3 years after such payment (or within such further period as the Commissioner may, in special circumstances, allow), proved to the satisfaction of the Commissioner to exceed the value of the property subject to estate duty on the death of the deceased, the Commissioner shall return the amount of duty, interest thereon and penalty, if any, which has been overpaid.
 
 [46
 
@@ -1050,11 +1110,35 @@ COLLECTION OF ESTATE DUTY
 
 (a) within one month after such notice, or within such further time as the Commissioner may allow, deliver a further estate duty return or further account;
 
-(b) pay the difference between the duty leviable according to the true value of the estate and the duty already paid; and
+(b) pay the difference between the duty leviable according to the true value of the estate and the duty already paid;
 
-(c) at the same time pay to the Commissioner interest upon such difference at the appropriate rates specified in the Sixth Schedule from the date of the death, or from such subsequent date as the Commissioner may in the circumstances think proper, to the date of payment.
+(c) at the same time pay to the Commissioner interest upon such difference at the appropriate rates specified in the Sixth Schedule from the date of the death, or from such subsequent date as the Commissioner may in the circumstances think proper ––
+
+(i) in the case of a person dying before 1st January 2005, to the date of payment;
+
+(ii) in the case of a person dying on or after 1st January 2005, to whichever of the following dates occurs first:
+
+(A) the date of receipt by the Commissioner of the further estate duty return or further account required under paragraph (a) without omission of assets;
+
+(B) the date of the notice of assessment of the difference; or
+
+(C) the date of payment; and
+
+[51/2004 wef 09/12/2004]
+
+(d) in the case of a person dying on or after 1st January 2005, if the difference or interest thereon, if any, is not paid in full within 30 days from the date of the notice of assessment of the difference, pay to the Commissioner a penalty at the rates specified in section 36(1A).
+
+[51/2004 wef 09/12/2004]
 
 [30/2000]
+
+(1A) For the purposes of determining the penalty payable under subsection (1)(d), the references in section 36(1A) to ––
+
+(a) the relevant date shall be read as the date 30 days after the date of the notice of assessment of the difference, or the date 6 months after the date of death of the deceased, whichever is the later; and
+
+(b) the unpaid estate duty shall be read as the unpaid difference, and includes any interest payable under subsection (1)(c).
+
+[51/2004 wef 09/12/2004]
 
 (2) If any person, who ought to deliver a further return or account as mentioned in subsection (1), neglects to do so within the prescribed period, he shall forfeit to the Government the sum of $1,000 and shall also be liable to pay to the Government double the amount of additional duty leviable.
 
@@ -1068,15 +1152,15 @@ COLLECTION OF ESTATE DUTY
 
 ### Application to court
 
-47\.—(1) An executor or other accountable person aggrieved by any claim by a notice of assessment by the Commissioner for payment of estate dutyor interest thereon, or by the refusal of the Commissioner to return any estate dutyor interest thereon alleged to have been overpaid, may, on payment of, or giving security as hereinafter mentioned for, the amount claimed by the Commissioner or such portion of it as is then payable by him, apply to the High Court within 3 months from the date of the claim or refusal, as the case may be.
+47\.—(1) An executor or other accountable person aggrieved by any claim by a notice of assessment by the Commissioner for payment of estate duty, interest thereon or penalty, or by the refusal of the Commissioner to return any estate duty, interest thereon or penalty alleged to have been overpaid, may, on payment of, or giving security as hereinafter mentioned for, the amount claimed by the Commissioner or such portion of it as is then payable by him, apply to the High Court within 3 months from the date of the claim or refusal, as the case may be.
 
 [42/98]
 
-(2) The amount of the dutyand interest shall be determined by the High Court, and if the dutyand interest as determined is less than that paid to the Commissioner the excess shall be repaid.
+(2) The amount of the duty, interest and penalty shall be determined by the High Court, and if the duty , interest and penalty as determined is less than that paid to the Commissioner the excess shall be repaid.
 
 (3) No appeal shall be allowed from any order, direction, determination or decision of the High Court upon any application under this section except with the leave of the High Court or the Court of Appeal.
 
-(4) The costs of the application shall be in the discretion of the Court, and the Court, where it appears to the Court just, may order the Commissioner to pay on any excess of dutyor interest repaid by him interest at the rate of 6% per annum for such period as appears to the Court just.
+(4) The costs of the application shall be in the discretion of the Court, and the Court, where it appears to the Court just, may order the Commissioner to pay on any excess of duty, interest or penalty repaid by him interest at the rate of 6% per annum for such period as appears to the Court just.
 
 (5) The High Court, if satisfied that it would impose hardship to require the applicant, as a condition of the application, to pay the whole or, as the case may be, any part of the duty claimed by the Commissioner or of such portion of it as is then payable by him, may allow the application to be brought without payment of duty, or of such part only of the duty as to the Court seems reasonable, and on security to the satisfaction of the Court being given for the duty, or so much of the duty as is not so paid, but in such case the Court may order interest at the rate of 6% per annum to be paid on the unpaid duty so far as it becomes payable under the decision of the Court.
 
@@ -1186,7 +1270,9 @@ the surviving partner or partners or the manager, agent, attorney or other perso
 
 ### Signature and service of notices
 
-58\.—(1) Every notice, given by the Commissioner or a Deputy Commissioner under this Act, shall bear the name of the Commissioner or the Deputy Commissioner, as the case may be, and every such notice shall, if the name of the Commissioner or the Deputy Commissioner is duly printed or stamped thereon, be as valid and effectual as if it were signed by the Commissioner or the Deputy Commissioner, as the case may be.
+58\.—(1) Every notice given by the Commissioner, a Deputy Commissioner or an officer authorised by the Commissioner under section 4(4) shall bear the name of the Commissioner, Deputy Commissioner or officer, as the case may be, and every such notice shall, if the name of the Commissioner, Deputy Commissioner or officer is duly printed or stamped thereon, be as valid and effectual as if it were signed by the Commissioner, Deputy Commissioner or officer, as the case may be.
+
+[51/2004 wef 09/12/2004]
 
 (2) Every notice, given by virtue of this Act, may be served on a person either personally or by being delivered at, or sent by post to, an address furnished by him for the purpose of service of notices, or his last known address or place of residence or to any place at which he is or has been carrying on business.
 
@@ -1452,13 +1538,23 @@ For every dollar exceeding $12,000,000
 
 SIXTH SCHEDULE
 
-Sections 36(1) and (4) and 46(1)
+*Sections 36(1) and (4) and 46(1)
 
 Rates of Interest
+
+Person dying
 
 Period
 
 Rate of Interest
+
+Before 1st January 1965
+
+From the date of death to the date of payment of the estate duty
+
+4% per year on the amount of the unpaid estate duty.
+
+On or after 1st January 1965 and before 1st January 2005
 
 1. From the date of death to the date of payment of the estate duty or the expiration of 6 months from the date of death, whichever first occurs
 
@@ -1472,11 +1568,39 @@ Rate of Interest
 
 12% per year on the amount of the unpaid estate duty except that the Commissioner shall reduce the rate to 6% per year if he is satisfied that there was reasonable cause for the delay in payment or furnishing information to the Commissioner.
 
-4. Where the death occurred before 1st January 1965, from the date of death to the date of payment of the estate duty
+On or after 1st January 2005
 
-4% per year on the amount of the unpaid estate duty.
+1. For the first 6 months after the date of death
 
-[42/98; 30/2000]
+0%.
+
+2. From the date 6 months after the date of death to the ––
+
+(a) date of receipt of an estate duty return without omission of assets;
+
+(b) date of notice of assessment;
+
+(c) date of full payment of the estate duty; or
+
+(d) expiration of 18 months from the date of death,
+
+6% per year on the amount of the unpaid estate duty except that if the Commissioner is satisfied that there was reasonable cause for not filing an estate duty return without omission of assets, or for the delay in filing the estate duty return or furnishing information, he may reduce the rate charged to a rate not less than the prevailing prime lending rate of banks in Singapore.
+
+whichever first occurs.
+
+3. From the date 18 months after the date of death to the —
+
+(a) date of receipt of an estate duty return without omission of assets;
+
+(b) date of notice of assessment; or
+
+(c) date of full payment of the estate duty,
+
+12% per year on the amount of the unpaid estate duty except that if the Commissioner is satisfied that there was reasonable cause for not filing an estate duty return without omission of assets, or for the delay in filing the estate duty return or furnishing information, he may reduce the rate charged to a rate not less than the prevailing prime lending rate of banks in Singapore.
+
+whichever first occurs.
+
+[51/2004 wef 09/12/2004]
 
 SEVENTH SCHEDULE
 
@@ -1729,6 +1853,11 @@ This Legislative History is provided for the convenience of users of the Estate 
 |||(Bill No. 30/2002 published on 2 October 2002)|
 ||Date of Second and Third Readings|31 October 2002|
 ||Date of commencement|18 November 2002|
+|35.|**Act 51 of 2004—Estate Duty (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 61/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|9 December 2004|
 ## COMPARATIVE TABLE
 
 Estate Duty Act
