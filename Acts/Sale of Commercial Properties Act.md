@@ -54,7 +54,7 @@ An Act to regulate the sales of separate units of commercial properties in a com
 
 2\. In this Act, unless the context otherwise requires —
 
-“building” includes any completed building, or any building partially completed or to be erected, and intended for any strata subdivision as shown in a development plan approved by the competent authority or is comprised in one or more lots as shown in a strata title plan lodged with the Registrar of Titles;
+“building” includes any completed building, or any building partially completed or to be erected, and intended for any strata subdivision as shown in a development plan approved by the relevant competent authority under the Planning Act 1998 or is comprised in one or more lots as shown in a strata title plan lodged with the Registrar of Titles;
 
 “Building Authority” has the same meaning as in the Building Control Act [Cap. 29];
 
@@ -114,7 +114,7 @@ An Act to regulate the sales of separate units of commercial properties in a com
 
 (a) sought the direction of the Registrar of Titles under section 16 of the Land Titles Act [Cap. 157] or complied with the direction;
 
-(b) applied for the grant of written permission for the relevant strata subdivision under section 9(3) of the Planning Act [Cap. 232] or complied with the requirements of the competent authority necessary for the purpose of obtaining written permission for such strata subdivision;
+(b) applied for the grant of subdivision permission under section 14 of the Planning Act 1998 or complied with the requirements of the competent authority necessary for the purpose of obtaining written permission for such strata subdivision;
 
 (c) employed any registered surveyor who has in force a practising certificate to carry out the necessary surveys and prepare the necessary plans for submission to the Chief Surveyor to enable a subsidiary strata certificate of title to be issued for the commercial property, or has failed to cause amendments to these plans to be made as required by the Chief Surveyor;
 
@@ -212,7 +212,7 @@ Sale of Commercial Properties Act
 
 (CHAPTER 281)
 
-This Legislative History is provided for the convenience of users of the Sale of Commercial Properties Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Sale of Commercial Properties Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -234,3 +234,9 @@ This Legislative History is provided for the convenience of users of the Sale of
 |||(Bill No. 11/1991 published on 28 February 1991)|
 ||Date of Second and Third Readings|28 June 1991|
 ||Date of commencement|30 August 1991|
+|5.|**Act 3 of 1998—Planning Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 November 1997|
+|||(Bill No. 18/1997 published on 20 November 1997)|
+||Date of Second and Third Readings|14 January 1998|
+||Date of commencement|1 April 1998|
