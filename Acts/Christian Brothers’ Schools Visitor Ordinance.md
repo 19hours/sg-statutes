@@ -18,7 +18,7 @@
 
 - [4 Property vested in the corporation](#Property-vested-in-the-corporation)
 
-- [5 Saving of Crown and other rights](#Saving-of-Crown-and-other-rights)
+- [5 Saving of Government and other rights](#Saving-of-Government-and-other-rights)
 
 [**Legislative History**](#Legislative-History)
 
@@ -26,9 +26,9 @@
 
 (CHAPTER 358)
 
-(Original Enactment: Ordinance 29 of 1915)
+(Original Enactment: Ordinance 29 of 19151)
 
-Note: This private Ordinance is reproduced in the form it appears in the 1955 Revised Edition.
+1Note:This private Ordinance is reproduced in the form it appears in the 1955 Revised Edition.
 
 REVISED EDITION 1985
 
@@ -56,19 +56,15 @@ It is hereby enacted by the Governor of the Straits Settlements with the advice 
 
 (3) The corporation may acquire, purchase, take, hold and enjoy movable and immovable property of every description and may sell, convey, assign, surrender and yield up, mortgage, demise, reassign, transfer or otherwise dispose of any movable or immovable property vested in the corporation upon such terms as to the corporation seems fit.
 
-(4) No person shall be deemed to be duly qualified as aforesaid unless and until he has first, with the approval of the Minister signified under his hand and seal, caused the power of attorney or other instrument constituting him such Visitor to be duly filed in the Registry of the Supreme Court at Singapore, pursuant to section 48 of the Conveyancing and Law of Property Ordinance, and unless and until a notification of such filing has appeared in theGazette.
+(4) No person shall be deemed to be duly qualified as aforesaid unless and until he has first, with the approval of the Minister signified under his hand and seal, caused the power of attorney or other instrument constituting him such Visitor to be duly filed in the Registry of the Supreme Court at Singapore, pursuant to section 48 of the Conveyancing and Law of Property Ordinance [1955 Ed., Cap. 243], and unless and until a notification of such filing has appeared in theGazette.
 
 [72/59]
-
-[1955 Ed.]
 
 (5) Such notification shall be sufficient evidence of the appointment and that the person therein named is duly qualified as by this Ordinance is required.
 
 ### Use of the corporate seal
 
-3\.—(1) No deed, document or other instrument sealed with the seal of the corporation shall be deemed to be duly sealed unless such seal has been affixed in the presence of the said James Joseph Byrne or his attorney duly authorized by a power of attorney registered under section 48 of the Conveyancing and Law of Property Ordinance, or in the presence of his successor for the time being in his said office of Visitor and duly qualified as aforesaid, and unless such deed, document or other instrument is signed by the said James Joseph Byrne or his attorney or by his successor or his said attorney.
-
-[1955 Ed.]
+3\.—(1) No deed, document or other instrument sealed with the seal of the corporation shall be deemed to be duly sealed unless such seal has been affixed in the presence of the said James Joseph Byrne or his attorney duly authorized by a power of attorney registered under section 48 of the Conveyancing and Law of Property Ordinance [1955 Ed., Cap. 243], or in the presence of his successor for the time being in his said office of Visitor and duly qualified as aforesaid, and unless such deed, document or other instrument is signed by the said James Joseph Byrne or his attorney or by his successor or his said attorney.
 
 (2) Such signing shall be taken as sufficient evidence of the due sealing of such deed, document or other instrument.
 
@@ -76,9 +72,11 @@ It is hereby enacted by the Governor of the Straits Settlements with the advice 
 
 4\. All movable and immovable property situated in the Colony heretofore held, conveyed or assigned to or vested in either the Director in Singapore of St. Joseph’s Institution or the Director in Penang of St. Xavier’s Institution whether with or without the name of the Director for the time being holding the office is hereby vested in the corporation for the respective estates and interests for which the same is holden.
 
-### Saving of Crown and other rights
+### Saving of Government and other rights
 
-5\. Nothing in this Ordinance shall affect the rights of Her Majesty or of any body politic or corporate or of any other persons except such as are mentioned in this Ordinance and those claiming by, from or under them.
+5\. Nothing in this Ordinance shall affect the rights of the Government or of any body politic or corporate or of any other persons except such as are mentioned in this Ordinance and those claiming by, from or under them.
+
+[7/97 wef 01/10/1997]
 
 ## LEGISLATIVE HISTORY
 
@@ -96,3 +94,8 @@ This Legislative History is provided for the convenience of users of the Christi
 ||Date of operation|1 May 1955|
 |3.|**1985 Revised Edition—Christian Brothers’ Schools Visitor Ordinance**|
 ||Date of operation|30 March 1987|
+|4.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (item (16) in the First Schedule)|
