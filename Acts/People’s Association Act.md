@@ -261,7 +261,7 @@ Jogging Association of Singapore
 
 11. 
 
-Junior Flying Club
+Youth Flying Club
 
 12. 
 
@@ -566,14 +566,15 @@ Young Womens’ Christian Association of Singapore
 
 85. 
 
-Young Women Muslim Association
-(Persekutuan Pemudi Islam Singapura).
+Young Women Muslim Association (Persatuan Pemudi Islam Singapura)
 
 [S 202/83; S 163/86]
 
 [S 135/1987 wef 22/04/1987]
 
 [S 20/1988 wef 29/01/1988]
+
+[S 140/1988 wef 10/06/1988]
 
 SECOND SCHEDULE
 
@@ -634,3 +635,5 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|22 April 1987|
 |17.|**G.N. No. S 20/88—People’s Association Act (Amendment of First Schedule) Notification 1988**|
 ||Date of commencement|29 January 1988|
+|18.|**G.N. No. S 140/88—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 1988**|
+||Date of commencement|10 June 1988|
