@@ -158,13 +158,11 @@ APPLICATION OF PENSION FUND
 
 ### Surpluses in Pension Fund
 
-9\. The Minister may by warrant under his hand authorise the transfer to the Consolidated Fund any moneys in the Pension Fund which, in the opinion of the Minister, are not required to meet the liabilities of the Pension Fund.
-
-(1) The Minister may by warrant under his hand authorise the transfer to the Consolidated Fund any moneys in the Pension Fund which, in the opinion of the Minister, are not required to meet the liabilities of the Pension Fund.
+9\.—(1) The Minister may by warrant under his hand authorise the transfer to the Consolidated Fund any moneys in the Pension Fund which, in the opinion of the Minister, are not required to meet the liabilities of the Pension Fund.
 
 [Act 12/98]
 
-(2) The Minister may by warrant under his hand authorise the transfer to the SAVER Fundestablished under section 205B of the SingaporeArmed Forces Act (Cap. 295) such moneys in the Pension Fund as the Minister may determine as the value of that part of the Pension Fund relating to all those servicemen in the Singapore Armed Forces who opted in favour of joining the SAVER Plan established under section 205A of the Singapore Armed Forces Act.
+(2) The Minister may by warrant under his hand authorise the transfer to the SAVER-Premium Fund established under section 205B of the Singapore Armed Forces Act (Cap. 295) such moneys in the Pension Fund as the Minister may determine as the value of that part of the Pension Fund relating to all those servicemen in the Singapore Armed Forces who opted in favour of joining the SAVER Plan or Premium Plan established under section 205A of the Singapore Armed Forces Act.
 
 [Act 12/98]
 
@@ -291,3 +289,9 @@ This Legislative History is provided for the convenience of users of the Pension
 |||(Bill No. 10/1998 published on 19 February 1998)|
 ||Date of Second and Third Readings|20 March 1998|
 ||Date of commencement|1 April 1998|
+|4.|**Act 10 of 2000—Singapore Armed Forces (Amendment) Act 2000**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 January 2000|
+|||(Bill No. 2/2000 published on 18 January 2000)|
+||Date of Second and Third Readings|21 February 2000|
+||Date of commencement|31 March 2000|
