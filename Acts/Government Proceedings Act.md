@@ -260,7 +260,17 @@ shall be enforceable by proceedings against the Government for that purpose in a
 
 14\.—(1) Nothing done or omitted to be done by a member of the forces while on duty as such shall subject either him or the Government to liability in tort for causing the death of another person, or for causing personal injury to another person, in so far as the death or personal injury is due to anything suffered by that other person while he is a member of the forces if —
 
-(a) at the time when that thing is suffered by that other person, he is either on duty as a member of the forces or is, though not on duty as such, on any land, premises, ship, aircraft or vehicle for the time being used for the purposes of the forces; and
+(a) at the time when the thing is suffered by that other person, he is —
+
+(i) on duty as a member of the forces; or
+
+(ii) though not on duty as a member of the forces —
+
+(A) on any land, premises, ship, aircraft or vehicle for the time being used for the purposes of the forces; or
+
+(B) on any journey necessary to enable him to report for duty as such or to return home after such duty; and
+
+[45/1996 wef 28/12/1996]
 
 (b) the Minister responsible for finance certifies that his suffering that thing has been or will be treated as attributable to service for the purposes of entitlement to an award under any written law relating to the disablement or death of members of the force of which he is a member:
 
@@ -276,7 +286,11 @@ nor shall any act or omission of an officer of the Government subject him to lia
 
 (3) The Minister charged with the responsibility for defence or internal security, as the case may be, if satisfied that it is the fact —
 
-(a) that a person was or was not on any particular occasion on duty as a member of the forces; or
+(a) that a person was or was not on any particular occasion on duty as a member of the forces;
+
+(aa) that a person was or was not on any particular occasion either on any journey necessary to enable him to report for duty as such or to return home after such duty; or
+
+[45/1996 wef 28/12/1996]
 
 (b) that at any particular time any land, premises, ship, aircraft, vehicle, equipment or supplies was or was not, or were or were not, used for the purposes of the forces,
 
@@ -570,3 +584,8 @@ This Legislative History is provided for the convenience of users of the Governm
 ||Date of operation|1 March 1971|
 |4.|**1985 Revised Edition—Government Proceedings Act**|
 ||Date of operation|30 March 1987|
+|5.|**Act 45 of 1996—Government Proceedings (Amendment) Act 1996**|
+||Date of First Reading|2 December 1996|
+|||(Bill No. 35/1996 published on 3 December 1996)|
+||Date of Second and Third Readings|11 December 1996|
+||Date of commencement|28 December 1996|
