@@ -50,6 +50,8 @@
 
 - [18 Approved centres](#Approved-centres)
 
+- [18A Administration of approved centres](#Administration-of-approved-centres)
+
 - [19 Review Committees for approved centres](#Review-Committees-for-approved-centres)
 
 - [20 Review, discharge and transfer of inmates](#Review-discharge-and-transfer-of-inmates)
@@ -286,7 +288,21 @@ for voluntary treatment and rehabilitation on such terms and conditions as may b
 
 18\.—(1) The Minister may from time to time, by notification in theGazette, declare any place or premises to be an approved centre for the purpose of the treatment and rehabilitation of persons who use or inhale intoxicating substances for the purpose of inducing or causing a state of intoxication and may at any time in like manner revoke or amend any such notification.
 
-(2) The Minister may appoint any person as the officer-in-charge of an approved centre and such person shall be responsible for the general charge and supervision of the approved centre.
+### Administration of approved centres
+
+18A\.—(1) Subject to the directions of the Minister, the general charge and administration of —
+
+(a) approved centres, except those designated in paragraph (b), shall be under the Director of Prisons appointed under section 8 of the Prisons Act (Cap.247); and
+
+(b) such approved centres, as the Minister may designate, shall be under such person as the Minister may appoint.
+
+(2) The Director of Prisons or the person appointed under subsection (1)(b), as the case may be, may appoint a person to be the officer in charge of an approved centre and such person shall be responsible for the supervision and administration of that approved centre.
+
+(3) Subject to such modifications as may be made by the Director of Prisons, the standing orders issued under the Prisons Act shall apply to an approved centre under the charge of the Director as they apply to a prison.
+
+(4) The person appointed under subsection (1)(b) may in writing issue orders, to be called standing orders, for the approved centres designated under his charge.
+
+[20/98 wef 02/07/1998]
 
 ### Review Committees for approved centres
 
@@ -439,3 +455,9 @@ This Legislative History is provided for the convenience of users of the Intoxic
 ||Date of commencement|1 November 1987|
 |2.|**1988 Revised Edition—Intoxicating Substances Act**|
 ||Date of operation|30 April 1988|
+|3.|**Act 20 of 1998—Misuse of Drugs (Amendment) Act 1998**|
+||(Consequential amendments made by)||
+||Date of First Reading|20 April 1998|
+|||(Bill No. 17/98 published on 21 April 1998)|
+||Date of Second and Third Readings|1 June 1998|
+||Date of commencement|20 July 1998|
