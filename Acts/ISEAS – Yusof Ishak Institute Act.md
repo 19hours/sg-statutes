@@ -24,6 +24,8 @@
 
 - [9 Power of Board to borrow and invest](#Power-of-Board-to-borrow-and-invest)
 
+- [9A Issue of shares, etc.](#Issue-of-shares-etc)
+
 - [10 Use of common seal](#Use-of-common-seal)
 
 - [11 Grants-in-aid and accounts of Institute](#Grants-in-aid-and-accounts-of-Institute)
@@ -161,6 +163,12 @@ Provided that the person or body appointing such a member may at any time revoke
 (2) The Board may invest the funds of the Board in such manner and to such extent as it may think necessary or expedient.
 
 (3) The Board may do all or any things incidental or appertaining to a body corporate.
+
+### Issue of shares, etc.
+
+9A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Board under this Act, or of any capital injection or other investment by the Government in the Board in accordance with any written law, the Board shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+
+[5/2002 wef 15/07/2002]
 
 ### Use of common seal
 
@@ -310,3 +318,9 @@ This Legislative History is provided for the convenience of users of the Institu
 |||(Bill No. 24/2001 published on 17 August 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|1 September 2001 (section 10 — amendment of Institute of Southeast Asian Studies Act)|
+|7.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Dates of commencement|15 July 2002 (except item (18) of the Schedule)|
