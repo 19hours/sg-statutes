@@ -204,6 +204,8 @@
 
 [**Part VIII GENERAL PROVISIONS**](#Part-VIII)
 
+- [88 (Repealed)](#Repealed)
+
 - [89 Indemnity](#Indemnity)
 
 [**FIRST SCHEDULE Manner of Investment**](#FIRST-SCHEDULE-Manner-of-Investment)
@@ -1260,6 +1262,10 @@ the Minister may serve on the manager and on the trustee under the scheme a writ
 
 GENERAL PROVISIONS
 
+Trust estates not affected by trustee becoming a convict
+
+88\. [Deleted by Act 7/97 wef 01/10/1997 vide S441/97]
+
 ### Indemnity
 
 89\. This Act and every order purporting to be made under this Act shall be a complete indemnity to all persons for any acts done pursuant thereto, and it shall not be necessary for any person to inquire concerning the propriety of the order, or whether the court by which the order was made had jurisdiction to make it.
@@ -1298,7 +1304,13 @@ Part II
 
 (b) will mature not later than 3 months after the date of the investment.
 
-4\. In or upon titles to land in Singapore, such titles being freehold titles or grants in perpetuity or leases (other than mining leases) of which their unexpired term at the time of such investment is not less than 30 years.
+4\. In any land or building (not being a building under construction) in Singapore of the following tenure:
+
+4.
+
+(a) freehold, including a grant in perpetuity; or
+
+(b) leasehold (other than a mining lease) with an unexpired term of not less than 30 years at the time of such investment.
 
 Part III
 
@@ -1348,8 +1360,6 @@ or for either of those purposes and for other purposes, shall be deemed —
 
 (6) Where immediately before the date of commencement of the Trustees (Amendment) Act 1992 the securities of a company were investments in which trustees were authorised by this Act to invest and the shareholders equity of that company was less than $30 million, sub-paragraph (1) (c) shall have effect in relation to those securities only after the expiry of 3 years from that date.
 
-2\. The land referred to in paragraph 4 of Part II shall not include land, the gross rental whereof is at the time of such investment less than 7% of the purchase price of such land, in the case of a purchase, or the value of such land ascertained in accordance with paragraph 2 of Part V, in the case of a mortgage.
-
 3\. Not more than 30% of the funds belonging to the trust shall at any time be invested in the investments in Part III taken together.
 
 Part V
@@ -1360,9 +1370,19 @@ Part V
 
 [Cap.19.]
 
-2. In relation to the investments specified in paragraph 4 of Part II, proper advice for the purposes of section 5(2) means the advice on the value of the land at the time of the investment given by an appraiser who is licensed under the Auctioneers’ Licences Act to value or appraise land and is instructed and employed independently of any owner of the land.
+2\. In relation to the investments specified in paragraph 4 of Part II, proper advice for the purposes of section 5(2) means advice given by an appraiser who is —
 
-[Cap.16.]
+2.
+
+(a) licensed under the Auctioneer Licences Act (Cap. 16) to value or appraise land; and
+
+(b) instructed and employed independently of any owner of the land or building,
+
+on the following:
+
+(i) the value of the land or building at the time of the investment; and
+
+(ii) the gross rental at which the land or building may reasonably be expected to be let from year to year.
 
 [Act 23/92 wef 26/06/1992]
 
@@ -1484,3 +1504,5 @@ This Legislative History is provided for the convenience of users of the Trustee
 |||(Bill No. 6/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997 (except section 3)|
+|15.|**G. N. No. S 44/1998—Trustees Act (Amendment of First Schedule) Order 1998**|
+||Date of commencement|23 January 1998|
