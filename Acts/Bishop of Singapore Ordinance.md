@@ -16,7 +16,7 @@
 
 - [5 Notification of appointment of Bishop](#Notification-of-appointment-of-Bishop)
 
-- [6 Saving of Crown and other rights](#Saving-of-Crown-and-other-rights)
+- [6 Saving of Government and other rights](#Saving-of-Government-and-other-rights)
 
 [**Legislative History**](#Legislative-History)
 
@@ -54,9 +54,7 @@ An Ordinance to incorporate the Titular Anglican Bishop of Singapore.
 
 ### Use of corporate seal
 
-4\.—(1) All deeds, documents and other instruments requiring the seal of the corporation shall be sealed with the seal of the corporation in the presence of the Bishop of Singapore for the time being or his attorney duly authorized by a power of attorney deposited under section 48 of the Conveyancing and Law of Property Ordinance and shall also be signed by the said Bishop for the time being or his attorney so authorized as aforesaid.
-
-[1955 Ed. Cap. 243.]
+4\.—(1) All deeds, documents and other instruments requiring the seal of the corporation shall be sealed with the seal of the corporation in the presence of the Bishop of Singapore for the time being or his attorney duly authorized by a power of attorney deposited under section 48 of the Conveyancing and Law of Property Ordinance [1955 Ed., Cap. 243] and shall also be signed by the said Bishop for the time being or his attorney so authorized as aforesaid.
 
 (2) Such signing shall be and be taken as sufficient evidence that the said seal was duly and properly affixed and that the same is the lawful seal of the corporation.
 
@@ -64,9 +62,11 @@ An Ordinance to incorporate the Titular Anglican Bishop of Singapore.
 
 5\. A notification in theGazetteof the appointment of any person to exercise the office of Bishop of the Church of England in the Colony of Singapore shall be conclusive evidence that such person was duly authorized to exercise the said office in the Colony.
 
-### Saving of Crown and other rights
+### Saving of Government and other rights
 
-6\. Nothing in this Ordinance shall affect the rights of Her Majesty or of any bodies politic or corporate or of any other persons except such as are mentioned in this Ordinance and those claiming by, from or under them.
+6\. Nothing in this Ordinance shall affect the rights of the Government or of any bodies politic or corporate or of any other persons except such as are mentioned in this Ordinance and those claiming by, from or under them.
+
+[7/97 wef 01/10/1997]
 
 ## LEGISLATIVE HISTORY
 
@@ -84,3 +84,8 @@ This Legislative History is provided for the convenience of users of the Bishop 
 ||Date of operation|1 May 1955|
 |3.|**1985 Revised Edition—Bishop of Singapore Ordinance**|
 ||Date of operation|30 March 1987|
+|4.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Dates of commencement|1 October 1997 (item (14) in the First Schedule)|
