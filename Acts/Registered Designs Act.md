@@ -1,20 +1,18 @@
-**Registered Designs Act 2000**
+**Registered Designs Act**
 
-**(No. 25 of 2000)**
+**(CHAPTER 266)**
 
 **Table of Contents**
 
 [**Long Title**](#Registered-Designs-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Act binds Government](#Act-binds-Government)
+- [3 Act binds the Government](#Act-binds-the-Government)
 
 [**Part II REGISTRATION OF DESIGNS**](#Part-II)
 
@@ -182,75 +180,53 @@
 
 - [67 Offences by partnership or body corporate](#Offences-by-partnership-or-body-corporate)
 
-- [67A Composition of offences](#Composition-of-offences)
+- [68 Composition of offences](#Composition-of-offences)
 
 [**Part VII MISCELLANEOUS AND GENERAL PROVISIONS**](#Part-VII)
 
-- [68 Recognition of agents](#Recognition-of-agents)
+- [69 Recognition of agents](#Recognition-of-agents)
 
-- [69 General powers of Court](#General-powers-of-Court)
+- [70 General powers of Court](#General-powers-of-Court)
 
-- [70 Costs in proceedings before Court](#Costs-in-proceedings-before-Court)
+- [71 Costs in proceedings before Court](#Costs-in-proceedings-before-Court)
 
-- [71 Certificate of Registrar](#Certificate-of-Registrar)
+- [72 Certificate of Registrar](#Certificate-of-Registrar)
 
-- [72 General power to make rules](#General-power-to-make-rules)
+- [73 Fees to be paid to Office](#Fees-to-be-paid-to-Office)
 
-- [73 Rules relating to application for registration](#Rules-relating-to-application-for-registration)
+- [74 General power to make rules](#General-power-to-make-rules)
 
-- [73A Fees to be paid to Office](#Fees-to-be-paid-to-Office)
+- [75 Rules relating to application for registration](#Rules-relating-to-application-for-registration)
 
-[**Part VIII REPEAL, TRANSITIONAL PROVISIONS AND RELATED AMENDMENTS TO COPYRIGHT ACT**](#Part-VIII)
+- [76 Savings](#Savings)
 
-- [74 Repeal](#Repeal)
-
-- [75 Transitional provisions](#Transitional-provisions)
-
-- [76 Related amendments to Copyright Act](#Related-amendments-to-Copyright-Act)
+- [77 Transitional provisions](#Transitional-provisions)
 
 [**THE SCHEDULE Transitional Provisions**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Registered Designs Act
 
-ACTS SUPPLEMENT
+(CHAPTER 266)
 
-Published by Authority
+(Original Enactment: Act 25 of 2000)
 
-NO. 24]
+REVISED EDITION 2001
 
-Friday, September 15
+(31st December 2001)
 
-[2000
+An Act to provide for the registration of designs in Singapore.
 
-The following Act was passed by Parliament on 25th August 2000 and assented to by the President on 2nd September 2000:—
-
-Registered Designs Act 2000
-
-(No. 25 of 2000)
-
-I assent.
-
-S R NATHAN
-
-President.
-
-2nd September 2000.
-
-Date of Commencement: 13th November 2000
-
-An Act to provide for the registration of designs in Singapore, to repeal the United Kingdom Designs (Protection) Act (Chapter 339 of the 1985 Revised Edition), and to make related amendments to the Copyright Act (Chapter 63 of the 1999 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[13th November 2000]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Registered Designs Act 2000 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Registered Designs Act.
 
 ### Interpretation
 
@@ -288,9 +264,7 @@ PRELIMINARY
 
 “exclusive licence” means a licence from the registered owner of a registered design authorising the licensee, or the licensee and persons authorised by him, to the exclusion of all other persons (including the registered owner), to use the design in the manner authorised by the licence and “exclusive licensee” shall be construed accordingly;
 
-“Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act 2001;
-
-[3/2001 wef 01/04/2001]
+“Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act 2001 (Act 3 of 2001);
 
 “owner” has the meaning assigned to it in section 4;
 
@@ -308,6 +282,8 @@ PRELIMINARY
 
 “set of articles” means 2 or more articles of the same general character that are ordinarily on sale together or intended to be used together, and to each of which the same design, or the same design with modifications or variations not sufficient to alter the character or substantially to affect the identity of the design, is applied.
 
+[3/2001]
+
 (2) Unless the context otherwise requires —
 
 (a) any reference in this Act to the filing of a document shall be construed as a reference to the filing of the document with the Registrar;
@@ -316,7 +292,7 @@ PRELIMINARY
 
 (c) any reference to the infringement of a registered design shall be construed as a reference to the infringement of any right in the design conferred by this Act.
 
-### Act binds Government
+### Act binds the Government
 
 3\. Subject to Part IV, this Act binds the Government.
 
@@ -368,7 +344,7 @@ or if it differs from such a design only in immaterial details or in features wh
 
 7\.—(1) No computer program or layout-design may be registered under this Act.
 
-(2) For the purposes of subsection (1), “layout-design” has the meaning assigned to it in the Layout-Designs of Integrated Circuits Act 1999 (Act 3 of 1999).
+(2) For the purposes of subsection (1), “layout-design” has the meaning assigned to it in the Layout-Designs of Integrated Circuits Act (Cap. 159A).
 
 (3) The Minister may make rules —
 
@@ -387,6 +363,8 @@ or if it differs from such a design only in immaterial details or in features wh
 (c) in the case of a new or original textile design intended for registration, the acceptance of a first and confidential order for goods bearing the design; or
 
 (d) the communication of the design by the owner to a Government department or the Office or to any person authorised by a Government department or the Office to consider the merits of the design, or of anything done in consequence of such a communication.
+
+[3/2001]
 
 (2) An application for registration of a design shall not be refused, and the registration of a design shall not be revoked, by reason only —
 
@@ -460,7 +438,7 @@ he or his successor in title may, when filing the application under this Act, cl
 
 (5) Any filing of an application for protection of a design in a Convention country which is equivalent to a regular national filing under its domestic legislation or any international agreement shall be treated as giving rise to the right of priority.
 
-(6) For the purpose of subsection (5), “regular national filing” means any filing which is adequate to establish the date on which the application was filed in the Convention country, whatever the subsequent fate of the application may be.
+(6) In subsection (5), “regular national filing” means any filing which is adequate to establish the date on which the application was filed in the Convention country, whatever the subsequent fate of the application may be.
 
 (7) Where a subsequent application for registration of a design that was the subject of an earlier basic application was filed in the same Convention country, and —
 
@@ -512,7 +490,7 @@ reinstate the application.
 
 (4) Upon reinstatement of an application, any right or means of redress lost by the applicant as a result of the withdrawal shall be restored to him.
 
-(5) For the purposes of this section and sections 17 and 18, “formal requirements” means those requirements of section 11, and of rules made for the purposes of that section, that are prescribed as formal requirements.
+(5) In this section and sections 17 and 18, “formal requirements” means those requirements of section 11, and of rules made for the purposes of that section, that are prescribed as formal requirements.
 
 ### Refusal of application
 
@@ -539,6 +517,8 @@ the Registrar determines that the application does not satisfy the formal requir
 (c) issue a certificate of registration to the person who is the registered owner of the design at the time the design is registered; and
 
 (d) publish a notice of the registration and a representation of the design in the prescribed manner.
+
+[26/2001]
 
 ### Only formality examination required
 
@@ -736,7 +716,9 @@ relating to the application for registration of the design (including any repres
 
 (4) Subsection (3) shall not prevent the Registrar from publishing or communicating to others any prescribed information relating to an application for registration of a design.
 
-(5) Where a person is notified that an application for registration of a design has been made and that the applicant will, if the design is registered, bring proceedings against that person in the event of his doing an act specified in the notification, that person may make a request under subsection (1), and the Registrar may grant the request under that subsection without the consent of the applicant, notwithstanding that the design has not been registered.
+(5) Where a person is notified that an application for registration of a design has been made and that the applicant will, if the design is registered, bring proceedings against that person in the event of his doing an act specified in the notification, that person may make a request under subsection (1).
+
+(6) The Registrar may grant the request under subsection (1) without the consent of the applicant, notwithstanding that the design has not been registered.
 
 ### Provisions for secrecy of certain designs
 
@@ -958,7 +940,7 @@ Infringement Proceedings
 
 (3) In ordering an account of profits in any infringement proceedings taken by an exclusive licensee, the Court may take into consideration only the profits derived from the infringement which are attributable to the infringement of the exclusive licensee’s rights.
 
-(4) In any infringement proceedings taken by an exclusive licensee, the registered owner shall be made a party to the proceedings, but if the registered owner is made a defendant he shall not be liable for any costs or expenses unless he takes part in the proceedings.
+(4) In any infringement proceedings taken by an exclusive licensee, the registered owner shall be made a partyto the proceedings, but if the registered owner is made a defendant he shall not be liable for any costs or expenses unless he takes part in the proceedings.
 
 ### General restriction on recovery of damages or profits
 
@@ -1106,7 +1088,7 @@ shall be deemed to be a use of the design for the services of the Government.
 
 (5) The purchaser of any articles sold in the exercise of powers conferred by subsection (1), and any person claiming through him, shall have the power to deal with the articles as if the rights in the registered design were held on behalf of the Government.
 
-(6) Notwithstanding any provision in any other written law, the reproduction or publication of any model or document in connection with any use of a design made by virtue of subsection (1) shall be deemed not to constitute an infringement of any copyright subsisting in the document by virtue of the Copyright Act (Cap. 63) or any right subsisting in a layout-design by virtue of the Layout-Designs of Integrated Circuits Act 1999 (Act 3 of 1999).
+(6) Notwithstanding any provision in any other written law, the reproduction or publication of any model or document in connection with any use of a design made by virtue of subsection (1) shall be deemed not to constitute an infringement of any copyright subsisting in the document by virtue of the Copyright Act (Cap. 63) or any right subsisting in a layout-design by virtue of the Layout-Designs of Integrated Circuits Act (Cap 159A).
 
 ### Terms of Government use
 
@@ -1128,7 +1110,7 @@ shall be deemed to be a use of the design for the services of the Government.
 
 (b) by the registered owner or applicant for registration to the order of the Government,
 
-the provisions of any licence, assignment or agreement made, whether before, on or after the date of commencement of this Act, between —
+the provisions of any licence, assignment or agreement made, whether before, on or after 13th November 2000, between —
 
 (i) the registered owner or applicant for registration or any person who derives title from him or from whom he derives title; and
 
@@ -1202,7 +1184,7 @@ Register
 
 53\.—(1) The Registrar shall maintain a register to be known as the Register of Designs.
 
-(2) There shall be entered in the Register in accordance with this Act and any rules made thereunder —
+(2) There shall be entered in the Register in accordance with this Act —
 
 (a) particulars of registered designs, including the dates of registration;
 
@@ -1314,9 +1296,11 @@ Powers of Registrar
 
 (3) In this section, “decision” includes any act of the Registrar done in the exercise of a discretion vested in him by or under this Act.
 
+[3/2001]
+
 ### Exercise of discretionary power
 
-63\. Where any discretionary power is given to the Registrar by this Act or any rules made thereunder, the Registrar shall not exercise the power without giving to any person who may be adversely affected by his decision an opportunity to be heard.
+63\. Where any discretionary power is given to the Registrar by this Act, the Registrar shall not exercise the power without giving to any person who may be adversely affected by his decision an opportunity to be heard.
 
 Division 4 —
 
@@ -1324,11 +1308,11 @@ Hours of Business of Registry
 
 ### Hours of business and excluded days
 
-64\.—(1) The Minister may make rules to specify the hours at which the Registry shall be taken to be closed on any day for the purposes of the transaction by the public of a business under this Act or any rules made thereunder or of any class of such business, and may specify days as excluded days for any such purposes.
+64\.—(1) The Minister may make rules to specify the hours at which the Registry shall be taken to be closed on any day for the purposes of the transaction by the public of a business under this Act or of any class of such business, and may specify days as excluded days for any such purposes.
 
-(2) Any business done under this Act or any rules made thereunder on any day after the hour so specified in relation to business of that class, or on a day which is an excluded day in relation to business of that class, shall be taken to have been done on the next following day not being an excluded day.
+(2) Any business done under this Act on any day after the hour so specified in relation to business of that class, or on a day which is an excluded day in relation to business of that class, shall be taken to have been done on the next following day not being an excluded day.
 
-(3) Where the time for doing anything under this Act or any rules made thereunder expires on an excluded day, that time shall be extended to the next following day not being an excluded day.
+(3) Where the time for doing anything under this Act expires on an excluded day, that time shall be extended to the next following day not being an excluded day.
 
 ## PART VI
 
@@ -1366,15 +1350,23 @@ knowing or having reason to believe the entry or thing, as the case may be, is f
 
 ### Composition of offences
 
-67A\.—(1) The Registrar or any person authorised by him in writing may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $2,000.
+68\.—(1) The Registrar or any person authorised by him in writing may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $2,000.
+
+[3/2001]
 
 (2) The Office may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
 
+[3/2001]
+
 (3) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
+
+[3/2001]
 
 (4) All sums collected under this section shall be paid into the funds of the Office.
 
-[3/2001 wef 01/04/2001]
+[67A
+
+[3/2001]
 
 ## PART VII
 
@@ -1382,23 +1374,39 @@ MISCELLANEOUS AND GENERAL PROVISIONS
 
 ### Recognition of agents
 
-68\. Except as otherwise provided by rules made under this Act, any act required or authorised by this Act to be done by or to any person in connection with the registration of a design, or any procedure relating to a registered design or the registration of a design, may be done by or to an agent authorised by that person orally or in writing.
+69\. Except as otherwise provided by rules made under this Act, any act required or authorised by this Act to be done by or to any person in connection with the registration of a design, or any procedure relating to a registered design or the registration of a design, may be done by or to an agent authorised by that person orally or in writing.
+
+[68
 
 ### General powers of Court
 
-69\. The Court, for the purpose of determining any question in the exercise of its original or appellate jurisdiction under this Act, may make any order or exercise any other power which the Registrar could have made or exercised for the purpose of determining that question.
+70\. The Court, for the purpose of determining any question in the exercise of its original or appellate jurisdiction under this Act, may make any order or exercise any other power which the Registrar could have made or exercised for the purpose of determining that question.
+
+[69
 
 ### Costs in proceedings before Court
 
-70\. In all proceedings before the Court under this Act, the Court may award to any party (including the Registrar) such costs as it may consider reasonable, but the Registrar shall not be ordered to pay the costs of any other of the parties.
+71\. In all proceedings before the Court under this Act, the Court may award to any party (including the Registrar) such costs as it may consider reasonable, but the Registrar shall not be ordered to pay the costs of any other of the parties.
+
+[70
 
 ### Certificate of Registrar
 
-71\. A certificate purporting to be under the hand of the Registrar as to any entry, matter or thing which he is authorised to make or do under this Act or any rules made thereunder shall be prima facie evidence of the entry having been made, and of contents thereof, and of the matter or thing having been done or not done.
+72\. A certificate purporting to be under the hand of the Registrar as to any entry, matter or thing which he is authorised to make or do under this Act shall be prima facie evidence of the entry having been made, and of contents thereof, and of the matter or thing having been done or not done.
+
+[71
+
+### Fees to be paid to Office
+
+73\. All fees collected in connection with any proceedings or other matter before the Registrar or the Registry, or in connection with the provision of any service by the Registry, shall be paid into the funds of the Office.
+
+[73A
+
+[3/2001]
 
 ### General power to make rules
 
-72\.—(1) The Minister may, after consulting with the Office, make rules —
+74\.—(1) The Minister may, after consulting with the Office, make rules —
 
 (a) for any purpose for which rules are required or authorised to be made under this Act;
 
@@ -1407,6 +1415,8 @@ MISCELLANEOUS AND GENERAL PROVISIONS
 (c) for prescribing matters necessary or convenient to be prescribed for carrying out or giving effect to this Act; and
 
 (d) generally for regulating the practice and procedure of any proceedings or other matter before the Registrar.
+
+[3/2001]
 
 (2) Without prejudice to the generality of subsection (1), rules made under this section may make provision —
 
@@ -1428,17 +1438,19 @@ MISCELLANEOUS AND GENERAL PROVISIONS
 
 (i) regulating the mode of giving evidence in any proceedings before the Registrar and empowering the Registrar to compel the attendance of witnesses and the discovery and production of documents;
 
-(j) prescribing time limits for doing anything required to be done in connection with any proceedings or matters under this Act or any rules made thereunder;
+(j) prescribing time limits for doing anything required to be done in connection with any proceedings or matters under this Act;
 
 (k) providing for the extension of any time limit so prescribed or specified by the Registrar, whether or not it has already expired; and
 
 (l) providing for the publication and sale of documents by the Registry and of information about such documents.
 
+[72
+
 (3) Rules made under this section may make different provisions for different cases.
 
 ### Rules relating to application for registration
 
-73\.—(1) Without prejudice to the generality of section 72, the Registrar may, for the purposes of section 11, make rules providing that an application for registration of a design shall or may contain —
+75\.—(1) Without prejudice to the generality of section 72, the Minister may, for the purposes of section 11, make rules providing that an application for registration of a design shall or may contain —
 
 (a) a statement describing the representation of the design;
 
@@ -1454,91 +1466,27 @@ MISCELLANEOUS AND GENERAL PROVISIONS
 
 (b) any claim to a right of priority under section 12 or 13.
 
-### Fees to be paid to Office
+[73
 
-73A\. All fees collected in connection with any proceedings or other matter before the Registrar or the Registry, or in connection with the provision of any service by the Registry, shall be paid into the funds of the Office.
+### Savings
 
-[3/2001 wef 01/04/2001]
+76\.—(1) A reference in any law or document to the repealed United Kingdom Designs (Protection) Act (Cap 339, 1985 Ed.) shall, unless the context otherwise requires, be construed as a reference to this Act.
 
-## PART VIII
-
-REPEAL, TRANSITIONAL PROVISIONS AND RELATED AMENDMENTS TO COPYRIGHT ACT
-
-### Repeal
-
-74\.—(1) The United Kingdom Designs (Protection) Act (Cap. 339) is repealed.
-
-(2) A reference in any law or document to the United Kingdom Designs (Protection) Act shall, unless the context otherwise requires, be construed as a reference to this Act.
+[74
 
 ### Transitional provisions
 
-75\.—(1) The provisions of the Schedule have effect with respect to transitional matters notwithstanding the provisions of this Act.
+77\.—(1) The provisions of the Schedule have effect with respect to transitional matters notwithstanding the provisions of this Act.
 
 (2) The Minister may, by order published in theGazette, amend the provisions of the Schedule.
 
-### Related amendments to Copyright Act
+(3) The Minister may by rules make such transitional provisions in relation to the Copyright Act (Cap. 63) as he may consider necessary or expedient.
 
-76\.—(1) The Copyright Act (Cap. 63) is amended —
-
-(a) by deleting the words “more than 15 years” in the penultimate line of section 70(1) and substituting the words “at any time”;
-
-(b) by deleting the words “United Kingdom Designs (Protection) Act (Cap. 339)” in the 3rd and 4th lines of section 73(2)(a) and substituting the words “Registered Designs Act 2000”;
-
-(c) by deleting the word “proprietor” wherever it appears in section 73(2) and substituting in each case the word “owner”;
-
-(d) by deleting the words “under the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c.88), or any Act amending or substituting for that Act” in the 2nd, 3rd and 4th lines of section 74(1) and substituting the words “or deemed registered under the Registered Designs Act 2000”;
-
-(e) by deleting the words “under the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c.88), or any Act amending or substituting for that Act” in the 3rd to 6th lines of section 74(2)(c) and substituting the words “or, is deemed registered under the Registered Designs Act 2000”;
-
-(f) by deleting the words “25 years” wherever they appear in section 74(3) and (4) and substituting in each case the words “15 years”;
-
-(g) by deleting the words “the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c.88), or any Act amending or substituting for that Act, by rules made under that Act or such other Act” in the 4th to 7th lines of section 74(5) and substituting the words “the Registered Designs Act 2000 or the Registered Designs Act 1949 of the United Kingdom (as the case may be), by rules made under the applicable Act”;
-
-(h) by deleting paragraphs (a) and (b) of section 74(6) and substituting the following paragraphs:
-
-“
-
-(a) before the commencement of those proceedings —
-
-(i) an application for the registration of the design in respect of those articles under the Registered Designs Act 2000; or
-
-(ii) an application for the registration of the design in respect of those articles under the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c.88), being an application made before the date of commencement of the Registered Designs Act 2000,
-
-has been refused;
-
-(b) the reason or one of the reasons stated for the refusal was that the design was excluded from such registration by rules made under the Registered Designs Act 2000 or the Registered Designs Act 1949 of the United Kingdom (as the case may be); and
-
-”;
-
-(i) by deleting the words “under the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c.88), or any Act amending or substituting for that Act” in the 1st, 2nd and 3rd lines of paragraph 1(b) of the Schedule and substituting the words “or is deemed registered under the Registered Designs Act 2000”;
-
-(j) by deleting sub-paragraph (c) of paragraph 1 of the Schedule and substituting the following sub-paragraph:
-
-“
-
-(c) it is proved or admitted in the proceedings that the person who is the registered owner of the design was not the owner thereof for the purposes of that Act and was registered as the owner under that Act or as the proprietor under the Registered Designs Act 1949 of the United Kingdom (as the case may be) without the knowledge of the owner of the copyright in the artistic work.
-
-”;
-
-(k) by inserting, immediately after the word “registration” in the 2nd line of paragraph 2 of the Schedule, the words “under the Registered Designs Act 2000 or the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c.88) (as the case may be)”; and
-
-(l) by deleting paragraph 3 of the Schedule and substituting the following paragraph:
-
-“
-
-3. Notwithstanding anything in paragraph 2, if in the proceedings it is proved or admitted that any act to which the proceedings relate —
-
-(a) was done in pursuance of an assignment or licence made or granted by the registered owner of the design; and
-
-(b) was so done in good faith in reliance upon the registration, and without notice of any proceedings for the cancellation or revocation of the registration (as the case may be) or for rectifying the entry in the relevant register of designs relating thereto,
-
-section 74(1) of this Act shall apply in relation to that act for the purposes of the first-mentioned proceedings.
-
-”.
-
-(2) The Minister may by rules make such transitional provisions as he may consider necessary or expedient in relation to the amendments under subsection (1).
+[75
 
 ## THE SCHEDULE
+
+Section 77(1)
 
 Transitional Provisions
 
@@ -1546,13 +1494,11 @@ Preliminary
 
 1.—(1) In this Schedule, unless the context otherwise requires— 
 
-“appointed date” means the date of commencement of this Act;
-
 “initial period of registration”, in relation to a relevant design, means the initial period of its registration referred to in paragraph 2(3);
 
 “relevant design” means a design that is deemed to be a registered design for the purposes of this Act by virtue of paragraph 2(1);
 
-“UK Act” means the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c.88), as amended and as applied to Singapore by the United Kingdom Designs (Protection) Act (Cap. 339);
+“UK Act” means the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c.88), as amended and as applied to Singapore by the United Kingdom Designs (Protection) Act (Cap. 339, 1985 Ed.);
 
 “UK Register” means the register of designs maintained under section 17 of the UK Act.
 
@@ -1562,13 +1508,13 @@ Preliminary
 
 Relevant Designs
 
-2.—(1) A design registered under the UK Act before the appointed date shall be deemed to be a registered design for the purposes of this Act in respect of the article for which it is registered under the UK Act if the registration has not expired or been cancelled on the appointed date.
+2.—(1) A design registered under the UK Act before 13 November 2000 shall be deemed to be a registered design for the purposes of this Act in respect of the article for which it is registered under the UK Act if the registration has not expired or been cancelled on 13th November 2000.
 
-(2) For the avoidance of doubt, the reference in sub-paragraph (1) to a design registered under the UK Act before the appointed date includes a reference to a design registered under the UK Act the date of registration of which is deemed, under section 3(5) of the UK Act, to be a date before the appointed date.
+(2) For the avoidance of doubt, the reference in sub-paragraph (1) to a design registered under the UK Act before 13th November 2000 includes a reference to a design registered under the UK Act the date of registration of which is deemed, under section 3(5) of the UK Act, to be a date before 13th November 2000.
 
 (3) The registration of a design that is deemed to be a registered design under sub-paragraph (1) shall be for an initial period that ends on the earlier of— 
 
-(a) the date of expiry of the period for which the right in the design is subsisting on the appointed date, if the period may not be extended under section 8(2) of the UK Act; or
+(a) the date of expiry of the period for which the right in the design is subsisting on 13th November 2000, if the period may not be extended under section 8(2) of the UK Act; or
 
 (b) the date the period falls due for extension, if the period may be extended under that section.
 
@@ -1656,3 +1602,31 @@ relating to the application for renewal of the design concerned (including any r
 
 (2) Where, pursuant to an application made under section 20 of the UK Act before the expiry of the initial period of registration of a relevant design, any rectification is ordered to be made to the UK Register in respect of the design, the Registrar shall, either on his own initiative or upon application by an interested party, make a corresponding rectification of the Register, and section 54(4) shall have effect as if the rectification were a rectification made pursuant to section 54(3).
 
+## LEGISLATIVE HISTORY
+
+Registered Designs Act
+
+(CHAPTER 266)
+
+This Legislative History is provided for the convenience of users of the Registered Designs Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 25 of 2000—Registered Designs Act 2000**|
+||Date of First Reading|30 June 2000|
+|||(Bill No. 19/2000 published on 1 July 2000)|
+||Date of Second and Third Readings|25 August 2000|
+||Date of commencement|13 November 2000|
+|2.|**Act 3 of 2001—Intellectual Property Office of Singapore Act 2001**|
+||(Consequential amendments made by)||
+||Date of First Reading|12 January 2001|
+|||(Bill No. 1/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
+|3.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 24/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Dates of commencement|1 September 2001 (except sections 3 and 17)|
+|4.|**2001 Revised Edition—Registered Designs Act**|
+||Date of operation|31 December 2001|
