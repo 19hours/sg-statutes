@@ -876,3 +876,5 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of commencement|21 October 1994|
 |35.|**G. N. No. S 451/1996—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) Notification 1996**|
 ||Date of commencement|18 October 1996|
+|36.|**G. N. No. S 503/1996—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) (No. 2) Notification 1996**|
+||Date of commencement|29 November 1996|
