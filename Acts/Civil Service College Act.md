@@ -1,16 +1,14 @@
-**Civil Service College Act 2001**
+**Civil Service College Act**
 
-**(No. 29 of 2001)**
+**(CHAPTER 45)**
 
 **Table of Contents**
 
 [**Long Title**](#Civil-Service-College-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -36,7 +34,7 @@
 
 - [12 Delegation of powers](#Delegation-of-powers)
 
-[**Part III FUNCTIONS AND POWERS OF COLLEGE**](#Part-III)
+[**Part III FUNCTIONS, OBJECTS, DUTIES AND POWERS OF COLLEGE**](#Part-III)
 
 - [13 Functions, objects and duties of College](#Functions-objects-and-duties-of-College)
 
@@ -48,7 +46,7 @@
 
 - [16 Protection from personal liability](#Protection-from-personal-liability)
 
-- [17 Public servants for purposes of Penal Code](#Public-servants-for-purposes-of-Penal-Code)
+- [17 Public servants](#Public-servants)
 
 [**Part V FINANCIAL PROVISIONS**](#Part-V)
 
@@ -78,7 +76,7 @@
 
 - [29 Presentation of audited financial statements and auditor’s report to Parliament](#Presentation-of-audited-financial-statements-and-auditor’s-report-to-Parliament)
 
-[**Part VI TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES**](#Part-VI)
+[**Part VI TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES**](#Part-VI)
 
 - [30 Transfer to College of property, assets and liabilities](#Transfer-to-College-of-property-assets-and-liabilities)
 
@@ -110,53 +108,33 @@
 
 - [43 Savings](#Savings)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Civil Service College Act
 
-ACTS SUPPLEMENT
+(CHAPTER 45)
 
-Published by Authority
+(Original Enactment: Act 29 of 2001)
 
-NO. 28]
+REVISED EDITION 2002
 
-Friday, August 17
-
-[2001
-
-The following Act was passed by Parliament on 25th July 2001 and assented to by the President on 30th July 2001:—
-
-Civil Service College Act 2001
-
-(No. 29 of 2001)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-30th July 2001.
-
-Date of Commencement: 1st October 2001
+(31st July 2002)
 
 An Act to establish the Civil Service College, to provide for its functions and powers, and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st October 2001]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Civil Service College Act 2001 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Civil Service College Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “Board” means the Board of Governors of the College established under section 5;
 
@@ -264,13 +242,13 @@ all of whom shall be appointed by the Minister.
 
 (3) No act or proceedings of the Board shall be questioned on the ground that a member has contravened this section.
 
-(4) For the purposes of this section, an interest of a spouse, parent, son or an adopted son, or daughter or an adopted daughter, of a member shall be treated as an interest of the member.
+(4) For the purposes of this section, an interest of any spouse, parent, son or adopted son, or daughter or adopted daughter, of a member shall be treated as an interest of the member.
 
 ### Committees
 
 11\.—(1) The Board may, from time to time, appoint committees consisting of one or more persons (whether members or not) and define or vary the terms of reference of those committees.
 
-(2) Subject to this Act and to the control of the Board, each committee appointed under this section may regulate its procedure in such manner as the committee thinks fit.
+(2) Subject to the provisions of this Act and to the control of the Board, each committee appointed under this section may regulate its procedure in such manner as the committee thinks fit.
 
 ### Delegation of powers
 
@@ -282,7 +260,7 @@ all of whom shall be appointed by the Minister.
 
 ## PART III
 
-FUNCTIONS AND POWERS OF COLLEGE
+FUNCTIONS, OBJECTS, DUTIES AND POWERS OF COLLEGE
 
 ### Functions, objects and duties of College
 
@@ -372,7 +350,7 @@ PROVISIONS RELATING TO STAFF
 
 16\. No suit or other legal proceedings shall lie personally against any officer or employee of the College, member or person acting under the direction of the College, for anything which is in good faith done or intended to be done in the execution or purported execution of this Act or any other written law.
 
-### Public servants for purposes of Penal Code
+### Public servants
 
 17\. All officers and employees (including any person seconded to the College for any period) of the College and members shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
 
@@ -382,7 +360,7 @@ FINANCIAL PROVISIONS
 
 ### Financial year
 
-18\. The financial year of the College shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the College shall begin on the appointed day and end on 31st March of the succeeding year.
+18\. The financial year of the College shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
 ### Estimates
 
@@ -428,9 +406,11 @@ FINANCIAL PROVISIONS
 
 ### Issue of shares, etc.
 
-22A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the College under this Act, or of any capital injection or other investment by the Government in the College in accordance with any written law, the College shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
+\*22A\. As a consequence of the vesting of any property, rights or liabilities of the Government in the College under this Act, or of any capital injection or other investment by the Government in the College in accordance with any written law, the College shall issue such shares or other securities to the Minister for Finance as that Minister may from time to time direct.
 
-[5/2002 wef 15/07/2002]
+[5/2002 wef 15/07/2002] wef 29/07/2002]
+
+\*This section was not in operation as at 30th June 2002.
 
 ### Bank accounts
 
@@ -456,7 +436,7 @@ FINANCIAL PROVISIONS
 
 (a) keep proper accounts and records of its transactions and affairs; and
 
-(b) do all things necessary to ensure that all payments out of its funds are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the College and over the expenditure incurred by the College.
+(b) do all things necessary to ensure that all payments out of its funds are correctly made and properly authorised, and that adequate control is maintained over the assets of, or in the custody of, the College and over the expenditure incurred by the College.
 
 ### Audit of accounts
 
@@ -490,11 +470,11 @@ FINANCIAL PROVISIONS
 
 (4) Any person who —
 
-(a) refuses or fails, without any reasonable cause, to allow the auditor or authorised person access to any accounting or other records of the College that is in his custody or power;
+(a) refuses or fails, without any reasonable cause, to allow the auditor or authorised person access to any accounting or other records of the College in his custody or power;
 
 (b) refuses or fails, without any reasonable cause, to give any information possessed by him as and when required by the auditor or authorised person; or
 
-(c) hinders, obstructs or delays the auditor or authorised person in the performance of his duties or the exercise of his power,
+(c) hinders, obstructs or delays the auditor or authorised person in the performance of his duties or the exercise of his powers,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
@@ -508,11 +488,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART VI
 
-TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
+TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer to College of property, assets and liabilities
 
-30\.—(1) As from the appointed day, such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by any of the incorporated departments and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the incorporated departments shall be transferred to and shall vest in the College without further assurance, act or deed.
+30\.—(1) As from 1st October 2001, such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by any of the incorporated departments and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the incorporated departments shall be transferred to and shall vest in the College without further assurance, act or deed.
 
 (2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the College under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
@@ -520,7 +500,7 @@ TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
 
 ### Transfer of employees
 
-31\.—(1) As from the appointed day, such persons or categories of persons as the Minister may determine who, immediately before that day, were employed by the Government in any of the incorporated departments shall be transferred to the service of the College on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+31\.—(1) As from 1st October 2001, such persons or categories of persons as the Minister may determine who, immediately before that date, were employed by the Government in any of the incorporated departments shall be transferred to the service of the College on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) If any question arises as to whether any person or category of persons has been transferred to the service of the College under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the person or category of persons was or was not transferred.
 
@@ -534,7 +514,7 @@ TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
 
 (3) Nothing in the terms and conditions to be drawn up by the College shall adversely affect the conditions that would have been applicable to persons transferred to the service of the College as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
 
-(4) Where a person has been transferred to the service of the College under section 31, the Government shall be liable to pay to the College such portion of any gratuity, pension or allowance payable to the person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the College.
+(4) Where a person has been transferred to the service of the College under section 31, the Government shall be liable to pay to the College such portion of any pension, gratuity or allowance payable to the person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the College.
 
 (5) Where any person in the service of the College, whose case does not fall within the scope of any pension or other schemes established under this section, retires or dies in the service of the College or is discharged from such service, the College may grant to him or to such other person or persons wholly or partly dependent on him, as the College thinks fit, such allowance or gratuity as the College may determine.
 
@@ -544,17 +524,17 @@ TRANSFER OF PROPERTY, LIABILITIES AND EMPLOYEES
 
 ### Existing contracts
 
-34\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements, subsisting immediately before the appointed day to which the Government is a party and relating to any of the incorporated departments or to any person transferred to the service of the College under section 31 shall continue in force on and after that day and shall be enforceable by or against the College as if the College had been named therein or had been a party thereto instead of the Government.
+34\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements, subsisting immediately before 1st October 2001 to which the Government is a party and relating to any of the incorporated departments or to any person transferred to the service of the College under section 31 shall continue in force on and after that date and shall be enforceable by or against the College as if the College had been named therein or had been a party thereto instead of the Government.
 
 ### Continuation and completion of disciplinary and other legal proceedings
 
-35\.—(1) Where on the appointed day, any disciplinary proceedings were pending against any employee of the Government transferred to the service of the College, the proceedings shall be carried on and completed by the College.
+35\.—(1) Where on 1st October 2001 any disciplinary proceedings were pending against any employee of the Government transferred to the service of the College, the proceedings shall be carried on and completed by the College.
 
-(2) Where on the appointed day, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or decision had been rendered thereon, the committee shall complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that day.
+(2) Where on 1st October 2001 any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or decision had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
-(3) Any order, ruling or direction made or given by a committee pursuant to this section shall be treated as an order, a ruling or a direction of the College and have the same force or effect as if it had been made or given by the College pursuant to the authority vested in the College under this Act.
+(3) Any order, ruling or direction made by a committee pursuant to this section shall be treated as an order, a ruling or a direction of the College and have the same force or effect as if it had been made by the College pursuant to the authority vested in the College under this Act.
 
-(4) All proceedings or causes of action pending or existing immediately before the appointed day by or against the Government in respect of any of the incorporated departments may be continued, completed and enforced by or against the College.
+(4) All proceedings or causes of action pending or existing immediately before 1st October 2001 by or against the Government in respect of any of the incorporated departments may be continued, completed and enforced by or against the College.
 
 ### Misconduct or neglect of duty by employee before transfer
 
@@ -572,7 +552,7 @@ MISCELLANEOUS
 
 ### Symbol or representation of College
 
-38\.—(1) The College shall have the exclusive right to the use of such symbol or representation as it may select or devise and thereafter display or exhibit in connection with its activities or affairs.
+38\.—(1) The College shall have the exclusive right to the use of such symbol or representation as it may select or devise and thereafter display or exhibit such symbol or representation in connection with its activities or affairs.
 
 (2) Any person who uses a symbol or representation identical with that of the College, or which so resembles the College’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -602,3 +582,26 @@ MISCELLANEOUS
 
 43\. In so far as it is necessary to preserve the effect of any document issued by or relating to any of the incorporated departments, any reference in such document to any of the incorporated departments shall be construed as a reference to the College.
 
+## LEGISLATIVE HISTORY
+
+Civil Service College Act
+
+(CHAPTER 45)
+
+This Legislative History is provided for the convenience of users of the Civil Service College Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 29 of 2001—Civil Service College Act 2001**|
+||Date of First Reading|11 July 2001|
+|||(Bill No. 22/2001 published on 12 July 2001)|
+||Date of Second and Third Readings|25 July 2001|
+||Date of commencement|1 October 2001|
+|2.|**Act 5 of 2002—Statutory Corporations (Capital Contribution) Act 2002**|
+||(Consequential amendments made by)||
+||Date of First Reading|3 May 2002|
+|||(Bill No. 7/2002 published on 4 May 2002)|
+||Date of Second and Third Readings|24 May 2002|
+||Date of commencement|15 July 2002 (except item (18) of Schedule)|
+|3.|**2002 Revised Edition—Civil Service College Act**|
+||Date of operation|31 July 2002|
