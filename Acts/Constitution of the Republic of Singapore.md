@@ -4421,3 +4421,8 @@ This Legislative History is provided for the convenience of users of the Constit
 |||(Bill No. 24/94 published on 29 July 1994)|
 ||Date of Second and Third Readings|25 August 1994|
 ||Date of commencement|1 October 1994|
+|31.|**Act 7 of 1995—Constitution of the Republic of Singapore (Amendment) Act 1995**|
+||Date of First Reading|23 January 1995|
+|||(Bill No. 1/95 published on 24 January 1995)|
+||Date of Second and Third Readings|1 March 1995|
+||Date of commencement|1 April 1995|
