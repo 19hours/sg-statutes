@@ -140,13 +140,7 @@ Provided that the Director-General may, in his discretion, determine that the re
 
 (d) any officer of customs vested with the powers of a senior officer of customs under section 4(5) of the Customs Act; and
 
-(e) any police officer having the powers of a senior officer of customs by virtue of section 7 of the Customs Act;
-
-“value”, in relation to imported goods, means the price which an importer would give for the goods on a purchase in the open market if the goods were delivered to him at the place of payment of customs duty and if freight, insurance, commission and all other costs, charges and expenses (except any customs duties and wharf handling, storage, removal, mechanical equipment and other like charges incurred in a free trade zone) incidental to the purchase and delivery at such place had been paid.
-
-[3\*
-
-\*Section 2 in the1970 Edition was repealed by Act 50 of 1970.
+(e) any police officer having the powers of a senior officer of customs by virtue of section 7 of the Customs Act.
 
 ### Declaration of free trade zones and appointment of authority
 
@@ -215,6 +209,10 @@ Provided that the Director-General may, in his discretion, give an allowance for
 (2) The rate of exchange to be used for determining the equivalent in Singapore currency of any foreign currency shall be the current selling rate in Singapore as last notified before the time the goods are removed for the purpose of manufacture or entry into customs territory.
 
 [8
+
+(3) The valuation applicable to any goods subject to customs duty shall be ascertained in accordance with the Customs Act (Cap. 70).
+
+[11/97 wef 17/10/1997]
 
 ### Retail trade
 
@@ -400,3 +398,8 @@ This Legislative History is provided for the convenience of users of the Free Tr
 ||Date of commencement|1 February 1971|
 |4.|**1985 Revised Edition—Free Trade Zones Act (Chapter 114)**|
 ||Date of operation|30 March 1987|
+|5.|**Act 11 of 1997—Customs (Amendment) Act 1997**|
+||Date of First Reading|25 August 1997|
+|||(Bill No. 10/1997)|
+||Date of Second and Third Readings|7 October 1997|
+||Date of commencement|17 October 1997|
