@@ -2821,3 +2821,5 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 29/1996 published on 2 October 1996)|
 ||Date of Second and Third Readings|28 October 1996|
 ||Date of commencement|12 November 1996|
+|44.|**G. N. No. S 528/1996—Parliamentary Elections Act (Amendment of First Schedule) Regulations 1996**|
+||Date of commencement|13 December 1996|
