@@ -3062,6 +3062,18 @@ Tetrachlorobenzene
 
 Pentachlorobenzene
 
+Chlorofluorocarbons, the following:
+
+Trichlorofluoromethane (CFC 11)
+
+Dichlorofluoromethane (CFC 12)
+
+Trichlorotrifluoroethane (CFC 113)
+
+Dichlorotetrafluoroethane (CFC 114)
+
+Chloropentafluoroethane (CFC 115)
+
 Chlorophenols; the following:
 
 Monochlorophenol
@@ -3270,7 +3282,7 @@ Thallium, salts of
 
 Vinyl chloride monomer
 
-[S 361/1989, S 55/1990]
+[S 361/1989, S 55/1990, S 51/1991]]
 
 ## LEGISLATIVE HISTORY
 
@@ -3412,3 +3424,5 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 October 1989|
 |52.|**G. N. No. S 55/1990—Poisons Act (Amendment of Schedule) Notification 1990**|
 ||Date of commencement|9 February 1990|
+|53.|**G. N. No. S 51/1991—Poisons Act (Amendment of Schedule) Notification 1991**|
+||Date of commencement|5 February 1991|
