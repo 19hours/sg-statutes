@@ -382,7 +382,9 @@ PRELIMINARY
 
 [16/87]
 
-“competent authority” means the competent authority appointed under section 3 of the Planning Act [Cap. 232];
+“competent authority”, in relation to the development or subdivision of land, means the competent authority appointed under section 5 of the Planning Act 1998 in respect of the development or subdivision of land, as the case may be;
+
+[3/98 wef 01/04/1998]
 
 “council”, in relation to a management corporation, means the council of that management corporation;
 
@@ -421,6 +423,10 @@ and where the context so permits, the proprietorship of land includes natural ri
 (c) in relation to Part IX, means either the Minister charged with the responsibility for administering the Buildings and Common Property (Maintenance and Management) Act or the Minister charged with the responsibility for administering this Act, as the case may be;
 
 “parcel” means the whole of the registered land having a Government survey lot number and comprised in a strata title plan;
+
+“planning permission” has the same meaning as in the Planning Act 1998;
+
+[3/98 wef 01/04/1998]
 
 “proprietor”, in relation to land comprised in a strata title plan, means the person who was the proprietor of the land the subject of the strata title plan immediately before the registration of the strata title plan under section 9;
 
@@ -3772,3 +3778,9 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(Bill No. 22/95 published on 26 May 1995)|
 ||Date of Second and Third Readings|7 July 1995|
 ||Date of commencement|4 August 1995|
+|12.|**Act 3 of 1998—Planning Act 1998**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 November 1997|
+|||(Bill No. 18/97 published on 20 November 1997)|
+||Date of Second and Third Readings|14 January 1998|
+||Date of commencement|1 April 1998|
