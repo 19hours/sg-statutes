@@ -12,7 +12,7 @@
 
 - [3 Administration of Act and appointment of officers, etc.](#Administration-of-Act-and-appointment-of-officers-etc)
 
-- [4 Buying and selling of human blood](#Buying-and-selling-of-human-blood)
+- [4 (Repealed)](#Repealed)
 
 - [5 Licences for private hospitals, medical clinics, clinical laboratories and healthcare establishments](#Licences-for-private-hospitals-medical-clinics-clinical-laboratories-and-healthcare-establishments)
 
@@ -64,7 +64,7 @@ REVISED EDITION 1999
 
 (30th December 1999)
 
-An Act to provide for the control, licensing and inspection of private hospitals, medical clinics, clinical laboratories and healthcare establishments, to prohibit trading in human blood, and for purposes connected therewith.
+An Act to provide for the control, licensing and inspection of private hospitals, medical clinics, clinical laboratories and healthcare establishments, and for purposes connected therewith.
 
 [1st January 1993]
 
@@ -150,21 +150,7 @@ but does not include any such premises —
 
 [19/99]
 
-### Buying and selling of human blood
-
-4\.—(1) No person shall —
-
-(a) buy or offer to buy; or
-
-(b) sell, or offer to sell,
-
-human blood or the right to take blood from the body of another person.
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-[3
-
-[19/99]
+4\. [Deleted by Act 6/2004 wef 08/03/2004]
 
 ### Licences for private hospitals, medical clinics, clinical laboratories and healthcare establishments
 
@@ -643,6 +629,11 @@ This Legislative History is provided for the convenience of users of the Private
 |||(Bill No. 24/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|1 September 2001|
+|6.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 4/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Dates of commencement|8 March 2004|
 ## COMPARATIVE TABLE
 
 Private Hospitals and Medical Clinics Act
