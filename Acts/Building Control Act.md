@@ -38,13 +38,23 @@
 
 - [14 Modification or waiver of building regulations](#Modification-or-waiver-of-building-regulations)
 
-- [15 Register of accredited checkers](#Register-of-accredited-checkers)
+- [15 Registers](#Registers)
 
 - [16 Registration of accredited checkers](#Registration-of-accredited-checkers)
 
-- [17 Appointment of accredited checkers](#Appointment-of-accredited-checkers)
+- [16A Accredited checking organisations](#Accredited-checking-organisations)
+
+- [16B Procedure for suspension or cancellation of registration](#Procedure-for-suspension-or-cancellation-of-registration)
+
+- [16C Appeals](#Appeals)
+
+- [17 Appointment of accredited checkers or accredited checking organisations](#Appointment-of-accredited-checkers-or-accredited-checking-organisations)
 
 - [18 Independence of accredited checkers](#Independence-of-accredited-checkers)
+
+- [18A Independence of accredited checking organisations](#Independence-of-accredited-checking-organisations)
+
+- [18B Exemption for certain public authorities](#Exemption-for-certain-public-authorities)
 
 - [19 Building offences](#Building-offences)
 
@@ -664,23 +674,31 @@ to ensure that the structural elements or critical structural works, as the case
 
 [18/95; 4/99]
 
-### Register of accredited checkers
+### Registers
 
-15\.—(1) The Commissioner of Building Control shall keep and maintain a register (referred to in this section and in section 16 as the register of accredited checkers) in which shall be entered the names and prescribed particulars of all persons registered in accordance with section 16 as accredited checkers.
+15\.—(1) The Commissioner of Building Control shall keep and maintain the following registers:
 
-[4/99]
+(a) a register of accredited checkers registered under section 16; and
 
-(2) The absence of the name of any person from the register of accredited checkers shall be prima facie evidence that that person is not so registered.
+(b) a register of accredited checking organisations registered under section 16A,
 
-(3) The register of accredited checkers shall be kept and maintained at the office of the Commissioner of Building Control and shall be available for inspection by any person without charge during office hours.
+in which shall be entered the names and prescribed particulars of the persons and organisations registered.
 
-[4/99]
+(2) The absence of the name of any person or organisation from the registers kept under subsection (1) shall be prima facie evidence that —
+
+(a) in the case of the register of accredited checkers, that the person is not so registered or that his registration has been suspended or cancelled; and
+
+(b) in the case of the register of accredited checking organisations, that the organisation is not so registered or that its registration has been suspended or cancelled.
+
+(3) The registers referred to in subsection (1) shall be kept and maintained at the office of the Commissioner of Building Control and shall be available for inspection by any person without charge during office hours.
+
+[26/2000 wef 01/09/2001]
 
 ### Registration of accredited checkers
 
-16\.—(1) An application for registration as an accredited checker shall be made in such manner and shall be accompanied by such documents and particulars as may be prescribed.
+16\.—(1) An application for registration as an accredited checker shall be made in such manner and shall be accompanied by such documents and particulars as the Commissioner of Building Control may determine.
 
-(2) No person shall be registered as an accredited checker unless he can satisfy the Commissioner of Building Control that he possesses the prescribed qualifications and practical experience .
+(2) No person shall be registered as an accredited checker unless he can satisfy the Commissioner of Building Control that he possesses the prescribed qualifications and practical experience and meets such other requirements as may be prescribed.
 
 [4/99]
 
@@ -696,7 +714,23 @@ to ensure that the structural elements or critical structural works, as the case
 
 [4/99]
 
-(6) The Commissioner of Building Control may cancel the registration of an accredited checker —
+(5A) The registration of an accredited checker under this section shall be valid for the prescribed period and may, subject to this Act and the building regulations, be renewed on its expiry.
+
+[26/2000 wef 01/09/2001]
+
+(5B) An accredited checker may only undertake work as an accredited checker on his own behalf if the value of the building works is within the prescribed limit.
+
+[26/2000 wef 01/09/2001]
+
+(5C) No person shall undertake any work required under this Act or the building regulations to be undertaken by an accredited checker unless —
+
+(a) he is registered under this section; and
+
+(b) his registration has not been suspended or cancelled.
+
+[26/2000 wef 01/09/2001]
+
+(6) Subject to section 16B, the Commissioner of Building Control may suspend or cancel the registration of an accredited checker —
 
 (a) who is deceased;
 
@@ -704,47 +738,149 @@ to ensure that the structural elements or critical structural works, as the case
 
 (c) who is convicted of an offence involving fraud or dishonesty or an offence under this Act or the building regulations;
 
-(d) who, in the opinion of the Commissioner of Building Control, is no longer in a position to carry out the duties of an accredited checker under this Act; or
+(d) who, in the opinion of the Commissioner of Building Control, is no longer in a position to carry out the duties of an accredited checker under this Act;
 
-(e) whose name has been included in the register by fraud or misrepresentation.
-
-[4/99]
-
-(7) The Commissioner of Building Control shall not exercise his powers under subsection (6)(b), (c), (d) or (e) unless an opportunity of being heard has been given to the accredited checker against whom the Commissioner of Building Control intends to exercise his powers.
+(e) whose name has been included in the register by fraud or misrepresentation;
 
 [4/99]
+
+(f) who has been censured, fined, suspended or de-registered by the Professional Engineers Board;
+
+[26/2000 wef 01/09/2001]
+
+(g) who fails to meet the prescribed requirements for registration; or
+
+[26/2000 wef 01/09/2001]
+
+(h) if his performance as an accredited checker fails to meet such standards of performance as may be prescribed in the building regulations.
+
+[26/2000 wef 01/09/2001]
 
 (7) Any person who contravenes subsection (5B) or (5C) shall be guilty of an offence.
 
 [26/2000 wef 01/09/2001]
 
-(8) Where the Commissioner of Building Control cancels the registration of an accredited checker under subsection (6), he shall remove the name and particulars of the person from the register of accredited checkers and cancel any certificate of accreditation issued to the person under subsection (5).
+(8) For the purposes of this section, sections 16A and 17
 
-[4/99]
+“prescribed limit” means —
 
-(9) The person referred to in subsection (8) shall, within 14 days of being notified of the removal, surrender to the Commissioner of Building Control the certificate of accreditation and, if he fails to do so, he shall be guilty of an offence.
+(a) $10 million, where no other sum is specified under paragraph (b); or
 
-(10) Any person whose application for registration as an accredited checker is refused, or who is dissatisfied with the decision of the Commissioner of Building Control under subsection (6), may, within 14 days of being notified in writing of the refusal or the decision, appeal to the Minister whose decision shall be final.
+(b) where a sum is specified under this paragraph by the Minister for the purposes of this section and section 17 by notification in theGazette, such sum as may for the time being be so specified;
 
-[4/99]
+“prescribed period” means —
 
-(11) Any person whose name has been removed from the register of accredited checkers under subsection (6)(b), (c), (d) or (e) shall, if his appeal to the Minister is allowed, be forthwith reinstated.
+(a) 12 months from the date of registration of the accredited checker or the accredited checking organisation, as the case may be; or
 
-### Appointment of accredited checkers
+(b) where a period is specified under this paragraph by the Minister for the purposes of this section and section 16A by notification in theGazette, such period as may for the time being so specified;
 
-17\.—(1) Every person for whom building works are or are to be commenced or carried out shall, unless otherwise prescribed, appoint an accredited checker in respect of the detailed structural plans and design calculations of the building works.
+“value of the building works” means the total cost to be expended in carrying out the building works (including the foundations, structural frame, finishes and the installation of building services) estimated at the time of, and contained in, the application for approval of the plans of the building works.
 
-[18/95]
+[26/2000 wef 01/09/2001]
 
-(2) Every accredited checker appointed under subsection (1) shall check the detailed structural plans and design calculations of the building works in accordance with the building regulations and shall carry out such other duties as may be prescribed by those regulations.
+### Accredited checking organisations
 
-[18/95]
+16A\.—(1) Subject to the provisions of this Act, the Commissioner of Building Control may register —
 
-(3) Any accredited checker who contravenes or fails to comply with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+(a) any partnership consisting wholly of professional engineers registered under the Professional Engineers Act (Cap. 253) or which is licensed under that Act to supply professional engineering services in Singapore; or
 
-[16A
+(b) any corporation licensed under the Professional Engineers Act to supply professional engineering services in Singapore,
 
-[18/95]
+as an accredited checking organisation.
+
+(2) An application for registration as an accredited checking organisation shall be made in such manner, and shall be accompanied by such documents and particulars, as the Commissioner of Building Control may determine.
+
+(3) No partnership or corporation shall be registered as an accredited checking organisation unless it can satisfy the Commissioner of Building Control that it meets such requirements as may be prescribed.
+
+(4) The Commissioner of Building Control may appoint a committee of persons to assist him in considering applications for registration as accredited checking organisations.
+
+(5) Where the Commissioner of Building Control has registered a partnership or corporation as an accredited checking organisation, the Commissioner of Building Control shall issue to the partnership or corporation, as the case may be, a certificate of accreditation.
+
+(6) The registration of an accredited checking organisation under this section shall be valid for the prescribed period and may, subject to this Act and the building regulations, be renewed on its expiry.
+
+(7) No person shall undertake any work required under this Act or the building regulations to be undertaken by an accredited checking organisation unless —
+
+(a) it is registered under this section; and
+
+(b) its registration has not been suspended or cancelled.
+
+(8) The Commissioner of Building Control may suspend or cancel the registration of an accredited checking organisation —
+
+(a) which has contravened or failed to comply with section 18A(1);
+
+(b) which has been convicted of an offence under this Act or the building regulations;
+
+(c) if any accredited checker who is —
+
+(i) a partner or employee of the accredited checking organisation which is a partnership; or
+
+(ii) a director, manager or employee of the accredited checking organisation which is a corporation,
+
+has been convicted of an offence under this Act or the building regulations;
+
+(d) which, in the opinion of the Commissioner of Building Control, is no longer in a position to carry out the duties of an accredited checking organisation under this Act;
+
+(e) whose name has been included in the register by fraud or misrepresentation;
+
+(f) which fails to meet the prescribed requirements for registration; or
+
+(g) if its performance as an accredited checking organisation, or the performance of any accredited checker acting on behalf of the accredited checking organisation, fails to meet such standards of performance as may be prescribed in the building regulations.
+
+(9) Any person who contravenes subsection (7) shall be guilty of an offence.
+
+[26/2000 wef 01/09/2001]
+
+### Procedure for suspension or cancellation of registration
+
+16B\.—(1) The Commissioner of Building Control shall not exercise his powers under section 16(6)(b), (c), (d), (e), (f), (g) or (h) or section 16A(8) unless an opportunity of being heard has been given to the accredited checker or the accredited checking organisation, as the case may be, against whom the Commissioner of Building Control intends to exercise his powers.
+
+(2) For the purpose of subsection (1), the Commissioner of Building Control may appoint a committee of persons to assist him in considering any representation that may be made under subsection (1).
+
+(3) Subject to subsection (4), where the Commissioner of Building Control suspends or cancels the registration of an accredited checker under section 16(6) or an accredited checking organisation under section 16A(8), he shall —
+
+(a) in the case of an accredited checker, remove the name and particulars of the person from the register of accredited checkers under section 15(1)(a) and cancel the certificate of accreditation issued under section 16(5); or
+
+(b) in the case of an accredited checking organisation, remove the name and particulars of the organisation from the register of accredited checking organisations under section 15(1)(b) and cancel the certificate of accreditation issued under section 16A(5).
+
+(4) Where the registration of an accredited checker or an accredited checking organisation is suspended, his or its name and particulars shall be reinstated on the respective register under section 15, and his or its certificate of accreditation shall be restored, at the end of the period of suspension.
+
+(5) The person whose registration as an accredited checker or an accredited checking organisation is suspended or cancelled under section 16(6) or 16A(8) shall, within 14 days of being notified of the suspension or cancellation of registration, surrender to the Commissioner of Building Control the certificate of accreditation issued under section 16(5) or 16A(5), as the case may be, failing which the person shall be guilty of an offence.
+
+[26/2000 wef 01/09/2001]
+
+### Appeals
+
+16C\.—(1) Any person whose application for registration under section 16 or 16A is refused, or who is dissatisfied with the decision of the Commissioner of Building Control under section 16(6) or 16A(8), may, within 14 days of being notified in writing of the refusal or the decision, appeal to the Minister whose decision shall be final.
+
+(2) Any person whose registration has been suspended or cancelled under section 16(6) or 16A(8) shall, if the appeal to the Minister is allowed, be forthwith reinstated.
+
+[26/2000 wef 01/09/2001]
+
+### Appointment of accredited checkers or accredited checking organisations
+
+17\.—(1) Every person for whom building works are or are to be commenced or carried out shall, unless otherwise prescribed, appoint an accredited checker or an accredited checking organisation in respect of the detailed structural plans and design calculations of the building works.
+
+(2) A person for whom building works are or are to be commenced or carried out shall appoint an accredited checking organisation for the purposes of subsection (1) if the value of the building works exceeds the prescribed limit referred to in section 16(5B).
+
+(3) The accredited checker —
+
+(a) appointed under subsection (1); or
+
+(b) acting on behalf of the accredited checking organisation appointed under subsection (1),
+
+shall check the detailed structural plans and design calculations of the building works in accordance with the building regulations and shall carry out such other duties as may be prescribed by those regulations.
+
+(4) Any person who contravenes subsection (2) shall be guilty of an offence.
+
+(5) Any accredited checker —
+
+(a) appointed under subsection (1); or
+
+(b) acting on behalf of an accredited checking organisation appointed under subsection (1),
+
+who contravenes or fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[26/2000 wef 01/09/2001]
 
 ### Independence of accredited checkers
 
@@ -782,17 +918,57 @@ shall not be regarded as constituting a professional or financial interest.
 
 [18/95]
 
-(6) The Minister may, by notification in theGazette, exempt from subsection (1) any building or building works owned by or to be carried out for —
+### Independence of accredited checking organisations
 
-(a) the Housing and Development Board;
+18A\.—(1) In addition to the requirements imposed on an accredited checker under section 18, where the certificate under section 6(1)(c) or (8) is made by an accredited checker acting on behalf of an accredited checking organisation —
 
-(b) the Land Transport Authority of Singapore; or
+(a) the accredited checking organisation that is a corporation and any of its directors; and
 
-(c) any other public authority constituted by any written law.
+(b) any partner of the accredited checking organisation that is a partnership,
 
-[17
+shall not at the time of the making of the certificate have any professional or financial interest in the building works shown in the plans described in the certificate under section 6(1)(c) or (8).
 
-[18/95]
+(2) A person shall be regarded as having a professional or financial interest in any building works if —
+
+(a) the person is or has been responsible for the design or construction of the building or any of the building works in any capacity except building works relating to the alterations of the building which —
+
+(i) do not affect any key structural element; or
+
+(ii) affect any structural element but the effects are localised in nature and do not require any strengthening of any key structural element;
+
+(b) the person or any nominee of the person is a member, officer or employee of a company or other body which has a professional or financial interest in the building works; or
+
+(c) the person is a partner or is in the employment of a person who has a professional or financial interest in the building works.
+
+(3) For the purposes of this Act —
+
+(a) a person shall be treated as having a professional or financial interest in the building works even if the person has that interest only as trustee for the benefit of some other person; and
+
+(b) in the case of married people living together, the interest of one spouse shall, if known to the other, be deemed to be also an interest of the other.
+
+(4) For the purposes of this Act —
+
+(a) involvement in the building works as an accredited checker or an accredited checking organisation; and
+
+(b) entitlement to any fee paid for the function as an accredited checker or an accredited checking organisation,
+
+shall not be regarded as constituting a professional or financial interest.
+
+(5) Any accredited checking organisation that is a corporation which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+(6) Any partner of an accredited checking organisation that is a partnership, or any director of an accredited checking organisation that is a corporation, who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[26/2000 wef 01/09/2001]
+
+### Exemption for certain public authorities
+
+18B\. The Minister may, by notification in theGazette, exempt from sections 16(5B), 16A(7), 17(2) and 18(1) any building works —
+
+(a) which are carried out for any public authority constituted by any written law; and
+
+(b) in respect of which an accredited checker who is an officer or employee of the public authority has been appointed for the purposes of section 17(1).
+
+[26/2000 wef 01/09/2001]
 
 ### Building offences
 
@@ -1783,7 +1959,8 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of First Reading|30 June 2000|
 |||(Bill No. 21/2000 published on 1 July 2000)|
 ||Date of Second and Third Readings|25 August 2000|
-||Date of commencement|15 October 2000 (sections 3, 4 and 5)|
+||Dates of commencement|15 October 2000 (sections 3, 4 and 5)|
+|||1 September 2001 (except sections 3, 4 and 5)|
 ## COMPARATIVE TABLE
 
 Building Control Act
@@ -1828,7 +2005,7 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 —
 
-9 — (1)Deleted by Act 18/95
+9 —(1) [Deleted by Act 18/95]
 
 9 —(1)
 
@@ -1860,7 +2037,7 @@ Proviso to11 —(6)
 
 13 —(2)
 
-13 — (1) (set out)
+13 —(1) (set out)
 
 (3)
 
