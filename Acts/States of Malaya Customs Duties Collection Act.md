@@ -344,7 +344,9 @@ DUTIABLE GOODS IMPORTED BY POST
 
 ### Examination of postal articles
 
-17\. All postal articles consigned to Malaysia, whether posted within Singapore or elsewhere, may by arrangement with the Assistant General Manager (Postal Services) of the Telecommunication Authority of Singapore, be examined while in the custody of the Telecommunication Authority of Singapore by any Federal officer of customs, and may be opened by an officer of that Authority in the presence of a Federal officer of customs for the purpose of such examination.
+17\. All postal articles consigned to Malaysia, whether posted within Singapore or elsewhere, may by arrangement with a duly authorised officer of the Telecommunication Authority of Singapore, be examined while in the custody of the Telecommunication Authority of Singapore by any Federal officer of customs, and may be opened by an officer of that Authority in the presence of a Federal officer of customs for the purpose of such examination.
+
+[Act 12 of 1992 wef 01/04/1992]
 
 ### Assessment of customs duty
 
@@ -725,3 +727,9 @@ This Legislative History is provided for the convenience of users of the States 
 ||Date of operation|30 April 1971|
 |6.|**1985 Revised Edition—States of Malaya Customs Duties Collection Act**|
 ||Date of operation|30 March 1987|
+|7.|**Act 12 of 1992—Telecommunication Authority of Singapore Act 1992**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 1992|
+|||(Bill No. 16/1992 published on 28 February 1992)|
+||Date of Second and Third Readings|19 March 1992|
+||Date of commencement|1 April 1992|
