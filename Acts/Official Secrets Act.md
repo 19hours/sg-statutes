@@ -344,8 +344,6 @@ Section 2(1) and (3)
 
 Specified Organisations
 
-(1) Board of Commissioners of Currency, Singapore
-
 (2) Central Provident Fund Board
 
 (3) Civil Aviation Authority of Singapore
@@ -465,3 +463,9 @@ This Legislative History is provided for the convenience of users of the Officia
 ||Date of commencement|1 September 2001|
 |17.|**G.N. No. S 573/2001—Official Secrets Act (Amendment of Schedule) Notification 2001**|
 ||Date of commencement|23 November 2001|
+|18.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2002|
+|||(Bill No. 23/2002 published on 9 July 2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|1 October 2002|
