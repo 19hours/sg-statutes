@@ -724,7 +724,9 @@ Offences under Written Law
 
 2\. Sections 51, 72 and 73 of the Trade Marks Act (Cap. 332).
 
-3\. Sections 29, 59, 60, 65 and 66 of the Registered Designs Act 2000 (Act 25 of 2000).
+3. Sections 29, 59, 60 and 66 of the Registered Designs Act 2000 (Act 25 of 2000).
+
+[Act 26 of 2001 wef 01/09/2001]
 
 FOURTH SCHEDULE
 
