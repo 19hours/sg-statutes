@@ -340,7 +340,7 @@ For every room or suite occupied each day in every tourist hotel
 
 ...
 
-3% of the charge for the room or suite subject to a minimum of $1 per day.
+4% of the charge for the room or suite subject to a minimum of $1 per day.
 
 (b)
 
@@ -348,7 +348,7 @@ For every tourist food establishment
 
 ...
 
-3% of the total of all sales and charges in respect of which cess is payable.
+4% of the total of all sales and charges in respect of which cess is payable.
 
 (c)
 
@@ -356,13 +356,15 @@ For every tourist public house
 
 ...
 
-3% of the total of all sales and charges in respect of which cess is payable.
+4% of the total of all sales and charges in respect of which cess is payable.
 
 For the purposes of calculating the cess payable under paragraphs (b) and (c), fractions of a cent shall be ignored.
 
 The minimum amount of cess payable under each receipt shall be 5 cents and thereafter in multiples of 5 cents rounded off to the next higher multiple of 5 cents.
 
 [S 51/78; S 153/78]
+
+[S 461/1989 wef 01/01/1990]
 
 SECOND SCHEDULE
 
@@ -411,3 +413,5 @@ This Legislative History is provided for the convenience of users of the Tourist
 ||Date of commencement|7 July 1978|
 |4.|**1985 Revised Edition—Tourist Promotion (Cess Collection) Act (Chapter 329)**|
 ||Date of operation|30 March 1987|
+|5.|**G. N. No. S 461/1989—Tourist Promotion (Cess Collection) Act (Variation) Order 1989**|
+||Date of commencement|1 January 1990|
