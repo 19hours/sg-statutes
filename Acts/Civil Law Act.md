@@ -20,33 +20,35 @@
 
 - [7 Effect of death on certain causes of action](#Effect-of-death-on-certain-causes-of-action)
 
-- [8 Power of courts of record to award interest on debts and damages](#Power-of-courts-of-record-to-award-interest-on-debts-and-damages)
+- [8 Abolition of right to damages for loss of expectation of life](#Abolition-of-right-to-damages-for-loss-of-expectation-of-life)
 
-- [8A Abolition of right to damages for loss of expectation of life](#Abolition-of-right-to-damages-for-loss-of-expectation-of-life)
+- [9 Power of courts of record to award interest on debts and damages](#Power-of-courts-of-record-to-award-interest-on-debts-and-damages)
 
-- [9 Abolition of husband’s liability for wife’s torts and antenuptial contracts, debts and obligations](#Abolition-of-husband’s-liability-for-wife’s-torts-and-antenuptial-contracts-debts-and-obligations)
+- [10 Abolition of husband’s liability for wife’s torts and antenuptial contracts, debts and obligations](#Abolition-of-husband’s-liability-for-wife’s-torts-and-antenuptial-contracts-debts-and-obligations)
 
-- [10 Proceedings against, and contribution between, joint and several tortfeasors](#Proceedings-against-and-contribution-between-joint-and-several-tortfeasors)
-
-- [11 Compensation to family of a person for loss occasioned by his death](#Compensation-to-family-of-a-person-for-loss-occasioned-by-his-death)
+- [11 Proceedings against, and contribution between, joint and several tortfeasors](#Proceedings-against-and-contribution-between-joint-and-several-tortfeasors)
 
 - [12 Right of action for wrongful act causing death](#Right-of-action-for-wrongful-act-causing-death)
 
-- [12A Bereavement](#Bereavement)
+- [13 Bereavement](#Bereavement)
 
-- [12B Assessment of damages](#Assessment-of-damages)
+- [14 Assessment of damages](#Assessment-of-damages)
 
-- [13 Executor deemed to be trustee for person entitled to residue on intestacy](#Executor-deemed-to-be-trustee-for-person-entitled-to-residue-on-intestacy)
+- [15 Appointments to be valid notwithstanding one or more objects excluded, or only take an unsubstantial share](#Appointments-to-be-valid-notwithstanding-one-or-more-objects-excluded-or-only-take-an-unsubstantial-share)
 
-- [14 Devisee of land not to claim payment of mortgage out of movable property](#Devisee-of-land-not-to-claim-payment-of-mortgage-out-of-movable-property)
+- [16 Executor deemed to be trustee for person entitled to residue on intestacy](#Executor-deemed-to-be-trustee-for-person-entitled-to-residue-on-intestacy)
 
-- [15 Bona vacantia](#Bona-vacantia)
+- [17 Devisee of land not to claim payment of mortgage debt out of movable property](#Devisee-of-land-not-to-claim-payment-of-mortgage-debt-out-of-movable-property)
 
-- [16 No person chargeable with rent bona fide paid to holder under defective title](#No-person-chargeable-with-rent-bona-fide-paid-to-holder-under-defective-title)
+- [18 Bona vacantia](#Bona-vacantia)
 
-- [17 Rules to apply to subordinate courts](#Rules-to-apply-to-subordinate-courts)
+- [19 No person chargeable with rent bona fide paid to holder under defective title](#No-person-chargeable-with-rent-bona-fide-paid-to-holder-under-defective-title)
 
-- [18 Presumption of survivorship in regard to claim to property](#Presumption-of-survivorship-in-regard-to-claim-to-property)
+- [20 Rules to apply to subordinate courts](#Rules-to-apply-to-subordinate-courts)
+
+- [21 Presumption of survivorship in regard to claim to property](#Presumption-of-survivorship-in-regard-to-claim-to-property)
+
+- [22 Transitional provisions](#Transitional-provisions)
 
 [**Legislative History**](#Legislative-History)
 
@@ -56,9 +58,9 @@
 
 (Original Enactment: Ordinance 8 of 1909)
 
-REVISED EDITION 1985
+REVISED EDITION 1988
 
-(30th March 1987)
+(31st December 1987)
 
 An Act to consolidate certain provisions of the civil law.
 
@@ -104,7 +106,7 @@ Suits not to be restrained by prohibition or injunction
 
 Court may grant stay of proceedings. By motion in a summary way
 
-(f) nothing in this Act shall disable the court from directing a stay of proceedings in any cause or matter pending before it, if it thinks fit; and any person, whether a party or not to any such cause or matter, who would have been entitled if the Civil Law Ordinance 1878 [IV/1878] had not been passed, to apply to the court to restrain the prosecution thereof, or who may be entitled to enforce, by attachment or otherwise, any judgment, decree, rule or order, contrary to which all or any part of the proceedings in such cause or matter may have been taken, may apply to the court, by motion in a summary way, for a stay of proceedings in such cause or matter, either generally, or so far as is necessary for the purpose of justice; and the court shall thereupon make such order as is just;
+(f) nothing in this Act shall disable the court from directing a stay of proceedings in any cause or matter pending before it, if it thinks fit; and any person, whether a party or not to any such cause or matter, who would have been entitled if the Civil Law Ordinance 1878 had not been passed, to apply to the court to restrain the prosecution thereof, or who may be entitled to enforce, by attachment or otherwise, any judgment, decree, rule or order, contrary to which all or any part of the proceedings in such cause or matter may have been taken, may apply to the court, by motion in a summary way, for a stay of proceedings in such cause or matter, either generally, or so far as is necessary for the purpose of justice; and the court shall thereupon make such order as is just;
 
 Subject as above, court to give effect to claims at law, and by custom or statute
 
@@ -112,7 +114,7 @@ Subject as above, court to give effect to claims at law, and by custom or statut
 
 Court to grant all such remedies as any of the parties are entitled to in respect of every legal and equitable claim to avoid multiplicity
 
-(h) the court in the exercise of its original jurisdiction and the Court of Appeal, in every cause or matter pending before it, shall grant, either absolutely or on such reasonable terms and conditions as to it seems just, all such remedies whatsoever as any of the parties thereto appear to be entitled to, in respect of any and every legal or equitable claim properly brought for-ward by them respectively in such cause or matter; so that, as far as possible, all matters so in controversy between the said parties respectively may be completely and finally determined, and all multiplicity of legal proceedings concerning any of such matters avoided.
+(h) the court in the exercise of its original jurisdiction and the Court of Appeal, in every cause or matter pending before it, shall grant, either absolutely or on such reasonable terms and conditions as to it seems just, all such remedies whatsoever as any of the parties thereto appear to be entitled to, in respect of any and every legal or equitable claim properly brought forward by them respectively in such cause or matter; so that, as far as possible, all matters so in controversy between the said parties respectively may be completely and finally determined, and all multiplicity of legal proceedings concerning any of such matters avoided.
 
 ### Administration of insolvent estates, and winding up of companies. Bankruptcy rules to prevail
 
@@ -140,7 +142,7 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 ### Stipulations not of essence of contracts to be construed as in equity
 
-(7) Stipulations in contracts, as to time or otherwise, which would not, before 23rd July 1909 have been deemed to be or to have become of the essence of such contracts in a court of equity, shall receive in all cases the same construction and effect as they would have received in equity before the said date.
+(7) Stipulations in contracts, as to time or otherwise, which would not, before 23rd July 1909 have been deemed to be or to have become of the essence of such contracts in a court of equity, shall receive in all cases the same construction and effect as they would have received in equity before that date.
 
 ### Injunctions and receivers granted or appointed by interlocutory orders
 
@@ -148,7 +150,7 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 ### Terms. To prevent waste, etc., when granted
 
-(9) If an injunction is asked, either before, or at, or after the hearing of any cause or matter, to prevent any threatened or apprehended waste or trespass, such injunction may be granted if the court thinks fit whether the person against whom such injunction is sought is or is not in possession under any claim of title or otherwise, or, if out of possession, does or does not claim, a right to do the act sought to be restrained under any colour of title, and whether the estates claimed by both, or by either of the parties, are legal or equitable.
+(9) If an injunction is asked, either before, or at, or after the hearing of any cause or matter, to prevent any threatened or apprehended waste or trespass, the injunction may be granted if the court thinks fit whether the person against whom the injunction is sought is or is not in possession under any claim of title or otherwise, or, if out of possession, does or does not claim, a right to do the act sought to be restrained under any colour of title, and whether the estates claimed by both, or by either of the parties, are legal or equitable.
 
 ### Custody and education of infants
 
@@ -182,7 +184,7 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 (a) the law of England which is to be administered by virtue of subsection (1) shall be subject to such modifications and adaptations as the circumstances of Singapore may require; and
 
-(b) a written law in force in Singapore shall be regarded as corresponding to an Act of Parliament of the United Kingdom under subsection (2)(c) if (notwithstanding that it differs, whether to a small extent or substantially, from that Act) the purpose or purposes of the written law are the same or similar to those of that Act.
+(b) a written law in force in Singapore shall be regarded as corresponding to an Act of Parliament of the United Kingdom under subsection (2)(c) if (notwithstanding that it differs, whether to a small extent or substantially, from that Act) the purpose or purposes of the written law are the same as or similar to those of that Act.
 
 ### Agreement by way of gaming or wagering to be null and void
 
@@ -202,10 +204,6 @@ Court to grant all such remedies as any of the parties are entitled to in respec
 
 (5) Any promise, express or implied, to pay any person any sum of money paid by him under or in respect of any contract or agreement rendered null and void by subsections (1) and (2), or to pay any sum of money by way of commission, fee, reward or otherwise in respect of any such contract or of any services in relation thereto or in connection therewith, shall be null and void, and no action shall be brought or maintained to recover any such sum of money.
 
-[7\*
-
-\*The former section 6 was repealed by Act 24 of 1979.
-
 ### Effect of death on certain causes of action
 
 7\.—(1) Subject to this section, on the death of any person, all causes of action subsisting against or vested in him shall survive against, or, as the case may be, for the benefit of his estate:
@@ -216,7 +214,13 @@ Provided that this subsection shall not apply to causes of action for defamation
 
 (2) Where a cause of action survives as aforesaid for the benefit of the estate of a deceased person, the damages recoverable for the benefit of the estate of that person —
 
-(a) shall not include any exemplary damages;
+(a) shall not include —
+
+(i) any exemplary damages; and
+
+(ii) any damages for loss of income in respect of any period after that person’s death;
+
+[11/87]
 
 (b) in the case of a breach of promise to marry shall be limited to such damage, if any, to the estate of that person as flows from the breach of promise to marry;
 
@@ -224,43 +228,37 @@ Provided that this subsection shall not apply to causes of action for defamation
 
 (3) Where damage has been suffered by reason of any act or omission in respect of which a cause of action would have subsisted against any person if that person had not died before or at the same time as the damage was suffered, there shall be deemed, for the purposes of this section, to have been subsisting against him before his death such cause of action in respect of that act or omission as would have subsisted if he had died after the damage was suffered.
 
-(4) The rights conferred by this section for the benefit of the estates of deceased persons shall be in addition to and not in derogation of any rights conferred on the dependants of deceased persons by section 11 and so much of this section as relates to causes of action against the estates of deceased persons shall apply in relation to causes of action under that section as applies in relation to other causes of action not expressly excepted from the operation of subsection (1).
+(4) The rights conferred by this section for the benefit of the estates of deceased persons shall be in addition to and not in derogation of any rights conferred on the dependants of deceased persons by section 12 and so much of this section as relates to causes of action against the estates of deceased persons shall apply in relation to causes of action under that section as applies in relation to other causes of action not expressly excepted from the operation of subsection (1).
 
 (5) In the event of the insolvency of an estate against which proceedings are maintainable by virtue of this section, any liability in respect of the cause of action in respect of which the proceedings are maintainable shall be deemed to be a debt provable in the administration of the estate, notwithstanding that it is a demand in the nature of unliquidated damages arising otherwise than by a contract, promise or breach of trust.
 
-[8
-
-### Power of courts of record to award interest on debts and damages
-
-8\. In any proceedings tried in any court of record for the recovery of any debt or damages, the court may, if it thinks fit, order that there shall be included in the sum for which judgment is given interest at such rate as it thinks fit on the whole or any part of the debt or damages for the whole or any part of the period between the date when the cause of action arose and the date of the judgment:
-
-Provided that nothing in this section —
-
-(a) shall not include —
-
-(i) any exemplary damages; and
-
-(ii) any damages for loss of income in respect of any period after that person’s death;
-
-[Act 11 of 1987 wef 01/05/1987]
-
-(b) shall apply in relation to any debt upon which interest is payable as of right whether by virtue of any agreement or otherwise; or
-
-(c) shall affect the damages recoverable for the dis-honour of a bill of exchange.
-
-[9
-
 ### Abolition of right to damages for loss of expectation of life
 
-8A\.—(1) In any action for damages for personal injuries, no damages shall be recoverable in respect of any loss of expectation of life caused to the injured person by the injuries, except that if the injured person’s expectation of life has been reduced by the injuries, the court, in assessing damages in respect of pain and suffering caused by the injuries, shall take into account any suffering caused or likely to be caused to him by awareness that his expectation of life has been so reduced.
+8\.—(1) In any action for damages for personal injuries, no damages shall be recoverable in respect of any loss of expectation of life caused to the injured person by the injuries, except that if the injured person’s expectation of life has been reduced by the injuries, the court, in assessing damages in respect of pain and suffering caused by the injuries, shall take into account any suffering caused or likely to be caused to him by awareness that his expectation of life has been so reduced.
+
+[11/87]
 
 (2) In subsection (1), any reference to damages in respect of loss of expectation of life does not include damages in respect of loss of income.
 
-[Act 11 of 1987 wef 01/05/1987]
+[7A
+
+### Power of courts of record to award interest on debts and damages
+
+9\. In any proceedings tried in any court of record for the recovery of any debt or damages, the court may, if it thinks fit, order that there shall be included in the sum for which judgment is given interest at such rate as it thinks fit on the whole or any part of the debt or damages for the whole or any part of the period between the date when the cause of action arose and the date of the judgment:
+
+Provided that nothing in this section —
+
+(a) shall authorise the giving of interest upon interest;
+
+(b) shall apply in relation to any debt upon which interest is payable as of right whether by virtue of any agreement or otherwise; or
+
+(c) shall affect the damages recoverable for the dishonour of a bill of exchange.
+
+[8
 
 ### Abolition of husband’s liability for wife’s torts and antenuptial contracts, debts and obligations
 
-9\.—(1) Subject to this section, the husband of a married woman shall not, by reason only of his being her husband, be liable —
+10\.—(1) Subject to this section, the husband of a married woman shall not, by reason only of his being her husband, be liable —
 
 (a) in respect of any tort committed by her whether before or after the marriage, or in respect of any contract entered into, or debt or obligation incurred, by her before the marriage; or
 
@@ -276,11 +274,11 @@ Provided that nothing in this section —
 
 (d) prevents the exercise of any joint power given to a husband and wife.
 
-[10
+[9
 
 ### Proceedings against, and contribution between, joint and several tortfeasors
 
-10\.—(1) Where damage is suffered by any person as a result of a tort (whether a crime or not) —
+11\.—(1) Where damage is suffered by any person as a result of a tort (whether a crime or not) —
 
 (a) judgment recovered against any tortfeasor liable in respect of that damage shall not be a bar to an action against any other person who would, if sued, have been liable as a joint tortfeasor in respect of the same damage;
 
@@ -292,7 +290,7 @@ Provided that nothing in this section —
 
 (3) For the purposes of this section —
 
-(a) “parent” and “child” have the same meanings as they have for the purposes of section 11; and
+(a) “parent” and “child” have the same meanings as they have for the purposes of section 12; and
 
 (b) the reference in this section to “the judgment first given” shall, in a case where that judgment is reversed on appeal, be construed as a reference to the judgment first given which is not so reversed and, in a case where a judgment is varied on appeal, be construed as a reference to that judgment as so varied.
 
@@ -304,71 +302,17 @@ Provided that nothing in this section —
 
 ### Construction
 
-(5) Subsections (1) to (4) are for the removal of doubt and nothing therein contained shall be taken to repeal by implication or in any way to derogate from section 5.
+(5) Subsections (1) to (4) are for the removal of doubt and nothing therein shall be taken to repeal by implication or in any way to derogate from section 5.
 
-[11
-
-### Compensation to family of a person for loss occasioned by his death
-
-11\.—(1) Whenever the death of a person is caused by wrongful act, neglect or default, and the act, neglect or default is such as would, if death had not ensued, have entitled the party injured to maintain an action and recover damages in respect thereof, the party who would have been liable if death had not ensued shall be liable to an action for damages, notwithstanding the death of the person injured, and although the death has been caused under such circumstances as amount in law to an offence under the Penal Code [Cap. 224].
-
-(2) Every such action shall be for the benefit of the wife, husband, parent and child, if any, of the person whose death has been so caused and shall be brought by and in the name of the executor of the deceased person.
-
-(3) In every such action the court may give such damages as it thinks proportioned to the loss resulting from such death to the parties respectively for whom and for whose benefit such action is brought:
-
-Provided that —
-
-(a) in assessing such damages there shall not be taken into account any sum paid or payable on the death of the deceased under any contract of assurance or insurance;
-
-(b) damages may be awarded in respect of funeral expenses of the deceased person if such expenses have been incurred by the parties for whose benefit the action is brought:
-
-And provided that in assessing such damages there shall also not be taken into account —
-
-(c) any sum payable as a result of the death under the Central Provident Fund Act [Cap. 36]; or
-
-(d) any pension or gratuity which has been, or will, or may be, paid as a result of the death.
-
-(4) The amount so recovered after deducting all costs and expenses, including the costs not recovered from the defendant, shall be divided amongst the before-mentioned parties or any of them in such shares as the court by its judgment or decree directs.
-
-### Not more than one action to be brought
-
-(5) Not more than one action shall be brought for and in respect of the same subject-matter of complaint, and every such action shall be brought within 3 years after the death of such deceased person.
-
-(6) In any such action the executor of the deceased may insert a claim for and recover any pecuniary loss to the estate of the deceased occasioned by such wrongful act, neglect or default, which sum when recovered shall be deemed part of the assets of the estate of the deceased.
-
-### Plaintiff shall deliver particulars
-
-(7) The writ of summons in any such action shall give full particulars of the person or persons for whom or on whose behalf such action is brought, and of the nature of the claim in respect of which damages are sought to be recovered.
-
-### Where no executor or no action brought within one year, action by persons beneficially interested
-
-(8) If there is no executor of the deceased person or there being such executor, no action as in this section mentioned has, within one year after the death of such deceased person, been brought by the executor, such action may be brought by all or any of the persons, if more than one, for whose benefit such action would have been brought if it had been brought by the executor, and every action so to be brought shall be for the benefit of the same person or persons and shall be subject to the same procedure as nearly as may be as if it was brought by the executor.
-
-### Money paid into court in one sum
-
-(9) It shall be sufficient for any defendant in any action brought under this section to pay any money he is advised to pay into court as a compensation in one sum to all persons entitled under this section for his wrongful act, neglect or default, without specifying the shares into which it is to be divided.
-
-(10) If the said sum is not accepted and an issue is taken by the plaintiff as to its sufficiency and the court thinks the same sufficient, the defendant shall be entitled to judgment upon that issue.
-
-### Interpretation
-
-(11) The following words used in this section are intended to have the meanings hereby assigned to them respectively, so far as such meanings are not excluded by the context or by the nature of the subject-matter:
-
-“child” includes son and daughter and grandson and grand-daughter and step-son and step-daughter;
-
-“parent” includes father and mother and grandfather and grandmother; and
-
-“pension” includes a return of contributions and any payment of a lump sum in respect of a person’s employment:
-
-Provided that in deducing any relationship referred to in this subsection any illegitimate person or any person who has been adopted, or whose adoption has been registered, in accordance with the provisions of any written law shall be treated as being or as having been the legitimate offspring of his mother and reputed father or, as the case may be, of his adopters.
-
-[12
+[10
 
 ### Right of action for wrongful act causing death
 
-12\.—(1) If death is caused by any wrongful act, neglect or default which is such as would (if death had not ensued) have entitled the person injured to maintain an action and recover damages in respect thereof, the person who would have been liable if death had not ensued shall be liable to an action for damages, notwithstanding the death of the person injured.
+12\.—(1) If death is caused by any wrongful act, neglect or default which is such as would (if death has not ensued) have entitled the person injured to maintain an action and recover damages in respect thereof, the person who would have been liable if death had not ensued shall be liable to an action for damages, notwithstanding the death of the person injured.
 
-(2) Subject to section 12A(2), every such action shall be for the benefit of the dependants of the person (referred to as the deceased) whose death has been so caused.
+[11/87]
+
+(2) Subject to section 13(2), every such action shall be for the benefit of the dependants of the person (referred to in this section and in sections 13 and 14 as the deceased) whose death has been so caused.
 
 (3) Every action brought under this section shall be brought by and in the name of the executor or administrator of the deceased.
 
@@ -386,15 +330,13 @@ the action may be brought by and in the name of all or any of the persons for wh
 
 (7) In any action brought under this section, the executor of the deceased may insert a claim for and recover any pecuniary loss to the estate of the deceased occasioned by such wrongful act, neglect or default, which sum when recovered shall be deemed part of the assets of the estate of the deceased.
 
-(8) In this section,
-
-“dependant” means —
+(8) In this section, “dependant” means —
 
 (a) the wife or husband of the deceased;
 
 (b) any parent, grandparent or great-grandparent of the deceased;
 
-(c) any child, grandchild or greatgrandchild of the deceased;
+(c) any child, grandchild or great-grandchild of the deceased;
 
 (d) any person (not being a child of the deceased) who, in the case of any marriage to which the deceased was at any time a party, was treated by the deceased as a child of the family in relation to that marriage;
 
@@ -406,15 +348,17 @@ the action may be brought by and in the name of all or any of the persons for wh
 
 (b) subject to paragraph (a), any relationship by affinity shall be treated as a relationship by consanguinity, any relationship of the half blood as a relationship of the whole blood, and the stepchild of any person as his child and an illegitimate person shall be treated as the legitimate child of his mother and reputed father.
 
-(10) In subsection (9)(a), “adopted” means adopted in pursuance of an adoption order made under the Adoption of Children Act (Cap. 43) or of any adoption recognised as valid by the law of Singapore.
+(10) In subsection (9)(a), “adopted” means adopted in pursuance of an adoption order made under the Adoption of Children Act [Cap. 4] or of any adoption recognised as valid by the law of Singapore.
 
 (11) Any reference in this section to injury includes any disease and any impairment of a person’s physical or mental condition.
 
-[Act 11 of 1987 wef 01/05/1987]
+[11
 
 ### Bereavement
 
-12A\.—(1) An action under section 12 may consist of or include a claim for damages for bereavement.
+13\.—(1) An action under section 12 may consist of or include a claim for damages for bereavement.
+
+[11/87]
 
 (2) A claim for damages for bereavement shall only be for the benefit of such of the following persons as survive the deceased:
 
@@ -436,37 +380,55 @@ the action may be brought by and in the name of all or any of the persons for wh
 
 (6) The President may by order published in theGazettevary the sum specified in subsection (4).
 
-[Act 11 of 1987 wef 01/05/1987]
+[11A
 
 ### Assessment of damages
 
-12B\.—(1) In every action brought under section 12, the court may award such damages as are proportioned to the losses resulting from the death to the dependants respectively except that in assessing the damages there shall not be taken into account —
+14\.—(1) In every action brought under section 12, the court may award such damages as are proportioned to the losses resulting from the death to the dependants respectively except that in assessing the damages there shall not be taken into account —
 
 (a) any sum paid or payable on the death of the deceased under any contract of assurance or insurance;
 
-(b) any sum payable as a result of the death under the Central Provident Fund Act (Cap. 121); or
+(b) any sum payable as a result of the death under the Central Provident Fund Act [Cap. 36]; or
 
 (c) any pension or gratuity which has been or will or may be paid as a result of the death.
 
+[11/87]
+
 (2) Where damages are awarded under subsection (1), any costs not recovered from the defendant shall be deducted from those damages and thereafter those damages shall be divided among the dependants in such proportions as has been decided under that subsection.
 
-(3) In an action brought under section 12 where there fall to be assessed damages payable to a widow in respect of the death of her husband, there shall not be taken into account the re-marriage of the widow or her prospects of re-marriage.
+(3) In an action brought under section 12 where there fall to be assessed damages payable to a widow in respect of the death of her husband, there shall not be taken into account the remarriage of the widow or her prospect of remarriage.
 
 (4) If the dependants have incurred funeral expenses in respect of the deceased, damages may be awarded in respect of those expenses.
 
 (5) Money paid into court in satisfaction of a cause of action under this Act may be in one sum without specifying any person’s share.
 
-[Act 11 of 1987 wef 01/05/1987]
+[11B
+
+### Appointments to be valid notwithstanding one or more objects excluded, or only take an unsubstantial share
+
+15\.—(1) Where by any deed, will or other instrument a power is given to appoint movable or immovable property amongst several objects in such manner that no one of the objects of the power can be excluded, or some one or more of the objects of the power cannot be excluded by the donee of the power from a share of that property, but without requiring a substantial share of that property to be given to each object of the power or to each object of the power who cannot be excluded, no appointment, which has been or is after 23rd July 1909 made in exercise of any such power or authority shall be invalid on the ground that an unsubstantial, illusory or nominal share only is thereby appointed, or left unappointed to devolve upon any one or more of the objects of the power or on the ground that any object of that power has been altogether excluded.
+
+(2) Every such appointment shall be valid and effectual notwithstanding that any one or more of the objects does or do not thereunder, or in default thereof, take more than an unsubstantial, illusory or nominal share, and notwithstanding that any one or more of the objects does or do not thereunder, or in default thereof, take a share or shares of the said property.
+
+### Not to affect any deed which declares the amount of the share
+
+(3) Nothing in this section shall prejudice or affect any provision in any deed, will or other instrument creating any such power as aforesaid, which declares the amount of the share or shares from which no object of the power shall be excluded.
+
+### Not to give any other force to any appointment than the same would have had
+
+(4) Nothing in this section shall be construed, deemed or taken to give any other validity, force or effect to any appointment than such appointment would have had if a substantial share of the property affected by the power had been thereby appointed, or left unappointed.
+
+[12
 
 ### Executor deemed to be trustee for person entitled to residue on intestacy
 
-13\. When any person dies or has died, having by his will appointed any person to be his executor, such executor shall be deemed to be a trustee for the person, if any, who would be entitled to the estate in case the person died intestate in respect of any residue not expressly disposed of, unless it appears by the will that the person so appointed executor was intended to take such residue beneficially.
+16\. When any person dies or has died, having by his will appointed any person to be his executor, such executor shall be deemed to be a trustee for the person, if any, who would be entitled to the estate in case the person died intestate in respect of any residue not expressly disposed of, unless it appears by the will that the person so appointed executor was intended to take such residue beneficially.
 
-[14
+[13
 
-### Devisee of land not to claim payment of mortgage out of movable property
+### Devisee of land not to claim payment of mortgage debt out of movable property
 
-14\.—(1) If any person dies or has died seised of or entitled to any estate or interest in any immovable property, which is at the time of his death charged with the payment of any sum or sums of money by way of mortgage, and such person has not by his will or deed or other document signified any contrary or other intention, the devisee to whom such immovable property is devised, shall not be entitled to have the mortgage debt discharged or satisfied out of the movable property or any other immovable property of such person.
+17\.—(1) If any person dies or has died seised of or entitled to any estate or interest in any immovable property, which is at the time of his death charged with the payment of any sum or sums of money by way of mortgage, and such person has not by his will or deed or other document signified any contrary or other intention, the devisee to whom such immovable property is devised, shall not be entitled to have the mortgage debt discharged or satisfied out of the movable property or any other immovable property of that person.
 
 (2) The immovable property so charged shall as between the different persons claiming through or under the deceased person be primarily liable to the payment of all mortgage debts with which the same is charged, every part thereof according to its value bearing a proportionate part of the mortgage debts charged on the whole thereof.
 
@@ -474,53 +436,63 @@ the action may be brought by and in the name of all or any of the persons for wh
 
 (4) In this section, “mortgage” shall be deemed to extend to any lien for unpaid purchase-money upon any immovable property purchased by a testator.
 
-(5) Nothing in this section shall affect or diminish any right of the mortgagee of such immovable property to obtain full payment or satisfaction of his mortgage-debt, either out of the estate of the person so dying as aforesaid or otherwise.
+(5) Nothing in this section shall affect or diminish any right of the mortgagee of such immovable property to obtain full payment or satisfaction of his mortgage debt, either out of the estate of the person so dying as aforesaid or otherwise.
 
-[15
+[14
 
 ### Bona vacantia
 
-15\.—(1) When a right to the personal estate of any person who dies intestate without next of kin has accrued to the Government, such personal estate or the proceeds thereof shall form part of the Consolidated Fund and shall be appropriated as part of such revenue to such public purposes as Parliament may from time to time think proper and direct:
+18\.—(1) When a right to the personal estate of any person who dies intestate without next of kin has accrued to the Government, such personal estate or the proceeds thereof shall form part of the Consolidated Fund and shall be appropriated as part of such revenue to such public purposes as Parliament may from time to time think proper and direct:
 
 Provided that it shall be lawful for the President, by warrant, to order the transfer of the whole or any part of such personal estate, or the proceeds thereof, to any person or persons who shall establish to the satisfaction of the President any equitable or moral claim thereto.
 
 (2) Nothing in this section shall affect the disposal of any property according to Muslim law.
 
-[16
+[15
 
 ### No person chargeable with rent bona fide paid to holder under defective title
 
-16\.—(1) No person shall be chargeable with any rents or profits of any immovable property which he has bona fide paid over to any person of whom he bona fide held the same notwithstanding it afterwards appears that the person to whom such payment was made had no right to receive such rents or profits.
+19\.—(1) No person shall be chargeable with any rents or profits of any immovable property which he has bona fide paid over to any person of whom he bona fide held the rents or profits notwithstanding it afterwards appears that the person to whom such payment was made had no right to receive the rents or profits.
 
 ### Improvements made by bona fide holders
 
-(2) If any person erects any building or makes an improvement upon any lands held by him bona fide in the belief that he had an estate in fee simple or other absolute estate, and such person, his executor or assign, or his undertenant is evicted from such lands by any person having a better title, the person who erected the building or made the improvement, his executor or assign, shall be entitled either to have the value of the building or improvement so erected or made during such holding and in such belief estimated and paid or secured to him, or, at the option of the person causing the eviction, to purchase the interest of such person in the lands at the value thereof irrespective of the value of such building or improvement.
+(2) If any person erects any building or makes an improvement upon any lands held by him bona fide in the belief that he had an estate in fee simple or other absolute estate, and that person, his executor or assign, or his under-tenant is evicted from such lands by any person having a better title, the person who erected the building or made the improvement, his executor or assign, shall be entitled either to have the value of the building or improvement so erected or made during such holding and in such belief estimated and paid or secured to him, or, at the option of the person causing the eviction, to purchase the interest of such person in the lands at the value thereof irrespective of the value of the building or improvement.
 
 ### Proviso
 
-(3) The amount to be paid or secured in respect of such building or improvement shall be the estimated value of the same at the time of such eviction.
+(3) The amount to be paid or secured in respect of such building or improvement shall be the estimated value of the building and improvement at the time of such eviction.
 
 ### Double rent or double value on holding over by tenant
 
 (4) Every tenant holding over after the determination of his tenancy shall be chargeable, at the option of his landlord, with double the amount of his rent until possession is given up by him or with double the value during the period of detention of the land or premises so detained, whether notice to that effect has been given or not.
 
-### Subtenant to give notice
+### Sub-tenant to give notice
 
-(5) When any writ of summons issued by a landlord against a tenant for the recovery of immovable property is served on or comes to the knowledge of any subtenant of the plaintiff’s immediate tenant, such subtenant being an occupier of the whole or any part of the premises sought to be recovered, he shall forthwith give notice thereof to his immediate landlord, under penalty of forfeiting 3 years’ rack rent of the premises held by such subtenant to the person of whom he holds, to be recovered by such person by action in any court having jurisdiction.
+(5) When any writ of summons issued by a landlord against a tenant for the recovery of immovable property is served on or comes to the knowledge of any sub-tenant of the plaintiff’s immediate tenant, the sub-tenant being an occupier of the whole or any part of the premises sought to be recovered, he shall forthwith give notice thereof to his immediate landlord, under penalty of forfeiting 3 years’ rack rent of the premises held by the sub-tenant to the person of whom he holds, to be recovered by such person by action in any court having jurisdiction.
 
-[17
+[16
 
 ### Rules to apply to subordinate courts
 
-17\. The rules of law hereinbefore enacted and declared shall mutatis mutandis be, and shall, so far as they were already in force in Singapore, be deemed to have been, in force in the subordinate courts so far as the matters to which such rules relate are respectively cognizable by such courts.
+20\. The rules of law hereinbefore enacted and declared shall mutatis mutandis be, and shall, so far as they were already in force in Singapore, be deemed to have been, in force in the subordinate courts so far as the matters to which such rules relate are respectively cognizable by such courts.
 
-[18
+[17
 
 ### Presumption of survivorship in regard to claim to property
 
-18\. In all cases where two or more persons die in circumstances rendering it uncertain which of them survived the other or others, such deaths shall (subject to any order of the court) for all purposes affecting the title to property be presumed to have occurred in order of seniority and accordingly the younger shall be deemed to have survived the elder.
+21\. In all cases where two or more persons die in circumstances rendering it uncertain which of them survived the other or others, such deaths shall (subject to any order of the court) for all purposes affecting the title to property be presumed to have occurred in order of seniority and accordingly the younger shall be deemed to have survived the elder.
 
-[19
+[18
+
+### Transitional provisions
+
+22\. \*Nothing in sections 7(2)(a), 8, 12, 13 and 14 shall apply to any cause of action which accrued before 1st May 1987.
+
+[S 128/87]
+
+[11/87]
+
+\*Former section 6 of the Civil Law (Amendment) Act 1987.
 
 ## LEGISLATIVE HISTORY
 
@@ -628,3 +600,5 @@ This Legislative History is provided for the convenience of users of the Civil L
 |||(Bill No. 1/87 published on 2 February 1987)|
 ||Date of Second and Third Readings|4 March 1987|
 ||Date of commencement|1 May 1987|
+|26.|**1988 Revised Edition—Civil Law Act**|
+||Date of operation|31 December 1987|
