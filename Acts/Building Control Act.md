@@ -1,12 +1,10 @@
-**Building Control Act 1989**
+**Building Control Act**
 
-**(No. 9 of 1989)**
+**(CHAPTER 29)**
 
 **Table of Contents**
 
 [**Long Title**](#Building-Control-Act)
-
-[**Enacting Formula**](#Enacting-Formula)
 
 [**Part I PRELIMINARY**](#Part-I)
 
@@ -18,7 +16,7 @@
 
 [**Part II CONTROL OF BUILDING WORKS**](#Part-II)
 
-- [4 Application to temporary buildings, etc](#Application-to-temporary-buildings-etc)
+- [4 Application to temporary buildings, etc.](#Application-to-temporary-buildings-etc)
 
 - [5 Prohibition of building works without approval of plans and permit](#Prohibition-of-building-works-without-approval-of-plans-and-permit)
 
@@ -28,7 +26,7 @@
 
 - [8 Supervision of building works](#Supervision-of-building-works)
 
-- [9 Approintment and duties of qualified persons](#Approintment-and-duties-of-qualified-persons)
+- [9 Appointment and duties of qualified persons](#Appointment-and-duties-of-qualified-persons)
 
 - [10 Appointment and duties of site supervisor](#Appointment-and-duties-of-site-supervisor)
 
@@ -62,7 +60,7 @@
 
 - [24 Dangerous building — emergency measures](#Dangerous-building-—-emergency-measures)
 
-- [25 Closure Order](#Closure-Order)
+- [25 Closure order](#Closure-order)
 
 [**Part IV INSPECTION OF BUILDINGS**](#Part-IV)
 
@@ -126,45 +124,25 @@
 
 - [53 Presentation to Parliament](#Presentation-to-Parliament)
 
-- [54 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
+- [54 Transitional provisions](#Transitional-provisions)
 
-- [55 Consequential amendments](#Consequential-amendments)
+[**THE SCHEDULE Building works which do not require approval of plans of building works or permit to carry out building works**](#THE-SCHEDULE)
 
-[**THE SCHEDULE Building Works Which Do Not Require Approval of Plans of Building Works or Permit to Carry Out Building Works**](#THE-SCHEDULE)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+# Building Control Act
 
-GOVERNMENT GAZETTE
+(CHAPTER 29)
 
-ACTS SUPPLEMENT
+(Original Enactment: Act 9 of 1989)
 
-Published by Authority
+REVISED EDITION 1990
 
-NO. 19]
-
-Friday, April 14
-
-[1989
-
-The following Act was passed by Parliament on 16th February 1989 and assented to by the President on 22nd March 1989:—
-
-Building Control Act 1989
-
-(No. 9 of 1989)
-
-I assent.
-
-WEE KIM WEE
-
-President.
-
-22nd March 1989.
-
-Date of Commencement: 1st May 1989
+(15th March 1990)
 
 An Act to consolidate and amend and to make further provision concerning the law relating to buildings, and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st May 1989]
 
 ## PART I
 
@@ -212,9 +190,9 @@ and includes site formation works and any other kind of building operation conne
 
 “certificate of statutory completion” means a certificate of statutory completion issued under section 20;
 
-“common property” has the same meaning as in the Buildings and Common Property (Maintenance and Management) Act (Cap. 30);
+“common property” has the same meaning as in the Buildings and Common Property (Maintenance and Management) Act [Cap. 30];
 
-“competent authority” means the competent authority appointed under section 3 of the Planning Act (Cap. 232);
+“competent authority” means the competent authority appointed under section 3 of the Planning Act [Cap. 232, 1990 Ed.];
 
 “immediate supervision”, in relation to any building works or part thereof, means personally and directly exercising oversight, control and inspection of the carrying out of the building works or part thereof;
 
@@ -226,19 +204,19 @@ and includes site formation works and any other kind of building operation conne
 
 (a) in relation to any premises or building, means the person for the time being receiving the rent of the premises or building, whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises or building were let to a tenant;
 
-(b) in relation to premises to which the Control of Rent Act (Cap. 58) applies, includes the tenant of the premises; and
+(b) in relation to premises to which the Control of Rent Act [Cap. 58] applies, includes the tenant of the premises; and
 
-(c) in relation to the common property of any subdivided building, includes the management corporation established under the Land Titles (Strata) Act (Cap. 158) having control of the building or the person receiving any rent or charge for the maintenance of that common property;
+(c) in relation to the common property of any subdivided building, includes the management corporation established under the Land Titles (Strata) Act [Cap. 158, 1988 Ed.] having control of the building or the person receiving any rent or charge for the maintenance of that common property;
 
 “premises” includes buildings, lands, easements and hereditaments of any tenure;
 
 “qualified person” means a person who is registered as —
 
-(a) an architect under the Architects Act (Cap. 12); or
+(a) an architect under the Architects Act [Cap. 12]; or
 
-(b) a professional engineer under the Professional Engineers Act (Cap. 253);
+(b) a professional engineer under the Professional Engineers Act [Cap. 253];
 
-“repealed Act” means the Building Control Act repealed by this Act (Cap. 29);
+“repealed Act” means the Building Control Act [Cap. 29, 1985 Ed.] repealed by this Act;
 
 “short-lived materials” means any building materials which are, in the absence of special care, liable to rapid deterioration or are otherwise unsuitable for use in the construction of permanent buildings;
 
@@ -272,13 +250,13 @@ and includes site formation works and any other kind of building operation conne
 
 (a) be deemed to be public officers for the purposes of this Act; and
 
-(b) be public servants within the meaning of the Penal Code (Cap. 224).
+(b) be public servants within the meaning of the Penal Code [Cap. 224].
 
 ## PART II
 
 CONTROL OF BUILDING WORKS
 
-### Application to temporary buildings, etc
+### Application to temporary buildings, etc.
 
 4\. This Part shall not apply to —
 
@@ -326,11 +304,11 @@ CONTROL OF BUILDING WORKS
 
 (5) Any approval granted in respect of building works under this section shall automatically lapse —
 
-(a) in cases where written permission has been granted by the competent authority under the Planning Act in respect of any development of land involving the building works, if the written permission lapses pursuant to section 9(7) of that Act (Cap. 232);
+(a) in cases where written permission has been granted by the competent authority under the Planning Act [Cap. 232, 1990 Ed.] in respect of any development of land involving the building works, if the written permission lapses pursuant to section 10(7) of that Act;
 
 (b) if the building works are not commenced within the prescribed period; or
 
-(c) in cases where no written permission is granted under section 9 of the Planning Act (Cap. 232) in respect of those building works, if the building works are suspended for a continuous period of more than 6 months.
+(c) in cases where no written permission is granted under section 9 of the Planning Act in respect of those building works, if the building works are suspended for a continuous period of more than 6 months.
 
 ### Permit to carry out building works
 
@@ -380,7 +358,7 @@ CONTROL OF BUILDING WORKS
 
 (2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day during which the offence continues after conviction.
 
-### Approintment and duties of qualified persons
+### Appointment and duties of qualified persons
 
 9\.—(1) Subject to the provisions of this Act, every person for whom any building works are or are to be carried out shall appoint an appropriate qualified person in respect of those works.
 
@@ -422,7 +400,9 @@ Provided that it shall be a defence in any prosecution for a contravention or no
 
 (2) Where the critical structural works of any building works are required by section 8(1)(c) to be carried out under the immediate supervision of a site supervisor or qualified person, the qualified person appointed under section 9 in respect of the building works may appoint one or more site supervisors in respect of the critical structural works of those building works.
 
-(3) No person shall be appointed as a site supervisor in respect of any building works for the purposes of this Act unless he possesses the prescribed practical experience and qualifications.
+\*(3) No person shall be appointed as a site supervisor in respect of any building works for the purposes of this Act unless he possesses the prescribed practical experience and qualifications.
+
+\*Section 10(3) has not been brought into operation.
 
 (4) If a site supervisor appointed in respect of any building works becomes unwilling or unable, whether by reason of the termination of his appointment or for any other reason, to carry out his duties under subsection (5) —
 
@@ -714,25 +694,25 @@ he may, if he considers it necessary, take such steps as may be necessary for th
 
 (5) In any proceedings to recover expenses under this section, the court shall inquire whether the Building Authority might reasonably have proceeded instead under section 23.
 
-### Closure Order
+### Closure order
 
-25\.—(1) Where the Building Authority makes any order under this Act requiring the closure of any building, the order (referred to in this section as a Closure Order) shall be served on the owner and every occupier of the building.
+25\.—(1) Where the Building Authority makes any order under this Act requiring the closure of any building, the order (referred to in this section as a closure order) shall be served on the owner and every occupier of the building.
 
-(2) Except with the permission in writing of the Building Authority, no person other than a public officer in the course of his duty shall enter or be in a building at any time while a Closure Order is in force in respect of the building and any person who contravenes or fails to comply with this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $200 for every day during which the offence continues after conviction.
+(2) Except with the permission in writing of the Building Authority, no person other than a public officer in the course of his duty shall enter or be in a building at any time while a closure order is in force in respect of the building and any person who contravenes or fails to comply with this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $200 for every day during which the offence continues after conviction.
 
-(3) Where the Building Authority thinks fit, he may, subject to such conditions as he may impose, by notice in writing permit any person to enter and be in a building while a Closure Order is in force in respect of the building.
+(3) Where the Building Authority thinks fit, he may, subject to such conditions as he may impose, by notice in writing permit any person to enter and be in a building while a closure order is in force in respect of the building.
 
 (4) Any permission granted under subsection (3) may be cancelled by the Building Authority at any time and for any reason.
 
-(5) Where a Closure Order is in force in respect of a building —
+(5) Where a closure order is in force in respect of a building —
 
 (a) any police officer may, with such force or assistance as may be necessary, remove therefrom any person who is in the building in contravention of subsection (1); and
 
 (b) the Building Authority may seal, or cause to be sealed, all or any of the entrances to or exits from the building.
 
-(6) A Closure Order shall remain in force in respect of a building until the Building Authority has served a notice of expiry of a Closure Order on the owner of the building by causing the notice to be posted upon a conspicuous part of the building to which it relates and by serving a copy of the notice upon the owner.
+(6) A closure order shall remain in force in respect of a building until the Building Authority has served a notice of expiry of a closure order on the owner of the building by causing the notice to be posted upon a conspicuous part of the building to which it relates and by serving a copy of the notice upon the owner.
 
-(7) Every notice of expiry of a Closure Order shall specify the building to which it relates and the date upon which the Closure Order expires.
+(7) Every notice of expiry of a closure order shall specify the building to which it relates and the date upon which the closure order expires.
 
 ## PART IV
 
@@ -746,13 +726,13 @@ INSPECTION OF BUILDINGS
 
 “owner”, in relation to a subdivided building comprising two or more flats, means —
 
-(a) the management corporation established under the Land Titles (Strata) Act (Cap. 158) having control of the building; or
+(a) the management corporation established under the Land Titles (Strata) Act [Cap. 158, 1988 Ed.] having control of the building; or
 
 (b) the person receiving any rent or charge for the maintenance of the common property of the subdivided building;
 
 “special building” means any building of which not less than 90% of its floor area is used solely for residential purposes, and in this definition, “floor area” means the total area of floor space within the building measured between party walls including the thickness of external walls;
 
-“structural engineer” means a person who is registered as a professional engineer under the Professional Engineers Act (Cap. 253) in the civil or structural engineering discipline.
+“structural engineer” means a person who is registered as a professional engineer under the Professional Engineers Act [Cap. 253] in the civil or structural engineering discipline.
 
 (2) For the purposes of this Part, a building which is physically connected with another building —
 
@@ -936,7 +916,7 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 (4) A certificate purporting to be under the hand of the Building Authority and to be made under subsection (2) and setting forth the amount claimed as due to the Building Authority and the persons as liable for the payment thereof shall be prima facie evidence of the facts certified therein and of the signature of the Building Authority thereto.
 
-(5) If any sum or any part thereof due to the Building Authority under this Act (Cap. 166) remains unpaid at the expiration of one month commencing from the date of service of the certificate under subsection (2), or such further period as the Building Authority may allow, it shall be deemed to be arrears and the provisions of sections 67 to 74 of the Local Government Integration Act shall, mutatis mutandis, apply to its recovery by the Building Authority.
+(5) If any sum or any part thereof due to the Building Authority under this Act remains unpaid at the expiration of one month commencing from the date of service of the certificate under subsection (2), or such further period as the Building Authority may allow, it shall be deemed to be arrears and the provisions of sections 67 to 74 of the Local Government Integration Act [Cap. 166] shall, mutatis mutandis, apply to its recovery by the Building Authority.
 
 ### Recovery of costs and expenses by instalments
 
@@ -998,7 +978,7 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 ### Magistrate’s and District Courts may impose full penalty
 
-47\. Notwithstanding the provisions of the Criminal Procedure Code, a Magistrate’s Court or a District Court shall have power to impose the maximum penalties provided for an offence under this Act (Cap. 68).
+47\. Notwithstanding the provisions of the Criminal Procedure Code [Cap. 68], a Magistrate’s Court or a District Court shall have power to impose the maximum penalties provided for an offence under this Act.
 
 ### General penalty
 
@@ -1112,47 +1092,37 @@ a Magistrate’s Court, upon proof thereof and upon application by the owner, ma
 
 ### Presentation to Parliament
 
-53\. Any order, notification or building regulations made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as may be after publication.
+53\. Any order, notification or building regulations made under this Act shall be presented to Parliament as soon as may be after publication in theGazette.
 
-### Repeal and transitional provisions
+### Transitional provisions
 
-54\.—(1) The Building Control Act is repealed.
+54\.—(1) Any licence, permission, approval or other document prepared, made or granted under the repealed Act and valid immediately prior to 1st May 1989 shall be deemed to have been prepared, made or granted under the corresponding provision of this Act.
 
-(2) Any licence, permission, approval or other document prepared, made or granted under the repealed Act and valid immediately prior to the commencement of this Act shall be deemed to have been prepared, made or granted under the corresponding provision of this Act.
+(2) A valid and subsisting certificate of fitness for occupation issued under regulations made under the repealed Act or a valid and subsisting temporary occupation licence shall have the same force and effect as a certificate of statutory completion or temporary occupation permit, respectively, granted under this Act.
 
-(3) A valid and subsisting certificate of fitness for occupation issued under regulations made under the repealed Act or a valid and subsisting temporary occupation licence shall have the same force and effect as a certificate of statutory completion or temporary occupation permit, respectively, granted under this Act.
+(3) The powers conferred on the Building Authority by this Act may be exercised in respect of any building or structure erected in contravention of, or deemed to be unauthorised under, any written law relating to building control in force before 1st May 1989, and such building or structure shall be deemed to be unauthorised for the purposes of this Act.
 
-(4) The powers conferred on the Building Authority by this Act may be exercised in respect of any building or structure erected in contravention of, or deemed to be unauthorised under, any written law relating to building control in force before the commencement of this Act, and such building or structure shall be deemed to be unauthorised for the purposes of this Act.
-
-(5) Where any written law or document refers expressly or by implication to a temporary occupation licence or to a certificate of fitness for occupation, the reference shall (except where the context otherwise requires) be construed as a reference to a temporary occupation permit or a certificate of statutory completion, respectively.
-
-### Consequential amendments
-
-55\.—(1) Section 2 of the Architects Act (Cap. 12) is amended by deleting the definition of “building authority” and substituting the following definition:
-
-“
-
-“building authority” means any person who is empowered under the Building Control Act 1989 to approve plans of building works;
-
-”.
-
-(2) Section 3(1) of the Local Government Integration Act (Cap. 166) is amended by deleting the definition of “Building Authority” and substituting the following definition:
-
-“
-
-“Building Authority” has the same meaning as in the Building Control Act 1989;
-
-”.
+(4) Where any written law or document refers expressly or by implication to a temporary occupation licence or to a certificate of fitness for occupation, the reference shall (except where the context otherwise requires) be construed as a reference to a temporary occupation permit or a certificate of statutory completion, respectively.
 
 ## THE SCHEDULE
 
-Section 6.
+Section 4
 
-Building Works Which Do Not Require Approval of Plans of Building Works or Permit to Carry Out Building Works
+Building works which do not require
+
+
+
+
+approval of plans of building works or
+
+
+
+
+permit to carry out building works
 
 1. In this Schedule —
 
-“compartment wall” or “compartment floor” mean a wall and a floor, respectively, which is provided for the purpose of dividing a building into compartments to limit the spread of fire or to contain a fire;
+“compartment wall” and “compartment floor” mean a wall and a floor, respectively, which is provided for the purpose of dividing a building into compartments to limit the spread of fire or to contain a fire;
 
 “non-load bearing wall” means a wall which supports no load other than its own weight;
 
@@ -1222,3 +1192,20 @@ Building Works Which Do Not Require Approval of Plans of Building Works or Permi
 
 (b) any smoke control system.
 
+## LEGISLATIVE HISTORY
+
+Building Control Act
+
+(CHAPTER 29)
+
+This Legislative History is provided for the convenience of users of the Building Control Act 1989. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 9 of 1989—Building Control Act 1989**|
+||Date of First Reading|16.1.1989|
+|||(Bill No. 5/89)|
+||Date of Second and Third Readings|16.2.1989|
+||Date of commencement|1 May 1989|
+|2.|**1990 Revised Edition—Building Control Act**|
+||Date of operation|15 March 1990|
