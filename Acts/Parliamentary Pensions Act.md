@@ -80,8 +80,6 @@ PRELIMINARY
 
 “elected Member”, “non-constituency Member” and “nominated Member” shall have the same meanings as in Article 39(1)(a), (b) and (c) of the Constitution, respectively;
 
-[13/95]
-
 “future Member” means a person —
 
 (a) who becomes, by election or appointment, a Member at any time after 1st January 1995 without previously having been, before or after that date, a Member or an office-holding Member;
@@ -96,9 +94,15 @@ PRELIMINARY
 
 and for the purposes of paragraph (c), a Member’s service shall be deemed not broken but continuous if, following the dissolution of Parliament or his seat therein becoming vacant under the provisions of the Constitution, he is elected as a Member at the ensuing general election or the ensuing by-election to fill that vacancy;
 
+“Mayor” means a Mayor appointed under rules made under the People’s Association Act (Cap. 227);
+
+[15/2002 wef 03/10/2002]
+
 “Member” means a Member of Parliament;
 
-“office” means the office of Prime Minister, Deputy Prime Minister, Speaker, Senior Minister, Minister, Senior Minister of State, Minister of State, Senior Parliamentary Secretary, Parliamentary Secretary or Political Secretary;
+“office” means the office of Prime Minister, Deputy Prime Minister, Speaker, Senior Minister, Minister, Senior Minister of State, Minister of State, Mayor, Senior Parliamentary Secretary, Parliamentary Secretary or Political Secretary;
+
+[15/2002 wef 03/10/2002]
 
 “office-holding Member” means a Member who holds or has held any office and includes a Speaker who is not an elected Member of Parliament;
 
@@ -106,13 +110,13 @@ and for the purposes of paragraph (c), a Member’s service shall be deemed not 
 
 “reckonable service”, in relation to service as a Member, means service on and after 3rd June 1959 in Parliament as a Member of Parliament; and in relation to service in any office, means service on and after 3rd June 1959 in that office.
 
+[13/95]
+
 (2) The reference to service in Parliament in the definition of “reckonable service” in subsection (1) shall be read as including a reference to service in the Legislative Assembly on and after 3rd June 1959 and before 9th August 1965.
 
 (3) Where a Speaker is not, or has not been, an elected Member of Parliament for any period, “salary” shall, for that period, mean the salary payable to him in respect of his service as Speaker.
 
 (4) Notwithstanding any other provision of this Act, where for any period a person who is eligible for any pension or other benefit under this Act voluntarily refrains from receiving the whole or any part of any salary due to him in respect of the office held by him, then, in calculating his pension or benefit he shall, for such period, be deemed to have received the full salary to which he was entitled as holder of that office.
-
-[13/95]
 
 ## PART II
 
@@ -122,6 +126,8 @@ PENSIONS AND GRATUITIES FOR MEMBERS, MINISTERS AND OTHER OFFICE-HOLDERS
 
 2A\.—(1) Unless otherwise expressly provided, a future Member shall not be eligible for any pension or gratuity under the provisions of this Act in respect of his reckonable service as a future Member, including any period which may be counted as such service by virtue of section 6.
 
+[13/95]
+
 (2) For the avoidance of doubt —
 
 (a) a future Member who holds any office shall remain eligible for a pension under the provisions of this Act in respect of his reckonable service in that office; and
@@ -129,8 +135,6 @@ PENSIONS AND GRATUITIES FOR MEMBERS, MINISTERS AND OTHER OFFICE-HOLDERS
 (b) a person who, on the date immediately before he becomes a future Member, has the minimum period of reckonable service as a Member to be eligible for a pension under section 3 (including any period of reckonable service which may be counted by virtue of section 6), shall remain eligible for a pension under the provisions of this Act in respect of his reckonable service as a Member as of that date.
 
 (3) Any person who on 1st January 1995 is a nominated Member shall not be eligible for a pension under the provisions of this Act in respect of his service as a Member on or after that date.
-
-[13/95]
 
 ### Pensions in respect of service as Members
 
@@ -184,6 +188,8 @@ PENSIONS AND GRATUITIES FOR MEMBERS, MINISTERS AND OTHER OFFICE-HOLDERS
 
 he may be granted a pension under that section notwithstanding the fact that he has not ceased to hold office.
 
+[18/82]
+
 (2) Subject to sections 13 and 15, a pension granted under section 4 to an office-holding Member by virtue of this section shall continue for the life of the person to whom it is payable and shall, when he ceases to hold office, be re-computed under subsection (2) of that section with the addition of his further period of reckonable service as an office-holding Member to the period of reckonable service which has been used in computing his pension.
 
 (3) Where a person has been granted a pension under section 4 after ceasing to hold office and —
@@ -194,11 +200,11 @@ he may be granted a pension under that section notwithstanding the fact that he 
 
 the pension shall, notwithstanding subsection (3) of that section, continue to be payable to him and shall, at the end of his further period as an office-holding Member, be re-computed with the addition of that further period to the period of his former reckonable service as an office-holding Member.
 
-[18/82]
-
 ### Service in office, if less than 8 years, to be counted as additional service for Member’s pension
 
 6\.—(1) This section shall apply to a Member (other than a future Member) who has served as an office-holding Member for any period which is less than the minimum period of reckonable service specified in section 4 to be eligible for a pension under that section.
+
+[13/95]
 
 (2) The period of service of a Member to whom this section applies shall, for the purposes of determining his eligibility and of computing the amount of the pension payable to him under section 3(1) and (2), be deemed to be increased by such period as may be determined in accordance with the following provisions:
 
@@ -206,11 +212,11 @@ the pension shall, notwithstanding subsection (3) of that section, continue to b
 
 (b) for every year of reckonable service as Senior Minister of State or Minister of State there shall be added to his period of service one year of reckonable service as a Member;
 
-(c) for every year of reckonable service as a Senior Parliamentary Secretary, Parliamentary Secretary or Political Secretary there shall be added to his period of service two-thirds (⅔) of a year of reckonable service as a Member;
+(c) for every year of reckonable service as a Mayor, Senior Parliamentary Secretary, Parliamentary Secretary or Political Secretary there shall be added to his period of service two-thirds (⅔) of a year of reckonable service as a Member;
+
+[15/2002 wef 03/10/2002]
 
 (d) for any fraction of a year of reckonable service in any office there shall be added to his period of service a proportionate part of the appropriate period of reckonable service as a Member.
-
-[13/95]
 
 ### Commutation of pensions
 
@@ -241,6 +247,8 @@ in respect of his reckonable service as a Member (other than as a future Member)
 (ii) a commuted pension gratuity without any pension,
 
 in respect of his further service as an office-holding Member.
+
+[13/95]
 
 (2) The option referred to in subsection (1) shall be exercisable —
 
@@ -308,6 +316,8 @@ this section shall remain applicable to such person but only in respect of that 
 
 10\.—(1) Where after 1st September 1978 a Member dies while serving as a Member or a Member, having opted under section 7 to receive a full pension without any gratuity, dies within one year of his pension taking effect there may be paid to such of his dependants as the President may think fit or, if there are no dependants, to his legal personal representatives a gratuity in accordance with this section.
 
+[13/95]
+
 (2) In the case of a Member who had never held any office the gratuity shall be an amount equal either to his annual salary as defined in section 3(4) or the commuted pension gratuity which might have been granted to him under section 7(4) (as modified by this section), whichever is the greater, less any sums already received by him by way of pension and gratuity under this Act during his lifetime.
 
 [13/95]
@@ -349,8 +359,6 @@ less any sums already received by him by way of pension or gratuity under this A
 [13/95]
 
 (6) No gratuity paid under this section shall be subject to estate duty under the Estate Duty Act [Cap. 96].
-
-[13/95]
 
 ### Pension and gratuity granted on incapacity or death of former Member
 
@@ -400,7 +408,7 @@ and shall not be liable to be attached, sequestered or levied upon for or in res
 
 (2) It shall be lawful for the President to reduce or altogether to withhold any pension or gratuity which has been granted to a person under this Act, or for which he has become eligible, where such person has been convicted by any court of an offence (even if only a fine and no term of imprisonment has been imposed) —
 
-(a) under the Prevention of Corruption Act (Cap. 241); or
+(a) under the Prevention of Corruption Act [Cap. 241]; or
 
 (b) involving corruption under any other written law.
 
@@ -424,7 +432,7 @@ and shall not be liable to be attached, sequestered or levied upon for or in res
 
 ### Pensions and gratuities to be paid out of Pension Fund
 
-16\. There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act (Cap. 224A) all sums of money payable by way of pension or gratuity in accordance with this Act.
+16\. There shall be charged on and paid out of the Pension Fund established by the Pension Fund Act [Cap. 224A] all sums of money payable by way of pension or gratuity in accordance with this Act.
 
 [8/95]
 
@@ -446,7 +454,7 @@ and shall not be liable to be attached, sequestered or levied upon for or in res
 
 ### Saving
 
-18\.—(1) Notwithstanding the repeal of the Parliamentary Pensions Act (Cap. 51, 1970 Ed.) (referred to in this section as the repealed Act), the provisions of the repealed Act in force immediately before 1st September 1978 shall be construed and shall have effect as if it had not been repealed by this Act in the case of any person who —
+18\.—(1) Notwithstanding the repeal of the Parliamentary Pensions Act [Cap. 51, 1970 Ed.] (referred to in this section as the repealed Act), the provisions of the repealed Act in force immediately before 1st September 1978 shall be construed and shall have effect as if it had not been repealed by this Act in the case of any person who —
 
 (a) on 1st September 1978 is in receipt of a pension under the repealed Act; or
 
@@ -498,3 +506,8 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|1 January 1995|
 |6.|**1996 Revised Edition—Parliamentary Pensions Act**|
 ||Date of operation|30 April 1996|
+|7.|**Act 15 of 2002—Parliamentary Pensions (Amendment) Act 2002**|
+||Date of First Reading|4 April 2002|
+|||(Bill No. 3/2002 published on 5 April 2002)|
+||Date of Second and Third Readings|8 July 2002|
+||Date of commencement|3 October 2002|
