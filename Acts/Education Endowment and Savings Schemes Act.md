@@ -166,7 +166,17 @@ EDUCATION ENDOWMENT SCHEME
 
 ### Establishment of Edusave Pupils Fund
 
-7\.—(1) For the purposes of this Act, there shall be established a fund to be called the Edusave Pupils Fund into which shall be paid all contributions made under section 9 and all income of that Fund and out of which shall be met all payments authorised to be paid under this Act.
+7\.—(1) For the purposes of this Act, there shall be established a fund to be called the Edusave Pupils Fund into which shall be paid —
+
+(a) all contributions under section 9;
+
+(b) all income of that Fund; and
+
+(c) all moneys to be transferred to a member’s Edusave account under the Children Development Co-Savings Act 2001,
+
+and out of which shall be met all payments authorised to be paid under this Act.
+
+[Act 13/2001 wef 01/04/2001]
 
 (2) The Board shall administer the Edusave Pupils Fund on behalf of the Minister and all moneys belonging to that Fund may be —
 
@@ -389,3 +399,9 @@ This Legislative History is provided for the convenience of users of the Educati
 ||Date of commencement|1 January 1993|
 |2.|**1993 Revised Edition—Education Endowment Scheme Act (Chapter 87A)**|
 ||Date of commencement|15 March 1993|
+|3.|**Act 13 of 2001—Children Development Co-Savings Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 February 2001|
+|||(Bill No. 13/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|16 March 2001|
+||Date of commencement|1 April 2001|
