@@ -32,6 +32,8 @@
 
 - [10 Measures and procedures for investigation into diseases and treatment of infected persons](#Measures-and-procedures-for-investigation-into-diseases-and-treatment-of-infected-persons)
 
+- [10A Offence for supplying false or misleading information](#Offence-for-supplying-false-or-misleading-information)
+
 - [11 Treatment of premises or vessel](#Treatment-of-premises-or-vessel)
 
 - [12 Destruction and disposal of infected animals, food and water](#Destruction-and-disposal-of-infected-animals-food-and-water)
@@ -54,7 +56,7 @@
 
 [**Part IIIA CONTROL OF AIDS**](#Part-IIIA)
 
-- [20A Person with AIDS to undergo counselling, etc](#Person-with-AIDS-to-undergo-counselling-etc)
+- [20A Person with AIDS to undergo counselling, etc.](#Person-with-AIDS-to-undergo-counselling-etc)
 
 - [20B Sexual intercourse by person with AIDS](#Sexual-intercourse-by-person-with-AIDS)
 
@@ -202,7 +204,7 @@ PRELIMINARY
 
 “AIDS” means Acquired Immune Deficiency Syndrome;
 
-[5/92 wef 01/04/1992]
+[Act 5/92 wef 1.4.92 vide S 153/92]
 
 “baggage” means the personal effects of a traveller or of a crew member of a vessel;
 
@@ -223,6 +225,10 @@ PRELIMINARY
 “food establishment” means any place or any premises or part thereof used for the sale or for the preparation or manufacture for sale, or for the storage or packing for sale, of food, whether cooked or not, intended for human consumption;
 
 “Health Officer” means any medical practitioner in the service of the Government who for the time being is carrying out the duties of a Health Officer arising out of or is connected with this Act or the regulations made thereunder;
+
+“HIV Infection” means Human Immunodeficiency Virus Infection;
+
+[13/99 wef 01/04/1999]
 
 “infected” means infected with the germs of an infectious disease;
 
@@ -246,9 +252,9 @@ PRELIMINARY
 
 “owner”, in relation to any premises or vessel, means the person for the time being receiving the rent of the premises or vessel whether on his own account or as agent, trustee or receiver or who would receive the same if the premises or the vessel were let or chartered;
 
-“port” means any place in Singapore and any navigable river or channel leading into such place declared to be a port under the Maritime and Port Authority of Singapore Act 1996 and includes an airport;
+“port” means any place in Singapore and any navigable river or channel leading into such place declared to be a port under the Marititme and Port Authority of Singapore Act 1996 and includes an airport;
 
-[7/96 wef 02/02/1996]
+[Act 7/96 wef 02/02/1996 vide S 42/96]
 
 “Port Health Officer” means any Health Officer in charge of a port and includes his deputies and assistants;
 
@@ -262,7 +268,7 @@ PRELIMINARY
 
 “quarantine anchorage” means any area of the port which has been appointed for the time being for the quarantine of vessels and declared to be a quarantine anchorage by the Maritime and Port Authority of Singapore.
 
-[7/96 wef 02/02/96]
+[Act 7/96 wef 02/02/1996]
 
 “quarantine station” means any island, building or place where quarantine is carried out;
 
@@ -314,7 +320,7 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 7\.—(1) The Director may from time to time undertake epidemiological surveys of people, animals or vectors in order to determine the existence, prevalence or incidence of any infectious disease or any other disease which the Minister, by notification in theGazette, declares to be a disease to which this section applies.
 
-[5/92 wef 01/04/1992]
+[Act 5/92 wef 01/04/1992]
 
 (2) In investigating any disease the Director may require —
 
@@ -322,7 +328,7 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 (b) any person to submit to such medical examination as he thinks fit.
 
-[5/92 wef 01/04/1992]
+[Act 5/92 wef 01/04/1992]
 
 (3) Any person who fails without reasonable excuse to furnish any information or to submit to any medical examination required under this section shall be guilty of an offence.
 
@@ -343,6 +349,20 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 10\.—(1) The Director may by order prescribe any general or specific measures or procedures for investigating into any infectious disease and for the treatment of any infected person, and all medical practitioners shall comply with such order.
 
 (2) A medical practitioner who fails to comply with the provisions of any order made under subsection (1) shall be guilty of an offence.
+
+### Offence for supplying false or misleading information
+
+10A\.—(1) Any person who —
+
+(a) donates any blood or blood product at any blood bank or hospital in Singapore for any use or purpose; and
+
+(b) directly in connection with such donation of blood or blood product, supplies any material information which he knows to be false or misleading,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(2) For the purposes of this section, “material information” means any information directly relating to the likelihood of transmission of an infectious disease by the use of any blood or blood product.
+
+[13/99 wef 01/04/1999]
 
 ### Treatment of premises or vessel
 
@@ -414,9 +434,9 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 CONTROL OF AIDS
 
-### Person with AIDS to undergo counselling, etc
+### Person with AIDS to undergo counselling, etc.
 
-20A\.—(1) The Director may require any person who has been diagnosed as having AIDS or as having been infected with the Human Immunodeficiency Virus —
+20A\.—(1) The Director may require any person who has been diagnosed as having AIDS or HIV Infection —
 
 (a) to undergo counselling by a registered medical practitioner; and
 
@@ -424,13 +444,13 @@ CONTROL OF AIDS
 
 (2) Any person who fails or refuses to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[5/92 wef 01/04/1992]
+[Act 5/92 wef 01/04/1992]
 
 ### Sexual intercourse by person with AIDS
 
-20B\.—(1) A person who knows that he has AIDS or that he has been infected with the Human Immunodeficiency Virus shall not have sexual intercourse with another person unless, before the sexual intercourse takes place, the other person —
+20B\.—(1) A person who knows that he has AIDS or HIV Infection shall not have sexual intercourse with another person unless, before the sexual intercourse takes place, the other person —
 
-(a) has been informed of the risk of contracting AIDS from him or of being infected with the Human Immunodeficiency Virus; and
+(a) has been informed of the risk of contracting AIDS or HIV Infection from him; and
 
 (b) has voluntarily agreed to accept that risk.
 
@@ -438,33 +458,27 @@ CONTROL OF AIDS
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(4) In this section,
-
-“sexual intercourse” means —
+(4) In this section, “sexual intercourse” means —
 
 (a) sexual connection occasioned by the introduction into the vagina, anus or mouth of any person of any part of the penis of another person; or
 
 (b) cunnilingus.
 
-(5) For the purposes of this section and section 20C, a person shall be deemed to know that he has AIDS or has been infected with the Human Immunodeficiency Virus if a serological test or any other prescribed test for the purpose of ascertaining the presence of Human Immunodeficiency Virus carried out on him has given a positive result and the result was communicated to him.
-
-[5/92 wef 01/04/1992]
+(5) For the purposes of this section and section 20C, a person shall be deemed to know that he has AIDS or HIV Infection if a serological test or any other prescribed test for the purpose of ascertaining the presence of HIV Infection carried out on him has given a positive result and the result was communicated to him.
 
 ### Blood donation and other acts by persons with AIDS
 
-20C\.—(1) Any person who knows that he has AIDS or that he has been infected with the Human Immunodeficiency Virus shall not —
+20C\.—(1) Any person who knows that he has AIDS or HIV Infection shall not —
 
 (a) donate blood at any blood bank in Singapore; or
 
-(b) do any act which is likely to transmit or spread AIDS to another person or cause another person to be infected with the Human Immunodeficiency Virus.
+(b) do any act which is likely to transmit or spread AIDS or HIV Infection to another person.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-[5/92 wef 01/04/1992]
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 ### Protection of identity of person with AIDS or other sexually transmitted disease
 
-20D\.—(1) Any person who in the performance or exercise of his functions or duties under this Act is aware or has reasonable grounds for believing that another person has AIDS or is infected with the Human Immunodeficiency Virus or is suffering from a sexually transmitted disease or is a carrier of that disease shall not disclose any information which may identify the other person except —
+20D\.—(1) Any person who in the performance or exercise of his functions or duties under this Act is aware or has reasonable grounds for believing that another person has AIDS or HIV Infection or is suffering from a sexually transmitted disease or is a carrier of that disease shall not disclose any information which may identify the other person except —
 
 (a) with the consent of the other person;
 
@@ -476,13 +490,105 @@ CONTROL OF AIDS
 
 (e) to blood, organ, semen or breast milk banks that have received or will receive any blood, organ, semen or breast milk from the other person;
 
-(f) for statistical reports and epidemiological purposes if the information is used in such a way that the identity of the other person is not made known; or
+(f) for statistical reports and epidemiological purposes if the information is used in such a way that the identity of the other person is not made known;
 
-(g) to the victim of a sexual assault by the other person.
+(g) to the victim of a sexual assault by the other person ;
+
+(h) to the Controller of Immigration for the purposes of the Immigration Act (Cap.133);
+
+[13/99 wef 01/04/1999]
+
+(i) to the next-of-kin of the other person upon the death of such person;
+
+[13/99 wef 01/04/1999]
+
+(j) to any person or class of persons to whom, in the opinion of the Director, it is in the public interest that the information be given; or
+
+[13/99 wef 01/04/1999]
+
+(k) when authorised by the Minister to publish such information for the purposes of public health or public safety.
+
+[13/99 wef 01/04/1999]
 
 (2) Any person who contravenes or fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
-[5/92 wef 01/04/1992]
+(3) The Director may disclose any information relating to any person whom he reasonably believes to be infected with AIDS or HIV Infection to —
+
+(a) any medical practitioner or other health staff who has been exposed to a risk of infection from AIDS or HIV Infection; or
+
+(b) any first responder who has experienced a significant exposure to blood or other potentially infectious materials of any patient.
+
+[13/99 wef 01/04/1999]
+
+(4) For the purposes of subsection (3), “first responder” means any police officer, member of the Singapore Civil Defence Force or any person who provides emergency response, first aid care or other medically related assistance either in the course of the person’s occupational duties or as a volunteer.
+
+[13/99 wef 01/04/1999]
+
+(5) Subject to subsection (6), a medical practitioner may disclose information relating to any person whom he reasonably believes to be infected with AIDS or HIV Infection to the spouse, former spouse or other contact of the infected person or to a Health Officer for the purpose of making the disclosure to the spouse, former spouse or other contact.
+
+[13/99 wef 01/04/1999]
+
+(6) The medical practitioner shall not disclose any information under subsection (5) unless —
+
+(a) he reasonably believes that it is medically appropriate and that there is a significant risk of infection to the spouse, former spouse or other contact;
+
+(b) he has counselled the infected person regarding the need to notify the spouse, former spouse or other contact and he reasonably believes that the infected person will not inform the spouse, former spouse or other contact; and
+
+(c) he has informed the infected person of his intent to make such disclosure to the spouse, former spouse or other contact.
+
+[13/99 wef 01/04/1999]
+
+(7) Where the medical practitioner is unable, by any reasonable means, to counsel or inform the infected person, he may apply to the Director to waive the requirements of subsection (6)(b) or (c) or both.
+
+[13/99 wef 01/04/1999]
+
+(8) The Director may approve the application made under subsection (7) if, in the opinion of the Director, it is medically appropriate to disclose the information and that there is a significant risk of infection to the spouse, former spouse or other contact.
+
+[13/99 wef 01/04/1999]
+
+(9) No person, to whom any information relating to a person who is reasonably believed to be infected with AIDS or HIV Infection has been disclosed under this section, shall disclose such information to any person other than the persons specified in subsection (10) or as provided in subsection (12).
+
+[13/99 wef 01/04/1999]
+
+(10) The persons referred to in subsection (9) are —
+
+(a) the infected person himself;
+
+(b) a person who is authorised under subsection (14) to consent to such disclosure; and
+
+(c) any person who is authorised to disclose such information under subsection (1), (3), (5) or (8).
+
+[13/99 wef 01/04/1999]
+
+(11) Any person who fails to comply with or contravenes subsection (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[13/99 wef 01/04/1999]
+
+(12) A person, to whom any information relating to a person who is reasonably believed to be infected with AIDS or HIV Infection has been disclosed under this section, may apply to the Director for approval to disclose such information to any person or class of persons.
+
+[13/99 wef 01/04/1999]
+
+(13) The Director may approve the application under subsection (12) if he is satisfied that such disclosure is in the interests of public health or public safety.
+
+[13/99 wef 01/04/1999]
+
+(14) For the purposes of subsection (1)(a), the consent of the other person includes —
+
+(a) if such person has died, the written consent of that person’s spouse, personal representative, administrator or executor;
+
+(b) if such person is below the age of 16 years, the written consent of a parent or legal guardian of that person; and
+
+(c) if, in the opinion of the medical practitioner who undertook the test for HIV Infection for such person, he has a disability by reason of which he appears incapable of giving consent, the written consent in the following order, of —
+
+(i) a legal guardian of that person;
+
+(ii) the spouse of that person;
+
+(iii) a parent of that person; or
+
+(iv) an adult child of that person.
+
+[13/99 wef 01/04/1999]
 
 ## PART IV
 
@@ -812,7 +918,7 @@ Provided that no person so arrested shall be detained longer than is necessary f
 
 60\. Any person who is guilty of an offence under this Act for which no penalty is otherwise prescribed shall be liable on conviction to a fine not exceeding $5,000 and in the case of a second or subsequent like offence shall be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[5/92 wef 01/04/1992]
+[Act 5/92]
 
 ### Offences triable by Magistrate’s Court unless otherwise provided
 
@@ -928,10 +1034,6 @@ Syphilis.
 
 [S 119/90 wef 01/04/1990]
 
-(v) Human Immunodeficiency Virus Infection.
-
-[S 403/1998 wef 15/08/1998]
-
 SECOND SCHEDULE
 
 Sections 2 and 65.
@@ -1015,3 +1117,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|2 February 1996|
 |12.|**G. N. No. S 403/1998—Infectious Diseases Act (Amendment of First Schedule) Notification 1998**|
 ||Date of commencement|15 August 1998|
+|13.|**Act 13 of 1999—Infectious Diseases (Amendment) Act 1999**|
+||Date of First Reading|11 February 1999|
+|||(Bill No. 7/99 published on 12 February 1999)|
+||Date of Second and Third Readings|26 February 1999|
+||Date of commencement|1 April 1999|
