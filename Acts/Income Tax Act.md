@@ -1976,7 +1976,7 @@ as the case may be.
 
 (a) only apply to income received on or after 1st January 1991;
 
-(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43Kor section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86]; and
+(b) not apply to income on which tax has been levied at the rate of 10% or such other concessionary rate as may be prescribed under section 43A, 43C, 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K or section 19B of the Economic Expansion Incentives (Relief from Income Tax) Act [Cap. 86]; and
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -2392,7 +2392,7 @@ an amount equal to the excess medical expenses shall be deemed to be income of t
 
 [26/93]
 
-(3A) As soon as any amount of further deduction is allowed to any company under this, a sum equal to that amount shall be credited to an account (referred to in this section as the further deduction account) to be kept by the company for the purposes of any of those sections.
+(3A) As soon as any amount of further deduction is allowed to any company under this , a sum equal to that amount shall be credited to an account (referred to in this section as the further deduction account) to be kept by the company for the purposes of any of those sections.
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -2402,13 +2402,13 @@ an amount equal to the excess medical expenses shall be deemed to be income of t
 
 (a) debit from that account such amount as would have been the chargeable income had the further deduction not been allowed or the amount of the credit in that account, whichever is the less; and
 
-(b) credit the amount debited under paragraph (a) to an account to be called a tax exempt account which shall be kept by the company for the purposes of this,
+(b) credit the amount debited under paragraph (a) to an account to be called a tax exempt account which shall be kept by the company for the purposes of this ,
+
+[Act 31/98, Wef 14/08/1998]
 
 and any remaining balance in the further deduction account shall be carried forward to be used by the company in the first subsequent year of assessment when the company has chargeable income had the further deduction not been allowed, and so on for subsequent years of assessment until the credit in the further deduction account has been fully used.
 
 [28/92]
-
-[Act 31/98, Wef 14/08/1998]
 
 (3C) Where a tax exempt account of a company is in credit at the date on which any dividends are paid by the company out of the amount credited to that account, an amount equal to those dividends or to that credit, whichever is the less, shall be debited to the tax exempt account.
 
@@ -2420,7 +2420,7 @@ and any remaining balance in the further deduction account shall be carried forw
 
 (3E) Notwithstanding anything in this section, where it appears to the Comptroller that in any year of assessment —
 
-(a) any further deduction which has been allowed under this section; or
+(a) any further deduction which has been allowed under this section, section ; or
 
 [Act 31/98, Wef 14/08/1998]
 
@@ -6862,9 +6862,7 @@ Cap. 227.
 
 Cap. 230.
 
-38. Port of Singapore Authority
-
-Cap. 236.
+38.Deleted by S 485/99, wef 30/09/1997
 
 39. Post Office Savings Bank of Singapore
 
@@ -6941,8 +6939,6 @@ Cap. 330.
 56. Urban Redevelopment Authority
 
 Cap. 340.
-
-[S 372/98 wef 01/01/1997]
 
 B. Clubs, corporations and institutions in Singapore:
 
@@ -8344,3 +8340,5 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 29/98 published on 30 June 1998)|
 ||Date of Second and Third Readings|31 July 1998|
 ||Date of commencement|1 January 1997 (Section 13(a), (e), (f)|
+|123.|**G.N. No. S 485/99—Income Tax Act (Amendment of First Schedule) (No. 2) Order 1999**|
+||Date of commencement|30 September 1997|
