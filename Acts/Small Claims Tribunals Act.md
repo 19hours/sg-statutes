@@ -474,13 +474,23 @@ ESTABLISHMENT AND JURISDICTION OF TRIBUNALS
 
 (e) a management corporation under the Land Titles (Strata) Act (Cap. 158), a member of its council or a full-time employee of its managing agent may present the case on its behalf;
 
-(fg) a minor and is, in the opinion of the Registrar or tribunal, unable to present his own case, his parent or guardian or any other person as may be approved by the Registrar or tribunal may present the case on his behalf;
+(f) the Council of the Singapore Business Federation as referred to in the Singapore Business Federation Act 2001, one of the members of the Council or any employee of the Federation duly authorised by the Council may present the case on the Council’s behalf;
 
-(gh) a person who is not resident in Singapore and who is unable to remain in Singapore until the hearing of the case, any other person who is duly authorised by him in writing may, with the approval of the Registrar or tribunal, present the case on his behalf; and
+[40/2002 wef 01/04/2002 ]
 
-(hi) a person who is, in the opinion of the Registrar or tribunal, unable to present his own case by reason of old age, illiteracy or infirmity of mind or body, any other person who is duly authorised by him in writing or who is approved by the Registrar or tribunal may present the case on his behalf.
+(g) a minor and is, in the opinion of the Registrar or tribunal, unable to present his own case, his parent or guardian or any other person as may be approved by the Registrar or tribunal may present the case on his behalf;
+
+[40/2002 wef 01/04/2002]
+
+(h) a person who is not resident in Singapore and who is unable to remain in Singapore until the hearing of the case, any other person who is duly authorised by him in writing may, with the approval of the Registrar or tribunal, present the case on his behalf; and
+
+[40/2002 wef 01/04/2002]
+
+(i) a person who is, in the opinion of the Registrar or tribunal, unable to present his own case by reason of old age, illiteracy or infirmity of mind or body, any other person who is duly authorised by him in writing or who is approved by the Registrar or tribunal may present the case on his behalf.
 
 [31/92; 17/95]
+
+[40/2002 wef 01/04/2002]
 
 (3) No party to any proceedings before a tribunal shall be represented by an advocate and solicitor or, except as provided by subsection (2), an agent, whether paid or otherwise.
 
@@ -904,3 +914,9 @@ This Legislative History is provided for the convenience of users of the Small C
 ||Date of commencement|16 March 1998|
 |9.|**1998 Revised Edition—Small Claims Tribunals Act**|
 ||Date of operation|15 December 1998|
+|10.|**Act 40 of 2001—Singapore Business Federation Act 2001**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 September 2001|
+|||(Bill No. 40/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 April 2002|
