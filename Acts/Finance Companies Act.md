@@ -134,6 +134,8 @@
 
 - [52 Fiat of Attorney-General](#Fiat-of-Attorney-General)
 
+- [52A Jurisdiction of District Court](#Jurisdiction-of-District-Court)
+
 - [53 Exemptions](#Exemptions)
 
 - [54 Winding up provisions](#Winding-up-provisions)
@@ -252,7 +254,7 @@ LICENSING OF FINANCE COMPANIES
 
 [33/84]
 
-(3) Upon the conviction of any person under subsection (2), a District Courtshall have power to order the production of any books, accounts and records to the Authority.
+(3) Upon the conviction of any person under subsection (2), the court shall have power to order the production of any books, accounts and records to the Authority.
 
 [9/2003 wef 16/05/2003]
 
@@ -1280,7 +1282,9 @@ but whose memorandum or articles of association do not include all or any of the
 
 (b) fails to ensure or to take all reasonable steps to ensure the accuracy and correctness of any statement or information submitted under this Act or any other law relating to finance companies in force in Singapore,
 
-shall be guilty of an offence and shall be liable on conviction by a District Court to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[9/2003 wef 16/05/2003]
 
 [33/84]
 
@@ -1313,6 +1317,12 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 ### Fiat of Attorney-General
 
 52\. No prosecution in respect of any offence under this Act shall be instituted except by, or under the direction of, the Attorney-General acting upon a complaint made by the Authority.
+
+### Jurisdiction of District Court
+
+52A\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[9/2003 wef 16/05/2003]
 
 ### Exemptions
 
@@ -1440,6 +1450,11 @@ This Legislative History is provided for the convenience of users of the Finance
 |||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|1 October 2002 (Item (8) of Fourth Schedule — Amendment to Finance Companies Act)|
+|13.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+||Date of First Reading|20 March 2003|
+|||(Bill No. 7/2003 published on 21 March 2003)|
+||Date of Second and Third Readings|24 April 2003|
+||Date of commencement|16 May 2003|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
