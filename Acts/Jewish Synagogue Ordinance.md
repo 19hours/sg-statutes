@@ -82,7 +82,7 @@ It is hereby enacted by the Governor of the Straits Settlements with the advice 
 
 ### When to be forfeited
 
-(2) So soon as the said piece of land ceases to be used for such purpose it shallipso factorevert to Her Majesty.
+(2) So soon as the said piece of land ceases to be used for such purpose it shallipso factorevert to the Government.
 
 ### Conveyance to state trust
 
@@ -120,3 +120,9 @@ This Legislative History is provided for the convenience of users of the Jewish 
 ||Date of commencement|14 August 1985|
 |5.|**1985 Revised Edition—Jewish Synagogue Ordinance**|
 ||Date of operation|30 March 1987|
+|6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+||(Consequential amendments made by)||
+||Date of First Reading|11 July 1997|
+|||(Bill No. 6/1997 published on 12 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|1 October 1997 (item (21) in the First Schedule)|
