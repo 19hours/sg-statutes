@@ -56,6 +56,8 @@
 
 - [22 Admittance to polling station](#Admittance-to-polling-station)
 
+- [22A Voting by overseas electors](#Voting-by-overseas-electors)
+
 - [23 Poll by ballot and ballot papers](#Poll-by-ballot-and-ballot-papers)
 
 - [24 Ballot boxes](#Ballot-boxes)
@@ -78,7 +80,19 @@
 
 - [32 Counting votes](#Counting-votes)
 
+- [32A Counting of votes by overseas electors](#Counting-of-votes-by-overseas-electors)
+
+- [32B Recounting of votes](#Recounting-of-votes)
+
 - [33 Votes to be rejected](#Votes-to-be-rejected)
+
+- [33A Approval of DRE voting systems](#Approval-of-DRE-voting-systems)
+
+- [33B Approval of DRE voting machines and equipment](#Approval-of-DRE-voting-machines-and-equipment)
+
+- [33C Pre-poll testing of DRE voting system, etc.](#Pre-poll-testing-of-DRE-voting-system-etc)
+
+- [33D](#)
 
 - [34 Publication of result and statement of poll in theGazette](#Publication-of-result-and-statement-of-poll-in-theGazette)
 
@@ -226,9 +240,35 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
+“ballot box” includes a ballot container;
+
+[19/2001 wef 15/05/2001]
+
+“ballot display” means an electronic video display, image or representation of a ballot paper on a screen;
+
+[19/2001 wef 15/05/2001]
+
 “candidate” means a person who is nominated as a candidate for election to the office of President;
 
 “Commissioner of National Registration” means the Commissioner of National Registration appointed under the National Registration Act (Cap. 201);
+
+“direct recording electronic voting machine” or “DRE voting machine” means any mechanical, electronic or electro-optical machine that an —
+
+(a) be activated by a voter to mark or record his vote for any candidate or group of candidates on a ballot display on the machine;
+
+(b) process the vote by means of a computer program;
+
+(c) instantaneously record and store that vote within a memory device within the machine; and
+
+(d) sort and count votes marked or recorded on all ballot displays on that machine,
+
+and includes any computer program that is used in the operation of the machine;
+
+[19/2001 wef 15/05/2001]
+
+“direct recording electronic voting system” or “DRE voting system” means any voting system using DRE voting machines;
+
+[19/2001 wef 15/05/2001]
 
 “election” means an election for the purpose of electing the President;
 
@@ -240,7 +280,19 @@ PRELIMINARY
 
 “electoral division” means an electoral division specified in a notification for the time being in force under section 8 of the Parliamentary Elections Act (Cap. 218);
 
+“overseas elector” means an elector who is registered under the Parliamentary Elections Act (Cap. 218) in any register of electors as an overseas elector;
+
+[19/2001 wef 15/05/2001]
+
+“overseas polling station” means such premises within an embassy, High Commission, diplomatic mission or consulate of Singapore situated in any territory outside Singapore approved under section 36A(2) of the Parliamentary Elections Act to be an overseas polling station;
+
+[19/2001 wef 15/05/2001]
+
 “polling district” means a part of an electoral division subdivided under section 9 of the Parliamentary Elections Act;
+
+“polling station” means any polling station established by or under the authority of the Returning Officer under section 18 for voters to cast their votes at an election, and includes any overseas polling station;
+
+[19/2001 wef 15/05/2001]
 
 “Presidential Elections Committee” means the Presidential Elections Committee established under Article 18 of the Constitution;
 
@@ -466,6 +518,14 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 (a) the date on which the poll will be taken, being a date not less than 9 days or more than 8 weeks after the date of publication of the notice in theGazette(referred to in this Act as polling day);
 
+(aa) whether a direct recording electronic voting system will be used at the poll and if so, a brief description of the system and the electoral division which will use the system at the poll;
+
+[19/2001 wef 15/05/2001]
+
+(ab) the day and hours of the poll at every overseas polling station;
+
+[19/2001 wef 15/05/2001]
+
 (b) the names of the candidates in the order in which they will be printed on the ballot papers, the symbol allotted to each candidate, and the names of their proposers and seconders; and
 
 (c) the locations of the polling stations.
@@ -486,11 +546,23 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 ### Polling districts and polling stations
 
-18\.—(1) The Returning Officer shall provide as many polling stations for a polling district as are in his opinion sufficient for that polling district and may in his discretion provide as many polling places within each polling station as he considers necessary.
+18\.—(1) The Returning Officer shall, for the purposes of the poll in any electoral division —
 
-(2) The Returning Officer may use, free of charge, as a polling station any school or part thereof for the purposes of any election.
+(a) establish a sufficient number of polling stations within each polling district of the electoral division for the conduct of the poll;
 
-(3) The Returning Officer shall make good any damage done to, and defray any expenses incurred by the persons having control over, any school or part thereof by reason of its being used as a polling station.
+(b) provide as many polling places within each polling station as he considers necessary; and
+
+(c) allot the electors (including overseas electors) to the polling stations in the electoral division in such manner as he thinks convenient.
+
+[19/2001 wef 15/05/2001]
+
+(2) The Returning Officer may use, free of charge, as a polling station any school in Singapore or part thereof for the purposes of any election.
+
+(3) The Returning Officer shall make good any damage done to, and defray any expenses incurred by the persons having control over, any school in Singapore or part thereof by reason of its being used as a polling station.
+
+(4) A polling station shall comprise such premises or such area within any premises as are demarcated by or under the authority of the Returning Officer to be a polling station.
+
+[19/2001 wef 15/05/2001]
 
 ### Presiding officers
 
@@ -534,13 +606,17 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 ### Admittance to polling station
 
-22\.—(1) Subject to subsection (2), no person shall be admitted to vote at any polling station except the one allotted to him.
+22\.—(1) Subject to subsections (2) and (3A), no person shall be admitted to vote at any polling station except the one allotted to him.
 
 (2) Where an elector for any electoral division is employed as a presiding officer, police officer, or in any other official capacity at a polling station, and it is inconvenient for him to vote at the polling station which has been allotted to him, the Returning Officer may, by a certificate authorise the elector to vote at any other polling station and that polling station shall, for the purposes of this section, be deemed to be the polling station allotted to that elector.
 
 (3) The certificate referred to in subsection (2) shall be given under the hand of the Returning Officer and shall state the name of the elector, his number, and description in the register of electors, and the fact that he is so employed as a presiding officer, police officer or in any other official capacity at a polling station.
 
-(4) Unless the Returning Officer, by notification in theGazette, appoints any other hour, the poll shall open at 8 a.m. on the day appointed under section 16(5) and shall close at 8 p.m. on that day.
+(3A) An overseas elector shall also be entitled to be admitted to vote at the overseas polling station allotted to him by the Registration Officer under section 13A(3) of the Parliamentary Elections Act (Cap. 218).
+
+[19/2001 wef 15/05/2001]
+
+(4) Unless the Returning Officer, by notification in theGazetteor under section 33C(3)(b), appoints any other hour, the poll shall open at 8 a.m. on the day appointed under section 16(5) and shall close at 8 p.m. on that day.
 
 (5) The presiding officer shall —
 
@@ -562,9 +638,27 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 (11) The powers conferred by this section shall not be exercised so as to prevent any elector who is otherwise entitled to vote at any polling station from having an opportunity of voting at that station.
 
+### Voting by overseas electors
+
+22A\.—(1) Subject to section 52, any overseas elector who intends to cast his vote at the poll for a contested election may vote at —
+
+(a) the overseas polling station allotted to him by the Registration Officer under section 13A(3) of the Parliamentary Elections Act (Cap. 218); or
+
+(b) the polling station in the electoral division allotted to him under section 18(1),
+
+but not at both in respect of the same election.
+
+(2) The hours of any poll for any contested election at an overseas polling station shall be not less than 4 hours but not more than 12 hours and may be carried out in advance of the poll on polling day in Singapore, except that every such poll at an overseas polling station shall close not later than the close of the poll on polling day in Singapore.
+
+(3) Except as otherwise provided in this section and any regulations made thereunder, any poll (including an advance poll) at an overseas polling station shall be conducted in the same manner as that in which voting at a polling station within Singapore on polling day is conducted, and shall be regarded as such for the purposes of this Act.
+
+(4) The Minister may make regulations modifying the application of any provision of this Act to the conduct of polls in overseas polling stations, including in particular, the appointment of presiding officers for overseas polling stations, the procedures on closing of the poll and for the safe despatch of the sealed ballot boxes containing the votes cast to the Returning Officer in Singapore.
+
+[19/2001 wef 15/05/2001]
+
 ### Poll by ballot and ballot papers
 
-23\.—(1) In the case of a poll at an election , the votes shall be given by ballot, and the ballot of each voter shall consist of a paper (referred to in this Act as a ballot paper).
+23\.—(1) In the case of a poll at an election not using a DRE voting system, the votes shall be given by ballot, and the ballot of each voter shall consist of a paper (referred to in this Act as a ballot paper).
 
 (2) Every ballot paper shall —
 
@@ -650,7 +744,7 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 (5) The Registration Officer shall on receipt of such list cause the names of all persons appearing in the list to be expunged from the register of electors.
 
-(6) The Registration Officer shall give notice in theGazettethat such list has been received by him from the Returning Officer and that the list or copies thereof are open for inspection at all reasonable hours of the day at the office of the Registration Officer and at such other place or places in each electoral division as may be specified in the notice.
+(6) The Registration Officer shall give notice in theGazettethat such list has been received by him from the Returning Officer and that the list or copies thereof are open for inspection at all reasonable hours of the day at the office of the Registration Officer and at such other place or places in or near each electoral division and at such overseas registration centres as may be specified in the notice.
 
 (7) Every person whose name appears on the list of which notice has been given by the Registration Officer under subsection (6) may make a written application for the restoration of his name to the register of electors.
 
@@ -712,13 +806,17 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 31A\.—(1) The Returning Officer may direct —
 
-(a) that the votes cast at any polling station or stations be counted at such time and counting place (which may or may not be a polling station) as he may specify; and
+(a) that the votes cast at any polling station or stations in Singapore be counted at such time and counting place (which may or may not be a polling station) as he may specify; and
 
 (b) where more than one counting place is specified under paragraph (a), that the total number of votes given to each candidate at the poll be ascertained at such other time and place (referred to in this Act as the principal counting place) as he may specify.
 
 [12/93]
 
-(2) The Returning Officer shall give notice in writing of his direction under subsection (1) to each candidate or his principal election agent not less than 2 clear days before polling day.
+(1A) The votes cast at all overseas polling stations shall be counted at such place or places in Singapore as the Returning Officer directs.
+
+[19/2001 wef 15/05/2001]
+
+(2) The Returning Officer shall give notice in writing of his direction under subsection (1) or (1A) to each candidate or his principal election agent not less than 2 clear days before polling day.
 
 [12/93; 18/99]
 
@@ -734,15 +832,15 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 (2A) The Returning Officer shall make arrangements for counting the votes in the presence of such of the candidates and their counting agents as attend as soon as practicable —
 
-(a) where only one counting place is specified in a direction made under section 31A(1) — after he has received all the ballot boxes used during the poll ; or
+(a) where only one counting place is specified in a direction made under section 31A(1) — after he has received all the ballot boxes used during the poll conducted in Singapore; or
 
-(b) where more than one counting place is specified in a direction made under section 31A(1) —
+(b) where more than one counting place is specified in a direction made under section 31A(1), after —
 
-(i) after the procedure in section 31 has been complied with at the close of the poll if the polling station is a counting place; or
+(i) the procedure in section 31 has been complied with at the close of the poll if the counting place is also a polling station; and
 
-(ii) after he has received at that counting place all the ballot boxes containing the votes cast at such polling station or stations specified in the direction in relation to that counting place.
+(ii) the Assistant Returning Officer in charge of each counting place has received at his counting place all the ballot boxes containing the votes cast at the polling station or stations in Singapore which are specified in the direction to be counted at that counting place, subject to any directions from the Returning Officer to delay or postpone the counting.
 
-[12/93]
+[19/2001 wef 15/05/2001]
 
 (3) The Returning Officer, his assistants and clerks, and the candidates and their counting agents, but no other persons except with the sanction of the Returning Officer, may be present at the counting of the votes.
 
@@ -754,25 +852,25 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 (7) The Returning Officer shall not count the tendered ballot papers but shall place them in separate packets according to the candidate whom they support and shall mark each packet with the name of the candidate and shall seal the packet and retain it unless it is required for the purposes of an election petition.
 
-(8) Where only one counting place is specified in a direction made under section 31A(1), the Returning Officer shall, when the counting of votes has been completed, forthwith declare the candidate to whom the greatest number of votes is given to be elected unless any candidate or his counting agent applies to the Returning Officer for a recount, in which case a recount shall be made before the Returning Officer makes the declaration.
+(8) Where only one counting place is specified in a direction under section 31A(1), the Returning Officer shall, when the counting of votes cast at all polling stations in Singapore is completed at the sole counting place or, if a recount thereof is allowed under section 32B, after that recount is completed, forthwith act as follows:
 
-[12/93]
+(a) where the total number of overseas electors lawfully entitled to vote at the election is less than the difference between the number of votes given to the candidates with the 2 greatest number of votes, the Returning Officer shall declare the candidate to whom the greatest number of votes is given to be elected; or
 
-(8A) Where more than one counting place is specified in a direction made under section 31A(1), the Returning Officer shall, immediately after the completion of the counting of the votes or, where any candidate or his counting agent applies to the Returning Officer for a recount, the recounting of the votes, at each counting place —
+(b) where the total number of overseas electors lawfully entitled to vote at the election is equal to or more than the difference between the number of votes given to the candidates with the 2 greatest number of votes, the Returning Officer shall declare the number of votes cast in Singapore in favour of each candidate at the election, and the date and premises at which the votes cast by the overseas electors will be counted.
+
+[19/2001 wef 15/05/2001]
+
+(8A) Where more than one counting place is specified in a direction made under section 31A(1), the Returning Officer shall, immediately after the completion of the counting of votes cast in Singapore is completed at the counting place under his charge and, if a recount thereof is allowed under section 32B, after that recount is completed, at each counting place —
 
 (a) announce to the candidates or their counting agents as attend the number of votes given to each candidate;
 
 (b) prepare a record (referred to in this Act as the record of counting) in a prescribed form containing the number of votes given to each candidate and other results of the counting of votes at his counting place, and certify that record;
 
-(c) transmit to the principal counting place, by any means available, the results of the counting of votes at his counting place;
+(c) transmit to the principal counting place, by any means available, the results of the counting of votes at his counting place; and
 
-(d) seal up in separate packets the ballot papers and all other documents at the counting place relating to the election, and, except for the sealed packet containing the record of counting, place them in a ballot box which shall then be sealed with his seal and with the seals of such of the candidates or their counting agents as attend and desire to affix their seals; and all ballot papers and documents in the ballot box shall be deemed to be sealed in pursuance of subsection (10);
+(d) seal up in an envelope the record of counting and despatch or deliver the envelope in safe custody to the principal counting place for that electoral division.
 
-(e) despatch or deliver the sealed ballot box referred to in paragraph (d) in safe custody to the Returning Officer; and
-
-(f) despatch or deliver the sealed packet containing the record of counting in safe custody to the principal counting place.
-
-[12/93; 42/96]
+[19/2001 wef 15/05/2001]
 
 (8B) Except with the sanction of the Returning Officer, no person other than —
 
@@ -788,15 +886,29 @@ may be present at the principal counting place during the addition of the votes.
 
 [12/93; 18/99]
 
-(8D) When the Returning Officer has ascertained the total number of votes given to each candidate under subsection (8C), he shall forthwith declare as having been elected the candidate to whom the greatest total number of votes is given.
+(8D) When the total number of votes cast at polling stations in Singapore for each candidate at an election is ascertained under subsection (8C), or if a recount thereof is allowed under section 32B, after that recount is completed, the Returning Officer shall forthwith act as follows:
 
-[12/93; 18/99]
+(a) where the total number of overseas electors lawfully entitled to vote at the election is less than the difference between the number of votes given to the candidates with the 2 greatest number of votes, the Returning Officer shall declare the candidate to whom the greatest number of votes is given to be elected; or
 
-(9) When an equality of votes is found to exist between any candidates, and the addition of a vote would entitle any of the candidates to be declared elected, the determination of the candidate to whom the one additional vote shall be deemed to have been given shall be made by lot in the presence of the Returning Officer in such manner as the Returning Officer shall determine.
+(b) where the total number of overseas electors lawfully entitled to vote at the election is equal to or more than the difference between the number of votes given to the candidates with the 2 greatest number of votes, the Returning Officer shall declare the number of votes cast in Singapore in favour of each candidate at the election, and the date and premises at which the votes cast by the overseas electors will be counted.
 
-(10) After the result has been declared by the Returning Officer under subsection (8) or (8D), he shall seal all documents relating to the election as required by this Act and shall, subject to subsection (11), retain the same for a period of 6 months and thereafter shall cause them to be destroyed unless otherwise directed by order of the Minister.
+[19/2001 wef 15/05/2001]
 
-[12/93]
+(9) When, after the counting of votes (including any recount allowed under section 32B) is completed, an equality of votes is found to exist between any candidates, and the addition of a vote would entitle any of the candidates to be declared elected, the determination of the candidate to whom the one additional vote shall be deemed to have been given shall be made by lot in the presence of the Returning Officer in such manner as the Returning Officer shall determine.
+
+(10) After the Returning Officer has made any declaration under subsection (8) or (8D), he shall ensure that the following procedures are complied with at every counting place and principal counting place:
+
+(a) all ballot papers and all other documents relating to the election at every counting place and principal counting place shall be sealed up in separate packets and placed in any ballot box or boxes;
+
+(b) the ballot box or boxes shall then be sealed with the seal of the Returning Officer and the seals of such of the candidates or their counting agents as attend and desire to affix their seals;
+
+(c) the sealed ballot box or boxes shall be despatched and delivered in safe custody to the Returning Officer;
+
+(d) subject to subsection (11), the ballot papers and other documents in the sealed ballot box or boxes shall be retained in safe custody for a period of 6 months; and
+
+(e) the ballot papers and other documents shall be destroyed at the end of the period of 6 months unless otherwise directed by order of the President.
+
+[19/2001 wef 15/05/2001]
 
 (11) An Election Judge may make an order that any ballot paper or other document relating to an election which has been sealed as required by this Act be inspected, copied or produced at such time and place and subject to such conditions as the Judge may consider expedient.
 
@@ -805,6 +917,56 @@ may be present at the principal counting place during the addition of the votes.
 [12/93]
 
 (12) Except as provided in this section, no person shall be allowed to inspect any such ballot paper or document after it has been sealed up in pursuance of subsection (10).
+
+### Counting of votes by overseas electors
+
+32A\.—(1) All the sealed ballot boxes containing the votes cast at any overseas polling station must arrive at the office of the Returning Officer in Singapore not later than 10 days after polling day at an election in order for those votes to be counted.
+
+(2) The Returning Officer shall make arrangements for the votes cast by overseas electors to be counted at such place or places in Singapore as he directs under section 31A(1A).
+
+(3) Subject to subsection (1), such arrangements shall provide for the counting of votes cast by overseas electors in the presence of the candidates and their counting agents as attend as soon as practicable after all the sealed ballot boxes used at overseas polling stations during the poll have been received by the Returning Officer in Singapore.
+
+(4) Sections 32, 32B and 33 shall apply to the counting (including recounting, if any) of the votes cast by overseas electors.
+
+(5) Where the Returning Officer has made a declaration under section 32(8)(b) or (8D)(b), the number of votes given by overseas electors to each candidate shall be added to the number declared by the Returning Officer as the number of votes cast in Singapore, respectively, for each candidate, and the Returning Officer shall forthwith declare the candidate to whom the greatest total number of votes cast to be elected.
+
+(6) After the Returning Officer has made any declaration under subsection (5), he shall ensure that the following procedures are complied with:
+
+(a) all ballot papers and all other documents relating to the election at every place where the votes of overseas electors are counted shall be sealed up in separate packets and placed in any ballot box or boxes;
+
+(b) the ballot box or boxes shall then be sealed with the seal of the Returning Officer and the seals of such of the candidates or their counting agents as attend and desire to affix their seals;
+
+(c) the sealed ballot box or boxes shall be despatched and delivered in safe custody to the Returning Officer;
+
+(d) subject to section 32(11), the ballot papers and other documents in the sealed ballot box or boxes shall be retained in safe custody for a period of 6 months; and
+
+(e) the ballot papers and other documents shall be destroyed at the end of the period of 6 months unless otherwise directed by order of the President.
+
+[19/2001 wef 15/05/2001]
+
+### Recounting of votes
+
+32B\.—(1) Subject to subsections (3) and (4), any candidate at an election or his counting agent may —
+
+(a) if he is present at the sole counting place specified for the election and the counting of votes at that counting place is completed; or
+
+(b) if he is present at the principal counting place specified for the election and the votes counted at all counting places for that election have been added at that principal counting place,
+
+apply to the Returning Officer to have the votes given at the election recounted.
+
+(2) Subject to subsections (3) and (4), the Returning Officer shall allow and conduct the recounting of votes if an application for a recount is made under this section.
+
+(3) Not more than one application to recount the votes given at any election shall be made or allowed under this section.
+
+(4) Without prejudice to subsection (3), no application for a recount shall be made and no recount shall be allowed under this section where the difference between the number of votes given to the candidate with the most votes and the number cast for any other candidate is more than 2% of the total number of votes cast (excluding rejected votes and tendered votes) at the election.
+
+(5) No step shall be taken under section 32 to declare any candidate elected until the candidates or counting agents present at the sole counting place or the principal counting place, as the case may be, have been given a reasonable opportunity to exercise the right conferred by this section.
+
+(6) Where an application for a recounting of votes is allowed by the Returning Officer, the votes at the counting place or, if there are more than one, at every counting place shall be recounted and added following the same procedure set out in sections 32 and 33.
+
+(7) This section and section 33 shall apply to the recounting of votes cast by overseas electors with such modifications as are necessary.
+
+[19/2001 wef 15/05/2001]
 
 ### Votes to be rejected
 
@@ -828,9 +990,105 @@ may be present at the principal counting place during the addition of the votes.
 
 (4) The decision of the Returning Officer whether or not any ballot paper shall be rejected shall be final and shall not be questioned on an election petition.
 
+### Approval of DRE voting systems
+
+33A\.—(1) No DRE voting system shall be used at any poll unless the DRE voting system is approved before the date of the writ of the election under section 6 by —
+
+(a) the Auditor-General; or
+
+(b) any person appointed by the Minister in consultation with the Auditor-General.
+
+(2) The Auditor-General or person appointed under subsection (1) shall not approve any DRE voting system for use at any election unless, after conducting such tests as he considers necessary in the presence of the Returning Officer and such representatives of any political party as are present, he is satisfied that the DRE voting system —
+
+(a) permits voting in secrecy;
+
+(b) permits each voter to vote from all the candidates as are nominated for the election;
+
+(c) operates safely and efficiently and accurately counts all votes cast for each candidate;
+
+(d) is set to detect voting errors and to reject all votes for any candidate when the number of votes recorded exceeds the number of votes that may lawfully be cast;
+
+(e) permits each voter to clearly see the ballot display;
+
+(f) is safe from fraudulent or unauthorised manipulation or operation;
+
+(g) ensures that all voting data stored in the DRE voting machines used shall be maintained regardless of electrical power surges or outages; and
+
+(h) is capable of providing records from which the operation of the DRE voting system may be audited and for verification of the accuracy of the recording and counting of votes, but that shall not allow for identification of any voter
+
+(3) Subject to subsection (1), no DRE voting system shall be used at a poll in any electoral division unless the Returning Officer specifies, by notice under section 16, that a DRE voting system will be used at the poll in that electoral division.
+
+(4) Where a DRE voting system is to be used at any forthcoming poll in any electoral division in accordance with this section, the Returning Officer may, for the purpose of instructing electors, provide one or more demonstrations as to the use of the DRE voting system in one or more public places within that electoral division.
+
+[19/2001 wef 15/05/2001]
+
+### Approval of DRE voting machines and equipment
+
+33B\.—(1) It shall be the duty of the Returning Officer to provide at each polling station within every electoral division specified in his notice under section 16 —
+
+(a) a sufficient number of DRE voting machines and other direct recording electronic voting equipment approved under subsection (2) for electors allotted to the polling station to cast their votes;
+
+(b) booths or other reasonable facilities within which approved DRE voting machines are to be placed to enable electors allotted to the polling station to record their votes screened from observation and to vote in accordance with the provisions of this Act and any regulations made thereunder; and
+
+(c) a sufficient number of other approved DRE voting machines, direct recording electronic voting equipment and other voting equipment in the event of any malfunction of all or any approved DRE voting machines at that polling station.
+
+(2) Not earlier than 4 clear days before polling day, the Auditor-General or person appointed by the Minister under section 33A(1) shall inspect and conduct or cause to be inspected and conducted such tests on every DRE voting machine and direct recording electronic voting equipment to be used at a poll, and if he is satisfied that any such DRE voting machine and equipment are in the proper order for use at a poll, he shall not later than on the eve of polling day —
+
+(a) approve the DRE voting machine and equipment so tested for use at the poll;
+
+(b) number the approved DRE voting machine;
+
+(c) seal with his seal and secure the approved DRE voting machine and direct recording electronic voting equipment against use until polling day and despatch it in safe custody to the Returning Officer who shall store it in safe custody until polling day;
+
+(d) make a record containing the identification numbers of every such approved DRE voting machine and the respective polling stations to which each has been allocated; and
+
+(e) furnish a copy of the record to such candidate or his election agent who requests for such a copy before polling day.
+
+(3) Any inspection and test of DRE voting machines and direct recording electronic voting equipment under subsection (2) shall be carried out —
+
+(a) on such date and at such time and premises as the Returning Officer may specify by public notice not less than 5 clear days before polling day; and
+
+(b) in the presence of such candidate or his election agent or polling agent as may be present at those premises on that date and time.
+
+[19/2001 wef 15/05/2001]
+
+### Pre-poll testing of DRE voting system, etc.
+
+33C\.—(1) Immediately before the commencement of the poll in any electoral division specified in a notice under section 16(5), the presiding officer at every polling station within the electoral division shall, and in the sight of such person as may be present at the polling station —
+
+(a) ensure that every DRE voting machine and direct recording electronic voting equipment delivered to the polling station for use at the poll is approved under section 33B(2) and still sealed and secured against use;
+
+(b) install the approved DRE voting machine and direct recording electronic voting equipment for use at the poll at the polling station;
+
+(c) inspect and test each DRE voting machine and direct recording electronic voting equipment so installed in the prescribed manner to ensure that it is functioning properly and take such corrective action (including replacement or repair) as is necessary to ensure that it is functioning properly; and
+
+(d) unsecure the DRE voting machine for use at the poll.
+
+(2) The presiding officer at a polling station using DRE voting machines and direct recording electronic voting equipment at the poll shall periodically inspect or cause to be inspected the machines and equipment for tampering and damage or any malfunction while voting is in progress.
+
+(3) If at any time before or after the commencement of a poll using a DRE voting system, the presiding officer at a polling station determines that the approve DRE voting machines or direct recording electronic voting equipment delivered to the polling station cannot be replaced or repaired promptly and that voting cannot be continued using the remaining approved DRE voting machines and approved direct recording electronic voting equipment without interfering substantially with the orderly conduct of the poll, the presiding officer shall, with the approval of the Returning Officer —
+
+(a) immediately halt voting at that polling station if the poll has already commenced; and
+
+(b) make such necessary arrangements for voting at the polling station —
+
+(i) to commence or resume, as the case may be, on the same day and close at such other hours as the Returning Officer may appoint, using either the same DRE voting system or ballot papers in accordance with the provisions of this Act; or
+
+(ii) to be adjourned and conducted afresh on such other date as the Returning Officer may declare by notification in theGazette, being a date not more than one week later, using either the same DRE voting system or ballot papers in accordance with the provisions of this Act.
+
+[19/2001 wef 15/05/2001]
+
+33D\.—(1) Except as otherwise provided in sections 33B and 33C and any regulations made under this section, any poll using any DRE voting system shall be conducted in the same manner as that in which voting is conducted under sections 17 to 34, and shall be regarded as a poll for the purposes of this Act.
+
+(2) The ballot image displayed on any approved DRE voting machine at any poll shall be an identical representation in electronic form of the ballot paper used at the poll.
+
+(3) The Minister may make regulations modifying the application of any provision of this Act to the conduct of polls using a DRE voting system, including in particular, prescribing the training of presiding officers in operating DRE voting systems, the procedures on opening and closing of such a poll, the manner of voting, the counting of votes and for the safe despatch or transmission of records of voting using DRE voting machines for counting, including recounting, if any.
+
+[19/2001 wef 15/05/2001]
+
 ### Publication of result and statement of poll in theGazette
 
-34\.—(1) After declaring the result under section 32, the Returning Officer shall forthwith compile a statement of the poll in the prescribed form and shall cause the statement and the name of the person elected to the office of President to be published in theGazette.
+34\.—(1) After declaring the result under section 32(8)(a) or (8D)(a) and counting of all votes cast by overseas electors or after declaring the result under section 32A(5), as the case may be, the Returning Officer shall forthwith compile a statement of the poll in the prescribed form and shall cause the statement and the name of the person elected to the office of President to be published in theGazette.
 
 (2) Notwithstanding the provisions of this Act, if the candidate who has been declared elected to the office of President under section 15 or 32 dies before the commencement of his term of office, the Prime Minister shall forthwith issue a fresh writ under section 6 and the provisions of this Act shall, with the necessary modifications, apply to that writ.
 
@@ -862,7 +1120,7 @@ may be present at the principal counting place during the addition of the votes.
 
 (b) communicate any information obtained at the counting as to the candidate for whom any vote is given by any particular ballot paper.
 
-(6) No person, except a presiding officer acting for a purpose authorised by this Act or a person authorised by the presiding officer and acting for that purpose, shall communicate or attempt to communicate with any voter after the voter has received a ballot paper and before the voter has placed it in a ballot box.
+(6) No person, except a presiding officer acting for a purpose authorised by this Act or a person authorised by the presiding officer and acting for that purpose, shall communicate or attempt to communicate with any voter after the voter has received a ballot paper and before the voter has placed it in a ballot box, or after the voter has been authorised to use an approved DRE voting machine to record his vote and before he records his vote at the machine, as the case may be.
 
 (7) Every person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months.
 
@@ -890,7 +1148,7 @@ Chapter I
 
 (g) without due authority takes out of the polling station any ballot paper or is found in possession of any ballot paper outside a polling station;
 
-(h) without due authority destroys, takes, opens, or otherwise interferes with any ballot box or packet of ballot papers in use or intended to be used for the purposes of an election;
+(h) without due authority destroys, takes, opens, or otherwise interferes with any ballot box , packet of ballot papers or any DRE voting machine or direct recording electronic voting equipment approved under section 33B(2) in use or intended to be used for the purposes of an election;
 
 (i) without due authority prints any ballot paper or what purports to be or is capable of being used as a ballot paper at an election; or
 
@@ -904,7 +1162,7 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (3) Every offence under this section shall be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-(4) In a prosecution for an offence in relation to a nomination paper, ballot box, ballot paper or marking instrument at an election, the property in the nomination paper, ballot box, ballot paper or marking instrument, as well as the property in the counterfoil of any ballot paper, may be stated to be in the Returning Officer at that election.
+(4) In a prosecution for an offence in relation to a nomination paper, ballot box, ballot paper, DRE voting machine, direct recording electronic voting equipment or marking instrument at an election, the property in the nomination paper, ballot box, ballot paper, DRE voting machine, direct recording electronic voting equipment or marking instrument, as well as the property in the counterfoil of any ballot paper, may be stated to be in the Returning Officer at that election.
 
 (5) A prosecution for an offence under this section shall not be instituted without the sanction of the Public Prosecutor.
 
@@ -914,9 +1172,9 @@ Chapter 2
 
 38\.—(1) Every person who —
 
-(a) at an election applies for a ballot paper in the name of some other person, whether that name be that of a person living or dead or of a fictitious person; or
+(a) at an election applies for a ballot paper or to record his vote at a DRE voting machine in the name of some other person, whether that name be that of a person living or dead or of a fictitious person; or
 
-(b) having voted once at any such election, applies at the same election for a ballot paper in his own name,
+(b) having voted once at any such election, applies at the same election for a ballot paper or to record his vote at a DRE voting machine in his own name,
 
 shall be guilty of the offence of personation.
 
@@ -1162,7 +1420,17 @@ Chapter 3
 
 ### Plural voting
 
-52\.—(1) If any person at any election votes in any electoral division other than that in which he is registered, he shall be guilty of an illegal practice.
+52\.—(1) Any person who votes as an elector —
+
+(a) in or in respect of an electoral division other than the electoral division in which he is registered;
+
+(b) more than once at any election in or in respect of the same electoral division in which he is registered as an elector; or
+
+(c) in or in respect of more than one electoral division at an election,
+
+shall be guilty of an illegal practice.
+
+[19/2001 wef 15/05/2001]
 
 (2) The court before which a person is convicted under this section may in its discretion in the circumstances of any particular case mitigate or remit any penalty which may be imposed in respect thereof under section 61.
 
@@ -1659,6 +1927,12 @@ This Legislative History is provided for the convenience of users of the Preside
 |||(Bill No. 15/2000 published on 10 May 2000)|
 ||Date of Second and Third Readings|22 May 2000|
 ||Date of commencement|15 February 2001|
+|12.|**Act 19 of 2001—Parliamentary Elections (Amendment) Act 2001**|
+||(Related amendments made to Act by)||
+||Date of First Reading|16 March 2001|
+|||(Bill No. 20/2001 published on 17 March 2001)|
+||Date of Second and Third Readings|20 April 2001|
+||Date of commencement|15 May 2001|
 ## COMPARATIVE TABLE
 
 Presidential Elections Act
