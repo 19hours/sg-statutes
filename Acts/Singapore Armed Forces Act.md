@@ -2184,6 +2184,18 @@ Supplementary provisions as to trial
 
 109\.—(1) Subject to section 111, where an offence under this Act triable by a subordinate military court or by a disciplinary officer has been committed or is reasonably suspected of having been committed by any person while subject to military law then in relation to that offence he shall be treated for the provisions of this Act relating to arrest, keeping in custody, investigation of offences, trial and punishment by a subordinate military court or by a disciplinary officer (including review) and execution of sentences as continuing to be subject to military law notwithstanding his ceasing at any time to be subject thereto.
 
+(1A) Without prejudice to the generality of subsection (1) but subject to section 111, where an offence under this Act triable by a subordinate military court or by a disciplinary officer has been committed or is reasonably suspected of having been committed by any person while subject to military law, the subordinate military court or disciplinary officer before which the offence is triable may order that person to report for trial for the offence as if that person continued to be subject to military law notwithstanding his ceasing at any time to be subject to military law.
+
+[16/2001 wef 15/05/2001]
+
+(1B) Any person who fails to comply with any order under subsection (1A) —
+
+(a) shall be deemed to have failed to comply with a lawful order within the meaning of section 17(2); and
+
+(b) shall be liable to be arrested, proceeded against and punished for an offence under section 17(2) as if he continued to be subject to military law.
+
+[16/2001 wef 15/05/2001]
+
 (2) Where a person subject to military law is sentenced by a subordinate military court to imprisonment, special detention or detention or by a disciplinary officer to detention, this Act shall apply to him during the term of his sentence, notwithstanding that he is discharged or dismissed from the Singapore Armed Forces, or has otherwise ceased to be subject to military law, and he may be kept, removed, imprisoned, made to undergo special detention or detention, and punished accordingly as if he continued to be subject to military law.
 
 [17/78]
@@ -2964,7 +2976,9 @@ Arrests
 
 ### Power of arrest of suspected deserters
 
-167\.—(1) A police officer may arrest any person whom he has reasonable cause to suspect is a deserteror is absent without leave.
+167\.—(1) A police officer may arrest any person whom he has reasonable cause to suspect is a deserter, is absent without leave or has failed to comply with an order under section 109(1A).
+
+[16/2001 wef 15/05/2001]
 
 (2) Where no police officer is present, any person may arrest a person whom he has reasonable grounds to suspect is a deserter or is absent without leave.
 
@@ -2972,17 +2986,23 @@ Arrests
 
 ### Proceedings before a civil court where persons suspected of illegal absence
 
-168\.—(1) Where a person who is brought before a civil court is alleged to be a serviceman who has deserted or is absent without leave , subsections (2), (3) and (4) shall have effect.
+168\.—(1) Where a person who is brought before a civil court is alleged to be a serviceman who has deserted, is absent without leave or has failed to comply with an order under section 109(1A), subsections (2), (3) and (4) shall have effect.
 
-(2) If he admits that he is illegally absent from the Singapore Armed Forces and the civil court is satisfied of the truth of the admission, then notwithstanding that he is in custody for some other cause, the court may forthwith cause him to be delivered into military custody in such manner as the court may think fit.
+[16/2001 wef 15/05/2001]
 
-(3) If he does not admit that he is illegally absentas mentioned in subsection (2), or the civil court is not satisfied of the truth of the admission, the court shall consider the evidence and any statement of the accused, and if —
+(2) If he admits that he is illegally absent from the Singapore Armed Forces or has failed to comply with an order under section 109(1A) and the civil court is satisfied of the truth of the admission, then notwithstanding that he is in custody for some other cause, the court may forthwith cause him to be delivered into military custody in such manner as the court may think fit.
+
+[16/2001 wef 15/05/2001]
+
+(3) If he does not admit that he is illegally absent, or has failed to comply with an order under section 109(1A), as mentioned in subsection (2), or the civil court is not satisfied of the truth of the admission, the court shall consider the evidence and any statement of the accused, and if —
 
 (a) satisfied that he is subject to military law; and
 
-(b) of opinion that there is sufficient evidence to justify his being tried under this Act for an offence of desertionor absence without leave,
+(b) of opinion that there is sufficient evidence to justify his being tried under this Act for an offence of desertion, absence without leave or failure to comply with a lawful order under section 109(1A),
 
 then, unless he is in custody for some other cause, the court shall cause him to be delivered into military custody, but otherwise shall discharge him.
+
+[16/2001 wef 15/05/2001]
 
 (4) If the accused is in custody for some other cause, the civil court shall have power, but shall not be required, to act in accordance with subsection (3).
 
@@ -3995,6 +4015,11 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|31 March 2000|
 |13.|**2000 Revised Edition—Singapore Armed Forces Act**|
 ||Date of operation|30 December 2000|
+|14.|**Act 16 of 2001—Enlistment (Amendment) Act 2001**|
+||Date of First Reading|22 February 2001|
+|||(Bill No. 4/2001 published on 23 February 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|15 May 2001|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
