@@ -694,3 +694,8 @@ This Legislative History is provided for the convenience of users of the Departm
 ||Date of commencement|15 December 1995|
 |16.|**G. N. No. S 412/1998—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 1998**|
 ||Date of commencement|1 February 1996|
+|17.|**Act 20 of 1996—Departmental Titles (Alteration) (Amendment) Act 1996**|
+||Date of First Reading|2 May 1996|
+|||(Bill No. 11/96 published on 3 May 1996)|
+||Date of Second and Third Readings|21 May 1996|
+||Date of commencement|12 July 1996|
