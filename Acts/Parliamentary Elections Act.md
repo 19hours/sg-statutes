@@ -2584,19 +2584,19 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 “election period” means the period beginning with the day the writ of election is issued for an election and ending with the close of all polling stations on polling day at the election;
 
+“Media Development Authority of Singapore” means the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act 2002;
+
+[34/2002 wef 01/01/2003]
+
 “relevant person” means any person or group of persons in Singapore (other than a political party, a candidate or his election agent) which —
 
 (a) provides any programme on the World Wide Web through what is commonly known as the Internet under a class licence; and
 
-(b) is required under the conditions of the class licence to register with the Singapore Broadcasting Authority on account of that person or group of persons engaging in or providing any programme for the propagation, promotion or discussion of political issues relating to Singapore,
+(b) is required under the conditions of the class licence to register with the Media Development Authority of Singapore on account of that person or group of persons engaging in or providing any programme for the propagation, promotion or discussion of political issues relating to Singapore,
 
 [34/2002 wef 01/01/2003]
 
-and a person or a group of persons shall be regarded as required to register with the Singapore Broadcasting Authority even though the time permitted for such registration has not expired;
-
-“Singapore Broadcasting Authority” means the Singapore Broadcasting Authority constituted under the Singapore Broadcasting Authority Act (Cap. 297).
-
-[31/2001 wef 14/09/2001]
+and a person or a group of persons shall be regarded as required to register with the Media Development Authority of Singapore even though the time permitted for such registration has not expired;
 
 ### Election advertising ban on polling day
 
@@ -3105,8 +3105,6 @@ shall also be guilty of an offence and shall be liable to be proceeded against a
 FIRST SCHEDULE
 
 FORM 1
-
-[S 522/2001 wef 17/10/2001]
 
 SECOND SCHEDULE
 
@@ -3634,6 +3632,12 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|17 October 2001|
 |53.|**G. N. No. S 523/2001—Parliamentary Elections Act (Amendment of Third Schedule) Regulations 2001**|
 ||Date of commencement|17 October 2001|
+|54.|**Act 34 of 2002—Media Development Authority of Singapore Act 2002**|
+||(Consequential and related amendments made to Act by)||
+||Date of First Reading|1 October 2002|
+|||(Bill No. 37/2002 published on 2 October 2002)|
+||Date of Second and Third Readings|31 October 2002|
+||Date of commencement|1 January 2003|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
