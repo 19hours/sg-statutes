@@ -22,7 +22,7 @@
 
 - [8 Effect of order](#Effect-of-order)
 
-- [9 Collector to keep Record](#Collector-to-keep-Record)
+- [9 Collector to keep record](#Collector-to-keep-record)
 
 [**Legislative History**](#Legislative-History)
 
@@ -32,9 +32,9 @@
 
 (Original Enactment: Ordinance 2 of 1909)
 
-REVISED EDITION 1985
+REVISED EDITION 1998
 
-(30th March 1987)
+(15th December 1998)
 
 An Act to apportion rents under State leases and grants.
 
@@ -50,9 +50,7 @@ An Act to apportion rents under State leases and grants.
 
 “Collector” means a Collector of Land Revenue;
 
-“competent authority” means the competent authority appointed under section 5 of the Planning Act 1998 in respect of the grant of subdivision permission;
-
-[Act 3/98]
+“competent authority” means the competent authority appointed under section 5 of the Planning Act (Cap. 232) in respect of the grant of subdivision permission;
 
 “grant” means a grant in perpetuity;
 
@@ -64,37 +62,43 @@ An Act to apportion rents under State leases and grants.
 
 “notice” means a notice of apportionment of rent;
 
-“subdivided land” means any land in respect of which subdivision permission to subdivide has been granted by a competent authority under the Planning Act 1998.
-
-[9/75]
+“subdivided land” means any land in respect of which subdivision permission to subdivide has been granted by a competent authority under the Planning Act (Cap. 232).
 
 ### Subdivision of land to be notified
 
 3\.—(1) Every lessee or grantee of land comprised in any State lease or grant shall, within one month from the date of obtaining any subdivision permission from the competent authority to subdivide such land, inform the Collector in writing of the subdivision permission together with a copy of the approved plan showing the subdivision and particulars of the persons entitled as beneficial owners to the parts of the subdivided land.
 
-[9/75]
+[9/75; 3/98]
 
 (2) The Collector shall determine the rent payable in respect of each subdivision.
 
+[9/75]
+
 (3) The minimum rent in respect of any subdivision shall be $1 and any fraction of 50 cents shall count as 50 cents.
+
+[9/75]
 
 (4) When a determination has been made by the Collector under subsection (2), he shall cause a notice of apportionment of the rent to be served upon the lessee or grantee and upon the persons entitled as beneficial owners to the parts of the subdivided land.
 
+[9/75]
+
 (5) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+
+[9/75]
 
 ### Apportionment by Collector
 
-4\. Whenever it appears to the Collector that any land held under a State lease or grant has been subdivided and no notification of the subdivision in respect of the land has been given under section 3 the Collector may determine the rent payable in respect of each subdivision and shall thereafter proceed to make an order of apportionment in accordance with the provisions of this Act which shall apply mutatis mutandis as if the determination has been made by the Collector under section 3(2).
+4\. Whenever it appears to the Collector that any land held under a State lease or grant has been subdivided and no notification of the subdivision in respect of the land has been given under section 3, the Collector may determine the rent payable in respect of each subdivision and shall thereafter proceed to make an order of apportionment in accordance with the provisions of this Act which shall apply, with the necessary modifications, as if the determination has been made by the Collector under section 3(2).
 
 [9/75]
 
 ### Mode of service of notice where not personal
 
-5\. If the Collector is unable to find any person upon whom service ought to be effected, he may serve the notice upon that person by posting it on the land and the Land Office, and such posting shall be deemed to be good service.
+5\. If the Collector is unable to find any person upon whom service ought to be effected, he may serve the notice upon that person by posting it on the land and at the Land Office, and such posting shall be deemed to be good service.
 
 ### Objection to apportionment
 
-6\. If any person upon whom a notice is served objects to the apportionment of rent, he shall send in his objection in writing to the Collector within one month of the service of the notice.
+6\. If any person upon whom a notice is served objects to the apportionment of rent, he shall send his objection in writing to the Collector within one month of the service of the notice.
 
 [9/75]
 
@@ -104,39 +108,49 @@ An Act to apportion rents under State leases and grants.
 
 [9/75]
 
-(2) If any objections have been received by him under section 6, he shall consider the objections prior to making his order of apportionment.
+(2) If any objection has been received by the Collector under section 6, he shall consider the objection prior to making his order of apportionment.
+
+[9/75]
 
 (3) An order of apportionment shall be final and binding on every lessee or grantee and holder of a subdivision, notwithstanding that notice may not have been served on all the persons entitled to the various subdivisions of the State lease or grant.
 
+[9/75]
+
 (4) The Collector shall cause a copy of his order to be served upon all persons upon whom a notice was served under section 3(4).
 
+[9/75]
+
 (5) Such service may be effected by posting on the land and at the Land Office.
+
+[9/75]
 
 ### Effect of order
 
 8\. From the date of the order of apportionment —
 
-(a) the rent apportioned in respect of any subdivision shall be due to the Government by the person entitled to each subdivision and his executors, administrators and assigns, and shall, if the rent for the current year upon the State lease or grant remains unpaid, be payable forthwith, and shall be henceforth payable at the time and place at which the rent on the State lease or grant was payable, and shall be recoverable by any means prescribed by law relating to the collection of rents due to the Government;
+(a) the rent apportioned in respect of any subdivision shall be —
 
-(b) the covenant by the lessee or grantee to pay to the Government the rent specified in the State lease or grant shall, in any case where the lessee or grantee has by duly registered deeds assigned or conveyed the entirety of the land comprised in the State lease or grant, be discharged, and shall, in any case where the lessee or grantee retains a part only of the land comprised in the State lease or grant, be so modified as to apply only to the rent apportioned under this Act to that part of the land comprised in the State lease or grant which is retained by the lessee or grantee; and
+(i) due to the Government by the person entitled to each subdivision and his executors, administrators and assigns, and shall, if the rent for the current year upon the State lease or grant remains unpaid, be payable forthwith;
+
+(ii) henceforth payable at the time and place at which the rent on the State lease or grant was payable; and
+
+(iii) recoverable by any means prescribed by law relating to the collection of rents due to the Government;
+
+(b) the covenant by the lessee or grantee to pay to the Government the rent specified in the State lease or grant shall —
+
+(i) in any case where the lessee or grantee has by duly registered deeds assigned or conveyed the entirety of the land comprised in the State lease or grant, be discharged; and
+
+(ii) in any case where the lessee or grantee retains a part only of the land comprised in the State lease or grant, be so modified as to apply only to the rent apportioned under this Act to that part of the land comprised in the State lease or grant which is retained by the lessee or grantee; and
 
 (c) any covenant by any person entitled to a subdivision to pay to the lessee or grantee a portion of the rent shall be discharged.
 
 [9/75]
 
-### Collector to keep Record
+### Collector to keep record
 
 9\.—(1) The Collector shall keep a book, to be called the Record of Apportionment of Rents, in which he shall record under his hand all particulars furnished to him or determined by him under this Act.
 
-[9/75]
-
-### Entries in Record
-
 (2) All entries in the Record of Apportionment of Rents shall be prima facie evidence in any court of law of the truth of the facts therein stated.
-
-[12 and1
-
-1Sections 910, together with Schedules A, B and C, in the 1970 Edition were repealed by Act 9/75.
 
 ## LEGISLATIVE HISTORY
 
@@ -190,3 +204,5 @@ This Legislative History is provided for the convenience of users of the Apporti
 |||(Bill No. 18/97 published on 20 November 1997)|
 ||Date of Second and Third Readings|14 January 1998|
 ||Date of commencement|1 April 1998|
+|13.|**1998 Revised Edition—Apportionment of Rents Act**|
+||Date of operation|15 December 1998|
