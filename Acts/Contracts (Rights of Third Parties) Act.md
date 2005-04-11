@@ -158,6 +158,10 @@ then, in any proceedings brought in reliance on that section by the third party,
 
 (2) Section 2 shall not confer any right on a third party in the case of any contract binding on a company and its members under section 39 of the Companies Act (Cap. 50).
 
+(2A) Section 2 shall not confer any right on a third party in the case of any registration document of a limited liability partnership registered under the Limited Liability Partnerships Act 2005 or any limited liability partnership agreement as defined in that Act.
+
+[5/2005 wef 11/04/2005]
+
 (3) Section 2 shall not confer any right on a third party to enforce any term of a contract of employment against an employee.
 
 (4) Section 2 shall not confer any right on a third party in the case of —
@@ -184,7 +188,7 @@ except that a third party may in reliance on that section avail himself of an ex
 
 (b) under or for the purposes of which there is given an undertaking which is contained in a ship’s delivery order or a corresponding electronic transaction.
 
-(6) Fo the purposes of subsection (5) —
+(6) For the purposes of subsection (5) —
 
 (a) “bill of lading”, “sea waybill” and “ship’s delivery order” have the same meanings as in the Bills of Lading Act (Cap. 384); and
 
@@ -226,7 +230,7 @@ Contracts (Rights of Third Parties) Act
 
 (CHAPTER 53B)
 
-This Legislative History is provided for the convenience of users of the Contracts (Rights of Third Parties) Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Contracts (Rights of Third Parties) Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -237,3 +241,9 @@ This Legislative History is provided for the convenience of users of the Contrac
 ||Date of commencement|1 January 2002|
 |2.|**2002 Revised Edition—Contracts (Rights of Third Parties) Act**|
 ||Date of operation|31 July 2002|
+|3.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 64/2004 published on 20 October 2005)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|11 April 2005|
