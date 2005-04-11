@@ -394,6 +394,8 @@
 
 - [155 Disqualification for persistent default in relation to delivery of documents to Registrar](#Disqualification-for-persistent-default-in-relation-to-delivery-of-documents-to-Registrar)
 
+- [155A Disqualification under Limited Liability Partnerships Act 2004](#Disqualification-under-Limited-Liability-Partnerships-Act-2004)
+
 - [156 Disclosure of interests in transactions, property, offices, etc.](#Disclosure-of-interests-in-transactions-property-offices-etc)
 
 - [157 As to the duty and liability of officers](#As-to-the-duty-and-liability-of-officers)
@@ -1399,9 +1401,13 @@ and includes any document accompanying the return;
 
 (b) any corporation sole;
 
-(c) any co-operative society; or
+(c) any co-operative society;
 
-(d) any registered trade union;
+(d) any registered trade union; or
+
+(e) any limited liability partnership;
+
+[5/2005 wef 11/04/2005]
 
 “Court” means the High Court or a judge thereof;
 
@@ -1466,6 +1472,10 @@ such that it can (where particular conditions are met) be received in legible fo
 “liquidator” includes the Official Receiver when acting as the liquidator of a corporation;
 
 “limited company” means a company limited by shares or by guarantee or, prior to the expiry of the period of two years as specified in section 17(6), a company limited both by shares and guarantee;
+
+“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
+
+[5/2005 wef 11/04/2005]
 
 “listed corporation” means a corporation that has been admitted to the official list of a securities exchange in Singapore and has not been removed from that official list;
 
@@ -2749,7 +2759,9 @@ Powers
 
 (a) is undesirable;
 
-(b) is identical to that of any other company, corporation or business name; or
+(b) is identical to that of any other company, limited liability partnership or corporation, or to a business name; or
+
+[5/2005 wef 11/04/2005]
 
 (c) [Deleted by Act 12/2002 wef 13/01/2003]
 
@@ -2759,7 +2771,9 @@ Powers
 
 (a) is a name referred to in subsection (1)(a), (b) or (d); or
 
-(b) so nearly resembles the name of another company or corporation or a business name as to be likely to be mistaken for it,
+(b) so nearly resembles the name of any other company or limited liability partnership or corporation, or a business name, as to be likely to be mistaken for it,
+
+[5/2005 wef 11/04/2005]
 
 the Registrar may direct the first-mentioned company to change its name, and the company shall comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
 
@@ -2855,7 +2869,9 @@ he shall reserve the proposed name for a period of two months from the date of t
 
 (a) a name by which the company could not be registered without contravention of section 27(1); or
 
-(b) a name that so nearly resembles the name of another company or corporation or a business name as to be likely to be mistaken for it,
+(b) a name that so nearly resembles the name of any other company or limited liability partnership or corporation, or a business name, as to be likely to be mistaken for it,
+
+[5/2005 wef 11/04/2005]
 
 the company may by special resolution change its name to a name that is not a name referred to in paragraph (a) or (b) and, if the Registrar so directs, shall so change it within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
 
@@ -6166,6 +6182,12 @@ Where a disqualified person is sentenced to imprisonment, the disqualifications 
 
 [15/84]
 
+### Disqualification under Limited Liability Partnerships Act 2004
+
+155A\. A person who is subject to a disqualification or disqualification order under section 34, 35 or 36 of the Limited Liability Partnerships Act 2005 shall not act as director of, or in any way (whether directly or indirectly) take part in or be concerned in the management of, a corporation during the period of the disqualification or disqualification order.
+
+[5/2005 wef 11/04/2005]
+
 ### Disclosure of interests in transactions, property, offices, etc.
 
 156\.—(1) Subject to this section, every director of a company who is in any way, whether directly or indirectly, interested in a transaction or proposed transaction with the company shall as soon as practicable after the relevant facts have come to his knowledge declare the nature of his interest at a meeting of the directors of the company.
@@ -6180,7 +6202,15 @@ Where a disqualified person is sentenced to imprisonment, the disqualifications 
 
 and this subsection shall have effect not only for the purposes of this Act but also for the purposes of any other law, but shall not affect the operation of any provision in the articles of the company.
 
-(4) For the purposes of subsection (1), a general notice given to the directors of a company by a director to the effect that he is an officer or member of a specified corporation or a member of a specified firm and is to be regarded as interested in any transaction which may, after the date of the notice, be made with that corporation or firm shall be deemed to be a sufficient declaration of interest in relation to any transaction so made if it specifies the nature and extent of his interest in the specified corporation or firm and his interest is not different in nature or greater in extent than the nature and extent so specified in the general notice at the time any transaction is so made, but no such notice shall be of effect unless either it is given at a meeting of the directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors after it is given.
+(4) For the purposes of subsection (1), a general notice given to the directors of a company by a director to the effect that he is an officer or member of a specified corporation or a member of a specified firm or a partner or officer of a specified limited liability partnership and is to be regarded as interested in any transaction which may, after the date of the notice, be made with that corporation, firm or limited liability partnership shall be deemed to be a sufficient declaration of interest in relation to any transaction so made if —
+
+(a) it specifies the nature and extent of his interest in the specified corporation, firm or limited liability partnership;
+
+(b) his interest is not different in nature or greater in extent than the nature and extent so specified in the general notice at the time any transaction is so made; and
+
+(c) it is given at a meeting of the directors or the director takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors after it is given.
+
+[5/2005 wef 11/04/2005]
 
 (5) Every director of a company who holds any office or possesses any property whereby whether directly or indirectly duties or interests might be created in conflict with his duties or interests as director shall declare at a meeting of the directors of the company the fact and the nature, character and extent of the conflict.
 
@@ -12780,7 +12810,7 @@ Conspiracy
 
 ### Penalty for carrying on business without registering a corporation and for improper use of words Limited and Berhad
 
-405\.—(1) If any person uses any name or title or trades or carries on business under any name or title of which “Limited”, “Berhad”, “Company”, “Corporation” or “Incorporated” or any abbreviation, imitation or translation of any of those words is the final word, or in any way holds out that the business is registered or incorporated that person shall, unless at that time the business was duly incorporated under this Act or registered under the Business Registration Act, be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+405\.—(1) If any person uses any name or title or trades or carries on business under any name or title of which “Limited”, “Berhad”, “Company”, “Corporation” or “Incorporated” or any abbreviation, imitation or translation of any of those words is the final word, or in any way holds out that the business is registered or incorporated that person shall, unless at that time the business was duly incorporated under this Act or registered under the Limited Liability Partnerships Act 2004 or the Business Registration Act, be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 ### Restriction on the use of word “Private” or “Sendirian”
 
@@ -14418,7 +14448,7 @@ General meeting
 
 Proceedings at general meetings
 
-47\. No business shall be transacted at any general meeting unless a quorum of members is present at the time when the meeting proceeds to business. Except as herein otherwise provided, two members present in person shall form a quorum. For the purposes of this regulation member includes a person attending as a proxy or as representing a corporation which is a member.
+47\. No business shall be transacted at any general meeting unless a quorum of members is present at the time when the meeting proceeds to business. Except as herein otherwise provided, two members present in person shall form a quorum. For the purposes of this regulation member includes a person attending as a proxy or as representing a corporation or a limited liability partnership which is a member.
 
 48\. If within half an hour from the time appointed for the meeting a quorum is not present, the meeting, if convened upon the requisition of members, shall be dissolved; in any other case it shall stand adjourned to the same day in the next week at the same time and place, or to such other day and at such other time and place as the directors may determine.
 
@@ -14452,7 +14482,7 @@ Unless a poll is so demanded a declaration by the chairman that a resolution has
 
 58\. No objection shall be raised to the qualification of any voter except at the meeting or adjourned meeting at which the vote objected to is given or tendered, and every vote not disallowed at such meeting shall be valid for all purposes. Any such objection made in due time shall be referred to the chairman of the meeting, whose decision shall be final and conclusive.
 
-59\. The instrument appointing a proxy shall be in writing, in the common or usual form, under the hand of the appointer or of his attorney duly authorised in writing or, if the appointer is a corporation , either under seal or under the hand of an officer or attorney duly authorised. A proxy may but need not be a member of the company. The instrument appointing a proxy shall be deemed to confer authority to demand or join in demanding a poll.
+59\. The instrument appointing a proxy shall be in writing, in the common or usual form, under the hand of the appointer or of his attorney duly authorised in writing or, if the appointer is a corporation or a limited liability partnership, either under seal or under the hand of an officer or attorney duly authorised. A proxy may but need not be a member of the company. The instrument appointing a proxy shall be deemed to confer authority to demand or join in demanding a poll.
 
 60. Where it is desired to afford members an opportunity of voting for or against a resolution the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit:
 
@@ -14528,7 +14558,7 @@ Powers and duties of directors
 
 75\. The directors may exercise all the powers of the company in relation to any official seal for use outside Singapore and in relation to branch registers.
 
-76\. The directors may from time to time by power of attorney appoint any corporation, firm , or person or body of persons, whether nominated directly or indirectly by the directors, to be the attorney or attorneys of the company for such purposes and with such powers, authorities, and discretions (not exceeding those vested in or exercisable by the directors under these Regulations) and for such period and subject to such conditions as they may think fit, and any such powers of attorney may contain such provisions for the protection and convenience of persons dealing with any such attorney as the directors may think fit and may also authorise any such attorney to delegate all or any of the powers, authorities, and discretions vested in him.
+76\. The directors may from time to time by power of attorney appoint any corporation, firm limited liability partnership, or person or body of persons, whether nominated directly or indirectly by the directors, to be the attorney or attorneys of the company for such purposes and with such powers, authorities, and discretions (not exceeding those vested in or exercisable by the directors under these Regulations) and for such period and subject to such conditions as they may think fit, and any such powers of attorney may contain such provisions for the protection and convenience of persons dealing with any such attorney as the directors may think fit and may also authorise any such attorney to delegate all or any of the powers, authorities, and discretions vested in him.
 
 77\. All cheques, promissory notes, drafts, bills of exchange, and other negotiable instruments, and all receipts for money paid to the company, shall be signed, drawn, accepted, endorsed, or otherwise executed, as the case may be, by any two directors or in such other manner as the directors from time to time determine.
 
@@ -14813,7 +14843,7 @@ Time and place at which the contracts or copies thereof or (1) in the case of a 
 
 Names and addresses of the auditors of the company
 
-Full particulars of the nature and extent of the interest, direct or indirect, of every director, and of every expert, in the promotion of or in the property proposed to be acquired by the company, or, where the interest of such a director or expert consists in being a partner in a firm or a holder of shares or debentures in a corporation, the nature and extent of the interest of the firm or corporation and where the interest of such a director or such an expert consists in a holding of shares or debentures in a corporation, a statement of the nature and extent of the interest of the director or expert in the corporation, with a statement of all sums paid or agreed to be paid to him or to the firm or corporation in cash or shares, or otherwise, by any person (in the case of a director) either to induce him to become, or to qualify him as a director or otherwise for service rendered by him or by the firm or corporation in connection with the promotion or formation of the company (in the case of an expert) for services rendered by him or the firm or corporation in connection with the promotion or formation of the company. For the purposes of this paragraph a director or expert shall be deemed to have an indirect interest in a corporation if he has any beneficial interest in shares or debentures of a corporation which has an interest in the promotion of, or in the property proposed to be acquired by the company or if he has a beneficial interest in shares or debentures in a corporation which is by virtue of section 6 of the Act deemed to be related to that first-mentioned corporation
+Full particulars of the nature and extent of the interest, direct or indirect, of every director, and of every expert, in the promotion of or in the property proposed to be acquired by the company, or, where the interest of such a director or expert consists in being a partner in a firm or limited liability partnership or a holder of shares or debentures in a corporation, the nature and extent of the interest of the firm or limited liability partnership or corporation and where the interest of such a director or such an expert consists in a holding of shares or debentures in a corporation, a statement of the nature and extent of the interest of the director or expert in the corporation, with a statement of all sums paid or agreed to be paid to him or to the firm or limited liability partnership or corporation in cash or shares, or otherwise, by any person (in the case of a director) either to induce him to become, or to qualify him as a director or otherwise for service rendered by him or by the firm or limited liability partnership or corporation in connection with the promotion or formation of the company (in the case of an expert) for services rendered by him or the firm or limited liability partnership or corporation in connection with the promotion or formation of the company. For the purposes of this paragraph a director or expert shall be deemed to have an indirect interest in a corporation if he has any beneficial interest in shares or debentures of a corporation which has an interest in the promotion of, or in the property proposed to be acquired by the company or if he has a beneficial interest in shares or debentures in a corporation which is by virtue of section 6 of the Act deemed to be related to that first-mentioned corporation
 
 And also, in the case of a statement to be lodged by a private company on becoming a public company, the following items:
 
@@ -14825,11 +14855,11 @@ Part II
 
 Reports to be set out
 
-1. Where it is proposed to acquire a business, a report by a public accountant appointed as auditor of the company (who shall be named in the statement) with respect to —
+1. Where it is proposed to acquire a business or limited liability partnership, a report by a public accountant appointed as auditor of the company (who shall be named in the statement) with respect to —
 
-(a) the profits or losses of the business in respect of each of the 3 financial years immediately preceding the lodging of the statement with the Registrar; and
+(a) the profits or losses of the business or limited liability partnership in respect of each of the 3 financial years immediately preceding the lodging of the statement with the Registrar; and
 
-(b) the assets and liabilities of the business at the last date to which the accounts of the business were made up.
+(b) the assets and liabilities of the business or limited liability partnership at the last date to which the accounts of the business or limited liability partnership were made up.
 
 Note.—Where a company is not required to furnish any of the reports referred to in this Part, a statement to that effect giving the reasons therefor should be furnished.
 
@@ -14869,9 +14899,7 @@ Provisions applying to Parts I and II of this Schedule
 
 3\. In this Schedule vendor includes any person who is a vendor for the purposes of the Fifth Schedule, and financial year has the meaning assigned to it in Part III of that Schedule.
 
-4\. If, in the case of a business which has been carried on or of a corporation which has been carrying on business for less than 3 years, the accounts of the business or corporation have only been made up in respect of 2 years or one year, Part II of this Schedule shall have effect as if references to 2 years or one year, as the case may be, were substituted for references to 3 years.
-
-4.
+4. If, in the case of a business which has been carried on or of a corporation or limited liability partnership which has been carrying on business for less than 3 years, the accounts of the business or corporation or limited liability partnership have only been made up in respect of 2 years or one year, Part II of this Schedule shall have effect as if references to 2 years or one year, as the case may be, were substituted for references to 3 years.
 
 [5/2004 wef 01/04/2004]
 
@@ -15331,3 +15359,9 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Dates of commencement|1st October 2004 (Section 28(a) and (c))|
 |77.|**G. N. No. S 57/2005—Companies Act (Amendment of Second Schedule) Notification 2005**|
 ||Date of commencement|1 February 2005|
+|78.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 64/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|11 April 2005|
