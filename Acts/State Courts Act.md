@@ -532,7 +532,7 @@ Civil Jurisdiction of District Courts
 
 (e) proceedings relating to the maintenance or advancement of an infant, where the amount or value of the property of the infant does not exceed the District Court limit;
 
-(f) proceedings for the dissolution or winding up of any partnership, whether or not the existence of the partnership is in dispute, where the amount or value of all the assets of the partnership does not exceed the District Court limit;
+(f) proceedings for the dissolution or winding up of any partnership (other than a limited liability partnership registered under the Limited Liability Partnerships Act 2005), whether or not the existence of the partnership is in dispute, where the amount or value of all the assets of the partnership does not exceed the District Court limit;
 
 (g) proceedings for relief against fraud or mistake where the damage sustained or the amount or value of the estate or fund in respect of which relief is sought does not exceed the District Court limit.
 
@@ -1125,6 +1125,12 @@ This Legislative History is provided for the convenience of users of the Subordi
 ||Date of commencement|1 August 1999|
 |14.|**1999 Revised Edition—Subordinate Courts Act**|
 ||Date of operation|1 August 1999|
+|15.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 64/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|11 April 2005|
 ## COMPARATIVE TABLE
 
 Subordinate Courts Act
