@@ -210,6 +210,10 @@ and includes the business of financing hire-purchase transactions arising out of
 
 “Government securities” has the same meaning as in the Government Securities Act (Cap. 121A);
 
+“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
+
+[5/2005 wef 11/04/2005]
+
 “officer”, in relation to a corporation, includes —
 
 (a) a director, secretary or employee of the corporation;
@@ -217,6 +221,10 @@ and includes the business of financing hire-purchase transactions arising out of
 (b) a receiver or manager of any part of the undertaking of the corporation appointed under a power contained in any instrument; and
 
 (c) the liquidator of the corporation appointed in a voluntary winding up;
+
+“partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act 2005;
+
+[5/2005 wef 11/04/2005]
 
 “person” includes a corporation;
 
@@ -668,11 +676,11 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 (a) any of the directors of the finance company;
 
-(b) any firm in which the finance company or any of its directors is a partner, manager or agent;
+(b) any firm or limited liability partnership in which the finance company or any of its directors is a partner, manager or agent;
 
 [5/2005 wef 11/04/2005]
 
-(c) any individual or firm of whom or of which any of the directors of the finance company is a guarantor;
+(c) any individual or firm or limited liability partnership of whom or of which any of the directors of the finance company is a guarantor;
 
 [5/2005 wef 11/04/2005]
 
@@ -682,7 +690,7 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 (f) any private or public company in which the finance company or any of its directors, officers, employees or other persons who receive remuneration from the finance company has an interest as a director, manager, agent or guarantor; or
 
-(g) any individual in whom, and any firmor company in which, any of the directors of the finance company has, directly or indirectly, such interest as is required to be declared under section 21B, other than those advances, loans and credit facilities, the particulars of which have been supplied under paragraphs (a) to (f).
+(g) any individual in whom, and any firm or limited liability partnership or company in which, any of the directors of the finance company has, directly or indirectly, such interest as is required to be declared under section 21B, other than those advances, loans and credit facilities, the particulars of which have been supplied under paragraphs (a) to (f).
 
 [5/2005 wef 11/04/2005]
 
@@ -716,9 +724,9 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 [27/94]
 
-(3) For the purposes of subsection (1), a general notice given to the board of directors of a finance company by a director to the effect that he is an officer or member of a specified company or a member of a specified firm and he is to be regarded as having an interest in any advance, loan or credit facility which may, after the date of the notice, be made to that companyor firm shall be deemed to be a sufficient declaration of interest in relation to any advance, loan or credit facility so made if —
+(3) For the purposes of subsection (1), a general notice given to the board of directors of a finance company by a director to the effect that he is an officer or member of a specified company or a member of a specified firm or partner or manager of a specified limited liability partnership and he is to be regarded as having an interest in any advance, loan or credit facility which may, after the date of the notice, be made to that company, firm or limited liability partnership shall be deemed to be a sufficient declaration of interest in relation to any advance, loan or credit facility so made if —
 
-(a) it specifies the nature and extent of his interest in the particular companyor firm;
+(a) it specifies the nature and extent of his interest in the particular company, firm or limited liability partnership;
 
 [5/2005 wef 11/04/2005]
 
@@ -810,7 +818,13 @@ REGULATION OF BUSINESS
 
 (a) any of its directors, whether those credit facilities are obtained by its directors jointly or severally;
 
-(b) a firm in which that finance company or any of its directors has an interest as a partner, manager or agent, or any individual or firm of whom or of which any of that finance company’s directors is a guarantor;
+(b) a firm or limited liability partnership in which that finance company or any of its directors has an interest as a partner, manager or agent;
+
+[5/2005 wef 11/04/2005]
+
+(ba) any individual of whom, or firm or limited liability partnership of which, any of that finance company’s directors is a guarantor;
+
+[5/2005 wef 11/04/2005]
 
 (c) a company in which any of that finance company’s directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of that finance company’s directors controls the composition of the board of directors, but excluding any public company the securities of which are listed on the Singapore Exchange Securities Trading Limited or any other securities exchange which the Authority may approve under the Securities and Futures Act 2001, and the subsidiaries of such public company; or
 
@@ -1306,7 +1320,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Holding out as finance company
 
-51\. Where any public or private company or firm holds itself out to be a licensed finance company when it is not licensed under this Act, such company or firm shall be guilty of an offence and every director, manager or every officer of that company and the proprietor or every partner or officer of that firm shall, unless he proves that such holding out by the company or firm was made without his knowledge or consent, be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 2 years or to both.
+51\. Where any public or private company or firm or limited liability partnership holds itself out to be a licensed finance company when it is not licensed under this Act, such company or firm or limited liability partnership shall be guilty of an offence and every director, manager or every officer of that company and the proprietor or every partner or officer of that firm and every partner or manager of the limited liability partnership shall, unless he proves that such holding out by the company or firm or limited liability partnership was made without his knowledge or consent, be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [5/2005 wef 11/04/2005]
 
@@ -1457,6 +1471,12 @@ This Legislative History is provided for the convenience of users of the Finance
 |||(Bill No. 29/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|1 January 2004|
+|15.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 64/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|11 April 2005|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
