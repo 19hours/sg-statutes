@@ -8,7 +8,7 @@
 
 - [1 Cases where contracts need not be under seal](#Cases-where-contracts-need-not-be-under-seal)
 
-- [2 Exclusion of companies under Companies Act](#Exclusion-of-companies-under-Companies-Act)
+- [2 Exclusion of companies under Companies Act and limited liability partnerships under Limited Liability Partnerships Act](#Exclusion-of-companies-under-Companies-Act-and-limited-liability-partnerships-under-Limited-Liability-Partnerships-Act)
 
 - [3 Short title](#Short-title)
 
@@ -46,9 +46,11 @@ An Act to amend the law governing the making of contracts by or on behalf of bod
 
 (5) Nothing in this section applies to the making, variation or discharge of a contract before 12th November 1993 except in so far as it was applicable by virtue of section 5 of the Civil Law Act [Cap. 43] in force before that date.
 
-### Exclusion of companies under Companies Act
+### Exclusion of companies under Companies Act and limited liability partnerships under Limited Liability Partnerships Act
 
-2\. This Act shall not apply to any company as defined in the Companies Act [Cap. 50].
+2\. This Act shall not apply to any company as defined in the Companies Act (Cap. 50) or to any limited liability partnership as defined in the Limited Liability Partnerships Act 2005.
+
+[5/2005 wef 11/04/2005]
 
 ### Short title
 
@@ -69,3 +71,8 @@ This Legislative History is provided for the convenience of users of the Corpora
 ||Date of commencement|12 November 1993|
 |2.|**1994 Revised Edition—Corporate Bodies’ Contracts Act**|
 ||Date of operation|20 May 1994|
+|3.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 64/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|11 April 2005|
