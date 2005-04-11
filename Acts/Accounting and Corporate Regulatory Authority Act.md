@@ -560,6 +560,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) the Registrar of Companies and any Deputy or Assistant Registrar of Companies appointed under the Companies Act (Cap. 50).
 
+(d) the Registrar of Limited Liability Partnerships and any Deputy or Assistant Registrar of Limited Liability Partnerships appointed under the Limited Liability Partnerships Act 2005.
+
+[5/2005 wef 11/04/2005]
+
 ### Preservation of secrecy
 
 34\.—(1) No person who is or has been —
@@ -741,6 +745,10 @@ Written Laws Administered and Enforced by Authority
 3\. Companies Act (Cap. 50).
 
 4\. Trust Companies Act (Cap. 336).
+
+5. Limited Liability Partnerships Act 2005.
+
+[5/2005 wef 11/04/2005]
 
 THIRD SCHEDULE
 
