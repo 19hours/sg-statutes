@@ -298,6 +298,10 @@ PRELIMINARY
 
 “licence” means a licence granted or held under section 7, 11 or 79;
 
+“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
+
+[5/2005 wef 11/04/2005]
+
 “officer”, in relation to a corporation, includes —
 
 (a) a director, secretary or an employee of the corporation;
@@ -305,6 +309,10 @@ PRELIMINARY
 (b) a receiver or manager of any part of the undertaking of the corporation appointed under a power contained in any instrument; and
 
 (c) the liquidator of the corporation appointed in a voluntary winding up;
+
+“partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act 2005;
+
+[5/2005 wef 11/04/2005]
 
 “person” includes a corporation;
 
@@ -1410,7 +1418,13 @@ as to whether in the opinion of the auditor, the statement or information is cor
 
 (a) any of its directors;
 
-(b) any firm in which the bank or any of its directors is a partner, manager or agent, or to any individual or firm of whom or of which any of its directors is a guarantor;
+(b) any firm or limited liability partnership in which the bank or any of its directors is a partner, manager or agent; or
+
+[5/2005 wef 11/04/2005]
+
+(ba) any individual of whom, or firm or limited liability partnership of which, any of the directors of the bank is a guarantor;
+
+[5/2005 wef 11/04/2005]
 
 (c) any related corporation of the bank;
 
@@ -1418,7 +1432,7 @@ as to whether in the opinion of the auditor, the statement or information is cor
 
 (e) any private or public company in which the bank or any of its directors, officers, employees or other persons who receive remuneration from the bank has an interest as a director, manager, agent or guarantor; or
 
-(f) any individual in whom, and any firm or company in which, any of its directors has an interest, directly or indirectly, as declared under section 28 other than the advances, loans and credit facilities, particulars of which have already been supplied under paragraphs (a) to (e).
+(f) any individual in whom, and any firm, limited liability partnership or company in which, any of its directors has an interest, directly or indirectly, as declared under section 28 other than the advances, loans and credit facilities, particulars of which have already been supplied under paragraphs (a) to (e).
 
 [23/2001]
 
@@ -1440,9 +1454,9 @@ as to whether in the opinion of the auditor, the statement or information is cor
 
 (2) The requirements of subsection (1) shall not apply in any case where the interest of the director consists only of being a member or creditor of a company which is interested in an advance, loan or credit facility or proposed advance, loan or credit facility from that bank if the interest of the director may properly be regarded as of a trivial nature.
 
-(3) For the purposes of subsection (1), a general notice given to the board of directors of a bank by a director to the effect that he is an officer or member of a specified company or a member of a specified firm and he is to be regarded as having an interest in any advance, loan or credit facility which may, after the date of the notice, be made to that company or firmshall be deemed to be a sufficient declaration of interest in relation to any advance, loan or credit facility so made if —
+(3) For the purposes of subsection (1), a general notice given to the board of directors of a bank by a director to the effect that he is an officer or member of a specified company or a member of a specified firm or partner or manager of a specified limited liability partnership and he is to be regarded as having an interest in any advance, loan or credit facility which may, after the date of the notice, be made to that company or firm or limited liability partnership shall be deemed to be a sufficient declaration of interest in relation to any advance, loan or credit facility so made if —
 
-(a) it specifies the nature and extent of his interest in the particular company or firm;
+(a) it specifies the nature and extent of his interest in the particular company or firm or limited liability partnership ;
 
 (b) his interest is not different in nature or greater in extent than the nature and extent so specified in the notice at the time any advance, loan or credit facility is made; and
 
@@ -1486,7 +1500,7 @@ PROHIBITED BUSINESS
 
 (i) to any of its directors, whether those credit facilities are obtained by its directors jointly or severally;
 
-(ii) to a firm in which the bank or any of its directors has an interest as a partner, manager or agent, or to any individual or firm of whom or of which any of its directors is a guarantor;
+(ii) to a firm or limited liability partnership in which the bank or any of its directors has an interest as a partner, manager or agent, or to any individual or firm or limited liability partnership of whom or of which any of its directors is a guarantor;
 
 (iii) to a company in which any of its directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of its directors controls the composition of the board of directors, but excluding public companies the securities of which are listed on any securities exchange approved under the Securities and Futures Act (Cap. 289) or such other securities exchange which the Authority may approve, and the subsidiaries of such public companies; or
 
@@ -3195,6 +3209,12 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 3/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 April 2004|
+|21.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 64/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|11 April 2005|
 ## COMPARATIVE TABLE
 
 Banking Act
