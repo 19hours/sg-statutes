@@ -2618,8 +2618,6 @@ Rates of Contribution
 
 1. Subject to paragraphs 2 to 7, with effect from 1st January 2005, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
-[S 801/2004 wef 01/01/2005]
-
 1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
 (a) where the employee is not more than 55 years of age:
@@ -4178,8 +4176,6 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (70) Urban Redevelopment Authority.
 
-[S 801/2004 wef 01/01/2005]
-
 7. Contributions shall be payable for and recoverable from the wages of such employees who are —
 
 (a) pensionable employees at the rates prescribed for pensionable employees of the Government;
@@ -4290,6 +4286,10 @@ Self-employed Persons
 17\.Deleted by Act 42/2001, wef 01/10/2002.
 
 18\. Homes for the Aged Act (Cap. 126A).
+
+18A. Limited Liability Partnerships Act 2005 (Act 5 of 2005).
+
+[S 243/2005 wef 11/04/2005]
 
 19\. Maritime and Port Authority of Singapore Act (Cap. 170A).
 
@@ -4838,6 +4838,8 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|15 December 2004|
 |138.|**G.N. No. S 801/2004—Central Provident Fund Act (Amendment of First Schedule) Notification 2004**|
 ||Date of commencement|1 January 2005|
+|139.|**G.N. No. S 243/2005—Central Provident Fund Act (Amendment of Third Schedule) Notification 2005**|
+||Date of commencement|11 April 2005|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
