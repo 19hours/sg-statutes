@@ -12,6 +12,8 @@
 
 - [3 Settlement between insurers and insured persons](#Settlement-between-insurers-and-insured-persons)
 
+- [3A Application to limited liability partnerships](#Application-to-limited-liability-partnerships)
+
 - [4 Short title](#Short-title)
 
 [**Legislative History**](#Legislative-History)
@@ -58,7 +60,7 @@ if, either before or after that event, any such liability is incurred by the ins
 
 (a) where a company is wound up voluntarily merely for the purposes of reconstruction or of amalgamation with another company; or
 
-(b) to any case to which section 19(1) and (2) of the Workmen’s Compensation Act [Cap. 354] applies.
+(b) to any case to which section 19(1) and (2) of the Workmen’s Compensation Act applies.
 
 ### Duty to give necessary information to third parties
 
@@ -71,6 +73,12 @@ if, either before or after that event, any such liability is incurred by the ins
 ### Settlement between insurers and insured persons
 
 3\. Where the insured has become bankrupt or where, in the case of the insured being a company, a winding-up order has been made or a resolution for a voluntary winding up has been passed, with respect to the company, no agreement made between the insurer and the insured after liability has been incurred to a third party and after the commencement of the bankruptcy or winding up, as the case may be, nor any waiver, assignment, or other disposition made by, or payment made to the insured after the commencement aforesaid shall be effective to defeat or affect the rights transferred to the third party under this Act, but those rights shall be the same as if no such agreement, waiver, assignment, disposition or payment had been made.
+
+### Application to limited liability partnerships
+
+3A\. This Act applies to limited liability partnerships registered under the Limited Liability Partnerships Act 2005 as it applies to companies.
+
+[5/2005 wef 01/04/2005]
 
 ### Short title
 
@@ -91,3 +99,9 @@ This Legislative History is provided for the convenience of users of the Third P
 ||Date of commencement|12 November 1993|
 |2.|**1994 Revised Edition—Third Parties (Rights Against Insurers) Act**|
 ||Date of operation|20 May 1994|
+|3.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 64/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|11 April 2005|
