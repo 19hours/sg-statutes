@@ -310,9 +310,13 @@ PRELIMINARY
 
 (i) the individual’s spouse, son, adopted son, step-son, daughter, adopted daughter, step-daughter, father, step-father, mother, step-mother, brother, step-brother, sister or step-sister; and
 
-(ii) a firm or a corporation in which the individual or any of the persons mentioned in sub-paragraph (i) has control of not less than 20% of the voting power in the firm or corporation, whether such control is exercised individually or jointly; and
+(ii) a firm, a limited liability partnership or a corporation in which the individual or any of the persons mentioned in sub-paragraph (i) has control of not less than 20% of the voting power in the firm, limited liability partnership or corporation, whether such control is exercised individually or jointly;
 
-(b) a firm or a corporation, means another firm or corporation in which the first-mentioned firm or corporation has control of not less than 20% of the voting power in that other firm or corporation,
+[5/2005 wef 11/04/2005]
+
+(b) a firm, a limited liability partnership or a corporation, means another firm, limited liability partnership or corporation in which the first-mentioned firm, limited liability partnership or corporation has control of not less than 20% of the voting power in that other firm, limited liability partnership or corporation,
+
+[5/2005 wef 11/04/2005]
 
 and a reference in this Act to a person connected to another person shall be construed accordingly;
 
@@ -352,9 +356,17 @@ and a reference in this Act to a person connected to another person shall be con
 
 “life policy” has the same meaning as in the Schedule to the Insurance Act (Cap. 142), but does not include any contract of reinsurance;
 
+“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
+
+[5/2005 wef 11/04/2005]
+
 “newspaper” has the same meaning as in section 2 of the Newspaper and Printing Presses Act (Cap. 206);
 
 “officer” has the same meaning as in section 4(1) of the Companies Act;
+
+“partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act 2005;
+
+[5/2005 wef 11/04/2005]
 
 “prescribed written law” means this Act, or any of the following written laws and any subsidiary legislation made thereunder:
 
@@ -2290,17 +2302,27 @@ OFFENCES
 
 (3) Where an offence under this Act committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, the partner as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
+(3A) Where an offence under this Act committed by a limited liability partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner or manager of the limited liability partnership, the partner or manager (as the case may be) as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+[5/2005 wef 11/04/2005]
+
 (4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the association or a member of its governing body, the officer or member as well as the association shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
 (5) In this section —
 
-“partner” includes a person purporting to act as a partner;
+“body corporate” and “partnership” exclude a limited liability partnership within the meaning of the Limited Liability Partnerships Act 2005;
+
+[5/2005 wef 11/04/2005]
 
 “officer” —
 
 (a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body, and includes a person purporting to act in any such capacity; or
 
 (b) in relation to an unincorporated association (other than a partnership), means the president, the secretary , or a member of the committee of the association or a person holding a position analogous to that of president, secretary or member of a committee, and includes a person purporting to act in any such capacity.
+
+“partner”, in relation to a partnership, includes a person purporting to act as a partner.
+
+[5/2005 wef 11/04/2005]
 
 (6) Without prejudice to the generality of section 104(1), the Authority may make regulations to provide for the application of any provision of this section, with such modifications as the Authority considers appropriate, to a body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
@@ -2357,6 +2379,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (b) offences under any subsidiary legislation made under this Act where it is expressly provided in the subsidiary legislation that subsection (1) shall not apply to those offences.
 
 (3) Where an individual is convicted of an offence under this Act by virtue of section 83, he shall be liable to the fine or imprisonment or both as prescribed for that offence and subsection (1) shall not apply.
+
+(4) In this section, “body corporate” excludes a limited liability partnership within the meaning of the Limited Liability Partnerships Act 2005.
+
+[5/2005 wef 11/04/2005]
 
 ### Composition of offences
 
@@ -2694,9 +2720,7 @@ whose carrying on of the business of providing any financial advisory service is
 
 10\. Any person acting in relation to a company as its liquidator, provisional liquidator, receiver, receiver and manager, or judicial manager.
 
-11\. A foreign company (within the meaning of section 4(1) of the Companies Act (Cap. 50)) whose provision of any financial advisory service is effected under an arrangement between the foreign company (on the one hand) and its related corporation which is licensed under this Act or exempt under section 23 (other than subsections (1)(f) and (2)) (on the other hand), where such arrangement is approved by the Authority.
-
-11.
+11. A foreign company (within the meaning of section 4(1) of the Companies Act (Cap. 50)) whose provision of any financial advisory service is effected under an arrangement between the foreign company (on the one hand) and its related corporation which is licensed under this Act or exempt under section 23 (other than subsections (1)(f) and (2)) (on the other hand), where such arrangement is approved by the Authority.
 
 [15/2003 wef 22/12/2003]
 
@@ -2756,6 +2780,12 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 21/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|1 January 2004|
+|5.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 64/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|11 April 2005|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
