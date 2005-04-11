@@ -114,13 +114,15 @@ An Act relating to societies.
 
 2\. In this Act, unless the context otherwise requires —
 
-“Assistant Registrar,” means an Assistant Registrar of Societies appointed under section 3;
+“Assistant Registrar” means an Assistant Registrar of Societies appointed under section 3;
 
 “officer” means the president, the secretary and members of the committee of a society and includes persons holding positions analogous to those of president, secretary of member of a committee;
 
 “place of business” means the place where the records and books of account of a society are kept;
 
 “political association” includes any society which the Minister may by order declare to be a political association;
+
+[15/2004 wef 01/09/2004]
 
 “registered society” means a society registered or deemed to be registered under this Act;
 
@@ -133,6 +135,10 @@ An Act relating to societies.
 (a) any company registered under any written law relating to companies for the time being in force in Singapore;
 
 (b) any company or association constituted under any written law;
+
+(ba) any limited liability partnership registered under the Limited Liability Partnerships Act 2005;
+
+[5/2005 wef 11/04/2005]
 
 (c) any trade union registered or required to be registered under any written law relating to trade unions for the time being in force in Singapore;
 
@@ -736,3 +742,9 @@ The Societies Act 1966 repealed and re-enacted with amendments the Societies Act
 |||(Bill No. 14/2004 published on 20 August 2004)|
 ||Date of Second and Third Readings|19 May 2004|
 ||Date of commencement|1 September 2004|
+|8.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 64/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|11 April 2005|
