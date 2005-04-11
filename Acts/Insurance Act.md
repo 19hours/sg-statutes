@@ -398,6 +398,14 @@ PRELIMINARY
 
 “life reinsurance broker” means a person who is for the time being registered under section 35X in respect of reinsurance of liabilities under insurance policies relating to life business;
 
+“limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
+
+[5/2005 wef 11/04/2005]
+
+“partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act 2005;
+
+[5/2005 wef 11/04/2005]
+
 “registered insurance broker” means an insurance broker who is for the time being registered under section 35X;
 
 “reinsurer” means an insurer whose registration is restricted to the carrying on of reinsurance business;
@@ -514,7 +522,9 @@ General restriction on insurers
 
 (a) that person shall be guilty of an offence; and
 
-(b) where that person is a corporation or firm, every director, manager or officer of the corporation and every partner or officer of the firm shall, unless he proves that the offence was committed without his knowledge or consent, be guilty of an offence.
+(b) where that person is a corporation, limited liability partnership or firm, every director, manager or officer of the corporation and every partner or officer of the firm and every partner or manager of the limited liability partnership (as the case may be) shall, unless he proves that the offence was committed without his knowledge or consent, be guilty of an offence.
+
+[5/2005 wef 11/04/2005]
 
 (2) Any person who is guilty of an offence under subsection (1) shall be liable on conviction to a fine not exceeding $75,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $7,500 for every day or part thereof during which the offence continues after conviction.
 
@@ -3997,6 +4007,11 @@ This Legislative History is provided for the convenience of users of the Insuran
 |||(Bill No. 20/2003 published on 12 December 2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|23 August 2004 (Sections 18(d) and (e), 19 and 20(c))|
+|21.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 64/2004 published on 11 February 2005)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|11 April 2005|
 ## COMPARATIVE TABLE
 
 Insurance Act
