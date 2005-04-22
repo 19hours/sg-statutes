@@ -1222,7 +1222,15 @@ which do not form part of the statutory income of the designated unit trust or a
 
 [7/2007 wef 17/02/2006]
 
-(g) gains or profits derived on or after 27th February 2004 from the disposal of debentures, stocks, shares, bonds or notes issued by supranational bodies,
+(g) gains or profits derived on or after 27th February 2004 from the disposal of debentures, stocks, shares, bonds or notes issued by supranational bodies;
+
+(h) prepayment fee, redemption premium and break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2008; and
+
+[53/2007 wef 15/02/2007]
+
+(i) such other income directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations,
+
+[53/2007 wef 15/02/2007]
 
 which do not form part of the statutory income of the designated unit trust or approved CPF unit trust by virtue of section 35(12A) shall be deemed to be income of the unit holder if he is not a foreign investor.
 
@@ -1239,6 +1247,10 @@ which do not form part of the statutory income of the designated unit trust or a
 (23) In subsections (20), (20A), (21) and (22) —
 
 “approved CPF unit trust” has the same meaning as in section 35(14);
+
+“break cost”, “prepayment fee” and “redemption premium” have the same meanings as in section 13(16);
+
+[53/2007 wef 15/02/2007]
 
 “compensatory payment” has the same meaning as in section 10N(12);
 
@@ -5109,7 +5121,7 @@ is the amount of capital expenditure incurred for the acquisition of the IRU; an
 
 B
 
-is the writing-down period for the IRU
+is the writing-down period for the IRU.
 
 (4) Notwithstanding anything in this section, no writing-down allowance shall be granted to any person under subsection (1) in any year of assessment if the international telecommunications submarine cable system is not in use at the end of the basis period for that year of assessment by that person in the trade, business or profession carried on by him.
 
@@ -5263,7 +5275,7 @@ B
 
 is the capital expenditure incurred in respect of the motor car.
 
-Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(4)(a) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276).
+(6) Notwithstanding anything in this section, no balancing allowance shall be made in respect of a motor car within the meaning of section 19(4)(a) which is not, for any basis period after the basis period for the year of assessment 1981, registered as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276).
 
 [9/80; 1/98]
 
@@ -9939,13 +9951,9 @@ G.N. No. S 158/82.
 
 G.N. No. S 137/84.
 
-7. Singapore Civil Defence Association for National Servicemen
+7. HomeTeamNS
 
-G.N. No. S 67/96.
-
-8. Singapore Police Association for National Servicemen
-
-G.N. No. S 67/96.
+8. Singapore Police Association for National Servicemen —Deleted by S 194/2006, wef 22/04/2005.
 
 9. Titular Anglican Bishop of Singapore
 
@@ -9958,6 +9966,8 @@ Cap. 375.
 11. Young Men’s Christian Association
 
 12. Young Women’s Christian Association
+
+[S 194/2006 wef 22/04/2005]
 
 SECOND SCHEDULE
 
@@ -11240,6 +11250,8 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 27/2005 published on 20 September 2005)|
 ||Date of Second and Third Readings|18 October 2005|
 ||Date of commencement|1 April 2005 (Sections 34,47)|
+|193.|**G.N. No. S 194/2006—Income Tax Act (Amendment of First Schedule) Order 2006**|
+||Date of commencement|22 April 2005 (paragraph 2(b))|
 ## COMPARATIVE TABLE
 
 Income Tax Act
