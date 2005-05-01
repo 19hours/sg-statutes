@@ -32,7 +32,7 @@
 
 - [10 Establishment of limitation fund outside Singapore](#Establishment-of-limitation-fund-outside-Singapore)
 
-- [11 Exclusions](#Exclusions)
+- [11 (Repealed)](#Repealed)
 
 - [12 Extinguishment of claims](#Extinguishment-of-claims)
 
@@ -352,23 +352,7 @@ no proceedings shall be taken against the other person in respect of his liabili
 
 10\. Where the events resulting in the liability of any person under section 3 also resulted in a corresponding liability under the law of another Liability Convention country, sections 8 and 9 shall apply as if the references to sections 3 and 7 included references to the corresponding provisions of that law and the references to sums paid into Court included references to any sums secured under these provisions in respect of the liability.
 
-### Exclusions
-
-11\.—(1) Sections 6 to 10 shall not apply to a ship which at the time of the discharge or escape of oil from the ship, or at the time the relevant threat of contamination arose, as the case may be, was registered in a country —
-
-(a) which was neither a Liability Convention country nor a country that is a party to the International Convention on Civil Liability for Oil Pollution Damage 1969; and
-
-(b) which was a country in respect of which the 1957 Convention was in force.
-
-(2) If the Minister, by order published in theGazette, declares that any country —
-
-(a) is neither a Liability Convention country nor a country that is a party to the International Convention on Civil Liability for Oil Pollution Damage 1969; and
-
-(b) is a country in respect of which the 1957 Convention is in force,
-
-or that it was such a country at a time specified in the order, the order shall, while in force, be conclusive evidence of the facts stated in the order.
-
-(3) In this section, “the 1957 Convention” means the International Convention relating to the Limitation of the Liability of Owners of Sea-going Ships signed in Brussels on 10th October 1957.
+11\. [Deleted by Act 56/2004 wef 01/05/2005]
 
 ### Extinguishment of claims
 
@@ -826,3 +810,8 @@ This Legislative History is provided for the convenience of users of the Merchan
 ||Date of operation|30 December 1999|
 |3.|**G. N. No. S 486/2003—Merchant Shipping (Civil Liability And Compensation For Oil Pollution) Act (Amendment Of Limits Of Liability Under Sections 6 And 28) Order 2003**|
 ||Date of commencement|1 November 2003|
+|4.|**Act 56 of 2004—Merchant Shipping (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 53/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|16 November 2004|
+||Date of commencement|1 May 2005|
