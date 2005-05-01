@@ -2139,8 +2139,6 @@ EXEMPTION FROM INCOME TAX
 
 (b) 
 
-(b) the official emoluments of consular officers (as defined in the Consular Conventions Act (Cap. 52)) of foreign countries and of Commonwealth officers (as defined in the Diplomatic Privileges (Commonwealth Countries and Republic of Ireland) Act (Cap. 83)) and of persons employed on the staff of any such consular or Commonwealth officer who are subjects or citizens of the country which they represent, but only to the extent to which reciprocal treatment is accorded by the country which they represent to Singapore consular officers or to corresponding members of the staff of such consular officer;
-
 (c) the official emoluments payable from Commonwealth funds to members of Commonwealth forces, and to persons in the service of a Commonwealth government, in Singapore, in respect of their offices under such Commonwealth government, if such emoluments are subject to income tax in such Commonwealth country;
 
 (d) any gains or profits, other than dividends derived from Singapore from which tax has been deducted under section 44, arising from sums standing in the SRS account of any SRS member except where section 10L(13) applies;
@@ -5121,7 +5119,7 @@ is the amount of capital expenditure incurred for the acquisition of the IRU; an
 
 B
 
-is the writing-down period for the IRU.
+is the writing-down period for the IRU
 
 (4) Notwithstanding anything in this section, no writing-down allowance shall be granted to any person under subsection (1) in any year of assessment if the international telecommunications submarine cable system is not in use at the end of the basis period for that year of assessment by that person in the trade, business or profession carried on by him.
 
@@ -10260,27 +10258,19 @@ Child Relief
 
 5. Where a married woman, divorcee or widow has a child who is a citizen of Singapore as at 31st December of the year immediately preceding the year of assessment, the following deductions shall, without prejudice to any deduction allowable under paragraph 1 or proviso (A) to section 39(2)(e), be allowable to her only:
 
-(a)
-
-First eligible child
+(a) First eligible child
 
 5% of her earned income;
 
-(b)
-
-Second eligible child
+(b) Second eligible child
 
 15% of her earned income;
 
-(c)
-
-Third eligible child
+(c) Third eligible child
 
 20% of her earned income;
 
-(d)
-
-Fourth eligible child of the family who is born on or after 1987 (other than a child adopted before 1st January 2004)
+(d) Fourth eligible child of the family who is born on or after 1987 (other than a child adopted before 1st January 2004)
 
 25% of her earned income.
 
@@ -11252,6 +11242,12 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 April 2005 (Sections 34,47)|
 |193.|**G.N. No. S 194/2006—Income Tax Act (Amendment of First Schedule) Order 2006**|
 ||Date of commencement|22 April 2005 (paragraph 2(b))|
+|194.|**Act 8 of 2005—Diplomatic and Consular Relations Act 2005**|
+||(Related amendments made to Act by)||
+||Date of First Reading|16 November 2004|
+|||(Bill No. 65/2004 published on 17 November 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|1 May 2005|
 ## COMPARATIVE TABLE
 
 Income Tax Act
