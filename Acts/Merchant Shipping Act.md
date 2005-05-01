@@ -286,29 +286,29 @@
 
 - [133 Wharfinger’s and warehouseman’s protection](#Wharfinger’s-and-warehouseman’s-protection)
 
-[**Part VIII LIABILITY OF SHIPOWNERS**](#Part-VIII)
+[**Part VIII LIABILITY OF SHIPOWNERS AND SALVORS FOR MARITIME CLAIMS**](#Part-VIII)
 
 - [134 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [135 Exclusion of shipowner’s liability in certain cases of loss of or damage to goods](#Exclusion-of-shipowner’s-liability-in-certain-cases-of-loss-of-or-damage-to-goods)
+- [135 Exclusion of liability](#Exclusion-of-liability)
 
-- [136 Limitation of shipowner’s liability in certain cases of loss of life, injury or damage](#Limitation-of-shipowner’s-liability-in-certain-cases-of-loss-of-life-injury-or-damage)
+- [136 Limitation of liability for maritime claims](#Limitation-of-liability-for-maritime-claims)
 
-- [137 Power of High Court to consolidate claims against owners, etc.](#Power-of-High-Court-to-consolidate-claims-against-owners-etc)
+- [137 General limits](#General-limits)
 
-- [138 Part owners to account in respect of damages](#Part-owners-to-account-in-respect-of-damages)
+- [138 Limit for passenger claims](#Limit-for-passenger-claims)
 
-- [139 Insurances of certain risks not invalid](#Insurances-of-certain-risks-not-invalid)
+- [139 Constitution and distribution of fund](#Constitution-and-distribution-of-fund)
 
-- [140 Proof of passengers on board ship](#Proof-of-passengers-on-board-ship)
+- [140 Bar to other actions](#Bar-to-other-actions)
 
-- [141 Extension to other persons of provisions relating to shipowners](#Extension-to-other-persons-of-provisions-relating-to-shipowners)
+- [141 Meaning of "State Party"](#Meaning-of-"State-Party")
 
-- [142 Unregistered ships and ships in course of completion or construction](#Unregistered-ships-and-ships-in-course-of-completion-or-construction)
+- [142 Units of Account](#Units-of-Account)
 
-- [143 Release of ship](#Release-of-ship)
+- [143 Amendment of Schedule](#Amendment-of-Schedule)
 
-- [144 Restriction on enforcement after giving security](#Restriction-on-enforcement-after-giving-security)
+- [144 Saving](#Saving)
 
 [**Part IX WRECK AND SALVAGE**](#Part-IX)
 
@@ -461,6 +461,8 @@
 - [216 Regulations](#Regulations)
 
 - [217 Transitional provisions](#Transitional-provisions)
+
+[**THE SCHEDULE Convention on Limitation of Liability for Maritime Claims, 1976 Part I Text of Convention Chapter I Right of Limitation**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -2124,159 +2126,99 @@ but in the latter case, the lien shall be discharged without prejudice to any ot
 
 ## PART VIII
 
-LIABILITY OF SHIPOWNERS
+LIABILITY OF SHIPOWNERS AND SALVORS FOR MARITIME CLAIMS
+
+[56/2004 wef 01/05/2005]
 
 ### Interpretation of this Part
 
-134\. In this Part,
+134\. In this Part —
 
-“owner” —
+“Convention” means the Convention on Limitation of Liability for Maritime Claims, 1976, as set out in the Schedule;
 
-(a) in section 135, includes every person whose liability is excluded by section 141; and
+“ship” in the Convention includes —
 
-(b) in any other provision of this Part, except where it secondly appears in section 138, includes every person whose liability is limited by section 141.
+(a) any air-cushion vehicle designed to operate in or over water while so operating; and
 
-### Exclusion of shipowner’s liability in certain cases of loss of or damage to goods
+(b) any structure (whether completed or in the course of completion) launched and intended for use in navigation as a ship or part of a ship.
 
-135\. The owner of a Singapore ship or any share therein shall not be liable to make good to any extent whatever any loss or damage happening without his actual fault or privity in the following cases:
+### Exclusion of liability
 
-(a) where any goods, merchandise or other thing whatsoever taken in or put on board his ship are lost or damaged by reason of fire on board the ship; or
+135\.—(1) Subject to subsection (3), the owner of a Singapore ship is not liable for any loss or damage —
 
-(b) where any gold, silver, diamonds, watches, jewels or precious stones taken in or put on board his ship, the true nature and value of which have not at the time of shipment been declared by the owner or shipper thereof to the owner or the master of the ship in the bills of lading or otherwise in writing, are lost or damaged by reason of any robbery, embezzlement, making away with or secreting thereof.
+(a) where any property on board the ship is lost or damaged by reason of fire on board the ship; or
 
-### Limitation of shipowner’s liability in certain cases of loss of life, injury or damage
+(b) where any gold, silver, watches, jewels or precious stones on board the ship are lost or damaged by reason of theft, robbery or other dishonest conduct and their nature and value were not at the time of shipment declared by their owner or shipper to the owner or master of the ship in the bill of lading or otherwise in writing.
 
-136\.—(1) The owner of a ship shall not, where all or any of the following occurrences take place without his actual fault or privity:
+(2) Subject to subsection (3), where the loss or damage arises from anything done or omitted by any person in his capacity as master or member of the crew or (otherwise than in that capacity) in the course of his employment as a servant of the owner of the ship, subsection (1) also excludes the liability of —
 
-(a) where any loss of life or personal injury is caused to any person being carried in the ship;
+(a) the master, member of the crew or servant; and
 
-(b) where any damage or loss is caused to any goods, merchandise or other things whatsoever on board the ship;
+(b) in a case where the master or member of the crew is the servant of a person whose liability would not be excluded by that subsection apart from this paragraph, the person whose servant he is.
 
-(c) where any loss of life or personal injury is caused to any person not carried in the ship through the act or omission of any person (whether on board the ship or not) in the navigation or management of the ship or in the loading, carriage or discharge of its cargo or in the embarkation, carriage or disembarkation of its passengers, or through any other act or omission of any person on board the ship; and
+(3) This section does not exclude the liability of any person for any loss or damage resulting from any such personal act or omission of his as is mentioned in Article 4 of the Convention.
 
-(d) where any loss or damage is caused to any property (other than any property mentioned in paragraph (b)) or any right is infringed through the act or omission of any person (whether on board the ship or not) in the navigation or management of the ship, or in the loading, carriage or discharge of its cargo or in the embarkation, carriage or disembarkation of its passengers, or through any other act or omission of any person on board the ship,
+(4) In this section, “owner”, in relation to a ship, includes any part owner and any charterer, manager or operator of the ship.
 
-be liable to damages beyond the following amounts:
+### Limitation of liability for maritime claims
 
-(i) in respect of loss of life or personal injury, either alone or together with such loss, damage or infringement as is mentioned in paragraphs (b) and (d), an aggregate amount not exceeding in the currency of Singapore the equivalent of 3,100 gold francs for each ton of the ship’s tonnage; and
+136\.—(1) Subject to this Part, the provisions of the Convention, other than paragraph 1(d) and (e) of Article 2 of the Convention, shall have the force of law in Singapore.
 
-(ii) in respect of such loss, damage or infringement as is mentioned in paragraphs (b) and (d), whether there is loss of life or personal injury or not, an aggregate amount not exceeding in the currency of Singapore the equivalent of 1,000 gold francs for each ton of the ship’s tonnage.
+(2) For the purposes of paragraph 3 of Article 6 of the Convention, it is hereby provided that a claim in respect of damage to harbour works, basins, waterways or aids to navigation has priority over any other claim under paragraph 1(b) of that Article.
 
-(1A) For the purpose of ascertaining the limit of the owner’s liability in accordance with sub-paragraph (i) of subsection (1), the tonnage of a ship of less than 300 tons shall be deemed to be 300 tons.
+(3) Notwithstanding paragraph 2 of Article 1 of the Convention, the right to limit liability under the Convention applies in relation to any ship whether seagoing or not, and “shipowner” in that paragraph has a corresponding meaning.
 
-(2) For the purposes of this section —
+### General limits
 
-(a) the tonnage of a mechanically propelled ship shall be its net tonnage with the addition, if any, of engine-room space deducted for the purpose of ascertaining that tonnage, and the tonnage of any other ship shall be its net tonnage;
+137\.—(1) In the application of Article 6 of the Convention —
 
-(b) if the tonnage of a ship cannot be ascertained in accordance with paragraph (a), the Director shall, if so directed by the court, certify what, on the evidence specified in the direction, would in his opinion be the tonnage of the ship if ascertained in accordance with that paragraph; and
+(a) to a ship licensed as a harbour craft under the Maritime and Port Authority of Singapore Act (Cap. 170A), that Article has effect as if the aggregate of the amounts in paragraph 1(a)(i) and (b)(i) referred to the sum insured under the policy of insurance for the time being required by the Port Master under that Act to be in force in relation to that harbour craft in respect of third party risks; and
 
-(c) a gold franc shall be taken to be a unit consisting of 65½ milligrams of gold of millesimal fineness 900.
+(b) to any other ship with a tonnage less than 300 tons, that Article has effect as if —
 
-(3) The Minister may, from time to time, by order published in theGazette, specify the amounts which for the purposes of this section are to be taken as equivalent to 3,100 and 1,000 gold francs, respectively.
+(i) paragraph 1(a)(i) referred to 166,667 Units of Account; and
 
-(4) The limits set by this section to the liabilities mentioned herein shall apply to the aggregate of such liabilities which are incurred on any distinct occasion, and shall so apply in respect of each distinct occasion without regard to any liability incurred on another occasion.
+(ii) paragraph 1(b)(i) referred to 83,333 Units of Account.
 
-(5) The application of this section to any liability shall not be excluded by reason only that the occurrence giving rise to the liability was not due to the negligence of any person.
+(2) For the purposes of Article 6 of the Convention and subsection (1)(b), a ship’s tonnage is its gross tonnage calculated in such manner as may be prescribed by an order made by the Minister.
 
-(6) Nothing in this section shall apply to any liability in respect of loss of life or personal injury caused to, or loss of or damage to any property or infringement of any right of, a person who is on board or employed in connection with a ship under a contract of service with all or any of the persons whose liabilities are limited by this section, if that contract is governed by the law of any country outside Singapore and that law either does not set any limit to that liability or sets a limit exceeding that set to it by this section.
+(3) Any order under this section shall, so far as appears to the Minister to be practicable, give effect to the regulations in Annex I of the International Convention on Tonnage Measurement of Ships, 1969.
 
-### Power of High Court to consolidate claims against owners, etc.
+### Limit for passenger claims
 
-137\.—(1) Where any liability is alleged to have been incurred by the owner of a ship in respect of any occurrence in respect of which his liability is limited under section 136, and several claims are made or apprehended in respect of that liability, then the owner may apply to the High Court, and the Court may —
+138\. In the case of a passenger ship within the meaning of Part V, the ship’s certificate mentioned in paragraph 1 of Article 7 of the Convention is the passenger ship’s certificate issued under or recognised by regulations made under section 100.
 
-(a) determine the amount of the owner’s liability;
+### Constitution and distribution of fund
 
-(b) distribute that amount rateably among the several claimants;
+139\.—(1) The Authority may, from time to time, by order prescribe the rate of interest to be applied for the purposes of paragraph 1 of Article 11 of the Convention.
 
-(c) stay any proceedings pending in any other court in relation to the same matter; and
+(2) Where a fund is constituted with the High Court in accordance with Article 11 of the Convention for the payment of claims arising out of any occurrence, the Court may stay any proceedings relating to any claim arising out of that occurrence which are pending against the person by whom the fund has been constituted.
 
-(d) proceed in such manner and subject to such regulations as to —
+(3) No lien or other right in respect of any ship or property shall affect the proportions in which under Article 12 of the Convention the fund is distributed among several claimants.
 
-(i) making persons interested parties to the proceedings;
+### Bar to other actions
 
-(ii) the exclusion of any claimants who do not come in within a certain time;
+140\. Where the release of a ship or other property is ordered under paragraph 2 of Article 13 of the Convention, the person on whose application it is ordered to be released is deemed to have submitted to the jurisdiction of the High Court to adjudicate on the claim for which the ship or property was arrested or attached.
 
-(iii) requiring security from the owner; and
+### Meaning of “State Party”
 
-(iv) payment of any costs,
+141\. The Minister may, by order published in theGazette, declare that any State specified in the order is, or was at a date specified in the order, a party to the Convention in respect of a particular country, and any such order shall be conclusive evidence that that State is, while the order remains in force, or was at that date, a party to the Convention in respect of that country.
 
-as the Court thinks just.
+### Units of Account
 
-(2) In making any distribution in accordance with subsection (1), the High Court may, if it thinks fit, postpone the distribution of such part of the amount to be distributed as it thinks appropriate, having regard to any claim that may later be established before a court of any country outside Singapore.
+142\.—(1) For the purposes of Article 6 of the Convention, the Authority may certify the respective amounts in Singapore dollar which are to be taken as equivalent for a particular day to the sums expressed in special drawing rights in that Article.
 
-(3) No lien or other right in respect of any ship or property shall affect the proportions in which any amount is distributed among several claimants under this section.
+(2) A certificate given by the Authority under subsection (1) shall be conclusive evidence of the matters referred to in that subsection for the purposes of that Article; and a document purporting to be such a certificate shall, in any proceedings, be received in evidence and, unless the contrary is proved, be deemed to be such a certificate.
 
-### Part owners to account in respect of damages
+(3) The Authority may charge such fee as it may determine for any certificate given by it under this section.
 
-138\. All sums paid for or on account of any loss or damage in respect of which the liability of owners is limited under this Part, and all costs incurred in relation thereto, may be brought into account among part owners of the same ship in the same manner as money disbursed for the use thereof.
+### Amendment of Schedule
 
-### Insurances of certain risks not invalid
+143\. The Minister may, by order published in theGazette, amend the Schedule in accordance with any revision to the Convention or to any protocol to the Convention which may apply to Singapore from time to time.
 
-139\. An insurance effected against the happening, without the actual fault or privity of the owner of a ship, of any or all of the events in respect of which the liability of owners is limited under this Part shall not be invalid by reason of the nature of the risk.
+### Saving
 
-### Proof of passengers on board ship
-
-140\. In any proceedings under this Part against the owner of a ship or any share therein with respect to loss of life, any passenger list may be received as evidence that the person upon whose death proceedings are taken under this Part was a passenger on board the ship at the time of death.
-
-### Extension to other persons of provisions relating to shipowners
-
-141\.—(1) The persons whose liability in connection with a ship is excluded or limited by this Part shall include any charterer and any person interested in or in possession of the ship and, in particular, any manager or operator of the ship.
-
-(2) In relation to a claim arising from the act or omission of any person in his capacity as master or member of the crew or (otherwise than in that capacity) in the course of his employment as an employee of the owner or of any such person as is mentioned in subsection (1) —
-
-(a) the persons whose liability is excluded or limited as aforesaid shall also include the master, member of the crew or employee, and, in a case where the master or member of the crew is the employee of a person whose liability would not be excluded or limited apart from this paragraph, the person whose employee he is; and
-
-(b) the liability of the master, member of the crew or employee himself shall be excluded or limited as aforesaid notwithstanding his actual fault or privity in that capacity, except in the cases mentioned in section 135(b).
-
-### Unregistered ships and ships in course of completion or construction
-
-142\.—(1) This Part shall apply to any unregistered ship and any structure, whether completed or in the course of completion, launched or intended for use in navigation as a ship or part of a ship and “ship” when used in this Part shall be construed accordingly.
-
-(2) The tonnage of any ship or structure to which this Part applies by virtue of this section shall, for the purposes of this Part, be ascertained as provided by section 136(2).
-
-### Release of ship
-
-143\.—(1) Where a ship or other property is arrested in connection with a claim which appears to the court to be founded on a liability to which a limit is set by section 136, or security is given to prevent or obtain release from such arrest, the court may, and in the circumstances mentioned in subsection (3) shall, order the release of the ship, property or security, if the conditions specified in subsection (2) are satisfied; but where the release is ordered the person on whose application it is ordered shall be deemed to have submitted to the jurisdiction of the court to adjudicate on the claim.
-
-(2) The conditions referred to in subsection (1) are —
-
-(a) that security which in the opinion of the court is satisfactory (referred to in this section as guarantee) has previously been given, whether in Singapore or elsewhere, in respect of the liability or any other liability incurred on the same occasion and the court is satisfied that, if the claim is established, the amount for which the guarantee was given or such part thereof as corresponds to the claim will be actually available to the claimant; and
-
-(b) that either the guarantee is for an amount not less than the limit set by section 136 or further security is given which, together with the guarantee, is for an amount not less than that limit.
-
-(3) The circumstances referred to in subsection (1) are that the guarantee was given in a port which, in relation to the claim, is the relevant port (or, as the case may be, a relevant port) and that port is in a Convention country.
-
-(4) For the purposes of this section —
-
-(a) a guarantee given by the giving of security in more than one country shall be deemed to have been given in the country in which security was last given;
-
-(b) any question whether the amount of any security is (either by itself or together with any other amount) not less than any limit set by section 136, shall be decided as at the time at which the security is given;
-
-(c) where part only of the amount for which a guarantee was given will be available to a claimant, that part shall not be taken to correspond to his claim if any other part may be available to a claimant in respect of a liability to which no limit is set as mentioned in subsection (1).
-
-(5) In this section —
-
-“Convention” means the International Convention relating to the Limitation of the Liability of Owners of Seagoing ships signed in Brussels on 10th October 1957;
-
-“Convention country” means any country in respect of which the Convention is in force (including any country to which the Convention extends by virtue of Article 14 thereof);
-
-“relevant port” —
-
-(a) in relation to any claim, means the port where the event giving rise to the claim occurred or, if that event did not occur in a port, the first port of call after the event occurred; and
-
-(b) in relation to a claim for loss of life or personal injury or for damage to cargo, includes the port of disembarkation or discharge.
-
-(6) If the Minister by order declares that any country specified in the order is a Convention country within the meaning of this section, the order shall, while in force, be conclusive evidence that the country is a Convention country.
-
-### Restriction on enforcement after giving security
-
-144\.—(1) No judgment or decree for a claim founded on a liability to which a limit is set by section 136 shall be enforced, except so far as it is for costs, if security for an amount not less than the limit has been given, whether in Singapore or elsewhere, in respect of the liability or any other liability incurred on the same occasion and the court is of the opinion that the security is satisfactory and is satisfied that the amount for which it was given or such part thereof as corresponds to the claim will be actually available to the person in whose favour the judgment or decree was given or made.
-
-(2) For the purposes of this section —
-
-(a) any question whether the amount of any security is not less than any limit set by section 136 shall be decided as at the time when the security is given; and
-
-(b) where part only of the amount for which security has been given will be available to the person in whose favour the judgment or decree was given or made, that part shall not be taken to correspond to his claim if any other part may be available to a claimant in respect of a liability to which no limit is set as mentioned in subsection (1).
+144\. Nothing in the Merchant Shipping (Amendment) Act 2004 shall apply in relation to any liability arising out of an occurrence which took place before the coming into operation of that Act, and the repealed Part VIII in force immediately before the coming into operation of that Act shall continue to apply to that occurrence as if that Act had not been enacted.
 
 ## PART IX
 
@@ -2391,6 +2333,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 156\.—(1) The owner of any wreck in the possession of the receiver, upon establishing his claim to the wreck to the satisfaction of the receiver within one month from the time at which the wreck came into the possession of the receiver, shall, upon paying the salvage fees and expenses due, be entitled to have the wreck or the proceeds thereof delivered up to him.
 
 (2) Where any articles belonging to or forming part of a foreign ship which has been wrecked on or near the coasts of Singapore, or belonging to and forming part of the cargo, are found on or near those coasts or are brought into any port in Singapore, the consular officer of the country to which the ship or, in the case of cargo, to which the owners of the cargo may have belonged shall, in the absence of the owner and the master or other agent of the owner, be deemed to be the agent of the owner, so far as relates to the custody and disposal of the articles.
+
+(3) Where any foreign ship is wrecked on or near the coasts of Singapore, the consular officer of the country to which the ship may have belonged shall, in the absence of the owner and the master or other agent of the owner, be deemed to be the agent of the owner, so far as relates to the custody and disposal of the wrecked ship.
+
+[8/2005 wef 01/05/2005]
 
 ### Immediate sale of wreck by receiver in certain cases
 
@@ -2966,6 +2912,245 @@ or some other person having knowledge of the facts of the case, shall make a dec
 
 (3) Any reference to the Surveyor-General of Ships or Superintendent of the Mercantile Marine Office in any written law shall be read as a reference to the Director.
 
+## THE SCHEDULE
+
+Sections 134 and 143
+
+Convention on Limitation of Liability for Maritime Claims, 1976
+
+Part I
+
+Text of Convention
+
+
+
+
+Chapter I
+
+Right of Limitation
+
+Article 1
+
+Persons entitled to limit liability
+
+1\. Shipowners and salvors, as hereinafter defined, may limit their liability in accordance with the rules of this Convention for claims set out in Article 2.
+
+2\. The term “shipowner” shall mean the owner, charterer, manager and operator of a seagoing ship.
+
+3\. Salvor shall mean any person rendering services in direct connection with salvage operations. Salvage operations shall also include operations referred to in Article 2, paragraph 1(d), (e) and (f).
+
+4\. If any claims set out in Article 2 are made against any person for whose act, neglect or default the shipowner or salvor is responsible, such person shall be entitled to avail himself of the limitation of liability provided for in this Convention.
+
+5\. In this Convention, the liability of a shipowner shall include liability in an action brought against the vessel herself.
+
+6\. An insurer of liability for claims subject to limitation in accordance with the rules of this Convention shall be entitled to the benefits of this Convention to the same extent as the assured himself.
+
+7\. The act of invoking limitation of liability shall not constitute an admission of liability.
+
+Article 2
+
+Claims subject to limitation
+
+1. Subject to Articles 3 and 4, the following claims, whatever the basis of liability may be, shall be subject to limitation of liability:
+
+(a) claims in respect of loss of life or personal injury or loss of or damage to property (including damage to harbour works, basins and waterways and aids to navigation), occurring on board or in direct connection with the operation of the ship or with salvage operations, and consequential loss resulting therefrom;
+
+(b) claims in respect of loss resulting from delay in the carriage by sea of cargo, passengers or their luggage;
+
+(c) claims in respect of other loss resulting from infringement of rights other than contractual rights, occurring in direct connection with the operation of the ship or salvage operations;
+
+(d) claims in respect of the raising, removal, destruction or the rendering harmless of a ship which is sunk, wrecked, stranded or abandoned, including anything that is or has been on board such ship;
+
+(e) claims in respect of the removal, destruction or the rendering harmless of the cargo of the ship;
+
+(f) claims of a person other than the person liable in respect of measures taken in order to avert or minimise loss for which the person liable may limit his liability in accordance with this Convention, and further loss caused by such measures.
+
+2\. Claims set out in paragraph 1 shall be subject to limitation of liability even if brought by way of recourse or for indemnity under a contract or otherwise. However, claims set out under paragraph 1(d), (e) and (f) shall not be subject to limitation of liability to the extent that they relate to remuneration under a contract with the person liable.
+
+Article 3
+
+Claims Excepted from Limitation
+
+The rules of this Convention shall not apply to:
+
+(a)
+
+claims for salvage or contribution in general average;
+
+(b)
+
+claims for oil pollution damage within the meaning of the International Convention on Civil Liability for Oil Pollution Damage, dated 29th November 1969 or of any amendment or Protocol thereto which is in force;
+
+(c)
+
+claims subject to any international convention or national legislation governing or prohibiting limitation of liability for nuclear damage;
+
+(d)
+
+claims against the shipowner of a nuclear ship for nuclear damage;
+
+(e)
+
+claims by servants of the shipowner or salvor whose duties are connected with the ship or the salvage operations, including claims of their heirs, dependants or other persons entitled to make such claims, if under the law governing the contract of service between the shipowner or salvor and such servants the shipowner or salvor is not entitled to limit his liability in respect of such claims, or if he is by such law only permitted to limit his liability to an amount greater than that provided for in Article 6.
+
+Article 4
+
+Conduct Barring Limitation
+
+A person liable shall not be entitled to limit his liability if it is proved that the loss resulted from his personal act or omission, committed with the intent to cause such loss, or recklessly and with knowledge that such loss would probably result.
+
+Article 5
+
+Counterclaims
+
+Where a person entitled to limitation of liability under the rules of this Convention has a claim against the claimant arising out of the same occurrence, their respective claims shall be set off against each other and the provisions of this Convention shall only apply to the balance, if any.
+
+Chapter II
+
+Limits of Liability
+
+Article 6
+
+The general limits
+
+1. The limits of liability for claims other than those mentioned in Article 7, arising on any distinct occasion, shall be calculated as follows:
+
+(a) in respect of claims for loss of life or personal injury,
+
+(i) 333,000 Units of Account for a ship with a tonnage not exceeding 500 tons;
+
+(ii) for a ship with a tonnage in excess thereof, the following amount in addition to that mentioned in sub-paragraph (i):
+
+ for each ton from 501 to 3,000 tons, 500 Units of Account;
+
+ for each ton from 3,001 to 30,000 tons, 333 Units of Account;
+
+ for each ton from 30,001 to 70,000 tons, 250 Units of Account; and
+
+ for each ton in excess of 70,000 tons, 167 Units of Account;
+
+(b) in respect of any other claims,
+
+(i) 167,000 Units of Account for a ship with a tonnage not exceeding 500 tons;
+
+(ii) for a ship with a tonnage in excess thereof, the following amount in addition to that mentioned in sub-paragraph (i):
+
+ for each ton from 501 to 30,000 tons, 167 Units of Account;
+
+ for each ton from 30,001 to 70,000 tons, 125 Units of Account; and
+
+ for each ton in excess of 70,000 tons, 83 Units of Account.
+
+2\. Where the amount calculated in accordance with paragraph 1(a) is insufficient to pay the claims mentioned therein in full, the amount calculated in accordance with paragraph 1(b) shall be available for payment of the unpaid balance of claims under paragraph 1(a) and such unpaid balance shall rank rateably with claims mentioned under paragraph 1(b).
+
+3\. However, without prejudice to the right of claims for loss of life or personal injury according to paragraph 2, a State Party may provide in its national law that claims in respect of damage to harbour works, basins and waterways and aids to navigation shall have such priority over other claims under paragraph 1(b) as is provided by that law.
+
+4\. The limits of liability for any salvor not operating from any ship or for any salvor operating solely on the ship to, or in respect of which he is rendering salvage services, shall be calculated according to a tonnage of 1,500 tons.
+
+5\. For the purpose of this Convention, the ship’s tonnage shall be the gross tonnage calculated in accordance with the tonnage measurement rules contained in Annex 1 of the International Convention on Tonnage Measurement of Ships, 1969.
+
+Article 7
+
+The limit for passenger claims
+
+1\. In respect of claims arising on any distinct occasion for loss of life or personal injury to passengers of a ship, the limit of liability of the shipowner thereof shall be an amount of 46,666 Units of Account multiplied by the number of passengers which the ship is authorised to carry according to the ship’s certificate, but not exceeding 25 million Units of Account.
+
+2. For the purpose of this Article, “claims for loss of life or personal injury to passengers of a ship” shall mean any such claims brought by or on behalf of any person carried in that ship:
+
+(a) under a contract of passenger carriage; or
+
+(b) who, with the consent of the carrier, is accompanying a vehicle or live animals which are covered by a contract for the carriage of goods.
+
+Article 8
+
+Unit of Account
+
+The Unit of Account referred to in Articles 6 and 7 is the Special Drawing Right as defined by the International Monetary Fund. The amounts mentioned in Articles 6 and 7 shall be converted into the national currency of the State in which limitation is sought, according to the value of that currency at the date the limitation fund shall have been constituted, payment is made, or security is given which under the law of that State is equivalent to such payment.
+
+Article 9
+
+Aggregation of claims
+
+1. The limits of liability determined in accordance with Article 6 shall apply to the aggregate of all claims which arise on any distinct occasion:
+
+(a) against the person or persons mentioned in paragraph 2 of Article 1 and any person for whose act, neglect or default he or they are responsible;
+
+(b) against the shipowner of a ship rendering salvage services from that ship and the salvor or salvors operating from such ship and any person for whose act, neglect or default he or they are responsible; or
+
+(c) against the salvor or salvors who are not operating from a ship or who are operating solely on the ship to, or in respect of which, the salvage services are rendered and any person for whose act, neglect or default he or they are responsible.
+
+2\. The limits of liability determined in accordance with Article 7 shall apply to the aggregate of all claims subject thereto which may arise on any distinct occasion against the person or persons mentioned in paragraph 2 of Article 1 in respect of the ship referred to in Article 7 and any person for whose act, neglect or default he or they are responsible.
+
+Article 10
+
+Limitation of liability without constitution of a limitation fund
+
+1\. Limitation of liability may be invoked notwithstanding that a limitation fund as mentioned in Article 11 has not been constituted.
+
+2\. If limitation of liability is invoked without the constitution of a limitation fund, the provisions of Article 12 shall apply correspondingly.
+
+3\. Questions of procedure arising under the rules of this Article shall be decided in accordance with the national law of the State Party in which action is brought.
+
+Chapter III
+
+Limitation Fund
+
+Article 11
+
+Constitution of the fund
+
+1\. Any person alleged to be liable may constitute a fund with the Court or other competent authority in any State Party in which legal proceedings are instituted in respect of claims subject to limitation. The fund shall be constituted in the sum of such of the amounts set out in Articles 6 and 7 as are applicable to claims for which that person may be liable, together with interest thereon from the date of the occurrence giving rise to the liability until the date of the constitution of the fund. Any fund thus constituted shall be available only for the payment of claims in respect of which limitation of liability can be invoked.
+
+2\. A fund may be constituted, either by depositing the sum, or by producing a guarantee acceptable under the legislation of the State Party where the fund is constituted and considered to be adequate by the Court or other competent authority.
+
+3\. A fund constituted by one of the persons mentioned in paragraph 1(a), (b) or (c) or paragraph 2 of Article 9 or his insurer shall be deemed constituted by all persons mentioned in paragraph 1(a), (b) or (c) or paragraph 2, respectively.
+
+Article 12
+
+Distribution of the fund
+
+1\. Subject to the provisions of paragraphs 1 and 2 of Article 6 and of Article 7, the fund shall be distributed among the claimants in proportion to their established claims against the fund.
+
+2\. If, before the fund is distributed, the person liable, or his insurer, has settled a claim against the fund such person shall, up to the amount he has paid, acquire by subrogation the rights which the person so compensated would have enjoyed under this Convention.
+
+3\. The right of subrogation provided for in paragraph 2 may also be exercised by persons other than those therein mentioned in respect of any amount of compensation which they may have paid, but only to the extent that such subrogation is permitted under the applicable national law.
+
+4\. Where the person liable or any other person establishes that he may be compelled to pay, at a later date, in whole or in part any such amount of compensation with regard to which such person would have enjoyed a right of subrogation pursuant to paragraphs 2 and 3 had the compensation been paid before the fund was distributed, the Court or other competent authority of the State where the fund has been constituted may order that a sufficient sum shall be provisionally set aside to enable such person at such later date to enforce his claim against the fund.
+
+Article 13
+
+Bar to other actions
+
+1\. Where a limitation fund has been constituted in accordance with Article 11, any person having made a claim against the fund shall be barred from exercising any right in respect of such claim against any other assets of a person by or on behalf of whom the fund has been constituted.
+
+2. After a limitation fund has been constituted in accordance with Article 11, any ship or other property, belonging to a person on behalf of whom the fund has been constituted, which has been arrested or attached within the jurisdiction of a State Party for a claim which may be raised against the fund, or any security given, may be released by order of the Court or other competent authority of such State. However, such release shall always be ordered if the limitation fund has been constituted:
+
+(a) at the port where the occurrence took place, or, if it took place out of port, at the first port of call thereafter;
+
+(b) at the port of disembarkation in respect of claims for loss of life or personal injury;
+
+(c) at the port of discharge in respect of damage to cargo; or
+
+(d) in the State where the arrest is made.
+
+3\. The rules of paragraphs 1 and 2 shall apply only if the claimant may bring a claim against the limitation fund before the Court administering that fund and the fund is actually available and freely transferable in respect of that claim.
+
+Article 14
+
+Governing law
+
+Subject to the provisions of this Chapter, the rules relating to the constitution and distribution of a limitation fund, and all rules of procedure in connection therewith, shall be governed by the law of the State Party in which the fund is constituted.
+
+Chapter IV
+
+Scope of Application
+
+Article 15
+
+This Convention shall apply whenever any person referred to in Article 1 seeks to limit his liability before the Court of a State Party or seeks to procure the release of a ship or other property or the discharge of any security given within the jurisdiction of any such State.
+
+[56/2004 wef 01/05/2005]
+
 ## LEGISLATIVE HISTORY
 
 Merchant Shipping Act
@@ -2994,3 +3179,9 @@ This Legislative History is provided for the convenience of users of the Merchan
 |||(Bill No. 53/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|16 November 2004|
 ||Date of commencement|25 January 2005|
+|5.|**Act 8 of 2005—Diplomatic and Consular Relations Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 November 2004|
+|||(Bill No. 65/2004 published on 17 November 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|1 May 2005|
