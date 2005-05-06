@@ -404,6 +404,10 @@ Specified Organisations
 
 (17) Public Utilities Board
 
+(18) Singapore Examinations and Assessment Board
+
+[S 287/2005 wef 06/05/2005]
+
 (19) Singapore Land Authority
 
 (20) Singapore Workforce Development Agency
@@ -502,3 +506,5 @@ This Legislative History is provided for the convenience of users of the Officia
 ||Date of commencement|1 September 2003|
 |21.|**G.N. No. S 274/2004—Official Secrets Act (Amendment of Schedule) Notification 2004**|
 ||Date of commencement|1 June 2004|
+|22.|**G.N. No. S 287/2005—Official Secrets Act (Amendment of Schedule) Notification 2005**|
+||Date of commencement|6 May 2005|
