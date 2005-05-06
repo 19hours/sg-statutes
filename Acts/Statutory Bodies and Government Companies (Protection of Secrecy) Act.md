@@ -300,6 +300,17 @@ Public Utilities Act
 
 (Chapter 261)
 
+21A.
+
+Singapore Examinations and Assessment Board
+
+Singapore Examinations and Assessment Board Act
+
+
+
+
+(Chapter 299A)
+
 22.
 
 Singapore Land Authority
@@ -354,6 +365,8 @@ Urban Redevelopment Authority Act
 
 
 (Chapter 340)
+
+[S 288/2005 wef 06/05/2005]
 
 Part II
 
@@ -474,3 +487,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|1 June 2004|
 |32.|**2004 Revised Edition—Statutory Bodies and Government Companies (Protection of Secrecy) Act**|
 ||Date of operation|31 July 2004|
+|33.|**G. N. No. S 288/2005—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 2005**|
+||Date of commencement|6 May 2005|
