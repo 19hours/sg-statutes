@@ -84,7 +84,7 @@
 
 - [31 Regulations](#Regulations)
 
-[**FIRST SCHEDULE Constitution and Proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Authority)
+[**FIRST SCHEDULE Constitution and proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Authority)
 
 [**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
 
@@ -278,7 +278,17 @@ FINANCIAL PROVISIONS
 
 ### Power to borrow
 
-13\. The Authority may, from time to time for the purposes of this Act, raise loans from the Government or, with the consent of the Minister, from any other source.
+13\.—(1) For the discharge of its functions or duties under this Act or any other written law, the Authority may, from time to time, raise loans from the Government or, with the approval of the Minister, raise loans within or outside Singapore from such source as the Minister may direct by —
+
+(a) mortgage, overdraft or other means, with or without security;
+
+(b) charge, whether legal or equitable, on any property vested in the Authority or on any other revenue receivable by the Authority under this Act or any other written law; or
+
+(c) the creation and issue of debentures, bonds or any other instrument as the Minister may approve.
+
+(2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Authority for the purchase of goods or services.
+
+[16/2005 wef 09/05/2005]
 
 ### Issue of shares, etc.
 
@@ -297,8 +307,6 @@ FINANCIAL PROVISIONS
 ### Power of investment
 
 16\. The Authority may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
-
-[45/2004 wef 15/12/2004]
 
 ### Other financial provisions
 
@@ -402,7 +410,7 @@ FIRST SCHEDULE
 
 Section 5(2)
 
-Constitution and Proceedings of Authority
+Constitution and proceedings of Authority
 
 Appointment of Chairman, Deputy Chairman and other members
 
@@ -643,3 +651,8 @@ This Legislative History is provided for the convenience of users of the Inland 
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|9.|**Act 16 of 2005—Inland Revenue Authority of Singapore (Amendment) Act 2005**|
+||Date of First Reading|4 March 2005|
+|||(Bill No. 5/2005 published on 5 March 2005)|
+||Date of Second and Third Readings|21 April 2005|
+||Date of commencement|9 May 2005|
