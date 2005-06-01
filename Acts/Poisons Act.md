@@ -446,8 +446,6 @@ Acetyl-alpha-methylfentanyl
 
 Acetylcarbromal
 
-Acetyl chloride
-
 Acetyl cysteine
 
 Acetyldigoxin
@@ -4243,6 +4241,8 @@ This Legislative History is provided for the convenience of users of the Poisons
 ||Date of commencement|1 January 2004|
 |61.|**G. N. No. S 190/2004—Poisons Act (Amendment of Schedule) Notification 2004**|
 ||Date of commencement|14 April 2004|
+|62.|**G. N. No. S 300/2005—Poisons Act (Amendment of Schedule) Notification 2005**|
+||Date of commencement|1 June 2005|
 ## COMPARATIVE TABLE
 
 Poisons Act
