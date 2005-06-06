@@ -34,11 +34,13 @@
 
 - [11 Proceedings on nomination day](#Proceedings-on-nomination-day)
 
+- [11A Amendment of nomination papers](#Amendment-of-nomination-papers)
+
 - [12 Objections to nomination papers](#Objections-to-nomination-papers)
 
 - [13 Withdrawal of candidature](#Withdrawal-of-candidature)
 
-- [14 Persons entitled to be present](#Persons-entitled-to-be-present)
+- [14 Persons entitled to be present during nomination proceedings](#Persons-entitled-to-be-present-during-nomination-proceedings)
 
 - [15 Uncontested elections](#Uncontested-elections)
 
@@ -209,6 +211,8 @@
 - [82 Inaccurate description of places and persons](#Inaccurate-description-of-places-and-persons)
 
 - [83 Publication of notices, etc.](#Publication-of-notices-etc)
+
+- [84 Composition of offences](#Composition-of-offences)
 
 [**Legislative History**](#Legislative-History)
 
@@ -394,13 +398,21 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 (2) Each candidate shall be nominated by means of a nomination paper signed by 2 persons as proposer and seconder, respectively, and by not less than 4 other persons all of whose names must appear in any register of electors.
 
-(3) The written consent of the candidate must be endorsed on the nomination paper relating to the candidate.
+(3) Every nomination paper shall —
+
+(a) set out the name, identity card number and occupation of the person seeking nomination;
+
+(b) contain a statement, signed by that person, to the effect that he consents to the nomination; and
+
+(c) contain a statutory declaration by the person seeking nomination stating —
+
+(i) that he is qualified to be elected to the office of President; and
+
+(ii) that on nomination day he is not a member of any political party.
+
+[19/2005 wef 06/06/2005]
 
 (4) Each candidate shall at the time of his nomination deliver to the Returning Officer —
-
-(a) a statutory declaration of his qualifications made and subscribed by the candidate in the prescribed form;
-
-(b) a statutory declaration made and subscribed by the candidate in the prescribed form stating that on nomination day he is not a member of any political party;
 
 (ba) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act 2000; and
 
@@ -408,7 +420,7 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 (c) the certificate issued under section 8.
 
-(5) If any statutory declaration or certificate which is required to be delivered under subsection (4) is not so delivered, the nomination of the candidate shall be deemed to be void.
+(5) If any statutory declaration which is required by subsection (3)(c) to be made is not so made, or any certificate which is required to be delivered under subsection (4) is not so delivered, the nomination of the candidate shall be deemed to be void.
 
 (6) The Returning Officer may, at any time between the date of the notice referred to in section 7 and 12 noon of nomination day, supply a form of nomination paper to any registered elector requiring the form.
 
@@ -444,17 +456,41 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 ### Proceedings on nomination day
 
-11\.—(1) The Returning Officer shall, on nomination day, attend at the place of nomination from 11 a.m. until 12 noon to receive nominations papers, statutory declarations, political donation certificates issued by the Registrar of Political Donations political donation certificates issued by the Registrar of Political Donations and certificates issued under section 8 (referred to in this Act as nomination papers).
+11\.—(1) The Returning Officer shall, on nomination day, attend at the place of nomination from 11 a.m. until 12 noon to receive nominations papers and political donation certificates issued by the Registrar of Political Donations and certificates issued under section 8 (referred to in this Act as nomination papers).
 
-(2) Every such nomination paper, statutory declaration and certificate must be delivered by the candidate to the Returning Officer together with a true copy of each on the day and at the place and between the hours specified in subsection (1), and if not so delivered, shall be rejected.
+(2) Every such nomination paper and certificate shall be delivered to the Returning Officer, in duplicate and in person, by the person seeking nomination accompanied by his proposer, seconder and at least 4 assentors, at the place of nomination between 11 a.m. and 12 noon (both times inclusive) on nomination day, and if not so delivered, shall be rejected.
+
+[19/2005 wef 06/06/2005]
 
 (3) The Returning Officer shall forthwith cause a copy of the nomination papers to be posted in a conspicuous position outside the place of nomination.
 
-(4) The Returning Officer shall permit the candidates and their proposersand seconders and one other person, if any, appointed by each candidate in writing to be present on nomination day and at the place of nomination between 11 a.m. and 12.30 p.m. and there and then to examine the nomination papers of candidates which have been received by the Returning Officer.
+(4) The Returning Officer shall permit the candidates and their proposers, seconders and assentors and one other person, if any, appointed by each candidate in writing to be present on nomination day and at the place of nomination between 11 a.m. and 12.30 p.m. and there and then to examine the nomination papers of candidates which have been received by the Returning Officer.
 
 (5) Before 12.30 p.m. on nomination day at an election, any candidate may, by writing under his hand, indicate to the Returning Officer which of his names mentioned in the nomination paper he desires should be omitted and which should be specified by initial only.
 
 (6) For the purposes of the election the names which the candidate desires to omit may be omitted and an initial may be used in place of those names which he desires should be specified by initial.
+
+### Amendment of nomination papers
+
+11A\.—(1) Subject to subsection (3), where the Returning Officer detects in any nomination paper —
+
+(a) an error or omission, or what appears to be an error or omission, which may amount to a ground for rejecting the nomination paper or allowing an objection to the nomination paper; or
+
+(b) anything which may affect the validity of the nomination paper and the Returning Officer considers that it can be corrected before 12 noon on nomination day,
+
+the Returning Officer may, before making his decision under section 11 or 12, give the candidate or person seeking nomination, as the case may be, a reasonable opportunity to correct the error or omission before 12 noon on nomination day.
+
+(2) Subject to subsection (3), where any error or omission in a person’s nomination paper is brought to the attention of the candidate or person seeking nomination (whether by the Returning Officer under subsection (1) or following an objection made under section 12), the candidate or person seeking nomination, as the case may be, may, at any time before 12 noon on nomination day but no later, take such action as may be necessary to correct any such error or omission in his nomination paper.
+
+(3) Nothing in subsection (1) or (2) shall authorise any candidate or person seeking nomination to substitute a different person —
+
+(a) as a candidate for election; or
+
+(b) as proposer, seconder or assentor.
+
+(4) In this section, “error” has the same meaning as in section 82.
+
+[19/2005 wef 06/06/2005]
 
 ### Objections to nomination papers
 
@@ -480,21 +516,39 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 ### Withdrawal of candidature
 
-13\.—(1) A candidate may before 12 noon on nomination day, but not afterwards, withdraw his candidature by giving a notice to that effect signed by him to the Returning Officer.
+13\.—(1) A candidate may before 12 noon on nomination day, but not afterwards, withdraw his candidature by giving, in person, a notice to that effect signed by him to the Returning Officer.
 
 (2) The Returning Officer shall forthwith cause notice of the withdrawal to be posted in a conspicuous position outside the place of nomination.
 
-### Persons entitled to be present
+### Persons entitled to be present during nomination proceedings
 
-14\. No person other than the Returning Officer, the candidates and their respective proposers and seconders and one other person, if any, appointed in writing by each candidate shall, except with the consent of and for the purpose of assisting the Returning Officer, be entitled to be present at the proceedings specified in sections 11 and 13.
+14\. The following persons, and no others, shall be entitled to be present at the proceedings specified in sections 11 and 13:
+
+(a) the candidates;
+
+(b) each candidate’s proposer, seconder and assentors;
+
+(c) one other person, if any, appointed in writing by each candidate;
+
+(d) the Returning Officer and such other persons authorised by the Returning Officer to assist him at such proceedings; and
+
+(e) any other person with the written permission of the Returning Officer to be present at those proceedings.
+
+[19/2005 wef 06/06/2005]
 
 ### Uncontested elections
 
-15\. If, on nomination day after the decision by the Returning Officer of any objection which may have been lodged, only one candidate stands nominated, the Returning Officer shall forthwith —
+15\.—(1) If, on nomination day after the decision by the Returning Officer of any objection which may have been lodged, only one candidate stands nominated, the Returning Officer shall forthwith —
 
 (a) declare the nominated candidate to be elected to the office of President; and
 
 (b) cause the name of the person so elected to be published in theGazette.
+
+[19/2005 wef 06/06/2005]
+
+(2) Nothing in sections 11 and 12 shall prevent the Returning Officer from exercising any of his powers under subsection (1) before 12.30 p.m. if, at 12 noon on nomination day for an election, only one candidate stands nominated.
+
+[19/2005 wef 06/06/2005]
 
 ### Contested elections
 
@@ -871,6 +925,10 @@ but not at both in respect of the same election.
 (d) seal up in an envelope the record of counting and despatch or deliver the envelope in safe custody to the principal counting place for that electoral division.
 
 [19/2001 wef 15/05/2001]
+
+(e) [Deleted by Act 19/2001 wef 15/05/2001]
+
+(f) [Deleted by Act 19/2001 wef 15/05/2001]
 
 (8B) Except with the sanction of the Returning Officer, no person other than —
 
@@ -1490,17 +1548,21 @@ shall be guilty of an illegal practice.
 
 (d) all unpaid claims, if any, of which any of the election agents of the candidate are aware in respect of which application has been made or is about to be made to an Election Judge;
 
-(e) all moneys, securities and other valuable considerations received by or promised to every election agent of the candidate from or by any candidate or any other person for the purpose of expenses incurred or to be incurred on account or in respect of the management of the election, naming every person from whom the sum may have been received or by whom the sum may have been promised, showing as to each sum whether it was received as contribution, loan, deposit or otherwise.
+(e) every donation accepted by every election agent or by the candidate for the purpose of expenses incurred or to be incurred on account of or in respect of the management of the election, naming every person from whom the donation may have been received.
 
-[12/93; 18/99]
+[19/2005 wef 06/06/2005]
 
-(2) The return respecting election expenses shall be signed by the principal election agent and shall be accompanied by a statement made by the candidate and his principal election agent in the prescribed formsand shall be on oath before a Justice of the Peace or a commissioner for oaths.
+(2) The return respecting election expenses shall be signed by the principal election agent and shall be accompanied by a statement made by the candidate and his principal election agent in the prescribed forms.
 
 [18/99]
 
 (3) Any candidate or principal election agent who fails to comply with the requirements of subsection (1) or (2) shall be guilty of an illegal practice and the provisions of this section shall be in addition to and not in derogation of section 42.
 
 [18/99]
+
+(4) In this section, “donation” has the same meaning as in section 3(1) of the Political Donations Act (Cap. 236), and a donation is accepted by a candidate or an election agent if it is accepted within the meaning of that Act.
+
+[19/2005 wef 06/06/2005]
 
 ### Publication of receipt of return, etc.
 
@@ -1856,13 +1918,53 @@ GENERAL
 
 ### Inaccurate description of places and persons
 
-82\. No misnomer or inaccurate description of any person or place named or described in any register, notice or other document whatsoever prepared or issued under or for the purposes of this Act shall in any way affect the operation of this Act as respects that person or place if that person or place is so designated in such register, notice or document as to be identifiable.
+82\. No omission and no misnomer or inaccurate description of any person or place named or described in any register, notice or other document whatsoever prepared or issued under or for the purposes of this Act shall in any way affect the operation of this Act as respects that person or place if that person or place is so designated in such register, notice or document as to be identifiable.
+
+(1) No omission and no misnomer or inaccurate description of any person or place named or described in any register, notice or other document whatsoever prepared or issued under or for the purposes of this Act shall in any way affect the operation of this Act as respects that person or place if that person or place is so designated in such register, notice or document as to be identifiable.
+
+[19/2005 wef 06/06/2005]
+
+(2) Without prejudice to the generality of subsection (1), no nomination paper shall be rejected, and no objection shall be allowed, on account of —
+
+(a) any error or omission in a nomination paper in relation to the description of, or any particulars in respect of, the candidate or person seeking nomination, or his proposer or seconder or any of his assentors, if the particulars contained in the nomination paper are sufficient to identify the candidate or person seeking nomination, or his proposer, seconder or assentor, as the case may be;
+
+(b) any error or omission with regard to any place specified in a nomination paper, if such place is otherwise sufficiently identifiable from the particulars given in the nomination paper; or
+
+(c) any error or omission that is corrected before 12 noon on nomination day in accordance with section 11A.
+
+[19/2005 wef 06/06/2005]
+
+(3) In this section —
+
+(a) “error” includes any misnomer, misspelling, misprint, misplacement, mistake, inaccuracy, omission, and any clerical, technical or printing error, and any error of any other description or nature; and
+
+(b) “particulars” and “description” each includes anything stated or required to be stated in respect of any person or place in the nomination paper.
+
+[19/2005 wef 06/06/2005]
 
 ### Publication of notices, etc.
 
 83\.—(1) Where any notice is required by this Act to be published and, in the opinion of the authority who is required to publish the notice, the prescribed mode of publication does not give sufficient publicity to the notice, he may, in addition to publishing the notice as required by this Act, exhibit copies of the notice in conspicuous places or within the electoral division to which the notice relates or take such other steps as he may consider necessary for giving publicity thereto.
 
 (2) Every person who, without lawful authority, destroys, mutilates, defaces or removes any notice which is exhibited by any authority under subsection (1) or any document which is made available for inspection in accordance with this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50.
+
+### Composition of offences
+
+84\.—(1) The Returning Officer, or any officer of the Elections Department who is authorised by the Returning Officer, may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence —
+
+(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+
+(b) a sum not exceeding $500,
+
+whichever is the lower.
+
+(2) The Minister may make regulations to prescribe the offences which may be compounded.
+
+(3) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+
+(4) All sums collected under this section shall be paid to the Consolidated Fund.
+
+[19/2005 wef 06/06/2005]
 
 ## LEGISLATIVE HISTORY
 
@@ -1933,6 +2035,11 @@ This Legislative History is provided for the convenience of users of the Preside
 |||(Bill No. 20/2001 published on 17 March 2001)|
 ||Date of Second and Third Readings|20 April 2001|
 ||Date of commencement|15 May 2001|
+|13.|**Act 19 of 2005—Presidential Elections (Amendment) Act 2005**|
+||Date of First Reading|18 April 2005|
+|||(Bill No. 8/2005 published on 19 April 20005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|6 June 2005|
 ## COMPARATIVE TABLE
 
 Presidential Elections Act
