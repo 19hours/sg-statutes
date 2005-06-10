@@ -570,11 +570,13 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (3) An instrument shall be presumed to be carried with lawful authority if it is carried —
 
-(a) by any member of the Singapore Armed Forces, the Singapore Police Force, the Singapore Civil Defence Force, the Commercial and Industrial Security Corporationor of any visiting force lawfully present in Singapore under the provisions of any law relating to visiting forces; or
+(a) by any member of the Singapore Armed Forces, the Singapore Police Force, the Singapore Civil Defence Force, any auxiliary police force created under any written law or of any visiting force lawfully present in Singapore under the provisions of any law relating to visiting forces; or
 
 (b) by any person as part of his official or ceremonial dress on any official or ceremonial occasion.
 
 [12/96]
+
+[3/2005 wef 10/06/2005]
 
 (4) Any person who —
 
@@ -1008,3 +1010,10 @@ This Legislative History is provided for the convenience of users of the Miscell
 ||Date of commencement|15 May 1996|
 |42.|**1997 Revised Edition—Miscellaneous Offences (Public Order and Nuisance) Act**|
 ||Date of operation|30 May 1997|
+|43.|**Act 3 of 2005—CISCO (Dissolution) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 52/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|10 June 2005|
+|||(item (5) in the Schedule)|
