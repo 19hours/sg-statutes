@@ -156,13 +156,9 @@ PRELIMINARY
 
 “authorised person” means —
 
-(a) the Commercial and Industrial Security Corporation; or
-
 (b) any other auxiliary police force established under the Police Force Act 2004 and which is authorised by the Licensing Officer to accept the deposit of guns, arms or explosives under section 19(1);
 
 “carriage” includes any carriage, wagon, cart, truck or other vehicle used for the conveyance of goods or passengers by land, in whatever manner the same is propelled or moved;
-
-“Commercial and Industrial Security Corporation” means the Commercial and Industrial Security Corporation established under the Commercial and Industrial Security Corporation Act (Cap. 47);
 
 “deal in” includes repair, sell, keep or expose for sale;
 
@@ -1170,6 +1166,12 @@ This Legislative History is provided for the convenience of users of the Arms an
 |||(Bill No. 22/2004 published on 20 May 2004)|
 ||Date of Second and Third Readings|15 June 2004|
 ||Date of commencement|12 October 2004|
+|33.|**Act 3 of 2005—CISCO (Dissolution) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 52/2004 published on 20 October 2005)|
+||Date of Second and Third Readings|25 January 2005|
+||Dates of commencement|10 June 2005 (Part IV)|
 ## COMPARATIVE TABLE
 
 Arms and Explosives Act
