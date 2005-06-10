@@ -1224,7 +1224,9 @@ and may continue to use the weapon so long as the combined outbreak or attempt i
 
 [8/2000]
 
-(5) For the purpose of this section, “auxiliary police officer” means a member of the Auxiliary Police Force established under section 12 of the Commercial and Industrial Security Corporation Act (Cap. 47) or a member of an auxiliary police force established under any other written law.
+(5) For the purpose of this section, “auxiliary police officer” means a member of an auxiliary police force established under any other written law.
+
+[3/2005 wef 10/06/2005]
 
 [43B
 
@@ -2572,9 +2574,7 @@ Specified Drugs
 
 1\. Diamorphine
 
-1A. Monoacetylmorphine
-
-[S 30/2004 wef 30/01/2004]
+1A\. Monoacetylmorphine
 
 2\. Morphine
 
@@ -2687,6 +2687,12 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|8 October 2001|
 |33.|**G. N. No. S 30/2004—Misuse of Drugs Act (Amendment of First and Fourth Schedules) Order 2004**|
 ||Date of commencement|30 January 2004|
+|34.|**Act 3 of 2005—CISCO (Dissolution) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 52/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|10 June 2005|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
