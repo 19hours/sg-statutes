@@ -360,8 +360,6 @@ Specified Organisations
 
 [S 573/2001 wef 23/11/2001]
 
-(4) Commercial and Industrial Security Corporation
-
 (5) Defence Science and Technology Agency
 
 (6) DSO National Laboratories
@@ -508,3 +506,9 @@ This Legislative History is provided for the convenience of users of the Officia
 ||Date of commencement|1 June 2004|
 |22.|**G.N. No. S 287/2005—Official Secrets Act (Amendment of Schedule) Notification 2005**|
 ||Date of commencement|6 May 2005|
+|23.|**Act 3 of 2005—CISCO (Dissolution) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 52/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Dates of commencement|10 June 2005 (Part IV)|
