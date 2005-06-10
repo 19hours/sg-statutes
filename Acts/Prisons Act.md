@@ -646,7 +646,7 @@ CUSTODY AND REMOVAL OF PRISONERS
 
 [8/2000]
 
-(5) For the purpose of this section, “auxiliary police officer” means a member of the Auxiliary Police Force established under section 12 of the Commercial and Industrial Security Corporation Act (Cap. 47) or a member of an auxiliary police force established under any other written law.
+(5) For the purpose of this section, “auxiliary police officer” means a member of an auxiliary police force established under any other written law.
 
 [23A
 
@@ -1490,6 +1490,8 @@ shall be guilty of an offence.
 
 (i) the supply of money, food, clothing or means of travelling to prisoners on their discharge;
 
+(j) [Deleted by Act 33/2004 wef 04/10/2004]
+
 (k) the proceedings and visits of the Visiting Justices;
 
 (l) the establishment of an advisory committee for the purpose of advising the Director on the suitability of a prisoner to be released for home detention under Part VI and its constitution, functions and procedures;
@@ -1670,6 +1672,12 @@ This Legislative History is provided for the convenience of users of the Prisons
 |||(Bill No. 31/2004 published on 21 July 2004)|
 ||Date of Second and Third Readings|1 September 2004|
 ||Date of commencement|4 October 2004|
+|21.|**Act 3 of 2005—CISCO (Dissolution) Act 2005**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 52/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|10 June 2005|
+|||(Part IV)|
 ## COMPARATIVE TABLE
 
 Prisons Act
