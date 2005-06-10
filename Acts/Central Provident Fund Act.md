@@ -4054,8 +4054,6 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (9) Civil Service College.
 
-(10) Commercial and Industrial Security Corporation.
-
 (11) Contact Lens Practitioners Board.
 
 (12) Defence Science and Technology Agency.
@@ -4287,9 +4285,7 @@ Self-employed Persons
 
 18\. Homes for the Aged Act (Cap. 126A).
 
-18A. Limited Liability Partnerships Act 2005 (Act 5 of 2005).
-
-[S 243/2005 wef 11/04/2005]
+18A\. Limited Liability Partnerships Act 2005 (Act 5 of 2005).
 
 19\. Maritime and Port Authority of Singapore Act (Cap. 170A).
 
@@ -4840,6 +4836,12 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 January 2005|
 |139.|**G.N. No. S 243/2005—Central Provident Fund Act (Amendment of Third Schedule) Notification 2005**|
 ||Date of commencement|11 April 2005|
+|140.|**Act 3 of 2005—CISCO (Dissolution) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 52/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|10 June 2005|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
