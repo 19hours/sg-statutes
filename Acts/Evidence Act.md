@@ -560,7 +560,7 @@ Illustrations
 
 (a)
 
-A is tried for the murder of B by beating him with a club with the intention of causing his death.
+Ais tried for the murder ofBby beating him with a club with the intention of causing his death.
 
 AtA’strial the following facts are in issue:
 
@@ -1416,7 +1416,7 @@ Ais tried for the murder ofB. The fact thatBprosecutedAfor libel and thatAwas co
 
 ### Relevance of convictions and acquittals
 
-45A\.—(1) Without prejudice to sections 42, 43, 44 and 45, the fact that a person has been convicted or acquitted of an offence by or before any court in Singapore shall be admissible in evidence for the purpose of proving, where relevant to any issue in the proceedings, that he committed (or, as the case may be, did not commit) that offence, whether or not he is a party to the proceedings; and where he was convicted, whether he was so convicted upon a plea of guilty or otherwise.
+45A\.—(1) Without prejudice to sections 42, 43(1), 44 and 45, the fact that a person has been convicted or acquitted of an offence by or before any court in Singapore shall be admissible in evidence for the purpose of proving, where relevant to any issue in the proceedings, that he committed (or, as the case may be, did not commit) that offence, whether or not he is a party to the proceedings; and where he was convicted, whether he was so convicted upon a plea of guilty or otherwise.
 
 [8/96]
 
@@ -1546,7 +1546,7 @@ Illustrations
 
 (a)
 
-The question is whetherAandBwere married.
+(a) The question is whetherAandBwere married.
 
 The fact that they were usually received and treated by their friends as husband and wife is relevant.
 
@@ -3075,9 +3075,7 @@ Civil Service College Act 2001
 
 (Act 29 of 2001).
 
-4. Commercial and Industrial Security Corporation
-
-Commercial and Industrial Security Corporation Act (Chapter 47).
+4.Deleted by Act 3/2005, wef 10/06/2005.
 
 5. Building and Construction Authority
 
@@ -3326,3 +3324,10 @@ This Legislative History is provided for the convenience of users of the Evidenc
 |||(Bill No. 16/2003 published on 15 August 2003)|
 ||Date of Second and Third Readings|2 September 2003|
 ||Date of commencement|26 September 2003|
+|34.|**Act 3 of 2005—CISCO (Dissolution) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 52/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|10 June 2005|
+|||(item (3) in the Third Schedule)|
