@@ -107,17 +107,6 @@ Civil Aviation Authority of Singapore Act
 
 (Chapter 41)
 
-4.
-
-Commercial and Industrial Security Corporation
-
-Commercial and Industrial Security Corporation Act
-
-
-
-
-(Chapter 47)
-
 5.
 
 Defence Science and Technology Agency
@@ -489,3 +478,9 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of operation|31 July 2004|
 |33.|**G. N. No. S 288/2005—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) Notification 2005**|
 ||Date of commencement|6 May 2005|
+|34.|**Act 3 of 2005—CISCO (Dissolution) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 52/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|10 June 2005|
