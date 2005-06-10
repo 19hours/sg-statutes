@@ -526,7 +526,7 @@ and may continue to use the weapon so long as the combined outbreak or attempt i
 
 [8/2000]
 
-(5) For the purpose of this section, “auxiliary police officer” means a member of the Auxiliary Police Force established under section 12 of the Commercial and Industrial Security Corporation Act (Cap. 47) or a member of an auxiliary police force established under any other written law.
+(5) For the purpose of this section, “auxiliary police officer” means a member of an auxiliary police force established under any other written law.
 
 [22B
 
@@ -811,6 +811,12 @@ This Legislative History is provided for the convenience of users of the Intoxic
 ||Date of commencement|1 April 2001|
 |6.|**2001 Revised Edition—Intoxicating Substances Act**|
 ||Date of operation|31 July 2001|
+|7.|**Act 3 of 2005—CISCO (Dissolution) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 52/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Dates of commencement|10th June 2005 (Part IV)|
 ## COMPARATIVE TABLE
 
 Intoxicating Substances Act
