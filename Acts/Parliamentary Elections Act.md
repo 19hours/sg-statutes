@@ -656,6 +656,8 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (6) Every objection to the insertion of the name of any claimant in the register shall be made in writing in duplicate and shall be in Form 5 in the First Schedule and shall reach the Registration Officer within 6 days from the date on which the notice containing the names of claimants is exhibited under subsection (2A).
 
+(7) [Deleted by Act 18 of 2005 wef 06/06/2005]
+
 (8) The Registration Officer shall, as soon as practicable after receiving an objection to the inclusion or insertion of any name in any register, send a notice of the objection to the person in regard to whom objection has been made.
 
 (8A) The notice of objection shall be in Form 6 in the First Schedule.
@@ -698,6 +700,8 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 
 (15) Any sum awarded as compensation under this section shall be recoverable as though the order of the Registration Officer or Revising Officer were an order of a District Court for the recovery of money by that Officer.
 
+(16) [Deleted by Act 18 of 2005 wef 06/06/2005]
+
 ### Appeals to Revising Officer
 
 12\.—(1) For the purpose of hearing appeals against any decision of the Registration Officer, the Minister may appoint such Revising Officers as he may from time to time think fit.
@@ -715,6 +719,8 @@ REGISTRATION OF ELECTORS AND REVISION OF REGISTERS
 (4B) The Revising Officer’s determination of the appeal shall be final and conclusive and shall not be called in question in any court.
 
 (5) When the Revising Officer has determined the appeals which have been lodged with respect to any register, he shall forward to the Registration Officer a statement under his hand containing the names which he has decided shall be included or inserted in the register and those which he has decided shall be expunged from the register, and the Registration Officer shall amend the register accordingly.
+
+(6) [Deleted by Act 18 of 2005 wef 06/06/2005]
 
 ### Certification of registers
 
@@ -1000,9 +1006,13 @@ ELECTIONS
 
 (d) contain a statutory declaration by the person seeking nomination stating that he is qualified to be elected.
 
-[18/2005 wef 06/06/2005]
+(2A) [Deleted by Act 18 of 2005 wef 06/06/2005]
+
+(2B) [Deleted by Act 18 of 2005 wef 06/06/2005]
 
 (3) Every candidate shall, at the time of his nomination, deliver to the Returning Officer —
+
+(a) [Deleted by Act 18 of 2005 wef 06/06/2005]
 
 (b) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act 2000 (Act 20/2000).
 
@@ -1094,9 +1104,13 @@ shall apply in the prescribed manner to the appropriate Committee for a certific
 
 (d) contain a statutory declaration by each of the persons seeking nomination stating that he is qualified to be elected, and the political party for which the group stands (if any).
 
-[18/2005 wef 06/06/2005]
+(2A) [Deleted by Act 18 of 2005 wef 06/06/2005]
+
+(2B) [Deleted by Act 18 of 2005 wef 06/06/2005]
 
 (3) Every candidate in a group shall, at the time of the nomination of the group, deliver to the Returning Officer —
+
+(a) [Deleted by Act 18 of 2005 wef 06/06/2005]
 
 (b) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act 2000 (Act 20/2000); and
 
@@ -1230,8 +1244,6 @@ the sum deposited shall be forfeited and paid into the Consolidated Fund.
 
 (2) Every such nomination paper and certificate shall be delivered to the Returning Officer, in duplicate and in person, by the person seeking nomination accompanied by his proposer, seconder and at least 4 assentors, at the place of nomination between 11 a.m. and 12 noon (both times inclusive) on the day of nomination, and if not so delivered, shall be rejected.
 
-[18/2005 wef 06/06/2005]
-
 (3) The Returning Officer shall forthwith cause a copy of the nomination paper to be posted in a conspicuous position outside the place of nomination.
 
 (4) The Returning Officer shall permit the candidates and their proposers, seconders and assentors and one other person (if any) appointed by each candidate in writing to be present on the day and at the place of nomination between 11 a.m. and 12.30 p.m. and there and then to examine the nomination papers of candidates which have been received for that electoral division.
@@ -1258,8 +1270,6 @@ the Returning Officer may, before making his decision under section 29 or 30, gi
 
 (4) In this section, “error” has the same meaning as in section 103.
 
-[18/2005 wef 06/06/2005]
-
 ### Objections to nomination papers
 
 30\.—(1) Objection may be made to a nomination paper on all or any of the following grounds but on no other ground:
@@ -1281,8 +1291,6 @@ the Returning Officer may, before making his decision under section 29 or 30, gi
 (b) that other candidate’s proposer, seconder or any of his assentors; or
 
 (c) the one other person (if any) appointed in writing by that other candidate to be present on the day and at the place of nomination.
-
-[18/2005 wef 06/06/2005]
 
 (2) No objection to a nomination paper shall be allowed —
 
@@ -1316,13 +1324,9 @@ the Returning Officer may, before making his decision under section 29 or 30, gi
 
 (e) any other person with the written permission of the Returning Officer to be present at those proceedings.
 
-[18/2005 wef 06/06/2005]
-
 ### Withdrawal of candidature
 
 32\.—(1) A candidate may before 12 noon on the day of nomination, but not afterwards, withdraw his candidature by giving, in person, a notice to that effect signed by him to the Returning Officer.
-
-[18/2005 wef 06/06/2005]
 
 (2) The Returning Officer shall forthwith cause notice of the withdrawal to be posted in a conspicuous position outside the place of nomination.
 
@@ -1335,8 +1339,6 @@ the Returning Officer may, before making his decision under section 29 or 30, gi
 (b) a person is nominated more than once to be a candidate for election in the same electoral division,
 
 each such nomination shall be deemed to be void.
-
-[18/2005 wef 06/06/2005]
 
 (2) Subsection (1) shall also apply where 2 or more by-elections are held at the same time.
 
@@ -1352,11 +1354,7 @@ UNCONTESTED ELECTIONS
 
 [10/88]
 
-[18/2005 wef 06/06/2005]
-
 (2) Nothing in sections 29 and 30 shall prevent the Returning Officer from exercising any of his powers under subsection (1) before 12.30 p.m. if, at 12 noon on the day of nomination for an election in any electoral division, only one candidate or one group of candidates stands nominated for that electoral division.
-
-[18/2005 wef 06/06/2005]
 
 CONTESTED ELECTIONS
 
@@ -2568,8 +2566,6 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 
 (e) every donation accepted by the election agent or by the candidate for the purpose of expenses incurred or to be incurred on account of or in respect of the management of the election, naming every person from whom the donation may have been received.
 
-[18/2005 wef 06/06/2005]
-
 (2) The return respecting election expenses shall be signed by the election agent and shall be accompanied by a statement made by the candidate and his election agent which shall be respectively in Forms 19 and 20 in the First Schedule.
 
 [18/2005 wef 06/06/2005]
@@ -2585,8 +2581,6 @@ ELECTION AGENT, ELECTION EXPENSES AND ILLEGAL PRACTICES
 (4) If any candidate or election agent fails to comply with the requirements of subsection (1) or (2), he shall be guilty of an illegal practice and the provisions of this section shall be in addition to and not in derogation of section 61.
 
 (5) In this section, “donation” has the same meaning as in section 3(1) of the Political Donations Act (Cap. 236), and a donation is accepted by a candidate or an election agent if it is accepted within the meaning of that Act.
-
-[18/2005 wef 06/06/2005]
 
 ### Publication of receipt of return, etc.
 
@@ -3122,11 +3116,7 @@ GENERAL
 
 ### Inaccurate description of places and persons
 
-103\. No omission and no misnomer or inaccurate description of any person or place named or described in any register, notice or other document prepared or issued under or for the purposes of this Act shall in any way affect the operation of this Act as respects that person or place if that person or place is so designated in such register, notice or document as to be identifiable.
-
-(1) No omission and no misnomer or inaccurate description of any person or place named or described in any register, notice or other document prepared or issued under or for the purposes of this Act shall in any way affect the operation of this Act as respects that person or place if that person or place is so designated in such register, notice or document as to be identifiable.
-
-[18/2005 wef 06/06/2005]
+103\.—(1) No omission and no misnomer or inaccurate description of any person or place named or described in any register, notice or other document prepared or issued under or for the purposes of this Act shall in any way affect the operation of this Act as respects that person or place if that person or place is so designated in such register, notice or document as to be identifiable.
 
 (2) Without prejudice to the generality of subsection (1), no nomination paper shall be rejected, and no objection shall be allowed, on account of —
 
@@ -3136,17 +3126,11 @@ GENERAL
 
 (c) any error or omission that is corrected before 12 noon on the day of nomination in accordance with section 29A.
 
-[18/2005 wef 06/06/2005]
-
 (3) In this section —
 
 (a) “error” includes any misnomer, misspelling, misprint, misplacement, mistake, inaccuracy, omission, and any clerical, technical or printing error, and any error of any other description or nature; and
 
 (b) “particulars” and “description” each includes anything stated or required to be stated in respect of any person or place in the nomination paper.
-
-[18/2005 wef 06/06/2005]
-
-[18/2005 wef 06/06/2005]
 
 ### Publication of notices, etc.
 
@@ -3209,8 +3193,6 @@ whichever is the lower.
 (3) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
 (4) All sums collected under this section shall be paid to the Consolidated Fund.
-
-[18/2005 wef 06/06/2005]
 
 FIRST SCHEDULE
 
@@ -3757,6 +3739,8 @@ This Legislative History is provided for the convenience of users of the Parliam
 |||(Bill No. 9/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|6 June 2005|
+|56.|**G. N. No. S 389/2005—Parliamentary Elections Act (Amendment of First Schedule) Regulations 2005**|
+||Date of commencement|17 June 2005|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
