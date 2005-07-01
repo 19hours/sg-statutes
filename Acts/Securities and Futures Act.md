@@ -16,181 +16,289 @@
 
 - [4 Interest in securities](#Interest-in-securities)
 
+- [4A Specific classes of investors](#Specific-classes-of-investors)
+
 [**Part II MARKETS**](#Part-II)
 
-[**Division 1  Securities Markets and Futures Markets**](#Division-1--Securities-Markets-and-Futures-Markets)
+- [5 Objectives of this Part](#Objectives-of-this-Part)
 
-- [5 Establishment of securities market](#Establishment-of-securities-market)
+[**Division 1  Establishment of Markets**](#Division-1--Establishment-of-Markets)
 
-- [6 Establishment of futures market](#Establishment-of-futures-market)
+- [6 Requirement for approval or recognition](#Requirement-for-approval-or-recognition)
 
-- [7 Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
+[**Subdivision (1) — Approved exchange and recognised market operator**](#Subdivision-1-—-Approved-exchange-and-recognised-market-operator)
 
-- [8 Application of provisions to person granted an exemption under section 5 (3) or 6 (3) or person operating an exempt market](#Application-of-provisions-to-person-granted-an-exemption-under-section-5-3-or-6-3-or-person-operating-an-exempt-market)
+- [7 Application for approval or recognition](#Application-for-approval-or-recognition)
 
-[**Division 2  Exchanges**](#Division-2--Exchanges)
+- [8 Power of Authority to approve exchanges and recognise market operators](#Power-of-Authority-to-approve-exchanges-and-recognise-market-operators)
 
-- [9 Power of Authority to approve securities exchange or futures exchange](#Power-of-Authority-to-approve-securities-exchange-or-futures-exchange)
+- [9 General criteria to be taken into account by Authority](#General-criteria-to-be-taken-into-account-by-Authority)
 
-- [10 Business rules of securities exchange and futures exchange and listing rules of securities exchange](#Business-rules-of-securities-exchange-and-futures-exchange-and-listing-rules-of-securities-exchange)
+- [10 Annual fees payable by approved exchange and recognised market operator](#Annual-fees-payable-by-approved-exchange-and-recognised-market-operator)
 
-- [11 Continuing obligations of securities exchange and futures exchange](#Continuing-obligations-of-securities-exchange-and-futures-exchange)
+- [11 Change in status](#Change-in-status)
 
-- [12 Revocation of approval](#Revocation-of-approval)
+- [12 Cancellation of approval or recognition](#Cancellation-of-approval-or-recognition)
 
-- [13 Effect of revocation](#Effect-of-revocation)
+- [13 Power of Authority to revoke approval and recognition](#Power-of-Authority-to-revoke-approval-and-recognition)
 
-- [14 Exchanges to assist Authority](#Exchanges-to-assist-Authority)
+[**Subdivision (2) — Exempt Market Operator**](#Subdivision-2-—-Exempt-Market-Operator)
 
-- [15 Control of substantial shareholding in securities exchange or futures exchange](#Control-of-substantial-shareholding-in-securities-exchange-or-futures-exchange)
+- [14 Power of Authority to exempt corporations from approval or recognition](#Power-of-Authority-to-exempt-corporations-from-approval-or-recognition)
 
-- [16 Business rules of securities exchange or futures exchange have effect as contract](#Business-rules-of-securities-exchange-or-futures-exchange-have-effect-as-contract)
+- [15 Power of Authority to revoke exemption](#Power-of-Authority-to-revoke-exemption)
 
-- [17 Authority to be notified of amendments to business rules or listing rules](#Authority-to-be-notified-of-amendments-to-business-rules-or-listing-rules)
+[**Division 2  Regulation of Approved Exchanges**](#Division-2--Regulation-of-Approved-Exchanges)
 
-- [18 Power of court to order observance or enforcement of business rules or listing rules](#Power-of-court-to-order-observance-or-enforcement-of-business-rules-or-listing-rules)
+[**Subdivision (1) — Obligations of Approved Exchanges**](#Subdivision-1-—-Obligations-of-Approved-Exchanges)
 
-- [19 Non-compliance with business rules or listing rules not to substantially affect rights of person](#Non-compliance-with-business-rules-or-listing-rules-not-to-substantially-affect-rights-of-person)
+- [16 General obligations](#General-obligations)
 
-- [20 Review of disciplinary action taken by securities exchange or futures exchange](#Review-of-disciplinary-action-taken-by-securities-exchange-or-futures-exchange)
+- [17 Obligation to notify Authority of certain matters](#Obligation-to-notify-Authority-of-certain-matters)
 
-- [21 Power of Authority to issue directions to securities exchange or futures exchange](#Power-of-Authority-to-issue-directions-to-securities-exchange-or-futures-exchange)
+- [18 Obligation to maintain proper records](#Obligation-to-maintain-proper-records)
 
-- [22 Removal of officer of securities exchange or futures exchange](#Removal-of-officer-of-securities-exchange-or-futures-exchange)
+- [19 Obligation to submit periodic reports](#Obligation-to-submit-periodic-reports)
 
-- [23 Power of Authority in securities market](#Power-of-Authority-in-securities-market)
+- [20 Obligation to assist Authority](#Obligation-to-assist-Authority)
 
-- [24 Emergency powers of Authority](#Emergency-powers-of-Authority)
+- [21 Obligation to maintain confidentiality](#Obligation-to-maintain-confidentiality)
 
-- [25 Power of Authority to approve futures contracts](#Power-of-Authority-to-approve-futures-contracts)
+- [22 Penalties under this Subdivision](#Penalties-under-this-Subdivision)
 
-- [26 Fixing of position and trading limits in futures contracts](#Fixing-of-position-and-trading-limits-in-futures-contracts)
+[**Subdivision (2) — Rules of Approved Exchanges**](#Subdivision-2-—-Rules-of-Approved-Exchanges)
 
-- [27 Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
+- [23 Business rules and listing rules of approved exchanges](#Business-rules-and-listing-rules-of-approved-exchanges)
 
-[**Division 3  Exchange Holding Companies**](#Division-3--Exchange-Holding-Companies)
+- [24 Business rules of approved exchanges have effect as contract](#Business-rules-of-approved-exchanges-have-effect-as-contract)
 
-- [28 Exchange holding company](#Exchange-holding-company)
+- [25 Power of court to order observance or enforcement of business rules or listing rules](#Power-of-court-to-order-observance-or-enforcement-of-business-rules-or-listing-rules)
 
-- [29 Power of Authority to approve exchange holding company](#Power-of-Authority-to-approve-exchange-holding-company)
+- [26 Non-compliance with business rules or listing rules not to substantially affect rights of person](#Non-compliance-with-business-rules-or-listing-rules-not-to-substantially-affect-rights-of-person)
 
-- [30 Revocation of approval](#Revocation-of-approval)
+[**Subdivision (3) — Matters Requiring Approval of Authority**](#Subdivision-3-—-Matters-Requiring-Approval-of-Authority)
 
-- [31 Listing of exchange holding company on securities exchange](#Listing-of-exchange-holding-company-on-securities-exchange)
+- [27 Control of substantial shareholding in approved exchanges](#Control-of-substantial-shareholding-in-approved-exchanges)
 
-- [32 Power of Authority to issue directions to exchange holding company](#Power-of-Authority-to-issue-directions-to-exchange-holding-company)
+- [28 Approval of chairman, chief executive officer, director and key persons](#Approval-of-chairman-chief-executive-officer-director-and-key-persons)
 
-- [33 Removal of officer of exchange holding company](#Removal-of-officer-of-exchange-holding-company)
+- [29 Power of Authority to approve instruments, contracts and transactions](#Power-of-Authority-to-approve-instruments-contracts-and-transactions)
 
-- [34 Control of substantial shareholdings in exchange holding company](#Control-of-substantial-shareholdings-in-exchange-holding-company)
+- [30 Listing of approved exchanges on securities market](#Listing-of-approved-exchanges-on-securities-market)
 
-- [35 Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
+[**Subdivision (4) — Powers of Authority**](#Subdivision-4-—-Powers-of-Authority)
 
-[**Division 4  Recognised Trading System Providers**](#Division-4--Recognised-Trading-System-Providers)
+- [31 Fixing of position and trading limits in futures contracts](#Fixing-of-position-and-trading-limits-in-futures-contracts)
 
-- [36 Power of Authority to recognise trading system providers](#Power-of-Authority-to-recognise-trading-system-providers)
+- [32 Power of Authority in securities market](#Power-of-Authority-in-securities-market)
 
-- [37 Overseas securities exchange and overseas futures exchange](#Overseas-securities-exchange-and-overseas-futures-exchange)
+- [33 Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
 
-- [38 Report by overseas securities exchange and overseas futures exchange](#Report-by-overseas-securities-exchange-and-overseas-futures-exchange)
+- [34 Emergency powers of Authority](#Emergency-powers-of-Authority)
 
-- [39 Continuing obligations of recognised trading system provider](#Continuing-obligations-of-recognised-trading-system-provider)
+- [35 Power of Authority to exempt approved exchanges from provisions of this Part](#Power-of-Authority-to-exempt-approved-exchanges-from-provisions-of-this-Part)
 
-- [40 Revocation of recognition](#Revocation-of-recognition)
+[**Subdivision (5) — Immunity**](#Subdivision-5-—-Immunity)
 
-- [41 Effect of revocation](#Effect-of-revocation)
+- [36 Immunity from criminal or civil liability](#Immunity-from-criminal-or-civil-liability)
 
-- [42 Recognised trading system provider to assist Authority](#Recognised-trading-system-provider-to-assist-Authority)
+[**Division 3  Regulation of Recognised Market Operators**](#Division-3--Regulation-of-Recognised-Market-Operators)
 
-- [43 Power of Authority to issue directions to recognised trading system provider](#Power-of-Authority-to-issue-directions-to-recognised-trading-system-provider)
+- [37 General obligations](#General-obligations)
 
-- [44 Removal of officer of recognised trading system provider](#Removal-of-officer-of-recognised-trading-system-provider)
+- [38 Obligation to notify Authority of certain matters](#Obligation-to-notify-Authority-of-certain-matters)
 
-- [45 Power of Authority to approve futures contracts](#Power-of-Authority-to-approve-futures-contracts)
+- [39 Obligation to maintain proper records](#Obligation-to-maintain-proper-records)
 
-- [46 Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
+- [40 Obligation to submit periodic reports](#Obligation-to-submit-periodic-reports)
 
-- [47 Application of certain provisions in Division 2](#Application-of-certain-provisions-in-Division-2)
+- [41 Obligation to assist Authority](#Obligation-to-assist-Authority)
 
-[**Division 5  Immunity**](#Division-5--Immunity)
+- [42 Power of Authority to approve instruments, contracts and transactions](#Power-of-Authority-to-approve-instruments-contracts-and-transactions)
 
-- [48 Immunity from criminal or civil liability](#Immunity-from-criminal-or-civil-liability)
+- [43 Penalties under this Division](#Penalties-under-this-Division)
+
+[**Division 4  General Powers of Authority**](#Division-4--General-Powers-of-Authority)
+
+- [44 Power of Authority to remove officers](#Power-of-Authority-to-remove-officers)
+
+- [45 Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
+
+- [46 Power of Authority to issue directions](#Power-of-Authority-to-issue-directions)
 
 [**Part III CLEARING FACILITIES**](#Part-III)
 
-[**Division 1  Interpretation**](#Division-1--Interpretation)
+- [47 Objectives of this Part](#Objectives-of-this-Part)
 
-- [49 Interpretation of this Part](#Interpretation-of-this-Part)
+- [48 Interpretation of this Part](#Interpretation-of-this-Part)
 
-[**Division 2  Clearing Houses**](#Division-2--Clearing-Houses)
+[**Division 1  Establishment of Clearing Facilities**](#Division-1--Establishment-of-Clearing-Facilities)
 
-- [50 Establishment of clearing house](#Establishment-of-clearing-house)
+- [49 Requirement to notify](#Requirement-to-notify)
 
-- [51 Power of Authority to approve clearing house](#Power-of-Authority-to-approve-clearing-house)
+- [50 Provision of information to Authority](#Provision-of-information-to-Authority)
 
-- [52 Business rules of clearing house](#Business-rules-of-clearing-house)
+- [51 Notification of change of particulars](#Notification-of-change-of-particulars)
 
-- [53 Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
+- [52 Obligation to assist Authority](#Obligation-to-assist-Authority)
 
-- [54 Continuing obligations of clearing house](#Continuing-obligations-of-clearing-house)
+- [53 Exemption](#Exemption)
 
-- [55 Revocation of approval](#Revocation-of-approval)
+- [54 Power to stop commencement or order cessation](#Power-to-stop-commencement-or-order-cessation)
 
-- [56 Effect of revocation](#Effect-of-revocation)
+[**Division 2  Designation of Persons Operating Clearing Facilities**](#Division-2--Designation-of-Persons-Operating-Clearing-Facilities)
 
-- [57 Clearing house to assist Authority](#Clearing-house-to-assist-Authority)
+- [55 Designation of persons operating clearing facilities](#Designation-of-persons-operating-clearing-facilities)
 
-- [57A Control of substantial shareholding in clearing house](#Control-of-substantial-shareholding-in-clearing-house)
+- [56 Prohibition on holding out](#Prohibition-on-holding-out)
 
-- [58 Business rules of clearing house have effect as contract](#Business-rules-of-clearing-house-have-effect-as-contract)
+- [57 General criteria to be taken into account by Authority](#General-criteria-to-be-taken-into-account-by-Authority)
 
-- [59 Authority to be notified of amendments to business rules](#Authority-to-be-notified-of-amendments-to-business-rules)
+- [58 Withdrawal of designation](#Withdrawal-of-designation)
 
-- [60 Power of court to order observance or enforcement of business rules](#Power-of-court-to-order-observance-or-enforcement-of-business-rules)
+[**Division 3  Regulation of Designated Clearing Houses**](#Division-3--Regulation-of-Designated-Clearing-Houses)
 
-- [61 Non-compliance with business rules not to substantially affect rights of person](#Non-compliance-with-business-rules-not-to-substantially-affect-rights-of-person)
+[**Subdivision (1) — Obligations of Designated Clearing Houses**](#Subdivision-1-—-Obligations-of-Designated-Clearing-Houses)
 
-- [62 Review of disciplinary action taken by clearing house](#Review-of-disciplinary-action-taken-by-clearing-house)
+- [59 General obligations](#General-obligations)
 
-- [63 Power of Authority to issue directions to clearing house](#Power-of-Authority-to-issue-directions-to-clearing-house)
+- [60 Obligation to notify Authority of certain matters](#Obligation-to-notify-Authority-of-certain-matters)
 
-- [64 Removal of officer of clearing house](#Removal-of-officer-of-clearing-house)
+- [61 Obligation to manage risks prudently](#Obligation-to-manage-risks-prudently)
 
-- [65 Emergency powers of Authority](#Emergency-powers-of-Authority)
+- [62 Obligation in relation to customers’ money and assets held by designated clearing house](#Obligation-in-relation-to-customers’-money-and-assets-held-by-designated-clearing-house)
 
-- [66 Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
+- [63 Permissible use of customers’ money and assets by designated clearing house](#Permissible-use-of-customers’-money-and-assets-by-designated-clearing-house)
 
-- [67 Immunity of clearing house, etc.](#Immunity-of-clearing-house-etc)
+- [64 Permissible investments of customers’ money and assets by designated clearing house](#Permissible-investments-of-customers’-money-and-assets-by-designated-clearing-house)
 
-[**Division 3  Clearing House and Insolvency**](#Division-3--Clearing-House-and-Insolvency)
+- [65 Obligation to maintain proper records](#Obligation-to-maintain-proper-records)
 
-- [68 Application of this Division](#Application-of-this-Division)
+- [66 Obligation to submit periodic reports](#Obligation-to-submit-periodic-reports)
 
-- [69 Proceedings of clearing house shall take precedence over law of insolvency](#Proceedings-of-clearing-house-shall-take-precedence-over-law-of-insolvency)
+- [67 Obligation to assist Authority](#Obligation-to-assist-Authority)
 
-- [70 Supplementary provisions as to default proceedings](#Supplementary-provisions-as-to-default-proceedings)
+- [68 Obligation to maintain confidentiality](#Obligation-to-maintain-confidentiality)
 
-- [71 Duty to report on completion of default proceedings](#Duty-to-report-on-completion-of-default-proceedings)
+- [69 Annual fees payable by designated clearing house](#Annual-fees-payable-by-designated-clearing-house)
 
-- [72 Net sum payable on completion of default proceedings](#Net-sum-payable-on-completion-of-default-proceedings)
+- [70 Penalties under this Subdivision](#Penalties-under-this-Subdivision)
 
-- [73 Disclaimer of onerous property, rescission of contracts, etc.](#Disclaimer-of-onerous-property-rescission-of-contracts-etc)
+[**Subdivision (2) — Rules of Designated Clearing Houses**](#Subdivision-2-—-Rules-of-Designated-Clearing-Houses)
 
-- [74 Adjustment of prior transactions](#Adjustment-of-prior-transactions)
+- [71 Business rules of designated clearing houses](#Business-rules-of-designated-clearing-houses)
 
-- [75 Right of relevant office holder to recover certain amounts arising from certain transactions](#Right-of-relevant-office-holder-to-recover-certain-amounts-arising-from-certain-transactions)
+- [72 Business rules of designated clearing houses have effect as contract](#Business-rules-of-designated-clearing-houses-have-effect-as-contract)
 
-- [76 Application of market collateral not affected by certain other interest, etc.](#Application-of-market-collateral-not-affected-by-certain-other-interest-etc)
+- [73 Power of court to order observance or enforcement of business rules](#Power-of-court-to-order-observance-or-enforcement-of-business-rules)
 
-- [77 Enforcement of judgments over property subject to market charge, etc.](#Enforcement-of-judgments-over-property-subject-to-market-charge-etc)
+- [74 Non-compliance with business rules not to substantially affect rights of person](#Non-compliance-with-business-rules-not-to-substantially-affect-rights-of-person)
 
-- [78 Law of insolvency in other jurisdictions](#Law-of-insolvency-in-other-jurisdictions)
+[**Subdivision (3) — Matters Requiring Approval of Authority**](#Subdivision-3-—-Matters-Requiring-Approval-of-Authority)
 
-- [79 Participant to be party to certain transactions as principal](#Participant-to-be-party-to-certain-transactions-as-principal)
+- [75 Control of substantial shareholding in designated clearing houses](#Control-of-substantial-shareholding-in-designated-clearing-houses)
 
-- [80 Preservation of rights, etc.](#Preservation-of-rights-etc)
+- [76 Approval of chairman, chief executive officer, director and key persons](#Approval-of-chairman-chief-executive-officer-director-and-key-persons)
 
-- [81 Immunity from criminal or civil liability](#Immunity-from-criminal-or-civil-liability)
+- [77 Listing of designated clearing houses on securities market](#Listing-of-designated-clearing-houses-on-securities-market)
+
+[**Subdivision (4) — Powers of Authority**](#Subdivision-4-—-Powers-of-Authority)
+
+- [78 Power to impose conditions or restrictions](#Power-to-impose-conditions-or-restrictions)
+
+- [79 Power of Authority to issue directions](#Power-of-Authority-to-issue-directions)
+
+- [80 Power to order cessation of designated clearing houses](#Power-to-order-cessation-of-designated-clearing-houses)
+
+- [81 Emergency powers of Authority](#Emergency-powers-of-Authority)
+
+- [81A Power of Authority to remove officers](#Power-of-Authority-to-remove-officers)
+
+- [81B Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
+
+- [81C Power of Authority to exempt designated clearing houses from provisions of this Part](#Power-of-Authority-to-exempt-designated-clearing-houses-from-provisions-of-this-Part)
+
+[**Subdivision (5) — Immunity**](#Subdivision-5-—-Immunity)
+
+- [81D Immunity from criminal or civil liability](#Immunity-from-criminal-or-civil-liability)
+
+[**Division 4  Insolvency**](#Division-4--Insolvency)
+
+- [81E Application of this Division](#Application-of-this-Division)
+
+- [81F Proceedings of designated clearing house shall take precedence over law of insolvency](#Proceedings-of-designated-clearing-house-shall-take-precedence-over-law-of-insolvency)
+
+- [81G Supplementary provisions as to default proceedings](#Supplementary-provisions-as-to-default-proceedings)
+
+- [81H Duty to report on completion of default proceedings](#Duty-to-report-on-completion-of-default-proceedings)
+
+- [81I Net sum payable on completion of default proceedings](#Net-sum-payable-on-completion-of-default-proceedings)
+
+- [81J Disclaimer of onerous property, rescission of contracts, etc.](#Disclaimer-of-onerous-property-rescission-of-contracts-etc)
+
+- [81K Adjustment of prior transactions](#Adjustment-of-prior-transactions)
+
+- [81L Right of relevant office holder to recover certain amounts arising from certain transactions](#Right-of-relevant-office-holder-to-recover-certain-amounts-arising-from-certain-transactions)
+
+- [81M Application of market collateral not affected by certain other interest, etc.](#Application-of-market-collateral-not-affected-by-certain-other-interest-etc)
+
+- [81N Enforcement of judgments over property subject to market charge, etc.](#Enforcement-of-judgments-over-property-subject-to-market-charge-etc)
+
+- [81O Law of insolvency in other jurisdictions](#Law-of-insolvency-in-other-jurisdictions)
+
+- [81P Participant to be party to certain transactions as principal](#Participant-to-be-party-to-certain-transactions-as-principal)
+
+- [81Q Preservation of rights, etc.](#Preservation-of-rights-etc)
+
+- [81R Immunity from criminal or civil liability](#Immunity-from-criminal-or-civil-liability)
+
+[**Division 5  General Powers of Authority**](#Division-5--General-Powers-of-Authority)
+
+- [81S Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
+
+[**Part IIIA APPROVED HOLDING COMPANIES**](#Part-IIIA)
+
+- [81T Objectives of this Part](#Objectives-of-this-Part)
+
+[**Division 1  Establishment of Approved Holding Companies**](#Division-1--Establishment-of-Approved-Holding-Companies)
+
+- [81U Requirement for approval](#Requirement-for-approval)
+
+- [81V Application for approval](#Application-for-approval)
+
+- [81W Power of Authority to approve holding companies](#Power-of-Authority-to-approve-holding-companies)
+
+- [81X Annual fees payable by approved holding company](#Annual-fees-payable-by-approved-holding-company)
+
+- [81Y Cancellation of approval](#Cancellation-of-approval)
+
+- [81Z Power of Authority to revoke approval](#Power-of-Authority-to-revoke-approval)
+
+[**Division 2  Regulation of Approved Holding Companies**](#Division-2--Regulation-of-Approved-Holding-Companies)
+
+- [81ZA Obligation to notify Authority of certain matters](#Obligation-to-notify-Authority-of-certain-matters)
+
+- [81ZB Obligation to submit periodic reports](#Obligation-to-submit-periodic-reports)
+
+- [81ZC Obligation to assist Authority](#Obligation-to-assist-Authority)
+
+- [81ZD Obligation to maintain confidentiality](#Obligation-to-maintain-confidentiality)
+
+- [81ZE Control of substantial shareholding in approved holding companies](#Control-of-substantial-shareholding-in-approved-holding-companies)
+
+- [81ZF Approval of chairman, chief executive officer, director and key persons](#Approval-of-chairman-chief-executive-officer-director-and-key-persons)
+
+- [81ZG Listing of approved holding companies on securities market](#Listing-of-approved-holding-companies-on-securities-market)
+
+- [81ZH Additional powers of Authority in respect of auditors](#Additional-powers-of-Authority-in-respect-of-auditors)
+
+- [81ZI Power of Authority to exempt approved holding companies from provisions of this Part](#Power-of-Authority-to-exempt-approved-holding-companies-from-provisions-of-this-Part)
+
+- [81ZJ Power of Authority to remove officers](#Power-of-Authority-to-remove-officers)
+
+- [81ZK Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
+
+- [81ZL Power of Authority to issue directions](#Power-of-Authority-to-issue-directions)
 
 [**Part IV CAPITAL MARKETS SERVICES LICENCE AND REPRESENTATIVE’S LICENCE**](#Part-IV)
 
@@ -235,6 +343,8 @@
 [**Division 2  Exemptions**](#Division-2--Exemptions)
 
 - [99 Exemptions from requirement to hold capital markets services licence](#Exemptions-from-requirement-to-hold-capital-markets-services-licence)
+
+- [99A Annual fees payable by exempt person and its representative](#Annual-fees-payable-by-exempt-person-and-its-representative)
 
 [**Division 3  General**](#Division-3--General)
 
@@ -292,11 +402,11 @@
 
 - [118 Issue of contract notes](#Issue-of-contract-notes)
 
-- [119 Restrictions on granting unsecured advances, loans or credit facilities to officers, etc., of holder of capital markets services licence](#Restrictions-on-granting-unsecured-advances-loans-or-credit-facilities-to-officers-etc-of-holder-of-capital-markets-services-licence)
+- [119 (Repealed)](#Repealed)
 
-- [120 Licensed person or representative to disclose certain interests](#Licensed-person-or-representative-to-disclose-certain-interests)
+- [120 Disclosure of certain interests in respect of underwriting agreement](#Disclosure-of-certain-interests-in-respect-of-underwriting-agreement)
 
-- [121 Recommendations by licensed person](#Recommendations-by-licensed-person)
+- [121 (Repealed)](#Repealed)
 
 - [122 Priority to customers’ orders](#Priority-to-customers’-orders)
 
@@ -340,6 +450,12 @@
 
 - [137 Duty of substantial shareholders to notify securities exchange](#Duty-of-substantial-shareholders-to-notify-securities-exchange)
 
+[**Division 3  Disclosure by Substantial Unitholders**](#Division-3--Disclosure-by-Substantial-Unitholders)
+
+- [137A Duty of substantial unitholders to notify securities exchange](#Duty-of-substantial-unitholders-to-notify-securities-exchange)
+
+- [137B Duty of substantial unitholders to notify trustee of collective investment scheme](#Duty-of-substantial-unitholders-to-notify-trustee-of-collective-investment-scheme)
+
 [**Part VIII SECURITIES INDUSTRY COUNCIL AND TAKE-OVER OFFERS**](#Part-VIII)
 
 - [138 Securities Industry Council](#Securities-Industry-Council)
@@ -352,7 +468,7 @@
 
 [**Division 1  Supervisory Powers of Authority**](#Division-1--Supervisory-Powers-of-Authority)
 
-[**Subdivision 1 Powers of Authority to require disclosure of information about securities and futures contracts**](#Subdivision-1-Powers-of-Authority-to-require-disclosure-of-information-about-securities-and-futures-contracts)
+[**Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts**](#Subdivision-1-—-Powers-of-Authority-to-require-disclosure-of-information-about-securities-and-futures-contracts)
 
 - [141 Interpretation of this Subdivision](#Interpretation-of-this-Subdivision)
 
@@ -372,7 +488,7 @@
 
 - [149 Copies of or extracts from documents to be admitted in evidence](#Copies-of-or-extracts-from-documents-to-be-admitted-in-evidence)
 
-[**Subdivision 2 Inspection Powers of Authority**](#Subdivision-2-Inspection-Powers-of-Authority)
+[**Subdivision (2) — Inspection Powers of Authority**](#Subdivision-2-—-Inspection-Powers-of-Authority)
 
 - [150 Inspection by Authority](#Inspection-by-Authority)
 
@@ -382,13 +498,13 @@
 
 [**Division 3  Investigative Powers of Authority**](#Division-3--Investigative-Powers-of-Authority)
 
-[**Subdivision 1 General**](#Subdivision-1-General)
+[**Subdivision (1) — General**](#Subdivision-1-—-General)
 
 - [152 Investigation by Authority](#Investigation-by-Authority)
 
 - [153 Self-incrimination and savings for advocates and solicitors](#Self-incrimination-and-savings-for-advocates-and-solicitors)
 
-[**Subdivision 2 Examination of persons**](#Subdivision-2-Examination-of-persons)
+[**Subdivision (2) — Examination of persons**](#Subdivision-2-—-Examination-of-persons)
 
 - [154 Requirement to appear for examination](#Requirement-to-appear-for-examination)
 
@@ -408,7 +524,7 @@
 
 - [162 Offences under this Subdivision](#Offences-under-this-Subdivision)
 
-[**Subdivision 3 Powers to obtain information**](#Subdivision-3-Powers-to-obtain-information)
+[**Subdivision (3) — Powers to obtain information**](#Subdivision-3-—-Powers-to-obtain-information)
 
 - [163 Power of Authority to order production of books](#Power-of-Authority-to-order-production-of-books)
 
@@ -486,6 +602,8 @@
 
 - [196 Application of this Division](#Application-of-this-Division)
 
+- [196A Interpretation of this Division](#Interpretation-of-this-Division)
+
 - [197 False trading and market rigging transactions](#False-trading-and-market-rigging-transactions)
 
 - [198 Securities market manipulation](#Securities-market-manipulation)
@@ -540,7 +658,7 @@
 
 - [221 Penalties under this Division](#Penalties-under-this-Division)
 
-- [222 Exception for withdrawal from registered scheme](#Exception-for-withdrawal-from-registered-scheme)
+- [222 Exception for redemption of units in collective investment scheme](#Exception-for-redemption-of-units-in-collective-investment-scheme)
 
 - [223 Exception for underwriters](#Exception-for-underwriters)
 
@@ -580,13 +698,13 @@
 
 [**Division 1  Shares and Debentures**](#Division-1--Shares-and-Debentures)
 
-[**Subdivision 1 Interpretation**](#Subdivision-1-Interpretation)
+[**Subdivision (1) — Interpretation**](#Subdivision-1-—-Interpretation)
 
 - [239 Preliminary provisions](#Preliminary-provisions)
 
 - [239A Authority may disapply this Division to certain offers and invitations](#Authority-may-disapply-this-Division-to-certain-offers-and-invitations)
 
-[**Subdivision 2 Prospectus Requirements**](#Subdivision-2-Prospectus-Requirements)
+[**Subdivision (2) — Prospectus Requirements**](#Subdivision-2-—-Prospectus-Requirements)
 
 - [240 Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
 
@@ -630,7 +748,7 @@
 
 - [260 Prohibition of allotment unless minimum subscription received](#Prohibition-of-allotment-unless-minimum-subscription-received)
 
-[**Subdivision 3 Debentures**](#Subdivision-3-Debentures)
+[**Subdivision (3) — Debentures**](#Subdivision-3-—-Debentures)
 
 - [261 Preliminary provisions](#Preliminary-provisions)
 
@@ -656,7 +774,7 @@
 
 - [271 Liability of trustees for debenture holders](#Liability-of-trustees-for-debenture-holders)
 
-[**Subdivision 4Exemptions**](#Subdivision-4Exemptions)
+[**Subdivision (4) — Exemptions**](#Subdivision-4-—-Exemptions)
 
 - [272 Interpretation of this Subdivision](#Interpretation-of-this-Subdivision)
 
@@ -682,13 +800,13 @@
 
 [**Division 1A  Business Trusts**](#Division-1A--Business-Trusts)
 
-[**Subdivision 1 Interpretation**](#Subdivision-1-Interpretation)
+[**Subdivision (1) — Interpretation**](#Subdivision-1-—-Interpretation)
 
 - [282A Preliminary provisions](#Preliminary-provisions)
 
 - [282B Division not to apply to certain business trusts which are collective investment schemes](#Division-not-to-apply-to-certain-business-trusts-which-are-collective-investment-schemes)
 
-[**Subdivision 2 Prospectus Requirements**](#Subdivision-2-Prospectus-Requirements)
+[**Subdivision (2) —Prospectus Requirements**](#Subdivision-2-—Prospectus-Requirements)
 
 - [282C Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
 
@@ -726,7 +844,7 @@
 
 - [282T Prohibition of allotment unless minimum subscription received](#Prohibition-of-allotment-unless-minimum-subscription-received)
 
-[**Subdivision 3 Exemptions**](#Subdivision-3-Exemptions)
+[**Subdivision (3) —Exemptions**](#Subdivision-3-—Exemptions)
 
 - [282U Interpretation of this Subdivision](#Interpretation-of-this-Subdivision)
 
@@ -744,13 +862,13 @@
 
 - [282ZB Transactions under exempted offers or invitations subject to Division 2 of Part XII of Companies Act and Part XII of this Act](#Transactions-under-exempted-offers-or-invitations-subject-to-Division-2-of-Part-XII-of-Companies-Act-and-Part-XII-of-this-Act)
 
-[**Subdivision 4 Debentures**](#Subdivision-4-Debentures)
+[**Subdivision (4) —Debentures**](#Subdivision-4-—Debentures)
 
 - [282ZC Applicability of provisions relating to prospectus requirements](#Applicability-of-provisions-relating-to-prospectus-requirements)
 
 [**Division 2  Collective Investment Schemes**](#Division-2--Collective-Investment-Schemes)
 
-[**Subdivision 1 Interpretation**](#Subdivision-1-Interpretation)
+[**Subdivision (1) — Interpretation**](#Subdivision-1-—-Interpretation)
 
 - [283 Interpretation of this Division](#Interpretation-of-this-Division)
 
@@ -762,7 +880,7 @@
 
 - [284B Division not to apply to certain collective investment schemes which are business trusts](#Division-not-to-apply-to-certain-collective-investment-schemes-which-are-business-trusts)
 
-[**Subdivision 2 Authorisation and Recognition**](#Subdivision-2-Authorisation-and-Recognition)
+[**Subdivision (2) — Authorisation and Recognition**](#Subdivision-2-—-Authorisation-and-Recognition)
 
 - [285 Offers to public](#Offers-to-public)
 
@@ -786,7 +904,7 @@
 
 - [295 Winding up](#Winding-up)
 
-[**Subdivision 3 Prospectus Requirements**](#Subdivision-3-Prospectus-Requirements)
+[**Subdivision (3) — Prospectus Requirements**](#Subdivision-3-—-Prospectus-Requirements)
 
 - [296 Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
 
@@ -802,7 +920,7 @@
 
 - [302 Applicability of provisions relating to shares](#Applicability-of-provisions-relating-to-shares)
 
-[**Subdivision 4 Exemptions**](#Subdivision-4-Exemptions)
+[**Subdivision (4) — Exemptions**](#Subdivision-4-—-Exemptions)
 
 - [303 Offer or invitation made under certain circumstances](#Offer-or-invitation-made-under-certain-circumstances)
 
@@ -836,9 +954,9 @@
 
 [**Part XV MISCELLANEOUS**](#Part-XV)
 
-- [314 Prohibition of use of certain titles](#Prohibition-of-use-of-certain-titles)
+- [314 (Repealed)](#Repealed)
 
-- [315 Secrecy](#Secrecy)
+- [315 (Repealed)](#Repealed)
 
 - [316 Opportunity to be heard](#Opportunity-to-be-heard)
 
@@ -870,7 +988,7 @@
 
 - [329 Duty not to furnish false information to Authority](#Duty-not-to-furnish-false-information-to-Authority)
 
-- [330 Duty not to furnish false statements to securities exchange, futures exchange, clearing house and Securities Industry Council](#Duty-not-to-furnish-false-statements-to-securities-exchange-futures-exchange-clearing-house-and-Securities-Industry-Council)
+- [330 Duty not to furnish false statements to securities exchange, futures exchange, designated clearing house and Securities Industry Council](#Duty-not-to-furnish-false-statements-to-securities-exchange-futures-exchange-designated-clearing-house-and-Securities-Industry-Council)
 
 - [331 Corporate offenders and unincorporated associations](#Corporate-offenders-and-unincorporated-associations)
 
@@ -898,7 +1016,7 @@
 
 - [343 Transitional provisions](#Transitional-provisions)
 
-[**FIRST SCHEDULE Markets**](#FIRST-SCHEDULE-Markets)
+[**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
 [**SECOND SCHEDULE Regulated Activities**](#SECOND-SCHEDULE-Regulated-Activities)
 
@@ -940,15 +1058,17 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“accredited investor” means —
-
-(a) an individual whose net personal assets exceed $5 million or its equivalent in value in foreign currencies; or
-
-(b) a corporation with net assets exceeding $10 million in value or its equivalent in value in foreign currencies as determined in accordance with the most recent audited balance-sheet of the corporation, or in the case of a corporation which is not required to prepare audited accounts, a balance-sheet certified by the corporation to give a true and fair view of the state of affairs of the corporation as at the end of the period to which it relates;
-
 “advising on corporate finance” has the meaning given to it in the Second Schedule;
 
 “advocate and solicitor” means an advocate and solicitor of the Supreme Court or a foreign lawyer as defined in section 130A of the Legal Profession Act (Cap. 161);
+
+“approved exchange” means a corporation that is approved by the Authority under section 8(1) as an approved exchange;
+
+[1/2005 wef 01/07/2005]
+
+“approved holding company” means a corporation that is approved by the Authority under section 81W as an approved holding company;
+
+[1/2005 wef 01/07/2005]
 
 “auditor”, except for the purposes of Division 1 of Part XIII, means a public accountant who is registered or deemed to be registered under the Accountants Act 2004 (Act 4 of 2004);
 
@@ -958,13 +1078,13 @@ PRELIMINARY
 
 “book” includes any record, register, document or other record of information, and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or in any other electronic form or otherwise;
 
-“business rules”, in relation to an exchange holding company, a securities exchange, a futures exchange, a recognised trading system provider or a clearing house, means the rules, regulations, by-laws or such similar body of statements, by whatever name called, that govern the activities and conduct of —
+“business rules”, in relation to an approved holding company, a securities exchange, a futures exchange, a recognised market operator or a designated clearing house, means the rules, regulations, by-laws or such similar body of statements, by whatever name called, that govern the activities and conduct of —
 
-(a) the exchange holding company, securities exchange, futures exchange, recognised trading system provider or clearing house and its members; and
+(a) the exchange holding company, securities exchange, futures exchange, recognised market operator or designated clearing house and its members; and
 
 (b) other persons in relation to it,
 
-whether or not those rules, regulations, by-laws or similar body of statements are made by the exchange holding company, securities exchange, futures exchange, recognised trading system provider or clearing house or are contained in its constituent documents, but does not include the listing rules of a securities exchange or recognised trading system provider (which is an overseas securities exchange);
+whether or not those rules, regulations, by-laws or similar body of statements are made by the exchange holding company, securities exchange, futures exchange, recognised market operator or designated clearing house or are contained in its constituent documents, but does not include the listing rules of a securities exchange or recognised market operator (which is an overseas securities exchange);
 
 “business trust” has the same meaning as in section 2 of the Business Trusts Act 2004;
 
@@ -974,29 +1094,35 @@ whether or not those rules, regulations, by-laws or similar body of statements a
 
 “capital markets services licence” means a licence that is granted by the Authority under section 86 to a person to carry on a business in any regulated activity;
 
-“clearing facility” means —
+“chairman” means a chairman of a board of directors;
 
-(a) a facility for the clearing or settlement of —
+[1/2005 wef 01/07/2005]
 
-(i) transactions in securities traded on a securities market; or
+“chief executive officer”, in relation to an approved exchange, a recognised market operator, a designated clearing house, a person operating a clearing facility, an approved holding company or a holder of a capital markets services licence, means any person, by whatever name described, who is —
 
-(ii) futures contracts traded on a futures market; or
+(a) in the direct employment of, or acting for or by arrangement with, the approved exchange, recognised market operator, designated clearing house, person operating a clearing facility, approved holding company or holder of a capital markets services licence, as the case may be; and
 
-(b) such other clearing or settlement facility or class of clearing or settlement facilities as the Authority may, by order, prescribe;
+(b) principally responsible for the management and conduct of the business of the approved exchange, recognised market operator, designated clearing house, person operating a clearing facility, approved holding company or holder of a capital markets services licence, as the case may be, in Singapore;
 
-[16/2003 wef 22/12/2003]
+[1/2005 wef 01/07/2005]
 
-“clearing house” means any corporation which has been approved by the Authority under section 51 as a clearing house;
+“clearing facility” has the meaning given to it in Part II of the First Schedule;
 
-“closed-end fund” means an arrangement referred to in paragraph (a) or (b) of the definition of “collective investment scheme” under which units that are exclusively or primarily non-redeemable are issued, but does not include an arrangement referred to in paragraph (a) of that definition that —
+[1/2005 wef 01/07/2005]
 
-(a) is a trust;
+“clearing or settlement” has the meaning given to it in Part II of the First Schedule;
 
-(b) invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
+[1/2005 wef 01/07/2005]
 
-(c) is listed on a securities exchange;
+“closed-end fund” means an arrangement referred to in paragraph (a) or (b) of the definition of “collective investment scheme” under which units that are issued are exclusively or primarily non-redeemable at the election of the holders of units, but does not include an arrangement referred to in paragraph (a) of that definition —
 
-[31/2004 wef 12/10/2004]
+(a) that is a trust;
+
+(b) that invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes; and
+
+(c) all or any units of which are listed for quotation on a securities exchange;
+
+[1/2005 wef 01/07/2005]
 
 “Code on Collective Investment Schemes” means the Code on Collective Investment Schemes referred to in section 284 which is issued by the Authority under section 321(1);
 
@@ -1028,13 +1154,21 @@ but does not include —
 
 (iii) an arrangement under which each of the participants is a related corporation of the manager;
 
-(iv) an arrangement made by or on behalf of a corporation solely for the benefit of persons each of whom is either a bona fide director, former director, consultant, adviser, employee or former employee of that corporation or a related corporation of that corporation, or a spouse, widow, widower or a child, adopted child or step-child below the age of 18 of such director, former director, employee or former employee;
+(iv) an arrangement made by or on behalf of an entity solely for the benefit of persons, each of whom is —
 
-[16/2003 wef 22/12/2003]
+(A) a bona fide director or equivalent person, a former director or equivalent person, a consultant, an adviser, an employee or a former employee of that entity or, where that entity is a corporation, a related corporation of that entity; or
 
-(iva) an arrangement made by or on behalf of 2 or more corporations solely for the benefit of persons each of whom is either a bona fide director, former director, consultant, adviser, employee or former employee of any of those corporations or a related corporation of any of those corporations, or a spouse, widow, widower or a child, adopted child or step-child below the age of 18 of such director, former director, employee or former employee;
+(B) a spouse, widow or widower, or a child, adopted child or step-child below the age of 18 years, of such director or equivalent person, former director or equivalent person, employee or former employee;
 
-[16/2003 wef 22/12/2003]
+[1/2005 wef 01/07/2005]
+
+(iva) an arrangement made by or on behalf of 2 or more entities solely for the benefit of persons, each of whom is —
+
+(A) a bona fide director or equivalent person, a former director or equivalent person, a consultant, an adviser, an employee or a former employee of any of those entities or, where any of those entities is a corporation, a related corporation of the entity which is a corporation; or
+
+(B) a spouse, widow or widower, or a child, adopted child or step-child below the age of 18 years, of such director or equivalent person, former director or equivalent person, employee or former employee;
+
+[1/2005 wef 01/07/2005]
 
 (v) a franchise;
 
@@ -1056,7 +1190,9 @@ but does not include —
 
 (a) a financial instrument; or
 
-(b) gold, all classes of oil or such other item, good, article, service, right or interest, which is the subject of a futures contract, as the Authority may by order prescribe;
+(b) gold;
+
+[1/2005 wef 01/07/2005]
 
 “company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -1078,21 +1214,31 @@ and a reference in this Act to a person connected to another person shall be con
 
 “corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-“customer”, in relation to a holder of a capital markets services licence, means —
+“customer” means —
 
-(a) for the purposes of Parts IV, VI, VII and XV, a person on whose behalf the holder carries on or will carry on any regulated activity; and
+(a) in relation to a holder of a capital markets services licence —
 
-(b) for the purposes of Part V, a person on whose behalf the holder carries on or will carry on any regulated activity, or any other person with whom the holder, as principal, enters or will enter into transactions —
+(i) for the purposes of Parts IV, VI, VII and XV, a person on whose behalf the holder carries on or will carry on any regulated activity; or
 
-(i) for the sale or purchase of securities;
+(ii) for the purposes of Part V, a person on whose behalf the holder carries on or will carry on any regulated activity, or any other person with whom the holder, as principal, enters or will enter into transactions —
 
-(ii) for the sale or purchase of futures contracts; or
+(A) for the sale or purchase of securities;
 
-(iii) in connection with leveraged foreign exchange trading,
+(B) for the sale or purchase of futures contracts; or
 
-but does not include such person or class of persons as may be prescribed;
+(C) in connection with leveraged foreign exchange trading,
 
-[16/2003 wef 22/12/2003]
+but does not include such person or class of persons as may be prescribed; or
+
+(b) for the purposes of Part III, a person on whose behalf a member of a designated clearing house carries on any activity regulated under this Act, but does not include —
+
+(i) the member, with respect to dealings for the member’s own account;
+
+(ii) any officer, director, employee or representative of the member; or
+
+(iii) a related corporation of the member, with respect to accepted instructions to deal for an account belonging to, and maintained wholly for the benefit of, that related corporation;
+
+[1/2005 wef 01/07/2005]
 
 “dealing in securities” has the meaning given to it in the Second Schedule;
 
@@ -1104,19 +1250,29 @@ but does not include such person or class of persons as may be prescribed;
 
 “defalcation” means misapplication, including misappropriation, of any property;
 
+“designated clearing house” means a person that is designated by the Authority under section 55(1) as a designated clearing house;
+
+[1/2005 wef 01/07/2005]
+
 “derivative”, in relation to a unit in a business trust, has the same meaning as in section 2 of the Business Trusts Act 2004;
 
 [31/2004 wef 12/10/2004]
 
 “director” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-“entity” includes, without limitation, the government of any state;
+“entity” includes a corporation, an unincorporated association, a partnership and the government of any state, but does not include a trust;
 
-“exchange holding company” means any corporation which is a holding company of any securities exchange, futures exchange, clearing house or exchange holding company, and that is approved by the Authority under section 29;
+[1/2005 wef 01/07/2005]
 
-“exempt clearing facility” means a clearing facility in relation to which, or a clearing facility included in a class of clearing facilities, being a class in relation to which, a declaration under section 50(3) is in force;
+“exempt market operator” means —
 
-“exempt market” means a securities market in relation to which, or a securities market included in a class of securities markets, being a class in relation to which, a declaration under section 5(5) is in force or a futures market in relation to which, or a futures market included in a class of futures markets, being a class in relation to which, a declaration under section 6(5) is in force;
+(a) a corporation that is exempted under section 14(2);
+
+(b) a corporation declared under section 14(8) to be an exempt market operator; or
+
+(c) a corporation operating a market included in a class of markets in relation to which a declaration under section 14(9) is in force;
+
+[1/2005 wef 01/07/2005]
 
 “exempt person” means a person who is exempted under section 99;
 
@@ -1144,19 +1300,43 @@ but does not include such person or class of persons as may be prescribed;
 
 “fund management” has the meaning given to it in the Second Schedule;
 
-“futures contract” means a contract the effect of which is that —
+“futures contract” means —
 
-(a) one party agrees to deliver a specified commodity, or a specified quantity of a specified commodity, to another party at a specified future time and at a specified price payable at that time pursuant to terms and conditions set out in the business rules or practices of a futures exchange, recognised trading system provider or futures market; or
+(a) for the purposes of Part I of the First Schedule —
 
-(b) the parties will discharge their obligations under the contract by settling the difference between the value of a specified quantity of a specified commodity agreed at the time of the making of the contract and at a specified future time, such difference being determined in accordance with the business rules or practices of a futures exchange, recognised trading system provider or futures market at which the contract is made,
+(i) a contract the effect of which is that —
 
-and includes a futures option transaction;
+(A) one party agrees to deliver a specified commodity, or a specified quantity of a specified commodity, to another party at a specified future time and at a specified price payable at that time; or
 
-“futures exchange” means a corporation that is approved by the Authority under section 9 as a futures exchange;
+(B) the parties will discharge their obligations under the contract by settling the difference between the value of a specified quantity of a specified commodity agreed at the time of the making of the contract and at a specified future time,
 
-“futures market” has the meaning given to it in the First Schedule;
+and includes a futures option transaction; or
 
-“futures option transaction” means an option on a specified futures contract which is transacted in accordance with the business rules or practices of a futures exchange, recognised trading system provider or futures market on which the transaction is made;
+(ii) such other contract or class of contracts as the Authority may prescribe;
+
+(b) for the purposes of any other provision in this Act —
+
+(i) a contract the effect of which is that —
+
+(A) one party agrees to deliver a specified commodity, or a specified quantity of a specified commodity, to another party at a specified future time and at a specified price payable at that time pursuant to the terms and conditions set out in the business rules of a futures market or pursuant to the business practices of a futures market; or
+
+(B) the parties will discharge their obligations under the contract by settling the difference between the value of a specified quantity of a specified commodity agreed at the time of the making of the contract and at a specified future time, such difference being determined in accordance with the business rules or practices of the futures market at which the contract is made,
+
+and includes a futures option transaction; or
+
+(ii) such other contract or class of contracts as the Authority may prescribe;
+
+[1/2005 wef 01/07/2005]
+
+“futures exchange” means an approved exchange in respect of the operation of its futures market;
+
+[1/2005 wef 01/07/2005]
+
+“futures market” has the meaning given to it in Part I of the First Schedule;
+
+[1/2005 wef 01/07/2005]
+
+“futures option transaction” means an option on a specified futures contract which is transacted in accordance with the business rules or practices of a futures exchange, recognised market operator or futures market on which the transaction is made;
 
 “holding company” has the same meaning as in section 5(4) of the Companies Act (Cap. 50);
 
@@ -1170,7 +1350,7 @@ and includes a futures option transaction;
 
 [5/2005 wef 11/04/2005]
 
-“listing rules”, in relation to a corporation that establishes or operates, or proposes to establish or operate, a securities market of a securities exchange or a recognised trading system provider, or an overseas securities exchange that establishes or operates or proposes to establish or operate a securities market of a recognised trading system provider, means rules governing or relating to —
+“listing rules”, in relation to a corporation that establishes or operates, or proposes to establish or operate, a securities market of a securities exchange or a recognised market operator, or an overseas securities exchange that establishes or operates or proposes to establish or operate a securities market of a recognised market operator, means rules governing or relating to —
 
 (a) the admission to the official list of the corporation or overseas securities exchange, of corporations, governments, bodies unincorporate or other persons for the purpose of the quotation on the securities market of the corporation or overseas securities exchange of securities issued, or made available by such corporations, governments, bodies unincorporate or other persons, or the removal from that official list and for other purposes; or
 
@@ -1184,7 +1364,13 @@ whether those rules are made —
 
 “manager”, in relation to a collective investment scheme, means a person, by whatever name called, who is responsible for managing the property of, or operating, the collective investment scheme;
 
-“member”, except for the purposes of sections 3 and 4 and Parts XI, XIII and XV, means a person who holds membership of any class or description of a securities exchange, futures exchange, recognised trading system provider or clearing house whether or not he holds any share in the share capital of the securities exchange, futures exchange, recognised trading system provider or clearing house;
+“market” has the meaning given to it in Part I of the First Schedule;
+
+[1/2005 wef 01/07/2005]
+
+“member”, in relation to an approved exchange, a recognised market operator or a designated clearing house, means a person who holds membership of any class or description in the approved exchange, recognised market operator or designated clearing house, whether or not he holds any share in the share capital of the approved exchange, recognised market operator or designated clearing house, as the case may be;
+
+[1/2005 wef 01/07/2005]
 
 “newspaper” has the same meaning as in section 2 of the Newspaper and Printing Presses Act (Cap. 206);
 
@@ -1194,7 +1380,15 @@ whether those rules are made —
 
 “overseas securities exchange” means a person operating a securities market outside Singapore which is regulated by a financial services regulatory authority of a country or territory other than Singapore;
 
-“participant” means a person who participates in a collective investment scheme by way of owning one or more units in a collective investment scheme;
+“participant” means —
+
+(a) for the purposes of Part II, a person who may participate in one or more of the services provided by an approved exchange, a recognised market operator or an exempt market operator, in its capacity as an approved exchange, a recognised market operator or an exempt market operator, respectively;
+
+(b) for the purposes of Part III, a person who, under the business rules of a designated clearing house, may participate in one or more of the services provided by the designated clearing house in its capacity as a designated clearing house; or
+
+(c) for the purposes of any other provision of this Act, a person who participates in a collective investment scheme by way of owning one or more units in a collective investment scheme;
+
+[1/2005 wef 01/07/2005]
 
 “partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act 2005;
 
@@ -1222,11 +1416,19 @@ whether those rules are made —
 
 “public company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-“quote”, in relation to securities and a securities market of a securities exchange or recognised trading system provider, means to display or provide, on the securities market of the securities exchange or recognised trading system provider, information concerning the particular prices or particular consideration at which offers or invitations to sell, purchase or exchange issued securities are made on that securities market, being offers or invitations that are intended or may reasonably be expected, to result, directly or indirectly, in the making or acceptance of offers to sell, purchase or exchange issued securities;
+“quote”, in relation to securities and a securities market of an approved exchange or of a recognised market operator, means to display or provide, on the securities market of the approved exchange or recognised market operator, information concerning the particular prices or particular consideration at which offers or invitations to sell, purchase or exchange issued or prescribed securities are made on that securities market, being offers or invitations that are intended or may reasonably be expected, to result, directly or indirectly, in the making or acceptance of offers to sell, purchase or exchange issued or prescribed securities;
+
+[1/2005 wef 01/07/2005]
 
 “record” means information that is inscribed, stored or otherwise fixed on a tangible medium or that is stored in an electronic or other medium and is retrievable in perceivable form;
 
-“recognised trading system provider” means a person who is recognised by the Authority under section 36 as a recognised trading system provider;
+“recognised market operator” means a corporation that is recognised by the Authority under section 8(2) as a recognised market operator;
+
+[1/2005 wef 01/07/2005]
+
+“registered business trust” has the same meaning as in section 2 of the Business Trusts Act 2004 (Act 30 of 2004);
+
+[1/2005 wef 01/07/2005]
 
 “regulated activity” means an activity specified in the Second Schedule;
 
@@ -1237,6 +1439,14 @@ whether those rules are made —
 “representative’s licence” means a licence that is granted by the Authority under section 87 or a temporary representative’s licence that is granted by the Authority under section 87A;
 
 [16/2003 wef 22/12/2003]
+
+“responsible person”, in relation to a collective investment scheme, means —
+
+(a) in the case of a scheme which is constituted as a corporation, the corporation; or
+
+(b) in the case of a scheme which is not constituted as a corporation, the manager for the scheme;
+
+[1/2005 wef 01/07/2005]
 
 “securities” means —
 
@@ -1266,7 +1476,9 @@ whether those rules are made —
 
 but does not include —
 
-(i) futures contracts;
+(i) futures contracts which are traded on a futures market;
+
+[1/2005 wef 01/07/2005]
 
 (ii) bills of exchange;
 
@@ -1274,13 +1486,17 @@ but does not include —
 
 (iv) certificates of deposit issued by a bank or finance company whether situated in Singapore or elsewhere;
 
-“securities exchange” means a corporation that is approved by the Authority under section 9 as a securities exchange;
+“securities exchange” means an approved exchange in respect of the operation of its securities market;
+
+[1/2005 wef 01/07/2005]
 
 “securities financing” has the meaning given to it in the Second Schedule;
 
 “Securities Industry Council” means the Securities Industry Council referred to in section 138;
 
-“securities market” has the meaning given to it in the First Schedule;
+“securities market” has the meaning given to it in Part I of the First Schedule;
+
+[1/2005 wef 01/07/2005]
 
 “share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -1291,6 +1507,10 @@ but does not include —
 “substantial shareholder” has the same meaning as in Division 4 of Part IV of the Companies Act;
 
 “substantial shareholding” has the same meaning as in Division 4 of Part IV of the Companies Act;
+
+“substantial unitholder”, in relation to a collective investment scheme, means a participant who has an interest or interests in units in the scheme representing not less than 5% of the total voting rights of all the participants of the scheme;
+
+[1/2005 wef 01/07/2005]
 
 “Take-over Code” means the Singapore Code on Take-overs and Mergers referred to in section 139 which is issued by the Authority under section 321(1);
 
@@ -1316,13 +1536,41 @@ but does not include —
 
 “trading in futures contracts” has the meaning given to it in the Second Schedule;
 
+“transaction information” means information relating to —
+
+(a) offers or invitations to purchase, sell, or exchange securities or futures contracts;
+
+(b) executed transactions in securities or futures contracts; or
+
+(c) transactions cleared or settled by a designated clearing house;
+
+[1/2005 wef 01/07/2005]
+
 “unit” —
 
-(a) in relation to a collective investment scheme, means a right or interest (however described) of a participant in a collective investment scheme (whether or not constituted as a corporation); and
+(a) in relation to a collective investment scheme, means a right or interest (however described) in a collective investment scheme (whether or not constituted as an entity), and includes an option to acquire any such right or interest in the collective investment scheme; and
 
-(b) in relation to a business trust, has the same meaning as in section 2 of the Business Trusts Act 2004;
+(b) in relation to a business trust, has the same meaning as in section 2 of the Business Trusts Act 2004 (Act 30 of 2004);
 
-[31/2004 wef 12/10/2004]
+[1/2005 wef 01/07/2005]
+
+“user”, in relation to an approved exchange or a designated clearing house, means a person who is —
+
+(a) a member; or
+
+(b) a customer of a member,
+
+of the approved exchange or designated clearing house;
+
+[1/2005 wef 01/07/2005]
+
+“user information” means transaction information that is referable to —
+
+(a) a named user; or
+
+(b) a group of users, from which the name of a user can be directly inferred;
+
+[1/2005 wef 01/07/2005]
 
 “unitholder”, in relation to a business trust, has the same meaning as in section 2 of the Business Trusts Act 2004;
 
@@ -1484,477 +1732,1125 @@ entitled to exercise or control the exercise of not less than 20% of the votes a
 
 (c) the fact that the exercise of a right conferred by the interest is, or is capable of being made subject to restraint or restriction.
 
+### Specific classes of investors
+
+4A\.—(1) Subject to subsection (2), unless the context otherwise requires —
+
+(a) “accredited investor” means —
+
+(i) an individual —
+
+(A) whose net personal assets exceed in value $2 million (or its equivalent in a foreign currency) or such other amount as the Authority may prescribe in place of the first amount; or
+
+(B) whose income in the preceding 12 months is not less than $300,000 (or its equivalent in a foreign currency) or such other amount as the Authority may prescribe in place of the first amount;
+
+(ii) a corporation with net assets exceeding $10 million in value (or its equivalent in a foreign currency) or such other amount as the Authority may prescribe, in place of the first amount, as determined by —
+
+(A) the most recent audited balance-sheet of the corporation; or
+
+(B) where the corporation is not required to prepare audited accounts regularly, a balance-sheet of the corporation certified by the corporation as giving a true and fair view of the state of affairs of the corporation as of the date of the balance-sheet, which date shall be within the preceding 12 months;
+
+(iii) the trustee of such trust as the Authority may prescribe, when acting in that capacity; or
+
+(iv) such other person as the Authority may prescribe;
+
+(b) “expert investor” means —
+
+(i) a person whose business involves the acquisition and disposal, or the holding, of capital markets products, whether as principal or agent;
+
+(ii) the trustee of such trust as the Authority may prescribe, when acting in that capacity; or
+
+(iii) such other person as the Authority may prescribe;
+
+(c) “institutional investor” means —
+
+(i) a bank that is licensed under the Banking Act (Cap. 19);
+
+(ii) a merchant bank that is approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
+
+(iii) a finance company that is licensed under the Finance Companies Act (Cap. 108);
+
+(iv) a company or society registered under the Insurance Act (Cap. 142) as an insurer;
+
+(v) a company registered under the Trust Companies Act (Cap. 336);
+
+(vi) the Government;
+
+(vii) a statutory body established under any Act;
+
+(viii) a pension fund or collective investment scheme;
+
+(ix) the holder of a capital markets services licence for —
+
+(A) dealing in securities;
+
+(B) fund management;
+
+(C) providing custodial services for securities;
+
+(D) securities financing; or
+
+(E) trading in futures contracts;
+
+(x) a person (other than an individual) who carries on the business of dealing in bonds with accredited investors or expert investors;
+
+(xi) the trustee of such trust as the Authority may prescribe, when acting in that capacity; or
+
+(xii) such other person as the Authority may prescribe.
+
+(2) The definitions in subsection (1) may be subject to such modifications as the Authority may prescribe for any specified provision of this Act.
+
+[1/2005 wef 01/07/2005]
+
 ## PART II
 
 MARKETS
 
+[1/2005 wef 01/07/2005]
+
+### Objectives of this Part
+
+5\. The objectives of this Part are —
+
+(a) to promote fair, orderly and transparent markets;
+
+(b) to facilitate efficient markets for the allocation of capital and the transfer of risks; and
+
+(c) to reduce systemic risk.
+
 Division 1 —
 
-Securities Markets and Futures Markets
+Establishment of Markets
 
-### Establishment of securities market
+### Requirement for approval or recognition
 
-5\.—(1) Subject to subsections (3) and (5), no person shall establish or operate or assist in establishing or operating or hold himself out as operating a securities market unless the person is —
+6\.—(1) No person shall establish or operate a market, or hold himself out as operating a market, unless the person is —
 
-(a) approved as a securities exchange under section 9(4); or
+(a) an approved exchange; or
 
-(b) recognised as a recognised trading system provider under section 36(4).
+(b) a recognised market operator.
 
-(2) A holder of a capital markets services licence or an exempt person which intends to carry on any activity referred to in subsection (1) may apply in writing to the Authority for exemption from subsection (1) to carry on the activities referred to in that subsection.
+(2) No person shall hold himself out —
 
-(3) The Authority may grant such exemption subject to such conditions or restrictions as the Authority may think fit to impose if —
+(a) as an approved exchange unless he is an approved exchange; or
 
-(a) in the opinion of the Authority, the carrying on of the activities referred to in subsection (1) is not the predominant business (as may be prescribed) of the holder or the exempt person; and
+(b) as a recognised market operator unless he is a recognised market operator.
 
-(b) one of the regulated activities to which the holder’s licence relates or which is carried on by the exempt person is dealing in securities.
+(3) Except with the written approval of the Authority, no person other than an approved exchange shall take or use, or have attached to or exhibited at any place —
 
-(4) The Authority may prescribe the criteria or factors which it may consider in determining whether the carrying on of any activity is the predominant business of the holder of the capital markets services licence or the exempt person.
+(a) the title or description “securities exchange”, “stock exchange”, “futures exchange” or “derivatives exchange” in any language; or
 
-(5) The Authority may declare any securities market or class of securities markets to be exempted from the prohibition under subsection (1) subject to such conditions or restrictions as the Authority may think fit to impose.
+(b) any title or description which resembles a title or description referred to in paragraph (a).
 
-(6) The Authority may revoke any exemption granted to a person under subsection (3) or (5) if —
+(4) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
-(a) the person ceases to operate its securities market;
+(5) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
 
-(b) the person is being wound up or otherwise dissolved whether in Singapore or elsewhere;
+Subdivision (1) — Approved exchange and recognised market operator
 
-(c) the person is contravening or is likely to contravene or has contravened any condition or restriction of its exemption or that is applicable to it under this Act;
+### Application for approval or recognition
 
-(d) the person is contravening or is likely to contravene or has contravened any direction issued to it by the Authority; or
+7\.—(1) A corporation may apply to the Authority to be —
 
-(e) the person is operating in a manner that is, in the opinion of the Authority, contrary to the public interest.
+(a) approved as an approved exchange; or
 
-(7) For the purposes of subsection (6)(a), a person shall be deemed to have ceased to operate its securities market if it has ceased to operate the securities market for more than 30 days unless it has obtained the prior approval of the Authority to do so.
+(b) recognised as a recognised market operator.
 
-(8) Subject to subsection (9), the Authority shall not revoke any exemption granted to a person under subsection (3) or (5) without giving the person an opportunity to be heard.
+(2) An application made under subsection (1) shall be —
 
-(9) The Authority may revoke an exemption granted to a person under subsection (3) or (5) on any ground referred to in subsection (6) on the basis of any of the following circumstances without giving the person an opportunity to be heard:
+(a) made in such form and manner as the Authority may prescribe; and
 
-(a) the person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(b) accompanied by a non-refundable prescribed application fee, which shall be paid in the manner specified by the Authority.
 
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person;
+(3) The Authority may require an applicant to furnish it with such information or documents as the Authority considers necessary in relation to the application.
 
-(c) the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+### Power of Authority to approve exchanges and recognise market operators
 
-[16/2003 wef 22/12/2003]
+8\.—(1) Where —
 
-(10) A person that is aggrieved by the decision of the Authority made under subsection (6) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
+(a) a corporation has made an application under section 7(1)(a);
 
-(11) Notwithstanding the lodging of an appeal under subsection (10), any action taken by the Authority under this section shall continue to have effect pending the determination or withdrawal of the appeal.
+(b) a corporation which is a recognised market operator has made an application under section 11(1) to change its status to that of an approved exchange; or
 
-(12) The Minister may make such modification to any action taken by the Authority that is the subject of an appeal and such modified action shall have effect.
+(c) the Authority has conducted a review under section 11(5) and has determined that a corporation would be more appropriately regulated as an approved exchange,
 
-(13) Any revocation of exemption referred to in subsection (6) shall not operate so as to —
+the Authority may approve the corporation as an approved exchange.
 
-(a) avoid or affect any agreement, transaction or arrangement entered into on the securities market operated by the person, whether the agreement, transaction or arrangement was entered into before or after the revocation of the exemption; or
+(2) Where —
 
-(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
+(a) a corporation has made an application under section 7(1)(b);
 
-(14) A person who is granted an exemption under subsection (3) shall continue to satisfy the requirements specified in that subsection.
+(b) a corporation which is an approved exchange has made an application under section 11(1) to change its status to that of a recognised market operator; or
 
-(15) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+(c) the Authority has conducted a review under section 11(5) and has determined that a corporation would be more appropriately regulated as a recognised market operator,
 
-(16) Any person who contravenes any of the conditions or restrictions imposed under subsection (3) or (5) or contravenes subsection (14) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+the Authority may recognise the corporation as a recognised market operator.
 
-### Establishment of futures market
+(3) Notwithstanding subsections (1) and (2), the Authority may, with the consent of the applicant —
 
-6\.—(1) Subject to subsections (3) and (5), no person shall establish or operate or assist in establishing or operating or hold himself out as operating a futures market unless the person is —
+(a) treat an application under section 7(1)(a) as an application under section 7(1)(b) if it is of the opinion that the applicant would be more appropriately regulated as a recognised market operator; or
 
-(a) approved as a futures exchange under section 9(4); or
+(b) treat an application under section 7(1)(b) as an application under section 7(1)(a) if it is of the opinion that the applicant would be more appropriately regulated as an approved exchange.
 
-(b) recognised as a recognised trading system provider under section 36(4).
+(4) The Authority may approve a corporation as an approved exchange under subsection (1) or recognise a corporation as a recognised market operator under subsection (2) subject to such conditions or restrictions as the Authority may think fit to impose by notice in writing, including conditions or restrictions relating to —
 
-(2) A holder of a capital markets services licence or an exempt person which intends to carry on any activity referred to in subsection (1) may apply in writing to the Authority for exemption from subsection (1) to carry on the activities referred to in that subsection.
+(a) the activities that the corporation may undertake;
 
-(3) The Authority may grant such exemption referred to in subsection (2) subject to such conditions or restrictions as the Authority may think fit to impose if —
+(b) the securities or futures contracts that may be traded on any market established or operated by the corporation; and
 
-(a) in the opinion of the Authority, the carrying on of the activities referred to in subsection (1) is not the predominant business (as may be prescribed) of the holder or the exempt person; and
+(c) the nature of the investors or participants who may use, invest in or participate in the securities or futures contracts traded on any market established or operated by the corporation.
 
-(b) one of the regulated activities to which the holder’s licence relates or which is carried on by the exempt person is trading in futures contracts.
+(5) The Authority may, at any time, by notice in writing to the corporation, vary any condition or restriction or impose such further condition or restriction as it may think fit.
 
-(4) The Authority may prescribe the criteria or factors which it may consider in determining whether the carrying on of any activity is the predominant business of the holder of a capital markets services licence or an exempt person.
+(6) An approved exchange or a recognised market operator shall, for the duration of the approval or recognition, satisfy all conditions and restrictions that may be imposed on it under subsections (4) and (5).
 
-(5) The Authority may declare any futures market or class of futures markets to be exempted from the prohibition under subsection (1) subject to such conditions or restrictions as the Authority may think fit to impose.
+(7) The Authority may refuse to approve a corporation as an approved exchange or recognise a corporation as a recognised market operator if —
 
-(6) The Authority may revoke any exemption granted under subsection (3) or (5) if —
+(a) the corporation has not provided the Authority with such information relating to —
 
-(a) the person ceases to operate its futures market;
+(i) the corporation or any person employed by or associated with the corporation for the purposes of the corporation’s business; or
 
-(b) the person is being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(ii) any circumstances likely to affect the corporation’s manner of conducting business,
 
-(c) the person is contravening or is likely to contravene or has contravened any condition or restriction of its approval or that is applicable to it under this Act;
+as the Authority may require;
 
-(d) the person is contravening or is likely to contravene or has contravened any direction issued to it by the Authority;
+(b) any information or document provided by the corporation to the Authority is false or misleading;
 
-(e) the person is operating in a manner that is, in the opinion of the Authority, contrary to the public interest.
+(c) the corporation or a substantial shareholder of the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(7) For the purposes of subsection (6)(a), a person shall be deemed to have ceased to operate its futures market if it has ceased to operate the futures market for more than 30 days unless it has obtained the prior approval of the Authority to do so.
+(d) execution against the corporation or a substantial shareholder of the corporation in respect of a judgment debt has been returned unsatisfied in whole or in part;
 
-(8) Subject to subsection (9), the Authority shall not revoke any exemption granted to a person under subsection (3) or (5) without giving the person an opportunity to be heard.
+(e) a receiver, a receiver and manager, a judicial manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the corporation or a substantial shareholder of the corporation;
 
-(9) The Authority may revoke an exemption granted to a person under subsection (3) or (5) on any ground referred to in subsection (6) on the basis of any of the following circumstances without giving the person an opportunity to be heard:
+(f) the corporation or a substantial shareholder of the corporation has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with the creditors of the corporation or shareholder, as the case may be, being a compromise or scheme of arrangement that is still in operation;
 
-(a) the person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(g) the corporation, a substantial shareholder of the corporation or any officer of the corporation —
 
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person;
+(i) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that the corporation, shareholder or officer, as the case may be, acted fraudulently or dishonestly; or
 
-(c) the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+(ii) has been convicted of an offence under this Act;
 
-[16/2003 wef 22/12/2003]
+(h) the Authority is not satisfied as to the educational or other qualifications or experience of the officers or employees of the corporation, having regard to the nature of the duties they are to perform in connection with the establishment or operation of any market;
 
-(10) A person that is aggrieved by the decision of the Authority made under subsection (6) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
+(i) the corporation fails to satisfy the Authority that the corporation is a fit and proper person or that all of its officers, employees and substantial shareholders are fit and proper persons;
 
-(11) Notwithstanding the lodging of an appeal under subsection (10), any action taken by the Authority under this section shall continue to have effect pending the determination or withdrawal of the appeal.
+(j) the Authority has reason to believe that the corporation may not be able to act in the best interests of investors or its members, participants or customers, having regard to the reputation, character, financial integrity and reliability of the corporation or its officers, employees or substantial shareholders;
 
-(12) The Minister may make such modification to any action taken by the Authority that is the subject of an appeal and such modified action shall have effect.
+(k) the Authority is not satisfied as to —
 
-(13) Any revocation of exemption referred to in subsection (6) shall not operate so as to —
+(i) the financial standing of the corporation or any of its substantial shareholders; or
 
-(a) avoid or affect any agreement, transaction or arrangement entered into on the futures market operated by the person, whether the agreement, transaction or arrangement was entered into before or after the revocation of the exemption; or
+(ii) the manner in which the business of the corporation is to be conducted;
 
-(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
+(l) the Authority is not satisfied as to the record of past performance or expertise of the corporation, having regard to the nature of the business which the corporation may carry on in connection with the establishment or operation of any market;
 
-(14) A person who is granted an exemption under subsection (3) shall continue to satisfy the requirements in that subsection.
+(m) there are other circumstances which are likely to —
 
-(15) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+(i) lead to the improper conduct of business by the corporation or any of its officers, employees or substantial shareholders; or
 
-(16) Any person who contravenes any of the conditions or restrictions imposed under subsection (3) or (5) or contravenes subsection (14) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+(ii) reflect discredit on the manner of conducting the business of the corporation or any of its substantial shareholders;
 
-### Power of Authority to make regulations
+(n) in the case of any market that the corporation operates, the Authority has reason to believe that the corporation, or any of its officers or employees, will not operate a fair, orderly and transparent market;
 
-7\.—(1) Without prejudice to section 341, the Authority may make regulations relating to the approval or recognition of and the requirements applicable to persons who establish or operate securities markets or futures markets.
+(o) the corporation does not satisfy the criteria prescribed under section 9 to be approved as an approved exchange or recognised as a recognised market operator, as the case may be; or
 
-(2) Without prejudice to the generality of subsection (1), the Authority may make regulations for or with respect to —
+(p) the Authority is of the opinion that it would be contrary to the interests of the public to approve or recognise the corporation.
 
-(a) the approval of a corporation as a securities exchange or futures exchange;
+(8) Subject to subsection (9), the Authority shall not refuse to approve a corporation as an approved exchange or recognise a corporation as a recognised market operator under subsection (7) without giving the corporation an opportunity to be heard.
 
-(b) the recognition of an overseas securities exchange, an overseas futures exchange or a corporation as a recognised trading system provider;
-
-(c) the requirements applicable to a securities exchange, futures exchange, recognised trading system provider, person granted an exemption under section 5(3) or 6(3) or person operating an exempt market.
-
-(3) Without prejudice to the generality of subsection (1), regulations made under this section may prescribe requirements that apply to recognised trading system providers which would also apply to a person granted an exemption under section 5(3) or 6(3).
-
-(4) Regulations made under this section may provide —
-
-(a) that a contravention of any specified provision thereof shall be an offence; and
-
-(b) for penalties not exceeding a fine of $200,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
-
-[16/2003 wef 22/12/2003]
-
-### Application of provisions to person granted an exemption under section 5 (3) or 6 (3) or person operating an exempt market
-
-8\. The Authority may, if it thinks fit, apply any of the provisions in Divisions 2 and 4, with the necessary modifications, to any person who is granted an exemption under section 5(3) or 6(3) or person operating an exempt market.
-
-Division 2 —
-
-Exchanges
-
-### Power of Authority to approve securities exchange or futures exchange
-
-9\.—(1) A corporation may apply to the Authority for approval to be a securities exchange or futures exchange in such form and manner as the Authority may prescribe.
-
-(2) The application shall be accompanied by the prescribed fee.
-
-(3) The Authority may require a corporation to provide the Authority with such further information as it considers necessary in relation to the application, in such form or verified in such manner as the Authority may direct.
-
-(4) The Authority may, in writing, subject to such conditions or restrictions as it may think fit to impose, approve a corporation as a securities exchange or futures exchange if the Authority is satisfied that —
-
-(a) the corporation will ensure that, as far as is reasonably practicable —
-
-(i) in the case of a securities exchange, that it will operate an orderly, informed and fair securities market; or
-
-(ii) in the case of a futures exchange, that it will operate an orderly, informed and fair futures market;
-
-(b) the corporation will manage any risks associated with its business and operations prudently;
-
-(c) the corporation, in discharging its obligations under paragraph (a), will not act contrary to the interests of the public, having particular regard to the interests of the investing public;
-
-(d) the corporation will enforce compliance by its members with its business rules and, where appropriate, its listing rules;
-
-(e) the business rules and, where appropriate, listing rules of the corporation make satisfactory provision for —
-
-(i) an orderly, informed and fair market in securities or futures contracts that are traded through its facilities; and
-
-(ii) the proper regulation and supervision of its members;
-
-(f) the corporation has sufficient financial, human and system resources to —
-
-(i) establish and operate a fair and efficient securities market or futures market;
-
-(ii) meet contingencies or disasters; and
-
-(iii) provide adequate security arrangements; and
-
-(g) it would not be contrary to the interests of the investing public to approve the application.
-
-(5) In subsection (4)(f), “contingencies or disasters” includes events such as technical complications occurring within automated systems.
-
-(6) The Authority may impose different conditions or restrictions or give different directions with respect to different applications for approval to be a securities exchange or futures exchange.
-
-(6A) Subject to subsection (6B), the Authority shall not refuse to grant an approval under subsection (4) without giving the applicant an opportunity to be heard.
-
-[16/2003 wef 22/12/2003]
-
-(6B) The Authority may refuse to grant an approval to an applicant under subsection (4) on the ground that it would be contrary to the interests of the investing public to grant the approval on the basis of any of the following circumstances without giving the applicant an opportunity to be heard:
-
-(a) the applicant is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
-
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the applicant;
-
-(c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
-
-[16/2003 wef 22/12/2003]
-
-(7) An applicant that is aggrieved by the refusal of the Authority to grant an approval under subsection (4) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
-
-(8) The Authority shall give notice in theGazetteof any securities exchange or futures exchange that has been approved under this section.
-
-(9) A securities exchange or futures exchange which contravenes any of the conditions or restrictions imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
-
-### Business rules of securities exchange and futures exchange and listing rules of securities exchange
-
-10\. Without limiting the generality of section 9, the business rules of a securities exchange or futures exchange or, where appropriate, the listing rules of a securities exchange, shall make provision to the satisfaction of the Authority —
-
-(a) for the exclusion from membership of persons who are not of good character and high business integrity;
-
-(b) for the expulsion, suspension or disciplining of members for conduct inconsistent with just and equitable principles in the transaction of business, or for a contravention of the business rules of the proposed securities exchange or futures exchange;
-
-(c) with respect to the terms and conditions under which securities may be listed for quotation or quoted on the securities market of the proposed securities exchange, or under which futures contracts may be listed for trading on the futures market of the proposed futures exchange;
-
-(d) with respect to the class or classes of securities that may be dealt in or futures contracts that may be traded by members and the terms and conditions governing dealing in securities or trading in futures contracts by members;
-
-(e) with respect to fair and properly supervised floor trading practices;
-
-(f) with respect to measures to prevent manipulation, market rigging and artificial market conditions in its securities market or futures market;
-
-(g) with respect to the recording and publishing of details of trading;
-
-(h) with respect to the clearing and other arrangements made, and the financial condition of —
-
-(i) the proposed securities exchange or futures exchange;
-
-(ii) the clearing house of the proposed securities exchange or futures exchange; and
-
-(iii) the members of the proposed securities exchange or futures exchange,
-
-such as to provide reasonable assurance that all obligations arising out of the dealing in securities or trading in futures contracts on the securities market of that proposed securities exchange or futures market of that proposed futures exchange will be met;
-
-(i) with respect to the establishment of any compensation arrangement, or any other scheme or system accepted by the Authority, which would compensate customers who suffer pecuniary loss through the defalcation of a member, or any of its directors, officers, employees or representatives, in respect of any money or other property that was entrusted to or received by a member, or any of its directors, officers, employees or representatives, for or on behalf of any person or by reason that the member was a trustee of the money or other property; and
-
-(j) generally for carrying on the business of the proposed securities exchange or futures exchange with due regard to the interests and protection of the investing public.
-
-### Continuing obligations of securities exchange and futures exchange
-
-11\.—(1) A securities exchange or futures exchange shall continue to satisfy such conditions or restrictions as are required for the corporation to be approved as a securities exchange or futures exchange, and in particular, the requirements specified in sections 9(4) and 10 and any regulations made under section 7.
-
-(2) A securities exchange or futures exchange which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
-
-### Revocation of approval
-
-12\.—(1) The Authority may in writing revoke any approval granted under section 9 to a corporation if —
-
-(a) the corporation ceases to operate its securities market or futures market;
-
-(b) the corporation is being wound up or otherwise dissolved, whether in Singapore or elsewhere;
-
-(c) the corporation is contravening or is likely to contravene or has contravened any condition or restriction of its approval or that is applicable to it under this Act;
-
-(d) the corporation is contravening or is likely to contravene or has contravened any direction issued to it by the Authority;
-
-(e) the corporation is operating in a manner that is, in the opinion of the Authority, contrary to the public interest;
-
-(f) any information provided to the Authority under section 9 or 14 was false or misleading in a material particular; or
-
-(g) the Authority deems fit upon the application of the corporation to cancel the approval.
-
-(2) For the purposes of subsection (1)(a), a corporation shall be deemed to have ceased to operate its securities market or futures market if —
-
-(a) it has ceased to operate its securities market or futures market for more than 30 days unless it has obtained the prior approval of the Authority to do so; or
-
-(b) it has ceased to operate such securities market or futures market under a direction issued by the Authority under section 21, 23 or 24.
-
-(3) Subject to subsection (4), the Authority shall not revoke any approval granted to a corporation under section 9 without giving the corporation an opportunity to be heard.
-
-(4) The Authority may revoke an approval granted to a corporation under section 9 on any ground referred to in subsection (1) on the basis of any of the following circumstances without giving the corporation an opportunity to be heard:
+(9) The Authority may refuse to approve a corporation as an approved exchange or recognise a corporation as a recognised market operator on any of the following grounds without giving the corporation an opportunity to be heard:
 
 (a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation;
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the corporation;
 
 (c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
-[16/2003 wef 22/12/2003]
+(10) The Authority shall give notice in theGazetteof any corporation approved as an approved exchange under subsection (1) or recognised as a recognised market operator under subsection (2), and such notice may include the conditions or restrictions imposed by the Authority on the corporation under subsection (4)(b) in relation to the securities or futures contracts that may be traded on any market established or operated by the corporation.
 
-(5) A corporation that is aggrieved by the decision of the Authority made under subsection (1) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
+(11) Any applicant who is aggrieved by a refusal of the Authority to grant an approval under subsection (1) or a recognition under subsection (2) may, within 30 days after the applicant is notified of the decision, appeal to the Minister whose decision shall be final.
 
-(6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority under this section shall continue to have effect pending the determination or withdrawal of the appeal.
+(12) Any approved exchange or recognised market operator which contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(7) The Minister may make such modification to any action taken by the Authority that is the subject of an appeal.
+### General criteria to be taken into account by Authority
 
-### Effect of revocation
+9\.—(1) The Authority may prescribe the criteria which it may take into account for the purposes of deciding —
 
-13\. Any revocation of approval referred to in section 12 shall not operate so as to —
+(a) whether an applicant referred to in section 7(1) or 11(1) should be approved as an approved exchange or recognised as a recognised market operator;
 
-(a) avoid or affect any agreement, transaction or arrangement entered into on the securities market or futures market operated by the corporation, whether the agreement, transaction or arrangement was entered into before or after the revocation of the approval; or
+(b) whether an approved exchange or a recognised market operator that is subject to a review by the Authority under section 11(5) should be approved as an approved exchange or recognised as a recognised market operator; and
+
+(c) the conditions or restrictions that the Authority may impose under section 8(4) or (5).
+
+(2) Without prejudice to section 8 and subsection (1), the Authority may, for the purposes of recognising an operator of an overseas market as a recognised market operator under section 8(2), have regard, in addition to any criteria prescribed under subsection (1), to —
+
+(a) whether adequate arrangements exist for co-operation between the Authority and the financial services regulatory authority responsible for the supervision of the operator in the country or territory in which the head office or principal place of business of the operator is situated; and
+
+(b) whether the operator is, in the country or territory in which the head office or principal place of business of the operator is situated, subject to requirements and supervision comparable, in the degree to which the objectives specified in section 5 are achieved, to the requirements and supervision to which approved exchanges and recognised market operators are subject under this Act.
+
+(3) In considering whether it is satisfied that the operator of an overseas market has met the requirements mentioned in subsection (2), the Authority may have regard to —
+
+(a) the relevant laws and practices of the country or territory in which the head office or principal place of business of the operator is situated; and
+
+(b) the rules and practices of the operator.
+
+(4) In this section, “operator of an overseas market” means a person whose head office is situated in a country or territory outside Singapore, and who is authorised to operate a market by a financial services regulatory authority of —
+
+(a) that country or territory; or
+
+(b) the country or territory in which the principal place of business of that person is situated.
+
+### Annual fees payable by approved exchange and recognised market operator
+
+10\.—(1) Every approved exchange and recognised market operator shall pay to the Authority such annual fees as may be prescribed in such manner as may be specified by the Authority.
+
+(2) The Authority may, where it considers appropriate, refund or remit the whole or any part of any annual fee paid or payable to it.
+
+### Change in status
+
+11\.—(1) A corporation which is an approved exchange or a recognised market operator may apply to the Authority to change its status in the manner referred to in subsection (6).
+
+(2) An application under subsection (1) shall be made in such form and manner as the Authority may prescribe.
+
+(3) An application made under subsection (1) shall be accompanied by a non-refundable prescribed application fee, which shall be paid in the manner specified by the Authority.
+
+(4) The Authority may require an applicant to furnish it with such information or documents as the Authority considers necessary in relation to the application.
+
+(5) The Authority may, from time to time, on its own initiative, review the status of a corporation that is an approved exchange or a recognised market operator under this Part in accordance with the criteria prescribed under section 9.
+
+(6) Where an application is made by a corporation under subsection (1) or where a review of the status of a corporation is conducted by the Authority under subsection (5), the Authority may —
+
+(a) where the corporation is an approved exchange, withdraw the approval as such and recognise the corporation as a recognised market operator under section 8(2);
+
+(b) where the corporation is a recognised market operator, withdraw the recognition as such and approve the corporation as an approved exchange under section 8(1); or
+
+(c) make no change to the status of the corporation as an approved exchange or a recognised market operator.
+
+(7) Where an application is made under subsection (1), the Authority shall not exercise its power under subsection (6)(c) without giving the corporation an opportunity to be heard.
+
+(8) Where a review of the status of a corporation is conducted by the Authority on its own initiative under subsection (5), the Authority shall not exercise its powers under subsection (6)(a) or (b) without giving the corporation an opportunity to be heard.
+
+(9) Any corporation which is aggrieved by a decision of the Authority made in relation to the corporation after a review under subsection (5) may, within 30 days after the corporation is notified of the decision, appeal to the Minister whose decision shall be final.
+
+### Cancellation of approval or recognition
+
+12\.—(1) An approved exchange or a recognised market operator which intends to cease operating its market or, where it operates more than one market, all of its markets, may apply to the Authority to cancel its approval as an approved exchange or recognition as a recognised market operator, as the case may be.
+
+(2) The Authority may cancel the approval or recognition if it is satisfied that the approved exchange or recognised market operator referred to in subsection (1) has ceased operating its market or all of its markets, as the case may be.
+
+### Power of Authority to revoke approval and recognition
+
+13\.—(1) The Authority may revoke any approval of a corporation as an approved exchange under section 8(1) or any recognition of a corporation as a recognised market operator under section 8(2) if —
+
+(a) there exists a ground under section 8(7) on which the Authority may refuse an application;
+
+(b) the corporation does not commence operating its market or, where it operates more than one market, all of its markets, within 12 months from the date on which it was granted the approval under section 8(1) or recognition under section 8(2), as the case may be;
+
+(c) the corporation ceases to operate its market or, where it operates more than one market, all of its markets;
+
+(d) the corporation contravenes —
+
+(i) any condition or restriction applicable in respect of its approval or recognition, as the case may be;
+
+(ii) any direction issued to it by the Authority under this Act; or
+
+(iii) any provision in this Act;
+
+(e) the corporation operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public; or
+
+(f) any information or document provided by the corporation to the Authority is false or misleading.
+
+(2) Subject to subsection (3), the Authority shall not revoke under subsection (1) any approval under section 8(1) or recognition under section 8(2) that was granted to a corporation without giving the corporation an opportunity to be heard.
+
+(3) The Authority may revoke an approval under section 8(1) or a recognition under section 8(2) that was granted to a corporation on any of the following grounds without giving the corporation an opportunity to be heard:
+
+(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the corporation;
+
+(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty; or
+
+(ii) the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+
+(4) For the purposes of subsection (1)(c), a corporation shall be deemed to have ceased to operate its market if —
+
+(a) it has ceased to operate the market for more than 30 days, unless it has obtained the prior approval of the Authority to do so; or
+
+(b) it has ceased to operate the market under a direction issued by the Authority under section 46.
+
+(5) Any corporation which is aggrieved by a decision of the Authority made in relation to the corporation under subsection (1) may, within 30 days after the corporation is notified of the decision, appeal to the Minister whose decision shall be final.
+
+(6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
+
+(7) The Minister may, when deciding an appeal under subsection (5), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the Minister’s decision.
+
+(8) Any revocation of approval or recognition of a corporation referred to in subsection (1) shall not operate so as to —
+
+(a) avoid or affect any agreement, transaction or arrangement entered into on a market operated by the corporation, whether the agreement, transaction or arrangement was entered into before or after the revocation of the approval or recognition; or
 
 (b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
 
-### Exchanges to assist Authority
+(9) The Authority shall give notice in theGazetteof any revocation of approval or recognition referred to in subsection (1).
 
-14\.—(1) A securities exchange or futures exchange shall provide such assistance to the Authority as the Authority may reasonably require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of such books and other information relating to the business of the securities exchange or futures exchange or in respect of any dealing in securities or trading in futures contracts or any other specified information as the Authority may require for the proper administration of this Act.
+Subdivision (2) — Exempt Market Operator
 
-(2) A securities exchange or futures exchange shall immediately notify the Authority if it becomes aware of a financial irregularity or other matter which in the opinion of the securities exchange or futures exchange may indicate that the financial standing or integrity of a member is in question, or that a member may not be able to meet its legal obligations.
+### Power of Authority to exempt corporations from approval or recognition
 
-(3) A securities exchange or futures exchange which, without reasonable justification or excuse, contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+14\.—(1) A corporation that wishes to establish or operate a market may apply to the Authority, in such form and manner as the Authority may prescribe, to be exempted from the requirement under section 6(1) to be an approved exchange or a recognised market operator.
 
-### Control of substantial shareholding in securities exchange or futures exchange
+(2) The Authority may exempt a corporation referred to in subsection (1) from the requirement under section 6(1) if, in the opinion of the Authority, the objectives specified in section 5 can be achieved without regulating the corporation as an approved exchange or a recognised market operator.
 
-15\.—(1) No person shall enter into any agreement to acquire shares by virtue of which he would, if the agreement is carried out, acquire a substantial shareholding in a securities exchange or futures exchange without first notifying the Authority of his intention to enter into the agreement and obtaining the approval of the Authority to his entering into the agreement.
+(3) An application made under subsection (1) shall be accompanied by a non-refundable prescribed application fee, which shall be paid in the manner specified by the Authority.
 
-(2) The Authority may grant its approval referred to in subsection (1) subject to such conditions or restrictions as the Authority may think fit.
+(4) The Authority may require an applicant to furnish it with such information or documents as the Authority considers necessary in relation to the application.
 
-(3) Without prejudice to subsection (7), the Authority may, for the purposes of securing compliance with subsection (1) or any condition or restriction imposed under subsection (2), by notice in writing direct the transfer or disposal of all or any of the shares of the securities exchange or futures exchange in which the substantial shareholder has or has had an interest.
+(5) The Authority may, by notice in writing, impose on a corporation exempted under subsection (2) such conditions or restrictions relating to the exemption as the Authority may think fit, including conditions or restrictions relating to —
 
-(4) Until the person to whom a direction is issued under subsection (3) transfers or disposes of the shares which are the subject of the direction, and notwithstanding anything to the contrary in the Companies Act (Cap. 50) or the memorandum or articles of association of the securities exchange or futures exchange —
+(a) the activities that the corporation may undertake;
 
-(a) no voting rights shall be exercisable in respect of the shares which are the subject of the direction;
+(b) the securities or futures contracts that may be traded on any market established or operated by the corporation; and
 
-(b) the securities exchange or futures exchange shall not offer or issue any shares (whether by way of rights, bonus, share dividend or otherwise) in respect of the shares which are the subject of the direction; and
+(c) the nature of the investors or participants who may use, participate or invest in the securities or futures contracts traded on any market established or operated by the corporation.
 
-(c) except in a liquidation of the securities exchange or futures exchange, the securities exchange or futures exchange shall not make any payment (whether by way of cash dividend or dividend in kind or otherwise) in respect of the shares which are the subject of the direction.
+(6) The Authority may, at any time, by notice in writing to a corporation exempted under subsection (2), vary any condition or restriction referred to in subsection (5) or impose such further condition or restriction relating to the exemption as the Authority may think fit.
 
-[16/2003 wef 22/12/2003]
+(7) The Authority shall give notice in theGazetteof any corporation exempted under subsection (2), and such notice may include the conditions or restrictions imposed by the Authority on the corporation under subsection (5)(b) in relation to the securities or futures contracts that may be traded on any market established or operated by the corporation.
 
-(5) Any issue of shares by the securities exchange or futures exchange in contravention of subsection (4)(b) shall be deemed to be null and void and the person to whom a direction has been issued under subsection (3) shall immediately return those shares to the securities exchange or futures exchange, upon which the securities exchange or futures exchange shall return to the person any payment received from him in respect of those shares.
+(8) The Authority may —
 
-[16/2003 wef 22/12/2003]
+(a) exempt any corporation operating any market from the requirement under section 6(1) to be an approved exchange or a recognised market operator;
 
-(6) Any payment made by the securities exchange or futures exchange in contravention of subsection (4)(c) shall be deemed to be null and void and the person to whom a direction has been issued under subsection (3) shall immediately return the payment he has received to the securities exchange or futures exchange.
+(b) by order published in theGazette, declare that corporation to be an exempt market operator; and
 
-[16/2003 wef 22/12/2003]
+(c) by notice in writing to that corporation, impose such conditions or restrictions relating to the exemption as the Authority may think fit.
 
-(7) Any person who contravenes subsection (1) or any condition or restriction imposed by the Authority under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+(9) The Authority may —
 
-[16/2003 wef 22/12/2003]
+(a) exempt corporations operating any class of markets from the requirement under section 6(1) to be approved exchanges or recognised market operators, subject to such conditions or restrictions as the Authority may think fit to impose by regulations; and
 
-(8) Any person who contravenes subsection (4)(b) or (c), (5) or (6) or any direction issued by the Authority under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(b) by order published in theGazette, declare such corporations to be exempt market operators.
 
-[16/2003 wef 22/12/2003]
+(10) An exempt market operator shall comply with all conditions or restrictions imposed on it under subsection (5), (6) or (8), as the case may be.
 
-(9) For the avoidance of doubt, a direction issued under subsection (3) shall be deemed not to be subsidiary legislation.
+(11) Any corporation which contravenes subsection (10) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-[16/2003 wef 22/12/2003]
+### Power of Authority to revoke exemption
 
-### Business rules of securities exchange or futures exchange have effect as contract
+15\.—(1) The Authority may revoke any exemption granted to a corporation under section 14(2), (8) or (9) if —
 
-16\. The business rules of a securities exchange or futures exchange shall operate as a binding contract —
+(a) the corporation does not commence operating its market or, where it operates more than one market, all of its markets, within 12 months from the date on which it was granted the exemption;
 
-(a) between the securities exchange or futures exchange and each member; and
+(b) the corporation ceases to operate its market or, where it operates more than one market, all of its markets;
 
-(b) between a member and any other member,
+(c) the corporation contravenes —
 
-under which each of the persons mentioned in paragraphs (a) and (b) agrees to observe and perform the provisions of the business rules as are in force for the time being, so far as those provisions are applicable to that person.
+(i) any condition or restriction relating to the exemption;
 
-### Authority to be notified of amendments to business rules or listing rules
+(ii) any direction issued to it by the Authority under this Act; or
 
-17\.—(1) A securities exchange or futures exchange that proposes to make any amendment by way of rescission, substitution, alteration or addition to its business rules, or a securities exchange that proposes to make any amendment by way of rescission, substitution, alteration or addition to its listing rules shall immediately inform the Authority of the proposed amendment by written notice which shall state the date on which the amendment is proposed to be made, an explanation of the purpose of the amendment and the text of the amendment.
+(iii) any provision in this Act;
 
-(2) An amendment (whether in its original form or altered or supplemented under subsection (3)) shall not come into force unless the written notice referred to in subsection (1) is given at least 21 days before the amendment is made.
+(d) the Authority is of the opinion that the corporation has operated in a manner that is contrary to the interests of the public;
 
-[16/2003 wef 22/12/2003]
+(e) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(2A) Notwithstanding subsection (2), the Authority may, on the application of a securities exchange or futures exchange, allow an amendment to come into force before the expiry of the period of 21 days referred to in that subsection.
+(f) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the corporation;
 
-[16/2003 wef 22/12/2003]
+(g) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly;
 
-(3) The Authority may, within 21 days after the receipt of a notice under subsection (1), by notice in writing to the securities exchange or futures exchange, disallow, alter or supplement the whole or any specified part of the amendment in question and, thereupon, such whole or specified part of the amendment, as the case may be —
+(h) the Authority is of the opinion that the corporation would be more appropriately regulated as an approved exchange or a recognised market operator; or
 
-(a) where it is disallowed, shall not come into force; or
+(i) any information or document provided by the corporation to the Authority is false or misleading.
 
-(b) where it is altered or supplemented, shall come into force accordingly.
+(2) Subject to subsection (3), the Authority shall not revoke under subsection (1) any exemption granted to a corporation without giving the corporation an opportunity to be heard.
 
-(4) The Authority may, in its discretion, by notice in writing to the securities exchange or futures exchange, extend the period specified in subsection (3), and where the period is extended, the amendment shall not come into force before the expiry of the extended period.
+(3) The Authority may revoke an exemption granted to a corporation on any of the following grounds without giving the corporation an opportunity to be heard:
 
-(5) In addition to the power conferred upon the Authority under subsection (3), the Authority may of its own motion, by notice in writing to a securities exchange or futures exchange —
+(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
-(a) alter or supplement the business rules of the securities exchange or futures exchange, or the listing rules of the securities exchange; or
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect, of any property of the corporation;
 
-(b) alter or supplement the terms and conditions on which securities or futures contracts are traded on the securities exchange or futures exchange,
+(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
-if the Authority considers that such action is necessary for the protection of investors or to ensure fair dealing in a securities market or futures market.
+(4) For the purposes of subsection (1)(b), a corporation shall be deemed to have ceased to operate its market if —
+
+(a) it has ceased to operate the market for more than 30 days, unless it has obtained the prior approval of the Authority to do so; or
+
+(b) it has ceased to operate the market under a direction issued by the Authority under section 46.
+
+(5) A corporation which is aggrieved by a decision of the Authority made in relation to the corporation under subsection (1) may, within 30 days after the corporation is notified of the decision, appeal to the Minister whose decision shall be final.
+
+(6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
+
+(7) The Minister may, when deciding an appeal under subsection (5), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the Minister’s decision.
+
+(8) Any revocation under subsection (1) of an exemption granted to a corporation shall not operate so as to —
+
+(a) avoid or affect any agreement, transaction or arrangement entered into on a market operated by the corporation, whether the agreement, transaction or arrangement was entered into before or after the revocation of the exemption; or
+
+(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
+
+(9) The Authority shall give notice in theGazetteof any revocation of an exemption referred to in subsection (1).
+
+Division 2 —
+
+Regulation of Approved Exchanges
+
+Subdivision (1) — Obligations of Approved Exchanges
+
+### General obligations
+
+16\.—(1) An approved exchange shall, in respect of every market it operates —
+
+(a) as far as is reasonably practicable, ensure that the market is fair, orderly and transparent;
+
+(b) manage any risks associated with its business and operations prudently;
+
+(c) in discharging its obligations under this Act, not act contrary to the interests of the public, having particular regard to the interests of the investing public;
+
+(d) ensure that access for participation in its facilities is subject to criteria that are fair and objective, and that are designed to ensure the orderly functioning of the market and to protect the interests of the investing public;
+
+(e) maintain business rules and, where appropriate, listing rules that make satisfactory provision for —
+
+(i) a fair, orderly and transparent market in securities or futures contracts that are traded through its facilities; and
+
+(ii) the proper regulation and supervision of its members;
+
+(f) enforce compliance with its business rules and, where appropriate, its listing rules;
+
+(g) have sufficient financial, human and system resources —
+
+(i) to operate a fair, orderly and transparent market;
+
+(ii) to meet contingencies or disasters; and
+
+(iii) to provide adequate security arrangements; and
+
+(h) ensure that it appoints or employs fit and proper persons as its chairman, chief executive officer, directors and key management officers.
+
+(2) In subsection (1)(g), “contingencies or disasters” includes technical disruptions occurring within automated systems.
+
+### Obligation to notify Authority of certain matters
+
+17\.—(1) An approved exchange shall, as soon as practicable after the occurrence of any of the following circumstances, notify the Authority of the circumstance:
+
+(a) any material change to the information provided by the approved exchange in its application under section 7(1) or 11(1);
+
+(b) the carrying on of any business by the approved exchange other than —
+
+(i) the business of operating a market;
+
+(ii) a business incidental to operating a market; or
+
+(iii) such business or class of businesses as the Authority may prescribe;
+
+(c) the acquisition by the approved exchange of a substantial shareholding in a corporation which does not carry on —
+
+(i) the business of operating a market;
+
+(ii) a business incidental to operating a market; or
+
+(iii) such business or class of businesses as the Authority may prescribe;
+
+(d) the approved exchange becoming aware of a financial irregularity or other matter which in its opinion —
+
+(i) may affect its ability to discharge its financial obligations; or
+
+(ii) may affect the ability of a member of the approved exchange to meet its financial obligations to the approved exchange;
+
+(e) the approved exchange reprimanding, fining, suspending, expelling or otherwise taking disciplinary action against a member of the approved exchange;
+
+(f) any other matter that the Authority may prescribe by regulations or specify by notice in writing to the approved exchange.
+
+(2) Without prejudice to the generality of section 46(1), the Authority may, at any time after receiving a notification referred to in subsection (1), issue directions to the approved exchange —
+
+(a) where the notification relates to a matter referred to in subsection (1)(b) —
+
+(i) to cease carrying on the first-mentioned business referred to in subsection (1)(b); or
+
+(ii) to carry on the first-mentioned business referred to in subsection (1)(b) subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 46(1); or
+
+(b) where the notification relates to a matter referred to in subsection (1)(c) —
+
+(i) to dispose of the shareholding referred to in subsection (1)(c); or
+
+(ii) to exercise its rights relating to such shareholding subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 46(1),
+
+and the approved exchange shall comply with such directions.
+
+### Obligation to maintain proper records
+
+18\. An approved exchange shall maintain a record of all transactions effected through its facilities in such form and manner as the Authority may prescribe, including —
+
+(a) the extent to which the record includes details of each transaction; and
+
+(b) the period of time that the record is to be maintained.
+
+### Obligation to submit periodic reports
+
+19\. An approved exchange shall submit to the Authority such reports in such form, manner and frequency as the Authority may prescribe.
+
+### Obligation to assist Authority
+
+20\. An approved exchange shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of —
+
+(a) such books and other information —
+
+(i) relating to the business of the approved exchange; or
+
+(ii) in respect of such dealings in securities or trading in futures contracts; and
+
+(b) such other information,
+
+as the Authority may require for the proper administration of this Act.
+
+### Obligation to maintain confidentiality
+
+21\.—(1) Subject to subsection (2), an approved exchange and its officers and employees shall maintain, and aid in maintaining, the confidentiality of all user information that —
+
+(a) comes to the knowledge of the approved exchange or any of its officers or employees; or
+
+(b) is in the possession of the approved exchange or any of its officers or employees.
+
+(2) Subsection (1) shall not apply to —
+
+(a) the disclosure of user information for such purposes, or in such circumstances, as the Authority may prescribe;
+
+(b) any disclosure of user information which is authorised by the Authority to be disclosed or furnished; or
+
+(c) the disclosure of user information pursuant to any requirement imposed under any written law or order of court in Singapore.
+
+(3) For the avoidance of doubt, nothing in this section shall be construed as preventing an approved exchange from entering into a written agreement with a user which obliges the approved exchange to maintain a higher degree of confidentiality than that specified in this section.
+
+### Penalties under this Subdivision
+
+22\. Any approved exchange which contravenes section 16(1), 17, 18, 19, 20 or 21(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+Subdivision (2) — Rules of Approved Exchanges
+
+### Business rules and listing rules of approved exchanges
+
+23\.—(1) Without limiting the generality of sections 16 and 45 —
+
+(a) the Authority may prescribe the matters that an approved exchange shall make provision for in the business rules or listing rules of the approved exchange; and
+
+(b) the approved exchange shall make provision for those matters in its business rules or listing rules, as the case may be.
+
+(2) An approved exchange shall not make any amendment to its business rules or listing rules unless it complies with such requirements as the Authority may prescribe.
+
+(3) In this Subdivision, any reference to an amendment to a business rule or listing rule shall be construed as a reference to a change to the scope of, or to any requirement, obligation or restriction under, the business rule or listing rule, as the case may be, whether the change is made by an alteration to the text of the rule or by any other notice issued by or on behalf of the approved exchange.
+
+(4) Any approved exchange which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Business rules of approved exchanges have effect as contract
+
+24\.—(1) The business rules of an approved exchange shall be deemed to be, and shall operate as, a binding contract —
+
+(a) between the approved exchange and each member; and
+
+(b) between each member and every other member.
+
+(2) The approved exchange and each member shall be deemed to have agreed to observe and perform the provisions of the business rules that are in force for the time being, so far as those provisions are applicable to the approved exchange or that member, as the case may be.
 
 ### Power of court to order observance or enforcement of business rules or listing rules
 
-18\.—(1) Where any person who is under an obligation to comply with, observe, enforce or give effect to the business rules of a securities exchange or futures exchange, or the listing rules of a securities exchange, fails to comply with, observe, enforce or give effect to any of those business rules or listing rules, the High Court may, on the application of the Authority, a securities exchange, a futures exchange or a person aggrieved by the failure, and after giving the person against whom the order is sought an opportunity to be heard, make an order directing that person to comply with, observe, enforce or give effect to those business rules or listing rules.
+25\.—(1) Where any person who is under an obligation to comply with, observe, enforce or give effect to the business rules or listing rules of an approved exchange fails to do so, the High Court may, on the application of the Authority, an approved exchange or a person aggrieved by the failure, and after giving the first-mentioned person an opportunity to be heard, make an order directing the first-mentioned person to comply with, observe, enforce or give effect to those business rules or listing rules.
 
-(2) Subsection (1) shall apply to a person being —
+(2) A person against whom an order under subsection (1) may be made shall be —
 
-(a) a corporation that has been admitted to the official list of a securities exchange and has not been removed from that official list; or
+(a) a corporation which —
 
-(b) a person associated with a corporation that has been admitted to the official list of a securities exchange and has not been removed from that official list,
+(i) has been admitted to the official list of an approved exchange; and
 
-to the extent to which the business rules or listing rules purport to apply to him.
+(ii) has not been removed from that official list;
 
-(3) In this section, “person” includes a securities exchange and a futures exchange.
+(b) a person associated with a corporation which —
 
-(4) This section is in addition to and not in derogation of any other remedies available to the aggrieved person referred to in subsection (1).
+(i) has been admitted to the official list of an approved exchange; and
+
+(ii) has not been removed from that official list,
+
+to the extent to which the business rules or listing rules purport to apply to him; or
+
+(c) an approved exchange.
+
+(3) This section is in addition to, and not in derogation of, any other remedy available to an aggrieved person referred to in subsection (1).
 
 ### Non-compliance with business rules or listing rules not to substantially affect rights of person
 
-19\. Any failure by a securities exchange or futures exchange to comply with this Act or its business rules or, where appropriate, its listing rules in relation to a matter shall not prevent the matter from being treated for the purposes of this Act as done in accordance with the business rules or listing rules so long as the failure does not substantially affect the rights of a person entitled to require compliance with the business rules or listing rules.
+26\. Any failure by an approved exchange to comply with —
 
-### Review of disciplinary action taken by securities exchange or futures exchange
+(a) this Act;
 
-20\.—(1) Where a securities exchange or futures exchange reprimands, fines, suspends, expels or otherwise takes disciplinary action against a member of the securities exchange or futures exchange, it shall immediately inform the Authority in writing of the name of the member, the reason for, and nature of, the action taken, the amount of any fine and the period of any suspension.
+(b) its business rules; or
 
-(2) The Authority may, on its own motion or on application by an aggrieved person review any disciplinary action taken by a securities exchange or futures exchange under subsection (1) and may affirm, modify or set aside the decision of the securities exchange or futures exchange after giving the member and the securities exchange or futures exchange an opportunity to be heard.
+(c) where applicable, its listing rules,
 
-(3) Nothing in this section shall preclude the Authority, in any case where a securities exchange or futures exchange fails to act against a member, from suspending, expelling or otherwise disciplining a member of the securities exchange or futures exchange, but before so doing the Authority shall give the member and the securities exchange or futures exchange, as the case may be, an opportunity to be heard.
+in relation to a matter shall not prevent the matter from being treated, for the purposes of this Act, as done in accordance with the business rules or listing rules so long as the failure does not substantially affect the rights of any person entitled to require compliance with the business rules or listing rules.
 
-(4) Any person who is aggrieved by the decision of a securities exchange or futures exchange or the Authority under this section may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
+Subdivision (3) — Matters Requiring Approval of Authority
 
-### Power of Authority to issue directions to securities exchange or futures exchange
+### Control of substantial shareholding in approved exchanges
 
-21\.—(1) The Authority may, if it thinks it necessary or expedient —
+27\.—(1) No person shall enter into any agreement to acquire shares in an approved exchange by virtue of which he would, if the agreement had been carried out, become a substantial shareholder of the approved exchange without first obtaining the approval of the Authority to enter into the agreement.
 
-(a) for ensuring fair and orderly securities markets or futures markets;
+(2) No person shall become —
 
-(b) for ensuring the integrity of, and proper management of systemic risks in, securities markets or futures markets; or
+(a) a 12% controller; or
 
-(c) in the interest of the public or section of the public or for the protection of investors,
+(b) a 20% controller,
 
-issue directions by notice in writing either of a general or specific nature to a securities exchange or futures exchange.
+of an approved exchange without first obtaining the approval of the Authority.
 
-(2) Without prejudice to the generality of subsection (1), any direction issued under that subsection may relate to —
+(3) In subsection (2) —
 
-(a) the trading or the termination of trading on or through the facilities of that securities exchange or futures exchange;
+“12% controller” means a person, not being a 20% controller, who alone or together with his associates —
 
-(b) any securities listed for quotation or quoted on that securities exchange;
+(a) holds not less than 12% of the shares in the approved exchange; or
 
-(c) any futures contracts listed for trading on that futures exchange;
+(b) is in a position to control not less than 12% of the votes in the approved exchange;
 
-(d) the manner in which a securities exchange or futures exchange carries on its business, including the manner of reporting off-market purchases; or
+“20% controller” means a person who, alone or together with his associates —
 
-(e) any other matter which the Authority considers necessary for the proper administration of this Act,
+(a) holds not less than 20% of the shares in the approved exchange; or
 
-and the securities exchange or futures exchange shall comply with any such direction.
+(b) is in a position to control not less than 20% of the votes in the approved exchange.
 
-(3) A securities exchange or futures exchange which, without reasonable justification or excuse, contravenes a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(4) In this section —
 
-(4) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+(a) a person holds a share if —
 
-### Removal of officer of securities exchange or futures exchange
+(i) he is deemed to have an interest in that share under section 7(6) to (10) of the Companies Act (Cap. 50); or
 
-22\.—(1) Where the Authority is satisfied that an officer of a securities exchange or futures exchange —
+(ii) he otherwise has a legal or an equitable interest in that share, except such interest as is to be disregarded under section 7(6) to (10) of the Companies Act;
 
-(a) has wilfully contravened or wilfully caused that securities exchange or futures exchange to contravene this Act or the business rules or, where applicable, listing rules of that securities exchange or futures exchange;
+(b) a reference to the control of a percentage of the votes in an approved exchange shall be construed as a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the approved exchange; and
 
-(b) has, without reasonable justification or excuse, failed to enforce compliance with this Act or the business rules or, where applicable, listing rules of that securities exchange or futures exchange, by that securities exchange or futures exchange or a member of that securities exchange or futures exchange or a person associated with that member;
+(c) a person,A, is an associate of another person,B, if —
 
-(c) has failed to discharge the duties or functions of his office;
+(i) Ais the spouse, a parent, remoter lineal ancestor or step-parent, a son, daughter, remoter issue, step-son or step-daughter or a brother or sister ofB;
 
-(d) is an undischarged bankrupt whether in Singapore or elsewhere;
+(ii) Ais a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofBor, whereBis a corporation, of the directors ofB;
+
+(iii) Bis a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
+
+(iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
+
+(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+
+(vi) Ais a related corporation ofB;
+
+(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inA;
+
+(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in sub-paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inB; or
+
+(ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their votes in relation to, the approved exchange.
+
+(5) The Authority may grant its approval referred to in subsection (1) or (2) subject to such conditions or restrictions as the Authority may think fit.
+
+(6) Without prejudice to subsection (11), the Authority may, for the purposes of securing compliance with subsection (1) or (2), or any condition or restriction imposed under subsection (5), by notice in writing, direct the transfer or disposal of all or any of the shares of an approved exchange in which a substantial shareholder, 12% controller or 20% controller of the approved exchange has an interest.
+
+(7) Until a person to whom a direction has been issued under subsection (6) transfers or disposes of the shares which are the subject of the direction, and notwithstanding anything to the contrary in the Companies Act (Cap. 50) or the memorandum or articles of association or other constituent document or documents of the approved exchange —
+
+(a) no voting rights shall be exercisable in respect of the shares which are the subject of the direction;
+
+(b) the approved exchange shall not offer or issue any shares (whether by way of rights, bonus, share dividend or otherwise) in respect of the shares which are the subject of the direction; and
+
+(c) except in a liquidation of the approved exchange, the approved exchange shall not make any payment (whether by way of cash dividend, dividend in kind or otherwise) in respect of the shares which are the subject of the direction.
+
+(8) Any issue of shares by an approved exchange in contravention of subsection (7)(b) shall be deemed to be null and void, and a person to whom a direction has been issued under subsection (6) shall immediately return those shares to the approved exchange, upon which the approved exchange shall return to the person any payment received from him in respect of those shares.
+
+(9) Any payment made by an approved exchange in contravention of subsection (7)(c) shall be deemed to be null and void, and a person to whom a direction has been issued under subsection (6) shall immediately return the payment he has received to the approved exchange.
+
+(10) The Authority may exempt —
+
+(a) any person or class of persons; or
+
+(b) any class or description of shares or interests in shares,
+
+from the requirement under subsection (1) or (2), subject to such conditions or restrictions as may be imposed by the Authority.
+
+(11) Any person who contravenes subsection (1) or (2), or any condition or restriction imposed by the Authority under subsection (5), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+(12) Any person who contravenes subsection (7)(b) or (c), (8) or (9) or any direction issued by the Authority under subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Approval of chairman, chief executive officer, director and key persons
+
+28\.—(1) No approved exchange shall appoint a person as its chairman, chief executive officer or director unless the approved exchange has obtained the approval of the Authority.
+
+(2) The Authority may, by notice in writing, require an approved exchange to obtain the approval of the Authority for the appointment of any person to any key management position or committee of the approved exchange and the approved exchange shall comply with the notice.
+
+(3) An application for approval under subsection (1) or (2) shall be made in such form and manner as the Authority may prescribe.
+
+(4) Without prejudice to the generality of section 45 and to any other matter that the Authority may consider relevant, the Authority may, in determining whether to grant its approval under subsection (1) or (2), have regard to such criteria as the Authority may prescribe or specify in directions issued by notice in writing.
+
+(5) Subject to subsection (6), the Authority shall not refuse an application for approval under this section without giving the approved exchange an opportunity to be heard.
+
+(6) The Authority may refuse an application for approval on any of the following grounds without giving the approved exchange an opportunity to be heard:
+
+(a) the person is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the person has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+(7) Where the Authority refuses an application for approval under this section, the Authority need not give the person who was proposed to be appointed an opportunity to be heard.
+
+(8) An approved exchange shall, as soon as practicable, give written notice to the Authority of the resignation or removal of its chairman, chief executive officer, director or person referred to in the notice issued by the Authority under subsection (2).
+
+(9) Without prejudice to the generality of section 45, the Authority may make regulations relating to the composition and duties of the board of directors or any committee of an approved exchange.
+
+(10) In this section, “committee” includes any committee of directors, disciplinary committee, appeals committee or any body responsible for disciplinary action against a member of an approved exchange.
+
+(11) The Authority may exempt any approved exchange or class of approved exchanges from the requirement under subsection (1) or (8), subject to such conditions or restrictions as may be imposed by the Authority.
+
+(12) Any approved exchange which contravenes subsection (1), (2) or (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+### Power of Authority to approve instruments, contracts and transactions
+
+29\.—(1) No approved exchange shall, without the approval of the Authority, list, de-list or permit the trading of —
+
+(a) any futures contract;
+
+(b) any right, option or derivative in respect of any debentures, stocks or shares;
+
+(c) any right under a contract for differences or under any other contract the purpose or purported purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
+
+(i) the value or price of any debentures, stocks or shares;
+
+(ii) the value or price of any group of debentures, stocks or shares; or
+
+(iii) an index of any debentures, stocks or shares; or
+
+(d) such other instrument, contract or transaction, or class of instruments, contracts or transactions as the Authority may prescribe,
+
+on any market operated by the approved exchange.
+
+(2) The Authority may grant approval for an approved exchange to list, de-list or permit the trading of any instrument, contract or transaction, or any class of instruments, contracts or transactions, referred to subsection (1), subject to such conditions or restrictions as the Authority may think fit to impose by notice in writing to the approved exchange.
+
+(3) Any approved exchange which contravenes subsection (1) or any of the conditions or restrictions imposed under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+### Listing of approved exchanges on securities market
+
+30\.—(1) The securities of an approved exchange shall not be listed for quotation on a securities market that is operated by the approved exchange or any of its related corporations unless the approved exchange and the operator of the securities market have entered into such arrangements as the Authority may require —
+
+(a) for dealing with possible conflicts of interest that may arise from such listing; and
+
+(b) for the purpose of ensuring the integrity of the trading of the securities of the approved exchange on the securities market.
+
+(2) Where the securities of an approved exchange are listed for quotation on a securities market operated by the approved exchange or any of its related corporations, the listing rules of the securities market shall be deemed to allow the Authority to act in place of the operator of the securities market in making decisions and taking action, or to require the operator of the securities market to make decisions and to take action on behalf of the Authority, on —
+
+(a) the admission or removal of the approved exchange to or from the official list of the securities market; and
+
+(b) granting approval for the securities of the approved exchange to be, or stopping or suspending the securities of the approved exchange from being, listed for quotation or quoted on the securities market.
+
+(3) The Authority may, by notice in writing to the operator of the securities market —
+
+(a) modify the listing rules of the securities market for the purpose of their application to the listing for quotation or trading of the securities of the approved exchange; or
+
+(b) waive the application of any listing rule of the securities market to the approved exchange.
+
+(4) Any approved exchange which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+Subdivision (4) — Powers of Authority
+
+### Fixing of position and trading limits in futures contracts
+
+31\.—(1) For the purpose of diminishing, eliminating or preventing excessive speculation in any commodity under a futures contract, the Authority, or an approved exchange with the approval of the Authority, may, by notice in writing from time to time, establish and fix such limits as it considers necessary on the amount of trading which may be done, or positions which may be held, by any person, generally or specifically, under a futures contract traded on the futures market, or traded subject to the business rules, of —
+
+(a) in the case of the establishing and fixing of limits by the Authority, any approved exchange; or
+
+(b) in the case of the establishing and fixing of limits by an approved exchange, that approved exchange.
+
+(2) In determining whether a person has exceeded such limits, the positions held and trading done by any other person directly or indirectly controlled by the first-mentioned person shall be included with the positions held and trading done by the first-mentioned person.
+
+(3) Such limits upon positions and trading shall apply to positions held by, and trading done by, 2 or more persons acting pursuant to an express or implied agreement or understanding as if the positions were held by, or the trading was done by, a single person.
+
+(4) This section shall not apply to positions as defined by an approved exchange in accordance with such regulations as may be prescribed.
+
+(5) No person shall, directly or indirectly —
+
+(a) buy or sell, or agree to buy or sell, under a futures contract traded on the futures market of, or subject to the business rules of, an approved exchange, any amount of a commodity in excess of the trading limits fixed for one business day, or any other stated period set by the Authority or the approved exchange; or
+
+(b) hold or control a net buy or sell position under a futures contract traded on the futures market of, or subject to the business rules of, an approved exchange in excess of any position limit fixed by the Authority or the approved exchange.
+
+(6) Nothing in this section shall preclude the Authority, or an approved exchange with the approval of the Authority, from —
+
+(a) establishing or fixing different trading or position limits for different futures contracts, for different delivery months or for different days remaining until the last day of trading in a futures contract;
+
+(b) fixing different limits for the purposes of subsection (5); or
+
+(c) excluding transactions from the limits established or fixed under this section.
+
+### Power of Authority in securities market
+
+32\.—(1) Without prejudice to the generality of section 46, where the Authority is of the opinion that it is necessary to prohibit trading in —
+
+(a) particular securities of, or made available by, an entity;
+
+(b) particular units or derivatives of units in a business trust; or
+
+(c) particular units of a collective investment scheme,
+
+on a securities market of an approved exchange —
+
+(i) in order to protect persons buying or selling the securities, units or derivatives of units in a business trust or units in a collective investment scheme; or
+
+(ii) in the interests of the public,
+
+the Authority may give notice in writing to the approved exchange stating that it is of that opinion and setting out the reasons for its opinion.
+
+(2) If, after the receipt of the notice given under subsection (1), the approved exchange fails to take any action in relation to those securities, units or derivatives of units in a business trust or units in a collective investment scheme on that securities market and the Authority continues to be of the opinion that it is necessary to prohibit trading in those securities, units or derivatives of units in a business trust or units in a collective investment scheme on that securities market, the Authority may, by notice in writing to the approved exchange, prohibit trading in those securities, units or derivatives of units in a business trust or units in a collective investment scheme on that securities market for such period, not exceeding 14 days, as is specified in the notice.
+
+(3) Where the Authority gives a notice to an approved exchange under subsection (2), the Authority shall —
+
+(a) at the same time send a copy of the notice to —
+
+(i) in the case of securities, the entity;
+
+(ii) in the case of units or derivatives of units in a business trust, the trustee of the business trust; or
+
+(iii) in the case of units in a collective investment scheme, the responsible person of the collective investment scheme,
+
+together with a statement setting out the reasons for the giving of the notice; and
+
+(b) as soon as practicable, furnish to the Minister a written report setting out the reasons for the giving of the notice and send a copy of the report to the approved exchange.
+
+(4) Any person who is aggrieved by any action taken by the Authority or an approved exchange under this section may, within 30 days after the person is notified of the action, appeal to the Minister whose decision shall be final.
+
+(5) Notwithstanding the lodging of an appeal under subsection (4), any action taken by the Authority or an approved exchange under this section shall continue to have effect pending the decision of the Minister.
+
+(6) The Minister may, when deciding an appeal under subsection (4), make such modification as he considers necessary to any action taken by the Authority or an approved exchange under this section, and such modified action shall have effect from the date of the Minister’s decision.
+
+(7) Any approved exchange which permits trading in securities on the securities market of the approved exchange in contravention of a notice given under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+### Additional powers of Authority in respect of auditors
+
+33\.—(1) If an auditor of an approved exchange, in the course of the performance of his duties, becomes aware of —
+
+(a) any matter which, in his opinion, adversely affects or may adversely affect the financial position of the approved exchange to a material extent;
+
+(b) any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or an offence involving fraud or dishonesty; or
+
+(c) any irregularity that has or may have a material effect upon the accounts of the approved exchange, including any irregularity that affects or jeopardises, or may affect or jeopardise, the funds or property of investors in securities or futures contracts,
+
+the auditor shall immediately send to the Authority a written report of the matter or the irregularity.
+
+(2) An auditor of an approved exchange shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).
+
+(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor of an approved exchange may have, apart from this section, as a defendant in an action for defamation.
+
+(4) The Authority may impose all or any of the following duties on an auditor of an approved exchange:
+
+(a) a duty to submit such additional information and reports in relation to his audit as the Authority considers necessary;
+
+(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the approved exchange;
+
+(c) a duty to carry out any other examination or establish any procedure in any particular case;
+
+(d) a duty to submit a report on any matter arising out of his audit, examination or establishment of procedure referred to in paragraph (b) or (c),
+
+and the auditor shall carry out such duties.
+
+(5) The approved exchange shall remunerate the auditor in respect of the discharge by him of all or any of the duties referred to in subsection (4).
+
+### Emergency powers of Authority
+
+34\.—(1) Where the Authority has reason to believe that an emergency exists, or thinks that it is necessary or expedient in the interests of the public or a section of the public or for the protection of investors, the Authority may direct by notice in writing an approved exchange to take such action as it considers necessary to maintain or restore orderly trading in securities or futures contracts or any class of securities or futures contracts.
+
+(2) Without prejudice to subsection (1), the actions which the Authority may direct an approved exchange to take shall include —
+
+(a) terminating or suspending trading on the approved exchange;
+
+(b) confining trading to liquidation of securities or futures contracts positions;
+
+(c) ordering the liquidation of all positions or any part thereof or the reduction in such positions;
+
+(d) limiting trading to a specific price range;
+
+(e) modifying trading days or hours;
+
+(f) altering conditions of delivery;
+
+(g) fixing the settlement price at which positions are to be liquidated;
+
+(h) requiring any person to act in a specified manner in relation to trading in securities or futures contracts or any class of securities or futures contracts;
+
+(i) requiring margins or additional margins for any securities or futures contracts; and
+
+(j) modifying or suspending any of the business rules of the approved exchange.
+
+(3) Where the approved exchange fails to comply with any direction of the Authority under subsection (1) within such time as is specified by the Authority, the Authority may —
+
+(a) set margin levels in any securities or futures contract or class of securities or futures contracts to cater for the emergency;
+
+(b) set limits that may apply to market positions acquired in good faith prior to the date of the notice issued by the Authority; or
+
+(c) take such other action as the Authority may think fit to maintain or restore orderly trading in any securities or futures contracts or class of securities or futures contracts, or liquidation of any position in respect of any securities or futures contract or class of securities or futures contracts.
+
+(4) In this section, “emergency” means any threatened or actual market manipulation or cornering, and includes —
+
+(a) any act of any government affecting a commodity or securities;
+
+(b) any major market disturbance which prevents the market from accurately reflecting the forces of supply and demand for such commodity or securities; or
+
+(c) any undesirable situation or practice which, in the opinion of the Authority, constitutes an emergency.
+
+(5) The Authority may modify any action taken by an approved exchange under subsection (1), including the setting aside of that action.
+
+(6) Any person who is aggrieved by any action taken by the Authority or an approved exchange under this section may, within 30 days after the person is notified of the action, appeal to the Minister whose decision shall be final.
+
+(7) Notwithstanding the lodging of an appeal under subsection (6), any action taken by the Authority or an approved exchange under this section shall continue to have effect pending the decision of the Minister.
+
+(8) The Minister may, when deciding an appeal under subsection (6), make such modification as he considers necessary to any action taken by the Authority or an approved exchange under this section, and such modified action shall have effect from the date of the Minister’s decision.
+
+(9) Any approved exchange which fails to comply with a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Power of Authority to exempt approved exchanges from provisions of this Part
+
+35\. The Authority may exempt an approved exchange or a class of approved exchanges from any of the provisions of this Part if it is satisfied that the non-compliance by such approved exchange or class of approved exchanges with such provision would not detract from the objectives specified in section 5, subject to such conditions or restrictions as may be imposed by the Authority.
+
+Subdivision (5) — Immunity
+
+### Immunity from criminal or civil liability
+
+36\. No criminal or civil liability shall be incurred by —
+
+(a) an approved exchange; or
+
+(b) any person acting on behalf of an approved exchange, including —
+
+(i) any director of the approved exchange; or
+
+(ii) any member of any committee established by the approved exchange,
+
+for any thing done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of, or in connection with, the discharge or purported discharge of its obligations under this Act or the business rules or, where appropriate, listing rules of the approved exchange.
+
+Division 3 —
+
+Regulation of Recognised Market Operators
+
+### General obligations
+
+37\.—(1) A recognised market operator shall, in respect of every market which it operates —
+
+(a) as far as is reasonably practicable, ensure that the market is fair, orderly and transparent;
+
+(b) manage any risks associated with its business and operations prudently;
+
+(c) in discharging its obligations under this Act, not act contrary to the interests of the public, having particular regard to the interests of the investing public; and
+
+(d) have sufficient financial, human and system resources —
+
+(i) to operate a fair, orderly and transparent market;
+
+(ii) to meet contingencies or disasters; and
+
+(iii) to provide adequate security arrangements.
+
+(2) In subsection (1)(d), “contingencies or disasters” includes technical disruptions occurring within automated systems.
+
+### Obligation to notify Authority of certain matters
+
+38\. A recognised market operator shall, as soon as practicable after the occurrence of any of the following circumstances, notify the Authority of the circumstance:
+
+(a) any material change to the information provided by the recognised market operator in its application under section 7(1) or 11(1);
+
+(b) any change of a director or the chief executive officer of the recognised market operator;
+
+(c) the recognised market operator becoming aware of a financial irregularity or other matter which in its opinion —
+
+(i) may affect its ability to discharge its financial obligations; or
+
+(ii) may affect the ability of a participant of the recognised market operator to meet its financial obligations to the recognised market operator;
+
+(d) any other matter that the Authority may prescribe by regulations or specify by notice in writing to the recognised market operator.
+
+### Obligation to maintain proper records
+
+39\. A recognised market operator shall maintain a record of all transactions effected through its facilities in such form and manner as the Authority may prescribe, including —
+
+(a) the extent to which the record includes details of each transaction; and
+
+(b) the period of time that the record is to be maintained.
+
+### Obligation to submit periodic reports
+
+40\. A recognised market operator shall submit to the Authority such reports in such form, manner and frequency as the Authority may prescribe.
+
+### Obligation to assist Authority
+
+41\. A recognised market operator shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of —
+
+(a) such books and other information —
+
+(i) relating to the business of the recognised market operator; or
+
+(ii) in respect of such dealings in securities or trading in futures contracts; and
+
+(b) such other information,
+
+as the Authority may require for the proper administration of this Act.
+
+### Power of Authority to approve instruments, contracts and transactions
+
+42\.—(1) No recognised market operator shall, without the approval of the Authority, list, de-list or permit the trading of —
+
+(a) any futures contract;
+
+(b) any right, option or derivative in respect of any debentures, stock or shares;
+
+(c) any right under a contract for differences or under any other contract the purpose or purported purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
+
+(i) the value or price of any debentures, stock or shares;
+
+(ii) the value or price of any group of debentures, stock or shares; or
+
+(iii) an index of any debentures, stock or shares, and
+
+(d) such other instrument, contract or transaction, or class of instruments, contracts or transactions, as the Authority may prescribe,
+
+on any market operated by the recognised market operator.
+
+(2) The Authority may grant approval for any instrument, contract or transaction, or any class of instruments, contracts or transactions, referred to in subsection (1), subject to such conditions or restrictions as the Authority may think fit to impose by notice in writing to the recognised market operator.
+
+(3) The recognised market operator shall comply with the conditions and restrictions imposed under subsection (2).
+
+### Penalties under this Division
+
+43\. Any recognised market operator which contravenes section 37(1), 38, 39, 40, 41 or 42(1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+Division 4 —
+
+General Powers of Authority
+
+### Power of Authority to remove officers
+
+44\.—(1) Where the Authority is satisfied that an officer of an approved exchange or a recognised market operator —
+
+(a) has wilfully contravened or wilfully caused that approved exchange or recognised market operator to contravene —
+
+(i) this Act;
+
+(ii) where applicable, its business rules; or
+
+(iii) where applicable, its listing rules;
+
+(b) has, without reasonable excuse, failed to ensure compliance by that approved exchange or recognised market operator, a member of that approved exchange or recognised market operator, or a person associated with that member with —
+
+(i) this Act;
+
+(ii) where applicable, the business rules of that approved exchange or recognised market operator; or
+
+(iii) where applicable, the listing rules of that approved exchange or recognised market operator;
+
+(c) has failed to discharge the duties or functions of his office or employment;
+
+(d) is an undischarged bankrupt, whether in Singapore or elsewhere;
 
 (e) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
 
@@ -1962,13 +2858,13 @@ and the securities exchange or futures exchange shall comply with any such direc
 
 (g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly,
 
-the Authority may, if it thinks it necessary in the interest of the public, or section of the public or for the protection of investors, direct by notice in writing that securities exchange or futures exchange to remove the officer from office or employment and that securities exchange or futures exchange shall comply with such notice, notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
+the Authority may, if it thinks it necessary in the interests of the public or a section of the public or for the protection of investors, by notice in writing direct that approved exchange or recognised market operator to remove the officer from his office or employment, and that approved exchange or recognised market operator shall comply with such notice, notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
 
-(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, in determining whether an officer of a securities exchange or futures exchange has failed to discharge the duties or functions of his office for the purposes of subsection (1)(c), have regard to such criteria as may be prescribed or as may be specified in written directions.
+(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority may, in determining whether an officer of an approved exchange or a recognised market operator has failed to discharge the duties or functions of his office or employment for the purposes of subsection (1)(c), have regard to such criteria as the Authority may prescribe or specify in directions issued by notice in writing.
 
-(3) Subject to subsection (4), the Authority shall not direct a securities exchange or futures exchange to remove an officer from office or employment without giving the securities exchange or futures exchange an opportunity to be heard.
+(3) Subject to subsection (4), the Authority shall not direct an approved exchange or a recognised market operator to remove an officer from his office or employment without giving the approved exchange or recognised market operator an opportunity to be heard.
 
-(4) The Authority may direct a securities exchange or futures exchange to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the securities exchange or futures exchange an opportunity to be heard:
+(4) The Authority may direct an approved exchange or a recognised market operator to remove an officer from his office or employment under subsection (1) on any of the following grounds without giving the approved exchange or recognised market operator an opportunity to be heard:
 
 (a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
 
@@ -1978,735 +2874,85 @@ the Authority may, if it thinks it necessary in the interest of the public, or s
 
 (ii) punishable with imprisonment for a term of 3 months or more.
 
-[16/2003 wef 22/12/2003]
+(5) Where the Authority directs an approved exchange or a recognised market operator to remove an officer from his office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
 
-(5) Where the Authority directs a securities exchange or futures exchange to remove the officer from office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
+(6) Any approved exchange or a recognised market operator that is aggrieved by a direction of the Authority made in relation to the approved exchange or recognised market operator, as the case may be, under subsection (1) may, within 30 days after the approved exchange or recognised market operator, as the case may be, is notified of the direction, appeal to the Minister whose decision shall be final.
 
-(6) A securities exchange or futures exchange that is aggrieved by the direction of the Authority to remove an officer from office or employment under subsection (1) may, within 30 days after it is notified of the direction, appeal to the Minister whose decision shall be final.
+(7) Notwithstanding the lodging of an appeal under subsection (6), any action taken by the Authority under this section, shall continue to have effect pending the decision of the Minister.
 
-(7) A securities exchange or futures exchange which, without reasonable justification or excuse, contravenes a written notice issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(8) The Minister may, when deciding an appeal under subsection (6), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the Minister’s decision.
 
-### Power of Authority in securities market
+(9) Subject to subsection (10), no criminal or civil liability shall be incurred by an approved exchange or a recognised market operator in respect of any thing done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this section.
 
-23\.—(1) Without prejudice to the generality of section 21, where the Authority is of the opinion that it is necessary to prohibit trading in particular securities of, or made available by, a corporation on the securities market of a securities exchange in order to protect persons buying or selling the securities or in the interests of the public, the Authority may give notice in writing to the securities exchange stating that it is of that opinion and setting out the reasons for its opinion.
+(10) Any approved exchange or a recognised market operator which, without reasonable excuse, contravenes a written notice issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(2) If, after the receipt of the notice given under subsection (1), the securities exchange fails to take any action in relation to those securities on that securities market and the Authority continues to be of the opinion that it is necessary to prohibit trading in those securities on that securities market, the Authority may, by notice in writing to the securities exchange, prohibit trading in those securities on that securities market for such period, not exceeding 14 days, as is specified in the notice.
+### Power of Authority to make regulations
 
-(3) Where the Authority gives a notice to a securities exchange under subsection (2) in relation to trading in particular securities of, or made available by, a corporation or other entity, the Authority shall —
+45\.—(1) Without prejudice to section 341, the Authority may make regulations relating to the exemption, recognition or approval of, and the requirements applicable to, persons who establish, operate or assist in establishing or operating markets.
 
-(a) at the same time send a copy of the notice to the corporation or other entity together with a statement setting out the reasons for the giving of the notice; and
+(2) Regulations made under this section may provide —
 
-(b) as soon as practicable furnish to the Minister a written report setting out the reasons for the giving of the notice and send a copy of the report to the securities exchange.
+(a) that a contravention of any specified provision thereof shall be an offence; and
 
-(4) Any person who is aggrieved by any action taken by the Authority or a securities exchange under this section may, within 30 days after it is notified of the action, appeal to the Minister whose decision shall be final.
+(b) for a penalty not exceeding a fine of $150,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
 
-(5) Notwithstanding the lodging of an appeal under subsection (4), any action taken by the Authority or a securities exchange under this section shall continue to have effect pending the determination or withdrawal of the appeal.
+### Power of Authority to issue directions
 
-(6) A securities exchange which permits trading in securities on the securities market of the securities exchange in contravention of a notice given under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+46\.—(1) The Authority may, if it thinks it necessary or expedient —
 
-### Emergency powers of Authority
+(a) for ensuring fair, orderly and transparent markets;
 
-24\.—(1) Where the Authority has reason to believe that an emergency exists, or where the Authority thinks it necessary or expedient in the interest of the public or section of the public or for the protection of investors, the Authority may direct by notice in writing a securities exchange or futures exchange to take such action as it considers necessary to —
+(b) for ensuring the integrity and stability of the capital markets or the financial system;
 
-(a) maintain or restore orderly trading in securities or futures contracts or any class of securities or futures contracts; or
+(c) in the interests of the public or a section of the public or for the protection of investors;
 
-(b) liquidate any position in respect of any securities or futures contract or any class of securities or futures contracts,
+(d) for the effective administration of this Act; or
 
-including but not limited to —
+(e) for ensuring compliance with any condition or restriction as may be imposed by the Authority under section 8(4) or (5), 14(5), (6), (8) or (9), 17(2), 27(5) or (10), 28(11), 29(2), 35 or 42(2), or such other obligations or requirements under this Act or as may be prescribed by the Authority,
 
-(i) terminating or suspending trading on a securities exchange or futures exchange;
+issue directions, whether of a general or specific nature, by notice in writing, to an approved exchange, a recognised market operator or an exempt market operator, and the approved exchange, recognised market operator or exempt market operator shall comply with such directions.
 
-(ii) confining trading to liquidation of securities or futures contracts positions;
+(2) Any approved exchange, a recognised market operator or an exempt market operator which, without reasonable excuse, contravenes a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(iii) ordering the liquidation of all positions or part thereof or the reduction in such positions;
-
-(iv) limiting trading to a specific price range;
-
-(v) modifying trading days or hours;
-
-(vi) altering conditions of delivery;
-
-(vii) fixing the settlement price at which positions are to be liquidated;
-
-(viii) requiring any person to act in a specified manner in relation to trading in securities or futures contracts or any class of securities or futures contracts;
-
-(ix) requiring margins or additional margins for any securities or futures contracts; and
-
-(x) modifying or suspending any of the business rules of a securities exchange or futures exchange,
-
-and the securities exchange or futures exchange, as the case may be, shall comply with that direction.
-
-(2) Where a securities exchange or futures exchange fails to comply with the direction of the Authority under subsection (1), within such time as is specified by the Authority, the Authority may —
-
-(a) set emergency margin levels in any securities or futures contract or class of securities or futures contracts;
-
-(b) set limits that may apply to market positions acquired in good faith prior to the date of the Authority’s action; or
-
-(c) take such other action as the Authority thinks fit to maintain or restore orderly trading in any securities or futures contracts or class of securities or futures contracts, or liquidation of any position in respect of securities or futures contract or class of securities or futures contracts.
-
-(3) In this section, “emergency” means threatened or actual market manipulations and corners, and includes —
-
-(a) any act of government affecting a commodity or securities;
-
-(b) any other major market disturbance which prevents the market from accurately reflecting the forces of supply and demand for such commodity or securities; or
-
-(c) any other undesirable situations or practices which in the opinion of the Authority constitutes an emergency.
-
-(4) Without prejudice to subsection (1), where a securities exchange or futures exchange takes emergency action under subsection (1), the Authority may modify such emergency action, including but not limited to the setting aside of that emergency action.
-
-(5) Any person who is aggrieved by any action taken by the Authority, a securities exchange or a futures exchange under this section may, within 30 days after it is notified of the action, appeal to the Minister whose decision shall be final.
-
-(6) Notwithstanding the lodging of an appeal under subsection (5), any emergency action taken by the Authority, a securities exchange or a futures exchange under this section shall continue to have effect pending the determination or withdrawal of the appeal.
-
-(7) The Minister may make such modification to any emergency action, taken by the Authority, a securities exchange or a futures exchange, that is the subject of an appeal and such modified emergency action shall have effect.
-
-### Power of Authority to approve futures contracts
-
-25\.—(1) No futures exchange shall list or de-list any futures contract on its exchange or permit the trading of any futures contract on the futures market established or operated by the futures exchange without the prior approval of the Authority.
-
-(2) The Authority may grant approval for the listing or de-listing of a futures contract on a futures exchange or for the trading of any futures contract on the futures market established or operated by the futures exchange subject to such conditions or restrictions as the Authority may think fit.
-
-(3) A futures exchange which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
-
-(4) A futures exchange which contravenes any of the conditions or restrictions imposed under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-### Fixing of position and trading limits in futures contracts
-
-26\.—(1) For the purpose of diminishing, eliminating or preventing excessive speculation in any commodity under a futures contract, the Authority or a futures exchange with the approval of the Authority may, by notice in writing from time to time, establish and fix such limits as it considers necessary on the amount of trading which may be done or positions which may be held by any person, generally or specifically, under a futures contract traded on the futures market of or subject to the business rules of a futures exchange.
-
-(2) In determining whether a person has exceeded such limits, the positions held and trading done by any person, directly or indirectly, controlled by such a person shall be included with the positions held and trading done by that person.
-
-(3) Such limits upon positions and trading shall apply to positions held by, and trading done by, 2 or more persons acting pursuant to an express or implied agreement or understanding, as if the positions were held by, or the trading done by, a single person.
-
-(4) This section shall not apply to transactions or positions which are bona fide hedging transactions or positions as defined by a futures exchange in accordance with such regulations as may be prescribed.
-
-(5) No person shall, directly or indirectly —
-
-(a) buy or sell or agree to buy or sell, under a futures contract traded on the futures market of or subject to the business rules of a futures exchange, any amount of a commodity in excess of the trading limits fixed for one business day, or any other stated period set by the Authority or a futures exchange; or
-
-(b) hold or control a net buy or sell position under a futures contract traded on the futures market of or subject to the business rules of a futures exchange in excess of any position limit fixed by the Authority or the futures exchange.
-
-(6) Nothing in this section shall preclude the Authority or a futures exchange with the approval of the Authority from —
-
-(a) fixing different trading or position limits for different futures contracts, different delivery months, or for different days remaining until the last day of trading in a futures contract;
-
-(b) fixing different trading limits for the purposes of subsection (5); or
-
-(c) exempting transactions under this section.
-
-### Additional powers of Authority in respect of auditors
-
-27\.—(1) If an auditor, in the course of the performance of his duties as an auditor of a securities exchange or futures exchange, becomes aware —
-
-(a) of any matter which, in his opinion, adversely affects or may adversely affect the financial position of the securities exchange or futures exchange to a material extent;
-
-(b) of any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or a criminal offence involving fraud or dishonesty; or
-
-(c) of any irregularity that has or may have a material effect upon the accounts, including irregularities that affect or jeopardise or may affect or jeopardise the funds or property of investors in securities or futures contracts,
-
-the auditor shall immediately send to the Authority a written report of the matter or the irregularity.
-
-(2) An auditor shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).
-
-(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor has, apart from this section, as a defendant in an action for defamation.
-
-(4) The Authority may impose all or any of the following duties on an auditor of a securities exchange or futures exchange:
-
-(a) a duty to submit such additional information and reports in relation to his audit as the Authority considers necessary;
-
-(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the securities exchange or futures exchange;
-
-(c) a duty to carry out any other examination or establish any procedure in any particular case;
-
-(d) a duty to submit a report on any matter referred to in paragraph (b) or (c),
-
-and the auditor shall carry out such duties.
-
-(5) The securities exchange or futures exchange shall remunerate the auditor in respect of the discharge by him of all or any of the duties referred to in subsection (4).
-
-(6) For the avoidance of doubt, sections 207 and 208 of the Companies Act (Cap. 50) shall, to the extent to which they may be applicable, apply to the discharge of an auditor’s duties under subsection (4).
-
-Division 3 —
-
-Exchange Holding Companies
-
-### Exchange holding company
-
-28\. No corporation shall be the holding company of any securities exchange, futures exchange or clearing house or of any corporation that is an exchange holding company unless the corporation has been approved as an exchange holding company under section 29.
-
-### Power of Authority to approve exchange holding company
-
-29\.—(1) A corporation may apply to the Authority for approval to be an exchange holding company in such form and manner as the Authority may prescribe.
-
-(2) The application shall be accompanied by the prescribed fee.
-
-(3) The Authority may require a corporation to provide the Authority with such further information as it considers necessary in relation to the application in such form or verified in such manner as the Authority may direct.
-
-(4) The Authority may, by notice in writing, subject to such conditions or restrictions as it may think fit to impose, approve a corporation as an exchange holding company if the Authority is satisfied that it would not be contrary to the interests of the investing public to approve the application.
-
-(5) The Authority may impose different conditions or restrictions or give different directions with respect to different applications for approval as an exchange holding company.
-
-(5A) Subject to subsection (5B), the Authority shall not refuse to grant an approval under subsection (4) without giving the applicant an opportunity to be heard.
-
-[16/2003 wef 22/12/2003]
-
-(5B) The Authority may refuse to grant an approval to an applicant under subsection (4) on the ground that it would be contrary to the interests of the investing public to grant the approval on the basis of any of the following circumstances without giving the applicant an opportunity to be heard:
-
-(a) the applicant is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
-
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the applicant;
-
-(c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
-
-[16/2003 wef 22/12/2003]
-
-(6) An applicant that is aggrieved by the refusal of the Authority to grant an approval under subsection (4) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
-
-(7) An exchange holding company which contravenes any of the conditions or restrictions imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
-
-### Revocation of approval
-
-30\.—(1) The Authority may, in writing, revoke any approval granted under section 29 if —
-
-(a) the corporation is being wound up or otherwise dissolved, whether in Singapore or elsewhere;
-
-(b) the corporation is contravening or is likely to contravene or has contravened any condition or restriction of its approval that is applicable to it under this Act;
-
-(c) the corporation is contravening or is likely to contravene or has contravened any direction issued to it by the Authority;
-
-(d) the corporation is operating in a manner that is, in the opinion of the Authority, contrary to the public interest;
-
-(e) any information provided to the Authority under section 29(3) was false or misleading in a material particular; or
-
-(f) the Authority deems fit upon the application of the corporation to cancel the approval.
-
-(2) Subject to subsection (3), the Authority shall not revoke any approval granted to a corporation under section 29 without giving the corporation an opportunity to be heard.
-
-(3) The Authority may revoke an approval granted to a corporation under section 29 on any ground referred to in subsection (1) on the basis of any of the following circumstances without giving the corporation an opportunity to be heard:
-
-(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
-
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation;
-
-(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
-
-[16/2003 wef 22/12/2003]
-
-(4) A corporation that is aggrieved by the decision of the Authority made under subsection (1) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
-
-(5) Notwithstanding the lodging of an appeal under subsection (4), any action taken by the Authority under this section shall continue to have effect pending the determination or withdrawal of the appeal.
-
-(6) The Minister may make such modification to any action taken by the Authority that is the subject of an appeal and such modified action shall have effect.
-
-### Listing of exchange holding company on securities exchange
-
-31\.—(1) The securities of an exchange holding company may be listed for quotation on a securities exchange if the exchange holding company has entered into such arrangements as the Authority may require —
-
-(a) for dealing with possible conflicts of interest that may arise from the listing for quotation on a securities exchange of securities of the exchange holding company; and
-
-(b) for the purpose of ensuring the integrity of trading of the securities of the exchange holding company,
-
-and the exchange holding company shall comply with such requirements.
-
-(2) The listing rules of the securities exchange shall be deemed to allow the Authority, instead of the securities exchange, to make decisions and to take action (or require the securities exchange to make decisions and to take action on the Authority’s behalf) on —
-
-(a) the admission to or removal from the securities exchange’s official list of the exchange holding company; and
-
-(b) granting, stopping or suspending the securities of the exchange holding company from being listed for quotation or quoted on the securities exchange.
-
-(3) The Authority may, by notice in writing —
-
-(a) modify the listing rules of the securities exchange for the purpose of applying to the listing for quotation or trading of the securities of the exchange holding company; and
-
-(b) exempt the exchange holding company from any listing rule of the securities exchange.
-
-### Power of Authority to issue directions to exchange holding company
-
-32\.—(1) The Authority may, if it thinks it necessary or expedient —
-
-(a) for ensuring the fair and orderly conduct of securities markets or futures markets;
-
-(b) for ensuring the integrity of, and proper management of systemic risks in, securities markets or futures markets; or
-
-(c) in the interest of the public or section of the public or for the protection of investors,
-
-issue directions by notice in writing either of a general or specific nature to an exchange holding company.
-
-(2) Without prejudice to the generality of subsection (1), any direction issued under that subsection may relate to —
-
-(a) the requirement for the prior approval of the Authority in respect of any proposed amendment, whether by way of alteration or addition, to the business rules of the exchange holding company;
-
-(b) the corporate governance of the exchange holding company;
-
-(c) the inspection by the Authority or by any person appointed by the Authority of the books and affairs of the exchange holding company;
-
-(d) the management by the exchange holding company of any of its subsidiaries that carries on the business of a securities exchange, futures exchange or clearing house, whether such business forms the whole or part of such subsidiary’s undertaking; and
-
-(e) any other matter which the Authority considers necessary for the effective administration of this Act,
-
-and the exchange holding company shall comply with any such direction.
-
-(3) An exchange holding company which, without reasonable justification or excuse, contravenes any direction issued under subsection (1), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-(4) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
-
-(5) An exchange holding company shall provide such assistance to the Authority as the Authority may reasonably require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of such books and other information relating to the business of the exchange holding company or any other specified information as the Authority may require for the proper administration of this Act.
-
-(6) An exchange holding company which, without reasonable justification or excuse, contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-### Removal of officer of exchange holding company
-
-33\.—(1) Where the Authority is satisfied that an officer of an exchange holding company —
-
-(a) has wilfully contravened or wilfully caused that exchange holding company to contravene this Act or the business rules of that exchange holding company;
-
-(b) has, without reasonable justification or excuse, failed to enforce compliance with this Act or the business rules of that exchange holding company, by that exchange holding company;
-
-(c) has failed to discharge the duties or functions of his office;
-
-(d) is an undischarged bankrupt whether in Singapore or elsewhere;
-
-(e) has an execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
-
-(f) has, whether in Singapore or elsewhere, made a compromise or scheme of arrangement with his creditors being a compromise or scheme of arrangement that is still in operation; or
-
-(g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly,
-
-the Authority may, if it thinks it necessary in the interest of the public, or section of the public or for the protection of investors, direct by notice in writing that exchange holding company to remove the officer from office or employment and that exchange holding company shall comply with such notice, notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
-
-(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, in determining whether an officer of an exchange holding company has failed to discharge the duties or functions of his office for the purposes of subsection (1)(c), have regard to such criteria as may be prescribed or as may be specified in written directions.
-
-(3) Subject to subsection (4), the Authority shall not direct an exchange holding company to remove an officer from office or employment without giving the exchange holding company an opportunity to be heard.
-
-(4) The Authority may direct an exchange holding company to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the exchange holding company an opportunity to be heard:
-
-(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
-
-(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
-
-(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
-
-(ii) punishable with imprisonment for a term of 3 months or more.
-
-[16/2003 wef 22/12/2003]
-
-(5) Where the Authority directs an exchange holding company to remove the officer from office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
-
-(6) An exchange holding company that is aggrieved by the direction of the Authority to remove an officer from office or employment under subsection (1) may, within 30 days after it is notified of the direction, appeal to the Minister whose decision shall be final.
-
-(7) An exchange holding company which, without reasonable justification or excuse, contravenes a written notice issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-### Control of substantial shareholdings in exchange holding company
-
-34\.—(1) No person shall enter into any agreement to acquire shares by virtue of which he would, if the agreement is carried out, acquire a substantial shareholding in an exchange holding company without first notifying the Authority of his intention to enter into the agreement and obtaining the approval of the Authority to his entering into the agreement.
-
-(2) The Authority may grant its approval referred to in subsection (1) subject to such conditions or restrictions as the Authority may think fit.
-
-(3) Without prejudice to subsection (7), the Authority may, for the purposes of securing compliance with subsection (1) or any condition or restriction imposed under subsection (2), by notice in writing direct the transfer or disposal of all or any of the shares of the exchange holding company in which the substantial shareholder has or has had an interest.
-
-(4) Until the person to whom a direction is issued under subsection (3) transfers or disposes of the shares which are the subject of the direction, and notwithstanding anything to the contrary in the Companies Act (Cap. 50) or the memorandum or articles of association of the exchange holding company —
-
-(a) no voting rights shall be exercisable in respect of the shares which are the subject of the direction;
-
-(b) the exchange holding company shall not offer or issue any shares (whether by way of rights, bonus, share dividend or otherwise) in respect of the shares which are the subject of the direction; and
-
-(c) except in a liquidation of the exchange holding company, the exchange holding company shall not make any payment (whether by way of cash dividend or dividend in kind or otherwise) in respect of the shares which are the subject of the direction.
-
-[16/2003 wef 22/12/2003]
-
-(5) Any issue of shares by the exchange holding company in contravention of subsection (4)(b) shall be deemed to be null and void and the person to whom a direction has been issued under subsection (3) shall immediately return those shares to the exchange holding company, upon which the exchange holding company shall return to the person any payment received from him in respect of those shares.
-
-[16/2003 wef 22/12/2003]
-
-(6) Any payment made by the exchange holding company in contravention of subsection (4)(c) shall be deemed to be null and void and the person to whom a direction has been issued under subsection (3) shall immediately return the payment he has received to the exchange holding company.
-
-[16/2003 wef 22/12/2003]
-
-(7) Any person who contravenes subsection (1) or any condition or restriction imposed by the Authority under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
-
-[16/2003 wef 22/12/2003]
-
-(8) Any person who contravenes subsection (4)(b) or (c), (5) or (6) or any direction issued by the Authority under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-[16/2003 wef 22/12/2003]
-
-(9) For the avoidance of doubt, a direction issued under subsection (3) shall be deemed not to be subsidiary legislation.
-
-[16/2003 wef 22/12/2003]
-
-### Additional powers of Authority in respect of auditors
-
-35\.—(1) If an auditor, in the course of the performance of his duties as an auditor of an exchange holding company, becomes aware —
-
-(a) of any matter which, in his opinion, adversely affects or may adversely affect the financial position of the exchange holding company to a material extent;
-
-(b) of any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or a criminal offence involving fraud or dishonesty; or
-
-(c) of any irregularity that has or may have a material effect upon the accounts, including irregularities that affect or jeopardise or may affect or jeopardise the funds or property of investors in securities or futures contracts,
-
-the auditor shall immediately send to the Authority a report in writing of the matter or the irregularity.
-
-(2) An auditor shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).
-
-(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor has, apart from this section, as a defendant in an action for defamation.
-
-(4) The Authority may impose all or any of the following duties on an auditor of an exchange holding company:
-
-(a) a duty to submit such additional information and reports in relation to his audit as the Authority considers necessary;
-
-(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the exchange holding company;
-
-(c) a duty to carry out any other examination or establish any procedure in any particular case;
-
-(d) a duty to submit a report on any matter referred to in paragraph (b) or (c),
-
-and the auditor shall carry out such duties.
-
-(5) The exchange holding company shall remunerate the auditor in respect of the discharge by him of all or any of the duties referred to in subsection (4).
-
-(6) For the avoidance of doubt, sections 207 and 208 of the Companies Act (Cap. 50) shall, to the extent to which they may be applicable, apply to the discharge of an auditor’s duties under subsection (4).
-
-Division 4 —
-
-Recognised Trading System Providers
-
-### Power of Authority to recognise trading system providers
-
-36\.—(1) The following persons may apply to the Authority for recognition as a recognised trading system provider in such form and manner as may be prescribed:
-
-(a) a corporation;
-
-(b) an overseas securities exchange; or
-
-(c) an overseas futures exchange.
-
-(2) The application shall be accompanied by the prescribed fee.
-
-(3) The Authority may require an applicant to provide the Authority with such further information as it considers necessary in relation to the application, in such form or verified in such manner as the Authority may direct.
-
-(4) The Authority may, in writing, subject to such conditions or restrictions as it may think fit to impose, recognise an applicant as a recognised trading system provider if the Authority is satisfied that —
-
-(a) the applicant will ensure that, as far as is reasonably practicable, it will operate an orderly, informed and fair securities market or futures market;
-
-(b) the applicant will manage any risks associated with the applicant’s business and operations prudently;
-
-(c) the applicant, in discharging its obligations under paragraph (a), will not act contrary to the interests of the public, having particular regard to the interests of the investing public;
-
-(d) the applicant shall enforce compliance by its members with, its business rules and, where appropriate, its listing rules;
-
-(e) the business rules and, where appropriate, listing rules of the applicant make satisfactory provision —
-
-(i) for an orderly, informed and fair market in securities or futures contracts that are traded through its facilities; and
-
-(ii) for the proper regulation and supervision of its members;
-
-(f) the applicant has sufficient financial, human and system resources to —
-
-(i) establish and operate a fair and efficient securities market or futures market;
-
-(ii) meet contingencies or disasters; and
-
-(iii) provide adequate security arrangements; and
-
-(g) it will not be contrary to the interests of the investing public to approve the application.
-
-(5) For the purposes of subsection (4)(f), “contingencies or disasters” includes events such as technical complications occurring within automated systems.
-
-(6) Without limiting the generality of subsection (4)(e), such business rules, and where appropriate, listing rules of the applicant shall make provision —
-
-(a) for the exclusion from membership of persons who are not of good character and high business integrity;
-
-(b) for the expulsion, suspension or disciplining of members for conduct inconsistent with just and equitable principles in the transaction of business, or for a contravention of the business rules or, where appropriate, listing rules of the proposed recognised trading system provider;
-
-(c) with respect to the terms and conditions under which securities may be listed for quotation or quoted on the securities market, or futures contracts may be listed for trading on the futures market, of the proposed recognised trading system provider;
-
-(d) with respect to the class or classes of securities that may be dealt in or futures contracts that may be traded by members and the terms and conditions governing dealings in securities or trading in futures contracts by members;
-
-(e) with respect to fair and properly supervised floor trading practices;
-
-(f) with respect to measures to prevent manipulation, market rigging and artificial market conditions in its securities market or futures market;
-
-(g) with respect to the recording and publishing of details of trading;
-
-(h) with respect to the clearing and other arrangements made and the financial condition of the proposed recognised trading system provider, the clearing house of the proposed recognised trading system provider and the members of the proposed recognised trading system provider, such as to provide reasonable assurance that all obligations arising out of the dealing in securities or trading in futures contracts on the securities market or futures market of that proposed recognised trading system provider will be met;
-
-(i) with respect to the establishment of any compensation arrangement, or any other scheme or system accepted by the Authority, which would compensate customers who suffer pecuniary loss through the defalcation of a member, or any of its directors, officers, employees or representatives, in respect of any money or other property that was entrusted to or received by a member, or any of its directors, officers, employees or representatives, for or on behalf of any person or by reason that the member was a trustee of the money or other property; and
-
-(j) generally for carrying on the business of the proposed recognised trading system provider with due regard to the interests and protection of the investing public.
-
-(7) The Authority may impose different conditions or restrictions or give different directions with respect to different applications for recognition as a recognised trading system provider.
-
-(7A) Subject to subsection (7B), the Authority shall not refuse to recognise an applicant as a recognised trading system provider under subsection (4) without giving the applicant an opportunity to be heard.
-
-[16/2003 wef 22/12/2003]
-
-(7B) The Authority may refuse to recognise an applicant as a recognised trading system provider under subsection (4) on the ground that it would be contrary to the interests of the investing public to grant the recognition on the basis of any of the following circumstances without giving the applicant an opportunity to be heard:
-
-(a) the applicant is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
-
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the applicant;
-
-(c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
-
-[16/2003 wef 22/12/2003]
-
-(8) An applicant that is aggrieved by the refusal of the Authority to grant a recognition under subsection (4) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
-
-(9) The Authority shall give notice in theGazetteof any recognised trading system provider that has been recognised under this section.
-
-(10) A recognised trading system provider which contravenes any of the conditions or restrictions imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-### Overseas securities exchange and overseas futures exchange
-
-37\.—(1) An application for recognition under section 36 by an overseas securities exchange or overseas futures exchange must contain the address of a place in Singapore for the service on the applicant of notices or other documents required or authorised to be served on it under this Act.
-
-(2) Without prejudice to section 36, to recognise an overseas securities exchange or overseas futures exchange as a recognised trading system provider, the Authority may additionally require to be satisfied that —
-
-(a) the applicant is able and willing to co-operate with the Authority in the sharing of information and other ways;
-
-(b) adequate arrangements exist for co-operation between the Authority and those responsible for the supervision of the applicant in the country or territory in which the applicant’s head office is situated; and
-
-(c) adequate arrangements exist for co-operation between the applicant and a securities exchange or futures exchange in respect of the supervision of any person which is permitted to trade directly in the securities markets or futures markets established or operated by both the applicant and the securities exchange or futures exchange.
-
-(3) In considering whether it is satisfied that the overseas securities exchange or overseas futures exchange has met the requirements mentioned in subsection (2), the Authority may have regard to —
-
-(a) the relevant law and practice of the country or territory in which the applicant’s head office is situated; and
-
-(b) the rules and practices of the applicant.
-
-### Report by overseas securities exchange and overseas futures exchange
-
-38\.—(1) Every recognised trading system provider which is an overseas securities exchange or overseas futures exchange shall submit to the Authority a report, in such manner and containing such information as the Authority may prescribe, at least once in every calendar year.
-
-(2) The report shall contain a statement as to whether any event had occurred in the year preceding the date of the report which may affect the compliance with the requirements specified in section 36(4) or (6) or any regulations made under section 7 or conditions or restrictions imposed under section 36(4) by the overseas securities exchange or overseas futures exchange as are required for a person to be recognised as a recognised trading system provider.
-
-(3) The report shall also contain such other information as the Authority may require.
-
-### Continuing obligations of recognised trading system provider
-
-39\.—(1) A recognised trading system provider shall continue to satisfy the conditions or restrictions as are required for a person to be recognised as a recognised trading system provider, and in particular, the conditions or restrictions specified in section 36(4) and (6) and any regulations made under section 7.
-
-(2) A recognised trading system provider which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-### Revocation of recognition
-
-40\.—(1) The Authority may, in writing, revoke any recognition granted under section 36 if —
-
-(a) the recognised trading system provider ceases to operate its securities market or futures market;
-
-(b) the recognised trading system provider is being wound up or otherwise dissolved, whether in Singapore or elsewhere;
-
-(c) the recognised trading system provider is contravening or is likely to contravene or has contravened any condition or restriction that is applicable to it under this Act;
-
-(d) the recognised trading system provider is contravening or is likely to contravene or has contravened any direction issued to it by the Authority;
-
-(e) the recognised trading system provider is operating in a manner that is, in the opinion of the Authority, contrary to the public interest;
-
-(f) any information provided to the Authority under section 36, 38 or 42 was false or misleading in a material particular; or
-
-(g) the Authority deems fit upon the application of the recognised trading system provider to cancel the recognition.
-
-(2) For the purposes of subsection (1)(a), a recognised trading system provider shall be deemed to have ceased to operate its securities market or futures market if it has ceased to operate such securities market or futures market for more than 30 days unless it has obtained the prior approval of the Authority to do so, or unless it has ceased to operate such securities market or futures market by virtue of any direction issued by the Authority under section 43.
-
-(3) Subject to subsection (4), the Authority shall not revoke any recognition granted to a recognised trading system provider under section 36 without giving the recognised trading system provider an opportunity to be heard.
-
-(4) The Authority may revoke a recognition granted to a recognised trading system provider under section 36 on any ground referred to in subsection (1) on the basis of any of the following circumstances without giving the recognised trading system provider an opportunity to be heard:
-
-(a) the recognised trading system provider is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
-
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the recognised trading system provider;
-
-(c) the recognised trading system provider has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
-
-[16/2003 wef 22/12/2003]
-
-(5) A recognised trading system provider that is aggrieved by the decision of the Authority made under subsection (1) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
-
-(6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority under this section shall continue to have effect pending the determination or withdrawal of the appeal.
-
-(7) The Minister may make such modification to any action taken by the Authority that is the subject of an appeal and such modified action shall have effect.
-
-### Effect of revocation
-
-41\. Any revocation of recognition referred to in section 40 shall not operate so as to —
-
-(a) avoid or affect any agreement, transaction or arrangement entered into on the securities market or futures market operated by the recognised trading system provider, whether the agreement, transaction or arrangement was entered into before or after the revocation of the recognition; or
-
-(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
-
-### Recognised trading system provider to assist Authority
-
-42\.—(1) A recognised trading system provider shall provide such assistance to the Authority as the Authority may reasonably require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of such books and other information relating to the business of the recognised trading system provider or in respect of such dealings in securities or trading in futures contracts or any other specified information as the Authority may require for the proper administration of this Act.
-
-(2) A recognised trading system provider shall immediately notify the Authority if it becomes aware of a financial irregularity or other matter which in the opinion of the recognised trading system provider may indicate that the financial standing or integrity of a member is in question, or that a member may not be able to meet his legal obligations.
-
-(3) A recognised trading system provider which, without reasonable justification or excuse, contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-### Power of Authority to issue directions to recognised trading system provider
-
-43\.—(1) The Authority may, if it thinks it necessary or expedient —
-
-(a) for ensuring the fair and orderly conduct of securities markets or futures markets;
-
-(b) for ensuring the integrity of, and proper management of systemic risks in, the securities markets or futures markets; or
-
-(c) in the interest of the public or a section of the public or for the protection of investors,
-
-issue directions by notice in writing either of a general or specific nature to a recognised trading system provider.
-
-(2) Without prejudice to the generality of subsection (1), any direction issued under that subsection may relate to —
-
-(a) trading or the termination of trading on or through the facilities of that recognised trading system provider;
-
-(b) the manner in which a recognised trading system provider carries on its business; or
-
-(c) any other matter which the Authority considers necessary for the proper administration of this Act,
-
-and the recognised trading system provider shall comply with any such written direction.
-
-(3) A recognised trading system provider which, without reasonable justification or excuse, contravenes a direction issued under subsection (1), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-(4) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
-
-### Removal of officer of recognised trading system provider
-
-44\.—(1) Where the Authority is satisfied that an officer of a recognised trading system provider —
-
-(a) has wilfully contravened or wilfully caused that recognised trading system provider to contravene this Act;
-
-(b) has, without reasonable justification or excuse, failed to enforce compliance with this Act or the business rules of the recognised trading system provider, by that recognised trading system provider or a member of that recognised trading system provider or a person associated with that member;
-
-(c) has failed to discharge the duties or functions of his office;
-
-(d) is an undischarged bankrupt whether in Singapore or elsewhere;
-
-(e) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
-
-(f) has, whether in Singapore or elsewhere, made a compromise or scheme of arrangement with his creditors being a compromise or scheme of arrangement that is still in operation; or
-
-(g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly,
-
-the Authority may, if it thinks it necessary in the interest of the public, or section of the public or for the protection of investors, direct by notice in writing that recognised trading system provider to remove the officer from office or employment, and the recognised trading system provider shall comply with such notice, notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
-
-(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, in determining whether an officer of a recognised trading system provider has failed to discharge the duties or functions of his office for the purposes of subsection (1)(c), have regard to such criteria as may be prescribed or as may be specified in written directions.
-
-(3) Subject to subsection (4), the Authority shall not direct a recognised trading system provider to remove an officer from office or employment without giving the recognised trading system provider an opportunity to be heard.
-
-(4) The Authority may direct a recognised trading system provider to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the recognised trading system provider an opportunity to be heard:
-
-(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
-
-(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
-
-(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
-
-(ii) punishable with imprisonment for a term of 3 months or more.
-
-[16/2003 wef 22/12/2003]
-
-(5) Where the Authority directs a recognised trading system provider to remove the officer from office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
-
-(6) A recognised trading system provider that is aggrieved by the direction of the Authority to remove an officer from office or employment under subsection (1) may, within 30 days after it is notified of the direction, appeal to the Minister whose decision shall be final.
-
-(7) A recognised trading system provider which, without reasonable justification or excuse, contravenes a written notice issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-### Power of Authority to approve futures contracts
-
-45\.—(1) No recognised trading system provider shall permit the trading of any futures contract on a futures market established or operated by the recognised trading system provider without the prior approval of the Authority.
-
-(2) The Authority may grant approval for the trading of any futures contract on a futures market established or operated by a recognised trading system provider subject to such conditions or restrictions as the Authority may think fit.
-
-(3) A recognised trading system provider which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
-
-(4) A recognised trading system provider which contravenes any of the conditions or restrictions imposed under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-### Additional powers of Authority in respect of auditors
-
-46\.—(1) If an auditor, in the course of the performance of his duties as an auditor of a recognised trading system provider, becomes aware —
-
-(a) of any matter which, in his opinion, adversely affects or may adversely affect the financial position of the recognised trading system provider to a material extent;
-
-(b) of any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or a criminal offence involving fraud or dishonesty; or
-
-(c) of any irregularity that has or may have a material effect upon the accounts, including irregularities that affect or jeopardise or may affect or jeopardise the funds or property of investors in securities or futures contracts,
-
-the auditor shall immediately send to the Authority a report in writing of the matter or the irregularity.
-
-(2) An auditor shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).
-
-(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor has, apart from this section, as a defendant in an action for defamation.
-
-(4) The Authority may impose all or any of the following duties on an auditor of a recognised trading system provider:
-
-(a) a duty to submit such additional information and reports in relation to his audit as the Authority considers necessary;
-
-(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the recognised trading system provider;
-
-(c) a duty to carry out any other examination or establish any procedure in any particular case;
-
-(d) a duty to submit a report on any matter referred to in paragraph (b) or (c),
-
-and the auditor shall carry out such duties.
-
-(5) The recognised trading system provider shall remunerate the auditor in respect of the discharge by him of all or any of the duties referred to in subsection (4).
-
-(6) For the avoidance of doubt, sections 207 and 208 of the Companies Act (Cap. 50) shall, to the extent to which they may be applicable, apply to the discharge of an auditor’s duties under subsection (4).
-
-### Application of certain provisions in Division 2
-
-47\. Sections 16, 17, 20, 23, 24 and 48 shall apply, with any modifications as the Authority may deem appropriate, to such recognised trading system providers as the Authority may determine by notice in writing.
-
-Division 5 —
-
-Immunity
-
-### Immunity from criminal or civil liability
-
-48\. No criminal or civil liability shall be incurred by —
-
-(a) a securities exchange or futures exchange;
-
-(b) any person acting on behalf of a securities exchange or futures exchange, including —
-
-(i) any member of the board of directors of the securities exchange or futures exchange; or
-
-(ii) any member of any committee established by the securities exchange or futures exchange,
-
-in respect of anything done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this Act or the business rules or, where appropriate, listing rules of the securities exchange or futures exchange.
+(3) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
 
 ## PART III
 
 CLEARING FACILITIES
 
-Division 1 —
+[1/2005 wef 01/07/2005]
 
-Interpretation
+### Objectives of this Part
+
+47\. The objectives of this Part are —
+
+(a) to promote the safety and efficiency of clearing facilities that support systemically-important markets or form an integral part of the financial infrastructure; and
+
+(b) to reduce systemic risk.
 
 ### Interpretation of this Part
 
-49\.—(1) In this Part, unless the context otherwise requires —
+48\.—(1) In this Part, unless the context otherwise requires —
 
-“default proceedings” means proceedings or other action taken by a clearing house under its default rules;
+“default proceedings” means proceedings or other action taken by a designated clearing house under its default rules;
 
-“default rules”, in relation to a clearing house, means the business rules of a clearing house which provide for the taking of proceedings or other action if a participant has failed, or appears to be unable, or likely to become unable, to meet his obligations for all unsettled or open market contracts to which he is a party;
+“default rules”, in relation to a designated clearing house, means the business rules of the designated clearing house which provide for the taking of proceedings or other action if a participant has failed, or appears to be unable or to be likely to become unable, to meet his obligations for all unsettled or open market contracts to which he is a party;
 
 “defaulter” means a participant who is the subject of any default proceedings;
 
-“market charge” means a security interest, whether fixed or floating, granted in favour of a clearing house —
+“market charge” means a security interest, whether fixed or floating, granted in favour of a designated clearing house —
 
-(a) over property held by or deposited with the clearing house; and
+(a) over property held by or deposited with the designated clearing house; and
 
-(b) to secure liabilities arising directly in connection with the clearing house ensuring the performance of a market contract;
+(b) to secure liabilities arising directly in connection with the designated clearing house ensuring the performance of a market contract;
 
-“market collateral” means property held by or deposited with a clearing house for the purpose of securing liabilities arising directly in connection with the clearing house ensuring the performance of market contracts;
+“market collateral” means property held by, or deposited with, a designated clearing house for the purpose of securing liabilities arising directly in connection with the designated clearing house ensuring the performance of market contracts;
 
 “market contract” means —
 
-(a) a contract subject to the business rules of a clearing house entered into by the clearing house with a participant pursuant to a novation (however described) which is both in accordance with those business rules and for the purposes of the clearing or settlement of transactions using the clearing facility and subject to the business rules of a clearing house whether before or after default proceedings have commenced; or
+(a) a contract subject to the business rules of a designated clearing house that is entered into between the designated clearing house and a participant pursuant to a novation (however described), whether before or after default proceedings have commenced, which is in accordance with those business rules and for the purposes of the clearing or settlement of transactions using the clearing facility of the designated clearing house; or
 
-(b) a transaction which is being cleared or settled using the clearing facility and subject to the business rules of a clearing house, whether or not a novation referred to in paragraph (a) is to take place;
-
-“participant” means a person who, under the business rules of a clearing house, may participate in one or more of the services provided by the clearing house in its capacity as a clearing house;
+(b) a transaction which is being cleared or settled using the clearing facility of a designated clearing house and in accordance with the business rules of the designated clearing house, whether or not a novation referred to in paragraph (a) is to take place;
 
 “property”, in relation to a market charge or market collateral, means —
 
@@ -2714,23 +2960,23 @@ Interpretation
 
 (b) securities;
 
-(c) futures contracts and any similar financial contracts; or
+(c) futures contracts and any similar financial contract; or
 
-(d) other assets of value acceptable to the clearing house;
+(d) other assets of value acceptable to a designated clearing house;
 
 “relevant office holder” means —
 
 (a) the Official Assignee exercising his powers under the Bankruptcy Act (Cap. 20);
 
-(b) a person acting in relation to a company as its liquidator, provisional liquidator, receiver, receiver and manager, judicial manager or an equivalent officer; or
+(b) a person acting in relation to a company as its liquidator, its provisional liquidator, its receiver, its receiver and manager, its judicial manager or an equivalent officer; or
 
-(c) a person acting in relation to an individual as his trustee in bankruptcy or interim receiver of his property or an equivalent officer;
+(c) a person acting in relation to an individual as his trustee in bankruptcy, the interim receiver of his property or an equivalent officer;
 
 “settlement”, in relation to a market contract, includes partial settlement.
 
-(2) Where a charge is granted partly for the purpose specified in the definition of “market charge” and partly for other purposes, the charge shall be treated as a market charge under this Part in so far as it has effect for that specified purpose.
+(2) Where a charge is granted partly for the purpose specified in the definition of “market charge” and partly for any other purpose or purposes, the charge shall be treated as a market charge under this Part insofar as it has effect for that specified purpose.
 
-(3) Where collateral is granted partly for the purpose specified in the definition of “market collateral” and partly for other purposes, the collateral shall be treated as market collateral under this Part in so far as it has been provided for that specified purpose.
+(3) Where collateral is granted partly for the purpose specified in the definition of “market collateral” and partly for any other purpose or purposes, the collateral shall be treated as market collateral under this Part insofar as it has been provided for that specified purpose.
 
 (4) References in this Part to the law of insolvency are references to —
 
@@ -2738,41 +2984,103 @@ Interpretation
 
 (b) Parts VIIIA, IX and X of the Companies Act (Cap. 50); and
 
-(c) any other written law whether of Singapore or a place outside Singapore which is concerned with or in any way related to the bankruptcy or insolvency of a person,
+(c) any other written law, whether in Singapore or elsewhere, which is concerned with, or in any way related to, the bankruptcy or insolvency of a person, other than the Banking Act (Cap. 19).
 
-but does not include the Banking Act (Cap. 19).
+(5) References in this Part to settlement, in relation to a market contract, are references to the discharge of the rights and liabilities of the parties to the market contract, whether by performance, compromise or otherwise.
 
-(5) References in this Part to settlement in relation to a market contract are references to the discharge of the rights and liabilities of the parties to the market contract, whether by performance, compromise or otherwise.
+Division 1 —
 
-Division 2 —
+Establishment of Clearing Facilities
 
-Clearing Houses
+### Requirement to notify
 
-### Establishment of clearing house
+49\.—(1) Subject to subsection (2), no person shall establish or operate a clearing facility unless that person has notified the Authority of its intent to establish or operate a clearing facility at least 60 business days prior to the establishment, or commencement of operation, of the clearing facility.
 
-50\.—(1) Subject to subsections (2) and (3), no person shall establish or operate or assist in establishing or operating or hold himself out as operating a clearing facility unless that person has been approved by the Authority as a clearing house under section 51.
+(2) A person may apply to the Authority to reduce the period referred to in subsection (1) and the Authority may, in its discretion and in relation only to that person, substitute such other period as may be determined by the Authority in place of the period referred to in subsection (1).
 
-(2) Subsection (1) shall not apply to a holder of a capital markets services licence or an exempt person whose carrying on of the activities referred to in subsection (1) is incidental to its clearing or settlement of transactions as a member of a securities exchange, futures exchange or recognised trading system provider.
+(3) The notice referred to in subsection (1) shall provide information in such form and manner as may be prescribed by the Authority.
 
-(3) The Authority may declare any clearing facility or class of clearing facilities to be exempted from the prohibition under subsection (1), subject to such conditions or restrictions as it may think fit to impose.
+(4) The application referred to in subsection (2) shall provide information in such form and manner as may be prescribed by the Authority.
 
-(4) The Authority may revoke any exemption granted under subsection (3) if —
+(5) The Authority may require a person providing the notice referred to in subsection (1) to furnish the Authority with such information or documents as the Authority considers necessary in relation to the notice.
 
-(a) the person ceases to operate its clearing facility;
+(6) In subsection (1), “business day” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
 
-(b) the person is being wound up or otherwise dissolved;
+(7) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
-(c) the person is contravening or is likely to contravene or has contravened any condition or restriction of its approval or that is applicable to it under this Act;
+(8) Any person who contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(d) the person is contravening or is likely to contravene or has contravened any direction issued to it by the Authority;
+### Provision of information to Authority
 
-(e) the person is operating in a manner that is, in the opinion of the Authority, contrary to the public interest.
+50\.—(1) A person operating a clearing facility shall submit to the Authority such reports in such form, manner and frequency as the Authority may prescribe.
 
-(5) For the purposes of subsection (4)(a), a person shall be deemed to have ceased to operate its clearing facility if it has ceased to operate such facility for more than 30 days, unless it has obtained the prior approval of the Authority to do so.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
-(6) Subject to subsection (7), the Authority shall not revoke any exemption granted to a person under subsection (3) without giving the person an opportunity to be heard.
+### Notification of change of particulars
 
-(7) The Authority may revoke an exemption granted to a person under subsection (3) on any ground referred to in subsection (4) on the basis of any of the following circumstances without giving the person an opportunity to be heard:
+51\.—(1) A person operating a clearing facility shall, no later than 14 days after the occurrence of any of the following circumstances, notify the Authority of the circumstance:
+
+(a) a change of its chief executive officer;
+
+(b) a change of the address of the principal place of business at which it carries on the business of operating a clearing facility;
+
+(c) a material change in the business of the clearing facility;
+
+(d) an intention to cease operations of the clearing facility;
+
+(e) such other matter as the Authority may prescribe.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Obligation to assist Authority
+
+52\.—(1) A person operating a clearing facility shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of —
+
+(a) such books and other information —
+
+(i) relating to the business of the clearing facility; or
+
+(ii) in respect of any transaction or class of transactions cleared or settled by the clearing facility; and
+
+(b) such other information,
+
+as the Authority may require for the proper administration of this Act.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Exemption
+
+53\. Sections 49, 50 and 51 shall not apply to such persons or class of persons as may be prescribed by the Authority.
+
+### Power to stop commencement or order cessation
+
+54\.—(1) The Authority may, prior to the end of the notification period referred to in section 49(1) or such other period as may be substituted by the Authority under section 49(2), by notice in writing, order a person who has given notice under section 49(1) not to establish or commence operation of a clearing facility if —
+
+(a) the person did not furnish the Authority with such information or documents as required under section 49(5);
+
+(b) any information or document provided by the person to the Authority is false or misleading; or
+
+(c) the Authority is of the opinion that it is in the interests of the public to do so.
+
+(2) The Authority may, by notice in writing, order a person to cease operating its clearing facility if —
+
+(a) the person has contravened any provision of this Act or any other written law in the course of operating its clearing facility;
+
+(b) the person provided any information or document to the Authority that is false or misleading;
+
+(c) in the opinion of the Authority, the person is operating the clearing facility in a manner that is likely to pose systemic risk to the financial system of Singapore;
+
+(d) the person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(e) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the person;
+
+(f) the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly; or
+
+(g) the Authority is of the opinion that it is in the interests of the public to do so.
+
+(3) Subject to subsection (4), the Authority shall not make an order under subsection (1) or (2) without giving the person an opportunity to be heard.
+
+(4) The Authority may order a person not to establish or commence operation of a clearing facility under subsection (1) or to cease operating its clearing facility under subsection (2) on any of the following grounds without giving the person an opportunity to be heard:
 
 (a) the person is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
@@ -2780,311 +3088,641 @@ Clearing Houses
 
 (c) the person has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
 
-[16/2003 wef 22/12/2003]
+(5) Any person who is aggrieved by an order of the Authority made in relation to the person under subsection (1) or (2) may, within 30 days after the person is notified of that order, appeal to the Minister whose decision shall be final.
 
-(8) A person that is aggrieved by the decision of the Authority made under subsection (4) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
+(6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
 
-(9) Notwithstanding the lodging of an appeal under subsection (8), any action taken by the Authority under this section shall continue to have effect pending the determination or withdrawal of the appeal.
+(7) The Minister may, when deciding an appeal under subsection (5), make such modification as he considers necessary to any action taken by the Authority, and such modified action shall have effect from the date of the Minister’s decision.
 
-(10) The Minister may make such modification to any action taken by the Authority that is the subject of an appeal and such modified action shall have effect.
+(8) Any order made under subsection (2) shall not operate so as to —
 
-(11) Any revocation of exemption granted to a person under subsection (4) shall not operate so as to —
-
-(a) avoid or affect any agreement, transaction or arrangement entered into in connection with the use of a clearing facility operated by the person, whether the agreement, transaction or arrangement was entered into before or after the revocation of the exemption; or
+(a) avoid or affect any agreement, transaction or arrangement entered into in connection with the use of a clearing facility operated by the person, whether the agreement, transaction or arrangement was entered into before or after the order of the cessation; or
 
 (b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
 
-(12) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+(9) Any person who contravenes an order made under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
-(13) Any person who contravenes any of the conditions or restrictions imposed under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+Division 2 —
 
-### Power of Authority to approve clearing house
+Designation of Persons Operating Clearing Facilities
 
-51\.—(1) A corporation may apply to the Authority for approval to be a clearing house in such form and manner as the Authority may prescribe.
+### Designation of persons operating clearing facilities
 
-(2) The application shall be accompanied by the prescribed fee.
+55\.—(1) The Authority may designate a person operating a clearing facility as a designated clearing house for the purposes of this Act, if it is satisfied that —
 
-(3) The Authority may require a corporation to provide the Authority with such further information as it considers necessary in relation to the application, in such form or verified in such manner as the Authority may direct.
+(a) a disruption in the operations of the clearing facility could trigger, cause or transmit further systemic disruptions to capital markets or the financial system of Singapore;
 
-(4) The Authority may, in writing, subject to such conditions or restrictions as it may think fit to impose, approve a corporation as a clearing house if the Authority is satisfied that —
+(b) a disruption in the operations of the clearing facility could affect public confidence in capital markets, financial institutions or the financial system of Singapore; or
 
-(a) the corporation will ensure that, as far as is reasonably practicable, there are orderly, fair and expeditious arrangements for the clearing or settlement of transactions;
+(c) it is in the interests of the public to do so.
 
-(b) the corporation will manage any risks associated with its business and operations prudently;
+(2) The Authority shall give notice in theGazetteof any person designated under subsection (1).
 
-(c) the corporation, in discharging its obligations under paragraph (a), will not act contrary to the interests of the public, having particular regard to the interests of the investing public;
+(3) A designation by the Authority under subsection (1) shall continue to have effect until it is withdrawn by the Authority.
 
-(d) the corporation will enforce compliance by its members with its business rules;
+(4) The Authority shall not designate any person operating a clearing facility as a designated clearing house without giving that person an opportunity to be heard.
 
-(e) the business rules of the corporation make satisfactory provision for —
+(5) Any person operating a clearing facility who is aggrieved by a decision of the Authority to designate the person as a designated clearing house under subsection (1) may, within 30 days after the person is notified of the decision, appeal to the Minister whose decision shall be final.
 
-(i) the proper regulation and efficient operation of the clearing facility which it operates; and
+(6) Notwithstanding the lodging of an appeal under subsection (5), the designation by the Authority under this section shall continue to have effect pending the decision of the Minister.
+
+(7) The Minister may, when deciding an appeal under subsection (5), direct that the Authority shall not designate the person as a designated clearing house, and such order shall have effect from the date of the Minister’s decision.
+
+### Prohibition on holding out
+
+56\.—(1) No person shall hold himself out as a designated clearing house unless he has been designated by the Authority under section 55(1).
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+### General criteria to be taken into account by Authority
+
+57\. Without affecting the generality of section 55, the Authority may have regard to the following matters in determining whether it is satisfied of the considerations in section 55(1):
+
+(a) the size and structure, or proposed size and structure, of the clearing facility;
+
+(b) the nature of the services provided, or to be provided, by the clearing facility;
+
+(c) the nature of the transactions cleared, or to be cleared, by the clearing facility;
+
+(d) the market where the transactions cleared through the clearing facility are traded or to be traded;
+
+(e) the nature of the investors or participants, or proposed investors or participants, who may use or have an interest in the clearing facility;
+
+(f) whether the person operating the clearing facility is otherwise regulated by the Authority under this Act or any other written law;
+
+(g) whether the clearing facility takes on counterparty risks, through novation or otherwise, in the clearing or settlement of transactions;
+
+(h) the parties who may be affected in the event that the clearing facility runs into difficulties;
+
+(i) the interests of the public; and
+
+(j) any other circumstances that the Authority may deem relevant.
+
+### Withdrawal of designation
+
+58\.—(1) The Authority may withdraw the designation of any designated clearing house at any time, on its own initiative or on the application of the designated clearing house, if the Authority is of the opinion that the considerations in section 55(1) are no longer valid or satisfied.
+
+(2) The Authority shall give notice in theGazetteof any withdrawal under subsection (1).
+
+(3) The Authority shall not withdraw on its own initiative the designation of any person operating a clearing facility as a designated clearing house without giving the person an opportunity to be heard.
+
+Division 3 —
+
+Regulation of Designated Clearing Houses
+
+Subdivision (1) — Obligations of Designated Clearing Houses
+
+### General obligations
+
+59\.—(1) A designated clearing house shall —
+
+(a) as far as is reasonably practicable, operate a safe and efficient clearing facility;
+
+(b) manage any risks associated with its business and operations prudently;
+
+(c) in discharging its obligations under this Act, not act contrary to the interests of the public, having particular regard to the interests of the investing public;
+
+(d) ensure that access for participation in its clearing facility is subject to criteria that are fair and objective, and that are designed to ensure the safe and efficient functioning of its facility and to protect the interests of the investing public;
+
+(e) maintain business rules that make satisfactory provision for —
+
+(i) the clearing facility to be operated in a safe and efficient manner; and
 
 (ii) the proper regulation and supervision of its members;
 
-(f) the corporation has sufficient financial, human and system resources to —
+(f) enforce compliance by its members with its business rules;
 
-(i) establish and operate an orderly, fair and expeditious clearing facility;
+(g) have sufficient financial, human and system resources —
 
-(ii) meet contingencies or disasters; and
+(i) to operate a safe and efficient clearing facility;
 
-(iii) provide adequate security arrangements; and
+(ii) to meet contingencies or disasters; and
 
-(g) it would not be contrary to the interests of the investing public to approve the application.
+(iii) to provide adequate security arrangements; and
 
-(5) The Authority may impose different conditions or restrictions or give different directions with respect to different applications for approval to be a clearing house.
+(h) ensure that it appoints or employs fit and proper persons as its chairman, chief executive officer, directors and key management officers.
 
-(5A) Subject to subsection (5B), the Authority shall not refuse to grant an approval under subsection (4) without giving the applicant an opportunity to be heard.
+(2) The obligations imposed on the designated clearing house under this Act shall apply to all facilities for clearing or settlement operated by the designated clearing house.
 
-[16/2003 wef 22/12/2003]
+(3) Notwithstanding subsection (2), the Authority may by notice in writing exempt any clearing facility operated by a designated clearing house from all or any of the provisions of this Act, if the Authority is satisfied that such exemption would not detract from the objectives specified in section 47.
 
-(5B) The Authority may refuse to grant an approval to an applicant under subsection (4) on the ground that it would be contrary to the interests of the investing public to grant the approval on the basis of any of the following circumstances without giving the applicant an opportunity to be heard:
+(4) In subsection (1)(g), “contingencies or disasters” includes technical disruptions occurring within automated systems.
 
-(a) the applicant is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+### Obligation to notify Authority of certain matters
 
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the applicant;
+60\.—(1) A designated clearing house shall, as soon as practicable after the occurrence of any of the following circumstances, notify the Authority of the circumstance:
 
-(c) the applicant has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+(a) the carrying on of any business by the designated clearing house other than —
 
-[16/2003 wef 22/12/2003]
+(i) the business of operating a clearing facility;
 
-(6) An applicant that is aggrieved by the refusal of the Authority to grant an approval under subsection (4) may, within 30 days after he is notified of the decision, appeal to the Minister whose decision shall be final.
+(ii) a business incidental to operating a clearing facility; or
 
-(7) The Authority shall give notice in theGazetteof any clearing house that has been approved under this section.
+(iii) such business or class of businesses as the Authority may prescribe;
 
-(8) A clearing house which contravenes any of the conditions or restrictions imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(b) the acquisition by the designated clearing house of a substantial shareholding in a corporation which does not carry on —
 
-(9) In subsection (4)(f), “contingencies or disasters” includes, but is not limited to, events such as technical complications occurring within automated systems operated by the clearing house.
+(i) the business of operating a clearing facility;
 
-### Business rules of clearing house
+(ii) a business incidental to operating a clearing facility; or
 
-52\. Without limiting the generality of section 51(4)(e), the business rules of a clearing house shall make satisfactory provision —
+(iii) such business or class of businesses as the Authority may prescribe;
 
-(a) for the registration of or transfer of any market contract or class of market contracts;
+(c) the designated clearing house becoming aware of a financial irregularity or other matter which in its opinion —
 
-(b) for the settlement of transactions;
+(i) may affect its ability to discharge its financial obligations; or
 
-(c) for guaranteeing to its members the performance of futures contracts;
+(ii) may affect the ability of a member of the designated clearing house to meet its financial obligations to the designated clearing house;
 
-(d) for the expulsion, suspension or disciplining of members for any contravention of the business rules of the clearing house;
+(d) the designated clearing house reprimanding, fining, suspending, expelling or otherwise taking disciplinary action against a member of the designated clearing house;
 
-(e) for the taking of proceedings or other action if a member has failed, or appears to be unable, or likely to become unable, to meet his obligations for all unsettled or open market contracts to which he is a party; and
+(e) any other matter that the Authority may prescribe by regulations or specify by notice in writing to the designated clearing house.
 
-(f) generally for the carrying on of the business of the proposed clearing house with due regard to the interests and protection of the investing public.
+(2) Without prejudice to the generality of section 79(1), the Authority may, at any time after receiving a notification referred to in subsection (1), issue directions to the designated clearing house —
 
-### Power of Authority to make regulations
+(a) where the notification relates to a matter referred to in subsection (1)(a) —
 
-53\.—(1) Without prejudice to section 341, the Authority may make regulations relating to the approval of and the requirements applicable to a clearing house.
+(i) to cease carrying on the first-mentioned business referred to in subsection (1)(a); or
 
-(2) Regulations made under this section may provide —
+(ii) to carry on the first-mentioned business referred to in subsection (1)(a) subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 79(1); or
 
-(a) that a contravention of any specified provision thereof shall be an offence; and
+(b) where the notification relates to a matter referred to in subsection (1)(b) —
 
-(b) for penalties not exceeding a fine of $200,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+(i) to dispose of the shareholding referred to in subsection (1)(b); or
 
-[16/2003 wef 22/12/2003]
+(ii) to exercise its rights relating to such shareholding subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 79(1),
 
-### Continuing obligations of clearing house
+and the designated clearing house shall comply with such directions.
 
-54\.—(1) A clearing house shall continue to satisfy such conditions or restrictions imposed on it or as are required for the corporation to be approved as a clearing house, and in particular, the requirements specified in sections 51(4) and 52 and any regulations made under section 53.
+### Obligation to manage risks prudently
 
-(2) A clearing house which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+61\.—(1) Without prejudice to the generality of section 59(1)(b), a designated clearing house shall ensure that the systems and controls concerning the assessment and management of risks to its clearing facility are adequate and appropriate for the scale and nature of its operations.
 
-### Revocation of approval
+(2) Without prejudice to the generality of section 81S, the Authority may make regulations relating to the matters in subsection (1), including —
 
-55\.—(1) The Authority may revoke any approval granted under section 51 to a corporation if —
+(a) the limits in respect of positions held with the designated clearing house; and
 
-(a) the corporation ceases to operate its clearing facility;
+(b) the measures to manage any risks assumed by the designated clearing house.
 
-(b) the corporation is being wound up or otherwise dissolved;
+### Obligation in relation to customers’ money and assets held by designated clearing house
 
-(c) the corporation is contravening or is likely to contravene or has contravened any condition or restriction of its approval or that is applicable to it under this Act;
+62\.—(1) A designated clearing house which accepts money or assets deposited with or paid to it by its members in respect of or in relation to contracts of the customers of such members shall, in respect of all market contracts in relation to which money or assets are deposited with or paid to it (being market contracts which are cleared or settled by it), require each of its members to notify it in such manner as it may determine —
 
-(d) the corporation is contravening or is likely to contravene or has contravened any direction issued to it by the Authority;
+(a) whether a market contract is a contract of a customer of the member; and
 
-(e) the corporation is operating in a manner that is, in the opinion of the Authority, contrary to the public interest;
+(b) whether the money or assets being deposited with or paid to the designated clearing house is or are deposited or paid in respect of or in relation to a contract of a customer of the member.
 
-(f) any information provided by the corporation to the Authority under section 51 was false or misleading in a material particular; or
+(2) Where a member has notified the designated clearing house under subsection (1) that the money or assets are deposited or paid in respect of or in relation to a contract of a customer of the member, the designated clearing house shall —
 
-(g) the Authority deems fit upon the application of a corporation to cancel the approval.
+(a) account for all such money and assets on an aggregated basis, separate from all other money and assets received by the designated clearing house from the member; and
 
-(2) For the purposes of subsection (1)(a), a corporation shall be deemed to have ceased to operate its clearing facility if it has ceased to operate such facility for more than 30 days unless —
+(b) subject to sections 63 and 64, ensure that such money is deposited in a trust account, or such assets are deposited in a custody account, to be held for the benefit of the customers of the member and disposed of or used only in respect of or in relation to contracts of customers of the member.
 
-(a) it has obtained the prior approval of the Authority to do so; or
+(3) Where a designated clearing house has been convicted of an offence under section 70 for a contravention of subsection (2)(b), in so far as any money which has been deposited in a trust account, or any asset which has been deposited in a custody account, is used for any purpose other than —
 
-(b) it has ceased to operate such facility by virtue of any direction issued by the Authority under section 63.
+(a) in respect of or in relation to contracts of a customer of the member; or
 
-(3) Subject to subsection (4), the Authority shall not revoke any approval granted to a corporation under section 51 without giving the corporation an opportunity to be heard.
+(b) in accordance with sections 63 and 64,
 
-(4) The Authority may revoke an approval granted to a corporation under section 51 on any ground referred to in subsection (1) on the basis of any of the following circumstances without giving the corporation an opportunity to be heard:
+the designated clearing house shall —
 
-(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+(i) in the case of money, repay the money to the trust account referred to in subsection (2)(b); or
 
-(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation;
+(ii) in the case of assets —
 
-(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+(A) return the asset to the custody account referred to in subsection (2)(b); or
 
-[16/2003 wef 22/12/2003]
+(B) if the asset cannot be returned to the custody account, deposit an amount of money which is equivalent to the monetary value of the asset at the time of the contravention of subsection (2)(b) in a trust account referred to in subsection (2)(b) for the benefit of the customers of the member.
 
-(5) A corporation that is aggrieved by the decision of the Authority made under subsection (1) may, within 30 days after it is notified of the decision, appeal to the Minister whose decision shall be final.
+### Permissible use of customers’ money and assets by designated clearing house
 
-(6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority under this section shall continue to have effect pending the determination or withdrawal of the appeal.
+63\.—(1) Where a member of a designated clearing house fails to meet its obligations to the designated clearing house, the designated clearing house may use any money or assets deposited or paid in respect of or in relation to contracts of customers of the member and held by the designated clearing house, including any money deposited in the trust account and any assets deposited in the custody account referred to in section 62(2)(b), to meet the obligations of the member to the designated clearing house, if the designated clearing house has reasonable grounds for forming an opinion that —
 
-(7) The Minister may make such modification to any action taken by the Authority that is the subject of an appeal and such modified action shall have effect.
+(a) the failure of the member to meet the member’s obligations is directly attributable to the failure of any of the customers of the member to meet that customer’s obligations under any market contract; and
 
-### Effect of revocation
+(b) the failure to use the money or assets to meet the obligations of the member may jeopardise the financial integrity of the designated clearing house.
 
-56\. Any revocation of approval referred to in section 55 shall not operate so as to —
+(2) A designated clearing house shall notify the Authority prior to using any such money or assets in the circumstances specified in subsection (1).
 
-(a) avoid or affect any agreement, transaction or arrangement entered into in connection with the use of a clearing facility operated by the corporation, whether the agreement, transaction or arrangement was entered into before or after the revocation of the approval; or
+### Permissible investments of customers’ money and assets by designated clearing house
 
-(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
+64\.—(1) Subject to subsection (2), a designated clearing house may invest any money or assets deposited or paid in respect of or in relation to contracts of customers of a member and held by the designated clearing house in the course of its clearing or settlement activities, including any money deposited in the trust account and any assets deposited in the custody account referred to in section 62(2)(b), in any security, instrument or other form of investment arrangement as the Authority may prescribe.
 
-### Clearing house to assist Authority
+(2) The designated clearing house shall seek the approval of the Authority before investing any such money or assets under subsection (1).
 
-57\.—(1) A clearing house shall provide such assistance to the Authority as the Authority may reasonably require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of such books and other information relating to the business of the clearing house or in respect of any dealings in securities or trading in futures contracts, any clearing arrangements for securities or futures contracts or any other specified information as the Authority may require for the proper administration of this Act.
+(3) The designated clearing house seeking the approval of the Authority under subsection (2) shall satisfy the Authority —
 
-(2) A clearing house shall immediately notify the Authority if it becomes aware of a financial irregularity or other matter which in the opinion of the clearing house may indicate that the financial standing or integrity of a member is in question, or that a member may not be able to meet its legal obligations.
+(a) that the management of the investments made by the designated clearing house is consistent with the principles of preserving principal and maintaining sufficient liquidity to meet the obligations of customers of members of the designated clearing house;
 
-(3) A clearing house which, without reasonable justification or excuse, contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(b) that prudential measures have been adopted to manage the risks in respect of the designated clearing house’s investment activities; and
 
-### Control of substantial shareholding in clearing house
+(c) of any other matter which the Authority considers necessary for the sound management of the investments.
 
-57A\.—(1) No person shall enter into any agreement to acquire shares by virtue of which he would, if the agreement is carried out, acquire a substantial shareholding in a clearing house without first notifying the Authority of his intention to enter into the agreement and obtaining the approval of the Authority to his entering into the agreement.
+(4) The Authority may grant the approval referred to in subsection (2) subject to such conditions or restrictions as the Authority may think fit.
 
-(2) The Authority may grant its approval referred to in subsection (1) subject to such conditions or restrictions as the Authority may think fit.
+### Obligation to maintain proper records
 
-(3) Without prejudice to subsection (7), the Authority may, for the purposes of securing compliance with subsection (1) or any condition or restriction imposed under subsection (2), by notice in writing direct the transfer or disposal of all or any of the shares of the clearing house in which the substantial shareholder has or has had an interest.
+65\.—(1) A designated clearing house shall maintain a record of all transactions effected through its clearing facility in such form and manner as the Authority may prescribe.
 
-(4) Until the person to whom a direction is issued under subsection (3) transfers or disposes of the shares which are the subject of the direction, and notwithstanding anything to the contrary in the Companies Act (Cap. 50) or the memorandum or articles of association of the clearing house —
+(2) The matters which the Authority may prescribe under subsection (1) shall include —
 
-(a) no voting rights shall be exercisable in respect of the shares which are the subject of the direction;
+(a) the extent to which the record includes details of each transaction; and
 
-(b) the clearing house shall not offer or issue any shares (whether by way of rights, bonus, share dividend or otherwise) in respect of the shares which are the subject of the direction; and
+(b) the period of time that the record is to be maintained.
 
-(c) except in a liquidation of the clearing house, the clearing house shall not make any payment (whether by way of cash dividend or dividend in kind or otherwise) in respect of the shares which are the subject of the direction.
+### Obligation to submit periodic reports
 
-(5) Any issue of shares by the clearing house in contravention of subsection (4)(b) shall be deemed to be null and void and the person to whom a direction has been issued under subsection (3) shall immediately return those shares to the clearing house, upon which the clearing house shall return to the person any payment received from him in respect of those shares.
+66\. A designated clearing house shall submit to the Authority such reports in such form, manner and frequency as the Authority may prescribe.
 
-(6) Any payment made by the clearing house in contravention of subsection (4)(c) shall be deemed to be null and void and the person to whom a direction has been issued under subsection (3) shall immediately return the payment he has received to the clearing house.
+### Obligation to assist Authority
 
-(7) Any person who contravenes subsection (1) or any condition or restriction imposed by the Authority under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+67\. A designated clearing house shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of —
 
-(8) Any person who contravenes subsection (4)(b) or (c), (5) or (6) or any direction issued by the Authority under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(a) such books and other information —
 
-(9) For the avoidance of doubt, a direction issued under subsection (3) shall be deemed not to be subsidiary legislation.
+(i) relating to the business of the designated clearing house; or
 
-[16/2003 wef 22/12/2003]
+(ii) in respect of any transaction or class of transactions cleared or settled by the designated clearing house; and
 
-### Business rules of clearing house have effect as contract
+(b) such other information,
 
-58\.—(1) The business rules of a clearing house shall operate as a binding contract —
+as the Authority may require for the proper administration of this Act.
 
-(a) between the clearing house and each issuer;
+### Obligation to maintain confidentiality
 
-(b) between the clearing house and each participant;
+68\.—(1) Subject to subsection (2), a designated clearing house and its officers and employees shall maintain, and aid in maintaining, confidentiality of all user information that —
 
-(c) between each issuer and each participant; and
+(a) comes to the knowledge of the designated clearing house or any of its officers or employees; or
 
-(d) between a participant and any other participant,
+(b) is in the possession of the designated clearing house or any of its employees.
 
-under which each of the persons mentioned in paragraphs (a) to (d) agrees to observe and perform the provisions of the business rules as are in force for the time being, so far as those provisions are applicable to that person.
+(2) Subsection (1) shall not apply to —
 
-(2) For the purposes of this section, “issuer”, in relation to a security, means a person who issued or made available, or proposes to issue or make available, the security that is cleared or settled through the clearing facility operated by the clearing house.
+(a) the disclosure of user information for such purposes, or in such circumstances, as the Authority may prescribe;
 
-### Authority to be notified of amendments to business rules
+(b) any disclosure of user information which is authorised by the Authority to be disclosed or furnished; or
 
-59\.—(1) A clearing house that proposes to make any amendment by way of rescission, substitution, alteration or addition to its business rules shall immediately inform the Authority of the proposed amendment by written notice which shall state the date on which the amendment is proposed to be made, an explanation of the purpose of the amendment and provide the text of the amendment.
+(c) the disclosure of user information pursuant to any requirement imposed under any written law or order of court in Singapore.
 
-(2) An amendment (whether in its original form or altered or supplemented under subsection (3)) shall not come into force unless the written notice referred to in subsection (1) is given at least 21 days before the amendment is made.
+(3) For the avoidance of doubt, nothing in this section shall be construed as preventing a designated clearing house from entering into a written agreement with a user which obliges the designated clearing house to maintain a higher degree of confidentiality than that specified in this section.
 
-[16/2003 wef 22/12/2003]
+### Annual fees payable by designated clearing house
 
-(2A) Notwithstanding subsection (2), the Authority may, on the application of a clearing house, allow an amendment to come into force before the expiry of the period of 21 days referred to in that subsection.
+69\.—(1) Every designated clearing house shall pay to the Authority such annual fees as may be prescribed and in such manner as may be specified by the Authority.
 
-[16/2003 wef 22/12/2003]
+(2) The Authority may, where it considers appropriate, refund or remit the whole or part of any annual fee paid or payable to it.
 
-(3) The Authority may, within 21 days after the receipt of a notice under subsection (1), by notice in writing to the clearing house, disallow, alter or supplement the whole or any specified part of the amendment in question and, thereupon such whole or specified part of the amendment, as the case may be —
+### Penalties under this Subdivision
 
-(a) where it is disallowed, shall not come into force; or
+70\. Any designated clearing house which contravenes section 59(1), 60, 61(1), 62(2) or (3), 63(2), 64(2), 65, 66, 67 or 68(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
 
-(b) where it is altered or supplemented, shall come into force accordingly.
+Subdivision (2) — Rules of Designated Clearing Houses
 
-(4) The Authority may, in its discretion, by notice in writing to the clearing house, extend the period specified in subsection (3), and where the period is extended, the amendment shall not come into force before the expiry of the extended period.
+### Business rules of designated clearing houses
 
-(5) In addition to the power conferred upon the Authority under subsection (3), the Authority may of its own motion, by notice in writing to a clearing house —
+71\.—(1) Without limiting the generality of sections 59 and 81S —
 
-(a) alter or supplement the business rules of the clearing house; or
+(a) the Authority may prescribe the matters that a designated clearing house shall make provision for in the business rules of the designated clearing house; and
 
-(3) alter or supplement the terms and conditions for the clearing or settlement of any transaction or class of transactions by the clearing house,
+(b) the designated clearing house shall make provision for these matters in its business rules.
 
-if the Authority considers that such action is necessary for the protection of investors or to ensure an orderly, fair and expeditious clearing facility.
+(2) A designated clearing house shall not make any amendment to its business rules unless it complies with such requirements as the Authority may prescribe.
+
+(3) In this Subdivision, any reference to an amendment to a business rule shall be construed as a reference to a change to the scope of, or to any requirement, obligation or restriction under the business rule, whether the change is made by an alteration to the text of the rule or by any other notice issued by or on behalf of the designated clearing house.
+
+(4) Any designated clearing house which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Business rules of designated clearing houses have effect as contract
+
+72\.—(1) The business rules of a designated clearing house shall be deemed to be, and shall operate as, a binding contract —
+
+(a) between the designated clearing house and each issuer of securities;
+
+(b) between the designated clearing house and each participant;
+
+(c) between each issuer of securities and each participant; and
+
+(d) between each participant and every other participant.
+
+(2) The designated clearing house, each issuer of securities and each participant shall be deemed to have agreed to observe, and perform the obligations under, the provisions of the business rules that are in force for the time being, so far as those provisions are applicable to the designated clearing house, issuer or participant, as the case may be.
+
+(3) In this section, “issuer”, in relation to any securities, means a person who issued or made available, or proposes to issue or make available, the securities, being securities that are cleared or settled by the designated clearing house.
 
 ### Power of court to order observance or enforcement of business rules
 
-60\.—(1) Where any person who is under an obligation to comply with, observe, enforce or give effect to the business rules of a clearing house, fails to comply with, observe, enforce or give effect to any of those business rules, the High Court may, on the application of the Authority, a clearing house or a person aggrieved by the failure, and after giving to the person against whom the order is sought an opportunity to be heard, make an order directing that person to comply with, observe or enforce, or give effect to, those business rules.
+73\.—(1) Where any person who is under an obligation to comply with, observe, enforce or give effect to the business rules of a designated clearing house fails to do so, the High Court may, on the application of the Authority, a designated clearing house or a person aggrieved by the failure, after giving the first-mentioned person an opportunity to be heard, make an order directing the first-mentioned person to comply with, observe, enforce or give effect to those business rules.
 
-(2) For the purposes of this section, “person” includes a clearing house.
+(2) In this section, “person” includes a designated clearing house.
 
-(3) This section is in addition to and not in derogation of any other remedies available to the aggrieved person referred to in subsection (1).
+(3) This section is in addition to, and not in derogation of, any other remedies available to the aggrieved person referred to in subsection (1).
 
 ### Non-compliance with business rules not to substantially affect rights of person
 
-61\. Any failure by a clearing house to comply with this Act or its business rules in relation to a matter shall not prevent the matter from being treated for the purposes of this Act as done in accordance with the business rules so long as the failure does not substantially affect the rights of a person entitled to require compliance with the business rules.
+74\. Any failure by a designated clearing house to comply with this Act or its business rules in relation to a matter shall not prevent the matter from being treated, for the purposes of this Act, as done in accordance with the business rules so long as the failure does not substantially affect the rights of any person entitled to require compliance with the business rules.
 
-### Review of disciplinary action taken by clearing house
+Subdivision (3) — Matters Requiring Approval of Authority
 
-62\.—(1) Where a clearing house reprimands, fines, suspends, expels or otherwise takes disciplinary action against a member of the clearing house, it shall immediately inform the Authority in writing of the name of the member, the reason for, and nature of, the action taken, the amount of any fine imposed and the period of any suspension.
+### Control of substantial shareholding in designated clearing houses
 
-(2) The Authority may, on its own motion or on application by an aggrieved person, review any disciplinary action taken by a clearing house under subsection (1) and may affirm, modify or set aside the decision of the clearing house after giving the member and the clearing house an opportunity to be heard.
+75\.—(1) No person shall enter into any agreement to acquire shares in a designated clearing house by virtue of which he would, if the agreement had been carried out, become a substantial shareholder of the designated clearing house without first obtaining the approval of the Authority to enter into the agreement.
 
-(3) Nothing in this section shall preclude the Authority, in any case where a clearing house fails to act against a member, from suspending, expelling or otherwise disciplining a member of the clearing house, but before so doing, the Authority shall give the member and the clearing house an opportunity to be heard.
+(2) No person shall become —
 
-(4) Any person who is aggrieved by the decision of a clearing house or the Authority under this section may, within 30 days after he is notified of the decision, appeal to the Minister whose decision shall be final.
+(a) a 12% controller; or
 
-### Power of Authority to issue directions to clearing house
+(b) a 20% controller,
 
-63\.—(1) The Authority may, if it thinks it necessary or expedient —
+of a designated clearing house without first obtaining the approval of the Authority.
 
-(a) for ensuring the fair, orderly and expeditious clearing and settlement of transactions;
+(3) In subsection (2) —
 
-[16/2003 wef 22/12/2003]
+“12% controller” means a person, not being a 20% controller, who alone or together with his associates —
 
-(b) for ensuring the integrity and stability of the financial system; or
+(a) holds not less than 12% of the shares in the designated clearing house; or
 
-[16/2003 wef 22/12/2003]
+(b) is in a position to control not less than 12% of the votes in the designated clearing house;
 
-(c) in the interests of the public or section of the public or for the protection of investors,
+“20% controller” means a person who, alone or together with his associates —
 
-issue directions by notice in writing either of a general or specific nature to a clearing house.
+(a) holds not less than 20% of the shares in the designated clearing house; or
 
-(2) Without prejudice to the generality of subsection (1), any direction issued under that subsection may relate to —
+(b) is in a position to control not less than 20% of the votes in the designated clearing house.
 
-(a) the clearing or settlement of any transaction or class of transactions by a clearing house and the making of adjustments of contractual obligations arising out of that transaction or class of transactions;
+(4) In this section —
 
-[16/2003 wef 22/12/2003]
+(a) a person holds a share if —
 
-(b) the manner in which a clearing house carries on its business; and
+(i) he is deemed to have an interest in that share under section 7(6) to (10) of the Companies Act (Cap. 50); or
 
-(c) any other matter which the Authority considers necessary for the proper administration of this Act,
+(ii) he otherwise has a legal or an equitable interest in that share, except such interest as is to be disregarded under section 7(6) to (10) of the Companies Act;
 
-and the clearing house shall comply with any such direction.
+(b) a reference to the control of a percentage of the votes in a designated clearing house shall be construed as a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the designated clearing house; and
 
-(3) A clearing house which, without reasonable justification or excuse, contravenes a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(c) a person,A, is an associate of another person,B, if —
 
-(4) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+(i) Ais the spouse, a parent, remoter lineal ancestor or step-parent, a son, daughter, remoter issue, step-son or step-daughter or a brother or sister ofB;
 
-### Removal of officer of clearing house
+(ii) Ais a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofBor, whereBis a corporation, of the directors ofB;
 
-64\.—(1) Where the Authority is satisfied that an officer of a clearing house —
+(iii) Bis a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
 
-(a) has wilfully contravened or wilfully caused that clearing house to contravene this Act or the business rules of that clearing house;
+(iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
 
-(b) has, without reasonable justification or excuse, failed to enforce compliance with this Act or the business rules of the clearing house, by that clearing house, a member of that clearing house or a person associated with that member;
+(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
 
-(c) has failed to discharge the duties or functions of his office;
+(vi) Ais a related corporation ofB;
 
-(d) is an undischarged bankrupt whether in Singapore or elsewhere;
+(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inA;
+
+(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inB; or
+
+(ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their votes in relation to, the designated clearing house.
+
+(5) The Authority may grant its approval referred to in subsection (1) or (2) subject to such conditions or restrictions as the Authority may think fit.
+
+(6) Without prejudice to subsection (11), the Authority may, for the purposes of securing compliance with subsection (1) or (2) or any condition or restriction imposed under subsection (5), by notice in writing, direct the transfer or disposal of all or any of the shares of a designated clearing house in which a substantial shareholder, 12% controller or 20% controller of the designated clearing house has an interest.
+
+(7) Until a person to whom a direction has been issued under subsection (6) transfers or disposes of the shares which are the subject of the direction, and notwithstanding anything to the contrary in the Companies Act (Cap. 50) or the memorandum or articles of association or other constituent document or documents of the designated clearing house —
+
+(a) no voting rights shall be exercisable in respect of the shares which are the subject of the direction;
+
+(b) the designated clearing house shall not offer or issue any shares (whether by way of rights, bonus, share dividend or otherwise) in respect of the shares which are the subject of the direction; and
+
+(c) except in a liquidation of the designated clearing house, the designated clearing house shall not make any payment (whether by way of cash dividend, dividend in kind, or otherwise) in respect of the shares which are the subject of the direction.
+
+(8) Any issue of shares by a designated clearing house in contravention of subsection (7)(b) shall be deemed to be null and void, and a person to whom a direction has been issued under subsection (6) shall immediately return those shares to the designated clearing house, upon which the designated clearing house shall return to the person any payment received from him in respect of those shares.
+
+(9) Any payment made by a designated clearing house in contravention of subsection (7)(c) shall be deemed to be null and void, and a person to whom a direction has been issued under subsection (6) shall immediately return the payment he has received to the designated clearing house.
+
+(10) The Authority may exempt —
+
+(a) any person or class of persons; or
+
+(b) any class or description of shares or interests in shares,
+
+from subsection (1) or (2), subject to such conditions or restrictions as may be imposed by the Authority.
+
+(11) Any person who contravenes subsection (1) or (2), or any condition or restriction imposed by the Authority under subsection (5), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+(12) Any person who contravenes subsection (7)(b) or (c), (8) or (9) or any direction issued by the Authority under subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Approval of chairman, chief executive officer, director and key persons
+
+76\.—(1) No designated clearing house shall appoint a person as its chairman, chief executive officer or director unless the designated clearing house has obtained the approval of the Authority.
+
+(2) The Authority may, by notice in writing, require a designated clearing house to obtain the approval of the Authority for the appointment of any person to any key management position or committee of the designated clearing house and the designated clearing house shall comply with the notice.
+
+(3) An application for approval under subsection (1) or (2) shall be made in such form and manner as the Authority may prescribe.
+
+(4) Without prejudice to the generality of section 81S and any other matter that the Authority may consider relevant, the Authority may, in determining whether to grant its approval under subsection (1) or (2), have regard to such criteria as the Authority may prescribe or specify in directions issued by notice in writing.
+
+(5) Subject to subsection (6), the Authority shall not refuse an application for approval under this section without giving the designated clearing house an opportunity to be heard.
+
+(6) The Authority may refuse an application for approval on any of the following grounds without giving the designated clearing house an opportunity to be heard:
+
+(a) the person is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the person has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+(7) Where the Authority refuses an application for approval under this section, the Authority need not give the person who was proposed to be appointed an opportunity to be heard.
+
+(8) A designated clearing house shall, as soon as practicable, give written notice to the Authority of the resignation or removal of its chairman, chief executive officer, director or person referred to in the notice issued by the Authority under subsection (2).
+
+(9) Without prejudice to the generality of section 81S, the Authority may make regulations relating to the composition and duties of the board of directors or any committee of a designated clearing house.
+
+(10) In this section, “committee” includes any committee of directors, disciplinary committee, appeals committee or any body responsible for disciplinary action against a member of a designated clearing house.
+
+(11) The Authority may exempt any designated clearing house or a class of designated clearing houses from complying with subsection (1) or (8), subject to such conditions or restrictions as may be imposed by the Authority.
+
+(12) Subject to subsection (11), any designated clearing house which contravenes subsection (1), (2) or (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+### Listing of designated clearing houses on securities market
+
+77\.—(1) The securities of a designated clearing house shall not be listed for quotation on a securities market that is operated by any of its related corporations unless the designated clearing house and the operator of the securities market have entered into such arrangements as the Authority may require —
+
+(a) for dealing with possible conflicts of interest that may arise from such listing; and
+
+(b) for the purpose of ensuring the integrity of the trading of the securities of the designated clearing house.
+
+(2) Where the securities of a designated clearing house are listed for quotation on a securities market operated by any of its related corporations, the listing rules of the securities market shall be deemed to allow the Authority to act in place of the operator of the securities market in making decisions and taking action, or to require the operator of the securities market to make decisions and to take action on behalf of the Authority, on —
+
+(a) the admission or removal of the designated clearing house to or from the official list of the securities market; and
+
+(b) granting approval for the securities of a designated clearing house to be, or stopping or suspending the securities of the designated clearing house from being listed for quotation or quoted on the securities market.
+
+(3) The Authority may, by notice in writing to the operator of the securities market —
+
+(a) modify the listing rules of the securities market for the purpose of their application to the listing of the securities of the designated clearing house for quotation or trading; or
+
+(b) waive the application of any listing rule of the securities market to the designated clearing house.
+
+(4) Any designated clearing house which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+Subdivision (4) — Powers of Authority
+
+### Power to impose conditions or restrictions
+
+78\.—(1) The Authority may impose on a designated clearing house such conditions or restrictions as it thinks fit by notice in writing, in addition to the obligations imposed on the designated clearing house under this Division, for the purposes of furthering the objectives specified in section 47.
+
+(2) The Authority may, at any time, by notice in writing to the designated clearing house, vary any condition or restriction as it may think fit.
+
+(3) Without affecting the generality of subsection (1) or (2), the conditions or restrictions that the Authority may impose include conditions or restrictions relating to —
+
+(a) the activities that the designated clearing house may undertake;
+
+(b) the products that may be cleared by the clearing facility;
+
+(c) the nature of investors or participants who may use or participate in the clearing facility; and
+
+(d) the requirement for the designated clearing house to operate as a corporation.
+
+(4) Any designated clearing house which contravenes any condition or restriction imposed under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Power of Authority to issue directions
+
+79\.—(1) The Authority may, if it thinks it necessary or expedient —
+
+(a) for ensuring the safe and efficient clearing and settlement of transactions;
+
+(b) for ensuring the integrity and stability of the capital markets or the financial system;
+
+(c) in the interests of the public or a section of the public or for the protection of investors;
+
+(d) for the effective administration of this Act; or
+
+(e) for ensuring compliance with any condition or restriction as may be imposed by the Authority under section 60(2), 64(4), 75(5) or (10), 76(11), 78(1) or (2), or 81C, or such other obligations or requirements under this Act or as may be prescribed by the Authority,
+
+issue directions by notice in writing either of a general or specific nature to a designated clearing house,and the designated clearing house shall comply with such directions.
+
+(2) Any designated clearing house which, without reasonable excuse, contravenes a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(3) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
+
+### Power to order cessation of designated clearing houses
+
+80\.—(1) The Authority may, by notice in writing to a designated clearing house, order the designated clearing house to cease operating any of its clearing facilities if —
+
+(a) the designated clearing house fails to comply with any obligation imposed on it under section 59(1);
+
+(b) the designated clearing house contravenes any provision of this Act or any condition or restriction imposed on it, or direction issued to it, by the Authority under any provision of this Act;
+
+(c) the designated clearing house is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(d) the designated clearing house operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public;
+
+(e) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the designated clearing house;
+
+(f) the designated clearing house has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly; or
+
+(g) the designated clearing house has provided any information or document to the Authority that is false or misleading.
+
+(2) The Authority shall give notice in theGazetteof any order made under subsection (1).
+
+(3) Subject to subsection (4), the Authority shall not order a designated clearing house to cease operating a clearing facility under subsection (1) without giving the designated clearing house an opportunity to be heard.
+
+(4) The Authority may order a designated clearing house to cease operating a clearing facility under subsection (1) on any of the following grounds without giving the designated clearing house an opportunity to be heard:
+
+(a) the designated clearing house is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to, or in respect of, any property of the designated clearing house;
+
+(c) the designated clearing house has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+
+(5) Any designated clearing house that is aggrieved by a decision of the Authority made in relation to the designated clearing house under subsection (1) may, within 30 days after the designated clearing house is notified of the decision, appeal to the Minister whose decision shall be final.
+
+(6) Notwithstanding the lodging of an appeal under subsection (5), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
+
+(7) The Minister may, when deciding an appeal under subsection (5), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the Minister’s decision.
+
+(8) The Authority may direct, by notice in writing, a designated clearing house, to whom an order to cease operations of its clearing facility has been made by the Authority under subsection (1), to take such action as it considers necessary, including any of the following actions:
+
+(a) ordering the liquidation of all positions or part thereof or the reduction in such positions;
+
+(b) altering conditions of delivery of transactions cleared or settled or to be cleared or settled through the clearing facility;
+
+(c) fixing the settlement price at which transactions are to be liquidated;
+
+(d) requiring margins or additional margins for transactions cleared or settled or to be cleared or settled through the clearing facility;
+
+(e) modifying or suspending any of the business rules of the designated clearing house,
+
+and the designated clearing house shall comply with that direction.
+
+(9) The Authority may modify any action taken by a designated clearing house under subsection (8), including the setting aside of that action.
+
+(10) Any person who is aggrieved by any action taken by the Authority or a designated clearing house under subsection (8) or (9) may, within 30 days after the person is notified of the action, appeal to the Minister whose decision shall be final.
+
+(11) Notwithstanding the lodging of an appeal under subsection (10), any action taken by the Authority or a designated clearing house under this section shall continue to have effect pending the decision of the Minister.
+
+(12) The Minister may, when deciding an appeal under subsection (10), make such modification as he considers necessary to any action taken by the Authority or a designated clearing house under this section, and such modified action shall have effect from the date of the Minister’s decision.
+
+(13) Subject to any direction issued by the Authority under subsection (8) to the contrary, an order of cessation made under subsection (1) shall not operate so as to —
+
+(a) avoid or affect any agreement, transaction or arrangement entered into in connection with the use of the clearing facility operated by the designated clearing house, whether the agreement, transaction or arrangement was entered into before or after the order of the cessation; or
+
+(b) affect any right, obligation or liability arising under such agreement, transaction or arrangement.
+
+(14) Any designated clearing house which contravenes an order of cessation made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+(15) Any designated clearing house which fails to comply with a direction issued under subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Emergency powers of Authority
+
+81\.—(1) Where the Authority has reason to believe that an emergency exists, or thinks that it is necessary or expedient in the interests of the public or a section of the public or for the protection of investors, the Authority may direct by notice in writing a designated clearing house to take such action as it considers necessary to maintain or restore safe and efficient operations of the clearing facilities operated by the designated clearing house.
+
+(2) Without prejudice to subsection (1), the actions which the Authority may direct a designated clearing house to take include —
+
+(a) ordering the liquidation of all positions or part thereof or the reduction of such positions;
+
+(b) altering conditions of delivery of transactions cleared or settled or to be cleared or settled through the clearing facility;
+
+(c) fixing the settlement price at which transactions are to be liquidated;
+
+(d) requiring margins or additional margins for transactions cleared or settled or to be cleared or settled through the clearing facility; and
+
+(e) modifying or suspending any of the business rules of the designated clearing house.
+
+(3) Where a designated clearing house fails to comply with any direction of the Authority under subsection (1) within such time as is specified by the Authority, the Authority may —
+
+(a) set margin levels for transactions cleared or settled or to be cleared or settled through the clearing facility to cater for the emergency;
+
+(b) set limits that may apply to market positions acquired in good faith prior to the date of the notice issued by the Authority; or
+
+(c) take such other action as the Authority thinks fit to maintain or restore safe and efficient operations of the clearing facilities operated by the designated clearing house.
+
+(4) In this section, “emergency” means any threatened or actual market manipulation or cornering, and includes —
+
+(a) any act of any government affecting a commodity or securities;
+
+(b) any major market disturbance which prevents the market from accurately reflecting the forces of supply and demand for such commodity or securities; or
+
+(c) any undesirable situation or practice which, in the opinion of the Authority, constitutes an emergency.
+
+(5) The Authority may modify any action taken by a designated clearing house under subsection (1), including the setting aside of that action.
+
+(6) Any person who is aggrieved by any action taken by the Authority or a designated clearing house under this section may, within 30 days after the person is notified of the action, appeal to the Minister whose decision shall be final.
+
+(7) Notwithstanding the lodging of an appeal under subsection (6), any action taken by the Authority or a designated clearing house under this section shall continue to have effect pending the decision of the Minister.
+
+(8) The Minister may, when deciding an appeal under subsection (6), make such modification as he considers necessary to any action taken by the Authority or a designated clearing house under this section, and such modified action shall have effect from the date of the Minister’s decision.
+
+(9) Any designated clearing house which fails to comply with a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Power of Authority to remove officers
+
+81A\.—(1) Where the Authority is satisfied that an officer of a designated clearing house —
+
+(a) has wilfully contravened or wilfully caused that designated clearing house to contravene this Act or its business rules;
+
+(b) has, without reasonable excuse, failed to ensure compliance with this Act or the business rules of that designated clearing house, by that designated clearing house or a member of that designated clearing house or a person associated with that member;
+
+(c) has failed to discharge the duties or functions of his office or employment;
+
+(d) is an undischarged bankrupt, whether in Singapore or elsewhere;
 
 (e) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
 
@@ -3092,13 +3730,13 @@ and the clearing house shall comply with any such direction.
 
 (g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly,
 
-the Authority may, if it thinks it necessary in the interests of the public, or section of the public or for the protection of investors, direct by notice in writing that clearing house to remove the officer from office or employment, notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
+the Authority may, if it thinks it necessary in the interests of the public or a section of the public or for the protection of investors, by notice in writing direct that designated clearing house to remove the officer from his office or employment, and that designated clearing house shall comply with such notice, notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
 
-(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, in determining whether an officer of a clearing house has failed to discharge his duties or functions of his office for the purposes of subsection (1)(c), have regard to such criteria as may be prescribed or as may be specified in written directions.
+(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority may, in determining whether an officer of a designated clearing house has failed to discharge the duties or functions of his office or employment for the purposes of subsection (1)(c), have regard to such criteria as the Authority may prescribe or specify in directions issued by notice in writing.
 
-(3) Subject to subsection (4), the Authority shall not direct a clearing house to remove an officer from office or employment without giving the clearing house an opportunity to be heard.
+(3) Subject to subsection (4), the Authority shall not direct a designated clearing house to remove an officer from his office or employment without giving the designated clearing house an opportunity to be heard.
 
-(4) The Authority may direct a clearing house to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the clearing house an opportunity to be heard:
+(4) The Authority may direct a designated clearing house to remove an officer from his office or employment under subsection (1) on any of the following grounds without giving the designated clearing house an opportunity to be heard:
 
 (a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
 
@@ -3108,107 +3746,79 @@ the Authority may, if it thinks it necessary in the interests of the public, or 
 
 (ii) punishable with imprisonment for a term of 3 months or more.
 
-[16/2003 wef 22/12/2003]
+(5) Where the Authority directs a designated clearing house to remove an officer from his office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
 
-(5) Where the Authority directs a clearing house to remove from office or employment an officer under subsection (1), the Authority need not give that officer an opportunity to be heard.
+(6) Any designated clearing house that is aggrieved by a direction of the Authority made in relation to the designated clearing house under subsection (1) may, within 30 days after the designated clearing house is notified of the direction, appeal to the Minister whose decision shall be final.
 
-(6) A clearing house that is aggrieved by the direction of the Authority to remove an officer from office or employment under subsection (1) may, within 30 days after it is notified of the direction, appeal to the Minister whose decision shall be final.
+(7) Notwithstanding the lodging of an appeal under subsection (6), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
 
-(7) A clearing house which, without reasonable excuse, fails or refuses to comply with a written notice issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(8) The Minister may, when deciding an appeal under subsection (6), make such modifications as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the Minister’s decision.
 
-### Emergency powers of Authority
+(9) Subject to subsection (10), no criminal or civil liability shall be incurred by a designated clearing house in respect of any thing done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this section.
 
-65\.—(1) Where the Authority has reason to believe that an emergency exists, or where it is necessary or expedient in the interests of the public or section of the public or for the protection of investors, the Authority may direct by notice in writing a clearing house to take such action as it considers necessary including but not limited to —
-
-(a) altering conditions of delivery;
-
-(b) fixing the settlement price;
-
-(c) requiring margins or additional margins; and
-
-(d) modifying or suspending any of the business rules of the clearing house,
-
-and the clearing house shall comply with that direction.
-
-(2) Where a clearing house fails to comply with the direction of the Authority under subsection (1) within such time as is specified by the Authority, the Authority may —
-
-(a) set emergency margin levels; or
-
-(b) take such other action, including but not limited to those specified in subsection (1), as the Authority thinks fit to maintain or restore fair, orderly and expeditious arrangements for the clearing or settlement of any transaction or class of transactions.
-
-(3) In this section, “emergency” means threatened or actual market manipulations and corners, and includes —
-
-(a) any act of government affecting a commodity;
-
-(b) any other major market disturbance which prevents the market from accurately reflecting the forces of supply and demand for such commodity; or
-
-(c) any other undesirable situations or practices which in the opinion of the Authority constitutes an emergency.
-
-(4) Without prejudice to subsection (1), where a clearing house takes emergency action under subsection (1), the Authority may modify such emergency action, including but not limited to the setting aside of that emergency action.
-
-(5) Any person who is aggrieved by any action taken by the Authority or a clearing house under this section may, within 30 days after he is notified of the action, appeal to the Minister whose decision shall be final.
-
-(6) Notwithstanding the lodging of an appeal under subsection (5), any emergency action taken by the Authority or a clearing house under this section shall continue to have effect pending the determination or withdrawal of the appeal.
-
-(7) The Minister may make such modification to any emergency action, taken by the Authority or a clearing house, that is the subject of an appeal and such modified emergency action shall have effect.
+(10) Any designated clearing house which, without reasonable excuse, contravenes a written notice issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
 ### Additional powers of Authority in respect of auditors
 
-66\.—(1) If an auditor, in the course of the performance of his duties as an auditor of a clearing house, becomes aware of —
+81B\.—(1) If an auditor of a designated clearing house, in the course of the performance of his duties, becomes aware of —
 
-(a) any matter which, in his opinion, adversely affects or may adversely affect the financial position of the clearing house to a material extent;
+(a) any matter which, in his opinion, adversely affects or may adversely affect the financial position of the designated clearing house to a material extent;
 
-(b) any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or a criminal offence involving fraud or dishonesty; or
+(b) any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or an offence involving fraud or dishonesty; or
 
-(c) any irregularity that has or may have a material effect upon the accounts, including irregularities that affect or jeopardise or may affect or jeopardise the funds or property of investors,
+(c) any irregularity that has or may have a material effect upon the accounts of the designated clearing house, including any irregularity that affects or jeopardises, or may affect or jeopardise, the funds or property of investors,
 
-the auditor shall immediately send to the Authority a written report of the matter or irregularity.
+the auditor shall immediately send to the Authority a written report of the matter or the irregularity.
 
 (2) An auditor shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).
 
-(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor has, apart from this section, as a defendant in an action for defamation.
+(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor may have, apart from this section, as a defendant in an action for defamation.
 
-(4) The Authority may impose all or any of the following duties on an auditor of the clearing house:
+(4) The Authority may impose all or any of the following duties on an auditor of a designated clearing house:
 
 (a) a duty to submit such additional information and reports in relation to his audit as the Authority considers necessary;
 
-(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the clearing house;
+(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the designated clearing house;
 
 (c) a duty to carry out any other examination or establish any procedure in any particular case;
 
-(d) a duty to submit a report on any matter referred to in paragraph (b) or (c),
+(d) a duty to submit a report on any matter arising out of his audit, examination or establishment of procedure referred to in paragraph (b) or (c),
 
 and the auditor shall carry out such duties.
 
-(5) The clearing house shall remunerate the auditor in respect of the discharge by him of all or any of the duties referred to in subsection (4).
+(5) The designated clearing house shall remunerate the auditor in respect of the discharge by him of all or any of the duties referred to in subsection (4).
 
-(6) For the avoidance of doubt, sections 207 and 208 of the Companies Act (Cap. 50) shall, to the extent to which they may be applicable, apply to the discharge of an auditor’s duties under subsection (4).
+### Power of Authority to exempt designated clearing houses from provisions of this Part
 
-### Immunity of clearing house, etc.
+81C\. The Authority may exempt a designated clearing house or a class of designated clearing houses from any of the provisions of this Part if it is satisfied that the non-compliance by such designated clearing house or class of designated clearing houses with such provision would not detract from the objectives specified in section 47, subject to such conditions or restrictions as may be imposed by the Authority.
 
-67\. No criminal or civil liability shall be incurred by —
+Subdivision (5) — Immunity
 
-(a) a clearing house; or
+### Immunity from criminal or civil liability
 
-(b) any person acting on behalf of a clearing house, including —
+81D\. No criminal or civil liability shall be incurred by —
 
-(i) any member of the board of directors of the clearing house; and
+(a) a designated clearing house; or
 
-(ii) any member of any committee established by the clearing house,
+(b) any person acting on behalf of a designated clearing house, including —
 
-in respect of anything done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this Act or the business rules of the clearing house, including its default rules.
+(i) any director of the designated clearing house; or
 
-Division 3 —
+(ii) any member of any committee established by the designated clearing house,
 
-Clearing House and Insolvency
+for any thing done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of, or in connection with, the discharge or purported discharge of its or his obligations under this Act or the business rules of the designated clearing house, including its default rules.
+
+Division 4 —
+
+Insolvency
 
 ### Application of this Division
 
-68\. This Division shall apply to such transaction or class of transactions cleared or settled by any clearing house or class of clearing houses, and to such extent as may be prescribed by the Authority.
+81E\. This Division shall apply to such transaction or class of transactions cleared or settled by any designated clearing house or class of designated clearing houses, and to such extent as may be prescribed by the Authority.
 
-### Proceedings of clearing house shall take precedence over law of insolvency
+### Proceedings of designated clearing house shall take precedence over law of insolvency
 
-69\.—(1) The following shall not be to any extent invalid at law on the ground of inconsistency with the law for distribution of the assets of a person on insolvency, bankruptcy or winding up, or on the appointment of a receiver, receiver and manager or an equivalent officer over any of the assets of a person:
+81F\.—(1) The following shall not be invalid to any extent at law by reason only of inconsistency with any law relating to the distribution of the assets of a person on insolvency, bankruptcy or winding up, or on the appointment of a receiver, a receiver and manager or an equivalent officer over any of the assets of a person:
 
 (a) a market contract;
 
@@ -3216,49 +3826,47 @@ Clearing House and Insolvency
 
 (c) the provision of market collateral;
 
-(d) a contract effected by a clearing house for the purpose of realising property provided as market collateral, or any disposition of property pursuant to such a contract;
+(d) a contract effected by a designated clearing house for the purpose of realising property provided as market collateral, or any disposition of property pursuant to such a contract;
 
-(e) a disposition of property in accordance with the business rules of a clearing house as to the application of property provided as market collateral;
+(e) a disposition of property in accordance with the business rules of a designated clearing house as to the application of property provided as market collateral;
 
 (f) a disposition of property as a result of which the property becomes subject to a market charge, or any transaction pursuant to which that disposition is made;
 
 (g) a disposition of property for the purpose of enforcing a market charge;
 
-(h) a market charge; and
+(h) a market charge;
 
 (i) any default proceedings.
 
-(2) A relevant office holder, or a court applying the law of insolvency in Singapore, shall not exercise its power to prevent or interfere with —
+(2) A relevant office holder, or a court applying the law relating to insolvency in Singapore, shall not exercise his or its power to prevent, or interfere with —
 
-(a) the settlement of a market contract in accordance with the business rules of a clearing house or proceedings or other action taken under those business rules; or
+(a) the settlement of a market contract in accordance with the business rules of a designated clearing house, or proceedings or other action taken under those business rules; or
 
 (b) default proceedings.
 
-(3) Subsection (2) shall not operate to prevent a relevant office holder from recovering an amount under section 75 after the completion of a specified event referred to in section 75(3).
+(3) Subsection (2) shall not operate to prevent a relevant office holder from recovering an amount under section 81L after the completion of a specified event referred to in section 81L(3).
 
-(4) Where a participant which is also a bank licensed under the Banking Act (Cap. 19) becomes insolvent, the liabilities of the bank accorded priority under sections 61 and 62 of that Act and the Payment and Settlement Systems (Finality and Netting) Act 2002 (Act 39 of 2002) shall have priority over unsecured liabilities of the bank accorded priority under the provisions of this Division.
-
-[39/2002]
+(4) Where a participant which is also a bank licensed under the Banking Act (Cap. 19) becomes insolvent, the liabilities of the bank accorded priority under sections 61 and 62 of that Act and the Payment and Settlement Systems (Finality and Netting) Act (Cap. 231) shall have priority over unsecured liabilities of the bank accorded priority under the provisions of this Division.
 
 ### Supplementary provisions as to default proceedings
 
-70\.—(1) A court may, on application by a relevant office holder, make an order to alter, or to release the relevant office holder from complying with, the functions of his office that are affected by default proceedings if default proceedings have been, could be, or could have been, taken.
+81G\.—(1) A court may, on the application of a relevant office holder, make an order to alter, or to release the relevant office holder from complying with, the functions of his office that are affected by default proceedings if default proceedings have been, could be, or could have been, taken.
 
 (2) The functions of the relevant office holder shall be construed subject to an order made under subsection (1).
 
-(3) Sections 45, 74 and 76 of the Bankruptcy Act (Cap. 20) and sections 210, 258, 260, 262(3), 299(1) and 309 of the Companies Act (Cap. 50) shall not prevent or interfere with any default proceedings.
+(3) Sections 45, 74 and 76 of the Bankruptcy Act (Cap. 20) and sections 210, 258, 260, 262(3), 299(1) and 309 of the Companies Act (Cap. 50) shall not prevent, or interfere with, any default proceedings.
 
 ### Duty to report on completion of default proceedings
 
-71\.—(1) A clearing house shall, upon the completion by it of default proceedings, make a report on such proceedings stating in respect of each defaulter —
+81H\.—(1) A designated clearing house shall, upon the conclusion of any default proceeding commenced by it, make a report on those proceedings stating in respect of each defaulter who is a subject of those proceedings —
 
-(a) the net sum, if any, certified by the clearing house to be payable by or to the defaulter; or
+(a) the net sum, if any, certified by the designated clearing house to be payable by or to the defaulter; or
 
 (b) the fact that no sum is so payable,
 
-as the case may be, and the clearing house may include in that report such other particulars in respect of such proceedings as it thinks fit.
+as the case may be, and the designated clearing house may include in that report such other particulars in respect of those proceedings as it thinks fit.
 
-(2) A clearing house which has made a report under subsection (1) shall supply the report to —
+(2) A designated clearing house which has made a report under subsection (1) shall supply the report to —
 
 (a) the Authority;
 
@@ -3266,11 +3874,11 @@ as the case may be, and the clearing house may include in that report such other
 
 (i) the defaulter to whom the report relates; or
 
-(ii) that defaulter’s estate;
+(ii) the estate of that defaulter; and
 
-(c) if there is no relevant office holder referred to in paragraph (b), the defaulter to whom the report relates.
+(c) where there is no relevant office holder referred to in paragraph (b), the defaulter to whom the report relates.
 
-(3) The clearing house shall publish a notice of the fact that a report has been made under subsection (1) in such manner as it thinks appropriate to bring that fact to the attention of the creditors of the defaulter to whom the report relates.
+(3) The designated clearing house shall publish a notice of the fact that a report has been made under subsection (1) in such manner as it thinks appropriate to bring that fact to the attention of the creditors of the defaulter to whom the report relates.
 
 (4) Where a relevant office holder or defaulter receives under subsection (2) a report made under subsection (1), he shall, at the request of a creditor of the defaulter to whom the report relates —
 
@@ -3282,27 +3890,27 @@ as the case may be, and the clearing house may include in that report such other
 
 ### Net sum payable on completion of default proceedings
 
-72\.—(1) This section shall apply to any net sum certified under section 71(1)(a) by a clearing house, upon the completion by it of any default proceedings, to be payable by or to a defaulter.
+81I\.—(1) This section shall apply to any net sum certified under section 81H(1) (a) by a designated clearing house, upon the completion by it of any default proceedings, to be payable by or to a defaulter.
 
-(2) Notwithstanding section 87 or 88 of the Bankruptcy Act (Cap. 20), and section 327 of the Companies Act (Cap. 50), where a receiving or winding up order has been made, or a resolution for voluntary winding up has been passed, any net sum as certified under section 71(1)(a) shall be —
+(2) Notwithstanding section 87 or 88 of the Bankruptcy Act (Cap. 20), and section 327 of the Companies Act (Cap. 50), where a receiving or winding up order has been made, or a resolution for voluntary winding up has been passed, any net sum as certified under section 81H(1)(a) shall —
 
-(a) provable in the bankruptcy or winding up or, as the case may be, payable to the relevant office holder; and
+(a) be provable in the bankruptcy or winding up or payable to the relevant office holder, as the case may be; and
 
-(b) taken into account, where appropriate, under section 88 of the Bankruptcy Act or section 327 of the Companies Act.
+(b) be taken into account, where appropriate, under section 88 of the Bankruptcy Act or section 327 of the Companies Act.
 
 ### Disclaimer of onerous property, rescission of contracts, etc.
 
-73\.—(1) Section 110 of the Bankruptcy Act and section 332 of the Companies Act shall not apply to —
+81J\.—(1) Section 110 of the Bankruptcy Act and section 332 of the Companies Act shall not apply —
 
-(a) a market contract;
+(a) to a market contract;
 
-(b) a contract effected by a clearing house for the purpose of realising property provided as market collateral;
+(b) to a contract effected by a designated clearing house for the purpose of realising property provided as market collateral;
 
-(c) a market charge; or
+(c) to a market charge; or
 
-(d) any default proceedings.
+(d) to any default proceedings.
 
-(2) Section 77 of the Bankruptcy Act (Cap. 20) and sections 259 and 299(1) of the Companies Act (Cap. 50) shall not apply to any act, matter or thing which has been done under —
+(2) Section 77 of the Bankruptcy Act and sections 259 and 299(1) of the Companies Act shall not apply to any act, matter or thing which has been done under —
 
 (a) a market contract;
 
@@ -3310,9 +3918,9 @@ as the case may be, and the clearing house may include in that report such other
 
 (c) the provision of market collateral;
 
-(d) a contract effected by a clearing house for the purpose of realising property provided as market collateral, or any disposition of property pursuant to such a contract;
+(d) a contract effected by a designated clearing house for the purpose of realising property provided as market collateral, or any disposition of property pursuant to such a contract;
 
-(e) a disposition of property in accordance with the business rules of a clearing house relating to the application of property provided as market collateral;
+(e) a disposition of property in accordance with the business rules of a designated clearing house relating to the application of property provided as market collateral;
 
 (f) a disposition of property as a result of which the property becomes subject to a market charge, or any transaction pursuant to which that disposition is made;
 
@@ -3324,17 +3932,17 @@ as the case may be, and the clearing house may include in that report such other
 
 ### Adjustment of prior transactions
 
-74\.—(1) No order shall be made by a court under —
+81K\.—(1) No order shall be made by a court under —
 
-(a) section 98 or 99 of the Bankruptcy Act;
+(a) section 98 or 99 of the Bankruptcy Act (Cap. 20);
 
-(b) section 227T, 329 or 331 of the Companies Act; or
+(b) section 227T, 329 or 331 of the Companies Act (Cap. 50); or
 
 (c) section 73B of the Conveyancing and Law of Property Act (Cap. 61),
 
 in relation to any matter to which this section applies.
 
-(2) The matters to which this section applies are specified as follows:
+(2) The matters to which this section applies are —
 
 (a) a market contract;
 
@@ -3342,43 +3950,37 @@ in relation to any matter to which this section applies.
 
 (c) the provision of market collateral;
 
-(d) a contract effected by a clearing house for the purpose of realising property provided as market collateral;
+(d) a contract effected by a designated clearing house for the purpose of realising property provided as market collateral;
 
-(e) a disposition of property in accordance with the business rules of a clearing house relating to the application of property provided as market collateral;
+(e) a disposition of property in accordance with the business rules of a designated clearing house relating to the application of property provided as market collateral;
 
 (f) a disposition of property as a result of which the property becomes subject to a market charge, or any transaction pursuant to which that disposition is made;
 
 (g) a disposition of property for the purpose of enforcing a market charge;
 
-(h) a market charge; and
+(h) a market charge;
 
 (i) any default proceedings.
 
 ### Right of relevant office holder to recover certain amounts arising from certain transactions
 
-75\.—(1) Where a participant (referred to as the first participant) sells securities at an over-value to, or purchases securities at an under-value from, another participant (referred to as the second participant) in circumstances as described in subsection (3), and thereafter a relevant office holder acts for —
+81L\.—(1) Where a participant (referred to as the first participant) sells securities at an over-value to, or purchases securities at an under-value from, another participant (referred to as the second participant) in the circumstances referred to in subsection (3), and thereafter a relevant office holder acts for —
 
 (a) the second participant;
 
 (b) the principal of the second participant in the sale or purchase; or
 
-(c) the estate of the second participant or of the person referred to in paragraph (b),
+(c) the estate of the second participant or person referred to in paragraph (b),
 
-unless a court otherwise orders, the relevant office holder may recover, from the first participant, or the principal of the first participant, an amount equal to the specified gain obtained under the sale or purchase by the first participant, or the principal of the first participant.
+then, unless a court otherwise orders, the relevant office holder may recover from the first participant, or the principal of the first participant, an amount equal to the specified gain obtained under the sale or purchase by the first participant, or the principal of the first participant.
 
-(2) The amount equal to the specified gain is recoverable even if the sale or purchase may have been discharged according to the business rules of a clearing house and replaced by a market contract.
+(2) The amount equal to the specified gain is recoverable even if the sale or purchase may have been discharged according to the business rules of a designated clearing house and replaced by a market contract.
 
-(3) The circumstances referred to in subsection (1) for a sale or purchase shall be when —
+(3) The circumstances referred to in subsection (1) are that —
 
-(a) a specified event has occurred in relation to the second participant or the principal of the second participant;
+(a) a specified event has occurred in relation to the second participant or the principal of the second participant within the period of 6 months immediately following the date on which the sale or purchase was entered into; and
 
-(b) either —
-
-(i) the first participant knew, or ought reasonably to have known that a specified event was likely to occur in relation to the second participant or the principal of the second participant; or
-
-(ii) the principal of the first participant knew or ought reasonably to have known that a specified event was likely to occur to the second participant or the principal of the second participant,
-
-and the specified event occurs within the period of 6 months immediately following the date on which the sale or purchase was entered into.
+(b) at the time the sale or purchase was entered into, the first participant or the principal of the first participant knew, or ought reasonably to have known, that a specified event was likely to occur in relation to the second participant or the principal of the second participant.
 
 (4) In this section —
 
@@ -3396,7 +3998,7 @@ and the specified event occurs within the period of 6 months immediately followi
 
 “specified gain”, in relation to a sale or purchase referred to in subsection (1), means the difference between —
 
-(a) the market value of the securities which is the subject of the sale or purchase; and
+(a) the market value of the securities which are the subject of the sale or purchase; and
 
 (b) the value of the consideration for the sale or purchase,
 
@@ -3404,45 +4006,45 @@ as at the time the sale or purchase was entered into.
 
 ### Application of market collateral not affected by certain other interest, etc.
 
-76\.—(1) The provisions of this section shall have effect with respect to the application by a clearing house of property provided as market collateral (referred to as the property).
+81M\.—(1) This section shall have effect with respect to the application of a designated clearing house of property provided as market collateral (referred to in this section as the property).
 
-(2) The property may be applied in accordance with the business rules of a clearing house so far as it is necessary for it to be so applied notwithstanding —
+(2) The property may be applied in accordance with the business or default rules of a designated clearing house so far as it is necessary for it to be so applied notwithstanding —
 
-(a) any prior equitable interest or right, or any right or remedy arising from a breach of fiduciary duty, unless the clearing house had actual notice of the interest, right or breach of duty (but not including any interest or right arising from the situation referred to in paragraph (b)), as the case may be, at the time the property was provided as market collateral; or
+(a) any prior equitable interest or right, or any right or remedy arising from a breach of fiduciary duty, unless the designated clearing house had actual notice of the interest, right or breach of duty (other than any interest or right arising from the situation referred to in paragraph (b)), as the case may be, at the time the property was provided as market collateral; or
 
-(b) that the property is deposited by the clearing house in a trust account held for the benefit of a participant.
+(b) that the property is deposited by the designated clearing house in a trust account held for the benefit of a participant.
 
-(3) No right or remedy arising subsequent to the provision of the property as market collateral may be enforced to prevent or interfere with the application of the property by the clearing house in accordance with its business rules.
+(3) No right or remedy arising subsequent to the provision of the property as market collateral may be enforced to prevent, or interfere with, the application of the property by the designated clearing house in accordance with its business or default rules.
 
-(4) Where a clearing house has power under this section to apply the property notwithstanding an interest, right or remedy, a person to whom the clearing house disposes of the property in accordance with its business rules shall take free from that interest, right or remedy.
+(4) Where a designated clearing house has power under this section to apply the property notwithstanding an interest, a right or a remedy, a person to whom the designated clearing house disposes of the property in accordance with its business or default rules shall take free from that interest, right or remedy.
 
 ### Enforcement of judgments over property subject to market charge, etc.
 
-77\.—(1) Where property is subject to a market charge or has been provided as market collateral, no execution or other legal process for the enforcement of a judgment or order may be commenced or continued, and no distress may be levied, against the property by a person not seeking to enforce any interest in or security over the property, except with the consent of the clearing house concerned.
+81N\.—(1) Where property is subject to a market charge or has been provided as market collateral, no execution or other legal process for the enforcement of a judgment or an order may be commenced or continued, and no distress may be levied, against the property by a person not seeking to enforce any interest in, or security over, the property, except with the consent of the designated clearing house concerned.
 
-(2) Where by virtue of this section a person would not be entitled to enforce a judgment or order against any property, any injunction or other remedy granted by any court with a view to facilitating the enforcement of any such judgment or order shall not extend to that property.
+(2) Where by virtue of this section a person would not be entitled to enforce a judgment or an order against any property, any injunction or other remedy granted by any court with a view to facilitating the enforcement of any such judgment or order shall not extend to that property.
 
 ### Law of insolvency in other jurisdictions
 
-78\.—(1) Notwithstanding any written law or rule of law, a court shall not recognise or give effect to —
+81O\.—(1) Notwithstanding any other written law or rule of law, a court shall not recognise or give effect to —
 
 (a) an order of a court exercising jurisdiction under the law of insolvency in a place outside Singapore; or
 
-(b) an act of a person appointed in a place outside Singapore to perform a function under the law of insolvency there,
+(b) an act of a person appointed in a place outside Singapore to perform a function under the law of insolvency in that place,
 
-in so far as the making of the order or doing of the act would be prohibited under this Act for a court in Singapore or a relevant office holder.
+insofar as the making of the order or doing of the act would be prohibited under this Act for a court in Singapore or a relevant office holder respectively.
 
-(2) For the purposes of this section, “law of insolvency”, in relation to a place outside Singapore, means any law of that place which is similar to, or serves the same purposes as, any part of the law of insolvency in Singapore.
+(2) In this section, “law of insolvency”, in relation to a place outside Singapore, means any law of that place which is similar to, or serves the same purposes as, any part of the law of insolvency in Singapore.
 
 ### Participant to be party to certain transactions as principal
 
-79\.—(1) Where a participant —
+81P\.—(1) Where a participant —
 
-(a) in his capacity as such enters into any transaction (including a market contract) with a clearing house; and
+(a) in his capacity as such enters into any transaction (including a market contract) with a designated clearing house; and
 
-(b) but for this subsection or any provision in the business rules or default rules of a clearing house, would be a party to that transaction as agent,
+(b) but for this subsection or any provision in the business rules or default rules of a designated clearing house, would be a party to that transaction as agent,
 
-then, notwithstanding any other written law or rule of law, as between, but only as between, the clearing house and any other person (including the participant and the person who is his principal in respect of that transaction), the participant shall for all purposes (including any action, claim or demand, either civil or criminal) —
+then, notwithstanding any other written law or rule of law, as between, but only as between, the designated clearing house and any other person (including the participant and the person who is his principal in respect of that transaction), the participant shall for all purposes (including any action, claim or demand, whether civil or criminal) —
 
 (i) be deemed not to be a party to that transaction as agent; and
 
@@ -3454,25 +4056,25 @@ then, notwithstanding any other written law or rule of law, as between, but only
 
 (b) but for this subsection, any of the participants would be a party to that transaction as agent,
 
-then, notwithstanding any other written law or rule of law, a participant to whom paragraph (b) applies shall for all purposes (including an action, claim or demand, either civil or criminal), except as between, but only as between, him and the person who is his principal in respect of that transaction —
+then, notwithstanding any other written law or rule of law, a participant to whom paragraph (b) applies shall for all purposes (including any action, claim or demand, whether civil or criminal), except as between, but only as between, him and the person who is his principal in respect of that transaction —
 
 (i) be deemed not to be a party to the transaction as agent; and
 
-(ii) be deemed to be party to the transaction as principal.
+(ii) be deemed to be a party to the transaction as principal.
 
 ### Preservation of rights, etc.
 
-80\. Except to the extent that it expressly provides, this Division shall not operate to limit, restrict or otherwise affect —
+81Q\. Except to the extent that it expressly provides, this Division shall not operate to limit, restrict or otherwise affect —
 
 (a) any right, title, interest, privilege, obligation or liability of a person; or
 
-(b) any investigation, legal proceeding or remedy in respect of any such right, title, interest, privilege, obligation or liability.
+(b) any investigation, legal proceedings or remedy in respect of any such right, title, interest, privilege, obligation or liability.
 
 ### Immunity from criminal or civil liability
 
-81\.—(1) No criminal or civil liability shall be incurred by —
+81R\.—(1) No criminal or civil liability shall be incurred by —
 
-(a) a person discharging, by virtue of a delegation under the default rules of a clearing house, an obligation of the clearing house in connection with any default proceedings; or
+(a) a person discharging, by virtue of a delegation under the default rules of a designated clearing house, an obligation of the designated clearing house in connection with any default proceedings; or
 
 (b) any person acting on behalf of a person referred to in paragraph (a), including —
 
@@ -3480,9 +4082,487 @@ then, notwithstanding any other written law or rule of law, a participant to who
 
 (ii) any member of any committee established by the last-mentioned person,
 
-in respect of anything done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of that obligation.
+in respect of any thing done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of that obligation.
 
-(2) Where a relevant office holder takes action in relation to any property of a defaulter which is liable to be dealt with in accordance with the default rules of a clearing house, and reasonably believes or has reasonable grounds for believing that he is entitled to take that action, he shall not be liable to any person in respect of any loss or damage resulting from his action except in so far as the loss or damage (as the case may be) is caused by the office holder’s own negligence.
+(2) Where a relevant office holder takes action in relation to any property of a defaulter which is liable to be dealt with in accordance with the default rules of a designated clearing house, and reasonably believes or has reasonable grounds for believing that he is entitled to take that action, he shall not be liable to any person in respect of any loss or damage resulting from his action except insofar as the loss or damage, as the case may be, is caused by the negligence of the office holder.
+
+Division 5 —
+
+General Powers of Authority
+
+### Power of Authority to make regulations
+
+81S\.—(1) Without prejudice to section 341, the Authority may make regulations relating to requirements applicable to any person operating a clearing facility, whether or not the person has been designated by the Authority as a designated clearing house under section 55(1).
+
+(2) Regulations made under this section may provide —
+
+(a) that a contravention of any specified provision thereof shall be an offence; and
+
+(b) for penalties not exceeding a fine of $150,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, to a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+
+## PART IIIA
+
+APPROVED HOLDING COMPANIES
+
+[1/2005 wef 01/07/2005]
+
+### Objectives of this Part
+
+81T\. The objectives of this Part are —
+
+(a) to provide a regulatory framework for the establishment and operation of holding companies of —
+
+(i) approved exchanges;
+
+(ii) designated clearing houses; and
+
+(iii) corporations that are approved holding companies,
+
+and to ensure that such holding companies are fit and proper to perform their functions; and
+
+(b) to reduce systemic risk.
+
+Division 1 —
+
+Establishment of Approved Holding Companies
+
+### Requirement for approval
+
+81U\.—(1) No corporation shall be the holding company of any approved exchange, designated clearing house, or corporation which is an approved holding company, unless the first-mentioned corporation is an approved holding company.
+
+(2) Any corporation which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
+
+### Application for approval
+
+81V\.—(1) A corporation may apply to the Authority to be approved as an approved holding company.
+
+(2) An application made under subsection (1) shall be —
+
+(a) made in such form and manner as the Authority may prescribe; and
+
+(b) accompanied by a non-refundable prescribed application fee, which shall be paid in the manner specified by the Authority.
+
+(3) The Authority may require an applicant to furnish it with such information or documents as the Authority considers necessary in relation to the application.
+
+### Power of Authority to approve holding companies
+
+81W\.—(1) Where an application is made under section 81V(1), the Authority may approve the corporation as an approved holding company subject to such conditions or restrictions as the Authority may think fit to impose by notice in writing, if the Authority is satisfied that —
+
+(a) it would not be contrary to the interests of the public or contrary to the objectives specified in section 81T to approve the corporation; and
+
+(b) the grounds referred to in subsection (5) for refusing such approval do not apply.
+
+(2) The Authority may, at any time, by notice in writing to the corporation, vary any condition or restriction or impose such further conditions or restrictions as the Authority may think fit.
+
+(3) An approved holding company shall, for the duration of the approval, satisfy all conditions and restrictions that may be imposed on it under subsections (1) and (2).
+
+(4) Subject to subsection (5), the Authority shall not refuse to approve a corporation under subsection (1) without giving the corporation an opportunity to be heard.
+
+(5) The Authority may refuse to approve a corporation on any of the following grounds without giving the corporation an opportunity to be heard:
+
+(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation;
+
+(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+
+(6) The Authority shall give notice in theGazetteof any corporation approved under subsection (1).
+
+(7) Any applicant that is aggrieved by the refusal of the Authority to grant an approval under subsection (1) may, within 30 days after the applicant is notified of the decision, appeal to the Minister whose decision shall be final.
+
+(8) Any corporation which contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Annual fees payable by approved holding company
+
+81X\.—(1) Every approved holding company shall pay to the Authority such annual fees as may be prescribed and in such manner as may be specified by the Authority.
+
+(2) The Authority may, where it considers appropriate, refund or remit the whole or part of any annual fee paid or payable to it.
+
+### Cancellation of approval
+
+81Y\.—(1) An approved holding company which intends to cease its activities as an approved holding company may apply to the Authority to cancel its approval.
+
+(2) The Authority may cancel the approval if it is satisfied that the approved holding company referred to in subsection (1) has ceased its activities as an approved holding company.
+
+### Power of Authority to revoke approval
+
+81Z\.—(1) The Authority may revoke any approval of a corporation as an approved holding company under section 81W(1) if —
+
+(a) the corporation ceases to be the holding company of any approved exchange, designated clearing house or corporation which is an approved holding company;
+
+(b) the corporation is being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(c) the corporation contravenes —
+
+(i) any condition or restriction applicable in respect of its approval;
+
+(ii) any direction issued to it by the Authority under this Act; or
+
+(iii) any provision in this Act;
+
+(d) the corporation operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public;
+
+(e) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation;
+
+(f) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly; or
+
+(g) any information or document provided by the corporation to the Authority is false or misleading.
+
+(2) Subject to subsection (3), the Authority shall not revoke under subsection (1) any approval under section 81W(1) that was granted to a corporation without giving the corporation an opportunity to be heard.
+
+(3) The Authority may revoke an approval under section 81W(1) that was granted to a corporation on any of the following circumstances without giving the corporation an opportunity to be heard:
+
+(a) the corporation is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
+
+(b) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation;
+
+(c) the corporation has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly.
+
+(4) Any corporation which is aggrieved by a decision of the Authority made in relation to the corporation under subsection (1) may, within 30 days after the corporation is notified of the decision, appeal to the Minister whose decision shall be final.
+
+(5) Notwithstanding the lodging of an appeal under subsection (4), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
+
+(6) The Minister may, when deciding an appeal under subsection (4), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the Minister’s decision.
+
+(7) The Authority shall give notice in theGazetteof any revocation of approval referred to in subsection (1).
+
+Division 2 —
+
+Regulation of Approved Holding Companies
+
+### Obligation to notify Authority of certain matters
+
+81ZA\.—(1) An approved holding company shall, as soon as practicable after the occurrence of any of the following circumstances, notify the Authority of the circumstance:
+
+(a) any material change to the information provided by the approved holding company in its application under section 81V(1);
+
+(b) the carrying on of any activity by the approved holding company other than —
+
+(i) the activities of a holding company of any approved exchange, designated clearing house or corporation that is an approved holding company;
+
+(ii) an activity incidental to being a holding company of any approved exchange, designated clearing house or corporation that is an approved holding company; or
+
+(iii) such activity or class of activities as the Authority may prescribe;
+
+(c) the acquisition by the approved holding company of a substantial shareholding in a corporation which does not carry on —
+
+(i) any activity of a holding company of any approved exchange, designated clearing house or corporation that is an approved holding company;
+
+(ii) any activity incidental to being a holding company of any approved exchange, designated clearing house or corporation that is an approved holding company; or
+
+(iii) such activity or class of activities as the Authority may prescribe;
+
+(d) any other matter that the Authority may prescribe by regulations or specify by notice in writing to the approved holding company.
+
+(2) Without prejudice to the generality of section 81ZL(1), the Authority may, at any time after receiving a notification referred to in subsection (1), issue directions to the approved holding company —
+
+(a) where the notification relates to a matter referred to in subsection (1)(b) —
+
+(i) to cease carrying on the first-mentioned activity referred to in subsection (1)(b); or
+
+(ii) to carry on the first-mentioned activity referred to in subsection (1)(b) subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 81ZL(1); or
+
+(b) where the notification relates to a matter referred to in subsection (1)(c) —
+
+(i) to dispose of the shareholding referred to in subsection (1)(c); or
+
+(ii) to exercise its rights relating to such shareholding subject to such conditions or restrictions as the Authority may impose, if the Authority is of the opinion that this is necessary for any purpose referred to in section 81ZL(1),
+
+and the approved holding company shall comply with such directions.
+
+(3) Any approved holding company which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+### Obligation to submit periodic reports
+
+81ZB\.—(1) An approved holding company shall submit to the Authority such reports in such form, manner and frequency as the Authority may prescribe.
+
+(2) Any approved holding company which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+### Obligation to assist Authority
+
+81ZC\.—(1) An approved holding company shall provide such assistance to the Authority as the Authority may require for the performance of the functions and duties of the Authority, including the furnishing of such returns and the provision of —
+
+(a) such books and other information relating to the activities of the approved holding company; and
+
+(b) such other information,
+
+as the Authority may require for the proper administration of this Act.
+
+(2) Any approved holding company which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+### Obligation to maintain confidentiality
+
+81ZD\.—(1) Subject to subsection (2), an approved holding company and its officers and employees shall maintain, and aid in maintaining, the confidentiality of all user information that —
+
+(a) comes to the knowledge of the approved holding company or any of its officers or employees; or
+
+(b) is in the possession of the approved holding company or any of its officers or employees.
+
+(2) Subsection (1) shall not apply to —
+
+(a) the disclosure of user information for such purposes, or in such circumstances, as the Authority may prescribe;
+
+(b) any disclosure of user information which is authorised by the Authority to be disclosed or furnished; or
+
+(c) the disclosure of user information pursuant to any requirement imposed under any written law or order of court in Singapore.
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+(4) For the avoidance of doubt, nothing in this section shall be construed as preventing an approved holding company from entering into a written agreement with a user which obliges the approved holding company to maintain a higher degree of confidentiality than that specified in this section.
+
+### Control of substantial shareholding in approved holding companies
+
+81ZE\.—(1) No person shall enter into any agreement to acquire shares in an approved holding company by virtue of which he would, if the agreement had been carried out, become a substantial shareholder of the approved holding company without first obtaining the approval of the Authority to enter into the agreement.
+
+(2) No person shall become —
+
+(a) a 12% controller; or
+
+(b) a 20% controller,
+
+of an approved holding company without first obtaining the approval of the Authority.
+
+(3) In subsection (2)—
+
+“12% controller” means a person, not being a 20% controller, who alone or together with his associates —
+
+(a) holds not less than 12% of the shares in the approved holding company; or
+
+(b) is in a position to control not less than 12% of the votes in the approved holding company;
+
+“20% controller” means a person who, alone or together with his associates —
+
+(a) holds not less than 20% of the shares in the approved holding company; or
+
+(b) is in a position to control not less than 20% of the votes in the approved holding company.
+
+(4) In this section —
+
+(a) a person holds a share if —
+
+(i) he is deemed to have an interest in that share under section 7(6) to (10) of the Companies Act (Cap. 50); or
+
+(ii) he otherwise has a legal or an equitable interest in that share, except such interest as is to be disregarded under section 7(6) to (10) of the Companies Act;
+
+(b) a reference to the control of a percentage of the votes in an approved holding company shall be construed as a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the approved holding company; and
+
+(c) a person,A, is an associate of another person,B, if —
+
+(i) Ais the spouse, a parent, remoter lineal ancestor or step-parent, a son, daughter, remoter issue, step-son or step-daughter or a brother or sister ofB;
+
+(ii) Ais a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB, or whereBis a corporation, of the directors ofB;
+
+(iii) Bis a corporation the directors of which are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA, or whereAis a corporation, of the directors ofA;
+
+(iv) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB;
+
+(v) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofA;
+
+(vi) Ais a related corporation ofB;
+
+(vii) Ais a corporation in whichB, alone or together with other associates ofBas described in paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inA;
+
+(viii) Bis a corporation in whichA, alone or together with other associates ofAas described in paragraphs (ii) to (vi), is in a position to control not less than 20% of the votes inB; or
+
+(ix) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of shares or other interests in, or with respect to the exercise of their votes in relation to, the approved holding company.
+
+(5) The Authority may grant its approval referred to in subsection (1) or (2) subject to such conditions or restrictions as the Authority may think fit.
+
+(6) Without prejudice to subsection (11), the Authority may, for the purposes of securing compliance with subsection (1) or (2) or any condition or restriction imposed under subsection (5), by notice in writing, direct the transfer or disposal of all or any of the shares of an approved holding company in which a substantial shareholder, 12% controller or 20% controller of the approved holding company has an interest.
+
+(7) Until a person to whom a direction has been issued under subsection (6) transfers or disposes of the shares which are the subject of the direction, and notwithstanding any thing to the contrary in the Companies Act (Cap. 50) or the memorandum or articles of association or other constituent document or documents of the approved holding company —
+
+(a) no voting rights shall be exercisable in respect of the shares which are the subject of the direction;
+
+(b) the approved holding company shall not offer or issue any shares (whether by way of rights, bonus, share dividend or otherwise) in respect of the shares which are the subject of the direction; and
+
+(c) except in a liquidation of the approved holding company, the approved holding company shall not make any payment (whether by way of cash dividend, dividend in kind or otherwise) in respect of the shares which are the subject of the direction.
+
+(8) Any issue of shares by an approved holding company in contravention of subsection (7)(b) shall be deemed to be null and void, and a person to whom a direction has been issued under subsection (6) shall immediately return those shares to the approved holding company, upon which the approved holding company shall return to the person any payment received from him in respect of those shares.
+
+(9) Any payment made by an approved holding company in contravention of subsection (7)(c) shall be deemed to be null and void, and a person to whom a direction has been issued under subsection (6) shall immediately return the payment he has received to the approved holding company.
+
+(10) The Authority may exempt —
+
+(a) any person or class or persons; or
+
+(b) any class or description of shares or interests in shares,
+
+from the requirement under subsection (1) or (2), subject to such conditions or restrictions as may be imposed by the Authority.
+
+(11) Any person who contravenes subsection (1) or (2), or any condition or restriction imposed by the Authority under subsection (5), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+(12) Any person who contravenes subsection (7)(b) or (c), (8) or (9) or any direction issued by the Authority under subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Approval of chairman, chief executive officer, director and key persons
+
+81ZF\.—(1) An approved holding company shall ensure that it appoints or employs fit and proper persons as its chairman, chief executive officer, directors and key management officers.
+
+(2) No approved holding company shall appoint a person as its chairman, chief executive officer or director unless the approved holding company has obtained the approval of the Authority.
+
+(3) The Authority may, by notice in writing, require an approved holding company to obtain the approval of the Authority for the appointment of any person to any key management position or committee of the approved holding company and the approved holding company shall comply with the notice.
+
+(4) An application for approval under subsection (2) or (3) shall be made in such form and manner as the Authority may prescribe.
+
+(5) Without prejudice to the generality of section 81ZK and to any other matter that the Authority may consider relevant, the Authority may, in determining whether to grant its approval under subsection (2) or (3), have regard to such criteria as the Authority may prescribe or specify in directions issued by notice in writing.
+
+(6) Subject to subsection (7), the Authority shall not refuse an application for approval under this section without giving the approved holding company an opportunity to be heard.
+
+(7) The Authority may refuse an application for approval on any of the following grounds without giving the approved holding company an opportunity to be heard:
+
+(a) the person is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the person has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+(8) Where the Authority refuses an application for approval under this section, the Authority need not give the person who was proposed to be appointed an opportunity to be heard.
+
+(9) An approved holding company shall, as soon as practicable, give written notice to the Authority of the resignation or removal of its chairman, chief executive officer, director or person referred to in the notice issued by the Authority under subsection (3).
+
+(10) Without prejudice to the generality of section 81ZK, the Authority may make regulations relating to the composition and duties of the board of directors or any committee of an approved holding company.
+
+(11) In this section, “committee” includes any committee of directors, disciplinary committee, appeals committee or any body responsible for disciplinary action against a member of an approved exchange or a designated clearing house of which an approved holding company is the holding company.
+
+(12) The Authority may exempt an approved holding company or a class of approved holding companies from the requirement under subsection (1), (2) or (9), subject to such conditions or restrictions as may be imposed by the Authority.
+
+(13) Any approved holding company which contravenes subsection (1), (2), (3) or (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+### Listing of approved holding companies on securities market
+
+81ZG\.—(1) The securities of an approved holding company shall not be listed for quotation on a securities market that is operated by any of its related corporations unless the approved holding company and the operator of the securities market have entered into such arrangements as the Authority may require —
+
+(a) for dealing with possible conflicts of interest that may arise from such listing; and
+
+(b) for the purpose of ensuring the integrity of trading of the securities of the approved holding company.
+
+(2) Where the securities of an approved holding company are listed for quotation on a securities market operated by any of its related corporations, the listing rules of the securities market shall be deemed to allow the Authority to act in place of the operator of the securities market in making decisions and taking action, or to require the operator of the securities market to make decisions and to take action on behalf of the Authority, on —
+
+(a) the admission to, or removal of, the approved holding company from the official list of the securities market; and
+
+(b) granting, stopping or suspending the securities of the approved holding company from being listed for quotation or quoted on the securities market.
+
+(3) The Authority may, by notice in writing to the operator of the securities market —
+
+(a) modify the listing rules of the securities market for the purpose of their application to the listing for quotation or trading of the securities of the approved holding company; or
+
+(b) waive the application of any listing rule of the securities market to the approved holding company.
+
+(4) Any approved holding company which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $20,000 for every day or part thereof during which the offence continues after conviction.
+
+### Additional powers of Authority in respect of auditors
+
+81ZH\.—(1) If an auditor of an approved holding company, in the course of the performance of his duties, becomes aware of —
+
+(a) any matter which, in his opinion, adversely affects or may adversely affect the financial position of the approved holding company to a material extent;
+
+(b) any matter which, in his opinion, constitutes or may constitute a breach of any provision of this Act or an offence involving fraud or dishonesty; or
+
+(c) any irregularity that has or may have a material effect upon the accounts of the approved holding company, including any irregularity that affects or jeopardises, or may affect or jeopardise, the funds or property of investors,
+
+the auditor shall immediately send to the Authority a written report of the matter or the irregularity.
+
+(2) An auditor shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement made in his report under subsection (1).
+
+(3) Subsection (2) shall not restrict or affect any right, privilege or immunity that the auditor has, apart from this section, as a defendant in an action for defamation.
+
+(4) The Authority may impose all or any of the following duties on an auditor of an approved holding company:
+
+(a) a duty to submit such additional information and reports in relation to his audit as the Authority considers necessary;
+
+(b) a duty to enlarge, extend or alter the scope of his audit of the business and affairs of the approved holding company;
+
+(c) a duty to carry out any other examination or establish any procedure in any particular case;
+
+(d) a duty to submit a report on any matter arising out of his audit, examination or establishment of procedure referred to in paragraph (b) or (c),
+
+and the auditor shall carry out such duties.
+
+(5) The approved holding company shall remunerate the auditor in respect of the discharge by him of all or any of the duties referred to in subsection (4).
+
+### Power of Authority to exempt approved holding companies from provisions of this Part
+
+81ZI\. The Authority may exempt an approved holding company or a class of approved holding companies from any of the provisions of this Part, if it is satisfied that the non-compliance by such approved holding company or class of approved holding companies with such provision would not detract from the objectives specified in section 81T, subject to such conditions or restrictions as may be imposed by the Authority.
+
+### Power of Authority to remove officers
+
+81ZJ\.—(1) Where the Authority is satisfied that an officer of an approved holding company —
+
+(a) has wilfully contravened or wilfully caused that approved holding company to contravene this Act;
+
+(b) has, without reasonable excuse, failed to ensure compliance with this Act by that approved holding company;
+
+(c) has failed to discharge the duties or functions of his office or employment;
+
+(d) is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(e) has had execution against him in respect of a judgment debt returned unsatisfied in whole or in part;
+
+(f) has, whether in Singapore or elsewhere, made a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation; or
+
+(g) has been convicted, whether in Singapore or elsewhere, of an offence involving fraud or dishonesty or the conviction for which involved a finding that he acted fraudulently or dishonestly,
+
+the Authority may, if it thinks it necessary in the interests of the public or a section of the public or for the protection of investors, by notice in writing direct that approved holding company to remove the officer from his office or employment and that approved holding company shall comply with such notice, notwithstanding the provisions of section 152 of the Companies Act (Cap. 50).
+
+(2) Without prejudice to any other matter that the Authority may consider relevant, the Authority may, in determining whether an officer of an approved holding company has failed to discharge the duties or functions of his office or employment for the purposes of subsection (1)(c), have regard to such criteria as the Authority may prescribe or specify in directions issued by notice in writing.
+
+(3) Subject to subsection (4), the Authority shall not direct an approved holding company to remove an officer from his office or employment without giving the approved holding company an opportunity to be heard.
+
+(4) The Authority may direct an approved holding company to remove an officer from his office or employment under subsection (1) on any of the following grounds without giving the approved holding company an opportunity to be heard:
+
+(a) the officer is an undischarged bankrupt, whether in Singapore or elsewhere;
+
+(b) the officer has been convicted, whether in Singapore or elsewhere, of an offence —
+
+(i) involving fraud or dishonesty or the conviction for which involved a finding that he had acted fraudulently or dishonestly; and
+
+(ii) punishable with imprisonment for a term of 3 months or more.
+
+(5) Where the Authority directs an approved holding company to remove an officer from his office or employment under subsection (1), the Authority need not give that officer an opportunity to be heard.
+
+(6) Any approved holding company that is aggrieved by a direction of the Authority made in relation to the approved holding company under subsection (1) may, within 30 days after the approved holding company is notified of the direction, appeal to the Minister whose decision shall be final.
+
+(7) Notwithstanding the lodging of an appeal under subsection (6), any action taken by the Authority under this section shall continue to have effect pending the decision of the Minister.
+
+(8) The Minister may, when deciding an appeal under subsection (6), make such modification as he considers necessary to any action taken by the Authority under this section, and such modified action shall have effect from the date of the Minister’s decision.
+
+(9) Subject to subsection (10), no criminal or civil liability shall be incurred by an approved holding company in respect of any thing done or omitted to be done with reasonable care and in good faith in the discharge or purported discharge of its obligations under this section.
+
+(10) Any approved holding company which, without reasonable excuse, contravenes a written notice issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+### Power of Authority to make regulations
+
+81ZK\.—(1) Without prejudice to section 341, the Authority may make regulations relating to the approval of, and the requirements applicable to, persons who establish, operate, or assist in establishing or operating approved holding companies.
+
+(2) Regulations made under this section may provide —
+
+(a) that a contravention of any specified provision thereof shall be an offence; and
+
+(b) for penalties not exceeding a fine of $150,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
+
+### Power of Authority to issue directions
+
+81ZL\.—(1) The Authority may, if it thinks it necessary or expedient —
+
+(a) for ensuring fair, orderly and transparent markets;
+
+(b) for ensuring safe and efficient clearing facilities;
+
+(c) for ensuring the integrity and stability of the capital markets or the financial system;
+
+(d) in the interests of the public or a section of the public or for the protection of investors;
+
+(e) for the effective administration of this Act; or
+
+(f) for ensuring compliance with any condition or restriction as may be imposed by the Authority under section 81W(1) or (2), 81ZA(2), 81ZE(5) or (10), 81ZF(12) or 81ZI, or such other obligations or requirements under this Act or as may be prescribed by the Authority,
+
+issue directions by notice in writing either of a general or specific nature to an approved holding company, and the approved holding company shall comply with such directions.
+
+(2) Any approved holding company which, without reasonable excuse, contravenes a direction issued under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
+
+(3) For the avoidance of doubt, a direction issued under subsection (1) shall be deemed not to be subsidiary legislation.
 
 ## PART IV
 
@@ -3502,13 +4582,25 @@ Licensing
 
 ### Need for representative’s licence
 
-83\.—(1) Subject to subsection (2), no person shall act as a representative in carrying on business in any regulated activity or hold himself out as doing so, unless he is the holder of a representative’s licence for that regulated activity.
+83\.—(1) Subject to subsection (2), no person shall act as a representative in respect of any regulated activity or hold himself out as doing so, unless —
 
-(2) Subsection (1) shall not apply to —
+(a) he is the holder of a representative’s licence for that regulated activity; and
 
-(a) any person who acts as a representative of an exempt person; and
+(b) when so acting or holding himself out, he is doing so for the holder of a capital markets services licence which supported his application for, or for renewal of, the representative’s licence, as the case may be, subject to regulations made under this Act.
 
-(b) any person whom the Authority may exempt from holding a representative’s licence in respect of any regulated activity.
+[1/2005 wef 01/07/2005]
+
+(2) Subsection (1) shall not apply —
+
+(a) to any person who acts as a representative of an exempt person, in so far as —
+
+(i) the type and scope of regulated activity carried out by the first-mentioned person are within the type and scope of, or are the same as, those carried out by the exempt person (in his capacity as an exempt person); and
+
+(ii) the manner in which the first-mentioned person carries out the regulated activity referred to in subsection (1) is the same as the manner in which the exempt person (in his capacity as an exempt person) carries out the regulated activity; and
+
+(b) to any person or class of persons whom the Authority may exempt from holding a representative’s licence in respect of any regulated activity.
+
+[1/2005 wef 01/07/2005]
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -3520,7 +4612,9 @@ Licensing
 
 (b) in the case of an application for renewal of a licence, made not later than one month or such other period as the Authority may prescribe, before the expiry of the licence.
 
-(2) The Authority may require an applicant to supply the Authority with such further information as it considers necessary in relation to the application.
+(2) The Authority may require an applicant to furnish it with such information or documents as the Authority considers necessary in relation to the application.
+
+[1/2005 wef 01/07/2005]
 
 (3) An application for the grant or renewal of a licence shall be accompanied by a non-refundable prescribed application fee which shall be paid in the manner specified by the Authority.
 
@@ -3564,7 +4658,15 @@ Licensing
 
 (b) the licence fee is paid in relation to an application for the renewal of a licence and such application is withdrawn after the date on which, but for its renewal, the licence would have expired;
 
-(c) the licensed person ceases to carry on business in that regulated activity during the period to which the licence fee relates; or
+(c) the licensed person —
+
+(i) being the holder of a capital markets services licence, ceases to carry on business in that regulated activity; or
+
+(ii) being a representative, ceases to act as a representative in respect of that regulated activity,
+
+during the period to which the licence fee relates; or
+
+[1/2005 wef 01/07/2005]
 
 (d) a prohibition order has been made against the licensed person under section 95.
 
@@ -3576,11 +4678,15 @@ Licensing
 
 (2) In granting a capital markets services licence, the Authority shall specify the regulated activity or activities to which the licence relates, described in such manner as the Authority considers appropriate.
 
-(3) A capital markets services licence shall only be granted if the applicant meets such minimum financial and other requirements as the Authority may prescribe, either generally or specifically, or as are provided in the business rules of a securities exchange, futures exchange or recognised trading system provider.
+(3) A capital markets services licence shall only be granted if the applicant meets such minimum financial and other requirements as the Authority may prescribe, either generally or specifically, or as are provided in the business rules of a securities exchange, futures exchange or recognised market operator.
 
 (4) Subject to regulations made under this Act, where an application is made for the grant or renewal of a capital markets services licence, the Authority may refuse the application if —
 
-(a) the applicant has not provided the Authority with such information relating to it or any person employed by or associated with it for the purposes of its business, and to any circumstances likely to affect its manner of conducting business, as the Authority may require;
+(a) the applicant has not provided the Authority with such information or documents relating to it or any person employed by or associated with it for the purposes of its business, and to any circumstances likely to affect its manner of conducting business, as the Authority may require;
+
+(aa) any information or document that is furnished by the applicant to the Authority is false or misleading;
+
+[1/2005 wef 01/07/2005]
 
 (b) the applicant or its substantial shareholder is in the course of being wound up or otherwise dissolved, whether in Singapore or elsewhere;
 
@@ -3612,11 +4718,11 @@ Licensing
 
 (ii) reflect discredit on the manner of conducting the business of the applicant or its substantial shareholders;
 
-(m) the Authority has reason to believe that the applicant, or any of its officers , will not perform the functions for which the applicant seeks to be licensed, efficiently, honestly or fairly; or
+(m) the Authority has reason to believe that the applicant, or any of its officers or employees, will not perform the functions for which the applicant seeks to be licensed, efficiently, honestly or fairly; or
 
 (n) the Authority is of the opinion that it would be contrary to the interests of the public to grant or renew the licence.
 
-(5) Subject to subsection (6), the Authority shall not refuse an application for a grant or renewal of a capital markets services licence without giving the applicant a right to be heard.
+(5) Subject to subsection (6), the Authority shall not refuse an application for a grant or renewal of a capital markets services licence without giving the applicant an opportunity to be heard.
 
 (6) The Authority may refuse an application for the grant or renewal of a capital markets services licence on any of the following grounds without giving the applicant an opportunity to be heard:
 
@@ -3630,7 +4736,7 @@ Licensing
 
 ### Grant of representative’s licence
 
-87\.—(1) An individual may apply to the Authority in such form and manner as the Authority may prescribe for a representative’s licence to act as a representative to carry on business in one or more regulated activities.
+87\.—(1) An individual may apply to the Authority in such form and manner as the Authority may prescribe for a representative’s licence to act as a representative in respect of one or more regulated activities.
 
 (2) In granting a representative’s licence, the Authority shall —
 
@@ -3640,7 +4746,11 @@ Licensing
 
 (3) Subject to regulations made under this Act, the Authority may refuse an application for the grant or renewal of a representative’s licence if —
 
-(a) the applicant has not provided the Authority with such information relating to him as the Authority may require;
+(a) the applicant has not provided the Authority with such information or documents relating to him as the Authority may require;
+
+(aa) any information or document that is furnished by the applicant to the Authority is false or misleading;
+
+[1/2005 wef 01/07/2005]
 
 (b) the applicant is an undischarged bankrupt whether in Singapore or elsewhere;
 
@@ -3692,9 +4802,11 @@ Licensing
 
 ### Temporary representative’s licence
 
-87A\.—(1) An individual may apply to the Authority in such form and manner as the Authority may prescribe for a temporary representative’s licence to act as a representative to carry on business in one or more regulated activities.
+87A\.—(1) An individual may apply to the Authority in such form and manner as the Authority may prescribe for a temporary representative’s licence to act as a representative in respect of one or more regulated activities.
 
-(2) The Authority may require an applicant to supply the Authority with such further information as it considers necessary in relation to the application.
+(2) The Authority may require an applicant to furnish it with such information or documents as the Authority considers necessary in relation to the application.
+
+[1/2005 wef 01/07/2005]
 
 (3) An application for the grant of a temporary representative’s licence shall be accompanied by a non-refundable prescribed application fee which shall be paid in the manner specified by the Authority.
 
@@ -3741,8 +4853,6 @@ Licensing
 (2) The Authority may, at any time, by notice in writing to a licensed person, vary any condition or restriction or impose such further condition or restriction as it may think fit.
 
 (3) Any person who contravenes any condition or restriction in his licence shall be guilty of an offence.
-
-(4) Where the Authority imposes or varies any condition or restriction under this section, the Authority need not give the licensed person an opportunity to be heard.
 
 ### Period of licence
 
@@ -3812,11 +4922,11 @@ as may be specified by the Authority.
 
 92\. Any person who, in connection with an application for the grant, renewal or variation of a licence —
 
-(a) wilfully makes a statement which is false or misleading in a material particular, knowing it to be false or misleading; or
+(a) without reasonable excuse, makes a statement which is false or misleading in a material particular; or
 
-(b) wilfully omits to state any matter or thing without which the application is misleading in a material respect,
+(b) without reasonable excuse, omits to state any matter or thing without which the application is misleading in a material respect,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
 ### Notification of change of particulars
 
@@ -3878,21 +4988,37 @@ the licensed person shall, not later than 14 days after the occurrence of the ev
 
 (ii) it fails or ceases to carry on the business in all the regulated activities for which it was licensed;
 
-(iii) the Authority has reason to believe that the holder of the capital markets services licence, or any of its officers or employees, has not performed its duties efficiently, honestly or fairly; or
+(iii) the Authority has reason to believe that the holder of the capital markets services licence, or any of its officers or employees, has not performed its duties efficiently, honestly or fairly;
 
-(iv) the holder of the capital markets services licence contravenes any condition or restriction applicable in respect of its licence, any direction issued to it by the Authority under this Act, or any other provision in this Act; and
+(iv) the holder of the capital markets services licence contravenes any condition or restriction applicable in respect of its licence, any direction issued to it by the Authority under this Act, or any other provision in this Act;
+
+(v) the Authority has reason to believe that the holder of the capital markets services licence is carrying on business in any regulated activity for which it was licensed in a manner that is contrary to the interests of the public; or
+
+[1/2005 wef 01/07/2005]
+
+(vi) any information or document that is furnished by the holder of the capital markets services licence to the Authority is false or misleading; and
+
+[1/2005 wef 01/07/2005]
 
 (b) in the case of a representative, if —
 
 (i) there exists a ground on which the Authority may refuse an application under section 87 or 87A (as the case may be);
 
-(ii) he fails or ceases to act as a representative in carrying on business in all the regulated activities for which he was licensed;
+(ii) he fails or ceases to act as a representative in respect of in all the regulated activities for which he was licensed;
 
 (iii) the licence of his principal is revoked;
 
-(iv) the Authority has reason to believe that he has not performed his duties efficiently, honestly or fairly; or
+(iv) the Authority has reason to believe that he has not performed his duties efficiently, honestly or fairly;
 
-(v) he contravenes any condition or restriction applicable in respect of his licence, any direction issued to him by the Authority under this Act or any other provision in this Act.
+(iva) the Authority has reason to believe that the representative is performing his functions in a manner that is contrary to the interests of the public;
+
+[1/2005 wef 01/07/2005]
+
+(v) he contravenes any condition or restriction applicable in respect of his licence, any direction issued to him by the Authority under this Act or any other provision in this Act; or
+
+(vi) any information or document that is furnished by the representative to the Authority is false or misleading.
+
+[1/2005 wef 01/07/2005]
 
 (3) The Authority may, if it considers it desirable to do so —
 
@@ -3986,19 +5112,13 @@ unless it has obtained the approval of the Authority.
 
 (5) Where the Authority refuses an application for approval under subsection (1), the Authority need not give the person who was proposed to be appointed an opportunity to be heard.
 
-(6) In this section, “chief executive officer” means any person, by whatever name described, who is —
-
-(a) in the direct employment of, or acting for, or by arrangement with a holder of a capital markets services licence; and
-
-(b) principally responsible for the management and conduct of any type of business of the holder in Singapore.
-
 ### Removal of officer of holder of capital markets services licence
 
 97\.—(1) Where the Authority is satisfied that an officer of a holder of a capital markets services licence —
 
 (a) has wilfully contravened or wilfully caused that holder to contravene this Act;
 
-(b) has without reasonable justification or excuse failed to enforce compliance with this Act;
+(b) has without reasonable excuse failed to enforce compliance with this Act;
 
 (c) has failed to discharge the duties or functions of his office;
 
@@ -4014,7 +5134,7 @@ the Authority may, if it thinks it necessary in the interest of the public, or s
 
 (2) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, in determining whether an officer of a holder of a capital markets services licence has failed to discharge the duties or functions of his office for the purposes of subsection (1)(c), have regard to such criteria as may be prescribed or as may be specified in written directions.
 
-(3) Subject to subsection (4), the Authority shall not direct a holder of a capital markets services licence to remove from office or employment an officer under this section without giving that holder a right to be heard.
+(3) Subject to subsection (4), the Authority shall not direct a holder of a capital markets services licence to remove from office or employment an officer under this section without giving that holder an opportunity to be heard.
 
 (4) The Authority may direct a holder of a capital markets services licence to remove an officer from its office or employment under subsection (1) on any of the following grounds without giving the holder an opportunity to be heard:
 
@@ -4072,21 +5192,23 @@ Exemptions
 
 (d) any company or society registered under the Insurance Act (Cap. 142) in respect of fund management for the purpose of carrying out insurance business;
 
-(e) any person licensed under the Financial Advisers Act (Cap. 110) in respect of any regulated activity that is solely incidental to his carrying on of the business for which he is licensed under that Act;
+(e) [Deleted by Act 1 of 2005 wef 01/07/2005]
 
-(f) any securities exchange, futures exchange or recognised trading system provider in respect of any regulated activity that is solely incidental to its operation of a securities market or futures market, as the case may be;
+(f) any securities exchange, futures exchange, recognised market operator or approved holding company in respect of any regulated activity that is solely incidental to its operation of a securities market or futures market or to its performance as an approved holding company, as the case may be;
 
-(g) any clearing house in respect of any regulated activity that is solely incidental to its operation of a clearing facility; and
+[1/2005 wef 01/07/2005]
+
+(g) any designated clearing house in respect of any regulated activity that is solely incidental to its operation of a clearing facility; and
 
 (h) such other person or class of persons in respect of any regulated activity as may be exempted by the Authority.
 
-(2) Any securities exchange, futures exchange or recognised trading system provider which intends to carry on business in any regulated activity but which does not fall within subsection (1)(f), may apply in writing to the Authority for exemption from the requirement to hold a capital markets services licence and the Authority may grant such exemption if in the Authority’s opinion, the carrying on of the activities referred to in subsection (1) is not a significant business of the securities exchange, futures exchange or recognised trading system provider.
+(2) [Deleted by Act 1 of 2005 wef 01/07/2005]
 
-(3) Without prejudice to section 341, the Authority may prescribe the criteria or factors that it will consider in deciding whether to grant an exemption under subsection (2).
+(3) [Deleted by Act 1 of 2005 wef 01/07/2005]
 
 (4) The Authority may by regulations or by notice in writing impose such conditions or restrictions on an exempt person or its representative in relation to the conduct of the regulated activity or any related matter as the Authority thinks fit and the exempt person or its representative, as the case may be, shall comply with such conditions or restrictions.
 
-(5) Any exempt person or representative of an exempt person, who contravenes any provision of this Act which is applicable to it or any condition or restriction imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+(5) Any exempt person or representative of an exempt person, who contravenes any condition or restriction imposed under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
 (6) The Authority may withdraw an exemption granted to any person under this section —
 
@@ -4105,6 +5227,32 @@ Exemptions
 (b) affect any right, obligation or liability arising under any such agreement, transaction or arrangement.
 
 (9) A person that is aggrieved by a decision of the Authority made under subsection (6) may, within 30 days after it is notified of the decision of the Authority, appeal to the Minister whose decision shall be final.
+
+### Annual fees payable by exempt person and its representative
+
+99A\.—(1) Every exempt person and every representative of an exempt person shall pay to the Authority such annual fee in respect of each regulated activity as may be prescribed and in such manner as may be specified by the Authority.
+
+(2) Any annual fee paid by an exempt person or a representative of an exempt person to the Authority in respect of any regulated activity shall not be refunded or remitted if —
+
+(a) in the case of the exempt person —
+
+(i) its exemption is withdrawn; or
+
+(ii) it fails or ceases to carry on business in that regulated activity,
+
+during the period to which the annual fee relates; and
+
+(b) in the case of a representative of the exempt person —
+
+(i) his exemption is withdrawn; or
+
+(ii) he fails or ceases to act as a representative in respect of that regulated activity,
+
+during the period to which the annual fee relates.
+
+(3) Subject to subsection (2), the Authority may, where it considers appropriate, refund or remit the whole or part of any annual fee paid or payable to it.
+
+[1/2005 wef 01/07/2005]
 
 Division 3 —
 
@@ -4172,7 +5320,7 @@ Books
 
 ### Penalties under this Division
 
-103\. A holder of a capital markets services licence which, without reasonable justification or excuse, contravenes section 102(1), (3) or (4) or any regulation made under section 102(5), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+103\. A holder of a capital markets services licence which, without reasonable excuse, contravenes section 102(1), (3) or (4) or any regulation made under section 102(5), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
 Division 2 —
 
@@ -4208,7 +5356,7 @@ Customer Assets
 
 ### Penalties under this Division
 
-105\. Any holder of a capital markets services licence which, without reasonable justification or excuse, contravenes section 104(1) or any regulation made under section 104(2), shall be guilty of an offence and shall be liable on conviction —
+105\. Any holder of a capital markets services licence which, without reasonable excuse, contravenes section 104(1) or any regulation made under section 104(2), shall be guilty of an offence and shall be liable on conviction —
 
 (a) where it is found to have committed the offence with intent to defraud, to a fine not exceeding $150,000 and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction; or
 
@@ -4284,7 +5432,7 @@ the Authority may, without prejudice to its powers under section 115, if it is s
 
 (b) require any officer, employee or agent of the holder, or any other auditor appointed under this Act, to produce any of the books held by or on behalf of the holder relating to its business, and to make copies of or take extracts from, or retain possession of, such books for such period as is necessary to enable them to be inspected;
 
-(c) require a securities exchange, futures exchange or clearing house to produce any of the books kept by it, or any information in its possession, relating to the business of the holder;
+(c) require a securities exchange, futures exchange or designated clearing house to produce any of the books kept by it, or any information in its possession, relating to the business of the holder;
 
 (d) employ such persons as he considers necessary to assist him in carrying out the examination and audit; and
 
@@ -4330,7 +5478,7 @@ the onus of proving that, in so doing, he did not act with intent to prevent, de
 
 ### Exchanges, etc., may impose additional obligations on members
 
-114\. Nothing in this Division shall prevent a securities exchange, futures exchange or clearing house from imposing on its members any additional obligation or requirement which it thinks is necessary with respect to —
+114\. Nothing in this Division shall prevent a securities exchange, futures exchange or designated clearing house from imposing on its members any additional obligation or requirement which it thinks is necessary with respect to —
 
 (a) the audit of accounts;
 
@@ -4386,95 +5534,35 @@ General
 
 (b) procure that such a contract note be given in its name.
 
-### Restrictions on granting unsecured advances, loans or credit facilities to officers, etc., of holder of capital markets services licence
+119\. [Deleted by Act 1/2005 wef 01/07/2005]
 
-119\.—(1) The holder of a capital markets services licence shall not give any unsecured advance, unsecured loan or unsecured credit facility to any of its officers or employees or to a person who, to its knowledge, is a person associated with or connected to any of its officers or employees, if —
+### Disclosure of certain interests in respect of underwriting agreement
 
-(a) the unsecured advance, unsecured loan or unsecured credit facility is given for the purpose of enabling or assisting the person to whom the credit is given to purchase, subscribe for or trade in any capital markets products; or
-
-(b) the holder knows or has reason to believe that the unsecured advance, unsecured loan or unsecured credit facility will be used for the purpose of purchasing, subscribing for or trading in any capital markets products.
-
-(2) Subsection (1) is without prejudice to section 162 of the Companies Act (Cap. 50).
-
-### Licensed person or representative to disclose certain interests
-
-120\.—(1) Where the holder of a capital markets services licence, or a representative of such a holder, sends a circular or other similar written communication in which the holder or representative makes a recommendation, whether expressly or by implication, with respect to any securities, the holder or representative shall include in the circular or other written communication, in type not less legible than that used in the remainder of the circular or other written communication, a concise statement of the nature of any interest in, or any interest in the acquisition or disposal of, the securities that he, or a person associated with or connected to him, has at the date on which the circular or other written communication is sent.
-
-(2) Where a person is charged with an offence in respect of a contravention of subsection (1), it shall be a defence for the defendant to prove that, at the time at which the circular or other written communication was sent, he was not aware and could not reasonably be expected to have been aware that —
-
-(a) he had an interest in, or an interest in the acquisition or disposal of, those securities; or
-
-(b) the person associated with or connected to him had an interest in, or an interest in the acquisition or disposal of, those securities,
-
-as the case may be.
-
-(3) For the purposes of subsections (1) and (2) —
-
-(a) an interest of a person in the disposal of securities includes any financial benefit or advantage that will or is likely to, accrue directly or indirectly to the person, upon or arising out of the disposal of the securities; or
-
-(b) without limiting the generality of paragraph (a), a person who has entered into an underwriting agreement in respect of securities shall be deemed to have an interest in the acquisition or disposal of those securities.
-
-(4) For the purposes of subsections (1) and (2) and notwithstanding sections 2 and 3, a person is not associated with or connected to another person unless the person and the other person are acting jointly, or otherwise acting under or in accordance with an arrangement made between them, in relation to the sending of the circular or other written communication or the making of the recommendation.
-
-(5) Where —
-
-(a) a person has subscribed for or purchased securities for the purpose of offering all or any of them to the public for purchase; and
-
-(b) the person offers any of those securities for purchase,
-
-the person shall not make a recommendation, whether orally or in writing and whether expressly or by implication, with respect to the securities unless he has informed each person to whom the recommendation is made that he acquired the securities for that purpose.
-
-(6) Where —
+120\.—(1) Where —
 
 (a) securities have been offered for subscription or purchase; and
 
-(b) a person has subscribed for or purchased, or is or will or may be required to subscribe for or purchase, any of those securities under an underwriting or sub-underwriting agreement by reason that some or all of the securities have not been subscribed for or purchased,
+(b) the holder of a capital markets services licence has subscribed for or purchased, or is or will or may be required to subscribe for or purchase, any of those securities under an underwriting or sub-underwriting agreement by reason that some or all of the securities have not been subscribed for or purchased,
 
-the person shall not, during the period of 90 days after the close of the offer —
+the holder shall not, during the period of 90 days after the close of the offer referred to in paragraph (a) —
 
-(i) make an offer to sell those securities otherwise than in the ordinary course of trading on a securities exchange or recognised trading system provider; or
+(i) make an offer to sell those securities otherwise than in the ordinary course of trading on a securities exchange or recognised market operator;or
 
 (ii) make a recommendation, whether orally or in writing and whether expressly or by implication, with respect to those securities,
 
-unless the offer or recommendation contains or is accompanied by a statement to the effect that the offer or recommendation relates to securities that he has acquired, or is or will or may be required to acquire, under an underwriting or sub-underwriting agreement by reason that some or all of the securities have not been subscribed for or purchased.
+unless the offer or recommendation contains or is accompanied by a statement to the effect that the offer or recommendation relates to securities that the holder has acquired, or is or will or may be required to acquire, under an underwriting or sub-underwriting agreement by reason that some or all of the securities have not been subscribed for or purchased.
 
-(8) When the holder of a capital markets services licence, or a representative of such a holder, sends to a person a circular or other written communication, written offer or written recommendation to which subsection (1), (5) or (6) applies, the holder or representative shall preserve a copy of the circular or other written communication, offer or recommendation for 6 years.
+(2) For the purpose of subsection (1), any reference to an offer shall be construed as including a reference to a statement, however expressed, that expressly or impliedly invites a person to whom it is made to offer to acquire securities.
 
-(9) For the purpose of this section, any reference to an offer of securities shall be construed as including a reference to a statement, however expressed, that is not an offer but expressly or impliedly invites a person to whom it is made to offer to acquire securities.
+(3) Where the holder of a capital markets services licence sends to any person a written offer, written recommendation or written statement to which subsection (1) applies, the holder shall retain a copy of the written offer, recommendation or statement for a period of 6 years after the day the written offer, recommendation or statement is made.
 
-(10) For the purposes of this section, a circular or other written communication, written offer or written recommendation sent to a person shall, if it is signed by an officer of a corporation, be deemed to have been sent by the corporation.
+(4) The Authority may, if it is in the public interest, exempt any person or class of persons, or any securities or class of securities, from the application of this section.
 
-(11) The Authority may, if it is in the public interest, exempt any person or class of persons, or securities or class of securities from the application of this section.
+(5) The holder of a capital markets services licence which contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000.
 
-(12) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both.
+[1/2005 wef 01/07/2005]
 
-### Recommendations by licensed person
-
-121\.—(1) The holder of a capital markets services licence, or a representative of such a holder, shall not make a recommendation with respect to any capital markets products to a person who may reasonably be expected to rely on the recommendation if the holder or representative does not have a reasonable basis for making the recommendation to the person.
-
-(2) For the purposes of subsection (1), the holder of a capital markets services licence, or a representative of such a holder, does not have a reasonable basis for making a recommendation to a person unless —
-
-(a) the holder or representative has, for the purposes of ascertaining that the recommendation is appropriate having regard to the information possessed by the holder or representative concerning the investment objectives, financial situation and particular needs of the person, given such consideration to, and conducted such investigation of, the subject-matter of the recommendation as is reasonable in all the circumstances; and
-
-(b) the recommendation is based on the consideration and investigation referred to in paragraph (a).
-
-(3) The holder of a capital markets services licence, or a representative of such a holder, who contravenes subsection (1) shall not be guilty of an offence under subsection (1) or under section 335.
-
-(4) Where —
-
-(a) the holder of a capital markets services licence, or a representative of such a holder, in making a recommendation to a person, contravenes subsection (1);
-
-(b) the person, in reliance on the recommendation, does a particular act or refrains from doing a particular act;
-
-(c) it is reasonable, having regard to the recommendation and all other relevant circumstances, for the person to do that act, or to refrain from doing that act, as the case may be, in reliance on the recommendation; and
-
-(d) the person suffers loss or damage as a result of doing that act or refraining from doing that act, as the case may be,
-
-the holder or representative is liable to pay damages to that person in respect of that loss or damage.
-
-(5) Subsection (4) is in addition to and not in derogation of any other remedies available to the person referred to in that subsection.
-
-(6) In this section, a reference to the making of a recommendation is a reference to the making of a recommendation whether orally or in writing and whether expressly or by implication.
+121\. [Deleted by Act 1/2005 wef 01/07/2005]
 
 ### Priority to customers’ orders
 
@@ -4484,13 +5572,15 @@ the holder or representative is liable to pay damages to that person in respect 
 
 (b) a representative of such a holder when acting for his own account or on behalf of a person associated with or connected to the representative,
 
-shall not enter into a transaction for the purchase or sale of securities or futures contracts that are permitted to be traded on the securities market of a securities exchange, the futures market of a futures exchange or the securities market or the futures market of a recognised trading system provider, as the case may be, if a customer of that holder or representative, who is not associated with or connected to the holder or representative, has instructed the holder or representative to purchase or sell, respectively, securities or futures contracts of the same class and he has not complied with the instruction.
+shall not enter into a transaction for the purchase or sale of securities or futures contracts that are permitted to be traded on the securities market of a securities exchange, the futures market of a futures exchange or the securities market or the futures market of a recognised market operator, as the case may be, if a customer of that holder or representative, who is not associated with or connected to the holder or representative, has instructed the holder or representative to purchase or sell, respectively, securities or futures contracts of the same class and he has not complied with the instruction.
 
-(2) Subsection (1) shall not apply to the entering into of a transaction by the holder of a capital markets services licence to deal in securities or trade in futures contracts as principal or on behalf of a person associated with or connected to the holder, or by a representative of such a holder for his own account or on behalf of a person associated with or connected to the representative, if —
+(2) Subsection (1) shall not apply to the holder of a capital markets services licence or a representative of such a holder —
 
-(a) his customer required the purchase or sale of securities or futures contracts on behalf of the customer to be effected only on specified conditions and he has been unable to purchase or sell the securities or futures contracts by reason of those conditions; or
+(a) if his customer required the purchase or sale of securities or futures contracts on behalf of the customer to be effected only on specified conditions and he has been unable to purchase or sell the securities or futures contracts by reason of those conditions; or
 
-(b) the transaction is entered into in prescribed circumstances.
+(b) when carrying out the act referred to in subsection (1) under such other circumstances as may be prescribed by the Authority.
+
+[1/2005 wef 01/07/2005]
 
 (3) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -4501,6 +5591,10 @@ shall not enter into a transaction for the purchase or sale of securities or fut
 (2) Without affecting the generality of subsection (1), regulations made under this section may —
 
 (a) specify requirements applicable to the holder of a capital markets services licence in relation to securities financing;
+
+(aa) specify requirements and restrictions relating to the granting of unsecured advance, unsecured loan or unsecured credit facility by the holder of a capital markets services licence;
+
+[1/2005 wef 01/07/2005]
 
 (b) prohibit the use of misleading or deceptive advertisements by or on behalf of the holder of a capital markets services licence, and impose conditions or restrictions for the use of advertisements by or on behalf of the holder;
 
@@ -4544,7 +5638,7 @@ shall not enter into a transaction for the purchase or sale of securities or fut
 
 ### Penalties under this Division
 
-124\. Any person who, without reasonable justification or excuse, contravenes any of the provisions of this Division (except section 121), shall be guilty of an offence and shall be liable on conviction, where no penalty is expressly provided, to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine of $5,000 for every day or part thereof during which the offence continues after conviction.
+124\. Any person who, without reasonable excuse, contravenes any of the provisions of this Division, shall be guilty of an offence and shall be liable on conviction, where no penalty is expressly provided, to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine of $5,000 for every day or part thereof during which the offence continues after conviction.
 
 Division 2 —
 
@@ -4560,7 +5654,7 @@ Securities
 
 [16/2003 wef 22/12/2003]
 
-(4) Subsection (1) shall not apply to a transaction of sale or purchase of an odd lot of securities that is entered into by the holder of a capital markets services licence to deal in securities which is a member of a securities exchange or recognised trading system provider and specialises in transactions relating to odd lots of securities.
+(4) Subsection (1) shall not apply to a transaction of sale or purchase of an odd lot of securities that is entered into by the holder of a capital markets services licence to deal in securities which is a member of a securities exchange or recognised market operator and specialises in transactions relating to odd lots of securities.
 
 (5) Where the holder of a capital markets services licence to deal in securities fails to comply with subsection (1) or (2) in respect of a contract for the sale of securities by the holder, the purchaser of the securities may, if he has not disposed of them, rescind the contract by a notice of rescission given in writing to the holder not later than 30 days after the receipt of the contract note.
 
@@ -4586,7 +5680,7 @@ Securities
 
 (ii) an overseas securities exchange; or
 
-(iii) a recognised trading system provider.
+(iii) a recognised market operator.
 
 [16/2003 wef 22/12/2003]
 
@@ -4604,7 +5698,7 @@ Futures Contracts and Leveraged Foreign Exchange Trading
 
 (c) an account in which the holder has an interest,
 
-except with the customer’s prior consent and in accordance with the business rules and practices of a futures exchange or recognised trading system provider.
+except with the customer’s prior consent and in accordance with the business rules and practices of a futures exchange or recognised market operator.
 
 ### Cross-trading
 
@@ -4612,7 +5706,7 @@ except with the customer’s prior consent and in accordance with the business r
 
 (a) on the trading floor or electronic futures trading system; or
 
-(b) in accordance with the business rules and practices of a futures exchange or recognised trading system provider.
+(b) in accordance with the business rules and practices of a futures exchange or recognised market operator.
 
 ### Risk disclosure by certain persons
 
@@ -4662,7 +5756,7 @@ Registers of Interests in Securities
 
 (iii) a holder of a capital markets services licence for fund management and a representative of such a holder; and
 
-(b) a reference to securities is a reference to securities which are listed for quotation, or quoted, on a securities exchange or recognised trading system provider.
+(b) a reference to securities is a reference to securities which are listed for quotation, or quoted, on a securities exchange or recognised market operator.
 
 ### Register of securities
 
@@ -4740,9 +5834,47 @@ Disclosure by Substantial Shareholders
 
 ### Duty of substantial shareholders to notify securities exchange
 
-137\.—(1) In the case of a company all or any of which shares are listed for quotation on the official list of a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) (other than sections 86, 87, 88, 89 and 92) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial shareholder as though references to the company to which notification should be given were references to the securities exchange, and such person shall comply with those provisions accordingly.
+137\.—(1) In the case of a company all or any of which shares are listed for quotation on a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) (other than sections 86, 87, 88, 89 and 92) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial shareholder as though references to the company to which notification should be given were references to the securities exchange, and such person shall comply with those provisions accordingly.
 
 (2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day or part thereof during which the offence continues after conviction.
+
+Division 3 —
+
+Disclosure by Substantial Unitholders
+
+### Duty of substantial unitholders to notify securities exchange
+
+137A\.—(1) In the case of a collective investment scheme that invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes all or any of which units are listed for quotation on a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) (other than sections 79, 81, 86, 87, 88, 89 and 92) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial unitholder as though —
+
+(a) references to the company to which notification should be given were references to the securities exchange;
+
+(b) references to shares in the company were references to units in the scheme;
+
+(c) references to substantial shareholding were references to substantial unitholding; and
+
+(d) references to a substantial shareholder were references to a substantial unitholder,
+
+and such person shall comply with those provisions accordingly.
+
+(2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day or part thereof during which the offence continues after conviction.
+
+### Duty of substantial unitholders to notify trustee of collective investment scheme
+
+137B\.—(1) In the case of a collective investment scheme that invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes all or any of which units are listed for quotation on a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) (other than sections 79 and 81) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial unitholder as though —
+
+(a) references to the company to which notification should be given were references to the trustee of the scheme;
+
+(b) references to shares in the company were references to units in the scheme;
+
+(c) references to substantial shareholding were references to substantial unitholding;
+
+(d) references to a substantial shareholder were references to a substantial unitholder; and
+
+(e) references to the Registrar were references to the Authority,
+
+and such person shall comply with those provisions accordingly.
+
+(2) If a person to whom subsection (1) applies fails to comply with any of the provisions of Division 4 of Part IV of the Companies Act (other than sections 79 and 81), he shall be guilty of an offence and shall be liable on conviction to the same penalties as are prescribed under that Act for a failure to comply with such provision.
 
 ## PART VIII
 
@@ -4814,14 +5946,9 @@ Division 1 —
 
 Supervisory Powers of Authority
 
-Subdivision (1) —
+Subdivision (1) — Powers of Authority to require disclosure of information about securities and futures contracts
 
-Powers of Authority to require disclosure of
-
-
-
-
-information about securities and futures contracts
+[1/2005 wef 01/07/2005]
 
 ### Interpretation of this Subdivision
 
@@ -4845,7 +5972,7 @@ and the nature of the instructions given to the holder or exempt person in respe
 
 (3) The Authority may require a securities exchange or futures exchange to disclose to the Authority, in relation to an acquisition or disposal of securities on the securities market of that securities exchange or futures contracts on the futures market of that futures exchange, the names of the members of that securities exchange or futures exchange who acted in the acquisition or disposal.
 
-(4) The Authority may require a clearing house for a securities market or futures market to disclose to the Authority, in relation to any dealing in securities on that securities market or trading in futures contracts on that futures market, the names of the members of the clearing house who were concerned in any act or omission in relation to the dealing or trading.
+(4) The Authority may require a designated clearing house for a securities market or futures market to disclose to the Authority, in relation to any dealing in securities on that securities market or trading in futures contracts on that futures market, the names of the members of the designated clearing house who were concerned in any act or omission in relation to the dealing or trading.
 
 ### Exercise of certain powers in relation to securities
 
@@ -4931,13 +6058,11 @@ the Authority may require the person to disclose to the Authority the informatio
 
 (2) For the purposes of subsection (1), evidence that a copy of or extract from a document is a true copy of the document or of a part of the document may be given by a person who has compared the copy or extract with the document or the relevant part of the document and may be given orally or by an affidavit sworn, or by a declaration made, before a person authorised to take affidavits or statutory declarations.
 
-Subdivision (2) —
-
-Inspection Powers of Authority
+Subdivision (2) — Inspection Powers of Authority
 
 ### Inspection by Authority
 
-150\.—(1) The Authority may inspect under conditions of secrecy, the books of an exchange holding company, a securities exchange, a futures exchange, a recognised trading system provider, a person operating an exempt market, a person granted an exemption under section 5(3) or 6(3), a clearing house, a person operating an exempt clearing facility, the holder of a capital markets services licence, an exempt person or a representative.
+150\.—(1) The Authority may inspect under conditions of secrecy, the books of an approved holding company, a securities exchange, a futures exchange, a recognised market operator, a person operating an exempt market, an exempt market operator, a designated clearing house, the holder of a capital markets services licence, an exempt person or a representative.
 
 (2) For the purpose of an inspection under this section —
 
@@ -4991,9 +6116,7 @@ Division 3 —
 
 Investigative Powers of Authority
 
-Subdivision (1) —
-
-General
+Subdivision (1) — General
 
 ### Investigation by Authority
 
@@ -5041,9 +6164,7 @@ General
 
 (4) An advocate and solicitor who refuses to disclose the information or produce the document or other material referred to in subsection (3) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
 
-Subdivision (2) —
-
-Examination of persons
+Subdivision (2) — Examination of persons
 
 ### Requirement to appear for examination
 
@@ -5119,7 +6240,7 @@ a copy of the record shall accompany the report to be submitted to the Minister 
 
 ### Offences under this Subdivision
 
-162\.—(1) A person who, without reasonable justification or excuse, refuses or fails to comply with section 154 or 156(3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+162\.—(1) A person who, without reasonable excuse, refuses or fails to comply with section 154 or 156(3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (2) A person who, without reasonable excuse —
 
@@ -5135,11 +6256,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) It shall be a defence to a prosecution for an offence under subsection (3) if the defendant proves that he believed on reasonable grounds that the information or statement was true and was not misleading.
 
-(5) A person who, without reasonable justification or excuse, obstructs or hinders the Authority or another person in the exercise of any power under this Subdivision shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+(5) A person who, without reasonable excuse, obstructs or hinders the Authority or another person in the exercise of any power under this Subdivision shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-Subdivision (3) —
-
-Powers to obtain information
+Subdivision (3) — Powers to obtain information
 
 ### Power of Authority to order production of books
 
@@ -5235,7 +6354,7 @@ to explain to the best of his knowledge and belief any matter about the compilat
 
 ### Offences under this Part
 
-168\.—(1) A person who, without reasonable justification or excuse, refuses or fails to comply with any requirement imposed under section 163, 165(7) or 166 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+168\.—(1) A person who, without reasonable excuse, refuses or fails to comply with any requirement imposed under section 163, 165(7) or 166 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (2) A person who, in purported compliance with a requirement under this Subdivision, furnishes information or makes a statement that is false or misleading in a material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -5243,7 +6362,7 @@ to explain to the best of his knowledge and belief any matter about the compilat
 
 (4) Any person, who conceals, destroys, mutilates or alters any book relating to a matter that the Authority is investigating or about to investigate under this Division or who, where such a book is within the territory of Singapore, takes or sends the book out of Singapore, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(5) A person who, without reasonable justification or excuse, obstructs or hinders the Authority in the exercise of any power under this Subdivision, or obstructs or hinders a person who is executing a warrant issued under section 164, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+(5) A person who, without reasonable excuse, obstructs or hinders the Authority in the exercise of any power under this Subdivision, or obstructs or hinders a person who is executing a warrant issued under section 164, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (6) The occupier or the person in charge of the premises that a person enters under a warrant issued under section 164 who fails to provide to that person all reasonable facilities and assistance for the effective exercise of his powers under the warrant shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -5545,7 +6664,7 @@ shall not exceed the prescribed amount.
 
 (a) the person has suffered pecuniary loss because of a defalcation committed by a member of the exchange or by any agent of the member; and
 
-(b) such defalcation is in respect of moneys deposited by that person with the member or moneys belonging to that person held by that member, in connection with the trading of a contract which is not a futures contract that is cleared or to be cleared by a clearing house or a futures exchange in Singapore.
+(b) such defalcation is in respect of moneys deposited by that person with the member or moneys belonging to that person held by that member, in connection with the trading of a contract which is not a futures contract that is cleared or to be cleared by a designated clearing house or a futures exchange in Singapore.
 
 ### Claims against fund
 
@@ -5641,15 +6760,77 @@ Prohibited Conduct — Securities
 
 (a) acts occurring within Singapore in relation to —
 
-(i) securities of any corporation, whether formed or carrying on business in Singapore or elsewhere; or
+(i) securities of any corporation, whether formed or carrying on business in Singapore or elsewhere;
+
+(ia) securities of any business trust; or
+
+[1/2005 wef 01/07/2005]
 
 (ii) securities listed for quotation or quoted on a securities market in Singapore or elsewhere; and
 
 (b) acts occurring outside Singapore, in relation to —
 
-(i) securities of a corporation that is formed or carrying on business in Singapore; or
+(i) securities of a corporation that is formed or carrying on business in Singapore;
+
+(ia) securities of a business trust, the trustee of which is formed in Singapore or carries on business on behalf of the business trust in Singapore; or
+
+[1/2005 wef 01/07/2005]
 
 (ii) securities listed for quotation or quoted on a securities market in Singapore.
+
+### Interpretation of this Division
+
+196A\. In this Division —
+
+“debenture” has the same meaning as in section 2 and, in relation to a business trust, means any debenture issued by the trustee of the business trust in its capacity as trustee of the business trust;
+
+“securities” —
+
+(a) in relation to a corporation, for the purposes of sections 196(a)(i) and (b)(i), 198, 202 and 203, means —
+
+(i) debentures, stocks or shares issued or proposed to be issued by a corporation;
+
+(ii) any right, option or derivative in respect of any such debentures, stocks or shares; or
+
+(iii) any right under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
+
+(A) the value or price of any such debentures, stocks or shares;
+
+(B) the value or price of any group of any such debentures, stocks or shares; or
+
+(C) an index of any such debentures, stocks or shares,
+
+but does not include —
+
+(AA) futures contracts;
+
+(BB) bills of exchange;
+
+(CC) promissory notes; or
+
+(DD) certificates of deposit issued by a bank or finance company;
+
+(b) in relation to a business trust, for the purposes of sections 196(a) (ia) and (b) (ia), 198, 202 and 203, means —
+
+(i) units in a business trust;
+
+(ii) derivatives of units in a business trust;
+
+(iii) debentures of a business trust; or
+
+(iv) any right, option or derivative in respect of any such debentures,
+
+but does not include —
+
+(A) futures contracts;
+
+(B) bills of exchange; or
+
+(C) promissory notes; and
+
+(c) in any other case, has the same meaning as in section 2.
+
+[1/2005 wef 01/07/2005]
 
 ### False trading and market rigging transactions
 
@@ -5687,11 +6868,17 @@ shall be deemed to have created a false or misleading appearance of active tradi
 
 198\.—(1) No person shall effect, take part in, be concerned in or carry out, directly or indirectly, 2 or more transactions in securities of a corporation, being transactions that have, or are likely to have, the effect of raising, lowering, maintaining or stabilising the price of securities of the corporation on a securities market, with intent to induce other persons to subscribe for, purchase or sell securities of the corporation or of a related corporation.
 
-(2) A reference in subsection (1) to transactions in securities of a corporation includes —
+(1A) No person shall effect, take part in, be concerned in or carry out, directly or indirectly, 2 or more transactions in securities of a business trust, being transactions that have, or are likely to have, the effect of raising, lowering, maintaining or stabilising the price of securities of the business trust on a securities market, with intent to induce other persons to subscribe for, purchase or sell securities of the business trust.
 
-(a) a reference to the making of an offer to purchase or sell such securities of the corporation; and
+[1/2005 wef 01/07/2005]
 
-(b) a reference to the making of an invitation, however expressed, that directly or indirectly invites a person to offer to purchase or sell such securities of the corporation.
+(2) A reference in subsection (1) or (1A) to transactions in securities of a corporation or securities of a business trust, as the case may be, includes —
+
+(a) a reference to the making of an offer to purchase or sell such securities of the corporation or such securities of the business trust, as the case may be; and
+
+(b) a reference to the making of an invitation, however expressed, that directly or indirectly invites a person to offer to purchase or sell such securities of the corporation or such securities of the business trust, as the case may be.
+
+[1/2005 wef 01/07/2005]
 
 ### False or misleading statements, etc.
 
@@ -5741,7 +6928,7 @@ induce or attempt to induce another person to deal in securities.
 
 ### Dissemination of information about illegal transactions
 
-202\. No person shall circulate or disseminate, or authorise or be concerned in the circulation or dissemination of, any statement or information to the effect that the price of any securities of a corporation will, or is likely, to rise or fall or be maintained by reason of any transaction entered into or to be entered into or other act or thing done or to be done in relation to securities of that corporation, or of a corporation that is related to that corporation, which to his knowledge, was entered into or done in contravention of section 197, 198, 199, 200 or 201 or if entered into or done would be in contravention of section 197, 198, 199, 200 or 201 if —
+202\. No person shall circulate or disseminate, or authorise or be concerned in the circulation or dissemination of, any statement or information to the effect that the price of any securities of a corporation or any securities of a business trust will, or is likely, to rise or fall or be maintained by reason of any transaction entered into or to be entered into or other act or thing done or to be done in relation to securities of that corporation, or of a corporation that is related to that corporation, or securities of that business trust, as the case may be, which to his knowledge, was entered into or done in contravention of section 197, 198, 199, 200 or 201 or if entered into or done would be in contravention of section 197, 198, 199, 200 or 201 if —
 
 (a) the person, or a person associated with the person, has entered into or purports to enter into any such transaction or has done or purports to do any such act or thing; or
 
@@ -5751,17 +6938,21 @@ induce or attempt to induce another person to deal in securities.
 
 203\.—(1) This section shall apply to —
 
-(a) a corporation which is admitted to the official list of a securities exchange; or
+(a) an entity the securities of which are listed for quotation on a securities exchange;
 
-(b) a responsible person of a collective investment scheme the units of which are quoted on a securities exchange,
+(b) a trustee of a business trust, where the securities of the business trust are listed for quotation on a securities exchange; or
 
-if the corporation or responsible person is required by the listing rules of the securities exchange to notify the securities exchange of information on specified events or matters as they occur or arise for the purpose of the securities exchange making that information available to a securities market operated by the securities exchange.
+(c) a responsible person of a collective investment scheme, where the units of the collective investment scheme are listed for quotation on a securities exchange,
 
-(2) The corporation or responsible person must not intentionally, recklessly or negligently fail to notify the securities exchange of such information as is required to be disclosed under the listing rules of the securities exchange.
+if the entity, trustee or responsible person is required by the securities exchange under the listing rules or any other requirement of the securities exchange to notify the securities exchange of information on specified events or matters as they occur or arise for the purpose of the securities exchange making that information available to a securities market operated by the securities exchange.
+
+[1/2005 wef 01/07/2005]
+
+(2) The persons specified in subsection (1)(a), (b) or (c) shall not intentionally, recklessly or negligently fail to notify the securities exchange of such information as is required to be disclosed by the securities exchange under the listing rules or any other requirement of the securities exchange.
+
+[1/2005 wef 01/07/2005]
 
 (3) Notwithstanding section 204, a contravention of subsection (2) shall not be an offence unless the failure to notify is intentional or reckless.
-
-(4) In this section, “responsible person” has the same meaning as in Division 2 of Part XIII.
 
 ### Penalties under this Division
 
@@ -5861,7 +7052,13 @@ Insider Trading
 
 (a) acts occurring within Singapore, in relation to —
 
-(i) securities of any corporation, whether formed or carrying on business in Singapore;
+(i) securities of any corporation, whether formed or carrying on business in Singapore or elsewhere;
+
+[1/2005 wef 01/07/2005]
+
+(ia) securities of any business trust;
+
+[1/2005 wef 01/07/2005]
 
 (ii) securities listed for quotation or quoted on a securities market in Singapore or elsewhere; or
 
@@ -5871,6 +7068,10 @@ Insider Trading
 
 (i) securities of a corporation that is formed or carries on business in Singapore;
 
+(ia) securities of a business trust, the trustee of which is formed in Singapore or carries on business on behalf of the business trust in Singapore;
+
+[1/2005 wef 01/07/2005]
+
 (ii) securities listed for quotation or quoted on a securities market in Singapore; or
 
 (iii) securities traded on a futures market in Singapore.
@@ -5878,6 +7079,14 @@ Insider Trading
 ### Interpretation of this Division
 
 214\. In this Division —
+
+“debenture” has the same meaning as in section 2 and, in relation to a business trust, means a debenture issued by the trustee of the business trust in its capacity as trustee of the business trust;
+
+[1/2005 wef 01/07/2005]
+
+“financial performance”, in relation to a business trust, means the performance of the business relating to the trust property of the business trust which is managed and operated by the trustee of the business trust;
+
+[1/2005 wef 01/07/2005]
 
 “information” includes —
 
@@ -5887,11 +7096,17 @@ Insider Trading
 
 (c) matters relating to negotiations or proposals with respect to —
 
-(i) commercial dealings; or
+(i) commercial dealings;
 
-(ii) dealing in securities;
+(ii) dealing in securities; or
 
-(d) information relating to the financial performance of a corporation or otherwise;
+(iii) trading in futures contract;
+
+[1/2005 wef 01/07/2005]
+
+(d) information relating to the financial performance of a corporation or business trust, or otherwise;
+
+[1/2005 wef 01/07/2005]
 
 (e) information that a person proposes to enter into, or had previously entered into one or more transactions or agreements in relation to securities or has prepared or proposes to issue a statement relating to such securities; and
 
@@ -5901,31 +7116,63 @@ Insider Trading
 
 “securities” means —
 
-(a) debentures or stocks issued or proposed to be issued by a government;
+(a) in relation to a corporation, for the purposes of sections 213(a)(i) and (b)(i) and 218 —
 
-(b) debentures, stocks or shares issued or proposed to be issued by a corporation or body unincorporate;
+(i) debentures, stocks or shares issued or proposed to be issued by a corporation;
 
-(c) any right, option or derivative in respect of any such debentures, stocks or shares;
+(ii) any right, option or derivative in respect of any such debentures, stocks or shares;
 
-(d) any right under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
+(iii) any right under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
 
-(i) the value or price of any such debentures, stocks or shares;
+(A) the value or price of any such debentures, stocks or shares;
 
-(ii) the value or price of any group of any such debentures, stocks or shares;
+(B) the value or price of any group of any such debentures, stocks or shares; or
 
-(iii) an index of any such debentures, stocks, shares, bonds or notes;
+(C) an index of any such debentures, stocks or shares; or
 
-(e) any unit in a collective investment scheme;
+(iv) a futures contract only if the commodity which is the subject of the futures contract is a share or stock of a corporation;
 
-(f) a futures contract only if the commodity which is the subject of the futures contract is a share, share index, stock or stock index,
+(b) in relation to a business trust, for the purposes of sections 213(a) (ia) and (b) (ia) and 218(1A) and (4A) —
+
+(i) units in a business trust;
+
+(ii) derivatives of units in a business trust;
+
+(iii) debentures of a business trust; or
+
+(iv) any right, option or derivative in respect of any such debentures; and
+
+(c) in any other case —
+
+(i) debentures or stocks issued or proposed to be issued by a government;
+
+(ii) debentures, stocks or shares issued or proposed to be issued by a corporation or body unincorporate;
+
+(iii) any right, option or derivative in respect of any such debentures, stocks or shares;
+
+(iv) any unit in a collective investment scheme;
+
+(v) any unit, or derivative of a unit, in a business trust;
+
+(vi) any right under a contract for differences or under any other contract the purpose or pretended purpose of which is to secure a profit or avoid a loss by reference to fluctuations in —
+
+(A) the value or price of any such debentures, stocks, shares, units in a collective investment scheme or units in a business trust;
+
+(B) the value or price of any group of any such debentures, stocks, shares, units in a collective investment scheme or units in a business trust; or
+
+(C) an index of any such debentures, stocks, shares, units in a collective investment scheme or units in a business trust; or
+
+(vii) a futures contract only if the commodity which is the subject of the futures contract is a share or share index, or stock or stock index,
 
 but does not include —
 
-(i) bills of exchange;
+(AA) bills of exchange;
 
-(ii) promissory notes; or
+(BB) promissory notes; or
 
-(iii) certificates of deposit issued by a bank or finance company;
+(CC) certificates of deposit issued by a bank or finance company;
+
+[1/2005 wef 01/07/2005]
 
 “sell”, in relation to securities, includes, in the case of an option contract under which a party acquires an option or right from another party —
 
@@ -5933,7 +7180,11 @@ but does not include —
 
 (b) take, or cause to be taken, such action as releases the option or right,
 
-whether or not on another’s behalf.
+whether or not on another’s behalf;
+
+“trust property” has the same meaning as in section 2 of the Business Trusts Act (Act 30 of 2004).
+
+[1/2005 wef 01/07/2005]
 
 ### Information generally available
 
@@ -5967,29 +7218,49 @@ whether or not on another’s behalf.
 
 218\.—(1) Subject to this Division, where —
 
-(a) a person who is connected to a corporation (referred to in this section as the connected person) possesses information concerning that corporation that is not generally available but, if the information were generally available, a reasonable person would expect it to have a material effect on the price or value of securities of that corporation; and
+(a) a person who is connected to a corporation possesses information concerning that corporation that is not generally available but, if the information were generally available, a reasonable person would expect it to have a material effect on the price or value of securities of that corporation; and
 
 (b) the connected person knows or ought reasonably to know that —
 
 (i) the information is not generally available; and
 
-(ii) if it were generally available, it might have a material effect on the price or value of those securities,
+(ii) if it were generally available, it might have a material effect on the price or value of those securities of that corporation,
 
-subsections (2) to (6) shall apply.
+subsections (2), (3), (4), (5) and (6) shall apply.
+
+(1A) Subject to this Division, where —
+
+(a) a person who is connected to any corporation, where such corporation —
+
+(i) in relation to a business trust, acts as its trustee or manages or operates the business trust; or
+
+(ii) in relation to a collective investment scheme that invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes and all or any units of which are listed on a securities exchange, is the trustee or manager of the scheme,
+
+possesses information concerning that corporation, business trust or scheme, as the case may be, that is not generally available but, if the information were generally available, a reasonable person would expect it to have a material effect on the price or value of securities of that corporation, of securities of that business trust or of units in that scheme, as the case may be; and
+
+(b) the connected person knows or ought reasonably to know that —
+
+(i) the information is not generally available; and
+
+(ii) if it were generally available, it might have a material effect on the price or value of those securities of that corporation, of those securities of that business trust or of those units in that scheme, as the case may be,
+
+subsections (2), (3), (4A), (5) and (6) shall apply.
+
+[1/2005 wef 01/07/2005]
 
 (2) The connected person must not (whether as principal or agent) —
 
-(a) subscribe for, purchase or sell, or enter into an agreement to subscribe for, purchase or sell, any such securities; or
+(a) subscribe for, purchase or sell, or enter into an agreement to subscribe for, purchase or sell, any such securities referred to in subsection (1) or (1A), as the case may be; or
 
-(b) procure another person to subscribe for, purchase or sell, or to enter into an agreement to subscribe for, purchase or sell, any such securities.
+(b) procure another person to subscribe for, purchase or sell, or to enter into an agreement to subscribe for, purchase or sell, any such securities referred to in subsection (1) or (1A), as the case may be.
 
-(3) Where trading in the securities referred to in subsection (1)is permitted on the securities market of a securities exchange or futures market of a futures exchange, the connected person must not, directly or indirectly, communicate the information, or cause the information to be communicated, to another person if the connected person knows, or ought reasonably to know, that the other person would or would be likely to —
+(3) Where trading in the securities referred to in subsection (1) or (1A) is permitted on the securities market of a securities exchange or futures market of a futures exchange, the connected person must not, directly or indirectly, communicate the information, or cause the information to be communicated, to another person if the connected person knows, or ought reasonably to know, that the other person would or would be likely to —
 
 (a) subscribe for, purchase or sell, or enter into an agreement to subscribe for, purchase or sell, any such securities; or
 
 (b) procure a third person to subscribe for, purchase or sell, or to enter into an agreement to subscribe for, purchase or sell, any such securities.
 
-(4) In any proceedings against a connected person for a contravention of subsection (2) or (3), where the prosecution or plaintiff proves that the connected person was at the material time —
+(4) In any proceedings for a contravention of subsection (2) or (3) against a person connected to a corporation referred to in subsection (1), where the prosecution or plaintiff proves that the connected person was at the material time —
 
 (a) in possession of information concerning the corporation to which he was connected; and
 
@@ -6001,17 +7272,43 @@ it shall be presumed, until the contrary is proved, that the connected person kn
 
 (ii) if the information were generally available, it might have a material effect on the price or value of securities of that corporation.
 
-(5) In this Division, a person is connected to a corporation if —
+(4A) In any proceedings for a contravention of subsection (2) or (3) against a person connected to a corporation which —
 
-(a) he is an officer of that corporation or of a related corporation;
+(a) in relation to a business trust, acts as its trustee or manages or operates the business trust; or
 
-(b) he is a substantial shareholder within the meaning of Division 4 of Part IV of the Companies Act (Cap. 50) in that corporation or in a related corporation; or
+(b) in relation to a collective investment scheme, is the trustee or manager of the scheme,
 
-(c) he occupies a position that may reasonably be expected to give him access to information of a kind to which this section applies by virtue of —
+as the case may be, referred to in subsection (1A), where the prosecution or plaintiff proves that the connected person was at the material time —
 
-(i) any professional or business relationship existing between himself (or his employer or a corporation of which he is an officer) and that corporation or a related corporation; or
+(i) in possession of information concerning the corporation, business trust or scheme, as the case may be; and
 
-(ii) his being an officer of a substantial shareholder within the meaning of Division 4 of Part IV of the Companies Act in that corporation or in a related corporation.
+(ii) the information was not generally available,
+
+it shall be presumed, until the contrary is proved, that the connected person knew at the material time that —
+
+(A) the information was not generally available; and
+
+(B) if the information were generally available, it might have a material effect on the price or value of securities of that corporation, of securities of that business trust or of units in the scheme, as the case may be.
+
+[1/2005 wef 01/07/2005]
+
+(5) In this Division —
+
+(a) “connected person” means a person referred to in subsection (1) or (1A) who is connected to a corporation; and
+
+(b) a person is connected to a corporation if —
+
+(i) he is an officer of that corporation or of a related corporation;
+
+(ii) he is a substantial shareholder within the meaning of Division 4 of Part IV of the Companies Act (Cap. 50) in that corporation or in a related corporation; or
+
+(iii) he occupies a position that may reasonably be expected to give him access to information of a kind to which this section applies by virtue of —
+
+(A) any professional or business relationship existing between himself (or his employer or a corporation of which he is an officer) and that corporation or a related corporation; or
+
+(B) being an officer of a substantial shareholder within the meaning of Division 4 of Part IV of the Companies Act in that corporation or in a related corporation.
+
+[1/2005 wef 01/07/2005]
 
 (6) For the purposes of subsection (5), “officer”, in relation to a corporation, includes —
 
@@ -6053,7 +7350,7 @@ subsections (2) and (3) shall apply.
 
 ### Not necessary to prove intention to use
 
-220\.—(1) For the avoidance of doubt, in any proceedings against a person for a contravention of section 218 or 219, it is not necessary for the prosecution or plaintiff to prove that the accused person or defendant intended to use the information referred to in section 218(1)(a)or 219(1)(a) in contravention of section 218 or 219, as the case may be.
+220\.—(1) For the avoidance of doubt, in any proceedings against a person for a contravention of section 218 or 219, it is not necessary for the prosecution or plaintiff to prove that the accused person or defendant intended to use the information referred to in section 218(1)(a) or (1A)(a) or 219(1)(a) in contravention of section 218 or 219, as the case may be.
 
 (2) In any proceedings against a person for a contravention of section 218 or 219, it is not necessary for the prosecution or plaintiff to prove the absence of facts or circumstances which if they existed would, by virtue of sections 222 to 230 or any regulations made under section 341, preclude the act from constituting a contravention of section 218 or 219, as the case may be.
 
@@ -6063,7 +7360,7 @@ subsections (2) and (3) shall apply.
 
 (2) No proceedings shall be instituted against a person for an offence in respect of a contravention of section 218 or 219 after a court has made an order against him for the payment of a civil penalty under section 232 in respect of that contravention.
 
-### Exception for withdrawal from registered scheme
+### Exception for redemption of units in collective investment scheme
 
 222\. Sections 218(2) and 219(2) shall not apply in respect of the redemption of units in a collective investment scheme by a trustee or manager under a trust deed relating to that collective investment scheme in accordance with a buy-back covenant contained or deemed to be contained in the trust deed at a price that is required by the trust deed to be calculated, so far as is reasonably practicable, by reference to the underlying value of the assets less —
 
@@ -6075,21 +7372,21 @@ subsections (2) and (3) shall apply.
 
 223\.—(1) Sections 218(2) and 219(2) shall not apply in respect of —
 
-(a) subscribing for securities under an underwriting agreement or a sub-underwriting agreement;
+(a) subscribing for, or purchasing, securities under an underwriting agreement or a sub-underwriting agreement;
 
 (b) entering into an agreement referred to in paragraph (a); or
 
-(c) selling securities subscribed for under an agreement referred to in paragraph (a).
+(c) selling securities subscribed for, or purchased, under an agreement referred to in paragraph (a).
 
 (2) Sections 218(3) and 219(3) shall not apply in respect of the communication of information in relation to securities —
 
 (a) to a person solely for the purpose of procuring the person to enter into an underwriting agreement in relation to any such securities; or
 
-(b) by a person who may be required under an underwriting agreement to subscribe for any such securities if the communication is made to another person solely for the purpose of procuring the other person to do either or both of the following:
+(b) by a person who may be required under an underwriting agreement to subscribe for, or purchase, any such securities if the communication is made to another person solely for the purpose of procuring the other person to do either or both of the following:
 
 (i) enter into a sub-underwriting agreement in relation to any such securities;
 
-(ii) subscribe for any such securities.
+(ii) subscribe for, or purchase, any such securities.
 
 ### Exception for purchase pursuant to legal requirement
 
@@ -6221,7 +7518,7 @@ whichever is the greater.
 
 (6) A civil penalty imposed under this section shall be payable to the Authority.
 
-(7) If the person fails to pay the civil penalty imposed on him within the time specified in the court order referred to in subsection (4) or specified under the agreement referred to in subsection (5), the Authority may sue for and recover the civil penalty as though the civil penalty were a judgment debt due to the Authority.
+(7) If the person fails to pay the civil penalty imposed on him within the time specified in the court order referred to in subsection (4) or specified under the agreement referred to in subsection (5), the Authority may recover the civil penalty as though the civil penalty were a judgment debt due to the Authority.
 
 (8) Any defence that is available to a person who is prosecuted for a contravention of any provision in this Part, shall also be available to a defendant to an action under this section in respect of that contravention.
 
@@ -6361,9 +7658,7 @@ Division 1 —
 
 Shares and Debentures
 
-Subdivision (1) —
-
-Interpretation
+Subdivision (1) — Interpretation
 
 ### Preliminary provisions
 
@@ -6475,9 +7770,7 @@ then this Division does not apply to that offer or invitation.
 
 [16/2003 wef 22/12/2003]
 
-Subdivision (2) —
-
-Prospectus Requirements
+Subdivision (2) — Prospectus Requirements
 
 ### Requirement for prospectus and profile statement, where relevant
 
@@ -6588,6 +7881,8 @@ and, for the purposes of this subsection, the person who lodges the prospectus o
 (15) The Authority shall not refuse to register a copy of a prospectus under subsection (13) or profile statement under subsection (14) without giving the person who lodged the prospectus or profile statement an opportunity to be heard, except that an opportunity to be heard need not be given if the refusal is on the ground that it is not in the public interest to register the prospectus or profile statement on the basis of any of the following circumstances:
 
 (a) the corporation is in the course of being wound up or otherwise dissolved whether in Singapore or elsewhere;
+
+(b) [Deleted by Act 16 of 2003 wef 22/12/2003]
 
 (c) a receiver, a receiver and manager or an equivalent person has been appointed, whether in Singapore or elsewhere, in relation to or in respect of any property of the corporation.
 
@@ -6924,6 +8219,8 @@ until the Authority makes an order under subsection (1) or (2); and
 (3) The Authority may exempt any class of persons, or any class or description of prospectuses or profile statements, from any requirement of this Act relating to the form or content of a prospectus or profile statement, subject to such conditions or restrictions as may be determined by the Authority.
 
 [16/2003 wef 22/12/2003]
+
+(4) [Deleted by Act 16 of 2003 wef 22/12/2003]
 
 (5) Any person who contravenes any of the conditions or restrictions imposed under subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -7427,9 +8724,7 @@ and the allotment shall be so voidable notwithstanding that the company is in th
 
 (9) Any condition requiring or binding any applicant for shares or debentures, or units of shares or debentures, to waive compliance with any requirement of this section shall be void.
 
-Subdivision (3) —
-
-Debentures
+Subdivision (3) — Debentures
 
 ### Preliminary provisions
 
@@ -7479,11 +8774,15 @@ Debentures
 
 ### Duties of trustees
 
-266\.—(2) Where, after due inquiry, the trustee for the holders of the debentures at any time is of the opinion that the assets of the borrowing corporation and of any of its guarantor corporations which are or should be available whether by way of security or otherwise, are insufficient, or likely to become insufficient, to discharge the principal debt as and when it becomes due, the trustee may apply to the Authority for an order under this subsection.
+266\. 
+
+—(1) [Deleted by Act 16 of 2003 wef 22/12/2003]
+
+(2) Where, after due inquiry, the trustee for the holders of the debentures at any time is of the opinion that the assets of the borrowing corporation and of any of its guarantor corporations which are or should be available whether by way of security or otherwise, are insufficient, or likely to become insufficient, to discharge the principal debt as and when it becomes due, the trustee may apply to the Authority for an order under this subsection.
 
 (3) The Authority, on such application —
 
-(a) after giving the borrowing corporation an opportunity of making representations in relation to that application, by order in writing served on the corporation at its registered office in Singapore, may impose such restrictions on the activities of the borrowing corporation, including restrictions on advertising for deposits or loans and on borrowing by the corporation as the Authority thinks necessary for the protection of the interests of the holders of the debentures; or
+(a) after giving the borrowing corporation an opportunity of making representations in relation to that application, by order in writing served on the corporation at its registered office in Singapore, may impose such restrictions on the activities of the borrowing corporation , including restrictions on advertising for deposits or loans and on borrowing by the corporation as the Authority thinks necessary for the protection of the interests of the holders of the debentures; or
 
 (b) may, and if the borrowing corporation so requires, shall direct the trustee to apply to the court for an order under subsection (5); and the trustee shall apply accordingly.
 
@@ -7507,7 +8806,7 @@ the trustee may, and where the borrowing corporation has requested the trustee t
 
 (e) give such further directions from time to time as may be necessary to protect the interests of the holders of the debentures, the members of the borrowing corporation or any of its guarantor corporations or the public,
 
-but in making any such order the court shall have regard to the rights of all creditors of the borrowing corporation .
+but in making any such order the court shall have regard to the rights of all creditors of the borrowing corporation.
 
 (6) The court may vary or rescind any order made under subsection (5) as the court thinks fit.
 
@@ -7679,9 +8978,7 @@ the trustee may and, if in his opinion it is necessary for the protection of the
 
 (b) to deprive any trustee of any exemption or right to be indemnified in respect of anything done or omitted to be done by the trustee while any such provision was in force.
 
-Subdivision (4) —
-
-Exemptions
+Subdivision (4) — Exemptions
 
 ### Interpretation of this Subdivision
 
@@ -7945,9 +9242,7 @@ Division 1A —
 
 Business Trusts
 
-Subdivision (1) —
-
-Interpretation
+Subdivision (1) — Interpretation
 
 [31/2004 wef 12/10/2004]
 
@@ -8017,9 +9312,7 @@ Interpretation
 
 (b) the business trust is also a collective investment scheme and the offer or invitation is made in reliance on an exemption under Subdivision (4) of Division 2.
 
-Subdivision (2) —
-
-Prospectus Requirements
+Subdivision (2) —Prospectus Requirements
 
 ### Requirement for prospectus and profile statement, where relevant
 
@@ -8895,9 +10188,7 @@ but if a cheque for the sum payable has been received by the trustee-manager, th
 
 (8) Any condition requiring or binding any applicant for units or derivatives of units in a business trust to waive compliance with any requirement of this section shall be void.
 
-Subdivision (3) —
-
-Exemptions
+Subdivision (3) —Exemptions
 
 ### Interpretation of this Subdivision
 
@@ -9135,9 +10426,7 @@ Subdivision (2) of this Division (other than subsection (1)(a) of section 282C) 
 
 282ZB\. For the avoidance of doubt, it is hereby declared that in relation to any transaction carried out under an exempted offer or invitation under this Part, nothing in this Part shall limit or diminish any liability which any person may incur in respect of any relevant offence under Division 2 of Part XII of the Companies Act (Cap. 50) or Part XII of this Act or any penalty, award of compensation or punishment in respect of any such offence.
 
-Subdivision (4) —
-
-Debentures
+Subdivision (4) —Debentures
 
 ### Applicability of provisions relating to prospectus requirements
 
@@ -9147,9 +10436,7 @@ Division 2 —
 
 Collective Investment Schemes
 
-Subdivision (1) —
-
-Interpretation
+Subdivision (1) — Interpretation
 
 ### Interpretation of this Division
 
@@ -9162,18 +10449,6 @@ Interpretation
 (a) a profile statement; or
 
 (b) any material, advertisement or publication which is authorised by section 300 (other than subsection (3)), or which complies with such requirements as may be prescribed under section 300(1);
-
-“responsible person”, in relation to a collective investment scheme, means —
-
-(a) in the case of a scheme which is authorised under section 286 or for which an application for authorisation has been made under that section, the manager for the scheme;
-
-(b) in the case of a scheme which is recognised under section 287 or for which an application for recognition has been made under that section —
-
-(i) where the scheme is constituted as a corporation, the corporation;
-
-(ii) where the scheme is not constituted as a corporation, the manager for the scheme;
-
-[16/2003 wef 22/12/2003]
 
 “replacement document” means a replacement prospectus or a replacement profile statement referred to in section 298(1), as the case may be;
 
@@ -9241,9 +10516,7 @@ then this Division does not apply to that offer or invitation.
 
 [31/2004 wef 12/10/2004]
 
-Subdivision (2) —
-
-Authorisation and Recognition
+Subdivision (2) — Authorisation and Recognition
 
 ### Offers to public
 
@@ -9621,9 +10894,7 @@ the trustee shall summon a meeting of the participants for the purpose of determ
 
 (8) Any trustee who contravenes subsection (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
-Subdivision (3) —
-
-Prospectus Requirements
+Subdivision (3) — Prospectus Requirements
 
 ### Requirement for prospectus and profile statement, where relevant
 
@@ -10045,9 +11316,7 @@ have given to the securities exchange an undertaking in writing to comply with t
 
 (b) the persons accepting any offer or invitation to subscribe for or purchase any units were subscribers for or purchasers of shares, respectively.
 
-Subdivision (4) —
-
-Exemptions
+Subdivision (4) — Exemptions
 
 ### Offer or invitation made under certain circumstances
 
@@ -10126,6 +11395,8 @@ if —
 The offer or invitation which is the subject of this information memorandum is only allowed to be made to sophisticated investors and not the retail public. Moreover, this information memorandum is not a prospectus as defined in the Securities and Futures Act. Accordingly statutory liability under that Act in relation to the content of prospectuses would not apply. You should consider carefully whether the investment is suitable for you.
 
 ”; and
+
+(B) states the particulars referred to in subsection (2) in respect of the restricted scheme.
 
 (2) The particulars referred to in subsection (1)(iii)(B) to be included in the information memorandum are —
 
@@ -10301,43 +11572,9 @@ APPEALS
 
 MISCELLANEOUS
 
-### Prohibition of use of certain titles
+314\. [Deleted by Act 1/2005 wef 01/07/2005]
 
-314\.—(1) Except with the written approval of the Authority, no person, other than a securities exchange, shall —
-
-(a) take or use, or have attached to or exhibited at any place, the title or description “securities exchange”, “stock exchange” or “derivatives exchange” in any language; or
-
-(b) take or use, or have attached to or exhibited at any place, any title or description which resembles the titles or descriptions specified in paragraph (a) or so closely resembles such titles or descriptions as to be calculated to deceive.
-
-(2) Except with the written approval of the Authority, no person, other than a futures exchange, shall —
-
-(a) take or use, or have attached to or exhibited at any place, the title or description “futures exchange” or “derivatives exchange” in any language; or
-
-(b) take or use, or have attached to or exhibited at any place, any title or description which resembles the titles or descriptions specified in paragraph (a) or so closely resembles such titles or descriptions as to be calculated to deceive.
-
-(3) Except with the written approval of the Authority, no person, other than a clearing house, shall —
-
-(a) take or use, or have attached to or exhibited at any place, the title or description “clearing house” in any language; or
-
-(b) take or use, or have attached to or exhibited at any place, any title or description which resembles the titles or descriptions specified in paragraph (a) or so closely resembles such titles or descriptions as to be calculated to deceive.
-
-(4) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine of $2,000 for every day or part thereof during which the offence continues after conviction.
-
-### Secrecy
-
-315\.—(1) Every exchange holding company, securities exchange, futures exchange, recognised trading system provider, person granted an exemption under section 5(3) or 6(3) and clearing house, and every officer or employee thereof, shall preserve, and aid in preserving, secrecy with respect to all matters of the exchange holding company, securities exchange, futures exchange, recognised trading system provider, person granted an exemption under section 5(3) or 6(3) or clearing house, as the case may be.
-
-[16/2003 wef 22/12/2003]
-
-(2) Subsection (1) shall not apply —
-
-(a) to the disclosure of any information which is authorised by the Authority to be disclosed or furnished;
-
-(b) to the disclosure of information for the purpose of any legal proceedings brought under this Act or any other written law, or for the purpose of any report of any such proceedings, except that in relation to the position of a holder of a capital markets services licence to carry on business to deal in securities or trade in futures contracts or a customer of such holder, such proceedings may, if the court, on its own motion or on the application of a party to the proceedings, so orders, be held in camera and the information shall be secret as between the court and the parties to the proceedings; or
-
-(c) to the disclosure of information for such other purposes, or in such other circumstances, as the Authority may prescribe.
-
-(3) Any person who contravenes subsection (1), directly or indirectly, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+315\. [Deleted by Act 1/2005 wef 01/07/2005 wef 01/07/2005.]
 
 ### Opportunity to be heard
 
@@ -10477,7 +11714,7 @@ the Authority may refuse to register or receive the record and request that the 
 
 322\.—(1) The Authority may, where it thinks it necessary or expedient in the interest of the public or section of the public or for the protection of investors and in such form or manner as it thinks fit, publish —
 
-(a) any information relating to an exchange holding company, a securities exchange, a futures exchange, a recognised trading system provider, a person granted an exemption under section 5(3) or 6(3), a person operating an exempt market, a clearing house, a person operating an exempt clearing facility, a holder of a capital markets services licence, an exempt person, a representative, or an approved trustee for a collective investment scheme as defined in section 289; or
+(a) any information relating to an approved holding company, a securities exchange, a futures exchange, a recognised market operator, an exempt market operator, a person operating an exempt market, a designated clearing house, a person operating a clearing facility, a holder of a capital markets services licence, an exempt person, a representative, or an approved trustee for a collective investment scheme as defined in section 289; or
 
 (b) any other information which the Authority has acquired in the exercise of its functions or the performance of its duties under this Act.
 
@@ -10503,9 +11740,9 @@ the Authority may refuse to register or receive the record and request that the 
 
 (ii) under any other law, whether of Singapore or any territory or country outside Singapore, against any person referred to in subsection (1) and the outcome of such proceedings, including any settlement, whether in or out of court;
 
-(g) any disciplinary proceedings brought against any person referred to in subsection (1), by the Authority, a securities exchange, a futures exchange or a clearing house and the outcome of such proceedings; and
+(g) any disciplinary proceedings brought against any person referred to in subsection (1), by the Authority, a securities exchange, a futures exchange or a designated clearing house and the outcome of such proceedings; and
 
-(h) any other action as may have been taken by the Minister, the Authority, a securities exchange, a futures exchange or a clearing house against any person referred to in subsection (1).
+(h) any other action as may have been taken by the Minister, the Authority, a securities exchange, a futures exchange or a designated clearing house against any person referred to in subsection (1).
 
 323\. [Deleted by Act 24/2003 wef 01/01/2004]
 
@@ -10559,7 +11796,7 @@ the court may, on application by the Authority, make any one or more of the foll
 
 (i) has committed an offence under this Act;
 
-(ii) has contravened any condition or restriction of a licence, or the business rules of a securities exchange, futures exchange, or clearing house, or the listing rules of a securities exchange; or
+(ii) has contravened any condition or restriction of a licence, or the business rules of a securities exchange, futures exchange, or designated clearing house, or the listing rules of a securities exchange; or
 
 (iii) is about to do an act with respect to dealing in securities or trading in futures contracts that, if done, would be such an offence or contravention;
 
@@ -10567,7 +11804,7 @@ the court may, on application by the Authority, make any one or more of the foll
 
 (c) on the application of a futures exchange, it appears to the court that a person has contravened the business rules of the futures exchange; or
 
-(d) on the application of a clearing house, it appears to the court that a person has contravened the business rules of the clearing house,
+(d) on the application of a designated clearing house, it appears to the court that a person has contravened the business rules of the clearing house,
 
 the court may, without prejudice to any orders it would be entitled to make otherwise than under this section, make one or more of the following orders:
 
@@ -10673,7 +11910,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 “officer” includes a person purporting to act in the capacity of an officer;
 
-“relevant person” means any exchange holding company, securities exchange, futures exchange, recognised trading system provider, person granted an exemption under section 5(3) or 6(3), person operating an exempt market, clearing house, person operating an exempt clearing facility, holder of a capital markets services licence to carry on business in any regulated activity, exempt person, representative, or approved trustee for a collective investment scheme as defined in section 289.
+“relevant person” means any approved holding company, securities exchange, futures exchange, recognised market operator, exempt market, person operating an exempt market, designated clearing house, holder of a capital markets services licence to carry on business in any regulated activity, exempt person, representative, or approved trustee for a collective investment scheme as defined in section 289.
 
 ### Duty not to furnish false information to Authority
 
@@ -10685,15 +11922,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-### Duty not to furnish false statements to securities exchange, futures exchange, clearing house and Securities Industry Council
+### Duty not to furnish false statements to securities exchange, futures exchange, designated clearing house and Securities Industry Council
 
-330\.—(1) Any person who, with intent to deceive, makes or furnishes, or knowingly and wilfully authorises or permits the making or furnishing of, any false or misleading statement or report to a securities exchange, futures exchange, clearing house or any officers thereof relating to —
+330\.—(1) Any person who, with intent to deceive, makes or furnishes, or knowingly and wilfully authorises or permits the making or furnishing of, any false or misleading statement or report to a securities exchange, futures exchange, designated clearing house or any officers thereof relating to —
 
 (a) dealing in securities, trading in futures contracts, foreign exchange trading or leveraged foreign exchange trading;
 
-(b) the enforcement of the business rules of a securities exchange, futures exchange or a clearing house or the listing rules of a securities exchange;
+(b) the enforcement of the business rules of a securities exchange, futures exchange or a designated clearing house or the listing rules of a securities exchange;
 
-(c) the affairs of a corporation;
+the affairs of a corporation;
 
 (d) the affairs of the trustee-manager of a registered business trust; or
 
@@ -10741,7 +11978,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Offences by officers
 
-332\.—(1) Any person, being an officer of an exchange holding company, a securities exchange, a futures exchange, a recognised trading system provider, a clearing house, or a holder of a capital markets services licence to carry on business in any regulated activity, who fails to take all reasonable steps to secure —
+332\.—(1) Any person, being an officer of an approved holding company, a securities exchange, a futures exchange, a recognised market operator, a designated clearing house, or a holder of a capital markets services licence to carry on business in any regulated activity, who fails to take all reasonable steps to secure —
 
 (a) compliance with any provision of this Act; or
 
@@ -10759,7 +11996,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Subsection (1) shall not apply to —
 
-(a) offences under sections 5(16), 6(16), 9(9), 11(2), 14(3), 21(3), 22(7), 23(6), 25(3) and (4), 29(7), 32(3), 33(7), 36(10), 39(2), 42(3), 43(3), 44(7), 45(3) and (4), 50(13), 51(8), 54(2), 57(3), 63(3), 64(7), 103, 105, 107(3) and (4), 125(8), 129, 289(7), 290(4) and 295(6); or
+(a) offences under sections 8(12), 14(11), 22, 29(3), 32(7), 43, 44(10), 46(2), 50(2), 51(2), 52(2), 54(9), 56(2), 70, 78(4), 79(2), 81A(10), 81W(8), 81ZA(3), 81ZB(2), 81ZC(2), 81ZD(3), 81ZJ(10), 81ZL(2), 103, 105, 107(3) and (4), 125(8), 129, 289(7), 290(4) and 295(6); or
 
 (b) offences under any subsidiary legislation made under this Act where it is expressly provided in the subsidiary legislation that subsection (1) shall not apply to those offences.
 
@@ -10785,7 +12022,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (iii) any misconduct code, guideline, policy statement or practice note issued under section 321; or
 
-(iv) any business rules of a securities exchange, a futures exchange or clearing house, or the listing rules of a securities exchange; or
+(iv) any business rules of a securities exchange, a futures exchange or designated clearing house, or the listing rules of a securities exchange; or
 
 (b) the failure by an officer of a relevant person to discharge any duty or function of his office; or
 
@@ -10807,7 +12044,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [16/2003 wef 22/12/2003]
 
-“relevant person” means an exchange holding company, a securities exchange, a futures exchange, a recognised trading system provider, a person granted an exemption under section 5(3) or 6(3), a person operating an exempt market, a clearing house, a person operating an exempt clearing facility, a holder of a capital markets services licence, an exempt person, an approved trustee for a collective investment scheme as defined in section 289, or any employee, officer, partner or representative thereof.
+“relevant person” means an approved holding company, a securities exchange, a futures exchange, a recognised market operator, an exempt market operator, a person operating an exempt market, a designated clearing house, a holder of a capital markets services licence, an exempt person, an approved trustee for a collective investment scheme as defined in section 289, or any employee, officer , partner or representative thereof.
 
 ### General penalty
 
@@ -10847,7 +12084,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Without prejudice to the generality of subsection (1), such regulations may provide for —
 
-(a) exemptions from the requirements relating to licensing, approval or registration of any person, the recognition of recognised trading system providers or the lodgment or registration of any document under this Act;
+(a) exemptions from the requirements relating to licensing, approval or registration of any person, the recognition of recognised market operators or the lodgment or registration of any document under this Act;
 
 (b) exemptions from any requirement in Part XIII;
 
@@ -10905,7 +12142,7 @@ the act shall be treated as being carried out by that person in Singapore.
 
 (d) the activities of, and standards to be maintained by persons holding a capital markets services licence to carry on business in any regulated activity and their representatives, including the manner, method and place of soliciting business by the holder of the licence and their representatives and the conduct of such solicitation;
 
-(f) the conditions for the conduct of business on a securities exchange, futures exchange, recognised trading system provider, or clearing house;
+(f) the conditions for the conduct of business on a securities exchange, futures exchange, recognised market operator, or clearing facility;
 
 (g) the form, content distribution and publication of written, printed or visual material and advertisements that may be distributed or used by a person in respect of any regulated activity, including advertisements offering the services of persons holding a capital markets services licence or offering capital markets products for sale;
 
@@ -10921,7 +12158,7 @@ the act shall be treated as being carried out by that person in Singapore.
 
 (m) the specification of manipulative and deceptive devices and contrivances in connection with the purchase or sale of securities, futures contracts or leveraged foreign exchange trading;
 
-(n) the regulation or prohibition of trading on the floor of a securities exchange, futures exchange or recognised trading system provider by members of a securities exchange, futures exchange or recognised trading system provider, as the case may be, or their representatives directly or indirectly for their own accounts and the prevention of such excessive trading on a securities exchange, futures exchange or recognised trading system provider but off the floor of a securities exchange, futures exchange or recognised trading system provider by members of a securities exchange, futures exchange or recognised trading system provider, as the case may be, or their representatives directly or indirectly for their own accounts as the Authority may consider is detrimental to the maintenance of a fair and orderly market; and the exemption of such transactions as the Authority may decide to be necessary in the interest of the public, or a section of the public or for the protection of investors;
+(n) the regulation or prohibition of trading on the floor of a securities exchange, futures exchange or recognised market operator by members of a securities exchange, futures exchange or recognised market operator, as the case may be, or their representatives directly or indirectly for their own accounts and the prevention of such excessive trading on a securities exchange, futures exchange or recognised market operator but off the floor of a securities exchange, futures exchange or recognised market operator by members of a securities exchange, futures exchange or recognised market operator, as the case may be, or their representatives directly or indirectly for their own accounts as the Authority may consider is detrimental to the maintenance of a fair and orderly market; and the exemption of such transactions as the Authority may decide to be necessary in the interest of the public, or a section of the public or for the protection of investors;
 
 (o) the borrowing in the ordinary course of business by persons holding a capital markets services licence as the Authority may consider necessary or appropriate in the interest of the public, or a section of the public or for the protection of investors;
 
@@ -10965,21 +12202,75 @@ FIRST SCHEDULE
 
 Section 2
 
-Markets
+Part I
 
-In this Act —
+Market
 
-“futures market” means a place at which, or a facility (whether electronic or otherwise) by means of which, offers or invitations to sell, purchase or exchange futures contracts are regularly made on a centralised basis, being offers or invitations that are intended or may reasonably be expected, to result, directly or indirectly, in the acceptance or making, respectively, of offers to sell, purchase or exchange futures contracts (whether through that place or facility or otherwise), but does not include a place or facility used by only one person —
+Definition of market
 
-(a) to regularly make offers or invitations to sell, purchase or exchange futures contracts, being offers or invitations that are intended or may reasonably be expected, to result, directly or indirectly in the acceptance or making, respectively, of offers to sell, purchase or exchange futures contracts; or
+1\. In this Act, “market” means a securities market or futures market.
 
-(b) to regularly accept offers to sell, purchase or exchange futures contracts;
+Definition of futures market
 
-“securities market” means a place at which, or a facility (whether electronic or otherwise) by means of which, offers or invitations to sell, purchase or exchange issued securities are regularly made on a centralised basis, being offers or invitations that are intended or may reasonably be expected, to result, directly or indirectly, in the acceptance or making, respectively, of offers to sell, purchase or exchange issued securities (whether through that place or facility or otherwise) but does not include a place or facility used by only one person —
+2.—(1) In this Act, “futures market” means a place at which, or a facility (whether electronic or otherwise) by means of which, offers or invitations to sell, purchase or exchange futures contracts are regularly made on a centralised basis, being offers or invitations that are intended or may reasonably be expected to result, whether directly or indirectly, in the acceptance or making, respectively, of offers to sell, purchase or exchange futures contracts (whether through that place or facility or otherwise).
 
-(a) to regularly make offers or invitations to sell, purchase or exchange issued securities, being offers or invitations that are intended or may reasonably be expected, to result, directly or indirectly, in the acceptance or making, respectively, of offers to sell, purchase or exchange issued securities; or
+(2) For the purposes of this Act, “futures market” does not include —
 
-(b) to regularly accept offers to sell, purchase or exchange issued securities.
+(a) a place or facility used by only one person —
+
+(i) to regularly make offers or invitations to sell, purchase or exchange futures contracts; or
+
+(ii) to regularly accept offers to sell, purchase or exchange futures contracts; or
+
+(b) a place or facility that enables persons to negotiate material terms (in addition to the price) of, and enter into transactions in, futures contracts, where the material terms (in addition to the price) of futures contracts are discretionary and not predetermined by the rules or practices of the place or facility.
+
+Definition of securities market
+
+3.—(1) In this Act, “securities market” means a place at which, or a facility (whether electronic or otherwise) by means of which, offers or invitations to sell, purchase or exchange issued securities or such other securities as the Authority may prescribe are regularly made on a centralised basis, being offers or invitations that are intended or may reasonably be expected, to result, whether directly or indirectly, in the acceptance or making, respectively, of offers to sell, purchase or exchange issued securities or prescribed securities (whether through that place or facility or otherwise).
+
+(2) For the purposes of this Act, “securities market” does not include a place or facility used by only one person —
+
+(a) to regularly make offers or invitations to sell, purchase or exchange securities; or
+
+(b) to regularly accept offers to sell, purchase or exchange securities.
+
+Part II
+
+Clearing Facility
+
+Definition of clearing facility
+
+4.—(1) In this Act —
+
+“clearing facility” means —
+
+(a) a facility for the clearing or settlement of —
+
+(i) transactions in securities; or
+
+(ii) futures contracts; or
+
+(b) such other clearing or settlement facility or class of clearing or settlement facilities as the Authority may, by order, prescribe;
+
+“clearing or settlement”, in relation to a clearing facility, means any arrangement, process, mechanism or service provided by a person in respect of transactions, by which —
+
+(a) information relating to the terms of those transactions are verified by such person with a view to confirming the transactions;
+
+(b) parties to those transactions substitute, through novation or otherwise, the credit of such person for the credit of the parties;
+
+(c) the obligations of parties under those transactions are calculated, whether or not such calculations include multilateral netting arrangements; or
+
+(d) parties to those transactions meet their obligations under such transactions, including the obligation to deliver, the transfer of funds or the transfer of title to securities between the parties.
+
+(2) For the purposes of this Act, “clearing or settlement” does not include —
+
+(a) the back office operations of a party to the transactions referred to in sub-paragraph (1);
+
+(b) the services provided by a person who has, under an arrangement with another person (referred to in this sub-paragraph as the customer), possession or control of securities of the customer, where those services are solely incidental to the settlement of transactions relating to the securities; or
+
+(c) any other arrangement, process, mechanism or service which the Authority may prescribe.
+
+[1/2005 wef 01/07/2005]
 
 SECOND SCHEDULE
 
@@ -11031,17 +12322,21 @@ In this Schedule —
 
 “advising on corporate finance” means giving advice —
 
-(a) to any entity concerning compliance with or in respect of laws or regulatory requirements (including the listing rules of a securities exchange) relating to the raising of funds by any entity;
+(a) to any person (whether as principal or agent, or as trustee of a trust) concerning compliance with or in respect of laws or regulatory requirements (including the listing rules of a securities exchange) relating to the raising of funds by any entity, trustee of a trust on behalf of the trust or responsible person of a collective investment scheme on behalf of the collective investment scheme;
 
-(b) to the person making an offer or invitation to the public —
+(b) to a person making an offer —
 
 (i) to subscribe for or purchase securities; or
 
 (ii) to sell or otherwise dispose of securities,
 
-concerning that offer or invitation; or
+concerning that offer;
 
-(c) concerning the arrangement, reconstruction or take-over of a corporation or any of its assets or liabilities;
+(c) concerning the arrangement, reconstruction or take-over of a corporation or any of its assets or liabilities; or
+
+(d) concerning the take-over of a business trust or any of its assets or liabilities held by the trustee-manager on behalf of the business trust.
+
+[1/2005 wef 01/07/2005]
 
 “dealing in securities” means (whether as principal or agent) making or offering to make with any person, or inducing or attempting to induce any person to enter into or to offer to enter into any agreement for or with a view to acquiring, disposing of, subscribing for, or underwriting securities;
 
@@ -11175,21 +12470,9 @@ whose carrying on of the business in that regulated activity is solely incidenta
 
 7\. Any approved trustee for a collective investment scheme as defined in section 289 whose carrying on of business in a regulated activity is solely incidental to its carrying on of activities as such approved trustee.
 
-8.—(1) Any responsible person for a collective investment scheme as defined in section 283 that is authorised under section 286 or recognised under section 287, as the case may be, in respect of its dealing in securities, if such responsible person is also —
+8\.Deleted by Act 1/2005 wef 01/07/2005.
 
-(a) a holder of a capital markets services licence for fund management; or
-
-(b) an exempt person in respect of fund management.
-
-(2) Any responsible person for a collective investment scheme as defined in section 283 that is authorised under section 286 or recognised under section 287, as the case may be, in respect of its dealing in securities which are units of that collective investment scheme, if the dealing is effected through any of the following persons:
-
-(a) a holder of a capital markets services licence to deal in securities;
-
-(b) an exempt person in respect of dealing in securities that are units of any collective investment scheme;
-
-(c) a financial adviser licensed under the Financial Advisers Act (Cap. 110) to market collective investment schemes; or
-
-(d) an exempt financial adviser as defined in the Financial Advisers Act in respect of marketing of collective investment schemes.
+8\.—(2)
 
 9. A foreign company whose carrying on of any regulated activity is effected under an arrangement between the foreign company (on the one hand) and its related corporation which is licensed under this Act or exempted under section 99(1)(a), (b), (c) or (d) (on the other hand), where such arrangement is approved by the Authority.
 
@@ -11271,7 +12554,7 @@ Securities and Futures Act
 
 (CHAPTER 289)
 
-This Legislative History is provided for the convenience of users of the Securities and Futures Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Securities and Futures Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -11320,6 +12603,16 @@ This Legislative History is provided for the convenience of users of the Securit
 |||(Bill No. 64/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
+|10.|**Act 1 of 2005—Securities and Futures (Amendment) Act 2005**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 46/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|1 July 2005|
+|11.|**Act 42 of 2005—Statutes (Miscellaneous Amendment No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 July 2005|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
