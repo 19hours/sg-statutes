@@ -2416,19 +2416,27 @@ Fee
 
 $30
 
-2. Any other immovable property
+2. Any other immovable property —
 
-(a) on the first $10,000 of the difference between the certified value under section 37(3) and the value on which, in the opinion of the applicant for adjudication, the duty was chargeable
+(a) where there is no difference between the certified value under section 37(3) and the value on which, in the opinion of the applicant for the adjudication, the duty was chargeable
+
+$105 for each certificate of valuation
+
+(b) where there is such a difference —
+
+(i) on the first $10,000 of such difference
 
 1%
 
-(b) on the next $90,000 of such difference
+(ii) on the next $90,000 of such difference
 
-0.5%
+0.50%
 
-(c) on the excess where the difference is in excess of $100,000
+(iii) on the excess where the difference is in excess of $100,000
 
-0.25% or $105 for each certificate of adjudication, whichever is the higher.
+0.25%, or $105 for each certificate of valuation, whichever is the higher.
+
+[S 448/2005 wef 08/07/2005]
 
 [33/99; 32/2000]
 
@@ -2658,6 +2666,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 60/2004 published on 4 March 2005)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
+|62.|**G. N. No. S 448/2005—Stamp Duties Act (Amendment of Fifth Schedule) Notification 2005**|
+||Date of commencement|8 July 2005|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
