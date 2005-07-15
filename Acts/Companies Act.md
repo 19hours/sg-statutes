@@ -10778,7 +10778,9 @@ and, in making a call, may take into consideration the probability that some of 
 
 285\.—(1) The Court may summon before it any officer of the company or person known or suspected to have in his possession any property of the company or supposed to be indebted to the company, or any person whom the Court considers capable of giving information concerning the promotion, formation, trade dealings, affairs or property of the company.
 
-(2) The Court may examine him on oath concerning the matters mentioned in subsection (1) either by word of mouth or on written interrogatories and may reduce his answers to writing and require him to sign them, and any writing so signed may be used in evidence in any legal proceedings against him.
+(2) The Court may examine him on oath concerning the matters mentioned in subsection (1) either by word of mouth or on written interrogatories and may cause to be made a record of his answers, and any such record may be used in evidence in any legal proceedings against him.
+
+[17/2005 wef 15/07/2005]
 
 (3) The Court may require him to produce any books and papers in his custody or power relating to the company, but where he claims any lien on books or papers the production shall be without prejudice to that lien, and the Court shall have jurisdiction to determine all questions relating to that lien.
 
@@ -10804,15 +10806,13 @@ and, in making a call, may take into consideration the probability that some of 
 
 (6) Where a person directed to attend before the Court under subsection (1) applies to the Court to be exculpated from any charges made or suggested against him, the liquidator shall appear on the hearing of the application and call the attention of the Court to any matters which appear to him to be relevant and if the Court, after hearing any evidence given or witnesses called by the liquidator, grants the application the Court may allow the applicant such costs as the Court in its discretion thinks fit.
 
-(7) Notes of the examination —
+(7) The record of the examination —
 
-(a) shall be reduced to writing;
+(a) may be used in evidence in any legal proceedings against the person examined; and
 
-(b) shall be read over to or by and signed by the person examined;
+(b) shall, at all reasonable times, be made available to any creditor or contributory for review at the court premises.
 
-(c) may thereafter be used in evidence in any legal proceedings against him; and
-
-(d) shall be open to the inspection of any creditor or contributory at all reasonable times.
+[17/2005 wef 15/07/2005]
 
 (8) The Court may if it thinks fit adjourn the examination from time to time.
 
@@ -15365,3 +15365,8 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 64/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
+|79.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
+||Date of First Reading|18 April 2005|
+|||(Bill No. 7/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|15 July 2005|
