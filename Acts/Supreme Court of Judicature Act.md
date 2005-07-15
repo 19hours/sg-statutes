@@ -660,9 +660,7 @@ Allocation of Proceedings
 
 (b) may make such provision governing appeals relating to proceedings transferred to the District Court (including provisions restricting the right of appeal) as the Chief Justice thinks fit; and
 
-[36/2004 wef 01/11/2004]
-
- may make such incidental provision for the transfer of the proceedings to the District Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
+(c) may make such incidental provision for the transfer of the proceedings to the District Court (including matters relating to procedure and costs) as the Chief Justice thinks fit.
 
 [16/93]
 
@@ -820,11 +818,7 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 (e) where the High Court makes an order in the exercise of its appellate jurisdiction with respect to any proceedings under the Adoption of Children Act (Cap. 4) or under Part VII, VIII or IX of the Women’s Charter (Cap. 353).
 
-[36/2004 wef 01/11/2004]
-
 (2A) Subsection (2)(a) shall not apply to any case heard and determined by the High Court in the exercise of its original jurisdiction under section 17A of this Act or under section 59 or Part X of the Women’s Charter.
-
-[36/2004 wef 01/11/2004]
 
 (3) The President may, after consulting the Chief Justice, by order published in theGazettevary the amount mentioned in subsection (2)(a).
 
@@ -936,7 +930,9 @@ CRIMINAL JURISDICTION OF COURT OF APPEAL
 
 [58/73]
 
-(2) As soon as possible after notice of appeal has been filed, the Registrar shall cause to be served on the appellant or his advocate and solicitor at his address for service specified under section 45(2)(b) a notice that a copy of the record is available and can be had on applying for the same and, in respect of a shorthand transcript, on payment of the prescribed fee.
+(2) As soon as possible after notice of appeal has been filed, the Registrar shall cause to be served on the appellant or his advocate and solicitor at his address for service specified under section 45(2)(b) a notice that a copy of the record is available and can be had on applying for the same and on payment of the prescribed fee.
+
+[17/2005 wef 15/07/2005]
 
 ### Petition of appeal
 
@@ -1676,6 +1672,13 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 35/2004)|
 ||Date of Second and Third Readings|21 September 2004|
 ||Date of commencement|1 November 2004|
+|19.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
+||Date of First Reading|18 April 2005|
+|||(Bill No. 7/2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|15 July 2005 (section 11 — amendment of Supreme Court of Judicature Act)|
+=
+
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
