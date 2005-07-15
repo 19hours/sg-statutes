@@ -46,9 +46,9 @@
 
 - [16 Civil proceedings in High Court](#Civil-proceedings-in-High-Court)
 
-[**District Courts**](#District-Courts)
+[**Subordinate Courts**](#Subordinate-Courts)
 
-- [17 Civil proceedings in a District Court](#Civil-proceedings-in-a-District-Court)
+- [17 Civil proceedings in a subordinate court](#Civil-proceedings-in-a-subordinate-court)
 
 [**General**](#General)
 
@@ -324,13 +324,17 @@ The High Court
 
 16\. Subject to the provisions of this Act, all civil proceedings by or against the Government in the High Court shall, subject to the provisions of any other written law for the time being in force, be instituted and proceeded with in accordance with the provisions of this Act and not otherwise.
 
-District Courts
+Subordinate Courts
 
-### Civil proceedings in a District Court
+### Civil proceedings in a subordinate court
 
-17\.—(1) Subject to the provisions of this Act and of any written law limiting the jurisdiction of a District Court (whether by reference to the subject-matter of the proceedings to be brought or the amount sought to be recovered in the proceedings or otherwise), any civil proceedings against the Government may be instituted in a District Court.
+17\.—(1) Subject to the provisions of this Act and of any written law limiting the jurisdiction of a subordinate court (whether by reference to the subject-matter of the proceedings to be brought or the amount sought to be recovered in the proceedings or otherwise), any civil proceedings against the Government may be instituted in a subordinate court.
 
-(2) Any proceedings by or against the Government in a District Court shall be instituted and proceeded with in accordance with the provisions of this Act and not otherwise.
+[17/2005 wef 15/07/2005]
+
+(2) Any proceedings by or against the Government in a subordinate court shall be instituted and proceeded with in accordance with the provisions of this Act and not otherwise.
+
+[17/2005 wef 15/07/2005]
 
 General
 
@@ -394,7 +398,7 @@ a legal officer may appear as advocate on behalf of such public officer and shal
 
 ### Transfer of proceedings to High Court
 
-25\.—(1) If, at any stage in any civil proceedings in a District Court to which the Government is a party, an application is made by the Government to the High Court by reason that the proceedings may involve an important question of law or may be decisive of other cases arising in the same matter or that it is otherwise desirable in the public interest or for any other reason that such proceedings should be transferred to the High Court, and there is produced to the High Court a certificate of the Attorney-General to that effect, the High Court shall order the proceedings to be transferred to the High Court.
+25\.—(1) If, at any stage in any civil proceedings in a subordinate court to which the Government is a party, an application is made by the Government to the High Court by reason that the proceedings may involve an important question of law or may be decisive of other cases arising in the same matter or that it is otherwise desirable in the public interest or for any other reason that such proceedings should be transferred to the High Court, and there is produced to the High Court a certificate of the Attorney-General to that effect, the High Court shall order the proceedings to be transferred to the High Court.
 
 (2) Notwithstanding subsection (1), if it appears to the High Court that the removal of the proceedings in accordance with that subsection is likely to occasion substantial additional expenses to any party to the proceedings other than the Government, the High Court may refuse to grant the application unless the Government enters into an undertaking that it will, on or before such date as the High Court may specify, pay to such other party such sum of money as, in the opinion of the High Court, is necessary to cover the additional expense likely to be so occasioned to such party. The amount of such sum of money shall be ascertained in such manner as the High Court may direct.
 
@@ -596,3 +600,8 @@ This Legislative History is provided for the convenience of users of the Governm
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Dates of commencement|1 October 1997|
+|7.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
+||Date of First Reading|18 April 2005|
+|||(Bill No. 7/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|15 July 2005|
