@@ -1592,9 +1592,13 @@ if it appears to the court that such person would be able to give information co
 
 (8) It shall be the duty of the bankrupt and any other person summoned by the court under this section to answer all such questions as the court puts or allows to be put to him.
 
-(9) The court shall cause to be taken down in writing such notes of the examination as the court thinks proper and any notes so taken down shall be read over to and signed by the person in the course of whose examination they were taken down, and may thereafter be used in evidence against such person.
+(9) The court shall cause to be made such record of the examination as the court thinks proper and any record so made may thereafter be used in evidence against the person in the course of whose examination the record was made.
 
-(10) Any notes of examination taken down by the court under subsection (9) shall, at all reasonable times, be open to the inspection of any creditor, upon payment of the prescribed fee.
+[17/2005 wef 15/07/2005]
+
+(10) Any record made under subsection (9) shall, at all reasonable times and upon payment of the prescribed fee, be made available to any creditor for review at the court premises.
+
+[17/2005 wef 15/07/2005]
 
 (11) Where the court is of the opinion that the affairs of the bankrupt have been sufficiently investigated, it shall, by order, conclude the examination.
 
@@ -3215,6 +3219,12 @@ This Legislative History is provided for the convenience of users of the Bankrup
 |||(Bill No. 4/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|8 March 2004|
+|||(section 2 — Amendment of Bankruptcy Act)|
+|13.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
+||Date of First Reading|18 April 2005|
+|||(Bill No. 7/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|15 July 2005|
 |||(section 2 — Amendment of Bankruptcy Act)|
 ## COMPARATIVE TABLE
 
