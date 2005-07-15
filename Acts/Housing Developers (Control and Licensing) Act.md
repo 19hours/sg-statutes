@@ -116,9 +116,13 @@ PRELIMINARY
 
 (b) group of persons, whether in partnership or otherwise;
 
-(c) society, whether a co-operative society or otherwise; or
+(c) society, whether a co-operative society or otherwise;
 
-(d) company ,
+(d) company ; or
+
+(e) limited liability partnership,
+
+[17/2005 wef 15/07/2005]
 
 who or which engages in or undertakes housing development, but does not include any —
 
@@ -142,7 +146,17 @@ more than 4 units of housing accommodation; or
 
 “licence” means a licence granted under section 4(4);
 
-“licensed housing developer” means a housing developer holding a valid licence.
+“licensed housing developer” means a housing developer holding a valid licence;
+
+“limited liability partnership” and “limited liability partnership agreement” have the same meanings as in section 2(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
+
+[17/2005 wef 15/07/2005]
+
+“manager”, in relation to a limited liability partnership, has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005.
+
+[17/2005 wef 15/07/2005]
+
+[37/2008 wef 04/05/2009]
 
 ### Minister to appoint Controller and other officers
 
@@ -166,19 +180,27 @@ LICENSING OF HOUSING DEVELOPERS
 
 (c) if a society, the rules or by-laws of the society;
 
-(d) a copy of the latest balance-sheet of the partnership, society or company or, in the case of a person or group of persons, the balance-sheet, if any, relating to any housing development undertaken by the person or group of persons; and
+(d) if a limited liability partnership, a copy of its limited liability partnership agreement or, in the absence of such agreement in writing, any other document which sets out the mutual rights and duties of the partners of the limited liability partnership;
 
-(e) such other information as may be required by the Controller.
+(e) a copy of the latest balance-sheet of the partnership, society, company or limited liability partnership or, in the case of a person or group of persons, the balance-sheet, if any, relating to any housing development undertaken by the person or group of persons; and
 
-(3) Any copy of a memorandum, articles of association, agreement, partnership agreement, rules or by-laws of a society or balance-sheet which is supplied to the Controller under subsection (2) shall be duly verified by a statutory declaration in the case of —
+(f) such other information as may be required by the Controller.
 
-(a) a company, by a senior officer of the company;
+[17/2005 wef 15/07/2005]
 
-(b) a partnership, by a partner;
+(3) Any copy of any memorandum, articles of association, agreement, partnership agreement, limited liability partnership agreement or other document to that effect, rules or by-laws of a society or balance-sheet which is supplied to the Controller under subsection (2) shall be duly verified by a statutory declaration by the following person:
 
-(c) a society, by the president or the secretary or person holding a position analogous to that of president or secretary; and
+(a) in the case of a company, by a senior officer of the company;
 
-(d) a person or group of persons, by that person or by any person in the group of persons.
+(b) in the case of a partnership, by a partner;
+
+(c) in the case of a society, by the president or the secretary or person holding a position analogous to that of president or secretary;
+
+(d) in the case of a person or group of persons, by that person or by any person in the group of persons; and
+
+(e) in the case of a limited liability partnership, by its manager.
+
+[17/2005 wef 15/07/2005]
 
 (4) Upon receiving an application under subsection (2), the Controller may, subject to section 5, grant a licence, with such conditions as may be imposed for carrying out the purposes of this Act or without conditions.
 
@@ -208,15 +230,19 @@ Provided that —
 
 (a) is a company, if its capital issued and paid up in cash is less than $100,000;
 
-(b) consists of any person or group of persons or society, without a deposit of $100,000 in such form as may be determined by the Minister;
+(b) consists of any person or group of persons, society or limited liability partnership, without a deposit of $100,000 in such form as may be determined by the Minister;
 
 (c) has an undischarged bankrupt in the case of —
 
 (i) a company, as director, manager or secretary or in a position analogous to that of a director, manager or secretary;
 
-(ii) a society, as president, secretary or treasurer or in a position analogous to that of president, secretary or treasurer; or
+(ii) a society, as president, secretary or treasurer or in a position analogous to that of president, secretary or treasurer;
 
 (iii) a partnership, as partner; or
+
+(iv) a limited liability partnership, as manager or in a position analogous to that of manager; or
+
+[17/2005 wef 15/07/2005]
 
 (d) consists of a person or group of persons, if the person or any person in the group of persons is an undischarged bankrupt:
 
@@ -258,7 +284,11 @@ DUTIES OF LICENSED HOUSING DEVELOPERS
 
 (b) if a society, in the by-laws or rules of the society;
 
-(c) if a group of persons or partnership, in any agreement,
+(c) if a group of persons or partnership, in any agreement;
+
+(d) if a limited liability partnership, in the limited liability partnership agreement or other document to that effect,
+
+[17/2005 wef 15/07/2005]
 
 furnish to the Controller particulars in writing of the alteration.
 
@@ -546,11 +576,13 @@ GENERAL
 
 ### Individual not eligible to take part in management of business of licensed housing developer
 
-25\.—(1) Without prejudice to anything in any written law relating to companies, co-operative societies, societies or partnerships, any person who is a director, manager or secretary of a licensed housing developer or who holds a position analogous to that of a director, manager or secretary shall cease to hold office —
+25\.—(1) Without prejudice to anything in any written law relating to companies, co-operative societies, societies, limited liability partnerships or partnerships, any person who is a director, manager or secretary of a licensed housing developer or who holds a position analogous to that of a director, manager or secretary shall cease to hold office —
 
 (a) if he becomes bankrupt, suspends payment or compounds with his creditors; or
 
 (b) if he is convicted of an offence involving dishonesty or fraud.
+
+[17/2005 wef 15/07/2005]
 
 (2) No person who has been a director of, or directly concerned in the management of, the business of a licensed housing developer that has been wound up by a court shall, without the approval in writing of the Minister, act or continue to act as a director of, or be directly concerned in, the management of the business of any licensed housing developer.
 
@@ -566,7 +598,7 @@ GENERAL
 
 ### Offences by companies, etc., and by employees and agents
 
-27\.—(1) Where any offence against any provision of this Act has been committed by a company, firm, society or other body of persons, any person who at the time of the commission of the offence was a director, manager or secretary or held a position analogous to that of a director, manager or secretary or was purporting to act in such a capacity shall be deemed to be guilty of that offence, unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances. That person shall be liable on conviction to imprisonment for a term which shall not be less than 12 months, but which shall not exceed 3 years and shall also be liable to a fine not exceeding $10,000.
+27\.—(1) Where any offence against any provision of this Act has been committed by a company, firm, society, limited liability partnership or other body of persons, any person who at the time of the commission of the offence was a director, manager or secretary or held a position analogous to that of a director, manager or secretary or was purporting to act in such a capacity shall be deemed to be guilty of that offence, unless he proves that the offence was committed without his consent or connivance and that he exercised all such diligence to prevent the commission of the offence as he ought to have exercised, having regard to the nature of his functions in that capacity and to all the circumstances. That person shall be liable on conviction to imprisonment for a term which shall not be less than 12 months, but which shall not exceed 3 years and shall also be liable to a fine not exceeding $10,000.
 
 (2) Where any person would be liable under this Act to any punishment or penalty for any act, omission, neglect or default he shall be liable to the same punishment or penalty for every such act, omission, neglect or default of any employee or agent, or of the employee of his agent:
 
@@ -619,3 +651,8 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 6/2004 published on 7 February 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|1 April 2005|
+|7.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
+||Date of First Reading|18 April 2005|
+|||(Bill No. 7/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|15 July 2005|
