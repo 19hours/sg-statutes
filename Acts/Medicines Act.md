@@ -848,7 +848,7 @@ the licensing authority may not, for a period of 5 years from the date of such g
 
 (4) Any person who without reasonable excuse fails to comply with a requirement imposed on him by a notice under section 19(2) shall be guilty of an offence.
 
-(5) Any person guilty of an offence under subsection (1), (2) or (3) shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+(5) Any person guilty of an offence under subsection (1), (2), (3) or (3A) shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (6) Any person guilty of an offence under subsection (4) shall be liable on conviction to a fine not exceeding $2,000.
 
@@ -1752,3 +1752,8 @@ This Legislative History is provided for the convenience of users of the Medicin
 |||(Bill No. 25/2004 published on 20 May 2004)|
 ||Date of Second and Third Readings|15 June 2004|
 ||Date of commencement|1 July 2004|
+|9.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
+||Date of First Reading|18 April 2005|
+|||(Bill No. 7/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|15 July 2005|
