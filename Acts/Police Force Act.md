@@ -1228,19 +1228,27 @@ PUBLIC OFFICERS WITH POLICE POWERS
 
 ### Intelligence officers
 
-65\.—(1) An intelligence officer who is designated by the Minister for the purposes of this section —
+65\.—(1) An intelligence officer shall be —
 
-(a) shall have all the powers of investigation conferred on police officers in relation to the investigation of offences under the Criminal Procedure Code or under such other written law as the Minister may, by notification in theGazette, prescribe and shall be deemed to be a police officer not below the rank of inspector; and
+(a) deemed to be a police officer for the purposes of any written law and shall have the powers, protection and immunities of a police officer of a rank corresponding to his grade;
 
-(b) shall be entitled to such protection and privilege under section 25 as if he were a police officer.
+(b) entitled to such protection and privilege under section 25 as if he were a police officer; and
 
-(2) An intelligence officer so designated by the Minister under subsection (1) shall also be deemed to be a police officer for the purposes of the Internal Security Act (Cap. 143).
+(c) deemed to be a public servant within the meaning of the Penal Code (Cap. 224) when carrying out his functions and duties as a police officer.
 
-(3) The Minister may, in his discretion, confer on such intelligence officer as he may determine the powers of an Assistant Superintendent of Police or a Superintendent of Police under such written law as the Minister may, by notification in theGazette, prescribe.
+(2) Section 25 shall apply, with the necessary modifications, to an intelligence officer as if the references in that section to a police officer were references to an intelligence officer.
 
-(4) Apart from this section and section 25, this Act shall not apply to any intelligence officer.
+(3) Apart from this section and section 25, this Act shall not apply to any intelligence officer.
 
-(5) In this section, “intelligence officer” means a public officer who is appointed to the Intelligence Service.
+(4) In this section, “intelligence officer” means —
+
+(a) a public officer who is appointed to the Intelligence Service; or
+
+(b) a person who is employed by the Internal Security Department,
+
+and who is designated by the Minister as an intelligence officer for the purposes of this section.
+
+[17/2005 wef 15/07/2005]
 
 ## PART VIII
 
