@@ -366,11 +366,17 @@ PRELIMINARY
 
 (b) any officer in the employment of a statutory authority which has been approved by the Minister for the purpose.
 
-(4) Any officer who is authorised (whether generally or specially) under subsection (2) to perform the functions of the competent authority under this Act shall be deemed to be —
+(3A) Without prejudice to subsections (2) and (3), the competent authority may, with the approval of the Minister, authorise generally or specially any person to perform any or all of the functions conferred on the competent authority by sections 27 and 31, subject to the direction and control of the competent authority.
+
+[17/2005 wef 15/07/2005]
+
+(4) Any officer or person who is authorised (whether generally or specially) under subsection (2) or (3A) to perform the functions of the competent authority under this Act shall be deemed to be —
 
 (a) a public officer for the purposes of this Act; and
 
 (b) a public servant within the meaning of the Penal Code (Cap. 224).
+
+[17/2005 wef 15/07/2005]
 
 ## PART II
 
@@ -812,13 +818,15 @@ he shall be guilty of an offence.
 
 ### Authority to enter upon land
 
-27\.—(1) The competent authority may, at any reasonable time, enter any land for the purpose of —
+27\.—(1) The competent authority may, with such assistants and workmen as are necessary, at any reasonable time, enter any land for the purpose of —
 
 (a) ascertaining whether there is, or has been, a contravention of this Act;
 
 (b) ascertaining whether any of the functions conferred by this Act on the competent authority or the Minister should or may be exercised; or
 
 (c) taking any action or carrying out any work authorised or required by or under this Act.
+
+[17/2005 wef 15/07/2005]
 
 (2) The competent authority may take photographs of the land and any property or material found thereon and such other steps as he may consider necessary without involving any search or seizure of any premises, thing or person.
 
@@ -954,7 +962,9 @@ shall, notwithstanding the earlier compliance with the notice, be guilty of an o
 
 (c) any works have been carried out by way of reinstating or restoring buildings or works which have been demolished or altered in compliance with the requirements of an enforcement notice,
 
-the competent authority may at any time enter the land and take any steps which are in his opinion necessary to secure compliance with the notice or order, as the case may be, including removing, detaining and disposing of any property or materials on the land.
+the competent authority may, with such assistants and workmen as are necessary, at any time enter the land and take any steps which are in his opinion necessary to secure compliance with the notice or order, as the case may be, including removing, detaining and disposing of any property or materials on the land.
+
+[17/2005 wef 15/07/2005]
 
 (2) The costs or expenses incurred, directly or indirectly, by the competent authority in exercise of the powers conferred by subsection (1) shall be recoverable as a civil debt from any person served with the enforcement notice or order under section 12(5), as the case may be, less such sums which are recoverable under section 32.
 
@@ -1336,7 +1346,9 @@ MISCELLANEOUS
 
 51\.—(1) Any document which —
 
-(a) purports to bear the signature or facsimile signature of the competent authority or an officer authorised under section 5(2); or
+(a) purports to bear the signature or facsimile signature of the competent authority or any officer or person authorised under section 5(2) or (3A); or
+
+[17/2005 wef 15/07/2005]
 
 (b) is or purports to be authenticated in such other manner as may be prescribed,
 
@@ -1372,7 +1384,9 @@ shall be deemed, until the contrary is proved, to have been duly prepared, issue
 
 ### Protection from liability
 
-55\. No matter or thing done or omitted to be done by the competent authority or by any officer authorised under section 5(2) shall subject him or such person personally to any action, liability, claim or demand whatsoever if it were done or omitted to be done bona fide for the purpose of carrying out the provisions of this Act.
+55\. No matter or thing done or omitted to be done by the competent authority or by any officer or person authorised under section 5(2) or (3A) shall subject him or such person personally to any action, liability, claim or demand whatsoever if it were done or omitted to be done bona fide for the purpose of carrying out the provisions of this Act.
+
+[17/2005 wef 15/07/2005]
 
 ### Power of Magistrate’s Court and District Court
 
@@ -1709,3 +1723,8 @@ This Legislative History is provided for the convenience of users of the Plannin
 ||Dates of commencement|10th December 2003|
 |23.|**G. N. No. S 657/2004—Planning Act (Amendment of Second Schedule) Order 2004**|
 ||Date of commencement|28 October 2004|
+|24.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
+||Date of First Reading|18 April 2005|
+|||(Bill No. 7/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|15 July 2005|
