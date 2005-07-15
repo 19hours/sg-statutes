@@ -26,17 +26,29 @@
 
 - [8 Sections 5 and 6 not applicable to foreign natural persons or societies](#Sections-5-and-6-not-applicable-to-foreign-natural-persons-or-societies)
 
-- [9 Position of Singapore companies and Singapore societies with residential properties wishing to become or becoming converted foreign companies or converted societies, as the case may be](#Position-of-Singapore-companies-and-Singapore-societies-with-residential-properties-wishing-to-become-or-becoming-converted-foreign-companies-or-converted-societies-as-the-case-may-be)
+- [9 Position of Singapore entities with residential properties wishing to become or becoming converted entities](#Position-of-Singapore-entities-with-residential-properties-wishing-to-become-or-becoming-converted-entities)
 
 - [10 Vesting of residential properties in Singapore companies](#Vesting-of-residential-properties-in-Singapore-companies)
+
+- [10A Vesting of residential properties in Singapore limited liability partnerships](#Vesting-of-residential-properties-in-Singapore-limited-liability-partnerships)
 
 - [11 Singapore company owning immovable property](#Singapore-company-owning-immovable-property)
 
 - [12 Singapore company to file statutory declaration](#Singapore-company-to-file-statutory-declaration)
 
+- [12A Singapore limited liability partnership to file statutory declaration](#Singapore-limited-liability-partnership-to-file-statutory-declaration)
+
 - [13 Registrar may refuse to register instrument of transfer](#Registrar-may-refuse-to-register-instrument-of-transfer)
 
+- [13A Registrar may refuse to register instrument of transfer in favour of Singapore limited liability partnership](#Registrar-may-refuse-to-register-instrument-of-transfer-in-favour-of-Singapore-limited-liability-partnership)
+
 - [14 Alteration of memorandum or articles of association of a Singapore company](#Alteration-of-memorandum-or-articles-of-association-of-a-Singapore-company)
+
+- [14A Disposal of residential property of limited liability partnership](#Disposal-of-residential-property-of-limited-liability-partnership)
+
+- [14B Conversion of Singapore company to Singapore limited liability partnership](#Conversion-of-Singapore-company-to-Singapore-limited-liability-partnership)
+
+- [14C Conversion of foreign company or converted foreign company to foreign limited liability partnership](#Conversion-of-foreign-company-or-converted-foreign-company-to-foreign-limited-liability-partnership)
 
 - [15 Singapore company to file amended memorandum or articles of association](#Singapore-company-to-file-amended-memorandum-or-articles-of-association)
 
@@ -62,7 +74,7 @@
 
 - [25 Application by foreign person for approval to purchase, acquire or retain residential property](#Application-by-foreign-person-for-approval-to-purchase-acquire-or-retain-residential-property)
 
-- [26 Application for approval by Singapore company or Singapore society with residential properties to become converted foreign company or converted society and for retention of its residential properties](#Application-for-approval-by-Singapore-company-or-Singapore-society-with-residential-properties-to-become-converted-foreign-company-or-converted-society-and-for-retention-of-its-residential-properties)
+- [26 Application for approval by Singapore entity with residential properties to become converted entity and for retention of its residential properties](#Application-for-approval-by-Singapore-entity-with-residential-properties-to-become-converted-entity-and-for-retention-of-its-residential-properties)
 
 - [27 Minister may issue direction for sale of residential property](#Minister-may-issue-direction-for-sale-of-residential-property)
 
@@ -138,19 +150,25 @@ PRELIMINARY
 
 (a) a Singapore company;
 
+(aa) a Singapore limited liability partnership;
+
+[17/2005 wef 15/07/2005]
+
 (b) a Singapore society;
 
 (c) a foreign person to whom approval has been granted under section 25;
 
-(d) any person, company, society, association or other organisation or body who or which has been exempted by the Minister under section 32; or
+(d) any person, company, limited liability partnership, society, association or other organisation or body who or which has been exempted by the Minister under section 32; or
 
 (e) any body, corporate or otherwise, declared by the Minister by notification in theGazetteto be a public authority or an instrumentality or agency of the Government;
 
 “Authority” means the Singapore Land Authority established under the Singapore Land Authority Act 2001;
 
-[Act 17 of 2001 wef 01/06/2001]
+[17/2001 wef 01/06/2001]
 
-“citizen” or “citizen of Singapore” means any person who, under the provisions of the Constitution of the Republic of Singapore [Vol. 1], has the status of a citizen of Singapore;
+“citizen” or “citizen of Singapore” means any person who, under the provisions of the Constitution of the Republic of Singapore, has the status of a citizen of Singapore;
+
+[Vol. 1.]
 
 “Committee” means the Residential Property Advisory Committee established under section 25;
 
@@ -158,7 +176,11 @@ PRELIMINARY
 
 “Controller of Housing” means the Controller of Housing appointed under section 3 of the Housing Developers (Control and Licensing) Act [Cap. 130];
 
-“converted foreign company” means any Singapore company which, being the owner of an estate or interest in any residential property, whether purchased or acquired before, on or after 11th September 1973, ceases to be a Singapore company and becomes a foreign company on or after 1st October 1976\*, by reason of its —
+“converted entity”, in relation to sections 9 and 26, means a converted foreign company, converted foreign limited liability partnership or converted society;
+
+[17/2005 wef 15/07/2005]
+
+“converted foreign company” means any Singapore company which, being the owner of an estate or interest in any residential property, whether purchased or acquired before, on or after 11th September 1973, ceases to be a Singapore company and becomes a foreign company on or after 1st October 19761, by reason of its —
 
 (a) placing, allowing or having in its register of members any individual or company as a member who is not a citizen or which is not a Singapore company;
 
@@ -166,15 +188,25 @@ PRELIMINARY
 
 (c) allowing a director who ceases to be, or is not, a citizen to remain a director;
 
-\*Date on which this Act was published in theGazette.
+1Date on which this Act was published in theGazette.
 
-“converted society” means any Singapore society which, being the owner of an estate or interest in any residential property, whether purchased or acquired before, on or after 11th September 1973 ceases to be a Singapore society and becomes a society within the meaning of this Act on or after 1st October 1976\*, by reason of its —
+“converted foreign limited liability partnership” means any Singapore limited liability partnership which, being the owner of an estate or interest in any residential property, whether purchased or acquired before, on or after 11th April 2005, ceases to be a Singapore limited liability partnership and becomes a foreign limited liability partnership by reason of its placing, allowing or having in its list of partners —
+
+(a) any individual who is not a citizen;
+
+(b) any limited liability partnership which is not a Singapore limited liability partnership; or
+
+(c) any company which is not a Singapore company;
+
+[17/2005 wef 15/07/2005]
+
+“converted society” means any Singapore society which, being the owner of an estate or interest in any residential property, whether purchased or acquired before, on or after 11th September 1973 ceases to be a Singapore society and becomes a society within the meaning of this Act on or after 1st October 19762, by reason of its —
 
 (a) admitting, allowing or having as a member any individual who is not a citizen or any society, the majority of whose members are not citizens or all of whose trustees are not citizens or trust companies registered under the Trust Companies Act [Cap. 336]; or
 
 (b) appointing as a trustee either a member who is not a citizen or a company which is not a trust company registered under the Trust Companies Act;
 
-\*Date on which this Act was published in theGazette.
+2Date on which this Act was published in theGazette.
 
 “court” means the High Court;
 
@@ -190,13 +222,21 @@ PRELIMINARY
 
 (c) an unincorporated society, association or other body which under the law of its place of origin may sue or be sued, or hold property in the name of the secretary or other officer of the body or association duly appointed for that purpose (whether or not its head office or principal place of business is in Singapore), some or all of whose members or directors are not citizens, or in the case of a member being another company, where some or all of the members or directors of such other company are not citizens;
 
+“foreign limited liability partnership” means any limited liability partnership other than a Singapore limited liability partnership;
+
+[17/2005 wef 15/07/2005]
+
 “foreign person” means —
 
 (a) any person who is not a citizen;
 
 (b) any permanent resident;
 
-(c) any foreign company or any converted foreign company; or
+(c) any foreign company or any converted foreign company;
+
+(ca) any foreign limited liability partnership or any converted foreign limited liability partnership; or
+
+[17/2005 wef 15/07/2005]
 
 (d) any society or any converted society,
 
@@ -212,9 +252,17 @@ which has been sold by the Housing and Urban Development Company (Private) Limit
 
 “land” includes land, freehold and leasehold, or of whatever tenure, whether or not held apart from the surface, and buildings or parts thereof (whether completed or otherwise and whether divided horizontally, vertically or in any other manner), and tenements and hereditaments, corporeal or incorporeal;
 
+“limited liability partnership” means any limited liability partnership, whether registered in Singapore under the Limited Liability Partnerships Act 2005 (Act 5 of 2005) or otherwise;
+
+[17/2005 wef 15/07/2005]
+
+“manager”, in relation to a limited liability partnership, means any person (whether or not a partner of the limited liability partnership) who is concerned in or takes part in the management of the limited liability partnership;
+
+[17/2005 wef 15/07/2005]
+
 “Master Plan” has the same meaning as in the Planning Act 1998;
 
-[Act 3 of 1998 wef 01/04/1998]
+[3/98 wef 01/04/1998]
 
 “member”, in relation to a foreign company, a converted foreign company or a Singapore company, has the same meaning as in section 19(6) of the Companies Act [Cap. 50];
 
@@ -223,6 +271,10 @@ which has been sold by the Housing and Urban Development Company (Private) Limit
 “mortgage” includes every instrument creating a mortgage or charge on land or a transfer of a mortgage or a sub-mortgage;
 
 “owner”, in relation to any residential property, means a person other than the mortgagee or chargee not in possession, who is for the time being entitled to dispose of the freehold of any residential property whether in possession or reversion, or who holds under a leasehold or is entitled to the rents and profits of the residential property;
+
+“partner”, in relation to a limited liability partnership, means any person who has been admitted as a partner in the limited liability partnership in accordance with the agreement expressed or implied between the partners of the limited liability partnership or between the limited liability partnership and its partners which determines the mutual rights and duties of the partners and their rights and duties in relation to the limited liability partnership;
+
+[17/2005 wef 15/07/2005]
 
 “permanent resident” means any person who is not subject to any restriction as to his period of residence in Singapore imposed under the provisions of any written law relating to immigration for the time being in force, and includes any person resident in Singapore who is deemed by the Committee, in its discretion, in the circumstances of any particular case to be a permanent resident for the purposes of this Act;
 
@@ -253,6 +305,20 @@ but does not include —
 (iv) such other land or building, in whatever manner zoned in the Master Plan, as the Minister may, by notification in theGazette, declare to be industrial, commercial or non-residential property for the purposes of this Act;
 
 “Singapore company” means a company formed or incorporated in Singapore, all of whose members and directors are citizens, or in the case of a member being another company, where all the members and directors of such other company are citizens;
+
+“Singapore entity”, in relation to sections 9 and 26, means a Singapore company, Singapore limited liability partnership or Singapore society;
+
+[17/2005 wef 15/07/2005]
+
+“Singapore limited liability partnership” means a limited liability partnership registered in Singapore under the Limited Liability Partnerships Act 2005 (Act 5 of 2005) where —
+
+(a) all the partners of the limited liability partnership are citizens;
+
+(b) in the case of a partner of the limited liability partnership being another limited liability partnership, such other limited liability partnership is registered in Singapore under the Limited Liability Partnerships Act 2005 and all the partners of such other limited liability partnership are citizens;
+
+(c) in the case of a partner of the limited liability partnership being a company, all the members and directors of such company are citizens;
+
+[17/2005 wef 15/07/2005]
 
 “Singapore society” means any society, trade union, co-operative society, mutual benefit organisation or other organisation formed or constituted in Singapore and registered or exempted from registration under any written law, all of whose members are citizens and all of whose trustees are either citizens or a trust company registered under the Trust Companies Act [Cap. 336];
 
@@ -458,29 +524,39 @@ without having obtained the approval of the Minister shall be guilty of an offen
 
 8\. Sections 5 and 6 shall not apply to any foreign person who is a natural person or to any society; such person or society shall not, accordingly, be required to dispose of any estate or interest in any residential property vested in him or, in the case of a society, vested in its trustees, immediately before the date of commencement of this Act.
 
-### Position of Singapore companies and Singapore societies with residential properties wishing to become or becoming converted foreign companies or converted societies, as the case may be
+### Position of Singapore entities with residential properties wishing to become or becoming converted entities
 
-9\.—(1) No Singapore company which is the owner of any estate or interest in any residential property, whether purchased or acquired before, on or after 11th September 1973 shall, on or after 1st October 1976\*, become a converted foreign company without first seeking and obtaining the written approval of the Minister, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or in one or more of its residential properties which such Singapore company intends should remain vested in the converted foreign company upon such conversion.
+9\.—(1) No Singapore company which is the owner of any estate or interest in any residential property, whether purchased or acquired before, on or after 11th September 1973 shall, on or after 1st October 19763, become a converted foreign company without first seeking and obtaining the written approval of the Minister, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or in one or more of its residential properties which such Singapore company intends should remain vested in the converted foreign company upon such conversion.
 
-\*Date on which this Act was published in theGazette.
+3Date on which this Act was published in theGazette.
 
-(2) No Singapore society which is the owner of any estate or interest in any residential property purchased or acquired on or after 11th September 1973 shall, on or after 1st October 1976\*, become a converted society without first seeking and obtaining the written approval of the Minister, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or any of its residential properties which such Singapore society intends to retain after conversion.
+(1A) No Singapore limited liability partnership which is the owner of any estate or interest in any residential property, whether purchased or acquired before, on or after 11th April 2005 shall become a converted foreign limited liability partnership without first seeking and obtaining the written approval of the Minister, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or in one or more of its residential properties which such Singapore limited liability partnership intends should remain vested in the converted foreign limited liability partnership upon such conversion.
 
-\*Date on which this Act was published in theGazette.
+[17/2005 wef 15/07/2005]
 
-(3) If the written approval sought under subsection (1) or (2) is granted in respect of such conversion and for the retention of all or one or more of the residential properties in respect of which the Singapore company or the Singapore society sought approval, it shall, either before it becomes a converted foreign company or a converted society or within a period of two years of the date of its becoming a converted foreign company or a converted society, transfer to any citizen or approved purchaser all its estate or interest —
+(2) No Singapore society which is the owner of any estate or interest in any residential property purchased or acquired on or after 11th September 1973 shall, on or after 1st October 19764, become a converted society without first seeking and obtaining the written approval of the Minister, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or any of its residential properties which such Singapore society intends to retain after conversion.
+
+4Date on which this Act was published in theGazette.
+
+(3) If the written approval sought under subsection (1), (1A) or (2) is granted in respect of such conversion and for the retention of all or one or more of the residential properties in respect of which the Singapore entity sought approval, it shall, either before it becomes a converted entity or within a period of 2 years of the date of its becoming a converted entity, transfer to any citizen or approved purchaser all its estate or interest —
 
 (a) in such of its residential properties in respect of which it has not been granted approval for retention under section 26; and
 
 (b) in all its other residential properties, if any, in respect of which it did not seek approval for such retention.
 
-(4) If the written approval sought under subsection (1) or (2) is granted neither in respect of such conversion nor for the retention of all of the residential properties in respect of which the Singapore company or the Singapore society sought approval, such Singapore company or Singapore society shall not become a converted foreign company or a converted society, as the case may be; but if it becomes a converted foreign company or a converted society in contravention of this subsection and of subsection (1) or (2), such converted foreign company or converted society shall, within a period of one year of the date of its becoming a converted foreign company or a converted society, transfer to any citizen or approved purchaser all its estate or interest in every residential property owned by it.
+[17/2005 wef 15/07/2005]
 
-(5) If any Singapore company or Singapore society becomes a converted foreign company or a converted society, as the case may be, without first seeking and obtaining the written approval required under subsection (1) or (2), such converted foreign company or converted society shall, within a period of one year of the date of its becoming a converted foreign company or a converted society, as the case may be —
+(4) If the written approval sought under subsection (1), (1A) or (2) is granted neither in respect of such conversion nor for the retention of all of the residential properties in respect of which the Singapore entity sought approval, the Singapore entity shall not become a converted entity; but if it becomes a converted entity in contravention of this subsection and of subsection (1), (1A) or (2), the converted entity shall, within a period of one year of the date of its becoming a converted entity, transfer to any citizen or approved purchaser all its estate or interest in every residential property owned by it.
+
+[17/2005 wef 15/07/2005]
+
+(5) If any Singapore entity becomes a converted entity, without first seeking and obtaining the written approval required under subsection (1), (1A) or (2), the converted entity shall, within a period of one year of the date of its becoming a converted entity —
 
 (a) transfer all its estate or interest in all its residential properties to any citizen or approved purchaser, other than such part of its estate or interest in respect of which it has been granted approval for retention as provided in paragraph (b); and
 
 (b) seek and obtain the approval of the Minister under section 25 for the retention of such part of its estate or interest in its residential properties as are not transferred as provided in paragraph (a).
+
+[17/2005 wef 15/07/2005]
 
 (6) Where a converted foreign company to which —
 
@@ -500,11 +576,13 @@ the Minister may, by a direction in writing, require such converted foreign comp
 
 (b) the Controller.
 
-(10) Subsections (6) to (9) shall apply mutatis mutandis to the procedure for the disposal of any estate or interest in residential property owned by a converted society as those subsections apply to the procedure for the disposal of any estate or interest in residential property owned by a converted foreign company; and sections 5(8) to (10), 6(1) and 6(6) to (12) shall apply mutatis mutandis to the procedure for the sale by the Controller of any estate or interest in residential property owned by a converted foreign company or a converted society as those provisions apply to the procedure for the sale by the Controller of any estate or interest in residential property owned by a foreign company.
+(10) Subsections (6) to (9) shall apply, with the necessary modifications, to the procedure for the disposal of any estate or interest in residential property owned by a converted foreign limited liability partnership or a converted society as those subsections apply to the procedure for the disposal of any estate or interest in residential property owned by a converted foreign company; and sections 5(8) to (10), 6(1) and 6(6) to (12) shall apply, with the necessary modifications, to the procedure for the sale by the Controller of any estate or interest in residential property owned by a converted entity as those provisions apply to the procedure for the sale by the Controller of any estate or interest in residential property owned by a foreign company.
 
-(11) A mortgagee or chargee who, on or after 1st October 1976\*, grants a loan or advance on a current account for a fixed term exceeding 6 months, secured by a mortgage or charge of any estate or interest in any residential property owned by a Singapore company or a Singapore society may, notwithstanding any prior agreement made between the mortgagee or chargee and his respective mortgagor or chargor for the repayment of that loan or advance, call for the earlier repayment of such loan or advance or any part thereof, by giving 3 months’ prior notice in writing to his mortgagor or chargor, if such mortgagor or chargor, having represented itself as a Singapore company or a Singapore society, as the case may be, to the mortgagee or chargee at the date of the creation of such mortgage or charge, thereafter, without the written consent of the mortgagee or chargee, becomes a converted foreign company or a converted society, as the case may be.
+[17/2005 wef 15/07/2005]
 
-\*Date on which this Act was published in theGazette.
+(11) A mortgagee or chargee who, on or after 1st October 1976, grants a loan or advance on a current account for a fixed term exceeding 6 months, secured by a mortgage or charge of any estate or interest in any residential property owned by a Singapore entity may, notwithstanding any prior agreement made between the mortgagee or chargee and his respective mortgagor or chargor for the repayment of that loan or advance, call for the earlier repayment of such loan or advance or any part thereof, by giving 3 months’ prior notice in writing to his mortgagor or chargor, if such mortgagor or chargor, having represented itself as a Singapore entity, to the mortgagee or chargee at the date of the creation of such mortgage or charge, thereafter, without the written consent of the mortgagee or chargee, becomes a converted entity.
+
+[17/2005 wef 15/07/2005]
 
 (12) If the repayment of the loan or advance mentioned in subsection (11) is not made on the expiration of the 3 months’ notice given by the mortgagee or chargee pursuant to that subsection, such loan or advance shall be deemed to be due, and thereupon the mortgagee or chargee may exercise —
 
@@ -537,6 +615,16 @@ the Minister may, by a direction in writing, require such converted foreign comp
 (5) Any Singapore company which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 (6) Any Singapore company which contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+### Vesting of residential properties in Singapore limited liability partnerships
+
+10A\.—(1) Notwithstanding anything in any written law relating to limited liability partnerships, a Singapore limited liability partnership which intends to acquire any estate or interest in any residential property shall, prior to the vesting of the estate or interest in that property in the limited liability partnership, file with the Controller a list of its partners containing the particulars of their nationality and such other particulars as the Controller may require.
+
+(2) The Controller may, if he is satisfied that the requirements of subsection (1) are complied with by a Singapore limited liability partnership, issue to the limited liability partnership a certificate stating that the limited liability partnership may acquire and retain residential properties subject to the provisions of this Act.
+
+(3) Any Singapore limited liability partnership which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[17/2005 wef 15/07/2005]
 
 ### Singapore company owning immovable property
 
@@ -574,6 +662,20 @@ shall file with the Controller on or before 1st July of each year a statutory de
 
 (2) Any Singapore company which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
+### Singapore limited liability partnership to file statutory declaration
+
+12A\.—(1) Any Singapore limited liability partnership which —
+
+(a) owns any estate or interest in any immovable property in Singapore; or
+
+(b) is the holder of a certificate issued by the Controller under section 10A(2),
+
+shall file with the Controller on or before 1st July of each year a statutory declaration made by the manager or a partner of the limited liability partnership furnishing the particulars of the nationality of all its partners and such other particulars as the Controller may require.
+
+(2) Any Singapore limited liability partnership which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[17/2005 wef 15/07/2005]
+
 ### Registrar may refuse to register instrument of transfer
 
 13\. The Registrar may refuse to register an instrument of transfer of an estate or interest in any residential property in favour of a Singapore company unless he is satisfied that —
@@ -583,6 +685,12 @@ shall file with the Controller on or before 1st July of each year a statutory de
 (b) all the members of the company are either citizens or Singapore companies; and
 
 (c) all the directors of the company are citizens.
+
+### Registrar may refuse to register instrument of transfer in favour of Singapore limited liability partnership
+
+13A\. The Registrar may refuse to register an instrument of transfer of an estate or interest in any residential property in favour of a Singapore limited liability partnership unless he is satisfied that all the partners of the limited liability partnership are either citizens, Singapore limited liability partnerships or Singapore companies.
+
+[17/2005 wef 15/07/2005]
 
 ### Alteration of memorandum or articles of association of a Singapore company
 
@@ -607,6 +715,34 @@ shall file with the Controller on or before 1st July of each year a statutory de
 (b) the alteration was made after the Controller was satisfied that the company did not own any residential property.
 
 [22/82]
+
+### Disposal of residential property of limited liability partnership
+
+14A\. Notwithstanding any approval given by the Minister or the issue of a certificate by the Controller, the Controller may, if he subsequently discovers that a limited liability partnership owns any residential property in respect of which the Minister has not granted any approval under section 25 or 26 for the limited liability partnership to purchase, acquire or retain the property or that the limited liability partnership had made a misrepresentation to the Controller, as the case may be, obtain the Minister’s direction to require the limited liability partnership to dispose of the residential property and section 9(6) to (12) shall apply, with the necessary modifications, to the manner of disposal of the residential property and the rights of a mortgagee or chargee (if any) of the residential property.
+
+[17/2005 wef 15/07/2005]
+
+### Conversion of Singapore company to Singapore limited liability partnership
+
+14B\.—(1) Any certificate issued by the Controller under section 10 to a Singapore company and which is in force immediately before the date of registration of the conversion of the Singapore company to a Singapore limited liability partnership shall continue in force on and after that date as if it were a certificate issued by the Controller to the Singapore limited liability partnership under section 10A(2).
+
+(2) The Singapore limited liability partnership referred to in subsection (1) shall, as soon as practicable after the date of registration of the conversion thereto, notify the Controller of the conversion and of the particulars of the Singapore limited liability partnership, including the nationality of its partners and such other particulars as the Controller may require.
+
+(3) The Controller may, if he is satisfied that the requirements of subsection (2) are complied with by a Singapore limited liability partnership, issue to the Singapore limited liability partnership a fresh certificate stating that the limited liability partnership may acquire and retain residential properties subject to the provisions of this Act and upon the issuance of the fresh certificate to the Singapore limited liability partnership, the certificate referred to in subsection (1) shall be deemed cancelled.
+
+[17/2005 wef 15/07/2005]
+
+### Conversion of foreign company or converted foreign company to foreign limited liability partnership
+
+14C\.—(1) Any approval granted by the Minister under section 25 or 26 to a foreign company or a converted foreign company to purchase, acquire or retain residential property and which is valid immediately before the date of registration of the conversion of the foreign company or the converted foreign company to a foreign limited liability partnership shall continue in force on and after that date as if it were an approval granted by the Minister to the foreign limited liability partnership; and —
+
+(a) if the approval was granted subject to conditions, the foreign limited liability partnership shall comply with all the conditions imposed as if the approval had been granted to the foreign limited liability partnership instead of the foreign company or the converted foreign company; and
+
+(b) if any undertaking in writing was given by the foreign company or the converted foreign company, such undertaking in writing shall be deemed to be an undertaking in writing given by the foreign limited liability partnership and shall be enforceable against the foreign limited liability partnership as if it had been given by the foreign limited liability partnership instead of the foreign company or the converted foreign company.
+
+(2) The foreign limited liability partnership referred to in subsection (1) shall, as soon as practicable after the date of registration of the conversion thereto, notify the Controller of the conversion and of the particulars of the foreign limited liability partnership, including the nationality of its partners and such other particulars as the Controller may require.
+
+[17/2005 wef 15/07/2005]
 
 ### Singapore company to file amended memorandum or articles of association
 
@@ -744,23 +880,39 @@ APPROVAL TO PURCHASE, ACQUIRE OR RETAIN RESIDENTIAL PROPERTY
 
 (c) who, not being a citizen, possesses professional or other qualifications or experience which, in the opinion of the Minister, are of value or of benefit or advantageous to Singapore.
 
-(6) Without prejudice to the generality of the powers of the Minister under subsection (4), he may grant approval, with or without conditions, to an applicant, being a foreign company which —
+(6) Without prejudice to the generality of the powers of the Minister under subsection (4), he may grant approval, with or without conditions, to an applicant, being a foreign company or a foreign limited liability partnership which —
 
-(a) in the opinion of the Minister, is of economic benefit to Singapore or which, in the opinion of the Minister, makes or is able to make an adequate economic contribution to Singapore; and
+(a) in the opinion of the Minister —
 
-(b) intends to purchase or acquire, or retain any interest in, residential property for the purpose of occupation as a dwelling-house by its executives, managers, employees or other personnel and their families and not for any other purpose.
+(i) is of economic benefit to Singapore; or
+
+(ii) makes or is able to make an adequate economic contribution to Singapore; and
+
+(b) intends to purchase or acquire, or retain any interest in, residential property for the purpose of occupation as a dwelling-house by its executives, managers, partners, employees or other personnel and their families and not for any other purpose.
+
+[17/2005 wef 15/07/2005]
 
 (7) The Minister may require the applicant referred to in subsections (5) and (6) to give an undertaking in writing in such form as may be required that the applicant being —
 
 (a) a natural person, will use the residential property for his own occupation and that of his family as a dwelling-house and not for any other purpose; or
 
-(b) a foreign company, will use the residential property for occupation as a dwelling-house by its executives, managers, employees or other personnel and their families and not for any other purpose.
+(b) a foreign company or a foreign limited liability partnership, will use the residential property for occupation as a dwelling-house by its executives, managers, partners, employees or other personnel and their families and not for any other purpose.
 
-(8) Any natural person or any foreign company who or which is in breach of any undertaking given pursuant to subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+[17/2005 wef 15/07/2005]
 
-(9) (a) Every applicant referred to in subsection (5) shall furnish a statutory declaration as to whether the applicant or the applicant’s spouse or any of their children owns residential property in Singapore, and if so shall state full particulars thereof.
+(8) Any natural person or any foreign company or foreign limited liability partnership who or which is in breach of any undertaking given pursuant to subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(b) Every applicant referred to in subsection (6) shall furnish a statutory declaration as to whether the applicant owns residential property in Singapore, and if so shall state full particulars thereof; and such statutory declaration shall be made by a director, manager or secretary thereof or a person holding an analogous position.
+(9)(a) Every applicant referred to in subsection (5) shall furnish a statutory declaration as to whether the applicant or the applicant’s spouse or any of their children owns residential property in Singapore, and if so shall state full particulars thereof.
+
+(b)
+
+Every applicant referred to in subsection (6) shall furnish a statutory declaration as to whether the applicant owns residential property in Singapore, and if so shall state full particulars thereof; and such statutory declaration shall —
+
+(i) where the applicant is a foreign company, be made by a director, manager or secretary thereof or a person holding an analogous position; and
+
+(ii) where the applicant is a foreign limited liability partnership, be made by a manager or partner thereof or a person holding an analogous position.
+
+[17/2005 wef 15/07/2005]
 
 (10) Nothing in this section shall be construed as detracting from or prejudicing in any way the power conferred on the Minister by subsection (4) to approve or to refuse to approve any application.
 
@@ -772,15 +924,21 @@ APPROVAL TO PURCHASE, ACQUIRE OR RETAIN RESIDENTIAL PROPERTY
 
 (14) Where a foreign person is a natural person or a society, he or it shall not be required to make application for the retention of any estate or interest in any residential property vested in him or it immediately before the date of commencement of this Act.
 
-### Application for approval by Singapore company or Singapore society with residential properties to become converted foreign company or converted society and for retention of its residential properties
+### Application for approval by Singapore entity with residential properties to become converted entity and for retention of its residential properties
 
-26\.—(1) Any Singapore company or Singapore society which, pursuant to section 9(1), intends to seek the prior written approval of the Minister for its conversion to a converted foreign company or a converted society, as the case may be, and for the retention of all its estate or interest in all or in one or more of its residential properties which such Singapore company or Singapore society intends should remain vested in the converted foreign company or converted society upon such conversion, shall make application to the Controller, in such form as he may require, for the grant of approval for such conversion and for such retention.
+26\.—(1) Any Singapore entity which, pursuant to section 9, intends to seek the prior written approval of the Minister for its conversion to a converted entity, and for the retention of all its estate or interest in all or in one or more of its residential properties which the Singapore entity intends should remain vested in the converted entity upon such conversion, shall make application to the Controller, in such form as he may require, for the grant of approval for such conversion and for such retention.
+
+[17/2005 wef 15/07/2005]
+
+[9/2006 wef 31/03/2006]
 
 (2) Every such application shall state such particulars as the Controller may require.
 
 (3) The Controller shall forward every such application to the Committee; and after consideration thereof, the Committee shall make recommendations thereon to the Minister who may, in his discretion, grant, with or without conditions (or refuse to grant), approval for —
 
-(a) the conversion of the Singapore company or Singapore society to a converted foreign company or a converted society, as the case may be; and
+(a) the conversion of the Singapore entity to a converted entity; and
+
+[17/2005 wef 15/07/2005]
 
 (b) the retention of all or one or more of its residential properties in respect of which it has made application therefor.
 
@@ -898,23 +1056,27 @@ MISCELLANEOUS
 
 (10) The Registrar, before registering any instrument of transfer in respect of any residential property made in favour of a housing developer, may require a statutory declaration together with an undertaking from that housing developer to be endorsed on the instrument of transfer in such form as he may require; and the Registrar has the power to refuse to accept or to register the instrument of transfer unless the statutory declaration and undertaking made by that housing developer has been endorsed on the instrument of transfer itself.
 
-(11) For the purposes of this section, “housing developer” means —
+(11) In this section, “housing developer” means —
 
 (a) any person who is not a citizen of Singapore;
 
-(b) a foreign company, a converted foreign company, a society or a converted society;
+(b) a foreign company, a converted foreign company, a foreign limited liability partnership, a converted foreign limited liability partnership, a society or a converted society;
 
-(c) a Singapore company which has not complied with section 10(1) and (2); or
+(c) a Singapore company which has not complied with section 10(1) and (2);
 
-(d) a Singapore society which has not complied with section 16(1) and (2),
+(d) a Singapore society which has not complied with section 16(1) and (2); or
 
-who or which constructs or intends to construct dwelling-houses for sale to citizens or approved purchasers or flats comprised in buildings containing 6 or more storeys (including the ground floor), whether or not such person, company or society is licensed or required to be licensed as a housing developer under the Housing Developers (Control and Licensing) Act [Cap. 130].
+(e) a Singapore limited liability partnership which has not complied with section 10A(1),
+
+who or which constructs or intends to construct dwelling-houses for sale to citizens or approved purchasers or flats comprised in buildings containing 6 or more storeys (including the ground floor), whether or not such person, company, limited liability partnership or society is licensed or required to be licensed as a housing developer under the Housing Developers (Control and Licensing) Act (Cap. 130).
+
+[17/2005 wef 15/07/2005]
 
 ### Exemption
 
 32\.—(1) The Minister may, if he considers it to be in the economic interest of Singapore or for any other cause which appears to him necessary or expedient or if in his opinion the circumstances so warrant, from time to time, by regulations or by notification in theGazetteor otherwise, exempt permanently or for such period or periods as he may think fit and subject to such conditions as he may consider necessary, from all or any of the provisions of this Act —
 
-(a) any person, company, society, association or other organisation or body, or any class, type or category of any of the same; and
+(a) any person, company, limited liability partnership, society, association or other organisation or body, or any class, type or category of any of the same; and
 
 (b) any land or dwelling-house or any part of any land or dwelling-house or any class, type or category of dwelling-houses.
 
@@ -927,6 +1089,18 @@ who or which constructs or intends to construct dwelling-houses for sale to citi
 (c) members mentioned in both paragraphs (a) and (b),
 
 the Minister may, by notification in theGazetteand subject to such conditions as he may consider necessary, exempt the foreign company from all or any of the provisions of this Act.
+
+(2A) Notwithstanding anything in this Act, where a foreign limited liability partnership is able to satisfy the Minister that more than 50% of the total voting power in the foreign limited liability partnership is controlled by —
+
+(a) partners who are citizens;
+
+(b) partners who are “resident in Singapore” within the meaning of the Income Tax Act and who pay the tax imposed under that Act; or
+
+(c) partners mentioned in both paragraphs (a) and (b),
+
+the Minister may, by notification in theGazetteand subject to such conditions as he may consider necessary, exempt the foreign limited liability partnership from all or any of the provisions of this Act.
+
+[17/2005 wef 15/07/2005]
 
 (3) For the purposes of subsection (1)(b), “dwelling-house” includes a flat, whether or not such dwelling-house is completed or proposed to be erected.
 
@@ -990,11 +1164,13 @@ subject to any condition imposed by the Minister, any approved purchaser who fai
 
 36\.—(1) Any person who contravenes or fails to comply with any of the provisions of this Act for which no penalty is expressly provided shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(2) Notwithstanding any of the provisions of this Act, no person who has, at any time before 1st October 1976\*, contravened or failed to comply with any of the provisions of this Act, shall be punished by way of a fine or imprisonment in respect thereof.
+(2) Notwithstanding any of the provisions of this Act, no person who has, at any time before 1st October 19766, contravened or failed to comply with any of the provisions of this Act, shall be punished by way of a fine or imprisonment in respect thereof.
 
-\*Date on which this Act was published in theGazette.
+6Date on which this Act was published in theGazette.
 
-(3) If the person committing an offence under this Act is a company, society, association or other organisation or body, every individual who at the time the offence was committed was a director, general manager, manager, president, secretary or other officer of the company, society, association, organisation, or body concerned in the management of the company, society, association, organisation or body or who was purporting to act in any such capacity, as well as the company, society, association, organisation or body, as the case may be, shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+(3) If the person committing an offence under this Act is a company, a limited liability partnership, a society, an association or other organisation or body, every individual who at the time the offence was committed was a director, partner, general manager, manager, president, secretary or other officer of the company, limited liability partnership, society, association, organisation, or body concerned in the management of the company, limited liability partnership, society, association, organisation or body or who was purporting to act in any such capacity, as well as the company, limited liability partnership, society, association, organisation or body, as the case may be, shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+[17/2005 wef 15/07/2005]
 
 (4) It shall be a defence for the individual referred to in subsection (3) if he proves that the offence was committed without his consent or connivance and that he exercised such diligence to prevent the commission of the offence as he ought to have exercised having regard to the nature of his functions and to all other circumstances.
 
@@ -1008,7 +1184,7 @@ subject to any condition imposed by the Minister, any approved purchaser who fai
 
 (4) All sums collected under this section shall be paid into the funds of the Authority.
 
-[Act 17 of 2001 wef 01/06/2001]
+[17/2001 wef 01/06/2001]
 
 ### Consent of Public Prosecutor
 
@@ -1018,7 +1194,7 @@ subject to any condition imposed by the Minister, any approved purchaser who fai
 
 38\. Service of a notice or direction or of a copy thereof required or authorised by this Act to be served shall be deemed to have been effected —
 
-(a) in the case of a company, society, association or other organisation or body, if sent by registered post to its postal address, its registered office in Singapore or its last known place of business in Singapore, or if it is affixed on the residential property described in such notice, direction or copy; and
+(a) in the case of a company, limited liability partnership, society, association or other organisation or body, if sent by registered post to its postal address, its registered office in Singapore or its last known place of business in Singapore, or if it is affixed on the residential property described in such notice, direction or copy; and
 
 (b) in the case of a natural person, if sent by registered post to his last known address, or if it is affixed on the residential property described in such notice, direction or copy,
 
@@ -1392,3 +1568,8 @@ This Legislative History is provided for the convenience of users of the Residen
 |||(Bill No. 17/2001 published on 7 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
+|9.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
+||Date of First Reading|18 April 2005|
+|||(Bill No. 7/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|15 July 2005|
