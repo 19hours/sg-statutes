@@ -1,16 +1,14 @@
-**Human Cloning and Other Prohibited Practices Act 2004**
+**Human Cloning and Other Prohibited Practices Act**
 
-**(No. 35 of 2004)**
+**(CHAPTER 131B)**
 
 **Table of Contents**
 
 [**Long Title**](#Human-Cloning-and-Other-Prohibited-Practices-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -66,47 +64,31 @@
 
 - [22 Regulations](#Regulations)
 
-REPUBLIC OF SINGAPORE
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-GOVERNMENT GAZETTE
+[**Legislative History**](#Legislative-History)
 
-ACTS SUPPLEMENT
+# Human Cloning and Other Prohibited Practices Act
 
-Published by Authority
+(CHAPTER 131B)
 
-NO. 34]
+(Original Enactment: Act 35 of 2004)
 
-Friday, October 1
+REVISED EDITION 2005
 
-[2004
-
-The following Act was passed by Parliament on 2nd September 2004 and assented to by the President on 10th September 2004:—
-
-Human Cloning and Other Prohibited Practices Act 2004
-
-(No. 35 of 2004)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-10th September 2004.
-
-Date of Commencement: 1st October 2004
+(31st July 2005)
 
 An Act to prohibit the placing of a human embryo clone in the body of a human or an animal and certain other practices associated with reproductive technology.
 
-Be it enacted by the President, with the advice and consent of the Parliament of Singapore, as follows:
+[1st October 2004]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Human Cloning and Other Prohibited Practices Act 2004 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Human Cloning and Other Prohibited Practices Act.
 
 ### Interpretation
 
@@ -144,6 +126,8 @@ PRELIMINARY
 
 (4) For the purposes of the definition of “human embryo clone” in subsection (1), a human embryo that results from the technological process known as embryo splitting shall not be taken to be created by a process of fertilisation of a human egg by human sperm.
 
+[Tasmania Act, s. 4]
+
 ### Act to bind Government
 
 3\. This Act shall bind the Government.
@@ -180,9 +164,13 @@ Human cloning
 
 5\. No person shall place any human embryo clone in the body of a human or the body of an animal.
 
+[Tasmania Act, s. 6]
+
 ### No defence that human embryo clone could not survive
 
 6\. It shall not be a defence to an offence under section 5 that the human embryo clone did not survive or could not have survived.
+
+[Tasmania Act, s. 8]
 
 Division 2 —
 
@@ -192,13 +180,19 @@ Other prohibited practices
 
 7\. No person shall develop any human embryo, that is created by a process other than the fertilisation of a human egg by human sperm, for a period of more than 14 days, excluding any period when the development of the embryo is suspended.
 
+[Tasmania Act, s. 9]
+
 ### Prohibition against developing human embryo outside body of woman for more than 14 days
 
 8\. No person shall develop any human embryo outside the body of a woman for a period of more than 14 days, excluding any period when the development of the embryo is suspended.
 
+[Tasmania Act, s. 12]
+
 ### Prohibition against collecting viable human embryo from body of woman
 
 9\. No person shall remove any human embryo from the body of a woman for the purpose of collecting a viable human embryo.
+
+[Tasmania Act, s. 15]
 
 ### Prohibition against certain uses of embryo
 
@@ -210,9 +204,13 @@ Other prohibited practices
 
 (c) place any animal embryo in the body of a human for any period of gestation.
 
+[Tasmania Act, s. 17]
+
 ### Prohibition against placing prohibited embryo in body of woman
 
 11\. No person shall place any embryo in the body of a woman knowing that, or reckless as to whether, the embryo is a prohibited embryo.
+
+[Tasmania Act, s. 18]
 
 ### Prohibition against importing and exporting prohibited embryos
 
@@ -221,6 +219,8 @@ Other prohibited practices
 (a) import any prohibited embryo into Singapore; or
 
 (b) export any prohibited embryo out of Singapore.
+
+[Tasmania Act, s. 19]
 
 ### Prohibition against commercial trading in human eggs, human sperm and human embryos
 
@@ -247,6 +247,8 @@ for the supply of any human egg, human sperm or human embryo.
 (b) in relation to the supply of any human embryo, includes, but is not limited to, expenses relating to the storage or transport of the embryo;
 
 “valuable consideration”, in relation to the supply of any human egg, human sperm or human embryo by a person, includes any inducement, discount or priority in the provision of a service to the person, but does not include the payment of reasonable expenses incurred by the person in connection with the supply.
+
+[Tasmania Act, s. 20]
 
 ## PART IV
 
@@ -308,7 +310,7 @@ MISCELLANEOUS
 
 17\.—(1) Where an offence under this Act committed by a body corporate is proved —
 
-(a) to have been committed with the consent or connivance of; or
+(a) to have been committed with the consent or connivance of an officer; or
 
 (b) to be attributable to any neglect on his part,
 
@@ -378,3 +380,28 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 22\. The Minister may make regulations for prescribing anything which may be prescribed under this Act and generally to give effect to the provisions of this Act, and for carrying out the purposes and provisions of this Act.
 
+## LEGISLATIVE SOURCE KEY
+
+Human Cloning and Other Prohibited Practices Act
+
+(CHAPTER 131B)
+
+Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act: Tasmania Act: Tasmania Human Cloning and Other Prohibited Practices Act 2003 (No. 51 of 2003).
+
+## LEGISLATIVE HISTORY
+
+Human Cloning and Other Prohibited Practices Act
+
+(CHAPTER 131B)
+
+This Legislative History is provided for the convenience of users of the Human Cloning and Other Prohibited Practices Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 35 of 2004—Human Cloning and Other Prohibited Practices Act 2004**|
+||Date of First Reading|20 July 2004|
+|||(Bill No. 34/2004 published on 21 July 2004)|
+||Date of Second and Third Readings|2 September 2004|
+||Date of commencement|1 October 2004|
+|2.|**2005 Revised Edition—Human Cloning and Other Prohibited Practices Act**|
+||Date of operation|31 July 2005|
