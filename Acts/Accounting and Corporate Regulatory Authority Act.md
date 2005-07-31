@@ -1,16 +1,14 @@
-**Accounting and Corporate Regulatory Authority Act 2004**
+**Accounting and Corporate Regulatory Authority Act**
 
-**(No. 3 of 2004)**
+**(CHAPTER 2A)**
 
 **Table of Contents**
 
 [**Long Title**](#Accounting-and-Corporate-Regulatory-Authority-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -98,67 +96,45 @@
 
 - [38 Rules](#Rules)
 
-- [39 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
-
 [**FIRST SCHEDULE Constitution and Proceedings of Authority**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Authority)
 
 [**SECOND SCHEDULE Written Laws Administered and Enforced by Authority**](#SECOND-SCHEDULE-Written-Laws-Administered-and-Enforced-by-Authority)
 
 [**THIRD SCHEDULE Financial Provisions**](#THIRD-SCHEDULE-Financial-Provisions)
 
-[**FOURTH SCHEDULE Consequential Amendments to Other Written Laws**](#FOURTH-SCHEDULE-Consequential-Amendments-to-Other-Written-Laws)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+[**Comparative Table**](#Comparative-Table)
 
-GOVERNMENT GAZETTE
+# Accounting and Corporate Regulatory Authority Act
 
-ACTS SUPPLEMENT
+(CHAPTER 2A)
 
-Published by Authority
+(Original Enactment: Act 3 of 2004)
 
-NO. 5]
+REVISED EDITION 2005
 
-Friday, March 5
+(31st July 2005)
 
-[2004
+An Act to establish and incorporate the Accounting and Corporate Regulatory Authority, to provide for its functions and powers, and for matters connected therewith.
 
-The following Act was passed by Parliament on 6th February 2004 and assented to by the President on 21st February 2004:—
-
-Accounting and Corporate Regulatory Authority Act 2004
-
-(No. 3 of 2004)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-21st February 2004.
-
-Date of Commencement: 1st April 2004
-
-An Act to establish and incorporate the Accounting and Corporate Regulatory Authority, to provide for its functions and powers, and for matters connected therewith, and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st April 2004]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Accounting and Corporate Regulatory Authority Act 2004 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Accounting and Corporate Regulatory Authority Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“appointed day” means the date of commencement of this Act;
-
 “Authority” means the Accounting and Corporate Regulatory Authority established under section 3;
 
-“Chairman” means the Chairman of the Authority appointed under section 5(1) (a) and includes any temporary Chairman of the Authority;
+“Chairman” means the Chairman of the Authority appointed under section 5(1)(a) and includes any temporary Chairman of the Authority;
 
 “Chief Executive” means the Chief Executive of the Authority appointed under section 10 and includes any person acting in that capacity;
 
@@ -168,7 +144,7 @@ PRELIMINARY
 
 “member” means a member of the Authority;
 
-“Public Accountants Board” means the Public Accountants Board established under section 3 of the Accountants Act (Cap. 2) repealed by the Accountants Act 2004;
+“Public Accountants Board” means the Public Accountants Board established under section 3 of the Accountants Act (Cap. 2, 2001 Ed.) repealed by the Accountants Act (Cap. 2, 2005 Ed.);
 
 “Registry of Companies and Businesses” means the Government department known as the Registry of Companies and Businesses;
 
@@ -222,7 +198,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 (4) The First Schedule shall have effect with respect to the Authority, its members and proceedings.
 
-(5) For the purpose of subsection (2), the designated professional accountancy body shall be the registered society designated by the Minister under section 70 of the Accountants Act 2004 to be the successor society of the former Institute of Certified Public Accountants of Singapore established under Part VI of the Accountants Act (Cap. 2) repealed by the Accountants Act 2004.
+(5) For the purpose of subsection (2), the designated professional accountancy body shall be the registered society designated by the Minister under section 70 of the Accountants Act (Cap. 2) to be the successor society of the former Institute of Certified Public Accountants of Singapore established under Part VI of the Accountants Act (Cap. 2, 2001 Ed.) repealed by the Accountants Act.
 
 ## PART III
 
@@ -250,7 +226,7 @@ FUNCTIONS AND POWERS OF AUTHORITY
 
 (3) Nothing in this section shall be construed as imposing on the Authority, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
 
-(4) In subsection (1), the reference to public accountants includes accounting firms and accounting corporations.
+(4) In subsection (1), the reference to public accountants includes a reference to accounting firms and accounting corporations.
 
 ### Powers of Authority
 
@@ -400,7 +376,7 @@ FINANCIAL PROVISIONS
 
 17\. The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[45/2004 wef 15/12/2004]
+[45/2004]
 
 ### Grants-in-aids
 
@@ -430,7 +406,7 @@ TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 ### Transfer to Authority of property, assets and liabilities
 
-22\.—(1) As from the appointed day —
+22\.—(1) As from 1st April 2004 —
 
 (a) such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Registry of Companies and Businesses and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the Registry of Companies and Businesses; and
 
@@ -444,11 +420,11 @@ shall, without further assurance, act or deed, be transferred to and shall vest 
 
 ### Transfer of employees
 
-23\.—(1) As from the appointed day —
+23\.—(1) As from 1st April 2004 —
 
-(a) such persons or categories of persons as the Minister may determine who, immediately before that day, were employed by the Government in the Registry of Companies and Businesses; and
+(a) such persons or categories of persons as the Minister may determine who, immediately before that date, were employed by the Government in the Registry of Companies and Businesses; and
 
-(b) every person employed immediately before that day by the Public Accountants Board,
+(b) every person employed immediately before that date by the Public Accountants Board,
 
 shall be transferred to the service of the Authority on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
@@ -472,21 +448,21 @@ shall be transferred to the service of the Authority on terms no less favourable
 
 ### Existing contracts
 
-25\.—(1) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Government is a party and relating to the Registry of Companies and Businesses or to any person transferred to the service of the Authority under section 23(1)(a) shall continue in force on and after that day and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Government.
+25\.—(1) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st April 2004 to which the Government is a party and relating to the Registry of Companies and Businesses or to any person transferred to the service of the Authority under section 23(1)(a) shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Government.
 
-(2) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Public Accountants Board is a party shall continue in force on and after that day and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Public Accountants Board.
+(2) All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st April 2004 to which the Public Accountants Board is a party shall continue in force on and after that date and shall be enforceable by or against the Authority as if the Authority had been named therein or had been a party thereto instead of the Public Accountants Board.
 
 ### Pending proceedings
 
-26\.—(1) Any proceedings or cause of action pending or existing immediately before the appointed day by or against the Government or any person acting on its behalf in respect of the Registry of Companies and Businesses may be continued, completed and enforced by or against the Authority.
+26\.—(1) Any proceedings or cause of action pending or existing immediately before 1st April 2004 by or against the Government or any person acting on its behalf in respect of the Registry of Companies and Businesses may be continued, completed and enforced by or against the Authority.
 
-(2) Any proceedings or cause of action pending or existing immediately before the appointed day by or against the Public Accountants Board or any person acting on its behalf may be continued, completed and enforced by or against the Authority.
+(2) Any proceedings or cause of action pending or existing immediately before 1st April 2004 by or against the Public Accountants Board or any person acting on its behalf may be continued, completed and enforced by or against the Authority.
 
 ### Continuation and completion of disciplinary proceedings
 
-27\.—(1) Where, on the appointed day, any disciplinary proceedings were pending against any employee of the Government or the Public Accountants Board, as the case may be, transferred to the service of the Authority under section 23, the proceedings shall be carried on and completed by the Authority.
+27\.—(1) Where, on 1st April 2004, any disciplinary proceedings were pending against any employee of the Government or the Public Accountants Board, as the case may be, transferred to the service of the Authority under section 23, the proceedings shall be carried on and completed by the Authority.
 
-(2) Where, on the appointed day, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that day.
+(2) Where, on 1st April 2004, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
 (3) Any order, ruling or direction made by a committee under this section shall be treated as an order, a ruling or a direction of the Authority and have the same force or effect as if it had been made by the Authority pursuant to the authority vested in the Authority under this Act.
 
@@ -546,6 +522,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 33\.—(1) Proceedings in respect of an offence under this Act or under any written law specified in the Second Schedule may be conducted by an officer of the Authority who is authorised in writing in that behalf by the Chief Executive.
 
+[15/2010 wef 02/01/2011]
+
 (2) Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) may —
 
 (a) appear in any civil proceedings involving the Authority or any Registrar in the performance of his functions or duties under any written law specified in the Second Schedule; and
@@ -554,15 +532,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) In this section, “Registrar” means —
 
-(a) the Registrar of Public Accountants and any Deputy or Assistant Registrar of Public Accountants appointed under the Accountants Act 2004;
+(a) the Registrar of Public Accountants and any Deputy or Assistant Registrar of Public Accountants appointed under the Accountants Act (Cap. 2);
 
-(b) the Registrar of Businesses and any Deputy or Assistant Registrar of Businesses appointed under the Business Registration Act (Cap. 32); and
+(b) the Registrar of Businesses and any Deputy or Assistant Registrar of Businesses appointed under the Business Registration Act (Cap. 32);
 
-(c) the Registrar of Companies and any Deputy or Assistant Registrar of Companies appointed under the Companies Act (Cap. 50).
+(c) the Registrar of Companies and any Deputy or Assistant Registrar of Companies appointed under the Companies Act (Cap. 50); and
 
-(d) the Registrar of Limited Liability Partnerships and any Deputy or Assistant Registrar of Limited Liability Partnerships appointed under the Limited Liability Partnerships Act 2005.
+(d) the Registrar of Limited Liability Partnerships and any Deputy or Assistant Registrar of Limited Liability Partnerships appointed under the Limited Liability Partnerships Act 2005 (Act 5 of 2005).
 
-[5/2005 wef 11/04/2005]
+[4/2010 wef 05/02/2010]
 
 ### Preservation of secrecy
 
@@ -581,6 +559,8 @@ shall disclose any information relating to the affairs of the Authority or of an
 (iii) in compliance with the requirement of any court or the provisions of any written law; or
 
 (iv) for the purpose of assisting any public officer or officer of any other statutory board in the investigation or prosecution of any offence under any written law.
+
+[5/2005]
 
 (2) No person who is or has been —
 
@@ -623,12 +603,6 @@ shall, for his own personal benefit or for the personal benefit of any other per
 (c) the fees to be charged in respect of anything done or any service rendered by the Authority under or by virtue of this Act or any other written law; and
 
 (d) the offences which may be compounded under section 36.
-
-### Consequential amendments to other written laws
-
-39\.—(1) The provisions of the Acts specified in the first column of the Fourth Schedule are amended in the manner set out in the second column thereof.
-
-(2) The Minister may, by order in theGazette, repeal or amend any written law which appears to him to be unnecessary having regard to the provisions of this Act, or to be inconsistent with any provision of this Act.
 
 FIRST SCHEDULE
 
@@ -724,9 +698,9 @@ Meetings and proceedings of Authority
 
 shall preside at that meeting.
 
-(4) Decisions at meetings of the Authority shall be adopted by a simple majority of the members present and voting and, in the case of an equality of votes, the Chairman or, in his absence, the member presiding shall have a casting vote.
+(4) Decisions at meetings of the Authority shall be adopted by a simple majority of the members present and voting and, in the case of an equality of votes, the Chairman or, in his absence, the member presiding, shall have a casting vote.
 
-(5) Where not less than 4 members request the Chairman by notice in writing signed by them to convene a meeting of the Authority for any purpose specified in the notice, the Chairman shall, within 7 days from the receipt of the notice, convene a meeting for that purpose.
+(5) Where not less than 4 members, by notice in writing signed by them, request the Chairman to convene a meeting of the Authority for any purpose specified in the notice, the Chairman shall, within 7 days from the receipt of the notice, convene a meeting for that purpose.
 
 (6) The validity of any proceedings of the Authority shall not be affected by any vacancy amongst its members or by any defect in the appointment of any member.
 
@@ -738,7 +712,7 @@ Sections 6(1), 31(1), 33(1) and (2), 34(1) and (5) and 37
 
 Written Laws Administered and Enforced by Authority
 
-1\. Accountants Act 2004.
+1\. Accountants Act (Cap. 2).
 
 2\. Business Registration Act (Cap. 32).
 
@@ -746,9 +720,7 @@ Written Laws Administered and Enforced by Authority
 
 4\. Trust Companies Act (Cap. 336).
 
-5. Limited Liability Partnerships Act 2005.
-
-[5/2005 wef 11/04/2005]
+5\. Limited Liability Partnerships Act (Act 5 of 2005).
 
 THIRD SCHEDULE
 
@@ -758,7 +730,7 @@ Financial Provisions
 
 Financial year
 
-1\. The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Authority shall begin on the appointed day and end on 31st March of the succeeding year.
+1\. The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Authority shall begin on 1st April 2004 and end on 31st March of the succeeding year.
 
 Accounts of Authority
 
@@ -770,7 +742,7 @@ Auditor
 
 Appointment of auditor
 
-4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is a public accountant registered under the Accountants Act 2004.
+4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is a public accountant registered under the Accountants Act (Cap. 2).
 
 Remuneration of auditor
 
@@ -822,198 +794,50 @@ Presentation to Parliament
 
 13\. The Minister shall as soon as practicable cause a copy of the audited financial statements and any report made by the auditor to be presented to Parliament.
 
-FOURTH SCHEDULE
+## LEGISLATIVE HISTORY
 
-Section 39 (1)
+Accounting and Corporate Regulatory Authority Act
 
-Consequential Amendments to Other Written Laws
+(CHAPTER 2A)
 
-First column
+This Legislative History is provided for the convenience of users of the Accounting and Corporate Regulatory Authority Act. It is not part of this Act.
 
-Second column
+||||
+|:-|:-|:-|
+|1.|**Act 3 of 2004—Accounting and Corporate Regulatory Authority Act 2004**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 1/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|1 April 2004|
+|2.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
+|3.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+||(Consequential amendments made by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 64/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|11 April 2005|
+|4.|**2005 Revised Edition—Accounting and Corporate Regulatory Authority Act**|
+||Date of operation|31 July 2005|
+## COMPARATIVE TABLE
 
-(1) Business Registration Act
+Accounting and Corporate Regulatory Authority Act
 
+(CHAPTER 2A)
 
+The following provisions in the Accounting and Corporate Regulatory Authority Act 2004 (Act 3 of 2004) have been renumbered by the Law Revision Commissioners in this 2005 Revised Edition.
 
+This Comparative Table is provided for the convenience of users. It is not part of the Accounting and Corporate Regulatory Authority Act.
 
-(Chapter 32, 2001 Ed.)
+2005 Ed\. 
 
-(a) Section 2 (1)
+Act 3 of 2004 
 
-Insert, immediately before the definition of “business”, the following definition:
+Omitted
 
-“
-
-“Authority” means the Accounting and Corporate Regulatory Authority established under the Accounting and Corporate Regulatory Authority Act 2004;
-
-”.
-
-(b) Section 3
-
-Repeal and substitute the following section:
-
-“
-
-Administration of Act and appointment of Registrar of Businesses, etc.
-
-3.—(1) The Authority shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
-
-(2) The Minister may, after consultation with the Authority —
-
-(a) appoint an officer of the Authority to be the Registrar of Businesses; and
-
-(b) from among the officers of the Authority, public officers and the officers of any other statutory board, appoint such number of Deputy Registrars and Assistant Registrars of Businesses as he considers necessary,
-
-for the proper administration of this Act.
-
-(3) The Registrar shall be responsible generally for the carrying out of the provisions of this Act and for the collection of the fees thereunder and shall pay all amounts so collected into the funds of the Authority.
-
-(4) The Authority may give to the Registrar such directions, not inconsistent with the provisions of this Act, as to the exercise of his powers, functions or duties under this Act, and the Registrar shall give effect to such directions.
-
-(5) The Registrar may, subject to such conditions or restrictions as he thinks fit, for the purposes of the administration of this Act, delegate to any person all or any of the powers, functions and duties vested in him by this Act.
-
-”.
-
-(2) Central Provident Fund Act
-
-
-
-
-(Chapter 36, 2001 Ed.)
-
-First Schedule, paragraph 6
-
-Delete sub-paragraph (47) and substitute the following sub-paragraph:
-
-“
-
-(47) Accounting and Corporate Regulatory Authority.
-
-”.
-
-(3) Companies Act
-
-
-
-
-(Chapter 50, 1994 Ed.)
-
-(a) Section 4(1)
-
-Insert, immediately after the definition of “audit requirements”, the following definition:
-
-“
-
-“Authority” means the Accounting and Corporate Regulatory Authority established under the Accounting and Corporate Regulatory Authority Act 2004;
-
-”.
-
-(b) Section 8
-
-(i) Delete subsection (1) and substitute the following subsections:
-
-“
-
-(1) The Authority shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
-
-(1A) The Minister may, after consultation with the Authority —
-
-(a) appoint an officer of the Authority to be the Registrar of Companies; and
-
-(b) from among the officers of the Authority, public officers and the officers of any other statutory board, appoint such number of Deputy Registrars and Assistant Registrars of Companies as he considers necessary,
-
-for the proper administration of this Act.
-
-(1B) The Authority may give to the Registrar such directions, not inconsistent with the provisions of this Act, as to the exercise of his powers, functions or duties under this Act, and the Registrar shall give effect to such directions.
-
-”.
-
-(ii) Insert, immediately after subsection (6), the following subsection:
-
-“
-
-(6A) All fees collected by the Registrar under this Act shall be paid into the funds of the Authority.
-
-”.
-
-(iii) Delete the marginal note and insert the following section heading:
-
-“
-
-Administration of Act and appointment of Registrar of Companies, etc.
-
-”.
-
-(4) Statutory Corporations (Contributions to Consolidated Fund) Act
-
-
-
-
-(Chapter 319A, 2000 Ed.)
-
-The Schedule
-
-Delete item 20 and substitute the following item:
-
-“
-
-"20. Accounting and Corporate Regulatory Authority
-
-”.
-
-“
-
-Accounting and Corporate Regulatory Authority Act 2004".
-
-”.
-
-(5) Trust Companies Act
-
-
-
-
-(Chapter 336, 1985 Ed.)
-
-(a) Section 2
-
-(i) Insert, immediately before the definition of “court”, the following definition:
-
-“
-
-“Authority” means the Accounting and Corporate Regulatory Authority established under the Accounting and Corporate Regulatory Authority Act 2004;
-
-”.
-
-(ii) Delete the definition of “Registrar” and substitute the following definition:
-
-“
-
-“Registrar” means the Registrar of Companies appointed under section 8 of the Companies Act (Cap. 50) and includes a Deputy Registrar and an Assistant Registrar appointed under that section;
-
-”.
-
-(b) New section 2A
-
-Insert, immediately after section 2, the following section:
-
-“
-
-Administration of Act
-
-2A.—(1) The Authority shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
-
-(2) The Authority may give to the Registrar such directions, not inconsistent with the provisions of this Act, as to the exercise of his powers, functions or duties under this Act, and the Registrar shall give effect to such directions.
-
-”.
-
-(c) Section 37
-
-Delete subsection (2) and substitute the following subsection:
-
-“
-
-(2) All fees collected by the Registrar under this Act shall be paid into the funds of the Authority.
-
-”.
+39
 
