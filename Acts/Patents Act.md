@@ -14,7 +14,7 @@
 
 - [3 Application to Government](#Application-to-Government)
 
-[**Part II Administration**](#Part-II)
+[**Part II ADMINISTRATION**](#Part-II)
 
 - [4 Registrar of Patents and other officers](#Registrar-of-Patents-and-other-officers)
 
@@ -34,7 +34,7 @@
 
 - [12 Officers not to furnish information](#Officers-not-to-furnish-information)
 
-[**Part III Patentability**](#Part-III)
+[**Part III PATENTABILITY**](#Part-III)
 
 - [13 Patentable inventions](#Patentable-inventions)
 
@@ -48,7 +48,7 @@
 
 - [18 Disclosure of matter, etc., between earlier and later applications](#Disclosure-of-matter-etc-between-earlier-and-later-applications)
 
-[**Part IV Right to Apply for and Obtain Patent**](#Part-IV)
+[**Part IV RIGHT TO APPLY FOR AND OBTAIN PATENT**](#Part-IV)
 
 - [19 Right to apply for and obtain patent](#Right-to-apply-for-and-obtain-patent)
 
@@ -62,7 +62,7 @@
 
 - [24 Mention of inventor](#Mention-of-inventor)
 
-[**Part V Applications for Patents**](#Part-V)
+[**Part V APPLICATIONS FOR PATENTS**](#Part-V)
 
 - [25 Making of application](#Making-of-application)
 
@@ -70,7 +70,7 @@
 
 - [27 Publication of application](#Publication-of-application)
 
-[**Part VI Procedure for Grant of Patent**](#Part-VI)
+[**Part VI PROCEDURE FOR GRANT OF PATENT**](#Part-VI)
 
 - [28 Examination as to form](#Examination-as-to-form)
 
@@ -86,7 +86,7 @@
 
 - [34 Restrictions on applications abroad by Singapore residents](#Restrictions-on-applications-abroad-by-Singapore-residents)
 
-[**Part VII Provisions as to Patents after Grant**](#Part-VII)
+[**Part VII PROVISIONS AS TO PATENTS AFTER GRANT**](#Part-VII)
 
 - [35 Publication and certificate of grant](#Publication-and-certificate-of-grant)
 
@@ -104,7 +104,7 @@
 
 - [40 Surrender of patents](#Surrender-of-patents)
 
-[**Part VIII Property in Patents and Applications for Patents and Registration**](#Part-VIII)
+[**Part VIII PROPERTY IN PATENTS AND APPLICATIONS FOR PATENTS AND REGISTRATION**](#Part-VIII)
 
 - [41 Nature of, and transactions in, patents and applications for patents](#Nature-of-and-transactions-in-patents-and-applications-for-patents)
 
@@ -122,19 +122,19 @@
 
 - [48 Effect of transfer of patent under section 47](#Effect-of-transfer-of-patent-under-section-47)
 
-[**Part IX Employees’ Inventions**](#Part-IX)
+[**Part IX EMPLOYEES’ INVENTIONS**](#Part-IX)
 
 - [49 Right to employees’ inventions](#Right-to-employees’-inventions)
 
 - [50 Supplementary provisions](#Supplementary-provisions)
 
-[**Part X Contracts as to Patented Products**](#Part-X)
+[**Part X CONTRACTS AS TO PATENTED PRODUCTS**](#Part-X)
 
 - [51 Avoidance of certain restrictive conditions](#Avoidance-of-certain-restrictive-conditions)
 
 - [52 Determination of parts of certain contracts](#Determination-of-parts-of-certain-contracts)
 
-[**Part XI Licences of Right and Compulsory Licences**](#Part-XI)
+[**Part XI LICENCES OF RIGHT AND COMPULSORY LICENCES**](#Part-XI)
 
 - [53 Licences of right](#Licences-of-right)
 
@@ -164,7 +164,7 @@
 
 - [65 (No Operation)](#No-Operation)
 
-[**Part XIII Infringement of Patents**](#Part-XIII)
+[**Part XIII INFRINGEMENT OF PATENTS**](#Part-XIII)
 
 - [66 Meaning of infringement](#Meaning-of-infringement)
 
@@ -192,7 +192,7 @@
 
 - [78 Declaration as to non-infringement](#Declaration-as-to-non-infringement)
 
-[**Part XIV Revocation of Patents and Validity Proceedings**](#Part-XIV)
+[**Part XIV REVOCATION OF PATENTS AND VALIDITY PROCEEDINGS**](#Part-XIV)
 
 - [79 (Repealed)](#Repealed)
 
@@ -202,13 +202,13 @@
 
 - [82 Proceedings in which validity of patent may be put in issue](#Proceedings-in-which-validity-of-patent-may-be-put-in-issue)
 
-[**Part XV Amendments of Patents and Applications**](#Part-XV)
+[**Part XV AMENDMENTS OF PATENTS AND APPLICATIONS**](#Part-XV)
 
 - [83 Amendment of patent in infringement or revocation proceedings](#Amendment-of-patent-in-infringement-or-revocation-proceedings)
 
 - [84 Amendments of applications and patents not to include added matter](#Amendments-of-applications-and-patents-not-to-include-added-matter)
 
-[**Part XVI International Applications for Patents**](#Part-XVI)
+[**Part XVI INTERNATIONAL APPLICATIONS FOR PATENTS**](#Part-XVI)
 
 - [85 Effect of filing international application for patent](#Effect-of-filing-international-application-for-patent)
 
@@ -218,7 +218,7 @@
 
 - [88 Evidence of Patent Co-operation Treaty and its instruments](#Evidence-of-Patent-Co-operation-Treaty-and-its-instruments)
 
-[**Part XVII Legal Proceedings**](#Part-XVII)
+[**Part XVII LEGAL PROCEEDINGS**](#Part-XVII)
 
 - [89 Proceedings before court or Registrar](#Proceedings-before-court-or-Registrar)
 
@@ -238,7 +238,7 @@
 
 - [97 Licences granted by order of Registrar](#Licences-granted-by-order-of-Registrar)
 
-[**Part XVIII Offences**](#Part-XVIII)
+[**Part XVIII OFFENCES**](#Part-XVIII)
 
 - [98 Falsification of register, etc.](#Falsification-of-register-etc)
 
@@ -258,7 +258,7 @@
 
 - [105 Persons entitled to act as patent agents, etc.](#Persons-entitled-to-act-as-patent-agents-etc)
 
-[**Part XX Miscellaneous and General**](#Part-XX)
+[**Part XX MISCELLANEOUS AND GENERAL**](#Part-XX)
 
 - [106 Immunity of Office, its officers and Examiners](#Immunity-of-Office-its-officers-and-Examiners)
 
@@ -288,7 +288,11 @@
 
 [**THE SCHEDULE Substances Which Are Not Pharmaceutical Products**](#THE-SCHEDULE)
 
+[**Legislative Source Key**](#Legislative-Source-Key)
+
 [**Legislative History**](#Legislative-History)
+
+[**Comparative Table**](#Comparative-Table)
 
 [**Comparative Table**](#Comparative-Table)
 
@@ -298,9 +302,9 @@
 
 (Original Enactment: Act 21 of 1994)
 
-REVISED EDITION 2002
+REVISED EDITION 2005
 
-(31st July 2002)
+(31st July 2005)
 
 An Act to establish a new law of patents, to enable Singapore to give effect to certain international conventions on patents, and for matters connected therewith.
 
@@ -330,8 +334,6 @@ PRELIMINARY
 
 (ii) an application which is also the basis for a priority claim under section 17 in the application in suit;
 
-[19/2004 wef 01/07/2004]
-
 “corresponding international application”, in relation to an application for a patent (referred to in this definition as the application in suit), means an application for protection filed under the Patent Co-operation Treaty that —
 
 (a) forms the basis for a priority claim under section 17 in the application in suit; or
@@ -342,11 +344,7 @@ PRELIMINARY
 
 (ii) an application which is also the basis for a priority claim under section 17 in the application in suit;
 
-[19/2004 wef 01/07/2004]
-
 “corresponding patent”, in relation to a corresponding application, means a patent granted in respect of the corresponding application by the prescribed patent office in which the corresponding application was filed or treated as filed;
-
-[19/2004 wef 01/07/2004]
 
 “country” includes —
 
@@ -396,8 +394,6 @@ PRELIMINARY
 
 referred to in the Regulations under the Patent Co-operation Treaty;
 
-[19/2004 wef 01/07/2004]
-
 “inventor”, in relation to an invention, means the actual deviser of the invention and “joint inventor” shall be construed accordingly;
 
 “journal” has the same meaning as in section 115(4);
@@ -406,11 +402,7 @@ referred to in the Regulations under the Patent Co-operation Treaty;
 
 “marketing approval”, in relation to a pharmaceutical product, means a product licence under section 5 of the Medicines Act (Cap. 176);
 
-[19/2004 wef 01/07/2004]
-
-“medicinal product” has the same meaning as in the Medicines Act;
-
-[19/2004 wef 01/07/2004]
+“medicinal product” has the same meaning as in the Medicines Act (Cap. 176);
 
 “mortgage”, when used as a noun, includes a charge for securing money or money’s worth and, when used as a verb, shall be construed accordingly;
 
@@ -438,11 +430,7 @@ referred to in the Regulations under the Patent Co-operation Treaty;
 
 (b) any substance or class of substances specified in paragraph 2 or 3 of the Schedule;
 
-[19/2004 wef 01/07/2004]
-
 “prescribed form” means a form published by the Registrar under section 115A;
-
-[19/2004 wef 01/07/2004]
 
 “priority date” means the date determined as such under section 17;
 
@@ -458,19 +446,17 @@ referred to in the Regulations under the Patent Co-operation Treaty;
 
 “relevant authority”, in relation to a pharmaceutical product, means the Health Sciences Authority established under the Health Sciences Authority Act (Cap. 122C);
 
-[19/2004 wef 01/07/2004]
-
 “right”, in relation to any patent or application, includes an interest in the patent or application and, without prejudice to the foregoing, any reference to a right in a patent includes a reference to a share in the patent;
 
 “scientific adviser” means any person with any scientific qualification, any medical practitioner, engineer, architect, surveyor, accountant, actuary and any other specially skilled person.
 
-[40/95; 3/2001; 30/2001]
+[40/95; 3/2001; 30/2001; 19/2004]
 
 (2) Rules may provide for stating in the journal that an exhibition falls within the definition of “international exhibition” in subsection (1) and any such statement shall be conclusive evidence that the exhibition falls within that definition.
 
 (3) For the purposes of this Act, a matter shall be taken to have been disclosed in any relevant application within the meaning of section 17 or in the specification of a patent if it was either claimed or disclosed (otherwise than by way of disclaimer or acknowledgment of prior art) in that application or specification.
 
-(3A) For the purposes of this Act —
+(4) For the purposes of this Act —
 
 (a) a claim is related to another claim if —
 
@@ -484,15 +470,15 @@ referred to in the Regulations under the Patent Co-operation Treaty;
 
 (b) more than one claim may be related to a single claim.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
-(4) References in this Act to an application for a patent, as filed, are references to such an application in the state it was on the date of filing.
+(5) References in this Act to an application for a patent, as filed, are references to such an application in the state it was on the date of filing.
 
-(5) References in this Act to an application for a patent being published are references to its being published under section 27.
+(6) References in this Act to an application for a patent being published are references to its being published under section 27.
 
-(6) References in this Act to the Paris Convention or the Patent Co-operation Treaty are references to that Convention or Treaty or any other international convention or agreement replacing it, as amended or supplemented by any convention or international agreement (including in either case any protocol or annex) to which Singapore is a party, or in accordance with the terms of any such convention or agreement and include references to any instrument made under any such convention or agreement.
+(7) References in this Act to the Paris Convention or the Patent Co-operation Treaty are references to that Convention or Treaty or any other international convention or agreement replacing it, as amended or supplemented by any convention or international agreement (including in either case any protocol or annex) to which Singapore is a party, or in accordance with the terms of any such convention or agreement and include references to any instrument made under any such convention or agreement.
 
-(7) The Arbitration Act (Cap. 10) shall not apply to any proceedings before the Registrar under this Act.
+(8) The Arbitration Act (Cap. 10) shall not apply to any proceedings before the Registrar under this Act.
 
 ### Application to Government
 
@@ -500,7 +486,7 @@ referred to in the Regulations under the Patent Co-operation Treaty;
 
 ## PART II
 
-Administration
+ADMINISTRATION
 
 ### Registrar of Patents and other officers
 
@@ -576,7 +562,7 @@ Administration
 
 ## PART III
 
-Patentability
+PATENTABILITY
 
 ### Patentable inventions
 
@@ -593,6 +579,8 @@ Patentability
 (2) An invention the publication or exploitation of which would be generally expected to encourage offensive, immoral or anti-social behaviour is not a patentable invention.
 
 (3) For the purposes of subsection (2), behaviour shall not be regarded as offensive, immoral or anti-social only because it is prohibited by any law in force in Singapore.
+
+[UK Patents 1977, s. 1]
 
 ### Novelty
 
@@ -626,9 +614,13 @@ Patentability
 
 (7) In the case of an invention consisting of a substance or composition for use in a method of treatment of the human or animal body by surgery or therapy or of diagnosis practised on the human or animal body, the fact that the substance or composition forms part of the state of the art shall not prevent the invention from being taken to be new if the use of the substance or composition in any such method does not form part of the state of the art.
 
+[UK Patents 1977, s. 2]
+
 ### Inventive step
 
 15\. An invention shall be taken to involve an inventive step if it is not obvious to a person skilled in the art, having regard to any matter which forms part of the state of the art by virtue only of section 14(2) and without having regard to section 14(3).
+
+[UK Patents 1977, s. 3]
 
 ### Industrial application
 
@@ -637,6 +629,8 @@ Patentability
 (2) An invention of a method of treatment of the human or animal body by surgery or therapy or of diagnosis practised on the human or animal body shall not be taken to be capable of industrial application.
 
 (3) Subsection (2) shall not prevent a product consisting of a substance or composition from being treated as capable of industrial application merely because it is invented for use in any such method.
+
+[UK Patents 1977, s. 4]
 
 ### Priority date
 
@@ -676,6 +670,8 @@ Patentability
 
 (b) any other country with which Singapore has entered into a treaty, convention, arrangement or engagement and which is declared by the Minister, by order published in theGazette, as a convention country.
 
+[UK Patents 1977, s. 5]
+
 [30/2001]
 
 ### Disclosure of matter, etc., between earlier and later applications
@@ -684,9 +680,11 @@ Patentability
 
 (2) In subsection (1), “relevant intervening acts” means acts done in relation to matter disclosed in an earlier relevant application between the dates of the earlier relevant application and the application in suit, as for example, filing another application for the invention for which the earlier relevant application was made, making information available to the public about that invention or that matter or working that invention, but disregarding any application, or the disclosure to the public of matter contained in any application, which is itself to be disregarded for the purposes of section 17(3).
 
+[UK Patents 1977, s. 6]
+
 ## PART IV
 
-Right to Apply for and Obtain Patent
+RIGHT TO APPLY FOR AND OBTAIN PATENT
 
 ### Right to apply for and obtain patent
 
@@ -703,6 +701,8 @@ Right to Apply for and Obtain Patent
 and to no other person.
 
 (3) Except so far as the contrary is established, a person who makes an application for a patent shall be taken to be the person who is entitled under subsection (2) to be granted a patent and 2 or more persons who make such an application jointly shall be taken to be the persons so entitled.
+
+[UK Patents 1977, s. 7]
 
 ### Determination before grant of questions about entitlement to patents, etc.
 
@@ -744,13 +744,19 @@ the Registrar may order that any person by whom the reference was made may withi
 
 (8) No direction shall be given under this section so as to affect the mutual rights or obligations of trustees or of the personal representatives of deceased persons, or their rights or obligations as such.
 
+[UK Patents 1977, s. 8]
+
 ### Determination after grant of questions referred before grant
 
 21\. If a question with respect to a patent or application is referred by any person to the Registrar under section 20, and is not determined before the time when the application is first in order for a grant of a patent in pursuance of the application, that fact shall not prevent the grant of a patent, but on its grant that person shall be treated as having referred to the Registrar under section 47 any question mentioned in that section which the Registrar thinks appropriate.
 
+[UK Patents 1977, s. 9]
+
 ### Handling of application by joint applicants
 
 22\. If any dispute arises between joint applicants for a patent whether or in what manner the application should be proceeded with, the Registrar may, on a request made by any of the parties, give such directions as he thinks fit for enabling the application to proceed in the name of one or more of the parties alone or for regulating the manner in which it shall be proceeded with, or for both those purposes, as the case may require.
+
+[UK Patents 1977, s. 10]
 
 ### Effect of transfer of application under section 20 or 22
 
@@ -772,6 +778,8 @@ that or those original applicant or applicants or the licensee shall, on making 
 
 (6) The Registrar shall determine the question under subsection (5) and may, if he considers it appropriate, order the grant of such a licence.
 
+[UK Patents 1977, s. 11]
+
 ### Mention of inventor
 
 24\.—(1) The inventor or joint inventors of an invention shall have a right to be mentioned as such in any patent granted for the invention and shall also have a right to be so mentioned if possible in any published application for a patent for the invention and, if not so mentioned, a right to be so mentioned in accordance with the rules in a prescribed document.
@@ -786,9 +794,11 @@ and, if he fails to do so, the application shall be treated as having been aband
 
 (3) Where a person has been mentioned as a sole or joint inventor under this section, any other person who alleges that the former ought not to have been mentioned may at any time apply to the Registrar for a certificate to that effect, and the Registrar may issue such a certificate.
 
+[UK Patents 1977, s. 13]
+
 ## PART V
 
-Applications for Patents
+APPLICATIONS FOR PATENTS
 
 ### Making of application
 
@@ -828,6 +838,8 @@ but this subsection shall not prevent an application being initiated by document
 
 (8) An application for a patent may be withdrawn at any time before the patent is granted and any withdrawal of such an application may not be revoked.
 
+[UK Patents 1977, s. 14]
+
 ### Date of filing application
 
 26\.—(1) The date of filing an application for a patent shall, subject to the provisions of this Act, be taken to be the earliest date on which the following considerations are satisfied in relation to the application:
@@ -858,15 +870,21 @@ but this subsection shall not prevent an application being initiated by document
 
 (6) Where, after an application for a patent has been filed and before the conditions in section 30(2) and (3) are satisfied, a new application is filed by the original applicant or his successor in title in accordance with the rules in respect of any part of the matter contained in the earlier application and the considerations mentioned in subsection (1) are satisfied in relation to the new application (without the new application contravening section 84) the new application shall be treated as having, as its date of filing, the date of filing the earlier application.
 
+[19/2004]
+
 (7) Nothing in subsection (5) shall be construed as affecting the power of the Registrar under section 107(1) to correct errors or mistakes with respect to the filing of drawings.
 
 (8) An application for a patent shall be treated as having been abandoned at the end of the prescribed period unless before that period ends the applicant files one or more claims for the purposes of the application.
+
+[UK Patents 1977, s. 15]
 
 [30/2001]
 
 ### Publication of application
 
 27\.—(1) Subject to section 33, where an application has a date of filing, then, as soon as possible after the end of the prescribed period, the Registrar shall, unless the application is withdrawn in the prescribed manner, treated as having been abandoned or refused before preparations for its publication have been completed by the Registry, publish it as filed (including not only the original claims but also any amendment of those claims and new claims subsisting immediately before the completion of those preparations).
+
+[19/2004]
 
 (2) The Registrar may, if so requested by the applicant, publish the application as mentioned in subsection (1) during the prescribed period, and in either event shall publish the fact and date of its publication in the journal.
 
@@ -876,9 +894,11 @@ but this subsection shall not prevent an application being initiated by document
 
 (b) the publication or exploitation of which would in his opinion be generally expected to encourage offensive, immoral or anti-social behaviour.
 
+[UK Patents 1977, s. 16]
+
 ## PART VI
 
-Procedure for Grant of Patent
+PROCEDURE FOR GRANT OF PATENT
 
 ### Examination as to form
 
@@ -901,6 +921,8 @@ the Registrar shall, as soon as practicable after the end of the prescribed peri
 ### Search and examination
 
 29\.—(1) Where an application for a patent complies with all the formal requirements referred to in section 28(1), the Registrar shall send a notification to the applicant.
+
+[19/2004]
 
 (2) Upon receiving the Registrar’s notification under subsection (1), the applicant shall comply with any of the following paragraphs which is applicable within the period prescribed for that paragraph:
 
@@ -964,6 +986,8 @@ and pay the prescribed fee for an examination report; or
 
 (ii) file a notice in the prescribed form of the applicant’s intention to rely on the international preliminary report on patentability in respect of that application.
 
+[19/2004]
+
 (3) Where the applicant has filed a request and paid the prescribed fee for a search report under subsection (2)(a), the Registrar shall —
 
 (a) cause the application to be subjected to a search by an Examiner to discover the relevant prior art contained in —
@@ -974,7 +998,11 @@ and pay the prescribed fee for an examination report; or
 
 (b) upon receiving the search report prepared by the Examiner, send the applicant a notification and a copy of the search report.
 
+[19/2004]
+
 (4) Upon receiving the search report under subsection (3)(b) from the Registrar, the applicant shall, within the prescribed period, file a request in the prescribed form and pay the prescribed fee for an examination report.
+
+[19/2004]
 
 (5) Where the applicant has filed a request and paid the fee for an examination report under subsection (2)(c)(i), (d)(i) or (e)(i) or (4), the Registrar shall —
 
@@ -989,6 +1017,8 @@ and pay the prescribed fee for an examination report; or
 taking into consideration all the relevant prior art, if any, that the Examiner is aware of or that has been referred to in the search report or international search report, as the case may be; and
 
 (b) upon receiving the examination report prepared by the Examiner, send the applicant a notification and a copy of the examination report.
+
+[19/2004]
 
 (6) Where the applicant has filed a request and paid the fee for a search and examination report under subsection (2)(b), the Registrar shall —
 
@@ -1012,6 +1042,8 @@ taking into consideration all the relevant prior art, if any, that the Examiner 
 
 (b) upon receiving the search and examination report prepared by the Examiner, send the applicant a notification and a copy of the search and examination report.
 
+[19/2004]
+
 (7) If, within the prescribed period under —
 
 (a) paragraph (b), (c)(i) or (ii), (d) (i) or (ii) or (e) (i) or (ii) of subsection (2); or
@@ -1020,7 +1052,7 @@ taking into consideration all the relevant prior art, if any, that the Examiner 
 
 an applicant files a request in the prescribed form and pays the prescribed fee for that period to be extended, the applicant shall perform the acts set out in that provision within the prescribed extended period for performing those acts.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
 ### Grant of patent
 
@@ -1029,6 +1061,8 @@ an applicant files a request in the prescribed form and pays the prescribed fee 
 (a) the conditions in subsection (2) are satisfied before the end of the prescribed period or any extension thereof; and
 
 (b) the conditions in subsection (3) have been satisfied.
+
+[19/2004]
 
 (2) The conditions referred to in subsection (1)(a) are —
 
@@ -1060,6 +1094,8 @@ an applicant files a request in the prescribed form and pays the prescribed fee 
 
 (d) that the prescribed fee for the grant of the patent has been paid.
 
+[19/2004]
+
 (3) The conditions referred to in subsection (1)(b) are —
 
 (a) that —
@@ -1088,6 +1124,8 @@ an applicant files a request in the prescribed form and pays the prescribed fee 
 
 (ii) no earlier grant of a patent for the same invention having the same priority date to the same applicant or his successor in title.
 
+[19/2004]
+
 (4) If, within the prescribed period under subsection (1)(a) —
 
 (a) an appeal is filed in court in respect of an application; and
@@ -1096,7 +1134,11 @@ an applicant files a request in the prescribed form and pays the prescribed fee 
 
 the court may extend that period to such date as the court may determine.
 
+[19/2004]
+
 (5) Where the conditions in subsection (2) are not satisfied before the end of the prescribed period under subsection (1)(a) or any extension thereof, the applicant shall be deemed to have abandoned his application at the end of that period.
+
+[19/2004]
 
 (6) If the Registrar is of the opinion that any condition in subsection (3) has not been satisfied —
 
@@ -1108,7 +1150,7 @@ the court may extend that period to such date as the court may determine.
 
 (d) if any condition in subsection (3) remains unsatisfied at the end of the period referred to in paragraph (c), the applicant shall be deemed to have abandoned his application at the end of that period.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
 ### General power to amend application before grant
 
@@ -1124,19 +1166,21 @@ the court may extend that period to such date as the court may determine.
 
 the Examiner shall give the applicant at least one written opinion to that effect, and the Registrar shall, upon receiving the written opinion, send the applicant a notification and a copy of the written opinion.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
-(1A) The applicant shall, before the examination report is issued, have the right —
+(2) The applicant shall, before the examination report is issued, have the right —
 
 (a) to respond in the prescribed manner to the written opinion within any prescribed period; and
 
 (b) subject to section 84, to amend in the prescribed manner the specification of the application in accordance with the prescribed conditions.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
-(2) Notwithstanding subsection (1), during any period prescribed for the purposes of this subsection, the applicant may, in accordance with the prescribed conditions and subject to section 84, amend the application of his own volition.
+(3) Notwithstanding subsection (1), during any period prescribed for the purposes of this subsection, the applicant may, in accordance with the prescribed conditions and subject to section 84, amend the application of his own volition.
 
-32\. [Deleted by Act 19/2004 wef 01/07/2004]
+[19/2004]
+
+32\. [Repealed by Act 19/2004]
 
 ### Information prejudicial to defence of Singapore or safety of public
 
@@ -1182,6 +1226,8 @@ the Examiner shall give the applicant at least one written opinion to that effec
 
 (9) Nothing in this section shall prevent the disclosure of information concerning an invention to a Government department or authority for the purpose of obtaining advice as to whether directions under this section with respect to an application for a patent for that invention should be made, amended or revoked.
 
+[UK Patents 1977, s. 22]
+
 ### Restrictions on applications abroad by Singapore residents
 
 34\.—(1) Subject to this section, no person resident in Singapore shall, without written authority granted by the Registrar, file or cause to be filed outside Singapore an application for a patent for an invention unless —
@@ -1202,9 +1248,11 @@ the Examiner shall give the applicant at least one written opinion to that effec
 
 (c) “person resident in Singapore” includes a person who, at the material time, is residing in Singapore by virtue of a valid pass lawfully issued to him under the Immigration Act (Cap. 133) to enter and remain in Singapore for any purpose.
 
+[UK Patents 1977, s. 23]
+
 ## PART VII
 
-Provisions as to Patents after Grant
+PROVISIONS AS TO PATENTS AFTER GRANT
 
 ### Publication and certificate of grant
 
@@ -1218,11 +1266,15 @@ Provisions as to Patents after Grant
 
 (2) The Registrar shall, at the same time as he publishes a notice under subsection (1)(b) in relation to a patent, publish the specification of the patent, the names of the proprietor and (if different) the inventor and any other matters (including the prescribed information under sections 29 and 30) constituting or relating to the patent which in the Registrar’s opinion it is desirable to publish.
 
+[UK Patents 1977, s. 24]
+
 [30/2001]
 
 ### Term of patent
 
 36\.—(1) A patent granted under this Act shall be treated for the purposes of this Act as having been granted, and shall take effect, on the date of issue of the certificate of grant and, subject to subsection (2) and section 36A, shall continue in force until the end of the period of 20 years beginning with the date of filing the application for the patent or with such other date as may be prescribed.
+
+[19/2004]
 
 (2) A patent shall cease to have effect at the end of the prescribed period for the payment of any renewal fee if it is not paid within that period.
 
@@ -1234,7 +1286,11 @@ Provisions as to Patents after Grant
 
 (c) an act which would constitute the use of the patented invention in accordance with section 56 if the patent had not expired shall constitute that use.
 
+[19/2004]
+
 (4) Rules shall include provision requiring the Registrar to notify the registered proprietor of a patent that a renewal fee has not been received from him in the Registry before the end of the prescribed period and before the framing of the notification.
+
+[UK Patents 1977, s. 25]
 
 [30/2001]
 
@@ -1256,6 +1312,8 @@ Provisions as to Patents after Grant
 
 (ii) the term of the patent has not previously been extended on this ground.
 
+[19/2004]
+
 (2) A delay by the Registrar in granting a patent shall not be treated as an unreasonable delay under subsection (1)(a) unless —
 
 (a) the interval between the date of filing of the application for the patent and the date of issue of the certificate of grant, excluding any period attributable to an act or omission of the applicant, exceeds 4 years; or
@@ -1268,7 +1326,9 @@ Provisions as to Patents after Grant
 
 and the date of issue of the certificate of grant, excluding any period attributable to an act or omission of the applicant, exceeds 2 years.
 
-(3) Where the proprietor of a patent has made an application under subsection (1)(a) and has satisfied the Registrar that there was in fact an unreasonable delay under subsection (1)(a), the Registrar shall extend the term of the patent —
+[19/2004]
+
+(3) Where the proprietor of a patent has made an application under subsection (1)(a) and has satisfied the Registrar that there was in fact an unreasonable delay under subsection (1) (a), the Registrar shall extend the term of the patent —
 
 (a) in a case to which subsection (2)(a) applies, by the period by which the interval referred to in subsection (2)(a) exceeds 4 years;
 
@@ -1282,13 +1342,19 @@ and the date of issue of the certificate of grant, excluding any period attribut
 
 whichever is the longer period.
 
+[19/2004]
+
 (4) Where the proprietor of a patent has made an application under subsection (1)(b) and has satisfied the Registrar of the matters referred to in sub-paragraphs (i) and (ii) of subsection (1)(b), the Registrar may, if the Registrar thinks fit, extend the term of the patent by such period, not exceeding 5 years, as the Registrar may determine.
+
+[19/2004]
 
 (5) A curtailment of the opportunity to exploit a patent, the subject of which includes a substance which is an active ingredient of any pharmaceutical product, caused by the process of obtaining marketing approval for a pharmaceutical product, being the first pharmaceutical product to obtain marketing approval which uses the substance as an active ingredient, shall not be treated as an unreasonable curtailment under subsection (1)(c) unless —
 
 (a) the marketing approval was obtained after the date of issue of the certificate of grant; and
 
 (b) the interval between the date the application for marketing approval was filed and the date marketing approval was obtained, excluding any period attributable to an act or omission of the applicant for marketing approval, exceeds 2 years.
+
+[19/2004]
 
 (6) Subject to subsections (7), (8) and (9), where the proprietor of a patent has made an application under subsection (1)(c) and has satisfied the Registrar that there was in fact an unreasonable curtailment of the opportunity to exploit the patent under subsection (1)(c), the Registrar shall extend the term of the patent by —
 
@@ -1300,6 +1366,8 @@ whichever is the longer period.
 
 whichever is the shortest period.
 
+[19/2004]
+
 (7) The Registrar shall not extend the term of the patent under subsection (6) unless the applicant has procured and submitted to the Registrar a certificate from the relevant authority stating —
 
 (a) the date the application for marketing approval was filed;
@@ -1308,9 +1376,15 @@ whichever is the shortest period.
 
 (c) for each period attributable to an act or omission of the applicant for marketing approval, the dates on which the period started and ended.
 
+[19/2004]
+
 (8) In determining the period by which to extend the term of the patent under subsection (6), the Registrar shall rely on, and shall not be concerned to inquire into the truth of, the statements contained in the certificate from the relevant authority under subsection (7).
 
+[19/2004]
+
 (9) Where the term of a patent has been extended under subsection (6), the protection conferred by the patent during the term of the extension shall apply only to the substance referred to in subsection (1)(c).
+
+[19/2004]
 
 (10) Every application to extend the term of a patent shall be —
 
@@ -1322,6 +1396,8 @@ whichever is the shortest period.
 
 and the Registrar may reject any application that fails to comply with any requirement under this subsection.
 
+[19/2004]
+
 (11) As soon as practicable after the Registrar has extended the term of a patent, he shall —
 
 (a) send to the proprietor of the patent a certificate of extension of patent term in the prescribed form specifying —
@@ -1332,7 +1408,11 @@ and the Registrar may reject any application that fails to comply with any requi
 
 (b) publish in the journal a notice of the extension.
 
+[19/2004]
+
 (12) The proprietor of a patent who has made an application under subsection (1) may withdraw the application by informing the Registrar in writing of the withdrawal of the application, and any such withdrawal shall not be revocable.
+
+[19/2004]
 
 (13) In subsection (2), “period attributable to an act or omission of the applicant” includes (without prejudice to the generality of the expression) any of the following periods which is applicable:
 
@@ -1374,9 +1454,9 @@ to the date on which the prescribed documents under section 30(2)(c) are filed a
 
 (k) the period taken by the applicant to rectify any failure to satisfy any condition under section 30(3), calculated from the date of the Registrar’s notification under section 30(6)(a) to the date on which every condition in section 30(3) is satisfied;
 
-(l) the period taken by the applicant to respond to a written opinion under section 31(1A)(a), calculated from the date of the Registrar’s notification under section 31(1) to the date on which the applicant responds to the written opinion;
+(l) the period taken by the applicant to respond to a written opinion under section 31(2)(a), calculated from the date of the Registrar’s notification under section 31(1) to the date on which the applicant responds to the written opinion;
 
-(m) the period taken by the applicant to amend the specification of his application under section 31(1A)(b), calculated from the date of the written opinion given under section 31(1) to the date on which the applicant amends the specification of his application;
+(m) the period taken by the applicant to amend the specification of his application under section 31(2)(b), calculated from the date of the written opinion given under section 31(1) to the date on which the applicant amends the specification of his application;
 
 (n) where the application is an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3), the period taken by the applicant to cause the application to enter the national phase in Singapore, calculated from the date of the filing of the application in accordance with the Patent Co-operation Treaty to the date on which the national phase of the application begins under section 86(3);
 
@@ -1390,6 +1470,8 @@ to the date on which the prescribed documents under section 30(2)(c) are filed a
 
 (q) any extension or alteration of any period to do any thing that is granted by the Registrar or the court at the request or on the application of the applicant.
 
+[19/2004]
+
 (14) In subsections (5) and (7), “period attributable to an act or omission of the applicant for marketing approval” includes (without prejudice to the generality of the expression) —
 
 (a) the period taken by the applicant for marketing approval to correct deficiencies in his application for marketing approval, calculated from the date of the relevant authority’s notification to the applicant for marketing approval of the deficiencies to the date on which the applicant for marketing approval corrects the deficiencies;
@@ -1398,7 +1480,7 @@ to the date on which the prescribed documents under section 30(2)(c) are filed a
 
 (c) any extension of any period to do any thing that is granted by the relevant authority at the request or on the application of the applicant for marketing approval.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
 ### Patent not to be impugned for lack of unity
 
@@ -1407,6 +1489,8 @@ to the date on which the prescribed documents under section 30(2)(c) are filed a
 (a) to more than one invention; or
 
 (b) to a group of inventions which are not so linked as to form a single inventive concept.
+
+[UK Patents 1977, s. 26]
 
 ### General power to amend specification after grant
 
@@ -1417,6 +1501,8 @@ to the date on which the prescribed documents under section 30(2)(c) are filed a
 (3) An amendment of a specification of a patent under this section shall have effect and be deemed always to have had effect from the grant of the patent.
 
 (4) A person may give notice to the Registrar of his opposition to an application under this section by the proprietor of a patent, and if he does so the Registrar shall notify the proprietor and consider the opposition in deciding whether to grant the application.
+
+[UK Patents 1977, s. 27]
 
 ### Search and examination after grant
 
@@ -1442,6 +1528,8 @@ to the date on which the prescribed documents under section 30(2)(c) are filed a
 
 (ii) the Examiner of the corresponding application or corresponding international application, as the case may be, did not consider all the relevant prior art before preparing his report on the examination of the corresponding application or corresponding international application, as the case may be.
 
+[19/2004]
+
 (2) The Registrar shall not grant a request under subsection (1) unless —
 
 (a) the request is filed in the prescribed manner;
@@ -1449,6 +1537,8 @@ to the date on which the prescribed documents under section 30(2)(c) are filed a
 (b) the prescribed fee for the search and examination report has been paid; and
 
 (c) in a case to which subsections (3) and (4) apply, subsection (4) has been complied with.
+
+[19/2004]
 
 (3) Subject to subsection (4), any person who files a request under subsection (1) may, at the time he files the request, also file —
 
@@ -1458,9 +1548,15 @@ to the date on which the prescribed documents under section 30(2)(c) are filed a
 
 (4) Where any document referred to in subsection (3)(b) is not in English, the person who files the request under subsection (1) shall also file an English translation of the document.
 
+[19/2004]
+
 (5) The Registrar shall not grant a request under subsection (1) if he is of the view that the request is frivolous, vexatious or an abuse of the process.
 
+[19/2004]
+
 (6) No request under subsection (1) shall be filed or granted where there are pending before the court or the Registrar proceedings in which the validity of the patent may be put in issue.
+
+[19/2004]
 
 (7) Where the Registrar grants a request under subsection (1), the Registrar shall cause the claim or claims to be subjected to —
 
@@ -1480,6 +1576,8 @@ to the date on which the prescribed documents under section 30(2)(c) are filed a
 
 taking into consideration all the relevant prior art, if any, that the Examiner is aware of or that has been discovered in the search.
 
+[19/2004]
+
 (8) If it appears to the Examiner during the examination of the specification of the patent that —
 
 (a) the conditions specified in sections 13 and 25(4) and (5) have not been complied with; or
@@ -1491,6 +1589,8 @@ taking into consideration all the relevant prior art, if any, that the Examiner 
 (ii) any matter extending beyond that disclosed in the application for the patent as filed,
 
 the Examiner shall give the proprietor of the patent a written opinion to that effect, and the proprietor of the patent shall, before the examination report is issued, have the right to respond in the prescribed manner to the written opinion within the prescribed period.
+
+[19/2004]
 
 (9) Upon receiving the search and examination report prepared by the Examiner, the Registrar shall —
 
@@ -1506,7 +1606,7 @@ the Examiner shall give the proprietor of the patent a written opinion to that e
 
 to the person who filed the request.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
 ### Restoration of lapsed patents
 
@@ -1552,6 +1652,10 @@ he has the right to continue to do the act or, as the case may be, to do the act
 
 (14) Subsections (8) to (13) shall apply in relation to the use of a patent in accordance with section 56 as they apply in relation to infringement of the patent.
 
+[UK Patents 1977, ss. 28 and 28A]
+
+[19/2004]
+
 ### Surrender of patents
 
 40\.—(1) The proprietor of a patent may at any time by notice given to the Registrar offer to surrender his patent.
@@ -1560,9 +1664,13 @@ he has the right to continue to do the act or, as the case may be, to do the act
 
 (3) If the Registrar is satisfied that the patent may properly be surrendered, he may accept the offer and, as from the date when notice of his acceptance is published in the journal, the patent shall cease to have effect, but no action for infringement shall lie in respect of any act done before that date and no right to compensation shall accrue for any use of the patented invention before that date in accordance with section 56.
 
+[UK Patents 1977, s. 29]
+
+[19/2004]
+
 ## PART VIII
 
-Property in Patents and Applications for Patents and Registration
+PROPERTY IN PATENTS AND APPLICATIONS FOR PATENTS AND REGISTRATION
 
 ### Nature of, and transactions in, patents and applications for patents
 
@@ -1589,6 +1697,8 @@ Property in Patents and Applications for Patents and Registration
 shall be void unless it is in writing and is signed by or on behalf of the parties to the transaction (or, in the case of an assent or other transaction by a personal representative, by or on behalf of the personal representative) or in the case of a body corporate is so signed or is under the seal of that body.
 
 (7) An assignment of a patent or any such application or a share in it, and an exclusive licence granted under any patent or any such application, may confer on the assignee or licensee the right of the assignor or licensor to bring proceedings by virtue of section 67 or 76 for a previous infringement or to bring the proceedings under section 58 for a previous act.
+
+[UK Patents 1977, s. 30]
 
 ### Register of patents
 
@@ -1626,6 +1736,8 @@ shall be void unless it is in writing and is signed by or on behalf of the parti
 
 (b) the right to a copy or extract conferred by subsection (6) or the rules is a right to a copy or extract in a form in which it can be taken away and in which it is visible and legible.
 
+[UK Patents 1977, s. 32]
+
 ### Effect of registration, etc., on rights in patents
 
 43\.—(1) Any person who claims to have acquired the property in a patent or application for a patent by virtue of any transaction, instrument or event to which this section applies shall be entitled as against any other person who claims to have acquired that property by virtue of an earlier transaction, instrument or event to which this section applies if, at the time of the later transaction, instrument or event —
@@ -1658,11 +1770,15 @@ and in either case the event by virtue of which the court or authority had power
 
 (4) Where an application for the registration of a transaction, instrument or event has been made, but the transaction, instrument or event has not been registered, then, for the purposes of subsection (1)(a), registration of the application shall be treated as registration of the transaction, instrument or event.
 
+[UK Patents 1977, s. 33]
+
 ### Rectification of register
 
 44\.—(1) The court may, on the application of any person aggrieved, order the register to be rectified by the making, or the variation or deletion, of any entry in it.
 
 (2) In proceedings under this section, the court may determine any question which may be necessary or expedient to decide in connection with the rectification of the register.
+
+[UK Patents 1977, s. 34]
 
 ### Evidence of register, documents, etc.
 
@@ -1681,6 +1797,8 @@ and in either case the event by virtue of which the court or authority had power
 which purports to be a certified copy or a certified extract shall be admitted in evidence without further proof and without production of the original.
 
 (4) In this section, “certified copy” and “certified extract” mean a copy and an extract certified by the Registrar and sealed with the seal of the Registry.
+
+[UK Patents 1977, s. 32]
 
 ### Co-ownership of patents and applications for patents
 
@@ -1705,6 +1823,8 @@ which purports to be a certified copy or a certified extract shall be admitted i
 (a) references to a patent and a patent being granted shall accordingly include references respectively to any such application and to the application being filed; and
 
 (b) the reference in subsection (5) to a patented product shall be construed accordingly.
+
+[UK Patents 1977, s. 36]
 
 ### Determination of right to patent after grant
 
@@ -1752,13 +1872,27 @@ and where such a new application is made, it shall be treated as having been fil
 
 (9) The court shall not in the exercise of any such declaratory jurisdiction determine a question whether a patent was granted to a person not entitled to be granted the patent if the proceedings in which the jurisdiction is invoked were commenced after the end of the period of 2 years beginning with the date of the grant of the patent, unless it is shown that any person registered as a proprietor of the patent knew at the time of the grant or, as the case may be, of the transfer of the patent to him that he was not entitled to the patent.
 
+[UK Patents 1977, s. 37]
+
 ### Effect of transfer of patent under section 47
 
 48\.—(1) Where an order is made under section 47 that a patent shall be transferred from any person or persons (the old proprietor or proprietors) to one or more persons (whether or not including an old proprietor) then, except in a case falling within subsection (2), any licences or other rights granted or created by the old proprietor or proprietors shall, subject to section 43 and to the provisions of the order, continue in force and be treated as granted by the person or persons to whom the patent is ordered to be transferred (the new proprietor or proprietors).
 
 (2) Where an order is so made that a patent shall be transferred from the old proprietor or proprietors to one or more persons none of whom was an old proprietor (on the ground that the patent was granted to a person not entitled to be granted the patent), any licences or other rights in or under the patent shall, subject to the provisions of the order and subsection (3), lapse on the registration of that person or those persons as the new proprietor or proprietors of the patent.
 
-(3) Where an order is so made that a patent shall be transferred as mentioned in subsection (2) or that a person other than an old proprietor may make a new application for a patent and before the reference of the question under that section resulting in the making of any such order is registered, the old proprietor or proprietors or a licensee of the patent, acting in good faith, worked the invention in question in Singapore or made effective and serious preparations to do so, the old proprietor or proprietors or the licensee shall, on making a request to the new proprietor or proprietors within the prescribed period, be entitled to be granted a licence (but not an exclusive licence) to continue working or, as the case may be, to work the invention, so far as it is the subject of the new application.
+(3) Where an order is so made that —
+
+(a) a patent shall be transferred as mentioned in subsection (2); or
+
+(b) a person other than an old proprietor may make a new application for a patent,
+
+and before the reference of the question under that section resulting in the making of any such order is registered, the old proprietor or proprietors or a licensee of the patent, acting in good faith —
+
+(i) worked the invention in question in Singapore; or
+
+(ii) made effective and serious preparations to do so,
+
+the old proprietor or proprietors or the licensee shall, on making a request to the new proprietor or proprietors within the prescribed period, be entitled to be granted a licence (but not an exclusive licence) to continue working or, as the case may be, to work the invention, so far as it is the subject of the new application.
 
 (4) Any such licence shall be granted for a reasonable period and on reasonable terms.
 
@@ -1766,9 +1900,11 @@ and where such a new application is made, it shall be treated as having been fil
 
 (6) The Registrar shall determine the question referred to in subsection (5) and may, if he considers it appropriate, order the grant of such a licence.
 
+[UK Patents 1977, s. 38]
+
 ## PART IX
 
-Employees’ Inventions
+EMPLOYEES’ INVENTIONS
 
 ### Right to employees’ inventions
 
@@ -1790,6 +1926,8 @@ shall be taken to infringe any copyright or design right to which, as between hi
 
 (4) In subsection (3), the reference to application for a patent includes an application for other protection for an invention, and includes an application for a patent or any other protection under the law of a country other than Singapore or under any treaty to which Singapore is a party.
 
+[UK Patents 1977, s. 39]
+
 ### Supplementary provisions
 
 50\.—(1) This Part shall not apply to an invention made by an employee unless at the time he made the invention one of the following conditions was satisfied in his case:
@@ -1804,9 +1942,11 @@ shall be taken to infringe any copyright or design right to which, as between hi
 
 (4) Nothing in this Part shall be construed as precluding the operation of an agreement or a contract in relation to the right to an invention.
 
+[UK Patents 1977, s. 43]
+
 ## PART X
 
-Contracts as to Patented Products
+CONTRACTS AS TO PATENTED PRODUCTS
 
 ### Avoidance of certain restrictive conditions
 
@@ -1830,6 +1970,8 @@ Contracts as to Patented Products
 
 (5) A condition or term of a contract or licence shall not be void by virtue of this section by reason only that it prohibits any person from selling goods other than those supplied by a specific person or, in the case of a contract for the hiring of or licence to use a patented product, that it reserves to the bailor or licensor, or his nominee, the right to supply such new parts of the patented product as may be required to put or keep it in repair.
 
+[UK Patents 1977, s. 44]
+
 ### Determination of parts of certain contracts
 
 52\.—(1) Any contract for the supply of a patented product or licence to work a patented invention, or contract relating to any such supply or licence, may at any time after the patent or all the patents by which the product or invention was protected at the time of the making of the contract or granting of the licence has or have ceased to be in force, and notwithstanding anything to the contrary in the contract or licence or in any other contract, be determined, to the extent (and only to the extent) that the contract or licence relates to the product or invention, by either party on giving 3 months’ notice in writing to the other party.
@@ -1842,9 +1984,11 @@ Contracts as to Patented Products
 
 (5) This section shall be without prejudice to any rule of law relating to the frustration of contracts and any right of determining a contract or licence exercisable apart from this section.
 
+[UK Patents 1977, s. 45]
+
 ## PART XI
 
-Licences of Right and Compulsory Licences
+LICENCES OF RIGHT AND COMPULSORY LICENCES
 
 ### Licences of right
 
@@ -1870,6 +2014,8 @@ Licences of Right and Compulsory Licences
 
 (7) A proprietor so added as defendant shall not be liable for any costs or expenses unless he enters an appearance and takes part in the proceedings.
 
+[UK Patents 1977, s. 46]
+
 ### Cancellation of entry made under section 53
 
 54\.—(1) At any time after an entry has been made under section 53 in respect of a patent, the proprietor of the patent may apply to the Registrar for cancellation of the entry.
@@ -1894,11 +2040,13 @@ may, within the prescribed period, give notice to the Registrar of opposition to
 
 (8) The Registrar shall, in considering the application made under this section, determine whether the opposition is justified.
 
+[UK Patents 1977, s. 47]
+
 ### Compulsory licences
 
 55\.—(1) Any interested person may apply to the court for the grant of a licence under a patent on the ground that the grant of the licence is necessary to remedy an anti-competitive practice.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
 (2) Without prejudice to the generality of subsection (1), the court may determine that the grant of a licence is necessary to remedy an anti-competitive practice if —
 
@@ -1912,11 +2060,11 @@ may, within the prescribed period, give notice to the Registrar of opposition to
 
 (c) the court is of the view that the proprietor of the patent has no valid reason for failing to supply that market with the patented invention, whether directly or through a licensee, on reasonable terms.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
 (3) Subject to this section, if the court is satisfied that the ground referred to in subsection (1) is established, the court may make an order for the grant of a licence in accordance with the application upon such terms as the court thinks fit.
 
-[40/95]
+[40/95; 19/2004]
 
 (4) A licence granted under this section —
 
@@ -1924,19 +2072,21 @@ may, within the prescribed period, give notice to the Registrar of opposition to
 
 (b) shall not be assigned otherwise than in connection with the goodwill of the business in which the patented invention is used.
 
+[40/95; 19/2004]
+
 (5) Any licence granted under this section may, on the application of any interested party, be terminated by the court where the court is satisfied that the ground upon which the licence was granted has ceased to exist and is unlikely to recur.
 
-[40/95]
+[40/95; 19/2004]
 
 (6) Where a licence is granted under this section to any person, the person shall pay such remuneration to the patentee as may be agreed, or as may be determined by a method agreed between the person and the patentee or, in default of agreement, as is determined by the court on the application of the person or the patentee.
 
 [40/95]
 
-(10) The powers of the court on an application under this section shall be exercised with a view to securing that the inventor or other person beneficially entitled to a patent shall receive reasonable remuneration having regard to the economic value of the licence.
+(7) The powers of the court on an application under this section shall be exercised with a view to securing that the inventor or other person beneficially entitled to a patent shall receive reasonable remuneration having regard to the economic value of the licence.
 
 [40/95]
 
-(11) No order shall be made in pursuance of any application under this section which would be at variance with any treaty or international convention relating to patents to which Singapore is a party.
+(8) No order shall be made in pursuance of any application under this section which would be at variance with any treaty or international convention relating to patents to which Singapore is a party.
 
 [40/95]
 
@@ -1954,33 +2104,29 @@ USE OF PATENTED INVENTIONS FOR SERVICES OF GOVERNMENT
 
 and anything done by virtue of this section shall not amount to an infringement of the patent.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
 (2) For the purposes of this section and section 57 —
 
-(a) any use of an invention for the supply to the government of any country outside Singapore, in pursuance of any agreement or arrangement between the Government of Singapore and the government of that country, of articles required for the defence of that country shall be deemed to be a use of the invention for a public non-commercial purpose; and;
+(a) any use of an invention for the supply to the government of any country outside Singapore, in pursuance of any agreement or arrangement between the Government of Singapore and the government of that country, of articles required for the defence of that country shall be deemed to be a use of the invention for a public non-commercial purpose; and
 
-(c) the power of the Government or any party authorised by the Government to do anything in accordance with this section shall not, in the case of a patent relating to an integrated circuit, extend to sale of the invention to the public.
+(b) the power of the Government or any party authorised by the Government to do anything in accordance with this section shall not, in the case of a patent relating to an integrated circuit, extend to sale of the invention to the public.
 
-[40/95]
+[40/95; 19/2004]
 
 (3) The purchaser of any article sold in the exercise of the powers conferred by this section, and any person claiming through the purchaser, shall have power to deal with it in the same manner as if the patent were held on behalf of the Government.
-
-[61
 
 [40/95]
 
 (4) In this section, “integrated circuit” means a product, in its final or an intermediate form, in which the elements, at least one of which is an active element, and some or all of the interconnections are integrally formed in and on, or in or on, a piece of material and which is intended to perform an electronic function.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
 ### Rights of third parties in respect of Government use
 
 57\.—(1) In relation to —
 
 (a) anything done in accordance with section 56 by the Government or any party authorised in writing by the Government; or
-
-[19/2004 wef 01/07/2004]
 
 (b) anything done to the order of the Government —
 
@@ -1990,29 +2136,23 @@ and anything done by virtue of this section shall not amount to an infringement 
 
 by the proprietor of a patent in respect of the patented invention or by the proprietor of an application for a patent in respect of the invention for which the application has been filed and is still pending,
 
-[19/2004 wef 01/07/2004]
-
 the provisions of any licence, assignment or agreement to which this subsection applies shall, subject to sections 60, 61 and 62, be of no effect so far as those provisions restrict or regulate the working of the invention, or the use of any model, document or information relating to it, or provide for the making of payments in respect of, or calculated by reference to, such working or use.
 
-[40/95]
+[40/95; 19/2004]
 
 (2) The reproduction or publication of any model or document in connection with the said working or use shall not be deemed to be an infringement of any copyright or design right subsisting in the model or document.
-
-[63
 
 [40/95]
 
 (3) Subsection (1) shall apply to any licence, assignment or agreement which is made, whether before or after 23rd February 1995, between (on the one hand) any person who is a proprietor of or an applicant for the patent, or anyone who derives title from any such person or from whom such person derives title, and (on the other hand) any person other than the Government.
 
-[S 622/2002 wef 09/12/2002]
-
-[19/2004 wef 01/07/2004]
+[19/2004]
 
 ### References of disputes as to Government use
 
 58\.—(1) Any dispute as to the exercise by the Government or a party authorised by the Government of the powers conferred by, or as to the terms for doing anything in accordance with, section 56 may be referred to the court by either party to the dispute after a patent has been granted for the invention.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
 (2) In determining any dispute referred to the court under this section, the court shall have regard to —
 
@@ -2020,9 +2160,11 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 (b) the need to ensure that the patentee shall receive reasonable remuneration having regard to the economic value of the patented invention.
 
-[40/95]
+[40/95; 19/2004]
 
 (3) If the validity of a patent is put in issue in proceedings under this section and it is found that the patent is only partially valid, the court may, subject to subsection (4), grant relief to the proprietor of the patent in respect of that part of the patent which is found to be valid and to have been used in accordance with section 56.
+
+[19/2004]
 
 (4) Where in any such proceedings it is found that a patent is only partially valid, the court shall not grant relief by way of costs or expenses except where the proprietor of the patent proves that the specification of the patent was framed in good faith and with reasonable skill and knowledge, and in that event the court may grant relief in respect of that part of the patent which is valid and has been so used, subject to the discretion of the court as to costs and expenses.
 
@@ -2032,9 +2174,7 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 (7) One of the 2 or more joint proprietors of a patent or an application for a patent may, without the concurrence of the others, refer a dispute to the court under this section, but shall not do so unless the others are made parties to the proceedings; but any of the others if made a defendant shall not be liable for any costs or expenses unless he enters an appearance and takes part in the proceedings.
 
-[64
-
-59\. [Deleted by Act 19/2004 wef 01/04/2004]
+59\. [Repealed by Act 19/2004]
 
 ### Nature and scope of rights under section 56
 
@@ -2046,7 +2186,7 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 (c) is, notwithstanding subsection (2)(a) of section 56, limited to the supply of the patented invention predominantly in Singapore by the Government or a party authorised by the Government under that section.
 
-[40/95]
+[40/95; 19/2004]
 
 (2) The right to use a patented invention under section 56 may, on the application of any interested party, be terminated by the court, where the court is satisfied that the circumstances that gave rise to the right to use the patented invention have ceased to exist and are unlikely to recur.
 
@@ -2056,15 +2196,15 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 61\.—(1) Where any thing set out in section 66(1) is done in relation to a patented invention by the Government or a party authorised in writing by the Government for a public non-commercial purpose, the Government department that did or authorised the doing of the thing shall inform the patentee promptly of the doing of the thing.
 
+[19/2004]
+
 (2) Where any thing set out in section 66(1) is done in relation to a patented invention by the Government or a party authorised in writing by the Government for or during a national emergency or other circumstances of extreme urgency, the Government department that did or authorised the doing of the thing shall, as soon as reasonably practicable, inform the patentee of the doing of the thing.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
 ### Patentee entitled to remuneration
 
 62\. Where an act is done under section 56, the Government shall pay such remuneration to the patentee as may be agreed, or as may be determined by a method agreed, between the Government and the patentee having regard to the economic value of the patented invention or as may, in default of agreement, be determined by the court under section 58.
-
-[65C
 
 [40/95]
 
@@ -2076,7 +2216,7 @@ the provisions of any licence, assignment or agreement to which this subsection 
 
 ## PART XIII
 
-Infringement of Patents
+INFRINGEMENT OF PATENTS
 
 ### Meaning of infringement
 
@@ -2102,7 +2242,7 @@ Infringement of Patents
 
 (f) it consists of the use of an exempted aircraft which has lawfully entered or is lawfully crossing Singapore as mentioned in paragraph (d) or of the importation into Singapore, or the use or storage, of any part or accessory for that aircraft;
 
-(g) subject to subsection (2A), it consists of the import, use or disposal of, or the offer to dispose of, any patented product or any product obtained by means of a patented process or to which a patented process has been applied, which is produced by or with the consent (conditional or otherwise) of the proprietor of the patent or any person licensed by him, and for this purpose “patent” includes a patent granted in any country outside Singapore in respect of the same or substantially the same invention as that for which a patent is granted under this Act and “patented product”, “patented process” and “licensed” shall be construed accordingly;
+(g) subject to subsection (3), it consists of the import, use or disposal of, or the offer to dispose of, any patented product or any product obtained by means of a patented process or to which a patented process has been applied, which is produced by or with the consent (conditional or otherwise) of the proprietor of the patent or any person licensed by him, and for this purpose “patent” includes a patent granted in any country outside Singapore in respect of the same or substantially the same invention as that for which a patent is granted under this Act and “patented product”, “patented process” and “licensed” shall be construed accordingly;
 
 (h) it consists of the doing of any thing set out in subsection (1) in relation to the subject-matter of the patent to support any application for marketing approval for a pharmaceutical product, provided that any thing produced to support the application is not —
 
@@ -2112,8 +2252,6 @@ Infringement of Patents
 
 other than for purposes related to meeting the requirements for marketing approval for that pharmaceutical product; or
 
-[19/2004 wef 01/07/2004]
-
 (i) it consists of the import, disposal or offer to dispose of a patented pharmaceutical product for use by or on a specific patient in Singapore, or the use of that product by or on that patient, where —
 
 (i) that product is required for use by or on that patient;
@@ -2122,9 +2260,9 @@ other than for purposes related to meeting the requirements for marketing approv
 
 (iii) that product was produced by or with the consent (conditional or otherwise) of the proprietor of the patent or any person licensed by him (and for this purpose “patent” includes a patent granted in any country outside Singapore in respect of the same or substantially the same product and “licensed” shall be construed accordingly).
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
-(2A) Subsection (2)(g) shall not apply to the import of any patented pharmaceutical product by any person (referred to in this subsection and subsection (2B) as the importer) if —
+(3) Subsection (2)(g) shall not apply to the import of any patented pharmaceutical product by any person (referred to in this subsection and subsection (4) as the importer) if —
 
 (a) the product has not previously been sold or distributed in Singapore by or with the consent (conditional or otherwise) of the proprietor of the patent or any person licensed by the proprietor of the patent to sell or distribute the product in Singapore;
 
@@ -2136,21 +2274,23 @@ other than for purposes related to meeting the requirements for marketing approv
 
 (c) the importer has actual or constructive knowledge of the matters referred to in paragraph (b).
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
-(2B) For the purposes of subsection (2A), where the importer has received a written notice containing the prescribed particulars, he shall be deemed to have constructive knowledge of the matters referred to in subsection (2A)(b).
+(4) For the purposes of subsection (3), where the importer has received a written notice containing the prescribed particulars, he shall be deemed to have constructive knowledge of the matters referred to in subsection (3)(b).
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
-(2C) For the avoidance of doubt, in subsection (2A), “patent” does not include a patent granted in any country outside Singapore in respect of the same or substantially the same product and “licensed” shall be construed accordingly.
+(5) For the avoidance of doubt, in subsection (3), “patent” does not include a patent granted in any country outside Singapore in respect of the same or substantially the same product and “licensed” shall be construed accordingly.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
-(3) In this section —
+(6) In this section —
 
 (a) “relevant ship” and “relevant aircraft, hovercraft or vehicle” mean, respectively, a ship and an aircraft, a hovercraft or vehicle registered in, or belonging to, any country, other than Singapore, which is a party to the Paris Convention or a member of the World Trade Organisation; and
 
 (b) “exempted aircraft” means an aircraft to which section 5 of the Air Navigation Act (Cap. 6) applies.
+
+[UK Patents 1977, s. 60]
 
 [30/2001]
 
@@ -2186,7 +2326,7 @@ other than for purposes related to meeting the requirements for marketing approv
 
 (6) Subject to this Part, in determining whether or not to grant any kind of relief claimed under this section and the extent of the relief granted, the court or the Registrar shall apply the principles applied by the court in relation to that kind of relief immediately before 23rd February 1995.
 
-[S 622/2002 wef 09/12/2002]
+[UK Patents 1977, s. 61]
 
 ### Reversal of burden of proof
 
@@ -2194,9 +2334,13 @@ other than for purposes related to meeting the requirements for marketing approv
 
 (2) In considering whether a party has discharged the burden imposed upon him by this section, the court shall not require him to disclose any manufacturing or commercial secret if it appears to the court that it would be unreasonable to do so.
 
+[UK Patents 1977, s. 100]
+
 ### Restrictions on relief for infringement
 
 69\.—(1) In proceedings for infringement of a patent, damages shall not be awarded and no order shall be made for an account of profits against a defendant who proves that at the date of the infringement he was not aware, and had no reasonable grounds for supposing, that the patent existed.
+
+[19/2004]
 
 (2) A person shall not be taken to have been aware or to have had reasonable grounds for supposing by reason only of the application to a product of the word “patent” or “patented”, or any word or words expressing or implying that a patent has been obtained for the product, unless the number of the patent accompanied the word or words.
 
@@ -2216,9 +2360,13 @@ other than for purposes related to meeting the requirements for marketing approv
 
 (ii) which has been examined to determine whether the claim appears to satisfy the criteria of novelty, inventive step (or non-obviousness) and industrial applicability (or utility).
 
-[S 622/2002 wef 09/12/2002]
+[19/2004]
 
 (4) Where an amendment of the specification of a patent has been allowed under any of the provisions of this Act, the court or the Registrar shall not, in proceedings for an infringement of the patent committed before the decision to allow the amendment, award any damages, make an order for an account of profits or grant any other relief (including, in proceedings before the court, an injunction) unless the court or the Registrar is satisfied that the specification of the patent as published was framed in good faith and with reasonable skill and knowledge.
+
+[UK Patents 1977, s. 62]
+
+[19/2004]
 
 ### Relief for infringement of partially valid patent
 
@@ -2227,6 +2375,8 @@ other than for purposes related to meeting the requirements for marketing approv
 (2) Where in any such proceedings it is found that a patent is only partially valid, the court or the Registrar shall not grant relief by way of damages, costs or expenses, except where the plaintiff proves that the specification for the patent was framed in good faith and with reasonable skill and knowledge, and in that event the court or the Registrar may grant relief in respect of that part of the patent which is valid and infringed, subject to the discretion of the court or the Registrar as to costs or expenses and as to the date from which damages should be reckoned.
 
 (3) As a condition of relief under this section, the court or the Registrar may direct that the specification of the patent shall be amended to its or his satisfaction upon an application made for that purpose under section 83, and an application may be so made accordingly, whether or not all other issues in the proceedings have been determined.
+
+[UK Patents 1977, s. 63]
 
 ### Right to continue use begun before priority date
 
@@ -2248,11 +2398,15 @@ has the right to continue to do the act or, as the case may be, to do the act, n
 
 (4) Where a product is disposed of to another in exercise of the rights conferred by subsection (1) or (3), that other and any person claiming through him may deal with the product in the same way as if it had been disposed of by the registered proprietor of the patent.
 
+[UK Patents 1977, s. 64]
+
 ### Certificate of contested validity of patent
 
 72\.—(1) Where in any proceedings before the court or the Registrar the validity of a patent to any extent is contested and that patent is found by the court or the Registrar to be wholly or partially valid, the court or the Registrar may certify the finding and the fact that the validity of the patent was so contested.
 
 (2) Where a certificate is granted under this section, then, if in any subsequent proceedings before the court or the Registrar for infringement of the patent or for revocation of the patent, a final order or judgment is made or given in favour of the party relying on the validity of the patent as found in the earlier proceedings, that party shall, unless the court or the Registrar otherwise directs, be entitled to his costs or expenses as between solicitor and own client other than the costs or expenses of any appeal in the subsequent proceedings.
+
+[UK Patents 1977, s. 65]
 
 ### Proceedings for infringement by co-owner
 
@@ -2264,13 +2418,21 @@ has the right to continue to do the act or, as the case may be, to do the act, n
 
 (2) One of 2 or more joint proprietors of a patent may without the concurrence of the others bring proceedings in respect of an act alleged to infringe the patent, but shall not do so unless the others are made parties to the proceedings; but any of the others if made a defendant shall not be liable for any costs or expenses unless he enters an appearance and takes part in the proceedings.
 
+[UK Patents 1977, s. 66]
+
 ### Proceedings for infringement by exclusive licensee
 
 74\.—(1) The holder of an exclusive licence under a patent shall have the same right as the proprietor of the patent to bring proceedings in respect of any infringement of the patent committed after the date of the licence; and references to the proprietor of the patent in this Act relating to infringement shall be construed accordingly.
 
+[19/2004]
+
 (2) In awarding damages or granting any other relief in any such proceedings, the court or the Registrar shall take into consideration any loss suffered or likely to be suffered by the exclusive licensee as such as a result of the infringement, or, as the case may be, the profits derived from the infringement, so far as it constitutes an infringement of the rights of the exclusive licensee as such.
 
 (3) In any proceedings taken by an exclusive licensee by virtue of this section, the proprietor of the patent need not be made a party to the proceedings, but if made a defendant shall not be liable for any costs or expenses unless he enters an appearance and takes part in the proceedings.
+
+[UK Patents 1977, s. 67]
+
+[19/2004]
 
 ### Effect of non-registration on infringement proceedings
 
@@ -2279,6 +2441,8 @@ has the right to continue to do the act or, as the case may be, to do the act, n
 (a) the transaction, instrument or event is registered within the period of 6 months beginning with its date; or
 
 (b) the court or the Registrar is satisfied that it was not practicable to register the transaction, instrument or event before the end of that period and that it was registered as soon as practicable thereafter.
+
+[UK Patents 1977, s. 68]
 
 ### Infringement of rights conferred by publication of application
 
@@ -2293,6 +2457,8 @@ has the right to continue to do the act or, as the case may be, to do the act, n
 (b) if the act would, if the patent had been granted on the date of the publication of the application, have infringed not only the patent, but also the claims (as interpreted by the description and any drawings referred to in the description or claims) in the form in which they were contained in the application immediately before the preparations for its publication were completed by the Registry.
 
 (4) Section 69(3) and (4) shall not apply to an infringement of the rights conferred by this section but in considering the amount of any damages for such an infringement, the court or the Registrar shall consider whether or not it would have been reasonable to expect, from a consideration of the application as published under section 27, that a patent would be granted conferring on the proprietor of the patent protection from an act of the same description as that found to infringe those rights, and if the court or the Registrar finds that it would not have been reasonable, it or he shall reduce the damages to such an amount as it or he thinks just.
+
+[UK Patents 1977, s. 69]
 
 ### Remedy for groundless threats of infringement proceedings
 
@@ -2318,6 +2484,8 @@ has the right to continue to do the act or, as the case may be, to do the act, n
 
 (6) Nothing in this section shall render an advocate and solicitor or any other person liable to an action under this section in respect of an act done by the advocate and solicitor or the other person in his professional capacity on behalf of a client.
 
+[UK Patents 1977, s. 70]
+
 ### Declaration as to non-infringement
 
 78\.—(1) Without prejudice to the jurisdiction of the court to make a declaration apart from this section, a declaration that an act does not, or a proposed act would not, constitute an infringement of a patent may be made by the court or the Registrar in proceedings between the person doing or proposing to do the act and the proprietor of the patent, notwithstanding that no assertion to the contrary has been made by the proprietor, if it is shown —
@@ -2328,11 +2496,13 @@ has the right to continue to do the act or, as the case may be, to do the act, n
 
 (2) A declaration made by the Registrar under this section shall have the same effect as a declaration made by the court.
 
+[UK Patents 1977, s. 71]
+
 ## PART XIV
 
-Revocation of Patents and Validity Proceedings
+REVOCATION OF PATENTS AND VALIDITY PROCEEDINGS
 
-79\. [Deleted by Act 19/2004 wef 01/07/2004]
+79\. [Repealed by Act 19/2004]
 
 ### Power to revoke patents on application
 
@@ -2358,8 +2528,6 @@ Revocation of Patents and Validity Proceedings
 
 as the case may be, from which the filing date and the right of priority has been derived, as filed;
 
-[19/2004 wef 01/07/2004]
-
 (e) an amendment or a correction has been made to the specification of —
 
 (i) the patent; or
@@ -2367,8 +2535,6 @@ as the case may be, from which the filing date and the right of priority has bee
 (ii) the application for the patent,
 
 which should not have been allowed;
-
-[19/2004 wef 01/07/2004]
 
 (f) the patent was obtained —
 
@@ -2378,13 +2544,11 @@ which should not have been allowed;
 
 (iii) on any non-disclosure or inaccurate disclosure of any prescribed material information, whether or not the person under a duty to provide the information knew or ought reasonably to have known of such information or the inaccuracy;
 
-[19/2004 wef 01/07/2004]
-
 (g) the patent is one of 2 or more patents for the same invention having the same priority date and filed by the same party or his successor in title.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
-(2) On the application of any person for an order to revoke a patent on any of the grounds specified in subsection (1)(a), (c), (d) and (e), the Registrar may, subject to subsections (3) and (4), cause the patent to be re-examined by an Examiner so as to determine whether the patent should be revoked on any of those grounds and require the applicant to pay the prescribed re-examination fee.
+(2) On the application of any person for an order to revoke a patent on any of the grounds specified in subsection (1)(a), (c), (d) and (e), the Registrar may, subject to subsection (3), cause the patent to be re-examined by an Examiner so as to determine whether the patent should be revoked on any of those grounds and require the applicant to pay the prescribed re-examination fee.
 
 (3) The Registrar shall not cause a patent to be re-examined under subsection (2) where, within the prescribed period, the applicant for the revocation of the patent fails to give such security for the costs or expenses of the proceedings as the Registrar may specify; in which case, the application for revocation shall be treated as having been abandoned.
 
@@ -2414,9 +2578,13 @@ which should not have been allowed;
 
 (10) Section 92 shall not apply in relation to the decision of the Registrar to cause a patent to be re-examined under this section.
 
+[UK Patents 1977, s. 72]
+
 ### Registrar’s power to revoke patents
 
 81\. If it appears to the Registrar that an invention for which a patent has been granted formed part of the state of the art by virtue only of section 14(3), he may on his own initiative by order revoke the patent, but shall not do so without giving the proprietor of the patent an opportunity of making any observation and of amending the specification of the patent so as to exclude any matter which formed part of the state of the art as aforesaid without contravening section 84.
+
+[UK Patents 1977, s. 73]
 
 ### Proceedings in which validity of patent may be put in issue
 
@@ -2450,9 +2618,11 @@ which should not have been allowed;
 
 (8) It is hereby declared that for the purposes of this Act the validity of a patent is not put in issue merely because the Registrar is considering its validity in order to decide whether to revoke it under section 81.
 
+[UK Patents 1977, s. 74]
+
 ## PART XV
 
-Amendments of Patents and Applications
+AMENDMENTS OF PATENTS AND APPLICATIONS
 
 ### Amendment of patent in infringement or revocation proceedings
 
@@ -2463,6 +2633,8 @@ Amendments of Patents and Applications
 (3) An amendment of a specification of a patent under this section shall have effect and be deemed always to have had effect from the grant of the patent.
 
 (4) Where an application for an order under this section is made to the court, the applicant shall notify the Registrar, who shall be entitled to appear and be heard and shall appear if so directed by the court.
+
+[UK Patents 1977, s. 75]
 
 ### Amendments of applications and patents not to include added matter
 
@@ -2482,9 +2654,11 @@ may be filed under section 20(3) or 47(4) or section 116(6) of the Patents Act (
 
 (b) extends the protection conferred by the patent.
 
+[UK Patents 1977, s. 76]
+
 ## PART XVI
 
-International Applications for Patents
+INTERNATIONAL APPLICATIONS FOR PATENTS
 
 ### Effect of filing international application for patent
 
@@ -2506,9 +2680,11 @@ International Applications for Patents
 
 (6) The prescribed transmittal fee, in addition to the fees prescribed by the Patent Co-operation Treaty, shall be paid to the Registry by any person filing an international application under that Treaty.
 
+[UK Patents 1977, s. 89]
+
 ### International and national phases of application
 
-86\.—(1) The provisions of the Patent Co-operation Treaty relating to publication, search, examination and amendment, and not those of this Act, apply to an international application for a patent (Singapore) during the international phase of the application.
+86\.—(1) The provisions of the Patent Co-operation Treaty relating to publication, search, examination and amendment, and not those of this Act, shall apply to an international application for a patent (Singapore) during the international phase of the application.
 
 (2) The international phase of the application means the period from the filing of the application in accordance with the Patent Co-operation Treaty until the national phase of the application begins.
 
@@ -2540,6 +2716,8 @@ otherwise the amendment shall be disregarded.
 
 (7) The Registrar shall on payment of the prescribed fee publish any translation filed at the Registry under subsection (3) or (6).
 
+[UK Patents 1977, s. 89A]
+
 ### Adaptation of provisions in relation to international application
 
 87\.—(1) Where an international application for a patent (Singapore) is accorded a filing date under the Patent Co-operation Treaty —
@@ -2562,13 +2740,17 @@ otherwise the amendment shall be disregarded.
 
 (ii) on the service by the applicant of a translation into English of the specification of the application on the Government department concerned or, as the case may be, on the person committing the infringing act.
 
+[19/2004]
+
 (4) The reference in subsection (3)(b)(ii) to the service of a translation on a Government department or other person is to its being sent by post or delivered to that department or person.
 
 (5) During the international phase of the application, section 20 does not apply (determination of questions of entitlement in relation to application under this Act); but after the end of the international phase section 20 shall apply.
 
+[UK Patents 1977, s. 89B]
+
 ### Evidence of Patent Co-operation Treaty and its instruments
 
-88\.—(1) Judicial notice shall be taken of the Patent Co-operation Treaty and any gazette, bulletin or journal published under the Treaty.
+88\.—(1) Judicial notice shall be taken of the Patent Co-operation Treaty and any Gazette, bulletin or journal published under the Treaty.
 
 (2) Any such document mentioned in subsection (1) shall be admissible as evidence of any instrument or other act thereby communicated of any institution having functions under the Treaty.
 
@@ -2582,21 +2764,21 @@ otherwise the amendment shall be disregarded.
 
 (b) where the instrument is in the custody of a Government department, by production of a copy certified on behalf of the department to be a true copy by an officer of the department generally or specially authorised to do so.
 
-(6) Any document purporting to be such a copy as is mentioned in subsection 5(b) of an instrument in the custody of a Government department shall be received in evidence without proof of the official position or handwriting of the person signing the certificate, or of his authority to do so, or of the document being in the custody of the department.
+(6) Any document purporting to be such a copy as is mentioned in subsection (5)(b) of an instrument in the custody of a Government department shall be received in evidence without proof of the official position or handwriting of the person signing the certificate, or of his authority to do so, or of the document being in the custody of the department.
 
 (7) In this section, “legal proceedings” includes proceedings before the Registrar.
 
+[UK Patents 1977, s. 91]
+
 ## PART XVII
 
-Legal Proceedings
+LEGAL PROCEEDINGS
 
 ### Proceedings before court or Registrar
 
 89\.—(1) Any proceedings before the court relating to patents and other matters under this Act shall be dealt with by a judge sitting alone or, if he thinks fit, with one or more scientific advisers selected by the judge from the panel appointed under subsection (2).
 
 (2) Rules under this Act may make provision for the appointment of a panel of scientific advisers to assist the court and the Registrar in proceedings under this Act, for regulating the functions of such advisers and for remunerating such advisers.
-
-[90
 
 ### Appeals from Registrar
 
@@ -2620,7 +2802,7 @@ Legal Proceedings
 
 but an appeal shall only lie to the Court of Appeal under this section if leave to appeal is given by the court or the Court of Appeal.
 
-[91
+[UK Patents 1977, s. 97]
 
 ### General powers of court
 
@@ -2628,13 +2810,13 @@ but an appeal shall only lie to the Court of Appeal under this section if leave 
 
 (2) In all proceedings before the court under this Act, the costs of the Registrar shall be in the discretion of the court, but the Registrar shall not be ordered to pay the costs of any other of the parties.
 
-[92
+[UK Patents 1977, s. 99]
 
 ### Exercise of Registrar’s discretionary powers
 
 92\. Without prejudice to any rule of law, the Registrar shall give any party to a proceeding before him an opportunity of being heard before exercising adversely to that party any discretion vested in the Registrar by this Act or the rules.
 
-[93
+[UK Patents 1977, s. 101]
 
 ### Right of audience in patent proceedings
 
@@ -2648,7 +2830,7 @@ but an appeal shall only lie to the Court of Appeal under this section if leave 
 
 (3) Without prejudice to the right of counsel to appear before the court, an advocate and solicitor who is not in actual practice shall, notwithstanding anything in the Legal Profession Act (Cap. 161), have the right to appear and be heard on behalf of any party to an appeal under this Act from the Registrar to the court.
 
-[94
+[UK Patents 1977, s. 102]
 
 [30/2001]
 
@@ -2658,7 +2840,7 @@ but an appeal shall only lie to the Court of Appeal under this section if leave 
 
 (2) In this section, “legal proceedings” includes proceedings before the Registrar; and references to “legal proceedings” and “pending or contemplated proceedings” include references to applications for a patent and to international applications for a patent.
 
-[95
+[UK Patents 1977, s. 103]
 
 ### Privilege for communications with patent agents
 
@@ -2672,7 +2854,7 @@ is privileged from disclosure in legal proceedings in Singapore in the same way 
 
 (2) In this section, “legal proceedings” includes proceedings before the Registrar.
 
-[96
+[UK Patents 1977, s. 280]
 
 ### Costs and expenses in proceedings before Registrar
 
@@ -2690,7 +2872,7 @@ is privileged from disclosure in legal proceedings in Singapore in the same way 
 
 neither resides nor carries on business in Singapore, the Registrar may require him to give security for the costs or expenses of the proceedings and in default of such security being given may treat the reference, application or notice as abandoned.
 
-[97
+[UK Patents 1977, s. 107]
 
 [40/95]
 
@@ -2698,17 +2880,17 @@ neither resides nor carries on business in Singapore, the Registrar may require 
 
 97\. Any order by the Registrar for the grant of a licence under this Act shall, without prejudice to any other method of enforcement, have effect as if it were a deed, executed by the proprietor of the patent and all other necessary parties, granting a licence in accordance with the order.
 
-[98
+[UK Patents 1977, s. 108]
 
 ## PART XVIII
 
-Offences
+OFFENCES
 
 ### Falsification of register, etc.
 
 98\. If a person makes or causes to be made a false entry in any register kept under this Act, or a writing falsely purporting to be a copy or reproduction of an entry in any such register, or produces or tenders or causes to be produced or tendered in evidence any such writing, knowing the entry or writing to be false, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[99
+[UK Patents 1977, s. 109]
 
 ### Unauthorised claim of patent rights
 
@@ -2720,7 +2902,7 @@ Offences
 
 (4) In proceedings for an offence under this section, it shall be a defence for the accused to prove that he used due diligence to prevent the commission of the offence.
 
-[100
+[UK Patents 1977, s. 110]
 
 ### Unauthorised claim that patent has been applied for
 
@@ -2738,13 +2920,13 @@ he shall, subject to this section, be guilty of an offence and shall be liable o
 
 (4) In any proceedings for an offence under this section, it shall be a defence for the accused to prove that he used due diligence to prevent the commission of the offence.
 
-[101
+[UK Patents 1977, s. 111]
 
 ### Misuse of title “Registry of Patents”
 
 101\. If any person uses on his place of business, or on any document issued by him, or otherwise, the words “Registry of Patents” or any other words suggesting that his place of business is, or is officially connected with, the Registry of Patents, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[102
+[UK Patents 1977, s. 112]
 
 ### Offences by corporations and partnerships
 
@@ -2758,7 +2940,7 @@ he shall, subject to this section, be guilty of an offence and shall be liable o
 
 (5) Where a partnership is guilty of an offence under this Act, every partner, other than a partner who is proved to have been ignorant of or to have attempted to prevent the commission of the offence, is also guilty of the offence and liable to be proceeded against and punished accordingly.
 
-[103
+[UK Patents 1977, ss. 113 and 285]
 
 ### Composition of offences
 
@@ -2775,8 +2957,6 @@ he shall, subject to this section, be guilty of an offence and shall be liable o
 [3/2001]
 
 (4) All sums collected under this section shall be paid into the funds of the Office.
-
-[103A
 
 [3/2001]
 
@@ -2823,6 +3003,8 @@ PATENT AGENTS
 [30/2001]
 
 (4) The rules may provide that a contravention of the rules shall be an offence and may provide penalties not exceeding a fine of $5,000 or imprisonment for a term not exceeding 12 months or to both.
+
+[UK Patents 1977, s. 275]
 
 [30/2001]
 
@@ -2924,11 +3106,13 @@ unless at least one director is a registered patent agent who has in force a pra
 
 “related company group” means a group of 2 or more corporations within the meaning of the Companies Act (Cap. 50) which are related to each other in accordance with section 6 of that Act.
 
+[Aust. Patents 1990, s. 201]
+
 [30/2001]
 
 ## PART XX
 
-Miscellaneous and General
+MISCELLANEOUS AND GENERAL
 
 ### Immunity of Office, its officers and Examiners
 
@@ -2940,6 +3124,8 @@ Miscellaneous and General
 
 (c) incur any liability by reason of an incorrect entry in the register of patent agents maintained under Part XIX.
 
+[UK Patents 1977, s. 116]
+
 [3/2001]
 
 ### Correction of errors in patents and applications
@@ -2947,6 +3133,8 @@ Miscellaneous and General
 107\.—(1) The Registrar may, subject to any provision of the rules, correct any error of translation or transcription, clerical error or mistake in any specification of a patent or application for a patent or any document filed in connection with a patent or such an application.
 
 (2) Where the Registrar is requested to correct such an error or mistake, any person may in accordance with the rules give the Registrar notice of opposition to the request and the Registrar shall determine the matter.
+
+[UK Patents 1977, s. 117]
 
 ### Information about patent applications and patents, and inspection of documents
 
@@ -2966,9 +3154,13 @@ Miscellaneous and General
 
 (6) The publication of the whole or part of a specification of a patent or an application for a patent shall not constitute an infringement of any copyright subsisting under the Copyright Act (Cap. 63) in any literary or artistic work.
 
+[UK Patents 1977, s. 118; Aust. Patents 1990, s. 226]
+
 ### Service by post
 
 109\. Any notice required or authorised to be given by this Act or the rules, and any application or other document so authorised or required to be made or filed, may be given, made or filed by post.
+
+[UK Patents 1977, s. 119]
 
 ### Extension of time
 
@@ -2980,7 +3172,7 @@ Miscellaneous and General
 
 (c) any other matter under this Act or the rules.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
 (2) The rules may contain such provision as the Minister thinks fit regulating the circumstances in which such an extension may be granted and may also provide for the protection and compensation of persons affected by the grant of extension of time and may authorise the Registrar to grant an extension of time notwithstanding that the period has already expired.
 
@@ -2992,11 +3184,15 @@ Miscellaneous and General
 
 (b) the days which are to be treated as excluded days.
 
+[19/2004]
+
 (2) The Minister may prescribe the effect of doing any business under this Act —
 
 (a) on any day after the hours of business of the Registry; or
 
 (b) on any day which is an excluded day.
+
+[19/2004]
 
 (3) For the purposes of subsections (1) and (2) —
 
@@ -3012,17 +3208,23 @@ Miscellaneous and General
 
 may be prescribed for different classes of business.
 
-[19/2004 wef 01/07/2004]
+[UK Patents 1977, s. 120]
+
+[19/2004]
 
 ### Government’s right to sell forfeited articles
 
 112\. Nothing in this Act shall affect the right of the Government or any person deriving title, directly or indirectly, from the Government to dispose of or use articles forfeited under the laws relating to customs or excise.
+
+[UK Patents 1977, s. 122]
 
 ### Extent of invention
 
 113\.—(1) For the purposes of this Act, an invention for a patent for which an application has been made or for which a patent has been granted shall, unless the context otherwise requires, be taken to be that specified in a claim of the specification of the application or patent, as the case may be, as interpreted by the description and any drawings contained in that specification, and the extent of the protection conferred by a patent or application for a patent shall be determined accordingly.
 
 (2) It is hereby declared for the avoidance of doubt that where more than one invention is specified in any such claim, each invention may have a different priority date under section 17.
+
+[UK Patents 1977, s. 125]
 
 ### Availability of samples of micro-organisms
 
@@ -3039,6 +3241,8 @@ may be prescribed for different classes of business.
 (4) The rules may identify a description of persons by reference to whether the Registrar has given his certificate as to any matter.
 
 (5) An application for revocation of the patent under section 80(1)(c) may be made if any of the requirements of the rules ceases to be complied with.
+
+[UK Patents 1977, s. 125A]
 
 ### Rules
 
@@ -3076,13 +3280,15 @@ may be prescribed for different classes of business.
 
 (n) prescribing anything that is required or permitted to be prescribed under this Act.
 
-[30/2001]
+[30/2001; 19/2004]
 
-(3) The Rules may make different provisions for different cases.
+(3) The rules may make different provisions for different cases.
 
-(4) The Rules shall provide for the publication by the Registrar of a journal (referred to in this Act as the journal) containing particulars of applications for and grants of patents, particulars of application for and the registration of patent agents, and of other proceedings under this Act.
+(4) The rules shall provide for the publication by the Registrar of a journal (referred to in this Act as the journal) containing particulars of applications for and grants of patents, particulars of application for and the registration of patent agents, and of other proceedings under this Act.
 
-(5) The Rules may require or authorise the Registrar to make arrangements for the publication of reports of cases relating to patents decided by him or by any court or body whether in Singapore or elsewhere.
+(5) The rules may require or authorise the Registrar to make arrangements for the publication of reports of cases relating to patents decided by him or by any court or body whether in Singapore or elsewhere.
+
+[UK Patents 1977, s. 123]
 
 ### Forms and directions of Registrar
 
@@ -3098,7 +3304,7 @@ may be prescribed for different classes of business.
 
 (b) the practice directions issued by the Registrar.
 
-[19/2004 wef 01/07/2004]
+[19/2004]
 
 ### Fees to be paid to Office
 
@@ -3108,17 +3314,15 @@ may be prescribed for different classes of business.
 
 (2) Subsection (1) shall not apply to fees paid under section 85 which are to be forwarded to the International Bureau.
 
-[115A
-
 [3/2001]
 
 ### Transitional provisions
 
-117\.—(1) Where an application has been made under section 3 of the Registration of United Kingdom Patents Act (Cap. 271) before 23rd February 1995, the Registrar may issue a certificate of registration under section 5 of that Act after that date as if that Act had not been repealed.
+117\.—(1) Where an application has been made under section 3 of the repealed Registration of United Kingdom Patents Act (Cap. 271, 1985 Ed.) before 23rd February 1995, the Registrar may issue a certificate of registration under section 5 of that Act after that date as if that Act had not been repealed.
 
 (2) Where a patent has been granted under the United Kingdom Patents Act 1977 not earlier than 36 months before, or not later than 12 months after, 23rd February 1995, the proprietor of the patent may, within a period of 24 months from that date, make an application for a certificate of registration and the Registrar may issue a certificate on such application as if the Registration of United Kingdom Patents Act had not been repealed.
 
-(3) Any certificate of registration issued under section 5 of the Registration of United Kingdom Patents Act and is in force immediately before 23rd February 1995, or issued after that date by virtue of subsection (1) or (2) shall continue in force and the patent to which the certificate relates shall be treated for the purposes of this Act as if it were a patent under this Act granted in pursuance of an application made under this Act and the proprietor of the patent shall accordingly have the same rights, remedies, privileges and obligations and subject to the same conditions (including the payment of any fee prescribed under section 36), as the proprietor of a patent under this Act subject to the following modifications:
+(3) Any certificate of registration issued under section 5 of the repealed Registration of United Kingdom Patents Act and is in force immediately before 23rd February 1995, or issued after that date by virtue of subsection (1) or (2) shall continue in force and the patent to which the certificate relates shall be treated for the purposes of this Act as if it were a patent under this Act granted in pursuance of an application made under this Act and the proprietor of the patent shall accordingly have the same rights, remedies, privileges and obligations and subject to the same conditions (including the payment of any fee prescribed under section 36), as the proprietor of a patent under this Act subject to the following modifications:
 
 (a) the term of the patent shall date from the date of the patent in the United Kingdom and the patent shall subject to this Act remain in force for 20 years from that date and only so long as the patent has not been revoked in the United Kingdom before 17th October 2001;
 
@@ -3131,8 +3335,6 @@ may be prescribed for different classes of business.
 (5) The date of filing an application for a patent as mentioned in subsection (4), and the priority date of an invention or other matter contained in that application, shall be determined in accordance with the provisions of the United Kingdom Patents Act 1949 or 1977, as the case may be.
 
 (6) Where an act is commenced before 23rd February 1995 and continues to be done on or after that date, then, if it would not, under the law in force immediately before that date, amount to an infringement of a patent or the privileges or rights arising under a specification, its continuance on or after that date shall not amount to the infringement of that patent or those privileges or rights.
-
-[116
 
 ## THE SCHEDULE
 
@@ -3148,11 +3350,7 @@ Substances Which Are Not Pharmaceutical Products
 
 (b) which contains one or more active ingredients which are derived wholly from any plant, animal or mineral or a combination of plants, animals or minerals; and
 
-(c) which is, or all of the active ingredients of which are, described in the current edition of “A Dictionary of Chinese Pharmacy”
-
-“The Chinese Herbal Medicine Materia Medica”
-
-or such other publication as may be approved by the Minister,
+(c) which is, or all of the active ingredients of which are, described in the current edition of “A Dictionary of Chinese Pharmacy” <<中药大辞典>>, “The Chinese Herbal Medicine Materia Medica” <<本草纲目>> or such other publication as may be approved by the Minister,
 
 but does not include —
 
@@ -3216,7 +3414,7 @@ but does not include —
 
 (a) any traditional medicine;
 
-(b) any homeopathic medicine;
+(b) any homoeopathic medicine;
 
 (c) any quasi-medicinal product;
 
@@ -3230,7 +3428,25 @@ but does not include —
 
 (b) which occurs naturally in any plant, animal or mineral.
 
-[19/2004 wef 01/07/2004]
+## LEGISLATIVE SOURCE KEY
+
+Patents Act
+
+(CHAPTER 221)
+
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+
+UK Patents 1977
+
+:
+
+UK Patents Act 1977 (c. 37)
+
+Aust. Patents 1990
+
+:
+
+Australian Patents Act 1990 (Act No. 83 of 1990)
 
 ## LEGISLATIVE HISTORY
 
@@ -3286,13 +3502,125 @@ This Legislative History is provided for the convenience of users of the Patents
 |||(Bill No. 19/2004 published on 20 May 2004)|
 ||Date of Second and Third Readings|15 June 2004|
 ||Date of commencement|1 July 2004|
+|11.|**2005 Revised Edition—Patents Act**|
+||Date of operation|31 July 2005|
 ## COMPARATIVE TABLE
 
 Patents Act
 
 (CHAPTER 221)
 
-The following provisions in the 1995 Revised Edition of the Patents Act have been renumbered by the Law Revision Commissioners in this 2002 Revised Edition.
+The following provisions in the 2002 Revised Edition of the Patents Act have been renumbered by the Law Revision Commissioners in this 2005 Revised Edition.
+
+This Comparative Table is provided for the convenience of users. It is not part of the Patents Act.
+
+2005 Ed\. 
+
+2002 Ed\. 
+
+2 —(1), (2) and (3)
+
+2 —(1), (2) and (3)
+
+(4)
+
+(3A)
+
+(5)
+
+(4)
+
+(6)
+
+(5)
+
+(7)
+
+(6)
+
+(8)
+
+(7)
+
+31 —(1)
+
+31 —(1)
+
+(2)
+
+(1A)
+
+(3)
+
+(2)
+
+55 —(1), (2), (3), (4), (5) and (6)
+
+55 —(1), (2), (3), (4), (5) and (6)
+
+—
+
+(7) (Deleted by Act 19/2004)
+
+—
+
+(8) (Deleted by Act 19/2004)
+
+—
+
+(9) (Deleted by Act 19/2004)
+
+(7)
+
+(10)
+
+(8)
+
+(11)
+
+—
+
+(12) (Deleted by Act 19/2004)
+
+60 —(1) and (2)
+
+60 —(1) and (2)
+
+—
+
+(3) (Deleted by Act 19/2004)
+
+66 —(1) and (2)
+
+66 —(1) and (2)
+
+(3)
+
+(2A)
+
+(4)
+
+(2B)
+
+(5)
+
+(2C)
+
+(6)
+
+(3)
+
+## COMPARATIVE TABLE
+
+Patents Act
+
+(CHAPTER 221)
+
+COMPARATIVE TABLE
+
+PATENTS ACT (CHAPTER 221, 2002 EDITION)
+
+The following provisions in the 1995 Revised Edition of the Patents Act were renumbered by the Law Revision Commissioners in the 2002 Revised Edition.
 
 This Comparative Table is provided for the convenience of users. It is not part of the Patents Act.
 
