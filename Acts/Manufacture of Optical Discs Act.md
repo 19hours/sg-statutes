@@ -1,22 +1,20 @@
-**Manufacture of Optical Discs Act 2004**
+**Manufacture of Optical Discs Act**
 
-**(No. 25 of 2004)**
+**(CHAPTER 170C)**
 
 **Table of Contents**
 
 [**Long Title**](#Manufacture-of-Optical-Discs-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
 - [3 Appointment of Registrar and other officers](#Appointment-of-Registrar-and-other-officers)
 
-[**Part II LICENSING, ETC**](#Part-II)
+[**Part II LICENSING, ETC.**](#Part-II)
 
 - [4 Need for licence to manufacture optical discs](#Need-for-licence-to-manufacture-optical-discs)
 
@@ -58,13 +56,13 @@
 
 - [21 Forfeiture of optical discs, etc.](#Forfeiture-of-optical-discs-etc)
 
-[**Part V OFFENCES AND PENALTies**](#Part-V)
+[**Part V OFFENCES AND PENALTIES**](#Part-V)
 
 - [22 Penalty for offences under Parts II and III](#Penalty-for-offences-under-Parts-II-and-III)
 
 - [23 Offences with respect to information](#Offences-with-respect-to-information)
 
-- [24 Obstruction of officers](#Obstruction-of-officers)
+- [24 Obstruction, etc., of officers](#Obstruction-etc-of-officers)
 
 - [25 Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
 
@@ -86,47 +84,29 @@
 
 [**THE SCHEDULE Media and Articles**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Manufacture of Optical Discs Act
 
-ACTS SUPPLEMENT
+(CHAPTER 170C)
 
-Published by Authority
+(Original Enactment: Act 25 of 2004)
 
-NO. 23]
+REVISED EDITION 2005
 
-Friday, July 2
-
-[2004
-
-The following Act was passed by Parliament on 15th June 2004 and assented to by the President on 24th June 2004:—
-
-Manufacture of Optical Discs Act 2004
-
-(No. 25 of 2004)
-
-I assent.
-
-S R NATHAN
-
-President
-
-24th June 2004.
-
-Date of Commencement: 30th July 2004
+(31st July 2005)
 
 An Act to provide for the regulation and control of the manufacture of optical discs, and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[30th July 2004]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Manufacture of Optical Discs Act 2004 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Manufacture of Optical Discs Act.
 
 ### Interpretation
 
@@ -142,7 +122,7 @@ PRELIMINARY
 
 “manufacture” means the processes and activities involved in the making of optical discs, including (where applicable) mastering or replicating or both;
 
-“manufacturer’s code” means the manufacturer’s code assigned to a licensee under section 7(3)(a);
+“manufacturer’s code” means the manufacturer’s code assigned to a licensee under section 7(3) (a);
 
 “optical disc” means any medium or article specified in the Schedule;
 
@@ -164,7 +144,7 @@ PRELIMINARY
 
 ## PART II
 
-LICENSING, ETC
+LICENSING, ETC.
 
 ### Need for licence to manufacture optical discs
 
@@ -270,7 +250,7 @@ as may be prescribed or determined by the Registrar; and
 
 (a) kept up-to-date and in good order and condition; and
 
-(b) available at all times for the examination of any authorised officer or police officer.
+(b) available at all times for examination by any authorised officer or police officer.
 
 (3) A licensee shall submit such records, or furnish such other documents or information, as may be required by the Registrar within the time specified by the Registrar.
 
@@ -384,7 +364,7 @@ to provide him with such reasonable technical and other assistance as he may req
 
 ## PART V
 
-OFFENCES AND PENALTies
+OFFENCES AND PENALTIES
 
 ### Penalty for offences under Parts II and III
 
@@ -414,7 +394,7 @@ shall be guilty of an offence.
 
 (b) in any other case, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent offence, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-### Obstruction of officers
+### Obstruction, etc., of officers
 
 24\. Any person who obstructs, impedes, assaults or interferes with any authorised officer or police officer in the performance of his duties under this Act shall be guilty of an offence and shall be liable on conviction —
 
@@ -532,13 +512,40 @@ Sections 2 and 30(1)
 
 Media and Articles
 
-1\. Compact discs (CD), including compact discs-read only memory (CD-ROM).
+1. 
 
-2\. Digital video discs (DVD), including digital video discs-read only memory (DVD-ROM).
+Compact discs (CD), including compact discs-read only memory (CD-ROM).
 
-3\. Video compact discs (VCD).
+2. 
 
-4\. Master discs.
+Digital video discs (DVD), including digital video discs-read only memory (DVD-ROM).
 
-5\. Stampers.
+3. 
 
+Video compact discs (VCD).
+
+4. 
+
+Master discs.
+
+5. 
+
+Stampers
+
+## LEGISLATIVE HISTORY
+
+Manufacture of Optical Discs Act
+
+(CHAPTER 170C)
+
+This Legislative History is provided for the convenience of users of the Manufacture of Optical Discs Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 25 of 2004—Manufacture of Optical Discs Act 2004**|
+||Date of First Reading|19 May 2004|
+|||(Bill No. 23/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|30 July 2004|
+|2.|**2005 Revised Edition—Manufacture of Optical Discs Act**|
+||Date of operation|31 July 2005|
