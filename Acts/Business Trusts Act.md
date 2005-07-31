@@ -1,16 +1,14 @@
-**Business Trusts Act 2004**
+**Business Trusts Act**
 
-**(No. 30 of 2004)**
+**(CHAPTER 31A)**
 
 **Table of Contents**
 
 [**Long Title**](#Business-Trusts-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -88,7 +86,7 @@
 
 - [31 Change of trust deed](#Change-of-trust-deed)
 
-[**Part V Unitholders**](#Part-V)
+[**Part V UNITHOLDERS**](#Part-V)
 
 - [32 Limitation of liability of unitholders](#Limitation-of-liability-of-unitholders)
 
@@ -152,7 +150,7 @@
 
 - [57 Quorum, chairman, voting, etc., at meetings](#Quorum-chairman-voting-etc-at-meetings)
 
-- [5 Voting rights in respect of units in registered business trusts](#Voting-rights-in-respect-of-units-in-registered-business-trusts)
+- [58 Voting rights in respect of units in registered business trusts](#Voting-rights-in-respect-of-units-in-registered-business-trusts)
 
 - [59 Unitholder’s rights at meetings](#Unitholder’s-rights-at-meetings)
 
@@ -282,51 +280,33 @@
 
 - [114 Regulations](#Regulations)
 
-- [115 Consequential amendments to Monetary Authority of Singapore Act](#Consequential-amendments-to-Monetary-Authority-of-Singapore-Act)
+[**THE SCHEDULE Types of Trusts That Are Not Regarded As Business Trusts for Purposes of Act**](#THE-SCHEDULE)
 
-[**THE SCHEDULE TYPES OF TRUST THAT ARE NOT REGARDED AS BUSINESs TRUSTs FOR PURPOSES OF ACT**](#THE-SCHEDULE)
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Business Trusts Act
 
-ACTS SUPPLEMENT
+(CHAPTER 31A)
 
-Published by Authority
+(Original Enactment: Act 30 of 2004)
 
-NO. 30]
+REVISED EDITION 2005
 
-Friday, September 24
-
-[2004
-
-The following Act was passed by Parliament on 1st September 2004 and assented to by the President on 8th September 2004:—
-
-Business Trusts Act 2004
-
-(No. 30 of 2004)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-8th September 2004.
-
-Date of Commencement: 12th October 2004
+(31st July 2005)
 
 An Act relating to the registration and regulation of business trusts and matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[12th October 2004]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Business Trusts Act 2004 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Business Trusts Act.
 
 ### Interpretation
 
@@ -354,7 +334,7 @@ PRELIMINARY
 
 (i) the purpose or effect, or purported purpose or effect, of the trust is to enable the unitholders (whether by acquiring any right, interest, title or benefit in the property or any part of the property or otherwise) to participate in or receive profits, income or other payments or returns arising from the management of the property or management or operation of a business;
 
-(ii) the unitholders of the trust do not have day-to-day control over the management of the property, whether or not they have the right to be consulted or to give directions in respect of such management;
+(ii) the unitholders of the trust do not have day- to-day control over the management of the property, whether or not they have the right to be consulted or to give directions in respect of such management;
 
 (iii) the property subject to the trust is managed as a whole by a trustee or by another person on behalf of the trustee;
 
@@ -368,7 +348,7 @@ PRELIMINARY
 
 (b) a class or description of trust that is declared by the Authority, by notice published in theGazette, to be a business trust for the purposes of this Act,
 
-but does not include the types of trust specified in the Schedule;
+but does not include the types of trusts specified in the Schedule;
 
 “company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -376,13 +356,13 @@ but does not include the types of trust specified in the Schedule;
 
 “creditor”, in relation to a registered business trust, means a creditor of the trustee-manager of the registered business trust where the liability owing to such creditor was incurred by the trustee-manager on behalf of the registered business trust;
 
-“debenture” has the same meaning as in section 239(1) of the Securities and Futures Act (Cap. 289) and, in relation to a registered business trust, means a debenture issued by the trustee-manager of the registered business trust in its capacity as trustee-manager of the registered business trust;
+“debenture” has the same meaning as in section 239(1) of the Securities and Futures Act and, in relation to a registered business trust, means a debenture issued by the trustee-manager of the registered business trust in its capacity as trustee-manager of the registered business trust;
 
 “deed” means any deed which creates a trust or provides for the governance of the affairs of the trust and the conduct of its business and includes any instrument amending or affecting the deed;
 
 “derivative”, in relation to a unit in a business trust, means any right or interest, whether legal or equitable, in the unit in the business trust, by whatever name called, and includes any option to acquire any such right or interest in the unit in the business trust;
 
-“director” has the same meaning as in section 4(1) of the Companies Act;
+“director” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
 “document” has the same meaning as in section 4(1) of the Companies Act;
 
@@ -400,17 +380,17 @@ but does not include the types of trust specified in the Schedule;
 
 “listing rules” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
 
-“officer” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+“officer” has the same meaning as in section 4(1) of the Companies Act;
 
 “Official Receiver” means the Official Assignee appointed under the Bankruptcy Act (Cap. 20) and includes the deputy of any such Official Assignee and any person appointed as Assistant Official Assignee;
 
 “profit or loss”, in relation to a registered business trust, means the profit or loss resulting from operations of that registered business trust;
 
-“public accountant” means a person who is registered or deemed to be registered under the Accountants Act 2004 (Act 4 of 2004) as a public accountant;
+“public accountant” means a person who is registered or deemed to be registered under the Accountants Act (Cap. 2) as a public accountant;
 
 “registered business trust” means a business trust that is registered by the Authority under section 4(1);
 
-“related corporation” has the same meaning as in section 4(1) of the Companies Act;
+“related corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
 “replacement trustee-manager” means a company that has consented in writing to its election by the unitholders of a registered business trust to replace the resigning trustee-manager or temporary trustee-manager, as the case may be, of the registered business trust;
 
@@ -418,7 +398,7 @@ but does not include the types of trust specified in the Schedule;
 
 “securities exchange” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
 
-“substantial shareholder” means a person who has a substantial shareholding in a company in accordance with section 81 of the Companies Act (Cap. 50);
+“substantial shareholder” means a person who has a substantial shareholding in a company in accordance with section 81 of the Companies Act;
 
 “substantial unitholder”, in relation to a registered business trust, means a person who has an interest or interests in units representing not less than 5% of the total voting rights of all the unitholders of the registered business trust;
 
@@ -446,6 +426,8 @@ but does not include the types of trust specified in the Schedule;
 
 “unitholder” means a person who holds units in a business trust.
 
+[Companies 1994 Ed., ss. 4, 81; SFA 2002 Ed., s. 2; Aust. Corp. 2001, s. 9]
+
 ## PART II
 
 REGISTRATION OF BUSINESS TRUSTS
@@ -472,7 +454,7 @@ REGISTRATION OF BUSINESS TRUSTS
 
 (c) the Authority is not satisfied that the proposed trustee-manager does not carry on any business other than the business of management and operation of the business trust in respect of which the application has been lodged;
 
-(d) the Authority is not satisfied that the proposed trustee-manager has ––
+(d) the Authority is not satisfied that the proposed trustee-manager has —
 
 (i) complied with sections 14(1), 15(1), 28(1) and 30(1) (as modified by subsection (6) or pursuant to subsection (7)); and
 
@@ -506,7 +488,7 @@ REGISTRATION OF BUSINESS TRUSTS
 
 (5) The proposed trustee-manager of any business trust who is aggrieved by the refusal of the Authority to register the business trust under subsection (2) may, within 30 days after he is notified of the decision, appeal to the Minister whose decision shall be final.
 
-(6) For the purpose of determining whether subsection (2) is satisfied in relation to the business trust ––
+(6) For the purpose of determining whether subsection (2) is satisfied in relation to the business trust —
 
 (a) references in Division 1 of Part III and Part IV to a registered business trust shall be read as including a reference to the business trust referred to in subsection (1); and
 
@@ -523,6 +505,8 @@ REGISTRATION OF BUSINESS TRUSTS
 (3) Where a change occurs in any matter in relation to a registered business trust, particulars of which are required to be entered in the register of registered business trusts under subsection (1), the trustee-manager of the registered business trust shall, not later than 14 days after the occurrence of the change, furnish particulars of the change to the Authority in the prescribed form and manner.
 
 (4) Any trustee-manager of a registered business trust which contravenes subsection (3) shall be guilty of an offence.
+
+[FAA 2000 Ed., ss. 18, 63]
 
 ## PART III
 
@@ -554,6 +538,8 @@ Responsibilities and powers
 
 (2) Any trustee-manager of a registered business trust which contravenes subsection (1) shall be guilty of an offence.
 
+[Companies 1994 Ed., s. 171]
+
 ### Trustee-manager to operate registered business trust and power to appoint agents
 
 8\.—(1) The trustee-manager of a registered business trust shall —
@@ -566,9 +552,11 @@ Responsibilities and powers
 
 (3) An agent referred to in subsection (2) may also, with the consent of the trustee-manager of the registered business trust, appoint an agent (referred to in this section as a sub-agent) to carry out or perform any matter that the agent has been appointed by the trustee-manager to carry out or perform and, for the avoidance of doubt, the sub-agent shall be deemed to be an agent appointed by the trustee-manager to carry out or perform that matter for the purposes of that subsection.
 
-(4) Where an agent or a sub-agent appointed pursuant to subsection (2) or (3), as the case may be, is liable to indemnify the trustee-manager of the registered business trust against any loss or damage suffered by the trustee-manager as a result of the acts of the agent or sub-agent, any amount recovered under the indemnity shall form part of the trust property of the registered business trust.
+(4) Where an agent or a sub-agent appointed under subsection (2) or (3), as the case may be, is liable to indemnify the trustee-manager of the registered business trust against any loss or damage suffered by the trustee-manager as a result of the acts of the agent or sub-agent, any amount recovered under the indemnity shall form part of the trust property of the registered business trust.
 
 (5) Any trustee-manager of a registered business trust which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[Aust. Corp. 2001, s. 601FB]
 
 ### Use of information and advice
 
@@ -582,11 +570,13 @@ Responsibilities and powers
 
 (c) has no knowledge that such reliance is unwarranted.
 
+[Companies 1994 Ed., s. 157C]
+
 ### Duties of trustee-manager
 
 10\.—(1) The trustee-manager of a registered business trust shall at all times act honestly and exercise reasonable diligence in the discharge of its duties as a trustee-manager in accordance with this Act and the trust deed of the registered business trust.
 
-(2) The trustee-manager of a registered business trust shall ––
+(2) The trustee-manager of a registered business trust shall —
 
 (a) act in the best interests of all the unitholders of the registered business trust as a whole; and
 
@@ -604,9 +594,11 @@ Responsibilities and powers
 
 (6) The Authority may, by regulations, prescribe requirements on the scope of the duties of the trustee-manager of a registered business trust.
 
+[Aust. Corp. 2001, s. 601FC]
+
 ### Duties of directors, officers and agents of trustee-manager
 
-11\.—(1) A director of the trustee-manager of a registered business trust shall ––
+11\.—(1) A director of the trustee-manager of a registered business trust shall —
 
 (a) act honestly and exercise reasonable diligence in the discharge of the duties of his office and, in particular, shall take all reasonable steps to ensure that the trustee-manager discharges its duties under section 10(1) and (2); and
 
@@ -634,6 +626,8 @@ Responsibilities and powers
 
 “officer” includes a person who at any time has been an officer of the trustee-manager.
 
+[Companies 1994 Ed., s. 157; Aust. Corp. 2001, s. 601FD]
+
 ### Disclosure of interests in transactions
 
 12\.—(1) Subject to subsections (2) and (3), every director of the trustee-manager of a registered business trust who is in any way, whether directly or indirectly, interested in a transaction or proposed transaction entered or to be entered into by the trustee-manager for or on behalf of the registered business trust shall, as soon as practicable after the relevant facts have come to his knowledge, declare the nature of his interest at a meeting of the directors of the trustee-manager.
@@ -648,9 +642,9 @@ Responsibilities and powers
 
 and this subsection shall have effect not only for the purposes of this Act but also for the purposes of any other law, but shall not affect the operation of any provision in the trust deed of the registered business trust.
 
-(4) For the purposes of subsection (1), a general notice given to the directors of the trustee-manager of a registered business trust by a director to the effect that he is an officer or a member of a specified corporation or a member of a specified firm and is to be regarded as interested in any transaction which may, after the date of the notice, be made with that corporation or firm shall be deemed to be a sufficient declaration of interest in relation to any transaction so made if it specifies the nature and extent of his interest in the specified corporation or firm and his interest is not different in nature or greater in extent than the nature and extent so specified in the general notice at the time any transaction is so made, but no such notice shall be of effect unless either it is given at a meeting of the directors of the trustee-manager or the director of the trustee-manager takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors of the trustee-manager after it is given.
+(4) For the purposes of subsection (1), a general notice given to the directors of the trustee-manager of a registered business trust by a director to the effect that he is an officer or a member of a specified corporation or a member of a specified firm and is to be regarded as interested in any transaction which may, after the date of the notice, be made with that corporation or firm shall be deemed to be a sufficient declaration of interest in relation to any transaction so made if it specifies the nature and extent of his interest in the specified corporation or firm and his interest is not different in nature or greater in extent than the nature and extent so specified in the general notice at the time any transaction is so made; but no such notice shall be of effect unless either it is given at a meeting of the directors of the trustee-manager or the director of the trustee-manager takes reasonable steps to ensure that it is brought up and read at the next meeting of the directors of the trustee-manager after it is given.
 
-(5) Every director of the trustee-manager of a registered business trust who holds any office or possesses any property whereby, whether directly or indirectly, duties or interests might be created in conflict with the duties of the trustee-manager in relation to the registered business trust shall declare the fact and the nature, character and extent of the conflict at a meeting of the directors of the trustee-manager.
+(5) Every director of the trustee-manager of a registered business trust who holds any office or possesses any property whereby, whether directly or indirectly, duties or interests might be created in conflict with the duties of the trustee-manager in relation to the registered business trust, shall declare the fact and the nature, character and extent of the conflict at a meeting of the directors of the trustee-manager.
 
 (6) The declaration referred to in subsection (5) shall be made at the first meeting of the directors of the trustee-manager of a registered business trust held —
 
@@ -667,6 +661,8 @@ as the case requires.
 (9) Subject to subsection (3), this section shall be in addition to and not in derogation of the operation of any rule of law or any provision in the trust deed restricting a director of the trustee-manager of a registered business trust from having any interest in transactions with the trustee-manager in its capacity as the trustee-manager of the registered business trust or from holding offices or possessing properties involving duties or interests in conflict with the duties of the trustee-manager in relation to the registered business trust.
 
 (10) A director of the trustee-manager of a registered business trust who contravenes subsection (1) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[Companies 1994 Ed., s. 156]
 
 ### Disclosure of directors’ interests
 
@@ -720,7 +716,7 @@ whichever last occurs; and
 
 (10) The trustee-manager of a registered business trust shall, within 7 days after it receives a notice given under subsection (8), send a copy of the notice to each of the other directors of the trustee-manager.
 
-(11) It is a defence to a prosecution for failing to comply with subsection (8)(a) or (b) or with subsection (9) if the defendant proves that his failure was due to his not being aware of a fact or occurrence the existence of which was necessary to constitute the offence and that —
+(11) It is a defence to a prosecution for failing to comply with subsection (8) (a) or (b) or with subsection (9) if the defendant proves that his failure was due to his not being aware of a fact or occurrence the existence of which was necessary to constitute the offence and that —
 
 (a) he was not so aware on the date of the information or summons; or
 
@@ -732,15 +728,17 @@ whichever last occurs; and
 
 (b) of which an employee or agent of the person, being an employee or agent having duties or acting in relation to his employer’s or principal’s interest in units or derivatives of units in the registered business trust or debentures of the registered business trust, was aware or would, if he had acted with reasonable diligence in the conduct of his employer’s or principal’s affairs, have been aware at that time.
 
-(13) Where a person is required under subsection (8) to give notification to the trustee-manager of a registered business trust that is listed on a securities exchange, he shall also notify the securities exchange of that matter within the same period, and the securities exchange may publish, in such manner as it may determine, any information received by it under this subsection.
+(13) Where a person is required under subsection (8) to give notice to the trustee-manager of a registered business trust that is listed on a securities exchange, he shall also notify the securities exchange of that matter within the same period, and the securities exchange may publish, in such manner as it may determine, any information received by it under this subsection.
 
 (14) For the purposes of this section, a director of the trustee-manager of a registered business trust is deemed to have an interest in units or derivatives of units in the registered business trust or debentures of the registered business trust, as the case may be, if that director is deemed to have an interest in the units, derivatives of units or debentures, as the case may be, under section 4 of the Securities and Futures Act (Cap. 289).
 
-(15) For the purposes of this section, an interest of a family member of a director of the trustee-manager of a registered business trust shall be treated as an interest of that director and the words “member of a director’s family” shall include his spouse, son, adopted son, step-son, daughter, adopted daughter and step-daughter.
+(15) For the purposes of this section, an interest of a family member of a director of the trustee-manager of a registered business trust shall be treated as an interest of that director and the words "member of a director’s family" shall include his spouse, son, adopted son, step-son, daughter, adopted daughter and step-daughter.
 
 (16) Any director of the trustee-manager of a registered business trust who contravenes subsection (8) or (13) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
 (17) Any trustee-manager of a registered business trust which contravenes subsection (1), (2), (3), (4), (5), (6) or (10) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[Companies 1994 Ed., ss. 164, 165, 166]
 
 ### Composition of board
 
@@ -766,9 +764,11 @@ whichever last occurs; and
 
 he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
+[Companies 1994 Ed., s. 201B]
+
 ### Acquisition of interest in registered business trust by trustee-manager
 
-16\.—(1) The trustee-manager of a registered business trust shall not acquire or hold any unit or derivative of any unit in the registered business trust unless it acquires or holds the unit or derivative ––
+16\.—(1) The trustee-manager of a registered business trust shall not acquire or hold any unit or derivative of any unit in the registered business trust unless it acquires or holds the unit or derivative —
 
 (a) for not less than the consideration that would be payable if the unit or derivative of the unit were acquired by another person; and
 
@@ -778,6 +778,8 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (3) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000.
 
+[Aust. Corp. 2001, s. 601FG]
+
 ### Liquidator of trustee-manager entitled to exercise indemnity rights
 
 17\. If the trustee-manager of a registered business trust is being wound up, is under judicial management or receivership or has executed a deed of company arrangement that has not terminated —
@@ -785,6 +787,8 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 (a) any provision of the trust deed of the registered business trust or of another instrument which purports to deny the trustee-manager a right to be indemnified out of the trust property of the registered business trust that the trustee-manager would have had if it were not being wound up, under judicial management or receivership or if it had not executed a deed of company arrangement, as the case may be, shall be void against the liquidator, judicial manager or receiver of the trustee-manager or the executor of the deed of company arrangement, as the case may be; and
 
 (b) any right of the trustee-manager to be indemnified out of the trust property of the registered business trust shall be exercised by the liquidator, judicial manager or receiver of the trustee-manager or the executor of the deed of company arrangement, as the case may be.
+
+[Aust. Corp. 2001, s. 601FH]
 
 Division 2 —
 
@@ -810,6 +814,8 @@ and such appointment shall be effective from the date stated in the resolution o
 
 (3) Any trustee-manager of a registered business trust which contravenes subsection (1) shall be guilty of an offence.
 
+[Aust. Corp. 2001, s. 601FL]
+
 ### Removal of trustee-manager by unitholders
 
 20\. The trustee-manager of a registered business trust may be removed as the trustee-manager by the unitholders of the registered business trust only —
@@ -817,6 +823,8 @@ and such appointment shall be effective from the date stated in the resolution o
 (a) if a resolution to remove the trustee-manager is approved by unitholders of the registered business trust holding in the aggregate not less than three-fourths of the voting rights of all the unitholders of the registered business trust who, being entitled to do so, vote in person or where proxies are allowed, by proxy present at a meeting of the unitholders of the registered business trust; and
 
 (b) in accordance with such procedures as the Authority may prescribe.
+
+[Aust. Corp. 2001, s. 601FM]
 
 ### Appointment of temporary trustee-manager by court
 
@@ -832,11 +840,15 @@ and such appointment shall be effective from the date stated in the resolution o
 
 (6) Any trustee-manager of a registered business trust which contravenes subsection (5) shall be guilty of an offence.
 
+[Aust. Corp. 2001, ss. 601FN, 601 FP]
+
 ### Temporary trustee-manager to take steps for appointment of new trustee-manager
 
 22\.—(1) The temporary trustee-manager of a registered business trust shall, within such time and in accordance with such requirements as may be prescribed by the Authority, take such steps to enable the unitholders of the registered business trust to appoint another person as the trustee-manager (not being a temporary trustee-manager) of the registered business trust.
 
 (2) Any temporary trustee-manager of a registered business trust which contravenes subsection (1) shall be guilty of an offence.
+
+[Aust. Corp. 2001, s. 601FQ]
 
 Division 3 —
 
@@ -844,7 +856,7 @@ Consequences of change of trustee-manager
 
 ### Resigning trustee-manager to hand over books and provide reasonable assistance
 
-23\.—(1) The resigning trustee-manager of a registered business trust shall, as soon as practicable after the appointment of the replacement trustee-manager or the temporary trustee-manager, as the case may be, of the registered business trust ––
+23\.—(1) The resigning trustee-manager of a registered business trust shall, as soon as practicable after the appointment of the replacement trustee-manager or the temporary trustee-manager, as the case may be, of the registered business trust —
 
 (a) give the replacement trustee-manager or temporary trustee-manager, as the case may be, any books which are in the possession or control of the resigning trustee-manager and which this Act or the trust deed of the registered business trust requires to be kept in relation to the registered business trust; and
 
@@ -852,9 +864,11 @@ Consequences of change of trustee-manager
 
 (2) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
+[Aust. Corp. 2001, s. 601FR]
+
 ### Rights, obligations and liabilities of resigning trustee-manager
 
-24\.—(1) Any ––
+24\.—(1) Any —
 
 (a) legal right in, title to and interest under any trust property of a registered business trust owned, leased, held or used by a resigning trustee-manager for or on behalf of the registered business trust; and
 
@@ -872,6 +886,8 @@ shall be transferred to and vested in, and assumed by, the replacement trustee-m
 
 (d) any liability in respect of which the resigning trustee-manager would have had no claim of indemnification out of the trust property of the registered business trust if it had remained the trustee-manager of the registered business trust.
 
+[Aust. Corp. 2001, s. 601FS]
+
 ### Effect of change of trustee-manager on documents, etc., to which resigning trustee-manager is a party
 
 25\.—(1) Any document or agreement entered into by the resigning trustee-manager of a registered business trust on behalf of the registered business trust —
@@ -883,6 +899,8 @@ shall be transferred to and vested in, and assumed by, the replacement trustee-m
 shall, from the effective date of appointment of the replacement trustee-manager or temporary trustee-manager under section 18, as the case may be, have effect as if the replacement trustee-manager or temporary trustee-manager, as the case may be, (and not the resigning trustee-manager) were a party to it, were referred to in it or had or might have acquired or incurred the right, obligation or liability under it.
 
 (2) Subsection (1) shall not apply to any right, obligation or liability that remains the right, obligation or liability of the resigning trustee-manager by virtue of section 24(2).
+
+[Aust. Corp. 2001, s. 601FT]
 
 Division 4 —
 
@@ -934,6 +952,8 @@ Indemnification
 
 (ii) in connection with any application in which relief is granted to him by the court.
 
+[Companies 1994 Ed., s. 172]
+
 ## PART IV
 
 TRUST DEED
@@ -966,13 +986,15 @@ TRUST DEED
 
 (4) The trustee-manager of a registered business trust shall not have any power to borrow or raise money, to issue debentures of the registered business trust or to assume (whether by way of declaration of trust, transfer, novation, vesting or otherwise) obligations or liabilities for such borrowings or issuance of debentures of the registered business trust on behalf of the registered business trust, unless such power is provided in the trust deed of the registered business trust, and any agreement or arrangement that purports to confer such power shall have no effect.
 
-(5) The unitholders of a registered business trust shall not have a right to redeem their units in return for distributions of profits, income or other payments or returns from the trust property of the registered business trust, unless the trust deed of the registered business trust ––
+(5) The unitholders of a registered business trust shall not have a right to redeem their units in return for distributions of profits, income or other payments or returns from the trust property of the registered business trust, unless the trust deed of the registered business trust —
 
 (a) confers such right; and
 
 (b) sets out procedures relating to the making and handling of redemption orders which are fair to all the unitholders of the registered business trust.
 
 (6) Any trustee-manager of a registered business trust which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[SF (Offers of Investments) (Collective Investment Schemes) (Rg 2), r. 9; Aust. Corp. 2001, s. 601GA]
 
 ### Liability of trustee-managers
 
@@ -988,6 +1010,8 @@ TRUST DEED
 
 (ii) either with respect to specific acts or omissions, or upon the trustee-manager of a registered business trust ceasing to act.
 
+[SFA 2002 Ed., s. 292]
+
 ### Trust deed to be legally enforceable
 
 30\.—(1) The trustee-manager of a registered business trust shall ensure that the trust deed of the registered business trust is contained in a document that is legally enforceable as between the unitholders of the registered business trust and the trustee-manager.
@@ -999,6 +1023,8 @@ TRUST DEED
 (4) Any trustee-manager of a registered business trust which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
 (5) Any trustee-manager of a registered business trust which contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[Aust. Corp. 2001, s. 601GB]
 
 ### Change of trust deed
 
@@ -1038,7 +1064,7 @@ and such modification or replacement, as the case may be, shall take effect on t
 
 (i) a copy of such application within 2 business days after the application has been made; and
 
-(ii) a copy of the court order referred to in subsection (4) within 7 days after that order has been made.
+(ii) a copy of the court order referred to in subsection (4)(b) within 7 days after that order has been made.
 
 (8) The trustee-manager of a registered business trust shall, at the direction of the Authority, lodge with the Authority a copy of the amended trust deed of the registered business trust after incorporating all the amendments prior to the date of lodgment.
 
@@ -1052,9 +1078,11 @@ and such modification or replacement, as the case may be, shall take effect on t
 
 (13) Any trustee-manager of a registered business trust which contravenes subsection (7), (8), (9) or (10) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
+[Aust. Corp. 2001, s. 601GC]
+
 ## PART V
 
-Unitholders
+UNITHOLDERS
 
 ### Limitation of liability of unitholders
 
@@ -1068,7 +1096,7 @@ Unitholders
 
 ### Distributions to unitholders
 
-33\.—(1) The trustee-manager of a registered business trust shall have the right to declare a distribution of profits, income or other payments or returns to the unitholders of the registered business trust out of the trust property of the registered business trust but such distribution shall only be made if the board of directors of the trustee-manager makes a written statement, in accordance with a resolution of the board of directors of the trustee-manager and signed by not less than 2 of the directors, that the board of directors is satisfied on reasonable grounds that, immediately after making the distribution, the trustee-manager will be able to fulfil, from the trust property of the registered business trust, the liabilities of the registered business trust as these liabilities fall due.
+33\.—(1) The trustee-manager of a registered business trust shall have the right to declare a distribution of profits, income or other payments or returns to the unitholders of the registered business trust out of the trust property of the registered business trust; but such distribution shall only be made if the board of directors of the trustee-manager makes a written statement, in accordance with a resolution of the board of directors of the trustee-manager and signed by not less than 2 of the directors, that the board of directors is satisfied on reasonable grounds that, immediately after making the distribution, the trustee-manager will be able to fulfil, from the trust property of the registered business trust, the liabilities of the registered business trust as these liabilities fall due.
 
 (2) Upon the declaration by the trustee-manager of a registered business trust to make a distribution of profits, income or other payments or returns from the trust property of the registered business trust to the unitholders of the registered business trust in accordance with subsection (1), the trustee-manager shall —
 
@@ -1092,11 +1120,15 @@ Unitholders
 
 34\. No creditor of a unitholder of a registered business trust shall have any right to obtain possession of, or otherwise exercise any legal or equitable remedy with respect to, the trust property of the registered business trust.
 
+[Delaware Stat. Trust, s. 3805 (b)]
+
 ### Rights of unitholders to distribution
 
 35\.—(1) Upon the declaration by the trustee-manager of a registered business trust of a distribution of profits, income or other payments or returns out of the trust property of the registered business trust to the unitholders of the registered business trust, each unitholder shall, after the date on which the distribution is payable, become entitled to receive the distribution, and upon such declaration, the unitholder shall be deemed to be, and is entitled to all legal and equitable remedies available to, a creditor of the registered business trust, with recourse to the trust property out of which the distribution is to be made.
 
 (2) The trust deed of a registered business trust may provide for the establishment of book closure dates with respect to distributions of profits, income or other payments or returns by the trustee-manager of the registered business trust.
+
+[Delaware Stat. Trust, s. 3805 (c)]
 
 ### Approval of unitholders required for issue of units by trustee-manager
 
@@ -1124,9 +1156,11 @@ whichever is the earlier, but any approval may be previously revoked or varied b
 
 (9) If the trustee-manager of any registered business trust is found guilty of an offence under subsection (7), the trustee-manager and any director of the trustee-manager who knowingly contravenes, or permits or authorises the contravention of this section with respect to any issue of units in the registered business trust shall be liable to compensate the person to whom the units were issued for any loss, damages or costs which that person may have sustained or incurred thereby; but no proceedings to recover from any director of the trustee-manager or the trustee-manager for any such loss, damages or costs shall be commenced after the expiration of 6 years from the date of such issue of units.
 
+[Companies 1994 Ed., s. 161]
+
 ### Duty of substantial unitholders to notify securities exchange
 
-37\.—(1) In the case of a registered business trust all or any of which units are listed for quotation on the official list of a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) (other than sections 86, 87, 88, 89 and 92) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial unitholder of the registered business trust as though —
+37\.—(1) In the case of a registered business trust, all or any of which units are listed for quotation on the official list of a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) (other than sections 86, 87, 88, 89 and 92) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial unitholder of the registered business trust as though —
 
 (a) references to the company to which notification should be given were references to the securities exchange;
 
@@ -1140,9 +1174,11 @@ and such person shall comply with those provisions accordingly.
 
 (2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day or part thereof during which the offence continues after conviction.
 
+[SFA 2002 Ed., s. 137]
+
 ### Duty of substantial unitholders to notify trustee-manager of registered business trust
 
-38\.—(1) In the case of a registered business trust all or any of which units are listed for quotation on the official list of a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial unitholder of the registered business trust as though —
+38\.—(1) In the case of a registered business trust, all or any of which units are listed for quotation on the official list of a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial unitholder of the registered business trust as though —
 
 (a) references to the company to which notification should be given were references to the trustee-manager of the registered business trust;
 
@@ -1160,9 +1196,11 @@ and such person shall comply with those provisions accordingly.
 
 ### Duty of substantial shareholder of trustee-manager to notify securities exchange
 
-39\.—(1) In the case of a registered business trust all or any of which units are listed for quotation on the official list of a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) (other than sections 86, 87, 88, 89 and 92) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial shareholder of the trustee-manager of the registered business trust as though references to the company to which notification should be given were references to the securities exchange.
+39\.—(1) In the case of a registered business trust, all or any of which units are listed for quotation on the official list of a securities exchange, Division 4 of Part IV of the Companies Act (Cap. 50) (other than sections 86, 87, 88, 89 and 92) shall apply, with such modifications and qualifications as may be necessary, to a person who is a substantial shareholder of the trustee-manager of the registered business trust as though references to the company to which notification should be given were references to the securities exchange.
 
 (2) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine of $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[SFA 2002 Ed., s. 137]
 
 ## PART VI
 
@@ -1175,6 +1213,8 @@ CIVIL LIABILITY
 (2) Any action under subsection (1) shall commence within 6 years after the cause of action arises.
 
 (3) This section shall not affect any liability that any person has under any other provision of this Act or under any other written law or rule of law.
+
+[Aust. Corp. 2001, s. 601MA]
 
 ### Remedies in cases of oppression or injustice
 
@@ -1206,13 +1246,15 @@ CIVIL LIABILITY
 
 (6) This section shall apply to a person who is not a unitholder of a registered business trust but to whom units in the registered business trust have been transmitted by operation of law as it applies to the unitholders of a registered business trust; and references to a unitholder or unitholders shall be construed accordingly.
 
+[Companies 1994 Ed., s. 216]
+
 ### Derivative or representative actions
 
 42\.—(1) Subject to subsection (2), a complainant may apply to the court for leave to bring an action in the name and on behalf of all the unitholders of the registered business trust as a whole or intervene in an action to which the trustee-manager, on behalf of the registered business trust, is a party for the purpose of prosecuting, defending or discontinuing the action on behalf of the trustee-manager.
 
 (2) No action may be brought and no intervention in an action may be made under subsection (1) unless the court is satisfied that —
 
-(a) the complainant has given 14 days’ notice to the directors of the trustee-manager of the registered business trust of his intention to apply to the court under subsection (1) if the directors of the trustee-manager do not bring, diligently prosecute or defend or discontinue the action;
+(a) the complainant has given 14 days’ notice to the directors of the trustee-manager of the registered business trust of his intention to apply to the court under subsection (1) if the directors of the trustee-manager do not bring, diligently prosecute or defend or discontinue, the action;
 
 (b) the complainant is acting in good faith; and
 
@@ -1236,6 +1278,8 @@ CIVIL LIABILITY
 
 (b) any other person who, in the discretion of the court, is a proper person to make an application under this section.
 
+[Companies 1994 Ed., s. 216A]
+
 ### Evidence of shareholders’ approval not decisive — court approval to discontinue action under section 42
 
 43\.—(1) An application made or an action brought or intervened in under section 42 shall not be stayed or dismissed by reason only that it is shown that an alleged breach of a right of or duty owed to all the unitholders of the registered business trust as a whole has been or may be approved by the unitholders of the registered business trust, but evidence of approval by the unitholders may be taken into account by the court in making an order under that section.
@@ -1244,13 +1288,15 @@ CIVIL LIABILITY
 
 (3) In an application made or an action brought or intervened in under section 42, the court may at any time order the trustee-manager of the registered business trust in its capacity as trustee-manager of the registered business trust to pay to the complainant interim costs, including legal fees and disbursements, but the complainant may be accountable for such interim costs upon final disposition of the application or action.
 
+[Companies 1994 Ed., s. 216B]
+
 ## PART VII
 
 WINDING UP OF REGISTERED BUSINESS TRUST
 
 ### Winding up under provision of trust deed
 
-44\.—(1) Subject to subsection (2), the trust deed of a registered business trust may provide that the registered business trust is to be wound up —
+44\.—(1) Subject to subsection (2), the trust deed of a registered business trust may provide that the registered business trust is to be wound up
 
 (a) at a specified time;
 
@@ -1258,7 +1304,7 @@ WINDING UP OF REGISTERED BUSINESS TRUST
 
 (c) on the happening of a specified event.
 
-(2) For the purposes of this section and section 47, any provision of the trust deed of a registered business trust that purports to provide that that registered business trust is to be wound up if the particular company which is acting as the trustee-manager of that registered business trust ceases to be the trustee-manager of that registered business trust, shall have no effect.
+(2) For the purposes of this section and section 47, any provision of the trust deed of a registered business trust that purports to provide that the registered business trust is to be wound up if the particular company which is acting as the trustee-manager of that registered business trust ceases to be the trustee-manager of that registered business trust, shall have no effect.
 
 (3) The trustee-manager of a registered business trust may wind up the registered business trust —
 
@@ -1268,11 +1314,15 @@ WINDING UP OF REGISTERED BUSINESS TRUST
 
 (c) the winding up of the registered business trust has been approved by a majority of the number of votes of unitholders of the registered business trust who, being entitled to do so, vote in person or, where proxies are allowed, by proxy present at a general meeting convened in accordance with the requirements under Division 1 of Part IX.
 
+[Companies 1994 Ed., s. 290 (1) (a); Aust. Corp. 2001, s. 601NA]
+
 ### Winding up at direction of unitholders
 
 45\.—(1) Notwithstanding any provision in the trust deed of a registered business trust, the trustee-manager of the registered business trust shall wind up the registered business trust upon the passing of a special resolution by the unitholders of the registered business trust at a general meeting convened in accordance with Division 1 of Part IX directing the trustee-manager to wind up the registered business trust.
 
 (2) Any trustee-manager of a registered business trust which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[Companies 1994 Ed., s. 290 (1) (b); Aust. Corp. 2001, s. 601NB]
 
 ### Winding up ordered by court
 
@@ -1284,7 +1334,7 @@ WINDING UP OF REGISTERED BUSINESS TRUST
 
 (c) a unitholder of the registered business trust; or
 
-(d) a creditor of the registered business trust on the basis of subsection (2)(b).
+(d) a creditor of the registered business trust on the basis of subsection (2) (b).
 
 (2) The court may, on an application referred to in subsection (1), order the trustee-manager of a registered business trust to wind up the registered business trust if —
 
@@ -1312,9 +1362,11 @@ and upon such order, the trustee-manager shall wind up the registered business t
 
 (5) Any person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
+[Companies 1994 Ed., ss. 253, 254, 262; Aust. Corp. 2001, s. 601ND]
+
 ### Winding up of registered business trust
 
-47\.—(1) Subject to section 48(1), the trustee-manager of a registered business trust shall ensure that the registered business trust is wound up in accordance with the trust deed of the registered business trust or an order referred to in section 48(2) in all cases of winding-up, including but not limited to the following situations:
+47\.—(1) Subject to section 48(1), the trustee-manager of a registered business trust shall ensure that the registered business trust is wound up in accordance with the trust deed of the registered business trust or an order referred to in section 48(2) in all cases of winding up, including but not limited to the following situations:
 
 (a) the trust deed provides that the registered business trust is to be wound up at a specified time, in specified circumstances or on the happening of a specified event and —
 
@@ -1337,6 +1389,8 @@ and upon such order, the trustee-manager shall wind up the registered business t
 (4) Any trustee-manager of a registered business trust which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
 (5) Any trustee-manager of a registered business trust which contravenes subsection (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[Aust. Corp. 2001, s. 601NE]
 
 ### Court may make other orders for winding up
 
@@ -1366,6 +1420,8 @@ and upon such order, the trustee-manager shall wind up the registered business t
 
 (6) Any person who contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
+[Aust. Corp. 2001, s. 601NF]
+
 ### Unclaimed money to be paid to Official Receiver
 
 49\.—(1) If the trustee-manager of a registered business trust that is being wound up or the liquidator of a registered business trust has in its possession or under its control —
@@ -1392,6 +1448,8 @@ the trustee-manager or the liquidator shall pay those moneys to the Official Rec
 
 (9) Any unclaimed moneys paid to the credit of the Business Trusts Liquidation Account to the extent to which the unclaimed moneys have not been under this section paid out of that Account shall, on the lapse of 7 years from the date of the payment of the moneys to the credit of that Account, be paid into the Consolidated Fund.
 
+[Companies 1994 Ed., s. 322]
+
 ### Responsibility for fraudulent trading
 
 50\.—(1) If, in the course of the winding up of a registered business trust or in any proceedings against the trustee-manager in its capacity as the trustee-manager of the registered business trust, it appears that an officer of the trustee-manager who was knowingly a party to the contracting of a debt on behalf of the registered business trust had, at the time the debt was contracted, no reasonable or probable ground of expectation, after taking into consideration the other liabilities of the registered business trust, if any, at the time, of the trustee-manager being able to pay the debt from the trust property of the registered business trust, the officer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
@@ -1412,6 +1470,8 @@ the trustee-manager or the liquidator shall pay those moneys to the Official Rec
 
 (9) On the hearing of an application under subsection (2) or (3), the liquidator may himself give evidence or call witnesses.
 
+[Companies 1994 Ed., ss. 339 (3), 340]
+
 ## PART VIII
 
 DEREGISTRATION
@@ -1430,9 +1490,11 @@ DEREGISTRATION
 
 (b) are held by no more than 2 persons,
 
-the Authority may deregister the registered business trust and, upon such deregistration, the Authority shall give notice of the deregistration of the registered business trust in theGazette.
+the Authority may deregister the registered business trust and, upon such deregistration, the Authority shall give notice of the deregistration of the registered business trust in the Gazette.
 
 (3) The Authority shall notify the trustee-manager of a registered business trust of the deregistration of the registered business trust.
+
+[Aust. Corp. 2001, s. 601PA]
 
 ### Power of Authority to deregister defunct business trust
 
@@ -1442,9 +1504,11 @@ the Authority may deregister the registered business trust and, upon such deregi
 
 (3) Upon receiving a notice of the completion of the winding up of the registered business trust from the liquidator referred to in subsection (2), as required under section 48(5), the Authority may deregister the registered business trust, and shall publish a notice thereof in theGazette, and on the publication in theGazetteof the notice the business trust shall be deregistered; but the liability, if any, of every officer of the trustee-manager of the business trust and every unitholder of the business trust shall continue and may be enforced as if the business trust had not been wound up.
 
-(4) If any person feels aggrieved by the deregistration of the business trust, the court, on an application made by that person at any time within 6 years after the business trust has been so deregistered may, if satisfied that the trustee-manager of the business trust was, at the time of the deregistration of the business trust, managing and operating the business of the business trust such that it is just that the registration of the business trust should be reinstated, order the registration of the business trust be reinstated, and upon a copy of the order being lodged with the Authority, the business trust shall be deemed to have continued to be registered as if it had never been deregistered, and the court may by the order give such directions and make such provisions as seem just for placing the trustee-manager and all other persons in the same position as nearly as may be as if the business trust had not been deregistered.
+(4) If any person feels aggrieved by the deregistration of the business trust, the court, on an application made by that person at any time within 6 years after the business trust has been so deregistered may, if satisfied that the trustee-manager of the business trust was, at the time of the deregistration of the business trust, managing and operating the business of the business trust such that it is just that the registration of the business trust should be reinstated, order the registration of the business trust be reinstated; and upon a copy of the order being lodged with the Authority, the business trust shall be deemed to have continued to be registered as if it had never been deregistered, and the court may by the order give such directions and make such provisions as seem just for placing the trustee-manager and all other persons in the same position as nearly as may be as if the business trust had not been deregistered.
 
 (5) A notice to be sent under this section to a trustee-manager of a registered business trust may be addressed to the trustee-manager at its registered office or, if no office has been registered, to the care of some officer of the trustee-manager.
+
+[Companies 1994 Ed., s. 344]
 
 ## PART IX
 
@@ -1468,6 +1532,8 @@ Meetings and proceedings
 
 (b) the court may, on the application of any unitholder of the registered business trust, order a general meeting to be called.
 
+[Companies 1994 Ed., s. 175]
+
 ### Convening of extraordinary general meeting on requisition
 
 54\.—(1) The directors of the trustee-manager of a registered business trust shall, notwithstanding any provision in the trust deed of the registered business trust, on the requisition of unitholders holding in the aggregate at the date of the deposit of the requisition not less than 10% of the total voting rights of all the unitholders of the registered business trust having at that date a right to vote at general meetings, immediately proceed duly to convene an extraordinary general meeting of the unitholders of the registered business trust to be held as soon as practicable but in any case not later than 2 months after the receipt by the trustee-manager of the requisition.
@@ -1484,9 +1550,11 @@ Meetings and proceedings
 
 (5) Any trustee-manager of a registered business trust which contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
+[Companies 1994 Ed., s. 176]
+
 ### Calling of meetings
 
-55\.—(1) Two or more unitholders of a registered business trust may call a meeting of unitholders of the registered business trust if they ––
+55\.—(1) Two or more unitholders of a registered business trust may call a meeting of unitholders of the registered business trust if they —
 
 (a) hold in the aggregate not less than 10% of the total voting rights of all the unitholders having at the date of calling of the meeting a right to vote at general meetings of the unitholders of the registered business trust; or
 
@@ -1503,6 +1571,8 @@ Meetings and proceedings
 (4) The trustee-manager of a registered business trust shall serve notice of every meeting on every unitholder of the registered business trust having a right to attend and vote thereat in the manner in which such notice is required to be served under the trust deed of the registered business trust.
 
 (5) Any trustee-manager of a registered business trust which contravenes subsection (2) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Companies 1994 Ed., s. 177]
 
 ### Provision in trust deed as to right to demand poll
 
@@ -1522,6 +1592,8 @@ Meetings and proceedings
 
 (3) A person entitled to vote on a poll at a meeting shall be deemed to be a person entitled to vote for the purposes of this Act.
 
+[Companies 1994 Ed., s. 178]
+
 ### Quorum, chairman, voting, etc., at meetings
 
 57\.—(1) So far as the trust deed of a registered business trust does not make any other provision in that behalf and subject to section 58 —
@@ -1536,15 +1608,19 @@ Meetings and proceedings
 
 (2) On a poll taken at a meeting, a person entitled to more than one vote need not, if he votes, use all his votes or cast all the votes he uses in the same way.
 
+[Companies 1994 Ed., s. 179]
+
 ### Voting rights in respect of units in registered business trusts
 
-5\. 
+58\. Notwithstanding any provision in this Act or in the trust deed of a registered business trust, but subject to section 59, each unit in a registered business trust shall confer the right at a poll at any general meeting of the unitholders of the registered business trust to one vote, and to one vote only.
 
-(8) . Notwithstanding any provision in this Act or in the trust deed of a registered business trust, but subject to section 59, each unit in a registered business trust shall confer the right at a poll at any general meeting of the unitholders of the registered business trust to one vote, and to one vote only.
+[Companies 1994 Ed., s. 64]
 
 ### Unitholder’s rights at meetings
 
 59\. Every unitholder of a registered business trust shall, notwithstanding any provision in the trust deed of the registered business trust, have a right to attend any general meeting of the unitholders of the registered business trust and to speak and vote on any resolution before the meeting, except that the trust deed may provide that a unitholder shall not be entitled to vote unless all calls or other sums personally payable by him in respect of units in the registered business trust have been paid.
+
+[Companies 1994 Ed., s. 180]
 
 ### Proxies
 
@@ -1568,17 +1644,21 @@ Meetings and proceedings
 
 (7) Any trustee-manager of a registered business trust which contravenes subsection (3) shall be guilty of an offence.
 
+[Companies 1994 Ed., s. 181]
+
 ### Power of court to order meeting
 
 61\. If for any reason it is impracticable to call a meeting in any manner in which meetings may be called or to conduct the meeting in the manner provided by the trust deed or under this Act, the court may, either of its own motion or on the application of any director of the trustee-manager of a registered business trust or of any unitholder of the registered business trust who would be entitled to vote at the meeting or of the personal representative of any deceased unitholder of the registered business trust, order a meeting to be called, held and conducted in such manner as the court thinks fit, and may give such ancillary or consequential directions as it thinks expedient, including a direction that one unitholder present in person or by proxy shall be deemed to constitute the quorum for a meeting or that the personal representative of any deceased unitholder may exercise all or any of the powers that the deceased unitholder could have exercised if he were present at the meeting.
+
+[Companies 1994 Ed., s. 182]
 
 ### Circulation of unitholders’ resolutions, etc.
 
 62\.—(1) Subject to this section, the trustee-manager of a registered business trust shall, on the requisition of such number of unitholders of the registered business trust specified in subsection (2) and unless the unitholders of the registered business trust otherwise resolve at a general meeting, at the expense of the requisitionists —
 
-(a) give to the unitholders of the registered business trust entitled to receive notice of the next annual general meeting notice of any resolution which may properly be moved and is intended to be moved at that meeting; and
+(a) give to the unitholders of the registered business trust entitled to receive notice of the next annual general meeting, notice of any resolution which may properly be moved and is intended to be moved at that meeting; and
 
-(b) circulate to the unitholders entitled to have notice of any general meeting sent to them any statement of not more than 1,000 words with respect to the matter referred to in any proposed resolution or the business to be dealt with at that meeting.
+(b) circulate to the unitholders entitled to have notice of any general meeting sent to them, any statement of not more than 1,000 words with respect to the matter referred to in any proposed resolution or the business to be dealt with at that meeting.
 
 (2) The number of unitholders of a registered business trust necessary for a requisition under subsection (1) shall be —
 
@@ -1586,7 +1666,7 @@ Meetings and proceedings
 
 (b) not less than 100 unitholders holding units in the registered business trust on which there has been paid up an average sum, per unitholder, of not less than $500.
 
-(3) The trustee-manager of a registered business trust shall give the notice of a resolution and the statement referred to in subsection (1) to the unitholders of the registered business trust entitled to have notice of the meeting sent to them by serving on each unitholder, in any manner permitted for service of the notice of the meeting, a copy of the resolution and statement.
+(3) The trustee-manager of a registered business trust shall give the notice of a resolution and the statement referred to in subsection (1)(b) to the unitholders of the registered business trust entitled to have notice of the meeting sent to them by serving on each unitholder, in any manner permitted for service of the notice of the meeting, a copy of the resolution and statement.
 
 (4) The trustee-manager of a registered business trust shall serve the copy of the resolution referred to in subsection (3) in the same manner and, so far as practicable, at the same time as the notice of the meeting and, where it is not practicable for it to be served or given at that time, the trustee-manager shall serve the copy of the resolution or give notice of the general effect of the resolution as soon as practicable thereafter.
 
@@ -1604,6 +1684,8 @@ Meetings and proceedings
 
 (9) Any trustee-manager of a registered business trust which contravenes subsection (1), (3) or (4) shall be guilty of an offence.
 
+[Companies 1994 Ed., s. 183]
+
 ### Special resolutions
 
 63\.—(1) A resolution shall be considered a special resolution when it has been passed by the unitholders of a registered business trust holding in the aggregate not less than three-fourths of the voting rights of all the unitholders of the registered business trust who, being entitled to do so, vote in person or, where proxies are allowed, by proxy present at a general meeting of which not less than 21 days’ written notice specifying the intention to propose the resolution as a special resolution has been duly given.
@@ -1620,6 +1702,8 @@ Meetings and proceedings
 
 (5) In computing the majority on a poll demanded on the question that a special resolution be passed, reference shall be had to the number of votes cast for and against the resolution and to the number of votes to which each unitholder is entitled by this Act or the trust deed of the registered business trust.
 
+[Companies 1994 Ed., s. 184]
+
 ### Resolutions requiring special notice
 
 64\.—(1) Subject to subsection (2), where by this Act special notice is required of a resolution, the resolution shall not be effective unless —
@@ -1629,6 +1713,8 @@ Meetings and proceedings
 (b) the trustee-manager of a registered business trust has given the unitholders of the registered business trust notice of any such resolution at the same time and in the same manner as it gives notice of the meeting or, if that is not practicable, has given them notice thereof, in any manner allowed by the trust deed of the registered business trust, not less than 14 days before the meeting.
 
 (2) If a meeting is called for a date 28 days or less after notice of the intention to move a resolution referred to in subsection (1) has been given to the trustee-manager of the registered business trust, such notice shall, although not given to the trustee-manager within the time required by that subsection, be deemed to be properly given.
+
+[Companies 1994 Ed., s. 185]
 
 ### Registration and copies of certain resolutions
 
@@ -1644,9 +1730,13 @@ within one month after the passing or making thereof.
 
 (3) Any trustee-manager of a registered business trust which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
 
+[Companies 1994 Ed., s. 186]
+
 ### Resolutions at adjourned meetings
 
 66\. Where a resolution is passed at an adjourned meeting of the unitholders of a registered business trust or of unitholders of any class of units in the registered business trust, the resolution shall for all purposes be treated as having been passed on the date on which it was in fact passed and not on any earlier date.
+
+[Companies 1994 Ed., s. 187]
 
 ### Minutes of proceedings
 
@@ -1666,9 +1756,11 @@ within one month after the passing or making thereof.
 
 (4) Any trustee-manager of a registered business trust which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
+[Companies 1994 Ed., s. 188]
+
 ### Inspection of minute books
 
-68\.—(1) The trustee-manager of a registered business trust shall ––
+68\.—(1) The trustee-manager of a registered business trust shall —
 
 (a) keep the books referred to in section 67(1) at the registered office or the principal place of business in Singapore of the trustee-manager; and
 
@@ -1677,6 +1769,8 @@ within one month after the passing or making thereof.
 (2) The trustee-manager of a registered business trust shall, within 14 days after any unitholder of the registered business trust has made a request in writing for a copy of any minutes specified in section 67(1), furnish that unitholder with a copy of the minutes without charge.
 
 (3) Any trustee-manager of a registered business trust which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[Companies 1994 Ed., s. 189]
 
 Division 2 —
 
@@ -1702,6 +1796,8 @@ Registers
 
 (3) Any trustee-manager of a registered business trust which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
+[SF (Offers of Investments) (Collective Investment Schemes) (Rg 2), r. 7 (1) (f) and (2)]
+
 ### Place at which register is kept
 
 70\.—(1) The trustee-manager of a registered business trust shall keep the register referred to in section 69 at its registered office, but —
@@ -1714,9 +1810,13 @@ Registers
 
 (3) Any trustee-manager of a registered business trust which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
 
+[Companies 1994 Ed., s. 191]
+
 ### Consequences of default by agent
 
 71\. Where, by virtue of section 70(1)(b), the register of the unitholders of a registered business trust is kept at the office of a person other than the trustee-manager of the registered business trust and, by reason of any default of that person, the trustee-manager fails to comply with section 70(1) or (2) or any other provision of this Act as to the production of the register, that person shall be liable to the same penalties as if he were an officer of the trustee-manager in accordance with section 109, and the power of the court under section 102 shall extend to the making of orders against that other person and his officers and employees.
+
+[Companies 1994 Ed., s. 193]
 
 ### Power of court to rectify register
 
@@ -1738,6 +1838,8 @@ the person aggrieved or any unitholder or the trustee-manager of the registered 
 
 (4) No application for the rectification of a register of the unitholders of a registered business trust in respect of an entry which was made in the register more than 30 years before the date of the application shall be entertained by the court.
 
+[Companies 1994 Ed., s. 194]
+
 ### Limitation of liability of trustee, etc., registered as holder of units
 
 73\.—(1) Any trustee, executor or administrator of the estate of any deceased person who was registered in a register of the unitholders of a registered business trust, referred to in section 69(1) and kept in Singapore, as the holder of a unit in the registered business trust may become registered as the holder of that unit as trustee, executor or administrator of that estate and shall in respect of that unit be subject to the same liabilities and no more as he would have been subject to if the unit had remained registered in the name of the deceased person.
@@ -1748,15 +1850,19 @@ the person aggrieved or any unitholder or the trustee-manager of the registered 
 
 (4) Subject to this section, no notice of any trust expressed, implied or constructive shall be entered in a register of the unitholders of a registered business trust referred to in section 69(1) or be receivable by the Authority and no liabilities shall be affected by anything done in pursuance of subsection (1), (2) or (3) or pursuant to the law of any other place which corresponds to this section and the trustee-manager of the registered business trust concerned shall not be affected with notice of any trust by anything so done.
 
+[Companies 1994 Ed., s. 195]
+
 Division 3 —
 
 Annual return
 
 ### Annual returns and information
 
-74\. .—(1) The trustee-manager of a registered business trust shall lodge with the Authority, within one month after the annual general meeting of the unitholders of the registered business trust, a return containing such statements and particulars as may be prescribed by the Authority.
+74\.—(1) The trustee-manager of a registered business trust shall lodge with the Authority, within one month after the annual general meeting of the unitholders of the registered business trust, a return containing such statements and particulars as may be prescribed by the Authority.
 
 (2) Any trustee-manager of a registered business trust which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Companies 1994 Ed., s. 197]
 
 ## PART X
 
@@ -1788,6 +1894,8 @@ Accounts
 
 (8) Any officer of the trustee-manager who knowingly contravenes or permits or authorises the contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
 
+[Companies 1994 Ed., s. 199]
+
 ### Accounts and directors’ report
 
 76\.—(1) The trustee-manager of a registered business trust shall, at a date not later than 18 months after the registration of the registered business trust and subsequently at least once in every calendar year at intervals of not more than 15 months, lay before the unitholders of the registered business trust at their annual general meeting a profit and loss account of the registered business trust for the period since the preceding account (or in the case of the first account, since the registration of the registered business trust) made up to a date —
@@ -1800,7 +1908,7 @@ Accounts
 
 (3) The Authority may, by order published in theGazette, specify such other period in substitution of the period referred to in subsection (1)(a) or (b).
 
-(4) Notwithstanding subsection (1), the Authority may, on application by the trustee-manager of a registered business trust and for any special reason it thinks fit, extend the periods of 18 months and 15 months referred to in that subsection and with respect to any year extend the period referred to in subsection (1)(a) or (b), notwithstanding that that period is so extended beyond the calendar year.
+(4) Notwithstanding subsection (1), the Authority may, on application by the trustee-manager of a registered business trust and for any special reason it thinks fit, extend the periods of 18 months and 15 months referred to in that subsection and with respect to any year extend the period referred to in subsection (1)(a) or (b), notwithstanding that the period is so extended beyond the calendar year.
 
 (5) The trustee-manager of a registered business trust shall cause to be made out, and to be laid before the unitholders of the registered business trust at their annual general meeting with the profit and loss account required by subsection (1) —
 
@@ -1824,13 +1932,13 @@ Accounts
 
 (c) to ascertain whether any non-current asset is shown in the books of the registered business trust at an amount which, having regard to its value to the registered business trust as a going concern, exceeds the amount which would be recoverable over its useful life or on its disposal and (unless adequate provision for writing down that asset is made) to cause to be included in the accounts such information and explanations as will prevent the accounts from being misleading by reason of the overstatement of the amount of that asset.
 
-(7) The trustee-manager of a registered business trust shall cause ––
+(7) The trustee-manager of a registered business trust shall cause —
 
 (a) the accounts referred to in subsection (9) to be duly audited before they are laid before the unitholders of the registered business trust at their annual general meeting as required by this section; and
 
 (b) the auditor’s report required by section 84 to be attached to or endorsed upon those accounts.
 
-(8) The trustee-manager of a registered business trust shall ––
+(8) The trustee-manager of a registered business trust shall —
 
 (a) take reasonable steps to ensure that the accounts referred to in subsection (9) are audited as required by this Part not less than 14 days before the annual general meeting of the unitholders of the registered business trust; and
 
@@ -1838,7 +1946,7 @@ Accounts
 
 (9) In subsections (7) and (8), “accounts” means the profit and loss account, balance sheet and cash flow statement of a registered business trust required to be laid before the unitholders of the registered business trust at the annual general meeting under subsections (1) and (5).
 
-(10) The trustee-manager of a registered business trust shall cause to be attached to every balance sheet of the registered business trust made out under subsection (5) a report ––
+(10) The trustee-manager of a registered business trust shall cause to be attached to every balance sheet of the registered business trust made out under subsection (5) a report —
 
 (a) containing the information required in subsections (11), (12), (15) and (17) and any other information as may be prescribed by the Authority;
 
@@ -1852,11 +1960,11 @@ Accounts
 
 (b) whether —
 
-(i) at the end of the financial year to which the report relates there subsists any arrangement to which the trustee-manager is a party, being an arrangement whose object is to enable any director or all directors of the trustee-manager to acquire benefits by means of the acquisition of units in, or debentures of, the registered business trust; or
+(i) at the end of the financial year to which the report relates, there subsists any arrangement to which the trustee-manager is a party, being an arrangement whose object is to enable any director or all directors of the trustee-manager to acquire benefits by means of the acquisition of units in, or debentures of, the registered business trust; or
 
 (ii) there have, at any time in that year, subsisted such an arrangement as aforesaid to which the trustee-manager was a party,
 
-and if so the report shall contain a statement explaining the effect of the arrangement and giving the names of the persons who at any time in that year were directors of the trustee-manager and held, or whose nominees held, units in, or debentures of, the registered business trust acquired in pursuance of the arrangement; and
+and if so, the report shall contain a statement explaining the effect of the arrangement and giving the names of the persons who at any time in that year were directors of the trustee-manager and held, or whose nominees held, units in, or debentures of, the registered business trust acquired in pursuance of the arrangement; and
 
 (c) as respects each person who, at the end of the financial year to which the report relates, was a director of the trustee-manager —
 
@@ -1868,7 +1976,7 @@ and if so the report shall contain a statement explaining the effect of the arra
 
 (13) For the avoidance of doubt, the additional information referred to in subsection (12) need not relate to the profit or loss or the state of affairs of the registered business trust referred to in subsection (10).
 
-(14) Every statement, report or other document relating to the affairs of a registered business trust attached to, or included with, a report of the directors of the trustee-manager of a registered business trust laid before the unitholders of the registered business trust at their general meeting or sent to the unitholders under section 78 (not being a statement, report or document required by this Act to be laid before the unitholders in general meeting) shall, for the purposes of section 108, be deemed to be part of that last-mentioned report.
+(14) Every statement, report or other document relating to the state of affairs of a registered business trust attached to, or included with, a report of the directors of the trustee-manager of a registered business trust laid before the unitholders of the registered business trust at their general meeting or sent to the unitholders under section 78 (not being a statement, report or document required by this Act to be laid before the unitholders in general meeting) shall, for the purposes of section 108, be deemed to be part of that last-mentioned report.
 
 (15) Where the trustee-manager of a registered business trust has granted an option to any person to acquire unissued units in the registered business trust, the report required by subsection (10) shall state —
 
@@ -1882,7 +1990,7 @@ and if so the report shall contain a statement explaining the effect of the arra
 
 (17) Each report required by subsection (10) shall specify —
 
-(a) particulars of units issued during the period to which the report relates by virtue of the exercise of options to acquire unissued units in the registered business trust, whether granted before or during that period;
+(a) particulars of units issued during the period to which the report relates by virtue of the exercise of options to acquire unissued units in the registered business trust, whether granted before or during that period; and
 
 (b) the number and class of unissued units in the registered business trust under option as at the end of that period, the price, or method of fixing the price, of issue of those units, and the date of expiration of the option.
 
@@ -1898,6 +2006,8 @@ and if so the report shall contain a statement explaining the effect of the arra
 
 (19) Any trustee-manager of a registered business trust which contravenes subsection (1), (2), (5), (6), (7), (8), (10) or (18) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
+[Companies 1994 Ed., s. 201]
+
 ### Relief from requirements as to form and content of accounts and reports
 
 77\.—(1) The trustee-manager of a registered business trust may apply to the Authority in writing for an order relieving the trustee-manager from any requirement of this Act relating to the form and content of accounts or to the form and content of the report required by section 76(11) and the Authority may make such an order either unconditionally or on condition that the trustee-manager complies with such other requirements relating to the form and content of the accounts or report as the Authority thinks fit to impose.
@@ -1907,6 +2017,8 @@ and if so the report shall contain a statement explaining the effect of the arra
 (3) The Authority shall not make an order under subsection (1) unless it is of the opinion that compliance with the requirements of this Act would render the accounts or report, as the case may be, misleading or inappropriate to the circumstances of the registered business trust or would impose unreasonable burdens on the trustee-manager of the registered business trust or any officer of the trustee-manager.
 
 (4) The Authority may make an order under subsection (1) which may be limited to a specific period and may, from time to time, either on application by the trustee-manager of the registered business trust or without any such application (in which case the Authority shall give to the trustee-manager an opportunity of being heard) revoke or suspend the operation of any such order.
+
+[Companies 1994 Ed., s. 202]
 
 ### Unitholders of registered business trust entitled to balance sheet, etc.
 
@@ -1920,6 +2032,8 @@ and if so the report shall contain a statement explaining the effect of the arra
 
 (3) Any trustee-manager of a registered business trust which contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
+[Companies 1994 Ed., s. 203]
+
 ### Provision of summary financial statement to unitholders
 
 79\.—(1) Notwithstanding section 78 and anything in the trust deed of a registered business trust the units of which are listed on the securities exchange, the trustee-manager of the registered business trust may, in such cases as may be prescribed by the Authority and provided all the conditions imposed thereunder by the Authority are complied with, send a summary financial statement of the registered business trust complying with the requirements of subsections (4) and (5) instead of copies of the documents referred to in section 78(1) to the unitholders of the listed registered business trust.
@@ -1930,7 +2044,7 @@ and if so the report shall contain a statement explaining the effect of the arra
 
 (4) The trustee-manager of a listed registered business trust shall send the documents referred to in section 78(1) to any unitholder of the listed registered business trust who wishes to receive such documents.
 
-(5) The summary financial statement referred to in subsection (1) ––
+(5) The summary financial statement referred to in subsection (1) —
 
 (a) shall be derived from the annual accounts of the listed registered business trust and the report of the directors of the trustee-manager of the listed registered business trust; and
 
@@ -1948,6 +2062,8 @@ and if so the report shall contain a statement explaining the effect of the arra
 
 (9) In this section, “listed registered business trust” means a registered business trust that has been admitted to the official list of a securities exchange in Singapore and has not been removed from that list.
 
+[Companies 1994 Ed., s. 203A]
+
 ### Penalty
 
 80\.—(1) If any director of the trustee-manager of a registered business trust —
@@ -1963,6 +2079,8 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 (3) If an offence under this section is committed with intent to defraud any creditor of the registered business trust or any creditor of any other person or for a fraudulent purpose, the offender shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 7 years or to both.
 
 (4) No person shall be sentenced to imprisonment for any offence under this section unless, in the opinion of the court dealing with the case, the offence was committed wilfully.
+
+[Companies 1994 Ed., s. 204]
 
 Division 2 —
 
@@ -1986,7 +2104,7 @@ Audit
 
 (d) if he is responsible for or if he is the partner, employer or employee of a person responsible for the keeping of the register of unitholders of the registered business trust.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence.
+(2) Any person who contravenes subsection (1)docId=;docVerId=;transactionDate=;provId=pr79-ps1-;fragId=18ea3be0-6ce5-4350-8a65-061e47f11f37;urn=;validDate=;validated=valid shall be guilty of an offence.
 
 (3) For the purposes of subsection (1), a person shall be deemed to be an officer of the trustee-manager of a registered business trust if he is an officer of a related corporation of the trustee-manager except where the Authority, if it thinks fit in the circumstances of the case, directs otherwise, if he has, at any time within the preceding period of 12 months, been an officer or a promoter of the trustee-manager or of such a corporation.
 
@@ -2000,9 +2118,7 @@ Audit
 
 (a) any director of the corporation (whether or not he is a public accountant); or
 
-(b) any employee of the corporation, who is a public accountant and practising as such in that corporation,
-
-is a person described in subsection (1)(b), (c) or (d).
+(b) any employee of the corporation, who is a public accountant and practising as such in that corporation, is a person described in subsection (1)(b), (c) or (d).
 
 (8) If an accounting corporation contravenes subsection (7) —
 
@@ -2024,9 +2140,11 @@ shall be guilty of an offence.
 
 (14) In this section —
 
-“accounting corporation” means a company approved or deemed to be approved as an accounting corporation under the Accountants Act 2004 (Act 4 of 2004);
+“accounting corporation” means a company approved or deemed to be approved as an accounting corporation under the Accountants Act (Cap. 2);
 
-“accounting firm” means a firm approved or deemed to be approved as an accounting firm under the Accountants Act 2004.
+“accounting firm” means a firm approved or deemed to be approved as an accounting firm under the Accountants Act.
+
+[Companies 1994 Ed., s. 10]
 
 ### Appointment of auditor
 
@@ -2044,13 +2162,14 @@ shall be guilty of an offence.
 
 (b) the auditor may, within 7 days after the receipt by him of the copy of the notice, make representations in writing to the trustee-manager and request that, prior to the meeting at which the resolution is to be considered, a copy of the representations be sent by the trustee-manager to every unitholder of the registered business trust to whom notice of the meeting is sent.
 
-(6) Unless the Authority, on the application of the trustee-manager of a registered business trust, orders otherwise, the trustee-manager shall send a copy of the representations referred to in subsection (5)(b) as so requested and the auditor may, without prejudice to his right to be heard orally, require that the representations be read out at the meeting.
+(6) Unless the Authority, on the application of the trustee-manager of a registered business trust, orders otherwise, the trustee-manager shall send a copy of the representations referred to in
+subsection (5)(b) as so requested and the auditor may, without prejudice to his right to be heard orally, require that the representations be read out at the meeting.
 
 (7) Where an auditor of a registered business trust is removed from office under subsection (4) at a general meeting of the unitholders of the registered business trust —
 
 (a) the unitholders of the registered business trust may, at the meeting and by a resolution passed by unitholders holding in the aggregate not less than three-fourths of the voting rights of all the unitholders of the registered business trust who, being entitled to do so, vote in person or, where proxies are allowed, by proxy, immediately appoint another person nominated by the audit committee of the registered business trust as auditor; or
 
-(b) the meeting may be adjourned to a date not earlier than 20 days and not later than 30 days after the meeting and the unitholders of the registered business trust may, by resolution passed by unitholders holding in the aggregate a majority of the voting rights of all the unitholders of the registered business trust who, being entitled to do so, vote in person or, where proxies are allowed, by proxy, appoint another person as auditor, being a person who is nominated by the audit committee of the registered business trust.
+(b) the meeting may be adjourned to a date not earlier than 20 days and not later than 30 days after the meeting and the unitholders of the registered business trust may, by resolution passed by unitholders holding in the aggregate a majority of the voting rights of all the unitholders of the registered business trust who, being entitled to do so, vote in person or, where proxies are allowed, by proxy, appoint another person nominated by the audit committee of the registered business trust as auditor.
 
 (8) Any trustee-manager of a registered business trust shall, immediately after the removal of an auditor from office under subsection (4), give notice in writing of the removal to the Authority and, if the unitholders of the registered business trust do not appoint another auditor under subsection (7), the Authority shall appoint an auditor.
 
@@ -2058,7 +2177,7 @@ shall be guilty of an offence.
 
 (10) If the trustee-manager of a registered business trust does not appoint an auditor or auditors as required by this section, the Authority may, on the application in writing of any unitholder of the registered business trust, make the appointment.
 
-(11) The trustee-manager of a registered business trust shall, not less than 14 days before the annual general meeting of the unitholders of the registered business trust or the adjourned meeting under subsection (7)(b), give notice of the nomination made by the audit committee of the registered business trust to ––
+(11) The trustee-manager of a registered business trust shall, not less than 14 days before the annual general meeting of the unitholders of the registered business trust or the adjourned meeting under subsection (7)(b), give notice of the nomination made by the audit committee of the registered business trust to —
 
 (a) the person so nominated;
 
@@ -2084,6 +2203,8 @@ but not otherwise.
 
 (15) Any person who contravenes subsection (1), (5), (6), (8), (11), (12) or (13) shall be guilty of an offence.
 
+[Companies 1994 Ed., s. 205]
+
 ### Auditors’ remuneration
 
 83\.—(1) If the trustee-manager of a registered business trust is served with a notice sent by or on behalf of —
@@ -2104,11 +2225,13 @@ requiring particulars of all emoluments paid to or receivable by the auditor of 
 
 (3) Any trustee-manager of a registered business trust which contravenes subsection (1) or (2) shall be guilty of an offence.
 
+[Companies 1994 Ed., s. 206]
+
 ### Powers and duties of auditors as to reports on accounts
 
 84\.—(1) An auditor of a registered business trust shall report to the unitholders of the registered business trust on the accounts required to be laid before the unitholders in general meeting and on the accounting and other records of the registered business trust relating to those accounts.
 
-(2) A report by an auditor of a registered business trust under subsection (1) shall be furnished by the auditor to the trustee-manager of the registered business trust in sufficient time to enable the trustee-manager to comply with the requirements of section 78(1) in relation to that report but no offence shall be committed by an auditor under this subsection if the trustee-manager has not submitted the accounts for audit as required under this Part in sufficient time, having regard to the complexity of the accounts, for the auditor to make his report.
+(2) A report by an auditor of a registered business trust under subsection (1) shall be furnished by the auditor to the trustee-manager of the registered business trust in sufficient time to enable the trustee-manager to comply with the requirements of section 78(1) in relation to that report, but no offence shall be committed by an auditor under this subsection if the trustee-manager has not submitted the accounts for audit as required under this Part in sufficient time, having regard to the complexity of the accounts, for the auditor to make his report.
 
 (3) An auditor of a registered business trust shall, in a report under this section, state —
 
@@ -2130,7 +2253,7 @@ requiring particulars of all emoluments paid to or receivable by the auditor of 
 
 (d) if he is not satisfied as to any matter referred to in paragraph (a) or (b), his reasons for not being so satisfied.
 
-(4) It shall be the duty of an auditor of a registered business trust to form an opinion as to ––
+(4) It shall be the duty of an auditor of a registered business trust to form an opinion as to —
 
 (a) whether he has obtained all the information and explanations that he required; and
 
@@ -2138,13 +2261,13 @@ requiring particulars of all emoluments paid to or receivable by the auditor of 
 
 and he shall state in his report particulars of any deficiency, failure or short-coming in respect of any matter referred to in this subsection.
 
-(5) An auditor of a registered business trust ––
+(5) An auditor of a registered business trust —
 
 (a) shall have right of access at all times to the accounting and other records, including registers, of the registered business trust; and
 
 (b) shall be entitled to require from any officer of the trustee-manager of the registered business trust and any auditor of a related corporation of the trustee-manager such information and explanations as the auditor may desire for the purposes of audit.
 
-(6) The auditor’s report shall ––
+(6) The auditor’s report shall —
 
 (a) be attached to or endorsed on the accounts;
 
@@ -2152,7 +2275,7 @@ and he shall state in his report particulars of any deficiency, failure or short
 
 (c) be open to inspection by any unitholder of the registered business trust at any reasonable time.
 
-(7) An auditor of a registered business trust or his agent authorised by him in writing for the purpose shall be entitled ––
+(7) An auditor of a registered business trust or his agent authorised by him in writing for the purpose shall be entitled —
 
 (a) to attend any general meeting of the unitholders of the registered business trust;
 
@@ -2180,6 +2303,8 @@ he shall immediately report the matter in writing to the Authority.
 
 (12) Any officer of the trustee-manager of a registered business trust who refuses or fails to allow an auditor of the registered business trust access, in accordance with this section, to any accounting and other records, including registers, of the registered business trust in his custody or control or to give any information or explanation as and when required under this section, or otherwise hinders, obstructs or delays an auditor in the performance of his duties or the exercise of his powers, shall be guilty of an offence.
 
+[Companies 1994 Ed., s. 207]
+
 ### Auditors and other persons to enjoy qualified privilege in certain circumstances
 
 85\.—(1) An auditor of a registered business trust shall not, in the absence of malice on his part, be liable to any action for defamation at the suit of any person in respect of any statement which he makes in the course of his duties as auditor, whether the statement is made orally or in writing.
@@ -2187,6 +2312,8 @@ he shall immediately report the matter in writing to the Authority.
 (2) A person shall not, in the absence of malice on his part and in the course of his duties, be liable to any action for defamation at the suit of any other person in respect of the publication of any document prepared by an auditor of a registered business trust and required by this Act to be lodged with the Authority.
 
 (3) This section shall not limit or affect any other right, privilege or immunity that an auditor or any other person has as defendant in an action for defamation.
+
+[Companies 1994 Ed., s. 208]
 
 Division 3 —
 
@@ -2242,7 +2369,7 @@ the trustee-manager need not annex the written statement required by subsection 
 
 (b) in relation to a corporation which is a controlling shareholder of the trustee-manager of a registered business trust or a controlling unitholder of a registered business trust, means any corporation which is its related corporation or associated company;
 
-“associated company”, in relation to a corporation, means —
+“associated company”, in relation to a corporation, means
 
 (a) any corporation in which the corporation or its subsidiary has, or the corporation and its subsidiary together have, an interest in shares entitling the beneficial owners thereof the right to cast, whether by proxy or in person, not less than 20% but not more than 50% of the total votes able to be cast at a general meeting of the corporation; or
 
@@ -2262,7 +2389,7 @@ the trustee-manager need not annex the written statement required by subsection 
 
 but excludes any capacity to influence decisions on the financial and operating policies of a corporation where such influence is required to be exercised for the benefit of other persons pursuant to an obligation imposed under any written law, rule of law, contract or order of court;
 
-“controlling shareholder”, in relation to a corporation, means —
+“controlling shareholder”, in relation to a corporation, means
 
 (a) a person who has an interest in the voting shares of a corporation and who exercises control over the corporation; or
 
@@ -2310,11 +2437,13 @@ APPEALS
 
 (4) The Minister shall consider the report submitted under subsection (3) in making his decision under this section but he shall not be bound by the recommendations in the report.
 
+[SFA 2002 Ed., s. 310]
+
 ### Appeal Advisory Committees
 
 89\.—(1) For the purpose of enabling Appeal Advisory Committees to be constituted under section 88, the Minister shall appoint a panel (referred to in this Part as the Appeal Advisory Panel) comprising such members from the public and private sectors as the Minister may appoint.
 
-(2) A member of the Appeal Advisory Panel shall be appointed for a term of not more than 2 years and shall be eligible for re-appointment.
+(2) A member of the Appeal Advisory Panel shall be appointed for a term of not more than 2 years and shall be eligible for reappointment.
 
 (3) An Appeal Advisory Committee shall have the power, in the exercise of its functions, to inquire into any matter or thing and may, for this purpose, summon any person to give evidence on oath or affirmation or produce any document or material necessary for the purpose of the inquiry.
 
@@ -2332,9 +2461,13 @@ APPEALS
 
 (8) Subject to the provisions of this Part, an Appeal Advisory Committee may regulate its own procedure and shall not be bound by the rules of evidence.
 
+[SFA 2002 Ed., s. 311]
+
 ### Disclosure of information
 
 90\. Nothing in this Act shall require the Minister or any public servant to disclose facts which he considers to be against the interest of the public to disclose.
+
+[SFA 2002 Ed., s. 312]
 
 ### Regulations for purposes of this Part
 
@@ -2351,6 +2484,8 @@ APPEALS
 (d) the remuneration of the members of the Appeal Advisory Panel and Appeal Advisory Committees; and
 
 (e) all matters and things which by this Part are required or permitted to be prescribed or which are necessary or expedient to be prescribed to give effect to any provision of this Part.
+
+[SFA 2002 Ed., s. 313]
 
 ## PART XII
 
@@ -2398,11 +2533,13 @@ that notice may be given, sent or served using electronic communications to the 
 
 (6) The trustee-manager of a registered business trust may, notwithstanding any provision to the contrary in the trust deed of the registered business trust, take advantage of subsection (1), (2), (3), (4) or (5).
 
-(7) For the purpose of this section and section 93, the current address of a person or a company, in relation to any notice or document, is a number or address used for electronic communication which —
+(7) For the purposes of this section and section 93, the current address of a person or a company, in relation to any notice or document, is a number or address used for electronic communication which —
 
-(a) has been notified by the person in writing to the trustee-manager of a registered business trust as one at which that notice or document may be sent to him; and
+(a) has been notified by the person in writing to the trustee-manager of a registered business trust as one at which the notice or document may be sent to him; and
 
-(b) the trustee-manager has no reason to believe that that notice or document sent to the person at that address will not reach him.
+(b) the trustee-manager has no reason to believe that the notice or document sent to the person at that address will not reach him.
+
+[Companies 1994 Ed., s. 387A]
 
 ### Electronic transmission of documents
 
@@ -2436,7 +2573,7 @@ that document may be given, sent or served using electronic communications to th
 
 (a) the document is published on and remains accessible to that person from the website throughout a period beginning before the specified number of days before the date of the meeting and ending with the conclusion of the meeting; and
 
-(b) the notification given for the purpose of subsection (2)(d) is given not less than the specified number of days before the date of the meeting.
+(b) the notification given for the purpose of subsection (2) (d) is given not less than the specified number of days before the date of the meeting.
 
 (4) Nothing in subsection (3) shall invalidate the proceedings of a meeting where —
 
@@ -2446,23 +2583,31 @@ that document may be given, sent or served using electronic communications to th
 
 (5) The trustee-manager of a registered business trust may, notwithstanding any provision to the contrary in the trust deed of the registered business trust, take advantage of subsection (1), (2), (3) or (4).
 
+[Companies 1994 Ed., s. 387B]
+
 ### Trustees Act not to apply to registered business trusts
 
-94\. The Trustees Act (Cap. 337) shall not apply to a registered business trust, notwithstanding that the business trust was constituted before the date of commencement of this Act.
+94\. The Trustees Act (Cap. 337) shall not apply to a registered business trust, notwithstanding that the business trust was constituted before 12th October 2004.
 
 ### Non-applicability of rules relating to perpetuities, accumulations and inalienability of property to registered business trusts
 
-95\. The rules of law relating to perpetuities, accumulations and inalienability of property shall not apply to any registered business trust, notwithstanding that the business trust was constituted before the date of commencement of this Act.
+95\. The rules of law relating to perpetuities, accumulations and inalienability of property shall not apply to any registered business trust, notwithstanding that the business trust was constituted before 12th October 2004.
+
+[Aust. Corp. 2001, s. 1346]
 
 ### Opportunity to be heard
 
 96\. Where this Act provides for a person to be given an opportunity to be heard by the Authority, the Authority may prescribe the manner in which the person shall be given an opportunity to be heard.
+
+[SFA 2002 Ed., s. 316]
 
 ### Appointment of assistants
 
 97\.—(1) The Authority may appoint any person to exercise any of its powers or perform any of its functions or duties under this Act, either generally or in any particular case, except the power to make subsidiary legislation.
 
 (2) Any person appointed by the Authority under subsection (1) shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
+
+[SFA 2002 Ed., s. 320]
 
 ### Codes, guidelines, etc., issued by Authority
 
@@ -2498,6 +2643,8 @@ that document may be given, sent or served using electronic communications to th
 
 (9) In this section, “no-action letter” means a letter written by the Authority to an applicant for such a letter to the effect that, if the facts are as represented by the applicant, the Authority will not institute proceedings against the applicant in respect of a particular state of affairs or particular conduct.
 
+[SFA 2002 Ed., s. 321]
+
 ### Translation of instruments
 
 99\.—(1) Where a person submits or furnishes to or lodges with the Authority any book, application, return, report, statement or other information or document under this Act which is not in the English language, the person shall, at the same time or at such other time as may be permitted by the Authority, submit or furnish to or lodge with the Authority, as the case may be, an accurate translation thereof in the English language.
@@ -2514,7 +2661,7 @@ that document may be given, sent or served using electronic communications to th
 
 (5) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000.
 
-(6) Where a person is charged with an offence under subsection (5), it shall be a defence for the person to prove that —
+(6) Where a person is charged with an offence under subsection (5)docId=;docVerId=;transactionDate=;provId=pr82-ps5-;fragId=dd05d826-320d-49fe-b3db-e77de7663988;urn=;validDate=;validated=valid, it shall be a defence for the person to prove that —
 
 (a) he had taken all reasonable steps to ensure that the translation that was submitted or furnished to or lodged with the Authority, made available for inspection, or maintained or kept, as the case may be, was accurate in the circumstances; and
 
@@ -2522,9 +2669,13 @@ that document may be given, sent or served using electronic communications to th
 
 (7) In subsections (1), (2) and (3), “Act” includes any direction made by the Authority under this Act.
 
+[Companies 1994 Ed., s. 397; SFA 2002 Ed., s. 318A]
+
 ### Right of Authority and unitholders to apply to court for order
 
 100\. Without prejudice to any other right of action or remedy under any written law or rule of law, the Authority or a unitholder of a registered business trust may apply to the court for an order to compel the trustee-manager of the registered business trust to perform its duties as set out in the trust deed of the registered business trust, and the court may either make the order on such terms as it considers appropriate or dismiss the application.
+
+[SFA 2002 Ed., s. 267A]
 
 ### Power of court to make certain orders
 
@@ -2550,11 +2701,15 @@ the court may, without prejudice to any orders it would be entitled to make othe
 
 (5) The court may, on the application of an affected person or of its own motion, rescind, vary or discharge an order made by it under this section or suspend the operation of such an order.
 
+[SFA 2002 Ed., s. 325]
+
 ### Court may compel compliance
 
 102\.—(1) If any person in contravention of this Act refuses or fails to permit the inspection of any register, minute book or document or to supply a copy of any register, minute book or document, the court may by order compel an immediate inspection of the register, minute book or document or order the copy to be supplied.
 
 (2) If any officer or former officer of the trustee-manager of a registered business trust has failed or omitted to do any act, matter or thing which under this Act he is or was required or directed to do, the court may, on the application of the Authority, any unitholder of the registered business trust, the trustee-manager or the liquidator of the registered business trust, by order, require that officer or former officer to do such act, matter or thing immediately or within such time as is allowed by the order and, for the purpose of complying with any such order, a former officer shall be deemed to have the same status, powers and duties as he had at the time the act, matter or thing should have been done.
+
+[Companies 1994 Ed., s. 399]
 
 ### Power of Minister to appoint inspector
 
@@ -2569,6 +2724,8 @@ the court may, without prejudice to any orders it would be entitled to make othe
 (2) An inspector appointed under subsection (1) shall have all the powers conferred upon an inspector under Part IX of the Companies Act (Cap. 50) and that Part shall apply, with the necessary modifications, to such investigation.
 
 (3) Any inspector appointed under subsection (1) shall report the results of his investigation to the Minister and the Minister may, if he thinks it in the public interest to do so, cause the report to be printed and published.
+
+[Companies 1994 Ed., s. 230; SFA 2002 Ed., s. 151]
 
 ### Injunctions
 
@@ -2614,6 +2771,8 @@ make an order requiring the first-mentioned person to do that act or thing.
 
 (11) Subsection (7) shall not affect the powers of the court in relation to the punishment for contempt of court.
 
+[SFA 2002 Ed., s. 326]
+
 ### Power of court to grant relief
 
 105\.—(1) If, in any civil proceedings for negligence, default, breach of duty or breach of trust against a person to whom this section applies, it appears to the court before which the proceedings are taken that he is or may be liable in respect thereof but that he has acted honestly and reasonably and that, having regard to all the circumstances of the case, including those connected with his appointment, he ought fairly to be excused for the negligence, default or breach, the court may relieve him either wholly or partly from his liability on such terms as the court thinks fit.
@@ -2632,9 +2791,13 @@ make an order requiring the first-mentioned person to do that act or thing.
 
 (d) persons who are liquidators appointed or directed by the court to carry out any duty under this Act in relation to a registered business trust and all other persons so appointed or so directed.
 
+[Companies 1994 Ed., s. 391]
+
 ### Jurisdiction of court
 
 106\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
+
+[SFA 2002 Ed., s. 327]
 
 ### Duty not to furnish false information to Authority
 
@@ -2646,6 +2809,8 @@ make an order requiring the first-mentioned person to do that act or thing.
 
 (4) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
+[SFA 2002 Ed., s. 329]
+
 ### False and misleading statement
 
 108\. Every person who in any return, report, certificate or other document required by or for the purposes of this Act —
@@ -2655,6 +2820,8 @@ make an order requiring the first-mentioned person to do that act or thing.
 (b) wilfully omits or authorises the accession of any matter or thing without which the document is misleading in a material respect,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Companies 1994 Ed., s. 401]
 
 ### Offences by bodies corporate, etc.
 
@@ -2696,6 +2863,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (6) Regulations may provide for the application of any provision of this section, with such modifications as the Authority considers appropriate, to a body corporate or unincorporated association formed or recognised under the law of a territory outside Singapore.
 
+[SFA 2002 Ed., s. 331]
+
 ### General penalties
 
 110\. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $50,000.
@@ -2703,6 +2872,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 ### Composition of offences
 
 111\. The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine that is prescribed for the offence.
+
+[SFA 2002 Ed., s. 336]
 
 ### General exemption
 
@@ -2719,6 +2890,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 (c) may be withdrawn at any time by the Authority.
 
 (4) Any person who contravenes any term or condition prescribed under subsection (1) or specified by the Authority under subsection (3)(a) shall be guilty of an offence.
+
+[SFA 2002 Ed., s. 100]
 
 ### Amendment of Schedule
 
@@ -2754,25 +2927,13 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (c) may provide for penalties not exceeding a fine of $50,000 or imprisonment for a term not exceeding 12 months or both for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction.
 
-### Consequential amendments to Monetary Authority of Singapore Act
-
-115\. Section 4 of the Monetary Authority of Singapore Act (Cap. 186) is amended —
-
-(a) by deleting the word “and” at the end of paragraph (ca); and
-
-(b) by deleting the full-stop at the end of paragraph (d) and substituting the word “; and”, and by inserting immediately thereafter the following paragraph:
-
-“
-
-(e) to exercise the powers and to perform the duties and functions conferred on the Authority under the Business Trusts Act 2004 and by any other written law.
-
-”.
+[SFA 2002 Ed., s. 341]
 
 ## THE SCHEDULE
 
-Sections 2 and 113.
+Sections 2 and 113
 
-TYPES OF TRUST THAT ARE NOT REGARDED AS BUSINESs TRUSTs FOR PURPOSES OF ACT
+Types of Trusts That Are Not Regarded As Business Trusts for Purposes of Act
 
 1\. A trust operated by a person otherwise than by way of business.
 
@@ -2794,3 +2955,64 @@ TYPES OF TRUST THAT ARE NOT REGARDED AS BUSINESs TRUSTs FOR PURPOSES OF ACT
 
 10\. A trust arising out of a life policy within the meaning of the Insurance Act (Cap. 142).
 
+## LEGISLATIVE SOURCE KEY
+
+Business Trusts Act
+
+(CHAPTER 31A)
+
+Notes:— Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+
+Companies 1994 Ed.
+
+:
+
+Singapore, Companies Act (Chapter 50, 1994 Revised Edition)
+
+FAA 2002 Ed.
+
+:
+
+Singapore, Financial Advisers Act (Chapter 110, 2002 Revised Edition)
+
+SFA 2002 Ed.
+
+:
+
+Singapore, Securities and Futures Act (Chapter 289, 2002 Revised Edition)
+
+SF (Offers of Investments) (Collective Investment Schemes) (Rg 2)
+
+:
+
+Singapore, Securities and Futures (Offers of Investments) (Collective Investment Schemes) Regulations (Chapter 289, Rg 2, 2004 Revised Edition)
+
+Aust. Corp. 2001
+
+:
+
+Australia, Corporations Act 2001 (Commonwealth) (Act 50 of 2001)
+
+Delaware Stat. Trust
+
+:
+
+Delaware, Statutory Trust Act (12 Delaware Code Annotated 2005)
+
+## LEGISLATIVE HISTORY
+
+Business Trusts Act
+
+(CHAPTER 31A)
+
+This Legislative History is provided for the convenience of users of the Business Trusts Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 30 of 2004—Business Trusts Act 2005**|
+||Date of First Reading|20 July 2004|
+|||(Bill No. 28/2004 published on 21 July 2004)|
+||Date of Second and Third Readings|1 September 2004|
+||Date of commencement|12 October 2004|
+|2.|**2005 Revised Edition—Business Trusts Act**|
+||Date of operation|31 July 2005|
