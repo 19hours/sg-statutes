@@ -64,15 +64,15 @@
 
 - [22 Existing agreements and pending proceedings](#Existing-agreements-and-pending-proceedings)
 
-[**Part VII NATIONAL PARKS AND NATURE RESERVES**](#Part-VII)
+[**Part VII**](#Part-VII)
 
-- [23 Establishment of national parks and nature reserves](#Establishment-of-national-parks-and-nature-reserves)
+- [23 (Repealed)](#Repealed)
 
-- [24 Prohibited activities](#Prohibited-activities)
+- [24 (Repealed)](#Repealed)
 
-- [25 Destruction, damage, etc., of certain objects, notices, boundary marks or other things prohibited](#Destruction-damage-etc-of-certain-objects-notices-boundary-marks-or-other-things-prohibited)
+- [25 (Repealed)](#Repealed)
 
-- [26 Reinstatement works](#Reinstatement-works)
+- [26 (Repealed)](#Repealed)
 
 [**Part VIII GENERAL**](#Part-VIII)
 
@@ -82,25 +82,25 @@
 
 - [29 All moneys recovered to be paid to Board](#All-moneys-recovered-to-be-paid-to-Board)
 
-- [30 Returns and information](#Returns-and-information)
+- [30 (Repealed)](#Repealed)
 
-- [31 Service of notices](#Service-of-notices)
+- [31 (Repealed)](#Repealed)
 
-- [32 Obstructing employees, etc., of Board](#Obstructing-employees-etc-of-Board)
+- [32 (Repealed)](#Repealed)
 
-- [33 Offences by body corporate](#Offences-by-body-corporate)
+- [33 (Repealed)](#Repealed)
 
-- [34 Power to remove vehicles, etc.](#Power-to-remove-vehicles-etc)
+- [34 (Repealed)](#Repealed)
 
-- [35 Power of search](#Power-of-search)
+- [35 (Repealed)](#Repealed)
 
-- [36 Power to require evidence of identity](#Power-to-require-evidence-of-identity)
+- [36 (Repealed)](#Repealed)
 
-- [37 Power of arrest](#Power-of-arrest)
+- [37 (Repealed)](#Repealed)
 
-- [38 Composition of offences](#Composition-of-offences)
+- [38 (Repealed)](#Repealed)
 
-- [39 Prosecutions](#Prosecutions)
+- [39 (Repealed)](#Repealed)
 
 - [40 Power to make regulations](#Power-to-make-regulations)
 
@@ -118,7 +118,7 @@
 
 [**Legislative History**](#Legislative-History)
 
-# National Parks Act
+# National Parks Board Act
 
 (CHAPTER 198A)
 
@@ -138,13 +138,15 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the National Parks Act.
+1\. This Act may be cited as the National Parks Board Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“animal” means any member of the animal kingdom including mammals, birds, reptiles, amphibians, fish and every kind of vertebrate and invertebrate and the eggs and young thereof;
+“animal” has the same meaning as in the Parks and Trees Act 2005;
+
+[4/2005 wef 01/08/2005]
 
 “Board” means the National Parks Board established under the repealed National Parks Act (Cap. 198A, 1991 Ed.) in force before 1st July 1996 and continued by section 3;
 
@@ -152,21 +154,29 @@ PRELIMINARY
 
 “Chief Executive” means the Chief Executive of the Board and includes any person acting in that capacity;
 
-“green area” means any State land which is vacant or utilised as green verge of premises occupied by the Government, parkland, verge or traffic island in a road reserve, park connector, or any other area managed and maintained by the Board;
-
 “member” means a member of the Board;
 
-“national park” means any area of land designated for the time being in Part I of the Fifth Schedule;
+“national park” has the same meaning as in the Parks and Trees Act 2005;
 
-“nature reserve” means any area of land designated for the time being in Part II of the Fifth Schedule;
+[4/2005 wef 01/08/2005]
 
-“parkland” means any State land or land of the Board which is utilised as a park or recreation ground;
+“nature reserve” has the same meaning as in the Parks and Trees Act 2005;
+
+[4/2005 wef 01/08/2005]
+
+“organism” has the same meaning as in the Parks and Trees Act 2005;
+
+[4/2005 wef 01/08/2005]
 
 “Parks and Recreation Department” means the Parks and Recreation Department of the Ministry of National Development;
 
-“plant” means any member of the plant kingdom including angiosperms, gymnosperms, pteridophytes, bryophytes, algae, lichens and fungi;
+“plant” has the same meaning as in the Parks and Trees Act 2005;
 
-“verge” means any area by the side of a public street, whether turfed or not.
+[4/2005 wef 01/08/2005]
+
+“public park” has the same meaning as in the Parks and Trees Act 2005.
+
+[4/2005 wef 01/08/2005]
 
 ## PART II
 
@@ -204,21 +214,29 @@ FUNCTIONS AND POWERS OF BOARD
 
 6\.—(1) The functions of the Board shall be —
 
-(a) to control and administer the national parks and nature reserves;
+(a) to control, administer and manage the national parks and nature reserves;
 
-(b) to be an agent of the Government in the management and maintenance of the green areas;
+[4/2005 wef 01/08/2005]
 
-(c) to propagate, protect and preserve the plants and animals of Singapore and, within the national parks, nature reserves and parklands, to preserve objects and places of aesthetic, historical or scientific interest;
+(b) to plan, design, develop, manage and maintain public parks;
 
-(d) to provide and control facilities for the study of and research into matters relating to animals and plants in Singapore and the physical conditions in which they live;
+[4/2005 wef 01/08/2005]
+
+(ba) to provide, manage and maintain park and recreational infrastructure and facilities in the national parks, nature reserves and public parks;
+
+[4/2005 wef 01/08/2005]
+
+(c) to propagate, protect and preserve the animals, plants and other organisms of Singapore and, within the national parks, nature reserves and public parks, to preserve objects and places of aesthetic, historical or scientific interest;
+
+(d) to provide and control facilities for the study of and research into matters relating to animals, plants and other organisms in Singapore and the physical conditions in which they live;
 
 (e) to exhibit objects illustrative of the life sciences, applied sciences, history, technology and industry;
 
 (f) to promote the study, research and dissemination of knowledge in botany, horticulture, biotechnology, arboriculture, landscape architecture, parks and recreation management and natural and local history;
 
-(g) to provide, manage and promote recreational, cultural, historical, research and educational facilities and resources in national parks, nature reserves and parklands and encourage their full and proper use by members of the public;
+(g) to provide, manage and promote recreational, cultural, historical, research and educational facilities and resources in national parks, nature reserves and public parks and encourage their full and proper use by members of the public;
 
-(h) to advise the Government on all matters relating to nature conservation and the planning, development and management of the green areas; and
+(h) to advise the Government on all matters relating to nature conservation and the planning, development and management of public parks; and
 
 (i) to carry out such other functions and duties as are imposed upon the Board by or under this Act or any other written law.
 
@@ -348,73 +366,13 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES TO BOARD
 
 ## PART VII
 
-NATIONAL PARKS AND NATURE RESERVES
+23\. [Repealed by Act 4/2005 wef 01/08/2005]
 
-### Establishment of national parks and nature reserves
+24\. [Repealed by Act 4/2005 wef 01/08/2005]
 
-23\.—(1) The lands designated in Part I of the Fifth Schedule are hereby declared as national parks.
+25\. [Repealed by Act 4/2005 wef 01/08/2005]
 
-(2) The lands designated in Part II of the Fifth Schedule are hereby declared as nature reserves.
-
-(3) National parks and nature reserves are hereby dedicated, set aside and reserved for all or any of the following purposes:
-
-(a) the propagation, protection and preservation of the plants and animals of Singapore;
-
-(b) the study, research and preservation of objects and places of aesthetic, historical or scientific interest;
-
-(c) the study, research and dissemination of knowledge in botany, horticulture, biotechnology, and natural and local history; and
-
-(d) recreational and educational use by the public.
-
-(4) The Minister may, after consultation with the Board, by order amend the Fifth Schedule and any such order shall be presented to Parliament as soon as possible after publication in theGazette.
-
-### Prohibited activities
-
-24\.—(1) Subject to the provisions of this Act, no person other than an employee or agent of the Board acting in the performance of his duty shall, except with the approval of the Board, conduct any of the following activities within any national park, nature reserve or green area:
-
-(a) collect, remove, cut or displace any plant or part thereof;
-
-(b) prospect, mine, quarry, excavate or remove any soil, sand, laterite, clay, stone, any earth substance or water;
-
-(c) disturb or take the nest of any animal or feed, kill, injure, capture or molest any animal;
-
-(d) spread, set or use any net, snare, trap or other instrument for the capture, destruction or injury of any animal;
-
-(e) affix, set up or erect any sign, shrine, religious artifact, shelter, structure or building;
-
-(f) clear, break up, dig or cultivate any land;
-
-(g) use or occupy any building, vehicle, boat or other property of the Board;
-
-(h) drop or deposit any dirt, sand, earth, gravel, clay, loam, manure, refuse, sawdust, shavings, stone, straw or any other matter or thing; and
-
-(i) do any other activity which causes or may cause alteration, damage or destruction to any plant or animal or property.
-
-(2) No person, other than an employee or agent of the Board acting in the performance of his duty, shall bring or cause any animal to be brought into a nature reserve or permit any domestic animal to stray into a nature reserve.
-
-(3) Any person aggrieved by a decision of the Board made under this section may, within 14 days of the date of the decision, appeal in writing to the Minister whose decision shall be final.
-
-(4) Any person who contravenes or fails to comply with any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine of $250 for every day during which the offence continues after conviction.
-
-### Destruction, damage, etc., of certain objects, notices, boundary marks or other things prohibited
-
-25\.—(1) No person shall wilfully or negligently destroy, damage or deface any object of zoological, botanical, geological, ethnological, scientific or aesthetic interest within any national park, nature reserve or green area.
-
-(2) No person shall destroy, damage, deface or remove any notice, boundary mark or other thing whatsoever within any national park, nature reserve or green area.
-
-(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-### Reinstatement works
-
-26\.—(1) Where any person has contravened section 24 or 25 or any regulations made under this Act, the Board may serve a notice requiring that person to perform, within such period (not being less than 14 days after service thereof) as may be specified in the notice, reinstatement works as may be specified in the notice, failing which the Board may perform any necessary reinstatement works.
-
-(2) The costs and expenses incurred by the Board in exercise of the powers under subsection (1) shall constitute a debt due from the person to the Board and be recoverable as such.
-
-(3) The certificate of the Chief Executive stating the amount of the costs and expenses so incurred shall be conclusive evidence of that amount.
-
-(4) The Board shall not be liable to make good any damage caused to or any loss of goods or property as a result of the reinstatement works done under subsection (1).
-
-(5) Any person who, on being required by notice under this section to perform reinstatement works, wilfully refuses or without lawful excuse (the proof of which lies on him) neglects to perform the reinstatement works within the time specified in the notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+26\. [Repealed by Act 4/2005 wef 01/08/2005]
 
 ## PART VIII
 
@@ -434,101 +392,41 @@ GENERAL
 
 29\. All moneys recovered or sums collected under this Act or any regulations made thereunder shall be paid into and form part of the general funds of the Board.
 
-### Returns and information
+30\. [Repealed by Act 4/2005 wef 01/08/2005]
 
-30\.—(1) The Board or an employee or agent of the Board authorised in that behalf by the Board may by notice require any person to furnish the Board or employee or agent, within such period as may be specified in the notice, information within the knowledge of the person or in his custody or under his control relating to matters as may be necessary for the purposes and functions of the Board under this Act.
+31\. [Repealed by Act 4/2005 wef 01/08/2005]
 
-(2) Any person who fails to comply with any requirement of the notice under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+32\. [Repealed by Act 4/2005 wef 01/08/2005]
 
-### Service of notices
+33\. [Repealed by Act 4/2005 wef 01/08/2005]
 
-31\.—(1) A notice or other document under this Act may be served in the following manner:
+34\. [Repealed by Act 4/2005 wef 01/08/2005]
 
-(a) by delivering the notice or document to the person or to some adult member or employee of his family at his last known place of residence;
+35\. [Repealed by Act 4/2005 wef 01/08/2005]
 
-(b) by leaving the notice or document at his usual or last known place of residence or business in an envelope addressed to the person;
+36\. [Repealed by Act 4/2005 wef 01/08/2005]
 
-(c) by sending the notice or document by registered post addressed to the person at his usual or last known place of residence or business; or
+37\. [Repealed by Act 4/2005 wef 01/08/2005]
 
-(d) where the person to be served is a body corporate —
+38\. [Repealed by Act 4/2005 wef 01/08/2005]
 
-(i) by delivering the notice or document to the secretary or other like officer of the body corporate at its registered office or principal place of business; or
-
-(ii) by sending the notice or document by registered post addressed to the body corporate at its registered office or principal place of business.
-
-(2) Any notice or document sent by registered post to any person in accordance with subsection (1) shall be deemed to be duly served on the person at the time when the notice or document would, in the ordinary course of post, be delivered and, in proving the service of the notice or document, it shall be sufficient to prove that the envelope containing the notice or document was properly addressed, stamped and posted by registered post.
-
-### Obstructing employees, etc., of Board
-
-32\. Any person who obstructs or hinders any member, employee or agent of the Board acting in the discharge of his duty under this Act or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-### Offences by body corporate
-
-33\. Where an offence under this Act or any regulations made thereunder has been committed by a body corporate, a partnership or unincorporated association of persons, any person who at the time of the commission of the offence was a director, manager, secretary or other similar officer thereof, or was purporting to act in any such capacity, shall also be guilty of that offence unless he proves that —
-
-(a) the offence was committed without his consent or connivance; and
-
-(b) he had exercised all such diligence to prevent the commission of the offence he ought to have exercised having regard to the nature of his functions in that capacity and to all circumstances.
-
-### Power to remove vehicles, etc.
-
-34\. Any police officer or employee or agent of the Board authorised in that behalf by the Board may remove from any national park, nature reserve or parkland —
-
-(a) any person who, in contravention of this Act or any regulations made thereunder, fails or refuses to leave the national park, nature reserve or parkland or any part thereof after being requested by the police officer or employee or agent to do so; and
-
-(b) any vehicle, boat or thing brought into or left in the national park, nature reserve or parkland or any part thereof in contravention of this Act or any regulations made thereunder or which is likely to cause danger or obstruction.
-
-### Power of search
-
-35\. Any police officer or employee or agent of the Board authorised in that behalf by the Board may, within any national park, nature reserve or parkland if he has reason to believe that any offence has been committed under this Act or any regulations made thereunder, inspect and search any baggage, equipment, package, container, tent, vehicle, boat, craft or place and seize any thing therein which he requires as evidence that any such offence has been committed.
-
-### Power to require evidence of identity
-
-36\.—(1) Any police officer or employee or agent of the Board authorised in that behalf by the Board who reasonably believes that a person has committed an offence under this Act or any regulations made thereunder, may require that person to furnish such evidence of his identity as may be required by the police officer, employee or agent.
-
-(2) Any person who refuses to furnish information required of him by a police officer or an employee or agent under this section or who wilfully gives false information shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-### Power of arrest
-
-37\. Any police officer or employee or agent of the Board authorised in that behalf by the Board may without warrant arrest a person within any national park, nature reserve or parkland —
-
-(a) if he has reasonable cause to believe that that person has contravened any of the provisions of this Act or any regulations made thereunder and he does not know or cannot ascertain the name and address of the person; or
-
-(b) if that person, in contravention of this Act or any regulations made thereunder, fails or refuses to leave the national park, nature reserve or parkland or any part thereof after being requested by the police officer, employee or agent to do so.
-
-### Composition of offences
-
-38\.—(1) Any police officer not below the rank of sergeant or any employee of the Board authorised in that behalf by the Chief Executive may, in his discretion, compound any such offence under this Act or any regulations made thereunder as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
-
-(2) The Board may, with the approval of the Minister, make regulations prescribing the offences which may be compounded.
-
-(3) All sums collected under this section shall be paid to the Board.
-
-### Prosecutions
-
-39\. Any police officer, member, employee or agent of the Board authorised in writing in that behalf by the Chief Executive may conduct any proceedings or any prosecution in respect of any offence under this Act or any regulations made thereunder.
+39\. [Repealed by Act 4/2005 wef 01/08/2005]
 
 ### Power to make regulations
 
-40\.—(1) The Board may, with the approval of the Minister, make regulations for any purpose for which regulations are required to be made under this Act and generally for carrying out the purposes and provisions of this Act.
+40\.—(1) The Board may, with the approval of the Minister, make regulations for carrying out the purposes and provisions of this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Board may make regulations for and with respect to all or any of the following matters within the national parks, nature reserves and parklands:
+(2) Without prejudice to the generality of subsection (1), the Board may, with the approval of the Minister, make regulations for or with respect to all or any of the following matters:
 
-(a) the preservation of order and the prevention of nuisance;
+(a) regulating the proceedings of the Board or of the committees of the Board;
 
-(b) prescribing the days and times of admission to the national parks, nature reserves and parklands;
+(b) the manner of appointment, conduct and discipline and the terms and conditions of service of the employees of the Board;
 
-(c) the preservation and protection of plants, animals and property;
+(c) the establishment of funds for the payment of gratuities and other benefits to employees of the Board;
 
-(d) the admission of vehicles or boats and the regulation of traffic;
+(d) any other matter which by this Act is required or permitted to be prescribed or is necessary or convenient to be prescribed for carrying out or giving effect to any provision of this Act.
 
-(e) the prohibition of any particular act therein;
-
-(f) prescribing the fees payable in respect of admission to the national parks, nature reserves and parklands;
-
-(g) prescribing for the forfeiture, sale or disposal of any vehicle, boat or thing removed under section 34 and the recovery of any expenses connected therewith; and
-
-(h) prescribing that any act or omission in contravention of any regulations made under this Act shall be an offence and prescribing a fine not exceeding $5,000 for such offence.
+[4/2005 wef 01/08/2005]
 
 ### Transitional provisions
 
@@ -556,9 +454,17 @@ Constitution and Proceedings of Board
 
 3\. A member shall hold office on such conditions and for such term as the Minister may determine and shall be eligible for reappointment.
 
+3A. The Minister may appoint any member of the Board to be a temporary Chairman or temporary Deputy Chairman during the incapacity from illness or otherwise of the Chairman or the Deputy Chairman, as the case may be.
+
+[4/2005 wef 01/08/2005]
+
 4\. The Minister may, at any time, revoke the appointment of the Chairman or any member without assigning any reason.
 
 5\. Any member may resign from his appointment at any time by giving notice in writing to the Minister.
+
+5A. The Minister may appoint a person to be a temporary member of the Board during the incapacity from illness or otherwise of any member.
+
+[4/2005 wef 01/08/2005]
 
 6\. The Chairman may, in writing, authorise any member to exercise any power or perform any function conferred on the Chairman by or under this Act.
 
@@ -566,15 +472,19 @@ Constitution and Proceedings of Board
 
 (a) has been absent, without leave of the Board, from 3 consecutive meetings of the Board; or
 
-(b) becomes in any manner disqualified from membership of the Board.
+(b) becomes in any manner disqualified from membership of the Board under paragraph 9.
 
 8\. If a member resigns, dies or has his appointment revoked or otherwise vacates his office before the expiry of the term for which he has been appointed, the Minister may appoint a person to fill the vacancy for the residue of the term of which the vacating member was appointed.
 
 9. No person shall be appointed or shall continue to hold office as a member if he —
 
-(a) is an undischarged bankrupt or has made any arrangement with his creditors; or
+(a) is an undischarged bankrupt or has made any arrangement with his creditors;
 
-(b) has been sentenced to imprisonment for a term of not less than 6 months and has not received a free pardon.
+(b) has been sentenced to imprisonment for a term of not less than 6 months and has not received a free pardon; or
+
+(c) is of unsound mind.
+
+[4/2005 wef 01/08/2005]
 
 10.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Board shall disclose the nature of his interest at a meeting of the Board and the disclosure shall be recorded in the minutes of the Board and the member shall not take part in any deliberation of the Board with respect to that transaction or project.
 
@@ -606,15 +516,37 @@ Section 7
 
 Powers of Board
 
-1\. To manage the national parks, nature reserves and parklands .
+1\. To manage the national parks, nature reserves and public parks.
 
-2\. To regulate the planting and maintenance of plants in green areas by prescribing guidelines and requirements for the design and maintenance thereof.
+2\. To regulate the planting and maintenance of plants in public parks by prescribing guidelines and requirements for the design and maintenance thereof.
+
+2A. To lay out, construct, plant, improve, equip, maintain, supervise and control the national parks, nature reserves and public parks and carry out the following activities:
+
+(a) erect any pavilion, recreation room, outhouse or other building;
+
+(b) provide entertainment or any amenity;
+
+(c) set apart any part thereof for the purpose of any game or recreation and exclude the public from such part while it is in actual use for that purpose;
+
+(d) provide any apparatus for games and recreation and facilities for boating and charge for the use thereof;
+
+(e) place or authorise any person to place chairs or seats and charge or authorise any person to charge for the use thereof;
+
+(f) provide and maintain refreshment stalls, food-stalls and restaurants and manage them or let them to any person on such conditions as the Board may determine;
+
+(g) authorise any person to erect, maintain and operate any facility and charge or authorise any person to charge for the use thereof.
+
+[4/2005 wef 01/08/2005]
+
+2B. To plant trees, plants and vegetation in public parks.
+
+[4/2005 wef 01/08/2005]
 
 3\. To enter into contracts for the supply of goods, services or materials or for the execution of works or other contracts as may be necessary for the discharge of the duties and functions of the Board under this Act.
 
 4\. To receive fees, donations, grants, gifts of movable or immovable property from any source or raise funds by any lawful means.
 
-5\. To regulate and control public access to the national parks, nature reserves and parklands.
+5\. To regulate and control public access to the national parks, nature reserves and public parks.
 
 6\. To promote or undertake publicity in any form.
 
@@ -629,6 +561,26 @@ Powers of Board
 11\. With the approval of the Minister, to form or participate in the formation of companies or to enter into a partnership or an arrangement for the sharing of profits.
 
 12\. With the approval of the Minister, to raise loans for the purposes of this Act.
+
+12A. To collect, analyse, compile, publish or disseminate information relating to such subject-matter as may be necessary for the discharge of the functions, objects or duties of the Board.
+
+[4/2005 wef 01/08/2005]
+
+12B. To provide technical, consultancy or advisory services to any Government agency or to any other person or body in Singapore or elsewhere on any matter related to or connected with the functions, objects or duties of the Board.
+
+[4/2005 wef 01/08/2005]
+
+12C. To charge fees or commissions for services rendered by the Board or for any use of any of its facilities.
+
+[4/2005 wef 01/08/2005]
+
+12D. To carry out promotional activities or publicity in any form.
+
+[4/2005 wef 01/08/2005]
+
+12E. To organise such courses and other programmes as the Board thinks necessary or desirable for the discharge of its functions, objects or duties.
+
+[4/2005 wef 01/08/2005]
 
 13\. To do anything incidental to any of its functions.
 
@@ -700,417 +652,7 @@ Provisions Relating to Transfer of Employees
 
 FIFTH SCHEDULE
 
-Section 23
-
-Part I
-
-designation of national parks
-
-1. All those pieces of land situated in T.S. No. 25 known as the Singapore Botanic Gardens, described as follows:
-
-T.S. No.
-
-Lot No.
-
-Area (square metres)
-
-25
-
-01642T
-
-523,043.8
-
-01643A
-
-34.4
-
-01644K
-
-305.8
-
-01640V
-
-4,550.3
-
-Total
-
-527,934.3
-
-The boundaries of these areas are more particularly delineated on Certified Plan Nos. 38578, 38579 and 38065 filed in the office of the Chief Surveyor.
-
-2. All those pieces of land situated in T.S. No. 20 known as Fort Canning Park, described as follows:
-
-T.S. No.
-
-Lot No.
-
-Estimated Area (square metres)
-
-20
-
-Part of 00501X
-
-166,837.6
-
-00500N
-
-11,768.4
-
-00551C
-
-1,000
-
-Total
-
-179,606
-
-The boundaries of these areas are more particularly delineated on Plan No. NP 5.9.1.9 (Fort Canning Park) filed in the Registry of the National Parks Board.
-
-Part II
-
-Designation of Nature Reserves
-
-1. All those pieces of land situated in the Mukims of Sembawang, Mandai, Ulu Kalang, Bukit Timah and Toa Payoh, forming parts of the Public Utilities Board Catchment Area, known as the Central Catchment Nature Reserve, described as follows:
-
-Mukim No.
-
-Lot No.
-
-Estimated Area (square metres)
-
-13 (Sembawang)
-
-Part of 04120X
-
-339,879
-
-Part of 04121L
-
-1,911,045
-
-Part of 04122C
-
-409
-
-04123M
-
-31,379
-
-04513P
-
-52
-
-04518X
-
-1,951
-
-04522L
-
-16,587
-
-04524M
-
-65,406
-
-14 (Mandai)
-
-Part of 00187M
-
-11,867,890
-
-Part of 00289C
-
-1832
-
-Part of 01253P
-
-193
-
-Part of 01255A
-
-85
-
-Part of 01256K
-
-190
-
-Part of 99741N
-
-25
-
-Part of 99871P
-
-1,053
-
-15 (Ulu Kalang)
-
-00028N
-
-14,438
-
-00030K
-
-22,877
-
-00031N
-
-7,660
-
-Part of 00046X
-
-284
-
-Part of 01370W
-
-747
-
-01371V
-
-550
-
-Part of 02505T
-
-6,273,325
-
-Part of 02506A
-
-4,336,843
-
-99676T
-
-14,679
-
-Part of 99686M
-
-56,201
-
-16 (Bukit Timah)
-
-Part of 01224N
-
-387
-
-Part of 01226L
-
-2,081
-
-Part of 01231M
-
-1,532
-
-02041M
-
-1,871,333
-
-Part of 02044P
-
-12,561
-
-17 (Toa Payoh)
-
-03797X
-
-231
-
-03799C
-
-19
-
-Part of 05941W
-
-3,577,758
-
-Total
-
-30,431,482
-
-The boundaries of these areas are more particularly delineated on Plan No. NP 5.9.1.9 (Central Catchment Nature Reserve) filed in the Registry of the National Parks Board.
-
-2. All those pieces of land situated in Mukim No. 16, Bukit Timah, known as Bukit Timah Nature Reserve, described as follows:
-
-Mukim No.
-
-Lot No.
-
-Estimated Area (square metres)
-
-16 (Bukit Timah)
-
-Part of 00087A
-
-43,680
-
-00354A
-
-7,595
-
-Part of 00357X
-
-654,750
-
-01176P
-
-365
-
-01636T
-
-9,698
-
-Part of 01637A
-
-244,306
-
-Part of 01916P
-
-11,347
-
-Part of 02042W
-
-357,229
-
-Part of 02044P
-
-24,027
-
-99501L
-
-11,715
-
-Part of 99509K
-
-137,107
-
-Part of 99531X
-
-4,840
-
-Part of 99679X
-
-43,222
-
-99762V
-
-31
-
-Part of 99763P
-
-76,530
-
-Total
-
-1,626,442
-
-The boundaries of these areas are more particularly delineated on Plan No. NP 5.9.1.9 (Bukit Timah Nature Reserve) filed in the Registry of the National Parks Board.
-
-3. All those pieces of land (including foreshore) situated in Mukim No. 3, Pasir Panjang, known as Labrador Nature Reserve, described as follows:
-
-Mukim No.
-
-Lot No.
-
-Estimated Area (square metres)
-
-3 (Pasir Panjang)
-
-99995P
-
-993
-
-99992M
-
-1,553
-
-Part of 01019A
-
-40,316
-
-Part of 01580X
-
-49,135
-
-Part of 00492M
-
-7,881
-
-Total
-
-99,878
-
-The boundaries of these areas are more particularly delineated on Plan No. NP 5.9.1.9 (Labrador Nature Reserve) filed in the Registry of the National Parks Board.
-
-4. All those pieces of land (including foreshore) situated in Mukim No. 12, Lim Chu Kang, known as Sungei Buloh Wetland Reserve, described as follows:
-
-Mukim No.
-
-Lot No.
-
-Estimated Area (square metres)
-
-12 (Lim Chu Kang)
-
-00990N
-
-117,088
-
-00020N
-
-32,775
-
-01312V
-
-20,049
-
-01311W
-
-25,798
-
-01313P
-
-39,865
-
-01314T
-
-13,967
-
-01324M
-
-33,646
-
-01325W
-
-11,158
-
-01023X
-
-2,818
-
-Part of 01255P
-
-57,663
-
-Part of 00989L
-
-156,177
-
-Part of 01310M
-
-54,933
-
-Part of 01240V
-
-512,050
-
-Part of 01590K
-
-235,718
-
-Total
-
-1,313,705
-
-The boundaries of these areas are more particularly delineated on Plan No. NP 5.9.1.9 (Sungei Buloh Wetland Reserve) filed in the Registry of the National Parks Board.
-
-[S 534/2003 wef 26/11/2003]
+Deleted by Act 4/2005, wef 01/08/2005.
 
 ## LEGISLATIVE HISTORY
 
@@ -1145,3 +687,9 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|7.|**Act 4 of 2005—Parks and Trees Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 55/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|1 August 2005|
