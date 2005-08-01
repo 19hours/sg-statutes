@@ -1660,7 +1660,7 @@ Secobarbital.
 
 Triazolam.
 
-Zolpidem
+Zolpidem —Deleted by S 507/2005, wef 01/08/2005.
 
 2\. Any stereoisomeric form of a substance for the time being specified in paragraph 1.
 
@@ -2693,6 +2693,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 |||(Bill No. 52/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|10 June 2005|
+|35.|**G. N. No. S 507/2005—Misuse of Drugs Act (Amendment of First Schedule) Order 2005**|
+||Date of commencement|1 August 2005|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
