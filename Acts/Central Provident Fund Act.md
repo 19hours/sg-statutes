@@ -1060,7 +1060,7 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (a) for the payment of any loan taken by him for the purchase of any immovable property by the member in accordance with any regulations made under section 77;
 
-(b) for the payment of improvement contributions due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129), including the payment of such costs, fees or other incidental expenses arising from the upgrading works as are authorised by any regulations made under section 77.
+(b) for the payment of improvement contributions due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129), or any improvement contribution due to a Town Council in respect of lift upgrading works carried out under Part IVA of the Town Councils Act (Cap. 329A), including the payment of such costs, fees or other incidental expenses arising from the upgrading works as are authorised by any regulations made under section 77.
 
 [23/2005 wef 15/08/2005]
 
@@ -1163,6 +1163,16 @@ if the member and the person or persons, as the case may be, give an undertaking
 [57/2007 wef 01/01/2008]
 
 (c) to repay any loan or to reimburse any cost, fee or other expense pursuant to regulations made under section 77(1)(i);
+
+(ca) to pay any improvement contribution due —
+
+(i) to the Housing and Development Board constituted under the Housing and Development Act (Cap. 129) in respect of upgrading works carried out under Part IVA of that Act; or
+
+(ii) to a Town Council constituted under the Town Councils Act (Cap. 329A) in respect of upgrading works carried out under Part IVA of that Act,
+
+including costs, fees or other incidental expenses arising from such works;
+
+[23/2005 wef 15/08/2005]
 
 (d) to pay any costs, fees or other expenses incurred —
 
@@ -1346,7 +1356,7 @@ the Board may register or notify, in the appropriate register maintained by the 
 
 [57/2007 wef 01/01/2008]
 
-(c) to pay any improvement contribution due to the Housing and Development Board in respect of upgrading works carried out on an HDB flat under Part IVA of the Housing and Development Act (Cap. 129) including the payment of costs, fees or other incidental expenses arising from such works; or
+(c) to pay any improvement contribution due to the Housing and Development Board in respect of upgrading works carried out on an HDB flat under Part IVA of the Housing and Development Act (Cap. 129), or any improvement contribution due to a Town Council in respect of lift upgrading works carried out in relation to an HDB flat under Part IVA of the Town Councils Act (Cap. 329A), including the payment of costs, fees or other incidental expenses arising from such works; or
 
 [23/2005 wef 15/08/2005]
 
@@ -2534,7 +2544,15 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 
 (qa) to prescribe the fees and charges that may be levied by the Board for the purposes of this Act;
 
-(r) to provide for members of the Fund to apply or withdraw all or part of the contributions and interest standing to their credit in the Fund for the payment of improvement contributions due to the Housing and Development Board constituted under the Housing and Development Act (Cap. 129) in respect of upgrading works carried out under Part IVA of that Act including the payment of costs, fees or other incidental expenses arising from such works; and
+(r) to provide for members of the Fund to apply or withdraw all or part of the contributions and interest standing to their credit in the Fund for the payment of —
+
+(i) improvement contributions due to the Housing and Development Board constituted under the Housing and Development Act (Cap. 129) in respect of upgrading works carried out under Part IVA of that Act; or
+
+(ii) improvement contributions due to a Town Council constituted under the Town Councils Act (Cap. 329A) in respect of upgrading works carried out under Part IVA of that Act,
+
+including the payment of costs, fees or other incidental expenses arising from such works; and
+
+[23/2005 wef 15/08/2005]
 
 (s) as are necessary or expedient for giving full effect to the purposes and provisions of this Act.
 
@@ -4842,6 +4860,12 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 52/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|10 June 2005|
+|141.|**Act 23 of 2005—Town Councils (Amendment) Act 2005**|
+||(Related amendments made to Act by)||
+||Date of First Reading|16 May 2005|
+|||(Bill No. 13/2005 published on 17 May 2005)|
+||Date of Second and Third Readings|18 July 2005|
+||Date of commencement|15 August 2005|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
