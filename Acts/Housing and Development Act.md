@@ -1632,6 +1632,10 @@ UPGRADING WORKS IN PRECINCTS
 
 [19/92]
 
+(4) In this section, any reference to the Minister shall include a reference to a Minister of State for the Ministry of National Development.
+
+[23/2005 wef 15/08/2005]
+
 ### Upgrading works in a precinct
 
 65C\.—(1) Where a precinct has been declared under section 65B, the Board shall as soon as practicable –
@@ -1812,7 +1816,7 @@ the Board may, for the purposes of recovering any improvement contribution, requ
 
 [19/92]
 
-(5) The Board shall not proceed under subsection (4) to sell any flat in respect of which any improvement contribution or any part thereof is due if there is upon the flat and liable to be seized and sold by the Board by writ of seizure and sale any movable property belonging to the owner of the flat of a value estimated by the Board to be sufficient to realise the sum required to satisfy such unpaid improvement contribution.
+(5) The Board shall not proceed under subsection (4) to sell any flat in respect of which any improvement contribution (including any interest and penalty thereon) or any part thereof is due if there is upon the flat and liable to be seized and sold by the Board by writ of seizure and sale any movable property belonging to the owner of the flat of a value estimated by the Board to be sufficient to realise the sum required to satisfy such unpaid improvement contribution.
 
 [19/92]
 
@@ -4857,6 +4861,12 @@ This Legislative History is provided for the convenience of users of the Housing
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
 |||(item (16) in the Schedule)|
+|34.|**Act 23 of 2005—Town Councils (Amendment) Act 2005**|
+||Date of First Reading|16 May 2005|
+|||(Bill No. 13/2005 published on 17 May 2005)|
+||Date of Second and Third Readings|18 July 2005|
+||Date of commencement|15 August 2005|
+|||(section 13 — related amendments to Housing and Development Act)|
 ## COMPARATIVE TABLE
 
 Housing and Development Act
