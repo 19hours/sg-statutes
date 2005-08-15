@@ -98,7 +98,7 @@
 
 - [38 Reproduction for purposes of judicial proceedings or professional advice](#Reproduction-for-purposes-of-judicial-proceedings-or-professional-advice)
 
-- [38A Temporary reproduction made in the course of communication](#Temporary-reproduction-made-in-the-course-of-communication)
+- [38A Temporary reproduction made in course of communication](#Temporary-reproduction-made-in-course-of-communication)
 
 - [39 Back-up copy of computer program, etc.](#Back-up-copy-of-computer-program-etc)
 
@@ -1654,6 +1654,8 @@ Nature, Duration and Ownership of Copyright in Works
 
 [52/2004 wef 01/01/2005]
 
+(v) [Deleted by Act 52/2004 wef 01/01/2005]
+
 (vi) to make an adaptation of the work;
 
 (vii) to do, in relation to a work that is an adaptation of the first-mentioned work, any of the acts specified in relation to the first-mentioned work in sub-paragraphs (i) to (vi);
@@ -1667,6 +1669,8 @@ Nature, Duration and Ownership of Copyright in Works
 (iii) to communicate the work to the public; and
 
 [52/2004 wef 01/01/2005]
+
+(iv) [Deleted by Act 52/2004 wef 01/01/2005]
 
 (c) in the case of a computer program, to enter into a commercial rental arrangement in respect of the program unless the program is not the essential object of the rental.
 
@@ -1894,13 +1898,29 @@ shall be taken to be a fair dealing with that work or adaptation for the purpose
 
 (c) for the purpose of, or in the course of, the giving of professional advice by an advocate and solicitor.
 
-### Temporary reproduction made in the course of communication
+### Temporary reproduction made in course of communication
 
-38A\.—(1) Subject to subsection (2), the copyright in a work, or an adaptation of a work, is not infringed by the making of a temporary, incidental or transient reproduction of the work or adaptation as part of the technical process of making or receiving a communication.
+38A\.—(1) Subject to subsection (3), the copyright in a work is not infringed by the making of a temporary or transient reproduction of the work if —
 
-(2) Subsection (1) shall not apply to the making of a temporary, incidental or transient reproduction of a work, or an adaptation of a work, as part of the technical process of making a communication if the making of the communication itself constitutes an infringement of copyright.
+(a) the reproduction is made incidentally as part of the technical process of making or receiving a communication; and
 
-[52/2004 wef 01/01/2005]
+(b) the act of making the communication itself does not constitute an infringement.
+
+(2) Subject to subsection (3), the copyright in an adaptation of a work is not infringed by the making of a temporary or transient reproduction of the adaptation if —
+
+(a) the reproduction is made incidentally as part of the technical process of making or receiving a communication; and
+
+(b) the act of making the communication itself does not constitute an infringement.
+
+(3) Subsections (1) and (2) shall not apply to the making of a temporary or transient reproduction of a work, or an adaptation of a work, if the reproduction of the work or adaptation that is communicated —
+
+(a) is an infringing copy of the work or adaptation; or
+
+(b) is a reproduction that, if it had been made in Singapore, would have been an infringing copy of the work or adaptation.
+
+(4) Nothing in subsections (1) and (2) shall be construed as authorising any subsequent use of the temporary or transient reproduction of the work or adaptation.
+
+[22/2005 wef 15/08/2005]
 
 ### Back-up copy of computer program, etc.
 
@@ -2382,7 +2402,7 @@ that subsection does not apply to the communication, by or on behalf of that per
 
 [52/2004 wef 01/01/2005]
 
-(8) For the purposes of subsections (6) and (7), a record of the copying of a work or a part of a work —
+(8) For the purposes of subsections (6), (7), (7C) and (7D), a record of the copying or communication, as the case may be, of a work or a part of a work —
 
 (a) shall be kept in writing or in any other manner prescribed by the regulations; and
 
@@ -2996,6 +3016,8 @@ Nature of Copyright in Subject-matter other than Works
 
 [52/2004 wef 01/01/2005]
 
+(d) [Deleted by Act 52/2004 wef 01/01/2005]
+
 ### Nature of copyright in television broadcasts and sound broadcasts
 
 84\.—(1) For the purposes of this Act, unless the contrary intention appears, copyright, in relation to a television broadcast or sound broadcast, is the exclusive right —
@@ -3344,11 +3366,21 @@ for the purpose of ascertaining whether the intended broadcast complies with, or
 
 ### Temporary copy made in course of communication
 
-107E\.—(1) The copyright in an audio-visual item is not infringed by the making of a temporary, incidental or transient copy of the audio-visual item as part of the technical process of making or receiving a communication.
+107E\.—(1) Subject to subsection (2), the copyright in an audio-visual item is not infringed by the making of a temporary or transient copy of the audio-visual item if —
 
-(2) Subsection (1) shall not apply to the making of a temporary, incidental or transient reproduction of an audio-visual item as part of the technical process of making a communication if the making of the communication itself constitutes an infringement of copyright.
+(a) the copy is made incidentally as part of the technical process of making or receiving a communication; and
 
-[52/2004 wef 01/01/2005]
+(b) the act of making the communication itself does not constitute an infringement.
+
+(2) Subsection (1) shall not apply to the making of a temporary or transient copy of an audio-visual item if the copy of the audio-visual item that is communicated —
+
+(a) is an infringing copy of the audio-visual item; or
+
+(b) is a copy that, if it had been made in Singapore, would have been an infringing copy of the audio-visual item.
+
+(3) Nothing in subsection (1) shall be construed as authorising any subsequent use of the temporary or transient copy of the audio-visual item.
+
+[22/2005 wef 15/08/2005]
 
 ### Provisions relating to cinematograph films
 
@@ -3602,7 +3634,7 @@ Actions by Owner of Copyright
 
 (iii) all other relevant matters,
 
-the court may, in assessing damages for the infringement under subsection (2) (b), award such additional damages as it considers appropriate in the circumstances.
+the court may, in assessing damages for the infringement under subsection (2)(b), award such additional damages as it considers appropriate in the circumstances.
 
 (5) In awarding statutory damages under subsection (2)(d), the court shall have regard to —
 
@@ -5374,9 +5406,29 @@ but does not include such person or class of persons as the Minister may prescri
 
 “primary network”, in relation to a network service provider, refers to a network controlled or operated by or for the network service provider;
 
-“routing” means directing or choosing the means or routes for the transmission of data.
+“routing” means directing or choosing the means or routes for the transmission of data;
+
+“standard technical measure” means any technical measure accepted in Singapore that —
+
+(a) is used to identify or protect material;
+
+(b) has been developed through an open, voluntary process by a broad consensus of copyright owners and network service providers;
+
+(c) is available to any person on reasonable and non-discriminatory terms; and
+
+(d) does not impose substantial costs on network service providers or substantial burdens on their primary networks.
+
+[22/2005 wef 15/08/2005]
 
 (2) This Part does not limit the operation of the other provisions of this Act in relation to determining whether copyright has been infringed.
+
+(3) Nothing in this Part shall be construed as making the applicability of sections 193B, 193C, 193D and 193DB conditional on —
+
+(a) a network service provider monitoring its service or affirmatively seeking facts indicating infringing activity, except to the extent consistent with any standard technical measure; or
+
+(b) a network service provider gaining access to, removing or disabling access to any electronic copy of any material in any case in which such conduct is prohibited by law.
+
+[22/2005 wef 15/08/2005]
 
 [52/2004 wef 01/01/2005]
 
@@ -5420,7 +5472,7 @@ if the network service provider satisfies the conditions set out in subsection (
 
 (a) the network service provider does not make any substantive modification (other than any modification made as part of a technical process) to the content of the cached copy of the material during the transmission of the cached copy of the material to users of the primary network or another network;
 
-(b) if the network service provider is furnished in the prescribed manner with a notice in the prescribed form relating to the cached copy of the material —
+(b) if the network service provider is furnished in the prescribed manner with a notice in, or substantially in accordance with, the prescribed form relating to the cached copy of the material —
 
 (i) purportedly made by the owner of the copyright in the material or under the owner’s authority; and
 
@@ -5462,7 +5514,7 @@ if the network service provider satisfies the conditions referred to in subsecti
 
 (ii) acquires knowledge of such facts or circumstances which would lead inevitably to the conclusion that the copyright in the material has been infringed in, or in the course of, making available the electronic copy of the material on the primary network; or
 
-(iii) is furnished in the prescribed manner with a notice in the prescribed form relating to the electronic copy of the material on the primary network —
+(iii) is furnished in the prescribed manner with a notice in, or substantially in accordance with, the prescribed form relating to the electronic copy of the material on the primary network —
 
 (A) purportedly made by the owner of the copyright in the material or under the owner’s authority; and
 
@@ -5472,11 +5524,9 @@ the network service provider expeditiously takes reasonable steps to remove or d
 
 (c) the network service provider has designated a representative to receive any notice referred to in paragraph (b)(iii) and published the prescribed information on the designated representative in the prescribed manner.
 
-(3) For the purposes of subsection (2), where a network service provider is not an individual, the network service provider shall not be treated as having acquired any knowledge referred to in subsection (2)(b)(i) or (ii) —
+(3) For the purposes of subsection (2), a notice purportedly made by the owner of the copyright in the material or under the owner’s authority which is not a notice referred to in subsection (2)(b)(iii) shall not be considered in determining whether the network service provider has acquired any knowledge referred to in subsection (2)(b)(i) or (ii).
 
-(a) unless that knowledge is acquired by the representative referred to in subsection (2)(c); and
-
-(b) where it is alleged that the representative has acquired that knowledge by reason only of any communication made to the representative, unless that communication is in the form of the notice referred to in subsection (2)(b)(iii).
+[22/2005 wef 15/08/2005]
 
 (4) The conditions referred to in subsection (1)(b) are that —
 
@@ -5488,7 +5538,7 @@ the network service provider expeditiously takes reasonable steps to remove or d
 
 (ii) acquires knowledge of such facts or circumstances which would lead inevitably to the conclusion that the copyright in the material has been infringed in, or in the course of, making available the electronic copy of the material on the originating network; or
 
-(iii) is furnished in the prescribed manner with a notice in the prescribed form relating to the electronic copy of the material on the originating network —
+(iii) is furnished in the prescribed manner with a notice in, or substantially in accordance with, the prescribed form relating to the electronic copy of the material on the originating network —
 
 (A) purportedly made by the owner of the copyright in the material or under the owner’s authority; and
 
@@ -5498,17 +5548,19 @@ the network service provider expeditiously takes reasonable steps to disable acc
 
 (c) the network service provider has designated a representative to receive any notice referred to in paragraph (b)(iii) and published the prescribed information on the designated representative in the prescribed manner.
 
-(5) For the purposes of subsection (4), where a network service provider is not an individual, the network service provider shall not be treated as having acquired any knowledge referred to in subsection (4)(b) —
+(5) For the purposes of subsection (4), a notice purportedly made by the owner of the copyright in the material or under the owner’s authority which is not a notice referred to in subsection (4)(b)(iii) shall not be considered in determining whether the network service provider has acquired any knowledge referred to in subsection (4)(b)(i) or (ii).
 
-(a) unless that knowledge is acquired by the representative referred to in subsection (4)(c); and
+[22/2005 wef 15/08/2005]
 
-(b) where it is alleged that the representative has acquired that knowledge by reason only of any communication made to the representative, unless that communication is in the form of the notice referred to in subsection (4)(b)(iii).
+(6) For the purposes of subsections (2)(a) and (4)(a), in determining whether a financial benefit is directly attributable to the infringement of copyright in the material, the court shall have regard to —
 
-(6) For the purposes of subsections (2)(a) and (4)(a) —
+(a) industry practice in relation to the charging of services by network service providers;
 
-(a) a financial benefit does not include a benefit that is received merely on account of the provision of any online service by the network service provider; and
+(b) whether the financial benefit was greater than the benefit that would usually result from charging in accordance with accepted industry practices; and
 
-(b) a financial benefit is to be regarded as directly attributable to the infringing activity only if the network service provider knew or ought reasonably to have known at the time of the receipt of the benefit that an infringement of copyright was involved.
+(c) all other matters that the court considers relevant.
+
+[22/2005 wef 15/08/2005]
 
 [52/2004 wef 01/01/2005]
 
@@ -5528,13 +5580,37 @@ if —
 
 (2) The conditions referred to in subsection (1)(ii) are that —
 
-(a) after such removal or disabling, the network service provider expeditiously takes reasonable steps to notify the person who made available the electronic copy of the material on the network of this; and
+(a) after such removal or disabling, the network service provider expeditiously takes reasonable steps —
 
-(b) where the network service provider is furnished in the prescribed manner, within the prescribed time, with a notice in the prescribed form purportedly made by the person who made available the electronic copy of the material on the network, or under that person’s authority, stating the prescribed matters —
+(i) to notify the person who made available the electronic copy of the material on the network of this; and
 
-(i) the network service provider expeditiously takes reasonable steps to restore the electronic copy of the material to the network, or to restore access to that electronic copy, as the case may be, if it is technically and practically feasible to do so; or
+(ii) in the case of any removal or disabling done in reliance on any notice referred to in section 193D(2)(b)(iii) or (4)(b)(iii), to provide that person with a copy of that notice; and
 
-(ii) before the network service provider has completed the steps referred to in sub-paragraph (i), the owner of the copyright in the material commences proceedings to prevent the electronic copy of the material, or the access to it, from being restored, and the network service provider is informed of those proceedings.
+(b) where the network service provider is furnished in the prescribed manner, within the prescribed time, with a notice in, or substantially in accordance with, the prescribed form purportedly made by the person who made available the electronic copy of the material on the network, or under that person’s authority, stating the prescribed matters (referred to in this section as the counter notice) —
+
+(i) in the case of any removal or disabling done in reliance on any notice referred to in section 193D(2)(b)(iii) or (4)(b)(iii) —
+
+(A) subject to any other written law relating to privacy or data protection, the network service provider expeditiously provides the person who furnished the notice referred to in section 193D(2)(b)(iii) or (4)(b)(iii) with a copy of the counter notice;
+
+(B) the network service provider expeditiously notifies the person who furnished the notice referred to in section 193D(2)(b)(iii) or (4)(b)(iii) that the network service provider will take reasonable steps to restore the electronic copy of the material to the network or to restore access to that electronic copy, as the case may be, if it is technically and practically feasible to do so, unless, within 10 working days after the date of such notification —
+
+(BA) court proceedings are commenced by the owner of the copyright in the material, or under the owner’s authority, to prevent that electronic copy or the access to that electronic copy, as the case may be, from being restored; and
+
+(BB) the network service provider is informed in writing of the court proceedings; and
+
+(C) the network service provider takes reasonable steps to restore the electronic copy of the material to the network or to restore access to that electronic copy, as the case may be, if it is technically and practically feasible to do so, not less than 10, nor more than 14, working days after the date of the notification referred to in sub-paragraph (B), unless, within 10 working days after that date —
+
+(CA) court proceedings are commenced by the owner of the copyright in the material, or under the owner’s authority, to prevent that electronic copy or the access to that electronic copy, as the case may be, from being restored; and
+
+(CB) the network service provider is informed in writing of the court proceedings; or
+
+(ii) in the case of any removal or disabling done in reliance on any knowledge referred to in section 193D(2)(b)(i) or (ii) or (4)(b)(i) or (ii), the network service provider takes reasonable steps to restore the electronic copy of the material to the network or to restore access to that electronic copy, as the case may be, if it is technically and practically feasible to do so, not less than 10, nor more than 14, working days after the date the network service provider is furnished with the counter notice, unless, within 10 working days after that date —
+
+(A) court proceedings are commenced by the owner of the copyright in the material, or under the owner’s authority, to prevent that electronic copy or the access to that electronic copy, as the case may be, from being restored; and
+
+(B) the network service provider is informed in writing of the court proceedings.
+
+[22/2005 wef 15/08/2005]
 
 (3) Subsection (1) shall apply whether or not it is ultimately determined that any relevant act that was carried out constitutes an infringement of copyright in the material under this Act.
 
@@ -5544,15 +5620,17 @@ if —
 
 (b) the restoration of access to an electronic copy of any material on any network,
 
-if such restoration was done in reliance on any notice referred to in subsection (2)(b).
+if such restoration was done in reliance on any counter notice referred to in subsection (2)(b).
 
-(5) A network service provider shall not be treated as having authorised the doing of any act which is an infringement of copyright under this Act by reason only that the network service provider —
+(5) A network service provider shall not be treated as having authorised the doing of any act which is an infringement of copyright under this Act solely by reason of the occurrence of only one of the following matters:
 
-(a) has provided a facility which was used by another person to do that act;
+(a) the network service provider has provided a facility which was used by another person to do that act;
 
-(b) has received any notice referred to in section 193C(2)(b) or 193D(2)(b)(iii) or (4)(b)(iii) in respect of that act; or
+(b) the network service provider has received any notice referred to in section 193C(2)(b) or 193D(2)(b)(iii) or (4)(b)(iii) in respect of that act;
 
-(c) has acquired any knowledge referred to in section 193D(2)(b)(i) or (ii) or (4)(b)(i) or (ii) in respect of that act.
+(c) the network service provider has acquired any knowledge referred to in section 193D(2)(b)(i) or (ii) or (4)(b)(i) or (ii) in respect of that act.
+
+[22/2005 wef 15/08/2005]
 
 [52/2004 wef 01/01/2005]
 
@@ -5632,7 +5710,7 @@ the court shall presume, in the absence of evidence to the contrary, that the ne
 
 ### User caching
 
-193E\. Copyright in any material is not infringed by the making of a transient or incidentalelectronic copy of the material from an electronic copy of the material made available on a network, if the making of the first-mentioned copy is required for the viewing, listening or utilisation of the material by a user of this or another network.
+193E\. Copyright in any material is not infringed by the making of a transient and incidental electronic copy of the material from an electronic copy of the material made available on a network, if the making of the first-mentioned copy is required for the viewing, listening or utilisation of the material by a user of this or another network.
 
 [38/99]
 
@@ -5922,7 +6000,15 @@ of a copy of a sound recording or a cinematograph film bearing, or to which ther
 
 202\.—(1) The Minister may make regulations, not inconsistent with this Act prescribing all matters that are required to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-(2) Without prejudice to the generality of subsection (1), the regulations made under this Act may provide for the keeping and retention of records and declarations in relation to copies of works made by libraries, archives or institutions and the deposit of such records and declarations with persons appointed by the Minister.
+(2) Without prejudice to the generality of subsection (1), the regulations made under this Act may provide for —
+
+(a) the keeping and retention of records and declarations in relation to copies of works made by libraries, archives or institutions;
+
+(b) the deposit of such records and declarations with persons appointed by the Minister; and
+
+(c) the fees payable in respect of any application or matter under this Act.
+
+[22/2005 wef 15/08/2005]
 
 203\. 2[Omitted]
 
@@ -6690,7 +6776,7 @@ if the network service provider satisfies the conditions set out in subsection (
 
 (a) the network service provider does not make any substantive modification (other than any modification made as part of a technical process) to the content of the cached copy of the electronic recording of the performance during the transmission of the cached copy of the electronic recording of the performance to users of the primary network or another network;
 
-(b) if the network service provider is furnished in the prescribed manner with a notice in, the prescribed form relating to the cached copy of the electronic recording of the performance —
+(b) if the network service provider is furnished in the prescribed manner with a notice in, or substantially in accordance with, the prescribed form relating to the cached copy of the electronic recording of the performance —
 
 (i) purportedly made by the performer of the performance or under the performer’s authority; and
 
@@ -6732,7 +6818,7 @@ if the network service provider satisfies the conditions referred to in subsecti
 
 (ii) acquires knowledge of such facts or circumstances which would lead inevitably to the conclusion that there has been an unauthorised use of the performance in, or in the course of, making available the electronic recording of the performance on the primary network; or
 
-(iii) is furnished in the prescribed manner with a notice in the prescribed form relating to the electronic recording of the performance on the primary network —
+(iii) is furnished in the prescribed manner with a notice in, or substantially in accordance with, the prescribed form relating to the electronic recording of the performance on the primary network —
 
 (A) purportedly made by the performer of the performance or under the performer’s authority; and
 
@@ -6742,11 +6828,9 @@ the network service provider expeditiously takes reasonable steps to remove or d
 
 (c) the network service provider has designated a representative to receive any notice referred to in paragraph (b)(iii) and published the prescribed information on the designated representative in the prescribed manner.
 
-(3) For the purposes of subsection (2), where a network service provider is not an individual, the network service provider shall not be treated as having acquired any knowledge referred to in subsection (2)(b)(i) or (ii) —
+(3) For the purposes of subsection (2), a notice purportedly made by the performer of the performance or under the performer’s authority which is not a notice referred to in subsection (2)(b)(iii) shall not be considered in determining whether the network service provider has acquired any knowledge referred to in subsection (2)(b)(i) or (ii).
 
-(a) unless that knowledge is acquired by the representative referred to in subsection (2)(c); and
-
-(b) where it is alleged that the representative has acquired that knowledge by reason only of any communication made to the representative, unless that communication is in the form of the notice referred to in subsection (2)(b)(iii).
+[22/2005 wef 15/08/2005]
 
 (4) The conditions referred to in subsection (1)(b) are that —
 
@@ -6758,7 +6842,7 @@ the network service provider expeditiously takes reasonable steps to remove or d
 
 (ii) acquires knowledge of such facts or circumstances which would lead inevitably to the conclusion that there has been an unauthorised use of the performance in, or in the course of, making available the electronic recording of the performance on the originating network; or
 
-(iii) is furnished in the prescribed manner with a notice in the prescribed form relating to the electronic recording of the performance on the originating network —
+(iii) is furnished in the prescribed manner with a notice in, or substantially in accordance with, the prescribed form relating to the electronic recording of the performance on the originating network —
 
 (A) purportedly made by the performer of the performance or under the performer’s authority; and
 
@@ -6768,17 +6852,19 @@ the network service provider expeditiously takes reasonable steps to disable acc
 
 (c) the network service provider has designated a representative to receive any notice referred to in paragraph (b)(iii) and published the prescribed information on the designated representative in the prescribed manner.
 
-(5) For the purposes of subsection (4), where a network service provider is not an individual, the network service provider shall not be treated as having acquired any knowledge referred to in subsection (4)(b) —
+(5) For the purposes of subsection (4), a notice purportedly made by the performer of the performance or under the performer’s authority which is not a notice referred to in subsection (4)(b)(iii) shall not be considered in determining whether the network service provider has acquired any knowledge referred to in subsection (4)(b)(i) or (ii).
 
-(a) unless that knowledge is acquired by the representative referred to in subsection (4)(c); and
+[22/2005 wef 15/08/2005]
 
-(b) where it is alleged that the representative has acquired that knowledge by reason only of any communication made to the representative, unless that communication is in the form of the notice referred to in subsection (4)(b)(iii).
+(6) For the purposes of subsections (2)(a) and (4)(a), in determining whether a financial benefit is directly attributable to the unauthorised use of the performance, the court shall have regard to —
 
-(6) For the purposes of subsections (2)(a) and (4)(a) —
+(a) industry practice in relation to the charging of services by network service providers;
 
-(a) a financial benefit does not include a benefit that is received merely on account of the provision of any online service by the network service provider; and
+(b) whether the financial benefit was greater than the benefit that would usually result from charging in accordance with accepted industry practices; and
 
-(b) a financial benefit is to be regarded as directly attributable to an unauthorised use of the performance only if the network service provider knew or ought reasonably to have known at the time of the receipt of the benefit that an unauthorised use of the performance was involved.
+(c) all other matters that the court considers relevant.
+
+[22/2005 wef 15/08/2005]
 
 [52/2004 wef 01/01/2005]
 
@@ -6798,13 +6884,37 @@ if —
 
 (2) The conditions referred to in subsection (1)(ii) are that —
 
-(a) after such removal or disabling, the network service provider expeditiously takes reasonable steps to notify the person who made available the electronic recording of the performance on the network of this; and
+(a) after such removal or disabling, the network service provider expeditiously takes reasonable steps —
 
-(b) where the network service provider is furnished in the prescribed manner, within the prescribed time, with a notice in the prescribed form purportedly made by the person who made available the electronic recording of the performance on the network, or under that person’s authority, stating the prescribed matters —
+(i) to notify the person who made available the electronic recording of the performance on the network of this; and
 
-(i) the network service provider expeditiously takes reasonable steps to restore the electronic recording of the performance to the network, or to restore access to that electronic recording, as the case may be, if it is technically and practically feasible to do so; or
+(ii) in the case of any removal or disabling done in reliance on any notice referred to in section 252C(2)(b)(iii) or (4)(b)(iii), to provide that person with a copy of that notice; and
 
-(ii) before the network service provider has completed the steps referred to in sub-paragraph (i), the performer of the performance commences proceedings to prevent the electronic recording of the performance, or the access to it, from being restored, and the network service provider is informed of those proceedings.
+(b) where the network service provider is furnished in the prescribed manner, within the prescribed time, with a notice in, or substantially in accordance with, the prescribed form purportedly made by the person who made available the electronic recording of the performance on the network, or under that person’s authority, stating the prescribed matters (referred to in this section as the counter notice) —
+
+(i) in the case of any removal or disabling done in reliance on any notice referred to in section 252C(2)(b)(iii) or (4)(b)(iii) —
+
+(A) subject to any other written law relating to privacy or data protection, the network service provider expeditiously provides the person who furnished the notice referred to in section 252C(2)(b)(iii) or (4)(b)(iii) with a copy of the counter notice;
+
+(B) the network service provider expeditiously notifies the person who furnished the notice referred to in section 252C(2)(b)(iii) or (4)(b)(iii) that the network service provider will take reasonable steps to restore the electronic recording of the performance to the network or to restore access to that electronic recording, as the case may be, if it is technically and practically feasible to do so, unless, within 10 working days after the date of such notification —
+
+(BA) court proceedings are commenced by the performer of the performance, or under the performer’s authority, to prevent that electronic recording or the access to that electronic recording, as the case may be, from being restored; and
+
+(BB) the network service provider is informed in writing of the court proceedings; and
+
+(C) the network service provider takes reasonable steps to restore the electronic recording of the performance to the network or to restore access to that electronic recording, as the case may be, if it is technically and practically feasible to do so, not less than 10, nor more than 14, working days after the date of the notification referred to in sub-paragraph (B), unless, within 10 working days after that date —
+
+(CA) court proceedings are commenced by the performer of the performance, or under the performer’s authority, to prevent that electronic recording or the access to that electronic recording, as the case may be, from being restored; and
+
+(CB) the network service provider is informed in writing of the court proceedings; or
+
+(ii) in the case of any removal or disabling done in reliance on any knowledge referred to in section 252C(2)(b)(i) or (ii) or (4)(b)(i) or (ii), the network service provider takes reasonable steps to restore the electronic recording of the performance to the network or to restore access to that electronic recording, as the case may be, if it is technically and practically feasible to do so, not less than 10, nor more than 14, working days after the date the network service provider is furnished with the counter notice, unless, within 10 working days after that date —
+
+(A) court proceedings are commenced by the performer of the performance, or under the performer’s authority, to prevent that electronic recording or the access to that electronic recording, as the case may be, from being restored; and
+
+(B) the network service provider is informed in writing of the court proceedings.
+
+[22/2005 wef 15/08/2005]
 
 (3) Subsection (1) shall apply whether or not it is ultimately determined that any relevant act that was carried out constitutes an unauthorised use of the performance under this Act.
 
@@ -6814,15 +6924,17 @@ if —
 
 (b) the restoration of access to an electronic recording of any performance on any network,
 
-if such restoration was done in reliance on any notice referred to in subsection (2)(b).
+if such restoration was done in reliance on any counter notice referred to in subsection (2)(b).
 
-(5) A network service provider shall not be treated as having authorised the doing of any act which is an unauthorised use of a performance under this Act by reason only that the network service provider —
+(5) A network service provider shall not be treated as having authorised the doing of any act which is an unauthorised use of a performance under this Act solely by reason of the occurrence of only one of the following matters:
 
-(a) has provided a facility which was used by another person to do that act;
+(a) the network service provider has provided a facility which was used by another person to do that act;
 
-(b) has received any notice referred to in section 252B(2)(b) or 252C(2)(b)(iii) or (4)(b)(iii) in respect of that act; or
+(b) the network service provider has received any notice referred to in section 252B(2)(b) or 252C(2)(b)(iii) or (4)(b)(iii) in respect of that act;
 
-(c) has acquired any knowledge referred to in section 252C(2)(b)(i) or (ii) or (4)(b)(i) or (ii) in respect of that act.
+(c) the network service provider has acquired any knowledge referred to in section 252C(2)(b)(i) or (ii) or (4)(b)(i) or (ii) in respect of that act.
+
+[22/2005 wef 15/08/2005]
 
 [52/2004 wef 01/01/2005]
 
@@ -6904,11 +7016,35 @@ the court shall presume, in the absence of evidence to the contrary, that the ne
 
 252CF\. Sections 252A to 252CD do not limit the operation of the other provisions of this Part in relation to determining whether there has been an unauthorised use of a performance.
 
+(1) Sections 252A to 252CD do not limit the operation of the other provisions of this Part in relation to determining whether there has been an unauthorised use of a performance.
+
+[22/2005 wef 15/08/2005]
+
+(2) Nothing in sections 252A to 252CD shall be construed as making the applicability of sections 252A, 252B, 252C and 252CB conditional on —
+
+(a) a network service provider monitoring its service or affirmatively seeking facts indicating any unauthorised use of any performance, except to the extent consistent with any standard technical measure; or
+
+(b) a network service provider gaining access to, removing or disabling access to any electronic recording of any performance in any case in which such conduct is prohibited by law.
+
+[22/2005 wef 15/08/2005]
+
+(3) In subsection (2), “standard technical measure” means any technical measure accepted in Singapore that —
+
+(a) is used to identify or protect recordings or performances;
+
+(b) has been developed through an open, voluntary process by a broad consensus of performers and network service providers;
+
+(c) is available to any person on reasonable and non-discriminatory terms; and
+
+(d) does not impose substantial costs on network service providers or substantial burdens on their primary networks.
+
+[22/2005 wef 15/08/2005]
+
 [52/2004 wef 01/01/2005]
 
 ### User caching
 
-252D\. Notwithstanding section 252, the making of a transient or incidental electronic copy of a recording of a performance, being an electronic recording made available on a network, does not constitute an unauthorised use of the performance if the making of the copy is required for the viewing, listening or utilisation of the performance by the user of this or another network.
+252D\. Notwithstanding section 252, the making of a transient and incidental electronic copy of a recording of a performance, being an electronic recording made available on a network, does not constitute an unauthorised use of the performance if the making of the copy is required for the viewing, listening or utilisation of the performance by the user of this or another network.
 
 [38/99]
 
@@ -6958,7 +7094,7 @@ the court shall presume, in the absence of evidence to the contrary, that the ne
 
 (iii) all other relevant matters,
 
-the court may, in assessing damages under subsection (2) (b), award such additional damages as it considers appropriate in the circumstances.
+the court may, in assessing damages under subsection (2)(b), award such additional damages as it considers appropriate in the circumstances.
 
 [6/98]
 
@@ -7330,7 +7466,7 @@ an action may be brought by the owner or exclusive licensee of the copyright or 
 
 (a) wilfully; and
 
-(b) for the purpose of obtaining any commercial advantage ,
+(b) for the purpose of obtaining any commercial advantage or private financial gain,
 
 he shall be guilty of an offence and shall be liable on conviction —
 
@@ -7498,9 +7634,9 @@ under any provision of this Act.
 
 (3) An action shall not be brought under subsection (2) in respect of any contravention of subsection (1) after the expiration of 6 years from the time when the contravention took place.
 
-(4) Where a person contravenes subsection (1)(a) wilfully and for the purpose of obtaining a commercial advantage , he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+(4) Where a person contravenes subsection (1)(a) wilfully and for the purpose of obtaining a commercial advantage or private financial gain, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
-(5) Where a person contravenes subsection (1)(b) or (c) wilfully and for the purpose of obtaining a commercial advantage , he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+(5) Where a person contravenes subsection (1)(b) or (c) wilfully and for the purpose of obtaining a commercial advantage or private financial gain, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 (6) For the purposes of subsection (5), a person shall not be treated as having contravened subsection (1)(b) wilfully unless —
 
@@ -7916,6 +8052,11 @@ This Legislative History is provided for the convenience of users of the Copyrig
 |||(Bill No. 48/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|16 November 2004|
 ||Date of commencement|1 January 2005|
+|17.|**Act 22 of 2005—Copyright (Amendment) Act 2005**|
+||Date of First Reading|16 May 2005|
+|||(Bill No. 12/2005 published on 17 May 2005)|
+||Date of Second and Third Readings|18 July 2005|
+||Date of commencement|15 August 2005|
 ## COMPARATIVE TABLE
 
 Copyright Act
