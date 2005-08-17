@@ -170,9 +170,17 @@ EDUCATION ENDOWMENT SCHEME
 
 (a) all contributions under section 9;
 
-(b) all income of that Fund; and
+(b) all income of that Fund;
 
-(c) all moneys to be transferred to a member’s Edusave account under the Children Development Co-Savings Act 2001,
+[Act 32/2005 wef 17/08/2005]
+
+(c) all moneys to be transferred to a member’s Edusave account under the Children Development Co-Savings Act 2001; and
+
+[Act 32/2005 wef 17/08/2005]
+
+(d) any cash grant made by the Government,
+
+[Act 32/2005 wef 17/08/2005]
 
 and out of which shall be met all payments authorised to be paid under this Act.
 
@@ -405,3 +413,8 @@ This Legislative History is provided for the convenience of users of the Educati
 |||(Bill No. 13/2001 published on 23 February 2001)|
 ||Date of Second and Third Readings|16 March 2001|
 ||Date of commencement|1 April 2001|
+|4.|**Act 32 of 2005—Education Endowment Scheme (Amendment) Act 2005**|
+||Date of First Reading|15 August 2005|
+|||(Bill No. 23/2005 published on 16 August 2005)|
+||Date of Second and Third Readings|19 September 2005|
+||Date of commencement|17 August 2005|
