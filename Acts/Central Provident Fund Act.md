@@ -156,6 +156,10 @@
 
 - [56 Establishment of MediShield Fund](#Establishment-of-MediShield-Fund)
 
+- [56A Transfer of liabilities under Scheme](#Transfer-of-liabilities-under-Scheme)
+
+- [56B Non-application of Insurance Act](#Non-application-of-Insurance-Act)
+
 - [57 Regulations for purposes of this Part](#Regulations-for-purposes-of-this-Part)
 
 [**Part VII OFFENCES, PENALTIES AND PROCEEDINGS**](#Part-VII)
@@ -610,7 +614,7 @@ CONTRIBUTIONS TO FUND
 
 [15/2006 wef 01/07/2006]
 
-(b) a medisave account from which, apart from sections 15(2) to (5) and 54 but subject to section 16, withdrawals may be made in accordance with any regulations made under section 77(1)(j) and (k); and
+(b) a medisave account from which, apart from sections 15(2) to (5) and 54 , withdrawals may be made in accordance with any regulations made under section 77(1)(j) and (k); and
 
 [24/2005 wef 22/08/2005]
 
@@ -1062,8 +1066,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (b) for the payment of improvement contributions due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129), or any improvement contribution due to a Town Council in respect of lift upgrading works carried out under Part IVA of the Town Councils Act (Cap. 329A), including the payment of such costs, fees or other incidental expenses arising from the upgrading works as are authorised by any regulations made under section 77.
 
-[23/2005 wef 15/08/2005]
-
 [12/99]
 
 ### Provisions relating to maintenance of minimum sum and transfer or payment of moneys into retirement account
@@ -1171,8 +1173,6 @@ if the member and the person or persons, as the case may be, give an undertaking
 (ii) to a Town Council constituted under the Town Councils Act (Cap. 329A) in respect of upgrading works carried out under Part IVA of that Act,
 
 including costs, fees or other incidental expenses arising from such works;
-
-[23/2005 wef 15/08/2005]
 
 (d) to pay any costs, fees or other expenses incurred —
 
@@ -1357,8 +1357,6 @@ the Board may register or notify, in the appropriate register maintained by the 
 [57/2007 wef 01/01/2008]
 
 (c) to pay any improvement contribution due to the Housing and Development Board in respect of upgrading works carried out on an HDB flat under Part IVA of the Housing and Development Act (Cap. 129), or any improvement contribution due to a Town Council in respect of lift upgrading works carried out in relation to an HDB flat under Part IVA of the Town Councils Act (Cap. 329A), including the payment of costs, fees or other incidental expenses arising from such works; or
-
-[23/2005 wef 15/08/2005]
 
 (d) to pay any costs, fees or other expenses incurred —
 
@@ -2094,6 +2092,10 @@ MEDISHIELD SCHEME
 
 52\. In this Part —
 
+“appointed insurer” means any person who is registered under the Insurance Act (Cap. 142) to carry on insurance business in Singapore and who is appointed by the Board to take over any part of the Board’s liabilities under the Scheme or to provide insurance cover to any person under the Scheme;
+
+[24/2005 wef 22/08/2005]
+
 “approved hospital” means any hospital approved by the Minister for Health;
 
 “insured person” means a person who is insured under the Scheme;
@@ -2158,6 +2160,60 @@ MEDISHIELD SCHEME
 
 [15/90]
 
+### Transfer of liabilities under Scheme
+
+56A\.—(1) The Minister may make regulations to transfer any part of the Board’s liabilities under the Scheme (including the insurance covers issued under the Scheme that give rise to such liabilities) to one or more appointed insurers.
+
+(2) Without prejudice to the generality of subsection (1), regulations made under that subsection may —
+
+(a) prescribe the cases in which or the circumstances under which the Board shall continue to be liable to make payments to insured persons whose insurance covers under the Scheme have been transferred to an appointed insurer;
+
+(b) provide for such consequential, saving and transitional provisions as are necessary to facilitate the transfer of the Board’s liabilities under the Scheme;
+
+(c) prescribe the necessary modifications to be made to any other provision of this Act in order to bring such provision into conformity with the transfer of the Board’s liabilities under the Scheme; and
+
+(d) provide for such other matters as the Minister thinks necessary or expedient for the transfer of the Board’s liabilities under the Scheme.
+
+(3) The Board may require any appointed insurer to transfer to another appointed insurer, in such manner and on such terms and conditions as the Board thinks fit, those liabilities of the Board under the Scheme that have been transferred to the first-mentioned appointed insurer under this section.
+
+(4) The transfer of any liability under the Scheme —
+
+(a) by the Board to an appointed insurer under subsection (1); or
+
+(b) by one appointed insurer to another appointed insurer pursuant to the requirement of the Board under subsection (3),
+
+may be made, and shall be valid and effectual, notwithstanding anything to the contrary in any written law or rule of law or the absence of any agreement or consent which would otherwise be necessary.
+
+(5) If any question arises as to whether any particular liability of the Board under the Scheme has been transferred to an appointed insurer under this section, a certificate under the hand of the Minister shall be conclusive evidence that the liability was or was not so transferred.
+
+(6) An appointed insurer to whom any part of the Board’s liabilities under the Scheme have been transferred under this section shall provide insurance cover to every transferred insured person in accordance with such requirements as may be specified by the Board, including requirements relating to —
+
+(a) the minimum benefits and rights that the appointed insurer must confer upon the person; and
+
+(b) the terms and conditions subject to which the appointed insurer may issue insurance cover to the person.
+
+(7) Upon the transfer of the Board’s liabilities under the Scheme to an appointed insurer under subsection (1), the Board may —
+
+(a) subject to such terms or conditions as it thinks fit to impose, pay to the appointed insurer such part of the moneys in the MediShield Fund as the Board thinks necessary to enable the appointed insurer to meet the liabilities so transferred to it; and
+
+(b) retain such part of the moneys in the MediShield Fund as it thinks necessary for meeting any of its own liabilities under the Scheme that may have arisen prior to the transfer.
+
+(8) The Board may, by arrangement with an insurer, take over such of the undertakings of the insurer which, in the opinion of the Board, are suitable and expedient for the purposes of the Scheme.
+
+(9) Where, in connection with the Board’s taking over of the undertakings of an insurer under subsection (8), the insurer transfers any sum to the Board, the Board shall pay the sum so transferred to it by the insurer into the MediShield Fund.
+
+[24/2005 wef 22/08/2005]
+
+### Non-application of Insurance Act
+
+56B\. The Insurance Act (Cap. 142) shall not apply —
+
+(a) to anything done by the Board under this Part; or
+
+(b) to the transfer of any liability under section 56A(1), (3) or (8).
+
+[24/2005 wef 22/08/2005]
+
 ### Regulations for purposes of this Part
 
 57\. The Minister may make such regulations as are necessary or expedient for the purpose of carrying out the provisions of this Part and, in particular, such regulations may —
@@ -2218,11 +2274,15 @@ he shall be guilty of an offence.
 
 (5) No refund shall be made of any fee paid under subsection (3).
 
-(6) The Board may, on the request by an insurer administering or operating an insurance scheme referred to in section 77(1)(ja), give to the insurer information, in the Board’s possession, on any member that the insurer requires for the purpose of administering or operating the insurance scheme, including information relating to the amount standing to his credit in his medisave account.
+(6) The Board may, on the request by an insurer administering or operating an insurance scheme referred to in section 77(1)(k), give to the insurer information, in the Board’s possession, on any member or his dependant that the insurer requires for the purpose of administering or operating the insurance scheme, including any medical information and information relating to the amount standing to the credit of the member in his medisave account.
+
+[24/2005 wef 22/08/2005]
 
 (7) The insurer may not use the information given under subsection (6) for any other purpose except —
 
-(a) for the purpose of determining whether a member is entitled to join the insurance scheme referred to in section 77(1)(ja); or
+(a) for the purpose of determining whether a member or his dependant is entitled to be insured under the insurance scheme referred to in section 77(1)(k); or
+
+[24/2005 wef 22/08/2005]
 
 (b) for any other purpose connected with the administration or operation of the insurance scheme.
 
@@ -2551,8 +2611,6 @@ the amount paid in error shall not be refunded but shall be deemed to have been 
 (ii) improvement contributions due to a Town Council constituted under the Town Councils Act (Cap. 329A) in respect of upgrading works carried out under Part IVA of that Act,
 
 including the payment of costs, fees or other incidental expenses arising from such works; and
-
-[23/2005 wef 15/08/2005]
 
 (s) as are necessary or expedient for giving full effect to the purposes and provisions of this Act.
 
@@ -4866,6 +4924,11 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 13/2005 published on 17 May 2005)|
 ||Date of Second and Third Readings|18 July 2005|
 ||Date of commencement|15 August 2005|
+|142.|**Act 24 of 2005—Central Provident Fund (Amendment) Act 2005**|
+||Date of First Reading|16 May 2005|
+|||(Bill No. 14/2005 published on 17 May 2005)|
+||Date of Second and Third Readings|19 July 2005|
+||Dates of commencement|22 August 2005 (except sections 3 to 13 and 17)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
