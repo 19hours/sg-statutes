@@ -2328,6 +2328,8 @@ Section 2
 
 Serious Offences
 
+Part I — Offences included as serious offences with effect from 13th September 1999
+
 Offences
 
 Description*
@@ -3078,6 +3080,28 @@ Importation of woman or girl by false pretences
 
 Causing or encouraging prostitution of, intercourse with, or indecent assault on, girl below the age of 16
 
+Part II — Offences included as serious offences with effect from 9th September 2005
+
+[S 579/2005 wef 09/09/2005]
+
+Offences
+
+Description*
+
+Moneylenders Act(Cap\. 188) 
+
+183. Section 8
+
+Offences
+
+184. Section 33
+
+Harassing debtor, besetting his residence, etc.
+
+[31/2008 wef 01/03/2009]
+
+[25/99]
+
 ## LEGISLATIVE HISTORY
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
@@ -3151,6 +3175,8 @@ This Legislative History is provided for the convenience of users of the Corrupt
 |||(Bill No. 22/2004 published on 20 May 2004)|
 ||Date of Second and Third Readings|15 June 2004|
 ||Date of commencement|12 October 2004|
+|13.|**G. N. No. S 579/2005—Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Amendment of Second Schedule) Order 2005**|
+||Date of commencement|9 September 2005|
 ## COMPARATIVE TABLE
 
 Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
@@ -3165,17 +3191,17 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 1993 Ed\. 
 
-2 — (1) definition of “realisable property”
+2 —(1) definition of “realisable property”
 
-8 — (1)
+8 —(1)
 
 (2)
 
-2 — (3) and (4)
+2 —(3) and (4)
 
-3 — (1) and (2)
+3 —(1) and (2)
 
-3 — (1)
+3 —(1)
 
 (3) and (4)
 
@@ -3185,9 +3211,9 @@ This Comparative Table is provided for the convenience of users. It is not part 
 
 (2)
 
-4 — (4A)
+4 —(4A)
 
-Proviso to4 — (4)
+Proviso to4 —(4)
 
 5 
 
@@ -3217,9 +3243,9 @@ Proviso to4 — (4)
 
 7A 
 
-12 — (1) to (7)
+12 —(1) to (7)
 
-8 — (2) to (8)
+8 —(2) to (8)
 
 (8)
 
@@ -3285,9 +3311,9 @@ Proviso to4 — (4)
 
 23 
 
-28 — (1)
+28 —(1)
 
-24 — (1)
+24 —(1)
 
 (2) and (3)
 
@@ -3313,7 +3339,7 @@ Proviso to4 — (4)
 
 26B (Repealed by Act 12/2000)
 
-32 — (1) and (2)
+32 —(1) and (2)
 
 27 
 
@@ -3369,9 +3395,9 @@ Proviso to4 — (4)
 
 39A 
 
-42 — (1)
+42 —(1)
 
-40 — (1)
+40 —(1)
 
 (2) and (2A)
 
