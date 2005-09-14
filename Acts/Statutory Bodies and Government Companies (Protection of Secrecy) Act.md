@@ -85,6 +85,12 @@ Building and Construction Authority Act
 
 (Chapter 30A)
 
+1A.
+
+Agency for Science, Technology and Research
+
+Agency for Science, Technology and Research Act (Chapter 5A)
+
 2.
 
 Central Provident Fund Board
@@ -107,6 +113,12 @@ Civil Aviation Authority of Singapore Act
 
 (Chapter 41)
 
+4.
+
+Competition Commission of Singapore
+
+Competition Act 2004 (Act 46 of 2004)
+
 5.
 
 Defence Science and Technology Agency
@@ -128,6 +140,17 @@ Economic Development Board Act
 
 
 (Chapter 85)
+
+6A.
+
+Energy Market Authority of Singapore
+
+Energy Market Authority of Singapore Act
+
+
+
+
+(Chapter 92B)
 
 7.
 
@@ -355,6 +378,8 @@ Urban Redevelopment Authority Act
 
 (Chapter 340)
 
+[S 599/2005 wef 14/09/2005]
+
 [S 288/2005 wef 06/05/2005]
 
 Part II
@@ -484,3 +509,5 @@ This Legislative History is provided for the convenience of users of the Statuto
 |||(Bill No. 52/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|10 June 2005|
+|35.|**G. N. No. S 599/2005—Statutory Bodies and Government Companies (Protection of Secrecy) Act (Amendment of Schedule) (No. 2) Notification 2005**|
+||Date of commencement|14 September 2005|
