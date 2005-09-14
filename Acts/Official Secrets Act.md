@@ -360,6 +360,10 @@ Specified Organisations
 
 [S 573/2001 wef 23/11/2001]
 
+(4) Competition Commission of Singapore
+
+[S 598/2005 wef 14/09/2005]
+
 (5) Defence Science and Technology Agency
 
 (6) DSO National Laboratories
@@ -512,3 +516,5 @@ This Legislative History is provided for the convenience of users of the Officia
 |||(Bill No. 52/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Dates of commencement|10 June 2005 (Part IV)|
+|24.|**G.N. No. S 598/2005—Official Secrets Act (Amendment of Schedule) (No. 2) Notification 2005**|
+||Date of commencement|14 September 2005|
