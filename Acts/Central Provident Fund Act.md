@@ -1438,7 +1438,7 @@ the Board may, with the prior written approval of the Housing and Development Bo
 
 (14) In this section —
 
-“HDB flat” means any flat, house or other building sold under Part IV of the Housing and Development Act (Cap. 129) which has been acquired by the present owner thereof whether directly from the Housing and Development Board or otherwise;
+“HDB flat” means any flat, house or other building sold under Part IV or IVB of the Housing and Development Act (Cap. 129) which has been acquired by the present owner thereof whether directly from the Housing and Development Board or otherwise;
 
 [29/2005 wef 15/09/2005]
 
@@ -1638,7 +1638,7 @@ HOME PROTECTION INSURANCE SCHEME
 
 ### Interpretation of this Part
 
-28\. In this Part —
+28\.—(1) In this Part —
 
 “approved mortgagee” means a mortgagee approved by the Minister by notification in the Gazette;
 
@@ -1646,7 +1646,7 @@ HOME PROTECTION INSURANCE SCHEME
 
 “Housing Authority” means any of the following:
 
-(a) the Housing and Development Board constituted under section 3 of the Housing and Development Act (Cap. 129);
+(a) the Housing and Development Boardconstituted under section 3 of the Housing and Development Act (Cap. 129);
 
 (b) the Jurong Town Corporation constituted under section 3 of the Jurong Town Corporation Act (Cap. 150);
 
@@ -1663,6 +1663,16 @@ HOME PROTECTION INSURANCE SCHEME
 “Scheme” means the Home Protection Insurance Scheme established and maintained by the Board under section 29(1).
 
 [32/84; 30/87]
+
+[29/2005 wef 15/09/2005]
+
+(2) Except where expressly provided in this Part, the provisions of this Part shall, with such exceptions, modifications and adaptations as the Minister may by order published in theGazetteprescribe, apply (so far as relevant) in relation to any housing accommodation sold or to be sold by an approved developer under Part IVB of the Housing and Development Act (Cap. 129).
+
+[29/2005 wef 15/09/2005]
+
+(3) An order made under subsection (2) shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[29/2005 wef 15/09/2005]
 
 ### Establishment of Home Protection Insurance Scheme
 
@@ -2094,8 +2104,6 @@ MEDISHIELD SCHEME
 
 “appointed insurer” means any person who is registered under the Insurance Act (Cap. 142) to carry on insurance business in Singapore and who is appointed by the Board to take over any part of the Board’s liabilities under the Scheme or to provide insurance cover to any person under the Scheme;
 
-[24/2005 wef 22/08/2005]
-
 “approved hospital” means any hospital approved by the Minister for Health;
 
 “insured person” means a person who is insured under the Scheme;
@@ -2202,8 +2210,6 @@ may be made, and shall be valid and effectual, notwithstanding anything to the c
 
 (9) Where, in connection with the Board’s taking over of the undertakings of an insurer under subsection (8), the insurer transfers any sum to the Board, the Board shall pay the sum so transferred to it by the insurer into the MediShield Fund.
 
-[24/2005 wef 22/08/2005]
-
 ### Non-application of Insurance Act
 
 56B\. The Insurance Act (Cap. 142) shall not apply —
@@ -2211,8 +2217,6 @@ may be made, and shall be valid and effectual, notwithstanding anything to the c
 (a) to anything done by the Board under this Part; or
 
 (b) to the transfer of any liability under section 56A(1), (3) or (8).
-
-[24/2005 wef 22/08/2005]
 
 ### Regulations for purposes of this Part
 
@@ -2276,13 +2280,9 @@ he shall be guilty of an offence.
 
 (6) The Board may, on the request by an insurer administering or operating an insurance scheme referred to in section 77(1)(k), give to the insurer information, in the Board’s possession, on any member or his dependant that the insurer requires for the purpose of administering or operating the insurance scheme, including any medical information and information relating to the amount standing to the credit of the member in his medisave account.
 
-[24/2005 wef 22/08/2005]
-
 (7) The insurer may not use the information given under subsection (6) for any other purpose except —
 
 (a) for the purpose of determining whether a member or his dependant is entitled to be insured under the insurance scheme referred to in section 77(1)(k); or
-
-[24/2005 wef 22/08/2005]
 
 (b) for any other purpose connected with the administration or operation of the insurance scheme.
 
@@ -4929,6 +4929,12 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 14/2005 published on 17 May 2005)|
 ||Date of Second and Third Readings|19 July 2005|
 ||Dates of commencement|22 August 2005 (except sections 3 to 13 and 17)|
+|143.|**Act 29 of 2005—Housing and Development (Amendment) Act 2005**|
+||(Related amendments made to Act by)||
+||Date of First Reading|18 July 2005|
+|||(Bill No. 19/2005 published on 19 July 2005)|
+||Date of Second and Third Readings|15 August 2005|
+||Date of commencement|15 September 2005|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
