@@ -186,6 +186,24 @@
 
 - [65L Savings](#Savings)
 
+[**Part IVB DESIGN-BUILD-and-SELL SCHEME**](#Part-IVB)
+
+- [65M Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [65N Appointment of approved developers](#Appointment-of-approved-developers)
+
+- [65O Approved developers to develop and sell housing accommodation](#Approved-developers-to-develop-and-sell-housing-accommodation)
+
+- [65P Vesting of reversion, etc., in Board](#Vesting-of-reversion-etc-in-Board)
+
+- [65Q Applicability of Part IV to housing accommodation sold under this Part](#Applicability-of-Part-IV-to-housing-accommodation-sold-under-this-Part)
+
+- [65R Eligibility to purchase housing accommodation under this Part](#Eligibility-to-purchase-housing-accommodation-under-this-Part)
+
+- [65S Purchaser dies before temporary occupation permit, etc., issued](#Purchaser-dies-before-temporary-occupation-permit-etc-issued)
+
+- [65T Power to make rules](#Power-to-make-rules)
+
 [**Part V FINANCIAL PROVISIONS**](#Part-V)
 
 - [66 Borrowing powers](#Borrowing-powers)
@@ -344,7 +362,7 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF BOARD
 
 (b) a Deputy Chairman; and
 
-(c) not less than 3 but not more than 7 other members ,
+(c) not less than 3 but not more than 10 other members,
 
 all of whom shall, subject to subsection (9), be appointed by the Minister and on such conditions as he may determine.
 
@@ -418,7 +436,7 @@ he shall disclose to the Board the fact of his interest and the nature thereof.
 
 ### Quorum
 
-10\.—(1) The quorum at all meetings of the Board shall be 3 of whom one shall be the Chairman or the Deputy Chairman, and, in the absence of the Chairman, the Deputy Chairman shall preside at its meetings.
+10\.—(1) The quorum at all meetings of the Board shall be 4 of whom one shall be the Chairman or the Deputy Chairman, and, in the absence of the Chairman, the Deputy Chairman shall preside at its meetings.
 
 (2) A decision of the majority of the members of the Board present and voting at a meeting of the Board shall be deemed to be a decision of the Board.
 
@@ -458,7 +476,9 @@ FUNCTIONS, DUTIES, PROPERTIES AND OFFICERS OF BOARD
 
 (d) to provide loans, with the approval of the Minister, to enable persons to purchase —
 
-(i) any developed land; or
+(i) any developed land or any housing accommodation sold under Part IVB; or
+
+[29/2005 wef 15/09/2005]
 
 (ii) any other land belonging to the Board for which planning permission to develop has been obtained under the Planning Act (Cap. 232),
 
@@ -656,9 +676,19 @@ Compulsory acquisition of land
 
 ### Powers of composition
 
-27A\.—(1) The Board may, in its discretion, compound any offence under any rules made under section 27 which is prescribed as a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+27A\.—(1) The Board or any officer of the Board who is authorised by the Board in that behalf may, in its or his discretion, compound any offence under this Act or any rules made under section 27 which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence —
 
-[28/89; 16/95]
+(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+
+(b) a sum not exceeding $2,000,
+
+whichever is the lower.
+
+[29/2005 wef 15/09/2005]
+
+(1A) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
+
+[29/2005 wef 15/09/2005]
 
 (2) The Board may, with the approval of the Minister, make rules prescribing the offences which may be compounded and the method and procedure by which such offences may be compounded.
 
@@ -1234,6 +1264,10 @@ over that flat, house or other building.
 
 [30/84]
 
+(6) No person shall become entitled to any such flat, house or other building under any resulting trust or constructive trust, whensoever created.
+
+[29/2005 wef 15/09/2005]
+
 ### Transfer of flat, house or other building on death of owner
 
 52\.—(1) The transmission on the death of the owner, whether testate or intestate, or any transfer by the personal representatives of a deceased owner of a flat, house or other building that has been sold subject to the provisions of this Part shall not be registered under the provisions of the Registration of Deeds Act or the Land Titles Act without the written consent of the Board.
@@ -1246,9 +1280,13 @@ over that flat, house or other building.
 
 (2) Where —
 
-(a) no representation has been taken out under a will or on the intestacy of a deceased owner of a flat, house or other building within 12 months from the death of the owner; or
+(a) no representation has been taken out under a will or on the intestacy of a deceased owner of a flat, house or other building within 12 months from the death of the owner;
 
-(b) representation has been taken out but the personal representatives do not apply for the written consent of the Board for the transmission or transfer of the flat, house or other building within 6 months from the date of representation,
+(b) representation has been taken out but the personal representatives do not apply for the written consent of the Board for the transmission or transfer of the flat, house or other building within 6 months from the date of representation; or
+
+(c) representation has been taken out and the personal representatives have the written consent of the Board referred to in paragraph (b), but the sale or transfer of the flat, house or other building is not completed within 12 months from the date of that written consent,
+
+[29/2005 wef 15/09/2005]
 
 the Board may lodge an instrument with the Registrar of Deeds or the Registrar of Titles, as the case may be, to have the flat, house or other building vested in the Board.
 
@@ -1516,9 +1554,15 @@ the Board shall apply to the High Court ex parte by originating summons, support
 
 ### Giving false information
 
-60\. Any person who, in relation to the purchase, mortgage, sale or transfer by such person or any other person of a flat, house or other living accommodation, makes any statement to the Board which is false, and which he either knows or believes to be false or does not believe to be true, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+60\. Any person who —
 
-[21/86; 21/2000]
+(a) in relation to the purchase, mortgage, sale or transfer by such person or any other person of a flat, house or other living accommodation; or
+
+(b) in relation to any application (whether by the person or on behalf of another) to the Board for its permission, consent, approval or licence under this Act or any subsidiary legislation made thereunder,
+
+makes (whether orally, electronically, in writing or otherwise) any statement to the Board which is false, and which he either knows or believes to be false or does not believe to be true, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[29/2005 wef 15/09/2005]
 
 ### Unauthorised subletting
 
@@ -1602,9 +1646,9 @@ UPGRADING WORKS IN PRECINCTS
 
 “special upgrading works” means —
 
-(a) any items of work necessary or ancillary to installing any lift or additional lift in a building or part thereof within a precinct; or
+(a) any items of work necessary or ancillary to installing any lift or additional lift within or in relation to any building or part thereof; or
 
-(b) such other items of upgrading works prescribed by the Minister, being works to be carried out in any building or part thereof (other than any part comprised in a flat) within a precinct for the erection, construction or installation of functional facilities for the convenience of residents of that building in general or a section thereof;
+(b) such other items of upgrading works prescribed by the Minister, being works to be carried out within or in relation to any building or part thereof (other than any part comprised in a flat) within a precinct for the erection, construction or installation of functional facilities for the convenience of residents of that building in general or a section thereof;
 
 “specified upgrading works” means such items of upgrading works as specified by the Board to be carried out in a building or part thereof within a precinct but excludes any special upgrading works;
 
@@ -1646,9 +1690,9 @@ UPGRADING WORKS IN PRECINCTS
 
 [19/92; 21/2000; 31/2002]
 
-(1A) A poll conducted in connection with any proposal to carry out special upgrading works in any building in a precinct shall be a poll of such owners of such flats within the building as may be prescribed, being flats the occupants of which directly benefit from the special upgrading works.
+(1A) A poll conducted in connection with any proposal to carry out special upgrading works within a building, or in relation to more than one building, in a precinct shall be a poll of the prescribed owners of prescribed flats within the building or buildings, as the case may be, being flats the occupants of which directly benefit from the special upgrading works.
 
-[21/2000]
+[29/2005 wef 15/09/2005]
 
 (2) The Board may, with the approval of the Minister, carry out general upgrading works within a precinct if it appears from a poll conducted under subsection (1)(a) of the prescribed owners of flats within the precinct that 75% or more of the total value in votes of all prescribed owners of all flats within the precinct have been cast in favour of the proposal to carry out those upgrading works.
 
@@ -1676,13 +1720,13 @@ the Board may, with the further approval of the Minister, carry out those specif
 
 [16/95]
 
-(5A) The Board may, with the approval of the Minister, carry out special upgrading works in any building within a precinct if and only if —
+(5A) The Board may, with the approval of the Minister, carry out special upgrading works within a building, or in relation to more than one building, within a precinct if, and only if —
 
-(a) it appears from a poll of such owners referred to in subsection (1A) that 75% or more of the total value in votes of such owners within the building in the precinct have been cast in favour of the proposal to carry out special upgrading works in the building; and
+(a) it appears from a poll of the owners referred to in subsection (1A) that 75% or more of the total value in votes of such owners within the building or buildings, as the case may be, have been cast in favour of the proposal to carry out special upgrading works within that building or in relation to those buildings; and
 
-(b) where the proposal is for the special upgrading works to be carried out in the building in the precinct together with any general upgrading works within the precinct, it also appears from a poll of prescribed owners referred to in subsection (2) that 75% or more of the total value in votes of all such owners of all flats within the precinct have been cast in favour of the proposal to carry out the general upgrading works in the precinct.
+(b) where the proposal is for the special upgrading works to be carried out within or in relation to any building in the precinct together with any general upgrading works within the precinct, it also appears from a poll of prescribed owners referred to in subsection (2) that 75% or more of the total value in votes of all such owners of all flats within the precinct have been cast in favour of the proposal to carry out the general upgrading works in the precinct.
 
-[31/2002]
+[29/2005 wef 15/09/2005]
 
 (6) No poll shall be invalid by reason of any failure to comply with any provision of this Part or any rules made thereunder relating to the conduct of a poll if it appears that the poll was conducted in accordance with the principles laid down in that provision, and that the failure did not affect the result of the poll.
 
@@ -1970,6 +2014,154 @@ the Magistrate’s Court may by warrant authorise the Board by any authorised of
 
 [19/92]
 
+## PART IVB
+
+DESIGN-BUILD-and-SELL SCHEME
+
+[29/2005 wef 15/09/2005]
+
+### Interpretation of this Part
+
+65M\. In this Part, unless the context otherwise requires —
+
+“approved developer” means a developer appointed by the Minister under section 65N;
+
+“common property” means so much of the land developed under this Part, and all parts of any building built under this Part, as are not comprised in any housing accommodation;
+
+“develop” means to construct or cause to be constructed any housing accommodation, common property or commercial property, including any building operations in, on, over or under any land for the purpose of erecting any housing accommodation, common property or commercial property;
+
+“housing accommodation” means a horizontal stratum of any building or part thereof, whether such stratum is on one or more levels or is partially or wholly below the surface of the ground, which is wholly constructed, adapted or intended for human habitation or residential use;
+
+“purchaser”, in relation to any housing accommodation built or sold under this Part, includes a person who has purchased a leasehold interest in the housing accommodation;
+
+“relevant date”, in relation to any housing accommodation built by an approved developer under this Part, means the date a temporary occupation permit or certificate of statutory completion is issued by the Commissioner of Building Control under the Building Control Act (Cap. 29) in respect of that housing accommodation, whichever date is the earlier.
+
+### Appointment of approved developers
+
+65N\.—(1) The Minister may, from time to time, for the purposes of this Part, appoint one or more developers as approved developers, subject to such conditions as the Minister may impose.
+
+(2) Notice of any appointment of an approved developer shall be published in theGazette.
+
+(3) Every appointment under this section shall continue in force for such period as may be specified by the Minister unless earlier terminated by the Minister.
+
+### Approved developers to develop and sell housing accommodation
+
+65O\.—(1) It shall be the function and duty of an approved developer —
+
+(a) to develop public housing on such parcels of land held under a State lease as the Minister may specify; and
+
+(b) to sell in accordance with this Part a lease of any housing accommodation built or to be built by the approved developer on that land.
+
+(2) An approved developer shall not, without first obtaining the consent of the Minister, use any unsold housing accommodation built or to be built by the approved developer under this Part, or any part of such unsold housing accommodation, for a purpose that is not a prescribed purpose.
+
+(3) An approved developer shall be exempt from the provisions of —
+
+(a) the Housing Developers (Control and Licensing) Act (Cap. 130) with regard to the form of the contract or agreement for the sale between an approved developer and a purchaser of any housing accommodation; and
+
+(b) Part IV of the Building Maintenance and Strata Management Act 2004 (Act 47 of 2004),
+
+with regard to its carrying out of any development, and to the sale of any housing accommodation it builds, under this Part.
+
+### Vesting of reversion, etc., in Board
+
+65P\.—(1) At any time on or after the relevant date in respect of the housing accommodation built on any parcel of land by an approved developer under this Part, the Minister may, by notification in theGazette, declare that —
+
+(a) the following shall vest in the Board:
+
+(i) the reversion immediately expectant on the lease of every housing accommodation sold by the approved developer;
+
+(ii) the entire estate in any commercial property built by the approved developer on that same parcel of land; and
+
+(iii) the entire estate in the common property, if any, built by the approved developer on that same parcel of land; and
+
+(b) a lease of each unsold housing accommodation shall vest in the approved developer.
+
+(2) Upon the publication of a notification referred to in subsection (1) —
+
+(a) the reversion immediately expectant on every lease referred to in subsection (1)(a)(i) shall vest in the Board, and the Board shall have all powers, rights and remedies to which the approved developer as the reversioner was by law entitled, and shall be subject, to all the covenants and conditions in the lease to be performed and observed by or on the part of the approved developer;
+
+(b) the entire estates in the commercial property and common property referred to in subsection (1)(a)(ii) and (iii), respectively, shall vest in the Board free from all encumbrances; and
+
+(c) a lease of each unsold housing accommodation referred to in subsection (1)(b) shall vest in the approved developer.
+
+(3) An approved developer whose land is the subject of a notification referred to in subsection (1) shall be entitled to receive such compensation as is agreed (whether before, on or after the declaration is registered) between the Board and the approved developer.
+
+(4) After a notification referred to in subsection (1) is published, the Board may take possession of the commercial property and common property described in that notification.
+
+(5) For the avoidance of doubt, this section shall not prejudice the enforcement —
+
+(a) by any purchaser of any housing accommodation or any other person of any right or claim against an approved developer; or
+
+(b) by the approved developer of any right or claim against any purchaser of any housing accommodation or any other person,
+
+arising out of or concerning any matter or thing done before the date the notification referred to in subsection (1) is published.
+
+### Applicability of Part IV to housing accommodation sold under this Part
+
+65Q\.—(1) Except where expressly provided in this Part, the provisions of this Act affecting any flat sold or to be sold by the Board under Part IV shall apply (so far as relevant) to any housing accommodation sold or to be sold by an approved developer under this Part as if the housing accommodation were a flat sold or to be sold by the Board under Part IV pursuant to an application to the Board, with such prescribed exceptions, modifications and adaptations as the differences between Parts IV and IVB require.
+
+(2) Any reference in any provision in this Act to any flat or property sold by the Board under Part IV shall include a reference to any housing accommodation sold by an approved developer under this Part, with such prescribed exceptions, modifications and adaptations as the differences between Parts IV and IVB require.
+
+(3) The provisions of any other existing law that relate to any flat or property sold by the Board under Part IV shall have effect as if any reference therein to any such flat or property also includes a reference to any housing accommodation sold by an approved developer under this Part, with such exceptions, modifications and adaptations as the differences between Parts IV and IVB require.
+
+(4) In this section, “existing law” means any written law having effect as part of the law of Singapore immediately before the commencement of section 11 of the Housing and Development (Amendment) Act 2005.
+
+### Eligibility to purchase housing accommodation under this Part
+
+65R\.—(1) Unless otherwise allowed by the Minister, a person —
+
+(a) shall not be eligible to purchase from an approved developer any housing accommodation under this Part; and
+
+(b) shall cease to be eligible to be a purchaser of such a housing accommodation,
+
+if such person or his spouse is not entitled to purchase from the Board any flat, house or other living accommodation under Part IV or ceases to be entitled to be such a purchaser.
+
+(2) A person shall not present for registration under the Land Titles Act (Cap. 157) the assurance of the housing accommodation he has purchased under this Part if —
+
+(a) the person purchased the housing accommodation when he was not eligible to do so under subsection (1); or
+
+(b) the person has ceased to be eligible to be a purchaser of such a housing accommodation under subsection (1).
+
+(3) Where the approved developer is notified by the Board that a purchaser has purchased a housing accommodation from the approved developer when he is not eligible to do so under subsection (1), or the purchaser has ceased to be eligible to be an owner of such a housing accommodation under that subsection, the approved developer shall —
+
+(a) serve a written notice upon the purchaser of the housing accommodation of its intention to lodge with the Registrar of Titles an instrument under subsection (6) for the vesting in the approved developer of the title to or the estate or interest in that housing accommodation; or
+
+(b) where no assurance has been registered in favour of the purchaser, unless otherwise directed by the Board, cancel the purchaser’s application and serve a written notice upon the purchaser of the housing accommodation of its intention to terminate the sale and purchase agreement.
+
+(4) An approved developer shall not be liable to any purchaser or former purchaser, as the case may be, for any loss suffered, directly or indirectly, by the purchaser or former purchaser solely on account of the cancellation of his application, or the termination of the sale and purchase agreement, by the approved developer in accordance with subsection (3).
+
+(5) Any purchaser of a housing accommodation sold under this Part who is aggrieved by the service of a written notice under subsection (3) in respect of his housing accommodation may, within 14 days after service of the notice, appeal to the Minister whose decision shall be final and shall not be called in question in any court.
+
+(6) Where an appeal has been made to the Minister under subsection (5), the approved developer shall not proceed to lodge any instrument for the vesting of the title to or the estate or interest in the housing accommodation in itself until the appeal has been disposed of.
+
+(7) The Registrar of Titles shall register any instrument referred to in subsection (6) without being concerned to inquire into its regularity or validity, and upon its registration —
+
+(a) the title to or the estate or interest in the housing accommodation shall vest in the approved developer without further assurance free from all encumbrances (except such subsisting covenants, conditions or restrictions, if any, as may be binding upon the approved developer); and
+
+(b) the Registrar of Titles shall cancel the registration of any mortgage, charge or assurance thereby overreached and any caveat protecting a mortgage, charge or assurance registered or notified on the land-register.
+
+(8) Where an approved developer has lodged any instrument referred to in subsection (6) in respect of any such housing accommodation, the approved developer may, in accordance with the sale and purchase agreement for the housing accommodation, forfeit such portion of any moneys paid or deposited in respect of the purchase of that housing accommodation, and any balance thereof, less any administrative and legal costs reasonably incurred by the approved developer in connection with the sale and resale of the housing accommodation and with the discharge of all prior legal encumbrances, shall be refunded to the purchaser of the housing accommodation and such other persons as are entitled to the moneys.
+
+(9) If any question arises as to whether any particular person is eligible to purchase from an approved developer any housing accommodation under this Part, or has ceased to be eligible to be a purchaser of such a housing accommodation, a certificate signed by an officer of the Board authorised for this purpose stating that the person is not eligible to purchase from the Board any flat, house or other living accommodation under Part IV shall be conclusive evidence of that fact stated in that certificate.
+
+### Purchaser dies before temporary occupation permit, etc., issued
+
+65S\. Where any purchaser of any housing accommodation under this Part dies before the relevant date in respect of the housing accommodation, the approved developer shall, unless the Minister otherwise directs, cancel the deceased purchaser’s application and terminate the sale and purchase agreement (if any), and all moneys paid or deposited by or on behalf of the deceased purchaser, less any administrative and legal costs reasonably incurred by the approved developer, shall be refunded to the person or persons entitled to the moneys.
+
+### Power to make rules
+
+65T\.—(1) The Minister may make rules as appear to him to be necessary or expedient for carrying out the purposes and provisions of this Part and for any matter which is required under this Part to be prescribed.
+
+(2) Without prejudice to the generality of subsection (1), the Minister may make rules for or in respect of all or any of the following matters:
+
+(a) the terms and conditions for the sale by an approved developer of any housing accommodation, including the form of the contract or agreement between an approved developer and a purchaser of such a housing accommodation;
+
+(b) prescribing the conditions which, if used in any such contract or agreement between an approved developer and a purchaser of such a housing accommodation, shall be void; and
+
+(c) prescribing such exceptions, modifications and adaptations to the provisions of the Act as may be necessary to apply those provisions to any housing accommodation sold or to be sold by an approved developer under this Part as if it were a flat sold or to be sold by the Board under Part IV.
+
+(3) All such rules shall be presented to Parliament as soon as possible after publication in theGazette.
+
 ## PART V
 
 FINANCIAL PROVISIONS
@@ -2218,9 +2410,39 @@ MISCELLANEOUS
 
 ### Employee of Board may require evidence of identity in certain cases
 
-80\.—(1) Any police officer or employee of the Board who reasonably believes that any person has committed an offence under this Act may require such person to furnish evidence of his identity and the person shall thereupon furnish such evidence of his identity as may be required by such police officer or employee of the Board.
+80\.—(1) In addition to the powers conferred on him by this Act or any subsidiary legislation made thereunder, an officer or employee of the Board may, in relation to any offence under this Act or such subsidiary legislation, on declaration of his office and production to the person against whom he is acting such identification card as the Chief Executive Officer may direct to be carried by officers or employees of the Board —
 
-[28/89]
+(a) require any person whom he reasonably believes to have committed that offence to furnish evidence of the person’s identity;
+
+(b) require any person to furnish any information or produce any book, document or other record or a copy thereof in the possession of that person, and may, without fee or reward, inspect, make copies of or take extracts from such book, document or other record; or
+
+(c) require, by order in writing, the attendance before the officer or employee of any person within the limits of Singapore who, from any information given or otherwise obtained by the officer or employee, appears to be acquainted with the circumstances of the case.
+
+[29/2005 wef 15/09/2005]
+
+(1A) Where any such record mentioned in subsection (1)(b) is kept in electronic form, then —
+
+(a) the power of an officer or employee of the Board under subsection (1) to require any such record to be produced for inspection includes power to require a copy of the record to be made available for inspection in legible form; and
+
+(b) the power of any officer or employee of the Board under subsection (1) to inspect any such record includes power to require any person in question to give the officer or employee such assistance as he may reasonably require to enable him —
+
+(i) to inspect and make copies of the record in legible form or to make a record of information contained in that record; or
+
+(ii) to inspect and check the operation of any computer, and any associated apparatus or material, that is or has been in use in connection with the keeping of that record.
+
+[29/2005 wef 15/09/2005]
+
+(1B) Any person who —
+
+(a) refuses to give access to, or assaults, obstructs, hinders or delays, an officer or employee of the Board in the discharge of the duties by such officer or employee of the Board under this Act or any subsidiary legislation made thereunder;
+
+(b) wilfully mis-states or without lawful excuse refuses to give any information or produce any book, document or other record or a copy thereof required of him by an officer or employee of the Board under subsection (1); or
+
+(c) fails to comply with a lawful demand of an officer or employee of the Board in the discharge by such officer or employee of his duties under this Act or any subsidiary legislation made thereunder,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[29/2005 wef 15/09/2005]
 
 (2) Any Town Council established under section 4 of the Town Councils Act (Cap. 329A) or —
 
@@ -4867,6 +5089,11 @@ This Legislative History is provided for the convenience of users of the Housing
 ||Date of Second and Third Readings|18 July 2005|
 ||Date of commencement|15 August 2005|
 |||(section 13 — related amendments to Housing and Development Act)|
+|35.|**Act 29 of 2005—Housing and Development (Amendment) Act 2005**|
+||Date of First Reading|18 July 2005|
+|||(Bill No. 19/2005 published on 19 July 2005)|
+||Date of Second and Third Readings|15 August 2005|
+||Date of commencement|15 September 2005|
 ## COMPARATIVE TABLE
 
 Housing and Development Act
