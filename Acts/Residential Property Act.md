@@ -1128,7 +1128,17 @@ Provided that in every such case no term in any such agreement, lease or deed of
 
 [22/82]
 
-(g) prevent any permanent resident, being a person married to a citizen, from jointly purchasing or acquiring an estate or interest in a flat or house sold under Part IV of the Housing and Development Act or Part IV of the Jurong Town Corporation Act [Cap. 150] so long as the Housing and Development Board or the Jurong Town Corporation has given its written consent to such purchase or acquisition; and any such estate or interest in that flat or house may, with the written consent of the Board or the Corporation, be transmitted on the death of both the joint owners to such of their children as are permanent residents;
+(g) prevent any permanent resident, being a person married or engaged to be married to a citizen, from jointly purchasing or acquiring an estate or interest in a flat or house sold under Part IV or IVB of the Housing and Development Act (Cap. 129) or Part IV of the Jurong Town Corporation Act (Cap. 150) if the person has the prior written consent of any of the following persons to such purchase or acquisition:
+
+(i) the Housing and Development Board in the case of a flat or house sold under Part IV of the Housing and Development Act;
+
+(ii) the approved developer in the case of a flat or house sold under Part IVB of the Housing and Development Act; or
+
+(iii) the Jurong Town Corporation in the case of a flat or house sold under Part IV of the Jurong Town Corporation Act;
+
+[29/2005 wef 15/09/2005]
+
+(ga) prevent transmission of the estate of any person referred to in paragraph (g) in any flat or house referred to in that paragraph, on his death, or the death of the person and his joint owner, to such of his or their children as are permanent residents, with the written consent of the Housing and Development Board or the Jurong Town Corporation, as the case may be;
 
 (h) apply to the purchase or acquisition by any foreign person of any estate or interest in any residential property directly from the Government; or
 
@@ -1573,3 +1583,9 @@ This Legislative History is provided for the convenience of users of the Residen
 |||(Bill No. 7/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|15 July 2005|
+|10.|**Act 29 of 2005—Housing and Development (Amendment) Act 2005**|
+||(Related amendments made to Act by)||
+||Date of First Reading|18 July 2005|
+|||(Bill No. 19/2005 published on 19 July 2005)|
+||Date of Second and Third Readings|15 August 2005|
+||Date of commencement|15 September 2005|
