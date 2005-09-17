@@ -132,13 +132,21 @@
 
 - [45 Premium](#Premium)
 
-- [46 Establishment of Dependants’ Protection Insurance Fund](#Establishment-of-Dependants’-Protection-Insurance-Fund)
+- [46 (Repealed)](#Repealed)
 
 - [47 Period of cover](#Period-of-cover)
 
-- [48 (Repealed)](#Repealed)
+- [48 Rights and benefits under Scheme not assignable or transferable](#Rights-and-benefits-under-Scheme-not-assignable-or-transferable)
+
+- [48A Insurance policy under Scheme not to create trust](#Insurance-policy-under-Scheme-not-to-create-trust)
 
 - [49 Amount payable on death or incapacity of insured person](#Amount-payable-on-death-or-incapacity-of-insured-person)
+
+- [49A Transfer of Board’s liabilities under Scheme](#Transfer-of-Board’s-liabilities-under-Scheme)
+
+- [49B Application of moneys in dissolved Dependants’ Protection Insurance Fund](#Application-of-moneys-in-dissolved-Dependants’-Protection-Insurance-Fund)
+
+- [49C Disclosure of information](#Disclosure-of-information)
 
 - [50 Non-application of Insurance Act](#Non-application-of-Insurance-Act)
 
@@ -1440,8 +1448,6 @@ the Board may, with the prior written approval of the Housing and Development Bo
 
 “HDB flat” means any flat, house or other building sold under Part IV or IVB of the Housing and Development Act (Cap. 129) which has been acquired by the present owner thereof whether directly from the Housing and Development Board or otherwise;
 
-[29/2005 wef 15/09/2005]
-
 “Housing and Development Board” means the Housing and Development Board constituted under the Housing and Development Act.
 
 [36/2002 wef 01/01/2003]
@@ -1664,15 +1670,9 @@ HOME PROTECTION INSURANCE SCHEME
 
 [32/84; 30/87]
 
-[29/2005 wef 15/09/2005]
-
 (2) Except where expressly provided in this Part, the provisions of this Part shall, with such exceptions, modifications and adaptations as the Minister may by order published in theGazetteprescribe, apply (so far as relevant) in relation to any housing accommodation sold or to be sold by an approved developer under Part IVB of the Housing and Development Act (Cap. 129).
 
-[29/2005 wef 15/09/2005]
-
 (3) An order made under subsection (2) shall be presented to Parliament as soon as possible after publication in theGazette.
-
-[29/2005 wef 15/09/2005]
 
 ### Establishment of Home Protection Insurance Scheme
 
@@ -1902,7 +1902,9 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 40\. In this Part —
 
-“Dependants’ Protection Insurance Fund” means the Dependants’ Protection Insurance Fund established and maintained by the Board under section 46;
+“appointed insurer” means any person who is registered under the Insurance Act (Cap. 142) to carry on insurance business in Singapore and who is appointed by the Board to take over the whole or any part of the Board’s liabilities under the Scheme or to provide insurance cover to any person under the Scheme;
+
+[24/2005 wef 17/09/2005]
 
 “incapacitated” has the same meaning as in section 28;
 
@@ -1918,7 +1920,7 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 ### Establishment of Dependants’ Protection Insurance Scheme
 
-41\. The Board may establish and maintain a Dependants’ Protection Insurance Scheme for the purpose of providing that, on the incapacity or death of an insured person at any time during the period in which he is insured under the Scheme, the Board will pay the insured sum in accordance with the Scheme.
+41\. The Board may establish and maintain a Dependants’ Protection Insurance Scheme for the purpose of providing that, on the incapacity or death of an insured person at any time during the period in which he is insured under the Scheme, the insured sum shall be paid in respect of that insured person in accordance with the provisions of this Part.
 
 [24/2005 wef 17/09/2005]
 
@@ -1936,7 +1938,7 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 (b) any member of the Fund who is neither a citizen nor a permanent resident of Singapore;
 
-(c) any member of the Fund who has lodged a written notice with the Board stating that he does not wish to be insured under the Scheme; and
+(c) any member of the Fund who has lodged a written notice under subsection (3) stating that he does not wish to be insured under the Scheme; and
 
 [24/2005 wef 17/09/2005]
 
@@ -1944,21 +1946,21 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 [23/89; 10/94]
 
-(3) Any person referred to in subsection (1) who does not wish to be insured under the Scheme may lodge with the Board a written notice in such form as the Board may require stating that he does not wish to be insured under the Scheme.
+(3) Any person referred to in subsection (1) who does not wish to be insured under the Scheme may lodge a written notice in the prescribed manner stating that he does not wish to be insured under the Scheme.
 
 [24/2005 wef 17/09/2005]
 
 [23/89]
 
-(4) Notwithstanding subsection (2), any member of the Fund who is not insured under the Scheme may apply to the Board to be insured under the Scheme.
+(4) Notwithstanding subsection (2), any member of the Fund who is not insured under the Scheme may apply in the prescribed manner to be insured under the Scheme.
 
 [24/2005 wef 17/09/2005]
 
 [23/89]
 
-(5) The Board may approve any application under subsection (4) with or without condition.
+(5) The Board or an appointed insurer, as the case may be, may approve any application under subsection (4) in the prescribed manner.
 
-[23/89]
+[24/2005 wef 17/09/2005]
 
 ### Board may cancel insurance cover
 
@@ -1974,6 +1976,10 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 [23/89]
 
+(4) This section shall apply only in relation to an insured person for whose insurance cover under the Scheme the Board remains liable to pay the insured sum by virtue of section 49A(2)(a).
+
+[24/2005 wef 17/09/2005]
+
 ### Board may require insured person to furnish information
 
 44\.—(1) The Board may require any insured person to furnish to the Board such information as the Board thinks fit regarding the life and health of the insured person or members of his family.
@@ -1984,91 +1990,131 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 [23/89]
 
+(3) This section shall apply only in relation to an insured person for whose insurance cover under the Scheme the Board remains liable to pay the insured sum by virtue of section 49A(2)(a).
+
+[24/2005 wef 17/09/2005]
+
 ### Premium
 
 45\.—(1) Every insured person shall pay a premium of an amount prescribed by regulations made under this Part.
 
 [23/89]
 
-(2) Notwithstanding anything in this Act, the Board shall be entitled to deduct the amount of the premium payable by an insured person from the contributions standing to the credit of that person in the Fund.
+(2) Notwithstanding anything in this Act, the Board shall be entitled to deduct the amount of the premium payable by an insured person from the contributions standing to the credit of that person in his ordinary and special accounts.
 
 [24/2005 wef 17/09/2005]
 
 [23/89]
 
-(3) Where any such deduction has been made by the Board, the Board shall as soon as practicable give to that person concerned notice in writing to that effect.
+(3) Where, by virtue of section 49A, the insurance cover of an insured person under the Scheme is being provided by an appointed insurer, the Board shall pay the amount of the premium deducted under subsection (2) to that appointed insurer.
+
+[24/2005 wef 17/09/2005]
+
+(4) Where the amount of the premium which an insured person is liable to pay under the Scheme exceeds the amount standing to his credit in his ordinary and special accounts, the deficiency may be paid in such manner and within such time as the Board may prescribe.
 
 [23/89]
 
-(4) Where the amount of the premium which an insured person is liable to pay under the Scheme exceeds the amount standing to his credit in the Fund, the deficiency may be paid in such manner and within such time as the Board may prescribe.
-
-[23/89]
-
-### Establishment of Dependants’ Protection Insurance Fund
-
-46\.—(1) The Board shall establish and maintain a fund to be known as the Dependants’ Protection Insurance Fund into which shall be paid all premiums collected under this Part and out of which shall be met all payments to be paid by it under the Scheme.
-
-[23/89]
-
-(2) The Dependants’ Protection Insurance Fund shall be controlled and administered by the Board.
-
-[23/89]
+46\. [Deleted by Act 24/2005 wef 17/09/2005]
 
 ### Period of cover
 
-47\.—(1) Where the prescribed premium payable under the Scheme has been paid or deducted from an insured person’s contributions standing to his credit in the Fund, that person shall be covered under the Scheme from the date of such payment or deduction for a period of 12 months after the date of commencement of his insurance cover.
+47\.—(1) Where the prescribed premium payable under the Scheme has been paid or deducted from an insured person’s contributions under section 45, that person shall be covered under the Scheme by an appointed insurer assigned by the Board from the date of such payment or deduction for a period of 12 months after the date of commencement of his insurance cover.
 
-[23/89]
+(2) Subject to the provisions of this Part, the insurance cover under the Scheme shall be renewed annually in accordance with the prescribed requirements.
 
-(2) Subject to the provisions of this Part, the insurance cover under the Scheme shall be renewed annually by the Board.
+[24/2005 wef 17/09/2005]
 
-[23/89]
+### Rights and benefits under Scheme not assignable or transferable
 
-48\. [Deleted by Act 31/2003 wef 01/01/2004]
+48\. The rights and benefits of an insured person arising from his insurance cover under the Scheme shall not be assignable or transferable.
+
+[24/2005 wef 17/09/2005]
+
+### Insurance policy under Scheme not to create trust
+
+48A\.—(1) A policy of insurance issued under the Scheme shall not be deemed to create any legal or equitable trust.
+
+(2) Section 73 of the Conveyancing and Law of Property Act (Cap. 61) shall not apply to any policy of insurance issued under the Scheme.
+
+[3/2009 wef 01/09/2009]
+
+[24/2005 wef 17/09/2005]
 
 ### Amount payable on death or incapacity of insured person
 
-49\.—(1) Where an insured person dies at any time during the period he is insured under the Scheme, the Board shall, upon proof of death, pay as soon as practicable the insured sum to the person or persons nominated by that person under section 25(1) or to the Public Trustee for disposal in accordance with any written law for the time being in force, as provided in section 25(2) or (3), if there is no person nominated or if any person nominated (other than a widow) is below the age of 18 years at the time of payment of the insured sum.
+49\.—(1) Where an insured person dies at any time during the period he is insured under the Scheme, the insured sum shall, upon proof of death, be paid by the Board or an appointed insurer, as the case may be, in accordance with the prescribed requirements.
 
-[23/89]
+(2) Where there is a claim made under the Scheme by an insured person on the ground of incapacity at any time during the period he is insured under the Scheme, the insured sum shall, upon proof of incapacity, be paid to him by the Board or an appointed insurer, as the case may be, in accordance with the prescribed requirements.
 
-(2) Where there is a claim made to the Board by an insured person on the ground of incapacity at any time during the period he is insured under the Scheme, the Board shall upon proof of incapacity pay to him the insured sum by monthly instalments of such amount as may be determined by the Board for a period not exceeding 3 years, subject to the condition that in the event the insured person is no longer incapacitated the Board shall stop payment of any insured sum remaining unpaid at the date of his taking up the employment and such amount shall not be recoverable by him.
+[24/2005 wef 17/09/2005]
 
-[23/89; 39/2000]
+### Transfer of Board’s liabilities under Scheme
 
-(3) Where the insured sum is paid by instalment under subsection (2), interest at the prevailing rate declared by the Board under section 6(4) shall be paid to the insured person together with the final instalment.
+49A\.—(1) The Minister may make regulations to transfer the whole or any part of the Board’s liabilities under the Scheme (including the insurance covers issued under the Scheme that give rise to such liabilities) to one or more appointed insurers.
 
-[23/89]
+(2) Without prejudice to the generality of subsection (1), regulations made under that subsection may —
 
-(4) Where the Board ceases payment under subsection (2), the insured person shall remain insured under the Scheme for the insured sum remaining unpaid at the date that he is no longer incapacitated.
+(a) prescribe the cases in which or the circumstances under which the Board shall continue to be liable to pay the insured sum in respect of insured persons whose insurance covers under the Scheme have been transferred to an appointed insurer;
 
-[39/2000]
+(b) provide for such consequential, saving and transitional provisions as are necessary to facilitate the transfer of the Board’s liabilities under the Scheme;
 
-(5) Notwithstanding anything contained in this Part, the Board shall not be liable to pay the insured sum in respect of any insured person —
+(c) prescribe the necessary modifications to be made to any other provision of this Act in order to bring such provision into conformity with the transfer of the Board’s liabilities under the Scheme; and
 
-(a) if the death or incapacity of the person —
+(d) provide for such other matters as the Minister thinks necessary or expedient for the transfer of the Board’s liabilities under the Scheme.
 
-(i) in the case of a person who was insured under the Scheme before 1st March 2001, occurs within one year from the date he is insured under the Scheme and the death is the result of suicide or the incapacity is the result of deliberate self-injury; or
+(3) The Board may require any appointed insurer to transfer to another appointed insurer, in such manner and on such terms and conditions as the Board thinks fit, those liabilities of the Board under the Scheme that have been transferred to the first-mentioned appointed insurer under this section.
 
-(ii) in the case of a person who was insured under the Scheme on or after 1st March 2001, is the result of suicide or deliberate self-injury committed within one year from the date that he is insured under the Scheme;
+(4) The transfer of any liability under the Scheme —
 
-(b) if the person suffered capital punishment for any criminal act committed within one year from the date that he is insured under the Scheme;
+(a) by the Board to an appointed insurer under subsection (1); or
 
-(c) if the death or incapacity of the person, directly or indirectly, arose out of or is consequent upon or contributed by his own intentional criminal act committed within one year from the date that he is insured under the Scheme;
+(b) by one appointed insurer to another appointed insurer pursuant to the requirement of the Board under subsection (3),
 
-(d) if the incapacity or death of that person arises from war or any warlike operations or participation in any riot;
+may be made, and shall be valid and effectual, notwithstanding anything to the contrary in any written law or rule of law or the absence of any agreement or consent which would otherwise be necessary.
 
-(e) if he makes or furnishes to the Board any statement or fact that is false or misleading in a material particular; or
+(5) If any question arises as to whether any particular liability of the Board under the Scheme has been transferred to an appointed insurer under this section, a certificate under the hand of the Minister shall be conclusive evidence that the liability was or was not so transferred.
 
-(f) if he is incapacitated or is diagnosed as having a terminal illness on or before the date of commencement of his insurance cover under the Scheme.
+(6) An appointed insurer to whom the whole or any part of the Board’s liabilities under the Scheme have been transferred under this section shall provide insurance cover to every transferred insured person in accordance with such requirements as may be specified by the Board, including requirements relating to —
 
-[23/89; 39/2000]
+(a) the minimum benefits and rights that the appointed insurer must confer upon the person; and
+
+(b) the terms and conditions subject to which the appointed insurer may issue insurance cover to the person.
+
+[24/2005 wef 17/09/2005]
+
+### Application of moneys in dissolved Dependants’ Protection Insurance Fund
+
+49B\. Upon the dissolution of the Dependants’ Protection Insurance Fund (referred to in this section as the dissolved Fund), the Board may —
+
+(a) subject to such terms or conditions as it thinks fit to impose, pay such part of the moneys of the dissolved Fund as the Board may determine to each of the appointed insurers to which the Board’s liabilities under the Scheme has been transferred under section 49A; and
+
+(b) retain such part of the moneys of the dissolved Fund as it thinks necessary for meeting any of its own liabilities under the Scheme that may have arisen prior to the transfer.
+
+[24/2005 wef 17/09/2005]
+
+### Disclosure of information
+
+49C\.—(1) The Board may, from time to time, give to an appointed insurer to which its liabilities under the Scheme has been transferred under section 49A such information (including medical information) as is in the Board’s possession that —
+
+(a) relates to any member; and
+
+(b) is required by the appointed insurer in order that the appointed insurer may properly fulfill its obligations in relation to that member under the Scheme.
+
+(2) An appointed insurer shall not use any information given to it by the Board under subsection (1) except for such purposes as may be approved by the Board.
+
+(3) For the purposes of ensuring that the provisions of this Part are being complied with, the Board may require an appointed insurer or any member to furnish to the Board such documents or information as the Board thinks necessary.
+
+[24/2005 wef 17/09/2005]
 
 ### Non-application of Insurance Act
 
-50\. The Insurance Act (Cap. 142) shall not apply to anything done by the Board under this Part and Part VI.
+50\. The Insurance Act (Cap. 142) shall not apply —
 
-[23/89; 10/94]
+(a) to anything done by the Board under this Part; or
+
+(b) to the transfer of any of the Board’s liabilities under the Scheme under section 49A(1) or (3).
+
+[24/2005 wef 17/09/2005]
 
 ### Regulations for purposes of this Part
 
@@ -2086,7 +2132,13 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 (f) prescribe the evidence to be produced and the person, officer or authority to whom that evidence is to be produced for the purposes of this Part;
 
-(g) provide for the manner in which money in the Dependants’ Protection Insurance Fund may be invested;
+(g) provide for the manner in which the insured sum shall be paid in respect of any insured person under the Scheme;
+
+[24/2005 wef 17/09/2005]
+
+(ga) provide for the cases in which or the circumstances under which the insured sum shall not be payable in respect of any insured person under the Scheme;
+
+[24/2005 wef 17/09/2005]
 
 (h) provide for such information, evidence and documents that the Board may require an insured person to furnish for the purposes of this Part; and
 
@@ -2408,7 +2460,11 @@ he shall be guilty of an offence.
 
 ### Certificate of authorised officer to be evidence
 
-66\. In any legal proceedings, a copy of an entry in the accounts of the Fund, the Home Protection Fund, the Dependants’ Protection Insurance Fund or the MediShield Fund, as the case may be, duly certified under the hand of such officer of the Board as it may authorise shall be prima facie evidence of the entry having been made and of the truth of the contents thereof.
+66\. In any legal proceedings, a copy of an entry in the accounts of the Fund, the Home Protection Fund or the MediShield Fund, as the case may be, duly certified under the hand of such officer of the Board as it may authorise shall be prima facie evidence of the entry having been made and of the truth of the contents thereof.
+
+[36/2002 wef 01/01/2003]
+
+[24/2005 wef 17/09/2005]
 
 ### Certificate of Board on non-payment of contributions
 
@@ -4935,6 +4991,11 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 19/2005 published on 19 July 2005)|
 ||Date of Second and Third Readings|15 August 2005|
 ||Date of commencement|15 September 2005|
+|144.|**Act 24 of 2005—Central Provident Fund (Amendment) Act 2005**|
+||Date of First Reading|16 May 2005|
+|||(Bill No. 14/2005 published on 17 May 2005)|
+||Date of Second and Third Readings|19 July 2005|
+||Dates of commencement|17 September 2005 (sections 3 to 13 and 17)|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
