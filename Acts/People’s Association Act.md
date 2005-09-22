@@ -379,6 +379,8 @@ MEMBER ORGANISATIONS
 
 11. Girls’ Brigade, Singapore
 
+11A. Girl Guides, Singapore
+
 12. Hindi Society (Singapore)
 
 13. Institute of Technical Education, Singapore
@@ -448,7 +450,7 @@ MEMBER ORGANISATIONS
 
 41.Deleted by S 14/2005, wef 07/01/2005.
 
-42. Singapore Girl Guides Association
+42.Deleted by S 616/2005, wef 22/09/2005.
 
 43. Singapore Hadrah and Kompang Association (PEHAKS)
 
@@ -562,6 +564,8 @@ MEMBER ORGANISATIONS
 (Persatuan Pemudi Islam Singapura)
 
 82.Deleted by S 680/2002, wef 30/12/2002.
+
+[S 616/2005 wef 22/09/2005]
 
 [S 14/2005 wef 07/01/2005]
 
@@ -716,6 +720,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|15 December 2004|
 |52.|**G.N. No. S 14/2005—People’s Association Act (Amendment of First Schedule) Notification 2005**|
 ||Date of commencement|7 January 2005|
+|53.|**G.N. No. S 616/2005—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 2005**|
+||Date of commencement|22 September 2005|
 ## COMPARATIVE TABLE
 
 People’s Association Act
