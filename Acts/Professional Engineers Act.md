@@ -18,6 +18,16 @@
 
 - [4 Establishment of Professional Engineers Board](#Establishment-of-Professional-Engineers-Board)
 
+- [4A Compulsory voting](#Compulsory-voting)
+
+- [4B President of Board](#President-of-Board)
+
+- [4C Disqualifications for membership of Board](#Disqualifications-for-membership-of-Board)
+
+- [4D Filling of vacancies](#Filling-of-vacancies)
+
+- [4E Meetings and quorum of Board](#Meetings-and-quorum-of-Board)
+
 - [5 Common seal of Board](#Common-seal-of-Board)
 
 - [6 Functions of Board](#Functions-of-Board)
@@ -210,55 +220,139 @@ PROFESSIONAL ENGINEERS BOARD
 
 4\.—(1) There shall be established in Singapore a body to be called the Professional Engineers Board which shall be a body corporate with perpetual succession and a common seal, with power, subject to the provisions of this Act, to sue and be sued in its corporate name, to acquire and dispose of property, both movable and immovable, and to do and perform such other acts as bodies corporate may by law perform.
 
-(2) The Board shall consist of the following members to be appointed by the Minister:
+(2) The Board shall consist of the following members:
 
-(a) a President who shall be appointed from among the registered professional engineers;
+(a) the Commissioner of Building Control;
 
-(b) 3 registered professional engineers selected from a list of not less than 4 registered professional engineers submitted by the Council of the Institution of Engineers, Singapore;
+(b) the President of the Institution of Engineers, Singapore, or a registered professional engineer of at least 10 years’ standing to be nominated by him;
 
-(c) such other registered professional engineers, not being more than 5, as the Minister may from time to time determine; and
+(c) not more than 6 registered professional engineers who are resident in Singapore and have in force a practising certificate —
 
-(d) a registered architect nominated by the Board of Architects.
+(i) to be elected by registered professional engineers who have in force a practising certificate; or
 
-(3) Not less than 3 members of the Board shall be in private practice and not more than 3 members of the Board shall be representative of any particular branch of engineering.
+(ii) failing such election, to be appointed by the Minister under subsection (4);
 
-(4) The members of the Board shall be appointed for a term not exceeding 3 years but may from time to time be reappointed, and may at any time be removed from office by the Minister.
+(d) not more than 6 registered professional engineers to be appointed by the Minister; and
 
-(5) A person shall not be qualified to be a member of the Board if —
+(e) a registered architect from the Board of Architects to be appointed by the Minister.
+
+[27/2005 wef 01/10/2005]
+
+(3) Not less than 5 members of the Board shall be in private practice.
+
+[27/2005 wef 01/10/2005]
+
+(4) If elections held for the purposes of subsection (2)(c) result in less than 6 persons being elected as members of the Board thereunder, the Minister may appoint such number, as he thinks fit, of registered professional engineers who have in force a practising certificate to be members of the Board, except that the number of members so appointed and the number of members elected under subsection (2)(c) shall not exceed 6 in the aggregate.
+
+[27/2005 wef 01/10/2005]
+
+(5) Of the members elected under subsection (2)(c) or appointed under subsection (4), there shall be at least —
+
+(a) one registered professional engineer in the branch of civil engineering;
+
+(b) one registered professional engineer in the branch of electrical engineering; and
+
+(c) one registered professional engineer in the branch of mechanical engineering.
+
+[27/2005 wef 01/10/2005]
+
+(6) Only registered professional engineers of at least 10 years’ standing may be elected under subsection (2)(c) or appointed under subsection (4) as members of the Board.
+
+[27/2005 wef 01/10/2005]
+
+(7) The members elected under subsection (2)(c) shall hold office for a term not exceeding 3 years and shall be eligible for re-election for not more than 2 consecutive terms.
+
+[27/2005 wef 01/10/2005]
+
+(8) The members appointed under subsection (2)(d) or (e) or (4) shall hold office for a term not exceeding 3 years and shall be eligible for re-appointment.
+
+[27/2005 wef 01/10/2005]
+
+(9) The Minister may, at any time, revoke the appointment of any member appointed under subsection (2)(d) or (4) without assigning any reason.
+
+[27/2005 wef 01/10/2005]
+
+### Compulsory voting
+
+4A\.—(1) Every registered professional engineer who has in force a practising certificate on the day of election of candidates as members of the Board under section 4(2)(c) shall vote for the election of such members at such time and in such manner as may be prescribed.
+
+(2) Every registered professional engineer who is required to vote for the election of the members of the Board in accordance with subsection (1) and who fails to do so shall not be entitled to apply for a practising certificate unless he —
+
+(a) satisfies the Registrar that he had a good and sufficient reason for not voting at the election; or
+
+(b) pays to the Board a penalty prescribed by the Board.
+
+[27/2005 wef 01/10/2005]
+
+### President of Board
+
+4B\.—(1) The Board shall have a President who shall be elected by the members of the Board from among its members —
+
+(a) who have been elected under section 4(2)(c) or appointed under section 4(4); or
+
+(b) who have been appointed under section 4(2)(d).
+
+(2) The President elected under subsection (1) shall serve for a term not extending beyond the expiration of the term for which he has been appointed or elected to be a member of the Board and shall be eligible for re-election for not more than 2 consecutive terms.
+
+[27/2005 wef 01/10/2005]
+
+### Disqualifications for membership of Board
+
+4C\. A person shall not be qualified to be a member of the Board if —
 
 (a) he is neither a citizen nor a permanent resident of Singapore;
 
 (b) he is an undischarged bankrupt or has made any arrangement or composition with his creditors;
 
-(c) he is convicted of any offence involving fraud, dishonesty or moral turpitude, or of any other offence implying a defect in character which makes him unfit for the engineering profession;
+(c) he has been convicted of any offence involving fraud, dishonesty or moral turpitude, or of any other offence implying a defect in character which makes him unfit for the engineering profession;
 
-(d) he is of unsound mind or incapacitated by physical illness; or
+(d) he is of unsound mind or is incapacitated by physical illness; or
 
-(e) he has at any time after due inquiry been found guilty by the Board or previous Board of improper conduct.
+(e) he has at any time after due inquiry been found guilty by a Disciplinary Committee of improper conduct.
 
-(6) The office of a member of the Board shall become vacant if the member —
+[27/2005 wef 01/10/2005]
+
+### Filling of vacancies
+
+4D\.—(1) The office of a member of the Board shall become vacant if the member —
 
 (a) dies;
 
 (b) resigns or is removed from office; or
 
-(c) becomes in any manner disqualified for office within the meaning of subsection (5),
+(c) becomes in any manner disqualified for office within the meaning of section 4C.
 
-and the vacancy so created shall, as soon as practicable, be filled in the manner in which the appointment to the vacant office was made; and every person so appointed shall hold office for the residue of the term for which his predecessor was appointed.
+(2) The Board may, with the approval of the Minister, remove from office any member of the Board who is absent without leave of the Board from 3 consecutive ordinary meetings of —
 
-(7) The powers of the Board shall not be affected by any vacancy in its membership.
+(a) the Board; or
 
-(8) Any question as to whether a person has ceased to be a member of the Board shall be determined by the Minister whose decision shall be final.
+(b) a Disciplinary Committee of which he is a member.
 
-(9) At any meeting of the Board, 5 members shall form a quorum and no business shall be transacted at any meeting unless a quorum is present.
+(3) Any question as to whether a person has ceased to be a member of the Board shall be determined by the Minister whose decision shall be final.
 
-(10) At any meeting of the Board, the President shall preside and in his absence the members present shall elect from among themselves one member to preside over the meeting.
+(4) If any vacancy arises among the elected or appointed members, the Minister shall, as soon as practicable, appoint any registered professional engineer to fill that vacancy.
 
-(11) If on any question to be determined by the Board there is an equality of votes, the President or the member presiding over that meeting shall have a casting vote.
+(5) Any person appointed to fill the vacancy shall hold office for the residue of the term for which his predecessor was elected or appointed.
 
-(12) Subject to the provisions of this Act, the Board may determine its own procedure.
+(6) The powers of the Board shall not be affected by any vacancy in its membership.
 
-(13) The Board shall cause proper records of its proceedings to be kept.
+(7) No act done by or under the authority of the Board shall be invalid in consequence of any defect that is afterwards discovered in the appointment, election or qualification of the members or any of them.
+
+[27/2005 wef 01/10/2005]
+
+### Meetings and quorum of Board
+
+4E\.—(1) At any meeting of the Board, 8 members shall form a quorum and no business shall be transacted at any meeting unless a quorum is present.
+
+(2) At any meeting of the Board, the President shall preside and in his absence the members present shall elect from among themselves one member to preside over the meeting.
+
+(3) If on any question to be determined by the Board there is an equality of votes, the President or the member presiding over that meeting shall have a casting vote.
+
+(4) Subject to the provisions of this Act, the Board may determine its own procedure.
+
+(5) The Board shall cause proper records of its proceedings to be kept.
+
+[27/2005 wef 01/10/2005]
 
 ### Common seal of Board
 
@@ -998,7 +1092,7 @@ Exempt Classes of Persons
 
 4. Fire safety engineers registered under the Fire Safety Act (Cap. 109A).
 
-[7/2004 wef 15/04/2004]
+[ wef 15/04/2004]
 
 ## LEGISLATIVE HISTORY
 
@@ -1055,3 +1149,9 @@ This Legislative History is provided for the convenience of users of the Profess
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|9.|**Act 27 of 2005—Professional Engineers (Amendment) Act 2005**|
+||Date of First Reading|18 July 2005|
+|||(Bill No. 17/2005 published on 19 July 2005)|
+||Date of Second and Third Readings|15 August 2005|
+||Date of commencement|1 October 2005|
+|||(sections 3 and 4)|
