@@ -3348,7 +3348,15 @@ Transfer or disposal of business assets
 
 (b) sub-paragraph (3) applies to goods used, or made available for use, by himself personally.
 
-6\. Where in the case of a business carried on by a taxable person, goods forming part of the assets of the business are, under any power exercisable by another person, sold by the other in or towards satisfaction of a debt owed by the taxable person, they shall be deemed to be supplied by the taxable person in the course or furtherance of his business.
+6. Where, in the case of a business carried on by a taxable person, goods forming part of the assets of a business are, under any power exercisable by another person —
+
+(a) sold; or
+
+(b) used in the making of any supply (other than a supply by way of sale),
+
+by the other person in or towards satisfaction of a debt owed by the taxable person, the goods shall be deemed to be supplied by the taxable person in the course or furtherance of his business.
+
+[S 647/2005 wef 07/10/2005]
 
 7.—(1) Where a person ceases to be a taxable person, any goods then forming part of the assets of a business carried on by him shall be deemed to be supplied by him in the course or furtherance of his business immediately before he ceases to be a taxable person, unless —
 
@@ -3870,6 +3878,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|8.12.2004|
 |21.|**2005 Revised Edition—Goods and Services Tax Act**|
 ||Date of operation|31 July 2005|
+|22.|**G. N. No. S 647/2005—Goods and Services Tax Act (Amendment of Second Schedule) Order 2005**|
+||Date of commencement|7 October 2005|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
