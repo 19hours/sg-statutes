@@ -176,9 +176,9 @@
 
 - [60 Declaration of holidays](#Declaration-of-holidays)
 
-- [61 Priority of deposit liabilities](#Priority-of-deposit-liabilities)
+- [61 Priority of specified liabilities](#Priority-of-specified-liabilities)
 
-- [62 Priority of deposit liabilities inter se](#Priority-of-deposit-liabilities-inter-se)
+- [62 Priority of specified liabilities inter se](#Priority-of-specified-liabilities-inter-se)
 
 - [63 Redemption of securities held by bank under liquidation](#Redemption-of-securities-held-by-bank-under-liquidation)
 
@@ -1250,9 +1250,13 @@ shall be guilty of an offence.
 
 (v) is carrying on its business in a manner likely to be detrimental to the interests of the depositors of the bank or has insufficient assets to cover its liabilities to its depositors or the public;
 
-(vi) is contravening the provisions of this Act; or
+(vi) is contravening the provisions of this Act;
 
 (vii) has been convicted of any offence under this Act or any of its directors or officers holding a managerial or executive position has been convicted of any offence under this Act; or
+
+(viii) has contravened any provision of the Deposit Insurance Act 2005 or any rules issued by the deposit insurance agency under the Deposit Insurance Act 2005; or
+
+[31/2005 wef 18/10/2005]
 
 (b) if, upon taking action under section 49(2), the Authority considers that it is in the public interest to revoke the licence.
 
@@ -2408,29 +2412,35 @@ he shall immediately report the matter to the Authority.
 
 (4) Any reference to a bank holiday in any written law which may from time to time be in force in Singapore shall include any day declared to be a bank holiday under this section and any day which is a public holiday within the meaning of any written law which may be in force in Singapore relating to public holidays.
 
-### Priority of deposit liabilities
+### Priority of specified liabilities
 
-61\.—(1) Where a bank becomes unable to meet its obligations or becomes insolvent or suspends payment, the assets of that bank in Singapore shall be available to meet all deposit liabilities of the bank in Singapore.
+61\.—(1) Where a bank becomes unable to meet its obligations or becomes insolvent or suspends payment, the assets of that bank in Singapore shall be available to meet all liabilities in Singapore of the bank specified in section 62(1).
 
-(2) The deposit liabilities shall have priority over all unsecured liabilities of the bank other than the preferential debts specified in section 328(1) of the Companies Act (Cap. 50).
+(2) The liabilities in Singapore of the bank specified in section 62(1) shall have priority over all unsecured liabilities of the bank other than the preferential debts specified in section 328(1) of the Companies Act (Cap. 50).
 
 [2/84]
 
-### Priority of deposit liabilities inter se
+### Priority of specified liabilities inter se
 
-62\.—(1) Notwithstanding the provisions of any written law or rule of law relating to the winding up of companies, in the event of a winding up of a bank the deposit liabilities of the bank shall, amongst themselves, rank in the following order of priority:
+62\.—(1) Notwithstanding the provisions of any written law or rule of law relating to the winding up of companies, in the event of a winding up of a bank, the following liabilities in Singapore of the bank shall, amongst themselves, rank in the following order of priority:
 
-(a) firstly, deposit liabilities incurred by the bank with non-bank customers where the deposit liabilities are required by the Authority to be included in the computation of the reserve and liquidity requirements under sections 38, 39 or 77A, as the case may be;
+(a) firstly, any premium contributions due and payable by the bank under the Deposit Insurance Act 2005;
 
-(b) secondly, deposit liabilities incurred by the bank with other banks where the deposit liabilities are required by the Authority to be included in the computation of the reserve and liquidity requirements under sections 38 and 39;
+(b) secondly, liabilities incurred by the bank in respect of insured deposits, up to the amount of compensation paid or payable out of the Fund by the Agency under the Deposit Insurance Act 2005 in respect of such insured deposits;
 
-(c) thirdly, deposit liabilities incurred by the bank with non-bank customers where the deposit liabilities are not required by the Authority to be included in the computation of the reserve and liquidity requirements under sections 38 and 39.
+(c) thirdly, deposit liabilities incurred by the bank with non-bank customers where the deposit liabilities are required by the Authority to be included in the computation of the reserve and liquidity requirements under sections 38 and 39, other than those specified in paragraph (b);
 
-[2/84; 27/98]
+(d) fourthly, deposit liabilities incurred by the bank with other banks where the deposit liabilities are required by the Authority to be included in the computation of the reserve and liquidity requirements under sections 38 and 39;
 
-(2) The deposit liabilities in each class specified in subsection (1) shall —
+(e) fifthly, deposit liabilities incurred by the bank with non-bank customers where the deposit liabilities are not required by the Authority to be included in the computation of the reserve and liquidity requirements under sections 38 and 39;
 
-(a) rank in the order specified therein but as between deposit liabilities of the same class shall rank equally between themselves; and
+(f) sixthly, deposit liabilities incurred by the bank, other than those specified in paragraphs (a), (b), (c), (d) and (e).
+
+[31/2005 wef 18/10/2005]
+
+(2) The liabilities in each class specified in subsection (1) shall —
+
+(a) rank in the order specified therein but as between liabilities of the same class shall rank equally between themselves; and
 
 (b) be paid in full unless the assets of the bank are insufficient to meet them in which case they shall abate in equal proportions between themselves.
 
@@ -2459,6 +2469,10 @@ but shall not include, in the case of a bank incorporated in Singapore, liabilit
 (c) it is paid by way of security for the delivery up or return of any property, whether in a particular state of repair or otherwise.
 
 [2/84]
+
+(5) In this section, “Agency”, “Fund” and “insured deposit” have the same respective meanings as in section 2(1) of the Deposit Insurance Act 2005.
+
+[31/2005 wef 18/10/2005]
 
 ### Redemption of securities held by bank under liquidation
 
@@ -2966,9 +2980,11 @@ The parent supervisory authority of the bank incorporated outside Singapore.
 
 (b) The parent supervisory authority is prohibited by the laws applicable to it from disclosing the customer information obtained by it to any person unless compelled to do so by the laws or courts of the country or territory where it is established.
 
-9. Disclosure is in compliance with the provisions of this Act, or any notice or directive issued by the Authority to banks.
+9. Disclosure is in compliance with the provisions of this Act, the Deposit Insurance Act 2005 or any notice or directive issued by the Authority to banks.
 
 The Authority or any person authorised or appointed by the Authority.
+
+[31/2005 wef 18/10/2005]
 
 Part II
 
@@ -3082,6 +3098,18 @@ Any financial institution in Singapore which is licensed or otherwise regulated 
 
 No customer information, other than the customer’s name, identity, address, and contact number shall be disclosed.
 
+10. Disclosure is solely in connection with the payment of compensation to insured depositors under the Deposit Insurance Act 2005.
+
+(a) The deposit insurance agency; or
+
+(b) any person authorised or appointed by the deposit insurance agency to perform its functions under the Deposit Insurance Act 2005.
+
+(a) The disclosure by the deposit insurance agency to any person referred to in paragraph (b) of the second column shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority.
+
+(b) The disclosure by any person referred to in paragraph (b) of the second column to any other person referred to in the same paragraph shall be subject to such conditions as may be specified in a notice issued by the Authority or otherwise imposed by the Authority."; and
+
+[31/2005 wef 18/10/2005]
+
 Part III
 
 Interpretation
@@ -3091,6 +3119,14 @@ In this Schedule, unless the context otherwise requires —
 “appointed personal representative”, in relation to a deceased person, means a person appointed as executor or administrator of the estate of the deceased person;
 
 “credit bureau” means a credit bureau recognised as such by the Authority by notification in theGazettefor the purposes of this Schedule;
+
+“deposit insurance agency” has the same meaning as in section 2(1) of the Deposit Insurance Act 2005;
+
+[31/2005 wef 18/10/2005]
+
+“insured depositor” has the same meaning as in section 2(1) of the Deposit Insurance Act 2005;
+
+[31/2005 wef 18/10/2005]
 
 “lawyer” means an advocate and solicitor of the Supreme Court of Singapore, or any person who is duly authorised or registered to practise law in a country or territory other than Singapore by a foreign authority having the function conferred by law of authorising or registering persons to practise law in that country or territory;
 
@@ -3215,6 +3251,12 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 64/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
+|22.|**Act 31 of 2005—Deposit Insurance Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 August 2005|
+|||(Bill No. 21/2005 published on 16 August 2005)|
+||Date of Second and Third Readings|19 September 2005|
+||Date of commencement|18 October 2005|
 ## COMPARATIVE TABLE
 
 Banking Act
