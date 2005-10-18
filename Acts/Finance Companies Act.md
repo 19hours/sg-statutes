@@ -116,7 +116,9 @@
 
 - [43 Prohibition against transacting of financing business on public holidays](#Prohibition-against-transacting-of-financing-business-on-public-holidays)
 
-- [44 (Repealed)](#Repealed)
+- [44 Priority of specified liabilities](#Priority-of-specified-liabilities)
+
+- [44A Priority of specified liabilities inter se](#Priority-of-specified-liabilities-inter-se)
 
 - [45 Moratorium](#Moratorium)
 
@@ -212,8 +214,6 @@ and includes the business of financing hire-purchase transactions arising out of
 
 “limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
 
-[5/2005 wef 11/04/2005]
-
 “officer”, in relation to a corporation, includes —
 
 (a) a director, secretary or employee of the corporation;
@@ -223,8 +223,6 @@ and includes the business of financing hire-purchase transactions arising out of
 (c) the liquidator of the corporation appointed in a voluntary winding up;
 
 “partner” and “manager”, in relation to a limited liability partnership, have the respective meanings assigned to them in section 2(1) of the Limited Liability Partnerships Act 2005;
-
-[5/2005 wef 11/04/2005]
 
 “person” includes a corporation;
 
@@ -556,7 +554,13 @@ and the finance company shall comply with that direction within such time as is 
 
 (iv) carries on business while its paid-up capital (unimpaired by losses or otherwise) is less than $500,000; or
 
-(v) is contravening or has contravened the provisions of this Act; and
+(v) is contravening or has contravened the provisions of this Act;
+
+[31/2005 wef 18/10/2005]
+
+(vi) is contravening or has contravened any provision of the Deposit Insurance Act 2005 or any rules issued by the deposit insurance agency under the Deposit Insurance Act 2005; and
+
+[31/2005 wef 18/10/2005]
 
 (c) may, also in its discretion, by order, revoke the licence of a finance company —
 
@@ -678,11 +682,7 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 
 (b) any firm or limited liability partnership in which the finance company or any of its directors is a partner, manager or agent;
 
-[5/2005 wef 11/04/2005]
-
 (c) any individual or firm or limited liability partnership of whom or of which any of the directors of the finance company is a guarantor;
-
-[5/2005 wef 11/04/2005]
 
 (d) any corporation that is related to the finance company;
 
@@ -691,8 +691,6 @@ RESERVE FUNDS, DIVIDENDS, BALANCE-SHEETS AND INFORMATION
 (f) any private or public company in which the finance company or any of its directors, officers, employees or other persons who receive remuneration from the finance company has an interest as a director, manager, agent or guarantor; or
 
 (g) any individual in whom, and any firm or limited liability partnership or company in which, any of the directors of the finance company has, directly or indirectly, such interest as is required to be declared under section 21B, other than those advances, loans and credit facilities, the particulars of which have been supplied under paragraphs (a) to (f).
-
-[5/2005 wef 11/04/2005]
 
 [27/94]
 
@@ -820,11 +818,7 @@ REGULATION OF BUSINESS
 
 (b) a firm or limited liability partnership in which that finance company or any of its directors has an interest as a partner, manager or agent;
 
-[5/2005 wef 11/04/2005]
-
 (ba) any individual of whom, or firm or limited liability partnership of which, any of that finance company’s directors is a guarantor;
-
-[5/2005 wef 11/04/2005]
 
 (c) a company in which any of that finance company’s directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of that finance company’s directors controls the composition of the board of directors, but excluding any public company the securities of which are listed on the Singapore Exchange Securities Trading Limited or any other securities exchange which the Authority may approve under the Securities and Futures Act 2001, and the subsidiaries of such public company; or
 
@@ -1234,7 +1228,29 @@ MISCELLANEOUS
 
 [33/84]
 
-44\. [Deleted by Act 24/2003 wef 01/01/2004]
+### Priority of specified liabilities
+
+44\.—(1) Where a finance company becomes unable to meet its obligations or becomes insolvent or suspends payment, the assets of the finance company shall be available to meet the liabilities in Singapore of the finance company specified in section 44A.
+
+(2) The liabilities in Singapore specified in section 44A shall have priority over all unsecured liabilities of the finance company other than the preferential debts specified in section 328(1) of the Companies Act (Cap. 50).
+
+[31/2005 wef 18/10/2005]
+
+### Priority of specified liabilities inter se
+
+44A\.—(1) Notwithstanding the provisions of any written law or rule of law relating to the winding up of companies, in the event of a winding up of a finance company, the following liabilities in Singapore of the finance company shall, amongst themselves, rank in the following order of priority:
+
+(a) firstly, any premium contributions due and payable by the finance company under the Deposit Insurance Act 2005;
+
+(b) secondly, liabilities incurred by the finance company under the Deposit Insurance Act 2005 in respect of insured deposits, up to the amount of compensation paid or payable out of the Fund by the Agency under the Deposit Insurance Act 2005 in respect of such insured deposits.
+
+(2) The liabilities in each class specified in subsection (1) shall —
+
+(a) rank in the order specified but as between liabilities of the same class, such liabilities shall rank equally between themselves; and
+
+(b) be paid in full unless the assets of the finance company are insufficient to meet them in which case they shall abate in equal proportions between themselves.
+
+[31/2005 wef 18/10/2005]
 
 ### Moratorium
 
@@ -1321,8 +1337,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 ### Holding out as finance company
 
 51\. Where any public or private company or firm or limited liability partnership holds itself out to be a licensed finance company when it is not licensed under this Act, such company or firm or limited liability partnership shall be guilty of an offence and every director, manager or every officer of that company and the proprietor or every partner or officer of that firm and every partner or manager of the limited liability partnership shall, unless he proves that such holding out by the company or firm or limited liability partnership was made without his knowledge or consent, be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-[5/2005 wef 11/04/2005]
 
 [33/84]
 
@@ -1477,6 +1491,12 @@ This Legislative History is provided for the convenience of users of the Finance
 |||(Bill No. 64/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
+|16.|**Act 31 of 2005—Deposit Insurance Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 August 2005|
+|||(Bill No. 21/2005 published on 16 August 2005)|
+||Date of Second and Third Readings|19 September 2005|
+||Date of commencement|18 October 2005|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
