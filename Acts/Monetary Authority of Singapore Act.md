@@ -542,7 +542,13 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 (p) underwrite loans in which the Authority may invest;
 
-(q) undertake the issue and management of securities issued by the Government or by any public authority; and
+(q) undertake the issue and management of securities issued by the Government or by any public authority;
+
+[31/2005 wef 18/10/2005]
+
+(qa) form or participate in the formation of any company or in any joint venture as a shareholder or partner or in any other capacity, for purposes that are necessary or expedient for the purpose of discharging its functions or achieving its objects; and
+
+[31/2005 wef 18/10/2005]
 
 (r) do generally all such things as may be commonly done by bankers and are not inconsistent with the exercise of its powers or the discharge of its duties under this Act.
 
@@ -1099,6 +1105,11 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||(Bill No. 43/2004 published on 12 November 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|21.|**Act 31 of 2005—Deposit Insurance Act 2005**|
+||Date of First Reading|15 August 2005|
+|||(Bill No. 21/2005 published on 21 October 2005)|
+||Date of Second and Third Readings|19 September 2005|
+||Date of commencement|18 October 2005|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
