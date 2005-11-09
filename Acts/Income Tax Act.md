@@ -548,7 +548,7 @@ PRELIMINARY
 
 “crops” includes any form of vegetable produce;
 
-“earned income” means the statutory income of an individual or a Hindu joint family, reduced by any deduction made under from —
+“earned income” means the statutory income of an individual or a Hindu joint family, reduced by any deduction made under section 37(3)(a) or 37E or claimed under section 37D (excluding any donation referred to in section 37D(8)(c)) or 37F from —
 
 (a) gains or profits from any trade, business, profession, vocation or employment on which tax is payable under section 10(1), where the Comptroller is satisfied that such gains or profits are immediately derived from the carrying on or exercise by such individual or Hindu joint family, as the case may be, of such trade, business, profession, vocation or employment; and
 
@@ -3167,10 +3167,6 @@ Y
 
 is the total number of the original shares, bonus shares and split shares; and
 
-where X is the cost of the shares at the date of acquisition; and
-
- Y is the total number of the original shares, bonus shares and split shares; and
-
 (ii) where the original shares upon which the bonus shares or split shares are derived were donated on or after 1st April 2003, on the date of donation of the original shares.
 
 [21/2003]
@@ -3567,7 +3563,7 @@ shall be allowed as deductions only to the extent to which, in the opinion of th
 
 [Act 34/2005, wef Y/A 2005 and Sub Ys/A:2005-ACT-34]
 
-“remuneration” means any wage, salary, leave pay, fee, commission, bonus, gratuity, allowance, other emoluments paid in cash by or on behalf of an employer and contributions to any approved pension or provident fund by any employer which are allowable as deductions under this Act, but does not include any director’s fee, medical expense, cash allowance in lieu of medical expenses and benefit-in-kind
+“remuneration” means any wage, salary, leave pay, fee, commission, bonus, gratuity, allowance, other emoluments paid in cash by or on behalf of an employer and contributions to any approved pension or provident fund by any employer which are allowable as deductions under this Act, but does not include any director’s fee, medical expense, cash allowance in lieu of medical expenses and benefit-in-kind;
 
 [26/93; 32/95]
 
@@ -6737,7 +6733,7 @@ is the concessionary rate of tax;
 
 (a) any order made under section 13(12); or
 
-(b) the regulations made undersection 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43R, 43S, 43Tor 43U, 43V, , as the case may be.
+(b) the regulations made undersection 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43R, 43S, 43Tor 43U, 43V, 43W, , as the case may be.
 
 (18) This section shall not apply to any company to which section 10E applies.
 
@@ -10067,6 +10063,10 @@ Cap. 20.
 
 Cap. 161.
 
+2A. Central Co-operative Fund
+
+Cap. 62.
+
 3. Central Sikh Gurdwara Board
 
 Cap. 357.
@@ -10154,6 +10154,8 @@ Cap. 294A.
 Cap. 298.
 
 25. Any specified statutory corporation within the meaning of section 3 of the Statutory Corporations (Contributions to Consolidated Fund) Act (Cap. 319A), as from the date of establishment of that statutory corporation.
+
+[S 715/2005 wef 09/11/2005]
 
 B. Clubs, corporations and institutions in Singapore:
 
@@ -10256,7 +10258,7 @@ $320,000
 
 21.0%
 
-[37/2002]
+[29/95; 1/96; 7/96; 32/99; 41/99; 9/2000; 3/2001; 17/2001; S148/76; S38/77; S217/80; S158/82; S183/83; S137/84; S138/84; S217/84; S26/85; S79/88; S379/89; S380/89; S381/90; S382/90; S383/90; S317/91; S562/91; S 210/92; S412/92; S259/95; S33/96; S67/96; S302/96; S372/97; S372/98; S267/99; S485/99; S220/2003]
 
 Part B
 
@@ -11487,6 +11489,8 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 27/2005 published on 20 September 2005)|
 ||Date of Second and Third Readings|18 October 2005|
 ||Date of commencement|7 November 2005|
+|196.|**G.N. No. S 715/2005—Income Tax Act (Amendment of First Schedule) Order 2005**|
+||Date of commencement|9 November 2005|
 ## COMPARATIVE TABLE
 
 Income Tax Act
