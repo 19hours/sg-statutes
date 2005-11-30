@@ -204,7 +204,9 @@ PRELIMINARY
 
 “premises” includes land;
 
-“prohibited pesticide” means a pesticide not specified in the Tenth Schedule to the Food Regulations (Cap. 283, Rg 1);
+“prohibited pesticide” means a pesticide not specified in the Ninth Schedule to the Food Regulations (Cap. 283, Rg 1);
+
+[Act 2 of 2020 wef 30/11/2005]
 
 “prohibited pesticide residue” means the remains of any substance resulting from the use of any prohibited pesticide;
 
@@ -1014,6 +1016,11 @@ This Legislative History is provided for the convenience of users of the Control
 ||Date of commencement|1 April 2000|
 |6.|**2000 Revised Edition—Control of Plants Act**|
 ||Date of operation|30 December 2000|
+|7.|**Act 2 of 2020—Statutes (Miscellaneous Amendments) Act 2020**|
+||Date of First Reading|4 November 2019|
+|||(Bill No. 36/2019)|
+||Date of Second and Third Readings|6 January 2020|
+||Date of commencement|30 November 2005|
 ## COMPARATIVE TABLE
 
 Control of Plants Act
