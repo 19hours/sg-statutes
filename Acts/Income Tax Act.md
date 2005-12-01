@@ -396,6 +396,8 @@
 
 - [74 Additional assessments](#Additional-assessments)
 
+- [74A Revised assessments as relief for late GST registration](#Revised-assessments-as-relief-for-late-GST-registration)
+
 - [75 Waiver of small assessments](#Waiver-of-small-assessments)
 
 - [76 Service of notices of assessment and revision of assessment](#Service-of-notices-of-assessment-and-revision-of-assessment)
@@ -6733,7 +6735,7 @@ is the concessionary rate of tax;
 
 (a) any order made under section 13(12); or
 
-(b) the regulations made undersection 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43R, 43S, 43Tor 43U, 43V, 43W, , as the case may be.
+(b) the regulations made undersection 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L , 43N, 43O, 43P, 43Q, 43R, 43S, 43Tor 43U, , as the case may be.
 
 (18) This section shall not apply to any company to which section 10E applies.
 
@@ -9271,6 +9273,18 @@ the Comptroller may make such assessment or additional assessments as may be nec
 
 [32/99]
 
+### Revised assessments as relief for late GST registration
+
+74A\. Where —
+
+(a) any person liable to tax, being required to be registered under the Goods and Services Tax Act (Cap. 117A), has failed to do so, and has been so registered on or after 1st December 2005; and
+
+(b) his income chargeable to tax for any year of assessment relating to a basis period for which he ought to have been so registered includes an amount in respect of output tax paid or payable under the Goods and Services Tax Act,
+
+the Comptroller shall according to the best of his judgment give, by way of revision of any assessment made on the person for that year of assessment, relief in respect of the amount so paid or payable.
+
+[34/2005 wef 01/12/2005]
+
 ### Waiver of small assessments
 
 75\. Where it appears to the Comptroller that the amount of any tax or additional tax to which any person is liable does not exceed $15 or such other amount as the Minister may by order prescribe, the Comptroller may waive the assessment of such tax.
@@ -11491,6 +11505,11 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|7 November 2005|
 |196.|**G.N. No. S 715/2005—Income Tax Act (Amendment of First Schedule) Order 2005**|
 ||Date of commencement|9 November 2005|
+|197.|**Act 34 of 2005—Income Tax (Amendment) Act 2005**|
+||Date of First Reading|19 September 2005|
+|||(Bill No. 27/2005 published on 20 September 2005)|
+||Date of Second and Third Readings|18 October 2005|
+||Date of commencement|1 December 2005 (Section 42)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
