@@ -1522,6 +1522,10 @@ Infectious Diseases
 
 (1) Acquired Immune Deficiency Syndrome\.
 
+(1A) Avian influenza.
+
+[S 794/2005 wef 12/12/2005]
+
 (2) Chickenpox\.
 
 (3) Cholera\.
@@ -1725,6 +1729,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|27 April 2003|
 |24.|**2003 Revised Edition—Infectious Diseases Act**|
 ||Date of operation|31 July 2003|
+|25.|**G. N. No. S 794/2005—Infectious Diseases Act (Amendment of First Schedule) Notification 2005**|
+||Date of commencement|12 December 2005|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
