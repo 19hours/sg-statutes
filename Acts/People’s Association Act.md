@@ -446,6 +446,8 @@ MEMBER ORGANISATIONS
 
 39A. Singapore Dragon Boat Association
 
+39B. Singapore Dance Theatre
+
 40. Singapore Floorball Association
 
 41.Deleted by S 14/2005, wef 07/01/2005.
@@ -566,6 +568,10 @@ MEMBER ORGANISATIONS
 82.Deleted by S 680/2002, wef 30/12/2002.
 
 [S 616/2005 wef 22/09/2005]
+
+[S 14/2005 wef 07/01/2005]
+
+[S 815/2005 wef 16/12/2005]
 
 [S 14/2005 wef 07/01/2005]
 
@@ -722,6 +728,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|7 January 2005|
 |53.|**G.N. No. S 616/2005—People’s Association Act (Amendment of First Schedule) (No. 2) Notification 2005**|
 ||Date of commencement|22 September 2005|
+|54.|**G.N. No. S 815/2005—People’s Association Act (Amendment of First Schedule) (No. 3) Notification 2005**|
+||Date of commencement|16 December 2005|
 ## COMPARATIVE TABLE
 
 People’s Association Act
