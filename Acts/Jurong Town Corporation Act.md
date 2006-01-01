@@ -983,9 +983,11 @@ in every such case re-enter upon the flat, house or building or a part thereof i
 
 48\.—(1) The Corporation shall pay the compensation determined by the Corporation, or varied by the Minister on an appeal, to an owner or to both an owner and an interested person in such proportion as the Corporation may decide or as may be varied by the Minister.
 
-(2) Where any party refuses to accept the compensation or where there is a dispute between the parties to the proportion they are entitled to the compensation to be paid, the Corporation shall apply to the High Court ex parte by summons supported by an affidavit for an order to deposit the amount of the compensation or any part thereof in Court and notwithstanding anything to the contrary in the Rules of Court for the time being in force the High Court may make such an order.
+(2) Where any party refuses to accept the compensation or where there is a dispute between the parties to the proportion they are entitled to the compensation to be paid, the Corporation shall apply to the High Court ex parte by originating summons supported by an affidavit for an order to deposit the amount of the compensation or any part thereof in Court and notwithstanding anything to the contrary in the Rules of Court for the time being in force the High Court may make such an order.
 
 [11/78]
+
+[42/2005 wef 01/01/2006]
 
 (3) The Corporation may withhold any compensation payable in respect of any flat, house or other building vested in the Corporation under this Act to any person until the Corporation has taken possession of that flat, house or other building.
 
@@ -1292,3 +1294,9 @@ This Legislative History is provided for the convenience of users of the Jurong 
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|19.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1st January 2006 (Item (17) of the First Schedule –– Amendment of Jurong Town Corporation Act|
