@@ -182,13 +182,13 @@
 
 [**Part IV GROUNDS FOR AVOIDING ELECTIONS**](#Part-IV)
 
-- [71 Avoidance of election on election petition](#Avoidance-of-election-on-election-petition)
+- [71 Application for avoidance of election on certain grounds](#Application-for-avoidance-of-election-on-certain-grounds)
 
-[**Part V ELECTION PETITIONS**](#Part-V)
+[**Part V APPLICATIONS FOR AVOIDANCE OF ELECTION**](#Part-V)
 
 - [72 Powers of Election Judge](#Powers-of-Election-Judge)
 
-- [73 Who may present petition](#Who-may-present-petition)
+- [73 Who may make application under section 71](#Who-may-make-application-under-section-71)
 
 - [74 Relief which may be claimed](#Relief-which-may-be-claimed)
 
@@ -196,7 +196,7 @@
 
 - [76 Report of Election Judge as to corrupt or illegal practice](#Report-of-Election-Judge-as-to-corrupt-or-illegal-practice)
 
-- [77 Time for presentation](#Time-for-presentation)
+- [77 Time for making application](#Time-for-making-application)
 
 - [78 Prohibition of disclosure of vote](#Prohibition-of-disclosure-of-vote)
 
@@ -414,6 +414,10 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 (4) Each candidate shall at the time of his nomination deliver to the Returning Officer —
 
+(a) [Deleted by Act 19 of 2005 wef 06/06/2005]
+
+(b) [Deleted by Act 19 of 2005 wef 06/06/2005]
+
 (ba) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act 2000; and
 
 [20/2000 wef 15/02/2001]
@@ -512,7 +516,7 @@ the Returning Officer may, before making his decision under section 11 or 12, gi
 
 (5) The Returning Officer shall with the least possible delay decide on the validity of every objection and inform the candidate concerned of his decision, and, if the objection is allowed, of the grounds of his decision.
 
-(6) If the Returning Officer disallows any objection, his decision shall be final and conclusive and shall not be called in question in any court; but if he allows the objection, his decision shall be subject to reversal on an election petition.
+(6) If the Returning Officer disallows any objection, his decision shall be final and conclusive and shall not be called in question in any court; but if he allows the objection, his decision shall be subject to reversal on an application under section 71.
 
 ### Withdrawal of candidature
 
@@ -904,7 +908,7 @@ but not at both in respect of the same election.
 
 (6) The Returning Officer shall so far as practicable proceed continuously with counting the votes and shall endorse “rejected” on any ballot paper which he may reject as invalid.
 
-(7) The Returning Officer shall not count the tendered ballot papers but shall place them in separate packets according to the candidate whom they support and shall mark each packet with the name of the candidate and shall seal the packet and retain it unless it is required for the purposes of an election petition.
+(7) The Returning Officer shall not count the tendered ballot papers but shall place them in separate packets according to the candidate whom they support and shall mark each packet with the name of the candidate and shall seal the packet and retain it unless it is required for the purposes of an application under section 71.
 
 (8) Where only one counting place is specified in a direction under section 31A(1), the Returning Officer shall, when the counting of votes cast at all polling stations in Singapore is completed at the sole counting place or, if a recount thereof is allowed under section 32B, after that recount is completed, forthwith act as follows:
 
@@ -970,7 +974,7 @@ may be present at the principal counting place during the addition of the votes.
 
 (11) An Election Judge may make an order that any ballot paper or other document relating to an election which has been sealed as required by this Act be inspected, copied or produced at such time and place and subject to such conditions as the Judge may consider expedient.
 
-(11A) No Election Judge shall make such an order unless he is satisfied that the inspection, copy or production is required for the purpose of instituting or maintaining a prosecution or an election petition in connection with the election.
+(11A) No Election Judge shall make such an order unless he is satisfied that the inspection, copy or production is required for the purpose of instituting or maintaining a prosecution or an application under section 71 in connection with the election.
 
 [12/93]
 
@@ -1046,7 +1050,7 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 (3) Before rejecting a ballot paper, the Returning Officer shall show it to each candidate or his counting agent if present and hear his views thereon, taking all proper precautions to prevent any person from seeing the number printed on the back of the paper.
 
-(4) The decision of the Returning Officer whether or not any ballot paper shall be rejected shall be final and shall not be questioned on an election petition.
+(4) The decision of the Returning Officer whether or not any ballot paper shall be rejected shall be final and shall not be questioned on an application under section 71.
 
 ### Approval of DRE voting systems
 
@@ -1722,7 +1726,7 @@ Chapter 4
 
 ### Report exonerating candidate in certain cases of corrupt and illegal practice by agents
 
-68\. Where, upon the trial of an election petition respecting an election under this Act, the Election Judge reports that a candidate at the election has been guilty by his agents of the offence of treating or undue influence or of any illegal practice in reference to the election, and the Election Judge further reports, after giving the Public Prosecutor an opportunity of being heard, that the candidate has proved to the court —
+68\. Where, upon the hearing of an application under section 71 respecting an election under this Act, the Election Judge reports that a candidate at the election has been guilty by his agents of the offence of treating or undue influence or of any illegal practice in reference to the election, and the Election Judge further reports, after giving the Public Prosecutor an opportunity of being heard, that the candidate has proved to the court —
 
 (a) that no corrupt or illegal practice was committed at the election by the candidate or any of his election agents and the offences mentioned in the report were committed contrary to the orders and without the sanction or connivance of the candidate or any of his election agents;
 
@@ -1784,9 +1788,9 @@ the Election Judge may, after such notice of the application, and on production 
 
 GROUNDS FOR AVOIDING ELECTIONS
 
-### Avoidance of election on election petition
+### Application for avoidance of election on certain grounds
 
-71\. The election of a candidate as President shall be declared to be void on an election petition on any of the following grounds which may be proved to the satisfaction of the Election Judge:
+71\. The election of a candidate as President shall be declared to be void on an application made to an Election Judge on any of the following grounds which may be proved to the satisfaction of the Election Judge:
 
 (a) that by reason of general bribery, general treating, or general intimidation, or other misconduct, or other circumstances, whether similar to those before enumerated or not, the majority of electors were or may have been prevented from electing the candidate whom they preferred;
 
@@ -1800,33 +1804,33 @@ GROUNDS FOR AVOIDING ELECTIONS
 
 ## PART V
 
-ELECTION PETITIONS
+APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 ### Powers of Election Judge
 
-72\.—(1) Every election petition shall be tried by an Election Judge.
+72\.—(1) Every application under section 71 shall be heard by an Election Judge.
 
 (2) Witnesses shall be subpoenaed and sworn in the same manner as nearly as circumstances admit as in a trial by the High Court in the exercise of its original civil jurisdiction and shall be subject to the same penalties for the giving of false evidence.
 
-(3) On the trial of an election petition under this Act, the Election Judge may —
+(3) On the hearing of an application under section 71, the Election Judge may —
 
-(a) by order under his hand, compel the attendance of any person as a witness who appears to him to have been concerned in the election to which the petition refers; and
+(a) by order under his hand, compel the attendance of any person as a witness who appears to him to have been concerned in the election to which the application refers; and
 
-(b) examine any witness so compelled to attend or any person in court, although the witness is not called and examined by any party to the petition; and after the examination of a witness by the Election Judge, the witness may be cross-examined by or on behalf of the petitioner and the respondent, or either of them.
+(b) examine any witness so compelled to attend or any person in court, although the witness is not called and examined by any party to the application; and after the examination of a witness by the Election Judge, the witness may be cross-examined by or on behalf of the applicant and the respondent, or either of them.
 
 (4) Any person refusing to obey the order of the Election Judge under subsection (3)(a) shall be guilty of a contempt of court.
 
-(5) The Election Judge shall be attended on the trial of an election petition in the same manner as if he were a Judge of the Supreme Court sitting at assizes.
+(5) The Election Judge shall be attended on the hearing of an application under section 71 in the same manner as if he were a Judge of the Supreme Court sitting at assizes.
 
-(6) All interlocutory matters in connection with an election petition may be dealt with and decided by an Election Judge.
+(6) All interlocutory matters in connection with an application under section 71 may be dealt with and decided by an Election Judge.
 
 [12/93]
 
-### Who may present petition
+### Who may make application under section 71
 
-73\. An election petition may be presented to the Supreme Court by any one or more of the following persons:
+73\. An application under section 71 may be made to the Supreme Court by any one or more of the following persons:
 
-(a) any person who voted or had a right to vote at the election to which the petition relates;
+(a) any person who voted or had a right to vote at the election to which the application relates;
 
 (b) any person claiming to have had a right to be returned or elected at the election; and
 
@@ -1834,7 +1838,7 @@ ELECTION PETITIONS
 
 ### Relief which may be claimed
 
-74\. A petitioner shall be entitled to claim in an election petition all or any of the following relief:
+74\. A person making an application under section 71 shall be entitled to claim in the application all or any of the following relief:
 
 (a) a declaration that the election is void;
 
@@ -1846,39 +1850,39 @@ ELECTION PETITIONS
 
 ### Certificate of Election Judge as to validity of election
 
-75\.—(1) At the conclusion of the trial of an election petition, the Election Judge shall determine whether the President whose return or election is complained of, or any other and what person, was duly returned or elected, or whether the election was void, and shall certify such determination to the Prime Minister.
+75\.—(1) At the conclusion of the hearing of an application under section 71, the Election Judge shall determine whether the President whose return or election is complained of, or any other and what person, was duly returned or elected, or whether the election was void, and shall certify such determination to the Prime Minister.
 
 (2) Upon a certificate being given under subsection (1), the determination of the Election Judge under that subsection shall be final; and the return shall be confirmed or altered, or the Prime Minister shall, by notice in theGazette, order the holding of an election within 6 months of the determination.
 
 ### Report of Election Judge as to corrupt or illegal practice
 
-76\.—(1) At the conclusion of the trial of an election petition, the Election Judge shall also report in writing to the Prime Minister —
+76\.—(1) At the conclusion of the hearing of an application under section 71, the Election Judge shall also report in writing to the Prime Minister —
 
 (a) whether any corrupt or illegal practice has or has not been proved to have been committed by or with the knowledge and consent of any candidate at the election, or by his agent, and the nature of the corrupt or illegal practice (if any); and
 
-(b) the names and descriptions of all persons, if any, who have been proved at the trial to have been guilty of any corrupt or illegal practice.
+(b) the names and descriptions of all persons, if any, who have been proved at the hearing to have been guilty of any corrupt or illegal practice.
 
-(2) Before any person, not being a party to an election petition nor a candidate on behalf of whom the office of President is claimed by an election petition, is reported by an Election Judge under this section, the Election Judge shall give the person an opportunity of being heard and of giving and calling evidence to show why he should not be so reported.
+(2) Before any person, not being a party to an application under section 71 nor a candidate on behalf of whom the office of President is claimed by such an application, is reported by an Election Judge under this section, the Election Judge shall give the person an opportunity of being heard and of giving and calling evidence to show why he should not be so reported.
 
 (3) The Prime Minister shall cause a copy of such report to be published in theGazette.
 
-### Time for presentation
+### Time for making application
 
-77\.—(1) Subject to subsections (2) and (3), every election petition shall be presented within 21 days of the date of publication of the result of the election in theGazette.
+77\.—(1) Subject to subsections (2) and (3), every application under section 71 shall be made within 21 days of the date of publication of the result of the election in theGazette.
 
-(2) An election petitionquestioning the return or the election upon the ground of a corrupt practice and specifically alleging a payment of money or other act to have been made or done since the date referred to in subsection (1) by the President whose election is questioned or by an agent of the President or with privity of the President or any of his election agents in pursuance or in furtherance of the corrupt practice may, so far as respects that corrupt practice, be presented at any time within 28 days after the date of the payment or act.
+(2) An application under section 71 questioning the return or the election upon the ground of a corrupt practice and specifically alleging a payment of money or other act to have been made or done since the date referred to in subsection (1) by the President whose election is questioned or by an agent of the President or with privity of the President or any of his election agents in pursuance or in furtherance of the corrupt practice may, so far as respects that corrupt practice, be made at any time within 28 days after the date of the payment or act.
 
 [18/99]
 
-(3) An election petition questioning the return or the election upon an allegation of an illegal practice may, so far as respects that illegal practice, be presented within the following time:
+(3) An application under section 71 questioning the return or the election upon an allegation of an illegal practice may, so far as respects that illegal practice, be made within the following time:
 
 (a) at any time before the expiration of 14 days after the date of the publication in theGazetteof the notice required by section 57 as to the election expenses of the President whose election is questioned; or
 
-(b) if the election petition specifically alleges a payment of money or other act to have been made or done since that date by the President whose election is questioned or by an agent of the President or with the privity of the President or of any of his election agents in pursuance or in furtherance of the illegal practice alleged in the petition , the petition may be presented at any time within 28 days after the date of the payment or other act.
+(b) if the application specifically alleges a payment of money or other act to have been made or done since that date by the President whose election is questioned or by an agent of the President or with the privity of the President or of any of his election agents in pursuance or in furtherance of the illegal practice alleged in the application, the application may be made at any time within 28 days after the date of the payment or other act.
 
 [18/99]
 
-(4) An election petition presented in due time may, for the purpose of questioning the return or the election upon an allegation of a corrupt or illegal practice, be amended with the leave of an Election Judge within the time within which an election petition questioning the return or the election upon that ground may be presented.
+(4) An application under section 71 made in due time may, for the purpose of questioning the return or the election upon an allegation of a corrupt or illegal practice, be amended with the leave of an Election Judge within the time within which an application questioning the return or the election upon that ground may be made.
 
 [12/93]
 
@@ -1890,7 +1894,7 @@ ELECTION PETITIONS
 
 ### Votes to be struck off at a scrutiny
 
-79\.—(1) On a scrutiny at the trial of an election petition , only the following votes shall be struck off:
+79\.—(1) On a scrutiny at the hearing of an application under section 71, only the following votes shall be struck off:
 
 (a) the vote of any person whose name was not on the register of electors assigned to the polling station at which the vote was recorded or who has not been authorised to vote at the station under section 22;
 
@@ -1902,11 +1906,13 @@ ELECTION PETITIONS
 
 (2) The vote of a registered elector shall not be struck off at a scrutiny by reason only of the voter not having been or not being qualified to have his name entered on the register of electors.
 
-(3) On a scrutiny, any tendered vote proved to be a valid vote shall, on the application of any party to the petition, be added to the poll.
+(3) On a scrutiny, any tendered vote that is proved to be a valid vote shall be added to the poll if any party to the application under section 71 applies for that vote to be so added.
+
+[42/2005 wef 01/01/2006]
 
 ### Rejection of ballot paper by Returning Officer not to be questioned
 
-80\. On an election petition, the decision of a Returning Officer whether or not a ballot paper shall be rejected under section 33 shall not be questioned.
+80\. On the making of an application under section 71, the decision of a Returning Officer whether or not a ballot paper shall be rejected under section 33 shall not be questioned.
 
 ## PART VI
 
@@ -2040,6 +2046,11 @@ This Legislative History is provided for the convenience of users of the Preside
 |||(Bill No. 8/2005 published on 19 April 20005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|6 June 2005|
+|14.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
 ## COMPARATIVE TABLE
 
 Presidential Elections Act
