@@ -722,7 +722,9 @@ PAYMENT
 
 40\.—(1) On making an award under section 10, the Collector shall make a written offer of the compensation awarded by him to the persons interested entitled thereto according to the award, and shall pay it to them unless prevented by one or more of the contingencies mentioned in subsection (2).
 
-(2) If they do not consent to receive it, or if there is no person competent to alienate the land, or if there is any dispute as to the title to receive the compensation or as to the apportionment of it, or if possession of the land has not been taken by the Collector, the Collector shall apply to the Registrar of the Supreme Court ex parteby summons supported by affidavit for an order to deposit the amount of the compensation in court, and, notwithstanding anything to the contrary in the Rules of Court for the time being in force, the Registrar may make such an order except that any person admitted to be interested may receive such payment under protest as to the sufficiency of the amount.
+(2) If they do not consent to receive it, or if there is no person competent to alienate the land, or if there is any dispute as to the title to receive the compensation or as to the apportionment of it, or if possession of the land has not been taken by the Collector, the Collector shall apply to the Registrar of the Supreme Court ex parte for an order to deposit the amount of the compensation in court, and, notwithstanding anything to the contrary in the Rules of Court for the time being in force, the Registrar may make such an order except that any person admitted to be interested may receive such payment under protest as to the sufficiency of the amount.
+
+[42/2005 wef 01/01/2006]
 
 (3) Notwithstanding subsection (1), no person who has received the amount otherwise than under protest shall be entitled to appeal to the Board under section 23.
 
@@ -902,3 +904,8 @@ This Legislative History is provided for the convenience of users of the Land Ac
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003 (section 8)|
+|15.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1 January 2006 (item (18) of the First Schedule)|
