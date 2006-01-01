@@ -372,7 +372,7 @@ Contracts for sale
 
 ### Vendor or purchaser may obtain summary decision as to requisitions, etc.
 
-4\.—(1) A vendor or purchaser of land, or their representatives respectively, may at any time or times, and from time to time, apply in a summary way to the court by summons intituled in the matter of this Act, and in the matter of the contract of sale, in respect of any requisitions or objections, or any claim for compensation, or any other question arising out of or connected with the contract not being a question affecting the existence or validity of the contract.
+4\.—(1) A vendor or purchaser of land, or their representatives respectively, may at any time or times, and from time to time, apply in a summary way to the court by originating summons intituled in the matter of this Act, and in the matter of the contract of sale, in respect of any requisitions or objections, or any claim for compensation, or any other question arising out of or connected with the contract not being a question affecting the existence or validity of the contract.
 
 [42/2005 wef 01/01/2006]
 
@@ -1412,7 +1412,9 @@ PROCEDURE
 
 74\.—(1) Payment of money into court shall effectually exonerate therefrom the person making the payment.
 
-(2) Every application to the court shall, except where it is otherwise expressed, be by summonsin chambers.
+(2) Every application to the court shall, except where it is otherwise expressed, be by summons.
+
+[42/2005 wef 01/01/2006]
 
 (3) On an application by a purchaser, notice shall be served in the first instance on the vendor.
 
@@ -1598,3 +1600,8 @@ This Legislative History is provided for the convenience of users of the Conveya
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|28.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
