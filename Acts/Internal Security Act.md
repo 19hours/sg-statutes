@@ -450,11 +450,15 @@ and any order made under paragraph (b) shall be for such period, not exceeding t
 
 8A\. In this Part, “judicial review” includes proceedings instituted by way of —
 
-(a) an application for any of the prerogative orders of mandamus, prohibition and certiorari;
+(a) an application for a Mandatory Order, a Prohibiting Order or a Quashing Order;
+
+[42/2005 wef 01/01/2006]
 
 (b) an application for a declaration or an injunction;
 
-(c) any writ of habeas corpus; and
+(c) an Order for Review of Detention; and
+
+[42/2005 wef 01/01/2006]
 
 (d) any other suit or action relating to or arising out of any decision made or act done in pursuance of any power conferred upon the President or the Minister by any provision of this Act.
 
@@ -477,6 +481,8 @@ No appeals to Privy Council
 8D\. Sections 8A and 8B shall apply to any proceedings instituted by way of judicial review of any decision made or act done under the provisions of this Act, whether such proceedings have been instituted before or after the commencement of the Internal Security (Amendment) Act 1989.
 
 [Act 2/89 wef 30/01/1989]
+
+[Act 2/94 wef 08/04/1994]
 
 ### Duty to inform person detained of grounds of detention, etc.
 
@@ -1585,3 +1591,14 @@ This Legislative History is provided for the convenience of users of the Interna
 |||(Bill No. 2/1994 published on 18 January 1994)|
 ||Date of Second and Third Readings|23 February 1994|
 ||Date of commencement|8 April 1994|
+|17.|**Act 8 of 1997—Education (Amendment) Act 1997**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 July 1997|
+|||(Bill No. 8/1997 published on 23 July 1997)|
+||Date of Second and Third Readings|25 August 1997|
+||Date of commencement|2 September 1997|
+|18.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1 January 2006 (Item (9) of the Fourth Schedule)|
