@@ -888,7 +888,7 @@ PROPERTY
 
 ### Devolution of property
 
-45\. Upon any change in the office of any trustee, the Supreme Court may, upon an ex parte motion made to it in that behalf, make an order vesting the property of a registered trade union in the trustees for the time being of the trade union for the same estate and interest as the former trustee had therein, and subject to the same trusts, without any transfer, conveyance or assignment.
+45\. Upon any change in the office of any trustee, the Supreme Court may, upon an ex parte application by originating summons made to it in that behalf, make an order vesting the property of a registered trade union in the trustees for the time being of the trade union for the same estate and interest as the former trustee had therein, and subject to the same trusts, without any transfer, conveyance or assignment.
 
 ### Purchase or lease of land or buildings
 
@@ -1356,6 +1356,11 @@ This Legislative History is provided for the convenience of users of the Trade U
 ||Date of commencement|5 May 2004|
 |25.|**2004 Revised Edition—Trade Unions Act**|
 ||Date of operation|31 July 2004|
+|26.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1 January 2006|
 ## COMPARATIVE TABLE
 
 Trade Unions Act
