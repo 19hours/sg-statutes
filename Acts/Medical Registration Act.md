@@ -1084,9 +1084,9 @@ to be known for the purposes of this Act as Disciplinary Committees to inquire i
 
 (4) A Disciplinary Committee shall not be bound to act in any formal manner and shall not be bound by the provisions of the Evidence Act (Cap. 97) or by any other written law relating to evidence but may inform itself on any matter in such manner as it thinks fit.
 
-(5) A Disciplinary Committee may, for the purpose of any proceedings before it, administer oaths and any party to the proceedings may sue out writs of subpoena ad testificandum and of duces tecum.
+(5) A Disciplinary Committee may, for the purpose of any proceedings before it, administer oaths and any party to the proceedings may sue out subpoenas to testify or to produce documents.
 
-(6) The writs referred to in subsection (5) shall be served and may be enforced as if they were writs issued in connection with a civil action in the High Court.
+(6) The subpoenas referred to in subsection (5) shall be served and may be enforced as if they were subpoenas issued in connection with a civil action in the High Court.
 
 (7) Any person giving evidence before a Disciplinary Committee shall be legally bound to tell the truth.
 
@@ -2541,6 +2541,11 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|14 March 2003|
 |7.|**2004 Revised Edition—Medical Registration Act**|
 ||Date of operation|31 July 2004|
+|8.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (Item (14) of the Fifth Schedule)|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
