@@ -1598,7 +1598,7 @@ the Director or a protector may give consent to the carrying out of such medical
 
 ### Saving of powers of High Court
 
-75\. Nothing contained in this Act contained shall be held to lessen or affect the powers of the Judges of the High Court to direct persons confined in Singapore to be brought before the Court by writ of habeas corpus.
+75\. Nothing contained in this Act contained shall be held to lessen or affect the powers of the Judges of the High Court to direct persons confined in Singapore to be brought before the Court by an Order for Review of Detention.
 
 [72
 
@@ -1834,6 +1834,14 @@ This Legislative History is provided for the convenience of users of the Childre
 ||Date of commencement|1 October 2001|
 |4.|**2001 Revised Edition—Children and Young Persons Act**|
 ||Date of operation|31 December 2001|
+|5.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
+
+|
+(Item (3) of Fourth Schedule)|
 ## COMPARATIVE TABLE
 
 Children and Young Persons Act
