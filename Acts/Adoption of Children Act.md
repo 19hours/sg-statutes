@@ -8,7 +8,7 @@
 
 - [1 Short title](#Short-title)
 
-- [2 Interpretation](#Interpretation)
+- [2 Interpretation.](#Interpretation)
 
 - [3 Power to make adoption orders](#Power-to-make-adoption-orders)
 
@@ -52,7 +52,7 @@ An Act to make provision for the adoption of infants.
 
 1\. This Act may be cited as the Adoption of Children Act.
 
-### Interpretation
+### Interpretation.
 
 2\. In this Act, unless the context otherwise requires —
 
@@ -114,7 +114,7 @@ Provided that the court may dispense with any consent required by this subsectio
 
 (b) is unfit by reason of any physical or mental incapacity to have the care and control of the infant, that the unfitness is likely to continue indefinitely and that reasonable notice of the application for an adoption order has been given to the parent or guardian; or
 
-(c) ought, in the opinion of the court and in all the circumstances of the case to be dispensed with, notwithstanding that such person may have made suitable initial arrangements for the infant by placing the infant under the care of the authorities of a children’s home, the protector under the Children and Young Persons Act [Cap. 38] or some other person.
+(c) ought, in the opinion of the court and in all the circumstances of the case to be dispensed with, notwithstanding that such person may have made suitable initial arrangements for the infant by placing the infant under the care of the authorities of a children’s home, the protector under the Children and Young Persons Act (Cap. 38) or some other person.
 
 [9/72]
 
@@ -124,11 +124,11 @@ Provided that the court may dispense with any consent required by this subsectio
 
 (6) An adoption order shall not be made in favour of any applicant who is not resident in Singapore or in respect of any infant who is not so resident.
 
-(7) For the purpose of subsection (6), an infant shall be deemed not to be resident in Singapore
+(7) For the purpose of subsection (6), an infant shall be deemed not to be resident in Singapore —
 
 (a) if he is authorised or permitted to remain in Singapore by virtue of a visit pass, a student’s pass or a special pass issued by the Controller of Immigration, irrespective of the number of occasions such a pass is issued to him or renewed; or
 
-(b) if his presence in Singapore is unlawful under the provisions of the Immigration Act [Cap. 133] or the regulations made thereunder.
+(b) if his presence in Singapore is unlawful under the provisions of the Immigration Act (Cap. 133) or the regulations made thereunder.
 
 [3
 
@@ -208,13 +208,15 @@ Provided that in any case where two spouses are the adopters, such spouses shall
 
 [9/72]
 
-(2) Rules in regard to any matter to be prescribed under this Act and directing the manner in which applications to the court are to be made and dealing generally with all matters of procedure and incidental matters arising out of this Act and for carrying this Act into effect shall be made under section 80 of the Supreme Court of Judicature Act [Cap. 322] and section 69 of the Subordinate Courts Act [Cap. 321].
+(2) Rules in regard to any matter to be prescribed under this Act and directing the manner in which applications to the court are to be made and dealing generally with all matters of procedure and incidental matters arising out of this Act and for carrying this Act into effect shall be made under section 80 of the Supreme Court of Judicature Act and section 69 of the Subordinate Courts Act.
 
 Such rules may provide that all applications made under this Act be heard and determined otherwise than in open court.
 
-(3) For the purpose of any application under this Act and subject to any rules made under this section, the court shall appoint some person or body to act as guardian ad litem of the infant upon the hearing of the application with the duty of safe-guarding the interests of the infant before the court.
+(3) For the purpose of any application under this Act and subject to any rules made under this section, the court shall appoint some person or body to act as a guardian in adoption of the infant upon the hearing of the application with the duty of safe-guarding the interests of the infant before the court.
 
 [9
+
+[42/2005 wef 01/01/2006]
 
 ### Restriction on payments
 
@@ -270,7 +272,7 @@ Such rules may provide that all applications made under this Act be heard and de
 
 (8) The copy of the entry as to the birth of the child supplied by the Registrar-General under subsection (5) shall have the same effect in law as a copy of any entry as to the birth of a child who is not adopted.
 
-(9) Rules made by the Minister under the Registration of Births and Deaths Act [Cap. 267] may make provision as to the duties to be performed by Registrars, Supervising Deputy Registrars and Deputy Registrars in the administration of this Act.
+(9) Rules made by the Minister under the Registration of Births and Deaths Act (Cap. 267) may make provision as to the duties to be performed by Registrars, Supervising Deputy Registrars and Deputy Registrars in the administration of this Act.
 
 (10) The Adopted Children Register maintained under section 11 repealed by the Adoption of Children (Amendment) Act 1972 shall cease to be maintained and no extracts therefrom shall be issued except by an order of court.
 
@@ -335,3 +337,8 @@ This Legislative History is provided for the convenience of users of the Adoptio
 |||(Bill No. 1/87 published on 2 February 1987)|
 ||Date of Second and Third Readings|4 March 1987|
 ||Date of commencement|1 May 1987|
+|11.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1 January 2006|
