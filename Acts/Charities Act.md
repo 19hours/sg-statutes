@@ -472,7 +472,7 @@ for at least 7 years from the end of the financial year to which any such statem
 
 exceeds $250,000 or such other sum as the Minister may by notification prescribe.
 
-(2) If this subsection applies to a financial year of a charity, the accounts of the charity for that year shall be audited by a person who is a public accountant within the meaning of the Companies Act.
+(2) If this subsection applies to a financial year of a charity, the accounts of the charity for that year shall be audited by a person who is a public accountant within the meaning of the Companies Act [Cap. 50].
 
 (3) If subsection (2) does not apply to a financial year of a charity, then (subject to subsection (4)) the accounts of the charity for that year shall, at the election of the charity trustees, either —
 
@@ -1349,7 +1349,9 @@ FUND-RAISING APPEALS
 
 (2) In this section, “judicial review” includes proceedings instituted by way of —
 
-(a) an application for any of the prerogative orders of mandamus, prohibition and certiorari;
+(a) an application for a Mandatory Order, a Prohibiting Order or a Quashing Order;
+
+[42/2005 wef 01/01/2006]
 
 (b) an application for a declaration or an injunction; or
 
@@ -1515,3 +1517,8 @@ This Legislative History is provided for the convenience of users of the Chariti
 |||(Bill No. 3/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 April 2004 (except section 28(a) and (c))|
+|6.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (sections 5 and 6 — Amendment of Charities Act)|
