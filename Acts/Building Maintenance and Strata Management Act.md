@@ -542,7 +542,7 @@ and includes a lot specified as an accessory lot on any such plan;
 
 “subdivided building” means any one or more buildings comprised in a strata subdivision plan approved by the relevant authority;
 
-“subsidiary management corporation”, in relation to any limited common property comprised in a strata title plan, means the subsidiary management corporation constituted for that limited common property in accordance with Division 7 of Part V;
+“subsidiary management corporation”, in relation to any limited common property comprised in a strata title plan, means the subsidiary management corporation constituted for that limited common property under the Land Titles (Strata) Act (Cap. 158);
 
 “subsidiary proprietor” has the same meaning as in the Land Titles (Strata) Act;
 
@@ -1496,7 +1496,7 @@ shall, except to the extent that the by-law otherwise provides, be payable by th
 
 34\.—(1) A management corporation may, subject to the approval of the relevant authority, and pursuant to a 90% resolution —
 
-(a) execute on behalf of its subsidiary proprietors a transfer of any part of common property (including a part of any building or any immovable property affixed to the common property) free from any encumbrances (except those created by statute and subsisting easements); or
+(a) execute on behalf of its subsidiary proprietors a transfer of any part of common property (including a part of any building or any immovable property affixed to the common property) as provided in section 23 of the Land Titles (Strata) Act (Cap. 158); or
 
 (b) execute on their behalf a lease of or rent part of such common property for a period which exceeds 3 years,
 
@@ -4165,7 +4165,7 @@ Court orders affecting common property
 
 (11) Section 30 (1A)
 
-Delete the words “section 7” and substitute the words section 11 of the Building Maintenance and Strata Management Act 2004”.
+Delete the words “section 7” and substitute the words section 11 of the Building Maintenance and Strata Management Act 2004.
 
 (12) Part IV
 
