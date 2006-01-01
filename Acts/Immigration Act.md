@@ -180,7 +180,7 @@
 
 REVISED EDITION 1997
 
-(30th December 1997)
+(20th December 1997)
 
 An Act relating to immigration into, and departure from, Singapore.
 
@@ -206,8 +206,6 @@ PRELIMINARY
 
 “Controller of Work Permits” means the Controller of Work Permits appointed under section 3 of the Employment of Foreign Workers Act (Cap. 91A);
 
-[53/2004 wef 15/01/2005]
-
 “crew” includes every seaman on a vessel, and every person employed in the operation of an aircraft or a train or in any service rendered to the crew or passengers of an aircraft in flight or a train in motion;
 
 “Director of Marine” means the Director of Marine appointed under section 4(1) of the Merchant Shipping Act (Cap. 179) and includes the Deputy Director of Marine appointed under that subsection and such other officers appointed under section 4(3) of that Act as the Director of Marine may authorise to carry out any of his duties under this Act;
@@ -225,8 +223,6 @@ PRELIMINARY
 [53/2004 wef 15/01/2005]
 
 (ca) in the case of a child born in Singapore on or after the date of commencement of the Immigration (Amendment) Act 2004 who is not a citizen of Singapore, his birth in Singapore; and
-
-[53/2004 wef 15/01/2005]
 
 (d) in any other case, any entry into Singapore by land, sea or air,
 
@@ -275,8 +271,6 @@ but shall not include in any case an entry made for the purpose of complying wit
 “permit” includes an entry permit and a re-entry permit;
 
 “personal identifier” means an image, a measurement or a recording of a person or any part of a person, or any particulars, information or record for the purpose of identifying or authenticating the identity of a person, as specified in the Schedule;
-
-[53/2004 wef 15/01/2005]
 
 “prohibited immigrant” means any person who is a prohibited immigrant as defined in section 8;
 
@@ -360,15 +354,11 @@ ADMISSION INTO AND DEPARTURE FROM SINGAPORE
 
 (2) Every person departing from Singapore, other than a citizen of Singapore or a person exempted from this subsection by an order made under section 56, shall complete an embarkation form and submit it together with his passport or other travel document for examination by an immigration officer at the time he leaves Singapore.
 
-[53/2004 wef 15/01/2005]
-
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and —
 
 (a) in the case of an offence under subsection (1), shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also, subject to section 231 of the Criminal Procedure Code (Cap. 68), be punished with caning with not less than 3 strokes, or where by virtue of that section he is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $6,000;
 
 (b) in the case of an offence under subsection (2), shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[53/2004 wef 15/01/2005]
 
 [35/84; 6/89; 41/95]
 
@@ -409,8 +399,6 @@ shall be deemed to be issued with a special pass authorising him to remain in Si
 (5) The father or mother in the case of a legitimate child, or the mother in the case of an illegitimate child, shall ensure that the child referred to in subsection (1) does not remain in Singapore after the expiry of the special pass or, where a permit or pass has been issued to the child under subsection (4), the expiry of the permit or pass, as the case may be.
 
 (6) Any person who contravenes subsection (5) shall be guilty of an offence.
-
-[53/2004 wef 15/01/2005]
 
 ### Right of entry
 
@@ -520,8 +508,6 @@ ENTRY AND RE-ENTRY PERMITS
 
 10\.—(1) Any person seeking to enter Singapore who is not entitled so to enter as a citizen of Singapore or by virtue of a valid pass to enter Singapore issued to him or seeking to remain in Singapore after he had ceased to be a citizen of Singapore or after the expiry of such a pass may make application in that behalf in the manner prescribed to the Controller or to such other person whether within or outside Singapore as the Controller may, from time to time, appoint for the purpose.
 
-[53/2004 wef 15/01/2005]
-
 (2) Upon application made under subsection (1) and upon payment of the prescribed fees, the Controller may issue to the applicant an entry permit in the prescribed form and shall, if the applicant is required by the provisions of any written law relating to passports for the time being in force in Singapore to have a visa to enter Singapore, issue a visa to the applicant on the production by him of his passport or other travel document and on payment of the fee prescribed by that written law and the visa shall remain valid until the expiry or cancellation of the entry permit issued to him.
 
 (3) The Controller may, in his discretion —
@@ -530,13 +516,9 @@ ENTRY AND RE-ENTRY PERMITS
 
 (b) at any time after the issue of an entry permit under subsection (2), vary or revoke any condition to which the entry permit is subject or impose any condition thereto.
 
-[53/2004 wef 15/01/2005]
-
 (3A) For the avoidance of doubt, the power of the Controller to vary, revoke or impose any condition under subsection (3)(b) may be exercised whether or not he is entitled to cancel the entry permit under this Act.
 
-[53/2004 wef 15/01/2005]
-
-(4) Before varying or imposing any condition on an entry permit under subsection (3) (b), the Controller shall notify the holder of the entry permit of his intention to do so and shall give the holder an opportunity to be heard as to why the condition of his entry permit should not be varied or the additional condition should not be imposed.
+(4) Before varying or imposing any condition on an entry permit under subsection (3)(b), the Controller shall notify the holder of the entry permit of his intention to do so and shall give the holder an opportunity to be heard as to why the condition of his entry permit should not be varied or the additional condition should not be imposed.
 
 [53/2004 wef 15/01/2005]
 
@@ -547,8 +529,6 @@ ENTRY AND RE-ENTRY PERMITS
 [38/93]
 
 (6) Any entry permit issued by the Controller before the date of commencement of the Immigration (Amendment) Act 2004 to any person who was in Singapore at the time he ceased to be a citizen of Singapore and who continued to remain in Singapore shall be deemed to have been validly issued and shall continue in force until it is cancelled.
-
-[53/2004 wef 15/01/2005]
 
 ### Re-entry permits
 
@@ -579,8 +559,6 @@ ENTRY AND RE-ENTRY PERMITS
 (a) in the case where he remains unlawfully in Singapore for a period not exceeding 90 days, shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 6 months or to both; or
 
 (b) in the case where he remains unlawfully in Singapore for a period exceeding 90 days, shall on conviction be punished with imprisonment for a term not exceeding 6 months and shall also, subject to section 231 of the Criminal Procedure Code (Cap. 68), be punished with caning with not less than 3 strokes, or where by virtue of that section he is not punishable with caning, he shall, in lieu of caning, be punished with a fine not exceeding $6,000.
-
-[53/2004 wef 15/01/2005]
 
 ### Endorsement of name of wife and children on permits, passes and certificates
 
@@ -687,8 +665,6 @@ PROCEDURE ON ARRIVAL IN AND DEPARTURE FROM SINGAPORE
 (2) The driver of a vehicle who wishes to drive out of Singapore shall stop his vehicle at an authorised departing place, an authorised point of departure or an immigration control post before leaving Singapore.
 
 (3) The driver of a vehicle who, without reasonable cause, contravenes subsection (1) or (2) shall be guilty of an offence.
-
-[53/2004 wef 15/01/2005]
 
 ### Persons not to board or leave vessel until examination completed
 
@@ -854,8 +830,6 @@ shall leave or board a vessel arriving in Singapore nor may any person (other th
 
 shall each be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[53/2004 wef 15/01/2005]
-
 [38/93]
 
 (5) Where any person either disembarks in Singapore or refuses or neglects to return to his vessel in contravention of this section, an immigration officer may require that person to return to his vessel and may take such steps, including the use of force, as may be reasonably necessary to compel that person to return, and the master, owner, agent or charterer of the vessel shall be bound to re-embark that person and to remove him from Singapore.
@@ -892,8 +866,6 @@ shall each be guilty of an offence and shall be liable on conviction to a fine n
 
 shall each be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[53/2004 wef 15/01/2005]
-
 [38/93]
 
 (5) Where any person leaves the precincts of an airport in contravention of this section or refuses to leave and depart from Singapore in accordance with the instructions of an immigration officer given under subsection (2), the immigration officer may take such steps, including the use of force, as may be reasonably necessary to compel that person to return to the precincts of the airport or to comply with those instructions, as the case may be.
@@ -919,8 +891,6 @@ shall each be guilty of an offence and shall be liable on conviction to a fine n
 (d) being the master, owner, agent or charterer of the train in which any person arrived in Singapore, refuses or neglects to remove the person from Singapore after being informed by an immigration officer that the person is prohibited from entering Singapore or that the person has refused or neglected to appear before an immigration officer as required by subsection (1) or that he has left the place of examination without, or otherwise than in accordance with, the authorisation of that officer,
 
 shall each be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[53/2004 wef 15/01/2005]
 
 [38/93]
 
@@ -986,11 +956,7 @@ shall be guilty of an offence and shall be liable on conviction —
 
 (i) in the case of an offence under paragraph (a), (b) or (c), to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both; or
 
-[53/2004 wef 15/01/2005]
-
 (ii) in the case of an offence under paragraph (d), to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 2 years or to both.
-
-[53/2004 wef 15/01/2005]
 
 [53/2004 wef 15/01/2005]
 
@@ -1061,8 +1027,6 @@ REMOVAL FROM SINGAPORE
 [38/93]
 
 (5) Any person who contravenes any order made under subsection (1) or (4) shall be guilty of an offence and shall be liable on conviction to a fine of not less than $5,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[53/2004 wef 15/01/2005]
 
 ### Removal of illegal immigrants
 
@@ -1138,8 +1102,6 @@ MISCELLANEOUS
 
 38A\. Every immigration officer shall be provided with such batons, arms, ammunition and other accoutrements as may be necessary for the effective discharge of his duties.
 
-[53/2004 wef 15/01/2005]
-
 ### Power to summon witnesses, etc.
 
 39\.—(1) The Controller may, for the purpose of any inquiry under this Act, summon and examine witnesses on oath or affirmation, and may require the production of documents relevant to the inquiry.
@@ -1154,11 +1116,15 @@ MISCELLANEOUS
 
 (2) In this section, “judicial review” includes proceedings instituted by way of —
 
-(a) an application for any of the prerogative orders of mandamus, prohibition and certiorari;
+(a) an application for a Mandatory Order, a Prohibiting Order or a Quashing Order;
+
+[42/2005 wef 01/01/2006]
 
 (b) an application for a declaration or an injunction;
 
-(c) any writ of habeas corpus; or
+(c) an Order for Review of Detention; and
+
+[42/2005 wef 01/01/2006]
 
 (d) any other suit or action relating to or arising out of any decision made or act done in pursuance of any power conferred upon the Minister or the Controller by any provision of this Act.
 
@@ -1202,19 +1168,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (1A) Notwithstanding subsection (1), an immigration officer may demand security from the master, owner, charterer or agent of any vessel to ensure that no member of the crew of the vessel shall disembark in or enter Singapore in contravention of the provisions of this Act or the regulations, and may refuse to release the vessel from examination until the security is furnished.
 
-[53/2004 wef 15/01/2005]
-
 (2) The Controller may, if satisfied that any person has disembarked in or entered Singapore from any vessel, aircraft or train, in respect of which security has been furnished under subsection (1) or (1A), in contravention of any provisions of this Act or the regulations, direct the forfeiture of the security or any part thereof.
-
-[53/2004 wef 15/01/2005]
 
 [38/93]
 
 (3) The Controller shall not direct the forfeiture of any security under subsection (2) if he is satisfied that the master, owner, charterer, agent or consignee took every reasonable precaution to prevent any person from so disembarking in or entering Singapore.
 
 (4) Where an immigration officer in lieu of requiring a deposit under subsection (1) or (1A)requires security by a bond with or without sureties, then the bond shall be in the prescribed form.
-
-[53/2004 wef 15/01/2005]
 
 ### Reports as to persons failing to continue their journey
 
@@ -1288,8 +1248,6 @@ the master, owner, charterer and agent thereof shall be jointly and severally li
 
 (6) Notwithstanding the provisions of any written law, the moneys seized under subsection (2) (except any excess moneys which have been returned to the prohibited immigrant under subsection (3)) shall not be liable to be garnished, attached, sequestered or levied upon for or in respect of any debt or claim, other than to meet the expenses referred to in subsection (1) or any claim made under subsection (5).
 
-[53/2004 wef 15/01/2005]
-
 ### Power to detain vessel
 
 48\.—(1) The Controller may by writing under his hand authorise the Director of Marine to detain any vessel in connection with which an offence under this Act is reasonably believed to have been or to be about to be committed, and the vessel may then be detained either at the place where it is found or at any place to which the Controller may order it to be brought.
@@ -1344,11 +1302,7 @@ the master, owner, charterer and agent thereof shall be jointly and severally li
 
 (6) Where, upon an application by the Public Prosecutor, it is proved to the satisfaction of a court that an offence under this Act or the regulations has been committed and that the vehicle or vessel was used in the commission of the offence, the court shall make an order for the forfeiture of the vehicle or vessel, notwithstanding that no person may have been charged with or convicted of the offence.
 
-[53/2004 wef 15/01/2005]
-
 (6A) No vehicle or vessel shall be forfeited under this section if it is established by the owner thereof that the vehicle or vessel was unlawfully in the possession of another person without the consent of the owner.
-
-[53/2004 wef 15/01/2005]
 
 (7) The Controller may sell any vehicle or vessel forfeited under this section.
 
@@ -1420,17 +1374,11 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 (ii) the terms and conditions subject to which any person (other than a person referred to in sub-paragraph (v)) may be granted a permit and the authority who may issue permits;
 
-[53/2004 wef 15/01/2005]
-
 (iii) the terms and conditions subject to which any person (other than a person referred to in sub-paragraph (v)) may be granted a pass entitling him to enter and remain temporarily within Singapore, the period for which any pass may be granted, the classes of passes and the authority who may issue passes;
-
-[53/2004 wef 15/01/2005]
 
 (iv) the terms and conditions subject to which any person may be granted a certificate of status entitling him to enter Singapore, the period for which the certificate may be granted and the authority who may issue such certificates;
 
 (v) the terms and conditions subject to which any person who has ceased to be a citizen of Singapore may be granted a permit or a pass entitling him to enter, re-enter or remain temporarily within Singapore, including but not limited to the period for which such a permit or pass may be granted, the classes of such permits and passes and the authority who may issue such permits or passes;
-
-[53/2004 wef 15/01/2005]
 
 (d) providing for the payment and recovery of any expenses incurred by the Government in connection with the detention, maintenance, medical treatment and removal from Singapore of any person under the provisions of this Act;
 
@@ -1448,21 +1396,13 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 (iii) any prohibited immigrant;
 
-[53/2004 wef 15/01/2005]
-
 (gb) providing for the use of any mechanical, electrical or other form of device or system for the taking or recording of all or any of the personal identifiers;
 
-[53/2004 wef 15/01/2005]
-
 (gc) providing for the collation of any personal identifier taken or recorded pursuant to regulations made under paragraph (ga) and the dissemination thereof to the police and to any other law enforcement agency authorised by the Controller to receive it;
-
-[53/2004 wef 15/01/2005]
 
 (h) governing the procedure to be followed and the fees and costs to be paid on any appeal;
 
 (i) providing for a deposit or security to be made or given by or in respect of any person as a condition of, or for the grant of, an entry permit, a re-entry permit or a pass to him and the conditions subject to which the deposit or security may be forfeited;
-
-[53/2004 wef 15/01/2005]
 
 (j) prescribing the fees to be charged upon the issue of any entry permit, re-entry permit, certificate or pass;
 
@@ -1494,8 +1434,6 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 (c) engages in the business or trade of conveying to or out of Singapore in or on any vehicle, vessel, aircraft or train any person whom he knows or has reasonable grounds for believing is a prohibited immigrant;
 
-[53/2004 wef 15/01/2005]
-
 (d) harbours a person —
 
 (i) whom the defendant knows has acted in contravention of the provisions of this Act or the regulations;
@@ -1503,8 +1441,6 @@ if he has reason to believe that any evidence of the commission of an offence un
 (ii) with reckless disregard as to whether he has acted in contravention of the provisions of this Act or the regulations; or
 
 (iii) negligently failing to ascertain as to whether he has acted in contravention of the provisions of this Act or the regulations;
-
-[53/2004 wef 15/01/2005]
 
 (e) employs any person who has acted in contravention of section 6(1), 15 or 36 or the regulations;
 
@@ -1534,6 +1470,8 @@ if he has reason to believe that any evidence of the commission of an offence un
 
 [33/2007 wef 01/12/2007]
 
+(m) [Deleted by Act 53/2004 wef 15/01/2004]
+
 shall be guilty of an offence and —
 
 (i) in the case of an offence under paragraph (a), shall be punished with imprisonment for a term not exceeding 2 years and shall also be liable to a fine not exceeding $4,000;
@@ -1556,15 +1494,9 @@ shall be guilty of an offence and —
 
 (iv) in the case of an offence under paragraph (d)(i) or (ii), shall on conviction be punished with imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000;
 
-[53/2004 wef 15/01/2005]
-
 (v) in the case of an offence under paragraph (d)(iii), shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both; and
 
-[53/2004 wef 15/01/2005]
-
 (vi) in the case of an offence under paragraph (f), (g), (h), (i), (j), (k) or (l), shall be liable on conviction to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[53/2004 wef 15/01/2005]
 
 [12/70; 60/73; 13/77; 35/84; 34/89; 38/93; S 22/89; S 227/95; 41/95]
 
@@ -1604,23 +1536,15 @@ it shall be presumed, until the contrary is proved, that he has, as the case may
 
 (7) Where, in any proceedings for an offence under subsection (1)(d)(ii) or (iii), it is proved that the defendant has given shelter to an immigration offender, it shall be presumed, until the contrary is proved, that the defendant has harboured him with reckless disregard as to whether he is an immigration offender or negligently failing to ascertain as to whether he is an immigration offender, as the case may be.
 
-[53/2004 wef 15/01/2005]
-
 (7A) In any proceedings for an offence under subsection (1)(d)(ii) or (iii), it shall not be a defence for the defendant to prove that the immigration offender harboured was in possession of a permit or pass issued to the immigration offender under this Act or the regulations unless the defendant further proves that he has exercised due diligence to ascertain that the permit or pass was at the material time valid under this Act or the regulations.
 
-[53/2004 wef 15/01/2005]
-
 (7B) Where a defendant who is charged with an offence under subsection (1)(d)(ii) has rebutted the presumption that the defendant has harboured an immigration offender with reckless disregard as to whether he is such a person under subsection (7), the defendant shall be liable to be charged with an offence under subsection (1) (d) (iii).
-
-[53/2004 wef 15/01/2005]
 
 (7C) For the purpose of subsection (7A) —
 
 (a) a defendant who is charged with an offence under subsection (1)(d)(ii) shall not be deemed to have exercised due diligence unless the defendant has carried out any 2 of the acts specified in subsection (7D); and
 
 (b) a defendant who is charged with an offence under subsection (1)(d)(iii) shall not be deemed to have exercised due diligence unless the defendant has carried out all the acts specified in subsection (7D).
-
-[53/2004 wef 15/01/2005]
 
 (7D) The acts referred to in subsection (7C), to be carried out by the defendant in relation to the immigration offender harboured, are —
 
@@ -1642,7 +1566,7 @@ it shall be presumed, until the contrary is proved, that he has, as the case may
 
 [41/95]
 
-(9) In any proceedings for an offence under subsection (1) (e), it shall not be a defence for the defendant to prove that the person employed by him was in possession of a pass or permit issued to the person under this Act or the regulations unless the defendant further proves that he had exercised due diligence to ascertain that the pass or permit was at the material time valid under this Act or the regulations.
+(9) In any proceedings for an offence under subsection (1)(e), it shall not be a defence for the defendant to prove that the person employed by him was in possession of a pass or permit issued to the person under this Act or the regulations unless the defendant further proves that he had exercised due diligence to ascertain that the pass or permit was at the material time valid under this Act or the regulations.
 
 [53/2004 wef 15/01/2005]
 
@@ -1675,8 +1599,6 @@ it shall be presumed, until the contrary is proved, that he has, as the case may
 [41/95]
 
 (14) A reference to a permit or pass in subsections (7D) and (10) in relation to a person shall be read as a reference to the original copy of the permit or pass issued to that person under this Act or the regulations.
-
-[53/2004 wef 15/01/2005]
 
 ### Prohibition of immigration offender entering or remaining at work place
 
@@ -1725,8 +1647,6 @@ it shall be presumed, until the contrary is proved, that he has, as the case may
 (e) any bridge, viaduct, dam, reservoir, earthworks, pipeline, sewer, aqueduct, culvert, drive, shaft, tunnel or reclamation,
 
 and includes any works which form an integral part of, or are preparatory to, the works described in paragraphs (a) to (e), including site clearance, earth-moving, excavation, laying of foundation, site restoration and landscaping, and such other works or activities as the Minister may, by notification in theGazette, specify to be construction works;
-
-[53/2004 wef 15/01/2005]
 
 “occupier”, in relation to a work place, means the principal contractor who undertakes any construction works at the work place and includes such other person as the Minister may, by notification in theGazette, specify to be the occupier of the work place;
 
@@ -1794,8 +1714,6 @@ and includes any works which form an integral part of, or are preparatory to, th
 
 61A\. The Minister may at any time, by order published in theGazette, amend, add to or vary the Schedule.
 
-[53/2004 wef 15/01/2005]
-
 ### Saving
 
 62\.—(1) Any person in Singapore whose presence is unlawful under the provisions of any previous written law for the time being in force in Singapore or any regulations or orders made thereunder shall be deemed to be unlawfully in Singapore for the purposes of this Act.
@@ -1810,9 +1728,7 @@ PERSONal identifierS
 
 1\. Any finger, thumb or palmar impression.
 
-2. Any photograph or other image of a person’s face and shoulders.
-
-[53/2004 wef 15/01/2005]
+2\. Any photograph or other image of a person’s face and shoulders.
 
 ## LEGISLATIVE HISTORY
 
@@ -1911,3 +1827,8 @@ This Legislative History is provided for the convenience of users of the Immigra
 |||(Bill No. 51/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|16 November 2004|
 ||Date of commencement|15 January 2005|
+|23.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (Fourth Schedule — Amendment of Immigration Act)|
