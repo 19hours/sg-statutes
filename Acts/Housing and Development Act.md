@@ -1534,7 +1534,7 @@ the Board shall apply to the High Court ex parte by originating summons, support
 
 [30/84]
 
-(2) Where any person entitled to the compensation refuses to accept it or cannot with due diligence be found or where there is any dispute as to the apportionment of the compensation, the Board shall apply to the High Court ex parte by summons, supported by an affidavit for an order to deposit the amount of compensation or any part thereof in Court and, notwithstanding anything to the contrary in the Rules of Court, the High Court may make such an order.
+(2) Where any person entitled to the compensation refuses to accept it or cannot with due diligence be found or where there is any dispute as to the apportionment of the compensation, the Board shall apply to the High Court ex parte by originating summons, supported by an affidavit for an order to deposit the amount of compensation or any part thereof in Court and, notwithstanding anything to the contrary in the Rules of Court, the High Court may make such an order.
 
 [30/84]
 
@@ -5094,6 +5094,12 @@ This Legislative History is provided for the convenience of users of the Housing
 |||(Bill No. 19/2005 published on 19 July 2005)|
 ||Date of Second and Third Readings|15 August 2005|
 ||Date of commencement|15 September 2005|
+|36.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1st January 2006|
+|||(item (14) in the First Schedule)|
 ## COMPARATIVE TABLE
 
 Housing and Development Act
