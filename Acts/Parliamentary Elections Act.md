@@ -250,15 +250,15 @@
 
 - [89 Avoidance by conviction of candidate](#Avoidance-by-conviction-of-candidate)
 
-- [90 Avoidance of election on election petition](#Avoidance-of-election-on-election-petition)
+- [90 Application for avoidance of election on certain grounds](#Application-for-avoidance-of-election-on-certain-grounds)
 
 - [91 Proceedings in respect of qualification](#Proceedings-in-respect-of-qualification)
 
-[**Part IV ELECTION PETITIONS**](#Part-IV)
+[**Part IV APPLICATIONS FOR AVOIDANCE OF ELECTION**](#Part-IV)
 
 - [92 Appointment and powers of Election Judge](#Appointment-and-powers-of-Election-Judge)
 
-- [93 Who may present petition](#Who-may-present-petition)
+- [93 Who may make application under section 90](#Who-may-make-application-under-section-90)
 
 - [94 Relief which may be claimed](#Relief-which-may-be-claimed)
 
@@ -266,13 +266,13 @@
 
 - [96 Report of Election Judge as to corrupt or illegal practice](#Report-of-Election-Judge-as-to-corrupt-or-illegal-practice)
 
-- [97 Time for presentation](#Time-for-presentation)
+- [97 Time for making application](#Time-for-making-application)
 
 - [98 Prohibition of disclosure of vote](#Prohibition-of-disclosure-of-vote)
 
 - [99 Votes to be struck off at a scrutiny](#Votes-to-be-struck-off-at-a-scrutiny)
 
-- [100 Procedure and practice on election petitions](#Procedure-and-practice-on-election-petitions)
+- [100 Procedure and practice on applications under section 90](#Procedure-and-practice-on-applications-under-section-90)
 
 - [101 Rejection of ballot paper by Returning Officer not to be questioned](#Rejection-of-ballot-paper-by-Returning-Officer-not-to-be-questioned)
 
@@ -300,7 +300,7 @@
 
 [**THIRD SCHEDULE Parliamentary Elections Act (Chapter 218) Election Expenses**](#THIRD-SCHEDULE-Parliamentary-Elections-Act-Chapter-218-Election-Expenses)
 
-[**FOURTH SCHEDULE Parliamentary Elections Act (Chapter 218) Parliamentary Elections Petition Rules**](#FOURTH-SCHEDULE-Parliamentary-Elections-Act-Chapter-218-Parliamentary-Elections-Petition-Rules)
+[**FOURTH SCHEDULE Parliamentary Elections Act (Chapter 218) Parliamentary Elections (Application for Avoidance of Election) Rules**](#FOURTH-SCHEDULE-Parliamentary-Elections-Act-Chapter-218-Parliamentary-Elections-Application-for-Avoidance-of-Election-Rules)
 
 [**Legislative History**](#Legislative-History)
 
@@ -1306,7 +1306,7 @@ the Returning Officer may, before making his decision under section 29 or 30, gi
 
 (5) The Returning Officer shall, with the least possible delay, decide on the validity of every objection and inform the candidate concerned of his decision, and, if the objection is allowed, of the grounds of his decision.
 
-(6) If the Returning Officer disallows any objection, his decision shall be final and conclusive and shall not be called in question in any court; but if he allows the objection, his decision shall be subject to reversal on an election petition.
+(6) If the Returning Officer disallows any objection, his decision shall be final and conclusive and shall not be called in question in any court; but if he allows the objection, his decision shall be subject to reversal on an application under section 90.
 
 [42/2005 wef 01/01/2006]
 
@@ -1834,7 +1834,7 @@ but not at both in respect of the same election.
 
 (5) The Returning Officer shall so far as practicable proceed continuously with counting the votes and shall endorse “rejected” on any ballot paper which he may reject as invalid.
 
-(6) The Returning Officer shall not count the tendered ballot papers but shall place them in separate packets according to the candidate or group of candidates whom they support and shall mark each packet with the name of the candidate or group of candidates and shall seal the packet and retain it unless it is required for the purposes of an election petition.
+(6) The Returning Officer shall not count the tendered ballot papers but shall place them in separate packets according to the candidate or group of candidates whom they support and shall mark each packet with the name of the candidate or group of candidates and shall seal the packet and retain it unless it is required for the purposes of an application under section 90.
 
 [42/2005 wef 01/01/2006]
 
@@ -1904,7 +1904,7 @@ but not at both in respect of the same election.
 
 (10) A Judge of the High Court may make an order that any ballot paper or other document relating to an election which has been sealed as required by this Act be inspected, copied or produced at such time and place and subject to such conditions as the Judge may consider expedient.
 
-(11) A Judge of the High Court shall not make an order under subsection (10) unless he is satisfied that the inspection, copy or production is required for the purpose of instituting or maintaining a prosecution or an election petition in connection with the election.
+(11) A Judge of the High Court shall not make an order under subsection (10) unless he is satisfied that the inspection, copy or production is required for the purpose of instituting or maintaining a prosecution or an application under section 90 in connection with the election.
 
 [42/2005 wef 01/01/2006]
 
@@ -2006,7 +2006,7 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 (3) Before rejecting a ballot paper, the Returning Officer shall show it to each candidate or his counting agent if present and hear his views thereon, taking all proper precautions to prevent any person from seeing the number printed on the back of the paper.
 
-(4) The decision of the Returning Officer whether or not any ballot paper shall be rejected shall be final and shall not be questioned on an election petition.
+(4) The decision of the Returning Officer whether or not any ballot paper shall be rejected shall be final and shall not be questioned on an application under section 90.
 
 [42/2005 wef 01/01/2006]
 
@@ -2822,7 +2822,7 @@ EXCUSE FOR CORRUPT AND ILLEGAL PRACTICE
 
 ### Report exonerating candidate in certain cases of corrupt and illegal practice by agents
 
-86\. Where, upon the trial of an election petition respecting an election under this Act, the Election Judge reports that a candidate at the election has been guilty by his agents of the offence of treating or undue influence or of any illegal practice in reference to the election, and the Election Judge further reports, after giving the Public Prosecutor an opportunity of being heard, that the candidate has proved to the court —
+86\. Where, upon the hearing of an application under section 90 respecting an election under this Act, the Election Judge reports that a candidate at the election has been guilty by his agents of the offence of treating or undue influence or of any illegal practice in reference to the election, and the Election Judge further reports, after giving the Public Prosecutor an opportunity of being heard, that the candidate has proved to the court —
 
 (a) that no corrupt or illegal practice was committed at the election by the candidate or his election agent and the offences mentioned in the report were committed contrary to the orders and without the sanction or connivance of the candidate or his election agent;
 
@@ -2882,9 +2882,9 @@ GROUNDS FOR AVOIDING ELECTIONS
 
 89\. The election of a candidate as a Member is avoided by his conviction for any corrupt or illegal practice.
 
-### Avoidance of election on election petition
+### Application for avoidance of election on certain grounds
 
-90\. The election of a candidate as a Member shall be declared to be void on an election petition on any of the following grounds which may be proved to the satisfaction of the Election Judge:
+90\. The election of a candidate as a Member shall be declared to be void on an application made to an Election Judge on any of the following grounds which may be proved to the satisfaction of the Election Judge:
 
 (a) that by reason of general bribery, general treating, or general intimidation, or other misconduct, or other circumstances, whether similar to those before enumerated or not, the majority of electors were or may have been prevented from electing the candidate or group of candidates whom they preferred;
 
@@ -2926,11 +2926,11 @@ GROUNDS FOR AVOIDING ELECTIONS
 
 ## PART IV
 
-ELECTION PETITIONS
+APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 ### Appointment and powers of Election Judge
 
-92\.—(1) Every election petition shall be tried by the Chief Justice or by a Judge of the Supreme Court nominated by the Chief Justice for the purpose.
+92\.—(1) Every application under section 90 shall be heard by the Chief Justice or by a Judge of the Supreme Court nominated by the Chief Justice for the purpose.
 
 [42/2005 wef 01/01/2006]
 
@@ -2938,37 +2938,37 @@ ELECTION PETITIONS
 
 (3) Witnesses shall be subpoenaed and sworn in the same manner as nearly as circumstances admit as in a trial by the High Court in the exercise of its original civil jurisdiction and shall be subject to the same penalties for the giving of false evidence.
 
-(4) On the trial of an election petition under this Act, the Election Judge may, by order under his hand, compel the attendance of any person as a witness who appears to him to have been concerned in the election to which the petition refers.
+(4) On the hearing of an application under section 90, the Election Judge may, by order under his hand, compel the attendance of any person as a witness who appears to him to have been concerned in the election to which the application refers.
 
 [42/2005 wef 01/01/2006]
 
 (5) Any person refusing to obey the order of the Election Judge under subsection (4) shall be guilty of contempt of court.
 
-(6) The Election Judge may examine any witness so compelled to attend or any person in court, although the witness is not called and examined by any party to the petition.
+(6) The Election Judge may examine any witness so compelled to attend or any person in court, although the witness is not called and examined by any party to the application.
 
 [42/2005 wef 01/01/2006]
 
-(7) After the examination of a witness by the Election Judge, the witness may be cross-examined by or on behalf of the petitioner and the respondent, or either of them.
+(7) After the examination of a witness by the Election Judge, the witness may be cross-examined by or on behalf of the applicant and the respondent, or either of them.
 
 [42/2005 wef 01/01/2006]
 
-(8) The Election Judge shall be attended on the trial of an election petition in the same manner as if he were a Judge of the High Court.
-
-[42/2005 wef 01/01/2006]
-
-[16/93]
-
-(9) Unless otherwise ordered by the Chief Justice, all interlocutory matters in connection with an election petition may be dealt with and decided by any Judge of the High Court.
+(8) The Election Judge shall be attended on the hearing of an application under section 90 in the same manner as if he were a Judge of the High Court.
 
 [42/2005 wef 01/01/2006]
 
 [16/93]
 
-### Who may present petition
+(9) Unless otherwise ordered by the Chief Justice, all interlocutory matters in connection with an application under section 90 may be dealt with and decided by any Judge of the High Court.
 
-93\. An election petition may be presented to the Supreme Court by any one or more of the following persons:
+[42/2005 wef 01/01/2006]
 
-(a) some person who voted or had a right to vote at the election to which the petition relates;
+[16/93]
+
+### Who may make application under section 90
+
+93\. An application under section 90 may be made to the Supreme Court by any one or more of the following persons:
+
+(a) some person who voted or had a right to vote at the election to which the application relates;
 
 [42/2005 wef 01/01/2006]
 
@@ -2980,7 +2980,7 @@ ELECTION PETITIONS
 
 ### Relief which may be claimed
 
-94\. All or any of the following relief to which the petitioner may be entitled may be claimed in an election petition:
+94\. All or any of the following relief to which the applicant may be entitled may be claimed in an application under section 90:
 
 (a) a declaration that the election is void;
 
@@ -2996,7 +2996,7 @@ ELECTION PETITIONS
 
 ### Certificate of Election Judge as to validity of election
 
-95\.—(1) At the conclusion of the trial of an election petition, the Election Judge shall determine whether the Member whose return or election is complained of, or any other and what person, was duly returned or elected, or whether the election was void, and shall certify such determination to the President.
+95\.—(1) At the conclusion of the hearing of an application under section 90, the Election Judge shall determine whether the Member whose return or election is complained of, or any other and what person, was duly returned or elected, or whether the election was void, and shall certify such determination to the President.
 
 [42/2005 wef 01/01/2006]
 
@@ -3010,17 +3010,17 @@ ELECTION PETITIONS
 
 ### Report of Election Judge as to corrupt or illegal practice
 
-96\.—(1) At the conclusion of the trial of an election petition, the Election Judge shall also report in writing to the President —
+96\.—(1) At the conclusion of the hearing of an application under section 90, the Election Judge shall also report in writing to the President —
 
 (a) whether any corrupt or illegal practice has or has not been proved to have been committed by or with the knowledge and consent of any candidate at the election, or by his agent, and the nature of the corrupt or illegal practice (if any); and
 
-(b) the names and descriptions of all persons (if any) who have been proved at the trial to have been guilty of any corrupt or illegal practice.
+(b) the names and descriptions of all persons (if any) who have been proved at the hearing to have been guilty of any corrupt or illegal practice.
 
 [42/2005 wef 01/01/2006]
 
 [42/2005 wef 01/01/2006]
 
-(2) Before any person, not being a party to an election petition nor a candidate on behalf of whom the seat is claimed by an election petition, is reported by an Election Judge under this section, the Election Judge shall give the person an opportunity of being heard and of giving and calling evidence to show why he should not be so reported.
+(2) Before any person, not being a party to an application under section 90 nor a candidate on behalf of whom the seat is claimed by such an application, is reported by an Election Judge under this section, the Election Judge shall give the person an opportunity of being heard and of giving and calling evidence to show why he should not be so reported.
 
 [42/2005 wef 01/01/2006]
 
@@ -3030,27 +3030,27 @@ ELECTION PETITIONS
 
 (5) The President shall cause a copy of such report to be published in theGazette, and it shall be the duty of the Registration Officer forthwith to peruse the report and forthwith to delete from the registers of electors the name of every person appearing from the report to be incapable of voting at an election.
 
-### Time for presentation
+### Time for making application
 
-97\.—(1) Subject to this section, every election petition shall be presented within 21 days of the date of publication of the result of the election in theGazette.
-
-[42/2005 wef 01/01/2006]
-
-(2) An election petition questioning the return or the election upon the ground of a corrupt practice and specifically alleging a payment of money or other act to have been made or done since the date referred to in subsection (1) by the Member whose election is questioned or by an agent of the Member or with the privity of the Member or his election agent in pursuance or in furtherance of the corrupt practice may, so far as respects that corrupt practice, be presented at any time within 28 days after the date of the payment or act.
+97\.—(1) Subject to this section, every application under section 90 shall be made within 21 days of the date of publication of the result of the election in theGazette.
 
 [42/2005 wef 01/01/2006]
 
-(3) An election petition questioning the return or the election upon an allegation of an illegal practice may, so far as respects that illegal practice, be presented within the following time:
+(2) An application under section 90 questioning the return or the election upon the ground of a corrupt practice and specifically alleging a payment of money or other act to have been made or done since the date referred to in subsection (1) by the Member whose election is questioned or by an agent of the Member or with the privity of the Member or his election agent in pursuance or in furtherance of the corrupt practice may, so far as respects that corrupt practice, be presented at any time within 28 days after the date of the payment or act.
+
+[42/2005 wef 01/01/2006]
+
+(3) An application under section 90 questioning the return or the election upon an allegation of an illegal practice may, so far as respects that illegal practice, be made within the following time:
 
 (a) at any time before the expiration of 14 days after the date of the publication in theGazetteof the notice required by section 75 as to the election expenses of the Member whose election is questioned; or
 
-(b) if the election petition specifically alleges a payment of money or other act to have been made or done since that date by the Member whose election is questioned or by an agent of the Member or with the privity of the Member or of his election agent in pursuance or in furtherance of the illegal practice alleged in the petition, the petition may be presented at any time within 28 days after the date of the payment or other act.
+(b) if the application specifically alleges a payment of money or other act to have been made or done since that date by the Member whose election is questioned or by an agent of the Member or with the privity of the Member or of his election agent in pursuance or in furtherance of the illegal practice alleged in the application, the application may be made at any time within 28 days after the date of the payment or other act.
 
 [42/2005 wef 01/01/2006]
 
 [42/2005 wef 01/01/2006]
 
-(4) An election petition presented in due time may, for the purpose of questioning the return or the election upon an allegation of a corrupt or illegal practice, be amended with the leave of a Judge of the High Court within the time within which an election petition questioning the return or the election upon that ground may be presented .
+(4) An application under section 90 made in due time may, for the purpose of questioning the return or the election upon an allegation of a corrupt or illegal practice, be amended with the leave of a Judge of the High Court within the time within which an application questioning the return or the election upon that ground may be made.
 
 [42/2005 wef 01/01/2006]
 
@@ -3064,7 +3064,7 @@ ELECTION PETITIONS
 
 ### Votes to be struck off at a scrutiny
 
-99\.—(1) On a scrutiny at the trial of an election petition , the following votes only shall be struck off:
+99\.—(1) On a scrutiny at the hearing of an application under section 90, the following votes only shall be struck off:
 
 (a) the vote of any person whose name was not on the register of electors assigned to the polling station at which the vote was recorded or who has not been authorised to vote at the station under section 39;
 
@@ -3084,17 +3084,17 @@ ELECTION PETITIONS
 
 (2) The vote of a registered elector shall not, except in the case specified in subsection (1)(e), be struck off at a scrutiny by reason only of the voter not having been or not being qualified to have his name entered in the register of electors.
 
-(3) On a scrutiny, any tendered vote proved to be a valid vote shall, on the application of any party to the petition, be added to the poll.
-
-[10/88]
-
-### Procedure and practice on election petitions
-
-100\.—(1) The procedure and practice on election petitions shall be regulated by rules which may be made by the Rules Committee constituted and appointed under section 80 of the Supreme Court of Judicature Act (Cap. 322).
+(3) On a scrutiny, any tendered vote that is proved to be a valid vote shall be added to the poll if any party to the application under section 90 applies for that vote to be so added.
 
 [42/2005 wef 01/01/2006]
 
-(2) The Rules contained in the Fourth Schedule shall be deemed to have been made under the powers conferred by subsection (1) .
+### Procedure and practice on applications under section 90
+
+100\.—(1) The procedure and practice on applications under section 90 shall be regulated by rules which may be made by the Rules Committee constituted and appointed under section 80 of the Supreme Court of Judicature Act (Cap. 322).
+
+[42/2005 wef 01/01/2006]
+
+(2) The Rules contained in the Fourth Schedule shall be deemed to have been made under the powers conferred by subsection (1) and shall be amendable by rules made under that subsection.
 
 [42/2005 wef 01/01/2006]
 
@@ -3102,7 +3102,7 @@ ELECTION PETITIONS
 
 ### Rejection of ballot paper by Returning Officer not to be questioned
 
-101\. On an election petition, the decision of a Returning Officer whether or not a ballot paper shall be rejected under section 50 shall not be questioned.
+101\. On the making of an application under section 90, the decision of a Returning Officer whether or not a ballot paper shall be rejected under section 50 shall not be questioned.
 
 [42/2005 wef 01/01/2006]
 
@@ -3263,105 +3263,156 @@ Parliamentary Elections Act
 
 (Chapter 218)
 
-Parliamentary Elections Petition Rules
+Parliamentary Elections
 
-Short title
 
-1. These Rules may be cited as the Parliamentary Elections Petition Rules.
 
-[10/88]
 
-[21/91; 42/96]
+(Application for Avoidance of Election) Rules
+
+Citation
+
+1\. These Rules may be cited as the Parliamentary Elections (Application for Avoidance of Election) Rules.
 
 Interpretation
 
 2. In these Rules, unless the context otherwise requires —
 
+“application for withdrawal” means an application made to a Judge under rule 22 for leave to withdraw an application under section 90, and “applicant for withdrawal” shall be construed accordingly;
+
+“application under section 90” means an application made to a Judge under section 90 of the Act for the election of a candidate as a Member to be declared to be void on any of the grounds specified in that section;
+
+“defendant” means a person in respect of whose election an application under section 90 has been made;
+
 “Judge” means the Election Judge;
 
-“Registrar” means the Registrar of the Supreme Court;
+“plaintiff” means a person making an application under section 90;
 
-“Returning Officer” means the Returning Officer appointed under section 3 of the Act.
+“Registrar” means the Registrar of the Supreme Court.
 
 Application of Rules of Court
 
 3\. Subject to the provisions of these Rules and of the Act, the Rules of Court (Cap. 322, R 5) shall apply, with the necessary modifications, to the practice and procedure in any proceedings under the Act to which these Rules relate.
 
-Manner of presentation of petition
+Manner of making application under section 90
 
-4.—(1) The presentation of an election petition shall be made by delivering it at the office of the Registrar, and the Registrar or the officer of his department to whom the petition is delivered shall, if required, give a receipt in the following form:
+4.—(1) An application under section 90 shall be made by originating summons supported by an affidavit.
 
-(2) With the petition two copies thereof shall also be left.
+(2) In such an application —
 
-Contents and form of election petition
+(a) the applicant shall be referred to as the plaintiff; and
 
-5.—(1) An election petition shall contain the following statements:
+(b) the person in respect of whose election the application is made shall be referred to as the defendant.
 
-(a) it shall state the right of the petitioner to petition within section 93 of the Act; and
+(3) The application shall be made by filing it at the office of the Registrar, and the Registrar or the officer of his department with whom the application is filed shall, if required, give a receipt in the following form:
 
-(b) it shall state the holding and result of the election, and shall briefly state the facts and grounds relied on to sustain the prayer.
+Received on the .............. day of ................................................................. at the Registry of the Supreme Court, an application touching the election of ............................................., Member for ....................................................................................................... purporting to be made by ...................................................................(insert the name of plaintiff).
 
-(2) The petition shall be divided into paragraphs, each of which, as nearly as may be, shall be confined to a distinct portion of the subject, and every paragraph shall be numbered consecutively, and no costs shall be allowed for drawing or copying any petition not substantially in compliance with this rule, unless otherwise ordered by the Court or a Judge.
+............................................................,
 
-(3) The petition shall conclude with a prayer as, for instance, that some specified person should be declared duly returned or elected, or that the election should be declared void, as the case may be, and shall be signed by all the petitioners.
+Registrar
+
+(or as the case may be).
+
+Contents and form of supporting affidavit for application under section 90
+
+5.—(1) The affidavit supporting an application under section 90 shall be deposed to by the plaintiff or, where there is more than one plaintiff, by each such plaintiff, and shall state —
+
+(a) the right of the plaintiff or plaintiffs to apply within section 93; and
+
+(b) the holding and result of the election, and the facts and grounds relied on to sustain the relief sought.
+
+(2) The affidavit shall be divided into paragraphs, each of which, as nearly as may be, shall be confined to a distinct portion of the subject, and every paragraph shall be numbered consecutively, and no costs shall be allowed for drawing or copying any affidavit not substantially in compliance with this rule, unless otherwise ordered by the Court or a Judge.
+
+(3) The affidavit shall conclude with a statement of the relief sought by the plaintiff or plaintiffs as, for instance, that some specified person should be declared duly returned or elected, or that the election should be declared void, as the case may be.
 
 (4) The following form, or one to the like effect, shall be sufficient:
 
-Evidence not to be stated in petition
+"AFFIDAVIT
 
-6\. Evidence need not be stated in the petition, but the Judge may, upon application in writing by a respondent, order such particulars as may be necessary to prevent surprise and unnecessary expense, and to ensure a fair and effectual trial upon such terms as to costs and otherwise as may be ordered.
+I .............................. of ................................................................................, Singapore (make oath) (affirm) and say as follows:
 
-Where more than one petition are presented in relation to same election
+1. I am a person who (voted) (had a right to vote) (claims to have had a right to be returned) (was a candidate) at the election held on the ....................... day of ............................., 20 ........., when ........................................... was a candidate.
 
-7\. Where more petitions than one are presented relating to the same election or return, all the petitions shall be dealt with as one petition, so far as the inquiry into the same is concerned.
+2. On the ................... day of ......................................., 20.........., the Returning Officer returned .................................. as being duly elected.
+
+3.(Here state the facts and grounds relied on in support of the application).
+
+4. I am therefore seeking a declaration (that the said .............................. was not duly elected or returned, and that the election was void) (that the said .................................... was duly elected and ought to have been returned, as the case may be).
+
+*Sworn / *Affirmed at Singapore
+
+this ........ day of ................ 20 ...........
+
+Before me,
+
+........................................
+
+A Commissioner for Oaths.".
+
+Evidence not to be stated in originating summons
+
+6\. Evidence need not be stated in the originating summons by which the application under section 90 is made, but the Judge may, upon the defendant’s application by summons, order such particulars as may be necessary to prevent surprise and unnecessary expense, and to ensure a fair and effectual hearing upon such terms as to costs and otherwise as may be ordered.
+
+Where more than one application is made in relation to same election
+
+7\. Where more applications than one are made under section 90 relating to the same election or return, all the applications shall be dealt with as one application, so far as the inquiry into the same is concerned.
 
 List of votes objected to where seat claimed by unsuccessful candidate
 
-8.—(1) When a petitioner claims the seat for an unsuccessful candidate, alleging that he had a majority of lawful votes, the party complaining of or defending the election or return shall, 6 days before the day appointed for trial, deliver to the Registrar, and also at the address (if any) given by the petitioners and respondent, as the case may be, a list of the votes intended to be objected to, and of the heads of objection to each such vote, and the Registrar shall allow inspection of office copies of the lists to all parties concerned.
+8.—(1) When a plaintiff claims the seat for an unsuccessful candidate, alleging that he had a majority of lawful votes, the party complaining of or defending the election or return shall, 6 days before the day appointed for the hearing, file with the Registrar, and also at the address for service (if any) of the plaintiffs and defendants, as the case may be, a list of the votes intended to be objected to, and of the heads of objection to each such vote.
 
-(2) No evidence shall be given against the validity of any vote, nor upon any head of objection not specified in the list, except by leave of the Judge, upon such terms as to amendment of the list, postponement of the inquiry, and payment of costs, as may be ordered.
+(2) The Registrar shall allow inspection of office copies of the lists to all parties concerned.
+
+(3) No evidence shall be given against the validity of any vote, nor upon any head of objection not specified in the list, except by leave of the Judge, upon such terms as to amendment of the list, postponement of the inquiry, and payment of costs, as may be ordered.
 
 List of objections in recriminatory case
 
-9.—(1) The respondent in a petition complaining of an undue return and claiming the seat for some person may lead evidence to prove that the election of the person was undue, and in that case the respondent shall, 6 days before the day appointed for trial, deliver to the Registrar, and also at the address (if any) given by the petitioner, a list of the objections to the election upon which he intends to rely, and the Registrar shall allow inspection of office copies of the lists to all parties concerned.
+9.—(1) The defendant in an application under section 90 complaining of an undue return and claiming the seat for some person may lead evidence to prove that the election of the person was undue, and in that case the defendant shall, 6 days before the day appointed for the hearing, file with the Registrar, and also at the address for service (if any) of the plaintiff, a list of the objections to the election upon which he intends to rely.
 
-(2) No evidence shall be given by a respondent of any objection to the election not specified in the list, except by leave of the Judge, upon such terms as to amendments of the list, postponement of the inquiry, and payments of costs, as may be ordered.
+(2) The Registrar shall allow inspection of office copies of the lists to all parties concerned.
 
-Appointment of solicitor by petitioner
+(3) No evidence shall be given by a defendant of any objection to the election not specified in the list, except by leave of the Judge, upon such terms as to amendments of the list, postponement of the inquiry, and payments of costs, as may be ordered.
 
-10.—(1) With the petition the petitioner or petitioners shall leave at the office of the Registrar a writing, signed by him or them, giving the name of an advocate and solicitor of the Supreme Court whom he or they authorise to act as his or their solicitor or stating that he or they act for himself or themselves, as the case may be, and in either case giving an address within Singapore at which notices may be left; and if no such writing be left or address given, then all notices may be given by leaving them at the office of the Registrar.
+Appointment of solicitor by plaintiff
 
-(2) Every such writing shall be stamped with the duty payable thereon under the law for the time being in force.
+10.—(1) The plaintiff or plaintiffs in an application under section 90 shall file at the office of the Registrar together with the application a written notice, signed by him or them, giving the name of an advocate and solicitor of the Supreme Court whom he or they authorise to act as his or their solicitor or stating that he or they act for himself or themselves, as the case may be, and in either case giving an address within Singapore at which notices may be left (referred to in these Rules as the address for service).
 
-Appointment of solicitor by respondent
+(2) If no such written notice is filed or address for service given, then all notices may be given by leaving them at the office of the Registrar.
 
-11.—(1) Any person returned as a Member may, at any time, after he is returned, send to or leave at the office of the Registrar a writing, signed by him on his behalf, appointing an advocate and solicitor of the Supreme Court to act as his solicitor in case there should be a petition against him, or stating that he intends to act for himself, and in either case giving an address within Singapore at which notices addressed to him may be left, and if no such writing be left or address given, all notices and proceedings may be given or served by leaving them at the office of the Registrar.
+(3) Every such written notice shall be stamped with the duty payable thereon under the law for the time being in force.
 
-(2) Every such writing shall be stamped with the duty payable thereon under the law for the time being in force.
+Appointment of solicitor by defendant
+
+11.—(1) Any person returned as a Member may, at any time, after he is returned, file at the office of the Registrar a written notice, signed by him on his behalf, appointing an advocate and solicitor of the Supreme Court to act as his solicitor in case there should be an application under section 90 against him, or stating that he intends to act for himself, and in either case giving an address within Singapore at which notices addressed to him may be left (referred to in these Rules as the address for service).
+
+(2) If no such written notice is filed or address for service given, all notices and proceedings may be given or served by leaving them at the office of the Registrar.
+
+(3) Every such written notice shall be stamped with the duty payable thereon under the law for the time being in force.
 
 Registrar to keep book with addresses and names of solicitors
 
-12\. The Registrar shall cause a book to be kept at his office in which shall be entered all addresses and the names of solicitors given under rule 10 or 11, which book shall be open to inspection by any person during his office hours.
+12\. The Registrar shall cause a book to be kept at his office in which shall be entered all addresses and the names of solicitors given under rule 10 or 11, which book shall be open to inspection by any person during the office hours of the Registrar.
 
-Security by petitioner for cost, etc., of election petition
+Security by plaintiff for cost, etc., of application under section 90
 
-13.—(1) At the time of the presentation of the petition, or within 3 days afterwards, security for the payment of all costs, charges and expenses that may become payable by the petitioner shall be given on behalf of the petitioner.
+13.—(1) At the time of the filing of the application under section 90, or within 3 days afterwards, security for the payment of all costs, charges and expenses that may become payable by the plaintiff shall be given on behalf of the plaintiff.
 
-(2) The security shall be to an amount of not less than $5,000. If the number of charges in any petition exceeds 3, additional security to an amount of $2,500 shall be given in respect of each charge in excess of the first 3.
+(2) The security shall be to an amount of not less than $5,000. If the number of charges in any application exceeds 3, additional security to an amount of $2,500 shall be given in respect of each charge in excess of the first 3.
 
 (3) The security required by this rule shall be given by a deposit of money.
 
-(4) If security as in this rule provided is not given by the petitioner, no further proceedings shall be had on the petition, and the respondent may apply to the Judge for an order directing the dismissal of the petition and for the payment of the respondent’s costs.
+(4) If security required by this rule to be provided is not given by the plaintiff, no further proceedings shall be had on the application under section 90, and the defendant may apply by summons to the Judge for an order directing the dismissal of the application under section 90 and for the payment of the defendant’s costs.
 
-(5) The costs of hearing and deciding the application shall be paid as ordered by the Judge, and in default of such order shall form part of the general costs of the petition.
+(5) The costs of hearing and deciding the defendant’s application under paragraph (4) shall be paid as ordered by the Judge, and in default of such order shall form part of the general costs of the application under section 90.
 
 Security by deposit of money
 
-14.—(1) The deposit of money by way of security for payment of costs, charges and expenses payable by the petitioner shall be made by payment to the Returning Officer which shall be vested in and drawn upon from time to time by the Chief Justice for the purposes for which security is required by these Rules.
+14.—(1) The deposit of money by way of security for payment of costs, charges and expenses payable by the plaintiff in an application under section 90 shall be made by payment to the Returning Officer which shall be vested in and drawn upon from time to time by the Chief Justice for the purposes for which security is required by these Rules.
 
-(2) A receipt shall be given by the Returning Officer for the deposit, which shall forthwith be left at the office of the Registrar by the petitioner.
+(2) A receipt shall be given by the Returning Officer for the deposit, which shall forthwith be filed at the office of the Registrar by the plaintiff.
 
-(3) The Registrar shall file the receipt and keep a book open to the inspection of all parties concerned, in which shall be entered from time to time the amount and the petition to which it is applicable.
+(3) The Registrar shall file the receipt and keep a book open to the inspection of all parties concerned, in which shall be entered from time to time the amount and the application under section 90 to which it is applicable.
 
 Return of money so deposited
 
@@ -3371,133 +3422,151 @@ Return of money so deposited
 
 (3) Such order may direct payment either to the party in whose name the money is deposited or to any person entitled to receive the money.
 
-Notice of petition, and copy of petition to be served on respondent
+Service of notice and copy of application under section 90 on defendant
 
-16.—(1) Notice of the presentation of a petition, accompanied by a copy thereof, shall, within 10 days of the presentation of the petition, be served by the petitioner on the respondent.
+16.—(1) Notice of the filing of an application under section 90, accompanied by a copy of that application and its supporting affidavit, shall, within 10 days of the filing of the application, be served by the plaintiff on the defendant.
 
-(2) Such service may be effected either by delivering the notice and copy thereof to the solicitor appointed by the respondent under rule 11 or by posting the notice and copy thereof in a registered letter to the address given under rule 11 at such time that, in the ordinary course of post, the letter would be delivered within the time mentioned in paragraph (1), or if no solicitor has been appointed, nor any address given, by a notice published in theGazettestating that a petition has been presented, and that a copy of the petition may be obtained by the respondent on application at the office of the Registrar.
+(2) Such service may be effected —
 
-When petition to be deemed at issue
+(a) by delivering the notice and a copy each of the application and its supporting affidavit to the solicitor appointed by the defendant under rule 11;
 
-17\. On the expiration of the time limited for presenting petitions, the petition shall be deemed to be at issue.
+(b) by posting the notice and a copy of the application and its supporting affidavit in a registered letter to the address for service given under rule 11 at such time that, in the ordinary course of post, the letter would be delivered within the time mentioned in paragraph (1); or
 
-List of petitions
+(c) if no solicitor has been appointed, nor any address for service given, by a notice published in theGazettestating that an application under section 90 has been filed and that a copy each of that application and its supporting affidavit may be obtained by the defendant on application at the office of the Registrar.
 
-18.—(1) The Registrar shall make out the election petition list.
+When application under section 90 to be deemed at issue
 
-(2) The Registrar shall insert in the election petition list the names of the solicitors of the petitioners and respondents appointed under rules 10 and 11 respectively, and the addresses to which notices may be sent (if any).
+17\. An application under section 90 shall be deemed to be at issue on the expiration of the time limited for the making of such applications.
 
-(3) The election petition list may be inspected at the office of the Registrar at any time during office hours, and shall be affixed for that purpose upon a notice board appropriated to proceedings under the Act, and headed “Parliamentary Elections Act (Chapter 218)”.
+List of applications under section 90
 
-Time and place of trial of election petition
+18.—(1) The Registrar shall make out a list of applications under section 90.
 
-19\. The time and place of the trial of each election petition shall be fixed by the Judge, and not less than 14 days’ notice thereof shall be given to the petitioner and respondent by letter directed to the address left by the petitioner or respondent with the Registrar; or, if no address has been left, by notice in theGazette.
+(2) The Registrar shall insert in the list —
 
-Postponement of trial
+(a) the names of the solicitors of the plaintiffs and defendants appointed under rules 10 and 11, respectively; and
 
-20\. The Judge may from time to time, by order made on the application of a party to the petition, postpone the beginning of the trial to such day as he may name; and the order, when made, shall forthwith be published by the Registrar in theGazette.
+(b) the addresses for service of the plaintiffs and defendants.
 
-Adjournment and continuation of trial
+(3) The list may be inspected at the office of the Registrar at any time during office hours, and shall be affixed for that purpose upon a notice board appropriated to proceedings under the Act, and headed “Parliamentary Elections Act (Chapter 218)”.
 
-21.—(1) No formal adjournment of the Court for the trial of an election petition shall be necessary, but the trial is to be deemed adjourned, and may be continued from day to day until the inquiry is concluded.
+Time and place of hearing of application under section 90
 
-(2) In the event of the Judge who begins the trial being disabled by illness or otherwise, it may be recommenced and concluded by another Judge.
+19\. The time and place of the hearing of each application under section 90 shall be fixed by the Judge, and not less than 14 days’ notice thereof shall be given to the plaintiff and defendant by letter directed to the addresses of service of the plaintiff or defendant or, if no such addresses have been given, by notice in theGazette.
 
-Withdrawal of election petition
+Postponement of hearing
 
-22.—(1) An election petition shall not be withdrawn without the leave of the Judge; and such leave may be given upon such terms as to the payment of costs and otherwise as the Judge may think fit.
+20\. The Judge may from time to time, by order made on the application of a party to the application under section 90, postpone the beginning of the hearing to such day as he may name; and the order, when made, shall forthwith be published by the Registrar in theGazette.
 
-(2) Before leave for the withdrawal of an election petition is granted, there shall be produced affidavits as required by this rule by all the parties to the petition and their solicitors, and by the election agents of all the parties who were candidates at the election.
+Adjournment and continuation of hearing
 
-(3) A Judge of the High Court may on cause shown dispense with the affidavit of any particular person if it appears to the Judge on special grounds to be just to do so.
+21.—(1) No formal adjournment of the Court for the hearing of an application under section 90 shall be necessary, but the hearing is to be deemed adjourned, and may be continued from day to day until the inquiry is concluded.
 
-[16/93]
+(2) In the event of the Judge who begins the hearing being disabled by illness or otherwise, it may be recommenced and concluded by another Judge.
 
-(4) Each affidavit shall state that, to the best of the deponent’s knowledge and belief, no agreement or terms of any kind whatsoever has or have been made, and no undertaking has been entered into in relation to the withdrawal of the petition, but if any lawful agreement has been made with respect to the withdrawal of the petition, the affidavit shall set out that agreement, and shall make the foregoing statement subject to what appears from the affidavit.
+Withdrawal of application under section 90
 
-(5) The affidavits of the applicant and his solicitor shall further state the ground on which the petition is sought to be withdrawn.
+22.—(1) An application under section 90 shall not be withdrawn without the leave of the Judge; and such leave may be given upon such terms as to the payment of costs and otherwise as the Judge may think fit.
 
-[16/93]
+(2) An application for withdrawal shall be made by summons supported by an affidavit.
 
-Form of application to withdraw petition
+(3) Where there are more plaintiffs than one, no application for withdrawal shall be made except with the consent of all the plaintiffs.
 
-23.—(1) An application for leave to withdraw a petition shall be in writing signed by the petitioner or petitioners or his or their solicitor or solicitors.
+Affidavits supporting application for withdrawal
 
-(2) It shall state the ground on which the application is supported.
+23.—(1) An application for withdrawal shall be supported by affidavits filed by all the parties to that application and their solicitors, and by the election agents of all the parties who were candidates at the election, except that the Judge may on cause shown dispense with the affidavit of any particular person if it appears to the Judge on special grounds to be just to do so.
 
-(3) The following form shall be sufficient:
+(2) Each affidavit shall state the grounds on which that application for withdrawal is made and —
 
-(4) The application for leave to withdraw shall be left at the office of the Registrar.
+(a) that, to the best of the deponent’s knowledge and belief, no agreement or terms of any kind whatsoever has or have been made, and no undertaking has been entered into in relation to the withdrawal of the application under section 90; or
 
-Copy of application to be given to respondent
+(b) if any lawful agreement has been made with respect to the withdrawal of the application under section 90, that agreement.
 
-24. A copy of such application shall be given by the petitioner to the respondent, and a notice in the following terms signed by the petitioner shall be published forthwith in theGazetteby the petitioner at his own expense:
+Copy of application for withdrawal to be given to defendant
 
-Application to be substituted as petitioner, on withdrawal
+24. A copy of an application for withdrawal and its supporting affidavits shall be served by the plaintiff on the defendant, and a notice in the following terms signed by the plaintiff shall be published forthwith in theGazetteby the plaintiff at his own expense:
 
-25\. Any person who might have been a petitioner in respect of the election to which the petition relates may, within 5 days after the notice is published by the petitioner, give notice in writing, signed by him or on his behalf, to the Registrar, of his intention to apply at the hearing to be substituted for the petitioner, but the want of that notice shall not defeat the application, if in fact made at the hearing.
+"The Parliamentary Elections Act (Chapter 218).
 
-Time and place of hearing of application
+In the application under section 90 for ........................................................... in which .......................... is plaintiff and ................................................. defendant.
 
-26.—(1) The time and place of hearing the application shall be fixed by the Judge but shall not be less than one week after the application for leave to withdraw has been left at the office of the Registrar as in these Rules provided.
+Notice is hereby given that the above plaintiff did on the ........................ day of ................................................................................................................. file at the office of the Registrar of the Supreme Court an application for leave to withdraw the application under section 90, and set out below is a copy of the application for leave to withdraw:
 
-(2) Notice of the time and place appointed for the hearing shall be given to such person or persons (if any) as shall have given notice to the Registrar of an intention to apply to be substituted as petitioners, and otherwise in such manner and at such time as the Judge directs.
+(Set out the application here).
 
-Substitution of another petitioner
+And Take Notice that under the Parliamentary Elections (Application for Avoidance of Election) Rules, any person who might have been a plaintiff in respect of the said election may, within 5 days after the date of publication of this notice, give notice, in writing to the Registrar of the Supreme Court of his intention on the hearing of the application to be substituted as a plaintiff in the application under section 90.
 
-27.—(1) On the hearing of the application for withdrawal any person who might have been a petitioner in respect of the election to which the petition relates, may apply to the Judge to be substituted as a petitioner for the petitioner so desirous of withdrawing the petition.
+(Signed)
 
-(2) The Judge may, if he thinks fit, substitute as a petitioner any such applicant; and may further, if the proposed withdrawal is in the opinion of the Judge induced by any corrupt bargain or consideration, by order direct that the security given on behalf of the original petitioner shall remain as security for any costs that may be incurred by the substituted petitioner, and that to the extent of the sum named in the security the original petitioner shall be liable to pay the costs of the substituted petitioner.
+.......................................".
 
-(3) If no such order is made with respect to the security given on behalf of the original petitioner, security to the same amount as would be required in the case of a new petition, and subject to the like conditions, shall be given on behalf of the substituted petitioner before he proceeds with his petition, and within 3 days after the order of substitution.
+Application to be substituted as plaintiff on withdrawal
 
-(4) Subject to paragraphs (1) to (3), a substituted petitioner shall stand in the same position as nearly as may be, and be subject to the same liabilities as the original petitioner.
+25\. Any person who might have been a plaintiff in respect of the election to which an application under section 90 relates may, within 5 days after the notice is published by the original plaintiff under rule 24, file a notice in writing, signed by him or on his behalf, with the Registrar, of his intention to apply at the hearing of the application for withdrawal to be substituted for the original a plaintiff, but the want of that notice shall not defeat the application for substitution, if in fact made at the hearing.
 
-(5) If a petition is withdrawn, the petitioner shall be liable to pay the costs of the respondent.
+Time and place of hearing of application for withdrawal
 
-(6) Where there are more petitioners than one, no application to withdraw a petition shall be made except with the consent of all the petitioners.
+26.—(1) The time and place of hearing the application for withdrawal shall be fixed by the Judge but shall not be less than one week after the application for withdrawal has been filed at the office of the Registrar as in these Rules provided.
 
-Abatement of petition by death
+(2) Notice of the time and place appointed for the hearing shall be given to such person (if any) as shall have given notice to the Registrar of an intention to apply to be substituted as plaintiff in the application under section 90, and otherwise in such manner and at such time as the Judge directs.
 
-28.—(1) An election petition shall be abated by the death of a sole petitioner or of the survivor of several petitioners.
+Substitution of another plaintiff
 
-(2) The abatement of a petition shall not affect the liability of the petitioner or of any other person to the payment of costs previously incurred.
+27.—(1) On the hearing of the application for withdrawal, any person who might have been a plaintiff in respect of the election to which the application under section 90 relates, may apply to the Judge to be substituted as a plaintiff for the original plaintiff so desirous of withdrawing the application under section 90.
 
-Application to be substituted as petitioner, on abatement
+(2) The Judge may, if he thinks fit, substitute for the original plaintiff any such person applying under paragraph (1) to be so substituted (referred to hereinafter as the substituted plaintiff); and may further, if the proposed withdrawal is in the opinion of the Judge induced by any corrupt bargain or consideration, by order direct that —
 
-29.—(1) Notice of abatement of a petition, by death of the petitioner or surviving petitioner, shall be given by the party or person interested in the same manner as notice of an application to withdraw a petition, and the time within which application may be made to a Judge to be substituted as a petitioner shall be one calendar month, from the day of the publication of the notice of abatement or such further time as upon consideration of any special circumstances the Judge may allow.
+(a) the security given on behalf of the original plaintiff shall remain as security for any costs that may be incurred by the substituted plaintiff; and
 
-(2) Any person who might have been a petitioner in respect of the election to which the petition relates may apply to the Judge to be substituted as a petitioner.
+(b) to the extent of the sum named in the security the original plaintiff shall be liable to pay the costs of the substituted plaintiff.
 
-(3) The Judge may, if he thinks fit, substitute as a petitioner any such applicant who is desirous of being substituted and on whose behalf security to the same amount is given as is required in the case of a new petition.
+(3) If no such order is made with respect to the security given on behalf of the original plaintiff, security to the same amount as would be required in the case of a new application under section 90, and subject to the like conditions, shall be given by or on behalf of the substituted plaintiff within 3 days after the order of substitution, and he shall proceed no further with the application under section 90 until the security is given.
 
-On death, resignation, or notice not to oppose of respondent, petition to continue
+(4) Subject to paragraphs (1), (2) and (3), a substituted plaintiff shall stand in the same position as nearly as may be, and be subject to the same liabilities as the original plaintiff.
 
-30.—(1) If before the trial of an election petition a respondent dies or resigns, or gives notice in writing to the Court that he does not intend to oppose the petition, the petition shall not be abated but shall continue whether or not any person applies to be admitted as respondent as hereinafter provided.
+(5) If an application under section 90 is withdrawn, the plaintiff shall be liable to pay the costs of the defendant.
 
-(2) Notice of the fact that a respondent has died, or resigned, or that he has given notice in writing that he does not intend to oppose the petition, shall be published in theGazetteby the Registrar.
+Abatement of application under section 90 by death
 
-(3) Any person who might have been a petitioner in respect of the election to which the petition relates may apply to the Judge to be admitted as a respondent to oppose the petition within 10 days after the notice has been published in theGazetteor such further time as the Judge may allow.
+28.—(1) An application under section 90 shall be abated by the death of a sole plaintiff or of the survivor of several plaintiffs.
 
-(4) The manner and time of the respondent’s giving notice to the Court that he does not intend to oppose the petition shall be by leaving notice thereof in writing at the office of the Registrar, signed by the respondent not less than 6 days before the day appointed for trial, exclusive of the day of leaving the notice.
+(2) The abatement of an application under section 90 shall not affect the liability of the plaintiff or of any other person to the payment of costs previously incurred.
 
-Respondent not opposing petition not to appear as party
+Application to be substituted as plaintiff, on abatement
 
-31\. A respondent who has given notice of his intention not to oppose a petition shall not be allowed to appear or act as a party against the petition in any proceedings thereon.
+29.—(1) Notice of abatement of an application under section 90, by death of the plaintiff or surviving plaintiff, shall be given by the party or person interested in the same manner as notice of an application for withdrawal, and the time within which application may be made to a Judge to be substituted as a plaintiff in the application under section 90 shall be one calendar month, from the day of the publication of the notice of abatement or such further time as upon consideration of any special circumstances the Judge may allow.
 
-Countermanding notice of trial where petition abated, etc.
+(2) Any person who might have been a plaintiff in respect of the election to which the application under section 90 relates may apply to the Judge to be substituted as a plaintiff therein.
 
-32.—(1) Upon receiving the petitioner’s application for leave to withdraw, or notice of the respondent’s intention not to oppose, or of the abatement of the petition by death, or of the happening of any of the events mentioned in rule 30, if the application or notice is received after notice of trial has been given, and before the trial has commenced, the Registrar shall forthwith countermand the notice of trial.
+(3) The Judge may, if he thinks fit, substitute as a plaintiff in the application under section 90 any such applicant who is desirous of being substituted and on whose behalf security to the same amount is given as is required in the case of a new application under section 90.
 
-(2) The countermand shall be given in the same manner, as near as may be, as the notice of trial.
+On death, resignation, or notice not to oppose of defendant, application under section 90 to continue
+
+30.—(1) If before the hearing of an application under section 90 a defendant dies or resigns, or files a notice in writing with the Court that he does not intend to oppose the application, the application shall not be abated but shall continue whether or not any person applies to be admitted as defendant as hereinafter provided.
+
+(2) A defendant who does not intend to oppose the application under section 90 shall, not less than 6 days before the day appointed for hearing (exclusive of the day of filing the notice), file a written notice under his hand to that effect at the office of the Registrar.
+
+(3) Notice of the fact that a defendant has died, or resigned, or that he has filed a notice in writing that he does not intend to oppose the application under section 90, shall be published in theGazetteby the Registrar.
+
+(4) Any person who might have been a plaintiff in respect of the election to which the application under section 90 relates may apply to the Judge to be admitted as a defendant to oppose the application under section 90 within 10 days after the notice has been published in theGazetteor such further time as the Judge may allow.
+
+Defendant not opposing application under section 90 not to appear as party
+
+31\. A defendant who has given notice of his intention not to oppose an application under section 90 shall not be allowed to appear or act as a party against the application under section 90 in any proceedings thereon.
+
+Countermanding notice of hearing where application under section 90 abated, etc.
+
+32.—(1) Upon receiving the plaintiff’s application for withdrawal, or notice of the defendant’s intention not to oppose, or of the abatement of the application under section 90 by death, or of the happening of any of the events mentioned in rule 30, if the application for withdrawal or the notice is received after notice of the hearing has been given, and before the hearing has commenced, the Registrar shall forthwith countermand the notice of the hearing.
+
+(2) The countermand shall be given in the same manner, as near as may be, as the notice of the hearing.
 
 Costs
 
-33. All costs of and incidental to the presentation of a petition and to the proceedings consequent thereon shall be defrayed by the parties to the petition in such manner and in such proportions as the Judge may determine, regard being had to —
+33. All costs of and incidental to the making of an application under section 90 and to the proceedings consequent thereon shall be defrayed by the parties to the application in such manner and in such proportions as the Judge may determine, regard being had to —
 
-(a) the disallowance of any costs which may, in the opinion of the Judge, have been caused by vexatious conduct, unfounded allegations, or unfounded objections, on the part either of the petitioner or the respondent; and
+(a) the disallowance of any costs which may, in the opinion of the Judge, have been caused by vexatious conduct, unfounded allegations, or unfounded objections, on the part either of the plaintiff or the defendant; and
 
-(b) the discouragement of any needless expense by throwing the burden of defraying the costs of and incidental to the petition on the parties by whom it has been caused, whether the parties are or are not on the whole successful.
+(b) the discouragement of any needless expense by throwing the burden of defraying the costs of and incidental to the application under section 90 on the parties by whom it has been caused, whether the parties are or are not on the whole successful.
 
 Taxation and recovery of costs
 
@@ -3509,11 +3578,13 @@ Taxation and recovery of costs
 
 Notice of appointment of solicitor
 
-35\. A solicitor shall, immediately upon his appointment as such, leave written notice thereof at the office of the Registrar.
+35\. A solicitor shall, immediately upon his appointment as such, file written notice thereof at the office of the Registrar.
 
 Service of notices on solicitors
 
-36\. Service of notices and proceedings upon the solicitors shall be sufficient for all purposes.
+36. Service of notices and proceedings upon the solicitors shall be sufficient for all purposes.
+
+[42/2005 wef 01/01/2006]
 
 ## LEGISLATIVE HISTORY
 
@@ -3741,6 +3812,11 @@ This Legislative History is provided for the convenience of users of the Parliam
 ||Date of commencement|6 June 2005|
 |56.|**G. N. No. S 389/2005—Parliamentary Elections Act (Amendment of First Schedule) Regulations 2005**|
 ||Date of commencement|17 June 2005|
+|57.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
 ## COMPARATIVE TABLE
 
 Parliamentary Elections Act
