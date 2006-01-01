@@ -66,7 +66,7 @@
 
 - [23 Jurisdiction by agreement in certain actions](#Jurisdiction-by-agreement-in-certain-actions)
 
-- [24 Transfer of counterclaim from District Court to High Court](#Transfer-of-counterclaim-from-District-Court-to-High-Court)
+- [24 (Repealed)](#Repealed)
 
 - [25 Jurisdiction in actions for recovery of immovable property](#Jurisdiction-in-actions-for-recovery-of-immovable-property)
 
@@ -92,13 +92,13 @@
 
 - [36 Examination of witnesses abroad in District Court cases](#Examination-of-witnesses-abroad-in-District-Court-cases)
 
-- [37 General power to transfer from High Court to District Court](#General-power-to-transfer-from-High-Court-to-District-Court)
+- [37 (Repealed)](#Repealed)
 
-- [38 General power to transfer from District Court to High Court](#General-power-to-transfer-from-District-Court-to-High-Court)
+- [38 (Repealed)](#Repealed)
 
 - [39 Costs of certain actions commenced in High Court which could have been commenced in a subordinate court](#Costs-of-certain-actions-commenced-in-High-Court-which-could-have-been-commenced-in-a-subordinate-court)
 
-- [40 Costs in cases transferred from one court to another](#Costs-in-cases-transferred-from-one-court-to-another)
+- [40 (Repealed)](#Repealed)
 
 - [41 Allocation of proceedings to High Court](#Allocation-of-proceedings-to-High-Court)
 
@@ -128,9 +128,25 @@
 
 - [52 Civil jurisdiction of Magistrates’ Courts](#Civil-jurisdiction-of-Magistrates’-Courts)
 
-- [53 Transfer from Magistrates’ Courts to District Courts](#Transfer-from-Magistrates’-Courts-to-District-Courts)
+- [53 (Repealed)](#Repealed)
 
 - [54 Judgments and orders of Magistrates’ Courts](#Judgments-and-orders-of-Magistrates’-Courts)
+
+[**Transfers of Civil Proceedings**](#Transfers-of-Civil-Proceedings)
+
+- [54A General power to transfer from Magistrate’s Court to District Court](#General-power-to-transfer-from-Magistrate’s-Court-to-District-Court)
+
+- [54B General power to transfer from subordinate courts to High Court](#General-power-to-transfer-from-subordinate-courts-to-High-Court)
+
+- [54C General power to transfer from High Court to subordinate courts](#General-power-to-transfer-from-High-Court-to-subordinate-courts)
+
+- [54D General power to transfer from District Court to Magistrate’s Court](#General-power-to-transfer-from-District-Court-to-Magistrate’s-Court)
+
+- [54E Transfer of counterclaim from subordinate courts to High Court](#Transfer-of-counterclaim-from-subordinate-courts-to-High-Court)
+
+- [54F Transfer of counterclaim from Magistrate’s Court to District Court](#Transfer-of-counterclaim-from-Magistrate’s-Court-to-District-Court)
+
+- [54G Costs in cases transferred from one court to another](#Costs-in-cases-transferred-from-one-court-to-another)
 
 [**Jurisdiction of Juvenile Courts**](#Jurisdiction-of-Juvenile-Courts)
 
@@ -171,6 +187,10 @@
 - [68 Protection of judicial and other officers](#Protection-of-judicial-and-other-officers)
 
 - [69 Rules of Court](#Rules-of-Court)
+
+[**Part VI SUPPLEMENTAL**](#Part-VI)
+
+- [70 Conversion of pending petitions to writs of summons and originating summonses](#Conversion-of-pending-petitions-to-writs-of-summons-and-originating-summonses)
 
 [**THE SCHEDULE Forms of Oaths and Affirmations 3. Oath of Office of Other Officer of A Court**](#THE-SCHEDULE)
 
@@ -490,21 +510,7 @@ Civil Jurisdiction of District Courts
 
 [6/76; 3/86; 15/93]
 
-### Transfer of counterclaim from District Court to High Court
-
-24\.—(1) Where, in an action founded on contract or tort in a District Court, any counterclaim or set-off and counterclaim of any defendant involves a matter beyond the jurisdiction of the District Court, any party to the action may apply to the High Court, within such time as may be prescribed by Rules of Court, for an order that the whole proceedings, or the proceedings on the counterclaim or set-off and counterclaim, be transferred to the High Court.
-
-(2) On any such application the High Court may, as it thinks fit, order either —
-
-(a) that the whole proceedings be transferred to the High Court;
-
-(b) that the whole proceedings be tried in a District Court; or
-
-(c) that the proceedings on the counterclaim or set-off and counterclaim be transferred to the High Court and that the proceedings on the plaintiff’s claim and the defence thereto other than the set-off (if any) be tried in a District Court.
-
-(3) Where an order is made under subsection (2)(c), and judgment on the claim is given for the plaintiff, execution thereon shall, unless the High Court at any time otherwise orders, be stayed until the proceedings transferred to the High Court have been concluded.
-
-(4) Where no application is made under subsection (1) or where on such an application it is ordered that the whole proceedings be tried in the District Court, the District Court shall have jurisdiction to try the proceedings, notwithstanding any other provisions of this Act.
+24\. [Repealed by Act 26/2005 wef 01/01/2006]
 
 ### Jurisdiction in actions for recovery of immovable property
 
@@ -644,19 +650,9 @@ as ought to be granted or given in the like action by the High Court and in as f
 
 [37
 
-### General power to transfer from High Court to District Court
+37\. [Repealed by Act 26/2005 wef 01/01/2006]
 
-37\.—(1) In any action commenced by way of writ of summons in the High Court in the exercise of its original civil jurisdiction, any party may for any sufficient reason at any time apply to the High Court for an order that the proceedings be transferred to a District Court.
-
-(2) The High Court may thereupon, if it thinks fit, order that the proceedings be transferred accordingly notwithstanding any other provisions of this Act.
-
-[38
-
-### General power to transfer from District Court to High Court
-
-38\. Where it is made to appear to the High Court, on the application of a party to any civil proceeding pending in a District Court, that the proceeding by reason of its involving some important question of law, or being a test case, or for any other sufficient reason, is one which should be tried in the High Court, it may order the record to be transferred to the High Court.
-
-[39
+38\. [Repealed by Act 26/2005 wef 01/01/2006]
 
 ### Costs of certain actions commenced in High Court which could have been commenced in a subordinate court
 
@@ -696,21 +692,7 @@ may make an order allowing the costs or any part of the costs thereof on the Hig
 
 [15/93]
 
-### Costs in cases transferred from one court to another
-
-40\.—(1) Where an action, counterclaim or matter is ordered to be transferred —
-
-(a) from the High Court to a District Court; or
-
-(b) from a District Court to the High Court,
-
-the costs of the whole proceedings both before and after the transfer shall, subject to any order made by the court which ordered the transfer, be in the discretion of the court to which the proceedings are transferred, and that court shall have power to make orders with respect thereto and as to the scales on which the costs of the several parts of the proceedings are to be paid.
-
-(2) As regards so much of the proceedings in any action transferred from the High Court to a District Court as takes place in the High Court before the transfer —
-
-(a) the costs thereof shall be subject to section 39; and
-
-(b) the powers of the High Court under section 39(4) to make an order allowing costs on the High Court scale or on the subordinate courts scale, shall, subject to any order of the High Court, be exercisable by the District Court.
+40\. [Repealed by Act 26/2005 wef 01/01/2006]
 
 ### Allocation of proceedings to High Court
 
@@ -824,13 +806,97 @@ Jurisdiction of Magistrates’ Courts
 
 [15/93]
 
-### Transfer from Magistrates’ Courts to District Courts
-
-53\. A Magistrate’s Court may, either of its own motion or on the application of a party to an action, transfer the action to a District Court on the ground that some important question of law or fact is likely to arise.
+53\. [Repealed by Act 26/2005 wef 01/01/2006]
 
 ### Judgments and orders of Magistrates’ Courts
 
 54\. Every judgment or order of a Magistrate’s Court in the exercise of its civil jurisdiction shall have the same effect (for purposes of appeal or otherwise) and shall be enforced in the same manner as if it were given or made by a District Court.
+
+Transfers of Civil Proceedings
+
+[26/2005 wef 01/01/2006]
+
+### General power to transfer from Magistrate’s Court to District Court
+
+54A\.—(1) Where it appears to a District Court, on the application of a party to any civil proceedings pending in a Magistrate’s Court, that the proceedings, by reason of its involving some important question of law, or being a test case, or for any other sufficient reason, should be tried in the District Court, it may order the proceedings to be transferred to the District Court.
+
+(2) An order under subsection (1) may be made on such terms as the court sees fit.
+
+### General power to transfer from subordinate courts to High Court
+
+54B\.—(1) Where it appears to the High Court, on the application of a party to any civil proceedings pending in a subordinate court, that the proceedings, by reason of its involving some important question of law, or being a test case, or for any other sufficient reason, should be tried in the High Court, it may order the proceedings to be transferred to the High Court.
+
+(2) An order under subsection (1) may be made on such terms as the court sees fit.
+
+Explanation.—The intended enforcement overseas of any judgment obtained in the High Court, under any enforcement arrangements currently in force, would ordinarily be sufficient reason for transferring the proceedings to the High Court.
+
+### General power to transfer from High Court to subordinate courts
+
+54C\.—(1) A party to any civil proceedings pending in the High Court may for any sufficient reason at any time apply to the High Court for an order that the proceedings be transferred to a subordinate court.
+
+(2) Subject to subsection (3), the High Court may, if it thinks fit, and on such terms as it sees fit, and either on its own motion or on application, order that the proceedings be transferred accordingly notwithstanding any other provision of this Act.
+
+(3) An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the subordinate court to which the application relates, if the value of the claim had been within the District Court limit or the Magistrate’s Court limit, as the case may be.
+
+Explanation.—The fact that the proceedings fall within the civil jurisdiction of the subordinate courts would not, by itself, ordinarily constitute sufficient reason for transferring the proceedings to the subordinate courts, if enforcement overseas is intended of any judgment obtained in the High Court under any enforcement arrangements currently in force.
+
+### General power to transfer from District Court to Magistrate’s Court
+
+54D\.—(1) A party to any civil proceedings pending in the District Court may for any sufficient reason at any time apply to the District Court for an order that the proceedings be transferred to a Magistrate’s Court.
+
+(2) Subject to subsection (3), the District Court may, if it thinks fit, and on such terms as it sees fit, and either on its own motion or on application, order that the proceedings be transferred accordingly notwithstanding any other provision of this Act.
+
+(3) An order under subsection (2) may only be made in respect of such proceedings as could have been commenced in the Magistrate’s Court if the value of the claim had been within the Magistrate’s Court limit.
+
+### Transfer of counterclaim from subordinate courts to High Court
+
+54E\.—(1) Where, in any civil proceedings pending in a subordinate court, any counterclaim or set-off and counterclaim of any defendant involves a matter beyond the District Court limit, any party to the proceedings may apply to the High Court, within such time as may be prescribed by Rules of Court, for an order that the whole proceedings, or the proceedings on the counterclaim or set-off and counterclaim, be transferred to the High Court.
+
+(2) On any such application or on its own motion, the High Court may, as it thinks fit, and on such terms as it sees fit, order —
+
+(a) that the whole proceedings be transferred to the High Court;
+
+(b) that the whole proceedings be tried in the subordinate courts; or
+
+(c) that the proceedings on the counterclaim or set-off and counterclaim be transferred to the High Court and that the proceedings on the plaintiff’s claim and the defence thereto other than the set-off (if any) be tried in the subordinate courts.
+
+(3) Where an order is made under subsection (2)(c), and judgment on the claim is given for the plaintiff, execution thereon shall, unless the High Court at any time otherwise orders, be stayed until the proceedings transferred to the High Court have been concluded.
+
+(4) Where no application is made under subsection (1) or where it is ordered that the whole proceedings be tried in the subordinate courts, such subordinate court shall have jurisdiction to try the proceedings, notwithstanding any other provision of this Act.
+
+### Transfer of counterclaim from Magistrate’s Court to District Court
+
+54F\.—(1) Where, in any civil proceedings pending in a Magistrate’s Court, any counterclaim or set-off and counterclaim of any defendant involves a matter beyond the Magistrate’s Court limit, any party to the proceedings may apply to the District Court, within such time as may be prescribed by Rules of Court, for an order that the whole proceedings, or the proceedings on the counterclaim or set-off and counterclaim, be transferred to the District Court.
+
+(2) On any such application or on its own motion, the District Court may, as it thinks fit, and on such terms as it sees fit, order —
+
+(a) that the whole proceedings be transferred to a District Court;
+
+(b) that the whole proceedings be tried in a Magistrate’s Court; or
+
+(c) that the proceedings on the counterclaim or set-off and counterclaim be transferred to a District Court and that the proceedings on the plaintiff’s claim and the defence thereto other than the set-off (if any) be tried in a Magistrate’s Court.
+
+(3) Where an order is made under subsection (2)(c), and judgment on the claim is given for the plaintiff, execution thereon shall, unless the District Court at any time otherwise orders, be stayed until the proceedings transferred to the District Court have been concluded.
+
+(4) Where no application is made under subsection (1) or where it is ordered that the whole proceedings be tried in a Magistrate’s Court, the Magistrate’s Court shall have jurisdiction to try the proceedings, notwithstanding any other provision of this Act.
+
+### Costs in cases transferred from one court to another
+
+54G\.—(1) Where proceedings are ordered to be transferred —
+
+(a) from the High Court to a subordinate court;
+
+(b) from a subordinate court to the High Court; or
+
+(c) from one subordinate court to another,
+
+the costs of the whole proceedings both before and after the transfer shall, subject to any order made by the court which ordered the transfer, be in the discretion of the court to which the proceedings are transferred, and that court shall have power to make orders with respect thereto and as to the scales on which the costs of the several parts of the proceedings are to be paid.
+
+(2) As regards so much of the proceedings in any action transferred from the High Court to a subordinate court as takes place in the High Court before the transfer —
+
+(a) the costs thereof shall be subject to section 39; and
+
+(b) the powers of the High Court under section 39(4) to make an order allowing costs on the High Court scale or on the subordinate courts scale, shall, subject to any order of the High Court, be exercisable by the subordinate court.
 
 Jurisdiction of Juvenile Courts
 
@@ -1032,6 +1098,30 @@ is issued, to deposit from time to time a sum of money to provide for the expens
 
 (4) All Rules of Court made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
+## PART VI
+
+SUPPLEMENTAL
+
+[42/2005 wef 01/01/2006]
+
+### Conversion of pending petitions to writs of summons and originating summonses
+
+70\.—(1) Where —
+
+(a) under any written law any civil action or application may be commenced in or made to a District Court, a Magistrate’s Court or the registrar (referred to in this section as the Court); and
+
+(b) the provisions under any written law by virtue of which such an action or application was required to be commenced or made by way of a petition have been amended such as to require that any such action or application shall, as from the date appointed for the coming into operation of the amendment, be commenced or made by way of a writ of summons or an originating summons,
+
+then, if any such action or application that has been commenced or made before that date by way of a petition is still pending before the Court on or after that date, the Court may, if it thinks just and expedient, order that the action or application (referred to in this section as a pending action or application) shall be converted to and be continued as an action or application commenced or made by way of a writ of summons or an originating summons, as is appropriate.
+
+(2) The Senior District Judge, with the concurrence of the Chief Justice, may, where he considers it necessary or expedient to improve efficiency in the administration of justice, by order direct that any class or description of pending actions or applications before the Court shall be converted to and be continued as actions or applications commenced or made by way of a writ of summons or an originating summons, as is appropriate.
+
+(3) Where pursuant to subsection (1) or (2) any pending action or application has been converted to an action or application commenced or made by way of a writ of summons or an originating summons —
+
+(a) the action or application shall be continued in accordance with the provisions of the relevant written law and the practice and procedure as are in force and applicable in relation to that action or application at the time of the conversion; and
+
+(b) the Court may give to the parties to the action or application such directions as to the conduct and costs of the action or application as it thinks just and expedient for the purpose of facilitating the conversion of the action or application to an action or application commenced or made by way of a writ of summons or an originating summons (as the case may be) and its continuance as such.
+
 ## THE SCHEDULE
 
 Section 17(1)
@@ -1131,6 +1221,16 @@ This Legislative History is provided for the convenience of users of the Subordi
 |||(Bill No. 64/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
+|16.|**Act 26 of 2005—Subordinate Courts (Amendment) Act 2005**|
+||Date of First Reading|18 July 2005|
+|||(Bill No. 16/2005 published on 19 July 2005)|
+||Date of Second and Third Readings|15 August 2005|
+||Date of commencement|1 January 2006|
+|17.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (section 3 — Amendment of Subordinate Courts Act)|
 ## COMPARATIVE TABLE
 
 Subordinate Courts Act
