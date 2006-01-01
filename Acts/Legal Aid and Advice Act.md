@@ -102,7 +102,7 @@ PRELIMINARY
 
 “goods and services tax” means the goods and services tax levied under the Goods and Services Tax Act [Cap. 117A];
 
-“guardian”, in relation to an infant, includes any person whom the Director considers might properly be appointed to be the next friend or guardian ad litem of the infant;
+“guardian”, in relation to an infant, includes any person whom the Director considers might properly be appointed to be the next friend or litigation representative of the infant;
 
 [42/2005 wef 01/01/2006]
 
@@ -482,6 +482,8 @@ Description of Proceedings
 
 5\. Proceedings under the Women’s Charter.
 
+6. [Deleted by Act 6/2004 wef 08/03/2004 wef 08/03/2004]
+
 7\. Proceedings before the Syariah Court.
 
 Part II
@@ -498,7 +500,11 @@ Excepted Proceedings
 
 2\. Relator actions.
 
-3\. Election petitions.
+3\. Any application under the Parliamentary Elections Act (Cap. 218) or the Presidential Elections Act (Cap. 240A).
+
+3.
+
+[42/2005 wef 01/01/2006]
 
 4\. In a District Court, proceedings for or consequent on the issue of a judgment summons and, in the case of a defendant, proceedings where the only question to be brought before the Court is as to the time or mode of payment by him of a debt (including liquidated damages) and costs.
 
@@ -596,3 +602,8 @@ This Legislative History is provided for the convenience of users of the Legal A
 |||(Bill No. 4/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|8 March 2004|
+|5.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (item (12) of the Fifth Schedule — amendment of Legal Aid and Advice Act)|
