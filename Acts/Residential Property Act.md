@@ -390,31 +390,21 @@ shall be null and void.
 
 (b) any flat or dwelling-house shown as a unit in an approved plan bearing the title “Condominium” and issued by the relevant competent authority under the Planning Act 1998.
 
-[Act 3 of 1998 wef 01/04/1998]
-
 (2) Nothing in subsection (1) shall be construed to permit a foreign person to purchase or acquire —
 
 (a) all the flats in every building consisting of 6 or more levels in a development permitted to be used under the Planning Act 1998 for residential purposes; or
-
-[Act 3 of 1998 wef 01/04/1998]
 
 (b) all the units in a development approved by the relevant competent authority under the Planning Act 1998 as a condominium development,
 
 without having obtained the approval of the Minister.
 
-[Act 3 of 1998 wef 01/04/1998]
-
 (3) A foreign person who purchases or acquires any estate or interest in —
 
 (a) all the flats in every building consisting of 6 or more levels in any development permitted to be used under the Planning Act 1998 for residential purposes; or
 
-[Act 3 of 1998 wef 01/04/1998]
-
 (b) all the units of a development approved by the relevant competent authority under the Planning Act 1998 as a condominium development,
 
 without having obtained the approval of the Minister shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
-
-[Act 3 of 1998 wef 01/04/1998]
 
 (4) Where a foreign person is convicted of an offence under subsection (3), the Minister may direct the Controller to serve a notice on that person to divest and transfer, within a period of 6 months of the date of service of the notice on that person or within any extension of time granted by the Minister under subsection (5), all his estate or interest in the development in respect of which the offence is committed to another person who is not —
 
@@ -430,9 +420,9 @@ without having obtained the approval of the Minister shall be guilty of an offen
 
 ### Disposal of estate or interest in residential property by foreign companies
 
-5\.—(1) Where, on 11th September 1973\*, a foreign person is a foreign company which is the owner of an estate or interest in any residential property in Singapore, the foreign company shall be bound to dispose of the same in accordance with this section, unless such foreign company is permitted to retain its estate or interest in the residential property by virtue of section 25 or the residential property or such foreign company is exempted under section 32.
+5\.—(1) Where, on 11th September 19733, a foreign person is a foreign company which is the owner of an estate or interest in any residential property in Singapore, the foreign company shall be bound to dispose of the same in accordance with this section, unless such foreign company is permitted to retain its estate or interest in the residential property by virtue of section 25 or the residential property or such foreign company is exempted under section 32.
 
-\*Date of commencement of this Act.
+3Date of commencement of this Act.
 
 (2) Where, between 11th September 1973 and 1st October 1976†, any foreign company was granted approval by the Minister, to purchase or acquire any residential property from another foreign company or a Singapore company pursuant to any scheme or arrangement of whatever nature whereby the second mentioned foreign company or Singapore company transfers or agrees to transfer the whole or part of its assets or undertaking to the first-mentioned foreign company, including its interests in residential properties in Singapore, whether for consideration or otherwise, the first-mentioned foreign company shall, notwithstanding the grant of such approval, be subject to this section.
 
@@ -526,17 +516,17 @@ without having obtained the approval of the Minister shall be guilty of an offen
 
 ### Position of Singapore entities with residential properties wishing to become or becoming converted entities
 
-9\.—(1) No Singapore company which is the owner of any estate or interest in any residential property, whether purchased or acquired before, on or after 11th September 1973 shall, on or after 1st October 19763, become a converted foreign company without first seeking and obtaining the written approval of the Minister, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or in one or more of its residential properties which such Singapore company intends should remain vested in the converted foreign company upon such conversion.
+9\.—(1) No Singapore company which is the owner of any estate or interest in any residential property, whether purchased or acquired before, on or after 11th September 1973 shall, on or after 1st October 19764, become a converted foreign company without first seeking and obtaining the written approval of the Minister, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or in one or more of its residential properties which such Singapore company intends should remain vested in the converted foreign company upon such conversion.
 
-3Date on which this Act was published in theGazette.
+4Date on which this Act was published in theGazette.
 
 (1A) No Singapore limited liability partnership which is the owner of any estate or interest in any residential property, whether purchased or acquired before, on or after 11th April 2005 shall become a converted foreign limited liability partnership without first seeking and obtaining the written approval of the Minister, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or in one or more of its residential properties which such Singapore limited liability partnership intends should remain vested in the converted foreign limited liability partnership upon such conversion.
 
 [17/2005 wef 15/07/2005]
 
-(2) No Singapore society which is the owner of any estate or interest in any residential property purchased or acquired on or after 11th September 1973 shall, on or after 1st October 19764, become a converted society without first seeking and obtaining the written approval of the Minister, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or any of its residential properties which such Singapore society intends to retain after conversion.
+(2) No Singapore society which is the owner of any estate or interest in any residential property purchased or acquired on or after 11th September 1973 shall, on or after 1st October 19765, become a converted society without first seeking and obtaining the written approval of the Minister, in the manner provided in section 26, for such conversion and for the retention of all its estate or interest in all or any of its residential properties which such Singapore society intends to retain after conversion.
 
-4Date on which this Act was published in theGazette.
+5Date on which this Act was published in theGazette.
 
 (3) If the written approval sought under subsection (1), (1A) or (2) is granted in respect of such conversion and for the retention of all or one or more of the residential properties in respect of which the Singapore entity sought approval, it shall, either before it becomes a converted entity or within a period of 2 years of the date of its becoming a converted entity, transfer to any citizen or approved purchaser all its estate or interest —
 
@@ -852,7 +842,7 @@ that final registration shall be suspended.
 
 (7) Where any transfer which contravenes any of the provisions of this Act has been finally registered by the Registrar, the court may, on the application of the Controller, declare that the transfer is void and order rectification of the land-register by directing that the registration of the transfer and any relating instrument be cancelled; and all costs and expenses of, and incidental to, the application shall be borne by the person who transfers any estate or interest in the residential property concerned to a foreign person, and those costs and expenses shall be recoverable by the Controller from the person who so transfers.
 
-(8) Every application to the court made under this section shall be by summons in chambers.
+(8) Every application to the court made under this section shall be by originating summons.
 
 ## PART III
 
@@ -950,7 +940,7 @@ Every applicant referred to in subsection (6) shall furnish a statutory declarat
 
 27\.—(1) Where the Minister has at any time before or after 1st October 1982 —
 
-(a) granted his approval under section 25 or 26 to any foreign person to purchase, acquire or retain any estate or interest in any residential property ;
+(a) granted his approval under section 25or 26 to any foreign person to purchase, acquire or retain any estate or interest in any residential property ;
 
 (b) exempted, pursuant to section 32, any foreign person from all or any of the provisions of this Act; or
 
@@ -968,7 +958,7 @@ subject to any condition imposed by the Minister and the Minister is satisfied t
 
 ### Change of existing use to use for residential purposes
 
-28\. Where any foreign person is the owner or purchaser of any immovable property other than residential property prior to 11th September 1973, or has after that date acquired or purchased any such immovable property, that foreign person shall be required to make application to the Minister (through the Controller) for the grant of approval to change the existing use of such immovable property (whether it is land, a house, a building or other premises or part thereof) to use for any purpose other than industrial or commercial, prior to his making an application to the competent authority, appointed under the Planning Act [Cap. 232], for such change; and such foreign person shall not be granted permission under that Act for such change of use unless he has been granted approval by the Minister for the change.
+28\. Where any foreign person is the owner or purchaser of any immovable property other than residential property prior to 11th September 1973, or has after that date acquired or purchased any such immovable property, that foreign person shall be required to make application to the Minister (through the Controller) for the grant of approval to change the existing use of such immovable property (whether it is land, a house, a building or other premises or part thereof) to use for any purpose other than industrial or commercial, prior to his making an application to the competent authority, appointed under the Planning Act, for such change; and such foreign person shall not be granted permission under that Act for such change of use unless he has been granted approval by the Minister for the change.
 
 ### Approval for residential development on land deemed non-residential
 
@@ -996,7 +986,7 @@ that foreign person —
 
 (5) An applicant may, within 3 months of the receipt of the notice under subsection (4), appeal to the Minister whose decision shall be final and shall not be questioned in any court.
 
-[Act 3 of 1998 wef 01/04/1998]
+[3/98 wef 01/04/1998]
 
 ## PART IV
 
@@ -1006,15 +996,15 @@ MISCELLANEOUS
 
 29\.—(1) There shall be appointed by the Minister a Controller of Residential Property who shall have charge of the administration of this Act, subject to any general or special directions of the Minister.
 
-[Act 7 of 1997 wef 01/10/1997]
-
 (2) The Minister may also appoint such Deputy Controllers and Assistant Controllers of Residential Property as may be necessary for the carrying out of the provisions of this Act.
-
-[ Act 7 of 1997 wef 01/10/1997]
 
 (3) Where any Deputy Controller or Assistant Controller of Residential Property is appointed, such Deputy Controller or Assistant Controller of Residential Property shall carry out the provisions of this Act, subject to the general or special directions of the Controller.
 
-(4) The Controller of Housing, the Comptroller of Property Tax appointed under the Property Tax Act [Cap. 254], the Controller of Immigration appointed under the Immigration Act [Cap. 133] and any competent authority appointed under the Planning Act [Cap. 232] shall render all possible assistance and make available all necessary information to the Controller for the purpose of carrying out the provisions of this Act.
+(4) The Controller of Housing, the Comptroller of Property Tax appointed under the Property Tax Act [Cap. 254. Cap. 133. Cap. 232], the Controller of Immigration appointed under the Immigration Act and any competent authority appointed under the Planning Act shall render all possible assistance and make available all necessary information to the Controller for the purpose of carrying out the provisions of this Act.
+
+[]
+
+[]
 
 (5) The Controller of Residential Property, every Deputy or Assistant Controller of Residential Property and any person acting under the authority of the Controller of Residential Property shall not be personally liable to any action, suit or proceeding in respect of any act or matter done in good faith or omitted to be done in the administration of this Act.
 
@@ -1174,9 +1164,9 @@ subject to any condition imposed by the Minister, any approved purchaser who fai
 
 36\.—(1) Any person who contravenes or fails to comply with any of the provisions of this Act for which no penalty is expressly provided shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-(2) Notwithstanding any of the provisions of this Act, no person who has, at any time before 1st October 19766, contravened or failed to comply with any of the provisions of this Act, shall be punished by way of a fine or imprisonment in respect thereof.
+(2) Notwithstanding any of the provisions of this Act, no person who has, at any time before 1st October 19767, contravened or failed to comply with any of the provisions of this Act, shall be punished by way of a fine or imprisonment in respect thereof.
 
-6Date on which this Act was published in theGazette.
+7Date on which this Act was published in theGazette.
 
 (3) If the person committing an offence under this Act is a company, a limited liability partnership, a society, an association or other organisation or body, every individual who at the time the offence was committed was a director, partner, general manager, manager, president, secretary or other officer of the company, limited liability partnership, society, association, organisation, or body concerned in the management of the company, limited liability partnership, society, association, organisation or body or who was purporting to act in any such capacity, as well as the company, limited liability partnership, society, association, organisation or body, as the case may be, shall be deemed to be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
 
@@ -1234,25 +1224,25 @@ and in either case service shall be deemed to be made, in the case of service by
 
 40A\. All fees and charges collected under or in connection with any service provided by the Controller under this Act or any rules or regulations made thereunder shall be paid into the funds of the Authority.
 
-[Act 17 of 2001 wef 01/06/2001]
+[17/2001 wef 01/06/2001]
 
 ### Validation of acts done and directions given by Government, etc.
 
-41\.—(1) No legal proceedings whatsoever shall lie or be instituted or maintained in any court of law for or on account of or in respect of any act, decision or thing done or taken by the Government, or any Minister, officer or committee thereof, and arising from, relating to or connected with residential property, during the period from 11th September 1973 to 1st October 1976\*if done or taken in good faith in the execution of duty.
+41\.—(1) No legal proceedings whatsoever shall lie or be instituted or maintained in any court of law for or on account of or in respect of any act, decision or thing done or taken by the Government, or any Minister, officer or committee thereof, and arising from, relating to or connected with residential property, during the period from 11th September 1973 to 1st October 19768if done or taken in good faith in the execution of duty.
 
-\*Date on which this Act was published in theGazette.
+8Date on which this Act was published in theGazette
 
-(2) No legal proceedings in respect of any such act, decision or thing, arising from, relating to or connected with residential property, which is alleged to have been done or taken in bad faith in the execution of duty during the period from 11th September 1973 to 1st October 1976\*shall be instituted or maintained in any court of law unless a certificate of the Attorney-General shall first have been obtained sanctioning the institution of such legal proceedings.
+(2) No legal proceedings in respect of any such act, decision or thing, arising from, relating to or connected with residential property, which is alleged to have been done or taken in bad faith in the execution of duty during the period from 11th September 1973 to 1st October 19769shall be instituted or maintained in any court of law unless a certificate of the Attorney-General shall first have been obtained sanctioning the institution of such legal proceedings.
 
-\*Date on which this Act was published in theGazette.
+9Date on which this Act was published in theGazette
 
-(3) All directions whether of a procedural nature or otherwise, arising from, relating to or connected with residential property, made during the period from 11th September 1973 to 1st October 1976\*by or in the name of the Government or any Minister, officer or committee thereof, shall be deemed to be, and always to have been, validly made, notwithstanding that such directions have been revoked or amended or are or have been inconsistent with, or in conflict with, or contrary to any written law or law previously in force.
+(3) All directions whether of a procedural nature or otherwise, arising from, relating to or connected with residential property, made during the period from 11th September 1973 to 1st October 197610by or in the name of the Government or any Minister, officer or committee thereof, shall be deemed to be, and always to have been, validly made, notwithstanding that such directions have been revoked or amended or are or have been inconsistent with, or in conflict with, or contrary to any written law or law previously in force.
 
-\*Date on which this Act was published in theGazette.
+10Date on which this Act was published in theGazette
 
-(4) Except as provided in section 5(2), any approval granted or refusal to grant approval for the purchase of residential property by the Government, or any Minister, officer or committee thereof, during the period from 11th September 1973 to 1st October 1976\*shall be deemed to have been made under this Act.
+(4) Except as provided in section 5(2), any approval granted or refusal to grant approval for the purchase of residential property by the Government, or any Minister, officer or committee thereof, during the period from 11th September 1973 to 1st October 197611shall be deemed to have been made under this Act.
 
-\*Date on which this Act was published in theGazette.
+11Date on which this Act was published in theGazette
 
 FIRST SCHEDULE
 
@@ -1589,3 +1579,8 @@ This Legislative History is provided for the convenience of users of the Residen
 |||(Bill No. 19/2005 published on 19 July 2005)|
 ||Date of Second and Third Readings|15 August 2005|
 ||Date of commencement|15 September 2005|
+|11.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (Item (30) in First Schedule — Amendment of Residential Property Act)|
