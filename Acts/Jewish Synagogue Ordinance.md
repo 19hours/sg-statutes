@@ -12,7 +12,7 @@
 
 - [1 Short title](#Short-title)
 
-- [2 Certain trustees. may sell; and convey the land](#Certain-trustees-may-sell;-and-convey-the-land)
+- [2 Certain trustees, may sell; and convey the land](#Certain-trustees-may-sell;-and-convey-the-land)
 
 - [3 Proceeds of sale to be applied to purchase other land and to building a synagogue](#Proceeds-of-sale-to-be-applied-to-purchase-other-land-and-to-building-a-synagogue)
 
@@ -40,7 +40,9 @@ REVISED EDITION 1985
 
 An Ordinance to empower the Trustees of the Jewish Synagogue in Singapore to sell certain property, and for other purposes.\*
 
-\*Note: This private Ordinance is reproduced in the form it appears in the 1955 Revised Edition.
+\*Note:This private Ordinance is reproduced in the form it appears in the 1955 Revised Edition
+
+[29th March 1878]
 
 Whereas by an Indenture of Lease dated the first day of September, 1841, the late Government of these Settlements demised on a pepper-corn rent a certain piece of land situated in Synagogue Street, in Singapore Town, estimated to contain 503.07 square metres, to Joseph Dewk Cohen, Nassim Joseph Ezra, and Ezra Ezra Ezekiel, their successors, representatives and assigns, as trustees for the Jewish inhabitants of Singapore for the purpose of erecting and maintaining thereon for the use of the Jewish inhabitants a synagogue or place of Divine worship, with a proviso that the said piece of land should be resumed by Government in the event of the same being appropriated for any other purpose than that of Divine worship:
 
@@ -52,13 +54,11 @@ And Whereas the place on which the synagogue stands on the said piece of land in
 
 It is hereby enacted by the Governor of the Straits Settlements with the advice and consent of the Legislative Council thereof as follows:
 
-[29th March 1878]
-
 ### Short title
 
 1\. This Ordinance may be cited as the Jewish Synagogue Ordinance.
 
-### Certain trustees. may sell; and convey the land
+### Certain trustees, may sell; and convey the land
 
 2\. The said Joshua Raphael Joshua, Ezra Abraham Solomon, Salleh Menasseh, Menasseh Meyer, Reuben Meyer, Sassoon Aaron Gubbay, and David Aaron Gubbay as trustees of the Jewish synagogue, of Singapore, or the survivors of them or any two or more of such surviving trustees who are for the time being resident within the Colony may sell and dispose of the said piece or parcel of land comprised in and demised by the hereinbefore recited indenture of lease made between the late Government of these Settlements of the one part, and Joseph Dewk Cohen, Nassim Joseph Ezra and Ezra Ezra Ezekiel of the other part, dated the first day of September, 1841, and also all erections and buildings which have been erected, and are now standing on the said premises, with power also to execute assurances, give effectual receipts for the purchase money, and do all other acts and things for completing such sale as they or the survivors of them, or any two or more of such survivors think proper.
 
@@ -84,6 +84,8 @@ It is hereby enacted by the Governor of the Straits Settlements with the advice 
 
 (2) So soon as the said piece of land ceases to be used for such purpose it shallipso factorevert to the Government.
 
+[7/97 wef 01/10/1997]
+
 ### Conveyance to state trust
 
 6\. The conveyance to the trustees of any lands to be paid for by them out of the proceeds of the land in this Ordinance authorised to be sold shall express that the said lands are conveyed to, and are to be held by them subject to the trust and condition set out in this Ordinance.
@@ -94,7 +96,9 @@ It is hereby enacted by the Governor of the Straits Settlements with the advice 
 
 ### New trustees
 
-(2) In the event of the number of trustees at any time falling below three the High Court on the petition of the remaining trustees, or of any of the members of the Jewish community may appoint suitable persons being members of the Jewish community residing in Singapore to be trustees under this Ordinance.
+(2) In the event of the number of trustees at any time falling below three, the High Court, on an application made by originating summons by the remaining trustees or by any of the members of the Jewish community, may appoint suitable persons being members of the Jewish community residing in Singapore to be trustees under this Ordinance.
+
+[42/2005 wef 01/01/2006]
 
 ### Property to vest without assignment
 
@@ -116,8 +120,8 @@ This Legislative History is provided for the convenience of users of the Jewish 
 ||Date of operation|1 September 1936|
 |3.|**1955 Revised Edition—Jewish Synagogue Ordinance (Cap. 301)**|
 ||Date of operation|1 May 1955|
-|4.|**G. N. No. S 216/1985**|
-||Date of commencement|14 August 1985|
+|4.|**G. N. No. S 216/1985—The Metrication (Jewish Synagogue Ordinance) Order 1985**|
+||Date of commencement|23 August 1985|
 |5.|**1985 Revised Edition—Jewish Synagogue Ordinance**|
 ||Date of operation|30 March 1987|
 |6.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
@@ -126,3 +130,8 @@ This Legislative History is provided for the convenience of users of the Jewish 
 |||(Bill No. 6/1997 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997 (item (21) in the First Schedule)|
+|7.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1 January 2006 (item (38) in the First Schedule)|
