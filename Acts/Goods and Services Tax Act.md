@@ -712,7 +712,31 @@ being (in either case) goods or services used or to be used for the purpose of a
 
 (11) If the Comptroller fails to make payment within the prescribed time, interest on such amount as is outstanding shall, subject to such conditions as may be prescribed, be paid to the taxable person at such rate as may be prescribed and calculated in accordance with the regulations.
 
-(12) Where a taxable person fails to pay any amount of input tax on the supply to him of any goods or services in respect of which relief for bad debt or insolvency has been granted to the supplier under any regulations made under section 25(1) and such amount of input tax has been credited under subsection (2) or paid under subsection (5), the amount which he has failed to pay shall be deemed to be output tax on supplies which he makes and he shall accordingly be liable to account for it in the prescribed accounting period in which he knew or could with reasonable diligence have known that the relief had been granted.
+(12) Except as the Comptroller otherwise allows, where —
+
+(a) a taxable person fails to pay his supplier the consideration or any part thereof for the supply of any goods or services made by his supplier to him; and
+
+(b) the taxable person has credited under subsection (2) the input tax to which the consideration or the part thereof which he failed to pay relates,
+
+the taxable person shall account of an amount equal to such input tax —
+
+(i) in the prescribed accounting period during which the initial specified period expires; and
+
+(ii) in accordance with the method which he was required to use when he first credited the input tax,
+
+and the taxable person shall repay such amount to the Comptroller at the same time as any tax in respect of the prescribed accounting period would be payable by him.
+
+[38/2005 wef 01/01/2006]
+
+(12A) Where a taxable person —
+
+(a) has complied with subsection (12); and
+
+(b) during the subsequent specified period, pays his supplier the whole or part of the consideration for the supply of goods or services referred to in subsection (12)(a),
+
+the taxable person shall be entitled to treat an amount equal to the input tax relating to the payment referred to in paragraph (b) as if it were input tax for the prescribed accounting period during which the payment was made.
+
+[38/2005 wef 01/01/2006]
 
 (13) The Minister may by regulations provide —
 
@@ -729,6 +753,16 @@ being (in either case) goods or services used or to be used for the purpose of a
 (a) any such provision may be framed by reference to the description of goods or services supplied or goods imported, the person by whom they are supplied or imported or to whom they are supplied, the purposes for which they are supplied or imported, or any circumstances whatsoever; and
 
 (b) such regulations may contain provision for consequential relief from output tax.
+
+(15) In this section —
+
+“initial specified period” means a period of 12 months from the due date for payment of the consideration or the part thereof, as the case may be, by the taxable person to his supplier;
+
+“subsequent specified period” means a period commencing on the day immediately following the end of the initial specified period, and ending on a day 6 years from the end of the prescribed accounting period during which the relevant input tax was first credited under subsection (2).
+
+[38/2005 wef 01/01/2006]
+
+[UK VAT Act 1983, s. 14]
 
 ### Input tax allowable under section 19
 
@@ -864,7 +898,9 @@ not being services which are supplied directly in connection with —
 
 (o) the supply (including the letting on hire) of any ship or aircraft;
 
-(p) the repair, maintenance, broking or management of any ship or aircraft, being services which are provided to the owner, operator or agent of the ship or aircraft;
+(p) prescribed services comprising the repair, maintenance, broking or management of any ship or aircraft;
+
+[38/2005 wef 01/01/2006]
 
 (q) prescribed services comprising the provision of any means of telecommunication transmitted —
 
@@ -874,7 +910,9 @@ not being services which are supplied directly in connection with —
 
 (iii) from a place outside Singapore to a place in Singapore;
 
-(r) services supplied in relation to a trust, where the services and the person supplying the services satisfy such conditions as may be prescribed; or
+(r) services supplied in relation to a trust, where the services and the person supplying the services satisfy such conditions as may be prescribed;
+
+[38/2005 wef 01/01/2006]
 
 (s) services supplied —
 
@@ -882,11 +920,19 @@ not being services which are supplied directly in connection with —
 
 (ii) which directly benefit a person who belongs in a country other than Singapore,
 
-relating to the co-location in Singapore of computer server equipment belonging to the person referred to in sub-paragraph (i) or (ii).
+relating to the co-location in Singapore of computer server equipment belonging to the person referred to in sub-paragraph (i) or (ii);or
 
 [38/2005 wef 01/01/2006]
 
 [28/2007 wef 01/07/2007]
+
+(t) prescribed services in connection with the provision of an electronic system relating to the import of goods into or the export of goods out of Singapore.
+
+[38/2005 wef 01/01/2006]
+
+[28/2007 wef 01/07/2007]
+
+[33/2008 wef 01/01/2009]
 
 [25/96; 31/2000; 43/2002; 19/2003; 50/2004]
 
@@ -1600,13 +1646,25 @@ ACCOUNTING AND ASSESSMENTS
 
 (a) whereby, in such cases and subject to such conditions as may be determined by or under the regulations, tax in respect of a supply may be accounted for and paid by reference to the time when consideration for the supply is received; and any such regulations may make such modification of this Act (including in particular, but without prejudice to the generality of the power, the provisions as to the time when, and the circumstances in which, credit for input tax is to be allowed) as appear to the Minister necessary or expedient;
 
-(b) for the keeping of accounts in electronic form in a computer, and for —
+(b) for the keeping of accounts in electronic form in a computer;
 
-(i) the making and submission of returns; and
+[38/2005 wef 01/01/2006]
 
-(ii) the making of declarations to verify such returns,
+(ba) for the making and submission of returns through the electronic service, and for —
 
-through the electronic service;
+(i) requiring any prescribed class of persons to make and submit prescribed types of returns through the electronic service, except —
+
+(A) in such exceptional circumstances as the Comptroller may, in his discretion, determine; or
+
+(B) in such other circumstances as may be prescribed; and
+
+(ii) any procedure relating to the making and submission of returns through the electronic service;
+
+[38/2005 wef 01/01/2006]
+
+(bb) for the making of declarations to verify returns through the electronic service;
+
+[38/2005 wef 01/01/2006]
 
 (c) for treating tax chargeable in one prescribed accounting period as chargeable in another such period;
 
@@ -3356,8 +3414,6 @@ Transfer or disposal of business assets
 
 by the other person in or towards satisfaction of a debt owed by the taxable person, the goods shall be deemed to be supplied by the taxable person in the course or furtherance of his business.
 
-[S 647/2005 wef 07/10/2005]
-
 7.—(1) Where a person ceases to be a taxable person, any goods then forming part of the assets of a business carried on by him shall be deemed to be supplied by him in the course or furtherance of his business immediately before he ceases to be a taxable person, unless —
 
 (a) the business is transferred as a going concern to another taxable person;
@@ -3880,6 +3936,11 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of operation|31 July 2005|
 |22.|**G. N. No. S 647/2005—Goods and Services Tax Act (Amendment of Second Schedule) Order 2005**|
 ||Date of commencement|7 October 2005|
+|23.|**Act 38 of 2005—Goods and Services Tax (Amendment) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 37/2005 published on 9 December 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
