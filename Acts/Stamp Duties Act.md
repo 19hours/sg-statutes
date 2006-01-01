@@ -70,9 +70,9 @@
 
 - [22 Contracts, etc., to be chargeable as conveyances on sale](#Contracts-etc-to-be-chargeable-as-conveyances-on-sale)
 
-- [22A Contracts and instruments chargeable as conveyances on sale of residential property](#Contracts-and-instruments-chargeable-as-conveyances-on-sale-of-residential-property)
+- [22A (Repealed)](#Repealed)
 
-- [22B Exempted instruments made on or after 15th May 1996](#Exempted-instruments-made-on-or-after-15th-May-1996)
+- [22B (Repealed)](#Repealed)
 
 - [23 (Repealed)](#Repealed)
 
@@ -97,6 +97,8 @@
 - [32A Transfer of interest in limited liability partnership](#Transfer-of-interest-in-limited-liability-partnership)
 
 - [32B Conveyance between limited liability partnership and partner](#Conveyance-between-limited-liability-partnership-and-partner)
+
+- [32C Amalgamation of companies under sections 215A to 215H of Companies Act](#Amalgamation-of-companies-under-sections-215A-to-215H-of-Companies-Act)
 
 - [33 Directions as to disposal of shares in certain circumstances](#Directions-as-to-disposal-of-shares-in-certain-circumstances)
 
@@ -604,13 +606,19 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 ### Relief from ad valorem stamp duty
 
-15\.—(1) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, ad valorem stamp duty under Article 3(a), (b) and (c) in the First Schedule shall not be chargeable on any instrument made on or after 1st July 2000 for the purposes of or in connection with —
+15\.—(1) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, ad valorem stamp duty under Articles 3(a) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument made on or after 1st July 2000 for the purposes of or in connection with —
 
 (a) the transfer of the undertaking or shares in respect of a scheme for the reconstruction of any company or companies, or the amalgamation of companies;
 
-(b) the transfer, conveyance or assignment of any beneficial interest in any asset between associated companies; or
+(b) the transfer, conveyance or assignment of any beneficial interest in any asset between —
 
-[32/2000]
+(i) companies which are associated in such manner as may be prescribed;
+
+(ii) registered business trusts which are associated in such manner as may be prescribed; or
+
+(iii) companies and registered business trusts which are associated in such manner as may be prescribed; or
+
+[39/2005 wef 01/01/2006]
 
 (c) the conversion of a firm to a limited liability partnership under section 20 of the Limited Liability Partnerships Act 2005.
 
@@ -638,9 +646,13 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [32/2000]
 
-(4) In subsection (1), “firm” has the same meaning as in section 2(1) of the Business Registration Act (Cap. 32).
+(4) In this section —
 
-[6/2005 wef 11/04/2005]
+“firm” has the same meaning as in section 2(1) of the Business Registration Act (Cap. 32);
+
+“registered business trust” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A).
+
+[39/2005 wef 01/01/2006]
 
 ### Voluntary conveyance inter vivos
 
@@ -870,165 +882,9 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 [33/99]
 
-### Contracts and instruments chargeable as conveyances on sale of residential property
+22A\. 
 
-22A\.—(1) Subject to the provisions of this Act, every contract or agreement for the sale of any property which is chargeable with duty under section 22 (including any instrument chargeable in like manner) shall be charged with additional ad valorem duty (the amounts of which are indicated in the First Schedule), payable by the vendor of the property, in respect of the consideration for that sale as if it were an actual conveyance on sale of residential property if —
-
-(a) the contract or agreement was made on or after 15th May 1996; and
-
-(b) residential property or any part thereof is being disposed of under that contract or agreement before the expiration of 3 years from the date on which the vendor of the property acquired that property or any part thereof.
-
-[26/96]
-
-(2) Subject to the provisions of this Act, every instrument made on or after 15th May 1996 —
-
-(a) which is a conveyance or transfer operating as a voluntary disposition inter vivos of any property and is chargeable with duty under section 16 as if it were a conveyance or transfer on sale of that property;
-
-(b) whereby any property is transferred, by way of distribution in specie upon voluntary winding-up of a private company, to a person in his capacity as shareholder in that company; or
-
-(c) which is a lease or an agreement for lease of property for 60 years or more,
-
-shall be treated for the purpose of this section as a conveyance on sale of residential property and chargeable with the same additional ad valorem duty under subsection (1), payable by the transferor or lessor, as the case may be, in respect of the value of the property so conveyed or transferred or, in the case of a lease or an agreement for a lease made for any consideration, in respect of that consideration, if residential property or any part thereof is being disposed of under that instrument before the expiration of 3 years from the date on which the transferor or lessor, as the case may be, acquired that property or any part thereof.
-
-[26/96]
-
-(3) Subject to the provisions of this Act, any instrument made on or after 15th May 1996 whereby an exchange of any property is effected or agreed to be effected shall be treated for the purpose of this section as a conveyance on sale of residential property if residential property or any part thereof is being disposed of under the instrument by any party thereto before the expiration of 3 years from the date on which the party acquired the residential property or any part thereof.
-
-[26/96]
-
-(3A) Any instrument mentioned in subsection (3) shall be charged with additional ad valorem duty under subsection (1) as if it were an actual conveyance on sale of residential property by the party who acquired his property later for a consideration equal to the value of the property of greater value.
-
-[26/96]
-
-(4) Subject to the provisions of this Act, a conveyance or transfer of shares in a private company made on or after 15th May 1996, whether —
-
-(a) on a sale;
-
-(b) by way of gift, release or settlement; or
-
-(c) under a declaration of trust where the beneficial interest in the shares passes,
-
-before the expiration of 3 years from the date on which the vendor or transferor of those shares acquired those shares shall be treated for the purpose of this section as a conveyance on sale of residential property by the vendor or transferor of those shares and charged with the same ad valorem duty under subsection (1) in respect of the consideration of the sale or, in the case of transfers or conveyances under paragraph (b) or (c), in respect of the value of those shares if, at the time of the conveyance or transfer, residential property or shares in one or more relevant investment companies, or both such property and shares, constitute in the aggregate at least 75% of the market value of the total tangible assets of the private company as at the end of the accounting period of that private company immediately before the date of the conveyance or transfer.
-
-[26/96]
-
-(5) Where in any conveyance on sale of residential property (including any instrument which is chargeable in like manner) the vendors or transferors of the property are joint owners of that property, the duty payable by each vendor or transferor under this section shall be a proportion of the duty commensurate with their respective shares in that residential property.
-
-[26/96]
-
-(5A) For the purpose of subsection (5), joint tenants of any property shall be presumed, until the contrary is proved, to have equal shares in the property.
-
-[26/96]
-
-(6) For the purposes of determining the additional duty chargeable upon a conveyance on sale of residential property (including any instrument which is chargeable in like manner) —
-
-(a) the consideration for the sale or the value of the property, whichever is applicable, shall be reduced by such amount as the Commissioner considers to be attributable to such part of the property which is lawfully used for purposes other than residential purposes; and
-
-(b) where parts of the property were acquired by the vendor or transferor at different times, the duty shall be reduced by such amount as the Commissioner determines to be in excess of the duty which would have been chargeable under this section if the property had been conveyed in separate parts.
-
-[26/96]
-
-(6A) The decisions of the Commissioner under subsection (6)(a) and (b), respectively, shall be final.
-
-[26/96]
-
-(7) Section 22(3) and (5) shall apply to a vendor or transferor of residential property as if —
-
-(a) the references in those provisions to purchaser or sub-purchaser are substituted with references to such vendor or transferor; and
-
-(b) the references in those provisions to duty under that section are substituted with references to the additional duty under this section.
-
-[26/96]
-
-(7A) Where any duty paid under section 22 in respect of any contract or agreement is refunded under that section, any additional duty paid under this section in respect of that same contract or agreement shall likewise be refunded.
-
-[26/96]
-
-(8) Subject to subsections (9) and (10), where any residential property or any share in a private company is acquired or disposed of —
-
-(a) under contract, the time at which the acquisition or disposal is made shall be the time the contract is made (and not, if different, the time at which the property or share is conveyed or transferred), and if the contract is conditional on the exercise of an option, the time at which the acquisition or disposal is made shall be the time when the option is exercised;
-
-(b) by way of gift, release or settlement or under a declaration of trust, the time at which the acquisition or disposal is made shall be the time when the property or share or any beneficial interest therein passes; or
-
-(c) by any other means, the time at which the acquisition or disposal is made shall be the time the property or share or any interest therein is vested or divested, as the case may be, by operation of law or otherwise.
-
-[26/96]
-
-(9) In this section —
-
-(a) a reference to a private company is a reference to a company other than a company the shares in which are listed on any stock exchange in Singapore or elsewhere;
-
-(b) a reference to a relevant investment company is a reference to any private company which has residential property the value of which comprises at least 75% of the market value of its total tangible assets as at the end of the accounting period of the company immediately before the date of the conveyance or transfer of shares referred to in subsection (4);
-
-(c) a reference to acquisition or disposal of any residential property or any share in a private company shall not include a reference to a conveyance or transfer by way of security of any property (including a re-transfer on redemption of the security);
-
-(d) where a person entitled to any property by way of security or to the benefit of a charge or incumbrance on any property deals with the property for the purposes of enforcing or giving effect to the security, charge or incumbrance, his dealings with it shall be treated as if they were done through him as nominee by the person entitled to it subject to the security, charge or incumbrance;
-
-(e) a reference to disposal of any residential property or any share in a private company shall not include a reference to a disposal as a result of bankruptcy, dissolution, receivership or winding-up of the owner of the property or shares, other than a voluntary winding-up; and
-
-(f) a reference to a person acquiring any residential property shall include a reference to a situation where, subsequent to his acquisition of any land, building or part thereof or any interest therein, the land is zoned in the Master Plan for residential purposes or the building or part thereof is permitted under the Planning Act (Cap. 232) to be used as a dwelling-house, and the time at which the acquisition is made shall be the time when the zoning in the Master Plan is altered in such manner or when the permission under that Act is granted, as the case may be.
-
-[26/96]
-
-(10) The Minister may by rules published in theGazetteprescribe a different time at which residential property or any share in a private company is acquired or disposed of under any particular class of instruments or any instruments executed by or in favour of any person or class of persons.
-
-[26/96]
-
-(11) Nothing in this section shall require payment of duty in respect of any conveyance or transfer on sale or any contract or agreement for a sale of residential property by —
-
-(a) any public authority established by written law pursuant to the exercise of its functions and duties;
-
-(b) any person disposing of residential property in accordance with any of the provisions of the Residential Property Act (Cap. 274) or any notice or direction issued thereunder; or
-
-(c) any licensed housing developer in accordance with any of the provisions of the Housing Developers (Control and Licensing) Act (Cap. 130).
-
-[26/96]
-
-### Exempted instruments made on or after 15th May 1996
-
-22B\.—(1) Notwithstanding any other provision in this Act, where —
-
-(a) any contract or agreement for the sale of an HDB flat is made before 15th May 1996 subject to the approval of the Housing and Development Board;
-
-(b) the owner of the HDB flat has immediately before that date occupied the HDB flat for not less than the period specified by the Board in relation to that owner; and
-
-(c) the application for the approval of the Board is made to the Board before 15th June 1996,
-
-the contract or agreement shall be chargeable with duty under this Act as if it had not been amended by the Stamp Duties (Amendment) Act 1996 (Act 26 of 1996).
-
-[26/96]
-
-(2) Notwithstanding any other provision in this Act, where —
-
-(a) an option is granted in favour of the Board before 15th May 1996 in respect of an HDB flat or an option is granted before that date in respect of any other immovable property;
-
-(b) the option is exercised at any time after that date but before 15th June 1996; and
-
-(c) the contract or agreement resulting from the exercise of the option is presented at any stamp office before 15th June 1996 for the purpose of being stamped,
-
-that contract or agreement shall be chargeable with duty under this Act as if it had not been amended by the Stamp Duties (Amendment) Act 1996.
-
-[26/96]
-
-(3) For the purpose of determining any penalty under section 46, any contract or agreement which is chargeable with duty under this Act as amended by the Stamp Duties (Amendment) Act 1996 by reason only of any failure to comply with subsection (1)(c) or (2)(c) shall be deemed to have been first executed in Singapore or, if first executed outside Singapore, to have been first received in Singapore on the following dates:
-
-(a) in the case of a contract or agreement for the sale of an HDB flat — on the date of the first appointment with the Board in relation to the sale; or
-
-(b) in the case of a contract or agreement resulting from an option referred to in subsection (2)(a) — on 14th June 1996 or the actual date of its first execution or first receipt in Singapore, whichever date is later.
-
-[26/96]
-
-(4) In this section —
-
-“Board” and “Housing and Development Board” mean the Housing and Development Board constituted under the Housing and Development Act (Cap. 129);
-
-“HDB flat” means any flat sold by the Board subject to the provisions of Part IV of the Housing and Development Act;
-
-“option” means an option where the grantor binds himself to sell;
-
-“owner”, in relation to any flat, means a purchaser of a leasehold interest in the flat, including a purchaser under an agreement for a lease.
-
-[26/96]
+22B\. 
 
 Sale of annuity or right not before in existence
 
@@ -1304,6 +1160,30 @@ shall be reduced by the proportion determined in accordance with subsection (2).
 
 [6/2005 wef 11/04/2005]
 
+### Amalgamation of companies under sections 215A to 215H of Companies Act
+
+32C\.—(1) This section shall apply to an amalgamation of companies in accordance with sections 215A to 215H of the Companies Act (Cap. 50), where applicable.
+
+(2) Every notice of amalgamation issued by the Registrar of Companies under section 215F of the Companies Act upon an amalgamation referred to in subsection (1) shall be treated for the purposes of this Act as a conveyance on sale —
+
+(a) by each amalgamating company (referred to in this section as the transferor) in respect of the chargeable property held by that transferor which is transferred to and vested in the amalgamated company (referred to in this section as the transferee) upon the amalgamation; and
+
+(b) for a consideration equal to —
+
+(i) the value of the chargeable property so vested; or
+
+(ii) where the amount of consideration is specified in any instrument relating to the transfer of the chargeable property by the transferor to, and the vesting of the chargeable property in, the transferee, that amount,
+
+whichever is the higher.
+
+(3) In this section, “chargeable property” means —
+
+(a) immovable property situate in Singapore, or any beneficial interest thereof; and
+
+(b) stocks and shares registered in a register kept in Singapore, or any beneficial interest thereof, other than stocks and shares deposited with and registered in the name of the Central Depository System established under section 130C of the Companies Act or its nominee.
+
+[39/2005 wef 01/01/2006]
+
 ### Directions as to disposal of shares in certain circumstances
 
 33\. Where a disposal of shares in a company by a transferor to a transferee is effected by —
@@ -1368,7 +1248,7 @@ Obligation to give receipts
 
 (c) any instrument which relates exclusively to things to be done outside Singapore;
 
-(d) any instrument for the transfer on sale of any stock issued by or on behalf of any government or State, other than the Government of Singapore, or of any stock issued by or on behalf of any corporation, company, or body of persons incorporated, formed or established outside Singapore, except stock registered in a register kept in Singapore;
+(d) any instrument for the transfer on sale or transfer by way of gift of any stock issued by or on behalf of any government or State, other than the Government of Singapore, or of any stock issued by or on behalf of any corporation, company, or body of persons incorporated, formed or established outside Singapore, except stock registered in a register kept in Singapore;
 
 (e) any instrument executed by or on behalf of or in favour of a co-operative society registered under the Co-operative Societies Act (Cap. 62) or executed by an officer or member of any such co-operative society and relating solely to the business of the co-operative society where, but for this exemption, the co-operative society would be liable under section 34 to pay the duty chargeable on that instrument;
 
@@ -2668,6 +2548,11 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|11 April 2005|
 |62.|**G. N. No. S 448/2005—Stamp Duties Act (Amendment of Fifth Schedule) Notification 2005**|
 ||Date of commencement|8 July 2005|
+|63.|**Act 39 of 2005—Stamp Duties (Amendment No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 38/2005 published on 9 December 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
