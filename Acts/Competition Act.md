@@ -166,7 +166,7 @@
 
 - [65 Power to enter premises under warrant](#Power-to-enter-premises-under-warrant)
 
-- [66 Privileged communication](#Privileged-communication)
+- [66 Self-incrimination and savings for professional legal advisers](#Self-incrimination-and-savings-for-professional-legal-advisers)
 
 - [67 Interim measures](#Interim-measures)
 
@@ -227,6 +227,8 @@
 - [90 Protection from personal liability](#Protection-from-personal-liability)
 
 - [91 Public servants](#Public-servants)
+
+- [91A Proceedings conducted by officers of Commission](#Proceedings-conducted-by-officers-of-Commission)
 
 - [92 Amendment of Third and Fourth Schedules](#Amendment-of-Third-and-Fourth-Schedules)
 
@@ -1368,13 +1370,17 @@ Enforcement
 
 (c) require any person to state, to the best of his knowledge and belief, where any such document is to be found;
 
-(d) take copies of, or extracts from, any document which is produced; and
+(d) take copies of, or extracts from, any document which is produced;
 
 (e) require any information which is stored in any electronic form and is accessible from the premises and which the investigating officer or inspector considers relates to any matter relevant to the investigation, to be produced in a form —
 
 (i) in which it can be taken away; and
 
-(ii) in which it is visible and legible.
+(ii) in which it is visible and legible; and
+
+(f) take any step which appears to be necessary for the purpose of preserving or preventing interference with any document which he considers relates to any matter relevant to the investigation.
+
+[40/2005 wef 01/01/2006]
 
 ### Power to enter premises under warrant
 
@@ -1470,19 +1476,25 @@ as the case may be;
 
 “occupier”, in relation to any premises, means a person whom the named officer reasonably believes is the occupier of those premises.
 
-### Privileged communication
+### Self-incrimination and savings for professional legal advisers
 
-66\. A person shall not be permitted, under any provision of this Part, to produce or disclose —
+66\.—(1) A person is not excused from disclosing any information or document to the Commission or, as the case may be, to an inspector or investigating officer, under a requirement made of him under any provision of this Act on the ground that the disclosure of the information or document might tend to incriminate him.
 
-(a) any communication —
+(2) Where a person claims, before making a statement disclosing information that he is required to under any provision of this Act to the Commission or, as the case may be, to an inspector or investigating officer, that the statement might tend to incriminate him, that statement —
 
-(i) between a professional legal adviser and his client; or
+(a) shall not be admissible in evidence against him in criminal proceedings other than proceedings under Part V; but
 
-(ii) made in connection with, or in contemplation of, legal proceedings and for the purposes of those proceedings,
+(b) shall, for the avoidance of doubt, be admissible in evidence in civil proceedings, including proceedings under this Act.
 
-which in proceedings in a court would be protected from disclosure on grounds of privilege; or
+(3) Nothing in this Part shall —
 
-(b) any information or document which might tend to incriminate him or make him liable to a penalty.
+(a) compel a professional legal adviser to disclose or produce a privileged communication, or a document or other material containing a privileged communication, made by or to him in that capacity; or
+
+(b) authorise the taking of any such document or other material which is in his possession.
+
+(4) A professional legal adviser who refuses to disclose the information or produce the document or other material referred to in subsection (3) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
+
+[40/2005 wef 01/01/2006]
 
 ### Interim measures
 
@@ -1581,6 +1593,10 @@ General
 ### Appealable decisions
 
 71\.—(1) Any party to an agreement in respect of which the Commission has made a decision, any person in respect of whose conduct the Commission has made a decision, or any party involved in a merger in respect of which the Commission has made a decision, may appeal within the prescribed period to the Board against, or with respect to, that decision.
+
+(1A) Any person, other than a person referred to in subsection (1), to whom the Commission has given a direction under section 67 or 69 may appeal within the prescribed period to the Board against, or with respect to, that direction.
+
+[40/2005 wef 01/01/2006]
 
 (2) Except in the case of an appeal against the imposition, or the amount, of a financial penalty, the making of an appeal under this section shall not suspend the effect of the decision to which the appeal relates.
 
@@ -2038,6 +2054,18 @@ for anything done (including any statement made) or omitted to be done in good f
 
 91\. All members, officers and employees of the Commission, all inspectors and all members of the Board shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
 
+### Proceedings conducted by officers of Commission
+
+91A\.—(1) Proceedings in respect of an offence under this Act may be conducted by an officer of the Commission who is authorised in writing in that behalf by the Chief Executive.
+
+(2) Notwithstanding the provisions of any written law, a legal officer of the Commission who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) may —
+
+(a) appear in any civil proceedings involving the Commission in the performance of its functions or duties under any written law; and
+
+(b) make and do all acts and applications in respect of the civil proceedings on behalf of the Commission.
+
+[40/2005 wef 01/01/2006]
+
 ### Amendment of Third and Fourth Schedules
 
 92\. The Minister may at any time, by order published in theGazette, amend the Third and Fourth Schedules.
@@ -2346,7 +2374,39 @@ Vertical agreements
 
 8.—(1) The section 34 prohibition shall not apply to any vertical agreement, other than such vertical agreement as the Minister may by order specify.
 
-(2) In this paragraph, “vertical agreement” means any agreement or concerted practice entered into between 2 or more undertakings each of which operates, for the purposes of the agreement, at a different level of the production or distribution chain, and relating to the conditions under which the parties may purchase, sell or resell certain goods or services.
+(2) In this paragraph, “vertical agreement” means any agreement entered into between 2 or more undertakings each of which operates, for the purposes of the agreement, at a different level of the production or distribution chain, and relating to the conditions under which the parties may purchase, sell or resell certain goods or services and includes provisions contained in such agreements which relate to the assignment to the buyer or use by the buyer of intellectual property rights, provided that those provisions do not constitute the primary object of the agreement and are directly related to the use, sale or resale of goods or services by the buyer or its customers.
+
+[S 870/2005 wef 01/01/2006]
+
+Agreements with net economic benefit
+
+9. The section 34 prohibition shall not apply to any agreement which contributes to —
+
+(a) improving production or distribution; or
+
+(b) promoting technical or economic progress,
+
+but which does not —
+
+(i) impose on the undertakings concerned restrictions which are not indispensable to the attainment of those objectives; or
+
+(ii) afford the undertakings concerned the possibility of eliminating competition in respect of a substantial part of the goods or services in question.
+
+[S 870/2005 wef 01/01/2006]
+
+Provisions directly related and necessary to implementation of mergers
+
+10. The section 34 prohibition and the section 47 prohibition shall not apply to any agreement or conduct that is directly related and necessary to the implementation of a merger.
+
+[23/2007 wef 01/01/2006]
+
+Mergers
+
+11.—(1) The section 34 prohibition shall not apply to any agreement (either on its own or when taken together with another agreement) to the extent that it results, or if carried out would result, in a merger.
+
+(2) The section 47 prohibition shall not apply to any conduct (either on its own or when taken together with other conduct) to the extent that it results in a merger.
+
+[23/2007 wef 01/01/2006]
 
 FOURTH SCHEDULE
 
