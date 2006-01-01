@@ -642,13 +642,19 @@ the tribunal may make an award dismissing the claim.
 
 ### Witnesses may be summoned by subpoena
 
-30\.—(1) Any party to an arbitration agreement may take out a writ of subpoena ad testificandum (writ to compel witness to attend and give evidence) or a writ of subpoena duces tecum (writ to compel witness to attend and give evidence and produce specified documents).
+30\.—(1) Any party to an arbitration agreement may take out a subpoena to testify or a subpoena to produce documents.
 
-(2) The Court may order that a writ of subpoena ad testificandum or a writ of subpoena duces tecum shall be issued to compel the attendance before an arbitral tribunal of a witness wherever he may be within Singapore.
+[42/2005 wef 01/01/2006]
+
+(2) The Court may order that a subpoena to testify or a subpoena to produce documents shall be issued to compel the attendance before an arbitral tribunal of a witness wherever he may be within Singapore.
+
+[42/2005 wef 01/01/2006]
 
 (3) The Court may also issue an order under section 38 of the Prisons Act (Cap. 247) to bring up a prisoner for examination before an arbitral tribunal.
 
-(4) No person shall be compelled under any such writ to produce any document which he could not be compelled to produce on the trial of an action.
+(4) No person shall be compelled under any such subpoena to produce any document which he could not be compelled to produce on the trial of an action.
+
+[42/2005 wef 01/01/2006]
 
 ### Court’s powers exercisable in support of arbitration proceedings
 
@@ -1194,6 +1200,11 @@ This Legislative History is provided for the convenience of users of the Arbitra
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003|
+|4.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1st January 2006 (Item (4) of Fifth Schedule — Amendment of Arbitration Act)|
 ## COMPARATIVE TABLE
 
 Arbitration Act
