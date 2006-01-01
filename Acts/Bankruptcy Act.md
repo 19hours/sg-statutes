@@ -602,7 +602,7 @@ Procedure
 
 ### Manner of taking evidence
 
-15\. Subject to the rules, the court may in any matter take the whole or any part of any evidence either viva voce or by interrogatories or upon affidavit or by commission abroad.
+15\. Subject to the rules, the court may in any matter take the whole or any part of any evidence either orally or by interrogatories or upon affidavit or by commission abroad.
 
 ### Costs to be in court’s discretion
 
@@ -3226,6 +3226,12 @@ This Legislative History is provided for the convenience of users of the Bankrup
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|15 July 2005|
 |||(section 2 — Amendment of Bankruptcy Act)|
+|14.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
+|||(item (6) of Fifth Schedule — Amendment of Bankruptcy Act)|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
