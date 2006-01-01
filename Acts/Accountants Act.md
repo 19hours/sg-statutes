@@ -1220,9 +1220,9 @@ the Oversight Committee shall appoint a Disciplinary Committee to conduct the fo
 
 (7) If the public accountant, accounting corporationor accounting firm concerned does not appear, the Disciplinary Committee may proceed with the formal inquiry after satisfying itself that the notice referred to in section 50 was duly served on him or it.
 
-(8) A Disciplinary Committee may, for the purposes of its formal inquiry, administer an oath or affirmation to any person giving evidence before it, and any party to the proceedings may sue out writs of subpoena ad testificandum and of duces tecum.
+(8) A Disciplinary Committee may, for the purposes of its formal inquiry, administer an oath or affirmation to any person giving evidence before it, and any party to the proceedings may sue out subpoenas to testify or to produce documents.
 
-(9) The writs referred to in subsection (8) shall be served and may be enforced as if they were writs issued in connection with a civil action in the High Court.
+(9) The subpoenas referred to in subsection (8) shall be served and may be enforced as if they were subpoenas issued in connection with a civil action in the High Court.
 
 (10) Any person giving evidence before a Disciplinary Committee shall be legally bound to tell the truth.
 
@@ -1712,3 +1712,8 @@ This Legislative History is provided for the convenience of users of the Account
 ||Date of commencement|1 September 2004 (except section 3)|
 |3.|**2005 Revised Edition—Accountants Act**|
 ||Date of operation|31 July 2005|
+|4.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1 January 2006 (item (2) of the Fifth Schedule)|
