@@ -2204,7 +2204,9 @@ subject to the same right of the accused to object.
 
 ### Proceedings not to be set aside
 
-96\. Subject to section 112(3), no proceedings of a subordinate military court shall be set aside or deemed to be void for want of form or be removed by certiorari or otherwise into any civil court.
+96\. Subject to section 112(3), no proceedings of a subordinate military court shall be set aside or deemed to be void for want of form or be removed by a Quashing Order or otherwise into any civil court.
+
+[42/2005 wef 01/01/2006]
 
 ### Application of general rules of evidence
 
@@ -4226,6 +4228,11 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 16/2004 published on 20 April 2004)|
 ||Date of Second and Third Readings|19 May 2004|
 ||Date of commencement|31 December 2004|
+|17.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
