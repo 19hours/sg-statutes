@@ -528,7 +528,7 @@ may exercise any of the functions of the Chairman.
 
 [11/89]
 
-(7) If no cause is shown on or before the date specified in the notice under subsections (4) and (6), the Judge shall immediately make the interim order absolute and direct the sale of the attached property or transfer the management of the business enterprise to the Board or confirm the injunction.
+(7) If no cause is shown on or before the date specified in the notice under subsections (4) and (6), the Judge shall immediately make the interim order final and direct the sale of the attached property or transfer the management of the business enterprise to the Board or confirm the injunction.
 
 [11/89]
 
@@ -801,6 +801,11 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|19.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (Item (10) of the Fifth Schedule – Amendment of Economic Development Board Act)|
 ## COMPARATIVE TABLE
 
 Economic Development Board Act
