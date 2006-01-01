@@ -142,8 +142,6 @@ Powers and Duties of Public Trustee
 
 (1A) In addition to the powers and duties under subsection (1), the Public Trustee may undertake such other functions and duties relating to victims of motor accidents and their claims to compensation as the Minister may assign to him.
 
-[9/2003 wef 16/05/2003]
-
 (2) Subject to and in accordance with this Act and the rules made thereunder, the Public Trustee may act either alone or jointly with any person or body of persons in any capacity to which he is appointed in pursuance of this Act, and shall have all the same powers, duties and liabilities, and be entitled to the same rights and immunities and be subject to the control and orders of the court, as a private trustee acting in the same capacity.
 
 (3) The Public Trustee may decline, either absolutely or except on the prescribed conditions, to accept any trust, but he shall not decline to accept any trust on the ground only of the small value of the trust property.
@@ -164,7 +162,7 @@ Provided that the Public Trustee may in writing authorise an Assistant Public Tr
 
 ### Public Trustee may represent minor in certain cases
 
-5\.—(1) The Public Trustee may, on his own application, or on the application of any other person by summons, be appointed by the court to act as next friend of any minor for the purpose of instituting any suit or proceeding in the name of the minor.
+5\.—(1) The Public Trustee may, on his own application or on the application of any other person made by originating summons or summons, as appropriate, be appointed by the court to act as next friend of any minor for the purpose of instituting any suit or proceeding in the name of the minor.
 
 [42/2005 wef 01/01/2006]
 
@@ -190,7 +188,7 @@ In the Administration of Small Estates
 
 ### Vesting of trust property
 
-(2) On the Public Trustee undertaking, by declaration in writing signed and sealed by him, to administer the estate, the trust property other than stock shall, by virtue of this Act, vest in him, and the right to transfer or call for the transfer of any stock forming part of the estate shall also vest in him, in like manner as if vesting orders had been made for the purpose by the court under the Trustees Act [Cap. 337], and that Act shall apply accordingly:
+(2) On the Public Trustee undertaking, by declaration in writing signed and sealed by him, to administer the estate, the trust property other than stock shall, by virtue of this Act, vest in him, and the right to transfer or call for the transfer of any stock forming part of the estate shall also vest in him, in like manner as if vesting orders had been made for the purpose by the court under the Trustees Act (Cap. 337), and that Act shall apply accordingly:
 
 Provided that the Public Trustee shall not exercise the right of himself transferring the stock without the leave of the court.
 
@@ -218,7 +216,7 @@ As an Ordinary Trustee
 
 ### Retirement
 
-(2) Where the Public Trustee has been appointed a trustee of any trust, a co-trustee may retire from the trust under and in accordance with section 43 of the Trustees Act [Cap. 337], notwithstanding that there are not more than two trustees, and without such consents as are required by that section.
+(2) Where the Public Trustee has been appointed a trustee of any trust, a co-trustee may retire from the trust under and in accordance with section 43 of the Trustees Act (Cap. 337), notwithstanding that there are not more than two trustees, and without such consents as are required by that section.
 
 ### Contrary provisions in trust instrument
 
@@ -424,6 +422,10 @@ Rules
 
 [9/2003 wef 16/05/2003]
 
+(3) [Deleted by Act 9/2003 wef 16/05/2003]
+
+(4) [Deleted by Act 9/2003 wef 16/05/2003]
+
 ## LEGISLATIVE HISTORY
 
 Public Trustee Act
@@ -485,3 +487,8 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003 (Section 13 – Amendment of Public Trustee Act)|
+|19.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (Item (29) of the First Schedule – Amendment of Public Trustee Act)|
