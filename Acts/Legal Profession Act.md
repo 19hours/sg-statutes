@@ -46,9 +46,9 @@
 
 - [16 Hong Kong practitioners](#Hong-Kong-practitioners)
 
-- [17 Petitions for admission under sections 11 (1) and 15 (1)](#Petitions-for-admission-under-sections-11-1-and-15-1)
+- [17 Applications for admission under sections 11 (1) and 15 (1)](#Applications-for-admission-under-sections-11-1-and-15-1)
 
-- [18 Petitions for admission under section 15 (2)](#Petitions-for-admission-under-section-15-2)
+- [18 Applications for admission under section 15 (2)](#Applications-for-admission-under-section-15-2)
 
 - [19 Service of documents and objections](#Service-of-documents-and-objections)
 
@@ -58,7 +58,7 @@
 
 - [22 Review of Board’s decision](#Review-of-Board’s-decision)
 
-- [23 Hearing of petition](#Hearing-of-petition)
+- [23 Hearing of application](#Hearing-of-application)
 
 - [24 Declaration, duty and roll](#Declaration-duty-and-roll)
 
@@ -340,7 +340,7 @@
 
 - [122 Time limit for taxation of bills of costs](#Time-limit-for-taxation-of-bills-of-costs)
 
-- [123 Petitions for taxation to contain submission to pay](#Petitions-for-taxation-to-contain-submission-to-pay)
+- [123 Applications for taxation to contain submission to pay](#Applications-for-taxation-to-contain-submission-to-pay)
 
 - [124 Order for delivery of bill of costs to be obtained as of course](#Order-for-delivery-of-bill-of-costs-to-be-obtained-as-of-course)
 
@@ -388,7 +388,7 @@
 
 - [134 Recovery of moneys by Society](#Recovery-of-moneys-by-Society)
 
-- [135 Rules Committee to prescribe certain fees](#Rules-Committee-to-prescribe-certain-fees)
+- [135 Rules Committee to prescribe certain fees and costs](#Rules-Committee-to-prescribe-certain-fees-and-costs)
 
 - [136 Relief to banks](#Relief-to-banks)
 
@@ -470,7 +470,9 @@ PRELIMINARY
 
 [41/2005 wef 04/12/2006]
 
-“Malayan practitioner” means any qualified person entitled to practise before a High Court in any part of Western Malaysia;
+“Malayan practitioner” means any person entitled to practise before a High Court in any part of West Malaysia;
+
+[42/2005 wef 01/01/2006]
 
 “practising certificate” means a certificate issued by the Registrar under section 25;
 
@@ -536,11 +538,7 @@ PRELIMINARY
 
 (d) the Second Schedule.
 
-[23/2004 wef 01/04/2005]
-
 (5) In the definition of “specified person” in section 79(2), reference to a member of a law firm shall be construed to include a locum solicitor engaged by the law firm.
-
-[23/2004 wef 01/04/2005]
 
 ## PART II
 
@@ -742,7 +740,7 @@ Qualified persons
 
 [10/91]
 
-(3) A pupil shall, before his petition is heard, attend and satisfactorily complete a course of instruction organised or recognised by the Board for the purposes of this section unless exempted therefrom under section 12(2).
+(3) A pupil shall, before his application for admission is heard, attend and satisfactorily complete a course of instruction organised or recognised by the Board for the purposes of this section unless exempted therefrom under section 12(2).
 
 [42/2005 wef 01/01/2006]
 
@@ -798,9 +796,11 @@ Qualified persons
 
 ### Admission of Malayan practitioners
 
-15\.—(1) A Malayan practitioner who does not qualify under subsection (2) may be admitted as an advocate and solicitor without being required to serve any period of pupillage or to attend any courses of instruction, but he shall not be admitted unless he has satisfied the Board in such examinations as may be prescribed by the Board.
+15\.—(1) A Malayan practitioner who is a qualified person but who does not qualify under subsection (2) may be admitted as an advocate and solicitor without being required to serve any period of pupillage or to attend any course of instruction if he passes such examinations as may be prescribed by the Board.
 
-(2) A Malayan practitioner who has been in active practice in any part of Malaysia for a continuous period of not less than 3 years in the 4 years immediately preceding his petition for admission may be admitted as an advocate and solicitor without being required to serve any period of pupillage or to attend any course of instruction or to pass any examination.
+(2) A Malayan practitioner who is a qualified person and who has been in active practice in any part of West Malaysia for a continuous period of not less than 3 years in the 4 years immediately preceding his application for admission may be admitted as an advocate and solicitor without being required to serve any period of pupillage or to attend any course of instruction or to pass any examination.
+
+[42/2005 wef 01/01/2006]
 
 ### Hong Kong practitioners
 
@@ -824,61 +824,77 @@ Qualified persons
 
 [17/84]
 
-### Petitions for admission under sections 11 (1) and 15 (1)
+### Applications for admission under sections 11 (1) and 15 (1)
 
 17\.—(1) This section shall apply to every person who proposes to apply to be admitted as an advocate and solicitor by virtue of section 11(1)(a) or 15(1).
 
-(2) An application for admission by such person shall be by a petition to the court and the petition shall be verified by affidavit.
+(2) An application for admission by such person shall be made to the court by an originating summons supported by an affidavit referred to in subsection (4).
 
-(3) The petitioner shall file his petition in the Registrar’s office accompanied by a notice intimating that he has so applied, which notice shall be posted and continue to be posted at the Supreme Court for 6 months before the petitioner is admitted as an advocate and solicitor.
+(3) The applicant shall file his application in the Registrar’s office accompanied by a notice intimating that he has so applied, which notice shall be posted and continue to be posted at the Supreme Court for 6 months before the applicant is admitted as an advocate and solicitor.
 
-(4) Every petitioner shall, not less than 12 days before his petition is to be heard, file an affidavit exhibiting to that affidavit —
+(4) Every applicant shall, not less than 12 days before his application is to be heard, file an affidavit exhibiting the following documents:
 
-(a) true copies of any documentary evidence showing that he is a qualified person or a Malayan practitioner, as the case may be;
+(a) in the case of a person applying for admission by virtue of section 11(1)(a), a certificate signed by the Secretary of the Board certifying that the applicant has satisfied the relevant requirements under this Act to be a qualified person;
 
-(b) 2 recent certificates as to his good character;
+(b) in the case of a person applying for admission by virtue of section 15(1), true copies of any documentary evidence showing that he is a Malayan practitioner;
 
-(c) a certificate of diligence from each master with whom the petitioner served his pupillage in cases where the petitioner is required to serve a period of pupillage or in the absence thereof such other evidence as the court may require that he has served the pupillage with diligence; and
+(c) 2 recent certificates as to his good character;
 
-(d) a certificate signed by the Secretary of the Board that the petitioner has satisfactorily served the period of pupillage or articles (or has been exempted therefrom under section 14(5), has attended the courses of instruction (or has been exempted therefrom under section 12(2)) and has passed any examinations that may be required in his case under the provisions of this Act.
+(d) a certificate of diligence from each master with whom the applicant served his pupillage in cases where the applicant is required to serve a period of pupillage or in the absence thereof such other evidence as the court may require that he has served the pupillage with diligence; and
 
-(5) The petition, notice, affidavit and certificates referred to in this section shall be in the form prescribed by the Board.
+(e) a certificate signed by the Secretary of the Board that the applicant has —
 
-### Petitions for admission under section 15 (2)
+(i) satisfactorily served the period of pupillage or articles (or has been exempted therefrom under section 14(5));
+
+(ii) attended the courses of instruction and kept the dining terms (or has been exempted therefrom under section 12(2)); and
+
+(iii) passed any examination that may be required in his case under the provisions of this Act.
+
+(5) The affidavit and certificates referred to in this section shall be in the form prescribed by the Board.
+
+[42/2005 wef 01/01/2006]
+
+### Applications for admission under section 15 (2)
 
 18\.—(1) This section shall apply to every person who applies to be admitted as an advocate and solicitor by virtue of section 15(2).
 
-(2) An application for admission by such a person shall be by a petition to the court and the petition shall be verified by affidavit.
+(2) An application for admission by such person shall be made to the court by originating summons supported by an affidavit referred to in subsection (4).
 
-(3) The petitioner shall file his petition in the Registrar’s office not less than one month before it is to be heard.
+(3) The applicant shall file his application in the Registrar’s office not less than one month before it is to be heard.
 
-(4) The petition shall have exhibited to it —
+(4) The affidavit supporting the application shall exhibit —
 
-(a) a true copy of the order of court admitting and enrolling the petitioner as a Malayan practitioner;
+(a) a true copy of the order of court admitting and enrolling the applicant as a Malayan practitioner;
 
-(b) a certificate issued by another Malayan practitioner who shall be of not less than 7 years’ standing that to his personal knowledge the petitioner has been in active practice in Malaysia for a continuous period of not less than 3 years in the 4 years immediately preceding the petition; and
+(b) a certificate issued by another Malayan practitioner who shall be of not less than 7 years’ standing that to his personal knowledge the applicant has been in active practice in West Malaysia for a continuous period of not less than 3 years in the 4 years immediately preceding the application; and
 
-(c) a recent certificate issued by the secretary or other officer of the body charged with responsibility for investigating allegations of professional misconduct or breaches of professional discipline in those parts of Malaysia where the petitioner has practised that at the date of the certificate no disciplinary proceedings are pending or contemplated against the petitioner and that his professional conduct is not under investigation.
+(c) a recent certificate issued by the secretary or other officer of the body charged with responsibility for investigating allegations of professional misconduct or breaches of professional discipline in those parts of Malaysia where the applicant has practised that at the date of the certificate no disciplinary proceedings are pending or contemplated against the applicant and that his professional conduct is not under investigation.
 
-(5) The petition and certificates referred to in this section shall be in the form prescribed by the Board.
+(5) The affidavit and certificates referred to in this section shall be in the form prescribed by the Board.
+
+[42/2005 wef 01/01/2006]
 
 ### Service of documents and objections
 
-19\.—(1) A copy each of every petition and affidavit required to be filed under section 17 or 18 together with true copies of each document exhibited thereto shall, within 5 days of the document being filed in the Registrar’s office, be served on the Attorney-General, the Board and the Society.
+19\.—(1) A copy each of every application and affidavit required to be filed under section 17 or 18 together with true copies of each document exhibited thereto shall, within 5 days of the document being filed in the Registrar’s office, be served on the Attorney-General, the Board and the Society.
 
-(2) If the Attorney-General, the Board or the Society intends to object to any petition, there shall be served on the petitioner not less than 3 clear days or such shorter period as the court may allow a notice of objection in which shall be set out in brief terms the grounds of objection.
+(2) If the Attorney-General, the Board or the Society intends to object to any application, there shall be served on the applicant not less than 3 clear days or such shorter period as the court may allow a notice of objection in which shall be set out in brief terms the grounds of objection.
 
-(3) Any such notice of objection shall be filed in the Registrar’s office at any time before the day fixed for the hearing of the petition.
+(3) Any such notice of objection shall be filed in the Registrar’s office at any time before the day fixed for the hearing of the application.
 
-(4) It shall not be necessary for the Attorney-General, the Board or the Society to be represented at the hearing of any petition unless the Attorney-General, the Board or the Society, as the case may be, intends to object to that petition.
+(4) It shall not be necessary for the Attorney-General, the Board or the Society to be represented at the hearing of any application unless the Attorney-General, the Board or the Society, as the case may be, intends to object to that application.
+
+[42/2005 wef 01/01/2006]
 
 ### Caveats and misrepresentations
 
-20\.—(1) Any person may enter a caveat against the admission of any petitioner and upon such a caveat being entered, no application for the admission of the petitioner shall be heard except after not less than 3 clear days’ notice has been given to the person entering the caveat.
+20\.—(1) Any person may enter a caveat against the admission of any applicant and upon such a caveat being entered, no application for the admission of the applicant shall be heard except after not less than 3 clear days’ notice has been given to the person entering the caveat.
 
 (2) Every caveat under this section shall be entered in the Registrar’s office and shall contain the full name, occupation and address of the caveator, a brief statement of the grounds of his objection and an address for service.
 
-(3) If at any time after the admission of any petitioner as an advocate and solicitor it is shown to the satisfaction of the court that any petition, affidavit, certificate or other document filed by a petitioner contains any substantially false statement or a suppression of any material fact, the name of the petitioner shall be struck off the roll.
+(3) If at any time after the admission of any applicant as an advocate and solicitor it is shown to the satisfaction of the court that any application, affidavit, certificate or other document filed by an applicant contains any substantially false statement or a suppression of any material fact, or that any such certificate was obtained by fraud or misrepresentation, the name of the applicant shall be struck off the roll.
+
+[42/2005 wef 01/01/2006]
 
 ### Ad hoc admissions
 
@@ -896,11 +912,11 @@ Qualified persons
 
 [40/96]
 
-(3) Any person applying to be admitted under this section shall do so by originating motion verified by an affidavit of the applicant or of the advocate and solicitor instructing him stating the names of the parties and brief particulars of the case in which the applicant intends to appear.
+(3) Any person applying to be admitted under this section shall do so by originating summons supported by an affidavit of the applicant or of the advocate and solicitor instructing him stating the names of the parties and brief particulars of the case in which the applicant intends to appear.
 
 [42/2005 wef 01/01/2006]
 
-(4) The originating motionand affidavit or affidavits shall be served on the Attorney-General, the Society and the other party or parties to the case.
+(4) The originating summons and affidavit or affidavits shall be served on the Attorney-General, the Society and the other party or parties to the case.
 
 [42/2005 wef 01/01/2006]
 
@@ -924,11 +940,15 @@ Qualified persons
 
 (2) If the Board fails to determine any request within 3 months after it has been first submitted to it, the applicant may apply under this section as if the request had been determined adversely to him.
 
-(3) Every application under this section shall be made by summons in chambers in the petition of the appellant if he has filed a petition and otherwise by originating summons.
+(3) Every application under this section shall be made by summons if the applicant has filed an originating summons, and otherwise by originating summons.
+
+[42/2005 wef 01/01/2006]
 
 (4) The Judge hearing the application may, in his discretion, adjourn the application into open court.
 
-(5) Every such summonsin chambers or originating summons, as the case may be, shall be supported by evidence on affidavit and shall be served together with the affidavit on the Board and shall not be heard until after the expiry of 12 days after service on the Board.
+(5) Every such summons or originating summons, as the case may be, shall be supported by evidence on affidavit and shall be served together with the affidavit on the Board and shall not be heard until after the expiry of 12 days after service on the Board.
+
+[42/2005 wef 01/01/2006]
 
 (6) At or before the hearing of the application, the Board may submit to the Judge a confidential report which shall not be filed in court but a copy thereof shall be furnished to the applicant.
 
@@ -938,13 +958,13 @@ Qualified persons
 
 (9) A Judge who is a member of the Board shall not hear any application under this section.
 
-### Hearing of petition
+### Hearing of application
 
-23\.—(1) Petitions for admission as an advocate and solicitor shall, except during a court vacation, be heard on the second Wednesday of every month unless the Chief Justice otherwise orders for any particular month.
+23\.—(1) Applications for admission as an advocate and solicitor shall, except during a court vacation, be heard on the second Wednesday of every month unless the Chief Justice otherwise orders for any particular month.
 
 [42/2005 wef 01/01/2006]
 
-(2) No petition for admission shall be heard by a Judge who is a member of the Board.
+(2) No application for admission shall be heard by a Judge who is a member of the Board.
 
 [42/2005 wef 01/01/2006]
 
@@ -952,7 +972,7 @@ Qualified persons
 
 24\.—(1) Every person admitted as an advocate and solicitor of the Supreme Court shall make the declaration set out in subsection (2).
 
-(2) Subject to any necessary modification to conform to the religious beliefs of the petitioner, the declaration shall be in the following form:
+(2) Subject to any necessary modification to conform to the religious beliefs of the applicant for admission, the declaration shall be in the following form:
 
 “
 
@@ -968,7 +988,7 @@ So help me God
 
 (4) The name, with the date of admission, of every person admitted shall be entered upon the roll in order of admission.
 
-(5) Every person admitted as an advocate and solicitor shall pay the prescribed fee and the Registrar shall deliver to him an instrument of admission signed by the Chief Justice or the Judge who admitted the petitioner.
+(5) Every person admitted as an advocate and solicitor shall pay the prescribed fee and the Registrar shall deliver to him an instrument of admission signed by the Chief Justice or the Judge who admitted the applicant.
 
 [42/2005 wef 01/01/2006]
 
@@ -1020,8 +1040,6 @@ PRACTISING CERTIFICATES
 
 (2A) A practising certificate issued under subsection (2) shall not authorise a solicitor to practise as a locum solicitor unless the practising certificate was issued pursuant to an application by the solicitor in accordance with any rules made under this section relating to practising certificates to practise as a locum solicitor.
 
-[23/2004 wef 01/04/2005]
-
 (3) Every practising certificate shall be signed or approved by the Registrar and shall, subject to sections 26(9) and 27B, be in force from the date of issue to the end of the year.
 
 [40/96; 4/2000]
@@ -1039,8 +1057,6 @@ PRACTISING CERTIFICATES
 (b) any condition that shall apply to such a practising certificate, including conditions relating to the handling of client’s money by the solicitor and the supervision of the solicitor;
 
 (c) any training that the solicitor must complete for the purposes of section 26(1A)(b) and the time within which such training must be completed.
-
-[23/2004 wef 01/04/2005]
 
 (8) Rules made by the Council under this section shall be signed by the President of the Society and submitted to the Chief Justice and shall come into operation upon the Chief Justice signifying his approval.
 
@@ -1154,8 +1170,6 @@ and the Registrar may comply with the request and notify the solicitor in writin
 
 (ca) unless he is practising or intends to practise as a locum solicitor;
 
-[23/2004 wef 01/04/2005]
-
 (d) if he has, for a period of 3 years or more, held office as a Judge of the Supreme Court or of the Supreme Court of Malaysia or of any High Court in any part of Malaysia;
 
 (e) if he is an undischarged bankrupt;
@@ -1177,8 +1191,6 @@ and the Registrar may comply with the request and notify the solicitor in writin
 (ii) been employed as a legal officer; or
 
 (b) has completed such training within such time as the Council may by rules under section 25 prescribe.
-
-[23/2004 wef 01/04/2005]
 
 (2) Notwithstanding anything in subsection (1), any solicitor who has held office as a Judge of the Supreme Court for a period of 3 years or more shall on application be issued a practising certificate enabling him to practise as a solicitor, but without the right of audience in any court of justice in Singapore.
 
@@ -1231,8 +1243,6 @@ if the Attorney-General issues a certificate under his hand to the person and sp
 [40/96]
 
 (c) when the Registrar subsequently issues another practising certificate to the solicitor.
-
-[23/2004 wef 01/04/2005]
 
 (10) For the purposes of this section, “Judge” shall not include a Judicial Commissioner of the Supreme Court.
 
@@ -1306,11 +1316,13 @@ if the Attorney-General issues a certificate under his hand to the person and sp
 
 (b) the application under section 98(1) for an order against the solicitor to show cause is withdrawn or dismissed;
 
-(c) the application under section 98(5) to make absolute an order against the solicitor to show cause is withdrawn or discharged; or
+(c) the application under section 98(5) to make a final order pursuant to an order against the solicitor to show cause is withdrawn or discharged; or
 
 [42/2005 wef 01/01/2006]
 
-(d) the order against the solicitor to show cause has been made absolute,
+(d) a final order has been made against the solicitor pursuant to an order to show cause,
+
+[42/2005 wef 01/01/2006]
 
 the suspension of the practising certificate of the solicitor shall terminate immediately.
 
@@ -1318,7 +1330,7 @@ the suspension of the practising certificate of the solicitor shall terminate im
 
 [40/96]
 
-(5) Nothing in subsection (4) shall be construed as affecting the power of the court of 3 Judges of the Supreme Court to suspend a solicitor from practice on an application to make the order to show cause absolute under section 98.
+(5) Nothing in subsection (4) shall be construed as affecting the power of the court of 3 Judges of the Supreme Court to suspend a solicitor from practice on an application to make a final order pursuant to an order to show cause under section 98.
 
 [42/2005 wef 01/01/2006]
 
@@ -1770,7 +1782,7 @@ Council of Society
 
 [30/86]
 
-(6) An application for leave under subsection (4) shall be made by motion.
+(6) An application for leave under subsection (4) shall be made by originating summons.
 
 [42/2005 wef 01/01/2006]
 
@@ -2218,8 +2230,6 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 (8) This section shall not apply to a solicitor who applies for a practising certificate to practise as a locum solicitor.
 
-[23/2004 wef 01/04/2005]
-
 ### Intervention in solicitor’s practice
 
 74\. The powers conferred by Part II of the First Schedule shall be exercisable in the circumstances specified in Part I of that Schedule.
@@ -2552,15 +2562,15 @@ PROFESSIONAL PRACTICE, CONDUCT AND DISCIPLINE OF SOLICITORS
 
 ### Account by solicitor
 
-80\.—(1) Where the relationship of solicitor and client exists, or has existed, a summons may be issued by the client or his representatives for the delivery of a cash account, or the payment of moneys, or the delivery of securities.
+80\.—(1) Where the relationship of solicitor and client exists, or has existed, an originating summons may be issued by the client or his representatives for the delivery of a cash account, or the payment of moneys, or the delivery of securities.
 
 [42/2005 wef 01/01/2006]
 
-(2) The court or a Judge may order the respondent to deliver to the applicant a list of the moneys or securities which he has in his custody or control on behalf of the applicant, or to bring into court the whole or any part of the same, within such time as the court or a Judge orders.
+(2) The court or a Judge may order the solicitor to deliver to the applicant a list of the moneys or securities which he has in his custody or control on behalf of the applicant, or to bring into court the whole or any part of the same, within such time as the court or a Judge orders.
 
 [42/2005 wef 01/01/2006]
 
-(3) In the event of the respondent alleging that he has a claim for costs, the court or a Judge may make such provision for the payment or security thereof or the protection of the respondent’s lien, if any, as the court or a Judge thinks fit.
+(3) In the event of the solicitor alleging that he has a claim for costs, the court or a Judge may make such provision for the payment or security thereof or the protection of the solicitor’s lien, if any, as the court or a Judge thinks fit.
 
 [42/2005 wef 01/01/2006]
 
@@ -2960,7 +2970,7 @@ DISCIPLINARY PROCEEDINGS
 
 [19/2008 wef 01/12/2008]
 
-(10) Where the Disciplinary Committee finds that cause of sufficient gravity for disciplinary action exists under this section against the legal officer or non-practising solicitor concerned, the Chief Justice may appoint an advocate and solicitor or a legal officer to apply by motion in the same proceedings for an order that the legal officer or the non-practising solicitor concerned be struck off the roll, prohibited from applying for a practising certificate, censured or otherwise punished.
+(10) Where the Disciplinary Committee finds that cause of sufficient gravity for disciplinary action exists under this section against the legal officer or non-practising solicitor concerned, the Chief Justice may appoint an advocate and solicitor or a legal officer to apply by summons in the same proceedings for an order that the legal officer or the non-practising solicitor concerned be struck off the roll, prohibited from applying for a practising certificate, censured or otherwise punished.
 
 [42/2005 wef 01/01/2006]
 
@@ -3020,7 +3030,7 @@ DISCIPLINARY PROCEEDINGS
 
 [41/93; 15/95]
 
-(3) Pupils shall, with the necessary modifications, be subject to the same jurisdiction as can be exercised over advocates and solicitors under this Part; but in lieu of an order striking him off the roll or suspending him, an order may be made prohibiting the pupil from petitioning the court for admission until after a date specified in the order.
+(3) Pupils shall, with the necessary modifications, be subject to the same jurisdiction as can be exercised over advocates and solicitors under this Part; but in lieu of an order striking him off the roll or suspending him, an order may be made prohibiting the pupil from applying to the court for admission until after a date specified in the order.
 
 [42/2005 wef 01/01/2006]
 
@@ -3422,7 +3432,7 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 [19/2008 wef 01/12/2008]
 
-(b) the Society or the person making the complaint and the solicitor to whom the complaint relates and (if so instructed by the Disciplinary Committee) the secretary of the Disciplinary Committee may sue out writs of subpoena ad testificandum and of duces tecum.
+(b) the Society or the person making the complaint and the solicitor to whom the complaint relates and (if so instructed by the Disciplinary Committee) the secretary of the Disciplinary Committee may sue out subpoenas to testify or to produce documents.
 
 [42/2005 wef 01/01/2006]
 
@@ -3430,11 +3440,11 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 [19/2008 wef 01/12/2008]
 
-(3) No person shall be compelled under any such writ to produce any document which he could not be compelled to produce at the trial of an action.
+(3) No person shall be compelled under any such subpoena to produce any document which he could not be compelled to produce at the trial of an action.
 
 [42/2005 wef 01/01/2006]
 
-(4) The writs referred to in subsection (2)(b) shall be served and may be enforced as if they were writs issued in connection with a civil action in the High Court.
+(4) The subpoenas referred to in subsection (2)(b) shall be served and may be enforced as if they were subpoenas issued in connection with a civil action in the High Court.
 
 [42/2005 wef 01/01/2006]
 
@@ -3442,7 +3452,7 @@ to be known for the purposes of this Act as Disciplinary Committees.
 
 [19/2008 wef 01/12/2008]
 
-(6) No fees or other charges shall be payable for any writ sued out by the secretary of the Disciplinary Committee under subsection (2)(b).
+(6) No fees or other charges shall be payable for any subpoena sued out by the secretary of the Disciplinary Committee under subsection (2)(b).
 
 [42/2005 wef 01/01/2006]
 
@@ -3636,17 +3646,17 @@ and such order for the payment of costs as may be just.
 
 (4) If an order to show cause is made, a copy of the affidavit or affidavits upon which the order was made shall be served with the order upon the solicitor named in the order.
 
-(5) An application to make absolute an order to show cause must be made by motion in the same proceedings and, unless the Judge otherwise directs, there must be at least 8 clear days between the service of the notice of the motion and the day named therein for the hearing.
+(5) An application to make a final order pursuant to an order to show cause must be made by summons in the same proceedings and, unless the Judge otherwise directs, there must be at least 8 clear days between the service of the summons and the day named therein for the hearing.
 
 [42/2005 wef 01/01/2006]
 
 [41/93]
 
-(6) Any order absolute, made in cases where personal service of the order to show cause has not been effected, may be set aside on the application of the solicitor on good cause being shown.
+(6) Any final order, made in cases where personal service of the order to show cause has not been effected, may be set aside on the application of the solicitor on good cause being shown.
 
 [42/2005 wef 01/01/2006]
 
-(7) The application to make absolute and the showing of cause consequent upon any order to show cause made under subsections (1) and (2) shall be heard by a court of 3 Judges of the Supreme Court, and from the decision of that court there shall be no appeal.
+(7) The application to make a final order and the showing of cause consequent upon any order to show cause made under subsections (1) and (2) shall be heard by a court of 3 Judges of the Supreme Court, and from the decision of that court there shall be no appeal.
 
 [42/2005 wef 01/01/2006]
 
@@ -3664,7 +3674,7 @@ and such order for the payment of costs as may be just.
 
 ### Drawing up of order
 
-99\. Where an order (whether to show cause or absolute) has been made by the court upon an application under section 98 and the order has not been drawn up by the applicant within one week after it was made, the Society may cause the order to be drawn up, and all future proceedings thereon shall be taken as if the application had been made by the Society.
+99\. Where an order (whether an order to show cause or a final order) has been made by the court upon an application under section 98 and the order has not been drawn up by the applicant within one week after it was made, the Society may cause the order to be drawn up, and all future proceedings thereon shall be taken as if the application had been made by the Society.
 
 [42/2005 wef 01/01/2006]
 
@@ -3674,7 +3684,7 @@ and such order for the payment of costs as may be just.
 
 100\.—(1) Any solicitor may, subject to this section, apply to the court to have his name removed from the roll.
 
-(2) Every such application shall be made by way of originating motion and shall be supported by an affidavit in the prescribed form which shall be served on the Society not less than 2 months before the application is heard.
+(2) Every such application shall be made by way of originating summons and shall be supported by an affidavit in the prescribed form which shall be served on the Society not less than 2 months before the application is heard.
 
 [42/2005 wef 01/01/2006]
 
@@ -3706,15 +3716,15 @@ and such order for the payment of costs as may be just.
 
 102\.—(1) The court may, if it thinks fit, at any time order the Registrar to replace on the roll the name of a solicitor whose name has been removed from, or struck off, the roll.
 
-(2) Any application that the name of a solicitor be replaced on the roll shall be by originating motion, supported by affidavit, before a court of 3 Judges of the Supreme Court of whom the Chief Justice shall be one.
+(2) Any application that the name of a solicitor be replaced on the roll shall be by originating summons, supported by affidavit, before a court of 3 Judges of the Supreme Court of whom the Chief Justice shall be one.
 
 [42/2005 wef 01/01/2006]
 
 [41/93]
 
-(3) shall be served on the Society which shall —
+(3) The originating summons shall be served on the Society which shall —
 
-(a) appear at the hearing of the motion; and
+(a) appear at the hearing of the application; and
 
 [42/2005 wef 01/01/2006]
 
@@ -3728,7 +3738,7 @@ and such order for the payment of costs as may be just.
 
 ### Costs
 
-103\.—(1) Where under section 93 a Disciplinary Committee determines that no cause of sufficient gravity for disciplinary action exists and further records the opinion that the complaint was frivolous or vexatious, the Disciplinary Committee may by statutory board or authority to be heard before a Judge ask that the court order that the costs of the complaint shall be paid by the person who made the complaint.
+103\.—(1) Where under section 93 a Disciplinary Committee determines that no cause of sufficient gravity for disciplinary action exists and further records the opinion that the complaint was frivolous or vexatious, the Disciplinary Committee may by statutory board or authorityoriginating summons to be heard before a Judge ask that the court order that the costs of the complaint shall be paid by the person who made the complaint.
 
 [42/2005 wef 01/01/2006]
 
@@ -3934,11 +3944,11 @@ REMUNERATION OF SOLICITORS AND LAW CORPORATIONS
 
 113\.—(1) No action or suit shall be brought or instituted upon any such agreement as is referred to in section 111.
 
-(2) Every question respecting the validity or effect of the agreement may be examined and determined, and the agreement may be enforced or set aside without suit or action on the summons, motion or petition of any person or the representatives of any person, party to the agreement, or being or alleged to be liable to pay, or being or claiming to be entitled to be paid the costs, fees, charges or disbursements in respect of which the agreement is made, by the court in which the business or any part thereof was done or a Judge thereof, or, if the business was not done in any court, then by the High Court or a Judge thereof.
+(2) Every question respecting the validity or effect of the agreement may be examined and determined, and the agreement may be enforced or set aside without suit or action on the application by originating summons of any person or the representatives of any person, party to the agreement, or being or alleged to be liable to pay, or being or claiming to be entitled to be paid the costs, fees, charges or disbursements in respect of which the agreement is made, by the court in which the business or any part thereof was done or a Judge thereof, or, if the business was not done in any court, then by the High Court or a Judge thereof.
 
 [42/2005 wef 01/01/2006]
 
-(3) Upon any such summons, motion or petition, if it appears to the court or Judge that the agreement is in all respects fair and reasonable between the parties, it may be enforced by the court or Judge by rule or order, in such manner and subject to such conditions (if any) as to the costs of the summons, motion or petition as the court or Judge thinks fit.
+(3) Upon any such application, if it appears to the court or Judge that the agreement is in all respects fair and reasonable between the parties, it may be enforced by the court or Judge by rule or order, in such manner and subject to such conditions (if any) as to the costs of the summons, motion or petition as the court or Judge thinks fit.
 
 [42/2005 wef 01/01/2006]
 
@@ -3946,7 +3956,7 @@ REMUNERATION OF SOLICITORS AND LAW CORPORATIONS
 
 (5) The court or Judge may thereupon order the agreement to be given up to be cancelled, and may direct the costs, fees, charges and disbursements incurred or chargeable in respect of the matters included therein to be taxed, in the same manner and according to the same rules as if the agreement had not been made.
 
-(6) The court or Judge may also make such order as to the costs of and relating to the summons, motion or petition and the proceedings thereon as the court or Judge thinks fit.
+(6) The court or Judge may also make such order as to the costs of and relating to the application and the proceedings thereon as the court or Judge thinks fit.
 
 [42/2005 wef 01/01/2006]
 
@@ -3956,7 +3966,9 @@ REMUNERATION OF SOLICITORS AND LAW CORPORATIONS
 
 [4/2000]
 
-(8) Where any such agreement is made by the client in the capacity of guardian or of trustee under a deed or will, or of committee of any person or persons whose estate or property will be chargeable with the amount payable under the agreement or with any part of that amount, the agreement shall before payment be laid before the Registrar, who shall examine it and disallow any part thereof, or may require the direction of the court or a Judge to be taken thereonby summons, motion or petition.
+(8) Where any such agreement is made by the client in the capacity of guardian or of trustee under a deed or will, or of committee of any person or persons whose estate or property will be chargeable with the amount payable under the agreement or with any part of that amount, the agreement shall before payment be laid before the Registrar, who shall examine it and disallow any part thereof, or may require the direction of the court or a Judge to be taken thereon.
+
+[42/2005 wef 01/01/2006]
 
 (9) If in any such case the client pays the whole or any part of the amount payable under the agreement without the previous allowance of the Registrar or court or Judge as aforesaid, he shall be liable at any time to account to the person whose estate or property is charged with the amount paid, or with any part thereof, for the amount so charged.
 
@@ -4052,11 +4064,13 @@ RECOVERY AND TAXATION OF COSTS
 
 ### Order for taxation of delivered bill of costs
 
-120\.—(1) An order for the taxation of a bill of costs delivered by any solicitor may be obtained on a petition of course by the party chargeable therewith, or by any person liable to pay the bill either to the party chargeable or to the solicitor, at any time within 12 months from the delivery of the bill, or, by the solicitor, after the expiry of one calendar month and within 12 months from the delivery of the bill.
+120\.—(1) An order for the taxation of a bill of costs delivered by any solicitor may be obtained on an application made by originating summons or, where there is a pending action, by summons by the party chargeable therewith, or by any person liable to pay the bill either to the party chargeable or to the solicitor, at any time within 12 months from the delivery of the bill, or, by the solicitor, after the expiry of one calendar month and within 12 months from the delivery of the bill.
 
 [42/2005 wef 01/01/2006]
 
-(2) The order shall contain such directions and conditions as the court thinks proper, and any party aggrieved by any such order may apply by summonsin chambers that the order be amended or varied.
+(2) The order shall contain such directions and conditions as the court thinks proper, and any party aggrieved by any such order may apply by summons that the order be amended or varied.
+
+[42/2005 wef 01/01/2006]
 
 (3) In any case where a solicitor and his client consent to taxation of a solicitor’s bill, the Registrar may proceed to tax the bill notwithstanding that there is no order therefor.
 
@@ -4066,11 +4080,11 @@ RECOVERY AND TAXATION OF COSTS
 
 ### Costs of order for taxation
 
-121\.—(1) The costs of obtaining an order for taxation of costs, including the petition of course, order and service of order, but not including any court fees payable thereon or disbursements, if the order is obtained by the solicitor of the applicant, or by the solicitor, shall, subject to subsection (2), be the sum of $25 .
+121\.—(1) The costs of obtaining an order for taxation of costs, including the application under section 120(1), order and service of order, but not including any court fees payable thereon or disbursements, if the order is obtained by the solicitor of the applicant, or by the solicitor, shall, subject to subsection (2), be the sum of $25 or such other sum as may be prescribed.
 
 [42/2005 wef 01/01/2006]
 
-(2) If one of the parties holds out and does not agree to taxation, the costs of obtaining an order of court shall be the sum of $150 .
+(2) If one of the parties holds out and does not agree to taxation, the costs of obtaining an order of court shall be the sum of $150 or such other sum as may be prescribed.
 
 [42/2005 wef 01/01/2006]
 
@@ -4080,19 +4094,19 @@ RECOVERY AND TAXATION OF COSTS
 
 [41/93]
 
-### Petitions for taxation to contain submission to pay
+### Applications for taxation to contain submission to pay
 
-123\. All petitions by a party chargeable with or liable for a bill of costs shall, unless the bill has already been paid, contain a submission by that party to pay the amount thereof to the solicitor when taxed.
+123\. All applications made under section 120(1) by a party chargeable with or liable for a bill of costs shall, unless the bill has already been paid, contain a submission by that party to pay the amount thereof to the solicitor when taxed.
 
 [42/2005 wef 01/01/2006]
 
 ### Order for delivery of bill of costs to be obtained as of course
 
-124\.—(1) An order for the delivery of a solicitor’s bill of costs, and for delivery of any deeds, documents or other papers in the possession of the solicitor, subject to any lien which the solicitor may have, and for the taxation of the bill when delivered, may be obtained on a petition of course.
+124\.—(1) An order for the delivery of a solicitor’s bill of costs, and for delivery of any deeds, documents or other papers in the possession of the solicitor, subject to any lien which the solicitor may have, and for the taxation of the bill when delivered, may be obtained on an application made under section 120(1).
 
 [42/2005 wef 01/01/2006]
 
-(2) Upon such petition being filed, the Registrar shall mark the order thereon immediately, and draw up the order if necessary.
+(2) Upon such application being filed, the Registrar shall mark the order thereon immediately, and draw up the order if necessary.
 
 [42/2005 wef 01/01/2006]
 
@@ -4470,11 +4484,17 @@ MISCELLANEOUS
 
 134\. In addition to any other method of recovery and to any other right, remedy or power vested in the Society or in the Council, any sum of money whatsoever payable under this Act may be recoverable by the Society or the Board as a debt in any court of competent jurisdiction.
 
-### Rules Committee to prescribe certain fees
+### Rules Committee to prescribe certain fees and costs
 
-135\. The fees payable under sections 21(7), 24(5) and 25(1)(e) shall be prescribed from time to time by the Rules Committee.
+135\. The Rules Committee may, from time to time, make rules to prescribe —
 
-[4/2000]
+(a) the fees payable under sections 21(7), 24(5) and 25(1)(e); and
+
+[19/2008 wef 19/09/2008]
+
+(b) the costs referred to in section 121(1) and (2).
+
+[42/2005 wef 01/01/2006]
 
 ### Relief to banks
 
@@ -4973,6 +4993,11 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 17/2004 published on 20 May 2004)|
 ||Date of Second and Third Readings|15 June 2004|
 ||Date of commencement|1 April 2005 (sections 2, 3, 4, 7 and 8)|
+|36.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (First Schedule — item (20); Fifth Schedule — item (13))|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
