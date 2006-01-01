@@ -974,7 +974,9 @@ AWARDS
 
 47\.—(1) Subject to the provisions of this Act, an award shall be final and conclusive.
 
-(2) No award or decision or order of a Court or the President or a referee shall be challenged, appealed against, reviewed, quashed, or called in question in any court and shall not be subject to certiorari, prohibition, mandamus or injunction in any court on any account.
+(2) No award or decision or order of a Court or the President or a referee shall be challenged, appealed against, reviewed, quashed, or called in question in any court and shall not be subject to any Quashing Order, Prohibiting Order, Mandatory Order or injunction in any court on any account.
+
+[42/2005 wef 01/01/2006]
 
 ### Award to be available at office of Registrar
 
@@ -1615,6 +1617,11 @@ This Legislative History is provided for the convenience of users of the Industr
 ||Date of commencement|1 September 2002|
 |14.|**2004 Revised Edition—Industrial Relations Act**|
 ||Date of operation|1 January 2004|
+|15.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1st January 2006|
 ## COMPARATIVE TABLE
 
 Industrial Relations Act
