@@ -228,6 +228,10 @@
 
 - [81 Council of Judges to consider operation of this Act, etc.](#Council-of-Judges-to-consider-operation-of-this-Act-etc)
 
+[**Supplemental**](#Supplemental)
+
+- [82 Conversion of pending petitions and motions to writs of summons, originating summonses and summonses](#Conversion-of-pending-petitions-and-motions-to-writs-of-summons-originating-summonses-and-summonses)
+
 [**FIRST SCHEDULE Additional Powers of the High Court**](#FIRST-SCHEDULE-Additional-Powers-of-the-High-Court)
 
 [**SECOND SCHEDULE**](#SECOND-SCHEDULE)
@@ -1470,15 +1474,51 @@ Council of Judges
 
 [16/93]
 
+Supplemental
+
+[42/2005 wef 01/01/2006]
+
+### Conversion of pending petitions and motions to writs of summons, originating summonses and summonses
+
+82\.—(1) Where —
+
+(a) under any written law any civil action or application may be commenced in or made to the Court of Appeal, a Judge of Appeal, the High Court, a Judge or the Registrar (referred to in this section as the Court); and
+
+(b) the provisions under any written law by virtue of which such an action or application was required to be commenced or made by way of a petition, a motion or an originating motion have been amended such as to require that any such action or application shall, as from the date appointed for the coming into operation of the amendment, be commenced or made by way of a writ of summons, an originating summons or a summons,
+
+then, if any such action or application that has been commenced or made before that date by way of a petition, a motion or an originating motion is still pending before the Court on or after that date, the Court may, if it thinks just and expedient, order that the action or application (referred to in this section as a pending action or application) shall be converted to and be continued as an action or application commenced or made by way of a writ of summons, an originating summons or a summons, as is appropriate.
+
+(2) The Chief Justice may, where he considers it necessary or expedient to improve efficiency in the administration of justice, by order direct that any class or description of pending actions or applications before the Court shall be converted to and be continued as actions or applications commenced or made by way of a writ of summons, an originating summons or a summons, as is appropriate.
+
+(3) Where pursuant to subsection (1) or (2) any pending action or application has been converted to an action or application commenced or made by way of a writ of summons, an originating summons or a summons —
+
+(a) the action or application shall be continued in accordance with the provisions of the relevant written law and the practice and procedure as are in force and applicable in relation to that action or application at the time of the conversion; and
+
+(b) the Court may give to the parties to the action or application such directions as to the conduct and costs of the action or application as it thinks just and expedient for the purpose of facilitating the conversion of the action or application to an action or application commenced or made by way of a writ of summons, an originating summons or a summons (as the case may be) and its continuance as such.
+
 FIRST SCHEDULE
 
 Section 18(2)
 
 Additional Powers of the High Court
 
+Prerogative orders
+
+1\. Power to issue to any person or authority any direction, order or writ for the enforcement of any right conferred by any written law or for any other purpose, including the following prerogative orders:
+
 Prerogative writs
 
-1\. Power to issue to any person or authority directions, orders or writs, including writs of the nature of habeas corpus, mandamus, prohibition, quo warranto and certiorari, or any others, for the enforcement of any of the rights conferred by any written law or for any purpose.
+1.
+
+(a) a Mandatory Order (formerly known asmandamus);
+
+(b) a Prohibiting Order (formerly known as a prohibition);
+
+(c) a Quashing Order (formerly known ascertiorari); and
+
+(d) an Order for Review of Detention (formerly known as a writ ofhabeas corpus).
+
+[42/2005 wef 01/01/2006]
 
 Partition and sale in lieu of partition
 
@@ -1677,8 +1717,11 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 7/2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|15 July 2005 (section 11 — amendment of Supreme Court of Judicature Act)|
-=
-
+|20.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (section 4 — amendment of Supreme Court of Judicature Act)|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
