@@ -112,7 +112,7 @@ Provided that for the purposes of this subsection a prosecution shall be deemed 
 
 ### Evidence
 
-6\.—(1) Notwithstanding anything to the contrary in the Evidence Act [Cap. 97], no person shall be convicted of an offence under section 4 on the uncorroborated testimony of one witness.
+6\.—(1) Notwithstanding anything to the contrary in the Evidence Act (Cap. 97), no person shall be convicted of an offence under section 4 on the uncorroborated testimony of one witness.
 
 (2) No person shall be convicted of any offence referred to in section 4(1)(c) or (d) if such person proves that the publication in respect of which he is charged was printed, published, sold, offered for sale, distributed, reproduced or imported (as the case may be) without his authority, consent and knowledge and without any want of due care or caution on his part or that he did not know and had no reason to believe that the publication had a seditious tendency.
 
@@ -164,9 +164,11 @@ Provided that no person shall be punished twice for the same offence.
 
 [21/73]
 
-(7) The owner of any prohibited publication delivered or seized under this section may, at any time within 14 days after the delivery or seizure, petition the Court for the discharge of the prohibition order, and the Court, if on the hearing of the petition it decides that the prohibition order ought not to have been made, shall discharge the order and shall order the prohibited publication delivered by or seized from the petitioner to be returned to him.
+(7) The owner of any prohibited publication delivered or seized under this section may, at any time within 14 days after the delivery or seizure, apply to the Court by originating summons for the discharge of the prohibition order, and if the Court, on the hearing of the application, decides that the prohibition order ought not to have been made, it shall discharge the order and shall order the prohibited publication delivered by or seized from the applicant to be returned to him.
 
-(8) Every prohibited publication delivered or seized under this section with respect to which a petition is not filed within the time aforesaid or which is not ordered to be returned to the owner shall be deemed to be forfeited to the Government.
+[42/2005 wef 01/01/2006]
+
+(8) Every prohibited publication delivered or seized under this section with respect to which an application under subsection (7) is not filed within the time aforesaid or which is not ordered to be returned to the owner shall be deemed to be forfeited to the Government.
 
 (9) For the purposes of this section, “Court” means the High Court.
 
@@ -208,3 +210,8 @@ This Legislative History is provided for the convenience of users of the Seditio
 ||Date of commencement|6 April 1973|
 |8.|**1985 Revised Edition—Sedition Act (Chapter 290)**|
 ||Date of operation|30 March 1987|
+|9.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 16 December 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (item (32) of the First Schedule — amendment of Sedition Act)|
