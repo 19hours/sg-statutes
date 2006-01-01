@@ -272,11 +272,13 @@ shall, if the matter or thing was done in good faith for the purpose of executin
 
 18\.—(1) A registrar shall not, for the purpose of any court proceedings which relates to or is connected with a dispute referred to a mediator of a Community Mediation Centre, issue —
 
-(a) a writ of subpoena ad testificandum for the attendance before the court of the mediator, the Director or any member of the staff, employee or officer of the Community Mediation Centre; or
+(a) a subpoena for the attendance before the court of the mediator, the Director or any member of the staff, employee or officer of the Community Mediation Centre; or
 
-(b) a writ of subpoena duces tecum for the production to the court of any of the records or documents of the Centre,
+(b) a subpoena for the production to the court of any of the records or documents of the Centre,
 
 unless the registrar is satisfied that, having regard to all the circumstances of the case, such attendance or production is necessary for the fair disposal of the case or to save costs.
+
+[42/2005 wef 01/01/2006]
 
 (2) Where an order is made by the registrar under subsection (1)(b), it shall be sufficient compliance for the Centre to produce certified true copies of any of the records or documents and such copies shall, subject to section 19, be admissible as evidence of the facts stated or contained therein.
 
@@ -382,3 +384,8 @@ This Legislative History is provided for the convenience of users of the Communi
 |||(Bill No. 4/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|3 May 2004|
+|4.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
