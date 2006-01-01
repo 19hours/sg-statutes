@@ -802,7 +802,7 @@ CUSTODY AND REMOVAL OF PRISONERS
 
 ### Saving of powers of High Court
 
-50\. Nothing in this Act contained shall be held to lessen or affect the power of the High Court to direct persons confined in Singapore to be brought before the Court by writ of habeas corpus.
+50\. Nothing in this Act contained shall be held to lessen or affect the power of the High Court to direct persons confined in Singapore to be brought before the Court by an Order for Review of Detention.
 
 [38
 
@@ -1678,6 +1678,11 @@ This Legislative History is provided for the convenience of users of the Prisons
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|10 June 2005|
 |||(Part IV)|
+|22.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
 ## COMPARATIVE TABLE
 
 Prisons Act
