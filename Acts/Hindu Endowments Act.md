@@ -474,7 +474,7 @@ the Board may grant any such lease or do any such act, although such leases or a
 
 ### Filing of scheme and notice thereof
 
-32\.—(1) Every such scheme shall be filed in the High Court, together with a petition for the approval of the scheme by the Court, and notice thereof shall be given in such manner as the Board in each case considers proper or expedient for ensuring due publicity.
+32\.—(1) Every such scheme shall be filed in the High Court, together with an application by originating summons for the approval of the scheme by the Court, and notice thereof shall be given in such manner as the Board in each case considers proper or expedient for ensuring due publicity.
 
 [42/2005 wef 01/01/2006]
 
@@ -486,11 +486,11 @@ the Board may grant any such lease or do any such act, although such leases or a
 
 ### Court may alter or modify or approve scheme
 
-33\.—(1) After the expiration of one month from the time when the notice was given, the petition shall be heard on a day to be fixed by the High Court.
+33\.—(1) After the expiration of one month from the time when the notice was given, the application shall be heard on a day to be fixed by the High Court.
 
 [42/2005 wef 01/01/2006]
 
-(2) At the hearing of the petition, the High Court shall consider any objections so made, and may, if it thinks fit, alter or modify the scheme according to any such objections, and after all the objections have been made the Court may proceed to approve the scheme and to certify it in the manner hereinafter mentioned.
+(2) At the hearing of the application, the High Court shall consider any objections so made, and may, if it thinks fit, alter or modify the scheme according to any such objections, and after all the objections have been made the Court may proceed to approve the scheme and to certify it in the manner hereinafter mentioned.
 
 [42/2005 wef 01/01/2006]
 
@@ -561,3 +561,8 @@ This Legislative History is provided for the convenience of users of the Hindu E
 ||Date of commencement|15 March 1993|
 |6.|**1994 Revised Edition—Hindu Endowments Act**|
 ||Date of operation|15 March 1994|
+|7.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 16 December 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1 January 2006 (item (37) in the First Schedule)|
