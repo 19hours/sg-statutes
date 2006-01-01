@@ -330,11 +330,7 @@ Subordinate Courts
 
 17\.—(1) Subject to the provisions of this Act and of any written law limiting the jurisdiction of a subordinate court (whether by reference to the subject-matter of the proceedings to be brought or the amount sought to be recovered in the proceedings or otherwise), any civil proceedings against the Government may be instituted in a subordinate court.
 
-[17/2005 wef 15/07/2005]
-
 (2) Any proceedings by or against the Government in a subordinate court shall be instituted and proceeded with in accordance with the provisions of this Act and not otherwise.
-
-[17/2005 wef 15/07/2005]
 
 General
 
@@ -406,9 +402,11 @@ a legal officer may appear as advocate on behalf of such public officer and shal
 
 ### Removal and transfer of proceedings
 
-26\. Without prejudice to the rights of the Government under section 25, any written law relating to the removal or transfer of proceedings from a subordinate court to the High Courtor the transfer of proceedings from the High Court to a subordinate court, shall apply in relation to proceedings against the Government:
+26\. Without prejudice to the rights of the Government under section 25, any written law relating to the removal or transfer of proceedings from a subordinate court to the High Court, from the High Court to a subordinate court, or from one subordinate court to another, shall apply in relation to proceedings against the Government:
 
 Provided that an order for the transfer to a subordinate court of any proceedings against the Government in the High Court shall not be made without the consent of the Government and shall not be conditional upon the giving of security by the Government.
+
+[26/2005 wef 01/01/2006]
 
 ### Nature of relief
 
@@ -605,3 +603,9 @@ This Legislative History is provided for the convenience of users of the Governm
 |||(Bill No. 7/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|15 July 2005|
+|8.|**Act 26 of 2005—Subordinate Courts (Amendment) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 July 2005|
+|||(Bill No. 16/2005 published on 19 July 2005)|
+||Date of Second and Third Readings|15 August 2005|
+||Date of commencement|1 January 2006|
