@@ -4364,7 +4364,7 @@ as the Authority may require for the proper administration of this Act.
 
 of an approved holding company without first obtaining the approval of the Authority.
 
-(3) In subsection (2)—
+(3) In subsection (2) —
 
 “12% controller” means a person, not being a 20% controller, who alone or together with his associates —
 
@@ -6020,7 +6020,7 @@ and the nature of the instructions given to the holder or exempt person in respe
 
 143\.—(1) This section shall apply where the Authority considers that —
 
-(a) it may be necessary to prohibit dealing in securities of, or made available by, a corporation under section 23;
+(a) it may be necessary to prohibit dealing in securities of, or made available by, a corporation under section 32;
 
 (b) a person may have contravened any of the provisions of Part XII in relation to securities of, or made available by, a corporation; or
 
@@ -6046,7 +6046,7 @@ the Authority may require the person to disclose to the Authority the informatio
 
 144\.—(1) This section shall apply where the Authority considers that —
 
-(a) it may be necessary to give a direction or take any action in relation to any trading in futures contracts under section 24; or
+(a) it may be necessary to give a direction or take any action in relation to any trading in futures contracts under section 34; or
 
 (b) a person may have contravened any of the provisions of Part XII in relation to futures contracts.
 
@@ -6852,7 +6852,7 @@ but does not include —
 
 (DD) certificates of deposit issued by a bank or finance company;
 
-(b) in relation to a business trust, for the purposes of sections 196(a) (ia) and (b) (ia), 198, 202 and 203, means —
+(b) in relation to a business trust, for the purposes of sections 196(a)(ia) and (b)(ia), 198, 202 and 203, means —
 
 (i) units in a business trust;
 
@@ -7990,8 +7990,6 @@ Subdivision (2) — Prospectus Requirements
 
 [1/2005 wef 15/10/2005]
 
-(6) [Deleted by Act 1 of 2005 wef 15/10/2005]
-
 (7) Any person who contravenes subsection (1) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
 (8) The Authority may register a prospectus or a profile statement on any day between the 14th and 21st days (both days inclusive) from the date of lodgment thereof with the Authority, unless —
@@ -8257,8 +8255,6 @@ and that is materially adverse from the point of view of an investor, the person
 [1/2005 wef 15/10/2005]
 
 [16/2003 wef 22/12/2003]
-
-(6A) [Deleted by Act 16 of 2003 wef 22/12/2003]
 
 (6B) For the purposes of the application of this Division to events that occur after the lodgment of the replacement document —
 
@@ -9394,8 +9390,6 @@ and the prescribed entity shall comply with every such condition or restriction 
 
 [1/2005 wef 15/10/2005]
 
-(2) [Deleted by Act 1 of 2005 wef 15/10/2005]
-
 (3) In this Subdivision, a corporation is related to another corporation if it is deemed to be related to that other corporation by virtue of section 6 of the Companies Act (Cap. 50).
 
 ### Offer of asset-backed securities
@@ -9674,7 +9668,7 @@ Subdivision (4) — Exemptions
 
 This offer is made in reliance on the exemption under section 272A(1) of the Securities and Futures Act. It is not made in or accompanied by a prospectus that is registered by the Monetary Authority of Singapore.
 
-”
+”;
 
 (ii) a notification in writing that the securities to which the offer (referred to in this sub-paragraph as the initial offer) relates shall not be subsequently sold to any person, unless the offer resulting in such subsequent sale is made —
 
@@ -9789,8 +9783,6 @@ that he is interested in offers of that kind;
 (iii) in respect of which the first-mentioned person has given the second-mentioned person —
 
 (A) the following statement in writing:
-
-“
 
 This offer is made in reliance on the exemption under section 272A(8)(c) of the Securities and Futures Act. It is not made in or accompanied by a prospectus that is registered by the Monetary Authority of Singapore.
 
@@ -10136,7 +10128,7 @@ that is published in connection with an offer in respect of securities, but does
 
 (3) Notwithstanding any requirement in section 99 or any regulation made thereunder that a person has to deal in securities for his own account with or through a person prescribed by the Authority so that he can qualify as an exempt person, a person who acquires securities under section 274 or this section for his own account shall be considered an exempt person even though he does not comply with that requirement.
 
-(4) The Authority may, by order published in theGazette, specify an amount in substitution of any amount specified in subsection (1A)(a).
+(4) The Authority may, by order published in theGazette, specify an amount in substitution of any amount specified in subsection (2).
 
 ### Offer of securities acquired pursuant to section 274 or 275
 
@@ -11550,15 +11542,11 @@ Subdivision (3) — Exemptions
 
 (A) in the case where the business trust is not registered under the Business Trusts Act 2004 (Act 30 of 2004), the following statement in writing:
 
-“
-
 This offer is made in reliance on the exemption under section 282V(1) of the Securities and Futures Act. It is not made in or accompanied by a prospectus that is registered by the Monetary Authority of Singapore and the business trust is not registered under the Business Trusts Act 2004.
 
-”
+”;
 
 (B) in the case where the business trust is registered under the Business Trusts Act 2004, the following statement in writing:
-
-“
 
 This offer is made in reliance on the exemption under section 282V(1) of the Securities and Futures Act. It is not made in or accompanied by a prospectus that is registered by the Monetary Authority of Singapore.
 
@@ -12000,7 +11988,7 @@ that is published in connection with an offer in respect of units or derivatives
 
 ### Offer of securities acquired pursuant to section 282Y or 282Z
 
-282ZA\.—(1) Notwithstanding sections 282V, 282W, 282X(1)(d), (e) and (3)(c) and 282ZB, where units or derivatives of units in a business trust initially acquired pursuant to an offer made in reliance on an exemption under section 282Y or 282Z are sold within the period of 6 months from the date of the initial acquisition to any person other than —
+282ZA\.—(1) Notwithstanding sections 282V, 282W, 282X(1)(d), 1(e) and (3)(c) and 282ZB, where units or derivatives of units in a business trust initially acquired pursuant to an offer made in reliance on an exemption under section 282Y or 282Z are sold within the period of 6 months from the date of the initial acquisition to any person other than —
 
 (a) an institutional investor;
 
@@ -12398,7 +12386,7 @@ Subdivision (2) — Authorisation and Recognition
 
 [16/2003 wef 22/12/2003]
 
-(iii) any person exercising influence over a related corporation of the manager.
+(iii) any person exercising influence over a related corporation of the manager
 
 [16/2003 wef 22/12/2003]
 
@@ -12776,8 +12764,6 @@ by the persons referred to in paragraph (a) and the persons referred to in sub-p
 
 (3) No person shall make an offer of units in a collective investment scheme if that scheme has not been formed or does not exist.
 
-(4) [Deleted by Act 1 of 2005 wef 15/10/2005]
-
 (5) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
 (6) The Authority may register a prospectus or a profile statement on any day between the 14th and 21st days (both days inclusive) from the date of lodgment thereof with the Authority, unless —
@@ -12978,8 +12964,6 @@ the Authority may by an order in writing (referred to in this section as a stop 
 
 [16/2003 wef 22/12/2003]
 
-[1/2005 wef 15/10/2005]
-
 (4) Where applications for units in a collective investment scheme have been made prior to the service of a stop order, and —
 
 (a) the contributions of the applicants to the scheme have not yet been invested in accordance with the scheme —
@@ -12990,9 +12974,9 @@ the Authority may by an order in writing (referred to in this section as a stop 
 
 (ii) where units in the scheme have been issued to the applicants, the issue of the units shall be deemed to be void,
 
-and the person making the offer of units in the scheme shall, within 7 days from the date of the stop order, pay to the applicants all moneys which the applicants have paid for the units, including contributions to the scheme and charges the applicants have paid to the responsible person, its agent, or any person through whom the applicant has applied for the units; or
+and the the person making the offer of units in the scheme shall, within 7 days from the date of the stop order, pay to the applicants all moneys which the applicants have paid for the units, including contributions to the scheme and charges the applicants have paid to the responsible person, its agent, or any person through whom the applicant has applied for the units; or
 
-(b) the contributions of the applicants to the scheme have been invested in accordance with the scheme, the Authority may by notice in writing issue such directions to the person making the offer of units in the scheme as it deems fit, including a direction that the person provide the applicants with an option, on such terms as the Authority may approve, to obtain from that person a refund of all moneys contributed by the applicants or to redeem their units in accordance with the scheme.
+(b) the contributions of the applicants to the scheme have been invested in accordance with the scheme, the Authority may by notice in writing issue such directions to the the person making the offer of units in the scheme as it deems fit, including a direction that the person provide the applicants with an option, on such terms as the Authority may approve, to obtain from that person a refund of all moneys contributed by the applicants or to redeem their units in accordance with the scheme.
 
 (5) In determining whether to issue a direction under subsection (4) to the person making the offer of units in the scheme to refund the contributions of the applicants, the Authority shall consider whether the responsible person for the scheme will be able to liquidate the property of the scheme without material adverse financial effect to the applicants, and for this purpose, the factors which the Authority may take into account include:
 
@@ -13084,8 +13068,6 @@ and that is materially adverse from the point of view of an investor, the person
 
 [1/2005 wef 15/10/2005]
 
-(8) [Deleted by Act 1 of 2005 wef 15/10/2005]
-
 (9) For the purposes of the application of this Division to events that occur after the lodgment of the replacement document —
 
 (a) where the replacement document is a replacement prospectus, the prospectus in relation to the offer shall be taken to be the replacement prospectus; and
@@ -13160,7 +13142,7 @@ regard shall be had to whether the statement —
 
 This is a preliminary document and is subject to further amendments and completion in the prospectus to be registered by the Monetary Authority of Singapore.
 
-”
+”;
 
 (ii) a statement that a person to whom a copy of the preliminary document has been issued shall not circulate it to any other person; and
 
@@ -13414,7 +13396,7 @@ Subdivision (4) — Exemptions
 
 This offer is made in reliance on the exemption under section 302B(1) of the Securities and Futures Act. It is not made in or accompanied by a prospectus that is registered by the Monetary Authority of Singapore and the scheme is not authorised or recognised by the Authority.
 
-”
+”;
 
 (ii) a notification in writing that the units to which the offer (referred to in this sub-paragraph as the initial offer) relates shall not be subsequently sold to any person unless the offer resulting in such subsequent sale is made —
 
@@ -13494,11 +13476,9 @@ if any, within that period in reliance on the exemption under subsection (1), se
 
 (A) the following statement in writing:
 
-“
-
 This offer is made in reliance on the exemption under section 302B(8)(c) of the Securities and Futures Act. It is not made in or accompanied by a prospectus that is registered by the Monetary Authority of Singapore and the scheme is not authorised or recognised by the Authority.
 
-”
+”;
 
 (B) a notification in writing that the units being offered shall not be subsequently sold to any person unless the offer resulting in such subsequent sale is made —
 
@@ -13634,7 +13614,7 @@ both persons shall be counted for the purposes of determining whether offers of 
 
 The offer which is the subject of this information memorandum is not allowed to be made to the retail public. This information memorandum is not a prospectus as defined in the Securities and Futures Act. Accordingly statutory liability under that Act in relation to the content of prospectuses would not apply. You should consider carefully whether the investment is suitable for you.
 
-”
+”;
 
 (ii) states the particulars in respect of the scheme.
 
@@ -13860,7 +13840,7 @@ APPEALS
 
 310\.—(1) Where an appeal is made to the Minister under this Act, the Minister may confirm, vary or reverse the decision of the Authority on appeal, or give such directions in the matter as he thinks fit, and the decision of the Minister shall be final.
 
-(2) Except for an appeal under Part II or III, where an appeal is made to the Minister under this Act, the Minister shall, within 28 days of his receipt of the appeal, constitute an Appeal Advisory Committee comprising not less than 3 members of the Appeal Advisory Panel and refer that appeal to the Appeal Advisory Committee.
+(2) Except for an appeal under Part II, III or IIIA, where an appeal is made to the Minister under this Act, the Minister shall, within 28 days of his receipt of the appeal, constitute an Appeal Advisory Committee comprising not less than 3 members of the Appeal Advisory Panel and refer that appeal to the Appeal Advisory Committee.
 
 (3) The Appeal Advisory Committee shall submit to the Minister a written report on the appeal referred to it under subsection (2), and may make such recommendations as it thinks fit.
 
@@ -14276,13 +14256,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [1/2005 wef 15/10/2005]
 
-(d) a collective investment scheme,
+(d) a collective investment scheme;
 
 [1/2005 wef 15/10/2005]
-
-(d) the affairs of the trustee-manager of a registered business trust; or
-
-[31/2004 wef 12/10/2004]
 
 (e) a registered business trust which is managed and operated by the trustee-manager of the registered business trust,
 
@@ -14790,13 +14766,13 @@ whether or not those securities are pledged as security for the credit facility,
 
 (i) that forms part of an arrangement to underwrite or sub-underwrite securities;
 
-(iii) to a holder of a capital markets services licence to deal in securities or provide securities financing, or a financial institution, to facilitate acquisitions or holdings of securities;
+(ii) to a holder of a capital markets services licence to deal in securities or provide securities financing, or a financial institution, to facilitate acquisitions or holdings of securities;
 
-(iv) by a company to its directors or employees to facilitate acquisitions or holdings of its own securities;
+(iii) by a company to its directors or employees to facilitate acquisitions or holdings of its own securities;
 
-(v) by a member of a group of companies to another member of the group to facilitate acquisitions or holdings of securities by that other member; or
+(iv) by a member of a group of companies to another member of the group to facilitate acquisitions or holdings of securities by that other member; or
 
-(vi) by an individual to a company in which he holds 10% or more of its issued share capital to facilitate acquisitions or holdings of securities;
+(v) by an individual to a company in which he holds 10% or more of its issued share capital to facilitate acquisitions or holdings of securities;
 
 “trading in futures contracts” means (whether as principal or agent) —
 
@@ -14844,59 +14820,113 @@ Section 320(1A)
 
 Specified Provisions
 
-1. Section 14(2) and (8)
+1. 
 
-2. Section 15(1)
+Section 14(2) and (8)
 
-3. Section 35
+2. 
 
-4. Section 59(3)
+Section 15(1)
 
-5. Section 81C
+3. 
 
-6. Section 81ZI
+Section 35
 
-7. Section 83(2)(b)
+4. 
 
-8. Section 99(1)(h)
+Section 59(3)
 
-9. Section 120(4)
+5. 
 
-10. Section 247(1)
+Section 81C
 
-11. Section 248(2) and (5)
+6. 
 
-12. Section 249(3)
+Section 81ZI
 
-13. Section 251(14)
+7. 
 
-14. Section 259(3)
+Section 83(2)(b)
 
-15. Section 262(2)
+8. 
 
-16. Section 277(2)
+Section 99(1)(h)
 
-17. Section 282H(1)
+9. 
 
-18. Section 282I(5)
+Section 120(4)
 
-19. Section 282L(14)
+10. 
 
-20. Section 282S(3)
+Section 247(1)
 
-21. Section 282ZB(3)
+11. 
 
-22. Section 300(9)
+Section 248(2) and (5)
 
-23. Section 302 (when applying section 247(1) or 249(3))
+12. 
 
-24. Section 305B(3)
+Section 249(3)
 
-25. Section 306(1)
+13. 
 
-26. Section 309(3)(a)
+Section 251(14)
 
-27. Section 337(3).
+14. 
+
+Section 259(3)
+
+15. 
+
+Section 262(2)
+
+16. 
+
+Section 277(2)
+
+17. 
+
+Section 282H(1)
+
+18. 
+
+Section 282I(5)
+
+19. 
+
+Section 282L(14)
+
+20. 
+
+Section 282S(3)
+
+21. 
+
+Section 282ZB(3)
+
+22. 
+
+Section 300(9)
+
+23. 
+
+Section 302 (when applying section 247(1) or 249(3))
+
+24. 
+
+Section 305B(3)
+
+25. 
+
+Section 306(1)
+
+26. 
+
+Section 309(3)(a)
+
+27. 
+
+Section 337(3).
 
 [1/2005 wef 15/10/2005]
 
@@ -14955,17 +14985,18 @@ This Legislative History is provided for the convenience of users of the Securit
 |||(Bill No. 64/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
-|10.|**Act 42 of 2005—Statutes (Miscellaneous Amendment No. 2) Act 2005**|
-||Date of First Reading|17 October 2005|
-|||(Bill No. 30/2005 published on 18 October 2005)|
-||Date of Second and Third Readings|21 November 2005|
-||Date of commencement|1 July 2005|
-|11.|**Act 1 of 2005—Securities and Futures (Amendment) Act 2005**|
+|10.|**Act 1 of 2005—Securities and Futures (Amendment) Act 2005**|
 ||Date of First Reading|19 October 2004|
 |||(Bill No. 46/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|1 July 2005|
 |||15 October 2005|
+|11.|**Act 42 of 2005—Statutes (Miscellaneous Amendment No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 July 2005|
+|||1 January 2006|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
