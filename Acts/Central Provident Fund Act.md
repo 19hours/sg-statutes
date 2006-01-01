@@ -1904,8 +1904,6 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 “appointed insurer” means any person who is registered under the Insurance Act (Cap. 142) to carry on insurance business in Singapore and who is appointed by the Board to take over the whole or any part of the Board’s liabilities under the Scheme or to provide insurance cover to any person under the Scheme;
 
-[24/2005 wef 17/09/2005]
-
 “incapacitated” has the same meaning as in section 28;
 
 “insured person” means a person who is insured under the Scheme;
@@ -1960,8 +1958,6 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 (5) The Board or an appointed insurer, as the case may be, may approve any application under subsection (4) in the prescribed manner.
 
-[24/2005 wef 17/09/2005]
-
 ### Board may cancel insurance cover
 
 43\.—(1) If the Board has reason to believe that an insured person is incapacitated or suffering from terminal illness on or before the date of commencement of his insurance cover under the Scheme, the Board may cancel the cover of that person under the Scheme and upon such cancellation that person shall cease immediately to be insured under the Scheme.
@@ -1978,8 +1974,6 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 (4) This section shall apply only in relation to an insured person for whose insurance cover under the Scheme the Board remains liable to pay the insured sum by virtue of section 49A(2)(a).
 
-[24/2005 wef 17/09/2005]
-
 ### Board may require insured person to furnish information
 
 44\.—(1) The Board may require any insured person to furnish to the Board such information as the Board thinks fit regarding the life and health of the insured person or members of his family.
@@ -1991,8 +1985,6 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 [23/89]
 
 (3) This section shall apply only in relation to an insured person for whose insurance cover under the Scheme the Board remains liable to pay the insured sum by virtue of section 49A(2)(a).
-
-[24/2005 wef 17/09/2005]
 
 ### Premium
 
@@ -2008,8 +2000,6 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 (3) Where, by virtue of section 49A, the insurance cover of an insured person under the Scheme is being provided by an appointed insurer, the Board shall pay the amount of the premium deducted under subsection (2) to that appointed insurer.
 
-[24/2005 wef 17/09/2005]
-
 (4) Where the amount of the premium which an insured person is liable to pay under the Scheme exceeds the amount standing to his credit in his ordinary and special accounts, the deficiency may be paid in such manner and within such time as the Board may prescribe.
 
 [23/89]
@@ -2022,13 +2012,9 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 (2) Subject to the provisions of this Part, the insurance cover under the Scheme shall be renewed annually in accordance with the prescribed requirements.
 
-[24/2005 wef 17/09/2005]
-
 ### Rights and benefits under Scheme not assignable or transferable
 
 48\. The rights and benefits of an insured person arising from his insurance cover under the Scheme shall not be assignable or transferable.
-
-[24/2005 wef 17/09/2005]
 
 ### Insurance policy under Scheme not to create trust
 
@@ -2045,8 +2031,6 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 49\.—(1) Where an insured person dies at any time during the period he is insured under the Scheme, the insured sum shall, upon proof of death, be paid by the Board or an appointed insurer, as the case may be, in accordance with the prescribed requirements.
 
 (2) Where there is a claim made under the Scheme by an insured person on the ground of incapacity at any time during the period he is insured under the Scheme, the insured sum shall, upon proof of incapacity, be paid to him by the Board or an appointed insurer, as the case may be, in accordance with the prescribed requirements.
-
-[24/2005 wef 17/09/2005]
 
 ### Transfer of Board’s liabilities under Scheme
 
@@ -2080,8 +2064,6 @@ may be made, and shall be valid and effectual, notwithstanding anything to the c
 
 (b) the terms and conditions subject to which the appointed insurer may issue insurance cover to the person.
 
-[24/2005 wef 17/09/2005]
-
 ### Application of moneys in dissolved Dependants’ Protection Insurance Fund
 
 49B\. Upon the dissolution of the Dependants’ Protection Insurance Fund (referred to in this section as the dissolved Fund), the Board may —
@@ -2089,8 +2071,6 @@ may be made, and shall be valid and effectual, notwithstanding anything to the c
 (a) subject to such terms or conditions as it thinks fit to impose, pay such part of the moneys of the dissolved Fund as the Board may determine to each of the appointed insurers to which the Board’s liabilities under the Scheme has been transferred under section 49A; and
 
 (b) retain such part of the moneys of the dissolved Fund as it thinks necessary for meeting any of its own liabilities under the Scheme that may have arisen prior to the transfer.
-
-[24/2005 wef 17/09/2005]
 
 ### Disclosure of information
 
@@ -2104,8 +2084,6 @@ may be made, and shall be valid and effectual, notwithstanding anything to the c
 
 (3) For the purposes of ensuring that the provisions of this Part are being complied with, the Board may require an appointed insurer or any member to furnish to the Board such documents or information as the Board thinks necessary.
 
-[24/2005 wef 17/09/2005]
-
 ### Non-application of Insurance Act
 
 50\. The Insurance Act (Cap. 142) shall not apply —
@@ -2113,8 +2091,6 @@ may be made, and shall be valid and effectual, notwithstanding anything to the c
 (a) to anything done by the Board under this Part; or
 
 (b) to the transfer of any of the Board’s liabilities under the Scheme under section 49A(1) or (3).
-
-[24/2005 wef 17/09/2005]
 
 ### Regulations for purposes of this Part
 
@@ -2134,11 +2110,7 @@ may be made, and shall be valid and effectual, notwithstanding anything to the c
 
 (g) provide for the manner in which the insured sum shall be paid in respect of any insured person under the Scheme;
 
-[24/2005 wef 17/09/2005]
-
 (ga) provide for the cases in which or the circumstances under which the insured sum shall not be payable in respect of any insured person under the Scheme;
-
-[24/2005 wef 17/09/2005]
 
 (h) provide for such information, evidence and documents that the Board may require an insured person to furnish for the purposes of this Part; and
 
@@ -2748,7 +2720,199 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of Contribution
 
-1. Subject to paragraphs 2 to 7, with effect from 1st January 2005, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1. Subject to paragraphs 2 to 7, with effect from 1st January 2006, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+
+50 Years of Age and below
+
+Above 50 but not more than 55 Years of Age
+
+Above 55 but not more than 60 Years of Age
+
+Above 60 but not more than 65 Years of Age
+
+Above 65Years of Age
+
+Total amount of the employee’s wages for the calender month.
+
+Contributions payable by the employer for the calender month.
+
+Amount recoverable from the employee’s wages for the calender month.
+
+Contributions payable by the employer for the calender month.
+
+Amount recoverable from the employee’s wages for the calender month.
+
+Contributions payable by the employer for the calender month.
+
+Amount recoverable from the employee’s wages for the calender month.
+
+Contributions payable by the employer for the calender month.
+
+Amount recoverable from the employee’s wages for the calender month.
+
+Contributions payable by the employer for the calender month.
+
+Amount recoverable from the employee’s wages for the calender month.
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+(5)
+
+(6)
+
+(7)
+
+(8)
+
+(9)
+
+(10)
+
+(11)
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 13% of the total amount of the employee’s wages for the month.
+
+NIL
+
+An amount equal to 9% of the total amount of the employee’s wages for the month.
+
+NIL
+
+An amount equal to 6% of the total amount of the employee’s wages for the month.
+
+NIL
+
+An amount equal to 3.5% of the total amount of the employee’s wages for the month.
+
+NIL
+
+An amount equal to 3.5% of the total amount of the employee’s wages for the month.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+(a) 13% of the total amount of the employee’s wages for the month; and
+
+(a) 0.6 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(a) 9% of the total amount of the employee’s wages for the month; and
+
+(a) 0.54 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(a) 6% of the total amount of the employee’s wages for the month; and
+
+(a) 0.37 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(a) 3.5% of the total amount of the employee’s wages for the month; and
+
+(a) 0.22 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(a) 3.5% of the total amount of the employee’s wages for the month; and
+
+(a) 0.15 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.6 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.54 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.37 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.22 of the difference between the total amount of the employee’s wages for the month and $500.
+
+(b) 0.15 of the difference between the total amount of the employee’s wages for the month and $500.
+
+Exceeding $750
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+An amount equal to the sum of —
+
+(a) 33% of the employee’s ordinary wages for the month subject to a maximum of $1,485; and
+
+(a) 20% of the employee’s ordinary wages for the month subject to a maximum of $900; and
+
+(a) 27% of the employee’s ordinary wages for the month subject to a maximum of $1,215; and
+
+(a) 18% of the employee’s ordinary wages for the month subject to a maximum of $810; and
+
+(a) 18.5% of the employee’s ordinary wages for the month subject to a maximum of $832.50; and
+
+(a) 12.5% of the employee’s ordinary wages for the month subject to a maximum of $562.50; and
+
+(a) 11% of the employee’s ordinary wages for the month subject to a maximum of $495; and
+
+(a) 7.5% of the employee’s ordinary wages for the month subject to a maximum of $337.50; and
+
+(a) 8.5% of the employee’s ordinary wages for the month subject to a maximum of $382.50; and
+
+(a) 5% of the employee’s ordinary wages for the month subject to a maximum of $225; and
+
+(b) 33% of the amount of the additional wages payable to the employee in the month.
+
+(b) 20% of the amount of the additional wages payable to the employee in the month.
+
+(b) 27% of the amount of the additional wages payable to the employee in the month.
+
+(b) 18% of the amount of the additional wages payable to the employee in the month.
+
+(b) 18.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 12.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 11% of the amount of the additional wages payable to the employee in the month.
+
+(b) 7.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 8.5% of the amount of the additional wages payable to the employee in the month.
+
+(b) 5% of the amount of the additional wages payable to the employee in the month.";
+
+[S 830/2005 wef 01/01/2006]
 
 1A. Subject to paragraphs 1E to 7, with effect from 1st March 2011, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates) during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
@@ -4126,9 +4290,9 @@ until the employee leaves the employment of the employer or the agreement expire
 
 then the agreed rates of the contribution shall continue to apply in relation to that employee until the employee leaves the employment of the employer, or the agreement expires or is lawfully terminated, whichever is the earlier.
 
-2\. No contributions shall be payable by an employer on the additional wages in a year which are in excess of $85,000 less the amount of ordinary wages for that year.
+2\. No contributions shall be payable by an employer on the additional wages in a year which are in excess of $76,500 less the amount of ordinary wages for that year.
 
-3. Where the additional wages of an employee are paid at any time before the relevant time and before the amount of his ordinary wages for that year is computed, no contributions shall be payable by an employer on the additional wages which are in excess of an amount computed as follows: $85,000 less —
+3. Where the additional wages of an employee are paid at any time before the relevant time and before the amount of his ordinary wages for that year is computed, no contributions shall be payable by an employer on the additional wages which are in excess of an amount computed as follows: $76,500 less —
 
 (a) the ordinary wages of the employee for the preceding year; and
 
@@ -4140,7 +4304,7 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 (3) Where the employer is required to make additional contributions under sub-paragraph (2), he shall be entitled to recover from the employee’s wages, at the rate of recovery for additional wages applicable to the employee, the amount of additional contributions paid by the employer under that sub-paragraph.
 
-4A\. In computing the amount of ordinary wages for a year or a preceding year for the purposes of paragraphs 2, 3 and 4, the amount of ordinary wages which is in excess of $5,000 for any month shall be disregarded.
+4A\. In computing the amount of ordinary wages for a year or a preceding year for the purposes of paragraphs 2, 3 and 4, the amount of ordinary wages which is in excess of $4,500 for any month shall be disregarded.
 
 5. For the purpose of this Schedule —
 
@@ -4185,6 +4349,10 @@ then the agreed rates of the contribution shall continue to apply in relation to
 (8) Civil Aviation Authority of Singapore.
 
 (9) Civil Service College.
+
+(10) Competition Commission of Singapore.
+
+[S 830/2005 wef 01/01/2006]
 
 (11) Contact Lens Practitioners Board.
 
@@ -4996,6 +5164,8 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 14/2005 published on 17 May 2005)|
 ||Date of Second and Third Readings|19 July 2005|
 ||Dates of commencement|17 September 2005 (sections 3 to 13 and 17)|
+|145.|**G.N. No. S 830/2005—Central Provident Fund Act (Amendment of First Schedule) Notification 2005**|
+||Date of commencement|1 January 2006|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
