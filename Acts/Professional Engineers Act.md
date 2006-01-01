@@ -150,7 +150,7 @@
 
 (CHAPTER 253)
 
-(Original Enactment: 23 of 1991)
+(Original Enactment: Act 23 of 1991)
 
 REVISED EDITION 1992
 
@@ -1260,7 +1260,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) may, subject to the rules, regulate its own procedure for a formal inquiry.
 
-(4) Any party to the proceedings before a Disciplinary Committee may sue out writs of subpoena ad testificandum and of duces tecum, and such writs shall be served and may be enforced as if they were writs issued in connection with a civil action in the High Court.
+(4) Any party to the proceedings before a Disciplinary Committee may sue out subpoenas to testify or to produce documents, and such subpoenas shall be served and may be enforced as if they were subpoenas issued in connection with a civil action in the High Court.
+
+[42/2005 wef 01/01/2006]
 
 (5) Any person giving evidence before a Disciplinary Committee shall be legally bound to tell the truth.
 
@@ -1535,3 +1537,9 @@ This Legislative History is provided for the convenience of users of the Profess
 ||Date of Second and Third Readings|15 August 2005|
 ||Date of commencement|1 December 2005|
 |||(sections 2 and 5 to 25)|
+|11.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
+|||(item (15) in the Fifth Schedule)|
