@@ -76,13 +76,19 @@ An Act to provide for the legitimation of children born out of wedlock.
 
 ### Declarations of legitimacy of legitimated persons
 
-4\.—(1) A person claiming that he or his parent or any remoter ancestor became or has become a legitimated person may, whether domiciled in Singapore or elsewhere, and whether a citizen of Singapore or not, apply by petition to the High Court praying the court for a decree declaring that the petitioner is the legitimate child of his parents, or that his parent or remoter ancestor was legitimate, and the High Court shall have jurisdiction to hear and determine that application and to make such decree declaratory of the legitimacy or illegitimacy of such person as to the court may seem just; and that decree shall be binding to all intents and purposes on the Government and on all persons whomsoever.
+4\.—(1) A person claiming that he or his parent or any remoter ancestor became or has become a legitimated person may, whether domiciled in Singapore or elsewhere, and whether a citizen of Singapore or not, apply to the High Court by originating summons for a decree declaring that the applicant is the legitimate child of his parents, or that his parent or remoter ancestor was legitimate, and the High Court shall have jurisdiction to hear and determine that application and to make such decree declaratory of the legitimacy or illegitimacy of such person as to the court may seem just; and that decree shall be binding to all intents and purposes on the Government and on all persons whomsoever.
 
-(2) Every petition under this section shall be accompanied by such affidavit verifying the facts alleged in the same, and by such proof of the absence of fraud and collusion, as the court may by any general rule direct.
+[42/2005 wef 01/01/2006]
+
+(2) Every application under this section shall be supported by an affidavit verifying the facts alleged in the same, and by such proof of the absence of fraud and collusion, as the court may by any general rule direct.
+
+[42/2005 wef 01/01/2006]
 
 (3) In all proceedings under this section the court shall have full power to award and enforce payment of costs to any person cited, whether that person does or does not oppose the declaration applied for, in case the court considers it reasonable that the costs should be paid.
 
-(4) A copy of every petition under this section, and of the affidavit accompanying the same, shall, one month at least prior to the presentation or filing of the petition, be delivered to the Attorney-General, who shall be a respondent upon the hearing of the petition and upon every subsequent proceeding relating thereto.
+(4) A copy of every application under this section and of the affidavit in support thereof shall be served on the Attorney-General, who may apply to intervene in the application if he thinks necessary.
+
+[42/2005 wef 01/01/2006]
 
 (5) Where any application is made under this section to the court, the person or persons, if any, besides the Attorney-General as the court thinks fit shall, subject to the rules made under this section, be cited to the proceedings or otherwise summoned in such manner as the court directs, and may be permitted to become parties to the proceedings, and oppose the application.
 
@@ -197,3 +203,8 @@ This Legislative History is provided for the convenience of users of the Legitim
 |8.|**1985 Revised Edition—Legitimacy Act**|
 ||(G.N. No. S 51/2019 — Rectification Order)||
 ||Date of operation|30 March 1987|
+|9.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (item (21) of First Schedule)|
