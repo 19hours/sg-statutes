@@ -850,9 +850,9 @@ Disciplinary Committee
 
 (7) If the registered dentist does not appear, the Disciplinary Committee may proceed with the inquiry after first satisfying itself that the notice of inquiry referred to in section 42 was duly served on him.
 
-(8) A Disciplinary Committee may, for the purposes of its inquiry, administer an oath or affirmation to any person giving evidence before it, and any party to the proceedings may sue out writs of subpoena ad testificandum and of duces tecum.
+(8) A Disciplinary Committee may, for the purposes of its inquiry, administer an oath or affirmation to any person giving evidence before it, and any party to the proceedings may sue out subpoenas to testify or to produce documents.
 
-(9) The writs referred to in subsection (8) shall be served and may be enforced as if they were writs issued in connection with a civil action in the High Court.
+(9) The subpoenas referred to in subsection (8) shall be served and may be enforced as if they were subpoenas issued in connection with a civil action in the High Court.
 
 (10) Any person giving evidence before a Disciplinary Committee shall be legally bound to tell the truth.
 
@@ -1506,6 +1506,12 @@ This Legislative History is provided for the convenience of users of the Dental 
 |||(Bill No. 2/2001 published on 13 January 2001)|
 ||Date of Second and Third Readings|22 February 2001|
 ||Date of commencement|1 April 2001|
+|18.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (item (9) of Fifth Schedule — Amendment of Dentists Act)|
 ## COMPARATIVE TABLE
 
 Dentists Act
