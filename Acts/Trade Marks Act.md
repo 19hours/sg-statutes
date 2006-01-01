@@ -342,7 +342,21 @@ PRELIMINARY
 
 “collective mark” has the meaning assigned to it in section 60;
 
-“Convention country” means a country or territory, other than Singapore, which is a party to the Paris Convention or a member of the World Trade Organisation;
+“Convention country” means —
+
+(a) in section 10 and paragraph 13 of the Third Schedule, a country or territory, other than Singapore, which is —
+
+(i) a party to the Paris Convention; or
+
+(ii) a member of the World Trade Organisation; and
+
+(b) in any other provision of this Act, a country or territory which is —
+
+(i) a party to the Paris Convention; or
+
+(ii) a member of the World Trade Organisation;
+
+[42/2005 wef 01/01/2006]
 
 “Court” means the High Court;
 
@@ -786,9 +800,17 @@ Registration procedure
 
 (2) For the purpose of subsection (1), the Registrar may carry out a search, to such extent as he considers necessary, of earlier trade marks.
 
-(3) If it appears to the Registrar that the requirements for registration are not met, the Registrar shall inform the applicant and give him an opportunity, within such period as may be prescribed, to make representations or to amend the application.
+(3) If it appears to the Registrar that the requirements for registration are not met or that additional information or evidence is required to meet those requirements, the Registrar shall inform the applicant and give him an opportunity, within such period as may be prescribed, to make representations, to amend the application or to furnish the additional or any other information or evidence.
 
-(4) If the applicant fails to satisfy the Registrar that those requirements are met, or to amend the application so as to meet them, or fails to respond before the end of the prescribed period, the Registrar shall refuse to accept the application.
+[42/2005 wef 01/01/2006]
+
+(4) If the applicant responds within the period referred to in subsection (3) but fails to satisfy the Registrar that those requirements are met, or to amend the application or furnish the additional information or evidence so as to meet them, the Registrar may refuse to accept the application.
+
+[42/2005 wef 01/01/2006]
+
+(4A) If the applicant fails to respond within the period referred to in subsection (3), the application shall be treated as withdrawn.
+
+[42/2005 wef 01/01/2006]
 
 (5) If it appears to the Registrar that the requirements for registration are met, the Registrar shall accept the application.
 
@@ -2991,9 +3013,13 @@ he is entitled to his costs as between solicitor and client unless the Court dir
 
 (g) prescribing time limits for anything required to be done in connection with any proceedings under this Act;
 
-(h) providing for the extension of any time limit so prescribed, or specified by the Registrar, whether or not it has already expired; and
+(h) providing for the extension of any time limit so prescribed, or specified by the Registrar, whether or not it has already expired;
 
-(i) as to the giving of evidence in proceedings before the Registrar under this Act by affidavit or statutory declaration.
+(i) as to the giving of evidence in proceedings before the Registrar under this Act by affidavit or statutory declaration ; and
+
+(j) for the restoration of any application which is treated as withdrawn and the conditions for such restoration.
+
+[42/2005 wef 01/01/2006]
 
 [UK Trade Marks Act 1994, s. 78]
 
@@ -3051,13 +3077,19 @@ Approval of regulations by Registrar
 
 (2) Before the end of the prescribed period after the date of the application for registration of a collective mark, the applicant must file the regulations with the Registrar and pay the prescribed fee.
 
-(3) If the applicant does not comply with sub-paragraph (2), the application shall be deemed to be withdrawn.
+(3) If the applicant does not comply with sub-paragraph (2), the application shall be treated as withdrawn.
 
 7.—(1) The Registrar shall consider whether the requirements mentioned in paragraph 6(1) are met.
 
 (2) If it appears to the Registrar that those requirements are not met, he shall inform the applicant and give him an opportunity, within such period as the Registrar may specify, to make representations or to file amended regulations.
 
-(3) If the applicant fails to satisfy the Registrar that those requirements are met, or to file regulations amended so as to meet them, or fails to respond before the end of the specified period, the Registrar shall refuse the application.
+(3) If the applicant responds within the specified period but fails to satisfy the Registrar that those requirements are met, or to file regulations that have been amended so as to meet those requirements, the Registrar may refuse the application.
+
+[42/2005 wef 01/01/2006]
+
+(3A) If the applicant fails to respond within the specified period, the application shall be treated as withdrawn.
+
+[42/2005 wef 01/01/2006]
 
 (4) If it appears to the Registrar that those requirements, and the other requirements for registration, are met, he shall accept the application and shall proceed in accordance with section 13.
 
@@ -3177,13 +3209,19 @@ Approval of regulations, etc.
 
 (2) Before the end of the prescribed period after the date of the application for registration of a certification mark, the applicant must file the regulations with the Registrar and pay the prescribed fee.
 
-(3) If the applicant does not comply with sub-paragraph (2), the application shall be deemed to be withdrawn.
+(3) If the applicant does not comply with sub-paragraph (2), the application shall be treated as withdrawn.
 
 8.—(1) The Registrar shall consider whether the requirements mentioned in paragraph 7(1) are met.
 
 (2) If it appears to the Registrar that those requirements are not met, he shall inform the applicant and give him an opportunity, within such period as the Registrar may specify, to make representations or to file amended regulations.
 
-(3) If the applicant fails to satisfy the Registrar that those requirements are met, or to file regulations amended so as to meet them, or fails to respond before the end of the specified period, the Registrar shall refuse the application.
+(3) If the applicant responds within the specified period but fails to satisfy the Registrar that those requirements are met, or to file regulations that have been amended so as to meet those requirements, the Registrar may refuse the application.
+
+[42/2005 wef 01/01/2006]
+
+(3A) If the applicant fails to respond within the specified period, the application shall be treated as withdrawn.
+
+[42/2005 wef 01/01/2006]
 
 (4) If it appears to the Registrar that those requirements, and the other requirements for registration, are met, he shall accept the application and shall proceed in accordance with section 13.
 
@@ -3531,6 +3569,11 @@ This Legislative History is provided for the convenience of users of the Trade M
 ||Date of commencement|1 July 2004|
 |11.|**2005 Revised Edition—Trade Marks Act**|
 ||Date of operation|31 July 2005|
+|12.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
 ## COMPARATIVE TABLE
 
 Trade Marks Act
