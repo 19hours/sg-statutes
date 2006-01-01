@@ -244,7 +244,7 @@
 
 - [78 Trustees to keep accounts and to render annual returns of accounts](#Trustees-to-keep-accounts-and-to-render-annual-returns-of-accounts)
 
-- [79 Petition to decide question whether person is a member of a body corporate](#Petition-to-decide-question-whether-person-is-a-member-of-a-body-corporate)
+- [79 Application to decide question whether person is a member of a body corporate](#Application-to-decide-question-whether-person-is-a-member-of-a-body-corporate)
 
 - [80 Dissolution of body corporate](#Dissolution-of-body-corporate)
 
@@ -1998,7 +1998,7 @@ CHARITABLE TRUSTS
 
 (b) shall publish notice thereof in theGazetteand on the publication in theGazetteof the notice all property, movable and immovable of whatever description, subject to such trust shall vest in the Public Trustee as provisional trustee thereof.
 
-(4) The Public Trustee as such provisional trustee may apply to the court by motion for the appointment of new trustees to administer such trust and on the appointment of the new trustees all such property shall vest in them.
+(4) The Public Trustee as such provisional trustee may apply to the court by originating summons for the appointment of new trustees to administer such trust and on the appointment of the new trustees all such property shall vest in them.
 
 [42/2005 wef 01/01/2006]
 
@@ -2158,9 +2158,9 @@ Applications and certificates to be stamped
 
 [Malaya Trustees (Incorporation) 1952, s. 15]
 
-### Petition to decide question whether person is a member of a body corporate
+### Application to decide question whether person is a member of a body corporate
 
-79\.—(1) When any question arises as to whether any person is a member of such body corporate, any person interested in the question may apply by petition to the court for its opinion on the question.
+79\.—(1) When any question arises as to whether any person is a member of such body corporate, any person interested in the question may apply by originating summons to the court for its opinion on the question.
 
 [42/2005 wef 01/01/2006]
 
@@ -2565,6 +2565,11 @@ This Legislative History is provided for the convenience of users of the Trustee
 ||Date of commencement|15 December 2004|
 |25.|**2005 Revised Edition—Trustees Act**|
 ||Date of operation|31 July 2005|
+|26.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
 ## COMPARATIVE TABLE
 
 Trustees Act
