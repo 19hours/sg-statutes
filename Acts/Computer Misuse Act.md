@@ -42,7 +42,7 @@
 
 - [14 Saving for investigations by police and law enforcement officers](#Saving-for-investigations-by-police-and-law-enforcement-officers)
 
-- [15 Power of police officer to access computer and data](#Power-of-police-officer-to-access-computer-and-data)
+- [15 (Repealed)](#Repealed)
 
 - [15A Preventing or countering threats to national security, etc.](#Preventing-or-countering-threats-to-national-security-etc)
 
@@ -366,61 +366,19 @@ MISCELLANEOUS AND GENERAL
 
 ### Saving for investigations by police and law enforcement officers
 
-14\. Nothing in this Act shall prohibit a police officer, a person authorised in writing by the Commissioner of Police under section 15(1) or any other duly authorised law enforcement officer from lawfully conducting investigations pursuant to his powers conferred under any written law.
+14\. Nothing in this Act shall prohibit a police officer, an authorised person within the meaning of section 125A of the Criminal Procedure Code (Cap. 68) or any other duly authorised law enforcement officer from lawfully conducting investigations pursuant to his powers conferred under any written law.
 
 [11
 
 [21/98]
 
-### Power of police officer to access computer and data
-
-15\.—(1) A police officer or a person authorised in writing by the Commissioner of Police shall —
-
-(a) be entitled at any time to —
-
-(i) have access to and inspect and check the operation of any computer to which this section applies;
-
-(ii) use or cause to be used any such computer to search any data contained in or available to such computer; or
-
-(iii) have access to any information, code or technology which has the capability of retransforming or unscrambling encrypted data contained or available to such computer into readable and comprehensible format or text for the purpose of investigating any offence under this Act or any other offence which has been disclosed in the course of the lawful exercise of the powers under this section;
-
-(b) be entitled to require —
-
-(i) the person by whom or on whose behalf, the police officer or investigation officer has reasonable cause to suspect, any computer to which this section applies is or has been used; or
-
-(ii) any person having charge of, or otherwise concerned with the operation of, such computer,
-
-to provide him with such reasonable technical and other assistance as he may require for the purposes of paragraph (a); or
-
-(c) be entitled to require any person in possession of decryption information to grant him access to such decryption information necessary to decrypt data required for the purpose of investigating any such offence.
-
-[21/98]
-
-(2) This section shall apply to a computer which a police officer or a person authorised in writing by the Commissioner of Police has reasonable cause to suspect is or has been in use in connection with any offence under this Act or any other offence which has been disclosed in the course of the lawful exercise of the powers under this section.
-
-[21/98]
-
-(3) The powers referred to in paragraphs (a)(ii) and (iii) and (c) of subsection (1) shall not be exercised except with the consent of the Public Prosecutor.
-
-[21/98]
-
-(4) Any person who obstructs the lawful exercise of the powers under subsection (1)(a) or who fails to comply with a request under subsection (1)(b) or (c) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-[21/98]
-
-(5) For the purposes of this section —
-
-“decryption information” means information or technology that enables a person to readily retransform or unscramble encrypted data from its unreadable and incomprehensible format to its plain text version;
-
-“encrypted data” means data which has been transformed or scrambled from its plain text version to an unreadable or incomprehensible format, regardless of the technique utilised for such transformation or scrambling and irrespective of the medium in which such data occurs or can be found for the purposes of protecting the content of such data;
-
-“plain text version” means original data before it has been transformed or scrambled to an unreadable or incomprehensible format.
+15\. [Deleted by Act 42/2005 wef 01/01/2006]
 
 ### Preventing or countering threats to national security, etc.
 
 15A\.—(1) Where the Minister is satisfied that it is necessary for the purposes of preventing or countering any threat to the national security, essential services, defence or foreign relations of Singapore, the Minister may, by a certificate under his hand, authorise any person or organisation specified in the certificate to take such measures as may be necessary to prevent or counter any threat to a computer or computer service or any class of computers or computer services.
 
-(2) The measures referred to in subsection (1) may include, without limitation, the exercise by the authorised person or organisation of the powers referred to in section 15.
+(2) The measures referred to in subsection (1) may include, without limitation, the exercise by the authorised person or organisation of the powers referred to in sections 125A and 125B of the Criminal Procedure Code (Cap. 68).
 
 (3) Where an offence is disclosed in the course of or pursuant to the exercise of any power under this section —
 
@@ -488,3 +446,8 @@ This Legislative History is provided for the convenience of users of the Compute
 |||(Bill No. 22/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|1 September 2004 (section 2)|
+|8.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (section 14)|
