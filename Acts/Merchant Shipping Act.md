@@ -1496,7 +1496,7 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (5) If any subsequent claim is made to such property, or the residue thereof, and is established to the satisfaction of the Director, the amount, or so much as appears to be due to the claimant, shall be paid out of the Consolidated Fund.
 
-(6) If any claim is not established to the satisfaction of the Director, the claimant may apply by summons to the High Court, and the Court, after taking evidence orally or on affidavit, may make such order on the summons as it thinks just.
+(6) If any claim is not established to the satisfaction of the Director, the claimant may apply by originating summons to the High Court, and the Court, after taking evidence orally or on affidavit, may make such order on the application as it thinks just.
 
 (7) After the expiration of 6 years from the receipt of such property or proceeds thereof by the Director, no such claim shall be made without the sanction of the Minister.
 
@@ -3185,3 +3185,8 @@ This Legislative History is provided for the convenience of users of the Merchan
 |||(Bill No. 65/2004 published on 17 November 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|1 May 2005|
+|6.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1st January 2006|
