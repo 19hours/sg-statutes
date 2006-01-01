@@ -360,11 +360,11 @@ the period between the commencement of the arbitration and the date of the order
 
 ### Witnesses may be summoned by subpoena
 
-13\.—(1) Any party to an arbitration agreement may take out a writ of subpoena ad testificandum (writ to compel witness to attend and give evidence) or a writ of subpoena duces tecum (writ to compel witness to attend and give evidence and produce specified documents).
+13\.—(1) Any party to an arbitration agreement may take out a subpoena to testify or a subpoena to produce documents.
 
-[38/2001]
+[42/2005 wef 01/01/2006]
 
-(2) The court may order that a writ of subpoena ad testificandum or a writ of subpoena duces tecum shall be issued to compel the attendance before an arbitral tribunal of a witness wherever he may be within Singapore.
+(2) The court may order that a subpoena to testify or a subpoena to produce documents shall be issued to compel the attendance before an arbitral tribunal of a witness wherever he may be within Singapore.
 
 [42/2005 wef 01/01/2006]
 
@@ -374,7 +374,7 @@ the period between the commencement of the arbitration and the date of the order
 
 [38/2001]
 
-(4) No person shall be compelled under any such writ to produce any document which he could not be compelled to produce on the trial of an action.
+(4) No person shall be compelled under any such subpoena to produce any document which he could not be compelled to produce on the trial of an action.
 
 [42/2005 wef 01/01/2006]
 
@@ -382,7 +382,7 @@ the period between the commencement of the arbitration and the date of the order
 
 ### Power to compel attendance of witness
 
-14\.—(1) The High Court or a Judge thereof may order that a writ of subpoena ad testificandum or a writ of subpoena duces tecum shall be issued to compel the attendance before an arbitral tribunal of a witness wherever he may be within Singapore.
+14\.—(1) The High Court or a Judge thereof may order that a subpoena to testify or a subpoena to produce documents shall be issued to compel the attendance before an arbitral tribunal of a witness wherever he may be within Singapore.
 
 [42/2005 wef 01/01/2006]
 
@@ -1263,6 +1263,11 @@ This Legislative History is provided for the convenience of users of the Interna
 ||Date of commencement|25 October 2002|
 |5.|**2002 Revised Edition—International Arbitration Act**|
 ||Date of operation|31 December 2002|
+|6.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|1st January 2006|
 ## COMPARATIVE TABLE
 
 International Arbitration Act
