@@ -250,7 +250,13 @@ PRELIMINARY
 
 “probate” means a grant under the seal of the court issuing the same, authorising the executor or executors expressly or impliedly appointed by a testator’s will, or one or more of them, to administer the testator’s estate in compliance with the directions contained in his will, and in accordance with law;
 
-“probate action” means a cause or matter in which a petition for probate or letters of administration is contested by any person, and includes any application to alter or revoke the grant of any probate or letters of administration;
+“probate action” means a cause or matter in which a probate application is contested by any person, and includes any application to alter or revoke the grant of any probate or letters of administration;
+
+[42/2005 wef 01/01/2006]
+
+“probate application” means an application for a grant of probate or letters of administration, and “probate applicant” shall be construed accordingly;
+
+[42/2005 wef 01/01/2006]
 
 “Public Trustee” means the Public Trustee appointed under the Public Trustee Act (Cap. 260) and includes an Assistant Public Trustee appointed under that Act;
 
@@ -278,7 +284,9 @@ RENUNCIATION
 
 (2) Such renunciation may be made —
 
-(a) orally by the person renouncing or by his advocate and solicitor, on the hearing of any petition or probate action; or
+(a) orally by the person renouncing or by his advocate and solicitor, on the hearing of any probate application or probate action; or
+
+[42/2005 wef 01/01/2006]
 
 (b) in writing signed by the person so renouncing and attested either by an advocate and solicitor or by any person before whom an affidavit may be sworn.
 
@@ -316,7 +324,7 @@ GRANT OF PROBATE OR LETTERS OF ADMINISTRATION
 
 ### Notation of domicile
 
-7\.—(1) A petitioner for a grant of probate or of letters of administration may at any time apply to the registrar by summons intituled in the estate of the deceased person for an order that a notation be endorsed on the grant that the deceased person died domiciled in Singapore.
+7\.—(1) A probate applicant may at any time apply to the registrar by summons intituled in the estate of the deceased person for an order that a notation be endorsed on the grant that the deceased person died domiciled in Singapore.
 
 (2) The registrar, on being satisfied by affidavit and by such further evidence as he may require that the testator or intestate died domiciled in Singapore, may write and sign a note or memorandum upon such grant stating that the testator or intestate died domiciled in Singapore.
 
@@ -546,7 +554,7 @@ CAVEATS
 
 33\.—(1) Any person having or claiming to have interest may, at any time after the death of a deceased person and before probate or letters of administration have been granted to his estate, enter a general caveat, so that no probate or letters of administration shall be granted without notice to the caveator.
 
-(2) After entry of any such caveat no such grant shall be made until the caveator has been given opportunity to contest the right of any petitioner .
+(2) After entry of any such caveat no such grant shall be made until the caveator has been given opportunity to contest the right of any probate applicant to a grant.
 
 ## PART VIII
 
@@ -564,7 +572,7 @@ DISTRICT COURTS
 
 ### Grants in excess of jurisdiction not to be invalid
 
-35\.—(1) No probate or letters of administration granted by a District Court shall be invalid by reason of the assets and effects of the deceased being subsequently found to be of greater value than $250,000.
+35\.—(1) No probate or letters of administration granted by a District Court shall be invalid by reason of the assets and effects of the deceased being subsequently found to be of a value which exceeds the District Court limit.
 
 (2) The grantee shall be —
 
@@ -575,6 +583,10 @@ DISTRICT COURTS
 [7/76; 3/87]
 
 (3) Unless in such case the grantee complies without delay with the requirements of subsection (2), the grant may be revoked, on the application of the Commissioner of Estate Duties, or of the Registrar of the Supreme Court, or of any person having any interest as beneficiary or creditor in the assets of the estate.
+
+(4) In this section, “District Court limit” has the same meaning as in sections 26(a) and 27 of the Subordinate Courts Act (Cap. 321).
+
+[42/2005 wef 01/01/2006]
 
 ### Security in case of grant of administration by District Court
 
@@ -626,9 +638,13 @@ the real and personal estate of which the testator disposes by the will shall ve
 
 ### Receiver pending grant
 
-39\. Where any person dies leaving property within Singapore, the court or a judge may, if it appears, on the application by motion of the Public Trustee or of any person claiming to be interested in the property, or having the custody or control thereof at the time of the death of the deceased, or being at such time an attorney of the deceased, that there is danger that the property may be wasted, appoint the Public Trustee or such other person as the court or judge thinks fit, to be a receiver of the property pending a grant of probate or letters of administration.
+39\. Where any person dies leaving property within Singapore, the court or a judge may, if it appears, on an application made by originating summons by the Public Trustee or by any person claiming to be interested in the property, or having the custody or control thereof at the time of the death of the deceased, or being at such time an attorney of the deceased, that there is danger that the property may be wasted, appoint the Public Trustee or such other person as the court or judge thinks fit, to be a receiver of the property pending a grant of probate or letters of administration.
 
 [38
+
+[6/2004 wef 08/03/2004]
+
+[42/2005 wef 01/01/2006]
 
 ### Sale by order of court
 
@@ -846,15 +862,29 @@ and no person is present in Singapore at the time of his death who is rightfully
 
 ### Administration by Public Trustee
 
-62\.—(1) Where any person dies leaving property in Singapore not exceeding $50,000 in value (without deduction for debts but not including the value of any property which the deceased possessed or was entitled to as trustee and not beneficially) the Public Trustee, after satisfying himself that no petition for letters of administration is pending, may, if he thinks fit, by writing signed by him declare that he undertakes to administer such property.
+62\.—(1) Where any person dies leaving property in Singapore not exceeding $50,000 in value (without deduction for debts), the Public Trustee, after satisfying himself that no application for letters of administration is pending, may, if he thinks fit, by writing signed by him declare that he undertakes to administer such property.
+
+[42/2005 wef 01/01/2006]
+
+(1A) For the purpose of subsection (1), the amount of $50,000 shall not include —
+
+(a) the value of any property which the deceased possessed or was entitled to as trustee and not beneficially; and
+
+(b) in the case of a person who dies on or after 17th September 2005, any moneys payable by an appointed insurer pursuant to the Dependants’ Protection Insurance Scheme or any other equivalent scheme maintained by the Central Provident Fund Board under the Central Provident Fund Act (Cap. 36).
+
+[42/2005 wef 01/01/2006]
 
 (2) Upon a declaration under subsection (1), the Public Trustee shall be empowered to administer such property as though letters of administration, with or without the will annexed, of the estate of the deceased person had been granted to him, and his receipt shall be a sufficient discharge to any person who pays any money or delivers any property to him.
+
+[6/2004 wef 08/03/2004]
 
 (3) Notice of every declaration made under subsection (1) shall be filed in court.
 
 [7/76]
 
 (4) At any time prior to the distribution of any part of the property among the beneficiaries thereof under this section the Public Trustee may, if he thinks it expedient to do so, notwithstanding any declaration made by him under subsection (1), decline to proceed with the administration of the property in his hands until a grant of representation has been obtained in respect of the estate of the deceased.
+
+[6/2004 wef 08/03/2004]
 
 ### Payment for minor’s maintenance, etc., out of property not exceeding $25,000 in value held by Public Trustee
 
@@ -925,6 +955,8 @@ and no person is present in Singapore at the time of his death who is rightfully
 (b) may accept those funds as a trustee for the person entitled, and apply the same for the benefit of such person; and
 
 (c) may for such purpose exercise all the powers conferred on him under section 63.
+
+[6/2004 wef 08/03/2004]
 
 (2) The receipt of the Public Trustee may be accepted by the personal representative and shall constitute a full and sufficient discharge in respect of such funds.
 
@@ -1132,6 +1164,11 @@ This Legislative History is provided for the convenience of users of the Probate
 |||(Bill No. 4/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|8 March 2004 (except section 3)|
+|18.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
 ## COMPARATIVE TABLE
 
 Probate and Administration Act
