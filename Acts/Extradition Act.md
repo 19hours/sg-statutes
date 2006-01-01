@@ -360,15 +360,19 @@ the Magistrate shall, by warrant in accordance with Form 5 in the Second Schedul
 
 ### Surrender of fugitive to foreign State
 
-12\.—(1) When, under this Part, a Magistrate commits a person (referred to in this section as the prisoner) to prison, or otherwise orders that he be held in custody, to await the warrant of the Minister for his surrender to a foreign State, the Magistrate shall inform the prisoner that he will not be surrendered until after the expiration of the period of 15 days from the date of the committal or order and that, if he asserts that his detention is unlawful, he may apply to a court of competent jurisdiction for a writ of habeas corpus.
+12\.—(1) When, under this Part, a Magistrate commits a person (referred to in this section as the prisoner) to prison, or otherwise orders that he be held in custody, to await the warrant of the Minister for his surrender to a foreign State, the Magistrate shall inform the prisoner that he will not be surrendered until after the expiration of the period of 15 days from the date of the committal or order and that, if he asserts that his detention is unlawful, he may apply to a court of competent jurisdiction for an Order for Review of Detention.
+
+[42/2005 wef 01/01/2006]
 
 (2) After —
 
 (a) the expiration of the period referred to in subsection (1); or
 
-(b) if, within that period, an application for a writ of habeas corpus is made by the prisoner and the court to which the application is made or, where an appeal is brought from the decision of that court to another court, the other court does not order that the prisoner be released — the expiration of the period of 15 days from the date of the decision of the first-mentioned court or the appellate court, as the case may be,
+(b) if, within that period, an application for an Order for Review of Detention is made by the prisoner and the court to which the application is made or, where an appeal is brought from the decision of that court to another court, the other court does not order that the prisoner be released — the expiration of the period of 15 days from the date of the decision of the first-mentioned court or the appellate court, as the case may be,
 
 whichever is the later, the Minister may, in his discretion, if he is satisfied that the prisoner is liable to be surrendered to the foreign State, by warrant in accordance with Form 6 in the Second Schedule or, where the prisoner is held in custody otherwise than at a prison, in accordance with that Form with such variations as are necessary to meet the circumstances of the case, order that the prisoner be delivered into the custody of a person specified in the warrant and be conveyed by that person to a place in the foreign State or within the jurisdiction of, or of a part of, the foreign State and there surrendered to some person appointed by the foreign State to receive him.
+
+[42/2005 wef 01/01/2006]
 
 (3) A warrant issued under subsection (2) may be executed according to its tenor.
 
@@ -382,9 +386,11 @@ whichever is the later, the Minister may, in his discretion, if he is satisfied 
 
 (a) the date of the committal or order; or
 
-(b) if an application for a writ of habeas corpus has been made by the person — the date of the decision of the court to which the application was made or, where an appeal has been brought from that decision to another court, the date of the decision of the other court,
+(b) if an application for an Order for Review of Detention has been made by the person — the date of the decision of the court to which the application was made or, where an appeal has been brought from that decision to another court, the date of the decision of the other court,
 
 whichever is the later, the High Court, upon application made to it by the person and upon proof that reasonable notice of the intention to make the application has been given to the Minister, shall, unless reasonable cause is shown for the delay, order that the person be released.
+
+[42/2005 wef 01/01/2006]
 
 ## PART III
 
@@ -586,7 +592,7 @@ the Magistrate shall, by warrant in accordance with Form 5 in the Second Schedul
 
 ### Power of Magistrate or court to release, or postpone surrender of, person
 
-26\. If a Magistrate before whom a person is brought in pursuance of section 25, or a court to which the person has applied for a writ of habeas corpus, is satisfied that, by reason of —
+26\. If a Magistrate before whom a person is brought in pursuance of section 25, or a court to which the person has applied for an Order for Review of Detention, is satisfied that, by reason of —
 
 (a) the trivial nature of the offence that the person is alleged to have committed or has committed;
 
@@ -602,19 +608,27 @@ and having regard to the circumstances under which the offence is alleged to hav
 
 (iii) make such other order as he or it thinks just.
 
+[42/2005 wef 01/01/2006]
+
 [25
 
 ### Surrender of fugitive to Commonwealth country
 
-27\.—(1) When, under this Part, a Magistrate commits a person (referred to in this section as the prisoner) to prison, or otherwise orders that he be held in custody, to await the warrant of the Minister for his surrender to a declared Commonwealth country, the Magistrate shall inform the prisoner that he will not be surrendered until after the expiration of the period of 15 days from the date of the committal or order and that, if he asserts that his detention is unlawful, he may apply to a court of competent jurisdiction for a writ of habeas corpus.
+27\.—(1) When, under this Part, a Magistrate commits a person (referred to in this section as the prisoner) to prison, or otherwise orders that he be held in custody, to await the warrant of the Minister for his surrender to a declared Commonwealth country, the Magistrate shall inform the prisoner that he will not be surrendered until after the expiration of the period of 15 days from the date of the committal or order and that, if he asserts that his detention is unlawful, he may apply to a court of competent jurisdiction for an Order for Review of Detention.
+
+[42/2005 wef 01/01/2006]
 
 (2) After —
 
 (a) the expiration of the period referred to in subsection (1); or
 
-(b) if, within that period, an application for a writ of habeas corpus is made by the prisoner and the court to which the application is made or, where an appeal is brought from the decision of that court to another court, the other court does not order that the prisoner be released — the expiration of the period of 15 days from the date of the decision of the first-mentioned court or the appellate court, as the case may be,
+(b) if, within that period, an application for an Order for Review of Detention is made by the prisoner and the court to which the application is made or, where an appeal is brought from the decision of that court to another court, the other court does not order that the prisoner be released — the expiration of the period of 15 days from the date of the decision of the first-mentioned court or the appellate court, as the case may be,
 
-whichever is the later, the Minister shall, if he is satisfied that the prisoner is liable to be surrendered to the declared Commonwealth country, by warrant in accordance with Form 6 in the Second Schedule or, where the prisoner is held in custody otherwise than at a prison, in accordance with that Form with such variations as are necessary to meet the circumstances of the case, order that the prisoner be delivered into the custody of a person specified in the warrant and be conveyed by that person to a place in that country or within the jurisdiction of, or of a part of, that country and there surrendered to some person appointed by that country to receive him.
+whichever is the later, the Minister shall, if he is satisfied that the prisoner is liable to be surrendered to the declared Commonwealth country, by warrant in accordance with Form 6 in the Second Schedule or, where the prisoner is held in custody otherwise than at a prison, in accordance with that Form with such variations as are necessary to meet the circumstances of the case, order that the prisoner be delivered into the custody of a person specified in the warrant and be conveyed by that person to a place in that country or within the jurisdiction of, or of a part of, that country and there
+
+surrendered to some person appointed by that country to receive him.
+
+[42/2005 wef 01/01/2006]
 
 (3) A warrant issued under subsection (2) may be executed according to its tenor.
 
@@ -628,11 +642,13 @@ whichever is the later, the Minister shall, if he is satisfied that the prisoner
 
 (a) the date of the committal or order; or
 
-(b) if an application for a writ of habeas corpus has been made by the person — the date of the decision of the court to which the application was made or, where an appeal has been brought from that decision to another court, the date of the decision of the other court,
+(b) if an application for an Order for Review of Detention has been made by the person — the date of the decision of the court to which the application was made or, where an appeal has been brought from that decision to another court, the date of the decision of the other court,
 
 whichever is the later, the High Court, upon application made to it by the person and upon proof that reasonable notice of the intention to make the application has been given to the Minister, shall, unless reasonable cause is shown for the delay, order that the person be released.
 
 [27
+
+[42/2005 wef 01/01/2006]
 
 ### Requisition to Commonwealth country for surrender of person to be made by Minister
 
@@ -1216,6 +1232,12 @@ This Legislative History is provided for the convenience of users of the Extradi
 ||Date of commencement|1 April 2000|
 |11.|**2000 Revised Edition—Extradition Act**|
 ||Date of operation|30 December 2000|
+|12.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006 (item (6) of the Fourth Schedule)|
 ## COMPARATIVE TABLE
 
 Extradition Act
