@@ -100,7 +100,7 @@
 
 - [40 Importation of vectors of diseases](#Importation-of-vectors-of-diseases)
 
-- [41 Importation of agents of diseases](#Importation-of-agents-of-diseases)
+- [41 (Repealed)](#Repealed)
 
 - [42 Power to inspect merchandise, etc., on board vessel](#Power-to-inspect-merchandise-etc-on-board-vessel)
 
@@ -992,17 +992,7 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 [41
 
-### Importation of agents of diseases
-
-41\.—(1) No person shall, without the prior written permission of the Director, import or bring or cause to be imported or brought into Singapore any disease-causing organism or any agent of disease capable of transmitting a disease.
-
-[5/2003]
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[41A
-
-[5/2003]
+41\. [Repealed by Act 36 of 2005 wef 03/01/2006]
 
 ### Power to inspect merchandise, etc., on board vessel
 
@@ -1731,6 +1721,11 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of operation|31 July 2003|
 |25.|**G. N. No. S 794/2005—Infectious Diseases Act (Amendment of First Schedule) Notification 2005**|
 ||Date of commencement|12 December 2005|
+|26.|**Act 36 of 2005—Biological Agents and Toxins Act 2005**|
+||Date of First Reading|19 September 2005|
+|||(Bill No. 26/2005 published on 20 September 2005)|
+||Date of Second and Third Readings|18 October 2005|
+||Date of commencement|3 January 2006|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
