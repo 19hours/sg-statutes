@@ -930,7 +930,7 @@ and includes any person for the time being performing all or any of the function
 
 [19/2002]
 
-(3) No person shall, on or after 2nd September 2002, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of more than 5% of the nominal amount of all voting shares in a broadcasting company without first obtaining the approval of the Minister.
+(3) No person shall, on or after 2nd September 2002, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of more than 5% of the total votes attached to all voting shares in a broadcasting company without first obtaining the approval of the Minister.
 
 [19/2002]
 
@@ -1808,6 +1808,11 @@ This Legislative History is provided for the convenience of users of the Broadca
 |||(Bill No. 67/2004 published on 25 November 2005)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|16 February 2005 (except sections 10 and 11)|
+|13.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
+||Date of First Reading|18 April 2005|
+|||(Bill No. 11/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|30 January 2006|
 ## COMPARATIVE TABLE
 
 Broadcasting Act
