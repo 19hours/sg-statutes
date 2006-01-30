@@ -1718,7 +1718,13 @@ without the prior written approval of the Minister.
 
 (a) become a substantial shareholder of an employer of an Auxiliary Police Force; or
 
-(b) if he is not a citizen of Singapore, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person (whether or not a citizen of Singapore) with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of more than 50% of the nominal amount of all voting shares in an employer of an Auxiliary Police Force,
+(b) if he is not a citizen of Singapore, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person (whether or not a citizen of Singapore) with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares in an employer of an Auxiliary Police Force, of —
+
+(i) where the employer is a company, an aggregate of more than 50% of the total votes attached to all voting shares in the employer; or
+
+(ii) where the employer is an organisation other than a company, an aggregate of more than 50% of the nominal amount of all voting shares in the employer,
+
+[21/2005 wef 30/01/2006]
 
 without first obtaining the approval of the Minister.
 
