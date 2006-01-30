@@ -18,7 +18,7 @@
 
 - [4 Principal objects of Authority](#Principal-objects-of-Authority)
 
-- [5 Authorised capital](#Authorised-capital)
+- [5 Paid-up capital](#Paid-up-capital)
 
 - [6 General Reserve Fund](#General-Reserve-Fund)
 
@@ -218,17 +218,15 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 (e) to exercise the powers and to perform the duties and functions conferred on the Authority under the Business Trusts Act 2004 and by any other written law.
 
-### Authorised capital
+### Paid-up capital
 
-5\.—(1) The authorised capital of the Authority shall be $100 million.
+5\.—(1) The paid-up capital of the Authority shall be $100 million.
 
-[31/72]
+(2) The paid-up capital may be increased from time to time by such amount as the Government may approve.
 
-(2) On the establishment of the Authority, such portion of the authorised capital as the Government may decide shall be subscribed and paid up by the Government.
+(3) The payment of such increase in the paid-up capital may be made by way of transfers from the General Reserve Fund or by such other means as the Government, in consultation with the board, may from time to time approve.
 
-(3) The paid-up portion of the authorised capital may be increased from time to time by such amount as the Government may approve.
-
-(4) The payment of such increase in the authorised capital may be made by way of such transfers from the General Reserve Fund as the Government, in consultation with the board, may from time to time approve.
+[21/2005 wef 30/01/2006]
 
 ### General Reserve Fund
 
@@ -548,17 +546,15 @@ POWERS, DUTIES AND FUNCTIONS OF AUTHORITY
 
 (qa) form or participate in the formation of any company or in any joint venture as a shareholder or partner or in any other capacity, for purposes that are necessary or expedient for the purpose of discharging its functions or achieving its objects; and
 
-[31/2005 wef 18/10/2005]
-
 (r) do generally all such things as may be commonly done by bankers and are not inconsistent with the exercise of its powers or the discharge of its duties under this Act.
 
 [31/72; 26/84]
 
 [13/2007 wef 30/06/2007]
 
-(2) For the purposes of subsection (1)(o) and section 30(d), the Government or a public authority shall have a substantial interest in a company if it, either by itself or together with any other public authority, has an interest or interests in one or more voting shares in the company and the nominal amount of that share, or the aggregate of nominal amounts of those shares either held by itself or together with any other public authority, is not less than 20% of the aggregate of the nominal amount of all the voting shares in the company.
+(2) For the purposes of subsection (1)(o) and section 30(d), the Government or a public authority shall have a substantial interest in a company if it, either by itself or together with any other public authority, has an interest or interests in one or more voting shares in the company and the vote or votes attached to that share, or the total votes attached to those shares either held by itself or together with any other public authority, is not less than 20% of the total votes attached to all the voting shares in the company.
 
-[26/84]
+[21/2005 wef 30/01/2006]
 
 ### Investment of funds
 
@@ -1110,6 +1106,11 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||(Bill No. 21/2005 published on 21 October 2005)|
 ||Date of Second and Third Readings|19 September 2005|
 ||Date of commencement|18 October 2005|
+|22.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
+||Date of First Reading|18 April 2005|
+|||(Bill No. 11/2005 published on 10 June 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|30 January 2006|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
