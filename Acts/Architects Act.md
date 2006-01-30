@@ -1482,6 +1482,11 @@ This Legislative History is provided for the convenience of users of the Archite
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
 |||(item (5) in the Fifth Schedule)|
+|12.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|30 January 2006|
 ## COMPARATIVE TABLE
 
 Architects Act
