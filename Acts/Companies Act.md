@@ -26,6 +26,8 @@
 
 - [7 Interests in shares](#Interests-in-shares)
 
+- [7A Solvency statement and offence for making false statement](#Solvency-statement-and-offence-for-making-false-statement)
+
 [**Part II ADMINISTRATION OF THIS ACT**](#Part-II)
 
 - [8 Administration of Act and appointment of Registrar of Companies, etc.](#Administration-of-Act-and-appointment-of-Registrar-of-Companies-etc)
@@ -152,6 +154,10 @@
 
 [**Division 3  Shares**](#Division-3--Shares)
 
+- [62A No par value shares](#No-par-value-shares)
+
+- [62B Transitional provisions for section 62A](#Transitional-provisions-for-section-62A)
+
 - [63 Return as to allotments](#Return-as-to-allotments)
 
 - [64 As to voting rights of equity shares in certain companies](#As-to-voting-rights-of-equity-shares-in-certain-companies)
@@ -160,25 +166,23 @@
 
 - [66 Share warrants](#Share-warrants)
 
-- [67 Power to pay certain commissions, and prohibition of payment of all other commissions, discounts, etc.](#Power-to-pay-certain-commissions-and-prohibition-of-payment-of-all-other-commissions-discounts-etc)
-
-- [68 Power to issue shares at a discount](#Power-to-issue-shares-at-a-discount)
+- [67 (Repealed)](#Repealed)
 
 - [68 (Repealed)](#Repealed)
 
-- [69 Issue of shares at premium](#Issue-of-shares-at-premium)
+- [69 (Repealed)](#Repealed)
 
-- [69A Relief from section 69](#Relief-from-section-69)
+- [69A (Repealed)](#Repealed)
 
-- [69B Merger relief](#Merger-relief)
+- [69B (Repealed)](#Repealed)
 
-- [69C Relief from section 69 in respect of group reconstruction](#Relief-from-section-69-in-respect-of-group-reconstruction)
+- [69C (Repealed)](#Repealed)
 
-- [69D Retrospective relief from section 69 in certain circumstances](#Retrospective-relief-from-section-69-in-certain-circumstances)
+- [69D (Repealed)](#Repealed)
 
-- [69E Provisions supplementary to sections 69B and 69C](#Provisions-supplementary-to-sections-69B-and-69C)
+- [69E (Repealed)](#Repealed)
 
-- [69F Power to make provision extending or restricting relief from section 69](#Power-to-make-provision-extending-or-restricting-relief-from-section-69)
+- [69F (Repealed)](#Repealed)
 
 - [70 Redeemable preference shares](#Redeemable-preference-shares)
 
@@ -186,7 +190,7 @@
 
 - [72 Validation of shares improperly issued](#Validation-of-shares-improperly-issued)
 
-- [73 Special resolution for reduction of share capital](#Special-resolution-for-reduction-of-share-capital)
+- [73 (Repealed)](#Repealed)
 
 - [74 Rights of holders of classes of shares](#Rights-of-holders-of-classes-of-shares)
 
@@ -206,13 +210,45 @@
 
 - [76E Authority for market acquisition](#Authority-for-market-acquisition)
 
-- [76F Payments to be made out of distributable profits and company not to be insolvent](#Payments-to-be-made-out-of-distributable-profits-and-company-not-to-be-insolvent)
+- [76F Payments to be made only if company is solvent](#Payments-to-be-made-only-if-company-is-solvent)
 
-- [76G Capital redemption reserve](#Capital-redemption-reserve)
+- [76G Reduction of capital or profits or both on cancellation of repurchased shares](#Reduction-of-capital-or-profits-or-both-on-cancellation-of-repurchased-shares)
+
+- [76H Treasury shares](#Treasury-shares)
+
+- [76I Treasury shares: maximum holdings](#Treasury-shares:-maximum-holdings)
+
+- [76J Treasury shares: voting and other rights](#Treasury-shares:-voting-and-other-rights)
+
+- [76K Treasury shares: disposal and cancellation](#Treasury-shares:-disposal-and-cancellation)
 
 - [77 Options over unissued shares](#Options-over-unissued-shares)
 
 - [78 Power of company to pay interest out of capital in certain cases](#Power-of-company-to-pay-interest-out-of-capital-in-certain-cases)
+
+[**Division 3A  Reduction of Share Capital**](#Division-3A--Reduction-of-Share-Capital)
+
+- [78A Preliminary](#Preliminary)
+
+- [78B Reduction of share capital by private company](#Reduction-of-share-capital-by-private-company)
+
+- [78C Reduction of share capital by public company](#Reduction-of-share-capital-by-public-company)
+
+- [78D Creditor’s right to object to company’s reduction](#Creditor’s-right-to-object-to-company’s-reduction)
+
+- [78E Position at end of period for creditor objections](#Position-at-end-of-period-for-creditor-objections)
+
+- [78F Power of Court where creditor objection made](#Power-of-Court-where-creditor-objection-made)
+
+- [78G Reduction by special resolution subject to Court approval](#Reduction-by-special-resolution-subject-to-Court-approval)
+
+- [78H Creditor protection](#Creditor-protection)
+
+- [78I Court order approving reduction](#Court-order-approving-reduction)
+
+- [78J Offences for making groundless or false statements](#Offences-for-making-groundless-or-false-statements)
+
+- [78K Liability of members on reduced shares](#Liability-of-members-on-reduced-shares)
 
 [**Division 4  Substantial shareholdings**](#Division-4--Substantial-shareholdings)
 
@@ -572,19 +608,39 @@
 
 - [209B (Repealed)](#Repealed)
 
-[**Part VII ARRANGEMENTS AND RECONSTRUCTIONS**](#Part-VII)
+[**Part VII ARRANGEMENTS, RECONSTRUCTIONS AND AMALGAMATIONS**](#Part-VII)
 
 - [210 Power to compromise with creditors and members](#Power-to-compromise-with-creditors-and-members)
 
 - [211 Information as to compromise with creditors and members](#Information-as-to-compromise-with-creditors-and-members)
 
-- [212 Provisions for facilitating reconstruction and amalgamation of companies](#Provisions-for-facilitating-reconstruction-and-amalgamation-of-companies)
+- [212 Approval of compromise or arrangement by Court](#Approval-of-compromise-or-arrangement-by-Court)
 
 - [213 (Repealed)](#Repealed)
 
 - [214 (Repealed)](#Repealed)
 
 - [215 Power to acquire shares of shareholders dissenting from scheme or contract approved by 90% majority](#Power-to-acquire-shares-of-shareholders-dissenting-from-scheme-or-contract-approved-by-90%-majority)
+
+- [215A Amalgamations](#Amalgamations)
+
+- [215B Amalgamation proposal](#Amalgamation-proposal)
+
+- [215C Manner of approving amalgamation proposal](#Manner-of-approving-amalgamation-proposal)
+
+- [215D Short form amalgamation](#Short-form-amalgamation)
+
+- [215E Registration of amalgamation](#Registration-of-amalgamation)
+
+- [215F Notice of amalgamation, etc.](#Notice-of-amalgamation-etc)
+
+- [215G Effect of amalgamations](#Effect-of-amalgamations)
+
+- [215H Power of Court in certain cases](#Power-of-Court-in-certain-cases)
+
+- [215I Solvency statement in relation to amalgamating company and offence for making false statement](#Solvency-statement-in-relation-to-amalgamating-company-and-offence-for-making-false-statement)
+
+- [215J Solvency statement in relation to amalgamated company and offence for making false statement](#Solvency-statement-in-relation-to-amalgamated-company-and-offence-for-making-false-statement)
 
 - [216 Personal remedies in cases of oppression or injustice](#Personal-remedies-in-cases-of-oppression-or-injustice)
 
@@ -1162,7 +1218,9 @@ Division 1 —Prospectuses sections 43-56.
 
 Division 2 — Restrictions on allotment and commencement of business sections 57-62.
 
-Division 3 — Shares sections 63-78.
+Division 3 — Shares sections 62A-78.
+
+Division 3A—Reduction of Share Capital sections 78A-78K.
 
 Division 4 — Substantial shareholdings sections 79-92.
 
@@ -1172,7 +1230,7 @@ Division 6 — Interests other than shares, debentures, etc., sections 107-120.
 
 Division 7 — Title and transfers sections 121-130.
 
-Division 7A — Central Depository System — a book entry or scripless system for the transfer of listed securities sections 130A-130P.
+Division 7A — Central Depository System — a book entry or scripless system for the transfer of securities sections 130A-130P.
 
 Division 8 — Registration of charges sections 131-141.
 
@@ -1207,7 +1265,7 @@ Part VII
 
 ...
 
-Arrangements, Reconstructions and Take-overs sections 210-216.
+Arrangements, Reconstructions and Amalgamations sections 210-216B.
 
 Part VIII
 
@@ -1290,6 +1348,8 @@ Division 1 — Enforcement of this Act sections 387-399.
 Division 2 — Offences sections 400-409A.
 
 Division 3 — Miscellaneous sections 410-411.
+
+[21/2005 wef 30/01/2006]
 
 [62/70]
 
@@ -1593,6 +1653,14 @@ any shares in or debentures of, or any units of shares in or debentures of, a co
 
 [5/2004 wef 01/04/2004]
 
+“treasury share” means a share which —
+
+(a) was (or is treated as having been) purchased by a company in circumstances in which section 76H applies; and
+
+(b) has been held by the company continuously since the treasury share was so purchased;
+
+[21/2005 wef 30/01/2006]
+
 “unit”, in relation to a share, debenture or other interest, means any right or interest, whether legal or equitable, in the share, debenture or other interest, by whatever name called and includes any option to acquire any such right or interest in the share, debenture or other interest;
 
 [13/87]
@@ -1629,9 +1697,7 @@ any shares in or debentures of, or any units of shares in or debentures of, a co
 
 (4) For the purposes of this Act, a statement shall be deemed to be included in a statement in lieu of prospectus if it is contained in any report or memorandum appearing on the face thereof or by reference incorporated therein or issued therewith.
 
-Invitation to lend money deemed invitation to purchase debentures
-
-(5)
+### Invitation to lend money deemed invitation to purchase debentures
 
 (5) For the purposes of this Act, any invitation to the public to deposit money with or lend money to a corporation (other than a prescribed corporation referred to in section 239(4) of the Securities and Futures Act 2001) shall be deemed to be an invitation to subscribe for or purchase debentures of the corporation.
 
@@ -1642,8 +1708,6 @@ Invitation to lend money deemed invitation to purchase debentures
 [42/2001 wef 01/07/2002]
 
 As to what constitutes an offer to the public
-
-(6)
 
 (6) [Deleted by Act 42/2001 wef 01/07/2002]
 
@@ -1687,7 +1751,9 @@ and, without limiting the generality of the foregoing, any conduct of such a rec
 
 (9) For the purposes of this Act wherever a reference to the affairs of a company or a foreign company appears it shall be construed as including a reference to the affairs of a corporation as defined in subsection (8).
 
-[U.K.ss.154,455.Aust.s.5.62/70,10/74,15/84,13/87]
+[U.K.ss.154,455.Aust.s.5.]
+
+[ ,10/74,15/84,13/87]
 
 (10) A reference in this Act to the directors of a company shall, in the case of a company which has only one director, be construed as a reference to that director.
 
@@ -1707,7 +1773,7 @@ and, without limiting the generality of the foregoing, any conduct of such a rec
 
 (ii) controls more than half of the voting power of the first-mentioned corporation; or
 
-(iii) holds more than half of the issued share capital of the first-mentioned corporation (excluding any part thereof which consists of preference shares); or
+(iii) holds more than half of the issued share capital of the first-mentioned corporation (excluding any part thereof which consists of preference shares and treasury shares); or
 
 (b) the first-mentioned corporation is a subsidiary of any corporation which is that other corporation’s subsidiary.
 
@@ -1863,7 +1929,7 @@ that person shall be deemed to have an interest in that share.
 
 (c) an interest of a person in a share, being an interest held by him by reason of his holding a prescribed office;
 
-(ca) an interest of a company in its own shares being purchased or otherwise acquired in accordance with sections 76B to 76G ; and
+(ca) an interest of a company in its own shares being purchased or otherwise acquired in accordance with sections 76B to 76G (including treasury shares); and
 
 [38/98 wef 18/11/1998]
 
@@ -1881,7 +1947,51 @@ that person shall be deemed to have an interest in that share.
 
 (c) the fact that the exercise of a right conferred by the interest is, or is capable of being made, subject to restraint or restriction.
 
-[62/7049/7310/74]
+[310/74]
+
+### Solvency statement and offence for making false statement
+
+7A\.—(1) In this Act, unless the context otherwise requires, “solvency statement”, in relation to a proposed redemption of preference shares by a company out of its capital under section 70, a proposed giving of financial assistance by a company under section 76(9A) or (9B) or a proposed reduction by a company of its share capital under section 78B or 78C, means a statement by the directors of the company —
+
+(a) that they have formed the opinion that, as regards the company’s situation at the date of the statement, there is no ground on which the company could then be found to be unable to pay its debts;
+
+(b) that they have formed the opinion —
+
+(i) if it is intended to commence winding up of the company within the period of 12 months immediately following the date of the statement, that the company will be able to pay its debts in full within the period of 12 months beginning with the commencement of the winding up; or
+
+(ii) if it is not intended so to commence winding up, that the company will be able to pay its debts as they fall due during the period of 12 months immediately following the date of the statement; and
+
+(c) that they have formed the opinion that the value of the company’s assets is not less than the value of its liabilities (including contingent liabilities) and will not, after the proposed redemption, giving of financial assistance or reduction (as the case may be), become less than the value of its liabilities (including contingent liabilities),
+
+being a statement which complies with subsection (2).
+
+(2) The solvency statement —
+
+(a) if the company is exempt from audit requirements under section 205B or 205C, shall be in the form of a statutory declaration; or
+
+(b) if the company is not such a company, shall be in the form of a statutory declaration or shall be accompanied by a report from its auditor that he has inquired into the affairs of the company and is of the opinion that the statement is not unreasonable given all the circumstances.
+
+(3) In forming an opinion for the purposes of subsection (1)(a) and (b), the directors of the company must take into account all liabilities of the company (including contingent liabilities).
+
+(4) In determining, for the purposes of subsection (1)(c), whether the value of the company’s assets is or will become less than the value of its liabilities (including contingent liabilities) the directors of the company —
+
+(a) must have regard to —
+
+(i) the most recent financial statements of the company that comply with section 201(1A), (3) and (3A), as the case may be; and
+
+(ii) all other circumstances that the directors know or ought to know affect, or may affect, the value of the company’s assets and the value of its liabilities (including contingent liabilities); and
+
+(b) may rely on valuations of assets or estimates of liabilities that are reasonable in the circumstances.
+
+(5) In determining, for the purposes of subsection (4), the value of a contingent liability, the directors of a company may take into account —
+
+(a) the likelihood of the contingency occurring; and
+
+(b) any claim the company is entitled to make and can reasonably expect to be met to reduce or extinguish the contingent liability.
+
+(6) A director of a company who makes a solvency statement without having reasonable grounds for the opinions expressed in it shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[21/2005 wef 30/01/2006]
 
 ## PART II
 
@@ -1936,8 +2046,6 @@ for the proper administration of this Act.
 [13/87]
 
 [Aust.s.7.]
-
-[13/87]
 
 ### Inspection of books of corporation
 
@@ -2277,7 +2385,7 @@ he may refuse to register or receive the document and request that the document 
 
 ### Filing service
 
-12A\.—(1) Where the Registry of Companies provides a service whereby documents under this Act may be filed or lodged with or submitted to the Registrar electronically, neither the Government nor any of its employees nor any authorised agents shall be liable for any loss or damage, suffered by any person by reason of any errors or omissions, of whatever nature or however caused, appearing in any document obtained by any person under the service if such errors or omissions are made in good faith and in the ordinary course of the discharge of the duties of these employees or authorised agents or have occurred or arisen as a result of any defect or breakdown in the service or in any of the equipment used for the service.
+12A\.—(1) Where the Registry of Companies provides a service 15th May 1987 whereby documents under this Act may be filed or lodged with or submitted to the Registrar electronically, neither the Government nor any of its employees nor any authorised agents shall be liable for any loss or damage, suffered by any person by reason of any errors or omissions, of whatever nature or however caused, appearing in any document obtained by any person under the service if such errors or omissions are made in good faith and in the ordinary course of the discharge of the duties of these employees or authorised agents or have occurred or arisen as a result of any defect or breakdown in the service or in any of the equipment used for the service.
 
 (1A) The Minister may by regulations permit or require any document —
 
@@ -2465,17 +2573,17 @@ Incorporation
 
 (a) restricts the right to transfer its shares; and
 
-(b) limits to not more than 50 the number of its members (counting joint holders of shares as one person and not counting any person in the employment of the company or of its subsidiary or any person who while previously in the employment of the company or of its subsidiary was and thereafter has continued to be a member of the company) .
+(b) limits to not more than 50 the number of its members (counting joint holders of shares as one person and not counting any person in the employment of the company or of its subsidiary or any person who while previously in the employment of the company or of its subsidiary was and thereafter has continued to be a member of the company);
 
 (c) [Deleted by Act 5/2004 wef 01/04/2004]
 
 (d) [Deleted by Act 5/2004 wef 01/04/2004]
 
-(2) Where, on 29th December 1967, neither the memorandum nor articles of a company that is a private company by virtue of paragraph (a) ofthe definition of “private company” in section 4(1) contain the restrictions, limitations and prohibitions required by subsection (1) to be included in the memorandum or articles of a company that may be incorporated as a private company, the articles of the company shall be deemed to include each such restriction, limitation or prohibition that is not so included and a restriction on the right to transfer its shares that is so deemed to be included in its articles shall be deemed to be a restriction that prohibits the transfer of shares except to a person approved by the directors of the company.
+(2) Where, on 29th December 1967, neither the memorandum nor articles of a company that is a private company by virtue of paragraph (a) ofthe definition of “private company” in section 4(1) contain the restrictions and limitations required by subsection (1) to be included in the memorandum or articles of a company that may be incorporated as a private company, the articles of the company shall be deemed to include each such restriction or limitation that is not so included and a restriction on the right to transfer its shares that is so deemed to be included in its articles shall be deemed to be a restriction that prohibits the transfer of shares except to a person approved by the directors of the company.
 
 [S 258/67]
 
-(3) Where a restriction, limitation or prohibition deemed to be included in the articles of a company under subsection (2) is inconsistent with any provision already included in the memorandum or articles of the company, that restriction, limitation or prohibition shall, to the extent of the inconsistency, prevail.
+(3) Where a restriction, limitation or prohibition deemed to be included in the articles of a company under subsection (2) is inconsistent with any provision already included in the memorandum or articles of the company, that restriction or limitation shall, to the extent of the inconsistency, prevail.
 
 (4) A private company may, by special resolution, alter any restriction on the right to transfer its shares included, or deemed to be included, in its memorandum or articles or any limitation on the number of its members included, or deemed to be included, in its memorandum or articles, but not so that the memorandum and articles of the company cease to include the limitation required by subsection (1)(b) to be included in the memorandum or articles of a company that may be incorporated as a private company.
 
@@ -2599,8 +2707,6 @@ as the case may be, and where applicable, that it is a private company.
 
 (b) [Deleted by Act 5/2004 wef 01/04/2004]
 
-(c) unless the company is an unlimited company, the amount of share capital, if any, with which the company proposes to be registered and the division thereof into shares of a fixed amount;
-
 (d) if the company is a company limited by shares, that the liability of the members is limited;
 
 (e) if the company is a company limited by guarantee, that the liability of the members is limited and that each member undertakes to contribute to the assets of the company, in the event of its being wound up while he is a member or within one year after he ceases to be a member, for payment of the debts and liabilities of the company contracted before he ceases to be a member and of the costs, charges and expenses of winding up and for adjustment of the rights of the contributories among themselves, such amount as may be required not exceeding a specified amount;
@@ -2610,6 +2716,16 @@ as the case may be, and where applicable, that it is a private company.
 (g) the full names, addresses and occupations of the subscribers thereto; and
 
 (h) that such subscribers are desirous of being formed into a company in pursuance of the memorandum and (where the company is to have a share capital) respectively agree to take the number of shares in the capital of the company set out opposite their respective names.
+
+(1A) On the date of commencement of section 8(b) of the Companies (Amendment) Act 2005, any provision (or part thereof) then subsisting in the memorandum of any company which states —
+
+(a) the amount of share capital with which the company proposes to be or is registered; or
+
+(b) the division of the share capital of the company into shares of a fixed amount,
+
+shall, in so far as it relates to the matters referred to in either or both of paragraphs (a) and (b), be deemed to be deleted.
+
+[21/2005 wef 30/01/2006]
 
 (2) Each subscriber to the memorandum shall, if the company is to have a share capital, make a declaration to the Registrar, either by himself or through a prescribed person authorised by him, as to the number of shares (not being less than one) that he agrees to take.
 
@@ -2767,17 +2883,17 @@ Powers
 
 (d) is a name of a kind that the Minister has directed the Registrar not to accept for registration.
 
-(2) Notwithstanding anything in this section and section 28 (other than section 28(4)), where the Registrar is satisfied that the company has been registered (whether through inadvertence or otherwise) by a name which —
+(2) Notwithstanding anything in this section and section 28 (other than section 28(4)), where the Registrar is satisfied that the company has been registered (whether through inadvertence or otherwise and whether before, on or after the date of commencement of section 9(a) of the Companies (Amendment) Act 2005) by a name —
 
-(a) is a name referred to in subsection (1)(a), (b) or (d); or
+(a) which is referred to in subsection (1);
 
-(b) so nearly resembles the name of any other company or limited liability partnership or corporation, or a business name, as to be likely to be mistaken for it,
+(b) which so nearly resembles the name of another company or corporation or a business name as to be likely to be mistaken for it; or
 
-[5/2005 wef 11/04/2005]
+(c) the use of which has been restrained by an injunction granted under the Trade Marks Act (Cap. 332),
 
 the Registrar may direct the first-mentioned company to change its name, and the company shall comply with the direction within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
 
-[12/2002 wef 13/01/2003]
+[21/2005 wef 30/01/2006]
 
 (2A) Any person may apply, in writing, to the Registrar to give a direction to a company under subsection (2) on a ground referred to in that subsection; but the Registrar shall not consider any application to give a direction to a company on the ground referred to in subsection (2)(b) unless the Registrar receives the application within 12 months from the date of incorporation of the company.
 
@@ -2806,6 +2922,10 @@ the Registrar may direct the first-mentioned company to change its name, and the
 (5) A company aggrieved by the decision of the Registrar under subsection (2) or (2C) may within 30 days of the date of the decision appeal to the Minister whose decision shall be final.
 
 [15/84]
+
+(5A) For the avoidance of doubt, where the Registrar makes a decision under subsection (2) or the Minister makes a decision under subsection (5), he shall accept as correct any decision of the High Court to grant an injunction referred to in subsection (2)(c).
+
+[21/2005 wef 30/01/2006]
 
 (6) The Minister shall cause a direction given by him under subsection (1) to be published in theGazette.
 
@@ -2867,15 +2987,15 @@ he shall reserve the proposed name for a period of two months from the date of t
 
 (3) If the name of a company is, whether through inadvertence or otherwise or whether originally or by a change of name —
 
-(a) a name by which the company could not be registered without contravention of section 27(1); or
+(a) a name by which the company could not be registered without contravention of section 27(1);
 
-(b) a name that so nearly resembles the name of any other company or limited liability partnership or corporation, or a business name, as to be likely to be mistaken for it,
+(b) a name that so nearly resembles the name of another company or corporation or a business name as to be likely to be mistaken for it; or
 
-[5/2005 wef 11/04/2005]
+(c) a name the use of which has been restrained by an injunction granted under the Trade Marks Act (Cap. 332),
 
-the company may by special resolution change its name to a name that is not a name referred to in paragraph (a) or (b) and, if the Registrar so directs, shall so change it within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
+the company may by special resolution change its name to a name that is not referred to in paragraph (a), (b) or (c) and, if the Registrar so directs, shall so change it within 6 weeks after the date of the direction or such longer period as the Registrar may allow, unless the direction is annulled by the Minister.
 
-[12/2002 wef 13/01/2003]
+[21/2005 wef 30/01/2006]
 
 (3A) Any person may apply in writing to the Registrar to give a direction to a company under subsection (3) on a ground referred to in that subsection; but the Registrar shall not consider any application to give a direction to a company on the ground referred to in subsection (3)(b) unless the Registrar receives the application within 12 months from the date of change of name of the company.
 
@@ -2885,9 +3005,17 @@ the company may by special resolution change its name to a name that is not a na
 
 [12/2002 wef 13/01/2003]
 
-(3C) Subsections (2C) and (5) of section 27 shall, with the necessary modifications, apply in relation to a company directed under subsection (3) to change its name as they apply in relation to a company directed under section 27(2) to change its name.
+(3C) The Registrar may, if he is satisfied that the company to which the direction under subsection (3) was given had applied for registration under the name first-mentioned in that subsection in bad faith, require the company to pay the Registrar such fees as may be prescribed by the Minister, and such fees shall be recoverable as a debt due to the Government.
 
-[12/2002 wef 13/01/2003]
+[21/2005 wef 30/01/2006]
+
+(3D) A company aggrieved by the decision of the Registrar under subsection (3) or (3C) may within 30 days of the date of the decision appeal to the Minister whose decision shall be final.
+
+[21/2005 wef 30/01/2006]
+
+(3E) For the avoidance of doubt, where the Registrar makes a decision under subsection (3) or the Minister makes a decision under subsection (3D), he shall accept as correct any decision of the High Court to grant an injunction referred to in subsection (3)(c).
+
+[21/2005 wef 30/01/2006]
 
 (4) Where the name of a company incorporated pursuant to any corresponding previous written law has not been changed since 29th December 1967, the Registrar shall not, except with the approval of the Minister, exercise his power under subsection (3) to direct the company to change its name.
 
@@ -3021,7 +3149,7 @@ any legal proceedings that could have been continued or commenced by or against 
 
 (b) a statement in lieu of prospectus; and
 
-(c) a declaration in the prescribed form verifying that section 61(2) (b) has been complied with,
+(c) a declaration in the prescribed form verifying that section 61(2)(b) has been complied with,
 
 and thereupon the restrictions and limitations referred to in section 18(1) as included in or deemed to be included in the memorandum or articles of such company shall cease to form part of the memorandum or articles.
 
@@ -3041,7 +3169,7 @@ and thereupon the restrictions and limitations referred to in section 18(1) as i
 
 ### Default in complying with requirements as to private companies
 
-32\.—(1) [Deleted by Act 5/2004]
+32\.—(1) [Deleted by Act 5/2004 wef 01/04/2004]
 
 (2) Where —
 
@@ -3063,11 +3191,9 @@ the Registrar may by notice served on the company determine that, on such date a
 
 (c) the company shall, within a period of 14 days after the date of the order or the notice, lodge with the Registrar —
 
-(i) a statement in lieu of prospectus;
+(i) a statement in lieu of prospectus; and
 
-(ii) a declaration in the prescribed form verifying that section 61(2)(b) has been complied with; and
-
-(iii) where an order has been made under subsection (1) a copy of the order.
+(ii) a declaration in the prescribed form verifying that section 61(2)(b) has been complied with.
 
 (4) Where the Court is satisfied that a default or alteration referred to in subsection (2) has occurred but that it was accidental or due to inadvertence or to some other sufficient cause or that on other grounds it is just and equitable to grant relief, the Court may, on such terms and conditions as to the Court seem just and expedient, determine that the company has not ceased to be a private company.
 
@@ -3101,13 +3227,17 @@ the Registrar may by notice served on the company determine that, on such date a
 
 (5) If an application for the cancellation of an alteration is made to the Court in accordance with this section by —
 
-(a) the holders of not less in the aggregate than 5% in nominal value of the company’s issued share capital or any class of that capital or, if the company is not limited by shares, not less than 5% of the company’s members; or
+(a) the holders of not less in the aggregate than 5% of the total number of issued shares of the company or any class of those shares or, if the company is not limited by shares, not less than 5% of the company’s members; or
 
 (b) the holders of not less than 5% in nominal value of the company’s debentures,
 
 the alteration shall not have effect except so far as it is confirmed by the Court.
 
 [10/74]
+
+(5A) For the purposes of subsection (5), any of the company’s issued share capital held as treasury shares shall be disregarded.
+
+[21/2005 wef 30/01/2006]
 
 (6) The application shall be made within 21 days after the date on which the resolution altering the company’s objects was passed, and may be made on behalf of the persons entitled to make the application by such one or more of their number as they appoint in writing for the purpose.
 
@@ -3148,8 +3278,6 @@ the alteration shall not have effect except so far as it is confirmed by the Cou
 (2) Articles shall comply with such requirements as may be prescribed.
 
 [12/2002 wef 13/01/2003]
-
-(3) In the case of an unlimited company the articles, if the company has a share capital, shall state the amount of share capital with which the company proposes to be registered and the division thereof into shares of a fixed amount.
 
 (4) In the case of an unlimited company or a company limited by guarantee the articles shall state the number of members with which the company proposes to be registered.
 
@@ -3197,7 +3325,7 @@ the alteration shall not have effect except so far as it is confirmed by the Cou
 
 38\.—(1) In the case of a company limited by guarantee every provision in the memorandum or articles or in any resolution of the company purporting to give any person a right to participate in the divisible profits of the company, otherwise than as a member, shall be void.
 
-(2) For the purposes of the provisions of this Act relating to the memorandum of a company limited by guarantee and of this section, every provision in the memorandum or articles or in any resolution of a company limited by guarantee purporting to divide the undertaking of the company into shares or interests shall be treated as a provision for a share capital notwithstanding that the nominal amount or number of the shares or interests is not specified thereby.
+(2) For the purposes of the provisions of this Act relating to the memorandum of a company limited by guarantee and of this section, every provision in the memorandum or articles or in any resolution of a company limited by guarantee purporting to divide the undertaking of the company into shares or interests shall be treated as a provision for a share capital notwithstanding that the number of the shares or interests is not specified thereby.
 
 [U.K.s.21.]
 
@@ -3444,13 +3572,97 @@ Division 3 —
 
 Shares
 
+### No par value shares
+
+62A\.—(1) Shares of a company have no par or nominal value.
+
+(2) Subsection (1) shall apply to all shares, whether issued before, on or after the appointed day.
+
+(3) In this section and section 62B, “appointed day” means the date of commencement of section 15 of the Companies (Amendment) Act 2005.
+
+[21/2005 wef 30/01/2006]
+
+### Transitional provisions for section 62A
+
+62B\.—(1) For the purpose of the operation of this Act on or after the appointed day in relation to a share issued before that day —
+
+(a) the amount paid on the share shall be the sum of all amounts paid to the company at any time for the share (but not including any premium); and
+
+(b) the amount unpaid on the share shall be the difference between the price of issue of the share (but not including any premium) and the amount paid on the share.
+
+(2) On the appointed day, any amount standing to the credit of a company’s share premium account and any amount standing to the credit of a company’s capital redemption reserve shall become part of the company’s share capital.
+
+(3) Notwithstanding subsection (2), a company may use the amount standing to the credit of its share premium account immediately before the appointed day to —
+
+(a) provide for the premium payable on redemption of debentures or redeemable preference shares issued before that day;
+
+(b) write off —
+
+(i) the preliminary expenses of the company incurred before that day; or
+
+(ii) expenses incurred, or commissions or brokerages paid or discounts allowed, on or before that day, for or on any duty, fee or tax payable on or in connection with any issue of shares of the company;
+
+(c) pay up, pursuant to an agreement made before that day, shares which were unissued before that day and which are to be issued on or after that day to members of the company as fully paid bonus shares;
+
+(d) pay up in whole or in part the balance unpaid on shares issued before that day to members of the company; or
+
+(e) pay dividends declared before that day, if such dividends are satisfied by the issue of shares to members of the company.
+
+(4) Notwithstanding subsection (2), if the company carries on insurance business in Singapore immediately before the appointed day, it may also apply the amount standing to the credit of its share premium account immediately before that day by appropriation or transfer to any fund established and maintained pursuant to the Insurance Act (Cap. 142).
+
+(5) Notwithstanding subsection (1), the liability of a shareholder for calls in respect of money unpaid on shares issued before the appointed day (whether on account of the par value of the shares or by way of premium) shall not be affected by the shares ceasing to have a par value.
+
+(6) For the purpose of interpreting and applying, on or after the appointed day, a contract (including the memorandum and articles of the company) entered into before that day or a trust deed or other document executed before that day —
+
+(a) a reference to the par or nominal value of a share shall be a reference to —
+
+(i) if the share is issued before that day, the par or nominal value of the share immediately before that day;
+
+(ii) if the share is issued on or after that day but shares of the same class were on issue immediately before that day, the par or nominal value that the share would have had if it had been issued then; or
+
+(iii) if the share is issued on or after that day and shares of the same class were not on issue immediately before that day, the par or nominal value determined by the directors,
+
+and a reference to share premium shall be taken to be a reference to any residual share capital in relation to the share;
+
+(b) a reference to a right to a return of capital on a share shall be taken to be a reference to a right to a return of capital of a value equal to the amount paid in respect of the share’s par or nominal value; and
+
+(c) a reference to the aggregate par or nominal value of the company’s issued share capital shall be taken to be a reference to that aggregate as it existed immediately before that day as —
+
+(i) increased to take account of the par or nominal value as defined in paragraph (a) of any shares issued on or after that day; and
+
+(ii) reduced to take account of the par or nominal value as defined in paragraph (a) of any shares cancelled on or after that day.
+
+(7) A company may —
+
+(a) at any time before —
+
+(i) the date it is required under section 197(4) to lodge its first annual return after the appointed day; or
+
+(ii) the expiry of 6 months from the appointed day,
+
+whichever is the earlier; or
+
+(b) within such longer period as the Registrar may, if he thinks fit in the circumstances of the case, allow,
+
+file with the Registrar a notice in the prescribed form of its share capital.
+
+(8) Unless a company has filed a notice of its share capital under subsection (7), the Registrar may for the purposes of the records maintained by the Authority adopt, as the share capital of the company, the aggregate nominal value of the shares issued by the company as that value appears in the Authority’s records immediately before the appointed day.
+
+[21/2005 wef 30/01/2006]
+
 ### Return as to allotments
 
 63\.—(1) Where a company makes any allotment of its shares, other than a deemed allotment, the company shall within 14 days thereafter lodge with the Registrar a return of the allotments stating —
 
-(a) the number and nominal amounts of the shares comprised in the allotment;
+(a) the number of the shares comprised in the allotment;
 
-(b) the amount, if any, paid, deemed to be paid, or due and payable on the allotment of each share;
+(b) the amount (if any) paid or deemed to be paid on the allotment of each share;
+
+[21/2005 wef 30/01/2006]
+
+(ba) the amount (if any) unpaid on each share referred to in paragraph (b);
+
+[21/2005 wef 30/01/2006]
 
 (c) where the capital of the company is divided into shares of different classes the class of shares to which each share comprised in the allotment belongs; and
 
@@ -3458,7 +3670,7 @@ Shares
 
 (i) each of its members; or
 
-(ii) if it has more than 50 members as a result of the allotment, each of the 50 members who, following the allotment, hold the most number of shares in the company.
+(ii) if it has more than 50 members as a result of the allotment, each of the 50 members who, following the allotment, hold the most number of shares in the company (excluding treasury shares).
 
 [12/2002 wef 13/01/2003]
 
@@ -3470,7 +3682,7 @@ Shares
 
 [15/84]
 
-(3) [Deleted by Act 12/2002 wef 13/01/2003]
+(3) [Act 12/2002 wef 13/01/2003]
 
 (4) Where shares are allotted as fully or partly paid up otherwise than in cash and the allotment is made pursuant to a contract in writing the company shall lodge with the return the contract evidencing the entitlement of the allottee or a copy of any such contract certified as prescribed.
 
@@ -3500,7 +3712,7 @@ the company shall lodge with the return a statement containing such particulars 
 
 ### As to voting rights of equity shares in certain companies
 
-64\.—(1) Notwithstanding any provision in this Act or in the memorandum or articles of a company to which this section applies, but subject to section 180(1), each equity share issued by such a company after 29th December 1967 shall confer the right at a poll at any general meeting of the company to one vote, and to one vote only, in respect of each equity share unless it is a management share issued by a newspaper company under section 9 of the Newspaper and Printing Presses Act [Cap. 206].
+64\.—(1) Notwithstanding any provision in this Act or in the memorandum or articles of a company to which this section applies, but subject to sections 76J and 180(1), each equity share issued by such a company after 29th December 1967 shall confer the right at a poll at any general meeting of the company to one vote, and to one vote only, in respect of each equity share unless it is a management share issued by a newspaper company under section 9 of the Newspaper and Printing Presses Act [Cap. 206].
 
 (2) Where any company to which this section applies has, prior to 29th December 1967, or, while it was a company to which this section did not apply, issued any equity share which does not comply with subsection (1), the company shall not issue any invitation to subscribe for or to purchase any shares or debentures of such company until the voting rights attached to each share of that company have been duly varied so as to comply with subsection (1).
 
@@ -3552,215 +3764,41 @@ the company shall lodge with the return a statement containing such particulars 
 
 [13/87]
 
-### Power to pay certain commissions, and prohibition of payment of all other commissions, discounts, etc.
+67\. [Act 21/2005 wef 30/01/2006]
 
-67\.—(1) A company may pay a commission to any person in consideration of his subscribing or agreeing to subscribe, whether absolutely or conditionally, for any shares or procuring or agreeing to procure subscriptions, whether absolute or conditional, for any shares in the company, if —
+68\. [Act 21/2005 wef 30/01/2006]
 
-(a) the payment is authorised by the articles;
+69\. [Act 21/2005 wef 30/01/2006]
 
-(b) the commission does not exceed 10% of the price at which the shares are issued or the amount or rate authorised by the articles, whichever is the less;
+69A\. [Act 21/2005 wef 30/01/2006]
 
-(c) the amount or rate of the commission is —
+69B\. [Act 21/2005 wef 30/01/2006]
 
-(i) in the case of shares offered to the public for subscription, disclosed in the prospectus; and
+69C\. [Act 21/2005 wef 30/01/2006]
 
-(ii) in the case of shares not so offered, disclosed in the statement in lieu of prospectus, or in a statement in the prescribed form signed in like manner as a statement in lieu of prospectus and lodged before the payment of the commission with the Registrar, and, where a circular or notice not being a prospectus inviting subscription for the shares is issued, also disclosed in that circular or notice; and
+69D\. [Act 21/2005 wef 30/01/2006]
 
-(d) the number of shares which persons have agreed for a commission to subscribe absolutely is disclosed in like manner.
+69E\. [Act 21/2005 wef 30/01/2006]
 
-(2) Subject to subsection (1), no company shall apply any of its shares or capital money either directly or indirectly in payment of any commission, discount or allowance to any person in consideration of his subscribing or agreeing to subscribe whether absolutely or conditionally for any shares or procuring or agreeing to procure subscriptions whether absolute or conditional for any shares in the company, whether the shares or money are so applied by being added to the purchase money of any property acquired by the company or to the contract price of any work to be executed for the company, or the money is paid out of the nominal purchase money or contract price or otherwise.
-
-(3) Nothing in this section shall affect the power of any company to pay such brokerage (in addition to or in lieu of the commission referred to in subsection (1)) as it has hitherto been lawful for a company to pay but the amount or rate per cent of the brokerage paid or agreed to be paid by the company shall (in the case of shares offered to the public for subscription) be disclosed in the prospectus or (in the case of shares not offered to the public for subscription) be disclosed in the statement in lieu of prospectus or in a statement in the prescribed form signed in like manner as a statement in lieu of prospectus and lodged before the payment of the brokerage with the Registrar, and, where a circular or notice not being a prospectus inviting subscription for the shares is issued, also disclosed in that circular or notice.
-
-(4) A vendor to, promoter of, or other person who receives payment in money or shares from, a company shall have power to apply any part of the money or shares so received in payment of any commission the payment of which if made directly by the company would have been lawful under this section.
-
-(5) If default is made in complying with this section relating to the lodging with the Registrar of the statement in the prescribed form, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
-
-[15/84]
-
-[U.K.s.53.]
-
-[Aust. s. 58.]
-
-### Power to issue shares at a discount
-
-68\.—(1) Subject to this section, a company may issue shares at a discount of a class already issued if —
-
-(a) the issue of the shares at a discount is authorised by resolution passed in general meeting of the company and is confirmed by order of the Court;
-
-(b) the resolution specifies the maximum rate of discount at which the shares are to be issued;
-
-(c) at the date of the issue not less than one year has elapsed since the date on which the company was entitled to commence business; and
-
-(d) the shares are issued within one month after the date on which the issue is confirmed by order of the Court or within such extended time as the Court allows.
-
-(2) The Court, if having regard to all the circumstances of the case it thinks proper to do so, may make an order confirming the issue on such terms and conditions as it thinks fit.
-
-(3) Every prospectus relating to the issue of the shares shall contain particulars of the discount allowed or of so much of that discount as has not been written off at the date of the issue of the prospectus.
-
-(4) Notwithstanding any provision of its articles, a company shall not issue at a discount shares of any class unless it first offers the shares to every holder of shares of that class in the company proportionately to the number of those shares held by such holder.
-
-(5) Every such offer shall be made by notice specifying the number of shares to which the member is entitled and limiting a time not being less than 21 days within which the offer may be accepted.
-
-(6) If any such offer is not accepted within the time limited by the notice the shares may be issued on terms not more favourable than those offered to the shareholders.
-
-(7) If default is made in complying with this section, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
-
-[15/84]
-
-[U.K.s.57.]
-
-[Aust. s. 59.]
-
-68\. [Deleted by Act 21/2005 wef 30/01/2006]
-
-### Issue of shares at premium
-
-69\.—(1) Where a company issues shares for which a premium is received by the company whether in cash or in the form of other valuable consideration a sum equal to the aggregate amount or value of the premiums on those shares shall be transferred to an account called the “share premium account”, and the provisions of this Act relating to the reduction of the share capital of a company shall, subject to this section, apply as if the share premium account were paid-up share capital of the company.
-
-(2) The share premium account may be applied —
-
-(a) in paying up unissued shares to be issued to members of the company as fully paid bonus shares;
-
-(b) in paying up in whole or in part the balance unpaid on shares previously issued to members of the company;
-
-(c) in the payment of dividends, if such dividends are satisfied by the issue of shares to members of the company;
-
-(d) in the case of a company which carries on insurance business in Singapore, by appropriation or transfer to any statutory fund established and maintained pursuant to the Insurance Act [Cap. 142];
-
-(e) in writing off —
-
-(i) the preliminary expenses of the company; or
-
-(ii) the expenses of, or the commission or brokerage paid or discount allowed on, any duty, fee or tax payable on or in connection with any issue of shares of the company; or
-
-(f) in providing for the premium payable on redemption of redeemable preference shares.
-
-[U.K.s.56.]
-
-[Aust. s. 60.]
-
-### Relief from section 69
-
-69A\.—(1) Sections 69B, 69C and 69D give relief from the requirements of section 69 in the circumstances mentioned in this section.
-
-(2) The relief given by section 69B or 69C applies where a company issues or has issued shares in circumstances to which either of those sections applies and the issue takes place on or after 27th February 1986.
-
-(3) The relief given by section 69D applies only where a company has issued shares in circumstances to which that section applies before 27th February 1986.
-
-(4) References in sections 69B, 69C and 69D to the issuing company are references to the company issuing the shares as mentioned in subsection (2) or (3).
-
-[13/87]
-
-### Merger relief
-
-69B\.—(1) Subject to section 69C, this section applies where the issuing company has secured at least a 90% equity holding in another company in pursuance of any arrangement providing for the allotment of equity shares in the issuing company on terms that the consideration for the shares allotted is to be provided by the issue or transfer to the issuing company of equity shares in that other company or by the cancellation of any such shares not held by the issuing company.
-
-(2) Where the equity shares in the issuing company allotted in pursuance of the arrangement in consideration for the acquisition or cancellation of equity shares in the other company are issued at a premium, section 69 shall not apply to the premiums on those shares.
-
-(3) Where the arrangement also provides for the allotment of any shares in the issuing company on terms that the consideration for those shares is to be provided by the issue or transfer to the issuing company of shares, which are non-equity shares, in the other company or by the cancellation of any such shares in that company not held by the issuing company, the relief from section 69 provided by subsection (2) shall extend to any shares in the issuing company allotted on those terms in pursuance of the arrangement.
-
-(4) Subject to subsection (5), the issuing company shall be regarded for the purposes of this section as having secured at least a 90% equity holding in another company in pursuance of any such arrangement as is mentioned in subsection (1) if in consequence of any acquisition or cancellation of equity shares in that company in pursuance of that arrangement it holds equity shares in that company (whether all or any of those shares were acquired in pursuance of that arrangement or not) of an aggregate nominal value equal to 90% or more of the nominal value of that company’s equity share capital.
-
-(5) Where the equity share capital of the other company in question is divided into different classes of shares this section shall not apply unless the requirements of subsection (1) are satisfied in relation to each of those classes taken separately.
-
-(6) Shares held by a company which is the issuing company’s holding company or subsidiary or a subsidiary of the issuing company’s holding company, or by its or their nominees, shall be regarded for the purposes of this section as held by the issuing company.
-
-(7) In this section —
-
-“equity share capital”, in relation to a company, means its issued share capital excluding any part thereof which neither as respects dividends nor as respects capital, carries any right to participate beyond a specified amount in a distribution;
-
-“equity shares” means shares comprised in a company’s equity share capital;
-
-“non-equity shares” means shares of any class that is not comprised in a company’s equity share capital.
-
-[13/87]
-
-### Relief from section 69 in respect of group reconstruction
-
-69C\.—(1) This section applies where the issuing company —
-
-(a) is a wholly-owned subsidiary; and
-
-(b) allots shares to the holding company or to another wholly-owned subsidiary of the holding company in consideration for the transfer to it of shares in another subsidiary (whether wholly-owned or not) of the holding company.
-
-(2) Where the shares in the issuing company allotted in consideration for the transfer are issued at a premium, the issuing company shall not be required by section 69 to transfer any amount in excess of the minimum premium value to the share premium account.
-
-(3) In subsection (2), “the minimum premium value” means the amount, if any, by which the base value of the shares transferred exceeds the aggregate nominal value of the shares allotted in consideration for the transfer.
-
-(4) For the purposes of subsection (3), the base value of the shares transferred shall be taken as —
-
-(a) the cost of those shares to the company transferring them; or
-
-(b) the amount at which those shares are stated in that company’s accounting records immediately before the transfer,
-
-whichever is the lesser.
-
-(5) Section 69B shall not apply in any case to which this section applies.
-
-[13/87]
-
-### Retrospective relief from section 69 in certain circumstances
-
-69D\.—(1) Subject to section 69A(3) and subsection (2) of this section, this section applies where the issuing company has issued at a premium shares which were allotted in pursuance of any arrangement providing for the allotment of shares in the issuing company on terms that the consideration for the shares allotted was to be provided by the issue or transfer to the issuing company of shares in another company or by the cancellation of any shares in that other company not held by the issuing company.
-
-(2) The other company in question must either have been at the time of the arrangement a subsidiary of the issuing company or of any company which was then the issuing company’s holding company or have become such a subsidiary on the acquisition or cancellation of its shares in pursuance of the arrangement.
-
-(3) Any part of the premiums on the shares so issued which was not transferred to the company’s share premium account in accordance with section 69 shall be treated as if section 69 had never applied to those premiums (and may, accordingly, be disregarded in determining the sum to be included in the company’s share premium account).
-
-[13/87]
-
-### Provisions supplementary to sections 69B and 69C
-
-69E\.—(1) An amount corresponding to any amount representing the premiums or part of the premiums on shares issued by a company which by virtue of section 69B, 69C or 69D is not included in the company’s share premium account may also be disregarded in determining the amount at which any shares or other consideration provided for the shares issued is to be included in the company’s balance-sheet.
-
-(2) References in sections 69B, 69C and 69D and in this section (however expressed) to —
-
-(a) the acquisition by any company of shares in another company; and
-
-(b) the issue or allotment of shares to or the transfer of shares to or by any company,
-
-include references respectively to the acquisition of any of those shares by and to the issue or allotment or (as the case may require) the transfer of any of those shares to, or by nominees of, that company; and the reference in section 69C(4)(a) to the company transferring the shares therein mentioned shall be construed accordingly.
-
-(3) References in sections 69B, 69C and 69D and in this section to the transfer of shares in a company include references to the transfer of a right to be included in the company’s register of members in respect of those shares.
-
-(4) In sections 69B and 69D, “arrangement” means any agreement, scheme or arrangement (including an arrangement sanctioned in accordance with section 210 or 306).
-
-(5) In sections 69B, 69C and 69D and in this section, “company”, except in references to the issuing company, includes a corporation.
-
-[13/87]
-
-### Power to make provision extending or restricting relief from section 69
-
-69F\.—(1) The Minister may, by regulations, make such provision as appears to him to be appropriate —
-
-(a) for relieving companies from the requirements of section 69 in relation to premiums other than cash premiums; or
-
-(b) for restricting or otherwise modifying any relief from the requirements provided by sections 69A to 69E.
-
-(2) Regulations made under this section may make different provision for different cases or classes of cases and may contain such incidental and supplementary provisions as the Minister thinks fit.
-
-[13/87]
+69F\. [Act 21/2005 wef 30/01/2006]
 
 ### Redeemable preference shares
 
 70\.—(1) Subject to this section, a company having a share capital may, if so authorised by its articles, issue preference shares which are, or at the option of the company are to be, liable to be redeemed and the redemption shall be effected only on such terms and in such manner as is provided by the articles.
 
-(2) The redemption shall not be taken as reducing the amount of authorised share capital of the company.
+(2) The redemption shall not be taken as reducing the amount of share capital of the company.
 
-(3) The shares shall not be redeemed —
+(3) The shares shall not be redeemed unless they are fully paid up.
 
-(a) except out of profits which would otherwise be available for dividend, or out of the proceeds of a fresh issue of shares made for the purposes of the redemption; and
+[21/2005 wef 30/01/2006]
 
-(b) unless they are fully paid up.
+(4) The shares shall not be redeemed out of the capital of the company unless —
 
-(4) The premium, if any, payable on redemption shall be provided for out of profits or the share premium account before the shares are redeemed.
+(a) all the directors have made a solvency statement in relation to such redemption; and
 
-(5) Where any such shares are redeemed otherwise than out of the proceeds of a fresh issue, there shall out of profits which would otherwise have been available for dividend be transferred to a reserve called the “capital redemption reserve” a sum equal to the nominal amount of the shares redeemed, and the provisions of this Act relating to the reduction of the share capital of a company shall, except as provided in this section, apply as if the capital redemption reserve were paid-up share capital of the company.
+(b) the company has lodged a copy of the statement with the Registrar.
 
-(6) Where in pursuance of this section a company has redeemed or is about to redeem any preference shares, it may issue shares up to the nominal amount of the shares redeemed or to be redeemed as if those shares had never been issued, and accordingly the share capital of the company shall not, for the purposes of any fee under this Act, be deemed to be increased by such issue but where new shares are issued before the redemption of the old shares, the new shares shall not, so far as relates to any fee under this Act, be deemed to have been issued in pursuance of this subsection unless the old shares have been redeemed within one month after the issue of the new shares.
-
-(7) The capital redemption reserve may be applied in paying up unissued shares of the company to be issued to members of the company as fully paid bonus shares.
+[21/2005 wef 30/01/2006]
 
 (8) If a company redeems any redeemable preference shares it shall within 14 days after so doing give notice thereof to the Registrar specifying the shares redeemed.
 
@@ -3768,17 +3806,15 @@ include references respectively to the acquisition of any of those shares by and
 
 ### Power of company to alter its share capital
 
-71\.—(1) A company, if so authorised by its articles, may in general meeting alter the conditions of its memorandum in any one or more of the following ways:
+71\.—(1) A company, if so authorised by its articles, may in general meeting alter its share capital in any one or more of the following ways:
 
-(a) increase its share capital by the creation of new shares of such amount as it thinks expedient;
+(b) consolidate and divide all or any of its share capital;
 
-(b) consolidate and divide all or any of its share capital into shares of larger amount than its existing shares;
+(c) convert all or any of its paid-up shares into stock and reconvert that stock into paid-up shares;
 
-(c) convert all or any of its paid-up shares into stock and reconvert that stock into paid-up shares of any denomination;
+(d) subdivide its shares or any of them, so however that in the subdivision the proportion between the amount paid and the amount, if any, unpaid on each reduced share shall be the same as it was in the case of the share from which the reduced share is derived;
 
-(d) subdivide its shares or any of them into shares of smaller amount than is fixed by the memorandum, so however that in the subdivision the proportion between the amount paid and the amount, if any, unpaid on each reduced share shall be the same as it was in the case of the share from which the reduced share is derived;
-
-(e) cancel shares which at the date of the passing of the resolution in that behalf have not been taken or agreed to be taken by any person or which have been forfeited and diminish the amount of its share capital by the amount of the shares so cancelled.
+(e) cancel the number of shares which at the date of the passing of the resolution in that behalf have not been taken or agreed to be taken by any person or which have been forfeited and diminish the amount of its share capital by the number of the shares so cancelled.
 
 (1A) The company may lodge with the Registrar notice of any alteration referred to in subsection (1)(b), (c), (d) or (e) in the prescribed form.
 
@@ -3792,21 +3828,9 @@ include references respectively to the acquisition of any of those shares by and
 
 (3) An unlimited company having a share capital may by any resolution passed for the purposes of section 30(1) —
 
-(a) increase the nominalamount of its share capital by increasing the nominal amount of each of its shares, but subject to the condition that no part of the increased capital shall be capable of being called up except in the event and for the purposes of the company being wound up; and
+(a) increase the amount of its share capital by increasing the issue price of each of its shares, but subject to the condition that no part of the increased capital shall be capable of being called up except in the event and for the purposes of the company being wound up; and
 
 (b) in addition or alternatively, provide that a specified portion of its uncalled share capital shall not be capable of being called up except in the event and for the purposes of the company being wound up.
-
-### Notice of increase of share capital
-
-(4) Where a company has increased its share capital beyond the registered capital, it shall within one month after the passing of the resolution authorising the increase lodge with the Registrar notice of the increase.
-
-(5) If any company fails to comply with subsection (4), the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
-
-[15/84]
-
-[U.K.ss.61,64.]
-
-[Aust. s. 62.]
 
 ### Validation of shares improperly issued
 
@@ -3814,75 +3838,15 @@ include references respectively to the acquisition of any of those shares by and
 
 [Aust.s.63.]
 
-### Special resolution for reduction of share capital
-
-73\.—(1) Subject to confirmation by the Court, a company may, if so authorised by its articles by special resolution, reduce its share capital in any way and in particular, without limiting the generality of the foregoing, may do all or any of the following:
-
-(a) extinguish or reduce the liability on any of its shares in respect of share capital not paid up;
-
-(b) cancel any paid-up capital which is lost or unrepresented by available assets;
-
-(c) pay off any paid-up share capital which is in excess of the needs of the company,
-
-and may so far as necessary alter its memorandum by reducing the amount of its share capital and of its shares accordingly.
-
-(2) Where the proposed reduction of share capital involves either diminution of liability in respect of unpaid share capital or the payment to any shareholder of any paid-up share capital, and in any other case if the Court so directs —
-
-(a) every creditor of the company who at the date fixed by the Court is entitled to any debt or claim which, if that date were the commencement of the winding up of the company, would be admissible in proof against the company shall be entitled to object to the reduction;
-
-(b) the Court, unless satisfied on affidavit that there are no such creditors, shall settle a list of creditors so entitled to object and for that purpose shall ascertain as far as possible without requiring an application from any creditor the names of those creditors and the nature and amount of their debts or claims, and may publish notices fixing a final day on or before which creditors not entered on the list may claim to be so entered; and
-
-(c) where a creditor entered on the list whose debt or claim is not discharged or has not been determined does not consent to the reduction, the Court may dispense with the consent of that creditor on the company securing payment of his debt or claim by appropriating as the Court directs —
-
-(i) if the company admits the full amount of the debt or claim or though not admitting it is willing to provide for it, the full amount of the debt or claim; or
-
-(ii) if the company does not admit and is not willing to provide for the full amount of the debt or claim or if the amount is contingent or not ascertained, an amount fixed by the Court after the like inquiry and adjudication as if the company were being wound up by the Court.
-
-(3) Notwithstanding subsection (2), the Court may, having regard to any special circumstances of any case, direct that all or any of the provisions of that subsection shall not apply as regards any class of creditors.
-
-(4) The Court, if satisfied with respect to every creditor who under subsection (2) is entitled to object, that either his consent to the reduction has been obtained or his debt or claim has been discharged or has determined or has been secured, may make an order confirming the reduction on such terms and conditions as it thinks fit.
-
-(5) An order made under subsection (4) shall show the amount of the share capital of the company as altered by the order, the number of shares into which it is to be divided and the amount of each share and the amount, if any, at the date of the order deemed to be paid up on each share.
-
-(6) On the lodging of a copy of the order with the Registrar the resolution for reducing share capital as confirmed by the order so lodged shall take effect.
-
-(7) A notice of the Registrar confirming lodgment of the order under subsection (6) shall be conclusive evidence that all the requirements of this Act with respect to reduction of share capital have been complied with and that the share capital of the company is such as is stated in the order.
-
-(8) On the lodging of the copy of the order the particulars shown in the order pursuant to subsection (5) shall be deemed to be substituted for the corresponding particulars in the memorandum and such substitution and any addition ordered by the Court to be made to the name of the company shall (in the case of any addition to the name, for such period as is specified in the order of the Court) be deemed to be alterations of the memorandum for the purposes of this Act.
-
-(9) A member, past or present, shall not be liable in respect of any share to any call or contribution exceeding in amount the difference, if any, between the amount of the share as fixed by the order and the amount paid, or the reduced amount, if any, which is to be deemed to have been paid, on the share, as the case may be, but where any creditor entitled to object to the reduction is, by reason of his ignorance of the proceedings for reduction or of their nature and effect with respect to his claim, not entered on the list of creditors, and after the reduction the company is unable, within the meaning of this Act with respect to winding up by the Court, to pay the amount of his debt or claim —
-
-(a) every person who was a member of the company at the date of the lodging of the copy of the order for reduction shall be liable to contribute for the payment of that debt or claim an amount not exceeding the amount which he would have been liable to contribute if the company had commenced to be wound up on the day before that date; and
-
-(b) if the company is wound up the Court, on the application of any such creditor and proof of his ignorance of the proceedings for reduction or of their nature and effect with respect to his claim may, if it thinks fit, settle accordingly a list of persons so liable to contribute, and make and enforce calls and orders on the contributories settled on the list as if they were ordinary contributories in a winding up,
-
-but nothing in this subsection shall affect the rights of the contributories among themselves.
-
-(10) Every officer of the company who —
-
-(a) wilfully conceals the name of any creditor entitled to object to the reduction;
-
-(b) wilfully misrepresents the nature or amount of the debt or claim of any creditor; or
-
-(c) aids, abets or is privy to any such concealment or misrepresentation,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 3 years.
-
-[15/84]
-
-(11) This section shall not apply to an unlimited company, but nothing in this Act shall preclude an unlimited company from reducing in any way its share capital, including any amount in its share premium account.
-
-[U.K.ss.66-71.]
-
-[Aust. s. 64.]
-
-(12) This section shall not apply to the purchase or acquisition or proposed purchase or acquisition by a company of its own shares in accordance with sections 76B to 76G.
-
-[38/98 wef 18/11/1998]
+73\. [Act 21/2005 wef 30/01/2006]
 
 ### Rights of holders of classes of shares
 
 74\.—(1) If, in the case of a company the share capital of which is divided into different classes of shares, provision is made by the memorandum or articles for authorising the variation or abrogation of the rights attached to any class of shares in the company, subject to the consent of any specified proportion of the holders of the issued shares of that class or the sanction of a resolution passed at a separate meeting of the holders of those shares, and in pursuance of that provision the rights attached to any such class of shares are at any time varied or abrogated the holders of not less in the aggregate than 5% of the issued shares of that class may apply to the Court to have the variation or abrogation cancelled, and, if any such application is made, the variation or abrogation shall not have effect until confirmed by the Court.
+
+(1A) For the purposes of subsection (1), any of the company’s issued share capital held as treasury shares shall be disregarded.
+
+[21/2005 wef 30/01/2006]
 
 (2) An application shall not be invalid by reason of the applicants or any of them having consented to or voted in favour of the resolution for the variation or abrogation if the Court is satisfied that any material fact was not disclosed by the company to those applicants before they so consented or voted.
 
@@ -3958,7 +3922,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) the acquisition by a person of shares or units of shares in the company; or
 
-(b) where shares in the company had already been acquired — the payment by a person of any unpaid amount of the subscription payable for the shares or of any premium payable in respect of the shares, or the payment of any calls on the shares.
+(b) where shares in the company had already been acquired — the payment by a person of any unpaid amount of the subscription payable for the shares, or the payment of any calls on the shares.
 
 (5) If a company contravenes subsection (1), the company shall not be guilty of an offence, notwithstanding section 407, but each officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -3970,7 +3934,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) the payment of a dividend by a company in good faith and in the ordinary course of commercial dealing;
 
-(b) a payment made by a company pursuant to a reduction of capital in accordance with section 73;
+(b) a payment made by a company pursuant to a reduction of capital in accordance with Division 3A of this Part;
 
 (c) the discharge by a company of a liability of the company that was incurred in good faith as a result of a transaction entered into on ordinary commercial terms;
 
@@ -3986,31 +3950,137 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (ii) the provision, in good faith and in the ordinary course of commercial dealing, by a company that is a subsidiary of the borrowing corporation, of security in relation to the repayment of those moneys;
 
+(ga) the giving by a company in good faith and in the ordinary course of commercial dealing of any representation, warranty or indemnity in relation to an offer to the public of, or an invitation to the public to subscribe for or purchase, shares or units of shares in that company;
+
+[21/2005 wef 30/01/2006]
+
 (h) the purchase by a company of shares in the company pursuant to an order of a Court;
 
 (i) the creation or acquisition, in good faith and in the ordinary course of commercial dealing, by a company of a lien on shares in the company (other than fully-paid shares) for any amount payable to the company in respect of the shares; or
 
-(j) the entering into, in good faith and in the ordinary course of commercial dealing, of an agreement by a company with a subscriber for shares in the company permitting the subscriber to make payments for the shares (including payments in respect of any premium)by instalments,
+(j) the entering into, in good faith and in the ordinary course of commercial dealing, of an agreement by a company with a subscriber for shares in the company permitting the subscriber to make payments for the shares by instalments,
 
 but nothing in this subsection —
 
 (i) shall be construed as implying that a particular act of a company would, but for this subsection, be prohibited by subsection (1); or
 
-(ii) shall be construed as limiting the operation of any rule of law permitting the giving of financial assistance by a company, the acquisition of shares or units of shares by a company or the lending of money by a company on the security of shares.
+(ii) shall be construed as limiting the operation of any rule of law permitting the giving of financial assistance by a company, the acquisition of shares or units of shares by a company or the lending of money by a company on the or units of shares.
 
 (9) Nothing in subsection (1) prohibits —
 
-(a) the making of a loan, the giving of a guarantee or the provision of security by a company in the ordinary course of its business where the activities of that company are regulated by any written law relating to banking, finance companies or insurance or are subject to supervision by the Monetary Authority of Singapore and where —
+(a) the making of a loan, or the giving of a guarantee or the provision of security in connection with one or more loans made by one or more other persons, by a company in the ordinary course of its business where the activities of that company are regulated by any written law relating to banking, finance companies or insurance or are subject to supervision by the Monetary Authority of Singapore and where —
 
-(i) that business includes the lending of money, or the giving of guarantees or the provision of security in connection with loans made by other persons; and
+(i) the lending of money, or the giving of guarantees or the provision of security in connection with loans made by other persons, is done in the course of such activities; and
+
+[21/2005 wef 30/01/2006]
 
 (ii) the loan that is made by the company, or, where the guarantee is given or the security is provided in respect of a loan, that loan, is made on ordinary commercial terms as to the rate of interest, the terms of repayment of principal and payment of interest, the security to be provided and otherwise;
 
-(b) the giving by a company of financial assistance for the purpose of, or in connection with, the acquisition or proposed acquisition of fully-paid shares or units of fully-paid shares in the company or in a holding company of the company to be held by or for the benefit of employees of the company or of a corporation that is related to the company, including any director holding a salaried employment or office in the company or in the corporation; or
+(b) the giving by a company of financial assistance for the purpose of, or in connection with, the acquisition or proposed acquisition of shares or units of shares in the company or in a holding company of the company to be held by or for the benefit of employees of the company or of a corporation that is related to the company, including any director holding a salaried employment or office in the company or in the corporation; or
 
 (c) the purchase or acquisition or proposed purchase or acquisition by a company of its own shares in accordance with sections 76B to 76G.
 
 [38/98 wef 18/11/1998]
+
+(9A) Nothing in subsection (1) prohibits the giving by a company of financial assistance for the purpose of, or in connection with, an acquisition or proposed acquisition by a person of shares or units of shares in the company or in a holding company of the company if —
+
+(a) the amount of the financial assistance, together with any other financial assistance given by the company under this subsection repayment of which remains outstanding, would not exceed 10% of the aggregate of —
+
+(i) the total paid-up capital of the company; and
+
+(ii) the reserves of the company,
+
+as disclosed in the most recent financial statements of the company that comply with section 201;
+
+(b) the company receives fair value in connection with the financial assistance;
+
+(c) the board of directors of the company passes a resolution that —
+
+(i) the company should give the assistance;
+
+(ii) giving the assistance is in the best interests of the company; and
+
+(iii) the terms and conditions under which the assistance is given are fair and reasonable to the company;
+
+(d) the resolution sets out in full the grounds for the directors’ conclusions;
+
+(e) all the directors of the company make a solvency statement in relation to the giving of the financial assistance;
+
+(f) within 10 business days of providing the financial assistance, the company sends to each member a notice containing particulars of —
+
+(i) the class and number of shares or units of shares in respect of which the financial assistance was or is to be given;
+
+(ii) the consideration paid or payable for those shares or units of shares;
+
+(iii) the identity of the person receiving the financial assistance and, if that person is not the beneficial owner of those shares or units of shares, the identity of the beneficial owner; and
+
+(iv) the nature and, if quantifiable, the amount of the financial assistance; and
+
+(g) not later than the business day next following the day when the notice referred to in paragraph (f) is sent to members of the company, the company lodges with the Registrar a copy of that notice and a copy of the solvency statement referred to in paragraph (e).
+
+[21/2005 wef 30/01/2006]
+
+(9B) Nothing in subsection (1) prohibits the giving by a company of financial assistance for the purpose of, or in connection with, an acquisition or proposed acquisition by a person of shares or units of shares in the company or in a holding company of the company if —
+
+(a) the board of directors of the company passes a resolution that —
+
+(i) the company should give the assistance;
+
+(ii) giving the assistance is in the best interests of the company; and
+
+(iii) the terms and conditions under which the assistance is given are fair and reasonable to the company;
+
+(b) the resolution sets out in full the grounds for the directors’ conclusions;
+
+(c) all the directors of the company make a solvency statement in relation to the giving of the financial assistance;
+
+(d) not later than the business day next following the day when the resolution referred to in paragraph (a) is passed, the company sends to each member having the right to vote on the resolution referred to in paragraph (e) a notice containing particulars of —
+
+(i) the directors’ resolution referred to in paragraph (a);
+
+(ii) the class and number of shares or units of shares in respect of which the financial assistance is to be given;
+
+(iii) the consideration payable for those shares or units of shares;
+
+(iv) the identity of the person receiving the financial assistance and, if that person is not the beneficial owner of those shares or units of shares, the identity of the beneficial owner;
+
+(v) the nature and, if quantifiable, the amount of the financial assistance; and
+
+(vi) such further information and explanation as may be necessary to enable a reasonable member to understand the nature and implications for the company and its members of the proposed transaction;
+
+(e) a resolution is passed —
+
+(i) by all the members of the company present and voting either in person or by proxy at the relevant meeting; or
+
+(ii) if the resolution is proposed to be passed by written means under section 184A, by all the members of the company,
+
+to give that assistance;
+
+(f) not later than the business day next following the day when the resolution referred to in paragraph (e) is passed, the company lodges with the Registrar a copy of that resolution and a copy of the solvency statement referred to in paragraph (c); and
+
+(g) the financial assistance is given not more than 12 months after the resolution referred to in paragraph (e) is passed.
+
+[21/2005 wef 30/01/2006]
+
+(9C) A company shall not give financial assistance under subsection (9A) or (9B) if, before the assistance is given —
+
+(a) any of the directors who voted in favour of the resolution under subsection (9A)(c) or (9B)(a), respectively —
+
+(i) ceases to be satisfied that the giving of the assistance is in the best interests of the company; or
+
+(ii) ceases to be satisfied that the terms and conditions under which the assistance is proposed are fair and reasonable to the company; or
+
+(b) any of the directors no longer has reasonable grounds for any of the opinions expressed in the solvency statement.
+
+[21/2005 wef 30/01/2006]
+
+(9D) A director of a company is not relieved of any duty to the company under section 157 or otherwise, and whether of a fiduciary nature or not, in connection with the giving of financial assistance by the company for the purpose of, or in connection with, an acquisition or proposed acquisition of shares or units of shares in the company or in a holding company of the company, by —
+
+(a) the passing of a resolution by the board of directors of the company under subsection (9A) for the giving of the financial assistance; or
+
+(b) the passing of a resolution by the board of directors of the company, and the passing of a resolution by the members of the company, under subsection (9B) for the giving of the financial assistance.
+
+[21/2005 wef 30/01/2006]
 
 (10) Nothing in subsection (1) prohibits the giving by a company of financial assistance for the purpose of, or in connection with, an acquisition or proposed acquisition by a person of shares or units of shares in the company or in a holding company of the company if —
 
@@ -4180,13 +4250,13 @@ the Court may make such order or orders as it thinks just and equitable (includi
 
 (c) an order directing a person to indemnify the company or another person against any loss or damage that the company or other person may suffer as a result of the contract or transaction or as a result of the contract or transaction being or having become void.
 
-(6) If a certificate signed by not less than two directors, or by a director and a secretary, of a company stating that the requirements of section 76(10)(a) to (j), inclusive, have been complied with in relation to the proposed giving by the company of financial assistance for the purposes of an acquisition or proposed acquisition by a person of shares or units in the company or in a holding company of the company is given to a person —
+(6) If a certificate signed by not less than two directors, or by a director and a secretary, of a company stating that the requirements of section 76(9A), (9B) or (10) (as the case may be), have been complied with in relation to the proposed giving by the company of financial assistance for the purposes of an acquisition or proposed acquisition by a person of shares or units in the company or in a holding company of the company is given to a person —
 
 (a) the person to whom the certificate is given is not under any liability to have an order made against him under subsection (4) by reason of any contract made or performed, or any transaction engaged in, by him in reliance on the certificate; and
 
 (b) any such contract or transaction is not invalid, and is not voidable under subsection (2), by reason that the contract is made or performed, or the transaction is engaged in, in contravention of section 76 or is related to a contract that was made or performed, or to a transaction that was engaged in, in contravention of that section.
 
-(7) Subsection (6) does not apply in relation to a person to whom a certificate is given under that subsection in relation to a contract or transaction if the Court, on application by the company concerned or any other person who has suffered, or is likely to suffer, loss or damage as a result of the making or performance of the contract or the engaging in of the transaction, or the making or performance of a related contract or the engaging in of a related transaction, by order, declares that it is satisfied that the person to whom the certificate was given became aware before the contract was made or the transaction was engaged in that the requirements of section 76(10) had not been complied with in relation to the financial assistance to which the certificate related.
+(7) Subsection (6) does not apply in relation to a person to whom a certificate is given under that subsection in relation to a contract or transaction if the Court, on application by the company concerned or any other person who has suffered, or is likely to suffer, loss or damage as a result of the making or performance of the contract or the engaging in of the transaction, or the making or performance of a related contract or the engaging in of a related transaction, by order, declares that it is satisfied that the person to whom the certificate was given became aware before the contract was made or the transaction was engaged in that the requirements of section 76(9A), (9B) or (10) (as the case may be) had not been complied with in relation to the financial assistance to which the certificate related.
 
 (8) For the purposes of subsection (7), a person shall, in the absence of proof to the contrary, be deemed to have been aware at a particular time of any matter of which an employee or agent of the person having duties or acting on behalf of the person in relation to the relevant contract or transaction was aware at the time.
 
@@ -4194,9 +4264,9 @@ the Court may make such order or orders as it thinks just and equitable (includi
 
 (10) A person who has possession of a certificate given under subsection (6) shall, in the absence of proof to the contrary, be deemed to be the person to whom the certificate was given.
 
-(11) If a person signs a certificate stating that the requirements of section 76(10) have been complied with in relation to the proposed giving by a company of financial assistance and any of those requirements had not been complied with in respect of the proposed giving of that assistance at the time when the certificate was signed by that person, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+(11) If a person signs a certificate stating that the requirements of section 76(9A), (9B) or (10) (as the case may be) have been complied with in relation to the proposed giving by a company of financial assistance and any of those requirements had not been complied with in respect of the proposed giving of that assistance at the time when the certificate was signed by that person, the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
 
-(12) It is a defence to a prosecution for an offence under subsection (11) if the defendant proves that at the time when he signed the certificate he believed on reasonable grounds that all the requirements of section 76(10) had been complied with in respect of the proposed giving of financial assistance to which the certificate relates.
+(12) It is a defence to a prosecution for an offence under subsection (11) if the defendant proves that at the time when he signed the certificate he believed on reasonable grounds that all the requirements of section 76(9A), (9B) or (10) (as the case may be) had been complied with in respect of the proposed giving of financial assistance to which the certificate relates.
 
 (13) The power of a Court under section 391 to relieve a person to whom that section applies, wholly or partly and on such terms as the Court thinks fit, from a liability referred to in that section extends to relieving a person against whom an order may be made under subsection (4) from the liability to have such an order made against him.
 
@@ -4214,43 +4284,61 @@ the Court may make such order or orders as it thinks just and equitable (includi
 
 [36/2000 wef 22/01/2001]
 
-(3) The total number of ordinary shares and stocks that may be purchased or acquired by a company during the relevant period shall not exceed 10% (or such other percentage as the Minister may by notification prescribe) of the issued ordinary share capital of the company ascertained —
+(3) The total number of ordinary shares and stocks in any class that may be purchased or acquired by a company during the relevant period shall not exceed 10% (or such other percentage as the Minister may by notification prescribe) of the total number of ordinary shares and stocks of the company in that class ascertained —
 
 (a) as at the date of the last annual general meeting of the company held before any resolution passed pursuant to section 76C, 76D, 76DA or 76E; or
 
 (b) as at the date of such resolution,
 
-whichever is the higher, unless the Court has, at any time during the relevant period, made an order under section 73(4) confirming the reduction of share capital of the company.
+whichever is the higher, unless —
 
-[36/2000 wef 22/01/2001]
+(i) the company has, at any time during the relevant period, reduced its share capital by a special resolution under section 78B or 78C; or
 
-(3A) Where the Court has made an order under section 73(4), the issued ordinary share capital of the company shall, notwithstanding subsection (3)(a) and (b), be taken to be the amount of the issued ordinary share capital as altered by the order of the Court.
+(ii) the Court has, at any time during the relevant period, made an order under section 78I confirming the reduction of share capital of the company.
 
-[36/2000 wef 22/01/2001]
+[21/2005 wef 30/01/2006]
 
-(3B) The total number of preference shares which are not redeemable under section 70 that may be purchased or acquired by a company during the relevant period shall not exceed 10% (or such other percentage as the Minister may by notification prescribe) of the issued non-redeemable preference share capital of the company ascertained —
+(3A) Where a company has reduced its share capital by a special resolution under section 78B or 78C, or the Court has made an order under section 78I, the total number of ordinary shares and stocks of the company in any class shall, notwithstanding subsection (3)(a) and (b), be taken to be the total number of ordinary shares and stocks of the company in that class as altered by the special resolution of the company or the order of the Court, as the case may be.
+
+[21/2005 wef 30/01/2006]
+
+(3B) The total number of preference shares in any class which are not redeemable under section 70 that may be purchased or acquired by a company during the relevant period shall not exceed 10% (or such other percentage as the Minister may by notification prescribe) of the total number of non-redeemable preference shares of the company in that class ascertained —
 
 (a) as at the date of the last annual general meeting of the company held before any resolution passed pursuant to section 76C, 76D, 76DA or 76E; or
 
 (b) as at the date of such resolution,
 
-whichever is the higher, unless the Court has, at any time during the relevant period, made an order under section 73(4) confirming the reduction of share capital of the company.
+whichever is the higher, unless —
 
-[36/2000 wef 22/01/2001]
+(i) the company has, at any time during the relevant period, reduced its share capital by a special resolution under section 78B or 78C; or
 
-(3C) Where the Court has made an order under section 73(4), the issued non-redeemable preference share capital of the company shall, notwithstanding subsection (3B)(a) and (b), be taken to be the amount of the issued non-redeemable preference share capital as altered by the order of the Court.
+(ii) the Court has, at any time during the relevant period, made an order under section 78I confirming the reduction of share capital of the company.
 
-[36/2000 wef 22/01/2001]
+[21/2005 wef 30/01/2006]
+
+(3C) Where a company has reduced its share capital by a special resolution under section 78B or 78C, or the Court has made an order under section 78I, the total number of non-redeemable preference shares of the company in any class shall, notwithstanding subsection (3B)(a) and (b), be taken to be the total number of non-redeemable preference shares of the company in that class as altered by the special resolution of the company or the order of the Court, as the case may be.
+
+[21/2005 wef 30/01/2006]
 
 (3D) There shall be no limit on the number of redeemable preference shares that may be purchased or acquired by a company during the relevant period.
 
 [36/2000 wef 22/01/2001]
 
+(3E) For the purposes of this section, any of the company’s ordinary shares held as treasury shares shall be disregarded.
+
+[21/2005 wef 30/01/2006]
+
 (4) In subsection (3), “relevant period” means the period commencing from the date the last annual general meeting of the company was held or if no such meeting was held the date it was required by law to be held before the resolution in question is passed, and expiring on the date the next annual general meeting is or is required by law to be held, whichever is the earlier, after the date the resolution in question is passed.
 
-(5) Shares that are purchased or acquired by a company pursuant to section 76C, 76D or 76E are deemed to be cancelled immediately on purchase or acquisition.
+(5) Ordinary shares that are purchased or acquired by a company pursuant to section 76C, 76D, 76DA or 76E shall, unless held in treasury in accordance with section 76H, be deemed to be cancelled immediately on purchase or acquisition.
 
-(6) On the cancellation of a share under subsection (5) , the rights and privileges attached to that share expire.
+[21/2005 wef 30/01/2006]
+
+(5A) Preference shares that are purchased or acquired by a company pursuant to section 76C, 76D, 76DA or 76E shall be deemed to be cancelled immediately on purchase or acquisition.
+
+[21/2005 wef 30/01/2006]
+
+(6) On the cancellation of a share under subsection (5) or (5A), the rights and privileges attached to that share expire.
 
 (7) For the purposes of this section, shares are deemed to be purchased or acquired on the date on which the company would, apart from subsection (5), become entitled to exercise the rights attached to the shares.
 
@@ -4260,11 +4348,37 @@ whichever is the higher, unless the Court has, at any time during the relevant p
 
 (a) the date of the purchase or acquisition;
 
-(b) the number and nominal value of shares purchased or acquired;
+(b) the number of shares purchased or acquired;
 
-(c) the company’s issued share capital as at the date of the resolution passed pursuant to section 76C, 76D, 76DA or 76E and the company’s issued share capital after the purchase or acquisition; and
+[21/2005 wef 30/01/2006]
 
-(d) the amount of consideration paid by the company for the purchase or acquisition of each share.
+(c) the number of shares cancelled;
+
+[21/2005 wef 30/01/2006]
+
+(d) the number of shares held as treasury shares;
+
+[21/2005 wef 30/01/2006]
+
+(e) the company’s issued share capital before the purchase or acquisition;
+
+[21/2005 wef 30/01/2006]
+
+(f) the company’s issued share capital after the purchase or acquisition;
+
+[21/2005 wef 30/01/2006]
+
+(g) the amount of consideration paid by the company for the purchase or acquisition of the shares;
+
+[21/2005 wef 30/01/2006]
+
+(h) whether the shares were purchased or acquired out of the profits or the capital of the company; and
+
+[21/2005 wef 30/01/2006]
+
+(i) such other particulars as may be required in the prescribed form.
+
+[21/2005 wef 30/01/2006]
 
 (10) Nothing in this section or in sections 76C to 76G shall be construed so as to limit or affect an order of the Court made under any section that requires a company to purchase or acquire its own shares.
 
@@ -4444,7 +4558,7 @@ as the case may be.
 
 [38/98 wef 18/11/1998]
 
-### Payments to be made out of distributable profits and company not to be insolvent
+### Payments to be made only if company is solvent
 
 76F\.—(1) A payment made by a company in consideration of —
 
@@ -4454,45 +4568,31 @@ as the case may be.
 
 (c) the release of any of the company’s obligations with respect to the purchase or acquisition of any of its own shares under an agreement approved under section 76D or 76DA,
 
-must be made out of the company’s distributable profits.
+may be made out of the company’s capital or profits so long as the company is solvent.
 
 (2) If the requirements in subsection (1) are not satisfied in relation to an agreement —
 
 (a) in a case within subsection (1)(a), no purchase or acquisition by the company of its own shares in pursuance of that agreement is lawful;
 
-(b) in a case within subsection (1)(b) , no such purchase or acquisition following the variation is lawful; and
+(b) in a case within subsection (1)(b), no such purchase or acquisition following the variation is lawful; and
 
 (c) in a case within subsection (1)(c), the purported release is void.
 
-(3) Every director or manager of a company who —
+(3) Every director or manager of a company who approves or authorises, the purchase or acquisition of the company’s own shares or the release of obligations, knowing that the company is not solvent shall, without prejudice to any other liability, be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years.
 
-(a) approves or authorises the purchase or acquisition of the company’s own shares knowing that the company is insolvent or will become insolvent as a result of the purchase or acquisition; or
+(4) For the purposes of this section, a company is solvent if —
 
-(b) wilfully makes or authorises the making of a payment referred to in subsection (1) out of what he knows are not distributable profits,
+(a) the company is able to pay its debts in full at the time of the payment referred to in subsection (1) and will be able to pay its debts as they fall due in the normal course of business during the period of 12 months immediately following the date of the payment; and
 
-shall, without prejudice to any other liability, be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months; and shall also be liable to the creditors of the company for the amount of the debts due by the company to them respectively to the extent by which the amount paid as consideration as described in subsection (1) has exceeded the distributable profits and such amount may be recovered by the creditors or the liquidator suing on behalf of the creditors.
+(b) the value of the company’s assets is not less than the value of its liabilities (including contingent liabilities) and will not after the proposed purchase, acquisition or release, become less than the value of its liabilities (including contingent liabilities).
 
-(4) For the purposes of this section —
-
-(a) “distributable profits” means profits that are available for payment as dividends but excludes any amount in —
-
-(i) the share premium account referred to in section 69(1); and
-
-(ii) the capital redemption reserve referred to in sections 70(7) and 76G;
-
-(b) a company is insolvent if either —
-
-(i) the company is unable to pay its debts as they become due in the normal course of business; or
-
-(ii) the value of the company’s assets is less than the value of its liabilities, including contingent liabilities.
-
-(5) In determining for the purposes of subsection (4) whether the value of a company’s assets is less than the value of its liabilities, including contingent liabilities, the directors or managers of a company —
+(5) In determining, for the purposes of subsection (4), whether the value of a company’s assets is less than the value of its liabilities (including contingent liabilities), the directors or managers of a company —
 
 (a) must have regard to —
 
-(i) the most recent financial statements of the company that comply with this Act; and
+(i) the most recent financial statements of the company that comply with section 201(1A), (3) and (3A), as the case may be; and
 
-(ii) all other circumstances that the directors or managers know or ought to know affect, or may affect, the value of the company’s assets and the value of the company’s liabilities, including its contingent liabilities;
+(ii) all other circumstances that the directors or managers know or ought to know affect, or may affect, the value of the company’s assets and the value of the company’s liabilities (including contingent liabilities); and
 
 (b) may rely on valuations of assets or estimates of liabilities that are reasonable in the circumstances.
 
@@ -4502,15 +4602,97 @@ shall, without prejudice to any other liability, be guilty of an offence and sha
 
 (b) any claim the company is entitled to make and can reasonably expect to be met to reduce or extinguish the contingent liability.
 
-[38/98 wef 18/11/1998]
+[21/2005 wef 30/01/2006]
 
-### Capital redemption reserve
+### Reduction of capital or profits or both on cancellation of repurchased shares
 
-76G\.—(1) Where, under section 76B, 76C, 76D, 76DA or 76E, shares of a company are purchased or acquired, the amount by which the company’s issued share capital is diminished in accordance with section 76B(5) on cancellation of the shares purchased or acquired shall be transferred to a reserve called “the capital redemption reserve”.
+76G\. Where under section 76C, 76D, 76DA or 76E, shares of a company are purchased or acquired, and cancelled under section 76B(5), the company shall —
 
-(2) The provisions of this Act relating to the reduction of the share capital of a company shall apply as if the capital redemption reserve were paid-up share capital of the company, except that the reserve may be applied by the company in paying up its unissued shares to be allotted to members of the company as fully paid bonus shares.
+(a) reduce the amount of its share capital where the shares were purchased or acquired out of the capital of the company;
 
-[38/98 wef 18/11/1998]
+(b) reduce the amount of its profits where the shares were purchased or acquired out of the profits of the company; or
+
+(c) reduce the amount of its share capital and profits proportionately where the shares were purchased or acquired out of both the capital and the profits of the company,
+
+by the total amount of the purchase price paid by the company for the shares cancelled.
+
+[21/2005 wef 30/01/2006]
+
+### Treasury shares
+
+76H\.—(1) Where ordinary shares or stocks are purchased or otherwise acquired by a company in accordance with sections 76B to 76G, the company may —
+
+(a) hold the shares or stocks (or any of them); or
+
+(b) deal with any of them, at any time, in accordance with section 76K.
+
+(2) Where ordinary shares or stocks are held under subsection (1)(a) then, for the purposes of section 190 (Register and index of members), the company shall be entered in the register as the member holding those shares or stocks.
+
+[21/2005 wef 30/01/2006]
+
+### Treasury shares: maximum holdings
+
+76I\.—(1) Where a company has shares of only one class, the aggregate number of shares held as treasury shares shall not at any time exceed 10% of the total number of shares of the company at that time.
+
+(2) Where the share capital of a company is divided into shares of different classes, the aggregate number of the shares of any class held as treasury shares shall not at any time exceed 10% of the total number of the shares in that class at that time.
+
+(3) Where subsection (1) or (2) is contravened by a company, the company shall dispose of or cancel the excess shares, in accordance with section 76K before the end of the period of 6 months beginning with the day on which that contravention occurs, or such further period as the Registrar may allow.
+
+(4) In subsection (3), “the excess shares” means such number of the shares, held by the company as treasury shares at the time in question, as resulted in the limit being exceeded.
+
+[21/2005 wef 30/01/2006]
+
+### Treasury shares: voting and other rights
+
+76J\.—(1) This section shall apply to shares which are held by a company as treasury shares.
+
+(2) The company shall not exercise any right in respect of the treasury shares and any purported exercise of such a right is void.
+
+(3) The rights to which subsection (2) applies include any right to attend or vote at meetings (including meetings under section 210) and for the purposes of this Act, the company shall be treated as having no right to vote and the treasury shares shall be treated as having no voting rights.
+
+(4) No dividend may be paid, and no other distribution (whether in cash or otherwise) of the company’s assets (including any distribution of assets to members on a winding up) may be made, to the company in respect of the treasury shares.
+
+(5) Nothing in this section is to be taken as preventing —
+
+(a) an allotment of shares as fully paid bonus shares in respect of the treasury shares; or
+
+(b) the subdivision or consolidation of any treasury share into treasury shares of a smaller amount, if the total value of the treasury shares after the subdivision or consolidation is the same as the total value of the treasury share before the subdivision or consolidation, as the case may be.
+
+(6) Any shares allotted as fully paid bonus shares in respect of the treasury shares shall be treated for the purposes of this Act as if they were purchased by the company at the time they were allotted, in circumstances in which section 76H applied.
+
+[21/2005 wef 30/01/2006]
+
+### Treasury shares: disposal and cancellation
+
+76K\.—(1) Where shares are held as treasury shares, a company may at any time —
+
+(a) sell the shares (or any of them) for cash;
+
+(b) transfer the shares (or any of them) for the purposes of or pursuant to an employees’ share scheme;
+
+(c) transfer the shares (or any of them) as consideration for the acquisition of shares in or assets of another company or assets of a person;
+
+(d) cancel the shares (or any of them); or
+
+(e) sell, transfer or otherwise use the treasury shares for such other purposes as the Minister may by order prescribe.
+
+(2) In subsection (1)(a), “cash”, in relation to a sale of shares by a company, means —
+
+(a) cash (including foreign currency) received by the company;
+
+(b) a cheque received by the company in good faith which the directors have no reason for suspecting will not be paid;
+
+(c) a release of a liability of the company for a liquidated sum; or
+
+(d) an undertaking to pay cash to the company on or before a date not more than 90 days after the date on which the company agrees to sell the shares.
+
+(3) But if the company receives a notice under section 215 (Power to acquire shares of shareholders dissenting from scheme or contract approved by 90% majority) that a person desires to acquire any of the shares, the company shall not, under subsection (1), sell or transfer the shares to which the notice relates except to that person.
+
+(4) The directors may take such steps as are requisite to enable the company to cancel its shares under subsection (1) without complying with section 78B (reduction of share capital by private company), 78C (reduction of share capital by public company) or 78I (Court order approving reduction).
+
+(5) Within 30 days of the cancellation or disposal of treasury shares in accordance with subsection (1), the directors of the company shall lodge with the Registrar the notice of the cancellation or disposal of treasury shares in the prescribed form with such particulars as may be required in the form, together with payment of the prescribed fee.
+
+[21/2005 wef 30/01/2006]
 
 ### Options over unissued shares
 
@@ -4528,7 +4710,7 @@ shall, without prejudice to any other liability, be guilty of an offence and sha
 
 ### Power of company to pay interest out of capital in certain cases
 
-78\. Where any shares of a company are issued for the purpose of raising money to defray the expenses of the construction of any works or buildings or the provision of any plant which cannot be made profitable for a long period, the company may pay interest on so much of such share capitalas is for the time being paid up and charge the interest so paid to capital as part of the cost of the construction or provision but —
+78\. Where any shares of a company are issued for the purpose of raising money to defray the expenses of the construction of any works or buildings or the provision of any plant which cannot be made profitable for a long period, the company may pay interest on so much of such share capital (except treasury shares) as is for the time being paid up and charge the interest so paid to capital as part of the cost of the construction or provision but —
 
 (a) no such payment shall be made unless it is authorised, by the articles or by special resolution, and is approved by the Court;
 
@@ -4543,6 +4725,338 @@ shall, without prejudice to any other liability, be guilty of an offence and sha
 [U.K.s.65.]
 
 [Aust. s. 69.]
+
+Division 3A —
+
+Reduction of Share Capital
+
+### Preliminary
+
+78A\.—(1) A company may reduce its share capital under the provisions of this Division in any way and, in particular, do all or any of the following:
+
+(a) extinguish or reduce the liability on any of its shares in respect of share capital not paid up;
+
+(b) cancel any paid-up share capital which is lost or unrepresented by available assets;
+
+(c) return to shareholders any paid-up share capital which is more than it needs.
+
+(2) A company may not reduce its share capital in any way except by a procedure provided for it by the provisions of this Division.
+
+(3) A company’s memorandum or articles may exclude or restrict any power to reduce share capital conferred on the company by this Division.
+
+(4) In this Division —
+
+“Comptroller” means the Comptroller of Income Tax appointed under section 3(1) of the Income Tax Act (Cap. 134);
+
+“reduction information”, in relation to a proposed reduction of share capital by a special resolution of a company, means the following information:
+
+(a) the amount of the company’s share capital that is thereby reduced; and
+
+(b) the number of shares that are thereby cancelled;
+
+“resolution date”, in relation to a resolution, means the date when the resolution is passed.
+
+(5) This Division shall not apply to an unlimited company, and shall not preclude such a company from reducing in any way its share capital.
+
+(6) This Division shall not apply to the purchase or acquisition or proposed purchase or acquisition by a company of its own shares in accordance with sections 76B to 76G.
+
+### Reduction of share capital by private company
+
+78B\.—(1) A private company limited by shares may reduce its share capital in any way by a special resolution if the company —
+
+(a) sends to the Comptroller a notice —
+
+(i) stating that the resolution has been passed; and
+
+(ii) containing the text of the resolution and the resolution date,
+
+within 8 days beginning with the resolution date;
+
+(b) meets the solvency requirements; and
+
+(c) meets such publicity requirements as may be prescribed by the Minister,
+
+but the resolution and the reduction of the share capital shall take effect only as provided by section 78E.
+
+(2) Notwithstanding subsection (1), the company need not meet the solvency requirements if the reduction of share capital is solely by way of cancellation of any paid-up share capital which is lost or unrepresented by available assets.
+
+(3) For the purposes of subsection (1), the company meets the solvency requirements if —
+
+(a) all the directors of the company make a solvency statement in relation to the reduction of capital; and
+
+(b) the statement is made —
+
+(i) in time for subsection (4)(a) to be complied with; but
+
+(ii) not before the beginning of the period of 15 days ending with the resolution date.
+
+(4) Unless subsection (2) applies, the company —
+
+(a) shall —
+
+(i) if the resolution for reducing share capital is a special resolution to be passed by written means under section 184A, ensure that every copy of the resolution served under section 183(3A) or 184C(1) (as the case may be) is accompanied by a copy of the solvency statement; or
+
+(ii) if the resolution is a special resolution to be passed in a general meeting, throughout that meeting make the solvency statement or a copy of it available for inspection by the members at that meeting; and
+
+(b) shall, throughout the 6 weeks beginning with the resolution date, make the solvency statement or a copy of it available at the company’s registered office for inspection free of charge by any creditor of the company.
+
+(5) The resolution does not become invalid by virtue only of a contravention of subsection (4), but every officer of the company who is in default shall be guilty of an offence.
+
+(6) Any requirement under subsection (4)(b) ceases if the resolution is revoked.
+
+### Reduction of share capital by public company
+
+78C\.—(1) A public company may reduce its share capital in any way by a special resolution if the company —
+
+(a) sends to the Comptroller a notice —
+
+(i) stating that the resolution has been passed; and
+
+(ii) containing the text of the resolution and the resolution date,
+
+within 8 days beginning with the resolution date;
+
+(b) meets the solvency requirements; and
+
+(c) meets such publicity requirements as may be prescribed by the Minister,
+
+but the resolution and the reduction of the share capital shall take effect only as provided by section 78E.
+
+(2) Notwithstanding subsection (1), the company need not meet the solvency requirements if the reduction of share capital is solely by way of cancellation of any paid-up share capital which is lost or unrepresented by available assets.
+
+(3) The company meets the solvency requirements if —
+
+(a) all the directors of the company make a solvency statement in relation to the reduction of share capital;
+
+(b) the statement is made —
+
+(i) in time for subsection (4)(a) to be complied with; but
+
+(ii) not before the beginning of the period of 22 days ending with the resolution date; and
+
+(c) a copy of the solvency statement is lodged with the Registrar, together with the copy of the resolution required to be lodged with the Registrar under section 186, within 15 days beginning with the resolution date.
+
+(4) Unless subsection (2) applies, the company shall —
+
+(a) throughout the meeting at which the resolution is to be passed, make the solvency statement or a copy of it available for inspection by the members at the meeting; and
+
+(b) throughout the 6 weeks beginning with the resolution date, make the solvency statement or a copy of it available at the company’s registered office for inspection free of charge by any creditor of the company.
+
+(5) The resolution does not become invalid by virtue only of a contravention of subsection (4), but every officer of the company who is in default shall be guilty of an offence.
+
+(6) Any requirement under subsection (3)(c) or (4)(b) ceases if the resolution is revoked.
+
+### Creditor’s right to object to company’s reduction
+
+78D\.—(1) This section shall apply where a company has passed a special resolution for reducing share capital under section 78B or 78C.
+
+(2) Any creditor of the company to which this subsection applies may, at any time during the 6 weeks beginning with the resolution date, apply to the Court for the resolution to be cancelled.
+
+(3) Subsection (2) shall apply to a creditor of the company who, at the date of his application to the Court, is entitled to any debt or claim which, if that date were the commencement of the winding up of the company, would be admissible in proof against the company.
+
+(4) When an application is made under subsection (2) —
+
+(a) the creditor shall as soon as possible serve the application on the company; and
+
+(b) the company shall as soon as possible give to the Registrar notice of the application.
+
+### Position at end of period for creditor objections
+
+78E\.—(1) Where —
+
+(a) a private company passes a special resolution for reducing its share capital and meets the requirements under section 78B(1)(a) and (c) and the solvency requirements under section 78B(3) (if applicable); and
+
+(b) no application for cancellation of the resolution has been made under section 78D(2) during the 6 weeks beginning with the resolution date,
+
+for the reduction of share capital to take effect, the company must lodge with the Registrar —
+
+(i) a copy of the resolution in accordance with section 186; and
+
+(ii) the following documents after the end of 6 weeks, and before the end of 8 weeks, beginning with the resolution date:
+
+(A) a copy of the solvency statement under section 78B(3) (if applicable);
+
+(B) a statement made by the directors confirming that the requirements under section 78B(1)(a) and (c) and the solvency requirements under section 78B(3) (if applicable) have been complied with, and that no application for cancellation of the resolution has been made; and
+
+(C) a notice containing the reduction information.
+
+(2) Where —
+
+(a) a public company passes a special resolution for reducing its share capital and meets the requirements under section 78C(1)(a) and (c) and the solvency requirements (if applicable) under section 78C(3); and
+
+(b) no application for cancellation of the resolution has been made under section 78D(2) during the 6 weeks beginning with the resolution date,
+
+for the reduction of share capital to take effect, the company must lodge with the Registrar the following documents after the end of 6 weeks, and before the end of 8 weeks, beginning with the resolution date:
+
+(i) a statement made by the directors confirming that the requirements under section 78C(1)(a) and (c) and the solvency requirements under section 78C(3) (if applicable) have been complied with, and that no application for cancellation of the resolution has been made; and
+
+(ii) a notice containing the reduction information.
+
+(3) Where —
+
+(a) a private company passes a special resolution for reducing its share capital and meets the requirements under section 78B(1)(a) and (c) and the solvency requirements under section 78B(3) (if applicable); but
+
+(b) during the 6 weeks beginning with the resolution date, one or more applications for cancellation of the resolution are made under section 78D(2),
+
+for the reduction of share capital to take effect, the following conditions must be satisfied:
+
+(i) the company has complied with section 78D(4)(b) (notification to Registrar) in relation to all such applications;
+
+(ii) the proceedings in relation to each such application have been brought to an end —
+
+(A) by the dismissal of the application under section 78F; or
+
+(B) without determination (for example, because the application has been withdrawn); and
+
+(iii) the company has, within 15 days beginning with the date on which the last such proceedings were brought to an end in accordance with paragraph (ii), lodged with the Registrar —
+
+(A) a statement made by the directors confirming that the requirements under section 78B(1)(a) and (c), the solvency requirements under section 78B(3) (if applicable) and section 78D(4)(b) have been complied with, and that the proceedings in relation to each such application have been brought to an end by the dismissal of the application or without determination;
+
+(B) in relation to each such application which has been dismissed by the Court, a copy of the order of the Court dismissing the application; and
+
+(C) a notice containing the reduction information.
+
+(4) Where —
+
+(a) a public company passes a special resolution for reducing its share capital and meets the requirements under section 78C(1)(a) and (c) and the solvency requirements under section 78C(3) (if applicable); but
+
+(b) during the 6 weeks beginning with the resolution date, one or more applications for cancellation of the resolution are made under section 78D(2),
+
+for the reduction of capital to take effect, the following conditions must be satisfied:
+
+(i) the company has complied with section 78D(4)(b) (notification to Registrar) in relation to all such applications;
+
+(ii) the proceedings in relation to each such application have been brought to an end —
+
+(A) by the dismissal of the application under section 78F; or
+
+(B) without determination (for example, because the application has been withdrawn); and
+
+(iii) the company has, within 15 days beginning with the date on which the last such proceedings were brought to an end in accordance with paragraph (ii), lodged with the Registrar —
+
+(A) a statement made by the directors confirming that the requirements under section 78C(1)(a) and (c), the solvency requirements under section 78C(3) (if applicable) and section 78D(4) have been complied with, and that the proceedings in relation to each such application have been brought to an end by the dismissal of the application or without determination;
+
+(B) in relation to each such application which has been dismissed by the Court, a copy of the order of the Court dismissing the application; and
+
+(C) a notice containing the reduction information.
+
+(5) The resolution in a case referred to in subsection (1), (2), (3) or (4), and the reduction of the share capital, shall take effect when the Registrar has recorded the information lodged with him in the appropriate register.
+
+### Power of Court where creditor objection made
+
+78F\.—(1) An application by a creditor under section 78D shall be determined by the Court in accordance with this section.
+
+(2) The Court shall make an order cancelling the resolution if, at the time the application is considered, the resolution has not been cancelled previously, any debt or claim on which the application was based is outstanding and the Court is satisfied that —
+
+(a) the debt or claim has not been secured and the applicant does not have other adequate safeguards for it; and
+
+(b) it is not the case that security or other safeguards are unnecessary in view of the assets that the company would have after the reduction.
+
+(3) Otherwise, the Court shall dismiss the application.
+
+(4) Where the Court makes an order under subsection (2), the company must send notice of the order to the Registrar within 15 days beginning with the date the order is made.
+
+(5) If a company contravenes subsection (4), every officer of the company who is in default shall be guilty of an offence.
+
+(6) For the purposes of this section, a debt is outstanding if it has not been discharged, and a claim is outstanding if it has not been terminated.
+
+### Reduction by special resolution subject to Court approval
+
+78G\.—(1) A company limited by shares may, as an alternative to reducing its share capital under section 78B or 78C, reduce it in any way by a special resolution approved by an order of the Court under section 78I, but the resolution and the reduction of the share capital shall not take effect until —
+
+(a) that order has been made;
+
+(b) the company has complied with section 78I(3) (lodgment of information with Registrar); and
+
+(c) the Registrar has recorded the information lodged with him under section 78I(3) in the appropriate register.
+
+(2) The company shall —
+
+(a) within 8 days beginning with the resolution date; and
+
+(b) in any case, before making an application to the Court under subsection (1),
+
+send to the Comptroller a notice stating that the resolution has been passed and containing the text of the resolution and the resolution date.
+
+### Creditor protection
+
+78H\.—(1) This section shall apply if a company makes an application under section 78G(1) and the proposed reduction of share capital involves either —
+
+(a) a reduction of liability in respect of unpaid share capital; or
+
+(b) the payment to a shareholder of any paid-up share capital,
+
+and also applies if the Court so directs in any other case where a company makes an application under that section.
+
+(2) Upon the application to the Court, the Court shall settle a list of qualifying creditors.
+
+(3) If the proposed reduction of share capital involves either —
+
+(a) a reduction of liability in respect of unpaid share capital; or
+
+(b) the payment to a shareholder of any paid-up share capital,
+
+the Court may, if having regard to any special circumstances of the case it thinks it appropriate to do so, direct that any class or classes of creditors shall not be qualifying creditors.
+
+(4) For the purpose of settling the list of qualifying creditors, the Court —
+
+(a) shall ascertain, as far as possible without requiring an application from any creditor, the names of qualifying creditors and the nature and amount of their debts or claims; and
+
+(b) may publish notices fixing a day or days within which creditors not included in the list are to claim to be so included or are to be excluded from the list.
+
+(5) Any officer of the company who —
+
+(a) intentionally conceals the name of a qualifying creditor;
+
+(b) intentionally misrepresents the nature or amount of the debt or claim of any creditor; or
+
+(c) aids, abets or is privy to any such concealment or misrepresentation,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 3 years.
+
+(6) In this section and section 78I but subject to subsection (3), “qualifying creditor” means a creditor of the company who, at a date fixed by the Court, is entitled to any debt or claim which, if that date were the commencement of the winding up of the company, would be admissible in proof against the company.
+
+### Court order approving reduction
+
+78I\.—(1) On an application by a company under section 78G(1), the Court may, subject to subsection (2), make an order approving the reduction in share capital unconditionally or on such terms and conditions as it thinks fit.
+
+(2) If, at the time the Court considers the application, there is a qualifying creditor within the meaning of section 78H —
+
+(a) who is included in the Court’s list of qualifying creditors under that section; and
+
+(b) whose claim has not been terminated or whose debt has not been discharged,
+
+the Court must not make an order approving the reduction unless satisfied, as respects each qualifying creditor, that —
+
+(i) he has consented to the reduction;
+
+(ii) his debt or claim has been secured or he has other adequate safeguards for it; or
+
+(iii) security or other safeguards are unnecessary in view of the assets the company would have after the reduction.
+
+(3) Where an order is made under this section approving a company’s reduction in share capital, the company shall (for the reduction to take effect) lodge with the Registrar —
+
+(a) a copy of the order; and
+
+(b) a notice containing the reduction information,
+
+within 90 days beginning with the date the order is made, or within such longer period as the Registrar may, on the application of the company and on receiving the prescribed fee, allow.
+
+### Offences for making groundless or false statements
+
+78J\. A director making a statement under section 78E(1)(ii)(B), (2)(i), (3)(iii)(A) or (4)(iii)(A) shall be guilty of an offence if the statement —
+
+(a) is false; and
+
+(b) is not believed by him to be true.
+
+### Liability of members on reduced shares
+
+78K\. Where a company’s share capital is reduced under any provision of this Division, a member of the company (past or present) is not liable in respect of the issue price of any share to any call or contribution greater in amount than the difference (if any) between —
+
+(a) the issue price of the share; and
+
+(b) the aggregate of the amount paid up on the share (if any) and the amount reduced on the share.
 
 Division 4 —
 
@@ -4562,7 +5076,7 @@ Substantial shareholdings
 
 [62/70.49/73]
 
-(3) In relation to a company the whole or a portion of the share capital of which consists of stock, an interest of a person in any such stock shall be deemed to be an interest in an issued share in the company having the same nominal amount as the amount of that stock and having attached to it the same rights as are attached to that stock.
+(3) In relation to a company the whole or a portion of the share capital of which consists of stock, an interest of a person in any such stock shall be deemed to be an interest in an issued share in the company having attached to it the same rights as are attached to that stock.
 
 (4) A reference in the definition of “voting share” in section 4(1) to a body corporate includes a reference to a body referred to in subsection (2)(c).
 
@@ -4580,31 +5094,27 @@ Substantial shareholdings
 
 ### Substantial shareholdings and substantial shareholders
 
-81\.—(1) For the purposes of this Division, a person has a substantial shareholding in a company if he has an interest or interests in one or more voting shares in the company and the nominal amount of that share, or the aggregate of the nominal amounts of those shares, is not less than 5% of the aggregate of the nominal amount of all the voting shares in the company.
+81\.—(1) For the purposes of this Division, a person has a substantial shareholding in a company if —
 
-(2) For the purposes of this Division, a person has a substantial shareholding in a company, being a company the share capital of which is divided into two or more classes of shares, if he has an interest or interests in one or more voting shares included in one of those classes and the nominal amount of that share, or the aggregate of the nominal amounts of those shares, is not less than 5% of the nominal amount of all the voting shares included in that class.
+(a) he has an interest or interests in one or more voting shares in the company; and
 
-[10/74]
+(b) the total votes attached to that share, or those shares, is not less than 5% of the total votes attached to all the voting shares in the company.
+
+[21/2005 wef 30/01/2006]
+
+(2) For the purposes of this Division, a person has a substantial shareholding in a company, being a company the share capital of which is divided into 2 or more classes of shares, if —
+
+(a) he has an interest or interests in one or more voting shares included in one of those classes; and
+
+(b) the total votes attached to that share, or those shares, is not less than 5% of the total votes attached to all the voting shares included in that class.
+
+[21/2005 wef 30/01/2006]
 
 (3) For the purposes of this Division, a person who has a substantial shareholding in a company is a substantial shareholder in that company.
 
-(4) Every person who, on 15th November 1974 —
+(4) In this section and section 83, “voting shares” exclude treasury shares.
 
-(a) has an interest or interests in one or more voting shares in a company; or
-
-(b) in the case of a company the share capital of which is divided into two or more classes of shares, has an interest or interests in one or more voting shares included in one of those classes,
-
-and the nominal value of that share or the aggregate of the nominal amount of those shares is equal to 5% or more but less than 10% of the aggregate of the nominal amount of all the voting shares in the company has a substantial shareholding in the company and is a substantial shareholder of that company and shall be under an obligation to give notice in writing to the company stating full particulars of the voting shares in the company in which he has an interest or interests and the full particulars of each such interest and of the circumstances by reason of which he has that interest.
-
-[10/74]
-
-[S 318/74]
-
-(5) This Division shall apply to a substantial shareholder under subsection (4).
-
-[10/74]
-
-[62/70]
+[21/2005 wef 30/01/2006]
 
 ### Substantial shareholder to notify company of his interests
 
@@ -4638,7 +5148,7 @@ and the nominal value of that share or the aggregate of the nominal amount of th
 
 (c) such other particulars as may be prescribed.
 
-(3) In subsection (1), “percentage level”, in relation to a substantial shareholder, means the percentage figure ascertained by expressing the aggregate of the nominal amount of the voting shares in which the substantial shareholder has an interest or interests immediately before or (as the case may be) immediately after the relevant time as a percentage of the nominal amount of —
+(3) In subsection (1), “percentage level”, in relation to a substantial shareholder, means the percentage figure ascertained by expressing the total votes attached to all the voting shares in which the substantial shareholder has an interest or interests immediately before or (as the case may be) immediately after the relevant time as a percentage of the total votes attached to —
 
 (a) all the voting shares in the company; or
 
@@ -4890,7 +5400,7 @@ Debentures
 
 [U.K.s.89.]
 
-[Aust. s. 72. S 258/67]
+[S 258/67]
 
 ### Reissue of redeemed debentures
 
@@ -4912,11 +5422,11 @@ the company shall have and shall be deemed always to have had power to reissue t
 
 [S 258/67]
 
-97\. [Repealed by S 236/2002 wef 01/07/2002]
+97\. [S 236/2002 wef 01/07/2002]
 
-98\. [Repealed by S 236/2002 wef 01/07/2002]
+98\. [S 236/2002 wef 01/07/2002]
 
-99\. [Repealed by S 236/2002 wef 01/07/2002]
+99\. [S 236/2002 wef 01/07/2002]
 
 ### Power of Court in relation to certain irredeemable debentures
 
@@ -4936,17 +5446,17 @@ the company shall have and shall be deemed always to have had power to reissue t
 
 [42/2001 wef 01/07/2002]
 
-101\. [Repealed by S 236/2002 wef 01/07/2002]
+101\. [S 236/2002 wef 01/07/2002]
 
-102\. [Repealed by S 236/2002 wef 01/07/2002]
+102\. [S 236/2002 wef 01/07/2002]
 
-103\. [Repealed by S 236/2002 wef 01/07/2002]
+103\. [S 236/2002 wef 01/07/2002]
 
-104\. [Repealed by S 236/2002 wef 01/07/2002]
+104\. [S 236/2002 wef 01/07/2002]
 
-105\. [Repealed by S 236/2002 wef 01/07/2002]
+105\. [S 236/2002 wef 01/07/2002]
 
-106\. [Repealed by S 236/2002 wef 01/07/2002]
+106\. [S 236/2002 wef 01/07/2002]
 
 Division 7 —
 
@@ -4984,7 +5494,9 @@ Title and transfers
 
 (b) the address of the registered office of the company in Singapore, or, where the certificate is issued by a branch office, the address of that branch office; and
 
-(c) the nominal value and the class of the shares and the extent to which the shares are paid up.
+(c) the class of the shares, the amount paid on the shares, the amount (if any) unpaid on the shares and the extent to which the shares are paid up.
+
+[21/2005 wef 30/01/2006]
 
 (3) Failure to comply with this section shall not affect the rights of any holder of shares.
 
@@ -5017,6 +5529,10 @@ Title and transfers
 or may require the applicant to do both of those things.
 
 [Aust.s.94.]
+
+(3) Any duplicate certificate issued on or after the date of commencement of section 33 of the Companies (Amendment) Act 2005 in respect of a share certificate issued before that date shall state, in place of the historical nominal value of the shares, the amount paid on the shares and the amount (if any) unpaid on the shares.
+
+[21/2005 wef 30/01/2006]
 
 ### Instrument of transfer
 
@@ -5140,7 +5656,7 @@ for the transfer of securities
 
 “bare trustee” means a trustee who has no beneficial interest in the subject-matter of the trust;
 
-“book-entry securities”, in relation to the Depository, means securities —
+“book-entry securities”, in relation to the Depository, means listed securities —
 
 (a) the documents evidencing title to which are deposited by a depositor with the Depository and are registered in the name of the Depository or its nominee; and
 
@@ -5171,8 +5687,6 @@ for the transfer of securities
 “international body” means the Asian Development Bank, the International Bank for Reconstruction and Development, the International Monetary Fund, the European Bank for Reconstruction and Development and such other international bodies as the Minister may, by order, prescribe;
 
 “instrument” includes a deed or any other instrument in writing;
-
-“listed securities” means securities of a corporation that are listed on the Securities Exchange and have not been delisted or had its quotation removed;
 
 “rules” means the rules made by the Depository in relation to the operation of the Central Depository System and includes the Central Depository Rules and Procedures made by the Depository pursuant to its Articles of Association (as the same may be amended from time to time) and any rule with regard to payment of fees to the Depository;
 
@@ -5449,6 +5963,16 @@ The provisions of sections 130I, 130J, 130L and 130M shall apply, mutatis mutand
 (f) safeguards for depositors including the maintenance of insurance and the establishment and maintenance of compensation funds by the Depository for the purpose of settling claims by depositors;
 
 (g) matters relating to link-ups between the Depository and other securities depositories (by whatever name called) established and maintained outside Singapore.
+
+(ga) any requirement for fees charged by the Depository to be approved by a regulatory authority, and regulations made under this paragraph may provide —
+
+(i) that the regulatory authority may require the Depository to furnish it with such information or documents as the Authority considers necessary for such approval;
+
+(ii) that a contravention of any specified provision in the regulations shall be an offence; and
+
+(iii) for penalties not exceeding a fine of $150,000 for each offence and, in the case of a continuing offence, a further penalty not exceeding a fine of 10% of the maximum fine prescribed for that offence for every day or part thereof during which the offence continues after conviction;
+
+[21/2005 wef 30/01/2006]
 
 (h) the modification or exclusion of any provision of any written law, rule of law, any instrument or articles of association;
 
@@ -5744,7 +6268,7 @@ he shall be guilty of an offence, and where he has signed, issued or authorised 
 
 Name to be displayed on all offices
 
-(3) [Deleted by Act 5/2004 wef 01/04/2004]
+(3) [Act 5/2004 wef 01/04/2004]
 
 Division 2 —
 
@@ -5758,7 +6282,7 @@ Directors and officers
 
 (2) No person other than a natural person of full age and capacity shall be a director of a company.
 
-(3) [Deleted by Act 12/2002 wef 13/01/2003]
+(3) [Act 12/2002 wef 13/01/2003]
 
 (4) Any provision in the memorandum or articles of a company which was in force immediately before 29th December 1967 and which operated to constitute a corporation as a director of the company shall be read and construed as if it authorised that corporation to appoint a natural person to be a director of that company.
 
@@ -6342,13 +6866,13 @@ as the case requires.
 
 [10/74]
 
-160A\. [Repealed by Act 38/98]
+160A\. [Act 38/98]
 
-160B\. [Repealed by Act 38/98]
+160B\. [Act 38/98]
 
-160C\. [Repealed by Act 38/98]
+160C\. [Act 38/98]
 
-160D\. [Repealed by Act 38/98]
+160D\. [Act 38/98]
 
 ### Approval of company required for issue of shares by directors
 
@@ -6420,11 +6944,13 @@ whichever is the earlier; but any approval may be previously revoked or varied b
 
 (b) to enter into any guarantee or provide any security in connection with a loan made to another company by a person other than the first-mentioned company,
 
-if a director or directors of the first-mentioned company is or together are interested in shares in the other company of a nominal value equal to 20% or more of the nominal value of its equity share capital.
+if a director or directors of the first-mentioned company is or together are interested in 20% or more of the total number of equity shares in the other company (excluding treasury shares).
 
 (2) Subsection (1) shall extend to apply to a loan, guarantee or security in connection with a loan made by a company (other than an exempt private company) to another company where such other company is incorporated outside Singapore, if a director or directors of the first-mentioned company —
 
-(a) is or together are interested in shares in the other company of the nominal value described in subsection (1); or
+(a) is or together are interested in 20% or more of the total number of equity shares in the other company (excluding treasury shares); or
+
+[21/2005 wef 30/01/2006]
 
 (b) in a case where the other company does not have a share capital, exercises or together exercise control over the other company whether by reason of having the power to appoint directors or otherwise.
 
@@ -6566,9 +7092,11 @@ if a director or directors of the first-mentioned company is or together are int
 
 164A\.—(1) If a company is served with a notice sent by or on behalf of —
 
-(a) at least 10% of the total number of members of the company; or
+(a) at least 10% of the total number of members of the company (excluding the company itself if it is registered as a member); or
 
-(b) the holders in aggregate of not less than 5% in nominal value of the company’s issued share capital,
+(b) a member or members with at least 5% of the total number of issued shares of the company (excluding treasury shares),
+
+[21/2005 wef 30/01/2006]
 
 requiring the emoluments and other benefits received by the directors of the company or of a subsidiary to be disclosed, the company shall —
 
@@ -6672,7 +7200,7 @@ whichever last occurs;
 
 [10/74]
 
-167\. [Repealed by Act 13 of 1987]
+167\. [Act 13 of 1987]
 
 ### Payments to director for loss of office, etc.
 
@@ -6842,7 +7370,7 @@ a return in the prescribed form notifying the Registrar of that fact and contain
 
 [12/2002 wef 13/01/2003]
 
-(b) [Deleted by Act 12/2002 wef 13/01/2003]
+(b) [Act 12/2002 wef 13/01/2003]
 
 (c) within one month after a person becomes a manager, secretary or auditor of the company, a return in the prescribed form notifying the Registrar of that fact and specifying the full name and address of that person;
 
@@ -6904,7 +7432,7 @@ Division 3 —
 
 Meetings and proceedings
 
-173A\. [Deleted by Act 5/2004 wef 01/04/2004]
+173A\. [Act 5/2004 wef 01/04/2004]
 
 ### Statutory meeting and statutory report
 
@@ -7000,6 +7528,10 @@ Meetings and proceedings
 
 176\.—(1) The directors of a company, notwithstanding anything in its articles, shall, on the requisition of members holding at the date of the deposit of the requisition not less than 10% of such of the paid-up capital as at the date of the deposit carries the right of voting at general meetings or, in the case of a company not having a share capital, of members representing not less than 10% of the total voting rights of all members having at that date a right to vote at general meetings, forthwith proceed duly to convene an extraordinary general meeting of the company to be held as soon as practicable but in any case not later than two months after the receipt by the company of the requisition.
 
+(1A) For the purposes of subsection (1), any of the company’s paid-up capital held as treasury shares shall be disregarded.
+
+[21/2005 wef 30/01/2006]
+
 (2) The requisition shall state the objects of the meeting and shall be signed by the requisitionists and deposited at the registered office of the company, and may consist of several documents in like form each signed by one or more requisitionists.
 
 (3) If the directors do not within 21 days after the date of the deposit of the requisition proceed to convene a meeting, the requisitionists, or any of them representing more than 50% of the total voting rights of all of them, may themselves, in the same manner as nearly as possible as that in which meetings are to be convened by directors convene a meeting, but any meeting so convened shall not be held after the expiration of 3 months from that date.
@@ -7014,7 +7546,7 @@ Meetings and proceedings
 
 ### Calling of meetings
 
-177\.—(1) Two or more members holding not less than 10% of the issued share capital or, if the company has not a share capital, not less than 5% in number of the members of the company or such lesser number as is provided by the articles may call a meeting of the company.
+177\.—(1) Two or more members holding not less than 10% of the total number of issued shares of the company (excluding treasury shares) or, if the company has not a share capital, not less than 5% in number of the members of the company or such lesser number as is provided by the articles may call a meeting of the company.
 
 (2) A meeting of a company or of a class of members, other than a meeting for the passing of a special resolution, shall be called by notice in writing of not less than 14 days or such longer period as is provided in the articles.
 
@@ -7022,7 +7554,9 @@ Meetings and proceedings
 
 (a) in the case of a meeting called as the annual general meeting, by all the members entitled to attend and vote thereat; or
 
-(b) in the case of any other meeting, by a majority in number of the members having a right to attend and vote thereat, being a majority which together holds not less than 95% in nominal value of the shares giving a right to attend and vote or, in the case of a company not having a share capital, together represents not less than 95% of the total voting rights at that meeting of all the members.
+(b) in the case of any other meeting, by a majority in number of the members having a right to attend and vote thereat, being a majority which together holds not less than 95% of the total voting rights of all the members having a right to vote at that meeting.
+
+[21/2005 wef 30/01/2006]
 
 (4) So far as the articles do not make other provision in that behalf notice of every meeting shall be served on every member having a right to attend and vote thereat in the manner in which notices are required to be served by Table A.
 
@@ -7099,6 +7633,10 @@ the corporation shall, for the purposes of subsection (1), be deemed to be perso
 (7) Where by or under any provision of this Act any notice, copy of a resolution or other document relating to any matter is required to be lodged by a company with the Registrar, and a minute referred to in subsection (6) is signed by the representative in pursuance of that subsection and the minute relates to such a matter the company shall within one month after the signing of the minute lodge a copy thereof with the Registrar.
 
 [U.K.s.139.Aust.s.140.]
+
+(8) For the purposes of this section, any reference to a member of a company does not include the company itself where it is such a member by virtue of its holding shares as treasury shares.
+
+[21/2005 wef 30/01/2006]
 
 ### As to member’s rights at meetings
 
@@ -7244,7 +7782,7 @@ specifying the intention to propose the resolution as a special resolution has b
 
 [8/2003 wef 15/05/2003]
 
-(2) Notwithstanding subsection (1), if it so agreed by a majority in number of the members having the right to attend and vote at the meeting, being a majority which together holds not less than 95% in nominal value of the shares giving that right or, in the case of a company not having a share capital, together represents not less than 95% of the total voting rights that could be exercised at that meeting, a resolution may be proposed and passed as a special resolution at a meeting of which written notice of a period less than that required under subsection (1) has been given.
+(2) Notwithstanding subsection (1), if it so agreed by a majority in number of the members having the right to attend and vote at the meeting, being a majority which together holds not less than 95% of the total voting rights of all the members having a right to vote at that meeting, a resolution may be proposed and passed as a special resolution at a meeting of which written notice of a period less than that required under subsection (1) has been given.
 
 (3) At any meeting at which a special resolution is submitted a declaration of the chairman that the resolution is carried shall unless a poll is demanded be conclusive evidence of the fact without proof of the number or proportion of the votes recorded in favour of or against the resolution.
 
@@ -7252,7 +7790,17 @@ specifying the intention to propose the resolution as a special resolution has b
 
 (a) by such number of members for the time being entitled under the articles to vote at the meeting as is specified in the articles, but it shall not in any case be necessary for more than 5 members to make the demand;
 
-(b) if no such provision is made by the articles, by 3 members so entitled, or by one member or two members so entitled, if that member holds or those two members together hold not less than 10% of the paid-up share capital of the company or if that member represents or those two members together represent not less than 10% of the total voting rights of all the members having a right to vote at the meeting.
+(b) if no such provision is made by the articles, by 3 members so entitled, or by one or 2 members so entitled, if —
+
+(i) that member holds or those 2 members together hold not less than 10% of the total number of paid-up shares of the company (excluding treasury shares); or
+
+(ii) that member represents or those 2 members together represent not less than 10% of the total voting rights of all the members having a right to vote at that meeting.
+
+[21/2005 wef 30/01/2006]
+
+(4A) For the purposes of subsection (4), any reference to a member does not include a reference to a company itself where it is registered as a member.
+
+[21/2005 wef 30/01/2006]
 
 (5) In computing the majority on a poll demanded on the question that a special resolution be passed reference shall be had to the number of votes cast for and against the resolution and to the number of votes to which each member is entitled by this Act or the articles of the company.
 
@@ -7292,6 +7840,10 @@ of the total voting rights of all the members who on that date would have the ri
 
 of the total voting rights of all the members who on that date would have the right to vote on that resolution at a general meeting of the company.
 
+(4A) A resolution referred to in section 76(9B)(e) is passed by written means if the resolution indicates that it is a resolution referred to in that provision and if it has been formally agreed on any date by all the members of the company who on that date would have the right to vote on that resolution at a general meeting of the company.
+
+[21/2005 wef 30/01/2006]
+
 (5) For the purposes of this section, a resolution of a company is formally agreed by a member if —
 
 (a) the company receives from the member (or his proxy if this is allowed) a document that —
@@ -7304,7 +7856,7 @@ of the total voting rights of all the members who on that date would have the ri
 
 (b) the member (or his proxy) had a legible text of the resolution before giving that document.
 
-(6) Nothing in subsection (3) or (4) shall be construed as requiring the requisite number of members to formally agree to the resolution on a single day.
+(6) Nothing in subsection (3), (4) or (4A) shall be construed as requiring the requisite number of members to formally agree to the resolution on a single day.
 
 (6A) For the purposes of this section, something is “in legible form or a permitted alternative form” if, and only if, it is sent or otherwise supplied —
 
@@ -7538,6 +8090,14 @@ Register of members
 
 (2) Notwithstanding anything in subsection (1), where the company has converted any of its shares into stock and given notice of the conversion to the Registrar, the company shall alter the register to show the amount of stock or number of stock units held by each member instead of the number of shares and the particulars relating to shares specified in subsection (1)(a).
 
+(2A) Where a company purchases one or more of its own shares or stocks in circumstances in which section 76H applies —
+
+(a) the requirements of subsections (1)(a), (b) and (c) and (2) shall be complied with unless the company cancels all of the shares or stocks immediately after the purchase in accordance with section 76K(1); but
+
+(b) any share or stock which is so cancelled shall be disregarded for the purposes of subsections (1)(a) and (2).
+
+[21/2005 wef 30/01/2006]
+
 (3) Notwithstanding anything in subsection (1), a company may keep the names and particulars relating to persons who have ceased to be members of the company separately and the names and particulars relating to former members need not be supplied to any person who applies for a copy of the register unless he specifically requests the names and particulars of former members.
 
 (4) The register of members shall be prima facie evidence of any matters inserted therein as required or authorised by this Act.
@@ -7690,7 +8250,7 @@ Annual return
 
 [12/2002 wef 13/01/2003]
 
-(6) [Deleted by Act 12/2002 wef 13/01/2003]
+(6) [Act 12/2002 wef 13/01/2003]
 
 (7) If a company fails to comply with this section, the company and every officer of the company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and also to a default penalty.
 
@@ -7702,7 +8262,7 @@ Annual return
 
 [Aust. s. 158.]
 
-198\. [Deleted by Act 12/2002 wef 13/01/2003]
+198\. [Act 12/2002 wef 13/01/2003]
 
 ## PART VI
 
@@ -7894,37 +8454,37 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 (a) the names of the directors in office at the date of the report;
 
-(b) [Deleted by Act 12/2002 wef 01/01/2003]
+(b) [Act 12/2002 wef 01/01/2003]
 
-(c) [Deleted by Act 12/2002 wef 01/01/2003]
+(c) [Act 12/2002 wef 01/01/2003]
 
-(d) [Deleted by Act 12/2002 wef 01/01/2003]
+(d) [Act 12/2002 wef 01/01/2003]
 
-(e) [Deleted by Act 12/2002 wef 01/01/2003]
+(e) [Act 12/2002 wef 01/01/2003]
 
 (f) whether at the end of that financial year, there subsist arrangements to which the company is a party, being arrangements whose objects are, or one of whose objects is, to enable directors of the company to acquire benefits by means of the acquisition of shares in, or debentures of, the company or any other body corporate, or there have, at any time in that year, subsisted such arrangements as aforesaid to which the company was a party, and if so the report shall contain a statement explaining the effect of the arrangements and giving the names of the persons who at any time in that year were directors of the company and held, or whose nominees held, shares or debentures acquired in pursuance of the arrangements; and
 
 (g) as respects each person who, at the end of the financial year, was a director of the company, whether or not (according to the register kept by the company for the purposes of section 164 relating to the obligation of a director of a company to notify it of his interests in shares in, or debentures of, the company and of every other body corporate, being the company’s subsidiary or holding company or a subsidiary of the company’s holding company) he was, at the end of that year, interested in shares in, or debentures of, the company or any other such body corporate and, if he was, the number and amount of shares in, and debentures of, each body (specifying it) in which, according to that register, he was then interested and whether or not, according to that register, he was, at the beginning of that year (or, if he was not then a director, when he became a director), interested in shares in, or debentures of, the company or any other such body corporate and, if he was, the number and amount of shares in, and debentures of, each body (specifying it) in which, according to that register, he was interested at the beginning of that year or, as the case may be, when he became a director.
 
-(h) [Deleted by Act 12/2002 wef 01/01/2003]
+(h) [Act 12/2002 wef 01/01/2003]
 
-(i) [Deleted by Act 12/2002 wef 01/01/2003]
+(i) [Act 12/2002 wef 01/01/2003]
 
-(j) [Deleted by Act 12/2002 wef 01/01/2003]
+(j) [Act 12/2002 wef 01/01/2003]
 
-(k) [Deleted by Act 12/2002 wef 01/01/2003]
+(k) [Act 12/2002 wef 01/01/2003]
 
-(l) [Deleted by Act 12/2002 wef 01/01/2003]
+(l) [Act 12/2002 wef 01/01/2003]
 
-(m) [Deleted by Act 12/2002 wef 01/01/2003]
+(m) [Act 12/2002 wef 01/01/2003]
 
-(n) [Deleted by Act 12/2002 wef 01/01/2003]
+(n) [Act 12/2002 wef 01/01/2003]
 
-(o) [Deleted by Act 12/2002 wef 01/01/2003]
+(o) [Act 12/2002 wef 01/01/2003]
 
-(p) [Deleted by Act 12/2002 wef 01/01/2003]
+(p) [Act 12/2002 wef 01/01/2003]
 
-(q) [Deleted by Act 12/2002 wef 01/01/2003]
+(q) [Act 12/2002 wef 01/01/2003]
 
 [62/70]
 
@@ -7932,39 +8492,39 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 (a) the names of the directors of the holding company in office at the date of the report;
 
-(b) [Deleted by Act 12/2002 wef 01/01/2003]
+(b) [Act 12/2002 wef 01/01/2003]
 
-(c) [Deleted by Act 12/2002 wef 01/01/2003]
+(c) [Act 12/2002 wef 01/01/2003]
 
-(d) [Deleted by Act 12/2002 wef 01/01/2003]
+(d) [Act 12/2002 wef 01/01/2003]
 
-(e) [Deleted by Act 12/2002 wef 01/01/2003]
+(e) [Act 12/2002 wef 01/01/2003]
 
-(f) [Deleted by Act 12/2002 wef 01/01/2003]
+(f) [Act 12/2002 wef 01/01/2003]
 
 (g) whether at the end of that financial year, there subsist arrangements to which the holding company is a party, being arrangements whose objects are, or one of whose objects is, to enable directors of the holding company to acquire benefits by means of the acquisition of shares in, or debentures of, the company or any other body corporate, or there have, at any time in that year, subsisted such arrangements as aforesaid to which the holding company was a party, and if so the report shall contain a statement explaining the effect of the arrangements and giving the names of the persons who at any time in that year were directors of the holding company and held, or whose nominees held, shares or debentures acquired in pursuance of the arrangements; and
 
 (h) as respects each person who, at the end of the financial year, was a director of the holding company, whether or not (according to the register kept by the company for the purposes of section 164 relating to the obligation of a director of a company to notify it of his interests in shares in, or debentures of, the company and of every other body corporate, being the company’s subsidiary or holding company or a subsidiary of the company’s holding company) he was, at the end of that year, interested in shares in, or debentures of, the holding company or any other such body corporate and, if he was, the number and amount of shares in, and debentures of, each body (specifying it) in which, according to that register, he was then interested and whether or not, according to that register, he was, at the beginning of that year (or, if he was not then a director, when he became a director), interested in shares in, or debentures of, the holding company or any other such body corporate and, if he was, the number and amount of shares in, and debentures of, each body (specifying it) in which, according to that register, he was interested at the beginning of that year or, as the case may be, when he became a director.
 
-(i) [Deleted by Act 12/2002 wef 01/01/2003]
+(i) [Act 12/2002 wef 01/01/2003]
 
-(j) [Deleted by Act 12/2002 wef 01/01/2003]
+(j) [Act 12/2002 wef 01/01/2003]
 
-(k) [Deleted by Act 12/2002 wef 01/01/2003]
+(k) [Act 12/2002 wef 01/01/2003]
 
-(l) [Deleted by Act 12/2002 wef 01/01/2003]
+(l) [Act 12/2002 wef 01/01/2003]
 
-(m) [Deleted by Act 12/2002 wef 01/01/2003]
+(m) [Act 12/2002 wef 01/01/2003]
 
-(n) [Deleted by Act 12/2002 wef 01/01/2003]
+(n) [Act 12/2002 wef 01/01/2003]
 
-(o) [Deleted by Act 12/2002 wef 01/01/2003]
+(o) [Act 12/2002 wef 01/01/2003]
 
-(p) [Deleted by Act 12/2002 wef 01/01/2003]
+(p) [Act 12/2002 wef 01/01/2003]
 
-(q) [Deleted by Act 12/2002 wef 01/01/2003]
+(q) [Act 12/2002 wef 01/01/2003]
 
-(r) [Deleted by Act 12/2002 wef 01/01/2003]
+(r) [Act 12/2002 wef 01/01/2003]
 
 [13/87]
 
@@ -8084,7 +8644,7 @@ are prepared in accordance with that Act.
 
 [13/87]
 
-201A\. [Deleted by Act 5/2004 wef 01/04/2004]
+201A\. [Act 5/2004 wef 01/04/2004]
 
 ### Audit committees
 
@@ -8404,7 +8964,9 @@ but not otherwise.
 
 (5) Where a company which is exempt from audit requirements under subsection (1) ceases to be dormant, it shall thereupon cease to be so exempt; but it shall remain so exempt in relation to accounts for the financial year in which it was dormant throughout.
 
-(6) Any member or members holding in the aggregate not less than 5% in nominal value of a company’s issued share capital or any class of it or, if the company does not have a share capital, not less than 5% in number of the members of the company may, by notice in writing to the company during a financial year but not later than one month before the end of that year, require the company to obtain an audit of its accounts for that year.
+(6) Any member or members holding not less than 5% of the total number of issued shares of the company (excluding treasury shares) or any class of those shares (excluding treasury shares), or not less than 5% of the total number of members of the company (excluding the company itself if it is registered as a member) may, by notice in writing to the company during a financial year but not later than one month before the end of that year, require the company to obtain an audit of its accounts for that year.
+
+[21/2005 wef 30/01/2006]
 
 (7) Where a notice is given under subsection (6), the company is not entitled to the exemption under subsection (1) in respect of the financial year to which the notice relates.
 
@@ -8444,7 +9006,9 @@ but not otherwise.
 
 (a) at least 5% of the total number of members of the company; or
 
-(b) the holders in aggregate of not less than 5% in nominal value of the company’s issued share capital,
+(b) the holders in aggregate of not less than 5% of the total number of issued shares of the company (excluding treasury shares),
+
+[21/2005 wef 30/01/2006]
 
 requiring particulars of all emoluments paid to or receivable by the auditor of the company or any person who is a partner or employer or employee of the auditor, by or from the company or any subsidiary in respect of services other than auditing services rendered to the company, the company shall forthwith —
 
@@ -8488,7 +9052,7 @@ requiring particulars of all emoluments paid to or receivable by the auditor of 
 
 (b) whether the accounting and other records required by this Act to be kept by the company and, if it is a holding company, by the subsidiaries other than those of which he has not acted as auditor have been, in his opinion, properly kept in accordance with this Act;
 
-(c) [Deleted by Act 5/2004 wef 01/04/2004]
+(c) [Act 5/2004 wef 01/04/2004]
 
 (d) any defect or irregularity in the accounts or consolidated accounts and any matter not set out in the accounts or consolidated accounts without regard to which a true and fair view of the matters dealt with by the accounts or consolidated accounts would not be obtained; and
 
@@ -8612,11 +9176,11 @@ he shall forthwith report the matter in writing to the Registrar.
 
 [13/87]
 
-209B\. [Deleted by Act 5/2004 wef 01/04/2004]
+209B\. [Act 5/2004 wef 01/04/2004]
 
 ## PART VII
 
-ARRANGEMENTS AND RECONSTRUCTIONS
+ARRANGEMENTS, RECONSTRUCTIONS AND AMALGAMATIONS
 
 ### Power to compromise with creditors and members
 
@@ -8684,7 +9248,7 @@ ARRANGEMENTS AND RECONSTRUCTIONS
 
 [Aust. s. 182.]
 
-### Provisions for facilitating reconstruction and amalgamation of companies
+### Approval of compromise or arrangement by Court
 
 212\.—(1) Where an application is made to the Court under this Part for the approval of a compromise or arrangement and it is shown to the Court that the compromise or arrangement has been proposed for the purposes of or in connection with a scheme for the reconstruction of any company or companies or the amalgamation of any two or more companies and that under the scheme the whole or any part of the undertaking or the property of any company concerned in the scheme (referred to in this section as the transferor company) is to be transferred to another company (referred to in this section as the transferee company), the Court may either by the order approving the compromise or arrangement or by any subsequent order provide for all or any of the following matters:
 
@@ -8726,17 +9290,17 @@ and every company which makes default in complying with this section and every o
 
 [Aust. s. 183.]
 
-213\. [Repealed by S 675/2001 wef 01/01/2002]
+213\. [S 675/2001 wef 01/01/2002]
 
-214\. [Repealed by S 675/2001 wef 01/01/2002]
+214\. [S 675/2001 wef 01/01/2002]
 
 ### Power to acquire shares of shareholders dissenting from scheme or contract approved by 90% majority
 
-215\.—(1) Where a scheme or contract involving the transfer of all of the shares or all of the shares in any particular class in a company (referred to in this section as the transferor company) to another company or corporation (referred to in this section as the transferee company) has, within 4 months after the making of the offer in that behalf by the transferee company, been approved as to the shares or as to each class of shares whose transfer is involved by the holders of not less than 90% in nominal value of those shares or of the shares of that class (other than shares already held at the date of the offer by the transferee company), the transferee company may at any time within two months, after the offer has been so approved, give notice in the prescribed manner to any dissenting shareholder that it desires to acquire his shares; and when such a notice is given the transferee company shall, unless on an application made by the dissenting shareholder within one month from the date on which the notice was given or within 14 days of a statement being supplied to a dissenting shareholder pursuant to subsection (2) (whichever is the later) the Court thinks fit to order otherwise, be entitled and bound to acquire those shares on the terms which, under the scheme or contract the shares of the approving shareholders are to be transferred to the transferee company or if the offer contained two or more alternative sets of terms upon the terms which were specified in the offer as being applicable to dissenting shareholders.
+215\.—(1) Where a scheme or contract involving the transfer of all of the shares or all of the shares in any particular class in a company (referred to in this section as the transferor company) to another company or corporation (referred to in this section as the transferee company) has, within 4 months after the making of the offer in that behalf by the transferee company, been approved as to the shares or as to each class of shares whose transfer is involved by the holders of not less than 90% of the total number of those shares (excluding treasury shares) or of the shares of that class (other than shares already held at the date of the offer by the transferee company, and excluding any shares in the company held as treasury shares), the transferee company may at any time within two months, after the offer has been so approved, give notice in the prescribed manner to any dissenting shareholder that it desires to acquire his shares; and when such a notice is given the transferee company shall, unless on an application made by the dissenting shareholder within one month from the date on which the notice was given or within 14 days of a statement being supplied to a dissenting shareholder pursuant to subsection (2) (whichever is the later) the Court thinks fit to order otherwise, be entitled and bound to acquire those shares on the terms which, under the scheme or contract the shares of the approving shareholders are to be transferred to the transferee company or if the offer contained two or more alternative sets of terms upon the terms which were specified in the offer as being applicable to dissenting shareholders.
 
 (2) Where a transferee company has given notice to any dissenting shareholder that it desires to acquire his shares, the dissenting shareholder shall be entitled to require the company by a demand in writing served on that company, within one month from the date on which the notice was given, to supply him with a statement in writing of the names and addresses of all other dissenting shareholders as shown in the register of members, and the transferee company shall not be entitled or bound to acquire the shares of the dissenting shareholders until 14 days after the posting of the statement of such names and addresses to the dissenting shareholder.
 
-(3) Where, in pursuance of any such scheme or contract, shares in a company are transferred to another company or its nominee and those shares together with any other shares in the first-mentioned company held by the transferee company at the date of the transfer comprise or include 90% in nominal value of the shares in the first-mentioned company or of any class of those shares, then —
+(3) Where, in pursuance of any such scheme or contract, shares in a company are transferred to another company or its nominee and those shares together with any other shares in the first-mentioned company held by the transferee company at the date of the transfer comprise or include 90% of the total number of the shares (excluding treasury shares) in the first-mentioned company or of any class of those shares, then —
 
 (a) the transferee company shall within one month from the date of the transfer (unless on a previous transfer in pursuance of the scheme or contract it has already complied with this requirement) give notice of that fact in the prescribed manner to the holders of the remaining shares or of the remaining shares of that class who have not assented to the scheme or contract; and
 
@@ -8783,6 +9347,284 @@ the transferee company shall be treated for the purposes of this section as havi
 [Aust. s. 185.]
 
 [15/84]
+
+### Amalgamations
+
+215A\. Without prejudice to section 212 and any other law relating to the merger or amalgamation of companies, 2 or more companies may amalgamate and continue as one company, which may be one of the amalgamating companies or a new company, in accordance with sections 215B to 215G, where applicable.
+
+[21/2005 wef 30/01/2006]
+
+### Amalgamation proposal
+
+215B\.—(1) An amalgamation proposal shall contain the terms of an amalgamation under section 215A and, in particular —
+
+(a) the name of the amalgamated company;
+
+(b) the registered office of the amalgamated company;
+
+(c) the full name and residential address of every director of the amalgamated company;
+
+(d) the share structure of the amalgamated company, specifying —
+
+(i) the number of shares of the amalgamated company;
+
+(ii) the rights, privileges, limitations and conditions attached to each share of the amalgamated company; and
+
+(iii) whether the shares are transferable or non-transferable and, if transferable, whether their transfer is subject to any condition or limitation;
+
+(e) a copy of the memorandum of the amalgamated company;
+
+(f) the manner in which the shares of each amalgamating company are to be converted into shares of the amalgamated company;
+
+(g) if shares of an amalgamating company are not to be converted into shares of the amalgamated company, the consideration that the holders of those shares are to receive instead of shares of the amalgamated company;
+
+(h) any payment to be made to any member or director of an amalgamating company, other than a payment of the kind described in paragraph (g); and
+
+(i) details of any arrangement necessary to complete the amalgamation and to provide for the subsequent management and operation of the amalgamated company.
+
+(2) An amalgamation proposal may specify the date on which the amalgamation is intended to become effective.
+
+(3) If shares of one of the amalgamating companies are held by or on behalf of another of the amalgamating companies, the amalgamation proposal —
+
+(a) shall provide for the cancellation of those shares without payment or the provision of other consideration when the amalgamation becomes effective; and
+
+(b) shall not provide for the conversion of those shares into shares of the amalgamated company.
+
+(4) A cancellation of shares under this section shall not be deemed to be a reduction of share capital within the meaning of this Act.
+
+(5) For the purposes of subsection (1)(a), the name of the amalgamated company may be —
+
+(a) the name of one of the amalgamating companies; or
+
+(b) a new name that has been reserved under section 27(12).
+
+[21/2005 wef 30/01/2006]
+
+### Manner of approving amalgamation proposal
+
+215C\.—(1) An amalgamation proposal shall be approved —
+
+(a) subject to the memorandum of each amalgamating company, by the members of each amalgamating company by special resolution at a general meeting; and
+
+(b) by any other person, where any provision in the amalgamation proposal would, if contained in any amendment to the memorandum of an amalgamating company or otherwise proposed in relation to that company, require the approval of that person.
+
+(2) The board of directors of each amalgamating company shall, before the general meeting referred to in subsection (1)(a) —
+
+(a) resolve that the amalgamation is in the best interest of the amalgamating company;
+
+(b) make a solvency statement in relation to the amalgamating company in accordance with section 215I; and
+
+(c) make a solvency statement in relation to the amalgamated company in accordance with section 215J.
+
+(3) Every director who votes in favour of the resolution and the making of the statements referred to in subsection (2) shall sign a declaration stating —
+
+(a) that, in his opinion, the conditions specified in subsection (2)(a), section 215I(1)(a) and (b) (in relation to the amalgamating company) and section 215J(1)(a) and (b) (in relation to the amalgamated company) are satisfied; and
+
+(b) the grounds for that opinion.
+
+(4) The board of directors of each amalgamating company shall send to every member of the amalgamating company, not less than 21 days before the general meeting referred to in subsection (1)(a) —
+
+(a) a copy of the amalgamation proposal;
+
+(b) a copy of the declarations given by the directors under subsection (3);
+
+(c) a statement of any material interests of the directors, whether in that capacity or otherwise; and
+
+(d) such further information and explanation as may be necessary to enable a reasonable member of the amalgamating company to understand the nature and implications, for the amalgamating company and its members, of the proposed amalgamation.
+
+(5) The directors of each amalgamating company shall, not less than 21 days before the general meeting referred to in subsection (1)(a) —
+
+(a) send a copy of the amalgamation proposal to every secured creditor of the amalgamating company; and
+
+(b) cause to be published in at least one daily English newspaper circulating generally in Singapore a notice of the proposed amalgamation, including a statement that —
+
+(i) copies of the amalgamation proposal are available for inspection by any member or creditor of an amalgamating company at the registered offices of the amalgamating companies and at such other place as may be specified in the notice during ordinary business hours; and
+
+(ii) a member or creditor of an amalgamating company is entitled to be supplied free of charge with a copy of the amalgamation proposal upon request to an amalgamating company.
+
+(6) Any director who contravenes subsection (3) shall be guilty of an offence.
+
+[21/2005 wef 30/01/2006]
+
+### Short form amalgamation
+
+215D\.—(1) A company (referred to in this subsection as the amalgamating holding company) and one or more of its wholly-owned subsidiaries (referred to in this subsection as the amalgamating subsidiary company) may amalgamate and continue as one company, being the amalgamated holding company, without complying with sections 215B and 215C if the members of each amalgamating company, by special resolution at a general meeting, resolve to approve an amalgamation of the amalgamating companies on the terms that —
+
+(a) the shares of each amalgamating subsidiary company will be cancelled without any payment or any other consideration;
+
+(b) the memorandum of the amalgamated company will be the same as the memorandum of the amalgamating holding company;
+
+(c) the directors of the amalgamating holding company and every amalgamating subsidiary company are satisfied that the amalgamated company will be able to pay its debts as they fall due during the period of 12 months immediately after the date on which the amalgamation is to become effective; and
+
+(d) the person or persons named in the resolution will be the director or directors, respectively, of the amalgamated company.
+
+(2) Two or more wholly-owned subsidiary companies of the same corporation may amalgamate and continue as one company without complying with sections 215B and 215C if the members of each amalgamating company, by special resolution at a general meeting, resolve to approve an amalgamation of the amalgamating companies on the terms that —
+
+(a) the shares of all but one of the amalgamating companies will be cancelled without payment or other consideration;
+
+(b) the memorandum of the amalgamated company will be the same as the memorandum of the amalgamating company whose shares are not cancelled;
+
+(c) the directors of every amalgamating company are satisfied that the amalgamated company will be able to pay its debts as they fall due during the period of 12 months immediately after the date on which the amalgamation is to become effective; and
+
+(d) the person or persons named in the resolution will be the director or directors, respectively, of the amalgamated company.
+
+(3) The directors of each amalgamating company shall, not less than 21 days before the general meeting referred to in subsection (1) or (2), as the case may be, give written notice of the proposed amalgamation to every secured creditor of the amalgamating company.
+
+(4) The resolution referred to in subsection (1) or (2), as the case may be, shall be deemed to be an amalgamation proposal that has been approved.
+
+(5) The board of directors of each amalgamating company shall, before the date of the general meeting referred to in subsection (1) or (2), as the case may be, make a solvency statement in relation to the amalgamated company in accordance with section 215J.
+
+(6) Every director who votes in favour of the making of the solvency statement referred to in subsection (5) shall sign a declaration stating —
+
+(a) that, in his opinion, the conditions specified in section 215J(1)(a) and (b) are satisfied; and
+
+(b) the grounds for that opinion.
+
+(7) Any director who contravenes subsection (6) shall be guilty of an offence.
+
+(8) A cancellation of shares under this section shall not be deemed to be a reduction of share capital within the meaning of this Act.
+
+[21/2005 wef 30/01/2006]
+
+### Registration of amalgamation
+
+215E\.—(1) For the purpose of effecting an amalgamation, the following documents shall be filed with the Registrar, in the prescribed form with such particulars as may be required in the form, together with payment of the prescribed fee:
+
+(a) the amalgamation proposal that has been approved;
+
+(b) any declaration required under section 215C or 215D, as the case may be;
+
+(c) a declaration signed by the directors of each amalgamating company stating that the amalgamation has been approved in accordance with this Act and the memorandum of the amalgamating company;
+
+(d) where the amalgamated company is a new company or the amalgamation proposal provides for a change of the name of the amalgamated company, a copy of any notice or other documentary evidence that the name which it is proposed to be registered or the proposed new name, as the case may be, has been reserved under section 27(12); and
+
+(e) a declaration signed by the directors, or proposed directors, of the amalgamated company stating that, where the proportion of the claims of the creditors of the amalgamated company in relation to the value of the assets of the amalgamated company is greater than the proportion of the claims of the creditors of an amalgamating company in relation to the value of the assets of the amalgamating company, no creditor will be prejudiced by that fact.
+
+(2) Where the amalgamated company is a new company —
+
+(a) section 19(1)(a) and (c) shall be deemed to have been complied with if, and only if, subsection (1) has been complied with; and
+
+(b) the reference to a person named in the articles as a director or the secretary of the proposed company in section 19(2)(b) includes a reference to a proposed director of the amalgamated company.
+
+[21/2005 wef 30/01/2006]
+
+### Notice of amalgamation, etc.
+
+215F\.—(1) Upon the receipt of the relevant documents and fees, the Registrar shall —
+
+(a) if the amalgamated company is the same as one of the amalgamating companies, issue a notice of amalgamation in such form as the Registrar may determine; or
+
+(b) if the amalgamated company is a new company, issue a notice of amalgamation in such form as the Registrar may determine together with the notice of incorporation under section 19(4).
+
+(2) Where an amalgamation proposal specifies a date on which the amalgamation is intended to become effective, and that date is the same as or later than the date on which the Registrar receives the relevant documents and fees referred to in subsection (1), the notice of amalgamation and any notice of incorporation issued by the Registrar shall be expressed to have effect on the date specified in the amalgamation proposal.
+
+(3) The Registrar shall, as soon as practicable after the effective date of an amalgamation, remove the amalgamating companies, other than the amalgamated company, from the register.
+
+(4) Upon the application of the amalgamated company and payment of the prescribed fee, the Registrar shall issue to the amalgamated company a certificate of confirmation of amalgamation under his hand and seal.
+
+[21/2005 wef 30/01/2006]
+
+### Effect of amalgamations
+
+215G\. On the date shown in a notice of amalgamation —
+
+(a) the amalgamation shall be effective;
+
+(b) the amalgamated company shall have the name specified in the amalgamation proposal;
+
+(c) all the property, rights and privileges of each of the amalgamating companies shall be transferred to and vest in the amalgamated company;
+
+(d) all the liabilities and obligations of each of the amalgamating companies shall be transferred to and become the liabilities and obligations of the amalgamated company;
+
+(e) all proceedings pending by or against any amalgamating company may be continued by or against the amalgamated company;
+
+(f) any conviction, ruling, order or judgment in favour of or against an amalgamating company may be enforced by or against the amalgamated company; and
+
+(g) the shares and rights of the members in the amalgamating companies shall be converted into the shares and rights provided for in the amalgamation proposal.
+
+[21/2005 wef 30/01/2006]
+
+### Power of Court in certain cases
+
+215H\.—(1) If the Court is satisfied that giving effect to an amalgamation proposal would unfairly prejudice a member or creditor of an amalgamating company or a person to whom an amalgamating company is under an obligation, it may, on the application of that person made at any time before the date on which the amalgamation becomes effective, make any order it thinks fit in relation to the amalgamation proposal, and may, without limiting the generality of this subsection, make an order —
+
+(a) directing that effect must not be given to the amalgamation proposal;
+
+(b) modifying the amalgamation proposal in such manner as may be specified in the order; or
+
+(c) directing the amalgamating company or its board of directors to reconsider the amalgamation proposal or any part thereof.
+
+(2) An order may be made under subsection (1) on such terms or conditions as the Court thinks fit.
+
+[21/2005 wef 30/01/2006]
+
+### Solvency statement in relation to amalgamating company and offence for making false statement
+
+215I\.—(1) For the purposes of section 215C(2)(b), “solvency statement”, in relation to an amalgamating company, means a statement by the board of directors of the amalgamating company that it has formed the opinion —
+
+(a) that, as regards the amalgamating company’s situation at the date of the statement, there is no ground on which the amalgamating company could then be found to be unable to pay its debts; and
+
+(b) that, at the date of the statement, the value of the amalgamating company’s assets is not less than the value of its liabilities (including contingent liabilities),
+
+being a statement which complies with subsection (2).
+
+(2) The solvency statement —
+
+(a) if the amalgamating company is exempt from audit requirements under section 205B or 205C, shall be in the form of a statutory declaration; or
+
+(b) if the amalgamating company is not such a company, shall be in the form of a statutory declaration or shall be accompanied by a report from its auditor that he has inquired into the affairs of the amalgamating company and is of the opinion that the statement is not unreasonable given all the circumstances.
+
+(3) In forming an opinion for the purposes of subsection (1)(a) and (b), the directors shall take into account all liabilities of the amalgamating company (including contingent liabilities).
+
+(4) In determining, for the purposes of subsection (1)(b), whether the value of the amalgamating company’s assets is or will become less than the value of its liabilities (including contingent liabilities), the board of directors of the amalgamating company —
+
+(a) shall have regard to —
+
+(i) the most recent financial statements of the amalgamating company that comply with section 201(1A), (3) and (3A), as the case may be; and
+
+(ii) all other circumstances that the directors know or ought to know affect, or may affect, the value of the amalgamating company’s assets and the value of the amalgamating company’s liabilities (including contingent liabilities); and
+
+(b) may rely on valuations of assets or estimates of liabilities that are reasonable in the circumstances.
+
+(5) In determining, for the purposes of subsection (4), the value of a contingent liability, the board of directors of the amalgamating company may take into account —
+
+(a) the likelihood of the contingency occurring; and
+
+(b) any claim the amalgamating company is entitled to make and can reasonably expect to be met to reduce or extinguish the contingent liability.
+
+(6) Any director of an amalgamating company who votes in favour of or otherwise causes a solvency statement under this section to be made without having reasonable grounds for the opinions expressed in it shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[21/2005 wef 30/01/2006]
+
+### Solvency statement in relation to amalgamated company and offence for making false statement
+
+215J\.—(1) For the purposes of sections 215C(2)(c) and 215D(5), “solvency statement”, in relation to an amalgamated company, means a statutory declaration by the board of directors of each amalgamating company that it has formed the opinion —
+
+(a) that the amalgamated company will be able to pay its debts as they fall due during the period of 12 months immediately after the date on which the amalgamation is to become effective; and
+
+(b) that the value of the amalgamated company’s assets will not be less than the value of its liabilities (including contingent liabilities).
+
+(2) In forming an opinion for the purposes of subsection (1)(a) and (b), the directors shall take into account all liabilities of the amalgamated company (including contingent liabilities).
+
+(3) In determining, for the purposes of subsection (1)(b), whether the value of the amalgamated company’s assets will become less than the value of its liabilities (including contingent liabilities), the board of directors of each amalgamating company —
+
+(a) shall have regard to —
+
+(i) the most recent financial statements of the amalgamating company and the other amalgamating companies that comply with section 201(1A), (3) and (3A), as the case may be; and
+
+(ii) all other circumstances that the directors know or ought to know affect, or may affect, the value of the amalgamated company’s assets and the value of the amalgamated company’s liabilities (including contingent liabilities); and
+
+(b) may rely on valuations of assets or estimates of liabilities that are reasonable in the circumstances.
+
+(4) In determining, for the purposes of subsection (3), the value of a contingent liability, the board of directors of each amalgamating company may take into account —
+
+(a) the likelihood of the contingency occurring; and
+
+(b) any claim the amalgamated company is entitled to make and can reasonably expect to be met to reduce or extinguish the contingent liability.
+
+(5) Any director of an amalgamating company who votes in favour of or otherwise causes a solvency statement under this section to be made without having reasonable grounds for the opinions expressed in it shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[21/2005 wef 30/01/2006]
 
 ### Personal remedies in cases of oppression or injustice
 
@@ -9724,7 +10566,9 @@ INVESTIGATIONS
 
 (a) in the case of a company having a share capital, on the application of —
 
-(i) not less than 200 members or of members holding not less than 10% of the shares issued; or
+(i) not less than 200 members (excluding the company itself if it is registered as a member) or of members holding not less than 10% of the shares issued (excluding treasury shares); or
+
+[21/2005 wef 30/01/2006]
 
 (ii) holders of debentures holding not less than 20% in nominal value of debentures issued;
 
@@ -9770,7 +10614,7 @@ INVESTIGATIONS
 
 [13/87]
 
-234\. [Repealed by Act 13 of 1987]
+234\. [Act 13 of 1987]
 
 ### Investigation of affairs of related corporation
 
@@ -10406,7 +11250,7 @@ Subdivision (2) — Liquidators
 
 (c) failing a determination in a manner referred to in paragraph (a) or (b), by the Court.
 
-(4) Where the salary or remuneration of a liquidator is determined in the manner specified in subsection (3)(a), the Court may, on the application of a member or members whose shareholding or shareholdings represents or represent in the aggregate not less than 10% of the issued capital of the company , confirm or vary the determination.
+(4) Where the salary or remuneration of a liquidator is determined in the manner specified in subsection (3)(a), the Court may, on the application of a member or members whose shareholding or shareholdings represents or represent in the aggregate not less than 10% of the issued capital of the company (excluding treasury shares), confirm or vary the determination.
 
 (5) Where the salary or remuneration of a liquidator is determined in the manner specified in subsection (3)(b), the Court may, on the application of the liquidator or a member or members referred to in subsection (4), confirm or vary the determination.
 
@@ -11514,9 +12358,7 @@ Subdivision (2) — Proof and ranking of claims
 
 [22/93]
 
-(b)
-
-For the purposes of subsection (1)(c) —
+(b) For the purposes of subsection (1)(c) —
 
 “ex gratia payment” means the amount payable to an employee on the winding up of a company or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and the amount payable to an employee for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be;
 
@@ -12124,7 +12966,7 @@ Foreign Companies
 
 (f) notice of the situation of its registered office in Singapore and, unless the office is open and accessible to the public during ordinary business hours on each day (Saturdays, weekly and public holidays excepted), the days and hours during which it is open and accessible to the public,
 
-(g) [Deleted by Act 12/2002 wef 13/01/2003]
+(g) [Act 12/2002 wef 13/01/2003]
 
 and on payment of the appropriate fees and subject to this Act the Registrar shall register the company under this Division by registration of the documents.
 
@@ -12282,7 +13124,7 @@ Provided that —
 
 [Act 12/2002 wef 01/01/2003]
 
-374\. [Deleted by Act 12/2002 wef 13/01/2003]
+374\. [Act 12/2002 wef 13/01/2003]
 
 ### Obligation to state name of foreign company, whether limited, and country where incorporated
 
@@ -12720,11 +13562,11 @@ Division 2 —
 
 Offences
 
-400\. [Repealed by S 236/2002 wef 01/07/2002]
+400\. [S 236/2002 wef 01/07/2002]
 
 ### False and misleading statement
 
-401\.—(1) Every corporation which advertises, circulates or publishes any statement of the amount of its capital which is misleading or in which the amount of nominal or authorised capital is stated without the words nominal or authorised, or in which the amount of capital or authorised or subscribed capital is stated but the amount of paid-up capital or the amount of any charge on uncalled capital is not stated as prominently as the amount of authorised or subscribed capital is stated, and every officer of the corporation who knowingly authorises, directs or consents to such advertising, circulation or publication shall be guilty of an offence.
+401\.—(1) Every corporation which advertises, circulates or publishes any statement of the amount of its capital which is misleading, or in which the amount of capital or subscribed capital is stated but the amount of paid-up capital or the amount of any charge on uncalled capital is not stated as prominently as the amount of subscribed capital is stated, and every officer of the corporation who knowingly authorises, directs or consents to such advertising, circulation or publication shall be guilty of an offence.
 
 (2) Every person who in any return, report, certificate, balance-sheet or other document required by or for the purposes of this Act wilfully makes or authorises the making of a statement false or misleading in any material particular knowing it to be false or misleading or wilfully omits or authorises the accession of any matter or thing without which the document is misleading in a material respect shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -12758,7 +13600,7 @@ knowing that document to be false or misleading in a material respect, shall be 
 
 (b) in the case of a corporation that is a subsidiary, an auditor of the holding company,
 
-(c) [Deleted by Act 42/2001 wef 01/10/2002]
+(c) [Act 42/2001 wef 01/10/2002]
 
 relating to the affairs of the corporation, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
@@ -12772,9 +13614,21 @@ relating to the affairs of the corporation, shall be guilty of an offence and sh
 
 ### Dividends payable from profits only
 
-403\.—(1) No dividend shall be payable to the share-holders of any company except out of profits or pursuant to section 69.
+403\.—(1) No dividend shall be payable to the share-holders of any company except out of profits.
 
-(2) Every director or manager of a company who wilfully pays or permits to be paid any dividend out of what he knows is not profits except pursuant to section 69 —
+(1A) Subject to subsection (1B), any profits of a company applied towards the purchase or acquisition of its own shares in accordance with sections 76B to 76G shall not be payable as dividends to the shareholders of the company.
+
+[21/2005 wef 30/01/2006]
+
+(1B) Subsection (1A) shall not apply to any part of the proceeds received by the company as consideration for the sale or disposal of treasury shares which the company has applied towards the profits of the company.
+
+[21/2005 wef 30/01/2006]
+
+(1C) Any gains derived by the company from the sale or disposal of treasury shares shall not be payable as dividends to the shareholders of the company.
+
+[21/2005 wef 30/01/2006]
+
+(2) Every director or manager of a company who wilfully pays or permits to be paid any dividend in contravention of this section —
 
 (a) shall, without prejudice to any other liability, be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months; and
 
@@ -12792,11 +13646,11 @@ relating to the affairs of the corporation, shall be guilty of an offence and sh
 
 ### Fraudulently inducing persons to invest money
 
-404\.—(1) [Deleted by Act 42/2001]
+404\.—(1) [Act 42/2001 wef 01/10/2002]
 
 Conspiracy
 
-(2) [Deleted by Act 42/2001 wef 01/10/2002]
+(2) [Act 42/2001 wef 01/10/2002]
 
 ### Obtaining payment of moneys, etc., to company by false promise of director, member, etc., of company
 
@@ -12892,7 +13746,7 @@ shall be guilty of an offence.
 
 409\.—(1) Except where provision is otherwise made in this Act, proceedings for any offence under this Act may be taken by the Registrar or with the written consent of the Minister by any person.
 
-(2) [Deleted by Act 36/2000 wef 22/01/2001]
+(2) [Act 36/2000 wef 22/01/2001]
 
 (3) Proceedings for any offence under this Act, other than an offence punishable with imprisonment for a term exceeding 6 months, may be prosecuted in a Magistrate’s Court and in the case of an offence punishable with imprisonment for a term of 6 months or more may be prosecuted in a District Court.
 
@@ -12960,7 +13814,7 @@ grant an injunction requiring the first-mentioned person to do that act or thing
 
 [13/87]
 
-409B\. [Repealed by Act 39/99 wef 10/01/2000]
+409B\. [Act 39/99 wef 10/01/2000]
 
 Division 3 —
 
@@ -12988,7 +13842,7 @@ Miscellaneous
 
 (b) all matters connected with or arising out of the judicial management of a company by a judicial manager including the appointment of the judicial manager;
 
-(ba) [Deleted by Act 42/2001 wef 01/07/2002]
+(ba) [Act 42/2001 wef 01/07/2002]
 
 (c) the lodging or registration of documents and the time and manner of submission of documents for lodging or registration;
 
@@ -13220,23 +14074,19 @@ $10
 
 20.
 
-67 (1) and (3)
-
-Lodgment of statement of amount or rate of commission or brokerage
-
-$10
+Deleted by S 55/2006, wef 30/01/2006.
 
 21.
 
 71 (1A)
 
-Lodgment of notice of alteration to share capital other than increase in capital
+Lodgment of notice of alteration to share capital
 
 $10
 
 22.
 
-71 (4) and 372(2)
+372 (2)
 
 Lodgment of notice of increase in authorised share capital
 
@@ -13262,9 +14112,9 @@ $10
 
 25.
 
-76 (10) (c) and (e)
+76 (9A) (g) and (9B) (f) and 76(10)(c) and (e)
 
-Lodgment of notice of intention to propose special resolution to give financial assistance for the acquisition of shares or units of shares in company
+Lodgment of notice of resolution, or notice of intention to propose special resolution, to give financial assistance for the acquisition of shares or units of shares in company
 
 $10
 
@@ -13320,7 +14170,7 @@ $10
 
 76B (9)
 
-Lodgment of notice of purchase or acquisition of non-redeemable preference shares
+Lodgment of notice of purchase or acquisition of preference shares
 
 $10
 
@@ -13347,6 +14197,114 @@ $10
 Lodgment of notice of cessation of appointment of director by that director
 
 $10
+
+Treasury shares
+
+35A.
+
+76K (5)
+
+Lodgment of notice of cancellation or disposal of treasury shares
+
+$10
+
+Reduction of share capital
+
+35B.
+
+78C (3) (c)
+
+Lodgment of copy of solvency statement together with special resolution
+
+$10
+
+35C.
+
+78D (4) (b)
+
+Giving of notice of creditor’s application to the Court for cancellation of special resolution
+
+$10
+
+35D.
+
+78E (1) (ii)
+
+Lodgment of copy of solvency statement, directors’ statement and notice containing reduction information
+
+$30
+
+35E.
+
+78E (2) (i) and (ii)
+
+Lodgment of directors’ statement and notice containing reduction information
+
+$30
+
+35F.
+
+78E (3) (iii)
+
+Lodgment of directors’ statement, copy of order of Court and notice containing reduction information
+
+$30
+
+35G.
+
+78E (4) (iii)
+
+Lodgment of directors’ statement, copy of order of Court and notice containing reduction information
+
+$30
+
+35H.
+
+78F (4)
+
+Lodgment of notice of order of Court cancelling special resolution
+
+$10
+
+35I.
+
+78I (3)
+
+Lodgment of copy of order of Court and notice containing reduction information
+
+$30
+
+35J.
+
+78I (3)
+
+Application for extension of time to lodge copy of order of Court and notice containing reduction information
+
+$30
+
+35K.
+
+78B (1) (c) and 78C(1)(c) and regulation 6 of the Companies Regulations (Rg 1)
+
+Lodgment of documents for purposes of publicity requirements
+
+$500
+
+Amalgamation
+
+35L.
+
+215E (1)
+
+Registration of amalgamation —
+
+(a) where the amalgamated company is the same as one of the amalgamating companies; or
+
+$400
+
+(b) where the amalgamated company is a new company
+
+$700
 
 Lodgment of statement relating to charges for registration
 
@@ -13818,7 +14776,7 @@ Miscellaneous transactions
 
 91.
 
-12B, 32(3)(c)(iii), 73(4) and (6), 137, 210(5), 212(3), 216(5), 227G(9), 227K(1), 227N(5), 227Q(3), 227R(5), 269(3), 276(6), 279(3), 308(7), 343(2), 372(4), and others
+12B, 137, 210(5), 212(3), 215H, 216(5), 227G(9), 227K(1), 227N(5), 227Q(3), 227R(5), 269(3), 276(6), 279(3), 308(7), 343(2), 372(4), and others and regulation 41C of the Companies (Filing of Documents) Regulations (Rg 7)
 
 Lodgment of order of Court
 
@@ -13826,11 +14784,7 @@ $10
 
 92.
 
-10 (5) (a)
-
-Lodgment of return of proprietor or partners of auditing firm
-
-$10
+Deleted by S 55/2006, wef 30/01/2006.
 
 93.
 
@@ -13945,6 +14899,10 @@ $50
 134 (3)
 
 (j) certificate to confirm that charge is registered.
+
+215F (4)
+
+(k) Certificate confirming amalgamation
 
 102.
 
@@ -14102,47 +15060,19 @@ As prescribed by Rules of Court or the Companies (Winding Up) Rules (R 1), which
 
 Service charge f\or electronic filing of forms and documents by Registry of Companies and Businesses for applicants*
 
-120.
+120.Deleted by S 880/2005, wef 30/01/2006.
 
-—
+121.Deleted by S 880/2005, wef 30/01/2006.
 
-For incorporation
-
-$100
-
-121.
-
-For any other transaction
-
-$50
-
-122.
-
-—
-
-For information resources
-
-$5
+122.Deleted by S 880/2005, wef 30/01/2006.
 
 * The Registrar may, at his discretion, waive these charges.
 
 Information Services
 
-123.
+123.Deleted by S 880/2005, wef 30/01/2006.
 
-—
-
-For supplying of information relating to the business profile of companies
-
-$5
-
-124.
-
-—
-
-For supplying information relating to a person’s involvement in companies and businesses registered under the Companies Act and the Business Registration Act (Cap. 32)
-
-$30
+124.Deleted by S 880/2005, wef 30/01/2006.
 
 125.
 
@@ -14176,125 +15106,37 @@ Application for certification of company forms filed with the Registrar
 
 $2 per page or part thereof
 
-129.
+129.Deleted by S 880/2005, wef 30/01/2006.
 
-—
+130.Deleted by S 880/2005, wef 30/01/2006.
 
-For supplying diazo duplicates of the microfilm of the file of a company
+131.Deleted by S 880/2005, wef 30/01/2006.
 
-$15
-
-130.
-
-—
-
-For supplying statistics on the types of companies and corresponding number of companies per type
-
-$30
-
-131.
-
-—
-
-For supplying statistics on type of business activities and the number of companies engaged in those types of business activities
-
-$30
-
-132.
-
-—
-
-For supplying statistics on the number of companies by status
-
-$30
+132.Deleted by S 880/2005, wef 30/01/2006.
 
 Package information
 
-133.
+133.Deleted by S 880/2005, wef 30/01/2006.
 
-—
+134.Deleted by S 880/2005, wef 30/01/2006.
 
-For providing information extracted from the Registry on a bulk or packaged basis:
+135.Deleted by S 880/2005, wef 30/01/2006.
 
-(a) Cost of Manpower*
+136.Deleted by S 880/2005, wef 30/01/2006.
 
-$120 per man-hour
+137.Deleted by S 880/2005, wef 30/01/2006.
 
-(b) Computer CPU Processing Charges*
+138.Deleted by S 880/2005, wef 30/01/2006.
 
-$5.40 per CPU-second
+139.Deleted by S 880/2005, wef 30/01/2006.
 
-* The number of man-hours and CPU-seconds taken shall be certified by the Registrar.
+140.Deleted by S 880/2005, wef 30/01/2006.
 
-Subject to an aggregate minimum charge of $30
+141.Deleted by S 880/2005, wef 30/01/2006.
 
-If the Registrar decides to supply the information by means other than written or printed form
+[21/2005 wef 30/01/2006]
 
-an additional fee of $3 per company
-
-134.
-
-—
-
-For providing a register of company documents
-
-$10
-
-135.
-
-—
-
-For providing the strategic business information of a company
-
-$10
-
-136.
-
-—
-
-For providing a report relating to details of striking off of a company
-
-$10
-
-137.
-
-—
-
-For providing a certificate of production or a certificate of good standing of company
-
-$10
-
-138.
-
-—
-
-On any subpoena served on the Registrar to produce any document in his custody
-
-Government rates chargeable
-
-139.
-
-—
-
-For any other information concerning a company supplied by the Registrar
-
-$5
-
-140.
-
-—
-
-For supplying information to any authorised person for purposes of selling packaged information or information on a bulk basis
-
-$0.80 per prescribed particular of a company.
-
-141.
-
-—
-
-For supplying information under item 123 for the purpose of resale
-
-$3 per record supplied.
+[S 55/2006 wef 30/01/2006]
 
 [S 193/2004 wef 01/04/2004]
 
@@ -14358,7 +15200,7 @@ Lien
 
 Calls on shares
 
-13\. The directors may from time to time make calls upon the members in respect of any money unpaid on their shares (whether on account of the nominal value of the shares or by way of premium) and not by the conditions of allotment thereof made payable at fixed times, provided that no call shall exceed 25% of the nominal value of the share or be payable at less than one month from the date fixed for the payment of the last preceding call, and each member shall (subject to receiving at least 14 days’ notice specifying the time or times and place of payment) pay to the company at the time or times and place so specified the amount called on his shares. A call may be revoked or postponed as the directors may determine.
+13\. The directors may from time to time make calls upon the members in respect of any money unpaid on their shares and not by the conditions of allotment thereof made payable at fixed times, provided that no call shall be payable at less than one month from the date fixed for the payment of the last preceding call, and each member shall (subject to receiving at least 14 days’ notice specifying the time or times and place of payment) pay to the company at the time or times and place so specified the amount called on his shares. A call may be revoked or postponed as the directors may determine.
 
 14\. A call shall be deemed to have been made at the time when the resolution of the directors authorising the call was passed and may be required to be paid by instalments.
 
@@ -14366,7 +15208,7 @@ Calls on shares
 
 16\. If a sum called in respect of a share is not paid before or on the day appointed for payment thereof, the person from whom the sum is due shall pay interest on the sum from the day appointed for payment thereof to the time of actual payment at such rate not exceeding 8% per annum as the directors may determine, but the directors shall be at liberty to waive payment of that interest wholly or in part.
 
-17\. Any sum which by the terms of issue of a share becomes payable on allotment or at any fixed date, whether on account of the nominal value of the share or by way of premium, shall for the purposes of these Regulations be deemed to be a call duly made and payable on the date on which by the terms of issue the same becomes payable, and in case of non-payment all the relevant provisions of these Regulations as to payment of interest and expenses, forfeiture, or otherwise shall apply as if the sum had become payable by virtue of a call duly made and notified.
+17\. Any sum which by the terms of issue of a share becomes payable on allotment or at any fixed date shall for the purposes of these Regulations be deemed to be a call duly made and payable on the date on which by the terms of issue the same becomes payable, and in case of non-payment all the relevant provisions of these Regulations as to payment of interest and expenses, forfeiture, or otherwise shall apply as if the sum had become payable by virtue of a call duly made and notified.
 
 18\. The directors may, on the issue of shares, differentiate between the holders as to the amount of calls to be paid and the times of payment.
 
@@ -14408,13 +15250,13 @@ Forfeiture of shares
 
 34\. The company may receive the consideration, if any, given for a forfeited share on any sale or disposition thereof and may execute a transfer of the share in favour of the person to whom the share is sold or disposed of and he shall thereupon be registered as the holder of the share, and shall not be bound to see to the application of the purchase money, if any, nor shall his title to the share be affected by any irregularity or invalidity in the proceedings in reference to the forfeiture, sale, or disposal of the share.
 
-35\. The provisions of these Regulations as to forfeiture shall apply in the case of non-payment of any sum which, by the terms of issue of a share, becomes payable at a fixed time, whether on account of the nominal value of the share or by way of premium, as if the same had been payable by virtue of a call duly made and notified.
+35\. The provisions of these Regulations as to forfeiture shall apply in the case of non-payment of any sum which, by the terms of issue of a share, becomes payable at a fixed time as if the same had been payable by virtue of a call duly made and notified.
 
 Conversion of shares into stock
 
-36\. The company may by ordinary resolution passed at a general meeting convert any paid-up shares into stock and reconvert any stock into paid-up sharesof any denomination.
+36\. The company may by ordinary resolution passed at a general meeting convert any paid-up shares into stock and reconvert any stock into paid-up shares.
 
-37\. The holders of stock may transfer the same or any part thereof in the same manner and subject to the same regulations as and subject to which the shares from which the stock arose might previously to conversion have been transferred or as near thereto as circumstances admit; but the directors may from time to time fix the minimum amount of stock transferable and restrict or forbid the transfer of fractions of that minimum, but the minimum shall not exceed the nominal amount of the shares from which the stock arose.
+37\. The holders of stock may transfer the same or any part thereof in the same manner and subject to the same regulations as and subject to which the shares from which the stock arose might previously to conversion have been transferred or as near thereto as circumstances admit; but the directors may from time to time fix the minimum amount of stock transferable and restrict or forbid the transfer of fractions of that minimum.
 
 38\. The holders of stock shall according to the amount of the stock held by them have the same rights, privileges and advantages as regards dividends voting at meetings of the company and other matters as if they held the shares from which the stock arose, but no such privilege or advantage (except participation in the dividends and profits of the company and in the assets on winding up) shall be conferred by any such aliquot part of stock which would not if existing in shares have conferred that privilege or advantage.
 
@@ -14422,19 +15264,27 @@ Conversion of shares into stock
 
 Alteration of capital
 
-40. The company may from time to time by ordinary resolution —
+40\. The company may from time to time by ordinary resolution do one or more of the following:
 
-(a) increase the share capital by such sum to be divided into shares of such amount as the resolution shall prescribe;
+40.—(a) increase the share capital by such sum as the resolution shall prescribe;
 
-(b) consolidate and divide all or any of its share capital into shares of larger amount than its existing shares;
+(b)
 
-(c) subdivide its shares or any of them into shares of smaller amount than is fixed by the memorandum; so however that in the subdivision the proportion between the amount paid and the amount (if any) unpaid on each reduced share shall be the same as it was in the case of the share from which the reduced share is derived;
+consolidate and divide all or any of its share capital;
 
-(d) cancel shares which at the date of the passing of the resolution in that behalf have not been taken or agreed to be taken by any person or which have been forfeited and diminish the amount of its share capital by the amount of the shares so cancelled.
+(c)
+
+subdivide its shares or any of them, so however that in the subdivision the proportion between the amount paid and the amount, if any, unpaid on each reduced share shall be the same as it was in the case of the share from which the reduced share is derived;
+
+(d)
+
+cancel the number of shares which at the date of the passing of the resolution in that behalf have not been taken or agreed to be taken by any person or which have been forfeited and diminish the amount of its share capital by the number of the shares so cancelled.
+
+[42/2005 wef 30/01/2006]
 
 41\. Subject to any direction to the contrary that may be given by the company in general meeting, all new shares shall, before issue, be offered to such persons as at the date of the offer are entitled to receive notices from the company of general meetings in proportion, as nearly as the circumstances admit, to the amount of the existing shares to which they are entitled. The offer shall be made by notice specifying the number of shares offered, and limiting a time within which the offer, if not accepted, will be deemed to be declined, and, after the expiration of that time, or on the receipt of an intimation from the person to whom the offer is made that he declines to accept the shares offered, the directors may dispose of those shares in such manner as they think most beneficial to the company. The directors may likewise so dispose of any new shares which (by reason of the ratio which the new shares bear to shares held by persons entitled to an offer of new shares) cannot, in the opinion of the directors, be conveniently offered under this regulation.
 
-42\. The company may by special resolution reduce its share capital, any capital redemption reserve fund or any share premium account in any manner and with, and subject to, any incident authorised, and consent required by law.
+42\. The company may by special resolution reduce its share capital in any manner and with, and subject to, any incident authorised, and consent required by law.
 
 General meeting
 
@@ -14492,7 +15342,11 @@ Signed this day of 19 .
 
 This form is to be used
 
-4in favour of
+4
+
+in favour of
+
+4Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.]
 
 the resolution.
 
@@ -14644,7 +15498,7 @@ Dividends and reserves
 
 Capitalisation of profits
 
-106\. The company in general meeting may upon the recommendation of the directors resolve that it is desirable to capitalise any part of the amount for the time being standing to the credit of any of the company’s reserve accounts or to the credit of the profit and loss account or otherwise available for distribution, and accordingly that such sum be set free for distribution amongst the members who would have been entitled thereto if distributed by way of dividend and in the same proportions on condition that the same be not paid in cash but be applied either in or towards paying up any amounts for the time being unpaid on any shares held by such members respectively or paying up in full unissued shares or debentures of the company to be allotted, distributed and credited as fully paid up to and amongst such members in the proportion aforesaid, or partly in the one way and partly in the other, and the directors shall give effect to such resolution. A share premium account and a capital redemption reserve may, for the purposes of this regulation, be applied only in the paying up of unissued shares to be issued to members of the company as fully paid bonus shares.
+106\. The company in general meeting may upon the recommendation of the directors resolve that it is desirable to capitalise any part of the amount for the time being standing to the credit of any of the company’s reserve accounts or to the credit of the profit and loss account or otherwise available for distribution, and accordingly that such sum be set free for distribution amongst the members who would have been entitled thereto if distributed by way of dividend and in the same proportions on condition that the same be not paid in cash but be applied either in or towards paying up any amounts for the time being unpaid on any shares held by such members respectively or paying up in full unissued shares or debentures of the company to be allotted, distributed and credited as fully paid up to and amongst such members in the proportion aforesaid, or partly in the one way and partly in the other, and the directors shall give effect to such resolution.
 
 107\. Whenever such a resolution as aforesaid shall have been passed the directors shall make all appropriations and applications of the undivided profits resolved to be capitalised thereby, and all allotments and issues of fully paid shares or debentures, if any, and generally shall do all acts and things required to give effect thereto, with full power to the directors to make such provision by the issue of fractional certificates or by payment in cash or otherwise as they think fit for the case of shares or debentures becoming distributable in fractions, and also to authorise any person to enter on behalf of all the members entitled thereto into an agreement with the company providing for the allotment to them respectively, credited as fully paid up, of any further shares or debentures to which they may be entitled upon such capitalisation, or, as the case may require, for the payment up by the company on their behalf, by the application thereto of their respective proportions of the profits resolved to be capitalised, of the amounts or any part of the amounts remaining unpaid on their existing shares, and any agreement made under such authority shall be effective and binding on all such members.
 
@@ -14690,29 +15544,21 @@ Statement in Lieu of Prospectus Lodged for Registration by
 
 [Insert name of the company]
 
-The nominal share capital of the company
+The issued share capital of the company
 
 $
 
 Shares of $
 
-each: $
-
 Divided into
 
 Shares of $
 
-each: $
-
 Shares of $
-
-each: $
 
 Amount (if any) of above capital which consists of redeemable preference shares
 
 Shares of $
-
-each: $
 
 The date on or before which these shares are, or are liable, to be redeemed
 
@@ -14851,6 +15697,8 @@ Rates of the dividends, if any, paid by the company in respect of each class of 
 
 Particulars of the cases in which no dividends have been paid in respect of any class of shares in any of these years.
 
+[21/2005 wef 30/01/2006]
+
 Part II
 
 Reports to be set out
@@ -14934,7 +15782,7 @@ Contents of Annual Return
 
 (c) in a case in which the register of members is kept elsewhere than at the registered office, the address of the place where it is kept;
 
-(d) particulars of the total amount of indebtedness of the companyin respect of all charges which are required to be registered with the Registrar;
+(d) particulars of the total amount of indebtedness of the company as at the date of the summary of return in respect of all charges which are required to be registered with the Registrar;
 
 (e) a summary of the share capital and shares of the company, specifying —
 
@@ -14950,23 +15798,27 @@ Contents of Annual Return
 
 (B) the total amount, if any, agreed to be considered as paid on those shares; and
 
-(C) the amount per share;
+(C) the total amount, if any, agreed to be considered as unpaid on those shares;
 
-(v) the number of shares, if any, of each class issued at a discount and the total amount of discount on the issue of shares which has not been written off at the date of the summary of return;
+[S 56/2006 wef 30/01/2006]
 
-(vi) the total number of shares forfeited since the date of the last summary of return or, if none had been filed previously, the date of the last main return;
+(vi) the total number of shares forfeited since the date of the last summary of return or, if none had been filed previously, since the date of incorporation;
 
-(vii) the number of shares bought back since the date of the last summary of return or, if none had been filed previously, the date of the last main return;
+(vii) the total number of shares held as treasury shares;
 
-(viii) additional calls paid since the date of the last return or last notice of allotment but yet to be included in “Paid-up share capital” set out in the summary of return and the total amount of calls unpaid;
+[S 56/2006 wef 30/01/2006]
 
-(ix) the total amount of the sums, if any, paid by way of commission in respect of shares since the date of the last summary of return or, if none had been filed previously, since the date of the last main return; and
+(viii) additional calls paid since the date of the last return and the total amount of calls unpaid; and
 
-(x) the total amount of commission, if any, in respect of debentures issued since the date of the last summary of return or, if none had been filed previously, since the date of the last main return;
+[S 56/2006 wef 30/01/2006]
+
+(ix) the total amount of the sums, if any, paid by way of commission in respect of any debentures since the date of the last summary of return or, if none had been filed previously, since the date of incorporation;
+
+[S 56/2006 wef 30/01/2006]
 
 (f) particulars of the directors, managers, secretaries and auditors of the company as at the date of the confirmation of the summary of return by an officer of the company;
 
-(g) in the case of an unlisted company, a list of shareholders and their shareholdings, except that an unlisted public company having more than 50 shareholders shall provide the particulars of the 50 shareholders holding the most number of shares;
+(g) in the case of an unlisted company, particulars of shareholders and their shareholdings, except that an unlisted public company having more than 50 shareholders shall provide the particulars of the 50 shareholders holding the most number of shares;
 
 (h) where the company has converted any of its shares into stock and given notice of the conversion to the Registrar, the list in paragraph (g) shall contain particulars as to the amount of stock or the number of stock units instead of the amount of shares, and an explanatory note shall be made in the summary of return to that effect; and
 
@@ -14988,7 +15840,7 @@ Contents of Annual Return
 
 (e) in the case of an exempt private company without an exempt private company certificate, or any company limited by shares, particulars of —
 
-(i) the principal activity or activities in the course of the financial year;
+(i) the principal activity or activities in the course of the financial year or, if the company was dormant throughout the financial year, the principal activity or activities before it turned dormant;
 
 (ii) turnover, sales and other operating revenues;
 
@@ -14999,6 +15851,10 @@ Contents of Annual Return
 (v) assets and liabilities; and
 
 (vi) shareholders’ funds.
+
+4. For the avoidance of doubt, paragraph 3(e) should reflect particulars derived from the financial statements prepared in accordance with section 201.
+
+[S 56/2006 wef 30/01/2006]
 
 [S 20/2003 wef 13/01/2003]
 
@@ -15370,3 +16226,19 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 7/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|15 July 2005|
+|80.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 30/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Dates of commencement|30 January 2006 (sections 10, 12, 19 and 20(c))|
+|81.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
+||Date of First Reading|18 April 2005|
+|||(Bill No. 11/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|30 January 2006|
+|82.|**G. N. No. S 880/2005—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2005**|
+||Date of commencement|30 January 2006|
+|83.|**G. N. No. S 55/2006—Companies Act (Amendment of Second Schedule) Notification 2006**|
+||Date of commencement|30 January 2006|
+|84.|**G. N. No. S 56/2006—Companies Act (Amendment of Eighth Schedule) Notification 2006**|
+||Date of commencement|30 January 2006|
