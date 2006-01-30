@@ -610,6 +610,10 @@ and “employer” and other cognate expressions shall be construed accordingly;
 
 (i) an organisation not operated or conducted primarily for profit which is engaged in or connected with the promotion of culture or the arts or with the promotion of sports;
 
+“issued shares” excludes treasury shares;
+
+[34/2005 wef 30/01/2006]
+
 “life annuity” means an annuity payable under a policy issued to an SRS member for a term ending with, or at a time ascertainable only by reference to, the end of his life;
 
 “limited liability partnership” means any limited liability partnership incorporated or registered under any law in force in Singapore or elsewhere;
@@ -697,6 +701,10 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 “Supplementary Retirement Scheme” or “SRS” means the Supplementary Retirement Scheme established by regulations made under section 10L;
 
 “tax” means the income tax imposed by this Act;
+
+“treasury share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+[34/2005 wef 30/01/2006]
 
 “work permit” means a work permit issued by the Controller of Work Permits under the Employment of Foreign Workers Act (Cap. 91A);
 
@@ -1104,7 +1112,7 @@ shall not be deemed to be income for the purposes of subsection (1).
 
 [28/96]
 
-(14) For the purposes of subsection (1)(a) and (f), the income derived by any author, composer or choreographer, or any company in which he beneficially owns all the issued share capital, from any royalties or other payments received from a person carrying on in Singapore the business of publishing, of recording music or of producing cinematograph films, choreographic works or plays as consideration for the assignment of or for the right to use the copyright in any literary, dramatic, musical or artistic work, shall be deemed to be —
+(14) For the purposes of subsection (1)(a) and (f), the income derived by any author, composer or choreographer, or any company in which he beneficially owns all the issued shares, from any royalties or other payments received from a person carrying on in Singapore the business of publishing, of recording music or of producing cinematograph films, choreographic works or plays as consideration for the assignment of or for the right to use the copyright in any literary, dramatic, musical or artistic work, shall be deemed to be —
 
 (a) the amount of the royalties or other payments remaining after the deductions allowable under Parts V and VI have been made; or
 
@@ -1113,6 +1121,8 @@ shall not be deemed to be income for the purposes of subsection (1).
 whichever is the less.
 
 [24/2000]
+
+[34/2005 wef 30/01/2006]
 
 (15) Subsection (14) shall not apply to royalties or payments received in respect of any work published in any newspaper or periodical.
 
@@ -1252,9 +1262,13 @@ which do not form part of the statutory income of the designated unit trust or a
 
 (b) in relation to a company, means a company which is not resident in Singapore and —
 
-(i) in the case of a company with not more than 50 shareholders, the whole of its issued capital is beneficially owned, directly or indirectly, by persons who are not citizens of Singapore and not resident in Singapore; and
+(i) in the case of a company with not more than 50 shareholders, all of its issued shares are beneficially owned, directly or indirectly, by persons who are not citizens of Singapore and not resident in Singapore; and
 
-(ii) in the case of a company with more than 50 shareholders, not less than 80% of its issued capital is beneficially owned, directly or indirectly, by persons who are not citizens of Singapore and not resident in Singapore; and
+[34/2005 wef 30/01/2006]
+
+(ii) in the case of a company with more than 50 shareholders, not less than 80% of the total number of its issued shares are beneficially owned, directly or indirectly, by persons who are not citizens of Singapore and not resident in Singapore; and
+
+[34/2005 wef 30/01/2006]
 
 (c) in relation to a trust fund, means a trust fund where at least 80% of the value of the fund is beneficially held, directly or indirectly, by foreign investors referred to in paragraph (a) or (b) and, unless waived by the Minister or such person as he may appoint, where —
 
@@ -1534,7 +1548,9 @@ whichever is the less;
 
 (5) For the purposes of this section —
 
-(a) the share capital of a company shall include any share premium or capital redemption reserve which is treated as paid-up share capital of the company for the purpose of any reduction of share capital made by the company;
+(a) the share capital of a company shall include any reserve which is treated as paid-up share capital of the company for the purpose of any reduction of share capital made by the company;
+
+[34/2005 wef 30/01/2006]
 
 (b) the contributed capital of a company as at any date shall be the aggregate of the amounts received by the company, whether in cash or in the form of other valuable consideration, for the shares it had issued up to that date reduced by —
 
@@ -1562,9 +1578,11 @@ whichever is the less;
 
 (g) where paragraph (f) is applicable to the contributed capital of a transferee company, the contributed capital of the first-mentioned company under that paragraph after the reduction of its share capital shall, notwithstanding paragraph (b), not be reduced by the payment made by the first-mentioned company for the reduction of its share capital; and
 
-(h) any amount applied by a company in paying up unissued shares of the company to be issued to shareholders of the company as fully or partly paid bonus shares shall not be regarded as receipts by the company from the issue of shares.
+(h) any amount applied by a company in issuing shares of the company to its shareholders as bonus shares shall not be regarded as receipts by the company from the issue of shares.
 
 [32/99]
+
+[34/2005 wef 30/01/2006]
 
 (6) A company shall deliver to the Comptroller a copy of the contributed capital account made up to any date specified by the Comptroller whenever called upon to do so by notice in writing.
 
@@ -1572,13 +1590,15 @@ whichever is the less;
 
 ### Shares buyback
 
-10J\.—(1) Where a company resident in Singapore purchases or otherwise acquires shares issued by it from any shareholder of the company (referred to in this section as a buyback), for the purposes of this section —
+10J\.—(1) Where a company resident in Singapore purchases or otherwise acquires shares issued by it from any shareholder of the company (referred to in this section as a buyback), whether to hold as treasury shares or otherwise, for the purposes of this section —
 
 (a) the buyback constitutes a market purchase if the purchase of the shares is made on a stock exchange; and
 
 (b) the buyback constitutes an off‑market purchase if the purchase of the shares is made otherwise than on a stock exchange.
 
 [32/99]
+
+[34/2005 wef 30/01/2006]
 
 (2) Where a company undertakes a buyback described in subsection (1), any payment made by the company to any shareholder for the buyback shall, to the extent that the payment is made out of contributed capital of the company, not be regarded as a payment of dividend by the company to the shareholder, and an amount equal to the payment shall be debited to the contributed capital account kept by the company under section 10I(5)(c)(i).
 
@@ -1948,7 +1968,7 @@ made under a securities lending or repurchase arrangement by a Singapore-based t
 
 “compensatory payment”, in relation to any transferred securities, means a payment made during the borrowing period to a transferor in place of any distribution of interest, dividend or right to purchase warrants, options or additional securities in respect of the transferred securities under circumstances in which the transferee does not receive such distribution to be passed on to the transferor, and includes any amount which is in place of interest and is deducted from the price paid by the transferor to acquire equivalent securities or re‑acquire the transferred securities under a buy and sell back arrangement in respect of qualifying debt securities, Singapore Government securities or foreign debt securities;
 
-“equivalent securities”, in relation to any transferred securities, means securities which are identical in type, nominal value, description and amount to the transferred securities and includes —
+“equivalent securities”, in relation to any transferred securities, means securities which are identical in type, nominal value (where applicable), description and amount to the transferred securities and includes —
 
 (a) the securities into which the transferred securities have been converted, sub‑divided or consolidated;
 
@@ -1965,6 +1985,8 @@ made under a securities lending or repurchase arrangement by a Singapore-based t
 (g) if any distribution is made in the form of securities or a certificate which may be exchanged for securities or an entitlement to acquire securities, the transferred securities together with the securities or certificate or entitlement equivalent to those allotted; and
 
 (h) if the transferee is unable to return the transferred securities, such amount of money or securities equivalent to the transferred securities;
+
+[34/2005 wef 30/01/2006]
 
 “foreign debt securities” means securities, other than stocks and shares, denominated in any foreign currency (including bonds and notes) issued by foreign governments, foreign banks outside Singapore and companies not incorporated and not resident in Singapore;
 
@@ -2106,7 +2128,9 @@ EXEMPTION FROM INCOME TAX
 
 (d) any gains or profits, other than dividends derived from Singapore from which tax has been deducted under section 44, arising from sums standing in the SRS account of any SRS member except where section 10L(13) applies;
 
-(e) the income of any institution, authority, person or fund specified in the First Schedule, except dividends received by it from any company in which it holds, at the time such dividends are declared, more than half of the issued share capital of the company unless the Minister otherwise approves;
+(e) the income of any institution, authority, person or fund specified in the First Schedule, except dividends received by it from any company in which it holds, at the time such dividends are declared, more than half of the total number of issued shares of the company unless the Minister otherwise approves;
+
+[34/2005 wef 30/01/2006]
 
 (f) the income of —
 
@@ -2780,11 +2804,15 @@ as the case may be.
 
 (b) being a company, is neither incorporated nor resident in Singapore and where such a company —
 
-(i) has not more than 50 shareholders, the whole of its issued capital is beneficially owned, directly or indirectly, by persons who are neither citizens of Singapore nor resident in Singapore; or
+(i) has not more than 50 shareholders, all of its issued shares are beneficially owned, directly or indirectly, by persons who are neither citizens of Singapore nor resident in Singapore; or
 
-(ii) has more than 50 shareholders, not less than 95% of its issued capital is beneficially owned, directly or indirectly, by persons who are neither citizens of Singapore nor resident in Singapore.
+[34/2005 wef 30/01/2006]
+
+(ii) has more than 50 shareholders, not less than 95% of the total number of its issued shares are beneficially owned, directly or indirectly, by persons who are neither citizens of Singapore nor resident in Singapore.
 
 [37/2002]
+
+[34/2005 wef 30/01/2006]
 
 (3) Notwithstanding subsections (1) and (2), where it appears to the Comptroller that any income of a foreign trust or eligible holding company ought not to have been exempted under regulations made under subsection (1), the Comptroller may, subject to section 74, make such assessment or additional assessment upon the foreign trust or eligible holding company, as the case may be, as may appear to be necessary.
 
@@ -3056,7 +3084,7 @@ to acquire shares under a tranche of the share acquisition scheme and any gains 
 
 (a) to the extent that the amount, when aggregated with the amount of such gains or profits previously derived by him and which qualifies for exemption under this section, exceeds $1 million;
 
-(b) which is derived by him on or after 1st January of the 10th year following the year in which he first derived such gains or profits which qualified for exemption under this section; or
+(b) which is derived by him on or after 1st January of the 10thhyear following the year in which he first derived such gains or profits which qualified for exemption under this section; or
 
 (c) which is derived by him for the release of his right or benefit to acquire shares in any qualifying company or in its holding company by reason of his resignation or termination of his employment with the qualifying company due to misconduct.
 
@@ -4006,7 +4034,9 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 (i) those issued or guaranteed by the Government of Singapore or the government of any other country; and
 
-(ii) stocks and shares held by a bank or qualifying finance company and issued by any company in which 5% or more of its issued capital is beneficially owned, directly or indirectly, by the bank or qualifying finance company at any time during the basis period for the relevant year of assessment;
+(ii) stocks and shares held by a bank or qualifying finance company and issued by any company in which 5% or more of the total number of its shares are beneficially owned, directly or indirectly, by the bank or qualifying finance company at any time during the basis period for the relevant year of assessment;
+
+[34/2005 wef 30/01/2006]
 
 (b) any right or option in respect of any debentures, stocks, shares, bonds or notes referred to in paragraph (a); or
 
@@ -5478,7 +5508,9 @@ is the capital expenditure incurred in respect of the motor car.
 
 (7) For the purpose of subsection (4) —
 
-(a) the shareholders of a company at any date shall not be deemed to be substantially the same as the shareholders at any other date unless, on both those dates —
+(a) the shareholders of a company at any date shall not be deemed to be substantially the same as the shareholders at any other date unless, on both those dates, not less than 50% of the total number of issued shares of the company are held by or on behalf of the same persons;
+
+[34/2005 wef 30/01/2006]
 
 (i) not less than 50% of the paid-up capital of the company is held by or on behalf of the same persons; and
 
@@ -5488,7 +5520,19 @@ is the capital expenditure incurred in respect of the motor car.
 
 (c) shares held by or on behalf of the trustee of the estate of a deceased shareholder or by or on behalf of the person entitled to those shares as beneficiaries under the will or any intestacy of a deceased shareholder shall be deemed to be held by that deceased shareholder.
 
+(8) For the purpose of subsection (7), where any part of a share of a shareholder is not fully paid up, there shall be disregarded a proportion equal to
+
+where A
+
+is the amount that has not been paid in respect of the share; and
+
+B
+
+is the total amount payable in respect of the share.
+
 [26/73]
+
+[34/2005 wef 30/01/2006]
 
 ### Special provisions as to certain sales
 
@@ -5952,7 +5996,7 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 (d) derived during the period from 1st January 2000 to 31st December 2000 shall be treated as his statutory income for the year of assessment 2001 and be charged to tax at the rate applicable to him for that year of assessment;
 
-(e) derived during the period from 1st January 2001 to 31st December 2001 shall be treated as his statutory income for the year of assessment 2002 and be charged to tax at the rate applicable to him for that year of assessment
+(e) derived during the period from 1st January 2001 to 31st December 2001 shall be treated as his statutory income for the year of assessment 2002 and be charged to tax at the rate applicable to him for that year of assessment;
 
 [1/90; 20/91; 28/92; 26/93; 1/98; 24/2000; 24/2001; 37/2002]
 
@@ -6314,7 +6358,9 @@ and so on, except that any balance of the donation not deducted against his stat
 
 (14) For the purposes of subsection (12) —
 
-(a) the shareholders of a company at any date shall not be deemed to be substantially the same as the shareholders at any other date unless, on both those dates —
+(a) the shareholders of a company at any date shall not be deemed to be substantially the same as the shareholders at any other date unless, on both those dates, not less than 50% of the total number of issued shares of the company are held by or on behalf of the same persons;
+
+[34/2005 wef 30/01/2006]
 
 (i) not less than 50% of the paid-up capital of the company is held by or on behalf of the same persons; and
 
@@ -6323,6 +6369,18 @@ and so on, except that any balance of the donation not deducted against his stat
 (b) shares in a company held by or on behalf of another company shall be deemed to be held by the shareholders of the last-mentioned company; and
 
 (c) shares held by or on behalf of the trustee of the estate of a deceased shareholder or by or on behalf of the person entitled to those shares as beneficiaries under the will or any intestacy of a deceased shareholder shall be deemed to be held by that deceased shareholder.
+
+(14A) For the purpose of subsection (14), where any part of a share of a shareholder is not fully paid up, there shall be disregarded a proportion equal to
+
+where A
+
+is the amount that has not been paid in respect of the share; and
+
+B
+
+is the total amount payable in respect of the share.
+
+[34/2005 wef 30/01/2006]
 
 (15) The Minister or such person as he may appoint may, where there is a substantial change in the shareholders of a company and he is satisfied that such change is not for the purpose of deriving any tax benefit or obtaining any tax advantage, exempt that company from the provisions of subsection (12)
 
@@ -6368,13 +6426,19 @@ and so on, except that any balance of the donation not deducted against his stat
 
 (c) a company shall be deemed to be an associated company of a loss company if —
 
-(i) in the case of a private company at least 25% of its issued capital is beneficially owned, directly or indirectly, by the loss company;
+(i) in the case of a private company at least 25% of the total number of its issued shares are beneficially owned, directly or indirectly, by the loss company;
 
-(ii) in the case of a public company at least 50% of its issued capital is beneficially owned, directly or indirectly, by the loss company;
+[34/2005 wef 30/01/2006]
+
+(ii) in the case of a public company at least 50% of the total number of its issued shares are beneficially owned, directly or indirectly, by the loss company;
+
+[34/2005 wef 30/01/2006]
 
 (d) any dividends received by the loss company from an associated company, being dividends which are paid by the associated company out of income representing, wholly or in part, dividends paid by another associated company of the loss company to the first-mentioned associated company shall be deemed to be dividends received by the loss company from the second-mentioned associated company; and this provision shall apply notwithstanding any company or companies interposed between the first-mentioned associated company and the second-mentioned associated company;
 
-(e) where a loss company beneficially owns, directly or indirectly, a fraction of the issued capital of a second company which in turn beneficially owns, directly or indirectly, a fraction of the issued capital of a third company, the loss company shall be deemed to have a beneficial ownership of the issued capital of the third company equal to such fractionas results from the multiplication of those 2 fractions; and where the third company beneficially owns, directly or indirectly, a fraction of the issued capital of a fourth company, the loss company shall be deemed to have a beneficial ownership of the issued capital of the fourth company equal to such fraction as results from the multiplication of those 3 fractions, and so on.
+(e) where a loss company beneficially owns, directly or indirectly, a fraction of the total number of issued shares of a second company which in turn beneficially owns, directly or indirectly, a fraction of the total number of issued shares of a third company, the loss company shall be deemed to have a beneficial ownership of the number of issued shares of the third company equal to such fraction of the total number as results from the multiplication of those 2 fractions; and where the third company beneficially owns, directly or indirectly, a fraction of the total number of issued shares of a fourth company, the loss company shall be deemed to have a beneficial ownership of the number of issued shares of the fourth company equal to such fraction as results from the multiplication of those 3 fractions, and so on.
+
+[34/2005 wef 30/01/2006]
 
 ### Adjustment of capital allowances, losses or donations between income subject to tax at different rates
 
@@ -6460,13 +6524,17 @@ is the lower rate of tax for that year of assessment;
 
 (3) For the purposes of this section, 2 Singapore companies are members of the same group if —
 
-(a) at least 75% of the ordinary share capital in one company is beneficially held, directly or indirectly, by the other; or
+(a) at least 75% of the total number of issued ordinary shares in one company are beneficially held, directly or indirectly, by the other; or
 
-(b) at least 75% of the ordinary share capital in each of the 2 companies is beneficially held, directly or indirectly, by a third Singapore company.
+[34/2005 wef 30/01/2006]
+
+(b) at least 75% of the total number of issued ordinary shares in each of the 2 companies are beneficially held, directly or indirectly, by a third Singapore company.
 
 [37/2002]
 
-(4) Notwithstanding that a Singapore company beneficially holds, directly or indirectly, at least 75% of the ordinary share capital in another Singapore company, it shall not be treated to have satisfied subsection (3) unless additionally it is beneficially entitled to at least 75% of —
+[34/2005 wef 30/01/2006]
+
+(4) Notwithstanding that a Singapore company beneficially holds, directly or indirectly, at least 75% of the total number of issued ordinary shares in another Singapore company, it shall not be treated to have satisfied subsection (3) unless additionally it is beneficially entitled to at least 75% of —
 
 (a) any residual profits of the other company available for distribution to that company’s equity holders; and
 
@@ -6474,9 +6542,13 @@ is the lower rate of tax for that year of assessment;
 
 [37/2002]
 
-(5) For the purpose of subsection (3), where a Singapore company beneficially owns, directly or indirectly, a fraction of the share capital of a second Singapore company which in turn beneficially owns, directly or indirectly, a fraction of the share capital of a third Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the share capital of the third Singapore company equal to such fractionas results from the multiplication of those 2 fractions; and where the third Singapore company beneficially owns, directly or indirectly, a fraction of the share capital of a fourth Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the share capital of the fourth Singapore company equal to such fraction as results from the multiplication of those 3 fractions, and so on.
+[34/2005 wef 30/01/2006]
+
+(5) For the purpose of subsection (3), where a Singapore company beneficially owns, directly or indirectly, a fraction of the total number of issued ordinary shares of a second Singapore company which in turn beneficially owns, directly or indirectly, a fraction of the total number of issued ordinary shares of a third Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the number of issued ordinary shares of the third Singapore company equal to such fraction of the total number as results from the multiplication of those 2 fractions; and where the third Singapore company beneficially owns, directly or indirectly, a fraction of the total number of issued ordinary shares of a fourth Singapore company, the Singapore company shall be deemed to have a beneficial ownership of the number of issued ordinary shares of the fourth Singapore company equal to such fraction as results from the multiplication of those 3 fractions, and so on.
 
 [37/2002]
+
+[34/2005 wef 30/01/2006]
 
 (6) A transfer of qualifying deduction may be —
 
@@ -6652,13 +6724,13 @@ within such time and in such manner as the Comptroller may determine.
 
 “non-commercial loan” means any borrowing other than a commercial loan;
 
-“ordinary share” means any share other thana share which carries only a right to any dividend which is of —
+“ordinary share” means any share other than a treasury share or a share which carries only a right to any dividend which is of —
 
-(a) a fixed amount or at a fixed rate per cent of the nominalvalue of the shares; or
+(a) a fixed amount or at a fixed rate per cent of the value of the shares; or
+
+[34/2005 wef 30/01/2006]
 
 (b) a fixed rate per cent of the profits of the company;
-
-“ordinary share capital”, in relation to a Singapore company, means all the issued share capital comprising the ordinary shares of the company;
 
 “residual assets”, in relation to a Singapore company, means net assets of the company after distribution made to —
 
@@ -6668,9 +6740,13 @@ within such time and in such manner as the Comptroller may determine.
 
 and where the company has no residual asset, a notional amount of $100 is deemed to be the residual assets of the company;
 
+[34/2005 wef 30/01/2006]
+
 “residual profits”, in relation to a Singapore company, means profits of the company after deducting any dividend which is of —
 
-(a) a fixed amount or at a fixed rate per cent of the nominal value of the shares of the company; or
+(a) a fixed amount or at a fixed rate per cent of the value of the shares of the company; or
+
+[34/2005 wef 30/01/2006]
 
 (b) a fixed rate per cent of the profits of the company,
 
@@ -6994,7 +7070,7 @@ Provided that —
 
 Deduction for CPF contributions by self-employed
 
-(h) has carried on a trade, business, profession or vocation and has made contributions to the Central Provident Fund on his own account, or has derived income from a trade, business, profession or vocation and has made contributions in respect of such income to the Fund which were obligatory under the Central Provident Fund Act (Cap. 36), there shall be allowed a deduction, in respect of such contributions, of an amount not exceeding 33% or such other rate as may be prescribed of his assessable income for that year of assessment derived from such trade, business, profession or vocation or or such other amount as may be prescribed, whichever is the less:
+(h) has carried on a trade, business, profession or vocation and has made contributions to the Central Provident Fund on his own account, or has derived income from a trade, business, profession or vocation and has made contributions in respect of such income to the Fund which were obligatory under the Central Provident Fund Act (Cap. 36), there shall be allowed a deduction, in respect of such contributions, of an amount not exceeding 33% or such other rate as may be prescribed of his assessable income for that year of assessment derived from such trade, business, profession or vocation or such other amount as may be prescribed, whichever is the less:
 
 Provided that —
 
@@ -7842,9 +7918,13 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (5) For the purposes of subsection (4), a company shall be deemed to be an associated company in relation to an approved headquarters company if —
 
-(a) at least 25% of its issued capital is beneficially owned, directly or indirectly, by the approved headquarters company; or
+(a) at least 25% of the total number of its issued shares are beneficially owned, directly or indirectly, by the approved headquarters company; or
 
-(b) at least 25% of the issued capital of the approved headquarters company is beneficially owned, directly or indirectly, by the first-mentioned company.
+[34/2005 wef 30/01/2006]
+
+(b) at least 25% of the total number of the issued shares of the approved headquarters company are beneficially owned, directly or indirectly, by the first-mentioned company.
+
+[34/2005 wef 30/01/2006]
 
 ### Concessionary rate of tax for oil trading company
 
@@ -7898,9 +7978,13 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (4) For the purposes of subsection (3), a company shall be deemed to be an associated company in relation to a company with an approved Finance and Treasury Centre if —
 
-(a) at least 25% of its issued capital is beneficially owned, directly or indirectly, by the company with the approved Centre; or
+(a) at least 25% of the total number of its issued shares are beneficially owned, directly or indirectly, by the company with the approved Centre; or
 
-(b) at least 25% of the issued capital of the company with the approved Centre is beneficially owned, directly or indirectly, by the first-mentioned company.
+[34/2005 wef 30/01/2006]
+
+(b) at least 25% of the total number of issued shares of the company with the approved Centre are beneficially owned, directly or indirectly, by the first-mentioned company.
+
+[34/2005 wef 30/01/2006]
 
 ### Concessionary rate of tax for international commodity trading company
 
@@ -8866,9 +8950,13 @@ then, if the dividend is paid to a company which controls, directly or indirectl
 
 [26/93; 37/2002; 21/2003]
 
-(2) Where any dividend in respect of which tax credit is given under subsection (1)(c) is paid by a company which is resident outside Singapore to a person resident in Singapore who owns not less than 25% of the shares of the company paying the dividend, the tax credit shall take into account any tax paid by that company in the country in which it is resident in respect of its income out of which the dividend is paid.
+(2) Where any dividend in respect of which tax credit is given under subsection (1)(c) is paid by a company which is resident outside Singapore to a person resident in Singapore who owns not less than 25% of the total number of issued shares of the company paying the dividend, the tax credit shall take into account any tax paid by that company in the country in which it is resident in respect of its income out of which the dividend is paid.
 
-(3) Where under arrangements for the time being in force under section 49 with the government of any territory outside Singapore no provision is made for tax credit in respect of income out of which any dividend is paid by a company resident in that territory, tax credit under section 50 in respect of such income shall be given to any person resident in Singapore who owns not less than 25% of the shares of the company paying the dividend.
+[34/2005 wef 30/01/2006]
+
+(3) Where under arrangements for the time being in force under section 49 with the government of any territory outside Singapore no provision is made for tax credit in respect of income out of which any dividend is paid by a company resident in that territory, tax credit under section 50 in respect of such income shall be given to any person resident in Singapore who owns not less than 25% of the total number of issued shares of the company paying the dividend.
+
+[34/2005 wef 30/01/2006]
 
 (4) Section 50 shall, with the necessary modifications, apply for the purposes of this section as if any territory to which this section and the regulations have effect were a territory with which arrangements have been made under section 49.
 
@@ -11560,6 +11648,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 January 1992 (Section 16(a) and (d))|
 |||1 January 1993 (Section 16(b) and 19|
 |105.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 February 1993|
 |||(Bill No. 14/93 published on 27 February 1993)|
 ||Date of Second Reading|19 March 1993|
@@ -11580,11 +11669,13 @@ This Legislative History is provided for the convenience of users of the Income 
 |108.|**G.N. No. S 259/95—Income Tax Act (Amendment of First Schedule) Order 1995**|
 ||Date of commencement|1 October 1994|
 |109.|**Act 19 of 1994—Enlistment (Amendment) Act 1994**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|25 July 1994|
 |||(Bill No. 21/94 published on 29 July 1994)|
 ||Date of Second and Third Readings|31 October 1994|
 ||Date of commencement|1 December 1994|
 |110.|**Act 28 of 1994—National Registration (Amendment) Act 1994**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|31 October 1994|
 |||(Bill No. 30/94 published on 1 November 1994)|
 ||Date of Second and Third Readings|5 December 1994|
@@ -11596,6 +11687,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 March 1995 (sections 7(c), 8 and 25)|
 |||13 October 1995 (except sections 7(c), 8 and 25)|
 |112.|**Act 29 of 1995—Rapid Transit Systems Act 1995**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|7 July 1995|
 |||(Bill No. 25/95 published on 8 July 1995)|
 ||Date of Second and Third Readings|7 August 1995|
@@ -11605,11 +11697,13 @@ This Legislative History is provided for the convenience of users of the Income 
 |114.|**G.N. No. S 67/96—Income Tax Act (Amendment of First Schedule) (No. 2) Order 1996**|
 ||Date of commencement|1 February 1996|
 |115.|**Act 7 of 1996—Maritime and Port Authority of Singapore Act 1996**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|5 December 1995|
 |||(Bill No. 46/95 published on 6 December 1995)|
 ||Date of Second and Third Readings|18 January 1996|
 ||Date of commencement|2 February 1996|
 |116.|**Act 1 of 1996—Singapore Productivity and Standards Board Act 1995**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|1 November 1995|
 |||(Bill No. 39/95 published on 2 November 1995)|
 ||Date of Second and Third Readings|5 December 1995|
@@ -11658,6 +11752,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|31 July 1998|
 ||Date of commencement|14 August 1998|
 |128.|**Act 37 of 1998—Post Office Savings Bank of Singapore (Transfer of Undertakings and Dissolution) Act 1998**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|31 July 1998|
 |||(Bill No. 34/98 published on 1 August 1998)|
 ||Date of Second and Third Readings|12 October 1998|
@@ -11690,6 +11785,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|17 August 1999|
 ||Date of commencement|3 September 1999|
 |135.|**Act 41 of 1999—Info-communications Development Authority of Singapore Act 1999**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|11 October 1999|
 |||(Bill No. 36/99 published on 12 October 1999)|
 ||Date of Second and Third Readings|23 November 1999|
@@ -11712,6 +11808,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|25 August 2000|
 ||Date of commencement|18 January 2000 (Section 4)|
 |140.|**Act 9 of 2000—Defence Science and Technology Agency Act 2000**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|17 January 2000|
 |||(Bill No. 1/2000 published on 18 January 2000)|
 ||Date of Second and Third Readings|21 February 2000|
@@ -11732,11 +11829,13 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|31 January 2001|
 |144.|**Act 3 of 2001—Intellectual Property Office of Singapore Act 2001**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|12 January 2001|
 |||(Bill No. 1/2001 published on 13 January 2001)|
 ||Date of Second and Third Readings|22 February 2001|
 ||Date of commencement|1 April 2001|
 |145.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|5 March 2001|
 |||(Bill No. 17/2001 published on 7 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
@@ -11779,11 +11878,13 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|2 July 2002|
 |154.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|25 September 2001|
 |||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|1 October 2002 (item (9) of the Fourth Schedule — amendment of Income Tax Act)|
 |155.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 July 2002|
 |||(Bill No. 23/2002 published on 9 July 2002)|
 ||Date of Second and Third Readings|23 July 2002|
@@ -11829,6 +11930,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|11 November 2003|
 ||Date of commencement|28 February 2003 (Section 40)|
 |164.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|10 March 2003|
 |||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
@@ -11903,16 +12005,19 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|18 October 2005|
 ||Date of commencement|27 February 2004 (Sections 13, 31(a))|
 |180.|**Act 4 of 2004—Accountants Act 2004**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|5 January 2004|
 |||(Bill No. 2/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 April 2004|
 |181.|**Act 11 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|27 February 2004|
 |||(Bill No. 7/2004 published on 28 February 2004)|
 ||Date of Second and Third Readings|20 April 2004|
 ||Date of commencement|28 April 2004 (section 30 — amendment of Income Tax Act)|
 |182.|**Act 16 of 2004—Statistics (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|19 April 2004|
 |||(Bill No. 15/2004 published on 20 April 2004)|
 ||Date of Second and Third Readings|19 May 2004|
@@ -11928,6 +12033,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|18 October 2005|
 ||Date of commencement|21 September 2004 (Sections 10(f), 21)|
 |185.|**Act 48 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|19 October 2004|
 |||(Bill No. 56/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|17 November 2004|
@@ -11970,6 +12076,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |193.|**G.N. No. S 194/2006—Income Tax Act (Amendment of First Schedule) Order 2006**|
 ||Date of commencement|22 April 2005 (paragraph 2(b))|
 |194.|**Act 8 of 2005—Diplomatic and Consular Relations Act 2005**|
+||(Related amendments made to Act by)||
 ||Date of First Reading|16 November 2004|
 |||(Bill No. 65/2004 published on 17 November 2004)|
 ||Date of Second and Third Readings|25 January 2005|
@@ -12001,6 +12108,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2006 (Section 30(h), (i))|
+|201.|**Act 34 of 2005—Income Tax (Amendment) Act 2005**|
+||Date of First Reading|19 September 2005|
+|||(Bill No. 27/2005 published on 20 September 2005)|
+||Date of Second and Third Readings|18 October 2005|
+||Date of commencement|30 January 2006 (Sections 2(c), (d), 3, 7, 8, 9, 10(c), 12, 15, 18(b), (c), 22(e), (f), 23, 24, 32, 33(c), (d), (e), 41)|
 ## COMPARATIVE TABLE
 
 Income Tax Act
