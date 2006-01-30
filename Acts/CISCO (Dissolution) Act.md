@@ -16,13 +16,13 @@
 
 - [3 Transfer date](#Transfer-date)
 
-[**Part II Successor company**](#Part-II)
+[**Part II SUCCESSOR COMPANY**](#Part-II)
 
 - [4 Nomination of successor company](#Nomination-of-successor-company)
 
 - [5 Initial Government holding in successor company](#Initial-Government-holding-in-successor-company)
 
-[**Part III Transfer of undertaking and employees to successor company**](#Part-III)
+[**Part III TRANSFER OF UNDERTAKING AND EMPLOYEES TO SUCCESSOR COMPANY**](#Part-III)
 
 - [6 Transfer to successor company of Corporation’s undertaking](#Transfer-to-successor-company-of-Corporation’s-undertaking)
 
@@ -40,7 +40,7 @@
 
 - [13 No breach or default, etc., on account of corporatisation](#No-breach-or-default-etc-on-account-of-corporatisation)
 
-[**Part IV Miscellaneous**](#Part-IV)
+[**Part IV MISCELLANEOUS**](#Part-IV)
 
 - [14 Dissolution of Corporation](#Dissolution-of-Corporation)
 
@@ -124,7 +124,7 @@ Preliminary
 
 ## PART II
 
-Successor company
+SUCCESSOR COMPANY
 
 ### Nomination of successor company
 
@@ -140,15 +140,13 @@ Successor company
 
 (4) Shares in the successor company issued in pursuance of this section shall —
 
-(a) be of such nominalvalue as the Minister for Finance may direct; and
+(a) be of such value as the Minister for Finance may direct; and
 
-(b) be issued as fully paid and treated for the purposes of the Companies Act (Cap. 50) as if they had been paid up by virtue of the payment to the successor company of their nominalvalue.
-
-(5) Section 69 of the Companies Act (which provides that where a company issues shares for which a premium is received by the company whether in cash or in the form of other valuable consideration a sum equal to the aggregate amount or value of the premiums on those shares shall be transferred to a share premium account) shall not apply in relation to the issue of shares by the successor company in pursuance of this section, notwithstanding that such shares may be regarded as having been issued by the successor company at a premium.
+(b) be issued as fully paid and treated for the purposes of the Companies Act (Cap. 50) as if they had been paid up by virtue of the payment to the successor company of their value.
 
 ## PART III
 
-Transfer of undertaking and employees to successor company
+TRANSFER OF UNDERTAKING AND EMPLOYEES TO SUCCESSOR COMPANY
 
 ### Transfer to successor company of Corporation’s undertaking
 
@@ -296,7 +294,7 @@ pending or existing immediately before the transfer date by or against the Corpo
 
 ## PART IV
 
-Miscellaneous
+MISCELLANEOUS
 
 ### Dissolution of Corporation
 
