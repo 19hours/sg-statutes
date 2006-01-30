@@ -262,6 +262,8 @@ LAND SURVEYORS BOARD
 
 (a) he is not a citizen or a permanent resident of Singapore;
 
+(b) [Deleted by Act 37/2004 wef 31/03/2005]
+
 (c) he is an undischarged bankrupt or has made any arrangement on composition with his creditors;
 
 (d) he has been convicted of any offence involving fraud, dishonesty or moral turpitude, or of any other offence implying a defect in character which makes him unfit for the surveying profession; or
@@ -480,6 +482,8 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (b) the applicant has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors;
 
+(c) [Deleted by Act 37/2004 wef 31/03/2005]
+
 (d) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying survey services in Singapore;
 
 (e) the declaration under subsection (3)(a) contains a statement that to its knowledge is false in a material particular; or
@@ -536,11 +540,15 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply survey services;
 
-(b) at least $1 million of its authorised capital is bona fide paid-up;
+(b) it has a paid-up capital of at least $1 million;
+
+[21/2005 wef 30/01/2006]
 
 (c) the articles of association of the corporation provide that a prescribed number or proportion of the directors of the corporation shall be registered surveyors or allied professionals;
 
 [37/2004 wef 31/03/2005]
+
+(d) [Deleted by Act 37/2004 wef 31/03/2005]
 
 (e) the business of the corporation, so far as it relates to survey work in Singapore, will be under the control and management of a director of the corporation who —
 
@@ -551,6 +559,8 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 (ii) is authorised under a resolution of the board of directors of the corporation to make all final survey decisions on behalf of the corporation with respect to the requirements of this Act, the rules or any other law relating to the supply of survey services by the corporation; and
 
 [37/2004 wef 31/03/2005]
+
+(iii) [Deleted by Act 37/2004 wef 31/03/2005]
 
 (f) the corporation is insured against professional liability in accordance with section 26 and the rules made under section 47.
 
@@ -990,6 +1000,8 @@ GENERAL
 
 (ii) for himself or any other person a practising certificate or to be registered as a surveyor under this Act,
 
+(iii) [Deleted by Act 37/2004 wef 31/03/2004]
+
 by making or producing or causing to be made or produced any false or fraudulent representation or declaration, either verbally or in writing, or by intentionally suppressing any material fact and furnishing information which is misleading; or
 
 (c) knowingly aids or assists in any of the acts mentioned in paragraph (a) or (b),
@@ -1040,6 +1052,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (f) prescribing a code of professional conduct and ethics;
 
+(g) [Deleted by Act 37/2004 wef 31/03/2005]
+
 (h) requiring all or any of the following to take out and maintain insurance against liability for breach of professional duty in the course of supplying survey services:
 
 (i) any partnership consisting wholly of registered surveyors;
@@ -1057,6 +1071,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (j) regulating the proceedings of an Investigation Committee.
 
 [35/98; 34/99; 17/2001]
+
+(3) [Deleted by Act 37/2004 wef 31/03/2005]
 
 (4) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -1130,6 +1146,12 @@ This Legislative History is provided for the convenience of users of the Land Su
 |||(Bill No. 36/2004 published on 2 September 2004)|
 ||Date of Second and Third Readings|21 September 2004|
 ||Date of commencement|31 March 2005|
+|12.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 April 2005|
+|||(Bill No. 11/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|30 January 2006|
 ## COMPARATIVE TABLE
 
 Land Surveyors Act
