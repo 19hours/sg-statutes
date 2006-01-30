@@ -308,7 +308,7 @@ NEWSPAPER COMPANIES
 
 (13) The holder of management shares shall not deal in or in any way mortgage the shares except with the approval of the Minister.
 
-(14) Management shares shall have the same par value as ordinary shares but shall not —
+(14) Management shares shall not —
 
 (a) be offered, before issue, to ordinary shareholders; or
 
@@ -334,7 +334,7 @@ NEWSPAPER COMPANIES
 
 [20/2002]
 
-(3) No person shall, on or after 2nd September 2002, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of more than 5% of the nominal amount of all voting shares in a newspaper company without first obtaining the approval of the Minister.
+(3) No person shall, on or after 2nd September 2002, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of more than 5% of the total votes attached to all voting shares in a newspaper company without first obtaining the approval of the Minister.
 
 [20/2002]
 
@@ -1193,6 +1193,12 @@ This Legislative History is provided for the convenience of users of the Newspap
 |||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|14.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 April 2005|
+|||(Bill No. 11/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|30 January 2006|
 ## COMPARATIVE TABLE
 
 Newspaper and Printing Presses Act
