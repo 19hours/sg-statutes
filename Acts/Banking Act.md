@@ -904,7 +904,7 @@ where such deposit is to be made with any person (not being a person specified i
 
 [23/2001]
 
-(3) No person shall, on or after 18th July 2001, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any person with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of 5% or more of the nominal amount of all voting shares in a designated financial institution, without first obtaining the approval of the Minister.
+(3) No person shall, on or after 18th July 2001, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any person with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of 5% or more of the total votes attached to all voting shares in a designated financial institution, without first obtaining the approval of the Minister.
 
 [23/2001]
 
@@ -950,13 +950,13 @@ of a designated financial institution shall continue to be such a controller unl
 
 “12% controller” means a person, not being a 20% controller, who alone or together with his associates —
 
-(a) holds not less than 12% of theshares in the designated financial institution; or
+(a) holds not less than 12% of the total number of issued shares in the designated financial institution; or
 
 (b) is in a position to control voting power of not less than 12% in the designated financial institution;
 
 “20% controller” means a person who, alone or together with his associates —
 
-(a) holds not less than 20% of the shares in the designated financial institution; or
+(a) holds not less than 20% of the total number of issued shares in the designated financial institution; or
 
 (b) is in a position to control voting power of not less than 20% in the designated financial institution.
 
@@ -3257,6 +3257,12 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 21/2005 published on 16 August 2005)|
 ||Date of Second and Third Readings|19 September 2005|
 ||Date of commencement|18 October 2005|
+|23.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 April 2005|
+|||(Bill No. 11/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|30 January 2006|
 ## COMPARATIVE TABLE
 
 Banking Act
