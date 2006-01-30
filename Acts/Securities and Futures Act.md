@@ -4364,7 +4364,7 @@ as the Authority may require for the proper administration of this Act.
 
 of an approved holding company without first obtaining the approval of the Authority.
 
-(3) In subsection (2) —
+(3) In subsection (2)—
 
 “12% controller” means a person, not being a 20% controller, who alone or together with his associates —
 
@@ -8302,7 +8302,7 @@ and that is materially adverse from the point of view of an investor, the person
 
 [1/2005 wef 15/10/2005]
 
-(9) Subsections (8)(b) and (11) have effect notwithstanding sections 73, 76 and 76A of the Companies Act (Cap. 50).
+(9) Subsections (8)(b) and (11) have effect notwithstanding sections 76 and 76A, and Division 3A of Part IV, of the Companies Act (Cap. 50).
 
 (10) An applicant who wishes to exercise his option under subsection (8)(a)(i) or (ii) to withdraw his application shall, within 14 days from the date of lodgment of the supplementary document or replacement document, notify the person making the offer of this, whereupon that person shall, within 7 days from the receipt of such notification, pay to the applicant all moneys paid by the applicant on account of his application for the securities.
 
@@ -8436,7 +8436,7 @@ the Authority may by an order in writing (referred to in this section as a stop 
 
 [1/2005 wef 15/10/2005]
 
-(6) Subsection (5)(b) has effect notwithstanding sections 73, 76 and 76A of the Companies Act (Cap. 50).
+(6) Subsection (5)(b) has effect notwithstanding sections 76 and 76A, and Division 3A of Part IV, of the Companies Act (Cap. 50).
 
 (7) Where applications to purchase securities to which the prospectus or profile statement relates have been made prior to the stop order, then —
 
@@ -8647,6 +8647,8 @@ is or will be required to issue or deliver the relevant securities, or to meet f
 (3) The Authority may exempt any class of persons, or any class or description of prospectuses or profile statements, from any requirement of this Act relating to the form or content of a prospectus or profile statement, subject to such conditions or restrictions as may be determined by the Authority.
 
 [16/2003 wef 22/12/2003]
+
+(4) [Deleted by Act 16 of 2003 wef 22/12/2003]
 
 (5) Any person who contravenes any of the conditions or restrictions imposed under subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -10336,7 +10338,7 @@ but does not include any capacity of a person to influence decisions on the fina
 
 (b) any material, advertisement or publication which is authorised by section 282L (other than subsection (5) thereof);
 
-“recognised securities exchange” means a corporation which has been declared by the Authority, by order published in theGazette, to be a recognised securities exchange for the purposes of this Division;
+“recognised securities exchange” means a corporation which has been declared by the Authority, by order published in the Gazette, to be a recognised securities exchange for the purposes of this Division;
 
 “related party” means —
 
@@ -12150,7 +12152,7 @@ but does not include any capacity of a person to influence decisions on the fina
 
 (a) a profile statement; or
 
-(b) any material, advertisement or publication which is authorised by section 300 (other than subsection (3));
+(b) any material, advertisement or publication which is authorised by section 300 (other than subsection (3)), ;
 
 “recognised securities exchange” means a corporation which has been declared by the Authority, by order published in theGazette, to be a recognised securities exchange for the purposes of this Division;
 
@@ -12764,6 +12766,8 @@ by the persons referred to in paragraph (a) and the persons referred to in sub-p
 
 (3) No person shall make an offer of units in a collective investment scheme if that scheme has not been formed or does not exist.
 
+(4) [Deleted by Act 1 of 2005 wef 15/10/2005]
+
 (5) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $150,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $15,000 for every day or part thereof during which the offence continues after conviction.
 
 (6) The Authority may register a prospectus or a profile statement on any day between the 14th and 21st days (both days inclusive) from the date of lodgment thereof with the Authority, unless —
@@ -12964,6 +12968,8 @@ the Authority may by an order in writing (referred to in this section as a stop 
 
 [16/2003 wef 22/12/2003]
 
+[1/2005 wef 15/10/2005]
+
 (4) Where applications for units in a collective investment scheme have been made prior to the service of a stop order, and —
 
 (a) the contributions of the applicants to the scheme have not yet been invested in accordance with the scheme —
@@ -12974,9 +12980,9 @@ the Authority may by an order in writing (referred to in this section as a stop 
 
 (ii) where units in the scheme have been issued to the applicants, the issue of the units shall be deemed to be void,
 
-and the the person making the offer of units in the scheme shall, within 7 days from the date of the stop order, pay to the applicants all moneys which the applicants have paid for the units, including contributions to the scheme and charges the applicants have paid to the responsible person, its agent, or any person through whom the applicant has applied for the units; or
+and the person making the offer of units in the scheme shall, within 7 days from the date of the stop order, pay to the applicants all moneys which the applicants have paid for the units, including contributions to the scheme and charges the applicants have paid to the responsible person, its agent, or any person through whom the applicant has applied for the units; or
 
-(b) the contributions of the applicants to the scheme have been invested in accordance with the scheme, the Authority may by notice in writing issue such directions to the the person making the offer of units in the scheme as it deems fit, including a direction that the person provide the applicants with an option, on such terms as the Authority may approve, to obtain from that person a refund of all moneys contributed by the applicants or to redeem their units in accordance with the scheme.
+(b) the contributions of the applicants to the scheme have been invested in accordance with the scheme, the Authority may by notice in writing issue such directions to the person making the offer of units in the scheme as it deems fit, including a direction that the person provide the applicants with an option, on such terms as the Authority may approve, to obtain from that person a refund of all moneys contributed by the applicants or to redeem their units in accordance with the scheme.
 
 (5) In determining whether to issue a direction under subsection (4) to the person making the offer of units in the scheme to refund the contributions of the applicants, the Authority shall consider whether the responsible person for the scheme will be able to liquidate the property of the scheme without material adverse financial effect to the applicants, and for this purpose, the factors which the Authority may take into account include:
 
@@ -14256,9 +14262,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [1/2005 wef 15/10/2005]
 
-(d) a collective investment scheme;
+(d) a collective investment scheme,
 
 [1/2005 wef 15/10/2005]
+
+(d) the affairs of the trustee-manager of a registered business trust; or
+
+[31/2004 wef 12/10/2004]
 
 (e) a registered business trust which is managed and operated by the trustee-manager of the registered business trust,
 
@@ -14766,13 +14776,13 @@ whether or not those securities are pledged as security for the credit facility,
 
 (i) that forms part of an arrangement to underwrite or sub-underwrite securities;
 
-(ii) to a holder of a capital markets services licence to deal in securities or provide securities financing, or a financial institution, to facilitate acquisitions or holdings of securities;
+(iii) to a holder of a capital markets services licence to deal in securities or provide securities financing, or a financial institution, to facilitate acquisitions or holdings of securities;
 
-(iii) by a company to its directors or employees to facilitate acquisitions or holdings of its own securities;
+(iv) by a company to its directors or employees to facilitate acquisitions or holdings of its own securities;
 
-(iv) by a member of a group of companies to another member of the group to facilitate acquisitions or holdings of securities by that other member; or
+(v) by a member of a group of companies to another member of the group to facilitate acquisitions or holdings of securities by that other member; or
 
-(v) by an individual to a company in which he holds 10% or more of its issued share capital to facilitate acquisitions or holdings of securities;
+(vi) by an individual to a company in which he holds 10% or more of its issued share capital to facilitate acquisitions or holdings of securities;
 
 “trading in futures contracts” means (whether as principal or agent) —
 
@@ -14808,7 +14818,7 @@ whose carrying on of the business in that regulated activity is solely incidenta
 
 7\. Any approved trustee for a collective investment scheme as defined in section 289 whose carrying on of business in a regulated activity is solely incidental to its carrying on of activities as such approved trustee.
 
-8. [Deleted by Act 1/2005 wef 01/07/2005]
+8. [Deleted by Act 1 of 2005 wef 01/07/2005]
 
 9. A foreign company whose carrying on of any regulated activity is effected under an arrangement between the foreign company (on the one hand) and its related corporation which is licensed under this Act or exempted under section 99(1)(a), (b), (c) or (d) (on the other hand), where such arrangement is approved by the Authority.
 
@@ -14997,6 +15007,7 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 July 2005|
 |||1 January 2006|
+|||30 January 2006|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
