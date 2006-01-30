@@ -260,7 +260,7 @@ may exercise any of the functions of the Chairman.
 
 (3) No officer or employee shall be deemed to have or acquire any such share or interest by reason only that —
 
-(a) he is or becomes a member of an incorporated company which owns land situated in Singapore or has a contract with or executes work for the Board, unless he has a beneficial interest in the shares of that company and the total nominal value of these shares exceeds $10,000 or 10% of the total nominal value of the issued share capital of the company whichever is the less; or
+(a) he is or becomes a member of an incorporated company which owns land situated in Singapore or has a contract with or executes work for the Board, unless he has a beneficial interest in the shares of that company and the total value of these shares exceeds $10,000 or 10% of the total value of the issued share capital of the company whichever is the less; or
 
 (b) he has or acquires a share in any loan issued by the Board or in any security for the same.
 
@@ -806,6 +806,12 @@ This Legislative History is provided for the convenience of users of the Economi
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (Item (10) of the Fifth Schedule – Amendment of Economic Development Board Act)|
+|20.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 April 2005|
+|||(Bill No. 11/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|30 January 2006|
 ## COMPARATIVE TABLE
 
 Economic Development Board Act
