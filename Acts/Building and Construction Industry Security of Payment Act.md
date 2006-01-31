@@ -1,20 +1,18 @@
-**Building and Construction Industry Security of Payment Act 2004**
+**Building and Construction Industry Security of Payment Act**
 
-**(No. 57 of 2004)**
+**(CHAPTER 30B)**
 
 **Table of Contents**
 
 [**Long Title**](#Building-and-Construction-Industry-Security-of-Payment-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Definitions of construction work, goods and services](#Definitions-of-construction-work-goods-and-services)
+- [3 Definitions of "construction work", "goods" and "services"](#Definitions-of-"construction-work"-"goods"-and-"services")
 
 - [4 Application of Act](#Application-of-Act)
 
@@ -28,7 +26,7 @@
 
 - [8 Due date for payment](#Due-date-for-payment)
 
-- [9 Effect of "pay when paid" provisions](#Effect-of-"pay-when-paid"-provisions)
+- [9 Effect of "pay when paid provisions"](#Effect-of-"pay-when-paid-provisions")
 
 [**Part III PAYMENT CLAIMS AND RESPONSES**](#Part-III)
 
@@ -60,7 +58,7 @@
 
 - [22 Payment of adjudicated amount](#Payment-of-adjudicated-amount)
 
-[**Part V MEASURES TO ENFORCE PAYMENT OF ADJUDICATION AMOUNT**](#Part-V)
+[**Part V MEASURES TO ENFORCE PAYMENT OF ADJUDICATED AMOUNT**](#Part-V)
 
 - [23 Consequences of not paying adjudicated amount](#Consequences-of-not-paying-adjudicated-amount)
 
@@ -106,49 +104,31 @@
 
 - [42 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Building and Construction Industry Security of Payment Act
 
-ACTS SUPPLEMENT
+(CHAPTER 30B)
 
-Published by Authority
+(Original Enactment: 57 of 2004)
 
-NO. 52]
+REVISED EDITION 2006
 
-Friday, December 10
-
-[2004
-
-The following Act was passed by Parliament on 16th November 2004 and assented to by the President on 29th November 2004:—
-
-Building and Construction Industry Security of Payment Act 2004
-
-(No. 57 of 2004)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-29th November 2004.
-
-Date of Commencement: 3rd January 2005
-
-Date of Commencement: 1st April 2005
+(31st January 2006)
 
 An Act to facilitate payments for construction work done or for related goods or services supplied in the building and construction industry, and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[3rd January 2005: Sections 1, 28 and 40 ;
+
+1st April 2005: Sections 2, 3, 4, 29 to 39, 41 and 42 and Parts II to V ]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Building and Construction Industry Security of Payment Act 2004 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Building and Construction Industry Security of Payment Act.
 
 ### Interpretation
 
@@ -208,7 +188,7 @@ PRELIMINARY
 
 “payment claim” means a claim made by a claimant for a progress payment under section 10;
 
-“payment response”, in relation to a construction contract, means a response to a payment claim made by a respondent under section 11(1);
+“payment response”, in relation to a construction contract, means a response to a payment claim made by a respondent under section 11(1) or 12(4);
 
 “principal”, in relation to a respondent named in a payment claim served by a claimant under section 10, means a person who is liable to make payment to the respondent for or in relation to the whole or part of the construction work that is, or the whole or part of the goods or services that are, the subject of the contract between the respondent and the claimant;
 
@@ -286,7 +266,7 @@ but does not include such agreements as may be prescribed.
 
 ### Application of Act
 
-4\.—(1) Subject to subsection (2), this Act shall apply to any contract that is made in writing on or after the date of commencement of this Act, whether or not the contract is expressed to be governed by the law of Singapore.
+4\.—(1) Subject to subsection (2), this Act shall apply to any contract that is made in writing on or after 1st April 2005, whether or not the contract is expressed to be governed by the law of Singapore.
 
 (2) This Act shall not apply to —
 
@@ -384,9 +364,9 @@ or, in the absence of the matters referred to in sub-paragraphs (i), (ii) and (i
 
 (b) where the contract does not contain such provision, shall be at the rate prescribed in respect of judgment debts under the Supreme Court of Judicature Act (Cap. 322).
 
-(6) For the purpose of subsections (1) and (2) and subject to the Goods and Services Tax Act, the claimant may submit the tax invoice referred to in subsection (1)(b)(i) or (2)(a) at any time after the payment response referred to in subsection (1)(b)(ii) or (2)(b), respectively, is provided, notwithstanding anything to the contrary in the contract.
+(6) For the purpose of subsections (1) and (2) and subject to the Goods and Services Tax Act (Cap. 117A), the claimant may submit the tax invoice referred to in subsection (1)(b)(i) or (2)(a) at any time after the payment response referred to in subsection (1)(b)(ii) or (2)(b), respectively, is provided, notwithstanding anything to the contrary in the contract.
 
-### Effect of “pay when paid” provisions
+### Effect of “pay when paid provisions”
 
 9\.—(1) A pay when paid provision of a contract is unenforceable and has no effect in relation to any payment for construction work carried out or undertaken to be carried out, or for goods or services supplied or undertaken to be supplied, under the contract.
 
@@ -792,7 +772,7 @@ whichever is the later.
 
 ## PART V
 
-MEASURES TO ENFORCE PAYMENT OF ADJUDICATION AMOUNT
+MEASURES TO ENFORCE PAYMENT OF ADJUDICATED AMOUNT
 
 ### Consequences of not paying adjudicated amount
 
@@ -800,7 +780,7 @@ MEASURES TO ENFORCE PAYMENT OF ADJUDICATION AMOUNT
 
 (a) serve a notice in writing on the respondent of the claimant’s intention to exercise a lien under section 25 on goods supplied by the claimant to the respondent under the contract concerned that are unfixed and which have not been paid for;
 
-(b) serve a notice in writing on the respondent of the claimant’s intention to suspend carrying out construction work or supplying goods or services under the contract concerned.
+(b) serve a notice in writing on the respondent under section 26 of the claimant’s intention to suspend carrying out construction work or supplying goods or services under the contract concerned.
 
 (2) Without prejudice to the generality of subsection (1), where a party to an adjudication fails to pay the whole or any part of the adjudicated amount to any other party in accordance with section 22, the aggrieved party may apply for and enforce the adjudication determination as if it were a judgment debt in accordance with section 27.
 
@@ -898,7 +878,7 @@ the claimant shall resume such work or supply within 3 days after being served t
 
 (4) If the affidavit referred to in subsection (3) indicates that part of the adjudicated amount has been paid, the judgment shall be for the unpaid part of the adjudicated amount.
 
-(5) Where any party to an adjudication commences proceedings to set aside the adjudication determination or the judgment obtained pursuant to this section, he shall pay into the court as security the unpaid portion of the adjudicated amount that he is required to pay, in such manner as the court directs or as provided in the Rules of Court, pending the final determination of those proceedings.
+(5) Where any party to an adjudication commences proceedings to set aside the adjudication determination or the judgment obtained pursuant to this section, he shall pay into the court as security the unpaid portion of the adjudicated amount that he is required to pay, in such manner as the court directs or as provided in the Rules of Court (Cap. 322, R 5), pending the final determination of those proceedings.
 
 ## PART VI
 
@@ -1072,7 +1052,7 @@ from all or any of the provisions of this Act, subject to such terms or conditio
 
 ### Amendment of specified periods
 
-39\. The Minister may, by order published in theGazette, amend section 8 (1) (b), (2), (3) (b) or (4), 11 (1) (a) or (b), 12 (5), 13 (3) (a), 14 (3), 15 (1), 17 (1) (a) or (b), 18 (2) or (6), 19 (3), 22 (1) (a) or (2) (a), 24 (2) (b) or (3), 25 (2) (c) or 26 (1) (c), (4) or (5) by substituting a different period for the period for the time being specified therein.
+39\. The Minister may, by order published in theGazette, amend section 8(1)(b), (2), (3)(b) or (4), 11(1)(a) or (b), 12(5), 13(3)(a), 14(3), 15(1), 17(1)(a) or (b), 18(2) or (6), 19(3), 22(1)(a) or (2)(a), 24(2)(b) or (3), 25(2)(c) or 26(1)(c), (4) or (5) by substituting a different period for the period for the time being specified therein.
 
 ### Delegation of powers
 
@@ -1100,5 +1080,29 @@ from all or any of the provisions of this Act, subject to such terms or conditio
 
 ### Transitional and savings provisions
 
-42\. The Minister may, within 2 years of the date of commencement of this Act, prescribe such transitional and savings provisions as he may consider necessary or expedient.
+42\. The Minister may, within 2 years of 1st April 2005, prescribe such transitional and savings provisions as he may consider necessary or expedient.
 
+## LEGISLATIVE HISTORY
+
+Building and Construction Industry Security of Payment Act
+
+(CHAPTER 30B)
+
+This Legislative History is provided for the convenience of users of the Building and Construction Industry Security of Payment Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 57 of 2004—Building and Construction Industry Security of Payment Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 54/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|16 November 2004|
+||Date of commencement|3 January 2005|
+|||(sections 1, 28 and 40)|
+|2.|**Act 57 of 2004—Building and Construction Industry Security of Payment Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 54/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|16 November 2004|
+||Date of commencement|1 April 2005|
+|||(sections 2, 3, 4, 29 to 39, 41 and 42 and Parts II to V)|
+|3.|**2006 Revised Edition—Building and Construction Industry Security of Payment Act**|
+||Date of operation|31 January 2006|
