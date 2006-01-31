@@ -1,16 +1,14 @@
-**Police Force Act 2004**
+**Police Force Act**
 
-**(No. 24 of 2004)**
+**(CHAPTER 235)**
 
 **Table of Contents**
 
 [**Long Title**](#Police-Force-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -48,7 +46,7 @@
 
 - [18 Power of Minister to substitute another officer for Commissioner or Deputy Commissioner](#Power-of-Minister-to-substitute-another-officer-for-Commissioner-or-Deputy-Commissioner)
 
-[**Part III DUTIES AND DISCIPLINE OF POLICE OFfICERS**](#Part-III)
+[**Part III DUTIES AND DISCIPLINE OF POLICE OFFICERS**](#Part-III)
 
 [**Division 1  Duties of police officers**](#Division-1--Duties-of-police-officers)
 
@@ -294,63 +292,45 @@
 
 - [120 Police General Orders, etc., need not be published inGazette](#Police-General-Orders-etc-need-not-be-published-inGazette)
 
-- [121 Repeal](#Repeal)
+- [121 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
-- [122 Savings and transitional provisions](#Savings-and-transitional-provisions)
+- [122 References in other written laws and documents](#References-in-other-written-laws-and-documents)
 
-- [123 Consequential amendments to other written laws](#Consequential-amendments-to-other-written-laws)
+[**THE SCHEDULE Disciplinary Offences**](#THE-SCHEDULE)
 
-[**FIRST SCHEDULE Disciplinary Offences**](#FIRST-SCHEDULE-Disciplinary-Offences)
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-[**SECOND SCHEDULE Consequential Amendments to Other Written Laws**](#SECOND-SCHEDULE-Consequential-Amendments-to-Other-Written-Laws)
+[**Legislative History**](#Legislative-History)
 
-REPUBLIC OF SINGAPORE
+[**Comparative Table**](#Comparative-Table)
 
-GOVERNMENT GAZETTE
+# Police Force Act
 
-ACTS SUPPLEMENT
+(CHAPTER 235)
 
-Published by Authority
+(Original Enactment: Act 24 of 2004)
 
-NO. 28]
+REVISED EDITION 2006
 
-Friday, September 10
+(31st January 2006)
 
-[2004
+An Act relating to the Singapore Police Force and to provide for its organisation and discipline and other related matters.
 
-The following Act was passed by Parliament on 15th June 2004 and assented to by the President on 24th June 2004:—
-
-Police Force Act 2004
-
-(No. 24 of 2004)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-24th June 2004.
-
-Date of Commencement: 12th October 2004
-
-An Act to repeal and re-enact with amendments the law relating to the Singapore Police Force and to provide for its organisation and discipline and other related matters and to make consequential amendments to certain other written laws.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[12th October 2004]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Police Force Act 2004 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Police Force Act.
+
+[Police Force 1985 Ed., s. 1]
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
-
-“appointed day” means the date of commencement of this Act;
 
 “arms” includes firearm;
 
@@ -374,7 +354,7 @@ PRELIMINARY
 
 “detention barrack” means any building or part thereof set aside by the Commissioner for the purpose of persons serving any sentence of detention under this Act;
 
-“disciplinary offence” means a service offence specified in the First Schedule;
+“disciplinary offence” means a service offence specified in the Schedule;
 
 “disciplinary officer” means —
 
@@ -394,7 +374,7 @@ PRELIMINARY
 
 “Public Service Commission” means the Public Service Commission established under the Constitution;
 
-“repealed Act” means the Police Force Act (Cap. 235) repealed by this Act;
+“repealed Act” means the Police Force Act (Cap. 235, 1985 Ed.) repealed by this Act;
 
 “security activity” includes any one or more of the following activities:
 
@@ -414,7 +394,7 @@ PRELIMINARY
 
 (b) in relation to a special police officer, an offence punishable under Part VIII;
 
-“share” includes stock except where a distinction between stock and shares is expressed or implied;
+“share” includes stock except where a distinction between stock and share is expressed or implied;
 
 “Special Constabulary Regulations” means regulations made under section 85;
 
@@ -424,7 +404,9 @@ PRELIMINARY
 
 “voting share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50).
 
-(2) In this Act and any regulations made thereunder, unless the context otherwise requires, any reference to any rank of police officer or special police officer shall include a police officer or special police officer appointed to that rank on a probationary basis.
+(2) In this Act and any regulations made thereunder, unless the context otherwise requires, any reference to any rank of police officer or special police officer shall include a reference to a police officer or special police officer appointed to that rank on a probationary basis.
+
+[Police Force 1985 Ed., s. 2]
 
 ## PART II
 
@@ -432,7 +414,7 @@ CONSTITUTION AND ADMINISTRATION OF POLICE FORCE
 
 ### Constitution of Police Force
 
-3\.—(1) As from the appointed day, the Singapore Police Force established and maintained under the repealed Act shall continue and be deemed to be established and maintained under this Act.
+3\.—(1) As from 12th October 2004, the Singapore Police Force established and maintained under the repealed Act shall continue and be deemed to be established and maintained under this Act.
 
 (2) The Police Force shall consist of such number of —
 
@@ -443,6 +425,8 @@ CONSTITUTION AND ADMINISTRATION OF POLICE FORCE
 as are from time to time approved by the Minister.
 
 (3) The Police Force shall also be known as the Polis Repablik Singapura.
+
+[Police Force 1985 Ed., ss. 2 and 7]
 
 ### Functions and duties of Police Force
 
@@ -492,15 +476,21 @@ as are from time to time approved by the Minister.
 
 (p) executing such other duties as may by any written law be imposed on a police officer.
 
+[Police Force 1985 Ed., ss. 8 and 38]
+
 ### Administration of Police Force by Commissioner
 
 5\. The Commissioner shall be responsible to the Minister for the supreme command, direction and administration of the Police Force, and of all persons appointed or engaged for police duties under the provisions of this Act.
+
+[Police Force 1985 Ed., s. 3]
 
 ### Appointment of Commissioner
 
 6\.—(1) Subject to subsection (2), the President may, on the advice of the Cabinet, appoint a public officer to be the Commissioner of Police.
 
 (2) The President may refuse to make an appointment, or to revoke the appointment, of the Commissioner if the President, acting in his discretion, does not concur with the advice or recommendation of the Cabinet.
+
+[Police Force 1985 Ed., s. 9]
 
 ### Appointment, etc., of other police officers
 
@@ -512,9 +502,13 @@ as are from time to time approved by the Minister.
 
 (b) be promoted or advanced in grade by the Commissioner.
 
+[Police Force 1985 Ed., ss. 9 and 10(1), (2) and (3)]
+
 ### Warrant card
 
 8\. A warrant card shall be issued to every police officer and shall be evidence of his appointment under this Act.
+
+[Police Force 1985 Ed., s. 12]
 
 ### Engagement of police officers
 
@@ -530,11 +524,15 @@ as are from time to time approved by the Minister.
 
 (4) Notwithstanding anything in any other law, every person who is at least 18 years of age shall be deemed competent to enter into an engagement under subsection (1) or (2).
 
+[Police Force 1985 Ed., s. 16]
+
 ### Re-engagements of police officers below inspector
 
 10\.—(1) Every police officer below the rank of inspector who has completed the period of service for which he was engaged may offer himself for re-engagement for a further period and, if approved, may be re-engaged on such terms and conditions as may be prescribed by the Police Regulations.
 
 (2) Every such re-engagement shall be evidenced in writing signed by the person re-engaged and by a commanding officer or other officer authorised thereto under the Police Regulations.
+
+[Police Force 1985 Ed., s. 17]
 
 ### Continuance of service
 
@@ -544,9 +542,13 @@ as are from time to time approved by the Minister.
 
 (3) No police officer who is deemed to be under an engagement from month to month under subsection (1) shall resign from the Police Force unless he has given in the prescribed manner not less than one month’s notice in writing to the Commissioner or the commanding officer under whom he is serving, as the case may be.
 
+[Police Force 1985 Ed., s. 18(1) and (2)]
+
 ### Resignation during term of engagement
 
 12\. A police officer may resign from the Police Force in such manner as may be specified in his terms of engagement.
+
+[Police Force 1985 Ed., s. 22]
 
 ### Temporary constables
 
@@ -562,6 +564,8 @@ as are from time to time approved by the Minister.
 
 (6) A temporary constable shall have and may exercise all the powers and privileges of, and shall be subject to the same authority and discipline as, a constable.
 
+[Police Force 1985 Ed., s. 19]
+
 ### Discharge of police officers below inspector
 
 14\.—(1) The Commissioner or a commanding officer may discharge any police officer below the rank of inspector who has less than 10 years’ service, whether such officer is serving on agreement or is under engagement to serve from month to month.
@@ -571,6 +575,8 @@ as are from time to time approved by the Minister.
 (3) Where a police officer has been discharged under this section, the Pensions Act (Cap. 225) or the Home Affairs Uniformed Services Superannuation Act (Cap. 126B), as the case may be, shall apply to the officer so far as any of its provisions or subsidiary legislation thereunder relate to the grant of any pension, gratuity, benefit or other allowance under that Act.
 
 (4) Nothing in this section shall be deemed to affect or prejudice any power of dismissal from the Police Force conferred by or under this Act.
+
+[Police Force 1985 Ed., s. 20(2) to (5)]
 
 ### Delivery of Government property on leaving Police Force
 
@@ -587,6 +593,8 @@ as are from time to time approved by the Minister.
 (a) be ascertained in a summary manner by the same court by which the person was convicted; and
 
 (b) be recoverable as a fine.
+
+[Police Force 1985 Ed., s. 24]
 
 ### Police officer not to be member of trade union, etc.
 
@@ -616,11 +624,15 @@ as are from time to time approved by the Minister.
 
 (b) be exempt from the provisions of the Societies Act (Cap. 311).
 
+[Police Force 1985 Ed., s. 21 (1) to (4)]
+
 ### Delegation of powers
 
 17\.—(1) Except as otherwise specially provided in section 18, any act or thing which may be done, ordered or performed by the Commissioner under this Act or any other written law may, subject to the orders and directions of the Commissioner, be done, ordered or performed by a police officer not below the rank of superintendent.
 
 (2) Except as otherwise specially provided in section 18 or any other written law, where the Deputy Commissioner is absent or incapable for any reason of performing or discharging any of his duties under any written law, the Commissioner may authorise any police officer not below the rank of assistant superintendent to exercise the powers conferred and perform the duties imposed on the Deputy Commissioner by any written law.
+
+[Police Force 1985 Ed., s. 4]
 
 ### Power of Minister to substitute another officer for Commissioner or Deputy Commissioner
 
@@ -640,9 +652,11 @@ to grant such licences in the place of or in addition to the Commissioner or the
 
 “grant”, when used with reference to a licence, includes issue or give.
 
+[Police Force 1985 Ed., ss. 72, 73 (1) and (2) and 74]
+
 ## PART III
 
-DUTIES AND DISCIPLINE OF POLICE OFfICERS
+DUTIES AND DISCIPLINE OF POLICE OFFICERS
 
 Division 1 —
 
@@ -652,9 +666,13 @@ Duties of police officers
 
 19\. Every police officer shall, before entering on the duties of his office, take an oath of office and oath of allegiance prescribed by the Oaths and Declarations Act (Cap. 211) in such manner as may be prescribed in the Police Regulations.
 
+[Police Force 1985 Ed., s. 23]
+
 ### Liability of police officers to serve
 
 20\. All police officers shall be bound to serve in any part of Singapore or on board any vessel or aircraft in the service of the Government, or to proceed to and serve outside Singapore as provided in Part V.
+
+[Police Force 1985 Ed., s. 6]
 
 ### Police officers to obey lawful orders
 
@@ -672,13 +690,19 @@ Duties of police officers
 
 (3) All powers granted to and duties imposed by any written law on any police officer shall be exercised or performed in accordance with the Police Regulations, the Police General Orders, any Force Orders and any Standing Orders made under this Act.
 
+[Police Force 1985 Ed., ss. 5 and 26]
+
 ### Police officer to be armed
 
 22\. Every police officer shall be provided with such arms, ammunition and other accoutrements as may be necessary for the effectual discharge of his duties.
 
+[Police Force 1985 Ed., s. 15]
+
 ### Police officer to be deemed on duty
 
 23\. Every police officer shall, for the purposes of this Act, be deemed to be always on duty when required to act as such and shall perform the duties and exercise the powers granted to him under this Act or any other written law at any time and every place where he may be doing duty.
+
+[Police Force 1985 Ed., s. 14]
 
 ### Police officer not exempted from ordinary process of law
 
@@ -690,6 +714,8 @@ Duties of police officers
 
 (4) No pay shall accrue to any police officer in respect of any period during which he is undergoing any sentence of imprisonment.
 
+[Police Force 1985 Ed., s. 36]
+
 ### Non-liability for act done under authority of warrant
 
 25\.—(1) Where the defence to any suit instituted against a police officer is that the act complained of was done in obedience to a warrant purporting to be issued by any competent authority, the court shall, upon production of the warrant containing the signature of such authority and upon proof that the act complained of was done in obedience to such warrant, enter judgment in favour of such police officer.
@@ -697,6 +723,8 @@ Duties of police officers
 (2) No proof of the signature of such authority shall be required unless the court has reason to doubt the genuineness thereof.
 
 (3) Where it is proved that the signature on a warrant card is not genuine, judgment shall nevertheless be given in favour of such police officer if it is proved that, at the time when the act complained of was committed, the police officer believed on reasonable grounds that such signature was genuine.
+
+[Police Force 1985 Ed., s. 37]
 
 ### Road barriers
 
@@ -720,6 +748,8 @@ Duties of police officers
 
 (4) No police officer shall be liable for any loss or damage to any vehicle, or for any injury to the driver or rider or any other occupant of the vehicle, as a result of the driver or rider of the vehicle failing to obey any police officer acting under this section.
 
+[Police Force 1985 Ed., s. 39]
+
 ### Employment of police officers for private purposes
 
 27\.—(1) Any person may apply to the Commissioner, in such form and manner as may be prescribed, to employ police officers for —
@@ -735,6 +765,8 @@ Duties of police officers
 (b) the number of police officers to be placed at the disposal of the applicant for such service, and the conditions of service.
 
 (3) The Government shall not be liable for any loss or damage to property, whether owned by the applicant or by any other person, consequent on the employment of police officers as provided in this section.
+
+[Police Force 1985 Ed., s. 77]
 
 Division 2 —
 
@@ -762,6 +794,8 @@ Discipline of police officers
 
 (b) the full amount of the salary or the part thereof withheld during the period of interdiction, if the police officer is acquitted.
 
+[Police Force 1985 Ed., s. 11]
+
 ### Police officer not to resign when disciplinary proceedings are pending
 
 30\. Notwithstanding any other provision of this Act, no police officer below the rank of inspector shall, without the written permission of the Commissioner, resign from the Police Force during the period —
@@ -771,6 +805,8 @@ Discipline of police officers
 (b) after notice of intention to prefer disciplinary charges or to prosecute him for a service offence is given to the police officer; or
 
 (c) where he has appealed against any finding of guilt, punishment, conviction or sentence, when the appeal is not withdrawn but pending.
+
+[Police Force 1985 Ed., s. 35]
 
 ### Disciplinary proceedings
 
@@ -800,6 +836,8 @@ and the disciplinary officer shall record his reasons for the dismissal.
 
 (3) Where any case has been referred to the Public Service Commission under subsection (1), any reference in this Act to a disciplinary officer shall include a reference to the Public Service Commission.
 
+[Police Force 1985 Ed., s. 29]
+
 ### Power to secure attendance of witnesses
 
 33\.—(1) A police officer who is —
@@ -808,7 +846,7 @@ and the disciplinary officer shall record his reasons for the dismissal.
 
 (b) a disciplinary officer authorised to conduct disciplinary proceedings for,
 
-any alleged service offence committed by another police officer or a special police officer may apply to a Magistrate for a summons to secure the attendance before the police officer, as a witness, of any person who appears to be acquainted with the circumstances of the case.
+any alleged service offence committed by another police officer or a special police officer, may apply to a Magistrate for a summons to secure the attendance before the police officer, as a witness, of any person who appears to be acquainted with the circumstances of the case.
 
 (2) Subject to subsection (3), a Magistrate may issue a summons accordingly and such witness shall —
 
@@ -819,6 +857,8 @@ any alleged service offence committed by another police officer or a special pol
 (c) produce all documents relevant to such case.
 
 (3) Nothing in this section shall be construed to compel any person to disclose any matter or produce any document which would have been protected from disclosure or production, as the case may be, on the ground of privilege if the proceedings had been held in any court.
+
+[Police Force 1985 Ed., s. 53]
 
 Division 3 —
 
@@ -831,6 +871,8 @@ Service offences
 (2) For the purposes of this section, a person deserts if he, being on duty, or having been notified to report for duty, without leave does not attend at or leaves his place of duty in circumstances which show that he has the intention to remain permanently absent without leave or of not returning to his duty.
 
 (3) Any police officer may arrest without warrant any person where he believes or suspects, on reasonable grounds, that the person is committing or has committed a service offence under subsection (1).
+
+[Police Force 1985 Ed., s. 25 (1) and (2)]
 
 ### Connivance at desertion
 
@@ -870,6 +912,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+[Police Force 1985 Ed., s. 31]
+
 ### Attempt to commit service offence
 
 38\.—(1) Any person who, with intent to commit any service offence, by act or omission behaves in a manner that is, or that he believes to be, a substantial step towards the commission of the service offence shall be deemed, for the purpose of this section, to have attempted to commit the service offence.
@@ -894,7 +938,7 @@ the commission of a service offence shall be guilty of the service offence.
 
 ### Disciplinary offences
 
-40\.—(1) The service offences specified in the First Schedule are disciplinary offences.
+40\.—(1) The service offences specified in the Schedule are disciplinary offences.
 
 (2) Subject to subsections (3), (4) and (5), where after having been given a reasonable opportunity to be heard in accordance with this Act and the Police Regulations, a police officer below the rank of inspector is found guilty of a disciplinary offence by a disciplinary officer who is a commanding officer, the disciplinary officer may order that such police officer be subject to any one of the following punishments:
 
@@ -922,7 +966,7 @@ the commission of a service offence shall be guilty of the service offence.
 
 (b) the forfeiture of not more than one month of the police officer’s salary.
 
-(5) In addition to any other punishment specified in subsection (2), a disciplinary officer may make the following orders where he finds any police officer below the rank of inspector guilty of the following disciplinary offences:
+(5) In addition to any punishment specified in subsection (2), a disciplinary officer may make the following orders where he finds any police officer below the rank of inspector guilty of the following disciplinary offences:
 
 (a) in the case of the disciplinary offence of absence without leave, an order of forfeiture of the police officer’s salary in respect of the period of absence or such lesser period as the commanding officer may consider fit; or
 
@@ -934,7 +978,7 @@ the commission of a service offence shall be guilty of the service offence.
 
 (8) The decision of the Commissioner on an appeal under subsection (6) shall be final.
 
-(9) Where a police officer below the rank of inspector is ordered to be retired under subsection (2) his service shall, for the purposes of the Pensions Act (Cap. 225) or the Home Affairs Uniformed Services Superannuation Act (Cap. 126B), be deemed to have been terminated or retired in the public interest.
+(9) Where a police officer below the rank of inspector is ordered to be retired under subsection (2), his service shall, for the purposes of the Pensions Act (Cap. 225) or the Home Affairs Uniformed Services Superannuation Act (Cap. 126B), be deemed to have been terminated or retired in the public interest.
 
 (10) The value or amount ordered to be made good by a police officer under subsection (5)(b) —
 
@@ -944,6 +988,8 @@ the commission of a service offence shall be guilty of the service offence.
 
 (c) shall be payable to the Police Fund established under Part X.
 
+[Police Force 1985 Ed., ss. 27 and 34]
+
 ### Prosecutions for disciplinary offences
 
 41\.—(1) A police officer below the rank of inspector accused of any of the disciplinary offences may, instead of being dealt with under section 40, be prosecuted in court.
@@ -951,6 +997,8 @@ the commission of a service offence shall be guilty of the service offence.
 (2) A police officer referred to in subsection (1) shall, on conviction of a disciplinary offence for which no penalty is expressly provided for in this Act, be liable to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 (3) No prosecution under this section shall be instituted without the previous sanction in writing of the Public Prosecutor.
+
+[Police Force 1985 Ed., s. 30]
 
 ### Reduction or dismissal after conviction
 
@@ -964,9 +1012,13 @@ may, unless the conviction is set aside on appeal, be reduced in rank or dismiss
 
 (2) Where a police officer is dismissed following any conviction referred to in subsection (1), the Commissioner or a commanding officer may order the forfeiture of any arrears of pay due to him.
 
+[Police Force 1985 Ed., s. 32]
+
 ### Reduction to constable before dismissal
 
 43\. Any police officer below the rank of inspector dismissed from the Police Force shall be reduced to the rank of constable before dismissal.
+
+[Police Force 1985 Ed., s. 33]
 
 ## PART IV
 
@@ -1090,6 +1142,8 @@ order such number of police officers or special police officers as to him seems 
 
 (8) In this section, “overseas operation” includes any overseas operation involving peacekeeping, the maintenance or restoration of law and order or functioning of government institutions or similar activities (whether or not in conjunction with personnel from one or more other countries).
 
+[Police Force 1985 Ed., ss. 40, 41(1), 42, 43 and 65(3)]
+
 ### Police officers serving outside Singapore to remain subject to this Act
 
 57\. Subject to section 59, a police officer or special police officer who is —
@@ -1118,7 +1172,7 @@ shall not cease to be subject to this Act by reason only of his being so tempora
 
 (b) a unit of the Police Force shall be deemed to form part of a United Nations force from the time the unit leaves Singapore to undertake duties with the United Nations force until the time the unit returns to Singapore; and
 
-(c) a person is deemed to be a member of any overseas operation referred to in section 56(1)(c) from the time the person leaves Singapore to undertake duties with the overseas operation until the time he returns to Singapore.
+(c) a person shall be deemed to be a member of any overseas operation referred to in section 56(1)(c) from the time he leaves Singapore to undertake duties with the overseas operation until the time he returns to Singapore.
 
 ### Offences and misconduct during overseas service
 
@@ -1138,7 +1192,7 @@ shall not cease to be subject to this Act by reason only of his being so tempora
 
 (4) If any police officer or special police officer to whom this section applies does, or omits to do, any act outside Singapore, and that act or omission would, if it occurred in Singapore, be a disciplinary offence for the purposes of this Act —
 
-(a) the person may be investigated and, if appropriate, proceeded against under this Act by way of disciplinary proceedings under Part III or VIII, whichever is applicable, and punished, in the same manner as if the act or omission has occurred in Singapore; and
+(a) the person may be investigated and, if appropriate, proceeded against under this Act by way of disciplinary proceedings under Part III or VIII, whichever is applicable, and punished, in the same manner as if the act or omission had occurred in Singapore; and
 
 (b) for that purpose, this Act and either the Police Regulations or the Special Constabulary Regulations, as the case may be, shall apply to him with any necessary modifications.
 
@@ -1174,11 +1228,15 @@ and any reference in this Part to an aircraft in flight shall include a referenc
 
 (3) For the purpose of subsection (2), the reference to a country or the territorial limits thereof shall be construed as including a reference to the territorial waters, if any, of that country.
 
+[Police Force 1985 Ed., s. 48A]
+
 ### Appointment and training of air marshals
 
 61\.—(1) The Commissioner may appoint any police officer to serve as an air marshal on board any Singapore aircraft.
 
 (2) The Commissioner shall provide for the appropriate training and supervision for all air marshals.
+
+[Police Force 1985 Ed., s. 48B]
 
 ### Commissioner may require deployment of air marshals on board Singapore aircraft
 
@@ -1187,6 +1245,8 @@ and any reference in this Part to an aircraft in flight shall include a referenc
 (2) An order made under subsection (1) may require the operator of the Singapore aircraft to provide seating for the air marshals deployed on the passenger flight to which the order relates without regard to the availability of seats on the flight and at no cost to the Government or the air marshals.
 
 (3) Any person who fails to comply with an order made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[Police Force 1985 Ed., s. 48C]
 
 ### Powers, rights, immunities and duties of air marshals on board Singapore aircraft outside Singapore
 
@@ -1206,6 +1266,8 @@ as when on service in Singapore.
 
 (3) Where a female person is to be searched and a female air marshal is not available to conduct the search, the search may be conducted by any female person who is requested by an air marshal to conduct the search.
 
+[Police Force 1985 Ed., s. 48D]
+
 ## PART VII
 
 PUBLIC OFFICERS WITH POLICE POWERS
@@ -1218,13 +1280,15 @@ PUBLIC OFFICERS WITH POLICE POWERS
 
 (3) For the purposes of subsection (2) —
 
-(a) a Commercial Affairs Officer shall have all the powers of investigation conferred on police officers in relation to the investigation of offences under the Criminal Procedure Code (Cap. 68) or under such other written law as the Minister may, by notification in theGazette, prescribe and shall be deemed to be an officer not below the rank of inspector; and
+(a) a Commercial Affairs Officer shall have all the powers of investigation conferred on police officers in relation to the investigation of offences under the Criminal Procedure Code (Cap. 68) or under such other written law as the Minister may, by notification in theGazette, prescribe, and shall be deemed to be an officer not below the rank of inspector; and
 
 (b) section 25 shall apply to a Commercial Affairs Officer as if he were a police officer.
 
 (4) The Commissioner may, in his discretion, confer on one or more Commercial Affairs Officers as he may determine the powers of an Assistant Superintendent of Police under such written law as the Minister may, by notification in theGazette, prescribe.
 
 (5) Apart from this section and section 25, this Act shall not apply to a Commercial Affairs Officer.
+
+[Police Force 1985 Ed., s. 58A]
 
 ### Intelligence officers
 
@@ -1236,9 +1300,15 @@ PUBLIC OFFICERS WITH POLICE POWERS
 
 (c) deemed to be a public servant within the meaning of the Penal Code (Cap. 224) when carrying out his functions and duties as a police officer.
 
+[17/2005]
+
 (2) Section 25 shall apply, with the necessary modifications, to an intelligence officer as if the references in that section to a police officer were references to an intelligence officer.
 
+[17/2005]
+
 (3) Apart from this section and section 25, this Act shall not apply to any intelligence officer.
+
+[17/2005]
 
 (4) In this section, “intelligence officer” means —
 
@@ -1248,7 +1318,9 @@ PUBLIC OFFICERS WITH POLICE POWERS
 
 and who is designated by the Minister as an intelligence officer for the purposes of this section.
 
-[17/2005 wef 15/07/2005]
+[17/2005]
+
+[Police Force 1985 Ed., s. 58B]
 
 ## PART VIII
 
@@ -1260,7 +1332,7 @@ Organisation and duties of Special Constabulary
 
 ### Constitution of Special Constabulary
 
-66\.—(1) As from the appointed day, the Special Constabulary constituted under the repealed Act shall continue and be deemed to be constituted under this Act.
+66\.—(1) As from 12th October 2004, the Special Constabulary constituted under the repealed Act shall continue and be deemed to be constituted under this Act.
 
 (2) The Special Constabulary shall consist of such number of —
 
@@ -1274,6 +1346,8 @@ as the Minister may decide.
 
 (3) The Special Constabulary shall consist of such ranks as are from time to time organised by or under the authority of the Minister.
 
+[Police Force 1985 Ed., s. 59]
+
 ### Special Constabulary has police powers and duties
 
 67\.—(1) Each of the special police officers specified in subsection (2) shall —
@@ -1286,15 +1360,17 @@ as the Minister may decide.
 
 as if he were a police officer of corresponding rank.
 
-(2) A special police officer shall have the powers and duties and be entitled to the protection and privileges of police officers referred in subsection (1) for the following duration:
+(2) A special police officer shall have the powers and duties and be entitled to the protection and privileges of police officers referred to in subsection (1) for the following duration:
 
 (a) in the case of a full-time national serviceman enlisted in the Special Constabulary, from the time his liability to report for enlistment or national service arises until such time as he is lawfully discharged or released;
 
-(b) in the case of an operationally ready national serviceman enlisted in the Special Constabulary, from the time he is ordered to report for enlistment or service (whether or not he has complied with such order) and while in uniform or performing duty in the Special Constabulary under section 14 of the Enlistment Act (Cap. 93), and while called out for mobilised service under sections 16 and 17 of that Act; and
+(b) in the case of an operationally ready national serviceman enlisted in the Special Constabulary, from the time he is ordered to report for enlistment or service (whether or not he has complied with such an order) and while in uniform or performing duty in the Special Constabulary under section 14 of the Enlistment Act (Cap. 93), and while called out for mobilised service under sections 16 and 17 of that Act; and
 
 (c) in the case of a volunteer enrolled under section 68 as a member of the Special Constabulary, during the period he is ordered to report for duty (whether or not he has complied with such an order), or he volunteers for duty to assist the Police Force in the execution of its duties.
 
 (3) Without prejudice to subsections (1) and (2), every special police officer when mobilised for active service under section 73 shall have the same powers and duties and the same protection and immunities as a police officer of corresponding rank.
+
+[Police Force 1985 Ed., ss. 65(2) and 67]
 
 ### Enrolment of volunteers
 
@@ -1304,13 +1380,17 @@ as if he were a police officer of corresponding rank.
 
 (3) A special police officer who is a volunteer may be paid such allowances as the Minister may from time to time authorise.
 
+[Police Force 1985 Ed., ss. 60 and 66]
+
 ### Appointments, promotions and dismissals
 
 69\.—(1) A special police officer not below the rank of assistant superintendent shall be appointed and promoted and may be reduced in rank or grade or dismissed or discharged by the Minister.
 
 (2) A special police officer of or below the rank of inspector shall be appointed and promoted and may be reduced in rank or grade or dismissed or discharged by the Commissioner or the Deputy Commissioner.
 
-(3) No person who has been called up for national service in the Special Constabulary shall be discharged or dismissed under subsection (1) or (2) except with the prior approval of the proper authority appointed under the Enlistment Act (Cap. 93).
+(3) No person who has been called up for national service in the Special Constabulary shall be dismissed or discharged under subsection (1) or (2) except with the prior approval of the proper authority appointed under the Enlistment Act (Cap. 93).
+
+[Police Force 1985 Ed., s. 61]
 
 ### Oath or affirmation
 
@@ -1324,13 +1404,15 @@ as if he were a police officer of corresponding rank.
 
 71\. A warrant card shall be issued to every special police officer and shall be evidence of his appointment under this Act.
 
+[Police Force 1985 Ed., s. 62]
+
 ### Discharge from Special Constabulary
 
 72\.—(1) The Commissioner may discharge any special police officer of or below the rank of inspector if, in the opinion of the Commissioner, it is desirable in the public interest to do so.
 
 (2) A special police officer referred to in section 66(2)(a) or (b) shall be discharged from the Special Constabulary as follows:
 
-(a) from continuous full-time service in the Special Constabulary when he has completed the period of full-time service prescribed by the Enlistment Act (Cap. 93); and
+(a) from continuous full-time service in the Special Constabulary when he has completed the period of full-time service prescribed by the Enlistment Act; and
 
 (b) from operationally ready national service in the Special Constabulary when —
 
@@ -1338,7 +1420,7 @@ as if he were a police officer of corresponding rank.
 
 (ii) the proper authority notifies him that he is released from the Special Constabulary; or
 
-(iii) he ceases to be a person subject to the Enlistment Act.
+(iii) he ceases to be a person subject to the Enlistment Act (Cap. 93).
 
 (3) Any volunteer shall be entitled, except when mobilised under section 73, to be discharged from the Special Constabulary on —
 
@@ -1348,6 +1430,8 @@ as if he were a police officer of corresponding rank.
 
 (4) Nothing in this section shall be deemed to affect or prejudice any power of dismissal from the Special Constabulary conferred by or under this Act.
 
+[Police Force 1985 Ed., s. 64]
+
 ### Mobilisation
 
 73\.—(1) With the permission of the Minister, the Commissioner may mobilise for active service the Special Constabulary or any part thereof to perform either general or special police duties.
@@ -1356,11 +1440,15 @@ as if he were a police officer of corresponding rank.
 
 (3) Every special police officer who is so mobilised shall be bound to assemble at such place and perform such service as the Commissioner or the Deputy Commissioner directs.
 
+[Police Force 1985 Ed., s. 65]
+
 ### Penalty for refusal to serve when mobilised
 
 74\.—(1) Any special police officer mobilised for active service who without reasonable excuse, the proof whereof shall lie on him, refuses or neglects to serve shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 (2) Any police officer may arrest without warrant any person where he believes or suspects, on reasonable grounds, that the person is committing or has committed a service offence under subsection (1).
+
+[Police Force 1985 Ed., s. 68]
 
 Division 2 —
 
@@ -1383,6 +1471,8 @@ Discipline in Special Constabulary
 (3) It shall be a defence for any person charged with an offence under this section to prove that his absence was a result of circumstances over which he had no control.
 
 (4) Any police officer may arrest without warrant any person where he believes or suspects, on reasonable grounds, that the person is committing or has committed a service offence under subsection (1).
+
+[Police Force 1985 Ed., s. 69]
 
 ### Desertion by special police officer
 
@@ -1424,7 +1514,7 @@ Discipline in Special Constabulary
 
 (b) any criminal proceedings, or any disciplinary proceedings under this Part that may lead to his dismissal, discharge or reduction in rank, are contemplated against the special police officer.
 
-(2) Where a special police officer has been interdicted under subsection (1), the Commissioner may order that the whole or such part of the special police officer’s allowance to be withheld during the period of interdiction.
+(2) Where a special police officer has been interdicted under subsection (1), the Commissioner may order that the whole or such part of the special police officer’s allowance be withheld during the period of interdiction.
 
 (3) If the disciplinary proceedings under this Act against a special police officer who is interdicted under subsection (1) do not result in his dismissal or discharge, the special police officer shall be entitled to receive —
 
@@ -1516,7 +1606,7 @@ in accordance with this Act and the Special Constabulary Regulations.
 
 (b) reduction in rank, grade or seniority;
 
-(c) forfeiture of up to 14 days’ of allowance;
+(c) forfeiture of up to 14 days’ allowance;
 
 (d) reprimand;
 
@@ -1532,7 +1622,7 @@ in accordance with this Act and the Special Constabulary Regulations.
 
 (a) reduction in rank, grade or seniority;
 
-(b) forfeiture of up to14 days’ of allowance;
+(b) forfeiture of up to 14 days’ allowance;
 
 (c) stoppage or deferment of increment;
 
@@ -1604,7 +1694,7 @@ as if he is still a member of the Special Constabulary and a special police offi
 
 (ii) the manner in which charges so brought are to be investigated, and the taking of evidence (whether orally or in writing, whether or not on oath and whether in full or in summary or abstract form) for the purpose of investigating or dealing with such charges;
 
-(iii) the addition to, or substitution for, a charge which has been investigated of a new charge for a disciplinary offence disclosed by evidence taken on the investigation and the treating of the investigation as the investigation of the new charge;
+(iii) the addition to, or substitution for, a charge which has been investigated or a new charge for a disciplinary offence disclosed by evidence taken on the investigation and the treating of the investigation as the investigation of the new charge;
 
 (iv) the procedure to be observed in disciplinary proceedings before a disciplinary officer; and
 
@@ -1614,11 +1704,13 @@ as if he is still a member of the Special Constabulary and a special police offi
 
 (h) awards in respect of death and personal injuries;
 
-(i) duties and responsibilities of members called up for national service with the Special Constabulary; and
+(i) duties and responsibilities of members called up for national service with the Special Constabulary;
 
 (j) any other matter which by this Part is required or permitted to be prescribed.
 
 (3) All Special Constabulary Regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+
+[Police Force 1985 Ed., s. 70]
 
 ## PART IX
 
@@ -1642,9 +1734,11 @@ Creation and regulation of Auxiliary Police Forces
 
 (e) to carry out such security activity as may be approved by the Commissioner.
 
+[Police Force 1985 Ed., s. 71(1)]
+
 (2) The Commissioner may, in authorising the creation of an Auxiliary Police Force under subsection (1), impose such conditions as he thinks fit.
 
-(3) Without prejudice to the generality of subsection (2), the conditions that may be imposed under subsection (2) in relation of an Auxiliary Police Force include —
+(3) Without prejudice to the generality of subsection (2), the conditions that may be imposed under subsection (2) in relation to an Auxiliary Police Force include —
 
 (a) restricting the Auxiliary Police Force to carrying out only such security activity as the Commissioner may specify in the authorisation under subsection (1);
 
@@ -1692,15 +1786,15 @@ without the prior written approval of the Minister.
 
 (2) For the purposes of subsection (1), the Minister may prescribe in the Auxiliary Police Forces Regulations the circumstances under which an employer of an Auxiliary Police Force would be considered to be merged or consolidated with, or taken over by, any other person.
 
-(3) No employer of an Auxiliary Police Force (other than the Government or a statutory body) shall, on or after the appointed day, appoint a person as its chief executive officer unless it has obtained the prior approval of the Commissioner.
+(3) No employer of an Auxiliary Police Force (other than the Government or a statutory body) shall, on or after 12th October 2004, appoint a person as its chief executive officer unless it has obtained the prior approval of the Commissioner.
 
 (4) Unless the Minister otherwise approves, the chief executive officer of an employer of an Auxiliary Police Force and at least one-half of its directors shall be citizens of Singapore.
 
-(5) No chief executive officer of an employer of an Auxiliary Police Force who was appointed before the appointed day shall be permitted by the employer to act as such on or after that day unless —
+(5) No chief executive officer of an employer of an Auxiliary Police Force who was appointed before 12th October 2004 shall be permitted by the employer to act as such on or after that date unless —
 
-(a) his appointment as chief executive officer of the employer was approved by the Commissioner before that day; or
+(a) his appointment as chief executive officer of the employer was approved by the Commissioner before that date; or
 
-(b) his appointment as chief executive officer of the employer is approved by the Commissioner on a written application by the employer made within 6 months after the appointed day, or such longer period as the Commissioner may allow.
+(b) his appointment as chief executive officer of the employer is approved by the Commissioner on a written application by the employer made within 6 months after 12th October 2004, or such longer period as the Commissioner may allow.
 
 (6) Where the Commissioner does not approve the appointment of a person as chief executive officer under subsection (3) or (5), the employer of an Auxiliary Police Force concerned shall immediately remove the person from such office.
 
@@ -1714,25 +1808,31 @@ without the prior written approval of the Minister.
 
 ### Controls over ownership of employer of Auxiliary Police Force
 
-88\.—(1) No person shall, on or after the appointed day —
+88\.—(1) No person shall, on or after 12th October 2004 —
 
 (a) become a substantial shareholder of an employer of an Auxiliary Police Force; or
+
+1(b) if he is not a citizen of Singapore, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person (whether or not a citizen of Singapore) with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares of an aggregate of more than 50% of the nominal amount of all voting shares in an employer of an Auxiliary Police Force
+
+1Paragraph (b) of section 88(1) will be deleted and substituted by the following paragraph with effect from 30th January 2006 when item (10) of the Schedule to the Companies (Amendment) Act 2005 (Act 21 of 2005) is brought into operation:
+
+“
 
 (b) if he is not a citizen of Singapore, enter into any agreement or arrangement, whether oral or in writing and whether express or implied, to act together with any other person (whether or not a citizen of Singapore) with respect to the acquisition, holding or disposal of, or the exercise of rights in relation to, their interests in voting shares in an employer of an Auxiliary Police Force, of —
 
 (i) where the employer is a company, an aggregate of more than 50% of the total votes attached to all voting shares in the employer; or
 
-(ii) where the employer is an organisation other than a company, an aggregate of more than 50% of the nominal amount of all voting shares in the employer,
+(ii) where the employer is an organisation other than a company, an aggregate of more than 50% of the nominal amount of all voting shares in the employer,,
 
-[21/2005 wef 30/01/2006]
+”.
 
 without first obtaining the approval of the Minister.
 
 (2) Subject to subsection (4), no person who —
 
-(a) immediately before the appointed day, is a substantial shareholder of an employer of an Auxiliary Police Force shall continue to be a substantial shareholder unless he has, within 6 months after the appointed day, or such longer period as the Minister may allow, applied to the Minister for approval to continue to be such a shareholder; or
+(a) immediately before 12th October 2004, is a substantial shareholder of an employer of an Auxiliary Police Force shall continue to be a substantial shareholder unless he has, within 6 months after 12th October 2004, or such longer period as the Minister may allow, applied to the Minister for approval to continue to be such a shareholder; or
 
-(b) at any time before the appointed day, if he is not a citizen of Singapore, has entered into any agreement or arrangement referred to in subsection (1)(b) shall continue to be a party to such an agreement or arrangement unless he has, within 6 months after that day, or such longer period as the Minister may allow, applied to the Minister for approval to continue to be a party to such an agreement or arrangement.
+(b) at any time before 12th October 2004, if he is not a citizen of Singapore, has entered into any agreement or arrangement referred to in subsection (1)(b) shall continue to be a party to such an agreement or arrangement unless he has, within 6 months after that date, or such longer period as the Minister may allow, applied to the Minister for approval to continue to be a party to such an agreement or arrangement.
 
 (3) The Minister may, in his discretion, approve an application made by any person under subsection (1) or (2) if the Minister is satisfied that —
 
@@ -1838,11 +1938,11 @@ has been infringed, or is being or is likely to be infringed, by an employer of 
 
 the Commissioner may, in writing and without any liability for compensation, do all or any of the following:
 
-(i) direct that employer to comply with the provision of this Part or of any code of practice, any directive issued under section 89(3) or any condition imposed under section 86(2) or (4) or cease infringing that provision, directive or condition, as the case may be;
+(i) direct that employer to comply with the provision of this Part or of any code of practice, any directive issued under section 89(3) or any condition imposed under section 86(2) or (4) or cease infringing that provision, code of practice, directive or condition, as the case may be;
 
 (ii) specify any procedure or action to be observed or taken by that employer;
 
-(iii) require the employer to furnish performance bonds, banker’s guarantees and any other securities for such amounts and on such terms as the Commissioner sees fit;
+(iii) require that employer to furnish performance bonds, banker’s guarantees and any other securities for such amounts and on such terms as the Commissioner sees fit;
 
 (iv) require that employer to modify or terminate any agreement, decision or concerted practice or any other conduct in question;
 
@@ -1856,13 +1956,13 @@ the Commissioner may, in writing and without any liability for compensation, do 
 
 (A) the authorisation for the creation of the Auxiliary Police Force under section 86(1); or
 
-(B) any condition imposed under section 86(2) for any security activity carried out by the Auxiliary Police Force; or
+(B) any condition imposed under section 86(2) for any security activity carried out by the Auxiliary Police Force;
 
 (vii) impose on an employer (other than the Government) a financial penalty not exceeding —
 
-(A) $1 million for each act of infringement (whether continuing or not) of any provision of this Part or a code of practice; or
+(A) $1 million for each act of infringement (whether continuing or not) of any provision of this Part or any code of practice; or
 
-(B) $50,000 for each act of infringement (whether continuing or not) of any directive issued under section 89(3) or a condition imposed under section 86(2) or (4); or
+(B) $50,000 for each act of infringement (whether continuing or not) of any directive issued under section 89(3) or any condition imposed under section 86(2) or (4); or
 
 (viii) impose such other direction or restriction as the Commissioner considers appropriate.
 
@@ -1880,7 +1980,7 @@ the Commissioner may, in writing and without any liability for compensation, do 
 
 (8) Unless otherwise provided or allowed by the Minister, where an appeal is lodged under subsection (7), the act, direction or decision appealed against shall be complied with until the determination of the appeal.
 
-(9) The Minister may confirm, vary or reverse the act, direction or decision of the Commissioner or give such directions in the matter as he thinks fit.
+(9) The Minister may confirm, vary or reverse the act, direction or decision of the Commissioner or give such directions on the matter as he thinks fit.
 
 (10) The decision of the Minister in any appeal under subsection (7) shall be final.
 
@@ -1900,7 +2000,7 @@ is prohibited.
 
 (a) only if the agreement, decision or concerted practice is, or is intended to be, implemented in Singapore; and
 
-(b) whether the agreement, decision or concerted practice is implemented before, on or after the appointed day.
+(b) whether the agreement, decision or concerted practice is implemented before, on or after 12th October 2004.
 
 (3) Subject to this section, any agreement, decision or concerted practice prohibited by subsection (1)(a) is void.
 
@@ -1956,15 +2056,19 @@ after such consultation with their employer as the Commissioner considers necess
 
 (7) Every auxiliary police officer shall comply with every relevant directive issued under section 89(3), and failure to do so shall be a disciplinary offence.
 
+[Police Force 1985 Ed., s. 71(2), (3), (5) and (7)]
+
 ### Conditions of service of auxiliary police officers
 
-93\.—(1) The pay, pensions, welfare and conditions of service of every auxiliary police officer and his day to day duties shall be matters entirely within the jurisdiction of the Government, if he is employed by the Government, or the statutory body, company or other organisation employing him.
+93\.—(1) The pay, pensions, welfare and conditions of service of every auxiliary police officer and his day-to-day duties shall be matters entirely within the jurisdiction of the Government, if he is employed by the Government, or the statutory body, company or other organisation employing him.
 
 (2) The standard arms, ammunition and other accoutrements shall be provided at the expense of the Government or such statutory body, company or organisation, whichever being the employer of the auxiliary police officer.
 
 (3) Section 16 shall apply to auxiliary police officers who are members of an Auxiliary Police Force as it applies to police officers, except that auxiliary police officers shall not be precluded from making representations of the nature mentioned in section 16(4) to the statutory body, company or other organisation employing them.
 
 (4) The Commissioner may, after consultation with the statutory body, company or other organisation that is the employer of an Auxiliary Police Force, second one or more police officers for service with such Force, and the salaries and allowances of those police officers shall, during the secondment, be paid by that statutory body, company or other organisation, as the case may be.
+
+[Police Force 1985 Ed., s. 71(6), (7) and (8)]
 
 ### Cancellation of warrant cards
 
@@ -1974,11 +2078,13 @@ after such consultation with their employer as the Commissioner considers necess
 
 (3) Notwithstanding subsections (1) and (2), the Commissioner may, after prior notice to the employer concerned, in his discretion, cancel at any time the warrant card issued to any auxiliary police officer, who shall thereupon cease to be an auxiliary police officer.
 
+[Police Force 1985 Ed., s. 71(9) to (11)]
+
 ### Discipline of auxiliary police officers
 
 95\.—(1) Subject to subsection (2), an auxiliary police officer accused of any of the offences specified in the Auxiliary Police Forces Regulations may, instead of being punished by the imposition of any of the disciplinary punishments specified in those Regulations, be prosecuted in court, and in such event shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(2) Every auxiliary police officer who deserts shall be guilty of an offence, and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both, in addition to any lesser disciplinary punishment authorised under the Auxiliary Police Forces Regulations.
+(2) Every auxiliary police officer who deserts shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both, in addition to any lesser disciplinary punishment authorised under the Auxiliary Police Forces Regulations.
 
 (3) For the purposes of this section, a person deserts if he —
 
@@ -2001,6 +2107,8 @@ after such consultation with their employer as the Commissioner considers necess
 (2) The Commander shall be accountable to the Commissioner in respect of the discharge of his duties as a Commander of the Auxiliary Police Force and the exercise of police powers by the auxiliary police officers under his charge.
 
 (3) Every Auxiliary Police Force shall be organised in ranks similar to those of the Police Force, and shall be subject to the authority of the Commissioner for the maintenance of law and order, the preservation of public peace and the detection of crimes within the limits of Singapore.
+
+[Police Force 1985 Ed., s. 71(4)]
 
 Division 3 —
 
@@ -2026,7 +2134,7 @@ Mobilisation of Auxiliary Police Forces
 
 (7) Any employer who contravenes subsection (6) shall be guilty of an offence and shall be liable —
 
-(a) on conviction of an offence under subsection (6)(a), to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both, and the court by which he is convicted may order the employer to pay to the dismissed person as compensation a sum not exceeding an amount equal to 3 months remuneration at the rate at which remuneration was last payable to him by the employer; and
+(a) on conviction of an offence under subsection (6)(a), to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both, and the court by which he is convicted may order the employer to pay to the dismissed person as compensation a sum not exceeding an amount equal to 3 months’ remuneration at the rate at which remuneration was last payable to him by the employer; and
 
 (b) on conviction of an offence under subsection (6)(b), to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -2190,7 +2298,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) the appointments and promotions of auxiliary police officers;
 
-(d) the discipline and punishment of auxiliary police officers, including a fine not exceeding $5,000 or imprisonment for a term not exceeding 2 years or to both for any auxiliary police officer who is convicted of an offence under these regulations;
+(d) the discipline and punishment of auxiliary police officers, including a fine not exceeding $5,000 or imprisonment for a term not exceeding 2 years or both for any auxiliary police officer who is convicted of an offence under these regulations;
 
 (e) the uniform and equipment, arms and ammunition to be carried by auxiliary police officers;
 
@@ -2206,11 +2314,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) All Auxiliary Police Forces Regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
+[Police Force 1985 Ed., s. 71(12)]
+
 ### Liability of Government for acts committed by auxiliary police officer
 
 105\.—(1) Any act done or omitted to be done by any auxiliary police officer employed by any statutory body, company or other organisation shall be deemed to be an act done or omitted to be done in the course of his employment with such statutory body, company or other organisation, as the case may be.
 
 (2) The Government shall not be liable for any act done or omitted to be done by any auxiliary police officer who is not employed by the Government.
+
+[Police Force 1985 Ed., s. 71(13)]
 
 ## PART X
 
@@ -2276,6 +2388,8 @@ UNCLAIMED PROPERTY AND ESTATES OF INTESTATES
 
 (b) apply the proceeds of the sale to meet the expenses incurred by the Commissioner in storing and disposing of the property, and pay the balance, if any, to the Consolidated Fund.
 
+[Police Force 1985 Ed., s. 50]
+
 ### Power to administer estates of intestates
 
 109\.—(1) Whenever any person dies leaving movable property in Singapore under $1,000 in value, which property is, in the absence of any person entitled thereto, taken charge of by the police for the purpose of safe custody, the Commissioner may, if he thinks fit, order that property to be delivered, without letters of administration taken out, to any person claiming to be entitled to the whole or any part thereof, if he is satisfied as to the title of the claimant and the value of the property by the oath or affirmation of the claimant, or by such other evidence as he may require.
@@ -2294,9 +2408,13 @@ UNCLAIMED PROPERTY AND ESTATES OF INTESTATES
 
 (6) Notwithstanding anything in this section, where the owner of any movable property appears after it has been disposed under subsection (5) and claims the same, restitution shall be made, on the claim being established to the satisfaction of the Commissioner.
 
+[Police Force 1985 Ed., s. 51]
+
 ### Disposal of valueless unclaimed or intestate property
 
-110\. Notwithstanding sections 108 and 109, where, in the opinion of the Deputy Commissioner, any property referred to in either section is of no appreciable value, or its value is so small as to render impracticable the sale of such property as provided in either section, or as to make it detention in police custody unreasonable in view of the expenses or inconvenience that would thereby be involved, the Deputy Commissioner may order the property to be destroyed or otherwise disposed of as he thinks fit.
+110\. Notwithstanding sections 108 and 109, where, in the opinion of the Deputy Commissioner, any property referred to in either section is of no appreciable value, or its value is so small as to render impracticable the sale of such property as provided in either section, or as to make its detention in police custody unreasonable in view of the expenses or inconvenience that would thereby be involved, the Deputy Commissioner may order the property to be destroyed or otherwise disposed of as he thinks fit.
+
+[Police Force 1985 Ed., s. 52]
 
 ## PART XII
 
@@ -2305,6 +2423,8 @@ MISCELLANEOUS
 ### General penalty
 
 111\. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[Police Force 1985 Ed., s. 58]
 
 ### Offences by bodies corporate, etc.
 
@@ -2392,7 +2512,7 @@ he shall not be liable in respect of that offence to be dealt with and punished 
 
 ### Police Regulations
 
-117\.—(1) The Minister may make such regulations not inconsistent with the provisions of this Act to be called Police Regulations as he may think expedient.
+117\.—(1) The Minister may make such regulations not inconsistent with the provisions of this Act to be called the Police Regulations as he may think expedient.
 
 (2) Without prejudice to any other provisions of this Act, such regulations may provide for —
 
@@ -2428,9 +2548,11 @@ he shall not be liable in respect of that offence to be dealt with and punished 
 
 (4) All regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
+[Police Force 1985 Ed., s. 54]
+
 ### Police General Orders
 
-118\.—(1) The Commissioner may, from time to time, make such orders not inconsistent with the provisions of this Act and of Police Regulations to be called Police General Orders as he may think expedient.
+118\.—(1) The Commissioner may, from time to time, make such orders not inconsistent with the provisions of this Act and of the Police Regulations to be called the Police General Orders as he may think expedient.
 
 (2) Without prejudice to the generality of subsection (1), such Police General Orders may provide for —
 
@@ -2440,7 +2562,7 @@ he shall not be liable in respect of that offence to be dealt with and punished 
 
 (c) instructions and examinations;
 
-(d) inspections, drill, exercises and parades;
+(d) inspections, drills, exercises and parades;
 
 (e) police services and duties of every description and the manner in which they shall be carried out;
 
@@ -2460,31 +2582,33 @@ he shall not be liable in respect of that offence to be dealt with and punished 
 
 (m) such other matters as may be necessary and expedient for preventing abuse or neglect of duty, for rendering the Police Force efficient in the discharge of its duties, and for carrying out the provisions of this Act.
 
+[Police Force 1985 Ed., s. 55]
+
 ### Force Orders and Standing Orders
 
-119\.—(1) The Commissioner may issue orders of a routine nature to be called Force Orders not inconsistent with the provisions of this Act, Police Regulations or Police General Orders for the control, direction and information of the Police Force.
+119\.—(1) The Commissioner may issue orders of a routine nature to be called the Force Orders not inconsistent with the provisions of this Act, Police Regulations or Police General Orders for the control, direction and information of the Police Force.
 
-(2) A commanding officer may issue orders to be called Standing Orders not inconsistent with the provisions of this Act or Police Regulations, Police General Orders or Force Orders for the control, direction and information of the police in his command.
+(2) A commanding officer may issue orders to be called the Standing Orders not inconsistent with the provisions of this Act or Police Regulations, Police General Orders or Force Orders for the control, direction and information of the police in his command.
+
+[Police Force 1985 Ed., s. 56]
 
 ### Police General Orders, etc., need not be published inGazette
 
 120\. It shall not be necessary to publish any Police General Orders, Force Orders or Standing Orders in theGazette.
 
-### Repeal
-
-121\. The Police Force Act (Cap. 235) is repealed.
+[Police Force 1985 Ed., s. 57]
 
 ### Savings and transitional provisions
 
-122\.—(1) On the appointed day, every person who immediately before such day was serving in the Singapore Police Force constituted under the repealed Act shall —
+121\.—(1) On 12th October 2004, every person who immediately before such date was serving in the Singapore Police Force constituted under the repealed Act shall —
 
-(a) be deemed to be transferred to and to become, at the same rank, grade and seniority immediately before such transfer, a member of the Police Force as if he had been engaged or appointed under this Act ; and
+(a) be deemed to be transferred to and to become, at the same rank, grade and seniority immediately before such transfer, a member of the Police Force as if he had been engaged or appointed under this Act; and
 
 (b) enter upon his duties immediately upon such transfer, and the provisions of this Act shall extend to every such person accordingly,
 
 and his service under the repealed Act shall, for all purposes, be deemed to be service under this Act.
 
-(2) On the appointed day, every person who immediately before such day was a member of the Special Constabulary constituted under the provisions of the repealed Act shall —
+(2) On 12th October 2004, every person who immediately before such date was a member of the Special Constabulary constituted under the provisions of the repealed Act shall —
 
 (a) be deemed to be transferred to and to become, at the same rank, grade and seniority immediately before such transfer, a member of the Special Constabulary as if he had been appointed under this Act; and
 
@@ -2492,19 +2616,21 @@ and his service under the repealed Act shall, for all purposes, be deemed to be 
 
 and his service under the repealed Act shall, for all purposes, be deemed to be service under this Act.
 
-(3) On the appointed day —
+(3) On 12th October 2004 —
 
-(a) the Commercial and Industrial Security Corporation Auxiliary Police Force created under the Commercial and Industrial Security Corporation Act (Cap. 47); and
+(a) the Commercial and Industrial Security Corporation Auxiliary Police Force created under the Commercial and Industrial Security Corporation Act (Cap. 47)\*; and
+
+\*The Commercial and Industrial Security Corporation Act (Cap. 47, 1998 Ed.) was repealed by the CISCO (Dissolution) Act 2005 (Act 3 of 2005) with effect from 10th June 2005.
 
 (b) all other Auxiliary Police Forces created under section 71 of the repealed Act,
 
-shall each be deemed to be an Auxiliary Police Force created under Part IX of this Act, and every person who, immediately before the appointed day, is serving in such an Auxiliary Police Force, shall continue as an auxiliary police officer and a member of that Auxiliary Police Force at the same rank, grade and seniority immediately before that day.
+shall each be deemed to be an Auxiliary Police Force created under Part IX of this Act, and every person who, immediately before 12th October 2004, is serving in such an Auxiliary Police Force, shall continue as an auxiliary police officer and a member of that Auxiliary Police Force at the same rank, grade and seniority immediately before that date.
 
-(4) The person who, immediately before the appointed day, is —
+(4) The person who, immediately before 12th October 2004, is —
 
 (a) the Commissioner of Police;
 
-(b) a gazetted officer appointed under section 9 of the repealed Act; or
+(b) a Gazetted officer appointed under section 9 of the repealed Act; or
 
 (c) a subordinate officer appointed under section 10(2) of the repealed Act,
 
@@ -2512,53 +2638,57 @@ shall continue to hold such office as if he were appointed under section 6(1) as
 
 (5) Any notice, order, permission or other document prepared, made, granted or approved by or under the authority of the Commissioner or Deputy Commissioner under the repealed Act or any of its subsidiary legislation shall, so far as it is not inconsistent with the provisions of this Act or any of its subsidiary legislation, continue and be deemed to have been prepared, made, granted or approved under the corresponding provisions of this Act or its subsidiary legislation.
 
-(6) Where anything has been commenced by or on behalf of the Commissioner before the appointed day, such thing may be carried on and completed by or under the authority of the Commissioner under this Act or its subsidiary legislation.
+(6) Where anything has been commenced by or on behalf of the Commissioner before 12th October 2004, such thing may be carried on and completed by or under the authority of the Commissioner under this Act or its subsidiary legislation.
 
 (7) This Act shall not affect —
 
-(a) any disciplinary proceeding or prosecution for a service offence commenced or pending before the appointed day, and every such proceeding may be continued and everything in relation thereto may be done in all respects after that day as if this Act had not been enacted;
+(a) any disciplinary proceeding or prosecution for a service offence commenced or pending before 12th October 2004, and every such proceeding may be continued and everything in relation thereto may be done in all respects after that date as if this Act had not been enacted;
 
-(b) the continued operation or force of any finding or order following a disciplinary proceeding or prosecution for a service offence made before the appointed day; and
+(b) the continued operation or force of any finding or order following a disciplinary proceeding or prosecution for a service offence made before 12th October 2004; and
 
-(c) any right of appeal accrued before the appointed day in respect of any such finding or order, and where the appeal has been made under the repealed Act but has not been dealt with or disposed of immediately before that day, the appeal may be dealt with as if this Act had not been enacted.
+(c) any right of appeal accrued before 12th October 2004 in respect of any such finding or order, and where the appeal has been made under the repealed Act but has not been dealt with or disposed of immediately before that date, the appeal may be dealt with as if this Act had not been enacted.
 
-(8) Sections 108 and 109 shall not apply to any lost or unclaimed property deposited at a police station, and to any movable property of an intestate taken charge of by the police, before the appointed day, and such property shall be dealt with in accordance with the provisions of the repealed Act as if this Act had not been enacted.
+(8) Sections 108 and 109 shall not apply to any lost or unclaimed property deposited at a police station, and to any movable property of an intestate taken charge of by the police, before 12th October 2004, and such property shall be dealt with in accordance with the provisions of the repealed Act as if this Act had not been enacted.
 
-(9) Any subsidiary legislation made under the repealed Act and in force immediately before the appointed day shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
+(9) Any subsidiary legislation made under the repealed Act and in force immediately before 12th October 2004 shall, so far as it is not inconsistent with the provisions of this Act, continue in force as if made under this Act until it is revoked or repealed by subsidiary legislation made under this Act.
 
-(10) For a period of 2 years after the appointed day, the Minister may, by regulations, prescribe such other transitional, incidental and consequential matters arising from the repeal of the repealed Act, as he may consider necessary or expedient.
+(10) For a period of 2 years after 12th October 2004, the Minister may, by regulations, prescribe such other transitional, incidental and consequential matters arising from the repeal of the repealed Act, as he may consider necessary or expedient.
 
-### Consequential amendments to other written laws
+[Police Force 1985 Ed., ss. 75 and 76]
 
-123\.—(1) The provisions of the Acts specified in the first column of the Second Schedule are amended in the manner set out in the second column thereof.
+[122
 
-(2) Any written law or document referring to the repealed Act shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act.
+### References in other written laws and documents
 
-FIRST SCHEDULE
+122\. Any written law or document referring to the repealed Act shall, as far as may be necessary for preserving its effect, be construed as referring or as including a reference to this Act.
+
+[123
+
+## THE SCHEDULE
 
 Sections 2(1), 40(1), 81 and 82
 
 Disciplinary Offences
 
-(1) Absence from duty without leave within the meaning of section 36.
+1\. Absence from duty without leave within the meaning of section 36.
 
-(2) Sleeping on duty.
+2\. Sleeping on duty.
 
-(3) Conduct to the prejudice of good order and discipline.
+3\. Conduct to the prejudice of good order and discipline.
 
-(4) Cowardice in the performance of duty.
+4\. Cowardice in the performance of duty.
 
-(5) Disobedience of Police Regulations, Special Police Regulations, Police General Orders, Force Orders, Standing Orders or any orders of a superior officer whether written or verbal.
+5\. Disobedience of Police Regulations, Special Police Regulations, Police General Orders, Force Orders, Standing Orders or any orders of a superior officer whether written or verbal.
 
-(6) Being unfit for duty through intoxication.
+6\. Being unfit for duty through intoxication.
 
-(7) Insubordination.
+7\. Insubordination.
 
-(8) Abuse of authority by knowingly exceeding his authority over an officer of lower rank.
+8\. Abuse of authority by knowingly exceeding his authority over an officer of lower rank.
 
-(9) Neglect of duty or orders.
+9\. Neglect of duty or orders.
 
-(10) Intentionally rendering or keeping himself unfit for service or duty —
+10. Intentionally rendering or keeping himself unfit for service or duty —
 
 (a) by injuring himself or causing or permitting himself to be injured;
 
@@ -2566,7 +2696,7 @@ Disciplinary Offences
 
 (c) by falsely representing himself to be suffering from a sickness or disability.
 
-(11) Doing any of the following acts in relation to a document which is the property of or is submitted to the Police Force or the Special Constabulary, as the case may be, for any purpose (referred to in this Schedule as a service document) with a view to gaining for himself or another or with intent to deceive another or cause loss to another:
+11. Doing any of the following acts in relation to a document which is the property of or is submitted to the Police Force or the Special Constabulary, as the case may be, for any purpose (referred to in this Schedule as a service document) with a view to gaining for himself or another or with intent to deceive another or cause loss to another:
 
 (a) makes or signs a service document that is false in a material particular;
 
@@ -2578,21 +2708,21 @@ Disciplinary Offences
 
 (e) does not make an entry in a service document that it is his duty to make.
 
-(12) Excess of duty resulting in loss or injury to any other person.
+12\. Excess of duty resulting in loss or injury to any other person.
 
-(13) Wilful destruction or negligent loss of or injury to property belonging to the Government.
+13\. Wilful destruction or negligent loss of or injury to property belonging to the Government.
 
-(14) Misapplies or wastefully expends any property used by, or in the possession or control of, the Police Force or the Special Constabulary, or any mess, club, common room, canteen or association of the Police Force or the Special Constabulary.
+14\. Misapplies or wastefully expends any property used by, or in the possession or control of, the Police Force or the Special Constabulary, or any mess, club, common room, canteen or association of the Police Force or the Special Constabulary.
 
-(15) Stealing or dishonestly misappropriating any property used by, or in the possession or control of, the Police Force or any mess, club, common room, canteen or association of the Police Force or the Special Constabulary, or is concerned in the stealing or dishonest misappropriation of any such property.
+15\. Stealing or dishonestly misappropriating any property used by, or in the possession or control of, the Police Force or any mess, club, common room, canteen or association of the Police Force or the Special Constabulary, or is concerned in the stealing or dishonest misappropriation of any such property.
 
-(16) Receiving any property used by, or in the possession or control of, the Police Force or the Special Constabulary, or any mess, club, common room, canteen or association of the Police Force or the Special Constabulary, knowing such property to have been stolen or to have been dishonestly misappropriated.
+16\. Receiving any property used by, or in the possession or control of, the Police Force or the Special Constabulary, or any mess, club, common room, canteen or association of the Police Force or the Special Constabulary, knowing such property to have been stolen or to have been dishonestly misappropriated.
 
-(17) Escaping from custody or any detention barrack in which he is being held under or under the authority of this Act.
+17\. Escaping from custody or any detention barrack in which he is being held under or under the authority of this Act.
 
-(18) Refusing to obey a lawful order for his arrest, or committing an assault on a police officer who gives the order or a person, whether or not a police officer, who attempts to apprehend him, or take or hold him in custody, in pursuance of the order.
+18\. Refusing to obey a lawful order for his arrest, or committing an assault on a police officer who gives the order or a person, whether or not a police officer, who attempts to apprehend him, or take or hold him in custody, in pursuance of the order.
 
-(19) Failing to do any of the following in relation to any person who is under arrest or in custody for an alleged service offence where he is required by or under this Act to take such action:
+19. Failing to do any of the following in relation to any person who is under arrest or in custody for an alleged service offence where he is required by or under this Act to take such action:
 
 (a) to have the case of the first-mentioned person brought before a commanding officer for investigation;
 
@@ -2600,7 +2730,7 @@ Disciplinary Offences
 
 (c) to release, or to order the release of the first-mentioned person where that person in custody is entitled to be released.
 
-(20) Unlawful release of persons in custody by —
+20. Unlawful release of persons in custody by —
 
 (a) allowing to escape or without authority releasing a person who is delivered into his custody under this Act or whom it is his duty to guard;
 
@@ -2608,7 +2738,7 @@ Disciplinary Offences
 
 (c) conveying anything into a detention barrack with intent to facilitate an escape from that detention barrack.
 
-(21) Commits contempt by —
+21. Commits contempt by —
 
 (a) failing to comply with a summons or an order to attend as a witness at a committee of inquiry or at disciplinary proceedings for a service offence before a disciplinary officer;
 
@@ -2622,113 +2752,75 @@ Disciplinary Offences
 
 (f) wilfully interrupting, obstructing or disturbing any disciplinary proceeding before a disciplinary officer or a committee of inquiry.
 
-(22) Engaging in trade or other employment without the permission of the Commissioner.
+22\. Engaging in trade or other employment without the permission of the Commissioner.
 
-SECOND SCHEDULE
+## LEGISLATIVE SOURCE KEY
 
-Section 123
+Police Force Act
 
-Consequential Amendments to Other Written Laws
+(CHAPTER 235)
 
-First column
+Unless otherwise stated, the abbreviations used in the cross-references are references to the Police Force Act (Chapter 235, 1985 Revised Edition). The references are provided for convenience and are not part of the Act.
 
-Second column
+## LEGISLATIVE HISTORY
 
-(1) Armed and Explosives Act
+Police Force Act
 
+(CHAPTER 235)
 
+This Legislative History is provided for the convenience of users of the Police Force Act. It is not part of this Act.
 
+||||
+|:-|:-|:-|
+|1.|**Act 24 of 2004—Police Force Act 2004**|
+||Date of First Reading|19 May 2004|
+|||(Bill No. 22/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|12 October 2004|
+Note:
 
-(Chapter 13, 2003 Ed.)
+The Police Force Act 2004 repealed and re-enacted with amendments the Police Force Act (Chapter 235, 1985 Revised Edition).
 
-(a) Section 2 (1)
+|2.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
+||Date of First Reading|18 April 2005|
+|||(Bill No. 7/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|15 July 2005|
+|3.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|18 April 2005|
+|||(Bill No. 11/2005 published on 19 April 2005)|
+||Date of Second and Third Readings|16 May 2005|
+||Date of commencement|30 January 2006|
+|4.|**2006 Revised Edition—Police Force Act**|
+||Date of operation|31 January 2006|
+## COMPARATIVE TABLE
 
-Delete the words “any written law” in paragraph (b) of the definition of “authorised person” and substitute the words “the Police Force Act 2004”.
+Police Force Act
 
-(b) Section 3 (1)
+(CHAPTER 235)
 
-Delete the words “, additional constables and peace officers” in paragraph (c) (v) and substitute the words “or any Auxiliary Police Force created under the Police Force Act 2004, and any additional constables and peace officers”.
+The following provisions in the Police Force Act (Act 24 of 2004) have been renumbered by the Law Revision Commissioners in this 2006 Revised Edition.
 
-(2) Commercial and Industrial Security Corporation Act
+This Comparative Table is provided for the convenience of users. It is not part of the Police Force Act.
 
+2006 Ed\. 
 
+Act 24 of 2004 
 
+Omitted
 
-(Chapter 47, 1998 Ed.)
+121 
 
-(a) Section 2
+121 
 
-Delete the definitions “auxiliary police force” and “Commandant”.
+122 
 
-(b) Sections 12 and 14
+Omitted
 
-Repealed.
+123 —(1)
 
-(c) Section 24 (1)
+122 
 
-(i) Insert, at the end of paragraph (e), the word “and”.
-
-(ii) Delete paragraphs (f) and (g).
-
-(3) Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act
-
-
-
-
-(Chapter 65A, 2000 Ed.)
-
-Section 2 (1)
-
-Delete the words “section 58A of the Police Force Act (Cap. 235)” in paragraph (c) of the definition of “authorised officer” and substitute the words “section 64 of the Police Force Act 2004”.
-
-(4) Enlistment Act
-
-
-
-
-(Chapter 93, 2001 Ed.)
-
-(a) Section 21 (1)
-
-Delete the words “section 65 of the Police Force Act (Cap. 235)” in paragraph (b) and substitute the words “section 73 or 97 of the Police Force Act 2004”.
-
-(b) Section 22 (1)
-
-Delete the words “section 65 of the Police Force Act (Cap. 235)” in paragraph (b) and substitute the words “section 73 of the Police Force Act 2004”.
-
-(c) Section 23 (1)
-
-Delete the words “section 65 of the Police Force Act (Cap. 235)” in paragraph (b) and substitute the words “section 73 of the Police Force Act 2004”.
-
-(d) Section 24 (7)
-
-Delete the words “section 65 of the Police Force Act (Cap. 235)” in the definition of “mobilised service” and substitute the words “section 73 or 97 of the Police Force Act 2004”.
-
-(5) Local Forces (Relief of Financial Hardship) Act
-
-
-
-
-(Chapter 165, 1998 Ed.)
-
-The Schedule
-
-Delete item 2 and substitute the following item:
-
-“
-
-2. The Special Constabulary constituted under Part VIII of the Police Force Act 2004.
-
-”.
-
-(6) Mutual Assistance in Criminal Matters Act
-
-
-
-
-(Chapter 190A, 2001 Ed.)
-
-Section 2 (1)
-
-Delete the words “section 58A of the Police Force Act (Cap. 235)” in paragraph (c) of the definition of “authorised officer” and substitute the words “section 64 of the Police Force Act 2004”.
+(2)
 
