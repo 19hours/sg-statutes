@@ -1,16 +1,14 @@
-**Competition Act 2004**
+**Competition Act**
 
-**(No. 46 of 2004)**
+**(CHAPTER 50B)**
 
 **Table of Contents**
 
 [**Long Title**](#Competition-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -190,7 +188,7 @@
 
 - [74 Appeals to High Court and Court of Appeal](#Appeals-to-High-Court-and-Court-of-Appeal)
 
-[**Part V OFFENCeS**](#Part-V)
+[**Part V OFFENCES**](#Part-V)
 
 - [75 Refusal to provide information, etc.](#Refusal-to-provide-information-etc)
 
@@ -244,61 +242,39 @@
 
 [**FOURTH SCHEDULE Exclusions from Section 54 Prohibition**](#FOURTH-SCHEDULE-Exclusions-from-Section-54-Prohibition)
 
-REPUBLIC OF SINGAPORE
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-GOVERNMENT GAZETTE
+[**Legislative History**](#Legislative-History)
 
-ACTS SUPPLEMENT
+# Competition Act
 
-Published by Authority
+(CHAPTER 50B)
 
-NO. 44]
+(Original Enactment: Act 46 of 2004)
 
-Friday, November 19
+REVISED EDITION 2006
 
-[2004
-
-The following Act was passed by Parliament on 19th October 2004 and assented to by the President on 4th November 2004:—
-
-Competition Act 2004
-
-(No. 46 of 2004)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-4th November 2004.
-
-Date of Commencement: 1st January 2005 Parts I and II of, and the First and Second Schedules)
-
-Date of Commencement: 1st September 2005 Part IV
-
-Date of Commencement: 1st January 2006 (Divisions 1, 2, 3 and 5 of Part III, Parts V and VI, Third Schedule)
+(31st January 2006)
 
 An Act to make provision about competition and the abuse of a dominant position in the market; and to establish the Competition Commission of Singapore, to provide for its functions and powers and for matters connected therewith.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st January 2005: Parts I and II and First and Second Schedules ;
+
+1st September 2005: Part IV;
+
+1st January 2006: Parts III (except Division 4), V and VI and Third Schedule ]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Competition Act 2004 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Competition Act.
 
 ### Interpretation
 
 2\.—(1) In this Act, unless the context otherwise requires —
-
-“appointed day” means —
-
-(a) in relation to this Act, the date of commencement of this Act; and
-
-(b) in relation to a particular provision of this Act, the date of commencement of that particular provision;
 
 “block exemption” has the meaning assigned to it in section 36(5);
 
@@ -365,6 +341,8 @@ but includes any vehicle;
 (3) For the purposes of this Act, the power to require information, in relation to information recorded otherwise than in a legible form, includes the power to require a copy of it in a legible form.
 
 (4) Any power conferred on any person by this Act to require information includes the power to require any document which he believes may contain that information.
+
+[Canada Competition, ss. 2 (1) and 91; UK Competition 1998, s. 59 (1), (2) to (4); UK Enterprise 2002, s. 232 (2)]
 
 ## PART II
 
@@ -486,7 +464,7 @@ Financial provisions
 
 ### Financial year
 
-11\. The financial year of the Commission shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Commission shall begin on the appointed day and end on 31st March of the succeeding year.
+11\. The financial year of the Commission shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Commission shall begin on 1st January 2005 and end on 31st March of the succeeding year.
 
 ### Annual estimates
 
@@ -556,7 +534,7 @@ Financial provisions
 
 21\.—(1) The accounts of the Commission shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General (referred to in this Act as the auditor).
 
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Act 4 of 2004).
+(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
 
 (3) The Commission shall, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
 
@@ -606,21 +584,21 @@ Transfer of property, assets, liabilities and employees
 
 ### Transfer to Commission of property, assets and liabilities
 
-24\.—(1) As from the appointed day, such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Market Analysis Division of the Ministry of Trade and Industry (referred to in this Division as the transferred Division) and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the transferred Division shall be transferred to and shall vest in the Commission without further assurance, act or deed.
+24\.—(1) As from 1st January 2005, such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Market Analysis Division of the Ministry of Trade and Industry (referred to in this Division as the transferred Division) and all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the transferred Division shall be transferred to and shall vest in the Commission without further assurance, act or deed.
 
 (2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Commission under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
 
 (3) Any immovable property to be transferred to and vested in the Commission under subsection (1) shall be held by the Commission upon such tenure and subject to such terms and conditions as the President may determine.
 
-(4) Every agreement relating to any of the transferred properties to which the Government was a party immediately before the appointed day, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that day as if —
+(4) Every agreement relating to any of the transferred properties to which the Government was a party immediately before 1st January 2005, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that date as if —
 
 (a) the Commission had been a party to such an agreement; and
 
-(b) for any reference to the Government there was substituted in respect of anything to be done on or after the appointed day a reference to the Commission.
+(b) for any reference to the Government there was substituted in respect of anything to be done on or after 1st January 2005 a reference to the Commission.
 
 ### Transfer of employees
 
-25\.—(1) As from the appointed day, such persons or categories of persons as the Minister may determine who, immediately before that day, were employed by the Government and posted to the transferred Division shall be transferred to the service of the Commission on terms no less favourable than those enjoyed by them immediately prior to their transfer.
+25\.—(1) As from 1st January 2005, such persons or categories of persons as the Minister may determine who, immediately before that date, were employed by the Government and posted to the transferred Division shall be transferred to the service of the Commission on terms no less favourable than those enjoyed by them immediately prior to their transfer.
 
 (2) If any question arises as to whether any person or any category of persons has been transferred to the service of the Commission under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the person or category of persons was or was not so transferred.
 
@@ -644,17 +622,17 @@ Transfer of property, assets, liabilities and employees
 
 ### Existing contracts
 
-28\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before the appointed day to which the Government is a party and relating to the transferred Division or to any person transferred to the service of the Commission under section 25 shall continue in force on and after that day and shall be enforceable by or against the Commission as if the Commission had been named therein or had been a party thereto instead of the Government.
+28\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st January 2005 to which the Government is a party and relating to the transferred Division or to any person transferred to the service of the Commission under section 25 shall continue in force on and after that date and shall be enforceable by or against the Commission as if the Commission had been named therein or had been a party thereto instead of the Government.
 
 ### Continuation and completion of disciplinary proceedings and other legal proceedings
 
-29\.—(1) Where, on the appointed day, any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Commission, the proceedings shall be carried on and completed by the Commission.
+29\.—(1) Where, on 1st January 2005, any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Commission, the proceedings shall be carried on and completed by the Commission.
 
-(2) Where, on the appointed day, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that day.
+(2) Where, on 1st January 2005, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
 
 (3) Any order, ruling or direction made by a committee under this section shall be treated as an order, a ruling or a direction of the Commission and have the same force or effect as if it had been made by the Commission pursuant to the authority vested in the Commission under this Act.
 
-(4) Any proceedings or cause of action pending or existing immediately before the appointed day by or against the Government, or any person acting on its behalf, in relation to —
+(4) Any proceedings or cause of action pending or existing immediately before 1st January 2005 by or against the Government, or any person acting on its behalf, in relation to —
 
 (a) the transferred Division;
 
@@ -710,7 +688,7 @@ General
 
 this Part shall apply to such party, agreement, abuse of dominant position or merger if such agreement, abuse or merger infringes or has infringed any prohibition in this Part.
 
-(2) Insofar as this Part applies to an industry or a sector of industry that is subject to the regulation and control of another regulatory authority —
+(2) In so far as this Part applies to an industry or a sector of industry that is subject to the regulation and control of another regulatory authority —
 
 (a) the exercise of powers by that other regulatory authority shall not be construed as derogating from the exercise of powers by the Commission; and
 
@@ -740,6 +718,8 @@ as the Minister may, by order published in theGazette, prescribe.
 
 (6) In this section, “statutory body” means a body corporate established by or under any written law.
 
+[India Competition 2002, s. 32]
+
 Division 2 —
 
 Agreements, etc., preventing, restricting or distorting competition
@@ -760,15 +740,19 @@ Agreements, etc., preventing, restricting or distorting competition
 
 (e) make the conclusion of contracts subject to acceptance by the other parties of supplementary obligations which, by their nature or according to commercial usage, have no connection with the subject of such contracts.
 
-(3) Any provision of any agreement or any decision which is prohibited by subsection (1) shall be void on or after the appointed day to the extent that it infringes that subsection.
+(3) Any provision of any agreement or any decision which is prohibited by subsection (1) shall be void on or after 1st January 2006 to the extent that it infringes that subsection.
 
 (4) Unless the context otherwise requires, a provision of this Act which is expressed to apply to, or in relation to, an agreement shall be read as applying, with the necessary modifications, equally to, or in relation to, a decision by an association of undertakings or a concerted practice.
 
-(5) Subsection (1) shall apply to agreements, decisions and concerted practices implemented before, on or after the appointed day.
+(5) Subsection (1) shall apply to agreements, decisions and concerted practices implemented before, on or after 1st January 2006.
+
+[UK Competition 1998, s. 2 (1), (2), (4), (5) and (6)]
 
 ### Excluded agreements
 
 35\. The section 34 prohibition shall not apply to such matter as may be specified in the Third Schedule.
+
+[UK Competition 1998, s. 3 (1)]
 
 ### Block exemptions
 
@@ -785,6 +769,8 @@ Agreements, etc., preventing, restricting or distorting competition
 (4) An agreement which falls within a category specified in a block exemption order shall be exempt from the section 34 prohibition.
 
 (5) An exemption under this section is referred to in this Part as a block exemption.
+
+[UK Competition 1998, s. 6]
 
 ### Block exemption orders
 
@@ -804,6 +790,8 @@ Agreements, etc., preventing, restricting or distorting competition
 
 (5) In this section, “specified” means specified in a block exemption order.
 
+[UK Competition 1998, ss. 6 and 8 (6)]
+
 ### Opposition to block exemptions
 
 38\.—(1) A block exemption order may provide that a party to an agreement which does not qualify for the block exemption created by the order, but satisfies specified criteria, may notify the Commission of the agreement for the purposes of subsection (2).
@@ -822,6 +810,8 @@ Agreements, etc., preventing, restricting or distorting competition
 
 “specified” means specified in a block exemption order.
 
+[UK Competition 1998, s. 7]
+
 ### Procedure for block exemptions
 
 39\.—(1) Before making a recommendation under section 36(1), the Commission shall —
@@ -831,6 +821,8 @@ Agreements, etc., preventing, restricting or distorting competition
 (b) consider any representations made to the Commission regarding its proposed recommendation.
 
 (2) If the Minister proposes to give effect to such a recommendation subject to modifications, he shall inform the Commission of the proposed modifications and take into account any comments made by the Commission.
+
+[UK Competition 1998, s. 8 (1) and (2)]
 
 ### Variation and revocation of block exemption orders
 
@@ -843,6 +835,8 @@ Agreements, etc., preventing, restricting or distorting competition
 (a) inform the Commission of the proposed variation or revocation; and
 
 (b) take into account any comments made by the Commission.
+
+[UK Competition 1998, s. 8 (3) to (5)]
 
 ### Criteria for block exemptions
 
@@ -857,6 +851,8 @@ but which does not —
 (i) impose on the undertakings concerned restrictions which are not indispensable to the attainment of those objectives; or
 
 (ii) afford the undertakings concerned the possibility of eliminating competition in respect of a substantial part of the goods or services in question.
+
+[UK Competition 1998, s. 9]
 
 ### Requests for Commission to examine agreements
 
@@ -875,6 +871,8 @@ but which does not —
 (i) has given a direction withdrawing an exclusion; or
 
 (ii) is considering whether to give such a direction.
+
+[UK Competition 1998, s. 12]
 
 ### Notification for guidance
 
@@ -895,6 +893,8 @@ but which does not —
 (b) ending with such date as may be specified in a notice in writing given to the applicant by the Commission when the application has been determined.
 
 (5) The date specified in a notice under subsection (4)(b) shall not be earlier than the date on which the notice is given.
+
+[UK Competition 1998, s. 13]
 
 ### Notification for decision
 
@@ -917,6 +917,8 @@ but which does not —
 (b) ending with such date as may be specified in a notice in writing given to the applicant by the Commission when the application has been determined.
 
 (4) The date specified in a notice under subsection (3)(b) shall not be earlier than the date on which the notice is given.
+
+[UK Competition 1998, s. 14]
 
 ### Effect of guidance
 
@@ -942,7 +944,7 @@ but which does not —
 
 (a) it takes action under this Part with respect to the agreement in one of the circumstances mentioned in subsection (2);
 
-(b) it considers it likely that the agreement will infringe the section 34 prohibition; and
+(b) it considers that it is likely that the agreement will infringe the section 34 prohibition; and
 
 (c) it gives notice in writing to the party on whose application the guidance was given that it is removing the immunity as from the date specified in its notice.
 
@@ -953,6 +955,8 @@ but which does not —
 (b) which was provided to it by a party to the agreement,
 
 was incomplete, false or misleading in a material particular, the date specified in a notice under subsection (4)(c) may be earlier than the date on which the notice is given.
+
+[UK Competition 1998, s. 15]
 
 ### Effect of decision that section 34 prohibition has not been infringed
 
@@ -982,6 +986,8 @@ was incomplete, false or misleading in a material particular, the date specified
 
 was incomplete, false or misleading in a material particular, the date specified in a notice under subsection (4)(c) may be earlier than the date on which the notice is given.
 
+[UK Competition 1998, s. 16]
+
 Division 3 —
 
 Abuse of dominant position
@@ -1002,9 +1008,13 @@ Abuse of dominant position
 
 (3) In this section, “dominant position” means a dominant position within Singapore or elsewhere.
 
+[UK Competition 1998, s. 18]
+
 ### Excluded cases
 
 48\. The section 47 prohibition shall not apply to such matter as may be specified in the Third Schedule.
+
+[UK Competition 1998, s. 19 (1)]
 
 ### Requests for Commission to consider conduct
 
@@ -1016,6 +1026,8 @@ Abuse of dominant position
 
 (b) by the Commission, in considering such an application.
 
+[UK Competition 1998, s. 20]
+
 ### Notification for guidance
 
 50\.—(1) A person who applies for conduct to be considered under this section shall —
@@ -1025,6 +1037,8 @@ Abuse of dominant position
 (b) apply to it for guidance.
 
 (2) On an application under this section, the Commission may give the applicant guidance as to whether or not, in its view, the conduct is likely to infringe the section 47 prohibition.
+
+[UK Competition 1998, s. 21]
 
 ### Notification for decision
 
@@ -1039,6 +1053,8 @@ Abuse of dominant position
 (a) whether the section 47 prohibition has been infringed; and
 
 (b) if it has not been infringed, whether that is because of the effect of an exclusion.
+
+[UK Competition 1998, s. 22]
 
 ### Effect of guidance
 
@@ -1070,6 +1086,8 @@ Abuse of dominant position
 
 was incomplete, false or misleading in a material particular, the date specified in a notice under subsection (4)(c) may be earlier than the date on which the notice is given.
 
+[UK Competition 1998, s. 23]
+
 ### Effect of decision that section 47 prohibition has not been infringed
 
 53\.—(1) This section shall apply to conduct if the Commission has determined an application under section 51 by making a decision that the conduct has not infringed the section 47 prohibition.
@@ -1098,9 +1116,13 @@ was incomplete, false or misleading in a material particular, the date specified
 
 was incomplete, false or misleading in a material particular, the date specified in a notice under subsection (4)(c) may be earlier than the date on which the notice is given.
 
+[UK Competition 1998, s. 24]
+
 Division 4 —
 
-Mergers
+Mergers1
+
+1Division 4 of Part III of this Act (sections 54 to 60) was not in operation at the time of this Revised Edition
 
 ### Mergers
 
@@ -1154,15 +1176,19 @@ Mergers
 
 (ii) is not for the purpose of determining the manner in which any activity of the other undertaking, being an activity that could affect competition in markets for goods or services in Singapore, are carried on.
 
-(10) In subsection (9), ’’specified period’’ means —
+(10) In subsection (9), “specified period” means —
 
 (a) the period of 12 months from the date on which control of the other undertaking was acquired; or
 
 (b) if in a particular case the undertaking shows that it is not reasonably possible to effect the disposal concerned within the period referred to in paragraph (a), within such longer period as the Commission determines and specifies with respect to that case.
 
+[UK Enterprise 2002, s. 22 (1) (b); Ireland Competition 2002, s. 16]
+
 ### Excluded mergers
 
 55\. The section 54 prohibition shall not apply to any merger specified in the Fourth Schedule.
+
+[UK Competition 1998, s. 19 (1)]
 
 ### Requests for Commission to consider merger
 
@@ -1174,6 +1200,8 @@ Mergers
 
 (b) by the Commission, in considering such an application.
 
+[UK Competition 1998, s. 20]
+
 ### Notification for guidance
 
 57\.—(1) A party to a merger which applies for the merger to be considered under this section shall —
@@ -1183,6 +1211,8 @@ Mergers
 (b) apply to it for guidance.
 
 (2) On an application under this section, the Commission may give the applicant guidance as to whether or not, in its view, the merger is likely to infringe the section 54 prohibition.
+
+[UK Competition 1998, s. 21]
 
 ### Notification for decision
 
@@ -1209,6 +1239,8 @@ Mergers
 (5) Where the Minister exempts a merger under subsection (3), the Commission may make a decision under subsection (2)(b)(ii).
 
 (6) The Minister may revoke the exemption of a merger granted under subsection (3) if he has reasonable grounds for suspecting that the information on which he based his decision was incomplete, false or misleading in a material particular.
+
+[UK Competition 1998, s. 22]
 
 ### Effect of guidance
 
@@ -1240,6 +1272,8 @@ Mergers
 
 was incomplete, false or misleading in a material particular, the date specified in a notice under subsection (4)(c) may be earlier than the date on which the notice is given.
 
+[UK Competition 1998, s. 23]
+
 ### Effect of decision that section 54 prohibition has not been infringed
 
 60\.—(1) This section shall apply to a merger if the Commission has determined an application under section 58 by making a decision that the merger has not infringed the section 54 prohibition.
@@ -1268,6 +1302,8 @@ was incomplete, false or misleading in a material particular, the date specified
 
 was incomplete, false or misleading in a material particular, the date specified in a notice under subsection (4)(c) may be earlier than the date on which the notice is given.
 
+[UK Competition 1998, s. 24]
+
 Division 5 —
 
 Enforcement
@@ -1282,11 +1318,15 @@ Enforcement
 
 (4) Guidelines published under this section shall not be binding on the Commission.
 
+[UK Competition 1998, s. 52 (6)]
+
 ### Power to investigate
 
 62\.—(1) The Commission may conduct an investigation if there are reasonable grounds for suspecting that the section 34 prohibition, the section 47 prohibition or the section 54 prohibition has been infringed.
 
 (2) For the purpose of subsection (1), the Commission may appoint an inspector to conduct the investigation.
+
+[UK Competition 1998, s. 25]
 
 ### Power when conducting investigation
 
@@ -1320,6 +1360,8 @@ Enforcement
 
 (b) falling within a category which is specified, or described, in the notice.
 
+[UK Competition 1998, s. 26]
+
 ### Power to enter premises without warrant
 
 64\.—(1) Any officer of the Commission who is authorised by the Commission to do so (an investigating officer) and any inspector may enter any premises in connection with an investigation under section 62.
@@ -1346,13 +1388,13 @@ Enforcement
 
 (4) Where subsection (3) applies, the power of entry conferred by subsection (1) shall be exercised —
 
-(a) in the case of an investigating officer, upon production of —
+(a) in the case of an investigating officer , upon production of —
 
 (i) evidence of his authorisation; and
 
 (ii) a document containing the information referred to in subsection (2)(b) and (c); and
 
-(b) in the case of an inspector, upon production of —
+(b) in the case of an inspector , upon production of —
 
 (i) evidence of his appointment as an inspector; and
 
@@ -1380,7 +1422,9 @@ Enforcement
 
 (f) take any step which appears to be necessary for the purpose of preserving or preventing interference with any document which he considers relates to any matter relevant to the investigation.
 
-[40/2005 wef 01/01/2006]
+[40/2005]
+
+[UK Competition 1998, s. 27]
 
 ### Power to enter premises under warrant
 
@@ -1476,6 +1520,8 @@ as the case may be;
 
 “occupier”, in relation to any premises, means a person whom the named officer reasonably believes is the occupier of those premises.
 
+[UK Competition 1998, ss. 28 (1) to (5) and (7) and 29]
+
 ### Self-incrimination and savings for professional legal advisers
 
 66\.—(1) A person is not excused from disclosing any information or document to the Commission or, as the case may be, to an inspector or investigating officer, under a requirement made of him under any provision of this Act on the ground that the disclosure of the information or document might tend to incriminate him.
@@ -1494,7 +1540,9 @@ as the case may be;
 
 (4) A professional legal adviser who refuses to disclose the information or produce the document or other material referred to in subsection (3) shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, that privileged communication was made.
 
-[40/2005 wef 01/01/2006]
+[40/2005]
+
+[SFA 2002 Ed., s. 153]
 
 ### Interim measures
 
@@ -1550,9 +1598,11 @@ the Commission proposes to make a decision that the section 34 prohibition, the 
 
 (6) The Minister may revoke the exemption of a merger granted under subsection (3) if he has reasonable grounds for suspecting that the information on which he based his decision was incomplete, false or misleading in a material particular.
 
+[UK Competition 1998, s. 31]
+
 ### Enforcement of decision of Commission
 
-69\.—(1) Where the Commission has made a decision that an agreement infringes the section 34 prohibition, conduct infringes the section 47 prohibition or a merger infringes the section 54 prohibition, the Commission may give to such person as it thinks appropriate such directions as it considers appropriate to bring the infringement to an end, and where necessary, requiring that person to take such action as is specified in the direction to eliminate the harmful effect of such infringement and to prevent the recurrence of such infringement.
+69\.—(1) Where the Commission has made a decision that any agreement infringes the section 34 prohibition, any conduct infringes the section 47 prohibition or any merger infringes the section 54 prohibition, the Commission may give to such person as it thinks appropriate such directions as it considers appropriate to bring the infringement to an end, and where necessary, requiring that person to take such action as is specified in the direction to eliminate the harmful effect of such infringement and to prevent the recurrence of such infringement.
 
 (2) A direction referred to in subsection (1) may, in particular, include provisions —
 
@@ -1582,6 +1632,8 @@ the Commission proposes to make a decision that the section 34 prohibition, the 
 
 70\. The Commission shall, within 14 days of its making any decision or direction under this Part, notify any person affected by such decision or direction.
 
+[Gas 2002 Ed., s. 79]
+
 ## PART IV
 
 APPEALS
@@ -1596,7 +1648,7 @@ General
 
 (1A) Any person, other than a person referred to in subsection (1), to whom the Commission has given a direction under section 67 or 69 may appeal within the prescribed period to the Board against, or with respect to, that direction.
 
-[40/2005 wef 01/01/2006]
+[40/2005]
 
 (2) Except in the case of an appeal against the imposition, or the amount, of a financial penalty, the making of an appeal under this section shall not suspend the effect of the decision to which the appeal relates.
 
@@ -1652,6 +1704,8 @@ Competition Appeal Board
 
 (g) generally for the better carrying out of the provisions of this Part.
 
+[Income Tax 2004 Ed., s. 78]
+
 ### Powers and decisions of Board
 
 73\.—(1) The Board shall, by notice to the Commission and the appellant, specify the date on and the place at which the appeal shall be heard.
@@ -1690,6 +1744,8 @@ Competition Appeal Board
 
 (11) The Board shall notify the appellant of its decision in respect of his appeal and the reasons for its decision.
 
+[Gas 2002 Ed., s. 85 (1) to (7) and (10); UK Competition 1998, Sch. 8 Part I, Para. 3 (2) to (4)]
+
 ### Appeals to High Court and Court of Appeal
 
 74\.—(1) An appeal against, or with respect to, a decision of the Board made under section 73 shall lie to the High Court —
@@ -1708,9 +1764,11 @@ Competition Appeal Board
 
 (4) There shall be such further right of appeal from decisions of the High Court under this section as exists in the case of decisions made by that Court in the exercise of its original civil jurisdiction.
 
+[Income Tax 2004 Ed., s. 81 (4) to (5); UK Competition 1998, s. 49 (1)]
+
 ## PART V
 
-OFFENCeS
+OFFENCES
 
 ### Refusal to provide information, etc.
 
@@ -1734,6 +1792,8 @@ it shall be a defence for him to prove that he had a reasonable excuse for faili
 
 (4) Failure to comply with a requirement imposed under section 63 or 64 shall not be an offence if the person imposing the requirement has failed to act in accordance with that section.
 
+[UK Competition 1998, s. 42 (1) to (4)]
+
 ### Destroying or falsifying documents
 
 76\. Any person who, having been required to produce a document under section 63, 64 or 65 —
@@ -1743,6 +1803,8 @@ it shall be a defence for him to prove that he had a reasonable excuse for faili
 (b) causes or permits its destruction, disposal, falsification or concealment,
 
 shall be guilty of an offence.
+
+[UK Competition 1998, s. 43 (1)]
 
 ### False or misleading information
 
@@ -1759,6 +1821,8 @@ shall be guilty of an offence.
 (b) recklessly provides any information to another person which is false or misleading in a material particular,
 
 knowing that the information is to be used for the purpose of providing information to the Commission, an investigating officer or an inspector or any person authorised, appointed or employed to assist the Commission, investigating officer or inspector, in connection with any function or duty of the Commission, investigating officer or inspector under this Act, shall be guilty of an offence.
+
+[UK Competition 1998, s. 44 (1) and (2)]
 
 ### Obstruction of officer of Commission, etc.
 
@@ -1872,6 +1936,8 @@ MISCELLANEOUS
 
 (3) A District Court shall have jurisdiction to enforce any direction in accordance with subsection (2) regardless of the monetary amount involved.
 
+[AML 1999 Ed., s. 53 (2) to (4)]
+
 ### Rights of private action
 
 86\.—(1) Any person who suffers loss or damage directly as a result of an infringement of the section 34 prohibition, the section 47 prohibition or the section 54 prohibition shall have a right of action for relief in civil proceedings in a court under this section against any undertaking which is or which has at the material time been a party to such infringement.
@@ -1916,6 +1982,8 @@ MISCELLANEOUS
 
 (9) Nothing in this section shall be construed as conferring on any party to an agreement which infringes the section 34 prohibition a right of action for relief.
 
+[Ireland Competition 1991, s. 6 (1) and (3); UK Competition 1998, s. 47A (1), (5) to (7) and (9)]
+
 ### Co-operation between Commission and other regulatory authorities on competition matters
 
 87\.—(1) The Commission may enter into any agreement with any regulatory authority for the purposes of —
@@ -1940,7 +2008,9 @@ MISCELLANEOUS
 
 “issue of competition between undertakings” includes an issue of competition between undertakings that arises generally in the sector of activity in relation to which the Commission or the regulatory authority may exercise powers and such an issue that falls, or could fall, to be the subject of the exercise by the Commission or the regulatory authority of powers in particular circumstances;
 
-“party” means a party to a co-operation agreement and a reference to another party (whether that expression or the expression ’’the other party’’ is used) shall, where there are 2 or more other parties to the agreement, be construed as a reference to one or more of those other parties or each of them, as appropriate.
+“party” means a party to a co-operation agreement and a reference to another party (whether that expression or the expression “other party” is used) shall, where there are 2 or more other parties to the agreement, be construed as a reference to one or more of those other parties or each of them, as appropriate.
+
+[Ireland Competition 2002, s. 34 (1), (3) and (12)]
 
 ### Co-operation between Commission and foreign competition bodies
 
@@ -1960,6 +2030,8 @@ MISCELLANEOUS
 
 (4) In this section, “foreign competition body” means a person in whom there are vested functions under the law of another country or territory with respect to the enforcement or the administration of provisions of law of that country or territory concerning competition between undertakings (whether in a particular sector of the economy of that country or territory or throughout that economy generally).
 
+[Ireland Competition 2002, s. 46]
+
 ### Preservation of secrecy
 
 89\.—(1) Subject to subsection (5), every specified person shall preserve, and aid in the preserving of, secrecy with regard to —
@@ -1970,7 +2042,7 @@ MISCELLANEOUS
 
 (c) all matters relating to the identity of persons furnishing information to the Commission,
 
-that may come to his knowledge in the performance of his functions and discharge of his duties under this Act and shall not communicate any such matter to any person, except insofar as such communication —
+that may come to his knowledge in the performance of his functions and discharge of his duties under this Act and shall not communicate any such matter to any person, except in so far as such communication —
 
 (i) is necessary for the performance of any such function or discharge of any such duty; or
 
@@ -2026,6 +2098,8 @@ that may come to his knowledge in the performance of his functions and discharge
 
 (d) a member of the Board or any person authorised, appointed or employed to assist the Board.
 
+[Imports and Exports 1996 Ed., s. 31 (1), (5) and (6); UK Competition 1998, s. 56]
+
 ### Protection from personal liability
 
 90\. No action, suit or other legal proceedings shall lie personally against —
@@ -2064,7 +2138,9 @@ for anything done (including any statement made) or omitted to be done in good f
 
 (b) make and do all acts and applications in respect of the civil proceedings on behalf of the Commission.
 
-[40/2005 wef 01/01/2006]
+[40/2005]
+
+[ACRA 2005 Ed., s. 33]
 
 ### Amendment of Third and Fourth Schedules
 
@@ -2095,6 +2171,8 @@ for anything done (including any statement made) or omitted to be done in good f
 (iii) the turnover of all or any party involved in a merger (determined in such manner as may be prescribed); and
 
 (g) anything which may be prescribed or is required to be prescribed under this Act.
+
+[UK Competition 1998, s. 53 (2) (a)]
 
 ### Transitional provisions
 
@@ -2376,7 +2454,7 @@ Vertical agreements
 
 (2) In this paragraph, “vertical agreement” means any agreement entered into between 2 or more undertakings each of which operates, for the purposes of the agreement, at a different level of the production or distribution chain, and relating to the conditions under which the parties may purchase, sell or resell certain goods or services and includes provisions contained in such agreements which relate to the assignment to the buyer or use by the buyer of intellectual property rights, provided that those provisions do not constitute the primary object of the agreement and are directly related to the use, sale or resale of goods or services by the buyer or its customers.
 
-[S 870/2005 wef 01/01/2006]
+[UK Competition 1998, Sch. 3 Paras. 4, 5, 6 and 7]
 
 Agreements with net economic benefit
 
@@ -2391,8 +2469,6 @@ but which does not —
 (i) impose on the undertakings concerned restrictions which are not indispensable to the attainment of those objectives; or
 
 (ii) afford the undertakings concerned the possibility of eliminating competition in respect of a substantial part of the goods or services in question.
-
-[S 870/2005 wef 01/01/2006]
 
 Provisions directly related and necessary to implementation of mergers
 
@@ -2420,5 +2496,132 @@ Exclusions from Section 54 Prohibition
 
 (b) any code of practice issued under any written law relating to competition.
 
-2\. The section 54 prohibition shall not apply to any merger involving any undertaking relating to any specified activity as defined in paragraph 6(2) of the Third Schedule.
+[S870/2005]
 
+2. The section 54 prohibition shall not apply to any merger involving any undertaking relating to any specified activity as defined in paragraph 6(2) of the Third Schedule.
+
+*This Schedule was not in operation at the time of this Revised Edition.
+
+## LEGISLATIVE SOURCE KEY
+
+Competition Act
+
+(CHAPTER 50B)
+
+Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+
+ACRA 2005 Ed.
+
+:
+
+Singapore Accounting and Corporate Regulatory Authority Act (Chapter 2A, 2005 Revised Edition)
+
+AML 1999 Ed.
+
+:
+
+Singapore Administration of Muslim Law Act (Chapter 3, 1999 Revised Edition)
+
+Canada Competition
+
+:
+
+Canada Competition Act (Chapter 34)
+
+Gas 2002 Ed.
+
+:
+
+Singapore Gas Act (Chapter 116A, 2002 Revised Edition)
+
+Imports and Exports 1996 Ed.
+
+:
+
+Singapore Regulation of Imports and Exports Act (Chapter 272A, 1996 Revised Edition)
+
+Income Tax 2004 Ed.
+
+:
+
+Singapore Income Tax Act (Chapter 134, 2004 Revised Edition)
+
+India Competition 2002
+
+:
+
+India Competition Act 2002 (No. 12 of 2003)
+
+Ireland Competition 1991
+
+:
+
+Ireland Competition Act 1991 (No. 24 of 1991)
+
+Ireland Competition 2002
+
+:
+
+Ireland Competition Act 2002 (No. 14 of 2002)
+
+SFA 2002 Ed.
+
+:
+
+Singapore Securities and Futures Act (Chapter 289, 2002 Revised Edition)
+
+UK Competition 1998
+
+:
+
+UK Competition Act 1998 (Chapter 41)
+
+UK Enterprise 2002
+
+:
+
+UK Enterprise Act 2002 (Chapter 40)
+
+## LEGISLATIVE HISTORY
+
+Competition Act
+
+(CHAPTER 50B)
+
+This Legislative History is provided for the convenience of users of the Competition Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 46 of 2004—Competition Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 44/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Dates of commencement|1 January 2005|
+|||(Parts I and II and First and Second Schedules)|
+|2.|**Act 46 of 2004—Competition Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 44/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|1 September 2005|
+|||(Part IV)|
+|3.|**Act 46 of 2004—Competition Act 2004**|
+||Date of First Reading|21 September 2004|
+|||(Bill No. 44/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Dates of commencement|1 January 2006|
+|||(Parts III (except Division 4), V and VI and Third Schedule)|
+|4.|**Act 40 of 2005—Competition (Amendment) Act 2005**|
+||Date of First Reading|17 October 2005|
+|||(Bill No. 32/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|21 November 2005|
+||Date of commencement|1 January 2006|
+|5.|**G. N. No. S 870/2005—Competition Act (Amendment of Third Schedule) Order 2005**|
+||Date of commencement|1 January 2006|
+|6.|**Act 23 of 2007—Competition (Amendment) Act 2007**|
+||Date of First Reading|9 April 2007|
+|||(Bill No. 11/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|21 May 2007|
+||Dates of commencement|1st January 2006|
+|||(Section 23)|
+|7.|**2006 Revised Edition—Competition Act**|
+||Date of operation|31 January 2006|
