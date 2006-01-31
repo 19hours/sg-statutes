@@ -1,16 +1,14 @@
-**Plant Varieties Protection Act 2004**
+**Plant Varieties Protection Act**
 
-**(No. 22 of 2004)**
+**(CHAPTER 232A)**
 
 **Table of Contents**
 
 [**Long Title**](#Plant-Varieties-Protection-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part I PRELIMINARY**](#Part-I)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -40,7 +38,7 @@
 
 - [13 Application for grant of protection](#Application-for-grant-of-protection)
 
-- [14 Priority resulting from foreign applications](#Priority-resulting-from-foreign-applications)
+- [14 Priority resulting from foreign application](#Priority-resulting-from-foreign-application)
 
 - [15 Publication](#Publication)
 
@@ -50,23 +48,23 @@
 
 - [18 Corresponding examination](#Corresponding-examination)
 
-- [19 Withdrawal or lapse of applications](#Withdrawal-or-lapse-of-applications)
+- [19 Withdrawal or lapse of application](#Withdrawal-or-lapse-of-application)
 
 - [20 Provisional protection](#Provisional-protection)
 
 [**Part IV GRANT AND REVOCATION OF PROTECTION**](#Part-IV)
 
-- [21 Making of grants of protection](#Making-of-grants-of-protection)
+- [21 Making of grant of protection](#Making-of-grant-of-protection)
 
-- [22 Conditions for grants of protection](#Conditions-for-grants-of-protection)
+- [22 Conditions for grant of protection](#Conditions-for-grant-of-protection)
 
 - [23 Varieties bred or discovered and developed by 2 or more persons independently](#Varieties-bred-or-discovered-and-developed-by-2-or-more-persons-independently)
 
 - [24 Term of grant of protection](#Term-of-grant-of-protection)
 
-- [25 Grounds of invalidity of grants of protection](#Grounds-of-invalidity-of-grants-of-protection)
+- [25 Grounds of invalidity of grant of protection](#Grounds-of-invalidity-of-grant-of-protection)
 
-- [26 Cancellation of grants of protection](#Cancellation-of-grants-of-protection)
+- [26 Cancellation of grant of protection](#Cancellation-of-grant-of-protection)
 
 - [27 Renunciation of grantee’s right](#Renunciation-of-grantee’s-right)
 
@@ -140,47 +138,31 @@
 
 [**THE SCHEDULE Plant Genera and Species to Which Act Applies**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-GOVERNMENT GAZETTE
+[**Legislative History**](#Legislative-History)
 
-ACTS SUPPLEMENT
+# Plant Varieties Protection Act
 
-Published by Authority
+(CHAPTER 232A)
 
-NO. 21]
+(Original Enactment: Act 22 of 2004)
 
-Friday, June 25
+REVISED EDITION 2006
 
-[2004
-
-The following Act was passed by Parliament on 15th June 2004 and assented to by the President on 24th June 2004:—
-
-Plant Varieties Protection Act 2004
-
-(No. 22 of 2004)
-
-I assent.
-
-S R NATHAN,
-
-President.
-
-24th June 2004.
-
-Date of Commencement: 1st July 2004
+(31st January 2006)
 
 An Act to provide for the protection of plant varieties.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1st July 2004]
 
 ## PART I
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act may be cited as the Plant Varieties Protection Act 2004 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act may be cited as the Plant Varieties Protection Act.
 
 ### Interpretation
 
@@ -188,7 +170,7 @@ PRELIMINARY
 
 “applicant”, in relation to any application, means the person by whom or on whose behalf the application is made;
 
- “application” means an application for a grant of protection;
+“application” means an application for a grant of protection;
 
 “breeder”, in relation to any plant variety, means —
 
@@ -242,15 +224,21 @@ PRELIMINARY
 
 “UPOV member” means a state or an intergovernmental party to the Convention which is a member of the International Union for the Protection of New Varieties of Plants constituted pursuant to the Convention.
 
+[HK Plant Ord. 1997, s. 2; ICPNVP 1991, Art. 1 (iv); Aust. Plant Act 1994, s. 3]
+
 ### Act to bind Government
 
 3\. This Act shall bind the Government but nothing in this Act shall render the Government liable to be prosecuted for an offence.
+
+[Patents 1995 Ed., s. 3; Trade Marks 1999 Ed., s. 100]
 
 ### Application of Act to certain plants
 
 4\.—(1) This Act only applies to the plant genera and species listed in the Schedule.
 
 (2) The Minister may, by notification in theGazette, amend the Schedule.
+
+[HK Plant Ord. 1997, s. 4]
 
 ## PART II
 
@@ -265,6 +253,8 @@ ADMINISTRATION
 (3) There shall be one or more Assistant Registrars of Plant Varieties.
 
 (4) The Registrar and all the other officers under this section shall be appointed by the Minister.
+
+[HK Plant Ord. 1997, s. 5]
 
 ### Delegation by Registrar
 
@@ -344,7 +334,9 @@ APPLICATION FOR GRANT OF PROTECTION
 
 (b) notify the applicant of the publication.
 
-### Priority resulting from foreign applications
+[Sweden Plant Act 1997, Art. 2]
+
+### Priority resulting from foreign application
 
 14\.—(1) If —
 
@@ -364,17 +356,19 @@ the breeder may, when making the application under this Act, claim a right of pr
 
 (3) The breeder shall be allowed a period of 2 years after the expiration of the period referred to in subsection (1)(b) or, where the foreign application (or the earliest foreign application) is rejected or withdrawn, a period of 2 years after such rejection or withdrawal, in which to furnish any necessary information, document or material required for the purpose of the examination under section 17 to the Registrar or a local prescribed examination authority, as the case may be, or an examination report under section 18 to the Registrar.
 
+[HK Plant Ord. 1997, s. 20]
+
 ### Publication
 
 15\. The Registrar shall publish the following information in the prescribed manner at regular intervals:
 
-(a) applications for grants of protection;
+(a) applications for grant of protection;
 
 (b) registrations of denominations for protected varieties;
 
-(c) withdrawals of applications for grants of protection;
+(c) withdrawals of applications for grant of protection;
 
-(d) rejections of applications for grants of protection;
+(d) rejections of applications for grant of protection;
 
 (e) grants of protection made;
 
@@ -386,15 +380,19 @@ the breeder may, when making the application under this Act, claim a right of pr
 
 (i) any other matters which the Registrar thinks fit.
 
+[UPOV Model Law 1996, Art. 30]
+
 ### Objections to denomination and grant of protection
 
-16\.—(1) Any person may, within the prescribed period after the publication of a denomination, by notice in writing to the Registrar object to the approval of that denomination.
+16\.—(1) Any person may, within the prescribed period after the publication of a denomination, by notice in writing to the Registrar, object to the approval of that denomination.
 
 (2) Any person may, within the prescribed period after the publication of an application for a grant of protection for a plant variety, by notice in writing to the Registrar, object to the making of a grant in respect of that plant variety on the ground that the plant variety is not new within the meaning of section 22.
 
 (3) The Minister may make rules to provide for objection proceedings and for matters relating thereto.
 
 (4) If a person who neither resides nor carries on business in Singapore makes an objection under this section, the Registrar may require the person to give security for the costs of the proceedings and may, if security is not given, dismiss the proceedings.
+
+[HK Plant Ord. 1997, s. 14]
 
 ### Examination of plant variety
 
@@ -418,13 +416,15 @@ the breeder may, when making the application under this Act, claim a right of pr
 
 (c) where the candidate variety is found to meet the requirements in paragraphs (a) and (b), to establish an official description of the variety.
 
-(3) The Registrar or the local prescribed examination authority may, by way of written notice, request the applicant to furnish any further information, documents or propagating material of the candidate variety and of any similar plant variety in addition to any plant variety referred to in subsection (1)(a)(iii).
+(3) The Registrar or the local prescribed examination authority may, by way of written notice, request the applicant to furnish any further information, document or propagating material of the candidate variety and of any similar plant variety in addition to any plant variety referred to in subsection (1)(a)(iii).
 
 (4) Where the Registrar or the local prescribed examination authority has made a request for further information, documents or propagating material under subsection (3), the applicant shall —
 
-(a) furnish such information, documents or propagating material within the period stated in the written notice; or
+(a) furnish such information, document or propagating material within the period stated in the written notice; or
 
-(b) where such information, documents or propagating material is not available, notify the Registrar or the local prescribed examination authority, as the case may be, of this fact within that period.
+(b) where such information, document or propagating material is not available, notify the Registrar or the local prescribed examination authority, as the case may be, of this fact within that period.
+
+[HK Plant Ord. 1997, s. 13; UPOV Model Law 1996, Art. 37]
 
 ### Corresponding examination
 
@@ -432,7 +432,7 @@ the breeder may, when making the application under this Act, claim a right of pr
 
 (2) The Registrar may reject an examination report lodged under subsection (1), in which case the applicant shall comply with the provisions in section 17.
 
-### Withdrawal or lapse of applications
+### Withdrawal or lapse of application
 
 19\.—(1) Any application may be withdrawn by the applicant at any time before a grant of protection is made in respect of it.
 
@@ -440,15 +440,19 @@ the breeder may, when making the application under this Act, claim a right of pr
 
 (3) Where any information, document or material required to be given to the Registrar or a local prescribed examination authority under the provisions of this Act is not supplied within the period stated in the written notice issued by the Registrar or the local prescribed examination authority, as the case may be, requiring such information, document or material, the application concerned shall lapse upon the expiration of that period.
 
+[HK Plant Ord. 1997, s. 15]
+
 ### Provisional protection
 
 20\. Where a grant of protection for a plant variety has been made under section 21, the grantee shall have the right to take proceedings in respect of the protected variety under this Act as if the grant of protection had been made on the date the application for that grant of protection was published under section 15.
+
+[HK Plant Ord. 1997, s. 17; ICPNVP 1991, Art. 13]
 
 ## PART IV
 
 GRANT AND REVOCATION OF PROTECTION
 
-### Making of grants of protection
+### Making of grant of protection
 
 21\.—(1) The Registrar shall —
 
@@ -468,7 +472,9 @@ GRANT AND REVOCATION OF PROTECTION
 
 (iii) is satisfied that that plant variety is new, distinct, stable and uniform within the meaning of section 22.
 
-### Conditions for grants of protection
+[HK Plant Ord. 1997, s. 18; ICPNVP 1991, Arts. 6, 7, 8 and 9]
+
+### Conditions for grant of protection
 
 22\.—(1) For the purpose of sections 16(2), 21(2)(b)(iii) and 25(2)(a) —
 
@@ -514,6 +520,8 @@ no account shall be taken of any sale or disposal under that arrangement.
 
 shall be deemed to render that plant variety a matter of common knowledge from the date of application, provided that the application leads to a grant of protection in respect of that plant variety or to the entering of that plant variety in the official register of plant varieties, as the case may be.
 
+[HK Plant Ord. 1997, s. 18]
+
 ### Varieties bred or discovered and developed by 2 or more persons independently
 
 23\. Where —
@@ -526,6 +534,8 @@ shall be deemed to render that plant variety a matter of common knowledge from t
 
 the Registrar shall make a grant of protection to the applicant whose application was made first.
 
+[HK Plant Ord. 1997, s. 19]
+
 ### Term of grant of protection
 
 24\.—(1) The Registrar shall endorse on every grant of protection the date of the grant of protection.
@@ -534,7 +544,9 @@ the Registrar shall make a grant of protection to the applicant whose applicatio
 
 (3) The grantee shall during the term of the grant of protection pay an annual fee of a prescribed amount and furnish such information as the Registrar may require in the prescribed manner and within the prescribed period.
 
-### Grounds of invalidity of grants of protection
+[ICPNVP 1991, Art. 19]
+
+### Grounds of invalidity of grant of protection
 
 25\.—(1) An application for a declaration of invalidity of any grant of protection on any ground referred to in subsection (2) may be made by any person to the Court.
 
@@ -548,7 +560,9 @@ the Registrar shall make a grant of protection to the applicant whose applicatio
 
 (3) The Registrar shall remove from the register any grant of protection which has been declared invalid by the Court under this section.
 
-### Cancellation of grants of protection
+[ICPNVP 1991, Art. 21]
+
+### Cancellation of grant of protection
 
 26\.—(1) An application for cancellation of any grant of protection may be made by any person —
 
@@ -567,6 +581,8 @@ the Registrar shall make a grant of protection to the applicant whose applicatio
 (3) A grant of protection shall be cancelled by the Court at any time during its term in the event that it is established that the plant variety is no longer stable or uniform within the meaning of section 22(1)(c) or (d), respectively.
 
 (4) The Registrar shall remove from the register any grant of protection which has been cancelled under this section.
+
+[HK Plant Ord. 1997, s. 24; ICPNVP 1991, Art. 22]
 
 ### Renunciation of grantee’s right
 
@@ -612,7 +628,9 @@ and any reference in this Act to doing anything with, or without, the consent of
 
 (6) Every person shall be deemed to have notice of a licence if the prescribed particulars of the grant of the licence are entered in the register under section 42.
 
-(7) Subject to sections 31 and 32, the rights of a grantee under subsection (1) shall also apply to harvested material, including entire plants and parts of plants, obtained through the unauthorised use of propagating material of the plant variety unless the grantee has had a reasonable opportunity, before the harvested material was obtained, to exercise his rights in relation to the unauthorised use of the propagating material.
+(7) Subject to sections 31 and 32, the rights of a grantee under subsection (1) shall also apply to harvested material, including entire plants and parts of plants, obtained through the unauthorised use of propagating material of the protected variety unless the grantee has had a reasonable opportunity, before the harvested material was obtained, to exercise his rights in relation to the unauthorised use of the propagating material.
+
+[HK Plant Ord. 1997, s. 25; ICPNVP 1991 Art. 14 (1) and (2)]
 
 ### Essentially derived and certain other plant varieties
 
@@ -688,6 +706,8 @@ the Court may, in assessing damages for the infringement, award such additional 
 
 (ii) having been obtained in accordance with sub-paragraph (i), has subsequently been propagated or grown on those holdings.
 
+[HK Plant Ord. 1997, s. 26; ICPNVP 1991, Art. 15]
+
 ### Exhaustion of grant of protection
 
 32\.—(1) An act concerning —
@@ -715,6 +735,8 @@ AUTHORISATION AND COMPULSORY LICENCES
 ### Rights under authorisation
 
 33\. Where a person has been authorised to do any act referred to in section 28(1) by licence by a grantee, that person shall have the same rights as the grantee to take proceedings in respect of any infringement of the rights of that grantee in respect of the protected variety which affects any right given under that licence and committed after the authorisation was granted.
+
+[HK Plant Ord. 1997, s. 27]
 
 ### Compulsory licences
 
@@ -757,6 +779,8 @@ NOTICE OF PROTECTION
 shall take all reasonable steps, by means of suitable labeling or other identification of that material, to inform the purchaser of those rights.
 
 (3) In determining, for the purposes of section 30(4), whether or not any person had reasonable grounds for supposing that any action was an infringement of a grant of protection, the Court may take into account the extent, if any, to which a person referred to in subsection (1) or (2), as the case may be, has complied with that subsection in respect of any propagating material in relation to which that infringement occurred.
+
+[HK Plant Ord. 1997, s. 28]
 
 ## PART VIII
 
@@ -802,6 +826,8 @@ DENOMINATION
 
 (5) Where a person associates a trade mark, trade name or other similar indication with the registered denomination under subsection (4), the denomination must nevertheless be easily recognisable and distinct from the trade mark, trade name or other similar indication.
 
+[ICPNVP 1991, Art. 20; Sweden Plant Act 1997, Art. 1]
+
 ### Invalidation of registration of denomination
 
 38\.—(1) An application for a declaration of invalidity of a registered denomination may be made to the Court on the ground that it is registered in breach of section 36(3).
@@ -838,6 +864,8 @@ REGISTER OF PLANT VARIETIES
 
 (4) Any record of a particular or other matter made by using a computer used for the purpose of keeping the register, or any part of the register, is taken to be an entry in the register.
 
+[HK Plant Ord. 1997, s. 8]
+
 ### Inspection of and extract from register
 
 40\.—(1) The register shall be available at the Registry for inspection by any person during the hours when the Registry is open for business.
@@ -852,6 +880,8 @@ REGISTER OF PLANT VARIETIES
 
 (6) In this section, “certified copy” and “certified extract” mean a copy and extract certified by the Registrar and sealed with the seal of the Registrar.
 
+[Trade Marks 1999 Ed., s. 68]
+
 ### Rectification of register
 
 41\.—(1) Any person having a sufficient interest may apply to the Registrar for the rectification of an error or omission in the register.
@@ -863,6 +893,8 @@ REGISTER OF PLANT VARIETIES
 (4) The Registrar may make any correction in the register pursuant to any Court order affecting a grant of protection.
 
 (5) The Registrar may remove from the register any matter which appears to him to have ceased to have effect.
+
+[HK Plant Ord. 1997, s. 9]
 
 ### Changes reflected in register
 
@@ -886,6 +918,8 @@ upon receiving such information under section 24(3) or on request made in the pr
 
 (b) the entry in the register of any change in ownership of the rights in relation to the grant of protection shall be prima facie evidence of such change in ownership.
 
+[HK Plant Ord. 1997, s. 10]
+
 ## PART X
 
 OFFENCES
@@ -902,6 +936,8 @@ OFFENCES
 
 knowing or having reason to believe that the entry or thing, as the case may be, is false shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
 
+[Trade Marks 1999 Ed., s. 50]
+
 ### Falsely representing plant variety as protected variety
 
 45\. Any person who —
@@ -912,9 +948,13 @@ knowing or having reason to believe that the entry or thing, as the case may be,
 
 knowing or having reason to believe that the representation is false shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
+[Trade Marks 1999 Ed., s. 51]
+
 ### Misuse of denomination
 
 46\. Any person who wilfully or negligently acts in contravention of section 37(1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[HK Plant Ord. 1997, s. 40]
 
 ## PART XI
 
@@ -938,6 +978,8 @@ MISCELLANEOUS
 
 (c) a decision of the Registrar approving or disapproving a proposed denomination.
 
+[HK Plant Ord. 1997, s. 6]
+
 ### Forms and directions of Registrar
 
 49\. The Minister may make rules for the publication by the Registrar of —
@@ -953,6 +995,8 @@ MISCELLANEOUS
 (2) The Minister may make rules as to the remission of fees under prescribed circumstances.
 
 (3) All fees collected shall be paid into the funds of the Registry.
+
+[Trade Marks 1999 Ed., s. 77]
 
 ### Hours of business and excluded days
 
@@ -982,6 +1026,8 @@ MISCELLANEOUS
 
 may be prescribed for different classes of business.
 
+[Trade Marks 1999 Ed., s. 78]
+
 ### Composition of offences
 
 52\.—(1) The Registrar or any person authorised by him in writing may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
@@ -989,6 +1035,8 @@ may be prescribed for different classes of business.
 (2) The Registry may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
 
 (3) All sums collected under this section shall be paid to the Registry.
+
+[HK Plant Ord. 1997, s. 42]
 
 ### Jurisdiction of court
 
@@ -1024,7 +1072,7 @@ may be prescribed for different classes of business.
 
 (j) prescribing the mode of publishing any matters required by this Act to be published;
 
-(k) prescribing the requirements to be met in selecting the denominations of plant varieties, and providing for the approval or rejection by the Registrar of any denomination or the amendment to any denomination; and
+(k) prescribing the requirements to be met in selecting the denomination of plant varieties, and providing for the approval or rejection by the Registrar of any denomination or the amendment to any denomination; and
 
 (l) prescribing fees and charges for the purposes of this Act.
 
@@ -1066,7 +1114,7 @@ Aranthera
 
 Phalaenopsis Blume
 
-Phaleonopsis
+Phalaenopsis
 
 Renantanda
 
@@ -1104,3 +1152,70 @@ Brassica chinensis var parachinensis
 
 Caixin
 
+## LEGISLATIVE SOURCE KEY
+
+Plant Varieties Protection Act
+
+(CHAPTER 232A)
+
+Notes:—Unless otherwise stated, the abbreviations used in the references to other Acts and statutory provisions are references to the following Acts and statutory provisions. The references are provided for convenience and are not part of the Act:
+
+Aust. Plant Act 1994
+
+:
+
+Australia, Plant Breeder’s Rights Act 1994
+
+HK Plant Ord. 1997
+
+:
+
+Hong Kong, Plant Varieties Protection Ordinance (Chapter 490, 1997 Ed.)
+
+ICPNVP 1991
+
+:
+
+International Convention for the Protection of New Varieties of Plants 1991
+
+UPOV Model Law 1996
+
+:
+
+Model Law on the Protection of New Varieties of Plants by UPOV, 1996
+
+Sweden Plant Act 1997
+
+:
+
+Sweden, Act on the Protection of Plant Breeders’ Rights, 1997
+
+Patents 1995 Ed.
+
+:
+
+Singapore Patents Act (Chapter 221, 1995 Revised Edition)
+
+Trade Marks 1999 Ed.
+
+:
+
+Singapore Trade Marks Act (Chapter 332, 1999 Revised Edition)
+
+## LEGISLATIVE HISTORY
+
+Plant Varieties Protection Act
+
+(CHAPTER 232A)
+
+This Legislative History is provided for the convenience of users of the Plant Varieties Protection Act. It is not part of this Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 22 of 2004—Plant Varieties Protection Act 2004**|
+||Date of First Reading|19 May 2004|
+|||(Bill No. 21/2004 published on 20 May 2004)|
+||Date of Second and Third Readings|15 June 2004|
+||Date of commencement|1 July 2004|
+|2.|**2006 Revised Edition—Plant Varieties Protection Act**|
+||Date of operation|31 January 2006|
