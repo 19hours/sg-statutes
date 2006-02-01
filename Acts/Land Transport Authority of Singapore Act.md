@@ -1258,9 +1258,7 @@ Specified Acts
 
 1\. Section 17 of the Customs Act [Cap. 70].
 
-2\. Section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189) and rules 9 and 10 of the Motor Vehicles (Third-Party Risks and Compensation) Rules (Cap. 189, R 1).
-
-2.
+2. Section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189) and rules 9 and 10 of the Motor Vehicles (Third-Party Risks and Compensation) Rules (Cap. 189, R 1).
 
 [S 590/2004 wef 24/09/2004]
 
@@ -1268,7 +1266,19 @@ Specified Acts
 
 4\. All provisions of the Rapid Transit Systems Act [Cap. 263A] and any subsidiary legislation made thereunder.
 
-5\. All provisions of the Road Traffic Act [Cap. 276] and any subsidiary legislation made thereunder which are carried out or administered by the Registrar of Vehicles.
+5\. All provisions of the Road Traffic Act [Cap. 276] and any subsidiary legislation made thereunder which are carried out or administered by the Authority.
+
+5A. The following subsidiary legislation made under the Road Traffic Act:
+
+(a) rules 10, 22, 24A, 24B, 25 and 28 of the Road Traffic Rules (Cap. 276, R 20);
+
+(b) rules 8 and 9 of the Road Traffic (Expressway Traffic) Rules (Cap. 276, R 23);
+
+(c) rules 9 and 10 of the Road Traffic (Pedestrian Crossings) Rules (Cap. 276, R 24); and
+
+(d) rule 8 of the Road Traffic (Traffic Signs) Rules (Cap. 276, R 33).
+
+[S 63/2006 wef 01/02/2006]
 
 6\. All provisions of the Street Works Act [Cap. 320A] and any subsidiary legislation made thereunder.
 
@@ -1318,3 +1328,5 @@ This Legislative History is provided for the convenience of users of the Land Tr
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|9.|**G. N. No. S 63/2006—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2006**|
+||Date of commencement|1 February 2006|
