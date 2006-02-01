@@ -380,7 +380,7 @@ PRELIMINARY
 
 “trust” does not include the duties incident to an estate conveyed by way of mortgage, but with this exception “trust” and “trustee” extend to implied and constructive trusts, and to cases where the trustee has a beneficial interest in the trust property, and to the duties incident to the office of a personal representative, and “trustee” where the context admits includes a personal representative, and “new trustee” includes an additional trustee;
 
-“1trust corporation” means the Public Trustee or a corporation either appointed by the court in any particular case to be a trustee, or registered as a trust company under the Trust Companies Act (Cap. 336);
+“1trust corporation” means the Public Trustee or a corporation either appointed by the court in any particular case to be a trustee, or licensed as a trust company under the Trust Companies Act 2005;
 
 [11/2005 wef 01/02/2006]
 
@@ -1314,7 +1314,7 @@ A person who is authorised under section 41B to exercise the general power of in
 
 (c) the management of property which is subject to the trust and the disposal of, or the creation or disposal of an interest in, such property.
 
-[[UK Trustee 2000, s. 15] ]
+[UK Trustee 2000, s. 15]
 
 [45/2004]
 
@@ -1522,7 +1522,7 @@ Review of and liability for agents, nominees and custodians, etc.
 
 (b) when carrying out his duties under section 41M in so far as they relate to the use of the substitute.
 
-[[UK Trustee 2000, s. 23] ]
+[UK Trustee 2000, s. 23]
 
 [45/2004]
 
@@ -2362,7 +2362,7 @@ Reversionary interests, valuations and audit
 
 (b) when exercising any corresponding power, however conferred.
 
-[[UK Trustee 2000, Sch. 1] ]
+[UK Trustee 2000, Sch. 1]
 
 [45/2004]
 
@@ -2570,6 +2570,11 @@ This Legislative History is provided for the convenience of users of the Trustee
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
+|27.|**Act 11 of 2005—Trust Companies Act 2005**|
+||Date of First Reading|25 January 2005|
+|||(Bill No. 1/2005 published on 26 January 2005)|
+||Date of Second and Third Readings|18 February 2005|
+||Date of commencement|1 February 2006|
 ## COMPARATIVE TABLE
 
 Trustees Act
