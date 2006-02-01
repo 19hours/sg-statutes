@@ -202,9 +202,9 @@ PRELIMINARY
 
 “converted society” means any Singapore society which, being the owner of an estate or interest in any residential property, whether purchased or acquired before, on or after 11th September 1973 ceases to be a Singapore society and becomes a society within the meaning of this Act on or after 1st October 19762, by reason of its —
 
-(a) admitting, allowing or having as a member any individual who is not a citizen or any society, the majority of whose members are not citizens or all of whose trustees are not citizens or trust companies registered under the Trust Companies Act [Cap. 336]; or
+(a) admitting, allowing or having as a member any individual who is not a citizen or any society, the majority of whose members are not citizens or all of whose trustees are not citizens or trust companies licensed under the Trust Companies Act 2005; or
 
-(b) appointing as a trustee either a member who is not a citizen or a company which is not a trust company registered under the Trust Companies Act;
+(b) appointing as a trustee either a member who is not a citizen or a company which is not a trust company licensed under the Trust Companies Act 2005;
 
 2Date on which this Act was published in theGazette.
 
@@ -320,7 +320,7 @@ but does not include —
 
 [17/2005 wef 15/07/2005]
 
-“Singapore society” means any society, trade union, co-operative society, mutual benefit organisation or other organisation formed or constituted in Singapore and registered or exempted from registration under any written law, all of whose members are citizens and all of whose trustees are either citizens or a trust company registered under the Trust Companies Act [Cap. 336];
+“Singapore society” means any society, trade union, co-operative society, mutual benefit organisation or other organisation formed or constituted in Singapore and registered or exempted from registration under any written law, all of whose members are citizens and all of whose trustees are either citizens or a trust company licensed under the Trust Companies Act 2005;
 
 “society” means —
 
@@ -746,7 +746,7 @@ shall file with the Controller on or before 1st July of each year a statutory de
 
 (a) that no person other than a citizen shall be a member of the society; and
 
-(b) that no person other than a citizen or a trust company registered under the Trust Companies Act [Cap. 336] shall be appointed as a trustee of the society.
+(b) that no person other than a citizen or a trust company licensed under the Trust Companies Act 2005 shall be appointed as a trustee of the society.
 
 (2) A Singapore society shall, prior to the vesting of any estate or interest in any residential property in the trustees of the society, file with the Registrar of Societies and the Controller a copy of its constitution or rules including any amendments made thereto together with a list of its trustees and members containing the particulars of their nationality and such other particulars as the Controller may require.
 
@@ -766,7 +766,7 @@ shall file with the Controller on or before 1st July of each year a statutory de
 
 (b) all the members of the society are citizens; and
 
-(c) the trustees of the society are either citizens or a trust company registered under the Trust Companies Act [Cap. 336].
+(c) the trustees of the society are either citizens or a trust company licensed under the Trust Companies Act 2005.
 
 ### Every transfer of land to specify citizenship status of purchaser or place of registration or incorporation of a body corporate
 
@@ -1584,3 +1584,9 @@ This Legislative History is provided for the convenience of users of the Residen
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (Item (30) in First Schedule — Amendment of Residential Property Act)|
+|12.|**Act 11 of 2005—Trust Companies Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 January 2005|
+|||(Bill No. 1/2005 published on 26 January 2005)|
+||Date of Second and Third Readings|18 February 2005|
+||Date of commencement|1 February 2006|
