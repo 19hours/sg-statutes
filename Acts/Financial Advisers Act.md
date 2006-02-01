@@ -1120,9 +1120,13 @@ from using the words “life insurance broker” together with the word “repre
 
 (f) such other persons or classes of persons as may be prescribed.
 
-(4) Subject to the provision of this Act, sections 25 to 29, 32, 33, 34 and 36 shall apply, with the necessary modifications, to an exempt financial adviser (other than a person referred to in subsection (1) (ea) or (f)) in respect of its business of providing any financial advisory service as if it is a licensed financial adviser.
+(2) [Deleted by Act 2 of 2005 wef 01/07/2005]
 
-(5) Subject to the provisions of this Act, sections 12, 25, 26, 27, 29, 33, 34 and 36 shall apply, with the necessary modifications, to a representative of an exempt financial adviser (other than a person referred to in subsection (1) (ea) or (f)) in respect of his acting as such as if he is a licensed representative.
+(3) [Deleted by Act 2 of 2005 wef 01/07/2005]
+
+(4) Subject to the provision of this Act, sections 25 to 29, 32, 33, 34 and 36 shall apply, with the necessary modifications, to an exempt financial adviser (other than a person referred to in subsection (1)(ea) or (f)) in respect of its business of providing any financial advisory service as if it is a licensed financial adviser.
+
+(5) Subject to the provisions of this Act, sections 12, 25, 26, 27, 29, 33, 34 and 36 shall apply, with the necessary modifications, to a representative of an exempt financial adviser (other than a person referred to in subsection (1)(ea) or (f)) in respect of his acting as such as if he is a licensed representative.
 
 (5A) Subject to the provisions of this Act, sections 25, 26 and 36 shall apply, with the necessary modifications, to —
 
@@ -1190,7 +1194,13 @@ General
 
 ### Restriction on granting unsecured advances, loans, or credit facilities to director, etc., of licensed financial adviser
 
-24\.—(3) No licensed financial adviser shall grant any unsecured advance, unsecured loan or unsecured credit facility —
+24\. 
+
+—(1) [Deleted by Act 2 of 2005 wef 01/07/2005]
+
+(2) [Deleted by Act 2 of 2005 wef 01/07/2005]
+
+(3) No licensed financial adviser shall grant any unsecured advance, unsecured loan or unsecured credit facility —
 
 (a) to a director of the licensed financial adviser, other than a director who is its employee; or
 
@@ -1624,11 +1634,15 @@ Audit
 
 and the licensed financial adviser shall comply with such direction.
 
+(4) [Deleted by Act 2 of 2005 wef 01/07/2005]
+
 (5) Any licensed financial adviser which contravenes subsection (1)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 for every day or part thereof that the lodgment is late, subject to a maximum of $50,000.
 
 (6) Any licensed financial adviser which contravenes any condition imposed under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
 (7) Any licensed financial adviser which contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+(8) [Deleted by Act 2 of 2005 wef 01/07/2005]
 
 ### Reports by auditor to Authority in certain cases
 
@@ -2778,7 +2792,7 @@ Excluded Financial Advisers
 
 whose carrying on of the business of providing any financial advisory service is solely incidental to his legal or accounting practice, as the case may be.
 
-2\. Any company registered under the Trust Companies Act (Cap. 336) whose carrying on of the business of providing any financial advisory service is solely incidental to its carrying on of the business for which it is registered under that Act.
+2\. Any company licensed under the Trust Companies Act 2005 whose carrying on of the business of providing any financial advisory service is solely incidental to its carrying on of the business for which it is registered under that Act.
 
 3. Any person who is the proprietor of a newspaper and holder of a permit issued under the Newspaper and Printing Presses Act (Cap. 206), where— 
 
@@ -2903,6 +2917,12 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 47/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|1 July 2005|
+|7.|**Act 11 of 2005—Trust Companies Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 January 2005|
+|||(Bill No. 1/2005 published on 26 January 2005)|
+||Date of Second and Third Readings|18 February 2005|
+||Date of commencement|1 February 2006|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
