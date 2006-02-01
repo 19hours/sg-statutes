@@ -4364,7 +4364,7 @@ as the Authority may require for the proper administration of this Act.
 
 of an approved holding company without first obtaining the approval of the Authority.
 
-(3) In subsection (2)—
+(3) In subsection (2) —
 
 “12% controller” means a person, not being a 20% controller, who alone or together with his associates —
 
@@ -9710,7 +9710,7 @@ This offer is made in reliance on the exemption under section 272A(1) of the Sec
 
 (C) an exempt person in respect of dealing in securities;
 
-(D) a person licensed under the Financial Advisers Act (Cap. 110) in respect of the provision of financial advisory services concerning investment products;
+(D) a person licensed under the Financial Advisers Act (Cap.110) in respect of the provision of financial advisory services concerning investment products;
 
 (E) an exempt financial adviser as defined in section 2(1) of the Financial Advisers Act; or
 
@@ -12152,7 +12152,7 @@ but does not include any capacity of a person to influence decisions on the fina
 
 (a) a profile statement; or
 
-(b) any material, advertisement or publication which is authorised by section 300 (other than subsection (3)), ;
+(b) any material, advertisement or publication which is authorised by section 300 (other than subsection (3));
 
 “recognised securities exchange” means a corporation which has been declared by the Authority, by order published in theGazette, to be a recognised securities exchange for the purposes of this Division;
 
@@ -14798,7 +14798,7 @@ Section 82(2)
 
 Specified Persons
 
-1\. Any company registered under the Trust Companies Act (Cap. 336) whose carrying on of the business in that regulated activity is solely incidental to its carrying on of the business for which it is registered under that Act.
+1\. Any company licensed under the Trust Companies Act 2005 whose carrying on of the business in that regulated activity is solely incidental to its carrying on of the business for which it is registered under that Act.
 
 2\. Any public statutory corporation established under any Act in Singapore.
 
@@ -15008,6 +15008,13 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of commencement|1 July 2005|
 |||1 January 2006|
 |||30 January 2006|
+|||1 April 2006|
+|12.|**Act 11 of 2005—Trust Companies Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 January 2005|
+|||(Bill No. 1/2005 published on 26 January 2005)|
+||Date of Second and Third Readings|18 February 2005|
+||Date of commencement|1 February 2006|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
