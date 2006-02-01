@@ -320,11 +320,15 @@ GRANT OF PROBATE OR LETTERS OF ADMINISTRATION
 
 (5) This section shall apply to grants made after 1st January 1935 whether the testator or intestate died before or after that date.
 
-(6) For the purposes of this section, “trust corporation” means the Public Trustee or a corporation registered as a trust company under the Trust Companies Act (Cap. 336).
+(6) For the purposes of this section, “trust corporation” means the Public Trustee or a corporation licensed as a trust company under the Trust Companies Act 2005.
+
+[11/2005 wef 01/02/2006]
 
 ### Notation of domicile
 
 7\.—(1) A probate applicant may at any time apply to the registrar by summons intituled in the estate of the deceased person for an order that a notation be endorsed on the grant that the deceased person died domiciled in Singapore.
+
+[42/2005 wef 01/01/2006]
 
 (2) The registrar, on being satisfied by affidavit and by such further evidence as he may require that the testator or intestate died domiciled in Singapore, may write and sign a note or memorandum upon such grant stating that the testator or intestate died domiciled in Singapore.
 
@@ -466,9 +470,13 @@ Letters of administration during lunacy
 
 ### Lunatics
 
-22\.—(1) No probate or letters of administration shall be granted to a lunatic or person of unsound mind.
+22\.—(1) No probate or letters of administration shall be granted to a lunatic or mentally disordered person.
 
-(2) Where any such person, if of sound mind, would be entitled to probate or letters of administration, letters of administration with or without the will annexed may be granted to the person to whom the care of his estate has been lawfully committed, or to such person as the court thinks fit, for the use and benefit of the lunatic or person of unsound mind, until he becomes of sound mind and obtains a grant to himself.
+[21/2008 wef 01/03/2010]
+
+(2) Where any such person, if he is not mentally disordered, would be entitled to probate or letters of administration, letters of administration with or without the will annexed may be granted to the person to whom the care of his estate has been lawfully committed, or to such person as the court thinks fit, for the use and benefit of the lunatic or mentally disordered person, until he ceases to be mentally disordered and obtains a grant to himself.
+
+[21/2008 wef 01/03/2010]
 
 Letters of administration limited to trust property
 
@@ -508,7 +516,9 @@ OATH
 
 28\.—(1) Upon the grant of any probate or letters of administration, the grantee shall take an oath in the prescribed form, faithfully to administer the estate and to account for the same.
 
-(2) Subsection (1) shall not apply where the grantee is the Public Trustee, or a trust company.
+(2) Subsection (1) shall not apply where the grantee is the Public Trustee or a trust company.
+
+[6/2004 wef 08/03/2004]
 
 ## PART V
 
@@ -523,6 +533,8 @@ SECURITY
 (3) The court or a judge or any registrar whom the Chief Justice may specially appoint for that purpose may for any sufficient reason increase or decrease the number of the sureties, or dispense with them, or reduce the amount of the bond.
 
 (4) Where the Public Trustee has obtained a grant of letters of administration, he shall not be required to give security.
+
+[6/2004 wef 08/03/2004]
 
 (5) When the administrator is entitled to the whole of the estate after payment of the debts, sureties in the bond may ordinarily be dispensed with.
 
@@ -556,6 +568,8 @@ CAVEATS
 
 (2) After entry of any such caveat no such grant shall be made until the caveator has been given opportunity to contest the right of any probate applicant to a grant.
 
+[42/2005 wef 01/01/2006]
+
 ## PART VIII
 
 DISTRICT COURTS
@@ -573,6 +587,8 @@ DISTRICT COURTS
 ### Grants in excess of jurisdiction not to be invalid
 
 35\.—(1) No probate or letters of administration granted by a District Court shall be invalid by reason of the assets and effects of the deceased being subsequently found to be of a value which exceeds the District Court limit.
+
+[42/2005 wef 01/01/2006]
 
 (2) The grantee shall be —
 
@@ -932,6 +948,8 @@ and no person is present in Singapore at the time of his death who is rightfully
 
 65\.—(1) Where any trust money in the hands of the Public Trustee is normally insufficient to earn bank interest if kept in a bank current account the money may be kept in a general banking account or deposited in any bank.
 
+[6/2004 wef 08/03/2004]
+
 (2) Any interest allowed by the bank shall be paid into the Consolidated Fund.
 
 ### Executors’ or administrators’ commission
@@ -1169,6 +1187,12 @@ This Legislative History is provided for the convenience of users of the Probate
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
+|19.|**Act 11 of 2005—Trust Companies Act 2005**|
+||(Consequential amendments made by)||
+||Date of First Reading|25 January 2005|
+|||(Bill No. 1/2005 published on 26 January 2005)|
+||Date of Second and Third Readings|18 February 2005|
+||Date of commencement|1 February 2006|
 ## COMPARATIVE TABLE
 
 Probate and Administration Act
