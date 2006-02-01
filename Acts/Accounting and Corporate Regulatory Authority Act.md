@@ -718,7 +718,7 @@ Written Laws Administered and Enforced by Authority
 
 3\. Companies Act (Cap. 50).
 
-4\. Trust Companies Act (Cap. 336).
+4\.Deleted by Act 11/2005, wef 01/02/2006.
 
 5\. Limited Liability Partnerships Act (Act 5 of 2005).
 
@@ -823,6 +823,12 @@ This Legislative History is provided for the convenience of users of the Account
 ||Date of commencement|11 April 2005|
 |4.|**2005 Revised Edition—Accounting and Corporate Regulatory Authority Act**|
 ||Date of operation|31 July 2005|
+|5.|**Act 11 of 2005—Trust Companies Act 2005**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|25 January 2005|
+|||(Bill No. 1/2005 published on 26 January 2005)|
+||Date of Second and Third Readings|18 February 2005|
+||Date of commencement|1 February 2006|
 ## COMPARATIVE TABLE
 
 Accounting and Corporate Regulatory Authority Act
